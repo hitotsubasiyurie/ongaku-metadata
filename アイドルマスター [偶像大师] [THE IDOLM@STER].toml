@@ -4173,18 +4173,15 @@ catalognumber = "PRCL-10212"
 date = "2022-07-06"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! MerryMaerchen Land & Celebration Land SPECIAL LIVE ALBUM Disc 1 [PRCL-10212]"
 tracks = [
-    [0, "01 \r\nかぼちゃ姫", "", ""],
-    [0, "02 \r\nHeart Voice", "", ""],
-    [0, "03 \r\nPalette", "", ""],
-    [0, "04 \r\nFascinate", "", ""],
-    [0, "05 \r\nTHE VILLAIN'S NIGHT", "", ""],
-    [0, "06 \r\nアンデッド・ダンスロック", "", ""],
-    [0, "07 \r\nHungry Bambi", "", ""],
-    [0, "08 \r\nオルゴールの小箱", "", ""],
-    [0, "09 \r\nShine!!", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! MerryMaerchen Land テーマソング「MerryMaerchen Land」", "", ""],
-    [2, "MerryMaerchen Land Non Stop LIVE MIX", "", ""],
-]
+    [1, "かぼちゃ姫", "", ""],
+    [2, "Heart Voice", "", ""],
+    [3, "Palette", "", ""],
+    [4, "Fascinate", "", ""],
+    [5, "THE VILLAIN'S NIGHT", "", ""],
+    [6, "アンデッド・ダンスロック", "", ""],
+    [7, "Hungry Bambi", "", ""],
+    [8, "オルゴールの小箱", "", ""],
+    [9, "Shine!!", "", ""],]
 links = ["https://vgmdb.net/album/119455"]
 
 [228]
@@ -4192,18 +4189,16 @@ catalognumber = "PRCL-10213"
 date = "2022-07-06"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! MerryMaerchen Land & Celebration Land SPECIAL LIVE ALBUM Disc 2 [PRCL-10213]"
 tracks = [
-    [0, "01 \r\nYes! Party Time!!", "", ""],
-    [0, "02 \r\n義勇忍侠花吹雪", "", ""],
-    [0, "03 \r\nGossip Club", "", ""],
-    [0, "04 \r\nJust Us Justice", "", ""],
-    [0, "05 \r\n∀NSWER", "", ""],
-    [0, "06 \r\nLet's Sail Away!!!", "", ""],
-    [0, "07 \r\nキセキの証", "", ""],
-    [0, "08 \r\nキミのそばでずっと", "", ""],
-    [0, "09 \r\nススメ☆オトメ ～jewel parade～", "", ""],
-    [0, "10 \r\nEVERLASTING", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! Celebration Land テーマソング「Celebration Land」", "", ""],
-    [2, "Celebration Land Non Stop LIVE MIX", "", ""],
+    [1, "Yes! Party Time!!", "", ""],
+    [2, "義勇忍侠花吹雪", "", ""],
+    [3, "Gossip Club", "", ""],
+    [4, "Just Us Justice", "", ""],
+    [5, "∀NSWER", "", ""],
+    [6, "Let's Sail Away!!!", "", ""],
+    [7, "キセキの証", "", ""],
+    [8, "キミのそばでずっと", "", ""],
+    [9, "ススメ☆オトメ ～jewel parade～", "", ""],
+    [10, "EVERLASTING", "", ""],
 ]
 links = ["https://vgmdb.net/album/119455"]
 
@@ -9021,20 +9016,18 @@ catalognumber = "PRCL-10194"
 date = "2020-06-17"
 album = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Funky Dancing! @NAGOYA DOME SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nミラーボール・ラブ (Day2)", "", ""],
-    [0, "02 \r\n未完成の歴史 (Day2)", "", ""],
-    [0, "03 \r\n夢をのぞいたら (Day1)", "", ""],
-    [0, "04 \r\nサニードロップ (Day1)", "", ""],
-    [0, "05 \r\nとんでいっちゃいたいの (Day1)", "", ""],
-    [0, "06 \r\nバベル (Day1)", "", ""],
-    [0, "07 \r\nSecret Daybreak (Day2)", "", ""],
-    [0, "08 \r\nNeedle Light (Day1)", "", ""],
-    [0, "09 \r\nスパイスパラダイス (Day2)", "", ""],
-    [0, "10 \r\nEZ DO DANCE (Day1)", "", ""],
-    [0, "11 \r\nYes! Party Time!! (Day1)", "", ""],
-    [0, "12 \r\nお願い! シンデレラ (Day2)", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE テーマソング Special 3chord♪ Funky Dancing!", "", ""],
-    [2, "ノンストップLIVE MIX", "", ""],
+    [1, "ミラーボール・ラブ (Day2)", "", ""],
+    [2, "未完成の歴史 (Day2)", "", ""],
+    [3, "夢をのぞいたら (Day1)", "", ""],
+    [4, "サニードロップ (Day1)", "", ""],
+    [5, "とんでいっちゃいたいの (Day1)", "", ""],
+    [6, "バベル (Day1)", "", ""],
+    [7, "Secret Daybreak (Day2)", "", ""],
+    [8, "Needle Light (Day1)", "", ""],
+    [9, "スパイスパラダイス (Day2)", "", ""],
+    [10, "EZ DO DANCE (Day1)", "", ""],
+    [11, "Yes! Party Time!! (Day1)", "", ""],
+    [12, "お願い! シンデレラ (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/98006"]
 
@@ -13351,20 +13344,19 @@ catalognumber = "PRCL-10150"
 date = "2018-08-08"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! SPECIAL LIVE ALBUM Vol.2"
 tracks = [
-    [0, "01 \r\nOpening「Serendipity Parade!!!」 (静岡公演より)", "", ""],
-    [0, "02 \r\nYes! Party Time!! (静岡公演より)", "", ""],
-    [0, "03 \r\nハイファイ☆デイズ (静岡公演より)", "", ""],
-    [0, "04 \r\nshabon song (静岡公演より)", "", ""],
-    [0, "05 \r\nパステルピンクな恋 (静岡公演より)", "", ""],
-    [0, "06 \r\nSnow Wings (幕張公演より)", "", ""],
-    [0, "07 \r\nTake me☆Take you (幕張公演より)", "", ""],
-    [0, "08 \r\nSUN♡FLOWER (幕張公演より)", "", ""],
-    [0, "09 \r\nWith Love (幕張公演より)", "", ""],
-    [0, "10 \r\nオルゴールの小箱 (福岡公演より)", "", ""],
-    [0, "11 \r\nNothing but You (福岡公演より)", "", ""],
-    [0, "12 \r\nMemories (福岡公演より)", "", ""],
-    [0, "13 \r\n夕映えプレゼント (福岡公演より)", "", ""],
-    [1, "ノンストップLIVE MIX", "", ""],
+    [1, "Opening「Serendipity Parade!!!」 (静岡公演より)", "", ""],
+    [2, "Yes! Party Time!! (静岡公演より)", "", ""],
+    [3, "ハイファイ☆デイズ (静岡公演より)", "", ""],
+    [4, "shabon song (静岡公演より)", "", ""],
+    [5, "パステルピンクな恋 (静岡公演より)", "", ""],
+    [6, "Snow Wings (幕張公演より)", "", ""],
+    [7, "Take me☆Take you (幕張公演より)", "", ""],
+    [8, "SUN♡FLOWER (幕張公演より)", "", ""],
+    [9, "With Love (幕張公演より)", "", ""],
+    [10, "オルゴールの小箱 (福岡公演より)", "", ""],
+    [11, "Nothing but You (福岡公演より)", "", ""],
+    [12, "Memories (福岡公演より)", "", ""],
+    [13, "夕映えプレゼント (福岡公演より)", "", ""],
 ]
 links = ["https://vgmdb.net/album/92944"]
 
@@ -13460,20 +13452,19 @@ catalognumber = "PRCL-10151"
 date = "2018-08-29"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! SPECIAL LIVE ALBUM Vol.3"
 tracks = [
-    [0, "01 \r\nOpening「Serendipity Parade!!!」 (SSA DAY1公演より)", "", ""],
-    [0, "02 \r\n銀のイルカと熱い風 (SSA DAY1公演より)", "", ""],
-    [0, "03 \r\nKawaii make MY day! (SSA DAY1公演より)", "", ""],
-    [0, "04 \r\nSweet Witches' Night ～6人目はだぁれ～ (SSA DAY1公演より)", "", ""],
-    [0, "05 \r\n桜の頃 (SSA DAY1公演より)", "", ""],
-    [0, "06 \r\nNear to You (SSA DAY1公演より)", "", ""],
-    [0, "07 \r\nTreasure☆ (SSA DAY2公演より)", "", ""],
-    [0, "08 \r\nラブレター (SSA DAY2公演より)", "", ""],
-    [0, "09 \r\n情熱ファンファンファーレ (SSA DAY2公演より)", "", ""],
-    [0, "10 \r\nTulip (SSA DAY2公演より)", "", ""],
-    [0, "11 \r\n純情Midnight伝説 (SSA DAY2公演より)", "", ""],
-    [0, "12 \r\nサマカニ!! (SSA DAY2公演より)", "", ""],
-    [0, "13 \r\nお願い! シンデレラ (SSA DAY2公演より)", "", ""],
-    [1, "ノンストップLIVE MIX", "", ""],
+    [1, "Opening「Serendipity Parade!!!」 (SSA DAY1公演より)", "", ""],
+    [2, "銀のイルカと熱い風 (SSA DAY1公演より)", "", ""],
+    [3, "Kawaii make MY day! (SSA DAY1公演より)", "", ""],
+    [4, "Sweet Witches' Night ～6人目はだぁれ～ (SSA DAY1公演より)", "", ""],
+    [5, "桜の頃 (SSA DAY1公演より)", "", ""],
+    [6, "Near to You (SSA DAY1公演より)", "", ""],
+    [7, "Treasure☆ (SSA DAY2公演より)", "", ""],
+    [8, "ラブレター (SSA DAY2公演より)", "", ""],
+    [9, "情熱ファンファンファーレ (SSA DAY2公演より)", "", ""],
+    [10, "Tulip (SSA DAY2公演より)", "", ""],
+    [11, "純情Midnight伝説 (SSA DAY2公演より)", "", ""],
+    [12, "サマカニ!! (SSA DAY2公演より)", "", ""],
+    [13, "お願い! シンデレラ (SSA DAY2公演より)", "", ""],
 ]
 links = ["https://vgmdb.net/album/92945"]
 
@@ -13751,17 +13742,15 @@ catalognumber = "PRCL-10218"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land SPECIAL LIVE ALBUM Disc 1 [PRCL-10218]"
 tracks = [
-    [0, "01 \r\n星環世界", "", ""],
-    [0, "02 \r\n空想探査計画", "", ""],
-    [0, "03 \r\n未完成の歴史", "", ""],
-    [0, "04 \r\nさよならアンドロメダ", "", ""],
-    [0, "05 \r\nアタシポンコツアンドロイド", "", ""],
-    [0, "06 \r\nEVIL LIVE", "", ""],
-    [0, "07 \r\nDrastic Melody", "", ""],
-    [0, "08 \r\nStage Bye Stage", "", ""],
-    [0, "09 \r\nお願い! シンデレラ", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! テーマソング", "", ""],
-    [2, "CosmoStar Land Non Stop LIVE MIX", "", ""],
+    [1, "星環世界", "", ""],
+    [2, "空想探査計画", "", ""],
+    [3, "未完成の歴史", "", ""],
+    [4, "さよならアンドロメダ", "", ""],
+    [5, "アタシポンコツアンドロイド", "", ""],
+    [6, "EVIL LIVE", "", ""],
+    [7, "Drastic Melody", "", ""],
+    [8, "Stage Bye Stage", "", ""],
+    [9, "お願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/121430"]
 
@@ -13770,17 +13759,15 @@ catalognumber = "PRCL-10219"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land SPECIAL LIVE ALBUM Disc 2 [PRCL-10219]"
 tracks = [
-    [0, "01 \r\nトロピカルガール", "", ""],
-    [0, "02 \r\nいとしーさー♡", "", ""],
-    [0, "03 \r\nとんでいっちゃいたいの", "", ""],
-    [0, "04 \r\nさよならアロハ", "", ""],
-    [0, "05 \r\n夏恋 -NATSU KOI-", "", ""],
-    [0, "06 \r\nレッド・ソール", "", ""],
-    [0, "07 \r\nスパイスパラダイス", "", ""],
-    [0, "08 \r\nパ・リ・ラ", "", ""],
-    [0, "09 \r\nGo Just Go!", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! テーマソング", "", ""],
-    [2, "Tropical Land Non Stop LIVE MIX", "", ""],
+    [1, "トロピカルガール", "", ""],
+    [2, "いとしーさー♡", "", ""],
+    [3, "とんでいっちゃいたいの", "", ""],
+    [4, "さよならアロハ", "", ""],
+    [5, "夏恋 -NATSU KOI-", "", ""],
+    [6, "レッド・ソール", "", ""],
+    [7, "スパイスパラダイス", "", ""],
+    [8, "パ・リ・ラ", "", ""],
+    [9, "Go Just Go!", "", ""],
 ]
 links = ["https://vgmdb.net/album/121430"]
 
@@ -15583,9 +15570,6 @@ catalognumber = "BNEI-00081"
 date = "2022-04"
 album = "THE IDOLM@STER VOY@GER"
 tracks = [
-    [0, "01 \r\nOpening Credits", "", ""],
-    [0, "02 \r\nVOY@GER", "", ""],
-    [0, "03 \r\nEnding Credits", "", ""],
     [1, "THE IDOLM@STER VOY@GER", "", ""],
     [2, "SPECIAL INTERVIEW 中村繪里子 (天海春香 役)", "", ""],
     [3, "SPECIAL INTERVIEW 平田宏美 (菊地真 役)", "", ""],
@@ -16858,19 +16842,17 @@ catalognumber = "PRCL-10173"
 date = "2019-08-07"
 album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! @METLIFE DOME SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nイリュージョニスタ! (Day1)", "", ""],
-    [0, "02 \r\nHARURUNRUN (Day1)", "", ""],
-    [0, "03 \r\n桜の風 (Day1)", "", ""],
-    [0, "04 \r\nCoCo夏夏夏 Holiday (Day2)", "", ""],
-    [0, "05 \r\n銀のイルカと熱い風 (Day2)", "", ""],
-    [0, "06 \r\nいとしーさー♥ (Day2)", "", ""],
-    [0, "07 \r\nクレイジークレイジー (Day2)", "", ""],
-    [0, "08 \r\nアンデッド・ダンスロック (Day1)", "", ""],
-    [0, "09 \r\n凸凹スピードスター (Day2)", "", ""],
-    [0, "10 \r\n美に入り彩を穿つ (Day2)", "", ""],
-    [0, "11 \r\nStage bye Stage (Day2)", "", ""],
-    [1, "MERRY-GO-ROUNDOME!!! (Day1)", "", ""],
-    [2, "ノンストップLIVE MIX", "", ""],
+    [1, "イリュージョニスタ! (Day1)", "", ""],
+    [2, "HARURUNRUN (Day1)", "", ""],
+    [3, "桜の風 (Day1)", "", ""],
+    [4, "CoCo夏夏夏 Holiday (Day2)", "", ""],
+    [5, "銀のイルカと熱い風 (Day2)", "", ""],
+    [6, "いとしーさー♥ (Day2)", "", ""],
+    [7, "クレイジークレイジー (Day2)", "", ""],
+    [8, "アンデッド・ダンスロック (Day1)", "", ""],
+    [9, "凸凹スピードスター (Day2)", "", ""],
+    [10, "美に入り彩を穿つ (Day2)", "", ""],
+    [11, "Stage bye Stage (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/92949"]
 
@@ -28034,19 +28016,17 @@ catalognumber = "PRCL-10191"
 date = "2020-04-15"
 album = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Comical Pops! @MAKUHARI MESSE SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nVast World (Day1)", "", ""],
-    [0, "02 \r\ncomic cosmic (Day2)", "", ""],
-    [0, "03 \r\n秋めいて Ding Dong Dang! (Day2)", "", ""],
-    [0, "04 \r\nきゅん・きゅん・まっくす (Day1)", "", ""],
-    [0, "05 \r\nO-Ku-Ri-Mo-No Sunday! (Day2)", "", ""],
-    [0, "06 \r\nGossip Club (Day1)", "", ""],
-    [0, "07 \r\nto you for me (Day1)", "", ""],
-    [0, "08 \r\nBlooming Days (Day2)", "", ""],
-    [0, "09 \r\nTAKAMARI☆CLIMAXXX!!!!! (Day1)", "", ""],
-    [0, "10 \r\n無重力シャトル (Day1)", "", ""],
-    [0, "11 \r\nお願い!シンデレラ (Day2)", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE テーマソング Special 3chord♪ (Day1)", "", ""],
-    [2, "ノンストップLIVE MIX", "", ""],
+    [1, "Vast World (Day1)", "", ""],
+    [2, "comic cosmic (Day2)", "", ""],
+    [3, "秋めいて Ding Dong Dang! (Day2)", "", ""],
+    [4, "きゅん・きゅん・まっくす (Day1)", "", ""],
+    [5, "O-Ku-Ri-Mo-No Sunday! (Day2)", "", ""],
+    [6, "Gossip Club (Day1)", "", ""],
+    [7, "to you for me (Day1)", "", ""],
+    [8, "Blooming Days (Day2)", "", ""],
+    [9, "TAKAMARI☆CLIMAXXX!!!!! (Day1)", "", ""],
+    [10, "無重力シャトル (Day1)", "", ""],
+    [11, "お願い!シンデレラ (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/96430"]
 
@@ -34294,20 +34274,18 @@ catalognumber = "PRCL-10195"
 date = "2020-08-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Glowing Rock! @KYOCERA DOME OSAKA SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nガールズ・イン・ザ・フロンティア (Day1)", "", ""],
-    [0, "02 \r\nUnlock Starbeat (Day1)", "", ""],
-    [0, "03 \r\nØωØver!! -Heart Beat Version- (Day1)", "", ""],
-    [0, "04 \r\nオウムアムアに幸運を (Day2)", "", ""],
-    [0, "05 \r\n義勇忍侠花吹雪 (Day2)", "", ""],
-    [0, "06 \r\nGaze and Gaze (Day1)", "", ""],
-    [0, "07 \r\n薄荷 -ハッカ- (Acoustic Version) (Day1)", "", ""],
-    [0, "08 \r\nエヴリデイドリーム～マイ・スイート・ハネムーン (Acoustic Version) (Day2)", "", ""],
-    [0, "09 \r\nSun！High！Gold！ (Day2)", "", ""],
-    [0, "10 \r\nFascinate (Day2)", "", ""],
-    [0, "11 \r\n双翼の独奏歌 (Day2)", "", ""],
-    [0, "12 \r\nお願い！シンデレラ (Day2)", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE テーマソング Special 3chord♪ Glowing Rock! (Day1)", "", ""],
-    [2, "ノンストップLIVE MIX", "", ""],
+    [1, "ガールズ・イン・ザ・フロンティア (Day1)", "", ""],
+    [2, "Unlock Starbeat (Day1)", "", ""],
+    [3, "ØωØver!! -Heart Beat Version- (Day1)", "", ""],
+    [4, "オウムアムアに幸運を (Day2)", "", ""],
+    [5, "義勇忍侠花吹雪 (Day2)", "", ""],
+    [6, "Gaze and Gaze (Day1)", "", ""],
+    [7, "薄荷 -ハッカ- (Acoustic Version) (Day1)", "", ""],
+    [8, "エヴリデイドリーム～マイ・スイート・ハネムーン (Acoustic Version) (Day2)", "", ""],
+    [9, "Sun！High！Gold！ (Day2)", "", ""],
+    [10, "Fascinate (Day2)", "", ""],
+    [11, "双翼の独奏歌 (Day2)", "", ""],
+    [12, "お願い！シンデレラ (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/100581"]
 
@@ -40724,19 +40702,18 @@ catalognumber = "PRCL-10174"
 date = "2019-08-07"
 album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! @NAGOYA DOME SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nMERRY-GO-ROUNDOME!!! (Day1)", "", ""],
-    [0, "02 \r\nStarry-Go-Round (Day1)", "", ""],
-    [0, "03 \r\n秋風に手を振って (Day1)", "", ""],
-    [0, "04 \r\nさよならアンドロメダ (Day1)", "", ""],
-    [0, "05 \r\nSnow＊Love (Day2)", "", ""],
-    [0, "06 \r\nツインテールの風 (Day2)", "", ""],
-    [0, "07 \r\nSunshine See May (Day1)", "", ""],
-    [0, "08 \r\nLove∞Destiny (Day2)", "", ""],
-    [0, "09 \r\n∀NSWER (Day2)", "", ""],
-    [0, "10 \r\nTrinity Field (Day2)", "", ""],
-    [0, "11 \r\nalways (Day2)", "", ""],
-    [0, "12 \r\nお願い! シンデレラ (Day2)", "", ""],
-    [1, "ノンストップLIVE MIX", "", ""],
+    [1, "MERRY-GO-ROUNDOME!!! (Day1)", "", ""],
+    [2, "Starry-Go-Round (Day1)", "", ""],
+    [3, "秋風に手を振って (Day1)", "", ""],
+    [4, "さよならアンドロメダ (Day1)", "", ""],
+    [5, "Snow＊Love (Day2)", "", ""],
+    [6, "ツインテールの風 (Day2)", "", ""],
+    [7, "Sunshine See May (Day1)", "", ""],
+    [8, "Love∞Destiny (Day2)", "", ""],
+    [9, "∀NSWER (Day2)", "", ""],
+    [10, "Trinity Field (Day2)", "", ""],
+    [11, "always (Day2)", "", ""],
+    [12, "お願い! シンデレラ (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/92950"]
 
@@ -40788,19 +40765,17 @@ catalognumber = "PRCL-10251"
 date = "2024-03-06"
 album = "THE IDOLM@STER CINDERELLA GIRLS 燿城夜祭 -かがやきよまつり- SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nYes! Party Time!! (和太鼓アレンジ) (Day1)", "", ""],
-    [0, "02 \r\n全開!ミラクルアドベンチャー! (Day1)", "", ""],
-    [0, "03 \r\nハードボイルドウォーズ (Day2)", "", ""],
-    [0, "04 \r\n廻談詣り (Day1)", "", ""],
-    [0, "05 \r\nささのはに、うたかたに。 (Day2)", "", ""],
-    [0, "06 \r\nNightwear (Day2)", "", ""],
-    [0, "07 \r\nダンス・ダンス・ダンス (Day2)", "", ""],
-    [0, "08 \r\nN.O.R.～Notes of Revolution～革命についての覚書 (Day1)", "", ""],
-    [0, "09 \r\nおおさか!?狂騒曲 (Day2)", "", ""],
-    [0, "10 \r\n悠久星涼 (Day2)", "", ""],
-    [0, "11 \r\nサマーサイダー (Day1)", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 燿城夜祭 -かがやきよまつり- テーマソング（Day1）", "", ""],
-    [2, "燿城夜祭 -かがやきよまつり- Non Stop LIVE MIX", "", ""],
+    [1, "Yes! Party Time!! (和太鼓アレンジ) (Day1)", "", ""],
+    [2, "全開!ミラクルアドベンチャー! (Day1)", "", ""],
+    [3, "ハードボイルドウォーズ (Day2)", "", ""],
+    [4, "廻談詣り (Day1)", "", ""],
+    [5, "ささのはに、うたかたに。 (Day2)", "", ""],
+    [6, "Nightwear (Day2)", "", ""],
+    [7, "ダンス・ダンス・ダンス (Day2)", "", ""],
+    [8, "N.O.R.～Notes of Revolution～革命についての覚書 (Day1)", "", ""],
+    [9, "おおさか!?狂騒曲 (Day2)", "", ""],
+    [10, "悠久星涼 (Day2)", "", ""],
+    [11, "サマーサイダー (Day1)", "", ""],
 ]
 links = ["https://vgmdb.net/album/130224"]
 
@@ -41667,22 +41642,20 @@ catalognumber = "PRCL-10203"
 date = "2021-08-11"
 album = "THE IDOLM@STER CINDERELLA GIRLS Broadcast & LIVE Happy New Yell !!! SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nNever Ends (Day2)", "", ""],
-    [0, "02 \r\n幸せの法則～ルール～ (Day2)", "", ""],
-    [0, "03 \r\nギュっとMilky Way (Day1)", "", ""],
-    [0, "04 \r\nほほえみDiary (Day2)", "", ""],
-    [0, "05 \r\n印象 (Day2)", "", ""],
-    [0, "06 \r\nステップ&スキップ (Day2)", "", ""],
-    [0, "07 \r\n太陽の絵の具箱 (Day1)", "", ""],
-    [0, "08 \r\n躍るFLAGSHIP (Day2)", "", ""],
-    [0, "09 \r\nAthanasia (Day1)", "", ""],
-    [0, "10 \r\n君のステージ衣装、本当は... (Day1)", "", ""],
-    [0, "11 \r\nBrand new! (Day1)", "", ""],
-    [0, "12 \r\nJoker (Day2)", "", ""],
-    [0, "13 \r\nオタク is LOVE! (Day2)", "", ""],
-    [0, "14 \r\nWish you Happiness!! (Day2)", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS Broadcast ＆ LIVE Happy New Yell !!! テーマソング Happy New Yell !!!", "", ""],
-    [2, "THE IDOLM@STER CINDERELLA GIRLS Broadcast ＆ LIVE Happy New Yell !!! NONSTOP LIVE MIX", "", ""],
+    [1, "Never Ends (Day2)", "", ""],
+    [2, "幸せの法則～ルール～ (Day2)", "", ""],
+    [3, "ギュっとMilky Way (Day1)", "", ""],
+    [4, "ほほえみDiary (Day2)", "", ""],
+    [5, "印象 (Day2)", "", ""],
+    [6, "ステップ&スキップ (Day2)", "", ""],
+    [7, "太陽の絵の具箱 (Day1)", "", ""],
+    [8, "躍るFLAGSHIP (Day2)", "", ""],
+    [9, "Athanasia (Day1)", "", ""],
+    [10, "君のステージ衣装、本当は... (Day1)", "", ""],
+    [11, "Brand new! (Day1)", "", ""],
+    [12, "Joker (Day2)", "", ""],
+    [13, "オタク is LOVE! (Day2)", "", ""],
+    [14, "Wish you Happiness!! (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/111798"]
 
@@ -44417,17 +44390,16 @@ catalognumber = "PRCL-10134"
 date = "2017-08-30"
 album = "THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nとどけ! アイドル / from \"Starlight Castle Day1\"", "", ""],
-    [0, "02 \r\n純情Midnight伝説 / from \"Starlight Castle Day1\"", "", ""],
-    [0, "03 \r\nSnow Wings / from \"Starlight Castle Day2\"", "", ""],
-    [0, "04 \r\nYes! Party Time!! / from \"Starlight Castle Day2\"", "", ""],
-    [0, "05 \r\nBEYOND THE STARLIGHT / from \"Brand new Castle\"", "", ""],
-    [0, "06 \r\nハイファイ☆デイズ / from \"Brand new Castle\"", "", ""],
-    [0, "07 \r\nTrancing Pulse / from \"346 Castle\"", "", ""],
-    [0, "08 \r\nNocturne / from \"346 Castle\"", "", ""],
-    [0, "09 \r\nEVERMORE / from \"346 Castle\"", "", ""],
-    [0, "10 \r\nお願い! シンデレラ / from \"346 Castle\"", "", ""],
-    [1, "NON STOP REMIX", "", ""],
+    [1, "とどけ! アイドル / from \"Starlight Castle Day1\"", "", ""],
+    [2, "純情Midnight伝説 / from \"Starlight Castle Day1\"", "", ""],
+    [3, "Snow Wings / from \"Starlight Castle Day2\"", "", ""],
+    [4, "Yes! Party Time!! / from \"Starlight Castle Day2\"", "", ""],
+    [5, "BEYOND THE STARLIGHT / from \"Brand new Castle\"", "", ""],
+    [6, "ハイファイ☆デイズ / from \"Brand new Castle\"", "", ""],
+    [7, "Trancing Pulse / from \"346 Castle\"", "", ""],
+    [8, "Nocturne / from \"346 Castle\"", "", ""],
+    [9, "EVERMORE / from \"346 Castle\"", "", ""],
+    [10, "お願い! シンデレラ / from \"346 Castle\"", "", ""],
 ]
 links = ["https://vgmdb.net/album/92942"]
 
@@ -45600,18 +45572,16 @@ catalognumber = "PRCL-10222"
 date = "2022-12-27"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND!!! SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nNew bright stars", "", ""],
-    [0, "02 \r\nO-Ku-Ri-Mo-No Sunday!", "", ""],
-    [0, "03 \r\nさよならアンドロメダ", "", ""],
-    [0, "04 \r\nこいかぜ", "", ""],
-    [0, "05 \r\nLife is HaRMONY", "", ""],
-    [0, "06 \r\nBrand new!", "", ""],
-    [0, "07 \r\nガールズ・イン・ザ・フロンティア", "", ""],
-    [0, "08 \r\nココカラミライへ!", "", ""],
-    [0, "09 \r\nalways", "", ""],
-    [0, "10 \r\nお願い! シンデレラ", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! テーマソング", "", ""],
-    [2, "M@GICAL WONDERLAND!!! Non Stop LIVE MIX", "", ""],
+    [1, "New bright stars", "", ""],
+    [2, "O-Ku-Ri-Mo-No Sunday!", "", ""],
+    [3, "さよならアンドロメダ", "", ""],
+    [4, "こいかぜ", "", ""],
+    [5, "Life is HaRMONY", "", ""],
+    [6, "Brand new!", "", ""],
+    [7, "ガールズ・イン・ザ・フロンティア", "", ""],
+    [8, "ココカラミライへ!", "", ""],
+    [9, "always", "", ""],
+    [10, "お願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/122876"]
 
@@ -46116,21 +46086,20 @@ catalognumber = "PRCL-10255"
 date = "2024-07-03"
 album = "THE IDOLM@STER CINDERELLA GIRLS Shout out Live!!! SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nTHE IDOLM@STER CINDERELLA GIRLS Shout out Live!!! テーマソング (Day1)", "", ""],
-    [0, "02 \r\n無限L∞PだLOVE♡ (Day2)", "", ""],
-    [0, "03 \r\n星環世界 (Day2)", "", ""],
-    [0, "04 \r\nDream Anniversary (Day1)", "", ""],
-    [0, "05 \r\nNext Chapter (Day2)", "", ""],
-    [0, "06 \r\nパジャマジャマ (Day1)", "", ""],
-    [0, "07 \r\nミラーボール・ラブ (Shout out Arrange) (Day1)", "", ""],
-    [0, "08 \r\nノートの中のテラリウム (Day2)", "", ""],
-    [0, "09 \r\nミライコンパス (Day1)", "", ""],
-    [0, "10 \r\nさやけき花の生命に (Day1)", "", ""],
-    [0, "11 \r\nアタシポンコツアンドロイド (Shout out Arrange) (Day2)", "", ""],
-    [0, "12 \r\nD-ark L-ily's Grin (Day2)", "", ""],
-    [0, "13 \r\nHardcore Toyworld (Day1)", "", ""],
-    [0, "14 \r\nTwilight Sky (Day2)", "", ""],
-    [1, "Shout out Live!!! Non Stop LIVE MIX", "", ""],
+    [1, "THE IDOLM@STER CINDERELLA GIRLS Shout out Live!!! テーマソング (Day1)", "", ""],
+    [2, "無限L∞PだLOVE♡ (Day2)", "", ""],
+    [3, "星環世界 (Day2)", "", ""],
+    [4, "Dream Anniversary (Day1)", "", ""],
+    [5, "Next Chapter (Day2)", "", ""],
+    [6, "パジャマジャマ (Day1)", "", ""],
+    [7, "ミラーボール・ラブ (Shout out Arrange) (Day1)", "", ""],
+    [8, "ノートの中のテラリウム (Day2)", "", ""],
+    [9, "ミライコンパス (Day1)", "", ""],
+    [10, "さやけき花の生命に (Day1)", "", ""],
+    [11, "アタシポンコツアンドロイド (Shout out Arrange) (Day2)", "", ""],
+    [12, "D-ark L-ily's Grin (Day2)", "", ""],
+    [13, "Hardcore Toyworld (Day1)", "", ""],
+    [14, "Twilight Sky (Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/139113"]
 
@@ -48756,20 +48725,18 @@ catalognumber = "PRCL-10149"
 date = "2018-06-27"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! SPECIAL LIVE ALBUM Vol.1"
 tracks = [
-    [0, "01 \r\nShine!! (宮城公演より)", "", ""],
-    [0, "02 \r\nNocturne (宮城公演より)", "", ""],
-    [0, "03 \r\nあんきら!?狂騒曲 (宮城公演より)", "", ""],
-    [0, "04 \r\nキラッ!満開スマイル (宮城公演より)", "", ""],
-    [0, "05 \r\n絶対特権主張しますっ! (石川公演より)", "", ""],
-    [0, "06 \r\nJet to the Future (石川公演より)", "", ""],
-    [0, "07 \r\n生存本能ヴァルキュリア (石川公演より)", "", ""],
-    [0, "08 \r\nLove∞Destiny (石川公演より)", "", ""],
-    [0, "09 \r\nキミのそばでずっと (大阪公演より)", "", ""],
-    [0, "10 \r\nエチュードは1曲だけ (大阪公演より)", "", ""],
-    [0, "11 \r\nLunatic Show (大阪公演より)", "", ""],
-    [0, "12 \r\n夢色ハーモニー (大阪公演より)", "", ""],
-    [1, "Opening「Serendipity Parade!!!」", "", ""],
-    [2, "ノンストップLIVE MIX", "", ""],
+    [1, "Shine!! (宮城公演より)", "", ""],
+    [2, "Nocturne (宮城公演より)", "", ""],
+    [3, "あんきら!?狂騒曲 (宮城公演より)", "", ""],
+    [4, "キラッ!満開スマイル (宮城公演より)", "", ""],
+    [5, "絶対特権主張しますっ! (石川公演より)", "", ""],
+    [6, "Jet to the Future (石川公演より)", "", ""],
+    [7, "生存本能ヴァルキュリア (石川公演より)", "", ""],
+    [8, "Love∞Destiny (石川公演より)", "", ""],
+    [9, "キミのそばでずっと (大阪公演より)", "", ""],
+    [10, "エチュードは1曲だけ (大阪公演より)", "", ""],
+    [11, "Lunatic Show (大阪公演より)", "", ""],
+    [12, "夢色ハーモニー (大阪公演より)", "", ""],
 ]
 links = ["https://vgmdb.net/album/92943"]
 
@@ -51859,19 +51826,17 @@ catalognumber = ""
 date = "2025-08-06"
 album = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY SPECIAL LIVE ALBUM"
 tracks = [
-    [0, "01 \r\nTeeenage☆Groovin'", "", ""],
-    [0, "02 \r\n神様！絶対だよ", "", ""],
-    [0, "03 \r\nこの恋の解を答えなさい", "", ""],
-    [0, "04 \r\nスバル", "", ""],
-    [0, "05 \r\nWINTER and WINDOW", "", ""],
-    [0, "06 \r\nモラトリアム", "", ""],
-    [0, "07 \r\nワタシ御伽ばなシ", "", ""],
-    [0, "08 \r\nFin[e]～美しき終焉～", "", ""],
-    [0, "09 \r\nバラカストーリア ～月と太陽に祝福を～", "", ""],
-    [0, "10 \r\nEPHEMERAL AЯROW", "", ""],
-    [0, "11 \r\nFantasia for the Girls", "", ""],
-    [1, "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY テーマソング", "", ""],
-    [2, "STARLIGHT FANTASY Non Stop LIVE MIX", "", ""],
+    [1, "Teeenage☆Groovin'", "", ""],
+    [2, "神様！絶対だよ", "", ""],
+    [3, "この恋の解を答えなさい", "", ""],
+    [4, "スバル", "", ""],
+    [5, "WINTER and WINDOW", "", ""],
+    [6, "モラトリアム", "", ""],
+    [7, "ワタシ御伽ばなシ", "", ""],
+    [8, "Fin[e]～美しき終焉～", "", ""],
+    [9, "バラカストーリア ～月と太陽に祝福を～", "", ""],
+    [10, "EPHEMERAL AЯROW", "", ""],
+    [11, "Fantasia for the Girls", "", ""],
 ]
 links = ["https://vgmdb.net/album/149262"]
 
