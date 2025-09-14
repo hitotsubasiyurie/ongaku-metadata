@@ -523,15 +523,15 @@ catalognumber = "LACA-15524"
 date = "2015-12-23"
 album = "THE IDOLM@STER LIVE THE@TER DREAMERS 04"
 tracks = [
-    [1, "765PRO LIVE THE@TER 福岡公演前日", "[dialogue]", ""],
-    [2, "765PRO LIVE THE@TER 福岡公演4時間前", "[dialogue]", ""],
+    [1, "765PRO LIVE THE@TER 福岡公演前日", "[dialogue]", "0"],
+    [2, "765PRO LIVE THE@TER 福岡公演4時間前", "[dialogue]", "0"],
     [3, "Dreaming!", "秋月律子(CV.若林直美)、伊吹翼(CV.Machico)、エミリースチュアート(CV.郁原ゆう)、我那覇響(CV.沼倉愛美)、佐竹美奈子(CV.大関英里)、篠宮可憐(CV.近藤唯)、高山紗代子(CV.駒形友梨)、天空橋朋花(CV.小岩井ことり)、中谷育(CV.原嶋あかり)、水瀬伊織(CV.釘宮理恵)", ""],
     [4, "深層マーメイド", "伊吹翼(CV.Machico)×我那覇響(CV.沼倉愛美)", ""],
     [5, "HELLO, YOUR ANGEL♪", "天空橋朋花(CV.小岩井ことり)×中谷育(CV.原嶋あかり)", ""],
     [6, "G♡F", "秋月律子(CV.若林直美)×篠宮可憐(CV.近藤唯)", ""],
     [7, "little trip around the world", "エミリースチュアート(CV.郁原ゆう)×水瀬伊織(CV.釘宮理恵)", ""],
     [8, "Melody in scape", "佐竹美奈子(CV.大関英里)×高山紗代子(CV.駒形友梨)", ""],
-    [9, "765PRO LIVE THE@TER福岡公演終演後", "[dialogue]", ""],
+    [9, "765PRO LIVE THE@TER福岡公演終演後", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a7a427a8-5e22-4a68-a0ba-aa610dad3127", "https://vgmdb.net/album/55334"]
 
@@ -540,7 +540,7 @@ catalognumber = "IMSCCOHERENT1"
 date = "2024-03-26"
 album = "アイドルマスター シャイニーカラーズ コヒーレントライト (1) CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/137331"]
 
@@ -586,7 +586,7 @@ tracks = [
     [26, "エージェント夜を往く", "", ""],
     [27, "arcadia", "", ""],
     [28, "Alice or Guilty", "", ""],
-    [29, "\"HELLO!\"", "", ""],
+    [29, "\"HELLO!\"", "", "0"],
     [30, "GO MY WAY!!", "", ""],
     [31, "待ち受けプリンス", "", ""],
     [32, "i", "", ""],
@@ -1459,7 +1459,7 @@ tracks = [
     [15, "HEART AND SOUL", "", ""],
     [16, "Happy!", "", ""],
     [17, "だから今夜きみと", "", ""],
-    [18, "1,2,3", "", ""],
+    [18, "1,2,3", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91805"]
 
@@ -1474,7 +1474,7 @@ tracks = [
     [4, "AVALON", "", ""],
     [5, "One Step", "", ""],
     [6, "HEART AND SOUL", "", ""],
-    [7, "1,2,3", "", ""],
+    [7, "1,2,3", "", "0"],
     [8, "in Wonder Radio", "", ""],
 ]
 links = ["https://vgmdb.net/album/91805"]
@@ -1862,8 +1862,8 @@ catalognumber = "MIM-001"
 date = "2011-07-30"
 album = "THE IDOLM@STER Megami MAGAZINE SPECIAL CD"
 tracks = [
-    [1, "765pro extra drama", "天海春香(CV.中村繪里子), 高槻やよい(CV.仁後真耶子), 萩原雪歩(CV.浅倉杏美) & 秋月律子(CV.若林直美)", ""],
-    [2, "765pro extra drama ~epilogue~", "天海春香(CV.中村繪里子), 高槻やよい(CV.仁後真耶子), 萩原雪歩(CV.浅倉杏美) & 秋月律子(CV.若林直美)", ""],
+    [1, "765pro extra drama", "天海春香(CV.中村繪里子), 高槻やよい(CV.仁後真耶子), 萩原雪歩(CV.浅倉杏美) & 秋月律子(CV.若林直美)", "0"],
+    [2, "765pro extra drama ~epilogue~", "天海春香(CV.中村繪里子), 高槻やよい(CV.仁後真耶子), 萩原雪歩(CV.浅倉杏美) & 秋月律子(CV.若林直美)", "0"],
     [3, "Talk about idolm@ster 1", "中村繪里子, 仁後真耶子, 浅倉杏美, 若林直美", ""],
     [4, "Talk about idolm@ster 2", "中村繪里子, 仁後真耶子, 浅倉杏美, 若林直美", ""],
     [5, "Talk about idolm@ster 3", "中村繪里子, 仁後真耶子, 浅倉杏美, 若林直美", ""],
@@ -2714,7 +2714,7 @@ catalognumber = "ANXC-0016"
 date = "2013-03-30"
 album = "765プロ入社説明CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/90121"]
 
@@ -3427,9 +3427,9 @@ catalognumber = ""
 date = "2013-08-31"
 album = "アイドルマスター シンデレラガールズ コミックアンソロジー cool VOL.2 クールなドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91782"]
 
@@ -3593,7 +3593,7 @@ tracks = [
     [29, "明日また会えるよね", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
-    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [33, "－MC5 －", "", ""],
     [34, "お願い! シンデレラ", "", ""],
 ]
@@ -3624,7 +3624,7 @@ tracks = [
     [18, "－MC3 －", "", ""],
     [19, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [20, "Tulip (M@STER VERSION)", "", ""],
-    [21, "2nd SIDE", "", ""],
+    [21, "2nd SIDE", "", "0"],
     [22, "メルヘンデビュー!", "", ""],
     [23, "あんずのうた", "", ""],
     [24, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
@@ -3635,7 +3635,7 @@ tracks = [
     [29, "明日また会えるよね", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
-    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [33, "－MC5 －", "", ""],
     [34, "Yes! Party Time!! (M@STER VERSION)", "", ""],
     [35, "－MC6 －", "", ""],
@@ -3649,7 +3649,7 @@ date = "2022-11-30"
 album = "THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story Disc 3 [SAXC-1073]"
 tracks = [
     [1, "プロローグ", "", ""],
-    [2, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [2, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [3, "Snow Wings (M@STER VERSION)", "", ""],
     [4, "－MC1－", "", ""],
     [5, "Flip Flop", "", ""],
@@ -3716,7 +3716,7 @@ tracks = [
     [6, "LET'S GO HAPPY!!", "", ""],
     [7, "Happy× 2 Days", "", ""],
     [8, "Memories", "", ""],
-    [9, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [9, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [10, "－MC2 －", "", ""],
     [11, "私色ギフト", "", ""],
     [12, "Heart Voice", "", ""],
@@ -4107,8 +4107,8 @@ catalognumber = "LACA-15316"
 date = "2013-09-25"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06"
 tracks = [
-    [1, "765ライブシアター開幕!〜1時間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!〜1時間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "恋のLesson初級編", "伊吹翼(CV Machico)", ""],
     [4, "ステージパフォーマンス〜伊吹 翼の場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "FIND YOUR WIND!", "北上麗花(CV 平山笑美)", ""],
@@ -4181,7 +4181,8 @@ tracks = [
     [6, "アンデッド・ダンスロック", "", ""],
     [7, "Hungry Bambi", "", ""],
     [8, "オルゴールの小箱", "", ""],
-    [9, "Shine!!", "", ""],]
+    [9, "Shine!!", "", ""],
+]
 links = ["https://vgmdb.net/album/119455"]
 
 [228]
@@ -4449,10 +4450,10 @@ catalognumber = ""
 date = "2011-07-27"
 album = "アイドルマスター Innocent Blue for ディアリースターズ(3) 初回限定版 特典ドラマCD"
 tracks = [
-    [1, "(no title available)", "[dialogue]", ""],
-    [2, "(no title available)", "[dialogue]", ""],
-    [3, "(no title available)", "[dialogue]", ""],
-    [4, "(no title available)", "[dialogue]", ""],
+    [1, "(no title available)", "[dialogue]", "0"],
+    [2, "(no title available)", "[dialogue]", "0"],
+    [3, "(no title available)", "[dialogue]", "0"],
+    [4, "(no title available)", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/04bca77d-3323-4fa9-8e48-5b1c23f46297", "https://vgmdb.net/album/89442"]
 
@@ -4729,15 +4730,15 @@ catalognumber = "LACA-15526"
 date = "2016-03-23"
 album = "THE IDOLM@STER LIVE THE@TER DREAMERS 06"
 tracks = [
-    [1, "765PRO LIVE THE@TER 幕張公演前日", "[dialogue]", ""],
+    [1, "765PRO LIVE THE@TER 幕張公演前日", "[dialogue]", "0"],
     [2, "Dreaming!", "大神環(CV.稲川英里)、菊地真(CV.平田宏美)、高坂海美(CV.上田麗奈)、島原エレナ(CV.角元明日香)、田中琴葉(CV.種田梨沙)、永吉昴(CV.斉藤佑圭)、福田のり子(CV.浜崎奈々)、双海真美(CV.下田麻美)、星井美希(CV.長谷川明子)、舞浜歩(CV.戸田めぐみ)", ""],
-    [3, "765PRO LIVE THE@TER 幕張公演幕間", "[dialogue]", ""],
+    [3, "765PRO LIVE THE@TER 幕張公演幕間", "[dialogue]", "0"],
     [4, "Understand? Understand!", "高坂海美(CV.上田麗奈)×田中琴葉(CV.種田梨沙)", ""],
     [5, "ジャングル☆パーティー", "大神環(CV.稲川英里)×双海真美(CV.下田麻美)", ""],
     [6, "Beat the World!!!", "菊地真(CV.平田宏美)×舞浜歩(CV.戸田めぐみ)", ""],
     [7, "Emergence Vibe", "島原エレナ(CV.角元明日香)×星井美希(CV.長谷川明子)", ""],
     [8, "Dreamscape", "永吉昴(CV.斉藤佑圭)×福田のり子(CV.浜崎奈々)", ""],
-    [9, "765PRO LIVE THE@TER 幕張公演終演後", "[dialogue]", ""],
+    [9, "765PRO LIVE THE@TER 幕張公演終演後", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e532d0a4-db39-4648-a64a-6334e971e5f7", "https://vgmdb.net/album/55419"]
 
@@ -5287,7 +5288,7 @@ date = "2014-07-30"
 album = "THE IDOLM@STER LIVE THE@TER HARMONY 02"
 tracks = [
     [1, "Growing Storm!", "乙女ストーム!", ""],
-    [2, "...In The Name Of。 ...LOVE?", "真壁瑞希(CV.阿部里果)", ""],
+    [2, "...In The Name Of。 ...LOVE?", "真壁瑞希(CV.阿部里果)", "1"],
     [3, "VIVID イマジネーション", "望月杏奈(CV.夏川椎菜)", ""],
     [4, "空想文学少女", "七尾百合子(CV.伊藤美来)", ""],
     [5, "Believe my change!", "伊吹翼(CV.Machico)", ""],
@@ -5496,8 +5497,8 @@ catalognumber = "LACA-15317"
 date = "2013-10-30"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07"
 tracks = [
-    [1, "765ライブシアター開幕!～1週間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!～1週間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "マイペース☆マイウェイ", "福田のり子(CV 浜崎奈々)", ""],
     [4, "ステージパフォーマンス～福田のり子の場合～ (ドラマパート3)", "[dialogue]", ""],
     [5, "君想いBirthday", "高山紗代子(CV 駒形友梨)", ""],
@@ -5806,7 +5807,7 @@ catalognumber = "IDLE_MASTER_02"
 date = "2020-10-10"
 album = "アイドルマスター シャイニーカラーズ 2 特装版 特典CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/102141"]
 
@@ -6005,7 +6006,7 @@ album = "アイドルマスター シンデレラガールズ WILD WIND GIRL 4 �
 tracks = [
     [1, "オリジナルボイスドラマ", "向井拓海(CV.原優子), 藤本里奈(CV.金子真由美), 片桐早苗(CV.和氣あず未), 中野有香(CV.下地紫野), 大槻唯(CV.山下七海) & プロデューサー(CV.内匠靖明)", ""],
     [2, "Virgin Love", "ノーティギャルズ(向井拓海(CV.原優子)×藤本里奈(CV.金子真由美))", ""],
-    [3, "BEYOND THE STARLIGHT (M@STER VERSION)", "ノーティギャルズ(向井拓海(CV.原優子)×藤本里奈(CV.金子真由美))", ""],
+    [3, "BEYOND THE STARLIGHT (M@STER VERSION)", "ノーティギャルズ(向井拓海(CV.原優子)×藤本里奈(CV.金子真由美))", "0"],
     [4, "Jet to the Future (GAME SIZE)", "木村夏樹(CV.安野希世乃)", ""],
     [5, "Virgin Love (オリジナル・カラオケ)", "ノーティギャルズ(向井拓海(CV.原優子)×藤本里奈(CV.金子真由美))", ""],
 ]
@@ -6133,8 +6134,8 @@ catalognumber = "ANXC-0009"
 date = "2011-12-29"
 album = "THE IDOLM@STER Special CD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/110940"]
 
@@ -6208,11 +6209,11 @@ catalognumber = "GES-15007"
 date = "2014-08-15"
 album = "THE IDOLM@STER CINDERELLA GIRLS「Cool Summer Vacation!」スペシャルドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/90188"]
 
@@ -6555,16 +6556,16 @@ catalognumber = "LACA-15525"
 date = "2016-01-27"
 album = "THE IDOLM@STER LIVE THE@TER DREAMERS 05"
 tracks = [
-    [1, "765PRO LIVE THE@TER大阪公演初日・早朝", "[dialogue]", ""],
-    [2, "765PRO LIVE THE@TER大阪公演開演前", "[dialogue]", ""],
+    [1, "765PRO LIVE THE@TER大阪公演初日・早朝", "[dialogue]", "0"],
+    [2, "765PRO LIVE THE@TER大阪公演開演前", "[dialogue]", "0"],
     [3, "Dreaming!", "木下ひなた(CV.田村奈央)、四条貴音(CV.原由実)、豊川風花(CV.末柄里恵)、野々原茜(CV.小笠原早紀)、双海亜美(CV.下田麻美)、松田亜利沙(CV.村川梨衣)、三浦あずさ(CV.たかはし智秋)、百瀬莉緒(CV.山口立花子)、横山奈緒(CV.渡部優衣)、ロコ(CV.中村温姫)", ""],
-    [4, "\"Your\" HOME TOWN", "木下ひなた(CV.田村奈央)×双海亜美(CV.下田麻美)", ""],
+    [4, "\"Your\" HOME TOWN", "木下ひなた(CV.田村奈央)×双海亜美(CV.下田麻美)", "1"],
     [5, "fruity love", "野々原茜(CV.小笠原早紀)×ロコ(CV.中村温姫)", ""],
-    [6, "765PRO LIVE THE@TER大阪公演幕間", "[dialogue]", ""],
+    [6, "765PRO LIVE THE@TER大阪公演幕間", "[dialogue]", "0"],
     [7, "夜に輝く星座のように", "松田亜利沙(CV.村川梨衣)×横山奈緒(CV.渡部優衣)", ""],
     [8, "秘密のメモリーズ", "四条貴音(CV.原由実)×豊川風花(CV.末柄里恵)", ""],
     [9, "たしかな足跡", "三浦あずさ(CV.たかはし智秋)×百瀬莉緒(CV.山口立花子)", ""],
-    [10, "765PRO LIVE THE@TER大阪公演終演後", "[dialogue]", ""],
+    [10, "765PRO LIVE THE@TER大阪公演終演後", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/12a595f7-f7c8-48a9-84ed-cac653f0f4ea", "https://vgmdb.net/album/55418"]
 
@@ -6658,8 +6659,8 @@ catalognumber = "LACA-15321"
 date = "2014-02-26"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 11"
 tracks = [
-    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "想いはCarnaval", "島原エレナ(CV.角元明日香)", ""],
     [4, "ステージパフォーマンス〜島原エレナの場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "Get My Shinin'", "舞浜歩(CV.戸田めぐみ)", ""],
@@ -6669,7 +6670,7 @@ tracks = [
     [9, "DETECTIVE HIGH! 〜恋探偵物語〜", "双海真美(CV.下田麻美)", ""],
     [10, "ステージパフォーマンス〜双海真美の場合〜 (ドラマパート6)", "[dialogue]", ""],
     [11, "Fu-Wa-Du-Wa", "菊地真(CV.平田宏美)、双海真美(CV.下田麻美)、島原エレナ(CV.角元明日香)、舞浜歩(CV.戸田めぐみ)", ""],
-    [12, "765ライブシアター閉幕 (ボーナスドラマ)", "[dialogue]", ""],
+    [12, "765ライブシアター閉幕 (ボーナスドラマ)", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/69bab255-07cb-4e37-9584-dc3146ef72de", "https://vgmdb.net/album/43490"]
 
@@ -7029,16 +7030,16 @@ catalognumber = "FCCG-0008"
 date = "2006-10-25"
 album = "DJCD ラジオdeアイマSHOW! Vol.2 Drama, Talk"
 tracks = [
-    [1, "1日目のスケジュール オープニング", "", ""],
-    [2, "1日目のスケジュール ふつおた～流行情報", "", ""],
-    [3, "1日目のスケジュール お昼のロッカールーム", "", ""],
-    [4, "1日目のスケジュール レッスン", "", ""],
-    [5, "1日目のスケジュール エンディング", "", ""],
-    [6, "2日目のスケジュール オープニング", "", ""],
-    [7, "2日目のスケジュール ふつおた～流行情報", "", ""],
-    [8, "2日目のスケジュール お昼の事務所", "", ""],
-    [9, "2日目のスケジュール レッスン", "", ""],
-    [10, "2日目のスケジュール エンディング", "", ""],
+    [1, "1日目のスケジュール オープニング", "", "0"],
+    [2, "1日目のスケジュール ふつおた～流行情報", "", "0"],
+    [3, "1日目のスケジュール お昼のロッカールーム", "", "0"],
+    [4, "1日目のスケジュール レッスン", "", "0"],
+    [5, "1日目のスケジュール エンディング", "", "0"],
+    [6, "2日目のスケジュール オープニング", "", "0"],
+    [7, "2日目のスケジュール ふつおた～流行情報", "", "0"],
+    [8, "2日目のスケジュール お昼の事務所", "", "0"],
+    [9, "2日目のスケジュール レッスン", "", "0"],
+    [10, "2日目のスケジュール エンディング", "", "0"],
 ]
 links = ["https://vgmdb.net/album/15361"]
 
@@ -7082,7 +7083,7 @@ tracks = [
     [12, "MC-2", "", ""],
     [13, "フェスタ・イルミネーション", "", ""],
     [14, "VIVID イマジネーション", "", ""],
-    [15, "...In The Name Of。 ...LOVE？", "", ""],
+    [15, "...In The Name Of。 ...LOVE？", "", "0"],
     [16, "piece of cake", "", ""],
     [17, "エスケープ", "", ""],
     [18, "求ム VS マイ・フューチャー", "", ""],
@@ -7908,7 +7909,7 @@ catalognumber = "IDLE_MASTER_01"
 date = "2020-03-10"
 album = "アイドルマスター シャイニーカラーズ 1 特装版 特典CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/94709"]
 
@@ -7931,7 +7932,7 @@ tracks = [
     [2, "クロスワード", "水谷絵理(CV.花澤香菜)", ""],
     [3, "魔法をかけて！ (M@STER VERSION)", "水谷絵理(CV.花澤香菜)", ""],
     [4, "思い出をありがとう (M@STER VERSION)", "水谷絵理(CV.花澤香菜)", ""],
-    [5, "\"HELLO!!\" (M@STER VERSION)", "水谷絵理(CV.花澤香菜)", ""],
+    [5, "\"HELLO!!\" (M@STER VERSION)", "水谷絵理(CV.花澤香菜)", "0"],
     [6, "プリコグ (M@STER VERSION) (オリジナル・カラオケ)", "水谷絵理(CV.花澤香菜)", ""],
     [7, "クロスワード (オリジナル・カラオケ)", "水谷絵理(CV.花澤香菜)", ""],
     [8, "ボーナス・トラック・ドラマ", "水谷絵理(CV.花澤香菜), 日高愛(CV.戸松遥) & 秋月涼(CV.三瓶由布子)", ""],
@@ -8035,15 +8036,15 @@ catalognumber = "LABX-8719, LABX-8720, LABX-8721, LABX-8722"
 date = "2023-11-29"
 album = "THE IDOLM@STER SideM PASSIONABLE READING SHOW ー超常事変～対立スル正義～ー EVENT Blu-ray Original Soundtrack, Video"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
-    [6, "(no title available)", "", ""],
-    [7, "(no title available)", "", ""],
-    [8, "(no title available)", "", ""],
-    [9, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
+    [6, "(no title available)", "", "0"],
+    [7, "(no title available)", "", "0"],
+    [8, "(no title available)", "", "0"],
+    [9, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/131020"]
 
@@ -8349,8 +8350,8 @@ catalognumber = "FVCG-1012"
 date = "2008-04-02"
 album = "ファミソン8BIT☆iDOLM@STER 02 天海春香／星井美希"
 tracks = [
-    [1, "765ワールド☆オープニング（ver.02）～『私はアイドル■』より～", "佐々木宏人 & KPLECRAFT", ""],
-    [2, "765ワールドへようこそ（ver.02）【ドラマ】", "佐々木宏人, KPLECRAFT feat. 天海春香 & 星井美希", ""],
+    [1, "765ワールド☆オープニング（ver.02）～『私はアイドル■』より～", "佐々木宏人 & KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ（ver.02）【ドラマ】", "佐々木宏人, KPLECRAFT feat. 天海春香 & 星井美希", "0"],
     [3, "私はアイドル♥（『ワルキューレの伝説』ファミソン8BIT MIX）", "佐々木宏人, KPLECRAFT feat. 天海春香 & 星井美希", ""],
     [4, "アトラクション『メトロクロス』【ドラマ】", "大野木宜幸, 阿保剛 feat. 天海春香", ""],
     [5, "強い女（『メトロクロス』NEW SONG）", "大野木宜幸, 佐々木宏人 feat. 天海春香", ""],
@@ -8361,7 +8362,7 @@ tracks = [
     [10, "Sweets for you!【ドラマ】", "阿保剛 feat. 天海春香 & 星井美希", ""],
     [11, "THE IDOLM@STER（たろすけバスターNW MIX）", "佐々木宏人, 戸田宏武 feat. 天海春香 & 星井美希", ""],
     [12, "またのご来園を！（ver.02）【ドラマ】", "阿保剛 feat. 天海春香 & 星井美希", ""],
-    [13, "765ワールド☆フィナーレ（ver.02）～『ワルキューレの冒険』より～", "川田宏行 & 阿保剛", ""],
+    [13, "765ワールド☆フィナーレ（ver.02）～『ワルキューレの冒険』より～", "川田宏行 & 阿保剛", "0"],
     [14, "私はアイドル♥（オリジナル8BIT Instrumental）", "佐々木宏人 & KPLECRAFT", ""],
     [15, "太陽のジェラシー（オリジナル8BIT Instrumental）", "椎名豪 & KPLECRAFT", ""],
     [16, "relations（オリジナル8BIT Instrumental）", "中川浩二 & KPLECRAFT", ""],
@@ -8892,7 +8893,7 @@ catalognumber = "SAXC-1055"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land Disc 1 [SAXC-1055]"
 tracks = [
-    [1, "(no tracklist available)", "", ""],
+    [1, "(no tracklist available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121429"]
 
@@ -8901,7 +8902,7 @@ catalognumber = "SAXC-1056"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land Disc 2 [SAXC-1056]"
 tracks = [
-    [1, "(no tracklist available)", "", ""],
+    [1, "(no tracklist available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121429"]
 
@@ -8929,7 +8930,7 @@ catalognumber = "SAXC-1058"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land Disc 4 [SAXC-1058]"
 tracks = [
-    [1, "(no tracklist available)", "", ""],
+    [1, "(no tracklist available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121429"]
 
@@ -8938,7 +8939,7 @@ catalognumber = "SAXC-1059"
 date = "2022-10-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! CosmoStar Land & Tropical Land Disc 5 [SAXC-1059]"
 tracks = [
-    [1, "(no tracklist available)", "", ""],
+    [1, "(no tracklist available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121429"]
 
@@ -9206,7 +9207,7 @@ tracks = [
     [12, "MC-2", "", ""],
     [13, "フェスタ・イルミネーション", "", ""],
     [14, "VIVID イマジネーション", "", ""],
-    [15, "...In The Name Of。 ...LOVE？", "", ""],
+    [15, "...In The Name Of。 ...LOVE？", "", "0"],
     [16, "piece of cake", "", ""],
     [17, "エスケープ", "", ""],
     [18, "求ム VS マイ・フューチャー", "", ""],
@@ -9429,7 +9430,7 @@ tracks = [
     [5, "タイムマシンに飛び乗って！", "", ""],
     [6, "smiley days", "", ""],
     [7, "Growing Storm!", "", ""],
-    [8, "...In The Name Of。 ...LOVE?", "", ""],
+    [8, "...In The Name Of。 ...LOVE?", "", "0"],
     [9, "VIVID イマジネーション", "", ""],
     [10, "空想文学少女", "", ""],
     [11, "Believe my change!", "", ""],
@@ -9607,8 +9608,8 @@ catalognumber = "FVCG-1011"
 date = "2008-03-25"
 album = "ファミソン8BIT☆iDOLM@STER 01 高槻やよい／双海亜美・真美"
 tracks = [
-    [1, "765ワールド☆オープニング(ver.01) ～『GO MY WAY!!』より～", "KPLECRAFT", ""],
-    [2, "765ワールドへようこそ （ドラマ）", "高槻やよい／双海亜美・真美", ""],
+    [1, "765ワールド☆オープニング(ver.01) ～『GO MY WAY!!』より～", "KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ （ドラマ）", "高槻やよい／双海亜美・真美", "0"],
     [3, "GO MY WAY!! （『ワンダーモモ』ファミソン8BIT MIX）", "高槻やよい／双海亜美・真美", ""],
     [4, "アトラクション『パックマン』 （ドラマ）", "高槻やよい", ""],
     [5, "Labyrinth （『パックマン』NEW SONG）", "高槻やよい", ""],
@@ -9616,10 +9617,10 @@ tracks = [
     [7, "アトラクション『リブルラブル』 （ドラマ）", "双海亜美・真美", ""],
     [8, "L＜＞R （『リブルラブル』NEW SONG）", "双海亜美・真美", ""],
     [9, "ポジティブ！ （『マッピー』ファミソン8BIT MIX）", "高槻やよい／双海亜美・真美", ""],
-    [10, "765ロボット…？ （ドラマ）", "高槻やよい／双海亜美・真美", ""],
+    [10, "765ロボット…？ （ドラマ）", "高槻やよい／双海亜美・真美", "0"],
     [11, "エージェント夜を往く （Hoover & Acid MIX）", "双海亜美・真美", ""],
     [12, "またのご来園を！ （ドラマ）", "高槻やよい／双海亜美・真美", ""],
-    [13, "765ワールド☆フィナーレ(ver.01) ～『GO MY WAY!!』より～", "KPLECRAFT", ""],
+    [13, "765ワールド☆フィナーレ(ver.01) ～『GO MY WAY!!』より～", "KPLECRAFT", "0"],
     [14, "GO MY WAY!! （オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [15, "おはよう!!朝ご飯 （オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [16, "ポジティブ！ （オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
@@ -10433,16 +10434,16 @@ catalognumber = "FCCG-0009"
 date = "2006-09-22"
 album = "DJCD ラジオdeアイマSHOW! Vol.1"
 tracks = [
-    [1, "1日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [2, "1日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [3, "1日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [4, "1日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [5, "1日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [6, "2日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [7, "2日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [8, "2日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [9, "2日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [10, "2日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
+    [1, "1日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [2, "1日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [3, "1日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [4, "1日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [5, "1日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [6, "2日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [7, "2日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [8, "2日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [9, "2日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [10, "2日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
     [11, "ラマCD Scene.04 幻の特別編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/2f8c12c5-a702-4055-8c5b-20de781dc984", "https://vgmdb.net/album/19873"]
@@ -10465,7 +10466,7 @@ catalognumber = ""
 date = "2015-06-03"
 album = "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス) / 星井美希(CV:長谷川明子)、水瀬伊織(CV:釘宮理恵)、四条貴音(CV:原由実)"
 tracks = [
-    [1, "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス)", "", ""],
+    [1, "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/93265"]
 
@@ -10503,35 +10504,35 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@MIYA
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Shine!!", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "にょわにょわーるど☆", "", ""],
     [5, "cherry*merry*cherry", "", ""],
     [6, "スローライフ・ファンタジー", "", ""],
     [7, "Flip Flop", "", ""],
-    [8, "-MC2-", "", ""],
+    [8, "-MC2-", "", "0"],
     [9, "Angel Breeze", "", ""],
     [10, "たくさん!", "", ""],
     [11, "ミラクルテレパシー", "", ""],
     [12, "Nocturne", "", ""],
-    [13, "-MC3-", "", ""],
+    [13, "-MC3-", "", "0"],
     [14, "Orange Sapphire", "", ""],
     [15, "Nation Blue", "", ""],
     [16, "キラッ!満開スマイル", "", ""],
-    [17, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
-    [18, "-MC4-", "", ""],
+    [17, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
+    [18, "-MC4-", "", "0"],
     [19, "One Life", "", ""],
     [20, "気持ちいいよね一等賞!", "", ""],
     [21, "メルヘン∞メタモルフォーゼ!", "", ""],
     [22, "∀NSWER (M@STER VERSION)", "", ""],
-    [23, "-MC5-", "", ""],
+    [23, "-MC5-", "", "0"],
     [24, "あんきら!?狂騒曲 (M@STER VERSION)", "", ""],
     [25, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [26, "Lunatic Show", "", ""],
     [27, "サマカニ!! (M@STER VERSION)", "", ""],
-    [28, "-MC6-", "", ""],
+    [28, "-MC6-", "", "0"],
     [29, "夢色ハーモニー", "", ""],
     [30, "EVERMORE (M@STER VERSION)", "", ""],
-    [31, "-MC7-", "", ""],
+    [31, "-MC7-", "", "0"],
     [32, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95382"]
@@ -10579,8 +10580,8 @@ catalognumber = "LACA-15322"
 date = "2014-03-26"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 12"
 tracks = [
-    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "IMPRESSION→LOCOMOTION!", "ロコ(CV 中村温姫)", ""],
     [4, "ステージパフォーマンス〜ロコの場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "恋心マスカレード", "二階堂千鶴(CV 野村香菜子)", ""],
@@ -10590,7 +10591,7 @@ tracks = [
     [9, "デコレーション・ドリ〜ミンッ♪", "周防桃子(CV 渡部恵子)", ""],
     [10, "ステージパフォーマンス〜周防桃子の場合〜 (ドラマパート6)", "[dialogue]", ""],
     [11, "ココロがかえる場所", "萩原雪歩(CV 浅倉杏美)、周防桃子(CV 渡部恵子)、二階堂千鶴(CV 野村香菜子)、ロコ(CV 中村温姫)", ""],
-    [12, "765ライブシアター閉幕 (ボーナスドラマ)", "[dialogue]", ""],
+    [12, "765ライブシアター閉幕 (ボーナスドラマ)", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dfd08f15-4a60-4389-b702-8e2c3db744da", "https://vgmdb.net/album/43491"]
 
@@ -11490,8 +11491,8 @@ catalognumber = "LACA-15323"
 date = "2014-04-30"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13"
 tracks = [
-    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕〜1週間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "Heart♡・デイズ・Night☆", "野々原 茜(CV.小笠原早紀)", ""],
     [4, "ステージパフォーマンス〜野々原茜の場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "微笑んだから、気づいたんだ。", "双海亜美(CV.下田麻美)", ""],
@@ -11501,7 +11502,7 @@ tracks = [
     [9, "ビギナーズ☆ストライク", "永吉 昴(CV.斉藤佑圭)", ""],
     [10, "ステージパフォーマンス〜永吉 昴の場合〜 (ドラマパート6)", "[dialogue]", ""],
     [11, "Bigバルーン◎", "双海亜美(CV 下田麻美)、永吉昴(CV 斉藤佑圭)、野々原茜(CV 小笠原早紀)、馬場このみ(CV 高橋未奈美)", ""],
-    [12, "765ライブシアター (ボーナスドラマ)", "[dialogue]", ""],
+    [12, "765ライブシアター (ボーナスドラマ)", "[dialogue]", "0"],
     [13, "Thank You!", "春日未来(CV 山崎はるか)、最上静香(CV 田所あずさ)、伊吹翼(CV Machico)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/5a6d19dc-a2f7-4d35-b7be-3fdfcae627c4", "https://vgmdb.net/album/43492"]
@@ -12133,9 +12134,9 @@ catalognumber = "COCC-16298"
 date = "2009-09-09"
 album = "THE IDOLM@STER DREAM SYMPHONY 00 \"HELLO!!\""
 tracks = [
-    [1, "“HELLO!!” (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", ""],
+    [1, "“HELLO!!” (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", "1"],
     [2, "ハッピース", "日高愛 (CV戸松遥), 水谷絵理 (CV花澤香菜), 秋月涼 (CV三瓶由布子)", ""],
-    [3, "“HELLO!!”(M@STER VERSION) (オリジナル・カラオケ)", "日高愛 (CV戸松遥), 水谷絵理 (CV花澤香菜), 秋月涼 (CV三瓶由布子)", ""],
+    [3, "“HELLO!!”(M@STER VERSION) (オリジナル・カラオケ)", "日高愛 (CV戸松遥), 水谷絵理 (CV花澤香菜), 秋月涼 (CV三瓶由布子)", "0"],
     [4, "ハッピース (オリジナル・カラオケ)", "日高愛 (CV戸松遥), 水谷絵理 (CV花澤香菜), 秋月涼 (CV三瓶由布子)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8b594941-c6f9-49da-bf9f-44fd03d6a17c", "https://vgmdb.net/album/14250"]
@@ -12154,7 +12155,7 @@ catalognumber = "IDLE_MASTER_03"
 date = "2021-04-26"
 album = "アイドルマスター シャイニーカラーズ 3 特装版 特典CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/109050"]
 
@@ -12654,7 +12655,7 @@ tracks = [
     [3, "アタシポンコツアンドロイド", "", ""],
     [4, "お願い!シンデレラ", "", ""],
     [5, "ススメ☆オトメ", "", ""],
-    [6, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [6, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84027"]
 
@@ -12715,7 +12716,7 @@ tracks = [
     [1, "始球式", "", ""],
     [2, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [3, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "気持ちいいよね 一等賞！", "", ""],
     [6, "HARURUNRUN", "", ""],
     [7, "TOKIMEKIエスカレート", "", ""],
@@ -12723,7 +12724,7 @@ tracks = [
     [9, "One Life", "", ""],
     [10, "STORY", "", ""],
     [11, "Starry-Go-Round", "", ""],
-    [12, "-MC2-", "", ""],
+    [12, "-MC2-", "", "0"],
     [13, "Radio Happy", "", ""],
     [14, "DOKIDOKIリズム", "", ""],
     [15, "Dreaming Star", "", ""],
@@ -12732,7 +12733,7 @@ tracks = [
     [18, "Twin☆くるっ★テール (M@STER VERSION)", "", ""],
     [19, "Virgin Love (M@STER VERSION)", "", ""],
     [20, "Wonder goes on!!", "", ""],
-    [21, "-MC3-", "", ""],
+    [21, "-MC3-", "", "0"],
     [22, "千川ちひろによる開演前のご挨拶(Day1)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95440"]
@@ -12749,7 +12750,7 @@ tracks = [
     [5, "Private Sign", "", ""],
     [6, "桜の風", "", ""],
     [7, "クレイジークレイジー (M@STER VERSION)", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "Dreaming of you", "", ""],
     [10, "Dear My Dreamers", "", ""],
     [11, "炎の華", "", ""],
@@ -12758,10 +12759,10 @@ tracks = [
     [14, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [15, "Tulip (M@STER VERSION)", "", ""],
     [16, "Happy New Yeah! (M@STER VERSION)", "", ""],
-    [17, "-MC5-", "", ""],
+    [17, "-MC5-", "", "0"],
     [18, "Stage Bye Stage", "", ""],
     [19, "GOIN'!!!", "", ""],
-    [20, "-MC6-", "", ""],
+    [20, "-MC6-", "", "0"],
     [21, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95440"]
@@ -12773,14 +12774,14 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! @METLIFE D
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "ステップ！", "", ""],
     [5, "いとしーさー♥", "", ""],
     [6, "ドレミファクトリー！", "", ""],
     [7, "リトルリドル (M@STER VERSION)", "", ""],
     [8, "メルヘンデビュー！", "", ""],
     [9, "Starry-Go-Round", "", ""],
-    [10, "-MC2-", "", ""],
+    [10, "-MC2-", "", "0"],
     [11, "CoCo 夏夏夏 Holiday", "", ""],
     [12, "Twin☆くるっ★テール (M@STER VERSION)", "", ""],
     [13, "凸凹スピードスター (M@STER VERSION)", "", ""],
@@ -12788,7 +12789,7 @@ tracks = [
     [15, "Virgin Love (M@STER VERSION)", "", ""],
     [16, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [17, "Orange Sapphire", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "千川ちひろによる開演前のご挨拶(Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95440"]
@@ -12805,7 +12806,7 @@ tracks = [
     [5, "キミのそばでずっと", "", ""],
     [6, "さよならアロハ", "", ""],
     [7, "なつっこ音頭", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "You're stars shine on me", "", ""],
     [10, "クレイジークレイジー (M@STER VERSION)", "", ""],
     [11, "Bloody Festa", "", ""],
@@ -12816,10 +12817,10 @@ tracks = [
     [16, "Tulip (M@STER VERSION)", "", ""],
     [17, "Absolute NIne", "", ""],
     [18, "ガールズ・イン・ザ・フロンティア (M@STER VERSION)", "", ""],
-    [19, "-MC5-", "", ""],
+    [19, "-MC5-", "", "0"],
     [20, "Stage Bye Stage", "", ""],
     [21, "GOIN'!!!", "", ""],
-    [22, "-MC6-", "", ""],
+    [22, "-MC6-", "", "0"],
     [23, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95440"]
@@ -13317,11 +13318,11 @@ tracks = [
     [3, "サマカニ!! (M@STER VERSION) 堀裕子ソロ・リミックス", "堀裕子(CV.鈴木絵理)", ""],
     [4, "サマカニ!! (M@STER VERSION) 上田鈴帆ソロ・リミックス", "上田鈴帆(CV.春野ななみ)", ""],
     [5, "サマカニ!! (M@STER VERSION) 難波笑美ソロ・リミックス", "難波笑美(CV.伊達朱里紗)", ""],
-    [6, "BEYOND THE STARLIGHT (M@STER VERSION) 城ヶ崎莉嘉ソロ・リミックス", "城ヶ崎莉嘉(CV.山本希望)", ""],
-    [7, "BEYOND THE STARLIGHT (M@STER VERSION) 緒方智絵里ソロ・リミックス", "緒方智絵里(CV.大空直美)", ""],
-    [8, "BEYOND THE STARLIGHT (M@STER VERSION) 北条加蓮ソロ・リミックス", "北条加蓮(CV.渕上舞)", ""],
-    [9, "BEYOND THE STARLIGHT (M@STER VERSION) 川島瑞樹ソロ・リミックス", "川島瑞樹(CV.東山奈央)", ""],
-    [10, "BEYOND THE STARLIGHT (M@STER VERSION) 大槻唯ソロ・リミックス", "大槻唯(CV.山下七海)", ""],
+    [6, "BEYOND THE STARLIGHT (M@STER VERSION) 城ヶ崎莉嘉ソロ・リミックス", "城ヶ崎莉嘉(CV.山本希望)", "0"],
+    [7, "BEYOND THE STARLIGHT (M@STER VERSION) 緒方智絵里ソロ・リミックス", "緒方智絵里(CV.大空直美)", "0"],
+    [8, "BEYOND THE STARLIGHT (M@STER VERSION) 北条加蓮ソロ・リミックス", "北条加蓮(CV.渕上舞)", "0"],
+    [9, "BEYOND THE STARLIGHT (M@STER VERSION) 川島瑞樹ソロ・リミックス", "川島瑞樹(CV.東山奈央)", "0"],
+    [10, "BEYOND THE STARLIGHT (M@STER VERSION) 大槻唯ソロ・リミックス", "大槻唯(CV.山下七海)", "0"],
     [11, "EVERMORE (M@STER VERSION) 城ヶ崎美嘉ソロ・リミックス", "城ヶ崎美嘉(CV.佳村はるか)", ""],
     [12, "EVERMORE (M@STER VERSION) 神崎蘭子ソロ・リミックス", "神崎蘭子(CV.内田真礼)", ""],
     [13, "EVERMORE (M@STER VERSION) 前川みくソロ・リミックス", "前川みく(CV.高森奈津美)", ""],
@@ -14088,34 +14089,34 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@MAKU
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Shine!!", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "Radio Happy", "", ""],
     [5, "ステップ!", "", ""],
     [6, "スローライフ・ファンタジー", "", ""],
     [7, "あいくるしい", "", ""],
     [8, "NUDIE★", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "薄紅", "", ""],
     [11, "in fact", "", ""],
     [12, "この空の下", "", ""],
     [13, "AnemoneStar", "", ""],
     [14, "命燃やして恋せよ乙女 (M@STER VERSION)", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "アタシポンコツアンドロイド", "", ""],
     [17, "Nation Blue", "", ""],
     [18, "SUN♡FLOWER", "", ""],
-    [19, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
-    [20, "-MC4-", "", ""],
+    [19, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
+    [20, "-MC4-", "", "0"],
     [21, "Snow Wings (M@STER VERSION)", "", ""],
     [22, "Can't Stop!!", "", ""],
     [23, "メルヘン∞メタモルフォーゼ!", "", ""],
     [24, "With Love (M@STER VERSION)", "", ""],
     [25, "Take me☆Take you", "", ""],
     [26, "Tulip (M@STER VERSION)", "", ""],
-    [27, "-MC5-", "", ""],
+    [27, "-MC5-", "", "0"],
     [28, "夢色ハーモニー", "", ""],
     [29, "EVERMORE (M@STER VERSION)", "", ""],
-    [30, "-MC6-", "", ""],
+    [30, "-MC6-", "", "0"],
     [31, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95386"]
@@ -14191,12 +14192,12 @@ catalognumber = "AMW-IM"
 date = "2011-12-17"
 album = "アイドルマスター2 眠り姫 ドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
-    [6, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
+    [6, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91730"]
 
@@ -14317,7 +14318,7 @@ tracks = [
     [12, "Twilight Sky ～For Rika Rearrange MIX～", "", ""],
     [13, "銀のイルカと熱い風", "", ""],
     [14, "サマカニ！！ (M@STER VERSION)", "", ""],
-    [15, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [15, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [16, "MC", "", ""],
     [17, "EVERMORE (M@STER VERSION)", "", ""],
     [18, "Flip Flop ～For SS3A rearrange Mix～", "", ""],
@@ -14387,7 +14388,7 @@ tracks = [
     [4, "開演前のご挨拶(Day2)", "", ""],
     [5, "終演後のご挨拶(Day2)", "", ""],
     [6, "とどけ！アイドル (M@STER VERSION)", "", ""],
-    [7, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [7, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [8, "美に入り彩を穿つ (M@STER VERSION)", "", ""],
     [9, "Virgin Love (M@STER VERSION)", "", ""],
     [10, "クレイジークレイジー (M@STER VERSION)", "", ""],
@@ -14508,7 +14509,7 @@ catalognumber = "COKM-40544"
 date = "2018-12-21"
 album = "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス) / 星井美希(CV:長谷川明子)、水瀬伊織(CV:釘宮理恵)、四条貴音(CV:原由実)"
 tracks = [
-    [1, "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス)", "", ""],
+    [1, "99 Nights (M@STER VERSION) (美希・伊織・貴音リミックス)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/93277"]
 
@@ -15844,10 +15845,10 @@ catalognumber = "BNEI-00002"
 date = "2015-06"
 album = "THE IDOLM@STER MILLION LIVE! 765プロライブシアター記念パーティードラマCD Drama"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91350"]
 
@@ -16171,35 +16172,35 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@ISHI
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Yes! Party Time!! (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "エヴリデイドリーム", "", ""],
     [5, "恋のHamburg♪", "", ""],
     [6, "青空リレーション", "", ""],
     [7, "私色ギフト", "", ""],
-    [8, "-MC2-", "", ""],
+    [8, "-MC2-", "", "0"],
     [9, "おかしな国のおかし屋さん", "", ""],
     [10, "空と風と恋のワルツ", "", ""],
     [11, "ヴィーナスシンドローム", "", ""],
     [12, "あいくるしい", "", ""],
-    [13, "-MC3-", "", ""],
+    [13, "-MC3-", "", "0"],
     [14, "オルゴールの小箱", "", ""],
     [15, "絶対特権主張しますっ!", "", ""],
     [16, "キラッ!満開スマイル", "", ""],
     [17, "Star!!", "", ""],
-    [18, "-MC4-", "", ""],
+    [18, "-MC4-", "", "0"],
     [19, "Sparkling Girl", "", ""],
     [20, "Rockin' Emotion", "", ""],
     [21, "Hotel Moonside", "", ""],
     [22, "Jet to the Future (M@STER VERSION)", "", ""],
-    [23, "-MC5-", "", ""],
+    [23, "-MC5-", "", "0"],
     [24, "Love∞Destiny (M@STER VERSION)", "", ""],
     [25, "Nocturne", "", ""],
     [26, "Sweet Witches' Night ～6人目はだぁれ～ (M@STER VERSION)", "", ""],
     [27, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
-    [28, "-MC6-", "", ""],
+    [28, "-MC6-", "", "0"],
     [29, "夕映えプレゼント", "", ""],
     [30, "M@GIC☆", "", ""],
-    [31, "-MC7-", "", ""],
+    [31, "-MC7-", "", "0"],
     [32, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95383"]
@@ -16274,7 +16275,7 @@ album = "THE IDOLM@STER RADIO LONG TIME"
 tracks = [
     [1, "Smile Smile Smile", "今井麻美 & たかはし智秋", ""],
     [2, "Lady☆Cake", "今井麻美 & たかはし智秋", ""],
-    [3, "7 colors", "今井麻美", ""],
+    [3, "7 colors", "今井麻美", "0"],
     [4, "エール", "今井麻美 & たかはし智秋", ""],
     [5, "sunsine", "たかはし智秋", ""],
     [6, "JM-Justify Myself-", "今井麻美 & たかはし智秋", ""],
@@ -16395,21 +16396,21 @@ tracks = [
     [1, "プロローグ", "", ""],
     [2, "とどけ!アイドル", "", ""],
     [3, "ゴキゲンParty Night", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "S(mile)ING!", "", ""],
     [6, "Naked Romance", "", ""],
     [7, "エヴリデイドリーム", "", ""],
     [8, "おねだり Shall We～?", "", ""],
     [9, "TOKIMEKIエスカレート", "", ""],
     [10, "Snow Wings (M@STER VERSION)", "", ""],
-    [11, "-MC2-", "", ""],
+    [11, "-MC2-", "", "0"],
     [12, "Twilight Sky", "", ""],
     [13, "ショコラ・ティアラ", "", ""],
     [14, "ましゅまろ☆キッス", "", ""],
     [15, "小さな恋の密室事件", "", ""],
     [16, "Love∞Destiny (M@STER VERSION)", "", ""],
     [17, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [20, "Tulip (M@STER VERSION)", "", ""],
     [21, "空と風と恋のワルツ", "", ""],
@@ -16417,14 +16418,14 @@ tracks = [
     [23, "あんずのうた", "", ""],
     [24, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [25, "Rockin' Emotion", "", ""],
-    [26, "-MC4-", "", ""],
+    [26, "-MC4-", "", "0"],
     [27, "咲いてJewel", "", ""],
     [28, "きみにいっぱい☆", "", ""],
     [29, "明日また会えるよね", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
-    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
-    [33, "-MC5-", "", ""],
+    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
+    [33, "-MC5-", "", "0"],
     [34, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95355"]
@@ -16437,38 +16438,38 @@ tracks = [
     [1, "プロローグ", "", ""],
     [2, "とどけ!アイドル", "", ""],
     [3, "ゴキゲンParty Night", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "S(mile)ING!", "", ""],
     [6, "Naked Romance", "", ""],
     [7, "エヴリデイドリーム", "", ""],
     [8, "おねだり Shall We～?", "", ""],
     [9, "TOKIMEKIエスカレート", "", ""],
     [10, "毒茸伝説", "", ""],
-    [11, "-MC2-", "", ""],
+    [11, "-MC2-", "", "0"],
     [12, "Twilight Sky", "", ""],
     [13, "ショコラ・ティアラ", "", ""],
     [14, "ましゅまろ☆キッス", "", ""],
     [15, "小さな恋の密室事件", "", ""],
     [16, "Love∞Destiny (M@STER VERSION)", "", ""],
     [17, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [20, "Tulip (M@STER VERSION)", "", ""],
-    [21, "2nd SIDE", "", ""],
+    [21, "2nd SIDE", "", "0"],
     [22, "メルヘンデビュー!", "", ""],
     [23, "あんずのうた", "", ""],
     [24, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [25, "Snow Wings (M@STER VERSION)", "", ""],
-    [26, "-MC4-", "", ""],
+    [26, "-MC4-", "", "0"],
     [27, "咲いてJewel", "", ""],
     [28, "きみにいっぱい☆", "", ""],
     [29, "明日また会えるよね", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
-    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
-    [33, "-MC5-", "", ""],
+    [32, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
+    [33, "-MC5-", "", "0"],
     [34, "Yes! Party Time!! (M@STER VERSION)", "", ""],
-    [35, "-MC6-", "", ""],
+    [35, "-MC6-", "", "0"],
     [36, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95355"]
@@ -16479,16 +16480,16 @@ date = "2017-08-30"
 album = "THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story Blu-ray BOX Disc 3 [COXC-1213]"
 tracks = [
     [1, "プロローグ", "", ""],
-    [2, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
+    [2, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
     [3, "Snow Wings (M@STER VERSION)", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "Flip Flop", "", ""],
     [6, "恋のHamburg♪", "", ""],
     [7, "青の一番星", "", ""],
     [8, "共鳴世界の存在論", "", ""],
     [9, "き・ま・ぐ・れ☆Cafe au lait!", "", ""],
     [10, "エヴリデイドリーム", "", ""],
-    [11, "-MC2-", "", ""],
+    [11, "-MC2-", "", "0"],
     [12, "Bloody Festa", "", ""],
     [13, "お散歩カメラ", "", ""],
     [14, "lilac time", "", ""],
@@ -16496,7 +16497,7 @@ tracks = [
     [16, "Radio Happy", "", ""],
     [17, "気持ちいいよね 一等賞!", "", ""],
     [18, "Can't Stop!!", "", ""],
-    [19, "-MC3-", "", ""],
+    [19, "-MC3-", "", "0"],
     [20, "きみにいっぱい☆", "", ""],
     [21, "恋色エナジー", "", ""],
     [22, "花簪 HANAKANZASHI", "", ""],
@@ -16505,7 +16506,7 @@ tracks = [
     [25, "ミラクルテレパシー", "", ""],
     [26, "To my darling...", "", ""],
     [27, "Near to You", "", ""],
-    [28, "-MC4-", "", ""],
+    [28, "-MC4-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/95355"]
 
@@ -16519,16 +16520,16 @@ tracks = [
     [3, "in fact", "", ""],
     [4, "あいくるしい", "", ""],
     [5, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
-    [6, "-MC5-", "", ""],
+    [6, "-MC5-", "", "0"],
     [7, "Lunatic Show", "", ""],
     [8, "Tulip (M@STER VERSION)", "", ""],
     [9, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [10, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [11, "みんなのきもち", "", ""],
-    [12, "-MC6-", "", ""],
+    [12, "-MC6-", "", "0"],
     [13, "GOIN'!!!", "", ""],
     [14, "EVERMORE (M@STER VERSION)", "", ""],
-    [15, "-MC7-", "", ""],
+    [15, "-MC7-", "", "0"],
     [16, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95355"]
@@ -16541,25 +16542,25 @@ tracks = [
     [1, "プロローグ", "", ""],
     [2, "Star!!", "", ""],
     [3, "Shine!!", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "STORY", "", ""],
     [6, "LET'S GO HAPPY!!", "", ""],
     [7, "Happy×2 Days", "", ""],
     [8, "Memories", "", ""],
-    [9, "-LEGNE- 仇なす剣 光の旋律", "", ""],
-    [10, "-MC2-", "", ""],
+    [9, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
+    [10, "-MC2-", "", "0"],
     [11, "私色ギフト", "", ""],
     [12, "Heart Voice", "", ""],
     [13, "Nebula Sky", "", ""],
     [14, "Wonder goes on!!", "", ""],
     [15, "できたてEvo! Revo! Generation!", "", ""],
-    [16, "-MC3-", "", ""],
+    [16, "-MC3-", "", "0"],
     [17, "Rockin' Emotion", "", ""],
     [18, "ØωØver!! -Heart Beat Version-", "", ""],
     [19, "Trancing Pulse", "", ""],
     [20, "こいかぜ", "", ""],
     [21, "Nocturne", "", ""],
-    [22, "-MC4-", "", ""],
+    [22, "-MC4-", "", "0"],
     [23, "この空の下", "", ""],
     [24, "心もよう", "", ""],
     [25, "流れ星キセキ", "", ""],
@@ -16584,11 +16585,11 @@ tracks = [
     [8, "ステップ!", "", ""],
     [9, "AnemoneStar", "", ""],
     [10, "はにかみdays", "", ""],
-    [11, "-MC5-", "", ""],
+    [11, "-MC5-", "", "0"],
     [12, "EVERMORE (M@STER VERSION)", "", ""],
     [13, "GOIN'!!!", "", ""],
     [14, "夕映えプレゼント", "", ""],
-    [15, "-MC6-", "", ""],
+    [15, "-MC6-", "", "0"],
     [16, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95355"]
@@ -16695,7 +16696,7 @@ tracks = [
     [1, "G♡F", "秋月律子(CV.若林直美)×篠宮可憐(CV.近藤唯)", ""],
     [2, "little trip around the world", "エミリースチュアート(CV.郁原ゆう)×水瀬伊織(CV.釘宮理恵)", ""],
     [3, "Melody in scape", "佐竹美奈子(CV.大関英里)×高山紗代子(CV.駒形友梨)", ""],
-    [4, "\"Your\" HOME TOWN", "木下ひなた(CV.田村奈央)×双海亜美(CV.下田麻美)", ""],
+    [4, "\"Your\" HOME TOWN", "木下ひなた(CV.田村奈央)×双海亜美(CV.下田麻美)", "0"],
     [5, "fruity love", "野々原茜(CV.小笠原早紀)×ロコ(CV.中村温姫)", ""],
     [6, "夜に輝く星座のように", "松田亜利沙(CV.村川梨衣)×横山奈緒(CV.渡部優衣)", ""],
     [7, "秘密のメモリーズ", "四条貴音(CV.原由実)×豊川風花(CV.末柄里恵)", ""],
@@ -17025,7 +17026,7 @@ catalognumber = "IMCG-0003C"
 date = "2013-11-26"
 album = "デレラジ デートツアー in 箱根 ～後日談 CD～"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91237"]
 
@@ -18402,7 +18403,7 @@ catalognumber = "SACX-1033"
 date = "2015-07-18"
 album = "THE IDOLM@STER M@STERS OF IDOL WORLD!!2015 M@STERPIECE & 10th Anniversary MIX Disc 2 [SACX-1033]"
 tracks = [
-    [1, "10th Anniversary MIX", "TAKU INOUE", ""],
+    [1, "10th Anniversary MIX", "TAKU INOUE", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1dfc99b8-8682-418c-a14a-b52a7bd7584a", "https://vgmdb.net/album/90191"]
 
@@ -18507,7 +18508,7 @@ tracks = [
     [7, "「サビ作りまーす!」の巻", "[dialogue]", ""],
     [8, "SUPERSTAR", "浅倉杏美", ""],
     [9, "「ライブコーナー」の巻", "[dialogue]", ""],
-    [10, "1, 2, 3", "沼倉愛美、原由実、浅倉杏美", ""],
+    [10, "1, 2, 3", "沼倉愛美、原由実、浅倉杏美", "1"],
     [11, "「ライブが終わって」の巻", "[dialogue]", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/49b5d802-dd90-4250-a642-4b790dbf8508", "https://vgmdb.net/album/28954"]
@@ -18621,7 +18622,7 @@ tracks = [
     [5, "たしかな足跡", "三浦あずさ", ""],
     [6, "little trip around the world", "水瀬伊織", ""],
     [7, "Beat the World!!!", "菊地真", ""],
-    [8, "\"Your\" HOME TOWN", "双海亜美", ""],
+    [8, "\"Your\" HOME TOWN", "双海亜美", "0"],
     [9, "ジャングル☆パーティー", "双海真美", ""],
     [10, "Marionetteは眠らない", "星井美希", ""],
     [11, "秘密のメモリーズ", "四条貴音", ""],
@@ -18660,7 +18661,7 @@ tracks = [
     [23, "to you for me -BGM ver.-", "川田瑠夏", ""],
     [24, "愛の讃歌 -BGM ver.-", "川田瑠夏", ""],
     [25, "GEMSTONE -BGM ver.-", "睦月周平", ""],
-    [26, "ACE -BGM ver.-", "睦月周平", ""],
+    [26, "ACE -BGM ver.-", "睦月周平", "0"],
     [27, "アイム・ア・リトル・プリンセス 〜お星さまにお願い〜 -BGM ver.-", "川田瑠夏", ""],
     [28, "Romantic Now -BGM ver.-", "睦月周平", ""],
     [29, "あこがれステッチ -BGM ver.-", "川田瑠夏", ""],
@@ -18696,7 +18697,7 @@ tracks = [
     [20, "きみにいっぱい☆ (GAME VERSION)", "市原仁奈(CV:久野美咲)、一ノ瀬志希(CV:藍原ことみ)、宮本フレデリカ(CV:髙野麻美)", ""],
     [21, "凸凹スピードスター (GAME VERSION)", "安部菜々(CV:三宅麻理恵)、佐藤心(CV:花守ゆみり)、赤城みりあ(CV:黒沢ともよ)", ""],
     [22, "無重力シャトル (GAME VERSION)", "櫻井桃華(CV:照井春佳)", ""],
-    [23, "BEYOND THE STARLIGHT (GAME VERSION)", "的場梨沙(CV:集貝はな)", ""],
+    [23, "BEYOND THE STARLIGHT (GAME VERSION)", "的場梨沙(CV:集貝はな)", "0"],
     [24, "Tulip (GAME VERSION)", "速水奏(CV:飯田友子)、塩見周子(CV:ルゥティン)、城ヶ崎美嘉(CV:佳村はるか)、宮本フレデリカ(CV:髙野麻美)、一ノ瀬志希(CV:藍原ことみ)", ""],
     [25, "Nightwear (GAME VERSION)", "速水奏(CV:飯田友子)、塩見周子(CV:ルゥティン)、城ヶ崎美嘉(CV:佳村はるか)、一ノ瀬志希(CV:藍原ことみ)、宮本フレデリカ(CV:髙野麻美)", ""],
     [26, "アイム・ア・リトル・プリンセス 〜お星さまにお願い〜 (TV VERSION)", "古賀小春(CV:小森結梨)", ""],
@@ -18728,7 +18729,7 @@ tracks = [
     [10, "Romantic Now (TV SIZE)", "赤城みりあ(CV:黒沢ともよ)", ""],
     [11, "愛の讃歌 (TV SIZE)", "櫻井桃華(CV:照井春佳)", ""],
     [12, "GEMSTONE (TV SIZE)", "的場梨沙(CV:集貝はな)", ""],
-    [13, "ACE (TV SIZE)", "結城晴(CV:小市眞琴)", ""],
+    [13, "ACE (TV SIZE)", "結城晴(CV:小市眞琴)", "0"],
     [14, "お願い!シンデレラ (TV SIZE)", "古賀小春(CV:小森結梨)", ""],
     [15, "あこがれステッチ (TV SIZE)", "佐々木千枝(CV:今井麻夏)", ""],
     [16, "ひまわりマークをさがせ! (TV SIZE)", "龍崎薫(CV:春瀬なつみ)", ""],
@@ -18842,7 +18843,7 @@ date = "2017-08-12"
 album = "THE IDOLM@STER CINDERELLA GIRLS TO D@NCE TO"
 tracks = [
     [1, "メッセージ -Future PicoPico Remix-", "ヒゲドライバー", ""],
-    [2, "2nd SIDE -雨あがり Remix-", "Hiroshi Okubo", ""],
+    [2, "2nd SIDE -雨あがり Remix-", "Hiroshi Okubo", "0"],
     [3, "ススメ☆オトメ 〜jewel parade〜 -Blooming Floral Remix-", "ESTi", ""],
     [4, "Hotel Moonside -Take me away from Metropolis Remix-", "烏屋茶房", ""],
     [5, "秘密のトワレ -Midnight Lab Remix-", "Taku Inoue", ""],
@@ -19214,8 +19215,8 @@ catalognumber = "FVCG-1013"
 date = "2008-04-23"
 album = "ファミソン8BIT☆アイドルマスター 03 三浦あずさ／秋月律子"
 tracks = [
-    [1, "765ワールド☆オープニング（ver.03）～『まっすぐ』より～", "KPLECRAFT", ""],
-    [2, "765ワールドへようこそ（ver.03）【ドラマ】～『まっすぐ』より～", "三浦あずさ／秋月律子", ""],
+    [1, "765ワールド☆オープニング（ver.03）～『まっすぐ』より～", "KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ（ver.03）【ドラマ】～『まっすぐ』より～", "三浦あずさ／秋月律子", "0"],
     [3, "まっすぐ（『フェリオス』ファミソン8BIT MIX）", "三浦あずさ／秋月律子", ""],
     [4, "アトラクション『バベルの塔』【ドラマ】", "秋月律子", ""],
     [5, "Tower of Adventure（『バベルの塔』NEW SONG）", "秋月律子", ""],
@@ -19226,7 +19227,7 @@ tracks = [
     [10, "秘密兵器【ドラマ】", "三浦あずさ／秋月律子", ""],
     [11, "ポジティブ！（『スカイキッド』MIX）", "三浦あずさ／秋月律子", ""],
     [12, "またのご来園を！（ver.03）【ドラマ】", "三浦あずさ／秋月律子", ""],
-    [13, "765ワールド☆フィナーレ（ver.03）～『まっすぐ』『ドラゴンバスター』より～", "KPLECRAFT", ""],
+    [13, "765ワールド☆フィナーレ（ver.03）～『まっすぐ』『ドラゴンバスター』より～", "KPLECRAFT", "0"],
     [14, "まっすぐ（オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [15, "魔法をかけて！（オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [16, "9:02pm（オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
@@ -19762,7 +19763,7 @@ catalognumber = "COCX-36191"
 date = "2010-06-02"
 album = "THE iDOLM@STER BEST OF 765+876=!! Vol.2"
 tracks = [
-    [1, "\"HELLO!!\" (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", ""],
+    [1, "\"HELLO!!\" (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", "0"],
     [2, "Colorful Days (M@STER VERSION)", "天海春香(CV:中村繪里子), 如月千早(CV:今井麻美), 双海亜美(CV:下田麻美)", ""],
     [3, "ポジティブ！ (M@STER VERSION)", "高槻やよい(CV:仁後真耶子), 双海亜美/真美(CV:下田麻美), 水瀬伊織(CV:釘宮理恵)", ""],
     [4, "YES♪", "天海春香(CV:中村繪里子), 菊地真(CV:平田宏美)", ""],
@@ -19877,7 +19878,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! @NAGOYA DO
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "お散歩カメラ", "", ""],
     [5, "cherry*merry*cherry", "", ""],
     [6, "恋色エナジー", "", ""],
@@ -19885,14 +19886,14 @@ tracks = [
     [8, "Sunshine See May", "", ""],
     [9, "Kawaii make MY day! (M@STER VERSION)", "", ""],
     [10, "Starry-Go-Round", "", ""],
-    [11, "-MC2-", "", ""],
+    [11, "-MC2-", "", "0"],
     [12, "Take me☆Take you", "", ""],
     [13, "あんきら！？狂騒曲 (M@STER VERSION)", "", ""],
     [14, "秋風に手を振って", "", ""],
     [15, "秋めいて Ding Dong Dang!", "", ""],
     [16, "Naked Romance", "", ""],
     [17, "情熱ファンファンファーレ (M@STER VERSION)", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "千川ちひろによる開演前のご挨拶(Day1)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95441"]
@@ -19909,7 +19910,7 @@ tracks = [
     [5, "君への詩", "", ""],
     [6, "さよならアンドロメダ", "", ""],
     [7, "夕映えプレゼント", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "ガールズ・イン・ザ・フロンティア (M@STER VERSION)", "", ""],
     [10, "AnemoneStar", "", ""],
     [11, "Love∞Destiny (M@STER VERSION)", "", ""],
@@ -19920,10 +19921,10 @@ tracks = [
     [16, "Trust me", "", ""],
     [17, "∀NSWER (M@STER VERSION)", "", ""],
     [18, "Trinity Field (M@STER VERSION)", "", ""],
-    [19, "-MC5-", "", ""],
+    [19, "-MC5-", "", "0"],
     [20, "Stage Bye Stage", "", ""],
     [21, "GOIN'!!!", "", ""],
-    [22, "-MC6-", "", ""],
+    [22, "-MC6-", "", "0"],
     [23, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95441"]
@@ -19935,7 +19936,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! @NAGOYA DO
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "Snow Wings (M@STER VERSION)", "", ""],
     [5, "追い風Running", "", ""],
     [6, "アツアツ♪マカロニグラタン", "", ""],
@@ -19944,14 +19945,14 @@ tracks = [
     [9, "あんきら！？狂騒曲 (M@STER VERSION)", "", ""],
     [10, "Snow＊Love", "", ""],
     [11, "Starry-Go-Round", "", ""],
-    [12, "-MC2-", "", ""],
+    [12, "-MC2-", "", "0"],
     [13, "きらりんロボのテーマ", "", ""],
     [14, "あんずのうた", "", ""],
     [15, "おんなの道は星の道", "", ""],
     [16, "Sparkling Girl", "", ""],
     [17, "Treasure☆", "", ""],
     [18, "ラブレター (M@STER VERSION)", "", ""],
-    [19, "-MC3-", "", ""],
+    [19, "-MC3-", "", "0"],
     [20, "千川ちひろによる開演前のご挨拶(Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95441"]
@@ -19968,7 +19969,7 @@ tracks = [
     [5, "マイ・スイート・ハネムーン", "", ""],
     [6, "With Love (M@STER VERSION)", "", ""],
     [7, "恋が咲く季節", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "Frozen Tears", "", ""],
     [10, "モーレツ★世直しギルティ！ (M@STER VERSION)", "", ""],
     [11, "Love∞Destiny (M@STER VERSION)", "", ""],
@@ -19978,10 +19979,10 @@ tracks = [
     [15, "Trinity Field (M@STER VERSION)", "", ""],
     [16, "流れ星キセキ", "", ""],
     [17, "always", "", ""],
-    [18, "-MC5-", "", ""],
+    [18, "-MC5-", "", "0"],
     [19, "Stage Bye Stage", "", ""],
     [20, "GOIN'!!!", "", ""],
-    [21, "-MC6-", "", ""],
+    [21, "-MC6-", "", "0"],
     [22, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95441"]
@@ -20056,19 +20057,19 @@ catalognumber = "FCCG-0015"
 date = "2007-03-21"
 album = "DJCD ラジオdeアイマSHOW! Vol.3"
 tracks = [
-    [1, "1日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [2, "1日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [3, "1日目 Xアイマスファイル", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [4, "1日目 アイマスクール 課外授業 ホワイトデー編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [5, "1日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [6, "1日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [7, "2日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [8, "2日目 幸せのやよい鳥", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [9, "2日目 ミンゴスの特訓!ツッコミンゴス", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [10, "2日目 765戦隊 アイドレンジャー!", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [11, "2日目 ○○すればいいんじゃない、でいいんじゃない?", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [12, "2日目 ボーナスレッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [13, "2日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
+    [1, "1日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [2, "1日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [3, "1日目 Xアイマスファイル", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [4, "1日目 アイマスクール 課外授業 ホワイトデー編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [5, "1日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [6, "1日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [7, "2日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [8, "2日目 幸せのやよい鳥", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [9, "2日目 ミンゴスの特訓!ツッコミンゴス", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [10, "2日目 765戦隊 アイドレンジャー!", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [11, "2日目 ○○すればいいんじゃない、でいいんじゃない?", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [12, "2日目 ボーナスレッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [13, "2日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
     [14, "○○って呼ばれたくて... (ドラマCD NEW STAGE 02 EXTRA)", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/9c5e1f0f-262c-48cc-ba9b-f02326566314", "https://vgmdb.net/album/15363"]
@@ -20466,7 +20467,7 @@ tracks = [
     [3, "OTAHEN アンセム -Massive New Krew Remix-", "Massive New Krew", ""],
     [4, "お願い！シンデレラ -山本真央樹 Remix-", "山本真央樹", ""],
     [5, "Tulip -TAKU INOUE Remix-", "TAKU INOUE", ""],
-    [6, "14平米にスーベニア -広川恵一 Remix-", "広川恵一", ""],
+    [6, "14平米にスーベニア -広川恵一 Remix-", "広川恵一", "0"],
     [7, "レッド・ソール -烏屋茶房 Remix-", "烏屋茶房", ""],
     [8, "アタシポンコツアンドロイド -北谷光浩 Remix-", "北谷光浩", ""],
     [9, "Last Kiss -ESTi Remix-", "ESTi", ""],
@@ -21043,13 +21044,13 @@ catalognumber = "COZX-427"
 date = "2010-03-24"
 album = "THE IDOLM@STER STATION!!! FIRST TRAVEL Vocal, Talk"
 tracks = [
-    [1, "!!!We’re going!!!", "[dialogue]", ""],
+    [1, "!!!We’re going!!!", "[dialogue]", "0"],
     [2, "DEAD or ALIVE", "今井麻美、原由実、沼倉愛美", ""],
-    [3, "!!!MANAMI’S TRAVEL!!!", "[dialogue]", ""],
+    [3, "!!!MANAMI’S TRAVEL!!!", "[dialogue]", "0"],
     [4, "AVALON", "沼倉愛美", ""],
-    [5, "!!!YUMI’S TRAVEL!!!", "[dialogue]", ""],
+    [5, "!!!YUMI’S TRAVEL!!!", "[dialogue]", "0"],
     [6, "One Step", "原由実", ""],
-    [7, "!!!ASAMI’S TRAVEL!!!", "[dialogue]", ""],
+    [7, "!!!ASAMI’S TRAVEL!!!", "[dialogue]", "0"],
     [8, "SHADOWLESS", "今井麻美", ""],
     [9, "We’re Home", "[dialogue]", ""],
     [10, "はっぴぃ☆ほりっく", "今井麻美、原由実、沼倉愛美", ""],
@@ -21134,8 +21135,8 @@ catalognumber = "LACA-15318"
 date = "2013-11-27"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 08"
 tracks = [
-    [1, "765ライブシアター開幕!〜10日前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!〜10日前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "ホップ♪ステップ♪レインボウ♪", "大神環(CV 稲川英里)", ""],
     [4, "ステージパフォーマンス〜大神 環の場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "グッデイ・サンシャイン!", "中谷育(CV 原嶋あかり)", ""],
@@ -21392,9 +21393,9 @@ catalognumber = "COCC-17887"
 date = "2021-05-19"
 album = "THE IDOLM@STER CINDERELLA MASTER 058-060 黒埼ちとせ・砂塚あきら・久川凪 Disc 2 [COCC-17887]"
 tracks = [
-    [1, "#HE4DSHOT", "砂塚あきら(CV:富田美憂)", ""],
+    [1, "#HE4DSHOT", "砂塚あきら(CV:富田美憂)", "0"],
     [2, "ドラマ「もーっと目指せ!シンデレラNO.1! -砂塚あきら編-」", "砂塚あきら(CV:富田美憂)", ""],
-    [3, "#HE4DSHOT オリジナル・カラオケ", "砂塚あきら(CV:富田美憂)", ""],
+    [3, "#HE4DSHOT オリジナル・カラオケ", "砂塚あきら(CV:富田美憂)", "0"],
     [4, "ボーナス・トラック", "砂塚あきら(CV:富田美憂)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/adb58111-01bf-4f18-bed9-a73687339c93", "https://vgmdb.net/album/106809"]
@@ -21404,9 +21405,9 @@ catalognumber = "COCC-17888"
 date = "2021-05-19"
 album = "THE IDOLM@STER CINDERELLA MASTER 058-060 黒埼ちとせ・砂塚あきら・久川凪 Disc 3 [COCC-17888]"
 tracks = [
-    [1, "14平米にスーベニア", "久川凪(CV:立花日菜)", ""],
+    [1, "14平米にスーベニア", "久川凪(CV:立花日菜)", "1"],
     [2, "ドラマ「もーっと目指せ!シンデレラNO.1! -久川凪編-」", "久川凪(CV:立花日菜)", ""],
-    [3, "14平米にスーベニア オリジナル・カラオケ", "久川凪(CV:立花日菜)", ""],
+    [3, "14平米にスーベニア オリジナル・カラオケ", "久川凪(CV:立花日菜)", "0"],
     [4, "ボーナス・トラック", "久川凪(CV:立花日菜)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/adb58111-01bf-4f18-bed9-a73687339c93", "https://vgmdb.net/album/106809"]
@@ -21429,7 +21430,7 @@ tracks = [
     [11, "Okey-dokey", "", ""],
     [12, "DEAD or ALIVE", "", ""],
     [13, "オーバーマスター(M@STER VERSION)", "", ""],
-    [14, "1,2,3", "", ""],
+    [14, "1,2,3", "", "0"],
     [15, "ライヴ当日のSound Check映像", "", ""],
     [16, "ファースト・ライヴについて 沼倉・原・浅倉対談", "", ""],
     [17, "原由実、沼倉愛美、浅倉杏美よりひとこと", "", ""],
@@ -21506,7 +21507,7 @@ catalognumber = ""
 date = "2024-04-10"
 album = "アイドルマスター シャイニーカラーズ 事務的光空記録 1 CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/137332"]
 
@@ -21578,7 +21579,7 @@ tracks = [
     [20, "Heartbeats (M46)", "田中秀和", ""],
     [21, "Someone Behind the Door (M12)", "田中秀和", ""],
     [22, "Nothing's Gonna Be Alright (M48)", "田中秀和", ""],
-    [23, "1159 Tinnitus (M18)", "田中秀和", ""],
+    [23, "1159 Tinnitus (M18)", "田中秀和", "0"],
     [24, "A Ripple of Courage (M61)", "田中秀和", ""],
     [25, "A Lost Princess (M49)", "田中秀和", ""],
     [26, "Starting Over (M62)", "田中秀和", ""],
@@ -21652,7 +21653,7 @@ tracks = [
     [21, "A Demon in Shibuya (TypeB) (M15B)", "田中秀和", ""],
     [22, "The Dotted Anxiety (M16)", "田中秀和", ""],
     [23, "Trial and Error (M17)", "田中秀和", ""],
-    [24, "1159 Tinnitus (M18)", "田中秀和", ""],
+    [24, "1159 Tinnitus (M18)", "田中秀和", "0"],
     [25, "Just Curious. (M19)", "田中秀和", ""],
     [26, "Honesty (M20)", "田中秀和", ""],
     [27, "Dress! Dress! Dress! (M21)", "田中秀和", ""],
@@ -21825,10 +21826,10 @@ catalognumber = ""
 date = "2011-07-27"
 album = "アイドルマスター Neue Green for ディアリースターズ(3) 初回限定版 特典ドラマCD"
 tracks = [
-    [1, "(no title available)", "[dialogue]", ""],
-    [2, "(no title available)", "[dialogue]", ""],
-    [3, "(no title available)", "[dialogue]", ""],
-    [4, "(no title available)", "[dialogue]", ""],
+    [1, "(no title available)", "[dialogue]", "0"],
+    [2, "(no title available)", "[dialogue]", "0"],
+    [3, "(no title available)", "[dialogue]", "0"],
+    [4, "(no title available)", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f8f75355-f073-4f1b-aac0-ea1b7c9ba74a", "https://vgmdb.net/album/89443"]
 
@@ -22118,7 +22119,7 @@ catalognumber = "IDM-SC-5"
 date = "2022-12-26"
 album = "アイドルマスター シャイニーカラーズ 5 特装版 特典CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/125435"]
 
@@ -22154,7 +22155,7 @@ tracks = [
     [25, "ススメ☆オトメ ～jewel parade～", "", ""],
     [26, "「蘭子とアーニャのウェーヴタイム」", "", ""],
     [27, "Memories", "", ""],
-    [28, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [28, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [29, "花簪 HANAKANZASHI", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
@@ -22208,7 +22209,7 @@ tracks = [
     [14, "Twilight Sky", "", ""],
     [15, "Nocturne", "", ""],
     [16, "Memories", "", ""],
-    [17, "2nd SIDE", "", ""],
+    [17, "2nd SIDE", "", "0"],
     [18, "Wonder goes on!! with なつきら", "", ""],
     [19, "MC3", "", ""],
     [20, "Shine!!", "", ""],
@@ -22219,7 +22220,7 @@ tracks = [
     [25, "アタシポンコツアンドロイド", "", ""],
     [26, "「蘭子とアーニャのウェーブタイム」", "", ""],
     [27, "We’re the friends!", "", ""],
-    [28, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [28, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [29, "Nebula Sky", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
@@ -22354,7 +22355,7 @@ date = "2024-06"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! SSA Original Album THE IDOLM@STER CINDERELLA GIRLS TO D@NCE TO (GAME VERSION)"
 tracks = [
     [1, "メッセージ -Future PicoPico Remix- (GAME VERSION)", "渋谷凛(CV:福原綾香)、安部菜々(CV:三宅麻理恵)、緒方智絵里(CV:大空直美)、島村卯月(CV:大橋彩香)、本田未央(CV:原紗友里) / ヒゲドライバー", ""],
-    [2, "2nd SIDE -雨あがり Remix- (GAME VERSION)", "神谷奈緒(CV:松井恵理子) / Hiroshi Okubo", ""],
+    [2, "2nd SIDE -雨あがり Remix- (GAME VERSION)", "神谷奈緒(CV:松井恵理子) / Hiroshi Okubo", "0"],
     [3, "ススメ☆オトメ 〜jewel parade〜 -Blooming Floral Remix- (GAME VERSION)", "渋谷凛(CV:福原綾香)、双葉杏(CV:五十嵐裕美)、高垣楓(CV:早見沙織)、城ヶ崎莉嘉(CV:山本希望)、神崎蘭子(CV:内田真礼)、前川みく(CV:高森奈津美)、諸星きらり(CV:松嵜麗)、城ヶ崎美嘉(CV:佳村はるか)、島村卯月(CV:大橋彩香)、小日向美穂(CV:津田美波)、多田李衣菜(CV:青木瑠璃子)、本田未央(CV:原紗友里)、赤城みりあ(CV:黒沢ともよ)、安部菜々(CV:三宅麻理恵)、新田美波(CV:洲崎綾) / ESTi", ""],
     [4, "Hotel Moonside -Take me away from Metropolis Remix- (GAME VERSION)", "速水奏(CV:飯田友子) / 烏屋茶房", ""],
     [5, "秘密のトワレ -Midnight Lab Remix- (GAME VERSION)", "一ノ瀬志希(CV:藍原ことみ) / Taku Inoue", ""],
@@ -22897,7 +22898,7 @@ tracks = [
     [22, "迷走Mind", "", ""],
     [23, "目が逢う瞬間", "", ""],
     [24, "隣に…", "", ""],
-    [25, "Hello!!", "", ""],
+    [25, "Hello!!", "", "0"],
     [26, "Dazzling World", "", ""],
     [27, "プリコグ", "", ""],
     [28, "Alive", "", ""],
@@ -23008,11 +23009,11 @@ catalognumber = "ANXC-0003"
 date = "2011-08-12"
 album = "THE IDOLM@STER Special CD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/92938"]
 
@@ -23126,10 +23127,10 @@ catalognumber = "COCC-17023"
 date = "2015-03-25"
 album = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 03 -LEGNE- 仇なす剣 光の旋律 / Rosenburg Engel"
 tracks = [
-    [1, "-LEGNE- 仇なす剣 光の旋律", "Rosenburg Engel", ""],
+    [1, "-LEGNE- 仇なす剣 光の旋律", "Rosenburg Engel", "0"],
     [2, "夕映えプレゼント -Rosenburg Engel リミックス-", "Rosenburg Engel", ""],
     [3, "ボーナスドラマ「マジックアワー Rosenburg Engel特別編」", "[dialogue]", ""],
-    [4, "-LEGNE- 仇なす剣 光の旋律 (オリジナル・カラオケ)", "Rosenburg Engel", ""],
+    [4, "-LEGNE- 仇なす剣 光の旋律 (オリジナル・カラオケ)", "Rosenburg Engel", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ae7f4529-3566-4e4b-a962-b2f17690a9fb", "https://vgmdb.net/album/51424"]
 
@@ -23277,9 +23278,9 @@ catalognumber = "COCC-16878"
 date = "2014-04-30"
 album = "THE IDOLM@STER CINDERELLA MASTER 027 神谷奈緒"
 tracks = [
-    [1, "2nd SIDE", "神谷奈緒 (CV松井恵理子)", ""],
+    [1, "2nd SIDE", "神谷奈緒 (CV松井恵理子)", "0"],
     [2, "ドラマ「目指せ! シンデレラNO. 1! -神谷奈緒編-」", "[dialogue]", ""],
-    [3, "2nd SIDE（オリジナル・カラオケ）", "神谷奈緒 (CV松井恵理子)", ""],
+    [3, "2nd SIDE（オリジナル・カラオケ）", "神谷奈緒 (CV松井恵理子)", "0"],
     [4, "ボーナス・トラック", "[dialogue]", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/9864184b-c8e2-4d2a-91cd-addd70ea5aba", "https://vgmdb.net/album/44723"]
@@ -23957,7 +23958,7 @@ tracks = [
     [6, "純情Midnight伝説 (M@STER VERSION)", "向井拓海(CV:原優子)、藤本里奈(CV:金子真由美)、松永涼(CV:千菅春香)、大和亜季(CV:村中知)、木村夏樹(CV:安野希世乃)", ""],
     [7, "Love∞Destiny (M@STER VERSION)", "佐久間まゆ(CV:牧野由依)、北条加蓮(CV:渕上舞)、小日向美穂(CV:津田美波)、多田李衣菜(CV:青木瑠璃子)、緒方智絵里(CV:大空直美)", ""],
     [8, "サマカニ!! (M@STER VERSION)", "川島瑞樹、日野茜、堀裕子、上田鈴帆、難波笑美", ""],
-    [9, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", ""],
+    [9, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", "0"],
     [10, "ラブレター (M@STER VERSION)", "島村卯月、小日向美穂、五十嵐響子", ""],
     [11, "Jet to the Future (M@STER VERSION)", "多田李衣菜(CV:青木瑠璃子)、木村夏樹(CV:安野希世乃)", ""],
 ]
@@ -24256,12 +24257,12 @@ catalognumber = "ANZX-6804"
 date = "2011-11-23"
 album = "THE IDOLM@STER DRAMA CD01 765プロ企画会議中!"
 tracks = [
-    [1, "765プロ企画会議中! #01", "765PRO ALLSTARS", ""],
-    [2, "765プロ企画会議中! #02", "765PRO ALLSTARS", ""],
-    [3, "765プロ企画会議中! #03", "765PRO ALLSTARS", ""],
-    [4, "765プロ企画会議中! #04", "765PRO ALLSTARS", ""],
-    [5, "765プロ企画会議中! #05", "765PRO ALLSTARS", ""],
-    [6, "765プロ企画会議中! #06", "765PRO ALLSTARS", ""],
+    [1, "765プロ企画会議中! #01", "765PRO ALLSTARS", "0"],
+    [2, "765プロ企画会議中! #02", "765PRO ALLSTARS", "0"],
+    [3, "765プロ企画会議中! #03", "765PRO ALLSTARS", "0"],
+    [4, "765プロ企画会議中! #04", "765PRO ALLSTARS", "0"],
+    [5, "765プロ企画会議中! #05", "765PRO ALLSTARS", "0"],
+    [6, "765プロ企画会議中! #06", "765PRO ALLSTARS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/11925385-ce5b-4a7c-bf3d-9dc21c89ae2b", "https://vgmdb.net/album/89447"]
 
@@ -24452,7 +24453,7 @@ date = "2016-10-19"
 album = "THE IDOLM@STER PLATINUM MASTER 03 アマテラス"
 tracks = [
     [1, "アマテラス (M@STER VERSION)", "萩原雪歩、三浦あずさ、四条貴音、秋月律子", ""],
-    [2, "765チャンネル vol.3 〜天照突破アマテラス〜 (ドラマ)", "[dialogue]", ""],
+    [2, "765チャンネル vol.3 〜天照突破アマテラス〜 (ドラマ)", "[dialogue]", "0"],
     [3, "アマテラス (M@STER VERSION) (オリジナル・カラオケ)", "萩原雪歩、三浦あずさ、四条貴音、秋月律子", ""],
     [4, "音無小鳥の妄想編集室 vol.3 (ドラマ)", "[dialogue]", ""],
     [5, "飛べない鳥は夜に鳴く", "音無小鳥 featuring 高木順二朗 and you", ""],
@@ -25415,7 +25416,7 @@ tracks = [
     [2, "きゅんっ!ヴァンパイアガール (M@STER VERSION)", "星井美希(CV:長谷川明子)", ""],
     [3, "Catch You Catch Me", "星井美希(CV:長谷川明子)", ""],
     [4, "高鳴る", "星井美希(CV:長谷川明子)", ""],
-    [5, "99 Nights (M@STER VERSION)", "星井美希(CV:長谷川明子)", ""],
+    [5, "99 Nights (M@STER VERSION)", "星井美希(CV:長谷川明子)", "0"],
     [6, "Nostalgia (M@STER VERSION) (オリジナル・カラオケ)", "星井美希(CV:長谷川明子)", ""],
     [7, "ONLY MY NOTE (M@STER VERSION)", "星井美希(CV:長谷川明子)", ""],
 ]
@@ -26173,7 +26174,7 @@ catalognumber = "LACA-15308"
 date = "2013-06-26"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03"
 tracks = [
-    [1, "765ライブシアター開幕! (ドラマパート1)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕! (ドラマパート1)", "[dialogue]", "0"],
     [2, "素敵なキセキ", "春日未来(CV.山崎はるか)", ""],
     [3, "ステージパフォーマンス～春日未来の場合～ (ドラマパート2)", "[dialogue]", ""],
     [4, "ハッピー☆ラッキー☆ジェットマシーン", "横山奈緒(CV.渡部優衣)", ""],
@@ -26607,7 +26608,7 @@ catalognumber = "IMCG-1001"
 date = "2013-04-13"
 album = "PAMPHLET ラジオ THE IDOLM@STER CINDERELLA GIRLS「デレラジ」はじめまして、プロデューサーさん! 特典CD「ぱーっしょん!」"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/90123"]
 
@@ -27241,7 +27242,7 @@ tracks = [
     [13, "セクシータイフーン", "", ""],
     [14, "マジで...!?", "", ""],
     [15, "MC-3", "", ""],
-    [16, "99 Nights", "", ""],
+    [16, "99 Nights", "", "0"],
     [17, "VELVET QUIET", "", ""],
     [18, "翼", "", ""],
     [19, "空", "", ""],
@@ -27486,7 +27487,7 @@ tracks = [
     [5, "たしかな足跡", "", ""],
     [6, "little trip around the world", "", ""],
     [7, "Beat the World!!", "", ""],
-    [8, "\"Your\" HOME TOWN", "", ""],
+    [8, "\"Your\" HOME TOWN", "", "0"],
     [9, "ジャングル☆パーティー", "", ""],
     [10, "Marionetteは眠らない", "", ""],
     [11, "秘密のメモリーズ", "", ""],
@@ -27933,7 +27934,7 @@ catalognumber = "CINDERELLA03"
 date = "2016-12-03"
 album = "アイドルマスター シンデレラガールズ 一番くじオリジナルCD3"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91407"]
 
@@ -28360,7 +28361,7 @@ tracks = [
     [8, "Secret Daybreak", "", ""],
     [9, "Needle Light", "", ""],
     [10, "メッセージ -Future PicoPico Remix-", "", ""],
-    [11, "2nd SIDE", "", ""],
+    [11, "2nd SIDE", "", "0"],
     [12, "MC トーク", "", ""],
     [13, "リトルリドル", "", ""],
     [14, "スパイスパラダイス", "", ""],
@@ -28403,16 +28404,16 @@ catalognumber = "FCCG-0010"
 date = "2006-10-25"
 album = "DJCD ラジオdeアイマSHOW! Vol.2"
 tracks = [
-    [1, "1日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [2, "1日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [3, "1日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [4, "1日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [5, "1日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [6, "2日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [7, "2日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [8, "2日目のスケジュール お昼の事務所", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [9, "2日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [10, "2日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
+    [1, "1日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [2, "1日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [3, "1日目のスケジュール お昼のロッカールーム", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [4, "1日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [5, "1日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [6, "2日目のスケジュール オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [7, "2日目のスケジュール ふつおた～流行情報", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [8, "2日目のスケジュール お昼の事務所", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [9, "2日目のスケジュール レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
+    [10, "2日目のスケジュール エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e45834dd-13f1-4900-9099-7ec6b971facd", "https://vgmdb.net/album/19874"]
 
@@ -28661,10 +28662,10 @@ catalognumber = ""
 date = "2011-07-27"
 album = "アイドルマスター Splash Red for ディアリースターズ(3) 初回限定版 特典ドラマCD"
 tracks = [
-    [1, "(no title available)", "[dialogue]", ""],
-    [2, "(no title available)", "[dialogue]", ""],
-    [3, "(no title available)", "[dialogue]", ""],
-    [4, "(no title available)", "[dialogue]", ""],
+    [1, "(no title available)", "[dialogue]", "0"],
+    [2, "(no title available)", "[dialogue]", "0"],
+    [3, "(no title available)", "[dialogue]", "0"],
+    [4, "(no title available)", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f4deabe2-c05d-4b95-be2d-255e42a7eacc", "https://vgmdb.net/album/89444"]
 
@@ -29990,32 +29991,32 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@SAIT
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Yes! Party Time!! (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "アップルパイ・プリンセス", "", ""],
     [5, "追い風Running", "", ""],
     [6, "にょわにょわーるど☆", "", ""],
     [7, "たくさん!", "", ""],
     [8, "Flip Flop", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "Kawaii make MY day! (M@STER VERSION)", "", ""],
     [11, "スローライフ・ファンタジー", "", ""],
     [12, "桜の頃 (M@STER VERSION)", "", ""],
     [13, "Sweet Witches' Night ～6人目はだぁれ～ (M@STER VERSION)", "", ""],
     [14, "We're the friends!", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "キミのそばでずっと", "", ""],
     [17, "薄紅", "", ""],
     [18, "祈りの花", "", ""],
     [19, "命燃やして恋せよ乙女 (M@STER VERSION)", "", ""],
     [20, "輝く世界の魔法", "", ""],
-    [21, "-MC4-", "", ""],
+    [21, "-MC4-", "", "0"],
     [22, "Bloody Festa", "", ""],
     [23, "Neo Beautiful Pain", "", ""],
     [24, "マイ・スイート・ハネムーン", "", ""],
     [25, "With Love (M@STER VERSION)", "", ""],
     [26, "Near to You", "", ""],
     [27, "銀のイルカと熱い風", "", ""],
-    [28, "-MC5-", "", ""],
+    [28, "-MC5-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/95388"]
 
@@ -30025,7 +30026,7 @@ date = "2018-08-29"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@SAITAMA SUPER ARENA Disc 2 [COXC-1264]"
 tracks = [
     [1, "Serendipity Medley!!!", "", ""],
-    [2, "-MC6-", "", ""],
+    [2, "-MC6-", "", "0"],
     [3, "Take me☆Take you", "", ""],
     [4, "モーレツ★世直しギルティ! (M@STER VERSION)", "", ""],
     [5, "メルヘン∞メタモルフォーゼ!", "", ""],
@@ -30033,11 +30034,11 @@ tracks = [
     [7, "Nothing but You (M@STER VERSION)", "", ""],
     [8, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
     [9, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
-    [10, "-MC7-", "", ""],
+    [10, "-MC7-", "", "0"],
     [11, "夕映えプレゼント", "", ""],
     [12, "EVERMORE (M@STER VERSION)", "", ""],
     [13, "M@GIC☆", "", ""],
-    [14, "-MC8-", "", ""],
+    [14, "-MC8-", "", "0"],
     [15, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95388"]
@@ -30049,32 +30050,32 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@SAIT
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Shine!!", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "熱血乙女A", "", ""],
     [5, "SUPERLOVE☆", "", ""],
     [6, "青空リレーション", "", ""],
     [7, "キラッ!満開スマイル", "", ""],
     [8, "SUN♡FLOWER", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "輝く世界の魔法", "", ""],
     [11, "エチュードは1曲だけ", "", ""],
     [12, "cherry*merry*cherry", "", ""],
     [13, "つぼみ", "", ""],
     [14, "Love∞Destiny (M@STER VERSION)", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "Near to You", "", ""],
     [17, "Snow Wings (M@STER VERSION)", "", ""],
     [18, "To my darling...", "", ""],
     [19, "ラヴィアンローズ", "", ""],
     [20, "リトルリドル (M@STER VERSION)", "", ""],
-    [21, "-MC4-", "", ""],
+    [21, "-MC4-", "", "0"],
     [22, "We're the friends!", "", ""],
     [23, "One Life", "", ""],
     [24, "PANDEMIC ALONE", "", ""],
     [25, "Nocturne", "", ""],
     [26, "銀のイルカと熱い風", "", ""],
     [27, "Treasure☆", "", ""],
-    [28, "-MC5-", "", ""],
+    [28, "-MC5-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/95388"]
 
@@ -30084,7 +30085,7 @@ date = "2018-08-29"
 album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@SAITAMA SUPER ARENA Disc 4 [COXC-1266]"
 tracks = [
     [1, "Serendipity Medley!!!", "", ""],
-    [2, "-MC6-", "", ""],
+    [2, "-MC6-", "", "0"],
     [3, "∀NSWER (M@STER VERSION)", "", ""],
     [4, "Jet to the Future (M@STER VERSION)", "", ""],
     [5, "ラブレター (M@STER VERSION)", "", ""],
@@ -30092,11 +30093,11 @@ tracks = [
     [7, "Tulip (M@STER VERSION)", "", ""],
     [8, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [9, "サマカニ!! (M@STER VERSION)", "", ""],
-    [10, "-MC7-", "", ""],
+    [10, "-MC7-", "", "0"],
     [11, "夢色ハーモニー", "", ""],
     [12, "EVERMORE (M@STER VERSION)", "", ""],
     [13, "M@GIC☆", "", ""],
-    [14, "-MC8-", "", ""],
+    [14, "-MC8-", "", "0"],
     [15, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95388"]
@@ -30293,7 +30294,7 @@ tracks = [
     [9, "DOKIDOKIリズム", "", ""],
     [10, "TOKIMEKIエスカレート", "", ""],
     [11, "S(mile)ING!", "", ""],
-    [12, "“HELLO!!” (M@STER VERSION)", "", ""],
+    [12, "“HELLO!!” (M@STER VERSION)", "", "0"],
     [13, "乙女よ大志を抱け!!", "", ""],
     [14, "黎明スターライン", "", ""],
     [15, "マリオネットの心 (M@STER VERSION)", "", ""],
@@ -30429,7 +30430,7 @@ album = "THE SHIRASU M@STER VIOLIN & BAND ver"
 tracks = [
     [1, "Shine!! (Intro ver)", "", ""],
     [2, "Star!!", "", ""],
-    [3, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [3, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [4, "あんずのうた", "", ""],
     [5, "お願い!シンデレラ", "", ""],
     [6, "華蕾夢ミル狂詩曲～魂ノ導～", "", ""],
@@ -31083,7 +31084,7 @@ tracks = [
     [1, "GOIN'!!! (Piano ver.)", "", ""],
     [2, "Star!! (Band and Violin ver.)", "", ""],
     [3, "Trancing pulse (Band and Violin ver.)", "", ""],
-    [4, "-LEGNE- 仇なす剣 光の旋律 (Band and Violin ver.)", "", ""],
+    [4, "-LEGNE- 仇なす剣 光の旋律 (Band and Violin ver.)", "", "0"],
     [5, "S(mile)ling (Violin and Piano ver.)", "", ""],
     [6, "あんずのうた (Band and Violin ver.)", "", ""],
     [7, "風色メロディ (Violin and Piano ver.)", "", ""],
@@ -31933,7 +31934,7 @@ catalognumber = "LACA-15300"
 date = "2013-05-29"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02"
 tracks = [
-    [1, "765ライブシアター開幕! (ドラマパート1)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕! (ドラマパート1)", "[dialogue]", "0"],
     [2, "キラメキ進行形", "天海春香 (CV.中村繪里子)", ""],
     [3, "ステージパフォーマンス～天海春香の場合～ (ドラマパート2)", "[dialogue]", ""],
     [4, "透明なプロローグ", "七尾百合子(CV 伊藤美来)", ""],
@@ -31972,7 +31973,7 @@ tracks = [
     [6, "Shine!!", "CINDERELLA PROJECT", ""],
     [7, "M@GIC☆", "CINDERELLA PROJECT", ""],
     [8, "とどけ!アイドル", "島村卯月(CV:大橋彩香)、渋谷凛(CV:福原綾香)、本田未央(CV:原紗友里)、双葉杏(CV:五十嵐裕美)、諸星きらり(CV:松嵜麗)", ""],
-    [9, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", ""],
+    [9, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", "0"],
     [10, "イリュージョニスタ! (M@STER VERSION)", "本田未央(CV:原紗友里)、佐久間まゆ(CV:牧野由依)、鷺沢文香(CV:M・A・O)、輿水幸子(CV:竹達彩奈)、新田美波(CV:洲崎綾)", ""],
     [11, "Yes! Party Time!! (M@STER VERSION)", "島村卯月(CV:大橋彩香)、渋谷凛(CV:福原綾香)、本田未央(CV:原紗友里)、赤城みりあ(CV:黒沢ともよ)、安部菜々(CV:三宅麻理恵)", ""],
     [12, "EVERMORE (M@STER VERSION)", "城ヶ崎美嘉(CV:佳村はるか)、神崎蘭子(CV:内田真礼)、前川みく(CV:高森奈津美)、二宮飛鳥(CV:青木志貴)、一ノ瀬志希(CV:藍原ことみ)", ""],
@@ -32137,7 +32138,7 @@ tracks = [
     [8, "タッチ", "原紗友里&青木瑠璃子&洲崎綾 from CINDERELLA PARTY!", ""],
     [9, "ロックン・オムレツ", "原紗友里&青木瑠璃子&種﨑敦美 from CINDERELLA PARTY!", ""],
     [10, "Over Drive", "原紗友里&青木瑠璃子&飯田友子 from CINDERELLA PARTY!", ""],
-    [11, "17才", "原紗友里&青木瑠璃子&三宅麻理恵 from CINDERELLA PARTY!", ""],
+    [11, "17才", "原紗友里&青木瑠璃子&三宅麻理恵 from CINDERELLA PARTY!", "1"],
     [12, "トーク5 エンディング・トーク", "原紗友里(本田未央 役)&青木瑠璃子(多田李衣菜 役) from CINDERELLA PARTY!", ""],
     [13, "デレパ音頭 (オリジナル・カラオケ)", "原紗友里&青木瑠璃子 from CINDERELLA PARTY!", ""],
 ]
@@ -32176,7 +32177,7 @@ tracks = [
     [5, "shiny smile (M@STER VERSION)", "天海春香(CV:中村繪里子), 如月千早(CV:今井麻美), 秋月律子(CV:若林直美)", ""],
     [6, "Colorful Days (M@STER VERSION)", "天海春香(CV:中村繪里子), 如月千早(CV:今井麻美), 双海亜美(CV:下田麻美)", ""],
     [7, "L・O・B・M", "IM@S ALLSTARS++", ""],
-    [8, "“HELLO!!” (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", ""],
+    [8, "“HELLO!!” (M@STER VERSION)", "日高愛(CV:戸松遥), 水谷絵理(CV:花澤香菜), 秋月涼(CV:三瓶由布子)", "0"],
     [9, "MEGARE! (M@STER VERSION)", "765PRO ALLSTARS", ""],
     [10, "The world is all one !! (M@STER VERSION)", "765PRO ALLSTARS", ""],
     [11, "READY!! (M@STER VERSION)", "765PRO ALLSTARS", ""],
@@ -32490,13 +32491,13 @@ catalognumber = "COCC-17148"
 date = "2017-02-01"
 album = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 08 BEYOND THE STARLIGHT"
 tracks = [
-    [1, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", ""],
+    [1, "BEYOND THE STARLIGHT (M@STER VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", "0"],
     [2, "スローライフ・ファンタジー", "双葉杏(CV:五十嵐裕美)", ""],
     [3, "Frozen Tears", "北条加蓮(CV:渕上舞)", ""],
-    [4, "BEYOND THE STARLIGHT (M@STER VERSION) (オリジナル・カラオケ)", "城ヶ崎莉嘉、緒方智絵里、北条加蓮、川島瑞樹、大槻唯", ""],
+    [4, "BEYOND THE STARLIGHT (M@STER VERSION) (オリジナル・カラオケ)", "城ヶ崎莉嘉、緒方智絵里、北条加蓮、川島瑞樹、大槻唯", "0"],
     [5, "スローライフ・ファンタジー (オリジナル・カラオケ)", "双葉杏", ""],
     [6, "Frozen Tears (オリジナル・カラオケ)", "北条加蓮", ""],
-    [7, "BEYOND THE STARLIGHT (GAME VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", ""],
+    [7, "BEYOND THE STARLIGHT (GAME VERSION)", "城ヶ崎莉嘉(CV:山本希望)、緒方智絵里(CV:大空直美)、北条加蓮(CV:渕上舞)、川島瑞樹(CV:東山奈央)、大槻唯(CV:山下七海)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3dd198ec-224e-47c1-a4b8-678a3a5cdceb", "https://vgmdb.net/album/63989"]
 
@@ -32519,7 +32520,7 @@ tracks = [
     [2, "Avalon", "沼倉愛美", ""],
     [3, "One Step", "原由実", ""],
     [4, "Traveler", "今井麻美, 原由実, 沼倉愛美", ""],
-    [5, "1, 2, 3", "沼倉愛美, 原由実, 浅倉杏美", ""],
+    [5, "1, 2, 3", "沼倉愛美, 原由実, 浅倉杏美", "0"],
     [6, "It's Alright!", "沼倉愛美", ""],
     [7, "Crescent Maze", "原由実", ""],
     [8, "Superstar", "浅倉杏美", ""],
@@ -33213,7 +33214,7 @@ date = "2016-09-21"
 album = "THE IDOLM@STER PLATINUM MASTER 02 僕たちのResistance"
 tracks = [
     [1, "僕たちのResistance (M@STER VERSION)", "星井美希、如月千早、高槻やよい、我那覇響", ""],
-    [2, "765チャンネル vol.2 〜僕たちのResistance・Z〜 (ドラマ)", "[dialogue]", ""],
+    [2, "765チャンネル vol.2 〜僕たちのResistance・Z〜 (ドラマ)", "[dialogue]", "0"],
     [3, "僕たちのResistance (M@STER VERSION) (オリジナル・カラオケ)", "星井美希、如月千早、高槻やよい、我那覇響", ""],
     [4, "音無小鳥の妄想編集室 vol.2 (ドラマ)", "[dialogue]", ""],
     [5, "インセインゲーム", "星井美希、我那覇響、四条貴音", ""],
@@ -33292,34 +33293,34 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@SHIZ
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Yes! Party Time!! (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "Romantic Now", "", ""],
     [5, "き・ま・ぐ・れ☆Cafe au lait!", "", ""],
     [6, "ニャンと☆スペクタクル", "", ""],
     [7, "空と風と恋のワルツ", "", ""],
     [8, "Heart Voice", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "追い風Running", "", ""],
     [11, "秘密のトワレ", "", ""],
     [12, "心もよう", "", ""],
     [13, "shabon song", "", ""],
     [14, "Jet to the Future (M@STER VERSION)", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "エチュードは1曲だけ", "", ""],
     [17, "パステルピンクな恋", "", ""],
     [18, "絶対特権主張しますっ!", "", ""],
     [19, "Star!!", "", ""],
-    [20, "-MC4-", "", ""],
+    [20, "-MC4-", "", "0"],
     [21, "Love∞Destiny (M@STER VERSION)", "", ""],
     [22, "共鳴世界の存在論", "", ""],
     [23, "Sparkling Girl", "", ""],
     [24, "Rockin' Emotion", "", ""],
     [25, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [26, "純情Midnight伝説 (M@STER VERSION)", "", ""],
-    [27, "-MC5-", "", ""],
+    [27, "-MC5-", "", "0"],
     [28, "夕映えプレゼント", "", ""],
     [29, "M@GIC☆", "", ""],
-    [30, "-MC6-", "", ""],
+    [30, "-MC6-", "", "0"],
     [31, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95385"]
@@ -33685,7 +33686,7 @@ tracks = [
     [17, "きみにいっぱい☆ (BGM arrange Mix)", "BNSI", ""],
     [18, "Near to You (BGM arrange Mix)", "BNSI", ""],
     [19, "サマカニ!! (BGM arrange Mix)", "BNSI", ""],
-    [20, "BEYOND THE STARLIGHT (BGM arrange Mix)", "BNSI", ""],
+    [20, "BEYOND THE STARLIGHT (BGM arrange Mix)", "BNSI", "0"],
     [21, "ラブレター (BGM arrange Mix)", "BNSI", ""],
     [22, "STORY (BGM arrange Mix)", "BNSI", ""],
     [23, "Jet to the Future (BGM arrange Mix)", "BNSI", ""],
@@ -34183,8 +34184,8 @@ catalognumber = "LACA-15319"
 date = "2013-12-25"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09"
 tracks = [
-    [1, "765ライブシアター開幕!〜3日前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!〜3日前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "Helloコンチェルト", "秋月律子(CV 若林直美)、木下ひなた(CV 田村奈央)、佐竹美奈子(CV 大関英里)、松田亜利沙(CV 村川梨衣)", ""],
     [4, "ステージパフォーマンス〜佐竹美奈子の場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "スマイルいちばん", "佐竹美奈子(CV 大関英里)", ""],
@@ -34617,7 +34618,7 @@ catalognumber = "CINDERELLA01"
 date = "2016-04-30"
 album = "アイドルマスター シンデレラガールズ 一番くじオリジナルCD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91405"]
 
@@ -34962,8 +34963,8 @@ tracks = [
     [6, "あらかねの器 (GAME VERSION)", "藤原肇(CV:鈴木みのり)", ""],
     [7, "OTAHEN アンセム (GAME VERSION)", "夢見りあむ(CV:星希成奏)", ""],
     [8, "Beat of the Night (GAME VERSION)", "黒埼ちとせ(CV:佐倉薫)", ""],
-    [9, "#HE4DSHOT (GAME VERSION)", "砂塚あきら(CV:富田美憂)", ""],
-    [10, "14平米にスーベニア (GAME VERSION)", "久川凪(CV:立花日菜)", ""],
+    [9, "#HE4DSHOT (GAME VERSION)", "砂塚あきら(CV:富田美憂)", "0"],
+    [10, "14平米にスーベニア (GAME VERSION)", "久川凪(CV:立花日菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3e0dd9ae-d51f-44f8-a403-2fc082f61b00", "https://vgmdb.net/album/125042"]
 
@@ -35068,10 +35069,10 @@ catalognumber = "GES-15053"
 date = "2014-12-28"
 album = "THE IDOLM@STER CINDERELLA GIRLS「Passion Winter Activity!」スペシャルドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/90190"]
 
@@ -35170,9 +35171,9 @@ tracks = [
     [29, "IM_Performance", "NBGI", ""],
     [30, "IM_Voice", "NBGI", ""],
     [31, "IM_Words", "NBGI", ""],
-    [32, "961pro", "NBGI(中川浩二)", ""],
-    [33, "“HELLO!!” (DS Electro ver.)", "神前暁", ""],
-    [34, "“HELLO!!” (DS Jingle ver.)", "神前暁", ""],
+    [32, "961pro", "NBGI(中川浩二)", "0"],
+    [33, "“HELLO!!” (DS Electro ver.)", "神前暁", "0"],
+    [34, "“HELLO!!” (DS Jingle ver.)", "神前暁", "0"],
     [35, "Ai (DS Pop ver.)", "NBGI(椎名豪)", ""],
     [36, "Ai (DS Pf ver.)", "NBGI(椎名豪)", ""],
     [37, "DS Game BGM", "NBGI", ""],
@@ -35181,7 +35182,7 @@ tracks = [
     [40, "DS Game BGM (Type A)", "NBGI", ""],
     [41, "Ryo (DS Pop ver.)", "NBGI(渡辺量)", ""],
     [42, "Ryo (DS Pf ver.)", "NBGI(渡辺量)", ""],
-    [43, "“HELLO!!” (DS Ending ver.)", "神前暁", ""],
+    [43, "“HELLO!!” (DS Ending ver.)", "神前暁", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7dec0fed-5e25-495d-8331-39c08805af35", "https://vgmdb.net/album/18386"]
 
@@ -35561,12 +35562,12 @@ catalognumber = "BNEI-00003"
 date = "2016"
 album = "THE IDOLM@STER MILLION LIVE! 765プロライブシアター 3周年記念イベントリポート ドラマCD Disc 1"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
-    [6, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
+    [6, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91363"]
 
@@ -35575,9 +35576,9 @@ catalognumber = "BNEI-00003"
 date = "2016"
 album = "THE IDOLM@STER MILLION LIVE! 765プロライブシアター 3周年記念イベントリポート ドラマCD Disc 2"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91363"]
 
@@ -35867,7 +35868,7 @@ album = "THE IDOLM@STER LIVE THE@TER DREAMERS 02"
 tracks = [
     [1, "Overture", "[dialogue]", ""],
     [2, "Dreaming!", "天海春香(CV.中村繪里子)、春日未来(CV.山崎はるか)、北上麗花(CV.平山笑美)、北沢志保(CV.雨宮天)、ジュリア(CV.愛美)、高槻やよい(CV.仁後真耶子)、所恵美(CV.藤井ゆきよ)、七尾百合子(CV.伊藤美来)、望月杏奈(CV.夏川椎菜)、矢吹可奈(CV.木戸衣吹)", ""],
-    [3, "765PRO LIVE THE@TER 仙台公演開演!", "[dialogue]", ""],
+    [3, "765PRO LIVE THE@TER 仙台公演開演!", "[dialogue]", "0"],
     [4, "ハルカナミライ", "天海春香(CV.中村繪里子)×春日未来(CV.山崎はるか)", ""],
     [5, "成長Chu→LOVER!!", "望月杏奈(CV.夏川椎菜)×七尾百合子(CV.伊藤美来)", ""],
     [6, "エスケープ", "ジュリア(CV.愛美)×所恵美(CV.藤井ゆきよ)", ""],
@@ -35882,8 +35883,8 @@ catalognumber = "LACA-15315"
 date = "2013-08-28"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05"
 tracks = [
-    [1, "765ライブシアター開幕!〜1時間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!〜1時間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "微笑み日和", "エミリー゠スチュアート(CV.郁原ゆう)", ""],
     [4, "ステージパフォーマンス〜エミリー スチュアートの場合〜 (ドラマパート3)", "[dialogue]", ""],
     [5, "POKER POKER", "真壁瑞希(CV.阿部里果)", ""],
@@ -36153,7 +36154,7 @@ date = "2008-12-25"
 album = "ドラマCD アイドルマスター Eternal Prism 01"
 tracks = [
     [1, "伝説のアイドル", "石原章弘 & 田沢大典", ""],
-    [2, "961プロの番組ジャック", "石原章弘 & 田沢大典", ""],
+    [2, "961プロの番組ジャック", "石原章弘 & 田沢大典", "0"],
     [3, "運命のオーディション", "石原章弘 & 田沢大典", ""],
     [4, "春香の想い", "石原章弘 & 田沢大典", ""],
     [5, "私たちにできること", "石原章弘 & 田沢大典", ""],
@@ -36294,8 +36295,8 @@ catalognumber = "FVCG-1014"
 date = "2008-05-28"
 album = "ファミソン8BIT☆アイドルマスター 04 菊地真／萩原雪歩"
 tracks = [
-    [1, "765ワールド☆オープニング（ver.04）～『My Best Friend』より～", "KPLECRAFT", ""],
-    [2, "765ワールドへようこそ（ver.04）【ドラマ】～『My Best Friend』より～", "菊地真／萩原雪歩", ""],
+    [1, "765ワールド☆オープニング（ver.04）～『My Best Friend』より～", "KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ（ver.04）【ドラマ】～『My Best Friend』より～", "菊地真／萩原雪歩", "0"],
     [3, "My Best Friend（『イシターの復活』ファミソン8BIT MIX）", "菊地真／萩原雪歩", ""],
     [4, "アトラクション『ディグダグ』【ドラマ】", "萩原雪歩", ""],
     [5, "EXCAVATE（『ディグダグ』NEW SONG）", "萩原雪歩", ""],
@@ -36306,7 +36307,7 @@ tracks = [
     [10, "本日のお芝居【ドラマ】", "菊地真／萩原雪歩", ""],
     [11, "relations（digno-pop MIX）", "菊地真／萩原雪歩", ""],
     [12, "またのご来園を！（ver.04）【ドラマ】", "菊地真／萩原雪歩", ""],
-    [13, "765ワールド☆フィナーレ（ver.04）～『My Best Friend』より～", "KPLECRAFT", ""],
+    [13, "765ワールド☆フィナーレ（ver.04）～『My Best Friend』より～", "KPLECRAFT", "0"],
     [14, "My Best Friend（オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [15, "First Stage（オリジナル8BIT Instrumental）", "KPLECRAFT", ""],
     [16, "エージェント夜を往く（オリジナル8BIT Instrumental)", "KPLECRAFT", ""],
@@ -36686,7 +36687,7 @@ tracks = [
     [9, "Orange Sapphire", "", ""],
     [10, "MC4", "", ""],
     [11, "Nation Blue", "", ""],
-    [12, "2nd SIDE", "", ""],
+    [12, "2nd SIDE", "", "0"],
     [13, "You’re stars shine on me", "", ""],
     [14, "風色メロディ", "", ""],
     [15, "薄荷 -ハッカ-", "", ""],
@@ -36796,7 +36797,7 @@ tracks = [
     [1, "始球式", "", ""],
     [2, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [3, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [4, "-MC1-", "", ""],
+    [4, "-MC1-", "", "0"],
     [5, "気持ちいいよね 一等賞！", "", ""],
     [6, "HARURUNRUN", "", ""],
     [7, "TOKIMEKIエスカレート", "", ""],
@@ -36804,7 +36805,7 @@ tracks = [
     [9, "One Life", "", ""],
     [10, "STORY", "", ""],
     [11, "Starry-Go-Round", "", ""],
-    [12, "-MC2-", "", ""],
+    [12, "-MC2-", "", "0"],
     [13, "Radio Happy", "", ""],
     [14, "DOKIDOKIリズム", "", ""],
     [15, "Dreaming Star", "", ""],
@@ -36813,7 +36814,7 @@ tracks = [
     [18, "Twin☆くるっ★テール (M@STER VERSION)", "", ""],
     [19, "Virgin Love (M@STER VERSION)", "", ""],
     [20, "Wonder goes on!!", "", ""],
-    [21, "-MC3-", "", ""],
+    [21, "-MC3-", "", "0"],
     [22, "千川ちひろによる開演前のご挨拶(Day1)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36830,7 +36831,7 @@ tracks = [
     [5, "Private Sign", "", ""],
     [6, "桜の風", "", ""],
     [7, "クレイジークレイジー (M@STER VERSION)", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "Dreaming of you", "", ""],
     [10, "Dear My Dreamers", "", ""],
     [11, "炎の華", "", ""],
@@ -36839,10 +36840,10 @@ tracks = [
     [14, "純情Midnight伝説 (M@STER VERSION)", "", ""],
     [15, "Tulip (M@STER VERSION)", "", ""],
     [16, "Happy New Yeah! (M@STER VERSION)", "", ""],
-    [17, "-MC5-", "", ""],
+    [17, "-MC5-", "", "0"],
     [18, "Stage Bye Stage", "", ""],
     [19, "GOIN'!!!", "", ""],
-    [20, "-MC6-", "", ""],
+    [20, "-MC6-", "", "0"],
     [21, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36854,14 +36855,14 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! Disc 3 [CL
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "ステップ！", "", ""],
     [5, "いとしーさー♥", "", ""],
     [6, "ドレミファクトリー！", "", ""],
     [7, "リトルリドル (M@STER VERSION)", "", ""],
     [8, "メルヘンデビュー！", "", ""],
     [9, "Starry-Go-Round", "", ""],
-    [10, "-MC2-", "", ""],
+    [10, "-MC2-", "", "0"],
     [11, "CoCo 夏夏夏 Holiday", "", ""],
     [12, "Twin☆くるっ★テール (M@STER VERSION)", "", ""],
     [13, "凸凹スピードスター (M@STER VERSION)", "", ""],
@@ -36869,7 +36870,7 @@ tracks = [
     [15, "Virgin Love (M@STER VERSION)", "", ""],
     [16, "ハイファイ☆デイズ (M@STER VERSION)", "", ""],
     [17, "Orange Sapphire", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "千川ちひろによる開演前のご挨拶(Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36886,7 +36887,7 @@ tracks = [
     [5, "キミのそばでずっと", "", ""],
     [6, "さよならアロハ", "", ""],
     [7, "なつっこ音頭", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "You're stars shine on me", "", ""],
     [10, "クレイジークレイジー (M@STER VERSION)", "", ""],
     [11, "Bloody Festa", "", ""],
@@ -36897,10 +36898,10 @@ tracks = [
     [16, "Tulip (M@STER VERSION)", "", ""],
     [17, "Absolute NIne", "", ""],
     [18, "ガールズ・イン・ザ・フロンティア (M@STER VERSION)", "", ""],
-    [19, "-MC5-", "", ""],
+    [19, "-MC5-", "", "0"],
     [20, "Stage Bye Stage", "", ""],
     [21, "GOIN'!!!", "", ""],
-    [22, "-MC6-", "", ""],
+    [22, "-MC6-", "", "0"],
     [23, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36935,7 +36936,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! Disc 6 [CL
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "お散歩カメラ", "", ""],
     [5, "cherry*merry*cherry", "", ""],
     [6, "恋色エナジー", "", ""],
@@ -36943,14 +36944,14 @@ tracks = [
     [8, "Sunshine See May", "", ""],
     [9, "Kawaii make MY day! (M@STER VERSION)", "", ""],
     [10, "Starry-Go-Round", "", ""],
-    [11, "-MC2-", "", ""],
+    [11, "-MC2-", "", "0"],
     [12, "Take me☆Take you", "", ""],
     [13, "あんきら！？狂騒曲 (M@STER VERSION)", "", ""],
     [14, "秋風に手を振って", "", ""],
     [15, "秋めいて Ding Dong Dang!", "", ""],
     [16, "Naked Romance", "", ""],
     [17, "情熱ファンファンファーレ (M@STER VERSION)", "", ""],
-    [18, "-MC3-", "", ""],
+    [18, "-MC3-", "", "0"],
     [19, "千川ちひろによる開演前のご挨拶(Day1)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36967,7 +36968,7 @@ tracks = [
     [5, "君への詩", "", ""],
     [6, "さよならアンドロメダ", "", ""],
     [7, "夕映えプレゼント", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "ガールズ・イン・ザ・フロンティア (M@STER VERSION)", "", ""],
     [10, "AnemoneStar", "", ""],
     [11, "Love∞Destiny (M@STER VERSION)", "", ""],
@@ -36978,10 +36979,10 @@ tracks = [
     [16, "Trust me", "", ""],
     [17, "∀NSWER (M@STER VERSION)", "", ""],
     [18, "Trinity Field (M@STER VERSION)", "", ""],
-    [19, "-MC5-", "", ""],
+    [19, "-MC5-", "", "0"],
     [20, "Stage Bye Stage", "", ""],
     [21, "GOIN'!!!", "", ""],
-    [22, "-MC6-", "", ""],
+    [22, "-MC6-", "", "0"],
     [23, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -36993,7 +36994,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!! Disc 8 [CL
 tracks = [
     [1, "OPENING「MERRY-GO-ROUNDOME!!!」", "", ""],
     [2, "イリュージョニスタ！ (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "Snow Wings (M@STER VERSION)", "", ""],
     [5, "追い風Running", "", ""],
     [6, "アツアツ♪マカロニグラタン", "", ""],
@@ -37002,14 +37003,14 @@ tracks = [
     [9, "あんきら！？狂騒曲 (M@STER VERSION)", "", ""],
     [10, "Snow＊Love", "", ""],
     [11, "Starry-Go-Round", "", ""],
-    [12, "-MC2-", "", ""],
+    [12, "-MC2-", "", "0"],
     [13, "きらりんロボのテーマ", "", ""],
     [14, "あんずのうた", "", ""],
     [15, "おんなの道は星の道", "", ""],
     [16, "Sparkling Girl", "", ""],
     [17, "Treasure☆", "", ""],
     [18, "ラブレター (M@STER VERSION)", "", ""],
-    [19, "-MC3-", "", ""],
+    [19, "-MC3-", "", "0"],
     [20, "千川ちひろによる開演前のご挨拶(Day2)", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -37026,7 +37027,7 @@ tracks = [
     [5, "マイ・スイート・ハネムーン", "", ""],
     [6, "With Love (M@STER VERSION)", "", ""],
     [7, "恋が咲く季節", "", ""],
-    [8, "-MC4-", "", ""],
+    [8, "-MC4-", "", "0"],
     [9, "Frozen Tears", "", ""],
     [10, "モーレツ★世直しギルティ！ (M@STER VERSION)", "", ""],
     [11, "Love∞Destiny (M@STER VERSION)", "", ""],
@@ -37036,10 +37037,10 @@ tracks = [
     [15, "Trinity Field (M@STER VERSION)", "", ""],
     [16, "流れ星キセキ", "", ""],
     [17, "always", "", ""],
-    [18, "-MC5-", "", ""],
+    [18, "-MC5-", "", "0"],
     [19, "Stage Bye Stage", "", ""],
     [20, "GOIN'!!!", "", ""],
-    [21, "-MC6-", "", ""],
+    [21, "-MC6-", "", "0"],
     [22, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95442"]
@@ -37131,7 +37132,7 @@ tracks = [
     [5, "shiny smile (M@STER VERSION)", "", ""],
     [6, "Colorful Days (M@STER VERSION)", "", ""],
     [7, "L・O・B・M", "", ""],
-    [8, "“HELLO!!” (M@STER VERSION)", "", ""],
+    [8, "“HELLO!!” (M@STER VERSION)", "", "0"],
     [9, "MEGARE! (M@STER VERSION)", "", ""],
     [10, "The world is all one !! (M@STER VERSION)", "", ""],
     [11, "READY!! (M@STER VERSION)", "", ""],
@@ -37293,9 +37294,9 @@ catalognumber = ""
 date = "2013-09-30"
 album = "アイドルマスター シンデレラガールズ コミックアンソロジー cute VOL.2 キュートなドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/92939"]
 
@@ -37377,7 +37378,7 @@ tracks = [
     [3, "Memories", "LOVE LAIKA", ""],
     [4, "LET'S GO HAPPY!!", "凸レーション", ""],
     [5, "メッセージ", "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（渋谷凛、安部菜々、緒方智絵里、島村卯月、本田未央）", ""],
-    [6, "-LEGNE- 仇なす剣 光の旋律", "Rosenburg Engel", ""],
+    [6, "-LEGNE- 仇なす剣 光の旋律", "Rosenburg Engel", "0"],
     [7, "Happy×2 Days", "CANDY ISLAND", ""],
     [8, "ØωØver!!", "＊(Asterisk)", ""],
     [9, "GOIN'!!!", "CINDERELLA PROJECT", ""],
@@ -38569,7 +38570,7 @@ tracks = [
     [4, "Near to You", "", ""],
     [5, "Radio Happy", "", ""],
     [6, "リトルリドル", "", ""],
-    [7, "-MC-", "", ""],
+    [7, "-MC-", "", "0"],
     [8, "とんでいっちゃいたいの", "", ""],
     [9, "日々あどべんちゃーなのでしてー", "", ""],
     [10, "きゅん・きゅん・まっくす", "", ""],
@@ -38582,11 +38583,11 @@ tracks = [
     [17, "秘密のトワレ", "", ""],
     [18, "たくさん！", "", ""],
     [19, "Romantic Now", "", ""],
-    [20, "-MC-", "", ""],
+    [20, "-MC-", "", "0"],
     [21, "Yes! Party Time!! (Short Ver.)", "", ""],
     [22, "ゴキゲンParty Night (Short Ver.)", "", ""],
     [23, "サイキック！ぱーりーないと☆ (Short Ver.)", "", ""],
-    [24, "#HE4DSHOT", "", ""],
+    [24, "#HE4DSHOT", "", "0"],
     [25, "千川ちひろによる開演前のご挨拶", "", ""],
 ]
 links = ["https://vgmdb.net/album/126249"]
@@ -38597,14 +38598,14 @@ date = "2023-04-19"
 album = "THE IDOLM@STER CINDERELLA GIRLS LIKE4LIVE #cg_ootd Disc 2 [SAXC-1078]"
 tracks = [
     [1, "Max Beat", "", ""],
-    [2, "14平米にスーベニア", "", ""],
+    [2, "14平米にスーベニア", "", "0"],
     [3, "ギョーてん！しーわーるど！", "", ""],
     [4, "ラビューダ♡トライアングル", "", ""],
     [5, "UNIQU3 VOICES!!!", "", ""],
-    [6, "-MC-", "", ""],
+    [6, "-MC-", "", "0"],
     [7, "認めてくれなくたっていいよ", "", ""],
     [8, "Palette", "", ""],
-    [9, "-MC-", "", ""],
+    [9, "-MC-", "", "0"],
     [10, "Brand new!", "", ""],
 ]
 links = ["https://vgmdb.net/album/126249"]
@@ -38620,7 +38621,7 @@ tracks = [
     [4, "純情接近STORY", "", ""],
     [5, "リトルリドル", "", ""],
     [6, "Radio Happy", "", ""],
-    [7, "-MC-", "", ""],
+    [7, "-MC-", "", "0"],
     [8, "とんでいっちゃいたいの", "", ""],
     [9, "ずるじゃん", "", ""],
     [10, "GEMSTONE", "", ""],
@@ -38633,7 +38634,7 @@ tracks = [
     [17, "Yes! Party Time!! (Short Ver.)", "", ""],
     [18, "ゴキゲンParty Night (Short Ver.)", "", ""],
     [19, "サイキック！ぱーりーないと☆ (Short Ver.)", "", ""],
-    [20, "-MC-", "", ""],
+    [20, "-MC-", "", "0"],
     [21, "Tulip", "", ""],
     [22, "メモリーブロッサム", "", ""],
     [23, "UNIQU3 VOICES!!!", "", ""],
@@ -38652,10 +38653,10 @@ tracks = [
     [3, "アンデッド・ダンスロック", "", ""],
     [4, "輝け！ビートシューター", "", ""],
     [5, "ストリート・ランウェイ", "", ""],
-    [6, "-MC-", "", ""],
+    [6, "-MC-", "", "0"],
     [7, "認めてくれなくたっていいよ", "", ""],
     [8, "Kawaii make MY day!", "", ""],
-    [9, "-MC-", "", ""],
+    [9, "-MC-", "", "0"],
     [10, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/126249"]
@@ -38888,36 +38889,36 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOU
 tracks = [
     [1, "Opening「MerryMaerchen Land」", "", ""],
     [2, "かぼちゃ姫", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "Starry-Go-Round", "", ""],
     [5, "Angel Breeze", "", ""],
     [6, "マイ・スイート・ハネムーン", "", ""],
     [7, "小さな恋の密室事件", "", ""],
     [8, "Blooming Days", "", ""],
-    [9, "-MC-", "", ""],
-    [10, "14平米にスーベニア", "", ""],
+    [9, "-MC-", "", "0"],
+    [10, "14平米にスーベニア", "", "0"],
     [11, "ギュっとMilky Way", "", ""],
     [12, "to you for me", "", ""],
     [13, "つぼみ", "", ""],
     [14, "Heart Voice", "", ""],
-    [15, "-MC-", "", ""],
+    [15, "-MC-", "", "0"],
     [16, "パステルピンクな恋", "", ""],
     [17, "Love∞Destiny", "", ""],
     [18, "Halloween♥Code", "", ""],
     [19, "プライスレス ドーナッCyu♡", "", ""],
     [20, "オヤマトペ♪", "", ""],
     [21, "ハイファイ☆デイズ", "", ""],
-    [22, "-MC-", "", ""],
+    [22, "-MC-", "", "0"],
     [23, "もりのくにから", "", ""],
     [24, "薄荷 -ハッカ-", "", ""],
     [25, "Beat of the Night", "", ""],
     [26, "THE VILLAIN'S NIGHT", "", ""],
     [27, "Fascinate", "", ""],
     [28, "Hungry Bambi", "", ""],
-    [29, "-MC-", "", ""],
+    [29, "-MC-", "", "0"],
     [30, "Shine!!", "", ""],
     [31, "EVERLASTING", "", ""],
-    [32, "-MC-", "", ""],
+    [32, "-MC-", "", "0"],
     [33, "お願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/119454"]
@@ -38929,35 +38930,35 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOU
 tracks = [
     [1, "Opening「MerryMaerchen Land」", "", ""],
     [2, "かぼちゃ姫", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "O-Ku-Ri-Mo-No Sunday!", "", ""],
     [5, "ひまわりマークをさがせ!", "", ""],
     [6, "あこがれステッチ", "", ""],
     [7, "楽園", "", ""],
     [8, "Heart Voice", "", ""],
-    [9, "-MC-", "", ""],
+    [9, "-MC-", "", "0"],
     [10, "Sing the Prologue♪", "", ""],
     [11, "世界滅亡 or KISS", "", ""],
     [12, "祈りの花", "", ""],
     [13, "あいくるしい", "", ""],
-    [14, "-MC-", "", ""],
+    [14, "-MC-", "", "0"],
     [15, "shabon song", "", ""],
     [16, "オルゴールの小箱", "", ""],
     [17, "Sweet Witches' Night ～6人目はだぁれ～", "", ""],
     [18, "き・ま・ぐ・れ☆Café au lait!", "", ""],
     [19, "Romantic Now", "", ""],
     [20, "モーレツ★世直しギルティ!", "", ""],
-    [21, "-MC-", "", ""],
+    [21, "-MC-", "", "0"],
     [22, "Palette", "", ""],
     [23, "THE VILLAIN'S NIGHT", "", ""],
     [24, "アンデッド・ダンスロック", "", ""],
     [25, "Hungry Bambi", "", ""],
     [26, "Starry-Go-Round", "", ""],
     [27, "ハイファイ☆デイズ", "", ""],
-    [28, "-MC-", "", ""],
+    [28, "-MC-", "", "0"],
     [29, "Shine!!", "", ""],
     [30, "EVERLASTING", "", ""],
-    [31, "-MC-", "", ""],
+    [31, "-MC-", "", "0"],
     [32, "お願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/119454"]
@@ -38988,27 +38989,27 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOU
 tracks = [
     [1, "Opening「Celebration Land」", "", ""],
     [2, "Yes! Party Time!!", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "はにかみdays", "", ""],
     [5, "TOKIMEKIエスカレート", "", ""],
     [6, "あんずのうた", "", ""],
     [7, "Unlock Starbeat", "", ""],
     [8, "とどけ! アイドル", "", ""],
-    [9, "-MC-", "", ""],
+    [9, "-MC-", "", "0"],
     [10, "TAKAMARI☆CLIMAXXX!!!!!", "", ""],
     [11, "オタク is LOVE!", "", ""],
     [12, "Can't Stop!!", "", ""],
     [13, "義勇忍侠花吹雪", "", ""],
     [14, "Jet to the Future", "", ""],
     [15, "ガールズ・イン・ザ・フロンティア", "", ""],
-    [16, "-MC-", "", ""],
+    [16, "-MC-", "", "0"],
     [17, "あんきら!?狂騒曲", "", ""],
     [18, "春恋フレーム", "", ""],
     [19, "初夢をあなたと", "", ""],
     [20, "おんなの道は星の道", "", ""],
     [21, "Bright Blue", "", ""],
     [22, "TRUE COLORS", "", ""],
-    [23, "-MC-", "", ""],
+    [23, "-MC-", "", "0"],
     [24, "LET'S GO HAPPY!!", "", ""],
     [25, "Wonder goes on!!", "", ""],
     [26, "美に入り彩を穿つ", "", ""],
@@ -39016,7 +39017,7 @@ tracks = [
     [28, "キセキの証", "", ""],
     [29, "キミのそばでずっと", "", ""],
     [30, "EVERLASTING", "", ""],
-    [31, "-MC-", "", ""],
+    [31, "-MC-", "", "0"],
     [32, "願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/119454"]
@@ -39028,26 +39029,26 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOU
 tracks = [
     [1, "Opening「Celebration Land」", "", ""],
     [2, "なんどでも笑おう", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "とどけ! アイドル", "", ""],
     [5, "ましゅまろ☆キッス", "", ""],
     [6, "メルヘンデビュー!", "", ""],
     [7, "花簪 HANAKANZASHI", "", ""],
     [8, "輝く世界の魔法", "", ""],
-    [9, "-MC-", "", ""],
+    [9, "-MC-", "", "0"],
     [10, "Rockin' Emotion", "", ""],
     [11, "Twilight Sky", "", ""],
     [12, "Claw My Heart", "", ""],
     [13, "メッセージ", "", ""],
     [14, "Dreaming Star", "", ""],
-    [15, "-MC-", "", ""],
+    [15, "-MC-", "", "0"],
     [16, "TRUE COLORS", "", ""],
-    [17, "2nd SIDE", "", ""],
+    [17, "2nd SIDE", "", "0"],
     [18, "ドレミファクトリー!", "", ""],
     [19, "命燃やして恋せよ乙女", "", ""],
     [20, "We're the friends!", "", ""],
     [21, "Treasure☆", "", ""],
-    [22, "-MC-", "", ""],
+    [22, "-MC-", "", "0"],
     [23, "Gossip Club", "", ""],
     [24, "Trancing Pulse", "", ""],
     [25, "∀NSWER", "", ""],
@@ -39055,7 +39056,7 @@ tracks = [
     [27, "Let's Sail Away!!!", "", ""],
     [28, "ススメ☆オトメ ～jewel parade～", "", ""],
     [29, "EVERLASTING", "", ""],
-    [30, "-MC-", "", ""],
+    [30, "-MC-", "", "0"],
     [31, "願い! シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/119454"]
@@ -39360,7 +39361,7 @@ tracks = [
     [9, "英梨ちゃんお出かけ中", "[dialogue]", ""],
     [10, "ミニドラマ 第3話 「天敵!?」だもん", "[dialogue]", ""],
     [11, "ペンギンの独り言", "[dialogue]", ""],
-    [12, "3人でトークだもん", "[dialogue]", ""],
+    [12, "3人でトークだもん", "[dialogue]", "0"],
     [13, "ミニドラマ 第4話 「みんな仲良し♪」だもん", "[dialogue]", ""],
     [14, "ゆかちぃの「スケスケ予報」 3", "[dialogue]", ""],
     [15, "エンディングだもん", "[dialogue]", ""],
@@ -39497,16 +39498,16 @@ catalognumber = "FCCG-0007"
 date = "2006-09-22"
 album = "DJCD ラジオdeアイマSHOW! Vol.1 Drama, Talk"
 tracks = [
-    [1, "1日目のスケジュール オープニング", "", ""],
-    [2, "1日目のスケジュール ふつおた～流行情報", "", ""],
-    [3, "1日目のスケジュール お昼のロッカールーム", "", ""],
-    [4, "1日目のスケジュール レッスン", "", ""],
-    [5, "1日目のスケジュール エンディング", "", ""],
-    [6, "2日目のスケジュール オープニング", "", ""],
-    [7, "2日目のスケジュール ふつおた～流行情報", "", ""],
-    [8, "2日目のスケジュール お昼のロッカールーム", "", ""],
-    [9, "2日目のスケジュール レッスン", "", ""],
-    [10, "2日目のスケジュール エンディング", "", ""],
+    [1, "1日目のスケジュール オープニング", "", "0"],
+    [2, "1日目のスケジュール ふつおた～流行情報", "", "0"],
+    [3, "1日目のスケジュール お昼のロッカールーム", "", "0"],
+    [4, "1日目のスケジュール レッスン", "", "0"],
+    [5, "1日目のスケジュール エンディング", "", "0"],
+    [6, "2日目のスケジュール オープニング", "", "0"],
+    [7, "2日目のスケジュール ふつおた～流行情報", "", "0"],
+    [8, "2日目のスケジュール お昼のロッカールーム", "", "0"],
+    [9, "2日目のスケジュール レッスン", "", "0"],
+    [10, "2日目のスケジュール エンディング", "", "0"],
     [11, "BONUS TRACK ドラマCD Scene.04 幻の特別編", "", ""],
 ]
 links = ["https://vgmdb.net/album/15352"]
@@ -39635,7 +39636,7 @@ catalognumber = "IMAS-2001"
 date = "2014-03-06"
 album = "THE IDOLM@STER LAWSON ORIGINAL DRAMA DISK"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/89489"]
 
@@ -39710,7 +39711,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS Broadcast & LIVE Happy New Yell !!! Dis
 tracks = [
     [1, "OPENING「Happy New Yell !!!」", "", ""],
     [2, "Happy New Yeah! (M@STER VERSION)", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "花簪 HANAKANZASHI", "", ""],
     [5, "命燃やして恋せよ乙女 (M@STER VERSION)", "", ""],
     [6, "プライスレス ドーナッCyu♡", "", ""],
@@ -39718,7 +39719,7 @@ tracks = [
     [8, "オレンジタイム (M@STER VERSION)", "", ""],
     [9, "Snow＊Love", "", ""],
     [10, "Sing the Prologue♪", "", ""],
-    [11, "-MC-", "", ""],
+    [11, "-MC-", "", "0"],
     [12, "ススメ☆オトメ ～jewel parade～", "", ""],
     [13, "夢をのぞいたら", "", ""],
     [14, "Sunshine See May (M@STER VERSION)", "", ""],
@@ -39726,7 +39727,7 @@ tracks = [
     [16, "Claw My Heart", "", ""],
     [17, "美に入り彩を穿つ (M@STER VERSION)", "", ""],
     [18, "ダイアモンド・アテンション", "", ""],
-    [19, "-MC-", "", ""],
+    [19, "-MC-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/111797"]
 
@@ -39742,7 +39743,7 @@ tracks = [
     [5, "あらかねの器", "", ""],
     [6, "Athanasia", "", ""],
     [7, "君のステージ衣装、本当は…", "", ""],
-    [8, "-MC-", "", ""],
+    [8, "-MC-", "", "0"],
     [9, "Brand new!", "", ""],
     [10, "青の一番星", "", ""],
     [11, "OTAHEN アンセム", "", ""],
@@ -39751,7 +39752,7 @@ tracks = [
     [14, "GOIN'!!!", "", ""],
     [15, "Wish You Happiness!! (M@STER VERSION)", "", ""],
     [16, "青空エール (M@STER VERSION)", "", ""],
-    [17, "-MC-", "", ""],
+    [17, "-MC-", "", "0"],
     [18, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/111797"]
@@ -39763,7 +39764,7 @@ album = "THE IDOLM@STER CINDERELLA GIRLS Broadcast & LIVE Happy New Yell !!! Dis
 tracks = [
     [1, "OPENING「Happy New Yell !!!」", "", ""],
     [2, "Happy New Yeah! (M@STER VERSION)", "", ""],
-    [3, "-MC-", "", ""],
+    [3, "-MC-", "", "0"],
     [4, "義勇忍侠花吹雪 (M@STER VERSION)", "", ""],
     [5, "命燃やして恋せよ乙女 (M@STER VERSION)", "", ""],
     [6, "Never ends", "", ""],
@@ -39771,7 +39772,7 @@ tracks = [
     [8, "幸せの法則 ～ルール～ (M@STER VERSION)", "", ""],
     [9, "Snow＊Love", "", ""],
     [10, "Sing the Prologue♪", "", ""],
-    [11, "-MC-", "", ""],
+    [11, "-MC-", "", "0"],
     [12, "ススメ☆オトメ ～jewel parade～", "", ""],
     [13, "ステップ&スキップ (M@STER VERSION)", "", ""],
     [14, "Shinobi 4.0 忍者のすゝめ", "", ""],
@@ -39779,7 +39780,7 @@ tracks = [
     [16, "躍るFLAGSHIP", "", ""],
     [17, "Joker (M@STER VERSION)", "", ""],
     [18, "ダイアモンド・アテンション", "", ""],
-    [19, "-MC-", "", ""],
+    [19, "-MC-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/111797"]
 
@@ -39795,7 +39796,7 @@ tracks = [
     [5, "印象", "", ""],
     [6, "オルゴールの小箱", "", ""],
     [7, "君のステージ衣装、本当は…", "", ""],
-    [8, "-MC-", "", ""],
+    [8, "-MC-", "", "0"],
     [9, "One Life", "", ""],
     [10, "弾丸サバイバー", "", ""],
     [11, "オタク is Love! (M@STER VERSION)", "", ""],
@@ -39804,7 +39805,7 @@ tracks = [
     [14, "GOIN'!!!", "", ""],
     [15, "Wish You Happiness!! (M@STER VERSION)", "", ""],
     [16, "青空エール (M@STER VERSION)", "", ""],
-    [17, "-MC-", "", ""],
+    [17, "-MC-", "", "0"],
     [18, "お願い！シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/111797"]
@@ -40315,7 +40316,7 @@ tracks = [
     [26, "エージェント夜を往く", "", ""],
     [27, "arcadia", "", ""],
     [28, "Alice or Guilty", "", ""],
-    [29, "\"HELLO!\"", "", ""],
+    [29, "\"HELLO!\"", "", "0"],
     [30, "GO MY WAY!!", "", ""],
     [31, "待ち受けプリンス", "", ""],
     [32, "i", "", ""],
@@ -40357,8 +40358,8 @@ catalognumber = "FVCG-1175"
 date = "2011-10-19"
 album = "ファミソン8BIT☆アイドルマスター BEST ALBUM Arrangement, Vocal, Drama"
 tracks = [
-    [1, "765ワールド☆オープニング (BEST ALBUM ver.) -", "KPLECRAFT", ""],
-    [2, "765ワールドへようこそ (BEST ALBUM ver.)【ドラマ】", "萩原雪歩・我那覇響・四条貴音・音無小鳥", ""],
+    [1, "765ワールド☆オープニング (BEST ALBUM ver.) -", "KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ (BEST ALBUM ver.)【ドラマ】", "萩原雪歩・我那覇響・四条貴音・音無小鳥", "0"],
     [3, "Labyrinth (『パックマン』NEW SONG)", "高槻やよい", ""],
     [4, "L＜＞R (『リブルラブル』NEW SONG)", "双海亜美・真美", ""],
     [5, "強い女 (『メトロクロス』NEW SONG)", "天海春香", ""],
@@ -40396,11 +40397,11 @@ tracks = [
     [11, "うれし・あやかし道中記 (『妖怪道中記』NEW SONG カラオケ)", "巽兄悟", ""],
     [12, "旅の途中で (『ワルキューレの伝説』NEW SONG カラオケ)", "川田宏行", ""],
     [13, "飛べ！スカイキッド (『スカイキッド』NEW SONG カラオケ)", "佐々木宏人", ""],
-    [14, "765ワールドへようこそ (ver.01)【ドラマ用BGM】～『GO MY WAY!!』より～", "KPLECRAFT", ""],
-    [15, "765ワールドへようこそ (ver.02)【ドラマ用BGM】～『私はアイドル』より～", "KPLECRAFT", ""],
-    [16, "765ワールドへようこそ (ver.03)【ドラマ用BGM】～『まっすぐ』より～", "KPLECRAFT", ""],
-    [17, "765ワールドへようこそ (ver.04)【ドラマ用BGM】～『My Best Friend』より～", "KPLECRAFT", ""],
-    [18, "765ワールドへようこそ (ver.05)【ドラマ用BGM】～『思い出をありがとう』より～", "KPLECRAFT", ""],
+    [14, "765ワールドへようこそ (ver.01)【ドラマ用BGM】～『GO MY WAY!!』より～", "KPLECRAFT", "0"],
+    [15, "765ワールドへようこそ (ver.02)【ドラマ用BGM】～『私はアイドル』より～", "KPLECRAFT", "0"],
+    [16, "765ワールドへようこそ (ver.03)【ドラマ用BGM】～『まっすぐ』より～", "KPLECRAFT", "0"],
+    [17, "765ワールドへようこそ (ver.04)【ドラマ用BGM】～『My Best Friend』より～", "KPLECRAFT", "0"],
+    [18, "765ワールドへようこそ (ver.05)【ドラマ用BGM】～『思い出をありがとう』より～", "KPLECRAFT", "0"],
     [19, "アトラクション『パックマン』【ドラマ用BGM】", "阿保剛", ""],
     [20, "アトラクション『リブルラブル』【ドラマ用BGM】", "阿保剛", ""],
     [21, "アトラクション『メトロクロス』【ドラマ用BGM】", "阿保剛", ""],
@@ -40435,7 +40436,7 @@ tracks = [
     [14, "Here we go!! (『ディグダグII』ファミソン8BIT カラオケ)", "KPLECRAFT", ""],
     [15, "蒼い鳥 (『ドラゴンスピリット』ファミソン8BIT カラオケ)", "KPLECRAFT", ""],
     [16, "THE IDOLM@STER (オリジナル8BIT カラオケ)", "KPLECRAFT", ""],
-    [17, "765ロボット【ドラマ用BGM】", "阿保剛", ""],
+    [17, "765ロボット【ドラマ用BGM】", "阿保剛", "0"],
     [18, "ドジっ子【ドラマ用BGM】", "阿保剛", ""],
     [19, "迷子【ドラマ用BGM】", "阿保剛", ""],
     [20, "明るい【ドラマ用BGM】", "阿保剛", ""],
@@ -40861,7 +40862,7 @@ tracks = [
     [2, "ヒミツの珊瑚礁", "秋月涼(CV.三瓶由布子)", ""],
     [3, "エージェント夜を往く (M@STER VERSION)", "秋月涼(CV.三瓶由布子)", ""],
     [4, "shiny smile (M@STER VERSION)", "秋月涼(CV.三瓶由布子)", ""],
-    [5, "\"HELLO!!\" (M@STER VERSION)", "秋月涼(CV.三瓶由布子)", ""],
+    [5, "\"HELLO!!\" (M@STER VERSION)", "秋月涼(CV.三瓶由布子)", "0"],
     [6, "Dazzling World (M@STER VERSION) (オリジナル・カラオケ)", "秋月涼(CV.三瓶由布子)", ""],
     [7, "ヒミツの珊瑚礁 (オリジナル・カラオケ)", "秋月涼(CV.三瓶由布子)", ""],
     [8, "ボーナス・トラック・ドラマ", "秋月涼(CV.三瓶由布子), 日高愛(CV.戸松遥) & 水谷絵理(CV.花澤香菜)", ""],
@@ -41101,7 +41102,7 @@ tracks = [
     [2, "七彩ボタン (M@STER VERSION)", "水瀬伊織(CV:釘宮理恵)", ""],
     [3, "カプチーノ", "水瀬伊織(CV:釘宮理恵)", ""],
     [4, "風立ちぬ", "水瀬伊織(CV:釘宮理恵)", ""],
-    [5, "99 Nights (M@STER VERSION)", "水瀬伊織(CV:釘宮理恵)", ""],
+    [5, "99 Nights (M@STER VERSION)", "水瀬伊織(CV:釘宮理恵)", "0"],
     [6, "全力アイドル (M@STER VERSION) (オリジナル・カラオケ)", "水瀬伊織(CV:釘宮理恵)", ""],
     [7, "ONLY MY NOTE (M@STER VERSION)", "水瀬伊織(CV:釘宮理恵)", ""],
 ]
@@ -41550,7 +41551,7 @@ tracks = [
     [1, "アイドルマスター シンデレラガールズ U149 第18.5話", "櫻井桃華(CV.照井春佳), 佐々木千枝(CV.今井麻夏), 橘ありす(CV.佐藤亜美菜), 結城晴(CV.小市眞琴) & 龍崎薫(CV.春瀬なつみ)", ""],
     [2, "ドレミファクトリー！", "櫻井桃華(CV.照井春佳), 佐々木千枝(CV.今井麻夏), 橘ありす(CV.佐藤亜美菜), 結城晴(CV.小市眞琴) & 龍崎薫(CV.春瀬なつみ)", ""],
     [3, "絶対特権主張しますっ！", "佐々木千枝(CV.今井麻夏) & 高森藍子(CV.金子有希)", ""],
-    [4, "BEYOND THE STARLIGHT (M@STER VERSION)", "一ノ瀬志希(CV.藍原ことみ) & 結城晴(CV.小市眞琴)", ""],
+    [4, "BEYOND THE STARLIGHT (M@STER VERSION)", "一ノ瀬志希(CV.藍原ことみ) & 結城晴(CV.小市眞琴)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bbf3cee4-8483-4df7-bd99-27bfe0afc73c", "https://vgmdb.net/album/76208"]
 
@@ -41581,7 +41582,7 @@ tracks = [
     [5, "純情Midnight伝説 (GAME VERSION)", "", ""],
     [6, "Love∞Destiny (GAME VERSION)", "", ""],
     [7, "サマカニ!! (GAME VERSION)", "", ""],
-    [8, "BEYOND THE STARLIGHT (GAME VERSION)", "", ""],
+    [8, "BEYOND THE STARLIGHT (GAME VERSION)", "", "0"],
     [9, "ラブレター (GAME VERSION)", "", ""],
     [10, "Jet to the Future (GAME VERSION)", "", ""],
 ]
@@ -41982,14 +41983,14 @@ tracks = [
     [18, "もう逢えないかもしれない", "沼倉愛美、原由実、浅倉杏美", ""],
     [19, "ねこふんじゃった", "浅倉杏美", ""],
     [20, "GLAMOROUS SKY", "沼倉愛美", ""],
-    [21, "1秒のリフレイン", "浅倉杏美", ""],
+    [21, "1秒のリフレイン", "浅倉杏美", "0"],
     [22, "あわてん坊のサンタクロース", "沼倉愛美、原由実、浅倉杏美", ""],
     [23, "恋人がサンタクロース", "沼倉愛美、原由実、浅倉杏美", ""],
     [24, "それが大事", "沼倉愛美、原由実、浅倉杏美", ""],
     [25, "にっぽん昔ばなし", "沼倉愛美、原由実、浅倉杏美", ""],
     [26, "陽のあたる坂道", "沼倉愛美、原由実、浅倉杏美", ""],
     [27, "高速道路", "[dialogue]", ""],
-    [28, "111217 アイステ!!! 公開録音未公開音源", "[dialogue]", ""],
+    [28, "111217 アイステ!!! 公開録音未公開音源", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cd585e68-b9e5-4b49-9101-6822c4dda347", "https://vgmdb.net/album/32606"]
 
@@ -42413,13 +42414,13 @@ album = "THE IDOLM@STER LIVE THE@TER DREAMERS 03"
 tracks = [
     [1, "Overture", "[dialogue]", ""],
     [2, "Dreaming!", "如月千早(CV.今井麻美)、周防桃子(CV.渡部恵子)、徳川まつり(CV.諏訪彩花)、二階堂千鶴(CV.野村香菜子)、萩原雪歩(CV.浅倉杏美)、箱崎星梨花(CV.麻倉もも)、馬場このみ(CV.高橋未奈美)、真壁瑞希(CV.阿部里果)、宮尾美也(CV.桐谷蝶々)、最上静香(CV.田所あずさ)", ""],
-    [3, "765PRO LIVE THE@TER 名古屋公演開演!", "[dialogue]", ""],
+    [3, "765PRO LIVE THE@TER 名古屋公演開演!", "[dialogue]", "0"],
     [4, "アライブファクター", "如月千早(CV.今井麻美)×最上静香(CV.田所あずさ)", ""],
     [5, "Persona Voice", "二階堂千鶴(CV.野村香菜子)×萩原雪歩(CV.浅倉杏美)", ""],
     [6, "Cut. Cut. Cut.", "周防桃子(CV.渡部恵子)×真壁瑞希(CV.阿部里果)", ""],
     [7, "Smiling Crescent", "箱崎星梨花(CV.麻倉もも)×宮尾美也(CV.桐谷蝶々)", ""],
     [8, "Decided", "徳川まつり(CV.諏訪彩花)×馬場このみ(CV.高橋未奈美)", ""],
-    [9, "765PRO LIVE THE@TER名古屋公演終演後", "[dialogue]", ""],
+    [9, "765PRO LIVE THE@TER名古屋公演終演後", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0496db1d-ed73-4c1e-8c5b-dcaa581e92eb", "https://vgmdb.net/album/54903"]
 
@@ -42464,7 +42465,7 @@ tracks = [
     [25, "ススメ☆オトメ ～jewel parade～", "", ""],
     [26, "「蘭子とアーニャのウェーヴタイム」", "", ""],
     [27, "Memories", "", ""],
-    [28, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [28, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [29, "花簪 HANAKANZASHI", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
@@ -42518,7 +42519,7 @@ tracks = [
     [14, "Twilight Sky", "", ""],
     [15, "Nocturne", "", ""],
     [16, "Memories", "", ""],
-    [17, "2nd SIDE", "", ""],
+    [17, "2nd SIDE", "", "0"],
     [18, "Wonder goes on!! with なつきら", "", ""],
     [19, "MC3", "", ""],
     [20, "Shine!!", "", ""],
@@ -42529,7 +42530,7 @@ tracks = [
     [25, "アタシポンコツアンドロイド", "", ""],
     [26, "「蘭子とアーニャのウェーブタイム」", "", ""],
     [27, "We’re the friends!", "", ""],
-    [28, "-LEGNE- 仇なす剣 光の旋律", "", ""],
+    [28, "-LEGNE- 仇なす剣 光の旋律", "", "0"],
     [29, "Nebula Sky", "", ""],
     [30, "メッセージ", "", ""],
     [31, "GOIN'!!!", "", ""],
@@ -43325,7 +43326,7 @@ tracks = [
     [2, "KisS", "四条貴音(CV:原由実)", ""],
     [3, "Destiny -太陽の花-", "四条貴音(CV:原由実)", ""],
     [4, "せぷてんばぁ", "四条貴音(CV:原由実)", ""],
-    [5, "99 Nights (M@STER VERSION)", "四条貴音(CV:原由実)", ""],
+    [5, "99 Nights (M@STER VERSION)", "四条貴音(CV:原由実)", "0"],
     [6, "ふたつの月 (M@STER VERSION) (オリジナル・カラオケ)", "四条貴音(CV:原由実)", ""],
     [7, "ONLY MY NOTE (M@STER VERSION)", "四条貴音(CV:原由実)", ""],
 ]
@@ -43889,7 +43890,7 @@ tracks = [
     [26, "エージェント夜を往く", "", ""],
     [27, "arcadia", "", ""],
     [28, "Alice or Guilty", "", ""],
-    [29, "\"HELLO!\"", "", ""],
+    [29, "\"HELLO!\"", "", "0"],
     [30, "GO MY WAY!!", "", ""],
     [31, "待ち受けプリンス", "", ""],
     [32, "i", "", ""],
@@ -43959,7 +43960,7 @@ tracks = [
     [26, "エージェント夜を往く", "", ""],
     [27, "arcadia", "", ""],
     [28, "Alice or Guilty", "", ""],
-    [29, "\"HELLO!\"", "", ""],
+    [29, "\"HELLO!\"", "", "0"],
     [30, "GO MY WAY!!", "", ""],
     [31, "待ち受けプリンス", "", ""],
     [32, "i", "", ""],
@@ -44394,7 +44395,7 @@ tracks = [
     [2, "純情Midnight伝説 / from \"Starlight Castle Day1\"", "", ""],
     [3, "Snow Wings / from \"Starlight Castle Day2\"", "", ""],
     [4, "Yes! Party Time!! / from \"Starlight Castle Day2\"", "", ""],
-    [5, "BEYOND THE STARLIGHT / from \"Brand new Castle\"", "", ""],
+    [5, "BEYOND THE STARLIGHT / from \"Brand new Castle\"", "", "0"],
     [6, "ハイファイ☆デイズ / from \"Brand new Castle\"", "", ""],
     [7, "Trancing Pulse / from \"346 Castle\"", "", ""],
     [8, "Nocturne / from \"346 Castle\"", "", ""],
@@ -44466,8 +44467,8 @@ catalognumber = "LACA-15314"
 date = "2013-07-31"
 album = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04"
 tracks = [
-    [1, "765ライブシアター開幕!～1時間前 (ドラマパート1)", "[dialogue]", ""],
-    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", ""],
+    [1, "765ライブシアター開幕!～1時間前 (ドラマパート1)", "[dialogue]", "0"],
+    [2, "765ライブシアター開幕! (ドラマパート2)", "[dialogue]", "0"],
     [3, "アフタースクールパーリータイム", "所恵美(CV 藤井ゆきよ)", ""],
     [4, "ステージパフォーマンス～所恵美の場合～ (ドラマパート3)", "[dialogue]", ""],
     [5, "朝焼けのクレッシェンド", "田中琴葉(CV 種田梨沙)", ""],
@@ -44579,7 +44580,7 @@ tracks = [
     [9, "テンションUP！", "高田龍一", ""],
     [10, "ステージの影で", "高田龍一", ""],
     [11, "バトルシーン", "高田龍一", ""],
-    [12, "765プロの毎日", "高田龍一", ""],
+    [12, "765プロの毎日", "高田龍一", "0"],
     [13, "アイドルを育てるために！", "高田龍一", ""],
     [14, "アイドルたちに･･･", "高田龍一", ""],
     [15, "新たな絆", "高田龍一", ""],
@@ -44829,7 +44830,7 @@ tracks = [
     [3, "OTAHEN アンセム -Massive New Krew Remix- (GAME VERSION)", "Massive New Krew", ""],
     [4, "お願い！シンデレラ -山本真央樹 Remix- (GAME VERSION)", "山本真央樹", ""],
     [5, "Tulip -TAKU INOUE Remix- (GAME VERSION)", "TAKU INOUE", ""],
-    [6, "14平米にスーベニア -広川恵一 Remix- (GAME VERSION)", "広川恵一", ""],
+    [6, "14平米にスーベニア -広川恵一 Remix- (GAME VERSION)", "広川恵一", "0"],
     [7, "レッド・ソール -烏屋茶房 Remix- (GAME VERSION)", "烏屋茶房", ""],
     [8, "アタシポンコツアンドロイド -北谷光浩 Remix- (GAME VERSION)", "北谷光浩", ""],
     [9, "Last Kiss -ESTi Remix- (GAME VERSION)", "ESTi", ""],
@@ -45325,34 +45326,34 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@OSAK
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Shine!!", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "はにかみdays", "", ""],
     [5, "にょわにょわーるど☆", "", ""],
     [6, "cherry*merry*cherry", "", ""],
     [7, "Flip Flop", "", ""],
     [8, "モーレツ★世直しギルティ! (M@STER VERSION)", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "キミのそばでずっと", "", ""],
     [11, "桜の頃 (M@STER VERSION)", "", ""],
     [12, "青の一番星", "", ""],
     [13, "薄紅", "", ""],
     [14, "NUDIE★", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "エチュードは1曲だけ", "", ""],
     [17, "アタシポンコツアンドロイド", "", ""],
     [18, "Orange Sapphire", "", ""],
-    [19, "BEYOND THE STARLIGHT (M@STER VERSION)", "", ""],
-    [20, "-MC4-", "", ""],
+    [19, "BEYOND THE STARLIGHT (M@STER VERSION)", "", "0"],
+    [20, "-MC4-", "", "0"],
     [21, "華蕾夢ミル狂詩曲～魂ノ導～", "", ""],
     [22, "Bloody Festa", "", ""],
     [23, "PANDEMIC ALONE", "", ""],
     [24, "Lunatic Show", "", ""],
     [25, "Wonder goes on!!", "", ""],
     [26, "サマカニ!! (M@STER VERSION)", "", ""],
-    [27, "-MC5-", "", ""],
+    [27, "-MC5-", "", "0"],
     [28, "夢色ハーモニー", "", ""],
     [29, "EVERMORE (M@STER VERSION)", "", ""],
-    [30, "-MC6-", "", ""],
+    [30, "-MC6-", "", "0"],
     [31, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95384"]
@@ -45733,7 +45734,7 @@ tracks = [
     [1, "U・N・M・E・I ライブ", "", ""],
     [2, "夢色トレイン", "", ""],
     [3, "恋愛ロードランナー", "", ""],
-    [4, "...In The Name Of。...LOVE?", "", ""],
+    [4, "...In The Name Of。...LOVE?", "", "0"],
     [5, "MC1", "", ""],
     [6, "ジレるハートに火をつけて", "", ""],
     [7, "フローズン・ワード", "", ""],
@@ -46268,11 +46269,11 @@ catalognumber = ""
 date = "2014-05-15"
 album = "アイドルマスター ワンフォーオール スペシャルドラマCD「765プロが行く! トップアイドルのお仕事見学」"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/89492"]
 
@@ -46529,7 +46530,7 @@ catalognumber = "COCX-35795"
 date = "2009-12-02"
 album = "THE IDOLM@STER DREAM SYMPHONY 03"
 tracks = [
-    [1, "“HELLO!!” (M@STER VERSION)", "日高愛 (CV:戸松遥)", ""],
+    [1, "“HELLO!!” (M@STER VERSION)", "日高愛 (CV:戸松遥)", "0"],
     [2, "はなまる", "日高愛 (CV:戸松遥)", ""],
     [3, "私はアイドル♡ (M@STER VERSION)", "日高愛 (CV:戸松遥)", ""],
     [4, "GO MY WAY!! (M@STER VERSION)", "日高愛 (CV:戸松遥)", ""],
@@ -46831,7 +46832,7 @@ tracks = [
     [3, "空", "", ""],
     [4, "いっしょ", "", ""],
     [5, "オーバーマスター", "", ""],
-    [6, "\"HELLO!\" (M@STER VERSION)", "", ""],
+    [6, "\"HELLO!\" (M@STER VERSION)", "", "0"],
     [7, "THE IDOLM@STER 2nd-mix", "", ""],
     [8, "The world is all one !! (M@STER VERSION)", "", ""],
     [9, "READY!! (M@STER VERSION)", "", ""],
@@ -47718,7 +47719,7 @@ catalognumber = "IDM-SC-4"
 date = "2022-03-25"
 album = "アイドルマスター シャイニーカラーズ 4 特装版 特典CD"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/118282"]
 
@@ -47992,7 +47993,7 @@ tracks = [
     [12, "Colorful Days (M@STER VERSION)", "天海春香(CV:中村繪里子)、星井美希(CV:長谷川明子)、如月千早(CV:今井麻美)、双海亜美/真美(CV:下田麻美)、四条貴音(CV:原由実)、我那覇響(CV:沼倉愛美)", ""],
     [13, "MEGARE! (M@STER VERSION)", "765PRO ALLSTARS", ""],
     [14, "音無小鳥の秘密レポート～3度目の正直だけど、多分いつもと同じ編～", "音無小鳥、星井美希, 双海亜美／真美", ""],
-    [15, "#13LIVE曲メドレー", "765PRO ALLSTARS", ""],
+    [15, "#13LIVE曲メドレー", "765PRO ALLSTARS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f2a992ff-08b0-4b40-a77c-2c83438b1f0d", "https://vgmdb.net/album/29456"]
 
@@ -48420,7 +48421,7 @@ tracks = [
     [8, "Orange Sapphire", "", ""],
     [9, "MC4", "", ""],
     [10, "Nation Blue", "", ""],
-    [11, "2nd SIDE", "", ""],
+    [11, "2nd SIDE", "", "0"],
     [12, "You’re stars shine on me", "", ""],
     [13, "風色メロディ", "", ""],
     [14, "薄荷 -ハッカ-", "", ""],
@@ -48531,15 +48532,15 @@ album = "アイドルマスター ユア・ソング Disc 1 [765PRO-0003A]"
 tracks = [
     [1, "9:02am", "765PRO ALLSTARS", ""],
     [2, "大スキ！", "天海春香 (CV:中村繪里子)", ""],
-    [3, "10:41am", "765PRO ALLSTARS", ""],
+    [3, "10:41am", "765PRO ALLSTARS", "0"],
     [4, "ふたりのもじぴったん", "高槻やよい (CV:仁後真耶子)", ""],
-    [5, "11:18am", "765PRO ALLSTARS", ""],
+    [5, "11:18am", "765PRO ALLSTARS", "0"],
     [6, "仮面舞踏会", "菊地真 (CV:平田宏美)", ""],
-    [7, "0:41pm", "765PRO ALLSTARS", ""],
+    [7, "0:41pm", "765PRO ALLSTARS", "0"],
     [8, "You're My Only Shinin' Star", "三浦あずさ (CV:たかはし智秋)", ""],
-    [9, "1:27pm", "765PRO ALLSTARS", ""],
+    [9, "1:27pm", "765PRO ALLSTARS", "0"],
     [10, "津軽海峡・冬景色", "萩原雪歩 (CV:落合祐里香)", ""],
-    [11, "2:49pm", "765PRO ALLSTARS", ""],
+    [11, "2:49pm", "765PRO ALLSTARS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6961451c-879b-424b-ae1d-0ac90a16bf0a", "https://vgmdb.net/album/9218"]
 
@@ -48548,15 +48549,15 @@ catalognumber = "765PRO-0003"
 date = "2007-01-07"
 album = "アイドルマスター ユア・ソング Disc 2 [765PRO-0003B]"
 tracks = [
-    [1, "3:12pm", "765PRO ALLSTARS", ""],
+    [1, "3:12pm", "765PRO ALLSTARS", "0"],
     [2, "ラムのラブソング", "双海亜美/真美 (CV:下田麻美)", ""],
-    [3, "4:31pm", "765PRO ALLSTARS", ""],
+    [3, "4:31pm", "765PRO ALLSTARS", "0"],
     [4, "ドゥー・ユー・リメンバー・ミー", "水瀬伊織 (CV:釘宮理恵)", ""],
-    [5, "5:22pm", "765PRO ALLSTARS", ""],
+    [5, "5:22pm", "765PRO ALLSTARS", "0"],
     [6, "鳥の詩", "如月千早 (CV:今井麻美)", ""],
-    [7, "6:45pm", "765PRO ALLSTARS", ""],
+    [7, "6:45pm", "765PRO ALLSTARS", "0"],
     [8, "東京は夜の七時 ～the night is still young～", "秋月律子 (CV:若林直美)", ""],
-    [9, "7:15pm", "765PRO ALLSTARS", ""],
+    [9, "7:15pm", "765PRO ALLSTARS", "0"],
     [10, "やさしさに包まれたなら", "音無小鳥 (CV:滝田樹里)", ""],
     [11, "Next day", "765PRO ALLSTARS", ""],
 ]
@@ -48653,7 +48654,7 @@ tracks = [
     [5, "インセインゲーム 響ソロ・リミックス", "我那覇響 (沼倉愛美)", ""],
     [6, "インセインゲーム 貴音ソロ・リミックス", "四条貴音 (原由実)", ""],
     [7, "キミ*チャンネル (M@STER VERSION) 春香・真・響リミックス", "天海春香 (中村繪里子), 菊地真 (平田宏美), 我那覇響 (沼倉愛美)", ""],
-    [8, "99 Nights (M@STER VERSION) 伊織・美希・貴音リミックス", "水瀬伊織 (釘宮理恵), 星井美希 (長谷川明子), 四条貴音 (原由実)", ""],
+    [8, "99 Nights (M@STER VERSION) 伊織・美希・貴音リミックス", "水瀬伊織 (釘宮理恵), 星井美希 (長谷川明子), 四条貴音 (原由実)", "0"],
     [9, "静かな夜に願いを… (M@STER VERSION) 千早・雪歩・真美リミックス", "如月千早(CV:今井麻美)、双海真美(CV:下田麻美)、萩原雪歩(CV:浅倉杏美)", ""],
     [10, "Good-Byes (M@STER VERSION) やよい・律子・あずさ・亜美リミックス", "高槻やよい (仁後真耶子), 秋月律子 (若林直美), 三浦あずさ (たかはし智秋), 双海亜美 (下田麻美)", ""],
 ]
@@ -48790,7 +48791,7 @@ tracks = [
     [4, "You're stars shine on me (GAME VERSION)", "アナスタシア(CV:上坂すみれ)", ""],
     [5, "お散歩カメラ (GAME VERSION)", "高森藍子(CV:金子有希)", ""],
     [6, "毒茸伝説 (GAME VERSION)", "星輝子(CV:松田颯水)", ""],
-    [7, "2nd SIDE (GAME VERSION)", "神谷奈緒(CV:松井恵理子)", ""],
+    [7, "2nd SIDE (GAME VERSION)", "神谷奈緒(CV:松井恵理子)", "0"],
     [8, "薄荷 -ハッカ- (GAME VERSION)", "北条加蓮(CV:渕上舞)", ""],
     [9, "花簪 HANAKANZASHI (GAME VERSION)", "小早川紗枝(CV:立花理香)", ""],
     [10, "ミラクルテレパシー (GAME VERSION)", "堀裕子(CV:鈴木絵理)", ""],
@@ -49021,7 +49022,7 @@ tracks = [
     [9, "テンションUP！", "高田龍一", ""],
     [10, "ステージの影で", "高田龍一", ""],
     [11, "バトルシーン", "高田龍一", ""],
-    [12, "765プロの毎日", "高田龍一", ""],
+    [12, "765プロの毎日", "高田龍一", "0"],
     [13, "アイドルを育てるために！", "高田龍一", ""],
     [14, "アイドルたちに･･･", "高田龍一", ""],
     [15, "新たな絆", "高田龍一", ""],
@@ -49830,7 +49831,7 @@ date = "2023-03-31"
 album = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT SERIES GAME VERSION SONG COLLECTION"
 tracks = [
     [1, "Memories (GAME VERSION)", "", ""],
-    [2, "-LEGNE- 仇なす剣 光の旋律 (GAME VERSION)", "", ""],
+    [2, "-LEGNE- 仇なす剣 光の旋律 (GAME VERSION)", "", "0"],
     [3, "Happy×2 Days (GAME VERSION)", "", ""],
     [4, "LET'S GO HAPPY!! (GAME VERSION)", "", ""],
     [5, "OωOver!! (GAME VERSION)", "", ""],
@@ -50021,34 +50022,34 @@ album = "THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@FUKU
 tracks = [
     [1, "OPENING「Serendipity Parade!!!」", "", ""],
     [2, "Yes!Party Time!! (M@STER VERSION)", "", ""],
-    [3, "-MC1-", "", ""],
+    [3, "-MC1-", "", "0"],
     [4, "SUPERLOVE☆", "", ""],
     [5, "ニャンと☆スペクタクル", "", ""],
     [6, "恋色エナジー", "", ""],
     [7, "lilac time", "", ""],
     [8, "Nothing but You (M@STER VERSION)", "", ""],
-    [9, "-MC2-", "", ""],
+    [9, "-MC2-", "", "0"],
     [10, "この空の下", "", ""],
     [11, "桜の頃 (M@STER VERSION)", "", ""],
     [12, "祈りの花", "", ""],
     [13, "青空リレーション", "", ""],
     [14, "おかしな国のおかし屋さん", "", ""],
-    [15, "-MC3-", "", ""],
+    [15, "-MC3-", "", "0"],
     [16, "オルゴールの小箱", "", ""],
     [17, "パステルピンクな恋", "", ""],
     [18, "SUN♡FLOWER", "", ""],
     [19, "Star!!", "", ""],
-    [20, "-MC4-", "", ""],
+    [20, "-MC4-", "", "0"],
     [21, "Take me☆Take you", "", ""],
     [22, "Frozen Tears", "", ""],
     [23, "Memories", "", ""],
     [24, "Neo Beautiful Pain", "", ""],
     [25, "生存本能ヴァルキュリア (M@STER VERSION)", "", ""],
     [26, "Tulip (M@STER VERSION)", "", ""],
-    [27, "-MC5-", "", ""],
+    [27, "-MC5-", "", "0"],
     [28, "夕映えプレゼント", "", ""],
     [29, "M@GIC☆", "", ""],
-    [30, "-MC6-", "", ""],
+    [30, "-MC6-", "", "0"],
     [31, "お願い!シンデレラ", "", ""],
 ]
 links = ["https://vgmdb.net/album/95387"]
@@ -50118,7 +50119,7 @@ date = "2016-08-17"
 album = "THE IDOLM@STER PLATINUM MASTER 01 Miracle Night"
 tracks = [
     [1, "Miracle Night (M@STER VERSION)", "天海春香、菊地真、双海亜美、双海真美、水瀬伊織", ""],
-    [2, "765チャンネル vol.1 〜起こせよミラクルナイト!〜 (ドラマ)", "[dialogue]", ""],
+    [2, "765チャンネル vol.1 〜起こせよミラクルナイト!〜 (ドラマ)", "[dialogue]", "0"],
     [3, "Miracle Night (M@STER VERSION) (オリジナル・カラオケ)", "天海春香、菊地真、双海亜美、双海真美、水瀬伊織", ""],
     [4, "音無小鳥の妄想編集室 vol.1 (ドラマ)", "[dialogue]", ""],
     [5, "SMOKY FRUITS", "水瀬伊織、三浦あずさ、双海亜美", ""],
@@ -50196,7 +50197,7 @@ catalognumber = "COCX-36238"
 date = "2010-06-02"
 album = "THE iDOLM@STER BEST OF 765+876=!! Vol.2 [Limited Edition]"
 tracks = [
-    [1, "\"HELLO!!\" (M@STER VERSION)", "", ""],
+    [1, "\"HELLO!!\" (M@STER VERSION)", "", "0"],
     [2, "Colorful Days (M@STER VERSION)", "", ""],
     [3, "ポジティブ! (M@STER VERSION)", "", ""],
     [4, "YES♪", "", ""],
@@ -50488,8 +50489,8 @@ catalognumber = "FVCG-1015"
 date = "2008-06-25"
 album = "ファミソン8BIT☆アイドルマスター 05 如月千早／水瀬伊織"
 tracks = [
-    [1, "765ワールド☆オープニング（ver.05）", "佐々木宏人 & KPLECRAFT", ""],
-    [2, "765ワールドへようこそ（ver.05）【ドラマ】", "佐々木宏人, KPLECRAFT feat. 如月千早 & 水瀬伊織", ""],
+    [1, "765ワールド☆オープニング（ver.05）", "佐々木宏人 & KPLECRAFT", "0"],
+    [2, "765ワールドへようこそ（ver.05）【ドラマ】", "佐々木宏人, KPLECRAFT feat. 如月千早 & 水瀬伊織", "0"],
     [3, "思い出をありがとう（『トイポップ』ファミソン8BIT MIX）", "佐々木宏人, KPLECRAFT feat. 如月千早 & 水瀬伊織", ""],
     [4, "アトラクション『マッピー』【ドラマ】", "大野木宜幸, 阿保剛 feat. 水瀬伊織", ""],
     [5, "乙女心盗んで！（『マッピー』NEW SONG）", "大野木宜幸, 佐々木宏人 feat. 水瀬伊織", ""],
@@ -50500,7 +50501,7 @@ tracks = [
     [10, "サービスタイム【ドラマ】", "阿保剛 feat. 如月千早 & 水瀬伊織", ""],
     [11, "GO MY WAY!!（Dream Match MIX）", "神前暁, quad feat. 如月千早 & 水瀬伊織", ""],
     [12, "またのご来園を！（ver.05）【ドラマ】", "阿保剛 feat. 如月千早 & 水瀬伊織", ""],
-    [13, "765ワールド☆フィナーレ（ver.05）", "佐々木宏人 & KPLECRAFT", ""],
+    [13, "765ワールド☆フィナーレ（ver.05）", "佐々木宏人 & KPLECRAFT", "0"],
     [14, "思い出をありがとう（オリジナル8BIT Instrumental）", "佐々木宏人 & KPLECRAFT", ""],
     [15, "Here we go!!（オリジナル8BIT Instrumental）", "自営山 & KPLECRAFT", ""],
     [16, "蒼い鳥（オリジナル8BIT Instrumental）", "椎名豪 & KPLECRAFT", ""],
@@ -50748,11 +50749,11 @@ date = "2023-06-21"
 album = "THE IDOLM@STER CINDERELLA GIRLS U149 ANIMATION MASTER 04 ゼロトゥワン!!"
 tracks = [
     [1, "ゼロトゥワン!!", "U149", ""],
-    [2, "ACE", "結城晴(CV:小市眞琴)", ""],
+    [2, "ACE", "結城晴(CV:小市眞琴)", "0"],
     [3, "アイム・ア・リトル・プリンセス ～お星さまにお願い～", "古賀小春(CV:小森結梨)", ""],
-    [4, "BEYOND THE STARLIGHT", "的場梨沙(CV:集貝はな)", ""],
+    [4, "BEYOND THE STARLIGHT", "的場梨沙(CV:集貝はな)", "0"],
     [5, "ゼロトゥワン!! オリジナル・カラオケ", "U149", ""],
-    [6, "ACE オリジナル・カラオケ", "結城晴(CV:小市眞琴)", ""],
+    [6, "ACE オリジナル・カラオケ", "結城晴(CV:小市眞琴)", "0"],
     [7, "アイム・ア・リトル・プリンセス ～お星さまにお願い～ オリジナル・カラオケ", "古賀小春(CV:小森結梨)", ""],
     [8, "GEMSTONE", "的場梨沙(CV:集貝はな)", ""],
     [9, "お願い！シンデレラ 古賀小春ソロ・リミックス", "古賀小春(CV:小森結梨)", ""],
@@ -50829,9 +50830,9 @@ tracks = [
     [34, "THINKING_SERIOUS", "中川浩二", ""],
     [35, "RANKING", "中川浩二", ""],
     [36, "RYUGU", "中川浩二", ""],
-    [37, "961HARD", "中川浩二", ""],
-    [38, "961DARK", "中川浩二", ""],
-    [39, "961POP", "中川浩二", ""],
+    [37, "961HARD", "中川浩二", "0"],
+    [38, "961DARK", "中川浩二", "0"],
+    [39, "961POP", "中川浩二", "0"],
     [40, "HELL", "中川浩二", ""],
     [41, "MORNINGO_RMX", "中川浩二", ""],
     [42, "E_MORNING_RMX", "中川浩二", ""],
@@ -51450,16 +51451,16 @@ catalognumber = "FCCG-0016"
 date = "2007-04-25"
 album = "DJCD ラジオdeアイマSHOW! Vol.4"
 tracks = [
-    [1, "1日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [2, "1日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [3, "1日目 アイマスクール 課外授業 部活編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [4, "1日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [5, "1日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [6, "2日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [7, "2日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [8, "2日目 アイマスクール 課外授業 放課後編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [9, "2日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
-    [10, "2日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", ""],
+    [1, "1日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [2, "1日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [3, "1日目 アイマスクール 課外授業 部活編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [4, "1日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [5, "1日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [6, "2日目 オープニング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [7, "2日目 ふつおた", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [8, "2日目 アイマスクール 課外授業 放課後編", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [9, "2日目 レッスン", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
+    [10, "2日目 エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 仁後真耶子(高槻やよい役)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/95d1e577-fe54-4407-ada1-e1e843d94e67", "https://vgmdb.net/album/15365"]
 
@@ -51581,7 +51582,7 @@ catalognumber = "CINDERELLA02"
 date = "2016-11-05"
 album = "アイドルマスター シンデレラガールズ 一番くじオリジナルCD2"
 tracks = [
-    [1, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91406"]
 
@@ -51955,7 +51956,7 @@ tracks = [
     [5, "○○なんて許せません・・・くっ！", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
     [6, "お休み", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
     [7, "エンディング", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
-    [8, "3人からのメッセージ", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", ""],
+    [8, "3人からのメッセージ", "中村繪里子(天海春香役), 今井麻美(如月千早役) & 落合祐里香(萩原雪歩役)", "0"],
     [9, "SHINING STAR☆彡 (FULL Ver.)", "TORICO (中村繪里子・今井麻美・長谷優里奈)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/36e2bb77-e2cf-474b-8705-096cb523423e", "https://vgmdb.net/album/15368"]
@@ -51997,9 +51998,9 @@ catalognumber = ""
 date = "2013-10-31"
 album = "アイドルマスター シンデレラガールズ コミックアンソロジー passion VOL.2 パッションなドラマCD"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/92940"]
 

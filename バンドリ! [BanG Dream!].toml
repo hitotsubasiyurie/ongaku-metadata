@@ -61,9 +61,9 @@ catalognumber = "BRMM-10263"
 date = "2020-05-27"
 album = "Daylight -デイライト- / Morfonica Disc 1 (CD)"
 tracks = [
-    [1, "Daylight -デイライト-", "Morfonica", ""],
+    [1, "Daylight -デイライト-", "Morfonica", "0"],
     [2, "金色へのプレリュード", "Morfonica", ""],
-    [3, "Daylight -デイライト- -instrumental-", "Morfonica", ""],
+    [3, "Daylight -デイライト- -instrumental-", "Morfonica", "0"],
     [4, "金色へのプレリュード -instrumental-", "Morfonica", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/cb9cd257-aab0-4635-b8a1-1aed4f5d1fbe", "https://vgmdb.net/album/97111"]
@@ -177,7 +177,7 @@ tracks = [
     [1, "Steady Goes!", "", ""],
     [2, "メリッサ[Cover]", "", ""],
     [3, "READY STEADY GO[Cover]", "", ""],
-    [4, "GO!!![Cover]", "", ""],
+    [4, "GO!!![Cover]", "", "0"],
     [5, "＊～アスタリスク～[Cover]", "", ""],
     [6, "流星雨", "", ""],
     [7, "ギフト", "", ""],
@@ -199,10 +199,10 @@ album = "新しい季節に / Poppin'Party [Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "新しい季節に", "Poppin'Party", ""],
     [2, "ほな！", "Poppin'Party", ""],
-    [3, "Chu Chueen!", "Poppin'Party", ""],
+    [3, "Chu Chueen!", "Poppin'Party", "0"],
     [4, "新しい季節に -instrumental-", "Poppin'Party", ""],
     [5, "ほな！ -instrumental-", "Poppin'Party", ""],
-    [6, "Chu Chueen! -instrumental-", "Poppin'Party", ""],
+    [6, "Chu Chueen! -instrumental-", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/adbaec8c-3780-4e58-820e-56dee4cd1896", "https://vgmdb.net/album/134919"]
 
@@ -243,7 +243,7 @@ catalognumber = "BRMM-10472"
 date = "2021-12-15"
 album = "Keep Heart/Original Call / Roselia"
 tracks = [
-    [1, "Keep Heart", "", ""],
+    [1, "Keep Heart", "", "0"],
     [2, "Original Call", "", ""],
 ]
 links = ["https://vgmdb.net/album/116693"]
@@ -288,9 +288,9 @@ date = "2018-10-31"
 album = "ツナグ、ソラモヨウ / Afterglow"
 tracks = [
     [1, "ツナグ、ソラモヨウ", "Afterglow", ""],
-    [2, "Jamboree! Journey!", "Afterglow", ""],
+    [2, "Jamboree! Journey!", "Afterglow", "0"],
     [3, "ツナグ、ソラモヨウ -instrumental-", "Afterglow", ""],
-    [4, "Jamboree! Journey! -instrumental-", "Afterglow", ""],
+    [4, "Jamboree! Journey! -instrumental-", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3e35de18-9af2-4099-bb91-8bf88ef0975b", "https://vgmdb.net/album/80462"]
 
@@ -346,8 +346,8 @@ catalognumber = "BRMM-10938"
 date = "2025-07-02"
 album = "GLOW GOES ON / Afterglow"
 tracks = [
-    [1, "Glowing After", "", ""],
-    [2, "A Sunset So Bright", "", ""],
+    [1, "Glowing After", "", "0"],
+    [2, "A Sunset So Bright", "", "0"],
     [3, "Start as Usual", "", ""],
     [4, "\"Say cheese!!!!!\"", "", "0"],
     [5, "花笑みのデュオ", "", ""],
@@ -411,9 +411,9 @@ album = "バンドリ! ガールズバンドパーティ! カバコレ Special S
 tracks = [
     [1, "光るなら", "", ""],
     [2, "プライド革命", "", ""],
-    [3, "Baby Sweet Berry Love", "", ""],
+    [3, "Baby Sweet Berry Love", "", "0"],
     [4, "残酷な天使のテーゼ", "", ""],
-    [5, "Dragon Night", "", ""],
+    [5, "Dragon Night", "", "0"],
     [6, "chAngE", "", ""],
     [7, "激動", "", ""],
 ]
@@ -450,7 +450,7 @@ tracks = [
     [24, "一人ぼっち", "藤田淳平", ""],
     [25, "一緒の時間", "藤田淳平", ""],
     [26, "全てのはじまり", "藤田淳平", ""],
-    [27, "Don't be afraid!", "Glitter☆Green", ""],
+    [27, "Don't be afraid!", "Glitter☆Green", "0"],
     [28, "私の心はチョココロネ (TV Size)", "戸山香澄・花園たえ・牛込りみ・市ヶ谷有咲(CV⋯愛美・大塚紗英・西本りみ・伊藤彩沙)", ""],
     [29, "きらきら星 〜はじまりのステージVer.〜", "戸山香澄(CAST:愛美)", ""],
 ]
@@ -485,8 +485,8 @@ tracks = [
     [22, "意志の強さ", "藤田淳平", ""],
     [23, "大切なもの", "藤間仁", ""],
     [24, "ときめきエクスペリエンス! 〜Orchestral Ver.〜", "藤間仁", ""],
-    [25, "Be shine, shining!", "CHiSPA", ""],
-    [26, "Glee! Glee! Glee!", "Glitter☆Green", ""],
+    [25, "Be shine, shining!", "CHiSPA", "1"],
+    [26, "Glee! Glee! Glee!", "Glitter☆Green", "0"],
     [27, "キラキラだとか夢だとか 〜Sing Girls〜 (TV Size)", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d43caf00-b983-49c6-965a-df8abc3397f3", "https://vgmdb.net/album/65426"]
@@ -496,7 +496,7 @@ catalognumber = "BRMM-10620"
 date = "2023-03-15"
 album = "QUINTET / Morfonica"
 tracks = [
-    [1, "Daylight -デイライト-", "Morfonica", ""],
+    [1, "Daylight -デイライト-", "Morfonica", "0"],
     [2, "メランコリックララバイ", "Morfonica", ""],
     [3, "flame of hope", "Morfonica", ""],
     [4, "ブルームブルーム", "Morfonica", ""],
@@ -508,7 +508,7 @@ tracks = [
     [10, "Sweet Cheers!", "Morfonica", ""],
     [11, "寄る辺のSunny, Sunny", "Morfonica", ""],
     [12, "誓いのWingbeat", "Morfonica", ""],
-    [13, "Ever Sky Blue", "Morfonica", ""],
+    [13, "Ever Sky Blue", "Morfonica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b2526908-1030-44b4-81eb-e4a5db0fb889", "https://vgmdb.net/album/125604"]
 
@@ -545,7 +545,7 @@ tracks = [
     [6, "ロキ", "εpsilonΦ", ""],
     [7, "グッバイ宣言", "εpsilonΦ", ""],
     [8, "One Night Carnival", "風神RIZING！", ""],
-    [9, "GO!!!", "ALL CAST", ""],
+    [9, "GO!!!", "ALL CAST", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/12142778-8026-4738-98c2-1e35603a4d0e", "https://vgmdb.net/album/121661"]
 
@@ -602,10 +602,10 @@ tracks = [
     [5, "Evolve Forward in Hazard", "", ""],
     [6, "Stray in Chaos", "", ""],
     [7, "Shape of Trust", "", ""],
-    [8, "Just Awake", "", ""],
+    [8, "Just Awake", "", "0"],
     [9, "Beyond the End", "", ""],
     [10, "Why Couldn't I Say The Last Goodbye to You?", "", ""],
-    [11, "Keep the Heat and Fire Yourself Up", "", ""],
+    [11, "Keep the Heat and Fire Yourself Up", "", "0"],
     [12, "Because You Are Here", "", ""],
     [13, "One Shot, One Mind", "", ""],
     [14, "My Dear Lady, Will You Dance With Me Tonight?", "", ""],
@@ -638,7 +638,7 @@ tracks = [
     [2, "Returns", "", ""],
     [3, "イニシャル", "", ""],
     [4, "Y.O.L.O!!!!!", "", ""],
-    [5, "Hey-day狂騒曲", "", ""],
+    [5, "Hey-day狂騒曲", "", "0"],
     [6, "Sasanqua", "", ""],
     [7, "天下トーイツA to Z☆", "", ""],
     [8, "もういちど ルミナス", "", ""],
@@ -646,7 +646,7 @@ tracks = [
     [10, "クインティプル☆すまいる", "", ""],
     [11, "TWiNKLE CiRCLE", "", ""],
     [12, "夢を撃ち抜く瞬間に! (3rd Season #13 Full Ver.)", "", ""],
-    [13, "CiRCLE THANKS MUSiC♪", "", ""],
+    [13, "CiRCLE THANKS MUSiC♪", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116480"]
 
@@ -655,18 +655,18 @@ catalognumber = "BRMM-10512"
 date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best [Blu-ray付生産限定盤] Vocal Disc 2"
 tracks = [
-    [1, "FIRE BIRD", "", ""],
+    [1, "FIRE BIRD", "", "0"],
     [2, "R", "", ""],
     [3, "Ringing Bloom", "", ""],
     [4, "ゴーカ! ごーかい!? ファントムシーフ!", "", ""],
     [5, "うぃーきゃん☆フレフレっ!", "", ""],
     [6, "キミがいなくちゃっ!", "", ""],
-    [7, "Daylight -デイライト-", "", ""],
+    [7, "Daylight -デイライト-", "", "0"],
     [8, "flame of hope", "", ""],
     [9, "ブルームブルーム", "", ""],
-    [10, "EXPOSE 'Burn out!!!'", "", ""],
-    [11, "Beautiful Birthday", "", ""],
-    [12, "HELL! or HELL?", "", ""],
+    [10, "EXPOSE 'Burn out!!!'", "", "0"],
+    [11, "Beautiful Birthday", "", "0"],
+    [12, "HELL! or HELL?", "", "0"],
     [13, "ひとりじゃないんだから", "", ""],
     [14, "CATASTROPHE BANQUET", "", ""],
 ]
@@ -678,27 +678,27 @@ date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
     [1, "mind of Prominence", "", ""],
-    [2, "A DECLARATION OF ×××", "", ""],
-    [3, "HELL! or HELL?", "", ""],
+    [2, "A DECLARATION OF ×××", "", "0"],
+    [3, "HELL! or HELL?", "", "0"],
     [4, "劣等上等", "", ""],
-    [5, "JUST THE WAY I AM", "", ""],
+    [5, "JUST THE WAY I AM", "", "0"],
     [6, "UNSTOPPABLE", "", ""],
     [7, "REIGNING", "", ""],
     [8, "SOUL SOLDIER", "", ""],
-    [9, "DRIVE US CRAZY", "", ""],
+    [9, "DRIVE US CRAZY", "", "0"],
     [10, "!NVADE SHOW!", "", "0"],
-    [11, "Avant-garde HISTORY", "", ""],
-    [12, "FIRE BIRD", "", ""],
+    [11, "Avant-garde HISTORY", "", "0"],
+    [12, "FIRE BIRD", "", "0"],
     [13, "PASSIONATE ANTHEM", "", ""],
     [14, "シャルル", "", ""],
     [15, "Song I am.", "", ""],
     [16, "Special Medley (Ringing Bloom / 陽だまりロードナイト / Determination Symphony)", "", ""],
     [17, "軌跡", "", ""],
-    [18, "Blessing Chord", "", ""],
-    [19, "BLACK SHOUT", "", ""],
+    [18, "Blessing Chord", "", "0"],
+    [19, "BLACK SHOUT", "", "0"],
     [20, "ZEAL of proud", "", ""],
     [21, "SAVIOR OF SONG (Encore)", "", ""],
-    [22, "EXPOSE ‘Burn out!!!’ (Encore)", "", ""],
+    [22, "EXPOSE ‘Burn out!!!’ (Encore)", "", "0"],
     [23, "熱色スターマイン (Encore)", "", ""],
 ]
 links = ["https://vgmdb.net/album/116480"]
@@ -709,24 +709,24 @@ date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 4"
 tracks = [
     [1, "flame of hope", "", ""],
-    [2, "CQCQ", "", ""],
+    [2, "CQCQ", "", "0"],
     [3, "月光花", "", ""],
     [4, "金色へのプレリュード", "", ""],
     [5, "深海少女", "", ""],
-    [6, "Daylight -デイライト-", "", ""],
+    [6, "Daylight -デイライト-", "", "0"],
     [7, "ブルームブルーム", "", ""],
     [8, "Nevereverland", "", ""],
     [9, "ハーモニー・デイ", "", ""],
     [10, "ミライトレイン", "", ""],
     [11, "キズナミュージック♪", "", ""],
     [12, "Returns", "", ""],
-    [13, "1000回潤んだ空", "", ""],
+    [13, "1000回潤んだ空", "", "0"],
     [14, "Time Lapse", "", ""],
     [15, "イニシャル", "", ""],
-    [16, "Hello! Wink!", "", ""],
+    [16, "Hello! Wink!", "", "0"],
     [17, "キラキラだとか夢だとか 〜Sing Girls〜", "", ""],
-    [18, "CiRCLING", "", ""],
-    [19, "Daylight -デイライト- (Encore)", "", ""],
+    [18, "CiRCLING", "", "0"],
+    [19, "Daylight -デイライト- (Encore)", "", "0"],
     [20, "Yes! BanG_Dream! (Encore)", "", ""],
 ]
 links = ["https://vgmdb.net/album/116480"]
@@ -816,7 +816,7 @@ catalognumber = "BRMM-10472"
 date = "2021-12-15"
 album = "劇場版 BanG Dream! Episode of Roselia I 約束 オリジナルサウンドトラック"
 tracks = [
-    [1, "Keep Heart", "Elements Garden", ""],
+    [1, "Keep Heart", "Elements Garden", "0"],
     [2, "Original Call", "Elements Garden", ""],
     [3, "何事もない春", "Elements Garden", ""],
     [4, "Past days", "Elements Garden", ""],
@@ -914,14 +914,14 @@ album = "Polyphony / Morfonica [Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "Polyphonyscape", "", ""],
     [2, "Wreath of Brave", "", ""],
-    [3, "Merry Merry Thanks!!", "", ""],
+    [3, "Merry Merry Thanks!!", "", "0"],
     [4, "Sonorous", "", ""],
     [5, "両翼のBrilliance", "", ""],
     [6, "Steer to Utopia", "", ""],
-    [7, "Fateful...", "", ""],
+    [7, "Fateful...", "", "0"],
     [8, "ティリカモニカリラ", "", ""],
     [9, "Secret Dawn", "", ""],
-    [10, "Angel's Ladder", "", ""],
+    [10, "Angel's Ladder", "", "0"],
     [11, "One step at a time", "", ""],
     [12, "Tempest", "", ""],
 ]
@@ -933,7 +933,7 @@ date = "2025-03-12"
 album = "Polyphony / Morfonica [Blu-ray付生産限定盤] Vocal, Video"
 tracks = [
     [1, "フレージング ミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -945,7 +945,7 @@ tracks = [
     [11, "Tempest", "", ""],
     [12, "音がえしのセレナーデ", "", ""],
     [13, "金色へのプレリュード", "", ""],
-    [14, "Daylight -デイライト-", "", ""],
+    [14, "Daylight -デイライト-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/146289"]
 
@@ -973,9 +973,9 @@ catalognumber = "BRMM-10936"
 date = "2025-05-28"
 album = "Here, the world! / sumimi"
 tracks = [
-    [1, "Here, the world!", "sumimi", ""],
+    [1, "Here, the world!", "sumimi", "0"],
     [2, "Sweet Escape", "sumimi", ""],
-    [3, "Here, the world! -instrumental-", "sumimi", ""],
+    [3, "Here, the world! -instrumental-", "sumimi", "0"],
     [4, "Sweet Escape -instrumental-", "sumimi", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/9e9ba95a-7c75-4a02-b5b5-8671746a02ca", "https://vgmdb.net/album/150024"]
@@ -1014,9 +1014,9 @@ catalognumber = "BRMM-10934"
 date = "2025-06-11"
 album = "HOWLING AMBITION / RAISE A SUILEN [Limited Edition] Vocal"
 tracks = [
-    [1, "HOWLING AMBITION", "", ""],
+    [1, "HOWLING AMBITION", "", "0"],
     [2, "VIVID FIRST TIME", "", ""],
-    [3, "HOWLING AMBITION -instrumental-", "", ""],
+    [3, "HOWLING AMBITION -instrumental-", "", "0"],
     [4, "VIVID FIRST TIME -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/151584"]
@@ -1026,20 +1026,20 @@ catalognumber = "BRMM-10934"
 date = "2025-06-11"
 album = "HOWLING AMBITION / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video"
 tracks = [
-    [1, "HELL! or HELL?", "", ""],
+    [1, "HELL! or HELL?", "", "0"],
     [2, "UNSTOPPABLE", "", ""],
-    [3, "EXIST", "", ""],
+    [3, "EXIST", "", "0"],
     [4, "Takin' my Heart", "", ""],
-    [5, "Beautiful Birthday", "", ""],
-    [6, "Life on the Lotus", "", ""],
-    [7, "CORUSCATE -DNA-", "", ""],
-    [8, "DRIVE US CRAZY", "", ""],
-    [9, "Bad Kids All Bet", "", ""],
-    [10, "JUST THE WAY I AM", "", ""],
+    [5, "Beautiful Birthday", "", "0"],
+    [6, "Life on the Lotus", "", "0"],
+    [7, "CORUSCATE -DNA-", "", "0"],
+    [8, "DRIVE US CRAZY", "", "0"],
+    [9, "Bad Kids All Bet", "", "0"],
+    [10, "JUST THE WAY I AM", "", "0"],
     [11, "V.I.P Monster", "", ""],
     [12, "灼熱 Bonfire!", "", ""],
-    [13, "EXPOSE 'Burn out!!!'", "", ""],
-    [14, "Light a fire", "", ""],
+    [13, "EXPOSE 'Burn out!!!'", "", "0"],
+    [14, "Light a fire", "", "0"],
     [15, "WELCOME TO PANDEMONIUM", "", ""],
     [16, "TWIN TALE", "", ""],
     [17, "!NVADE SHOW!", "", "0"],
@@ -1064,9 +1064,9 @@ catalognumber = "BRMM-10107"
 date = "2018-01-31"
 album = "Hey-day狂騒曲 / Afterglow"
 tracks = [
-    [1, "Hey-day狂騒曲", "Afterglow", ""],
+    [1, "Hey-day狂騒曲", "Afterglow", "0"],
     [2, "Scarlet Sky", "Afterglow", ""],
-    [3, "Hey-day狂騒曲 -instrumental-", "Afterglow", ""],
+    [3, "Hey-day狂騒曲 -instrumental-", "Afterglow", "0"],
     [4, "Scarlet Sky -instrumental-", "Afterglow", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/1e192dde-41f3-40de-bee9-1babc8538352", "https://vgmdb.net/album/73076"]
@@ -1105,16 +1105,16 @@ catalognumber = "BRMM-10253"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal Disc 1"
 tracks = [
-    [1, "Breakthrough!", "Poppin'Party", ""],
+    [1, "Breakthrough!", "Poppin'Party", "0"],
     [2, "NO GIRL NO CRY/Poppin'Party Ver.", "Poppin'Party", ""],
     [3, "イニシャル", "Poppin'Party", ""],
-    [4, "Hello! Wink!", "Poppin'Party", ""],
+    [4, "Hello! Wink!", "Poppin'Party", "0"],
     [5, "Step×Step！", "Poppin'Party", ""],
-    [6, "Jumpin'", "Poppin'Party", ""],
+    [6, "Jumpin'", "Poppin'Party", "0"],
     [7, "White Afternoon", "Poppin'Party", ""],
     [8, "キラキラスター！", "Poppin'Party", ""],
     [9, "Returns", "Poppin'Party", ""],
-    [10, "Dreamers Go!", "Poppin'Party", ""],
+    [10, "Dreamers Go!", "Poppin'Party", "0"],
     [11, "キズナミュージック♪", "Poppin'Party", ""],
     [12, "ミライトレイン", "Poppin'Party", ""],
     [13, "夢を撃ち抜く瞬間に！", "Poppin'Party", ""],
@@ -1128,13 +1128,13 @@ album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal Disc 2"
 tracks = [
     [1, "ぽっぴん'しゃっふる", "Poppin'Party", ""],
     [2, "夏空 SUN! SUN! SEVEN!", "Poppin'Party", ""],
-    [3, "1000回潤んだ空", "Poppin'Party", ""],
-    [4, "Happy Happy Party!", "Poppin'Party", ""],
+    [3, "1000回潤んだ空", "Poppin'Party", "0"],
+    [4, "Happy Happy Party!", "Poppin'Party", "0"],
     [5, "夏のドーン！", "Poppin'Party", ""],
     [6, "キミにもらったもの", "Poppin'Party", ""],
-    [7, "Light Delight", "Poppin'Party", ""],
+    [7, "Light Delight", "Poppin'Party", "0"],
     [8, "切ないSandglass", "Poppin'Party", ""],
-    [9, "Home Street", "Poppin'Party", ""],
+    [9, "Home Street", "Poppin'Party", "0"],
     [10, "What's the POPIPA!?", "Poppin'Party", ""],
     [11, "SAKURA MEMORIES", "Poppin'Party", ""],
     [12, "アニバーサリー", "Poppin'Party", ""],
@@ -1146,9 +1146,9 @@ catalognumber = "BRMM-10253"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal, Live Event, Video"
 tracks = [
-    [1, "Breakthrough! MV", "", ""],
+    [1, "Breakthrough! MV", "", "0"],
     [2, "朗読劇 (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
-    [3, "B.O.E 〜Believe Our EKAKIUTA〜 (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
+    [3, "B.O.E 〜Believe Our EKAKIUTA〜 (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", "0"],
     [4, "ポピパ、あのね... (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
     [5, "ぽっぴん即興劇♪ (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
     [6, "ファンミのテーマソングを作ろう! (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
@@ -1156,7 +1156,7 @@ tracks = [
     [8, "Yes! BanG_Dream! (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
     [9, "前へススメ! (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
     [10, "Time Lapse (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
-    [11, "Dreamers Go! (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", ""],
+    [11, "Dreamers Go! (Poppin'Party Fan Meeting Tour 2019!宇宙へドリーマーズGO!)", "", "0"],
     [12, "(no title available)", "", ""],
 ]
 links = ["https://vgmdb.net/album/97120"]
@@ -1166,10 +1166,10 @@ catalognumber = "BRMM-10136"
 date = "2018-11-21"
 album = "Don't be afraid! / Glitter*Green [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "Don't be afraid!", "Glitter☆Green", ""],
-    [2, "Glee! Glee! Glee!", "Glitter☆Green", ""],
-    [3, "Don't be afraid! -instrumental-", "Glitter☆Green", ""],
-    [4, "Glee! Glee! Glee! -instrumental-", "Glitter☆Green", ""],
+    [1, "Don't be afraid!", "Glitter☆Green", "0"],
+    [2, "Glee! Glee! Glee!", "Glitter☆Green", "0"],
+    [3, "Don't be afraid! -instrumental-", "Glitter☆Green", "0"],
+    [4, "Glee! Glee! Glee! -instrumental-", "Glitter☆Green", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cafff219-ed1b-4a1a-b88f-1e9928164243", "https://vgmdb.net/album/80459"]
 
@@ -1190,9 +1190,9 @@ album = "忘れらんない日々のこと / Afterglow"
 tracks = [
     [1, "燦々", "Afterglow", ""],
     [2, "That’s why I’m here.", "Afterglow", ""],
-    [3, "IGNITE GLOW", "Afterglow", ""],
+    [3, "IGNITE GLOW", "Afterglow", "0"],
     [4, "ペトリコール・オベーション", "Afterglow", ""],
-    [5, "Made My Day", "Afterglow", ""],
+    [5, "Made My Day", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/74de27ee-12f5-4c76-843f-72c2640c80f5", "https://vgmdb.net/album/138844"]
 
@@ -1232,7 +1232,7 @@ tracks = [
     [2, "Redo", "Afterglow", ""],
     [3, "ふわふわ時間", "Pastel＊Palettes", ""],
     [4, "魂のルフラン", "Roselia", ""],
-    [5, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
+    [5, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/308923a4-05ba-4a44-85dd-c6a3a62d5661", "https://vgmdb.net/album/99841"]
 
@@ -1267,9 +1267,9 @@ date = "2018-12-12"
 album = "キズナミュージック♪ / Poppin'Party"
 tracks = [
     [1, "キズナミュージック♪", "Poppin'Party", ""],
-    [2, "Home Street", "Poppin'Party", ""],
+    [2, "Home Street", "Poppin'Party", "1"],
     [3, "キズナミュージック♪ -instrumental-", "Poppin'Party", ""],
-    [4, "Home Street -instrumental-", "Poppin'Party", ""],
+    [4, "Home Street -instrumental-", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/639976d0-5fb9-4b37-be2f-616ec1b6671b", "https://vgmdb.net/album/81504"]
 
@@ -1279,9 +1279,9 @@ date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤B] Vocal"
 tracks = [
     [1, "礎の花冠", "Roselia", ""],
-    [2, "FRONTIER FANTASIA", "Roselia", ""],
+    [2, "FRONTIER FANTASIA", "Roselia", "0"],
     [3, "礎の花冠 –instrumental–", "Roselia", ""],
-    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", ""],
+    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0438a7f6-f2e5-4612-9057-9b047f322e77", "https://vgmdb.net/album/145792"]
 
@@ -1299,10 +1299,10 @@ tracks = [
     [7, "R", "", ""],
     [8, "軌跡", "", ""],
     [9, "Sprechchor", "", ""],
-    [10, "Dear Gleam", "", ""],
+    [10, "Dear Gleam", "", "0"],
     [11, "一逢のFull Glory", "", ""],
-    [12, "Floral Haven", "", ""],
-    [13, "FIRD BIRD", "", ""],
+    [12, "Floral Haven", "", "0"],
+    [13, "FIRD BIRD", "", "0"],
 ]
 links = ["https://vgmdb.net/album/145792"]
 
@@ -1414,10 +1414,10 @@ catalognumber = "BRMM-10918"
 date = "2025-06-26"
 album = "Dazzle the Destiny / Roselia [Limited Edition] Vocal"
 tracks = [
-    [1, "Dazzle the Destiny", "", ""],
-    [2, "Grateful Melting", "", ""],
-    [3, "Dazzle the Destiny -instrumental-", "", ""],
-    [4, "Grateful Melting -instrumental-", "", ""],
+    [1, "Dazzle the Destiny", "", "0"],
+    [2, "Grateful Melting", "", "0"],
+    [3, "Dazzle the Destiny -instrumental-", "", "0"],
+    [4, "Grateful Melting -instrumental-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/151586"]
 
@@ -1429,14 +1429,14 @@ tracks = [
     [1, "Sage der Rosen", "", ""],
     [2, "Song I am.", "", ""],
     [3, "THE HISTORIC...", "", ""],
-    [4, "Determination Symphony", "", ""],
-    [5, "FIRE BIRD", "", ""],
+    [4, "Determination Symphony", "", "0"],
+    [5, "FIRE BIRD", "", "0"],
     [6, "幕間映像", "", ""],
     [7, "約束", "", ""],
     [8, "礎の花冠", "", ""],
     [9, "Neo-Aspect", "", ""],
     [10, "Re:birth day", "", ""],
-    [11, "Floral Haven", "", ""],
+    [11, "Floral Haven", "", "0"],
     [12, "PASSIONATE ANTHEM", "", ""],
     [13, "幕間映像", "", ""],
     [14, "R", "", ""],
@@ -1479,7 +1479,7 @@ tracks = [
     [1, "Tomorrow's Door", "Poppin'Party", ""],
     [2, "イントロダクション", "Poppin'Party", ""],
     [3, "TARINAI", "Poppin'Party", ""],
-    [4, "DOKI DOKI SCARY", "Poppin'Party", ""],
+    [4, "DOKI DOKI SCARY", "Poppin'Party", "0"],
     [5, "Photograph", "Poppin'Party", ""],
     [6, "夏に閉じこめて", "Poppin'Party", ""],
     [7, "ぽっぴん’どりーむ！", "Poppin'Party", ""],
@@ -1529,10 +1529,10 @@ catalognumber = "BRMM-10137"
 date = "2018-11-21"
 album = "Don't be afraid! / Glitter*Green"
 tracks = [
-    [1, "Don't be afraid!", "Glitter☆Green", ""],
-    [2, "Glee! Glee! Glee!", "Glitter☆Green", ""],
-    [3, "Don't be afraid! -instrumental-", "Glitter☆Green", ""],
-    [4, "Glee! Glee! Glee! -instrumental-", "Glitter☆Green", ""],
+    [1, "Don't be afraid!", "Glitter☆Green", "0"],
+    [2, "Glee! Glee! Glee!", "Glitter☆Green", "0"],
+    [3, "Don't be afraid! -instrumental-", "Glitter☆Green", "0"],
+    [4, "Glee! Glee! Glee! -instrumental-", "Glitter☆Green", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dfe0d1c1-3d8b-4e71-a35d-7ca78338a972", "https://vgmdb.net/album/78953"]
 
@@ -1555,10 +1555,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [氷川紗夜Ver.]"
 tracks = [
     [1, "THRONE OF ROSE", "", ""],
-    [2, "Dear Gleam", "", ""],
+    [2, "Dear Gleam", "", "0"],
     [3, "一逢のFull Glory", "", ""],
     [4, "THRONE OF ROSE -instrumental-", "", ""],
-    [5, "Dear Gleam -instrumental-", "", ""],
+    [5, "Dear Gleam -instrumental-", "", "0"],
     [6, "一逢のFull Glory -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/129745"]
@@ -1580,10 +1580,10 @@ catalognumber = "BRMM-10086"
 date = "2017-04-19"
 album = "BLACK SHOUT / Roselia"
 tracks = [
-    [1, "BLACK SHOUT", "Roselia", ""],
-    [2, "LOUDER", "Roselia", ""],
-    [3, "BLACK SHOUT -instrumental-", "Roselia", ""],
-    [4, "LOUDER -instrumental-", "Roselia", ""],
+    [1, "BLACK SHOUT", "Roselia", "0"],
+    [2, "LOUDER", "Roselia", "1"],
+    [3, "BLACK SHOUT -instrumental-", "Roselia", "0"],
+    [4, "LOUDER -instrumental-", "Roselia", "0"],
     [5, "Roselia ミニドラマ〜バンド練習編〜", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/2452742e-efd0-474c-a243-276b8f0e834c", "https://vgmdb.net/album/65944"]
@@ -1615,9 +1615,9 @@ catalognumber = "BRMM-10439"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN"
 tracks = [
-    [1, "Domination to world", "RAISE A SUILEN", ""],
+    [1, "Domination to world", "RAISE A SUILEN", "0"],
     [2, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
-    [3, "Domination to world –instrumental–", "RAISE A SUILEN", ""],
+    [3, "Domination to world –instrumental–", "RAISE A SUILEN", "0"],
     [4, "灼熱 Bonfire! –instrumental–", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/03e8baa7-f08c-4451-932d-fbe00f6066df", "https://vgmdb.net/album/112628"]
@@ -1627,17 +1627,17 @@ catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal"
 tracks = [
-    [1, "Invincible Fighter", "RAISE A SUILEN", ""],
-    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
+    [1, "Invincible Fighter", "RAISE A SUILEN", "0"],
+    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
     [3, "SOUL SOLDIER", "RAISE A SUILEN", ""],
     [4, "UNSTOPPABLE", "RAISE A SUILEN", ""],
-    [5, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [6, "Beautiful Birthday", "RAISE A SUILEN", ""],
+    [5, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [6, "Beautiful Birthday", "RAISE A SUILEN", "0"],
     [7, "Takin’ my Heart", "RAISE A SUILEN", ""],
-    [8, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [8, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [9, "!NVADE SHOW!", "RAISE A SUILEN", "0"],
     [10, "REIGNING", "RAISE A SUILEN", ""],
-    [11, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
+    [11, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
     [12, "R・I・O・T", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/53942dab-2913-4f5e-94d2-1340c80755d7", "https://vgmdb.net/album/97124"]
@@ -1647,11 +1647,11 @@ catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 2"
 tracks = [
-    [1, "A DECLARATION OF ×××", "", ""],
+    [1, "A DECLARATION OF ×××", "", "0"],
     [2, "R・I・O・T", "", ""],
     [3, "UNSTOPPABLE", "", ""],
-    [4, "Don’t be afraid!", "", ""],
-    [5, "Hey-day狂騒曲 (カプリチオ)", "", ""],
+    [4, "Don’t be afraid!", "", "0"],
+    [5, "Hey-day狂騒曲 (カプリチオ)", "", "0"],
     [6, "激動", "", ""],
     [7, "天下トーイツ A to Z☆", "", ""],
     [8, "しゅわりん☆どり〜みん", "", ""],
@@ -1662,9 +1662,9 @@ tracks = [
     [13, "ナカナ イナ カナイ", "", ""],
     [14, "R・I・O・T (RAISE A SUILEN+大塚紗英)", "", ""],
     [15, "Takin' my Heart", "", ""],
-    [16, "DRIVE US CRAZY", "", ""],
-    [17, "Invincible Fighter", "", ""],
-    [18, "EXPOSE 'Burn out!!!'", "", ""],
+    [16, "DRIVE US CRAZY", "", "0"],
+    [17, "Invincible Fighter", "", "0"],
+    [18, "EXPOSE 'Burn out!!!'", "", "0"],
 ]
 links = ["https://vgmdb.net/album/97124"]
 
@@ -1673,11 +1673,11 @@ catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "Invincible Fighter", "", ""],
+    [1, "Invincible Fighter", "", "0"],
     [2, "R・I・O・T", "", ""],
     [3, "UNSTOPPABLE", "", ""],
     [4, "1/3の純情な感情", "", "0"],
-    [5, "EXPOSE 'Burn out!!!'", "", ""],
+    [5, "EXPOSE 'Burn out!!!'", "", "0"],
     [6, "ハイファイブ∞あどべんちゃっ", "", ""],
     [7, "キミがいなくちゃっ!", "", ""],
     [8, "えがおのオーケストラっ!", "", ""],
@@ -1687,10 +1687,10 @@ tracks = [
     [12, "ナカナ イナ カナイ", "", ""],
     [13, "R・I・O・T (RAISE A SUILEN+大塚紗英)", "", ""],
     [14, "Takin' my Heart", "", ""],
-    [15, "Glee! Glee! Glee!", "", ""],
+    [15, "Glee! Glee! Glee!", "", "0"],
     [16, "Y.O.L.O!!!!!", "", ""],
-    [17, "DRIVE US CRAZY", "", ""],
-    [18, "A DECLARATION OF ×××", "", ""],
+    [17, "DRIVE US CRAZY", "", "0"],
+    [18, "A DECLARATION OF ×××", "", "0"],
     [19, "UNSTOPPABLE", "", ""],
 ]
 links = ["https://vgmdb.net/album/97124"]
@@ -1701,9 +1701,9 @@ date = "2021-01-27"
 album = "mind of Prominence / RAISE A SUILEN [生産限定盤] Vocal"
 tracks = [
     [1, "mind of Prominence", "RAISE A SUILEN", ""],
-    [2, "JUST THE WAY I AM", "RAISE A SUILEN", ""],
+    [2, "JUST THE WAY I AM", "RAISE A SUILEN", "0"],
     [3, "mind of Prominence -instrumental-", "RAISE A SUILEN", ""],
-    [4, "JUST THE WAY I AM -instrumental-", "RAISE A SUILEN", ""],
+    [4, "JUST THE WAY I AM -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/15816fac-7076-4e57-9159-75bb72f23e3e", "https://vgmdb.net/album/104759"]
 
@@ -1723,9 +1723,9 @@ date = "2019-02-20"
 album = "Y.O.L.O!!!!! / Afterglow"
 tracks = [
     [1, "Y.O.L.O！！！！！", "Afterglow", ""],
-    [2, "COMIC PANIC!!!", "Afterglow", ""],
+    [2, "COMIC PANIC!!!", "Afterglow", "1"],
     [3, "Y.O.L.O！！！！！ -instrumental-", "Afterglow", ""],
-    [4, "COMIC PANIC!!! -instrumental-", "Afterglow", ""],
+    [4, "COMIC PANIC!!! -instrumental-", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9f1bdf13-6d52-4b93-b7c4-db971617bf1b", "https://vgmdb.net/album/82743"]
 
@@ -1741,16 +1741,16 @@ tracks = [
     [5, "走り始めたばかりのキミに -instrumental-", "", ""],
     [6, "ティアドロップス -instrumental-", "", ""],
     [7, "ときめきエクスペリエンス! -instrumental-", "", ""],
-    [8, "1000回潤んだ空 -instrumental-", "", ""],
+    [8, "1000回潤んだ空 -instrumental-", "", "0"],
     [9, "キラキラだとか夢だとか ～Sing Girls～ -instrumental-", "", ""],
-    [10, "Happy Happy Party! -instrumental-", "", ""],
+    [10, "Happy Happy Party! -instrumental-", "", "0"],
     [11, "前へススメ! -instrumental-", "", ""],
     [12, "夢みるSunflower -instrumental-", "", ""],
     [13, "Time Lapse -instrumental-", "", ""],
     [14, "八月のif -instrumental-", "", ""],
     [15, "夏のドーン! -instrumental-", "", ""],
     [16, "クリスマスのうた -instrumental-", "", ""],
-    [17, "B.O.F -instrumental-", "", ""],
+    [17, "B.O.F -instrumental-", "", "0"],
     [18, "キミにもらったもの -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/117327"]
@@ -1760,18 +1760,18 @@ catalognumber = ""
 date = "2022-01-15"
 album = "Poppin'Party Instrumental Collection 1 Disc 2"
 tracks = [
-    [1, "CiRCLING -instrumental-", "", ""],
-    [2, "Light Delight -instrumental-", "", ""],
+    [1, "CiRCLING -instrumental-", "", "0"],
+    [2, "Light Delight -instrumental-", "", "0"],
     [3, "私の心はチョココロネ -instrumental-", "", ""],
     [4, "二重の虹(ダブル レインボウ) -instrumental-", "", ""],
     [5, "最高(さあ行こう)! -instrumental-", "", ""],
     [6, "ガールズコード -instrumental-", "", ""],
     [7, "切ないSandglass -instrumental-", "", ""],
     [8, "キズナミュージック♪ -instrumental-", "", ""],
-    [9, "Home Street -instrumental-", "", ""],
-    [10, "Jumpin' -instrumental-", "", ""],
+    [9, "Home Street -instrumental-", "", "0"],
+    [10, "Jumpin' -instrumental-", "", "0"],
     [11, "What's the POPIPA!? -instrumental-", "", ""],
-    [12, "Dreamers Go! -instrumental-", "", ""],
+    [12, "Dreamers Go! -instrumental-", "", "0"],
     [13, "Returns -instrumental-", "", ""],
     [14, "NO GIRL NO CRY -instrumental-", "", ""],
     [15, "White Afternoon -instrumental-", "", ""],
@@ -1787,14 +1787,14 @@ tracks = [
     [2, "夢を撃ち抜く瞬間に! -instrumental-", "", ""],
     [3, "SAKURA MEMORIES -instrumental-", "", ""],
     [4, "アニバーサリー -instrumental-", "", ""],
-    [5, "Breakthrough! -instrumental-", "", ""],
-    [6, "Hello! Wink! -instrumental-", "", ""],
+    [5, "Breakthrough! -instrumental-", "", "0"],
+    [6, "Hello! Wink! -instrumental-", "", "0"],
     [7, "Step×Step! -instrumental-", "", ""],
     [8, "キラキラスター! -instrumental-", "", ""],
     [9, "ミライトレイン -instrumental-", "", ""],
     [10, "Photograph -instrumental-", "", ""],
     [11, "開けたらDream! -instrumental-", "", ""],
-    [12, "Live Beyond!! -instrumental-", "", ""],
+    [12, "Live Beyond!! -instrumental-", "", "0"],
     [13, "Sweets BAN! -instrumental-", "", ""],
     [14, "キミが始まる! -instrumental-", "", ""],
     [15, "Moonlight Walk -instrumental-", "", ""],
@@ -1807,11 +1807,11 @@ catalognumber = "BRMM-10373"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN"
 tracks = [
-    [1, "EXIST", "RAISE A SUILEN", ""],
-    [2, "Embrace of light", "RAISE A SUILEN", ""],
+    [1, "EXIST", "RAISE A SUILEN", "0"],
+    [2, "Embrace of light", "RAISE A SUILEN", "0"],
     [3, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
-    [4, "EXIST -instrumental-", "RAISE A SUILEN", ""],
-    [5, "Embrace of light -instrumental-", "RAISE A SUILEN", ""],
+    [4, "EXIST -instrumental-", "RAISE A SUILEN", "0"],
+    [5, "Embrace of light -instrumental-", "RAISE A SUILEN", "0"],
     [6, "OUTSIDER RODEO -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/dc0a90da-ce83-45f3-be46-0c1c3155d840", "https://vgmdb.net/album/108838"]
@@ -1860,9 +1860,9 @@ album = "忘れらんない日々のこと / Afterglow"
 tracks = [
     [1, "燦々", "Afterglow", ""],
     [2, "That’s why I’m here.", "Afterglow", ""],
-    [3, "IGNITE GLOW", "Afterglow", ""],
+    [3, "IGNITE GLOW", "Afterglow", "0"],
     [4, "ペトリコール・オベーション", "Afterglow", ""],
-    [5, "Made My Day", "Afterglow", ""],
+    [5, "Made My Day", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/17a888c0-66be-4948-bd1b-84f2d51475cd", "https://vgmdb.net/album/138845"]
 
@@ -1891,15 +1891,15 @@ tracks = [
     [4, "One step at a time", "Morfonica", ""],
     [5, "Secret Dawn", "Morfonica", ""],
     [6, "fly with the night", "Morfonica", ""],
-    [7, "ALIVE", "Morfonica", ""],
+    [7, "ALIVE", "Morfonica", "0"],
     [8, "Nameless Story", "Morfonica", ""],
     [9, "メランコリックララバイ", "Morfonica", ""],
     [10, "祝福", "Morfonica", ""],
     [11, "Nevereverland", "Morfonica", ""],
     [12, "flame of hope", "Morfonica", ""],
     [13, "誓いのWingbeat", "Morfonica", ""],
-    [14, "Ever Sky Blue (ENCORE)", "Morfonica", ""],
-    [15, "Daylight –デイライト– (ENCORE)", "Morfonica", ""],
+    [14, "Ever Sky Blue (ENCORE)", "Morfonica", "0"],
+    [15, "Daylight –デイライト– (ENCORE)", "Morfonica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/03e2fef4-857d-4d31-9a71-3377d029c898", "https://vgmdb.net/album/139064"]
 
@@ -1909,10 +1909,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [今井リサVer.]"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/5ffa2fef-1925-4df7-9dce-320168541130", "https://vgmdb.net/album/136199"]
@@ -1922,10 +1922,10 @@ catalognumber = "BRMM-10887"
 date = "2025-01-15"
 album = "KiLLKiSS / Ave Mujica"
 tracks = [
-    [1, "KiLLKiSS", "Ave Mujica", ""],
-    [2, "Georgette Me, Georgette You", "Ave Mujica", ""],
-    [3, "KiLLKiSS -instrumental-", "Ave Mujica", ""],
-    [4, "Georgette Me, Georgette You -instrumental-", "Ave Mujica", ""],
+    [1, "KiLLKiSS", "Ave Mujica", "0"],
+    [2, "Georgette Me, Georgette You", "Ave Mujica", "0"],
+    [3, "KiLLKiSS -instrumental-", "Ave Mujica", "0"],
+    [4, "Georgette Me, Georgette You -instrumental-", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/19b8c2a4-3275-44d5-83ac-0414b0450137", "https://vgmdb.net/album/144037"]
 
@@ -1934,13 +1934,13 @@ catalognumber = "BRMM-10520"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [B ver./通常盤]"
 tracks = [
-    [1, "CORUSCATE -DNA-", "RAISE A SUILEN", ""],
+    [1, "CORUSCATE -DNA-", "RAISE A SUILEN", "0"],
     [2, "Repaint", "RAISE A SUILEN", ""],
-    [3, "Light a fire", "RAISE A SUILEN", ""],
-    [4, "Keep the Heat and Fire Yourself Up", "RAISE A SUILEN", ""],
-    [5, "CORUSCATE -DNA- -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Light a fire", "RAISE A SUILEN", "1"],
+    [4, "Keep the Heat and Fire Yourself Up", "RAISE A SUILEN", "0"],
+    [5, "CORUSCATE -DNA- -instrumental-", "RAISE A SUILEN", "0"],
     [6, "Repaint -instrumental-", "RAISE A SUILEN", ""],
-    [7, "Light a fire -instrumental-", "RAISE A SUILEN", ""],
+    [7, "Light a fire -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/01372e92-6811-4fb7-8ab3-6e94f7b0c1e0", "https://vgmdb.net/album/116672"]
 
@@ -1950,10 +1950,10 @@ date = "2017-12-13"
 album = "クリスマスのうた / Poppin'Party Disc 1 (CD)"
 tracks = [
     [1, "クリスマスのうた", "Poppin'Party", ""],
-    [2, "B.O.F", "Poppin'Party", ""],
+    [2, "B.O.F", "Poppin'Party", "0"],
     [3, "キミにもらったもの", "Poppin'Party", ""],
     [4, "クリスマスのうた -instrumental-", "Poppin'Party", ""],
-    [5, "B.O.F -instrumental-", "Poppin'Party", ""],
+    [5, "B.O.F -instrumental-", "Poppin'Party", "0"],
     [6, "キミにもらったもの -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/62d2d181-72f9-43e7-acfe-9e594011e662", "https://vgmdb.net/album/72326"]
@@ -1984,7 +1984,7 @@ catalognumber = "BRMM-10218"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Pastel*Palettes・Afterglow・ハロー、ハッピーワールド!"
 tracks = [
-    [1, "Easy come, Easy go! (game size ver.)", "", ""],
+    [1, "Easy come, Easy go! (game size ver.)", "", "0"],
     [2, "ワクワクmeetsトリップ (game size ver.)", "", ""],
     [3, "にこ×にこ=ハイパースマイルパワー! (game size ver.)", "", ""],
 ]
@@ -2022,9 +2022,9 @@ catalognumber = "BRMM-10143"
 date = "2018-12-12"
 album = "BRAVE JEWEL / Roselia"
 tracks = [
-    [1, "BRAVE JEWEL", "Roselia", ""],
+    [1, "BRAVE JEWEL", "Roselia", "0"],
     [2, "Sanctuary", "Roselia", ""],
-    [3, "BRAVE JEWEL -instrumental-", "Roselia", ""],
+    [3, "BRAVE JEWEL -instrumental-", "Roselia", "0"],
     [4, "Sanctuary -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/69db71cb-03ce-4bc9-a685-a9bbceb0830b", "https://vgmdb.net/album/81502"]
@@ -2042,9 +2042,9 @@ date = "2018-12-12"
 album = "キズナミュージック♪ / Poppin'Party Disc 1 (CD)"
 tracks = [
     [1, "キズナミュージック♪", "Poppin'Party", ""],
-    [2, "Home Street", "Poppin'Party", ""],
+    [2, "Home Street", "Poppin'Party", "0"],
     [3, "キズナミュージック♪ -instrumental-", "Poppin'Party", ""],
-    [4, "Home Street -instrumental-", "Poppin'Party", ""],
+    [4, "Home Street -instrumental-", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d93af821-00a8-499b-9f8a-1cc9eb90260c", "https://vgmdb.net/album/81505"]
 
@@ -2078,7 +2078,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81508"]
 
@@ -2120,8 +2120,8 @@ tracks = [
     [1, "Time Lapse", "Poppin'Party", ""],
     [2, "八月のif", "Poppin'Party", ""],
     [3, "クリスマスのうた", "Poppin'Party", ""],
-    [4, "B.O.F", "Poppin'Party", ""],
-    [5, "CiRCLING", "Poppin'Party", ""],
+    [4, "B.O.F", "Poppin'Party", "0"],
+    [5, "CiRCLING", "Poppin'Party", "0"],
     [6, "二重の虹(ダブル レインボウ)", "Poppin'Party", ""],
     [7, "最高(さあ行こう)！", "Poppin'Party", ""],
     [8, "ガールズコード", "Poppin'Party", ""],
@@ -2147,10 +2147,10 @@ catalognumber = "BRMM-10919"
 date = "2025-06-26"
 album = "Dazzle the Destiny / Roselia"
 tracks = [
-    [1, "Dazzle the Destiny", "", ""],
-    [2, "Grateful Melting", "", ""],
-    [3, "Dazzle the Destiny -Instrumental-", "", ""],
-    [4, "Grateful Melting -Instrumental-", "", ""],
+    [1, "Dazzle the Destiny", "", "0"],
+    [2, "Grateful Melting", "", "0"],
+    [3, "Dazzle the Destiny -Instrumental-", "", "0"],
+    [4, "Grateful Melting -Instrumental-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/150882"]
 
@@ -2159,9 +2159,9 @@ catalognumber = "BRMM-10438"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN [生産限定盤] Vocal"
 tracks = [
-    [1, "Domination to world", "RAISE A SUILEN", ""],
+    [1, "Domination to world", "RAISE A SUILEN", "0"],
     [2, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
-    [3, "Domination to world –instrumental–", "RAISE A SUILEN", ""],
+    [3, "Domination to world –instrumental–", "RAISE A SUILEN", "0"],
     [4, "灼熱 Bonfire! –instrumental–", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/899ff3e6-0ea6-4fbc-87c5-29896be68e09", "https://vgmdb.net/album/112629"]
@@ -2171,21 +2171,21 @@ catalognumber = "BRMM-10438"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN [生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Invincible Fighter", "RAISE A SUILEN", ""],
-    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
+    [1, "Invincible Fighter", "RAISE A SUILEN", "0"],
+    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
     [3, "SOUL SOLDIER", "RAISE A SUILEN", ""],
     [4, "UNSTOPPABLE", "RAISE A SUILEN", ""],
-    [5, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [6, "Beautiful Birthday", "RAISE A SUILEN", ""],
+    [5, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [6, "Beautiful Birthday", "RAISE A SUILEN", "0"],
     [7, "Takin’ my Heart", "RAISE A SUILEN", ""],
     [8, "激動", "RAISE A SUILEN", ""],
     [9, "恋しさとせつなさと心強さと", "RAISE A SUILEN", ""],
-    [10, "DEPARTURES", "RAISE A SUILEN", ""],
-    [11, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [10, "DEPARTURES", "RAISE A SUILEN", "0"],
+    [11, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [12, "!NVADE SHOW!", "RAISE A SUILEN", "0"],
     [13, "Sacred world", "RAISE A SUILEN", ""],
     [14, "REIGNING", "RAISE A SUILEN", ""],
-    [15, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
+    [15, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
     [16, "R・I・O・T", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/899ff3e6-0ea6-4fbc-87c5-29896be68e09", "https://vgmdb.net/album/112629"]
@@ -2225,7 +2225,7 @@ catalognumber = "BRMM-10216"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Pastel*Palettes"
 tracks = [
-    [1, "Easy come, Easy go! (game size ver.)", "", ""],
+    [1, "Easy come, Easy go! (game size ver.)", "", "0"],
     [2, "ワクワクmeetsトリップ (game size ver.)", "", ""],
     [3, "にこ×にこ=ハイパースマイルパワー! (game size ver.)", "", ""],
 ]
@@ -2236,10 +2236,10 @@ catalognumber = "BRMM-10229"
 date = "2020-01-22"
 album = "DRIVE US CRAZY / RAISE A SUILEN"
 tracks = [
-    [1, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
-    [2, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [3, "DRIVE US CRAZY -instrumental-", "RAISE A SUILEN", ""],
-    [4, "HELL! or HELL? -instrumental-", "RAISE A SUILEN", ""],
+    [1, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
+    [2, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [3, "DRIVE US CRAZY -instrumental-", "RAISE A SUILEN", "0"],
+    [4, "HELL! or HELL? -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8073d5b9-b309-4a2f-a6f4-199a60ef031a", "https://vgmdb.net/album/92047"]
 
@@ -2274,10 +2274,10 @@ tracks = [
     [5, "Evolve Forward in Hazard", "", ""],
     [6, "Stray in Chaos", "", ""],
     [7, "Shape of Trust", "", ""],
-    [8, "Just Awake", "", ""],
+    [8, "Just Awake", "", "0"],
     [9, "Beyond the End", "", ""],
     [10, "Why Couldn't I Say The Last Goodbye to You?", "", ""],
-    [11, "Keep the Heat and Fire Yourself Up", "", ""],
+    [11, "Keep the Heat and Fire Yourself Up", "", "0"],
     [12, "Because You Are Here", "", ""],
     [13, "One Shot, One Mind", "", ""],
     [14, "My Dear Lady, Will You Dance With Me Tonight?", "", ""],
@@ -2297,10 +2297,10 @@ catalognumber = "BRMM-10886"
 date = "2025-01-15"
 album = "KiLLKiSS / Ave Mujica [Blu-ray付生産限定盤] Vocal"
 tracks = [
-    [1, "KiLLKiSS", "Ave Mujica", ""],
-    [2, "Georgette Me, Georgette You", "Ave Mujica", ""],
-    [3, "KiLLKiSS -instrumental-", "Ave Mujica", ""],
-    [4, "Georgette Me, Georgette You -instrumental-", "Ave Mujica", ""],
+    [1, "KiLLKiSS", "Ave Mujica", "0"],
+    [2, "Georgette Me, Georgette You", "Ave Mujica", "0"],
+    [3, "KiLLKiSS -instrumental-", "Ave Mujica", "0"],
+    [4, "Georgette Me, Georgette You -instrumental-", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f89ad25e-009b-4b0f-bee8-fbabf1e89bed", "https://vgmdb.net/album/144038"]
 
@@ -2315,12 +2315,12 @@ tracks = [
     [4, "神さま、バカ", "Ave Mujica", ""],
     [5, "ふたつの月 ~Deep Into The Forest~", "Ave Mujica", ""],
     [6, "暗黒天国", "Ave Mujica", ""],
-    [7, "Choir ‘S’ Choir", "Ave Mujica", ""],
+    [7, "Choir ‘S’ Choir", "Ave Mujica", "0"],
     [8, "Symbol III : ▽", "Ave Mujica", ""],
-    [9, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
+    [9, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
     [10, "堕天", "Ave Mujica", ""],
-    [11, "Ave Mujica", "Ave Mujica", ""],
-    [12, "Angles", "Ave Mujica", ""],
+    [11, "Ave Mujica", "Ave Mujica", "0"],
+    [12, "Angles", "Ave Mujica", "0"],
     [13, "黒のバースデイ", "Ave Mujica", ""],
     [14, "Symbol IV : Earth", "Ave Mujica", ""],
     [15, "Ether", "Ave Mujica", ""],
@@ -2333,10 +2333,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [湊友希那Ver.]"
 tracks = [
     [1, "THRONE OF ROSE", "", ""],
-    [2, "Dear Gleam", "", ""],
+    [2, "Dear Gleam", "", "0"],
     [3, "一逢のFull Glory", "", ""],
     [4, "THRONE OF ROSE -instrumental-", "", ""],
-    [5, "Dear Gleam -instrumental-", "", ""],
+    [5, "Dear Gleam -instrumental-", "", "0"],
     [6, "一逢のFull Glory -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/129743"]
@@ -2347,15 +2347,15 @@ date = "2019-03-16"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.2"
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
-    [2, "DAYS", "Poppin'Party", ""],
+    [2, "DAYS", "Poppin'Party", "0"],
     [3, "Redo", "Afterglow", ""],
     [4, "ロストワンの号哭", "Afterglow", ""],
     [5, "ハッピーシンセサイザ", "Pastel＊Palettes", ""],
     [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
-    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
-    [10, "Dragon Night", "ハロー、ハッピーワールド！", ""],
+    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
+    [10, "Dragon Night", "ハロー、ハッピーワールド！", "0"],
     [11, "革命デュアリズム", "Roselia×蘭", ""],
     [12, "檄！帝国華撃団", "Poppin'Party×彩×こころ", ""],
 ]
@@ -2380,9 +2380,9 @@ tracks = [
     [3, "いつも通りのBrand new days", "Afterglow", ""],
     [4, "SWITCH ON NOW", "Afterglow", ""],
     [5, "ランブリングメモリー", "Afterglow", ""],
-    [6, "COMIC PANIC!!!", "Afterglow", ""],
+    [6, "COMIC PANIC!!!", "Afterglow", "0"],
     [7, "Trouble Joyful!!", "Afterglow", ""],
-    [8, "Jamboree！Journey！", "Afterglow", ""],
+    [8, "Jamboree！Journey！", "Afterglow", "0"],
     [9, "カナユメ", "Afterglow", ""],
     [10, "独創収差", "Afterglow", ""],
     [11, "極彩色", "Afterglow", ""],
@@ -2396,16 +2396,16 @@ catalognumber = "BRMM-10630"
 date = "2023-04-26"
 album = "STAY GLOW / Afterglow Disc 2"
 tracks = [
-    [1, "Crow Song", "Afterglow", ""],
+    [1, "Crow Song", "Afterglow", "0"],
     [2, "カサブタ", "Afterglow", ""],
     [3, "アイのシナリオ", "Afterglow", ""],
     [4, "Northern lights", "Afterglow", ""],
     [5, "トーキョーワンダー。", "Afterglow", ""],
     [6, "Reach Out To The Truth", "Afterglow", ""],
-    [7, "Listen!!", "Afterglow", ""],
+    [7, "Listen!!", "Afterglow", "0"],
     [8, "青い栞", "Afterglow", ""],
     [9, "イマジネーション", "Afterglow", ""],
-    [10, "Butter-Fly", "Afterglow", ""],
+    [10, "Butter-Fly", "Afterglow", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/aae2eaab-9360-4efe-9e6c-9ed7757ce677", "https://vgmdb.net/album/129358"]
 
@@ -2437,17 +2437,17 @@ tracks = [
     [1, "V.I.P MONSTER", "RAISE A SUILEN", ""],
     [2, "mind of Prominence", "RAISE A SUILEN", ""],
     [3, "Ray of hope", "RAISE A SUILEN", ""],
-    [4, "EXIST", "RAISE A SUILEN", ""],
+    [4, "EXIST", "RAISE A SUILEN", "0"],
     [5, "Sacred world", "RAISE A SUILEN", ""],
     [6, "-N-E-M-E-S-I-S-", "RAISE A SUILEN", "0"],
-    [7, "DANCING DARING", "RAISE A SUILEN", ""],
-    [8, "BATTLE CRY", "RAISE A SUILEN", ""],
-    [9, "Domination to world", "RAISE A SUILEN", ""],
+    [7, "DANCING DARING", "RAISE A SUILEN", "0"],
+    [8, "BATTLE CRY", "RAISE A SUILEN", "0"],
+    [9, "Domination to world", "RAISE A SUILEN", "0"],
     [10, "THE WAY OF LIFE", "RAISE A SUILEN", ""],
     [11, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
     [12, "Repaint", "RAISE A SUILEN", ""],
-    [13, "Life on the Lotus", "RAISE A SUILEN", ""],
-    [14, "CORUSCATE -DNA-", "RAISE A SUILEN", ""],
+    [13, "Life on the Lotus", "RAISE A SUILEN", "0"],
+    [14, "CORUSCATE -DNA-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9b0cfec4-a0d8-4bbc-9c13-4ea7882603e1", "https://vgmdb.net/album/139339"]
 
@@ -2456,19 +2456,19 @@ catalognumber = "BRMM-10790"
 date = "2024-06-12"
 album = "SAVAGE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Apocalypse", "", ""],
-    [2, "EXPOSE ‘Burn out!!!’", "", ""],
-    [3, "JUST THE WAY I AM", "", ""],
+    [1, "Apocalypse", "", "0"],
+    [2, "EXPOSE ‘Burn out!!!’", "", "0"],
+    [3, "JUST THE WAY I AM", "", "0"],
     [4, "TWIN TALE", "", ""],
-    [5, "Invincible Fighter", "", ""],
-    [6, "HELL! or HELL?", "", ""],
+    [5, "Invincible Fighter", "", "0"],
+    [6, "HELL! or HELL?", "", "0"],
     [7, "STRAY CERBERUS", "", ""],
     [8, "Takin’ my Heart", "", ""],
-    [9, "A DECLARATION OF ×××", "", ""],
-    [10, "BERSER-KEY", "", ""],
+    [9, "A DECLARATION OF ×××", "", "0"],
+    [10, "BERSER-KEY", "", "0"],
     [11, "-N-E-M-E-S-I-S-", "", "0"],
     [12, "SOUL SOLDIER", "", ""],
-    [13, "DRIVE US CRAZY", "", ""],
+    [13, "DRIVE US CRAZY", "", "0"],
     [14, "R·I·O·T", "", ""],
     [15, "UNSTOPPABLE", "", ""],
     [16, "POLARIS", "", ""],
@@ -2493,7 +2493,7 @@ date = "2018-09-02"
 album = "キズナミュージック♪ (short ver.)/BRAVE JEWEL (short ver.)/R・I・O・T (short ver.)"
 tracks = [
     [1, "キズナミュージック♪ (short ver.)", "", ""],
-    [2, "BRAVE JEWEL (short ver.)", "", ""],
+    [2, "BRAVE JEWEL (short ver.)", "", "0"],
     [3, "R・I・O・T (short ver.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/82083"]
@@ -2568,9 +2568,9 @@ catalognumber = "BRMM-10192"
 date = "2019-06-19"
 album = "Invincible Fighter / RAISE A SUILEN [Limited Edition]"
 tracks = [
-    [1, "Invincible Fighter", "RAISE A SUILEN", ""],
+    [1, "Invincible Fighter", "RAISE A SUILEN", "0"],
     [2, "Takin’ my Heart", "RAISE A SUILEN", ""],
-    [3, "Invincible Fighter -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Invincible Fighter -instrumental-", "RAISE A SUILEN", "0"],
     [4, "Takin’ my Heart -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/96ff9d50-27d1-4c34-9117-6242b69a2cd3", "https://vgmdb.net/album/85171"]
@@ -2626,9 +2626,9 @@ date = "2020-10-28"
 album = "Sasanqua / Afterglow"
 tracks = [
     [1, "Sasanqua", "Afterglow", ""],
-    [2, "I love your way！", "Afterglow", ""],
+    [2, "I love your way！", "Afterglow", "0"],
     [3, "Sasanqua -instrumental-", "Afterglow", ""],
-    [4, "I love your way！ -instrumental-", "Afterglow", ""],
+    [4, "I love your way！ -instrumental-", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/472c52bc-6f89-4cf7-85c9-ef742a73906e", "https://vgmdb.net/album/100317"]
 
@@ -2700,9 +2700,9 @@ tracks = [
     [8, "Preserved Roses", "Roselia×蘭", ""],
     [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", ""],
     [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", ""],
-    [11, "COLORFUL BOX", "Morfonica", ""],
+    [11, "COLORFUL BOX", "Morfonica", "0"],
     [12, "unravel", "Morfonica", ""],
-    [13, "Cry Baby", "RAISE A SUILEN", ""],
+    [13, "Cry Baby", "RAISE A SUILEN", "0"],
     [14, "メギツネ", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/ff28439e-66bf-4b64-8377-236ba5cbdeb1", "https://vgmdb.net/album/123848"]
@@ -2713,7 +2713,7 @@ date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN [Limited Edition] Vocal"
 tracks = [
     [1, "-N-E-M-E-S-I-S-", "", "0"],
-    [2, "EXPOSE 'Burn out!!!' (English Ver.)", "", ""],
+    [2, "EXPOSE 'Burn out!!!' (English Ver.)", "", "0"],
     [3, "Takin' my Heart (English ver.)", "", ""],
     [4, "-N-E-M-E-S-I-S- -Instrumental-", "", "0"],
 ]
@@ -2724,22 +2724,22 @@ catalognumber = "BRMM-10651"
 date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video"
 tracks = [
-    [1, "DRIVE US CRAZY", "", ""],
+    [1, "DRIVE US CRAZY", "", "0"],
     [2, "UNSTOPPABLE", "", ""],
-    [3, "Invincible Fighter", "", ""],
+    [3, "Invincible Fighter", "", "0"],
     [4, "Takin' my Heart", "", ""],
-    [5, "EXIST", "", ""],
+    [5, "EXIST", "", "0"],
     [6, "Sacred world", "", ""],
     [7, "!INVADE SHOW!", "", "0"],
     [8, "灼熱 Bonfire!", "", ""],
     [9, "OUTSIDER RODEO", "", ""],
-    [10, "Beautiful Birthday", "", ""],
-    [11, "Light a fire", "", ""],
+    [10, "Beautiful Birthday", "", "0"],
+    [11, "Light a fire", "", "0"],
     [12, "R・I・O・T", "", ""],
     [13, "THE WAY OF LIFE", "", ""],
-    [14, "HELL! or HELL?", "", ""],
-    [15, "CORUSCATE -DNA-", "", ""],
-    [16, "EXPOSE 'Burn out!!!'", "", ""],
+    [14, "HELL! or HELL?", "", "0"],
+    [15, "CORUSCATE -DNA-", "", "0"],
+    [16, "EXPOSE 'Burn out!!!'", "", "0"],
 ]
 links = ["https://vgmdb.net/album/130874"]
 
@@ -2857,7 +2857,7 @@ date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party [生産限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
     [1, "「イントロダクション」MV", "", ""],
-    [2, "Breakthrough!", "", ""],
+    [2, "Breakthrough!", "", "0"],
     [3, "ときめきエクスペリエンス!", "", ""],
     [4, "キズナミュージック♪", "", ""],
     [5, "ぽっぴん'しゃっふる", "", ""],
@@ -2866,11 +2866,11 @@ tracks = [
     [8, "Returns", "", ""],
     [9, "What's the POPIPA!?", "", ""],
     [10, "Time Lapse", "", ""],
-    [11, "Hello! Wink!", "", ""],
+    [11, "Hello! Wink!", "", "0"],
     [12, "ティアドロップス", "", ""],
     [13, "STAR BEAT!～ホシノコドウ～", "", ""],
     [14, "Yes! BanG_Dream!", "", ""],
-    [15, "Light Delight", "", ""],
+    [15, "Light Delight", "", "0"],
     [16, "ミライトレイン", "", ""],
 ]
 links = ["https://vgmdb.net/album/115467"]
@@ -2880,7 +2880,7 @@ catalognumber = "BRMM-10489"
 date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party [生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "Breakthrough!", "", ""],
+    [1, "Breakthrough!", "", "0"],
     [2, "Returns", "", ""],
     [3, "イニシャル", "", ""],
     [4, "ぽっぴん'しゃっふる", "", ""],
@@ -2889,9 +2889,9 @@ tracks = [
     [7, "キズナミュージック♪", "", ""],
     [8, "What's the POPIPA!?", "", ""],
     [9, "Time Lapse", "", ""],
-    [10, "Hello! Wink!", "", ""],
+    [10, "Hello! Wink!", "", "0"],
     [11, "ティアドロップス", "", ""],
-    [12, "Light Delight", "", ""],
+    [12, "Light Delight", "", "0"],
     [13, "ミライトレイン", "", ""],
     [14, "前へススメ!", "", ""],
     [15, "Yes! BanG_Dream!", "", ""],
@@ -2903,7 +2903,7 @@ catalognumber = "BRMM-10425"
 date = "2021-08-18"
 album = "Live Beyond!! / Poppin'Party"
 tracks = [
-    [1, "Live Beyond!!", "Poppin'Party", ""],
+    [1, "Live Beyond!!", "Poppin'Party", "1"],
     [2, "Sweets BAN!", "Poppin'Party", ""],
     [3, "キミが始まる！", "Poppin'Party", ""],
     [4, "Moonlight Walk", "Poppin'Party", ""],
@@ -2917,10 +2917,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [氷川紗夜Ver.]"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e627f161-d497-4c9a-bcc0-f48109090536", "https://vgmdb.net/album/136198"]
@@ -2980,10 +2980,10 @@ album = "ハーモニー・デイ / Morfonica"
 tracks = [
     [1, "ハーモニー・デイ", "Morfonica", ""],
     [2, "Sonorous", "Morfonica", ""],
-    [3, "Fateful...", "Morfonica", ""],
+    [3, "Fateful...", "Morfonica", "0"],
     [4, "ハーモニー・デイ –instrumental–", "Morfonica", ""],
     [5, "Sonorous –instrumental–", "Morfonica", ""],
-    [6, "Fateful... –instrumental–", "Morfonica", ""],
+    [6, "Fateful... –instrumental–", "Morfonica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/96d12db9-de02-4312-baf2-1cf6b05e8816", "https://vgmdb.net/album/113449"]
 
@@ -3037,10 +3037,10 @@ album = "Alea jacta est / Ave Mujica"
 tracks = [
     [1, "黒のバースデイ", "Ave Mujica", ""],
     [2, "ふたつの月 ~Deep Into The Forest~", "Ave Mujica", ""],
-    [3, "Choir ‘S’ Choir", "Ave Mujica", ""],
+    [3, "Choir ‘S’ Choir", "Ave Mujica", "0"],
     [4, "神さま、バカ", "Ave Mujica", ""],
-    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
-    [6, "Ave Mujica", "Ave Mujica", ""],
+    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
+    [6, "Ave Mujica", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8746ddab-d3c9-4c05-8ddd-21797e4fb34b", "https://vgmdb.net/album/133993"]
 
@@ -3077,7 +3077,7 @@ tracks = [
     [1, "Steady Goes!", "", ""],
     [2, "青い栞 [Cover]", "", ""],
     [3, "メリッサ [Cover]", "", ""],
-    [4, "GO!!! [Cover]", "", ""],
+    [4, "GO!!! [Cover]", "", "0"],
     [5, "君じゃなきゃダメみたい -Acoustic ver.- [Cover]", "", ""],
     [6, "Steady Goes!", "", ""],
 ]
@@ -3114,7 +3114,7 @@ tracks = [
     [24, "一人ぼっち", "藤田淳平", ""],
     [25, "一緒の時間", "藤田淳平", ""],
     [26, "全てのはじまり", "藤田淳平", ""],
-    [27, "Don't be afraid!", "Glitter☆Green", ""],
+    [27, "Don't be afraid!", "Glitter☆Green", "0"],
     [28, "私の心はチョココロネ (TV Size)", "戸山香澄・花園たえ・牛込りみ・市ヶ谷有咲(CV⋯愛美・大塚紗英・西本りみ・伊藤彩沙)", ""],
     [29, "きらきら星 〜はじまりのステージVer.〜", "戸山香澄(CAST:愛美)", ""],
 ]
@@ -3149,8 +3149,8 @@ tracks = [
     [22, "意志の強さ", "藤田淳平", ""],
     [23, "大切なもの", "藤間仁", ""],
     [24, "ときめきエクスペリエンス! 〜Orchestral Ver.〜", "藤間仁", ""],
-    [25, "Be shine, shining!", "CHiSPA", ""],
-    [26, "Glee! Glee! Glee!", "Glitter☆Green", ""],
+    [25, "Be shine, shining!", "CHiSPA", "0"],
+    [26, "Glee! Glee! Glee!", "Glitter☆Green", "0"],
     [27, "キラキラだとか夢だとか 〜Sing Girls〜 (TV Size)", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/43c92bda-538b-43f1-9811-4a376ec7adb4", "https://vgmdb.net/album/65427"]
@@ -3164,15 +3164,15 @@ tracks = [
     [2, "OPENING", "Elements Garden", ""],
     [3, "ぽっぴん'しゃっふる", "Elements Garden", ""],
     [4, "夏空 SUN! SUN! SEVEN!", "Elements Garden", ""],
-    [5, "Crow Song", "Elements Garden", ""],
+    [5, "Crow Song", "Elements Garden", "0"],
     [6, "ふわふわ時間", "Elements Garden", ""],
-    [7, "ETERNAL BLAZE", "Elements Garden", ""],
+    [7, "ETERNAL BLAZE", "Elements Garden", "0"],
     [8, "ドラマ〜ある星の見える夜〜ぽっぴん'しゃっふる Acoustic Ver.", "Elements Garden", ""],
     [9, "STAR BEAT! 〜ホシノコドウ〜 Acoustic Ver.", "Elements Garden", ""],
     [10, "走り始めたばかりのキミに", "Elements Garden", ""],
     [11, "ティアドロップス", "Elements Garden", ""],
     [12, "Yes! BanG_Dream!", "Elements Garden", ""],
-    [13, "1000 回潤んだ空", "Elements Garden", ""],
+    [13, "1000 回潤んだ空", "Elements Garden", "0"],
     [14, "STAR BEAT! 〜ホシノコドウ〜", "Elements Garden", ""],
     [15, "ENDING", "Elements Garden", ""],
     [16, "メイキング映像 〜舞台裏 de ポッピン!〜", "Elements Garden", ""],
@@ -3205,9 +3205,9 @@ date = "2021-01-20"
 album = "ZEAL of proud / Roselia"
 tracks = [
     [1, "ZEAL of proud", "Roselia", ""],
-    [2, "Blessing Chord", "Roselia", ""],
+    [2, "Blessing Chord", "Roselia", "0"],
     [3, "ZEAL of proud -instrumental-", "Roselia", ""],
-    [4, "Blessing Chord -instrumental-", "Roselia", ""],
+    [4, "Blessing Chord -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0b4e5224-da9d-4fb1-a15c-d77167938b6d", "https://vgmdb.net/album/104756"]
 
@@ -3259,10 +3259,10 @@ catalognumber = "BRMM-10917"
 date = "2025-04-22"
 album = "Completeness / Ave Mujica"
 tracks = [
-    [1, "KiLLKiSS", "Ave Mujica", ""],
-    [2, "Georgette Me, Georgette You", "Ave Mujica", ""],
-    [3, "Imprisoned XII", "Ave Mujica", ""],
-    [4, "Crucifix X", "Ave Mujica", ""],
+    [1, "KiLLKiSS", "Ave Mujica", "0"],
+    [2, "Georgette Me, Georgette You", "Ave Mujica", "0"],
+    [3, "Imprisoned XII", "Ave Mujica", "1"],
+    [4, "Crucifix X", "Ave Mujica", "0"],
     [5, "八芒星ダンス", "Ave Mujica", ""],
     [6, "顔", "Ave Mujica", ""],
     [7, "天球(そら)のMúsica", "Ave Mujica", ""],
@@ -3302,9 +3302,9 @@ date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤A] Vocal"
 tracks = [
     [1, "礎の花冠", "Roselia", ""],
-    [2, "FRONTIER FANTASIA", "Roselia", ""],
+    [2, "FRONTIER FANTASIA", "Roselia", "0"],
     [3, "礎の花冠 –instrumental–", "Roselia", ""],
-    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", ""],
+    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/70a6c276-8516-4550-ba25-5569edb71518", "https://vgmdb.net/album/145791"]
 
@@ -3323,9 +3323,9 @@ tracks = [
     [8, "R", "Roselia", ""],
     [9, "軌跡", "Roselia", ""],
     [10, "約束", "Roselia", ""],
-    [11, "Dear Gleam", "Roselia", ""],
+    [11, "Dear Gleam", "Roselia", "0"],
     [12, "一逢のFull Glory", "Roselia", ""],
-    [13, "FIRE BIRD (ENCORE)", "Roselia", ""],
+    [13, "FIRE BIRD (ENCORE)", "Roselia", "0"],
     [14, "VIOLET LINE (ENCORE)", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/70a6c276-8516-4550-ba25-5569edb71518", "https://vgmdb.net/album/145791"]
@@ -3347,9 +3347,9 @@ date = "2019-02-20"
 album = "Y.O.L.O!!!!! / Afterglow [Limited Edition]"
 tracks = [
     [1, "Y.O.L.O！！！！！", "Afterglow", ""],
-    [2, "COMIC PANIC!!!", "Afterglow", ""],
+    [2, "COMIC PANIC!!!", "Afterglow", "0"],
     [3, "Y.O.L.O！！！！！ -instrumental-", "Afterglow", ""],
-    [4, "COMIC PANIC!!! -instrumental-", "Afterglow", ""],
+    [4, "COMIC PANIC!!! -instrumental-", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3d261197-4cac-4881-a34c-c45eb7604618", "https://vgmdb.net/album/82744"]
 
@@ -3365,9 +3365,9 @@ catalognumber = "BRMM-10241"
 date = "2020-03-11"
 album = "Easy come, Easy go! / Afterglow [Limited Edition]"
 tracks = [
-    [1, "Easy come, Easy go！", "Afterglow", ""],
+    [1, "Easy come, Easy go！", "Afterglow", "0"],
     [2, "いつも通りのBrand new days", "Afterglow", ""],
-    [3, "Easy come, Easy go！ -instrumental-", "Afterglow", ""],
+    [3, "Easy come, Easy go！ -instrumental-", "Afterglow", "0"],
     [4, "いつも通りのBrand new days -instrumental-", "Afterglow", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d9904319-bb52-4035-9752-a43c9422bec3", "https://vgmdb.net/album/92044"]
@@ -3378,9 +3378,9 @@ date = "2017-02-01"
 album = "ときめきエクスペリエンス! / Poppin'Party"
 tracks = [
     [1, "ときめきエクスペリエンス!", "Poppin'Party", ""],
-    [2, "1000回潤んだ空", "Poppin'Party", ""],
+    [2, "1000回潤んだ空", "Poppin'Party", "1"],
     [3, "ときめきエクスペリエンス! -instrumental-", "Poppin'Party", ""],
-    [4, "1000回潤んだ空 -instrumental-", "Poppin'Party", ""],
+    [4, "1000回潤んだ空 -instrumental-", "Poppin'Party", "0"],
     [5, "バンドリ!ミニドラマ 〜放課後の過ごし方〜", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/88d7d72d-ff8e-471e-b9e8-098faf7f12e7", "https://vgmdb.net/album/63624"]
@@ -3391,10 +3391,10 @@ date = "2017-12-13"
 album = "クリスマスのうた / Poppin'Party"
 tracks = [
     [1, "クリスマスのうた", "Poppin'Party", ""],
-    [2, "B.O.F", "Poppin'Party", ""],
+    [2, "B.O.F", "Poppin'Party", "1"],
     [3, "キミにもらったもの", "Poppin'Party", ""],
     [4, "クリスマスのうた -instrumental-", "Poppin'Party", ""],
-    [5, "B.O.F -instrumental-", "Poppin'Party", ""],
+    [5, "B.O.F -instrumental-", "Poppin'Party", "0"],
     [6, "キミにもらったもの -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/468fb2d8-42e6-4adf-86b7-7a8b5c9cbeba", "https://vgmdb.net/album/72327"]
@@ -3404,10 +3404,10 @@ catalognumber = "BRMM-10912"
 date = "2025-04-30"
 album = "Hi-Vision / 夢限大みゅーたいぷ"
 tracks = [
-    [1, "Hi-Vision", "夢限大みゅーたいぷ", ""],
+    [1, "Hi-Vision", "夢限大みゅーたいぷ", "0"],
     [2, "TRASH LIFE", "夢限大みゅーたいぷ", ""],
     [3, "テレパシー", "夢限大みゅーたいぷ", ""],
-    [4, "Hi-Vision -instrumental-", "夢限大みゅーたいぷ", ""],
+    [4, "Hi-Vision -instrumental-", "夢限大みゅーたいぷ", "0"],
     [5, "TRASH LIFE -instrumental-", "夢限大みゅーたいぷ", ""],
     [6, "テレパシー -instrumental-", "夢限大みゅーたいぷ", ""],
 ]
@@ -3467,23 +3467,23 @@ album = "RAISE A SUILEN Instrumental Collection 1"
 tracks = [
     [1, "R·I·O·T - instrumental", "RAISE A SUILEN", ""],
     [2, "UNSTOPPABLE - instrumental", "RAISE A SUILEN", ""],
-    [3, "A DECLARATION OF ××× - instrumental", "RAISE A SUILEN", ""],
-    [4, "EXPOSE ‘Burn out!!!’ - instrumental", "RAISE A SUILEN", ""],
-    [5, "Invincible Fighter - instrumental", "RAISE A SUILEN", ""],
+    [3, "A DECLARATION OF ××× - instrumental", "RAISE A SUILEN", "0"],
+    [4, "EXPOSE ‘Burn out!!!’ - instrumental", "RAISE A SUILEN", "0"],
+    [5, "Invincible Fighter - instrumental", "RAISE A SUILEN", "0"],
     [6, "Takin’ my Heart - instrumental", "RAISE A SUILEN", ""],
-    [7, "DRIVE US CRAZY - instrumental", "RAISE A SUILEN", ""],
-    [8, "HELL! or HELL? - instrumental", "RAISE A SUILEN", ""],
+    [7, "DRIVE US CRAZY - instrumental", "RAISE A SUILEN", "0"],
+    [8, "HELL! or HELL? - instrumental", "RAISE A SUILEN", "0"],
     [9, "SOUL SOLDIER - instrumental", "RAISE A SUILEN", ""],
-    [10, "Beautiful Birthday - instrumental", "RAISE A SUILEN", ""],
+    [10, "Beautiful Birthday - instrumental", "RAISE A SUILEN", "0"],
     [11, "!NVADE SHOW! - instrumental", "RAISE A SUILEN", "0"],
     [12, "Sacred world - instrumental", "RAISE A SUILEN", ""],
     [13, "REIGNING - instrumental", "RAISE A SUILEN", ""],
     [14, "mind of Prominence - instrumental", "RAISE A SUILEN", ""],
-    [15, "JUST THE WAY I AM - instrumental", "RAISE A SUILEN", ""],
-    [16, "EXIST - instrumental", "RAISE A SUILEN", ""],
-    [17, "Embrace of light - instrumental", "RAISE A SUILEN", ""],
+    [15, "JUST THE WAY I AM - instrumental", "RAISE A SUILEN", "0"],
+    [16, "EXIST - instrumental", "RAISE A SUILEN", "0"],
+    [17, "Embrace of light - instrumental", "RAISE A SUILEN", "0"],
     [18, "OUTSIDER RODEO - instrumental", "RAISE A SUILEN", ""],
-    [19, "Domination to world - instrumental", "RAISE A SUILEN", ""],
+    [19, "Domination to world - instrumental", "RAISE A SUILEN", "0"],
     [20, "灼熱 Bonfire! - instrumental", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/c04432f3-2446-4937-ba45-7442b9d64049", "https://vgmdb.net/album/117334"]
@@ -3494,9 +3494,9 @@ date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "THE WAY OF LIFE", "", ""],
-    [2, "DEAD HEAT BEAT", "", ""],
+    [2, "DEAD HEAT BEAT", "", "0"],
     [3, "THE WAY OF LIFE -instrumental-", "", ""],
-    [4, "DEAD HEAT BEAT -instrumental-", "", ""],
+    [4, "DEAD HEAT BEAT -instrumental-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/122889"]
 
@@ -3505,17 +3505,17 @@ catalognumber = "BRMM-10589"
 date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
-    [1, "EXPOSE 'Burn out!!!'", "", ""],
-    [2, "Domination to world", "", ""],
-    [3, "HELL! or HELL?", "", ""],
+    [1, "EXPOSE 'Burn out!!!'", "", "0"],
+    [2, "Domination to world", "", "0"],
+    [3, "HELL! or HELL?", "", "0"],
     [4, "灼熱 Bonfire!", "", ""],
     [5, "SOUL SOLDIER", "", ""],
-    [6, "A DECLARATION OF ×××", "", ""],
-    [7, "Keep the Heat and Fire Yourself Up", "", ""],
+    [6, "A DECLARATION OF ×××", "", "0"],
+    [7, "Keep the Heat and Fire Yourself Up", "", "0"],
     [8, "Takin' my Heart", "", ""],
-    [9, "Beautiful Birthday", "", ""],
+    [9, "Beautiful Birthday", "", "0"],
     [10, "OUTSIDER RODEO", "", ""],
-    [11, "DRIVE US CRAZY", "", ""],
+    [11, "DRIVE US CRAZY", "", "0"],
     [12, "!NVADE SHOW!", "", "0"],
     [13, "R･I･O･T", "", ""],
 ]
@@ -3527,23 +3527,23 @@ date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
     [1, "SOUL SOLDIER", "", ""],
-    [2, "EXPOSE 'Burn out!!!'", "", ""],
-    [3, "A DECLARATION OF ×××", "", ""],
+    [2, "EXPOSE 'Burn out!!!'", "", "0"],
+    [3, "A DECLARATION OF ×××", "", "0"],
     [4, "Sacred world", "", ""],
     [5, "Repaint", "", ""],
     [6, "UNSTOPPABLE", "", ""],
-    [7, "Embrace of light", "", ""],
+    [7, "Embrace of light", "", "0"],
     [8, "灼熱 Bonfire!", "", ""],
-    [9, "JUST THE WAY I AM", "", ""],
-    [10, "HELL! or HELL?", "", ""],
+    [9, "JUST THE WAY I AM", "", "0"],
+    [10, "HELL! or HELL?", "", "0"],
     [11, "激動", "", ""],
-    [12, "Cry Baby", "", ""],
+    [12, "Cry Baby", "", "0"],
     [13, "メギツネ", "", ""],
     [14, "劣等上等", "", ""],
     [15, "!NVADE SHOW!", "", "0"],
     [16, "REIGNING", "", ""],
-    [17, "Light a fire", "", ""],
-    [18, "DRIVE US CRAZY", "", ""],
+    [17, "Light a fire", "", "0"],
+    [18, "DRIVE US CRAZY", "", "0"],
     [19, "OUTSIDER RODEO", "", ""],
     [20, "R･I･O･T", "", ""],
 ]
@@ -3593,10 +3593,10 @@ date = "2019-12-18"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.3"
 tracks = [
     [1, "only my railgun", "Poppin'Party", ""],
-    [2, "Daydream café", "Poppin'Party", ""],
+    [2, "Daydream café", "Poppin'Party", "0"],
     [3, "瞬間センチメンタル", "Afterglow", ""],
     [4, "プライド革命", "Afterglow", ""],
-    [5, "Fantastic future", "Pastel＊Palettes", ""],
+    [5, "Fantastic future", "Pastel＊Palettes", "0"],
     [6, "奏 （かなで）", "Pastel＊Palettes", ""],
     [7, "残酷な天使のテーゼ", "Roselia", ""],
     [8, "This game", "Roselia", ""],
@@ -3625,10 +3625,10 @@ catalognumber = "BRMM-10228"
 date = "2020-01-22"
 album = "DRIVE US CRAZY / RAISE A SUILEN [Limited Edition]"
 tracks = [
-    [1, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
-    [2, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [3, "DRIVE US CRAZY -instrumental-", "RAISE A SUILEN", ""],
-    [4, "HELL! or HELL? -instrumental-", "RAISE A SUILEN", ""],
+    [1, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
+    [2, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [3, "DRIVE US CRAZY -instrumental-", "RAISE A SUILEN", "0"],
+    [4, "HELL! or HELL? -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/fb5b4ce4-8e78-4a05-ac15-9a7654feab4e", "https://vgmdb.net/album/92048"]
 
@@ -3647,7 +3647,7 @@ tracks = [
     [8, "シルエット", "ハロー、ハッピーワールド！", ""],
     [9, "ノーポイッ！", "ハロー、ハッピーワールド！", ""],
     [10, "V.I.P", "Morfonica", ""],
-    [11, "CQCQ", "Morfonica", ""],
+    [11, "CQCQ", "Morfonica", "0"],
     [12, "アゲハ蝶", "Morfonica", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/87a6da57-1d76-447c-85ce-d195f569f3cb", "https://vgmdb.net/album/114399"]
@@ -3657,15 +3657,15 @@ catalognumber = "BRMM-10468"
 date = "2021-11-10"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.6 Disc 2"
 tracks = [
-    [1, "Don't say \"lazy\"", "Afterglow", ""],
+    [1, "Don't say \"lazy\"", "Afterglow", "0"],
     [2, "サムライハート(Some Like It Hot!!)", "Afterglow", ""],
     [3, "ベノム", "Afterglow", ""],
-    [4, "KING", "Roselia", ""],
+    [4, "KING", "Roselia", "0"],
     [5, "Shangri-La", "Roselia", ""],
     [6, "My Dearest", "Roselia", ""],
-    [7, "CORE PRIDE", "RAISE A SUILEN", ""],
-    [8, "DEPARTURES", "RAISE A SUILEN", ""],
-    [9, "DAYBREAK FRONTLINE", "RAISE A SUILEN", ""],
+    [7, "CORE PRIDE", "RAISE A SUILEN", "0"],
+    [8, "DEPARTURES", "RAISE A SUILEN", "0"],
+    [9, "DAYBREAK FRONTLINE", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/87a6da57-1d76-447c-85ce-d195f569f3cb", "https://vgmdb.net/album/114399"]
 
@@ -3706,13 +3706,13 @@ catalognumber = "BRMM-10519"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [A ver./Blu-ray付生産限定盤] Arrangement, Vocal"
 tracks = [
-    [1, "CORUSCATE -DNA-", "RAISE A SUILEN", ""],
+    [1, "CORUSCATE -DNA-", "RAISE A SUILEN", "0"],
     [2, "Repaint", "RAISE A SUILEN", ""],
-    [3, "Light a fire", "RAISE A SUILEN", ""],
-    [4, "Just Awake", "RAISE A SUILEN", ""],
-    [5, "CORUSCATE -DNA- -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Light a fire", "RAISE A SUILEN", "0"],
+    [4, "Just Awake", "RAISE A SUILEN", "0"],
+    [5, "CORUSCATE -DNA- -instrumental-", "RAISE A SUILEN", "0"],
     [6, "Repaint -instrumental-", "RAISE A SUILEN", ""],
-    [7, "Light a fire -instrumental-", "RAISE A SUILEN", ""],
+    [7, "Light a fire -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/765b7616-4230-4df8-a75c-383eaea695ab", "https://vgmdb.net/album/117173"]
 
@@ -3721,17 +3721,17 @@ catalognumber = "BRMM-10519"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [A ver./Blu-ray付生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "EXPOSE 'Burn out!!!'", "RAISE A SUILEN", ""],
-    [2, "Invincible Fighter", "RAISE A SUILEN", ""],
-    [3, "HELL! or HELL?", "RAISE A SUILEN", ""],
+    [1, "EXPOSE 'Burn out!!!'", "RAISE A SUILEN", "0"],
+    [2, "Invincible Fighter", "RAISE A SUILEN", "0"],
+    [3, "HELL! or HELL?", "RAISE A SUILEN", "0"],
     [4, "UNSTOPPABLE", "RAISE A SUILEN", ""],
     [5, "SOUL SOLDIER", "RAISE A SUILEN", ""],
-    [6, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
-    [7, "EXIST", "RAISE A SUILEN", ""],
+    [6, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
+    [7, "EXIST", "RAISE A SUILEN", "0"],
     [8, "mind of Prominence", "RAISE A SUILEN", ""],
     [9, "Takin' my Heart", "RAISE A SUILEN", ""],
     [10, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
-    [11, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [11, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [12, "!NVADE SHOW!", "RAISE A SUILEN", "0"],
     [13, "R·I·O·T", "RAISE A SUILEN", ""],
     [14, "「CORUSCATE -DNA-」アニメMV", "RAISE A SUILEN", ""],
@@ -3783,7 +3783,7 @@ tracks = [
     [1, "DICE", "FLOW", ""],
     [2, "優勝", "FLOW feat.Afterglow", ""],
     [3, "モメント", "FLOW", ""],
-    [4, "COLORS -New Mix-", "FLOW", ""],
+    [4, "COLORS -New Mix-", "FLOW", "0"],
     [5, "WORLD END -New Mix-", "FLOW", ""],
     [6, "PENDULUM", "FLOW", ""],
     [7, "DICE -TV Size-", "FLOW", ""],
@@ -3798,9 +3798,9 @@ catalognumber = "BRMM-10194"
 date = "2019-07-24"
 album = "FIRE BIRD / Roselia [Limited Edition]"
 tracks = [
-    [1, "FIRE BIRD", "Roselia", ""],
+    [1, "FIRE BIRD", "Roselia", "0"],
     [2, "Ringing Bloom", "Roselia", ""],
-    [3, "FIRE BIRD -instrumental-", "Roselia", ""],
+    [3, "FIRE BIRD -instrumental-", "Roselia", "0"],
     [4, "Ringing Bloom -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d87de036-de7d-4b36-8fd1-bf30a504d596", "https://vgmdb.net/album/85173"]
@@ -3850,10 +3850,10 @@ tracks = [
     [5, "Evolve Forward in Hazard", "", ""],
     [6, "Stray in Chaos", "", ""],
     [7, "Shape of Trust", "", ""],
-    [8, "Just Awake", "", ""],
+    [8, "Just Awake", "", "0"],
     [9, "Beyond the End", "", ""],
     [10, "Why Couldn't I Say The Last Goodbye to You?", "", ""],
-    [11, "Keep the Heat and Fire Yourself Up", "", ""],
+    [11, "Keep the Heat and Fire Yourself Up", "", "0"],
     [12, "Because You Are Here", "", ""],
     [13, "One Shot, One Mind", "", ""],
     [14, "My Dear Lady, Will You Dance With Me Tonight?", "", ""],
@@ -3884,7 +3884,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81510"]
 
@@ -3927,10 +3927,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [宇田川あこVer.]"
 tracks = [
     [1, "THRONE OF ROSE", "", ""],
-    [2, "Dear Gleam", "", ""],
+    [2, "Dear Gleam", "", "0"],
     [3, "一逢のFull Glory", "", ""],
     [4, "THRONE OF ROSE -instrumental-", "", ""],
-    [5, "Dear Gleam -instrumental-", "", ""],
+    [5, "Dear Gleam -instrumental-", "", "0"],
     [6, "一逢のFull Glory -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/129748"]
@@ -3952,10 +3952,10 @@ catalognumber = "BRMM-10719"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Layer Ver.]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d828ace1-b9ac-4122-9760-bf5c0292390c", "https://vgmdb.net/album/134166"]
@@ -4016,9 +4016,9 @@ catalognumber = "BRMM-10142"
 date = "2018-12-12"
 album = "BRAVE JEWEL / Roselia [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "BRAVE JEWEL", "Roselia", ""],
+    [1, "BRAVE JEWEL", "Roselia", "0"],
     [2, "Sanctuary", "Roselia", ""],
-    [3, "BRAVE JEWEL -instrumental-", "Roselia", ""],
+    [3, "BRAVE JEWEL -instrumental-", "Roselia", "0"],
     [4, "Sanctuary -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e8fdbae9-93f2-48c1-8f83-8daea07fddd5", "https://vgmdb.net/album/81503"]
@@ -4040,7 +4040,7 @@ tracks = [
     [1, "千本桜 (game size ver.)", "", ""],
     [2, "READY STEADY GO (game size ver.)", "", ""],
     [3, "ふわふわ時間 (game size ver.)", "", ""],
-    [4, "ETERNAL BLAZE (game size ver.)", "", ""],
+    [4, "ETERNAL BLAZE (game size ver.)", "", "0"],
     [5, "ロメオ (game size ver.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/76098"]
@@ -4053,10 +4053,10 @@ tracks = [
     [1, "ON YOUR MARK", "Afterglow", ""],
     [2, "That is How I Roll!", "Afterglow", ""],
     [3, "SENSENFUKOKU", "Afterglow", ""],
-    [4, "I knew it!", "Afterglow", ""],
+    [4, "I knew it!", "Afterglow", "1"],
     [5, "ツナグ、ソラモヨウ", "Afterglow", ""],
-    [6, "Hey-day狂騒曲(カプリチオ)", "Afterglow", ""],
-    [7, "Easy come, Easy go！", "Afterglow", ""],
+    [6, "Hey-day狂騒曲(カプリチオ)", "Afterglow", "0"],
+    [7, "Easy come, Easy go！", "Afterglow", "0"],
     [8, "Sasanqua", "Afterglow", ""],
     [9, "RED RED RED", "Afterglow", ""],
     [10, "ONE OF US", "Afterglow", ""],
@@ -4136,7 +4136,7 @@ tracks = [
     [15, "READY STEADY GO", "", ""],
     [16, "メリッサ", "", ""],
     [17, "*～アスタリスク～", "", ""],
-    [18, "GO!!!", "", ""],
+    [18, "GO!!!", "", "0"],
     [19, "AAside", "", ""],
 ]
 links = ["https://vgmdb.net/album/121680"]
@@ -4276,10 +4276,10 @@ catalognumber = "BRMM-10916"
 date = "2025-04-23"
 album = "Completeness / Ave Mujica [Blu-ray付生産限定盤] Vocal"
 tracks = [
-    [1, "KiLLKiSS", "Ave Mujica", ""],
-    [2, "Georgette Me, Georgette You", "Ave Mujica", ""],
-    [3, "Imprisoned XII", "Ave Mujica", ""],
-    [4, "Crucifix X", "Ave Mujica", ""],
+    [1, "KiLLKiSS", "Ave Mujica", "0"],
+    [2, "Georgette Me, Georgette You", "Ave Mujica", "0"],
+    [3, "Imprisoned XII", "Ave Mujica", "0"],
+    [4, "Crucifix X", "Ave Mujica", "0"],
     [5, "八芒星ダンス", "Ave Mujica", ""],
     [6, "顔", "Ave Mujica", ""],
     [7, "天球(そら)のMúsica", "Ave Mujica", ""],
@@ -4293,18 +4293,18 @@ album = "Completeness / Ave Mujica [Blu-ray付生産限定盤] Vocal, Video"
 tracks = [
     [1, "黒のバースデイ", "Ave Mujica", ""],
     [2, "ふたつの月 ~Deep Into The Forest~", "Ave Mujica", ""],
-    [3, "Choir ‘S’ Choir", "Ave Mujica", ""],
+    [3, "Choir ‘S’ Choir", "Ave Mujica", "0"],
     [4, "神さま、バカ", "Ave Mujica", ""],
-    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
-    [6, "Ave Mujica", "Ave Mujica", ""],
+    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
+    [6, "Ave Mujica", "Ave Mujica", "0"],
     [7, "素晴らしき世界 でも どこにもない場所", "Ave Mujica", ""],
-    [8, "Angles", "Ave Mujica", ""],
+    [8, "Angles", "Ave Mujica", "0"],
     [9, "Symbol I : △", "Ave Mujica", ""],
     [10, "Symbol II : Air", "Ave Mujica", ""],
     [11, "Symbol III : ▽", "Ave Mujica", ""],
     [12, "Symbol IV : Earth", "Ave Mujica", ""],
     [13, "Ether", "Ave Mujica", ""],
-    [14, "KiLLKiSS", "Ave Mujica", ""],
+    [14, "KiLLKiSS", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6da27b69-fed3-4c22-8c8d-2f3baa5a47fa", "https://vgmdb.net/album/149513"]
 
@@ -4358,9 +4358,9 @@ date = "2017-02-15"
 album = "キラキラだとか夢だとか ～Sing Girls～ / Poppin'Party"
 tracks = [
     [1, "キラキラだとか夢だとか 〜Sing Girls〜", "Poppin'Party", ""],
-    [2, "Happy Happy Party!", "Poppin'Party", ""],
+    [2, "Happy Happy Party!", "Poppin'Party", "1"],
     [3, "キラキラだとか夢だとか 〜Sing Girls〜 -instrumental-", "Poppin'Party", ""],
-    [4, "Happy Happy Party! -instrumental-", "Poppin'Party", ""],
+    [4, "Happy Happy Party! -instrumental-", "Poppin'Party", "0"],
     [5, "バンドリ！ミニドラマ 〜お昼休みの過ごし方〜", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/b56a0c96-6ec1-4279-a8ed-f6a89213dfb7", "https://vgmdb.net/album/63625"]
@@ -4380,12 +4380,12 @@ date = "2020-07-15"
 album = "Wahl / Roselia"
 tracks = [
     [1, "R", "Roselia", ""],
-    [2, "BRAVE JEWEL", "Roselia", ""],
-    [3, "Determination Symphony", "Roselia", ""],
-    [4, "FIRE BIRD", "Roselia", ""],
+    [2, "BRAVE JEWEL", "Roselia", "0"],
+    [3, "Determination Symphony", "Roselia", "0"],
+    [4, "FIRE BIRD", "Roselia", "0"],
     [5, "Safe and Sound", "Roselia", ""],
-    [6, "Avant-garde HISTORY", "Roselia", ""],
-    [7, "Break your desire", "Roselia", ""],
+    [6, "Avant-garde HISTORY", "Roselia", "0"],
+    [7, "Break your desire", "Roselia", "0"],
     [8, "Re:birth day", "Roselia", ""],
     [9, "Neo-Aspect", "Roselia", ""],
     [10, "約束", "Roselia", ""],
@@ -4421,17 +4421,17 @@ date = "2018-05-02"
 album = "Anfang / Roselia [Limited Edition] Vocal"
 tracks = [
     [1, "Neo-Aspect", "Roselia", ""],
-    [2, "BLACK SHOUT", "Roselia", ""],
+    [2, "BLACK SHOUT", "Roselia", "0"],
     [3, "Opera of the wasteland", "Roselia", ""],
     [4, "陽だまりロードナイト", "Roselia", ""],
     [5, "ONENESS", "Roselia", ""],
     [6, "Re:birth day", "Roselia", ""],
-    [7, "Legendary", "Roselia", ""],
+    [7, "Legendary", "Roselia", "0"],
     [8, "－HEROIC ADVENT－", "Roselia", ""],
-    [9, "Determination Symphony", "Roselia", ""],
+    [9, "Determination Symphony", "Roselia", "0"],
     [10, "熱色スターマイン", "Roselia", ""],
     [11, "軌跡", "Roselia", ""],
-    [12, "LOUDER", "Roselia", ""],
+    [12, "LOUDER", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/13bafc47-38ff-49f5-a6ed-deae3e19cd8b", "https://vgmdb.net/album/75662"]
 
@@ -4459,9 +4459,9 @@ date = "2021-01-27"
 album = "mind of Prominence / RAISE A SUILEN"
 tracks = [
     [1, "mind of Prominence", "RAISE A SUILEN", ""],
-    [2, "JUST THE WAY I AM", "RAISE A SUILEN", ""],
+    [2, "JUST THE WAY I AM", "RAISE A SUILEN", "0"],
     [3, "mind of Prominence -instrumental-", "RAISE A SUILEN", ""],
-    [4, "JUST THE WAY I AM -instrumental-", "RAISE A SUILEN", ""],
+    [4, "JUST THE WAY I AM -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e63298bc-6df1-4f3a-8d7b-fdc337b13a7b", "https://vgmdb.net/album/104758"]
 
@@ -4505,20 +4505,20 @@ catalognumber = "BRMM-10407"
 date = "2021-06-30"
 album = "劇場版 BanG Dream! Episode of Roselia Theme Songs Collection [生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Avant-garde HISTORY", "", ""],
-    [2, "BLACK SHOUT", "", ""],
+    [1, "Avant-garde HISTORY", "", "0"],
+    [2, "BLACK SHOUT", "", "0"],
     [3, "Ringing Bloom", "", ""],
-    [4, "BRAVE JEWEL", "", ""],
+    [4, "BRAVE JEWEL", "", "0"],
     [5, "Safe and Sound", "", ""],
     [6, "約束", "", ""],
     [7, "幕間映像I", "", ""],
-    [8, "Break your desire", "", ""],
+    [8, "Break your desire", "", "0"],
     [9, "Neo-Aspect", "", ""],
     [10, "PASSIONATE ANTHEM", "", ""],
     [11, "ONENESS", "", ""],
     [12, "Sanctuary", "", ""],
     [13, "R", "", ""],
-    [14, "FIRE BIRD", "", ""],
+    [14, "FIRE BIRD", "", "0"],
     [15, "幕間映像II", "", ""],
     [16, "Song I am.", "", ""],
     [17, "熱色スターマイン", "", ""],
@@ -4540,7 +4540,7 @@ tracks = [
     [8, "もってけ! セーラーふく", "", ""],
     [9, "ヒャダインのカカカタ☆カタオモイ-C", "", ""],
     [10, "この番組はうら若き公務員たちの提供でお送りいたします", "", ""],
-    [11, "BLACK SHOUT", "", ""],
+    [11, "BLACK SHOUT", "", "0"],
     [12, "動く、動く", "", ""],
     [13, "STEP by STEP UP↑↑↑↑", "", ""],
     [14, "ウザウザ☆わおーっす!", "", ""],
@@ -4571,7 +4571,7 @@ tracks = [
     [6, "ガールズセッション", "藤永龍太郎 (Elements Garden)", ""],
     [7, "キラキラあるかな？", "藤田淳平(Elements Garden)", ""],
     [8, "おちゃめトーク", "藤間仁(Elements Garden)", ""],
-    [9, "Ambition", "藤永龍太郎 (Elements Garden)", ""],
+    [9, "Ambition", "藤永龍太郎 (Elements Garden)", "0"],
     [10, "おもしろ大作戦", "藤田淳平(Elements Garden)", ""],
     [11, "山吹色のお菓子", "藤間仁(Elements Garden)", ""],
     [12, "オカルト", "藤永龍太郎 (Elements Garden)", ""],
@@ -4616,10 +4616,10 @@ tracks = [
     [13, "序曲〜黒き咆哮〜", "藤永龍太郎 (Elements Garden)", ""],
     [14, "ナカナ イナ カナイ(2nd Season #7 Ver.)", "花園たえ (CAST: 大塚紗英)×LAYER(CAST: Raychell)", ""],
     [15, "Returns(2nd Season #11 Ver.)", "Poppin'Party", ""],
-    [16, "Beautiful Birthday(3rd Season #11 Ver.)", "RAISE A SUILEN", ""],
+    [16, "Beautiful Birthday(3rd Season #11 Ver.)", "RAISE A SUILEN", "0"],
     [17, "キズナミュージック♪(Short Ver.)", "Poppin'Party", ""],
-    [18, "Jumpin' (Short Ver.)", "Poppin'Party", ""],
-    [19, "BRAVE JEWEL(Short Ver.)", "Roselia", ""],
+    [18, "Jumpin' (Short Ver.)", "Poppin'Party", "0"],
+    [19, "BRAVE JEWEL(Short Ver.)", "Roselia", "0"],
     [20, "Safe and Sound(Short Ver.)", "Roselia", ""],
     [21, "イニシャル(Short Ver.)", "Poppin'Party", ""],
     [22, "夢を撃ち抜く瞬間に！(Short Ver.)", "Poppin'Party", ""],
@@ -4670,7 +4670,7 @@ date = "2023-02-22"
 album = "Voy☆☆☆ / FLOW"
 tracks = [
     [1, "Terminal 1", "FLOW", ""],
-    [2, "GOLD", "FLOW", ""],
+    [2, "GOLD", "FLOW", "0"],
     [3, "優勝", "FLOW feat.Afterglow", ""],
     [4, "Tick Tack", "FLOW", ""],
     [5, "Terminal 2", "FLOW", ""],
@@ -4699,7 +4699,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [倉田ましろVer.]"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -4711,7 +4711,7 @@ catalognumber = "BRDM-10035"
 date = "2022-03-26"
 album = "Brand new Pastel Road! / Pastel*Palettes"
 tracks = [
-    [1, "Brand new Pastel Road!", "", ""],
+    [1, "Brand new Pastel Road!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/118932"]
 
@@ -4734,9 +4734,9 @@ date = "2023-02-28"
 album = "BanG Dream! AI Singing Synthesizer 夢ノ結唱 No.01 POPY 特典CD"
 tracks = [
     [1, "STAR BEAT!〜ホシノコドウ〜", "POPY", ""],
-    [2, "Easy come, Easy go！", "POPY", ""],
+    [2, "Easy come, Easy go！", "POPY", "0"],
     [3, "ゆめゆめグラデーション", "POPY", ""],
-    [4, "FIRE BIRD", "POPY", ""],
+    [4, "FIRE BIRD", "POPY", "0"],
     [5, "えがおのオーケストラっ！", "POPY", ""],
     [6, "flame of hope", "POPY", ""],
 ]
@@ -4748,10 +4748,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [白金燐子Ver.]"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/907e7815-d6b6-467b-a475-edf0af136e66", "https://vgmdb.net/album/136201"]
@@ -4798,10 +4798,10 @@ catalognumber = "BRMM-10721"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [MASKING Ver.]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f0f7a1ea-3ddb-45c4-9485-70c485c06ee6", "https://vgmdb.net/album/134168"]
@@ -4856,9 +4856,9 @@ tracks = [
     [9, "アゲハ蝶", "", ""],
     [10, "Nevereverland", "", ""],
     [11, "誓いのWingbeat", "", ""],
-    [12, "MUGEN Reverberate!", "", ""],
+    [12, "MUGEN Reverberate!", "", "0"],
     [13, "flame of hope", "", ""],
-    [14, "Ever Sky Blue", "", ""],
+    [14, "Ever Sky Blue", "", "0"],
     [15, "きょうもMerry go rounD", "", ""],
 ]
 links = ["https://vgmdb.net/album/141782"]
@@ -4901,7 +4901,7 @@ tracks = [
     [1, "八月のif", "めぐさうんどわーくす", ""],
     [2, "しゅわりん☆どり〜みん", "めぐさうんどわーくす", ""],
     [3, "True color", "めぐさうんどわーくす", ""],
-    [4, "Determination Symphony", "めぐさうんどわーくす", ""],
+    [4, "Determination Symphony", "めぐさうんどわーくす", "0"],
     [5, "えがおのオーケストラっ！", "めぐさうんどわーくす", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f6581958-78b8-44e2-bbab-74b09a730ef2", "https://vgmdb.net/album/85256"]
@@ -4934,15 +4934,15 @@ album = "Swear ～Night & Day～ / Roselia [Blu-ray付生産限定盤] Vocal, Li
 tracks = [
     [1, "雨上がりの夢", "", ""],
     [2, "Proud of oneself", "", ""],
-    [3, "BLACK SHOUT", "", ""],
+    [3, "BLACK SHOUT", "", "0"],
     [4, "Re:birth day", "", ""],
     [5, "約束", "", ""],
     [6, "\"UNIONS\" Road", "", ""],
     [7, "幕間映像 I", "", ""],
-    [8, "LOUDER", "", ""],
+    [8, "LOUDER", "", "0"],
     [9, "Neo-Aspect", "", ""],
     [10, "Song I am.", "", ""],
-    [11, "FIRE BIRD", "", ""],
+    [11, "FIRE BIRD", "", "0"],
     [12, "overtuRe", "", ""],
     [13, "ZEAL of proud", "", ""],
     [14, "幕間映像 II", "", ""],
@@ -4957,8 +4957,8 @@ date = "2022-10-26"
 album = "Swear ～Night & Day～ / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
     [1, "Sing Alive", "", ""],
-    [2, "BLACK SHOUT", "", ""],
-    [3, "FIRE BIRD", "", ""],
+    [2, "BLACK SHOUT", "", "0"],
+    [3, "FIRE BIRD", "", "0"],
     [4, "R", "", ""],
     [5, "Sprechchor", "", ""],
     [6, "約束", "", ""],
@@ -4971,7 +4971,7 @@ tracks = [
     [13, "ROZEN HORIZON", "", ""],
     [14, "幕間映像 II", "", ""],
     [15, "Song I am.", "", ""],
-    [16, "LOUDER", "", ""],
+    [16, "LOUDER", "", "0"],
 ]
 links = ["https://vgmdb.net/album/122091"]
 
@@ -4981,7 +4981,7 @@ date = "2019-09-25"
 album = "「BanG Dream! FILM LIVE」劇中歌コレクション"
 tracks = [
     [1, "二重の虹 (short ver.)", "Poppin'Party", ""],
-    [2, "Happy Happy Party! (short ver.)", "Poppin'Party", ""],
+    [2, "Happy Happy Party! (short ver.)", "Poppin'Party", "0"],
     [3, "ドラマパート 「それぞれのライブ前」 ～Afterglow編～", "Afterglow", ""],
     [4, "Y.O.L.O!!!!! (short ver.)", "Afterglow", ""],
     [5, "Scarlet Sky (short ver.)", "Afterglow", ""],
@@ -4995,15 +4995,15 @@ tracks = [
     [13, "せかいのっびのびトレジャー! (short ver.)", "ハロー、ハッピーワールド！", ""],
     [14, "えがお・シング・あ・ソング (short ver.)", "ハロー、ハッピーワールド！", ""],
     [15, "ドラマパート 「それぞれのライブ前」 ～Roselia編～", "Roselia", ""],
-    [16, "LOUDER (short ver.)", "Roselia", ""],
-    [17, "BLACK SHOUT (short ver.)", "Roselia", ""],
-    [18, "FIRE BIRD (short ver.)", "Roselia", ""],
+    [16, "LOUDER (short ver.)", "Roselia", "0"],
+    [17, "BLACK SHOUT (short ver.)", "Roselia", "0"],
+    [18, "FIRE BIRD (short ver.)", "Roselia", "0"],
     [19, "ドラマパート 「それぞれのライブ前」 ～Poppin'Party編～", "Poppin'Party", ""],
     [20, "Returns (short ver.)", "Poppin'Party", ""],
-    [21, "Dreamers Go! (short ver.)", "Poppin'Party", ""],
-    [22, "BRAVE JEWEL (short ver.)", "Roselia", ""],
+    [21, "Dreamers Go! (short ver.)", "Poppin'Party", "0"],
+    [22, "BRAVE JEWEL (short ver.)", "Roselia", "0"],
     [23, "キズナミュージック♪ (short ver.)", "Poppin'Party", ""],
-    [24, "Jumpin' (short ver.)", "Poppin'Party", ""],
+    [24, "Jumpin' (short ver.)", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/128e6046-9b77-4475-aafa-46f410426fa4", "https://vgmdb.net/album/88397"]
 
@@ -5061,8 +5061,8 @@ tracks = [
     [1, "ときめきエクスペリエンス！", "めぐさうんどわーくす", ""],
     [2, "しゅわりん☆どり～みん", "めぐさうんどわーくす", ""],
     [3, "True color", "めぐさうんどわーくす", ""],
-    [4, "LOUDER", "めぐさうんどわーくす", ""],
-    [5, "Determination Symphony", "めぐさうんどわーくす", ""],
+    [4, "LOUDER", "めぐさうんどわーくす", "0"],
+    [5, "Determination Symphony", "めぐさうんどわーくす", "0"],
     [6, "八月のif", "めぐさうんどわーくす", ""],
     [7, "えがおのオーケストラっ！", "めぐさうんどわーくす", ""],
 ]
@@ -5074,9 +5074,9 @@ date = "2018-10-31"
 album = "ツナグ、ソラモヨウ / Afterglow Disc 1 (CD)"
 tracks = [
     [1, "ツナグ、ソラモヨウ", "Afterglow", ""],
-    [2, "Jamboree! Journey!", "Afterglow", ""],
+    [2, "Jamboree! Journey!", "Afterglow", "0"],
     [3, "ツナグ、ソラモヨウ -instrumental-", "Afterglow", ""],
-    [4, "Jamboree! Journey! -instrumental-", "Afterglow", ""],
+    [4, "Jamboree! Journey! -instrumental-", "Afterglow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/efac67d0-a954-4a9d-a33b-649d7cad9df3", "https://vgmdb.net/album/80463"]
 
@@ -5096,10 +5096,10 @@ date = "2018-07-25"
 album = "R / Roselia [Limited Edition] Disc 1 (CD)"
 tracks = [
     [1, "R", "Roselia", ""],
-    [2, "BLACK SHOUT (リマスターver.)", "Roselia", ""],
+    [2, "BLACK SHOUT (リマスターver.)", "Roselia", "0"],
     [3, "Neo-Aspect (リマスターver.)", "Roselia", ""],
     [4, "R -instrumental-", "Roselia", ""],
-    [5, "BLACK SHOUT (リマスターver.) -instrumental-", "Roselia", ""],
+    [5, "BLACK SHOUT (リマスターver.) -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3b89f21e-7457-4e58-b762-624c94f3719d", "https://vgmdb.net/album/77978"]
 
@@ -5122,8 +5122,8 @@ tracks = [
     [1, "ミュージック・アワー", "Poppin'Party", ""],
     [2, "ロミオとシンデレラ", "Poppin'Party", ""],
     [3, "天ノ弱", "Afterglow", ""],
-    [4, "GO!!!", "Afterglow×こころ", ""],
-    [5, "Baby Sweet Berry Love", "Pastel＊Palettes", ""],
+    [4, "GO!!!", "Afterglow×こころ", "0"],
+    [5, "Baby Sweet Berry Love", "Pastel＊Palettes", "1"],
     [6, "Q＆A リサイタル！", "Pastel＊Palettes", ""],
     [7, "海色", "Roselia", ""],
     [8, "六兆年と一夜物語", "Roselia", ""],
@@ -5141,12 +5141,12 @@ album = "D4DJ Groovy Mix カバートラックス vol.8"
 tracks = [
     [1, "ヒャダインのじょーじょーゆーじょー", "Happy Around!", ""],
     [2, "Sparkling Daydream", "Happy Around!", ""],
-    [3, "BLACK SHOUT", "Peaky P-key", ""],
+    [3, "BLACK SHOUT", "Peaky P-key", "0"],
     [4, "Storyteller", "Peaky P-key", ""],
     [5, "99 ILLUSION！", "Photon Maiden", ""],
     [6, "This game", "Photon Maiden", ""],
     [7, "Timing", "Merm4id", ""],
-    [8, "GO!!!", "Merm4id", ""],
+    [8, "GO!!!", "Merm4id", "0"],
     [9, "KiLLiNG ME", "燐舞曲", ""],
     [10, "奏（かなで）", "燐舞曲", ""],
     [11, "にゃんだーわんだーデイズ", "Lyrical Lily", ""],
@@ -5204,9 +5204,9 @@ tracks = [
     [2, "しゅわりん☆どり～みん", "THE THIRD(仮) & 大塚紗英", ""],
     [3, "パスパレボリューションず☆", "THE THIRD(仮) & 大塚紗英", ""],
     [4, "えがおのオーケストラっ！", "THE THIRD(仮) & 大塚紗英", ""],
-    [5, "Don't be afraid!", "THE THIRD(仮) & 大塚紗英", ""],
+    [5, "Don't be afraid!", "THE THIRD(仮) & 大塚紗英", "0"],
     [6, "ゆら・ゆらRing-Dong-Dance", "THE THIRD(仮) & 大塚紗英", ""],
-    [7, "Hey-Day狂騒曲（カプリチオ）", "THE THIRD(仮) & 大塚紗英", ""],
+    [7, "Hey-Day狂騒曲（カプリチオ）", "THE THIRD(仮) & 大塚紗英", "0"],
     [8, "Scarlet Sky", "THE THIRD(仮) & 大塚紗英", ""],
     [9, "ゴーカ！ごーかい！？ファントムシーフ！", "THE THIRD(仮) & 大塚紗英", ""],
     [10, "R・I・O・T", "THE THIRD(仮)", ""],
@@ -5221,7 +5221,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [二葉つくしVer.]"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -5293,9 +5293,9 @@ catalognumber = "BRMM-10874"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN"
 tracks = [
-    [1, "Bad Kids All Bet", "RAISE A SUILEN", ""],
+    [1, "Bad Kids All Bet", "RAISE A SUILEN", "0"],
     [2, "WELCOME TO PANDEMONIUM", "RAISE A SUILEN", ""],
-    [3, "Bad Kids All Bet -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Bad Kids All Bet -instrumental-", "RAISE A SUILEN", "0"],
     [4, "WELCOME TO PANDEMONIUM -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f83582b0-ac3f-4862-9bbb-b0cbe6093ae0", "https://vgmdb.net/album/146787"]
@@ -5327,9 +5327,9 @@ tracks = [
     [8, "Preserved Roses", "Roselia×蘭", ""],
     [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", ""],
     [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", ""],
-    [11, "COLORFUL BOX", "Morfonica", ""],
+    [11, "COLORFUL BOX", "Morfonica", "1"],
     [12, "unravel", "Morfonica", ""],
-    [13, "Cry Baby", "RAISE A SUILEN", ""],
+    [13, "Cry Baby", "RAISE A SUILEN", "0"],
     [14, "メギツネ", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8f04d182-c716-4a5d-8a82-96381a9973c8", "https://vgmdb.net/album/123847"]
@@ -5368,7 +5368,7 @@ tracks = [
     [17, "静かな決意", "Elements Garden", ""],
     [18, "新たな世界へ", "Elements Garden", ""],
     [19, "一つの到達点", "Elements Garden", ""],
-    [20, "LOUDER〜Piano Arrange Ver.～", "Elements Garden", ""],
+    [20, "LOUDER〜Piano Arrange Ver.～", "Elements Garden", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ad1ee9f9-4f33-4d7a-81a2-25025dcf0d2f", "https://vgmdb.net/album/114811"]
 
@@ -5436,9 +5436,9 @@ date = "2017-11-29"
 album = "ONENESS / Roselia [Limited Edition] Disc 1 (CD)"
 tracks = [
     [1, "ONENESS", "Roselia", ""],
-    [2, "Determination Symphony", "Roselia", ""],
+    [2, "Determination Symphony", "Roselia", "0"],
     [3, "ONENESS -instrumental-", "Roselia", ""],
-    [4, "Determination Symphony -instrumental-", "Roselia", ""],
+    [4, "Determination Symphony -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5188a464-0647-4d5a-b091-a774de5237dc", "https://vgmdb.net/album/72329"]
 
@@ -5457,9 +5457,9 @@ date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica"
 tracks = [
     [1, "素晴らしき世界 でも どこにもない場所", "Ave Mujica", ""],
-    [2, "Angles", "Ave Mujica", ""],
+    [2, "Angles", "Ave Mujica", "0"],
     [3, "素晴らしき世界 でも どこにもない場所 -instrumental-", "Ave Mujica", ""],
-    [4, "Angles -instrumental-", "Ave Mujica", ""],
+    [4, "Angles -instrumental-", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d493cc58-7437-4a70-80a8-84c1e6023c8e", "https://vgmdb.net/album/139640"]
 
@@ -5477,17 +5477,17 @@ catalognumber = "BRMM-10269"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN"
 tracks = [
-    [1, "Invincible Fighter", "RAISE A SUILEN", ""],
-    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
+    [1, "Invincible Fighter", "RAISE A SUILEN", "0"],
+    [2, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
     [3, "SOUL SOLDIER", "RAISE A SUILEN", ""],
     [4, "UNSTOPPABLE", "RAISE A SUILEN", ""],
-    [5, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [6, "Beautiful Birthday", "RAISE A SUILEN", ""],
+    [5, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [6, "Beautiful Birthday", "RAISE A SUILEN", "0"],
     [7, "Takin’ my Heart", "RAISE A SUILEN", ""],
-    [8, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [8, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [9, "!NVADE SHOW!", "RAISE A SUILEN", "0"],
     [10, "REIGNING", "RAISE A SUILEN", ""],
-    [11, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
+    [11, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
     [12, "R・I・O・T", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/6bd282eb-e848-42a5-b326-a60118937773", "https://vgmdb.net/album/97125"]
@@ -5533,12 +5533,12 @@ date = "2020-07-15"
 album = "Wahl / Roselia [Limited Edition] Vocal"
 tracks = [
     [1, "R", "Roselia", ""],
-    [2, "BRAVE JEWEL", "Roselia", ""],
-    [3, "Determination Symphony", "Roselia", ""],
-    [4, "FIRE BIRD", "Roselia", ""],
+    [2, "BRAVE JEWEL", "Roselia", "0"],
+    [3, "Determination Symphony", "Roselia", "0"],
+    [4, "FIRE BIRD", "Roselia", "0"],
     [5, "Safe and Sound", "Roselia", ""],
-    [6, "Avant-garde HISTORY", "Roselia", ""],
-    [7, "Break your desire", "Roselia", ""],
+    [6, "Avant-garde HISTORY", "Roselia", "0"],
+    [7, "Break your desire", "Roselia", "0"],
     [8, "Re:birth day", "Roselia", ""],
     [9, "Neo-Aspect", "Roselia", ""],
     [10, "約束", "Roselia", ""],
@@ -5554,19 +5554,19 @@ album = "Wahl / Roselia [Limited Edition] Vocal, Live Event, Video Disc 2"
 tracks = [
     [1, "ONENESS", "", ""],
     [2, "R", "", ""],
-    [3, "BRAVE JEWEL", "", ""],
-    [4, "LOUDER", "", ""],
-    [5, "ETERNAL BLAZE", "", ""],
+    [3, "BRAVE JEWEL", "", "0"],
+    [4, "LOUDER", "", "0"],
+    [5, "ETERNAL BLAZE", "", "0"],
     [6, "残酷な天使のテーゼ", "", ""],
     [7, "This game", "", ""],
     [8, "幕間映像I", "", ""],
-    [9, "FIRE BIRD", "", ""],
+    [9, "FIRE BIRD", "", "0"],
     [10, "Safe and Sound", "", ""],
     [11, "Neo-Aspect", "", ""],
     [12, "Ringing Bloom", "", ""],
     [13, "陽だまりロードナイト", "", ""],
     [14, "幕間映像II", "", ""],
-    [15, "BLACK SHOUT", "", ""],
+    [15, "BLACK SHOUT", "", "0"],
     [16, "熱色スターマイン", "", ""],
 ]
 links = ["https://vgmdb.net/album/97122"]
@@ -5576,21 +5576,21 @@ catalognumber = "BRMM-10266"
 date = "2020-07-15"
 album = "Wahl / Roselia [Limited Edition] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "Determination Symphony", "", ""],
+    [1, "Determination Symphony", "", "0"],
     [2, "R", "", ""],
-    [3, "BRAVE JEWEL", "", ""],
+    [3, "BRAVE JEWEL", "", "0"],
     [4, "Sanctuary", "", ""],
     [5, "残酷な天使のテーゼ", "", ""],
-    [6, "ETERNAL BLAZE", "", ""],
+    [6, "ETERNAL BLAZE", "", "0"],
     [7, "This game", "", ""],
     [8, "幕間映像I", "", ""],
     [9, "Ringing Bloom", "", ""],
     [10, "Re:birth day", "", ""],
-    [11, "FIRE BIRD", "", ""],
-    [12, "BLACK SHOUT", "", ""],
+    [11, "FIRE BIRD", "", "0"],
+    [12, "BLACK SHOUT", "", "0"],
     [13, "Neo-Aspect", "", ""],
     [14, "幕間映像II", "", ""],
-    [15, "LOUDER", "", ""],
+    [15, "LOUDER", "", "0"],
     [16, "熱色スターマイン", "", ""],
 ]
 links = ["https://vgmdb.net/album/97122"]
@@ -5618,7 +5618,7 @@ catalognumber = "BRDM-10441"
 date = "2025-01-01"
 album = "Blessing Chord（パラレルver.） / I♡インドア"
 tracks = [
-    [1, "Blessing Chord（パラレルver.）", "", ""],
+    [1, "Blessing Chord（パラレルver.）", "", "0"],
 ]
 links = ["https://vgmdb.net/album/150189"]
 
@@ -5665,8 +5665,8 @@ tracks = [
     [1, "Sage der Rosen", "", ""],
     [2, "Song I am.", "", ""],
     [3, "THE HISTORIC...", "", ""],
-    [4, "Determination Symphony", "", ""],
-    [5, "FIRE BIRD", "", ""],
+    [4, "Determination Symphony", "", "0"],
+    [5, "FIRE BIRD", "", "0"],
     [6, "幕間映像", "", ""],
     [7, "約束", "", ""],
     [8, "礎の花冠", "", ""],
@@ -5677,7 +5677,7 @@ tracks = [
     [13, "幕間映像", "", ""],
     [14, "Our Carol", "", ""],
     [15, "ONENESS", "", ""],
-    [16, "BLACK SHOUT", "", ""],
+    [16, "BLACK SHOUT", "", "0"],
     [17, "Roselia 「Stille Nacht, Rosen Nacht」 上海追加公演 -OFF SHOT MOVIE-", "", ""],
 ]
 links = ["https://vgmdb.net/album/151587"]
@@ -5722,13 +5722,13 @@ catalognumber = ""
 date = "2022-01-15"
 album = "Morfonica Instrumental Collection 1"
 tracks = [
-    [1, "Daylight -デイライト- -instrumental-", "", ""],
+    [1, "Daylight -デイライト- -instrumental-", "", "0"],
     [2, "金色へのプレリュード -instrumental-", "", ""],
     [3, "ブルームブルーム -instrumental-", "", ""],
     [4, "flame of hope -instrumental-", "", ""],
     [5, "ハーモニー・デイ -instrumental-", "", ""],
     [6, "Sonorous -instrumental-", "", ""],
-    [7, "Fateful... -instrumental-", "", ""],
+    [7, "Fateful... -instrumental-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/117333"]
 
@@ -5766,17 +5766,17 @@ date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "Sage der Rosen", "Roselia", ""],
-    [2, "BLACK SHOUT", "Roselia", ""],
+    [2, "BLACK SHOUT", "Roselia", "0"],
     [3, "覚悟のLiberation", "Roselia", ""],
     [4, "—HEROIC ADVENT—", "Roselia", ""],
     [5, "陽だまりロードナイト", "Roselia", ""],
-    [6, "Keep Heart", "Roselia", ""],
+    [6, "Keep Heart", "Roselia", "0"],
     [7, "熱色スターマイン", "Roselia", ""],
     [8, "ONENESS", "Roselia", ""],
     [9, "Original Call", "Roselia", ""],
-    [10, "LOUDER", "Roselia", ""],
-    [11, "Always recall.", "Roselia", ""],
-    [12, "Floral Haven", "Roselia", ""],
+    [10, "LOUDER", "Roselia", "0"],
+    [11, "Always recall.", "Roselia", "0"],
+    [12, "Floral Haven", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/db8243e2-51db-4473-99f8-02e80e788256", "https://vgmdb.net/album/139551"]
 
@@ -5786,18 +5786,18 @@ date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
     [1, "ROZEN HORIZON", "", ""],
-    [2, "BLACK SHOUT", "", ""],
+    [2, "BLACK SHOUT", "", "0"],
     [3, "Song I am.", "", ""],
     [4, "覚悟のLiberation", "", ""],
     [5, "熱色スターマイン", "", ""],
-    [6, "Blessing Chord", "", ""],
+    [6, "Blessing Chord", "", "0"],
     [7, "Sing Alive", "", ""],
     [8, "ZEAL of proud", "", ""],
     [9, "Safe and Sound", "", ""],
     [10, "Sprechchor", "", ""],
-    [11, "Dear Gleam", "", ""],
+    [11, "Dear Gleam", "", "0"],
     [12, "一逢のFull Glory", "", ""],
-    [13, "FIRE BIRD", "", ""],
+    [13, "FIRE BIRD", "", "0"],
     [14, "VIOLET LINE", "", ""],
 ]
 links = ["https://vgmdb.net/album/139551"]
@@ -5808,18 +5808,18 @@ date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
     [1, "ROZEN HORIZON", "", ""],
-    [2, "BLACK SHOUT", "", ""],
+    [2, "BLACK SHOUT", "", "0"],
     [3, "PASSIONATE ANTHEM", "", ""],
     [4, "覚悟のLiberation", "", ""],
     [5, "熱色スターマイン", "", ""],
-    [6, "Break your desire", "", ""],
+    [6, "Break your desire", "", "0"],
     [7, "Sing Alive", "", ""],
     [8, "ZEAL of proud", "", ""],
     [9, "Safe and Sound", "", ""],
     [10, "約束", "", ""],
-    [11, "Dear Gleam", "", ""],
+    [11, "Dear Gleam", "", "0"],
     [12, "一逢のFull Glory", "", ""],
-    [13, "FIRE BIRD", "", ""],
+    [13, "FIRE BIRD", "", "0"],
     [14, "VIOLET LINE", "", ""],
 ]
 links = ["https://vgmdb.net/album/139551"]
@@ -5830,10 +5830,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "THRONE OF ROSE", "Roselia", ""],
-    [2, "Dear Gleam", "Roselia", ""],
+    [2, "Dear Gleam", "Roselia", "0"],
     [3, "一逢のFull Glory", "Roselia", ""],
     [4, "THRONE OF ROSE -instrumental-", "Roselia", ""],
-    [5, "Dear Gleam -instrumental-", "Roselia", ""],
+    [5, "Dear Gleam -instrumental-", "Roselia", "0"],
     [6, "一逢のFull Glory -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/50bd5b06-72c9-44af-affd-c5384603a4a4", "https://vgmdb.net/album/129750"]
@@ -5844,19 +5844,19 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video"
 tracks = [
     [1, "THE HISTORIC...", "", ""],
-    [2, "BRAVE JEWEL", "", ""],
+    [2, "BRAVE JEWEL", "", "0"],
     [3, "Opera of the wasteland", "", ""],
     [4, "PASSIONATE ANTHEM", "", ""],
     [5, "Ringing Bloom", "", ""],
     [6, "\"UNIONS\" Road", "", ""],
     [7, "幕間映像I", "", ""],
-    [8, "Determination Symphony", "", ""],
+    [8, "Determination Symphony", "", "0"],
     [9, "Swear ~Night & Day~", "", ""],
     [10, "Sprechchor", "", ""],
     [11, "陽だまりロードナイト", "", ""],
     [12, "R", "", ""],
     [13, "overtuRe", "", ""],
-    [14, "FIRE BIRD", "", ""],
+    [14, "FIRE BIRD", "", "0"],
     [15, "幕間映像II", "", ""],
     [16, "ROZEN HORIZON (ENCORE)", "", ""],
     [17, "-HEROIC ADVENT- (ENCORE)", "", ""],
@@ -5891,7 +5891,7 @@ tracks = [
     [3, "HOWLING", "", ""],
     [4, "インフェルノ", "", ""],
     [5, "Rage On", "", ""],
-    [6, "CORE PRIDE", "", ""],
+    [6, "CORE PRIDE", "", "0"],
     [7, "unravel", "", ""],
     [8, "Enigmatic Feeling", "", ""],
     [9, "key plus words", "", ""],
@@ -5915,10 +5915,10 @@ catalognumber = "BRMM-10168"
 date = "2019-02-20"
 album = "A DECLARATION OF ××× / RAISE A SUILEN [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
-    [2, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
-    [3, "A DECLARATION OF ××× -instrumental-", "RAISE A SUILEN", ""],
-    [4, "EXPOSE ‘Burn out!!!’ -instrumental-", "RAISE A SUILEN", ""],
+    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
+    [2, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
+    [3, "A DECLARATION OF ××× -instrumental-", "RAISE A SUILEN", "0"],
+    [4, "EXPOSE ‘Burn out!!!’ -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4fec2fe3-5737-41ad-a264-c011455deb51", "https://vgmdb.net/album/82746"]
 
@@ -6066,10 +6066,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [白金燐子Ver.]"
 tracks = [
     [1, "THRONE OF ROSE", "", ""],
-    [2, "Dear Gleam", "", ""],
+    [2, "Dear Gleam", "", "0"],
     [3, "一逢のFull Glory", "", ""],
     [4, "THRONE OF ROSE -instrumental-", "", ""],
-    [5, "Dear Gleam -instrumental-", "", ""],
+    [5, "Dear Gleam -instrumental-", "", "0"],
     [6, "一逢のFull Glory -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/129747"]
@@ -6255,9 +6255,9 @@ catalognumber = "BRMM-10935"
 date = "2025-06-11"
 album = "HOWLING AMBITION / RAISE A SUILEN"
 tracks = [
-    [1, "HOWLING AMBITION", "", ""],
+    [1, "HOWLING AMBITION", "", "0"],
     [2, "VIVID FIRST TIME", "", ""],
-    [3, "HOWLING AMBITION -instrumental-", "", ""],
+    [3, "HOWLING AMBITION -instrumental-", "", "0"],
     [4, "VIVID FIRST TIME -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/151585"]
@@ -6268,7 +6268,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [広町七深Ver.]"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -6280,7 +6280,7 @@ catalognumber = "BRDM-10268"
 date = "2023-06-30"
 album = "Here, the world! / sumimi"
 tracks = [
-    [1, "Here, the world!", "sumimi", ""],
+    [1, "Here, the world!", "sumimi", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d85f631d-e634-4606-8a01-97dfbb63118d", "https://vgmdb.net/album/139212"]
 
@@ -6293,7 +6293,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81509"]
 
@@ -6303,9 +6303,9 @@ date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN"
 tracks = [
     [1, "THE WAY OF LIFE", "RAISE A SUILEN", ""],
-    [2, "DEAD HEAT BEAT", "RAISE A SUILEN", ""],
+    [2, "DEAD HEAT BEAT", "RAISE A SUILEN", "0"],
     [3, "THE WAY OF LIFE -instrumental-", "RAISE A SUILEN", ""],
-    [4, "DEAD HEAT BEAT -instrumental-", "RAISE A SUILEN", ""],
+    [4, "DEAD HEAT BEAT -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1a7fcad7-fb34-4e89-b779-239f5c6c0ea7", "https://vgmdb.net/album/122888"]
 
@@ -6360,9 +6360,9 @@ catalognumber = "BRMM-10195"
 date = "2019-07-24"
 album = "FIRE BIRD / Roselia"
 tracks = [
-    [1, "FIRE BIRD", "Roselia", ""],
+    [1, "FIRE BIRD", "Roselia", "0"],
     [2, "Ringing Bloom", "Roselia", ""],
-    [3, "FIRE BIRD -instrumental-", "Roselia", ""],
+    [3, "FIRE BIRD -instrumental-", "Roselia", "0"],
     [4, "Ringing Bloom -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/529ffae7-dd33-4650-ad33-3276da6435d2", "https://vgmdb.net/album/85172"]
@@ -6393,7 +6393,7 @@ tracks = [
     [7, "Wonderful Sweet！", "Pastel＊Palettes", ""],
     [8, "るんっ♪てぃてぃー！", "Pastel＊Palettes", ""],
     [9, "パッパレ☆人生！バーン万歳！", "Pastel＊Palettes", ""],
-    [10, "Brand new Pastel Road！", "Pastel＊Palettes", ""],
+    [10, "Brand new Pastel Road！", "Pastel＊Palettes", "1"],
     [11, "あこがれacross", "Pastel＊Palettes", ""],
     [12, "ハレハレ☆フォーチュン", "Pastel＊Palettes", ""],
     [13, "ハナヒバナ", "Pastel＊Palettes", ""],
@@ -6409,8 +6409,8 @@ tracks = [
     [2, "気まぐれロマンティック", "Pastel＊Palettes", ""],
     [3, "ドリームパレード", "Pastel＊Palettes", ""],
     [4, "ラムのラブソング", "Pastel＊Palettes", ""],
-    [5, "DANCE! おジャ魔女", "Pastel＊Palettes", ""],
-    [6, "DISCOTHEQUE", "Pastel＊Palettes", ""],
+    [5, "DANCE! おジャ魔女", "Pastel＊Palettes", "0"],
+    [6, "DISCOTHEQUE", "Pastel＊Palettes", "0"],
     [7, "ゆりゆららららゆるゆり大事件", "Pastel＊Palettes", ""],
     [8, "SAKURAスキップ", "Pastel＊Palettes", ""],
     [9, "Stay Alive", "Pastel＊Palettes", ""],
@@ -6460,9 +6460,9 @@ catalognumber = "BRMM-10193"
 date = "2019-06-19"
 album = "Invincible Fighter / RAISE A SUILEN"
 tracks = [
-    [1, "Invincible Fighter", "RAISE A SUILEN", ""],
+    [1, "Invincible Fighter", "RAISE A SUILEN", "0"],
     [2, "Takin’ my Heart", "RAISE A SUILEN", ""],
-    [3, "Invincible Fighter -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Invincible Fighter -instrumental-", "RAISE A SUILEN", "0"],
     [4, "Takin’ my Heart -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e04e21aa-d065-40d3-b4fa-51b74f371ca6", "https://vgmdb.net/album/85170"]
@@ -6558,10 +6558,10 @@ catalognumber = "BRMM-10718"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Limited Edition] Disc 1 (CD) [BRMM-10718]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/3b9d3cae-fc19-4e72-8050-0ad0c0df326a", "https://vgmdb.net/album/134171"]
@@ -6572,26 +6572,26 @@ date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Limited Edition] Disc 2 (Blu-ray)"
 tracks = [
     [1, "熱色スターマイン", "Roselia", ""],
-    [2, "Dear Gleam", "Roselia", ""],
+    [2, "Dear Gleam", "Roselia", "0"],
     [3, "PASSIONATE ANTHEM", "Roselia", ""],
-    [4, "BLACK SHOUT", "Roselia", ""],
-    [5, "FIRE BIRD", "Roselia", ""],
-    [6, "Invincible Fighter", "RAISE A SUILEN", ""],
-    [7, "DEAD HEAT BEAT", "RAISE A SUILEN", ""],
+    [4, "BLACK SHOUT", "Roselia", "0"],
+    [5, "FIRE BIRD", "Roselia", "0"],
+    [6, "Invincible Fighter", "RAISE A SUILEN", "0"],
+    [7, "DEAD HEAT BEAT", "RAISE A SUILEN", "0"],
     [8, "ゴーカ！ごーかい！？ファントムシーフ！", "RAISE A SUILEN", ""],
     [9, "UNSTOPPABLE", "RAISE A SUILEN", ""],
     [10, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
     [11, "劣等上等", "RAISE A SUILEN", ""],
-    [12, "Keep the Heat and Fire Yourself Up", "RAISE A SUILEN", ""],
+    [12, "Keep the Heat and Fire Yourself Up", "RAISE A SUILEN", "0"],
     [13, "Repaint", "RAISE A SUILEN", ""],
     [14, "!NVADE SHOW!", "RAISE A SUILEN", "0"],
     [15, "狂乱 Hey Kids!!", "RAISE A SUILEN", ""],
     [16, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
-    [17, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
+    [17, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
     [18, "–N‐E‐M‐E‐S‐I‐S–", "RAISE A SUILEN", ""],
     [19, "THE WAY OF LIFE", "RAISE A SUILEN", ""],
-    [20, "HELL! or HELL?", "RAISE A SUILEN", ""],
-    [21, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [20, "HELL! or HELL?", "RAISE A SUILEN", "0"],
+    [21, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3b9d3cae-fc19-4e72-8050-0ad0c0df326a", "https://vgmdb.net/album/134171"]
 
@@ -6612,17 +6612,17 @@ tracks = [
     [1, "V.I.P MONSTER", "RAISE A SUILEN", ""],
     [2, "mind of Prominence", "RAISE A SUILEN", ""],
     [3, "Ray of hope", "RAISE A SUILEN", ""],
-    [4, "EXIST", "RAISE A SUILEN", ""],
+    [4, "EXIST", "RAISE A SUILEN", "0"],
     [5, "Sacred world", "RAISE A SUILEN", ""],
     [6, "-N-E-M-E-S-I-S-", "RAISE A SUILEN", "0"],
-    [7, "DANCING DARING", "RAISE A SUILEN", ""],
-    [8, "BATTLE CRY", "RAISE A SUILEN", ""],
-    [9, "Domination to world", "RAISE A SUILEN", ""],
+    [7, "DANCING DARING", "RAISE A SUILEN", "0"],
+    [8, "BATTLE CRY", "RAISE A SUILEN", "0"],
+    [9, "Domination to world", "RAISE A SUILEN", "0"],
     [10, "THE WAY OF LIFE", "RAISE A SUILEN", ""],
     [11, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
     [12, "Repaint", "RAISE A SUILEN", ""],
-    [13, "Life on the Lotus", "RAISE A SUILEN", ""],
-    [14, "CORUSCATE -DNA-", "RAISE A SUILEN", ""],
+    [13, "Life on the Lotus", "RAISE A SUILEN", "0"],
+    [14, "CORUSCATE -DNA-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4449d21e-c23d-4142-b653-b55c25d4e159", "https://vgmdb.net/album/139338"]
 
@@ -6654,7 +6654,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [Limited Edition] Vocal"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -6731,10 +6731,10 @@ album = "新しい季節に / Poppin'Party"
 tracks = [
     [1, "新しい季節に", "Poppin'Party", ""],
     [2, "ほな！", "Poppin'Party", ""],
-    [3, "Chu Chueen!", "Poppin'Party", ""],
+    [3, "Chu Chueen!", "Poppin'Party", "0"],
     [4, "新しい季節に -instrumental-", "Poppin'Party", ""],
     [5, "ほな！ -instrumental-", "Poppin'Party", ""],
-    [6, "Chu Chueen! -instrumental-", "Poppin'Party", ""],
+    [6, "Chu Chueen! -instrumental-", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4c6995c2-e8e9-4b8d-aec8-6583e4792263", "https://vgmdb.net/album/134920"]
 
@@ -6810,14 +6810,14 @@ catalognumber = "BRMM-10801"
 date = "2024-07-17"
 album = "TARINAI/トレモロアイズ / Poppin'Party [Blu-ray付生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Happy Happy Party!", "Poppin'Party", ""],
+    [1, "Happy Happy Party!", "Poppin'Party", "0"],
     [2, "What's the POPIPA!?", "Poppin'Party", ""],
     [3, "ぽっぴん'どりーむ!", "Poppin'Party", ""],
     [4, "青春 To Be Continued", "Poppin'Party", ""],
-    [5, "CiRCLING", "Poppin'Party", ""],
-    [6, "B.O.F", "Poppin'Party", ""],
+    [5, "CiRCLING", "Poppin'Party", "0"],
+    [6, "B.O.F", "Poppin'Party", "0"],
     [7, "ぽっぴん'しゃっふる", "Poppin'Party", ""],
-    [8, "Hello! Wink!", "Poppin'Party", ""],
+    [8, "Hello! Wink!", "Poppin'Party", "0"],
     [9, "最強☆ソング", "Poppin'Party", ""],
     [10, "夏のドーン!", "Poppin'Party", ""],
     [11, "Time Lapse", "Poppin'Party", ""],
@@ -6825,7 +6825,7 @@ tracks = [
     [13, "世界中に響く耳鳴りの導火線に火をつけて", "Poppin'Party", ""],
     [14, "alternative", "Poppin'Party", ""],
     [15, "STAR BEAT!〜ホシノコドウ〜", "Poppin'Party", ""],
-    [16, "1000回潤んだ空", "Poppin'Party", ""],
+    [16, "1000回潤んだ空", "Poppin'Party", "0"],
     [17, "Moonlight Walk", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/76be38d0-4949-4c41-9e2c-04b45f475e13", "https://vgmdb.net/album/140016"]
@@ -6847,8 +6847,8 @@ catalognumber = "BRMM-10937"
 date = "2025-07-02"
 album = "GLOW GOES ON / Afterglow [Limited Edition] Vocal"
 tracks = [
-    [1, "Glowing After", "", ""],
-    [2, "A Sunset So Bright", "", ""],
+    [1, "Glowing After", "", "0"],
+    [2, "A Sunset So Bright", "", "0"],
     [3, "Start as Usual", "", ""],
     [4, "\"Say cheese!!!!!\"", "", "0"],
     [5, "花笑みのデュオ", "", ""],
@@ -6924,7 +6924,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [八潮瑠唯Ver.]"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -7053,10 +7053,10 @@ catalognumber = "BRMM-10720"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [LOCK Ver.]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/27cfd389-563c-47e0-9f25-2bb00e20ecd4", "https://vgmdb.net/album/134167"]
@@ -7148,10 +7148,10 @@ catalognumber = "BRMM-10085"
 date = "2017-04-19"
 album = "BLACK SHOUT / Roselia [Limited Edition] Vocal, Drama"
 tracks = [
-    [1, "BLACK SHOUT", "Roselia", ""],
-    [2, "LOUDER", "Roselia", ""],
-    [3, "BLACK SHOUT -instrumental-", "Roselia", ""],
-    [4, "LOUDER -instrumental-", "Roselia", ""],
+    [1, "BLACK SHOUT", "Roselia", "0"],
+    [2, "LOUDER", "Roselia", "0"],
+    [3, "BLACK SHOUT -instrumental-", "Roselia", "0"],
+    [4, "LOUDER -instrumental-", "Roselia", "0"],
     [5, "Roselia ミニドラマ〜バンド練習編〜", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/99a952a1-13cb-4c47-97e7-e01b978b243a", "https://vgmdb.net/album/65945"]
@@ -7174,8 +7174,8 @@ tracks = [
     [2, "名無声", "MyGO!!!!!", ""],
     [3, "迷星叫 -instrumental-", "MyGO!!!!!", ""],
     [4, "名無声 -instrumental-", "MyGO!!!!!", ""],
-    [5, "1st LIVE「僕たちはここで叫ぶ」アフタートーク", "MyGO!!!!!", ""],
-    [6, "2nd LIVE「そのままを抱きしめて」アフタートーク", "MyGO!!!!!", ""],
+    [5, "1st LIVE「僕たちはここで叫ぶ」アフタートーク", "MyGO!!!!!", "0"],
+    [6, "2nd LIVE「そのままを抱きしめて」アフタートーク", "MyGO!!!!!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3a02ef14-0bcf-4a56-9556-e3536e13edfa", "https://vgmdb.net/album/122455"]
 
@@ -7184,9 +7184,9 @@ catalognumber = "BRMM-10190"
 date = "2019-05-15"
 album = "Dreamers Go!/Returns / Poppin'Party [Limited Edition]"
 tracks = [
-    [1, "Dreamers Go!", "Poppin'Party", ""],
+    [1, "Dreamers Go!", "Poppin'Party", "0"],
     [2, "Returns", "Poppin'Party", ""],
-    [3, "Dreamers Go! -instrumental-", "Poppin'Party", ""],
+    [3, "Dreamers Go! -instrumental-", "Poppin'Party", "0"],
     [4, "Returns -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/7a925a9c-609f-4b85-bb13-7792a8035924", "https://vgmdb.net/album/85169"]
@@ -7243,11 +7243,11 @@ catalognumber = "BRMM-10372"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN [生産限定盤] Vocal"
 tracks = [
-    [1, "EXIST", "RAISE A SUILEN", ""],
-    [2, "Embrace of light", "RAISE A SUILEN", ""],
+    [1, "EXIST", "RAISE A SUILEN", "0"],
+    [2, "Embrace of light", "RAISE A SUILEN", "0"],
     [3, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
-    [4, "EXIST -instrumental-", "RAISE A SUILEN", ""],
-    [5, "Embrace of light -instrumental-", "RAISE A SUILEN", ""],
+    [4, "EXIST -instrumental-", "RAISE A SUILEN", "0"],
+    [5, "Embrace of light -instrumental-", "RAISE A SUILEN", "0"],
     [6, "OUTSIDER RODEO -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f20cd3d5-2a9e-410d-b469-5082a4cd9751", "https://vgmdb.net/album/108839"]
@@ -7257,19 +7257,19 @@ catalognumber = "BRMM-10372"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN [生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
-    [2, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
+    [2, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [3, "ヒトリノ夜", "RAISE A SUILEN", ""],
     [4, "1/3 の純情な感情", "RAISE A SUILEN", "0"],
     [5, "激動", "RAISE A SUILEN", ""],
-    [6, "EXPOSE ʻBurn out!!!ʼ", "RAISE A SUILEN", ""],
-    [7, "DEPARTURES", "RAISE A SUILEN", ""],
+    [6, "EXPOSE ʻBurn out!!!ʼ", "RAISE A SUILEN", "0"],
+    [7, "DEPARTURES", "RAISE A SUILEN", "0"],
     [8, "Takin’ my Heart", "RAISE A SUILEN", ""],
-    [9, "Invincible Fighter", "RAISE A SUILEN", ""],
+    [9, "Invincible Fighter", "RAISE A SUILEN", "0"],
     [10, "UNSTOPPABLE", "RAISE A SUILEN", ""],
-    [11, "HELL! or HELL?", "RAISE A SUILEN", ""],
+    [11, "HELL! or HELL?", "RAISE A SUILEN", "0"],
     [12, "SOUL SOLDIER", "RAISE A SUILEN", ""],
-    [13, "DRIVE US CRAZY", "RAISE A SUILEN", ""],
+    [13, "DRIVE US CRAZY", "RAISE A SUILEN", "0"],
     [14, "R・I・O・T", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f20cd3d5-2a9e-410d-b469-5082a4cd9751", "https://vgmdb.net/album/108839"]
@@ -7279,9 +7279,9 @@ catalognumber = "BRMM-10242"
 date = "2020-03-11"
 album = "Easy come, Easy go! / Afterglow"
 tracks = [
-    [1, "Easy come, Easy go！", "Afterglow", ""],
+    [1, "Easy come, Easy go！", "Afterglow", "1"],
     [2, "いつも通りのBrand new days", "Afterglow", ""],
-    [3, "Easy come, Easy go！ -instrumental-", "Afterglow", ""],
+    [3, "Easy come, Easy go！ -instrumental-", "Afterglow", "0"],
     [4, "いつも通りのBrand new days -instrumental-", "Afterglow", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/94716a0a-17e4-4ad1-89df-6caef873d442", "https://vgmdb.net/album/92043"]
@@ -7296,12 +7296,12 @@ tracks = [
     [3, "命に嫌われている。", "Afterglow", ""],
     [4, "午夜の待ち合わせ", "Afterglow", ""],
     [5, "惑星ループ", "Pastel＊Palettes×パレオ", ""],
-    [6, "Make it!", "Pastel＊Palettes", ""],
+    [6, "Make it!", "Pastel＊Palettes", "0"],
     [7, "新時代", "Roselia", ""],
     [8, "Red fraction", "Roselia", ""],
     [9, "ダーリンダンス", "ハロー、ハッピーワールド！", ""],
     [10, "ようこそジャパリパークへ", "ハロー、ハッピーワールド！", ""],
-    [11, "ALIVE", "Morfonica", ""],
+    [11, "ALIVE", "Morfonica", "0"],
     [12, "Nameless Story", "Morfonica", ""],
     [13, "神っぽいな", "RAISE A SUILEN", ""],
     [14, "狂乱 Hey Kids!!", "RAISE A SUILEN", ""],
@@ -7313,10 +7313,10 @@ catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 2"
 tracks = [
-    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", ""],
-    [2, "DAYS of DASH", "Poppin'Party", ""],
-    [3, "COLORS", "Afterglow×FLOW", ""],
-    [4, "COLORS", "Afterglow", ""],
+    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", "0"],
+    [2, "DAYS of DASH", "Poppin'Party", "0"],
+    [3, "COLORS", "Afterglow×FLOW", "0"],
+    [4, "COLORS", "Afterglow", "0"],
     [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", ""],
     [6, "ヒトリゴト", "Pastel＊Palettes", ""],
     [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", ""],
@@ -7349,7 +7349,7 @@ catalognumber = "BRMM-10619"
 date = "2023-03-15"
 album = "QUINTET / Morfonica [Blu-ray付生産限定盤] Vocal"
 tracks = [
-    [1, "Daylight -デイライト-", "Morfonica", ""],
+    [1, "Daylight -デイライト-", "Morfonica", "0"],
     [2, "メランコリックララバイ", "Morfonica", ""],
     [3, "flame of hope", "Morfonica", ""],
     [4, "ブルームブルーム", "Morfonica", ""],
@@ -7361,7 +7361,7 @@ tracks = [
     [10, "Sweet Cheers!", "Morfonica", ""],
     [11, "寄る辺のSunny, Sunny", "Morfonica", ""],
     [12, "誓いのWingbeat", "Morfonica", ""],
-    [13, "Ever Sky Blue", "Morfonica", ""],
+    [13, "Ever Sky Blue", "Morfonica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1b534ed0-62d1-417c-9652-bf48754ce250", "https://vgmdb.net/album/125605"]
 
@@ -7405,7 +7405,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81507"]
 
@@ -7415,9 +7415,9 @@ date = "2023-05-31"
 album = "青春 To Be Continued / Poppin'Party [生産限定盤] Vocal"
 tracks = [
     [1, "青春 To Be Continued", "Poppin'Party", ""],
-    [2, "Future Place", "Poppin'Party", ""],
+    [2, "Future Place", "Poppin'Party", "0"],
     [3, "大好き！", "Poppin'Party", ""],
-    [4, "Five Letters", "Poppin'Party", ""],
+    [4, "Five Letters", "Poppin'Party", "0"],
     [5, "最強☆ソング", "Poppin'Party", ""],
     [6, "RiNG A BELL", "Poppin'Party", ""],
 ]
@@ -7441,7 +7441,7 @@ tracks = [
     [11, "デイドリーム・アドベンチャー④", "Poppin'Party", ""],
     [12, "What’s the POPIPA!?", "Poppin'Party", ""],
     [13, "開けたらDream!", "Poppin'Party", ""],
-    [14, "Hello! Wink!", "Poppin'Party", ""],
+    [14, "Hello! Wink!", "Poppin'Party", "0"],
     [15, "デイドリーム・アドベンチャー⑤", "Poppin'Party", ""],
     [16, "前ヘススメ！", "Poppin'Party", ""],
     [17, "STAR BEAT!〜ホシノコドウ〜", "Poppin'Party", ""],
@@ -7468,11 +7468,11 @@ date = "2023-02-28"
 album = "BanG Dream! AI Singing Synthesizer 夢ノ結唱 No.02 ROSE 特典CD"
 tracks = [
     [1, "キズナミュージック♪", "サクマリョウ, ARiN feat. ROSE", ""],
-    [2, "Hey-day狂騒曲(カプリチオ)", "ARiN, サクマリョウ feat. ROSE", ""],
+    [2, "Hey-day狂騒曲(カプリチオ)", "ARiN, サクマリョウ feat. ROSE", "0"],
     [3, "もういちど ルミナス", "サクマリョウ, ARiN feat. ROSE", ""],
-    [4, "LOUDER", "サクマリョウ, ARiN feat. ROSE", ""],
+    [4, "LOUDER", "サクマリョウ, ARiN feat. ROSE", "0"],
     [5, "R·I·O·T", "サクマリョウ, ARiN feat. ROSE", ""],
-    [6, "Daylight -デイライト-", "サクマリョウ feat. ROSE", ""],
+    [6, "Daylight -デイライト-", "サクマリョウ feat. ROSE", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6847305b-c7f6-4e08-8d15-b465e6af0cc9", "https://vgmdb.net/album/124705"]
 
@@ -7493,9 +7493,9 @@ date = "2023-05-31"
 album = "青春 To Be Continued / Poppin'Party"
 tracks = [
     [1, "青春 To Be Continued", "Poppin'Party", ""],
-    [2, "Future Place", "Poppin'Party", ""],
+    [2, "Future Place", "Poppin'Party", "0"],
     [3, "大好き！", "Poppin'Party", ""],
-    [4, "Five Letters", "Poppin'Party", ""],
+    [4, "Five Letters", "Poppin'Party", "1"],
     [5, "最強☆ソング", "Poppin'Party", ""],
     [6, "RiNG A BELL", "Poppin'Party", ""],
 ]
@@ -7544,7 +7544,7 @@ tracks = [
     [3, "猛独が襲う", "MyGO!!!!!", ""],
     [4, "暗黒天国", "Ave Mujica", ""],
     [5, "堕天", "Ave Mujica", ""],
-    [6, "KINGS", "Ave Mujica", ""],
+    [6, "KINGS", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b5e04c28-39a9-4ad9-85a8-053d7cecfee7", "https://vgmdb.net/album/139902"]
 
@@ -7556,9 +7556,9 @@ tracks = [
     [1, "影色舞", "MyGO!!!!!", ""],
     [2, "碧天伴走", "MyGO!!!!!", ""],
     [3, "壱雫空", "MyGO!!!!!", ""],
-    [4, "Ave Mujica", "Ave Mujica", ""],
+    [4, "Ave Mujica", "Ave Mujica", "0"],
     [5, "神さま、バカ", "Ave Mujica", ""],
-    [6, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
+    [6, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b5e04c28-39a9-4ad9-85a8-053d7cecfee7", "https://vgmdb.net/album/139902"]
 
@@ -7599,10 +7599,10 @@ catalognumber = "BRMM-10722"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [PAREO Ver.]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/b25e6bc9-a0a5-4b98-99f0-3c1ded4769b2", "https://vgmdb.net/album/134169"]
@@ -7624,10 +7624,10 @@ catalognumber = "BRMM-10110"
 date = "2018-03-21"
 album = "CiRCLING / Poppin'Party"
 tracks = [
-    [1, "CiRCLING", "Poppin'Party", ""],
-    [2, "Light Delight", "Poppin'Party", ""],
-    [3, "CiRCLING -instrumental-", "Poppin'Party", ""],
-    [4, "Light Delight -instrumental-", "Poppin'Party", ""],
+    [1, "CiRCLING", "Poppin'Party", "1"],
+    [2, "Light Delight", "Poppin'Party", "1"],
+    [3, "CiRCLING -instrumental-", "Poppin'Party", "0"],
+    [4, "Light Delight -instrumental-", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/aa4f6e4d-39f0-4f9d-ba60-27ca75b02ef0", "https://vgmdb.net/album/74133"]
 
@@ -7637,10 +7637,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/13066cdc-6801-45dc-87d6-ef280b80855c", "https://vgmdb.net/album/136202"]
@@ -7650,12 +7650,12 @@ catalognumber = "BRMM-10730"
 date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
-    [1, "BLACK SHOUT", "Roselia", ""],
+    [1, "BLACK SHOUT", "Roselia", "0"],
     [2, "R", "Roselia", ""],
     [3, "THRONE OF ROSE", "Roselia", ""],
     [4, "ROZEN HORIZON", "Roselia", ""],
     [5, "“UNIONS” Road", "Roselia", ""],
-    [6, "FIRE BIRD", "Roselia", ""],
+    [6, "FIRE BIRD", "Roselia", "0"],
     [7, "Neo‐Aspect", "Roselia", ""],
     [8, "メドレー Opera of the wasteland / Determination Symphony / Ringing Bloom / 陽だまりロードナイト / Song I am.", "Roselia", ""],
     [9, "Re:birth day", "Roselia", ""],
@@ -7670,12 +7670,12 @@ catalognumber = "BRMM-10730"
 date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "BLACK SHOUT", "Roselia", ""],
+    [1, "BLACK SHOUT", "Roselia", "0"],
     [2, "ROZEN HORIZON", "Roselia", ""],
     [3, "ONENESS", "Roselia", ""],
     [4, "R", "Roselia", ""],
     [5, "ZEAL of proud", "Roselia", ""],
-    [6, "FIRE BIRD", "Roselia", ""],
+    [6, "FIRE BIRD", "Roselia", "0"],
     [7, "一逢のFull Glory", "Roselia", ""],
     [8, "メドレー Opera of the wasteland / Determination Symphony / Ringing Bloom / 陽だまりロードナイト / Song I am.", "Roselia", ""],
     [9, "Sprechchor", "Roselia", ""],
@@ -7692,7 +7692,7 @@ date = "2023-12-06"
 album = "forte / Morfonica [桐ヶ谷透子Ver.]"
 tracks = [
     [1, "フレージングミラージュ", "", ""],
-    [2, "MUGEN Reverberate!", "", ""],
+    [2, "MUGEN Reverberate!", "", "0"],
     [3, "わたしまちがいさがし", "", ""],
     [4, "esora no clover", "", ""],
     [5, "きょうもMerry go rounD", "", ""],
@@ -7765,14 +7765,14 @@ album = "Polyphony / Morfonica"
 tracks = [
     [1, "Polyphonyscape", "Morfonica", ""],
     [2, "Wreath of Brave", "Morfonica", ""],
-    [3, "Merry Merry Thanks!!", "Morfonica", ""],
+    [3, "Merry Merry Thanks!!", "Morfonica", "0"],
     [4, "Sonorous", "Morfonica", ""],
     [5, "両翼のBrilliance", "Morfonica", ""],
     [6, "Steer to Utopia", "Morfonica", ""],
-    [7, "Fateful...", "Morfonica", ""],
+    [7, "Fateful...", "Morfonica", "0"],
     [8, "ティリカモニカリラ", "Morfonica", ""],
     [9, "Secret Dawn", "Morfonica", ""],
-    [10, "Angel’s Ladder", "Morfonica", ""],
+    [10, "Angel’s Ladder", "Morfonica", "0"],
     [11, "One step at a time", "Morfonica", ""],
     [12, "Tempest", "Morfonica", ""],
 ]
@@ -7836,8 +7836,8 @@ tracks = [
     [1, "Time Lapse", "Poppin'Party", ""],
     [2, "八月のif", "Poppin'Party", ""],
     [3, "クリスマスのうた", "Poppin'Party", ""],
-    [4, "B.O.F", "Poppin'Party", ""],
-    [5, "CiRCLING", "Poppin'Party", ""],
+    [4, "B.O.F", "Poppin'Party", "0"],
+    [5, "CiRCLING", "Poppin'Party", "0"],
     [6, "二重の虹(ダブル レインボウ)", "Poppin'Party", ""],
     [7, "最高(さあ行こう)！", "Poppin'Party", ""],
     [8, "ガールズコード", "Poppin'Party", ""],
@@ -7856,8 +7856,8 @@ tracks = [
     [2, "名無声", "MyGO!!!!!", ""],
     [3, "迷星叫 -instrumental-", "MyGO!!!!!", ""],
     [4, "名無声 -instrumental-", "MyGO!!!!!", ""],
-    [5, "1st LIVE「僕たちはここで叫ぶ」アフタートーク", "MyGO!!!!!", ""],
-    [6, "2nd LIVE「そのままを抱きしめて」アフタートーク", "MyGO!!!!!", ""],
+    [5, "1st LIVE「僕たちはここで叫ぶ」アフタートーク", "MyGO!!!!!", "0"],
+    [6, "2nd LIVE「そのままを抱きしめて」アフタートーク", "MyGO!!!!!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/23fba786-a103-4852-a1f3-18a7e5e98e7f", "https://vgmdb.net/album/122456"]
 
@@ -7879,20 +7879,20 @@ catalognumber = ""
 date = "2022-01-15"
 album = "Roselia Instrumental Collection 1 Disc 1"
 tracks = [
-    [1, "BLACK SHOUT -instrumental-", "", ""],
-    [2, "LOUDER -instrumental-", "", ""],
+    [1, "BLACK SHOUT -instrumental-", "", "0"],
+    [2, "LOUDER -instrumental-", "", "0"],
     [3, "Re:birth day -instrumental-", "", ""],
     [4, "陽だまりロードナイト -instrumental-", "", ""],
     [5, "熱色スターマイン -instrumental-", "", ""],
     [6, "-HEROIC ADVENT- -instrumental-", "", "0"],
     [7, "ONENESS -instrumental-", "", ""],
-    [8, "Determination Symphony -instrumental-", "", ""],
+    [8, "Determination Symphony -instrumental-", "", "0"],
     [9, "Opera of the wasteland -instrumental-", "", ""],
     [10, "軌跡 -instrumental-", "", ""],
     [11, "Neo-Aspect -instrumental-", "", ""],
-    [12, "Legendary -instrumental-", "", ""],
+    [12, "Legendary -instrumental-", "", "0"],
     [13, "R -instrumental-", "", ""],
-    [14, "BRAVE JEWEL -instrumental-", "", ""],
+    [14, "BRAVE JEWEL -instrumental-", "", "0"],
     [15, "Sanctuary -instrumental-", "", ""],
     [16, "Safe and Sound -instrumental-", "", ""],
     [17, "PASSIONATE ANTHEM -instrumental-", "", ""],
@@ -7904,15 +7904,15 @@ catalognumber = ""
 date = "2022-01-15"
 album = "Roselia Instrumental Collection 1 Disc 2"
 tracks = [
-    [1, "FIRE BIRD -instrumental-", "", ""],
+    [1, "FIRE BIRD -instrumental-", "", "0"],
     [2, "Ringing Bloom -instrumental-", "", ""],
     [3, "約束 -instrumental-", "", ""],
     [4, "\"UNIONS\" Road -instrumental-", "", "0"],
-    [5, "Avant-garde HISTORY -instrumental-", "", ""],
-    [6, "Break your desire -instrumental-", "", ""],
+    [5, "Avant-garde HISTORY -instrumental-", "", "0"],
+    [6, "Break your desire -instrumental-", "", "0"],
     [7, "Song I am. -instrumental-", "", ""],
     [8, "ZEAL of proud -instrumental-", "", ""],
-    [9, "Blessing Chord -instrumental-", "", ""],
+    [9, "Blessing Chord -instrumental-", "", "0"],
     [10, "Proud of oneself -instrumental-", "", ""],
     [11, "overtuRe -instrumental-", "", ""],
     [12, "Sing Alive -instrumental-", "", ""],
@@ -7938,10 +7938,10 @@ catalognumber = "BRMM-10169"
 date = "2019-02-20"
 album = "A DECLARATION OF ××× / RAISE A SUILEN"
 tracks = [
-    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
-    [2, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
-    [3, "A DECLARATION OF ××× -instrumental-", "RAISE A SUILEN", ""],
-    [4, "EXPOSE ‘Burn out!!!’ -instrumental-", "RAISE A SUILEN", ""],
+    [1, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
+    [2, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
+    [3, "A DECLARATION OF ××× -instrumental-", "RAISE A SUILEN", "0"],
+    [4, "EXPOSE ‘Burn out!!!’ -instrumental-", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/048fc2f2-e1ee-4721-a953-2452cc74023a", "https://vgmdb.net/album/82745"]
 
@@ -7969,7 +7969,7 @@ tracks = [
     [1, "Tomorrow's Door", "", ""],
     [2, "イントロダクション", "", ""],
     [3, "TARINAI", "", ""],
-    [4, "DOKI DOKI SCARY", "", ""],
+    [4, "DOKI DOKI SCARY", "", "0"],
     [5, "Photograph", "", ""],
     [6, "夏に閉じこめて", "", ""],
     [7, "ぽっぴん’どりーむ!", "", ""],
@@ -7990,7 +7990,7 @@ tracks = [
     [2, "ときめきエクスペリエンス!", "", ""],
     [3, "青春 To Be Continued", "", ""],
     [4, "What's the POPIPA!?", "", ""],
-    [5, "Home Street", "", ""],
+    [5, "Home Street", "", "0"],
     [6, "キズナミュージック♪", "", ""],
     [7, "星の約束", "", ""],
     [8, "怪獣の花唄", "", ""],
@@ -8030,12 +8030,12 @@ catalognumber = "BRMM-10537"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
-    [1, "BLACK SHOUT", "", ""],
-    [2, "Determination Symphony", "", ""],
+    [1, "BLACK SHOUT", "", "0"],
+    [2, "Determination Symphony", "", "0"],
     [3, "陽だまりロードナイト", "", ""],
     [4, "Ringing Bloom", "", ""],
     [5, "熱色スターマイン", "", ""],
-    [6, "FIRE BIRD", "", ""],
+    [6, "FIRE BIRD", "", "0"],
     [7, "幕間映像I", "", ""],
     [8, "Opera of the wasteland", "", ""],
     [9, "軌跡", "", ""],
@@ -8046,7 +8046,7 @@ tracks = [
     [14, "\"UNIONS\" Road", "", ""],
     [15, "幕間映像II", "", ""],
     [16, "Sprechchor", "", ""],
-    [17, "BRAVE JEWEL", "", ""],
+    [17, "BRAVE JEWEL", "", "0"],
 ]
 links = ["https://vgmdb.net/album/118734"]
 
@@ -8055,12 +8055,12 @@ catalognumber = "BRMM-10537"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "BRAVE JEWEL", "", ""],
-    [2, "Determination Symphony", "", ""],
+    [1, "BRAVE JEWEL", "", "0"],
+    [2, "Determination Symphony", "", "0"],
     [3, "陽だまりロードナイト", "", ""],
     [4, "Ringing Bloom", "", ""],
     [5, "Re:birth day", "", ""],
-    [6, "FIRE BIRD", "", ""],
+    [6, "FIRE BIRD", "", "0"],
     [7, "幕間映像I", "", ""],
     [8, "\"UNIONS\" Road", "", ""],
     [9, "Neo-Aspect", "", ""],
@@ -8070,7 +8070,7 @@ tracks = [
     [13, "Sprechchor", "", ""],
     [14, "Opera of the wasteland", "", ""],
     [15, "幕間映像II", "", ""],
-    [16, "BLACK SHOUT", "", ""],
+    [16, "BLACK SHOUT", "", "0"],
     [17, "Song I am.", "", ""],
     [18, "「ROSEN HORIZON」アーティストMV", "", ""],
 ]
@@ -8085,7 +8085,7 @@ tracks = [
     [2, "Returns", "Poppin'Party", ""],
     [3, "イニシャル", "Poppin'Party", ""],
     [4, "Y.O.L.O！！！！！", "Afterglow", ""],
-    [5, "Hey‐day狂騒曲(カプリチオ)", "Afterglow", ""],
+    [5, "Hey‐day狂騒曲(カプリチオ)", "Afterglow", "0"],
     [6, "Sasanqua", "Afterglow", ""],
     [7, "天下トーイツA to Z☆", "Pastel＊Palettes", ""],
     [8, "もういちど ルミナス", "Pastel＊Palettes", ""],
@@ -8093,7 +8093,7 @@ tracks = [
     [10, "クインティプル☆すまいる", "香澄×蘭×彩×友希那×こころ", ""],
     [11, "TWiNKLE CiRCLE", "香澄×蘭×彩×友希那×こころ", ""],
     [12, "夢を撃ち抜く瞬間に！(3rd Season #13 Full Ver.)", "Poppin'Party×Roselia×RAISE A SUILEN", ""],
-    [13, "CiRCLE THANKS MUSiC♪", "Poppin'Party×Afterglow×Pastel＊Palettes×Roselia×ハロー、ハッピーワールド！×Morfonica×RAISE A SUILEN", ""],
+    [13, "CiRCLE THANKS MUSiC♪", "Poppin'Party×Afterglow×Pastel＊Palettes×Roselia×ハロー、ハッピーワールド！×Morfonica×RAISE A SUILEN", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/3c481ceb-4779-42af-83b3-f8deb46d013f", "https://vgmdb.net/album/116479"]
 
@@ -8102,18 +8102,18 @@ catalognumber = "BRMM-10513"
 date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best Disc 2"
 tracks = [
-    [1, "FIRE BIRD", "Roselia", ""],
+    [1, "FIRE BIRD", "Roselia", "0"],
     [2, "R", "Roselia", ""],
     [3, "Ringing Bloom", "Roselia", ""],
     [4, "ゴーカ！ごーかい！？ファントムシーフ！", "ハロー、ハッピーワールド！", ""],
     [5, "うぃーきゃん☆フレフレっ！", "ハロー、ハッピーワールド！", ""],
     [6, "キミがいなくちゃっ！", "ハロー、ハッピーワールド！", ""],
-    [7, "Daylight -デイライト-", "Morfonica", ""],
+    [7, "Daylight -デイライト-", "Morfonica", "0"],
     [8, "flame of hope", "Morfonica", ""],
     [9, "ブルームブルーム", "Morfonica", ""],
-    [10, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", ""],
-    [11, "Beautiful Birthday", "RAISE A SUILEN", ""],
-    [12, "HELL! or HELL?", "RAISE A SUILEN", ""],
+    [10, "EXPOSE ‘Burn out!!!’", "RAISE A SUILEN", "0"],
+    [11, "Beautiful Birthday", "RAISE A SUILEN", "0"],
+    [12, "HELL! or HELL?", "RAISE A SUILEN", "0"],
     [13, "ひとりじゃないんだから", "彩×モカ×リサ×花音×つぐみ", ""],
     [14, "CATASTROPHE BANQUET", "レイヤ×紗夜×沙綾×ミッシェル×瑠唯", ""],
 ]
@@ -8179,9 +8179,9 @@ catalognumber = "BRMM-10191"
 date = "2019-05-15"
 album = "Dreamers Go!/Returns / Poppin'Party"
 tracks = [
-    [1, "Dreamers Go!", "Poppin'Party", ""],
+    [1, "Dreamers Go!", "Poppin'Party", "1"],
     [2, "Returns", "Poppin'Party", ""],
-    [3, "Dreamers Go! -instrumental-", "Poppin'Party", ""],
+    [3, "Dreamers Go! -instrumental-", "Poppin'Party", "0"],
     [4, "Returns -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e3118f4c-20a4-4b17-a2d0-3077feb36a30", "https://vgmdb.net/album/85168"]
@@ -8244,10 +8244,10 @@ album = "Alea jacta est / Ave Mujica [Blu-ray付生産限定盤] Disc 1 (CD)"
 tracks = [
     [1, "黒のバースデイ", "Ave Mujica", ""],
     [2, "ふたつの月 ~Deep Into The Forest~", "Ave Mujica", ""],
-    [3, "Choir ‘S’ Choir", "Ave Mujica", ""],
+    [3, "Choir ‘S’ Choir", "Ave Mujica", "0"],
     [4, "神さま、バカ", "Ave Mujica", ""],
-    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
-    [6, "Ave Mujica", "Ave Mujica", ""],
+    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
+    [6, "Ave Mujica", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5db507dc-b724-4bd3-8f6c-f241e3dea557", "https://vgmdb.net/album/133994"]
 
@@ -8257,21 +8257,21 @@ date = "2023-09-13"
 album = "Alea jacta est / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
 tracks = [
     [1, "黒のバースデイ (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
-    [2, "KINGS (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
+    [2, "KINGS (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", "0"],
     [3, "ふたつの月 ～Deep Into The Forest～ (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
     [4, "暗黒天国 (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
-    [5, "Determination Symphony (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
-    [6, "Choir 'S' Choir (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
+    [5, "Determination Symphony (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", "0"],
+    [6, "Choir 'S' Choir (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", "0"],
     [7, "堕天 (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
     [8, "神さま、バカ (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
     [9, "PASSIONATE ANTHEM (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
-    [10, "Mas?uerade Rhapsody Re?uest (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
-    [11, "Ave Mujica (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", ""],
+    [10, "Mas?uerade Rhapsody Re?uest (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", "0"],
+    [11, "Ave Mujica (Ave Mujica 0th LIVE 「Primo die in scaena」) (ライブ映像)", "", "0"],
     [12, "黒のバースデイ (ミュージックビデオ)", "", ""],
     [13, "ふたつの月 ～Deep Into The Forest～ (ミュージックビデオ)", "", ""],
-    [14, "Choir 'S' Choir (ミュージックビデオ)", "", ""],
+    [14, "Choir 'S' Choir (ミュージックビデオ)", "", "0"],
     [15, "神さま、バカ (ミュージックビデオ)", "", ""],
-    [16, "Mas?uerade Rhapsody Re?uest (ミュージックビデオ)", "", ""],
+    [16, "Mas?uerade Rhapsody Re?uest (ミュージックビデオ)", "", "0"],
     [17, "ホントウノワタシ -再生- (ストーリームービー)", "", ""],
     [18, "マヨイコンダモリ -探索- (ストーリームービー)", "", ""],
 ]
@@ -8283,9 +8283,9 @@ date = "2021-01-20"
 album = "ZEAL of proud / Roselia [生産限定盤] Vocal"
 tracks = [
     [1, "ZEAL of proud", "Roselia", ""],
-    [2, "Blessing Chord", "Roselia", ""],
+    [2, "Blessing Chord", "Roselia", "0"],
     [3, "ZEAL of proud -instrumental-", "Roselia", ""],
-    [4, "Blessing Chord -instrumental-", "Roselia", ""],
+    [4, "Blessing Chord -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9f8ff39b-2619-4fd5-8f84-51adab5711ed", "https://vgmdb.net/album/104757"]
 
@@ -8294,23 +8294,23 @@ catalognumber = "BRMM-10328"
 date = "2021-01-20"
 album = "ZEAL of proud / Roselia [生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "BLACK SHOUT", "", ""],
+    [1, "BLACK SHOUT", "", "0"],
     [2, "R", "", ""],
     [3, "Neo-Aspect", "", ""],
     [4, "Ringing Bloom", "", ""],
     [5, "Re:birth day", "", ""],
-    [6, "BRAVE JEWEL", "", ""],
-    [7, "Determination Symphony", "", ""],
+    [6, "BRAVE JEWEL", "", "0"],
+    [7, "Determination Symphony", "", "0"],
     [8, "ONENESS", "", ""],
     [9, "幕間映像 I", "", ""],
-    [10, "Legendary", "", ""],
+    [10, "Legendary", "", "0"],
     [11, "Shangri-La", "", ""],
     [12, "PASSIONATE ANTHEM", "", ""],
     [13, "熱色スターマイン", "", ""],
-    [14, "FIRE BIRD", "", ""],
+    [14, "FIRE BIRD", "", "0"],
     [15, "幕間映像 II", "", ""],
     [16, "約束", "", ""],
-    [17, "LOUDER", "", ""],
+    [17, "LOUDER", "", "0"],
 ]
 links = ["https://vgmdb.net/album/104757"]
 
@@ -8351,8 +8351,8 @@ tracks = [
     [8, "のほほん", "Poppin'Party", ""],
     [9, "トロピカル", "Poppin'Party", ""],
     [10, "レッツ作戦会議", "Poppin'Party", ""],
-    [11, "Enjoy!", "Poppin'Party", ""],
-    [12, "It’s time to wake up", "Poppin'Party", ""],
+    [11, "Enjoy!", "Poppin'Party", "0"],
+    [12, "It’s time to wake up", "Poppin'Party", "0"],
     [13, "ほっと一安心", "Poppin'Party", ""],
     [14, "What we need", "Poppin'Party", ""],
     [15, "美しい景色", "Poppin'Party", ""],
@@ -8373,12 +8373,12 @@ album = "夏に閉じこめて / Poppin'Party [Blu-ray付生産限定盤] Vocal,
 tracks = [
     [1, "キズナミュージック♪", "Poppin'Party", ""],
     [2, "Moonlight Walk", "Poppin'Party", ""],
-    [3, "Hello! Wink!", "Poppin'Party", ""],
+    [3, "Hello! Wink!", "Poppin'Party", "0"],
     [4, "Neo-Aspect", "Poppin'Party", ""],
     [5, "Returns", "Poppin'Party", ""],
     [6, "ガールズコード", "Poppin'Party", ""],
-    [7, "Home Street", "Poppin'Party", ""],
-    [8, "Live Beyond!!", "Poppin'Party", ""],
+    [7, "Home Street", "Poppin'Party", "0"],
+    [8, "Live Beyond!!", "Poppin'Party", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1ee83f45-ba55-42e9-b092-b960317ecab0", "https://vgmdb.net/album/121259"]
 
@@ -8398,20 +8398,20 @@ album = "Afterglow Instrumental Collection 1"
 tracks = [
     [1, "That Is How I Roll! -instrumental-", "", ""],
     [2, "True color -instrumental-", "", ""],
-    [3, "Hey-day狂騒曲(カプリチオ) -instrumental-", "", ""],
+    [3, "Hey-day狂騒曲(カプリチオ) -instrumental-", "", "0"],
     [4, "Scarlet Sky -instrumental-", "", ""],
     [5, "ツナグ、ソラモヨウ -instrumental-", "", ""],
-    [6, "Jamboree! Journey! -instrumental-", "", ""],
+    [6, "Jamboree! Journey! -instrumental-", "", "0"],
     [7, "Y.O.L.O!!!!! -instrumental-", "", ""],
-    [8, "COMIC PANIC!!! -instrumental-", "", ""],
+    [8, "COMIC PANIC!!! -instrumental-", "", "0"],
     [9, "ON YOUR MARK -instrumental-", "", ""],
     [10, "ランブリングメモリー -instrumental-", "", ""],
-    [11, "Easy come, Easy go! -instrumental-", "", ""],
+    [11, "Easy come, Easy go! -instrumental-", "", "0"],
     [12, "いつも通りのBrand new days -instrumental-", "", ""],
     [13, "Sasanqua -instrumental-", "", ""],
-    [14, "I love your way! -instrumental-", "", ""],
+    [14, "I love your way! -instrumental-", "", "0"],
     [15, "SENSENFUKOKU -instrumental-", "", ""],
-    [16, "I knew it! -instrumental-", "", ""],
+    [16, "I knew it! -instrumental-", "", "0"],
     [17, "RED RED RED -instrumental-", "", ""],
     [18, "ONE OF US -instrumental-", "", ""],
 ]
@@ -8436,16 +8436,16 @@ date = "2024-10-02"
 album = "ELEMENTS / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
 tracks = [
     [1, "素晴らしき世界 でも どこにもない場所", "Ave Mujica", ""],
-    [2, "Ave Mujica", "Ave Mujica", ""],
-    [3, "Angles", "Ave Mujica", ""],
+    [2, "Ave Mujica", "Ave Mujica", "0"],
+    [3, "Angles", "Ave Mujica", "0"],
     [4, "暗黒天国", "Ave Mujica", ""],
-    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", ""],
+    [5, "Mas?uerade Rhapsody Re?uest", "Ave Mujica", "0"],
     [6, "神さま、バカ", "Ave Mujica", ""],
     [7, "Symbol I : △", "Ave Mujica", ""],
-    [8, "KINGS", "Ave Mujica", ""],
+    [8, "KINGS", "Ave Mujica", "0"],
     [9, "堕天", "Ave Mujica", ""],
     [10, "Symbol II : Air", "Ave Mujica", ""],
-    [11, "Choir ‘S’ Choir", "Ave Mujica", ""],
+    [11, "Choir ‘S’ Choir", "Ave Mujica", "0"],
     [12, "ふたつの月 ~Deep Into The Forest~", "Ave Mujica", ""],
     [13, "黒のバースデイ", "Ave Mujica", ""],
 ]
@@ -8507,7 +8507,7 @@ tracks = [
     [7, "IN MY WORLD Acoustic Ver.(カバー)", "", ""],
     [8, "裏切りの夕焼け Acoustic Ver.(カバー)", "", ""],
     [9, "REVOLUTION", "", ""],
-    [10, "CORE PRIDE(カバー)", "", ""],
+    [10, "CORE PRIDE(カバー)", "", "0"],
     [11, "GETTING HIGH", "", ""],
     [12, "LIAR", "", ""],
     [13, "SCATTER", "", ""],
@@ -8535,7 +8535,7 @@ tracks = [
     [1, "光るなら (game size ver.)", "", ""],
     [2, "READY STEADY GO (game size ver.)", "", ""],
     [3, "secret base～君がくれたもの～ (game size ver.)", "", ""],
-    [4, "ETERNAL BLAZE (game size ver.)", "", ""],
+    [4, "ETERNAL BLAZE (game size ver.)", "", "0"],
     [5, "いーあるふぁんくらぶ (game size ver.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/76097"]
@@ -8558,10 +8558,10 @@ tracks = [
     [1, "ON YOUR MARK", "Afterglow", ""],
     [2, "That is How I Roll!", "Afterglow", ""],
     [3, "SENSENFUKOKU", "Afterglow", ""],
-    [4, "I knew it!", "Afterglow", ""],
+    [4, "I knew it!", "Afterglow", "0"],
     [5, "ツナグ、ソラモヨウ", "Afterglow", ""],
-    [6, "Hey‐day狂騒曲(カプリチオ)", "Afterglow", ""],
-    [7, "Easy come, Easy go!", "Afterglow", ""],
+    [6, "Hey‐day狂騒曲(カプリチオ)", "Afterglow", "0"],
+    [7, "Easy come, Easy go!", "Afterglow", "0"],
     [8, "Sasanqua", "Afterglow", ""],
     [9, "RED RED RED", "Afterglow", ""],
     [10, "ONE OF US", "Afterglow", ""],
@@ -8585,9 +8585,9 @@ date = "2024-12-11"
 album = "礎の花冠 / Roselia"
 tracks = [
     [1, "礎の花冠", "Roselia", ""],
-    [2, "FRONTIER FANTASIA", "Roselia", ""],
+    [2, "FRONTIER FANTASIA", "Roselia", "0"],
     [3, "礎の花冠 –instrumental–", "Roselia", ""],
-    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", ""],
+    [4, "FRONTIER FANTASIA –instrumental–", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9145f0bc-bffc-42b2-ad4a-7be9c232be10", "https://vgmdb.net/album/145790"]
 
@@ -8596,9 +8596,9 @@ catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal"
 tracks = [
-    [1, "Bad Kids All Bet", "RAISE A SUILEN", ""],
+    [1, "Bad Kids All Bet", "RAISE A SUILEN", "0"],
     [2, "WELCOME TO PANDEMONIUM", "RAISE A SUILEN", ""],
-    [3, "Bad Kids All Bet -instrumental-", "RAISE A SUILEN", ""],
+    [3, "Bad Kids All Bet -instrumental-", "RAISE A SUILEN", "0"],
     [4, "WELCOME TO PANDEMONIUM -instrumental-", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
@@ -8608,21 +8608,21 @@ catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 2"
 tracks = [
-    [1, "BATTLE CRY", "RAISE A SUILEN", ""],
+    [1, "BATTLE CRY", "RAISE A SUILEN", "0"],
     [2, "Repaint", "RAISE A SUILEN", ""],
     [3, "UNSTOPPABLE", "RAISE A SUILEN", ""],
-    [4, "Beautiful Birthday", "RAISE A SUILEN", ""],
+    [4, "Beautiful Birthday", "RAISE A SUILEN", "0"],
     [5, "TWIN TALE", "RAISE A SUILEN", ""],
     [6, "mind of Prominence", "RAISE A SUILEN", ""],
-    [7, "Domination to world", "RAISE A SUILEN", ""],
+    [7, "Domination to world", "RAISE A SUILEN", "0"],
     [8, "REIGNING", "RAISE A SUILEN", ""],
     [9, "POLARIS", "RAISE A SUILEN", ""],
-    [10, "CORUSCATE –DNA–", "RAISE A SUILEN", ""],
+    [10, "CORUSCATE –DNA–", "RAISE A SUILEN", "0"],
     [11, "V.I.P MONSTER", "RAISE A SUILEN", ""],
     [12, "Sacred world", "RAISE A SUILEN", ""],
     [13, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
     [14, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
-    [15, "EXPOSE ’Burn out!!!’", "RAISE A SUILEN", ""],
+    [15, "EXPOSE ’Burn out!!!’", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
 
@@ -8631,21 +8631,21 @@ catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 3"
 tracks = [
-    [1, "BATTLE CRY", "RAISE A SUILEN", ""],
+    [1, "BATTLE CRY", "RAISE A SUILEN", "0"],
     [2, "Repaint", "RAISE A SUILEN", ""],
-    [3, "A DECLARATION OF ×××", "RAISE A SUILEN", ""],
-    [4, "Beautiful Birthday", "RAISE A SUILEN", ""],
+    [3, "A DECLARATION OF ×××", "RAISE A SUILEN", "0"],
+    [4, "Beautiful Birthday", "RAISE A SUILEN", "0"],
     [5, "TWIN TALE", "RAISE A SUILEN", ""],
     [6, "mind of Prominence", "RAISE A SUILEN", ""],
-    [7, "Domination to world", "RAISE A SUILEN", ""],
+    [7, "Domination to world", "RAISE A SUILEN", "0"],
     [8, "REIGNING", "RAISE A SUILEN", ""],
     [9, "POLARIS", "RAISE A SUILEN", ""],
-    [10, "CORUSCATE –DNA–", "RAISE A SUILEN", ""],
+    [10, "CORUSCATE –DNA–", "RAISE A SUILEN", "0"],
     [11, "V.I.P MONSTER", "RAISE A SUILEN", ""],
     [12, "Sacred world", "RAISE A SUILEN", ""],
     [13, "OUTSIDER RODEO", "RAISE A SUILEN", ""],
     [14, "灼熱 Bonfire!", "RAISE A SUILEN", ""],
-    [15, "HELL! or HELL?", "RAISE A SUILEN", ""],
+    [15, "HELL! or HELL?", "RAISE A SUILEN", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
 
@@ -8655,7 +8655,7 @@ date = "2023-02-22"
 album = "Voy☆☆☆ / FLOW [初回生産限定盤] Vocal"
 tracks = [
     [1, "Terminal 1", "FLOW", ""],
-    [2, "GOLD", "FLOW", ""],
+    [2, "GOLD", "FLOW", "0"],
     [3, "優勝", "FLOW feat.Afterglow", ""],
     [4, "Tick Tack", "FLOW", ""],
     [5, "Terminal 2", "FLOW", ""],
@@ -8704,16 +8704,16 @@ catalognumber = "BRMM-10254"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party"
 tracks = [
-    [1, "Breakthrough!", "Poppin'Party", ""],
+    [1, "Breakthrough!", "Poppin'Party", "1"],
     [2, "NO GIRL NO CRY/Poppin'Party Ver.", "Poppin'Party", ""],
     [3, "イニシャル", "Poppin'Party", ""],
-    [4, "Hello! Wink!", "Poppin'Party", ""],
+    [4, "Hello! Wink!", "Poppin'Party", "0"],
     [5, "Step×Step！", "Poppin'Party", ""],
-    [6, "Jumpin'", "Poppin'Party", ""],
+    [6, "Jumpin'", "Poppin'Party", "0"],
     [7, "White Afternoon", "Poppin'Party", ""],
     [8, "キラキラスター！", "Poppin'Party", ""],
     [9, "Returns", "Poppin'Party", ""],
-    [10, "Dreamers Go!", "Poppin'Party", ""],
+    [10, "Dreamers Go!", "Poppin'Party", "0"],
     [11, "キズナミュージック♪", "Poppin'Party", ""],
     [12, "ミライトレイン", "Poppin'Party", ""],
     [13, "夢を撃ち抜く瞬間に！", "Poppin'Party", ""],
@@ -8726,7 +8726,7 @@ date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN"
 tracks = [
     [1, "-N-E-M-E-S-I-S-", "RAISE A SUILEN", "0"],
-    [2, "EXPOSE ‘Burn out!!!’ (English Ver.)", "RAISE A SUILEN", ""],
+    [2, "EXPOSE ‘Burn out!!!’ (English Ver.)", "RAISE A SUILEN", "0"],
     [3, "Takin’ my Heart (English Ver.)", "RAISE A SUILEN", ""],
     [4, "-N-E-M-E-S-I-S- -instrumental-", "RAISE A SUILEN", "0"],
 ]
@@ -8799,10 +8799,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [湊友希那Ver.]"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8cdf3420-f9c4-4200-b36b-0525b2fd5eb6", "https://vgmdb.net/album/136197"]
@@ -8828,7 +8828,7 @@ album = "壱雫空 / MyGO!!!!! [Blu-ray付生産限定盤] Live Event, Video"
 tracks = [
     [1, "名無声", "", ""],
     [2, "猛独が襲う", "", ""],
-    [3, "Happy Happy Party!", "", ""],
+    [3, "Happy Happy Party!", "", "0"],
     [4, "swim", "", ""],
     [5, "影色舞", "", ""],
     [6, "二息歩行（Reloaded）", "", ""],
@@ -9010,7 +9010,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81506"]
 
@@ -9019,7 +9019,7 @@ catalognumber = "BRMM-10217"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Afterglow"
 tracks = [
-    [1, "Easy come, Easy go! (game size ver.)", "", ""],
+    [1, "Easy come, Easy go! (game size ver.)", "", "0"],
     [2, "ワクワクmeetsトリップ (game size ver.)", "", ""],
     [3, "にこ×にこ=ハイパースマイルパワー! (game size ver.)", "", ""],
 ]
@@ -9030,10 +9030,10 @@ catalognumber = "BRMM-10723"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [CHU² Ver.]"
 tracks = [
-    [1, "Apocalypse", "RAISE A SUILEN", ""],
+    [1, "Apocalypse", "RAISE A SUILEN", "0"],
     [2, "TWIN TALE", "RAISE A SUILEN", ""],
     [3, "STRAY CERBERUS", "RAISE A SUILEN", ""],
-    [4, "BERSER‐KEY", "RAISE A SUILEN", ""],
+    [4, "BERSER‐KEY", "RAISE A SUILEN", "0"],
     [5, "POLARIS", "RAISE A SUILEN", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/cf985e0a-4894-4eab-875c-a7de35d6d8d9", "https://vgmdb.net/album/134170"]
@@ -9044,15 +9044,15 @@ date = "2019-03-16"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.2"
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
-    [2, "DAYS", "Poppin'Party", ""],
+    [2, "DAYS", "Poppin'Party", "0"],
     [3, "Redo", "Afterglow", ""],
     [4, "ロストワンの号哭", "Afterglow", ""],
     [5, "ハッピーシンセサイザ", "Pastel＊Palettes", ""],
     [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
-    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
-    [10, "Dragon Night", "ハロー、ハッピーワールド！", ""],
+    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
+    [10, "Dragon Night", "ハロー、ハッピーワールド！", "0"],
     [11, "革命デュアリズム", "Roselia×蘭", ""],
     [12, "檄！帝国華撃団", "Poppin'Party×彩×こころ", ""],
 ]
@@ -9075,8 +9075,8 @@ tracks = [
     [10, "ぬいぐるみ劇場 (Radio ver.)", "藤田淳平", ""],
     [11, "焦燥", "藤間仁", ""],
     [12, "瓦解", "藤田淳平", ""],
-    [13, "Imprisoned XII -instrumental-", "Ave Mujica", ""],
-    [14, "Crucifix X -instrumental-", "Ave Mujica", ""],
+    [13, "Imprisoned XII -instrumental-", "Ave Mujica", "0"],
+    [14, "Crucifix X -instrumental-", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d219edfe-0b78-4d6d-bc32-3d4f16b7c9f0", "https://vgmdb.net/album/150136"]
 
@@ -9132,12 +9132,12 @@ tracks = [
     [3, "命に嫌われている。", "Afterglow", ""],
     [4, "午夜の待ち合わせ", "Afterglow", ""],
     [5, "惑星ループ", "Pastel＊Palettes×パレオ", ""],
-    [6, "Make it!", "Pastel＊Palettes", ""],
+    [6, "Make it!", "Pastel＊Palettes", "0"],
     [7, "新時代", "Roselia", ""],
     [8, "Red fraction", "Roselia", ""],
     [9, "ダーリンダンス", "ハロー、ハッピーワールド！", ""],
     [10, "ようこそジャパリパークへ", "ハロー、ハッピーワールド！", ""],
-    [11, "ALIVE", "Morfonica", ""],
+    [11, "ALIVE", "Morfonica", "0"],
     [12, "Nameless Story", "Morfonica", ""],
     [13, "神っぽいな", "RAISE A SUILEN", ""],
     [14, "狂乱 Hey Kids!!", "RAISE A SUILEN", ""],
@@ -9149,10 +9149,10 @@ catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 2"
 tracks = [
-    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", ""],
-    [2, "DAYS of DASH", "Poppin'Party", ""],
-    [3, "COLORS", "Afterglow×FLOW", ""],
-    [4, "COLORS", "Afterglow", ""],
+    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", "0"],
+    [2, "DAYS of DASH", "Poppin'Party", "0"],
+    [3, "COLORS", "Afterglow×FLOW", "0"],
+    [4, "COLORS", "Afterglow", "0"],
     [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", ""],
     [6, "ヒトリゴト", "Pastel＊Palettes", ""],
     [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", ""],
@@ -9189,9 +9189,9 @@ catalognumber = "BRMM-10159"
 date = "2019-02-20"
 album = "Jumpin' / Poppin'Party"
 tracks = [
-    [1, "Jumpin'", "Poppin'Party", ""],
+    [1, "Jumpin'", "Poppin'Party", "1"],
     [2, "What's the POPIPA!?", "Poppin'Party", ""],
-    [3, "Jumpin' -instrumental-", "Poppin'Party", ""],
+    [3, "Jumpin' -instrumental-", "Poppin'Party", "0"],
     [4, "What's the POPIPA!? -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/334f4719-6a68-4cc5-a482-e63fb0918777", "https://vgmdb.net/album/82735"]
@@ -9211,10 +9211,10 @@ date = "2023-12-13"
 album = "Violet Line / Roselia [宇田川あこVer.]"
 tracks = [
     [1, "VIOLET LINE", "Roselia", ""],
-    [2, "Call the shots", "Roselia", ""],
+    [2, "Call the shots", "Roselia", "0"],
     [3, "Sunlit Musical", "Roselia", ""],
     [4, "VIOLET LINE -instrumental-", "Roselia", ""],
-    [5, "Call the shots -instrumental-", "Roselia", ""],
+    [5, "Call the shots -instrumental-", "Roselia", "0"],
     [6, "Sunlit Musical -instrumental-", "Roselia", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/5c0d4609-e10e-458c-9aac-e6b07925ea54", "https://vgmdb.net/album/136200"]
@@ -9258,7 +9258,7 @@ catalognumber = "BRMM-10464"
 date = "2021-11-17"
 album = "ARGONAVIS Cover Collection -Mix-"
 tracks = [
-    [1, "GO!!!", "", ""],
+    [1, "GO!!!", "", "0"],
     [2, "READY STEADY GO", "", ""],
     [3, "スターライトパレード", "", ""],
     [4, "*〜アスタリスク〜", "", ""],
@@ -9279,7 +9279,7 @@ date = "2020-09-12"
 album = "IGNITION / GYROAXIA"
 tracks = [
     [1, "IGNITION", "", ""],
-    [2, "CORE PRIDE", "", ""],
+    [2, "CORE PRIDE", "", "0"],
     [3, "IN MY WORLD Acoustic Ver.", "", ""],
 ]
 links = ["https://vgmdb.net/album/103024"]
@@ -9326,7 +9326,7 @@ tracks = [
     [5, "secret base ～君がくれたもの～", "Pastel＊Palettes", ""],
     [6, "ふわふわ時間", "Pastel＊Palettes", ""],
     [7, "魂のルフラン", "Roselia", ""],
-    [8, "ETERNAL BLAZE", "Roselia", ""],
+    [8, "ETERNAL BLAZE", "Roselia", "0"],
     [9, "いーあるふぁんくらぶ", "ハロー、ハッピーワールド！", ""],
     [10, "ロメオ", "ハロー、ハッピーワールド！", ""],
 ]
@@ -9343,7 +9343,7 @@ tracks = [
     [4, "うちゃパ!で ぱっぴかポーんっ!", "ハロー、ハッピーワールド！", ""],
     [5, "はれやか すこやか ぴかりんりん♪", "ハロー、ハッピーワールド！", ""],
     [6, "ふわふわ☆ゆめいろサンドイッチ", "ハロー、ハッピーワールド！", ""],
-    [7, "Happy! Happier! Happiest!", "ハロー、ハッピーワールド！", ""],
+    [7, "Happy! Happier! Happiest!", "ハロー、ハッピーワールド！", "0"],
     [8, "現るっ!大怪盗ハロハッピー!", "ハロー、ハッピーワールド！", ""],
     [9, "わちゃ・もちゃ・ぺったん行進曲", "ハロー、ハッピーワールド！", ""],
     [10, "おもいでイルミネーション", "ハロー、ハッピーワールド！", ""],
@@ -9366,7 +9366,7 @@ tracks = [
     [6, "コレカラ", "ハロー、ハッピーワールド！", ""],
     [7, "全力少年", "ハロー、ハッピーワールド！", ""],
     [8, "オレンジ", "ハロー、ハッピーワールド！", ""],
-    [9, "Happy Girl", "ハロー、ハッピーワールド！", ""],
+    [9, "Happy Girl", "ハロー、ハッピーワールド！", "0"],
     [10, "ン・パカマーチ", "ハロー、ハッピーワールド！", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/629e3891-433e-4b9d-94d2-bd866f510611", "https://vgmdb.net/album/130740"]
@@ -9459,9 +9459,9 @@ catalognumber = "BRMM-10158"
 date = "2019-02-20"
 album = "Jumpin' / Poppin'Party [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "Jumpin'", "Poppin'Party", ""],
+    [1, "Jumpin'", "Poppin'Party", "0"],
     [2, "What's the POPIPA!?", "Poppin'Party", ""],
-    [3, "Jumpin' -instrumental-", "Poppin'Party", ""],
+    [3, "Jumpin' -instrumental-", "Poppin'Party", "0"],
     [4, "What's the POPIPA!? -instrumental-", "Poppin'Party", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f8984ec8-cebc-4ad8-b757-f2fe0133f331", "https://vgmdb.net/album/82736"]
@@ -9480,7 +9480,7 @@ catalognumber = "BRMM-10424"
 date = "2021-08-18"
 album = "Live Beyond!! / Poppin'Party [生産限定盤] Vocal"
 tracks = [
-    [1, "Live Beyond!!", "Poppin'Party", ""],
+    [1, "Live Beyond!!", "Poppin'Party", "0"],
     [2, "Sweets BAN!", "Poppin'Party", ""],
     [3, "キミが始まる!", "Poppin'Party", ""],
     [4, "Moonlight Walk", "Poppin'Party", ""],
@@ -9519,7 +9519,7 @@ tracks = [
     [3, "猛独が襲う", "MyGO!!!!!", ""],
     [4, "暗黒天国", "Ave Mujica", ""],
     [5, "堕天", "Ave Mujica", ""],
-    [6, "KINGS", "Ave Mujica", ""],
+    [6, "KINGS", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/387b3013-e77d-4d91-acb4-4f4d1185f7db", "https://vgmdb.net/album/139901"]
 
@@ -9529,9 +9529,9 @@ date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica [Blu-ray付生産限定盤] Disc 1 (CD)"
 tracks = [
     [1, "素晴らしき世界 でも どこにもない場所", "Ave Mujica", ""],
-    [2, "Angles", "Ave Mujica", ""],
+    [2, "Angles", "Ave Mujica", "0"],
     [3, "素晴らしき世界 でも どこにもない場所 -instrumental-", "Ave Mujica", ""],
-    [4, "Angles -instrumental-", "Ave Mujica", ""],
+    [4, "Angles -instrumental-", "Ave Mujica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f3f96945-c515-43c9-b139-29fe497f7dc1", "https://vgmdb.net/album/139641"]
 
@@ -9540,17 +9540,17 @@ catalognumber = "BRMM-10785"
 date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
 tracks = [
-    [1, "Ave Mujica", "", ""],
+    [1, "Ave Mujica", "", "0"],
     [2, "ふたつの月 ~Deep Into The Forest~", "", ""],
-    [3, "KINGS", "", ""],
+    [3, "KINGS", "", "0"],
     [4, "素晴らしき世界 でも どこにもない場所", "", ""],
     [5, "暗黒天国", "", ""],
-    [6, "Choir ‘S’ Choir", "", ""],
-    [7, "Mas?uerade Rhapsody Re?uest", "", ""],
+    [6, "Choir ‘S’ Choir", "", "0"],
+    [7, "Mas?uerade Rhapsody Re?uest", "", "0"],
     [8, "堕天", "", ""],
     [9, "神さま、バカ", "", ""],
     [10, "黒のバースデイ", "", ""],
-    [11, "Angles", "", ""],
+    [11, "Angles", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f3f96945-c515-43c9-b139-29fe497f7dc1", "https://vgmdb.net/album/139641"]
 
@@ -9573,10 +9573,10 @@ date = "2018-07-25"
 album = "R / Roselia"
 tracks = [
     [1, "R", "Roselia", ""],
-    [2, "BLACK SHOUT (リマスターver.)", "Roselia", ""],
+    [2, "BLACK SHOUT (リマスターver.)", "Roselia", "0"],
     [3, "Neo-Aspect (リマスターver.)", "Roselia", ""],
     [4, "R -instrumental-", "Roselia", ""],
-    [5, "BLACK SHOUT (リマスターver.) -instrumental-", "Roselia", ""],
+    [5, "BLACK SHOUT (リマスターver.) -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/08edd0cd-9014-4c34-81f5-0360e9b61bcd", "https://vgmdb.net/album/77949"]
 
@@ -9660,17 +9660,17 @@ date = "2024-06-26"
 album = "Für immer / Roselia"
 tracks = [
     [1, "Sage der Rosen", "Roselia", ""],
-    [2, "BLACK SHOUT", "Roselia", ""],
+    [2, "BLACK SHOUT", "Roselia", "0"],
     [3, "覚悟のLiberation", "Roselia", ""],
     [4, "—HEROIC ADVENT—", "Roselia", ""],
     [5, "陽だまりロードナイト", "Roselia", ""],
-    [6, "Keep Heart", "Roselia", ""],
+    [6, "Keep Heart", "Roselia", "0"],
     [7, "熱色スターマイン", "Roselia", ""],
     [8, "ONENESS", "Roselia", ""],
     [9, "Original Call", "Roselia", ""],
-    [10, "LOUDER", "Roselia", ""],
-    [11, "Always recall.", "Roselia", ""],
-    [12, "Floral Haven", "Roselia", ""],
+    [10, "LOUDER", "Roselia", "0"],
+    [11, "Always recall.", "Roselia", "1"],
+    [12, "Floral Haven", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8c3fad38-fe6c-4bda-a02b-84f8475ecbad", "https://vgmdb.net/album/139550"]
 
@@ -9680,9 +9680,9 @@ date = "2017-11-29"
 album = "ONENESS / Roselia"
 tracks = [
     [1, "ONENESS", "Roselia", ""],
-    [2, "Determination Symphony", "Roselia", ""],
+    [2, "Determination Symphony", "Roselia", "0"],
     [3, "ONENESS -instrumental-", "Roselia", ""],
-    [4, "Determination Symphony -instrumental-", "Roselia", ""],
+    [4, "Determination Symphony -instrumental-", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a73e6a09-663a-4617-947a-63143a5586e8", "https://vgmdb.net/album/72328"]
 
@@ -9781,7 +9781,7 @@ catalognumber = "BRMM-10215"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD ハロー、ハッピーワールド!"
 tracks = [
-    [1, "Easy come, Easy go! (game size ver.)", "Afterglow", ""],
+    [1, "Easy come, Easy go! (game size ver.)", "Afterglow", "0"],
     [2, "ワクワクmeetsトリップ (game size ver.)", "Pastel＊Palettes", ""],
     [3, "にこ×にこ＝ハイパースマイルパワー! (game size ver.)", "ハロー、ハッピーワールド！", ""],
 ]
@@ -9805,10 +9805,10 @@ date = "2019-12-18"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.3"
 tracks = [
     [1, "only my railgun", "Poppin'Party", ""],
-    [2, "Daydream café", "Poppin'Party", ""],
+    [2, "Daydream café", "Poppin'Party", "0"],
     [3, "瞬間センチメンタル", "Afterglow", ""],
     [4, "プライド革命", "Afterglow", ""],
-    [5, "Fantastic future", "Pastel＊Palettes", ""],
+    [5, "Fantastic future", "Pastel＊Palettes", "0"],
     [6, "奏 （かなで）", "Pastel＊Palettes", ""],
     [7, "残酷な天使のテーゼ", "Roselia", ""],
     [8, "This game", "Roselia", ""],
@@ -9825,10 +9825,10 @@ date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [今井リサVer.]"
 tracks = [
     [1, "THRONE OF ROSE", "", ""],
-    [2, "Dear Gleam", "", ""],
+    [2, "Dear Gleam", "", "0"],
     [3, "一逢のFull Glory", "", ""],
     [4, "THRONE OF ROSE -instrumental-", "", ""],
-    [5, "Dear Gleam -instrumental-", "", ""],
+    [5, "Dear Gleam -instrumental-", "", "0"],
     [6, "一逢のFull Glory -instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/129746"]
@@ -9861,10 +9861,10 @@ album = "ハーモニー・デイ / Morfonica [生産限定盤] Vocal"
 tracks = [
     [1, "ハーモニー・デイ", "Morfonica", ""],
     [2, "Sonorous", "Morfonica", ""],
-    [3, "Fateful...", "Morfonica", ""],
+    [3, "Fateful...", "Morfonica", "0"],
     [4, "ハーモニー・デイ –instrumental–", "Morfonica", ""],
     [5, "Sonorous –instrumental–", "Morfonica", ""],
-    [6, "Fateful... –instrumental–", "Morfonica", ""],
+    [6, "Fateful... –instrumental–", "Morfonica", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/572cc371-bcfa-4d79-b131-8cc80721ece1", "https://vgmdb.net/album/113450"]
 
@@ -9873,22 +9873,22 @@ catalognumber = "BRMM-10436"
 date = "2021-10-06"
 album = "ハーモニー・デイ / Morfonica [生産限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Daylight -デイライト-", "", ""],
+    [1, "Daylight -デイライト-", "", "0"],
     [2, "chAngE", "", ""],
     [3, "メリッサ", "", ""],
     [4, "金色へのプレリュード", "", ""],
     [5, "ブルームブルーム", "", ""],
-    [6, "Daylight -デイライト-", "", ""],
+    [6, "Daylight -デイライト-", "", "0"],
     [7, "chAngE", "", ""],
     [8, "月光花", "", ""],
     [9, "深海少女", "", ""],
     [10, "金色へのプレリュード", "", ""],
     [11, "ブルームブルーム", "", ""],
     [12, "Nevereverland", "", ""],
-    [13, "CQCQ", "", ""],
+    [13, "CQCQ", "", "0"],
     [14, "メリッサ", "", ""],
     [15, "flame of hope", "", ""],
-    [16, "Daylight -デイライト-", "", ""],
+    [16, "Daylight -デイライト-", "", "0"],
     [17, "ブルームブルーム", "", ""],
 ]
 links = ["https://vgmdb.net/album/113450"]
@@ -9933,10 +9933,10 @@ tracks = [
     [5, "Evolve Forward in Hazard", "", ""],
     [6, "Stray in Chaos", "", ""],
     [7, "Shape of Trust", "", ""],
-    [8, "Just Awake", "", ""],
+    [8, "Just Awake", "", "0"],
     [9, "Beyond the End", "", ""],
     [10, "Why Couldn't I Say The Last Goodbye to You?", "", ""],
-    [11, "Keep the Heat and Fire Yourself Up", "", ""],
+    [11, "Keep the Heat and Fire Yourself Up", "", "0"],
     [12, "Because You Are Here", "", ""],
     [13, "One Shot, One Mind", "", ""],
     [14, "My Dear Lady, Will You Dance With Me Tonight?", "", ""],
@@ -9985,7 +9985,7 @@ catalognumber = "BRDM-10060"
 date = "2022-07-01"
 album = "Happy! Happier! Happiest! / ハロー、ハッピーワールド!"
 tracks = [
-    [1, "Happy! Happier! Happiest!", "", ""],
+    [1, "Happy! Happier! Happiest!", "ハロー、ハッピーワールド！", "1"],
 ]
 links = ["https://vgmdb.net/album/121479"]
 
@@ -9995,17 +9995,17 @@ date = "2018-05-02"
 album = "Anfang / Roselia"
 tracks = [
     [1, "Neo-Aspect", "Roselia", ""],
-    [2, "BLACK SHOUT", "Roselia", ""],
+    [2, "BLACK SHOUT", "Roselia", "0"],
     [3, "Opera of the wasteland", "Roselia", ""],
     [4, "陽だまりロードナイト", "Roselia", ""],
     [5, "ONENESS", "Roselia", ""],
     [6, "Re:birth day", "Roselia", ""],
-    [7, "Legendary", "Roselia", ""],
+    [7, "Legendary", "Roselia", "0"],
     [8, "－HEROIC ADVENT－", "Roselia", ""],
-    [9, "Determination Symphony", "Roselia", ""],
+    [9, "Determination Symphony", "Roselia", "0"],
     [10, "熱色スターマイン", "Roselia", ""],
     [11, "軌跡", "Roselia", ""],
-    [12, "LOUDER", "Roselia", ""],
+    [12, "LOUDER", "Roselia", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bf64e10e-dbb9-4c6a-a4ea-dd2d7245de2a", "https://vgmdb.net/album/74887"]
 
@@ -10014,9 +10014,9 @@ catalognumber = "BRMM-10264"
 date = "2020-05-27"
 album = "Daylight -デイライト- / Morfonica"
 tracks = [
-    [1, "Daylight -デイライト-", "Morfonica", ""],
+    [1, "Daylight -デイライト-", "Morfonica", "0"],
     [2, "金色へのプレリュード", "Morfonica", ""],
-    [3, "Daylight -デイライト- -instrumental-", "Morfonica", ""],
+    [3, "Daylight -デイライト- -instrumental-", "Morfonica", "0"],
     [4, "金色へのプレリュード -instrumental-", "Morfonica", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/378642a2-17b8-485c-b8c4-7392457db2a5", "https://vgmdb.net/album/97112"]
