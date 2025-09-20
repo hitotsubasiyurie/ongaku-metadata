@@ -5,9 +5,9 @@ album = "バンドリ! ガールズバンドパーティ! カバコレ Special S
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
     [2, "Redo", "Afterglow", ""],
-    [3, "ふわふわ時間", "Pastel＊Palettes", ""],
+    [3, "ふわふわ時間", "Pastel＊Palettes", "0"],
     [4, "魂のルフラン", "Roselia", ""],
-    [5, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
+    [5, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/308923a4-05ba-4a44-85dd-c6a3a62d5661", "https://vgmdb.net/album/99841"]
 
@@ -16,12 +16,12 @@ catalognumber = "SOH-0020"
 date = "2009-07"
 album = "じゅうおん!"
 tracks = [
-    [1, "Cagayake! GIRLS (エネミーミックス)", "", ""],
-    [2, "Don't say ”lazy” (チル○ドミックス)", "", ""],
-    [3, "ふわふわ時間 (ドラ○ン○ォース風味)", "", ""],
+    [1, "Cagayake! GIRLS (エネミーミックス)", "", "0"],
+    [2, "Don't say ”lazy” (チル○ドミックス)", "", "0"],
+    [3, "ふわふわ時間 (ドラ○ン○ォース風味)", "", "0"],
     [4, "Yakezake! GIRLS", "", ""],
     [5, "ドンと こい ルイージ", "", ""],
-    [6, "ぶくぶく時間", "", ""],
+    [6, "ぶくぶく時間", "", "0"],
 ]
 links = ["https://vgmdb.net/album/102269"]
 
@@ -30,19 +30,19 @@ catalognumber = "CHVM-0007"
 date = "2011-12-21"
 album = "あふたーすく～る / HIME★MATSURI"
 tracks = [
-    [1, "Don't say ''lazy''", "HIME★MATSURI", ""],
-    [2, "Cagayake!GIRLS", "HIME★MATSURI", ""],
-    [3, "GO! GO! MANIAC", "HIME★MATSURI", ""],
-    [4, "Listen!!", "HIME★MATSURI", ""],
-    [5, "NO,Thank You!", "HIME★MATSURI", ""],
-    [6, "Utauyo!!MIRACLE", "HIME★MATSURI", ""],
-    [7, "ふわふわ時間", "HIME★MATSURI", ""],
-    [8, "ぴゅあぴゅあはーと", "HIME★MATSURI", ""],
-    [9, "ごはんはおかず", "HIME★MATSURI", ""],
-    [10, "天使にふれたよ!", "HIME★MATSURI", ""],
-    [11, "ふでペン ～ボールペン～", "HIME★MATSURI", ""],
-    [12, "私の恋はホッチキス", "HIME★MATSURI", ""],
-    [13, "放課後ティータイム", "HIME★MATSURI", ""],
+    [1, "Don't say ''lazy''", "HIME★MATSURI", "0"],
+    [2, "Cagayake!GIRLS", "HIME★MATSURI", "0"],
+    [3, "GO! GO! MANIAC", "HIME★MATSURI", "0"],
+    [4, "Listen!!", "HIME★MATSURI", "0"],
+    [5, "NO,Thank You!", "HIME★MATSURI", "0"],
+    [6, "Utauyo!!MIRACLE", "HIME★MATSURI", "0"],
+    [7, "ふわふわ時間", "HIME★MATSURI", "0"],
+    [8, "ぴゅあぴゅあはーと", "HIME★MATSURI", "0"],
+    [9, "ごはんはおかず", "HIME★MATSURI", "0"],
+    [10, "天使にふれたよ!", "HIME★MATSURI", "0"],
+    [11, "ふでペン ～ボールペン～", "HIME★MATSURI", "0"],
+    [12, "私の恋はホッチキス", "HIME★MATSURI", "0"],
+    [13, "放課後ティータイム", "HIME★MATSURI", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d1e769f2-3b18-4d26-a44e-b91b9ddb627a", "https://vgmdb.net/album/46192"]
 
@@ -55,7 +55,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81510"]
 
@@ -64,7 +64,7 @@ catalognumber = "DSP-01946"
 date = "2011-07"
 album = "わたしの恋はホッチキス #1『高3!』バージョン (はなうた: 唯)"
 tracks = [
-    [1, "“わたしの恋はホッチキス”#1『高3!』バージョン", "平沢唯(CV:豊崎愛生)", ""],
+    [1, "“わたしの恋はホッチキス”#1『高3!』バージョン", "平沢唯(CV:豊崎愛生)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e1367119-4a6e-47ef-9781-eb8accae9272", "https://vgmdb.net/album/56565"]
 
@@ -73,18 +73,18 @@ catalognumber = "PCCG-01061"
 date = "2010-05-26"
 album = "TVアニメ「けいおん!!」オフィシャル バンドやろーよ!! ～Let's MUSIC!!～"
 tracks = [
-    [1, "GO! GO! MANIAC (Instrumental)", "放課後ティータイム", ""],
-    [2, "GO! GO! MANIAC (Instrumental 【−Guitar1】)", "放課後ティータイム", ""],
-    [3, "GO! GO! MANIAC (Instrumental 【−Guitar2】)", "放課後ティータイム", ""],
-    [4, "GO! GO! MANIAC (Instrumental 【−Keyboard】)", "放課後ティータイム", ""],
-    [5, "GO! GO! MANIAC (Instrumental 【−Bass】)", "放課後ティータイム", ""],
-    [6, "GO! GO! MANIAC (Instrumental 【−Drums】)", "放課後ティータイム", ""],
-    [7, "Listen!! (Instrumental)", "放課後ティータイム", ""],
-    [8, "Listen!! (Instrumental 【−Guitar1】)", "放課後ティータイム", ""],
-    [9, "Listen!! (Instrumental 【−Guitar2】)", "放課後ティータイム", ""],
-    [10, "Listen!! (Instrumental 【−Keyboard】)", "放課後ティータイム", ""],
-    [11, "Listen!! (Instrumental 【−Bass】)", "放課後ティータイム", ""],
-    [12, "Listen!! (Instrumental 【−Drums】)", "放課後ティータイム", ""],
+    [1, "GO! GO! MANIAC (Instrumental)", "放課後ティータイム", "0"],
+    [2, "GO! GO! MANIAC (Instrumental 【−Guitar1】)", "放課後ティータイム", "0"],
+    [3, "GO! GO! MANIAC (Instrumental 【−Guitar2】)", "放課後ティータイム", "0"],
+    [4, "GO! GO! MANIAC (Instrumental 【−Keyboard】)", "放課後ティータイム", "0"],
+    [5, "GO! GO! MANIAC (Instrumental 【−Bass】)", "放課後ティータイム", "0"],
+    [6, "GO! GO! MANIAC (Instrumental 【−Drums】)", "放課後ティータイム", "0"],
+    [7, "Listen!! (Instrumental)", "放課後ティータイム", "0"],
+    [8, "Listen!! (Instrumental 【−Guitar1】)", "放課後ティータイム", "0"],
+    [9, "Listen!! (Instrumental 【−Guitar2】)", "放課後ティータイム", "0"],
+    [10, "Listen!! (Instrumental 【−Keyboard】)", "放課後ティータイム", "0"],
+    [11, "Listen!! (Instrumental 【−Bass】)", "放課後ティータイム", "0"],
+    [12, "Listen!! (Instrumental 【−Drums】)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2b08338b-0d03-4a24-b9bf-d9070f6c867a", "https://vgmdb.net/album/19935"]
 
@@ -96,10 +96,10 @@ tracks = [
     [1, "NEET GENERATION -もう、ニートしかなれない", "Saka-ROW組", ""],
     [2, "ウッーウッーウマウマ(゜∀゜) (Speedycake Remix)", "キャラメル", ""],
     [3, "最強パレパレード", "MK", ""],
-    [4, "Cagayake!GIRLS", "Helvetia", ""],
+    [4, "Cagayake!GIRLS", "Helvetia", "0"],
     [5, "帰り道", "MK", ""],
     [6, "ドラえもんBGM", "Hommarju", ""],
-    [7, "ふわふわ時間", "MK", ""],
+    [7, "ふわふわ時間", "MK", "0"],
     [8, "Trust Me", "Hommarju", ""],
     [9, "ナチュラルに恋して", "MK", ""],
     [10, "3年目の浮気", "Hommarju", ""],
@@ -131,46 +131,46 @@ catalognumber = "PCCG-01127"
 date = "2011-12-21"
 album = "映画「けいおん!」オリジナルサウンドトラック"
 tracks = [
-    [1, "Have some tea? (MOVIE Mix)", "百石元", ""],
-    [2, "白銀の朝", "百石元", ""],
-    [3, "干し芋の季節", "百石元", ""],
-    [4, "こなゆき", "百石元", ""],
-    [5, "ごり押しの理由", "百石元", ""],
-    [6, "茶箪笥のかほり", "百石元", ""],
-    [7, "二人の世界 (MOVIE Mix)", "百石元", ""],
-    [8, "茶柱運勢研究会", "百石元", ""],
-    [9, "Bossaでコーヒーを", "百石元", ""],
-    [10, "お化けの同窓会", "百石元", ""],
-    [11, "ガラスの向こう側", "百石元", ""],
-    [12, "正直者が考えた嘘", "百石元", ""],
-    [13, "その笑顔が好き", "百石元", ""],
-    [14, "海に行こうよ!", "百石元", ""],
-    [15, "水浴び大好きあひるちゃん", "百石元", ""],
-    [16, "地中海楽団", "百石元", ""],
-    [17, "Spilled tea", "百石元", ""],
-    [18, "Traditional tea", "百石元", ""],
-    [19, "Air of northern countries", "百石元", ""],
-    [20, "London E", "百石元", ""],
-    [21, "Yearning for the Far East", "百石元", ""],
-    [22, "Pleasant despair", "百石元", ""],
-    [23, "Train-D", "百石元", ""],
-    [24, "私のきもち", "百石元", ""],
-    [25, "かりんとう男爵の一週間", "百石元", ""],
-    [26, "Fairies' Party", "百石元", ""],
-    [27, "退屈な時間", "百石元", ""],
-    [28, "結局今日も遅刻じゃないですか!", "百石元", ""],
-    [29, "そんな訳でタクシーで…、", "百石元", ""],
-    [30, "げげっ!大渋滞!!", "百石元", ""],
-    [31, "お日様キラキラ散歩道", "百石元", ""],
-    [32, "Artificial Candy", "百石元", ""],
-    [33, "ごり押しの言い訳", "百石元", ""],
-    [34, "女子の集中力", "百石元", ""],
-    [35, "Red jacket", "百石元", ""],
-    [36, "Stylish mistake", "百石元", ""],
-    [37, "Winter night in a warm room", "百石元", ""],
-    [38, "一等賞", "百石元", ""],
-    [39, "Far distant past", "百石元", ""],
-    [40, "しあわせのかけら", "百石元", ""],
+    [1, "Have some tea? (MOVIE Mix)", "百石元", "0"],
+    [2, "白銀の朝", "百石元", "0"],
+    [3, "干し芋の季節", "百石元", "0"],
+    [4, "こなゆき", "百石元", "0"],
+    [5, "ごり押しの理由", "百石元", "0"],
+    [6, "茶箪笥のかほり", "百石元", "0"],
+    [7, "二人の世界 (MOVIE Mix)", "百石元", "0"],
+    [8, "茶柱運勢研究会", "百石元", "0"],
+    [9, "Bossaでコーヒーを", "百石元", "0"],
+    [10, "お化けの同窓会", "百石元", "0"],
+    [11, "ガラスの向こう側", "百石元", "0"],
+    [12, "正直者が考えた嘘", "百石元", "0"],
+    [13, "その笑顔が好き", "百石元", "0"],
+    [14, "海に行こうよ!", "百石元", "0"],
+    [15, "水浴び大好きあひるちゃん", "百石元", "0"],
+    [16, "地中海楽団", "百石元", "0"],
+    [17, "Spilled tea", "百石元", "0"],
+    [18, "Traditional tea", "百石元", "0"],
+    [19, "Air of northern countries", "百石元", "0"],
+    [20, "London E", "百石元", "0"],
+    [21, "Yearning for the Far East", "百石元", "0"],
+    [22, "Pleasant despair", "百石元", "0"],
+    [23, "Train-D", "百石元", "0"],
+    [24, "私のきもち", "百石元", "0"],
+    [25, "かりんとう男爵の一週間", "百石元", "0"],
+    [26, "Fairies' Party", "百石元", "0"],
+    [27, "退屈な時間", "百石元", "0"],
+    [28, "結局今日も遅刻じゃないですか!", "百石元", "0"],
+    [29, "そんな訳でタクシーで…、", "百石元", "0"],
+    [30, "げげっ!大渋滞!!", "百石元", "0"],
+    [31, "お日様キラキラ散歩道", "百石元", "0"],
+    [32, "Artificial Candy", "百石元", "0"],
+    [33, "ごり押しの言い訳", "百石元", "0"],
+    [34, "女子の集中力", "百石元", "0"],
+    [35, "Red jacket", "百石元", "0"],
+    [36, "Stylish mistake", "百石元", "0"],
+    [37, "Winter night in a warm room", "百石元", "0"],
+    [38, "一等賞", "百石元", "0"],
+    [39, "Far distant past", "百石元", "0"],
+    [40, "しあわせのかけら", "百石元", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1a06d8d9-37d8-4d94-9ec8-3db937e411fc", "https://vgmdb.net/album/29670"]
 
@@ -179,17 +179,17 @@ catalognumber = "PCCG-01070"
 date = "2010-10-27"
 album = "放課後ティータイムII / 放課後ティータイム Disc 1 (CD) [PCCG-01070-1]"
 tracks = [
-    [1, "いちごパフェが止まらない", "放課後ティータイム", ""],
-    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", ""],
-    [3, "Honey sweet tea time", "放課後ティータイム", ""],
-    [4, "五月雨20ラブ", "放課後ティータイム", ""],
-    [5, "ごはんはおかず", "放課後ティータイム", ""],
-    [6, "ときめきシュガー", "放課後ティータイム", ""],
-    [7, "冬の日", "放課後ティータイム", ""],
-    [8, "U&I", "放課後ティータイム", ""],
-    [9, "天使にふれたよ！", "放課後ティータイム", ""],
-    [10, "Interlude", "放課後ティータイム", ""],
-    [11, "放課後ティータイム", "放課後ティータイム", ""],
+    [1, "いちごパフェが止まらない", "放課後ティータイム", "0"],
+    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", "0"],
+    [3, "Honey sweet tea time", "放課後ティータイム", "0"],
+    [4, "五月雨20ラブ", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず", "放課後ティータイム", "0"],
+    [6, "ときめきシュガー", "放課後ティータイム", "0"],
+    [7, "冬の日", "放課後ティータイム", "0"],
+    [8, "U&I", "放課後ティータイム", "0"],
+    [9, "天使にふれたよ！", "放課後ティータイム", "0"],
+    [10, "Interlude", "放課後ティータイム", "0"],
+    [11, "放課後ティータイム", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/989bc6b4-0a12-37b7-8ed7-455aae8876db", "https://vgmdb.net/album/21147"]
 
@@ -198,19 +198,19 @@ catalognumber = "PCCG-01070"
 date = "2010-10-27"
 album = "放課後ティータイムII / 放課後ティータイム Disc 2 (CD) [PCCG-01070-2]"
 tracks = [
-    [1, "Introduction", "放課後ティータイム", ""],
-    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", ""],
+    [1, "Introduction", "放課後ティータイム", "0"],
+    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/989bc6b4-0a12-37b7-8ed7-455aae8876db", "https://vgmdb.net/album/21147"]
 
@@ -222,18 +222,18 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 27:16", "", ""],
     [0, "B-Side", "", ""],
-    [1, "ふわふわ時間", "", ""],
-    [2, "カレーのちライス", "", ""],
-    [3, "わたしの恋はホッチキス", "", ""],
-    [4, "ふでペン ～ボールペン～", "", ""],
-    [5, "ぴゅあぴゅあはーと", "", ""],
-    [6, "いちごパフェが止まらない", "", ""],
-    [7, "Honey sweet tea time", "", ""],
-    [8, "ときめきシュガー", "", ""],
-    [9, "冬の日", "", ""],
-    [10, "五月雨20ラブ", "", ""],
-    [11, "ごはんはおかず", "", ""],
-    [12, "U&I", "", ""],
+    [1, "ふわふわ時間", "", "0"],
+    [2, "カレーのちライス", "", "0"],
+    [3, "わたしの恋はホッチキス", "", "0"],
+    [4, "ふでペン ～ボールペン～", "", "0"],
+    [5, "ぴゅあぴゅあはーと", "", "0"],
+    [6, "いちごパフェが止まらない", "", "0"],
+    [7, "Honey sweet tea time", "", "0"],
+    [8, "ときめきシュガー", "", "0"],
+    [9, "冬の日", "", "0"],
+    [10, "五月雨20ラブ", "", "0"],
+    [11, "ごはんはおかず", "", "0"],
+    [12, "U&I", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/989bc6b4-0a12-37b7-8ed7-455aae8876db", "https://vgmdb.net/album/21147"]
 
@@ -247,7 +247,7 @@ tracks = [
     [3, "アスノヨゾラ哨戒班", "Afterglow", ""],
     [4, "READY STEADY GO", "Afterglow", ""],
     [5, "secret base ～君がくれたもの～", "Pastel＊Palettes", ""],
-    [6, "ふわふわ時間", "Pastel＊Palettes", ""],
+    [6, "ふわふわ時間", "Pastel＊Palettes", "0"],
     [7, "魂のルフラン", "Roselia", ""],
     [8, "ETERNAL BLAZE", "Roselia", ""],
     [9, "いーあるふぁんくらぶ", "ハロー、ハッピーワールド！", ""],
@@ -260,7 +260,7 @@ catalognumber = "DSP-01917"
 date = "2009-11-18"
 album = "ふわふわ時間 (コーラス: ハスキーゆい) / 桜高軽音部"
 tracks = [
-    [1, "”ふわふわ時間”#6『学園祭！』バージョン(コーラス:ハスキー唯)", "桜高軽音部", ""],
+    [1, "”ふわふわ時間”#6『学園祭！』バージョン(コーラス:ハスキー唯)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/752effc9-89f2-4217-84e3-8af6ce7bf739", "https://vgmdb.net/album/23146"]
 
@@ -272,7 +272,7 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:12", "", ""],
     [0, "B-Side", "", ""],
-    [1, "GO! GO! MANIAC", "", ""],
+    [1, "GO! GO! MANIAC", "", "0"],
     [2, "Genius...!?", "", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
@@ -285,8 +285,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:45", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Listen!!", "", ""],
-    [2, "Our MAGIC", "", ""],
+    [1, "Listen!!", "", "0"],
+    [2, "Our MAGIC", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -298,8 +298,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:02", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Utauyo!!MIRACLE", "", ""],
-    [2, "キラキラDays", "", ""],
+    [1, "Utauyo!!MIRACLE", "", "0"],
+    [2, "キラキラDays", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -311,8 +311,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:17", "", ""],
     [0, "B-Side", "", ""],
-    [1, "NO, Thank You!", "", ""],
-    [2, "Girls in Wonderland", "", ""],
+    [1, "NO, Thank You!", "", "0"],
+    [2, "Girls in Wonderland", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -324,8 +324,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:14", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Oh My ギー太!!", "", ""],
-    [2, "しあわせ日和", "", ""],
+    [1, "Oh My ギー太!!", "", "0"],
+    [2, "しあわせ日和", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -337,8 +337,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:38", "", ""],
     [0, "B-Side", "", ""],
-    [1, "青春Vibration", "", ""],
-    [2, "蒼空のモノローグ", "", ""],
+    [1, "青春Vibration", "", "0"],
+    [2, "蒼空のモノローグ", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -350,8 +350,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:25", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Drumming Shining My Life", "", ""],
-    [2, "夕空ア・ラ・カルト", "", ""],
+    [1, "Drumming Shining My Life", "", "0"],
+    [2, "夕空ア・ラ・カルト", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -363,8 +363,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:54", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Diaryはフォルテシモ", "", ""],
-    [2, "野性の情熱", "", ""],
+    [1, "Diaryはフォルテシモ", "", "0"],
+    [2, "野性の情熱", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -376,8 +376,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:08", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Over the Starlight", "", ""],
-    [2, "Joyful Todays", "", ""],
+    [1, "Over the Starlight", "", "0"],
+    [2, "Joyful Todays", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab5a0126-7e37-4919-8d82-b7e0a9655ae5", "https://vgmdb.net/album/46958"]
 
@@ -398,26 +398,26 @@ catalognumber = "PCCG-01064"
 date = "2010-10-06"
 album = "TVアニメ「けいおん!!」オリジナルサウンドトラック K-ON!! ORIGINAL SOUND TRACK Vol.2"
 tracks = [
-    [1, "Early tea", "百石元", ""],
-    [2, "My dearest Baumkuchen", "百石元", ""],
-    [3, "お菓子のメリーゴーランド", "百石元", ""],
-    [4, "Pasadena Fwy", "百石元", ""],
-    [5, "な・い・しょ！", "百石元", ""],
-    [6, "タリラリラン！", "百石元", ""],
-    [7, "潮騒と夕日", "百石元", ""],
-    [8, "セピア色の日記", "百石元", ""],
-    [9, "天ぷら君", "百石元", ""],
-    [10, "Hard luck girl", "百石元", ""],
-    [11, "Autumn breeze with you", "百石元", ""],
-    [12, "Fine rain in afternoon", "百石元", ""],
-    [13, "Cherry's toy box", "百石元", ""],
-    [14, "抜き足差し足忍び足", "百石元", ""],
-    [15, "人魚の片思い", "百石元", ""],
-    [16, "階段の怪談", "百石元", ""],
-    [17, "U&I ～夕日の綺麗なあの丘で～", "百石元", ""],
-    [18, "雲上茶屋", "百石元", ""],
-    [19, "ふでぺん ～ボールペン～ (ゆいあずVer.)", "ゆいあず", ""],
-    [20, "桜が丘女子高等学校校歌", "桜高3-2、桜高2-1", ""],
+    [1, "Early tea", "百石元", "0"],
+    [2, "My dearest Baumkuchen", "百石元", "0"],
+    [3, "お菓子のメリーゴーランド", "百石元", "0"],
+    [4, "Pasadena Fwy", "百石元", "0"],
+    [5, "な・い・しょ！", "百石元", "0"],
+    [6, "タリラリラン！", "百石元", "0"],
+    [7, "潮騒と夕日", "百石元", "0"],
+    [8, "セピア色の日記", "百石元", "0"],
+    [9, "天ぷら君", "百石元", "0"],
+    [10, "Hard luck girl", "百石元", "0"],
+    [11, "Autumn breeze with you", "百石元", "0"],
+    [12, "Fine rain in afternoon", "百石元", "0"],
+    [13, "Cherry's toy box", "百石元", "0"],
+    [14, "抜き足差し足忍び足", "百石元", "0"],
+    [15, "人魚の片思い", "百石元", "0"],
+    [16, "階段の怪談", "百石元", "0"],
+    [17, "U&I ～夕日の綺麗なあの丘で～", "百石元", "0"],
+    [18, "雲上茶屋", "百石元", "0"],
+    [19, "ふでぺん ～ボールペン～ (ゆいあずVer.)", "ゆいあず", "0"],
+    [20, "桜が丘女子高等学校校歌", "桜高3-2、桜高2-1", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0f520849-b47b-482b-a6cf-580bff1f1dd4", "https://vgmdb.net/album/20414"]
 
@@ -426,7 +426,7 @@ catalognumber = "MAGICUS-55"
 date = "2013-10-23"
 album = "あにそん SUPER BEST MIX ~NONSTOP PREMIER TUNES~"
 tracks = [
-    [1, "天使にふれたよ！", "", ""],
+    [1, "天使にふれたよ！", "", "0"],
     [2, "恋愛サーキュレーション", "", ""],
     [3, "一斉の声", "", ""],
     [4, "君をのせて", "", ""],
@@ -452,9 +452,9 @@ tracks = [
     [24, "only my railgun", "", ""],
     [25, "ライオン", "", ""],
     [26, "ヒカリ", "", ""],
-    [27, "ぴゅあぴゅあはーと", "", ""],
+    [27, "ぴゅあぴゅあはーと", "", "0"],
     [28, "Believe", "", ""],
-    [29, "God knows", "", ""],
+    [29, "God knows", "", "0"],
     [30, "裏切りの夕焼け", "", ""],
 ]
 links = ["https://vgmdb.net/album/151362"]
@@ -464,10 +464,10 @@ catalognumber = "PCCG-70078"
 date = "2010-08-04"
 album = "Utauyo!!MIRACLE / HO-KAGO TEA TIME"
 tracks = [
-    [1, "Utauyo!!MIRACLE", "放課後ティータイム", ""],
-    [2, "キラキラDays", "放課後ティータイム", ""],
-    [3, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", ""],
-    [4, "キラキラDays (Instrumental)", "放課後ティータイム", ""],
+    [1, "Utauyo!!MIRACLE", "放課後ティータイム", "0"],
+    [2, "キラキラDays", "放課後ティータイム", "0"],
+    [3, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", "0"],
+    [4, "キラキラDays (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8c9563af-82cc-3e8c-bc14-c76263492588", "https://vgmdb.net/album/20118"]
 
@@ -476,7 +476,7 @@ catalognumber = "DBT-2001"
 date = "2009-12-30"
 album = "虹Jazz"
 tracks = [
-    [1, "Don't Say \"Jazzy\" - Don't Say \"Lazy\"", "Ton2", ""],
+    [1, "Don't Say \"Jazzy\" - Don't Say \"Lazy\"", "Ton2", "0"],
     [2, "The Days of Dango and Breads - 時を刻む唄", "Ton2", ""],
     [3, "But Not for You - スキ？キライ？！スキ！！！", "Ton2", ""],
     [4, "Sunny day, Happy day - ハレ晴レユカイ", "Ton2", ""],
@@ -498,7 +498,7 @@ tracks = [
     [3, "ユニバーページ", "", ""],
     [4, "変わらないもの", "", ""],
     [5, "ギミー! レボリューション", "", ""],
-    [6, "NO, Thank You!", "", ""],
+    [6, "NO, Thank You!", "", "0"],
     [7, "スパークル", "", ""],
 ]
 links = ["https://vgmdb.net/album/75980"]
@@ -508,14 +508,14 @@ catalognumber = "ATCD-10026"
 date = "2010-11-24"
 album = "ANIME HOUSE PROJECT ～神曲BEST selection～ Disc 1"
 tracks = [
-    [1, "Don’t say \"lazy\"", "anporin", ""],
+    [1, "Don’t say \"lazy\"", "anporin", "0"],
     [2, "空色デイズ", "miko + Resurrection", ""],
     [3, "輪舞-revolution", "Yuko Hirabuki", ""],
     [4, "ブルーウォーター", "Beat Mario", ""],
     [5, "Butter-Fly", "nyanyannya", ""],
     [6, "鳥の詩", "片霧烈火", ""],
     [7, "止マレ!", "A〜YA", ""],
-    [8, "Cagayake!GIRLS", "片霧烈火", ""],
+    [8, "Cagayake!GIRLS", "片霧烈火", "0"],
     [9, "you", "茶太", ""],
     [10, "だんご大家族", "あさな", ""],
 ]
@@ -529,7 +529,7 @@ tracks = [
     [1, "愛・おぼえていますか", "anporin", ""],
     [2, "片翼のイカロス", "あさな", ""],
     [3, "SuperDriver", "miko", ""],
-    [4, "ふわふわ時間", "あゆ", ""],
+    [4, "ふわふわ時間", "あゆ", "0"],
     [5, "ときめきの導火線", "Witch", ""],
     [6, "YOU GET TO BURNING", "茶太", ""],
     [7, "JOINT", "anporin", ""],
@@ -556,17 +556,17 @@ catalognumber = "PCCG-01071"
 date = "2010-10-27"
 album = "放課後ティータイムII / 放課後ティータイム Disc 1 [PCCG-01071-1]"
 tracks = [
-    [1, "いちごパフェが止まらない", "放課後ティータイム", ""],
-    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", ""],
-    [3, "Honey sweet tea time", "放課後ティータイム", ""],
-    [4, "五月雨20ラブ", "放課後ティータイム", ""],
-    [5, "ごはんはおかず", "放課後ティータイム", ""],
-    [6, "ときめきシュガー", "放課後ティータイム", ""],
-    [7, "冬の日", "放課後ティータイム", ""],
-    [8, "U&I", "放課後ティータイム", ""],
-    [9, "天使にふれたよ！", "放課後ティータイム", ""],
-    [10, "Interlude", "放課後ティータイム", ""],
-    [11, "放課後ティータイム", "放課後ティータイム", ""],
+    [1, "いちごパフェが止まらない", "放課後ティータイム", "1"],
+    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", "0"],
+    [3, "Honey sweet tea time", "放課後ティータイム", "1"],
+    [4, "五月雨20ラブ", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず", "放課後ティータイム", "0"],
+    [6, "ときめきシュガー", "放課後ティータイム", "1"],
+    [7, "冬の日", "放課後ティータイム", "1"],
+    [8, "U&I", "放課後ティータイム", "0"],
+    [9, "天使にふれたよ！", "放課後ティータイム", "1"],
+    [10, "Interlude", "放課後ティータイム", "0"],
+    [11, "放課後ティータイム", "放課後ティータイム", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/8ef00bf8-4783-41e3-9f55-f6d91ec7729e", "https://vgmdb.net/album/21146"]
 
@@ -575,19 +575,19 @@ catalognumber = "PCCG-01071"
 date = "2010-10-27"
 album = "放課後ティータイムII / 放課後ティータイム Disc 2 [PCCG-01071-2]"
 tracks = [
-    [1, "Introduction", "放課後ティータイム", ""],
-    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", ""],
+    [1, "Introduction", "放課後ティータイム", "0"],
+    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8ef00bf8-4783-41e3-9f55-f6d91ec7729e", "https://vgmdb.net/album/21146"]
 
@@ -596,10 +596,10 @@ catalognumber = "PCCG-70073"
 date = "2010-04-28"
 album = "Listen!! / 放課後ティータイム"
 tracks = [
-    [1, "Listen!!", "放課後ティータイム", ""],
-    [2, "Our MAGIC", "放課後ティータイム", ""],
-    [3, "Listen!!(Instrumental)", "放課後ティータイム", ""],
-    [4, "Our MAGIC(Instrumental)", "放課後ティータイム", ""],
+    [1, "Listen!!", "放課後ティータイム", "0"],
+    [2, "Our MAGIC", "放課後ティータイム", "0"],
+    [3, "Listen!!(Instrumental)", "放課後ティータイム", "0"],
+    [4, "Our MAGIC(Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d7eb5a5a-e601-415b-b9f7-a24004a2c5c8", "https://vgmdb.net/album/19845"]
 
@@ -609,10 +609,10 @@ date = "2011-01-05"
 album = "JAP vol.2 animation japan cover tracks / LOVERIN TAMBURIN"
 tracks = [
     [1, "Brightdown", "", ""],
-    [2, "NO, Thank You!", "", ""],
+    [2, "NO, Thank You!", "", "0"],
     [3, "PAPERMOON", "", ""],
     [4, "Brand new day", "", ""],
-    [5, "Listen!!", "", ""],
+    [5, "Listen!!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91736"]
 
@@ -621,32 +621,32 @@ catalognumber = "PCSP-01969"
 date = "2016-06-10"
 album = "けいおん!はいれぞ!「Come with Me!!」セット"
 tracks = [
-    [1, "GO! GO! MANIAC", "放課後ティータイム", ""],
-    [2, "Listen!!", "放課後ティータイム", ""],
-    [3, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", ""],
-    [4, "青春Vibration", "秋山澪(CV:日笠陽子)", ""],
-    [5, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", ""],
-    [6, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", ""],
-    [7, "Over the Starlight", "中野梓(CV:竹達彩奈)", ""],
-    [8, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", ""],
-    [9, "純情Bomber!!", "鈴木純(CV:永田依子)", ""],
-    [10, "Jump", "真鍋和(CV:藤東知夏)", ""],
-    [11, "いちごパフェが止まらない", "放課後ティータイム", ""],
-    [12, "ときめきシュガー", "放課後ティータイム", ""],
-    [13, "Honey sweet tea time", "放課後ティータイム", ""],
-    [14, "ごはんはおかず", "放課後ティータイム", ""],
-    [15, "Maddy Candy (紀美コーラス Mix)", "DEATH DEVIL [山中さわ子(CV:真田アサミ)]", ""],
-    [16, "ラヴ", "DEATH DEVIL", ""],
-    [17, "ぴゅあぴゅあはーと", "放課後ティータイム", ""],
-    [18, "U&I", "放課後ティータイム", ""],
-    [19, "天使にふれたよ!", "放課後ティータイム", ""],
-    [20, "ふわふわ時間 (唯&澪 Mix)", "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]", ""],
-    [21, "NO, Thank You!", "放課後ティータイム", ""],
-    [22, "Utauyo!!MIRACLE", "放課後ティータイム", ""],
-    [23, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", ""],
-    [24, "Don't say “lazy” [5人Ver.]", "放課後ティータイム", ""],
-    [25, "桜が丘女子高等学校校歌 (ライブイベント 〜Come with Me!!〜Ver.)", "けいおん!!", ""],
-    [26, "Come with Me!! (唯・澪・律・紬・梓・憂・和・純 Mix)", "平沢唯、秋山澪、田井中律、琴吹紬、中野梓、平沢憂、真鍋和、鈴木純(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子、竹達彩奈、米澤円、藤東知夏、永田依子)", ""],
+    [1, "GO! GO! MANIAC", "放課後ティータイム", "0"],
+    [2, "Listen!!", "放課後ティータイム", "0"],
+    [3, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", "0"],
+    [4, "青春Vibration", "秋山澪(CV:日笠陽子)", "0"],
+    [5, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", "0"],
+    [6, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", "0"],
+    [7, "Over the Starlight", "中野梓(CV:竹達彩奈)", "0"],
+    [8, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", "0"],
+    [9, "純情Bomber!!", "鈴木純(CV:永田依子)", "0"],
+    [10, "Jump", "真鍋和(CV:藤東知夏)", "0"],
+    [11, "いちごパフェが止まらない", "放課後ティータイム", "0"],
+    [12, "ときめきシュガー", "放課後ティータイム", "0"],
+    [13, "Honey sweet tea time", "放課後ティータイム", "0"],
+    [14, "ごはんはおかず", "放課後ティータイム", "0"],
+    [15, "Maddy Candy (紀美コーラス Mix)", "DEATH DEVIL [山中さわ子(CV:真田アサミ)]", "0"],
+    [16, "ラヴ", "DEATH DEVIL", "0"],
+    [17, "ぴゅあぴゅあはーと", "放課後ティータイム", "0"],
+    [18, "U&I", "放課後ティータイム", "0"],
+    [19, "天使にふれたよ!", "放課後ティータイム", "0"],
+    [20, "ふわふわ時間 (唯&澪 Mix)", "桜高軽音部 [平沢唯・秋山澪・田井中律・琴吹紬(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子)]", "0"],
+    [21, "NO, Thank You!", "放課後ティータイム", "0"],
+    [22, "Utauyo!!MIRACLE", "放課後ティータイム", "0"],
+    [23, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", "0"],
+    [24, "Don't say “lazy” [5人Ver.]", "放課後ティータイム", "0"],
+    [25, "桜が丘女子高等学校校歌 (ライブイベント 〜Come with Me!!〜Ver.)", "けいおん!!", "0"],
+    [26, "Come with Me!! (唯・澪・律・紬・梓・憂・和・純 Mix)", "平沢唯、秋山澪、田井中律、琴吹紬、中野梓、平沢憂、真鍋和、鈴木純(CV:豊崎愛生、日笠陽子、佐藤聡美、寿美菜子、竹達彩奈、米澤円、藤東知夏、永田依子)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/402846c9-e443-4ced-89c9-ab514f176bfa", "https://vgmdb.net/album/82535"]
 
@@ -663,7 +663,7 @@ tracks = [
     [6, "FEARLESS HERO(Miruhi sama Maji kawa-E mix)", "you", ""],
     [7, "キスシテ↑アゲナイ↓(Happiness Ruize remix Remaster)", "you", ""],
     [8, "無重力アリア(Ucore Remix Remaster)", "you", ""],
-    [9, "Don’t say Lazy(Ucore Remix Remaster)", "you", ""],
+    [9, "Don’t say Lazy(Ucore Remix Remaster)", "you", "0"],
     [10, "you(Ucore Remix)", "you", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e683db68-fe62-4ed9-a7fc-82990926501e", "https://vgmdb.net/album/149090"]
@@ -698,7 +698,7 @@ tracks = [
     [4, "深青Philosophy -DJ SHARPNEL Remix-", "山本結", ""],
     [5, "願いが叶う場所 -DJ SHARPNEL Remix-", "多田葵", ""],
     [6, "赤い約束 -MUZIK SERVANT Remix-", "Lia", ""],
-    [7, "Don't say \"lazy\" -DJ Hirojack Mix-", "Veil", ""],
+    [7, "Don't say \"lazy\" -DJ Hirojack Mix-", "Veil", "0"],
     [8, "尋ねビト -DJ SHIMAMURA Remix-", "Lia", ""],
     [9, "「Veil ∞ Radio」 Special Program", "Veil", ""],
 ]
@@ -711,7 +711,7 @@ album = "BanG Dream! 特典サンプラーCD 黄"
 tracks = [
     [1, "千本桜 (game size ver.)", "", ""],
     [2, "READY STEADY GO (game size ver.)", "", ""],
-    [3, "ふわふわ時間 (game size ver.)", "", ""],
+    [3, "ふわふわ時間 (game size ver.)", "", "0"],
     [4, "ETERNAL BLAZE (game size ver.)", "", ""],
     [5, "ロメオ (game size ver.)", "", ""],
 ]
@@ -722,19 +722,19 @@ catalognumber = "PCCG-01076"
 date = "2011-06-15"
 album = "TVアニメ「けいおん!!」オフィシャル バンドやろーよ!! ～Let's MUSIC!! 4～ イメージソング＋α編"
 tracks = [
-    [1, "Cagayake!GIRLS[4人Ver.] (TV size Ver.)", "放課後ティータイム", ""],
-    [2, "Don't say “lazy\" (TV size Ver.)", "放課後ティータイム", ""],
-    [3, "Cagayake!GIRLS[5人Ver.] (TV size Ver.)", "放課後ティータイム", ""],
-    [4, "GO! GO! MANIAC (TV size Ver.)", "放課後ティータイム", ""],
-    [5, "Listen!! (TV size Ver.)", "放課後ティータイム", ""],
-    [6, "Utauyo!!MIRACLE (TV size Ver.)", "放課後ティータイム", ""],
-    [7, "NO, Thank You! (TV size Ver.)", "放課後ティータイム", ""],
-    [8, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", ""],
-    [9, "GO! GO! MANIAC(Instrumental 【-Guitar1】)", "放課後ティータイム", ""],
-    [10, "GO! GO! MANIAC(Instrumental 【-Guitar2】)", "放課後ティータイム", ""],
-    [11, "GO! GO! MANIAC(Instrumental 【-Keyboard】)", "放課後ティータイム", ""],
-    [12, "GO! GO! MANIAC(Instrumental 【-Bass】)", "放課後ティータイム", ""],
-    [13, "GO! GO! MANIAC(Instrumental 【-Drums】)", "放課後ティータイム", ""],
+    [1, "Cagayake!GIRLS[4人Ver.] (TV size Ver.)", "放課後ティータイム", "0"],
+    [2, "Don't say “lazy\" (TV size Ver.)", "放課後ティータイム", "0"],
+    [3, "Cagayake!GIRLS[5人Ver.] (TV size Ver.)", "放課後ティータイム", "0"],
+    [4, "GO! GO! MANIAC (TV size Ver.)", "放課後ティータイム", "0"],
+    [5, "Listen!! (TV size Ver.)", "放課後ティータイム", "0"],
+    [6, "Utauyo!!MIRACLE (TV size Ver.)", "放課後ティータイム", "0"],
+    [7, "NO, Thank You! (TV size Ver.)", "放課後ティータイム", "0"],
+    [8, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", "0"],
+    [9, "GO! GO! MANIAC(Instrumental 【-Guitar1】)", "放課後ティータイム", "0"],
+    [10, "GO! GO! MANIAC(Instrumental 【-Guitar2】)", "放課後ティータイム", "0"],
+    [11, "GO! GO! MANIAC(Instrumental 【-Keyboard】)", "放課後ティータイム", "0"],
+    [12, "GO! GO! MANIAC(Instrumental 【-Bass】)", "放課後ティータイム", "0"],
+    [13, "GO! GO! MANIAC(Instrumental 【-Drums】)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/446397fb-6ed4-47b3-a339-d7144d0136e9", "https://vgmdb.net/album/26041"]
 
@@ -748,7 +748,7 @@ tracks = [
     [3, "胸がドキドキ", "All That Jazz", ""],
     [4, "微笑みの爆弾", "All That Jazz", ""],
     [5, "ヴィーナスとジーザス", "All That Jazz", ""],
-    [6, "GO! GO! MANIAC", "All That Jazz", ""],
+    [6, "GO! GO! MANIAC", "All That Jazz", "0"],
     [7, "DAYS", "All That Jazz", ""],
     [8, "ムーンライト伝説", "All That Jazz", ""],
     [9, "僕たちは天使だった", "All That Jazz", ""],
@@ -761,7 +761,7 @@ catalognumber = "QWCE-00131"
 date = "2009-11-04"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 8"
 tracks = [
-    [1, "ふわふわ時間", "MK feat.Latte+CAMRY", ""],
+    [1, "ふわふわ時間", "MK feat.Latte+CAMRY", "0"],
     [2, "止マレ！", "Hommarju feat.himi*mai+Ma15+MAKI", ""],
     [3, "君へとつなぐココロ", "Acid=Stone Valley feat.MAKI+Ma15", ""],
     [4, "林檎もぎれビーム！", "N.O.-SYO feat.TAKANORI+MAKI", ""],
@@ -769,7 +769,7 @@ tracks = [
     [6, "Mind as Judgment", "B.U.S feat.Latte", ""],
     [7, "片翼の鳥", "Hommarju feat.mamiko", ""],
     [8, "staple stable", "Dizzi Mystica feat.Latte", ""],
-    [9, "私の恋はホッチキス", "Starving Trancer feat.Latte+CAMRY", ""],
+    [9, "私の恋はホッチキス", "Starving Trancer feat.Latte+CAMRY", "0"],
     [10, "KARMA", "MK feat.R.Cena", ""],
     [11, "Super scription of data", "Icon feat.YURiE", ""],
     [12, "Glossy:MMM", "MK feat.Ma15", ""],
@@ -789,16 +789,16 @@ catalognumber = "PCCG-00964"
 date = "2010-03-03"
 album = "TVアニメ「けいおん!」オフィシャル バンドやろーよ!! PART 2 Arrangement"
 tracks = [
-    [1, "ふわふわ時間 『StudioMix』 (Instrumental)", "放課後ティータイム", ""],
-    [2, "ふわふわ時間 『StudioMix』 (Instrumental [-Guitar1])", "放課後ティータイム", ""],
-    [3, "ふわふわ時間 『StudioMix』 (Instrumental [-Guitar2])", "放課後ティータイム", ""],
-    [4, "ふわふわ時間 『StudioMix』 (Instrumental [-Keyboard])", "放課後ティータイム", ""],
-    [5, "ふわふわ時間 『StudioMix』 (Instrumental [-Bass])", "放課後ティータイム", ""],
-    [6, "ふわふわ時間 『StudioMix』 (Instrumental [-Drums])", "放課後ティータイム", ""],
-    [7, "Maddy Candy (Instrumental)", "放課後ティータイム", ""],
-    [8, "Maddy Candy (Instrumental [-Guitar])", "放課後ティータイム", ""],
-    [9, "Hell The World (Instrumental)", "放課後ティータイム", ""],
-    [10, "Hell The World (Instrumental [-Guitar])", "放課後ティータイム", ""],
+    [1, "ふわふわ時間 『StudioMix』 (Instrumental)", "放課後ティータイム", "0"],
+    [2, "ふわふわ時間 『StudioMix』 (Instrumental [-Guitar1])", "放課後ティータイム", "0"],
+    [3, "ふわふわ時間 『StudioMix』 (Instrumental [-Guitar2])", "放課後ティータイム", "0"],
+    [4, "ふわふわ時間 『StudioMix』 (Instrumental [-Keyboard])", "放課後ティータイム", "0"],
+    [5, "ふわふわ時間 『StudioMix』 (Instrumental [-Bass])", "放課後ティータイム", "0"],
+    [6, "ふわふわ時間 『StudioMix』 (Instrumental [-Drums])", "放課後ティータイム", "0"],
+    [7, "Maddy Candy (Instrumental)", "放課後ティータイム", "0"],
+    [8, "Maddy Candy (Instrumental [-Guitar])", "放課後ティータイム", "0"],
+    [9, "Hell The World (Instrumental)", "放課後ティータイム", "0"],
+    [10, "Hell The World (Instrumental [-Guitar])", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/828cfd41-135f-4d8b-bf66-a10ac33ea9ad", "https://vgmdb.net/album/23114"]
 
@@ -860,12 +860,12 @@ catalognumber = "PCCG-00984"
 date = "2009-08-26"
 album = "TVアニメ「けいおん!」イメージソング　琴吹紬"
 tracks = [
-    [1, "Dear My Keys ～鍵盤の魔法～", "琴吹紬(CV:寿美菜子)", ""],
-    [2, "Humming Bird", "琴吹紬(CV:寿美菜子)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』(紬Ver.)", "琴吹紬(CV:寿美菜子)", ""],
-    [4, "Dear My Keys ～鍵盤の魔法～ (instrumental)", "琴吹紬(CV:寿美菜子)", ""],
-    [5, "Humming Bird (instrumental)", "琴吹紬(CV:寿美菜子)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』(instrumental)", "放課後ティータイム", ""],
+    [1, "Dear My Keys ～鍵盤の魔法～", "琴吹紬(CV:寿美菜子)", "0"],
+    [2, "Humming Bird", "琴吹紬(CV:寿美菜子)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』(紬Ver.)", "琴吹紬(CV:寿美菜子)", "0"],
+    [4, "Dear My Keys ～鍵盤の魔法～ (instrumental)", "琴吹紬(CV:寿美菜子)", "0"],
+    [5, "Humming Bird (instrumental)", "琴吹紬(CV:寿美菜子)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』(instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7604bfc7-d9bd-4e55-8136-3f31a7e0d1b5", "https://vgmdb.net/album/22399"]
 
@@ -875,7 +875,7 @@ date = "2019-04-24"
 album = "IMAGINATION vol.1"
 tracks = [
     [1, "世界は恋に落ちている", "ときのそら & Yunomi", ""],
-    [2, "Don't say \"lazy\"", "おめがシスターズ & YUC'e", ""],
+    [2, "Don't say \"lazy\"", "おめがシスターズ & YUC'e", "0"],
     [3, "ユキトキ", "える & Tomggg", ""],
     [4, "青い栞", "虹河ラキ & yuigot", ""],
     [5, "Shangri-La", "ドーラ, 緑仙 & Peno", ""],
@@ -885,7 +885,7 @@ tracks = [
     [9, "ハレ晴レユカイ", "燦鳥ノム & Moe Shop", ""],
     [10, "アンインストール", "天神子兎音 & Aire", ""],
     [11, "For フルーツバスケット", "月ノ美兎 & KOTONOHOUSE", ""],
-    [12, "God knows…", "富士葵 & Neko Hacker", ""],
+    [12, "God knows…", "富士葵 & Neko Hacker", "0"],
     [13, "プレパレード", "ときのそら，おめがシスターズ，える，虹河ラキ，ドーラ，緑仙，ロボ子さん，樋口楓，かしこまり，燦鳥ノム，天神子兎音，月ノ美兎，富士葵 Arranged by 未来茶オールスターズ", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/446959ed-48fb-4fb2-92fc-e33ba79949c4", "https://vgmdb.net/album/84666"]
@@ -895,10 +895,10 @@ catalognumber = "PCCG-70082"
 date = "2011-12-07"
 album = "Unmei♪wa♪Endless! / 放課後ティータイム"
 tracks = [
-    [1, "Unmei♪wa♪Endless!", "放課後ティータイム", ""],
-    [2, "いちばんいっぱい", "放課後ティータイム", ""],
-    [3, "Unmei♪wa♪Endless!(Instrumental)", "放課後ティータイム", ""],
-    [4, "いちばんいっぱい (Instrumental)", "放課後ティータイム", ""],
+    [1, "Unmei♪wa♪Endless!", "放課後ティータイム", "0"],
+    [2, "いちばんいっぱい", "放課後ティータイム", "0"],
+    [3, "Unmei♪wa♪Endless!(Instrumental)", "放課後ティータイム", "0"],
+    [4, "いちばんいっぱい (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8f1b9344-8c7e-4f64-b248-fcef56364557", "https://vgmdb.net/album/30430"]
 
@@ -907,24 +907,24 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 1"
 tracks = [
-    [1, "Cagayake!GIRLS", "桜高軽音部", ""],
-    [2, "Happy!? Sorry!!", "桜高軽音部", ""],
-    [3, "Don’t say “lazy”", "桜高軽音部", ""],
-    [4, "Sweet Bitter Beauty Song", "桜高軽音部", ""],
-    [5, "GO! GO! MANIAC", "放課後ティータイム", ""],
-    [6, "Genius…!?", "放課後ティータイム", ""],
-    [7, "Listen!!", "放課後ティータイム", ""],
-    [8, "Our MAGIC", "放課後ティータイム", ""],
-    [9, "Utauyo!!MIRACLE", "放課後ティータイム", ""],
-    [10, "キラキラDays", "放課後ティータイム", ""],
-    [11, "NO, Thank You!", "放課後ティータイム", ""],
-    [12, "Girls in Wonderland", "放課後ティータイム", ""],
-    [13, "Unmei♪wa♪Endless!", "放課後ティータイム", ""],
-    [14, "いちばんいっぱい", "放課後ティータイム", ""],
-    [15, "Singing!", "放課後ティータイム", ""],
-    [16, "おはよう、またあした", "放課後ティータイム", ""],
-    [17, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", ""],
-    [18, "Don’t say “lazy” [5人Ver.]", "放課後ティータイム", ""],
+    [1, "Cagayake!GIRLS", "桜高軽音部", "0"],
+    [2, "Happy!? Sorry!!", "桜高軽音部", "0"],
+    [3, "Don’t say “lazy”", "桜高軽音部", "0"],
+    [4, "Sweet Bitter Beauty Song", "桜高軽音部", "0"],
+    [5, "GO! GO! MANIAC", "放課後ティータイム", "0"],
+    [6, "Genius…!?", "放課後ティータイム", "0"],
+    [7, "Listen!!", "放課後ティータイム", "0"],
+    [8, "Our MAGIC", "放課後ティータイム", "0"],
+    [9, "Utauyo!!MIRACLE", "放課後ティータイム", "0"],
+    [10, "キラキラDays", "放課後ティータイム", "0"],
+    [11, "NO, Thank You!", "放課後ティータイム", "0"],
+    [12, "Girls in Wonderland", "放課後ティータイム", "0"],
+    [13, "Unmei♪wa♪Endless!", "放課後ティータイム", "0"],
+    [14, "いちばんいっぱい", "放課後ティータイム", "0"],
+    [15, "Singing!", "放課後ティータイム", "0"],
+    [16, "おはよう、またあした", "放課後ティータイム", "0"],
+    [17, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", "0"],
+    [18, "Don’t say “lazy” [5人Ver.]", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -933,21 +933,21 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 2"
 tracks = [
-    [1, "ふわふわ時間 [Single Ver.]", "桜高軽音部", ""],
-    [2, "翼をください", "桜高軽音部", ""],
-    [3, "桜が丘女子高等学校校歌 [Rock Ver.]", "放課後ティータイム", ""],
-    [4, "天使にふれたよ! [#24『卒業式!』Mix]", "放課後ティータイム", ""],
-    [5, "カレーのちライス [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [6, "ごはんはおかず [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [7, "五月雨20ラブ [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [8, "U&I [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [9, "天使にふれたよ! [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [10, "ふわふわ時間 [映画「けいおん!」Mix]", "放課後ティータイム", ""],
-    [11, "Maddy Candy", "DEATH DEVIL", ""],
-    [12, "Hell The World", "DEATH DEVIL", ""],
-    [13, "ラヴ", "DEATH DEVIL", ""],
-    [14, "GENOM", "DEATH DEVIL", ""],
-    [15, "光", "DEATH DEVIL", ""],
+    [1, "ふわふわ時間 [Single Ver.]", "桜高軽音部", "0"],
+    [2, "翼をください", "桜高軽音部", "0"],
+    [3, "桜が丘女子高等学校校歌 [Rock Ver.]", "放課後ティータイム", "0"],
+    [4, "天使にふれたよ! [#24『卒業式!』Mix]", "放課後ティータイム", "0"],
+    [5, "カレーのちライス [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [6, "ごはんはおかず [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [7, "五月雨20ラブ [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [8, "U&I [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [9, "天使にふれたよ! [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [10, "ふわふわ時間 [映画「けいおん!」Mix]", "放課後ティータイム", "0"],
+    [11, "Maddy Candy", "DEATH DEVIL", "0"],
+    [12, "Hell The World", "DEATH DEVIL", "0"],
+    [13, "ラヴ", "DEATH DEVIL", "0"],
+    [14, "GENOM", "DEATH DEVIL", "0"],
+    [15, "光", "DEATH DEVIL", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -956,14 +956,14 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 3"
 tracks = [
-    [1, "カレーのちライス [Studio Mix]", "放課後ティータイム", ""],
-    [2, "わたしの恋はホッチキス [Studio Mix]", "放課後ティータイム", ""],
-    [3, "ふでペン ～ボールペン～ [Studio Mix]", "放課後ティータイム", ""],
-    [4, "ふわふわ時間 [Studio Mix]", "放課後ティータイム", ""],
-    [5, "カレーのちライス [#8『新歓!』Mix]", "放課後ティータイム", ""],
-    [6, "わたしの恋はホッチキス [#8『新歓!』Mix]", "放課後ティータイム", ""],
-    [7, "ふでペン ～ボールペン～ [#12『軽音!』Mix]", "放課後ティータイム", ""],
-    [8, "ふわふわ時間 [#12『軽音!』Mix]", "放課後ティータイム", ""],
+    [1, "カレーのちライス [Studio Mix]", "放課後ティータイム", "0"],
+    [2, "わたしの恋はホッチキス [Studio Mix]", "放課後ティータイム", "0"],
+    [3, "ふでペン ～ボールペン～ [Studio Mix]", "放課後ティータイム", "0"],
+    [4, "ふわふわ時間 [Studio Mix]", "放課後ティータイム", "0"],
+    [5, "カレーのちライス [#8『新歓!』Mix]", "放課後ティータイム", "0"],
+    [6, "わたしの恋はホッチキス [#8『新歓!』Mix]", "放課後ティータイム", "0"],
+    [7, "ふでペン ～ボールペン～ [#12『軽音!』Mix]", "放課後ティータイム", "0"],
+    [8, "ふわふわ時間 [#12『軽音!』Mix]", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -972,17 +972,17 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 4"
 tracks = [
-    [1, "いちごパフェが止まらない [Studio Mix]", "放課後ティータイム", ""],
-    [2, "ぴゅあぴゅあはーと [Studio Mix]", "放課後ティータイム", ""],
-    [3, "Honey sweet tea time [Studio Mix]", "放課後ティータイム", ""],
-    [4, "五月雨20ラブ [Studio Mix]", "放課後ティータイム", ""],
-    [5, "ごはんはおかず [Studio Mix]", "放課後ティータイム", ""],
-    [6, "ときめきシュガー [Studio Mix]", "放課後ティータイム", ""],
-    [7, "冬の日 [Studio Mix]", "放課後ティータイム", ""],
-    [8, "U&I [Studio Mix]", "放課後ティータイム", ""],
-    [9, "天使にふれたよ! [Studio Mix]", "放課後ティータイム", ""],
-    [10, "Interlude", "放課後ティータイム", ""],
-    [11, "放課後ティータイム", "放課後ティータイム", ""],
+    [1, "いちごパフェが止まらない [Studio Mix]", "放課後ティータイム", "0"],
+    [2, "ぴゅあぴゅあはーと [Studio Mix]", "放課後ティータイム", "0"],
+    [3, "Honey sweet tea time [Studio Mix]", "放課後ティータイム", "0"],
+    [4, "五月雨20ラブ [Studio Mix]", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず [Studio Mix]", "放課後ティータイム", "0"],
+    [6, "ときめきシュガー [Studio Mix]", "放課後ティータイム", "0"],
+    [7, "冬の日 [Studio Mix]", "放課後ティータイム", "0"],
+    [8, "U&I [Studio Mix]", "放課後ティータイム", "0"],
+    [9, "天使にふれたよ! [Studio Mix]", "放課後ティータイム", "0"],
+    [10, "Interlude", "放課後ティータイム", "0"],
+    [11, "放課後ティータイム", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -991,19 +991,19 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 5"
 tracks = [
-    [1, "Introduction", "放課後ティータイム", ""],
-    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", ""],
-    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", ""],
+    [1, "Introduction", "放課後ティータイム", "0"],
+    [2, "ふわふわ時間 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [3, "カレーのちライス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [4, "わたしの恋はホッチキス (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [5, "ふでペン ～ボールペン～ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [6, "ぴゅあぴゅあはーと (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [7, "いちごパフェが止まらない (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [8, "Honey sweet tea time (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [9, "ときめきシュガー (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [10, "冬の日 (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [11, "五月雨20ラブ (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [12, "ごはんはおかず (#23『放課後!』Mix)", "放課後ティータイム", "0"],
+    [13, "U&I (#23『放課後!』Mix)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1012,22 +1012,22 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 6"
 tracks = [
-    [1, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", ""],
-    [2, "Sunday Siesta", "平沢唯(CV:豊崎愛生)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』 [唯Ver.]", "平沢唯(CV:豊崎愛生)", ""],
-    [4, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", ""],
-    [5, "Hello Little Girl", "秋山澪(CV:日笠陽子)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』 [澪Ver.]", "秋山澪(CV:日笠陽子)", ""],
-    [7, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", ""],
-    [8, "目指せハッピー100%↑↑↑", "田井中律(CV:佐藤聡美)", ""],
-    [9, "『ﾚｯﾂｺﾞｰ』 [律Ver.]", "田井中律(CV:佐藤聡美)", ""],
-    [10, "Dear My Keys ～鍵盤の魔法～", "琴吹紬(CV:寿美菜子)", ""],
-    [11, "Humming Bird", "琴吹紬(CV:寿美菜子)", ""],
-    [12, "『ﾚｯﾂｺﾞｰ』 [紬Ver.]", "琴吹紬(CV:寿美菜子)", ""],
-    [13, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", ""],
-    [14, "私は私の道を行く", "中野梓(CV:竹達彩奈)", ""],
-    [15, "『ﾚｯﾂｺﾞｰ』 [梓Ver.]", "中野梓(CV:竹達彩奈)", ""],
-    [16, "『ﾚｯﾂｺﾞｰ』 [唯・澪・律・紬・梓Mix]", "桜高軽音部", ""],
+    [1, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", "0"],
+    [2, "Sunday Siesta", "平沢唯(CV:豊崎愛生)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』 [唯Ver.]", "平沢唯(CV:豊崎愛生)", "0"],
+    [4, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", "0"],
+    [5, "Hello Little Girl", "秋山澪(CV:日笠陽子)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』 [澪Ver.]", "秋山澪(CV:日笠陽子)", "0"],
+    [7, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", "0"],
+    [8, "目指せハッピー100%↑↑↑", "田井中律(CV:佐藤聡美)", "0"],
+    [9, "『ﾚｯﾂｺﾞｰ』 [律Ver.]", "田井中律(CV:佐藤聡美)", "0"],
+    [10, "Dear My Keys ～鍵盤の魔法～", "琴吹紬(CV:寿美菜子)", "0"],
+    [11, "Humming Bird", "琴吹紬(CV:寿美菜子)", "0"],
+    [12, "『ﾚｯﾂｺﾞｰ』 [紬Ver.]", "琴吹紬(CV:寿美菜子)", "0"],
+    [13, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", "0"],
+    [14, "私は私の道を行く", "中野梓(CV:竹達彩奈)", "0"],
+    [15, "『ﾚｯﾂｺﾞｰ』 [梓Ver.]", "中野梓(CV:竹達彩奈)", "0"],
+    [16, "『ﾚｯﾂｺﾞｰ』 [唯・澪・律・紬・梓Mix]", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1036,21 +1036,21 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 7"
 tracks = [
-    [1, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", ""],
-    [2, "しあわせ日和", "平沢唯(CV:豊崎愛生)", ""],
-    [3, "Come with Me!! [唯Ver.]", "平沢唯(CV:豊崎愛生)", ""],
-    [4, "青春Vibration", "秋山澪(CV:日笠陽子)", ""],
-    [5, "蒼空のモノローグ", "秋山澪(CV:日笠陽子)", ""],
-    [6, "Come with Me!! [澪Ver.]", "秋山澪(CV:日笠陽子)", ""],
-    [7, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", ""],
-    [8, "夕空ア・ラ・カルト", "田井中律(CV:佐藤聡美)", ""],
-    [9, "Come with Me!! [律Ver.]", "田井中律(CV:佐藤聡美)", ""],
-    [10, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", ""],
-    [11, "野性の情熱", "琴吹紬(CV:寿美菜子)", ""],
-    [12, "Come with Me!! [紬Ver.]", "琴吹紬(CV:寿美菜子)", ""],
-    [13, "Over the Starlight", "中野梓(CV:竹達彩奈)", ""],
-    [14, "Joyful Todays", "中野梓(CV:竹達彩奈)", ""],
-    [15, "Come with Me!! [梓Ver.]", "中野梓(CV:竹達彩奈)", ""],
+    [1, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", "0"],
+    [2, "しあわせ日和", "平沢唯(CV:豊崎愛生)", "0"],
+    [3, "Come with Me!! [唯Ver.]", "平沢唯(CV:豊崎愛生)", "0"],
+    [4, "青春Vibration", "秋山澪(CV:日笠陽子)", "0"],
+    [5, "蒼空のモノローグ", "秋山澪(CV:日笠陽子)", "0"],
+    [6, "Come with Me!! [澪Ver.]", "秋山澪(CV:日笠陽子)", "0"],
+    [7, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", "0"],
+    [8, "夕空ア・ラ・カルト", "田井中律(CV:佐藤聡美)", "0"],
+    [9, "Come with Me!! [律Ver.]", "田井中律(CV:佐藤聡美)", "0"],
+    [10, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", "0"],
+    [11, "野性の情熱", "琴吹紬(CV:寿美菜子)", "0"],
+    [12, "Come with Me!! [紬Ver.]", "琴吹紬(CV:寿美菜子)", "0"],
+    [13, "Over the Starlight", "中野梓(CV:竹達彩奈)", "0"],
+    [14, "Joyful Todays", "中野梓(CV:竹達彩奈)", "0"],
+    [15, "Come with Me!! [梓Ver.]", "中野梓(CV:竹達彩奈)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1059,19 +1059,19 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 8"
 tracks = [
-    [1, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", ""],
-    [2, "Oui!愛言葉", "平沢憂(CV:米澤円)", ""],
-    [3, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", ""],
-    [4, "プロローグ", "真鍋和(CV:藤東知夏)", ""],
-    [5, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", ""],
-    [6, "Shiny GEMS", "平沢憂(CV:米澤円)", ""],
-    [7, "Come with Me!! [憂Ver.]", "平沢憂(CV:米澤円)", ""],
-    [8, "Jump", "真鍋和(CV:藤東知夏)", ""],
-    [9, "ひだまりLiving", "真鍋和(CV:藤東知夏)", ""],
-    [10, "Come with Me!! [和Ver.]", "真鍋和(CV:藤東知夏)", ""],
-    [11, "純情Bomber!!", "鈴木純(CV:永田依子)", ""],
-    [12, "Midnight スーパースター☆☆☆", "鈴木純(CV:永田依子)", ""],
-    [13, "Come with Me!! [純Ver.]", "鈴木純(CV:永田依子)", ""],
+    [1, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", "0"],
+    [2, "Oui!愛言葉", "平沢憂(CV:米澤円)", "0"],
+    [3, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", "0"],
+    [4, "プロローグ", "真鍋和(CV:藤東知夏)", "0"],
+    [5, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", "0"],
+    [6, "Shiny GEMS", "平沢憂(CV:米澤円)", "0"],
+    [7, "Come with Me!! [憂Ver.]", "平沢憂(CV:米澤円)", "0"],
+    [8, "Jump", "真鍋和(CV:藤東知夏)", "0"],
+    [9, "ひだまりLiving", "真鍋和(CV:藤東知夏)", "0"],
+    [10, "Come with Me!! [和Ver.]", "真鍋和(CV:藤東知夏)", "0"],
+    [11, "純情Bomber!!", "鈴木純(CV:永田依子)", "0"],
+    [12, "Midnight スーパースター☆☆☆", "鈴木純(CV:永田依子)", "0"],
+    [13, "Come with Me!! [純Ver.]", "鈴木純(CV:永田依子)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1080,42 +1080,42 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Original Soundtrack Disc 9"
 tracks = [
-    [1, "Have some tea?", "百石元", ""],
-    [2, "Morning dew", "百石元", ""],
-    [3, "急げや急げ!", "百石元", ""],
-    [4, "かわいい陰謀", "百石元", ""],
-    [5, "2匹の子猫", "百石元", ""],
-    [6, "いい夢見てね", "百石元", ""],
-    [7, "Cotton candy", "百石元", ""],
-    [8, "Virtual love", "百石元", ""],
-    [9, "タンポポ宅急便", "百石元", ""],
-    [10, "うっかり君の為に", "百石元", ""],
-    [11, "Genki!", "百石元", ""],
-    [12, "おばあちゃんのタンス", "百石元", ""],
-    [13, "The other side of evening sun", "百石元", ""],
-    [14, "Dead soldiers(笑)", "百石元", ""],
-    [15, "Hold on to your love", "百石元", ""],
-    [16, "Falling reinforced concrete", "百石元", ""],
-    [17, "Small flashing", "百石元", ""],
-    [18, "けん玉くん", "百石元", ""],
-    [19, "軽い冗談", "百石元", ""],
-    [20, "クレープはいかが?", "百石元", ""],
-    [21, "Happy languidness", "百石元", ""],
-    [22, "Emerald green", "百石元", ""],
-    [23, "My hometown where it snows", "百石元", ""],
-    [24, "銀世界の朝", "百石元", ""],
-    [25, "Tea at the night of Christmas", "百石元", ""],
-    [26, "子猫の演奏会", "百石元", ""],
-    [27, "Patrol of stroll", "百石元", ""],
-    [28, "Doki Doki Friday night", "百石元", ""],
-    [29, "りんご…Ringo…リンゴ飴", "百石元", ""],
-    [30, "15歳のマーチ", "百石元", ""],
-    [31, "じゃじゃ馬3人娘", "百石元", ""],
-    [32, "Hesitation", "百石元", ""],
-    [33, "ピンチ大好き!", "百石元", ""],
-    [34, "ドレスにクレープは似合わない?", "百石元", ""],
-    [35, "あの日の夢", "百石元", ""],
-    [36, "Happy End", "百石元", ""],
+    [1, "Have some tea?", "百石元", "0"],
+    [2, "Morning dew", "百石元", "0"],
+    [3, "急げや急げ!", "百石元", "0"],
+    [4, "かわいい陰謀", "百石元", "0"],
+    [5, "2匹の子猫", "百石元", "0"],
+    [6, "いい夢見てね", "百石元", "0"],
+    [7, "Cotton candy", "百石元", "0"],
+    [8, "Virtual love", "百石元", "0"],
+    [9, "タンポポ宅急便", "百石元", "0"],
+    [10, "うっかり君の為に", "百石元", "0"],
+    [11, "Genki!", "百石元", "0"],
+    [12, "おばあちゃんのタンス", "百石元", "0"],
+    [13, "The other side of evening sun", "百石元", "0"],
+    [14, "Dead soldiers(笑)", "百石元", "0"],
+    [15, "Hold on to your love", "百石元", "0"],
+    [16, "Falling reinforced concrete", "百石元", "0"],
+    [17, "Small flashing", "百石元", "0"],
+    [18, "けん玉くん", "百石元", "0"],
+    [19, "軽い冗談", "百石元", "0"],
+    [20, "クレープはいかが?", "百石元", "0"],
+    [21, "Happy languidness", "百石元", "0"],
+    [22, "Emerald green", "百石元", "0"],
+    [23, "My hometown where it snows", "百石元", "0"],
+    [24, "銀世界の朝", "百石元", "0"],
+    [25, "Tea at the night of Christmas", "百石元", "0"],
+    [26, "子猫の演奏会", "百石元", "0"],
+    [27, "Patrol of stroll", "百石元", "0"],
+    [28, "Doki Doki Friday night", "百石元", "0"],
+    [29, "りんご…Ringo…リンゴ飴", "百石元", "0"],
+    [30, "15歳のマーチ", "百石元", "0"],
+    [31, "じゃじゃ馬3人娘", "百石元", "0"],
+    [32, "Hesitation", "百石元", "0"],
+    [33, "ピンチ大好き!", "百石元", "0"],
+    [34, "ドレスにクレープは似合わない?", "百石元", "0"],
+    [35, "あの日の夢", "百石元", "0"],
+    [36, "Happy End", "百石元", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1124,46 +1124,46 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Original Soundtrack Disc 10"
 tracks = [
-    [1, "One more tea?", "百石元", ""],
-    [2, "朝日を浴びて", "百石元", ""],
-    [3, "二人の世界", "百石元", ""],
-    [4, "Dance of pickled scallion", "百石元", ""],
-    [5, "Temptation with rain", "百石元", ""],
-    [6, "Tostada", "百石元", ""],
-    [7, "京都の朝", "百石元", ""],
-    [8, "Dragon God", "百石元", ""],
-    [9, "ハムスターのダンス", "百石元", ""],
-    [10, "あの日の帰り道", "百石元", ""],
-    [11, "玉虫厨子と三角定規", "百石元", ""],
-    [12, "Digital fancy doll", "百石元", ""],
-    [13, "ガッテンだ!", "百石元", ""],
-    [14, "Tea with you", "百石元", ""],
-    [15, "Reason that doesn’t develop", "百石元", ""],
-    [16, "Cherry’s feelings", "百石元", ""],
-    [17, "Worry of cherry", "百石元", ""],
-    [18, "Happy rainy day", "百石元", ""],
-    [19, "あめふり", "平沢 唯(CV:豊崎愛生)、平沢 憂(CV:米澤 円)", ""],
-    [20, "うさぎとかめ", "平沢唯(CV:豊崎愛生)", ""],
-    [21, "Early tea", "百石元", ""],
-    [22, "My dearest Baumküchen", "百石元", ""],
-    [23, "お菓子のメリーゴーランド", "百石元", ""],
-    [24, "Pasadena Fwy", "百石元", ""],
-    [25, "な・い・しょ!", "百石元", ""],
-    [26, "タリラリラン!", "百石元", ""],
-    [27, "潮騒と夕日", "百石元", ""],
-    [28, "セピア色の日記", "百石元", ""],
-    [29, "天ぷら君", "百石元", ""],
-    [30, "Hard luck girl", "百石元", ""],
-    [31, "Autumn breeze with you", "百石元", ""],
-    [32, "Fine rain in afternoon", "百石元", ""],
-    [33, "Cherry’s toy box", "百石元", ""],
-    [34, "抜き足差し足忍び足", "百石元", ""],
-    [35, "人魚の片思い", "百石元", ""],
-    [36, "階段の怪談", "百石元", ""],
-    [37, "U&I ～夕日の綺麗なあの丘で～", "百石元", ""],
-    [38, "雲上茶屋", "百石元", ""],
-    [39, "ふでぺん ～ボールペン～ (ゆいあずVer.)", "ゆいあず", ""],
-    [40, "桜が丘女子高等学校校歌", "桜高3-2、桜高2-1", ""],
+    [1, "One more tea?", "百石元", "0"],
+    [2, "朝日を浴びて", "百石元", "0"],
+    [3, "二人の世界", "百石元", "0"],
+    [4, "Dance of pickled scallion", "百石元", "0"],
+    [5, "Temptation with rain", "百石元", "0"],
+    [6, "Tostada", "百石元", "0"],
+    [7, "京都の朝", "百石元", "0"],
+    [8, "Dragon God", "百石元", "0"],
+    [9, "ハムスターのダンス", "百石元", "0"],
+    [10, "あの日の帰り道", "百石元", "0"],
+    [11, "玉虫厨子と三角定規", "百石元", "0"],
+    [12, "Digital fancy doll", "百石元", "0"],
+    [13, "ガッテンだ!", "百石元", "0"],
+    [14, "Tea with you", "百石元", "0"],
+    [15, "Reason that doesn’t develop", "百石元", "0"],
+    [16, "Cherry’s feelings", "百石元", "0"],
+    [17, "Worry of cherry", "百石元", "0"],
+    [18, "Happy rainy day", "百石元", "0"],
+    [19, "あめふり", "平沢 唯(CV:豊崎愛生)、平沢 憂(CV:米澤 円)", "0"],
+    [20, "うさぎとかめ", "平沢唯(CV:豊崎愛生)", "0"],
+    [21, "Early tea", "百石元", "0"],
+    [22, "My dearest Baumküchen", "百石元", "0"],
+    [23, "お菓子のメリーゴーランド", "百石元", "0"],
+    [24, "Pasadena Fwy", "百石元", "0"],
+    [25, "な・い・しょ!", "百石元", "0"],
+    [26, "タリラリラン!", "百石元", "0"],
+    [27, "潮騒と夕日", "百石元", "0"],
+    [28, "セピア色の日記", "百石元", "0"],
+    [29, "天ぷら君", "百石元", "0"],
+    [30, "Hard luck girl", "百石元", "0"],
+    [31, "Autumn breeze with you", "百石元", "0"],
+    [32, "Fine rain in afternoon", "百石元", "0"],
+    [33, "Cherry’s toy box", "百石元", "0"],
+    [34, "抜き足差し足忍び足", "百石元", "0"],
+    [35, "人魚の片思い", "百石元", "0"],
+    [36, "階段の怪談", "百石元", "0"],
+    [37, "U&I ～夕日の綺麗なあの丘で～", "百石元", "0"],
+    [38, "雲上茶屋", "百石元", "0"],
+    [39, "ふでぺん ～ボールペン～ (ゆいあずVer.)", "ゆいあず", "0"],
+    [40, "桜が丘女子高等学校校歌", "桜高3-2、桜高2-1", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1172,46 +1172,46 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Original Soundtrack Disc 11"
 tracks = [
-    [1, "Have some tea? (MOVIE Mix)", "百石元", ""],
-    [2, "白銀の朝", "百石元", ""],
-    [3, "干し芋の季節", "百石元", ""],
-    [4, "こなゆき", "百石元", ""],
-    [5, "ごり押しの理由", "百石元", ""],
-    [6, "茶箪笥のかほり", "百石元", ""],
-    [7, "二人の世界 (MOVIE Mix)", "百石元", ""],
-    [8, "茶柱運勢研究会", "百石元", ""],
-    [9, "Bossaでコーヒーを", "百石元", ""],
-    [10, "お化けの同窓会", "百石元", ""],
-    [11, "ガラスの向こう側", "百石元", ""],
-    [12, "正直者が考えた嘘", "百石元", ""],
-    [13, "その笑顔が好き", "百石元", ""],
-    [14, "海に行こうよ!", "百石元", ""],
-    [15, "水浴び大好きあひるちゃん", "百石元", ""],
-    [16, "地中海楽団", "百石元", ""],
-    [17, "Spilled tea", "百石元", ""],
-    [18, "Traditional tea", "百石元", ""],
-    [19, "Air of northern countries", "百石元", ""],
-    [20, "London E", "百石元", ""],
-    [21, "Yearning for the Far East", "百石元", ""],
-    [22, "Pleasant despair", "百石元", ""],
-    [23, "Train-D", "百石元", ""],
-    [24, "私のきもち", "百石元", ""],
-    [25, "かりんとう男爵の一週間", "百石元", ""],
-    [26, "Fairies’ Party", "百石元", ""],
-    [27, "退屈な時間", "百石元", ""],
-    [28, "結局今日も遅刻じゃないですか!", "百石元", ""],
-    [29, "そんな訳でタクシーで…、", "百石元", ""],
-    [30, "げげっ!大渋滞!!", "百石元", ""],
-    [31, "お日様キラキラ散歩道", "百石元", ""],
-    [32, "Artificial Candy", "百石元", ""],
-    [33, "ごり押しの言い訳", "百石元", ""],
-    [34, "女子の集中力", "百石元", ""],
-    [35, "Red jacket", "百石元", ""],
-    [36, "Stylish mistake", "百石元", ""],
-    [37, "Winter night in a warm room", "百石元", ""],
-    [38, "一等賞", "百石元", ""],
-    [39, "Far distant past", "百石元", ""],
-    [40, "しあわせのかけら", "百石元", ""],
+    [1, "Have some tea? (MOVIE Mix)", "百石元", "0"],
+    [2, "白銀の朝", "百石元", "0"],
+    [3, "干し芋の季節", "百石元", "0"],
+    [4, "こなゆき", "百石元", "0"],
+    [5, "ごり押しの理由", "百石元", "0"],
+    [6, "茶箪笥のかほり", "百石元", "0"],
+    [7, "二人の世界 (MOVIE Mix)", "百石元", "0"],
+    [8, "茶柱運勢研究会", "百石元", "0"],
+    [9, "Bossaでコーヒーを", "百石元", "0"],
+    [10, "お化けの同窓会", "百石元", "0"],
+    [11, "ガラスの向こう側", "百石元", "0"],
+    [12, "正直者が考えた嘘", "百石元", "0"],
+    [13, "その笑顔が好き", "百石元", "0"],
+    [14, "海に行こうよ!", "百石元", "0"],
+    [15, "水浴び大好きあひるちゃん", "百石元", "0"],
+    [16, "地中海楽団", "百石元", "0"],
+    [17, "Spilled tea", "百石元", "0"],
+    [18, "Traditional tea", "百石元", "0"],
+    [19, "Air of northern countries", "百石元", "0"],
+    [20, "London E", "百石元", "0"],
+    [21, "Yearning for the Far East", "百石元", "0"],
+    [22, "Pleasant despair", "百石元", "0"],
+    [23, "Train-D", "百石元", "0"],
+    [24, "私のきもち", "百石元", "0"],
+    [25, "かりんとう男爵の一週間", "百石元", "0"],
+    [26, "Fairies’ Party", "百石元", "0"],
+    [27, "退屈な時間", "百石元", "0"],
+    [28, "結局今日も遅刻じゃないですか!", "百石元", "0"],
+    [29, "そんな訳でタクシーで…、", "百石元", "0"],
+    [30, "げげっ!大渋滞!!", "百石元", "0"],
+    [31, "お日様キラキラ散歩道", "百石元", "0"],
+    [32, "Artificial Candy", "百石元", "0"],
+    [33, "ごり押しの言い訳", "百石元", "0"],
+    [34, "女子の集中力", "百石元", "0"],
+    [35, "Red jacket", "百石元", "0"],
+    [36, "Stylish mistake", "百石元", "0"],
+    [37, "Winter night in a warm room", "百石元", "0"],
+    [38, "一等賞", "百石元", "0"],
+    [39, "Far distant past", "百石元", "0"],
+    [40, "しあわせのかけら", "百石元", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1220,39 +1220,39 @@ catalognumber = "PCCG-01330"
 date = "2013-03-20"
 album = "K-ON! MUSIC HISTORY'S BOX Vocal Disc 12"
 tracks = [
-    [1, "Cagayake!GIRLS [GAME Mix]", "桜高軽音部", ""],
-    [2, "Happy!? Sorry!! [GAME Mix]", "桜高軽音部", ""],
-    [3, "Don’t say “lazy” [GAME Mix]", "桜高軽音部", ""],
-    [4, "Sweet Bitter Beauty Song [GAME Mix]", "桜高軽音部", ""],
-    [5, "カレーのちライス [GAME Mix]", "放課後ティータイム", ""],
-    [6, "わたしの恋はホッチキス [GAME Mix]", "放課後ティータイム", ""],
-    [7, "ふでペン ～ボールペン～ [GAME Mix]", "放課後ティータイム", ""],
-    [8, "ふわふわ時間 [GAME Mix]", "放課後ティータイム", ""],
-    [9, "ギー太に首ったけ [GAME Mix]", "平沢唯(CV:豊崎愛生)", ""],
-    [10, "Sunday Siesta [GAME Mix]", "平沢唯(CV:豊崎愛生)", ""],
-    [11, "『ﾚｯﾂｺﾞｰ』 [唯Ver.] [GAME Mix]", "平沢唯(CV:豊崎愛生)", ""],
-    [12, "Heart Goes Boom!! [GAME Mix]", "秋山澪(CV:日笠陽子)", ""],
-    [13, "Hello Little Girl [GAME Mix]", "秋山澪(CV:日笠陽子)", ""],
-    [14, "『ﾚｯﾂｺﾞｰ』 [澪Ver.] [GAME Mix]", "秋山澪(CV:日笠陽子)", ""],
-    [15, "Girly Storm 疾走 Stick [GAME Mix]", "田井中律(CV:佐藤聡美)", ""],
-    [16, "目指せハッピー100%↑↑↑ [GAME Mix]", "田井中律(CV:佐藤聡美)", ""],
-    [17, "『ﾚｯﾂｺﾞｰ』 [律Ver.] [GAME Mix]", "田井中律(CV:佐藤聡美)", ""],
-    [18, "Dear My Keys ～鍵盤の魔法～ [GAME Mix]", "琴吹紬(CV:寿美菜子)", ""],
-    [19, "Humming Bird [GAME Mix]", "琴吹紬(CV:寿美菜子)", ""],
-    [20, "『ﾚｯﾂｺﾞｰ』 [紬Ver.] [GAME Mix]", "琴吹紬(CV:寿美菜子)", ""],
-    [21, "じゃじゃ馬Way To Go [GAME Mix]", "中野梓(CV:竹達彩奈)", ""],
-    [22, "私は私の道を行く [GAME Mix]", "中野梓(CV:竹達彩奈)", ""],
-    [23, "『ﾚｯﾂｺﾞｰ』 [梓Ver.] [GAME Mix]", "中野梓(CV:竹達彩奈)", ""],
-    [24, "Cagayake!GIRLS [4人Ver.] [TV size Ver.]", "桜高軽音部", ""],
-    [25, "Don’t say “lazy” [TV size Ver.]", "桜高軽音部", ""],
-    [26, "Cagayake!GIRLS [5人Ver.] [TV size Ver.]", "放課後ティータイム", ""],
-    [27, "GO! GO! MANIAC [TV size Ver.]", "放課後ティータイム", ""],
-    [28, "Listen!! [TV size Ver.]", "放課後ティータイム", ""],
-    [29, "Utauyo!!MIRACLE [TV size Ver.]", "放課後ティータイム", ""],
-    [30, "NO, Thank You! [TV size Ver.]", "放課後ティータイム", ""],
-    [31, "いちばんいっぱい [MOVIE size Ver.]", "放課後ティータイム", ""],
-    [32, "Unmei♪wa♪Endless! [MOVIE size Ver.]", "放課後ティータイム", ""],
-    [33, "Singing! [MOVIE size Ver.]", "放課後ティータイム", ""],
+    [1, "Cagayake!GIRLS [GAME Mix]", "桜高軽音部", "0"],
+    [2, "Happy!? Sorry!! [GAME Mix]", "桜高軽音部", "0"],
+    [3, "Don’t say “lazy” [GAME Mix]", "桜高軽音部", "0"],
+    [4, "Sweet Bitter Beauty Song [GAME Mix]", "桜高軽音部", "0"],
+    [5, "カレーのちライス [GAME Mix]", "放課後ティータイム", "0"],
+    [6, "わたしの恋はホッチキス [GAME Mix]", "放課後ティータイム", "0"],
+    [7, "ふでペン ～ボールペン～ [GAME Mix]", "放課後ティータイム", "0"],
+    [8, "ふわふわ時間 [GAME Mix]", "放課後ティータイム", "0"],
+    [9, "ギー太に首ったけ [GAME Mix]", "平沢唯(CV:豊崎愛生)", "0"],
+    [10, "Sunday Siesta [GAME Mix]", "平沢唯(CV:豊崎愛生)", "0"],
+    [11, "『ﾚｯﾂｺﾞｰ』 [唯Ver.] [GAME Mix]", "平沢唯(CV:豊崎愛生)", "0"],
+    [12, "Heart Goes Boom!! [GAME Mix]", "秋山澪(CV:日笠陽子)", "0"],
+    [13, "Hello Little Girl [GAME Mix]", "秋山澪(CV:日笠陽子)", "0"],
+    [14, "『ﾚｯﾂｺﾞｰ』 [澪Ver.] [GAME Mix]", "秋山澪(CV:日笠陽子)", "0"],
+    [15, "Girly Storm 疾走 Stick [GAME Mix]", "田井中律(CV:佐藤聡美)", "0"],
+    [16, "目指せハッピー100%↑↑↑ [GAME Mix]", "田井中律(CV:佐藤聡美)", "0"],
+    [17, "『ﾚｯﾂｺﾞｰ』 [律Ver.] [GAME Mix]", "田井中律(CV:佐藤聡美)", "0"],
+    [18, "Dear My Keys ～鍵盤の魔法～ [GAME Mix]", "琴吹紬(CV:寿美菜子)", "0"],
+    [19, "Humming Bird [GAME Mix]", "琴吹紬(CV:寿美菜子)", "0"],
+    [20, "『ﾚｯﾂｺﾞｰ』 [紬Ver.] [GAME Mix]", "琴吹紬(CV:寿美菜子)", "0"],
+    [21, "じゃじゃ馬Way To Go [GAME Mix]", "中野梓(CV:竹達彩奈)", "0"],
+    [22, "私は私の道を行く [GAME Mix]", "中野梓(CV:竹達彩奈)", "0"],
+    [23, "『ﾚｯﾂｺﾞｰ』 [梓Ver.] [GAME Mix]", "中野梓(CV:竹達彩奈)", "0"],
+    [24, "Cagayake!GIRLS [4人Ver.] [TV size Ver.]", "桜高軽音部", "0"],
+    [25, "Don’t say “lazy” [TV size Ver.]", "桜高軽音部", "0"],
+    [26, "Cagayake!GIRLS [5人Ver.] [TV size Ver.]", "放課後ティータイム", "0"],
+    [27, "GO! GO! MANIAC [TV size Ver.]", "放課後ティータイム", "0"],
+    [28, "Listen!! [TV size Ver.]", "放課後ティータイム", "0"],
+    [29, "Utauyo!!MIRACLE [TV size Ver.]", "放課後ティータイム", "0"],
+    [30, "NO, Thank You! [TV size Ver.]", "放課後ティータイム", "0"],
+    [31, "いちばんいっぱい [MOVIE size Ver.]", "放課後ティータイム", "0"],
+    [32, "Unmei♪wa♪Endless! [MOVIE size Ver.]", "放課後ティータイム", "0"],
+    [33, "Singing! [MOVIE size Ver.]", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6196e34f-a961-4af9-a4e9-017eac226d48", "https://vgmdb.net/album/36975"]
 
@@ -1261,7 +1261,7 @@ catalognumber = "QWCE-00105"
 date = "2009-07-01"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 7"
 tracks = [
-    [1, "Cagayake!GIRLS", "Helvetia(DJ Sa9+Hommarju) feat.CAMRY", ""],
+    [1, "Cagayake!GIRLS", "Helvetia(DJ Sa9+Hommarju) feat.CAMRY", "0"],
     [2, "キミシニタモウコトナカレ", "MK feat.R.Cena", ""],
     [3, "Wonder Wind", "Hommarju feat.YURiE", ""],
     [4, "経験値速上々↑↑", "DJ Sa9 feat.MAKI", ""],
@@ -1279,7 +1279,7 @@ tracks = [
     [16, "HANAJI", "Hommarju feat.MAKI", ""],
     [17, "？でわっしょい", "Ryu* feat.MAKI+Ma15+CAMRY", ""],
     [18, "JAP", "Acid=Stone Valley feat.YUKI", ""],
-    [19, "Don't say \"lazy\"", "Helvetia(DJ Sa9+Hommarju) feat.Latte", ""],
+    [19, "Don't say \"lazy\"", "Helvetia(DJ Sa9+Hommarju) feat.Latte", "0"],
     [20, "ずっとみつめていて (Ryu*Remix)", "DJ UTO vs.Starving Trancer feat.森永真由美", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8ad5b531-38b5-4721-89ad-1bea9e977a79", "https://vgmdb.net/album/46168"]
@@ -1289,7 +1289,7 @@ catalognumber = "PREGET-2"
 date = "2009-06-24"
 album = "アニメにとろ☆痛音みっくす!"
 tracks = [
-    [1, "Don't say lazy（kors k Remix）", "kors k", ""],
+    [1, "Don't say lazy（kors k Remix）", "kors k", "0"],
     [2, "もってけ！ セーラーふく（ホントにもっていっていいの？セーラーふくRemix）", "REDALiCE", ""],
     [3, "星間飛行（REDALiCE Remix）", "REDALiCE", ""],
     [4, "ライオン (Punk Dirty Channel Remix）", "Punk Dirty Channel", ""],
@@ -1313,12 +1313,12 @@ catalognumber = "PCCG-01066"
 date = "2010-09-21"
 album = "TVアニメ「けいおん!!」イメージソング　秋山澪"
 tracks = [
-    [1, "青春Vibration", "秋山澪(CV:日笠陽子)", ""],
-    [2, "蒼空のモノローグ", "秋山澪(CV:日笠陽子)", ""],
-    [3, "Come with Me!! (澪Ver.)", "秋山澪(CV:日笠陽子)", ""],
-    [4, "青春Vibration (Instrumental)", "秋山澪(CV:日笠陽子)", ""],
-    [5, "蒼空のモノローグ (Instrumental)", "秋山澪(CV:日笠陽子)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "青春Vibration", "秋山澪(CV:日笠陽子)", "0"],
+    [2, "蒼空のモノローグ", "秋山澪(CV:日笠陽子)", "0"],
+    [3, "Come with Me!! (澪Ver.)", "秋山澪(CV:日笠陽子)", "0"],
+    [4, "青春Vibration (Instrumental)", "秋山澪(CV:日笠陽子)", "0"],
+    [5, "蒼空のモノローグ (Instrumental)", "秋山澪(CV:日笠陽子)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/443b6020-7596-455f-8104-919c2b178494", "https://vgmdb.net/album/22404"]
 
@@ -1327,12 +1327,12 @@ catalognumber = "PCCG-01075"
 date = "2011-01-19"
 album = "TVアニメ「けいおん!!」イメージソング　鈴木純"
 tracks = [
-    [1, "純情Bomber!!", "鈴木純(CV:永田依子)", ""],
-    [2, "Midnight スーパースター☆☆☆", "鈴木純(CV:永田依子)", ""],
-    [3, "Come with Me!! (純Ver.)", "鈴木純(CV:永田依子)", ""],
-    [4, "純情Bomber!! (Instrumental)", "鈴木純(CV:永田依子)", ""],
-    [5, "Midnight スーパースター☆☆☆ (Instrumental)", "鈴木純(CV:永田依子)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "純情Bomber!!", "鈴木純(CV:永田依子)", "0"],
+    [2, "Midnight スーパースター☆☆☆", "鈴木純(CV:永田依子)", "0"],
+    [3, "Come with Me!! (純Ver.)", "鈴木純(CV:永田依子)", "0"],
+    [4, "純情Bomber!! (Instrumental)", "鈴木純(CV:永田依子)", "0"],
+    [5, "Midnight スーパースター☆☆☆ (Instrumental)", "鈴木純(CV:永田依子)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/89629162-74e2-42cd-9155-8ac408428b49", "https://vgmdb.net/album/22410"]
 
@@ -1341,20 +1341,20 @@ catalognumber = "PCCG-70081"
 date = "2010-09-08"
 album = "ごはんはおかず/U&I / 放課後ティータイム"
 tracks = [
-    [1, "ごはんはおかず", "放課後ティータイム", ""],
-    [2, "U&I", "放課後ティータイム", ""],
-    [3, "ごはんはおかず (Instrumental)", "放課後ティータイム", ""],
-    [4, "U&I (Instrumental)", "放課後ティータイム", ""],
-    [5, "ごはんはおかず (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [6, "ごはんはおかず (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [7, "ごはんはおかず (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [8, "ごはんはおかず (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [9, "ごはんはおかず (Instrumental【−Drums】)", "放課後ティータイム", ""],
-    [10, "U&I (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [11, "U&I (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [12, "U&I (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [13, "U&I (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [14, "U&I (Instrumental【−Drums】)", "放課後ティータイム", ""],
+    [1, "ごはんはおかず", "放課後ティータイム", "1"],
+    [2, "U&I", "放課後ティータイム", "1"],
+    [3, "ごはんはおかず (Instrumental)", "放課後ティータイム", "0"],
+    [4, "U&I (Instrumental)", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [6, "ごはんはおかず (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [7, "ごはんはおかず (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [8, "ごはんはおかず (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [9, "ごはんはおかず (Instrumental【−Drums】)", "放課後ティータイム", "0"],
+    [10, "U&I (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [11, "U&I (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [12, "U&I (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [13, "U&I (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [14, "U&I (Instrumental【−Drums】)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/25489b0a-30ac-4766-aadf-c0903ada2eca", "https://vgmdb.net/album/22848"]
 
@@ -1363,22 +1363,22 @@ catalognumber = "PCCG-01078"
 date = "2011-11-16"
 album = "けいおん! ライブイベント ～レッツゴー!～ LIVE CD! Disc 1 [PCCG-01078-1]"
 tracks = [
-    [1, "~オープニング", "放課後ティータイム", ""],
-    [2, "Cagayake!GIRLS", "放課後ティータイム", ""],
-    [3, "~Introduction 〔Guitar〕", "放課後ティータイム", ""],
-    [4, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", ""],
-    [5, "~Introduction 〔Bass〕", "放課後ティータイム", ""],
-    [6, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", ""],
-    [7, "~Introduction 〔Drums〕", "放課後ティータイム", ""],
-    [8, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", ""],
-    [9, "~Introduction 〔Keyboard〕", "放課後ティータイム", ""],
-    [10, "Dear My Keys ~鍵盤の魔法~", "琴吹紬(CV:寿美菜子)", ""],
-    [11, "~Introduction 〔Guiter〕", "放課後ティータイム", ""],
-    [12, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", ""],
-    [13, "~DEATH DEVIL登場", "放課後ティータイム", ""],
-    [14, "Maddy Candy", "DEATH DEVIL", ""],
-    [15, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", ""],
-    [16, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", ""],
+    [1, "~オープニング", "放課後ティータイム", "0"],
+    [2, "Cagayake!GIRLS", "放課後ティータイム", "0"],
+    [3, "~Introduction 〔Guitar〕", "放課後ティータイム", "0"],
+    [4, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", "0"],
+    [5, "~Introduction 〔Bass〕", "放課後ティータイム", "0"],
+    [6, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", "0"],
+    [7, "~Introduction 〔Drums〕", "放課後ティータイム", "0"],
+    [8, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", "0"],
+    [9, "~Introduction 〔Keyboard〕", "放課後ティータイム", "0"],
+    [10, "Dear My Keys ~鍵盤の魔法~", "琴吹紬(CV:寿美菜子)", "0"],
+    [11, "~Introduction 〔Guiter〕", "放課後ティータイム", "0"],
+    [12, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", "0"],
+    [13, "~DEATH DEVIL登場", "放課後ティータイム", "0"],
+    [14, "Maddy Candy", "DEATH DEVIL", "0"],
+    [15, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", "0"],
+    [16, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c2ef8975-2dce-482f-b1d4-0b934f94ae30", "https://vgmdb.net/album/30102"]
 
@@ -1387,14 +1387,14 @@ catalognumber = "PCCG-01078"
 date = "2011-11-16"
 album = "けいおん! ライブイベント ～レッツゴー!～ LIVE CD! Disc 2 [PCCG-01078-2]"
 tracks = [
-    [1, "~MC 「準備できた?」", "放課後ティータイム", ""],
-    [2, "カレーのちライス", "放課後ティータイム", ""],
-    [3, "ふでペン ~ボールペン~", "放課後ティータイム", ""],
-    [4, "わたしの恋はホッチキス", "放課後ティータイム", ""],
-    [5, "ふわふわ時間 (ライブイベント ~レッツゴー!~ Ver.)", "放課後ティータイム", ""],
-    [6, "Don’t say “lazy”", "放課後ティータイム", ""],
-    [7, "Cagayake!GIRLS", "放課後ティータイム", ""],
-    [8, "『レッツゴー』", "平沢唯(CV:豊崎愛生)", ""],
+    [1, "~MC 「準備できた?」", "放課後ティータイム", "0"],
+    [2, "カレーのちライス", "放課後ティータイム", "0"],
+    [3, "ふでペン ~ボールペン~", "放課後ティータイム", "0"],
+    [4, "わたしの恋はホッチキス", "放課後ティータイム", "0"],
+    [5, "ふわふわ時間 (ライブイベント ~レッツゴー!~ Ver.)", "放課後ティータイム", "0"],
+    [6, "Don’t say “lazy”", "放課後ティータイム", "0"],
+    [7, "Cagayake!GIRLS", "放課後ティータイム", "0"],
+    [8, "『レッツゴー』", "平沢唯(CV:豊崎愛生)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c2ef8975-2dce-482f-b1d4-0b934f94ae30", "https://vgmdb.net/album/30102"]
 
@@ -1403,10 +1403,10 @@ catalognumber = "PCCG-70074"
 date = "2010-04-28"
 album = "Listen!! / 放課後ティータイム"
 tracks = [
-    [1, "Listen!!", "放課後ティータイム", ""],
-    [2, "Our MAGIC", "放課後ティータイム", ""],
-    [3, "Listen!!(Instrumental)", "放課後ティータイム", ""],
-    [4, "Our MAGIC(Instrumental)", "放課後ティータイム", ""],
+    [1, "Listen!!", "放課後ティータイム", "0"],
+    [2, "Our MAGIC", "放課後ティータイム", "0"],
+    [3, "Listen!!(Instrumental)", "放課後ティータイム", "0"],
+    [4, "Our MAGIC(Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d023e550-87c0-3223-be6f-222643f0701d", "https://vgmdb.net/album/19844"]
 
@@ -1421,7 +1421,7 @@ tracks = [
     [4, "深青Philosophy -DJ SHARPNEL Remix-", "山本結", ""],
     [5, "願いが叶う場所 -DJ SHARPNEL Remix-", "多田葵", ""],
     [6, "赤い約束 -MUZIK SERVANT Remix-", "Lia", ""],
-    [7, "Don't say \"lazy\" -DJ Hirojack Mix-", "Veil", ""],
+    [7, "Don't say \"lazy\" -DJ Hirojack Mix-", "Veil", "0"],
     [8, "尋ねビト -DJ SHIMAMURA Remix-", "Lia", ""],
     [9, "「Veil ∞ Radio」 Special Program", "Veil", ""],
 ]
@@ -1432,7 +1432,7 @@ catalognumber = "ATCD-21001"
 date = "2009-08-26"
 album = "ANIME HOUSE PROJECT -神曲 selection vol.1-"
 tracks = [
-    [1, "Don't say \"lazy\"", "anporin", ""],
+    [1, "Don't say \"lazy\"", "anporin", "0"],
     [2, "空色デイズ", "miko + Resurrection", ""],
     [3, "残酷な天使のテーゼ", "A〜YA", ""],
     [4, "輪舞-revolution", "Yuko Hirabuki", ""],
@@ -1452,12 +1452,12 @@ catalognumber = "PCCG-00983"
 date = "2009-08-26"
 album = "TVアニメ「けいおん!」イメージソング　田井中律"
 tracks = [
-    [1, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", ""],
-    [2, "目指せハッピー100%↑↑↑", "田井中律(CV:佐藤聡美)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』(律Ver.)", "田井中律(CV:佐藤聡美)", ""],
-    [4, "Girly Storm 疾走 Stick (instrumental)", "田井中律(CV:佐藤聡美)", ""],
-    [5, "目指せハッピー100%↑↑↑ (instrumental)", "田井中律(CV:佐藤聡美)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』(instrumental)", "放課後ティータイム", ""],
+    [1, "Girly Storm 疾走 Stick", "田井中律(CV:佐藤聡美)", "0"],
+    [2, "目指せハッピー100%↑↑↑", "田井中律(CV:佐藤聡美)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』(律Ver.)", "田井中律(CV:佐藤聡美)", "0"],
+    [4, "Girly Storm 疾走 Stick (instrumental)", "田井中律(CV:佐藤聡美)", "0"],
+    [5, "目指せハッピー100%↑↑↑ (instrumental)", "田井中律(CV:佐藤聡美)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』(instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e07f14f3-d18e-453e-b044-49f746843651", "https://vgmdb.net/album/22398"]
 
@@ -1466,10 +1466,10 @@ catalognumber = "PCCG-70036"
 date = "2009-04-22"
 album = "Cagayake!GIRLS / 桜高軽音部"
 tracks = [
-    [1, "Cagayake!GIRLS", "桜高軽音部", ""],
-    [2, "Happy!? Sorry!!", "桜高軽音部", ""],
-    [3, "Cagayake!GIRLS (Instrumental)", "桜高軽音部", ""],
-    [4, "Happy!? Sorry!! (Instrumental)", "桜高軽音部", ""],
+    [1, "Cagayake!GIRLS", "桜高軽音部", "1"],
+    [2, "Happy!? Sorry!!", "桜高軽音部", "0"],
+    [3, "Cagayake!GIRLS (Instrumental)", "桜高軽音部", "0"],
+    [4, "Happy!? Sorry!! (Instrumental)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a0e2c7d7-3769-47a7-ae4f-82d78ddd7d6e", "https://vgmdb.net/album/19805"]
 
@@ -1488,7 +1488,7 @@ tracks = [
     [8, "ふたりごと", "赤澤遼太郎", ""],
     [9, "last cross", "獅子神レオナ", ""],
     [10, "逆夢", "林勇", ""],
-    [11, "ふわふわ時間", "大西亜玖璃", ""],
+    [11, "ふわふわ時間", "大西亜玖璃", "0"],
     [12, "お願いマッスル", "オーイシマサヨシ", ""],
     [13, "Rain", "花澤香菜", ""],
 ]
@@ -1499,7 +1499,7 @@ catalognumber = ""
 date = "2010-10-22"
 album = "JAP vol.1 animation japan cover tracks / LOVERIN TAMBURIN"
 tracks = [
-    [1, "Don't say \"lazy\"", "", ""],
+    [1, "Don't say \"lazy\"", "", "0"],
     [2, "キミモノガタリ", "", ""],
     [3, "解読不能", "", ""],
     [4, "フレンズ", "", ""],
@@ -1515,8 +1515,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:10", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Cagayake! GIRLS", "", ""],
-    [2, "Happy!? Sorry!!", "", ""],
+    [1, "Cagayake! GIRLS", "", "0"],
+    [2, "Happy!? Sorry!!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1528,8 +1528,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:24", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Don't say \"lazy\"", "", ""],
-    [2, "Sweet Bitter Beauty Song", "", ""],
+    [1, "Don't say \"lazy\"", "", "0"],
+    [2, "Sweet Bitter Beauty Song", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1541,8 +1541,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:31", "", ""],
     [0, "B-Side", "", ""],
-    [1, "ギー太に首ったけ", "", ""],
-    [2, "Sunday Siesta", "", ""],
+    [1, "ギー太に首ったけ", "", "0"],
+    [2, "Sunday Siesta", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1554,8 +1554,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:36", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Heart Goes Boom!!", "", ""],
-    [2, "Hello Little Girl", "", ""],
+    [1, "Heart Goes Boom!!", "", "0"],
+    [2, "Hello Little Girl", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1567,8 +1567,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:34", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Girly Storm 疾走 Stick", "", ""],
-    [2, "目指せハッピー100%↑↑↑", "", ""],
+    [1, "Girly Storm 疾走 Stick", "", "0"],
+    [2, "目指せハッピー100%↑↑↑", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1580,8 +1580,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:39", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Dear My Keys ～鍵盤の魔法～", "", ""],
-    [2, "Humming Bird", "", ""],
+    [1, "Dear My Keys ～鍵盤の魔法～", "", "0"],
+    [2, "Humming Bird", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1593,8 +1593,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:29", "", ""],
     [0, "B-Side", "", ""],
-    [1, "じゃじゃ馬Way To Go", "", ""],
-    [2, "私は私の道を行く", "", ""],
+    [1, "じゃじゃ馬Way To Go", "", "0"],
+    [2, "私は私の道を行く", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35991"]
 
@@ -1605,7 +1605,7 @@ album = "おさむらいさんせれくしょん Vol.1.1"
 tracks = [
     [1, "恋愛サーキュレーション", "", ""],
     [2, "メルト", "", ""],
-    [3, "Don't say lazy", "", ""],
+    [3, "Don't say lazy", "", "0"],
     [4, "風に遊ばれて", "", ""],
     [5, "だんご大家族", "", ""],
     [6, "月灯りふんわり落ちてくる夜", "", ""],
@@ -1625,12 +1625,12 @@ catalognumber = "PCCG-01068"
 date = "2010-11-17"
 album = "TVアニメ「けいおん!!」イメージソング　琴吹紬"
 tracks = [
-    [1, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", ""],
-    [2, "野性の情熱", "琴吹紬(CV:寿美菜子)", ""],
-    [3, "Come with Me!! (紬Ver.)", "琴吹紬(CV:寿美菜子)", ""],
-    [4, "Diaryはフォルテシモ (Instrumental)", "琴吹紬(CV:寿美菜子)", ""],
-    [5, "野性の情熱 (Instrumental)", "琴吹紬(CV:寿美菜子)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "Diaryはフォルテシモ", "琴吹紬(CV:寿美菜子)", "1"],
+    [2, "野性の情熱", "琴吹紬(CV:寿美菜子)", "0"],
+    [3, "Come with Me!! (紬Ver.)", "琴吹紬(CV:寿美菜子)", "0"],
+    [4, "Diaryはフォルテシモ (Instrumental)", "琴吹紬(CV:寿美菜子)", "0"],
+    [5, "野性の情熱 (Instrumental)", "琴吹紬(CV:寿美菜子)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2da81b00-a4aa-4560-b277-b25e8c26658d", "https://vgmdb.net/album/22406"]
 
@@ -1639,12 +1639,12 @@ catalognumber = ""
 date = "2013-08-10"
 album = "猫招き歌劇団 けいおん! イメージソング集 け・い・お・ん・ぶ♪"
 tracks = [
-    [1, "ゴメンねけしゴム", "Roundbooster Architexture", ""],
-    [2, "かがやきサマー", "Roundbooster Architexture", ""],
-    [3, "きまぐれツインテール", "Roundbooster Architexture", ""],
-    [4, "恋するコンパス", "Roundbooster Architexture", ""],
-    [5, "レモン? or ミルク?", "Roundbooster Architexture", ""],
-    [6, "け・い・お・ん・ぶ♪", "Roundbooster Architexture", ""],
+    [1, "ゴメンねけしゴム", "Roundbooster Architexture", "0"],
+    [2, "かがやきサマー", "Roundbooster Architexture", "0"],
+    [3, "きまぐれツインテール", "Roundbooster Architexture", "0"],
+    [4, "恋するコンパス", "Roundbooster Architexture", "0"],
+    [5, "レモン? or ミルク?", "Roundbooster Architexture", "0"],
+    [6, "け・い・お・ん・ぶ♪", "Roundbooster Architexture", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/aa191851-0f8c-4834-9677-122dfa9fed8d", "https://vgmdb.net/album/65982"]
 
@@ -1653,10 +1653,10 @@ catalognumber = "PCCG-70072"
 date = "2010-04-28"
 album = "GO! GO! MANIAC / 放課後ティータイム"
 tracks = [
-    [1, "GO! GO! MANIAC", "放課後ティータイム", ""],
-    [2, "Genius…!?", "放課後ティータイム", ""],
-    [3, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", ""],
-    [4, "Genius…!?(Instrumental)", "放課後ティータイム", ""],
+    [1, "GO! GO! MANIAC", "放課後ティータイム", "1"],
+    [2, "Genius…!?", "放課後ティータイム", "0"],
+    [3, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", "0"],
+    [4, "Genius…!?(Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0a0316b7-ec24-3c7e-a1cf-9d54894680dd", "https://vgmdb.net/album/19834"]
 
@@ -1753,12 +1753,12 @@ catalognumber = "PCCG-00981"
 date = "2009-06-17"
 album = "TVアニメ「けいおん!」イメージソング　平沢唯"
 tracks = [
-    [1, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", ""],
-    [2, "Sunday Siesta", "平沢唯(CV:豊崎愛生)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』 (唯Ver.)", "平沢唯(CV:豊崎愛生)", ""],
-    [4, "ギー太に首ったけ (instrumental)", "平沢唯(CV:豊崎愛生)", ""],
-    [5, "Sunday Siesta (instrumental)", "平沢唯(CV:豊崎愛生)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", ""],
+    [1, "ギー太に首ったけ", "平沢唯(CV:豊崎愛生)", "0"],
+    [2, "Sunday Siesta", "平沢唯(CV:豊崎愛生)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』 (唯Ver.)", "平沢唯(CV:豊崎愛生)", "0"],
+    [4, "ギー太に首ったけ (instrumental)", "平沢唯(CV:豊崎愛生)", "0"],
+    [5, "Sunday Siesta (instrumental)", "平沢唯(CV:豊崎愛生)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1492ce2b-a9ee-4aa3-b9e2-b18ad093bc51", "https://vgmdb.net/album/19881"]
 
@@ -1769,7 +1769,7 @@ album = "東方穴映画"
 tracks = [
     [1, "ボボカフェ", "Sketch the Fantasy", ""],
     [2, "さくらサンプル", "Sketch the Fantasy", ""],
-    [3, "ふわふわ時間", "Sketch the Fantasy", ""],
+    [3, "ふわふわ時間", "Sketch the Fantasy", "0"],
     [4, "魔犬界の過密倶楽部のリーダー仙田光孝", "Sketch the Fantasy", ""],
     [5, "もち関係", "Sketch the Fantasy", ""],
     [6, "暗闇の風穴", "Sketch the Fantasy", ""],
@@ -1781,10 +1781,10 @@ catalognumber = "PCCG-70039"
 date = "2009-04-22"
 album = "Don't say \"lazy\" / 桜高軽音部"
 tracks = [
-    [1, "Don’t say “lazy”", "桜高軽音部", ""],
-    [2, "Sweet Bitter Beauty Song", "桜高軽音部", ""],
-    [3, "Don’t say “lazy” (Instrumental)", "桜高軽音部", ""],
-    [4, "Sweet Bitter Beauty Song (Instrumental)", "桜高軽音部", ""],
+    [1, "Don’t say “lazy”", "桜高軽音部", "1"],
+    [2, "Sweet Bitter Beauty Song", "桜高軽音部", "0"],
+    [3, "Don’t say “lazy” (Instrumental)", "桜高軽音部", "0"],
+    [4, "Sweet Bitter Beauty Song (Instrumental)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/353af59b-a0ec-4820-94ea-d10d9474823b", "https://vgmdb.net/album/19821"]
 
@@ -1793,10 +1793,10 @@ catalognumber = "PCCG-70079"
 date = "2010-08-04"
 album = "NO, Thank You! / 放課後ティータイム"
 tracks = [
-    [1, "NO, Thank You!", "放課後ティータイム", ""],
-    [2, "Girls in Wonderland", "放課後ティータイム", ""],
-    [3, "NO, Thank You! (Instrumental)", "放課後ティータイム", ""],
-    [4, "Girls in Wonderland (Instrumental)", "放課後ティータイム", ""],
+    [1, "NO, Thank You!", "放課後ティータイム", "1"],
+    [2, "Girls in Wonderland", "放課後ティータイム", "0"],
+    [3, "NO, Thank You! (Instrumental)", "放課後ティータイム", "0"],
+    [4, "Girls in Wonderland (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0b9aae5b-c309-4dcb-9545-3aac30e8ee99", "https://vgmdb.net/album/20122"]
 
@@ -1805,11 +1805,11 @@ catalognumber = "GNCA-1519"
 date = "2018-01-24"
 album = "NAGAREDA PPPH / 流田Project"
 tracks = [
-    [1, "Don't say \"lazy\"", "流田Project", ""],
+    [1, "Don't say \"lazy\"", "流田Project", "0"],
     [2, "only my railgun", "流田Project", ""],
     [3, "JOINT", "流田Project", ""],
     [4, "LEVEL5-judgelight-", "流田Project", ""],
-    [5, "God knows...", "流田Project", ""],
+    [5, "God knows...", "流田Project", "0"],
     [6, "空色デイズ", "流田Project", ""],
     [7, "No buts!", "流田Project", ""],
     [8, "侵略ノススメ☆", "流田Project", ""],
@@ -1828,12 +1828,12 @@ catalognumber = "PCCG-01073"
 date = "2011-01-19"
 album = "TVアニメ「けいおん!!」イメージソング　平沢憂"
 tracks = [
-    [1, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", ""],
-    [2, "Shiny GEMS", "平沢憂(CV:米澤円)", ""],
-    [3, "Come with Me!! (憂Ver.)", "平沢憂(CV:米澤円)", ""],
-    [4, "ウキウキNew! My Way (Instrumental)", "平沢憂(CV:米澤円)", ""],
-    [5, "Shiny GEMS (Instrumental)", "平沢憂(CV:米澤円)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "ウキウキNew! My Way", "平沢憂(CV:米澤円)", "0"],
+    [2, "Shiny GEMS", "平沢憂(CV:米澤円)", "0"],
+    [3, "Come with Me!! (憂Ver.)", "平沢憂(CV:米澤円)", "0"],
+    [4, "ウキウキNew! My Way (Instrumental)", "平沢憂(CV:米澤円)", "0"],
+    [5, "Shiny GEMS (Instrumental)", "平沢憂(CV:米澤円)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a0fcccb2-3948-4ac7-a0e2-083073d81ac9", "https://vgmdb.net/album/22408"]
 
@@ -1842,10 +1842,10 @@ catalognumber = "PCCG-70085"
 date = "2011-12-07"
 album = "Singing! / 放課後ティータイム"
 tracks = [
-    [1, "Singing!", "放課後ティータイム", ""],
-    [2, "おはよう、またあした", "放課後ティータイム", ""],
-    [3, "Singing! (Instrumental)", "放課後ティータイム", ""],
-    [4, "おはよう、またあした (Instrumental)", "放課後ティータイム", ""],
+    [1, "Singing!", "放課後ティータイム", "1"],
+    [2, "おはよう、またあした", "放課後ティータイム", "0"],
+    [3, "Singing! (Instrumental)", "放課後ティータイム", "0"],
+    [4, "おはよう、またあした (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/99fd1d85-4c8a-4b99-9e28-846a16bb5a40", "https://vgmdb.net/album/30306"]
 
@@ -1863,8 +1863,8 @@ tracks = [
     [7, "Naru", "", ""],
     [8, "オレンジ色", "", ""],
     [9, "Songbirds", "", ""],
-    [10, "Don't say \"lazy\"", "", ""],
-    [11, "ふわふわ時間", "", ""],
+    [10, "Don't say \"lazy\"", "", "0"],
+    [11, "ふわふわ時間", "", "0"],
     [12, "優しさの理由", "", ""],
     [13, "From EVER BLUE", "", ""],
     [14, "Rhythm of new sensation", "", ""],
@@ -1874,7 +1874,7 @@ tracks = [
     [18, "Relate to you", "", ""],
     [19, "Into the new world", "", ""],
     [20, "Never seen landscapes", "", ""],
-    [21, "Don't matter anymore", "", ""],
+    [21, "Don't matter anymore", "", "0"],
     [22, "We could be free", "", ""],
     [23, "トゥッティ！", "", ""],
     [24, "ヴィヴァーチェ！", "", ""],
@@ -1937,7 +1937,7 @@ tracks = [
     [4, "オリオンをなぞる", "", ""],
     [5, "Chase the world", "", ""],
     [6, "Super Driver", "", ""],
-    [7, "Cagayake!GIRLS", "", ""],
+    [7, "Cagayake!GIRLS", "", "0"],
     [8, "舞風", "", ""],
     [9, "oath sign", "", ""],
     [10, "ゆずれない願い", "", ""],
@@ -1964,14 +1964,14 @@ catalognumber = "PCCG-70040"
 date = "2009-05-20"
 album = "ふわふわ時間 / 桜高軽音部"
 tracks = [
-    [1, "ふわふわ時間", "桜高軽音部", ""],
-    [2, "翼をください", "桜高軽音部", ""],
-    [3, "ふわふわ時間 (Instrumental)", "桜高軽音部", ""],
-    [4, "翼をください (Instrumental)", "桜高軽音部", ""],
-    [5, "ふわふわ時間 (Instrumental 【−Guitar】)", "桜高軽音部", ""],
-    [6, "ふわふわ時間 (Instrumental 【−Keyboard】)", "桜高軽音部", ""],
-    [7, "ふわふわ時間 (Instrumental 【−Bass】)", "桜高軽音部", ""],
-    [8, "ふわふわ時間 (Instrumental 【−Drums】)", "桜高軽音部", ""],
+    [1, "ふわふわ時間", "桜高軽音部", "1"],
+    [2, "翼をください", "桜高軽音部", "0"],
+    [3, "ふわふわ時間 (Instrumental)", "桜高軽音部", "0"],
+    [4, "翼をください (Instrumental)", "桜高軽音部", "0"],
+    [5, "ふわふわ時間 (Instrumental 【−Guitar】)", "桜高軽音部", "0"],
+    [6, "ふわふわ時間 (Instrumental 【−Keyboard】)", "桜高軽音部", "0"],
+    [7, "ふわふわ時間 (Instrumental 【−Bass】)", "桜高軽音部", "0"],
+    [8, "ふわふわ時間 (Instrumental 【−Drums】)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bff79ce9-d7fa-4319-872c-cfce42db238e", "https://vgmdb.net/album/19816"]
 
@@ -1980,10 +1980,10 @@ catalognumber = "PCCG-70080"
 date = "2010-08-04"
 album = "NO, Thank You! / HO-KAGO TEA TIME"
 tracks = [
-    [1, "NO, Thank You!", "放課後ティータイム", ""],
-    [2, "Girls in Wonderland", "放課後ティータイム", ""],
-    [3, "NO, Thank You! (Instrumental)", "放課後ティータイム", ""],
-    [4, "Girls in Wonderland (Instrumental)", "放課後ティータイム", ""],
+    [1, "NO, Thank You!", "放課後ティータイム", "0"],
+    [2, "Girls in Wonderland", "放課後ティータイム", "0"],
+    [3, "NO, Thank You! (Instrumental)", "放課後ティータイム", "0"],
+    [4, "Girls in Wonderland (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0a17543c-708c-37cf-bfcb-7872723974d9", "https://vgmdb.net/album/20119"]
 
@@ -2005,12 +2005,12 @@ catalognumber = "SNGLY-006"
 date = "2011-12-31"
 album = "\"K-MODEL\" Xing Songs -カップリング・ソングズ- vol.5"
 tracks = [
-    [1, "Cagayake!GIRLS -Art Mania Ver.-", "", ""],
-    [2, "U&I -Stone Age! Ver.-", "", ""],
-    [3, "天使にふれたよ！ -LEAK Ver.-", "", ""],
-    [4, "Cagayake!GIRLS -Art Mania Ver.- Instrumental", "", ""],
-    [5, "U&I -Stone Age! Ver.- Instrumental", "", ""],
-    [6, "天使にふれたよ！ -LEAK Ver.- Instrumental", "", ""],
+    [1, "Cagayake!GIRLS -Art Mania Ver.-", "", "0"],
+    [2, "U&I -Stone Age! Ver.-", "", "0"],
+    [3, "天使にふれたよ！ -LEAK Ver.-", "", "0"],
+    [4, "Cagayake!GIRLS -Art Mania Ver.- Instrumental", "", "0"],
+    [5, "U&I -Stone Age! Ver.- Instrumental", "", "0"],
+    [6, "天使にふれたよ！ -LEAK Ver.- Instrumental", "", "0"],
 ]
 links = ["https://vgmdb.net/album/110258"]
 
@@ -2019,10 +2019,10 @@ catalognumber = "PCCG-70076"
 date = "2010-06-23"
 album = "ラヴ"
 tracks = [
-    [1, "ラヴ", "DEATH DEVIL", ""],
-    [2, "GENOM", "DEATH DEVIL", ""],
-    [3, "ラヴ (Instrumental)", "DEATH DEVIL", ""],
-    [4, "GENOM (Instrumental)", "DEATH DEVIL", ""],
+    [1, "ラヴ", "DEATH DEVIL", "0"],
+    [2, "GENOM", "DEATH DEVIL", "0"],
+    [3, "ラヴ (Instrumental)", "DEATH DEVIL", "0"],
+    [4, "GENOM (Instrumental)", "DEATH DEVIL", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ca188668-96c4-4e15-8307-4457ff4f3301", "https://vgmdb.net/album/20396"]
 
@@ -2031,10 +2031,10 @@ catalognumber = "PCCG-70071"
 date = "2010-04-28"
 album = "GO! GO! MANIAC / 放課後ティータイム"
 tracks = [
-    [1, "GO! GO! MANIAC", "放課後ティータイム", ""],
-    [2, "Genius…!?", "放課後ティータイム", ""],
-    [3, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", ""],
-    [4, "Genius…!?(Instrumental)", "放課後ティータイム", ""],
+    [1, "GO! GO! MANIAC", "放課後ティータイム", "0"],
+    [2, "Genius…!?", "放課後ティータイム", "0"],
+    [3, "GO! GO! MANIAC(Instrumental)", "放課後ティータイム", "0"],
+    [4, "Genius…!?(Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1823e5ef-7d64-4428-8f19-81db793c70e2", "https://vgmdb.net/album/19835"]
 
@@ -2043,12 +2043,12 @@ catalognumber = "PCCG-01069"
 date = "2010-11-17"
 album = "TVアニメ「けいおん!!」イメージソング　中野梓"
 tracks = [
-    [1, "Over the Starlight", "中野梓(CV:竹達彩奈)", ""],
-    [2, "Joyful Todays", "中野梓(CV:竹達彩奈)", ""],
-    [3, "Come with Me!! (梓Ver.)", "中野梓(CV:竹達彩奈)", ""],
-    [4, "Over the Starlight (Instrumental)", "中野梓(CV:竹達彩奈)", ""],
-    [5, "Joyful Todays (Instrumental)", "中野梓(CV:竹達彩奈)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "Over the Starlight", "中野梓(CV:竹達彩奈)", "0"],
+    [2, "Joyful Todays", "中野梓(CV:竹達彩奈)", "0"],
+    [3, "Come with Me!! (梓Ver.)", "中野梓(CV:竹達彩奈)", "0"],
+    [4, "Over the Starlight (Instrumental)", "中野梓(CV:竹達彩奈)", "0"],
+    [5, "Joyful Todays (Instrumental)", "中野梓(CV:竹達彩奈)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e636bf6c-4729-4a5c-a532-8bf8be8d2586", "https://vgmdb.net/album/22407"]
 
@@ -2060,8 +2060,8 @@ tracks = [
     [1, "Only my railgun", "", ""],
     [2, "裏切りの夕焼け", "", ""],
     [3, "Perfect-area complete!", "", ""],
-    [4, "Don’t say \"lazy\"", "", ""],
-    [5, "ふわふわ時間", "", ""],
+    [4, "Don’t say \"lazy\"", "", "0"],
+    [5, "ふわふわ時間", "", "0"],
     [6, "恋愛サーキュレーション", "", ""],
     [7, "星間飛行", "", ""],
     [8, "バラライカ", "", ""],
@@ -2070,7 +2070,7 @@ tracks = [
     [11, "最強パレパレード", "", ""],
     [12, "あんりある♥パラダイス", "", ""],
     [13, "カルマ", "", ""],
-    [14, "Cagayake!GIRLS", "", ""],
+    [14, "Cagayake!GIRLS", "", "0"],
     [15, "UTAUYO!!MIRACLE", "", ""],
 ]
 links = ["https://vgmdb.net/album/86030"]
@@ -2080,11 +2080,11 @@ catalognumber = "CHOM-0031"
 date = "2009-08-14"
 album = "ILLUSI-ON!"
 tracks = [
-    [1, "Cagayake!GIRLS (Digital Radical remix)", "", ""],
-    [2, "Don't say \"lazy\" (Siestail-crazy-rmx)", "", ""],
+    [1, "Cagayake!GIRLS (Digital Radical remix)", "", "0"],
+    [2, "Don't say \"lazy\" (Siestail-crazy-rmx)", "", "0"],
     [3, "Fuwa Fuwa Time (High School Dance Party Remix)", "", ""],
-    [4, "Don't say \"lazy\" (赤頭巾ちゃん御用心 re:mix)", "", ""],
-    [5, "私の恋はホッチキス (Unpluged Session remix)", "", ""],
+    [4, "Don't say \"lazy\" (赤頭巾ちゃん御用心 re:mix)", "", "0"],
+    [5, "私の恋はホッチキス (Unpluged Session remix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/42556"]
 
@@ -2093,10 +2093,10 @@ catalognumber = "PCCG-70083"
 date = "2011-12-07"
 album = "Unmei♪wa♪Endless! / 放課後ティータイム"
 tracks = [
-    [1, "Unmei♪wa♪Endless!", "放課後ティータイム", ""],
-    [2, "いちばんいっぱい", "放課後ティータイム", ""],
-    [3, "Unmei♪wa♪Endless!(Instrumental)", "放課後ティータイム", ""],
-    [4, "いちばんいっぱい (Instrumental)", "放課後ティータイム", ""],
+    [1, "Unmei♪wa♪Endless!", "放課後ティータイム", "0"],
+    [2, "いちばんいっぱい", "放課後ティータイム", "0"],
+    [3, "Unmei♪wa♪Endless!(Instrumental)", "放課後ティータイム", "0"],
+    [4, "いちばんいっぱい (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0d7c1c95-01f2-42cf-880b-49373d6fb703", "https://vgmdb.net/album/30041"]
 
@@ -2105,10 +2105,10 @@ catalognumber = "PCCG-70038"
 date = "2009-04-22"
 album = "Don't say \"lazy\" / 桜高軽音部"
 tracks = [
-    [1, "Don’t say “lazy”", "桜高軽音部", ""],
-    [2, "Sweet Bitter Beauty Song", "桜高軽音部", ""],
-    [3, "Don’t say “lazy” (Instrumental)", "桜高軽音部", ""],
-    [4, "Sweet Bitter Beauty Song (Instrumental)", "桜高軽音部", ""],
+    [1, "Don’t say “lazy”", "桜高軽音部", "0"],
+    [2, "Sweet Bitter Beauty Song", "桜高軽音部", "0"],
+    [3, "Don’t say “lazy” (Instrumental)", "桜高軽音部", "0"],
+    [4, "Sweet Bitter Beauty Song (Instrumental)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8bb82f1e-f336-4854-bf60-7ba503fbb167", "https://vgmdb.net/album/19822"]
 
@@ -2117,10 +2117,10 @@ catalognumber = "PCCG-70037"
 date = "2009-04-22"
 album = "Cagayake!GIRLS / 桜高軽音部"
 tracks = [
-    [1, "Cagayake!GIRLS", "桜高軽音部", ""],
-    [2, "Happy!? Sorry!!", "桜高軽音部", ""],
-    [3, "Cagayake!GIRLS (off vocal)", "桜高軽音部", ""],
-    [4, "Happy!? Sorry!! (off vocal)", "桜高軽音部", ""],
+    [1, "Cagayake!GIRLS", "桜高軽音部", "0"],
+    [2, "Happy!? Sorry!!", "桜高軽音部", "0"],
+    [3, "Cagayake!GIRLS (off vocal)", "桜高軽音部", "0"],
+    [4, "Happy!? Sorry!! (off vocal)", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b969cb7f-8747-487a-9315-424115a8f49c", "https://vgmdb.net/album/19811"]
 
@@ -2129,12 +2129,12 @@ catalognumber = "PCCG-01067"
 date = "2010-11-17"
 album = "TVアニメ「けいおん!!」イメージソング　田井中律"
 tracks = [
-    [1, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", ""],
-    [2, "夕空ア・ラ・カルト", "田井中律(CV:佐藤聡美)", ""],
-    [3, "Come with Me!! (律Ver.)", "田井中律(CV:佐藤聡美)", ""],
-    [4, "Drumming Shining My Life (Instrumental)", "田井中律(CV:佐藤聡美)", ""],
-    [5, "夕空ア・ラ・カルト (Instrumental)", "田井中律(CV:佐藤聡美)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "Drumming Shining My Life", "田井中律(CV:佐藤聡美)", "0"],
+    [2, "夕空ア・ラ・カルト", "田井中律(CV:佐藤聡美)", "1"],
+    [3, "Come with Me!! (律Ver.)", "田井中律(CV:佐藤聡美)", "0"],
+    [4, "Drumming Shining My Life (Instrumental)", "田井中律(CV:佐藤聡美)", "0"],
+    [5, "夕空ア・ラ・カルト (Instrumental)", "田井中律(CV:佐藤聡美)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e4b1a8fa-c599-4ab3-9eed-d213ce15c412", "https://vgmdb.net/album/22405"]
 
@@ -2143,24 +2143,24 @@ catalognumber = "PCCG-01129"
 date = "2012-02-19"
 album = "映画「けいおん!」オフィシャル バンドやろーよ!! K-ON! MOVIE編"
 tracks = [
-    [1, "いちばんいっぱい (MOVIE size Ver.)", "放課後ティータイム", ""],
-    [2, "Unmei♪wa♪Endless! (MOVIE size Ver.)", "放課後ティータイム", ""],
-    [3, "Singing! (MOVIE size Ver.)", "放課後ティータイム", ""],
-    [4, "Unmei♪wa♪Endless! (Instrumental)", "放課後ティータイム", ""],
-    [5, "Unmei♪wa♪Endless! (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [6, "Unmei♪wa♪Endless! (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [7, "Unmei♪wa♪Endless! (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [8, "Unmei♪wa♪Endless! (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [9, "Unmei♪wa♪Endless! (Instrumental【−Drums】)", "放課後ティータイム", ""],
-    [10, "Singing! (Instrumental)", "放課後ティータイム", ""],
-    [11, "Singing! (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [12, "Singing! (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [13, "Singing! (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [14, "Singing! (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [15, "Singing! (Instrumental【−Drums】)", "放課後ティータイム", ""],
-    [16, "ラブクライシス (ちょっと)", "放課後ティータイム", ""],
-    [17, "ライブハウスのリハーサル", "放課後ティータイム", ""],
-    [18, "天使にふれたよ!〜唯の練習ギター", "放課後ティータイム", ""],
+    [1, "いちばんいっぱい (MOVIE size Ver.)", "放課後ティータイム", "0"],
+    [2, "Unmei♪wa♪Endless! (MOVIE size Ver.)", "放課後ティータイム", "0"],
+    [3, "Singing! (MOVIE size Ver.)", "放課後ティータイム", "0"],
+    [4, "Unmei♪wa♪Endless! (Instrumental)", "放課後ティータイム", "0"],
+    [5, "Unmei♪wa♪Endless! (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [6, "Unmei♪wa♪Endless! (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [7, "Unmei♪wa♪Endless! (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [8, "Unmei♪wa♪Endless! (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [9, "Unmei♪wa♪Endless! (Instrumental【−Drums】)", "放課後ティータイム", "0"],
+    [10, "Singing! (Instrumental)", "放課後ティータイム", "0"],
+    [11, "Singing! (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [12, "Singing! (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [13, "Singing! (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [14, "Singing! (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [15, "Singing! (Instrumental【−Drums】)", "放課後ティータイム", "0"],
+    [16, "ラブクライシス (ちょっと)", "放課後ティータイム", "0"],
+    [17, "ライブハウスのリハーサル", "放課後ティータイム", "0"],
+    [18, "天使にふれたよ!〜唯の練習ギター", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4afa4520-c5a8-4495-8960-a49a13981ea3", "https://vgmdb.net/album/42200"]
 
@@ -2173,7 +2173,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81508"]
 
@@ -2204,7 +2204,7 @@ tracks = [
     [1, "HELLO", "Peaky P-key", ""],
     [2, "四季ノ唄", "犬寄しのぶ", ""],
     [3, "青と夏", "笹子・ジェニファー・由香(CV:小泉萌香)", ""],
-    [4, "ふわふわ時間", "清水絵空(CV:倉知玲鳳)", ""],
+    [4, "ふわふわ時間", "清水絵空(CV:倉知玲鳳)", "0"],
     [5, "お願いマッスル", "笹子・ジェニファー・由香(CV:小泉萌香), 新島衣舞紀(CV:七木奏音), 日高さおり(CV:葉月ひまり) & 松山ダリア(CV:根岸愛)", ""],
     [6, "Choose me Choose love", "Doki Dokiss", ""],
     [7, "Doki Dokiss", "Doki Dokiss", ""],
@@ -2221,7 +2221,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81507"]
 
@@ -2230,10 +2230,10 @@ catalognumber = "PCCG-70084"
 date = "2011-12-07"
 album = "Singing! / 放課後ティータイム"
 tracks = [
-    [1, "Singing!", "放課後ティータイム", ""],
-    [2, "おはよう、またあした", "放課後ティータイム", ""],
-    [3, "Singing! (Instrumental)", "放課後ティータイム", ""],
-    [4, "おはよう、またあした (Instrumental)", "放課後ティータイム", ""],
+    [1, "Singing!", "放課後ティータイム", "0"],
+    [2, "おはよう、またあした", "放課後ティータイム", "0"],
+    [3, "Singing! (Instrumental)", "放課後ティータイム", "0"],
+    [4, "おはよう、またあした (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2563707f-355f-4147-b19f-1fff487dff2a", "https://vgmdb.net/album/30429"]
 
@@ -2242,10 +2242,10 @@ catalognumber = "PCCG-00988"
 date = "2010-03-17"
 album = "TVアニメ「けいおん!」 「らじおん!」スペシャル Vol.2"
 tracks = [
-    [1, "「らじおん!」スペシャルVol.2 スタート!", "桜高軽音部", ""],
-    [2, "活動報告スペシャル!", "桜高軽音部", ""],
-    [3, "久しぶりのスタジオ!", "桜高軽音部", ""],
-    [4, "エンディング", "桜高軽音部", ""],
+    [1, "「らじおん!」スペシャルVol.2 スタート!", "桜高軽音部", "0"],
+    [2, "活動報告スペシャル!", "桜高軽音部", "0"],
+    [3, "久しぶりのスタジオ!", "桜高軽音部", "0"],
+    [4, "エンディング", "桜高軽音部", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/fb9c6e61-7e5e-40e9-b1a7-55909cd885ad", "https://vgmdb.net/album/20075"]
 
@@ -2264,7 +2264,7 @@ tracks = [
     [8, "花ハ踊レヤいろはにほ", "Rasmus Faber presents Platina Jazz", ""],
     [9, "マクロス", "Rasmus Faber presents Platina Jazz", ""],
     [10, "行け！タイガーマスク", "Rasmus Faber presents Platina Jazz", ""],
-    [11, "Cagayake! Girls", "Rasmus Faber presents Platina Jazz", ""],
+    [11, "Cagayake! Girls", "Rasmus Faber presents Platina Jazz", "0"],
     [12, "Inner Universe", "Rasmus Faber presents Platina Jazz", ""],
     [13, "めぐりあい", "Rasmus Faber presents Platina Jazz", ""],
     [14, "夏夕空", "Rasmus Faber presents Platina Jazz", ""],
@@ -2278,8 +2278,8 @@ catalognumber = "MUCD-1224"
 date = "2010-05-12"
 album = "アニメユーロベスト ～School Edition～"
 tracks = [
-    [1, "Cagayake!GIRLS", "ななひら", ""],
-    [2, "Don't say \"lazy\"", "MI→NA", ""],
+    [1, "Cagayake!GIRLS", "ななひら", "0"],
+    [2, "Don't say \"lazy\"", "MI→NA", "0"],
     [3, "最強パレパレード", "ゅい", ""],
     [4, "絶対love×love宣言!!", "MI→NA", ""],
     [5, "ハッピー☆マテリアル", "ゅい", ""],
@@ -2289,11 +2289,11 @@ tracks = [
     [9, "プレパレード", "うさ", ""],
     [10, "OVER THE FUTURE", "KEI", ""],
     [11, "もってけ!セーラーふく", "ボク", ""],
-    [12, "God knows…", "nayuta", ""],
+    [12, "God knows…", "nayuta", "0"],
     [13, "ハレ晴レユカイ", "転少女", ""],
     [14, "経験値上昇中☆", "ボク", ""],
     [15, "？でわっしょい", "転少女", ""],
-    [16, "ふわふわ時間", "MI→NA", ""],
+    [16, "ふわふわ時間", "MI→NA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dde60abc-c079-4266-b3d8-0e90b680b30b", "https://vgmdb.net/album/26552"]
 
@@ -2302,10 +2302,10 @@ catalognumber = "PCCG-70077"
 date = "2010-08-04"
 album = "Utauyo!!MIRACLE / 放課後ティータイム"
 tracks = [
-    [1, "Utauyo!!MIRACLE", "放課後ティータイム", ""],
-    [2, "キラキラDays", "放課後ティータイム", ""],
-    [3, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", ""],
-    [4, "キラキラDays (Instrumental)", "放課後ティータイム", ""],
+    [1, "Utauyo!!MIRACLE", "放課後ティータイム", "1"],
+    [2, "キラキラDays", "放課後ティータイム", "0"],
+    [3, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", "0"],
+    [4, "キラキラDays (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a635c7fd-836c-479e-a7aa-06dc7015cda9", "https://vgmdb.net/album/20123"]
 
@@ -2314,23 +2314,23 @@ catalognumber = "PCCG-01079"
 date = "2011-11-16"
 album = "『けいおん!! ライブイベント ~Come with Me!!~』LIVE CD! Disc 1 [PCCG-01079-1]"
 tracks = [
-    [1, "~オープニング", "放課後ティータイム", ""],
-    [2, "~Overture", "放課後ティータイム", ""],
-    [3, "GO! GO! MANIAC", "放課後ティータイム", ""],
-    [4, "Listen!!", "放課後ティータイム", ""],
-    [5, "~Introduction〔Guitar〕", "放課後ティータイム", ""],
-    [6, "Oh My ギー太!!", "放課後ティータイム", ""],
-    [7, "~Introduction〔Bass〕", "放課後ティータイム", ""],
-    [8, "青春Vibration", "放課後ティータイム", ""],
-    [9, "~Introduction〔Drums〕", "放課後ティータイム", ""],
-    [10, "Drumming Shining My Life", "放課後ティータイム", ""],
-    [11, "~Introduction〔Keyboard〕", "放課後ティータイム", ""],
-    [12, "Diaryはフォルテシモ", "放課後ティータイム", ""],
-    [13, "~Introduction〔Guiter〕", "放課後ティータイム", ""],
-    [14, "Over the Starlight", "放課後ティータイム", ""],
-    [15, "ウキウキNew! My Way", "放課後ティータイム", ""],
-    [16, "純情Bomber!!", "放課後ティータイム", ""],
-    [17, "Jump", "放課後ティータイム", ""],
+    [1, "~オープニング", "放課後ティータイム", "0"],
+    [2, "~Overture", "放課後ティータイム", "0"],
+    [3, "GO! GO! MANIAC", "放課後ティータイム", "0"],
+    [4, "Listen!!", "放課後ティータイム", "0"],
+    [5, "~Introduction〔Guitar〕", "放課後ティータイム", "0"],
+    [6, "Oh My ギー太!!", "放課後ティータイム", "0"],
+    [7, "~Introduction〔Bass〕", "放課後ティータイム", "0"],
+    [8, "青春Vibration", "放課後ティータイム", "0"],
+    [9, "~Introduction〔Drums〕", "放課後ティータイム", "0"],
+    [10, "Drumming Shining My Life", "放課後ティータイム", "0"],
+    [11, "~Introduction〔Keyboard〕", "放課後ティータイム", "0"],
+    [12, "Diaryはフォルテシモ", "放課後ティータイム", "0"],
+    [13, "~Introduction〔Guiter〕", "放課後ティータイム", "0"],
+    [14, "Over the Starlight", "放課後ティータイム", "0"],
+    [15, "ウキウキNew! My Way", "放課後ティータイム", "0"],
+    [16, "純情Bomber!!", "放課後ティータイム", "0"],
+    [17, "Jump", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/26958987-d77b-49cd-b8f9-a2b0a36c66fd", "https://vgmdb.net/album/30105"]
 
@@ -2339,14 +2339,14 @@ catalognumber = "PCCG-01079"
 date = "2011-11-16"
 album = "『けいおん!! ライブイベント ~Come with Me!!~』LIVE CD! Disc 2 [PCCG-01079-2]"
 tracks = [
-    [1, "~MC「センターステージ登場」", "放課後ティータイム", ""],
-    [2, "いちごパフェが止まらない", "放課後ティータイム", ""],
-    [3, "ときめきシュガー", "放課後ティータイム", ""],
-    [4, "Honey sweet tea time", "放課後ティータイム", ""],
-    [5, "ごはんはおかず", "放課後ティータイム", ""],
-    [6, "~DEATH DEVIL登場", "放課後ティータイム", ""],
-    [7, "Maddy Candy", "放課後ティータイム", ""],
-    [8, "ラヴ", "放課後ティータイム", ""],
+    [1, "~MC「センターステージ登場」", "放課後ティータイム", "0"],
+    [2, "いちごパフェが止まらない", "放課後ティータイム", "0"],
+    [3, "ときめきシュガー", "放課後ティータイム", "0"],
+    [4, "Honey sweet tea time", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず", "放課後ティータイム", "0"],
+    [6, "~DEATH DEVIL登場", "放課後ティータイム", "0"],
+    [7, "Maddy Candy", "放課後ティータイム", "0"],
+    [8, "ラヴ", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/26958987-d77b-49cd-b8f9-a2b0a36c66fd", "https://vgmdb.net/album/30105"]
 
@@ -2355,18 +2355,18 @@ catalognumber = "PCCG-01079"
 date = "2011-11-16"
 album = "『けいおん!! ライブイベント ~Come with Me!!~』LIVE CD! Disc 3 [PCCG-01079-3]"
 tracks = [
-    [1, "~MC「ただ今、楽器準備中…」", "放課後ティータイム", ""],
-    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", ""],
-    [3, "U&I", "放課後ティータイム", ""],
-    [4, "U&I (Instrumental)", "放課後ティータイム", ""],
-    [5, "天使にふれたよ!", "放課後ティータイム", ""],
-    [6, "ふわふわ時間 (ライブイベント ~Come with Me!!~ Ver.)", "放課後ティータイム", ""],
-    [7, "NO,Thank You!", "放課後ティータイム", ""],
-    [8, "Utauyo!!MIRACLE", "放課後ティータイム", ""],
-    [9, "Cagayake!GIRLS", "放課後ティータイム", ""],
-    [10, "Don’t say “lazy”", "放課後ティータイム", ""],
-    [11, "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~ Ver.)", "放課後ティータイム", ""],
-    [12, "Come with Me!!", "放課後ティータイム", ""],
+    [1, "~MC「ただ今、楽器準備中…」", "放課後ティータイム", "0"],
+    [2, "ぴゅあぴゅあはーと", "放課後ティータイム", "0"],
+    [3, "U&I", "放課後ティータイム", "0"],
+    [4, "U&I (Instrumental)", "放課後ティータイム", "0"],
+    [5, "天使にふれたよ!", "放課後ティータイム", "0"],
+    [6, "ふわふわ時間 (ライブイベント ~Come with Me!!~ Ver.)", "放課後ティータイム", "0"],
+    [7, "NO,Thank You!", "放課後ティータイム", "0"],
+    [8, "Utauyo!!MIRACLE", "放課後ティータイム", "0"],
+    [9, "Cagayake!GIRLS", "放課後ティータイム", "0"],
+    [10, "Don’t say “lazy”", "放課後ティータイム", "0"],
+    [11, "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~ Ver.)", "放課後ティータイム", "0"],
+    [12, "Come with Me!!", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/26958987-d77b-49cd-b8f9-a2b0a36c66fd", "https://vgmdb.net/album/30105"]
 
@@ -2378,7 +2378,7 @@ tracks = [
     [1, "鳥の詩", "", ""],
     [2, "Last Regrets", "", ""],
     [3, "メグメル", "", ""],
-    [4, "天使にふれたよ!", "", ""],
+    [4, "天使にふれたよ!", "", "0"],
     [5, "Sparkling Daydream", "", ""],
     [6, "Sincerely", "", ""],
 ]
@@ -2389,15 +2389,15 @@ catalognumber = "TAM3-0046"
 date = "2009-07-07"
 album = "けいおん! CLASSIC"
 tracks = [
-    [1, "Cagayake!GIRLS ピアノ×ヴァイオリン", "TAMUSIC", ""],
-    [2, "Don’t say \"lazy\" ピアノソロ", "TAMUSIC", ""],
-    [3, "Cagayake!GIRLS 吹奏楽", "TAMUSIC", ""],
-    [4, "Don’t say \"lazy\" 吹奏楽", "TAMUSIC", ""],
-    [5, "Cagayake!GIRLS の主題によるピアノソナタ 第1楽章", "TAMUSIC", ""],
-    [6, "Cagayake!GIRLS の主題によるピアノソナタ 第2楽章", "TAMUSIC", ""],
-    [7, "Cagayake!GIRLS の主題によるピアノソナタ 第3楽章", "TAMUSIC", ""],
-    [8, "Don’t say \"lazy\" 弦楽六重奏", "TAMUSIC", ""],
-    [9, "翼をください 弦楽三重奏", "TAMUSIC", ""],
+    [1, "Cagayake!GIRLS ピアノ×ヴァイオリン", "TAMUSIC", "0"],
+    [2, "Don’t say \"lazy\" ピアノソロ", "TAMUSIC", "0"],
+    [3, "Cagayake!GIRLS 吹奏楽", "TAMUSIC", "0"],
+    [4, "Don’t say \"lazy\" 吹奏楽", "TAMUSIC", "0"],
+    [5, "Cagayake!GIRLS の主題によるピアノソナタ 第1楽章", "TAMUSIC", "0"],
+    [6, "Cagayake!GIRLS の主題によるピアノソナタ 第2楽章", "TAMUSIC", "0"],
+    [7, "Cagayake!GIRLS の主題によるピアノソナタ 第3楽章", "TAMUSIC", "0"],
+    [8, "Don’t say \"lazy\" 弦楽六重奏", "TAMUSIC", "0"],
+    [9, "翼をください 弦楽三重奏", "TAMUSIC", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a27031d6-0671-4483-99ed-fe008b636507", "https://vgmdb.net/album/19803"]
 
@@ -2406,12 +2406,12 @@ catalognumber = "PCCG-01074"
 date = "2011-01-19"
 album = "TVアニメ「けいおん!!」イメージソング　真鍋和"
 tracks = [
-    [1, "Jump", "真鍋和(CV:藤東知夏)", ""],
-    [2, "ひだまりLiving", "真鍋和(CV:藤東知夏)", ""],
-    [3, "Come with Me!! (和Ver.)", "真鍋和(CV:藤東知夏)", ""],
-    [4, "Jump (Instrumental)", "真鍋和(CV:藤東知夏)", ""],
-    [5, "ひだまりLiving (Instrumental)", "真鍋和(CV:藤東知夏)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "Jump", "真鍋和(CV:藤東知夏)", "0"],
+    [2, "ひだまりLiving", "真鍋和(CV:藤東知夏)", "0"],
+    [3, "Come with Me!! (和Ver.)", "真鍋和(CV:藤東知夏)", "0"],
+    [4, "Jump (Instrumental)", "真鍋和(CV:藤東知夏)", "0"],
+    [5, "ひだまりLiving (Instrumental)", "真鍋和(CV:藤東知夏)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/009fbee9-f59a-4ba3-9b2d-3075d355a6aa", "https://vgmdb.net/album/22409"]
 
@@ -2420,35 +2420,35 @@ catalognumber = "PCCG-00963"
 date = "2009-09-02"
 album = "TVアニメ「けいおん!」オフィシャル バンドやろーよ!! Arrangement, Vocal, Talk"
 tracks = [
-    [1, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", ""],
-    [2, "Don’t say “lazy” [5人Ver.]", "放課後ティータイム", ""],
-    [3, "Cagayake!GIRLS [5人Ver.](Instrumental)", "放課後ティータイム", ""],
-    [4, "Don’t say “lazy” [5人Ver.](Instrumental)", "放課後ティータイム", ""],
-    [5, "カレーのちライス 『StudioMix』(Instrumental)", "放課後ティータイム", ""],
-    [6, "わたしの恋はホッチキス 『StudioMix』(Instrumental)", "放課後ティータイム", ""],
-    [7, "ふでペン ～ボールペン～ 『StudioMix』(Instrumental)", "放課後ティータイム", ""],
-    [8, "ふわふわ時間 [5人Ver.] 『Studio Mix』(Instrumental)", "放課後ティータイム", ""],
-    [9, "サブタイトルバック・ギター①", "放課後ティータイム", ""],
-    [10, "サブタイトルバック・ギター②", "放課後ティータイム", ""],
-    [11, "サブタイトルバック・ギター③", "放課後ティータイム", ""],
-    [12, "サブタイトルバック・ギター④", "放課後ティータイム", ""],
-    [13, "サブタイトルバック・ギター⑤", "放課後ティータイム", ""],
-    [14, "サブタイトルバック・ギター⑥", "放課後ティータイム", ""],
-    [15, "サブタイトルバック・ギター⑦", "放課後ティータイム", ""],
-    [16, "サブタイトルバック・ギター⑧", "放課後ティータイム", ""],
-    [17, "サブタイトルバック・ギター⑨", "放課後ティータイム", ""],
-    [18, "サブタイトルバック・ギター⑩", "放課後ティータイム", ""],
-    [19, "サブタイトルバック・ギター⑪", "放課後ティータイム", ""],
-    [20, "サブタイトルバック・ギター⑫", "放課後ティータイム", ""],
-    [21, "サブタイトルバック・ギター⑬", "放課後ティータイム", ""],
-    [22, "チャルメラ(#2『楽器!』)", "放課後ティータイム", ""],
-    [23, "さわ子先生・超絶早弾き!(#5『顧問!』)", "放課後ティータイム", ""],
-    [24, "さわ子先生・超絶タッピング!(#5『顧問!』)", "放課後ティータイム", ""],
-    [25, "さわ子先生・超絶歯ギター!(#5『顧問!』)", "放課後ティータイム", ""],
-    [26, "梓のうでまえ披露①(#9『新入部員!』)", "放課後ティータイム", ""],
-    [27, "梓のうでまえ披露②(#9『新入部員!』)", "放課後ティータイム", ""],
-    [28, "一週間(#1『廃部!』)", "放課後ティータイム", ""],
-    [29, "翼をください(#1『廃部!』)", "放課後ティータイム", ""],
+    [1, "Cagayake!GIRLS [5人Ver.]", "放課後ティータイム", "0"],
+    [2, "Don’t say “lazy” [5人Ver.]", "放課後ティータイム", "0"],
+    [3, "Cagayake!GIRLS [5人Ver.](Instrumental)", "放課後ティータイム", "0"],
+    [4, "Don’t say “lazy” [5人Ver.](Instrumental)", "放課後ティータイム", "0"],
+    [5, "カレーのちライス 『StudioMix』(Instrumental)", "放課後ティータイム", "0"],
+    [6, "わたしの恋はホッチキス 『StudioMix』(Instrumental)", "放課後ティータイム", "0"],
+    [7, "ふでペン ～ボールペン～ 『StudioMix』(Instrumental)", "放課後ティータイム", "0"],
+    [8, "ふわふわ時間 [5人Ver.] 『Studio Mix』(Instrumental)", "放課後ティータイム", "0"],
+    [9, "サブタイトルバック・ギター①", "放課後ティータイム", "0"],
+    [10, "サブタイトルバック・ギター②", "放課後ティータイム", "0"],
+    [11, "サブタイトルバック・ギター③", "放課後ティータイム", "0"],
+    [12, "サブタイトルバック・ギター④", "放課後ティータイム", "0"],
+    [13, "サブタイトルバック・ギター⑤", "放課後ティータイム", "0"],
+    [14, "サブタイトルバック・ギター⑥", "放課後ティータイム", "0"],
+    [15, "サブタイトルバック・ギター⑦", "放課後ティータイム", "0"],
+    [16, "サブタイトルバック・ギター⑧", "放課後ティータイム", "0"],
+    [17, "サブタイトルバック・ギター⑨", "放課後ティータイム", "0"],
+    [18, "サブタイトルバック・ギター⑩", "放課後ティータイム", "0"],
+    [19, "サブタイトルバック・ギター⑪", "放課後ティータイム", "0"],
+    [20, "サブタイトルバック・ギター⑫", "放課後ティータイム", "0"],
+    [21, "サブタイトルバック・ギター⑬", "放課後ティータイム", "0"],
+    [22, "チャルメラ(#2『楽器!』)", "放課後ティータイム", "0"],
+    [23, "さわ子先生・超絶早弾き!(#5『顧問!』)", "放課後ティータイム", "0"],
+    [24, "さわ子先生・超絶タッピング!(#5『顧問!』)", "放課後ティータイム", "0"],
+    [25, "さわ子先生・超絶歯ギター!(#5『顧問!』)", "放課後ティータイム", "0"],
+    [26, "梓のうでまえ披露①(#9『新入部員!』)", "放課後ティータイム", "0"],
+    [27, "梓のうでまえ披露②(#9『新入部員!』)", "放課後ティータイム", "0"],
+    [28, "一週間(#1『廃部!』)", "放課後ティータイム", "0"],
+    [29, "翼をください(#1『廃部!』)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7885c531-7d55-4749-81e5-15b4b3e429d1", "https://vgmdb.net/album/20072"]
 
@@ -2457,86 +2457,86 @@ catalognumber = "PCCG-00963"
 date = "2009-09-02"
 album = "TVアニメ「けいおん!」オフィシャル バンドやろーよ!! Arrangement"
 tracks = [
-    [1, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Guitar】)", "放課後ティータイム", ""],
-    [2, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [3, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [4, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Drums】)", "放課後ティータイム", ""],
-    [5, "イントロダクション", "放課後ティータイム", ""],
-    [6, "ギター・イントロダクション", "放課後ティータイム", ""],
-    [7, "Ex.1-1: A Aメロ ブリッジミュート", "放課後ティータイム", ""],
-    [8, "Ex.1-2: A Aメロ ブリッジミュート NGテイク", "放課後ティータイム", ""],
-    [9, "Ex.2-1: B Bメロ アルペジオ (w/Delay)", "放課後ティータイム", ""],
-    [10, "Ex.2-2: B Bメロ アルペジオ NGテイク (w/Delay)", "放課後ティータイム", ""],
-    [11, "Ex.3-1: B Bメロ カウンターメロディ", "放課後ティータイム", ""],
-    [12, "Ex.3-2: B Bメロ カウンターメロディ NGテイク", "放課後ティータイム", ""],
-    [13, "Ex.4-1: B Bメロ 9小節目グリッサンド (トレモロピッキング有)", "放課後ティータイム", ""],
-    [14, "Ex.4-2: B Bメロ 9小節目グリッサンド (トレモロピッキング無)", "放課後ティータイム", ""],
-    [15, "Ex.5-1: C サビ コードバッキング", "放課後ティータイム", ""],
-    [16, "Ex.5-2: C サビ コードバッキング NGテイク", "放課後ティータイム", ""],
-    [17, "Ex.6-1: A-2 Aメロ② 16分カッティング (w/Wah)", "放課後ティータイム", ""],
-    [18, "Ex.6-2: A-2 Aメロ② 16分カッティング", "放課後ティータイム", ""],
-    [19, "Ex.6-3: A-2 Aメロ② 16分カッティング NGテイク", "放課後ティータイム", ""],
-    [20, "Ex.7: D 間奏 Gt.-Iソロ", "放課後ティータイム", ""],
-    [21, "Ex.8: D 間奏 Gt.-IIソロ", "放課後ティータイム", ""],
-    [22, "Ex.9: ソロ アドリブ", "放課後ティータイム", ""],
-    [23, "Ex.10: F 転調", "放課後ティータイム", ""],
-    [24, "キーボード・イントロダクション", "放課後ティータイム", ""],
-    [25, "Ex.1-1: Intro.-1 スクラッチ音", "放課後ティータイム", ""],
-    [26, "Ex.1-2: Intro.-1 スクラッチ音 NGテイク", "放課後ティータイム", ""],
-    [27, "Ex.2-1: C サビ 音色とリズム", "放課後ティータイム", ""],
-    [28, "Ex.2-2: C サビ (上パート音色)", "放課後ティータイム", ""],
-    [29, "Ex.2-3: C サビ (下パート音色)", "放課後ティータイム", ""],
-    [30, "Ex.3-1: A Aメロ 音色とグリッサンド", "放課後ティータイム", ""],
-    [31, "Ex.3-2: A Aメロ (上パート音色)", "放課後ティータイム", ""],
-    [32, "Ex.3-3: A Aメロ (下パート音色)", "放課後ティータイム", ""],
-    [33, "Ex.4-1: D 間奏 ソロ", "放課後ティータイム", ""],
-    [34, "Ex.4-2: D 間奏 ソロ NGテイク", "放課後ティータイム", ""],
-    [35, "Ex.5-1: E Dメロ", "放課後ティータイム", ""],
-    [36, "Ex.5-2: E Dメロ (エフェクトVer.)", "放課後ティータイム", ""],
-    [37, "Ex.6: F 8小節目 (ベンドダウン&ヒット・サウンド)", "放課後ティータイム", ""],
-    [38, "Ex.7: Ending 5小節目~8小節目 音色", "放課後ティータイム", ""],
-    [39, "Ex.8: Ending 9小節目~ 音色", "放課後ティータイム", ""],
-    [40, "ベース・イントロダクション", "放課後ティータイム", ""],
-    [41, "Cagayake!GIRLS セッティング", "放課後ティータイム", ""],
-    [42, "Ex.1-1: C サビ コードアルペジオ", "放課後ティータイム", ""],
-    [43, "Ex.1-2: C サビ コードアルペジオ NGテイク", "放課後ティータイム", ""],
-    [44, "Ex.2: Intro.-2 ベースインフィル", "放課後ティータイム", ""],
-    [45, "Ex.3: スラップ練習", "放課後ティータイム", ""],
-    [46, "Ex.4-1: Intro.-2 5~8小節目から A Aメロ頭 (tempo 170)", "放課後ティータイム", ""],
-    [47, "Ex.4-2: Intro.-2 5~8小節目から A Aメロ頭 (tempo 120)", "放課後ティータイム", ""],
-    [48, "Ex.5-1: A Aメロ バックビートを感じる", "放課後ティータイム", ""],
-    [49, "Ex.5-2: A Aメロ バックビートを感じる NGテイク", "放課後ティータイム", ""],
-    [50, "Ex.6-1: B Bメロ ドラムとのコンビネーション", "放課後ティータイム", ""],
-    [51, "Ex.6-2: B Bメロ ドラムとのコンビネーション NGテイク", "放課後ティータイム", ""],
-    [52, "Ex.7-1: D 間奏 ソロ (tempo 170)", "放課後ティータイム", ""],
-    [53, "Ex.7-2: D 間奏 ソロ (tempo 120)", "放課後ティータイム", ""],
-    [54, "Ex.8: ソロ・アドリブ", "放課後ティータイム", ""],
-    [55, "Ex.9: C-3 4小節目~ グリッサンド", "放課後ティータイム", ""],
-    [56, "Ex.10: Ending 4弦ベースVer.", "放課後ティータイム", ""],
-    [57, "ドラム・イントロダクション", "放課後ティータイム", ""],
-    [58, "Cageyake!GIRLS スネア&タムセッティング", "放課後ティータイム", ""],
-    [59, "スネア&タム一般的なセッティング", "放課後ティータイム", ""],
-    [60, "Ex.1-1: Intro.-1 ~ C サビ 8小節目フィル", "放課後ティータイム", ""],
-    [61, "Ex.1-2: Intro.-1 ~ C サビ 8小節目フィル NGテイク", "放課後ティータイム", ""],
-    [62, "Ex.2-1: B Bメロ① 9小節目フィル", "放課後ティータイム", ""],
-    [63, "Ex.2-2: B Bメロ① 9小節目フィル NGテイク", "放課後ティータイム", ""],
-    [64, "Ex.3-1: A-2 Aメロ② リズム", "放課後ティータイム", ""],
-    [65, "Ex.3-2: A-2 Aメロ② リズム NGテイク", "放課後ティータイム", ""],
-    [66, "Ex.4-1: A-2 Aメロ② 4,9小節目フィル", "放課後ティータイム", ""],
-    [67, "Ex.4-2: A-2 Aメロ② 4,9小節目フィル NGテイク", "放課後ティータイム", ""],
-    [68, "Ex.5-1: B Bメロ② 9小節目フィル", "放課後ティータイム", ""],
-    [69, "Ex.5-2: B Bメロ② 9小節目フィル NGテイク", "放課後ティータイム", ""],
-    [70, "Ex.6-1: D 間奏 リズム", "放課後ティータイム", ""],
-    [71, "Ex.6-2: D 間奏 リズム NGテイク", "放課後ティータイム", ""],
-    [72, "Ex.7-1: E Dメロ リズム", "放課後ティータイム", ""],
-    [73, "Ex.7-2: E Dメロ リズム NGテイク", "放課後ティータイム", ""],
-    [74, "Ex.8-1: E Dメロ 4,8小節目フィル", "放課後ティータイム", ""],
-    [75, "Ex.8-2: E Dメロ 4,8小節目フィル NGテイク", "放課後ティータイム", ""],
-    [76, "Ex.9-1: F 6,7小節目フィル", "放課後ティータイム", ""],
-    [77, "Ex.9-2: F 6,7小節目フィル NGテイク", "放課後ティータイム", ""],
-    [78, "Ex.10-1: C-4 サビ リズム", "放課後ティータイム", ""],
-    [79, "Ex.10-2: C-4 サビ リズム NGテイク", "放課後ティータイム", ""],
-    [80, "おわり。", "放課後ティータイム", ""],
+    [1, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Guitar】)", "放課後ティータイム", "0"],
+    [2, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [3, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [4, "Cagayake!GIRLS [5人Ver.] (Instrumental【−Drums】)", "放課後ティータイム", "0"],
+    [5, "イントロダクション", "放課後ティータイム", "0"],
+    [6, "ギター・イントロダクション", "放課後ティータイム", "0"],
+    [7, "Ex.1-1: A Aメロ ブリッジミュート", "放課後ティータイム", "0"],
+    [8, "Ex.1-2: A Aメロ ブリッジミュート NGテイク", "放課後ティータイム", "0"],
+    [9, "Ex.2-1: B Bメロ アルペジオ (w/Delay)", "放課後ティータイム", "0"],
+    [10, "Ex.2-2: B Bメロ アルペジオ NGテイク (w/Delay)", "放課後ティータイム", "0"],
+    [11, "Ex.3-1: B Bメロ カウンターメロディ", "放課後ティータイム", "0"],
+    [12, "Ex.3-2: B Bメロ カウンターメロディ NGテイク", "放課後ティータイム", "0"],
+    [13, "Ex.4-1: B Bメロ 9小節目グリッサンド (トレモロピッキング有)", "放課後ティータイム", "0"],
+    [14, "Ex.4-2: B Bメロ 9小節目グリッサンド (トレモロピッキング無)", "放課後ティータイム", "0"],
+    [15, "Ex.5-1: C サビ コードバッキング", "放課後ティータイム", "0"],
+    [16, "Ex.5-2: C サビ コードバッキング NGテイク", "放課後ティータイム", "0"],
+    [17, "Ex.6-1: A-2 Aメロ② 16分カッティング (w/Wah)", "放課後ティータイム", "0"],
+    [18, "Ex.6-2: A-2 Aメロ② 16分カッティング", "放課後ティータイム", "0"],
+    [19, "Ex.6-3: A-2 Aメロ② 16分カッティング NGテイク", "放課後ティータイム", "0"],
+    [20, "Ex.7: D 間奏 Gt.-Iソロ", "放課後ティータイム", "0"],
+    [21, "Ex.8: D 間奏 Gt.-IIソロ", "放課後ティータイム", "0"],
+    [22, "Ex.9: ソロ アドリブ", "放課後ティータイム", "0"],
+    [23, "Ex.10: F 転調", "放課後ティータイム", "0"],
+    [24, "キーボード・イントロダクション", "放課後ティータイム", "0"],
+    [25, "Ex.1-1: Intro.-1 スクラッチ音", "放課後ティータイム", "0"],
+    [26, "Ex.1-2: Intro.-1 スクラッチ音 NGテイク", "放課後ティータイム", "0"],
+    [27, "Ex.2-1: C サビ 音色とリズム", "放課後ティータイム", "0"],
+    [28, "Ex.2-2: C サビ (上パート音色)", "放課後ティータイム", "0"],
+    [29, "Ex.2-3: C サビ (下パート音色)", "放課後ティータイム", "0"],
+    [30, "Ex.3-1: A Aメロ 音色とグリッサンド", "放課後ティータイム", "0"],
+    [31, "Ex.3-2: A Aメロ (上パート音色)", "放課後ティータイム", "0"],
+    [32, "Ex.3-3: A Aメロ (下パート音色)", "放課後ティータイム", "0"],
+    [33, "Ex.4-1: D 間奏 ソロ", "放課後ティータイム", "0"],
+    [34, "Ex.4-2: D 間奏 ソロ NGテイク", "放課後ティータイム", "0"],
+    [35, "Ex.5-1: E Dメロ", "放課後ティータイム", "0"],
+    [36, "Ex.5-2: E Dメロ (エフェクトVer.)", "放課後ティータイム", "0"],
+    [37, "Ex.6: F 8小節目 (ベンドダウン&ヒット・サウンド)", "放課後ティータイム", "0"],
+    [38, "Ex.7: Ending 5小節目~8小節目 音色", "放課後ティータイム", "0"],
+    [39, "Ex.8: Ending 9小節目~ 音色", "放課後ティータイム", "0"],
+    [40, "ベース・イントロダクション", "放課後ティータイム", "0"],
+    [41, "Cagayake!GIRLS セッティング", "放課後ティータイム", "0"],
+    [42, "Ex.1-1: C サビ コードアルペジオ", "放課後ティータイム", "0"],
+    [43, "Ex.1-2: C サビ コードアルペジオ NGテイク", "放課後ティータイム", "0"],
+    [44, "Ex.2: Intro.-2 ベースインフィル", "放課後ティータイム", "0"],
+    [45, "Ex.3: スラップ練習", "放課後ティータイム", "0"],
+    [46, "Ex.4-1: Intro.-2 5~8小節目から A Aメロ頭 (tempo 170)", "放課後ティータイム", "0"],
+    [47, "Ex.4-2: Intro.-2 5~8小節目から A Aメロ頭 (tempo 120)", "放課後ティータイム", "0"],
+    [48, "Ex.5-1: A Aメロ バックビートを感じる", "放課後ティータイム", "0"],
+    [49, "Ex.5-2: A Aメロ バックビートを感じる NGテイク", "放課後ティータイム", "0"],
+    [50, "Ex.6-1: B Bメロ ドラムとのコンビネーション", "放課後ティータイム", "0"],
+    [51, "Ex.6-2: B Bメロ ドラムとのコンビネーション NGテイク", "放課後ティータイム", "0"],
+    [52, "Ex.7-1: D 間奏 ソロ (tempo 170)", "放課後ティータイム", "0"],
+    [53, "Ex.7-2: D 間奏 ソロ (tempo 120)", "放課後ティータイム", "0"],
+    [54, "Ex.8: ソロ・アドリブ", "放課後ティータイム", "0"],
+    [55, "Ex.9: C-3 4小節目~ グリッサンド", "放課後ティータイム", "0"],
+    [56, "Ex.10: Ending 4弦ベースVer.", "放課後ティータイム", "0"],
+    [57, "ドラム・イントロダクション", "放課後ティータイム", "0"],
+    [58, "Cageyake!GIRLS スネア&タムセッティング", "放課後ティータイム", "0"],
+    [59, "スネア&タム一般的なセッティング", "放課後ティータイム", "0"],
+    [60, "Ex.1-1: Intro.-1 ~ C サビ 8小節目フィル", "放課後ティータイム", "0"],
+    [61, "Ex.1-2: Intro.-1 ~ C サビ 8小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [62, "Ex.2-1: B Bメロ① 9小節目フィル", "放課後ティータイム", "0"],
+    [63, "Ex.2-2: B Bメロ① 9小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [64, "Ex.3-1: A-2 Aメロ② リズム", "放課後ティータイム", "0"],
+    [65, "Ex.3-2: A-2 Aメロ② リズム NGテイク", "放課後ティータイム", "0"],
+    [66, "Ex.4-1: A-2 Aメロ② 4,9小節目フィル", "放課後ティータイム", "0"],
+    [67, "Ex.4-2: A-2 Aメロ② 4,9小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [68, "Ex.5-1: B Bメロ② 9小節目フィル", "放課後ティータイム", "0"],
+    [69, "Ex.5-2: B Bメロ② 9小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [70, "Ex.6-1: D 間奏 リズム", "放課後ティータイム", "0"],
+    [71, "Ex.6-2: D 間奏 リズム NGテイク", "放課後ティータイム", "0"],
+    [72, "Ex.7-1: E Dメロ リズム", "放課後ティータイム", "0"],
+    [73, "Ex.7-2: E Dメロ リズム NGテイク", "放課後ティータイム", "0"],
+    [74, "Ex.8-1: E Dメロ 4,8小節目フィル", "放課後ティータイム", "0"],
+    [75, "Ex.8-2: E Dメロ 4,8小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [76, "Ex.9-1: F 6,7小節目フィル", "放課後ティータイム", "0"],
+    [77, "Ex.9-2: F 6,7小節目フィル NGテイク", "放課後ティータイム", "0"],
+    [78, "Ex.10-1: C-4 サビ リズム", "放課後ティータイム", "0"],
+    [79, "Ex.10-2: C-4 サビ リズム NGテイク", "放課後ティータイム", "0"],
+    [80, "おわり。", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7885c531-7d55-4749-81e5-15b4b3e429d1", "https://vgmdb.net/album/20072"]
 
@@ -2547,21 +2547,21 @@ album = "けいおん!! ライブイベント ～Come with Me!!～ LIVE CD! Disc
 tracks = [
     [1, "～オープニング (ライブイベント ~Come with Me!!~Ver.)", "", ""],
     [2, "～Overture (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [3, "GO! GO! MANIAC (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [4, "Listen!! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [3, "GO! GO! MANIAC (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [4, "Listen!! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [5, "～Introduction [Guitar] (ライブイベント ~Come with Me!!~Ver. 「Oh My ギー太!!」演奏前)", "", ""],
-    [6, "Oh My ギー太!! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [6, "Oh My ギー太!! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [7, "～Introduction [Bass] (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [8, "青春Vibration (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [8, "青春Vibration (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [9, "～Introduction [Drums] (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [10, "Drumming Shining My Life (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [10, "Drumming Shining My Life (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [11, "～Introduction [Keyboard] (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [12, "Diaryはフォルテシモ (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [12, "Diaryはフォルテシモ (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [13, "～Introduction [Guitar] (ライブイベント ~Come with Me!!~Ver. 「Over the Starlight」演奏前)", "", ""],
-    [14, "Over the Starlight (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [15, "ウキウキNew! My Way (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [16, "純情Bomber!! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [17, "Jump (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [14, "Over the Starlight (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [15, "ウキウキNew! My Way (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [16, "純情Bomber!! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [17, "Jump (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30104"]
 
@@ -2571,13 +2571,13 @@ date = "2011-11-16"
 album = "けいおん!! ライブイベント ～Come with Me!!～ LIVE CD! Disc 2 [PCCG-01080-2]"
 tracks = [
     [1, "～MC「センターステージ登場」 (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [2, "いちごパフェが止まらない (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [3, "ときめきシュガー (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [4, "Honey sweet tea time (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [5, "ごはんはおかず (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [2, "いちごパフェが止まらない (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [3, "ときめきシュガー (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [4, "Honey sweet tea time (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [5, "ごはんはおかず (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
     [6, "～DEATH DEVIL登場 (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [7, "Maddy Candy (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [8, "ラヴ (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [7, "Maddy Candy (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [8, "ラヴ (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30104"]
 
@@ -2587,17 +2587,17 @@ date = "2011-11-16"
 album = "けいおん!! ライブイベント ～Come with Me!!～ LIVE CD! Disc 3 [PCCG-01080-3]"
 tracks = [
     [1, "～MC「ただ今、楽器準備中…」 (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [2, "ぴゅあぴゅあはーと (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [3, "U & I (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [4, "U & I (Instrumental) (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [5, "天使にふれたよ! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [6, "ふわふわ時間 (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [7, "NO, Thank You! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [8, "Utauyo!! MIRACLE (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [9, "Cagayake! GIRLS (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [10, "Don't say \"lazy\" (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [11, "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~Ver.)", "", ""],
-    [12, "Come with Me!! (ライブイベント ~Come with Me!!~Ver.)", "", ""],
+    [2, "ぴゅあぴゅあはーと (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [3, "U & I (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [4, "U & I (Instrumental) (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [5, "天使にふれたよ! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [6, "ふわふわ時間 (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [7, "NO, Thank You! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [8, "Utauyo!! MIRACLE (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [9, "Cagayake! GIRLS (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [10, "Don't say \"lazy\" (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [11, "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
+    [12, "Come with Me!! (ライブイベント ~Come with Me!!~Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30104"]
 
@@ -2607,7 +2607,7 @@ date = "2024-12-25"
 album = "『きらら トリビュート コレクション「結束バンドの歌ってみた」』"
 tracks = [
     [1, "ドラマパート ある日の結束バンド 〜その1〜", "結束バンド", ""],
-    [2, "Cagayake!GIRLS", "喜多郁代(CV:長谷川育美)", ""],
+    [2, "Cagayake!GIRLS", "喜多郁代(CV:長谷川育美)", "0"],
     [3, "Daydream café", "山田リョウ(CV:水野朔)", ""],
     [4, "キルミーのベイベー!", "後藤ひとり(CV:青山吉能)", ""],
     [5, "SHINY DAYS", "伊地知虹夏(CV:鈴代紗弓)", ""],
@@ -2621,53 +2621,53 @@ catalognumber = "PCCG-01072"
 date = "2010-12-22"
 album = "TVアニメ「けいおん!!」オフィシャル バンドやろーよ!! ～Let's MUSIC!! 3～ 放課後ティータイム編 Arrangement, Vocal"
 tracks = [
-    [1, "天使にふれたよ！（＃２４『卒業式！』Ｍｉｘ）", "放課後ティータイム", ""],
-    [2, "むすんでひらいて（＃５『お留守番！』Ｍｉｘ）", "放課後ティータイム", ""],
-    [3, "ふわふわ時間［梓・憂・純Ｖｅｒ．］（番外編『訪問！』Ｍｉｘ）", "放課後ティータイム", ""],
-    [4, "ギターイメージ１（＃２『整頓！』）", "放課後ティータイム", ""],
-    [5, "ギターイメージ２（＃２『整頓！』）", "放課後ティータイム", ""],
-    [6, "ギターイメージ３（＃２『整頓！』）", "放課後ティータイム", ""],
-    [7, "ギターイメージ４（＃２『整頓！』）", "放課後ティータイム", ""],
-    [8, "鯵ヶ沢甚句（＃９『期末試験！』）", "放課後ティータイム", ""],
-    [9, "紀美・おでん屋にて（＃１０『先生！』）", "放課後ティータイム", ""],
-    [10, "ラヴ［イントロ・唯失敗Ｖｅｒ．］（＃１０『先生！』）", "放課後ティータイム", ""],
-    [11, "さわ子・ギターソロ（＃１０『先生！』）", "放課後ティータイム", ""],
-    [12, "ふわふわ時間［ギター・梓の夢Ｖｅｒ．］（＃１３『残暑見舞い！』）", "放課後ティータイム", ""],
-    [13, "ごはんはおかず［ギター・梓の夢Ｖｅｒ．］（＃２２『受験！』）", "放課後ティータイム", ""],
-    [14, "唯・澪・律セッション（＃２２『受験！』）", "放課後ティータイム", ""],
-    [15, "サブタイトルバック＃１", "放課後ティータイム", ""],
-    [16, "サブタイトルバック＃２", "放課後ティータイム", ""],
-    [17, "サブタイトルバック＃３", "放課後ティータイム", ""],
-    [18, "サブタイトルバック＃４", "放課後ティータイム", ""],
-    [19, "サブタイトルバック＃５", "放課後ティータイム", ""],
-    [20, "サブタイトルバック＃６", "放課後ティータイム", ""],
-    [21, "サブタイトルバック＃７", "放課後ティータイム", ""],
-    [22, "サブタイトルバック＃８", "放課後ティータイム", ""],
-    [23, "サブタイトルバック＃９", "放課後ティータイム", ""],
-    [24, "サブタイトルバック＃１０", "放課後ティータイム", ""],
-    [25, "サブタイトルバック＃１１", "放課後ティータイム", ""],
-    [26, "サブタイトルバック＃１２", "放課後ティータイム", ""],
-    [27, "サブタイトルバック＃１３", "放課後ティータイム", ""],
-    [28, "サブタイトルバック＃１４", "放課後ティータイム", ""],
-    [29, "サブタイトルバック＃１５", "放課後ティータイム", ""],
-    [30, "サブタイトルバック＃１６", "放課後ティータイム", ""],
-    [31, "サブタイトルバック＃１７", "放課後ティータイム", ""],
-    [32, "サブタイトルバック＃１８", "放課後ティータイム", ""],
-    [33, "サブタイトルバック＃１９", "放課後ティータイム", ""],
-    [34, "サブタイトルバック＃２０", "放課後ティータイム", ""],
-    [35, "サブタイトルバック＃２１", "放課後ティータイム", ""],
-    [36, "サブタイトルバック＃２２", "放課後ティータイム", ""],
-    [37, "サブタイトルバック＃２３", "放課後ティータイム", ""],
-    [38, "サブタイトルバック＃２４", "放課後ティータイム", ""],
-    [39, "サブタイトルバック＃２５", "放課後ティータイム", ""],
-    [40, "サブタイトルバック＃２６", "放課後ティータイム", ""],
-    [41, "夏フェス曲１「Ｒｕｌｅ」（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [42, "夏フェス曲２「Ａｃｔｒｅｓｓ」（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [43, "夏フェス曲３（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [44, "夏フェス曲４（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [45, "フードコートＢＧＭ１（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [46, "フードコートＢＧＭ２（＃１２『夏フェス！』）", "放課後ティータイム", ""],
-    [47, "フードコートＢＧＭ３（＃１２『夏フェス！』）", "放課後ティータイム", ""],
+    [1, "天使にふれたよ！（＃２４『卒業式！』Ｍｉｘ）", "放課後ティータイム", "0"],
+    [2, "むすんでひらいて（＃５『お留守番！』Ｍｉｘ）", "放課後ティータイム", "0"],
+    [3, "ふわふわ時間［梓・憂・純Ｖｅｒ．］（番外編『訪問！』Ｍｉｘ）", "放課後ティータイム", "1"],
+    [4, "ギターイメージ１（＃２『整頓！』）", "放課後ティータイム", "0"],
+    [5, "ギターイメージ２（＃２『整頓！』）", "放課後ティータイム", "0"],
+    [6, "ギターイメージ３（＃２『整頓！』）", "放課後ティータイム", "0"],
+    [7, "ギターイメージ４（＃２『整頓！』）", "放課後ティータイム", "0"],
+    [8, "鯵ヶ沢甚句（＃９『期末試験！』）", "放課後ティータイム", "0"],
+    [9, "紀美・おでん屋にて（＃１０『先生！』）", "放課後ティータイム", "0"],
+    [10, "ラヴ［イントロ・唯失敗Ｖｅｒ．］（＃１０『先生！』）", "放課後ティータイム", "0"],
+    [11, "さわ子・ギターソロ（＃１０『先生！』）", "放課後ティータイム", "0"],
+    [12, "ふわふわ時間［ギター・梓の夢Ｖｅｒ．］（＃１３『残暑見舞い！』）", "放課後ティータイム", "0"],
+    [13, "ごはんはおかず［ギター・梓の夢Ｖｅｒ．］（＃２２『受験！』）", "放課後ティータイム", "0"],
+    [14, "唯・澪・律セッション（＃２２『受験！』）", "放課後ティータイム", "0"],
+    [15, "サブタイトルバック＃１", "放課後ティータイム", "0"],
+    [16, "サブタイトルバック＃２", "放課後ティータイム", "0"],
+    [17, "サブタイトルバック＃３", "放課後ティータイム", "0"],
+    [18, "サブタイトルバック＃４", "放課後ティータイム", "0"],
+    [19, "サブタイトルバック＃５", "放課後ティータイム", "0"],
+    [20, "サブタイトルバック＃６", "放課後ティータイム", "0"],
+    [21, "サブタイトルバック＃７", "放課後ティータイム", "0"],
+    [22, "サブタイトルバック＃８", "放課後ティータイム", "0"],
+    [23, "サブタイトルバック＃９", "放課後ティータイム", "0"],
+    [24, "サブタイトルバック＃１０", "放課後ティータイム", "0"],
+    [25, "サブタイトルバック＃１１", "放課後ティータイム", "0"],
+    [26, "サブタイトルバック＃１２", "放課後ティータイム", "0"],
+    [27, "サブタイトルバック＃１３", "放課後ティータイム", "0"],
+    [28, "サブタイトルバック＃１４", "放課後ティータイム", "0"],
+    [29, "サブタイトルバック＃１５", "放課後ティータイム", "0"],
+    [30, "サブタイトルバック＃１６", "放課後ティータイム", "0"],
+    [31, "サブタイトルバック＃１７", "放課後ティータイム", "0"],
+    [32, "サブタイトルバック＃１８", "放課後ティータイム", "0"],
+    [33, "サブタイトルバック＃１９", "放課後ティータイム", "0"],
+    [34, "サブタイトルバック＃２０", "放課後ティータイム", "0"],
+    [35, "サブタイトルバック＃２１", "放課後ティータイム", "0"],
+    [36, "サブタイトルバック＃２２", "放課後ティータイム", "0"],
+    [37, "サブタイトルバック＃２３", "放課後ティータイム", "0"],
+    [38, "サブタイトルバック＃２４", "放課後ティータイム", "0"],
+    [39, "サブタイトルバック＃２５", "放課後ティータイム", "0"],
+    [40, "サブタイトルバック＃２６", "放課後ティータイム", "0"],
+    [41, "夏フェス曲１「Ｒｕｌｅ」（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [42, "夏フェス曲２「Ａｃｔｒｅｓｓ」（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [43, "夏フェス曲３（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [44, "夏フェス曲４（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [45, "フードコートＢＧＭ１（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [46, "フードコートＢＧＭ２（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
+    [47, "フードコートＢＧＭ３（＃１２『夏フェス！』）", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8997f965-eace-4f90-a4c4-a3d0aec8f7a9", "https://vgmdb.net/album/21780"]
 
@@ -2676,16 +2676,16 @@ catalognumber = "PCCG-01072"
 date = "2010-12-22"
 album = "TVアニメ「けいおん!!」オフィシャル バンドやろーよ!! ～Let's MUSIC!! 3～ 放課後ティータイム編 Vocal"
 tracks = [
-    [1, "いちごパフェが止まらない『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [2, "ぴゅあぴゅあはーと『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [3, "Ｈｏｎｅｙ ｓｗｅｅｔ ｔｅａ ｔｉｍｅ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [4, "五月雨２０ラブ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [5, "ごはんはおかず『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [6, "ときめきシュガー『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [7, "冬の日『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [8, "Ｕ＆Ｉ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [9, "天使にふれたよ！『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
-    [10, "放課後ティータイム『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", ""],
+    [1, "いちごパフェが止まらない『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [2, "ぴゅあぴゅあはーと『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [3, "Ｈｏｎｅｙ ｓｗｅｅｔ ｔｅａ ｔｉｍｅ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [4, "五月雨２０ラブ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [5, "ごはんはおかず『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [6, "ときめきシュガー『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [7, "冬の日『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [8, "Ｕ＆Ｉ『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [9, "天使にふれたよ！『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
+    [10, "放課後ティータイム『Ｓｔｕｄｉｏ Ｍｉｘ』（Ｉｎｓｔｒｕｍｅｎｔａｌ）", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8997f965-eace-4f90-a4c4-a3d0aec8f7a9", "https://vgmdb.net/album/21780"]
 
@@ -2694,10 +2694,10 @@ catalognumber = "PCCG-00962"
 date = "2009-07-22"
 album = "放課後ティータイム / 放課後ティータイム Vocal"
 tracks = [
-    [1, "カレーのちライス", "放課後ティータイム", ""],
-    [2, "わたしの恋はホッチキス", "放課後ティータイム", ""],
-    [3, "ふでペン 〜ボールペン〜", "放課後ティータイム", ""],
-    [4, "ふわふわ時間", "放課後ティータイム", ""],
+    [1, "カレーのちライス", "放課後ティータイム", "0"],
+    [2, "わたしの恋はホッチキス", "放課後ティータイム", "1"],
+    [3, "ふでペン 〜ボールペン〜", "放課後ティータイム", "1"],
+    [4, "ふわふわ時間", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d05630d6-301b-4c6d-a7af-f73ed313e143", "https://vgmdb.net/album/19846"]
 
@@ -2706,10 +2706,10 @@ catalognumber = "PCCG-00962"
 date = "2009-07-22"
 album = "放課後ティータイム / 放課後ティータイム Disc 2 [PCCG-00962-2]"
 tracks = [
-    [1, "カレーのちライス(#8『新歓!』Mix)", "放課後ティータイム", ""],
-    [2, "わたしの恋はホッチキス(#8『新歓!』Mix)", "放課後ティータイム", ""],
-    [3, "ふでペン 〜ボールペン〜(#12『軽音!』Mix)", "放課後ティータイム", ""],
-    [4, "ふわふわ時間(#12『軽音!』Mix)", "放課後ティータイム", ""],
+    [1, "カレーのちライス(#8『新歓!』Mix)", "放課後ティータイム", "0"],
+    [2, "わたしの恋はホッチキス(#8『新歓!』Mix)", "放課後ティータイム", "0"],
+    [3, "ふでペン 〜ボールペン〜(#12『軽音!』Mix)", "放課後ティータイム", "0"],
+    [4, "ふわふわ時間(#12『軽音!』Mix)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d05630d6-301b-4c6d-a7af-f73ed313e143", "https://vgmdb.net/album/19846"]
 
@@ -2718,11 +2718,11 @@ catalognumber = "PCCG-00987"
 date = "2010-02-24"
 album = "TVアニメ「けいおん!」 「らじおん!」スペシャル Vol.1"
 tracks = [
-    [1, "「らじおん!」スペシャルVol.1 スタート!", "桜高軽音部", ""],
-    [2, "「けいおん!」イントロクイズ", "桜高軽音部", ""],
-    [3, "「ら!」「じ!」「お!」「ん!」怒涛の26連発", "桜高軽音部", ""],
-    [4, "「らじおん!」おたよりコーナースペシャル!", "桜高軽音部", ""],
-    [5, "『ﾚｯﾂｺﾞｰ』(唯・澪・律・紬・梓Mix)", "桜高軽音部", ""],
+    [1, "「らじおん!」スペシャルVol.1 スタート!", "桜高軽音部", "0"],
+    [2, "「けいおん!」イントロクイズ", "桜高軽音部", "0"],
+    [3, "「ら!」「じ!」「お!」「ん!」怒涛の26連発", "桜高軽音部", "0"],
+    [4, "「らじおん!」おたよりコーナースペシャル!", "桜高軽音部", "0"],
+    [5, "『ﾚｯﾂｺﾞｰ』(唯・澪・律・紬・梓Mix)", "桜高軽音部", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/9c0db198-bf71-42d5-840c-85b3346008ee", "https://vgmdb.net/album/19836"]
 
@@ -2732,21 +2732,21 @@ date = "2011-11-16"
 album = "けいおん! ライブイベント ～レッツゴー!～ LIVE CD! Disc 1 [PCCG-01077-1]"
 tracks = [
     [1, "～オープニング (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [2, "Cagayake! GIRLS (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [2, "Cagayake! GIRLS (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [3, "～Introduction [Guitar] (ライブイベント ~レッツゴー!~Ver.「ギー太に首ったけ」演奏前)", "", ""],
-    [4, "ギー太に首ったけ (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [4, "ギー太に首ったけ (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [5, "～Introduction [Bass] (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [6, "Heart Goes Boom!! (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [6, "Heart Goes Boom!! (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [7, "～Introduction [Drums] (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [8, "Girly Storm 疾走 Stick (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [8, "Girly Storm 疾走 Stick (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [9, "～Introduction [Keyboard] (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [10, "Dear My Keys ～鍵盤の魔法～ (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [10, "Dear My Keys ～鍵盤の魔法～ (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [11, "～Introduction [Guitar] (ライブイベント ~レッツゴー!~Ver.「じゃじゃ馬Way To Go」演奏前)", "", ""],
-    [12, "じゃじゃ馬Way To Go (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [12, "じゃじゃ馬Way To Go (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
     [13, "～DEATH DEVIL登場 (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [14, "Maddy Candy (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [15, "Lovely Sister LOVE (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [16, "Coolly Hotty Tension Hi!! (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [14, "Maddy Candy (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [15, "Lovely Sister LOVE (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [16, "Coolly Hotty Tension Hi!! (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30103"]
 
@@ -2756,13 +2756,13 @@ date = "2011-11-16"
 album = "けいおん! ライブイベント ～レッツゴー!～ LIVE CD! Disc 2 [PCCG-01077-2]"
 tracks = [
     [1, "～MC「準備できた?」 (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [2, "カレーのちライス (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [3, "ふでペン ～ボールペン～ (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [4, "わたしの恋はホッチキス (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [5, "ふわふわ時間 (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [6, "Don't say “lazy” (ライブイベント ~レッツゴー!~Ver.)", "", ""],
-    [7, "Cagayake! GIRLS (ライブイベント ~レッツゴー!~ Encore Ver.)", "", ""],
-    [8, "『レッツゴー』 (ライブイベント ~レッツゴー!~Ver.)", "", ""],
+    [2, "カレーのちライス (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [3, "ふでペン ～ボールペン～ (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [4, "わたしの恋はホッチキス (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [5, "ふわふわ時間 (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [6, "Don't say “lazy” (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
+    [7, "Cagayake! GIRLS (ライブイベント ~レッツゴー!~ Encore Ver.)", "", "0"],
+    [8, "『レッツゴー』 (ライブイベント ~レッツゴー!~Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30103"]
 
@@ -2771,10 +2771,10 @@ catalognumber = "PCCG-70044"
 date = "2009-10-21"
 album = "TVアニメ「けいおん!」イメージソング　平沢憂"
 tracks = [
-    [1, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", ""],
-    [2, "Oui!愛言葉", "平沢憂(CV:米澤円)", ""],
-    [3, "Lovely Sister LOVE(instrumental)", "平沢憂(CV:米澤円)", ""],
-    [4, "Oui!愛言葉(instrumental)", "平沢憂(CV:米澤円)", ""],
+    [1, "Lovely Sister LOVE", "平沢憂(CV:米澤円)", "0"],
+    [2, "Oui!愛言葉", "平沢憂(CV:米澤円)", "0"],
+    [3, "Lovely Sister LOVE(instrumental)", "平沢憂(CV:米澤円)", "0"],
+    [4, "Oui!愛言葉(instrumental)", "平沢憂(CV:米澤円)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e64556a2-1996-47cb-b372-5a819a72705c", "https://vgmdb.net/album/22402"]
 
@@ -2787,7 +2787,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81506"]
 
@@ -2798,7 +2798,7 @@ album = "FMPSG014 -Mystic aurora-"
 tracks = [
     [1, "記憶の森", "BEEPBOY", ""],
     [2, "ROUND 1", "poriesuteru", ""],
-    [3, "Don't say \"lazy\"", "国王", ""],
+    [3, "Don't say \"lazy\"", "国王", "0"],
     [4, "出撃", "萌尽狼", ""],
     [5, "Everlasting Paradise ~p/ece ED.", "M+B Apos.", ""],
     [6, "Templo del Sol", "Chabinn.", ""],
@@ -2829,8 +2829,8 @@ catalognumber = "PCSP-04366"
 date = "2022-07-27"
 album = "ふわふわ時間 - from CrosSing / 大西亜玖璃"
 tracks = [
-    [1, "ふわふわ時間 - from CrosSing", "大西亜玖璃", ""],
-    [2, "ふわふわ時間 - from CrosSing (Instrumental)", "大西亜玖璃", ""],
+    [1, "ふわふわ時間 - from CrosSing", "大西亜玖璃", "0"],
+    [2, "ふわふわ時間 - from CrosSing (Instrumental)", "大西亜玖璃", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a1d08c21-1007-4ee6-8f23-309e8afe3f21", "https://vgmdb.net/album/121877"]
 
@@ -2847,7 +2847,7 @@ tracks = [
     [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
-    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
+    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
     [10, "Dragon Night", "ハロー、ハッピーワールド！", ""],
     [11, "革命デュアリズム", "Roselia×蘭", ""],
     [12, "檄！帝国華撃団", "Poppin'Party×彩×こころ", ""],
@@ -2859,42 +2859,42 @@ catalognumber = "PCCG-00961"
 date = "2009-06-03"
 album = "TVアニメ「けいおん!」オリジナルサウンドトラック"
 tracks = [
-    [1, "Have some tea?", "百石元", ""],
-    [2, "Morning dew", "百石元", ""],
-    [3, "急げや急げ!", "百石元", ""],
-    [4, "かわいい陰謀", "百石元", ""],
-    [5, "2匹の子猫", "百石元", ""],
-    [6, "いい夢見てね", "百石元", ""],
-    [7, "Cotton candy", "百石元", ""],
-    [8, "Virtual love", "百石元", ""],
-    [9, "タンポポ宅急便", "百石元", ""],
-    [10, "うっかり君の為に", "百石元", ""],
-    [11, "Genki!", "百石元", ""],
-    [12, "おばあちゃんのタンス", "百石元", ""],
-    [13, "The other side of evening sun", "百石元", ""],
-    [14, "Dead soldiers(笑)", "百石元", ""],
-    [15, "Hold on to your love", "百石元", ""],
-    [16, "Falling reinforced concrete", "百石元", ""],
-    [17, "Small flashing", "百石元", ""],
-    [18, "けん玉くん", "百石元", ""],
-    [19, "軽い冗談", "百石元", ""],
-    [20, "クレープはいかが?", "百石元", ""],
-    [21, "Happy languidness", "百石元", ""],
-    [22, "Emerald green", "百石元", ""],
-    [23, "My hometown where it snows", "百石元", ""],
-    [24, "銀世界の朝", "百石元", ""],
-    [25, "Tea at the night of Christmas", "百石元", ""],
-    [26, "子猫の演奏会", "百石元", ""],
-    [27, "Patrol of stroll", "百石元", ""],
-    [28, "Doki Doki Friday night", "百石元", ""],
-    [29, "りんご…Ringo…リンゴ飴", "百石元", ""],
-    [30, "15歳のマーチ", "百石元", ""],
-    [31, "じゃじゃ馬3人娘", "百石元", ""],
-    [32, "Hesitation", "百石元", ""],
-    [33, "ピンチ大好き!", "百石元", ""],
-    [34, "ドレスにクレープは似合わない?", "百石元", ""],
-    [35, "あの日の夢", "百石元", ""],
-    [36, "Happy End", "百石元", ""],
+    [1, "Have some tea?", "百石元", "0"],
+    [2, "Morning dew", "百石元", "0"],
+    [3, "急げや急げ!", "百石元", "0"],
+    [4, "かわいい陰謀", "百石元", "0"],
+    [5, "2匹の子猫", "百石元", "0"],
+    [6, "いい夢見てね", "百石元", "0"],
+    [7, "Cotton candy", "百石元", "0"],
+    [8, "Virtual love", "百石元", "0"],
+    [9, "タンポポ宅急便", "百石元", "0"],
+    [10, "うっかり君の為に", "百石元", "0"],
+    [11, "Genki!", "百石元", "0"],
+    [12, "おばあちゃんのタンス", "百石元", "0"],
+    [13, "The other side of evening sun", "百石元", "0"],
+    [14, "Dead soldiers(笑)", "百石元", "0"],
+    [15, "Hold on to your love", "百石元", "0"],
+    [16, "Falling reinforced concrete", "百石元", "0"],
+    [17, "Small flashing", "百石元", "0"],
+    [18, "けん玉くん", "百石元", "0"],
+    [19, "軽い冗談", "百石元", "0"],
+    [20, "クレープはいかが?", "百石元", "0"],
+    [21, "Happy languidness", "百石元", "0"],
+    [22, "Emerald green", "百石元", "0"],
+    [23, "My hometown where it snows", "百石元", "0"],
+    [24, "銀世界の朝", "百石元", "0"],
+    [25, "Tea at the night of Christmas", "百石元", "0"],
+    [26, "子猫の演奏会", "百石元", "0"],
+    [27, "Patrol of stroll", "百石元", "0"],
+    [28, "Doki Doki Friday night", "百石元", "0"],
+    [29, "りんご…Ringo…リンゴ飴", "百石元", "0"],
+    [30, "15歳のマーチ", "百石元", "0"],
+    [31, "じゃじゃ馬3人娘", "百石元", "0"],
+    [32, "Hesitation", "百石元", "0"],
+    [33, "ピンチ大好き!", "百石元", "0"],
+    [34, "ドレスにクレープは似合わない?", "百石元", "0"],
+    [35, "あの日の夢", "百石元", "0"],
+    [36, "Happy End", "百石元", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/041108c9-1815-4759-bc00-e9ce20856d7e", "https://vgmdb.net/album/19804"]
 
@@ -2907,7 +2907,7 @@ tracks = [
     [2, "Redo (game size ver.)", "", ""],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
-    [5, "GO! GO! MANIAC (game size ver.)", "", ""],
+    [5, "GO! GO! MANIAC (game size ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/81509"]
 
@@ -2917,8 +2917,8 @@ date = "2011-02-23"
 album = "アニメユーロベスト ～Complete Edition～"
 tracks = [
     [1, "おしえて A To Z", "DJ Command", ""],
-    [2, "Cagayake!GIRLS", "DJ Command", ""],
-    [3, "Don't Say \"Lazy\"", "DJ Command", ""],
+    [2, "Cagayake!GIRLS", "DJ Command", "0"],
+    [3, "Don't Say \"Lazy\"", "DJ Command", "0"],
     [4, "JOINT", "DJ Command", ""],
     [5, "片翼のイカロス", "DJ Command", ""],
     [6, "空色デイズ", "DJ Command", ""],
@@ -2935,7 +2935,7 @@ tracks = [
     [17, "only my railgun", "DJ Command", ""],
     [18, "United Force", "DJ Command", ""],
     [19, "Shangri-La", "DJ Command", ""],
-    [20, "God Knows...", "DJ Command", ""],
+    [20, "God Knows...", "DJ Command", "0"],
     [21, "OVER THE FUTURE", "DJ Command", ""],
     [22, "もってけ! セーラーふく", "DJ Command", ""],
     [23, "ハッピー☆マテリアル", "DJ Command", ""],
@@ -2944,7 +2944,7 @@ tracks = [
     [26, "やっぱり世界はあたし☆れじぇんど!!", "DJ Command", ""],
     [27, "最強パレパレード", "DJ Command", ""],
     [28, "微熱SOS!!", "DJ Command", ""],
-    [29, "ふわふわ時間", "DJ Command", ""],
+    [29, "ふわふわ時間", "DJ Command", "0"],
     [30, "侵略ノススメ☆", "DJ Command", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f76beb1b-e186-4ebd-81f0-552fffae1578", "https://vgmdb.net/album/26876"]
@@ -2954,15 +2954,15 @@ catalognumber = "PCCG-70075"
 date = "2010-06-02"
 album = "ぴゅあぴゅあはーと / 放課後ティータイム"
 tracks = [
-    [1, "ぴゅあぴゅあはーと", "放課後ティータイム", ""],
-    [2, "桜が丘女子高等学校校歌[Rock Ver.]", "放課後ティータイム", ""],
-    [3, "ぴゅあぴゅあはーと (Instrumental)", "放課後ティータイム", ""],
-    [4, "桜が丘女子高等学校校歌[Rock Ver.] (Instrumental)", "放課後ティータイム", ""],
-    [5, "ぴゅあぴゅあはーと (Instrumental 【−Guitar1】)", "放課後ティータイム", ""],
-    [6, "ぴゅあぴゅあはーと (Instrumental 【−Guitar2】)", "放課後ティータイム", ""],
-    [7, "ぴゅあぴゅあはーと (Instrumental 【−Keyboard】)", "放課後ティータイム", ""],
-    [8, "ぴゅあぴゅあはーと (Instrumental 【−Bass】)", "放課後ティータイム", ""],
-    [9, "ぴゅあぴゅあはーと (Instrumental 【−Drums】)", "放課後ティータイム", ""],
+    [1, "ぴゅあぴゅあはーと", "放課後ティータイム", "1"],
+    [2, "桜が丘女子高等学校校歌[Rock Ver.]", "放課後ティータイム", "1"],
+    [3, "ぴゅあぴゅあはーと (Instrumental)", "放課後ティータイム", "0"],
+    [4, "桜が丘女子高等学校校歌[Rock Ver.] (Instrumental)", "放課後ティータイム", "0"],
+    [5, "ぴゅあぴゅあはーと (Instrumental 【−Guitar1】)", "放課後ティータイム", "0"],
+    [6, "ぴゅあぴゅあはーと (Instrumental 【−Guitar2】)", "放課後ティータイム", "0"],
+    [7, "ぴゅあぴゅあはーと (Instrumental 【−Keyboard】)", "放課後ティータイム", "0"],
+    [8, "ぴゅあぴゅあはーと (Instrumental 【−Bass】)", "放課後ティータイム", "0"],
+    [9, "ぴゅあぴゅあはーと (Instrumental 【−Drums】)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/009b11b8-8872-4665-9899-f7ca5ddcd426", "https://vgmdb.net/album/19908"]
 
@@ -2991,7 +2991,7 @@ catalognumber = "BRMM-10468"
 date = "2021-11-10"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.6 Disc 2"
 tracks = [
-    [1, "Don't say \"lazy\"", "Afterglow", ""],
+    [1, "Don't say \"lazy\"", "Afterglow", "0"],
     [2, "サムライハート(Some Like It Hot!!)", "Afterglow", ""],
     [3, "ベノム", "Afterglow", ""],
     [4, "KING", "Roselia", ""],
@@ -3008,12 +3008,12 @@ catalognumber = "PCCG-00985"
 date = "2009-08-26"
 album = "TVアニメ「けいおん!」イメージソング　中野梓"
 tracks = [
-    [1, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", ""],
-    [2, "私は私の道を行く", "中野梓(CV:竹達彩奈)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』 (梓Ver.)", "中野梓(CV:竹達彩奈)", ""],
-    [4, "じゃじゃ馬Way To Go (instrumental)", "中野梓(CV:竹達彩奈)", ""],
-    [5, "私は私の道を行く (instrumental)", "中野梓(CV:竹達彩奈)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", ""],
+    [1, "じゃじゃ馬Way To Go", "中野梓(CV:竹達彩奈)", "0"],
+    [2, "私は私の道を行く", "中野梓(CV:竹達彩奈)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』 (梓Ver.)", "中野梓(CV:竹達彩奈)", "0"],
+    [4, "じゃじゃ馬Way To Go (instrumental)", "中野梓(CV:竹達彩奈)", "0"],
+    [5, "私は私の道を行く (instrumental)", "中野梓(CV:竹達彩奈)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ac71d992-a8a7-4b23-9b79-9147928baa3b", "https://vgmdb.net/album/22400"]
 
@@ -3025,8 +3025,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:10", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Cagayake! GIRLS", "", ""],
-    [2, "Happy!? Sorry!!", "", ""],
+    [1, "Cagayake! GIRLS", "", "0"],
+    [2, "Happy!? Sorry!!", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3038,8 +3038,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:24", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Don't say \"lazy\"", "", ""],
-    [2, "Sweet Bitter Beauty Song", "", ""],
+    [1, "Don't say \"lazy\"", "", "0"],
+    [2, "Sweet Bitter Beauty Song", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3051,8 +3051,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:31", "", ""],
     [0, "B-Side", "", ""],
-    [1, "ギー太に首ったけ", "", ""],
-    [2, "Sunday Siesta", "", ""],
+    [1, "ギー太に首ったけ", "", "0"],
+    [2, "Sunday Siesta", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3064,8 +3064,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:36", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Heart Goes Boom!!", "", ""],
-    [2, "Hello Little Girl", "", ""],
+    [1, "Heart Goes Boom!!", "", "0"],
+    [2, "Hello Little Girl", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3077,8 +3077,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 3:34", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Girly Storm 疾走 Stick", "", ""],
-    [2, "目指せハッピー100%↑↑↑", "", ""],
+    [1, "Girly Storm 疾走 Stick", "", "0"],
+    [2, "目指せハッピー100%↑↑↑", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3090,8 +3090,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:39", "", ""],
     [0, "B-Side", "", ""],
-    [1, "Dear My Keys ～鍵盤の魔法～", "", ""],
-    [2, "Humming Bird", "", ""],
+    [1, "Dear My Keys ～鍵盤の魔法～", "", "0"],
+    [2, "Humming Bird", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3103,8 +3103,8 @@ tracks = [
     [0, "A-Side", "", ""],
     [0, "Side length 4:29", "", ""],
     [0, "B-Side", "", ""],
-    [1, "じゃじゃ馬Way To Go", "", ""],
-    [2, "私は私の道を行く", "", ""],
+    [1, "じゃじゃ馬Way To Go", "", "0"],
+    [2, "私は私の道を行く", "", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df91da46-dc38-4dd7-980e-a62e496da035", "https://vgmdb.net/album/33897"]
 
@@ -3114,7 +3114,7 @@ date = "2016-12-31"
 album = "your name. EP"
 tracks = [
     [1, "Sparkle", "Precious Jazz Orchestra", ""],
-    [2, "Don't say \"lazy\"", "Precious Jazz Orchestra", ""],
+    [2, "Don't say \"lazy\"", "Precious Jazz Orchestra", "0"],
     [3, "Undine", "Precious Jazz Orchestra", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/92c8990b-ec91-414d-95f7-e3747fc8470c", "https://vgmdb.net/album/64760"]
@@ -3124,10 +3124,10 @@ catalognumber = "PCCG-70045"
 date = "2009-10-21"
 album = "TVアニメ「けいおん!」イメージソング　真鍋和"
 tracks = [
-    [1, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", ""],
-    [2, "プロローグ", "真鍋和(CV:藤東知夏)", ""],
-    [3, "Coolly Hotty Tension Hi!!(instrumental)", "真鍋和(CV:藤東知夏)", ""],
-    [4, "プロローグ(instrumental)", "真鍋和(CV:藤東知夏)", ""],
+    [1, "Coolly Hotty Tension Hi!!", "真鍋和(CV:藤東知夏)", "0"],
+    [2, "プロローグ", "真鍋和(CV:藤東知夏)", "0"],
+    [3, "Coolly Hotty Tension Hi!!(instrumental)", "真鍋和(CV:藤東知夏)", "0"],
+    [4, "プロローグ(instrumental)", "真鍋和(CV:藤東知夏)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b1f9a79e-9b13-4ad3-a529-a82d704bb969", "https://vgmdb.net/album/22401"]
 
@@ -3136,18 +3136,18 @@ catalognumber = "PCCG-01063"
 date = "2010-09-15"
 album = "TVアニメ「けいおん!!」オフィシャル バンドやろーよ!! ～Let's MUSIC!! 2～"
 tracks = [
-    [1, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", ""],
-    [2, "Utauyo!!MIRACLE (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [3, "Utauyo!!MIRACLE (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [4, "Utauyo!!MIRACLE (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [5, "Utauyo!!MIRACLE (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [6, "Utauyo!!MIRACLE (Instrumental【−Drums】)", "放課後ティータイム", ""],
-    [7, "NO, Thank You! (Instrumental)", "放課後ティータイム", ""],
-    [8, "NO, Thank You! (Instrumental【−Guitar1】)", "放課後ティータイム", ""],
-    [9, "NO, Thank You! (Instrumental【−Guitar2】)", "放課後ティータイム", ""],
-    [10, "NO, Thank You! (Instrumental【−Keyboard】)", "放課後ティータイム", ""],
-    [11, "NO, Thank You! (Instrumental【−Bass】)", "放課後ティータイム", ""],
-    [12, "NO, Thank You! (Instrumental【−Drums】)", "放課後ティータイム", ""],
+    [1, "Utauyo!!MIRACLE (Instrumental)", "放課後ティータイム", "0"],
+    [2, "Utauyo!!MIRACLE (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [3, "Utauyo!!MIRACLE (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [4, "Utauyo!!MIRACLE (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [5, "Utauyo!!MIRACLE (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [6, "Utauyo!!MIRACLE (Instrumental【−Drums】)", "放課後ティータイム", "0"],
+    [7, "NO, Thank You! (Instrumental)", "放課後ティータイム", "0"],
+    [8, "NO, Thank You! (Instrumental【−Guitar1】)", "放課後ティータイム", "0"],
+    [9, "NO, Thank You! (Instrumental【−Guitar2】)", "放課後ティータイム", "0"],
+    [10, "NO, Thank You! (Instrumental【−Keyboard】)", "放課後ティータイム", "0"],
+    [11, "NO, Thank You! (Instrumental【−Bass】)", "放課後ティータイム", "0"],
+    [12, "NO, Thank You! (Instrumental【−Drums】)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9e26059a-3f03-4d98-ae70-4cd612602221", "https://vgmdb.net/album/23111"]
 
@@ -3164,7 +3164,7 @@ tracks = [
     [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
-    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
+    [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", "0"],
     [10, "Dragon Night", "ハロー、ハッピーワールド！", ""],
     [11, "革命デュアリズム", "Roselia×蘭", ""],
     [12, "檄！帝国華撃団", "Poppin'Party×彩×こころ", ""],
@@ -3176,12 +3176,12 @@ catalognumber = "PCCG-01128"
 date = "2012-01-18"
 album = "放課後ティータイム in MOVIE Disc 1 [PCCG-1128]"
 tracks = [
-    [1, "カレーのちライス", "放課後ティータイム", ""],
-    [2, "ごはんはおかず", "放課後ティータイム", ""],
-    [3, "五月雨２０ラブ", "放課後ティータイム", ""],
-    [4, "U&I", "放課後ティータイム", ""],
-    [5, "天使にふれたよ！", "放課後ティータイム", ""],
-    [6, "ふわふわ時間", "放課後ティータイム", ""],
+    [1, "カレーのちライス", "放課後ティータイム", "0"],
+    [2, "ごはんはおかず", "放課後ティータイム", "0"],
+    [3, "五月雨２０ラブ", "放課後ティータイム", "0"],
+    [4, "U&I", "放課後ティータイム", "0"],
+    [5, "天使にふれたよ！", "放課後ティータイム", "0"],
+    [6, "ふわふわ時間", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0eebf0ad-c26f-4561-a945-c05a886996bd", "https://vgmdb.net/album/30366"]
 
@@ -3190,8 +3190,8 @@ catalognumber = "PCCG-01128"
 date = "2012-01-18"
 album = "放課後ティータイム in MOVIE Disc 2"
 tracks = [
-    [1, "光", "DEATH DEVIL", ""],
-    [2, "光 (Instrumental)", "DEATH DEVIL", ""],
+    [1, "光", "DEATH DEVIL", "0"],
+    [2, "光 (Instrumental)", "DEATH DEVIL", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0eebf0ad-c26f-4561-a945-c05a886996bd", "https://vgmdb.net/album/30366"]
 
@@ -3231,7 +3231,7 @@ tracks = [
     [9, "Aura ～ 白の少女 ～(Helblinde Remix)", "Helblinde", ""],
     [10, "対象a (”Artexflow - Feeling Good” Remix)", "kjuː8", ""],
     [11, "The Day Takeoff (pocotan Remix)", "pocotan", ""],
-    [12, "ぴゅあぴゅあはーと(Ucore Remix)", "you", ""],
+    [12, "ぴゅあぴゅあはーと(Ucore Remix)", "you", "0"],
     [13, "Borderland(cobalt green hardcore remix)", "cobalt green", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/01b701b7-9b8b-489d-a60b-4b6ac66b738d", "https://vgmdb.net/album/148867"]
@@ -3242,7 +3242,7 @@ date = "2011-08-13"
 album = "じゃずけん！"
 tracks = [
     [1, "GO！GO！BIGBAND - GO！GO！MANIAC", "Ton2", ""],
-    [2, "The Staplove - 私の恋はホッチキス", "Ton2", ""],
+    [2, "The Staplove - 私の恋はホッチキス", "Ton2", "0"],
     [3, "Fun Fun Time - ふわふわ時間", "Ton2", ""],
     [4, "Rice is Beautiful - ごはんはおかず", "Ton2", ""],
     [5, "Pure Pure Flute - ぴゅあぴゅあはーと", "Ton2", ""],
@@ -3257,26 +3257,26 @@ catalognumber = "PCCG-01062"
 date = "2010-07-21"
 album = "TVアニメ「けいおん!!」オリジナルサウンドトラック K-ON!! ORIGINAL SOUND TRACK Vol.1"
 tracks = [
-    [1, "One more tea?", "百石元", ""],
-    [2, "朝日を浴びて", "百石元", ""],
-    [3, "二人の世界", "百石元", ""],
-    [4, "Dance of pickled scallion", "百石元", ""],
-    [5, "Temptation with rain", "百石元", ""],
-    [6, "Tostada", "百石元", ""],
-    [7, "京都の朝", "百石元", ""],
-    [8, "Dragon God", "百石元", ""],
-    [9, "ハムスターのダンス", "百石元", ""],
-    [10, "あの日の帰り道", "百石元", ""],
-    [11, "玉虫厨子と三角定規", "百石元", ""],
-    [12, "Digital fancy doll", "百石元", ""],
-    [13, "ガッテンだ!", "百石元", ""],
-    [14, "Tea with you", "百石元", ""],
-    [15, "Reason that doesn't develop", "百石元", ""],
-    [16, "Cherry's feelings", "百石元", ""],
-    [17, "Worry of cherry", "百石元", ""],
-    [18, "Happy rainy day", "百石元", ""],
-    [19, "あめふり", "平沢 唯(CV:豊崎愛生)、平沢 憂(CV:米澤 円)", ""],
-    [20, "うさぎとかめ", "平沢唯(CV:豊崎愛生)", ""],
+    [1, "One more tea?", "百石元", "0"],
+    [2, "朝日を浴びて", "百石元", "0"],
+    [3, "二人の世界", "百石元", "0"],
+    [4, "Dance of pickled scallion", "百石元", "0"],
+    [5, "Temptation with rain", "百石元", "0"],
+    [6, "Tostada", "百石元", "0"],
+    [7, "京都の朝", "百石元", "0"],
+    [8, "Dragon God", "百石元", "0"],
+    [9, "ハムスターのダンス", "百石元", "0"],
+    [10, "あの日の帰り道", "百石元", "0"],
+    [11, "玉虫厨子と三角定規", "百石元", "0"],
+    [12, "Digital fancy doll", "百石元", "0"],
+    [13, "ガッテンだ!", "百石元", "0"],
+    [14, "Tea with you", "百石元", "0"],
+    [15, "Reason that doesn't develop", "百石元", "0"],
+    [16, "Cherry's feelings", "百石元", "0"],
+    [17, "Worry of cherry", "百石元", "0"],
+    [18, "Happy rainy day", "百石元", "0"],
+    [19, "あめふり", "平沢 唯(CV:豊崎愛生)、平沢 憂(CV:米澤 円)", "0"],
+    [20, "うさぎとかめ", "平沢唯(CV:豊崎愛生)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4b9a8200-7eb4-445f-8cd6-4c67eefb1f5e", "https://vgmdb.net/album/19802"]
 
@@ -3285,12 +3285,12 @@ catalognumber = "PCCG-01065"
 date = "2010-09-21"
 album = "TVアニメ「けいおん!!」イメージソング　平沢唯"
 tracks = [
-    [1, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", ""],
-    [2, "しあわせ日和", "平沢唯(CV:豊崎愛生)", ""],
-    [3, "Come with Me!! (唯Ver.)", "平沢唯(CV:豊崎愛生)", ""],
-    [4, "Oh My ギー太!! (Instrumental)", "平沢唯(CV:豊崎愛生)", ""],
-    [5, "しあわせ日和 (Instrumental)", "平沢唯(CV:豊崎愛生)", ""],
-    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", ""],
+    [1, "Oh My ギー太!!", "平沢唯(CV:豊崎愛生)", "0"],
+    [2, "しあわせ日和", "平沢唯(CV:豊崎愛生)", "1"],
+    [3, "Come with Me!! (唯Ver.)", "平沢唯(CV:豊崎愛生)", "0"],
+    [4, "Oh My ギー太!! (Instrumental)", "平沢唯(CV:豊崎愛生)", "0"],
+    [5, "しあわせ日和 (Instrumental)", "平沢唯(CV:豊崎愛生)", "0"],
+    [6, "Come with Me!! (Instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2a747cad-3ce7-40c0-b850-24acb4b1bf79", "https://vgmdb.net/album/22403"]
 
@@ -3300,7 +3300,7 @@ date = "2009-11-25"
 album = "ANIME HOUSE PROJECT～神曲selection vol.2～"
 tracks = [
     [1, "止マレ！", "A〜YA", ""],
-    [2, "Cagayake！GIRLS", "片霧烈火", ""],
+    [2, "Cagayake！GIRLS", "片霧烈火", "0"],
     [3, "you", "茶太", ""],
     [4, "だんご大家族", "あさな", ""],
     [5, "愛・おぼえていますか", "anporin", ""],
@@ -3310,7 +3310,7 @@ tracks = [
     [9, "Give a reason", "Witch", ""],
     [10, "月の繭", "三澤秋", ""],
     [11, "Super Driver", "miko", ""],
-    [12, "ふわふわ時間", "あゆ", ""],
+    [12, "ふわふわ時間", "あゆ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ca61565f-b7f6-4517-a94f-cbbeb8e66543", "https://vgmdb.net/album/15914"]
 
@@ -3346,7 +3346,7 @@ tracks = [
     [4, "Northern lights", "Afterglow", ""],
     [5, "トーキョーワンダー。", "Afterglow", ""],
     [6, "Reach Out To The Truth", "Afterglow", ""],
-    [7, "Listen!!", "Afterglow", ""],
+    [7, "Listen!!", "Afterglow", "0"],
     [8, "青い栞", "Afterglow", ""],
     [9, "イマジネーション", "Afterglow", ""],
     [10, "Butter-Fly", "Afterglow", ""],
@@ -3358,10 +3358,10 @@ catalognumber = "PCCG-70043"
 date = "2009-08-12"
 album = "マッディキャンディ / デス デビル"
 tracks = [
-    [1, "Maddy Candy", "DEATH DEVIL", ""],
-    [2, "Hell The World", "DEATH DEVIL", ""],
-    [3, "Maddy Candy (Instrumental)", "DEATH DEVIL", ""],
-    [4, "Hell The World (Instrumental)", "DEATH DEVIL", ""],
+    [1, "Maddy Candy", "DEATH DEVIL", "0"],
+    [2, "Hell The World", "DEATH DEVIL", "0"],
+    [3, "Maddy Candy (Instrumental)", "DEATH DEVIL", "0"],
+    [4, "Hell The World (Instrumental)", "DEATH DEVIL", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/17c401cd-5fd3-490a-a7e3-c56c8a78b9e1", "https://vgmdb.net/album/19917"]
 
@@ -3371,7 +3371,7 @@ date = "2014-04-27"
 album = "アルテミス"
 tracks = [
     [1, "ARTEMIS", "", ""],
-    [2, "NO, Thank You!", "", ""],
+    [2, "NO, Thank You!", "", "0"],
     [3, "蒼き炎", "", ""],
     [4, "レモネイドスキャンダル", "", ""],
     [5, "Moon Revenge", "", ""],
@@ -3387,12 +3387,12 @@ catalognumber = "PCCG-00982"
 date = "2009-06-17"
 album = "TVアニメ「けいおん!」イメージソング　秋山澪"
 tracks = [
-    [1, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", ""],
-    [2, "Hello Little Girl", "秋山澪(CV:日笠陽子)", ""],
-    [3, "『ﾚｯﾂｺﾞｰ』 (澪Ver.)", "秋山澪(CV:日笠陽子)", ""],
-    [4, "Heart Goes Boom!! (instrumental)", "秋山澪(CV:日笠陽子)", ""],
-    [5, "Hello Little Girl (instrumental)", "秋山澪(CV:日笠陽子)", ""],
-    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", ""],
+    [1, "Heart Goes Boom!!", "秋山澪(CV:日笠陽子)", "0"],
+    [2, "Hello Little Girl", "秋山澪(CV:日笠陽子)", "0"],
+    [3, "『ﾚｯﾂｺﾞｰ』 (澪Ver.)", "秋山澪(CV:日笠陽子)", "0"],
+    [4, "Heart Goes Boom!! (instrumental)", "秋山澪(CV:日笠陽子)", "0"],
+    [5, "Hello Little Girl (instrumental)", "秋山澪(CV:日笠陽子)", "0"],
+    [6, "『ﾚｯﾂｺﾞｰ』 (instrumental)", "放課後ティータイム", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c5ccb306-3ada-4d8a-872a-1bfa404857f7", "https://vgmdb.net/album/19890"]
 
@@ -3403,7 +3403,7 @@ album = "BanG Dream! 特典サンプラーCD 黒"
 tracks = [
     [1, "千本桜 (game size ver.)", "", ""],
     [2, "アスノヨゾラ哨戒班 (game size ver.)", "", ""],
-    [3, "ふわふわ時間 (game size ver.)", "", ""],
+    [3, "ふわふわ時間 (game size ver.)", "", "0"],
     [4, "魂のルフラン (game size ver.)", "", ""],
     [5, "ロメオ (game size ver.)", "", ""],
 ]
@@ -3414,13 +3414,13 @@ catalognumber = "SNGLY-004"
 date = "2010-12-29"
 album = "\"K-ON! Fit\" Xing Songs -カップリング・ソングズ- vol.3"
 tracks = [
-    [1, "Cagayake! GIRLS (Wii Fit ver.)", "", ""],
+    [1, "Cagayake! GIRLS (Wii Fit ver.)", "", "0"],
     [2, "Have some tea? (Muscle Training ver.)", "", ""],
-    [3, "ふわふわ時間 (Step Ladder Dance ver.)", "", ""],
-    [4, "NO,Thank You! (Yoga ver.)", "", ""],
-    [5, "Cagayake! GIRLS (Wii Fit ver.）-Instrumental-", "", ""],
-    [6, "ふわふわ時間 (Step Ladder Dance ver.）-Instrumental-", "", ""],
-    [7, "NO,Thank You! (Yoga ver.）-Instrumental-", "", ""],
-    [8, "ふわふわ時間 (Step Ladder Dance ver.) ～完全一致MIX～", "", ""],
+    [3, "ふわふわ時間 (Step Ladder Dance ver.)", "", "0"],
+    [4, "NO,Thank You! (Yoga ver.)", "", "0"],
+    [5, "Cagayake! GIRLS (Wii Fit ver.）-Instrumental-", "", "0"],
+    [6, "ふわふわ時間 (Step Ladder Dance ver.）-Instrumental-", "", "0"],
+    [7, "NO,Thank You! (Yoga ver.）-Instrumental-", "", "0"],
+    [8, "ふわふわ時間 (Step Ladder Dance ver.) ～完全一致MIX～", "", "0"],
 ]
 links = ["https://vgmdb.net/album/27578"]
