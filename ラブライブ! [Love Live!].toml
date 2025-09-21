@@ -229,9 +229,9 @@ catalognumber = "LACM-14950"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal"
 tracks = [
-    [1, "A song for You! You? You!!", "μ’s", ""],
+    [1, "A song for You! You? You!!", "μ’s", "1"],
     [2, "なってしまった!", "μ’s", ""],
-    [3, "A song for You! You? You!! (Off Vocal)", "μ’s", ""],
+    [3, "A song for You! You? You!! (Off Vocal)", "μ’s", "0"],
     [4, "なってしまった! (Off Vocal)", "μ’s", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/cad708a1-c9fa-4169-8856-74a2c05c4f61", "https://vgmdb.net/album/93532"]
@@ -241,7 +241,7 @@ catalognumber = "LACM-14950"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal, Video"
 tracks = [
-    [1, "A song for You! You? You!! (アニメーションPV)", "μ’s", ""],
+    [1, "A song for You! You? You!! (アニメーションPV)", "μ’s", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cad708a1-c9fa-4169-8856-74a2c05c4f61", "https://vgmdb.net/album/93532"]
 
@@ -759,7 +759,7 @@ tracks = [
     [4, "MIRACLE WAVE (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [6, "WONDERFUL STORIES (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [9, "迷冥探偵ヨハネ", "津島善子(CV.小林愛香) from Aqours", ""],
 ]
@@ -878,7 +878,7 @@ tracks = [
     [1, "Opening Movie", "", ""],
     [2, "未来の僕らは知ってるよ", "", ""],
     [3, "君の瞳を巡る冒険", "", ""],
-    [4, "\"MY LIST\" to you!", "", ""],
+    [4, "\"MY LIST\" to you!", "", "0"],
     [5, "MY舞☆TONIGHT", "", ""],
     [6, "君のこころは輝いてるかい?", "", ""],
     [7, "MIRACLE WAVE", "", ""],
@@ -1450,7 +1450,7 @@ tracks = [
     [5, "Angelic Angel (ELI Mix)", "", ""],
     [6, "SUNNY DAY SONG (ELI Mix)", "", ""],
     [7, "僕たちはひとつの光 (ELI Mix)", "", ""],
-    [8, "?←HEARTBEAT (ELI Mix)", "", ""],
+    [8, "?←HEARTBEAT (ELI Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -1728,7 +1728,7 @@ tracks = [
     [5, "Angelic Angel (NOZOMI Mix)", "", ""],
     [6, "SUNNY DAY SONG (NOZOMI Mix)", "", ""],
     [7, "僕たちはひとつの光 (NOZOMI Mix)", "", ""],
-    [8, "?←HEARTBEAT (NOZOMI Mix)", "", ""],
+    [8, "?←HEARTBEAT (NOZOMI Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -1840,7 +1840,7 @@ tracks = [
     [5, "Angelic Angel (NICO Mix)", "", ""],
     [6, "SUNNY DAY SONG (NICO Mix)", "", ""],
     [7, "僕たちはひとつの光 (NICO Mix)", "", ""],
-    [8, "?←HEARTBEAT (NICO Mix)", "", ""],
+    [8, "?←HEARTBEAT (NICO Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -2079,7 +2079,7 @@ tracks = [
     [2, "ハミングフレンド", "Aqours", ""],
     [3, "サンシャインぴっかぴか音頭", "Aqours", ""],
     [4, "君の瞳を巡る冒険", "Aqours", ""],
-    [5, "\"MY LIST\" to you!", "Aqours", ""],
+    [5, "\"MY LIST\" to you!", "Aqours", "0"],
     [6, "夏への扉 Never end ver.", "桜内梨子(CV.逢田梨香子)、国木田花丸(CV.高槻かなこ)、小原鞠莉(CV.鈴木愛奈)", ""],
     [7, "真夏は誰のモノ?", "黒澤ダイヤ(CV.小宮有紗)、黒澤ルビィ(CV.降幡愛)", ""],
     [8, "地元愛♡満タン☆サマーライフ", "渡辺曜(CV.斉藤朱夏)、津島善子(CV.小林愛香)", ""],
@@ -2116,7 +2116,7 @@ tracks = [
     [4, "MIRACLE WAVE", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [6, "WONDERFUL STORIES", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [7, "\"MY LIST\" to you!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
+    [7, "\"MY LIST\" to you!", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
     [8, "勇気はどこに? 君の胸に!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [9, "Love is all, I sing love is all!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
 ]
@@ -2845,7 +2845,7 @@ tracks = [
     [7, "曜の謎を探れ", "加藤達也", ""],
     [8, "月、、、ちゃん?", "加藤達也", ""],
     [9, "今、私たちに出来ること", "加藤達也", ""],
-    [10, "6人のAqoursで", "加藤達也", ""],
+    [10, "6人のAqoursで", "加藤達也", "0"],
     [11, "Missing Piece", "加藤達也", ""],
     [12, "梨子の想い、千歌の想い", "加藤達也", ""],
     [13, "原点回帰でもう一度", "加藤達也", ""],
@@ -2880,7 +2880,7 @@ tracks = [
     [11, "My way on my own", "加藤達也", ""],
     [12, "ヨハネ帰還!", "加藤達也", ""],
     [13, "Circle of Friendship", "加藤達也", ""],
-    [14, "0からじゃないスタート", "加藤達也", ""],
+    [14, "0からじゃないスタート", "加藤達也", "0"],
     [15, "Empathy of little sisters", "加藤達也", ""],
     [16, "スノードームメモリー", "加藤達也", ""],
     [17, "スノードームメモリー (String Quartet Ver.)", "加藤達也", ""],
@@ -3111,7 +3111,7 @@ tracks = [
     [4, "MIRACLE WAVE (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [6, "WONDERFUL STORIES (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (高海千歌 Solo Ver.)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [9, "OKAWARI Happy life!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
 ]
@@ -3422,7 +3422,7 @@ tracks = [
     [4, "MIRACLE WAVE (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [6, "WONDERFUL STORIES (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [9, "やあ!行雲流水!?", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
 ]
@@ -4971,9 +4971,9 @@ date = "2015-07-08"
 album = "SUNNY DAY SONG/?←HEARTBEAT / μ's"
 tracks = [
     [1, "SUNNY DAY SONG", "μ’s", ""],
-    [2, "?←HEARTBEAT", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", ""],
+    [2, "?←HEARTBEAT", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", "1"],
     [3, "SUNNY DAY SONG (Off Vocal)", "μ’s", ""],
-    [4, "?←HEARTBEAT (Off Vocal)", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", ""],
+    [4, "?←HEARTBEAT (Off Vocal)", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bef6636e-bd88-4e21-bee8-66976ae0279b", "https://vgmdb.net/album/52260"]
 
@@ -5346,7 +5346,7 @@ tracks = [
     [4, "MIRACLE WAVE", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [6, "WONDERFUL STORIES", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [7, "\"MY LIST\" to you!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
+    [7, "\"MY LIST\" to you!", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [9, "RUN KAKERU RUN", "松浦果南(CV.諏訪ななか) from Aqours", ""],
 ]
@@ -5563,7 +5563,7 @@ tracks = [
     [4, "MIRACLE WAVE (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [6, "WONDERFUL STORIES (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [9, "Paradise Chime", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
 ]
@@ -6152,7 +6152,7 @@ tracks = [
     [4, "MIRACLE WAVE (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [6, "WONDERFUL STORIES (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
     [8, "勇気はどこに？君の胸に！ (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [9, "MOTTO-ZUTTO be with you", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
 ]
@@ -7002,7 +7002,7 @@ tracks = [
     [1, "Opening Movie", "", ""],
     [2, "未来の僕らは知ってるよ", "", ""],
     [3, "君の瞳を巡る冒険", "", ""],
-    [4, "\"MY LIST\" to you!", "", ""],
+    [4, "\"MY LIST\" to you!", "", "0"],
     [5, "MY舞☆TONIGHT", "", ""],
     [6, "君のこころは輝いてるかい?", "", ""],
     [7, "MIRACLE WAVE", "", ""],
@@ -7221,7 +7221,7 @@ tracks = [
     [5, "Angelic Angel (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [6, "SUNNY DAY SONG (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [7, "僕たちはひとつの光 (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
-    [8, "?←HEARTBEAT (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
+    [8, "?←HEARTBEAT (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d302889f-8a6d-4682-b3ec-7b09c367f25f", "https://vgmdb.net/album/71678"]
 
@@ -7366,7 +7366,7 @@ tracks = [
     [5, "Angelic Angel (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [6, "SUNNY DAY SONG (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [7, "僕たちはひとつの光 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
-    [8, "?←HEARTBEAT (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
+    [8, "?←HEARTBEAT (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cdf4a0ae-27e9-41b9-a8e9-2fbbd6bde794", "https://vgmdb.net/album/71680"]
 
@@ -8776,7 +8776,7 @@ tracks = [
     [2, "Hello, 星を数えて", "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
     [3, "SUNNY DAY SONG", "μ’s", ""],
     [4, "SUNNY DAY SONG (Movie Edit)", "μ’s", ""],
-    [5, "?←HEARTBEAT", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", ""],
+    [5, "?←HEARTBEAT", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", "0"],
     [6, "僕たちはひとつの光", "μ’s", ""],
     [7, "Future style", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", ""],
     [8, "これから", "μ’s", ""],
@@ -9183,7 +9183,7 @@ tracks = [
     [4, "MIRACLE WAVE (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [6, "WONDERFUL STORIES (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (桜内梨子 Solo Ver.)", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [9, "Love Spiral Tower", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
 ]
@@ -9229,9 +9229,9 @@ date = "2017-11-15"
 album = "勇気はどこに?君の胸に! / Aqours"
 tracks = [
     [1, "勇気はどこに?君の胸に!", "Aqours", ""],
-    [2, "\"MY LIST\" to you!", "Aqours", ""],
+    [2, "\"MY LIST\" to you!", "Aqours", "1"],
     [3, "勇気はどこに?君の胸に! (Off Vocal)", "Aqours", ""],
-    [4, "\"MY LIST\" to you! (Off Vocal)", "Aqours", ""],
+    [4, "\"MY LIST\" to you! (Off Vocal)", "Aqours", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3dc7f451-9459-43a3-aa2d-4f719832fbb6", "https://vgmdb.net/album/70622"]
 
@@ -9781,7 +9781,7 @@ tracks = [
     [2, "ハミングフレンド", "", ""],
     [3, "サンシャインぴっかぴか音頭", "", ""],
     [4, "君の瞳を巡る冒険", "", ""],
-    [5, "\"MY LIST\" to you!", "", ""],
+    [5, "\"MY LIST\" to you!", "", "0"],
     [6, "夏への扉 Never end ver.", "", ""],
     [7, "真夏は誰のモノ?", "", ""],
     [8, "地元愛♡満タン☆サマーライフ", "", ""],
@@ -11661,7 +11661,7 @@ tracks = [
     [1, "新生徒会長登場 (LM51)", "", ""],
     [2, "これまでのラブライブ! ～ミュージカルver.～ (LM15H) [第1話挿入歌]", "", ""],
     [3, "What!? (LM52)", "", ""],
-    [4, "...寄り道してかない? (LM53)", "", ""],
+    [4, "...寄り道してかない? (LM53)", "", "0"],
     [5, "残された時間 (LM54)", "", ""],
     [6, "それは僕たちの奇跡 (TVサイズ)", "", ""],
     [7, "大変です!!! (TM02)", "", ""],
@@ -11890,7 +11890,7 @@ tracks = [
     [5, "Angelic Angel (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [6, "SUNNY DAY SONG (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [7, "僕たちはひとつの光 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
-    [8, "?←HEARTBEAT (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
+    [8, "?←HEARTBEAT (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/01713506-5ad8-41f2-9ad5-755643d70bd4", "https://vgmdb.net/album/71673"]
 
@@ -12601,7 +12601,7 @@ tracks = [
     [4, "MIRACLE WAVE (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [5, "WATER BLUE NEW WORLD (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [6, "WONDERFUL STORIES (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
-    [7, "\"MY LIST\" to you! (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
+    [7, "\"MY LIST\" to you! (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", "0"],
     [8, "勇気はどこに?君の胸に! (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [9, "1STAR", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
 ]
@@ -12730,9 +12730,9 @@ catalognumber = "LACM-14951"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal"
 tracks = [
-    [1, "A song for You! You? You!!", "μ’s", ""],
+    [1, "A song for You! You? You!!", "μ’s", "0"],
     [2, "なってしまった!", "μ’s", ""],
-    [3, "A song for You! You? You!! (Off Vocal)", "μ’s", ""],
+    [3, "A song for You! You? You!! (Off Vocal)", "μ’s", "0"],
     [4, "なってしまった! (Off Vocal)", "μ’s", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/905a085c-473d-4361-b304-95894700fe67", "https://vgmdb.net/album/93531"]
@@ -12742,7 +12742,7 @@ catalognumber = "LACM-14951"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal, Video"
 tracks = [
-    [1, "A song for You! You? You!! (アニメーションPV)", "μ’s", ""],
+    [1, "A song for You! You? You!! (アニメーションPV)", "μ’s", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/905a085c-473d-4361-b304-95894700fe67", "https://vgmdb.net/album/93531"]
 
