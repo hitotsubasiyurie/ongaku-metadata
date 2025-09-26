@@ -4,11 +4,11 @@ date = "2012-07-25"
 album = "soldier game /西木野真姫(Pile), 園田海未(三森すずこ), 絢瀬絵里(南條愛乃)"
 tracks = [
     [1, "soldier game", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [2, "Daring!!", "西木野真姫(CV.Pile)", ""],
+    [2, "Daring!!", "西木野真姫(CV.Pile)", "0"],
     [3, "勇気のReason", "園田海未(CV.三森すずこ)", ""],
     [4, "ありふれた悲しみの果て", "絢瀬絵里(CV.南條愛乃)", ""],
     [5, "soldier game (Off Vocal)", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [6, "Daring!! (Off Vocal)", "西木野真姫(CV.Pile)", ""],
+    [6, "Daring!! (Off Vocal)", "西木野真姫(CV.Pile)", "0"],
     [7, "勇気のReason (Off Vocal)", "園田海未(CV.三森すずこ)", ""],
     [8, "ありふれた悲しみの果て (Off Vocal)", "絢瀬絵里(CV.南條愛乃)", ""],
     [9, "まきうみえり、お勉強会しにきました!", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
@@ -109,7 +109,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [2, "空も心も晴れるから (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [3, "Daydream Warrior (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
+    [3, "Daydream Warrior (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
     [4, "スリリング・ワンウェイ (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [5, "太陽を追いかけろ! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [6, "ジングルベルがとまらない (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
@@ -125,7 +125,7 @@ tracks = [
     [1, "Marine Border Parasol (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [2, "僕らの走ってきた道は… (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [3, "Hop? Stop? Nonstop! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [4, "Brightest Melody (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
+    [4, "Brightest Melody (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
     [5, "キセキヒカル (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [6, "Next SPARKLING!! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [7, "i-n-g, I TRY!! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
@@ -161,9 +161,9 @@ catalognumber = "LACM-14102"
 date = "2013-07-24"
 album = "Cutie Panther / BiBi"
 tracks = [
-    [1, "Cutie Panther", "BiBi", ""],
+    [1, "Cutie Panther", "BiBi", "0"],
     [2, "夏、終わらないで。", "BiBi", ""],
-    [3, "Cutie Panther -Off Vocal-", "BiBi", ""],
+    [3, "Cutie Panther -Off Vocal-", "BiBi", "0"],
     [4, "夏、終わらないで。 -Off Vocal-", "BiBi", ""],
     [5, "プールでウェイトレス!? -Mini Drama-", "μ’s", ""],
 ]
@@ -277,7 +277,7 @@ tracks = [
     [1, "WHITE FIRST LOVE", "黒澤ダイヤ(CV.小宮有紗)", ""],
     [2, "君のこころは輝いてるかい？ (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [3, "Step! ZERO to ONE (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [4, "Aqours☆HEROES (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
+    [4, "Aqours☆HEROES (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [6, "待ってて愛のうた (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [7, "届かない星だとしても (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
@@ -293,8 +293,8 @@ tracks = [
     [2, "SKY JOURNEY (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [3, "少女以上の恋がしたい (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [4, "未体験HORIZON (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [5, "Deep Resonance (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [6, "Dance with Minotaurus (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
+    [5, "Deep Resonance (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
+    [6, "Dance with Minotaurus (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [8, "Wake up, Challenger!! (黒澤ダイヤ Solo Ver.)", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [9, "Perfect SEKAI", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
@@ -329,9 +329,9 @@ catalognumber = "BEPC-9999"
 date = "2017-03-24"
 album = "Aqoursのグルメレポート"
 tracks = [
-    [1, "Aqoursのグルメレポート 〜丸天編〜", "Aqours", ""],
-    [2, "Aqoursのグルメレポート 〜沼津バーガー編〜", "Aqours", ""],
-    [3, "Aqoursのグルメレポート 〜みなと新鮮館編〜", "Aqours", ""],
+    [1, "Aqoursのグルメレポート 〜丸天編〜", "Aqours", "0"],
+    [2, "Aqoursのグルメレポート 〜沼津バーガー編〜", "Aqours", "0"],
+    [3, "Aqoursのグルメレポート 〜みなと新鮮館編〜", "Aqours", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d7e688e7-0049-40ec-9ec5-45fb95e567ab", "https://vgmdb.net/album/60069"]
 
@@ -361,10 +361,10 @@ tracks = [
     [0, "B-Side", "", ""],
     [1, "君のこころは輝いてるかい?", "", ""],
     [2, "Step! ZERO to ONE", "", ""],
-    [3, "Aqours☆HEROES", "", ""],
+    [3, "Aqours☆HEROES", "", "0"],
     [4, "君のこころは輝いてるかい? (Off Vocal)", "", ""],
     [5, "Step! ZERO to ONE (Off Vocal)", "", ""],
-    [6, "Aqours☆HEROES (Off Vocal)", "", ""],
+    [6, "Aqours☆HEROES (Off Vocal)", "", "0"],
     [7, "君のこころは輝いてるかい? (Acappella)", "", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/b444f7f7-653d-4a79-87f5-9203b331d7f1", "https://vgmdb.net/album/109309"]
@@ -615,11 +615,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [6, "だってだって噫無情 (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [7, "どんなときもずっと (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
-    [8, "COLORFUL VOICE (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
+    [8, "COLORFUL VOICE (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", "0"],
     [9, "ユメノトビラ (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [10, "SENTIMENTAL StepS (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [11, "Love wing bell (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
-    [12, "Dancing stars on me! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
+    [12, "Dancing stars on me! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", "0"],
     [13, "KiRa-KiRa Sensation! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [14, "Happy maker! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
 ]
@@ -634,7 +634,7 @@ tracks = [
     [2, "るてしキスキしてる (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [3, "ミはμ'sicのミ (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [4, "Super LOVE=Super LIVE! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
-    [5, "Angelic Angel (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
+    [5, "Angelic Angel (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", "0"],
     [6, "SUNNY DAY SONG (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [7, "僕たちはひとつの光 (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
     [8, "Hello,星を数えて (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
@@ -702,8 +702,8 @@ catalognumber = "BEPC-0022"
 date = "2017-03-24"
 album = "Guilty Eyes Fever / Guilty Kiss"
 tracks = [
-    [1, "Guilty Eyes Fever", "Guilty Kiss", ""],
-    [2, "Guilty Eyes Fever (Off Vocal)", "Guilty Kiss", ""],
+    [1, "Guilty Eyes Fever", "Guilty Kiss", "0"],
+    [2, "Guilty Eyes Fever (Off Vocal)", "Guilty Kiss", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e7b724b1-5eb9-4a77-8561-159549cfb777", "https://vgmdb.net/album/60068"]
 
@@ -894,7 +894,7 @@ catalognumber = "LABM-7281"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 2 [LABM-7281]"
 tracks = [
-    [1, "Beginner's Sailing", "", ""],
+    [1, "Beginner's Sailing", "", "0"],
     [2, "RED GEM WINK", "", ""],
     [3, "WHITE FIRST LOVE", "", ""],
     [4, "New winding road", "", ""],
@@ -902,7 +902,7 @@ tracks = [
     [6, "空も心も晴れるから", "", ""],
     [7, "SKY JOURNEY", "", ""],
     [8, "恋になりたいAQUARIUM", "", ""],
-    [9, "Awaken the power", "", ""],
+    [9, "Awaken the power", "", "0"],
     [10, "WATER BLUE NEW WORLD", "", ""],
     [11, "青空Jumping Heart", "", ""],
     [12, "Landing action Yeah!!", "", ""],
@@ -917,9 +917,9 @@ date = "2015-07-15"
 album = "僕たちはひとつの光/Future style / μ's"
 tracks = [
     [1, "僕たちはひとつの光", "μ’s", ""],
-    [2, "Future style", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", ""],
+    [2, "Future style", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", "1"],
     [3, "僕たちはひとつの光 (Off Vocal)", "μ’s", ""],
-    [4, "Future style (Off Vocal)", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", ""],
+    [4, "Future style (Off Vocal)", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9180e0fe-1b28-4adf-8485-eac722813d61", "https://vgmdb.net/album/52261"]
 
@@ -1166,7 +1166,7 @@ album = "君のこころは輝いてるかい? / Aqours Disc 1 (CD) [LACM-14401]
 tracks = [
     [1, "君のこころは輝いてるかい?", "Aqours", ""],
     [2, "Step! ZERO to ONE", "Aqours", ""],
-    [3, "Aqours☆HEROES", "Aqours", ""],
+    [3, "Aqours☆HEROES", "Aqours", "0"],
     [4, "君のこころは輝いてるかい? (Off Vocal)", "Aqours", ""],
     [5, "[はじめましてのご挨拶] 高海千歌", "高海千歌(CV.伊波杏樹)", ""],
     [6, "[はじめましてのご挨拶] 桜内梨子", "桜内梨子(CV.逢田梨香子)", ""],
@@ -1263,11 +1263,11 @@ tracks = [
     [4, "トリコリコPLEASE!!", "AZALEA", ""],
     [5, "ときめき分類学", "AZALEA", ""],
     [6, "LONELY TUNING", "AZALEA", ""],
-    [7, "GALAXY HidE and SeeK", "AZALEA", ""],
+    [7, "GALAXY HidE and SeeK", "AZALEA", "0"],
     [8, "INNOCENT BIRD", "AZALEA", ""],
     [9, "メタモルフィズム", "AZALEA", ""],
-    [10, "Amazing Travel DNA REMIX", "AZALEA", ""],
-    [11, "Amazing Travel DNA", "AZALEA", ""],
+    [10, "Amazing Travel DNA REMIX", "AZALEA", "0"],
+    [11, "Amazing Travel DNA", "AZALEA", "0"],
     [12, "空中恋愛論", "AZALEA", ""],
     [13, "メイズセカイ", "AZALEA", ""],
     [14, "卒業ですね", "AZALEA", ""],
@@ -1318,10 +1318,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [6, "だってだって噫無情 (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [7, "どんなときもずっと (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [8, "COLORFUL VOICE (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
+    [8, "COLORFUL VOICE (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
     [9, "ユメノトビラ (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [10, "SENTIMENTAL StepS (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [11, "Dancing stars on me! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
+    [11, "Dancing stars on me! (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
     [12, "KiRa-KiRa Sensation! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [13, "Happy maker! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
 ]
@@ -1336,10 +1336,10 @@ tracks = [
     [2, "るてしキスキしてる (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [3, "ミはμ'sicのミ (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [4, "Super LOVE=Super LIVE! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [5, "Angelic Angel (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
+    [5, "Angelic Angel (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
     [6, "SUNNY DAY SONG (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [7, "僕たちはひとつの光 (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [8, "Future style (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
+    [8, "Future style (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9f7bf204-09bf-44e2-8be8-eae1063adf77", "https://vgmdb.net/album/71674"]
 
@@ -1373,10 +1373,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (HONOKA Mix)", "", ""],
     [6, "だってだって噫無情 (HONOKA Mix)", "", ""],
     [7, "どんなときもずっと (HONOKA Mix)", "", ""],
-    [8, "COLORFUL VOICE (HONOKA Mix)", "", ""],
+    [8, "COLORFUL VOICE (HONOKA Mix)", "", "0"],
     [9, "ユメノトビラ (HONOKA Mix)", "", ""],
     [10, "SENTIMENTAL StepS (HONOKA Mix)", "", ""],
-    [11, "Dancing stars on me! (HONOKA Mix)", "", ""],
+    [11, "Dancing stars on me! (HONOKA Mix)", "", "0"],
     [12, "KiRa-KiRa Sensation! (HONOKA Mix)", "", ""],
     [13, "Happy maker! (HONOKA Mix)", "", ""],
 ]
@@ -1391,10 +1391,10 @@ tracks = [
     [2, "るてしキスキしてる (HONOKA Mix)", "", ""],
     [3, "ミはμ'sicのミ (HONOKA Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (HONOKA Mix)", "", ""],
-    [5, "Angelic Angel (HONOKA Mix)", "", ""],
+    [5, "Angelic Angel (HONOKA Mix)", "", "0"],
     [6, "SUNNY DAY SONG (HONOKA Mix)", "", ""],
     [7, "僕たちはひとつの光 (HONOKA Mix)", "", ""],
-    [8, "Future style (HONOKA Mix)", "", ""],
+    [8, "Future style (HONOKA Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -1428,11 +1428,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (ELI Mix)", "", ""],
     [6, "だってだって噫無情 (ELI Mix)", "", ""],
     [7, "どんなときもずっと (ELI Mix)", "", ""],
-    [8, "COLORFUL VOICE (ELI Mix)", "", ""],
+    [8, "COLORFUL VOICE (ELI Mix)", "", "0"],
     [9, "ユメノトビラ (ELI Mix)", "", ""],
     [10, "SENTIMENTAL StepS (ELI Mix)", "", ""],
     [11, "Love wing bell (ELI Mix)", "", ""],
-    [12, "Dancing stars on me! (ELI Mix)", "", ""],
+    [12, "Dancing stars on me! (ELI Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (ELI Mix)", "", ""],
     [14, "Happy maker! (ELI Mix)", "", ""],
 ]
@@ -1447,7 +1447,7 @@ tracks = [
     [2, "るてしキスキしてる (ELI Mix)", "", ""],
     [3, "ミはμ'sicのミ (ELI Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (ELI Mix)", "", ""],
-    [5, "Angelic Angel (ELI Mix)", "", ""],
+    [5, "Angelic Angel (ELI Mix)", "", "0"],
     [6, "SUNNY DAY SONG (ELI Mix)", "", ""],
     [7, "僕たちはひとつの光 (ELI Mix)", "", ""],
     [8, "?←HEARTBEAT (ELI Mix)", "", "0"],
@@ -1459,7 +1459,7 @@ catalognumber = "LACA-39605"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 6 [LACA-39605]"
 tracks = [
-    [1, "Cutie Panther (ELI Mix)", "", ""],
+    [1, "Cutie Panther (ELI Mix)", "", "0"],
     [2, "夏、終わらないで。 (ELI Mix)", "", ""],
     [3, "冬がくれた予感 (ELI Mix)", "", ""],
     [4, "Trouble Busters (ELI Mix)", "", ""],
@@ -1484,10 +1484,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (KOTORI Mix)", "", ""],
     [6, "だってだって噫無情 (KOTORI Mix)", "", ""],
     [7, "どんなときもずっと (KOTORI Mix)", "", ""],
-    [8, "COLORFUL VOICE (KOTORI Mix)", "", ""],
+    [8, "COLORFUL VOICE (KOTORI Mix)", "", "0"],
     [9, "ユメノトビラ (KOTORI Mix)", "", ""],
     [10, "SENTIMENTAL StepS (KOTORI Mix)", "", ""],
-    [11, "Dancing stars on me! (KOTORI Mix)", "", ""],
+    [11, "Dancing stars on me! (KOTORI Mix)", "", "0"],
     [12, "KiRa-KiRa Sensation! (KOTORI Mix)", "", ""],
     [13, "Happy maker! (KOTORI Mix)", "", ""],
 ]
@@ -1502,10 +1502,10 @@ tracks = [
     [2, "るてしキスキしてる (KOTORI Mix)", "", ""],
     [3, "ミはμ'sicのミ (KOTORI Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (KOTORI Mix)", "", ""],
-    [5, "Angelic Angel (KOTORI Mix)", "", ""],
+    [5, "Angelic Angel (KOTORI Mix)", "", "0"],
     [6, "SUNNY DAY SONG (KOTORI Mix)", "", ""],
     [7, "僕たちはひとつの光 (KOTORI Mix)", "", ""],
-    [8, "Future style (KOTORI Mix)", "", ""],
+    [8, "Future style (KOTORI Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -1539,10 +1539,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (UMI Mix)", "", ""],
     [6, "だってだって噫無情 (UMI Mix)", "", ""],
     [7, "どんなときもずっと (UMI Mix)", "", ""],
-    [8, "COLORFUL VOICE (UMI Mix)", "", ""],
+    [8, "COLORFUL VOICE (UMI Mix)", "", "0"],
     [9, "ユメノトビラ (UMI Mix)", "", ""],
     [10, "SENTIMENTAL StepS (UMI Mix)", "", ""],
-    [11, "Dancing stars on me! (UMI Mix)", "", ""],
+    [11, "Dancing stars on me! (UMI Mix)", "", "0"],
     [12, "KiRa-KiRa Sensation! (UMI Mix)", "", ""],
     [13, "Happy maker! (UMI Mix)", "", ""],
 ]
@@ -1557,10 +1557,10 @@ tracks = [
     [2, "るてしキスキしてる (UMI Mix)", "", ""],
     [3, "ミはμ'sicのミ (UMI Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (UMI Mix)", "", ""],
-    [5, "Angelic Angel (UMI Mix)", "", ""],
+    [5, "Angelic Angel (UMI Mix)", "", "0"],
     [6, "SUNNY DAY SONG (UMI Mix)", "", ""],
     [7, "僕たちはひとつの光 (UMI Mix)", "", ""],
-    [8, "Future style (UMI Mix)", "", ""],
+    [8, "Future style (UMI Mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/71670"]
 
@@ -1594,11 +1594,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (RIN Mix)", "", ""],
     [6, "だってだって噫無情 (RIN Mix)", "", ""],
     [7, "どんなときもずっと (RIN Mix)", "", ""],
-    [8, "COLORFUL VOICE (RIN Mix)", "", ""],
+    [8, "COLORFUL VOICE (RIN Mix)", "", "0"],
     [9, "ユメノトビラ (RIN Mix)", "", ""],
     [10, "SENTIMENTAL StepS (RIN Mix)", "", ""],
     [11, "Love wing bell (RIN Mix)", "", ""],
-    [12, "Dancing stars on me! (RIN Mix)", "", ""],
+    [12, "Dancing stars on me! (RIN Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (RIN Mix)", "", ""],
     [14, "Happy maker! (RIN Mix)", "", ""],
 ]
@@ -1613,7 +1613,7 @@ tracks = [
     [2, "るてしキスキしてる (RIN Mix)", "", ""],
     [3, "ミはμ'sicのミ (RIN Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (RIN Mix)", "", ""],
-    [5, "Angelic Angel (RIN Mix)", "", ""],
+    [5, "Angelic Angel (RIN Mix)", "", "0"],
     [6, "SUNNY DAY SONG (RIN Mix)", "", ""],
     [7, "僕たちはひとつの光 (RIN Mix)", "", ""],
     [8, "Hello,星を数えて (RIN Mix)", "", ""],
@@ -1650,11 +1650,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (MAKI Mix)", "", ""],
     [6, "だってだって噫無情 (MAKI Mix)", "", ""],
     [7, "どんなときもずっと (MAKI Mix)", "", ""],
-    [8, "COLORFUL VOICE (MAKI Mix)", "", ""],
+    [8, "COLORFUL VOICE (MAKI Mix)", "", "0"],
     [9, "ユメノトビラ (MAKI Mix)", "", ""],
     [10, "SENTIMENTAL StepS (MAKI Mix)", "", ""],
     [11, "Love wing bell (MAKI Mix)", "", ""],
-    [12, "Dancing stars on me! (MAKI Mix)", "", ""],
+    [12, "Dancing stars on me! (MAKI Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (MAKI Mix)", "", ""],
     [14, "Happy maker! (MAKI Mix)", "", ""],
 ]
@@ -1669,7 +1669,7 @@ tracks = [
     [2, "るてしキスキしてる (MAKI Mix)", "", ""],
     [3, "ミはμ'sicのミ (MAKI Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (MAKI Mix)", "", ""],
-    [5, "Angelic Angel (MAKI Mix)", "", ""],
+    [5, "Angelic Angel (MAKI Mix)", "", "0"],
     [6, "SUNNY DAY SONG (MAKI Mix)", "", ""],
     [7, "僕たちはひとつの光 (MAKI Mix)", "", ""],
     [8, "Hello,星を数えて (MAKI Mix)", "", ""],
@@ -1681,7 +1681,7 @@ catalognumber = "LACA-39617"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 18 [LACA-39617]"
 tracks = [
-    [1, "Cutie Panther (MAKI Mix)", "", ""],
+    [1, "Cutie Panther (MAKI Mix)", "", "0"],
     [2, "夏、終わらないで。 (MAKI Mix)", "", ""],
     [3, "冬がくれた予感 (MAKI Mix)", "", ""],
     [4, "Trouble Busters (MAKI Mix)", "", ""],
@@ -1706,11 +1706,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (NOZOMI Mix)", "", ""],
     [6, "だってだって噫無情 (NOZOMI Mix)", "", ""],
     [7, "どんなときもずっと (NOZOMI Mix)", "", ""],
-    [8, "COLORFUL VOICE (NOZOMI Mix)", "", ""],
+    [8, "COLORFUL VOICE (NOZOMI Mix)", "", "0"],
     [9, "ユメノトビラ (NOZOMI Mix)", "", ""],
     [10, "SENTIMENTAL StepS (NOZOMI Mix)", "", ""],
     [11, "Love wing bell (NOZOMI Mix)", "", ""],
-    [12, "Dancing stars on me! (NOZOMI Mix)", "", ""],
+    [12, "Dancing stars on me! (NOZOMI Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (NOZOMI Mix)", "", ""],
     [14, "Happy maker! (NOZOMI Mix)", "", ""],
 ]
@@ -1725,7 +1725,7 @@ tracks = [
     [2, "るてしキスキしてる (NOZOMI Mix)", "", ""],
     [3, "ミはμ'sicのミ (NOZOMI Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (NOZOMI Mix)", "", ""],
-    [5, "Angelic Angel (NOZOMI Mix)", "", ""],
+    [5, "Angelic Angel (NOZOMI Mix)", "", "0"],
     [6, "SUNNY DAY SONG (NOZOMI Mix)", "", ""],
     [7, "僕たちはひとつの光 (NOZOMI Mix)", "", ""],
     [8, "?←HEARTBEAT (NOZOMI Mix)", "", "0"],
@@ -1762,11 +1762,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (HANAYO Mix)", "", ""],
     [6, "だってだって噫無情 (HANAYO Mix)", "", ""],
     [7, "どんなときもずっと (HANAYO Mix)", "", ""],
-    [8, "COLORFUL VOICE (HANAYO Mix)", "", ""],
+    [8, "COLORFUL VOICE (HANAYO Mix)", "", "0"],
     [9, "ユメノトビラ (HANAYO Mix)", "", ""],
     [10, "SENTIMENTAL StepS (HANAYO Mix)", "", ""],
     [11, "Love wing bell (HANAYO Mix)", "", ""],
-    [12, "Dancing stars on me! (HANAYO Mix)", "", ""],
+    [12, "Dancing stars on me! (HANAYO Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (HANAYO Mix)", "", ""],
     [14, "Happy maker! (HANAYO Mix)", "", ""],
 ]
@@ -1781,7 +1781,7 @@ tracks = [
     [2, "るてしキスキしてる (HANAYO Mix)", "", ""],
     [3, "ミはμ'sicのミ (HANAYO Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (HANAYO Mix)", "", ""],
-    [5, "Angelic Angel (HANAYO Mix)", "", ""],
+    [5, "Angelic Angel (HANAYO Mix)", "", "0"],
     [6, "SUNNY DAY SONG (HANAYO Mix)", "", ""],
     [7, "僕たちはひとつの光 (HANAYO Mix)", "", ""],
     [8, "Hello,星を数えて (HANAYO Mix)", "", ""],
@@ -1818,11 +1818,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (NICO Mix)", "", ""],
     [6, "だってだって噫無情 (NICO Mix)", "", ""],
     [7, "どんなときもずっと (NICO Mix)", "", ""],
-    [8, "COLORFUL VOICE (NICO Mix)", "", ""],
+    [8, "COLORFUL VOICE (NICO Mix)", "", "0"],
     [9, "ユメノトビラ (NICO Mix)", "", ""],
     [10, "SENTIMENTAL StepS (NICO Mix)", "", ""],
     [11, "Love wing bell (NICO Mix)", "", ""],
-    [12, "Dancing stars on me! (NICO Mix)", "", ""],
+    [12, "Dancing stars on me! (NICO Mix)", "", "0"],
     [13, "KiRa-KiRa Sensation! (NICO Mix)", "", ""],
     [14, "Happy maker! (NICO Mix)", "", ""],
 ]
@@ -1837,7 +1837,7 @@ tracks = [
     [2, "るてしキスキしてる (NICO Mix)", "", ""],
     [3, "ミはμ'sicのミ (NICO Mix)", "", ""],
     [4, "Super LOVE=Super LIVE! (NICO Mix)", "", ""],
-    [5, "Angelic Angel (NICO Mix)", "", ""],
+    [5, "Angelic Angel (NICO Mix)", "", "0"],
     [6, "SUNNY DAY SONG (NICO Mix)", "", ""],
     [7, "僕たちはひとつの光 (NICO Mix)", "", ""],
     [8, "?←HEARTBEAT (NICO Mix)", "", "0"],
@@ -1849,7 +1849,7 @@ catalognumber = "LACA-39626"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 27 [LACA-39626]"
 tracks = [
-    [1, "Cutie Panther (NICO Mix)", "", ""],
+    [1, "Cutie Panther (NICO Mix)", "", "0"],
     [2, "夏、終わらないで。 (NICO Mix)", "", ""],
     [3, "冬がくれた予感 (NICO Mix)", "", ""],
     [4, "Trouble Busters (NICO Mix)", "", ""],
@@ -1904,9 +1904,9 @@ date = "2014-05-08"
 album = "どんなときもずっと / μ's"
 tracks = [
     [1, "どんなときもずっと", "μ’s", ""],
-    [2, "COLORFUL VOICE", "μ’s", ""],
+    [2, "COLORFUL VOICE", "μ’s", "1"],
     [3, "どんなときもずっと (Off Vocal)", "μ’s", ""],
-    [4, "COLORFUL VOICE (Off Vocal)", "μ’s", ""],
+    [4, "COLORFUL VOICE (Off Vocal)", "μ’s", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cd2d0a56-e266-415d-864c-9e6f78eff77a", "https://vgmdb.net/album/44482"]
 
@@ -2020,7 +2020,7 @@ album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Di
 tracks = [
     [1, "君のこころは輝いてるかい?", "Aqours", ""],
     [2, "Step! ZERO to ONE", "Aqours", ""],
-    [3, "Aqours☆HEROES", "Aqours", ""],
+    [3, "Aqours☆HEROES", "Aqours", "0"],
     [4, "恋になりたいAQUARIUM", "Aqours", ""],
     [5, "待ってて愛のうた", "Aqours", ""],
     [6, "届かない星だとしても", "Aqours", ""],
@@ -2038,12 +2038,12 @@ tracks = [
     [1, "Jump up HIGH!!", "Aqours", ""],
     [2, "冒険Type A, B, C!!", "Aqours", ""],
     [3, "未体験HORIZON", "Aqours", ""],
-    [4, "Deep Resonance", "Aqours", ""],
-    [5, "Dance with Minotaurus", "Aqours", ""],
+    [4, "Deep Resonance", "Aqours", "0"],
+    [5, "Dance with Minotaurus", "Aqours", "0"],
     [6, "KOKORO Magic \"A to Z\"", "Aqours", ""],
     [7, "Wake up, Challenger!!", "Aqours", ""],
-    [8, "Fantastic Departure!", "Aqours", ""],
-    [9, "Aqours Pirates Desire", "Aqours", ""],
+    [8, "Fantastic Departure!", "Aqours", "0"],
+    [9, "Aqours Pirates Desire", "Aqours", "0"],
     [10, "JIMO-AI Dash!", "Aqours", ""],
     [11, "キモチもユメも一緒だね!", "国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡愛)", ""],
     [12, "涙が雪になる前に", "松浦果南(CV.諏訪ななか)、小原鞠莉(CV.鈴木愛奈)", ""],
@@ -2062,7 +2062,7 @@ tracks = [
     [2, "MY舞☆TONIGHT", "Aqours", ""],
     [3, "MIRACLE WAVE", "Aqours", ""],
     [4, "空も心も晴れるから (9人Ver)", "Aqours", ""],
-    [5, "Awaken the power", "Saint Aqours Snow", ""],
+    [5, "Awaken the power", "Saint Aqours Snow", "0"],
     [6, "WATER BLUE NEW WORLD", "Aqours", ""],
     [7, "WONDERFUL STORIES", "Aqours", ""],
     [8, "勇気はどこに?君の胸に!", "Aqours", ""],
@@ -2086,7 +2086,7 @@ tracks = [
     [9, "夏の終わりの雨音が", "高海千歌(CV.伊波杏樹)、松浦果南(CV.諏訪ななか)", ""],
     [10, "ジングルベルがとまらない", "Aqours", ""],
     [11, "聖なる日の祈り", "Aqours", ""],
-    [12, "Future flight", "Aqours", ""],
+    [12, "Future flight", "Aqours", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/97698"]
 
@@ -2153,7 +2153,7 @@ tracks = [
     [2, "Snow Halation", "", ""],
     [3, "Mermaid festa vol.1", "", ""],
     [4, "Love wing bell", "", ""],
-    [5, "Angelic Angel", "", ""],
+    [5, "Angelic Angel", "", "0"],
     [6, "愛してるばんざーい!", "", ""],
 ]
 links = ["https://vgmdb.net/album/84024"]
@@ -2300,7 +2300,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん！", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [2, "空も心も晴れるから", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [3, "Daydream Warrior", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
+    [3, "Daydream Warrior", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
     [4, "G線上のシンデレラ", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [5, "スリリング・ワンウェイ", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [6, "太陽を追いかけろ！", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
@@ -2318,7 +2318,7 @@ tracks = [
     [2, "僕らの走ってきた道は…", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [3, "逃走迷走メビウスループ", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [4, "Hop? Stop? Nonstop!", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
-    [5, "Brightest Melody", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
+    [5, "Brightest Melody", "黒澤ダイヤ(CV.小宮有紗) from Aqours", "0"],
     [6, "キセキヒカル", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [7, "Next SPARKLING!!", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
     [8, "i-n-g, I TRY!!", "黒澤ダイヤ(CV.小宮有紗) from Aqours", ""],
@@ -2457,9 +2457,9 @@ tracks = [
     [1, "Thank you, FRIENDS!!", "高海千歌(CV.伊波杏樹)", ""],
     [2, "No.10", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
     [3, "冒険Type A, B, C!!", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
-    [4, "Fantastic Departure!", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
-    [5, "Aqours Pirates Desire", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
-    [6, "Future flight", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
+    [4, "Fantastic Departure!", "高海千歌 (CV.伊波杏樹) from Aqours", "0"],
+    [5, "Aqours Pirates Desire", "高海千歌 (CV.伊波杏樹) from Aqours", "0"],
+    [6, "Future flight", "高海千歌 (CV.伊波杏樹) from Aqours", "0"],
     [7, "smile smile ship Start!", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
     [8, "心の羽よ君へ飛んでけ！", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
     [9, "KU-RU-KU-RU Cruller!", "高海千歌 (CV.伊波杏樹) from Aqours", ""],
@@ -2542,7 +2542,7 @@ tracks = [
     [1, "in this unstable world", "津島善子(CV.小林愛香)", ""],
     [2, "君のこころは輝いてるかい? (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [3, "Step! ZERO to ONE (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
-    [4, "Aqours☆HEROES (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
+    [4, "Aqours☆HEROES (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [6, "待ってて愛のうた (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [7, "届かない星だとしても (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
@@ -2558,8 +2558,8 @@ tracks = [
     [2, "SKY JOURNEY (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [3, "少女以上の恋がしたい (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [4, "未体験HORIZON (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
-    [5, "Deep Resonance (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
-    [6, "Dance with Minotaurus (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
+    [5, "Deep Resonance (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", "0"],
+    [6, "Dance with Minotaurus (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [8, "Wake up, Challenger!! (津島善子 Solo Ver.)", "津島善子(CV.小林愛香) from Aqours", ""],
     [9, "タテホコツバサ", "津島善子(CV.小林愛香) from Aqours", ""],
@@ -2635,7 +2635,7 @@ tracks = [
     [2, "僕らは今のなかで", "", ""],
     [3, "Snow halation", "", ""],
     [4, "もしもからきっと", "", ""],
-    [5, "Angelic Angel", "", ""],
+    [5, "Angelic Angel", "", "0"],
     [6, "SUNNY DAY SONG", "", ""],
     [7, "僕たちはひとつの光", "", ""],
     [8, "きっと青春が聞こえる", "", ""],
@@ -2879,17 +2879,17 @@ tracks = [
     [10, "Hop? Stop? Nonstop! 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [11, "My way on my own", "加藤達也", ""],
     [12, "ヨハネ帰還!", "加藤達也", ""],
-    [13, "Circle of Friendship", "加藤達也", ""],
+    [13, "Circle of Friendship", "加藤達也", "0"],
     [14, "0からじゃないスタート", "加藤達也", "0"],
-    [15, "Empathy of little sisters", "加藤達也", ""],
+    [15, "Empathy of little sisters", "加藤達也", "0"],
     [16, "スノードームメモリー", "加藤達也", ""],
     [17, "スノードームメモリー (String Quartet Ver.)", "加藤達也", ""],
-    [18, "Believe again 【劇場版挿入歌(MOVIEサイズ)】", "Saint Snow", ""],
-    [19, "Brand-New Flying", "加藤達也", ""],
-    [20, "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
+    [18, "Believe again 【劇場版挿入歌(MOVIEサイズ)】", "Saint Snow", "0"],
+    [19, "Brand-New Flying", "加藤達也", "0"],
+    [20, "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", "0"],
     [21, "キセキヒカル 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [22, "Over the Sunshine!!", "加藤達也", ""],
-    [23, "Everything is here", "加藤達也", ""],
+    [23, "Everything is here", "加藤達也", "0"],
     [24, "The Sunshine March", "加藤達也", ""],
     [25, "Next SPARKLING!! 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [26, "そして、明日へ", "加藤達也", ""],
@@ -3038,7 +3038,7 @@ tracks = [
     [29, "Rock me baby!", "藤澤慶昌", ""],
     [30, "お祭り気分で盛り上がれ！", "藤澤慶昌", ""],
     [31, "軽やかな昼下がりB", "藤澤慶昌", ""],
-    [32, "Dancing stars on me! (TVサイズ)", "μ’s", ""],
+    [32, "Dancing stars on me! (TVサイズ)", "μ’s", "0"],
     [33, "どんなときもずっと (TVサイズ・まきりんぱな)", "星空 凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/516d03b8-dfde-40aa-9f0d-ebcef799f013", "https://vgmdb.net/album/45327"]
@@ -3218,7 +3218,7 @@ tracks = [
     [1, "One More Sunshine Story (Album Version)", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [2, "君のこころは輝いてるかい？", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [3, "Step! ZERO to ONE", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [4, "Aqours☆HEROES", "高海千歌(CV.伊波杏樹) from Aqours", ""],
+    [4, "Aqours☆HEROES", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [6, "待ってて愛のうた", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [7, "届かない星だとしても", "高海千歌(CV.伊波杏樹) from Aqours", ""],
@@ -3234,8 +3234,8 @@ tracks = [
     [2, "SKY JOURNEY", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [3, "少女以上の恋がしたい", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [4, "未体験HORIZON", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [5, "Deep Resonance", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [6, "Dance with Minotaurus", "高海千歌(CV.伊波杏樹) from Aqours", ""],
+    [5, "Deep Resonance", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
+    [6, "Dance with Minotaurus", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
     [7, "KOKORO Magic “A to Z”", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [8, "Wake up, Challenger!!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [9, "Never giving up!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
@@ -3294,7 +3294,7 @@ date = "2013-04-10"
 album = "TVアニメ『ラブライブ！』オリジナルサウンドトラック Notes of school idol days Disc 1 [LACA-9281]"
 tracks = [
     [1, "始まりの朝 (メインテーマ)", "藤澤慶昌", ""],
-    [2, "(絶望)", "藤澤慶昌", ""],
+    [2, "(絶望)", "藤澤慶昌", "0"],
     [3, "僕らは今のなかで (TVサイズ)", "μ’s", ""],
     [4, "ルンルン↑どんより↓", "藤澤慶昌", ""],
     [5, "ゆったりお昼休み", "藤澤慶昌", ""],
@@ -3366,7 +3366,7 @@ tracks = [
     [29, "新しい場所へ", "藤澤慶昌", ""],
     [30, "アキバ探訪", "藤澤慶昌", ""],
     [31, "アキバの日常", "藤澤慶昌", ""],
-    [32, "Dance! Dance! Dance!", "藤澤慶昌", ""],
+    [32, "Dance! Dance! Dance!", "藤澤慶昌", "0"],
     [33, "START:DASH!! (TVサイズ)", "μ’s", ""],
     [34, "きっと青春が聞こえる (TVサイズ)", "μ’s", ""],
 ]
@@ -3495,10 +3495,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [6, "だってだって噫無情 (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [7, "どんなときもずっと (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
-    [8, "COLORFUL VOICE (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
+    [8, "COLORFUL VOICE (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", "0"],
     [9, "ユメノトビラ (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [10, "SENTIMENTAL StepS (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
-    [11, "Dancing stars on me! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
+    [11, "Dancing stars on me! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", "0"],
     [12, "KiRa-KiRa Sensation! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [13, "Happy maker! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
 ]
@@ -3513,10 +3513,10 @@ tracks = [
     [2, "るてしキスキしてる (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [3, "ミはμ'sicのミ (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [4, "Super LOVE=Super LIVE! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
-    [5, "Angelic Angel (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
+    [5, "Angelic Angel (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", "0"],
     [6, "SUNNY DAY SONG (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [7, "僕たちはひとつの光 (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
-    [8, "Future style (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
+    [8, "Future style (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4d0594d0-fb5d-4540-a979-25ceb2049797", "https://vgmdb.net/album/71672"]
 
@@ -3565,10 +3565,10 @@ catalognumber = "LACM-14934"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Drama"
 tracks = [
-    [1, "Dazzling White Town", "Saint Snow", ""],
+    [1, "Dazzling White Town", "Saint Snow", "0"],
     [2, "Lonely Snow Planet", "Saint Snow", ""],
-    [3, "After The Rain", "Saint Snow", ""],
-    [4, "Dazzling White Town (Off Vocal)", "Saint Snow", ""],
+    [3, "After The Rain", "Saint Snow", "1"],
+    [4, "Dazzling White Town (Off Vocal)", "Saint Snow", "0"],
     [5, "波濤――沼津との遭遇", "[dialogue]", ""],
     [6, "セイントスモー対スタルヒン 函館場所", "[dialogue]", ""],
     [7, "試される大地、試される姉妹", "[dialogue]", ""],
@@ -3803,7 +3803,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん！", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [2, "空も心も晴れるから", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [3, "Daydream Warrior", "松浦果南(CV.諏訪ななか) from Aqours", ""],
+    [3, "Daydream Warrior", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
     [4, "G線上のシンデレラ", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [5, "スリリング・ワンウェイ", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [6, "太陽を追いかけろ！", "松浦果南(CV.諏訪ななか) from Aqours", ""],
@@ -3821,7 +3821,7 @@ tracks = [
     [2, "僕らの走ってきた道は…", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [3, "逃走迷走メビウスループ", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [4, "Hop? Stop? Nonstop!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [5, "Brightest Melody", "松浦果南(CV.諏訪ななか) from Aqours", ""],
+    [5, "Brightest Melody", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
     [6, "キセキヒカル", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [7, "Next SPARKLING!!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [8, "i-n-g, I TRY!!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
@@ -3858,7 +3858,7 @@ tracks = [
     [1, "Pops heartで踊るんだもん! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [2, "空も心も晴れるから (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [3, "Waku-Waku-Week! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [4, "Daydream Warrior (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
+    [4, "Daydream Warrior (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
     [5, "スリリング・ワンウェイ (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [6, "太陽を追いかけろ! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [7, "ジングルベルがとまらない (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
@@ -3874,7 +3874,7 @@ tracks = [
     [1, "ハジマリロード", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [2, "僕らの走ってきた道は…", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [3, "Hop? Stop? Nonstop!", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [4, "Brightest Melody", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
+    [4, "Brightest Melody", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
     [5, "キセキヒカル", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [6, "Next SPARKLING!!", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [7, "i-n-g, I TRY!!", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
@@ -3890,7 +3890,7 @@ tracks = [
     [1, "Pops heartで踊るんだもん！", "津島善子 (CV.小林愛香) from Aqours", ""],
     [2, "空も心も晴れるから", "津島善子 (CV.小林愛香) from Aqours", ""],
     [3, "Waku-Waku-Week!", "津島善子 (CV.小林愛香) from Aqours", ""],
-    [4, "Daydream Warrior", "津島善子 (CV.小林愛香) from Aqours", ""],
+    [4, "Daydream Warrior", "津島善子 (CV.小林愛香) from Aqours", "0"],
     [5, "スリリング・ワンウェイ", "津島善子 (CV.小林愛香) from Aqours", ""],
     [6, "太陽を追いかけろ！", "津島善子 (CV.小林愛香) from Aqours", ""],
     [7, "ジングルベルがとまらない", "津島善子 (CV.小林愛香) from Aqours", ""],
@@ -3906,7 +3906,7 @@ tracks = [
     [1, "ハジマリロード", "津島善子 (CV.小林愛香) from Aqours", ""],
     [2, "僕らの走ってきた道は…", "津島善子 (CV.小林愛香) from Aqours", ""],
     [3, "Hop? Stop? Nonstop!", "津島善子 (CV.小林愛香) from Aqours", ""],
-    [4, "Brightest Melody", "津島善子 (CV.小林愛香) from Aqours", ""],
+    [4, "Brightest Melody", "津島善子 (CV.小林愛香) from Aqours", "0"],
     [5, "キセキヒカル", "津島善子 (CV.小林愛香) from Aqours", ""],
     [6, "Next SPARKLING!!", "津島善子 (CV.小林愛香) from Aqours", ""],
     [7, "i-n-g, I TRY!!", "津島善子 (CV.小林愛香) from Aqours", ""],
@@ -4001,7 +4001,7 @@ tracks = [
     [6, "HAPPY PARTY TRAIN", "Aqours", ""],
     [7, "SUKI for you, DREAM for you!", "Aqours", ""],
     [8, "MC", "Aqours", ""],
-    [9, "Fantastic Departure!", "Aqours", ""],
+    [9, "Fantastic Departure!", "Aqours", "0"],
     [10, "Wake up, Challenger!!", "Aqours", ""],
     [11, "ホップ・ステップ・ワーイ!", "Aqours", ""],
     [12, "沼津クイズ1 (Day.1 昼公演)", "Aqours", ""],
@@ -4020,11 +4020,11 @@ tracks = [
     [4, "WONDERFUL CHOICE", "Aqours", ""],
     [5, "未来の僕らはなりきってるよ", "Aqours", ""],
     [6, "サンシャインぴっかぴか音頭", "Aqours", ""],
-    [7, "Aqours Pirates Desire", "Aqours", ""],
+    [7, "Aqours Pirates Desire", "Aqours", "0"],
     [8, "MC", "Aqours", ""],
     [9, "シャゼリア☆キッス☆ダダンダーン", "Aqours", ""],
     [10, "MC", "Aqours", ""],
-    [11, "Aqours☆HEROES", "Aqours", ""],
+    [11, "Aqours☆HEROES", "Aqours", "0"],
     [12, "勇気はどこに?君の胸に!", "Aqours", ""],
     [13, "沼津クイズ3 (Day.2 昼公演)", "Aqours", ""],
     [14, "沼津クイズ4 (Day.2 夜公演)", "Aqours", ""],
@@ -4240,7 +4240,7 @@ tracks = [
     [40, "決意の光", "", ""],
     [41, "生存本能ヴァルキュリア", "", ""],
     [42, "Jump Into the New World", "", ""],
-    [43, "Guilty Night, Guilty Kiss!", "", ""],
+    [43, "Guilty Night, Guilty Kiss!", "", "0"],
     [44, "Tulip", "", ""],
     [45, "エピソード4「究極のアイドル歌合戦!」", "", ""],
     [46, "Dye the sky.", "", ""],
@@ -4274,7 +4274,7 @@ tracks = [
     [8, "未来の僕らは知ってるよ", "", ""],
     [9, "エピソード1「元気に歌合戦!」", "", ""],
     [10, "流れ星キセキ", "", ""],
-    [11, "CHASE!", "", ""],
+    [11, "CHASE!", "", "0"],
     [12, "めっちゃGoing!!", "", ""],
     [13, "Toy Doll", "", ""],
     [14, "ノンフィクションヒーローショー", "", ""],
@@ -4403,8 +4403,8 @@ catalognumber = "BEPC-0026"
 date = "2018-06-22"
 album = "Guilty!? Farewell party / Guilty Kiss"
 tracks = [
-    [1, "Guilty!? Farewell party", "Guilty Kiss", ""],
-    [2, "Guilty!? Farewell party (Off Vocal)", "Guilty Kiss", ""],
+    [1, "Guilty!? Farewell party", "Guilty Kiss", "0"],
+    [2, "Guilty!? Farewell party (Off Vocal)", "Guilty Kiss", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/75369955-8de2-4520-97d6-3bd85f4f32a8", "https://vgmdb.net/album/72091"]
 
@@ -4529,7 +4529,7 @@ tracks = [
     [40, "決意の光", "", ""],
     [41, "生存本能ヴァルキュリア", "", ""],
     [42, "Jump Into the New World", "", ""],
-    [43, "Guilty Night, Guilty Kiss!", "", ""],
+    [43, "Guilty Night, Guilty Kiss!", "", "0"],
     [44, "Tulip", "", ""],
     [45, "エピソード4「究極のアイドル歌合戦!」", "", ""],
     [46, "Dye the sky.", "", ""],
@@ -4563,7 +4563,7 @@ tracks = [
     [8, "未来の僕らは知ってるよ", "", ""],
     [9, "エピソード1「元気に歌合戦!」", "", ""],
     [10, "流れ星キセキ", "", ""],
-    [11, "CHASE!", "", ""],
+    [11, "CHASE!", "", "0"],
     [12, "めっちゃGoing!!", "", ""],
     [13, "Toy Doll", "", ""],
     [14, "ノンフィクションヒーローショー", "", ""],
@@ -4631,8 +4631,8 @@ catalognumber = "BCXA-1333"
 date = "2018-03-23"
 album = "Aqours オリジナルソングCD 4"
 tracks = [
-    [1, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", ""],
-    [2, "Beginner's Sailing (Off Vocal)", "渡辺曜(CV.斉藤朱夏)", ""],
+    [1, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", "1"],
+    [2, "Beginner's Sailing (Off Vocal)", "渡辺曜(CV.斉藤朱夏)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8031543c-22ff-438c-b8be-39ea3aafab26", "https://vgmdb.net/album/72087"]
 
@@ -4671,8 +4671,8 @@ catalognumber = "BCXA-0698"
 date = "2013-04-24"
 album = "μ'ｓオリジナルソングCD②"
 tracks = [
-    [1, "Anemone heart", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", ""],
-    [2, "Anemone heart (Off Vocal)", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", ""],
+    [1, "Anemone heart", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", "0"],
+    [2, "Anemone heart (Off Vocal)", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8090ab76-7788-4f1f-bdea-425cd696f0e6", "https://vgmdb.net/album/40834"]
 
@@ -5025,7 +5025,7 @@ tracks = [
     [4, "Snow halation", "ようげん", ""],
     [5, "ミナリンスキー", "ようげん", ""],
     [6, "愛してるばんざーい！", "ようげん", ""],
-    [7, "Angelic Angel", "ようげん", ""],
+    [7, "Angelic Angel", "ようげん", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a91581c8-7643-4a1d-b1f7-a0dbc4565750", "https://vgmdb.net/album/66319"]
 
@@ -5217,11 +5217,11 @@ tracks = [
     [1, "Pops heartで踊るんだもん!", "Aqours", ""],
     [2, "空も心も晴れるから", "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)", ""],
     [3, "Waku-Waku-Week!", "津島善子(CV.小林愛香)、国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡愛)", ""],
-    [4, "Daydream Warrior", "Aqours", ""],
+    [4, "Daydream Warrior", "Aqours", "0"],
     [5, "G線上のシンデレラ", "松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、小原鞠莉(CV.鈴木愛奈)", ""],
     [6, "スリリング・ワンウェイ", "Aqours", ""],
     [7, "太陽を追いかけろ!", "Aqours", ""],
-    [8, "Guilty Eyes Fever", "Guilty Kiss", ""],
+    [8, "Guilty Eyes Fever", "Guilty Kiss", "0"],
     [9, "P.S.の向こう側", "CYaRon!", ""],
     [10, "LONELY TUNING", "AZALEA", ""],
 ]
@@ -5236,13 +5236,13 @@ tracks = [
     [2, "おやすみなさん!", "国木田花丸(CV:高槻かなこ)", ""],
     [3, "in this unstable world", "津島善子(CV.小林愛香)", ""],
     [4, "Pianoforte Monologue", "桜内梨子(CV.逢田梨香子)", ""],
-    [5, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", ""],
+    [5, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", "0"],
     [6, "RED GEM WINK", "黒澤ルビィ(CV.降幡愛)", ""],
     [7, "WHITE FIRST LOVE", "黒澤ダイヤ(CV.小宮有紗)", ""],
     [8, "New winding road", "小原鞠莉(CV.鈴木愛奈)", ""],
     [9, "さかなかなんだか?", "松浦果南(CV.諏訪ななか)", ""],
     [10, "キセキヒカル", "Aqours", ""],
-    [11, "Guilty!? Farewell party", "Guilty Kiss", ""],
+    [11, "Guilty!? Farewell party", "Guilty Kiss", "0"],
     [12, "サクラバイバイ", "CYaRon!", ""],
     [13, "卒業ですね", "AZALEA", ""],
 ]
@@ -5266,9 +5266,9 @@ catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Drama Disc 4"
 tracks = [
-    [1, "Aqoursのグルメレポート 〜丸天編〜", "Aqours", ""],
-    [2, "Aqoursのグルメレポート 〜沼津バーガー編〜", "Aqours", ""],
-    [3, "Aqoursのグルメレポート 〜みなと新鮮館編〜", "Aqours", ""],
+    [1, "Aqoursのグルメレポート 〜丸天編〜", "Aqours", "0"],
+    [2, "Aqoursのグルメレポート 〜沼津バーガー編〜", "Aqours", "0"],
+    [3, "Aqoursのグルメレポート 〜みなと新鮮館編〜", "Aqours", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
@@ -5510,7 +5510,7 @@ tracks = [
     [1, "RED GEM WINK", "黒澤ルビィ(CV.降幡愛)", ""],
     [2, "君のこころは輝いてるかい？ (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [3, "Step! ZERO to ONE (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
-    [4, "Aqours☆HEROES (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
+    [4, "Aqours☆HEROES (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [6, "待ってて愛のうた (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [7, "届かない星だとしても (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
@@ -5526,8 +5526,8 @@ tracks = [
     [2, "SKY JOURNEY (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [3, "少女以上の恋がしたい (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [4, "未体験HORIZON (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
-    [5, "Deep Resonance (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
-    [6, "Dance with Minotaurus (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
+    [5, "Deep Resonance (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", "0"],
+    [6, "Dance with Minotaurus (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [8, "Wake up, Challenger!! (黒澤ルビィ Solo Ver.)", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
     [9, "コットンキャンディえいえいおー!", "黒澤ルビィ(CV.降幡愛) from Aqours", ""],
@@ -5918,8 +5918,8 @@ catalognumber = "BCXA-0700"
 date = "2013-06-21"
 album = "μ'ｓオリジナルソングCD④"
 tracks = [
-    [1, "Beat in Angel", "星空凛・西木野真姫(CV:飯田里穂・Pile)", ""],
-    [2, "Beat in Angel (Off Vocal)", "星空凛・西木野真姫(CV:飯田里穂・Pile)", ""],
+    [1, "Beat in Angel", "星空凛・西木野真姫(CV:飯田里穂・Pile)", "0"],
+    [2, "Beat in Angel (Off Vocal)", "星空凛・西木野真姫(CV:飯田里穂・Pile)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/454e14d8-2b09-4eca-8010-7cc1991a17d4", "https://vgmdb.net/album/40836"]
 
@@ -5945,8 +5945,8 @@ date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal Disc 1"
 tracks = [
     [1, "未体験HORIZON", "Aqours", ""],
-    [2, "Deep Resonance", "Aqours", ""],
-    [3, "Dance with Minotaurus", "Aqours", ""],
+    [2, "Deep Resonance", "Aqours", "0"],
+    [3, "Dance with Minotaurus", "Aqours", "1"],
     [4, "未体験HORIZON (Off Vocal)", "Aqours", ""],
     [5, "どきどき！ みかん裁判", "[dialogue]", ""],
     [6, "集合！ ひものパーティー", "[dialogue]", ""],
@@ -5990,10 +5990,10 @@ catalognumber = "LACM-14692"
 date = "2017-12-20"
 album = "Awaken the power / Saint Aqours Snow"
 tracks = [
-    [1, "Awaken the power", "Saint Aqours Snow", ""],
-    [2, "CRASH MIND", "Saint Snow", ""],
-    [3, "DROPOUT!?", "Saint Snow", ""],
-    [4, "Awaken the power [Off Vocal]", "Saint Aqours Snow", ""],
+    [1, "Awaken the power", "Saint Aqours Snow", "1"],
+    [2, "CRASH MIND", "Saint Snow", "0"],
+    [3, "DROPOUT!?", "Saint Snow", "0"],
+    [4, "Awaken the power [Off Vocal]", "Saint Aqours Snow", "0"],
     [5, "聖良と理亞をおもてなせ!", "[dialogue]", ""],
     [6, "聖良と理亞を波打ちぎわで!", "[dialogue]", ""],
     [7, "聖良と理亞を沼津の味で!", "[dialogue]", ""],
@@ -6036,7 +6036,7 @@ tracks = [
     [7, "僕らの走ってきた道は…", "Aqours", ""],
     [8, "逃走迷走メビウスループ", "松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、小原鞠莉(CV.鈴木愛奈)", ""],
     [9, "Hop? Stop? Nonstop!", "Aqours", ""],
-    [10, "Brightest Melody", "Aqours", ""],
+    [10, "Brightest Melody", "Aqours", "0"],
     [11, "Next SPARKLING!!", "Aqours", ""],
     [12, "Over The Next Rainbow", "Saint Aqours Snow", ""],
     [13, "i-n-g, I TRY!!", "Aqours", ""],
@@ -6051,12 +6051,12 @@ tracks = [
     [1, "Jump up HIGH!!", "Aqours", ""],
     [2, "冒険Type A, B, C!!", "Aqours", ""],
     [3, "未体験HORIZON", "Aqours", ""],
-    [4, "Deep Resonance", "Aqours", ""],
-    [5, "Dance with Minotaurus", "Aqours", ""],
+    [4, "Deep Resonance", "Aqours", "0"],
+    [5, "Dance with Minotaurus", "Aqours", "0"],
     [6, "KOKORO Magic \"A to Z\"", "Aqours", ""],
     [7, "Wake up, Challenger!!", "Aqours", ""],
-    [8, "Fantastic Departure!", "Aqours", ""],
-    [9, "Aqours Pirates Desire", "Aqours", ""],
+    [8, "Fantastic Departure!", "Aqours", "0"],
+    [9, "Aqours Pirates Desire", "Aqours", "0"],
     [10, "JIMO-AI Dash!", "Aqours", ""],
     [11, "キモチもユメも一緒だね!", "国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡愛)", ""],
     [12, "涙が雪になる前に", "松浦果南(CV.諏訪ななか)、小原鞠莉(CV.鈴木愛奈)", ""],
@@ -6105,7 +6105,7 @@ tracks = [
     [10, "ぶる～べりぃ♡とれいん", "南ことり(CV.内田彩)", ""],
     [11, "孤独なHeaven", "小泉花陽(CV.久保ユリカ)", ""],
     [12, "soldier game", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [13, "Daring!!", "西木野真姫(CV.Pile)", ""],
+    [13, "Daring!!", "西木野真姫(CV.Pile)", "0"],
     [14, "勇気のReason", "園田海未(CV.三森すずこ)", ""],
     [15, "ありふれた悲しみの果て", "絢瀬絵里(CV.南條愛乃)", ""],
     [16, "Listen to my heart!!", "にこりんぱな", ""],
@@ -6230,7 +6230,7 @@ tracks = [
     [1, "Pianoforte Monologue", "桜内梨子(CV.逢田梨香子)", ""],
     [2, "君のこころは輝いてるかい?", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [3, "Step! ZERO to ONE", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [4, "Aqours☆HEROES", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
+    [4, "Aqours☆HEROES", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [6, "待ってて愛のうた", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [7, "届かない星だとしても", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
@@ -6246,8 +6246,8 @@ tracks = [
     [2, "SKY JOURNEY", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [3, "少女以上の恋がしたい", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [4, "未体験HORIZON", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [5, "Deep Resonance", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [6, "Dance with Minotaurus", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
+    [5, "Deep Resonance", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
+    [6, "Dance with Minotaurus", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\"", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [8, "Wake up, Challenger!!", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [9, "PURE PHRASE", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
@@ -6339,8 +6339,8 @@ catalognumber = "LACM-14833"
 date = "2019-02-06"
 album = "Believe again/Brightest Melody/Over The Next Rainbow / Saint Aqours Snow"
 tracks = [
-    [1, "Believe again", "Saint Snow", ""],
-    [2, "Brightest Melody", "Aqours", ""],
+    [1, "Believe again", "Saint Snow", "0"],
+    [2, "Brightest Melody", "Aqours", "0"],
     [3, "Over The Next Rainbow", "Saint Aqours Snow", ""],
     [4, "沼津にイカがやってきた！", "[dialogue]", ""],
     [5, "函館のイカか、沼津のイカか", "[dialogue]", ""],
@@ -6422,7 +6422,7 @@ tracks = [
     [1, "Pops heartで踊るんだもん！", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [2, "空も心も晴れるから", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [3, "Waku-Waku-Week!", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
-    [4, "Daydream Warrior", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
+    [4, "Daydream Warrior", "黒澤ルビィ(CV.降幡 愛) from Aqours", "0"],
     [5, "スリリング・ワンウェイ", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [6, "太陽を追いかけろ！", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [7, "ジングルベルがとまらない", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
@@ -6438,7 +6438,7 @@ tracks = [
     [1, "ハジマリロード", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [2, "僕らの走ってきた道は…", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [3, "Hop? Stop? Nonstop!", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
-    [4, "Brightest Melody", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
+    [4, "Brightest Melody", "黒澤ルビィ(CV.降幡 愛) from Aqours", "0"],
     [5, "キセキヒカル", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [6, "Next SPARKLING!!", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
     [7, "i-n-g, I TRY!!", "黒澤ルビィ(CV.降幡 愛) from Aqours", ""],
@@ -6542,11 +6542,11 @@ catalognumber = "LACM-14932"
 date = "2019-12-04"
 album = "Braveheart Coaster / CYaRon!"
 tracks = [
-    [1, "Braveheart Coaster", "CYaRon!", ""],
-    [2, "CHANGELESS", "CYaRon!", ""],
+    [1, "Braveheart Coaster", "CYaRon!", "1"],
+    [2, "CHANGELESS", "CYaRon!", "1"],
     [3, "コドク・テレポート", "CYaRon!", ""],
-    [4, "Braveheart Coaster (Off Vocal)", "CYaRon!", ""],
-    [5, "CHANGELESS (Off Vocal)", "CYaRon!", ""],
+    [4, "Braveheart Coaster (Off Vocal)", "CYaRon!", "0"],
+    [5, "CHANGELESS (Off Vocal)", "CYaRon!", "0"],
     [6, "コドク・テレポート (Off Vocal)", "CYaRon!", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/485cbccc-fc46-494b-8b2b-912ebf3fb1c2", "https://vgmdb.net/album/90091"]
@@ -6607,10 +6607,10 @@ catalognumber = "LACM-14933"
 date = "2019-12-11"
 album = "Amazing Travel DNA / AZALEA"
 tracks = [
-    [1, "Amazing Travel DNA", "AZALEA", ""],
+    [1, "Amazing Travel DNA", "AZALEA", "0"],
     [2, "空中恋愛論", "AZALEA", ""],
     [3, "メイズセカイ", "AZALEA", ""],
-    [4, "Amazing Travel DNA (Off Vocal)", "AZALEA", ""],
+    [4, "Amazing Travel DNA (Off Vocal)", "AZALEA", "0"],
     [5, "空中恋愛論 (Off Vocal)", "AZALEA", ""],
     [6, "メイズセカイ (Off Vocal)", "AZALEA", ""],
 ]
@@ -6673,9 +6673,9 @@ date = "2014-06-11"
 album = "Love wing bell☆Dancing stars on me! / μ's"
 tracks = [
     [1, "Love wing bell", "星空凛(CV.飯田里穂) 、西木野真姫(CV.Pile) 、小泉花陽(CV.久保ユリカ) 、絢瀬絵里(CV.南條愛乃) 、東條希(CV.楠田亜衣奈) 、矢澤にこ(CV.徳井青空", ""],
-    [2, "Dancing stars on me!", "μ’s", ""],
+    [2, "Dancing stars on me!", "μ’s", "1"],
     [3, "Love wing bell (Off Vocal)", "星空 凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)、絢瀬絵里(CV.南條愛乃)、東條 希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", ""],
-    [4, "Dancing stars on me! (Off Vocal)", "μ’s", ""],
+    [4, "Dancing stars on me! (Off Vocal)", "μ’s", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f9a88f2b-166d-4d63-a2e9-151692b8a938", "https://vgmdb.net/album/44882"]
 
@@ -6703,8 +6703,8 @@ tracks = [
     [5, "Starlight", "朝香果林 (CV.久保田未夢)", ""],
     [6, "めっちゃGoing!!", "宮下愛 (CV.村上奈津実)", ""],
     [7, "眠れる森に行きたいな", "近江彼方 (CV.鬼頭明里)", ""],
-    [8, "CHASE!", "優木せつ菜 (CV.楠木ともり)", ""],
-    [9, "Evergreen", "エマ・ヴェルデ (CV.指出毬亜)", ""],
+    [8, "CHASE!", "優木せつ菜 (CV.楠木ともり)", "1"],
+    [9, "Evergreen", "エマ・ヴェルデ (CV.指出毬亜)", "1"],
     [10, "ドキピポ☆エモーション", "天王寺璃奈 (CV.田中ちえ美)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/6a211d8f-b049-40dc-a9ed-33a06f2178ff", "https://vgmdb.net/album/80802"]
@@ -6768,7 +6768,7 @@ tracks = [
     [2, "WE WILL!! (ショート尺)", "", ""],
     [3, "ハクチューアラモード (ショート尺)", "", ""],
     [4, "ラブ・ボナペティート (ショート尺)", "", ""],
-    [5, "Guilty Night, Guilty Kiss! (ショート尺)", "", ""],
+    [5, "Guilty Night, Guilty Kiss! (ショート尺)", "", "0"],
     [6, "Tulip (ショート尺) (Long Intro Ver.)", "", ""],
     [7, "Dye the sky.", "", ""],
     [8, "MIRACLE NEW STORY", "", ""],
@@ -6823,11 +6823,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [6, "だってだって噫無情 (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [7, "どんなときもずっと (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
-    [8, "COLORFUL VOICE (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
+    [8, "COLORFUL VOICE (RIN Mix)", "星空凛 (CV.飯田里穂)", "0"],
     [9, "ユメノトビラ (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [10, "SENTIMENTAL StepS (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [11, "Love wing bell (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
-    [12, "Dancing stars on me! (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
+    [12, "Dancing stars on me! (RIN Mix)", "星空凛 (CV.飯田里穂)", "0"],
     [13, "KiRa-KiRa Sensation! (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [14, "Happy maker! (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
 ]
@@ -6842,7 +6842,7 @@ tracks = [
     [2, "るてしキスキしてる (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [3, "ミはμ'sicのミ (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [4, "Super LOVE=Super LIVE! (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
-    [5, "Angelic Angel (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
+    [5, "Angelic Angel (RIN Mix)", "星空凛 (CV.飯田里穂)", "0"],
     [6, "SUNNY DAY SONG (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [7, "僕たちはひとつの光 (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
     [8, "Hello,星を数えて (RIN Mix)", "星空凛 (CV.飯田里穂)", ""],
@@ -6886,7 +6886,7 @@ tracks = [
     [1, "New winding road", "小原鞠莉(CV.鈴木愛奈)", ""],
     [2, "君のこころは輝いてるかい? (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [3, "Step! ZERO to ONE (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [4, "Aqours☆HEROES (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
+    [4, "Aqours☆HEROES (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [6, "待ってて愛のうた (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [7, "届かない星だとしても (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
@@ -6902,8 +6902,8 @@ tracks = [
     [2, "SKY JOURNEY (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [3, "少女以上の恋がしたい (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [4, "未体験HORIZON (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [5, "Deep Resonance (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [6, "Dance with Minotaurus (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
+    [5, "Deep Resonance (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
+    [6, "Dance with Minotaurus (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [8, "Wake up, Challenger!! (小原鞠莉 Solo Ver.)", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [9, "Shiny Racers", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
@@ -6924,7 +6924,7 @@ tracks = [
     [7, "僕らの走ってきた道は…", "Aqours", ""],
     [8, "逃走迷走メビウスループ", "松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、小原鞠莉(CV.鈴木愛奈)", ""],
     [9, "Hop? Stop? Nonstop!", "Aqours", ""],
-    [10, "Brightest Melody", "Aqours", ""],
+    [10, "Brightest Melody", "Aqours", "0"],
     [11, "Next SPARKLING!!", "Aqours", ""],
     [12, "Over The Next Rainbow", "Saint Aqours Snow", ""],
     [13, "i-n-g, I TRY!!", "Aqours", ""],
@@ -6939,12 +6939,12 @@ tracks = [
     [1, "Jump up HIGH!!", "Aqours", ""],
     [2, "冒険Type A, B, C!!", "Aqours", ""],
     [3, "未体験HORIZON", "Aqours", ""],
-    [4, "Deep Resonance", "Aqours", ""],
-    [5, "Dance with Minotaurus", "Aqours", ""],
+    [4, "Deep Resonance", "Aqours", "0"],
+    [5, "Dance with Minotaurus", "Aqours", "0"],
     [6, "KOKORO Magic \"A to Z\"", "Aqours", ""],
     [7, "Wake up, Challenger!!", "Aqours", ""],
-    [8, "Fantastic Departure!", "Aqours", ""],
-    [9, "Aqours Pirates Desire", "Aqours", ""],
+    [8, "Fantastic Departure!", "Aqours", "0"],
+    [9, "Aqours Pirates Desire", "Aqours", "0"],
     [10, "JIMO-AI Dash!", "Aqours", ""],
     [11, "キモチもユメも一緒だね!", "国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡愛)", ""],
     [12, "涙が雪になる前に", "松浦果南(CV.諏訪ななか)、小原鞠莉(CV.鈴木愛奈)", ""],
@@ -6962,7 +6962,7 @@ tracks = [
     [1, "僕らの走ってきた道は… 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [2, "逃走迷走メビウスループ 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [3, "Hop? Stop? Nonstop! 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
-    [4, "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
+    [4, "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", "0"],
     [5, "Next SPARKLING!! 【劇場版挿入歌(MOVIEサイズ)】", "Aqours", ""],
     [6, "未体験HORIZON", "Aqours", ""],
     [7, "KOKORO Magic “A to Z”", "Aqours", ""],
@@ -7018,7 +7018,7 @@ catalognumber = "LABX-8334"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 2 [LABX-8334]"
 tracks = [
-    [1, "Beginner's Sailing", "", ""],
+    [1, "Beginner's Sailing", "", "0"],
     [2, "RED GEM WINK", "", ""],
     [3, "WHITE FIRST LOVE", "", ""],
     [4, "New winding road", "", ""],
@@ -7026,7 +7026,7 @@ tracks = [
     [6, "空も心も晴れるから", "", ""],
     [7, "SKY JOURNEY", "", ""],
     [8, "恋になりたいAQUARIUM", "", ""],
-    [9, "Awaken the power", "", ""],
+    [9, "Awaken the power", "", "0"],
     [10, "WATER BLUE NEW WORLD", "", ""],
     [11, "青空Jumping Heart", "", ""],
     [12, "Landing action Yeah!!", "", ""],
@@ -7077,10 +7077,10 @@ catalognumber = "LACM-14935"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Drama"
 tracks = [
-    [1, "Dazzling White Town", "Saint Snow", ""],
+    [1, "Dazzling White Town", "Saint Snow", "0"],
     [2, "Lonely Snow Planet", "Saint Snow", ""],
-    [3, "After The Rain", "Saint Snow", ""],
-    [4, "Dazzling White Town (Off Vocal)", "Saint Snow", ""],
+    [3, "After The Rain", "Saint Snow", "0"],
+    [4, "Dazzling White Town (Off Vocal)", "Saint Snow", "0"],
     [5, "波濤――沼津との遭遇", "[dialogue]", ""],
     [6, "セイントスモー対スタルヒン 函館場所", "[dialogue]", ""],
     [7, "試される大地、試される姉妹", "[dialogue]", ""],
@@ -7141,7 +7141,7 @@ tracks = [
     [16, "お遊戯の時間ですわ!", "加藤達也", ""],
     [17, "梨子とシイタケ", "加藤達也", ""],
     [18, "偶然と運命", "加藤達也", ""],
-    [19, "CRASH MIND [第5話挿入歌(Shortサイズ)]", "Saint Snow", ""],
+    [19, "CRASH MIND [第5話挿入歌(Shortサイズ)]", "Saint Snow", "0"],
     [20, "あの頃の忘れ物", "加藤達也", ""],
     [21, "ONE FOR ALL", "加藤達也", ""],
     [22, "MIRACLE WAVE [第6話挿入歌(TVサイズ)]", "Aqours", ""],
@@ -7150,7 +7150,7 @@ tracks = [
     [25, "輝きのその先へ", "加藤達也", ""],
     [26, "北国の空", "加藤達也", ""],
     [27, "一緒に歌おう!", "加藤達也", ""],
-    [28, "DROPOUT!? [第8話挿入歌(Shortサイズ)]", "Saint Snow", ""],
+    [28, "DROPOUT!? [第8話挿入歌(Shortサイズ)]", "Saint Snow", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c0a9fc62-95b7-4715-96c0-be5e8d743fab", "https://vgmdb.net/album/72798"]
 
@@ -7161,7 +7161,7 @@ album = "TVアニメ『ラブライブ!サンシャイン !!』2期オリジナ�
 tracks = [
     [1, "孤独を愛する者の集まり", "加藤達也", ""],
     [2, "大切なあの人へ", "加藤達也", ""],
-    [3, "Awaken the power [第9話挿入歌(TVサイズ)]", "Saint Aqours Snow", ""],
+    [3, "Awaken the power [第9話挿入歌(TVサイズ)]", "Saint Aqours Snow", "0"],
     [4, "たとえ離れていても", "加藤達也", ""],
     [5, "星空に願いを込めて", "加藤達也", ""],
     [6, "浦女七不思議?", "加藤達也", ""],
@@ -7169,7 +7169,7 @@ tracks = [
     [8, "脳内に響く堕天の囁き", "加藤達也", ""],
     [9, "勇気はどこに?君の胸に! [第11話エンディング主題歌]", "Aqoursと浦の星の仲間たち", ""],
     [10, "キセキのかけら", "加藤達也", ""],
-    [11, "ALL FOR ONE", "加藤達也", ""],
+    [11, "ALL FOR ONE", "加藤達也", "0"],
     [12, "Slumber Party", "加藤達也", ""],
     [13, "宇宙一の応援", "加藤達也", ""],
     [14, "想いよひとつになれ Riko's Piano Sonata", "加藤達也", ""],
@@ -7199,11 +7199,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [6, "だってだって噫無情 (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [7, "どんなときもずっと (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
-    [8, "COLORFUL VOICE (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
+    [8, "COLORFUL VOICE (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", "0"],
     [9, "ユメノトビラ (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [10, "SENTIMENTAL StepS (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [11, "Love wing bell (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
-    [12, "Dancing stars on me! (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
+    [12, "Dancing stars on me! (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", "0"],
     [13, "KiRa-KiRa Sensation! (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [14, "Happy maker! (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
 ]
@@ -7218,7 +7218,7 @@ tracks = [
     [2, "るてしキスキしてる (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [3, "ミはμ'sicのミ (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [4, "Super LOVE=Super LIVE! (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
-    [5, "Angelic Angel (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
+    [5, "Angelic Angel (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", "0"],
     [6, "SUNNY DAY SONG (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [7, "僕たちはひとつの光 (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", ""],
     [8, "?←HEARTBEAT (NOZOMI Mix)", "東條希 (CV.楠田亜衣奈)", "0"],
@@ -7344,11 +7344,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [6, "だってだって噫無情 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [7, "どんなときもずっと (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
-    [8, "COLORFUL VOICE (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
+    [8, "COLORFUL VOICE (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
     [9, "ユメノトビラ (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [10, "SENTIMENTAL StepS (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [11, "Love wing bell (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
-    [12, "Dancing stars on me! (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
+    [12, "Dancing stars on me! (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
     [13, "KiRa-KiRa Sensation! (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [14, "Happy maker! (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
 ]
@@ -7363,7 +7363,7 @@ tracks = [
     [2, "るてしキスキしてる (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [3, "ミはμ'sicのミ (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [4, "Super LOVE=Super LIVE! (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
-    [5, "Angelic Angel (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
+    [5, "Angelic Angel (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
     [6, "SUNNY DAY SONG (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [7, "僕たちはひとつの光 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [8, "?←HEARTBEAT (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
@@ -7375,7 +7375,7 @@ catalognumber = "LACA-9626"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 矢澤にこ Memories with Nico Disc 3 [LACA-9626]"
 tracks = [
-    [1, "Cutie Panther (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
+    [1, "Cutie Panther (NICO Mix)", "矢澤にこ(CV.徳井青空)", "0"],
     [2, "夏、終わらないで。 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [3, "冬がくれた予感 (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
     [4, "Trouble Busters (NICO Mix)", "矢澤にこ(CV.徳井青空)", ""],
@@ -7455,8 +7455,8 @@ tracks = [
     [20, "ダイヤモンドハッピー", "", ""],
     [21, "輝きのエチュード", "", ""],
     [22, "咲くは浮世の君花火", "", ""],
-    [23, "Guilty Night, Guilty Kiss!", "", ""],
-    [24, "Guilty Eyes Fever", "", ""],
+    [23, "Guilty Night, Guilty Kiss!", "", "0"],
+    [24, "Guilty Eyes Fever", "", "0"],
     [25, "花ざかりWeekend✿", "", ""],
     [26, "アルストロメリア", "", ""],
     [27, "バベルシティ・グレイス", "", ""],
@@ -7736,11 +7736,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [6, "だってだって噫無情 (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [7, "どんなときもずっと (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
-    [8, "COLORFUL VOICE (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
+    [8, "COLORFUL VOICE (MAKI Mix)", "西木野真姫(CV.Pile)", "0"],
     [9, "ユメノトビラ (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [10, "SENTIMENTAL StepS (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [11, "Love wing bell (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
-    [12, "Dancing stars on me! (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
+    [12, "Dancing stars on me! (MAKI Mix)", "西木野真姫(CV.Pile)", "0"],
     [13, "KiRa-KiRa Sensation! (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [14, "Happy maker! (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
 ]
@@ -7755,7 +7755,7 @@ tracks = [
     [2, "るてしキスキしてる (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [3, "ミはμ'sicのミ (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [4, "Super LOVE=Super LIVE! (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
-    [5, "Angelic Angel (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
+    [5, "Angelic Angel (MAKI Mix)", "西木野真姫(CV.Pile)", "0"],
     [6, "SUNNY DAY SONG (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [7, "僕たちはひとつの光 (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [8, "Hello,星を数えて (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
@@ -7767,7 +7767,7 @@ catalognumber = "LACA-9617"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 西木野真姫 Memories with Maki Disc 3 [LACA-9617]"
 tracks = [
-    [1, "Cutie Panther (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
+    [1, "Cutie Panther (MAKI Mix)", "西木野真姫(CV.Pile)", "0"],
     [2, "夏、終わらないで。 (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [3, "冬がくれた予感 (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
     [4, "Trouble Busters (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
@@ -7822,7 +7822,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん！", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [2, "空も心も晴れるから", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [3, "Daydream Warrior", "高海千歌(CV.伊波杏樹) from Aqours", ""],
+    [3, "Daydream Warrior", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
     [4, "スリリング・ワンウェイ", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [5, "太陽を追いかけろ！", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [6, "ジングルベルがとまらない", "高海千歌(CV.伊波杏樹) from Aqours", ""],
@@ -7838,7 +7838,7 @@ tracks = [
     [1, "Marine Border Parasol", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [2, "僕らの走ってきた道は…", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [3, "Hop? Stop? Nonstop!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
-    [4, "Brightest Melody", "高海千歌(CV.伊波杏樹) from Aqours", ""],
+    [4, "Brightest Melody", "高海千歌(CV.伊波杏樹) from Aqours", "0"],
     [5, "キセキヒカル", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [6, "Next SPARKLING!!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
     [7, "i-n-g, I TRY!!", "高海千歌(CV.伊波杏樹) from Aqours", ""],
@@ -7875,8 +7875,8 @@ catalognumber = "LAPP-1054"
 date = "2014-02-03"
 album = "ENDLESS PARADE / μ's"
 tracks = [
-    [1, "ENDLESS PARADE", "μ’s", ""],
-    [2, "ENDLESS PARADE (Off Vocal)", "μ’s", ""],
+    [1, "ENDLESS PARADE", "μ’s", "1"],
+    [2, "ENDLESS PARADE (Off Vocal)", "μ’s", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/792fe97a-d862-4411-b766-440439d9b204", "https://vgmdb.net/album/51768"]
 
@@ -7888,7 +7888,7 @@ tracks = [
     [1, "おやすみなさん!", "国木田花丸(CV:高槻かなこ)", ""],
     [2, "君のこころは輝いてるかい? (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [3, "Step! ZERO to ONE (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [4, "Aqours☆HEROES (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
+    [4, "Aqours☆HEROES (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [6, "待ってて愛のうた (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [7, "届かない星だとしても (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
@@ -7904,8 +7904,8 @@ tracks = [
     [2, "SKY JOURNEY (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [3, "少女以上の恋がしたい (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [4, "未体験HORIZON (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [5, "Deep Resonance (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
-    [6, "Dance with Minotaurus (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
+    [5, "Deep Resonance (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
+    [6, "Dance with Minotaurus (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [8, "Wake up, Challenger!! (国木田花丸 Solo Ver.)", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
     [9, "あこがれランララン", "国木田花丸(CV.高槻かなこ) from Aqours", ""],
@@ -7975,8 +7975,8 @@ date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal, Drama"
 tracks = [
     [1, "未体験HORIZON", "Aqours", ""],
-    [2, "Deep Resonance", "Aqours", ""],
-    [3, "Dance with Minotaurus", "Aqours", ""],
+    [2, "Deep Resonance", "Aqours", "0"],
+    [3, "Dance with Minotaurus", "Aqours", "0"],
     [4, "未体験HORIZON (Off Vocal)", "Aqours", ""],
     [5, "どきどき！ みかん裁判", "[dialogue]", ""],
     [6, "集合！ ひものパーティー", "[dialogue]", ""],
@@ -8014,7 +8014,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん！", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [2, "空も心も晴れるから", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [3, "Daydream Warrior", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
+    [3, "Daydream Warrior", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
     [4, "G線上のシンデレラ", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [5, "スリリング・ワンウェイ", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [6, "太陽を追いかけろ！", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
@@ -8032,7 +8032,7 @@ tracks = [
     [2, "僕らの走ってきた道は…", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [3, "逃走迷走メビウスループ", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [4, "Hop? Stop? Nonstop!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
-    [5, "Brightest Melody", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
+    [5, "Brightest Melody", "小原鞠莉(CV.鈴木愛奈) from Aqours", "0"],
     [6, "キセキヒカル", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [7, "Next SPARKLING!!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
     [8, "i-n-g, I TRY!!", "小原鞠莉(CV.鈴木愛奈) from Aqours", ""],
@@ -8069,10 +8069,10 @@ catalognumber = "LACA-9772"
 date = "2021-04-17"
 album = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~ Disc 1 [LACA-9772]"
 tracks = [
-    [1, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", ""],
+    [1, "Beginner's Sailing", "渡辺曜(CV.斉藤朱夏)", "0"],
     [2, "君のこころは輝いてるかい？ (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [3, "Step! ZERO to ONE (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [4, "Aqours☆HEROES (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
+    [4, "Aqours☆HEROES (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [6, "待ってて愛のうた (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [7, "届かない星だとしても (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
@@ -8088,8 +8088,8 @@ tracks = [
     [2, "SKY JOURNEY (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [3, "少女以上の恋がしたい (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [4, "未体験HORIZON (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [5, "Deep Resonance (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
-    [6, "Dance with Minotaurus (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
+    [5, "Deep Resonance (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
+    [6, "Dance with Minotaurus (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [8, "Wake up, Challenger!! (渡辺 曜 Solo Ver.)", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
     [9, "突然GIRL", "渡辺 曜(CV.斉藤朱夏) from Aqours", ""],
@@ -8328,9 +8328,9 @@ catalognumber = "LACM-14602"
 date = "2017-05-31"
 album = "GALAXY HidE and SeeK / AZALEA"
 tracks = [
-    [1, "GALAXY HidE and SeeK", "AZALEA", ""],
+    [1, "GALAXY HidE and SeeK", "AZALEA", "0"],
     [2, "INNOCENT BIRD", "AZALEA", ""],
-    [3, "GALAXY HidE and SeeK (Off Vocal)", "AZALEA", ""],
+    [3, "GALAXY HidE and SeeK (Off Vocal)", "AZALEA", "0"],
     [4, "INNOCENT BIRD (Off Vocal)", "AZALEA", ""],
     [5, "沼津スイーツ❤ハンティング", "[dialogue]", ""],
 ]
@@ -8617,9 +8617,9 @@ date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 3 [LACA-9723]"
 tracks = [
     [1, "夢なき夢は夢じゃない", "高坂穂乃果(CV.新田恵海)", ""],
-    [2, "Anemone heart", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", ""],
+    [2, "Anemone heart", "南ことり&園田海未(CV:内田彩 & 三森すずこ)", "0"],
     [3, "なわとび", "小泉花陽 (CV:久保ユリカ)", ""],
-    [4, "Beat in Angel", "星空凛・西木野真姫(CV:飯田里穂・Pile)", ""],
+    [4, "Beat in Angel", "星空凛・西木野真姫(CV:飯田里穂・Pile)", "0"],
     [5, "にこぷり♡女子道", "矢澤にこ(CV.徳井青空)", ""],
     [6, "硝子の花園", "絢瀬絵里・東條 希(CV:南條愛乃・楠田亜衣奈)", ""],
     [7, "LONELIEST BABY", "μ’s", ""],
@@ -8634,11 +8634,11 @@ tracks = [
     [1, "それは僕たちの奇跡", "μ’s", ""],
     [2, "だってだって噫無情", "μ’s", ""],
     [3, "どんなときもずっと", "μ’s", ""],
-    [4, "COLORFUL VOICE", "μ’s", ""],
+    [4, "COLORFUL VOICE", "μ’s", "0"],
     [5, "ユメノトビラ", "μ’s", ""],
     [6, "SENTIMENTAL StepS", "μ’s", ""],
     [7, "Love wing bell", "星空凛(CV.飯田里穂) 、西木野真姫(CV.Pile) 、小泉花陽(CV.久保ユリカ) 、絢瀬絵里(CV.南條愛乃) 、東條希(CV.楠田亜衣奈) 、矢澤にこ(CV.徳井青空", ""],
-    [8, "Dancing stars on me!", "μ’s", ""],
+    [8, "Dancing stars on me!", "μ’s", "0"],
     [9, "KiRa-KiRa Sensation!", "μ’s", ""],
     [10, "Happy maker!", "μ’s", ""],
 ]
@@ -8672,8 +8672,8 @@ tracks = [
     [6, "Super LOVE=Super LIVE!", "μ’s", ""],
     [7, "HEART to HEART!", "μ’s", ""],
     [8, "嵐のなかの恋だから", "μ’s", ""],
-    [9, "ENDLESS PARADE", "μ’s", ""],
-    [10, "Dreamin’ Go! Go!!", "μ’s", ""],
+    [9, "ENDLESS PARADE", "μ’s", "0"],
+    [10, "Dreamin’ Go! Go!!", "μ’s", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
@@ -8691,7 +8691,7 @@ tracks = [
     [7, "WAO-WAO Powerful day!", "Printemps", ""],
     [8, "NO EXIT ORION", "Printemps", ""],
     [9, "ぷわぷわーお！", "Printemps", ""],
-    [10, "CheerDay CheerGirl!", "Printemps", ""],
+    [10, "CheerDay CheerGirl!", "Printemps", "0"],
     [11, "MUSEUMでどうしたい?", "Printemps", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
@@ -8703,7 +8703,7 @@ album = "μ's Memorial CD-BOX Complete BEST BOX Disc 8 [LACA-9728]"
 tracks = [
     [1, "ダイヤモンドプリンセスの憂鬱", "BiBi", ""],
     [2, "ラブノベルス", "BiBi", ""],
-    [3, "Cutie Panther", "BiBi", ""],
+    [3, "Cutie Panther", "BiBi", "0"],
     [4, "夏、終わらないで。", "BiBi", ""],
     [5, "冬がくれた予感", "BiBi", ""],
     [6, "Trouble Busters", "BiBi", ""],
@@ -8755,7 +8755,7 @@ date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 11 [LACA-9731]"
 tracks = [
     [1, "soldier game", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [2, "Daring!!", "西木野真姫(CV.Pile)", ""],
+    [2, "Daring!!", "西木野真姫(CV.Pile)", "0"],
     [3, "勇気のReason", "園田海未(CV.三森すずこ)", ""],
     [4, "ありふれた悲しみの果て", "絢瀬絵里(CV.南條愛乃)", ""],
     [5, "愛は太陽じゃない?", "高坂穂乃果(CV.新田恵海)", ""],
@@ -8772,13 +8772,13 @@ catalognumber = "LACA-9732"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 12 [LACA-9732]"
 tracks = [
-    [1, "Angelic Angel", "μ’s", ""],
+    [1, "Angelic Angel", "μ’s", "0"],
     [2, "Hello, 星を数えて", "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
     [3, "SUNNY DAY SONG", "μ’s", ""],
     [4, "SUNNY DAY SONG (Movie Edit)", "μ’s", ""],
     [5, "?←HEARTBEAT", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", "0"],
     [6, "僕たちはひとつの光", "μ’s", ""],
-    [7, "Future style", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", ""],
+    [7, "Future style", "高坂穂乃果(cv.新田恵海)、南ことり(cv.内田彩)、園田海未(cv.三森すずこ)", "0"],
     [8, "これから", "μ’s", ""],
     [9, "MOMENT RING", "μ’s", ""],
     [10, "さようならへさよなら!", "μ’s", ""],
@@ -8827,8 +8827,8 @@ catalognumber = "BEPC-0012"
 date = "2014-12-25"
 album = "CheerDay CheerGirl! / Printemps"
 tracks = [
-    [1, "CheerDay CheerGirl!", "Printemps", ""],
-    [2, "CheerDay CheerGirl! (Off Vocal)", "Printemps", ""],
+    [1, "CheerDay CheerGirl!", "Printemps", "1"],
+    [2, "CheerDay CheerGirl! (Off Vocal)", "Printemps", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b9389bb3-9559-428c-b32d-12358843be42", "https://vgmdb.net/album/50019"]
 
@@ -9077,8 +9077,8 @@ catalognumber = "LAPP-1076"
 date = "2015-01-14"
 album = "Dreamin' Go! Go!! / μ's"
 tracks = [
-    [1, "Dreamin’ Go! Go!!", "μ’s", ""],
-    [2, "Dreamin’ Go! Go!! (Off Vocal)", "μ’s", ""],
+    [1, "Dreamin’ Go! Go!!", "μ’s", "0"],
+    [2, "Dreamin’ Go! Go!! (Off Vocal)", "μ’s", "0"],
     [3, "ワンデイ・ポリスストーリー", "μ’s", ""],
     [4, "ネクスト・アイドル・ジェネレーション", "μ’s", ""],
     [5, "ホーム・ラブリー・ホーム", "μ’s", ""],
@@ -9268,15 +9268,15 @@ catalognumber = "LABX-8611"
 date = "2022-11-02"
 album = "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ ＜OCEAN STAGE＞ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 2"
 tracks = [
-    [1, "Aqours Pirates Desire", "", ""],
-    [2, "Daydream Warrior", "", ""],
+    [1, "Aqours Pirates Desire", "", "0"],
+    [2, "Daydream Warrior", "", "0"],
     [3, "君の瞳を巡る冒険", "", ""],
     [4, "恋になりたいAQUARIUM", "", ""],
     [5, "WATER BLUE NEW WORLD", "", ""],
     [6, "幕間映像②", "", ""],
     [7, "青空Jumping Heart", "", ""],
     [8, "冒険Type A, B, C!!", "", ""],
-    [9, "Aqours☆HEROES", "", ""],
+    [9, "Aqours☆HEROES", "", "0"],
     [10, "涙×", "", ""],
     [11, "MIRAI TICKET", "", ""],
     [12, "not ALONE not HITORI", "", ""],
@@ -9325,9 +9325,9 @@ catalognumber = "SOH-0049"
 date = "2015-10-24"
 album = "ラブメタル!!!!! - Heavy metal idol project - Vol.6"
 tracks = [
-    [1, "Cutie Panther", "", ""],
+    [1, "Cutie Panther", "", "0"],
     [2, "もぎゅっと\"Love\"で接近中!", "", ""],
-    [3, "Cutie Panther(karaoke)", "", ""],
+    [3, "Cutie Panther(karaoke)", "", "0"],
     [4, "もぎゅっと\"Love\"で接近中!(karaoke)", "", ""],
 ]
 links = ["https://vgmdb.net/album/57577"]
@@ -9470,9 +9470,9 @@ date = "2016-06-08"
 album = "Strawberry Trapper / Guilty Kiss"
 tracks = [
     [1, "Strawberry Trapper", "Guilty Kiss", ""],
-    [2, "Guilty Night, Guilty Kiss!", "Guilty Kiss", ""],
+    [2, "Guilty Night, Guilty Kiss!", "Guilty Kiss", "0"],
     [3, "Strawberry Trapper (Off Vocal)", "Guilty Kiss", ""],
-    [4, "Guilty Night, Guilty Kiss! (Off Vocal)", "Guilty Kiss", ""],
+    [4, "Guilty Night, Guilty Kiss! (Off Vocal)", "Guilty Kiss", "0"],
     [5, "遊覧船でどこまでも❤", "Guilty Kiss", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/0d4ebca2-10b3-42a1-b8e0-fa175824b2d1", "https://vgmdb.net/album/57960"]
@@ -9539,7 +9539,7 @@ catalognumber = "LAPP-1115"
 date = "2020-02-05"
 album = "Guilty Night, Guilty Kiss! / STEREO DIVE FOUNDATION"
 tracks = [
-    [1, "Guilty Night, Guilty Kiss!", "", ""],
+    [1, "Guilty Night, Guilty Kiss!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/96091"]
 
@@ -9708,9 +9708,9 @@ catalognumber = "LACM-14361"
 date = "2015-07-01"
 album = "Angelic Angel/Hello, 星を数えて / μ's"
 tracks = [
-    [1, "Angelic Angel", "μ’s", ""],
+    [1, "Angelic Angel", "μ’s", "0"],
     [2, "Hello, 星を数えて", "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
-    [3, "Angelic Angel (Off Vocal)", "μ’s", ""],
+    [3, "Angelic Angel (Off Vocal)", "μ’s", "0"],
     [4, "Hello, 星を数えて (Off Vocal)", "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/fd2500dd-7a67-4c29-ae47-a807c51e2001", "https://vgmdb.net/album/52259"]
@@ -9722,7 +9722,7 @@ album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vo
 tracks = [
     [1, "君のこころは輝いてるかい?", "", ""],
     [2, "Step! ZERO to ONE", "", ""],
-    [3, "Aqours☆HEROES", "", ""],
+    [3, "Aqours☆HEROES", "", "0"],
     [4, "恋になりたいAQUARIUM", "", ""],
     [5, "待ってて愛のうた", "", ""],
     [6, "届かない星だとしても", "", ""],
@@ -9748,7 +9748,7 @@ tracks = [
     [9, "Pops heartで踊るんだもん!", "Aqours", ""],
     [10, "空も心も晴れるから", "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)", ""],
     [11, "Waku-Waku-Week!", "津島善子(CV.小林愛香)、国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡愛)", ""],
-    [12, "Daydream Warrior", "Aqours", ""],
+    [12, "Daydream Warrior", "Aqours", "0"],
     [13, "G線上のシンデレラ", "松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、小原鞠莉(CV.鈴木愛奈)", ""],
     [14, "スリリング・ワンウェイ", "Aqours", ""],
     [15, "太陽を追いかけろ!", "Aqours", ""],
@@ -9764,7 +9764,7 @@ tracks = [
     [2, "MY舞☆TONIGHT", "", ""],
     [3, "MIRACLE WAVE", "", ""],
     [4, "空も心も晴れるから (9人Ver)", "", ""],
-    [5, "Awaken the power", "", ""],
+    [5, "Awaken the power", "", "0"],
     [6, "WATER BLUE NEW WORLD", "", ""],
     [7, "WONDERFUL STORIES", "", ""],
     [8, "勇気はどこに?君の胸に!", "", ""],
@@ -9788,7 +9788,7 @@ tracks = [
     [9, "夏の終わりの雨音が", "", ""],
     [10, "ジングルベルがとまらない", "", ""],
     [11, "聖なる日の祈り", "", ""],
-    [12, "Future flight", "", ""],
+    [12, "Future flight", "Aqours", "1"],
 ]
 links = ["https://vgmdb.net/album/101818"]
 
@@ -9812,7 +9812,7 @@ tracks = [
     [13, "MY舞☆TONIGHT", "", ""],
     [14, "君のこころは輝いてるかい?", "", ""],
     [15, "MIRACLE WAVE", "", ""],
-    [16, "Awaken the power", "", ""],
+    [16, "Awaken the power", "", "0"],
     [17, "WATER BLUE NEW WORLD", "", ""],
     [18, "WONDERFUL STORIES", "", ""],
     [19, "勇気はどこに?君の胸に!", "", ""],
@@ -9849,7 +9849,7 @@ tracks = [
     [10, "START:DASH!!", "μ’s", ""],
     [11, "微熱からMystery", "lily white", ""],
     [12, "キミのくせに!", "lily white", ""],
-    [13, "Cutie Panther", "BiBi", ""],
+    [13, "Cutie Panther", "BiBi", "0"],
     [14, "夏、終わらないで。", "BiBi", ""],
     [15, "Pure girls project", "Printemps", ""],
     [16, "UNBALANCED LOVE", "Printemps", ""],
@@ -9868,11 +9868,11 @@ tracks = [
     [5, "それは僕たちの奇跡", "μ’s", ""],
     [6, "だってだって噫無情", "μ’s", ""],
     [7, "どんなときもずっと", "μ’s", ""],
-    [8, "COLORFUL VOICE", "μ’s", ""],
+    [8, "COLORFUL VOICE", "μ’s", "0"],
     [9, "ユメノトビラ", "μ’s", ""],
     [10, "SENTIMENTAL StepS", "μ’s", ""],
     [11, "Love wing bell", "星空凛(CV.飯田里穂) 、西木野真姫(CV.Pile) 、小泉花陽(CV.久保ユリカ) 、絢瀬絵里(CV.南條愛乃) 、東條希(CV.楠田亜衣奈) 、矢澤にこ(CV.徳井青空", ""],
-    [12, "Dancing stars on me!", "μ’s", ""],
+    [12, "Dancing stars on me!", "μ’s", "0"],
     [13, "KiRa-KiRa Sensation!", "μ’s", ""],
     [14, "Happy maker!", "μ’s", ""],
     [15, "Shangri-La Shower", "μ’s", ""],
@@ -9897,7 +9897,7 @@ tracks = [
     [10, "Wonderful Rush (Hevey-Rush Mix)", "μ’s", ""],
     [11, "Music S.T.A.R.T!! (SKA-Feel Mix)", "μ’s", ""],
     [12, "Pure girls project (Super-Mondo Mix)", "Printemps", ""],
-    [13, "Cutie Panther (Metal-Panther Mix)", "BiBi", ""],
+    [13, "Cutie Panther (Metal-Panther Mix)", "BiBi", "0"],
     [14, "微熱からMystery (TeKe-TeKe ELEKI Mix)", "lily white", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/24a068e3-94f2-43d0-8989-a8251e11a873", "https://vgmdb.net/album/50611"]
@@ -10101,7 +10101,7 @@ album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE 
 tracks = [
     [1, "Pops heartで踊るんだもん！", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [2, "空も心も晴れるから", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [3, "Daydream Warrior", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
+    [3, "Daydream Warrior", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
     [4, "スリリング・ワンウェイ", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [5, "太陽を追いかけろ！", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [6, "ジングルベルがとまらない", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
@@ -10117,7 +10117,7 @@ tracks = [
     [1, "Marine Border Parasol", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [2, "僕らの走ってきた道は...", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [3, "Hop? Stop? Nonstop!", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
-    [4, "Brightest Melody", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
+    [4, "Brightest Melody", "桜内梨子(CV.逢田梨香子) from Aqours", "0"],
     [5, "キセキヒカル", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [6, "Next SPARKLING!!", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
     [7, "i-n-g, I TRY!!", "桜内梨子(CV.逢田梨香子) from Aqours", ""],
@@ -10227,7 +10227,7 @@ album = "君のこころは輝いてるかい? / Aqours Disc 1 (CD) [LACM-14400]
 tracks = [
     [1, "君のこころは輝いてるかい?", "Aqours", ""],
     [2, "Step! ZERO to ONE", "Aqours", ""],
-    [3, "Aqours☆HEROES", "Aqours", ""],
+    [3, "Aqours☆HEROES", "Aqours", "0"],
     [4, "君のこころは輝いてるかい? (Off Vocal)", "Aqours", ""],
     [5, "[はじめましてのご挨拶] 高海千歌", "高海千歌(CV.伊波杏樹)", ""],
     [6, "[はじめましてのご挨拶] 桜内梨子", "桜内梨子(CV.逢田梨香子)", ""],
@@ -10271,11 +10271,11 @@ catalognumber = "LACM-14990"
 date = "2020-07-22"
 album = "Fantastic Departure! / Aqours"
 tracks = [
-    [1, "Fantastic Departure!", "Aqours", ""],
-    [2, "Aqours Pirates Desire", "Aqours", ""],
-    [3, "Fantastic Departure! (Off Vocal)", "Aqours", ""],
-    [4, "Aqours Pirates Desire (Off Vocal)", "Aqours", ""],
-    [5, "Aqours流、勝利論", "[dialogue]", ""],
+    [1, "Fantastic Departure!", "Aqours", "0"],
+    [2, "Aqours Pirates Desire", "Aqours", "0"],
+    [3, "Fantastic Departure! (Off Vocal)", "Aqours", "0"],
+    [4, "Aqours Pirates Desire (Off Vocal)", "Aqours", "0"],
+    [5, "Aqours流、勝利論", "[dialogue]", "0"],
     [6, "魅惑のロードバイク", "[dialogue]", ""],
     [7, "フェンシングってなんだろな?", "[dialogue]", ""],
 ]
@@ -10541,8 +10541,8 @@ tracks = [
     [2, "Deep Sea Cocoon", "Guilty Kiss", ""],
     [3, "Strawberry Trapper REMIX", "Guilty Kiss", ""],
     [4, "Strawberry Trapper", "Guilty Kiss", ""],
-    [5, "Guilty Night, Guilty Kiss!", "Guilty Kiss", ""],
-    [6, "Guilty Eyes Fever", "Guilty Kiss", ""],
+    [5, "Guilty Night, Guilty Kiss!", "Guilty Kiss", "0"],
+    [6, "Guilty Eyes Fever", "Guilty Kiss", "0"],
     [7, "コワレヤスキ", "Guilty Kiss", ""],
     [8, "Shadow gate to love", "Guilty Kiss", ""],
     [9, "Nameless Love Song", "Guilty Kiss", ""],
@@ -10550,7 +10550,7 @@ tracks = [
     [11, "New Romantic Sailors", "Guilty Kiss", ""],
     [12, "Love Pulsar", "Guilty Kiss", ""],
     [13, "Phantom Rocket Adventure", "Guilty Kiss", ""],
-    [14, "Guilty!? Farewell party", "Guilty Kiss", ""],
+    [14, "Guilty!? Farewell party", "Guilty Kiss", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9b39062e-1306-4e00-af07-c21776948e1b", "https://vgmdb.net/album/109795"]
 
@@ -10613,10 +10613,10 @@ tracks = [
     [5, "それは僕たちの奇跡 (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [6, "だってだって噫無情 (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [7, "どんなときもずっと (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
-    [8, "COLORFUL VOICE (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
+    [8, "COLORFUL VOICE (UMI Mix)", "園田海未(CV.三森すずこ)", "0"],
     [9, "ユメノトビラ (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [10, "SENTIMENTAL StepS (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
-    [11, "Dancing stars on me! (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
+    [11, "Dancing stars on me! (UMI Mix)", "園田海未(CV.三森すずこ)", "0"],
     [12, "KiRa-KiRa Sensation! (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [13, "Happy maker! (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
 ]
@@ -10631,10 +10631,10 @@ tracks = [
     [2, "るてしキスキしてる (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [3, "ミはμ'sicのミ (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [4, "Super LOVE=Super LIVE! (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
-    [5, "Angelic Angel (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
+    [5, "Angelic Angel (UMI Mix)", "園田海未(CV.三森すずこ)", "0"],
     [6, "SUNNY DAY SONG (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
     [7, "僕たちはひとつの光 (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
-    [8, "Future style (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
+    [8, "Future style (UMI Mix)", "園田海未(CV.三森すずこ)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/95b1e1b0-4845-470b-bd5f-1c61ecc23a0e", "https://vgmdb.net/album/71675"]
 
@@ -10807,8 +10807,8 @@ catalognumber = "BCXA-1173"
 date = "2016-12-22"
 album = "Aqours オリジナルソングCD 4"
 tracks = [
-    [1, "Daydream Warrior", "Aqours", ""],
-    [2, "Daydream Warrior (Off Vocal)", "Aqours", ""],
+    [1, "Daydream Warrior", "Aqours", "0"],
+    [2, "Daydream Warrior (Off Vocal)", "Aqours", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/85ff2383-520d-4f30-887a-e6adc729e1a8", "https://vgmdb.net/album/60063"]
 
@@ -10884,7 +10884,7 @@ tracks = [
     [10, "START:DASH!!", "μ’s", ""],
     [11, "微熱からMystery", "lily white", ""],
     [12, "キミのくせに!", "lily white", ""],
-    [13, "Cutie Panther", "BiBi", ""],
+    [13, "Cutie Panther", "BiBi", "0"],
     [14, "夏、終わらないで。", "BiBi", ""],
     [15, "Pure girls project", "Printemps", ""],
     [16, "UNBALANCED LOVE", "Printemps", ""],
@@ -10903,11 +10903,11 @@ tracks = [
     [5, "それは僕たちの奇跡", "μ’s", ""],
     [6, "だってだって噫無情", "μ’s", ""],
     [7, "どんなときもずっと", "μ’s", ""],
-    [8, "COLORFUL VOICE", "μ’s", ""],
+    [8, "COLORFUL VOICE", "μ’s", "0"],
     [9, "ユメノトビラ", "μ’s", ""],
     [10, "SENTIMENTAL StepS", "μ’s", ""],
     [11, "Love wing bell", "星空凛(CV.飯田里穂) 、西木野真姫(CV.Pile) 、小泉花陽(CV.久保ユリカ) 、絢瀬絵里(CV.南條愛乃) 、東條希(CV.楠田亜衣奈) 、矢澤にこ(CV.徳井青空", ""],
-    [12, "Dancing stars on me!", "μ’s", ""],
+    [12, "Dancing stars on me!", "μ’s", "0"],
     [13, "KiRa-KiRa Sensation!", "μ’s", ""],
     [14, "Happy maker!", "μ’s", ""],
     [15, "Shangri-La Shower", "μ’s", ""],
@@ -10932,7 +10932,7 @@ tracks = [
     [10, "Wonderful Rush (Hevey-Rush Mix)", "μ’s", ""],
     [11, "Music S.T.A.R.T!! (SKA-Feel Mix)", "μ’s", ""],
     [12, "Pure girls project (Super-Mondo Mix)", "Printemps", ""],
-    [13, "Cutie Panther (Metal-Panther Mix)", "BiBi", ""],
+    [13, "Cutie Panther (Metal-Panther Mix)", "BiBi", "0"],
     [14, "微熱からMystery (TeKe-TeKe ELEKI Mix)", "lily white", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/96771b7d-72d8-45fe-8d60-f9434d5eb914", "https://vgmdb.net/album/50610"]
@@ -11032,7 +11032,7 @@ tracks = [
     [2, "虹色Passions! [オープニング主題歌] (TV size)", "虹ヶ咲学園スクールアイドル同好会", ""],
     [3, "スクールアイドルとは", "遠藤ナオキ", ""],
     [4, "隠れた本心", "遠藤ナオキ", ""],
-    [5, "CHASE! (Short size)", "優木せつ菜 (CV.楠木ともり)", ""],
+    [5, "CHASE! (Short size)", "優木せつ菜 (CV.楠木ともり)", "0"],
     [6, "トキメキへ!", "遠藤ナオキ", ""],
     [7, "芽吹いたキモチ", "遠藤ナオキ", ""],
     [8, "夢中になれるもの", "遠藤ナオキ", ""],
@@ -11463,9 +11463,9 @@ tracks = [
     [7, "近未来ハッピーエンド", "CYaRon!", ""],
     [8, "海岸通りで待ってるよ", "CYaRon!", ""],
     [9, "ドラゴンライダーズ", "CYaRon!", ""],
-    [10, "Braveheart Coaster REMIX", "CYaRon!", ""],
-    [11, "Braveheart Coaster", "CYaRon!", ""],
-    [12, "CHANGELESS", "CYaRon!", ""],
+    [10, "Braveheart Coaster REMIX", "CYaRon!", "0"],
+    [11, "Braveheart Coaster", "CYaRon!", "0"],
+    [12, "CHANGELESS", "CYaRon!", "0"],
     [13, "コドク・テレポート", "CYaRon!", ""],
     [14, "サクラバイバイ", "CYaRon!", ""],
 ]
@@ -11517,9 +11517,9 @@ date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 1"
 tracks = [
     [1, "夢なき夢は夢じゃない", "高坂穂乃果(CV.新田恵海)", ""],
-    [2, "Anemone heart", "南ことり(CV.内田彩)・園田海未(CV.三森すずこ)", ""],
+    [2, "Anemone heart", "南ことり(CV.内田彩)・園田海未(CV.三森すずこ)", "0"],
     [3, "なわとび", "小泉花陽(CV.久保ユリカ)", ""],
-    [4, "Beat in Angel", "星空凛(CV.飯田里穂)・西木野真姫(CV.Pile)", ""],
+    [4, "Beat in Angel", "星空凛(CV.飯田里穂)・西木野真姫(CV.Pile)", "0"],
     [5, "にこぷり♡女子道", "矢澤にこ(CV.徳井青空)", ""],
     [6, "硝子の花園", "絢瀬絵里(CV.南條愛乃)・東條希(CV.楠田亜衣奈)", ""],
     [7, "LONELIEST BABY", "μ’s", ""],
@@ -11539,10 +11539,10 @@ catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 2"
 tracks = [
-    [1, "Anemone heart (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [2, "Anemone heart (UMI Mix)", "園田海未(CV.三森すずこ)", ""],
-    [3, "Beat in Angel (RIN Mix)", "星空凛(CV.飯田里穂)", ""],
-    [4, "Beat in Angel (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
+    [1, "Anemone heart (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
+    [2, "Anemone heart (UMI Mix)", "園田海未(CV.三森すずこ)", "0"],
+    [3, "Beat in Angel (RIN Mix)", "星空凛(CV.飯田里穂)", "0"],
+    [4, "Beat in Angel (MAKI Mix)", "西木野真姫(CV.Pile)", "0"],
     [5, "硝子の花園 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [6, "硝子の花園 (NOZOMI Mix)", "東條希(CV.楠田亜衣奈)", ""],
     [7, "LONELIEST BABY (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
@@ -11606,10 +11606,10 @@ tracks = [
     [2, "ぷわぷわーお! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
     [3, "ぷわぷわーお! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
     [4, "ぷわぷわーお! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
-    [5, "CheerDay CheerGirl!!", "Printemps", ""],
-    [6, "CheerDay CheerGirl!! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", ""],
-    [7, "CheerDay CheerGirl!! (KOTORI Mix)", "南ことり(CV.内田彩)", ""],
-    [8, "CheerDay CheerGirl!! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", ""],
+    [5, "CheerDay CheerGirl!!", "Printemps", "0"],
+    [6, "CheerDay CheerGirl!! (HONOKA Mix)", "高坂穂乃果(CV.新田恵海)", "0"],
+    [7, "CheerDay CheerGirl!! (KOTORI Mix)", "南ことり(CV.内田彩)", "0"],
+    [8, "CheerDay CheerGirl!! (HANAYO Mix)", "小泉花陽(CV.久保ユリカ)", "0"],
     [9, "Silent tonight", "BiBi", ""],
     [10, "Silent tonight (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [11, "Silent tonight (MAKI Mix)", "西木野真姫(CV.Pile)", ""],
@@ -11671,7 +11671,7 @@ tracks = [
     [11, "いつもどんなときも、全員のために (LMOP)", "", ""],
     [12, "どんなときもずっと (TVサイズ・のぞえりにこ) [第2話エンディングテーマ]", "", ""],
     [13, "海未のセクシー・ドレス (TM03)", "", ""],
-    [14, "A-RISEとの対峙 (LM58)", "", ""],
+    [14, "A-RISEとの対峙 (LM58)", "", "0"],
     [15, "Shocking Party [第3話挿入歌]", "", ""],
     [16, "ユメノトビラ (TVサイズ) [第3話挿入歌]", "", ""],
     [17, "どんなときもずっと (TVサイズ) [第3話エンディングテーマ]", "", ""],
@@ -11689,7 +11689,7 @@ tracks = [
     [29, "Rock me baby! (TM06)", "", ""],
     [30, "お祭り気分で盛り上がれ! (TM07)", "", ""],
     [31, "軽やかな昼下がりB (LM02 TypeB)", "", ""],
-    [32, "Dancing stars on me! (TVサイズ) [第6話挿入歌]", "", ""],
+    [32, "Dancing stars on me! (TVサイズ) [第6話挿入歌]", "", "0"],
     [33, "どんなときもずっと (TVサイズ・まきりんぱな) [第6話エンディングテーマ]", "", ""],
 ]
 links = ["https://vgmdb.net/album/55471"]
@@ -11868,11 +11868,11 @@ tracks = [
     [5, "それは僕たちの奇跡 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [6, "だってだって噫無情 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [7, "どんなときもずっと (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
-    [8, "COLORFUL VOICE (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
+    [8, "COLORFUL VOICE (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
     [9, "ユメノトビラ (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [10, "SENTIMENTAL StepS (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [11, "Love wing bell (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
-    [12, "Dancing stars on me! (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
+    [12, "Dancing stars on me! (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
     [13, "KiRa-KiRa Sensation! (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [14, "Happy maker! (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
 ]
@@ -11887,7 +11887,7 @@ tracks = [
     [2, "るてしキスキしてる (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [3, "ミはμ'sicのミ (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [4, "Super LOVE=Super LIVE! (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
-    [5, "Angelic Angel (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
+    [5, "Angelic Angel (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
     [6, "SUNNY DAY SONG (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [7, "僕たちはひとつの光 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [8, "?←HEARTBEAT (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
@@ -11899,7 +11899,7 @@ catalognumber = "LACA-9605"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 絢瀬絵里 Memories with Eli Disc 3 [LACA-9605]"
 tracks = [
-    [1, "Cutie Panther (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
+    [1, "Cutie Panther (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", "0"],
     [2, "夏、終わらないで。 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [3, "冬がくれた予感 (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
     [4, "Trouble Busters (ELI Mix)", "絢瀬絵里(CV.南條愛乃)", ""],
@@ -12191,12 +12191,12 @@ tracks = [
     [7, "街を満喫!", "藤澤慶昌", ""],
     [8, "この街はアキバに似てる", "藤澤慶昌", ""],
     [9, "Hello, 星を数えて (Movie Edit)", "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)", ""],
-    [10, "GoHAN-YA", "藤澤慶昌", ""],
+    [10, "GoHAN-YA", "藤澤慶昌", "0"],
     [11, "Honoka!Hurry up!!!!!!!!", "藤澤慶昌", ""],
-    [12, "As Time Goes By", "女性シンガー(CV.高山みなみ)", ""],
+    [12, "As Time Goes By", "女性シンガー(CV.高山みなみ)", "0"],
     [13, "答えはとても簡単", "藤澤慶昌", ""],
     [14, "答えはとても簡単(リフレイン)", "藤澤慶昌", ""],
-    [15, "Angelic Angel (Movie Edit)", "μ’s", ""],
+    [15, "Angelic Angel (Movie Edit)", "μ’s", "0"],
     [16, "空港にファンがいっぱい…(動揺)", "藤澤慶昌", ""],
     [17, "街にもファンがもっといっぱい!(困惑)", "藤澤慶昌", ""],
     [18, "？←HEARTBEAT (Movie Edit)", "絢瀬絵里(CV.南條愛乃)、東條希(CV.楠田亜衣奈)、矢澤にこ(CV.徳井青空)", ""],
@@ -12205,16 +12205,16 @@ tracks = [
     [21, "みんなでライブをもう一度", "藤澤慶昌", ""],
     [22, "穂乃果の葛藤", "藤澤慶昌", ""],
     [23, "それぞれの想い", "藤澤慶昌", ""],
-    [24, "As Time Goes By (リフレイン)", "女性シンガー(CV.高山みなみ)", ""],
+    [24, "As Time Goes By (リフレイン)", "女性シンガー(CV.高山みなみ)", "0"],
     [25, "決断", "藤澤慶昌", ""],
     [26, "伝説が生まれた瞬間", "藤澤慶昌", ""],
-    [27, "Future style (Movie Edit)", "高坂穂乃果(CV.新田恵海)、南ことり(CV.内田彩)、園田海未(CV.三森すずこ)", ""],
+    [27, "Future style (Movie Edit)", "高坂穂乃果(CV.新田恵海)、南ことり(CV.内田彩)、園田海未(CV.三森すずこ)", "0"],
     [28, "最高のライブへ!東奔西走!!", "藤澤慶昌", ""],
     [29, "準備開始!", "藤澤慶昌", ""],
     [30, "ライブ当日の朝", "藤澤慶昌", ""],
     [31, "ステージへと続く道", "藤澤慶昌", ""],
     [32, "SUNNY DAY SONG (Movie Edit)", "μ’s", ""],
-    [33, "Days Have Passed By", "藤澤慶昌", ""],
+    [33, "Days Have Passed By", "藤澤慶昌", "0"],
     [34, "僕たちはひとつの光 (Movie Edit)", "μ’s", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/88bd2d3b-8fc2-497f-8b26-56b07a9d2dd3", "https://vgmdb.net/album/52923"]
@@ -12322,7 +12322,7 @@ tracks = [
     [1, "さかなかなんだか?", "松浦果南(CV.諏訪ななか)", ""],
     [2, "君のこころは輝いてるかい? (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [3, "Step! ZERO to ONE (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [4, "Aqours☆HEROES (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
+    [4, "Aqours☆HEROES (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
     [5, "恋になりたいAQUARIUM (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [6, "待ってて愛のうた (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [7, "届かない星だとしても (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
@@ -12338,8 +12338,8 @@ tracks = [
     [2, "SKY JOURNEY (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [3, "少女以上の恋がしたい (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [4, "未体験HORIZON (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [5, "Deep Resonance (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
-    [6, "Dance with Minotaurus (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
+    [5, "Deep Resonance (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
+    [6, "Dance with Minotaurus (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", "0"],
     [7, "KOKORO Magic \"A to Z\" (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [8, "Wake up, Challenger!! (松浦果南 Solo Ver.)", "松浦果南(CV.諏訪ななか) from Aqours", ""],
     [9, "もっとね!", "松浦果南(CV.諏訪ななか) from Aqours", ""],
@@ -12385,7 +12385,7 @@ tracks = [
     [10, "ぶる〜べりぃ♡とれいん", "南ことり(CV.内田彩)", ""],
     [11, "孤独なHeaven", "小泉花陽(CV.久保ユリカ)", ""],
     [12, "soldier game", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [13, "Daring!!", "西木野真姫(CV.Pile)", ""],
+    [13, "Daring!!", "西木野真姫(CV.Pile)", "0"],
     [14, "勇気のReason", "園田海未(CV.三森すずこ)", ""],
     [15, "ありふれた悲しみの果て", "絢瀬絵里(CV.南條愛乃)", ""],
     [16, "Listen to my heart!!", "にこりんぱな", ""],
@@ -12436,13 +12436,13 @@ tracks = [
     [11, "普通怪獣ちかっちー?", "加藤達也", ""],
     [12, "希望の羽", "加藤達也", ""],
     [13, "with YOU", "加藤達也", ""],
-    [14, "Conflict with diamond", "加藤達也", ""],
+    [14, "Conflict with diamond", "加藤達也", "0"],
     [15, "小さな奇跡", "加藤達也", ""],
     [16, "決めたよHand in Hand [第1話挿入歌(TVサイズ)]", "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)", ""],
     [17, "前回のラブライブ!サンシャイン!!", "加藤達也", ""],
     [18, "Swingin' & Shakin'", "加藤達也", ""],
     [19, "OTOBOKE funny days", "加藤達也", ""],
-    [20, "Carrot & Stick", "加藤達也", ""],
+    [20, "Carrot & Stick", "加藤達也", "0"],
     [21, "海の音を探して", "加藤達也", ""],
     [22, "想いのかけら", "加藤達也", ""],
     [23, "詞って、なあに?", "加藤達也", ""],
@@ -12478,7 +12478,7 @@ tracks = [
     [3, "フォーリン・ヨハネ", "加藤達也", ""],
     [4, "Riko Jump High!!", "加藤達也", ""],
     [5, "堕天しない?", "加藤達也", ""],
-    [6, "FRIENDSHIP", "加藤達也", ""],
+    [6, "FRIENDSHIP", "加藤達也", "0"],
     [7, "降臨・ヨハネ", "加藤達也", ""],
     [8, "廃校ｷﾀ――(ﾟ∀ﾟ)――!!", "加藤達也", ""],
     [9, "すれ違いは霧の中で", "加藤達也", ""],
@@ -12499,7 +12499,7 @@ tracks = [
     [24, "ウキウキ夏合宿", "加藤達也", ""],
     [25, "海に還るもの", "加藤達也", ""],
     [26, "すれ違いのヨーソロー", "加藤達也", ""],
-    [27, "DETERMINATION", "加藤達也", ""],
+    [27, "DETERMINATION", "加藤達也", "0"],
     [28, "想いよひとつになれ [第11話挿入歌(TVサイズ)]", "高海千歌(CV.伊波杏樹)、松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、渡辺曜(CV.斉藤朱夏)、津島善子(CV.小林愛香)、国木田花丸(CV.高槻かなこ)、小原鞠莉(CV.鈴木愛奈)、黒澤ルビィ(CV.降幡愛)", ""],
     [29, "始まりの物語", "加藤達也", ""],
     [30, "MIRAI TICKET [第13話挿入歌(TVサイズ)]", "Aqours", ""],
@@ -12554,7 +12554,7 @@ tracks = [
     [10, "ぶる～べりぃ♡とれいん", "南ことり(CV.内田彩)", ""],
     [11, "孤独なHeaven", "小泉花陽(CV.久保ユリカ)", ""],
     [12, "soldier game", "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)", ""],
-    [13, "Daring!!", "西木野真姫(CV.Pile)", ""],
+    [13, "Daring!!", "西木野真姫(CV.Pile)", "0"],
     [14, "勇気のReason", "園田海未(CV.三森すずこ)", ""],
     [15, "ありふれた悲しみの果て", "絢瀬絵里(CV.南條愛乃)", ""],
     [16, "Listen to my heart!!", "にこりんぱな", ""],
@@ -12655,10 +12655,10 @@ date = "2014-08-17"
 album = "ラブパラダイスオーケストラ２"
 tracks = [
     [1, "ユメノトビラ", "", ""],
-    [2, "Dancing stars on me!", "", ""],
+    [2, "Dancing stars on me!", "", "0"],
     [3, "それは僕たちの奇跡", "", ""],
     [4, "ユメノトビラ -Instrumental-", "", ""],
-    [5, "Dancing stars on me! -Instrumental-", "", ""],
+    [5, "Dancing stars on me! -Instrumental-", "", "0"],
     [6, "それは僕たちの奇跡 -Instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/110264"]
