@@ -3,61 +3,61 @@ catalognumber = "LACA-15656"
 date = "2017-08-09"
 album = "TVアニメ『ひなろじ〜from Luck&Logic〜』ENDING THEME & CHARACTER SONG MINI ALBUM Baby Birds"
 tracks = [
-    [1, "ベィビィバード! 〜ガクエンロジック〜", "", ""],
-    [2, "やわらかな明日", "", ""],
-    [3, "EX-Positive Expositor!", "", ""],
-    [4, "Grow Together!!!", "", ""],
-    [5, "愛は華、愛は雛", "", ""],
-    [6, "Foreigner Song 〜フォーリナーの唄〜", "", ""],
+    [1, "ベィビィバード!〜ガクエンロジック〜", "リオネス・エリストラートヴァ(CV:朝日奈丸佳), ニーナ・アレクサンドロヴナ(CV:山村響), 京橋万博(CV:高森奈津美)", ""],
+    [2, "やわらかな明日", "ニーナ・アレクサンドロヴナ(CV:山村響)", ""],
+    [3, "EX-Positive Expositor!", "京橋万博(CV:高森奈津美)", ""],
+    [4, "Grow Together!!!", "橘弥生(CV:三森すずこ), 桐谷華凛(CV:小倉唯), 桐谷華恋(CV:湯浅かえで)", ""],
+    [5, "愛は華、愛は雛", "森ヶ谷夕子(CV:植田佳奈), 東瑞希(CV:内田真礼)", ""],
+    [6, "Foreigner Song 〜フォーリナーの唄〜", "リオネス・エリストラートヴァ(CV:朝日奈丸佳), ニーナ・アレクサンドロヴナ(CV:山村響)", ""],
 ]
-links = ["https://vgmdb.net/album/68040"]
+links = ["https://beta.musicbrainz.org/release/a18bdbb9-bde8-447f-8a96-41cd1ca33c16", "https://vgmdb.net/album/68040"]
 
 [2]
 catalognumber = "EMTN-10010"
 date = "2016-02-17"
 album = "盟約の彼方 / 新田恵海"
 tracks = [
-    [1, "盟約の彼方", "", ""],
-    [2, "つなぐメロディー", "", ""],
-    [3, "盟約の彼方 -Instrumental-", "", ""],
-    [4, "つなぐメロディー -Instrumental-", "", ""],
+    [1, "盟約の彼方", "新田恵海", ""],
+    [2, "つなぐメロディー", "新田恵海", ""],
+    [3, "盟約の彼方 -Instrumental-", "新田恵海", ""],
+    [4, "つなぐメロディー -Instrumental-", "新田恵海", ""],
 ]
-links = ["https://vgmdb.net/album/55703"]
+links = ["https://beta.musicbrainz.org/release/fbe19245-10dc-4aa6-ab3c-fe3ab6c1a37c", "https://vgmdb.net/album/55703"]
 
 [3]
 catalognumber = "EMTN-10016"
 date = "2017-07-19"
 album = "Trace of EMUSIC / 新田恵海 Disc 1 (CD)"
 tracks = [
-    [1, "Smile again with you", "", ""],
-    [2, "EMUSIC", "", ""],
-    [3, "笑顔と笑顔で始まるよ!", "", ""],
-    [4, "探求Dreaming", "", ""],
-    [5, "NEXT PHASE", "", ""],
-    [6, "盟約の彼方", "", ""],
-    [7, "言葉より強く", "", ""],
-    [8, "OURS POWERS", "", ""],
-    [9, "ROCKET HEART", "", ""],
+    [1, "Smile again with you", "新田恵海", ""],
+    [2, "EMUSIC", "新田恵海", ""],
+    [3, "笑顔と笑顔で始まるよ！", "新田恵海", ""],
+    [4, "探求Dreaming", "新田恵海", ""],
+    [5, "NEXT PHASE", "新田恵海", ""],
+    [6, "盟約の彼方", "新田恵海", ""],
+    [7, "言葉より強く", "新田恵海", ""],
+    [8, "OURS POWERS", "新田恵海", ""],
+    [9, "ROCKET HEART", "新田恵海", ""],
 ]
-links = ["https://vgmdb.net/album/88881"]
+links = ["https://beta.musicbrainz.org/release/984fff0d-e52f-4bf6-92d4-aae8bf067d06", "https://vgmdb.net/album/88881"]
 
 [4]
 catalognumber = "EMTN-10016"
 date = "2017-07-19"
 album = "Trace of EMUSIC / 新田恵海 Disc 2 (CD)"
 tracks = [
-    [1, "想像を超えた世界", "", ""],
-    [2, "想いよ届け", "", ""],
-    [3, "優しい世界そして未来へ", "", ""],
-    [4, "Dear everyday", "", ""],
-    [5, "Rainy*flower", "", ""],
-    [6, "WONDER! SHUTTER LOVE", "", ""],
-    [7, "スピカ", "", ""],
-    [8, "つなぐメロディー", "", ""],
-    [9, "きらめきを夢みて", "", ""],
-    [10, "Believe in (E)MUSIC", "", ""],
+    [1, "想像を超えた世界", "新田恵海", ""],
+    [2, "想いよ届け", "新田恵海", ""],
+    [3, "優しい世界そして未来へ", "新田恵海", ""],
+    [4, "Dear everyday", "新田恵海", ""],
+    [5, "Rainy*flower", "新田恵海", ""],
+    [6, "WONDER! SHUTTER LOVE", "新田恵海", ""],
+    [7, "スピカ", "新田恵海", ""],
+    [8, "つなぐメロディー", "新田恵海", ""],
+    [9, "きらめきを夢みて", "新田恵海", ""],
+    [10, "Believe in (E)MUSIC", "新田恵海", ""],
 ]
-links = ["https://vgmdb.net/album/88881"]
+links = ["https://beta.musicbrainz.org/release/984fff0d-e52f-4bf6-92d4-aae8bf067d06", "https://vgmdb.net/album/88881"]
 
 [5]
 catalognumber = "EMTN-10016"
@@ -79,136 +79,136 @@ catalognumber = "LACA-35723"
 date = "2018-04-25"
 album = "Lonely Queen's Liberation Party / TRUE [Limited Edition] Disc 1 (CD) [LACA-35723]"
 tracks = [
-    [1, "Lonely Queen's Liberation Party", "", ""],
-    [2, "Sincerely", "", ""],
-    [3, "次の僕へ", "", ""],
-    [4, "分身", "", ""],
-    [5, "終わりたい世界", "", ""],
-    [6, "BUTTERFLY EFFECTOR", "", ""],
-    [7, "JUMPIN'", "", ""],
-    [8, "Roadmap", "", ""],
-    [9, "フロム", "", ""],
-    [10, "酸素", "", ""],
-    [11, "耳恋ミュージック", "", ""],
-    [12, "サンドリヨン", "", ""],
-    [13, "パズル", "", ""],
-    [14, "Anchors Step", "", ""],
+    [1, "Lonely Queen’s Liberation Party", "TRUE", ""],
+    [2, "Sincerely", "TRUE", ""],
+    [3, "次の僕へ", "TRUE", ""],
+    [4, "分身", "TRUE", ""],
+    [5, "終わりたい世界", "TRUE", ""],
+    [6, "BUTTERFLY EFFECTOR", "TRUE", ""],
+    [7, "JUMPIN’", "TRUE", ""],
+    [8, "Roadmap", "TRUE", ""],
+    [9, "フロム", "TRUE", ""],
+    [10, "酸素", "TRUE", ""],
+    [11, "耳恋ミュージック", "TRUE", ""],
+    [12, "サンドリヨン", "TRUE", ""],
+    [13, "パズル", "TRUE", ""],
+    [14, "Anchors Step", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/74815"]
+links = ["https://beta.musicbrainz.org/release/b3811c09-f859-4033-a41b-6c9dca869435", "https://vgmdb.net/album/74815"]
 
 [7]
 catalognumber = "LACA-35723"
 date = "2018-04-25"
 album = "Lonely Queen's Liberation Party / TRUE [Limited Edition] Disc 2 (Blu-ray) [LAPD-1495]"
 tracks = [
-    [1, "Rainbow The Daydream", "", ""],
-    [2, "サウンドスケープ", "", ""],
-    [3, "アイワナビ", "", ""],
-    [4, "RIPTIDE", "", ""],
-    [5, "鍵のない鳥籠", "", ""],
-    [6, "ヒカリ", "", ""],
-    [7, "キネマ", "", ""],
-    [8, "海底のお城", "", ""],
-    [9, "Dear answer", "", ""],
-    [10, "STEEL -鉄血の絆-", "", ""],
-    [11, "飛竜の騎士", "", ""],
-    [12, "グレースケール", "", ""],
-    [13, "ボイスグライダー", "", ""],
-    [14, "UNISONIA", "", ""],
-    [15, "Divine Spell", "", ""],
-    [16, "BUTTERFLY EFFECTOR", "", ""],
-    [17, "カレイドスコープ", "", ""],
-    [18, "フロム", "", ""],
-    [19, "TRUE COLORS -ENCORE-", "", ""],
-    [20, "DREAM SOLISTER -ENCORE-", "", ""],
-    [21, "サウンドスケープ -ENCORE-", "", ""],
+    [1, "Rainbow The Daydream", "TRUE", ""],
+    [2, "サウンドスケープ", "TRUE", ""],
+    [3, "アイワナビ", "TRUE", ""],
+    [4, "RIPTIDE", "TRUE", ""],
+    [5, "鍵のない鳥籠", "TRUE", ""],
+    [6, "ヒカリ", "TRUE", ""],
+    [7, "キネマ", "TRUE", ""],
+    [8, "海底のお城", "TRUE", ""],
+    [9, "Dear answer", "TRUE", ""],
+    [10, "STEEL –鉄血の絆–", "TRUE", ""],
+    [11, "飛竜の騎士", "TRUE", ""],
+    [12, "グレースケール", "TRUE", ""],
+    [13, "ボイスグライダー", "TRUE", ""],
+    [14, "UNISONIA", "TRUE", ""],
+    [15, "Divine Spell", "TRUE", ""],
+    [16, "BUTTERFLY EFFECTOR", "TRUE", ""],
+    [17, "カレイドスコープ", "TRUE", ""],
+    [18, "フロム", "TRUE", ""],
+    [19, "TRUE COLORS –ENCORE–", "TRUE", ""],
+    [20, "DREAM SOLISTER –ENCORE–", "TRUE", ""],
+    [21, "サウンドスケープ –ENCORE–", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/74815"]
+links = ["https://beta.musicbrainz.org/release/b3811c09-f859-4033-a41b-6c9dca869435", "https://vgmdb.net/album/74815"]
 
 [8]
 catalognumber = "EMTN-10011"
 date = "2016-02-17"
 album = "盟約の彼方 / 新田恵海 Disc 1 (CD)"
 tracks = [
-    [1, "盟約の彼方", "", ""],
-    [2, "つなぐメロディー", "", ""],
-    [3, "盟約の彼方 -Instrumental-", "", ""],
-    [4, "つなぐメロディー -Instrumental-", "", ""],
+    [1, "盟約の彼方", "新田恵海", ""],
+    [2, "つなぐメロディー", "新田恵海", ""],
+    [3, "盟約の彼方 -Instrumental-", "新田恵海", ""],
+    [4, "つなぐメロディー -Instrumental-", "新田恵海", ""],
 ]
-links = ["https://vgmdb.net/album/55704"]
+links = ["https://beta.musicbrainz.org/release/3bcf8490-db00-4646-b7be-adb70ab2168b", "https://vgmdb.net/album/55704"]
 
 [9]
 catalognumber = "EMTN-10011"
 date = "2016-02-17"
 album = "盟約の彼方 / 新田恵海 Disc 2 (DVD)"
 tracks = [
-    [1, "DVD", "", ""],
+    [1, "盟約の彼方 (Music Clip)", "新田恵海", ""],
 ]
-links = ["https://vgmdb.net/album/55704"]
+links = ["https://beta.musicbrainz.org/release/3bcf8490-db00-4646-b7be-adb70ab2168b", "https://vgmdb.net/album/55704"]
 
 [10]
 catalognumber = "LACM-34422"
 date = "2016-01-27"
 album = "STORY / 小野賢章 Disc 1 (CD) [LACM-34422]"
 tracks = [
-    [1, "STORY", "", ""],
-    [2, "Rainbow Road", "", ""],
-    [3, "STORY (Off Vocal)", "", ""],
-    [4, "Rainbow Road (Off Vocal)", "", ""],
+    [1, "STORY", "小野賢章", ""],
+    [2, "Rainbow Road", "小野賢章", ""],
+    [3, "STORY (Off Vocal)", "小野賢章", ""],
+    [4, "Rainbow Road (Off Vocal)", "小野賢章", ""],
 ]
-links = ["https://vgmdb.net/album/55710"]
+links = ["https://beta.musicbrainz.org/release/dabae395-7e47-4f32-b7ad-bc8d96b1e212", "https://vgmdb.net/album/55710"]
 
 [11]
 catalognumber = "LACM-34422"
 date = "2016-01-27"
 album = "STORY / 小野賢章 Disc 2 (DVD) [LAPD-1371]"
 tracks = [
-    [1, "STORY -Music Video-", "", ""],
+    [1, "STORY -Music Video-", "小野賢章", ""],
 ]
-links = ["https://vgmdb.net/album/55710"]
+links = ["https://beta.musicbrainz.org/release/dabae395-7e47-4f32-b7ad-bc8d96b1e212", "https://vgmdb.net/album/55710"]
 
 [12]
 catalognumber = "LACA-15723"
 date = "2018-04-25"
 album = "Lonely Queen's Liberation Party / TRUE"
 tracks = [
-    [1, "Lonely Queen's Liberation Party", "", ""],
-    [2, "Sincerely", "", ""],
-    [3, "次の僕へ", "", ""],
-    [4, "分身", "", ""],
-    [5, "終わりたい世界", "", ""],
-    [6, "BUTTERFLY EFFECTOR", "", ""],
-    [7, "JUMPIN'", "", ""],
-    [8, "Roadmap", "", ""],
-    [9, "フロム", "", ""],
-    [10, "酸素", "", ""],
-    [11, "耳恋ミュージック", "", ""],
-    [12, "サンドリヨン", "", ""],
-    [13, "パズル", "", ""],
-    [14, "Anchors Step", "", ""],
+    [1, "Lonely Queen’s Liberation Party", "TRUE", ""],
+    [2, "Sincerely", "TRUE", ""],
+    [3, "次の僕へ", "TRUE", ""],
+    [4, "分身", "TRUE", ""],
+    [5, "終わりたい世界", "TRUE", ""],
+    [6, "BUTTERFLY EFFECTOR", "TRUE", ""],
+    [7, "JUMPIN’", "TRUE", ""],
+    [8, "Roadmap", "TRUE", ""],
+    [9, "フロム", "TRUE", ""],
+    [10, "酸素", "TRUE", ""],
+    [11, "耳恋ミュージック", "TRUE", ""],
+    [12, "サンドリヨン", "TRUE", ""],
+    [13, "パズル", "TRUE", ""],
+    [14, "Anchors Step", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/74816"]
+links = ["https://beta.musicbrainz.org/release/ae771a0b-bcff-435e-b96b-4a06b2cedbe2", "https://vgmdb.net/album/74816"]
 
 [13]
 catalognumber = "LACA-35886"
 date = "2021-08-25"
 album = "コトバアソビ / TRUE [初回限定盤] Vocal"
 tracks = [
-    [1, "MUSIC", "", ""],
-    [2, "Blast!", "", ""],
-    [3, "Another colony", "", ""],
-    [4, "空に読む物語", "", ""],
-    [5, "inorganic", "", ""],
-    [6, "Acceleration", "", ""],
-    [7, "リブート!", "", ""],
-    [8, "叙情詩とロマンス", "", ""],
-    [9, "ステラ", "", ""],
-    [10, "僕の中の君へ", "", ""],
-    [11, "Storyteller", "", ""],
-    [12, "WILL", "", ""],
-    [13, "Sincerely (English version)", "", ""],
+    [1, "MUSIC", "TRUE", ""],
+    [2, "Blast!", "TRUE", ""],
+    [3, "Another colony", "TRUE", ""],
+    [4, "空に読む物語", "TRUE", ""],
+    [5, "inorganic", "TRUE", ""],
+    [6, "Acceleration", "TRUE", ""],
+    [7, "リブート!", "TRUE", ""],
+    [8, "叙情詩とロマンス", "TRUE", ""],
+    [9, "ステラ", "TRUE", ""],
+    [10, "僕の中の君へ", "TRUE", ""],
+    [11, "Storyteller", "TRUE", ""],
+    [12, "WILL", "TRUE", ""],
+    [13, "Sincerely (English version)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/112172"]
+links = ["https://beta.musicbrainz.org/release/ce3618a1-5c86-4ade-9655-6d371852f2d7", "https://vgmdb.net/album/112172"]
 
 [14]
 catalognumber = "LACA-35886"
@@ -240,78 +240,78 @@ catalognumber = "LACM-14422"
 date = "2016-01-27"
 album = "STORY / 小野賢章"
 tracks = [
-    [1, "STORY", "", ""],
-    [2, "Rainbow Road", "", ""],
-    [3, "STORY (Off Vocal)", "", ""],
-    [4, "Rainbow Road (Off Vocal)", "", ""],
+    [1, "STORY", "小野賢章", ""],
+    [2, "Rainbow Road", "小野賢章", ""],
+    [3, "STORY (Off Vocal)", "小野賢章", ""],
+    [4, "Rainbow Road (Off Vocal)", "小野賢章", ""],
 ]
-links = ["https://vgmdb.net/album/55709"]
+links = ["https://beta.musicbrainz.org/release/33dc040a-3feb-46d8-a840-672bd7329690", "https://vgmdb.net/album/55709"]
 
 [16]
 catalognumber = "LACA-9551"
 date = "2017-10-18"
 album = "TVアニメ『ひなろじ～from Luck & Logic～』オリジナルサウンドトラック Disc 1 [LACA-9551]"
 tracks = [
-    [1, "ひなろじ", "", ""],
-    [2, "BUTTERFLY EFFECTOR (TVサイズ)", "", ""],
-    [3, "ピラリ学園へようこそ", "", ""],
-    [4, "上を下への大騒ぎ", "", ""],
-    [5, "学園長の竪琴", "", ""],
-    [6, "フォーリナー", "", ""],
-    [7, "危険な暴走", "", ""],
-    [8, "あなたの力になりたい", "", ""],
-    [9, "ベルのテーマ", "", ""],
-    [10, "ロジカリストをめざして", "", ""],
-    [11, "トランス! 〜やよいver.〜", "", ""],
-    [12, "トランス! 〜まひろver.〜", "", ""],
-    [13, "手加減はなしよ!", "", ""],
-    [14, "汗と涙と友情と", "", ""],
-    [15, "白樺寮の休日", "", ""],
-    [16, "ごめんあそばせ", "", ""],
-    [17, "隣は何をする人ぞ", "", ""],
-    [18, "生徒会長のお出まし", "", ""],
-    [19, "トランス! 〜夕子ver.〜", "", ""],
-    [20, "愛の語らい", "", ""],
-    [21, "森と泉に囲まれて", "", ""],
-    [22, "心が触れ合うとき", "", ""],
-    [23, "流星に願いを", "", ""],
-    [24, "乙女たちの時間", "", ""],
-    [25, "ピラリ音頭", "", ""],
-    [26, "ひなろじエレジー", "", ""],
+    [1, "ひなろじ", "伊藤賢", ""],
+    [2, "BUTTERFLY EFFECTOR (TVサイズ)", "TRUE", ""],
+    [3, "ピラリ学園へようこそ", "伊藤賢", ""],
+    [4, "上を下への大騒ぎ", "伊藤賢", ""],
+    [5, "学園長の竪琴", "伊藤賢", ""],
+    [6, "フォーリナー", "伊藤賢", ""],
+    [7, "危険な暴走", "伊藤賢", ""],
+    [8, "あなたの力になりたい", "伊藤賢", ""],
+    [9, "ベルのテーマ", "伊藤賢", ""],
+    [10, "ロジカリストをめざして", "伊藤賢", ""],
+    [11, "トランス! 〜やよいver.〜", "伊藤賢", ""],
+    [12, "トランス! 〜まひろver.〜", "伊藤賢", ""],
+    [13, "手加減はなしよ!", "伊藤賢", ""],
+    [14, "汗と涙と友情と", "伊藤賢", ""],
+    [15, "白樺寮の休日", "伊藤賢", ""],
+    [16, "ごめんあそばせ", "伊藤賢", ""],
+    [17, "隣は何をする人ぞ", "伊藤賢", ""],
+    [18, "生徒会長のお出まし", "伊藤賢", ""],
+    [19, "トランス! 〜夕子ver.〜", "伊藤賢", ""],
+    [20, "愛の語らい", "伊藤賢", ""],
+    [21, "森と泉に囲まれて", "伊藤賢", ""],
+    [22, "心が触れ合うとき", "伊藤賢", ""],
+    [23, "流星に願いを", "伊藤賢", ""],
+    [24, "乙女たちの時間", "伊藤賢", ""],
+    [25, "ピラリ音頭", "伊藤賢", ""],
+    [26, "ひなろじエレジー", "伊藤賢", ""],
 ]
-links = ["https://vgmdb.net/album/69584"]
+links = ["https://beta.musicbrainz.org/release/51003efa-6ef4-4649-a908-fa45bb20d880", "https://vgmdb.net/album/69584"]
 
 [17]
 catalognumber = "LACA-9552"
 date = "2017-10-18"
 album = "TVアニメ『ひなろじ～from Luck & Logic～』オリジナルサウンドトラック Disc 2 [LACA-9552]"
 tracks = [
-    [1, "大草原の大きな学園", "", ""],
-    [2, "やるときはやるのよ", "", ""],
-    [3, "夢への扉を開けて", "", ""],
-    [4, "終わりよければすべてよし", "", ""],
-    [5, "まどろみの教室", "", ""],
-    [6, "とかくこの世はままならぬ", "", ""],
-    [7, "浮き浮き気分で行こう", "", ""],
-    [8, "気まずい空気", "", ""],
-    [9, "素直になれなくて", "", ""],
-    [10, "迷い道", "", ""],
-    [11, "緊迫の対峙", "", ""],
-    [12, "焦燥", "", ""],
-    [13, "トランス! 〜ニーナver.〜", "", ""],
-    [14, "白熱戦", "", ""],
-    [15, "胸を裂く悲しみ", "", ""],
-    [16, "迫りくる危機", "", ""],
-    [17, "盟約", "", ""],
-    [18, "トランス! 〜リオンver.〜", "", ""],
-    [19, "神秘の力", "", ""],
-    [20, "大切な人を守るため", "", ""],
-    [21, "ありがとうを伝えたい", "", ""],
-    [22, "学び舎をわたる風", "", ""],
-    [23, "いつか巣立つ日まで", "", ""],
-    [24, "ベィビィバード! 〜ガクエンロジック〜 (TVサイズ)", "", ""],
+    [1, "大草原の大きな学園", "伊藤賢", ""],
+    [2, "やるときはやるのよ", "伊藤賢", ""],
+    [3, "夢への扉を開けて", "伊藤賢", ""],
+    [4, "終わりよければすべてよし", "伊藤賢", ""],
+    [5, "まどろみの教室", "伊藤賢", ""],
+    [6, "とかくこの世はままならぬ", "伊藤賢", ""],
+    [7, "浮き浮き気分で行こう", "伊藤賢", ""],
+    [8, "気まずい空気", "伊藤賢", ""],
+    [9, "素直になれなくて", "伊藤賢", ""],
+    [10, "迷い道", "伊藤賢", ""],
+    [11, "緊迫の対峙", "伊藤賢", ""],
+    [12, "焦燥", "伊藤賢", ""],
+    [13, "トランス! 〜ニーナver.〜", "伊藤賢", ""],
+    [14, "白熱戦", "伊藤賢", ""],
+    [15, "胸を裂く悲しみ", "伊藤賢", ""],
+    [16, "迫りくる危機", "伊藤賢", ""],
+    [17, "盟約", "伊藤賢", ""],
+    [18, "トランス! 〜リオンver.〜", "伊藤賢", ""],
+    [19, "神秘の力", "伊藤賢", ""],
+    [20, "大切な人を守るため", "伊藤賢", ""],
+    [21, "ありがとうを伝えたい", "伊藤賢", ""],
+    [22, "学び舎をわたる風", "伊藤賢", ""],
+    [23, "いつか巣立つ日まで", "伊藤賢", ""],
+    [24, "ベィビィバード! 〜ガクエンロジック〜 (TVサイズ)", "リオネス・エリストラートヴァ(CV:朝日奈丸佳)、ニーナ・アレクサンドロヴナ(CV:山村響)、京橋万博(CV:高森奈津美)", ""],
 ]
-links = ["https://vgmdb.net/album/69584"]
+links = ["https://beta.musicbrainz.org/release/51003efa-6ef4-4649-a908-fa45bb20d880", "https://vgmdb.net/album/69584"]
 
 [18]
 catalognumber = "LACA-9446"
@@ -405,8 +405,8 @@ catalognumber = "LACM-14621"
 date = "2017-07-26"
 album = "BUTTERFLY EFFECTOR / TRUE"
 tracks = [
-    [1, "BUTTERFLY EFFECTOR", "", ""],
-    [2, "HANABI", "", ""],
-    [3, "BUTTERFLY EFFECTOR (off vocal)", "", ""],
+    [1, "BUTTERFLY EFFECTOR", "TRUE", ""],
+    [2, "HANABI", "TRUE", ""],
+    [3, "BUTTERFLY EFFECTOR (off vocal)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/68039"]
+links = ["https://beta.musicbrainz.org/release/50bbe05d-a2a3-46ca-9fb7-596bdf0f77a8", "https://vgmdb.net/album/68039"]

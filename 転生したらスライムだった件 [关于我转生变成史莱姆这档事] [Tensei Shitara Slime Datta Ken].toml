@@ -12,26 +12,26 @@ catalognumber = "LACM-14822"
 date = "2019-01-23"
 album = "リトルソルジャー / 田所あずさ [アニメ盤]"
 tracks = [
-    [1, "リトルソルジャー", "", ""],
-    [2, "スロウリグレット", "", ""],
-    [3, "リトルソルジャー (Off Vocal)", "", ""],
-    [4, "スロウリグレット (Off Vocal)", "", ""],
+    [1, "リトルソルジャー", "田所あずさ", ""],
+    [2, "スロウリグレット", "田所あずさ", ""],
+    [3, "リトルソルジャー (Off Vocal)", "田所あずさ", ""],
+    [4, "スロウリグレット (Off Vocal)", "田所あずさ", ""],
 ]
-links = ["https://vgmdb.net/album/82054"]
+links = ["https://beta.musicbrainz.org/release/a174374e-3722-4b32-89a9-ea4c3e8e83bb", "https://vgmdb.net/album/82054"]
 
 [3]
 catalognumber = "LACM-24066"
 date = "2021-01-13"
 album = "Storyteller / TRUE"
 tracks = [
-    [1, "Storyteller", "", ""],
-    [2, "黎明", "", ""],
-    [3, "memento", "", ""],
-    [4, "Storyteller (Instrumental)", "", ""],
-    [5, "黎明 (Instrumental)", "", ""],
-    [6, "memento (Instrumental)", "", ""],
+    [1, "Storyteller", "TRUE", ""],
+    [2, "黎明", "TRUE", ""],
+    [3, "memento", "TRUE", ""],
+    [4, "Storyteller (Instrumental)", "TRUE", ""],
+    [5, "黎明 (Instrumental)", "TRUE", ""],
+    [6, "memento (Instrumental)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/104784"]
+links = ["https://beta.musicbrainz.org/release/5679a332-2c2b-4a56-8b14-3e4b2907efe7", "https://vgmdb.net/album/104784"]
 
 [4]
 catalognumber = "332"
@@ -51,40 +51,40 @@ catalognumber = "LACA-35959"
 date = "2022-12-21"
 album = "My Journey / MindaRyn [初回限定盤] Vocal"
 tracks = [
-    [1, "My Journey", "", ""],
-    [2, "love my friends", "", ""],
-    [3, "Make Me Feel Better", "", ""],
-    [4, "kiss my cheek", "", ""],
-    [5, "Daylight", "", ""],
-    [6, "Like Flames", "", ""],
-    [7, "Another world", "", ""],
-    [8, "Be the one", "", ""],
-    [9, "BRAND NEW OLD", "", ""],
-    [10, "BLUE ROSE knows", "", ""],
-    [11, "Shine", "", ""],
-    [12, "My Evolution", "", ""],
+    [1, "My Journey", "MindaRyn", ""],
+    [2, "love my friends", "MindaRyn", ""],
+    [3, "Make Me Feel Better", "MindaRyn", ""],
+    [4, "kiss my cheek", "MindaRyn", ""],
+    [5, "Daylight", "MindaRyn", ""],
+    [6, "Like Flames", "MindaRyn", ""],
+    [7, "Another world", "MindaRyn", ""],
+    [8, "Be the one", "MindaRyn", ""],
+    [9, "BRAND NEW OLD", "MindaRyn", ""],
+    [10, "BLUE ROSE knows", "MindaRyn", ""],
+    [11, "Shine", "MindaRyn", ""],
+    [12, "My Evolution", "MindaRyn", ""],
 ]
-links = ["https://vgmdb.net/album/121797"]
+links = ["https://beta.musicbrainz.org/release/9f68ae42-33ee-4f1b-8d20-d8375ab8ae1a", "https://vgmdb.net/album/121797"]
 
 [6]
 catalognumber = "LACA-35959"
 date = "2022-12-21"
 album = "My Journey / MindaRyn [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "\"My Journey\" Lyric Video", "", ""],
-    [2, "\"love my friends\" Music Video", "", ""],
-    [3, "\"Make Me Feel Better\" Music Video", "", ""],
-    [4, "\"kiss my cheek\" Music Video", "", ""],
-    [5, "\"Daylight\" Music Video", "", ""],
-    [6, "\"Like Flames\" Music Video", "", ""],
-    [7, "\"Another world\" Music Video", "", ""],
-    [8, "\"Be the one\" Music Video", "", ""],
-    [9, "\"BRAND NEW OLD\" Music Video", "", ""],
-    [10, "\"BLUE ROSE knows\" Music Video", "", ""],
-    [11, "\"Shine\" Music Video", "", ""],
-    [12, "\"My Evolution\" Music Video", "", ""],
+    [1, "My Journey (Lyric Video)", "MindaRyn", ""],
+    [2, "love my friends (Music Video)", "MindaRyn", ""],
+    [3, "Make Me Feel Better (Music Video)", "MindaRyn", ""],
+    [4, "kiss my cheek (Music Video)", "MindaRyn", ""],
+    [5, "Daylight (Music Video)", "MindaRyn", ""],
+    [6, "Like Flames (Music Video)", "MindaRyn", ""],
+    [7, "Another world (Music Video)", "MindaRyn", ""],
+    [8, "Be the one (Music Video)", "MindaRyn", ""],
+    [9, "BRAND NEW OLD (Music Video)", "MindaRyn", ""],
+    [10, "BLUE ROSE knows (Music Video)", "MindaRyn", ""],
+    [11, "Shine (Music Video)", "MindaRyn", ""],
+    [12, "My Evolution (Music Video)", "MindaRyn", ""],
 ]
-links = ["https://vgmdb.net/album/121797"]
+links = ["https://beta.musicbrainz.org/release/9f68ae42-33ee-4f1b-8d20-d8375ab8ae1a", "https://vgmdb.net/album/121797"]
 
 [7]
 catalognumber = "BCXA-1613"
@@ -100,12 +100,12 @@ catalognumber = "LACM-24109"
 date = "2021-05-26"
 album = "カモナ・テンペスト!/おやすみオレンジ"
 tracks = [
-    [1, "カモナ・テンペスト!", "", ""],
-    [2, "おやすみオレンジ", "", ""],
-    [3, "カモナ・テンペスト! (Instrumental)", "", ""],
-    [4, "おやすみオレンジ (Instrumental)", "", ""],
+    [1, "カモナ・テンペスト!", "リムル(CV.岡咲美保)、大賢者(CV.豊口めぐみ)、ヴェルドラ(CV.前野智昭)、シュナ(CV.千本木彩花)、シオン(CV.M・A・O)、ランガ(CV.小林親弘)、ゴブタ(CV.泊 明日菜)", ""],
+    [2, "おやすみオレンジ", "リムル(CV.岡咲美保)", ""],
+    [3, "カモナ・テンペスト! (Instrumental)", "リムル(CV.岡咲美保)、大賢者(CV.豊口めぐみ)、ヴェルドラ(CV.前野智昭)、シュナ(CV.千本木彩花)、シオン(CV.M・A・O)、ランガ(CV.小林親弘)、ゴブタ(CV.泊 明日菜)", ""],
+    [4, "おやすみオレンジ (Instrumental)", "リムル(CV.岡咲美保)", ""],
 ]
-links = ["https://vgmdb.net/album/109763"]
+links = ["https://beta.musicbrainz.org/release/2f39d387-131f-45fa-ba45-a0d330a8b93a", "https://vgmdb.net/album/109763"]
 
 [9]
 catalognumber = "BCXA-1609"
@@ -121,59 +121,59 @@ catalognumber = "LACM-24098"
 date = "2021-04-21"
 album = "Brand new diary/まほうのかぜ / 熊田茜音 [スーパーカブ盤]"
 tracks = [
-    [1, "まほうのかぜ", "", ""],
-    [2, "Brand new diary", "", ""],
-    [3, "まほうのかぜ (TV size)", "", ""],
+    [1, "まほうのかぜ", "熊田茜音", ""],
+    [2, "Brand new diary", "熊田茜音", ""],
+    [3, "まほうのかぜ (TV size)", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/108938"]
+links = ["https://beta.musicbrainz.org/release/93c1eedc-f5c3-46dd-9c00-2164e72a8bf4", "https://vgmdb.net/album/108938"]
 
 [11]
 catalognumber = "LACA-15816"
 date = "2020-03-25"
 album = "ASSEMBLE / 寺島拓篤 Vocal"
 tracks = [
-    [1, "overture IV [INST]", "", ""],
-    [2, "UNBREAKABLE", "", ""],
-    [3, "Buddy,steady,go!", "", ""],
-    [4, "カクシンボ", "", ""],
-    [5, "ハートチューニング", "", ""],
-    [6, "interlude IV [INST]", "", ""],
-    [7, "Nameless Story", "", ""],
-    [8, "ID", "", ""],
-    [9, "光の在処", "", ""],
-    [10, "深海より", "", ""],
-    [11, "メグルモノ", "", ""],
-    [12, "僕らの奇跡", "", ""],
+    [1, "overture Ⅳ (INST)", "寺島拓篤", ""],
+    [2, "UNBREAKABLE", "寺島拓篤", ""],
+    [3, "Buddy, steady, go!", "寺島拓篤", ""],
+    [4, "カクシンボ", "寺島拓篤", ""],
+    [5, "ハートチューニング", "寺島拓篤", ""],
+    [6, "interlude Ⅳ (INST)", "寺島拓篤", ""],
+    [7, "Nameless Story", "寺島拓篤", ""],
+    [8, "ID", "寺島拓篤", ""],
+    [9, "光の在処", "寺島拓篤", ""],
+    [10, "深海より", "寺島拓篤", ""],
+    [11, "メグルモノ", "寺島拓篤", ""],
+    [12, "僕らの奇跡", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/93697"]
+links = ["https://beta.musicbrainz.org/release/b660f6df-2345-4334-84f2-06f52c51a1c5", "https://vgmdb.net/album/93697"]
 
 [12]
 catalognumber = "LACA-15816"
 date = "2020-03-25"
 album = "ASSEMBLE / 寺島拓篤 Vocal, Video"
 tracks = [
-    [1, "UNBREAKABLE [Music Clip]", "", ""],
-    [2, "ID [Music Clip]", "", ""],
-    [3, "Nameless Story [Music Clip]", "", ""],
-    [4, "メグルモノ [Music Clip]", "", ""],
-    [5, "Buddy,steady,go! [Music Clip]", "", ""],
-    [6, "Making of 「UNBREAKABLE」", "", ""],
+    [1, "UNBREAKABLE [Music Clip]", "寺島拓篤", ""],
+    [2, "ID [Music Clip]", "寺島拓篤", ""],
+    [3, "Nameless Story [Music Clip]", "寺島拓篤", ""],
+    [4, "メグルモノ [Music Clip]", "寺島拓篤", ""],
+    [5, "Buddy, steady, go! [Music Clip]", "寺島拓篤", ""],
+    [6, "Making of 「UNBREAKABLE」", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/93697"]
+links = ["https://beta.musicbrainz.org/release/b660f6df-2345-4334-84f2-06f52c51a1c5", "https://vgmdb.net/album/93697"]
 
 [13]
 catalognumber = "LACM-14838"
 date = "2019-02-27"
 album = "メグルモノ / 寺島拓篤"
 tracks = [
-    [1, "メグルモノ", "", ""],
-    [2, "あしおとマーチング", "", ""],
-    [3, "SE", "", ""],
-    [4, "メグルモノ (Instrumental)", "", ""],
-    [5, "あしおとマーチング (Instrumental)", "", ""],
-    [6, "SE (Instrumental)", "", ""],
+    [1, "メグルモノ", "寺島拓篤", ""],
+    [2, "あしおとマーチング", "寺島拓篤", ""],
+    [3, "SE", "寺島拓篤", ""],
+    [4, "メグルモノ (Instrumental)", "寺島拓篤", ""],
+    [5, "あしおとマーチング (Instrumental)", "寺島拓篤", ""],
+    [6, "SE (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/82052"]
+links = ["https://beta.musicbrainz.org/release/afaea8b3-5ee0-41e6-9bd6-59876422130f", "https://vgmdb.net/album/82052"]
 
 [14]
 catalognumber = "LACM-14797"
@@ -199,406 +199,406 @@ catalognumber = "LACM-24608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アーティスト盤] Vocal"
 tracks = [
-    [1, "フローズン", "", ""],
-    [2, "S.O.S", "", ""],
-    [3, "フローズン (Instrumental)", "", ""],
-    [4, "S.O.S (Instrumental)", "", ""],
+    [1, "フローズン", "TRUE", ""],
+    [2, "S.O.S", "TRUE", ""],
+    [3, "フローズン (Instrumental)", "TRUE", ""],
+    [4, "S.O.S (Instrumental)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/143910"]
+links = ["https://beta.musicbrainz.org/release/79e68593-24fa-4769-b6ac-f061583493cb", "https://vgmdb.net/album/143910"]
 
 [17]
 catalognumber = "LACM-24608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アーティスト盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "Acceleration", "", ""],
-    [2, "リブート!", "", ""],
-    [3, "Dear answer", "", ""],
-    [4, "inorganic", "", ""],
-    [5, "空に読む物語", "", ""],
-    [6, "酸素", "", ""],
-    [7, "叙情詩とロマンス", "", ""],
-    [8, "WILL", "", ""],
-    [9, "Sincerely", "", ""],
-    [10, "Lonely Queen's Liberation Party", "", ""],
-    [11, "Blast!", "", ""],
-    [12, "分身", "", ""],
-    [13, "Another colony", "", ""],
-    [14, "カレイドスコープ", "", ""],
-    [15, "MUSIC", "", ""],
-    [16, "Storyteller -アンコール-", "", ""],
-    [17, "Happy encount -アンコール-", "", ""],
-    [18, "DREAM SOLISTER -アンコール-", "", ""],
+    [1, "Acceleration", "TRUE", ""],
+    [2, "リブート!", "TRUE", ""],
+    [3, "Dear answer", "TRUE", ""],
+    [4, "inorganic", "TRUE", ""],
+    [5, "空に読む物語", "TRUE", ""],
+    [6, "酸素", "TRUE", ""],
+    [7, "叙情詩とロマンス", "TRUE", ""],
+    [8, "WILL", "TRUE", ""],
+    [9, "Sincerely", "TRUE", ""],
+    [10, "Lonely Queen's Liberation Party", "TRUE", ""],
+    [11, "Blast!", "TRUE", ""],
+    [12, "分身", "TRUE", ""],
+    [13, "Another colony", "TRUE", ""],
+    [14, "カレイドスコープ", "TRUE", ""],
+    [15, "MUSIC", "TRUE", ""],
+    [16, "Storyteller -アンコール-", "TRUE", ""],
+    [17, "Happy encount -アンコール-", "TRUE", ""],
+    [18, "DREAM SOLISTER -アンコール-", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/143910"]
+links = ["https://beta.musicbrainz.org/release/79e68593-24fa-4769-b6ac-f061583493cb", "https://vgmdb.net/album/143910"]
 
 [18]
 catalognumber = "LACA-15959"
 date = "2022-12-21"
 album = "My Journey / MindaRyn"
 tracks = [
-    [1, "My Journey", "", ""],
-    [2, "love my friends", "", ""],
-    [3, "Make Me Feel Better", "", ""],
-    [4, "kiss my cheek", "", ""],
-    [5, "Daylight", "", ""],
-    [6, "Like Flames", "", ""],
-    [7, "Another world", "", ""],
-    [8, "Be the one", "", ""],
-    [9, "BRAND NEW OLD", "", ""],
-    [10, "BLUE ROSE knows", "", ""],
-    [11, "Shine", "", ""],
-    [12, "My Evolution", "", ""],
+    [1, "My Journey", "MindaRyn", ""],
+    [2, "love my friends", "MindaRyn", ""],
+    [3, "Make Me Feel Better", "MindaRyn", ""],
+    [4, "kiss my cheek", "MindaRyn", ""],
+    [5, "Daylight", "MindaRyn", ""],
+    [6, "Like Flames", "MindaRyn", ""],
+    [7, "Another world", "MindaRyn", ""],
+    [8, "Be the one", "MindaRyn", ""],
+    [9, "BRAND NEW OLD", "MindaRyn", ""],
+    [10, "BLUE ROSE knows", "MindaRyn", ""],
+    [11, "Shine", "MindaRyn", ""],
+    [12, "My Evolution", "MindaRyn", ""],
 ]
-links = ["https://vgmdb.net/album/121796"]
+links = ["https://beta.musicbrainz.org/release/f63857e2-b278-4cdb-9c34-63c69b9206bd", "https://vgmdb.net/album/121796"]
 
 [19]
 catalognumber = "LACM-24139"
 date = "2021-08-25"
 album = "Like Flames / MindaRyn"
 tracks = [
-    [1, "Like Flames", "", ""],
-    [2, "YOU and I", "", ""],
-    [3, "Little Soldier (English Version)", "", ""],
+    [1, "Like Flames", "MindaRyn", ""],
+    [2, "YOU and I", "MindaRyn", ""],
+    [3, "Little Soldier (English Version)", "MindaRyn", ""],
 ]
-links = ["https://vgmdb.net/album/111570"]
+links = ["https://beta.musicbrainz.org/release/bf5a37b2-0faa-4140-8d7a-80d69ad40ec7", "https://vgmdb.net/album/111570"]
 
 [20]
 catalognumber = "LACA-9669"
 date = "2019-03-20"
 album = "転生したら音楽(サントラ)だった件 Original Soundtrack"
 tracks = [
-    [1, "転生", "", ""],
-    [2, "決心", "", ""],
-    [3, "繁栄", "", ""],
-    [4, "雑談", "", ""],
-    [5, "有意義", "", ""],
-    [6, "楽勝", "", ""],
-    [7, "悠然", "", ""],
-    [8, "休息", "", ""],
-    [9, "魔王", "", ""],
-    [10, "誘惑", "", ""],
-    [11, "陰謀", "", ""],
-    [12, "好意", "", ""],
-    [13, "悲愴", "", ""],
-    [14, "愁傷", "", ""],
-    [15, "内密", "", ""],
-    [16, "作戦", "", ""],
-    [17, "対峙", "", ""],
-    [18, "鼓動", "", ""],
-    [19, "軍閥", "", ""],
-    [20, "圧倒", "", ""],
-    [21, "戦闘", "", ""],
-    [22, "急襲", "", ""],
-    [23, "進化", "", ""],
-    [24, "新生", "", ""],
-    [25, "効率", "", ""],
-    [26, "冗談", "", ""],
-    [27, "Nameless story (Blue mix)", "", ""],
-    [28, "Another colony (Tender mix)", "", ""],
+    [1, "転生", "上松範康", ""],
+    [2, "決心", "藤間仁", ""],
+    [3, "繁栄", "藤間仁", ""],
+    [4, "雑談", "藤間仁", ""],
+    [5, "有意義", "藤間仁", ""],
+    [6, "楽勝", "藤間仁", ""],
+    [7, "悠然", "藤間仁", ""],
+    [8, "休息", "藤間仁", ""],
+    [9, "魔王", "藤間仁", ""],
+    [10, "誘惑", "藤間仁", ""],
+    [11, "陰謀", "藤間仁", ""],
+    [12, "好意", "藤間仁", ""],
+    [13, "悲愴", "藤間仁", ""],
+    [14, "愁傷", "藤間仁", ""],
+    [15, "内密", "藤間仁", ""],
+    [16, "作戦", "藤間仁", ""],
+    [17, "対峙", "藤間仁", ""],
+    [18, "鼓動", "藤間仁", ""],
+    [19, "軍閥", "藤間仁", ""],
+    [20, "圧倒", "藤間仁", ""],
+    [21, "戦闘", "藤間仁", ""],
+    [22, "急襲", "藤間仁", ""],
+    [23, "進化", "藤間仁", ""],
+    [24, "新生", "藤間仁", ""],
+    [25, "効率", "藤間仁", ""],
+    [26, "冗談", "藤間仁", ""],
+    [27, "Nameless story (Blue mix)", "藤間仁", ""],
+    [28, "Another colony (Tender mix)", "藤間仁", ""],
 ]
-links = ["https://vgmdb.net/album/82562"]
+links = ["https://beta.musicbrainz.org/release/45d88bb3-adc0-43fb-b31e-320f1defc7cc", "https://vgmdb.net/album/82562"]
 
 [21]
 catalognumber = "LACA-9670"
 date = "2019-03-20"
 album = "転生したら音楽(サントラ)だった件 Original Soundtrack, Vocal"
 tracks = [
-    [1, "退屈", "", ""],
-    [2, "宴会", "", ""],
-    [3, "不思議", "", ""],
-    [4, "呆気", "", ""],
-    [5, "揶揄", "", ""],
-    [6, "高揚感", "", ""],
-    [7, "道化", "", ""],
-    [8, "浮足", "", ""],
-    [9, "平穏", "", ""],
-    [10, "信頼", "", ""],
-    [11, "孤独", "", ""],
-    [12, "辛辣", "", ""],
-    [13, "神秘", "", ""],
-    [14, "深刻", "", ""],
-    [15, "飄々", "", ""],
-    [16, "思考", "", ""],
-    [17, "凄惨", "", ""],
-    [18, "魅惑", "", ""],
-    [19, "残忍", "", ""],
-    [20, "畏怖", "", ""],
-    [21, "王国", "", ""],
-    [22, "疾走", "", ""],
-    [23, "闘争", "", ""],
-    [24, "謎", "", ""],
-    [25, "威厳", "", ""],
-    [26, "劣勢", "", ""],
-    [27, "決闘", "", ""],
-    [28, "優勢", "", ""],
-    [29, "最盛期", "", ""],
-    [30, "自由", "", ""],
-    [31, "僕の中の君へ", "", ""],
+    [1, "退屈", "藤間仁", ""],
+    [2, "宴会", "藤間仁", ""],
+    [3, "不思議", "藤間仁", ""],
+    [4, "呆気", "藤間仁", ""],
+    [5, "揶揄", "藤間仁", ""],
+    [6, "高揚感", "藤間仁", ""],
+    [7, "道化", "藤間仁", ""],
+    [8, "浮足", "藤間仁", ""],
+    [9, "平穏", "藤間仁", ""],
+    [10, "信頼", "藤間仁", ""],
+    [11, "孤独", "藤間仁", ""],
+    [12, "辛辣", "藤間仁", ""],
+    [13, "神秘", "藤間仁", ""],
+    [14, "深刻", "藤間仁", ""],
+    [15, "飄々", "藤間仁", ""],
+    [16, "思考", "藤間仁", ""],
+    [17, "凄惨", "藤間仁", ""],
+    [18, "魅惑", "藤間仁", ""],
+    [19, "残忍", "藤間仁", ""],
+    [20, "畏怖", "藤間仁", ""],
+    [21, "王国", "藤間仁", ""],
+    [22, "疾走", "藤間仁", ""],
+    [23, "闘争", "藤間仁", ""],
+    [24, "謎", "藤間仁", ""],
+    [25, "威厳", "藤間仁", ""],
+    [26, "劣勢", "藤間仁", ""],
+    [27, "決闘", "藤間仁", ""],
+    [28, "優勢", "藤間仁", ""],
+    [29, "最盛期", "藤間仁", ""],
+    [30, "自由", "上松範康", ""],
+    [31, "僕の中の君へ", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/82562"]
+links = ["https://beta.musicbrainz.org/release/45d88bb3-adc0-43fb-b31e-320f1defc7cc", "https://vgmdb.net/album/82562"]
 
 [22]
 catalognumber = "LACA-15897"
 date = "2021-09-29"
 album = "TVアニメ 転生したらスライムだった件 転生したら音楽だった件2"
 tracks = [
-    [1, "ありふれた街並み", "", ""],
-    [2, "穏やかな風", "", ""],
-    [3, "荘厳", "", ""],
-    [4, "いつもの感じで", "", ""],
-    [5, "謀略", "", ""],
-    [6, "ちょっと一息", "", ""],
-    [7, "忠誠", "", ""],
-    [8, "暗躍", "", ""],
-    [9, "魔界の一幕", "", ""],
-    [10, "焦燥", "", ""],
-    [11, "強敵出現!", "", ""],
-    [12, "惨状", "", ""],
-    [13, "ロゴス", "", ""],
-    [14, "作戦会議", "", ""],
-    [15, "狂気", "", ""],
-    [16, "原始の声", "", ""],
-    [17, "奮起", "", ""],
-    [18, "逆襲", "", ""],
-    [19, "一進一退", "", ""],
-    [20, "急変", "", ""],
-    [21, "憤怒", "", ""],
-    [22, "混戦", "", ""],
-    [23, "別れ", "", ""],
-    [24, "覚悟", "", ""],
-    [25, "悲哀", "", ""],
-    [26, "これから", "", ""],
-    [27, "Nameless Story [TV size]", "", ""],
-    [28, "Another colony [TV size]", "", ""],
-    [29, "メグルモノ [TV size]", "", ""],
-    [30, "リトルソルジャー [TV size]", "", ""],
-    [31, "Storyteller [TV size]", "", ""],
-    [32, "STORYSEEKER [TV size]", "", ""],
-    [33, "Like Flames [TV size]", "", ""],
-    [34, "Reincarnate [TV size]", "", ""],
+    [1, "ありふれた街並み", "藤間仁", ""],
+    [2, "穏やかな風", "藤間仁", ""],
+    [3, "荘厳", "藤間仁", ""],
+    [4, "いつもの感じで", "藤間仁", ""],
+    [5, "謀略", "藤間仁", ""],
+    [6, "ちょっと一息", "藤間仁", ""],
+    [7, "忠誠", "藤間仁", ""],
+    [8, "暗躍", "藤間仁", ""],
+    [9, "魔界の一幕", "藤間仁", ""],
+    [10, "焦燥", "藤間仁", ""],
+    [11, "強敵出現!", "藤間仁", ""],
+    [12, "惨状", "藤間仁", ""],
+    [13, "ロゴス", "藤間仁", ""],
+    [14, "作戦会議", "藤間仁", ""],
+    [15, "狂気", "藤間仁", ""],
+    [16, "原始の声", "藤間仁", ""],
+    [17, "奮起", "藤間仁", ""],
+    [18, "逆襲", "藤間仁", ""],
+    [19, "一進一退", "藤間仁", ""],
+    [20, "急変", "藤間仁", ""],
+    [21, "憤怒", "藤間仁", ""],
+    [22, "混戦", "藤間仁", ""],
+    [23, "別れ", "藤間仁", ""],
+    [24, "覚悟", "藤間仁", ""],
+    [25, "悲哀", "藤間仁", ""],
+    [26, "これから", "藤間仁", ""],
+    [27, "Nameless Story (TV size)", "寺島拓篤", ""],
+    [28, "Another colony (TV size)", "TRUE", ""],
+    [29, "メグルモノ (TV size)", "寺島拓篤", ""],
+    [30, "リトルソルジャー (TV size)", "田所あずさ", ""],
+    [31, "Storyteller (TV size)", "TRUE", ""],
+    [32, "STORYSEEKER (TV size)", "STEREO DIVE FOUNDATION", ""],
+    [33, "Like Flames (TV size)", "MindaRyn", ""],
+    [34, "Reincarnate (TV size)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/112930"]
+links = ["https://beta.musicbrainz.org/release/bacf7be5-27de-4512-9eb8-43e6e1e186bd", "https://vgmdb.net/album/112930"]
 
 [23]
 catalognumber = "LACA-35937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION [初回限定盤] Vocal"
 tracks = [
-    [1, "#02", "", ""],
-    [2, "ALPHA", "", ""],
-    [3, "Neon Soda", "", ""],
-    [4, "OMEGA", "", ""],
-    [5, "Carry on", "", ""],
-    [6, "TRISTAR", "", ""],
-    [7, "Count to three", "", ""],
-    [8, "STORYSEEKER", "", ""],
-    [9, "Session", "", ""],
-    [10, "Chronos", "", ""],
-    [11, "Pianissimo", "", ""],
-    [12, "JAY", "", ""],
+    [1, "#02", "STEREO DIVE FOUNDATION", ""],
+    [2, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [3, "Neon Soda", "STEREO DIVE FOUNDATION", ""],
+    [4, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [5, "Carry on", "STEREO DIVE FOUNDATION", ""],
+    [6, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
+    [7, "Count to three", "STEREO DIVE FOUNDATION", ""],
+    [8, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [9, "Session", "STEREO DIVE FOUNDATION", ""],
+    [10, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [11, "Pianissimo", "STEREO DIVE FOUNDATION", ""],
+    [12, "JAY", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117646"]
+links = ["https://beta.musicbrainz.org/release/1b78b639-1ff9-4319-b5a1-5d669035f497", "https://vgmdb.net/album/117646"]
 
 [24]
 catalognumber = "LACA-35937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "Daisy", "", ""],
-    [2, "AXIS", "", ""],
-    [3, "Renegade", "", ""],
-    [4, "Genesis", "", ""],
-    [5, "Chronos", "", ""],
-    [6, "PULSE", "", ""],
-    [7, "Session", "", ""],
-    [8, "ALPHA", "", ""],
-    [9, "STORYSEEKER", "", ""],
-    [10, "OMEGA", "", ""],
-    [11, "TRISTAR", "", ""],
+    [1, "Daisy", "STEREO DIVE FOUNDATION", ""],
+    [2, "AXIS", "STEREO DIVE FOUNDATION", ""],
+    [3, "Renegade", "STEREO DIVE FOUNDATION", ""],
+    [4, "Genesis", "STEREO DIVE FOUNDATION", ""],
+    [5, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [6, "PULSE", "STEREO DIVE FOUNDATION", ""],
+    [7, "Session", "STEREO DIVE FOUNDATION", ""],
+    [8, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [9, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [10, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [11, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117646"]
+links = ["https://beta.musicbrainz.org/release/1b78b639-1ff9-4319-b5a1-5d669035f497", "https://vgmdb.net/album/117646"]
 
 [25]
 catalognumber = "LACM-24096"
 date = "2021-04-21"
 album = "Brand new diary/まほうのかぜ / 熊田茜音 [アーティスト盤] Vocal"
 tracks = [
-    [1, "Brand new diary", "", ""],
-    [2, "まほうのかぜ", "", ""],
-    [3, "Brand new diary (Instrumental)", "", ""],
-    [4, "まほうのかぜ (Instrumental)", "", ""],
+    [1, "Brand new diary", "熊田茜音", ""],
+    [2, "まほうのかぜ", "熊田茜音", ""],
+    [3, "Brand new diary (Instrumental)", "熊田茜音", ""],
+    [4, "まほうのかぜ (Instrumental)", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/108939"]
+links = ["https://beta.musicbrainz.org/release/386d1d19-d5c1-430e-8eb2-a93826b9a938", "https://vgmdb.net/album/108939"]
 
 [26]
 catalognumber = "LACM-24096"
 date = "2021-04-21"
 album = "Brand new diary/まほうのかぜ / 熊田茜音 [アーティスト盤] Vocal, Video"
 tracks = [
-    [1, "Brand new diary (Music Clip)", "", ""],
-    [2, "Making of Brand new diary", "", ""],
-    [3, "まほうのかぜ (Music Clip)", "", ""],
-    [4, "Making of まほうのかぜ", "", ""],
+    [1, "Brand new diary (Music Clip)", "熊田茜音", ""],
+    [2, "Making of Brand new diary", "熊田茜音", ""],
+    [3, "まほうのかぜ (Music Clip)", "熊田茜音", ""],
+    [4, "Making of まほうのかぜ", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/108939"]
+links = ["https://beta.musicbrainz.org/release/f9a9c04b-0221-4cd6-961f-e942b55de4aa", "https://vgmdb.net/album/108939"]
 
 [27]
 catalognumber = "LAPP-1141"
 date = "2022-12-21"
 album = "MindaRyn 1st Album \"My Journey\" Bonus CD"
 tracks = [
-    [1, "BLUE ROSE knows (English Version)", "", ""],
-    [2, "Like Flames (English Version)", "", ""],
+    [1, "BLUE ROSE knows (English Version)", "MindaRyn", ""],
+    [2, "Like Flames (English Version)", "MindaRyn", ""],
 ]
-links = ["https://vgmdb.net/album/121817"]
+links = ["https://beta.musicbrainz.org/release/37153254-6ede-43c4-9936-f4b377bc91bc", "https://vgmdb.net/album/121817"]
 
 [28]
 catalognumber = "LACM-34838"
 date = "2019-02-27"
 album = "メグルモノ / 寺島拓篤 [初回限定盤] Disc 1 (CD) [LACM-34838]"
 tracks = [
-    [1, "メグルモノ", "", ""],
-    [2, "あしおとマーチング", "", ""],
-    [3, "SE", "", ""],
-    [4, "メグルモノ (Instrumental)", "", ""],
-    [5, "あしおとマーチング (Instrumental)", "", ""],
-    [6, "SE (Instrumental)", "", ""],
+    [1, "メグルモノ", "寺島拓篤", ""],
+    [2, "あしおとマーチング", "寺島拓篤", ""],
+    [3, "SE", "寺島拓篤", ""],
+    [4, "メグルモノ (Instrumental)", "寺島拓篤", ""],
+    [5, "あしおとマーチング (Instrumental)", "寺島拓篤", ""],
+    [6, "SE (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/82053"]
+links = ["https://beta.musicbrainz.org/release/fb417024-ba2f-4826-8ae0-ce0933e623d4", "https://vgmdb.net/album/82053"]
 
 [29]
 catalognumber = "LACM-34838"
 date = "2019-02-27"
 album = "メグルモノ / 寺島拓篤 [初回限定盤] Disc 2 (DVD) [LAPD-1525]"
 tracks = [
-    [1, "メグルモノ (Music Clip)", "", ""],
+    [1, "メグルモノ (Music Clip)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/82053"]
+links = ["https://beta.musicbrainz.org/release/fb417024-ba2f-4826-8ae0-ce0933e623d4", "https://vgmdb.net/album/82053"]
 
 [30]
 catalognumber = "BRMM-10659"
 date = "2023-07-12"
 album = "D4DJ Groovy Mix カバートラックス vol.8"
 tracks = [
-    [1, "ヒャダインのじょーじょーゆーじょー", "", ""],
-    [2, "Sparkling Daydream", "", ""],
-    [3, "BLACK SHOUT", "", ""],
-    [4, "Storyteller", "", ""],
-    [5, "99 ILLUSION！", "", ""],
-    [6, "This game", "", ""],
-    [7, "Timing", "", ""],
-    [8, "GO!!!", "", ""],
-    [9, "KiLLiNG ME", "", ""],
-    [10, "奏（かなで）", "", ""],
-    [11, "にゃんだーわんだーデイズ", "", ""],
-    [12, "撲殺天使ドクロちゃん", "", ""],
-    [13, "INTERNET OVERDOSE", "", ""],
-    [14, "回レ!雪月花", "", ""],
-    [15, "怪物", "", ""],
-    [16, "Red fraction", "", ""],
+    [1, "ヒャダインのじょーじょーゆーじょー", "Happy Around!", ""],
+    [2, "Sparkling Daydream", "Happy Around!", ""],
+    [3, "BLACK SHOUT", "Peaky P-key", ""],
+    [4, "Storyteller", "Peaky P-key", ""],
+    [5, "99 ILLUSION！", "Photon Maiden", ""],
+    [6, "This game", "Photon Maiden", ""],
+    [7, "Timing", "Merm4id", ""],
+    [8, "GO!!!", "Merm4id", ""],
+    [9, "KiLLiNG ME", "燐舞曲", ""],
+    [10, "奏（かなで）", "燐舞曲", ""],
+    [11, "にゃんだーわんだーデイズ", "Lyrical Lily", ""],
+    [12, "撲殺天使ドクロちゃん", "Lyrical Lily", ""],
+    [13, "INTERNET OVERDOSE", "UniChØrd", ""],
+    [14, "回レ!雪月花", "UniChØrd", ""],
+    [15, "怪物", "Abyssmare", ""],
+    [16, "Red fraction", "Abyssmare", ""],
 ]
-links = ["https://vgmdb.net/album/130504"]
+links = ["https://beta.musicbrainz.org/release/b44fe389-58f4-4537-907b-2050a9167524", "https://vgmdb.net/album/130504"]
 
 [31]
 catalognumber = "LACM-14798"
 date = "2018-10-17"
 album = "Nameless story / 寺島拓篤"
 tracks = [
-    [1, "Nameless Story", "", ""],
-    [2, "みんなで H ! P ! Y !", "", ""],
-    [3, "calm", "", ""],
-    [4, "Nameless Story (Instrumental)", "", ""],
-    [5, "みんなで H ! P ! Y ! (Instrumental)", "", ""],
-    [6, "calm (Instrumental)", "", ""],
+    [1, "Nameless Story", "寺島拓篤", ""],
+    [2, "みんなで H!P!Y!", "寺島拓篤", ""],
+    [3, "calm", "寺島拓篤", ""],
+    [4, "Nameless Story (Instrumental)", "寺島拓篤", ""],
+    [5, "みんなで H ! P ! Y ! (Instrumental)", "寺島拓篤", ""],
+    [6, "calm (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/78648"]
+links = ["https://beta.musicbrainz.org/release/92ac49c8-4e11-4eb0-b45c-7a22f2573824", "https://vgmdb.net/album/78648"]
 
 [32]
 catalognumber = "LACM-34608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アニメ盤]"
 tracks = [
-    [1, "フローズン", "", ""],
-    [2, "S.O.S", "", ""],
-    [3, "フローズン (TV size)", "", ""],
-    [4, "S.O.S (GAME size)", "", ""],
+    [1, "フローズン", "TRUE", ""],
+    [2, "S.O.S", "TRUE", ""],
+    [3, "フローズン (TV size)", "TRUE", ""],
+    [4, "S.O.S (GAME size)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/143905"]
+links = ["https://beta.musicbrainz.org/release/70f2f461-281c-4f6e-974c-2cb6adeff742", "https://vgmdb.net/album/143905"]
 
 [33]
 catalognumber = "LACA-9892"
 date = "2022-05-11"
 album = "LAYERING / 寺島拓篤 Disc 1 [LACA-9892]"
 tracks = [
-    [1, "Architect", "", ""],
-    [2, "magic words", "", ""],
-    [3, "スターテイル", "", ""],
-    [4, "SCARLET SIGN", "", ""],
-    [5, "Prismatic World", "", ""],
-    [6, "INNER STAR", "", ""],
-    [7, "0+1", "", ""],
-    [8, "sunlight avenue", "", ""],
-    [9, "evolve", "", ""],
-    [10, "ID", "", ""],
-    [11, "Nameless Story", "", ""],
-    [12, "メグルモノ", "", ""],
-    [13, "Buddy,steady,go!", "", ""],
-    [14, "UNBREAKABLE", "", ""],
-    [15, "Reincarnate", "", ""],
-    [16, "GRATEFUL LAYERS", "", ""],
+    [1, "Architect", "寺島拓篤", ""],
+    [2, "magic words", "寺島拓篤", ""],
+    [3, "スターテイル", "寺島拓篤", ""],
+    [4, "SCARLET SIGN", "寺島拓篤", ""],
+    [5, "Prismatic World", "寺島拓篤", ""],
+    [6, "INNER STAR", "寺島拓篤", ""],
+    [7, "0+1", "寺島拓篤", ""],
+    [8, "sunlight avenue", "寺島拓篤", ""],
+    [9, "evolve", "寺島拓篤", ""],
+    [10, "ID", "寺島拓篤", ""],
+    [11, "Nameless Story", "寺島拓篤", ""],
+    [12, "メグルモノ", "寺島拓篤", ""],
+    [13, "Buddy, steady, go!", "寺島拓篤", ""],
+    [14, "UNBREAKABLE", "寺島拓篤", ""],
+    [15, "Reincarnate", "寺島拓篤", ""],
+    [16, "GRATEFUL LAYERS", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/116986"]
+links = ["https://beta.musicbrainz.org/release/e2650fa6-69cd-467c-bbd3-35d1e814df82", "https://vgmdb.net/album/116986"]
 
 [34]
 catalognumber = "LACA-9893"
 date = "2022-05-11"
 album = "LAYERING / 寺島拓篤 Disc 2 [LACA-9893]"
 tracks = [
-    [1, "ファントムライツ", "", ""],
-    [2, "MONSTER", "", ""],
-    [3, "HERO", "", ""],
-    [4, "ビビッドナイトフィーバー!", "", ""],
-    [5, "JUMBLE TOWN", "", ""],
-    [6, "Special Day", "", ""],
-    [7, "あいのうた", "", ""],
-    [8, "君の季節", "", ""],
-    [9, "光の在処", "", ""],
-    [10, "WHAT A WONDERFUL WORLD!", "", ""],
+    [1, "ファントムライツ", "寺島拓篤", ""],
+    [2, "MONSTER", "寺島拓篤", ""],
+    [3, "HERO", "寺島拓篤", ""],
+    [4, "ビビッドナイトフィーバー！", "寺島拓篤", ""],
+    [5, "JUMBLE TOWN", "寺島拓篤", ""],
+    [6, "Special Day", "寺島拓篤", ""],
+    [7, "あいのうた", "寺島拓篤", ""],
+    [8, "君の季節", "寺島拓篤", ""],
+    [9, "光の在処", "寺島拓篤", ""],
+    [10, "WHAT A WONDERFUL WORLD!", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/116986"]
+links = ["https://beta.musicbrainz.org/release/e2650fa6-69cd-467c-bbd3-35d1e814df82", "https://vgmdb.net/album/116986"]
 
 [35]
 catalognumber = "LACM-24082"
 date = "2021-02-24"
 album = "STORYSEEKER / STEREO DIVE FOUNDATION [アニメ盤]"
 tracks = [
-    [1, "STORYSEEKER", "", ""],
-    [2, "Indigo & Tangerine -Rimuru ver.-", "", ""],
-    [3, "STORYSEEKER (TV size)", "", ""],
+    [1, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [2, "Indigo & Tangerine -Rimuru ver.-", "STEREO DIVE FOUNDATION feat. リムル (CV.岡咲美保)", ""],
+    [3, "STORYSEEKER (TV size)", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/107131"]
+links = ["https://beta.musicbrainz.org/release/98c3d006-eb21-4cc7-a817-7878de88b928", "https://vgmdb.net/album/107131"]
 
 [36]
 catalognumber = "LACA-35886"
 date = "2021-08-25"
 album = "コトバアソビ / TRUE [初回限定盤] Vocal"
 tracks = [
-    [1, "MUSIC", "", ""],
-    [2, "Blast!", "", ""],
-    [3, "Another colony", "", ""],
-    [4, "空に読む物語", "", ""],
-    [5, "inorganic", "", ""],
-    [6, "Acceleration", "", ""],
-    [7, "リブート!", "", ""],
-    [8, "叙情詩とロマンス", "", ""],
-    [9, "ステラ", "", ""],
-    [10, "僕の中の君へ", "", ""],
-    [11, "Storyteller", "", ""],
-    [12, "WILL", "", ""],
-    [13, "Sincerely (English version)", "", ""],
+    [1, "MUSIC", "TRUE", ""],
+    [2, "Blast!", "TRUE", ""],
+    [3, "Another colony", "TRUE", ""],
+    [4, "空に読む物語", "TRUE", ""],
+    [5, "inorganic", "TRUE", ""],
+    [6, "Acceleration", "TRUE", ""],
+    [7, "リブート!", "TRUE", ""],
+    [8, "叙情詩とロマンス", "TRUE", ""],
+    [9, "ステラ", "TRUE", ""],
+    [10, "僕の中の君へ", "TRUE", ""],
+    [11, "Storyteller", "TRUE", ""],
+    [12, "WILL", "TRUE", ""],
+    [13, "Sincerely (English version)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/112172"]
+links = ["https://beta.musicbrainz.org/release/ce3618a1-5c86-4ade-9655-6d371852f2d7", "https://vgmdb.net/album/112172"]
 
 [37]
 catalognumber = "LACA-35886"
@@ -630,345 +630,345 @@ catalognumber = "LACM-24097"
 date = "2021-04-21"
 album = "Brand new diary/まほうのかぜ / 熊田茜音 [転スラ日記盤]"
 tracks = [
-    [1, "Brand new diary", "", ""],
-    [2, "まほうのかぜ", "", ""],
-    [3, "Brand new diary (TV size)", "", ""],
+    [1, "Brand new diary", "熊田茜音", ""],
+    [2, "まほうのかぜ", "熊田茜音", ""],
+    [3, "Brand new diary (TV size)", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/108937"]
+links = ["https://beta.musicbrainz.org/release/41e63fab-0224-40c3-a9e7-408347b41e03", "https://vgmdb.net/album/108937"]
 
 [39]
 catalognumber = "LACA-9823"
 date = "2021-06-23"
 album = "TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」 Original Soundtrack"
 tracks = [
-    [1, "朝の風景", "", ""],
-    [2, "農業GO", "", ""],
-    [3, "ハーベスト", "", ""],
-    [4, "ダイアリー", "", ""],
-    [5, "やる気あるよ", "", ""],
-    [6, "カンバセーション", "", ""],
-    [7, "ビレッジ", "", ""],
-    [8, "キュートだね", "", ""],
-    [9, "センチメンタル", "", ""],
-    [10, "聖なる巫女", "", ""],
-    [11, "ドライアド", "", ""],
-    [12, "ビシビシ", "", ""],
-    [13, "ハイテンション", "", ""],
-    [14, "エピローグ", "", ""],
-    [15, "まかせろ!", "", ""],
-    [16, "ドタバタ劇", "", ""],
-    [17, "どよ～ん", "", ""],
-    [18, "レミファソラ", "", ""],
-    [19, "ぐふふ♡", "", ""],
-    [20, "しょんぼり", "", ""],
-    [21, "ムードメーカー", "", ""],
-    [22, "ショッキング", "", ""],
-    [23, "ギャーンギャーン", "", ""],
-    [24, "サイコティック", "", ""],
-    [25, "隠密行動", "", ""],
-    [26, "魔王の野望", "", ""],
-    [27, "→たたかう", "", ""],
+    [1, "朝の風景", "R・O・N", ""],
+    [2, "農業GO", "R・O・N", ""],
+    [3, "ハーベスト", "R・O・N", ""],
+    [4, "ダイアリー", "R・O・N", ""],
+    [5, "やる気あるよ", "R・O・N", ""],
+    [6, "カンバセーション", "R・O・N", ""],
+    [7, "ビレッジ", "R・O・N", ""],
+    [8, "キュートだね", "R・O・N", ""],
+    [9, "センチメンタル", "R・O・N", ""],
+    [10, "巫女姫", "R・O・N", ""],
+    [11, "ドライアド", "R・O・N", ""],
+    [12, "ビシビシ", "R・O・N", ""],
+    [13, "ハイテンション", "R・O・N", ""],
+    [14, "エピローグ", "R・O・N", ""],
+    [15, "まかせろ!", "R・O・N", ""],
+    [16, "ドタバタ劇", "R・O・N", ""],
+    [17, "どよ〜ん", "R・O・N", ""],
+    [18, "レミファソラ", "R・O・N", ""],
+    [19, "ぐふふ♡", "R・O・N", ""],
+    [20, "しょんぼり", "R・O・N", ""],
+    [21, "ムードメーカー", "R・O・N", ""],
+    [22, "ショッキング", "R・O・N", ""],
+    [23, "ギャーンギャーン", "R・O・N", ""],
+    [24, "サイコティック", "R・O・N", ""],
+    [25, "隠密行動", "R・O・N", ""],
+    [26, "魔王の野望", "R・O・N", ""],
+    [27, "→たたかう", "R・O・N", ""],
 ]
-links = ["https://vgmdb.net/album/110668"]
+links = ["https://beta.musicbrainz.org/release/8c588199-3a0b-427b-8212-ffa2ace137bd", "https://vgmdb.net/album/110668"]
 
 [40]
 catalognumber = "LACA-9824"
 date = "2021-06-23"
 album = "TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」 Original Soundtrack, Vocal"
 tracks = [
-    [1, "決闘だ!", "", ""],
-    [2, "緊張のにらみあい", "", ""],
-    [3, "よかったよかった", "", ""],
-    [4, "クラシカル", "", ""],
-    [5, "ら～～～♪", "", ""],
-    [6, "ぴーぱーぱーぷん", "", ""],
-    [7, "良いこと言うね!", "", ""],
-    [8, "哀愁のギター", "", ""],
-    [9, "哀愁のピアノ", "", ""],
-    [10, "おせんち", "", ""],
-    [11, "ふるさとのハーモニカ", "", ""],
-    [12, "夢のような", "", ""],
-    [13, "必殺のやつ", "", ""],
-    [14, "お正月のうた", "", ""],
-    [15, "スナックジュラ", "", ""],
-    [16, "感動のクリスマス", "", ""],
-    [17, "初めてのクリスマス", "", ""],
-    [18, "Christmas Festa", "", ""],
-    [19, "テンペスト音頭", "", ""],
-    [20, "ヨイハナビ", "", ""],
-    [21, "後半につづく1", "", ""],
-    [22, "カモナ・テンペスト! [TV size]", "", ""],
-    [23, "後半につづく2", "", ""],
-    [24, "おやすみオレンジ [TV size]", "", ""],
-    [25, "来週の転スラ日記は～?", "", ""],
-    [26, "Brand new diary [TV size]", "", ""],
+    [1, "決闘だ!", "R・O・N", ""],
+    [2, "緊張のにらみあい", "R・O・N", ""],
+    [3, "よかったよかった", "R・O・N", ""],
+    [4, "クラシカル", "R・O・N", ""],
+    [5, "ら〜〜〜♪", "R・O・N", ""],
+    [6, "ぴーぱーぱーぷん", "R・O・N", ""],
+    [7, "良いこと言うね!", "R・O・N", ""],
+    [8, "哀愁のギター", "R・O・N", ""],
+    [9, "哀愁のピアノ", "R・O・N", ""],
+    [10, "おせんち", "R・O・N", ""],
+    [11, "ふるさとのハーモニカ", "R・O・N", ""],
+    [12, "夢のような", "R・O・N", ""],
+    [13, "必殺のやつ", "R・O・N", ""],
+    [14, "お正月のうた", "R・O・N", ""],
+    [15, "スナックジュラ", "R・O・N", ""],
+    [16, "感動のクリスマス", "R・O・N", ""],
+    [17, "初めてのクリスマス", "R・O・N", ""],
+    [18, "Christmas Festa", "エレン(CV.熊田茜音)", ""],
+    [19, "テンペスト音頭", "R・O・N", ""],
+    [20, "ヨイハナビ", "リムル(CV.岡咲美保)", ""],
+    [21, "後半につづく1", "R・O・N", ""],
+    [22, "カモナ・テンペスト! (TV size)", "リムル(CV.岡咲美保)、大賢者(CV.豊口めぐみ)、ヴェルドラ(CV.前野智昭)、シュナ(CV.千本木彩花)、シオン(CV.M・A・O)、ランガ(CV.小林親弘)、ゴブタ(CV.泊 明日菜)", ""],
+    [23, "後半につづく2", "R・O・N", ""],
+    [24, "おやすみオレンジ (TV size)", "リムル(CV.岡咲美保)", ""],
+    [25, "来週の転スラ日記は〜?", "R・O・N", ""],
+    [26, "Brand new diary (TV size)", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/110668"]
+links = ["https://beta.musicbrainz.org/release/8c588199-3a0b-427b-8212-ffa2ace137bd", "https://vgmdb.net/album/110668"]
 
 [41]
 catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 1"
 tracks = [
-    [1, "*～アスタリスク～ / Poppin'Party", "", ""],
-    [2, "ディスカバリー! / Poppin'Party", "", ""],
-    [3, "命に嫌われている。 / Afterglow", "", ""],
-    [4, "午夜の待ち合わせ / Afterglow", "", ""],
-    [5, "惑星ループ / Pastel*Palettes×パレオ", "", ""],
-    [6, "Make it! / Pastel*Palettes", "", ""],
-    [7, "新時代 / Roselia", "", ""],
-    [8, "Red fraction / Roselia", "", ""],
-    [9, "ダーリンダンス / ハロー、ハッピーワールド!", "", ""],
-    [10, "ようこそジャパリパークへ / ハロー、ハッピーワールド!", "", ""],
-    [11, "ALIVE / Morfonica", "", ""],
-    [12, "Nameless story / Morfonica", "", ""],
-    [13, "神っぽいな / RAISE A SUILEN", "", ""],
-    [14, "狂乱 Hey Kids! / RAISE A SUILEN", "", ""],
+    [1, "＊〜アスタリスク〜", "Poppin'Party", ""],
+    [2, "ディスカバリー！", "Poppin'Party", ""],
+    [3, "命に嫌われている。", "Afterglow", ""],
+    [4, "午夜の待ち合わせ", "Afterglow", ""],
+    [5, "惑星ループ", "Pastel＊Palettes×パレオ", ""],
+    [6, "Make it!", "Pastel＊Palettes", ""],
+    [7, "新時代", "Roselia", ""],
+    [8, "Red fraction", "Roselia", ""],
+    [9, "ダーリンダンス", "ハロー、ハッピーワールド！", ""],
+    [10, "ようこそジャパリパークへ", "ハロー、ハッピーワールド！", ""],
+    [11, "ALIVE", "Morfonica", ""],
+    [12, "Nameless Story", "Morfonica", ""],
+    [13, "神っぽいな", "RAISE A SUILEN", ""],
+    [14, "狂乱 Hey Kids!!", "RAISE A SUILEN", ""],
 ]
-links = ["https://vgmdb.net/album/133338"]
+links = ["https://beta.musicbrainz.org/release/06fecdc4-dbfa-484f-a03b-5da975fadf0e", "https://vgmdb.net/album/133338"]
 
 [42]
 catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 2"
 tracks = [
-    [1, "DAYS of DASH / Poppin'Party×鈴木このみ", "", ""],
-    [2, "DAYS of DASH / Poppin'Party", "", ""],
-    [3, "COLORS / Afterglow×FLOW", "", ""],
-    [4, "COLORS / Afterglow", "", ""],
-    [5, "ヒトリゴト / Pastel*Palettes×ClariS", "", ""],
-    [6, "ヒトリゴト / Pastel*Palettes", "", ""],
-    [7, "スカイクラッドの観測者 / Roselia×いとうかなこ", "", ""],
-    [8, "スカイクラッドの観測者 / Roselia", "", ""],
-    [9, "TOMORROW / ハロー、ハッピーワールド!×Machico", "", ""],
-    [10, "TOMORROW / ハロー、ハッピーワールド!", "", ""],
-    [11, "青空のラプソディ / Morfonica×fhána", "", ""],
-    [12, "青空のラプソディ / Morfonica", "", ""],
-    [13, "VORACITY / RAISE A SUILEN×MYTH & ROID", "", ""],
-    [14, "VORACITY / RAISE A SUILEN", "", ""],
+    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", ""],
+    [2, "DAYS of DASH", "Poppin'Party", ""],
+    [3, "COLORS", "Afterglow×FLOW", ""],
+    [4, "COLORS", "Afterglow", ""],
+    [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", ""],
+    [6, "ヒトリゴト", "Pastel＊Palettes", ""],
+    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", ""],
+    [8, "スカイクラッドの観測者", "Roselia", ""],
+    [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", ""],
+    [10, "TOMORROW", "ハロー、ハッピーワールド！", ""],
+    [11, "青空のラプソディ", "Morfonica×fhána", ""],
+    [12, "青空のラプソディ", "Morfonica", ""],
+    [13, "VORACITY", "RAISE A SUILEN×MYTH&ROID", ""],
+    [14, "VORACITY", "RAISE A SUILEN", ""],
 ]
-links = ["https://vgmdb.net/album/133338"]
+links = ["https://beta.musicbrainz.org/release/06fecdc4-dbfa-484f-a03b-5da975fadf0e", "https://vgmdb.net/album/133338"]
 
 [43]
 catalognumber = "LACM-14799"
 date = "2018-11-07"
 album = "Another colony / TRUE"
 tracks = [
-    [1, "Another colony", "", ""],
-    [2, "名前のない空腹", "", ""],
-    [3, "Another colony (Instrumental)", "", ""],
-    [4, "名前のない空腹 (Instrumental)", "", ""],
+    [1, "Another colony", "TRUE", ""],
+    [2, "名前のない空腹", "TRUE", ""],
+    [3, "Another colony (Instrumental)", "TRUE", ""],
+    [4, "名前のない空腹 (Instrumental)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/79417"]
+links = ["https://beta.musicbrainz.org/release/68f17627-136c-4728-bd49-30d556e07e53", "https://vgmdb.net/album/79417"]
 
 [44]
 catalognumber = "LACM-34798"
 date = "2018-10-17"
 album = "Nameless story / 寺島拓篤 Disc 1 (CD) [LACM-34798]"
 tracks = [
-    [1, "Nameless Story", "", ""],
-    [2, "みんなで H ! P ! Y !", "", ""],
-    [3, "calm", "", ""],
-    [4, "Nameless Story (Instrumental)", "", ""],
-    [5, "みんなで H ! P ! Y ! (Instrumental)", "", ""],
-    [6, "calm (Instrumental)", "", ""],
+    [1, "Nameless Story", "寺島拓篤", ""],
+    [2, "みんなで H!P!Y!", "寺島拓篤", ""],
+    [3, "calm", "寺島拓篤", ""],
+    [4, "Nameless Story (Instrumental)", "寺島拓篤", ""],
+    [5, "みんなで H ! P ! Y ! (Instrumental)", "寺島拓篤", ""],
+    [6, "calm (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/78649"]
+links = ["https://beta.musicbrainz.org/release/b88460db-c617-4b68-93b1-270a7f244900", "https://vgmdb.net/album/78649"]
 
 [45]
 catalognumber = "LACM-34798"
 date = "2018-10-17"
 album = "Nameless story / 寺島拓篤 Disc 2 (DVD) [LAPD-1514]"
 tracks = [
-    [1, "Nameless Story (Music Clip)", "", ""],
+    [1, "Nameless Story (Music Clip)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/78649"]
+links = ["https://beta.musicbrainz.org/release/b88460db-c617-4b68-93b1-270a7f244900", "https://vgmdb.net/album/78649"]
 
 [46]
 catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 1"
 tracks = [
-    [1, "*～アスタリスク～ / Poppin'Party", "", ""],
-    [2, "ディスカバリー! / Poppin'Party", "", ""],
-    [3, "命に嫌われている。 / Afterglow", "", ""],
-    [4, "午夜の待ち合わせ / Afterglow", "", ""],
-    [5, "惑星ループ / Pastel*Palettes×パレオ", "", ""],
-    [6, "Make it! / Pastel*Palettes", "", ""],
-    [7, "新時代 / Roselia", "", ""],
-    [8, "Red fraction / Roselia", "", ""],
-    [9, "ダーリンダンス / ハロー、ハッピーワールド!", "", ""],
-    [10, "ようこそジャパリパークへ / ハロー、ハッピーワールド!", "", ""],
-    [11, "ALIVE / Morfonica", "", ""],
-    [12, "Nameless story / Morfonica", "", ""],
-    [13, "神っぽいな / RAISE A SUILEN", "", ""],
-    [14, "狂乱 Hey Kids! / RAISE A SUILEN", "", ""],
+    [1, "＊〜アスタリスク〜", "Poppin'Party", ""],
+    [2, "ディスカバリー！", "Poppin'Party", ""],
+    [3, "命に嫌われている。", "Afterglow", ""],
+    [4, "午夜の待ち合わせ", "Afterglow", ""],
+    [5, "惑星ループ", "Pastel＊Palettes×パレオ", ""],
+    [6, "Make it!", "Pastel＊Palettes", ""],
+    [7, "新時代", "Roselia", ""],
+    [8, "Red fraction", "Roselia", ""],
+    [9, "ダーリンダンス", "ハロー、ハッピーワールド！", ""],
+    [10, "ようこそジャパリパークへ", "ハロー、ハッピーワールド！", ""],
+    [11, "ALIVE", "Morfonica", ""],
+    [12, "Nameless Story", "Morfonica", ""],
+    [13, "神っぽいな", "RAISE A SUILEN", ""],
+    [14, "狂乱 Hey Kids!!", "RAISE A SUILEN", ""],
 ]
-links = ["https://vgmdb.net/album/133340"]
+links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
 [47]
 catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 2"
 tracks = [
-    [1, "DAYS of DASH / Poppin'Party×鈴木このみ", "", ""],
-    [2, "DAYS of DASH / Poppin'Party", "", ""],
-    [3, "COLORS / Afterglow×FLOW", "", ""],
-    [4, "COLORS / Afterglow", "", ""],
-    [5, "ヒトリゴト / Pastel*Palettes×ClariS", "", ""],
-    [6, "ヒトリゴト / Pastel*Palettes", "", ""],
-    [7, "スカイクラッドの観測者 / Roselia×いとうかなこ", "", ""],
-    [8, "スカイクラッドの観測者 / Roselia", "", ""],
-    [9, "TOMORROW / ハロー、ハッピーワールド!×Machico", "", ""],
-    [10, "TOMORROW / ハロー、ハッピーワールド!", "", ""],
-    [11, "青空のラプソディ / Morfonica×fhána", "", ""],
-    [12, "青空のラプソディ / Morfonica", "", ""],
-    [13, "VORACITY / RAISE A SUILEN×MYTH & ROID", "", ""],
-    [14, "VORACITY / RAISE A SUILEN", "", ""],
+    [1, "DAYS of DASH", "Poppin'Party×鈴木このみ", ""],
+    [2, "DAYS of DASH", "Poppin'Party", ""],
+    [3, "COLORS", "Afterglow×FLOW", ""],
+    [4, "COLORS", "Afterglow", ""],
+    [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", ""],
+    [6, "ヒトリゴト", "Pastel＊Palettes", ""],
+    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", ""],
+    [8, "スカイクラッドの観測者", "Roselia", ""],
+    [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", ""],
+    [10, "TOMORROW", "ハロー、ハッピーワールド！", ""],
+    [11, "青空のラプソディ", "Morfonica×fhána", ""],
+    [12, "青空のラプソディ", "Morfonica", ""],
+    [13, "VORACITY", "RAISE A SUILEN×MYTH&ROID", ""],
+    [14, "VORACITY", "RAISE A SUILEN", ""],
 ]
-links = ["https://vgmdb.net/album/133340"]
+links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
 [48]
 catalognumber = "LACA-35933"
 date = "2022-02-23"
 album = "世界が晴れたら / 熊田茜音 [初回限定盤] Vocal"
 tracks = [
-    [1, "いいんだよ", "", ""],
-    [2, "Elpis", "", ""],
-    [3, "Brand new diary", "", ""],
-    [4, "drizzling", "", ""],
-    [5, "くらげ", "", ""],
-    [6, "自分磁針", "", ""],
-    [7, "濃い藍、油性の恋", "", ""],
-    [8, "ココロハヤル", "", ""],
-    [9, "Sunny Sunny Girl◎", "", ""],
-    [10, "まほうのかぜ", "", ""],
-    [11, "またね、よろしくね", "", ""],
+    [1, "いいんだよ", "熊田茜音", ""],
+    [2, "Elpis", "熊田茜音", ""],
+    [3, "Brand new diary", "熊田茜音", ""],
+    [4, "drizzling", "熊田茜音", ""],
+    [5, "くらげ", "熊田茜音", ""],
+    [6, "自分磁針", "熊田茜音", ""],
+    [7, "濃い藍、油性の恋", "熊田茜音", ""],
+    [8, "ココロハヤル", "熊田茜音", ""],
+    [9, "Sunny Sunny Girl◎", "熊田茜音", ""],
+    [10, "まほうのかぜ", "熊田茜音", ""],
+    [11, "またね、よろしくね", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/116654"]
+links = ["https://beta.musicbrainz.org/release/e79a0dee-2109-40c8-bd08-b7c5dfb1fdac", "https://vgmdb.net/album/116654"]
 
 [49]
 catalognumber = "LACA-35933"
 date = "2022-02-23"
 album = "世界が晴れたら / 熊田茜音 [初回限定盤] Vocal, Talk, Video"
 tracks = [
-    [1, "いいんだよ (Music Clip)", "", ""],
-    [2, "またね、よろしくね (Music Clip)", "", ""],
-    [3, "熊田茜音 スペシャルインタビュー", "", ""],
+    [1, "いいんだよ (Music Clip)", "熊田茜音", ""],
+    [2, "またね、よろしくね (Music Clip)", "熊田茜音", ""],
+    [3, "熊田茜音 スペシャルインタビュー", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/116654"]
+links = ["https://beta.musicbrainz.org/release/e79a0dee-2109-40c8-bd08-b7c5dfb1fdac", "https://vgmdb.net/album/116654"]
 
 [50]
 catalognumber = "LACM-14821"
 date = "2019-01-23"
 album = "リトルソルジャー / 田所あずさ [アーティスト盤]"
 tracks = [
-    [1, "リトルソルジャー", "", ""],
-    [2, "スロウリグレット", "", ""],
-    [3, "何もない私には", "", ""],
+    [1, "リトルソルジャー", "田所あずさ", ""],
+    [2, "スロウリグレット", "田所あずさ", ""],
+    [3, "何もない私には", "田所あずさ", ""],
 ]
-links = ["https://vgmdb.net/album/82055"]
+links = ["https://beta.musicbrainz.org/release/0089f729-9de0-4e67-aeff-7bf9e357a26a", "https://vgmdb.net/album/82055"]
 
 [51]
 catalognumber = "LACM-24166"
 date = "2021-08-25"
 album = "Reincarnate / 寺島拓篤"
 tracks = [
-    [1, "Reincarnate", "", ""],
-    [2, "ファントムライツ", "", ""],
-    [3, "sweet mirage", "", ""],
-    [4, "Reincarnate (Instrumental)", "", ""],
-    [5, "ファントムライツ (Instrumental)", "", ""],
-    [6, "sweet mirage (Instrumental)", "", ""],
+    [1, "Reincarnate", "寺島拓篤", ""],
+    [2, "ファントムライツ", "寺島拓篤", ""],
+    [3, "sweet mirage", "寺島拓篤", ""],
+    [4, "Reincarnate (Instrumental)", "寺島拓篤", ""],
+    [5, "ファントムライツ (Instrumental)", "寺島拓篤", ""],
+    [6, "sweet mirage (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/112025"]
+links = ["https://beta.musicbrainz.org/release/efb90f8e-74f9-4589-81f0-203e42a1f68e", "https://vgmdb.net/album/112025"]
 
 [52]
 catalognumber = "LACA-15886"
 date = "2021-08-25"
 album = "コトバアソビ / TRUE"
 tracks = [
-    [1, "MUSIC", "", ""],
-    [2, "Blast!", "", ""],
-    [3, "Another colony", "", ""],
-    [4, "空に読む物語", "", ""],
-    [5, "inorganic", "", ""],
-    [6, "Acceleration", "", ""],
-    [7, "リブート!", "", ""],
-    [8, "叙情詩とロマンス", "", ""],
-    [9, "ステラ", "", ""],
-    [10, "僕の中の君へ", "", ""],
-    [11, "Storyteller", "", ""],
-    [12, "WILL", "", ""],
-    [13, "Sincerely (English version)", "", ""],
+    [1, "MUSIC", "TRUE", ""],
+    [2, "Blast!", "TRUE", ""],
+    [3, "Another colony", "TRUE", ""],
+    [4, "空に読む物語", "TRUE", ""],
+    [5, "inorganic", "TRUE", ""],
+    [6, "Acceleration", "TRUE", ""],
+    [7, "リブート!", "TRUE", ""],
+    [8, "叙情詩とロマンス", "TRUE", ""],
+    [9, "ステラ", "TRUE", ""],
+    [10, "僕の中の君へ", "TRUE", ""],
+    [11, "Storyteller", "TRUE", ""],
+    [12, "WILL", "TRUE", ""],
+    [13, "Sincerely (English version)", "TRUE", ""],
 ]
-links = ["https://vgmdb.net/album/112171"]
+links = ["https://beta.musicbrainz.org/release/4501e958-3de4-4175-8c1f-aa77b8d73573", "https://vgmdb.net/album/112171"]
 
 [53]
 catalognumber = "LACM-24081"
 date = "2021-02-24"
 album = "STORYSEEKER / STEREO DIVE FOUNDATION [アーティスト盤]"
 tracks = [
-    [1, "STORYSEEKER", "", ""],
-    [2, "Indigo & Tangerine", "", ""],
-    [3, "STORYSEEKER (Instrumental)", "", ""],
-    [4, "Indigo & Tangerine (Instrumental)", "", ""],
-    [5, "Indigo & Tangerine -Rimuru ver.- (Instrumental)", "", ""],
+    [1, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [2, "Indigo & Tangerine", "STEREO DIVE FOUNDATION", ""],
+    [3, "STORYSEEKER (Instrumental)", "STEREO DIVE FOUNDATION", ""],
+    [4, "Indigo & Tangerine (Instrumental)", "STEREO DIVE FOUNDATION", ""],
+    [5, "Indigo & Tangerine -Rimuru ver.- (Instrumental)", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/107130"]
+links = ["https://beta.musicbrainz.org/release/07f7bf56-4c4f-482b-b78b-0ba474897c64", "https://vgmdb.net/album/107130"]
 
 [54]
 catalognumber = "LACA-15937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION"
 tracks = [
-    [1, "#02", "", ""],
-    [2, "ALPHA", "", ""],
-    [3, "Neon Soda", "", ""],
-    [4, "OMEGA", "", ""],
-    [5, "Carry on", "", ""],
-    [6, "TRISTAR", "", ""],
-    [7, "Count to three", "", ""],
-    [8, "STORYSEEKER", "", ""],
-    [9, "Session", "", ""],
-    [10, "Chronos", "", ""],
-    [11, "Pianissimo", "", ""],
-    [12, "JAY", "", ""],
+    [1, "#02", "STEREO DIVE FOUNDATION", ""],
+    [2, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [3, "Neon Soda", "STEREO DIVE FOUNDATION", ""],
+    [4, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [5, "Carry on", "STEREO DIVE FOUNDATION", ""],
+    [6, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
+    [7, "Count to three", "STEREO DIVE FOUNDATION", ""],
+    [8, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [9, "Session", "STEREO DIVE FOUNDATION", ""],
+    [10, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [11, "Pianissimo", "STEREO DIVE FOUNDATION", ""],
+    [12, "JAY", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117645"]
+links = ["https://beta.musicbrainz.org/release/b405edaa-b9cb-4a06-8a3d-614ec8fc20f8", "https://vgmdb.net/album/117645"]
 
 [55]
 catalognumber = "LACA-15933"
 date = "2022-02-23"
 album = "世界が晴れたら / 熊田茜音"
 tracks = [
-    [1, "いいんだよ", "", ""],
-    [2, "Elpis", "", ""],
-    [3, "Brand new diary", "", ""],
-    [4, "drizzling", "", ""],
-    [5, "くらげ", "", ""],
-    [6, "自分磁針", "", ""],
-    [7, "濃い藍、油性の恋", "", ""],
-    [8, "ココロハヤル", "", ""],
-    [9, "Sunny Sunny Girl◎", "", ""],
-    [10, "まほうのかぜ", "", ""],
-    [11, "またね、よろしくね", "", ""],
+    [1, "いいんだよ", "熊田茜音", ""],
+    [2, "Elpis", "熊田茜音", ""],
+    [3, "Brand new diary", "熊田茜音", ""],
+    [4, "drizzling", "熊田茜音", ""],
+    [5, "くらげ", "熊田茜音", ""],
+    [6, "自分磁針", "熊田茜音", ""],
+    [7, "濃い藍、油性の恋", "熊田茜音", ""],
+    [8, "ココロハヤル", "熊田茜音", ""],
+    [9, "Sunny Sunny Girl◎", "熊田茜音", ""],
+    [10, "まほうのかぜ", "熊田茜音", ""],
+    [11, "またね、よろしくね", "熊田茜音", ""],
 ]
-links = ["https://vgmdb.net/album/116653"]
+links = ["https://beta.musicbrainz.org/release/8fd57608-1e05-4a49-b35e-c6b19a6b3438", "https://vgmdb.net/album/116653"]
 
 [56]
 catalognumber = "LACM-34166"
 date = "2021-08-25"
 album = "Reincarnate / 寺島拓篤 [初回限定盤] Vocal"
 tracks = [
-    [1, "Reincarnate", "", ""],
-    [2, "ファントムライツ", "", ""],
-    [3, "sweet mirage", "", ""],
-    [4, "Reincarnate (Instrumental)", "", ""],
-    [5, "ファントムライツ (Instrumental)", "", ""],
-    [6, "sweet mirage (Instrumental)", "", ""],
+    [1, "Reincarnate", "寺島拓篤", ""],
+    [2, "ファントムライツ", "寺島拓篤", ""],
+    [3, "sweet mirage", "寺島拓篤", ""],
+    [4, "Reincarnate (Instrumental)", "寺島拓篤", ""],
+    [5, "ファントムライツ (Instrumental)", "寺島拓篤", ""],
+    [6, "sweet mirage (Instrumental)", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/112026"]
+links = ["https://beta.musicbrainz.org/release/8059e9ee-5ea4-48fb-a000-1f67eb3d0ca7", "https://vgmdb.net/album/112026"]
 
 [57]
 catalognumber = "LACM-34166"
@@ -985,13 +985,13 @@ catalognumber = "589"
 date = "2021-01-09"
 album = "一番くじ 転生したらスライムだった件 ～Harvest Festival～ スペシャルドラマCD 呑めや、歌えや! テンペストのど自慢大会の巻"
 tracks = [
-    [1, "序章: ゴブタのお仕事", "", ""],
-    [2, "個性ってなんすか?", "", ""],
-    [3, "CALL YOUR NAME", "", ""],
-    [4, "みんなのテーマソング", "", ""],
-    [5, "終章: のど自慢大会", "", ""],
+    [1, "序章：ゴブタのお仕事", "[dialogue]", ""],
+    [2, "個性ってなんすか？", "[dialogue]", ""],
+    [3, "CALL YOUR NAME", "リムル (CV:岡咲美保)、三上悟 (CV:寺島拓篤)", ""],
+    [4, "みんなのテーマソング", "[dialogue]", ""],
+    [5, "終章：のど自慢大会", "[dialogue]", ""],
 ]
-links = ["https://vgmdb.net/album/109451"]
+links = ["https://beta.musicbrainz.org/release/592562ce-4570-42d4-851b-d6496bc159cc", "https://vgmdb.net/album/109451"]
 
 [59]
 catalognumber = "LACA-39892"

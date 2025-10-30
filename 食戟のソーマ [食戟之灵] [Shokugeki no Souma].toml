@@ -3,10 +3,10 @@ catalognumber = "AVCD-83301"
 date = "2015-09-16"
 album = "ライジングレインボウ / ミソッカス"
 tracks = [
-    [1, "ライジングレインボウ", "", ""],
-    [2, "沢蟹", "", ""],
+    [1, "ライジングレインボウ", "ミソッカス", ""],
+    [2, "沢蟹", "ミソッカス", ""],
 ]
-links = ["https://vgmdb.net/album/53530"]
+links = ["https://beta.musicbrainz.org/release/5fe29aea-27a5-4f89-b729-06ff5fc31cde", "https://vgmdb.net/album/53530"]
 
 [2]
 catalognumber = "SCD-908240"
@@ -25,104 +25,104 @@ catalognumber = "LACM-14750"
 date = "2018-05-09"
 album = "シンボル / ラックライフ"
 tracks = [
-    [1, "シンボル", "", ""],
-    [2, "ルーター", "", ""],
-    [3, "バースデー", "", ""],
+    [1, "シンボル", "ラックライフ", ""],
+    [2, "ルーター", "ラックライフ", ""],
+    [3, "バースデー", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/75430"]
+links = ["https://beta.musicbrainz.org/release/7c0fd33b-2777-4544-b6b8-b6aa7649eff2", "https://vgmdb.net/album/75430"]
 
 [4]
 catalognumber = "LACM-14941"
 date = "2019-11-06"
 album = "エンブレム / nano.RIPE"
 tracks = [
-    [1, "エンブレム", "", ""],
-    [2, "トロット", "", ""],
+    [1, "エンブレム", "nano.RIPE", ""],
+    [2, "トロット", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/89541"]
+links = ["https://beta.musicbrainz.org/release/c8810ab3-b900-4334-9524-5262248a6b44", "https://vgmdb.net/album/89541"]
 
 [5]
 catalognumber = "1000706895-CD"
 date = "2018-03-28"
 album = "食戟のソーマ 餐ノ皿 オリジナルサウンドトラック Vol.1"
 tracks = [
-    [1, "皿と皿の競演", "", ""],
-    [2, "怪物行事", "", ""],
-    [3, "美食の街、美食の国", "", ""],
-    [4, "「麻」と「辣」", "", ""],
-    [5, "魅惑の四川料理", "", ""],
-    [6, "トラストミー", "", ""],
-    [7, "楽しい極星生活", "", ""],
-    [8, "全力で弛緩", "", ""],
-    [9, "食べずにゃいられねーもん♪", "", ""],
-    [10, "新しい王", "", ""],
-    [11, "暗黒郷", "", ""],
-    [12, "十傑の思惑", "", ""],
-    [13, "美食をつかさどる神々の領域", "", ""],
-    [14, "気弱モード", "", ""],
-    [15, "食卓の白騎士", "", ""],
-    [16, "絶望の淵に", "", ""],
-    [17, "最大出力", "", ""],
-    [18, "錬金術師", "", ""],
-    [19, "中枢美食機関", "", ""],
-    [20, "残党狩り", "", ""],
-    [21, "BRAVER ～星空の誓いver.～", "", ""],
+    [1, "皿と皿の競演", "加藤達也", ""],
+    [2, "怪物行事", "加藤達也", ""],
+    [3, "美食の街、美食の国", "加藤達也", ""],
+    [4, "「麻」と「辣」", "加藤達也", ""],
+    [5, "魅惑の四川料理", "加藤達也", ""],
+    [6, "トラストミー", "加藤達也", ""],
+    [7, "楽しい極星生活", "加藤達也", ""],
+    [8, "全力で弛緩", "加藤達也", ""],
+    [9, "食べずにゃいられねーもん♪", "加藤達也", ""],
+    [10, "新しい王", "加藤達也", ""],
+    [11, "暗黒郷", "加藤達也", ""],
+    [12, "十傑の思惑", "加藤達也", ""],
+    [13, "美食をつかさどる神々の領域", "加藤達也", ""],
+    [14, "気弱モード", "加藤達也", ""],
+    [15, "食卓の白騎士", "加藤達也", ""],
+    [16, "絶望の淵に", "加藤達也", ""],
+    [17, "最大出力", "加藤達也", ""],
+    [18, "錬金術師", "加藤達也", ""],
+    [19, "中枢美食機関", "加藤達也", ""],
+    [20, "残党狩り", "加藤達也", ""],
+    [21, "BRAVER 〜星空の誓いver.〜", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/73425"]
+links = ["https://beta.musicbrainz.org/release/d5ba5dc0-ee86-4997-a9f4-a620099d72a7", "https://vgmdb.net/album/73425"]
 
 [6]
 catalognumber = "LACM-14996"
 date = "2020-04-29"
 album = "Crossing Road / 渕上舞"
 tracks = [
-    [1, "Crossing Road", "", ""],
-    [2, "ハラ・ヒラ・フワリ", "", ""],
-    [3, "Crossing Road (Off Vocal)", "", ""],
-    [4, "ハラ・ヒラ・フワリ (Off Vocal)", "", ""],
+    [1, "Crossing Road", "渕上舞", ""],
+    [2, "ハラ・ヒラ・フワリ", "渕上舞", ""],
+    [3, "Crossing Road (Off Vocal)", "渕上舞", ""],
+    [4, "ハラ・ヒラ・フワリ (Off Vocal)", "渕上舞", ""],
 ]
-links = ["https://vgmdb.net/album/96158"]
+links = ["https://beta.musicbrainz.org/release/ec9d7ab0-377c-48a0-ab21-a29282e4b3af", "https://vgmdb.net/album/96158"]
 
 [7]
 catalognumber = "AVCD-83254"
 date = "2015-05-13"
 album = "希望の唄 / ウルトラタワー"
 tracks = [
-    [1, "希望の唄", "", ""],
-    [2, "ハロー", "", ""],
-    [3, "希望の唄 (Instrumental)", "", ""],
-    [4, "ハロー (Instrumental)", "", ""],
+    [1, "希望の唄", "ウルトラタワー", ""],
+    [2, "ハロー", "ウルトラタワー", ""],
+    [3, "希望の唄 (Instrumental)", "ウルトラタワー", ""],
+    [4, "ハロー (Instrumental)", "ウルトラタワー", ""],
 ]
-links = ["https://vgmdb.net/album/51899"]
+links = ["https://beta.musicbrainz.org/release/bf0a9e05-e620-4326-8d6e-5364d4611149", "https://vgmdb.net/album/51899"]
 
 [8]
 catalognumber = "LACA-15717"
 date = "2018-05-16"
 album = "Z-ONE / ZAQ"
 tracks = [
-    [1, "Zone", "", ""],
-    [2, "カーストルーム", "", ""],
-    [3, "未開トオン", "", ""],
-    [4, "Last Proof", "", ""],
-    [5, "ロストグロウ", "", ""],
-    [6, "-interlude-", "", ""],
-    [7, "JOURNEY", "", ""],
-    [8, "BRAVER", "", ""],
-    [9, "SPEED JUNKY", "", ""],
-    [10, "ordinary it", "", ""],
-    [11, "Serendipity", "", ""],
-    [12, "こころのなまえ", "", ""],
+    [1, "Zone", "ZAQ", ""],
+    [2, "カーストルーム", "ZAQ", ""],
+    [3, "未開トオン", "ZAQ", ""],
+    [4, "Last Proof", "ZAQ", ""],
+    [5, "ロストグロウ", "ZAQ", ""],
+    [6, "-interlude-", "ZAQ", ""],
+    [7, "JOURNEY", "ZAQ", ""],
+    [8, "BRAVER", "ZAQ", ""],
+    [9, "SPEED JUNKY", "ZAQ", ""],
+    [10, "ordinary it", "ZAQ", ""],
+    [11, "Serendipity", "ZAQ", ""],
+    [12, "こころのなまえ", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/75127"]
+links = ["https://beta.musicbrainz.org/release/16fd426f-df65-4180-95e0-0fb5269b0635", "https://vgmdb.net/album/75127"]
 
 [9]
 catalognumber = "AVCD-83268/B"
 date = "2015-06-10"
 album = "スパイス / 東京カランコロン Arrangement, Vocal"
 tracks = [
-    [1, "スパイス", "", ""],
-    [2, "お料理行進曲", "", ""],
+    [1, "スパイス", "東京カランコロン", ""],
+    [2, "お料理行進曲", "東京カランコロン", ""],
 ]
-links = ["https://vgmdb.net/album/51940"]
+links = ["https://beta.musicbrainz.org/release/96a04fca-0fdb-48f9-9e6d-808b97df428e", "https://vgmdb.net/album/51940"]
 
 [10]
 catalognumber = "AVCD-83268/B"
@@ -138,12 +138,12 @@ catalognumber = "EYCA-10546"
 date = "2015-09-16"
 album = "食戟のソーマ キャラクターソングシリーズ Side Boys 2 / タクミ・アルディーニ(CV.花江夏樹)"
 tracks = [
-    [1, "istinto-刃の本能-", "", ""],
-    [2, "百皿繚乱☆献立バトル ～starring タクミ・アルディーニ～", "", ""],
-    [3, "istinto-刃の本能- (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル ～starring タクミ・アルディーニ～ (Instrumental)", "", ""],
+    [1, "istinto -刃の本能-", "タクミ・アルディーニ(CV.花江夏樹)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring タクミ・アルディーニ〜", "タクミ・アルディーニ(CV.花江夏樹)", ""],
+    [3, "istinto -刃の本能- (Instrumental)", "タクミ・アルディーニ(CV.花江夏樹)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring タクミ・アルディーニ〜 (Instrumental)", "タクミ・アルディーニ(CV.花江夏樹)", ""],
 ]
-links = ["https://vgmdb.net/album/53247"]
+links = ["https://beta.musicbrainz.org/release/89a864a3-a1a4-4775-8444-d8e75ee26ece", "https://vgmdb.net/album/53247"]
 
 [12]
 catalognumber = "1000621208-CD"
@@ -172,109 +172,109 @@ catalognumber = "AVCD-83269/B"
 date = "2015-06-10"
 album = "スパイス / 東京カランコロン Arrangement, Vocal"
 tracks = [
-    [1, "スパイス", "", ""],
-    [2, "お料理行進曲", "", ""],
-    [3, "スパイス (Instrumental)", "", ""],
+    [1, "スパイス", "東京カランコロン", ""],
+    [2, "お料理行進曲", "東京カランコロン", ""],
+    [3, "スパイス (Instrumental)", "東京カランコロン", ""],
 ]
-links = ["https://vgmdb.net/album/51941"]
+links = ["https://beta.musicbrainz.org/release/2e8eb0b3-c540-41f4-b084-2ce654f37cd9", "https://vgmdb.net/album/51941"]
 
 [15]
 catalognumber = "AVCD-83269/B"
 date = "2015-06-10"
 album = "スパイス / 東京カランコロン Vocal"
 tracks = [
-    [1, "スパイス TVアニメ「食戟のソーマ」ED映像", "", ""],
+    [1, "スパイス (Music Video)", "東京カランコロン", ""],
 ]
-links = ["https://vgmdb.net/album/51941"]
+links = ["https://beta.musicbrainz.org/release/2e8eb0b3-c540-41f4-b084-2ce654f37cd9", "https://vgmdb.net/album/51941"]
 
 [16]
 catalognumber = "EYCA-10543"
 date = "2015-08-05"
 album = "食戟のソーマ キャラクターソングシリーズ Side Girls 2 / 田所 恵(CV.高橋未奈美)"
 tracks = [
-    [1, "笑顔にしたいから", "", ""],
-    [2, "百皿繚乱☆献立バトル~starring 田所恵~", "", ""],
-    [3, "笑顔にしたいから (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル~starring 田所恵~ (Instrumental)", "", ""],
+    [1, "笑顔にしたいから", "田所恵(CV.高橋未奈美)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring 田所恵〜", "田所恵(CV.高橋未奈美)", ""],
+    [3, "笑顔にしたいから (Instrumental)", "田所恵(CV.高橋未奈美)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring 田所恵〜 (Instrumental)", "田所恵(CV.高橋未奈美)", ""],
 ]
-links = ["https://vgmdb.net/album/52653"]
+links = ["https://beta.musicbrainz.org/release/5e8a3461-90ec-4975-836c-77ac6cb6fd4f", "https://vgmdb.net/album/52653"]
 
 [17]
 catalognumber = "LACA-9894"
 date = "2022-09-21"
 album = "ZAQPOT / ZAQ Disc 1 [LACA-9894]"
 tracks = [
-    [1, "Sparkling Daydream", "", ""],
-    [2, "Alteration", "", ""],
-    [3, "激情論", "", ""],
-    [4, "エキストラレボリューション", "", ""],
-    [5, "VOICE", "", ""],
-    [6, "OVERDRIVER", "", ""],
-    [7, "Seven Doors", "", ""],
-    [8, "Philosophy of Dear World", "", ""],
-    [9, "カタラレズトモ", "", ""],
-    [10, "hopeness", "", ""],
-    [11, "割レル慟哭", "", ""],
-    [12, "Serendipity", "", ""],
-    [13, "Last Proof", "", ""],
-    [14, "カーストルーム", "", ""],
-    [15, "BRAVER", "", ""],
+    [1, "Sparkling Daydream", "ZAQ", ""],
+    [2, "Alteration", "ZAQ", ""],
+    [3, "激情論", "ZAQ", ""],
+    [4, "エキストラレボリューション", "ZAQ", ""],
+    [5, "VOICE", "ZAQ", ""],
+    [6, "OVERDRIVER", "ZAQ", ""],
+    [7, "Seven Doors", "ZAQ", ""],
+    [8, "Philosophy of Dear World", "ZAQ", ""],
+    [9, "カタラレズトモ", "ZAQ", ""],
+    [10, "hopeness", "ZAQ", ""],
+    [11, "割レル慟哭", "ZAQ", ""],
+    [12, "Serendipity", "ZAQ", ""],
+    [13, "Last Proof", "ZAQ", ""],
+    [14, "カーストルーム", "ZAQ", ""],
+    [15, "BRAVER", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/121787"]
+links = ["https://beta.musicbrainz.org/release/4b82979b-a2d5-49cf-83f8-abfe08a315c1", "https://vgmdb.net/album/121787"]
 
 [18]
 catalognumber = "LACA-9895"
 date = "2022-09-21"
 album = "ZAQPOT / ZAQ Disc 2 [LACA-9895]"
 tracks = [
-    [1, "JOURNEY", "", ""],
-    [2, "ソラノネ", "", ""],
-    [3, "Against The Abyss", "", ""],
-    [4, "イノチノアカシ", "", ""],
-    [5, "月灯", "", ""],
-    [6, "悪夢", "", ""],
-    [7, "ASEED", "", ""],
-    [8, "Dance In The Game", "", ""],
-    [9, "ZIGZAG", "", ""],
-    [10, "ANTHEM", "", ""],
-    [11, "QUEEN", "", ""],
-    [12, "TENSION ENCHANTER", "", ""],
-    [13, "Thanks for all notes", "", ""],
-    [14, "狂騒", "", ""],
+    [1, "JOURNEY", "ZAQ", ""],
+    [2, "ソラノネ", "ZAQ", ""],
+    [3, "Against The Abyss", "ZAQ", ""],
+    [4, "イノチノアカシ", "ZAQ", ""],
+    [5, "月灯", "ZAQ", ""],
+    [6, "悪夢", "ZAQ", ""],
+    [7, "ASEED", "ZAQ", ""],
+    [8, "Dance In The Game", "ZAQ", ""],
+    [9, "ZIGZAG", "ZAQ", ""],
+    [10, "ANTHEM", "ZAQ", ""],
+    [11, "QUEEN", "ZAQ", ""],
+    [12, "TENSION ENCHANTER", "ZAQ", ""],
+    [13, "Thanks for all notes", "ZAQ", ""],
+    [14, "狂騒", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/121787"]
+links = ["https://beta.musicbrainz.org/release/4b82979b-a2d5-49cf-83f8-abfe08a315c1", "https://vgmdb.net/album/121787"]
 
 [19]
 catalognumber = "LACM-14683"
 date = "2017-11-15"
 album = "虚虚実実 / nano.RIPE"
 tracks = [
-    [1, "虚虚実実", "", ""],
-    [2, "ヒーロー", "", ""],
-    [3, "深く", "", ""],
+    [1, "虚虚実実", "nano.RIPE", ""],
+    [2, "ヒーロー", "nano.RIPE", ""],
+    [3, "深く", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/70838"]
+links = ["https://beta.musicbrainz.org/release/2e8db739-08bb-4102-a35b-6f549cf5f15e", "https://vgmdb.net/album/70838"]
 
 [20]
 catalognumber = "LACM-34517"
 date = "2016-08-03"
 album = "スノードロップ / nano.RIPE Disc 1 (CD) [LACM-34517]"
 tracks = [
-    [1, "スノードロップ", "", ""],
-    [2, "システム", "", ""],
-    [3, "あとの花火", "", ""],
+    [1, "スノードロップ", "nano.RIPE", ""],
+    [2, "システム", "nano.RIPE", ""],
+    [3, "あとの花火", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/58942"]
+links = ["https://beta.musicbrainz.org/release/e2cf4327-f3b1-46dd-b2e9-6336485940ff", "https://vgmdb.net/album/58942"]
 
 [21]
 catalognumber = "LACM-34517"
 date = "2016-08-03"
 album = "スノードロップ / nano.RIPE Disc 2 (DVD) [LAPD-1409]"
 tracks = [
-    [1, "スノードロップ (Music Video)", "", ""],
-    [2, "スノードロップ (メイキング)", "", ""],
+    [1, "スノードロップ (Music Video)", "nano.RIPE", ""],
+    [2, "スノードロップ (メイキング)", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/58942"]
+links = ["https://beta.musicbrainz.org/release/e2cf4327-f3b1-46dd-b2e9-6336485940ff", "https://vgmdb.net/album/58942"]
 
 [22]
 catalognumber = "1000573353-CD"
@@ -294,286 +294,286 @@ catalognumber = "AVCD-83300/B"
 date = "2015-09-16"
 album = "ライジングレインボウ / ミソッカス Disc 1 (CD) [AVCD-83300]"
 tracks = [
-    [1, "ライジングレインボウ", "", ""],
-    [2, "沢蟹", "", ""],
+    [1, "ライジングレインボウ", "ミソッカス", ""],
+    [2, "沢蟹", "ミソッカス", ""],
 ]
-links = ["https://vgmdb.net/album/53531"]
+links = ["https://beta.musicbrainz.org/release/e4cd43ce-c2e1-4607-a18a-ab1980f4edb9", "https://vgmdb.net/album/53531"]
 
 [24]
 catalognumber = "AVCD-83300/B"
 date = "2015-09-16"
 album = "ライジングレインボウ / ミソッカス Disc 2 (DVD) [AVCD-83300B]"
 tracks = [
-    [1, "ライジングレインボウ TVアニメ「食戟のソーマ」オープニング映像（ノンテロップ版）", "", ""],
-    [2, "ライジングレインボウ Music Video", "", ""],
+    [1, "ライジングレインボウ (TVアニメ「食戟のソーマ」オープニング映像(ノンテロップ版))", "ミソッカス", ""],
+    [2, "ライジングレインボウ (Music Video)", "ミソッカス", ""],
 ]
-links = ["https://vgmdb.net/album/53531"]
+links = ["https://beta.musicbrainz.org/release/e4cd43ce-c2e1-4607-a18a-ab1980f4edb9", "https://vgmdb.net/album/53531"]
 
 [25]
 catalognumber = "LACM-14765"
 date = "2018-05-23"
 album = "アトリア / Fo'xTails"
 tracks = [
-    [1, "アトリア", "", ""],
-    [2, "Try Me!!!!", "", ""],
-    [3, "flow", "", ""],
+    [1, "アトリア", "Fo’xTails", ""],
+    [2, "Try Me!!!!", "Fo’xTails", ""],
+    [3, "flow", "Fo’xTails", ""],
 ]
-links = ["https://vgmdb.net/album/76068"]
+links = ["https://beta.musicbrainz.org/release/acacda5e-15d4-41ac-a170-8ee76e91cdff", "https://vgmdb.net/album/76068"]
 
 [26]
 catalognumber = "EYCA-10544"
 date = "2015-08-19"
 album = "食戟のソーマ キャラクターソングシリーズ Side Girls 3 / 水戸郁魅(CV.石上静香)"
 tracks = [
-    [1, "sweet 'n hot", "", ""],
-    [2, "百皿繚乱☆献立バトル~starring 水戸郁魅~", "", ""],
-    [3, "sweet 'n hot (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル~starring 水戸郁魅~ (Instrumental)", "", ""],
+    [1, "sweet'n hot", "水戸郁魅(CV.石上静香)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring 水戸郁魅〜", "水戸郁魅(CV.石上静香)", ""],
+    [3, "sweet'n hot (Instrumental)", "水戸郁魅(CV.石上静香)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring 水戸郁魅〜 (Instrumental)", "水戸郁魅(CV.石上静香)", ""],
 ]
-links = ["https://vgmdb.net/album/52654"]
+links = ["https://beta.musicbrainz.org/release/9355954f-9e42-40b3-b685-ab371a605c59", "https://vgmdb.net/album/52654"]
 
 [27]
 catalognumber = "LACA-15857"
 date = "2021-01-27"
 album = "星空 / 渕上舞"
 tracks = [
-    [1, "廻り廻る奇跡", "", ""],
-    [2, "予測不能Days", "", ""],
-    [3, "Rainbow Planet", "", ""],
-    [4, "Meteor", "", ""],
-    [5, "恋なの?", "", ""],
-    [6, "揺れるMoonlight", "", ""],
-    [7, "リベラシオン", "", ""],
-    [8, "Love Summer!", "", ""],
-    [9, "バレンタイン・ハンター", "", ""],
-    [10, "QT Show", "", ""],
-    [11, "Crossing Road", "", ""],
-    [12, "星空", "", ""],
+    [1, "廻り廻る奇跡", "渕上舞", ""],
+    [2, "予測不能Days", "渕上舞", ""],
+    [3, "Rainbow Planet", "渕上舞", ""],
+    [4, "Meteor", "渕上舞", ""],
+    [5, "恋なの？", "渕上舞", ""],
+    [6, "揺れるMoonlight", "渕上舞", ""],
+    [7, "リベラシオン", "渕上舞", ""],
+    [8, "Love Summer！", "渕上舞", ""],
+    [9, "バレンタイン・ハンター", "渕上舞", ""],
+    [10, "QT SHOW", "渕上舞", ""],
+    [11, "Crossing Road", "渕上舞", ""],
+    [12, "星空", "渕上舞", ""],
 ]
-links = ["https://vgmdb.net/album/104641"]
+links = ["https://beta.musicbrainz.org/release/f9247f5f-aeab-48fb-9919-d0d30cc8dfa5", "https://vgmdb.net/album/104641"]
 
 [28]
 catalognumber = "LACA-35857"
 date = "2021-01-27"
 album = "星空 / 渕上舞 [初回限定盤] Vocal"
 tracks = [
-    [1, "廻り廻る奇跡", "", ""],
-    [2, "予測不能Days", "", ""],
-    [3, "Rainbow Planet", "", ""],
-    [4, "Meteor", "", ""],
-    [5, "恋なの?", "", ""],
-    [6, "揺れるMoonlight", "", ""],
-    [7, "リベラシオン", "", ""],
-    [8, "Love Summer!", "", ""],
-    [9, "バレンタイン・ハンター", "", ""],
-    [10, "QT Show", "", ""],
-    [11, "Crossing Road", "", ""],
-    [12, "星空", "", ""],
+    [1, "廻り廻る奇跡", "渕上舞", ""],
+    [2, "予測不能Days", "渕上舞", ""],
+    [3, "Rainbow Planet", "渕上舞", ""],
+    [4, "Meteor", "渕上舞", ""],
+    [5, "恋なの？", "渕上舞", ""],
+    [6, "揺れるMoonlight", "渕上舞", ""],
+    [7, "リベラシオン", "渕上舞", ""],
+    [8, "Love Summer！", "渕上舞", ""],
+    [9, "バレンタイン・ハンター", "渕上舞", ""],
+    [10, "QT SHOW", "渕上舞", ""],
+    [11, "Crossing Road", "渕上舞", ""],
+    [12, "星空", "渕上舞", ""],
 ]
-links = ["https://vgmdb.net/album/104642"]
+links = ["https://beta.musicbrainz.org/release/3f9ca9a6-9e67-4856-977f-31675bf8b0b7", "https://vgmdb.net/album/104642"]
 
 [29]
 catalognumber = "LACA-35857"
 date = "2021-01-27"
 album = "星空 / 渕上舞 [初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "BLACK CAT", "", ""],
-    [2, "フラミンゴディスコ", "", ""],
-    [3, "アイTACTICS", "", ""],
-    [4, "雪に咲く花。蜃気楼。", "", ""],
-    [5, "ラララ～君へ贈る歌～", "", ""],
-    [6, "部屋の窓から見る花火", "", ""],
-    [7, "ファインダー", "", ""],
-    [8, "Cute♡Appeal", "", ""],
-    [9, "Beautiful Sunday", "", ""],
-    [10, "Migratory", "", ""],
-    [11, "バレンシアガール", "", ""],
-    [12, "リベラシオン", "", ""],
-    [13, "Fly High Myway!", "", ""],
-    [14, "Journey", "", ""],
-    [15, "Rainbow Planet", "", ""],
-    [16, "Good morning! Hello? Good bye.", "", ""],
-    [17, "トロピカルガール", "", ""],
+    [1, "BLACK CAT", "渕上舞", ""],
+    [2, "フラミンゴディスコ", "渕上舞", ""],
+    [3, "アイTACTICS", "渕上舞", ""],
+    [4, "雪に咲く花。蜃気楼。", "渕上舞", ""],
+    [5, "ラララ〜君へ贈る歌〜", "渕上舞", ""],
+    [6, "部屋の窓から見る花火", "渕上舞", ""],
+    [7, "ファインダー", "渕上舞", ""],
+    [8, "Cute♡Appeal", "渕上舞", ""],
+    [9, "Beautiful Sunday", "渕上舞", ""],
+    [10, "Migratory", "渕上舞", ""],
+    [11, "バレンシアガール", "渕上舞", ""],
+    [12, "リベラシオン", "渕上舞", ""],
+    [13, "Fly High Myway!", "渕上舞", ""],
+    [14, "Journey", "渕上舞", ""],
+    [15, "Rainbow Planet", "渕上舞", ""],
+    [16, "Good morning!Hello?Good bye.", "渕上舞", ""],
+    [17, "トロピカルガール", "渕上舞", ""],
 ]
-links = ["https://vgmdb.net/album/104642"]
+links = ["https://beta.musicbrainz.org/release/3f9ca9a6-9e67-4856-977f-31675bf8b0b7", "https://vgmdb.net/album/104642"]
 
 [30]
 catalognumber = "1000727578-CD"
 date = "2018-09-26"
 album = "食戟のソーマ 餐ノ皿 オリジナルサウンドトラック Vol.2"
 tracks = [
-    [1, "遠月列車", "", ""],
-    [2, "強大な壁", "", ""],
-    [3, "立ち上がる女騎士", "", ""],
-    [4, "行き着く先", "", ""],
-    [5, "同期の友情", "", ""],
-    [6, "強者たる所以", "", ""],
-    [7, "キラキラ", "", ""],
-    [8, "対面", "", ""],
-    [9, "バトルロイヤル", "", ""],
-    [10, "誰が為に", "", ""],
-    [11, "嵐舞う荒野", "", ""],
-    [12, "先頭を征く者", "", ""],
-    [13, "カ尽きた者", "", ""],
-    [14, "末来を託す強さ", "", ""],
-    [15, "連隊食戟", "", ""],
-    [16, "十傑の席", "", ""],
-    [17, "決戦の地へ", "", ""],
-    [18, "和食文化の担い手", "", ""],
-    [19, "ー閃", "", ""],
-    [20, "可能性の器", "", ""],
-    [21, "反逆者たち", "", ""],
+    [1, "遠月列車", "加藤達也", ""],
+    [2, "強大な壁", "加藤達也", ""],
+    [3, "立ち上がる女騎士", "加藤達也", ""],
+    [4, "行き着く先", "加藤達也", ""],
+    [5, "同期の友情", "加藤達也", ""],
+    [6, "強者たる所以", "加藤達也", ""],
+    [7, "キラキラ", "加藤達也", ""],
+    [8, "対面", "加藤達也", ""],
+    [9, "バトルロイヤル", "加藤達也", ""],
+    [10, "誰が為に", "加藤達也", ""],
+    [11, "嵐舞う荒野", "加藤達也", ""],
+    [12, "先頭を征く者", "加藤達也", ""],
+    [13, "カ尽きた者", "加藤達也", ""],
+    [14, "末来を託す強さ", "加藤達也", ""],
+    [15, "連隊食戟", "加藤達也", ""],
+    [16, "十傑の席", "加藤達也", ""],
+    [17, "決戦の地へ", "加藤達也", ""],
+    [18, "和食文化の担い手", "加藤達也", ""],
+    [19, "ー閃", "加藤達也", ""],
+    [20, "可能性の器", "加藤達也", ""],
+    [21, "反逆者たち", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/78629"]
+links = ["https://beta.musicbrainz.org/release/e36fad2e-12b9-468a-af4c-661a67ff6c0d", "https://vgmdb.net/album/78629"]
 
 [31]
 catalognumber = "LACM-34750"
 date = "2018-05-09"
 album = "シンボル / ラックライフ Disc 1 (CD)"
 tracks = [
-    [1, "シンボル", "", ""],
-    [2, "ルーター", "", ""],
-    [3, "バースデー", "", ""],
+    [1, "シンボル", "ラックライフ", ""],
+    [2, "ルーター", "ラックライフ", ""],
+    [3, "バースデー", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/75431"]
+links = ["https://beta.musicbrainz.org/release/34216637-bccc-47b0-baeb-2f8672c469e4", "https://vgmdb.net/album/75431"]
 
 [32]
 catalognumber = "LACM-34750"
 date = "2018-05-09"
 album = "シンボル / ラックライフ Disc 2 (DVD)"
 tracks = [
-    [1, "変わらない空", "", ""],
-    [2, "存在証明", "", ""],
-    [3, "サニーデイ", "", ""],
-    [4, "僕ら", "", ""],
+    [1, "変わらない空", "ラックライフ", ""],
+    [2, "存在証明", "ラックライフ", ""],
+    [3, "サニーデイ", "ラックライフ", ""],
+    [4, "僕ら", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/75431"]
+links = ["https://beta.musicbrainz.org/release/34216637-bccc-47b0-baeb-2f8672c469e4", "https://vgmdb.net/album/75431"]
 
 [33]
 catalognumber = "AVCD-83270"
 date = "2015-06-10"
 album = "スパイス / 東京カランコロン"
 tracks = [
-    [1, "スパイス", "", ""],
-    [2, "お料理行進曲", "", ""],
+    [1, "スパイス", "東京カランコロン", ""],
+    [2, "お料理行進曲", "東京カランコロン", ""],
 ]
-links = ["https://vgmdb.net/album/51942"]
+links = ["https://beta.musicbrainz.org/release/3c13418f-1c75-402e-b031-14649b799dee", "https://vgmdb.net/album/51942"]
 
 [34]
 catalognumber = "LACA-15937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION"
 tracks = [
-    [1, "#02", "", ""],
-    [2, "ALPHA", "", ""],
-    [3, "Neon Soda", "", ""],
-    [4, "OMEGA", "", ""],
-    [5, "Carry on", "", ""],
-    [6, "TRISTAR", "", ""],
-    [7, "Count to three", "", ""],
-    [8, "STORYSEEKER", "", ""],
-    [9, "Session", "", ""],
-    [10, "Chronos", "", ""],
-    [11, "Pianissimo", "", ""],
-    [12, "JAY", "", ""],
+    [1, "#02", "STEREO DIVE FOUNDATION", ""],
+    [2, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [3, "Neon Soda", "STEREO DIVE FOUNDATION", ""],
+    [4, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [5, "Carry on", "STEREO DIVE FOUNDATION", ""],
+    [6, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
+    [7, "Count to three", "STEREO DIVE FOUNDATION", ""],
+    [8, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [9, "Session", "STEREO DIVE FOUNDATION", ""],
+    [10, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [11, "Pianissimo", "STEREO DIVE FOUNDATION", ""],
+    [12, "JAY", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117645"]
+links = ["https://beta.musicbrainz.org/release/b405edaa-b9cb-4a06-8a3d-614ec8fc20f8", "https://vgmdb.net/album/117645"]
 
 [35]
 catalognumber = "1000758380-C"
 date = "2020-04-29"
 album = "食戟のソーマ 神ノ皿 オリジナルサウンドトラック"
 tracks = [
-    [1, "希望の連隊", "", ""],
-    [2, "希少食材マスター", "", ""],
-    [3, "いさな斬り", "", ""],
-    [4, "若旦那", "", ""],
-    [5, "悔しさを乗り越えて", "", ""],
-    [6, "信頼に足るゲスト", "", ""],
-    [7, "カラマリランジェリー", "", ""],
-    [8, "レギュムの師弟", "", ""],
-    [9, "楽園から飛び立つ真の美食", "", ""],
-    [10, "二人の女王", "", ""],
-    [11, "辿ってきた道筋", "", ""],
-    [12, "神ノ皿", "", ""],
-    [13, "Chronos ~PIANO Ver.~", "", ""],
-    [14, "エンブレム ~PIANO Ver.~", "", ""],
+    [1, "希望の連隊", "加藤達也", ""],
+    [2, "希少食材マスター", "加藤達也", ""],
+    [3, "いさな斬り", "加藤達也", ""],
+    [4, "若旦那", "加藤達也", ""],
+    [5, "悔しさを乗り越えて", "加藤達也", ""],
+    [6, "信頼に足るゲスト", "加藤達也", ""],
+    [7, "カラマリランジェリー", "加藤達也", ""],
+    [8, "レギュムの師弟", "加藤達也", ""],
+    [9, "楽園から飛び立つ真の美食", "加藤達也", ""],
+    [10, "二人の女王", "加藤達也", ""],
+    [11, "辿ってきた道筋", "加藤達也", ""],
+    [12, "神ノ皿", "加藤達也", ""],
+    [13, "Chronos 〜PIANO Ver.〜", "加藤達也", ""],
+    [14, "エンブレム 〜PIANO Ver.〜", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/93183"]
+links = ["https://beta.musicbrainz.org/release/945c5985-6301-45ef-939d-9b857b858087", "https://vgmdb.net/album/93183"]
 
 [36]
 catalognumber = "LACA-35736"
 date = "2018-08-29"
 album = "ピッパラの樹の下で / nano.RIPE Vocal"
 tracks = [
-    [1, "インソムニア", "", ""],
-    [2, "虚虚実実", "", ""],
-    [3, "ポラリス", "", ""],
-    [4, "あおのらくがき", "", ""],
-    [5, "ヒーロー", "", ""],
-    [6, "月兎時", "", ""],
-    [7, "アザレア", "", ""],
-    [8, "上弦", "", ""],
-    [9, "スターハンター", "", ""],
-    [10, "雲の落とし物", "", ""],
-    [11, "夜の太陽(クレセントver.)", "", ""],
-    [12, "うてな", "", ""],
-    [13, "ステム", "", ""],
+    [1, "インソムニア", "nano.RIPE", ""],
+    [2, "虚虚実実", "nano.RIPE", ""],
+    [3, "ポラリス", "nano.RIPE", ""],
+    [4, "あおのらくがき", "nano.RIPE", ""],
+    [5, "ヒーロー", "nano.RIPE", ""],
+    [6, "月兎時", "nano.RIPE", ""],
+    [7, "アザレア", "nano.RIPE", ""],
+    [8, "上弦", "nano.RIPE", ""],
+    [9, "スターハンター", "nano.RIPE", ""],
+    [10, "雲の落とし物", "nano.RIPE", ""],
+    [11, "夜の太陽（クレセントver.）", "nano.RIPE", ""],
+    [12, "うてな", "nano.RIPE", ""],
+    [13, "ステム", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/78308"]
+links = ["https://beta.musicbrainz.org/release/ccc89a2a-67dc-4383-b460-0ca9f22e4448", "https://vgmdb.net/album/78308"]
 
 [37]
 catalognumber = "LACA-35736"
 date = "2018-08-29"
 album = "ピッパラの樹の下で / nano.RIPE Vocal, Live Event"
 tracks = [
-    [1, "パトリシア", "", ""],
-    [2, "ハナノイロ", "", ""],
-    [3, "夢路", "", ""],
-    [4, "面影ワープ", "", ""],
-    [5, "細胞キオク", "", ""],
-    [6, "15秒", "", ""],
-    [7, "世界点", "", ""],
-    [8, "なないろびより", "", ""],
-    [9, "透明な世界", "", ""],
-    [10, "こだまことだま", "", ""],
-    [11, "スノードロップ", "", ""],
-    [12, "有色透明", "", ""],
+    [1, "パトリシア", "nano.RIPE", ""],
+    [2, "ハナノイロ", "nano.RIPE", ""],
+    [3, "夢路", "nano.RIPE", ""],
+    [4, "面影ワープ", "nano.RIPE", ""],
+    [5, "細胞キオク", "nano.RIPE", ""],
+    [6, "15秒", "nano.RIPE", ""],
+    [7, "世界点", "nano.RIPE", ""],
+    [8, "なないろびより", "nano.RIPE", ""],
+    [9, "透明な世界", "nano.RIPE", ""],
+    [10, "こだまことだま", "nano.RIPE", ""],
+    [11, "スノードロップ", "nano.RIPE", ""],
+    [12, "有色透明", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/78308"]
+links = ["https://beta.musicbrainz.org/release/ccc89a2a-67dc-4383-b460-0ca9f22e4448", "https://vgmdb.net/album/78308"]
 
 [38]
 catalognumber = "LACA-15736"
 date = "2018-08-29"
 album = "ピッパラの樹の下で / nano.RIPE"
 tracks = [
-    [1, "インソムニア", "", ""],
-    [2, "虚虚実実", "", ""],
-    [3, "ポラリス", "", ""],
-    [4, "あおのらくがき", "", ""],
-    [5, "ヒーロー", "", ""],
-    [6, "月兎時", "", ""],
-    [7, "アザレア", "", ""],
-    [8, "上弦", "", ""],
-    [9, "スターハンター", "", ""],
-    [10, "雲の落とし物", "", ""],
-    [11, "夜の太陽(クレセントver.)", "", ""],
-    [12, "うてな", "", ""],
-    [13, "ステム", "", ""],
+    [1, "インソムニア", "nano.RIPE", ""],
+    [2, "虚虚実実", "nano.RIPE", ""],
+    [3, "ポラリス", "nano.RIPE", ""],
+    [4, "あおのらくがき", "nano.RIPE", ""],
+    [5, "ヒーロー", "nano.RIPE", ""],
+    [6, "月兎時", "nano.RIPE", ""],
+    [7, "アザレア", "nano.RIPE", ""],
+    [8, "上弦", "nano.RIPE", ""],
+    [9, "スターハンター", "nano.RIPE", ""],
+    [10, "雲の落とし物", "nano.RIPE", ""],
+    [11, "夜の太陽（クレセントver.）", "nano.RIPE", ""],
+    [12, "うてな", "nano.RIPE", ""],
+    [13, "ステム", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/78307"]
+links = ["https://beta.musicbrainz.org/release/2e5fe7b7-5b33-46dd-b8e3-71d352621aa2", "https://vgmdb.net/album/78307"]
 
 [39]
 catalognumber = "EYCA-10542"
 date = "2015-07-22"
 album = "食戟のソーマ キャラクターソングシリーズ Side Girls 1 / 薙切えりな(CV.種田梨沙)"
 tracks = [
-    [1, "la fleur noble", "", ""],
-    [2, "百皿繚乱☆献立バトル~starring 薙切えりな~", "", ""],
-    [3, "la fleur noble (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル~starring 薙切えりな~ (Instrumental)", "", ""],
+    [1, "la fleur noble", "薙切えりな(CV.種田梨沙)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring 薙切えりな〜", "薙切えりな(CV.種田梨沙)", ""],
+    [3, "la fleur noble (Instrumental)", "薙切えりな(CV.種田梨沙)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring 薙切えりな〜 (Instrumental)", "薙切えりな(CV.種田梨沙)", ""],
 ]
-links = ["https://vgmdb.net/album/52652"]
+links = ["https://beta.musicbrainz.org/release/d73862e0-4d22-48ea-9af5-e0db328e641c", "https://vgmdb.net/album/52652"]
 
 [40]
 catalognumber = "1000621206-CD"
@@ -590,21 +590,21 @@ catalognumber = "LACM-14517"
 date = "2016-08-03"
 album = "スノードロップ / nano.RIPE"
 tracks = [
-    [1, "スノードロップ", "", ""],
-    [2, "あとの花火", "", ""],
+    [1, "スノードロップ", "nano.RIPE", ""],
+    [2, "あとの花火", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/58941"]
+links = ["https://beta.musicbrainz.org/release/79846719-9d62-4563-b17d-c8a1e0feb174", "https://vgmdb.net/album/58941"]
 
 [42]
 catalognumber = "AVCD-83267"
 date = "2015-07-15"
 album = "マジックミラー/さっちゃんのセクシーカレー / 大森靖子"
 tracks = [
-    [1, "マジックミラー", "", ""],
-    [2, "さっちゃんのセクシーカレー", "", ""],
-    [3, "私は悪くない", "", ""],
+    [1, "マジックミラー", "大森靖子", ""],
+    [2, "さっちゃんのセクシーカレー", "大森靖子", ""],
+    [3, "私は悪くない", "大森靖子", ""],
 ]
-links = ["https://vgmdb.net/album/53528"]
+links = ["https://beta.musicbrainz.org/release/309b839f-fff8-460c-a5c2-0f4a8f980144", "https://vgmdb.net/album/53528"]
 
 [43]
 catalognumber = "LACA-9985"
@@ -663,137 +663,137 @@ catalognumber = "AVCD-93063"
 date = "2015-10-21"
 album = "反逆の♭m7(フラットマイナーセブンス) / ミソッカス"
 tracks = [
-    [1, "i wanna be a ハンサム", "", ""],
-    [2, "BTスナイパー", "", ""],
-    [3, "ライジングレインボウ", "", ""],
-    [4, "真夏の果実にぶら下がって", "", ""],
-    [5, "T.M.ハイテンション", "", ""],
-    [6, "サンタなんていない", "", ""],
-    [7, "闇夜のキャラバン", "", ""],
-    [8, "不思議な小屋", "", ""],
+    [1, "i wanna be a ハンサム", "ミソッカス", ""],
+    [2, "BTスナイパー", "ミソッカス", ""],
+    [3, "ライジングレインボウ", "ミソッカス", ""],
+    [4, "真夏の果実にぶら下がって", "ミソッカス", ""],
+    [5, "T.M.ハイテンション", "ミソッカス", ""],
+    [6, "サンタなんていない", "ミソッカス", ""],
+    [7, "闇夜のキャラバン", "ミソッカス", ""],
+    [8, "不思議な小屋", "ミソッカス", ""],
 ]
-links = ["https://vgmdb.net/album/55017"]
+links = ["https://beta.musicbrainz.org/release/14d77b64-151c-4c17-ac2d-87febf757b33", "https://vgmdb.net/album/55017"]
 
 [47]
 catalognumber = "LACM-14525"
 date = "2016-07-27"
 album = "ROUGH DIAMONDS / SCREEN mode [アニメジャケット盤]"
 tracks = [
-    [1, "ROUGH DIAMONDS", "", ""],
-    [2, "IMPACT", "", ""],
+    [1, "ROUGH DIAMONDS", "SCREEN mode", ""],
+    [2, "IMPACT", "SCREEN mode", ""],
 ]
-links = ["https://vgmdb.net/album/58939"]
+links = ["https://beta.musicbrainz.org/release/5be865f7-86d8-4717-a3b5-a2827a484c83", "https://vgmdb.net/album/58939"]
 
 [48]
 catalognumber = "EYCA-10545"
 date = "2015-09-02"
 album = "食戟のソーマ キャラクターソングシリーズ Side Boys 1 / 四宮小次郎(CV.中村悠一)"
 tracks = [
-    [1, "今夜、パリ8区で～Nuits a Paris～", "", ""],
-    [2, "百皿繚乱☆献立バトル ～starring 四宮小次郎～", "", ""],
-    [3, "今夜、パリ8区で～Nuits a Paris～ (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル ～starring 四宮小次郎～ (Instrumental)", "", ""],
+    [1, "今夜、パリ8区で 〜Nuits a Paris〜", "四宮小次郎(CV.中村悠一)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring 四宮小次郎〜", "四宮小次郎(CV.中村悠一)", ""],
+    [3, "今夜、パリ8区で 〜Nuits a Paris〜 (Instrumental)", "四宮小次郎(CV.中村悠一)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring 四宮小次郎〜 (Instrumental)", "四宮小次郎(CV.中村悠一)", ""],
 ]
-links = ["https://vgmdb.net/album/53246"]
+links = ["https://beta.musicbrainz.org/release/c9f119f6-4b39-465c-bf19-1543513620e7", "https://vgmdb.net/album/53246"]
 
 [49]
 catalognumber = "LACA-9778"
 date = "2020-09-23"
 album = "月に棲む星のうた / nano.RIPE Disc 1 [LACA-9778]"
 tracks = [
-    [1, "ハナノイロ", "", ""],
-    [2, "ヒーロー", "", ""],
-    [3, "アポロ", "", ""],
-    [4, "月影とブランコ", "", ""],
-    [5, "細胞キオク", "", ""],
-    [6, "なないろびより", "", ""],
-    [7, "あおのらくがき", "", ""],
-    [8, "絵空事", "", ""],
-    [9, "ノクチルカ", "", ""],
-    [10, "15秒", "", ""],
-    [11, "もしもの話", "", ""],
-    [12, "ダイヤモンドダスト", "", ""],
-    [13, "あとの花火", "", ""],
-    [14, "アイシー", "", ""],
-    [15, "影踏み", "", ""],
-    [16, "夢路", "", ""],
-    [17, "イトシキヒビ", "", ""],
+    [1, "ハナノイロ", "nano.RIPE", ""],
+    [2, "ヒーロー", "nano.RIPE", ""],
+    [3, "アポロ", "nano.RIPE", ""],
+    [4, "月影とブランコ", "nano.RIPE", ""],
+    [5, "細胞キオク", "nano.RIPE", ""],
+    [6, "なないろびより", "nano.RIPE", ""],
+    [7, "あおのらくがき", "nano.RIPE", ""],
+    [8, "絵空事", "nano.RIPE", ""],
+    [9, "ノクチルカ", "nano.RIPE", ""],
+    [10, "15秒", "nano.RIPE", ""],
+    [11, "もしもの話", "nano.RIPE", ""],
+    [12, "ダイヤモンドダスト", "nano.RIPE", ""],
+    [13, "あとの花火", "nano.RIPE", ""],
+    [14, "アイシー", "nano.RIPE", ""],
+    [15, "影踏み", "nano.RIPE", ""],
+    [16, "夢路", "nano.RIPE", ""],
+    [17, "イトシキヒビ", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/101347"]
+links = ["https://beta.musicbrainz.org/release/818be792-66d3-40bc-a8ba-31be80ba3c03", "https://vgmdb.net/album/101347"]
 
 [50]
 catalognumber = "LACA-9779"
 date = "2020-09-23"
 album = "月に棲む星のうた / nano.RIPE Disc 2 [LACA-9779]"
 tracks = [
-    [1, "アザレア", "", ""],
-    [2, "面影ワープ", "", ""],
-    [3, "タキオン", "", ""],
-    [4, "世界点", "", ""],
-    [5, "ヨルガオ", "", ""],
-    [6, "スターチャート", "", ""],
-    [7, "虚虚実実", "", ""],
-    [8, "ツマビクヒトリ", "", ""],
-    [9, "神様", "", ""],
-    [10, "リアルワールド", "", ""],
-    [11, "エンブレム", "", ""],
-    [12, "ポラリス", "", ""],
-    [13, "夜の太陽", "", ""],
-    [14, "ルミナリー", "", ""],
-    [15, "ハロー", "", ""],
-    [16, "ステム", "", ""],
-    [17, "スピカ", "", ""],
+    [1, "アザレア", "nano.RIPE", ""],
+    [2, "面影ワープ", "nano.RIPE", ""],
+    [3, "タキオン", "nano.RIPE", ""],
+    [4, "世界点", "nano.RIPE", ""],
+    [5, "ヨルガオ", "nano.RIPE", ""],
+    [6, "スターチャート", "nano.RIPE", ""],
+    [7, "虚虚実実", "nano.RIPE", ""],
+    [8, "ツマビクヒトリ", "nano.RIPE", ""],
+    [9, "神様", "nano.RIPE", ""],
+    [10, "リアルワールド", "nano.RIPE", ""],
+    [11, "エンブレム", "nano.RIPE", ""],
+    [12, "ポラリス", "nano.RIPE", ""],
+    [13, "夜の太陽", "nano.RIPE", ""],
+    [14, "ルミナリー", "nano.RIPE", ""],
+    [15, "ハロー", "nano.RIPE", ""],
+    [16, "ステム", "nano.RIPE", ""],
+    [17, "スピカ", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/101347"]
+links = ["https://beta.musicbrainz.org/release/818be792-66d3-40bc-a8ba-31be80ba3c03", "https://vgmdb.net/album/101347"]
 
 [51]
 catalognumber = ""
 date = "2021-12-25"
 album = "「アンデミックプラス」"
 tracks = [
-    [1, "Ready To (VRC6)", "", ""],
-    [2, "Here (N163)", "", ""],
-    [3, "Kaibutsu / 怪物 (VRC6)", "", ""],
-    [4, "It's Like a Small Light / それは小さな光のような (N163)", "", ""],
-    [5, "My Dream Within a Dream / ユメのなかノわたしのユメ(NES)", "", ""],
-    [6, "Escape (MMC5)", "", ""],
-    [7, "Ugoku, Ugoku / 動く、動く (VRC6)", "", ""],
-    [8, "Seasons Die One After Another / 季節は次々死んでいく (VRC6)", "", ""],
-    [9, "Wild Side (VRC6)", "", ""],
-    [10, "Lacrimosa (VRC7)", "", ""],
-    [11, "One Room Sugar Life / ワンルームシュガーライフ(VRC6)", "", ""],
-    [12, "Spice / スパイス (N163)", "", ""],
-    [13, "Fiction / フィクション (MMC5)", "", ""],
-    [14, "Nai Nai / ないない (VRC6)", "", ""],
-    [15, "Wonderful Wonder (MMC5)", "", ""],
-    [16, "Kami Iro-Awase / カミイロアワセ (VRC6)", "", ""],
-    [17, "Life is Cider / Life is サイダー (MMC5)", "", ""],
-    [18, "Chiisana Hibi / ちいさな日々 (FDS)", "", ""],
-    [19, "Daddy Daddy Do (VRC6)", "", ""],
-    [20, "The Sound of Rain / 雨だれの歌 (MMC5)", "", ""],
+    [1, "Ready To (VRC6)", "nocturnalplant", ""],
+    [2, "Here (N163)", "nocturnalplant", ""],
+    [3, "Kaibutsu / 怪物 (VRC6)", "nocturnalplant", ""],
+    [4, "It's Like a Small Light / それは小さな光のような (N163)", "nocturnalplant", ""],
+    [5, "My Dream Within a Dream / ユメのなかノわたしのユメ(NES)", "nocturnalplant", ""],
+    [6, "Escape (MMC5)", "nocturnalplant", ""],
+    [7, "Ugoku, Ugoku / 動く、動く (VRC6)", "nocturnalplant", ""],
+    [8, "Seasons Die One After Another / 季節は次々死んでいく (VRC6)", "nocturnalplant", ""],
+    [9, "Wild Side (VRC6)", "nocturnalplant", ""],
+    [10, "Lacrimosa (VRC7)", "nocturnalplant", ""],
+    [11, "One Room Sugar Life / ワンルームシュガーライフ(VRC6)", "nocturnalplant", ""],
+    [12, "Spice / スパイス (N163)", "nocturnalplant", ""],
+    [13, "Fiction / フィクション (MMC5)", "nocturnalplant", ""],
+    [14, "Nai Nai / ないない (VRC6)", "nocturnalplant", ""],
+    [15, "Wonderful Wonder (MMC5)", "nocturnalplant", ""],
+    [16, "Kami Iro-Awase / カミイロアワセ (VRC6)", "nocturnalplant", ""],
+    [17, "Life is Cider / Life is サイダー (MMC5)", "nocturnalplant", ""],
+    [18, "Chiisana Hibi / ちいさな日々 (FDS)", "nocturnalplant", ""],
+    [19, "Daddy Daddy Do (VRC6)", "nocturnalplant", ""],
+    [20, "The Sound of Rain / 雨だれの歌 (MMC5)", "nocturnalplant", ""],
 ]
-links = ["https://vgmdb.net/album/121589"]
+links = ["https://beta.musicbrainz.org/release/b59b4b7f-a004-456b-b187-0df52d856a06", "https://vgmdb.net/album/121589"]
 
 [52]
 catalognumber = "LACM-14524"
 date = "2016-07-27"
 album = "ROUGH DIAMONDS / SCREEN mode [DVD付盤] Vocal"
 tracks = [
-    [1, "ROUGH DIAMONDS", "", ""],
-    [2, "雨のち晴れ", "", ""],
-    [3, "IMPACT", "", ""],
-    [4, "ROUGH DIAMONDS (off vocal)", "", ""],
+    [1, "ROUGH DIAMONDS", "SCREEN mode", ""],
+    [2, "雨のち晴れ", "SCREEN mode", ""],
+    [3, "IMPACT", "SCREEN mode", ""],
+    [4, "ROUGH DIAMONDS (off vocal)", "SCREEN mode", ""],
 ]
-links = ["https://vgmdb.net/album/58940"]
+links = ["https://beta.musicbrainz.org/release/5807bf63-1f7e-4616-b7d8-3c84a64208bd", "https://vgmdb.net/album/58940"]
 
 [53]
 catalognumber = "LACM-14524"
 date = "2016-07-27"
 album = "ROUGH DIAMONDS / SCREEN mode [DVD付盤] Vocal, Video"
 tracks = [
-    [1, "ROUGH DIAMONDS -Music Video- (Full size)", "", ""],
+    [1, "ROUGH DIAMONDS -Music Video-", "SCREEN mode", ""],
 ]
-links = ["https://vgmdb.net/album/58940"]
+links = ["https://beta.musicbrainz.org/release/a066b073-461d-4401-a48c-203237a55a12", "https://vgmdb.net/album/58940"]
 
 [54]
 catalognumber = "1000573349-CD"
@@ -814,238 +814,238 @@ catalognumber = "ESCL-5082"
 date = "2018-07-04"
 album = "週刊少年ジャンプ 50th Anniversary BEST ANIME MIX vol.3"
 tracks = [
-    [1, "1/3の純情な感情", "", ""],
-    [2, "ロマンス", "", ""],
-    [3, "DIVE TO WORLD", "", ""],
-    [4, "オンボロの自転車にのって", "", ""],
-    [5, "ダイアの花", "", ""],
-    [6, "TIGHT-BREAK", "", ""],
-    [7, "SNOW KISS", "", ""],
-    [8, "カゲロウ", "", ""],
-    [9, "そばかす", "", ""],
-    [10, "Sign", "", ""],
-    [11, "ヒカリアレ", "", ""],
-    [12, "コールドフィンガーガール", "", ""],
-    [13, "アフターダーク", "", ""],
-    [14, "ZERO", "", ""],
-    [15, "空に歌えば", "", ""],
-    [16, "Pride on Everyday", "", ""],
-    [17, "Ψです I LIKE YOU", "", ""],
-    [18, "ジョジョ その血の記憶 ~END OF THE WORLD~", "", ""],
-    [19, "異次元ストーリー (TVサイズ)", "", ""],
-    [20, "さっちゃんのセクシーカレー", "", ""],
-    [21, "Sweet Days", "", ""],
-    [22, "サンキュー!!", "", ""],
-    [23, "Pride of Tomorrow", "", ""],
-    [24, "HEART OF SWORD ~夜明け前~", "", ""],
-    [25, "RUNNING TO HORIZON", "", ""],
-    [26, "少女トラベラー", "", ""],
-    [27, "Baby U!", "", ""],
-    [28, "初恋limited", "", ""],
-    [29, "Future Stream", "", ""],
-    [30, "memories", "", ""],
-    [31, "Crazy Noisy Bizarre Town", "", ""],
-    [32, "流れ星 銀 (TVサイズ)", "", ""],
-    [33, "ラッキーマンの歌 (TVサイズ)", "", ""],
-    [34, "翼よ走れ! -キャプテン翼応援歌-", "", ""],
-    [35, "汚れつちまった悲しみに...", "", ""],
-    [36, "OVERLAP", "", ""],
-    [37, "ダイバー", "", ""],
-    [38, "ビバ★ロック ~japanese side~", "", ""],
-    [39, "明日への闘志", "", ""],
-    [40, "侍ジャイアンツ", "", ""],
-    [41, "ピョン吉・ロックンロール", "", ""],
-    [42, "ストップ!! ひばりくん!", "", ""],
-    [43, "Angel Night ~天使のいる場所~", "", ""],
-    [44, "ウィーアー! ~9人の麦わら海賊団篇~", "", ""],
-    [45, "WE GOTTA POWER", "", ""],
-    [46, "ハルカミライ", "", ""],
-    [47, "月の大きさ", "", ""],
-    [48, "プライド革命", "", ""],
-    [49, "アイム・ア・ビリーバー", "", ""],
-    [50, "真赤な誓い", "", ""],
+    [1, "1/3の純情な感情", "SIAM SHADE", ""],
+    [2, "ロマンス", "PENICILLIN", ""],
+    [3, "DIVE TO WORLD", "CHERRYBLOSSOM", ""],
+    [4, "オンボロの自転車にのって", "Funta", ""],
+    [5, "ダイアの花", "より子", ""],
+    [6, "TIGHT-BREAK", "SPYKE", ""],
+    [7, "SNOW KISS", "NIRGILIS", ""],
+    [8, "カゲロウ", "ЯeaL", ""],
+    [9, "そばかす", "JUDY AND MARY", ""],
+    [10, "Sign", "FLOW", ""],
+    [11, "ヒカリアレ", "BURNOUT SYNDROMES", ""],
+    [12, "コールドフィンガーガール", "栗山千明", ""],
+    [13, "アフターダーク", "ASIAN KUNG-FU GENERATION", ""],
+    [14, "ZERO", "小野賢章", ""],
+    [15, "空に歌えば", "amazarashi", ""],
+    [16, "Pride on Everyday", "スフィア", ""],
+    [17, "Ψです I LIKE YOU", "でんぱ組.inc", ""],
+    [18, "ジョジョ その血の記憶〜END OF THE WORLD〜", "JO☆STARS〜TOMMY,Coda,JIN〜", ""],
+    [19, "異次元ストーリー (TVサイズ)", "ポプラ", ""],
+    [20, "さっちゃんのセクシーカレー", "大森靖子", ""],
+    [21, "Sweet Days", "小島有希(CV:牧野由依)", ""],
+    [22, "サンキュー!!", "HOME MADE 家族", ""],
+    [23, "Pride of Tomorrow", "JUNE", ""],
+    [24, "HEART OF SWORD 〜夜明け前〜", "T.M.Revolution", ""],
+    [25, "RUNNING TO HORIZON", "小室哲哉", ""],
+    [26, "少女トラベラー", "9nine", ""],
+    [27, "Baby U!", "MBLAQ", ""],
+    [28, "初恋limited", "marble", ""],
+    [29, "Future Stream", "スフィア", ""],
+    [30, "memories", "大槻真希", ""],
+    [31, "Crazy Noisy Bizarre Town", "THE DU", ""],
+    [32, "流れ星 銀 (TVサイズ)", "宮内タカユキ", ""],
+    [33, "ラッキーマンの歌 (TVサイズ)", "八代亜紀", ""],
+    [34, "翼よ走れ!-キャプテン翼応援歌-", "キャプテン翼応援団", ""],
+    [35, "汚れつちまった悲しみに…", "一世風靡SEPIA", ""],
+    [36, "OVERLAP", "Kimeru", ""],
+    [37, "ダイバー", "KANA-BOON", ""],
+    [38, "ビバ★ロック 〜japanese side〜", "ORANGE RANGE", ""],
+    [39, "明日への闘志", "Marina del ray", ""],
+    [40, "侍ジャイアンツ", "松本茂之", ""],
+    [41, "ピョン吉・ロックンロール", "とんねるず", ""],
+    [42, "ストップ!! ひばりくん!", "雪野ゆき", ""],
+    [43, "Angel Night 〜天使のいる場所〜", "PSY・S", ""],
+    [44, "ウィーアー! 〜9人の麦わら海賊団篇〜", "9人の麦わらの一味", ""],
+    [45, "WE GOTTA POWER", "影山ヒロノブ", ""],
+    [46, "ハルカミライ", "感覚ピエロ", ""],
+    [47, "月の大きさ", "乃木坂46", ""],
+    [48, "プライド革命", "CHiCO with HoneyWorks", ""],
+    [49, "アイム・ア・ビリーバー", "SPYAIR", ""],
+    [50, "真赤な誓い", "福山芳樹", ""],
 ]
-links = ["https://vgmdb.net/album/79158"]
+links = ["https://beta.musicbrainz.org/release/9eaa5cef-7742-45d3-9ce7-602b693c22eb", "https://vgmdb.net/album/79158"]
 
 [56]
 catalognumber = "LACA-35937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION [初回限定盤] Vocal"
 tracks = [
-    [1, "#02", "", ""],
-    [2, "ALPHA", "", ""],
-    [3, "Neon Soda", "", ""],
-    [4, "OMEGA", "", ""],
-    [5, "Carry on", "", ""],
-    [6, "TRISTAR", "", ""],
-    [7, "Count to three", "", ""],
-    [8, "STORYSEEKER", "", ""],
-    [9, "Session", "", ""],
-    [10, "Chronos", "", ""],
-    [11, "Pianissimo", "", ""],
-    [12, "JAY", "", ""],
+    [1, "#02", "STEREO DIVE FOUNDATION", ""],
+    [2, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [3, "Neon Soda", "STEREO DIVE FOUNDATION", ""],
+    [4, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [5, "Carry on", "STEREO DIVE FOUNDATION", ""],
+    [6, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
+    [7, "Count to three", "STEREO DIVE FOUNDATION", ""],
+    [8, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [9, "Session", "STEREO DIVE FOUNDATION", ""],
+    [10, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [11, "Pianissimo", "STEREO DIVE FOUNDATION", ""],
+    [12, "JAY", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117646"]
+links = ["https://beta.musicbrainz.org/release/1b78b639-1ff9-4319-b5a1-5d669035f497", "https://vgmdb.net/album/117646"]
 
 [57]
 catalognumber = "LACA-35937"
 date = "2022-04-13"
 album = "STEREO DIVE 02 / STEREO DIVE FOUNDATION [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "Daisy", "", ""],
-    [2, "AXIS", "", ""],
-    [3, "Renegade", "", ""],
-    [4, "Genesis", "", ""],
-    [5, "Chronos", "", ""],
-    [6, "PULSE", "", ""],
-    [7, "Session", "", ""],
-    [8, "ALPHA", "", ""],
-    [9, "STORYSEEKER", "", ""],
-    [10, "OMEGA", "", ""],
-    [11, "TRISTAR", "", ""],
+    [1, "Daisy", "STEREO DIVE FOUNDATION", ""],
+    [2, "AXIS", "STEREO DIVE FOUNDATION", ""],
+    [3, "Renegade", "STEREO DIVE FOUNDATION", ""],
+    [4, "Genesis", "STEREO DIVE FOUNDATION", ""],
+    [5, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [6, "PULSE", "STEREO DIVE FOUNDATION", ""],
+    [7, "Session", "STEREO DIVE FOUNDATION", ""],
+    [8, "ALPHA", "STEREO DIVE FOUNDATION", ""],
+    [9, "STORYSEEKER", "STEREO DIVE FOUNDATION", ""],
+    [10, "OMEGA", "STEREO DIVE FOUNDATION", ""],
+    [11, "TRISTAR", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/117646"]
+links = ["https://beta.musicbrainz.org/release/1b78b639-1ff9-4319-b5a1-5d669035f497", "https://vgmdb.net/album/117646"]
 
 [58]
 catalognumber = "LACA-15730"
 date = "2018-08-22"
 album = "Dear days / ラックライフ"
 tracks = [
-    [1, "走って", "", ""],
-    [2, "おまじない", "", ""],
-    [3, "Over", "", ""],
-    [4, "シンボル", "", ""],
-    [5, "ネバギバ", "", ""],
-    [6, "So Happy Day", "", ""],
-    [7, "リフレイン", "", ""],
-    [8, "弱い虫", "", ""],
-    [9, "夕焼け小道", "", ""],
-    [10, "夢の途中", "", ""],
-    [11, "リピート", "", ""],
-    [12, "その手とこの手", "", ""],
-    [13, "僕ら", "", ""],
-    [14, "ソレ", "", ""],
+    [1, "走って", "ラックライフ", ""],
+    [2, "おまじない", "ラックライフ", ""],
+    [3, "Over", "ラックライフ", ""],
+    [4, "シンボル", "ラックライフ", ""],
+    [5, "ネバギバ", "ラックライフ", ""],
+    [6, "So Happy Day", "ラックライフ", ""],
+    [7, "リフレイン", "ラックライフ", ""],
+    [8, "弱い虫", "ラックライフ", ""],
+    [9, "夕焼け小道", "ラックライフ", ""],
+    [10, "夢の途中", "ラックライフ", ""],
+    [11, "リピート", "ラックライフ", ""],
+    [12, "その手とこの手", "ラックライフ", ""],
+    [13, "僕ら", "ラックライフ", ""],
+    [14, "ソレ", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/77851"]
+links = ["https://beta.musicbrainz.org/release/42f0079b-2f82-4f7f-9e44-e13162bbe7ed", "https://vgmdb.net/album/77851"]
 
 [59]
 catalognumber = "AVCD-83253/B"
 date = "2015-05-13"
 album = "希望の唄 / ウルトラタワー Disc 1 (CD) [AVCD-83253]"
 tracks = [
-    [1, "希望の唄", "", ""],
-    [2, "ハロー", "", ""],
-    [3, "希望の唄 (Instrumental)", "", ""],
-    [4, "ハロー (Instrumental)", "", ""],
+    [1, "希望の唄", "ウルトラタワー", ""],
+    [2, "ハロー", "ウルトラタワー", ""],
+    [3, "希望の唄 (Instrumental)", "ウルトラタワー", ""],
+    [4, "ハロー (Instrumental)", "ウルトラタワー", ""],
 ]
-links = ["https://vgmdb.net/album/51900"]
+links = ["https://beta.musicbrainz.org/release/d8a82b77-1375-4ce3-8e29-a9385601f22e", "https://vgmdb.net/album/51900"]
 
 [60]
 catalognumber = "AVCD-83253/B"
 date = "2015-05-13"
 album = "希望の唄 / ウルトラタワー Disc 2 (DVD) [AVCD-83253B]"
 tracks = [
-    [1, "希望の唄 Music Video", "", ""],
-    [2, "希望の唄 TVアニメ『食戟のソーマ』OP映像", "", ""],
+    [1, "希望の唄 Music Video", "ウルトラタワー", ""],
+    [2, "希望の唄 (TVアニメ『食戟のソーマ』OP映像ノンテロップ版)", "ウルトラタワー", ""],
 ]
-links = ["https://vgmdb.net/album/51900"]
+links = ["https://beta.musicbrainz.org/release/d8a82b77-1375-4ce3-8e29-a9385601f22e", "https://vgmdb.net/album/51900"]
 
 [61]
 catalognumber = "1000573348-CD"
 date = "2015-07-29"
 album = "食戟のソーマ オリジナルサウンドトラック1"
 tracks = [
-    [1, "料理の地平へ", "", ""],
-    [2, "いつもいつでも常日頃", "", ""],
-    [3, "わちゃワチャWACHA", "", ""],
-    [4, "朝だ 畑だ 収穫だ", "", ""],
-    [5, "ごはんだ おかずだ ごちそうだ", "", ""],
-    [6, "決戦の食感", "", ""],
-    [7, "酸いも甘いも研鑽せよ!", "", ""],
-    [8, "神の舌 (ゴッドタン)", "", ""],
-    [9, "不味いわよ!", "", ""],
-    [10, "サカナの国から来た娘", "", ""],
-    [11, "ミートマスター", "", ""],
-    [12, "肉のソナタ", "", ""],
-    [13, "ボナペティート (召しあがれ)", "", ""],
-    [14, "極星・丼研・陽が暮れる", "", ""],
-    [15, "いつも心にゲソピーを", "", ""],
-    [16, "不味くて最高のゲテモノ", "", ""],
-    [17, "この小さな食の城で", "", ""],
-    [18, "対立の火加減", "", ""],
-    [19, "味体験料理バトル", "", ""],
-    [20, "闇鍋の匂い", "", ""],
-    [21, "それぞれのソウルフード", "", ""],
-    [22, "絶望の辛酸", "", ""],
-    [23, "厨房最前線", "", ""],
-    [24, "審議は舌の上で語られる", "", ""],
-    [25, "勝利と言う名の隠し味", "", ""],
-    [26, "美食の世界へいらっしゃい♪", "", ""],
-    [27, "海の香りに誘われて", "", ""],
-    [28, "この鴨になら抱かれたい", "", ""],
-    [29, "この素晴らしき旨味世界", "", ""],
-    [30, "食戟開戦!", "", ""],
+    [1, "料理の地平へ", "加藤達也", ""],
+    [2, "いつもいつでも常日頃", "加藤達也", ""],
+    [3, "わちゃワチャWACHA", "加藤達也", ""],
+    [4, "朝だ 畑だ 収穫だ", "加藤達也", ""],
+    [5, "ごはんだ おかずだ ごちそうだ", "加藤達也", ""],
+    [6, "決戦の食感", "加藤達也", ""],
+    [7, "酸いも甘いも研鑽せよ!", "加藤達也", ""],
+    [8, "神の舌 (ゴッドタン)", "加藤達也", ""],
+    [9, "不味いわよ!", "加藤達也", ""],
+    [10, "サカナの国から来た娘", "加藤達也", ""],
+    [11, "ミートマスター", "加藤達也", ""],
+    [12, "肉のソナタ", "加藤達也", ""],
+    [13, "ボナペティート (召しあがれ)", "加藤達也", ""],
+    [14, "極星・丼研・陽が暮れる", "加藤達也", ""],
+    [15, "いつも心にゲソピーを", "加藤達也", ""],
+    [16, "不味くて最高のゲテモノ", "加藤達也", ""],
+    [17, "この小さな食の城で", "加藤達也", ""],
+    [18, "対立の火加減", "加藤達也", ""],
+    [19, "味体験料理バトル", "加藤達也", ""],
+    [20, "闇鍋の匂い", "加藤達也", ""],
+    [21, "それぞれのソウルフード", "加藤達也", ""],
+    [22, "絶望の辛酸", "加藤達也", ""],
+    [23, "厨房最前線", "加藤達也", ""],
+    [24, "審議は舌の上で語られる", "加藤達也", ""],
+    [25, "勝利と言う名の隠し味", "加藤達也", ""],
+    [26, "美食の世界へいらっしゃい♪", "加藤達也", ""],
+    [27, "海の香りに誘われて", "加藤達也", ""],
+    [28, "この鴨になら抱かれたい", "加藤達也", ""],
+    [29, "この素晴らしき旨味世界", "加藤達也", ""],
+    [30, "食戟開戦!", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/52352"]
+links = ["https://beta.musicbrainz.org/release/30b83904-4aa8-4ad0-9ac2-5a004a7866f9", "https://vgmdb.net/album/52352"]
 
 [62]
 catalognumber = "LACM-14995"
 date = "2020-04-22"
 album = "ラストチャプター / nano.RIPE Vocal"
 tracks = [
-    [1, "ラストチャプター", "", ""],
+    [1, "ラストチャプター", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/96157"]
+links = ["https://beta.musicbrainz.org/release/4f32ca3f-1ec1-4711-b555-c0b5c96f990c", "https://vgmdb.net/album/96157"]
 
 [63]
 catalognumber = "LACM-14995"
 date = "2020-04-22"
 album = "ラストチャプター / nano.RIPE Live Event, Video"
 tracks = [
-    [1, "nano.RIPE 20th anniversary ONE MAN TOUR 2018 「きせきのつるぎ」 2018.12.12@新宿BLAZE ダイジェスト映像", "", ""],
+    [1, "nano.RIPE 20th anniversary ONE MAN TOUR 2018「きせきのつるぎ」 2018.12.15@新宿BLAZE ダイジェスト映像", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/96157"]
+links = ["https://beta.musicbrainz.org/release/4f32ca3f-1ec1-4711-b555-c0b5c96f990c", "https://vgmdb.net/album/96157"]
 
 [64]
 catalognumber = "1000621205-CD"
 date = "2016-11-23"
 album = "食戟のソーマ 弍ノ皿 オリジナルサウンドトラック"
 tracks = [
-    [1, "食戟の分岐点", "", ""],
-    [2, "選抜本選", "", ""],
-    [3, "玉なる子供たち", "", ""],
-    [4, "魂が戻った日", "", ""],
-    [5, "煮たり茹でたり湯掻いたり", "", ""],
-    [6, "コトコトほくほく", "", ""],
-    [7, "プクプクまんぷく満腹ぷ", "", ""],
-    [8, "青春の厨房", "", ""],
-    [9, "桜の花の下で", "", ""],
-    [10, "料理の夜明けを探して…", "", ""],
-    [11, "静かなる捕食獣", "", ""],
-    [12, "勝利を目指すレシピ", "", ""],
-    [13, "食材に秘めた誓い", "", ""],
-    [14, "大鷲と猛虎", "", ""],
-    [15, "香りの貴公子", "", ""],
-    [16, "味の世界の革新者(グローバル イノベーター)", "", ""],
-    [17, "厨房の独裁者", "", ""],
-    [18, "野菜料理(レギュム)の魔術師", "", ""],
-    [19, "風雲急を告げる皿", "", ""],
-    [20, "戦場の料理人たち", "", ""],
-    [21, "キング・オブ・ストーカー", "", ""],
-    [22, "唯一無二のオリジナリティ", "", ""],
-    [23, "調理界冒険記", "", ""],
-    [24, "みんな大好き☆ゆきひーランド♪", "", ""],
-    [25, "味覚は天空を超えて", "", ""],
-    [26, "同じ釜の飯を食べる存在", "", ""],
-    [27, "激戦のメニュー", "", ""],
-    [28, "最強なる火力", "", ""],
-    [29, "食戟者", "", ""],
-    [30, "明日への一品(ひとしな)", "", ""],
-    [31, "〆といこうぜ!", "", ""],
-    [32, "必殺料理(スペシャリテ)", "", ""],
-    [33, "ROUGH DIAMONDS ～星のスタジエールver～", "", ""],
+    [1, "食戟の分岐点", "加藤達也", ""],
+    [2, "選抜本選", "加藤達也", ""],
+    [3, "玉なる子供たち", "加藤達也", ""],
+    [4, "魂が戻った日", "加藤達也", ""],
+    [5, "煮たり茹でたり湯掻いたり", "加藤達也", ""],
+    [6, "コトコトほくほく", "加藤達也", ""],
+    [7, "プクプクまんぷく満腹ぷ", "加藤達也", ""],
+    [8, "青春の厨房", "加藤達也", ""],
+    [9, "桜の花の下で", "加藤達也", ""],
+    [10, "料理の夜明けを探して…", "加藤達也", ""],
+    [11, "静かなる捕食獣", "加藤達也", ""],
+    [12, "勝利を目指すレシピ", "加藤達也", ""],
+    [13, "食材に秘めた誓い", "加藤達也", ""],
+    [14, "大鷲と猛虎", "加藤達也", ""],
+    [15, "香りの貴公子", "加藤達也", ""],
+    [16, "味の世界の革新者", "加藤達也", ""],
+    [17, "厨房の独裁者", "加藤達也", ""],
+    [18, "野菜料理の魔術師", "加藤達也", ""],
+    [19, "風雲急を告げる皿", "加藤達也", ""],
+    [20, "戦場の料理人たち", "加藤達也", ""],
+    [21, "キング・オブ・ストーカー", "加藤達也", ""],
+    [22, "唯一無二のオリジナリティ", "加藤達也", ""],
+    [23, "調理界冒険記", "加藤達也", ""],
+    [24, "みんな大好き☆ゆきひーランド♪", "加藤達也", ""],
+    [25, "味覚は天空を超えて", "加藤達也", ""],
+    [26, "同じ釜の飯を食べる存在", "加藤達也", ""],
+    [27, "激戦のメニュー", "加藤達也", ""],
+    [28, "最強なる火力", "加藤達也", ""],
+    [29, "食戟者", "加藤達也", ""],
+    [30, "明日への一品", "加藤達也", ""],
+    [31, "〆といこうぜ!", "加藤達也", ""],
+    [32, "必殺料理", "加藤達也", ""],
+    [33, "ROUGH DIAMONDS 〜星のスタジエールver.〜", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/59946"]
+links = ["https://beta.musicbrainz.org/release/d2820c24-1287-4956-a07f-a359ac82dbef", "https://vgmdb.net/album/59946"]
 
 [65]
 catalognumber = "1000621204-CD"
@@ -1062,122 +1062,122 @@ catalognumber = "LACM-14936"
 date = "2019-10-23"
 album = "Chronos / STEREO DIVE FOUNDATION"
 tracks = [
-    [1, "Chronos", "", ""],
-    [2, "Yellow", "", ""],
-    [3, "Sprinkle", "", ""],
-    [4, "Chronos (Instrumental)", "", ""],
-    [5, "Yellow (Instrumental)", "", ""],
+    [1, "Chronos", "STEREO DIVE FOUNDATION", ""],
+    [2, "Yellow", "STEREO DIVE FOUNDATION", ""],
+    [3, "Sprinkle", "STEREO DIVE FOUNDATION", ""],
+    [4, "Chronos (Instrumental)", "STEREO DIVE FOUNDATION", ""],
+    [5, "Yellow (Instrumental)", "STEREO DIVE FOUNDATION", ""],
 ]
-links = ["https://vgmdb.net/album/89214"]
+links = ["https://beta.musicbrainz.org/release/646fcb3e-a239-44bd-a93c-ce8d7277b189", "https://vgmdb.net/album/89214"]
 
 [67]
 catalognumber = "EYCA-10547"
 date = "2015-09-30"
 album = "食戟のソーマ キャラクターソングシリーズ Side Boys 3 / 幸平創真(CV.松岡禎丞)"
 tracks = [
-    [1, "戟!-GEKI-", "", ""],
-    [2, "百皿繚乱☆献立バトル ～starring 幸平創真～", "", ""],
-    [3, "戟!-GEKI- (Instrumental)", "", ""],
-    [4, "百皿繚乱☆献立バトル ～starring 幸平創真～ (Instrumental)", "", ""],
+    [1, "戟!-GEKI-", "幸平創真(CV.松岡禎丞)", ""],
+    [2, "百皿繚乱☆献立バトル 〜starring 幸平創真〜", "幸平創真(CV.松岡禎丞)", ""],
+    [3, "戟!-GEKI- (Instrumental)", "幸平創真(CV.松岡禎丞)", ""],
+    [4, "百皿繚乱☆献立バトル 〜starring 幸平創真〜 (Instrumental)", "幸平創真(CV.松岡禎丞)", ""],
 ]
-links = ["https://vgmdb.net/album/53248"]
+links = ["https://beta.musicbrainz.org/release/cc8a58f3-ebc3-48ea-8a7a-a1c203148b7f", "https://vgmdb.net/album/53248"]
 
 [68]
 catalognumber = "1000781105-C"
 date = "2020-12-23"
 album = "食戟のソーマ 豪ノ皿 オリジナルサウンドトラック"
 tracks = [
-    [1, "豪ノ皿", "", ""],
-    [2, "研鑽は続く", "", ""],
-    [3, "鈴木先生", "", ""],
-    [4, "THE BLUE開幕!", "", ""],
-    [5, "真のおさずけ", "", ""],
-    [6, "出会ってからの時間", "", ""],
-    [7, "真夜中の料理人", "", ""],
-    [8, "交差する刃", "", ""],
-    [9, "特等執行官", "", ""],
-    [10, "神の舌の絶望", "", ""],
-    [11, "皿に向かう気持ち", "", ""],
-    [12, "空虚な熱なき味", "", ""],
-    [13, "極上の石たち", "", ""],
-    [14, "暗躍するノワール", "", ""],
-    [15, "絶対に諦めない", "", ""],
-    [16, "自分自身の味", "", ""],
-    [17, "ラストチャプター ~PIANO Ver.~", "", ""],
-    [18, "Crossing Road ~PIANO Ver.~", "", ""],
+    [1, "豪ノ皿", "加藤達也", ""],
+    [2, "研鑽は続く", "加藤達也", ""],
+    [3, "鈴木先生", "加藤達也", ""],
+    [4, "THE BLUE開幕!", "加藤達也", ""],
+    [5, "真のおさずけ", "加藤達也", ""],
+    [6, "出会ってからの時間", "加藤達也", ""],
+    [7, "真夜中の料理人", "加藤達也", ""],
+    [8, "交差する刃", "加藤達也", ""],
+    [9, "特等執行官", "加藤達也", ""],
+    [10, "神の舌の絶望", "加藤達也", ""],
+    [11, "皿に向かう気持ち", "加藤達也", ""],
+    [12, "空虚な熱なき味", "加藤達也", ""],
+    [13, "極上の石たち", "加藤達也", ""],
+    [14, "暗躍するノワール", "加藤達也", ""],
+    [15, "絶対に諦めない", "加藤達也", ""],
+    [16, "自分自身の味", "加藤達也", ""],
+    [17, "ラストチャプター 〜PIANO Ver.〜", "加藤達也", ""],
+    [18, "Crossing Road 〜PIANO Ver.〜", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/103938"]
+links = ["https://beta.musicbrainz.org/release/3caad6bf-3aee-447b-a299-7c40b9dc4648", "https://vgmdb.net/album/103938"]
 
 [69]
 catalognumber = "LACA-35717"
 date = "2018-05-16"
 album = "Z-ONE / ZAQ [Limited Edition] Disc 1 (CD) [LACA-35717]"
 tracks = [
-    [1, "Zone", "", ""],
-    [2, "カーストルーム", "", ""],
-    [3, "未開トオン", "", ""],
-    [4, "Last Proof", "", ""],
-    [5, "ロストグロウ", "", ""],
-    [6, "-interlude-", "", ""],
-    [7, "JOURNEY", "", ""],
-    [8, "BRAVER", "", ""],
-    [9, "SPEED JUNKY", "", ""],
-    [10, "ordinary it", "", ""],
-    [11, "Serendipity", "", ""],
-    [12, "こころのなまえ", "", ""],
+    [1, "Zone", "ZAQ", ""],
+    [2, "カーストルーム", "ZAQ", ""],
+    [3, "未開トオン", "ZAQ", ""],
+    [4, "Last Proof", "ZAQ", ""],
+    [5, "ロストグロウ", "ZAQ", ""],
+    [6, "-interlude-", "ZAQ", ""],
+    [7, "JOURNEY", "ZAQ", ""],
+    [8, "BRAVER", "ZAQ", ""],
+    [9, "SPEED JUNKY", "ZAQ", ""],
+    [10, "ordinary it", "ZAQ", ""],
+    [11, "Serendipity", "ZAQ", ""],
+    [12, "こころのなまえ", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/75128"]
+links = ["https://beta.musicbrainz.org/release/d4f6722b-cfa2-43dd-b1a6-4f6d4a6a34ab", "https://vgmdb.net/album/75128"]
 
 [70]
 catalognumber = "LACA-35717"
 date = "2018-05-16"
 album = "Z-ONE / ZAQ [Limited Edition] Disc 2 (Blu-ray) [LAPD-1493]"
 tracks = [
-    [1, "NO RULE MY RULE", "", ""],
-    [2, "Sparkling Daydream", "", ""],
-    [3, "ヴィヴァーチェ!", "", ""],
-    [4, "KURUIZAQ", "", ""],
-    [5, "hopeness", "", ""],
-    [6, "Zone", "", ""],
-    [7, "Serendipity", "", ""],
-    [8, "Last Proof", "", ""],
-    [9, "カーストルーム", "", ""],
-    [10, "BRAVER", "", ""],
-    [11, "JOURNEY", "", ""],
+    [1, "NO RULE MY RULE", "ZAQ", ""],
+    [2, "Sparkling Daydream", "ZAQ", ""],
+    [3, "ヴィヴァーチェ!", "ZAQ", ""],
+    [4, "KURUIZAQ", "ZAQ", ""],
+    [5, "hopeness", "ZAQ", ""],
+    [6, "Zone (Music Video)", "ZAQ", ""],
+    [7, "Serendipity (Music Video)", "ZAQ", ""],
+    [8, "Last Proof (Music Video)", "ZAQ", ""],
+    [9, "カーストルーム (Music Video)", "ZAQ", ""],
+    [10, "BRAVER (Music Video)", "ZAQ", ""],
+    [11, "JOURNEY (Music Video)", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/75128"]
+links = ["https://beta.musicbrainz.org/release/d4f6722b-cfa2-43dd-b1a6-4f6d4a6a34ab", "https://vgmdb.net/album/75128"]
 
 [71]
 catalognumber = "LACM-14682"
 date = "2017-11-08"
 album = "BRAVER / ZAQ"
 tracks = [
-    [1, "BRAVER", "", ""],
-    [2, "ordinary it", "", ""],
-    [3, "BRAVER (off vocal)", "", ""],
+    [1, "BRAVER", "ZAQ", ""],
+    [2, "ordinary it", "ZAQ", ""],
+    [3, "BRAVER (Off Vocal)", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/70837"]
+links = ["https://beta.musicbrainz.org/release/7a5aa62c-3165-496d-b229-d845e0fc025c", "https://vgmdb.net/album/70837"]
 
 [72]
 catalognumber = "LACA-25018"
 date = "2022-10-12"
 album = "不眠症のネコと夜 / nano.RIPE"
 tracks = [
-    [1, "トリックスター", "", ""],
-    [2, "ソアー", "", ""],
-    [3, "つぎはぎもよう", "", ""],
-    [4, "ネコに日だまり", "", ""],
-    [5, "トロット", "", ""],
-    [6, "クエスト", "", ""],
-    [7, "声鳴文", "", ""],
-    [8, "ペカド", "", ""],
-    [9, "ロス", "", ""],
-    [10, "ブローチ", "", ""],
-    [11, "いたいけな春と空", "", ""],
-    [12, "オーブ", "", ""],
-    [13, "ラストチャプター", "", ""],
+    [1, "トリックスター", "nano.RIPE", ""],
+    [2, "ソアー", "nano.RIPE", ""],
+    [3, "つぎはぎもよう", "nano.RIPE", ""],
+    [4, "ネコに日だまり", "nano.RIPE", ""],
+    [5, "トロット", "nano.RIPE", ""],
+    [6, "クエスト", "nano.RIPE", ""],
+    [7, "声鳴文", "nano.RIPE", ""],
+    [8, "ペカド", "nano.RIPE", ""],
+    [9, "ロス", "nano.RIPE", ""],
+    [10, "ブローチ", "nano.RIPE", ""],
+    [11, "いたいけな春と空", "nano.RIPE", ""],
+    [12, "オーブ", "nano.RIPE", ""],
+    [13, "ラストチャプター", "nano.RIPE", ""],
 ]
-links = ["https://vgmdb.net/album/121328"]
+links = ["https://beta.musicbrainz.org/release/6405f778-f345-462b-9488-1c2c9fe77dae", "https://vgmdb.net/album/121328"]
 
 [73]
 catalognumber = "1000573355-CD"
@@ -1207,145 +1207,145 @@ catalognumber = "LACA-39894"
 date = "2022-09-21"
 album = "ZAQPOT / ZAQ [初回限定盤] Disc 1 [LACA-39894]"
 tracks = [
-    [1, "Sparkling Daydream", "", ""],
-    [2, "Alteration", "", ""],
-    [3, "激情論", "", ""],
-    [4, "エキストラレボリューション", "", ""],
-    [5, "VOICE", "", ""],
-    [6, "OVERDRIVER", "", ""],
-    [7, "Seven Doors", "", ""],
-    [8, "Philosophy of Dear World", "", ""],
-    [9, "カタラレズトモ", "", ""],
-    [10, "hopeness", "", ""],
-    [11, "割レル慟哭", "", ""],
-    [12, "Serendipity", "", ""],
-    [13, "Last Proof", "", ""],
-    [14, "カーストルーム", "", ""],
-    [15, "BRAVER", "", ""],
+    [1, "Sparkling Daydream", "ZAQ", ""],
+    [2, "Alteration", "ZAQ", ""],
+    [3, "激情論", "ZAQ", ""],
+    [4, "エキストラレボリューション", "ZAQ", ""],
+    [5, "VOICE", "ZAQ", ""],
+    [6, "OVERDRIVER", "ZAQ", ""],
+    [7, "Seven Doors", "ZAQ", ""],
+    [8, "Philosophy of Dear World", "ZAQ", ""],
+    [9, "カタラレズトモ", "ZAQ", ""],
+    [10, "hopeness", "ZAQ", ""],
+    [11, "割レル慟哭", "ZAQ", ""],
+    [12, "Serendipity", "ZAQ", ""],
+    [13, "Last Proof", "ZAQ", ""],
+    [14, "カーストルーム", "ZAQ", ""],
+    [15, "BRAVER", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/121788"]
+links = ["https://beta.musicbrainz.org/release/b4cf170f-0eb7-4548-88cf-74f358194099", "https://vgmdb.net/album/121788"]
 
 [76]
 catalognumber = "LACA-39895"
 date = "2022-09-21"
 album = "ZAQPOT / ZAQ [初回限定盤] Disc 2 [LACA-39895]"
 tracks = [
-    [1, "JOURNEY", "", ""],
-    [2, "ソラノネ", "", ""],
-    [3, "Against The Abyss", "", ""],
-    [4, "イノチノアカシ", "", ""],
-    [5, "月灯", "", ""],
-    [6, "悪夢", "", ""],
-    [7, "ASEED", "", ""],
-    [8, "Dance In The Game", "", ""],
-    [9, "ZIGZAG", "", ""],
-    [10, "ANTHEM", "", ""],
-    [11, "QUEEN", "", ""],
-    [12, "TENSION ENCHANTER", "", ""],
-    [13, "Thanks for all notes", "", ""],
-    [14, "狂騒", "", ""],
+    [1, "JOURNEY", "ZAQ", ""],
+    [2, "ソラノネ", "ZAQ", ""],
+    [3, "Against The Abyss", "ZAQ", ""],
+    [4, "イノチノアカシ", "ZAQ", ""],
+    [5, "月灯", "ZAQ", ""],
+    [6, "悪夢", "ZAQ", ""],
+    [7, "ASEED", "ZAQ", ""],
+    [8, "Dance In The Game", "ZAQ", ""],
+    [9, "ZIGZAG", "ZAQ", ""],
+    [10, "ANTHEM", "ZAQ", ""],
+    [11, "QUEEN", "ZAQ", ""],
+    [12, "TENSION ENCHANTER", "ZAQ", ""],
+    [13, "Thanks for all notes", "ZAQ", ""],
+    [14, "狂騒", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/121788"]
+links = ["https://beta.musicbrainz.org/release/b4cf170f-0eb7-4548-88cf-74f358194099", "https://vgmdb.net/album/121788"]
 
 [77]
 catalognumber = "LACA-39896"
 date = "2022-09-21"
 album = "ZAQPOT / ZAQ [初回限定盤] Disc 3 [LACA-39896]"
 tracks = [
-    [1, "ヒカリイロの歌", "", ""],
-    [2, "トゥッティ!", "", ""],
-    [3, "Futuristic Player", "", ""],
-    [4, "Howling", "", ""],
-    [5, "JIN", "", ""],
-    [6, "おかえり", "", ""],
-    [7, "-Across the line-", "", ""],
-    [8, "Playing The World", "", ""],
+    [1, "ヒカリイロの歌", "ZAQ", ""],
+    [2, "トゥッティ！", "ZAQ", ""],
+    [3, "Futuristic Player", "ZAQ", ""],
+    [4, "Howling", "ZAQ", ""],
+    [5, "JIN", "ZAQ", ""],
+    [6, "おかえり", "ZAQ", ""],
+    [7, "-Across the line-", "ZAQ", ""],
+    [8, "Playing The World", "ZAQ", ""],
 ]
-links = ["https://vgmdb.net/album/121788"]
+links = ["https://beta.musicbrainz.org/release/b4cf170f-0eb7-4548-88cf-74f358194099", "https://vgmdb.net/album/121788"]
 
 [78]
 catalognumber = "LACA-39985, LACA-39986"
 date = "2023-07-05"
 album = "LUCK LIFE / ラックライフ [初回限定盤] Disc 1 (CD) [LACA-39985]"
 tracks = [
-    [1, "ファンファーレ", "", ""],
-    [2, "サニーデイ", "", ""],
-    [3, "走って", "", ""],
-    [4, "シンボル", "", ""],
-    [5, "理想像", "", ""],
-    [6, "夕焼け小道", "", ""],
-    [7, "僕ら", "", ""],
-    [8, "しるし", "", ""],
-    [9, "君のこと -15th Best Album ver.-", "", ""],
-    [10, "Link", "", ""],
-    [11, "その手とこの手", "", ""],
-    [12, "℃", "", ""],
-    [13, "ハルカヒカリ", "", ""],
+    [1, "ファンファーレ", "ラックライフ", ""],
+    [2, "サニーデイ", "ラックライフ", ""],
+    [3, "走って", "ラックライフ", ""],
+    [4, "シンボル", "ラックライフ", ""],
+    [5, "理想像", "ラックライフ", ""],
+    [6, "夕焼け小道", "ラックライフ", ""],
+    [7, "僕ら", "ラックライフ", ""],
+    [8, "しるし", "ラックライフ", ""],
+    [9, "君のこと -15th Best Album ver.-", "ラックライフ", ""],
+    [10, "Link", "ラックライフ", ""],
+    [11, "その手とこの手", "ラックライフ", ""],
+    [12, "℃", "ラックライフ", ""],
+    [13, "ハルカヒカリ", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/127462"]
+links = ["https://beta.musicbrainz.org/release/be53eba6-9a78-426c-a4db-8b060acb6f11", "https://vgmdb.net/album/127462"]
 
 [79]
 catalognumber = "LACA-39985, LACA-39986"
 date = "2023-07-05"
 album = "LUCK LIFE / ラックライフ [初回限定盤] Disc 2 (CD) [LACA-39986]"
 tracks = [
-    [1, "初めの一歩", "", ""],
-    [2, "リフレイン", "", ""],
-    [3, "変わらない空", "", ""],
-    [4, "Naru", "", ""],
-    [5, "plain", "", ""],
-    [6, "あかり", "", ""],
-    [7, "風が吹く街", "", ""],
-    [8, "Lily", "", ""],
-    [9, "タイムライト", "", ""],
-    [10, "アイトユウ", "", ""],
-    [11, "アオイハル", "", ""],
-    [12, "名前を呼ぶよ", "", ""],
-    [13, "Hand", "", ""],
+    [1, "初めの一歩", "ラックライフ", ""],
+    [2, "リフレイン", "ラックライフ", ""],
+    [3, "変わらない空", "ラックライフ", ""],
+    [4, "Naru", "ラックライフ", ""],
+    [5, "plain", "ラックライフ", ""],
+    [6, "あかり", "ラックライフ", ""],
+    [7, "風が吹く街", "ラックライフ", ""],
+    [8, "Lily", "ラックライフ", ""],
+    [9, "タイムライト", "ラックライフ", ""],
+    [10, "アイトユウ", "ラックライフ", ""],
+    [11, "アオイハル", "ラックライフ", ""],
+    [12, "名前を呼ぶよ", "ラックライフ", ""],
+    [13, "Hand", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/127462"]
+links = ["https://beta.musicbrainz.org/release/be53eba6-9a78-426c-a4db-8b060acb6f11", "https://vgmdb.net/album/127462"]
 
 [80]
 catalognumber = "LACA-39985, LACA-39986"
 date = "2023-07-05"
 album = "LUCK LIFE / ラックライフ [初回限定盤] Disc 3 (Blu-ray)"
 tracks = [
-    [1, "ファンファーレ", "", ""],
-    [2, "名前を呼ぶよ", "", ""],
-    [3, "初めの一歩", "", ""],
-    [4, "風が吹く街", "", ""],
-    [5, "リフレイン", "", ""],
-    [6, "僕ら", "", ""],
-    [7, "シンボル", "", ""],
-    [8, "Naru", "", ""],
-    [9, "Lily", "", ""],
-    [10, "Hand", "", ""],
-    [11, "しるし", "", ""],
-    [12, "℃", "", ""],
+    [1, "ファンファーレ", "ラックライフ", ""],
+    [2, "名前を呼ぶよ", "ラックライフ", ""],
+    [3, "初めの一歩", "ラックライフ", ""],
+    [4, "風が吹く街", "ラックライフ", ""],
+    [5, "リフレイン", "ラックライフ", ""],
+    [6, "僕ら", "ラックライフ", ""],
+    [7, "シンボル", "ラックライフ", ""],
+    [8, "Naru", "ラックライフ", ""],
+    [9, "Lily", "ラックライフ", ""],
+    [10, "Hand", "ラックライフ", ""],
+    [11, "しるし", "ラックライフ", ""],
+    [12, "℃", "ラックライフ", ""],
 ]
-links = ["https://vgmdb.net/album/127462"]
+links = ["https://beta.musicbrainz.org/release/be53eba6-9a78-426c-a4db-8b060acb6f11", "https://vgmdb.net/album/127462"]
 
 [81]
 catalognumber = "AVCD-83266/B"
 date = "2015-07-15"
 album = "マジックミラー/さっちゃんのセクシーカレー / 大森靖子 Disc 1 (CD) [AVCD-83266]"
 tracks = [
-    [1, "マジックミラー", "", ""],
-    [2, "さっちゃんのセクシーカレー", "", ""],
-    [3, "私は悪くない", "", ""],
+    [1, "マジックミラー", "大森靖子", ""],
+    [2, "さっちゃんのセクシーカレー", "大森靖子", ""],
+    [3, "私は悪くない", "大森靖子", ""],
 ]
-links = ["https://vgmdb.net/album/53529"]
+links = ["https://beta.musicbrainz.org/release/6b7e41a9-9666-418c-8942-9f464f767e03", "https://vgmdb.net/album/53529"]
 
 [82]
 catalognumber = "AVCD-83266/B"
 date = "2015-07-15"
 album = "マジックミラー/さっちゃんのセクシーカレー / 大森靖子 Disc 2 (DVD) [AVCD-83266B]"
 tracks = [
-    [1, "大森靖子全国ツアー 「♥爆裂!ナナちゃんとイくラブラブ洗脳ツアー♥」 全会場ライブ映像集", "", ""],
-    [2, "マジックミラー (Music Video)", "", ""],
-    [3, "マジックミラー (Music Video)", "", ""],
+    [1, "大森靖子全国ツアー 「□爆裂!ナナちゃんとイくラブラブ洗脳ツアー□」 全会場ライブ映像集", "大森靖子", ""],
+    [2, "マジックミラー (Music Video)", "大森靖子", ""],
+    [3, "マジックミラー (Music Video) (DVD限定:大森靖子新宿降臨ソロバージョン)", "大森靖子", ""],
 ]
-links = ["https://vgmdb.net/album/53529"]
+links = ["https://beta.musicbrainz.org/release/6b7e41a9-9666-418c-8942-9f464f767e03", "https://vgmdb.net/album/53529"]
 
 [83]
 catalognumber = "1000573354-CD"
@@ -1377,36 +1377,36 @@ catalognumber = "1000573352-CD"
 date = "2015-11-25"
 album = "食戟のソーマ オリジナルサウンドトラック2"
 tracks = [
-    [1, "希望の唄～星のグラスver.～", "", ""],
-    [2, "学園食活1・2・3♪", "", ""],
-    [3, "万里を駆ける料理人", "", ""],
-    [4, "修羅と呼ばれた男", "", ""],
-    [5, "青春テイスティング", "", ""],
-    [6, "味覚狂想曲", "", ""],
-    [7, "シャカシャカフリフリ", "", ""],
-    [8, "GETEMONO総進撃", "", ""],
-    [9, "ウィーンの盛り", "", ""],
-    [10, "隠し味の予兆", "", ""],
-    [11, "試食は踊る", "", ""],
-    [12, "サカナの国から得た恵み", "", ""],
-    [13, "玉(ぎょく)の時代", "", ""],
-    [14, "頂点に立つ美食", "", ""],
-    [15, "苦味を糧に", "", ""],
-    [16, "涙の味", "", ""],
-    [17, "味気なき小夜曲(セレナータ)", "", ""],
-    [18, "語り合う二つの皿", "", ""],
-    [19, "味な仲間たち", "", ""],
-    [20, "挑むべき調理", "", ""],
-    [21, "駆け抜けろレシピ", "", ""],
-    [22, "「不味い」の奥には「美味い」あり", "", ""],
-    [23, "青き果実が羽ばたく日", "", ""],
-    [24, "戟なる者", "", ""],
-    [25, "フレンチの風", "", ""],
-    [26, "北欧烈火と猛吹雪", "", ""],
-    [27, "香りと刺激の伴奏者", "", ""],
-    [28, "ボイリング・ウィッチ", "", ""],
-    [29, "もず屋の唄", "", ""],
-    [30, "スパイス～星の器ver.～", "", ""],
-    [31, "食戟開戦!!", "", ""],
+    [1, "希望の唄 〜星のグラスver.〜", "加藤達也", ""],
+    [2, "学園食活1・2・3♪", "加藤達也", ""],
+    [3, "万里を駆ける料理人", "加藤達也", ""],
+    [4, "修羅と呼ばれた男", "加藤達也", ""],
+    [5, "青春テイスティング", "加藤達也", ""],
+    [6, "味覚狂想曲", "加藤達也", ""],
+    [7, "シャカシャカフリフリ", "加藤達也", ""],
+    [8, "GETEMONO総進撃", "加藤達也", ""],
+    [9, "ウィーンの盛り", "加藤達也", ""],
+    [10, "隠し味の予兆", "加藤達也", ""],
+    [11, "試食は踊る", "加藤達也", ""],
+    [12, "サカナの国から得た恵み", "加藤達也", ""],
+    [13, "玉の時代", "加藤達也", ""],
+    [14, "頂点に立つ美食", "加藤達也", ""],
+    [15, "苦味を糧に", "加藤達也", ""],
+    [16, "涙の味", "加藤達也", ""],
+    [17, "味気なき小夜曲", "加藤達也", ""],
+    [18, "語り合う二つの皿", "加藤達也", ""],
+    [19, "味な仲間たち", "加藤達也", ""],
+    [20, "挑むべき調理", "加藤達也", ""],
+    [21, "駆け抜けろレシピ", "加藤達也", ""],
+    [22, "「不味い」の奥には「美味い」あり", "加藤達也", ""],
+    [23, "青き果実が羽ばたく日", "加藤達也", ""],
+    [24, "戟なる者", "加藤達也", ""],
+    [25, "フレンチの風", "加藤達也", ""],
+    [26, "北欧烈火と猛吹雪", "加藤達也", ""],
+    [27, "香りと刺激の伴奏者", "加藤達也", ""],
+    [28, "ボイリング・ウィッチ", "加藤達也", ""],
+    [29, "もず屋の唄", "佐咲紗花", ""],
+    [30, "スパイス 〜星の器ver.〜", "加藤達也", ""],
+    [31, "食戟開戦!!", "加藤達也", ""],
 ]
-links = ["https://vgmdb.net/album/53339"]
+links = ["https://beta.musicbrainz.org/release/405b0a44-8d14-4dea-be46-2374144d43ef", "https://vgmdb.net/album/53339"]

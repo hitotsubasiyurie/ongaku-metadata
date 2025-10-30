@@ -25,160 +25,160 @@ catalognumber = "PCCA-03250"
 date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [FAIRY TAIL盤] Vocal"
 tracks = [
-    [1, "R.P.G.~Rockin' Playing Game", "", ""],
-    [2, "don't stop da muzic", "", ""],
+    [1, "R.P.G.〜Rockin' Playing Game", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", ""],
 ]
-links = ["https://vgmdb.net/album/45850"]
+links = ["https://beta.musicbrainz.org/release/08fd610b-0fd1-4a31-b18a-d4aa5059e14a", "https://vgmdb.net/album/45850"]
 
 [4]
 catalognumber = "PCCA-03250"
 date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [FAIRY TAIL盤] Video"
 tracks = [
-    [1, "「FAIRY TAIL」オープニング映像", "", ""],
+    [1, "R.P.G.～Rockin' Playing Game (FAIRY TAIL オープニング映像)", "SuG", ""],
 ]
-links = ["https://vgmdb.net/album/45850"]
+links = ["https://beta.musicbrainz.org/release/08fd610b-0fd1-4a31-b18a-d4aa5059e14a", "https://vgmdb.net/album/45850"]
 
 [5]
 catalognumber = "PCCA-03384"
 date = "2011-06-08"
 album = "ひとりさみしく / ShaNa"
 tracks = [
-    [1, "Intro", "", ""],
-    [2, "宴", "", ""],
-    [3, "Lion Da Soul feat.GIO,ITACHI", "", ""],
-    [4, "恋模様 feat.LGYankees", "", ""],
-    [5, "Sunday feat.SO-TA", "", ""],
-    [6, "tears", "", ""],
-    [7, "Booty Call feat.Noa", "", ""],
-    [8, "Nasty Boy", "", ""],
-    [9, "ひとりさみしく", "", ""],
-    [10, "Outro", "", ""],
-    [11, "Yell 3.11 -Special Bonus Track-", "", ""],
+    [1, "Intro", "ShaNa", ""],
+    [2, "宴", "ShaNa", ""],
+    [3, "Lion Da Soul", "ShaNa feat. GIO, ITACHI", ""],
+    [4, "恋模様", "ShaNa feat. LGYankees", ""],
+    [5, "Sunday", "ShaNa feat. SO-TA", ""],
+    [6, "tears", "ShaNa", ""],
+    [7, "Booty Call", "ShaNa feat. Noa", ""],
+    [8, "Nasty Boy", "ShaNa", ""],
+    [9, "ひとりさみしく", "ShaNa", ""],
+    [10, "Outro", "ShaNa", ""],
+    [11, "Yell 3.11", "ShaNa", ""],
 ]
-links = ["https://vgmdb.net/album/55028"]
+links = ["https://beta.musicbrainz.org/release/6c46288c-f535-44cc-88ce-83e2d9770888", "https://vgmdb.net/album/55028"]
 
 [6]
 catalognumber = "EYXA-11541B"
 date = "2017-11-17"
 album = "劇場版FAIRY TAIL -DRAGON CRY- SOUND COLLECTION CD"
 tracks = [
-    [1, "闇の奥へ", "", ""],
-    [2, "鳥の巣のナツ", "", ""],
-    [3, "メインタイトル", "", ""],
-    [4, "ザッシュ還る", "", ""],
-    [5, "白虎の惨劇", "", ""],
-    [6, "魂の悲鳴", "", ""],
-    [7, "ハッピーと犬", "", ""],
-    [8, "フェアリーテイルの仲間たち", "", ""],
-    [9, "竜の涙-ドラゴンクライ-", "", ""],
-    [10, "ステラ王国", "", ""],
-    [11, "ミッション開始", "", ""],
-    [12, "踊り子ルーシー", "", ""],
-    [13, "宝物庫への潜入", "", ""],
-    [14, "ドラゴンクライ奪還", "", ""],
-    [15, "王都追撃戦", "", ""],
-    [16, "ナツvs.ザッシュ", "", ""],
-    [17, "アニムスとソーニャ", "", ""],
-    [18, "ガジル・オン・ステージ", "", ""],
-    [19, "スリースターズ襲来", "", ""],
-    [20, "鳥の巣を逃れて", "", ""],
-    [21, "囚われのルーシー", "", ""],
-    [22, "ルーシー救出作戦", "", ""],
-    [23, "ソーニャ", "", ""],
-    [24, "ステラの星空", "", ""],
-    [25, "神殿へ向え", "", ""],
-    [26, "夕陽の大乱戦", "", ""],
-    [27, "ルーシーの反撃", "", ""],
-    [28, "エルザvs.スワン", "", ""],
-    [29, "華麗なる空中戦", "", ""],
-    [30, "ジュビア愛の勝利", "", ""],
-    [31, "エルザvs.スワン Ⅱ", "", ""],
-    [32, "七つの星に裁かれよ", "", ""],
-    [33, "鏡の中のアニムス", "", ""],
-    [34, "ドラゴンの呼び声", "", ""],
-    [35, "復讐鬼ザッシュ", "", ""],
-    [36, "ドラゴン復活す", "", ""],
-    [37, "クァルトゥム兵出現", "", ""],
-    [38, "怒りの火", "", ""],
-    [39, "塔上の激突", "", ""],
-    [40, "魂の輝き今は消え", "", ""],
-    [41, "走馬灯", "", ""],
-    [42, "ドラゴンvs.ドラゴン", "", ""],
-    [43, "ドラゴンの涙", "", ""],
-    [44, "家族", "", ""],
-    [45, "始まりの記憶", "", ""],
-    [46, "WHAT YOU ARE", "", ""],
+    [1, "闇の奥へ", "高梨康治", ""],
+    [2, "鳥の巣のナツ", "高梨康治", ""],
+    [3, "メインタイトル", "高梨康治", ""],
+    [4, "ザッシュ還る", "高梨康治", ""],
+    [5, "白虎の惨劇", "高梨康治", ""],
+    [6, "魂の悲鳴", "高梨康治", ""],
+    [7, "ハッピーと犬", "高梨康治", ""],
+    [8, "フェアリーテイルの仲間たち", "高梨康治", ""],
+    [9, "竜の涙-ドラゴンクライ-", "高梨康治", ""],
+    [10, "ステラ王国", "高梨康治", ""],
+    [11, "ミッション開始", "高梨康治", ""],
+    [12, "踊り子ルーシー", "高梨康治", ""],
+    [13, "宝物庫への潜入", "高梨康治", ""],
+    [14, "ドラゴンクライ奪還", "高梨康治", ""],
+    [15, "王都追撃戦", "高梨康治", ""],
+    [16, "ナツvs.ザッシュ", "高梨康治", ""],
+    [17, "アニムスとソーニャ", "高梨康治", ""],
+    [18, "ガジル・オン・ステージ", "高梨康治", ""],
+    [19, "スリースターズ襲来", "高梨康治", ""],
+    [20, "鳥の巣を逃れて", "高梨康治", ""],
+    [21, "囚われのルーシー", "高梨康治", ""],
+    [22, "ルーシー救出作戦", "高梨康治", ""],
+    [23, "ソーニャ", "高梨康治", ""],
+    [24, "ステラの星空", "高梨康治", ""],
+    [25, "神殿へ向え", "高梨康治", ""],
+    [26, "夕陽の大乱戦", "高梨康治", ""],
+    [27, "ルーシーの反撃", "高梨康治", ""],
+    [28, "エルザvs.スワン", "高梨康治", ""],
+    [29, "華麗なる空中戦", "高梨康治", ""],
+    [30, "ジュビア愛の勝利", "高梨康治", ""],
+    [31, "エルザvs.スワン Ⅱ", "高梨康治", ""],
+    [32, "七つの星に裁かれよ", "高梨康治", ""],
+    [33, "鏡の中のアニムス", "高梨康治", ""],
+    [34, "ドラゴンの呼び声", "高梨康治", ""],
+    [35, "復讐鬼ザッシュ", "高梨康治", ""],
+    [36, "ドラゴン復活す", "高梨康治", ""],
+    [37, "クァルトゥム兵出現", "高梨康治", ""],
+    [38, "怒りの火", "高梨康治", ""],
+    [39, "塔上の激突", "高梨康治", ""],
+    [40, "魂の輝き今は消え", "高梨康治", ""],
+    [41, "走馬灯", "高梨康治", ""],
+    [42, "ドラゴンvs.ドラゴン", "高梨康治", ""],
+    [43, "ドラゴンの涙", "高梨康治", ""],
+    [44, "家族", "高梨康治", ""],
+    [45, "始まりの記憶", "高梨康治", ""],
+    [46, "WHAT YOU ARE", "POLKA DOTS", ""],
 ]
-links = ["https://vgmdb.net/album/71500"]
+links = ["https://beta.musicbrainz.org/release/eec80383-43a2-4d32-a086-a6b1bd5f4770", "https://vgmdb.net/album/71500"]
 
 [7]
 catalognumber = "QWCE-00565"
 date = "2016-02-24"
 album = "Ryu☆BEST -MOONLiGHT- Original Soundtrack"
 tracks = [
-    [1, "でんでんぱっしょん (Ryu☆Remix) / でんぱ組.inc", "", ""],
-    [2, "ドアラのテーマ / DJ DOALA", "", ""],
-    [3, "Glitter (Starving Trancer Remix) feat. Another Infinity / Mayumi Morinaga", "", ""],
-    [4, "Affection / Another Infinity feat. Mayumi Morinaga", "", ""],
-    [5, "ウッーウッーウマウマ(゜∀゜) (Ryu*Remix)", "", ""],
-    [6, "Scatman (Ryu☆Remix) / MARK OH", "", ""],
-    [7, "BAD BOY (HANDS UP MIX) / CASCADA", "", ""],
-    [8, "Genesis At Oasis (MOONLiGHT Mix) / 白龍", "", ""],
-    [9, "Eclipse Zero (MOONLiGHT Mix) / tūmahaB", "", ""],
-    [10, "KOROBUSHKA (Ryu☆Remix)", "", ""],
-    [11, "My Babe Bee / Another Infinity feat. Mayumi Morinaga", "", ""],
-    [12, "Snow Crystal / Another Infinity feat. Mayumi Morinaga", "", ""],
-    [13, "STARS (Ryu☆Remix) / Another Infinity feat. Mayumi Morinaga", "", ""],
-    [14, "しろねこさん / Ryu* feat. moimoi", "", ""],
-    [15, "CRITICAL LINE / Ryu☆ feat. kradness", "", ""],
-    [16, "Infinity Rise / Ryu* feat. kradness & Kanae Asaba", "", ""],
-    [17, "炉心融解 (Ryu☆Remix) / iroha(sasaki)", "", ""],
-    [18, "ぽっぴっぽー (Ryu☆Remix) / ラマーズP", "", ""],
-    [19, "バンブーソード・ガール (Ryu☆RMX) / cosMo@暴走P", "", ""],
-    [20, "エンゼルフィッシュ (Ryu*Remix) / EVO+", "", ""],
+    [1, "でんでんぱっしょん (Ryu☆Remix)", "でんぱ組.inc", ""],
+    [2, "ドアラのテーマ", "DJ DOALA", ""],
+    [3, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", ""],
+    [4, "Affection", "Another Infinity feat. Mayumi Morinaga", ""],
+    [5, "ウッーウッーウマウマ(゜∀゜) (Ryu*Remix)", "Caramell", ""],
+    [6, "Scatman (Ryu☆Remix)", "Ryu☆", ""],
+    [7, "BAD BOY (HANDS UP MIX)", "CASCADA", ""],
+    [8, "Genesis At Oasis (MOONLiGHT Mix)", "白龍", ""],
+    [9, "Eclipse Zero (MOONLiGHT Mix)", "tūmahaB", ""],
+    [10, "KOROBUSHKA (Ryu☆Remix)", "Ryu☆", ""],
+    [11, "My Babe Bee", "Another Infinity feat. Mayumi Morinaga", ""],
+    [12, "Snow Crystal", "Another Infinity feat. Mayumi Morinaga", ""],
+    [13, "STARS (Ryu☆Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [14, "しろねこさん", "Ryu* feat. moimoi", ""],
+    [15, "CRITICAL LINE", "Ryu☆ feat. kradness", ""],
+    [16, "Infinity Rise", "Ryu* feat. kradness & Kanae Asaba", ""],
+    [17, "炉心融解 (Ryu☆Remix)", "iroha(sasaki)", ""],
+    [18, "ぽっぴっぽー (Ryu☆Remix)", "ラマーズP", ""],
+    [19, "バンブーソード・ガール (Ryu☆RMX)", "cosMo@暴走P", ""],
+    [20, "エンゼルフィッシュ (Ryu*Remix)", "EVO+", ""],
 ]
-links = ["https://vgmdb.net/album/59437"]
+links = ["https://beta.musicbrainz.org/release/ff1705e2-554f-48a5-ba26-7c44d9e6e598", "https://vgmdb.net/album/59437"]
 
 [8]
 catalognumber = "QWCE-00565"
 date = "2016-02-24"
 album = "Ryu☆BEST -MOONLiGHT- Disc 2"
 tracks = [
-    [1, "Water Horizon / 青龍", "", ""],
-    [2, "AI / Ryu*", "", ""],
-    [3, "RaveR / Ryu☆", "", ""],
-    [4, "Seventh Heaven / Ryu☆", "", ""],
-    [5, "Illusion / Ryu☆", "", ""],
-    [6, "Nordic wind / Another Infinity", "", ""],
-    [7, "M3 / Ryu☆", "", ""],
-    [8, "Rise From The Ashes / Another Infinity vs MK feat. Mayumi Morinaga", "", ""],
-    [9, "sukha / Ryu☆", "", ""],
-    [10, "Sakura Luminance / Ryu☆", "", ""],
-    [11, "R U Ready? / Ryu☆", "", ""],
-    [12, "Ultramarine / 青龍", "", ""],
-    [13, "Kaleidoscope / 桜龍", "", ""],
-    [14, "dreamin' feat. Ryu☆ (+VOX Mix) / Mayumi Morinaga", "", ""],
-    [15, "orion / Ryu*", "", ""],
-    [16, "One By One / Ryu*", "", ""],
-    [17, "TENKU / Ryu☆", "", ""],
-    [18, "Tranny Stream / Ryu☆", "", ""],
-    [19, "BLUE DRAGON / 青龍", "", ""],
-    [20, "MOONLiGHT / 月龍", "", ""],
+    [1, "Water Horizon", "青龍", ""],
+    [2, "AI", "Ryu*", ""],
+    [3, "RaveR", "Ryu☆", ""],
+    [4, "Seventh Heaven", "Ryu☆", ""],
+    [5, "Illusion", "Ryu☆", ""],
+    [6, "Nordic wind", "Another Infinity", ""],
+    [7, "M3", "Ryu☆", ""],
+    [8, "Rise From The Ashes", "Another Infinity vs MK feat. Mayumi Morinaga", ""],
+    [9, "sukha", "Ryu☆", ""],
+    [10, "Sakura Luminance", "Ryu☆", ""],
+    [11, "R U Ready?", "Ryu☆", ""],
+    [12, "Ultramarine", "青龍", ""],
+    [13, "Kaleidoscope", "桜龍", ""],
+    [14, "dreamin' (+VOX Mix)", "Mayumi Morinaga", ""],
+    [15, "orion", "Ryu*", ""],
+    [16, "One By One", "Ryu*", ""],
+    [17, "TENKU", "Ryu☆", ""],
+    [18, "Tranny Stream", "Ryu☆", ""],
+    [19, "BLUE DRAGON", "青龍", ""],
+    [20, "MOONLiGHT", "月龍", ""],
 ]
-links = ["https://vgmdb.net/album/59437"]
+links = ["https://beta.musicbrainz.org/release/ff1705e2-554f-48a5-ba26-7c44d9e6e598", "https://vgmdb.net/album/59437"]
 
 [9]
 catalognumber = "PCCA-03443"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!!"
 tracks = [
-    [1, "Don't think.Feel!!!", "", ""],
-    [2, "恋の20連鎖!! ～またまたver.～", "", ""],
-    [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "", ""],
-    [4, "Don't think.Feel!!! (Instrumental)", "", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [2, "恋の20連鎖!! 〜またまたver.〜", "ぷよぷよアイドリング!!!", ""],
+    [3, "アルファベットでこれなんだ!? 〜保健室大作戦〜", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45883"]
+links = ["https://beta.musicbrainz.org/release/99054bef-6db2-494c-b25c-616843d5597c", "https://vgmdb.net/album/45883"]
 
 [10]
 catalognumber = "RZCD-59654/B"
@@ -216,21 +216,21 @@ catalognumber = "PCCA-03442"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 1 (CD) [PCCA-03442-1]"
 tracks = [
-    [1, "Don't think.Feel!!!", "", ""],
-    [2, "恋の20連鎖!! ～がらがらver.～", "", ""],
-    [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "", ""],
-    [4, "Don't think.Feel!!! (Instrumental)", "", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [2, "恋の20連鎖!! 〜がらがらver.〜", "ぷよぷよアイドリング!!!", ""],
+    [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45884"]
+links = ["https://beta.musicbrainz.org/release/6a9bb849-77da-4dcd-94d7-b8fa66eb53c2", "https://vgmdb.net/album/45884"]
 
 [13]
 catalognumber = "PCCA-03442"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 2 (DVD) [PCCA-03442-2]"
 tracks = [
-    [1, "TVアニメ「FAIRY TAIL」ノンテロップエンディング映像", "", ""],
+    [1, "アニメ『FAIRY TAIL』ノンテロップエンディング映像", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45884"]
+links = ["https://beta.musicbrainz.org/release/6a9bb849-77da-4dcd-94d7-b8fa66eb53c2", "https://vgmdb.net/album/45884"]
 
 [14]
 catalognumber = "AVCD-96378/B"
@@ -294,11 +294,11 @@ catalognumber = "PCCA-03237"
 date = "2010-07-21"
 album = "君がいるから / 下川みくに Disc 1 (CD) [PCCA-03237-1]"
 tracks = [
-    [1, "君がいるから", "", ""],
-    [2, "会いたくて", "", ""],
-    [3, "君がいるから ～instrumental～", "", ""],
+    [1, "君がいるから", "下川みくに", ""],
+    [2, "会いたくて", "下川みくに", ""],
+    [3, "君がいるから 〜instrumental〜", "下川みくに", ""],
 ]
-links = ["https://vgmdb.net/album/45847"]
+links = ["https://beta.musicbrainz.org/release/b2ce925d-fccb-4b67-8f01-72eb5014e192", "https://vgmdb.net/album/45847"]
 
 [18]
 catalognumber = "PCCA-03237"
@@ -314,191 +314,191 @@ catalognumber = "AVCK-79202/B"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA Disc 1 (CD)"
 tracks = [
-    [1, "MASAYUME CHASING", "", ""],
-    [2, "FUN", "", ""],
-    [3, "MASAYUME CHASING (INST)", "", ""],
-    [4, "FUN (INST)", "", ""],
+    [1, "MASAYUME CHASING", "BoA", ""],
+    [2, "FUN", "BoA", ""],
+    [3, "MASAYUME CHASING (INST)", "BoA", ""],
+    [4, "FUN (INST)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45922"]
+links = ["https://beta.musicbrainz.org/release/518f8d1a-9562-4169-bab4-bd461cda0a87", "https://vgmdb.net/album/45922"]
 
 [20]
 catalognumber = "AVCK-79202/B"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA Disc 2 (DVD)"
 tracks = [
-    [1, "MASAYUME CHASING (Music Video Dance Ver)", "", ""],
-    [2, "MASAYUME CHASING (Making)", "", ""],
+    [1, "MASAYUME CHASING (music video)", "BoA", ""],
+    [2, "MASAYUME CHASING (making)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45922"]
+links = ["https://beta.musicbrainz.org/release/518f8d1a-9562-4169-bab4-bd461cda0a87", "https://vgmdb.net/album/45922"]
 
 [21]
 catalognumber = "PCCA-03830"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3"
 tracks = [
-    [1, "I Wish", "", ""],
-    [2, "Boys be Ambitious!!", "", ""],
-    [3, "はじまりの空", "", ""],
-    [4, "Glitter (Starving Trancer Remix)", "", ""],
-    [5, "「テノヒラ」", "", ""],
-    [6, "YELL(エール)～輝くためのもの～", "", ""],
-    [7, "Breakthrough", "", ""],
-    [8, "キミがくれたもの", "", ""],
-    [9, "フェアリーテイル～約束の日～", "", ""],
-    [10, "We're the stars", "", ""],
+    [1, "I Wish", "Milky Bunny", ""],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [3, "はじまりの空", "+Plus", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [5, "「テノヒラ」", "HERO", ""],
+    [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [8, "キミがくれたもの", "工藤静香", ""],
+    [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
+    [10, "We're the stars", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/38641"]
+links = ["https://beta.musicbrainz.org/release/5ae34707-d46e-4932-9c3b-e61bbb353502", "https://vgmdb.net/album/38641"]
 
 [22]
 catalognumber = "AVCD-96303"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH"
 tracks = [
-    [1, "DiSTANCE", "", ""],
-    [2, "遂に死", "", ""],
-    [3, "MORE THAN LiKE", "", ""],
-    [4, "FREEZE DRY THE PASTS", "", ""],
-    [5, "CHOP", "", ""],
-    [6, "I am me.", "", ""],
-    [7, "NO SWEET", "", ""],
-    [8, "O・S", "", ""],
-    [9, "まだ途中", "", ""],
-    [10, "優しいPAiN", "", ""],
-    [11, "アイデンティティ", "", ""],
-    [12, "FiNALLY", "", ""],
-    [13, "CAN YOU??", "", ""],
-    [14, "GRUNGE WORLD", "", ""],
+    [1, "DiSTANCE", "BiSH", ""],
+    [2, "遂に死", "BiSH", ""],
+    [3, "MORE THAN LiKE", "BiSH", ""],
+    [4, "FREEZE DRY THE PASTS", "BiSH", ""],
+    [5, "CHOP", "BiSH", ""],
+    [6, "I am me.", "BiSH", ""],
+    [7, "NO SWEET", "BiSH", ""],
+    [8, "O・S", "BiSH", ""],
+    [9, "まだ途中", "BiSH", ""],
+    [10, "優しいPAiN", "BiSH", ""],
+    [11, "アイデンティティ", "BiSH", ""],
+    [12, "FiNALLY", "BiSH", ""],
+    [13, "CAN YOU??", "BiSH", ""],
+    [14, "GRUNGE WORLD", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90167"]
+links = ["https://beta.musicbrainz.org/release/33534b6e-c1f3-40f3-816f-8c5b1f539d9d", "https://vgmdb.net/album/90167"]
 
 [23]
 catalognumber = "RZCB-87005"
 date = "2019-09-18"
 album = "ユラレル / みゆな"
 tracks = [
-    [1, "ユラレル", "", ""],
-    [2, "グルグル", "", ""],
-    [3, "僕と君のララバイ", "", ""],
-    [4, "缶ビール", "", ""],
-    [5, "くちなしの言葉", "", ""],
-    [6, "進め", "", ""],
-    [7, "生きなきゃ", "", ""],
+    [1, "ユラレル", "みゆな", ""],
+    [2, "グルグル", "みゆな", ""],
+    [3, "僕と君のララバイ", "みゆな", ""],
+    [4, "缶ビール", "みゆな", ""],
+    [5, "くちなしの言葉", "みゆな", ""],
+    [6, "進め", "みゆな", ""],
+    [7, "生きなきゃ", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/89082"]
+links = ["https://beta.musicbrainz.org/release/515d78b2-dc27-4f3b-8cda-db2325e00093", "https://vgmdb.net/album/89082"]
 
 [24]
 catalognumber = "PCCA-03158"
 date = "2010-04-28"
 album = "ft./ピースボール [FAIRY TAIL EDITION] / FUNKIST Disc 1 (CD) [PCCA-03158-1]"
 tracks = [
-    [1, "ft. (with 真島ヒロ、西本英雄)", "", ""],
-    [2, "ピースボール", "", ""],
-    [3, "メロディー (Acoustic ver.)", "", ""],
+    [1, "ft.", "FUNKIST", ""],
+    [2, "ピースボール", "FUNKIST", ""],
+    [3, "メロディー (Acoustic ver.)", "FUNKIST", ""],
 ]
-links = ["https://vgmdb.net/album/45845"]
+links = ["https://beta.musicbrainz.org/release/da32dc1a-10db-43a1-913e-faf5f1057d8c", "https://vgmdb.net/album/45845"]
 
 [25]
 catalognumber = "PCCA-03158"
 date = "2010-04-28"
 album = "ft./ピースボール [FAIRY TAIL EDITION] / FUNKIST Disc 2 (DVD) [PCCA-03158-2]"
 tracks = [
-    [1, "TVアニメ「FAIRY TAIL」ノンテロップ オープニング映像", "", ""],
+    [1, "特典DVD TVアニメ「FAIRY TAIL」ノンテロップ オープニング映像", "FUNKIST", ""],
 ]
-links = ["https://vgmdb.net/album/45845"]
+links = ["https://beta.musicbrainz.org/release/da32dc1a-10db-43a1-913e-faf5f1057d8c", "https://vgmdb.net/album/45845"]
 
 [26]
 catalognumber = "PCCA-03299"
 date = "2010-11-17"
 album = "エガオノマホウ / MAGIC PARTY Disc 1 (CD) [PCCA-03299-1]"
 tracks = [
-    [1, "エガオノマホウ", "", ""],
-    [2, "パズル", "", ""],
-    [3, "エガオノマホウ (TVサイズカラオケ)", "", ""],
+    [1, "エガオノマホウ", "MAGIC PARTY", ""],
+    [2, "パズル", "MAGIC PARTY", ""],
+    [3, "エガオノマホウ (TVサイズカラオケ)", "MAGIC PARTY", ""],
 ]
-links = ["https://vgmdb.net/album/45860"]
+links = ["https://beta.musicbrainz.org/release/4a0be36e-8160-4a33-bbcf-5dc536bdeb2a", "https://vgmdb.net/album/45860"]
 
 [27]
 catalognumber = "PCCA-03299"
 date = "2010-11-17"
 album = "エガオノマホウ / MAGIC PARTY Disc 2 (DVD) [PCCA-03299-2]"
 tracks = [
-    [1, "TVアニメ「FAIRY TAIL」 ノンテロップ オープニング映像", "", ""],
+    [1, "TVアニメ「FAIRY TAIL」 ノンテロップ オープニング映像", "MAGIC PARTY", ""],
 ]
-links = ["https://vgmdb.net/album/45860"]
+links = ["https://beta.musicbrainz.org/release/4a0be36e-8160-4a33-bbcf-5dc536bdeb2a", "https://vgmdb.net/album/45860"]
 
 [28]
 catalognumber = "AVCD-83132"
 date = "2014-12-10"
 album = "Mysterious Magic / Do As Infinity [Limited Edition]"
 tracks = [
-    [1, "Mysterious Magic", "", ""],
-    [2, "Tidy Beauty", "", ""],
+    [1, "Mysterious Magic", "Do As Infinity", ""],
+    [2, "Tidy Beauty", "Do As Infinity", ""],
 ]
-links = ["https://vgmdb.net/album/48685"]
+links = ["https://beta.musicbrainz.org/release/53145c9f-9bec-4e9c-b5cd-041d3a314164", "https://vgmdb.net/album/48685"]
 
 [29]
 catalognumber = "AVCK-79215"
 date = "2014-09-03"
 album = "WHO'S BACK? / BoA"
 tracks = [
-    [1, "First Time", "", ""],
-    [2, "Shout It Out", "", ""],
-    [3, "Only One", "", ""],
-    [4, "FUN", "", ""],
-    [5, "Message", "", ""],
-    [6, "WOO WEEKEND", "", ""],
-    [7, "Milestone", "", ""],
-    [8, "I SEE ME", "", ""],
-    [9, "MASAYUME CHASING", "", ""],
-    [10, "The Shadow", "", ""],
-    [11, "close to me", "", ""],
-    [12, "Call my name", "", ""],
-    [13, "Baby you..", "", ""],
-    [14, "Tail of Hope", "", ""],
+    [1, "First Time", "BoA", ""],
+    [2, "Shout It Out", "BoA", ""],
+    [3, "Only One", "BoA", ""],
+    [4, "FUN", "BoA", ""],
+    [5, "Message", "BoA", ""],
+    [6, "WOO WEEKEND", "BoA", ""],
+    [7, "Milestone", "BoA", ""],
+    [8, "I SEE ME", "BoA", ""],
+    [9, "MASAYUME CHASING", "BoA", ""],
+    [10, "The Shadow", "BoA", ""],
+    [11, "close to me", "BoA", ""],
+    [12, "Call my name", "BoA", ""],
+    [13, "Baby you..", "BoA", ""],
+    [14, "Tail of Hope", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/57496"]
+links = ["https://beta.musicbrainz.org/release/14fdecc7-02f6-4670-98ba-82f53076b121", "https://vgmdb.net/album/57496"]
 
 [30]
 catalognumber = "PCCA-03020"
 date = "2009-11-11"
 album = "完璧ぐ～のね / 渡り廊下走り隊 Disc 1 (CD) [PCCA-03020-1]"
 tracks = [
-    [1, "完璧ぐ～のね", "", ""],
-    [2, "冒険エトセトラ", "", ""],
-    [3, "風のバイオリン", "", ""],
-    [4, "完璧ぐ～のね (Instrumental)", "", ""],
-    [5, "冒険エトセトラ (Instrumental)", "", ""],
-    [6, "風のバイオリン (Instrumental)", "", ""],
+    [1, "完璧ぐ〜のね", "渡り廊下走り隊", ""],
+    [2, "冒険エトセトラ", "渡り廊下走り隊", ""],
+    [3, "風のバイオリン", "渡辺麻友", ""],
+    [4, "完璧ぐ〜のね (instrumental)", "渡り廊下走り隊", ""],
+    [5, "冒険エトセトラ (instrumental)", "渡り廊下走り隊", ""],
+    [6, "風のバイオリン (instrumental)", "渡辺麻友", ""],
 ]
-links = ["https://vgmdb.net/album/45817"]
+links = ["https://beta.musicbrainz.org/release/da29ad7e-793d-38e8-94a2-0294d3f6bc7e", "https://vgmdb.net/album/45817"]
 
 [31]
 catalognumber = "PCCA-03020"
 date = "2009-11-11"
 album = "完璧ぐ～のね / 渡り廊下走り隊 Disc 2 (DVD) [PCCA-03020-2]"
 tracks = [
-    [1, "渡り廊下走り隊「シャッフルしても4人は仲良し PART2」", "", ""],
-    [2, "TVアニメ「FAIRY TAIL」ノンテロップ エンディング映像", "", ""],
+    [1, "シャッフルしても4人は仲良しPart2", "渡り廊下走り隊", ""],
+    [2, "TVアニメ「FAIRY TAIL」ノンテロップ エンディング映像", "渡り廊下走り隊", ""],
 ]
-links = ["https://vgmdb.net/album/45817"]
+links = ["https://beta.musicbrainz.org/release/da29ad7e-793d-38e8-94a2-0294d3f6bc7e", "https://vgmdb.net/album/45817"]
 
 [32]
 catalognumber = "PCCG-01368"
 date = "2013-11-06"
 album = "Love / 愛美"
 tracks = [
-    [1, "天使のCLOVER (Love edit)", "", ""],
-    [2, "Courage song", "", ""],
-    [3, "運命の檻", "", ""],
-    [4, "We're the stars", "", ""],
-    [5, "LIVE for LIFE - 狼たちの夜 -", "", ""],
-    [6, "数えきれないさよなら", "", ""],
-    [7, "Link", "", ""],
-    [8, "永遠", "", ""],
-    [9, "君が好きだよ。", "", ""],
-    [10, "Love", "", ""],
+    [1, "天使のCLOVER(Love edit)", "愛美", ""],
+    [2, "Courage song", "愛美", ""],
+    [3, "運命の檻", "愛美", ""],
+    [4, "We’re the stars", "愛美", ""],
+    [5, "LIVE for LIFE ~狼たちの夜~", "愛美", ""],
+    [6, "数え切れないさよなら", "愛美", ""],
+    [7, "Link", "愛美", ""],
+    [8, "永遠", "愛美", ""],
+    [9, "君が好きだよ。", "愛美", ""],
+    [10, "LOVE", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/86368"]
+links = ["https://beta.musicbrainz.org/release/a742aeca-ba59-488b-8289-b5ee4a61dcdb", "https://vgmdb.net/album/86368"]
 
 [33]
 catalognumber = "PCCA-03386"
@@ -527,36 +527,36 @@ catalognumber = "EYCA-10541"
 date = "2015-08-19"
 album = "NEVER-END TALE / 小林竜之、鈴木このみ"
 tracks = [
-    [1, "NEVER-END TALE", "", ""],
-    [2, "FOREVER HERE", "", ""],
-    [3, "NEVER-END TALE (Instrumental)", "", ""],
-    [4, "FOREVER HERE (Instrumental)", "", ""],
+    [1, "NEVER-END TALE", "小林竜之、鈴木このみ", ""],
+    [2, "FOREVER HERE", "石田燿子", ""],
+    [3, "NEVER-END TALE (Instrumental)", "小林竜之、鈴木このみ", ""],
+    [4, "FOREVER HERE (Instrumental)", "石田燿子", ""],
 ]
-links = ["https://vgmdb.net/album/53291"]
+links = ["https://beta.musicbrainz.org/release/1986b86e-e2c0-4666-aa24-e98468cf6dfd", "https://vgmdb.net/album/53291"]
 
 [36]
 catalognumber = "PCCA-03157"
 date = "2010-04-28"
 album = "ft./ピースボール / FUNKIST"
 tracks = [
-    [1, "ft.", "", ""],
-    [2, "ピースボール", "", ""],
-    [3, "メロディー (Acoustic ver.)", "", ""],
+    [1, "ft.", "FUNKIST", ""],
+    [2, "ピースボール", "FUNKIST", ""],
+    [3, "メロディー （Acoustic ver.）", "FUNKIST", ""],
 ]
-links = ["https://vgmdb.net/album/45846"]
+links = ["https://beta.musicbrainz.org/release/f3cc909e-751c-4c66-a9ea-68e135f030fc", "https://vgmdb.net/album/45846"]
 
 [37]
 catalognumber = "CTCR-40363/B"
 date = "2014-07-30"
 album = "Departure/STRIKE BACK / BACK-ON Vocal"
 tracks = [
-    [1, "Departure", "", ""],
-    [2, "STRIKE BACK", "", ""],
-    [3, "Departure (日本工学院Ver.)", "", ""],
-    [4, "Departure (instrumental)", "", ""],
-    [5, "STRIKE BACK (instrumental)", "", ""],
+    [1, "Departure", "BACK-ON", ""],
+    [2, "STRIKE BACK", "BACK-ON", ""],
+    [3, "Departure (日本工学院Ver.)", "BACK-ON", ""],
+    [4, "Departure (instrumental)", "BACK-ON", ""],
+    [5, "STRIKE BACK (instrumental)", "BACK-ON", ""],
 ]
-links = ["https://vgmdb.net/album/46666"]
+links = ["https://beta.musicbrainz.org/release/e2f02257-61a6-4ffc-b05b-d462926f635a", "https://vgmdb.net/album/46666"]
 
 [38]
 catalognumber = "CTCR-40363/B"
@@ -573,24 +573,24 @@ catalognumber = "AVCD-16509"
 date = "2015-01-28"
 album = "7 WONDERS / 西内まりや"
 tracks = [
-    [1, "7 WONDERS", "", ""],
-    [2, "Don't let me down", "", ""],
-    [3, "7 WONDERS (Instrumental)", "", ""],
-    [4, "Don't let me down (Instrumental)", "", ""],
+    [1, "7 WONDERS", "西内まりや", ""],
+    [2, "Don’t let me down", "西内まりや", ""],
+    [3, "7 WONDERS (Instrumental)", "西内まりや", ""],
+    [4, "Don’t let me down (Instrumental)", "西内まりや", ""],
 ]
-links = ["https://vgmdb.net/album/50382"]
+links = ["https://beta.musicbrainz.org/release/678dfbc2-e42b-4e2b-8ce6-cdfaca37e38d", "https://vgmdb.net/album/50382"]
 
 [40]
 catalognumber = "PCCA-03341"
 date = "2011-01-26"
 album = "Be As One/Let's get it on / w-inds."
 tracks = [
-    [1, "Be As One", "", ""],
-    [2, "Let's get it on", "", ""],
-    [3, "Noise", "", ""],
-    [4, "To My Fans", "", ""],
+    [1, "Be As One", "w-inds.", ""],
+    [2, "Let’s get it on", "w-inds.", ""],
+    [3, "Noise", "w-inds.", ""],
+    [4, "To My Fans", "w-inds.", ""],
 ]
-links = ["https://vgmdb.net/album/45870"]
+links = ["https://beta.musicbrainz.org/release/3a6ef2b9-7fe7-4a93-b7dc-21852cf21ecc", "https://vgmdb.net/album/45870"]
 
 [41]
 catalognumber = "ANTCD-16038"
@@ -664,34 +664,34 @@ catalognumber = "AVCD-96309"
 date = "2019-07-31"
 album = "ガチ上がるハイテンションまで夢じゃないこの現実 / 大阪☆春夏秋冬"
 tracks = [
-    [1, "MY STYLE", "", ""],
-    [2, "その手", "", ""],
-    [3, "かなしいうた", "", ""],
-    [4, "Dance to the light", "", ""],
-    [5, "Makkkkko Shobu", "", ""],
-    [6, "NO-LIMIT (album mix ver.)", "", ""],
+    [1, "MY STYLE", "大阪☆春夏秋冬", ""],
+    [2, "その手", "大阪☆春夏秋冬", ""],
+    [3, "かなしいうた", "大阪☆春夏秋冬", ""],
+    [4, "Dance to the light", "大阪☆春夏秋冬", ""],
+    [5, "Makkkkko Shobu", "大阪☆春夏秋冬", ""],
+    [6, "NO-LIMIT (album mix ver.)", "大阪☆春夏秋冬", ""],
 ]
-links = ["https://vgmdb.net/album/87555"]
+links = ["https://beta.musicbrainz.org/release/90d032a5-a3e0-4858-b005-4ce5d3f29b58", "https://vgmdb.net/album/87555"]
 
 [47]
 catalognumber = "AVCD-96379/B"
 date = "2019-12-04"
 album = "INFINITY / Beverly Disc 1 (CD) [AVCD-96379]"
 tracks = [
-    [1, "Poison Ivy", "", ""],
-    [2, "Serenade", "", ""],
-    [3, "尊い", "", ""],
-    [4, "Everlasting Sky", "", ""],
-    [5, "Higher Ground", "", ""],
-    [6, "Nobody", "", ""],
-    [7, "Home", "", ""],
-    [8, "Life at the Party", "", ""],
-    [9, "Adventure", "", ""],
-    [10, "Again", "", ""],
-    [11, "探しに行こうよ", "", ""],
-    [12, "Endless Harmony feat.LOREN", "", ""],
+    [1, "Poison Ivy", "Beverly", ""],
+    [2, "Serenade", "Beverly", ""],
+    [3, "尊い", "Beverly", ""],
+    [4, "Everlasting Sky", "Beverly", ""],
+    [5, "Higher Ground", "Beverly", ""],
+    [6, "Nobody", "Beverly", ""],
+    [7, "Home", "Beverly", ""],
+    [8, "Life at the Party", "Beverly", ""],
+    [9, "Adventure", "Beverly", ""],
+    [10, "Again", "Beverly", ""],
+    [11, "探しに行こうよ", "Beverly", ""],
+    [12, "Endless Harmony", "Beverly feat.LOREN", ""],
 ]
-links = ["https://vgmdb.net/album/90421"]
+links = ["https://beta.musicbrainz.org/release/baf4cbeb-8934-4257-abac-8a46790a5ee1", "https://vgmdb.net/album/90421"]
 
 [48]
 catalognumber = "AVCD-96379/B"
@@ -725,59 +725,59 @@ catalognumber = "PCCA-03562"
 date = "2012-05-30"
 album = "Just Crazy / チャン・グンソク"
 tracks = [
-    [1, "200 miles", "", ""],
-    [2, "Always close to you", "", ""],
-    [3, "Crazy Crazy Crazy", "", ""],
-    [4, "Stay", "", ""],
-    [5, "Rain", "", ""],
-    [6, "Let me cry", "", ""],
-    [7, "Abracadabra", "", ""],
-    [8, "守護星", "", ""],
-    [9, "In my dream", "", ""],
-    [10, "Bye Bye Bye (Album Version)", "", ""],
-    [11, "Epilogue...", "", ""],
-    [12, "Tomorrow", "", ""],
+    [1, "200 miles", "チャン・グンソク", ""],
+    [2, "Always close to you", "チャン・グンソク", ""],
+    [3, "Crazy Crazy Crazy", "チャン・グンソク", ""],
+    [4, "Stay", "チャン・グンソク", ""],
+    [5, "Rain", "チャン・グンソク", ""],
+    [6, "Let me cry", "チャン・グンソク", ""],
+    [7, "Abracadabra", "チャン・グンソク", ""],
+    [8, "守護星", "チャン・グンソク", ""],
+    [9, "In my dream", "チャン・グンソク", ""],
+    [10, "Bye Bye Bye(Album Version)", "チャン・グンソク", ""],
+    [11, "Epilogue...", "チャン・グンソク", ""],
+    [12, "Tomorrow", "チャン・グンソク", ""],
 ]
-links = ["https://vgmdb.net/album/33718"]
+links = ["https://beta.musicbrainz.org/release/4e460c8c-3b9f-4d2a-a804-45feb2efba9c", "https://vgmdb.net/album/33718"]
 
 [50]
 catalognumber = "AVCD-96830"
 date = "2021-11-10"
 album = "BRiGHT FUTURE / EMPiRE Disc 1 [AVCD-96830]"
 tracks = [
-    [1, "LET'S SHOW", "", ""],
-    [2, "Chase your back", "", ""],
-    [3, "IZA!!", "", ""],
-    [4, "Happy with you", "", ""],
-    [5, "I don't care", "", ""],
-    [6, "ERROR", "", ""],
-    [7, "Haggling", "", ""],
-    [8, "To continue", "", ""],
-    [9, "FLY! SiNG! CRY! TRY! SMiLE!", "", ""],
-    [10, "Hey!Hey!", "", ""],
-    [11, "HON-NO", "", ""],
-    [12, "RATHER", "", ""],
-    [13, "RiNG to the BRiGHT FUTURE", "", ""],
+    [1, "LET’S SHOW", "EMPiRE", ""],
+    [2, "Chase your back", "EMPiRE", ""],
+    [3, "IZA!!", "EMPiRE", ""],
+    [4, "Happy with you", "EMPiRE", ""],
+    [5, "I don’t care", "EMPiRE", ""],
+    [6, "ERROR", "EMPiRE", ""],
+    [7, "Haggling", "EMPiRE", ""],
+    [8, "To continue", "EMPiRE", ""],
+    [9, "FLY! SiNG! CRY! TRY! SMiLE!", "EMPiRE", ""],
+    [10, "Hey!Hey!", "EMPiRE", ""],
+    [11, "HON‐NO", "EMPiRE", ""],
+    [12, "RATHER", "EMPiRE", ""],
+    [13, "RiNG to the BRiGHT FUTURE", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/114420"]
+links = ["https://beta.musicbrainz.org/release/e5c65a82-561f-46ef-b3fe-d2ef992e5082", "https://vgmdb.net/album/114420"]
 
 [51]
 catalognumber = "AVCD-96831"
 date = "2021-11-10"
 album = "BRiGHT FUTURE / EMPiRE Disc 2 [AVCD-96831]"
 tracks = [
-    [1, "EMPiRE is COMiNG [BRiGHT FUTURE Ver.]", "", ""],
-    [2, "アカルイミライ [BRiGHT FUTURE Ver.]", "", ""],
-    [3, "Buttocks beat! beat! [BRiGHT FUTURE Ver.]", "", ""],
-    [4, "Black to the dreamlight [BRiGHT FUTURE Ver.]", "", ""],
-    [5, "FOR EXAMPLE?? [BRiGHT FUTURE Ver.]", "", ""],
-    [6, "MAD LOVE [BRiGHT FUTURE Ver.]", "", ""],
-    [7, "EMPiRE originals [BRiGHT FUTURE Ver.]", "", ""],
-    [8, "S.O.S [BRiGHT FUTURE Ver.]", "", ""],
-    [9, "SO i YA [BRiGHT FUTURE Ver.]", "", ""],
-    [10, "ピアス [BRiGHT FUTURE Ver.]", "", ""],
+    [1, "EMPiRE is COMiNG", "EMPiRE", ""],
+    [2, "アカルイミライ", "EMPiRE", ""],
+    [3, "Buttocks beat! beat!", "EMPiRE", ""],
+    [4, "Black to the dreamlight", "EMPiRE", ""],
+    [5, "FOR EXAMPLE??", "EMPiRE", ""],
+    [6, "MAD LOVE", "EMPiRE", ""],
+    [7, "EMPiRE originals", "EMPiRE", ""],
+    [8, "S.O.S", "EMPiRE", ""],
+    [9, "SO i YA", "EMPiRE", ""],
+    [10, "ピアス", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/114420"]
+links = ["https://beta.musicbrainz.org/release/e5c65a82-561f-46ef-b3fe-d2ef992e5082", "https://vgmdb.net/album/114420"]
 
 [52]
 catalognumber = "RZCD-86747/B"
@@ -808,43 +808,43 @@ catalognumber = "PCCA-03094"
 date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 1 (CD) [PCCA-03094-1]"
 tracks = [
-    [1, "S.O.W.センスオブワンダー", "", ""],
-    [2, "Don't be afraid", "", ""],
-    [3, "機種変エクスタシィ", "", ""],
-    [4, "S.O.W.センスオブワンダー (Instrumental)", "", ""],
+    [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [2, "Don't be afraid", "アイドリング!!!", ""],
+    [3, "機種変エクスタシィ", "アイドリング!!!", ""],
+    [4, "S.O.W. センスオブワンダー (インストゥルメンタル)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45841"]
+links = ["https://beta.musicbrainz.org/release/b373cee8-126d-4919-bdba-214376b258b1", "https://vgmdb.net/album/45841"]
 
 [55]
 catalognumber = "PCCA-03094"
 date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 2 (DVD) [PCCA-03094-2]"
 tracks = [
-    [1, "S.O.W.センスオブワンダー", "", ""],
-    [2, "S.O.W.センスオブワンダー (ドキュメント)", "", ""],
+    [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [2, "S.O.W. センスオブワンダー ドキュメント", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45841"]
+links = ["https://beta.musicbrainz.org/release/b373cee8-126d-4919-bdba-214376b258b1", "https://vgmdb.net/album/45841"]
 
 [56]
 catalognumber = "AVCK-79201/B"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA Disc 1 (CD)"
 tracks = [
-    [1, "MASAYUME CHASING", "", ""],
-    [2, "FUN", "", ""],
-    [3, "MASAYUME CHASING (INST)", "", ""],
-    [4, "FUN (INST)", "", ""],
+    [1, "MASAYUME CHASING", "BoA", ""],
+    [2, "FUN", "BoA", ""],
+    [3, "MASAYUME CHASING (INST)", "BoA", ""],
+    [4, "FUN (INST)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45921"]
+links = ["https://beta.musicbrainz.org/release/79129e1c-d1fe-42ab-b3c8-11a159f2a793", "https://vgmdb.net/album/45921"]
 
 [57]
 catalognumber = "AVCK-79201/B"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA Disc 2 (DVD)"
 tracks = [
-    [1, "MASAYUME CHASING (Music Video)", "", ""],
+    [1, "MASAYUME CHASING (music video)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45921"]
+links = ["https://beta.musicbrainz.org/release/79129e1c-d1fe-42ab-b3c8-11a159f2a793", "https://vgmdb.net/album/45921"]
 
 [58]
 catalognumber = ""
@@ -874,287 +874,287 @@ catalognumber = "PCCA-03019"
 date = "2009-11-11"
 album = "完璧ぐ～のね / 渡り廊下走り隊 Disc 1 (CD) [PCCA-03019-1]"
 tracks = [
-    [1, "完璧ぐ～のね", "", ""],
-    [2, "冒険エトセトラ", "", ""],
-    [3, "風のバイオリン", "", ""],
-    [4, "完璧ぐ～のね (Instrumental)", "", ""],
-    [5, "冒険エトセトラ (Instrumental)", "", ""],
-    [6, "風のバイオリン (Instrumental)", "", ""],
+    [1, "完璧ぐ〜のね", "渡り廊下走り隊", ""],
+    [2, "冒険エトセトラ", "渡り廊下走り隊", ""],
+    [3, "風のバイオリン", "渡辺麻友", ""],
+    [4, "完璧ぐ〜のね (instrumental)", "渡り廊下走り隊", ""],
+    [5, "冒険エトセトラ (instrumental)", "渡り廊下走り隊", ""],
+    [6, "風のバイオリン (instrumental)", "渡辺麻友", ""],
 ]
-links = ["https://vgmdb.net/album/45818"]
+links = ["https://beta.musicbrainz.org/release/94fa1366-e450-36be-b6f3-d2397dff3510", "https://vgmdb.net/album/45818"]
 
 [60]
 catalognumber = "PCCA-03019"
 date = "2009-11-11"
 album = "完璧ぐ～のね / 渡り廊下走り隊 Disc 2 (DVD) [PCCA-03019-2]"
 tracks = [
-    [1, "渡り廊下走り隊「シャッフルしても4人は仲良し PART1」", "", ""],
+    [1, "シャッフルしても4人は仲良しPart1", "渡り廊下走り隊", ""],
 ]
-links = ["https://vgmdb.net/album/45818"]
+links = ["https://beta.musicbrainz.org/release/94fa1366-e450-36be-b6f3-d2397dff3510", "https://vgmdb.net/album/45818"]
 
 [61]
 catalognumber = "PCCA-03339"
 date = "2011-01-26"
 album = "Be As One / w-inds. [Limited Edition] Disc 1 (CD) [PCCA-03339-1]"
 tracks = [
-    [1, "Be As One", "", ""],
-    [2, "Let's get it on", "", ""],
-    [3, "Noise", "", ""],
+    [1, "Be As One", "w-inds.", ""],
+    [2, "Let’s get it on", "w-inds.", ""],
+    [3, "Noise", "w-inds.", ""],
 ]
-links = ["https://vgmdb.net/album/45871"]
+links = ["https://beta.musicbrainz.org/release/72abcc99-05bc-4635-a58e-f3e610cce259", "https://vgmdb.net/album/45871"]
 
 [62]
 catalognumber = "PCCA-03339"
 date = "2011-01-26"
 album = "Be As One / w-inds. [Limited Edition] Disc 2 (DVD) [PCCA-03339-2]"
 tracks = [
-    [1, "Be As One (Video Clip)", "", ""],
+    [1, "Be As One (PV)", "w-inds.", ""],
 ]
-links = ["https://vgmdb.net/album/45871"]
+links = ["https://beta.musicbrainz.org/release/72abcc99-05bc-4635-a58e-f3e610cce259", "https://vgmdb.net/album/45871"]
 
 [63]
 catalognumber = "KECH-9071"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 1 [KECH-9071]"
 tracks = [
-    [1, "Alchemia", "", ""],
-    [2, "リボン越しの虹", "", ""],
-    [3, "いつもの陽射し", "", ""],
-    [4, "芽吹く風", "", ""],
-    [5, "蓮華", "", ""],
-    [6, "撫子", "", ""],
-    [7, "Birth", "", ""],
-    [8, "お陽さまと散歩に行こう！ ～for ネルケ", "", ""],
-    [9, "翔べないカモメの物語 ～for ネルケ", "", ""],
-    [10, "おそとに行こう ～for ネルケ", "", ""],
-    [11, "風のフォルトーネ ～for ネルケ", "", ""],
-    [12, "バウムクーヘン ～for ネルケ", "", ""],
-    [13, "疾風 ～for ネルケ", "", ""],
-    [14, "出会いの森 ～for ネルケ", "", ""],
-    [15, "風に乗る大陸 ～for ネルケ", "", ""],
-    [16, "Criss Cross ～for ネルケ", "", ""],
-    [17, "夢の未来へ ～for ネルケ", "", ""],
-    [18, "風の宴 ～for ネルケ", "", ""],
-    [19, "Romanticが始まらない ～for ネルケ", "", ""],
-    [20, "お出かけしよう ～for ネルケ", "", ""],
-    [21, "Yellow Zone ～for ネルケ", "", ""],
-    [22, "わたしの目線で見えるもの ～for ネルケ", "", ""],
-    [23, "眠る地 ～for ネルケ", "", ""],
-    [24, "朝露のピチカート ～for ネルケ", "", ""],
-    [25, "雲烟飛動 ～for ネルケ", "", ""],
-    [26, "雲雀東風 ～for ネルケ", "", ""],
-    [27, "旅する工房 ～for ネルケ", "", ""],
-    [28, "同じ星を見上げて ～for ネルケ", "", ""],
+    [1, "Alchemia", "中恵光城", ""],
+    [2, "リボン越しの虹", "柳川和樹", ""],
+    [3, "いつもの陽射し", "阿知波大輔", ""],
+    [4, "芽吹く風", "柳川和樹", ""],
+    [5, "蓮華", "矢野達也", ""],
+    [6, "撫子", "柳川和樹", ""],
+    [7, "Birth", "霜月はるか", ""],
+    [8, "お陽さまと散歩に行こう！ ～for ネルケ", "山西利治", ""],
+    [9, "翔べないカモメの物語 ～for ネルケ", "土屋暁", ""],
+    [10, "おそとに行こう ～for ネルケ", "小林美代子", ""],
+    [11, "風のフォルトーネ ～for ネルケ", "土屋暁", ""],
+    [12, "バウムクーヘン ～for ネルケ", "阿知波大輔", ""],
+    [13, "疾風 ～for ネルケ", "阿知波大輔", ""],
+    [14, "出会いの森 ～for ネルケ", "阿知波大輔", ""],
+    [15, "風に乗る大陸 ～for ネルケ", "中河健", ""],
+    [16, "Criss Cross ～for ネルケ", "中河健", ""],
+    [17, "夢の未来へ ～for ネルケ", "中河健", ""],
+    [18, "風の宴 ～for ネルケ", "中河健", ""],
+    [19, "Romanticが始まらない ～for ネルケ", "阿知波大輔", ""],
+    [20, "お出かけしよう ～for ネルケ", "中河健", ""],
+    [21, "Yellow Zone ～for ネルケ", "柳川和樹", ""],
+    [22, "わたしの目線で見えるもの ～for ネルケ", "柳川和樹", ""],
+    [23, "眠る地 ～for ネルケ", "柳川和樹", ""],
+    [24, "朝露のピチカート ～for ネルケ", "阿知波大輔", ""],
+    [25, "雲烟飛動 ～for ネルケ", "アサノハヤト", ""],
+    [26, "雲雀東風 ～for ネルケ", "アサノハヤト", ""],
+    [27, "旅する工房 ～for ネルケ", "柳川和樹", ""],
+    [28, "同じ星を見上げて ～for ネルケ", "柳川和樹", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [64]
 catalognumber = "KECH-9072"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 2 [KECH-9072]"
 tracks = [
-    [1, "Presea", "", ""],
-    [2, "草原のフリクセル", "", ""],
-    [3, "馴染みの道を走り抜けて", "", ""],
-    [4, "小脇に大砲を携えて", "", ""],
-    [5, "幌馬車のアトリエ", "", ""],
-    [6, "星追いのルルア ～コーラス", "", ""],
-    [7, "Cross Wind", "", ""],
-    [8, "Cygnus", "", ""],
-    [9, "Alas de luz ～for ルルア", "", ""],
-    [10, "旅へ寄せて", "", ""],
-    [11, "Pinakes ～for ルルア", "", ""],
-    [12, "賢者の秘石", "", ""],
-    [13, "ポテンシャルバースト", "", ""],
-    [14, "虹色の夏", "", ""],
-    [15, "ひと夏の大冒険", "", ""],
-    [16, "ソラミミ", "", ""],
-    [17, "秘密の隠れ家", "", ""],
-    [18, "果てなく続く道", "", ""],
-    [19, "かつての夢の集まる場", "", ""],
-    [20, "啓蟄、嬰の足", "", ""],
-    [21, "白南風", "", ""],
-    [22, "生まれた波音へ", "", ""],
-    [23, "還った波音へ", "", ""],
-    [24, "現の彼方", "", ""],
-    [25, "夢の此方", "", ""],
+    [1, "Presea", "山本美禰子", ""],
+    [2, "草原のフリクセル", "中河健", ""],
+    [3, "馴染みの道を走り抜けて", "柳川和樹", ""],
+    [4, "小脇に大砲を携えて", "柳川和樹", ""],
+    [5, "幌馬車のアトリエ", "柳川和樹", ""],
+    [6, "星追いのルルア ～コーラス", "阿知波大輔", ""],
+    [7, "Cross Wind", "中河健", ""],
+    [8, "Cygnus", "阿知波大輔", ""],
+    [9, "Alas de luz ～for ルルア", "阿知波大輔", ""],
+    [10, "旅へ寄せて", "中河健", ""],
+    [11, "Pinakes ～for ルルア", "柳川和樹", ""],
+    [12, "賢者の秘石", "中河健", ""],
+    [13, "ポテンシャルバースト", "真理絵", ""],
+    [14, "虹色の夏", "神田沙也加", ""],
+    [15, "ひと夏の大冒険", "三武亜紗美", ""],
+    [16, "ソラミミ", "柳川和樹", ""],
+    [17, "秘密の隠れ家", "三武亜紗美", ""],
+    [18, "果てなく続く道", "中村新一郎", ""],
+    [19, "かつての夢の集まる場", "三武亜紗美", ""],
+    [20, "啓蟄、嬰の足", "アサノハヤト", ""],
+    [21, "白南風", "アサノハヤト", ""],
+    [22, "生まれた波音へ", "柳川和樹", ""],
+    [23, "還った波音へ", "柳川和樹", ""],
+    [24, "現の彼方", "柳川和樹", ""],
+    [25, "夢の此方", "柳川和樹", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [65]
 catalognumber = "KECH-9073"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 3 [KECH-9073]"
 tracks = [
-    [1, "Somewhen, Somewhere...", "", ""],
-    [2, "新しい大冒険～from ひと夏の大冒険～", "", ""],
-    [3, "石畳にはずむステップ", "", ""],
-    [4, "新たなる冒険の拠点", "", ""],
-    [5, "終の歴史を超えて", "", ""],
-    [6, "ハンドサイン", "", ""],
-    [7, "It’s all uphill from here", "", ""],
-    [8, "愛惜の炎", "", ""],
-    [9, "追慕の結晶", "", ""],
-    [10, "償いの為に捨てたもの", "", ""],
-    [11, "償いの果てに残るもの", "", ""],
-    [12, "あの夏の隠れ家", "", ""],
-    [13, "よし、出発！ ～from ひと夏の大冒険～", "", ""],
-    [14, "おでかけびより", "", ""],
-    [15, "薫風けせらせら", "", ""],
-    [16, "夏に還る景色 ～from 秘密の隠れ家～", "", ""],
-    [17, "乱反射リフレイン", "", ""],
-    [18, "夏暁", "", ""],
-    [19, "雲砂に浮かぶ空", "", ""],
-    [20, "雲砂に跳ねる星", "", ""],
-    [21, "翠巒の空音", "", ""],
-    [22, "裾廻の清夜", "", ""],
+    [1, "Somewhen, Somewhere...", "clammbon", ""],
+    [2, "新しい大冒険～from ひと夏の大冒険～", "松村佑樹", ""],
+    [3, "石畳にはずむステップ", "三武亜紗美", ""],
+    [4, "新たなる冒険の拠点", "裏谷玲央", ""],
+    [5, "終の歴史を超えて", "三武亜紗美", ""],
+    [6, "ハンドサイン", "柳川和樹", ""],
+    [7, "It’s all uphill from here", "アサノハヤト", ""],
+    [8, "愛惜の炎", "柳川和樹", ""],
+    [9, "追慕の結晶", "柳川和樹", ""],
+    [10, "償いの為に捨てたもの", "柳川和樹", ""],
+    [11, "償いの果てに残るもの", "柳川和樹", ""],
+    [12, "あの夏の隠れ家", "reche", ""],
+    [13, "よし、出発！ ～from ひと夏の大冒険～", "大塚正子", ""],
+    [14, "おでかけびより", "松村佑樹", ""],
+    [15, "薫風けせらせら", "裏谷玲央", ""],
+    [16, "夏に還る景色 ～from 秘密の隠れ家～", "柳川和樹", ""],
+    [17, "乱反射リフレイン", "三武亜紗美", ""],
+    [18, "夏暁", "柳川和樹", ""],
+    [19, "雲砂に浮かぶ空", "柳川和樹", ""],
+    [20, "雲砂に跳ねる星", "柳川和樹", ""],
+    [21, "翠巒の空音", "柳川和樹", ""],
+    [22, "裾廻の清夜", "柳川和樹", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [66]
 catalognumber = "KECH-9074"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 4 [KECH-9074]"
 tracks = [
-    [1, "Syndetos", "", ""],
-    [2, "もいっちょいこう～fromやってみよう～", "", ""],
-    [3, "陽だまりのピアチェーレ", "", ""],
-    [4, "どこかの隙間で", "", ""],
-    [5, "今日を探しに", "", ""],
-    [6, "木漏れ日を縫って", "", ""],
-    [7, "瞼の向こうの遠雷", "", ""],
-    [8, "春告鳥", "", ""],
-    [9, "Sail on Sunlight", "", ""],
-    [10, "蒼穹を穿つ", "", ""],
-    [11, "Planisphere", "", ""],
-    [12, "夢くらいは、せめて甘く", "", ""],
-    [13, "Marbles", "", ""],
-    [14, "Outrageous Tornado", "", ""],
-    [15, "好きだった絵本 ～for マリー Remake", "", ""],
-    [16, "只今お仕事中！ ～for マリー Remake", "", ""],
-    [17, "お陽さまと散歩に行こう！ ～for マリー Remake", "", ""],
-    [18, "シアの願い事 ～for マリー Remake", "", ""],
-    [19, "青狼エンデルク ～for マリー Remake", "", ""],
-    [20, "メガネが笑う ～for マリー Remake", "", ""],
-    [21, "酒場の親父の曲 ～for マリー Remake", "", ""],
-    [22, "その耐え難き奇癖について ～for マリー Remake", "", ""],
-    [23, "水の中の環 ～for マリー Remake", "", ""],
-    [24, "星風 ～for マリー Remake", "", ""],
-    [25, "帰還するもの ～for マリー Remake", "", ""],
-    [26, "ザールブルグの錬金術士 ～for マリー Remake", "", ""],
-    [27, "始まりの丘 ～for マリー Remake", "", ""],
+    [1, "Syndetos", "鈴湯", ""],
+    [2, "もいっちょいこう～fromやってみよう～", "矢野達也", ""],
+    [3, "陽だまりのピアチェーレ", "悠花ユカ", ""],
+    [4, "どこかの隙間で", "悠花ユカ", ""],
+    [5, "今日を探しに", "柳川和樹", ""],
+    [6, "木漏れ日を縫って", "柳川和樹", ""],
+    [7, "瞼の向こうの遠雷", "霜月はるか", ""],
+    [8, "春告鳥", "柳川和樹", ""],
+    [9, "Sail on Sunlight", "阿知波大輔", ""],
+    [10, "蒼穹を穿つ", "阿部隆大", ""],
+    [11, "Planisphere", "近藤佑香", ""],
+    [12, "夢くらいは、せめて甘く", "柳川和樹", ""],
+    [13, "Marbles", "柳川和樹", ""],
+    [14, "Outrageous Tornado", "阿知波大輔", ""],
+    [15, "好きだった絵本 ～for マリー Remake", "阿知波大輔", ""],
+    [16, "只今お仕事中！ ～for マリー Remake", "山西利治", ""],
+    [17, "お陽さまと散歩に行こう！ ～for マリー Remake", "山西利治", ""],
+    [18, "シアの願い事 ～for マリー Remake", "山西利治", ""],
+    [19, "青狼エンデルク ～for マリー Remake", "阿知波大輔", ""],
+    [20, "メガネが笑う ～for マリー Remake", "阿知波大輔", ""],
+    [21, "酒場の親父の曲 ～for マリー Remake", "山西利治", ""],
+    [22, "その耐え難き奇癖について ～for マリー Remake", "阿知波大輔", ""],
+    [23, "水の中の環 ～for マリー Remake", "阿知波大輔", ""],
+    [24, "星風 ～for マリー Remake", "阿知波大輔", ""],
+    [25, "帰還するもの ～for マリー Remake", "阿知波大輔", ""],
+    [26, "ザールブルグの錬金術士 ～for マリー Remake", "阿知波大輔", ""],
+    [27, "始まりの丘 ～for マリー Remake", "阿知波大輔", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [67]
 catalognumber = "KECH-9075"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 5 [KECH-9075]"
 tracks = [
-    [1, "忘れられた錬金術", "", ""],
-    [2, "最果てへ", "", ""],
-    [3, "果ての大陸を目指して", "", ""],
-    [4, "瞬く君よ", "", ""],
-    [5, "リボンに願いを", "", ""],
-    [6, "星空のアトリエ", "", ""],
-    [7, "水面に揺蕩う蓮の花", "", ""],
-    [8, "7拍の光", "", ""],
-    [9, "星風追いかけて", "", ""],
-    [10, "力を合わせて", "", ""],
-    [11, "彗星の旅路", "", ""],
-    [12, "金色のレシピ", "", ""],
-    [13, "Lefa-holadh ～Alchemist of Bressisle", "", ""],
-    [14, "只今準備中！", "", ""],
-    [15, "気高き麗しの風", "", ""],
-    [16, "ブレセイルのセンリツ", "", ""],
-    [17, "Hero of Justice", "", ""],
-    [18, "金色の風、颯々と流れ", "", ""],
-    [19, "明鏡止水", "", ""],
-    [20, "雪煙", "", ""],
-    [21, "Mirage", "", ""],
+    [1, "忘れられた錬金術", "稲毛謙介", ""],
+    [2, "最果てへ", "reche", ""],
+    [3, "果ての大陸を目指して", "稲毛謙介", ""],
+    [4, "瞬く君よ", "柳川和樹", ""],
+    [5, "リボンに願いを", "柳川和樹", ""],
+    [6, "星空のアトリエ", "稲毛謙介", ""],
+    [7, "水面に揺蕩う蓮の花", "稲毛謙介", ""],
+    [8, "7拍の光", "柳川和樹", ""],
+    [9, "星風追いかけて", "柳川和樹", ""],
+    [10, "力を合わせて", "柳川和樹", ""],
+    [11, "彗星の旅路", "reche", ""],
+    [12, "金色のレシピ", "花守ゆみり", ""],
+    [13, "Lefa-holadh ～Alchemist of Bressisle", "CHiCO", ""],
+    [14, "只今準備中！", "ACE", ""],
+    [15, "気高き麗しの風", "ACE", ""],
+    [16, "ブレセイルのセンリツ", "ACE", ""],
+    [17, "Hero of Justice", "ACE", ""],
+    [18, "金色の風、颯々と流れ", "ACE", ""],
+    [19, "明鏡止水", "ACE", ""],
+    [20, "雪煙", "ACE", ""],
+    [21, "Mirage", "ACE", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [68]
 catalognumber = "KECH-9076"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 6 [KECH-9076]"
 tracks = [
-    [1, "Glitter", "", ""],
-    [2, "TIE", "", ""],
-    [3, "レッツ・ガールズトーク！", "", ""],
-    [4, "弾むような足取りで", "", ""],
-    [5, "透過性シェルター", "", ""],
-    [6, "W-P.NEURONS", "", ""],
-    [7, "E.SYNAPSE", "", ""],
-    [8, "放課後 Ariette", "", ""],
-    [9, "サケニタイス", "", ""],
-    [10, "SUN", "", ""],
-    [11, "(a+b)3", "", ""],
-    [12, "ジェノグラム", "", ""],
-    [13, "Id", "", ""],
-    [14, "my world", "", ""],
+    [1, "Glitter", "茶太", ""],
+    [2, "TIE", "アサノハヤト", ""],
+    [3, "レッツ・ガールズトーク！", "アサノハヤト", ""],
+    [4, "弾むような足取りで", "アサノハヤト", ""],
+    [5, "透過性シェルター", "アサノハヤト", ""],
+    [6, "W-P.NEURONS", "アサノハヤト", ""],
+    [7, "E.SYNAPSE", "アサノハヤト", ""],
+    [8, "放課後 Ariette", "yukacco", ""],
+    [9, "サケニタイス", "るんちゃ", ""],
+    [10, "SUN", "アサノハヤト", ""],
+    [11, "(a+b)3", "アサノハヤト", ""],
+    [12, "hello, world", "アサノハヤト", ""],
+    [13, "Id", "アサノハヤト", ""],
+    [14, "my world", "アサノハヤト", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [69]
 catalognumber = "KECH-9077"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 7 [KECH-9077]"
 tracks = [
-    [1, "一陣の風", "", ""],
-    [2, "令和新時代！がすとちゃん音頭～お財布握って並んで待つですの！～", "", ""],
-    [3, "Metropolitan melty～あけおめでTOKYO～", "", ""],
-    [4, "Seeker", "", ""],
-    [5, "PP☆Popcorn Princess", "", ""],
-    [6, "ペンギン帝國", "", ""],
-    [7, "The APPLE？", "", ""],
-    [8, "未知数汎心論", "", ""],
-    [9, "Wishreal～第二章 Wishreal～", "", ""],
-    [10, "Overture", "", ""],
-    [11, "Magnolia", "", ""],
-    [12, "Big Our House", "", ""],
-    [13, "Rural Dance", "", ""],
-    [14, "Fight", "", ""],
-    [15, "Intense", "", ""],
-    [16, "Grand Magic Games", "", ""],
-    [17, "Secret Battle", "", ""],
+    [1, "一陣の風", "大野柚布子", ""],
+    [2, "令和新時代！がすとちゃん音頭～お財布握って並んで待つですの！～", "大野柚布子", ""],
+    [3, "Metropolitan melty～あけおめでTOKYO～", "武田真理子", ""],
+    [4, "Seeker", "中恵光城", ""],
+    [5, "PP☆Popcorn Princess", "八木侑紀", ""],
+    [6, "ペンギン帝國", "萩原あみ", ""],
+    [7, "The APPLE？", "平山笑美", ""],
+    [8, "未知数汎心論", "岩﨑春奈", ""],
+    [9, "Wishreal～第二章 Wishreal～", "FreyMENOW", ""],
+    [10, "Overture", "木下洋介", ""],
+    [11, "Magnolia", "比良彩那", ""],
+    [12, "Big Our House", "比良彩那", ""],
+    [13, "Rural Dance", "山田 光", ""],
+    [14, "Fight", "赤羽大夢", ""],
+    [15, "Intense", "赤羽大夢", ""],
+    [16, "Grand Magic Games", "赤羽大夢", ""],
+    [17, "Secret Battle", "赤羽大夢", ""],
 ]
-links = ["https://vgmdb.net/album/134888"]
+links = ["https://beta.musicbrainz.org/release/a804f3c6-3117-477e-bce0-0777b827493f", "https://vgmdb.net/album/134888"]
 
 [70]
 catalognumber = "PCCA-03310"
 date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy [Limited Edition] Disc 1 (CD) [PCCA-03310-1]"
 tracks = [
-    [1, "HOLY SHINE", "", ""],
-    [2, "BELIEVE", "", ""],
-    [3, "HOLY SHINE (original karaoke)", "", ""],
-    [4, "BELIEVE (original karaoke)", "", ""],
+    [1, "HOLY SHINE", "Daisy×Daisy", ""],
+    [2, "BELIEVE", "Daisy×Daisy", ""],
+    [3, "HOLY SHINE (original karaoke)", "Daisy×Daisy", ""],
+    [4, "BELIEVE (original karaoke)", "Daisy×Daisy", ""],
 ]
-links = ["https://vgmdb.net/album/45857"]
+links = ["https://beta.musicbrainz.org/release/45748bea-73fd-49cc-9749-2fef9b4a0ff6", "https://vgmdb.net/album/45857"]
 
 [71]
 catalognumber = "PCCA-03310"
 date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy [Limited Edition] Disc 2 (DVD) [PCCA-03310-2]"
 tracks = [
-    [1, "テレビアニメ「FAIRY TAIL」 ノンテロップエンディング映像", "", ""],
-    [2, "HOLY SHINE (PV)", "", ""],
+    [1, "テレビアニメ「FAIRY TAIL」 ノンテロップエンディング映像", "Daisy×Daisy", ""],
+    [2, "HOLY SHINE (PV)", "Daisy×Daisy", ""],
 ]
-links = ["https://vgmdb.net/album/45857"]
+links = ["https://beta.musicbrainz.org/release/45748bea-73fd-49cc-9749-2fef9b4a0ff6", "https://vgmdb.net/album/45857"]
 
 [72]
 catalognumber = "CTCR-40365"
 date = "2014-07-30"
 album = "Departure/STRIKE BACK / BACK-ON"
 tracks = [
-    [1, "Departure", "", ""],
-    [2, "STRIKE BACK", "", ""],
-    [3, "STRIKE BACK (instrumental)", "", ""],
-    [4, "Departure (instrumental)", "", ""],
+    [1, "Departure", "BACK-ON", ""],
+    [2, "STRIKE BACK", "BACK-ON", ""],
+    [3, "Departure (instrumental)", "BACK-ON", ""],
+    [4, "STRIKE BACK (instrumental)", "BACK-ON", ""],
 ]
-links = ["https://vgmdb.net/album/46665"]
+links = ["https://beta.musicbrainz.org/release/5d72d2b9-5750-4e2e-b1eb-ce9f4f4398ec", "https://vgmdb.net/album/46665"]
 
 [73]
 catalognumber = ""
@@ -1177,31 +1177,31 @@ catalognumber = "PCCA-03453"
 date = "2011-08-03"
 album = "アメリカン少年 / ジャミール"
 tracks = [
-    [1, "片思イノ想イカタ", "", ""],
-    [2, "The Rock City Boy", "", ""],
-    [3, "Get Away feat.Lafa Taylor", "", ""],
-    [4, "空をこえて", "", ""],
-    [5, "二人でなくちゃ", "", ""],
-    [6, "BOKUMAMA～もうひとつの誕生日～", "", ""],
-    [7, "Fall Up", "", ""],
-    [8, "I miss you", "", ""],
-    [9, "大きな木の下", "", ""],
-    [10, "I'm here,you're there", "", ""],
-    [11, "Keep On", "", ""],
+    [1, "片思イノ想イカタ", "JAMIL", ""],
+    [2, "The Rock City Boy", "JAMIL", ""],
+    [3, "Get Away", "JAMIL feat. Lafa Taylor", ""],
+    [4, "空をこえて", "JAMIL", ""],
+    [5, "二人でなくちゃ", "JAMIL", ""],
+    [6, "BOKUMAMA～もうひとつの誕生日～", "JAMIL", ""],
+    [7, "Fall Up", "JAMIL", ""],
+    [8, "I miss you", "JAMIL", ""],
+    [9, "大きな木の下", "JAMIL", ""],
+    [10, "I’m here,you’re there", "JAMIL", ""],
+    [11, "Keep On", "JAMIL", ""],
 ]
-links = ["https://vgmdb.net/album/55025"]
+links = ["https://beta.musicbrainz.org/release/645069d0-5b6a-4320-a22b-1378842f119c", "https://vgmdb.net/album/55025"]
 
 [75]
 catalognumber = "AVCD-83382"
 date = "2015-09-23"
 album = "山手線内回り ～愛の迷路～ / タッキー&翼"
 tracks = [
-    [1, "山手線内回り〜愛の迷路〜", "", ""],
-    [2, "時間旅行Second!", "", ""],
-    [3, "ユメイログラフィティ", "", ""],
-    [4, "山手線外回りMonster Rion Remix", "", ""],
+    [1, "山手線内回り〜愛の迷路〜", "タッキー＆翼", ""],
+    [2, "時間旅行 Second!", "タッキー＆翼", ""],
+    [3, "ユメイログラフィティ", "タッキー＆翼", ""],
+    [4, "山手線外回り 〜Monster Rion Remix〜", "タッキー＆翼", ""],
 ]
-links = ["https://vgmdb.net/album/131532"]
+links = ["https://beta.musicbrainz.org/release/d71c6803-bfd7-4a17-b108-46c9c1046770", "https://vgmdb.net/album/131532"]
 
 [76]
 catalognumber = "AVCD-83458/B"
@@ -1230,227 +1230,227 @@ catalognumber = "PCCG-01016"
 date = "2010-01-06"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ", "", ""],
-    [2, "エルザのテーマ", "", ""],
-    [3, "魔法発動", "", ""],
-    [4, "ドラゴンスレイヤー", "", ""],
-    [5, "楽園の塔", "", ""],
-    [6, "闇ギルド", "", ""],
-    [7, "ミラジェーンのテーマ", "", ""],
-    [8, "にぎやかな街", "", ""],
-    [9, "妖精の尻尾", "", ""],
-    [10, "星霊魔法", "", ""],
-    [11, "ルーシィがんばる", "", ""],
-    [12, "グレイのテーマ", "", ""],
-    [13, "ナツのテーマ", "", ""],
-    [14, "宿命", "", ""],
-    [15, "忍び寄る影", "", ""],
-    [16, "ラクサス暴走", "", ""],
-    [17, "フェアリーロウ", "", ""],
-    [18, "仲間たち", "", ""],
-    [19, "故郷", "", ""],
-    [20, "ルーシィのテーマ", "", ""],
-    [21, "氷の戦塵", "", ""],
-    [22, "幽鬼", "", ""],
-    [23, "闇よ、つどえ！", "", ""],
-    [24, "アイゼンヴァルト", "", ""],
-    [25, "暗黒の魔導士", "", ""],
-    [26, "サラマンダー", "", ""],
-    [27, "氷刃舞う", "", ""],
-    [28, "魔法対戦", "", ""],
-    [29, "悲しき過去", "", ""],
-    [30, "悪魔デリオラ", "", ""],
-    [31, "ティターニアの鎧", "", ""],
-    [32, "燃え上がる拳", "", ""],
-    [33, "最後の魔法", "", ""],
-    [34, "紅蓮の怒り", "", ""],
-    [35, "威風堂々 ―Rock ver.―", "", ""],
-    [36, "FAIRY TAIL メインテーマ ―Slow ver.―", "", ""],
+    [1, "FAIRY TAIL メインテーマ", "高梨康治", ""],
+    [2, "エルザのテーマ", "高梨康治", ""],
+    [3, "魔法発動", "高梨康治", ""],
+    [4, "ドラゴンスレイヤー", "高梨康治", ""],
+    [5, "楽園の塔", "高梨康治", ""],
+    [6, "闇ギルド", "高梨康治", ""],
+    [7, "ミラジェーンのテーマ", "高梨康治", ""],
+    [8, "にぎやかな街", "高梨康治", ""],
+    [9, "妖精の尻尾", "高梨康治", ""],
+    [10, "星霊魔法", "高梨康治", ""],
+    [11, "ルーシィがんばる", "高梨康治", ""],
+    [12, "グレイのテーマ", "高梨康治", ""],
+    [13, "ナツのテーマ", "高梨康治", ""],
+    [14, "宿命", "高梨康治", ""],
+    [15, "忍び寄る影", "高梨康治", ""],
+    [16, "ラクサス暴走", "高梨康治", ""],
+    [17, "フェアリーロウ", "高梨康治", ""],
+    [18, "仲間たち", "高梨康治", ""],
+    [19, "故郷", "高梨康治", ""],
+    [20, "ルーシィのテーマ", "高梨康治", ""],
+    [21, "氷の戦塵", "高梨康治", ""],
+    [22, "幽鬼", "高梨康治", ""],
+    [23, "闇よ、つどえ！", "高梨康治", ""],
+    [24, "アイゼンヴァルト", "高梨康治", ""],
+    [25, "暗黒の魔導士", "高梨康治", ""],
+    [26, "サラマンダー", "高梨康治", ""],
+    [27, "氷刃舞う", "高梨康治", ""],
+    [28, "魔法対戦", "高梨康治", ""],
+    [29, "悲しき過去", "高梨康治", ""],
+    [30, "悪魔デリオラ", "高梨康治", ""],
+    [31, "ティターニアの鎧", "高梨康治", ""],
+    [32, "燃え上がる拳", "高梨康治", ""],
+    [33, "最後の魔法", "高梨康治", ""],
+    [34, "紅蓮の怒り", "高梨康治", ""],
+    [35, "威風堂々 ―Rock ver.―", "高梨康治", ""],
+    [36, "FAIRY TAIL メインテーマ ―Slow ver.―", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/20180"]
+links = ["https://beta.musicbrainz.org/release/43d18983-8881-4411-8869-cc7afd456fdd", "https://vgmdb.net/album/20180"]
 
 [79]
 catalognumber = "PCCG-70158"
 date = "2013-02-27"
 album = "We're the stars / 愛美"
 tracks = [
-    [1, "We're the stars", "", ""],
-    [2, "We can do it", "", ""],
-    [3, "We're the stars (Instrumental)", "", ""],
-    [4, "We can do it (Instrumental)", "", ""],
+    [1, "We're the stars", "愛美", ""],
+    [2, "We can do it", "愛美", ""],
+    [3, "We're the stars (Instrumental)", "愛美", ""],
+    [4, "We can do it (Instrumental)", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/45899"]
+links = ["https://beta.musicbrainz.org/release/44bc89ad-b9fa-4aca-b26c-a5ad0072f049", "https://vgmdb.net/album/45899"]
 
 [80]
 catalognumber = "PCCA-03387"
 date = "2011-04-20"
 album = "Evidence/防衛本脳 / Daisy×Daisy"
 tracks = [
-    [1, "Evidence", "", ""],
-    [2, "防衛本脳", "", ""],
-    [3, "answer to the master", "", ""],
-    [4, "Evidence (karaoke)", "", ""],
-    [5, "防衛本脳 (karaoke)", "", ""],
-    [6, "answer to the master (karaoke)", "", ""],
+    [1, "Evidence", "Daisy×Daisy", ""],
+    [2, "防衛本脳", "Daisy×Daisy", ""],
+    [3, "answer to the master", "Daisy×Daisy", ""],
+    [4, "Evidence (karaoke)", "Daisy×Daisy", ""],
+    [5, "防衛本脳 (karaoke)", "Daisy×Daisy", ""],
+    [6, "answer to the master (karaoke)", "Daisy×Daisy", ""],
 ]
-links = ["https://vgmdb.net/album/24649"]
+links = ["https://beta.musicbrainz.org/release/2c18cb23-5f81-4376-9037-3128c5aa069e", "https://vgmdb.net/album/24649"]
 
 [81]
 catalognumber = "PCCA-70337"
 date = "2012-08-01"
 album = "YELL(エール)～輝くためのもの～/ラフラフ体操"
 tracks = [
-    [1, "YELL(エール)～輝くためのもの～", "", ""],
-    [2, "ラフラフ体操", "", ""],
-    [3, "YELL(エール)～輝くためのもの～ (カラオケ)", "", ""],
-    [4, "ラフラフ体操 (カラオケ)", "", ""],
+    [1, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
+    [2, "ラフラフ体操", "サーターアンダギー", ""],
+    [3, "YELL(エール)～輝くためのもの～ (カラオケ)", "サーターアンダギー", ""],
+    [4, "ラフラフ体操 (カラオケ)", "サーターアンダギー", ""],
 ]
-links = ["https://vgmdb.net/album/55701"]
+links = ["https://beta.musicbrainz.org/release/e96c1c12-223c-4293-880c-ac7ae4d830f0", "https://vgmdb.net/album/55701"]
 
 [82]
 catalognumber = "PCCG-01175"
 date = "2011-07-06"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.3"
 tracks = [
-    [1, "魔法境の旅人", "", ""],
-    [2, "3人のドラゴンスレイヤー", "", ""],
-    [3, "疾風迅雷", "", ""],
-    [4, "鋼の白熱戦", "", ""],
-    [5, "連合軍、集結!", "", ""],
-    [6, "シャルルの告白", "", ""],
-    [7, "六魔将軍(オラシオンセイス)現る!", "", ""],
-    [8, "群雄相打つ", "", ""],
-    [9, "ミッドナイト目覚める", "", ""],
-    [10, "毒竜のコブラ", "", ""],
-    [11, "ニルヴァーナの光", "", ""],
-    [12, "平行世界エドラス", "", ""],
-    [13, "浮遊島の民", "", ""],
-    [14, "ミストガンのテーマ", "", ""],
-    [15, "天空の巫女", "", ""],
-    [16, "翼あるもの", "", ""],
-    [17, "超亜空間魔法アニマ", "", ""],
-    [18, "エクシードたち", "", ""],
-    [19, "消えゆく魔力", "", ""],
-    [20, "アイスボーイ", "", ""],
-    [21, "天使殲滅作戦", "", ""],
-    [22, "天使の苦悩", "", ""],
-    [23, "パンサーリリー", "", ""],
-    [24, "竜鎖砲", "", ""],
-    [25, "激闘魔法陣", "", ""],
-    [26, "星霊合戦", "", ""],
-    [27, "正義の力", "", ""],
-    [28, "エルザ対エルザ", "", ""],
-    [29, "ドラゴンフォース", "", ""],
-    [30, "古(いにしえ)の魔法", "", ""],
+    [1, "魔法境の旅人", "高梨康治", ""],
+    [2, "3人のドラゴンスレイヤー", "高梨康治", ""],
+    [3, "疾風迅雷", "高梨康治", ""],
+    [4, "鋼の白熱戦", "高梨康治", ""],
+    [5, "連合軍、集結!", "高梨康治", ""],
+    [6, "シャルルの告白", "高梨康治", ""],
+    [7, "六魔将軍現る!", "高梨康治", ""],
+    [8, "群雄相打つ", "高梨康治", ""],
+    [9, "ミッドナイト目覚める", "高梨康治", ""],
+    [10, "毒竜のコブラ", "高梨康治", ""],
+    [11, "ニルヴァーナの光", "高梨康治", ""],
+    [12, "平行世界エドラス", "高梨康治", ""],
+    [13, "浮遊島の民", "高梨康治", ""],
+    [14, "ミストガンのテーマ", "高梨康治", ""],
+    [15, "天空の巫女", "高梨康治", ""],
+    [16, "翼あるもの", "高梨康治", ""],
+    [17, "超亜空間魔法アニマ", "高梨康治", ""],
+    [18, "エクシードたち", "高梨康治", ""],
+    [19, "消えゆく魔力", "高梨康治", ""],
+    [20, "アイスボーイ", "高梨康治", ""],
+    [21, "天使殲滅作戦", "高梨康治", ""],
+    [22, "天使の苦悩", "高梨康治", ""],
+    [23, "パンサーリリー", "高梨康治", ""],
+    [24, "竜鎖砲", "高梨康治", ""],
+    [25, "激闘魔法陣", "高梨康治", ""],
+    [26, "星霊合戦", "高梨康治", ""],
+    [27, "正義の力", "高梨康治", ""],
+    [28, "エルザ対エルザ", "高梨康治", ""],
+    [29, "ドラゴンフォース", "高梨康治", ""],
+    [30, "古の魔法", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/25764"]
+links = ["https://beta.musicbrainz.org/release/440c4e11-fae2-4a74-94a1-caab879a57c8", "https://vgmdb.net/album/25764"]
 
 [83]
 catalognumber = ""
 date = "2018-09-17"
 album = "Everything I Have, Vol. 1"
 tracks = [
-    [1, "A Bigger Fear (A Glitchtale Soundtrack)", "", ""],
-    [2, "A Kingdom Hearts Medley", "", ""],
-    [3, "A King’s Strategy (A No Game No Life Orchestration)", "", ""],
-    [4, "A Legacy Reborn (A Fire Emblem Orchestration)", "", ""],
-    [5, "Battle With Cipher (A Gravity Falls Orchestration)", "", ""],
-    [6, "Beyond the Sapphire Star (A Monster Hunter Orchestration)", "", ""],
-    [7, "Blood and Bone (A Glitchtale Soundtrack)", "", ""],
-    [8, "CLRS (A RWBY Orchestration)", "", ""],
-    [9, "Do I Know You (A Kimi No Na Wa Orchestration)", "", ""],
-    [10, "Do It for Her (A Steven Universe Orchestration)", "", ""],
-    [11, "Equal Exchange (A Fullmetal Alchemist Orchestration)", "", ""],
-    [12, "Everything Stays (An Adventure Time Orchestration) [feat. Samantha Westelman]", "", ""],
-    [13, "Fairies and Dragons (A Fairy Tail Orchestration)", "", ""],
-    [14, "Fly Away (A FatRat Orchestration)", "", ""],
-    [15, "Hanezeve Caradhina (A Made in Abyss Orchestration) [feat. Un3h]", "", ""],
-    [16, "Here (An Ancient Magus Bride Orchestration) [feat. Seycara]", "", ""],
-    [17, "Here Comes a Thought (A Steven Universe Orchestration)", "", ""],
-    [18, "Hero of the Wild (A Legend of Zelda Orchestration)", "", ""],
-    [19, "JRNY (A RWBY Orchestration)", "", ""],
-    [20, "Monody (A FatRat Orchestration)", "", ""],
-    [21, "Never Age (A Samurai Jack Orchestration)", "", ""],
-    [22, "Shelter (A Porter Robinson & Madeon Orchestration)", "", ""],
-    [23, "Stray God (A Noragami Orchestration)", "", ""],
-    [24, "Stronger Than You (A Steven Universe Orchestration)", "", ""],
-    [25, "The Power of Balance (An Avatar Orchestration)", "", ""],
-    [26, "Unravel (A Tokyo Ghoul Orchestration)", "", ""],
-    [27, "Voice of Humanity (An Attack on Titan Orchestration) [feat. TheDarkEyedMusician]", "", ""],
-    [28, "We Travel With Blades (A Final Fantasy XV Orchestration)", "", ""],
-    [29, "Weight of the World (A Nier Automata Orchestration)", "", ""],
-    [30, "Wisps of Nibel (An Ori and the Blind Forest Orchestration)", "", ""],
-    [31, "You Saw It Coming (A Persona 5 Orchestration)", "", ""],
-    [32, "You Say Run (A My Hero Academia Orchestration)", "", ""],
-    [33, "Come Along With Me (An Adventure Time Orchestration)", "", ""],
+    [1, "A Bigger Fear (A Glitchtale Soundtrack)", "Rush Garcia", ""],
+    [2, "A Kingdom Hearts Medley", "Rush Garcia", ""],
+    [3, "A King's Strategy (A No Game No Life Orchestration)", "Rush Garcia", ""],
+    [4, "A Legacy Reborn (A Fire Emblem Orchestration)", "Rush Garcia", ""],
+    [5, "Battle With Cipher (A Gravity Falls Orchestration)", "Rush Garcia", ""],
+    [6, "Beyond the Sapphire Star (A Monster Hunter Orchestration)", "Rush Garcia", ""],
+    [7, "Blood and Bone (A Glitchtale Soundtrack)", "Rush Garcia", ""],
+    [8, "Clrs (A Rwby Orchestration)", "Rush Garcia", ""],
+    [9, "Do I Know You (A Kimi No Na Wa Orchestration)", "Rush Garcia", ""],
+    [10, "Do It for Her (A Steven Universe Orchestration)", "Rush Garcia", ""],
+    [11, "Equal Exchange (A Full Metal Alchemist Orchestration)", "Rush Garcia", ""],
+    [12, "Everything Stays (An Adventure Time Orchestration) [feat. Samantha Westelman]", "Rush Garcia", ""],
+    [13, "Fairies and Dragons (A Fairy Tail Orchestration)", "Rush Garcia", ""],
+    [14, "Fly Away (A FatRat Orchestration)", "Rush Garcia", ""],
+    [15, "Hanezeve Caradhina (A Made in Abyss Orchestration) [feat. Un3h]", "Rush Garcia", ""],
+    [16, "Here (An Ancient Magus Bride Orchestration) [feat. Seycara]", "Rush Garcia", ""],
+    [17, "Here Comes a Thought (A Steven Universe Orchestration)", "Rush Garcia", ""],
+    [18, "Hero of the Wild (A Legend of Zelda Orchestration)", "Rush Garcia", ""],
+    [19, "Jrny (A Rwby Orchestration)", "Rush Garcia", ""],
+    [20, "Monody (A FatRat Orchestration)", "Rush Garcia", ""],
+    [21, "Never Age (A Samurai Jack Orchestration)", "Rush Garcia", ""],
+    [22, "Shelter (A Porter Robinson & Madeon Orchestration)", "Rush Garcia", ""],
+    [23, "Stray God (A Noragami Orchestration)", "Rush Garcia", ""],
+    [24, "Stronger Than You (A Steven Universe Orchestration)", "Rush Garcia", ""],
+    [25, "The Power of Balance (An Avatar Orchestration)", "Rush Garcia", ""],
+    [26, "Unravel (A Tokyo Ghoul Orchestration)", "Rush Garcia", ""],
+    [27, "Voice of Humanity (An Attack on Titan Orchestration) [feat. TheDarkEyedMusician]", "Rush Garcia", ""],
+    [28, "We Travel With Blades (A Final Fantasy XV Orchestration)", "Rush Garcia", ""],
+    [29, "Weight of the World (A Nier Automata Orchestration)", "Rush Garcia", ""],
+    [30, "Wisps of Nibel (An Ori and the Blind Forest Orchestration)", "Rush Garcia", ""],
+    [31, "You Saw It Coming (A Persona 5 Orchestration)", "Rush Garcia", ""],
+    [32, "You Say Run (A My Hero Academia Orchestration)", "Rush Garcia", ""],
+    [33, "Come Along With Me (An Adventure Time Orchestration)", "Rush Garcia", ""],
 ]
-links = ["https://vgmdb.net/album/113557"]
+links = ["https://beta.musicbrainz.org/release/78e387cb-dcd2-4212-8bb3-dbd0066e0a29", "https://vgmdb.net/album/113557"]
 
 [84]
 catalognumber = "PCCA-03095"
 date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 1 (CD) [PCCA-03095-1]"
 tracks = [
-    [1, "S.O.W.センスオブワンダー", "", ""],
-    [2, "Don't be afraid", "", ""],
-    [3, "機種変エクスタシィ", "", ""],
-    [4, "S.O.W.センスオブワンダー (Instrumental)", "", ""],
+    [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [2, "Don’t be afraid", "アイドリング!!!", ""],
+    [3, "機種変エクスタシィ", "アイドリング!!!", ""],
+    [4, "S.O.W. センスオブワンダー (Instrumental)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45842"]
+links = ["https://beta.musicbrainz.org/release/e091e54d-6507-39da-9fb9-1cfcb62a52e7", "https://vgmdb.net/album/45842"]
 
 [85]
 catalognumber = "PCCA-03095"
 date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 2 (DVD) [PCCA-03095-2]"
 tracks = [
-    [1, "S.O.W.センスオブワンダー", "", ""],
-    [2, "TVアニメ「FAIRYTAIL」ノンテロップ オープニング映像", "", ""],
+    [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [2, "アニメ「FAIRY TAIL」ノンテロップオープニング映像", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45842"]
+links = ["https://beta.musicbrainz.org/release/e091e54d-6507-39da-9fb9-1cfcb62a52e7", "https://vgmdb.net/album/45842"]
 
 [86]
 catalognumber = "AVCD-96311/B"
 date = "2019-07-17"
 album = "HERE COMES THE SOUND! / Miyuu Disc 1 (CD) [AVCD-96311]"
 tracks = [
-    [1, "Exceed", "", ""],
-    [2, "Go away", "", ""],
-    [3, "Find the way", "", ""],
-    [4, "You got the love", "", ""],
-    [5, "closer again", "", ""],
-    [6, "Try", "", ""],
+    [1, "Exceed", "Miyuu", ""],
+    [2, "Go away", "Miyuu", ""],
+    [3, "Find the way", "Miyuu", ""],
+    [4, "You got the love", "Miyuu", ""],
+    [5, "closer again", "Miyuu", ""],
+    [6, "Try", "Miyuu", ""],
 ]
-links = ["https://vgmdb.net/album/90173"]
+links = ["https://beta.musicbrainz.org/release/e947f4da-8833-4387-bafa-bb8be6551dbc", "https://vgmdb.net/album/90173"]
 
 [87]
 catalognumber = "AVCD-96311/B"
 date = "2019-07-17"
 album = "HERE COMES THE SOUND! / Miyuu Disc 2 (DVD) [AVCD-96311B]"
 tracks = [
-    [1, "never be fine (MV)", "", ""],
-    [2, "closer again (MV)", "", ""],
-    [3, "Miyuusic FM 特別編 ～Miyuuと聴くMiyuu～", "", ""],
+    [1, "never be fine MV", "Miyuu", ""],
+    [2, "closer again MV", "Miyuu", ""],
+    [3, "Miyuusic FM 特別編 ～Miyuuと聴くMiyuu～", "Miyuu", ""],
 ]
-links = ["https://vgmdb.net/album/90173"]
+links = ["https://beta.musicbrainz.org/release/e947f4da-8833-4387-bafa-bb8be6551dbc", "https://vgmdb.net/album/90173"]
 
 [88]
 catalognumber = "SPLP-021"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO Disc 1 (CD)"
 tracks = [
-    [1, "「テノヒラ」", "", ""],
-    [2, "ラッキーデイ", "", ""],
+    [1, "「テノヒラ」", "HERO", ""],
+    [2, "ラッキーデイ", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/151457"]
+links = ["https://beta.musicbrainz.org/release/e2b24595-0f59-42ff-a409-eeeda482e450", "https://vgmdb.net/album/151457"]
 
 [89]
 catalognumber = "SPLP-021"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO Disc 2 (DVD)"
 tracks = [
-    [1, "「テノヒラ」 (PV)", "", ""],
+    [1, "「テノヒラ」(PV)", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/151457"]
+links = ["https://beta.musicbrainz.org/release/e2b24595-0f59-42ff-a409-eeeda482e450", "https://vgmdb.net/album/151457"]
 
 [90]
 catalognumber = "RZCD-86746/B"
@@ -1488,60 +1488,60 @@ catalognumber = "PCCG-01297"
 date = "2012-08-15"
 album = "劇場版「FAIRY TAIL-鳳凰の巫女-」オリジナル･サウンドトラック"
 tracks = [
-    [1, "旅立ちの序曲 ～OVERTURE:FAIRY TAIL メインテーマ～", "", ""],
-    [2, "鳳凰の舞", "", ""],
-    [3, "朱(あけ)に染まる村", "", ""],
-    [4, "メインタイトル", "", ""],
-    [5, "バックス盗賊団", "", ""],
-    [6, "ルーシィ張り切る", "", ""],
-    [7, "ギルドへの帰還", "", ""],
-    [8, "エクレアの記憶", "", ""],
-    [9, "旅の仲間", "", ""],
-    [10, "魔法の街・ローズガーデン", "", ""],
-    [11, "影の襲撃", "", ""],
-    [12, "追撃! ナツとグレイ", "", ""],
-    [13, "カラードの館", "", ""],
-    [14, "遺された言葉", "", ""],
-    [15, "よき仲間", "", ""],
-    [16, "カーバンクル来襲", "", ""],
-    [17, "二つの鳳凰石", "", ""],
-    [18, "エクレアを救え!", "", ""],
-    [19, "ベロニカ攻城戦", "", ""],
-    [20, "苦しい戦い", "", ""],
-    [21, "激闘の果て", "", ""],
-    [22, "復活の儀式", "", ""],
-    [23, "鳳凰復活", "", ""],
-    [24, "宿命の巫女エクレア", "", ""],
-    [25, "ナツ vs.ディスト", "", ""],
-    [26, "邪心を焼く炎", "", ""],
-    [27, "鳳凰・滅びの力", "", ""],
-    [28, "宿命(さだめ)を絶つ矢", "", ""],
-    [29, "永遠のエクレア", "", ""],
+    [1, "旅立ちの序曲 〜OVERTURE:FAIRY TAIL メインテーマ〜", "高梨康治", ""],
+    [2, "鳳凰の舞", "高梨康治", ""],
+    [3, "朱に染まる村", "高梨康治", ""],
+    [4, "メインタイトル", "高梨康治", ""],
+    [5, "バックス盗賊団", "高梨康治", ""],
+    [6, "ルーシィ張り切る", "高梨康治", ""],
+    [7, "ギルドへの帰還", "高梨康治", ""],
+    [8, "エクレアの記憶", "高梨康治", ""],
+    [9, "旅の仲間", "高梨康治", ""],
+    [10, "魔法の街・ローズガーデン", "高梨康治", ""],
+    [11, "影の襲撃", "高梨康治", ""],
+    [12, "追撃! ナツとグレイ", "高梨康治", ""],
+    [13, "カラードの館", "高梨康治", ""],
+    [14, "遺された言葉", "高梨康治", ""],
+    [15, "よき仲間", "高梨康治", ""],
+    [16, "カーバンクル来襲", "高梨康治", ""],
+    [17, "二つの鳳凰石", "高梨康治", ""],
+    [18, "エクレアを救え!", "高梨康治", ""],
+    [19, "ベロニカ攻城戦", "高梨康治", ""],
+    [20, "苦しい戦い", "高梨康治", ""],
+    [21, "激闘の果て", "高梨康治", ""],
+    [22, "復活の儀式", "高梨康治", ""],
+    [23, "鳳凰復活", "高梨康治", ""],
+    [24, "宿命の巫女エクレア", "高梨康治", ""],
+    [25, "ナツ vs. ディスト", "高梨康治", ""],
+    [26, "邪心を焼く炎", "高梨康治", ""],
+    [27, "鳳凰・滅びの力", "高梨康治", ""],
+    [28, "宿命を絶つ矢", "高梨康治", ""],
+    [29, "永遠のエクレア", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/33714"]
+links = ["https://beta.musicbrainz.org/release/2adea9b3-7856-4c43-bd3e-0e1603fb9fa9", "https://vgmdb.net/album/33714"]
 
 [93]
 catalognumber = "VICL-65580"
 date = "2021-11-24"
 album = "Re:Play / ときのそら"
 tracks = [
-    [1, "HOT LIMIT", "", ""],
-    [2, "ロマンスの神様", "", ""],
-    [3, "ファンサ", "", ""],
-    [4, "MASAYUME CHASING", "", ""],
-    [5, "怪物", "", ""],
-    [6, "アンドロイドガール", "", ""],
-    [7, "God knows...", "", ""],
-    [8, "Butterfly", "", ""],
-    [9, "まっさらブルージーンズ", "", ""],
-    [10, "嘘", "", ""],
-    [11, "赤いスイートピー", "", ""],
-    [12, "この世界で", "", ""],
-    [13, "KING", "", ""],
-    [14, "エイリアンエイリアン", "", ""],
-    [15, "太陽系デスコ", "", ""],
+    [1, "HOT LIMIT", "ときのそら", ""],
+    [2, "ロマンスの神様", "ときのそら", ""],
+    [3, "ファンサ", "ときのそら", ""],
+    [4, "MASAYUME CHASING", "ときのそら", ""],
+    [5, "怪物", "ときのそら", ""],
+    [6, "アンドロイドガール", "ときのそら", ""],
+    [7, "God knows...", "ときのそら", ""],
+    [8, "Butterfly", "ときのそら", ""],
+    [9, "まっさらブルージーンズ", "ときのそら", ""],
+    [10, "嘘", "ときのそら", ""],
+    [11, "赤いスイートピー", "ときのそら", ""],
+    [12, "この世界で", "ときのそら", ""],
+    [13, "KING", "ときのそら", ""],
+    [14, "エイリアンエイリアン", "ときのそら", ""],
+    [15, "太陽系デスコ", "ときのそら", ""],
 ]
-links = ["https://vgmdb.net/album/114915"]
+links = ["https://beta.musicbrainz.org/release/b5af36f8-4152-4e85-8673-8b8bfba74784", "https://vgmdb.net/album/114915"]
 
 [94]
 catalognumber = "PCCA-03579"
@@ -1590,152 +1590,152 @@ catalognumber = "RZCB-87004/B"
 date = "2019-09-18"
 album = "ユラレル / みゆな Disc 1 (CD) [RZCB-87004]"
 tracks = [
-    [1, "ユラレル", "", ""],
-    [2, "グルグル", "", ""],
-    [3, "僕と君のララバイ", "", ""],
-    [4, "缶ビール", "", ""],
-    [5, "くちなしの言葉", "", ""],
-    [6, "進め", "", ""],
-    [7, "生きなきゃ", "", ""],
+    [1, "ユラレル", "みゆな", ""],
+    [2, "グルグル", "みゆな", ""],
+    [3, "僕と君のララバイ", "みゆな", ""],
+    [4, "缶ビール", "みゆな", ""],
+    [5, "くちなしの言葉", "みゆな", ""],
+    [6, "進め", "みゆな", ""],
+    [7, "生きなきゃ", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/89083"]
+links = ["https://beta.musicbrainz.org/release/28c71fcf-4db2-476a-8a02-30db48cb732f", "https://vgmdb.net/album/89083"]
 
 [97]
 catalognumber = "RZCB-87004/B"
 date = "2019-09-18"
 album = "ユラレル / みゆな Disc 2 (DVD) [RZCB-87004B]"
 tracks = [
-    [1, "願い", "", ""],
-    [2, "ユラレル", "", ""],
-    [3, "たんぽぽ", "", ""],
-    [4, "僕と君のララバイ", "", ""],
-    [5, "0月0日", "", ""],
-    [6, "グルグル", "", ""],
-    [7, "天上天下", "", ""],
+    [1, "願い", "みゆな", ""],
+    [2, "ユラレル", "みゆな", ""],
+    [3, "たんぽぽ", "みゆな", ""],
+    [4, "僕と君のララバイ", "みゆな", ""],
+    [5, "0月0日", "みゆな", ""],
+    [6, "グルグル", "みゆな", ""],
+    [7, "天上天下", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/89083"]
+links = ["https://beta.musicbrainz.org/release/28c71fcf-4db2-476a-8a02-30db48cb732f", "https://vgmdb.net/album/89083"]
 
 [98]
 catalognumber = "PCCG-01220"
 date = "2012-05-16"
 album = "FAIRY TAIL キャラクターソングアルバム2 キズナだろー!!"
 tracks = [
-    [1, "キズナだろー!!", "", ""],
-    [2, "スカーレット", "", ""],
-    [3, "Naked dream", "", ""],
-    [4, "ずっと一緒", "", ""],
-    [5, "俺のIRONブルース", "", ""],
-    [6, "Happy Holiday", "", ""],
-    [7, "いつも全開だ", "", ""],
+    [1, "キズナだろー!!", "ナツ・ドラグニル (柿原徹也)", ""],
+    [2, "スカーレット", "エルザ・スカーレット (大原さやか)", ""],
+    [3, "Naked dream", "グレイ・フルバスター (中村悠一)", ""],
+    [4, "ずっと一緒", "ウェンディ・マーベル (佐藤聡美) & シャルル (堀江由衣)", ""],
+    [5, "俺のIRONブルース", "ガジル・レッドフォックス (羽多野渉)", ""],
+    [6, "Happy Holiday", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [7, "いつも全開だ", "ナツ・ドラグニル (柿原徹也) & ハッピー (釘宮理恵)", ""],
 ]
-links = ["https://vgmdb.net/album/32061"]
+links = ["https://beta.musicbrainz.org/release/975bbf87-82ea-4f38-8d3f-aed533db941a", "https://vgmdb.net/album/32061"]
 
 [99]
 catalognumber = "PCCA-03115"
 date = "2010-03-03"
 album = "追憶メリーゴーランド / onelifecrew"
 tracks = [
-    [1, "追憶メリーゴーランド", "", ""],
-    [2, "儚い論理", "", ""],
-    [3, "イロジカルワールド", "", ""],
-    [4, "追憶メリーゴーランド -Instrumental-", "", ""],
+    [1, "追憶メリーゴーランド", "onelifecrew", ""],
+    [2, "儚い論理", "onelifecrew", ""],
+    [3, "イロジカルワールド", "onelifecrew", ""],
+    [4, "追憶メリーゴーランド -Instrumental-", "onelifecrew", ""],
 ]
-links = ["https://vgmdb.net/album/45838"]
+links = ["https://beta.musicbrainz.org/release/2fd3879e-4b05-4ce0-a41d-9690264e4168", "https://vgmdb.net/album/45838"]
 
 [100]
 catalognumber = "SPLP-020"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO Disc 1 (CD) [SPLP-20]"
 tracks = [
-    [1, "「テノヒラ」", "", ""],
-    [2, "「伝えたい音」", "", ""],
+    [1, "「テノヒラ」", "HERO", ""],
+    [2, "「伝えたい音」", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/45904"]
+links = ["https://beta.musicbrainz.org/release/f86ee57f-3169-4b61-a48e-10dd67a8e078", "https://vgmdb.net/album/45904"]
 
 [101]
 catalognumber = "SPLP-020"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO Disc 2 (DVD) [SPLP-20]"
 tracks = [
-    [1, "FAIRY TAILノンテロップOP映像", "", ""],
+    [1, "FAIRY TAILノンテロップOP映像", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/45904"]
+links = ["https://beta.musicbrainz.org/release/f86ee57f-3169-4b61-a48e-10dd67a8e078", "https://vgmdb.net/album/45904"]
 
 [102]
 catalognumber = "AVCD-83134"
 date = "2014-12-10"
 album = "Mysterious Magic / Do As Infinity"
 tracks = [
-    [1, "Mysterious Magic", "", ""],
-    [2, "Tidy Beauty", "", ""],
+    [1, "Mysterious Magic", "Do As Infinity", ""],
+    [2, "Tidy Beauty", "Do As Infinity", ""],
 ]
-links = ["https://vgmdb.net/album/48684"]
+links = ["https://beta.musicbrainz.org/release/87f9b569-9b8d-40ef-83bf-d0aaaba18165", "https://vgmdb.net/album/48684"]
 
 [103]
 catalognumber = "PCCA-03340"
 date = "2011-01-26"
 album = "Let's get it on / w-inds. [Limited Edition] Disc 1 (CD) [PCCA-03340-1]"
 tracks = [
-    [1, "Let's get it on", "", ""],
-    [2, "Be As One", "", ""],
-    [3, "Noise", "", ""],
+    [1, "Be As One", "w-inds.", ""],
+    [2, "Let’s get it on", "w-inds.", ""],
+    [3, "To My Fans", "w-inds.", ""],
 ]
-links = ["https://vgmdb.net/album/45872"]
+links = ["https://beta.musicbrainz.org/release/1dfd8c29-56cd-4742-ab24-ffbbf5ef7d31", "https://vgmdb.net/album/45872"]
 
 [104]
 catalognumber = "PCCA-03340"
 date = "2011-01-26"
 album = "Let's get it on / w-inds. [Limited Edition] Disc 2 (DVD) [PCCA-03340-2]"
 tracks = [
-    [1, "Let's get it on (Video Clip)", "", ""],
+    [1, "Let's get it on (PV)", "w-inds.", ""],
 ]
-links = ["https://vgmdb.net/album/45872"]
+links = ["https://beta.musicbrainz.org/release/1dfd8c29-56cd-4742-ab24-ffbbf5ef7d31", "https://vgmdb.net/album/45872"]
 
 [105]
 catalognumber = "ANTCD-22922"
 date = "2017-05-31"
 album = "WHAT YOU ARE / POLKA DOTS"
 tracks = [
-    [1, "WHAT YOU ARE", "", ""],
+    [1, "WHAT YOU ARE", "POLKA DOTS", ""],
 ]
-links = ["https://vgmdb.net/album/68690"]
+links = ["https://beta.musicbrainz.org/release/200f3fd6-8c75-4200-bd25-f61e01febc65", "https://vgmdb.net/album/68690"]
 
 [106]
 catalognumber = "AVCD-96299~300/B"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH Disc 1 (CD) [AVCD-96299]"
 tracks = [
-    [1, "DiSTANCE", "", ""],
-    [2, "遂に死", "", ""],
-    [3, "MORE THAN LiKE", "", ""],
-    [4, "FREEZE DRY THE PASTS", "", ""],
-    [5, "CHOP", "", ""],
-    [6, "I am me.", "", ""],
-    [7, "NO SWEET", "", ""],
-    [8, "O・S", "", ""],
-    [9, "まだ途中", "", ""],
-    [10, "優しいPAiN", "", ""],
-    [11, "アイデンティティ", "", ""],
-    [12, "FiNALLY", "", ""],
-    [13, "CAN YOU??", "", ""],
-    [14, "GRUNGE WORLD", "", ""],
+    [1, "DiSTANCE", "BiSH", ""],
+    [2, "遂に死", "BiSH", ""],
+    [3, "MORE THAN LiKE", "BiSH", ""],
+    [4, "FREEZE DRY THE PASTS", "BiSH", ""],
+    [5, "CHOP", "BiSH", ""],
+    [6, "I am me.", "BiSH", ""],
+    [7, "NO SWEET", "BiSH", ""],
+    [8, "O・S", "BiSH", ""],
+    [9, "まだ途中", "BiSH", ""],
+    [10, "優しいPAiN", "BiSH", ""],
+    [11, "アイデンティティ", "BiSH", ""],
+    [12, "FiNALLY", "BiSH", ""],
+    [13, "CAN YOU??", "BiSH", ""],
+    [14, "GRUNGE WORLD", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90169"]
+links = ["https://beta.musicbrainz.org/release/7c6f917f-bf4d-455e-a244-36e5ecb8cc5f", "https://vgmdb.net/album/90169"]
 
 [107]
 catalognumber = "AVCD-96299~300/B"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH Disc 2 (CD) [AVCD-96300]"
 tracks = [
-    [1, "PAiNT it BLACK", "", ""],
-    [2, "Life is beautiful", "", ""],
-    [3, "HiDE the BLUE", "", ""],
-    [4, "NON TiE-UP", "", ""],
-    [5, "stereo future", "", ""],
-    [6, "二人なら", "", ""],
-    [7, "Small Fish", "", ""],
+    [1, "PAiNT it BLACK", "BiSH", ""],
+    [2, "Life is beautiful", "BiSH", ""],
+    [3, "HiDE the BLUE", "BiSH", ""],
+    [4, "NON TiE-UP", "BiSH", ""],
+    [5, "stereo future", "BiSH", ""],
+    [6, "二人なら", "BiSH", ""],
+    [7, "Small Fish", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90169"]
+links = ["https://beta.musicbrainz.org/release/7c6f917f-bf4d-455e-a244-36e5ecb8cc5f", "https://vgmdb.net/album/90169"]
 
 [108]
 catalognumber = "AVCD-96299~300/B"
@@ -1762,30 +1762,30 @@ catalognumber = "PCCG-70064"
 date = "2010-03-03"
 album = "「FAIRY TAIL」キャラクターソングコレクションVOL.2 ルーシィ&ハッピー"
 tracks = [
-    [1, "OPEN THE GATE", "", ""],
-    [2, "ハッピーデイ", "", ""],
-    [3, "OPEN THE GATE (Instrumental)", "", ""],
-    [4, "ハッピーデイ (Instrumental)", "", ""],
+    [1, "OPEN THE GATE", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [2, "ハッピーデイ", "ハッピー (釘宮理恵)", ""],
+    [3, "OPEN THE GATE (instrumental)", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [4, "ハッピーデイ (instrumental)", "ハッピー (釘宮理恵)", ""],
 ]
-links = ["https://vgmdb.net/album/23868"]
+links = ["https://beta.musicbrainz.org/release/ada920f3-e213-44b9-895a-6db17bba13e1", "https://vgmdb.net/album/23868"]
 
 [110]
 catalognumber = "PCCG-01367"
 date = "2013-11-06"
 album = "Love / 愛美 [初回限定スペシャル盤] Disc 1 (CD)"
 tracks = [
-    [1, "天使のCLOVER (Love edit)", "", ""],
-    [2, "Courage song", "", ""],
-    [3, "運命の檻", "", ""],
-    [4, "We're the stars", "", ""],
-    [5, "LIVE for LIFE ～狼たちの夜～", "", ""],
-    [6, "数えきれないさよなら", "", ""],
-    [7, "Link", "", ""],
-    [8, "永遠", "", ""],
-    [9, "君が好きだよ。", "", ""],
-    [10, "LOVE", "", ""],
+    [1, "天使のCLOVER (Love edit)", "愛美", ""],
+    [2, "Courage song", "愛美", ""],
+    [3, "運命の檻", "愛美", ""],
+    [4, "We're the stars", "愛美", ""],
+    [5, "LIVE for LIFE ～狼たちの夜～", "愛美", ""],
+    [6, "数え切れないさよなら", "愛美", ""],
+    [7, "Link", "愛美", ""],
+    [8, "永遠", "愛美", ""],
+    [9, "君が好きだよ。", "愛美", ""],
+    [10, "LOVE", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/86456"]
+links = ["https://beta.musicbrainz.org/release/a124da07-c4df-4d55-bff6-75c29a79168b", "https://vgmdb.net/album/86456"]
 
 [111]
 catalognumber = "PCCG-01367"
@@ -1802,67 +1802,67 @@ catalognumber = "PCCG-01337"
 date = "2013-03-20"
 album = "FAIRY TAIL オリジナルサウンドトラック VOL.4 Original Soundtrack"
 tracks = [
-    [1, "雷炎竜吼える", "", ""],
-    [2, "煉獄の七眷属", "", ""],
-    [3, "黒魔導士の邪心", "", ""],
-    [4, "胸に秘めし想い", "", ""],
-    [5, "愛しきものへ", "", ""],
-    [6, "S級魔導士昇格試験", "", ""],
-    [7, "天狼島", "", ""],
-    [8, "悪魔の心臓(グリモアハート)", "", ""],
-    [9, "黒き炎", "", ""],
-    [10, "火竜 vs. 炎神", "", ""],
-    [11, "過ぎし日の光", "", ""],
-    [12, "メイビスの墓", "", ""],
-    [13, "大魔導士ブルーノート", "", ""],
-    [14, "無敵のアズマ", "", ""],
-    [15, "ゼレフの憂鬱", "", ""],
-    [16, "魔女の罪(クリムソルシエール)", "", ""],
-    [17, "ウルティアとグレイ", "", ""],
-    [18, "妖精の輝き", "", ""],
-    [19, "天狼樹", "", ""],
-    [20, "マカロフ vs. ハデス", "", ""],
-    [21, "破滅への序曲", "", ""],
-    [22, "最強最後の死闘", "", ""],
-    [23, "ベストパートナー", "", ""],
-    [24, "FAIRY TAIL メインテーマ -天狼島 ver.-", "", ""],
+    [1, "雷炎竜吼える", "高梨康治", ""],
+    [2, "煉獄の七眷属", "高梨康治", ""],
+    [3, "黒魔導士の邪心", "高梨康治", ""],
+    [4, "胸に秘めし想い", "高梨康治", ""],
+    [5, "愛しきものへ", "高梨康治", ""],
+    [6, "S級魔導士昇格試験", "高梨康治", ""],
+    [7, "天狼島", "高梨康治", ""],
+    [8, "悪魔の心臓 (グリモアハート)", "高梨康治", ""],
+    [9, "黒き炎", "高梨康治", ""],
+    [10, "火竜 vs. 炎神", "高梨康治", ""],
+    [11, "過ぎし日の光", "高梨康治", ""],
+    [12, "メイビスの墓", "高梨康治", ""],
+    [13, "大魔導士ブルーノート", "高梨康治", ""],
+    [14, "無敵のアズマ", "高梨康治", ""],
+    [15, "ゼレフの憂鬱", "高梨康治", ""],
+    [16, "魔女の罪 (クリムソルシエール)", "高梨康治", ""],
+    [17, "ウルティアとグレイ", "高梨康治", ""],
+    [18, "妖精の輝き", "高梨康治", ""],
+    [19, "天狼樹", "高梨康治", ""],
+    [20, "マカロフ vs. ハデス", "高梨康治", ""],
+    [21, "破滅への序曲", "高梨康治", ""],
+    [22, "最強最後の死闘", "高梨康治", ""],
+    [23, "ベストパートナー", "高梨康治", ""],
+    [24, "FAIRY TAIL メインテーマ -天狼島 ver.-", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/37513"]
+links = ["https://beta.musicbrainz.org/release/19de4532-2e2d-4726-a3e3-6ade49186ee1", "https://vgmdb.net/album/37513"]
 
 [113]
 catalognumber = "PCCG-01337"
 date = "2013-03-20"
 album = "FAIRY TAIL オリジナルサウンドトラック VOL.4 Original Soundtrack, Vocal"
 tracks = [
-    [1, "剣咬の虎(セイバートゥース)", "", ""],
-    [2, "第三世代ドラゴンスレイヤー", "", ""],
-    [3, "白竜と影竜", "", ""],
-    [4, "時の迷宮", "", ""],
-    [5, "はるかなる約束の地", "", ""],
-    [6, "大魔闘演武", "", ""],
-    [7, "誇りを賭けて", "", ""],
-    [8, "ゲームの始まり", "", ""],
-    [9, "強敵現る", "", ""],
-    [10, "魔法競技戦", "", ""],
-    [11, "勝機の一撃", "", ""],
-    [12, "ルーシィと星霊の力", "", ""],
-    [13, "暗躍する者たち", "", ""],
-    [14, "ウルティア", "", ""],
-    [15, "ジュビア", "", ""],
-    [16, "ギルドの誇り", "", ""],
-    [17, "フロッシュとレクター", "", ""],
-    [18, "シャルルの悪夢", "", ""],
-    [19, "エクリプス計画", "", ""],
-    [20, "われらフェアリーテイル", "", ""],
-    [21, "最凶ライバル登場", "", ""],
-    [22, "頂上を目指せ!", "", ""],
-    [23, "練達の魔法戦", "", ""],
-    [24, "終わりなき攻防", "", ""],
-    [25, "魔道の覇者", "", ""],
-    [26, "BLOW AWAY", "", ""],
-    [27, "Happy Tale", "", ""],
+    [1, "剣咬の虎 (セイバートゥース)", "高梨康治", ""],
+    [2, "第三世代ドラゴンスレイヤー", "高梨康治", ""],
+    [3, "白竜と影竜", "高梨康治", ""],
+    [4, "時の迷宮", "高梨康治", ""],
+    [5, "はるかなる約束の地", "高梨康治", ""],
+    [6, "大魔闘演武", "高梨康治", ""],
+    [7, "誇りを賭けて", "高梨康治", ""],
+    [8, "ゲームの始まり", "高梨康治", ""],
+    [9, "強敵現る", "高梨康治", ""],
+    [10, "魔法競技戦", "高梨康治", ""],
+    [11, "勝機の一撃", "高梨康治", ""],
+    [12, "ルーシィと星霊の力", "高梨康治", ""],
+    [13, "暗躍する者たち", "高梨康治", ""],
+    [14, "ウルティア", "高梨康治", ""],
+    [15, "ジュビア", "高梨康治", ""],
+    [16, "ギルドの誇り", "高梨康治", ""],
+    [17, "フロッシュとレクター", "高梨康治", ""],
+    [18, "シャルルの悪夢", "高梨康治", ""],
+    [19, "エクリプス計画", "高梨康治", ""],
+    [20, "われらフェアリーテイル", "高梨康治", ""],
+    [21, "最凶ライバル登場", "高梨康治", ""],
+    [22, "頂上を目指せ!", "高梨康治", ""],
+    [23, "練達の魔法戦", "高梨康治", ""],
+    [24, "終わりなき攻防", "高梨康治", ""],
+    [25, "魔道の覇者", "高梨康治", ""],
+    [26, "BLOW AWAY", "ナツ (柿原徹也) & グレイ (中村悠一)", ""],
+    [27, "Happy Tale", "ルーシィ (平野綾), エルザ (大原さやか), ウェンディ (佐藤聡美)", ""],
 ]
-links = ["https://vgmdb.net/album/37513"]
+links = ["https://beta.musicbrainz.org/release/19de4532-2e2d-4726-a3e3-6ade49186ee1", "https://vgmdb.net/album/37513"]
 
 [114]
 catalognumber = "RZCD-59583/B"
@@ -1891,214 +1891,214 @@ catalognumber = "PCCA-03036"
 date = "2009-11-11"
 album = "完璧ぐ～のね / 渡り廊下走り隊"
 tracks = [
-    [1, "完璧ぐ～のね", "", ""],
-    [2, "冒険エトセトラ", "", ""],
-    [3, "風のバイオリン", "", ""],
-    [4, "完璧ぐ～のね (Instrumental)", "", ""],
-    [5, "冒険エトセトラ (Instrumental)", "", ""],
-    [6, "風のバイオリン (Instrumental)", "", ""],
+    [1, "完璧ぐ〜のね", "渡り廊下走り隊", ""],
+    [2, "冒険エトセトラ", "渡り廊下走り隊", ""],
+    [3, "風のバイオリン", "渡辺麻友", ""],
+    [4, "完璧ぐ〜のね (instrumental)", "渡り廊下走り隊", ""],
+    [5, "冒険エトセトラ (instrumental)", "渡り廊下走り隊", ""],
+    [6, "風のバイオリン (instrumental)", "渡辺麻友", ""],
 ]
-links = ["https://vgmdb.net/album/45819"]
+links = ["https://beta.musicbrainz.org/release/d1f35bf9-7f8a-49e4-a95b-07419b0e2d7d", "https://vgmdb.net/album/45819"]
 
 [117]
 catalognumber = "PCCA-70317"
 date = "2012-01-11"
 album = "ずるいよ…/I Wish / Milky Bunny"
 tracks = [
-    [1, "ずるいよ...", "", ""],
-    [2, "I Wish", "", ""],
-    [3, "ずるいよ... (karaoke)", "", ""],
-    [4, "I Wish (karaoke)", "", ""],
+    [1, "ずるいよ・・・", "Milky Bunny", ""],
+    [2, "I Wish", "Milky Bunny", ""],
+    [3, "ずるいよ・・・ (Karaoke)", "Milky Bunny", ""],
+    [4, "I Wish (Karaoke)", "Milky Bunny", ""],
 ]
-links = ["https://vgmdb.net/album/45891"]
+links = ["https://beta.musicbrainz.org/release/9af8e50f-ea1e-4dcb-8b2c-eeff8ef32dd4", "https://vgmdb.net/album/45891"]
 
 [118]
 catalognumber = "KTGS-40643CD"
 date = "2024-12-12"
 album = "FAIRY TAIL 2 ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "Overture -Brave Mix-", "", ""],
-    [2, "Beginning", "", ""],
-    [3, "Creeping Malice", "", ""],
-    [4, "Power of Dragon Slayers", "", ""],
-    [5, "Comrades in Arms", "", ""],
-    [6, "Evil Wizards", "", ""],
-    [7, "Open Plain", "", ""],
-    [8, "Conflict", "", ""],
-    [9, "Attainment", "", ""],
-    [10, "Daily Life", "", ""],
-    [11, "Dappled Sunlight", "", ""],
-    [12, "Hollow Heart", "", ""],
-    [13, "Wilderness", "", ""],
-    [14, "Battlefront Encroachment", "", ""],
-    [15, "A Looming Disaster", "", ""],
-    [16, "Sacred Peak", "", ""],
-    [17, "Dungeons", "", ""],
-    [18, "Inevitable Fight", "", ""],
-    [19, "Unbreakable Bond", "", ""],
-    [20, "Universe One", "", ""],
-    [21, "Battle with Spriggan 12", "", ""],
-    [22, "Sense of Loss", "", ""],
-    [23, "Curse of Contradiction", "", ""],
-    [24, "Battle with Zeref", "", ""],
-    [25, "Grand Denouement", "", ""],
-    [26, "Final Battle with Acnologia", "", ""],
+    [1, "Overture -Brave Mix-", "赤羽大夢", ""],
+    [2, "Beginning", "志村咲希", ""],
+    [3, "Creeping Malice", "吉田孝志", ""],
+    [4, "Power of Dragon Slayers", "赤羽大夢", ""],
+    [5, "Comrades in Arms", "赤羽大夢", ""],
+    [6, "Evil Wizards", "吉田孝志", ""],
+    [7, "Open Plain", "志村咲希", ""],
+    [8, "Conflict", "赤羽大夢", ""],
+    [9, "Attainment", "吉田孝志", ""],
+    [10, "Daily Life", "志村咲希", ""],
+    [11, "Dappled Sunlight", "志村咲希", ""],
+    [12, "Hollow Heart", "吉田孝志", ""],
+    [13, "Wilderness", "志村咲希", ""],
+    [14, "Battlefront Encroachment", "志村咲希", ""],
+    [15, "A Looming Disaster", "吉田孝志", ""],
+    [16, "Sacred Peak", "志村咲希", ""],
+    [17, "Dungeons", "赤羽大夢", ""],
+    [18, "Inevitable Fight", "赤羽大夢", ""],
+    [19, "Unbreakable Bond", "赤羽大夢", ""],
+    [20, "Universe One", "志村咲希", ""],
+    [21, "Battle with Spriggan 12", "赤羽大夢", ""],
+    [22, "Sense of Loss", "吉田孝志", ""],
+    [23, "Curse of Contradiction", "吉田孝志", ""],
+    [24, "Battle with Zeref", "赤羽大夢", ""],
+    [25, "Grand Denouement", "吉田孝志", ""],
+    [26, "Final Battle with Acnologia", "赤羽大夢", ""],
 ]
-links = ["https://vgmdb.net/album/142305"]
+links = ["https://beta.musicbrainz.org/release/a6d79c79-bed3-4740-b563-d8d18f2f1e91", "https://vgmdb.net/album/142305"]
 
 [119]
 catalognumber = "AVCD-96380"
 date = "2019-12-04"
 album = "INFINITY / Beverly"
 tracks = [
-    [1, "Poison Ivy", "", ""],
-    [2, "Serenade", "", ""],
-    [3, "尊い", "", ""],
-    [4, "Everlasting Sky", "", ""],
-    [5, "Higher Ground", "", ""],
-    [6, "Nobody", "", ""],
-    [7, "Home", "", ""],
-    [8, "Life at the Party", "", ""],
-    [9, "Adventure", "", ""],
-    [10, "Again", "", ""],
-    [11, "探しに行こうよ", "", ""],
-    [12, "Endless Harmony feat.LOREN", "", ""],
+    [1, "Poison Ivy", "Beverly", ""],
+    [2, "Serenade", "Beverly", ""],
+    [3, "尊い", "Beverly", ""],
+    [4, "Everlasting Sky", "Beverly", ""],
+    [5, "Higher Ground", "Beverly", ""],
+    [6, "Nobody", "Beverly", ""],
+    [7, "Home", "Beverly", ""],
+    [8, "Life at the Party", "Beverly", ""],
+    [9, "Adventure", "Beverly", ""],
+    [10, "Again", "Beverly", ""],
+    [11, "探しに行こうよ", "Beverly", ""],
+    [12, "Endless Harmony", "Beverly feat.LOREN", ""],
 ]
-links = ["https://vgmdb.net/album/90420"]
+links = ["https://beta.musicbrainz.org/release/a947d066-d9ff-4995-b284-c58c4b2089af", "https://vgmdb.net/album/90420"]
 
 [120]
 catalognumber = "AVTD-94296"
 date = "2019-02-27"
 album = "ピアス / EMPiRE"
 tracks = [
-    [1, "ピアス", "", ""],
-    [2, "ERASER HEAD", "", ""],
+    [1, "ピアス", "EMPiRE", ""],
+    [2, "ERASER HEAD", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/83354"]
+links = ["https://beta.musicbrainz.org/release/662bbb76-cc88-49de-b2b1-1bac135906b5", "https://vgmdb.net/album/83354"]
 
 [121]
 catalognumber = "EYXA-12276B"
 date = "2020-01-31"
 album = "FAIRY TAIL ファイナルシリーズ ORIGINAL SOUND COLLECTION Vol.1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ -Battle version-", "", ""],
-    [2, "戦場に咲く剣", "", ""],
-    [3, "氷の闘志", "", ""],
-    [4, "炎竜王の咆哮", "", ""],
-    [5, "闇に仕えし者たち", "", ""],
-    [6, "戦慄すべき敵", "", ""],
-    [7, "フェアリーテイルふたたび", "", ""],
-    [8, "仲間が集えば", "", ""],
-    [9, "再会を祝して", "", ""],
-    [10, "マカロフの決意", "", ""],
-    [11, "強襲! 最強魔導士", "", ""],
-    [12, "マグノリア防衛戦", "", ""],
-    [13, "連係攻撃・グレイ&ジュビア", "", ""],
-    [14, "華麗なるルーシィ", "", ""],
-    [15, "ひととき心やすらかに", "", ""],
-    [16, "温泉日和", "", ""],
-    [17, "いけない妄想", "", ""],
-    [18, "天罰!", "", ""],
-    [19, "友だちでいられたら", "", ""],
-    [20, "ジュビアの想い", "", ""],
-    [21, "フェアリーテイル出陣", "", ""],
-    [22, "恐怖の兵団", "", ""],
-    [23, "皇帝スプリガン", "", ""],
-    [24, "アルバレス帝国", "", ""],
-    [25, "氷魔の激昂", "", ""],
-    [26, "傷だらけの激闘", "", ""],
-    [27, "不屈の反撃", "", ""],
-    [28, "ギルドの旗のもとに", "", ""],
-    [29, "FAIRY TAIL メインテーマ -Ballad version-", "", ""],
+    [1, "FAIRY TAIL メインテーマ -Battle version-", "高梨康治", ""],
+    [2, "戦場に咲く剣", "高梨康治", ""],
+    [3, "氷の闘志", "高梨康治", ""],
+    [4, "炎竜王の咆哮", "高梨康治", ""],
+    [5, "闇に仕えし者たち", "高梨康治", ""],
+    [6, "戦慄すべき敵", "高梨康治", ""],
+    [7, "フェアリーテイルふたたび", "高梨康治", ""],
+    [8, "仲間が集えば", "高梨康治", ""],
+    [9, "再会を祝して", "高梨康治", ""],
+    [10, "マカロフの決意", "高梨康治", ""],
+    [11, "強襲! 最強魔導士", "高梨康治", ""],
+    [12, "マグノリア防衛戦", "高梨康治", ""],
+    [13, "連係攻撃・グレイ&ジュビア", "高梨康治", ""],
+    [14, "華麗なるルーシィ", "高梨康治", ""],
+    [15, "ひととき心やすらかに", "高梨康治", ""],
+    [16, "温泉日和", "高梨康治", ""],
+    [17, "いけない妄想", "高梨康治", ""],
+    [18, "天罰!", "高梨康治", ""],
+    [19, "友だちでいられたら", "高梨康治", ""],
+    [20, "ジュビアの想い", "高梨康治", ""],
+    [21, "フェアリーテイル出陣", "高梨康治", ""],
+    [22, "恐怖の兵団", "高梨康治", ""],
+    [23, "皇帝スプリガン", "高梨康治", ""],
+    [24, "アルバレス帝国", "高梨康治", ""],
+    [25, "氷魔の激昂", "高梨康治", ""],
+    [26, "傷だらけの激闘", "高梨康治", ""],
+    [27, "不屈の反撃", "高梨康治", ""],
+    [28, "ギルドの旗のもとに", "高梨康治", ""],
+    [29, "FAIRY TAIL メインテーマ -Ballad version-", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/84796"]
+links = ["https://beta.musicbrainz.org/release/2628508b-3cd6-4f11-864a-14afd223b019", "https://vgmdb.net/album/84796"]
 
 [122]
 catalognumber = "AVTD-94295/B"
 date = "2019-02-27"
 album = "ピアス / EMPiRE Disc 1 (Cassette) [AVTD-94295]"
 tracks = [
-    [1, "ピアス", "", ""],
-    [2, "ERASER HEAD", "", ""],
+    [1, "ピアス", "EMPiRE", ""],
+    [2, "ERASER HEAD", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/83355"]
+links = ["https://beta.musicbrainz.org/release/73ba73a9-607e-407e-a151-2cfaa662b642", "https://vgmdb.net/album/83355"]
 
 [123]
 catalognumber = "AVTD-94295/B"
 date = "2019-02-27"
 album = "ピアス / EMPiRE Disc 2 (Blu-ray) [AVTD-94295B]"
 tracks = [
-    [1, "Buttocks beat! beat! (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [2, "SO i YA (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [3, "TOKYO MOONLiGHT (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [4, "EMPiRE is COMiNG (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [5, "S.O.S (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [6, "デッドバディ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [7, "Dope (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [8, "Don’t tell me why (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [9, "Talk about (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [10, "LiTTLE BOY (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [11, "MAD LOVE (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [12, "コノ世界ノ片隅デ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [13, "Black to the dreamlight (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [14, "アカルイミライ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [15, "FOR EXAMPLE?? (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [16, "EMPiRE originals (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [17, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [18, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [19, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [20, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [21, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "", ""],
-    [22, "#EMPiREとアレ [PERFECT EDiTiON]", "", ""],
-    [23, "ピアス [Music Video]", "", ""],
-    [24, "Making Movie", "", ""],
+    [1, "Buttocks beat! beat! (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [2, "SO i YA (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [3, "TOKYO MOONLiGHT (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [4, "EMPiRE is COMiNG (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [5, "S.O.S (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [6, "デッドバディ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [7, "Dope (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [8, "Don’t tell me why (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [9, "Talk about (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [10, "LiTTLE BOY (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [11, "MAD LOVE (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [12, "コノ世界ノ片隅デ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [13, "Black to the dreamlight (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [14, "アカルイミライ (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [15, "FOR EXAMPLE?? (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [16, "EMPiRE originals (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [17, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [18, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [19, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [20, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [21, "Buttocks beat! beat! (ENCORE) (2018.09.04 at Mynavi BLITZ AKASAKA NEXT EDiTiON TOUR)", "EMPiRE", ""],
+    [22, "#EMPiREとアレ [PERFECT EDiTiON]", "EMPiRE", ""],
+    [23, "ピアス [Music Video]", "EMPiRE", ""],
+    [24, "Making Movie", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/83355"]
+links = ["https://beta.musicbrainz.org/release/73ba73a9-607e-407e-a151-2cfaa662b642", "https://vgmdb.net/album/83355"]
 
 [124]
 catalognumber = "AVCK-79204"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA [Limited Edition]"
 tracks = [
-    [1, "MASAYUME CHASING", "", ""],
-    [2, "FUN", "", ""],
-    [3, "MASAYUME CHASING (INST)", "", ""],
-    [4, "FUN (INST)", "", ""],
+    [1, "MASAYUME CHASING", "BoA", ""],
+    [2, "FUN", "BoA", ""],
+    [3, "MASAYUME CHASING (INST)", "BoA", ""],
+    [4, "FUN (INST)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45923"]
+links = ["https://beta.musicbrainz.org/release/3ff6a870-b5b6-4fff-91cf-692726b8cf58", "https://vgmdb.net/album/45923"]
 
 [125]
 catalognumber = "AVCD-83129/B"
 date = "2014-11-19"
 album = "キミノミライ / ROOT FIVE Disc 1 (CD)"
 tracks = [
-    [1, "キミノミライ", "", ""],
-    [2, "Just Be Friends", "", ""],
-    [3, "キミノミライ インスト", "", ""],
-    [4, "Just Be Friends インスト", "", ""],
+    [1, "キミノミライ", "√5", ""],
+    [2, "Just Be Friends", "√5", ""],
+    [3, "キミノミライ (Instrumental)", "√5", ""],
+    [4, "Just Be Friends (Instrumental)", "√5", ""],
 ]
-links = ["https://vgmdb.net/album/48387"]
+links = ["https://beta.musicbrainz.org/release/52006553-5f32-490f-885d-6da583b45b26", "https://vgmdb.net/album/48387"]
 
 [126]
 catalognumber = "AVCD-83129/B"
 date = "2014-11-19"
 album = "キミノミライ / ROOT FIVE Disc 2 (DVD)"
 tracks = [
-    [1, "「キミノミライ」Music Video", "", ""],
+    [1, "キミノミライ (Music Video)", "√5", ""],
 ]
-links = ["https://vgmdb.net/album/48387"]
+links = ["https://beta.musicbrainz.org/release/52006553-5f32-490f-885d-6da583b45b26", "https://vgmdb.net/album/48387"]
 
 [127]
 catalognumber = "PCCG-70157"
 date = "2013-02-27"
 album = "TVアニメ「フェアリーテイル」オープニングテーマ フェアリーテイル～約束の日～ / 米倉千尋"
 tracks = [
-    [1, "フェアリーテイル～約束の日～", "", ""],
-    [2, "君に伝えたい", "", ""],
-    [3, "フェアリーテイル～約束の日～(Instrumental)", "", ""],
-    [4, "君に伝えたい(Instrumental)", "", ""],
+    [1, "フェアリーテイル～約束の日～", "米倉千尋", ""],
+    [2, "君に伝えたい", "米倉千尋", ""],
+    [3, "フェアリーテイル～約束の日～(Instrumental)", "米倉千尋", ""],
+    [4, "君に伝えたい(Instrumental)", "米倉千尋", ""],
 ]
-links = ["https://vgmdb.net/album/45900"]
+links = ["https://beta.musicbrainz.org/release/bbe41f16-060b-4375-a0f3-111c0dbaae1e", "https://vgmdb.net/album/45900"]
 
 [128]
 catalognumber = "PCSP-04000"
@@ -2137,83 +2137,83 @@ catalognumber = "PCCG-70063"
 date = "2010-02-17"
 album = "「FAIRY TAIL」キャラクターソングコレクションVOL.1 ナツ&グレイ"
 tracks = [
-    [1, "Blaze Up", "", ""],
-    [2, "Frozen Soul", "", ""],
-    [3, "Blaze Up (Instrumental)", "", ""],
-    [4, "Frozen Soul (Instrumental)", "", ""],
+    [1, "Blaze Up", "柿原徹也", ""],
+    [2, "Frozen Soul", "中村優一", ""],
+    [3, "Blaze Up (Instrumental)", "Funta", ""],
+    [4, "Frozen Soul (Instrumental)", "藤澤健至", ""],
 ]
-links = ["https://vgmdb.net/album/23846"]
+links = ["https://beta.musicbrainz.org/release/ab325be5-21c2-4179-9add-d3f84ad5027e", "https://vgmdb.net/album/23846"]
 
 [130]
 catalognumber = "VIZL-1953"
 date = "2021-11-24"
 album = "Re:Play / ときのそら [初回限定盤]"
 tracks = [
-    [1, "HOT LIMIT", "", ""],
-    [2, "ロマンスの神様", "", ""],
-    [3, "ファンサ", "", ""],
-    [4, "MASAYUME CHASING", "", ""],
-    [5, "怪物", "", ""],
-    [6, "アンドロイドガール", "", ""],
-    [7, "God knows...", "", ""],
-    [8, "Butterfly", "", ""],
-    [9, "まっさらブルージーンズ", "", ""],
-    [10, "嘘", "", ""],
-    [11, "赤いスイートピー", "", ""],
-    [12, "この世界で", "", ""],
-    [13, "KING", "", ""],
-    [14, "エイリアンエイリアン", "", ""],
-    [15, "太陽系デスコ", "", ""],
+    [1, "HOT LIMIT", "ときのそら", ""],
+    [2, "ロマンスの神様", "ときのそら", ""],
+    [3, "ファンサ", "ときのそら", ""],
+    [4, "MASAYUME CHASING", "ときのそら", ""],
+    [5, "怪物", "ときのそら", ""],
+    [6, "アンドロイドガール", "ときのそら", ""],
+    [7, "God knows...", "ときのそら", ""],
+    [8, "Butterfly", "ときのそら", ""],
+    [9, "まっさらブルージーンズ", "ときのそら", ""],
+    [10, "嘘", "ときのそら", ""],
+    [11, "赤いスイートピー", "ときのそら", ""],
+    [12, "この世界で", "ときのそら", ""],
+    [13, "KING", "ときのそら", ""],
+    [14, "エイリアンエイリアン", "ときのそら", ""],
+    [15, "太陽系デスコ", "ときのそら", ""],
 ]
-links = ["https://vgmdb.net/album/114916"]
+links = ["https://beta.musicbrainz.org/release/f40ebb2f-b187-4df0-90d5-7e7873e74528", "https://vgmdb.net/album/114916"]
 
 [131]
 catalognumber = "PCCA-03441"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 1 (CD) [PCCA-03441-1]"
 tracks = [
-    [1, "Don't think.Feel!!!", "", ""],
-    [2, "恋の20連鎖!! ～べそべそver.～", "", ""],
-    [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "", ""],
-    [4, "Don't think.Feel!!! (Instrumental)", "", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [2, "恋の20連鎖!! 〜べそべそver.〜", "ぷよぷよアイドリング!!!", ""],
+    [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45885"]
+links = ["https://beta.musicbrainz.org/release/3b4893ae-73d5-4f8e-a5c3-7a5c69a0f35c", "https://vgmdb.net/album/45885"]
 
 [132]
 catalognumber = "PCCA-03441"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 2 (DVD) [PCCA-03441-2]"
 tracks = [
-    [1, "Don't think.Feel!!! (Music Video)", "", ""],
-    [2, "Music Videoメイキング", "", ""],
+    [1, "「Don't think. Feel!!!」Music Video", "アイドリング!!!", ""],
+    [2, "Music Video メイキング", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45885"]
+links = ["https://beta.musicbrainz.org/release/3b4893ae-73d5-4f8e-a5c3-7a5c69a0f35c", "https://vgmdb.net/album/45885"]
 
 [133]
 catalognumber = "PCCA-03696"
 date = "2012-10-17"
 album = "キミがくれたもの / 工藤静香"
 tracks = [
-    [1, "キミがくれたもの", "", ""],
-    [2, "ガラスの花", "", ""],
-    [3, "バロックパール", "", ""],
-    [4, "Kキミがくれたもの(karaoke)", "", ""],
-    [5, "ガラスの花(karaoke)", "", ""],
-    [6, "バロックパール(karaoke)", "", ""],
+    [1, "キミがくれたもの", "工藤静香", ""],
+    [2, "ガラスの花", "工藤静香", ""],
+    [3, "バロックパール", "工藤静香", ""],
+    [4, "キミがくれたもの（karaoke）", "工藤静香", ""],
+    [5, "ガラスの花（karaoke）", "工藤静香", ""],
+    [6, "バロックパール（karaoke）", "工藤静香", ""],
 ]
-links = ["https://vgmdb.net/album/45898"]
+links = ["https://beta.musicbrainz.org/release/2a7dad2b-1616-4cab-a4b9-a8ed67063528", "https://vgmdb.net/album/45898"]
 
 [134]
 catalognumber = "EYCA-10540/B"
 date = "2015-08-19"
 album = "NEVER-END TALE / 小林竜之、鈴木このみ Disc 1 (CD)"
 tracks = [
-    [1, "NEVER-END TALE", "", ""],
-    [2, "Endless NOVA [TK SKRIX ver.]", "", ""],
-    [3, "NEVER-END TALE (Instrumental)", "", ""],
-    [4, "Endless NOVA [TK SKRIX ver.] (Instrumental)", "", ""],
+    [1, "NEVER-END TALE", "小林竜之、鈴木このみ", ""],
+    [2, "Endless NOVA [TK SKRIX ver.]", "小林竜之", ""],
+    [3, "NEVER-END TALE (Instrumental)", "小林竜之、鈴木このみ", ""],
+    [4, "Endless NOVA [TK SKRIX ver.] (Instrumental)", "小林竜之", ""],
 ]
-links = ["https://vgmdb.net/album/53292"]
+links = ["https://beta.musicbrainz.org/release/cd07af85-1db8-4acb-8980-b61a8b029d16", "https://vgmdb.net/album/53292"]
 
 [135]
 catalognumber = "EYCA-10540/B"
@@ -2231,12 +2231,12 @@ catalognumber = "PCCA-03114"
 date = "2010-03-03"
 album = "追憶メリーゴーランド / onelifecrew Disc 1 (CD) [PCCA-03114-1]"
 tracks = [
-    [1, "追憶メリーゴーランド", "", ""],
-    [2, "儚い論理", "", ""],
-    [3, "イロジカルワールド", "", ""],
-    [4, "追憶メリーゴーランド -Instrumental-", "", ""],
+    [1, "追憶メリーゴーランド", "onelifecrew", ""],
+    [2, "儚い論理", "onelifecrew", ""],
+    [3, "イロジカルワールド", "onelifecrew", ""],
+    [4, "追憶メリーゴーランド (instrumental)", "onelifecrew", ""],
 ]
-links = ["https://vgmdb.net/album/45839"]
+links = ["https://beta.musicbrainz.org/release/c551cdac-f295-3467-9889-32dab51a0b94", "https://vgmdb.net/album/45839"]
 
 [137]
 catalognumber = "PCCA-03114"
@@ -2253,129 +2253,129 @@ catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 1 [KICS-3989]"
 tracks = [
-    [1, "嵐の中で輝いて", "", ""],
-    [2, "Believe～あなただけ映したい～", "", ""],
-    [3, "オレンジ色のKissをあげよう", "", ""],
-    [4, "未来の二人に", "", ""],
-    [5, "約束", "", ""],
-    [6, "愉快な鼓動", "", ""],
-    [7, "Strawberry Fields", "", ""],
-    [8, "永遠の扉", "", ""],
-    [9, "Birth of light", "", ""],
-    [10, "WILL", "", ""],
-    [11, "FEEL ME", "", ""],
-    [12, "Just Fly Away", "", ""],
-    [13, "Return to myself", "", ""],
-    [14, "陽のあたる場所", "", ""],
-    [15, "Little Soldier", "", ""],
+    [1, "嵐の中で輝いて", "米倉千尋", ""],
+    [2, "Believe〜あなただけ映したい〜", "米倉千尋", ""],
+    [3, "オレンジ色のKissをあげよう", "米倉千尋", ""],
+    [4, "未来の二人に", "米倉千尋", ""],
+    [5, "約束", "米倉千尋", ""],
+    [6, "愉快な鼓動", "米倉千尋", ""],
+    [7, "Strawberry Fields", "米倉千尋", ""],
+    [8, "永遠の扉", "米倉千尋", ""],
+    [9, "Birth of light", "米倉千尋", ""],
+    [10, "WILL", "米倉千尋", ""],
+    [11, "FEEL ME", "米倉千尋", ""],
+    [12, "Just Fly Away", "米倉千尋", ""],
+    [13, "Return to myself", "米倉千尋", ""],
+    [14, "陽のあたる場所", "米倉千尋", ""],
+    [15, "Little Soldier", "米倉千尋", ""],
 ]
-links = ["https://vgmdb.net/album/108530"]
+links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [139]
 catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 2 [KICS-3990]"
 tracks = [
-    [1, "Butterfly Kiss", "", ""],
-    [2, "陽だまりをつれて", "", ""],
-    [3, "夏の終わりの花火", "", ""],
-    [4, "Bridge", "", ""],
-    [5, "想い出がいっぱい", "", ""],
-    [6, "約束の場所へ", "", ""],
-    [7, "星になるまで", "", ""],
-    [8, "僕のスピードで", "", ""],
-    [9, "永遠の花", "", ""],
-    [10, "ALIVE", "", ""],
-    [11, "青空とキミへ", "", ""],
-    [12, "ライオンの翼", "", ""],
-    [13, "Seize the Days", "", ""],
-    [14, "フェアリーテイル～約束の日～", "", ""],
-    [15, "Promise", "", ""],
+    [1, "Butterfly Kiss", "米倉千尋", ""],
+    [2, "陽だまりをつれて", "米倉千尋", ""],
+    [3, "夏の終わりの花火", "米倉千尋", ""],
+    [4, "Bridge", "米倉千尋", ""],
+    [5, "想い出がいっぱい", "米倉千尋", ""],
+    [6, "約束の場所へ", "米倉千尋", ""],
+    [7, "星になるまで", "米倉千尋", ""],
+    [8, "僕のスピードで", "米倉千尋", ""],
+    [9, "永遠の花", "米倉千尋", ""],
+    [10, "ALIVE", "米倉千尋", ""],
+    [11, "青空とキミへ", "米倉千尋", ""],
+    [12, "ライオンの翼", "米倉千尋", ""],
+    [13, "Seize the Days", "米倉千尋", ""],
+    [14, "フェアリーテイル 〜約束の日〜", "米倉千尋", ""],
+    [15, "Promise", "米倉千尋", ""],
 ]
-links = ["https://vgmdb.net/album/108530"]
+links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [140]
 catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 3 [KICS-3991]"
 tracks = [
-    [1, "10 YEARS AFTER", "", ""],
-    [2, "FRIENDS", "", ""],
-    [3, "遠くへ", "", ""],
-    [4, "琥珀の揺りかご", "", ""],
-    [5, "WINTER WISH", "", ""],
-    [6, "さくらのうた", "", ""],
-    [7, "ハレルヤ", "", ""],
-    [8, "ガンダムに愛を込めて", "", ""],
-    [9, "ぱんでみっく!!", "", ""],
-    [10, "りばいばる!", "", ""],
-    [11, "Candy Lie", "", ""],
-    [12, "Tattoo Kiss", "", ""],
-    [13, "犬と赤いフリスビー", "", ""],
-    [14, "トムソーヤの冒険", "", ""],
-    [15, "いつの日か", "", ""],
+    [1, "10 YEARS AFTER", "米倉千尋", ""],
+    [2, "FRIENDS", "米倉千尋", ""],
+    [3, "遠くへ", "米倉千尋", ""],
+    [4, "琥珀の揺りかご", "米倉千尋", ""],
+    [5, "WINTER WISH", "米倉千尋", ""],
+    [6, "さくらのうた", "米倉千尋", ""],
+    [7, "ハレルヤ", "米倉千尋", ""],
+    [8, "ガンダムに愛を込めて", "米倉千尋", ""],
+    [9, "ぱんでみっく!!", "Team.ねこかん[猫] featuring.米倉千尋", ""],
+    [10, "りばいばる!", "Team.ねこかん[猫] featuring.米倉千尋", ""],
+    [11, "Candy Lie", "r.o.r/s", ""],
+    [12, "Tattoo Kiss", "r.o.r/s", ""],
+    [13, "犬と赤いフリスビー", "米倉千尋", ""],
+    [14, "トムソーヤの冒険", "米倉千尋", ""],
+    [15, "いつの日か", "米倉千尋", ""],
 ]
-links = ["https://vgmdb.net/album/108530"]
+links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [141]
 catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 4 [KICS-3992]"
 tracks = [
-    [1, "Home", "", ""],
-    [2, "ミラクル とらぶる New Face!", "", ""],
-    [3, "零-ZERO-", "", ""],
-    [4, "シリウスの瞬く空に", "", ""],
-    [5, "Give me five!", "", ""],
-    [6, "5文字の恋の行方", "", ""],
-    [7, "恋せよ乙女!", "", ""],
-    [8, "ソラノキオク", "", ""],
-    [9, "ハルトキ～Spring Moment～", "", ""],
-    [10, "DEAR MY WAKER", "", ""],
-    [11, "Be braver!", "", ""],
-    [12, "HEAT", "", ""],
-    [13, "桜色の街", "", ""],
-    [14, "My song for you", "", ""],
-    [15, "私という物語", "", ""],
+    [1, "Home", "米倉千尋", ""],
+    [2, "ミラクル とらぶる New Face!", "Team.ねこかん[猫] featuring.米倉千尋", ""],
+    [3, "零 -ZERO-", "米倉千尋", ""],
+    [4, "シリウスの瞬く空に", "米倉千尋", ""],
+    [5, "Give me five!", "米倉千尋", ""],
+    [6, "5文字の恋の行方", "米倉千尋", ""],
+    [7, "恋せよ乙女！", "米倉千尋", ""],
+    [8, "ソラノキオク", "米倉千尋", ""],
+    [9, "ハルトキ 〜Spring Moment〜", "米倉千尋", ""],
+    [10, "DEAR MY WAKER", "米倉千尋", ""],
+    [11, "Be braver!", "米倉千尋", ""],
+    [12, "HEAT", "米倉千尋", ""],
+    [13, "桜色の街", "米倉千尋", ""],
+    [14, "My song for you", "米倉千尋", ""],
+    [15, "私という物語", "米倉千尋", ""],
 ]
-links = ["https://vgmdb.net/album/108530"]
+links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [142]
 catalognumber = "AVCD-96297~8/B"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH [Limited Edition] Disc 1 (CD) [AVCD-96297]"
 tracks = [
-    [1, "DiSTANCE", "", ""],
-    [2, "遂に死", "", ""],
-    [3, "MORE THAN LiKE", "", ""],
-    [4, "FREEZE DRY THE PASTS", "", ""],
-    [5, "CHOP", "", ""],
-    [6, "I am me.", "", ""],
-    [7, "NO SWEET", "", ""],
-    [8, "O・S", "", ""],
-    [9, "まだ途中", "", ""],
-    [10, "優しいPAiN", "", ""],
-    [11, "アイデンティティ", "", ""],
-    [12, "FiNALLY", "", ""],
-    [13, "CAN YOU??", "", ""],
-    [14, "GRUNGE WORLD", "", ""],
+    [1, "DiSTANCE", "BiSH", ""],
+    [2, "遂に死", "BiSH", ""],
+    [3, "MORE THAN LiKE", "BiSH", ""],
+    [4, "FREEZE DRY THE PASTS", "BiSH", ""],
+    [5, "CHOP", "BiSH", ""],
+    [6, "I am me.", "BiSH", ""],
+    [7, "NO SWEET", "BiSH", ""],
+    [8, "O・S", "BiSH", ""],
+    [9, "まだ途中", "BiSH", ""],
+    [10, "優しいPAiN", "BiSH", ""],
+    [11, "アイデンティティ", "BiSH", ""],
+    [12, "FiNALLY", "BiSH", ""],
+    [13, "CAN YOU??", "BiSH", ""],
+    [14, "GRUNGE WORLD", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90170"]
+links = ["https://beta.musicbrainz.org/release/10236aa8-6771-4fb3-9d12-1355a5ea6a3b", "https://vgmdb.net/album/90170"]
 
 [143]
 catalognumber = "AVCD-96297~8/B"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH [Limited Edition] Disc 2 (CD) [AVCD-96298]"
 tracks = [
-    [1, "PAiNT it BLACK", "", ""],
-    [2, "Life is beautiful", "", ""],
-    [3, "HiDE the BLUE", "", ""],
-    [4, "NON TiE-UP", "", ""],
-    [5, "stereo future", "", ""],
-    [6, "二人なら", "", ""],
-    [7, "Small Fish", "", ""],
+    [1, "PAiNT it BLACK", "BiSH", ""],
+    [2, "Life is beautiful", "BiSH", ""],
+    [3, "HiDE the BLUE", "BiSH", ""],
+    [4, "NON TiE-UP", "BiSH", ""],
+    [5, "stereo future", "BiSH", ""],
+    [6, "二人なら", "BiSH", ""],
+    [7, "Small Fish", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90170"]
+links = ["https://beta.musicbrainz.org/release/10236aa8-6771-4fb3-9d12-1355a5ea6a3b", "https://vgmdb.net/album/90170"]
 
 [144]
 catalognumber = "AVCD-96297~8/B"
@@ -2407,20 +2407,20 @@ catalognumber = "PCCA-03209"
 date = "2010-07-21"
 album = "Replay！～下川みくに青春アニソンカバーIII～ / 下川みくに Arrangement, Vocal, Remix"
 tracks = [
-    [1, "ウィーアー! feat.きただにひろし", "", ""],
-    [2, "Over soul", "", ""],
-    [3, "ハレ晴レユカイ", "", ""],
-    [4, "Truth", "", ""],
-    [5, "プラチナ", "", ""],
-    [6, "1／3の純情な感情", "", ""],
-    [7, "君がいるから", "", ""],
-    [8, "XTC feat.PSYCHIC LOVER", "", ""],
-    [9, "only my railgun -Electro Japarican Mix- feat.桃井はるこ", "", ""],
-    [10, "時ノ雨 ~細多仁時雨 キャラクターソング~", "", ""],
-    [11, "南風 ~BBQ version~ feat.小山剛志・中村繪里子・伊瀬茉莉也・明坂聡美", "", ""],
-    [12, "MIKUNI SHIMOKAWA ANISON MEGAMIX 2010", "", ""],
+    [1, "ウィーアー!", "下川みくに feat. きただにひろし", ""],
+    [2, "Over soul", "下川みくに", ""],
+    [3, "ハレ晴レユカイ", "下川みくに", ""],
+    [4, "Truth", "下川みくに", ""],
+    [5, "プラチナ", "下川みくに", ""],
+    [6, "1/3の純情な感情", "下川みくに", ""],
+    [7, "君がいるから", "下川みくに", ""],
+    [8, "XTC", "下川みくに feat. PSYCHIC LOVER", ""],
+    [9, "only my railgun -Electro Japarican Mix-", "下川みくに feat. 桃井はるこ", ""],
+    [10, "時ノ雨 ～細多仁時雨 キャラクターソング～", "下川みくに", ""],
+    [11, "南風 ～BBQ version～", "下川みくに feat. 小山剛志・中村繪里子・伊瀬茉莉也・明坂聡美", ""],
+    [12, "MIKUNI SHIMOKAWA ANISON MEGAMIX 2010", "下川みくに", ""],
 ]
-links = ["https://vgmdb.net/album/33943"]
+links = ["https://beta.musicbrainz.org/release/8f4068ee-9856-4c51-9fd9-e8aac153cef5", "https://vgmdb.net/album/33943"]
 
 [146]
 catalognumber = "PCCA-03209"
@@ -2436,75 +2436,75 @@ catalognumber = "AVCD-96301"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH Disc 1 [AVCD-96301]"
 tracks = [
-    [1, "DiSTANCE", "", ""],
-    [2, "遂に死", "", ""],
-    [3, "MORE THAN LiKE", "", ""],
-    [4, "FREEZE DRY THE PASTS", "", ""],
-    [5, "CHOP", "", ""],
-    [6, "I am me.", "", ""],
-    [7, "NO SWEET", "", ""],
-    [8, "O・S", "", ""],
-    [9, "まだ途中", "", ""],
-    [10, "優しいPAiN", "", ""],
-    [11, "アイデンティティ", "", ""],
-    [12, "FiNALLY", "", ""],
-    [13, "CAN YOU??", "", ""],
-    [14, "GRUNGE WORLD", "", ""],
+    [1, "DiSTANCE", "BiSH", ""],
+    [2, "遂に死", "BiSH", ""],
+    [3, "MORE THAN LiKE", "BiSH", ""],
+    [4, "FREEZE DRY THE PASTS", "BiSH", ""],
+    [5, "CHOP", "BiSH", ""],
+    [6, "I am me.", "BiSH", ""],
+    [7, "NO SWEET", "BiSH", ""],
+    [8, "O・S", "BiSH", ""],
+    [9, "まだ途中", "BiSH", ""],
+    [10, "優しいPAiN", "BiSH", ""],
+    [11, "アイデンティティ", "BiSH", ""],
+    [12, "FiNALLY", "BiSH", ""],
+    [13, "CAN YOU??", "BiSH", ""],
+    [14, "GRUNGE WORLD", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90168"]
+links = ["https://beta.musicbrainz.org/release/307cd465-55e6-4812-bf3d-fbdf17b9ba40", "https://vgmdb.net/album/90168"]
 
 [148]
 catalognumber = "AVCD-96302"
 date = "2019-07-03"
 album = "CARROTS and STiCKS / BiSH Disc 2 [AVCD-96302]"
 tracks = [
-    [1, "PAiNT it BLACK", "", ""],
-    [2, "Life is beautiful", "", ""],
-    [3, "HiDE the BLUE", "", ""],
-    [4, "NON TiE-UP", "", ""],
-    [5, "stereo future", "", ""],
-    [6, "二人なら", "", ""],
-    [7, "Small Fish", "", ""],
+    [1, "PAiNT it BLACK", "BiSH", ""],
+    [2, "Life is beautiful", "BiSH", ""],
+    [3, "HiDE the BLUE", "BiSH", ""],
+    [4, "NON TiE-UP", "BiSH", ""],
+    [5, "stereo future", "BiSH", ""],
+    [6, "二人なら", "BiSH", ""],
+    [7, "Small Fish", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/90168"]
+links = ["https://beta.musicbrainz.org/release/307cd465-55e6-4812-bf3d-fbdf17b9ba40", "https://vgmdb.net/album/90168"]
 
 [149]
 catalognumber = "PCCA-03593"
 date = "2012-05-23"
 album = "はじまりの空 / +Plus"
 tracks = [
-    [1, "はじまりの空", "", ""],
-    [2, "恋してSaturday Night", "", ""],
-    [3, "Run to Free", "", ""],
-    [4, "届いてほしい", "", ""],
-    [5, "Fiesta", "", ""],
-    [6, "ハピバ!!", "", ""],
-    [7, "茜空", "", ""],
-    [8, "エール", "", ""],
+    [1, "はじまりの空", "+Plus", ""],
+    [2, "恋してSaturday Night", "+Plus", ""],
+    [3, "Run to Free", "+Plus", ""],
+    [4, "届いてほしい", "+Plus", ""],
+    [5, "Fiesta", "+Plus", ""],
+    [6, "ハピバ!!", "+Plus", ""],
+    [7, "茜空", "+Plus", ""],
+    [8, "エール", "+Plus", ""],
 ]
-links = ["https://vgmdb.net/album/110087"]
+links = ["https://beta.musicbrainz.org/release/0a7dc681-4164-4052-a281-03c17c777baf", "https://vgmdb.net/album/110087"]
 
 [150]
 catalognumber = "AVCD-83459"
 date = "2016-04-13"
 album = "Landscape / SOLIDEMO"
 tracks = [
-    [1, "Landscape", "", ""],
-    [2, "Ride on", "", ""],
+    [1, "Landscape", "SOLIDEMO", ""],
+    [2, "Ride on", "SOLIDEMO", ""],
 ]
-links = ["https://vgmdb.net/album/57100"]
+links = ["https://beta.musicbrainz.org/release/415b659d-c5f5-4d58-acea-2339a574f45f", "https://vgmdb.net/album/57100"]
 
 [151]
 catalognumber = "PCCA-03096"
 date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!!"
 tracks = [
-    [1, "S.O.W.センスオブワンダー", "", ""],
-    [2, "Don't be afraid", "", ""],
-    [3, "機種変エクスタシィ", "", ""],
-    [4, "S.O.W.センスオブワンダー (Instrumental)", "", ""],
+    [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [2, "Don't be afraid", "アイドリング!!!", ""],
+    [3, "機種変エクスタシィ", "アイドリング!!!", ""],
+    [4, "S.O.W. センスオブワンダー (インストゥルメンタル)", "アイドリング!!!", ""],
 ]
-links = ["https://vgmdb.net/album/45840"]
+links = ["https://beta.musicbrainz.org/release/3bdca506-0478-3dfd-aee5-aec164effdaf", "https://vgmdb.net/album/45840"]
 
 [152]
 catalognumber = "PCCG-01338"
@@ -2520,33 +2520,33 @@ catalognumber = "PCCA-70321"
 date = "2012-03-07"
 album = "Boys be Ambitious!!/ヒカリ / Hi-Fi CAMP"
 tracks = [
-    [1, "Boys be Ambitious!!", "", ""],
-    [2, "ヒカリ", "", ""],
-    [3, "Boys be Ambitious!! -Instrumental-", "", ""],
-    [4, "ヒカリ -Instrumental-", "", ""],
+    [1, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [2, "ヒカリ", "Hi‐Fi CAMP", ""],
+    [3, "Boys be Ambitious!! ‐Instrumental‐", "Hi‐Fi CAMP", ""],
+    [4, "ヒカリ ‐Instrumental‐", "Hi‐Fi CAMP", ""],
 ]
-links = ["https://vgmdb.net/album/31926"]
+links = ["https://beta.musicbrainz.org/release/e5c689b5-b2c5-482f-b1c5-649ffb210519", "https://vgmdb.net/album/31926"]
 
 [154]
 catalognumber = "AVCD-83130/B"
 date = "2014-11-19"
 album = "キミノミライ / ROOT FIVE Disc 1 (CD)"
 tracks = [
-    [1, "キミノミライ", "", ""],
-    [2, "Just Be Friends", "", ""],
-    [3, "キミノミライ インスト", "", ""],
-    [4, "Just Be Friends インスト", "", ""],
+    [1, "キミノミライ", "√5", ""],
+    [2, "Just Be Friends", "√5", ""],
+    [3, "キミノミライ (Instrumental)", "√5", ""],
+    [4, "Just Be Friends (Instrumental)", "√5", ""],
 ]
-links = ["https://vgmdb.net/album/48388"]
+links = ["https://beta.musicbrainz.org/release/d1112139-ee06-4be0-9f7f-36d42be56dde", "https://vgmdb.net/album/48388"]
 
 [155]
 catalognumber = "AVCD-83130/B"
 date = "2014-11-19"
 album = "キミノミライ / ROOT FIVE Disc 2 (DVD)"
 tracks = [
-    [1, "企画映像『世界のマッスルpresents 「この１枚に命をかけろ!」 ROOT FIVE & 羊 オリジナル年賀状ツアー!!』", "", ""],
+    [1, "企画映像『世界のマッスルpresents 「この１枚に命をかけろ!」 ROOT FIVE & 羊 オリジナル年賀状ツアー!!』", "√5", ""],
 ]
-links = ["https://vgmdb.net/album/48388"]
+links = ["https://beta.musicbrainz.org/release/d1112139-ee06-4be0-9f7f-36d42be56dde", "https://vgmdb.net/album/48388"]
 
 [156]
 catalognumber = "KCS-3326"
@@ -3077,66 +3077,66 @@ catalognumber = "ETEV-00011"
 date = "2011-12-29"
 album = "Glitter / Another Infinity Feat. Mayumi Morinaga"
 tracks = [
-    [1, "Glitter", "", ""],
-    [2, "Glitter (Instrumental)", "", ""],
-    [3, "Glitter (Ryu☆ Remix)", "", ""],
-    [4, "Glitter (Starving Trancer Remix)", "", ""],
+    [1, "Glitter", "Another Infinity feat. Mayumi Morinaga", ""],
+    [2, "Glitter (Instrumental)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [3, "Glitter (Ryu☆Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
 ]
-links = ["https://vgmdb.net/album/131012"]
+links = ["https://beta.musicbrainz.org/release/5ffe4f57-fdc7-4638-8004-0afc5eaab12d", "https://vgmdb.net/album/131012"]
 
 [174]
 catalognumber = "AVCD-96534"
 date = "2020-07-08"
 album = "FOR LiVE -BiSH BEST- / BiSH Disc 1 [AVCD-96534]"
 tracks = [
-    [1, "スパーク", "", ""],
-    [2, "BiSH -星が瞬く夜に-", "", ""],
-    [3, "MONSTERS", "", ""],
-    [4, "OTNK", "", ""],
-    [5, "beautifulさ", "", ""],
-    [6, "ALL YOU NEED IS LOVE", "", ""],
-    [7, "DEADMAN (2nd)", "", ""],
-    [8, "オーケストラ", "", ""],
-    [9, "本当本気", "", ""],
-    [10, "プロミスザスター", "", ""],
-    [11, "GiANT KiLLERS", "", ""],
-    [12, "Nothing.", "", ""],
-    [13, "My landscape", "", ""],
-    [14, "SMACK baby SMACK", "", ""],
-    [15, "JAM", "", ""],
+    [1, "スパーク", "BiSH", ""],
+    [2, "BiSH -星が瞬く夜に-", "BiSH", ""],
+    [3, "MONSTERS", "BiSH", ""],
+    [4, "OTNK", "BiSH", ""],
+    [5, "beautifulさ", "BiSH", ""],
+    [6, "ALL YOU NEED IS LOVE", "BiSH", ""],
+    [7, "DEADMAN (2nd)", "BiSH", ""],
+    [8, "オーケストラ", "BiSH", ""],
+    [9, "本当本気", "BiSH", ""],
+    [10, "プロミスザスター", "BiSH", ""],
+    [11, "GiANT KiLLERS", "BiSH", ""],
+    [12, "Nothing.", "BiSH", ""],
+    [13, "My landscape", "BiSH", ""],
+    [14, "SMACK baby SMACK", "BiSH", ""],
+    [15, "JAM", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/101377"]
+links = ["https://beta.musicbrainz.org/release/d79d51cb-fce7-4619-966f-4f85f228888e", "https://vgmdb.net/album/101377"]
 
 [175]
 catalognumber = "AVCD-96535"
 date = "2020-07-08"
 album = "FOR LiVE -BiSH BEST- / BiSH Disc 2 [AVCD-96535]"
 tracks = [
-    [1, "PAiNT it BLACK", "", ""],
-    [2, "Life is beautiful", "", ""],
-    [3, "HiDE the BLUE", "", ""],
-    [4, "NON TiE-UP", "", ""],
-    [5, "stereo future", "", ""],
-    [6, "遂に死", "", ""],
-    [7, "I am me.", "", ""],
-    [8, "DiSTANCE", "", ""],
-    [9, "MORE THAN LiKE", "", ""],
-    [10, "GRUNGE WORLD", "", ""],
-    [11, "KiND PEOPLE", "", ""],
-    [12, "リズム", "", ""],
+    [1, "PAiNT it BLACK", "BiSH", ""],
+    [2, "Life is beautiful", "BiSH", ""],
+    [3, "HiDE the BLUE", "BiSH", ""],
+    [4, "NON TiE-UP", "BiSH", ""],
+    [5, "stereo future", "BiSH", ""],
+    [6, "遂に死", "BiSH", ""],
+    [7, "I am me.", "BiSH", ""],
+    [8, "DiSTANCE", "BiSH", ""],
+    [9, "MORE THAN LiKE", "BiSH", ""],
+    [10, "GRUNGE WORLD", "BiSH", ""],
+    [11, "KiND PEOPLE", "BiSH", ""],
+    [12, "リズム", "BiSH", ""],
 ]
-links = ["https://vgmdb.net/album/101377"]
+links = ["https://beta.musicbrainz.org/release/d79d51cb-fce7-4619-966f-4f85f228888e", "https://vgmdb.net/album/101377"]
 
 [176]
 catalognumber = "PCCA-03323"
 date = "2011-01-19"
 album = "Fiesta/エール / +Plus Disc 1 (CD) [PCCA-03323-1]"
 tracks = [
-    [1, "Fiesta", "", ""],
-    [2, "エール", "", ""],
-    [3, "Birth", "", ""],
+    [1, "Fiesta", "+Plus", ""],
+    [2, "エール", "+Plus", ""],
+    [3, "Birth", "+Plus", ""],
 ]
-links = ["https://vgmdb.net/album/45882"]
+links = ["https://beta.musicbrainz.org/release/e24db566-9359-454d-a662-075e54b5c037", "https://vgmdb.net/album/45882"]
 
 [177]
 catalognumber = "PCCA-03323"
@@ -3165,33 +3165,33 @@ catalognumber = "ANTCD-15665"
 date = "2015-08-12"
 album = "Do As Infinity Anime and Game COLLECTION"
 tracks = [
-    [1, "深い森 / 「犬夜叉」エンディングテーマ", "", ""],
-    [2, "遠くまで / 「バンパイアハンターD」主題歌", "", ""],
-    [3, "under the sun / 「叢-MURAKUMO-」イメージソング", "", ""],
-    [4, "最後のGAME / 「ヒカルの碁セレクション」オープニングテーマ", "", ""],
-    [5, "夜鷹の夢 / 「ゾイドジェネシス」オープニングテーマ", "", ""],
-    [6, "Mysterious Magic / 「FAIRY TAIL」オープニングテーマ", "", ""],
-    [7, "真実の詩 / 「犬夜叉」エンディングテーマ", "", ""],
-    [8, "黄昏 / 「戦国BASARA3宴」エンディングテーマ", "", ""],
-    [9, "誓い / 「戦国BASARAクロニクルヒーローズ」挿入歌", "", ""],
-    [10, "君がいない未来 / 「犬夜叉完結編」オープニングテーマ", "", ""],
-    [11, "本日ハ晴天ナリ / 「Jリーグウイニングイレブンタクティクス」オープニングソング", "", ""],
-    [12, "believe in you / 「テイルズオブアスタリア」テーマソング", "", ""],
-    [13, "TAO / 「テイルズオブレジェンディア」オープニングテーマ", "", ""],
+    [1, "深い森", "Do As Infinity", ""],
+    [2, "遠くまで", "Do As Infinity", ""],
+    [3, "under the sun", "Do As Infinity", ""],
+    [4, "最後のGAME", "Do As Infinity", ""],
+    [5, "夜鷹の夢", "Do As Infinity", ""],
+    [6, "Mysterious Magic", "Do As Infinity", ""],
+    [7, "真実の詩", "Do As Infinity", ""],
+    [8, "黄昏", "Do As Infinity", ""],
+    [9, "誓い", "Do As Infinity", ""],
+    [10, "君がいない未来", "Do As Infinity", ""],
+    [11, "本日ハ晴天ナリ", "Do As Infinity", ""],
+    [12, "believe in you", "Do As Infinity", ""],
+    [13, "TAO", "Do As Infinity", ""],
 ]
-links = ["https://vgmdb.net/album/55372"]
+links = ["https://beta.musicbrainz.org/release/717623fd-dc86-4f4d-bb47-e73d3ed7cad3", "https://vgmdb.net/album/55372"]
 
 [180]
 catalognumber = "CTCR-40364/B"
 date = "2014-07-30"
 album = "STRIKE BACK/Departure / BACK-ON Disc 1 (CD)"
 tracks = [
-    [1, "STRIKE BACK", "", ""],
-    [2, "Departure", "", ""],
-    [3, "STRIKE BACK (instrumental)", "", ""],
-    [4, "Departure (instrumental)", "", ""],
+    [1, "STRIKE BACK", "BACK-ON", ""],
+    [2, "Departure", "BACK-ON", ""],
+    [3, "STRIKE BACK (instrumental)", "BACK-ON", ""],
+    [4, "Departure (instrumental)", "BACK-ON", ""],
 ]
-links = ["https://vgmdb.net/album/46667"]
+links = ["https://beta.musicbrainz.org/release/c9f356fc-065d-409d-988b-db3ad90d2c88", "https://vgmdb.net/album/46667"]
 
 [181]
 catalognumber = "CTCR-40364/B"
@@ -3208,152 +3208,152 @@ catalognumber = "EYCA-10453"
 date = "2015-05-13"
 album = "フェアリーテイル オリジナル・サウンド・コレクション Disc 1 [EYCA-10453]"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ 2014", "", ""],
-    [2, "氷刃演武", "", ""],
-    [3, "ティターニア舞う", "", ""],
-    [4, "紅蓮の男", "", ""],
-    [5, "飢狼騎士団登場", "", ""],
-    [6, "処刑人との死闘", "", ""],
-    [7, "悲しみはめぐる", "", ""],
-    [8, "暗黒の未来", "", ""],
-    [9, "エクリプスの扉", "", ""],
-    [10, "大魔闘演武の真実", "", ""],
-    [11, "太古の支配者", "", ""],
-    [12, "ドラゴン来襲", "", ""],
-    [13, "ドラゴン・ファイト", "", ""],
-    [14, "破局の跫音", "", ""],
-    [15, "巨竜進撃す", "", ""],
-    [16, "竜の王", "", ""],
-    [17, "ウルティア・命の時間", "", ""],
-    [18, "助けたい想い", "", ""],
-    [19, "フェアリーテイル立つ", "", ""],
-    [20, "反撃の狼煙", "", ""],
-    [21, "ナツvs.未来ローグ", "", ""],
-    [22, "星霜の雫", "", ""],
+    [1, "FAIRY TAIL メインテーマ 2014", "高梨康治", ""],
+    [2, "氷刃演武", "高梨康治", ""],
+    [3, "ティターニア舞う", "高梨康治", ""],
+    [4, "紅蓮の男", "高梨康治", ""],
+    [5, "飢狼騎士団登場", "高梨康治", ""],
+    [6, "処刑人との死闘", "高梨康治", ""],
+    [7, "悲しみはめぐる", "高梨康治", ""],
+    [8, "暗黒の未来", "高梨康治", ""],
+    [9, "エクリプスの扉", "高梨康治", ""],
+    [10, "大魔闘演武の真実", "高梨康治", ""],
+    [11, "太古の支配者", "高梨康治", ""],
+    [12, "ドラゴン来襲", "高梨康治", ""],
+    [13, "ドラゴン・ファイト", "高梨康治", ""],
+    [14, "破局の跫音", "高梨康治", ""],
+    [15, "巨竜進撃す", "高梨康治", ""],
+    [16, "竜の王", "高梨康治", ""],
+    [17, "ウルティア・命の時間", "高梨康治", ""],
+    [18, "助けたい想い", "高梨康治", ""],
+    [19, "フェアリーテイル立つ", "高梨康治", ""],
+    [20, "反撃の狼煙", "高梨康治", ""],
+    [21, "ナツ vs. 未来ローグ", "高梨康治", ""],
+    [22, "星霜の雫", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/51162"]
+links = ["https://beta.musicbrainz.org/release/62926dc3-50cc-4ac3-b5a9-dc981b6adad8", "https://vgmdb.net/album/51162"]
 
 [183]
 catalognumber = "EYCA-10454"
 date = "2015-05-13"
 album = "フェアリーテイル オリジナル・サウンド・コレクション Disc 2 [EYCA-10454]"
 tracks = [
-    [1, "勝利の凱旋", "", ""],
-    [2, "魔法で大騒ぎ", "", ""],
-    [3, "レッツ・パーティ!", "", ""],
-    [4, "つかの間のやすらぎ", "", ""],
-    [5, "FAIRY TAIL メインテーマ 2014 -Piano ver.-", "", ""],
-    [6, "星霊会の異変", "", ""],
-    [7, "星霊魔法少女がゆく", "", ""],
-    [8, "星霊たちの反乱", "", ""],
-    [9, "星霊獣", "", ""],
-    [10, "星霊界の闘い", "", ""],
-    [11, "星霊王の目覚め", "", ""],
-    [12, "星霊の鍵を携えて", "", ""],
-    [13, "最強ギルドとは俺たちさ", "", ""],
-    [14, "信じる心", "", ""],
-    [15, "明日をよぎる影", "", ""],
-    [16, "闇からの誘い", "", ""],
-    [17, "固き絆を胸に", "", ""],
-    [18, "氷の男", "", ""],
-    [19, "緋色の戦姫", "", ""],
-    [20, "火焔乱舞", "", ""],
-    [21, "フェアリーテイル・ライジング", "", ""],
-    [22, "FAIRY TAIL メインテーマ 2014 -Battle ver.-", "", ""],
+    [1, "勝利の凱旋", "高梨康治", ""],
+    [2, "魔法で大騒ぎ", "高梨康治", ""],
+    [3, "レッツ・パーティ!", "高梨康治", ""],
+    [4, "つかの間のやすらぎ", "高梨康治", ""],
+    [5, "FAIRY TAIL メインテーマ 2014 -Piano ver.-", "高梨康治", ""],
+    [6, "星霊会の異変", "高梨康治", ""],
+    [7, "星霊魔法少女がゆく", "高梨康治", ""],
+    [8, "星霊たちの反乱", "高梨康治", ""],
+    [9, "星霊獣", "高梨康治", ""],
+    [10, "星霊界の闘い", "高梨康治", ""],
+    [11, "星霊王の目覚め", "高梨康治", ""],
+    [12, "星霊の鍵を携えて", "高梨康治", ""],
+    [13, "最強ギルドとは俺たちさ", "高梨康治", ""],
+    [14, "信じる心", "高梨康治", ""],
+    [15, "明日をよぎる影", "高梨康治", ""],
+    [16, "闇からの誘い", "高梨康治", ""],
+    [17, "固き絆を胸に", "高梨康治", ""],
+    [18, "氷の男", "高梨康治", ""],
+    [19, "緋色の戦姫", "高梨康治", ""],
+    [20, "火焔乱舞", "高梨康治", ""],
+    [21, "フェアリーテイル・ライジング", "高梨康治", ""],
+    [22, "FAIRY TAIL メインテーマ 2014 -Battle ver.-", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/51162"]
+links = ["https://beta.musicbrainz.org/release/62926dc3-50cc-4ac3-b5a9-dc981b6adad8", "https://vgmdb.net/album/51162"]
 
 [184]
 catalognumber = "PCCA-03248"
 date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [初回限定盤] Vocal"
 tracks = [
-    [1, "R.P.G.~Rockin' Playing Game", "", ""],
-    [2, "don't stop da muzic", "", ""],
+    [1, "R.P.G.～Rockin' Playing Game", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", ""],
 ]
-links = ["https://vgmdb.net/album/128827"]
+links = ["https://beta.musicbrainz.org/release/69615a5b-e1f1-45ed-be36-a9f6bc9f718b", "https://vgmdb.net/album/128827"]
 
 [185]
 catalognumber = "PCCA-03248"
 date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [初回限定盤] Video"
 tracks = [
-    [1, "R.P.G.~Rockin' Playing Game (VIDEO CLIP)", "", ""],
+    [1, "R.P.G.～Rockin' Playing Game (VIDEO CLIP)", "SuG", ""],
 ]
-links = ["https://vgmdb.net/album/128827"]
+links = ["https://beta.musicbrainz.org/release/69615a5b-e1f1-45ed-be36-a9f6bc9f718b", "https://vgmdb.net/album/128827"]
 
 [186]
 catalognumber = "ANTCD-31614"
 date = "2019-04-14"
 album = "僕と君のララバイ / みゆな"
 tracks = [
-    [1, "僕と君のララバイ", "", ""],
+    [1, "僕と君のララバイ", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/90171"]
+links = ["https://beta.musicbrainz.org/release/1d22cc0f-5e39-4a95-9edd-e0df4a4dba9c", "https://vgmdb.net/album/90171"]
 
 [187]
 catalognumber = "KCS-8044"
 date = "2020-07-30"
 album = "FAIRY TAIL オリジナルサウンドトラック Disc 1 [KCS-8044]"
 tracks = [
-    [1, "Overture", "", ""],
-    [2, "Long Story", "", ""],
-    [3, "World Map", "", ""],
-    [4, "Magnolia", "", ""],
-    [5, "Small Our House", "", ""],
-    [6, "Big Our House", "", ""],
-    [7, "Quest Board", "", ""],
-    [8, "Lucy's Room", "", ""],
-    [9, "Forest", "", ""],
-    [10, "Solitary Island", "", ""],
-    [11, "Plain", "", ""],
-    [12, "Crocus", "", ""],
-    [13, "Snow Mountain", "", ""],
-    [14, "Tartaros", "", ""],
-    [15, "Fight", "", ""],
-    [16, "Bravers", "", ""],
-    [17, "If It Were Not for the Cause", "", ""],
-    [18, "The Man Who's Too Beautiful", "", ""],
-    [19, "Intense", "", ""],
-    [20, "Struggle to the Death", "", ""],
+    [1, "Overture", "木下洋介", ""],
+    [2, "Long Story", "比良彩那", ""],
+    [3, "World Map", "比良彩那", ""],
+    [4, "Magnolia", "比良彩那", ""],
+    [5, "Small Our House", "比良彩那", ""],
+    [6, "Big Our House", "比良彩那", ""],
+    [7, "Quest Board", "比良彩那", ""],
+    [8, "Lucy's Room", "比良彩那", ""],
+    [9, "Forest", "比良彩那", ""],
+    [10, "Solitary Island", "比良彩那", ""],
+    [11, "Plain", "比良彩那", ""],
+    [12, "Crocus", "比良彩那", ""],
+    [13, "Snow Mountain", "比良彩那", ""],
+    [14, "Tartaros", "比良彩那", ""],
+    [15, "Fight", "赤羽大夢", ""],
+    [16, "Bravers", "赤羽大夢", ""],
+    [17, "If It Were Not for the Cause", "小池雅人", ""],
+    [18, "The Man Who's Too Beautiful", "小池雅人", ""],
+    [19, "Intense", "赤羽大夢", ""],
+    [20, "Struggle to the Death", "赤羽大夢", ""],
 ]
-links = ["https://vgmdb.net/album/93409"]
+links = ["https://beta.musicbrainz.org/release/c62e6471-4716-4a95-b2c5-b57317679807", "https://vgmdb.net/album/93409"]
 
 [188]
 catalognumber = "KCS-8045"
 date = "2020-07-30"
 album = "FAIRY TAIL オリジナルサウンドトラック Disc 2 [KCS-8045]"
 tracks = [
-    [1, "Fierce Battle", "", ""],
-    [2, "Grand Magic Games", "", ""],
-    [3, "Grand Magic Games -Extreme-", "", ""],
-    [4, "In the Name of Underworld King", "", ""],
-    [5, "Final Battle", "", ""],
-    [6, "Secret Battle", "", ""],
-    [7, "Luncheon", "", ""],
-    [8, "Rural Dance", "", ""],
-    [9, "Dark Cloud", "", ""],
-    [10, "Town Pop", "", ""],
-    [11, "Recollection", "", ""],
-    [12, "Regret", "", ""],
-    [13, "Short Crisis", "", ""],
-    [14, "Confusion", "", ""],
-    [15, "Clown", "", ""],
-    [16, "Determination", "", ""],
-    [17, "Mystery", "", ""],
-    [18, "Affection", "", ""],
-    [19, "Nameless Town", "", ""],
-    [20, "Battle Arena", "", ""],
-    [21, "Finale", "", ""],
-    [22, "Short Story", "", ""],
-    [23, "Victory", "", ""],
-    [24, "Special Victory", "", ""],
-    [25, "Friendship", "", ""],
-    [26, "Skyhigh", "", ""],
-    [27, "Come to an End", "", ""],
-    [28, "Party Members", "", ""],
+    [1, "Fierce Battle", "赤羽大夢", ""],
+    [2, "Grand Magic Games", "赤羽大夢", ""],
+    [3, "Grand Magic Games -Extreme-", "赤羽大夢", ""],
+    [4, "In the Name of Underworld King", "赤羽大夢", ""],
+    [5, "Final Battle", "赤羽大夢", ""],
+    [6, "Secret Battle", "赤羽大夢", ""],
+    [7, "Luncheon", "山田光", ""],
+    [8, "Rural Dance", "山田 光", ""],
+    [9, "Dark Cloud", "山田光", ""],
+    [10, "Town Pop", "山田光", ""],
+    [11, "Recollection", "山田光", ""],
+    [12, "Regret", "山田光", ""],
+    [13, "Short Crisis", "山田光", ""],
+    [14, "Confusion", "山田光", ""],
+    [15, "Clown", "山田光", ""],
+    [16, "Determination", "比良彩那", ""],
+    [17, "Mystery", "比良彩那", ""],
+    [18, "Affection", "比良彩那", ""],
+    [19, "Nameless Town", "比良彩那", ""],
+    [20, "Battle Arena", "比良彩那", ""],
+    [21, "Finale", "大塚正子", ""],
+    [22, "Short Story", "比良彩那", ""],
+    [23, "Victory", "赤羽大夢", ""],
+    [24, "Special Victory", "豊田亜矢子", ""],
+    [25, "Friendship", "比良彩那", ""],
+    [26, "Skyhigh", "木下洋介", ""],
+    [27, "Come to an End", "比良彩那", ""],
+    [28, "Party Members", "木下洋介", ""],
 ]
-links = ["https://vgmdb.net/album/93409"]
+links = ["https://beta.musicbrainz.org/release/c62e6471-4716-4a95-b2c5-b57317679807", "https://vgmdb.net/album/93409"]
 
 [189]
 catalognumber = "PCCA-03492"
@@ -3386,11 +3386,11 @@ catalognumber = "PCCA-03056"
 date = "2009-12-02"
 album = "Snow fairy / FUNKIST Disc 1 (CD) [PCCA-03056-1]"
 tracks = [
-    [1, "Snow fairy", "", ""],
-    [2, "hira hira", "", ""],
-    [3, "South Africa 2009", "", ""],
+    [1, "Snow fairy", "FUNKIST", ""],
+    [2, "hira hira", "FUNKIST", ""],
+    [3, "South Africa 2009", "FUNKIST", ""],
 ]
-links = ["https://vgmdb.net/album/45826"]
+links = ["https://beta.musicbrainz.org/release/7efd3a95-2ec6-4b3a-8963-2adb0a2ac392", "https://vgmdb.net/album/45826"]
 
 [192]
 catalognumber = "PCCA-03056"
@@ -3406,16 +3406,16 @@ catalognumber = "PCCA-03493"
 date = "2011-10-19"
 album = "永久のキズナ feat. Another Infinity / Daisy×Daisy"
 tracks = [
-    [1, "永久のキズナ feat.Another Infinity", "", ""],
-    [2, "ナイトメア feat.1640mP(164×40mP)", "", ""],
-    [3, "名前をつけて保存 feat.デッドボールP×cosMo@暴走P", "", ""],
-    [4, "メルカトル feat.おにゅうP×ピノキオP", "", ""],
-    [5, "永久のキズナ feat.Another Infinity (karaoke)", "", ""],
-    [6, "ナイトメア feat.1640mP(164×40mP) (karaoke)", "", ""],
-    [7, "名前をつけて保存 feat.デッドボールP×cosMo@暴走P (karaoke)", "", ""],
-    [8, "メルカトル feat.おにゅうP×ピノキオP (karaoke)", "", ""],
+    [1, "永久のキズナ", "Daisy×Daisy feat. Another Infinity", ""],
+    [2, "ナイトメア", "Daisy×Daisy feat. 1640mP (164×40mP)", ""],
+    [3, "名前をつけて保存", "Daisy×Daisy feat. デッドボールP×cosMo@暴走P", ""],
+    [4, "メルカトル", "Daisy×Daisy feat. おにゅうP×ピノキオピー", ""],
+    [5, "永久のキズナ (karaoke)", "Daisy×Daisy feat. Another Infinity", ""],
+    [6, "ナイトメア (karaoke)", "Daisy×Daisy feat. 1640mP (164×40mP)", ""],
+    [7, "名前をつけて保存 (karaoke)", "Daisy×Daisy feat. デッドボールP×cosMo@暴走P", ""],
+    [8, "メルカトル (karaoke)", "Daisy×Daisy feat. おにゅうP×ピノキオピー", ""],
 ]
-links = ["https://vgmdb.net/album/29274"]
+links = ["https://beta.musicbrainz.org/release/8d6bef0e-5202-45ca-a4ad-e5128267bddc", "https://vgmdb.net/album/29274"]
 
 [194]
 catalognumber = "AVCD-93373/B"
@@ -3455,12 +3455,12 @@ catalognumber = "AVCK-79203"
 date = "2014-07-23"
 album = "MASAYUME CHASING / BoA"
 tracks = [
-    [1, "MASAYUME CHASING", "", ""],
-    [2, "FUN", "", ""],
-    [3, "MASAYUME CHASING (INST)", "", ""],
-    [4, "FUN (INST)", "", ""],
+    [1, "MASAYUME CHASING", "BoA", ""],
+    [2, "FUN", "BoA", ""],
+    [3, "MASAYUME CHASING (INST)", "BoA", ""],
+    [4, "FUN (INST)", "BoA", ""],
 ]
-links = ["https://vgmdb.net/album/45920"]
+links = ["https://beta.musicbrainz.org/release/556e2e72-ca3f-4d60-b1a2-0e7c8d36f6b7", "https://vgmdb.net/album/45920"]
 
 [197]
 catalognumber = "PCCA-70316"
@@ -3479,327 +3479,327 @@ catalognumber = "QWCE-00232"
 date = "2012-06-06"
 album = "Glitter/神巫詞 / Mayumi Morinaga"
 tracks = [
-    [1, "神巫詞 feat.164", "", ""],
-    [2, "dreamin' feat.Ryu☆", "", ""],
-    [3, "STARS (Ryu☆Remix RRver.) feat.Another Infinity", "", ""],
-    [4, "Follow Tomorrow (for future mix rearrange ver)", "", ""],
-    [5, "Mermaid girl (Extended RRver.)", "", ""],
-    [6, "XANADU OF TWO feat.T.Kakuta With Starving Trancer -BEYOND THE ETERNAL XANADU MIX-", "", ""],
-    [7, "朧", "", ""],
-    [8, "夢現 feat.Another Infinity", "", ""],
-    [9, "響音-kotone- feat.Another Infinity", "", ""],
-    [10, "Glitter (Starving Trancer Remix) feat.Another Infinity", "", ""],
-    [11, "Delta feat.40mP", "", ""],
-    [12, "Love Material feat.Another Infinity", "", ""],
-    [13, "SW feat.Starving Trancer", "", ""],
-    [14, "Don't be afraid feat.Starving Trancer", "", ""],
-    [15, "ずっとみつめていて feat.DJ UTO vs.Starving Trancer", "", ""],
-    [16, "ONE MILLION MILES feat.DJ UTO", "", ""],
-    [17, "NO CHALLENGE,NO SUCCESS (MK Remix)", "", ""],
-    [18, "Caramel Sugar feat.Another Infinity", "", ""],
+    [1, "神巫詞", "Mayumi Morinaga feat. 164", ""],
+    [2, "dreamin’", "Mayumi Morinaga feat. Ryu☆", ""],
+    [3, "STARS (Ryu☆Remix RRver.)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [4, "Follow Tomorrow (for future mix rearrange ver)", "HHH×MM×ST", ""],
+    [5, "Mermaid girl (Extended RRver.)", "Cream puff", ""],
+    [6, "XANADU OF TWO –BEYOND THE ETERNAL XANADU MIX–", "Mayumi Morinaga feat. T.Kakuta with Starving Trancer", ""],
+    [7, "朧", "HHH×MM×ST", ""],
+    [8, "夢現", "Another Infinity feat. Mayumi Morinaga", ""],
+    [9, "響音 –kotone–", "Mayumi Morinaga feat. Another Infinity", ""],
+    [10, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", ""],
+    [11, "Delta", "Mayumi Morinaga feat. 40mP", ""],
+    [12, "Love Material", "Mayumi Morinaga feat. Another Infinity", ""],
+    [13, "SW", "Mayumi Morinaga feat. Starving Trancer", ""],
+    [14, "Don’t be afraid", "Mayumi Morinaga feat. Starving Trancer", ""],
+    [15, "ずっとみつめていて", "Mayumi Morinaga feat. DJ UTO vs. Starving Trancer", ""],
+    [16, "ONE MILLION MILES", "Mayumi Morinaga feat. DJ UTO", ""],
+    [17, "NO CHALLENGE, NO SUCCESS (MK Remix)", "Mayumi Morinaga", ""],
+    [18, "Caramel Sugar", "Mayumi Morinaga feat. Another Infinity", ""],
 ]
-links = ["https://vgmdb.net/album/147554"]
+links = ["https://beta.musicbrainz.org/release/b082b674-a05e-47fb-83a7-3f69a03d028b", "https://vgmdb.net/album/147554"]
 
 [199]
 catalognumber = "PCCA-03238"
 date = "2010-06-23"
 album = "ごめんね、私。 / 南波志帆"
 tracks = [
-    [1, "ごめんね、私。", "", ""],
-    [2, "スローモーション", "", ""],
-    [3, "会いたい、会いたくない", "", ""],
-    [4, "お針子の唄", "", ""],
-    [5, "シャイニングスター", "", ""],
-    [6, "Bless You, Girls!", "", ""],
-    [7, "楽園にて", "", ""],
-    [8, "光の街", "", ""],
+    [1, "ごめんね、私。", "南波志帆", ""],
+    [2, "スローモーション", "南波志帆", ""],
+    [3, "会いたい、会いたくない", "南波志帆", ""],
+    [4, "お針子の唄", "南波志帆", ""],
+    [5, "シャイニングスター", "南波志帆", ""],
+    [6, "Bless You, Girls!", "南波志帆", ""],
+    [7, "楽園にて", "南波志帆", ""],
+    [8, "光の街", "南波志帆", ""],
 ]
-links = ["https://vgmdb.net/album/45843"]
+links = ["https://beta.musicbrainz.org/release/41efe34d-6c03-4ec6-ae7f-edabe9a04ab7", "https://vgmdb.net/album/45843"]
 
 [200]
 catalognumber = "AVCD-83281"
 date = "2015-05-08"
 album = "Timeless / V6"
 tracks = [
-    [1, "Timeless", "", ""],
-    [2, "SPOT LIGHT", "", ""],
-    [3, "BREAK OUT", "", ""],
-    [4, "Road Show", "", ""],
+    [1, "Timeless", "V6", ""],
+    [2, "SPOT LIGHT", "V6", ""],
+    [3, "BREAK OUT", "V6", ""],
+    [4, "Road Show", "V6", ""],
 ]
-links = ["https://vgmdb.net/album/51813"]
+links = ["https://beta.musicbrainz.org/release/c7ac9bd4-1494-4b2f-aefa-b5efd1a98f90", "https://vgmdb.net/album/51813"]
 
 [201]
 catalognumber = "AVCD-96308/B"
 date = "2019-07-31"
 album = "ガチ上がるハイテンションまで夢じゃないこの現実 / 大阪☆春夏秋冬 Disc 1 (CD) [AVCD-96308]"
 tracks = [
-    [1, "MY STYLE", "", ""],
-    [2, "その手", "", ""],
-    [3, "かなしいうた", "", ""],
-    [4, "Dance to the light", "", ""],
-    [5, "Makkkkko Shobu", "", ""],
-    [6, "NO-LIMIT (album mix ver.)", "", ""],
+    [1, "MY STYLE", "大阪☆春夏秋冬", ""],
+    [2, "その手", "大阪☆春夏秋冬", ""],
+    [3, "かなしいうた", "大阪☆春夏秋冬", ""],
+    [4, "Dance to the light", "大阪☆春夏秋冬", ""],
+    [5, "Makkkkko Shobu", "大阪☆春夏秋冬", ""],
+    [6, "NO-LIMIT (album mix ver.)", "大阪☆春夏秋冬", ""],
 ]
-links = ["https://vgmdb.net/album/87556"]
+links = ["https://beta.musicbrainz.org/release/9d8751ae-148e-499d-8db7-b80efb6c286d", "https://vgmdb.net/album/87556"]
 
 [202]
 catalognumber = "AVCD-96308/B"
 date = "2019-07-31"
 album = "ガチ上がるハイテンションまで夢じゃないこの現実 / 大阪☆春夏秋冬 Disc 2 (Blu-ray) [AVCD-96308B]"
 tracks = [
-    [1, "その手 (Music Video)", "", ""],
-    [2, "NO-LIMIT (Music Video)", "", ""],
-    [3, "Behind the scenes", "", ""],
+    [1, "\"その手\" Music Video", "大阪☆春夏秋冬", ""],
+    [2, "\"NO-LIMIT\" Music Video", "大阪☆春夏秋冬", ""],
+    [3, "Behind the scenes", "大阪☆春夏秋冬", ""],
 ]
-links = ["https://vgmdb.net/album/87556"]
+links = ["https://beta.musicbrainz.org/release/9d8751ae-148e-499d-8db7-b80efb6c286d", "https://vgmdb.net/album/87556"]
 
 [203]
 catalognumber = "AVCD-16508/B"
 date = "2015-01-28"
 album = "7 WONDERS / 西内まりや Disc 1 (CD) [AVCD-16508]"
 tracks = [
-    [1, "7 WONDERS", "", ""],
-    [2, "Don't let me down", "", ""],
-    [3, "7 WONDERS (Instrumental)", "", ""],
-    [4, "Don't let me down (Instrumental)", "", ""],
+    [1, "7 WONDERS", "西内まりや", ""],
+    [2, "Don’t let me down", "西内まりや", ""],
+    [3, "7 WONDERS (Instrumental)", "西内まりや", ""],
+    [4, "Don’t let me down (Instrumental)", "西内まりや", ""],
 ]
-links = ["https://vgmdb.net/album/50383"]
+links = ["https://beta.musicbrainz.org/release/afdd373a-0c00-4cc5-ad37-4a72db17586e", "https://vgmdb.net/album/50383"]
 
 [204]
 catalognumber = "AVCD-16508/B"
 date = "2015-01-28"
 album = "7 WONDERS / 西内まりや Disc 2 (DVD) [AVCD-16508B]"
 tracks = [
-    [1, "「7 WONDERS」MUSIC VIDEO", "", ""],
-    [2, "MUSIC VIDEOオフショットムービー", "", ""],
+    [1, "7 WONDERS -Music Video-", "西内まりや", ""],
+    [2, "7 WONDERS -Making Movie-", "西内まりや", ""],
 ]
-links = ["https://vgmdb.net/album/50383"]
+links = ["https://beta.musicbrainz.org/release/afdd373a-0c00-4cc5-ad37-4a72db17586e", "https://vgmdb.net/album/50383"]
 
 [205]
 catalognumber = "PCCG-70161"
 date = "2012-08-15"
 album = "ずっと きっと / ルーシィ (CV：平野綾)"
 tracks = [
-    [1, "ずっと きっと", "", ""],
-    [2, "ずっと きっと <スペシャル・アレンジ・ヴァージョン>", "", ""],
-    [3, "ずっと きっと <インストゥルメンタル・ミックス>", "", ""],
-    [4, "ずっと きっと <スペシャル・アレンジ・ヴァージョン/インストゥルメンタル・ミックス>", "", ""],
+    [1, "ずっと きっと", "ルーシィ(CV:平野綾)", ""],
+    [2, "ずっと きっと <スペシャル・アレンジ・ヴァージョン>", "ルーシィ(CV:平野綾)", ""],
+    [3, "ずっと きっと <インストゥルメンタル・ミックス>", "ルーシィ(CV:平野綾)", ""],
+    [4, "ずっと きっと <スペシャル・アレンジ・ヴァージョン/インストゥルメンタル・ミックス>", "ルーシィ(CV:平野綾)", ""],
 ]
-links = ["https://vgmdb.net/album/33715"]
+links = ["https://beta.musicbrainz.org/release/03516984-1096-44aa-ab9b-4988bfd43766", "https://vgmdb.net/album/33715"]
 
 [206]
 catalognumber = "PCCG-01057"
 date = "2010-07-07"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.2"
 tracks = [
-    [1, "鉄竜 -くろがね-", "", ""],
-    [2, "獅子の星霊", "", ""],
-    [3, "邪悪の槌音", "", ""],
-    [4, "追憶 ~めざめる魂~", "", ""],
-    [5, "新しい友情", "", ""],
-    [6, "ハッピーのテーマ", "", ""],
-    [7, "妖しい魔導士", "", ""],
-    [8, "マカロフ", "", ""],
-    [9, "ファンタジア", "", ""],
-    [10, "旅立つ者へ", "", ""],
-    [11, "ファントムロード", "", ""],
-    [12, "魔道の挑戦者", "", ""],
-    [13, "破邪の戦風", "", ""],
-    [14, "悲壮", "", ""],
-    [15, "FAIRY TAIL メインテーマ -Piano ver.-", "", ""],
-    [16, "ナツの魔法1 ~火竜の咆哮~", "", ""],
-    [17, "ナツの魔法2 ~火竜の劍角~", "", ""],
-    [18, "ナツの魔法3 ~紅蓮火竜拳~", "", ""],
-    [19, "グレイの魔法1 ~アイスメイク~", "", ""],
-    [20, "グレイの魔法2 ~アイスゲイザー~", "", ""],
-    [21, "グレイの魔法3 ~氷刃・七連舞~", "", ""],
-    [22, "エルザの魔法1 ~金剛の鎧~", "", ""],
-    [23, "エルザの魔法2 ~天輪の鎧~", "", ""],
-    [24, "エルザの魔法3 ~煉獄の鎧~", "", ""],
-    [25, "冥き残光", "", ""],
-    [26, "星霊王", "", ""],
-    [27, "楽園の塔", "", ""],
-    [28, "解き放たれし力", "", ""],
-    [29, "絆", "", ""],
-    [30, "追憶 ~哀しき魂~", "", ""],
-    [31, "魔水晶", "", ""],
-    [32, "サタンソウル", "", ""],
-    [33, "退魔激戦", "", ""],
-    [34, "永遠の魔法", "", ""],
-    [35, "フィオーレ王国", "", ""],
-    [36, "FAIRY TAIL メインテーマ -METAL ver.-", "", ""],
+    [1, "鉄竜 -くろがね-", "高梨康治", ""],
+    [2, "獅子の星霊", "高梨康治", ""],
+    [3, "邪悪の槌音", "高梨康治", ""],
+    [4, "追憶 〜めざめる魂〜", "高梨康治", ""],
+    [5, "新しい友情", "高梨康治", ""],
+    [6, "ハッピーのテーマ", "高梨康治", ""],
+    [7, "妖しい魔導士", "高梨康治", ""],
+    [8, "マカロフ", "高梨康治", ""],
+    [9, "ファンタジア", "水谷広実", ""],
+    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", ""],
+    [11, "ファントムロード", "高梨康治", ""],
+    [12, "魔道の挑戦者", "高梨康治", ""],
+    [13, "破邪の戦風", "高梨康治", ""],
+    [14, "悲壮", "高梨康治", ""],
+    [15, "FAIRY TAIL メインテーマ -Piano ver.-", "高梨康治", ""],
+    [16, "ナツの魔法1 〜火竜の咆哮〜", "高梨康治", ""],
+    [17, "ナツの魔法2 〜火竜の劍角〜", "高梨康治", ""],
+    [18, "ナツの魔法3 〜紅蓮火竜拳〜", "高梨康治", ""],
+    [19, "グレイの魔法1 〜アイスメイク〜", "高梨康治", ""],
+    [20, "グレイの魔法2 〜アイスゲイザー〜", "高梨康治", ""],
+    [21, "グレイの魔法3 〜氷刃・七連舞〜", "高梨康治", ""],
+    [22, "エルザの魔法1 〜金剛の鎧〜", "高梨康治", ""],
+    [23, "エルザの魔法2 〜天輪の鎧〜", "高梨康治", ""],
+    [24, "エルザの魔法3 〜煉獄の鎧〜", "高梨康治", ""],
+    [25, "冥き残光", "高梨康治", ""],
+    [26, "星霊王", "高梨康治", ""],
+    [27, "楽園の塔 〜ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", ""],
+    [28, "解き放たれし力", "高梨康治", ""],
+    [29, "絆", "高梨康治", ""],
+    [30, "追憶 〜哀しき魂〜", "高梨康治", ""],
+    [31, "魔水晶", "高梨康治", ""],
+    [32, "サタンソウル", "高梨康治", ""],
+    [33, "退魔激戦", "高梨康治", ""],
+    [34, "永遠の魔法", "高梨康治", ""],
+    [35, "フィオーレ王国", "高梨康治", ""],
+    [36, "FAIRY TAIL メインテーマ -METAL ver.-", "藤澤健至", ""],
 ]
-links = ["https://vgmdb.net/album/20181"]
+links = ["https://beta.musicbrainz.org/release/579c71ca-3e22-44ff-9122-1aa9d3c269b4", "https://vgmdb.net/album/20181"]
 
 [207]
 catalognumber = "PCCA-03698"
 date = "2012-11-14"
 album = "ルーツ・アンド・ルーツ / GOING UNDER GROUND"
 tracks = [
-    [1, "1978", "", ""],
-    [2, "シナリオライター", "", ""],
-    [3, "Breakthrough", "", ""],
-    [4, "Roots", "", ""],
-    [5, "～土曜日の夜と日曜日の朝～", "", ""],
-    [6, "ナカザのディスコ★", "", ""],
-    [7, "刹那", "", ""],
-    [8, "稲川くん", "", ""],
-    [9, "コーンフレークダイアリー", "", ""],
-    [10, "1+1", "", ""],
-    [11, "愛なんて", "", ""],
-    [12, "なんにもいらない", "", ""],
-    [13, "9th Route", "", ""],
-    [14, "Shining", "", ""],
+    [1, "1978", "GOING UNDER GROUND", ""],
+    [2, "シナリオライター", "GOING UNDER GROUND", ""],
+    [3, "Breakthrough", "GOING UNDER GROUND", ""],
+    [4, "Roots", "GOING UNDER GROUND", ""],
+    [5, "1998〜土曜日の夜と日曜日の朝〜", "GOING UNDER GROUND", ""],
+    [6, "ナカザのディスコ★", "GOING UNDER GROUND", ""],
+    [7, "刹那", "GOING UNDER GROUND", ""],
+    [8, "稲川くん", "GOING UNDER GROUND", ""],
+    [9, "コーンフレークダイアリー", "GOING UNDER GROUND", ""],
+    [10, "1+1", "GOING UNDER GROUND", ""],
+    [11, "愛なんて", "GOING UNDER GROUND", ""],
+    [12, "なんにもいらない", "GOING UNDER GROUND", ""],
+    [13, "9th Route", "GOING UNDER GROUND", ""],
+    [14, "Shining", "GOING UNDER GROUND", ""],
 ]
-links = ["https://vgmdb.net/album/131531"]
+links = ["https://beta.musicbrainz.org/release/c9005d63-1fb6-43fc-8253-68aa3c2bc22d", "https://vgmdb.net/album/131531"]
 
 [208]
 catalognumber = "PCCG-01161"
 date = "2011-04-27"
 album = "FAIRY TAIL キャラクターソングアルバム"
 tracks = [
-    [1, "Eternal Fellows", "", ""],
-    [2, "Wings of Liberty", "", ""],
-    [3, "METALLIC KISS", "", ""],
-    [4, "Have a nice day!", "", ""],
-    [5, "Amazing Blessings", "", ""],
-    [6, "TRUE PRIDE", "", ""],
-    [7, "日常賛歌 ~This Place~", "", ""],
+    [1, "Eternal Fellows", "柿原徹也", ""],
+    [2, "Wings of Liberty", "大原さやか", ""],
+    [3, "METALLIC KISS", "羽多野渉", ""],
+    [4, "Have a nice day!", "釘宮理恵 & 堀江由衣", ""],
+    [5, "Amazing Blessings", "佐藤聡美", ""],
+    [6, "TRUE PRIDE", "中村優一", ""],
+    [7, "日常賛歌 ~This Place~", "平野綾", ""],
 ]
-links = ["https://vgmdb.net/album/23379"]
+links = ["https://beta.musicbrainz.org/release/c6ac8f12-738c-4f31-a2a4-fa94aec7a027", "https://vgmdb.net/album/23379"]
 
 [209]
 catalognumber = "EYCA-10996"
 date = "2016-07-15"
 album = "フェアリーテイル オリジナル・サウンド・コレクション Vol.2 Disc 1 [EYCA-10996]"
 tracks = [
-    [1, "フェアリーテイル 新たな冒険", "", ""],
-    [2, "エルザ降臨", "", ""],
-    [3, "デビルスレイヤー", "", ""],
-    [4, "太陽の村", "", ""],
-    [5, "ミネルバ", "", ""],
-    [6, "ドリアーテ", "", ""],
-    [7, "老魔導士ウォーロッド・シーケン", "", ""],
-    [8, "ナツとハッピー", "", ""],
-    [9, "魔法評議院ERA", "", ""],
-    [10, "九鬼門あらわる", "", ""],
-    [11, "不死のテンペスター", "", ""],
-    [12, "ジャッカル", "", ""],
-    [13, "戦う理由", "", ""],
-    [14, "雷炎竜の撃鉄", "", ""],
-    [15, "隷星天キョウカ", "", ""],
-    [16, "キョウカ襲撃", "", ""],
-    [17, "ラミー", "", ""],
-    [18, "ルーシィの出番", "", ""],
-    [19, "タルタロス", "", ""],
-    [20, "童子切のエゼル", "", ""],
-    [21, "漆黒僧正キース", "", ""],
-    [22, "ジェラールの想い", "", ""],
-    [23, "六魔将軍", "", ""],
-    [24, "ネオミネルバ", "", ""],
-    [25, "エルザの道", "", ""],
-    [26, "絶対零度のシルバー", "", ""],
-    [27, "涼月天セイラ", "", ""],
-    [28, "美しき魔人ミラジェーン", "", ""],
-    [29, "不屈のフェアリーテイル", "", ""],
-    [30, "白き遺産フェイス", "", ""],
+    [1, "フェアリーテイル 新たな冒険", "高梨康治", ""],
+    [2, "エルザ降臨", "高梨康治", ""],
+    [3, "デビルスレイヤー", "高梨康治", ""],
+    [4, "太陽の村", "高梨康治", ""],
+    [5, "ミネルバ", "高梨康治", ""],
+    [6, "ドリアーテ", "高梨康治", ""],
+    [7, "老魔導士ウォーロッド・シーケン", "高梨康治", ""],
+    [8, "ナツとハッピー", "高梨康治", ""],
+    [9, "魔法評議院ERA", "高梨康治", ""],
+    [10, "九鬼門あらわる", "高梨康治", ""],
+    [11, "不死のテンペスター", "高梨康治", ""],
+    [12, "ジャッカル", "高梨康治", ""],
+    [13, "戦う理由", "高梨康治", ""],
+    [14, "雷炎竜の撃鉄", "高梨康治", ""],
+    [15, "隷星天キョウカ", "高梨康治", ""],
+    [16, "キョウカ襲撃", "高梨康治", ""],
+    [17, "ラミー", "高梨康治", ""],
+    [18, "ルーシィの出番", "高梨康治", ""],
+    [19, "タルタロス", "高梨康治", ""],
+    [20, "童子切のエゼル", "高梨康治", ""],
+    [21, "漆黒僧正キース", "高梨康治", ""],
+    [22, "ジェラールの想い", "高梨康治", ""],
+    [23, "六魔将軍", "高梨康治", ""],
+    [24, "ネオミネルバ", "高梨康治", ""],
+    [25, "エルザの道", "高梨康治", ""],
+    [26, "絶対零度のシルバー", "高梨康治", ""],
+    [27, "涼月天セイラ", "高梨康治", ""],
+    [28, "美しき魔人ミラジェーン", "高梨康治", ""],
+    [29, "不屈のフェアリーテイル", "高梨康治", ""],
+    [30, "白き遺産フェイス", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/57876"]
+links = ["https://beta.musicbrainz.org/release/5356f781-7649-4377-ba9b-8f5897911265", "https://vgmdb.net/album/57876"]
 
 [210]
 catalognumber = "EYCA-10997"
 date = "2016-07-15"
 album = "フェアリーテイル オリジナル・サウンド・コレクション Vol.2 Disc 2 [EYCA-10997]"
 tracks = [
-    [1, "冥王マルド・ギール", "", ""],
-    [2, "星霊王召喚", "", ""],
-    [3, "アクエリアスの贈り物", "", ""],
-    [4, "絆の力", "", ""],
-    [5, "シルバー急襲", "", ""],
-    [6, "死力の激闘", "", ""],
-    [7, "悲しき戦い", "", ""],
-    [8, "絶対の悪魔", "", ""],
-    [9, "ドラゴン大戦争", "", ""],
-    [10, "フェアリーテイル挑む", "", ""],
-    [11, "怒りの総力戦", "", ""],
-    [12, "悲しみを乗り越えて", "", ""],
-    [13, "郷愁の風景", "", ""],
-    [14, "港町で", "", ""],
-    [15, "メイビス", "", ""],
-    [16, "小さながんばり屋", "", ""],
-    [17, "浮き立つ心", "", ""],
-    [18, "危険な対立", "", ""],
-    [19, "冒険への旅立ち", "", ""],
-    [20, "天狼玉", "", ""],
-    [21, "メイビスの思惑", "", ""],
-    [22, "メイビスの挑戦", "", ""],
-    [23, "自由への戦い", "", ""],
-    [24, "永遠の友だち", "", ""],
-    [25, "フェアリーテイル誕生", "", ""],
-    [26, "新米記者ルーシィ", "", ""],
-    [27, "てんてこ舞い", "", ""],
-    [28, "ドタバタ大騒動", "", ""],
-    [29, "想い出のフェアリーテイル", "", ""],
-    [30, "FAIRY TAIL メインテーマ 2016", "", ""],
+    [1, "冥王マルド・ギール", "高梨康治", ""],
+    [2, "星霊王召喚", "高梨康治", ""],
+    [3, "アクエリアスの贈り物", "高梨康治", ""],
+    [4, "絆の力", "高梨康治", ""],
+    [5, "シルバー急襲", "高梨康治", ""],
+    [6, "死力の激闘", "高梨康治", ""],
+    [7, "悲しき戦い", "高梨康治", ""],
+    [8, "絶対の悪魔", "高梨康治", ""],
+    [9, "ドラゴン大戦争", "高梨康治", ""],
+    [10, "フェアリーテイル挑む", "高梨康治", ""],
+    [11, "怒りの総力戦", "高梨康治", ""],
+    [12, "悲しみを乗り越えて", "高梨康治", ""],
+    [13, "郷愁の風景", "高梨康治", ""],
+    [14, "港町で", "高梨康治", ""],
+    [15, "メイビス", "高梨康治", ""],
+    [16, "小さながんばり屋", "高梨康治", ""],
+    [17, "浮き立つ心", "高梨康治", ""],
+    [18, "危険な対立", "高梨康治", ""],
+    [19, "冒険への旅立ち", "高梨康治", ""],
+    [20, "天狼玉", "高梨康治", ""],
+    [21, "メイビスの思惑", "高梨康治", ""],
+    [22, "メイビスの挑戦", "高梨康治", ""],
+    [23, "自由への戦い", "高梨康治", ""],
+    [24, "永遠の友だち", "高梨康治", ""],
+    [25, "フェアリーテイル誕生", "高梨康治", ""],
+    [26, "新米記者ルーシィ", "高梨康治", ""],
+    [27, "てんてこ舞い", "高梨康治", ""],
+    [28, "ドタバタ大騒動", "高梨康治", ""],
+    [29, "想い出のフェアリーテイル", "高梨康治", ""],
+    [30, "FAIRY TAIL メインテーマ 2016", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/57876"]
+links = ["https://beta.musicbrainz.org/release/5356f781-7649-4377-ba9b-8f5897911265", "https://vgmdb.net/album/57876"]
 
 [211]
 catalognumber = "AVCD-16507/B"
 date = "2015-01-28"
 album = "7 WONDERS / 西内まりや Disc 1 (CD) [AVCD-16507]"
 tracks = [
-    [1, "7 WONDERS", "", ""],
-    [2, "Don't let me down", "", ""],
-    [3, "7 WONDERS (Instrumental)", "", ""],
-    [4, "Don't let me down (Instrumental)", "", ""],
+    [1, "7 WONDERS", "西内まりや", ""],
+    [2, "Don’t let me down", "西内まりや", ""],
+    [3, "7 WONDERS (Instrumental)", "西内まりや", ""],
+    [4, "Don’t let me down (Instrumental)", "西内まりや", ""],
 ]
-links = ["https://vgmdb.net/album/50384"]
+links = ["https://beta.musicbrainz.org/release/37b8aa9b-d10a-4366-8f5c-01d7ae9fb1cc", "https://vgmdb.net/album/50384"]
 
 [212]
 catalognumber = "AVCD-16507/B"
 date = "2015-01-28"
 album = "7 WONDERS / 西内まりや Disc 2 (DVD) [AVCD-16507B]"
 tracks = [
-    [1, "「7 WONDERS」MUSIC VIDEO", "", ""],
-    [2, "MUSIC VIDEOオフショットムービー", "", ""],
+    [1, "7 WONDERS -Music Video-", "西内まりや", ""],
+    [2, "7 WONDERS -Making Movie-", "西内まりや", ""],
 ]
-links = ["https://vgmdb.net/album/50384"]
+links = ["https://beta.musicbrainz.org/release/37b8aa9b-d10a-4366-8f5c-01d7ae9fb1cc", "https://vgmdb.net/album/50384"]
 
 [213]
 catalognumber = "RZCD-59655"
 date = "2014-09-10"
 album = "本当の恋 / May J."
 tracks = [
-    [1, "本当の恋", "", ""],
-    [2, "Sunshine Baby!", "", ""],
-    [3, "心の鍵", "", ""],
-    [4, "つかのまの虹でも", "", ""],
-    [5, "本当の恋 [Off Vocal]", "", ""],
-    [6, "Sunshine Baby! [Off Vocal]", "", ""],
-    [7, "心の鍵 [Off Vocal]", "", ""],
-    [8, "つかのまの虹でも [Off Vocal]", "", ""],
+    [1, "本当の恋", "May J.", ""],
+    [2, "Sunshine Baby!", "May J.", ""],
+    [3, "心の鍵", "May J.", ""],
+    [4, "つかのまの虹でも", "May J.", ""],
+    [5, "本当の恋 [Off Vocal]", "May J.", ""],
+    [6, "Sunshine Baby! [Off Vocal]", "May J.", ""],
+    [7, "心の鍵 [Off Vocal]", "May J.", ""],
+    [8, "つかのまの虹でも [Off Vocal]", "May J.", ""],
 ]
-links = ["https://vgmdb.net/album/46669"]
+links = ["https://beta.musicbrainz.org/release/811be71e-3461-4b79-a0e9-4129df9754af", "https://vgmdb.net/album/46669"]
 
 [214]
 catalognumber = "PCCA-03561"
 date = "2012-05-30"
 album = "Just Crazy / チャン・グンソク [初回限定盤] Vocal"
 tracks = [
-    [1, "200 miles", "", ""],
-    [2, "Always close to you", "", ""],
-    [3, "Crazy Crazy Crazy", "", ""],
-    [4, "Stay", "", ""],
-    [5, "Rain", "", ""],
-    [6, "Let me cry", "", ""],
-    [7, "Abracadabra", "", ""],
-    [8, "In my dream", "", ""],
-    [9, "Bye Bye Bye (Album Version)", "", ""],
-    [10, "Epilogue...", "", ""],
-    [11, "Tomorrow", "", ""],
+    [1, "200 miles", "チャン・グンソク", ""],
+    [2, "Always close to you", "チャン・グンソク", ""],
+    [3, "Crazy Crazy Crazy", "チャン・グンソク", ""],
+    [4, "Stay", "チャン・グンソク", ""],
+    [5, "Rain", "チャン・グンソク", ""],
+    [6, "Let me cry", "チャン・グンソク", ""],
+    [7, "Abracadabra", "チャン・グンソク", ""],
+    [8, "In my dream", "チャン・グンソク", ""],
+    [9, "Bye Bye Bye (Album Version)", "チャン・グンソク", ""],
+    [10, "Epilogue...", "チャン・グンソク", ""],
+    [11, "Tomorrow", "チャン・グンソク", ""],
 ]
-links = ["https://vgmdb.net/album/147854"]
+links = ["https://beta.musicbrainz.org/release/1bb5e323-7da2-47c6-82df-c92168958b54", "https://vgmdb.net/album/147854"]
 
 [215]
 catalognumber = "PCCA-03561"
@@ -3816,48 +3816,48 @@ catalognumber = "RZCB-87022/B"
 date = "2020-10-28"
 album = "reply / みゆな Disc 1"
 tracks = [
-    [1, "DeadRock", "", ""],
-    [2, "あのねこの話 feat.クボタカイ", "", ""],
-    [3, "歌おうよ", "", ""],
-    [4, "乙女の声は天津風", "", ""],
-    [5, "my life", "", ""],
-    [6, "ソレイユ", "", ""],
-    [7, "瞬き", "", ""],
-    [8, "レインレイ", "", ""],
+    [1, "DeadRock", "みゆな", ""],
+    [2, "あのねこの話", "みゆな feat. クボタカイ", ""],
+    [3, "歌おうよ", "みゆな", ""],
+    [4, "乙女の声は天津風", "みゆな", ""],
+    [5, "my life", "みゆな", ""],
+    [6, "ソレイユ", "みゆな", ""],
+    [7, "瞬き", "みゆな", ""],
+    [8, "レインレイ", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/152772"]
+links = ["https://beta.musicbrainz.org/release/f40fab38-146a-49b5-8105-5f5515379ac9", "https://vgmdb.net/album/152772"]
 
 [217]
 catalognumber = "RZCB-87022/B"
 date = "2020-10-28"
 album = "reply / みゆな Disc 2"
 tracks = [
-    [1, "ユラレル", "", ""],
-    [2, "グルグル", "", ""],
-    [3, "進め", "", ""],
-    [4, "ガムシャラ", "", ""],
-    [5, "くちなしの言葉", "", ""],
-    [6, "たんぽぽ", "", ""],
-    [7, "僕と君のララバイ", "", ""],
-    [8, "color", "", ""],
-    [9, "埋葬", "", ""],
-    [10, "ふわふわ", "", ""],
-    [11, "缶ビール", "", ""],
-    [12, "天上天下", "", ""],
-    [13, "生きなきゃ", "", ""],
+    [1, "ユラレル", "みゆな", ""],
+    [2, "グルグル", "みゆな", ""],
+    [3, "進め", "みゆな", ""],
+    [4, "ガムシャラ", "みゆな", ""],
+    [5, "くちなしの言葉", "みゆな", ""],
+    [6, "たんぽぽ", "みゆな", ""],
+    [7, "僕と君のララバイ", "みゆな", ""],
+    [8, "color", "みゆな", ""],
+    [9, "埋葬", "みゆな", ""],
+    [10, "ふわふわ", "みゆな", ""],
+    [11, "缶ビール", "みゆな", ""],
+    [12, "天上天下", "みゆな", ""],
+    [13, "生きなきゃ", "みゆな", ""],
 ]
-links = ["https://vgmdb.net/album/152772"]
+links = ["https://beta.musicbrainz.org/release/f40fab38-146a-49b5-8105-5f5515379ac9", "https://vgmdb.net/album/152772"]
 
 [218]
 catalognumber = "SPLP-022"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO"
 tracks = [
-    [1, "「テノヒラ」", "", ""],
-    [2, "ラッキーデイ", "", ""],
-    [3, "かっこ悪ぃ歌 ～2012 ver.～", "", ""],
+    [1, "「テノヒラ」", "HERO", ""],
+    [2, "ラッキーデイ", "HERO", ""],
+    [3, "かっこ悪ぃ歌 ~2012ver.~", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/151458"]
+links = ["https://beta.musicbrainz.org/release/fc411481-896c-4fec-98f9-50613e4bcbc7", "https://vgmdb.net/album/151458"]
 
 [219]
 catalognumber = "PCCA-03055"
@@ -3885,239 +3885,239 @@ catalognumber = ""
 date = "2012-12-15"
 album = "Game On: 2 Player Mode"
 tracks = [
-    [1, "Assassin's Creed III Theme", "", ""],
-    [2, "Passion (Kingdom Hearts II)", "", ""],
-    [3, "Fairy Tail Theme", "", ""],
-    [4, "Aeris's Theme (Final Fantasy VII)", "", ""],
-    [5, "Guile's Theme (Street Fighter II)", "", ""],
-    [6, "Sons of Liberty (Metal Gear Solid 2)", "", ""],
-    [7, "Roxas (Kingdom Hearts II)", "", ""],
-    [8, "Chocobo Medley (Final Fantasy)", "", ""],
-    [9, "To Galaxy (Halo 4)", "", ""],
-    [10, "An End, Once and for All (Mass Effect 3)", "", ""],
-    [11, "Pokemon Theme", "", ""],
-    [12, "Eyes on Me (Final Fantasy VIII)", "", ""],
-    [13, "Song of Storms (Zelda, Ocarina of Time)", "", ""],
+    [1, "Assassin’s Creed 3 Theme", "Taylor Davis & Lara de Wit", ""],
+    [2, "Passion (Kingdom Hearts II)", "Taylor Davis & Lara de Wit", ""],
+    [3, "Fairy Tail Theme", "Taylor Davis & Lara de Wit", ""],
+    [4, "Aeris’ Theme (Final Fantasy VII)", "Taylor Davis & Lara de Wit", ""],
+    [5, "Guile’s Theme (Street Fighter II)", "Taylor Davis & Lara de Wit", ""],
+    [6, "Sons of Liberty (Metal Gear Solid 2)", "Taylor Davis & Lara de Wit", ""],
+    [7, "Roxas' Theme (Kingdom Hearts II)", "Taylor Davis & Lara de Wit", ""],
+    [8, "Chocobo Medley", "Taylor Davis & Lara de Wit", ""],
+    [9, "To Galaxy (Halo 4)", "Taylor Davis & Lara de Wit", ""],
+    [10, "An End, Once and for All (Mass Effect 3)", "Taylor Davis & Lara de Wit", ""],
+    [11, "Pokemon Theme", "Taylor Davis & Lara de Wit", ""],
+    [12, "Eyes on Me (Final Fantasy VIII)", "Taylor Davis & Lara de Wit", ""],
+    [13, "Song of Storms (Zelda OoT)", "Taylor Davis & Lara de Wit", ""],
 ]
-links = ["https://vgmdb.net/album/37026"]
+links = ["https://beta.musicbrainz.org/release/6514f0cd-4ba7-4247-a9d6-c2f2742c052c", "https://vgmdb.net/album/37026"]
 
 [222]
 catalognumber = "AVCD-83323"
 date = "2015-06-24"
 album = "Never ever / 東京女子流"
 tracks = [
-    [1, "Never ever (TJO & YUSUKE from BLU-SWING Remix)", "", ""],
-    [2, "Never ever (Original mix)", "", ""],
-    [3, "Never ever (Royal Mirrorball vs MODEWARP Main mix)", "", ""],
+    [1, "Never ever (TJO & YUSUKE from BLU-SWING Remix)", "東京女子流", ""],
+    [2, "Never ever (Original mix)", "東京女子流", ""],
+    [3, "Never ever (Royal Mirrorball vs MODEWARP Main mix)", "東京女子流", ""],
 ]
-links = ["https://vgmdb.net/album/53253"]
+links = ["https://beta.musicbrainz.org/release/b4f58537-4958-4c2e-a697-160c0c78e905", "https://vgmdb.net/album/53253"]
 
 [223]
 catalognumber = "SPLP-023"
 date = "2012-08-15"
 album = "「テノヒラ」 / HERO"
 tracks = [
-    [1, "「テノヒラ」", "", ""],
-    [2, "「伝えたい音」", "", ""],
-    [3, "ラッキーデイ", "", ""],
+    [1, "「テノヒラ」", "HERO", ""],
+    [2, "「伝えたい音」", "HERO", ""],
+    [3, "ラッキーデイ", "HERO", ""],
 ]
-links = ["https://vgmdb.net/album/151315"]
+links = ["https://beta.musicbrainz.org/release/2b1d096f-695a-4e11-a0ca-d21f0fcd7ee4", "https://vgmdb.net/album/151315"]
 
 [224]
 catalognumber = "PCSP-03972"
 date = "2022-03-16"
 album = "FAIRY TAIL CHARACTER SONGS COLLECTION"
 tracks = [
-    [1, "Blaze Up", "", ""],
-    [2, "Frozen Soul", "", ""],
-    [3, "OPEN THE GATE", "", ""],
-    [4, "ハッピーデイ", "", ""],
-    [5, "Eternal Fellows", "", ""],
-    [6, "Wings of Liberty", "", ""],
-    [7, "METALLIC KISS", "", ""],
-    [8, "Have a nice day!", "", ""],
-    [9, "Amazing Blessings", "", ""],
-    [10, "TRUE PRIDE", "", ""],
-    [11, "日常賛歌 ～This Place～", "", ""],
-    [12, "キズナだろー!!", "", ""],
-    [13, "スカーレット", "", ""],
-    [14, "Naked dream", "", ""],
-    [15, "ずっと一緒", "", ""],
-    [16, "俺のIRONブルース", "", ""],
-    [17, "Happy Holiday", "", ""],
-    [18, "いつも全開だ", "", ""],
-    [19, "BLOW AWAY", "", ""],
-    [20, "Happy Tale", "", ""],
+    [1, "Blaze Up", "柿原徹也", ""],
+    [2, "Frozen Soul", "中村優一", ""],
+    [3, "Open The Gate", "平野綾", ""],
+    [4, "Happy Day", "釘宮理恵", ""],
+    [5, "Eternal Fellows", "柿原徹也", ""],
+    [6, "Wings of Liberty", "大原さやか", ""],
+    [7, "Metallic Kiss", "羽多野渉", ""],
+    [8, "Have a Nice Day!", "堀江由衣 & 釘宮理恵", ""],
+    [9, "Amazing Blessings", "佐藤聡美", ""],
+    [10, "True Pride", "中村優一", ""],
+    [11, "Nichijou Sanka - This Place -", "平野綾", ""],
+    [12, "Kizuna Darou!!", "柿原徹也", ""],
+    [13, "Scarlet", "大原さやか", ""],
+    [14, "Naked Dream", "中村優一", ""],
+    [15, "Zutto Issho", "佐藤聡美 & 堀江由衣", ""],
+    [16, "My Iron Blues", "羽多野渉", ""],
+    [17, "Happy Holiday", "平野綾", ""],
+    [18, "Itsumo Zenkaida", "柿原徹也 & 釘宮理恵", ""],
+    [19, "Blow Away", "柿原徹也 & 中村優一", ""],
+    [20, "Happy Tale", "佐藤聡美, 大原さやか & 平野綾", ""],
 ]
-links = ["https://vgmdb.net/album/118740"]
+links = ["https://beta.musicbrainz.org/release/09b16c27-e937-4e09-8bf5-0f4049de2e58", "https://vgmdb.net/album/118740"]
 
 [225]
 catalognumber = "AVCD-93374"
 date = "2016-02-17"
 album = "EDGE of LIFE / EDGE of LIFE"
 tracks = [
-    [1, "Selfy Trick", "", ""],
-    [2, "Can't Stop", "", ""],
-    [3, "Never Give Up", "", ""],
-    [4, "Love or Life", "", ""],
-    [5, "It's My Life", "", ""],
-    [6, "Just Fly Away", "", ""],
-    [7, "Nobody knows", "", ""],
-    [8, "Summer Shade", "", ""],
-    [9, "Living on the Rock and Roll", "", ""],
-    [10, "Believe in Myself", "", ""],
-    [11, "Open The World", "", ""],
-    [12, "Cry of Pain", "", ""],
-    [13, "Selfy Trick (ドラマ version)", "", ""],
-    [14, "Just Fly Away (アニメ version)", "", ""],
-    [15, "Believe in Myself (アニメ version)", "", ""],
+    [1, "Selfy Trick", "EDGE of LIFE", ""],
+    [2, "Can't Stop", "EDGE of LIFE", ""],
+    [3, "Never Give Up", "EDGE of LIFE", ""],
+    [4, "Love or Life", "EDGE of LIFE", ""],
+    [5, "It's My Life", "EDGE of LIFE", ""],
+    [6, "Just Fly Away", "EDGE of LIFE", ""],
+    [7, "Nobody Knows", "EDGE of LIFE", ""],
+    [8, "Summer Shade", "EDGE of LIFE", ""],
+    [9, "Living on the Rock and Roll", "EDGE of LIFE", ""],
+    [10, "Believe in Myself", "EDGE of LIFE", ""],
+    [11, "Open the World", "EDGE of LIFE", ""],
+    [12, "Cry of Pain", "EDGE of LIFE", ""],
+    [13, "Selfy Trick (Drama ver.)", "EDGE of LIFE", ""],
+    [14, "Just Fly Away (Anime ver.)", "EDGE of LIFE", ""],
+    [15, "Believe in Myself (Anime ver.)", "EDGE of LIFE", ""],
 ]
-links = ["https://vgmdb.net/album/131624"]
+links = ["https://beta.musicbrainz.org/release/ae611431-92eb-4d3e-a7bf-3e223555242f", "https://vgmdb.net/album/131624"]
 
 [226]
 catalognumber = "AVCD-83131"
 date = "2014-11-19"
 album = "キミノミライ / ROOT FIVE"
 tracks = [
-    [1, "キミノミライ", "", ""],
-    [2, "Just Be Friends", "", ""],
-    [3, "キミノミライ インスト", "", ""],
-    [4, "Just Be Friends インスト", "", ""],
+    [1, "キミノミライ", "√5", ""],
+    [2, "Just Be Friends", "√5", ""],
+    [3, "キミノミライ (Instrumental)", "√5", ""],
+    [4, "Just Be Friends (Instrumental)", "√5", ""],
 ]
-links = ["https://vgmdb.net/album/48386"]
+links = ["https://beta.musicbrainz.org/release/17f9a6ac-05b3-4a72-aea2-eee5daa247b4", "https://vgmdb.net/album/48386"]
 
 [227]
 catalognumber = "PCCA-03829"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3 Disc 1 (CD)"
 tracks = [
-    [1, "I Wish", "", ""],
-    [2, "Boys be Ambitious!!", "", ""],
-    [3, "はじまりの空", "", ""],
-    [4, "Glitter (Starving Trancer Remix)", "", ""],
-    [5, "「テノヒラ」", "", ""],
-    [6, "YELL(エール)～輝くためのもの～", "", ""],
-    [7, "Breakthrough", "", ""],
-    [8, "キミがくれたもの", "", ""],
-    [9, "フェアリーテイル～約束の日～", "", ""],
-    [10, "We're the stars", "", ""],
+    [1, "I Wish", "Milky Bunny", ""],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [3, "はじまりの空", "+Plus", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [5, "「テノヒラ」", "HERO", ""],
+    [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [8, "キミがくれたもの", "工藤静香", ""],
+    [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
+    [10, "We're the stars", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/38640"]
+links = ["https://beta.musicbrainz.org/release/eec11137-c1af-45fb-890f-1380eedab1e8", "https://vgmdb.net/album/38640"]
 
 [228]
 catalognumber = "PCCA-03829"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3 Disc 2 (DVD)"
 tracks = [
-    [1, "I Wish", "", ""],
-    [2, "Boys be Ambitious!!", "", ""],
-    [3, "はじまりの空", "", ""],
-    [4, "Glitter (Starving Trancer Remix)", "", ""],
-    [5, "「テノヒラ」", "", ""],
-    [6, "YELL(エール)～輝くためのもの～", "", ""],
-    [7, "Breakthrough", "", ""],
-    [8, "キミがくれたもの", "", ""],
-    [9, "フェアリーテイル～約束の日～", "", ""],
-    [10, "We're the stars", "", ""],
+    [1, "I Wish", "Milky Bunny", ""],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [3, "はじまりの空", "+Plus", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [5, "「テノヒラ」", "HERO", ""],
+    [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [8, "キミがくれたもの", "工藤静香", ""],
+    [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
+    [10, "We're the stars", "愛美", ""],
 ]
-links = ["https://vgmdb.net/album/38640"]
+links = ["https://beta.musicbrainz.org/release/eec11137-c1af-45fb-890f-1380eedab1e8", "https://vgmdb.net/album/38640"]
 
 [229]
 catalognumber = "PCCA-03311"
 date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy"
 tracks = [
-    [1, "HOLY SHINE", "", ""],
-    [2, "BELIEVE", "", ""],
-    [3, "I", "", ""],
-    [4, "HOLY SHINE (original karaoke)", "", ""],
-    [5, "BELIEVE (original karaoke)", "", ""],
-    [6, "I (original karaoke)", "", ""],
+    [1, "HOLY SHINE", "Daisy×Daisy", ""],
+    [2, "BELIEVE", "Daisy×Daisy", ""],
+    [3, "i", "Daisy×Daisy", ""],
+    [4, "HOLY SHINE (original karaoke)", "Daisy×Daisy", ""],
+    [5, "BELIEVE (original karaoke)", "Daisy×Daisy", ""],
+    [6, "i (original karaoke)", "Daisy×Daisy", ""],
 ]
-links = ["https://vgmdb.net/album/45858"]
+links = ["https://beta.musicbrainz.org/release/70c16a4e-f0e5-4fdd-9eea-746cdfd482b1", "https://vgmdb.net/album/45858"]
 
 [230]
 catalognumber = "QWCE-00252"
 date = "2012-12-05"
 album = "Sakura Luminance / Ryu☆"
 tracks = [
-    [1, "Sakura Luminance", "", ""],
-    [2, "Follow Tomorrow (for future mix rearrange ver.)", "", ""],
-    [3, "Glitter (Starving Trancer Remix) feat.Another Infinity", "", ""],
-    [4, "I/O (Extended Mix)", "", ""],
-    [5, "White Garden", "", ""],
-    [6, "STARS", "", ""],
-    [7, "僕の望むセカイ", "", ""],
-    [8, "朧", "", ""],
-    [9, "two digits", "", ""],
-    [10, "dreamin’ feat.Ryu☆ (+VOX Mix)", "", ""],
-    [11, "中華急行 (Extended Mix)", "", ""],
-    [12, "532nm (Extended Mix)", "", ""],
-    [13, "800nm (Extended Mix)", "", ""],
-    [14, "Castle on the Moon (Extended Mix)", "", ""],
-    [15, "Kaleidoscope", "", ""],
-    [16, "Blue Moon", "", ""],
-    [17, "PARADISE LOST (Extended Mix)", "", ""],
-    [18, "NNRT (Extended Mix)", "", ""],
-    [19, "Do it!! Do it!! (Extended Mix)", "", ""],
-    [20, "Outro “Sakura Luminance”", "", ""],
+    [1, "Sakura Luminance", "Ryu☆", ""],
+    [2, "Follow Tomorrow (for future mix rearrange ver.)", "HHH×MM×ST", ""],
+    [3, "Glitter (Starving Trancer Remix) feat. Another Infinity", "Mayumi Morinaga feat. Another Infinity", ""],
+    [4, "I/O (Extended Mix)", "Ryu☆", ""],
+    [5, "White Garden", "Another Infinity feat. Mayumi Morinaga", ""],
+    [6, "STARS", "Another Infinity feat. Mayumi Morinaga", ""],
+    [7, "僕の望むセカイ", "Another Infinity feat. Mayumi Morinaga", ""],
+    [8, "朧", "HHH×MM×ST", ""],
+    [9, "two digits", "Another Infinity feat. Mayumi Morinaga", ""],
+    [10, "dreamin' feat. Ryu☆ (+VOX Mix)", "Mayumi Morinaga", ""],
+    [11, "中華急行 (Extended Mix)", "Ryu☆", ""],
+    [12, "532nm (Extended Mix)", "Ryu☆", ""],
+    [13, "800nm (Extended Mix)", "Another Infinity", ""],
+    [14, "Castle on the Moon (Extended Mix)", "青龍", ""],
+    [15, "Kaleidoscope", "桜龍", ""],
+    [16, "Blue Moon", "青龍", ""],
+    [17, "PARADISE LOST (Extended Mix)", "Ryu☆ Vs. L.E.D.-G", ""],
+    [18, "NNRT (Extended Mix)", "Levaslater", ""],
+    [19, "Do it!! Do it!! (Extended Mix)", "Kraken", ""],
+    [20, "Outro \"Sakura Luminance\"", "Another Infinity", ""],
 ]
-links = ["https://vgmdb.net/album/35996"]
+links = ["https://beta.musicbrainz.org/release/bd5061e4-7ea1-4a35-a9ff-f8ba7d4b35a8", "https://vgmdb.net/album/35996"]
 
 [231]
 catalognumber = "PCCA-03469"
 date = "2011-08-17"
 album = "FAIRY TAIL オープニング&エンディングテーマソングスVol.1"
 tracks = [
-    [1, "Snow fairy", "", ""],
-    [2, "完璧ぐ~のね", "", ""],
-    [3, "S.O.W.センスオブワンダー", "", ""],
-    [4, "追憶メリーゴーランド", "", ""],
-    [5, "ft.", "", ""],
-    [6, "ごめんね、私。", "", ""],
-    [7, "R.P.G.~Rockin' Playing Game", "", ""],
-    [8, "君がいるから", "", ""],
-    [9, "エガオノマホウ", "", ""],
-    [10, "HOLY SHINE", "", ""],
+    [1, "Snow fairy", "FUNKIST", ""],
+    [2, "完璧ぐ〜のね", "渡り廊下走り隊", ""],
+    [3, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
+    [4, "追憶メリーゴーランド", "onelifecrew", ""],
+    [5, "ft.", "FUNKIST", ""],
+    [6, "ごめんね、私。", "南波志帆", ""],
+    [7, "R.P.G.〜Rockin’ Playing Game", "SuG", ""],
+    [8, "君がいるから", "下川みくに", ""],
+    [9, "エガオノマホウ", "MAGIC PARTY", ""],
+    [10, "HOLY SHINE", "Daisy×Daisy", ""],
 ]
-links = ["https://vgmdb.net/album/26704"]
+links = ["https://beta.musicbrainz.org/release/99749316-5add-4723-b4c6-34262b64d76e", "https://vgmdb.net/album/26704"]
 
 [232]
 catalognumber = "PCCA-70312"
 date = "2011-11-30"
 album = "この手伸ばして/数え切れないKiss / Hi-Fi CAMP"
 tracks = [
-    [1, "この手伸ばして", "", ""],
-    [2, "数え切れないKiss", "", ""],
-    [3, "この手伸ばして-Instrumental-", "", ""],
-    [4, "数え切れないKiss-Instrumental-", "", ""],
+    [1, "この手伸ばして", "Hi‐Fi CAMP", ""],
+    [2, "数え切れないKiss", "Hi‐Fi CAMP", ""],
+    [3, "この手伸ばして‐Instrumental‐", "Hi‐Fi CAMP", ""],
+    [4, "数え切れないKiss‐Instrumental‐", "Hi‐Fi CAMP", ""],
 ]
-links = ["https://vgmdb.net/album/30395"]
+links = ["https://beta.musicbrainz.org/release/c622ae6d-22cc-4c07-8f3e-bce89e59109d", "https://vgmdb.net/album/30395"]
 
 [233]
 catalognumber = "ANTCD-31570"
 date = "2019-04-14"
 album = "NO-LIMIT / 大阪☆春夏秋冬"
 tracks = [
-    [1, "NO-LIMIT", "", ""],
-    [2, "NO-LIMIT (TV ver.)", "", ""],
+    [1, "NO‐LIMIT", "大阪☆春夏秋冬", ""],
+    [2, "NO‐LIMIT(TV ver.)", "大阪☆春夏秋冬", ""],
 ]
-links = ["https://vgmdb.net/album/87554"]
+links = ["https://beta.musicbrainz.org/release/06fce11e-74dc-4c4d-82a9-fd60573ddedf", "https://vgmdb.net/album/87554"]
 
 [234]
 catalognumber = "RZCD-86748"
 date = "2019-01-30"
 album = "THROW YA FIST / THE RAMPAGE from EXILE TRIBE"
 tracks = [
-    [1, "THROW YA FIST", "", ""],
-    [2, "DOWN BY LAW", "", ""],
-    [3, "Starlight", "", ""],
-    [4, "THROW YA FIST (Instrumental)", "", ""],
-    [5, "DOWN BY LAW (Instrumental)", "", ""],
-    [6, "Starlight (Instrumental)", "", ""],
-    [7, "HARD HIT (English Version)", "", ""],
+    [1, "THROW YA FIST", "THE RAMPAGE from EXILE TRIBE", ""],
+    [2, "DOWN BY LAW", "THE RAMPAGE from EXILE TRIBE", ""],
+    [3, "Starlight", "THE RAMPAGE from EXILE TRIBE", ""],
+    [4, "THROW YA FIST (Instrumental)", "THE RAMPAGE from EXILE TRIBE", ""],
+    [5, "DOWN BY LAW (Instrumental)", "THE RAMPAGE from EXILE TRIBE", ""],
+    [6, "Starlight (Instrumental)", "THE RAMPAGE from EXILE TRIBE", ""],
+    [7, "HARD HIT (English Version)", "THE RAMPAGE from EXILE TRIBE", ""],
 ]
-links = ["https://vgmdb.net/album/83356"]
+links = ["https://beta.musicbrainz.org/release/6647beba-61fc-40ec-be3a-7cc22ee956e5", "https://vgmdb.net/album/83356"]
 
 [235]
 catalognumber = "AVTD-96828/B~C"
@@ -4148,18 +4148,18 @@ catalognumber = "AVTD-96828/B~C"
 date = "2021-11-10"
 album = "BRiGHT FUTURE / EMPiRE [初回生産限定盤] Vocal Disc 2"
 tracks = [
-    [1, "EMPiRE is COMiNG [BRiGHT FUTURE Ver.]", "", ""],
-    [2, "アカルイミライ [BRiGHT FUTURE Ver.]", "", ""],
-    [3, "Buttocks beat! beat! [BRiGHT FUTURE Ver.]", "", ""],
-    [4, "Black to the dreamlight [BRiGHT FUTURE Ver.]", "", ""],
-    [5, "FOR EXAMPLE?? [BRiGHT FUTURE Ver.]", "", ""],
-    [6, "MAD LOVE [BRiGHT FUTURE Ver.]", "", ""],
-    [7, "EMPiRE originals [BRiGHT FUTURE Ver.]", "", ""],
-    [8, "S.O.S [BRiGHT FUTURE Ver.]", "", ""],
-    [9, "SO i YA [BRiGHT FUTURE Ver.]", "", ""],
-    [10, "ピアス [BRiGHT FUTURE Ver.]", "", ""],
+    [1, "EMPiRE is COMiNG", "EMPiRE", ""],
+    [2, "アカルイミライ", "EMPiRE", ""],
+    [3, "Buttocks beat! beat!", "EMPiRE", ""],
+    [4, "Black to the dreamlight", "EMPiRE", ""],
+    [5, "FOR EXAMPLE??", "EMPiRE", ""],
+    [6, "MAD LOVE", "EMPiRE", ""],
+    [7, "EMPiRE originals", "EMPiRE", ""],
+    [8, "S.O.S", "EMPiRE", ""],
+    [9, "SO i YA", "EMPiRE", ""],
+    [10, "ピアス", "EMPiRE", ""],
 ]
-links = ["https://vgmdb.net/album/114422"]
+links = ["https://beta.musicbrainz.org/release/b8a410f3-cdc4-401c-804d-23919f17d16e", "https://vgmdb.net/album/114422"]
 
 [237]
 catalognumber = "AVTD-96828/B~C"
@@ -4222,34 +4222,34 @@ catalognumber = "EYXA-12280B"
 date = "2020-02-28"
 album = "FAIRY TAIL ファイナルシリーズ ORIGINAL SOUND COLLECTION Vol.2"
 tracks = [
-    [1, "竜の炎", "", ""],
-    [2, "疾風の戦場", "", ""],
-    [3, "スプリガン12", "", ""],
-    [4, "忌まわしき秘密", "", ""],
-    [5, "数奇なるさだめ", "", ""],
-    [6, "エルザ、宿命を斬る", "", ""],
-    [7, "最後の魔法 -Final version-", "", ""],
-    [8, "絆 -Final version-", "", ""],
-    [9, "星霊衣をまとって", "", ""],
-    [10, "ナツとルーシィ", "", ""],
-    [11, "ふざけないで", "", ""],
-    [12, "約束だよ", "", ""],
-    [13, "FAIRY TAIL メインテーマ -Piano Solo version-", "", ""],
-    [14, "不死の呪い", "", ""],
-    [15, "ENDの書", "", ""],
-    [16, "ゼレフ", "", ""],
-    [17, "フェアリーハート", "", ""],
-    [18, "追憶～めざめる魂～ -Final version-", "", ""],
-    [19, "戦火のフィオーレ王国", "", ""],
-    [20, "明日への進撃", "", ""],
-    [21, "破滅の使者", "", ""],
-    [22, "ドラゴンスレイヤー -Final version-", "", ""],
-    [23, "3人のドラゴンスレイヤー -Final version-", "", ""],
-    [24, "ドラゴンフォース -Final version-", "", ""],
-    [25, "永遠の冒険", "", ""],
-    [26, "FAIRY TAIL メインテーマ -Final version-", "", ""],
+    [1, "竜の炎", "高梨康治", ""],
+    [2, "疾風の戦場", "高梨康治", ""],
+    [3, "スプリガン12", "高梨康治", ""],
+    [4, "忌まわしき秘密", "高梨康治", ""],
+    [5, "数奇なるさだめ", "高梨康治", ""],
+    [6, "エルザ、宿命を斬る", "高梨康治", ""],
+    [7, "最後の魔法 -Final version-", "高梨康治", ""],
+    [8, "絆 -Final version-", "高梨康治", ""],
+    [9, "星霊衣をまとって", "高梨康治", ""],
+    [10, "ナツとルーシィ", "高梨康治", ""],
+    [11, "ふざけないで", "高梨康治", ""],
+    [12, "約束だよ", "高梨康治", ""],
+    [13, "FAIRY TAIL メインテーマ -Piano Solo version-", "高梨康治", ""],
+    [14, "不死の呪い", "高梨康治", ""],
+    [15, "ENDの書", "高梨康治", ""],
+    [16, "ゼレフ", "高梨康治", ""],
+    [17, "フェアリーハート", "高梨康治", ""],
+    [18, "追憶～めざめる魂～ -Final version-", "高梨康治", ""],
+    [19, "戦火のフィオーレ王国", "高梨康治", ""],
+    [20, "明日への進撃", "高梨康治", ""],
+    [21, "破滅の使者", "高梨康治", ""],
+    [22, "ドラゴンスレイヤー -Final version-", "高梨康治", ""],
+    [23, "3人のドラゴンスレイヤー -Final version-", "高梨康治", ""],
+    [24, "ドラゴンフォース -Final version-", "高梨康治", ""],
+    [25, "永遠の冒険", "高梨康治", ""],
+    [26, "FAIRY TAIL メインテーマ -Final version-", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/84797"]
+links = ["https://beta.musicbrainz.org/release/03429018-38f6-4a2c-9385-66b6f15ef613", "https://vgmdb.net/album/84797"]
 
 [241]
 catalognumber = ""
@@ -4299,280 +4299,280 @@ catalognumber = "PCCA-03580"
 date = "2012-03-21"
 album = "FAIRY TAIL オープニング&エンディングテーマソングスVol.2"
 tracks = [
-    [1, "Fiesta", "", ""],
-    [2, "Be As One", "", ""],
-    [3, "Evidence", "", ""],
-    [4, "ひとりさみしく", "", ""],
-    [5, "The Rock City Boy", "", ""],
-    [6, "Don't think. Feel!!!", "", ""],
-    [7, "永久のキズナ feat. Another Infinity", "", ""],
-    [8, "この手伸ばして", "", ""],
+    [1, "Fiesta", "+Plus", ""],
+    [2, "Be As One", "w-inds.", ""],
+    [3, "Evidence", "Daisy×Daisy", ""],
+    [4, "ひとりさみしく", "ShaNa", ""],
+    [5, "The Rock City Boy", "JAMIL", ""],
+    [6, "Don’t think. Feel!!!", "アイドリング!!!", ""],
+    [7, "永久のキズナ", "Daisy×Daisy feat. Another Infinity", ""],
+    [8, "この手伸ばして", "Hi‐Fi CAMP", ""],
 ]
-links = ["https://vgmdb.net/album/31270"]
+links = ["https://beta.musicbrainz.org/release/cf27382a-64d1-4280-ba4a-f10bbbd77ba2", "https://vgmdb.net/album/31270"]
 
 [245]
 catalognumber = "PCCA-03249"
 date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG"
 tracks = [
-    [1, "R.P.G.~Rockin' Playing Game", "", ""],
-    [2, "don't stop da muzic", "", ""],
-    [3, "16bit HERO 3", "", ""],
+    [1, "R.P.G.～Rockin' Playing Game", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", ""],
+    [3, "16bit HERO3", "SuG", ""],
 ]
-links = ["https://vgmdb.net/album/45851"]
+links = ["https://beta.musicbrainz.org/release/09e05d79-980d-49c5-b2d5-58c36bac63db", "https://vgmdb.net/album/45851"]
 
 [246]
 catalognumber = "AVCD-96312"
 date = "2019-07-17"
 album = "HERE COMES THE SOUND! / Miyuu"
 tracks = [
-    [1, "Exceed", "", ""],
-    [2, "Go away", "", ""],
-    [3, "Find the way", "", ""],
-    [4, "You got the love", "", ""],
-    [5, "closer again", "", ""],
-    [6, "Try", "", ""],
+    [1, "Exceed", "Miyuu", ""],
+    [2, "Go away", "Miyuu", ""],
+    [3, "Find the way", "Miyuu", ""],
+    [4, "You got the love", "Miyuu", ""],
+    [5, "closer again", "Miyuu", ""],
+    [6, "Try", "Miyuu", ""],
 ]
-links = ["https://vgmdb.net/album/90172"]
+links = ["https://beta.musicbrainz.org/release/b380551b-6756-48d2-b740-cf7e03b9a8bf", "https://vgmdb.net/album/90172"]
 
 [247]
 catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ", "", ""],
-    [2, "エルザのテーマ", "", ""],
-    [3, "魔法発動", "", ""],
-    [4, "ドラゴンスレイヤー", "", ""],
-    [5, "楽園の塔", "", ""],
-    [6, "闇ギルド", "", ""],
-    [7, "ミラジェーンのテーマ", "", ""],
-    [8, "にぎやかな街", "", ""],
-    [9, "妖精の尻尾", "", ""],
-    [10, "星霊魔法", "", ""],
-    [11, "ルーシィがんばる", "", ""],
-    [12, "グレイのテーマ", "", ""],
-    [13, "ナツのテーマ", "", ""],
-    [14, "宿命", "", ""],
-    [15, "忍び寄る影", "", ""],
-    [16, "ラクサス暴走", "", ""],
-    [17, "フェアリーロウ", "", ""],
-    [18, "仲間たち", "", ""],
-    [19, "故郷", "", ""],
-    [20, "ルーシィのテーマ", "", ""],
-    [21, "氷の戦塵", "", ""],
-    [22, "幽鬼", "", ""],
-    [23, "闇よ、つどえ!", "", ""],
-    [24, "アイゼンヴァルト", "", ""],
-    [25, "暗黒の魔導士", "", ""],
-    [26, "サラマンダー", "", ""],
-    [27, "氷刃舞う", "", ""],
-    [28, "魔法対戦", "", ""],
-    [29, "悲しき過去", "", ""],
-    [30, "悪魔デリオラ", "", ""],
-    [31, "ティターニアの鎧", "", ""],
-    [32, "燃え上がる拳", "", ""],
-    [33, "最後の魔法", "", ""],
-    [34, "紅蓮の怒り", "", ""],
-    [35, "威風堂々 -Rock ver.-", "", ""],
-    [36, "FAIRY TAIL メインテーマ -Slow ver.-", "", ""],
+    [1, "FAIRY TAIL メインテーマ", "高梨康治", ""],
+    [2, "エルザのテーマ", "高梨康治", ""],
+    [3, "魔法発動", "高梨康治", ""],
+    [4, "ドラゴンスレイヤー", "高梨康治", ""],
+    [5, "楽園の塔", "高梨康治", ""],
+    [6, "闇ギルド", "高梨康治", ""],
+    [7, "ミラジェーンのテーマ", "高梨康治", ""],
+    [8, "にぎやかな街", "高梨康治", ""],
+    [9, "妖精の尻尾", "高梨康治", ""],
+    [10, "星霊魔法", "高梨康治", ""],
+    [11, "ルーシィがんばる", "高梨康治", ""],
+    [12, "グレイのテーマ", "高梨康治", ""],
+    [13, "ナツのテーマ", "高梨康治", ""],
+    [14, "宿命", "高梨康治", ""],
+    [15, "忍び寄る影", "高梨康治", ""],
+    [16, "ラクサス暴走", "高梨康治", ""],
+    [17, "フェアリーロウ", "高梨康治", ""],
+    [18, "仲間たち", "高梨康治", ""],
+    [19, "故郷", "高梨康治", ""],
+    [20, "ルーシィのテーマ", "高梨康治", ""],
+    [21, "氷の戦塵", "高梨康治", ""],
+    [22, "幽鬼", "高梨康治", ""],
+    [23, "闇よ、つどえ!", "高梨康治", ""],
+    [24, "アイゼンヴァルト", "高梨康治", ""],
+    [25, "暗黒の魔導士", "高梨康治", ""],
+    [26, "サラマンダー", "高梨康治", ""],
+    [27, "氷刃舞う", "高梨康治", ""],
+    [28, "魔法対戦", "高梨康治", ""],
+    [29, "悲しき過去", "高梨康治", ""],
+    [30, "悪魔デリオラ", "高梨康治", ""],
+    [31, "ティターニアの鎧", "高梨康治", ""],
+    [32, "燃え上がる拳", "高梨康治", ""],
+    [33, "最後の魔法", "高梨康治", ""],
+    [34, "紅蓮の怒り", "高梨康治", ""],
+    [35, "威風堂々 (Rock ver.)", "高梨康治", ""],
+    [36, "FAIRY TAIL メインテーマ (Slow ver.)", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/118739"]
+links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
 [248]
 catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Vocal, Remaster"
 tracks = [
-    [1, "鉄竜 -くろがね-", "", ""],
-    [2, "獅子の星霊", "", ""],
-    [3, "邪悪の槌音", "", ""],
-    [4, "追憶 ～めざめる魂～", "", ""],
-    [5, "新しい友情", "", ""],
-    [6, "ハッピーのテーマ", "", ""],
-    [7, "妖しい魔導士", "", ""],
-    [8, "マカロフ", "", ""],
-    [9, "ファンタジア", "", ""],
-    [10, "旅立つ者へ", "", ""],
-    [11, "ファントムロード", "", ""],
-    [12, "魔道の挑戦者", "", ""],
-    [13, "破邪の戦風", "", ""],
-    [14, "悲壮", "", ""],
-    [15, "FAIRY TAIL メインテーマ -Piano ver.-", "", ""],
-    [16, "ナツの魔法1 ～火竜の咆哮～", "", ""],
-    [17, "ナツの魔法2 ～火竜の劍角～", "", ""],
-    [18, "ナツの魔法3 ～紅蓮火竜拳～", "", ""],
-    [19, "グレイの魔法1 ～アイスメイク～", "", ""],
-    [20, "グレイの魔法2 ～アイスゲイザー～", "", ""],
-    [21, "グレイの魔法3 ～氷刃・七連舞～", "", ""],
-    [22, "エルザの魔法1 ～金剛の鎧～", "", ""],
-    [23, "エルザの魔法2 ～天輪の鎧～", "", ""],
-    [24, "エルザの魔法3 ～煉獄の鎧～", "", ""],
-    [25, "冥き残光", "", ""],
-    [26, "星霊王", "", ""],
-    [27, "楽園の塔 ～ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "", ""],
-    [28, "解き放たれし力", "", ""],
-    [29, "絆", "", ""],
-    [30, "追憶 ～哀しき魂～", "", ""],
-    [31, "魔水晶", "", ""],
-    [32, "サタンソウル", "", ""],
-    [33, "退魔激戦", "", ""],
-    [34, "永遠の魔法", "", ""],
-    [35, "フィオーレ王国", "", ""],
-    [36, "FAIRY TAIL メインテーマ -METAL ver.-", "", ""],
+    [1, "鉄竜 -くろがね-", "高梨康治", ""],
+    [2, "獅子の星霊", "高梨康治", ""],
+    [3, "邪悪の槌音", "高梨康治", ""],
+    [4, "追憶 ～めざめる魂～", "高梨康治", ""],
+    [5, "新しい友情", "高梨康治", ""],
+    [6, "ハッピーのテーマ", "高梨康治", ""],
+    [7, "妖しい魔導士", "高梨康治", ""],
+    [8, "マカロフ", "高梨康治", ""],
+    [9, "ファンタジア", "水谷広実", ""],
+    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", ""],
+    [11, "ファントムロード", "高梨康治", ""],
+    [12, "魔道の挑戦者", "高梨康治", ""],
+    [13, "破邪の戦風", "高梨康治", ""],
+    [14, "悲壮", "高梨康治", ""],
+    [15, "FAIRY TAIL メインテーマ (Piano ver.)", "高梨康治", ""],
+    [16, "ナツの魔法1 ～火竜の咆哮～", "高梨康治", ""],
+    [17, "ナツの魔法2 ～火竜の劍角～", "高梨康治", ""],
+    [18, "ナツの魔法3 ～紅蓮火竜拳～", "高梨康治", ""],
+    [19, "グレイの魔法1 ～アイスメイク～", "高梨康治", ""],
+    [20, "グレイの魔法2 ～アイスゲイザー～", "高梨康治", ""],
+    [21, "グレイの魔法3 ～氷刃・七連舞～", "高梨康治", ""],
+    [22, "エルザの魔法1 ～金剛の鎧～", "高梨康治", ""],
+    [23, "エルザの魔法2 ～天輪の鎧～", "高梨康治", ""],
+    [24, "エルザの魔法3 ～煉獄の鎧～", "高梨康治", ""],
+    [25, "冥き残光", "高梨康治", ""],
+    [26, "星霊王", "高梨康治", ""],
+    [27, "楽園の塔 ～ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", ""],
+    [28, "解き放たれし力", "高梨康治", ""],
+    [29, "絆", "高梨康治", ""],
+    [30, "追憶 ～哀しき魂～", "高梨康治", ""],
+    [31, "魔水晶", "高梨康治", ""],
+    [32, "サタンソウル", "高梨康治", ""],
+    [33, "退魔激戦", "高梨康治", ""],
+    [34, "永遠の魔法", "高梨康治", ""],
+    [35, "フィオーレ王国", "高梨康治", ""],
+    [36, "FAIRY TAIL メインテーマ (METAL ver.)", "藤澤健至", ""],
 ]
-links = ["https://vgmdb.net/album/118739"]
+links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
 [249]
 catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 3"
 tracks = [
-    [1, "魔法境の旅人", "", ""],
-    [2, "3人のドラゴンスレイヤー", "", ""],
-    [3, "疾風迅雷", "", ""],
-    [4, "鋼の白熱戦", "", ""],
-    [5, "連合軍、集結!", "", ""],
-    [6, "シャルルの告白", "", ""],
-    [7, "六魔将軍現る!", "", ""],
-    [8, "群雄相打つ", "", ""],
-    [9, "ミッドナイト目覚める", "", ""],
-    [10, "毒竜のコブラ", "", ""],
-    [11, "ニルヴァーナの光", "", ""],
-    [12, "平行世界エドラス", "", ""],
-    [13, "浮遊島の民", "", ""],
-    [14, "ミストガンのテーマ", "", ""],
-    [15, "天空の巫女", "", ""],
-    [16, "翼あるもの", "", ""],
-    [17, "超亜空間魔法アニマ", "", ""],
-    [18, "エクシードたち", "", ""],
-    [19, "消えゆく魔力", "", ""],
-    [20, "アイスボーイ", "", ""],
-    [21, "天使殲滅作戦", "", ""],
-    [22, "天使の苦悩", "", ""],
-    [23, "パンサーリリー", "", ""],
-    [24, "竜鎖砲", "", ""],
-    [25, "激闘魔法陣", "", ""],
-    [26, "星霊合戦", "", ""],
-    [27, "正義の力", "", ""],
-    [28, "エルザ vs. エルザ", "", ""],
-    [29, "ドラゴンフォース", "", ""],
-    [30, "古の魔法", "", ""],
+    [1, "魔法境の旅人", "高梨康治", ""],
+    [2, "3人のドラゴンスレイヤー", "高梨康治", ""],
+    [3, "疾風迅雷", "高梨康治", ""],
+    [4, "鋼の白熱戦", "高梨康治", ""],
+    [5, "連合軍、集結!", "高梨康治", ""],
+    [6, "シャルルの告白", "高梨康治", ""],
+    [7, "六魔将軍現る!", "高梨康治", ""],
+    [8, "群雄相打つ", "高梨康治", ""],
+    [9, "ミッドナイト目覚める", "高梨康治", ""],
+    [10, "毒竜のコブラ", "高梨康治", ""],
+    [11, "ニルヴァーナの光", "高梨康治", ""],
+    [12, "平行世界エドラス", "高梨康治", ""],
+    [13, "浮遊島の民", "高梨康治", ""],
+    [14, "ミストガンのテーマ", "高梨康治", ""],
+    [15, "天空の巫女", "高梨康治", ""],
+    [16, "翼あるもの", "高梨康治", ""],
+    [17, "超亜空間魔法アニマ", "高梨康治", ""],
+    [18, "エクシードたち", "高梨康治", ""],
+    [19, "消えゆく魔力", "高梨康治", ""],
+    [20, "アイスボーイ", "高梨康治", ""],
+    [21, "天使殲滅作戦", "高梨康治", ""],
+    [22, "天使の苦悩", "高梨康治", ""],
+    [23, "パンサーリリー", "高梨康治", ""],
+    [24, "竜鎖砲", "高梨康治", ""],
+    [25, "激闘魔法陣", "高梨康治", ""],
+    [26, "星霊合戦", "高梨康治", ""],
+    [27, "正義の力", "高梨康治", ""],
+    [28, "エルザ vs. エルザ", "高梨康治", ""],
+    [29, "ドラゴンフォース", "高梨康治", ""],
+    [30, "古の魔法", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/118739"]
+links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
 [250]
 catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 4"
 tracks = [
-    [1, "雷炎竜吼える", "", ""],
-    [2, "煉獄の七眷属", "", ""],
-    [3, "黒魔導士の邪心", "", ""],
-    [4, "胸に秘めし想い", "", ""],
-    [5, "愛しきものへ", "", ""],
-    [6, "S級魔導士昇格試験", "", ""],
-    [7, "天狼島", "", ""],
-    [8, "悪魔の心臓(グリモアハート)", "", ""],
-    [9, "黒き炎", "", ""],
-    [10, "火竜 vs. 炎神", "", ""],
-    [11, "過ぎし日の光", "", ""],
-    [12, "メイビスの墓", "", ""],
-    [13, "大魔導士ブルーノート", "", ""],
-    [14, "無敵のアズマ", "", ""],
-    [15, "ゼレフの憂鬱", "", ""],
-    [16, "魔女の罪(クリムソルシエール)", "", ""],
-    [17, "ウルティアとグレイ", "", ""],
-    [18, "妖精の輝き", "", ""],
-    [19, "天狼樹", "", ""],
-    [20, "マカロフ vs. ハデス", "", ""],
-    [21, "破滅への序曲", "", ""],
-    [22, "最強最後の死闘", "", ""],
-    [23, "ベストパートナー", "", ""],
-    [24, "FAIRY TAIL メインテーマ -天狼島 ver.-", "", ""],
-    [25, "剣咬の虎(セイバートゥース)", "", ""],
-    [26, "第三世代ドラゴンスレイヤー", "", ""],
-    [27, "白竜と影竜", "", ""],
-    [28, "時の迷宮", "", ""],
-    [29, "はるかなる約束の地", "", ""],
-    [30, "大魔闘演武", "", ""],
-    [31, "誇りを賭けて", "", ""],
-    [32, "ゲームの始まり", "", ""],
-    [33, "強敵現る", "", ""],
-    [34, "魔法競技戦", "", ""],
-    [35, "勝機の一撃", "", ""],
-    [36, "ルーシィと星霊の力", "", ""],
-    [37, "暗躍する者たち", "", ""],
-    [38, "ウルティア", "", ""],
-    [39, "ジュビア", "", ""],
-    [40, "ギルドの誇り", "", ""],
-    [41, "フロッシュとレクター", "", ""],
-    [42, "シャルルの悪夢", "", ""],
-    [43, "エクリプス計画", "", ""],
-    [44, "われらフェアリーテイル", "", ""],
-    [45, "最凶ライバル登場", "", ""],
-    [46, "頂上を目指せ!", "", ""],
-    [47, "練達の魔法戦", "", ""],
-    [48, "終わりなき攻防", "", ""],
-    [49, "魔道の覇者", "", ""],
+    [1, "雷炎竜吼える", "高梨康治", ""],
+    [2, "煉獄の七眷属", "高梨康治", ""],
+    [3, "黒魔導士の邪心", "高梨康治", ""],
+    [4, "胸に秘めし想い", "高梨康治", ""],
+    [5, "愛しきものへ", "高梨康治", ""],
+    [6, "S級魔導士昇格試験", "高梨康治", ""],
+    [7, "天狼島", "高梨康治", ""],
+    [8, "悪魔の心臓(グリモアハート)", "高梨康治", ""],
+    [9, "黒き炎", "高梨康治", ""],
+    [10, "火竜 vs. 炎神", "高梨康治", ""],
+    [11, "過ぎし日の光", "高梨康治", ""],
+    [12, "メイビスの墓", "高梨康治", ""],
+    [13, "大魔導士ブルーノート", "高梨康治", ""],
+    [14, "無敵のアズマ", "高梨康治", ""],
+    [15, "ゼレフの憂鬱", "高梨康治", ""],
+    [16, "魔女の罪(クリムソルシエール)", "高梨康治", ""],
+    [17, "ウルティアとグレイ", "高梨康治", ""],
+    [18, "妖精の輝き", "高梨康治", ""],
+    [19, "天狼樹", "高梨康治", ""],
+    [20, "マカロフ vs. ハデス", "高梨康治", ""],
+    [21, "破滅への序曲", "高梨康治", ""],
+    [22, "最強最後の死闘", "高梨康治", ""],
+    [23, "ベストパートナー", "高梨康治", ""],
+    [24, "FAIRY TAIL メインテーマ (天狼島 ver.)", "高梨康治", ""],
+    [25, "剣咬の虎(セイバートゥース)", "高梨康治", ""],
+    [26, "第三世代ドラゴンスレイヤー", "高梨康治", ""],
+    [27, "白竜と影竜", "高梨康治", ""],
+    [28, "時の迷宮", "高梨康治", ""],
+    [29, "はるかなる約束の地", "高梨康治", ""],
+    [30, "大魔闘演武", "高梨康治", ""],
+    [31, "誇りを賭けて", "高梨康治", ""],
+    [32, "ゲームの始まり", "高梨康治", ""],
+    [33, "強敵現る", "高梨康治", ""],
+    [34, "魔法競技戦", "高梨康治", ""],
+    [35, "勝機の一撃", "高梨康治", ""],
+    [36, "ルーシィと星霊の力", "高梨康治", ""],
+    [37, "暗躍する者たち", "高梨康治", ""],
+    [38, "ウルティア", "高梨康治", ""],
+    [39, "ジュビア", "高梨康治", ""],
+    [40, "ギルドの誇り", "高梨康治", ""],
+    [41, "フロッシュとレクター", "高梨康治", ""],
+    [42, "シャルルの悪夢", "高梨康治", ""],
+    [43, "エクリプス計画", "高梨康治", ""],
+    [44, "われらフェアリーテイル", "高梨康治", ""],
+    [45, "最凶ライバル登場", "高梨康治", ""],
+    [46, "頂上を目指せ!", "高梨康治", ""],
+    [47, "練達の魔法戦", "高梨康治", ""],
+    [48, "終わりなき攻防", "高梨康治", ""],
+    [49, "魔道の覇者", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/118739"]
+links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
 [251]
 catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 5"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ -Rock ver.-", "", ""],
-    [2, "フィオーレ王国 -Short ver.-", "", ""],
-    [3, "プロローグ", "", ""],
-    [4, "ショートピース・メドレー1(サブタイトル～アイキャッチA・B～次回予告)", "", ""],
-    [5, "ジークレインのたくらみ", "", ""],
-    [6, "ジェラールのテーマ", "", ""],
-    [7, "バラム同盟", "", ""],
-    [8, "ネイキッドマミーの挑戦", "", ""],
-    [9, "ナツとルーシィ", "", ""],
-    [10, "乗り物は苦手なんだ", "", ""],
-    [11, "ロキのテーマ", "", ""],
-    [12, "トライメンズ登場", "", ""],
-    [13, "可愛いシャルル", "", ""],
-    [14, "ウェンディのテーマ", "", ""],
-    [15, "ジェラールふたたび", "", ""],
-    [16, "ショートピース・メドレー2(プロローグ2～アイキャッチ2AB～次回予告2)", "", ""],
-    [17, "超反転魔法ニルヴァーナ", "", ""],
-    [18, "ブレインの計略", "", ""],
-    [19, "ゼロの覚醒", "", ""],
-    [20, "たった一人のためのギルド", "", ""],
-    [21, "ギルダーツの帰還", "", ""],
-    [22, "ガジルの猫さがし", "", ""],
-    [23, "謎の顔のミストガン", "", ""],
-    [24, "妖精狩り", "", ""],
-    [25, "シャルルとハッピーの秘密", "", ""],
-    [26, "鳴動する大地", "", ""],
-    [27, "突破口を開け", "", ""],
-    [28, "砂塵巻く激突", "", ""],
-    [29, "古の魔法 -Piano Solo ver.-", "", ""],
-    [30, "FAIRY TAIL メインテーマ -2009 1st Demo-", "", ""],
+    [1, "FAIRY TAIL メインテーマ (Rock ver.)", "高梨康治", ""],
+    [2, "フィオーレ王国 (Short ver.)", "高梨康治", ""],
+    [3, "プロローグ", "高梨康治", ""],
+    [4, "ショートピース・メドレー1(サブタイトル～アイキャッチA・B～次回予告)", "高梨康治", ""],
+    [5, "ジークレインのたくらみ", "高梨康治", ""],
+    [6, "ジェラールのテーマ", "高梨康治", ""],
+    [7, "バラム同盟", "高梨康治", ""],
+    [8, "ネイキッドマミーの挑戦", "高梨康治", ""],
+    [9, "ナツとルーシィ", "高梨康治", ""],
+    [10, "乗り物は苦手なんだ", "高梨康治", ""],
+    [11, "ロキのテーマ", "高梨康治", ""],
+    [12, "トライメンズ登場", "高梨康治", ""],
+    [13, "可愛いシャルル", "高梨康治", ""],
+    [14, "ウェンディのテーマ", "高梨康治", ""],
+    [15, "ジェラールふたたび", "高梨康治", ""],
+    [16, "ショートピース・メドレー2(プロローグ2～アイキャッチ2AB～次回予告2)", "高梨康治", ""],
+    [17, "超反転魔法ニルヴァーナ", "高梨康治", ""],
+    [18, "ブレインの計略", "高梨康治", ""],
+    [19, "ゼロの覚醒", "高梨康治", ""],
+    [20, "たった一人のためのギルド", "高梨康治", ""],
+    [21, "ギルダーツの帰還", "高梨康治", ""],
+    [22, "ガジルの猫さがし", "高梨康治", ""],
+    [23, "謎の顔のミストガン", "高梨康治", ""],
+    [24, "妖精狩り", "高梨康治", ""],
+    [25, "シャルルとハッピーの秘密", "高梨康治", ""],
+    [26, "鳴動する大地", "高梨康治", ""],
+    [27, "突破口を開け", "高梨康治", ""],
+    [28, "砂塵巻く激突", "高梨康治", ""],
+    [29, "古の魔法 (Piano Solo ver.)", "高梨康治", ""],
+    [30, "FAIRY TAIL メインテーマ -2009 1st Demo-", "高梨康治", ""],
 ]
-links = ["https://vgmdb.net/album/118739"]
+links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
 [252]
 catalognumber = "ANTCD-17136"
 date = "2016-01-27"
 album = "明日を鳴らせ / シシド・カフカ"
 tracks = [
-    [1, "明日を鳴らせ", "", ""],
+    [1, "明日を鳴らせ", "シシド・カフカ", ""],
 ]
-links = ["https://vgmdb.net/album/131697"]
+links = ["https://beta.musicbrainz.org/release/388762a1-4e65-46a0-8efb-e7248e81d2b6", "https://vgmdb.net/album/131697"]
 
 [253]
 catalognumber = "RZCD-59585"
 date = "2014-05-14"
 album = "Tomorrows / BREATHE"
 tracks = [
-    [1, "Tomorrows", "", ""],
-    [2, "君と彼と僕と彼女と", "", ""],
-    [3, "Tomorrows [Instrumental]", "", ""],
-    [4, "君と彼と僕と彼女と [Instrumental]", "", ""],
+    [1, "Tomorrows", "BREATHE", ""],
+    [2, "君と彼と僕と彼女と", "BREATHE", ""],
+    [3, "Tomorrows [Instrumental]", "BREATHE", ""],
+    [4, "君と彼と僕と彼女と [Instrumental]", "BREATHE", ""],
 ]
-links = ["https://vgmdb.net/album/45806"]
+links = ["https://beta.musicbrainz.org/release/67abcdfe-aed9-4aac-b60b-16b58aa3ca32", "https://vgmdb.net/album/45806"]

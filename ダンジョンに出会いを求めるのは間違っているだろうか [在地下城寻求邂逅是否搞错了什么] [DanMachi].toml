@@ -3,87 +3,87 @@ catalognumber = "1000601594"
 date = "2016-07-06"
 album = "az you like... / 井口裕香 [初回限定盤] Disc 1 (CD) [1000601594-CD]"
 tracks = [
-    [1, "shakedown", "", ""],
-    [2, "GREEN ROAD", "", ""],
-    [3, "Hey World", "", ""],
-    [4, "JOY", "", ""],
-    [5, "SUGAR LEISURE", "", ""],
-    [6, "三日月", "", ""],
-    [7, "リトルチャームファング", "", ""],
-    [8, "ピリオドのない雨", "", ""],
-    [9, "変わらない強さ", "", ""],
-    [10, "Alf Laylah Party", "", ""],
-    [11, "YOU!!!", "", ""],
-    [12, "おやすみなさい", "", ""],
+    [1, "shakedown", "井口裕香", ""],
+    [2, "GREEN ROAD", "井口裕香", ""],
+    [3, "Hey World", "井口裕香", ""],
+    [4, "JOY", "井口裕香", ""],
+    [5, "SUGAR LEISURE", "井口裕香", ""],
+    [6, "三日月", "井口裕香", ""],
+    [7, "リトルチャームファング", "井口裕香", ""],
+    [8, "ピリオドのない雨", "井口裕香", ""],
+    [9, "変わらない強さ", "井口裕香", ""],
+    [10, "Alf Laylah Party", "井口裕香", ""],
+    [11, "YOU!!!", "井口裕香", ""],
+    [12, "おやすみなさい", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/60286"]
+links = ["https://beta.musicbrainz.org/release/75f93b75-9864-4b4d-b96b-bc3b1063e913", "https://vgmdb.net/album/60286"]
 
 [2]
 catalognumber = "1000601594"
 date = "2016-07-06"
 album = "az you like... / 井口裕香 [初回限定盤] Disc 2 (DVD) [1000601594-SD]"
 tracks = [
-    [1, "Iguchi Yuka \"az you like...\" Special Movie", "", ""],
-    [2, "TV-SPOT", "", ""],
+    [1, "メイキング映像", "井口裕香", ""],
+    [2, "企画映像", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/60286"]
+links = ["https://beta.musicbrainz.org/release/75f93b75-9864-4b4d-b96b-bc3b1063e913", "https://vgmdb.net/album/60286"]
 
 [3]
 catalognumber = "1000781059-CD"
 date = "2021-02-26"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか III オリジナルサウンドトラック 2"
 tracks = [
-    [1, "異種族交流", "", ""],
-    [2, "ダンジョンにて", "", ""],
-    [3, "ヴィーヴルの処遇", "", ""],
-    [4, "悲劇なる再会", "", ""],
-    [5, "変異", "", ""],
-    [6, "苦渋なる決断", "", ""],
-    [7, "報復への誓い", "", ""],
-    [8, "異類婚姻譚", "", ""],
-    [9, "ヘルメスの懸念", "", ""],
-    [10, "ダイダロス前哨戦", "", ""],
-    [11, "神のたばかり", "", ""],
-    [12, "ウイーネとの別れ", "", ""],
-    [13, "葛藤のベル・クラネル", "", ""],
-    [14, "愚者", "", ""],
-    [15, "アステリオス", "", ""],
-    [16, "英雄回帰", "", ""],
+    [1, "異種族交流", "井内啓二", ""],
+    [2, "ダンジョンにて", "井内啓二", ""],
+    [3, "ヴィーヴルの処遇", "井内啓二", ""],
+    [4, "悲劇なる再会", "井内啓二", ""],
+    [5, "変異", "井内啓二", ""],
+    [6, "苦渋なる決断", "井内啓二", ""],
+    [7, "報復への誓い", "井内啓二", ""],
+    [8, "異類婚姻譚", "井内啓二", ""],
+    [9, "ヘルメスの懸念", "井内啓二", ""],
+    [10, "ダイダロス前哨戦", "井内啓二", ""],
+    [11, "神のたばかり", "井内啓二", ""],
+    [12, "ウイーネとの別れ", "井内啓二", ""],
+    [13, "葛藤のベル・クラネル", "井内啓二", ""],
+    [14, "愚者", "井内啓二", ""],
+    [15, "アステリオス", "井内啓二", ""],
+    [16, "英雄回帰", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/104551"]
+links = ["https://beta.musicbrainz.org/release/820aac0b-e4a0-4b65-8a08-0ec023cb56ba", "https://vgmdb.net/album/104551"]
 
 [4]
 catalognumber = "ZMCZ-15832"
 date = "2023-02-22"
 album = "切り傷 / sajou no hana"
 tracks = [
-    [1, "切り傷", "", ""],
-    [2, "メーテルリンク", "", ""],
-    [3, "切り傷 (Instrumental)", "", ""],
-    [4, "メーテルリンク (Instrumental)", "", ""],
+    [1, "切り傷", "sajou no hana", ""],
+    [2, "メーテルリンク", "sajou no hana", ""],
+    [3, "切り傷 (instrumental)", "sajou no hana", ""],
+    [4, "メーテルリンク (instrumental)", "sajou no hana", ""],
 ]
-links = ["https://vgmdb.net/album/125143"]
+links = ["https://beta.musicbrainz.org/release/428c90bd-571c-42f4-8c63-c2bb5341bf90", "https://vgmdb.net/album/125143"]
 
 [5]
 catalognumber = "1000571496-CD"
 date = "2015-10-28"
 album = "FAMILIA MYTH CHARACTER SONG 2"
 tracks = [
-    [1, "目覚めの風", "", ""],
-    [2, "REALIZE～始まりのとき～", "", ""],
+    [1, "目覚めの風", "アイズ[CV大西沙織]", ""],
+    [2, "REALIZE～始まりのとき～", "リリルカ[CV内田真礼]", ""],
 ]
-links = ["https://vgmdb.net/album/52206"]
+links = ["https://beta.musicbrainz.org/release/095e4741-23d9-400d-bd2f-c7ab6b9935ef", "https://vgmdb.net/album/52206"]
 
 [6]
 catalognumber = "1000748235-CD"
 date = "2020-01-29"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか II キャラクターソング"
 tracks = [
-    [1, "トロピカッ☆バケーション", "", ""],
-    [2, "トロピカッ☆バケーション (Short Size)", "", ""],
-    [3, "トロピカッ☆バケーション (instrumental)", "", ""],
+    [1, "トロピカッ☆バケーション", "アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
+    [2, "トロピカッ☆バケーション (Short Size)", "アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
+    [3, "トロピカッ☆バケーション (Instrumental)", "アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
 ]
-links = ["https://vgmdb.net/album/90928"]
+links = ["https://beta.musicbrainz.org/release/b5257989-1fb6-4b4d-a95e-2a6339eab094", "https://vgmdb.net/album/90928"]
 
 [7]
 catalognumber = ""
@@ -115,35 +115,35 @@ catalognumber = "1000746062"
 date = "2019-07-17"
 album = "HELLO to DREAM / 井口裕香 [アニメ盤] Disc 1 (CD) [1000746062-CD]"
 tracks = [
-    [1, "HELLO to DREAM", "", ""],
-    [2, "たったひとつの", "", ""],
-    [3, "HELLO to DREAM (TV Size)", "", ""],
-    [4, "HELLO to DREAM (Instrumental)", "", ""],
-    [5, "たったひとつの (Instrumental)", "", ""],
+    [1, "HELLO to DREAM", "井口裕香", ""],
+    [2, "たったひとつの", "井口裕香", ""],
+    [3, "HELLO to DREAM (TV size)", "井口裕香", ""],
+    [4, "HELLO to DREAM (Instrumental)", "井口裕香", ""],
+    [5, "たったひとつの (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/86880"]
+links = ["https://beta.musicbrainz.org/release/f5950ab9-6e31-4239-b33b-adc33945d2cf", "https://vgmdb.net/album/86880"]
 
 [10]
 catalognumber = "1000746062"
 date = "2019-07-17"
 album = "HELLO to DREAM / 井口裕香 [アニメ盤] Disc 2 (DVD) [1000746062-SD]"
 tracks = [
-    [1, "井口裕香スペシャルインタビュー", "", ""],
-    [2, "アニメ映像を使用したMusic Video", "", ""],
+    [1, "井口裕香スペシャルインタビュー", "井口裕香", ""],
+    [2, "アニメ映像を使用したMusic Video", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/86880"]
+links = ["https://beta.musicbrainz.org/release/f5950ab9-6e31-4239-b33b-adc33945d2cf", "https://vgmdb.net/album/86880"]
 
 [11]
 catalognumber = "1000739884"
 date = "2019-02-13"
 album = "おなじ空の下で / 井口裕香"
 tracks = [
-    [1, "おなじ空の下で", "", ""],
-    [2, "Treasure", "", ""],
-    [3, "おなじ空の下で (Instrumental)", "", ""],
-    [4, "Treasure (Instrumental)", "", ""],
+    [1, "おなじ空の下で", "井口裕香", ""],
+    [2, "Treasure", "井口裕香", ""],
+    [3, "おなじ空の下で (Instrumental)", "井口裕香", ""],
+    [4, "Treasure (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/82413"]
+links = ["https://beta.musicbrainz.org/release/3d7aafb6-ffc6-4aa4-8a8d-3c37d6d252db", "https://vgmdb.net/album/82413"]
 
 [12]
 catalognumber = "1000571493-CD"
@@ -160,80 +160,80 @@ catalognumber = "1000827911"
 date = "2023-05-24"
 album = "白と花束 / 早見沙織"
 tracks = [
-    [1, "Ordinary", "", ""],
-    [2, "Abyss", "", ""],
-    [3, "残滓", "", ""],
-    [4, "ここでここで", "", ""],
-    [5, "Tear of Will", "", ""],
-    [6, "Awake", "", ""],
-    [7, "フロレセンス", "", ""],
-    [8, "透明シンガー", "", ""],
-    [9, "エメラルド", "", ""],
-    [10, "Guide", "", ""],
-    [11, "視紅", "", ""],
-    [12, "はじまりの歌", "", ""],
+    [1, "Ordinary", "早見沙織", ""],
+    [2, "Abyss", "早見沙織", ""],
+    [3, "残滓", "早見沙織", ""],
+    [4, "ここでここで", "早見沙織", ""],
+    [5, "Tear of Will", "早見沙織", ""],
+    [6, "Awake", "早見沙織", ""],
+    [7, "フロレセンス", "早見沙織", ""],
+    [8, "透明シンガー", "早見沙織", ""],
+    [9, "エメラルド", "早見沙織", ""],
+    [10, "Guide", "早見沙織", ""],
+    [11, "視紅", "早見沙織", ""],
+    [12, "はじまりの歌", "早見沙織", ""],
 ]
-links = ["https://vgmdb.net/album/129086"]
+links = ["https://beta.musicbrainz.org/release/6c73f7a8-40ec-40f3-a49a-d09c02bf247b", "https://vgmdb.net/album/129086"]
 
 [14]
 catalognumber = "FPBD-0552"
 date = "2019-11-28"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか インフィニト・コンバーテ オリジナルサウンドトラック"
 tracks = [
-    [1, "The first page of the...", "", ""],
-    [2, "Newcomer,Newcolor", "", ""],
-    [3, "Trickster's troupe", "", ""],
-    [4, "Is the order?", "", ""],
-    [5, "Behold Dungeon eyes", "", ""],
-    [6, "Life In Labyrinth City Orario", "", ""],
-    [7, "Talk over face to face", "", ""],
-    [8, "Emotional scars", "", ""],
-    [9, "Creep over", "", ""],
-    [10, "Unless and until", "", ""],
-    [11, "Time to attack", "", ""],
-    [12, "road of trails", "", ""],
-    [13, "drollery", "", ""],
-    [14, "Nobody can not keep secrets", "", ""],
-    [15, "feels like home", "", ""],
-    [16, "Upper layer", "", ""],
-    [17, "Middle stratum", "", ""],
-    [18, "Underlayer", "", ""],
-    [19, "Out of the crisis", "", ""],
-    [20, "appear in sight", "", ""],
-    [21, "repel shudder", "", ""],
-    [22, "Chamber of Horrors", "", ""],
-    [23, "sine qua non", "", ""],
-    [24, "flamecrown", "", ""],
-    [25, "aquathrone", "", ""],
-    [26, "forestring", "", ""],
-    [27, "soilsword", "", ""],
-    [28, "radiancescepter", "", ""],
-    [29, "darknessorb", "", ""],
+    [1, "The first page of the...", "中島久雄", ""],
+    [2, "Newcomer,Newcolor", "中島久雄", ""],
+    [3, "Trickster's troupe", "中島久雄", ""],
+    [4, "Is the order?", "中島久雄", ""],
+    [5, "Behold Dungeon eyes", "中島久雄", ""],
+    [6, "Life In Labyrinth City Orario", "中島久雄", ""],
+    [7, "Talk over face to face", "中島久雄", ""],
+    [8, "Emotional scars", "中島久雄", ""],
+    [9, "Creep over", "中島久雄", ""],
+    [10, "Unless and until", "中島久雄", ""],
+    [11, "Time to attack", "中島久雄", ""],
+    [12, "road of trails", "中島久雄", ""],
+    [13, "drollery", "中島久雄", ""],
+    [14, "Nobody can not keep secrets", "中島久雄", ""],
+    [15, "feels like home", "中島久雄", ""],
+    [16, "Upper layer", "中島久雄", ""],
+    [17, "Middle stratum", "中島久雄", ""],
+    [18, "Underlayer", "中島久雄", ""],
+    [19, "Out of the crisis", "中島久雄", ""],
+    [20, "appear in sight", "中島久雄", ""],
+    [21, "repel shudder", "中島久雄", ""],
+    [22, "Chamber of Horrors", "中島久雄", ""],
+    [23, "sine qua non", "中島久雄", ""],
+    [24, "flamecrown", "中島久雄", ""],
+    [25, "aquathrone", "中島久雄", ""],
+    [26, "forestring", "中島久雄", ""],
+    [27, "soilsword", "中島久雄", ""],
+    [28, "radiancescepter", "中島久雄", ""],
+    [29, "darknessorb", "中島久雄", ""],
 ]
-links = ["https://vgmdb.net/album/72729"]
+links = ["https://beta.musicbrainz.org/release/c22d8193-1aa0-4a0a-8f94-e8dd43cb188d", "https://vgmdb.net/album/72729"]
 
 [15]
 catalognumber = "1000739883"
 date = "2019-02-13"
 album = "おなじ空の下で / 井口裕香 [アーティスト盤] Disc 1 (CD) [1000739883-CD]"
 tracks = [
-    [1, "おなじ空の下で", "", ""],
-    [2, "Treasure", "", ""],
-    [3, "おなじ空の下で (Instrumental)", "", ""],
-    [4, "Treasure (Instrumental)", "", ""],
+    [1, "おなじ空の下で", "井口裕香", ""],
+    [2, "Treasure", "井口裕香", ""],
+    [3, "おなじ空の下で (Instrumental)", "井口裕香", ""],
+    [4, "Treasure (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/82412"]
+links = ["https://beta.musicbrainz.org/release/3ac69928-e934-4877-92e7-d216c0b9aadf", "https://vgmdb.net/album/82412"]
 
 [16]
 catalognumber = "1000739883"
 date = "2019-02-13"
 album = "おなじ空の下で / 井口裕香 [アーティスト盤] Disc 2 (DVD) [1000739883-SD]"
 tracks = [
-    [1, "\"おなじ空の下で\" Music Video", "", ""],
-    [2, "Behind the Scenes of \"おなじ空の下で\"", "", ""],
-    [3, "TV-SPOT", "", ""],
+    [1, "おなじ空の下で (Music Video)", "井口裕香", ""],
+    [2, "Behind the Scenes of “おなじ空の下で”", "井口裕香", ""],
+    [3, "TV-SPOT", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/82412"]
+links = ["https://beta.musicbrainz.org/release/3ac69928-e934-4877-92e7-d216c0b9aadf", "https://vgmdb.net/album/82412"]
 
 [17]
 catalognumber = ""
@@ -247,77 +247,77 @@ catalognumber = "1000746065"
 date = "2019-07-24"
 album = "ささやかな祝祭 / sora tob sakana"
 tracks = [
-    [1, "ささやかな祝祭", "", ""],
-    [2, "ささやかな祝祭-TV Size-", "", ""],
-    [3, "ささやかな祝祭-パソコン音楽クラブRemix-", "", ""],
+    [1, "ささやかな祝祭", "sora tob sakana", ""],
+    [2, "ささやかな祝祭 -TV Size-", "sora tob sakana", ""],
+    [3, "ささやかな祝祭 -パソコン音楽クラブ Remix-", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/87018"]
+links = ["https://beta.musicbrainz.org/release/4fdf5cf0-c012-4667-91cb-1f11999dbc31", "https://vgmdb.net/album/87018"]
 
 [19]
 catalognumber = "1000746063"
 date = "2019-07-17"
 album = "HELLO to DREAM / 井口裕香"
 tracks = [
-    [1, "HELLO to DREAM", "", ""],
-    [2, "We are together!!", "", ""],
-    [3, "HELLO to DREAM (Instrumental)", "", ""],
-    [4, "We are together!! (Instrumental)", "", ""],
+    [1, "HELLO to DREAM", "井口裕香", ""],
+    [2, "We are together!!", "井口裕香", ""],
+    [3, "HELLO to DREAM (Instrumental)", "井口裕香", ""],
+    [4, "We are together!! (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/86879"]
+links = ["https://beta.musicbrainz.org/release/fbc23d14-2ff8-4d0a-b65e-04a41e8b7382", "https://vgmdb.net/album/86879"]
 
 [20]
 catalognumber = "1000644988"
 date = "2017-05-24"
 album = "day by day / 鹿乃 [アニメ盤] Disc 1 (CD) [1000644988-CD]"
 tracks = [
-    [1, "day by day", "", ""],
-    [2, "day by day -TV size-", "", ""],
-    [3, "day by day -TEKINA remix-", "", ""],
-    [4, "day by day -Instrumental-", "", ""],
+    [1, "day by day", "鹿乃", ""],
+    [2, "day by day -TV size-", "鹿乃", ""],
+    [3, "day by day -TEKINA Remix-", "鹿乃", ""],
+    [4, "day by day -instrumental-", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/65686"]
+links = ["https://beta.musicbrainz.org/release/cafc2128-97b9-4538-b209-cc2ad30d9eba", "https://vgmdb.net/album/65686"]
 
 [21]
 catalognumber = "1000644988"
 date = "2017-05-24"
 album = "day by day / 鹿乃 [アニメ盤] Disc 2 (DVD) [1000644988-SD]"
 tracks = [
-    [1, "TVアニメ「ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝」ノンテロップエンディング", "", ""],
+    [1, "TVアニメ「ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝」ノンテロップエンディング映像", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/65686"]
+links = ["https://beta.musicbrainz.org/release/cafc2128-97b9-4538-b209-cc2ad30d9eba", "https://vgmdb.net/album/65686"]
 
 [22]
 catalognumber = "1000601595"
 date = "2016-07-06"
 album = "az you like... / 井口裕香"
 tracks = [
-    [1, "shakedown", "", ""],
-    [2, "GREEN ROAD", "", ""],
-    [3, "Hey World", "", ""],
-    [4, "JOY", "", ""],
-    [5, "SUGAR LEISURE", "", ""],
-    [6, "三日月", "", ""],
-    [7, "リトルチャームファング", "", ""],
-    [8, "ピリオドのない雨", "", ""],
-    [9, "変わらない強さ", "", ""],
-    [10, "Alf Laylah Party", "", ""],
-    [11, "YOU!!!", "", ""],
-    [12, "おやすみなさい", "", ""],
+    [1, "shakedown", "井口裕香", ""],
+    [2, "GREEN ROAD", "井口裕香", ""],
+    [3, "Hey World", "井口裕香", ""],
+    [4, "JOY", "井口裕香", ""],
+    [5, "SUGAR LEISURE", "井口裕香", ""],
+    [6, "三日月", "井口裕香", ""],
+    [7, "リトルチャームファング", "井口裕香", ""],
+    [8, "ピリオドのない雨", "井口裕香", ""],
+    [9, "変わらない強さ", "井口裕香", ""],
+    [10, "Alf Laylah Party", "井口裕香", ""],
+    [11, "YOU!!!", "井口裕香", ""],
+    [12, "おやすみなさい", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/60284"]
+links = ["https://beta.musicbrainz.org/release/6ea99f22-0fc9-48d4-a3c8-87d19ab714e9", "https://vgmdb.net/album/60284"]
 
 [23]
 catalognumber = "1000564509"
 date = "2015-04-29"
 album = "Hey World / 井口裕香 [アニメ盤] Disc 1 (CD) [1000564509-CD]"
 tracks = [
-    [1, "Hey World", "", ""],
-    [2, "約束 ～僕の詩～", "", ""],
-    [3, "Hey World (TV size)", "", ""],
-    [4, "Hey World (Instrumental)", "", ""],
-    [5, "約束 ～僕の詩～ (Instrumental)", "", ""],
+    [1, "Hey World", "井口裕香", ""],
+    [2, "約束 〜僕の詩〜", "井口裕香", ""],
+    [3, "Hey World (TV size)", "井口裕香", ""],
+    [4, "Hey World (instrumental)", "井口裕香", ""],
+    [5, "約束 〜僕の詩〜 (instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/50830"]
+links = ["https://beta.musicbrainz.org/release/8c4faa70-d780-43e6-b948-42cb3e88f275", "https://vgmdb.net/album/50830"]
 
 [24]
 catalognumber = "1000564509"
@@ -344,30 +344,30 @@ catalognumber = "1000601596"
 date = "2016-07-06"
 album = "az you like... / 井口裕香 [DVD付通常盤] Disc 1 (CD)"
 tracks = [
-    [1, "shakedown", "", ""],
-    [2, "GREEN ROAD", "", ""],
-    [3, "Hey World", "", ""],
-    [4, "JOY", "", ""],
-    [5, "SUGAR LEISURE", "", ""],
-    [6, "三日月", "", ""],
-    [7, "リトルチャームファング", "", ""],
-    [8, "ピリオドのない雨", "", ""],
-    [9, "変わらない強さ", "", ""],
-    [10, "Alf Laylah Party", "", ""],
-    [11, "YOU!!!", "", ""],
-    [12, "おやすみなさい", "", ""],
+    [1, "shakedown", "井口裕香", ""],
+    [2, "GREEN ROAD", "井口裕香", ""],
+    [3, "Hey World", "井口裕香", ""],
+    [4, "JOY", "井口裕香", ""],
+    [5, "SUGAR LEISURE", "井口裕香", ""],
+    [6, "三日月", "井口裕香", ""],
+    [7, "リトルチャームファング", "井口裕香", ""],
+    [8, "ピリオドのない雨", "井口裕香", ""],
+    [9, "変わらない強さ", "井口裕香", ""],
+    [10, "Alf Laylah Party", "井口裕香", ""],
+    [11, "YOU!!!", "井口裕香", ""],
+    [12, "おやすみなさい", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/109750"]
+links = ["https://beta.musicbrainz.org/release/6c7ffff9-c07c-42f5-8ec7-a7567bc0ed30", "https://vgmdb.net/album/109750"]
 
 [27]
 catalognumber = "1000601596"
 date = "2016-07-06"
 album = "az you like... / 井口裕香 [DVD付通常盤] Disc 2 (DVD)"
 tracks = [
-    [1, "Iguchi Yuka \"az you like...\" Special Movie", "", ""],
-    [2, "TV-SPOT", "", ""],
+    [1, "メイキング映像", "井口裕香", ""],
+    [2, "企画映像", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/109750"]
+links = ["https://beta.musicbrainz.org/release/6c7ffff9-c07c-42f5-8ec7-a7567bc0ed30", "https://vgmdb.net/album/109750"]
 
 [28]
 catalognumber = "1000781060-CD"
@@ -384,28 +384,28 @@ catalognumber = "1000748233-CD"
 date = "2019-10-30"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか II オリジナルサウンドトラック 1"
 tracks = [
-    [1, "ヘスティア・ファミリアの日常", "", ""],
-    [2, "負債の女神", "", ""],
-    [3, "オラリオの市場にて", "", ""],
-    [4, "酒場での騒乱", "", ""],
-    [5, "困り果てたベル", "", ""],
-    [6, "神の宴", "", ""],
-    [7, "Dance with Aiz Wallenstein", "", ""],
-    [8, "ヘルメスからの提案", "", ""],
-    [9, "アポロン・ファミリアの企み", "", ""],
-    [10, "アポロンからの申し出", "", ""],
-    [11, "アポロン・ファミリア襲来", "", ""],
-    [12, "ヒュアキントスによる蹂躙", "", ""],
-    [13, "対峙", "", ""],
-    [14, "リリの恐怖", "", ""],
-    [15, "妖艶なる女神", "", ""],
-    [16, "ベルの優しさ", "", ""],
-    [17, "ようこそヘスティア・ファミリアへ", "", ""],
-    [18, "ウォーゲーム開戦", "", ""],
-    [19, "抗争", "", ""],
-    [20, "仲間との絆", "", ""],
+    [1, "ヘスティア・ファミリアの日常", "井内啓二", ""],
+    [2, "負債の女神", "井内啓二", ""],
+    [3, "オラリオの市場にて", "井内啓二", ""],
+    [4, "酒場での騒乱", "井内啓二", ""],
+    [5, "困り果てたベル", "井内啓二", ""],
+    [6, "神の宴", "井内啓二", ""],
+    [7, "Dance with Aiz Wallenstein", "井内啓二", ""],
+    [8, "ヘルメスからの提案", "井内啓二", ""],
+    [9, "アポロン・ファミリアの企み", "井内啓二", ""],
+    [10, "アポロンからの申し出", "井内啓二", ""],
+    [11, "アポロン・ファミリア襲来", "井内啓二", ""],
+    [12, "ヒュアキントスによる蹂躙", "井内啓二", ""],
+    [13, "対峙", "井内啓二", ""],
+    [14, "リリの恐怖", "井内啓二", ""],
+    [15, "妖艶なる女神", "井内啓二", ""],
+    [16, "ベルの優しさ", "井内啓二", ""],
+    [17, "ようこそヘスティア・ファミリアへ", "井内啓二", ""],
+    [18, "ウォーゲーム開戦", "井内啓二", ""],
+    [19, "抗争", "井内啓二", ""],
+    [20, "仲間との絆", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/88622"]
+links = ["https://beta.musicbrainz.org/release/eca29f9c-fd82-4770-927f-05b41dddbcf9", "https://vgmdb.net/album/88622"]
 
 [30]
 catalognumber = "ASTKC-1002"
@@ -421,27 +421,27 @@ catalognumber = "1000629294"
 date = "2016-11-30"
 album = "luminescence Q.E.D. / 分島花音 [初回生産限定盤] Vocal Disc 1"
 tracks = [
-    [1, "Unbalance by Me", "", ""],
-    [2, "RIGHT LIGHT RISE", "", ""],
-    [3, "the BEAST can't BE STOpped", "", ""],
-    [4, "odette", "", ""],
-    [5, "平凡な僕", "", ""],
-    [6, "ノットフォーセール・フォッシル", "", ""],
-    [7, "君はソレイユ", "", ""],
-    [8, "Drink Drunk Music", "", ""],
-    [9, "Love your enemies", "", ""],
-    [10, "luminescence Q.E.D.", "", ""],
+    [1, "Unbalance by Me", "分島花音", ""],
+    [2, "RIGHT LIGHT RISE", "分島花音", ""],
+    [3, "the BEAST can't BE STOpped", "分島花音", ""],
+    [4, "odette", "分島花音", ""],
+    [5, "平凡な僕", "分島花音", ""],
+    [6, "ノットフォーセール・フォッシル", "分島花音", ""],
+    [7, "君はソレイユ", "分島花音", ""],
+    [8, "Drink Drunk Music", "分島花音", ""],
+    [9, "Love your enemies", "分島花音", ""],
+    [10, "luminescence Q.E.D.", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/60831"]
+links = ["https://beta.musicbrainz.org/release/1090a5d7-aefc-4f31-a257-1d63fc33e092", "https://vgmdb.net/album/60831"]
 
 [32]
 catalognumber = "1000629294"
 date = "2016-11-30"
 album = "luminescence Q.E.D. / 分島花音 [初回生産限定盤] Vocal Disc 2"
 tracks = [
-    [1, "luminescence Q.E.D.ストーリーCD", "", ""],
+    [1, "luminescence Q.E.D.ストーリーCD", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/60831"]
+links = ["https://beta.musicbrainz.org/release/1090a5d7-aefc-4f31-a257-1d63fc33e092", "https://vgmdb.net/album/60831"]
 
 [33]
 catalognumber = "1000629294"
@@ -466,11 +466,11 @@ catalognumber = "1000823757"
 date = "2023-01-06"
 album = "視紅 / 早見沙織"
 tracks = [
-    [1, "視紅", "", ""],
-    [2, "視紅 (Instrumental)", "", ""],
-    [3, "視紅 (TV EDIT)", "", ""],
+    [1, "視紅", "早見沙織", ""],
+    [2, "視紅 (Instrumental)", "早見沙織", ""],
+    [3, "視紅 (TV EDIT)", "早見沙織", ""],
 ]
-links = ["https://vgmdb.net/album/125668"]
+links = ["https://beta.musicbrainz.org/release/a92c0ba1-62ae-4f4f-ad30-f2bfb04cff5d", "https://vgmdb.net/album/125668"]
 
 [36]
 catalognumber = "1000647755-CD"
@@ -487,36 +487,36 @@ catalognumber = "MTCD-0016"
 date = "2015-12-31"
 album = "Anime Song Orchestra V Arrangement"
 tracks = [
-    [1, "Hey World", "", ""],
-    [2, "grilletto", "", ""],
-    [3, "僕らは今のなかで", "", ""],
-    [4, "シリウス", "", ""],
-    [5, "聖闘士神話 ～ソルジャードリーム～", "", ""],
-    [6, "私の町はメリー・ゴーランド", "", ""],
-    [7, "DREAM SOLISTER", "", ""],
-    [8, "Star!!", "", ""],
-    [9, "シルシ", "", ""],
-    [10, "ring your bell", "", ""],
+    [1, "Hey World （ダンジョンに出会いを求めるのは間違っているだろうか「」より）", "taste", ""],
+    [2, "grilletto （「魔法科高校の劣等生」より）", "taste", ""],
+    [3, "僕らは今のなかで （「ラブライブ！」より）", "taste", ""],
+    [4, "シリウス （「キルラキル」より）", "taste", ""],
+    [5, "聖闘士神話 ～ソルジャードリーム～ （「聖闘士星矢」より）", "taste", ""],
+    [6, "私の町はメリー・ゴーランド （「グリム名作劇場」より）", "taste", ""],
+    [7, "DREAM SOLISTER （「響け！ユーフォニアム」より）", "taste", ""],
+    [8, "Star!! （「アイドルマスター シンデレラガールズ」より）", "taste", ""],
+    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste", ""],
+    [10, "ring your bell （「Fate/stay night [Unlimited Blade Works]」より）", "taste", ""],
 ]
-links = ["https://vgmdb.net/album/69054"]
+links = ["https://beta.musicbrainz.org/release/fcb38131-1e21-456d-a498-290f25c34a83", "https://vgmdb.net/album/69054"]
 
 [38]
 catalognumber = "MTCD-0016"
 date = "2015-12-31"
 album = "Anime Song Orchestra V Vocal"
 tracks = [
-    [1, "Hey World", "", ""],
-    [2, "grilletto", "", ""],
-    [3, "僕らは今のなかで", "", ""],
-    [4, "シリウス", "", ""],
-    [5, "聖闘士神話 ～ソルジャードリーム～", "", ""],
-    [6, "私の町はメリー・ゴーランド", "", ""],
-    [7, "DREAM SOLISTER", "", ""],
-    [8, "Star!!", "", ""],
-    [9, "シルシ", "", ""],
-    [10, "ring your bell", "", ""],
+    [1, "Hey World （ダンジョンに出会いを求めるのは間違っているだろうか「」より）", "taste / 雪村しずか", ""],
+    [2, "grilletto （「魔法科高校の劣等生」より）", "taste / シグ", ""],
+    [3, "僕らは今のなかで （「ラブライブ！」より）", "taste / みずき・あんてば・りと", ""],
+    [4, "シリウス （「キルラキル」より）", "taste / 雪村しずか", ""],
+    [5, "聖闘士神話 ～ソルジャードリーム～ （「聖闘士星矢」より）", "taste / キンゲの人", ""],
+    [6, "私の町はメリー・ゴーランド （「グリム名作劇場」より）", "taste / 雪村しずか", ""],
+    [7, "DREAM SOLISTER （「響け！ユーフォニアム」より）", "taste / 雪村しずか", ""],
+    [8, "Star!! （「アイドルマスター シンデレラガールズ」より）", "taste / みずき・あんてば・りと", ""],
+    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste / 雪村しずか", ""],
+    [10, "ring your bell （「Fate/stay night [Unlimited Blade Works]」より）", "taste / utatane,", ""],
 ]
-links = ["https://vgmdb.net/album/69054"]
+links = ["https://beta.musicbrainz.org/release/fcb38131-1e21-456d-a498-290f25c34a83", "https://vgmdb.net/album/69054"]
 
 [39]
 catalognumber = "1000647751-CD"
@@ -533,28 +533,28 @@ catalognumber = "1000571498-CD"
 date = "2015-12-23"
 album = "FAMILIA MYTH DUET CHARACTER SONGS"
 tracks = [
-    [1, "君と続く物語", "", ""],
-    [2, "廻る想いと今", "", ""],
+    [1, "君と続く物語", "ベル[CV松岡禎丞]、ヘスティア[CV水瀬いのり]", ""],
+    [2, "廻る想いと今", "ベル[CV松岡禎丞]、アイズ[CV大西沙織]", ""],
 ]
-links = ["https://vgmdb.net/album/52208"]
+links = ["https://beta.musicbrainz.org/release/eadc1939-8bcd-48ef-b68e-137a8f8ff82b", "https://vgmdb.net/album/52208"]
 
 [41]
 catalognumber = "1000629178"
 date = "2016-11-30"
 album = "luminescence Q.E.D. / 分島花音"
 tracks = [
-    [1, "Unbalance by Me", "", ""],
-    [2, "RIGHT LIGHT RISE", "", ""],
-    [3, "the BEAST can't BE STOpped", "", ""],
-    [4, "odette", "", ""],
-    [5, "平凡な僕", "", ""],
-    [6, "ノットフォーセール・フォッシル", "", ""],
-    [7, "君はソレイユ", "", ""],
-    [8, "Drink Drunk Music", "", ""],
-    [9, "Love your enemies", "", ""],
-    [10, "luminescence Q.E.D.", "", ""],
+    [1, "Unbalance by Me", "分島花音", ""],
+    [2, "RIGHT LIGHT RISE", "分島花音", ""],
+    [3, "the BEAST can't BE STOpped", "分島花音", ""],
+    [4, "odette", "分島花音", ""],
+    [5, "平凡な僕", "分島花音", ""],
+    [6, "ノットフォーセール・フォッシル", "分島花音", ""],
+    [7, "君はソレイユ", "分島花音", ""],
+    [8, "Drink Drunk Music", "分島花音", ""],
+    [9, "Love your enemies", "分島花音", ""],
+    [10, "luminescence Q.E.D.", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/60829"]
+links = ["https://beta.musicbrainz.org/release/d887588b-9556-4007-9a0b-37d2cceed55b", "https://vgmdb.net/album/60829"]
 
 [42]
 catalognumber = ""
@@ -568,61 +568,61 @@ catalognumber = "1000770970"
 date = "2020-12-23"
 album = "Evergreen / sajou no hana"
 tracks = [
-    [1, "Evergreen", "", ""],
-    [2, "繭色", "", ""],
-    [3, "極夜", "", ""],
+    [1, "Evergreen", "sajou no hana", ""],
+    [2, "繭色", "sajou no hana", ""],
+    [3, "極夜", "sajou no hana", ""],
 ]
-links = ["https://vgmdb.net/album/104548"]
+links = ["https://beta.musicbrainz.org/release/9f707956-de20-4c00-b94a-9a05b361c321", "https://vgmdb.net/album/104548"]
 
 [44]
 catalognumber = "1000571492-CD"
 date = "2015-07-29"
 album = "FAMILIA MYTH CHARACTER SONG 1"
 tracks = [
-    [1, "冒険はこの手に", "", ""],
-    [2, "君色Everyday", "", ""],
+    [1, "冒険はこの手に", "ベル[CV松岡禎丞]", ""],
+    [2, "君色Everyday", "ヘスティア[CV水瀬いのり]", ""],
 ]
-links = ["https://vgmdb.net/album/52203"]
+links = ["https://beta.musicbrainz.org/release/409221d8-0567-4222-bea3-6ad5b52c87b6", "https://vgmdb.net/album/52203"]
 
 [45]
 catalognumber = "MHCL-30569"
 date = "2019-02-13"
 album = "DECADE / 分島花音"
 tracks = [
-    [1, "still doll", "", ""],
-    [2, "砂のお城", "", ""],
-    [3, "サクラメイキュウ", "", ""],
-    [4, "signal", "", ""],
-    [5, "killy killy JOKER", "", ""],
-    [6, "world's end, girl's rondo", "", ""],
-    [7, "ツキナミ", "", ""],
-    [8, "RIGHT LIGHT RISE", "", ""],
-    [9, "君はソレイユ", "", ""],
-    [10, "Love your enemies", "", ""],
-    [11, "REUNION", "", ""],
-    [12, "fragment ornament", "", ""],
+    [1, "still doll", "分島花音", ""],
+    [2, "砂のお城", "分島花音", ""],
+    [3, "サクラメイキュウ", "分島花音", ""],
+    [4, "signal", "分島花音", ""],
+    [5, "killy killy JOKER", "分島花音", ""],
+    [6, "world's end, girl's rondo", "分島花音", ""],
+    [7, "ツキナミ", "分島花音", ""],
+    [8, "RIGHT LIGHT RISE", "分島花音", ""],
+    [9, "君はソレイユ", "分島花音", ""],
+    [10, "Love your enemies", "分島花音", ""],
+    [11, "REUNION", "分島花音", ""],
+    [12, "fragment ornament", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/82140"]
+links = ["https://beta.musicbrainz.org/release/400d782b-b099-4a8a-82de-f5da50f27445", "https://vgmdb.net/album/82140"]
 
 [46]
 catalognumber = "1000827906"
 date = "2023-05-24"
 album = "白と花束 / 早見沙織 [CD+Blu-ray盤] Disc 1 (CD) [1000827906-CD]"
 tracks = [
-    [1, "Ordinary", "", ""],
-    [2, "Abyss", "", ""],
-    [3, "残滓", "", ""],
-    [4, "ここでここで", "", ""],
-    [5, "Tear of Will", "", ""],
-    [6, "Awake", "", ""],
-    [7, "フロレセンス", "", ""],
-    [8, "透明シンガー", "", ""],
-    [9, "エメラルド", "", ""],
-    [10, "Guide", "", ""],
-    [11, "視紅", "", ""],
-    [12, "はじまりの歌", "", ""],
+    [1, "Ordinary", "早見沙織", ""],
+    [2, "Abyss", "早見沙織", ""],
+    [3, "残滓", "早見沙織", ""],
+    [4, "ここでここで", "早見沙織", ""],
+    [5, "Tear of Will", "早見沙織", ""],
+    [6, "Awake", "早見沙織", ""],
+    [7, "フロレセンス", "早見沙織", ""],
+    [8, "透明シンガー", "早見沙織", ""],
+    [9, "エメラルド", "早見沙織", ""],
+    [10, "Guide", "早見沙織", ""],
+    [11, "視紅", "早見沙織", ""],
+    [12, "はじまりの歌", "早見沙織", ""],
 ]
-links = ["https://vgmdb.net/album/129087"]
+links = ["https://beta.musicbrainz.org/release/1444bf5d-92bb-4e1f-a137-d63b888bf2e3", "https://vgmdb.net/album/129087"]
 
 [47]
 catalognumber = "1000827906"
@@ -648,22 +648,22 @@ catalognumber = "1000644987"
 date = "2017-05-24"
 album = "day by day / 鹿乃 [アーティスト盤] Disc 1 (CD) [1000644987-CD]"
 tracks = [
-    [1, "day by day", "", ""],
-    [2, "29-Q", "", ""],
-    [3, "day by day -Instrumental-", "", ""],
-    [4, "29-Q -Instrumental-", "", ""],
+    [1, "day by day", "鹿乃", ""],
+    [2, "29-Q", "鹿乃", ""],
+    [3, "day by day -instrumental-", "鹿乃", ""],
+    [4, "29-Q -instrumental-", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/65687"]
+links = ["https://beta.musicbrainz.org/release/99498ece-a9cc-43bf-98d8-9b0e9d9f23c4", "https://vgmdb.net/album/65687"]
 
 [50]
 catalognumber = "1000644987"
 date = "2017-05-24"
 album = "day by day / 鹿乃 [アーティスト盤] Disc 2 (DVD) [1000644987-SD]"
 tracks = [
-    [1, "day by day MUSIC VIDEO", "", ""],
-    [2, "29-Q MUSIC VIDEO", "", ""],
+    [1, "day by day (MUSIC VIDEO)", "鹿乃", ""],
+    [2, "29-Q (MUSIC VIDEO)", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/65687"]
+links = ["https://beta.musicbrainz.org/release/99498ece-a9cc-43bf-98d8-9b0e9d9f23c4", "https://vgmdb.net/album/65687"]
 
 [51]
 catalognumber = ""
@@ -679,46 +679,46 @@ catalognumber = "1000744562-CD-A~B"
 date = "2019-07-31"
 album = "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢- オリジナルサウンドトラック & オリジナルドラマ Original Soundtrack"
 tracks = [
-    [1, "Overture", "", ""],
-    [2, "神月祭にて", "", ""],
-    [3, "ヘルメスの客寄せ", "", ""],
-    [4, "冒険者達の腕試し", "", ""],
-    [5, "旧友との再会", "", ""],
-    [6, "女神の嫉妬", "", ""],
-    [7, "アルテミスからの依頼", "", ""],
-    [8, "旅の支度", "", ""],
-    [9, "Flying Theme", "", ""],
-    [10, "遭遇戦", "", ""],
-    [11, "アルテミスの失態", "", ""],
-    [12, "咎の先触", "", ""],
-    [13, "死にゆく森", "", ""],
-    [14, "援軍到着", "", ""],
-    [15, "男たちの聖戦", "", ""],
-    [16, "慈愛を、君に", "", ""],
-    [17, "月鏡", "", ""],
-    [18, "戦火の跫音", "", ""],
-    [19, "悪意との邂逅", "", ""],
-    [20, "アルテミスの神威", "", ""],
-    [21, "英雄への試練", "", ""],
-    [22, "神殺しの大罪", "", ""],
-    [23, "防衛戦", "", ""],
-    [24, "オリオンの矢", "", ""],
-    [25, "今生の別れ", "", ""],
-    [26, "一万年分の恋", "", ""],
-    [27, "epilogue", "", ""],
+    [1, "Overture", "井内啓二", ""],
+    [2, "神月祭にて", "井内啓二", ""],
+    [3, "ヘルメスの客寄せ", "井内啓二", ""],
+    [4, "冒険者達の腕試し", "井内啓二", ""],
+    [5, "旧友との再会", "井内啓二", ""],
+    [6, "女神の嫉妬", "井内啓二", ""],
+    [7, "アルテミスからの依頼", "井内啓二", ""],
+    [8, "旅の支度", "井内啓二", ""],
+    [9, "Flying Theme", "井内啓二", ""],
+    [10, "遭遇戦", "井内啓二", ""],
+    [11, "アルテミスの失態", "井内啓二", ""],
+    [12, "咎の先触", "井内啓二", ""],
+    [13, "死にゆく森", "井内啓二", ""],
+    [14, "援軍到着", "井内啓二", ""],
+    [15, "男たちの聖戦", "井内啓二", ""],
+    [16, "慈愛を、君に", "井内啓二", ""],
+    [17, "月鏡", "sana", ""],
+    [18, "戦火の跫音", "井内啓二", ""],
+    [19, "悪意との邂逅", "井内啓二", ""],
+    [20, "アルテミスの神威", "井内啓二", ""],
+    [21, "英雄への試練", "井内啓二", ""],
+    [22, "神殺しの大罪", "井内啓二", ""],
+    [23, "防衛戦", "井内啓二", ""],
+    [24, "オリオンの矢", "井内啓二", ""],
+    [25, "今生の別れ", "井内啓二", ""],
+    [26, "一万年分の恋", "井内啓二", ""],
+    [27, "epilogue", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/86714"]
+links = ["https://beta.musicbrainz.org/release/dd72e05f-8d59-4d54-9971-ec63ecbd8f95", "https://vgmdb.net/album/86714"]
 
 [53]
 catalognumber = "1000744562-CD-A~B"
 date = "2019-07-31"
 album = "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢- オリジナルサウンドトラック & オリジナルドラマ Drama"
 tracks = [
-    [1, "「色褪せぬ旅路」1章", "", ""],
-    [2, "「色褪せぬ旅路」2章", "", ""],
-    [3, "「色褪せぬ旅路」3章", "", ""],
+    [1, "「色褪せぬ旅路」1章", "[dialogue]", ""],
+    [2, "「色褪せぬ旅路」2章", "[dialogue]", ""],
+    [3, "「色褪せぬ旅路」3章", "[dialogue]", ""],
 ]
-links = ["https://vgmdb.net/album/86714"]
+links = ["https://beta.musicbrainz.org/release/dd72e05f-8d59-4d54-9971-ec63ecbd8f95", "https://vgmdb.net/album/86714"]
 
 [54]
 catalognumber = ""
@@ -732,128 +732,128 @@ catalognumber = "1000563969"
 date = "2015-04-29"
 album = "Hey World / 井口裕香"
 tracks = [
-    [1, "Hey World", "", ""],
-    [2, "指先ファンタジー", "", ""],
-    [3, "Hey World (Instrumental)", "", ""],
-    [4, "指先ファンタジー (Instrumental)", "", ""],
+    [1, "Hey World", "井口裕香", ""],
+    [2, "指先ファンタジー", "井口裕香", ""],
+    [3, "Hey World (instrumental)", "井口裕香", ""],
+    [4, "指先ファンタジー (instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/50829"]
+links = ["https://beta.musicbrainz.org/release/c2e0eb7e-8b9f-487b-9dd6-ad24376590cb", "https://vgmdb.net/album/50829"]
 
 [56]
 catalognumber = "GNCA-1575"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [DVD付初回限定盤] Vocal"
 tracks = [
-    [1, "信号", "", ""],
-    [2, "クラウチングスタート", "", ""],
-    [3, "夜空を全部", "", ""],
-    [4, "魔法の言葉", "", ""],
-    [5, "広告の街", "", ""],
-    [6, "まぶしい", "", ""],
-    [7, "Brand New Blue", "", ""],
-    [8, "New Stranger", "", ""],
-    [9, "夜間飛行", "", ""],
-    [10, "ribbon", "", ""],
-    [11, "untie", "", ""],
+    [1, "信号", "sora tob sakana", ""],
+    [2, "クラウチングスタート", "sora tob sakana", ""],
+    [3, "夜空を全部", "sora tob sakana", ""],
+    [4, "魔法の言葉", "sora tob sakana", ""],
+    [5, "広告の街", "sora tob sakana", ""],
+    [6, "まぶしい", "sora tob sakana", ""],
+    [7, "Brand New Blue", "sora tob sakana", ""],
+    [8, "New Stranger", "sora tob sakana", ""],
+    [9, "夜間飛行", "sora tob sakana", ""],
+    [10, "ribbon", "sora tob sakana", ""],
+    [11, "untie", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99789"]
+links = ["https://beta.musicbrainz.org/release/df09ac06-57ff-48ca-b896-655cf03194dd", "https://vgmdb.net/album/99789"]
 
 [57]
 catalognumber = "GNCA-1575"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [DVD付初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "node", "", ""],
-    [2, "ribbon", "", ""],
-    [3, "秘密", "", ""],
-    [4, "鋭角な日常", "", ""],
-    [5, "Summer Plan", "", ""],
-    [6, "Brand New Blue", "", ""],
-    [7, "嘘つき達に暇はない", "", ""],
-    [8, "発見", "", ""],
-    [9, "ありふれた群青", "", ""],
-    [10, "ささやかな祝祭", "", ""],
-    [11, "flash", "", ""],
-    [12, "New Stranger", "", ""],
-    [13, "広告の街", "", ""],
-    [14, "silver", "", ""],
-    [15, "knock!knock!", "", ""],
-    [16, "Lighthouse", "", ""],
-    [17, "夜空を全部", "", ""],
-    [18, "流星の行方", "", ""],
-    [19, "夜間飛行", "", ""],
-    [20, "Making of \"天球の地図\"", "", ""],
+    [1, "node", "sora tob sakana", ""],
+    [2, "ribbon", "sora tob sakana", ""],
+    [3, "秘密", "sora tob sakana", ""],
+    [4, "鋭角な日常", "sora tob sakana", ""],
+    [5, "Summer Plan", "sora tob sakana", ""],
+    [6, "Brand New Blue", "sora tob sakana", ""],
+    [7, "嘘つき達に暇はない", "sora tob sakana", ""],
+    [8, "発見", "sora tob sakana", ""],
+    [9, "ありふれた群青", "sora tob sakana", ""],
+    [10, "ささやかな祝祭", "sora tob sakana", ""],
+    [11, "flash", "sora tob sakana", ""],
+    [12, "New Stranger", "sora tob sakana", ""],
+    [13, "広告の街", "sora tob sakana", ""],
+    [14, "silver", "sora tob sakana", ""],
+    [15, "knock!knock!", "sora tob sakana", ""],
+    [16, "Lighthouse", "sora tob sakana", ""],
+    [17, "夜空を全部", "sora tob sakana", ""],
+    [18, "流星の行方", "sora tob sakana", ""],
+    [19, "夜間飛行", "sora tob sakana", ""],
+    [20, "Making of “天球の地図”", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99789"]
+links = ["https://beta.musicbrainz.org/release/df09ac06-57ff-48ca-b896-655cf03194dd", "https://vgmdb.net/album/99789"]
 
 [58]
 catalognumber = "1000571491-CD"
 date = "2015-06-24"
 album = "FAMILIA MYTH ORIGINAL SOUNDTRACK 1"
 tracks = [
-    [1, "Hey World(TVサイズ)", "", ""],
-    [2, "Into a Fantasy", "", ""],
-    [3, "迷宮都市オラリオ", "", ""],
-    [4, "冒険者達の休息", "", ""],
-    [5, "ヘスティア・ファミリアへの家路", "", ""],
-    [6, "愉快な街角", "", ""],
-    [7, "ジャガ丸くんを食べよう", "", ""],
-    [8, "気分上々女神様", "", ""],
-    [9, "豊穣の女主人亭", "", ""],
-    [10, "ベル君、キミってやつは...", "", ""],
-    [11, "憧憬一途～リアリス・フレーゼ～", "", ""],
-    [12, "デートしようぜ?ベル君!!", "", ""],
-    [13, "これでもボクは神なのだ", "", ""],
-    [14, "The DOGEZA of Goddess", "", ""],
-    [15, "神々の背比べ", "", ""],
-    [16, "よりにもよって...。", "", ""],
-    [17, "優しさに包まれたなら", "", ""],
-    [18, "蒔かれた陰謀の種", "", ""],
-    [19, "女神フレイヤの暗躍", "", ""],
-    [20, "怪物祭～モンスターフィリア～", "", ""],
-    [21, "作戦会議", "", ""],
-    [22, "Rubellite eyes", "", ""],
-    [23, "絶望の淵で", "", ""],
-    [24, "勇気を、君に", "", ""],
-    [25, "憧憬の先に見据えるもの", "", ""],
-    [26, "ココロ、水面に映して", "", ""],
-    [27, "神と子を繋ぐもの", "", ""],
-    [28, "明日も、きっと。", "", ""],
+    [1, "Hey World (TVサイズ)", "井口裕香", ""],
+    [2, "Into a Fantasy", "井内啓二", ""],
+    [3, "迷宮都市オラリオ", "井内啓二", ""],
+    [4, "冒険者達の休息", "井内啓二", ""],
+    [5, "ヘスティア・ファミリアへの家路", "井内啓二", ""],
+    [6, "愉快な街角", "井内啓二", ""],
+    [7, "ジャガ丸くんを食べよう", "井内啓二", ""],
+    [8, "気分上々女神様", "井内啓二", ""],
+    [9, "豊穣の女主人亭", "井内啓二", ""],
+    [10, "ベル君、キミってやつは…。", "井内啓二", ""],
+    [11, "憧憬一途〜リアリス・フレーゼ〜", "井内啓二", ""],
+    [12, "デートしようぜ? ベル君!!", "井内啓二", ""],
+    [13, "これでもボクは神なのだ", "井内啓二", ""],
+    [14, "The DOGEZA of Goddess", "井内啓二", ""],
+    [15, "神々の背比べ", "井内啓二", ""],
+    [16, "よりにもよって…。", "井内啓二", ""],
+    [17, "優しさに包まれたなら", "井内啓二", ""],
+    [18, "蒔かれた陰謀の種", "井内啓二", ""],
+    [19, "女神フレイヤの暗躍", "井内啓二", ""],
+    [20, "怪物祭〜モンスターフィリア〜", "井内啓二", ""],
+    [21, "作戦会議", "井内啓二", ""],
+    [22, "Rubellite eyes", "井内啓二", ""],
+    [23, "絶望の淵で", "井内啓二", ""],
+    [24, "勇気を、君に", "井内啓二", ""],
+    [25, "憧憬の先に見据えるもの", "井内啓二", ""],
+    [26, "ココロ、水面に映して", "井内啓二", ""],
+    [27, "神と子を繋ぐもの", "井内啓二", ""],
+    [28, "明日も、きっと。", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/52202"]
+links = ["https://beta.musicbrainz.org/release/90032454-ae29-4063-874c-efc77c67f5b8", "https://vgmdb.net/album/52202"]
 
 [59]
 catalognumber = "1000563677"
 date = "2015-04-29"
 album = "RIGHT LIGHT RISE / 分島花音"
 tracks = [
-    [1, "RIGHT LIGHT RISE", "", ""],
-    [2, "Mayday!", "", ""],
-    [3, "RIGHT LIGHT RISE (instrumental)", "", ""],
-    [4, "Mayday! (instrumental)", "", ""],
+    [1, "RIGHT LIGHT RISE", "分島花音", ""],
+    [2, "Mayday!", "分島花音", ""],
+    [3, "RIGHT LIGHT RISE (instrumental)", "分島花音", ""],
+    [4, "Mayday! (instrumental)", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/50832"]
+links = ["https://beta.musicbrainz.org/release/27a28efb-a654-461e-90af-6008af2c19a1", "https://vgmdb.net/album/50832"]
 
 [60]
 catalognumber = "SRPD-0005"
 date = "2015-08-16"
 album = "パニソンはーこーパニック / DJ SHARPNEL"
 tracks = [
-    [1, "P.H.P intro -Gimme More BPM!!-", "", ""],
-    [2, "GO MY WAY!! [Panison mix]", "", ""],
-    [3, "太陽のFLARE SHERBET [Panison mix]", "", ""],
-    [4, "アクティブ・ハート [Panison mix]", "", ""],
-    [5, "Hey World [Panison mix]", "", ""],
-    [6, "トラウマ催眠少女さとり！(もっとトラウマMIX)", "", ""],
-    [7, "無意識系非存在少女こいし(monochromed)", "", ""],
-    [8, "GO MY WAY!![Panison mix](instrumental)", "", ""],
-    [9, "太陽のFLARE SHERBET[Panison mix](instrumental）", "", ""],
-    [10, "アクティブ・ハート[Panison mix](instrumental）", "", ""],
-    [11, "HEY WORLD[Panison mix](instrumental)", "", ""],
-    [12, "トラウマ催眠少女さとり！(もっとトラウマMIX)(instrumental­)", "", ""],
-    [13, "無意識系非存在少女こいし(monochromed)(instrumenta­l)", "", ""],
+    [1, "P.H.P intro -Gimme More BPM!!-", "DJ SHARPNEL feat. みらい", ""],
+    [2, "GO MY WAY!! [Panison mix]", "DJ SHARPNEL feat. みらい", ""],
+    [3, "太陽のFLARE SHERBET [Panison mix]", "DJ SHARPNEL feat. みらい", ""],
+    [4, "アクティブ・ハート [Panison mix]", "DJ SHARPNEL feat. みらい", ""],
+    [5, "Hey World [Panison mix]", "DJ SHARPNEL feat. みらい", ""],
+    [6, "ラウマ催眠少女さとり！ (もっとトラウマMIX)", "DJ SHARPNEL feat. 一ノ瀬月琉", ""],
+    [7, "無意識系非存在少女こいし (monochromed)", "DJ SHARPNEL feat. 大瀬良あい", ""],
+    [8, "GO MY WAY!! [Panison mix] (instrumental)", "DJ SHARPNEL", ""],
+    [9, "太陽のFLARE SHERBET [Panison mix] (instrumental)", "DJ SHARPNEL", ""],
+    [10, "アクティブ・ハート [Panison mix] (instrumental)", "DJ SHARPNEL", ""],
+    [11, "Hey World [Panison mix] (instrumental)", "DJ SHARPNEL", ""],
+    [12, "ラウマ催眠少女さとり！ (もっとトラウマMIX) (instrumental)", "DJ SHARPNEL", ""],
+    [13, "無意識系非存在少女こいし (monochromed) (instrumental)", "DJ SHARPNEL", ""],
 ]
-links = ["https://vgmdb.net/album/136913"]
+links = ["https://beta.musicbrainz.org/release/7f182b33-ee35-40e7-9a9a-fdde9634eda1", "https://vgmdb.net/album/136913"]
 
 [61]
 catalognumber = "1000647753-CD"
@@ -870,249 +870,249 @@ catalognumber = "1000631248-CD"
 date = "2016-12-07"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか キャラクターソングス"
 tracks = [
-    [1, "君とボクの1日", "", ""],
+    [1, "君とボクの1日", "ヘスティア(CV:水瀬いのり)", ""],
 ]
-links = ["https://vgmdb.net/album/63740"]
+links = ["https://beta.musicbrainz.org/release/8e74ed11-e524-4d2e-aa07-ecfcf268971c", "https://vgmdb.net/album/63740"]
 
 [63]
 catalognumber = "1000820616-CD"
 date = "2022-12-21"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか IV オリジナルサウンドトラック"
 tracks = [
-    [1, "The Vesta", "", ""],
-    [2, "エルフとドワーフの小競り合い", "", ""],
-    [3, "私の小さな冒険者さま", "", ""],
-    [4, "蒼惶の予言者", "", ""],
-    [5, "強化種対抗策", "", ""],
-    [6, "水の迷都", "", ""],
-    [7, "急襲", "", ""],
-    [8, "水都の少女・マリィ", "", ""],
-    [9, "レストルームにて", "", ""],
-    [10, "モンスターの罠", "", ""],
-    [11, "巨躯なる敵との邂逅", "", ""],
-    [12, "ココノエ", "", ""],
-    [13, "アルゴ・ウェスタ", "", ""],
-    [14, "暗影", "", ""],
-    [15, "カサンドラの予知夢", "", ""],
-    [16, "終末の予言", "", ""],
-    [17, "神々の抗争", "", ""],
-    [18, "急駛の冒険者", "", ""],
-    [19, "猛る冒険者達", "", ""],
-    [20, "モンスターパーティ", "", ""],
-    [21, "仲間の窮地", "", ""],
-    [22, "怒れるリュー", "", ""],
-    [23, "歪んだ欲望", "", ""],
-    [24, "ジャガーノート", "", ""],
-    [25, "そして英雄へ", "", ""],
-    [26, "The Rabbit Foot", "", ""],
+    [1, "The Vesta", "井内啓二", ""],
+    [2, "エルフとドワーフの小競り合い", "井内啓二", ""],
+    [3, "私の小さな冒険者さま", "井内啓二", ""],
+    [4, "蒼惶の予言者", "井内啓二", ""],
+    [5, "強化種対抗策", "井内啓二", ""],
+    [6, "水の迷都", "井内啓二", ""],
+    [7, "急襲", "井内啓二", ""],
+    [8, "水都の少女・マリィ", "井内啓二", ""],
+    [9, "レストルームにて", "井内啓二", ""],
+    [10, "モンスターの罠", "井内啓二", ""],
+    [11, "巨躯なる敵との邂逅", "井内啓二", ""],
+    [12, "ココノエ", "井内啓二", ""],
+    [13, "アルゴ・ウェスタ", "井内啓二", ""],
+    [14, "暗影", "井内啓二", ""],
+    [15, "カサンドラの予知夢", "井内啓二", ""],
+    [16, "終末の予言", "井内啓二", ""],
+    [17, "神々の抗争", "井内啓二", ""],
+    [18, "急駛の冒険者", "井内啓二", ""],
+    [19, "猛る冒険者達", "井内啓二", ""],
+    [20, "モンスターパーティ", "井内啓二", ""],
+    [21, "仲間の窮地", "井内啓二", ""],
+    [22, "怒れるリュー", "井内啓二", ""],
+    [23, "歪んだ欲望", "井内啓二", ""],
+    [24, "ジャガーノート", "井内啓二", ""],
+    [25, "そして英雄へ", "井内啓二", ""],
+    [26, "The Rabbit Foot", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/123266"]
+links = ["https://beta.musicbrainz.org/release/f7548c02-b6da-4d12-b5f1-88106775afcd", "https://vgmdb.net/album/123266"]
 
 [64]
 catalognumber = "SFCSWO200CD1"
 date = "2018-06-12"
 album = "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? Original Soundtrack Disc 1 [SFCSWO200CD1]"
 tracks = [
-    [1, "Main Title", "", ""],
-    [2, "Overture", "", ""],
-    [3, "Loki Familia", "", ""],
-    [4, "Mysterious Lefiya", "", ""],
-    [5, "Conditions for a Pleasant Chat", "", ""],
-    [6, "Ourbreak of War", "", ""],
-    [7, "Riveria Battle", "", ""],
-    [8, "Ais' Routine", "", ""],
-    [9, "Agitated Lefiya", "", ""],
-    [10, "At the Pub", "", ""],
-    [11, "Adventurers' Holiday", "", ""],
-    [12, "The Place Where Heat-tempered Adventurers Gather", "", ""],
-    [13, "During the Prayer", "", ""],
-    [14, "The Image of Father", "", ""],
-    [15, "The History of Ais", "", ""],
-    [16, "The Kindness of Ais", "", ""],
-    [17, "Revis' Secret Operations", "", ""],
-    [18, "Traces of an Incident", "", ""],
-    [19, "Source of Malice", "", ""],
-    [20, "Innermost Thoughts of Murderous Intent", "", ""],
-    [21, "Deadly Combat with the Giant Man-Eating Flower", "", ""],
-    [22, "Resolve to Battle", "", ""],
-    [23, "\"Someday, for Sure.\"", "", ""],
+    [1, "Main Title", "井内啓二", ""],
+    [2, "Overture", "井内啓二", ""],
+    [3, "Loki Familia", "井内啓二", ""],
+    [4, "Mysterious Lefiya", "井内啓二", ""],
+    [5, "Conditions for a Pleasant Chat", "井内啓二", ""],
+    [6, "Outbreak of War", "井内啓二", ""],
+    [7, "Riveria Battle", "井内啓二", ""],
+    [8, "Ais' Routine", "井内啓二", ""],
+    [9, "Agitated Lefiya", "井内啓二", ""],
+    [10, "At the Pub", "井内啓二", ""],
+    [11, "Adventurers' Holiday", "井内啓二", ""],
+    [12, "The Place Where Heat-tempered Adventurers Gather", "井内啓二", ""],
+    [13, "During the Prayer", "井内啓二", ""],
+    [14, "The Image of Father", "井内啓二", ""],
+    [15, "The History of Ais", "井内啓二", ""],
+    [16, "The Kindness of Ais", "井内啓二", ""],
+    [17, "Revis' Secret Operations", "井内啓二", ""],
+    [18, "Traces of an Incident", "井内啓二", ""],
+    [19, "Source of Malice", "井内啓二", ""],
+    [20, "Innermost Thoughts of Murderous Intent", "井内啓二", ""],
+    [21, "Deadly Combat with the Giant Man-Eating Flower", "井内啓二", ""],
+    [22, "Resolve to Battle", "井内啓二", ""],
+    [23, "\"Someday, for Sure.\"", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/75331"]
+links = ["https://beta.musicbrainz.org/release/f509349c-8c0a-4899-b53d-14ffd4544634", "https://vgmdb.net/album/75331"]
 
 [65]
 catalognumber = "SFCSWO200CD2"
 date = "2018-06-12"
 album = "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? Original Soundtrack Disc 2 [SFCSWO200CD2]"
 tracks = [
-    [1, "Return to the City", "", ""],
-    [2, "Little Elf", "", ""],
-    [3, "Lefiya Struggles", "", ""],
-    [4, "Choose Your Heart", "", ""],
-    [5, "During the Prayer", "", ""],
-    [6, "Abnormal Circumstances", "", ""],
-    [7, "Evil Omen", "", ""],
-    [8, "The Invitation from Black Clothing", "", ""],
-    [9, "Strategy", "", ""],
-    [10, "Farewell to Loneliness", "", ""],
-    [11, "The History of Filvis", "", ""],
-    [12, "Sword Princess and Warrior", "", ""],
-    [13, "Dungeon Expedition", "", ""],
-    [14, "March to the Deepest Level", "", ""],
-    [15, "Confrontation", "", ""],
-    [16, "Encounter", "", ""],
-    [17, "Turning Willpower into Courage", "", ""],
-    [18, "The Udaeus Battle", "", ""],
-    [19, "Epilogue", "", ""],
+    [1, "Return to the City", "井内啓二", ""],
+    [2, "Little Elf", "井内啓二", ""],
+    [3, "Lefiya Struggles", "井内啓二", ""],
+    [4, "Choose Your Heart", "井内啓二", ""],
+    [5, "During the Prayer", "井内啓二", ""],
+    [6, "Abnormal Circumstances", "井内啓二", ""],
+    [7, "Evil Omen", "井内啓二", ""],
+    [8, "The Invitation from Black Clothing", "井内啓二", ""],
+    [9, "Strategy", "井内啓二", ""],
+    [10, "Farewell to Loneliness", "井内啓二", ""],
+    [11, "The History of Filvis", "井内啓二", ""],
+    [12, "Sword Princess and Warrior", "井内啓二", ""],
+    [13, "Dungeon Expedition", "井内啓二", ""],
+    [14, "March to the Deepest Level", "井内啓二", ""],
+    [15, "Confrontation", "井内啓二", ""],
+    [16, "Encounter", "井内啓二", ""],
+    [17, "Turning Willpower into Courage", "井内啓二", ""],
+    [18, "The Udaeus Battle", "井内啓二", ""],
+    [19, "Epilogue", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/75331"]
+links = ["https://beta.musicbrainz.org/release/f509349c-8c0a-4899-b53d-14ffd4544634", "https://vgmdb.net/album/75331"]
 
 [66]
 catalognumber = "ZMCZ-15831"
 date = "2022-08-24"
 album = "天灯 / sajou no hana"
 tracks = [
-    [1, "天灯", "", ""],
-    [2, "Ruler", "", ""],
-    [3, "天灯 (instrumental)", "", ""],
-    [4, "Ruler (instrumental)", "", ""],
+    [1, "天灯", "sajou no hana", ""],
+    [2, "Ruler", "sajou no hana", ""],
+    [3, "天灯 (instrumental)", "sajou no hana", ""],
+    [4, "Ruler (instrumental)", "sajou no hana", ""],
 ]
-links = ["https://vgmdb.net/album/120612"]
+links = ["https://beta.musicbrainz.org/release/163d16c0-4c98-4907-8469-b2c810959ca5", "https://vgmdb.net/album/120612"]
 
 [67]
 catalognumber = "1000646111"
 date = "2017-05-24"
 album = "RE-ILLUSION / 井口裕香"
 tracks = [
-    [1, "RE-ILLUSION", "", ""],
-    [2, "ワン・オブ・ワンダーランド", "", ""],
-    [3, "RE-ILLUSION (Instrumental)", "", ""],
-    [4, "ワン・オブ・ワンダーランド (Instrumental)", "", ""],
+    [1, "RE-ILLUSION", "井口裕香", ""],
+    [2, "ワン・オブ・ワンダーランド", "井口裕香", ""],
+    [3, "RE-ILLUSION (Instrumental)", "井口裕香", ""],
+    [4, "ワン・オブ・ワンダーランド (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/65682"]
+links = ["https://beta.musicbrainz.org/release/86935015-9b65-4eec-aca3-780e92a25b9b", "https://vgmdb.net/album/65682"]
 
 [68]
 catalognumber = "MHCL-30567"
 date = "2019-02-13"
 album = "DECADE / 分島花音 [初回生産限定盤] Disc 1 [MHCL-30567]"
 tracks = [
-    [1, "still doll", "", ""],
-    [2, "砂のお城", "", ""],
-    [3, "プリンセスチャールストン", "", ""],
-    [4, "celmisia", "", ""],
-    [5, "ファールプレーにくらり", "", ""],
-    [6, "サクラメイキュウ", "", ""],
-    [7, "signal", "", ""],
-    [8, "無重力", "", ""],
-    [9, "killy killy JOKER", "", ""],
-    [10, "world's end, girl's rondo", "", ""],
+    [1, "still doll", "分島花音", ""],
+    [2, "砂のお城", "分島花音", ""],
+    [3, "プリンセスチャールストン", "分島花音", ""],
+    [4, "celmisia", "分島花音", ""],
+    [5, "ファールプレーにくらり", "分島花音", ""],
+    [6, "サクラメイキュウ", "分島花音", ""],
+    [7, "signal", "分島花音", ""],
+    [8, "無重力", "分島花音", ""],
+    [9, "killy killy JOKER", "分島花音", ""],
+    [10, "world's end, girl's rondo", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/82141"]
+links = ["https://beta.musicbrainz.org/release/a3177af2-d9e7-455a-82bb-e474c2f4e5f9", "https://vgmdb.net/album/82141"]
 
 [69]
 catalognumber = "MHCL-30568"
 date = "2019-02-13"
 album = "DECADE / 分島花音 [初回生産限定盤] Disc 2 [MHCL-30568]"
 tracks = [
-    [1, "ツキナミ", "", ""],
-    [2, "さんすくみ", "", ""],
-    [3, "RIGHT LIGHT RISE", "", ""],
-    [4, "君はソレイユ", "", ""],
-    [5, "Love your enemies", "", ""],
-    [6, "Unbalance by Me", "", ""],
-    [7, "自由落下とピノキオ", "", ""],
-    [8, "REUNION", "", ""],
-    [9, "fragment ornament", "", ""],
-    [10, "ありがとうのうた（Live）", "", ""],
+    [1, "ツキナミ", "分島花音", ""],
+    [2, "さんすくみ", "分島花音", ""],
+    [3, "RIGHT LIGHT RISE", "分島花音", ""],
+    [4, "君はソレイユ", "分島花音", ""],
+    [5, "Love your enemies", "分島花音", ""],
+    [6, "Unbalance by Me", "分島花音", ""],
+    [7, "自由落下とピノキオ", "分島花音", ""],
+    [8, "REUNION", "分島花音", ""],
+    [9, "fragment ornament", "分島花音", ""],
+    [10, "ありがとうのうた", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/82141"]
+links = ["https://beta.musicbrainz.org/release/a3177af2-d9e7-455a-82bb-e474c2f4e5f9", "https://vgmdb.net/album/82141"]
 
 [70]
 catalognumber = "1000701237"
 date = "2017-12-20"
 album = "アルストロメリア / 鹿乃 [初回生産限定盤] Disc 1 (CD) [1000701237-CD]"
 tracks = [
-    [1, "day by day", "", ""],
-    [2, "Daisy Blue", "", ""],
-    [3, "Melodic Aster*", "", ""],
-    [4, "Linaria Girl", "", ""],
-    [5, "29-Q", "", ""],
-    [6, "Ivy", "", ""],
-    [7, "nameless", "", ""],
-    [8, "RERE", "", ""],
-    [9, "Haruzion", "", ""],
-    [10, "Iberis Song", "", ""],
-    [11, "Sharry Baby!", "", ""],
-    [12, "シュガーソングとビターステップ (BONUS TRACK)", "", ""],
+    [1, "day by day", "鹿乃", ""],
+    [2, "Daisy Blue", "鹿乃", ""],
+    [3, "Melodic Aster*", "鹿乃", ""],
+    [4, "Linaria Girl", "鹿乃", ""],
+    [5, "29-Q", "鹿乃", ""],
+    [6, "Ivy", "鹿乃", ""],
+    [7, "nameless", "鹿乃", ""],
+    [8, "RERE", "鹿乃", ""],
+    [9, "Haruzion", "鹿乃", ""],
+    [10, "Iberis Song", "鹿乃", ""],
+    [11, "Sharry Baby!", "鹿乃", ""],
+    [12, "シュガーソングとビターステップ", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/71860"]
+links = ["https://beta.musicbrainz.org/release/5a2a6d41-c9e9-4e78-a14f-8b2bbe82ff1d", "https://vgmdb.net/album/71860"]
 
 [71]
 catalognumber = "1000701237"
 date = "2017-12-20"
 album = "アルストロメリア / 鹿乃 [初回生産限定盤] Disc 2 (DVD) [1000701237-SD]"
 tracks = [
-    [1, "Ivy MUSIC VIDEO", "", ""],
-    [2, "Daisy Blue MUSIC VIDEO", "", ""],
-    [3, "こまったましろ～バースデイ大作戦! ～ 朗読MOVIE", "", ""],
+    [1, "Ivy (MUSIC VIDEO)", "鹿乃", ""],
+    [2, "Daisy Blue (MUSIC VIDEO)", "鹿乃", ""],
+    [3, "こまったましろ~バースデイ大作戦~ 朗読 MOVIE", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/71860"]
+links = ["https://beta.musicbrainz.org/release/5a2a6d41-c9e9-4e78-a14f-8b2bbe82ff1d", "https://vgmdb.net/album/71860"]
 
 [72]
 catalognumber = "1000769388"
 date = "2020-08-12"
 album = "clearly / 井口裕香 [初回生産限定盤] Vocal"
 tracks = [
-    [1, "アクアステップ", "", ""],
-    [2, "HELLO to DREAM", "", ""],
-    [3, "RE-ILLUSION", "", ""],
-    [4, "ハイドランジアに独り言", "", ""],
-    [5, "Niramekko", "", ""],
-    [6, "over and over", "", ""],
-    [7, "革命前夜", "", ""],
-    [8, "Lostorage", "", ""],
-    [9, "UNLOCK", "", ""],
-    [10, "じぶん角形", "", ""],
-    [11, "おなじ空の下で", "", ""],
-    [12, "キミのこと", "", ""],
-    [13, "終わらない歌", "", ""],
-    [14, "よしとしようよ", "", ""],
+    [1, "アクアステップ", "井口裕香", ""],
+    [2, "HELLO to DREAM", "井口裕香", ""],
+    [3, "RE‐ILLUSION", "井口裕香", ""],
+    [4, "ハイドランジアに独り言", "井口裕香", ""],
+    [5, "Niramekko", "井口裕香", ""],
+    [6, "over and over", "井口裕香", ""],
+    [7, "革命前夜", "井口裕香", ""],
+    [8, "Lostorage", "井口裕香", ""],
+    [9, "UNLOCK", "井口裕香", ""],
+    [10, "じぶん角形", "井口裕香", ""],
+    [11, "おなじ空の下で", "井口裕香", ""],
+    [12, "キミのこと", "井口裕香", ""],
+    [13, "終わらない歌", "井口裕香", ""],
+    [14, "よしとしようよ", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/97344"]
+links = ["https://beta.musicbrainz.org/release/9265eb81-540d-4090-90ec-911e4f163883", "https://vgmdb.net/album/97344"]
 
 [73]
 catalognumber = "1000769388"
 date = "2020-08-12"
 album = "clearly / 井口裕香 [初回生産限定盤] Vocal, Video"
 tracks = [
-    [1, "Behind the Scenes of \"clearly\"", "", ""],
-    [2, "井口裕香の台湾ご褒美旅行", "", ""],
-    [3, "Shining Star-☆-LOVE Letter (MUSIC VIDEO)", "", ""],
-    [4, "Grow Slowly (MUSIC VIDEO)", "", ""],
-    [5, "rainbow heart ♡ rainbow dream ☆ (MUSIC VIDEO)", "", ""],
-    [6, "Hey World (MUSIC VIDEO)", "", ""],
-    [7, "リトルチャームファング (MUSIC VIDEO)", "", ""],
-    [8, "変わらない強さ (MUSIC VIDEO)", "", ""],
-    [9, "Lostorage (MUSIC VIDEO)", "", ""],
-    [10, "RE-ILLUSION (MUSIC VIDEO)", "", ""],
-    [11, "UNLOCK (MUSIC VIDEO)", "", ""],
-    [12, "革命前夜 (MUSIC VIDEO)", "", ""],
-    [13, "終わらない歌 (MUSIC VIDEO)", "", ""],
-    [14, "おなじ空の下で (MUSIC VIDEO)", "", ""],
-    [15, "HELLO to DREAM (MUSIC VIDEO)", "", ""],
+    [1, "Behind the Scenes of “clearly”", "井口裕香", ""],
+    [2, "井口裕香の台湾ご褒美旅行", "井口裕香", ""],
+    [3, "Shining Star‐☆‐LOVE Letter (MUSIC VIDEO)", "井口裕香", ""],
+    [4, "Grow Slowly (MUSIC VIDEO)", "井口裕香", ""],
+    [5, "rainbow heart ♡ rainbow dream ☆ (MUSIC VIDEO)", "井口裕香", ""],
+    [6, "Hey World (MUSIC VIDEO)", "井口裕香", ""],
+    [7, "リトルチャームファング (MUSIC VIDEO)", "井口裕香", ""],
+    [8, "変わらない強さ (MUSIC VIDEO)", "井口裕香", ""],
+    [9, "Lostorage (MUSIC VIDEO)", "井口裕香", ""],
+    [10, "RE‐ILLUSION (MUSIC VIDEO)", "井口裕香", ""],
+    [11, "UNLOCK (MUSIC VIDEO)", "井口裕香", ""],
+    [12, "革命前夜 (MUSIC VIDEO)", "井口裕香", ""],
+    [13, "終わらない歌 (MUSIC VIDEO)", "井口裕香", ""],
+    [14, "おなじ空の下で (MUSIC VIDEO)", "井口裕香", ""],
+    [15, "HELLO to DREAM (MUSIC VIDEO)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/97344"]
+links = ["https://beta.musicbrainz.org/release/9265eb81-540d-4090-90ec-911e4f163883", "https://vgmdb.net/album/97344"]
 
 [74]
 catalognumber = "1000644989"
 date = "2017-05-24"
 album = "day by day / 鹿乃"
 tracks = [
-    [1, "day by day", "", ""],
-    [2, "29-Q", "", ""],
-    [3, "day by day -Instrumental-", "", ""],
-    [4, "29-Q -Instrumental-", "", ""],
+    [1, "day by day", "鹿乃", ""],
+    [2, "29-Q", "鹿乃", ""],
+    [3, "day by day -instrumental-", "鹿乃", ""],
+    [4, "29-Q -instrumental-", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/65685"]
+links = ["https://beta.musicbrainz.org/release/ce63e90e-5dbb-46e4-8bf2-3124469c00db", "https://vgmdb.net/album/65685"]
 
 [75]
 catalognumber = ""
@@ -1126,12 +1126,12 @@ catalognumber = "1000563676"
 date = "2015-04-29"
 album = "RIGHT LIGHT RISE / 分島花音 [初回限定盤] Disc 1 (CD) [1000563676-CD]"
 tracks = [
-    [1, "RIGHT LIGHT RISE", "", ""],
-    [2, "Mayday!", "", ""],
-    [3, "RIGHT LIGHT RISE (instrumental)", "", ""],
-    [4, "Mayday! (instrumental)", "", ""],
+    [1, "RIGHT LIGHT RISE", "分島花音", ""],
+    [2, "Mayday!", "分島花音", ""],
+    [3, "RIGHT LIGHT RISE (instrumental)", "分島花音", ""],
+    [4, "Mayday! (instrumental)", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/50831"]
+links = ["https://beta.musicbrainz.org/release/228e6963-e3fa-489c-b2a3-79edf5dc1ae6", "https://vgmdb.net/album/50831"]
 
 [77]
 catalognumber = "1000563676"
@@ -1360,31 +1360,31 @@ catalognumber = "1000647754-CD"
 date = "2017-06-28"
 album = "ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝 オリジナルサウンドトラック Vol.1"
 tracks = [
-    [1, "MainTitle", "", ""],
-    [2, "Overture", "", ""],
-    [3, "ロキ・ファミリア", "", ""],
-    [4, "不機嫌レフィーヤ", "", ""],
-    [5, "歓談日和", "", ""],
-    [6, "開戦", "", ""],
-    [7, "リヴィラ攻防戦", "", ""],
-    [8, "アイズの日常", "", ""],
-    [9, "動揺レフィーヤ", "", ""],
-    [10, "酒場にて", "", ""],
-    [11, "冒険者達の休日", "", ""],
-    [12, "熟練冒険者の集う場所", "", ""],
-    [13, "祈祷の間", "", ""],
-    [14, "父の面影", "", ""],
-    [15, "アイズの過去", "", ""],
-    [16, "アイズの優しさ", "", ""],
-    [17, "レヴィスの暗躍", "", ""],
-    [18, "事件の痕跡", "", ""],
-    [19, "悪意の濫觴", "", ""],
-    [20, "殺意の胸臆", "", ""],
-    [21, "巨大食人花との死闘", "", ""],
-    [22, "戦いへの決意", "", ""],
-    [23, "いつの日か、きっと。", "", ""],
+    [1, "MainTitle", "井内啓二", ""],
+    [2, "Overture", "井内啓二", ""],
+    [3, "ロキ・ファミリア", "井内啓二", ""],
+    [4, "不機嫌レフィーヤ", "井内啓二", ""],
+    [5, "歓談日和", "井内啓二", ""],
+    [6, "開戦", "井内啓二", ""],
+    [7, "リヴィラ攻防戦", "井内啓二", ""],
+    [8, "アイズの日常", "井内啓二", ""],
+    [9, "動揺レフィーヤ", "井内啓二", ""],
+    [10, "酒場にて", "井内啓二", ""],
+    [11, "冒険者達の休日", "井内啓二", ""],
+    [12, "熟練冒険者の集う場所", "井内啓二", ""],
+    [13, "祈祷の間", "井内啓二", ""],
+    [14, "父の面影", "井内啓二", ""],
+    [15, "アイズの過去", "井内啓二", ""],
+    [16, "アイズの優しさ", "井内啓二", ""],
+    [17, "レヴィスの暗躍", "井内啓二", ""],
+    [18, "事件の痕跡", "井内啓二", ""],
+    [19, "悪意の濫觴", "井内啓二", ""],
+    [20, "殺意の胸臆", "井内啓二", ""],
+    [21, "巨大食人花との死闘", "井内啓二", ""],
+    [22, "戦いへの決意", "井内啓二", ""],
+    [23, "いつの日か、きっと。", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/67393"]
+links = ["https://beta.musicbrainz.org/release/aebe6054-4bbe-42ff-a82f-f21575867c9c", "https://vgmdb.net/album/67393"]
 
 [86]
 catalognumber = "1000647750-CD"
@@ -1401,43 +1401,43 @@ catalognumber = "1000781113-CD"
 date = "2021-04-28"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか III キャラクターソング"
 tracks = [
-    [1, "男と女はラビリンス", "", ""],
-    [2, "男と女はラビリンス (Short Size)", "", ""],
-    [3, "男と女はラビリンス (instrumental)", "", ""],
+    [1, "男と女はラビリンス", "ヘスティア(CV:水瀬いのり) & アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
+    [2, "男と女はラビリンス (Short Size)", "ヘスティア(CV:水瀬いのり) & アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
+    [3, "男と女はラビリンス (Instrumental)", "ヘスティア(CV:水瀬いのり) & アイズ・ヴァレンシュタイン(CV:大西沙織)", ""],
 ]
-links = ["https://vgmdb.net/album/107468"]
+links = ["https://beta.musicbrainz.org/release/ca995927-da3d-4019-91a8-7fcf85b94683", "https://vgmdb.net/album/107468"]
 
 [88]
 catalognumber = "1000746064"
 date = "2019-07-24"
 album = "ささやかな祝祭 / sora tob sakana [アーティスト盤] Disc 1 (CD) [1000746064-CD]"
 tracks = [
-    [1, "ささやかな祝祭", "", ""],
-    [2, "乱反射の季節", "", ""],
-    [3, "ブルー、イエロー、オレンジ、グリーン", "", ""],
+    [1, "ささやかな祝祭", "sora tob sakana", ""],
+    [2, "乱反射の季節", "sora tob sakana", ""],
+    [3, "ブルー、イエロー、オレンジ、グリーン", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/87019"]
+links = ["https://beta.musicbrainz.org/release/910324a9-39f6-45eb-83d6-6e2eb699a9e7", "https://vgmdb.net/album/87019"]
 
 [89]
 catalognumber = "1000746064"
 date = "2019-07-24"
 album = "ささやかな祝祭 / sora tob sakana [アーティスト盤] Disc 2 (DVD) [1000746064-SD]"
 tracks = [
-    [1, "ささやかな祝祭 (MUSIC VIDEO)", "", ""],
+    [1, "ささやかな祝祭 (Music Video)", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/87019"]
+links = ["https://beta.musicbrainz.org/release/910324a9-39f6-45eb-83d6-6e2eb699a9e7", "https://vgmdb.net/album/87019"]
 
 [90]
 catalognumber = "1000646109"
 date = "2017-05-24"
 album = "RE-ILLUSION / 井口裕香 [アーティスト盤] Disc 1 (CD) [1000646109-CD]"
 tracks = [
-    [1, "RE-ILLUSION", "", ""],
-    [2, "ワン・オブ・ワンダーランド", "", ""],
-    [3, "RE-ILLUSION (Instrumental)", "", ""],
-    [4, "ワン・オブ・ワンダーランド (Instrumental)", "", ""],
+    [1, "RE-ILLUSION", "井口裕香", ""],
+    [2, "ワン・オブ・ワンダーランド", "井口裕香", ""],
+    [3, "RE-ILLUSION (Instrumental)", "井口裕香", ""],
+    [4, "ワン・オブ・ワンダーランド (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/65684"]
+links = ["https://beta.musicbrainz.org/release/b2dcc4ad-9b4d-49f2-98b3-f99692fc7047", "https://vgmdb.net/album/65684"]
 
 [91]
 catalognumber = "1000646109"
@@ -1454,105 +1454,105 @@ catalognumber = "1000820618-CD"
 date = "2023-04-26"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか IV オリジナルサウンドトラック2"
 tracks = [
-    [1, "猫娘の日常", "", ""],
-    [2, "闘技場にて", "", ""],
-    [3, "敵前からの遁走", "", ""],
-    [4, "因縁との対峙", "", ""],
-    [5, "奇襲攻撃", "", ""],
-    [6, "進撃", "", ""],
-    [7, "厄災との遭逢", "", ""],
-    [8, "深層の暴威", "", ""],
-    [9, "アンフィス·バエナ", "", ""],
-    [10, "孤立", "", ""],
-    [11, "窮地の妖精と白兎", "", ""],
-    [12, "鍛冶屋の信念", "", ""],
-    [13, "援軍", "", ""],
-    [14, "リューとベル", "", ""],
-    [15, "旅の仲間", "", ""],
-    [16, "豊かな日々の想い出", "", ""],
-    [17, "刻まれた記憶", "", ""],
-    [18, "ロスト·ファミリア", "", ""],
-    [19, "ジャガーノートとの戦い", "", ""],
-    [20, "Not meet doubt", "", ""],
-    [21, "失意のリュー", "", ""],
-    [22, "忘念の妖精", "", ""],
-    [23, "仲間の元へ", "", ""],
-    [24, "リューの救出", "", ""],
-    [25, "反転攻勢", "", ""],
-    [26, "ベル·クラネル", "", ""],
-    [27, "恋の雪解け", "", ""],
-    [28, "Not meet doubt Instrumental", "", ""],
+    [1, "猫娘の日常", "井内啓二", ""],
+    [2, "闘技場にて", "井内啓二", ""],
+    [3, "敵前からの遁走", "井内啓二", ""],
+    [4, "因縁との対峙", "井内啓二", ""],
+    [5, "奇襲攻撃", "井内啓二", ""],
+    [6, "進撃", "井内啓二", ""],
+    [7, "厄災との遭逢", "井内啓二", ""],
+    [8, "深層の暴威", "井内啓二", ""],
+    [9, "アンフィス·バエナ", "井内啓二", ""],
+    [10, "孤立", "井内啓二", ""],
+    [11, "窮地の妖精と白兎", "井内啓二", ""],
+    [12, "鍛冶屋の信念", "井内啓二", ""],
+    [13, "援軍", "井内啓二", ""],
+    [14, "リューとベル", "井内啓二", ""],
+    [15, "旅の仲間", "井内啓二", ""],
+    [16, "豊かな日々の想い出", "井内啓二", ""],
+    [17, "刻まれた記憶", "井内啓二", ""],
+    [18, "ロスト·ファミリア", "井内啓二", ""],
+    [19, "ジャガーノートとの戦い", "井内啓二", ""],
+    [20, "Not meet doubt", "井内啓二", ""],
+    [21, "失意のリュー", "井内啓二", ""],
+    [22, "忘念の妖精", "井内啓二", ""],
+    [23, "仲間の元へ", "井内啓二", ""],
+    [24, "リューの救出", "井内啓二", ""],
+    [25, "反転攻勢", "井内啓二", ""],
+    [26, "ベル·クラネル", "井内啓二", ""],
+    [27, "恋の雪解け", "井内啓二", ""],
+    [28, "Not meet doubt Instrumental", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/126310"]
+links = ["https://beta.musicbrainz.org/release/ef6b74c2-ccc1-4210-84a0-a9c390309221", "https://vgmdb.net/album/126310"]
 
 [93]
 catalognumber = ""
 date = "2023-08-17"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか ～メモリア・フレーゼ～ ボーカルコレクション Song of Familia"
 tracks = [
-    [1, "希望のSIGNAL", "", ""],
-    [2, "Lumière", "", ""],
-    [3, "ほしぞらレター", "", ""],
-    [4, "ウィーシェの森でさようなら", "", ""],
-    [5, "Shiny World", "", ""],
-    [6, "Justitia", "", ""],
-    [7, "Vesta", "", ""],
-    [8, "赤勇の唄", "", ""],
-    [9, "Fortia", "", ""],
-    [10, "希望のSIGNAL Special ver.", "", ""],
-    [11, "Lumière Acoustic ver.", "", ""],
+    [1, "希望のＳＩＧＮＡＬ", "ヘスティア(CV.水瀬いのり)", ""],
+    [2, "Lumière", "リュー・リオン(CV.早見沙織)", ""],
+    [3, "ほしぞらレター", "ウィーネ(CV.日高里菜)", ""],
+    [4, "ウィーシェの森でさようなら", "レフィーヤ・ウィリディス(CV.木村珠莉) & フィルヴィス・シャリア(CV:金元寿子)", ""],
+    [5, "Shiny World", "ベート(CV.岡本信彦)", ""],
+    [6, "Justitia", "リュー・リオン(CV.早見沙織)", ""],
+    [7, "Vesta", "ヘスティア(CV.水瀬いのり)", ""],
+    [8, "赤勇の唄", "リュールゥ(CV.早見沙織)", ""],
+    [9, "Fortia", "フィアナ(CV.内田真礼)", ""],
+    [10, "希望のＳＩＧＮＡＬ Special ver.", "ヘスティア(CV.水瀬いのり)", ""],
+    [11, "Lumière Acoustic ver.", "リュー・リオン(CV.早見沙織)", ""],
 ]
-links = ["https://vgmdb.net/album/131732"]
+links = ["https://beta.musicbrainz.org/release/7c306387-2093-4f5b-9eeb-f111af686d1e", "https://vgmdb.net/album/131732"]
 
 [94]
 catalognumber = "1000647752-CD"
 date = "2017-09-27"
 album = "ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝 オリジナルサウンドトラック Vol.2"
 tracks = [
-    [1, "街への帰還", "", ""],
-    [2, "Little Elf", "", ""],
-    [3, "レフィーヤ奮闘記", "", ""],
-    [4, "心閉ざして", "", ""],
-    [5, "祈祷の間にて", "", ""],
-    [6, "異常事態", "", ""],
-    [7, "凶兆", "", ""],
-    [8, "黒衣からの招待状", "", ""],
-    [9, "作戦", "", ""],
-    [10, "寂寥への決別", "", ""],
-    [11, "フィルヴィスの過去", "", ""],
-    [12, "剣姫と猛者", "", ""],
-    [13, "ダンジョン遠征", "", ""],
-    [14, "深層域への行軍", "", ""],
-    [15, "対峙", "", ""],
-    [16, "会敵", "", ""],
-    [17, "意志を勇気に", "", ""],
-    [18, "ウダイオス戦", "", ""],
-    [19, "エピローグ", "", ""],
+    [1, "街への帰還", "井内啓二", ""],
+    [2, "Little Elf", "井内啓二", ""],
+    [3, "レフィーヤ奮闘記", "井内啓二", ""],
+    [4, "心閉ざして", "井内啓二", ""],
+    [5, "祈祷の間にて", "井内啓二", ""],
+    [6, "異常事態", "井内啓二", ""],
+    [7, "凶兆", "井内啓二", ""],
+    [8, "黒衣からの招待状", "井内啓二", ""],
+    [9, "作戦", "井内啓二", ""],
+    [10, "寂寥への決別", "井内啓二", ""],
+    [11, "フィルヴィスの過去", "井内啓二", ""],
+    [12, "剣姫と猛者", "井内啓二", ""],
+    [13, "ダンジョン遠征", "井内啓二", ""],
+    [14, "深層域への行軍", "井内啓二", ""],
+    [15, "対峙", "井内啓二", ""],
+    [16, "会敵", "井内啓二", ""],
+    [17, "意志を勇気に", "井内啓二", ""],
+    [18, "ウダイオス戦", "井内啓二", ""],
+    [19, "エピローグ", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/67396"]
+links = ["https://beta.musicbrainz.org/release/8b6f9c63-482a-4251-a193-7a32cfeadaac", "https://vgmdb.net/album/67396"]
 
 [95]
 catalognumber = "1000646110"
 date = "2017-05-24"
 album = "RE-ILLUSION / 井口裕香 [アニメ盤] Disc 1 (CD) [1000646110-CD]"
 tracks = [
-    [1, "RE-ILLUSION", "", ""],
-    [2, "JOURNEY", "", ""],
-    [3, "RE-ILLUSION (TV-size)", "", ""],
-    [4, "RE-ILLUSION (Instrumental)", "", ""],
-    [5, "JOURNEY (Instrumental)", "", ""],
+    [1, "RE-ILLUSION", "井口裕香", ""],
+    [2, "JOURNEY", "井口裕香", ""],
+    [3, "RE-ILLUSION (TV-size)", "井口裕香", ""],
+    [4, "RE-ILLUSION (Instrumental)", "井口裕香", ""],
+    [5, "JOURNEY (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/65683"]
+links = ["https://beta.musicbrainz.org/release/442a50c3-527d-4183-8716-a71d99d2bd74", "https://vgmdb.net/album/65683"]
 
 [96]
 catalognumber = "1000646110"
 date = "2017-05-24"
 album = "RE-ILLUSION / 井口裕香 [アニメ盤] Disc 2 (DVD) [1000646110-SD]"
 tracks = [
-    [1, "\"RE-ILLUSION\" Music Video (Animation ver.)", "", ""],
-    [2, "SPECIAL INTERVIEW", "", ""],
+    [1, "RE-ILLUSION (Music Video) (Animation ver.)", "井口裕香", ""],
+    [2, "SPECIAL INTERVIEW", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/65683"]
+links = ["https://beta.musicbrainz.org/release/442a50c3-527d-4183-8716-a71d99d2bd74", "https://vgmdb.net/album/65683"]
 
 [97]
 catalognumber = "ASTKC-1008"
@@ -1569,294 +1569,294 @@ catalognumber = "GNCA-1574"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [BD付初回限定盤] Vocal"
 tracks = [
-    [1, "信号", "", ""],
-    [2, "クラウチングスタート", "", ""],
-    [3, "夜空を全部", "", ""],
-    [4, "魔法の言葉", "", ""],
-    [5, "広告の街", "", ""],
-    [6, "まぶしい", "", ""],
-    [7, "Brand New Blue", "", ""],
-    [8, "New Stranger", "", ""],
-    [9, "夜間飛行", "", ""],
-    [10, "ribbon", "", ""],
-    [11, "untie", "", ""],
+    [1, "信号", "sora tob sakana", ""],
+    [2, "クラウチングスタート", "sora tob sakana", ""],
+    [3, "夜空を全部", "sora tob sakana", ""],
+    [4, "魔法の言葉", "sora tob sakana", ""],
+    [5, "広告の街", "sora tob sakana", ""],
+    [6, "まぶしい", "sora tob sakana", ""],
+    [7, "Brand New Blue", "sora tob sakana", ""],
+    [8, "New Stranger", "sora tob sakana", ""],
+    [9, "夜間飛行", "sora tob sakana", ""],
+    [10, "ribbon", "sora tob sakana", ""],
+    [11, "untie", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99790"]
+links = ["https://beta.musicbrainz.org/release/f7c9018b-e536-4463-b39c-883357b56c12", "https://vgmdb.net/album/99790"]
 
 [99]
 catalognumber = "GNCA-1574"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [BD付初回限定盤] Vocal, Live Event"
 tracks = [
-    [1, "ribbon", "", ""],
-    [2, "秘密", "", ""],
-    [3, "鋭角な日常", "", ""],
-    [4, "Summer Plan", "", ""],
-    [5, "Brand New Blue", "", ""],
-    [6, "嘘つき達に暇はない", "", ""],
-    [7, "発見", "", ""],
-    [8, "ありふれた群青", "", ""],
-    [9, "ささやかな祝祭", "", ""],
-    [10, "flash", "", ""],
-    [11, "New Stranger", "", ""],
-    [12, "広告の街", "", ""],
-    [13, "silver", "", ""],
-    [14, "knock!knock!", "", ""],
-    [15, "Lighthouse", "", ""],
-    [16, "夜空を全部", "", ""],
-    [17, "流星の行方", "", ""],
-    [18, "夜間飛行", "", ""],
+    [1, "ribbon", "sora tob sakana", ""],
+    [2, "秘密", "sora tob sakana", ""],
+    [3, "鋭角な日常", "sora tob sakana", ""],
+    [4, "Summer Plan", "sora tob sakana", ""],
+    [5, "Brand New Blue", "sora tob sakana", ""],
+    [6, "嘘つき達に暇はない", "sora tob sakana", ""],
+    [7, "発見", "sora tob sakana", ""],
+    [8, "ありふれた群青", "sora tob sakana", ""],
+    [9, "ささやかな祝祭", "sora tob sakana", ""],
+    [10, "flash", "sora tob sakana", ""],
+    [11, "New Stranger", "sora tob sakana", ""],
+    [12, "広告の街", "sora tob sakana", ""],
+    [13, "silver", "sora tob sakana", ""],
+    [14, "knock!knock!", "sora tob sakana", ""],
+    [15, "Lighthouse", "sora tob sakana", ""],
+    [16, "夜空を全部", "sora tob sakana", ""],
+    [17, "流星の行方", "sora tob sakana", ""],
+    [18, "夜間飛行", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99790"]
+links = ["https://beta.musicbrainz.org/release/f7c9018b-e536-4463-b39c-883357b56c12", "https://vgmdb.net/album/99790"]
 
 [100]
 catalognumber = "GNCA-1574"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [BD付初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "node", "", ""],
-    [2, "ribbon", "", ""],
-    [3, "秘密", "", ""],
-    [4, "鋭角な日常", "", ""],
-    [5, "Summer Plan", "", ""],
-    [6, "Brand New Blue", "", ""],
-    [7, "嘘つき達に暇はない", "", ""],
-    [8, "発見", "", ""],
-    [9, "ありふれた群青", "", ""],
-    [10, "ささやかな祝祭", "", ""],
-    [11, "flash", "", ""],
-    [12, "New Stranger", "", ""],
-    [13, "広告の街", "", ""],
-    [14, "silver", "", ""],
-    [15, "knock!knock!", "", ""],
-    [16, "Lighthouse", "", ""],
-    [17, "夜空を全部", "", ""],
-    [18, "流星の行方", "", ""],
-    [19, "夜間飛行", "", ""],
-    [20, "Making of \"天球の地図\"", "", ""],
+    [1, "node", "sora tob sakana", ""],
+    [2, "ribbon", "sora tob sakana", ""],
+    [3, "秘密", "sora tob sakana", ""],
+    [4, "鋭角な日常", "sora tob sakana", ""],
+    [5, "Summer Plan", "sora tob sakana", ""],
+    [6, "Brand New Blue", "sora tob sakana", ""],
+    [7, "嘘つき達に暇はない", "sora tob sakana", ""],
+    [8, "発見", "sora tob sakana", ""],
+    [9, "ありふれた群青", "sora tob sakana", ""],
+    [10, "ささやかな祝祭", "sora tob sakana", ""],
+    [11, "flash", "sora tob sakana", ""],
+    [12, "New Stranger", "sora tob sakana", ""],
+    [13, "広告の街", "sora tob sakana", ""],
+    [14, "silver", "sora tob sakana", ""],
+    [15, "knock!knock!", "sora tob sakana", ""],
+    [16, "Lighthouse", "sora tob sakana", ""],
+    [17, "夜空を全部", "sora tob sakana", ""],
+    [18, "流星の行方", "sora tob sakana", ""],
+    [19, "夜間飛行", "sora tob sakana", ""],
+    [20, "Making of “天球の地図”", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99790"]
+links = ["https://beta.musicbrainz.org/release/f7c9018b-e536-4463-b39c-883357b56c12", "https://vgmdb.net/album/99790"]
 
 [101]
 catalognumber = "GNCA-1574"
 date = "2020-08-05"
 album = "deep blue / sora tob sakana [BD付初回限定盤] Vocal, Video"
 tracks = [
-    [1, "信号", "", ""],
-    [2, "ささやかな祝祭", "", ""],
-    [3, "flash", "", ""],
-    [4, "untie", "", ""],
-    [5, "Making Movie", "", ""],
+    [1, "信号", "sora tob sakana", ""],
+    [2, "ささやかな祝祭", "sora tob sakana", ""],
+    [3, "flash", "sora tob sakana", ""],
+    [4, "untie", "sora tob sakana", ""],
+    [5, "Making Movie", "sora tob sakana", ""],
 ]
-links = ["https://vgmdb.net/album/99790"]
+links = ["https://beta.musicbrainz.org/release/f7c9018b-e536-4463-b39c-883357b56c12", "https://vgmdb.net/album/99790"]
 
 [102]
 catalognumber = "1000746061"
 date = "2019-07-17"
 album = "HELLO to DREAM / 井口裕香 [アーティスト盤] Disc 1 (CD) [1000746061-CD]"
 tracks = [
-    [1, "HELLO to DREAM", "", ""],
-    [2, "We are together!!", "", ""],
-    [3, "HELLO to DREAM (Instrumental)", "", ""],
-    [4, "We are together!! (Instrumental)", "", ""],
+    [1, "HELLO to DREAM", "井口裕香", ""],
+    [2, "We are together!!", "井口裕香", ""],
+    [3, "HELLO to DREAM (Instrumental)", "井口裕香", ""],
+    [4, "We are together!! (Instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/86881"]
+links = ["https://beta.musicbrainz.org/release/86966488-20ba-40c0-a5ee-cb8450a482df", "https://vgmdb.net/album/86881"]
 
 [103]
 catalognumber = "1000746061"
 date = "2019-07-17"
 album = "HELLO to DREAM / 井口裕香 [アーティスト盤] Disc 2 (DVD) [1000746061-SD]"
 tracks = [
-    [1, "HELLO to DREAM (Music Video)", "", ""],
-    [2, "Behind the Scenes of \"HELLO to DREAM\"", "", ""],
-    [3, "TV-SPOT", "", ""],
+    [1, "HELLO to DREAM (Music Video)", "井口裕香", ""],
+    [2, "Behind the Scenes of “HELLO to DREAM”", "井口裕香", ""],
+    [3, "TV-SPOT", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/86881"]
+links = ["https://beta.musicbrainz.org/release/86966488-20ba-40c0-a5ee-cb8450a482df", "https://vgmdb.net/album/86881"]
 
 [104]
 catalognumber = "1000701238"
 date = "2017-12-20"
 album = "アルストロメリア / 鹿乃"
 tracks = [
-    [1, "day by day", "", ""],
-    [2, "Daisy Blue", "", ""],
-    [3, "Melodic Aster*", "", ""],
-    [4, "Linaria Girl", "", ""],
-    [5, "29-Q", "", ""],
-    [6, "Ivy", "", ""],
-    [7, "nameless", "", ""],
-    [8, "RERE", "", ""],
-    [9, "Haruzion", "", ""],
-    [10, "Iberis Song", "", ""],
-    [11, "Sharry Baby!", "", ""],
-    [12, "シュガーソングとビターステップ (BONUS TRACK)", "", ""],
+    [1, "day by day", "鹿乃", ""],
+    [2, "Daisy Blue", "鹿乃", ""],
+    [3, "Melodic Aster*", "鹿乃", ""],
+    [4, "Linaria Girl", "鹿乃", ""],
+    [5, "29-Q", "鹿乃", ""],
+    [6, "Ivy", "鹿乃", ""],
+    [7, "nameless", "鹿乃", ""],
+    [8, "RERE", "鹿乃", ""],
+    [9, "Haruzion", "鹿乃", ""],
+    [10, "Iberis Song", "鹿乃", ""],
+    [11, "Sharry Baby!", "鹿乃", ""],
+    [12, "シュガーソングとビターステップ", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/71861"]
+links = ["https://beta.musicbrainz.org/release/677ae097-6138-4875-a62a-e4b60bcb3e8f", "https://vgmdb.net/album/71861"]
 
 [105]
 catalognumber = "SNCL-00053"
 date = "2022-01-26"
 album = "鹿乃BEST"
 tracks = [
-    [1, "Stella-rium", "", ""],
-    [2, "ディアブレイブ", "", ""],
-    [3, "プリマステラ", "", ""],
-    [4, "nameless", "", ""],
-    [5, "day by day", "", ""],
-    [6, "29-Q", "", ""],
-    [7, "春に落ちて", "", ""],
-    [8, "光の道標", "", ""],
-    [9, "午前0時の無力な神様", "", ""],
-    [10, "罰と罰", "", ""],
-    [11, "なだめスかし Negotiation", "", ""],
-    [12, "コンパスソング", "", ""],
-    [13, "ハロ/ハワユ", "", ""],
-    [14, "アイロニ", "", ""],
-    [15, "六兆年と一夜物語", "", ""],
-    [16, "心做し", "", ""],
+    [1, "Stella-rium", "鹿乃", ""],
+    [2, "ディアブレイブ", "鹿乃", ""],
+    [3, "プリマステラ", "鹿乃", ""],
+    [4, "nameless", "鹿乃", ""],
+    [5, "day by day", "鹿乃", ""],
+    [6, "29-Q", "鹿乃", ""],
+    [7, "春に落ちて", "鹿乃", ""],
+    [8, "光の道標", "鹿乃", ""],
+    [9, "午前0時の無力な神様", "鹿乃", ""],
+    [10, "罰と罰", "鹿乃", ""],
+    [11, "なだめスかし Negotiation", "鹿乃", ""],
+    [12, "コンパスソング", "鹿乃", ""],
+    [13, "ハロ/ハワユ", "鹿乃", ""],
+    [14, "アイロニ", "鹿乃", ""],
+    [15, "六兆年と一夜物語", "鹿乃", ""],
+    [16, "心做し", "鹿乃", ""],
 ]
-links = ["https://vgmdb.net/album/115729"]
+links = ["https://beta.musicbrainz.org/release/4340d870-9e96-4b38-82ee-45eb0d0ced36", "https://vgmdb.net/album/115729"]
 
 [106]
 catalognumber = "1000769389"
 date = "2020-08-12"
 album = "clearly / 井口裕香"
 tracks = [
-    [1, "アクアステップ", "", ""],
-    [2, "HELLO to DREAM", "", ""],
-    [3, "RE-ILLUSION", "", ""],
-    [4, "ハイドランジアに独り言", "", ""],
-    [5, "Niramekko", "", ""],
-    [6, "over and over", "", ""],
-    [7, "革命前夜", "", ""],
-    [8, "Lostorage", "", ""],
-    [9, "UNLOCK", "", ""],
-    [10, "じぶん角形", "", ""],
-    [11, "おなじ空の下で", "", ""],
-    [12, "キミのこと", "", ""],
-    [13, "終わらない歌", "", ""],
-    [14, "よしとしようよ", "", ""],
+    [1, "アクアステップ", "井口裕香", ""],
+    [2, "HELLO to DREAM", "井口裕香", ""],
+    [3, "RE-ILLUSION", "井口裕香", ""],
+    [4, "ハイドランジアに独り言", "井口裕香", ""],
+    [5, "Niramekko", "井口裕香", ""],
+    [6, "over and over", "井口裕香", ""],
+    [7, "革命前夜", "井口裕香", ""],
+    [8, "Lostorage", "井口裕香", ""],
+    [9, "UNLOCK", "井口裕香", ""],
+    [10, "じぶん角形", "井口裕香", ""],
+    [11, "おなじ空の下で", "井口裕香", ""],
+    [12, "キミのこと", "井口裕香", ""],
+    [13, "終わらない歌", "井口裕香", ""],
+    [14, "よしとしようよ", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/97343"]
+links = ["https://beta.musicbrainz.org/release/5365bdf6-86a3-49da-ab8e-69222e17d58d", "https://vgmdb.net/album/97343"]
 
 [107]
 catalognumber = "1000571494-CD"
 date = "2015-09-30"
 album = "FAMILIA MYTH ORIGINAL SOUNDTRACK 2"
 tracks = [
-    [1, "今日はこれから", "", ""],
-    [2, "小人族の少女リリルカ・アーデ", "", ""],
-    [3, "ボクは何でもお見通しなのだよ? ベルくん!?", "", ""],
-    [4, "神様狂想曲", "", ""],
-    [5, "灰色の過去に色彩を", "", ""],
-    [6, "疑念", "", ""],
-    [7, "魔導書 〜グリモア〜", "", ""],
-    [8, "18階層 〜Under the Resort〜", "", ""],
-    [9, "アイズのテーマ", "", ""],
-    [10, "永続する刻の中で", "", ""],
-    [11, "予兆", "", ""],
-    [12, "遭遇", "", ""],
-    [13, "ミノタウロスとの死闘", "", ""],
-    [14, "英雄願望 〜アルゴノゥト〜", "", ""],
-    [15, "階層主からの逃避", "", ""],
-    [16, "決戦、階層主ゴライアス", "", ""],
-    [17, "帰還した新米冒険者に捧ぐ", "", ""],
-    [18, "エピローグ", "", ""],
-    [19, "Main Title", "", ""],
-    [20, "RIGHT LIGHT RISE [TVサイズ]", "", ""],
+    [1, "今日はこれから", "井内啓二", ""],
+    [2, "小人族の少女リリルカ・アーデ", "井内啓二", ""],
+    [3, "ポクは何でもお見通しなのだよ? ベルくん!?", "井内啓二", ""],
+    [4, "神様狂想曲", "井内啓二", ""],
+    [5, "灰色の過去に色彩を", "井内啓二", ""],
+    [6, "疑念", "井内啓二", ""],
+    [7, "魔導書 〜グリモア〜", "井内啓二", ""],
+    [8, "階層 〜Under the Resort〜", "井内啓二", ""],
+    [9, "アイズのテーマ", "井内啓二", ""],
+    [10, "永続する刻の中で", "井内啓二", ""],
+    [11, "予兆", "井内啓二", ""],
+    [12, "遭遇", "井内啓二", ""],
+    [13, "ミノタウロスとの死闘", "井内啓二", ""],
+    [14, "英雄願望 〜アルゴイゥト~", "井内啓二", ""],
+    [15, "階層主からの逃避", "井内啓二", ""],
+    [16, "決戦、階層主ゴライアス", "井内啓二", ""],
+    [17, "帰還した新米冒険者に捧ぐ", "井内啓二", ""],
+    [18, "エピローグ", "井内啓二", ""],
+    [19, "Main Title", "井内啓二", ""],
+    [20, "RIGHT LIGHT RISE(TVサイズ)", "分島花音", ""],
 ]
-links = ["https://vgmdb.net/album/52205"]
+links = ["https://beta.musicbrainz.org/release/feb61492-7165-42a1-b649-2721b694d94c", "https://vgmdb.net/album/52205"]
 
 [108]
 catalognumber = "1000748232-CD"
 date = "2019-11-27"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか II オリジナルサウンドトラック 2"
 tracks = [
-    [1, "女神様のご機嫌取り", "", ""],
-    [2, "歓楽街", "", ""],
-    [3, "悪意の本懐", "", ""],
-    [4, "アマゾネス", "", ""],
-    [5, "女神イシュタル", "", ""],
-    [6, "豊穣の祭り", "", ""],
-    [7, "ソーマ・ファミリアの陰謀", "", ""],
-    [8, "人の子への翼求", "", ""],
-    [9, "潰えぬ過去", "", ""],
-    [10, "ささやかな抵抗", "", ""],
-    [11, "仲間を信じて", "", ""],
-    [12, "苦悩の春姫", "", ""],
-    [13, "感涙", "", ""],
-    [14, "抗戦", "", ""],
-    [15, "殺生石", "", ""],
-    [16, "冒険の終焉", "", ""],
-    [17, "神々の子供達", "", ""],
-    [18, "運命の歯車", "", ""],
-    [19, "反撃の狼煙", "", ""],
-    [20, "今日も、明日も", "", ""],
-    [21, "満月の調べ", "", ""],
+    [1, "女神様のご機嫌取り", "井内啓二", ""],
+    [2, "歓楽街", "井内啓二", ""],
+    [3, "悪意の本懐", "井内啓二", ""],
+    [4, "アマゾネス", "井内啓二", ""],
+    [5, "女神イシュタル", "井内啓二", ""],
+    [6, "豊穣の祭り", "井内啓二", ""],
+    [7, "ソーマ・ファミリアの陰謀", "井内啓二", ""],
+    [8, "人の子への翼求", "井内啓二", ""],
+    [9, "潰えぬ過去", "井内啓二", ""],
+    [10, "ささやかな抵抗", "井内啓二", ""],
+    [11, "仲間を信じて", "井内啓二", ""],
+    [12, "苦悩の春姫", "井内啓二", ""],
+    [13, "感涙", "井内啓二", ""],
+    [14, "抗戦", "井内啓二", ""],
+    [15, "殺生石", "井内啓二", ""],
+    [16, "冒険の終焉", "井内啓二", ""],
+    [17, "神々の子供達", "井内啓二", ""],
+    [18, "運命の歯車", "井内啓二", ""],
+    [19, "反撃の狼煙", "井内啓二", ""],
+    [20, "今日も、明日も", "井内啓二", ""],
+    [21, "満月の調べ", "サンジョウノ・春姫(CV:千菅春香)", ""],
 ]
-links = ["https://vgmdb.net/album/88623"]
+links = ["https://beta.musicbrainz.org/release/b0dc6b05-eb16-46b2-8833-f09d6df2629e", "https://vgmdb.net/album/88623"]
 
 [109]
 catalognumber = "SFWPG010CD1"
 date = "2018-05-08"
 album = "Is It Wrong to Try to Pick Up Girls in a Dungeon? Soundtrack Disc 1 [SFWPG010CD1]"
 tracks = [
-    [1, "Into a Fantasy", "", ""],
-    [2, "Orario, the Labyrinth City", "", ""],
-    [3, "A Rest for the Adventurers", "", ""],
-    [4, "The Road Home to the Hestia Familia", "", ""],
-    [5, "A Pleasant Street Corner", "", ""],
-    [6, "Let's Eat Jagamaru-kun", "", ""],
-    [7, "The Elated Goddess", "", ""],
-    [8, "Hostess of Fertility", "", ""],
-    [9, "Dude, Bell-kun, You're a...", "", ""],
-    [10, "Shoukei Ichizu - Realis Phrase", "", ""],
-    [11, "Let's Go on a Date! Bell-kun!!", "", ""],
-    [12, "I May Not Look It, but I'm a God.", "", ""],
-    [13, "The DOGEZA of Goddess", "", ""],
-    [14, "Comparing Heights of the Gods", "", ""],
-    [15, "Of All Things...", "", ""],
-    [16, "If Enveloped in Kindness", "", ""],
-    [17, "The Scattered Seeds of Conspiracy", "", ""],
-    [18, "The Secret Maneuverings of the Goddess Freya", "", ""],
-    [19, "Kaibutsu-sai -Monster Feria-", "", ""],
-    [20, "Strategic Meeting", "", ""],
-    [21, "Rubellilte Eyes", "", ""],
-    [22, "In the Depths of Despair", "", ""],
-    [23, "For You — Bravery", "", ""],
-    [24, "That Beyond Aspiration Which Is Gazed Upon", "", ""],
-    [25, "Reflect Upon the Surface of the Water, O Heart", "", ""],
-    [26, "That Which Connects God and Child", "", ""],
-    [27, "Tomorrow as Well, for Sure.", "", ""],
+    [1, "Into a Fantasy", "井内啓二", ""],
+    [2, "Orario, the Labyrinth City", "井内啓二", ""],
+    [3, "A Rest for the Adventurers", "井内啓二", ""],
+    [4, "The Road Home to the Hestia Familia", "井内啓二", ""],
+    [5, "A Pleasant Street Corner", "井内啓二", ""],
+    [6, "Let's Eat Jagamaru-kun", "井内啓二", ""],
+    [7, "The Elated Goddess", "井内啓二", ""],
+    [8, "Hostess of Fertility", "井内啓二", ""],
+    [9, "Dude, Bell-kun, You're a...", "井内啓二", ""],
+    [10, "Shoukei Ichizu - Realis Phrase", "井内啓二", ""],
+    [11, "Let's Go on a Date! Bell-kun!!", "井内啓二", ""],
+    [12, "I May Not Look It, but I'm a God.", "井内啓二", ""],
+    [13, "The DOGEZA of Goddess", "井内啓二", ""],
+    [14, "Comparing Heights of the Gods", "井内啓二", ""],
+    [15, "Of All Things...", "井内啓二", ""],
+    [16, "If Enveloped in Kindness", "井内啓二", ""],
+    [17, "The Scattered Seeds of Conspiracy", "井内啓二", ""],
+    [18, "The Secret Maneuverings of the Goddess Freya", "井内啓二", ""],
+    [19, "Kaibutsu-sai -Monster Feria-", "井内啓二", ""],
+    [20, "Strategic Meeting", "井内啓二", ""],
+    [21, "Rubellilte Eyes", "井内啓二", ""],
+    [22, "In the Depths of Despair", "井内啓二", ""],
+    [23, "For You — Bravery", "井内啓二", ""],
+    [24, "That Beyond Aspiration Which Is Gazed Upon", "井内啓二", ""],
+    [25, "Reflect Upon the Surface of the Water, O Heart", "井内啓二", ""],
+    [26, "That Which Connects God and Child", "井内啓二", ""],
+    [27, "Tomorrow as Well, for Sure.", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/75330"]
+links = ["https://beta.musicbrainz.org/release/35f2cdcd-9ae8-442b-b690-63b8d73d4f94", "https://vgmdb.net/album/75330"]
 
 [110]
 catalognumber = "SFWPG010CD2"
 date = "2018-05-08"
 album = "Is It Wrong to Try to Pick Up Girls in a Dungeon? Soundtrack Disc 2 [SFWPG010CD2]"
 tracks = [
-    [1, "Today Starts Now", "", ""],
-    [2, "Liliruca Arde of the Prums", "", ""],
-    [3, "I Can See Through Anything, Bell-kun!", "", ""],
-    [4, "Divine Rhapsody", "", ""],
-    [5, "Coloring for a Gray Past", "", ""],
-    [6, "Suspicion", "", ""],
-    [7, "Madousho — Grimoire", "", ""],
-    [8, "Strata - Under the Resort", "", ""],
-    [9, "Ais' Theme", "", ""],
-    [10, "Within Time that Stretches Eternal", "", ""],
-    [11, "Omen", "", ""],
-    [12, "Encounter", "", ""],
-    [13, "Deadly Battle with the Minotaur", "", ""],
-    [14, "The Heroes' Ambition — Argonaut", "", ""],
-    [15, "Escape from the Floor Boss", "", ""],
-    [16, "Decisive Battle with the Floor Boss Goliath", "", ""],
-    [17, "Offering for the Returned Rookie Adventurer", "", ""],
-    [18, "Epilogue", "", ""],
-    [19, "Main Title", "", ""],
+    [1, "Today Starts Now", "井内啓二", ""],
+    [2, "Liliruca Arde of the Prums", "井内啓二", ""],
+    [3, "I Can See Through Anything, Bell-kun!", "井内啓二", ""],
+    [4, "Divine Rhapsody", "井内啓二", ""],
+    [5, "Coloring for a Gray Past", "井内啓二", ""],
+    [6, "Suspicion", "井内啓二", ""],
+    [7, "Madousho — Grimoire", "井内啓二", ""],
+    [8, "Strata - Under the Resort", "井内啓二", ""],
+    [9, "Ais' Theme", "井内啓二", ""],
+    [10, "Within Time that Stretches Eternal", "井内啓二", ""],
+    [11, "Omen", "井内啓二", ""],
+    [12, "Encounter", "井内啓二", ""],
+    [13, "Deadly Battle with the Minotaur", "井内啓二", ""],
+    [14, "The Heroes' Ambition — Argonaut", "井内啓二", ""],
+    [15, "Escape from the Floor Boss", "井内啓二", ""],
+    [16, "Decisive Battle with the Floor Boss Goliath", "井内啓二", ""],
+    [17, "Offering for the Returned Rookie Adventurer", "井内啓二", ""],
+    [18, "Epilogue", "井内啓二", ""],
+    [19, "Main Title", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/75330"]
+links = ["https://beta.musicbrainz.org/release/35f2cdcd-9ae8-442b-b690-63b8d73d4f94", "https://vgmdb.net/album/75330"]
 
 [111]
 catalognumber = "1000820619-CD"
@@ -1880,36 +1880,36 @@ catalognumber = "1000781062-CD"
 date = "2021-01-29"
 album = "ダンジョンに出会いを求めるのは間違っているだろうか III オリジナルサウンドトラック 1"
 tracks = [
-    [1, "逃避行", "", ""],
-    [2, "異形の少女 ウィーネ", "", ""],
-    [3, "竜娘のいる日常", "", ""],
-    [4, "オニギリ食べよう", "", ""],
-    [5, "異端児の隠里", "", ""],
-    [6, "White Rabbit's Reel", "", ""],
-    [7, "MISSiON", "", ""],
-    [8, "サンゲキの王者", "", ""],
-    [9, "動乱都市", "", ""],
-    [10, "獣の夢", "", ""],
-    [11, "混じり合わぬ糸", "", ""],
-    [12, "交差する意図", "", ""],
-    [13, "世界と怪物と現実", "", ""],
-    [14, "一蓮托生", "", ""],
-    [15, "生きる亡霊", "", ""],
-    [16, "共存への架け橋", "", ""],
+    [1, "逃避行", "井内啓二", ""],
+    [2, "異形の少女 ウィーネ", "井内啓二", ""],
+    [3, "竜娘のいる日常", "井内啓二", ""],
+    [4, "オニギリ食べよう", "井内啓二", ""],
+    [5, "異端児の隠里", "井内啓二", ""],
+    [6, "White Rabbit's Reel", "井内啓二", ""],
+    [7, "MISSiON", "井内啓二", ""],
+    [8, "サンゲキの王者", "井内啓二", ""],
+    [9, "動乱都市", "井内啓二", ""],
+    [10, "獣の夢", "井内啓二", ""],
+    [11, "混じり合わぬ糸", "井内啓二", ""],
+    [12, "交差する意図", "井内啓二", ""],
+    [13, "世界と怪物と現実", "井内啓二", ""],
+    [14, "一蓮托生", "井内啓二", ""],
+    [15, "生きる亡霊", "井内啓二", ""],
+    [16, "共存への架け橋", "井内啓二", ""],
 ]
-links = ["https://vgmdb.net/album/104550"]
+links = ["https://beta.musicbrainz.org/release/8063bb3e-a3e6-4508-8305-f7cb9d9522c2", "https://vgmdb.net/album/104550"]
 
 [114]
 catalognumber = "1000563678"
 date = "2015-04-29"
 album = "Hey World / 井口裕香 [初回限定盤] Disc 1 (CD) [1000563678-CD]"
 tracks = [
-    [1, "Hey World", "", ""],
-    [2, "指先ファンタジー", "", ""],
-    [3, "Hey World (Instrumental)", "", ""],
-    [4, "指先ファンタジー (Instrumental)", "", ""],
+    [1, "Hey World", "井口裕香", ""],
+    [2, "指先ファンタジー", "井口裕香", ""],
+    [3, "Hey World (instrumental)", "井口裕香", ""],
+    [4, "指先ファンタジー (instrumental)", "井口裕香", ""],
 ]
-links = ["https://vgmdb.net/album/50828"]
+links = ["https://beta.musicbrainz.org/release/4e133b6b-3ca3-4484-ba99-081cbd997ebc", "https://vgmdb.net/album/50828"]
 
 [115]
 catalognumber = "1000563678"
@@ -1927,11 +1927,11 @@ catalognumber = "1000815988"
 date = "2022-07-29"
 album = "Guide / 早見沙織"
 tracks = [
-    [1, "Guide", "", ""],
-    [2, "Guide (Instrumental)", "", ""],
-    [3, "Guide (TV EDIT)", "", ""],
+    [1, "Guide", "早見沙織", ""],
+    [2, "Guide (Instrumental)", "早見沙織", ""],
+    [3, "Guide (TV EDIT)", "早見沙織", ""],
 ]
-links = ["https://vgmdb.net/album/121352"]
+links = ["https://beta.musicbrainz.org/release/09176fcb-6fe0-40e8-8fd1-313728d012d0", "https://vgmdb.net/album/121352"]
 
 [117]
 catalognumber = "1000820617-CD"
