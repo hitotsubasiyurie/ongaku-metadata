@@ -3,7 +3,7 @@ catalognumber = "VTCL-60016"
 date = "2007-12-27"
 album = "テレビ東京系アニメーション「スケッチブック～full color's～」ドラマCD スケッチブックストーリーズ～前夜祭～"
 tracks = [
-    [1, "文化祭への道", "[dialogue]", ""],
+    [1, "文化祭への道", "[dialogue]", "0"],
     [2, "究極のヤキソバ", "[dialogue]", ""],
     [3, "いっぱいの天ぷらそば", "[dialogue]", ""],
     [4, "やるきな美術部", "[dialogue]", ""],
@@ -57,3 +57,15 @@ tracks = [
     [5, "遠くまで行こう -Instrumental-", "牧野由依", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/7acf9734-1118-492a-bb5f-7a994b2e319d", "https://vgmdb.net/album/35385"]
+
+[4]
+catalognumber = "VTCL-35002"
+date = "2007-10-24"
+album = "風さがし / 清浦夏実"
+tracks = [
+    [1, "風さがし", "清浦夏実", ""],
+    [2, "夏の記憶", "清浦夏実", ""],
+    [3, "風さがし -Instrumental-", "清浦夏実", ""],
+    [4, "夏の記憶 -Instrumental-", "清浦夏実", ""],
+]
+links = ["https://beta.musicbrainz.org/release/5a7bf300-3ac3-4877-835c-6e34630d4388", "https://vgmdb.net/album/24475"]
