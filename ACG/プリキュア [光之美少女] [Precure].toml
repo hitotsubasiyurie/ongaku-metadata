@@ -3197,51 +3197,6 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/02e838cb-d305-4951-9904-e81aac4989cd", "https://vgmdb.net/album/54131"]
 
 [160]
-catalognumber = "MJSA-01421"
-date = "2025-05-28"
-album = "キミとアイドルプリキュア♪ オリジナル・サウンドトラック プリキュア・キラキラ・サウンド!!"
-tracks = [
-    [1, "キミとキラッキランラン♪", "深澤恵梨香", ""],
-    [2, "キミとアイドルプリキュア♪ Light Up! (TVサイズ)", "石井あみ・熊田茜音・吉武千颯", ""],
-    [3, "陽だまりのパレット", "馬瀬みさき", ""],
-    [4, "サブタイトル", "深澤恵梨香", "0"],
-    [5, "さくら色のティータイム", "馬瀬みさき", ""],
-    [6, "チョッキリ団", "深澤恵梨香", ""],
-    [7, "闇を照らす救世主", "馬瀬みさき", ""],
-    [8, "プリキュア!ライトアップ! (Short version)", "深澤恵梨香", ""],
-    [9, "笑顔のユニゾン♪ ～プリキュア!アイドルスマイリング!～", "キュアアイドル(CV：松岡美里)", ""],
-    [10, "うわさの人気者", "馬瀬みさき", ""],
-    [11, "思い出に沈むとき", "馬瀬みさき", ""],
-    [12, "勇気のドアをあけて", "深澤恵梨香", ""],
-    [13, "まばたきの五線譜 ～プリキュア!ウインククレッシェンド!～", "キュアウインク(CV：髙橋ミナミ)", ""],
-    [14, "あこがれがとまらない", "馬瀬みさき", ""],
-    [15, "アイドルプリキュアをさがせ!", "馬瀬みさき", ""],
-    [16, "ココロレボリューション ～プリキュア!キュンキュンビート!～", "キュアキュンキュン(CV：高森奈津美)", ""],
-    [17, "はなみちタウンで会いましょう", "深澤恵梨香", ""],
-    [18, "アイドルキャッチ♪", "深澤恵梨香", ""],
-    [19, "光あふれる世界", "馬瀬みさき", ""],
-    [20, "私はピカリーネ", "深澤恵梨香", ""],
-    [21, "あの子のひみつ", "馬瀬みさき", ""],
-    [22, "すれちがいデュエット", "馬瀬みさき", ""],
-    [23, "プリプリルンルン～♪", "馬瀬みさき", ""],
-    [24, "キラキラをふりまいて", "馬瀬みさき", ""],
-    [25, "闇の気配", "馬瀬みさき", ""],
-    [26, "世界をクラクラの真っ暗闇にせよ", "深澤恵梨香", ""],
-    [27, "キラッキランランにしちゃうよ", "深澤恵梨香", ""],
-    [28, "プリキュア!ライトアップ!", "深澤恵梨香", ""],
-    [29, "激闘のプレリュード", "深澤恵梨香", ""],
-    [30, "白熱のバトルステージ", "深澤恵梨香", ""],
-    [31, "歌って踊ってファンサして□", "深澤恵梨香", ""],
-    [32, "Trio Dreams ～プリキュア!ハイエモーション!～", "キュアアイドル(CV：松岡美里)&キュアウインク(CV：髙橋ミナミ)&キュアキュンキュン(CV：高森奈津美)", ""],
-    [33, "夢色のときめき", "馬瀬みさき", ""],
-    [34, "川沿いの道を走ろう", "馬瀬みさき", ""],
-    [35, "キミと一緒に", "深澤恵梨香", ""],
-    [36, "Trio Dreams (TVサイズ)", "キュアアイドル(CV：松岡美里)&キュアウインク(CV：髙橋ミナミ)&キュアキュンキュン(CV：高森奈津美)", ""],
-    [37, "今日もキミと!キラッキランラン～♪", "広川恵一", ""],
-]
-links = ["https://beta.musicbrainz.org/release/4d863655-6046-47d2-9da3-17e690d76adb", "https://vgmdb.net/album/147975"]
-
-[161]
 catalognumber = "MJSA-01032"
 date = "2011-11-30"
 album = "スイートプリキュア♪ オリジナル・サウンドトラック2 プリキュア・サウンドシンフォニア!!"
@@ -3277,7 +3232,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd5abf4b-c6e9-472c-bafc-ec15c2554513", "https://vgmdb.net/album/30200"]
 
-[162]
+[161]
 catalognumber = "MJSS-09255"
 date = "2020-07-22"
 album = "ヒーリングっど♥プリキュア キャラクターシングル 〜響き合う4つの声〜"
@@ -3288,7 +3243,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/edfab9dd-7e1c-4893-8546-d68021c5e523", "https://vgmdb.net/album/99606"]
 
-[163]
+[162]
 catalognumber = "MJSS-09139"
 date = "2015-03-04"
 album = "Miracle Gо! プリンセスプリキュア/ドリーミング☆プリンセスプリキュア"
@@ -3300,7 +3255,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/63b4a09f-b436-4531-a78d-c82632712d13", "https://vgmdb.net/album/49974"]
 
-[164]
+[163]
 catalognumber = "82876"
 date = "2005-10-14"
 album = "Pretty Cure – Der offizielle Soundtrack zur Serie"
@@ -3322,7 +3277,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97126"]
 
-[165]
+[164]
 catalognumber = "MJSS-09337"
 date = "2023-03-22"
 album = "ひろがるスカイ! プリキュア 主題歌シングル Disc 1 (CD) [MJSS-09337]"
@@ -3336,7 +3291,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/198dfdd7-f271-4846-b010-f4d62d8fc025", "https://vgmdb.net/album/125739"]
 
-[166]
+[165]
 catalognumber = "MJSS-09338"
 date = "2023-03-22"
 album = "ひろがるスカイ! プリキュア 主題歌シングル Disc 2 (DVD) [MJSS-09338]"
@@ -3346,7 +3301,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/198dfdd7-f271-4846-b010-f4d62d8fc025", "https://vgmdb.net/album/125739"]
 
-[167]
+[166]
 catalognumber = "MJCD-23005"
 date = "2005-05-25"
 album = "心のチカラ/希望の涙 ~Tears for tomorrow~"
@@ -3358,7 +3313,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bc2c3623-59d0-43bd-bbfa-e9dd0a6ed001", "https://vgmdb.net/album/51514"]
 
-[168]
+[167]
 catalognumber = "MJSS-09158"
 date = "2015-10-28"
 album = "Sharin' Miracle/Happy Happening♪"
@@ -3370,7 +3325,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4544399-2dbe-4d2e-9d43-e406413f87fa", "https://vgmdb.net/album/55124"]
 
-[169]
+[168]
 catalognumber = "MJSS-09345"
 date = "2023-09-13"
 album = "映画プリキュアオールスターズF テーマソングシングル Disc 1 (CD) [MJSS-09345]"
@@ -3382,7 +3337,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dacc5c50-e397-4ce0-b36e-a922dab0361a", "https://vgmdb.net/album/130793"]
 
-[170]
+[169]
 catalognumber = "MJSS-09346"
 date = "2023-09-13"
 album = "映画プリキュアオールスターズF テーマソングシングル Disc 2 (DVD) [MJSS-09346]"
@@ -3392,7 +3347,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dacc5c50-e397-4ce0-b36e-a922dab0361a", "https://vgmdb.net/album/130793"]
 
-[171]
+[170]
 catalognumber = "MJSS-09028"
 date = "2011-06-01"
 album = "Let's! フレッシュプリキュア!/You make me happy!/Let's! フレッシュプリキュア! ~Hybrid ver.~/H@ppy Together!!!"
@@ -3408,7 +3363,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48328"]
 
-[172]
+[171]
 catalognumber = "MJCG-83027"
 date = "2004-03-24"
 album = "DANZEN!ふたりはプリキュア/ゲッチュウ!らぶらぶぅ?! / 五條真由美"
@@ -3420,7 +3375,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8e930387-a6c3-39a3-9662-13e7dcc91272", "https://vgmdb.net/album/59285"]
 
-[173]
+[172]
 catalognumber = "MJSS-09194"
 date = "2017-04-26"
 album = "キラキラ☆プリキュアアラモード キャラクターソングシングル sweet etude 2 キュアカスタード"
@@ -3431,7 +3386,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2eafe118-c7cb-442a-a2d2-f8d345cfa45d", "https://vgmdb.net/album/65894"]
 
-[174]
+[173]
 catalognumber = "MJSA-01400"
 date = "2024-12-25"
 album = "\"えがおのおくりもの\" ～Chihaya Yoshitake Precure Song Best～ Disc 1 (CD) [MJSA-01400]"
@@ -3457,7 +3412,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81d5734b-b429-4671-9483-e3a93e6d2cf8", "https://vgmdb.net/album/142879"]
 
-[175]
+[174]
 catalognumber = "MJSA-01401"
 date = "2024-12-25"
 album = "\"えがおのおくりもの\" ～Chihaya Yoshitake Precure Song Best～ Disc 2 (DVD) [MJSA-01401]"
@@ -3468,7 +3423,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81d5734b-b429-4671-9483-e3a93e6d2cf8", "https://vgmdb.net/album/142879"]
 
-[176]
+[175]
 catalognumber = "SRCL-9649"
 date = "2017-12-20"
 album = "Best Regards! / 渡辺麻友 [完全生産限定盤B] Disc 1 (CD) [SRCL-9649]"
@@ -3490,7 +3445,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dda69a97-d861-48b9-b8db-e61cdcca21f4", "https://vgmdb.net/album/86552"]
 
-[177]
+[176]
 catalognumber = "SRCL-9650"
 date = "2017-12-20"
 album = "Best Regards! / 渡辺麻友 [完全生産限定盤B] Disc 2 (DVD) [SRCL-9650]"
@@ -3523,7 +3478,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dda69a97-d861-48b9-b8db-e61cdcca21f4", "https://vgmdb.net/album/86552"]
 
-[178]
+[177]
 catalognumber = "SRCL-9647"
 date = "2017-12-20"
 album = "Best Regards! / 渡辺麻友 [完全生産限定盤A] Disc 1 (CD) [SRCL-9647]"
@@ -3545,7 +3500,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f95fcf2-3537-48d9-b5f9-22b4bcd23a06", "https://vgmdb.net/album/86551"]
 
-[179]
+[178]
 catalognumber = "SRCL-9648"
 date = "2017-12-20"
 album = "Best Regards! / 渡辺麻友 [完全生産限定盤A] Disc 2 (DVD) [SRCL-9648]"
@@ -3564,7 +3519,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f95fcf2-3537-48d9-b5f9-22b4bcd23a06", "https://vgmdb.net/album/86551"]
 
-[180]
+[179]
 catalognumber = "TCBD-0310"
 date = "2014-03-12"
 album = "プリキュアエンディングムービーコレクション ～みんなでダンス!～"
@@ -3583,7 +3538,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87322"]
 
-[181]
+[180]
 catalognumber = "MJCD-20196"
 date = "2010-10-27"
 album = "My way / 工藤真由"
@@ -3600,7 +3555,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85970"]
 
-[182]
+[181]
 catalognumber = "MJSS-09026"
 date = "2011-06-01"
 album = "Let's! フレッシュプリキュア!/You make me happy!/Let's! フレッシュプリキュア! ~Hybrid ver.~/H@ppy Together!!! Disc 1 (CD) [MJSS-09026]"
@@ -3616,7 +3571,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48329"]
 
-[183]
+[182]
 catalognumber = "MJSS-09027"
 date = "2011-06-01"
 album = "Let's! フレッシュプリキュア!/You make me happy!/Let's! フレッシュプリキュア! ~Hybrid ver.~/H@ppy Together!!! Disc 2 (DVD) [MJSS-09027]"
@@ -3628,7 +3583,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48329"]
 
-[184]
+[183]
 catalognumber = "MJSS-09383"
 date = "2024-09-11"
 album = "わんだふるぷりきゅあ! ざ・むーびー! ドキドキ♡ゲームの世界で大冒険! 主題歌シングル"
@@ -3640,7 +3595,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0557111d-d849-40be-a7c2-d20b261c5f81", "https://vgmdb.net/album/140501"]
 
-[185]
+[184]
 catalognumber = "MJSA-01031"
 date = "2011-10-26"
 album = "映画スイートプリキュア♪とりもどせ! 心がつなぐ奇跡のメロディ♪ オリジナル・サウンドトラック"
@@ -3684,7 +3639,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a0d411e-8439-4acd-8eb5-ecb215f85de7", "https://vgmdb.net/album/30090"]
 
-[186]
+[185]
 catalognumber = "MJCD-20034"
 date = "2005-07-22"
 album = "ふたりはプリキュアMax Heart キャラクター･ミニアルバム 雪城ほのか/キュアホワイト"
@@ -3700,7 +3655,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/910daf54-313d-4700-819c-5f96b51cd196", "https://vgmdb.net/album/58303"]
 
-[187]
+[186]
 catalognumber = "MJCD-20127"
 date = "2008-08-06"
 album = "Yes!プリキュア5GoGo! ボーカルアルバム1 My dear friend～プリキュアからの招待状～"
@@ -3719,7 +3674,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c6f28a4d-2637-478a-a137-af3960dc34ca", "https://vgmdb.net/album/47418"]
 
-[188]
+[187]
 catalognumber = "MJCD-20198"
 date = "2010-12-22"
 album = "ハートキャッチプリキュア! オリジナル・サウンドトラック2 プリキュア・サウンド・バースト!!"
@@ -3765,7 +3720,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b588e9b2-fbd9-4b5e-b4e1-85cddc5fb87f", "https://vgmdb.net/album/30092"]
 
-[189]
+[188]
 catalognumber = "MJSS-09224"
 date = "2018-08-22"
 album = "HUGっと! YELL FOR YOU/LOVE & LOVE"
@@ -3777,7 +3732,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/333a1d07-43b0-4a97-95fa-07e758444886", "https://vgmdb.net/album/79780"]
 
-[190]
+[189]
 catalognumber = "MJSA-01195"
 date = "2016-07-13"
 album = "魔法つかいプリキュア! ボーカルアルバム リンクル☆メロディーズ"
@@ -3795,7 +3750,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/482b3b68-15c8-4811-93fb-3254556a0529", "https://vgmdb.net/album/58264"]
 
-[191]
+[190]
 catalognumber = "MJSA-01218"
 date = "2017-01-25"
 album = "プリキュア エンディングテーマコレクション 2004～2016 Disc 1 [MJSA-01218]"
@@ -3816,7 +3771,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0ec05319-569d-432c-9e86-e4aab10c3073", "https://vgmdb.net/album/63857"]
 
-[192]
+[191]
 catalognumber = "MJSA-01219"
 date = "2017-01-25"
 album = "プリキュア エンディングテーマコレクション 2004～2016 Disc 2 [MJSA-01219]"
@@ -3836,7 +3791,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0ec05319-569d-432c-9e86-e4aab10c3073", "https://vgmdb.net/album/63857"]
 
-[193]
+[192]
 catalognumber = "MJSA-01188"
 date = "2016-09-28"
 album = "♪みんなで歌おう♪ プリキュアパーティー"
@@ -3854,7 +3809,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61216467-0293-4351-ba14-a0c94588a104", "https://vgmdb.net/album/85216"]
 
-[194]
+[193]
 catalognumber = "MJCD-20169"
 date = "2009-09-02"
 album = "フレッシュプリキュア! オリジナル・サウンドトラック1 プリキュア・サウンド・サンシャイン!!"
@@ -3903,7 +3858,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5f18b9c2-908c-428c-a1a0-400c81506b57", "https://vgmdb.net/album/34092"]
 
-[195]
+[194]
 catalognumber = "MJSA-01139"
 date = "2015-01-14"
 album = "ハピネスチャージプリキュア! ボーカルベスト"
@@ -3924,7 +3879,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c10845aa-3957-434f-8a8b-79b85b5e7455", "https://vgmdb.net/album/48916"]
 
-[196]
+[195]
 catalognumber = "MJSA-01044"
 date = "2012-08-08"
 album = "プリキュア プレミアムコンサート2012～オーケストラと遊ぼう～"
@@ -3950,7 +3905,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/88194"]
 
-[197]
+[196]
 catalognumber = "MJSS-09031"
 date = "2011-06-01"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス!/Tomorrow Song ～あしたのうた～"
@@ -3964,7 +3919,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c6fb118c-0b50-4462-bbc8-22c3983f8273", "https://vgmdb.net/album/48326"]
 
-[198]
+[197]
 catalognumber = "MJCD-20177"
 date = "2009-12-23"
 album = "フレッシュプリキュア! オリジナル・サウンドトラック2 - プリキュア・サウンド・ハリケーン!!"
@@ -4010,7 +3965,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6f1a5d53-c59f-4a00-8e27-ac12b8d42427", "https://vgmdb.net/album/34093"]
 
-[199]
+[198]
 catalognumber = "MJCD-20143"
 date = "2008-12-03"
 album = "映画 Yes! プリキュア5GoGo! お菓子の国のハッピーバースデイ♪ オリジナル・サウンドトラック"
@@ -4050,7 +4005,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/50811270-095d-4a8b-a845-9d891bddc8ed", "https://vgmdb.net/album/47420"]
 
-[200]
+[199]
 catalognumber = "MJCD-23089"
 date = "2010-09-08"
 album = "Tomorrow Song ~あしたのうた~/HEART GOES ON Disc 1 (CD) [MJCD-23089]"
@@ -4062,7 +4017,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/10b1fe2a-0c44-4b41-9059-766639009716", "https://vgmdb.net/album/47606"]
 
-[201]
+[200]
 catalognumber = "MJCD-23089"
 date = "2010-09-08"
 album = "Tomorrow Song ~あしたのうた~/HEART GOES ON Disc 2 (DVD) [MJCD-23089A]"
@@ -4072,7 +4027,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/10b1fe2a-0c44-4b41-9059-766639009716", "https://vgmdb.net/album/47606"]
 
-[202]
+[201]
 catalognumber = "MJSS-09302"
 date = "2021-10-20"
 album = "映画トロピカル～ジュ! プリキュア 雪のプリンセスと奇跡の指輪! 主題歌シングル"
@@ -4086,7 +4041,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/39a6be23-975c-444c-8156-2fe25e0015bb", "https://vgmdb.net/album/113075"]
 
-[203]
+[202]
 catalognumber = "MJSA-01322"
 date = "2022-02-02"
 album = "トロピカル～ジュ! プリキュア ボーカルベスト ～えがおのままで～"
@@ -4110,7 +4065,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a07ee0b7-e943-4a13-8fda-25bf2135574a", "https://vgmdb.net/album/115970"]
 
-[204]
+[203]
 catalognumber = "COCX-36962"
 date = "2011-09-28"
 album = "Trilogy / 五條真由美"
@@ -4131,7 +4086,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce9e0118-99f3-4b5c-8a78-34f20b65a5a5", "https://vgmdb.net/album/87183"]
 
-[205]
+[204]
 catalognumber = "MJCD-20011"
 date = "2004-09-24"
 album = "ふたりはプリキュア プリキュア･サウンド･スクリュー! オリジナル･サントラ1"
@@ -4180,7 +4135,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e4828c5c-5dc2-4b5e-8c76-cca6e5222f7d", "https://vgmdb.net/album/58918"]
 
-[206]
+[205]
 catalognumber = "MJSA-01043"
 date = "2012-06-06"
 album = "スマイルプリキュア！オリジナル・サウンドトラック1 プリキュア・サウンド・パレード!!"
@@ -4220,7 +4175,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/147981b6-3b8c-4b19-8e7a-a6d87bc11694", "https://vgmdb.net/album/32200"]
 
-[207]
+[206]
 catalognumber = "MJSS-09199"
 date = "2017-08-02"
 album = "キラキラ☆プリキュアアラモード キャラクターソングシングル sweet etude 6 キュアパルフェ"
@@ -4231,7 +4186,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dcdfef54-a374-4c19-ad9c-4eb9754d188d", "https://vgmdb.net/album/68666"]
 
-[208]
+[207]
 catalognumber = "AVCD-83390"
 date = "2015-11-04"
 album = "KIRA KIRA/AKARI / Every Little Thing"
@@ -4243,7 +4198,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f1109861-ad95-4edc-8212-3347b1bd54b1", "https://vgmdb.net/album/54875"]
 
-[209]
+[208]
 catalognumber = "MJSS-09104"
 date = "2013-09-04"
 album = "ラブリンク/この空の向こう～ドキドキ!プリキュアといっしょ～ Disc 1 (CD) [MJSS-09104]"
@@ -4255,7 +4210,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8c054ad8-63d5-40fb-b5c8-b3b82c750ed1", "https://vgmdb.net/album/41176"]
 
-[210]
+[209]
 catalognumber = "MJSS-09105"
 date = "2013-09-04"
 album = "ラブリンク/この空の向こう～ドキドキ!プリキュアといっしょ～ Disc 2 (DVD) [MJSS-09105]"
@@ -4265,7 +4220,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/41176"]
 
-[211]
+[210]
 catalognumber = "MJCD-23075"
 date = "2009-10-21"
 album = "Let's! フレッシュプリキュア! ～Hybrid ver.～ for the Movie/H@ppy Together!!! for the Movie"
@@ -4277,7 +4232,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/29d79395-da0b-417a-97d5-db850e6b2307", "https://vgmdb.net/album/47336"]
 
-[212]
+[211]
 catalognumber = "MJCD-20022"
 date = "2005-01-26"
 album = "『ふたりはプリキュア』 プリキュア･サウンド･セラピー!! オリジナル･サントラ2"
@@ -4335,7 +4290,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b9fbe366-c26c-4839-9608-ef4dd7334627", "https://vgmdb.net/album/58919"]
 
-[213]
+[212]
 catalognumber = "PCXX-50101"
 date = "2016-01-06"
 album = "映画プリキュアシリーズ オープニング＆エンディングムービーコレクション"
@@ -4380,7 +4335,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87777"]
 
-[214]
+[213]
 catalognumber = "MJSA-01127"
 date = "2014-11-19"
 album = "ハピネスチャージプリキュア! ボーカルアルバム2 ～シャイニング☆ハピネスパーティ～"
@@ -4399,7 +4354,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c8c8b788-b5e7-4ad4-ad8c-60b166a1465e", "https://vgmdb.net/album/47745"]
 
-[215]
+[214]
 catalognumber = "MJSA-01178"
 date = "2016-01-13"
 album = "Go!プリンセスプリキュア ボーカルベスト"
@@ -4421,7 +4376,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5f8cf34-36bb-4381-9df0-cc4373ecc05b", "https://vgmdb.net/album/55898"]
 
-[216]
+[215]
 catalognumber = "MJSS-09288"
 date = "2021-04-07"
 album = "Viva! Spark! トロピカル～ジュ! プリキュア/トロピカI・N・G Disc 1 (CD) [MJSS-09288]"
@@ -4433,7 +4388,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72027173-ba87-407a-8ce6-7ee7602ad703", "https://vgmdb.net/album/108639"]
 
-[217]
+[216]
 catalognumber = "MJSS-09289"
 date = "2021-04-07"
 album = "Viva! Spark! トロピカル～ジュ! プリキュア/トロピカI・N・G Disc 2 (DVD) [MJSS-09289]"
@@ -4443,7 +4398,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72027173-ba87-407a-8ce6-7ee7602ad703", "https://vgmdb.net/album/108639"]
 
-[218]
+[217]
 catalognumber = "MJSA-01302"
 date = "2020-12-23"
 album = "ヒーリングっど♥プリキュア オリジナル・サウンドトラック2 プリキュア・サウンド・オアシス!!"
@@ -4491,7 +4446,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b723e10e-1220-4097-b061-168a5d991885", "https://vgmdb.net/album/104777"]
 
-[219]
+[218]
 catalognumber = "MJSS-09300"
 date = "2021-10-20"
 album = "映画トロピカル～ジュ! プリキュア 雪のプリンセスと奇跡の指輪! 主題歌シングル Disc 1 (CD) [MJSS-09300]"
@@ -4505,7 +4460,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/667d14fc-82a5-4119-ad12-d69e6edb7654", "https://vgmdb.net/album/113073"]
 
-[220]
+[219]
 catalognumber = "MJSS-09301"
 date = "2021-10-20"
 album = "映画トロピカル～ジュ! プリキュア 雪のプリンセスと奇跡の指輪! 主題歌シングル Disc 2 (DVD) [MJSS-09301]"
@@ -4517,7 +4472,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/667d14fc-82a5-4119-ad12-d69e6edb7654", "https://vgmdb.net/album/113073"]
 
-[221]
+[220]
 catalognumber = "MJCD-23082"
 date = "2010-03-24"
 album = "キラキラkawaii! プリキュア大集合♪ ~キボウの光~/17jewels ~プリキュアメドレー2010~"
@@ -4529,7 +4484,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/244b313b-2917-4e1b-abfa-b869aecb56b7", "https://vgmdb.net/album/42949"]
 
-[222]
+[221]
 catalognumber = "MJSA-01269"
 date = "2019-01-16"
 album = "HUGっと! プリキュア ベストアルバム Cheerful Songs Best"
@@ -4549,7 +4504,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/679ce7d1-41b4-4a1d-9577-4442139bc2aa", "https://vgmdb.net/album/81734"]
 
-[223]
+[222]
 catalognumber = "QWCE-00244"
 date = "2012-09-05"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 16"
@@ -4575,7 +4530,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3aab2b72-1a35-4ff5-be12-862ed2310294", "https://vgmdb.net/album/35104"]
 
-[224]
+[223]
 catalognumber = "MJSS-09220"
 date = "2018-10-24"
 album = "映画 HUGっと!プリキュア♡ふたりはプリキュア オールスターズメモリーズ 主題歌シングル"
@@ -4587,7 +4542,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/80201"]
 
-[225]
+[224]
 catalognumber = "MJSA-01311"
 date = "2021-03-17"
 album = "映画ヒーリングっど♥プリキュア ゆめのまちでキュン!っとGoGo!大変身!! オリジナル・サウンドトラック"
@@ -4628,7 +4583,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/41e97c0c-79db-4336-a520-7f4785ed921d", "https://vgmdb.net/album/106964"]
 
-[226]
+[225]
 catalognumber = "MJSS-09218"
 date = "2018-10-24"
 album = "映画 HUGっと!プリキュア♡ふたりはプリキュア オールスターズメモリーズ 主題歌シングル Vocal"
@@ -4640,7 +4595,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78319e7a-bda8-40b7-95e3-4c3d8cf618fd", "https://vgmdb.net/album/80202"]
 
-[227]
+[226]
 catalognumber = "MJSS-09219"
 date = "2018-10-24"
 album = "映画 HUGっと!プリキュア♡ふたりはプリキュア オールスターズメモリーズ 主題歌シングル Video"
@@ -4649,7 +4604,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78319e7a-bda8-40b7-95e3-4c3d8cf618fd", "https://vgmdb.net/album/80202"]
 
-[228]
+[227]
 catalognumber = "EPCE-7098"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [通常盤B]"
@@ -4663,7 +4618,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fdf85aad-7a1c-4d27-b059-50cfc33a87c1", "https://vgmdb.net/album/86407"]
 
-[229]
+[228]
 catalognumber = "MJSS-09186"
 date = "2017-03-01"
 album = "SHINE!! キラキラ☆プリキュアアラモード/レッツ・ラ・クッキン☆ショータイム"
@@ -4675,7 +4630,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ee15e7a3-228d-4790-a44c-fd49dbf46234", "https://vgmdb.net/album/64145"]
 
-[230]
+[229]
 catalognumber = "MJSS-09056"
 date = "2011-09-07"
 album = "ラ♪ラ♪ラ♪スイートプリキュア♪ ~∞UNLIMITED∞ ver.~/♯キボウレインボウ♯"
@@ -4687,14 +4642,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/944a796e-c622-4c19-93f1-b287ad7c0538", "https://vgmdb.net/album/47636"]
 
-[231]
+[230]
 catalognumber = "MJSA-01250"
 date = "2018-10-03"
 album = "15周年記念プリキュア映画ソングスベストコレクション"
 tracks = []
 links = ["https://vgmdb.net/album/88088"]
 
-[232]
+[231]
 catalognumber = "MJSS-09259"
 date = "2020-10-28"
 album = "映画プリキュアミラクルリープ みんなとの不思議な1日 テーマソングシングル Disc 1 (CD) [MJSS-09259]"
@@ -4706,7 +4661,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bce027fd-ee1b-4a32-99ad-75349c845651", "https://vgmdb.net/album/95717"]
 
-[233]
+[232]
 catalognumber = "MJSS-09260"
 date = "2020-10-28"
 album = "映画プリキュアミラクルリープ みんなとの不思議な1日 テーマソングシングル Disc 2 (DVD) [MJSS-09260]"
@@ -4717,7 +4672,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bce027fd-ee1b-4a32-99ad-75349c845651", "https://vgmdb.net/album/95717"]
 
-[234]
+[233]
 catalognumber = "MJSA-01370"
 date = "2023-05-31"
 album = "ひろがるスカイ! プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・ミラージュ!!"
@@ -4766,7 +4721,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f987b639-aec6-44c1-9300-3a7b8537a7ff", "https://vgmdb.net/album/126435"]
 
-[235]
+[234]
 catalognumber = "COCX-40395"
 date = "2018-06-27"
 album = "10rder / 吉田仁美"
@@ -4791,7 +4746,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/98548"]
 
-[236]
+[235]
 catalognumber = "MJCD-20195"
 date = "2010-10-27"
 album = "My way / 工藤真由 Arrangement, Vocal"
@@ -4808,7 +4763,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85971"]
 
-[237]
+[236]
 catalognumber = "MJCD-20195"
 date = "2010-10-27"
 album = "My way / 工藤真由 Vocal"
@@ -4819,7 +4774,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85971"]
 
-[238]
+[237]
 catalognumber = "MJCD-20197"
 date = "2010-12-22"
 album = "ハートキャッチプリキュア! ボーカルアルバム2 〜いろとりどりの花言葉〜"
@@ -4839,7 +4794,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a26b390-7fab-4b99-9749-504f4cc2db47", "https://vgmdb.net/album/46605"]
 
-[239]
+[238]
 catalognumber = "MJCD-20048"
 date = "2006-01-25"
 album = "ふたりはプリキュア MaxHeart(マックスハート) オリジナル・サウンドトラック プリキュアサウンドスクリュー! Max!! Spark!!"
@@ -4886,7 +4841,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ab47304b-cc6e-477c-a85a-f036589f750c", "https://vgmdb.net/album/24614"]
 
-[240]
+[239]
 catalognumber = "MJSA-01006"
 date = "2011-04-06"
 album = "映画プリキュアオールスターズDX3 未来にとどけ! 世界をつなぐ☆虹色の花 オリジナル・サウンドトラック"
@@ -4932,7 +4887,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d49f5e24-a9c0-400e-8aef-09ceab19e711", "https://vgmdb.net/album/40260"]
 
-[241]
+[240]
 catalognumber = "MJSA-01180"
 date = "2016-03-16"
 album = "映画プリキュアオールスターズ みんなで歌う♪奇跡の魔法! オリジナル・サウンドトラック"
@@ -4978,7 +4933,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4bef3318-6b96-44ef-8b33-4abf257a4adf", "https://vgmdb.net/album/56737"]
 
-[242]
+[241]
 catalognumber = "MJCD-20080"
 date = "2006-12-22"
 album = "映画ふたりはプリキュアSplash☆Star チクタク危機一髪! オリジナル・サウンドトラック"
@@ -5030,7 +4985,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6de83558-0097-4af1-8b19-301ad026d0af", "https://vgmdb.net/album/48864"]
 
-[243]
+[242]
 catalognumber = "MJSS-09116"
 date = "2014-03-05"
 album = "ハピネスチャージプリキュア! WOW!/プリキュア・メモリ"
@@ -5042,7 +4997,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/592590cf-e550-48f2-8bdf-402d4654c89b", "https://vgmdb.net/album/43383"]
 
-[244]
+[243]
 catalognumber = "HPBR-1427"
 date = "2022-03-02"
 album = "トロピカル～ジュ!プリキュアLIVE2021 Viva!トロピカSUMMER!LIVE"
@@ -5069,7 +5024,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115038"]
 
-[245]
+[244]
 catalognumber = "MJSA-01388"
 date = "2024-01-10"
 album = "キボウノチカラ〜オトナプリキュア'23〜 オリジナル・サウンドトラック Disc 1 [MJSA-01388]"
@@ -5095,7 +5050,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7fe07f26-04ea-4f91-885b-7aa1473ed902", "https://vgmdb.net/album/133114"]
 
-[246]
+[245]
 catalognumber = "MJSA-01389"
 date = "2024-01-10"
 album = "キボウノチカラ〜オトナプリキュア'23〜 オリジナル・サウンドトラック Disc 2 [MJSA-01389]"
@@ -5121,7 +5076,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7fe07f26-04ea-4f91-885b-7aa1473ed902", "https://vgmdb.net/album/133114"]
 
-[247]
+[246]
 catalognumber = "ESCL-5852"
 date = "2023-09-13"
 album = "うれしくて/ときめき / いきものがかり"
@@ -5133,7 +5088,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8e0498a9-7c41-4802-bdc4-fa50f028a0c2", "https://vgmdb.net/album/130797"]
 
-[248]
+[247]
 catalognumber = "ESXX-02830"
 date = "2024-01-21"
 album = "ときめき - From THE FIRST TAKE / いきものがかり"
@@ -5142,7 +5097,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d7ae52d8-ee2b-44cf-8ecf-c99b963a4975", "https://vgmdb.net/album/136042"]
 
-[249]
+[248]
 catalognumber = "TCED-1113"
 date = "2011-08-10"
 album = "プリキュアオールスターズ スペシャルコンサート with 京都フィルハーモニー室内合奏団"
@@ -5172,7 +5127,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99856"]
 
-[250]
+[249]
 catalognumber = "MJSS-09297"
 date = "2021-08-11"
 album = "トロピカル～ジュ! プリキュア 後期主題歌シングル"
@@ -5185,7 +5140,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/201c3b7e-c389-44af-bcc3-5bf25b72e1de", "https://vgmdb.net/album/111810"]
 
-[251]
+[250]
 catalognumber = "MJSS-09256"
 date = "2020-09-09"
 album = "エビバディ☆ヒーリングッデイ!/Let's手と手でキュン! Disc 1 (CD) [MJSS-09256]"
@@ -5197,7 +5152,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100586"]
 
-[252]
+[251]
 catalognumber = "MJSS-09257"
 date = "2020-09-09"
 album = "エビバディ☆ヒーリングッデイ!/Let's手と手でキュン! Disc 2 (DVD) [MJSS-09257]"
@@ -5208,7 +5163,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100586"]
 
-[253]
+[252]
 catalognumber = "MJSA-01059"
 date = "2012-11-28"
 album = "スマイルプリキュア！ボーカルアルバム2 ～みんな笑顔になぁれ！～"
@@ -5227,7 +5182,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f9b316bf-155b-4507-9d63-8a82467fb9c1", "https://vgmdb.net/album/35483"]
 
-[254]
+[253]
 catalognumber = "COCX-36655"
 date = "2011-03-23"
 album = "テレビ朝日アニメソング♪ -Silver-"
@@ -5255,7 +5210,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7c24130c-94e1-4279-819d-55be9549a744", "https://vgmdb.net/album/70099"]
 
-[255]
+[254]
 catalognumber = "MJSS-09083"
 date = "2012-09-05"
 album = "満開*スマイル!/笑う 笑えば 笑おう♪ Vocal"
@@ -5267,7 +5222,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0fdc56e-5533-4d63-9347-2491b1bc8a2f", "https://vgmdb.net/album/35095"]
 
-[256]
+[255]
 catalognumber = "MJSS-09084"
 date = "2012-09-05"
 album = "満開*スマイル!/笑う 笑えば 笑おう♪ Disc 2 (DVD) [MJSS-09084]"
@@ -5277,7 +5232,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0fdc56e-5533-4d63-9347-2491b1bc8a2f", "https://vgmdb.net/album/35095"]
 
-[257]
+[256]
 catalognumber = "MJSS-09140"
 date = "2015-03-11"
 album = "イマココカラ"
@@ -5289,7 +5244,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b0f212d3-33a8-4b73-a638-72418d58e35b", "https://vgmdb.net/album/49930"]
 
-[258]
+[257]
 catalognumber = "TCED-2059"
 date = "2014-03-12"
 album = "プリキュアエンディングムービーコレクション ～みんなでダンス!～"
@@ -5308,7 +5263,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87323"]
 
-[259]
+[258]
 catalognumber = "MJCD-20131"
 date = "2008-09-03"
 album = "Yes! プリキュア5 GoGo! Web ラジオ CLUB ココ＆ナッツ Vol.3"
@@ -5323,7 +5278,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95923"]
 
-[260]
+[259]
 catalognumber = "MJSS-09249"
 date = "2019-10-16"
 album = "映画スター☆トゥインクルプリキュア ~星のうたに想いをこめて~ 主題歌シングル Disc 1 (CD) [MJSS-09249]"
@@ -5337,7 +5292,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b224d3e4-6142-4aaf-8380-ff0b37f93e35", "https://vgmdb.net/album/88858"]
 
-[261]
+[260]
 catalognumber = "MJSS-09250"
 date = "2019-10-16"
 album = "映画スター☆トゥインクルプリキュア ~星のうたに想いをこめて~ 主題歌シングル Disc 2 (DVD) [MJSS-09250]"
@@ -5347,7 +5302,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b224d3e4-6142-4aaf-8380-ff0b37f93e35", "https://vgmdb.net/album/88858"]
 
-[262]
+[261]
 catalognumber = "MJSS-09366"
 date = "2024-03-27"
 album = "わんだふるぷりきゅあ! 主題歌シングル Disc 1 (CD) [MJSS-09366]"
@@ -5361,7 +5316,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f70829bf-8153-4fad-b493-602335329649", "https://vgmdb.net/album/135685"]
 
-[263]
+[262]
 catalognumber = "MJSS-09367"
 date = "2024-03-27"
 album = "わんだふるぷりきゅあ! 主題歌シングル Disc 2 (DVD) [MJSS-09367]"
@@ -5371,7 +5326,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f70829bf-8153-4fad-b493-602335329649", "https://vgmdb.net/album/135685"]
 
-[264]
+[263]
 catalognumber = "MJSA-01199"
 date = "2016-11-30"
 album = "魔法つかいプリキュア! ドラマ&キャラクターソングアルバム ドリーム☆アーチ"
@@ -5390,7 +5345,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f7ef68ce-726d-4a81-b87a-82805234a402", "https://vgmdb.net/album/61886"]
 
-[265]
+[264]
 catalognumber = "MJSS-09318"
 date = "2022-03-30"
 album = "デリシャスパーティ♡プリキュア 主題歌シングル"
@@ -5404,7 +5359,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c1ef4532-3cec-4bc6-ae6c-b22367320c28", "https://vgmdb.net/album/117489"]
 
-[266]
+[265]
 catalognumber = "MJSS-09107"
 date = "2013-10-23"
 album = "たからもの/未来のありか"
@@ -5416,7 +5371,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8be6858a-b991-4800-8bef-58aa0fe682e8", "https://vgmdb.net/album/41342"]
 
-[267]
+[266]
 catalognumber = "PCBX-51757"
 date = "2018-02-21"
 album = "キラキラ☆プリキュアアラモードLIVE2017 スウィート☆デコレーション Disc 1 [PCBX-51757-1]"
@@ -5436,7 +5391,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86241"]
 
-[268]
+[267]
 catalognumber = "PCBX-51757"
 date = "2018-02-21"
 album = "キラキラ☆プリキュアアラモードLIVE2017 スウィート☆デコレーション Disc 2 [PCBX-51757-2]"
@@ -5456,7 +5411,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86241"]
 
-[269]
+[268]
 catalognumber = "MJSS-09001"
 date = "2011-03-09"
 album = "ラ♪ラ♪ラ♪スイートプリキュア♪/ワンダフル↑パワフル↑ミュージック!! Vocal"
@@ -5468,7 +5423,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0dc5e3a3-0fff-4475-837b-a56bb916cea3", "https://vgmdb.net/album/47635"]
 
-[270]
+[269]
 catalognumber = "MJSS-09002"
 date = "2011-03-09"
 album = "ラ♪ラ♪ラ♪スイートプリキュア♪/ワンダフル↑パワフル↑ミュージック!! Video"
@@ -5478,7 +5433,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0dc5e3a3-0fff-4475-837b-a56bb916cea3", "https://vgmdb.net/album/47635"]
 
-[271]
+[270]
 catalognumber = "MJSA-01191"
 date = "2016-05-25"
 album = "魔法つかいプリキュア! オリジナル・サウンドトラック1 プリキュア♡ミラクル☆サウンド!!"
@@ -5526,7 +5481,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/67ff6279-e4ad-41eb-bcc7-d9c047022484", "https://vgmdb.net/album/57906"]
 
-[272]
+[271]
 catalognumber = "MJSS-09391"
 date = "2025-02-26"
 album = "キミとアイドルプリキュア♪デビューシングル"
@@ -5540,7 +5495,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4a5da87b-d8fe-4e04-9164-2402ef9895f9", "https://vgmdb.net/album/145810"]
 
-[273]
+[272]
 catalognumber = "MJSA-01133"
 date = "2014-12-17"
 album = "プリキュアカラフルコレクション キラキラ★シトラス Disc 1 [MJSA-01133]"
@@ -5564,7 +5519,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6396eb91-4772-420d-8af5-9b06332fc62e", "https://vgmdb.net/album/48737"]
 
-[274]
+[273]
 catalognumber = "MJSA-01134"
 date = "2014-12-17"
 album = "プリキュアカラフルコレクション キラキラ★シトラス Disc 2 [MJSA-01134]"
@@ -5583,7 +5538,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6396eb91-4772-420d-8af5-9b06332fc62e", "https://vgmdb.net/album/48737"]
 
-[275]
+[274]
 catalognumber = "MJSS-09390"
 date = "2025-02-26"
 album = "キミとアイドルプリキュア♪デビューシングル [初回生産限定盤]"
@@ -5597,7 +5552,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8b33456-8af2-4d44-b4d2-39833f4a315e", "https://vgmdb.net/album/145811"]
 
-[276]
+[275]
 catalognumber = "MJSS-09071"
 date = "2012-03-07"
 album = "Let's go! スマイルプリキュア!/イェイ! イェイ! イェイ! Vocal"
@@ -5609,7 +5564,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3737e53c-b70f-4430-a124-4b3534b74007", "https://vgmdb.net/album/47638"]
 
-[277]
+[276]
 catalognumber = "MJSS-09072"
 date = "2012-03-07"
 album = "Let's go! スマイルプリキュア!/イェイ! イェイ! イェイ! Video"
@@ -5619,7 +5574,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/47638"]
 
-[278]
+[277]
 catalognumber = "MJSS-09363"
 date = "2023-12-06"
 album = "キボウノチカラ〜オトナプリキュア'23〜 エンディングテーマソングシングル"
@@ -5634,7 +5589,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b2b34ab1-109f-4b24-ad5e-8a076196aee4", "https://vgmdb.net/album/132307"]
 
-[279]
+[278]
 catalognumber = "MJSA-01371"
 date = "2023-07-19"
 album = "ひろがるスカイ! プリキュア ボーカルアルバム ～FLY TOGETHER!!!!!～"
@@ -5657,7 +5612,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c7a943d8-8c8d-410c-83a8-7999b77012d1", "https://vgmdb.net/album/128528"]
 
-[280]
+[279]
 catalognumber = "CKCD0018"
 date = "2014-10-26"
 album = "Pretty diva"
@@ -5675,7 +5630,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147173"]
 
-[281]
+[280]
 catalognumber = "MJSS-09384"
 date = "2025-02-05"
 album = "魔法つかいプリキュア!! ～MIRAI DAYS～ 主題歌シングル Disc 1 (CD) [MJSS-09384]"
@@ -5689,7 +5644,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ca67c7f-81af-4b6a-8d63-d9dcd219ab0c", "https://vgmdb.net/album/145812"]
 
-[282]
+[281]
 catalognumber = "MJSS-09385"
 date = "2025-02-05"
 album = "魔法つかいプリキュア!! ～MIRAI DAYS～ 主題歌シングル Disc 2 (DVD) [MJSS-09385]"
@@ -5699,7 +5654,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ca67c7f-81af-4b6a-8d63-d9dcd219ab0c", "https://vgmdb.net/album/145812"]
 
-[283]
+[282]
 catalognumber = "MJSS-09023"
 date = "2011-06-01"
 album = "プリキュア5、フル・スロットルGO GO!/手と手つないでハートもリンク!!/ガンバランスdeダンス～希望のリレー～ Disc 1 (CD) [MJSS-09023]"
@@ -5713,7 +5668,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85621"]
 
-[284]
+[283]
 catalognumber = "MJSS-09024"
 date = "2011-06-01"
 album = "プリキュア5、フル・スロットルGO GO!/手と手つないでハートもリンク!!/ガンバランスdeダンス～希望のリレー～ Disc 2 (DVD) [MJSS-09024]"
@@ -5724,7 +5679,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85621"]
 
-[285]
+[284]
 catalognumber = "MJCD-20160"
 date = "2009-04-03"
 album = "Yes! プリキュア5 GoGo! ボーカルベスト!!"
@@ -5748,7 +5703,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/785064a4-9c77-410b-b98d-4be4dc4ee8f5", "https://vgmdb.net/album/31752"]
 
-[286]
+[285]
 catalognumber = "MJSS-09251"
 date = "2019-10-16"
 album = "映画スター☆トゥインクルプリキュア ~星のうたに想いをこめて~ 主題歌シングル"
@@ -5762,7 +5717,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec073e44-3d3e-45fd-9429-14ba67c1db4f", "https://vgmdb.net/album/88857"]
 
-[287]
+[286]
 catalognumber = "MJSS-09195"
 date = "2017-04-26"
 album = "キラキラ☆プリキュアアラモード キャラクターソングシングル sweet etude 3 キュアジェラート"
@@ -5773,7 +5728,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d2da9b18-27af-45d8-8df2-69423c86a119", "https://vgmdb.net/album/65895"]
 
-[288]
+[287]
 catalognumber = "VICL-63927"
 date = "2012-09-26"
 album = "もしアニソンが全て昭和ロボットアニメ風だったら"
@@ -5800,7 +5755,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111436"]
 
-[289]
+[288]
 catalognumber = "ESCL-5850"
 date = "2023-09-13"
 album = "うれしくて/ときめき / いきものがかり [初回生産限定盤] Disc 1 (CD) [ESCL-5850]"
@@ -5812,7 +5767,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ce57c71-a436-4f96-a29e-3ba393966a77", "https://vgmdb.net/album/130796"]
 
-[290]
+[289]
 catalognumber = "ESCL-5851"
 date = "2023-09-13"
 album = "うれしくて/ときめき / いきものがかり [初回生産限定盤] Disc 2 (Blu-ray) [ESCL-5851]"
@@ -5823,7 +5778,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ce57c71-a436-4f96-a29e-3ba393966a77", "https://vgmdb.net/album/130796"]
 
-[291]
+[290]
 catalognumber = "QWCE-00025"
 date = "2007-09-19"
 album = "EXIT TRANCE PRESENTS CODE SPEED アニメトランス BEST"
@@ -5851,7 +5806,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7c47880f-c8bd-42be-a003-e38739214faf", "https://vgmdb.net/album/29340"]
 
-[292]
+[291]
 catalognumber = "PKCP-5058"
 date = "2005-11-23"
 album = "ギャグ100回分愛してください / Berryz工房"
@@ -5862,7 +5817,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9075316f-dc1f-4b77-af98-c43816b5ee30", "https://vgmdb.net/album/95506"]
 
-[293]
+[292]
 catalognumber = "MJSA-01070"
 date = "2013-10-23"
 album = "「映画ドキドキ!プリキュア マナ結婚!!?未来につなぐ希望のドレス」オリジナル・サウンドトラック"
@@ -5900,7 +5855,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/41a1fdd3-49ce-4034-b2f2-71cf6f9f45cd", "https://vgmdb.net/album/41307"]
 
-[294]
+[293]
 catalognumber = "MJSA-01122"
 date = "2014-11-05"
 album = "ハピネスチャージプリキュア! オリジナル・サウンドトラック2 プリキュア・サウンド・ビッグバーン!!"
@@ -5943,7 +5898,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cc903259-4c55-4c8b-9674-608eaff8f2f2", "https://vgmdb.net/album/47714"]
 
-[295]
+[294]
 catalognumber = "MJSA-01009"
 date = "2011-07-20"
 album = "ふたりはプリキュア メモリアル ボーカル セレクション"
@@ -5967,7 +5922,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/80962c04-6ac1-4a62-9d32-722b648c2d9a", "https://vgmdb.net/album/86206"]
 
-[296]
+[295]
 catalognumber = "MJSS-09020"
 date = "2011-06-01"
 album = "プリキュア5、スマイル go go!/キラキラしちゃってMy True Love!/ガンバランスdeダンス～夢見る奇跡たち～ Disc 1 (CD) [MJSS-09020]"
@@ -5981,7 +5936,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85619"]
 
-[297]
+[296]
 catalognumber = "MJSS-09021"
 date = "2011-06-01"
 album = "プリキュア5、スマイル go go!/キラキラしちゃってMy True Love!/ガンバランスdeダンス～夢見る奇跡たち～ Disc 2 (DVD) [MJSS-09021]"
@@ -5993,7 +5948,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85619"]
 
-[298]
+[297]
 catalognumber = "MJSS-09029"
 date = "2011-06-01"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス!/Tomorrow Song ～あしたのうた～ Disc 1 (CD) [MJSS-09029]"
@@ -6007,7 +5962,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48327"]
 
-[299]
+[298]
 catalognumber = "MJSS-09030"
 date = "2011-06-01"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス!/Tomorrow Song ～あしたのうた～ Disc 2 (DVD) [MJSS-09030]"
@@ -6019,7 +5974,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48327"]
 
-[300]
+[299]
 catalognumber = "MJSA-01066"
 date = "2013-05-29"
 album = "ドキドキ!プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・ラブリンク!!"
@@ -6070,7 +6025,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7889564b-c34d-429d-9db2-eb3a96b17447", "https://vgmdb.net/album/38427"]
 
-[301]
+[300]
 catalognumber = "MARVS-27227"
 date = "2024-10-12"
 album = "わんだふるぷりきゅあ！LIVE2024 スペシャルCD ピカピカあふたぬーん盤"
@@ -6081,7 +6036,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147414"]
 
-[302]
+[301]
 catalognumber = "MJSS-09221"
 date = "2018-05-23"
 album = "HUGっと! プリキュア キャラクターシングル"
@@ -6095,7 +6050,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bf24de35-eb3d-49b7-a94b-c8620ebc5b58", "https://vgmdb.net/album/76349"]
 
-[303]
+[302]
 catalognumber = "ESCL-5883"
 date = "2023-12-13"
 album = "〇 / いきものがかり [初回生産限定盤] Disc 1 (CD) [ESCL-5883]"
@@ -6115,7 +6070,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c2dc6456-e651-4ba6-9fd3-a899cf6fdb47", "https://vgmdb.net/album/133038"]
 
-[304]
+[303]
 catalognumber = "ESCL-5884"
 date = "2023-12-13"
 album = "〇 / いきものがかり [初回生産限定盤] Disc 2 (Blu-ray) [ESCL-5884]"
@@ -6139,7 +6094,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c2dc6456-e651-4ba6-9fd3-a899cf6fdb47", "https://vgmdb.net/album/133038"]
 
-[305]
+[304]
 catalognumber = "PCBX-51719"
 date = "2017-12-20"
 album = "プリキュアエンディングムービーコレクション ～みんなでダンス! 2～"
@@ -6156,7 +6111,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86561"]
 
-[306]
+[305]
 catalognumber = "MJSA-01108"
 date = "2014-03-12"
 album = "映画プリキュアオールスターズ NewStage3 永遠のともだち オリジナル・サウンドトラック"
@@ -6193,7 +6148,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d2e6efa0-a47f-4062-901c-d0805f5811e9", "https://vgmdb.net/album/43296"]
 
-[307]
+[306]
 catalognumber = "MJSA-01068"
 date = "2013-07-17"
 album = "ドキドキ! プリキュアボーカルアルバム 1 Jump up, GIRLS!"
@@ -6213,7 +6168,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da9338a9-1bdd-415e-92cd-a57ab71e0127", "https://vgmdb.net/album/38936"]
 
-[308]
+[307]
 catalognumber = "MJSA-01277"
 date = "2019-10-16"
 album = "映画スター☆トゥインクルプリキュア ~星のうたに想いをこめて~ オリジナル✯サウンドトラック"
@@ -6248,7 +6203,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c293944b-f398-448a-ab49-444198a0ed4e", "https://vgmdb.net/album/88855"]
 
-[309]
+[308]
 catalognumber = "82876"
 date = "2005-11-11"
 album = "Anime Hits 4 - Der offizielle Soundtrack zu den RTL II TV-Serien"
@@ -6278,21 +6233,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0b637b08-10dd-469c-9c9c-03591a73cea4", "https://vgmdb.net/album/91910"]
 
-[310]
+[309]
 catalognumber = "PCXX-50087-2"
 date = "2015-06-17"
 album = "プリキュア ラジオ Back to the 5 GoGo!"
 tracks = []
 links = ["https://vgmdb.net/album/88163"]
 
-[311]
+[310]
 catalognumber = "PCXX-50180-2"
 date = "2021-07-21"
 album = "映画ヒーリングっど♥プリキュア ゆめのまちでキュン!っとGoGo!大変身!! ドラマCD \"プリキュア5 ゆめのまちへ行く!\""
 tracks = []
 links = ["https://vgmdb.net/album/111673"]
 
-[312]
+[311]
 catalognumber = "MJCD-20059"
 date = "2006-05-25"
 album = "ふたりはプリキュア MaxHeart ボーカルベスト!!"
@@ -6316,7 +6271,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2ae80af3-c1c0-46ea-b097-462709f8274f", "https://vgmdb.net/album/56034"]
 
-[313]
+[312]
 catalognumber = "MJCD-20015"
 date = "2004-10-22"
 album = "ふたりはプリキュアCDドラマシリーズ～ふたりでプリドラ No.1～ 「ぶっちゃけ お江戸でござる!?」"
@@ -6334,7 +6289,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e512701b-4a90-4149-a436-4566d466e5e2", "https://vgmdb.net/album/86190"]
 
-[314]
+[313]
 catalognumber = "MJSA-01399"
 date = "2024-12-11"
 album = "わんだふるぷりきゅあ! オリジナル・サウンドトラック2 プリキュア・エターナル・サウンド!!"
@@ -6375,7 +6330,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/613e81b3-6833-43cb-a72d-bd81ffc104dc", "https://vgmdb.net/album/142889"]
 
-[315]
+[314]
 catalognumber = "MJCD-23086"
 date = "2010-04-21"
 album = "つ.ぼ.み ~Future Flower~/スペシャル*カラフル"
@@ -6387,7 +6342,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15c5d8c0-d848-46bc-87dd-3f48b1894373", "https://vgmdb.net/album/34343"]
 
-[316]
+[315]
 catalognumber = "STOR-0001"
 date = "2023-04-19"
 album = "暁 / 佐々木李子"
@@ -6403,7 +6358,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2977120f-24b4-4b88-8a01-42b0851f4f55", "https://vgmdb.net/album/131407"]
 
-[317]
+[316]
 catalognumber = "MJCD-20109"
 date = "2008-01-30"
 album = "Yes!プリキュア5 オリジナル・サウンドトラック 2 サウンド・ミラクル・シュート!!"
@@ -6444,7 +6399,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48213"]
 
-[318]
+[317]
 catalognumber = "MJSA-01121"
 date = "2014-10-08"
 album = "映画ハピネスチャージプリキュア! 人形の国のバレリーナ オリジナル・サウンドトラック"
@@ -6484,7 +6439,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/67514034-fe7a-4aab-bfa5-a15c6b609f26", "https://vgmdb.net/album/47119"]
 
-[319]
+[318]
 catalognumber = "MJCD-23016"
 date = "2006-02-22"
 album = "まかせて★スプラッシュ☆スター★/｢笑うが勝ち!｣ でGO!"
@@ -6496,7 +6451,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5b3dde80-ee1a-4c0d-aeee-e1f3f3b6e3a9", "https://vgmdb.net/album/48868"]
 
-[320]
+[319]
 catalognumber = "MJSA-01262"
 date = "2018-10-31"
 album = "プリキュア映画主題歌コレクション3 Disc 1 [MJSA-01262]"
@@ -6519,7 +6474,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/543ddb18-67a4-493f-88fc-cbc6be47dd6a", "https://vgmdb.net/album/81932"]
 
-[321]
+[320]
 catalognumber = "MJSA-01263"
 date = "2018-10-31"
 album = "プリキュア映画主題歌コレクション3 Disc 2 [MJSA-01263]"
@@ -6538,7 +6493,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/543ddb18-67a4-493f-88fc-cbc6be47dd6a", "https://vgmdb.net/album/81932"]
 
-[322]
+[321]
 catalognumber = "MJSA-01011"
 date = "2011-07-20"
 album = "ふたりはプリキュア Splash☆Star メモリアル ボーカル セレクション"
@@ -6562,7 +6517,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6ce827e8-7366-4aaf-aa3d-236a190b2fa9", "https://vgmdb.net/album/86300"]
 
-[323]
+[322]
 catalognumber = "QWCE-00071"
 date = "2008-12-17"
 album = "EXIT TRANCE×痛G痛車グラフィックスPRESENTS 痛車トランス"
@@ -6590,7 +6545,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8c3a6eb2-7df0-46c5-addc-04ca5295111d", "https://vgmdb.net/album/119098"]
 
-[324]
+[323]
 catalognumber = "PCBX-51827"
 date = "2020-03-04"
 album = "スター☆トゥインクルプリキュアLIVE2019 KIRA☆YABA! イマジネーションライブ"
@@ -6615,7 +6570,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90953"]
 
-[325]
+[324]
 catalognumber = "MJSS-09131"
 date = "2014-10-08"
 album = "パーティ ハズカム/ハピネスグッディ↑↑ Disc 1 (CD) [MJSS-09131]"
@@ -6627,7 +6582,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9255a180-8f73-473d-aa86-6b6b8745e35e", "https://vgmdb.net/album/47388"]
 
-[326]
+[325]
 catalognumber = "MJSS-09132"
 date = "2014-10-08"
 album = "パーティ ハズカム/ハピネスグッディ↑↑ Disc 2 (DVD) [MJSS-09132]"
@@ -6637,7 +6592,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/47388"]
 
-[327]
+[326]
 catalognumber = "MJCD-23056"
 date = "2008-11-05"
 album = "Birthday Party/TIME MACHINE/三船美佳&THE TRA★BRYU with Renon"
@@ -6649,7 +6604,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ac07c83-a238-4d3a-8ebf-59ebd1af4e19", "https://vgmdb.net/album/48035"]
 
-[328]
+[327]
 catalognumber = "MJCD-20178"
 date = "2009-11-26"
 album = "フレッシュプリキュア! ボーカルアルバム2 ～笑顔の贈り物～"
@@ -6668,7 +6623,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/98f77d62-e15a-4544-9e0e-2fc3feaacd10", "https://vgmdb.net/album/44589"]
 
-[329]
+[328]
 catalognumber = "MJCD-20036"
 date = "2005-09-09"
 album = "ふたりはプリキュア マックスハート シールあそびCDえほん"
@@ -6680,7 +6635,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90068"]
 
-[330]
+[329]
 catalognumber = "MJCD-23090"
 date = "2010-09-08"
 album = "Tomorrow Song ~あしたのうた~/HEART GOES ON"
@@ -6692,7 +6647,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/69e44fd7-f9d1-43f8-b43f-65c99ac663ea", "https://vgmdb.net/album/47605"]
 
-[331]
+[330]
 catalognumber = "MJSS-09060"
 date = "2011-10-05"
 album = "Come on!プリキュアオールスターズ / プリキュアオールスターズDXメドレー for 3D theater"
@@ -6704,7 +6659,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3b0c4384-1ebd-40fe-9e0f-403d092b7fa7", "https://vgmdb.net/album/56716"]
 
-[332]
+[331]
 catalognumber = "MARVS-27218"
 date = "2022-10-29"
 album = "デリシャスパーティ♡プリキュアLIVE2022 スペシャルCD いただきますParty♡"
@@ -6714,7 +6669,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/146600"]
 
-[333]
+[332]
 catalognumber = "PCXX-50165"
 date = "2020-03-04"
 album = "スター☆トゥインクルプリキュアLIVE2019 KIRA☆YABA! イマジネーションライブ"
@@ -6739,7 +6694,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90952"]
 
-[334]
+[333]
 catalognumber = "MJSA-01275"
 date = "2019-08-21"
 album = "スター☆トゥインクルプリキュア イメージソングファイル"
@@ -6756,7 +6711,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6074b47b-92f7-431a-8f71-bc45ed9efd5c", "https://vgmdb.net/album/87285"]
 
-[335]
+[334]
 catalognumber = "PCXX-50128"
 date = "2018-02-21"
 album = "キラキラ☆プリキュアアラモードLIVE2017 スウィート☆デコレーション Disc 1 [PCXX-50128-1]"
@@ -6776,7 +6731,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86240"]
 
-[336]
+[335]
 catalognumber = "PCXX-50128"
 date = "2018-02-21"
 album = "キラキラ☆プリキュアアラモードLIVE2017 スウィート☆デコレーション Disc 2 [PCXX-50128-2]"
@@ -6796,7 +6751,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86240"]
 
-[337]
+[336]
 catalognumber = "EPCE-7093"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤C] Disc 1 (CD) [EPCE-7093]"
@@ -6810,7 +6765,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ca6332a7-e7f8-4ed4-940d-36907a1af544", "https://vgmdb.net/album/86410"]
 
-[338]
+[337]
 catalognumber = "EPCE-7094"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤C] Disc 2 (DVD) [EPCE-7094]"
@@ -6819,7 +6774,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ca6332a7-e7f8-4ed4-940d-36907a1af544", "https://vgmdb.net/album/86410"]
 
-[339]
+[338]
 catalognumber = "MJCD-20110"
 date = "2008-01-30"
 album = "映画 Yes! プリキュア5 鏡の国のミラクル大冒険! オリジナル・サウンドトラック"
@@ -6853,7 +6808,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53cb1eb6-e908-4ecc-9dbf-225478e6a30c", "https://vgmdb.net/album/48027"]
 
-[340]
+[339]
 catalognumber = "MJSS-09295"
 date = "2021-08-11"
 album = "トロピカル～ジュ! プリキュア 後期主題歌シングル Vocal"
@@ -6866,7 +6821,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f5da5db-1f9a-435c-acbc-1a2350793659", "https://vgmdb.net/album/111811"]
 
-[341]
+[340]
 catalognumber = "MJSS-09296"
 date = "2021-08-11"
 album = "トロピカル～ジュ! プリキュア 後期主題歌シングル Vocal, Video"
@@ -6876,7 +6831,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f5da5db-1f9a-435c-acbc-1a2350793659", "https://vgmdb.net/album/111811"]
 
-[342]
+[341]
 catalognumber = "CKCD0021"
 date = "2015-10-25"
 album = "プリンセスティーパーティー"
@@ -6887,7 +6842,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147213"]
 
-[343]
+[342]
 catalognumber = "MJSS-09181"
 date = "2016-08-10"
 album = "Dokkin♢魔法つかいプリキュア! Part2/魔法アラ・ドーモ!"
@@ -6899,7 +6854,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f38d7b69-f0b8-40ea-8cb3-2968434700c5", "https://vgmdb.net/album/59376"]
 
-[344]
+[343]
 catalognumber = "PCXX-50088-2"
 date = "2015-06-17"
 album = "プリキュア ラジオ Back to the フレッシュ!"
@@ -6911,7 +6866,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/88164"]
 
-[345]
+[344]
 catalognumber = "MJCD-23023"
 date = "2006-10-04"
 album = "ガンバランス de ダンス/Pa!っとハレバレじゃん♪"
@@ -6923,7 +6878,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9e71dfb6-e8f8-44fc-9b4b-eb2779bffdf7", "https://vgmdb.net/album/48869"]
 
-[346]
+[345]
 catalognumber = "MJSA-01071"
 date = "2013-11-06"
 album = "ドキドキ!プリキュア ボーカルアルバム2～100%プリキュアDAYS☆～"
@@ -6942,7 +6897,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/337a667c-676a-4e65-ae14-989a1b76ec2f", "https://vgmdb.net/album/41317"]
 
-[347]
+[346]
 catalognumber = "MUCD-1205"
 date = "2009-04-22"
 album = "スーパーアニメ☆リミックス3 完全コスパラ対応 Disc 1 [MUCD-1205]"
@@ -6967,7 +6922,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/133461"]
 
-[348]
+[347]
 catalognumber = "MUCD-1206"
 date = "2009-04-22"
 album = "スーパーアニメ☆リミックス3 完全コスパラ対応 Disc 2 [MUCD-1206]"
@@ -6992,7 +6947,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/133461"]
 
-[349]
+[348]
 catalognumber = "MJSA-01063"
 date = "2013-03-13"
 album = "映画プリキュアオールスターズNewStage2 こころのともだち オリジナル・サウンドトラック"
@@ -7032,7 +6987,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba1a83bc-3c53-44b3-aac1-bbb24f5e1802", "https://vgmdb.net/album/36959"]
 
-[350]
+[349]
 catalognumber = "MJSS-09169"
 date = "2016-03-02"
 album = "Dokkin♢魔法つかいプリキュア!/CURE UP↑RA♡PA☆PA!～ほほえみになる魔法～ Disc 1 (CD) [MJSS-09169]"
@@ -7044,7 +6999,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/904cf6f3-38ff-4dba-958d-7a924ee9a905", "https://vgmdb.net/album/56576"]
 
-[351]
+[350]
 catalognumber = "MJSS-09170"
 date = "2016-03-02"
 album = "Dokkin♢魔法つかいプリキュア!/CURE UP↑RA♡PA☆PA!～ほほえみになる魔法～ Disc 2 (DVD) [MJSS-09170]"
@@ -7054,7 +7009,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/904cf6f3-38ff-4dba-958d-7a924ee9a905", "https://vgmdb.net/album/56576"]
 
-[352]
+[351]
 catalognumber = "MJSS-09235"
 date = "2019-03-13"
 album = "「映画プリキュアミラクルユニバース」 主題歌シングル Vocal"
@@ -7066,7 +7021,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84892"]
 
-[353]
+[352]
 catalognumber = "MJSS-09236"
 date = "2019-03-13"
 album = "「映画プリキュアミラクルユニバース」 主題歌シングル Video"
@@ -7076,7 +7031,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84892"]
 
-[354]
+[353]
 catalognumber = "MJCD-20144"
 date = "2008-12-03"
 album = "Yes!プリキュア5GoGo!ボーカルアルバム2 SWITCH ON! ～そして、世界は拡がっていく～"
@@ -7095,7 +7050,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/933dbd46-c1b7-4020-a9fb-66b4d6dda398", "https://vgmdb.net/album/47419"]
 
-[355]
+[354]
 catalognumber = "MJSS-09369"
 date = "2024-08-21"
 album = "わんだふるぷりきゅあ! 後期主題歌シングル Disc 1 (CD) [MJSS-09369]"
@@ -7109,7 +7064,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3e43a6ba-f746-4df6-8b0d-cdd30709ab20", "https://vgmdb.net/album/140917"]
 
-[356]
+[355]
 catalognumber = "MJSS-09370"
 date = "2024-08-21"
 album = "わんだふるぷりきゅあ! 後期主題歌シングル Disc 2 (DVD) [MJSS-09370]"
@@ -7120,7 +7075,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3e43a6ba-f746-4df6-8b0d-cdd30709ab20", "https://vgmdb.net/album/140917"]
 
-[357]
+[356]
 catalognumber = "COCX-35991"
 date = "2009-12-16"
 album = "THE iDOLM@STER MASTER SPECIAL WINTER"
@@ -7142,7 +7097,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15bd04a3-6ce8-450f-9370-cefbfdaf20a2", "https://vgmdb.net/album/16483"]
 
-[358]
+[357]
 catalognumber = "QWCE-00171"
 date = "2010-08-04"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 10"
@@ -7170,7 +7125,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/99ba9637-b0fb-47b0-921a-822975262ca4", "https://vgmdb.net/album/46153"]
 
-[359]
+[358]
 catalognumber = "MJCD-20161"
 date = "2009-04-03"
 album = "映画プリキュアオールスターズDX みんなともだちっ☆奇跡の全員大集合! オリジナル・サウンドトラック"
@@ -7218,7 +7173,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/17badc11-f9c9-4904-8172-0f7b6a0d90bb", "https://vgmdb.net/album/34341"]
 
-[360]
+[359]
 catalognumber = "MJSS-09134"
 date = "2014-10-08"
 album = "勇気が生まれる場所/見上げれば青い空"
@@ -7230,7 +7185,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6bd97fb7-d1f9-42b2-ae0d-a5f642167642", "https://vgmdb.net/album/47188"]
 
-[361]
+[360]
 catalognumber = "MJSA-01206"
 date = "2017-01-25"
 album = "魔法つかいプリキュア! ボーカルベストアルバム 手のひらのおくりもの"
@@ -7254,7 +7209,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/676a381a-af47-45f9-a556-fb8c89ebfd2d", "https://vgmdb.net/album/63259"]
 
-[362]
+[361]
 catalognumber = "MJSA-01135"
 date = "2014-12-17"
 album = "プリキュアカラフルコレクション トゥインクル♦ブルー Disc 1 [MJSA-01135]"
@@ -7278,7 +7233,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93f42044-b39a-4f6e-af09-32e2ed2196cc", "https://vgmdb.net/album/48738"]
 
-[363]
+[362]
 catalognumber = "MJSA-01136"
 date = "2014-12-17"
 album = "プリキュアカラフルコレクション トゥインクル♦ブルー Disc 2 [MJSA-01136]"
@@ -7299,7 +7254,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93f42044-b39a-4f6e-af09-32e2ed2196cc", "https://vgmdb.net/album/48738"]
 
-[364]
+[363]
 catalognumber = "EPCE-7091"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤B] Disc 1 (CD) [EPCE-7091]"
@@ -7313,7 +7268,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9181c1bd-1665-462b-ae85-95a7a66bf7fd", "https://vgmdb.net/album/86409"]
 
-[365]
+[364]
 catalognumber = "EPCE-7092"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤B] Disc 2 (DVD) [EPCE-7092]"
@@ -7322,7 +7277,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9181c1bd-1665-462b-ae85-95a7a66bf7fd", "https://vgmdb.net/album/86409"]
 
-[366]
+[365]
 catalognumber = "MJSA-01385"
 date = "2024-01-31"
 album = "ひろがるスカイ! プリキュア ボーカルベスト ～KIZUNA◇ダイアモンド～ Disc 1 [MJSA-01385]"
@@ -7344,7 +7299,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/900a5207-ab01-415c-b1e9-7ee5667aeadb", "https://vgmdb.net/album/133635"]
 
-[367]
+[366]
 catalognumber = "MJSA-01386"
 date = "2024-01-31"
 album = "ひろがるスカイ! プリキュア ボーカルベスト ～KIZUNA◇ダイアモンド～ Disc 2 [MJSA-01386]"
@@ -7368,7 +7323,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/900a5207-ab01-415c-b1e9-7ee5667aeadb", "https://vgmdb.net/album/133635"]
 
-[368]
+[367]
 catalognumber = "MJCD-23039"
 date = "2008-02-06"
 album = "プリキュア5、フル・スロットルGO GO!/手と手つないでハートもリンク!!"
@@ -7380,7 +7335,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d1f0c04b-5cfb-4b38-9dbc-80c061e2369b", "https://vgmdb.net/album/47680"]
 
-[369]
+[368]
 catalognumber = "MJSA-01073"
 date = "2014-01-15"
 album = "ドキドキ! プリキュア ボーカルベスト"
@@ -7404,7 +7359,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/16f13bce-b628-4ea1-a896-9d8405dd529f", "https://vgmdb.net/album/42468"]
 
-[370]
+[369]
 catalognumber = "MJSA-01060"
 date = "2013-01-16"
 album = "スマイルプリキュア! ボーカルベスト"
@@ -7428,7 +7383,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c8b82db7-05bc-4d39-aeeb-a346bf1472e9", "https://vgmdb.net/album/36020"]
 
-[371]
+[370]
 catalognumber = "MARVS-27214"
 date = "2021-09-25"
 album = "トロピカル～ジュ！プリキュアLIVE2021 スペシャルCD"
@@ -7445,7 +7400,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114644"]
 
-[372]
+[371]
 catalognumber = "MJSS-09290"
 date = "2021-04-07"
 album = "Viva! Spark! トロピカル～ジュ! プリキュア/トロピカI・N・G"
@@ -7457,7 +7412,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85e76a66-eeed-46e6-b4cb-6f4d1174dac3", "https://vgmdb.net/album/108640"]
 
-[373]
+[372]
 catalognumber = "MJSA-01179"
 date = "2016-03-16"
 album = "映画プリキュアオールスターズ みんなで歌う♪奇跡の魔法! ミュージカルソングス"
@@ -7475,7 +7430,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79969a77-0127-43a8-94b0-d969f5bef1a4", "https://vgmdb.net/album/56736"]
 
-[374]
+[373]
 catalognumber = "MJCD-20010"
 date = "2004-09-24"
 album = "ふたりはプリキュア Vocalアルバム DUAL VOCAL WAVE!! ～ありったけの笑顔で～"
@@ -7494,7 +7449,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d896f9ed-658d-47cc-ac24-73733d13c3d5", "https://vgmdb.net/album/55485"]
 
-[375]
+[374]
 catalognumber = "MARVS-27228"
 date = "2024-10-12"
 album = "わんだふるぷりきゅあ！LIVE2024 スペシャルCD トキメキないと盤"
@@ -7505,7 +7460,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147415"]
 
-[376]
+[375]
 catalognumber = "MJSS-09009"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア/ゲッチュウ!らぶらぶぅ?!"
@@ -7517,7 +7472,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/59274"]
 
-[377]
+[376]
 catalognumber = "MJSA-01007"
 date = "2011-06-01"
 album = "スイートプリキュア♪ オリジナル・サウンドトラック1 プリキュア・サウンド・ファンタジア!!"
@@ -7561,7 +7516,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5e0a5fbb-688b-47f3-ba00-e59c4d111433", "https://vgmdb.net/album/25116"]
 
-[378]
+[377]
 catalognumber = "MJSA-01345"
 date = "2022-12-21"
 album = "Machico♡プリキュアのうた! [アーティスト盤/初回生産限定盤] Vocal"
@@ -7583,7 +7538,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45a45f89-d77f-44ec-ace6-98775195f328", "https://vgmdb.net/album/124194"]
 
-[379]
+[378]
 catalognumber = "MJSA-01346"
 date = "2022-12-21"
 album = "Machico♡プリキュアのうた! [アーティスト盤/初回生産限定盤] Vocal, Video"
@@ -7594,7 +7549,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45a45f89-d77f-44ec-ace6-98775195f328", "https://vgmdb.net/album/124194"]
 
-[380]
+[379]
 catalognumber = "QWCE-00257"
 date = "2013-01-02"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 17"
@@ -7621,7 +7576,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68e2c044-a7b9-4004-91ee-283733cfdcc6", "https://vgmdb.net/album/37185"]
 
-[381]
+[380]
 catalognumber = "MJSS-09368"
 date = "2024-03-27"
 album = "わんだふるぷりきゅあ! 主題歌シングル"
@@ -7635,7 +7590,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8de8fd0e-0b25-4104-aac5-427b67740c34", "https://vgmdb.net/album/135686"]
 
-[382]
+[381]
 catalognumber = "MJSA-01278"
 date = "2019-12-18"
 album = "スター☆トゥインクルプリキュア オリジナル・サウンドトラック2 プリキュア☆サウンド☆イマジネーション!!"
@@ -7678,7 +7633,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cbd82929-40eb-4db6-84d5-e8b6f5a2c0bc", "https://vgmdb.net/album/90493"]
 
-[383]
+[382]
 catalognumber = "MJSA-01170"
 date = "2015-11-11"
 album = "映画Go! プリンセスプリキュア Go! Go!! 豪華3本立て!!! オリジナル♥サウンドトラック"
@@ -7714,7 +7669,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c83f775d-021b-4f52-95b6-adab2bc70331", "https://vgmdb.net/album/54629"]
 
-[384]
+[383]
 catalognumber = "PCBX-51649"
 date = "2016-01-06"
 album = "映画プリキュアシリーズ オープニング＆エンディングムービーコレクション"
@@ -7759,7 +7714,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87778"]
 
-[385]
+[384]
 catalognumber = "MJCD-20035"
 date = "2005-07-22"
 album = "ふたりはプリキュア Max Heart キャラクター･ミニアルバム 九条ひかり/シャイニールミナス"
@@ -7775,7 +7730,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b5beca65-f1ff-4f59-ba29-f242914f718b", "https://vgmdb.net/album/58304"]
 
-[386]
+[385]
 catalognumber = "MJSS-09192"
 date = "2017-03-15"
 album = "映画プリキュアドリームスターズ! 主題歌シングル"
@@ -7787,7 +7742,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59a04eee-1568-472f-b32e-063b029a4050", "https://vgmdb.net/album/64148"]
 
-[387]
+[386]
 catalognumber = "MJSA-01336"
 date = "2022-09-21"
 album = "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ! オリジナル・サウンドトラック"
@@ -7824,7 +7779,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4e31bc0b-90aa-44f3-a593-0fac112af006", "https://vgmdb.net/album/121756"]
 
-[388]
+[387]
 catalognumber = "MJSS-09216"
 date = "2018-03-07"
 album = "We can!! HUGっと! プリキュア/HUGっと! 未来☆ドリーマー"
@@ -7836,7 +7791,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54877c66-d7c2-42aa-a05a-ba74438970b7", "https://vgmdb.net/album/73960"]
 
-[389]
+[388]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Vocal Disc 1"
@@ -7856,7 +7811,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020f7a05-07a4-4e0e-8d2d-54e514847229", "https://vgmdb.net/album/31813"]
 
-[390]
+[389]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Vocal Disc 2"
@@ -7878,7 +7833,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020f7a05-07a4-4e0e-8d2d-54e514847229", "https://vgmdb.net/album/31813"]
 
-[391]
+[390]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Vocal Disc 3"
@@ -7897,7 +7852,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020f7a05-07a4-4e0e-8d2d-54e514847229", "https://vgmdb.net/album/31813"]
 
-[392]
+[391]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Vocal Disc 4"
@@ -7919,7 +7874,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020f7a05-07a4-4e0e-8d2d-54e514847229", "https://vgmdb.net/album/31813"]
 
-[393]
+[392]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Vocal Disc 5"
@@ -7938,7 +7893,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020f7a05-07a4-4e0e-8d2d-54e514847229", "https://vgmdb.net/album/31813"]
 
-[394]
+[393]
 catalognumber = "MJCD-20145"
 date = "2008-12-03"
 album = "プリキュア 5th ANNIVERSARY プリキュアボーカルBOX2 〜希望の章〜 Video"
@@ -7947,7 +7902,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/31813"]
 
-[395]
+[394]
 catalognumber = "MJSA-01335"
 date = "2022-07-20"
 album = "『デリシャスパーティ♡プリキュア』ボーカルアルバム ～Welcome to Delicious Party～"
@@ -7970,7 +7925,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fd958ef3-64e1-4d5a-86ba-164e4dec208e", "https://vgmdb.net/album/119713"]
 
-[396]
+[395]
 catalognumber = "MJSA-01243"
 date = "2018-04-25"
 album = "HUGっと! プリキュア オリジナル・サウンドトラック1 プリキュア♡サウンド♡フォー♡ユー!!"
@@ -8013,7 +7968,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/55714d4b-72dc-4057-9bed-4408ce64b578", "https://vgmdb.net/album/75726"]
 
-[397]
+[396]
 catalognumber = "MJSS-09319"
 date = "2022-08-24"
 album = "デリシャスパーティ♡プリキュア 後期主題歌シングル Vocal"
@@ -8026,7 +7981,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81498b20-9b67-4dc6-b3ab-f0336993b76b", "https://vgmdb.net/album/120802"]
 
-[398]
+[397]
 catalognumber = "MJSS-09320"
 date = "2022-08-24"
 album = "デリシャスパーティ♡プリキュア 後期主題歌シングル Vocal, Video"
@@ -8037,7 +7992,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81498b20-9b67-4dc6-b3ab-f0336993b76b", "https://vgmdb.net/album/120802"]
 
-[399]
+[398]
 catalognumber = "MJSS-09117"
 date = "2014-03-12"
 album = "プリキュア～永遠のともだち～ (2014 Version)/プリキュア・メモリ (NewStage3 Version)"
@@ -8049,7 +8004,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/26cbd821-8879-4252-96ee-0bbce4797310", "https://vgmdb.net/album/43600"]
 
-[400]
+[399]
 catalognumber = "MJSA-01067"
 date = "2013-05-29"
 album = "ドキドキ!プリキュア キャラクターアルバム ～SONGBIRD～"
@@ -8065,7 +8020,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b77658ef-b8fe-4f42-8d3e-8fe7bff0bf08", "https://vgmdb.net/album/38428"]
 
-[401]
+[400]
 catalognumber = "MJCD-20045"
 date = "2005-12-22"
 album = "ふたりはプリキュアMax♡Heart VocalアルバムⅡ 〜｢あ｣から始まる愛コトバ〜"
@@ -8087,7 +8042,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c18d2323-c131-4233-a568-81f361362f89", "https://vgmdb.net/album/56242"]
 
-[402]
+[401]
 catalognumber = "MJSA-01220"
 date = "2017-05-31"
 album = "キラキラ☆プリキュアアラモード オリジナル・サウンドトラック1 プリキュア☆サウンド☆デコレーション!!"
@@ -8139,7 +8094,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3483a760-937b-4ff0-bd1e-006f467d3a78", "https://vgmdb.net/album/66904"]
 
-[403]
+[402]
 catalognumber = "MJSS-09321"
 date = "2022-08-24"
 album = "デリシャスパーティ♡プリキュア 後期主題歌シングル"
@@ -8152,7 +8107,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2d8adc78-6b2a-41c1-b5df-c001219dd412", "https://vgmdb.net/album/120803"]
 
-[404]
+[403]
 catalognumber = "EPCE-7089"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤A] Disc 1 (CD) [EPCE-7089]"
@@ -8166,7 +8121,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45f39ce0-b312-457f-8557-cce466b3270c", "https://vgmdb.net/album/86408"]
 
-[405]
+[404]
 catalognumber = "EPCE-7090"
 date = "2015-04-15"
 album = "青春小僧が泣いている/夕暮れは雨上がり/イマココカラ / モーニング娘。'15 [初回生産限定盤A] Disc 2 (DVD) [EPCE-7090]"
@@ -8175,7 +8130,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45f39ce0-b312-457f-8557-cce466b3270c", "https://vgmdb.net/album/86408"]
 
-[406]
+[405]
 catalognumber = ""
 date = "2015-03-18"
 album = "映画ふたりはプリキュア ミニオーディオドラマ＆キャストフリートークコメント"
@@ -8185,7 +8140,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/88169"]
 
-[407]
+[406]
 catalognumber = "CKCD0016"
 date = "2013-10-27"
 album = "Love Heart Beat!!"
@@ -8203,7 +8158,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/42324"]
 
-[408]
+[407]
 catalognumber = "MJSA-01155"
 date = "2015-03-11"
 album = "映画プリキュアオールスターズ 春のカーニバル♪ オリジナル・サウンドトラック"
@@ -8237,7 +8192,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a808fd3a-3f4e-469f-960d-8b194359f8f3", "https://vgmdb.net/album/49929"]
 
-[409]
+[408]
 catalognumber = "MJSS-09196"
 date = "2017-04-26"
 album = "キラキラ☆プリキュアアラモード キャラクターソングシングル sweet etude 4 キュアマカロン"
@@ -8248,7 +8203,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a56d7807-284a-4e36-b7b3-259683e7d5c3", "https://vgmdb.net/album/65896"]
 
-[410]
+[409]
 catalognumber = "MJSA-01310"
 date = "2021-02-17"
 album = "ヒーリングっど♥プリキュア ボーカルベスト ~We are Alive!!~"
@@ -8275,7 +8230,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bdf86a33-64b5-4876-a16c-16e27fd5a7ea", "https://vgmdb.net/album/106204"]
 
-[411]
+[410]
 catalognumber = "AVCD-83389/B"
 date = "2015-11-04"
 album = "KIRA KIRA/AKARI / Every Little Thing Vocal"
@@ -8287,7 +8242,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/54876"]
 
-[412]
+[411]
 catalognumber = "AVCD-83389/B"
 date = "2015-11-04"
 album = "KIRA KIRA/AKARI / Every Little Thing Video"
@@ -8296,7 +8251,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/54876"]
 
-[413]
+[412]
 catalognumber = "MJSS-09003"
 date = "2011-03-09"
 album = "ラ♪ラ♪ラ♪スイートプリキュア♪/ワンダフル↑パワフル↑ミュージック!!"
@@ -8308,7 +8263,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5de080d9-cecb-4bed-a4c7-7088315ad070", "https://vgmdb.net/album/47634"]
 
-[414]
+[413]
 catalognumber = "MJSS-09241"
 date = "2019-08-07"
 album = "教えて...! トゥインクル☆/コズミック☆ミステリー☆ガール Disc 1 (CD) [MJSS-09241]"
@@ -8320,7 +8275,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34b3ae5d-6e39-4f85-88ca-c92ea309a99b", "https://vgmdb.net/album/87243"]
 
-[415]
+[414]
 catalognumber = "MJSS-09242"
 date = "2019-08-07"
 album = "教えて...! トゥインクル☆/コズミック☆ミステリー☆ガール Disc 2 (DVD) [MJSS-09242]"
@@ -8330,7 +8285,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34b3ae5d-6e39-4f85-88ca-c92ea309a99b", "https://vgmdb.net/album/87243"]
 
-[416]
+[415]
 catalognumber = "MJSA-01412"
 date = "2024-09-11"
 album = "わんだふるぷりきゅあ! ざ・むーびー! ドキドキ♡ゲームの世界で大冒険! オリジナル・サウンドトラック"
@@ -8373,7 +8328,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dab794cd-d949-46f7-919e-a6807800a9df", "https://vgmdb.net/album/140502"]
 
-[417]
+[416]
 catalognumber = "MJSS-09234"
 date = "2019-03-06"
 album = "キラリ☆彡スター☆トゥインクルプリキュア/パペピプ☆ロマンチック"
@@ -8385,7 +8340,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/507d4c98-5bdf-4f1b-bfc6-b45851f097d8", "https://vgmdb.net/album/83261"]
 
-[418]
+[417]
 catalognumber = "MJSA-01200"
 date = "2016-11-23"
 album = "魔法つかいプリキュア! オリジナル・サウンドトラック2 プリキュア☆マジカル♡サウンド!!"
@@ -8429,7 +8384,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08a30290-2568-458e-8bc5-2815d949b958", "https://vgmdb.net/album/61885"]
 
-[419]
+[418]
 catalognumber = "MJCD-20157"
 date = "2009-02-25"
 album = "Yes!プリキュア5 & Yes!プリキュア5GoGo! コージ&ナッツ ボーカルベスト ぼくらがいたこと"
@@ -8449,7 +8404,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1cb54556-2535-4403-a51a-3e8406d84404", "https://vgmdb.net/album/54725"]
 
-[420]
+[419]
 catalognumber = "MJSS-09361"
 date = "2023-12-06"
 album = "キボウノチカラ〜オトナプリキュア'23〜 エンディングテーマソングシングル Disc 1 (CD) [MJSS-09361]"
@@ -8464,7 +8419,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f94745c-4258-4c1d-be69-619ab0caa1b2", "https://vgmdb.net/album/132306"]
 
-[421]
+[420]
 catalognumber = "MJSS-09362"
 date = "2023-12-06"
 album = "キボウノチカラ〜オトナプリキュア'23〜 エンディングテーマソングシングル Disc 2 (DVD) [MJSS-09362]"
@@ -8474,7 +8429,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f94745c-4258-4c1d-be69-619ab0caa1b2", "https://vgmdb.net/album/132306"]
 
-[422]
+[421]
 catalognumber = "MJSS-09217"
 date = "2018-03-14"
 album = "映画プリキュアスーパースターズ! 主題歌シングル"
@@ -8486,7 +8441,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020a2eb2-daf0-47b1-95e5-df6a7bb0a268", "https://vgmdb.net/album/73698"]
 
-[423]
+[422]
 catalognumber = "MJSA-01229"
 date = "2018-03-14"
 album = "映画プリキュアスーパースターズ! オリジナル☘サウンドトラック"
@@ -8525,7 +8480,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/75e294a3-493b-4ce3-945b-ab59c2ac5e9e", "https://vgmdb.net/album/73697"]
 
-[424]
+[423]
 catalognumber = "MJSA-01334"
 date = "2022-05-25"
 album = "デリシャスパーティ♡プリキュア オリジナル・サウンドトラック1 プリキュア・デリシャス・サウンド!!"
@@ -8563,7 +8518,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/451feec6-3cf8-450d-87c0-477a9f6c3774", "https://vgmdb.net/album/118128"]
 
-[425]
+[424]
 catalognumber = "MJCD-20188"
 date = "2010-06-09"
 album = "ハートキャッチ プリキュア! オリジナル・サウンドトラック1 プリキュア・サウンド・フォルテウェイブ!!"
@@ -8604,7 +8559,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59d2b992-5c45-41ec-b473-38882d06be40", "https://vgmdb.net/album/35400"]
 
-[426]
+[425]
 catalognumber = "MJSA-01010"
 date = "2011-07-20"
 album = "ふたりはプリキュアMAX HEART メモリアル ボーカル セレクション"
@@ -8628,7 +8583,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a6fc48a7-ad03-4e3d-b6c8-82de4d59c75d", "https://vgmdb.net/album/86208"]
 
-[427]
+[426]
 catalognumber = "MJCD-20126"
 date = "2008-07-02"
 album = "Yes! プリキュア5 GoGo! Web ラジオ CLUB ココ＆ナッツ Vol.2"
@@ -8645,7 +8600,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87053"]
 
-[428]
+[427]
 catalognumber = "MJSA-01396"
 date = "2024-05-29"
 album = "わんだふるぷりきゅあ! オリジナル・サウンドトラック1: プリキュア・ワンダフル・サウンド!!"
@@ -8689,7 +8644,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9267316e-23d7-4c4e-a609-cda02252c786", "https://vgmdb.net/album/136480"]
 
-[429]
+[428]
 catalognumber = "MJSA-01171"
 date = "2015-11-11"
 album = "Go!プリンセスプリキュア ボーカルアルバム2 ~For My Dream~"
@@ -8708,7 +8663,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53748f76-cc14-417c-a23e-d5eccee0bf30", "https://vgmdb.net/album/54628"]
 
-[430]
+[429]
 catalognumber = "MJSA-01358, MJSA-01359, MJSA-01360"
 date = "2023-11-29"
 album = "プリキュア主題歌 TV size collection ～20th Anniversary Edition～ Disc 1 (CD) [MJSA-01358]"
@@ -8743,7 +8698,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aab3990f-9655-462c-b68d-b04b9901a4d2", "https://vgmdb.net/album/127328"]
 
-[431]
+[430]
 catalognumber = "MJSA-01358, MJSA-01359, MJSA-01360"
 date = "2023-11-29"
 album = "プリキュア主題歌 TV size collection ～20th Anniversary Edition～ Disc 2 (CD) [MJSA-01359]"
@@ -8794,7 +8749,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aab3990f-9655-462c-b68d-b04b9901a4d2", "https://vgmdb.net/album/127328"]
 
-[432]
+[431]
 catalognumber = "MJSA-01358, MJSA-01359, MJSA-01360"
 date = "2023-11-29"
 album = "プリキュア主題歌 TV size collection ～20th Anniversary Edition～ Disc 3 (DVD) [MJSA-01360]"
@@ -8880,7 +8835,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aab3990f-9655-462c-b68d-b04b9901a4d2", "https://vgmdb.net/album/127328"]
 
-[433]
+[432]
 catalognumber = "MJSA-01358, MJSA-01359, MJSA-01360"
 date = "2023-11-29"
 album = "プリキュア主題歌 TV size collection ～20th Anniversary Edition～ Disc 4 (Download Code)"
@@ -8906,7 +8861,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aab3990f-9655-462c-b68d-b04b9901a4d2", "https://vgmdb.net/album/127328"]
 
-[434]
+[433]
 catalognumber = "MJSS-09222"
 date = "2018-08-22"
 album = "HUGっと! YELL FOR YOU/LOVE & LOVE Disc 1 (CD) [MJSS-09222]"
@@ -8918,7 +8873,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/79781"]
 
-[435]
+[434]
 catalognumber = "MJSS-09223"
 date = "2018-08-22"
 album = "HUGっと! YELL FOR YOU/LOVE & LOVE Disc 2 (DVD) [MJSS-09223]"
@@ -8933,7 +8888,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/79781"]
 
-[436]
+[435]
 catalognumber = "MJSS-09371"
 date = "2024-08-21"
 album = "わんだふるぷりきゅあ! 後期主題歌シングル"
@@ -8947,7 +8902,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7c8318f3-050c-43d7-95ea-37181e3734b7", "https://vgmdb.net/album/140918"]
 
-[437]
+[436]
 catalognumber = "MJSS-09339"
 date = "2023-03-22"
 album = "ひろがるスカイ! プリキュア 主題歌シングル"
@@ -8961,7 +8916,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ad0bedaf-e966-4061-a3f1-a3563b9036fe", "https://vgmdb.net/album/125740"]
 
-[438]
+[437]
 catalognumber = "MJCD-20116"
 date = "2008-03-26"
 album = "Yes!プリキュア5 ボーカルベスト!!"
@@ -8985,7 +8940,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ae4fcf42-44af-426c-aa6e-903d747fd679", "https://vgmdb.net/album/48214"]
 
-[439]
+[438]
 catalognumber = "MJSA-01156"
 date = "2015-03-11"
 album = "プリキュア映画主題歌コレクション2 Disc 1 [MJSA-01156]"
@@ -9004,7 +8959,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c23aa7c5-8ccb-4076-8c61-8b27f102db5a", "https://vgmdb.net/album/49931"]
 
-[440]
+[439]
 catalognumber = "MJSA-01157"
 date = "2015-03-11"
 album = "プリキュア映画主題歌コレクション2 Disc 2 [MJSA-01157]"
@@ -9021,7 +8976,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c23aa7c5-8ccb-4076-8c61-8b27f102db5a", "https://vgmdb.net/album/49931"]
 
-[441]
+[440]
 catalognumber = "88697"
 date = "2006-11-03"
 album = "Anime Hits 5 - Der offizielle Soundtrack zu den RTL II TV-Serien"
@@ -9051,7 +9006,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dbfc6da1-3461-4ded-9d4c-e60ecff58a02", "https://vgmdb.net/album/91911"]
 
-[442]
+[441]
 catalognumber = "MJSA-01268"
 date = "2018-12-26"
 album = "HUGっと! プリキュア オリジナル・サウンドトラック2 プリキュア・チアフル・サウンド!!"
@@ -9101,7 +9056,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a61df042-078d-497e-901d-8a21624ccb31", "https://vgmdb.net/album/81627"]
 
-[443]
+[442]
 catalognumber = "MJSA-01204"
 date = "2016-12-21"
 album = "プリキュア エンディングテーマコレクション 2004～2016 Disc 1 [MJSA-01204]"
@@ -9122,7 +9077,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/62565"]
 
-[444]
+[443]
 catalognumber = "MJSA-01205"
 date = "2016-12-21"
 album = "プリキュア エンディングテーマコレクション 2004～2016 Disc 2 [MJSA-01205]"
@@ -9142,7 +9097,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/62565"]
 
-[445]
+[444]
 catalognumber = "MJCD-20095"
 date = "2007-04-25"
 album = "ふたりはプリキュア Splash☆Star Vocal ベスト!!"
@@ -9166,7 +9121,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93a7455d-8c06-4239-b2d4-23745a6a380e", "https://vgmdb.net/album/58760"]
 
-[446]
+[445]
 catalognumber = "MJCD-23079"
 date = "2010-03-17"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス! Disc 1 (CD) [MJCD-23079]"
@@ -9178,7 +9133,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79bafae4-1d34-48ce-a3b8-a30ba74facb7", "https://vgmdb.net/album/47616"]
 
-[447]
+[446]
 catalognumber = "MJCD-23079"
 date = "2010-03-17"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス! Disc 2 (DVD) [MJCD-23079A]"
@@ -9188,7 +9143,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79bafae4-1d34-48ce-a3b8-a30ba74facb7", "https://vgmdb.net/album/47616"]
 
-[448]
+[447]
 catalognumber = "MJSA-01172"
 date = "2015-11-18"
 album = "Go!プリンセスプリキュア オリジナル・サウンドトラック2 プリキュア・サウンド・ブレイズ!!"
@@ -9236,7 +9191,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6ad6205-45a2-4ffc-8b52-f3f5a4718fe0", "https://vgmdb.net/album/54615"]
 
-[449]
+[448]
 catalognumber = "MJSA-01045"
 date = "2012-07-18"
 album = "スマイルプリキュア! ボーカルアルバム1〜ひろがれ! スマイルワールド!!〜"
@@ -9255,7 +9210,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/83539e41-ddc2-4ab1-968f-b7fb6203603c", "https://vgmdb.net/album/32664"]
 
-[450]
+[449]
 catalognumber = "MARVS-27225"
 date = "2023-10-21"
 album = "ひろがるスカイ! プリキュア LIVE 2023 Hero Girls Live ~Max! Splash GoGo!~ 〈ときめく夕空〉編"
@@ -9266,7 +9221,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ace7035b-5198-4e03-8e45-d85842ead95a", "https://vgmdb.net/album/146452"]
 
-[451]
+[450]
 catalognumber = "MJSA-01042"
 date = "2012-03-14"
 album = "映画プリキュアオールスターズ NewStage みらいのともだち オリジナル・サウンドトラック"
@@ -9312,7 +9267,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/941d1fec-4651-4151-bc25-aa4cab333678", "https://vgmdb.net/album/32215"]
 
-[452]
+[451]
 catalognumber = "MJCD-23034"
 date = "2007-06-27"
 album = "とびっきり!勇気の扉"
@@ -9324,7 +9279,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a3de952b-a885-43ec-9dc0-7321dcc70862", "https://vgmdb.net/album/31753"]
 
-[453]
+[452]
 catalognumber = "MJSS-09179"
 date = "2016-08-10"
 album = "Dokkin♢魔法つかいプリキュア! Part2/魔法アラ・ドーモ! Disc 1 (CD) [MJSS-09179]"
@@ -9336,7 +9291,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d8c9b35c-aca2-443c-9708-5a7ede53f3e8", "https://vgmdb.net/album/59377"]
 
-[454]
+[453]
 catalognumber = "MJSS-09180"
 date = "2016-08-10"
 album = "Dokkin♢魔法つかいプリキュア! Part2/魔法アラ・ドーモ! Disc 2 (DVD) [MJSS-09180]"
@@ -9346,7 +9301,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d8c9b35c-aca2-443c-9708-5a7ede53f3e8", "https://vgmdb.net/album/59377"]
 
-[455]
+[454]
 catalognumber = "MJSA-01110"
 date = "2014-07-23"
 album = "ハピネスチャージプリキュア! ボーカルアルバム1 ～Hello！ハピネスフレンズ！～"
@@ -9365,7 +9320,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/65ebfbe5-db50-41af-84ac-cc901c93ea3d", "https://vgmdb.net/album/46036"]
 
-[456]
+[455]
 catalognumber = "MJSA-01373"
 date = "2023-12-27"
 album = "ひろがるスカイ! プリキュア オリジナル・サウンドトラック2 プリキュア・マジェスティック・サウンド!!"
@@ -9412,7 +9367,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d46bde0d-1b63-4761-a498-16719f6aac13", "https://vgmdb.net/album/133634"]
 
-[457]
+[456]
 catalognumber = "MJCD-20189"
 date = "2010-07-22"
 album = "ハートキャッチプリキュア! ボーカルアルバム 1 〜大地と海と陽と月と〜"
@@ -9432,7 +9387,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7eaf99ba-d318-4d29-92f2-b7fae3e5685e", "https://vgmdb.net/album/44649"]
 
-[458]
+[457]
 catalognumber = "MJSS-09203"
 date = "2017-08-23"
 album = "シュビドゥビ☆スイーツタイム/勇気が君を待ってる Disc 1 (CD) [MJSS-09203]"
@@ -9444,7 +9399,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ccaaf5b-f6e9-4936-83c0-30545d2b452f", "https://vgmdb.net/album/68668"]
 
-[459]
+[458]
 catalognumber = "MJSS-09204"
 date = "2017-08-23"
 album = "シュビドゥビ☆スイーツタイム/勇気が君を待ってる Disc 2 (DVD) [MJSS-09204]"
@@ -9454,7 +9409,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ccaaf5b-f6e9-4936-83c0-30545d2b452f", "https://vgmdb.net/album/68668"]
 
-[460]
+[459]
 catalognumber = "MJSS-09205"
 date = "2017-08-23"
 album = "シュビドゥビ☆スイーツタイム/勇気が君を待ってる"
@@ -9466,7 +9421,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5f580714-a3dc-457d-88fd-19a8ff141c5e", "https://vgmdb.net/album/68667"]
 
-[461]
+[460]
 catalognumber = "MJSS-09012"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア (ver.MaxHeart)/ムリムリ!?ありあり!!INじゃぁな～い?!/ワンダー☆ウィンター☆ヤッター!!"
@@ -9480,7 +9435,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85617"]
 
-[462]
+[461]
 catalognumber = "MJSS-09287"
 date = "2021-03-17"
 album = "映画ヒーリングっど♥プリキュア ゆめのまちでキュン!っとGoGo!大変身!! 主題歌シングル"
@@ -9492,7 +9447,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d7b742a-8d8c-452d-9288-b0bef20f2e47", "https://vgmdb.net/album/106966"]
 
-[463]
+[462]
 catalognumber = "MJSS-09258"
 date = "2020-09-09"
 album = "エビバディ☆ヒーリングッデイ!/Let's手と手でキュン!"
@@ -9504,7 +9459,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b014766-d8c4-4671-9d54-8f7afcb37b0b", "https://vgmdb.net/album/100587"]
 
-[464]
+[463]
 catalognumber = "MJSS-09007"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア/ゲッチュウ!らぶらぶぅ?! Disc 1 (CD) [MJSS-09007]"
@@ -9516,7 +9471,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/59284"]
 
-[465]
+[464]
 catalognumber = "MJSS-09008"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア/ゲッチュウ!らぶらぶぅ?! Disc 2 (DVD) [MJSS-09007]"
@@ -9527,7 +9482,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/59284"]
 
-[466]
+[465]
 catalognumber = "ESCL-5885"
 date = "2023-12-13"
 album = "〇 / いきものがかり"
@@ -9547,7 +9502,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e93bdf86-de8b-4734-8eb0-5d2be9967392", "https://vgmdb.net/album/133037"]
 
-[467]
+[466]
 catalognumber = "MJCD-20020"
 date = "2004-12-22"
 album = "ふたりはプリキュアボーカルアルバム2 VOCAL RAINBOW STORM!! ～光になりたい～"
@@ -9566,7 +9521,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a22fa6b5-8a23-4da1-bd09-6f7ee8b1211f", "https://vgmdb.net/album/55487"]
 
-[468]
+[467]
 catalognumber = "MJSS-09004"
 date = "2011-04-06"
 album = "キラキラkawaii!プリキュア大集合♪ ~いのちの花~/ありがとうがいっぱい Disc 1 (CD) [MJSS-09004]"
@@ -9579,7 +9534,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/49663"]
 
-[469]
+[468]
 catalognumber = "MJSS-09005"
 date = "2011-04-06"
 album = "キラキラkawaii!プリキュア大集合♪ ~いのちの花~/ありがとうがいっぱい Disc 2 (DVD) [MJSS-09005]"
@@ -9590,7 +9545,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/49663"]
 
-[470]
+[469]
 catalognumber = "MJCD-20078"
 date = "2006-11-22"
 album = "ふたりはプリキュア Splash☆Star Vocalアルバム2～奇跡の雫～"
@@ -9608,7 +9563,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34847d3b-5e0f-4dc1-9c13-122709b11af4", "https://vgmdb.net/album/58698"]
 
-[471]
+[470]
 catalognumber = "MJCD-23076"
 date = "2009-10-21"
 album = "Let's! フレッシュプリキュア! ～Hybrid ver.～ for the Movie/H@ppy Together!!! for the Movie Disc 1 (CD) [MJCD-23076]"
@@ -9620,7 +9575,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/873a6691-16e4-42ad-80ef-85ee6c1173eb", "https://vgmdb.net/album/48417"]
 
-[472]
+[471]
 catalognumber = "MJCD-23076"
 date = "2009-10-21"
 album = "Let's! フレッシュプリキュア! ～Hybrid ver.～ for the Movie/H@ppy Together!!! for the Movie Disc 2 (DVD) [MJCD-23076A]"
@@ -9632,7 +9587,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48417"]
 
-[473]
+[472]
 catalognumber = "MJSA-01368"
 date = "2023-02-01"
 album = "デリシャスパーティ♡プリキュア ボーカルベスト ～Delicious Ambitious!～ Disc 1 [MJSA-01368]"
@@ -9653,7 +9608,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45d9cb09-b8d9-4785-8f32-061cc3945a76", "https://vgmdb.net/album/124771"]
 
-[474]
+[473]
 catalognumber = "MJSA-01369"
 date = "2023-02-01"
 album = "デリシャスパーティ♡プリキュア ボーカルベスト ～Delicious Ambitious!～ Disc 2 [MJSA-01369]"
@@ -9675,7 +9630,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/45d9cb09-b8d9-4785-8f32-061cc3945a76", "https://vgmdb.net/album/124771"]
 
-[475]
+[474]
 catalognumber = "MJSS-09010"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア (ver.MaxHeart)/ムリムリ!?ありあり!!INじゃぁな～い?!/ワンダー☆ウィンター☆ヤッター!! Disc 1 (CD) [MJSS-09010]"
@@ -9689,7 +9644,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85615"]
 
-[476]
+[475]
 catalognumber = "MJSS-09011"
 date = "2011-05-11"
 album = "DANZEN!ふたりはプリキュア (ver.MaxHeart)/ムリムリ!?ありあり!!INじゃぁな～い?!/ワンダー☆ウィンター☆ヤッター!! Disc 2 (DVD) [MJSS-09011]"
@@ -9700,7 +9655,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85615"]
 
-[477]
+[476]
 catalognumber = "MJSA-01013"
 date = "2011-07-20"
 album = "Yes!プリキュア5GoGo! メモリアル ボーカル セレクション"
@@ -9724,7 +9679,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/62fd8619-b556-4ebc-a864-7ee72ccea2b8", "https://vgmdb.net/album/86532"]
 
-[478]
+[477]
 catalognumber = "MJCD-20130"
 date = "2008-09-03"
 album = "Yes! プリキュア5 GoGo! Web ラジオ CLUB ココ＆ナッツ Vol.3 + June Cinderella Night Vocal, Talk"
@@ -9739,7 +9694,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87054"]
 
-[479]
+[478]
 catalognumber = "MJCD-20130"
 date = "2008-09-03"
 album = "Yes! プリキュア5 GoGo! Web ラジオ CLUB ココ＆ナッツ Vol.3 + June Cinderella Night Vocal, Drama, Talk"
@@ -9755,7 +9710,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87054"]
 
-[480]
+[479]
 catalognumber = "MARVS-27217"
 date = "2022-10-29"
 album = "デリシャスパーティ♡プリキュアLIVE2022 スペシャルCD かんぱいParty♡"
@@ -9765,7 +9720,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/146603"]
 
-[481]
+[480]
 catalognumber = "MJCD-23080"
 date = "2010-03-17"
 album = "Alright!ハートキャッチプリキュア!/ハートキャッチ☆パラダイス!"
@@ -9777,7 +9732,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b0d4fe05-1ee2-4cd1-901a-d11f3846e7cb", "https://vgmdb.net/album/47614"]
 
-[482]
+[481]
 catalognumber = "MJSA-01320"
 date = "2021-10-20"
 album = "映画トロピカル～ジュ! プリキュア 雪のプリンセスと奇跡の指輪! オリジナル・サウンドトラック"
@@ -9816,7 +9771,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4fb3bf3-d041-437a-8efe-ec2adbcf0c06", "https://vgmdb.net/album/113076"]
 
-[483]
+[482]
 catalognumber = "MJSS-09381"
 date = "2024-09-11"
 album = "わんだふるぷりきゅあ! ざ・むーびー! ドキドキ♡ゲームの世界で大冒険! 主題歌シングル Disc 1 (CD) [MJSS-09381]"
@@ -9828,7 +9783,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4aa6bc3c-d8bd-491d-b358-d2798d5ddbe6", "https://vgmdb.net/album/140500"]
 
-[484]
+[483]
 catalognumber = "MJSS-09382"
 date = "2024-09-11"
 album = "わんだふるぷりきゅあ! ざ・むーびー! ドキドキ♡ゲームの世界で大冒険! 主題歌シングル Disc 2 (DVD) [MJSS-09382]"
@@ -9838,7 +9793,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4aa6bc3c-d8bd-491d-b358-d2798d5ddbe6", "https://vgmdb.net/album/140500"]
 
-[485]
+[484]
 catalognumber = "MJSA-01207"
 date = "2017-03-15"
 album = "映画プリキュアドリームスターズ! オリジナル✿サウンドトラック"
@@ -9881,7 +9836,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4746b6d6-3960-47c5-8e81-5f2d6ec1ba2b", "https://vgmdb.net/album/64147"]
 
-[486]
+[485]
 catalognumber = "PCXX-50083-2"
 date = "2015-03-18"
 album = "映画ふたりはプリキュアMaxHeart ドラマCD"
@@ -9892,7 +9847,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/88165"]
 
-[487]
+[486]
 catalognumber = "MJSS-09092"
 date = "2012-10-24"
 album = "きみという未来/スマイルプリキュア!メドレー"
@@ -9904,7 +9859,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/689dc5da-ecea-4545-9db5-7c392f43f795", "https://vgmdb.net/album/35579"]
 
-[488]
+[487]
 catalognumber = "MJCD-23045"
 date = "2008-06-04"
 album = "ツイン・テールの魔法 / 春日野うらら"
@@ -9916,7 +9871,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96b39b50-4e41-4a2d-9d4f-09d11e1811bb", "https://vgmdb.net/album/48114"]
 
-[489]
+[488]
 catalognumber = "MJSA-01244"
 date = "2018-08-08"
 album = "PRECURE Best Songs Selection: Dear my past self / 宮本佳那子 [初回生産限定盤] Arrangement, Vocal"
@@ -9938,7 +9893,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81826"]
 
-[490]
+[489]
 catalognumber = "MJSA-01245"
 date = "2018-08-08"
 album = "PRECURE Best Songs Selection: Dear my past self / 宮本佳那子 [初回生産限定盤] Video"
@@ -9947,7 +9902,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/888475ca-d116-4085-b414-7ca082c6f97a", "https://vgmdb.net/album/81826"]
 
-[491]
+[490]
 catalognumber = "MJCD-20121"
 date = "2008-05-09"
 album = "Yes! プリキュア5 GoGo! Web ラジオ CLUB ココ＆ナッツ Vol.1"
@@ -9964,7 +9919,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87035"]
 
-[492]
+[491]
 catalognumber = "MJSA-01166"
 date = "2015-05-27"
 album = "Go!プリンセスプリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・エンゲージ!!"
@@ -10008,7 +9963,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4ee137bc-68c8-4e52-adc2-c26b262656be", "https://vgmdb.net/album/51794"]
 
-[493]
+[492]
 catalognumber = "MJSA-01280"
 date = "2020-01-22"
 album = "スター☆トゥインクルプリキュア ★ボーカルベスト★"
@@ -10030,7 +9985,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3dcae0de-afbc-49fd-9cc3-0ee6a7255829", "https://vgmdb.net/album/92142"]
 
-[494]
+[493]
 catalognumber = "MJSS-09322"
 date = "2022-09-21"
 album = "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ! 主題歌シングル Vocal"
@@ -10042,7 +9997,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a0f268b2-8230-4880-8428-8a1d9ee4d191", "https://vgmdb.net/album/121754"]
 
-[495]
+[494]
 catalognumber = "MJSS-09323"
 date = "2022-09-21"
 album = "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ! 主題歌シングル Vocal, Video"
@@ -10054,7 +10009,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a0f268b2-8230-4880-8428-8a1d9ee4d191", "https://vgmdb.net/album/121754"]
 
-[496]
+[495]
 catalognumber = "MJSS-09133"
 date = "2014-10-08"
 album = "パーティ ハズカム/ハピネスグッディ↑↑"
@@ -10066,7 +10021,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/41ad6548-4209-49ca-b620-b245f83d96dc", "https://vgmdb.net/album/47387"]
 
-[497]
+[496]
 catalognumber = "MJCD-20168"
 date = "2009-07-23"
 album = "フレッシュプリキュア! ボーカルアルバム 1 ～太陽の子供たちへ～"
@@ -10085,7 +10040,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bd1fb6fc-f6c8-4243-9a8f-1b7630d5e60e", "https://vgmdb.net/album/44588"]
 
-[498]
+[497]
 catalognumber = "MJSS-09214"
 date = "2018-03-07"
 album = "We can!! HUGっと! プリキュア/HUGっと! 未来☆ドリーマー Disc 1 (CD) [MJSS-09214]"
@@ -10097,7 +10052,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4635ca20-4ada-4624-93aa-3636ebec7000", "https://vgmdb.net/album/73961"]
 
-[499]
+[498]
 catalognumber = "MJSS-09215"
 date = "2018-03-07"
 album = "We can!! HUGっと! プリキュア/HUGっと! 未来☆ドリーマー Disc 2 (DVD) [MJSS-09215]"
@@ -10107,7 +10062,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4635ca20-4ada-4624-93aa-3636ebec7000", "https://vgmdb.net/album/73961"]
 
-[500]
+[499]
 catalognumber = "MJSS-09015"
 date = "2011-05-11"
 album = "まかせて★スプラッシュ☆スター★/「笑うが勝ち!」でGO!/ガンバランスdeダンス"
@@ -10121,7 +10076,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/26087"]
 
-[501]
+[500]
 catalognumber = "MJCD-20106"
 date = "2007-12-05"
 album = "Yes!プリキュア5 ドラマ&Vocalアルバム① ココ&ナッツ ～ふたりの王子～"
@@ -10138,7 +10093,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/337524c4-2e97-4433-8d45-78d9d082c838", "https://vgmdb.net/album/58818"]
 
-[502]
+[501]
 catalognumber = "MJSA-01413"
 date = "2025-03-05"
 album = "魔法つかいプリキュア!! ～MIRAI DAYS～ オリジナル・サウンドトラック"
@@ -10185,7 +10140,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b65ba66f-cda3-46eb-904c-5a588277ee5b", "https://vgmdb.net/album/145998"]
 
-[503]
+[502]
 catalognumber = "MJSA-01314"
 date = "2021-06-09"
 album = "トロピカル～ジュ! プリキュア オリジナル・サウンドトラック1 プリキュア・トロピカル・サウンド!!"
@@ -10231,7 +10186,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2fd74bcd-bb50-4c46-a28f-4b513831c167", "https://vgmdb.net/album/109913"]
 
-[504]
+[503]
 catalognumber = "MJCD-23001"
 date = "2004-09-24"
 album = "DANZEN!ふたりはプリキュア/ゲッチュウ!らぶらぶぅ?! / 五條真由美"
@@ -10243,7 +10198,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9c1d6ae0-4261-41f9-bda8-16b3b93a00cf", "https://vgmdb.net/album/58917"]
 
-[505]
+[504]
 catalognumber = "MJSA-01283"
 date = "2020-10-28"
 album = "映画プリキュアミラクルリープ みんなとの不思議な1日 オリジナル・サウンドトラック"
@@ -10286,7 +10241,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2cf2e397-8728-402b-8c79-0c4c2025f3fc", "https://vgmdb.net/album/95714"]
 
-[506]
+[505]
 catalognumber = "MJSA-01312"
 date = "2021-04-07"
 album = "Yes! プリキュア5 & Yes! プリキュア5 GoGo! メモリアルアルバム Disc 1 [MJSA-01312]"
@@ -10324,7 +10279,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/406f47f3-ccc3-44f4-9ce3-a4ebea04f45f", "https://vgmdb.net/album/108490"]
 
-[507]
+[506]
 catalognumber = "MJSA-01313"
 date = "2021-04-07"
 album = "Yes! プリキュア5 & Yes! プリキュア5 GoGo! メモリアルアルバム Disc 2 [MJSA-01313]"
@@ -10362,7 +10317,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/406f47f3-ccc3-44f4-9ce3-a4ebea04f45f", "https://vgmdb.net/album/108490"]
 
-[508]
+[507]
 catalognumber = "MJSS-09106"
 date = "2013-09-04"
 album = "ラブリンク/この空の向こう～ドキドキ!プリキュアといっしょ～"
@@ -10374,7 +10329,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d8debe74-f200-4af3-a868-1934dc2d77a2", "https://vgmdb.net/album/41178"]
 
-[509]
+[508]
 catalognumber = "MJCD-20097"
 date = "2007-06-06"
 album = "五條真由美ボーカルベスト from ふたりはプリキュア"
@@ -10398,7 +10353,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/853622ad-4e1c-4643-9c95-6f7c34242855", "https://vgmdb.net/album/87249"]
 
-[510]
+[509]
 catalognumber = "MJSS-09073"
 date = "2012-03-07"
 album = "Let's go! スマイルプリキュア!/イェイ! イェイ! イェイ!"
@@ -10410,7 +10365,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f71572c2-dbb5-4a6d-a502-2f3fe5a32858", "https://vgmdb.net/album/32214"]
 
-[511]
+[510]
 catalognumber = "MJCD-20107"
 date = "2008-01-09"
 album = "Yes!プリキュア5 ドラマ&Vocalアルバム② ココ&ナッツ ～先生と店長～"
@@ -10427,7 +10382,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c3748cfe-bff4-4a6d-ab70-f2aa626df9be", "https://vgmdb.net/album/58821"]
 
-[512]
+[511]
 catalognumber = "MJCD-20017"
 date = "2004-12-22"
 album = "ふたりはプリキュア CDドラマシリーズ ~ふたりでプリドラNo.2~ マジしんどい! 雪は招くよ嵐を呼んで!?"
@@ -10446,7 +10401,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94a7f414-9710-4ff2-8cfb-8842d00147e1", "https://vgmdb.net/album/86197"]
 
-[513]
+[512]
 catalognumber = "TGCS-8789"
 date = "2015-07-15"
 album = "映画プリキュアオールスターズ 春のカーニバル♪ 特典CD イマココカラ"
@@ -10455,7 +10410,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95186"]
 
-[514]
+[513]
 catalognumber = "MJSA-01057"
 date = "2012-11-28"
 album = "スマイルプリキュア! オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!"
@@ -10498,7 +10453,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5588a853-8471-44f4-af67-3489ab2b1fa3", "https://vgmdb.net/album/35482"]
 
-[515]
+[514]
 catalognumber = "MJSA-01078"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 1"
@@ -10529,7 +10484,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[516]
+[515]
 catalognumber = "MJSA-01079"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 2"
@@ -10560,7 +10515,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[517]
+[516]
 catalognumber = "MJSA-01080"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 3"
@@ -10591,7 +10546,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[518]
+[517]
 catalognumber = "MJSA-01081"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 4"
@@ -10620,7 +10575,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[519]
+[518]
 catalognumber = "MJSA-01082"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 5"
@@ -10650,7 +10605,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[520]
+[519]
 catalognumber = "MJSA-01083"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 6"
@@ -10680,7 +10635,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[521]
+[520]
 catalognumber = "MJSA-01084"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 7"
@@ -10709,7 +10664,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[522]
+[521]
 catalognumber = "MJSA-01085"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 8"
@@ -10739,7 +10694,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[523]
+[522]
 catalognumber = "MJSA-01086"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Vocal Disc 9"
@@ -10768,7 +10723,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[524]
+[523]
 catalognumber = "MJSA-01087"
 date = "2013-09-04"
 album = "プリキュアボーカルベストBOX Original Soundtrack, Arrangement, Vocal"
@@ -10818,7 +10773,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e596c3-718f-49d6-abee-b261038f4b53", "https://vgmdb.net/album/39397"]
 
-[525]
+[524]
 catalognumber = "MJCD-20194"
 date = "2010-10-27"
 album = "映画ハートキャッチプリキュア! 花の都でファッションショー…ですか!? オリジナル・サウンドトラック"
@@ -10860,7 +10815,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/90658bae-ded9-410f-b138-062a672edfd3", "https://vgmdb.net/album/30164"]
 
-[526]
+[525]
 catalognumber = "MJSA-01002"
 date = "2011-02-16"
 album = "プリキュア映画主題歌コレクション Disc 1 [MJSA-01002]"
@@ -10880,7 +10835,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/26c9f39a-69ec-4d41-bfbf-386a15851fdb", "https://vgmdb.net/album/61508"]
 
-[527]
+[526]
 catalognumber = "MJSA-01003"
 date = "2011-02-16"
 album = "プリキュア映画主題歌コレクション Disc 2 [MJSA-01003]"
@@ -10896,7 +10851,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/26c9f39a-69ec-4d41-bfbf-386a15851fdb", "https://vgmdb.net/album/61508"]
 
-[528]
+[527]
 catalognumber = "MJSS-09261"
 date = "2020-10-28"
 album = "映画プリキュアミラクルリープ みんなとの不思議な1日 テーマソングシングル"
@@ -10908,7 +10863,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da6f394d-d6f8-4844-9d32-02b3b544712c", "https://vgmdb.net/album/95718"]
 
-[529]
+[528]
 catalognumber = "MJSA-01226"
 date = "2017-11-29"
 album = "キラキラ☆プリキュアアラモード ボーカルアルバム2 苺坂物語"
@@ -10932,7 +10887,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9c11b817-1e25-42e1-a086-1e0e9ec76667", "https://vgmdb.net/album/71818"]
 
-[530]
+[529]
 catalognumber = "MJSA-01012"
 date = "2011-07-20"
 album = "Yes!プリキュア5　メモリアル ボーカル セレクション"
@@ -10956,7 +10911,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2e294750-d83e-461b-a1f5-41be55c87e52", "https://vgmdb.net/album/86382"]
 
-[531]
+[530]
 catalognumber = "MJSA-01397"
 date = "2024-07-24"
 album = "わんだふるぷりきゅあ! ボーカルアルバム ～We are わんだふる!!!!～"
@@ -10979,7 +10934,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/852bf063-c6c0-4092-942b-13278a876d3a", "https://vgmdb.net/album/138688"]
 
-[532]
+[531]
 catalognumber = "PCXX-50085-2"
 date = "2015-03-18"
 album = "映画ふたりはプリキュアSplash☆Starチクタク危機一髪! ドラマCD"
@@ -10990,7 +10945,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/88167"]
 
-[533]
+[532]
 catalognumber = "MJCD-20100"
 date = "2007-09-12"
 album = "Yes!プリキュア5 オリジナル・サウンドトラック1 プリキュア・サウンド・ドリーム!!"
@@ -11036,7 +10991,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d61b6a41-8d38-407b-aca7-9b36f8ddbe18", "https://vgmdb.net/album/48212"]
 
-[534]
+[533]
 catalognumber = "MJSS-09316"
 date = "2022-03-30"
 album = "デリシャスパーティ♡プリキュア 主題歌シングル Vocal"
@@ -11050,7 +11005,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9aa3806-95f1-4ed7-ae7f-2347131e5029", "https://vgmdb.net/album/117490"]
 
-[535]
+[534]
 catalognumber = "MJSS-09317"
 date = "2022-03-30"
 album = "デリシャスパーティ♡プリキュア 主題歌シングル Vocal, Video"
@@ -11060,7 +11015,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9aa3806-95f1-4ed7-ae7f-2347131e5029", "https://vgmdb.net/album/117490"]
 
-[536]
+[535]
 catalognumber = "MJSA-01228"
 date = "2018-01-17"
 album = "キラキラ☆プリキュアアラモードボーカルベストアルバム スイート☆エチュード☆アラモード"
@@ -11085,7 +11040,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d247c68f-3a3b-41e9-976e-6fd24e9ed374", "https://vgmdb.net/album/71461"]
 
-[537]
+[536]
 catalognumber = "MJSS-09114"
 date = "2014-03-05"
 album = "ハピネスチャージプリキュア! WOW!/プリキュア・メモリ Disc 1 (CD) [MJSS-09114]"
@@ -11097,7 +11052,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f23dcc36-6016-4540-ab3c-f4d04b55688a", "https://vgmdb.net/album/43382"]
 
-[538]
+[537]
 catalognumber = "MJSS-09115"
 date = "2014-03-05"
 album = "ハピネスチャージプリキュア! WOW!/プリキュア・メモリ Disc 2 (DVD) [MJSS-09115]"
@@ -11107,7 +11062,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f23dcc36-6016-4540-ab3c-f4d04b55688a", "https://vgmdb.net/album/43382"]
 
-[539]
+[538]
 catalognumber = "MJSA-01227"
 date = "2017-11-29"
 album = "キラキラ☆プリキュアアラモード オリジナル・サウンドトラック2 プリキュア♡サウンド♡ゴーランド!!"
@@ -11160,7 +11115,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95a7e073-79ba-405a-88e3-493b15c88271", "https://vgmdb.net/album/71324"]
 
-[540]
+[539]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Original Soundtrack, Vocal Disc 1"
@@ -11191,7 +11146,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[541]
+[540]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Original Soundtrack, Vocal Disc 2"
@@ -11221,7 +11176,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[542]
+[541]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Original Soundtrack, Vocal Disc 3"
@@ -11252,7 +11207,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[543]
+[542]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Original Soundtrack, Vocal Disc 4"
@@ -11282,7 +11237,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[544]
+[543]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Original Soundtrack, Vocal Disc 5"
@@ -11313,7 +11268,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[545]
+[544]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Vocal"
@@ -11345,7 +11300,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[546]
+[545]
 catalognumber = "MJSA-01361, MJSA-01362, MJSA-01363, MJSA-01364, MJSA-01365, MJSA-01366"
 date = "2023-11-29"
 album = "プリキュアボーカルベストBOX 2018-2023 Vocal, Live Event, Video"
@@ -11354,7 +11309,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e81edc1-9017-4606-809b-f297894273f2", "https://vgmdb.net/album/127329"]
 
-[547]
+[546]
 catalognumber = "MJCD-23066"
 date = "2009-08-05"
 album = "Let's! フレッシュプリキュア! ~Hybrid ver.~/H@ppy Together!!!"
@@ -11366,7 +11321,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/eaf2cc88-f6e8-46ba-919a-a3c2baf1d2fd", "https://vgmdb.net/album/47655"]
 
-[548]
+[547]
 catalognumber = "MJCD-20042"
 date = "2005-12-22"
 album = "映画ふたりはプリキュア-マックスハート2 雪空のともだち オリジナル・サウンドトラック"
@@ -11410,7 +11365,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/beb415d4-66b8-496c-8148-5358a1c05617", "https://vgmdb.net/album/58218"]
 
-[549]
+[548]
 catalognumber = "MJSS-09085"
 date = "2012-09-05"
 album = "満開*スマイル!/笑う 笑えば 笑おう♪"
@@ -11422,30 +11377,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/277de9a0-49cb-4eda-a20b-1e51e4728a15", "https://vgmdb.net/album/35098"]
 
-[550]
-catalognumber = "MJSA-01422"
-date = "2025-07-23"
-album = "『キミとアイドルプリキュア♪』ボーカルアルバム～We are! You & IDOL PRECURE♪～"
-tracks = [
-    [1, "キミとアイドルプリキュア♪ Light Up! (TVサイズ)", "石井あみ・熊田茜音・吉武千颯", ""],
-    [2, "エブリデイ♪UTA-OH!!", "咲良うた(CV：松岡美里)", ""],
-    [3, "Wink! Link!", "蒼風なな(CV：髙橋ミナミ)", ""],
-    [4, "GR∞VE L∞P", "紫雨こころ(CV：高森奈津美)", ""],
-    [5, "キミからのEcho", "響カイト(CV：佐久間大介)", ""],
-    [6, "なかよしJ♡YFUL", "プリルン(CV：南條愛乃)&メロロン(CV：花井美春)", ""],
-    [7, "We are! You & IDOL PRECURE♪", "キュアアイドル(CV：松岡美里)&キュアウインク(CV：髙橋ミナミ)&キュアキュンキュン(CV：高森奈津美)&キュアズキューン(CV：南條愛乃)&キュアキッス(CV：花井美春)", ""],
-    [8, "Awakening Harmony", "キュアズキューン(CV：南條愛乃)&キュアキッス(CV：花井美春)", ""],
-    [9, "いざ! アイドル", "石井あみ・熊田茜音・吉武千颯", ""],
-    [10, "GARDEN", "キュアアイドル(CV：松岡美里)&キュアウインク(CV：髙橋ミナミ)&キュアキュンキュン(CV：高森奈津美)&キュアズキューン(CV：南條愛乃)&キュアキッス(CV：花井美春)", ""],
-    [11, "Wonder Flowers プリキュア ～Akane Kumada Ver.～", "熊田茜音", "0"],
-    [12, "Trio Dreams (TVサイズ)", "キュアアイドル(CV：松岡美里)&キュアウインク(CV：髙橋ミナミ)&キュアキュンキュン(CV：高森奈津美)", ""],
-    [13, "キミとアイドルプリキュア♪ Light Up! ～Ami Ishii Ver.～", "石井あみ", ""],
-    [14, "キミとアイドルプリキュア♪ Light Up! ～Akane Kumada Ver.～", "熊田茜音", ""],
-    [15, "キミとアイドルプリキュア♪ Light Up! ～Chihaya Yoshitake Ver.～", "吉武千颯", ""],
-]
-links = ["https://beta.musicbrainz.org/release/88629091-b66b-44bd-92d8-a806da3a304f", "https://vgmdb.net/album/148923"]
-
-[551]
+[549]
 catalognumber = "MJSS-09184"
 date = "2017-03-01"
 album = "SHINE!! キラキラ☆プリキュアアラモード/レッツ・ラ・クッキン☆ショータイム Disc 1 (CD) [MJSS-09184]"
@@ -11457,7 +11389,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2b8a46fb-e939-4a28-ae4f-7f682f801a85", "https://vgmdb.net/album/64146"]
 
-[552]
+[550]
 catalognumber = "MJSS-09185"
 date = "2017-03-01"
 album = "SHINE!! キラキラ☆プリキュアアラモード/レッツ・ラ・クッキン☆ショータイム Disc 2 (DVD) [MJSS-09185]"
@@ -11467,7 +11399,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2b8a46fb-e939-4a28-ae4f-7f682f801a85", "https://vgmdb.net/album/64146"]
 
-[553]
+[551]
 catalognumber = "MJCD-20069"
 date = "2006-08-25"
 album = "ふたりはプリキュアSplash☆Star サウンドトラック1 プリキュア・サウンド・シャワー!"
@@ -11518,7 +11450,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9c40fa89-8ae1-47fb-b6f5-1382150e7745", "https://vgmdb.net/album/48862"]
 
-[554]
+[552]
 catalognumber = "MARVS-27224"
 date = "2023-10-21"
 album = "ひろがるスカイ! プリキュア LIVE 2023 Hero Girls Live ~Max! Splash GoGo!~ 〈ひろがる青空〉盤"

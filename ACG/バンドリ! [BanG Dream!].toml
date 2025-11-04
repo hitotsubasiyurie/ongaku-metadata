@@ -1010,43 +1010,6 @@ tracks = [
 links = ["https://vgmdb.net/album/111230"]
 
 [65]
-catalognumber = "BRMM-10934"
-date = "2025-06-11"
-album = "HOWLING AMBITION / RAISE A SUILEN [Limited Edition] Vocal"
-tracks = [
-    [1, "HOWLING AMBITION", "", "0"],
-    [2, "VIVID FIRST TIME", "", "0"],
-    [3, "HOWLING AMBITION -instrumental-", "", "0"],
-    [4, "VIVID FIRST TIME -instrumental-", "", "0"],
-]
-links = ["https://vgmdb.net/album/151584"]
-
-[66]
-catalognumber = "BRMM-10934"
-date = "2025-06-11"
-album = "HOWLING AMBITION / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video"
-tracks = [
-    [1, "HELL! or HELL?", "", "0"],
-    [2, "UNSTOPPABLE", "", "0"],
-    [3, "EXIST", "", "0"],
-    [4, "Takin' my Heart", "", "0"],
-    [5, "Beautiful Birthday", "", "0"],
-    [6, "Life on the Lotus", "", "0"],
-    [7, "CORUSCATE -DNA-", "", "0"],
-    [8, "DRIVE US CRAZY", "", "0"],
-    [9, "Bad Kids All Bet", "", "0"],
-    [10, "JUST THE WAY I AM", "", "0"],
-    [11, "V.I.P Monster", "", "0"],
-    [12, "灼熱 Bonfire!", "", "0"],
-    [13, "EXPOSE 'Burn out!!!'", "", "0"],
-    [14, "Light a fire", "", "0"],
-    [15, "WELCOME TO PANDEMONIUM", "", "0"],
-    [16, "TWIN TALE", "", "0"],
-    [17, "!NVADE SHOW!", "", "0"],
-]
-links = ["https://vgmdb.net/album/151584"]
-
-[67]
 catalognumber = "BRMM-10091"
 date = "2017-06-28"
 album = "Re:birth day / Roselia"
@@ -1059,7 +1022,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6b69c8d0-6075-4812-9570-7c25f09780b9", "https://vgmdb.net/album/68237"]
 
-[68]
+[66]
 catalognumber = "BRMM-10107"
 date = "2018-01-31"
 album = "Hey-day狂騒曲 / Afterglow"
@@ -1071,7 +1034,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e192dde-41f3-40de-bee9-1babc8538352", "https://vgmdb.net/album/73076"]
 
-[69]
+[67]
 catalognumber = "BRMM-10411"
 date = "2021-05-26"
 album = "JUNCTION/Y / Argonavis [Blu-ray付生産限定盤] Disc 1 (CD)"
@@ -1082,7 +1045,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109828"]
 
-[70]
+[68]
 catalognumber = "BRMM-10411"
 date = "2021-05-26"
 album = "JUNCTION/Y / Argonavis [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
@@ -1091,7 +1054,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109828"]
 
-[71]
+[69]
 catalognumber = "ARDM-10011"
 date = "2022-03-30"
 album = "G線上にY!? / 風神RIZING!"
@@ -1100,7 +1063,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/119297"]
 
-[72]
+[70]
 catalognumber = "BRMM-10253"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal Disc 1"
@@ -1121,7 +1084,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/98916368-9f16-4826-962f-a358c547601a", "https://vgmdb.net/album/97120"]
 
-[73]
+[71]
 catalognumber = "BRMM-10253"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal Disc 2"
@@ -1141,7 +1104,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/98916368-9f16-4826-962f-a358c547601a", "https://vgmdb.net/album/97120"]
 
-[74]
+[72]
 catalognumber = "BRMM-10253"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party [Limited Edition] Vocal, Live Event, Video"
@@ -1161,7 +1124,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97120"]
 
-[75]
+[73]
 catalognumber = "BRMM-10136"
 date = "2018-11-21"
 album = "Don't be afraid! / Glitter*Green [Limited Edition] Disc 1 (CD)"
@@ -1173,7 +1136,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cafff219-ed1b-4a1a-b88f-1e9928164243", "https://vgmdb.net/album/80459"]
 
-[76]
+[74]
 catalognumber = "BRMM-10136"
 date = "2018-11-21"
 album = "Don't be afraid! / Glitter*Green [Limited Edition] Disc 2 (Blu-ray)"
@@ -1183,7 +1146,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cafff219-ed1b-4a1a-b88f-1e9928164243", "https://vgmdb.net/album/80459"]
 
-[77]
+[75]
 catalognumber = "BRMM-10763"
 date = "2024-04-03"
 album = "忘れらんない日々のこと / Afterglow"
@@ -1196,7 +1159,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/74de27ee-12f5-4c76-843f-72c2640c80f5", "https://vgmdb.net/album/138844"]
 
-[78]
+[76]
 catalognumber = "BRMM-10094"
 date = "2017-08-30"
 album = "熱色スターマイン / Roselia"
@@ -1209,7 +1172,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c78a865a-dd41-49c6-95c8-67a1a247c2db", "https://vgmdb.net/album/70199"]
 
-[79]
+[77]
 catalognumber = "BRMM-10680"
 date = "2023-08-09"
 album = "壱雫空 / MyGO!!!!!"
@@ -1223,7 +1186,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95c1d4ec-a5c1-4890-a041-a3283c6127a0", "https://vgmdb.net/album/129871"]
 
-[80]
+[78]
 catalognumber = ""
 date = "2020-06-01"
 album = "バンドリ! ガールズバンドパーティ! カバコレ Special Selection"
@@ -1236,7 +1199,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/308923a4-05ba-4a44-85dd-c6a3a62d5661", "https://vgmdb.net/album/99841"]
 
-[81]
+[79]
 catalognumber = "BRMM-10295"
 date = "2020-10-21"
 album = "Sacred world / RAISE A SUILEN"
@@ -1248,7 +1211,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94dd1bf6-6dca-47bc-9b9f-22dc731b26b6", "https://vgmdb.net/album/101643"]
 
-[82]
+[80]
 catalognumber = "BRMM-10293"
 date = "2020-08-12"
 album = "ARGONAVIS Special Disc 宇治川紫夕&二条 遥(εpsilonΦ) ver."
@@ -1261,7 +1224,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101128"]
 
-[83]
+[81]
 catalognumber = "BRMM-10141"
 date = "2018-12-12"
 album = "キズナミュージック♪ / Poppin'Party"
@@ -1273,7 +1236,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/639976d0-5fb9-4b37-be2f-616ec1b6671b", "https://vgmdb.net/album/81504"]
 
-[84]
+[82]
 catalognumber = "BRMM-10855"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤B] Vocal"
@@ -1285,7 +1248,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0438a7f6-f2e5-4612-9057-9b047f322e77", "https://vgmdb.net/album/145792"]
 
-[85]
+[83]
 catalognumber = "BRMM-10855"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤B] Vocal, Live Event, Video"
@@ -1306,7 +1269,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145792"]
 
-[86]
+[84]
 catalognumber = "BRMM-10855"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤B] Live Event, Video"
@@ -1318,7 +1281,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0438a7f6-f2e5-4612-9057-9b047f322e77", "https://vgmdb.net/album/145792"]
 
-[87]
+[85]
 catalognumber = "BRMM-10243"
 date = "2020-03-18"
 album = "にこ×にこ=ハイパースマイルパワー! / ハロー、ハッピーワールド!"
@@ -1330,7 +1293,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6eb81e5f-2be1-4e05-9330-61b34f19cb18", "https://vgmdb.net/album/92042"]
 
-[88]
+[86]
 catalognumber = ""
 date = "2020-07"
 album = "カップヌードル×バンドリ! ガールズバンドパーティ! スペシャルトークCD"
@@ -1343,35 +1306,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117422"]
 
-[89]
-catalognumber = "BRMM-10952"
-date = "2025-07-16"
-album = "CULTIVATION / 夢ノ結唱"
-tracks = [
-    [1, "停止線上の障壁（バリア） / 夢ノ結唱 POPY", "", ""],
-    [2, "世界中に響く耳鳴りの導火線に火をつけて / 夢ノ結唱 POPY", "", ""],
-    [3, "Little Lazy Princess / 夢ノ結唱 POPY", "", ""],
-    [4, "汀の宿 / 夢ノ結唱 POPY", "", ""],
-    [5, "ポータルＢ / 夢ノ結唱 POPY", "", ""],
-    [6, "Hatch / 夢ノ結唱 POPY", "", ""],
-    [7, "ヌード / 夢ノ結唱 ROSE", "", ""],
-    [8, "antidote / 夢ノ結唱 ROSE", "", ""],
-    [9, "流れ星のダーリン / 夢ノ結唱 ROSE", "", ""],
-    [10, "比較言語学における陰謀的研究法の可能性について / 夢ノ結唱 ROSE", "", ""],
-    [11, "最も濃いもの / 夢ノ結唱 ROSE", "", ""],
-    [12, "マルカリアンチェイン / 夢ノ結唱 ROSE", "", ""],
-    [13, "Singer / 夢ノ結唱 PASTEL", "", ""],
-    [14, "あなたなんて幻 / 夢ノ結唱 PASTEL", "", ""],
-    [15, "手を叩け今ここで祈るだけ願うだけ / 夢ノ結唱 HALO", "", ""],
-    [16, "私がマスター / 夢ノ結唱 HALO", "", ""],
-    [17, "すべてがそこにありますように。（COVER） / 夢ノ結唱 POPY・ROSE", "", ""],
-    [18, "透明の縁 / 夢ノ結唱 PASTEL・HALO", "", ""],
-    [19, "Leap up Lollipop / 夢ノ結唱 POPY", "", ""],
-    [20, "心の愛 / 夢ノ結唱 ROSE", "", ""],
-]
-links = ["https://vgmdb.net/album/150994"]
-
-[90]
+[87]
 catalognumber = "BRMM-10832"
 date = "2024-10-30"
 album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.9 Disc 1"
@@ -1391,7 +1326,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7d97a6c3-6311-439d-b7bf-213bc49f8770", "https://vgmdb.net/album/144197"]
 
-[91]
+[88]
 catalognumber = "BRMM-10832"
 date = "2024-10-30"
 album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.9 Disc 2"
@@ -1409,43 +1344,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7d97a6c3-6311-439d-b7bf-213bc49f8770", "https://vgmdb.net/album/144197"]
 
-[92]
-catalognumber = "BRMM-10918"
-date = "2025-06-26"
-album = "Dazzle the Destiny / Roselia [Limited Edition] Vocal"
-tracks = [
-    [1, "Dazzle the Destiny", "", "0"],
-    [2, "Grateful Melting", "", "0"],
-    [3, "Dazzle the Destiny -instrumental-", "", "0"],
-    [4, "Grateful Melting -instrumental-", "", "0"],
-]
-links = ["https://vgmdb.net/album/151586"]
-
-[93]
-catalognumber = "BRMM-10918"
-date = "2025-06-26"
-album = "Dazzle the Destiny / Roselia [Limited Edition] Vocal, Live Event, Video"
-tracks = [
-    [1, "Sage der Rosen", "", "0"],
-    [2, "Song I am.", "", "0"],
-    [3, "THE HISTORIC...", "", "0"],
-    [4, "Determination Symphony", "", "0"],
-    [5, "FIRE BIRD", "", "0"],
-    [6, "幕間映像", "", ""],
-    [7, "約束", "", "0"],
-    [8, "礎の花冠", "", "0"],
-    [9, "Neo-Aspect", "", "0"],
-    [10, "Re:birth day", "", "0"],
-    [11, "Floral Haven", "", "0"],
-    [12, "PASSIONATE ANTHEM", "", "0"],
-    [13, "幕間映像", "", ""],
-    [14, "R", "", "0"],
-    [15, "-HEROIC ADVENT-", "", "0"],
-    [16, "Our Carol", "", "0"],
-]
-links = ["https://vgmdb.net/album/151586"]
-
-[94]
+[89]
 catalognumber = ""
 date = "2022-01-15"
 album = "ハロー、ハッピーワールド! Instrumental Collection 1"
@@ -1471,7 +1370,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72f1a825-b6fb-4cd3-beed-b5e4fd845b72", "https://vgmdb.net/album/117332"]
 
-[95]
+[90]
 catalognumber = "BRMM-10890"
 date = "2025-02-26"
 album = "POPIGENIC / Poppin'Party"
@@ -1491,7 +1390,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/64548def-8b7f-44f1-a8d7-c8c8b85e90f8", "https://vgmdb.net/album/147676"]
 
-[96]
+[91]
 catalognumber = "BRMM-10663"
 date = "2023-07-12"
 album = "Infructescence / 夢ノ結唱POPY"
@@ -1515,7 +1414,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95bcee35-d5c6-4d60-9778-cce8831747ba", "https://vgmdb.net/album/146479"]
 
-[97]
+[92]
 catalognumber = "BRMM-10400"
 date = "2021-03-14"
 album = "ダチフレンド / 風神RIZING！"
@@ -1524,7 +1423,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109825"]
 
-[98]
+[93]
 catalognumber = "BRMM-10137"
 date = "2018-11-21"
 album = "Don't be afraid! / Glitter*Green"
@@ -1536,7 +1435,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dfe0d1c1-3d8b-4e71-a35d-7ca78338a972", "https://vgmdb.net/album/78953"]
 
-[99]
+[94]
 catalognumber = "BRDM-10406"
 date = "2024-08-03"
 album = "スタートライン / 夢限大みゅーたいぷ"
@@ -1549,7 +1448,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/142510"]
 
-[100]
+[95]
 catalognumber = "BRMM-10645"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [氷川紗夜Ver.]"
@@ -1563,7 +1462,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129745"]
 
-[101]
+[96]
 catalognumber = "BRMM-10562"
 date = "2022-09-14"
 album = "寄る辺のSunny, Sunny / Morfonica"
@@ -1575,7 +1474,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/120907"]
 
-[102]
+[97]
 catalognumber = "BRMM-10086"
 date = "2017-04-19"
 album = "BLACK SHOUT / Roselia"
@@ -1588,7 +1487,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2452742e-efd0-474c-a243-276b8f0e834c", "https://vgmdb.net/album/65944"]
 
-[103]
+[98]
 catalognumber = "TGCS-10389"
 date = "2017-11-22"
 album = "前へススメ! オリジナルCD 〜牛込りみソロVer.〜"
@@ -1597,7 +1496,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/66594"]
 
-[104]
+[99]
 catalognumber = "UICN-1108"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [界川深幸 ver.]"
@@ -1610,7 +1509,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116804"]
 
-[105]
+[100]
 catalognumber = "BRMM-10439"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN"
@@ -1622,7 +1521,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/03e8baa7-f08c-4451-932d-fbe00f6066df", "https://vgmdb.net/album/112628"]
 
-[106]
+[101]
 catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal"
@@ -1642,7 +1541,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53942dab-2913-4f5e-94d2-1340c80755d7", "https://vgmdb.net/album/97124"]
 
-[107]
+[102]
 catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 2"
@@ -1668,7 +1567,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97124"]
 
-[108]
+[103]
 catalognumber = "BRMM-10268"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 3"
@@ -1695,7 +1594,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97124"]
 
-[109]
+[104]
 catalognumber = "BRMM-10330"
 date = "2021-01-27"
 album = "mind of Prominence / RAISE A SUILEN [生産限定盤] Vocal"
@@ -1707,7 +1606,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15816fac-7076-4e57-9159-75bb72f23e3e", "https://vgmdb.net/album/104759"]
 
-[110]
+[105]
 catalognumber = "BRMM-10330"
 date = "2021-01-27"
 album = "mind of Prominence / RAISE A SUILEN [生産限定盤] Vocal, Live Event, Video"
@@ -1717,7 +1616,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15816fac-7076-4e57-9159-75bb72f23e3e", "https://vgmdb.net/album/104759"]
 
-[111]
+[106]
 catalognumber = "BRMM-10167"
 date = "2019-02-20"
 album = "Y.O.L.O!!!!! / Afterglow"
@@ -1729,7 +1628,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f1bdf13-6d52-4b93-b7c4-db971617bf1b", "https://vgmdb.net/album/82743"]
 
-[112]
+[107]
 catalognumber = ""
 date = "2022-01-15"
 album = "Poppin'Party Instrumental Collection 1 Disc 1"
@@ -1755,7 +1654,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117327"]
 
-[113]
+[108]
 catalognumber = ""
 date = "2022-01-15"
 album = "Poppin'Party Instrumental Collection 1 Disc 2"
@@ -1778,7 +1677,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117327"]
 
-[114]
+[109]
 catalognumber = ""
 date = "2022-01-15"
 album = "Poppin'Party Instrumental Collection 1 Disc 3"
@@ -1802,7 +1701,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117327"]
 
-[115]
+[110]
 catalognumber = "BRMM-10373"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN"
@@ -1816,7 +1715,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dc0a90da-ce83-45f3-be46-0c1c3155d840", "https://vgmdb.net/album/108838"]
 
-[116]
+[111]
 catalognumber = "BRMM-10282"
 date = "2020-08-19"
 album = "夢を撃ち抜く瞬間に! (3rd Season #13 Full Ver.) / Poppin'Party×Roselia×RAISE A SUILEN"
@@ -1825,7 +1724,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102728"]
 
-[117]
+[112]
 catalognumber = "BRMM-10224"
 date = "2020-01-08"
 album = "イニシャル/夢を撃ち抜く瞬間に! / Poppin'Party <ドキドキVer.>"
@@ -1839,7 +1738,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/efbbf851-73e6-4cc7-872a-d46f0f8cf84a", "https://vgmdb.net/album/92052"]
 
-[118]
+[113]
 catalognumber = "BRMM-10771"
 date = "2024-03-20"
 album = "砂寸奏／回層浮 / MyGO!!!!!"
@@ -1853,7 +1752,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/209e7779-0650-449c-8134-1a249cb2e8e1", "https://vgmdb.net/album/137625"]
 
-[119]
+[114]
 catalognumber = "BRMM-10764"
 date = "2024-04-03"
 album = "忘れらんない日々のこと / Afterglow"
@@ -1866,7 +1765,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/17a888c0-66be-4948-bd1b-84f2d51475cd", "https://vgmdb.net/album/138845"]
 
-[120]
+[115]
 catalognumber = "BRMM-10772"
 date = "2024-05-01"
 album = "両翼のBrilliance / Morfonica [Blu-ray付生産限定盤] Vocal"
@@ -1880,7 +1779,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/03e2fef4-857d-4d31-9a71-3377d029c898", "https://vgmdb.net/album/139064"]
 
-[121]
+[116]
 catalognumber = "BRMM-10772"
 date = "2024-05-01"
 album = "両翼のBrilliance / Morfonica [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -1903,7 +1802,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/03e2fef4-857d-4d31-9a71-3377d029c898", "https://vgmdb.net/album/139064"]
 
-[122]
+[117]
 catalognumber = "BRMM-10733"
 date = "2023-12-13"
 album = "Violet Line / Roselia [今井リサVer.]"
@@ -1917,7 +1816,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5ffa2fef-1925-4df7-9dce-320168541130", "https://vgmdb.net/album/136199"]
 
-[123]
+[118]
 catalognumber = "BRMM-10887"
 date = "2025-01-15"
 album = "KiLLKiSS / Ave Mujica"
@@ -1929,7 +1828,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/19b8c2a4-3275-44d5-83ac-0414b0450137", "https://vgmdb.net/album/144037"]
 
-[124]
+[119]
 catalognumber = "BRMM-10520"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [B ver./通常盤]"
@@ -1944,7 +1843,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01372e92-6811-4fb7-8ab3-6e94f7b0c1e0", "https://vgmdb.net/album/116672"]
 
-[125]
+[120]
 catalognumber = "BRMM-10100"
 date = "2017-12-13"
 album = "クリスマスのうた / Poppin'Party Disc 1 (CD)"
@@ -1958,7 +1857,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/62d2d181-72f9-43e7-acfe-9e594011e662", "https://vgmdb.net/album/72326"]
 
-[126]
+[121]
 catalognumber = "BRMM-10100"
 date = "2017-12-13"
 album = "クリスマスのうた / Poppin'Party Disc 2 (Blu-ray)"
@@ -1967,7 +1866,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/62d2d181-72f9-43e7-acfe-9e594011e662", "https://vgmdb.net/album/72326"]
 
-[127]
+[122]
 catalognumber = "BRMM-10239"
 date = "2020-03-04"
 album = "ワクワクmeetsトリップ / Pastel*Palettes"
@@ -1979,7 +1878,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/11d87547-2823-40ad-88a7-70a494cada37", "https://vgmdb.net/album/92046"]
 
-[128]
+[123]
 catalognumber = "BRMM-10218"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Pastel*Palettes・Afterglow・ハロー、ハッピーワールド!"
@@ -1990,7 +1889,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90216"]
 
-[129]
+[124]
 catalognumber = "VVCL-2024"
 date = "2022-04-06"
 album = "Parfaitone / ClariS"
@@ -2017,7 +1916,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9e7ba162-e60b-4cde-8d3e-c19cfca55653", "https://vgmdb.net/album/117791"]
 
-[130]
+[125]
 catalognumber = "BRMM-10143"
 date = "2018-12-12"
 album = "BRAVE JEWEL / Roselia"
@@ -2029,14 +1928,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/69db71cb-03ce-4bc9-a685-a9bbceb0830b", "https://vgmdb.net/album/81502"]
 
-[131]
+[126]
 catalognumber = ""
 date = "2018-03-25"
 album = "R.I.O.T / THE THIRD (仮)"
 tracks = []
 links = ["https://vgmdb.net/album/117427"]
 
-[132]
+[127]
 catalognumber = "BRMM-10140"
 date = "2018-12-12"
 album = "キズナミュージック♪ / Poppin'Party Disc 1 (CD)"
@@ -2048,7 +1947,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d93af821-00a8-499b-9f8a-1cc9eb90260c", "https://vgmdb.net/album/81505"]
 
-[133]
+[128]
 catalognumber = "BRMM-10140"
 date = "2018-12-12"
 album = "キズナミュージック♪ / Poppin'Party Disc 2 (Blu-ray)"
@@ -2057,7 +1956,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d93af821-00a8-499b-9f8a-1cc9eb90260c", "https://vgmdb.net/album/81505"]
 
-[134]
+[129]
 catalognumber = "BRMM-10135"
 date = "2018-10-03"
 album = "ガールズコード / Poppin'Party"
@@ -2069,7 +1968,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd22cc16-1f53-4523-8045-d3d7456890cd", "https://vgmdb.net/album/78812"]
 
-[135]
+[130]
 catalognumber = "BRMM-10157"
 date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Pastel*Palettes"
@@ -2082,7 +1981,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81508"]
 
-[136]
+[131]
 catalognumber = "BRMM-10420"
 date = "2021-07-14"
 album = "BanG Dream! アルバム3タイトル連動購入特典CD ハロー、ハッピーワールド"
@@ -2093,7 +1992,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107502"]
 
-[137]
+[132]
 catalognumber = "BRMM-10170"
 date = "2019-01-30"
 album = "Poppin'on! / Poppin'Party [Limited Edition] Disc 1 (CD)"
@@ -2112,7 +2011,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3affe990-90e3-4e92-95b5-184c494ff8d1", "https://vgmdb.net/album/81650"]
 
-[138]
+[133]
 catalognumber = "BRMM-10170"
 date = "2019-01-30"
 album = "Poppin'on! / Poppin'Party [Limited Edition] Disc 2 (CD)"
@@ -2131,7 +2030,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3affe990-90e3-4e92-95b5-184c494ff8d1", "https://vgmdb.net/album/81650"]
 
-[139]
+[134]
 catalognumber = "BRMM-10170"
 date = "2019-01-30"
 album = "Poppin'on! / Poppin'Party [Limited Edition] Disc 3 (Blu-ray)"
@@ -2142,7 +2041,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3affe990-90e3-4e92-95b5-184c494ff8d1", "https://vgmdb.net/album/81650"]
 
-[140]
+[135]
 catalognumber = "BRMM-10919"
 date = "2025-06-26"
 album = "Dazzle the Destiny / Roselia"
@@ -2154,7 +2053,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150882"]
 
-[141]
+[136]
 catalognumber = "BRMM-10438"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN [生産限定盤] Vocal"
@@ -2166,7 +2065,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/899ff3e6-0ea6-4fbc-87c5-29896be68e09", "https://vgmdb.net/album/112629"]
 
-[142]
+[137]
 catalognumber = "BRMM-10438"
 date = "2021-09-29"
 album = "Domination to world / RAISE A SUILEN [生産限定盤] Vocal, Live Event, Video"
@@ -2190,7 +2089,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/899ff3e6-0ea6-4fbc-87c5-29896be68e09", "https://vgmdb.net/album/112629"]
 
-[143]
+[138]
 catalognumber = "BRMM-10325"
 date = "2021-01-06"
 album = "Photograph / Poppin'Party"
@@ -2202,14 +2101,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c336085b-0bcc-41e9-8f20-4462ec6336c7", "https://vgmdb.net/album/104754"]
 
-[144]
+[139]
 catalognumber = "BRMM-10312"
 date = "2020-10-27"
 album = "Matoba Wataru SG Standard Bass Special Voice Drama 「はじまりのベース」"
 tracks = []
 links = ["https://vgmdb.net/album/102814"]
 
-[145]
+[140]
 catalognumber = "BRMM-10247"
 date = "2020-03-18"
 album = "BanG Dream! 3タイトル連動購入 特典CD"
@@ -2220,7 +2119,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92153"]
 
-[146]
+[141]
 catalognumber = "BRMM-10216"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Pastel*Palettes"
@@ -2231,7 +2130,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90214"]
 
-[147]
+[142]
 catalognumber = "BRMM-10229"
 date = "2020-01-22"
 album = "DRIVE US CRAZY / RAISE A SUILEN"
@@ -2243,7 +2142,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8073d5b9-b309-4a2f-a6f4-199a60ef031a", "https://vgmdb.net/album/92047"]
 
-[148]
+[143]
 catalognumber = "VIZL-2117"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [完全生産限定盤B] Disc 1 (CD) [VICL-65738]"
@@ -2262,7 +2161,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122811"]
 
-[149]
+[144]
 catalognumber = "VIZL-2117"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [完全生産限定盤B] Disc 2 (DVD)"
@@ -2292,7 +2191,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122811"]
 
-[150]
+[145]
 catalognumber = "BRMM-10886"
 date = "2025-01-15"
 album = "KiLLKiSS / Ave Mujica [Blu-ray付生産限定盤] Vocal"
@@ -2304,7 +2203,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f89ad25e-009b-4b0f-bee8-fbabf1e89bed", "https://vgmdb.net/album/144038"]
 
-[151]
+[146]
 catalognumber = "BRMM-10886"
 date = "2025-01-15"
 album = "KiLLKiSS / Ave Mujica [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -2327,7 +2226,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f89ad25e-009b-4b0f-bee8-fbabf1e89bed", "https://vgmdb.net/album/144038"]
 
-[152]
+[147]
 catalognumber = "BRMM-10644"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [湊友希那Ver.]"
@@ -2341,7 +2240,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129743"]
 
-[153]
+[148]
 catalognumber = "BRMM-10177"
 date = "2019-03-16"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.2"
@@ -2361,7 +2260,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da0d6fe1-f4e8-4a7b-9385-1d5e3bf07df1", "https://vgmdb.net/album/83144"]
 
-[154]
+[149]
 catalognumber = "BRDM-10380"
 date = "2024-03-19"
 album = "乙女解剖 (Cover) / Roselia"
@@ -2370,7 +2269,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6b83869a-7004-42b7-85e9-db4a4fc34210", "https://vgmdb.net/album/137698"]
 
-[155]
+[150]
 catalognumber = "BRMM-10630"
 date = "2023-04-26"
 album = "STAY GLOW / Afterglow Disc 1"
@@ -2391,7 +2290,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aae2eaab-9360-4efe-9e6c-9ed7757ce677", "https://vgmdb.net/album/129358"]
 
-[156]
+[151]
 catalognumber = "BRMM-10630"
 date = "2023-04-26"
 album = "STAY GLOW / Afterglow Disc 2"
@@ -2409,7 +2308,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aae2eaab-9360-4efe-9e6c-9ed7757ce677", "https://vgmdb.net/album/129358"]
 
-[157]
+[152]
 catalognumber = "BRMM-10389"
 date = "2021-03-17"
 album = "ONE / GYROAXIA [通常盤Atype]"
@@ -2429,7 +2328,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/65bade4d-df2d-4375-85f4-1040183dd1ff", "https://vgmdb.net/album/108021"]
 
-[158]
+[153]
 catalognumber = "BRMM-10790"
 date = "2024-06-12"
 album = "SAVAGE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal"
@@ -2451,7 +2350,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b0cfec4-a0d8-4bbc-9c13-4ea7882603e1", "https://vgmdb.net/album/139339"]
 
-[159]
+[154]
 catalognumber = "BRMM-10790"
 date = "2024-06-12"
 album = "SAVAGE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -2475,7 +2374,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139339"]
 
-[160]
+[155]
 catalognumber = "BRMM-10197"
 date = "2019-08-21"
 album = "えがお・シング・あ・ソング / ハロー、ハッピーワールド!"
@@ -2487,7 +2386,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a9de8834-0d09-4c29-be71-4e71a995fcf1", "https://vgmdb.net/album/85174"]
 
-[161]
+[156]
 catalognumber = "BRMM-10146"
 date = "2018-09-02"
 album = "キズナミュージック♪ (short ver.)/BRAVE JEWEL (short ver.)/R・I・O・T (short ver.)"
@@ -2498,7 +2397,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82083"]
 
-[162]
+[157]
 catalognumber = "ARCA-10004"
 date = "2022-09-07"
 album = "miroir / Fantôme Iris [Blu-ray付生産限定盤] Vocal"
@@ -2518,7 +2417,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9dc0f97-9e6e-4988-8823-d3d8c6af0b7c", "https://vgmdb.net/album/121681"]
 
-[163]
+[158]
 catalognumber = "ARCA-10004"
 date = "2022-09-07"
 album = "miroir / Fantôme Iris [Blu-ray付生産限定盤] Arrangement, Vocal, Live Event, Video"
@@ -2541,7 +2440,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9dc0f97-9e6e-4988-8823-d3d8c6af0b7c", "https://vgmdb.net/album/121681"]
 
-[164]
+[159]
 catalognumber = "SKR-1936"
 date = "2019-06-08"
 album = "バンドリ! ガールズバンドパーティ! オリジナルサウンドトラック"
@@ -2563,7 +2462,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ac7107a3-4dd1-43e9-af77-bc0907c8e48b", "https://vgmdb.net/album/117426"]
 
-[165]
+[160]
 catalognumber = "BRMM-10192"
 date = "2019-06-19"
 album = "Invincible Fighter / RAISE A SUILEN [Limited Edition]"
@@ -2575,7 +2474,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96ff9d50-27d1-4c34-9117-6242b69a2cd3", "https://vgmdb.net/album/85171"]
 
-[166]
+[161]
 catalognumber = "BRMM-10160"
 date = "2019-02-20"
 album = "Safe and Sound / Roselia [Limited Edition] Disc 1 (CD)"
@@ -2587,7 +2486,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/855a60e2-11c8-4f17-91e9-4898aecfd2e6", "https://vgmdb.net/album/82738"]
 
-[167]
+[162]
 catalognumber = "BRMM-10160"
 date = "2019-02-20"
 album = "Safe and Sound / Roselia [Limited Edition] Disc 2 (Blu-ray)"
@@ -2596,7 +2495,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/855a60e2-11c8-4f17-91e9-4898aecfd2e6", "https://vgmdb.net/album/82738"]
 
-[168]
+[163]
 catalognumber = "BRMM-10292"
 date = "2020-08-12"
 album = "ARGONAVIS Special Disc 神ノ島風太(風神RIZING!) ver."
@@ -2609,7 +2508,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101127"]
 
-[169]
+[164]
 catalognumber = "BRMM-10393"
 date = "2021-03-17"
 album = "GYROAXIA ONLINE LIVE IGNITION -Ctype-"
@@ -2620,7 +2519,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110449"]
 
-[170]
+[165]
 catalognumber = "BRMM-10284"
 date = "2020-10-28"
 album = "Sasanqua / Afterglow"
@@ -2632,7 +2531,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/472c52bc-6f89-4cf7-85c9-ef742a73906e", "https://vgmdb.net/album/100317"]
 
-[171]
+[166]
 catalognumber = ""
 date = "2023-09-12"
 album = "「劇場版アルゴナビス AXIA」オリジナルサウンドトラック Vocal"
@@ -2644,7 +2543,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/130478"]
 
-[172]
+[167]
 catalognumber = ""
 date = "2023-09-12"
 album = "「劇場版アルゴナビス AXIA」オリジナルサウンドトラック Original Soundtrack"
@@ -2674,7 +2573,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/130478"]
 
-[173]
+[168]
 catalognumber = ""
 date = "2020-09-25"
 album = "histoire / Fantôme Iris"
@@ -2685,7 +2584,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/103088"]
 
-[174]
+[169]
 catalognumber = "BRMM-10595"
 date = "2022-12-14"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.7 [Blu-ray付生産限定盤]"
@@ -2707,7 +2606,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ff28439e-66bf-4b64-8377-236ba5cbdeb1", "https://vgmdb.net/album/123848"]
 
-[175]
+[170]
 catalognumber = "BRMM-10651"
 date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN [Limited Edition] Vocal"
@@ -2719,7 +2618,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/130874"]
 
-[176]
+[171]
 catalognumber = "BRMM-10651"
 date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video"
@@ -2743,7 +2642,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/130874"]
 
-[177]
+[172]
 catalognumber = "ARDM-10006"
 date = "2022-03-16"
 album = "un:Mizeria / Fantôme Iris"
@@ -2752,7 +2651,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b52944c9-855d-4ffa-a984-f86c62f322a9", "https://vgmdb.net/album/118893"]
 
-[178]
+[173]
 catalognumber = "BRMM-10419"
 date = "2021-07-14"
 album = "BanG Dream! アルバム3タイトル連動購入特典CD Pastel*Palettes"
@@ -2763,7 +2662,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107501"]
 
-[179]
+[174]
 catalognumber = "ARCA-10001"
 date = "2022-05-25"
 album = "CYAN / Argonavis [Blu-ray付生産限定盤] Vocal"
@@ -2783,7 +2682,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118992"]
 
-[180]
+[175]
 catalognumber = "ARCA-10001"
 date = "2022-05-25"
 album = "CYAN / Argonavis [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -2808,7 +2707,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118992"]
 
-[181]
+[176]
 catalognumber = "BRMM-10351"
 date = "2021-07-14"
 album = "にこにこねくと! / ハロー、ハッピーワールド! [生産限定盤] Vocal"
@@ -2827,7 +2726,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a69fa6c1-2f50-4593-be54-9a324765dba4", "https://vgmdb.net/album/107355"]
 
-[182]
+[177]
 catalognumber = "BRMM-10351"
 date = "2021-07-14"
 album = "にこにこねくと! / ハロー、ハッピーワールド! [生産限定盤] Vocal, Live Event, Video"
@@ -2837,7 +2736,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a69fa6c1-2f50-4593-be54-9a324765dba4", "https://vgmdb.net/album/107355"]
 
-[183]
+[178]
 catalognumber = "BRMM-10489"
 date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party [生産限定盤] Vocal"
@@ -2851,7 +2750,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115467"]
 
-[184]
+[179]
 catalognumber = "BRMM-10489"
 date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party [生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -2875,7 +2774,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115467"]
 
-[185]
+[180]
 catalognumber = "BRMM-10489"
 date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party [生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -2898,7 +2797,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115467"]
 
-[186]
+[181]
 catalognumber = "BRMM-10425"
 date = "2021-08-18"
 album = "Live Beyond!! / Poppin'Party"
@@ -2911,7 +2810,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95fece5c-bc26-46f5-b30c-cabc58d58adb", "https://vgmdb.net/album/111089"]
 
-[187]
+[182]
 catalognumber = "BRMM-10732"
 date = "2023-12-13"
 album = "Violet Line / Roselia [氷川紗夜Ver.]"
@@ -2925,7 +2824,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e627f161-d497-4c9a-bcc0-f48109090536", "https://vgmdb.net/album/136198"]
 
-[188]
+[183]
 catalognumber = "BRMM-10032"
 date = "2016-02-24"
 album = "Yes! BanG_Dream! / Poppin'Party [Limited Edition] Disc 1 (CD)"
@@ -2943,7 +2842,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fa3291e7-4487-4366-b4ad-d45446468432", "https://vgmdb.net/album/60357"]
 
-[189]
+[184]
 catalognumber = "BRMM-10032"
 date = "2016-02-24"
 album = "Yes! BanG_Dream! / Poppin'Party [Limited Edition] Disc 2 (Blu-ray)"
@@ -2952,7 +2851,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fa3291e7-4487-4366-b4ad-d45446468432", "https://vgmdb.net/album/60357"]
 
-[190]
+[185]
 catalognumber = "BRDM-10382"
 date = "2024-03-21"
 album = "きゅうくらりん (Cover) / ハロー、ハッピーワールド!"
@@ -2961,7 +2860,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fd627089-25c3-4b09-8d2f-d89f00818037", "https://vgmdb.net/album/137693"]
 
-[191]
+[186]
 catalognumber = "BRMM-10283"
 date = "2020-09-30"
 album = "ゆめゆめグラデーション / Pastel*Palettes"
@@ -2973,7 +2872,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1b58f303-36b1-4b9d-8a9b-b52433539a76", "https://vgmdb.net/album/100316"]
 
-[192]
+[187]
 catalognumber = "BRMM-10437"
 date = "2021-10-06"
 album = "ハーモニー・デイ / Morfonica"
@@ -2987,7 +2886,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96d12db9-de02-4312-baf2-1cf6b05e8816", "https://vgmdb.net/album/113449"]
 
-[193]
+[188]
 catalognumber = "BRMM-10467"
 date = "2021-11-17"
 album = "きっと僕らは/火花散ル / Argonavis/GYROAXIA"
@@ -2999,7 +2898,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114360"]
 
-[194]
+[189]
 catalognumber = "BRMM-10408"
 date = "2021-06-30"
 album = "劇場版 BanG Dream! Episode of Roselia Theme Songs Collection"
@@ -3012,7 +2911,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1863b415-c191-4881-89ce-daca78879dbc", "https://vgmdb.net/album/110360"]
 
-[195]
+[190]
 catalognumber = "BRMM-10287"
 date = "2020-08-12"
 album = "Starry Line / Argonavis"
@@ -3030,7 +2929,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6f579a20-7dc8-4004-8673-7e23f031b204", "https://vgmdb.net/album/100355"]
 
-[196]
+[191]
 catalognumber = "BRMM-10672"
 date = "2023-09-13"
 album = "Alea jacta est / Ave Mujica"
@@ -3044,7 +2943,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8746ddab-d3c9-4c05-8ddd-21797e4fb34b", "https://vgmdb.net/album/133993"]
 
-[197]
+[192]
 catalognumber = "BRMM-10207"
 date = "2019-08-21"
 album = "STARTING OVER/ギフト / Argonavis"
@@ -3057,7 +2956,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c09b380f-f3a2-4a6e-b0d5-3cc6183d4240", "https://vgmdb.net/album/86757"]
 
-[198]
+[193]
 catalognumber = "BRMM-10259"
 date = "2020-04-29"
 album = "星がはじまる / Argonavis [Blu-ray付生産限定盤] Vocal, Drama"
@@ -3069,7 +2968,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/93499"]
 
-[199]
+[194]
 catalognumber = "BRMM-10259"
 date = "2020-04-29"
 album = "星がはじまる / Argonavis [Blu-ray付生産限定盤] Vocal"
@@ -3083,7 +2982,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/93499"]
 
-[200]
+[195]
 catalognumber = "BRMM-10078"
 date = "2017-04-26"
 album = "TVアニメ「BanG Dream!」オリジナル・サウンドトラック Original Soundtrack, Vocal Disc 1"
@@ -3120,7 +3019,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/43c92bda-538b-43f1-9811-4a376ec7adb4", "https://vgmdb.net/album/65427"]
 
-[201]
+[196]
 catalognumber = "BRMM-10078"
 date = "2017-04-26"
 album = "TVアニメ「BanG Dream!」オリジナル・サウンドトラック Original Soundtrack, Vocal Disc 2"
@@ -3155,7 +3054,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/43c92bda-538b-43f1-9811-4a376ec7adb4", "https://vgmdb.net/album/65427"]
 
-[202]
+[197]
 catalognumber = "BRMM-10078"
 date = "2017-04-26"
 album = "TVアニメ「BanG Dream!」オリジナル・サウンドトラック Vocal, Live Event, Video"
@@ -3179,7 +3078,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/43c92bda-538b-43f1-9811-4a376ec7adb4", "https://vgmdb.net/album/65427"]
 
-[203]
+[198]
 catalognumber = "ARCA-10005"
 date = "2022-09-07"
 album = "miroir / Fantôme Iris"
@@ -3199,7 +3098,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121682"]
 
-[204]
+[199]
 catalognumber = "BRMM-10329"
 date = "2021-01-20"
 album = "ZEAL of proud / Roselia"
@@ -3211,7 +3110,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0b4e5224-da9d-4fb1-a15c-d77167938b6d", "https://vgmdb.net/album/104756"]
 
-[205]
+[200]
 catalognumber = ""
 date = "2020-01-08"
 album = "イニシャル/夢を撃ち抜く瞬間に! / Poppin'Party [Special Edition]"
@@ -3223,7 +3122,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95118"]
 
-[206]
+[201]
 catalognumber = "BRMM-10206"
 date = "2019-08-21"
 album = "STARTING OVER/ギフト / Argonavis [Blu-ray付生産限定盤] Vocal, Drama"
@@ -3236,7 +3135,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94192e34-739e-4e53-ab80-b9ff0d0a95a9", "https://vgmdb.net/album/86758"]
 
-[207]
+[202]
 catalognumber = "BRMM-10206"
 date = "2019-08-21"
 album = "STARTING OVER/ギフト / Argonavis [Blu-ray付生産限定盤] Vocal"
@@ -3245,7 +3144,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86758"]
 
-[208]
+[203]
 catalognumber = ""
 date = "2017-04-04"
 album = "Twinkle, Twinkle, Little Star 〜はじまりのステージVer.〜 / 戸山香澄(CAST:愛美)"
@@ -3254,7 +3153,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bd491819-36a6-465a-800d-6d7ebec5b4d8", "https://vgmdb.net/album/67175"]
 
-[209]
+[204]
 catalognumber = "BRMM-10917"
 date = "2025-04-22"
 album = "Completeness / Ave Mujica"
@@ -3269,7 +3168,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79d2d98a-918f-465c-b621-431ff6cba982", "https://vgmdb.net/album/150338"]
 
-[210]
+[205]
 catalognumber = "BRMM-10319"
 date = "2020-12-09"
 album = "ARGONAVIS Sound Only Live「Destiny Rock festival」 GYROAXIA ver."
@@ -3296,7 +3195,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106088"]
 
-[211]
+[206]
 catalognumber = "BRMM-10854"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤A] Vocal"
@@ -3308,7 +3207,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70a6c276-8516-4550-ba25-5569edb71518", "https://vgmdb.net/album/145791"]
 
-[212]
+[207]
 catalognumber = "BRMM-10854"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤A] Vocal, Live Event, Video"
@@ -3330,7 +3229,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70a6c276-8516-4550-ba25-5569edb71518", "https://vgmdb.net/album/145791"]
 
-[213]
+[208]
 catalognumber = "BRMM-10854"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia [2Blu-ray付生産限定盤A] Live Event, Video"
@@ -3341,7 +3240,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70a6c276-8516-4550-ba25-5569edb71518", "https://vgmdb.net/album/145791"]
 
-[214]
+[209]
 catalognumber = "BRMM-10166"
 date = "2019-02-20"
 album = "Y.O.L.O!!!!! / Afterglow [Limited Edition]"
@@ -3353,14 +3252,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3d261197-4cac-4881-a34c-c45eb7604618", "https://vgmdb.net/album/82744"]
 
-[215]
+[210]
 catalognumber = ""
 date = "2018-07-29"
 album = "Steady Goes! / Argonavis"
 tracks = []
 links = ["https://vgmdb.net/album/117428"]
 
-[216]
+[211]
 catalognumber = "BRMM-10241"
 date = "2020-03-11"
 album = "Easy come, Easy go! / Afterglow [Limited Edition]"
@@ -3372,7 +3271,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9904319-bb52-4035-9752-a43c9422bec3", "https://vgmdb.net/album/92044"]
 
-[217]
+[212]
 catalognumber = "BRMM-10065"
 date = "2017-02-01"
 album = "ときめきエクスペリエンス! / Poppin'Party"
@@ -3385,7 +3284,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/88d7d72d-ff8e-471e-b9e8-098faf7f12e7", "https://vgmdb.net/album/63624"]
 
-[218]
+[213]
 catalognumber = "BRMM-10101"
 date = "2017-12-13"
 album = "クリスマスのうた / Poppin'Party"
@@ -3399,7 +3298,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/468fb2d8-42e6-4adf-86b7-7a8b5c9cbeba", "https://vgmdb.net/album/72327"]
 
-[219]
+[214]
 catalognumber = "BRMM-10912"
 date = "2025-04-30"
 album = "Hi-Vision / 夢限大みゅーたいぷ"
@@ -3413,7 +3312,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fa727ce5-7d13-412c-89b3-18df5702980b", "https://vgmdb.net/album/149509"]
 
-[220]
+[215]
 catalognumber = "BRMM-10178"
 date = "2019-02-20"
 album = "ゴールライン / Argonavis [Blu-ray付生産限定盤] Disc 1 (CD)"
@@ -3427,7 +3326,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34b14884-f5e7-4cec-ae2e-60b83ca56458", "https://vgmdb.net/album/82588"]
 
-[221]
+[216]
 catalognumber = "BRMM-10178"
 date = "2019-02-20"
 album = "ゴールライン / Argonavis [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
@@ -3437,7 +3336,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34b14884-f5e7-4cec-ae2e-60b83ca56458", "https://vgmdb.net/album/82588"]
 
-[222]
+[217]
 catalognumber = "BRMM-10249"
 date = "2019-11-09"
 album = "ARGONAVIS from BanG Dream! AGF 2019 限定 CD"
@@ -3451,7 +3350,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92516"]
 
-[223]
+[218]
 catalognumber = "BRMM-10859"
 date = "2024-12-18"
 album = "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」特典CD 愛音 ver."
@@ -3460,7 +3359,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145784"]
 
-[224]
+[219]
 catalognumber = ""
 date = "2022-01-15"
 album = "RAISE A SUILEN Instrumental Collection 1"
@@ -3488,7 +3387,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c04432f3-2446-4937-ba45-7442b9d64049", "https://vgmdb.net/album/117334"]
 
-[225]
+[220]
 catalognumber = "BRMM-10589"
 date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal"
@@ -3500,7 +3399,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122889"]
 
-[226]
+[221]
 catalognumber = "BRMM-10589"
 date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -3521,7 +3420,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122889"]
 
-[227]
+[222]
 catalognumber = "BRMM-10589"
 date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -3549,7 +3448,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122889"]
 
-[228]
+[223]
 catalognumber = "BRMM-10774"
 date = "2024-04-17"
 album = "BanG Dream! It's MyGO!!!!! First Volumeオリジナル・サウンドトラック"
@@ -3587,7 +3486,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8f9498be-125e-4a08-8d8d-e632971b538c", "https://vgmdb.net/album/138800"]
 
-[229]
+[224]
 catalognumber = "BRMM-10209"
 date = "2019-12-18"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.3"
@@ -3607,7 +3506,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0a837f6f-3d43-46a5-b3a7-631fb5412608", "https://vgmdb.net/album/90210"]
 
-[230]
+[225]
 catalognumber = "BRMM-10538"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [フォトブックレット付生産限定盤]"
@@ -3620,7 +3519,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d7f2bc9f-b166-468e-bc2e-0b3e8f4d07cb", "https://vgmdb.net/album/118733"]
 
-[231]
+[226]
 catalognumber = "BRMM-10228"
 date = "2020-01-22"
 album = "DRIVE US CRAZY / RAISE A SUILEN [Limited Edition]"
@@ -3632,7 +3531,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fb5b4ce4-8e78-4a05-ac15-9a7654feab4e", "https://vgmdb.net/album/92048"]
 
-[232]
+[227]
 catalognumber = "BRMM-10468"
 date = "2021-11-10"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.6 Disc 1"
@@ -3652,7 +3551,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/87a6da57-1d76-447c-85ce-d195f569f3cb", "https://vgmdb.net/album/114399"]
 
-[233]
+[228]
 catalognumber = "BRMM-10468"
 date = "2021-11-10"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.6 Disc 2"
@@ -3669,7 +3568,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/87a6da57-1d76-447c-85ce-d195f569f3cb", "https://vgmdb.net/album/114399"]
 
-[234]
+[229]
 catalognumber = ""
 date = "2020-10-26"
 album = "上京上等行ってきまーす☆ / 風神RIZING!"
@@ -3680,7 +3579,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/103089"]
 
-[235]
+[230]
 catalognumber = "BRMM-10144"
 date = "2018-12-12"
 album = "R·I·O·T / RAISE A SUILEN [Limited Edition] Disc 1 (CD)"
@@ -3692,7 +3591,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2bb82e0d-0639-40a4-a194-00a68e6dab7b", "https://vgmdb.net/album/81501"]
 
-[236]
+[231]
 catalognumber = "BRMM-10144"
 date = "2018-12-12"
 album = "R·I·O·T / RAISE A SUILEN [Limited Edition] Disc 2 (Blu-ray)"
@@ -3701,7 +3600,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2bb82e0d-0639-40a4-a194-00a68e6dab7b", "https://vgmdb.net/album/81501"]
 
-[237]
+[232]
 catalognumber = "BRMM-10519"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [A ver./Blu-ray付生産限定盤] Arrangement, Vocal"
@@ -3716,7 +3615,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/765b7616-4230-4df8-a75c-383eaea695ab", "https://vgmdb.net/album/117173"]
 
-[238]
+[233]
 catalognumber = "BRMM-10519"
 date = "2022-04-27"
 album = "CORUSCATE -DNA- / RAISE A SUILEN [A ver./Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -3740,7 +3639,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/765b7616-4230-4df8-a75c-383eaea695ab", "https://vgmdb.net/album/117173"]
 
-[239]
+[234]
 catalognumber = ""
 date = "2022-01-15"
 album = "Pastel*Palettes Instrumental Collection 1"
@@ -3766,7 +3665,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117329"]
 
-[240]
+[235]
 catalognumber = "BRMM-10422"
 date = "2021-05-26"
 album = "リスタート Acoustic ver. / Argonavis"
@@ -3775,7 +3674,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109992"]
 
-[241]
+[236]
 catalognumber = "VVXX-01121"
 date = "2021-12-15"
 album = "DICE / FLOW [Complete Edition]"
@@ -3793,7 +3692,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/39159db6-d89c-42e9-bc32-ccca98512ee9", "https://vgmdb.net/album/116069"]
 
-[242]
+[237]
 catalognumber = "BRMM-10194"
 date = "2019-07-24"
 album = "FIRE BIRD / Roselia [Limited Edition]"
@@ -3805,7 +3704,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d87de036-de7d-4b36-8fd1-bf30a504d596", "https://vgmdb.net/album/85173"]
 
-[243]
+[238]
 catalognumber = "BRMM-10490"
 date = "2022-01-05"
 album = "ぽっぴん'どりーむ! / Poppin'Party"
@@ -3819,7 +3718,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e1bfdc25-a2ee-4ffb-93c2-942af11846d3", "https://vgmdb.net/album/115466"]
 
-[244]
+[239]
 catalognumber = "VIZL-2115"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [直筆サイン入り完全生産限定盤B] Disc 1 (CD) [VICL-65738]"
@@ -3838,7 +3737,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122813"]
 
-[245]
+[240]
 catalognumber = "VIZL-2115"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [直筆サイン入り完全生産限定盤B] Disc 2 (DVD)"
@@ -3868,14 +3767,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122813"]
 
-[246]
+[241]
 catalognumber = "BRMM-10184"
 date = "2019-02-20"
 album = "RAISE A SUILEN スタジオライブ"
 tracks = []
 links = ["https://vgmdb.net/album/84522"]
 
-[247]
+[242]
 catalognumber = "BRMM-10156"
 date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD ハロー、ハッピーワールド!"
@@ -3888,7 +3787,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81510"]
 
-[248]
+[243]
 catalognumber = "BRMM-10223"
 date = "2020-01-08"
 album = "イニシャル/夢を撃ち抜く瞬間に! / Poppin'Party <キラキラVer.>"
@@ -3902,7 +3801,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/38bf11d6-02e3-4071-877d-9f89c47434a7", "https://vgmdb.net/album/92053"]
 
-[249]
+[244]
 catalognumber = "BRMM-10427"
 date = "2021-07-14"
 album = "可能性/Stand by me!! / Argonavis"
@@ -3912,7 +3811,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6303c893-5641-46a8-8ae2-2bcaccaebfbb", "https://vgmdb.net/album/111228"]
 
-[250]
+[245]
 catalognumber = "VVXX-01138"
 date = "2021-12-31"
 album = "もういちど ルミナス / ClariS feat.丸山彩 from Pastel*Palettes"
@@ -3921,7 +3820,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f858b77-ce60-4202-bbdb-b20acefa4766", "https://vgmdb.net/album/116849"]
 
-[251]
+[246]
 catalognumber = "BRMM-10647"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [宇田川あこVer.]"
@@ -3935,7 +3834,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129748"]
 
-[252]
+[247]
 catalognumber = "BRMM-10196"
 date = "2019-08-21"
 album = "えがおシング・あ・ソング / ハロー、ハッピーワールド!"
@@ -3947,7 +3846,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2c143f8d-626c-4dee-bea8-e6042685f1dd", "https://vgmdb.net/album/85175"]
 
-[253]
+[248]
 catalognumber = "BRMM-10719"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Layer Ver.]"
@@ -3960,7 +3859,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d828ace1-b9ac-4122-9760-bf5c0292390c", "https://vgmdb.net/album/134166"]
 
-[254]
+[249]
 catalognumber = "BRMM-10125"
 date = "2018-07-11"
 album = "二重の虹/最高! / Poppin'Party Disc 1 (CD)"
@@ -3972,7 +3871,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a2d41cf-3fec-4bcd-bbf2-95466879e2e0", "https://vgmdb.net/album/77783"]
 
-[255]
+[250]
 catalognumber = "BRMM-10125"
 date = "2018-07-11"
 album = "二重の虹/最高! / Poppin'Party Disc 2 (Blu-ray)"
@@ -3984,7 +3883,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a2d41cf-3fec-4bcd-bbf2-95466879e2e0", "https://vgmdb.net/album/77783"]
 
-[256]
+[251]
 catalognumber = "BRMM-10561"
 date = "2022-09-14"
 album = "寄る辺のSunny, Sunny / Morfonica [生産限定盤] Vocal"
@@ -3996,7 +3895,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e307ef6-bddf-45e3-8171-7e50582ed1eb", "https://vgmdb.net/album/120908"]
 
-[257]
+[252]
 catalognumber = "BRMM-10561"
 date = "2022-09-14"
 album = "寄る辺のSunny, Sunny / Morfonica [生産限定盤] Original Soundtrack"
@@ -4011,7 +3910,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e307ef6-bddf-45e3-8171-7e50582ed1eb", "https://vgmdb.net/album/120908"]
 
-[258]
+[253]
 catalognumber = "BRMM-10142"
 date = "2018-12-12"
 album = "BRAVE JEWEL / Roselia [Limited Edition] Disc 1 (CD)"
@@ -4023,7 +3922,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e8fdbae9-93f2-48c1-8f83-8daea07fddd5", "https://vgmdb.net/album/81503"]
 
-[259]
+[254]
 catalognumber = "BRMM-10142"
 date = "2018-12-12"
 album = "BRAVE JEWEL / Roselia [Limited Edition] Disc 2 (Blu-ray)"
@@ -4032,7 +3931,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e8fdbae9-93f2-48c1-8f83-8daea07fddd5", "https://vgmdb.net/album/81503"]
 
-[260]
+[255]
 catalognumber = "BRMM-10117"
 date = "2018-03-21"
 album = "BanG Dream! 特典サンプラーCD 黄"
@@ -4045,7 +3944,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/76098"]
 
-[261]
+[256]
 catalognumber = "BRMM-10348"
 date = "2021-03-24"
 album = "ONE OF US / Afterglow"
@@ -4064,7 +3963,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/db2dee2a-6261-4004-b357-3a45f24d534f", "https://vgmdb.net/album/107350"]
 
-[262]
+[257]
 catalognumber = "BRMM-10161"
 date = "2019-02-20"
 album = "Safe and Sound / Roselia"
@@ -4076,7 +3975,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/df047c1b-6cf3-4c26-b307-cd59e4ce2cf4", "https://vgmdb.net/album/82737"]
 
-[263]
+[258]
 catalognumber = ""
 date = "2021-12-01"
 album = "イントロダクション / Poppin'Party"
@@ -4085,7 +3984,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116372"]
 
-[264]
+[259]
 catalognumber = "BRDM-10034"
 date = "2022-02-26"
 album = "Repaint / RAISE A SUILEN"
@@ -4094,7 +3993,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118274"]
 
-[265]
+[260]
 catalognumber = "ARCA-10006"
 date = "2022-09-14"
 album = "ピース! / 風神RIZING! [Blu-ray付生産限定盤] Vocal"
@@ -4114,7 +4013,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121680"]
 
-[266]
+[261]
 catalognumber = "ARCA-10006"
 date = "2022-09-14"
 album = "ピース! / 風神RIZING! [Blu-ray付生産限定盤] Arrangement, Vocal, Live Event, Video"
@@ -4141,7 +4040,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121680"]
 
-[267]
+[262]
 catalognumber = "BRMM-10077"
 date = "2017-04-05"
 album = "どきどきSING OUT! / 戸山香澄(CAST:愛美)"
@@ -4154,7 +4053,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/288c1fd0-7707-49d9-8fdf-65fab5cb1857", "https://vgmdb.net/album/65428"]
 
-[268]
+[263]
 catalognumber = "BRMM-10876"
 date = "2024-12-18"
 album = "跡暖空 / MyGO!!!!! [Blu-ray付生産限定盤B] Vocal"
@@ -4174,7 +4073,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d36e76be-d8c2-4da0-aa91-48e708d10377", "https://vgmdb.net/album/145748"]
 
-[269]
+[264]
 catalognumber = "BRMM-10876"
 date = "2024-12-18"
 album = "跡暖空 / MyGO!!!!! [Blu-ray付生産限定盤B] Vocal, Live Event, Video Disc 2"
@@ -4198,7 +4097,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d36e76be-d8c2-4da0-aa91-48e708d10377", "https://vgmdb.net/album/145748"]
 
-[270]
+[265]
 catalognumber = "BRMM-10876"
 date = "2024-12-18"
 album = "跡暖空 / MyGO!!!!! [Blu-ray付生産限定盤B] Vocal, Live Event, Video Disc 3"
@@ -4222,7 +4121,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d36e76be-d8c2-4da0-aa91-48e708d10377", "https://vgmdb.net/album/145748"]
 
-[271]
+[266]
 catalognumber = "BRMM-10837"
 date = "2024-10-02"
 album = "ELEMENTS / Ave Mujica"
@@ -4235,7 +4134,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6e4f1b5f-be24-45c0-8081-06b81d494384", "https://vgmdb.net/album/142189"]
 
-[272]
+[267]
 catalognumber = "UICN-1104"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [旭那由多 ver.]"
@@ -4248,7 +4147,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116800"]
 
-[273]
+[268]
 catalognumber = "BRMM-10095"
 date = "2017-09-20"
 album = "Time Lapse / Poppin'Party [Limited Edition] Disc 1 (CD)"
@@ -4262,7 +4161,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4ff0b86e-e349-41ab-b0bd-ba3514cbbac9", "https://vgmdb.net/album/69817"]
 
-[274]
+[269]
 catalognumber = "BRMM-10095"
 date = "2017-09-20"
 album = "Time Lapse / Poppin'Party [Limited Edition] Disc 2 (Blu-ray)"
@@ -4271,7 +4170,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4ff0b86e-e349-41ab-b0bd-ba3514cbbac9", "https://vgmdb.net/album/69817"]
 
-[275]
+[270]
 catalognumber = "BRMM-10916"
 date = "2025-04-23"
 album = "Completeness / Ave Mujica [Blu-ray付生産限定盤] Vocal"
@@ -4286,7 +4185,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6da27b69-fed3-4c22-8c8d-2f3baa5a47fa", "https://vgmdb.net/album/149513"]
 
-[276]
+[271]
 catalognumber = "BRMM-10916"
 date = "2025-04-23"
 album = "Completeness / Ave Mujica [Blu-ray付生産限定盤] Vocal, Video"
@@ -4308,7 +4207,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6da27b69-fed3-4c22-8c8d-2f3baa5a47fa", "https://vgmdb.net/album/149513"]
 
-[277]
+[272]
 catalognumber = "BRMM-10270"
 date = "2020-06-10"
 album = "SCATTER / GYROAXIA [Blu-ray付生産限定盤] Vocal, Drama"
@@ -4320,7 +4219,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95781"]
 
-[278]
+[273]
 catalognumber = "BRMM-10270"
 date = "2020-06-10"
 album = "SCATTER / GYROAXIA [Blu-ray付生産限定盤] Vocal"
@@ -4331,7 +4230,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95781"]
 
-[279]
+[274]
 catalognumber = "BRMM-10244"
 date = "2020-03-18"
 album = "にこ×にこ=ハイパースマイルパワー! / ハロー、ハッピーワールド!"
@@ -4343,7 +4242,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5c0abad8-8c63-4de1-a11a-f0233f8480d9", "https://vgmdb.net/album/92041"]
 
-[280]
+[275]
 catalognumber = "BRDM-10203"
 date = "2022-11-23"
 album = "影色舞 / MyGO!!!!!"
@@ -4352,7 +4251,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3e7baae8-15ee-4a4f-b307-9adb99032d8e", "https://vgmdb.net/album/124732"]
 
-[281]
+[276]
 catalognumber = "BRMM-10066"
 date = "2017-02-15"
 album = "キラキラだとか夢だとか ～Sing Girls～ / Poppin'Party"
@@ -4365,7 +4264,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b56a0c96-6ec1-4279-a8ed-f6a89213dfb7", "https://vgmdb.net/album/63625"]
 
-[282]
+[277]
 catalognumber = "ARDM-10007"
 date = "2022-03-16"
 album = "Egoistic才Φ / εpsilonΦ"
@@ -4374,7 +4273,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/07639357-86b5-4b7a-9fac-58df87ef1d0b", "https://vgmdb.net/album/118894"]
 
-[283]
+[278]
 catalognumber = "BRMM-10267"
 date = "2020-07-15"
 album = "Wahl / Roselia"
@@ -4394,14 +4293,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a4f0cd54-69dd-4b6f-88ec-76f7c998e274", "https://vgmdb.net/album/97123"]
 
-[284]
+[279]
 catalognumber = ""
 date = "2020-04-28"
 album = "アルゴナビス from BanG Dream! アニメ放映記念全店フェア inアニメイト 特典ドラマCD Argonavis"
 tracks = []
 links = ["https://vgmdb.net/album/98905"]
 
-[285]
+[280]
 catalognumber = "BRMM-10335"
 date = "2020-12-09"
 album = "銀の百合/バンザイRIZING!!!/光の悪魔 [Btype]"
@@ -4415,7 +4314,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104840"]
 
-[286]
+[281]
 catalognumber = "BRMM-10121"
 date = "2018-05-02"
 album = "Anfang / Roselia [Limited Edition] Vocal"
@@ -4435,7 +4334,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13bafc47-38ff-49f5-a6ed-deae3e19cd8b", "https://vgmdb.net/album/75662"]
 
-[287]
+[282]
 catalognumber = "BRMM-10121"
 date = "2018-05-02"
 album = "Anfang / Roselia [Limited Edition] Video Disc 2"
@@ -4444,7 +4343,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13bafc47-38ff-49f5-a6ed-deae3e19cd8b", "https://vgmdb.net/album/75662"]
 
-[288]
+[283]
 catalognumber = "BRMM-10121"
 date = "2018-05-02"
 album = "Anfang / Roselia [Limited Edition] Video Disc 3"
@@ -4453,7 +4352,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13bafc47-38ff-49f5-a6ed-deae3e19cd8b", "https://vgmdb.net/album/75662"]
 
-[289]
+[284]
 catalognumber = "BRMM-10331"
 date = "2021-01-27"
 album = "mind of Prominence / RAISE A SUILEN"
@@ -4465,7 +4364,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e63298bc-6df1-4f3a-8d7b-fdc337b13a7b", "https://vgmdb.net/album/104758"]
 
-[290]
+[285]
 catalognumber = "BRMM-10345"
 date = "2021-02-24"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.5"
@@ -4487,7 +4386,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/21b63bf5-ac47-404e-9964-1c31e8b185b8", "https://vgmdb.net/album/106577"]
 
-[291]
+[286]
 catalognumber = "BRMM-10407"
 date = "2021-06-30"
 album = "劇場版 BanG Dream! Episode of Roselia Theme Songs Collection [生産限定盤] Vocal"
@@ -4500,7 +4399,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e49c0893-4193-4c73-b865-f2490fda1d3d", "https://vgmdb.net/album/110361"]
 
-[292]
+[287]
 catalognumber = "BRMM-10407"
 date = "2021-06-30"
 album = "劇場版 BanG Dream! Episode of Roselia Theme Songs Collection [生産限定盤] Vocal, Live Event, Video"
@@ -4525,7 +4424,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110361"]
 
-[293]
+[288]
 catalognumber = "ZMCZ-12650"
 date = "2020-03-25"
 album = "MARIMBA Cover Collection -Virtuoso- / 嶋崎雄斗"
@@ -4549,7 +4448,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95541"]
 
-[294]
+[289]
 catalognumber = "ARDM-10005"
 date = "2022-03-09"
 album = "NO RICE NO LIFE / 風神RIZING!"
@@ -4558,7 +4457,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118658"]
 
-[295]
+[290]
 catalognumber = "BRMM-10245"
 date = "2020-04-08"
 album = "アニメ「BanG Dream! 2nd&3rd Season」オリジナル・サウンドトラック Original Soundtrack"
@@ -4596,7 +4495,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ee3bacd6-6938-4421-9419-c2b3fe83bf0b", "https://vgmdb.net/album/91854"]
 
-[296]
+[291]
 catalognumber = "BRMM-10245"
 date = "2020-04-08"
 album = "アニメ「BanG Dream! 2nd&3rd Season」オリジナル・サウンドトラック Original Soundtrack, Vocal"
@@ -4627,7 +4526,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ee3bacd6-6938-4421-9419-c2b3fe83bf0b", "https://vgmdb.net/album/91854"]
 
-[297]
+[292]
 catalognumber = "BRMM-10775"
 date = "2024-04-17"
 album = "BanG Dream! It's MyGO!!!!! Second Volumeオリジナル・サウンドトラック"
@@ -4664,7 +4563,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f68332db-c5b6-423a-8986-b421907e3a4b", "https://vgmdb.net/album/138802"]
 
-[298]
+[293]
 catalognumber = "VVCL-2222"
 date = "2023-02-22"
 album = "Voy☆☆☆ / FLOW"
@@ -4693,7 +4592,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a99216e4-ad42-4b50-b200-6fd4f14fab53", "https://vgmdb.net/album/125509"]
 
-[299]
+[294]
 catalognumber = "BRMM-10740"
 date = "2023-12-06"
 album = "forte / Morfonica [倉田ましろVer.]"
@@ -4706,7 +4605,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135459"]
 
-[300]
+[295]
 catalognumber = "BRDM-10035"
 date = "2022-03-26"
 album = "Brand new Pastel Road! / Pastel*Palettes"
@@ -4715,7 +4614,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118932"]
 
-[301]
+[296]
 catalognumber = "BRMM-10539"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [通常盤A]"
@@ -4728,7 +4627,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a781c3e7-e8b1-4f5d-a81d-042d18d1ccbb", "https://vgmdb.net/album/118732"]
 
-[302]
+[297]
 catalognumber = ""
 date = "2023-02-28"
 album = "BanG Dream! AI Singing Synthesizer 夢ノ結唱 No.01 POPY 特典CD"
@@ -4742,7 +4641,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0765e6e7-15f7-4145-a675-32b1bcc23672", "https://vgmdb.net/album/124704"]
 
-[303]
+[298]
 catalognumber = "BRMM-10735"
 date = "2023-12-13"
 album = "Violet Line / Roselia [白金燐子Ver.]"
@@ -4756,7 +4655,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/907e7815-d6b6-467b-a475-edf0af136e66", "https://vgmdb.net/album/136201"]
 
-[304]
+[299]
 catalognumber = "BRMM-10055"
 date = "2016-12-07"
 album = "走り始めたばかりのキミに/ティアドロップス / Poppin'Party Vocal, Drama"
@@ -4774,7 +4673,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/170be2a4-d322-4dff-89b4-5e371718cf4d", "https://vgmdb.net/album/61833"]
 
-[305]
+[300]
 catalognumber = "BRMM-10055"
 date = "2016-12-07"
 album = "走り始めたばかりのキミに/ティアドロップス / Poppin'Party Vocal"
@@ -4784,7 +4683,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/170be2a4-d322-4dff-89b4-5e371718cf4d", "https://vgmdb.net/album/61833"]
 
-[306]
+[301]
 catalognumber = "TGCS-10387"
 date = "2017-11-22"
 album = "前へススメ! オリジナルCD 〜戸山香澄ソロVer.〜"
@@ -4793,7 +4692,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/66592"]
 
-[307]
+[302]
 catalognumber = "BRMM-10721"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [MASKING Ver.]"
@@ -4806,7 +4705,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f0f7a1ea-3ddb-45c4-9485-70c485c06ee6", "https://vgmdb.net/album/134168"]
 
-[308]
+[303]
 catalognumber = "BRMM-10180"
 date = "2019-01-28"
 album = "ミルキィホームズ×Glitter*Green ファイナルシングル発売記念スペシャルCD"
@@ -4819,7 +4718,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/83840"]
 
-[309]
+[304]
 catalognumber = ""
 date = "2020-01-28"
 album = "ゆめゆめグラデーション〜short ver.〜 / Pastel*Palettes"
@@ -4828,7 +4727,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97363"]
 
-[310]
+[305]
 catalognumber = "BRMM-10829"
 date = "2024-10-09"
 album = "Tempest/Wreath of Brave / Morfonica [Blu-ray付生産限定盤] Vocal"
@@ -4840,7 +4739,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/141782"]
 
-[311]
+[306]
 catalognumber = "BRMM-10829"
 date = "2024-10-09"
 album = "Tempest/Wreath of Brave / Morfonica [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -4863,7 +4762,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/141782"]
 
-[312]
+[307]
 catalognumber = "BRMM-10664"
 date = "2023-07-12"
 album = "Blütenstand / 夢ノ結唱ROSE"
@@ -4884,7 +4783,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b06b90e4-8632-49d2-bda0-a7ef29b7dc38", "https://vgmdb.net/album/146482"]
 
-[313]
+[308]
 catalognumber = "BRMM-10452"
 date = "2021-12-08"
 album = "舞台「ARGONAVIS the Live Stage」 特典CD"
@@ -4893,7 +4792,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112419"]
 
-[314]
+[309]
 catalognumber = "MSW-0003"
 date = "2018-12-30"
 album = "Acoustic Works! BanG Dream! Acoustic Guitar Arrange Collection 1"
@@ -4906,7 +4805,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6581958-78b8-44e2-bbab-74b09a730ef2", "https://vgmdb.net/album/85256"]
 
-[315]
+[310]
 catalognumber = "BRDM-10090"
 date = "2020-09-23"
 album = "イニシャル / 愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)、雪代晶(CV.野本ほたる)、大月あるる(CV.潘めぐみ)、巴珠緒(CV.楠木ともり)"
@@ -4915,7 +4814,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104202"]
 
-[316]
+[311]
 catalognumber = "BRMM-10576"
 date = "2022-10-26"
 album = "Swear ～Night & Day～ / Roselia [Blu-ray付生産限定盤] Vocal"
@@ -4927,7 +4826,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3652d2ed-d6ec-4e2d-8f49-77e3caeb4221", "https://vgmdb.net/album/122091"]
 
-[317]
+[312]
 catalognumber = "BRMM-10576"
 date = "2022-10-26"
 album = "Swear ～Night & Day～ / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -4951,7 +4850,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122091"]
 
-[318]
+[313]
 catalognumber = "BRMM-10576"
 date = "2022-10-26"
 album = "Swear ～Night & Day～ / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -4975,7 +4874,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122091"]
 
-[319]
+[314]
 catalognumber = "BRMM-10210"
 date = "2019-09-25"
 album = "「BanG Dream! FILM LIVE」劇中歌コレクション"
@@ -5007,16 +4906,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/128e6046-9b77-4475-aafa-46f410426fa4", "https://vgmdb.net/album/88397"]
 
-[320]
-catalognumber = "BRDM-10513"
-date = "2025-07-11"
-album = "走り始めたばかりのキミに（パラレルver.） / ぽわぽわが～るず"
-tracks = [
-    [1, "走り始めたばかりのキミに（パラレルver.）", "", "0"],
-]
-links = ["https://vgmdb.net/album/151571"]
-
-[321]
+[315]
 catalognumber = "BRMM-10318"
 date = "2020-12-09"
 album = "ARGONAVIS Sound Only Live「Destiny Rock festival」 Argonavis ver."
@@ -5043,7 +4933,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106083"]
 
-[322]
+[316]
 catalognumber = "BRMM-10428"
 date = "2021-07-14"
 album = "WITHOUT ME/BREAK IT DOWN / GYROAXIA [Blu-ray付生産限定盤]"
@@ -5053,7 +4943,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111227"]
 
-[323]
+[317]
 catalognumber = "MSW-0004"
 date = "2019-02-10"
 album = "Acoustic Works! BanG Dream! Acoustic Guitar Arrange Collection 1"
@@ -5068,7 +4958,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aace6e38-250f-4ab1-8fb0-638eb88accc0", "https://vgmdb.net/album/85257"]
 
-[324]
+[318]
 catalognumber = "BRMM-10133"
 date = "2018-10-31"
 album = "ツナグ、ソラモヨウ / Afterglow Disc 1 (CD)"
@@ -5080,7 +4970,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/efac67d0-a954-4a9d-a33b-649d7cad9df3", "https://vgmdb.net/album/80463"]
 
-[325]
+[319]
 catalognumber = "BRMM-10133"
 date = "2018-10-31"
 album = "ツナグ、ソラモヨウ / Afterglow Disc 2 (Blu-ray)"
@@ -5090,7 +4980,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/efac67d0-a954-4a9d-a33b-649d7cad9df3", "https://vgmdb.net/album/80463"]
 
-[326]
+[320]
 catalognumber = "BRMM-10127"
 date = "2018-07-25"
 album = "R / Roselia [Limited Edition] Disc 1 (CD)"
@@ -5103,7 +4993,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3b89f21e-7457-4e58-b762-624c94f3719d", "https://vgmdb.net/album/77978"]
 
-[327]
+[321]
 catalognumber = "BRMM-10127"
 date = "2018-07-25"
 album = "R / Roselia [Limited Edition] Disc 2 (Blu-ray)"
@@ -5114,7 +5004,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3b89f21e-7457-4e58-b762-624c94f3719d", "https://vgmdb.net/album/77978"]
 
-[328]
+[322]
 catalognumber = "BRMM-10265"
 date = "2020-05-27"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.4"
@@ -5134,7 +5024,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9e6e9ab-7ca9-4670-9b7f-de0dd09412e7", "https://vgmdb.net/album/97109"]
 
-[329]
+[323]
 catalognumber = "BRMM-10659"
 date = "2023-07-12"
 album = "D4DJ Groovy Mix カバートラックス vol.8"
@@ -5158,14 +5048,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b44fe389-58f4-4537-907b-2050a9167524", "https://vgmdb.net/album/130504"]
 
-[330]
+[324]
 catalognumber = ""
 date = "2020-04-28"
 album = "アルゴナビス from BanG Dream! アニメ放映記念全店フェア inアニメイト 特典ドラマCD Fantôme Iris"
 tracks = []
 links = ["https://vgmdb.net/album/98907"]
 
-[331]
+[325]
 catalognumber = "BRMM-10162"
 date = "2019-02-20"
 album = "ハイファイブ∞あどべんちゃっ / ハロー、ハッピーワールド!"
@@ -5177,7 +5067,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e36f59fa-c9ff-4d5d-bff6-2184c32be3f6", "https://vgmdb.net/album/82740"]
 
-[332]
+[326]
 catalognumber = "BRDM-10184"
 date = "2022-09-24"
 album = "The Circle Of Butterflies / Morfonica"
@@ -5186,7 +5076,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123322"]
 
-[333]
+[327]
 catalognumber = "BRDM-10383"
 date = "2024-03-22"
 album = "かくれんぼ (Cover) / Morfonica"
@@ -5195,7 +5085,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/137700"]
 
-[334]
+[328]
 catalognumber = "BRMM-10132"
 date = "2018-09-26"
 album = "THE THIRD (仮) 1st ライブ"
@@ -5215,7 +5105,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b138029f-2c76-47c1-98c6-f61527d723bc", "https://vgmdb.net/album/79157"]
 
-[335]
+[329]
 catalognumber = "BRMM-10743"
 date = "2023-12-06"
 album = "forte / Morfonica [二葉つくしVer.]"
@@ -5228,7 +5118,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135462"]
 
-[336]
+[330]
 catalognumber = "BRMM-10409"
 date = "2021-08-25"
 album = "劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs [生産限定盤]"
@@ -5242,7 +5132,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109908"]
 
-[337]
+[331]
 catalognumber = "BRMM-10250"
 date = "2020-01-15"
 album = "VOICE/MANIFESTO / Argonavis×GYROAXIA [Blu-ray付生産限定盤] Arrangement, Vocal, Drama"
@@ -5255,7 +5145,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e6113728-0aae-47fe-a570-c92e469a4eaa", "https://vgmdb.net/album/92517"]
 
-[338]
+[332]
 catalognumber = "BRMM-10250"
 date = "2020-01-15"
 album = "VOICE/MANIFESTO / Argonavis×GYROAXIA [Blu-ray付生産限定盤] Vocal, Drama"
@@ -5265,7 +5155,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92517"]
 
-[339]
+[333]
 catalognumber = "BRMM-10119"
 date = "2018-03-21"
 album = "BanG Dream! 特典サンプラーCD 黒"
@@ -5278,7 +5168,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/76099"]
 
-[340]
+[334]
 catalognumber = "BRMM-10426"
 date = "2021-07-14"
 album = "可能性/Stand by me!! / Argonavis [Blu-ray付生産限定盤]"
@@ -5288,7 +5178,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111229"]
 
-[341]
+[335]
 catalognumber = "BRMM-10874"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN"
@@ -5300,7 +5190,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f83582b0-ac3f-4862-9bbb-b0cbe6093ae0", "https://vgmdb.net/album/146787"]
 
-[342]
+[336]
 catalognumber = "BRMM-10271"
 date = "2020-06-10"
 album = "SCATTER / GYROAXIA"
@@ -5312,7 +5202,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97864"]
 
-[343]
+[337]
 catalognumber = "BRMM-10596"
 date = "2022-12-14"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.7"
@@ -5334,7 +5224,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8f04d182-c716-4a5d-8a82-96381a9973c8", "https://vgmdb.net/album/123847"]
 
-[344]
+[338]
 catalognumber = ""
 date = "2018-04-23"
 album = "私の心はチョココロネ / Poppin'Party"
@@ -5344,7 +5234,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/77069"]
 
-[345]
+[339]
 catalognumber = "BRMM-10473"
 date = "2021-12-15"
 album = "劇場版 BanG Dream! Episode of Roselia II Song I am. オリジナルサウンドトラック"
@@ -5372,7 +5262,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ad1ee9f9-4f33-4d7a-81a2-25025dcf0d2f", "https://vgmdb.net/album/114811"]
 
-[346]
+[340]
 catalognumber = "BRMM-10540"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [通常盤B]"
@@ -5385,7 +5275,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34f0c129-391a-42fc-8e7e-6c4367216b2f", "https://vgmdb.net/album/116876"]
 
-[347]
+[341]
 catalognumber = "BRMM-10285"
 date = "2020-11-25"
 album = "うぃーきゃん☆フレフレっ! / ハロー、ハッピーワールド!"
@@ -5397,7 +5287,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2432210b-69f9-4ef8-80da-fc56b0963b5f", "https://vgmdb.net/album/100318"]
 
-[348]
+[342]
 catalognumber = "BRMM-10227"
 date = "2020-01-15"
 album = "約束 / Roselia"
@@ -5409,7 +5299,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5b29e53-7971-4a76-8b87-0ce77a90afa4", "https://vgmdb.net/album/92049"]
 
-[349]
+[343]
 catalognumber = "BRMM-10665"
 date = "2023-07-12"
 album = "Blütenstand / 夢ノ結唱ROSE"
@@ -5430,7 +5320,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33d558cc-e388-403b-a025-bbcfcb5ea53c", "https://vgmdb.net/album/146481"]
 
-[350]
+[344]
 catalognumber = "BRMM-10102"
 date = "2017-11-29"
 album = "ONENESS / Roselia [Limited Edition] Disc 1 (CD)"
@@ -5442,7 +5332,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5188a464-0647-4d5a-b091-a774de5237dc", "https://vgmdb.net/album/72329"]
 
-[351]
+[345]
 catalognumber = "BRMM-10102"
 date = "2017-11-29"
 album = "ONENESS / Roselia [Limited Edition] Disc 2 (Blu-ray)"
@@ -5451,7 +5341,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5188a464-0647-4d5a-b091-a774de5237dc", "https://vgmdb.net/album/72329"]
 
-[352]
+[346]
 catalognumber = "BRMM-10786"
 date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica"
@@ -5463,7 +5353,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d493cc58-7437-4a70-80a8-84c1e6023c8e", "https://vgmdb.net/album/139640"]
 
-[353]
+[347]
 catalognumber = "BRDM-10439"
 date = "2024-12-27"
 album = "YoU kNOw the overture / 千石ユノ feat. ななひら"
@@ -5472,7 +5362,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/455734ad-e9b8-4500-8606-4124e2743f52", "https://vgmdb.net/album/146796"]
 
-[354]
+[348]
 catalognumber = "BRMM-10269"
 date = "2020-08-19"
 album = "ERA / RAISE A SUILEN"
@@ -5492,7 +5382,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6bd282eb-e848-42a5-b326-a60118937773", "https://vgmdb.net/album/97125"]
 
-[355]
+[349]
 catalognumber = "BRMM-10289"
 date = "2020-08-12"
 album = "ARGONAVIS Special Disc 七星 蓮(Argonavis) ver."
@@ -5505,7 +5395,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100803"]
 
-[356]
+[350]
 catalognumber = "BRMM-10201"
 date = "2019-10-23"
 album = "ON YOUR MARK / Afterglow"
@@ -5517,7 +5407,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba8338b4-42ba-4a25-8815-250952cf03b1", "https://vgmdb.net/album/85178"]
 
-[357]
+[351]
 catalognumber = ""
 date = "2018-04-16"
 album = "クインティプル☆すまいる / Girls Band Party! special band"
@@ -5527,7 +5417,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/77068"]
 
-[358]
+[352]
 catalognumber = "BRMM-10266"
 date = "2020-07-15"
 album = "Wahl / Roselia [Limited Edition] Vocal"
@@ -5547,7 +5437,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9490e593-266f-4e46-9d7f-44f168552907", "https://vgmdb.net/album/97122"]
 
-[359]
+[353]
 catalognumber = "BRMM-10266"
 date = "2020-07-15"
 album = "Wahl / Roselia [Limited Edition] Vocal, Live Event, Video Disc 2"
@@ -5571,7 +5461,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97122"]
 
-[360]
+[354]
 catalognumber = "BRMM-10266"
 date = "2020-07-15"
 album = "Wahl / Roselia [Limited Edition] Vocal, Live Event, Video Disc 3"
@@ -5595,7 +5485,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97122"]
 
-[361]
+[355]
 catalognumber = "BRMM-10056"
 date = "2016-12-07"
 album = "走り始めたばかりのキミに/ティアドロップス / Poppin'Party"
@@ -5613,7 +5503,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ee850b9-fe1a-440a-ab63-0085ca8f036e", "https://vgmdb.net/album/61834"]
 
-[362]
+[356]
 catalognumber = "BRDM-10441"
 date = "2025-01-01"
 album = "Blessing Chord（パラレルver.） / I♡インドア"
@@ -5622,7 +5512,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150189"]
 
-[363]
+[357]
 catalognumber = "BRMM-10392"
 date = "2021-03-17"
 album = "GYROAXIA ONLINE LIVE IGNITION -Btype-"
@@ -5633,7 +5523,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110448"]
 
-[364]
+[358]
 catalognumber = "BRMM-10260"
 date = "2020-04-29"
 album = "星がはじまる / Argonavis"
@@ -5645,44 +5535,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020eff96-e833-466f-a72c-bd9758b24230", "https://vgmdb.net/album/95780"]
 
-[365]
-catalognumber = "BRMM-10920"
-date = "2025-06-26"
-album = "Requiem for Fate / Roselia [Limited Edition] Vocal"
-tracks = [
-    [1, "Requiem for Fate", "", "0"],
-    [2, "Second to None", "", "0"],
-    [3, "Requiem for Fate -instrumental-", "", "0"],
-    [4, "Second to None -instrumental-", "", "0"],
-]
-links = ["https://vgmdb.net/album/151587"]
-
-[366]
-catalognumber = "BRMM-10920"
-date = "2025-06-26"
-album = "Requiem for Fate / Roselia [Limited Edition] Vocal, Live Event, Video"
-tracks = [
-    [1, "Sage der Rosen", "", "0"],
-    [2, "Song I am.", "", "0"],
-    [3, "THE HISTORIC...", "", "0"],
-    [4, "Determination Symphony", "", "0"],
-    [5, "FIRE BIRD", "", "0"],
-    [6, "幕間映像", "", ""],
-    [7, "約束", "", "0"],
-    [8, "礎の花冠", "", "0"],
-    [9, "Neo-Aspect", "", "0"],
-    [10, "Re:birth day", "", "0"],
-    [11, "熱色スターマイン", "", "0"],
-    [12, "PASSIONATE ANTHEM", "", "0"],
-    [13, "幕間映像", "", ""],
-    [14, "Our Carol", "", "0"],
-    [15, "ONENESS", "", "0"],
-    [16, "BLACK SHOUT", "", "0"],
-    [17, "Roselia 「Stille Nacht, Rosen Nacht」 上海追加公演 -OFF SHOT MOVIE-", "", ""],
-]
-links = ["https://vgmdb.net/album/151587"]
-
-[367]
+[359]
 catalognumber = "BRMM-10858"
 date = "2024-12-18"
 album = "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」特典CD 燈 ver."
@@ -5691,7 +5544,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d089619-6d74-471e-95f0-f043601f67b7", "https://vgmdb.net/album/145783"]
 
-[368]
+[360]
 catalognumber = "BRDM-10381"
 date = "2024-03-20"
 album = "ノンブレス・オブリージュ (Cover) / MyGO!!!!!"
@@ -5700,14 +5553,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/137634"]
 
-[369]
+[361]
 catalognumber = "BRMM-10311"
 date = "2020-10-27"
 album = "Goryo Yuto Les Paul Standard Special Voice Drama 「あの日のギター」"
 tracks = []
 links = ["https://vgmdb.net/album/102813"]
 
-[370]
+[362]
 catalognumber = ""
 date = "2018-09-24"
 album = "ひとりじゃないんだから / 彩×モカ×リサ×花音×つぐみ"
@@ -5717,7 +5570,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f00dc0ea-e1fa-419d-9589-9e3bbf72bbb5", "https://vgmdb.net/album/80918"]
 
-[371]
+[363]
 catalognumber = ""
 date = "2022-01-15"
 album = "Morfonica Instrumental Collection 1"
@@ -5732,7 +5585,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117333"]
 
-[372]
+[364]
 catalognumber = ""
 date = "2019-12-09"
 album = "White Afternoon / Poppin'Party"
@@ -5742,7 +5595,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2849d991-e5de-4995-a02f-55533d9d0c5e", "https://vgmdb.net/album/93804"]
 
-[373]
+[365]
 catalognumber = "BRDM-10047"
 date = "2022-06-24"
 album = "カナユメ / Afterglow"
@@ -5751,7 +5604,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121291"]
 
-[374]
+[366]
 catalognumber = "BRDM-10435"
 date = "2024-12-01"
 album = "With〜きみとわたしたちの物語〜 / Pastel*Palettes"
@@ -5760,7 +5613,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/144848"]
 
-[375]
+[367]
 catalognumber = "BRMM-10788"
 date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal"
@@ -5780,7 +5633,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/db8243e2-51db-4473-99f8-02e80e788256", "https://vgmdb.net/album/139551"]
 
-[376]
+[368]
 catalognumber = "BRMM-10788"
 date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -5802,7 +5655,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139551"]
 
-[377]
+[369]
 catalognumber = "BRMM-10788"
 date = "2024-06-26"
 album = "Für immer / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -5824,7 +5677,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139551"]
 
-[378]
+[370]
 catalognumber = "BRMM-10643"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [Blu-ray付生産限定盤] Vocal"
@@ -5838,7 +5691,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/50bd5b06-72c9-44af-affd-c5384603a4a4", "https://vgmdb.net/album/129750"]
 
-[379]
+[371]
 catalognumber = "BRMM-10643"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -5863,7 +5716,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129750"]
 
-[380]
+[372]
 catalognumber = "ARDM-10009"
 date = "2022-03-23"
 album = "フラれた男のラブレター / 風神RIZING!"
@@ -5872,7 +5725,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/119025"]
 
-[381]
+[373]
 catalognumber = "BRDM-10476"
 date = "2025-03-25"
 album = "えがおのオーケストラっ！（パラレルver.） / 優雅なティータイムを♪"
@@ -5881,7 +5734,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150190"]
 
-[382]
+[374]
 catalognumber = "BRMM-10463"
 date = "2021-11-17"
 album = "ARGONAVIS Cover Collection -Marble-"
@@ -5901,7 +5754,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113561"]
 
-[383]
+[375]
 catalognumber = "BRDM-10440"
 date = "2024-12-26"
 album = "迷星叫（パラレルver.） / あこがれの共演"
@@ -5910,7 +5763,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/71bffe5f-39f5-4ed7-a577-a3e48500a8d8", "https://vgmdb.net/album/150193"]
 
-[384]
+[376]
 catalognumber = "BRMM-10168"
 date = "2019-02-20"
 album = "A DECLARATION OF ××× / RAISE A SUILEN [Limited Edition] Disc 1 (CD)"
@@ -5922,7 +5775,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4fec2fe3-5737-41ad-a264-c011455deb51", "https://vgmdb.net/album/82746"]
 
-[385]
+[377]
 catalognumber = "BRMM-10168"
 date = "2019-02-20"
 album = "A DECLARATION OF ××× / RAISE A SUILEN [Limited Edition] Disc 2 (Blu-ray)"
@@ -5931,7 +5784,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4fec2fe3-5737-41ad-a264-c011455deb51", "https://vgmdb.net/album/82746"]
 
-[386]
+[378]
 catalognumber = "BRMM-10390"
 date = "2021-03-17"
 album = "ONE / GYROAXIA [通常盤Btype]"
@@ -5951,14 +5804,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108022"]
 
-[387]
+[379]
 catalognumber = ""
 date = "2018-09-15"
 album = "Steady Goes! / Argonavis"
 tracks = []
 links = ["https://vgmdb.net/album/117429"]
 
-[388]
+[380]
 catalognumber = "BRMM-10222"
 date = "2020-01-08"
 album = "イニシャル/夢を撃ち抜く瞬間に! / Poppin'Party <キラキラVer.>"
@@ -5972,7 +5825,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3aa06db8-7270-4af2-b968-8205e13a5ab7", "https://vgmdb.net/album/92054"]
 
-[389]
+[381]
 catalognumber = "BRMM-10773"
 date = "2024-05-01"
 album = "両翼のBrilliance / Morfonica"
@@ -5986,7 +5839,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cf9e3b10-6301-4c38-b33c-82b5c5b5bed3", "https://vgmdb.net/album/139061"]
 
-[390]
+[382]
 catalognumber = "ARCA-10002"
 date = "2022-05-25"
 album = "CYAN / Argonavis [通常盤Atype -Character Jacket-]"
@@ -6006,7 +5859,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c3b5c35b-34b5-4e8a-981a-d2425bac746a", "https://vgmdb.net/album/118990"]
 
-[391]
+[383]
 catalognumber = "VVCL-1958"
 date = "2021-12-15"
 album = "DICE / FLOW"
@@ -6020,7 +5873,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b020a06b-6794-4980-bd68-1e4b5a548c88", "https://vgmdb.net/album/114931"]
 
-[392]
+[384]
 catalognumber = "BRDM-10379"
 date = "2024-03-18"
 album = "青のすみか (Cover) / Afterglow"
@@ -6029,7 +5882,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/137557"]
 
-[393]
+[385]
 catalognumber = "BRMM-10082"
 date = "2017-07-26"
 album = "遠い音楽 〜ハートビート〜 / 山吹沙綾(CAST:大橋彩香)"
@@ -6042,16 +5895,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fa0bb5fd-28d7-4ea8-9f20-3ed35db4a673", "https://vgmdb.net/album/69077"]
 
-[394]
-catalognumber = "BRDM-10487"
-date = "2025-05-08"
-album = "雪華は無常に微笑む / 友希那×愛音×りみ×つくし×つぐみ"
-tracks = [
-    [1, "雪華は無常に微笑む", "", ""],
-]
-links = ["https://vgmdb.net/album/150195"]
-
-[395]
+[386]
 catalognumber = "BRMM-10279"
 date = "2020-08-19"
 album = "夢を撃ち抜く瞬間に! (3rd Season #13 Full Ver.) / Poppin'Party×Roselia×RAISE A SUILEN"
@@ -6060,7 +5904,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4110b695-3e6f-46e5-8d04-aeca6a8844fa", "https://vgmdb.net/album/97220"]
 
-[396]
+[387]
 catalognumber = "BRMM-10648"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [白金燐子Ver.]"
@@ -6074,7 +5918,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129747"]
 
-[397]
+[388]
 catalognumber = "BRMM-10096"
 date = "2017-09-20"
 album = "Time Lapse / Poppin'Party"
@@ -6088,7 +5932,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b409f174-48f2-43a5-8e80-52df46bdccce", "https://vgmdb.net/album/69818"]
 
-[398]
+[389]
 catalognumber = "BRMM-10252"
 date = "2019-11-26"
 album = "イニシャル 〜short ver.〜 / Poppin'Party"
@@ -6097,7 +5941,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92189"]
 
-[399]
+[390]
 catalognumber = "BRDM-10378"
 date = "2024-03-17"
 album = "アイドル (Cover) / Pastel*Palettes"
@@ -6106,7 +5950,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e765ac1-02a2-461c-8540-539700354f6f", "https://vgmdb.net/album/137523"]
 
-[400]
+[391]
 catalognumber = "BRMM-10435"
 date = "2021-07-14"
 album = "Cynicaltic Fakestar/Sake it L⓪VE! / εpsilonΦ"
@@ -6116,7 +5960,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111232"]
 
-[401]
+[392]
 catalognumber = "BRMM-10145"
 date = "2018-12-12"
 album = "R·I·O·T / RAISE A SUILEN"
@@ -6128,7 +5972,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f458f462-7b0c-4772-bc23-f736dece7674", "https://vgmdb.net/album/81500"]
 
-[402]
+[393]
 catalognumber = "BRMM-10090"
 date = "2017-06-28"
 album = "Re:birth day / Roselia [Limited Edition] Disc 1 (CD)"
@@ -6141,7 +5985,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ea0411bc-b348-4955-8275-119e1d96f685", "https://vgmdb.net/album/68238"]
 
-[403]
+[394]
 catalognumber = "BRMM-10090"
 date = "2017-06-28"
 album = "Re:birth day / Roselia [Limited Edition] Disc 2 (Blu-ray)"
@@ -6151,7 +5995,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ea0411bc-b348-4955-8275-119e1d96f685", "https://vgmdb.net/album/68238"]
 
-[404]
+[395]
 catalognumber = "BRMM-10787"
 date = "2024-04-17"
 album = "BanG Dream! It's MyGO!!!!! Special CD"
@@ -6161,14 +6005,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28aa4d23-ea3a-448d-9ca5-1b8e29ee0fab", "https://vgmdb.net/album/142669"]
 
-[405]
+[396]
 catalognumber = "BRMX-10003"
 date = "2016-12-29"
 album = "BanG Dream! TVアニメ放送直前 ポピラジ! スペシャルコメントCD"
 tracks = []
 links = ["https://vgmdb.net/album/79287"]
 
-[406]
+[397]
 catalognumber = "BRMM-10031"
 date = "2016-02-24"
 album = "Yes! BanG_Dream! / Poppin'Party"
@@ -6186,7 +6030,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dbaf2b5c-2d74-40f5-874d-da43ed8e847c", "https://vgmdb.net/album/60355"]
 
-[407]
+[398]
 catalognumber = "BRMM-10716"
 date = "2023-11-01"
 album = "迷跡波 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal"
@@ -6207,7 +6051,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/979505aa-5fad-44bb-b07a-539fddfb5d9a", "https://vgmdb.net/album/132230"]
 
-[408]
+[399]
 catalognumber = "BRMM-10716"
 date = "2023-11-01"
 album = "迷跡波 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -6229,7 +6073,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/979505aa-5fad-44bb-b07a-539fddfb5d9a", "https://vgmdb.net/album/132230"]
 
-[409]
+[400]
 catalognumber = "BRMM-10465"
 date = "2021-11-17"
 album = "きっと僕らは/火花散ル / Argonavis/GYROAXIA [Blu-ray付生産限定盤Atype(GYROAXIA ver.)] Vocal"
@@ -6241,7 +6085,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114361"]
 
-[410]
+[401]
 catalognumber = "BRMM-10465"
 date = "2021-11-17"
 album = "きっと僕らは/火花散ル / Argonavis/GYROAXIA [Blu-ray付生産限定盤Atype(GYROAXIA ver.)] Vocal, Live Event, Video"
@@ -6250,7 +6094,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114361"]
 
-[411]
+[402]
 catalognumber = "BRMM-10935"
 date = "2025-06-11"
 album = "HOWLING AMBITION / RAISE A SUILEN"
@@ -6262,7 +6106,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/151585"]
 
-[412]
+[403]
 catalognumber = "BRMM-10742"
 date = "2023-12-06"
 album = "forte / Morfonica [広町七深Ver.]"
@@ -6275,7 +6119,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135461"]
 
-[413]
+[404]
 catalognumber = "BRDM-10268"
 date = "2023-06-30"
 album = "Here, the world! / sumimi"
@@ -6284,7 +6128,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d85f631d-e634-4606-8a01-97dfbb63118d", "https://vgmdb.net/album/139212"]
 
-[414]
+[405]
 catalognumber = "BRMM-10154"
 date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Roselia"
@@ -6297,7 +6141,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81509"]
 
-[415]
+[406]
 catalognumber = "BRMM-10590"
 date = "2022-11-30"
 album = "THE WAY OF LIFE / RAISE A SUILEN"
@@ -6309,7 +6153,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1a7fcad7-fb34-4e89-b779-239f5c6c0ea7", "https://vgmdb.net/album/122888"]
 
-[416]
+[407]
 catalognumber = "BRMM-10097"
 date = "2017-09-06"
 album = "That Is How I Roll! / Afterglow"
@@ -6322,7 +6166,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2ea5c85d-90c9-4744-8e58-3802d3fd4ac6", "https://vgmdb.net/album/70169"]
 
-[417]
+[408]
 catalognumber = "BRMM-10766"
 date = "2024-05-29"
 album = "いろとりどり / Pastel*Palettes"
@@ -6335,7 +6179,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139192"]
 
-[418]
+[409]
 catalognumber = "BRMM-10487"
 date = "2021-12-22"
 album = "ピエロ / Fantôme Iris [Blu-ray付生産限定盤] Vocal"
@@ -6346,7 +6190,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ccc16d2-9e8d-4412-b669-e4a35062cdb0", "https://vgmdb.net/album/114813"]
 
-[419]
+[410]
 catalognumber = "BRMM-10487"
 date = "2021-12-22"
 album = "ピエロ / Fantôme Iris [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -6355,7 +6199,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114813"]
 
-[420]
+[411]
 catalognumber = "BRMM-10195"
 date = "2019-07-24"
 album = "FIRE BIRD / Roselia"
@@ -6367,7 +6211,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/529ffae7-dd33-4650-ad33-3276da6435d2", "https://vgmdb.net/album/85172"]
 
-[421]
+[412]
 catalognumber = "BRMM-10577"
 date = "2022-10-26"
 album = "Swear ~Night & Day~ / Roselia"
@@ -6379,7 +6223,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/116df692-ad84-4f79-8ff6-edee38b14884", "https://vgmdb.net/album/122090"]
 
-[422]
+[413]
 catalognumber = "BRMM-10632"
 date = "2023-05-31"
 album = "Pastel à la mode / Pastel*Palettes Disc 1"
@@ -6400,7 +6244,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3bf92190-2a37-4c6c-a72f-2c47a05fac7a", "https://vgmdb.net/album/130157"]
 
-[423]
+[414]
 catalognumber = "BRMM-10632"
 date = "2023-05-31"
 album = "Pastel à la mode / Pastel*Palettes Disc 2"
@@ -6418,7 +6262,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f468c22a-42f8-4dca-9bd8-a0355064a6fc", "https://vgmdb.net/album/130157"]
 
-[424]
+[415]
 catalognumber = "BRMM-10770"
 date = "2024-03-20"
 album = "砂寸奏／回層浮 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal"
@@ -6432,7 +6276,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aaf06197-425b-4cc5-bca5-4241d32d73bb", "https://vgmdb.net/album/137626"]
 
-[425]
+[416]
 catalognumber = "BRMM-10770"
 date = "2024-03-20"
 album = "砂寸奏／回層浮 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -6455,7 +6299,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aaf06197-425b-4cc5-bca5-4241d32d73bb", "https://vgmdb.net/album/137626"]
 
-[426]
+[417]
 catalognumber = "BRMM-10193"
 date = "2019-06-19"
 album = "Invincible Fighter / RAISE A SUILEN"
@@ -6467,7 +6311,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e04e21aa-d065-40d3-b4fa-51b74f371ca6", "https://vgmdb.net/album/85170"]
 
-[427]
+[418]
 catalognumber = "BRMM-10126"
 date = "2018-07-11"
 album = "二重の虹/最高! / Poppin'Party"
@@ -6479,7 +6323,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/90a16479-1edd-4363-9641-ae07fe2f89b3", "https://vgmdb.net/album/77720"]
 
-[428]
+[419]
 catalognumber = "BRMM-10861"
 date = "2024-12-18"
 album = "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」特典CD そよ ver."
@@ -6488,7 +6332,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145786"]
 
-[429]
+[420]
 catalognumber = "BRMM-10831"
 date = "2024-10-30"
 album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.9 Disc 1"
@@ -6508,7 +6352,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30c932f-2f21-4371-a485-3e0a0eddd778", "https://vgmdb.net/album/144196"]
 
-[430]
+[421]
 catalognumber = "BRMM-10831"
 date = "2024-10-30"
 album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.9 Disc 2"
@@ -6526,7 +6370,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30c932f-2f21-4371-a485-3e0a0eddd778", "https://vgmdb.net/album/144196"]
 
-[431]
+[422]
 catalognumber = "BRMM-10322"
 date = "2020-12-09"
 album = "ARGONAVIS Sound Only Live「Destiny Rock festival」 εpsilonΦ ver."
@@ -6553,7 +6397,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106087"]
 
-[432]
+[423]
 catalognumber = "BRMM-10718"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Limited Edition] Disc 1 (CD) [BRMM-10718]"
@@ -6566,7 +6410,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3b9d3cae-fc19-4e72-8050-0ad0c0df326a", "https://vgmdb.net/album/134171"]
 
-[433]
+[424]
 catalognumber = "BRMM-10718"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [Limited Edition] Disc 2 (Blu-ray)"
@@ -6595,7 +6439,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3b9d3cae-fc19-4e72-8050-0ad0c0df326a", "https://vgmdb.net/album/134171"]
 
-[434]
+[425]
 catalognumber = ""
 date = "2021-10-31"
 album = "Spooky Halloween Night / Fantôme Iris"
@@ -6604,7 +6448,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115755"]
 
-[435]
+[426]
 catalognumber = "BRMM-10791"
 date = "2024-06-12"
 album = "SAVAGE / RAISE A SUILEN"
@@ -6626,7 +6470,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4449d21e-c23d-4142-b653-b55c25d4e159", "https://vgmdb.net/album/139338"]
 
-[436]
+[427]
 catalognumber = "BRMM-10129"
 date = "2018-08-08"
 album = "もういちど ルミナス / Pastel*Palettes Disc 1 (CD)"
@@ -6638,7 +6482,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02ed52a6-f9dd-4e72-8ff7-5d75eaa5ab5a", "https://vgmdb.net/album/78508"]
 
-[437]
+[428]
 catalognumber = "BRMM-10129"
 date = "2018-08-08"
 album = "もういちど ルミナス / Pastel*Palettes Disc 2 (Blu-ray)"
@@ -6648,7 +6492,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02ed52a6-f9dd-4e72-8ff7-5d75eaa5ab5a", "https://vgmdb.net/album/78508"]
 
-[438]
+[429]
 catalognumber = "BRMM-10739"
 date = "2023-12-06"
 album = "forte / Morfonica [Limited Edition] Vocal"
@@ -6661,7 +6505,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135458"]
 
-[439]
+[430]
 catalognumber = "BRMM-10739"
 date = "2023-12-06"
 album = "forte / Morfonica [Limited Edition] Vocal, Live Event, Video"
@@ -6670,7 +6514,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135458"]
 
-[440]
+[431]
 catalognumber = "BRMM-10399"
 date = "2021-03-14"
 album = "棺の中のセラヴィ / Fantôme Iris"
@@ -6679,7 +6523,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109824"]
 
-[441]
+[432]
 catalognumber = "BRMM-10200"
 date = "2019-10-23"
 album = "ON YOUR MARK / Afterglow [Limited Edition]"
@@ -6691,7 +6535,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/612f7273-1d4b-4ed1-96f7-2ee4d0fb7719", "https://vgmdb.net/album/85179"]
 
-[442]
+[433]
 catalognumber = "BRMM-10130"
 date = "2018-08-08"
 album = "もういちど ルミナス / Pastel*Palettes"
@@ -6703,7 +6547,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9085ba13-2214-4113-a705-b3d6bef38cee", "https://vgmdb.net/album/78507"]
 
-[443]
+[434]
 catalognumber = "BRMM-10564"
 date = "2022-08-31"
 album = "夏に閉じこめて / Poppin'Party"
@@ -6715,7 +6559,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72072c02-5ad3-448d-9ce9-797896e16152", "https://vgmdb.net/album/121258"]
 
-[444]
+[435]
 catalognumber = "ARDM-10001"
 date = "2022-03-02"
 album = "Janus / Fantôme Iris"
@@ -6724,7 +6568,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118372"]
 
-[445]
+[436]
 catalognumber = "BRMM-10760"
 date = "2024-01-24"
 album = "新しい季節に / Poppin'Party"
@@ -6738,7 +6582,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4c6995c2-e8e9-4b8d-aec8-6583e4792263", "https://vgmdb.net/album/134920"]
 
-[446]
+[437]
 catalognumber = "BRMM-10717"
 date = "2023-11-01"
 album = "迷跡波 / MyGO!!!!!"
@@ -6759,7 +6603,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c971ba6e-8539-43c8-a05e-2dd1ce0f181e", "https://vgmdb.net/album/132229"]
 
-[447]
+[438]
 catalognumber = "BRMM-10768"
 date = "2024-06-19"
 album = "どうしたってカーニバル！/ ハロー、ハッピーワールド!"
@@ -6772,7 +6616,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139433"]
 
-[448]
+[439]
 catalognumber = "BRMM-10914"
 date = "2025-04-23"
 album = "聿日箋秋 / MyGO!!!!!"
@@ -6784,7 +6628,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/40823933-081b-4055-9e93-854d921067bc", "https://vgmdb.net/album/148271"]
 
-[449]
+[440]
 catalognumber = "BRDM-10385"
 date = "2024-03-24"
 album = "怪獣の花唄 (Cover) / Poppin'Party"
@@ -6793,7 +6637,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/137748"]
 
-[450]
+[441]
 catalognumber = "BRMM-10801"
 date = "2024-07-17"
 album = "TARINAI/トレモロアイズ / Poppin'Party [Blu-ray付生産限定盤] Vocal"
@@ -6805,7 +6649,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/76be38d0-4949-4c41-9e2c-04b45f475e13", "https://vgmdb.net/album/140016"]
 
-[451]
+[442]
 catalognumber = "BRMM-10801"
 date = "2024-07-17"
 album = "TARINAI/トレモロアイズ / Poppin'Party [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -6830,7 +6674,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/76be38d0-4949-4c41-9e2c-04b45f475e13", "https://vgmdb.net/album/140016"]
 
-[452]
+[443]
 catalognumber = "BRMM-10921"
 date = "2025-06-26"
 album = "Requiem for Fate / Roselia"
@@ -6842,29 +6686,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150883"]
 
-[453]
-catalognumber = "BRMM-10937"
-date = "2025-07-02"
-album = "GLOW GOES ON / Afterglow [Limited Edition] Vocal"
-tracks = [
-    [1, "Glowing After", "", "0"],
-    [2, "A Sunset So Bright", "", "0"],
-    [3, "Start as Usual", "", "0"],
-    [4, "\"Say cheese!!!!!\"", "", "0"],
-    [5, "花笑みのデュオ", "", "0"],
-]
-links = ["https://vgmdb.net/album/151611"]
-
-[454]
-catalognumber = "BRMM-10937"
-date = "2025-07-02"
-album = "GLOW GOES ON / Afterglow [Limited Edition] Live Event, Video"
-tracks = [
-    [1, "Afterglow「After School Event 夕景の一頁」1部・2部公演", "", ""],
-]
-links = ["https://vgmdb.net/album/151611"]
-
-[455]
+[444]
 catalognumber = "BRMM-10466"
 date = "2021-11-17"
 album = "きっと僕らは/火花散ル / Argonavis/GYROAXIA [Blu-ray付生産限定盤Btype(Argonavis ver.)] Vocal"
@@ -6876,7 +6698,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114362"]
 
-[456]
+[445]
 catalognumber = "BRMM-10466"
 date = "2021-11-17"
 album = "きっと僕らは/火花散ル / Argonavis/GYROAXIA [Blu-ray付生産限定盤Btype(Argonavis ver.)] Vocal, Live Event, Video"
@@ -6885,7 +6707,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/114362"]
 
-[457]
+[446]
 catalognumber = "BRMM-10106"
 date = "2018-01-17"
 album = "ゆら・ゆらRing-Dong-Dance / Pastel*Palettes"
@@ -6897,7 +6719,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/29d2ecc5-459c-4be3-98b0-9e4dc322d728", "https://vgmdb.net/album/73077"]
 
-[458]
+[447]
 catalognumber = "BRMM-10324"
 date = "2021-01-06"
 album = "Photograph / Poppin'Party [生産限定盤] Vocal"
@@ -6909,7 +6731,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/819c1d72-a166-4717-97cd-d82839c2ec12", "https://vgmdb.net/album/104755"]
 
-[459]
+[448]
 catalognumber = "BRMM-10324"
 date = "2021-01-06"
 album = "Photograph / Poppin'Party [生産限定盤] Vocal, Video"
@@ -6918,7 +6740,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104755"]
 
-[460]
+[449]
 catalognumber = "BRMM-10744"
 date = "2023-12-06"
 album = "forte / Morfonica [八潮瑠唯Ver.]"
@@ -6931,7 +6753,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135463"]
 
-[461]
+[450]
 catalognumber = "BRDM-10168"
 date = "2022-09-14"
 album = "独創収差 / Afterglow"
@@ -6940,7 +6762,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123078"]
 
-[462]
+[451]
 catalognumber = "BRMM-10346"
 date = "2020-11-30"
 album = "EGOIST / GYROAXIA"
@@ -6951,7 +6773,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106843"]
 
-[463]
+[452]
 catalognumber = "BRMM-10767"
 date = "2024-06-19"
 album = "どうしたってカーニバル！/ Hello, Happy World! [Blu-ray付生産限定盤] Vocal"
@@ -6964,7 +6786,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139434"]
 
-[464]
+[453]
 catalognumber = "BRMM-10767"
 date = "2024-06-19"
 album = "どうしたってカーニバル！/ Hello, Happy World! [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -6974,7 +6796,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/139434"]
 
-[465]
+[454]
 catalognumber = "BRMM-10421"
 date = "2021-05-26"
 album = "逢のうた Acoustic ver. / Argonavis"
@@ -6983,7 +6805,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109991"]
 
-[466]
+[455]
 catalognumber = "BRMM-10251"
 date = "2020-01-15"
 album = "VOICE/MANIFESTO / Argonavis×GYROAXIA"
@@ -6996,7 +6818,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/30e40af4-205a-4cfd-a0e2-d9a7150e2301", "https://vgmdb.net/album/92518"]
 
-[467]
+[456]
 catalognumber = "BRMM-10860"
 date = "2024-12-18"
 album = "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」特典CD 楽奈 ver."
@@ -7005,7 +6827,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145785"]
 
-[468]
+[457]
 catalognumber = "BRMM-10111"
 date = "2018-03-21"
 album = "Opera of the wasteland / Roselia"
@@ -7017,7 +6839,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5aace0a7-8433-4e37-a3a3-a0a415e074c8", "https://vgmdb.net/album/74096"]
 
-[469]
+[458]
 catalognumber = "BRMM-10093"
 date = "2017-08-02"
 album = "えがおのオーケストラっ! / ハロー、ハッピーワールド!"
@@ -7030,7 +6852,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/783fcc57-b4b2-4667-be24-932626ad347d", "https://vgmdb.net/album/69135"]
 
-[470]
+[459]
 catalognumber = ""
 date = "2020-05-13"
 album = "Steady Goes! Primitive Ver. / Argonavis"
@@ -7039,7 +6861,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101129"]
 
-[471]
+[460]
 catalognumber = "BRMM-10248"
 date = "2019-11-01"
 album = "イニシャル 〜short ver.〜 / Poppin'Party"
@@ -7048,7 +6870,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92188"]
 
-[472]
+[461]
 catalognumber = "BRMM-10720"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [LOCK Ver.]"
@@ -7061,7 +6883,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/27cfd389-563c-47e0-9f25-2bb00e20ecd4", "https://vgmdb.net/album/134167"]
 
-[473]
+[462]
 catalognumber = "BRMM-10334"
 date = "2020-12-09"
 album = "銀の百合/バンザイRIZING!!!/光の悪魔 [Atype]"
@@ -7075,7 +6897,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104839"]
 
-[474]
+[463]
 catalognumber = "ARDM-10003"
 date = "2022-03-02"
 album = "ユメノアト / εpsilonΦ"
@@ -7084,7 +6906,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118374"]
 
-[475]
+[464]
 catalognumber = "BRMM-10374"
 date = "2021-01-09"
 album = "アルゴナビス from BanG Dream! AAside ラジオ・ロワイヤル・フェス SHORT DRAMA & CHARACTER MESSAGE Disc 1"
@@ -7105,7 +6927,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110433"]
 
-[476]
+[465]
 catalognumber = "BRMM-10374"
 date = "2021-01-09"
 album = "アルゴナビス from BanG Dream! AAside ラジオ・ロワイヤル・フェス SHORT DRAMA & CHARACTER MESSAGE Disc 2"
@@ -7121,7 +6943,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110433"]
 
-[477]
+[466]
 catalognumber = "BRMM-10138"
 date = "2018-12-05"
 album = "キミがいなくちゃっ! / ハロー、ハッピーワールド! Disc 1 (CD)"
@@ -7133,7 +6955,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2cc04279-c708-4c9b-87d5-792d4e5db2d1", "https://vgmdb.net/album/81247"]
 
-[478]
+[467]
 catalognumber = "BRMM-10138"
 date = "2018-12-05"
 album = "キミがいなくちゃっ! / ハロー、ハッピーワールド! Disc 2 (Blu-ray)"
@@ -7143,7 +6965,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2cc04279-c708-4c9b-87d5-792d4e5db2d1", "https://vgmdb.net/album/81247"]
 
-[479]
+[468]
 catalognumber = "BRMM-10085"
 date = "2017-04-19"
 album = "BLACK SHOUT / Roselia [Limited Edition] Vocal, Drama"
@@ -7156,7 +6978,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/99a952a1-13cb-4c47-97e7-e01b978b243a", "https://vgmdb.net/album/65945"]
 
-[480]
+[469]
 catalognumber = "BRMM-10085"
 date = "2017-04-19"
 album = "BLACK SHOUT / Roselia [Limited Edition] Vocal"
@@ -7165,7 +6987,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/99a952a1-13cb-4c47-97e7-e01b978b243a", "https://vgmdb.net/album/65945"]
 
-[481]
+[470]
 catalognumber = "BRMM-10579"
 date = "2022-11-09"
 album = "迷星叫 / MyGO!!!!!"
@@ -7179,7 +7001,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3a02ef14-0bcf-4a56-9556-e3536e13edfa", "https://vgmdb.net/album/122455"]
 
-[482]
+[471]
 catalognumber = "BRMM-10190"
 date = "2019-05-15"
 album = "Dreamers Go!/Returns / Poppin'Party [Limited Edition]"
@@ -7191,7 +7013,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7a925a9c-609f-4b85-bb13-7792a8035924", "https://vgmdb.net/album/85169"]
 
-[483]
+[472]
 catalognumber = "BRMM-10165"
 date = "2019-02-20"
 album = "天下トーイツ A to Z☆ / Pastel*Palettes"
@@ -7203,7 +7025,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85dcf04e-bb9c-45d4-a206-bb68657764f9", "https://vgmdb.net/album/82741"]
 
-[484]
+[473]
 catalognumber = "BRMM-10108"
 date = "2018-02-14"
 album = "ゴーカ!ごーかい!?ファントムシーフ! / ハロー、ハッピーワールド!"
@@ -7217,7 +7039,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4b1e8eaa-999e-43a6-97c6-30ba5f156538", "https://vgmdb.net/album/73075"]
 
-[485]
+[474]
 catalognumber = "BRMM-10371"
 date = "2021-02-03"
 album = "AAside"
@@ -7229,7 +7051,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/35a5f024-f4c9-4b43-9315-b3f3fadde69b", "https://vgmdb.net/album/106812"]
 
-[486]
+[475]
 catalognumber = ""
 date = "2021-10-08"
 album = "ピコたるもの、ふぃーばー! / 香澄×蘭×彩×友希那×こころ×ましろ×レイヤ"
@@ -7238,7 +7060,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2504a60c-3f74-4615-9a92-977d705644ad", "https://vgmdb.net/album/115023"]
 
-[487]
+[476]
 catalognumber = "BRMM-10372"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN [生産限定盤] Vocal"
@@ -7252,7 +7074,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f20cd3d5-2a9e-410d-b469-5082a4cd9751", "https://vgmdb.net/album/108839"]
 
-[488]
+[477]
 catalognumber = "BRMM-10372"
 date = "2021-04-21"
 album = "EXIST / RAISE A SUILEN [生産限定盤] Vocal, Live Event, Video"
@@ -7274,7 +7096,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f20cd3d5-2a9e-410d-b469-5082a4cd9751", "https://vgmdb.net/album/108839"]
 
-[489]
+[478]
 catalognumber = "BRMM-10242"
 date = "2020-03-11"
 album = "Easy come, Easy go! / Afterglow"
@@ -7286,7 +7108,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94716a0a-17e4-4ad1-89df-6caef873d442", "https://vgmdb.net/album/92043"]
 
-[490]
+[479]
 catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 1"
@@ -7308,7 +7130,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06fecdc4-dbfa-484f-a03b-5da975fadf0e", "https://vgmdb.net/album/133338"]
 
-[491]
+[480]
 catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 2"
@@ -7330,7 +7152,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06fecdc4-dbfa-484f-a03b-5da975fadf0e", "https://vgmdb.net/album/133338"]
 
-[492]
+[481]
 catalognumber = "BRMM-10179"
 date = "2019-02-20"
 album = "ゴールライン / Argonavis"
@@ -7344,7 +7166,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b64b8459-a9e3-4283-9089-eb524435fa7b", "https://vgmdb.net/album/82587"]
 
-[493]
+[482]
 catalognumber = "BRMM-10619"
 date = "2023-03-15"
 album = "QUINTET / Morfonica [Blu-ray付生産限定盤] Vocal"
@@ -7365,7 +7187,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1b534ed0-62d1-417c-9652-bf48754ce250", "https://vgmdb.net/album/125605"]
 
-[494]
+[483]
 catalognumber = "BRMM-10619"
 date = "2023-03-15"
 album = "QUINTET / Morfonica [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -7375,7 +7197,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/125605"]
 
-[495]
+[484]
 catalognumber = "BRMM-10619"
 date = "2023-03-15"
 album = "QUINTET / Morfonica [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -7385,7 +7207,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/125605"]
 
-[496]
+[485]
 catalognumber = "BRMM-10413"
 date = "2021-05-26"
 album = "JUNCTION/Y / Argonavis [通常盤Btype-Artist Jacket-]"
@@ -7396,7 +7218,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109973"]
 
-[497]
+[486]
 catalognumber = "BRMM-10155"
 date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Afterglow"
@@ -7409,7 +7231,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81507"]
 
-[498]
+[487]
 catalognumber = "BRMM-10639"
 date = "2023-05-31"
 album = "青春 To Be Continued / Poppin'Party [生産限定盤] Vocal"
@@ -7423,7 +7245,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b06d485d-28fb-4b06-843d-56eb83cf7e03", "https://vgmdb.net/album/129533"]
 
-[499]
+[488]
 catalognumber = "BRMM-10639"
 date = "2023-05-31"
 album = "青春 To Be Continued / Poppin'Party [生産限定盤] Vocal, Live Event, Video"
@@ -7453,7 +7275,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b06d485d-28fb-4b06-843d-56eb83cf7e03", "https://vgmdb.net/album/129533"]
 
-[500]
+[489]
 catalognumber = "BRMM-10281"
 date = "2020-08-19"
 album = "夢を撃ち抜く瞬間に! (3rd Season #13 Full Ver.) / Poppin'Party×Roselia×RAISE A SUILEN"
@@ -7462,7 +7284,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102727"]
 
-[501]
+[490]
 catalognumber = ""
 date = "2023-02-28"
 album = "BanG Dream! AI Singing Synthesizer 夢ノ結唱 No.02 ROSE 特典CD"
@@ -7476,7 +7298,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6847305b-c7f6-4e08-8d15-b465e6af0cc9", "https://vgmdb.net/album/124705"]
 
-[502]
+[491]
 catalognumber = "BRMM-10391"
 date = "2021-03-17"
 album = "GYROAXIA ONLINE LIVE IGNITION -Atype-"
@@ -7487,7 +7309,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/110447"]
 
-[503]
+[492]
 catalognumber = "BRMM-10640"
 date = "2023-05-31"
 album = "青春 To Be Continued / Poppin'Party"
@@ -7501,7 +7323,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/072840ec-b671-42ed-a8aa-de12195fa3dd", "https://vgmdb.net/album/129531"]
 
-[504]
+[493]
 catalognumber = "ARCA-10009"
 date = "2022-09-21"
 album = "Friction / εpsilonΦ"
@@ -7521,7 +7343,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121660"]
 
-[505]
+[494]
 catalognumber = "BRMM-10116"
 date = "2018-03-21"
 album = "BanG Dream! 特典サンプラーCD 青"
@@ -7534,7 +7356,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2ee68f92-e199-4e1c-985f-2984a3e7b44d", "https://vgmdb.net/album/76096"]
 
-[506]
+[495]
 catalognumber = "BRMM-10810"
 date = "2024-07-10"
 album = "バンドリ！カバーコレクション Extra Volume [Blu-ray付生産限定盤] Vocal"
@@ -7548,7 +7370,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b5e04c28-39a9-4ad9-85a8-053d7cecfee7", "https://vgmdb.net/album/139902"]
 
-[507]
+[496]
 catalognumber = "BRMM-10810"
 date = "2024-07-10"
 album = "バンドリ！カバーコレクション Extra Volume [Blu-ray付生産限定盤] Vocal, Video"
@@ -7562,7 +7384,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b5e04c28-39a9-4ad9-85a8-053d7cecfee7", "https://vgmdb.net/album/139902"]
 
-[508]
+[497]
 catalognumber = "BRMM-10516"
 date = "2022-03-30"
 album = "fly with the night / Morfonica [Blu-ray付生産限定盤] Vocal, Drama"
@@ -7575,7 +7397,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/83c67acc-aca0-4039-917a-1accb1d6facc", "https://vgmdb.net/album/116714"]
 
-[509]
+[498]
 catalognumber = "BRMM-10516"
 date = "2022-03-30"
 album = "fly with the night / Morfonica [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -7585,7 +7407,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/83c67acc-aca0-4039-917a-1accb1d6facc", "https://vgmdb.net/album/116714"]
 
-[510]
+[499]
 catalognumber = ""
 date = "2019-04-19"
 album = "NO GIRL NO CRY / SILENT SIREN"
@@ -7594,7 +7416,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86049"]
 
-[511]
+[500]
 catalognumber = "BRMM-10722"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [PAREO Ver.]"
@@ -7607,7 +7429,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b25e6bc9-a0a5-4b98-99f0-3c1ded4769b2", "https://vgmdb.net/album/134169"]
 
-[512]
+[501]
 catalognumber = "BRMM-10139"
 date = "2018-12-05"
 album = "キミがいなくちゃっ! / ハロー、ハッピーワールド!"
@@ -7619,7 +7441,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8157a416-b522-41f6-901c-8dade22c282e", "https://vgmdb.net/album/81248"]
 
-[513]
+[502]
 catalognumber = "BRMM-10110"
 date = "2018-03-21"
 album = "CiRCLING / Poppin'Party"
@@ -7631,7 +7453,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aa4f6e4d-39f0-4f9d-ba60-27ca75b02ef0", "https://vgmdb.net/album/74133"]
 
-[514]
+[503]
 catalognumber = "BRMM-10730"
 date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal"
@@ -7645,7 +7467,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13066cdc-6801-45dc-87d6-ef280b80855c", "https://vgmdb.net/album/136202"]
 
-[515]
+[504]
 catalognumber = "BRMM-10730"
 date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -7665,7 +7487,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13066cdc-6801-45dc-87d6-ef280b80855c", "https://vgmdb.net/album/136202"]
 
-[516]
+[505]
 catalognumber = "BRMM-10730"
 date = "2023-12-13"
 album = "Violet Line / Roselia [2Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -7686,7 +7508,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13066cdc-6801-45dc-87d6-ef280b80855c", "https://vgmdb.net/album/136202"]
 
-[517]
+[506]
 catalognumber = "BRMM-10741"
 date = "2023-12-06"
 album = "forte / Morfonica [桐ヶ谷透子Ver.]"
@@ -7699,7 +7521,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135460"]
 
-[518]
+[507]
 catalognumber = "BRMM-10401"
 date = "2021-03-14"
 album = "End of reason / εpsilonΦ"
@@ -7708,7 +7530,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109826"]
 
-[519]
+[508]
 catalognumber = "BRMM-10291"
 date = "2020-08-12"
 album = "ARGONAVIS Special Disc フェリクス・ルイ=クロード・モンドール(Fantôme Iris) ver."
@@ -7721,7 +7543,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101126"]
 
-[520]
+[509]
 catalognumber = "BRMM-10662"
 date = "2023-07-12"
 album = "Infructescence / 夢ノ結唱POPY"
@@ -7745,7 +7567,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6dbdd2d2-7daa-4c31-a3ba-cff87dbbf6d6", "https://vgmdb.net/album/146480"]
 
-[521]
+[510]
 catalognumber = "UICN-1107"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [曙涼 ver.]"
@@ -7758,7 +7580,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116803"]
 
-[522]
+[511]
 catalognumber = "BRMM-10892"
 date = "2025-03-12"
 album = "Polyphony / Morfonica"
@@ -7778,7 +7600,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8a363220-12b6-4dbf-ba11-bc2df49743a8", "https://vgmdb.net/album/146288"]
 
-[523]
+[512]
 catalognumber = "BRMM-10381"
 date = "2020-12-27"
 album = "リスタート / Argonavis"
@@ -7789,7 +7611,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107685"]
 
-[524]
+[513]
 catalognumber = "BRMM-10412"
 date = "2021-05-26"
 album = "JUNCTION/Y / Argonavis [通常盤Atype-Character Jacket-]"
@@ -7800,16 +7622,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0593a8d8-d008-4304-8db0-ad50f8ed0c83", "https://vgmdb.net/album/109827"]
 
-[525]
-catalognumber = "BRDM-10514"
-date = "2025-07-12"
-album = "flame of hope（パラレルver.） / クールビューティーズ"
-tracks = [
-    [1, "flame of hope （パラレルver.）", "", "0"],
-]
-links = ["https://vgmdb.net/album/151569"]
-
-[526]
+[514]
 catalognumber = "BRMM-10171"
 date = "2019-01-30"
 album = "Poppin'on! / Poppin'Party Disc 1"
@@ -7828,7 +7641,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4ddf857-0681-463c-9203-5b9b89459d77", "https://vgmdb.net/album/81649"]
 
-[527]
+[515]
 catalognumber = "BRMM-10171"
 date = "2019-01-30"
 album = "Poppin'on! / Poppin'Party Disc 2"
@@ -7847,7 +7660,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4ddf857-0681-463c-9203-5b9b89459d77", "https://vgmdb.net/album/81649"]
 
-[528]
+[516]
 catalognumber = "BRMM-10578"
 date = "2022-11-09"
 album = "迷星叫 / MyGO!!!!! [初回生産限定盤]"
@@ -7861,7 +7674,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/23fba786-a103-4852-a1f3-18a7e5e98e7f", "https://vgmdb.net/album/122456"]
 
-[529]
+[517]
 catalognumber = "UICN-1105"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [里塚賢汰 ver.]"
@@ -7874,7 +7687,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116801"]
 
-[530]
+[518]
 catalognumber = ""
 date = "2022-01-15"
 album = "Roselia Instrumental Collection 1 Disc 1"
@@ -7899,7 +7712,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117331"]
 
-[531]
+[519]
 catalognumber = ""
 date = "2022-01-15"
 album = "Roselia Instrumental Collection 1 Disc 2"
@@ -7920,7 +7733,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117331"]
 
-[532]
+[520]
 catalognumber = "UICN-1106"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [美園礼音 ver.]"
@@ -7933,7 +7746,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116802"]
 
-[533]
+[521]
 catalognumber = "BRMM-10169"
 date = "2019-02-20"
 album = "A DECLARATION OF ××× / RAISE A SUILEN"
@@ -7945,7 +7758,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/048fc2f2-e1ee-4721-a953-2452cc74023a", "https://vgmdb.net/album/82745"]
 
-[534]
+[522]
 catalognumber = ""
 date = "2022-03-18"
 album = "Ko;Emotion 2"
@@ -7961,7 +7774,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132140"]
 
-[535]
+[523]
 catalognumber = "BRMM-10889"
 date = "2025-02-26"
 album = "POPIGENIC / Poppin'Party [生産限定盤] Vocal"
@@ -7981,7 +7794,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147677"]
 
-[536]
+[524]
 catalognumber = "BRMM-10889"
 date = "2025-02-26"
 album = "POPIGENIC / Poppin'Party [生産限定盤] Vocal, Live Event, Video"
@@ -8003,7 +7816,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147677"]
 
-[537]
+[525]
 catalognumber = "VE3WA-19779"
 date = "2022-06-22"
 album = "Repaint / Fear, and Loathing in Las Vegas"
@@ -8012,7 +7825,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121228"]
 
-[538]
+[526]
 catalognumber = "BRMM-10537"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [Blu-ray付生産限定盤] Arrangement, Vocal"
@@ -8025,7 +7838,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/559f93ca-7a4b-4376-b97c-78fdfbbee2ce", "https://vgmdb.net/album/118734"]
 
-[539]
+[527]
 catalognumber = "BRMM-10537"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -8050,7 +7863,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118734"]
 
-[540]
+[528]
 catalognumber = "BRMM-10537"
 date = "2022-05-18"
 album = "ROZEN HORIZON / Roselia [Blu-ray付生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -8076,7 +7889,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118734"]
 
-[541]
+[529]
 catalognumber = "BRMM-10513"
 date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best Disc 1"
@@ -8097,7 +7910,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3c481ceb-4779-42af-83b3-f8deb46d013f", "https://vgmdb.net/album/116479"]
 
-[542]
+[530]
 catalognumber = "BRMM-10513"
 date = "2022-03-16"
 album = "BanG Dream! Dreamer's Best Disc 2"
@@ -8119,14 +7932,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3c481ceb-4779-42af-83b3-f8deb46d013f", "https://vgmdb.net/album/116479"]
 
-[543]
+[531]
 catalognumber = ""
 date = "2020-04-28"
 album = "アルゴナビス from BanG Dream! アニメ放映記念全店フェア inアニメイト 特典ドラマCD εpsilonΦ"
 tracks = []
 links = ["https://vgmdb.net/album/98909"]
 
-[544]
+[532]
 catalognumber = "BRMM-10225"
 date = "2020-01-08"
 album = "イニシャル/夢を撃ち抜く瞬間に! / Poppin'Party <ドキドキVer.>"
@@ -8140,7 +7953,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f934ca3-bd1b-42de-a1d8-b89f38ed843c", "https://vgmdb.net/album/92051"]
 
-[545]
+[533]
 catalognumber = "BRMM-10092"
 date = "2017-07-12"
 album = "しゅわりん☆どり〜みん / Pastel*Palettes"
@@ -8153,7 +7966,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9bfe538d-c4c5-4e1a-88f9-a3cb85b85cfe", "https://vgmdb.net/album/68434"]
 
-[546]
+[534]
 catalognumber = "BRMM-10278"
 date = "2020-08-12"
 album = "大盛り一丁! ガルパ☆ピコ / 香澄×蘭×彩×友希那×こころ"
@@ -8165,7 +7978,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59067e00-67db-42bc-adb2-59f8e3a7e2c4", "https://vgmdb.net/album/99850"]
 
-[547]
+[535]
 catalognumber = "BRMM-10280"
 date = "2020-08-19"
 album = "夢を撃ち抜く瞬間に! (3rd Season #13 Full Ver.) / Poppin'Party×Roselia×RAISE A SUILEN"
@@ -8174,7 +7987,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102726"]
 
-[548]
+[536]
 catalognumber = "BRMM-10191"
 date = "2019-05-15"
 album = "Dreamers Go!/Returns / Poppin'Party"
@@ -8186,7 +7999,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3118f4c-20a4-4b17-a2d0-3077feb36a30", "https://vgmdb.net/album/85168"]
 
-[549]
+[537]
 catalognumber = "TGCS-10391"
 date = "2017-11-22"
 album = "前へススメ! オリジナルCD 〜市ヶ谷有咲ソロVer.〜"
@@ -8195,7 +8008,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/66595"]
 
-[550]
+[538]
 catalognumber = "BRMM-10370"
 date = "2021-02-03"
 album = "AAside [Blu-ray付生産限定盤] Vocal"
@@ -8207,7 +8020,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106813"]
 
-[551]
+[539]
 catalognumber = "BRMM-10370"
 date = "2021-02-03"
 album = "AAside [Blu-ray付生産限定盤] Live Event"
@@ -8237,7 +8050,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/106813"]
 
-[552]
+[540]
 catalognumber = "BRMM-10671"
 date = "2023-09-13"
 album = "Alea jacta est / Ave Mujica [Blu-ray付生産限定盤] Disc 1 (CD)"
@@ -8251,7 +8064,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5db507dc-b724-4bd3-8f6c-f241e3dea557", "https://vgmdb.net/album/133994"]
 
-[553]
+[541]
 catalognumber = "BRMM-10671"
 date = "2023-09-13"
 album = "Alea jacta est / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
@@ -8277,7 +8090,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/133994"]
 
-[554]
+[542]
 catalognumber = "BRMM-10328"
 date = "2021-01-20"
 album = "ZEAL of proud / Roselia [生産限定盤] Vocal"
@@ -8289,7 +8102,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f8ff39b-2619-4fd5-8f84-51adab5711ed", "https://vgmdb.net/album/104757"]
 
-[555]
+[543]
 catalognumber = "BRMM-10328"
 date = "2021-01-20"
 album = "ZEAL of proud / Roselia [生産限定盤] Vocal, Live Event, Video"
@@ -8314,7 +8127,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104757"]
 
-[556]
+[544]
 catalognumber = ""
 date = "2019-04-19"
 album = "NO GIRL NO CRY / Poppin'Party"
@@ -8324,7 +8137,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fd869c17-0382-46d2-ab6b-5d529f8421ad", "https://vgmdb.net/album/85490"]
 
-[557]
+[545]
 catalognumber = "BRMM-10563"
 date = "2022-08-31"
 album = "夏に閉じこめて / Poppin'Party [Blu-ray付生産限定盤] Vocal"
@@ -8336,7 +8149,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee83f45-ba55-42e9-b092-b960317ecab0", "https://vgmdb.net/album/121259"]
 
-[558]
+[546]
 catalognumber = "BRMM-10563"
 date = "2022-08-31"
 album = "夏に閉じこめて / Poppin'Party [Blu-ray付生産限定盤] Original Soundtrack, Vocal"
@@ -8366,7 +8179,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee83f45-ba55-42e9-b092-b960317ecab0", "https://vgmdb.net/album/121259"]
 
-[559]
+[547]
 catalognumber = "BRMM-10563"
 date = "2022-08-31"
 album = "夏に閉じこめて / Poppin'Party [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -8382,7 +8195,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee83f45-ba55-42e9-b092-b960317ecab0", "https://vgmdb.net/album/121259"]
 
-[560]
+[548]
 catalognumber = "BRMM-10563"
 date = "2022-08-31"
 album = "夏に閉じこめて / Poppin'Party [Blu-ray付生産限定盤] Video"
@@ -8391,7 +8204,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee83f45-ba55-42e9-b092-b960317ecab0", "https://vgmdb.net/album/121259"]
 
-[561]
+[549]
 catalognumber = ""
 date = "2022-01-15"
 album = "Afterglow Instrumental Collection 1"
@@ -8417,7 +8230,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117328"]
 
-[562]
+[550]
 catalognumber = "BRMM-10836"
 date = "2024-10-02"
 album = "ELEMENTS / Ave Mujica [Blu-ray付生産限定盤] Disc 1 (CD)"
@@ -8430,7 +8243,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/77cafd16-d0e9-4618-9999-e1eb7d78f878", "https://vgmdb.net/album/142190"]
 
-[563]
+[551]
 catalognumber = "BRMM-10836"
 date = "2024-10-02"
 album = "ELEMENTS / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
@@ -8451,7 +8264,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/77cafd16-d0e9-4618-9999-e1eb7d78f878", "https://vgmdb.net/album/142190"]
 
-[564]
+[552]
 catalognumber = "UICN-9039"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [Blu-ray付生産限定盤] Vocal"
@@ -8464,7 +8277,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116784"]
 
-[565]
+[553]
 catalognumber = "UICN-9039"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -8473,7 +8286,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116784"]
 
-[566]
+[554]
 catalognumber = "BRMM-10388"
 date = "2021-03-17"
 album = "ONE / GYROAXIA [生産限定盤] Vocal"
@@ -8493,7 +8306,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108023"]
 
-[567]
+[555]
 catalognumber = "BRMM-10388"
 date = "2021-03-17"
 album = "ONE / GYROAXIA [生産限定盤] Vocal, Live Event, Video"
@@ -8517,7 +8330,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108023"]
 
-[568]
+[556]
 catalognumber = "BRMM-10433"
 date = "2021-07-14"
 album = "ランガンラン/夢見るBoy守るため / 風神RIZING!"
@@ -8527,7 +8340,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1075eb34-fe48-4c67-ae5c-0eac0d6c2b6e", "https://vgmdb.net/album/111235"]
 
-[569]
+[557]
 catalognumber = "BRMM-10118"
 date = "2018-03-21"
 album = "BanG Dream! 特典サンプラーCD 赤"
@@ -8540,7 +8353,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/76097"]
 
-[570]
+[558]
 catalognumber = "BRMM-10429"
 date = "2021-07-14"
 album = "WITHOUT ME/BREAK IT DOWN / GYROAXIA"
@@ -8550,7 +8363,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/36bc97c6-4d6e-4c3c-8726-97411b766d06", "https://vgmdb.net/album/111226"]
 
-[571]
+[559]
 catalognumber = "BRMM-10347"
 date = "2021-03-24"
 album = "ONE OF US / Afterglow [生産限定盤] Vocal"
@@ -8569,7 +8382,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d8e9f7bf-1d12-44f8-b8c5-4e5ac766b415", "https://vgmdb.net/album/107351"]
 
-[572]
+[560]
 catalognumber = "BRMM-10347"
 date = "2021-03-24"
 album = "ONE OF US / Afterglow [生産限定盤] Vocal, Live Event, Video"
@@ -8579,7 +8392,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107351"]
 
-[573]
+[561]
 catalognumber = "BRMM-10856"
 date = "2024-12-11"
 album = "礎の花冠 / Roselia"
@@ -8591,7 +8404,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9145f0bc-bffc-42b2-ad4a-7be9c232be10", "https://vgmdb.net/album/145790"]
 
-[574]
+[562]
 catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal"
@@ -8603,7 +8416,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
 
-[575]
+[563]
 catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 2"
@@ -8626,7 +8439,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
 
-[576]
+[564]
 catalognumber = "BRMM-10873"
 date = "2025-01-08"
 album = "Bad Kids All Bet / RAISE A SUILEN [Limited Edition] Vocal, Live Event, Video Disc 3"
@@ -8649,7 +8462,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a74fc94a-5ad3-44af-9c55-8aef03976491", "https://vgmdb.net/album/146774"]
 
-[577]
+[565]
 catalognumber = "VVCL-2220"
 date = "2023-02-22"
 album = "Voy☆☆☆ / FLOW [初回生産限定盤] Vocal"
@@ -8678,7 +8491,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9014525c-5773-48a4-ad23-e1536620d775", "https://vgmdb.net/album/125510"]
 
-[578]
+[566]
 catalognumber = "VVCL-2221"
 date = "2023-02-22"
 album = "Voy☆☆☆ / FLOW [初回生産限定盤] Vocal, Video"
@@ -8690,7 +8503,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/125510"]
 
-[579]
+[567]
 catalognumber = "TGCS-10390"
 date = "2017-11-22"
 album = "前へススメ! オリジナルCD 〜山吹沙綾ソロVer.〜"
@@ -8699,7 +8512,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/56c13afe-31f5-456b-9ac3-b1e7002d656b", "https://vgmdb.net/album/66591"]
 
-[580]
+[568]
 catalognumber = "BRMM-10254"
 date = "2020-06-24"
 album = "Breakthrough! / Poppin'Party"
@@ -8720,7 +8533,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c24fdfde-5aff-4ff1-bbb7-8af2184e39fe", "https://vgmdb.net/album/97121"]
 
-[581]
+[569]
 catalognumber = "BRMM-10652"
 date = "2023-06-28"
 album = "-N-E-M-E-S-I-S- / RAISE A SUILEN"
@@ -8732,7 +8545,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68b078ff-eabb-4f18-91e1-ee5cbbdd8162", "https://vgmdb.net/album/130873"]
 
-[582]
+[570]
 catalognumber = "BRMM-10352"
 date = "2021-07-14"
 album = "にこにこねくと! / ハロー、ハッピーワールド!"
@@ -8751,7 +8564,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a55d9f23-2885-4ac8-952b-15b9e6959074", "https://vgmdb.net/album/107354"]
 
-[583]
+[571]
 catalognumber = "ARCA-10003"
 date = "2022-05-25"
 album = "CYAN / Argonavis [通常盤Btype -Artist Jacket-]"
@@ -8771,7 +8584,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118991"]
 
-[584]
+[572]
 catalognumber = "ARDM-10004"
 date = "2022-03-09"
 album = "As Is あるがままで / Argonavis"
@@ -8780,7 +8593,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118657"]
 
-[585]
+[573]
 catalognumber = "UICN-9040"
 date = "2022-02-23"
 album = "Freestyle / GYROAXIA"
@@ -8793,7 +8606,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/91011aa2-47ca-4de6-b2b9-61bbde40ab52", "https://vgmdb.net/album/116785"]
 
-[586]
+[574]
 catalognumber = "BRMM-10731"
 date = "2023-12-13"
 album = "Violet Line / Roselia [湊友希那Ver.]"
@@ -8807,7 +8620,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8cdf3420-f9c4-4200-b36b-0525b2fd5eb6", "https://vgmdb.net/album/136197"]
 
-[587]
+[575]
 catalognumber = "BRMM-10679"
 date = "2023-08-09"
 album = "壱雫空 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal"
@@ -8821,7 +8634,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129941"]
 
-[588]
+[576]
 catalognumber = "BRMM-10679"
 date = "2023-08-09"
 album = "壱雫空 / MyGO!!!!! [Blu-ray付生産限定盤] Live Event, Video"
@@ -8841,7 +8654,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129941"]
 
-[589]
+[577]
 catalognumber = "BRMM-10288"
 date = "2020-06-15"
 album = "STARTING OVER feat. 旭 那由多 from GYROAXIA / Argonavis feat. 旭 那由多 from GYROAXIA"
@@ -8850,7 +8663,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100353"]
 
-[590]
+[578]
 catalognumber = "BRMM-10327"
 date = "2021-01-13"
 album = "ブルームブルーム / Morfonica"
@@ -8862,7 +8675,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ae01e68d-076b-4e5b-8465-fe93450ca345", "https://vgmdb.net/album/104716"]
 
-[591]
+[579]
 catalognumber = "BRMM-10336"
 date = "2020-12-09"
 album = "銀の百合/バンザイRIZING!!!/光の悪魔 [Ctype]"
@@ -8876,7 +8689,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104841"]
 
-[592]
+[580]
 catalognumber = "BRDM-10430"
 date = "2024-12-09"
 album = "WELCOME TO PANDEMONIUM / RAISE A SUILEN"
@@ -8885,7 +8698,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145053"]
 
-[593]
+[581]
 catalognumber = ""
 date = "2023-03-15"
 album = "TVアニメ「アルゴナビス from BanG Dream!」オリジナルサウンドトラック Disc 1"
@@ -8913,7 +8726,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/127132"]
 
-[594]
+[582]
 catalognumber = ""
 date = "2023-03-15"
 album = "TVアニメ「アルゴナビス from BanG Dream!」オリジナルサウンドトラック Disc 2"
@@ -8940,7 +8753,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/127132"]
 
-[595]
+[583]
 catalognumber = "BRDM-10206"
 date = "2022-12-25"
 album = "潜在表明 / MyGO!!!!!"
@@ -8949,14 +8762,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/125401"]
 
-[596]
+[584]
 catalognumber = ""
 date = "2020-04-28"
 album = "アルゴナビス from BanG Dream! アニメ放映記念全店フェア inアニメイト 特典ドラマCD GYROAXIA"
 tracks = []
 links = ["https://vgmdb.net/album/98906"]
 
-[597]
+[585]
 catalognumber = "BRMM-10326"
 date = "2021-01-13"
 album = "ブルームブルーム / Morfonica [生産限定盤] Vocal"
@@ -8968,7 +8781,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1fe55145-140f-4570-b735-b09da0c0760a", "https://vgmdb.net/album/104717"]
 
-[598]
+[586]
 catalognumber = "BRMM-10326"
 date = "2021-01-13"
 album = "ブルームブルーム / Morfonica [生産限定盤] Vocal, Video"
@@ -8977,7 +8790,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104717"]
 
-[599]
+[587]
 catalognumber = "BRMM-10830"
 date = "2024-10-09"
 album = "Tempest/Wreath of Brave / Morfonica"
@@ -8989,7 +8802,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6951b0e8-4f2e-4108-b527-9d2bcafa54cb", "https://vgmdb.net/album/141781"]
 
-[600]
+[588]
 catalognumber = "BRMM-10163"
 date = "2019-02-20"
 album = "ハイファイブ∞あどべんちゃっ / ハロー、ハッピーワールド!"
@@ -9001,7 +8814,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ff053625-b240-4785-9053-e909d220efb2", "https://vgmdb.net/album/82739"]
 
-[601]
+[589]
 catalognumber = "BRMM-10153"
 date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Poppin'Party"
@@ -9014,7 +8827,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/81506"]
 
-[602]
+[590]
 catalognumber = "BRMM-10217"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD Afterglow"
@@ -9025,7 +8838,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90215"]
 
-[603]
+[591]
 catalognumber = "BRMM-10723"
 date = "2023-11-01"
 album = "REVELATION / RAISE A SUILEN [CHU² Ver.]"
@@ -9038,7 +8851,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cf985e0a-4894-4eab-875c-a7de35d6d8d9", "https://vgmdb.net/album/134170"]
 
-[604]
+[592]
 catalognumber = "BRMM-10176"
 date = "2019-03-16"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.2"
@@ -9058,7 +8871,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7faf8dd1-60d7-47b7-a67e-143f0e43e0d5", "https://vgmdb.net/album/83148"]
 
-[605]
+[593]
 catalognumber = "BRMM-10924"
 date = "2025-05-28"
 album = "BanG Dream! Ave Mujica First Volume オリジナル・サウンドトラック"
@@ -9080,7 +8893,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d219edfe-0b78-4d6d-bc32-3d4f16b7c9f0", "https://vgmdb.net/album/150136"]
 
-[606]
+[594]
 catalognumber = "BRMM-10875"
 date = "2024-12-18"
 album = "跡暖空 / MyGO!!!!! [Blu-ray付生産限定盤A] Vocal"
@@ -9100,7 +8913,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9626ec9-8ca8-4f1c-8148-7627e274da3e", "https://vgmdb.net/album/145747"]
 
-[607]
+[595]
 catalognumber = "BRMM-10875"
 date = "2024-12-18"
 album = "跡暖空 / MyGO!!!!! [Blu-ray付生産限定盤A] Vocal, Live Event, Video"
@@ -9122,7 +8935,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9626ec9-8ca8-4f1c-8148-7627e274da3e", "https://vgmdb.net/album/145747"]
 
-[608]
+[596]
 catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 1"
@@ -9144,7 +8957,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
-[609]
+[597]
 catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 2"
@@ -9166,7 +8979,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
-[610]
+[598]
 catalognumber = "BRDM-10048"
 date = "2022-06-24"
 album = "るんっ♪てぃてぃー! / Pastel*Palettes"
@@ -9175,7 +8988,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121292"]
 
-[611]
+[599]
 catalognumber = "BRDM-10302"
 date = "2023-09-08"
 album = "スタートライン / Argonavis"
@@ -9184,7 +8997,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132395"]
 
-[612]
+[600]
 catalognumber = "BRMM-10159"
 date = "2019-02-20"
 album = "Jumpin' / Poppin'Party"
@@ -9196,7 +9009,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/334f4719-6a68-4cc5-a482-e63fb0918777", "https://vgmdb.net/album/82735"]
 
-[613]
+[601]
 catalognumber = "BRMM-10398"
 date = "2021-03-14"
 album = "FAR AWAY / GYROAXIA"
@@ -9205,7 +9018,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109823"]
 
-[614]
+[602]
 catalognumber = "BRMM-10734"
 date = "2023-12-13"
 album = "Violet Line / Roselia [宇田川あこVer.]"
@@ -9219,14 +9032,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5c0d4609-e10e-458c-9aac-e6b07925ea54", "https://vgmdb.net/album/136200"]
 
-[615]
+[603]
 catalognumber = ""
 date = "2020-04-28"
 album = "アルゴナビス from BanG Dream! アニメ放映記念全店フェア inアニメイト 特典ドラマCD 風神RIZING!"
 tracks = []
 links = ["https://vgmdb.net/album/98908"]
 
-[616]
+[604]
 catalognumber = "BRMM-10084"
 date = "2017-05-10"
 album = "前へススメ!/夢みるSunflower / Poppin'Party"
@@ -9239,7 +9052,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/032288ec-e536-4cfd-8c1f-bfe58b241b74", "https://vgmdb.net/album/65956"]
 
-[617]
+[605]
 catalognumber = "BRMM-10813"
 date = "2024-07-24"
 album = "端程山 / MyGO!!!!!"
@@ -9253,7 +9066,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e250add5-cf34-4013-9546-242eea3a7696", "https://vgmdb.net/album/139776"]
 
-[618]
+[606]
 catalognumber = "BRMM-10464"
 date = "2021-11-17"
 album = "ARGONAVIS Cover Collection -Mix-"
@@ -9273,7 +9086,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113562"]
 
-[619]
+[607]
 catalognumber = ""
 date = "2020-09-12"
 album = "IGNITION / GYROAXIA"
@@ -9284,7 +9097,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/103024"]
 
-[620]
+[608]
 catalognumber = "BRDM-10377"
 date = "2024-02-28"
 album = "輪符雨 / MyGO!!!!!"
@@ -9293,7 +9106,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c77153d0-c4b2-4ce3-b44d-9754b7dce041", "https://vgmdb.net/album/137037"]
 
-[621]
+[609]
 catalognumber = "BRMM-10198"
 date = "2019-09-18"
 album = "きゅ～まい*flower / Pastel*Palettes"
@@ -9305,7 +9118,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0a80c159-27fe-4bee-ba04-00f79ec3ebe5", "https://vgmdb.net/album/85177"]
 
-[622]
+[610]
 catalognumber = "BRDM-10250"
 date = "2023-05-06"
 album = "最強☆ソング / Poppin'Party"
@@ -9314,7 +9127,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c0df9d8d-9552-42c2-9cfb-5ab98f4195eb", "https://vgmdb.net/album/129430"]
 
-[623]
+[611]
 catalognumber = "BRMM-10123"
 date = "2018-06-27"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.1"
@@ -9332,7 +9145,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/abe0dc10-5364-4413-8020-ffa2cb640733", "https://vgmdb.net/album/76477"]
 
-[624]
+[612]
 catalognumber = "BRMM-10634"
 date = "2023-06-28"
 album = "SMILE ON PARADE / ハロー、ハッピーワールド! Disc 1"
@@ -9353,7 +9166,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/629e3891-433e-4b9d-94d2-bd866f510611", "https://vgmdb.net/album/130740"]
 
-[625]
+[613]
 catalognumber = "BRMM-10634"
 date = "2023-06-28"
 album = "SMILE ON PARADE / ハロー、ハッピーワールド! Disc 2"
@@ -9371,7 +9184,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/629e3891-433e-4b9d-94d2-bd866f510611", "https://vgmdb.net/album/130740"]
 
-[626]
+[614]
 catalognumber = "BRMM-10913"
 date = "2025-04-23"
 album = "聿日箋秋 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal"
@@ -9383,7 +9196,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aec11419-db0c-4b84-82a2-9a9b2ec488f9", "https://vgmdb.net/album/148272"]
 
-[627]
+[615]
 catalognumber = "BRMM-10913"
 date = "2025-04-23"
 album = "聿日箋秋 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal, Live Event, Video"
@@ -9406,7 +9219,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aec11419-db0c-4b84-82a2-9a9b2ec488f9", "https://vgmdb.net/album/148272"]
 
-[628]
+[616]
 catalognumber = "BRMM-10913"
 date = "2025-04-23"
 album = "聿日箋秋 / MyGO!!!!! [Blu-ray付生産限定盤] Vocal, Video"
@@ -9416,7 +9229,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aec11419-db0c-4b84-82a2-9a9b2ec488f9", "https://vgmdb.net/album/148272"]
 
-[629]
+[617]
 catalognumber = "BRMM-10349"
 date = "2021-05-19"
 album = "TITLE IDOL / Pastel*Palettes [生産限定盤] Vocal"
@@ -9435,7 +9248,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/77783b9f-0a75-43dc-ada0-65b41638352f", "https://vgmdb.net/album/107353"]
 
-[630]
+[618]
 catalognumber = "BRMM-10349"
 date = "2021-05-19"
 album = "TITLE IDOL / Pastel*Palettes [生産限定盤] Vocal, Live Event, Video Disc 2"
@@ -9445,7 +9258,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107353"]
 
-[631]
+[619]
 catalognumber = "BRMM-10349"
 date = "2021-05-19"
 album = "TITLE IDOL / Pastel*Palettes [生産限定盤] Vocal, Live Event, Video Disc 3"
@@ -9454,7 +9267,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107353"]
 
-[632]
+[620]
 catalognumber = "BRMM-10158"
 date = "2019-02-20"
 album = "Jumpin' / Poppin'Party [Limited Edition] Disc 1 (CD)"
@@ -9466,7 +9279,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f8984ec8-cebc-4ad8-b757-f2fe0133f331", "https://vgmdb.net/album/82736"]
 
-[633]
+[621]
 catalognumber = "BRMM-10158"
 date = "2019-02-20"
 album = "Jumpin' / Poppin'Party [Limited Edition] Disc 2 (Blu-ray)"
@@ -9475,7 +9288,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f8984ec8-cebc-4ad8-b757-f2fe0133f331", "https://vgmdb.net/album/82736"]
 
-[634]
+[622]
 catalognumber = "BRMM-10424"
 date = "2021-08-18"
 album = "Live Beyond!! / Poppin'Party [生産限定盤] Vocal"
@@ -9488,7 +9301,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/180581c5-1135-401b-b0cc-00c61d8ab620", "https://vgmdb.net/album/111090"]
 
-[635]
+[623]
 catalognumber = "BRMM-10424"
 date = "2021-08-18"
 album = "Live Beyond!! / Poppin'Party [生産限定盤] Vocal, Live Event, Video"
@@ -9509,7 +9322,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111090"]
 
-[636]
+[624]
 catalognumber = "BRMM-10811"
 date = "2024-07-10"
 album = "バンドリ！カバーコレクション Extra Volume"
@@ -9523,7 +9336,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/387b3013-e77d-4d91-acb4-4f4d1185f7db", "https://vgmdb.net/album/139901"]
 
-[637]
+[625]
 catalognumber = "BRMM-10785"
 date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica [Blu-ray付生産限定盤] Disc 1 (CD)"
@@ -9535,7 +9348,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f3f96945-c515-43c9-b139-29fe497f7dc1", "https://vgmdb.net/album/139641"]
 
-[638]
+[626]
 catalognumber = "BRMM-10785"
 date = "2024-04-24"
 album = "素晴らしき世界 でも どこにもない場所 / Ave Mujica [Blu-ray付生産限定盤] Disc 2 (Blu-ray)"
@@ -9554,7 +9367,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f3f96945-c515-43c9-b139-29fe497f7dc1", "https://vgmdb.net/album/139641"]
 
-[639]
+[627]
 catalognumber = "BRMM-10517"
 date = "2022-03-30"
 album = "fly with the night / Morfonica"
@@ -9567,7 +9380,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/116713"]
 
-[640]
+[628]
 catalognumber = "BRMM-10128"
 date = "2018-07-25"
 album = "R / Roselia"
@@ -9580,7 +9393,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08edd0cd-9014-4c34-81f5-0360e9b61bcd", "https://vgmdb.net/album/77949"]
 
-[641]
+[629]
 catalognumber = "BRMM-10316"
 date = "2020-12-16"
 album = "ガルパ ボカロカバーコレクション [初回限定盤] Arrangement, Vocal Disc 1"
@@ -9598,7 +9411,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06e99e3e-2b3b-4a29-8ac6-577ba8ce7ce4", "https://vgmdb.net/album/104106"]
 
-[642]
+[630]
 catalognumber = "BRMM-10316"
 date = "2020-12-16"
 album = "ガルパ ボカロカバーコレクション [初回限定盤] Arrangement, Vocal Disc 2"
@@ -9617,7 +9430,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06e99e3e-2b3b-4a29-8ac6-577ba8ce7ce4", "https://vgmdb.net/album/104106"]
 
-[643]
+[631]
 catalognumber = "BRMM-10316"
 date = "2020-12-16"
 album = "ガルパ ボカロカバーコレクション [初回限定盤] Arrangement, Vocal, Video"
@@ -9632,7 +9445,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06e99e3e-2b3b-4a29-8ac6-577ba8ce7ce4", "https://vgmdb.net/album/104106"]
 
-[644]
+[632]
 catalognumber = "BRMM-10131"
 date = "2018-08-22"
 album = "ピコっと! パピっと!! ガルパ☆ピコ!!! / 香澄×蘭×彩×友希那×こころ"
@@ -9644,7 +9457,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/56723b62-179d-4992-add3-f9bc7e54eb55", "https://vgmdb.net/album/78613"]
 
-[645]
+[633]
 catalognumber = "BRMM-10434"
 date = "2021-07-14"
 album = "Cynicaltic Fakestar/Sake it L⓪VE! / εpsilonΦ [Blu-ray付生産限定盤]"
@@ -9654,7 +9467,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111233"]
 
-[646]
+[634]
 catalognumber = "BRMM-10789"
 date = "2024-06-26"
 album = "Für immer / Roselia"
@@ -9674,7 +9487,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8c3fad38-fe6c-4bda-a02b-84f8475ecbad", "https://vgmdb.net/album/139550"]
 
-[647]
+[635]
 catalognumber = "BRMM-10103"
 date = "2017-11-29"
 album = "ONENESS / Roselia"
@@ -9686,7 +9499,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a73e6a09-663a-4617-947a-63143a5586e8", "https://vgmdb.net/album/72328"]
 
-[648]
+[636]
 catalognumber = "BRMM-10044"
 date = "2016-08-03"
 album = "STAR BEAT!〜ホシノコドウ〜 / Poppin'Party"
@@ -9704,7 +9517,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f9630bf-0ee8-4f89-9a10-fd9665694202", "https://vgmdb.net/album/60358"]
 
-[649]
+[637]
 catalognumber = "BRMM-10350"
 date = "2021-05-19"
 album = "TITLE IDOL / Pastel*Palettes"
@@ -9723,35 +9536,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/24d04211-af73-469d-bc33-fb55ccd1651e", "https://vgmdb.net/album/107352"]
 
-[650]
-catalognumber = "BRMM-10953"
-date = "2025-07-16"
-album = "CULTIVATION / 夢ノ結唱"
-tracks = [
-    [1, "停止線上の障壁（バリア） / 夢ノ結唱 POPY", "", ""],
-    [2, "世界中に響く耳鳴りの導火線に火をつけて / 夢ノ結唱 POPY", "", ""],
-    [3, "Little Lazy Princess / 夢ノ結唱 POPY", "", ""],
-    [4, "汀の宿 / 夢ノ結唱 POPY", "", ""],
-    [5, "ポータルＢ / 夢ノ結唱 POPY", "", ""],
-    [6, "Hatch / 夢ノ結唱 POPY", "", ""],
-    [7, "ヌード / 夢ノ結唱 ROSE", "", ""],
-    [8, "antidote / 夢ノ結唱 ROSE", "", ""],
-    [9, "流れ星のダーリン / 夢ノ結唱 ROSE", "", ""],
-    [10, "比較言語学における陰謀的研究法の可能性について / 夢ノ結唱 ROSE", "", ""],
-    [11, "最も濃いもの / 夢ノ結唱 ROSE", "", ""],
-    [12, "マルカリアンチェイン / 夢ノ結唱 ROSE", "", ""],
-    [13, "Singer / 夢ノ結唱 PASTEL", "", ""],
-    [14, "あなたなんて幻 / 夢ノ結唱 PASTEL", "", ""],
-    [15, "手を叩け今ここで祈るだけ願うだけ / 夢ノ結唱 HALO", "", ""],
-    [16, "私がマスター / 夢ノ結唱 HALO", "", ""],
-    [17, "すべてがそこにありますように。（COVER） / 夢ノ結唱 POPY・ROSE", "", ""],
-    [18, "透明の縁 / 夢ノ結唱 PASTEL・HALO", "", ""],
-    [19, "Leap up Lollipop / 夢ノ結唱 POPY", "", ""],
-    [20, "心の愛 / 夢ノ結唱 ROSE", "", ""],
-]
-links = ["https://vgmdb.net/album/150993"]
-
-[651]
+[638]
 catalognumber = "BRMM-10080"
 date = "2017-06-21"
 album = "花園電気ギター!!! / 花園たえ(CAST:大塚紗英)"
@@ -9764,7 +9549,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b1852958-c50c-43be-97c2-6d0681aff37d", "https://vgmdb.net/album/67068"]
 
-[652]
+[639]
 catalognumber = "BRMM-10802"
 date = "2024-07-17"
 album = "TARINAI/トレモロアイズ / Poppin'Party"
@@ -9776,7 +9561,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1afa5fbf-b976-4f67-a8ec-5c74452904ee", "https://vgmdb.net/album/140015"]
 
-[653]
+[640]
 catalognumber = "BRMM-10215"
 date = "2019-10-23"
 album = "BanG Dream! サンプラーCD ハロー、ハッピーワールド!"
@@ -9787,7 +9572,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/19233a27-dbe2-43b3-add9-f0ee1cdedc57", "https://vgmdb.net/album/90213"]
 
-[654]
+[641]
 catalognumber = "BRMM-10164"
 date = "2019-02-20"
 album = "天下トーイツ A to Z☆ / Pastel*Palettes"
@@ -9799,7 +9584,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a8e0e477-0e45-483c-ab9b-ea865b0f0667", "https://vgmdb.net/album/82742"]
 
-[655]
+[642]
 catalognumber = "BRMM-10208"
 date = "2019-12-18"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.3"
@@ -9819,7 +9604,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0bda21bc-702c-4351-9616-c6676b6dbebc", "https://vgmdb.net/album/90211"]
 
-[656]
+[643]
 catalognumber = "BRMM-10646"
 date = "2023-04-26"
 album = "THRONE OF ROSE / Roselia [今井リサVer.]"
@@ -9833,7 +9618,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129746"]
 
-[657]
+[644]
 catalognumber = "BRMM-10430"
 date = "2021-07-14"
 album = "ザクロ/狂喜のメロディ / Fantôme Iris [Blu-ray付生産限定盤]"
@@ -9843,7 +9628,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111231"]
 
-[658]
+[645]
 catalognumber = "BRMM-10418"
 date = "2021-07-14"
 album = "BanG Dream! アルバム3タイトル連動購入特典CD Afterglow"
@@ -9854,7 +9639,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ecb116f1-dc3e-492c-8ed3-35a3aef3c298", "https://vgmdb.net/album/107500"]
 
-[659]
+[646]
 catalognumber = "BRMM-10436"
 date = "2021-10-06"
 album = "ハーモニー・デイ / Morfonica [生産限定盤] Vocal"
@@ -9868,7 +9653,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/572cc371-bcfa-4d79-b131-8cc80721ece1", "https://vgmdb.net/album/113450"]
 
-[660]
+[647]
 catalognumber = "BRMM-10436"
 date = "2021-10-06"
 album = "ハーモニー・デイ / Morfonica [生産限定盤] Vocal, Live Event, Video"
@@ -9893,7 +9678,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113450"]
 
-[661]
+[648]
 catalognumber = "ARDM-10010"
 date = "2022-03-30"
 album = "夏のBURRRRN!!! / Argonavis"
@@ -9902,7 +9687,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/eb83f778-e459-4411-a16c-fa177964e0cc", "https://vgmdb.net/album/119298"]
 
-[662]
+[649]
 catalognumber = "VIZL-2114"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [直筆サイン入り完全生産限定盤A] Disc 1 (CD) [VICL-65738]"
@@ -9921,7 +9706,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122812"]
 
-[663]
+[650]
 catalognumber = "VIZL-2114"
 date = "2022-10-26"
 album = "Cocoon for the Golden Future / Fear, and Loathing in Las Vegas [直筆サイン入り完全生産限定盤A] Disc 2 (Blu-ray)"
@@ -9951,7 +9736,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122812"]
 
-[664]
+[651]
 catalognumber = "BRMM-10423"
 date = "2021-05-26"
 album = "ゴールライン Acoustic ver. / Argonavis"
@@ -9960,7 +9745,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109993"]
 
-[665]
+[652]
 catalognumber = "ARCA-10007"
 date = "2022-09-14"
 album = "ピース! / 風神RIZING!"
@@ -9980,7 +9765,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c4a6e628-c881-4ad3-b0d8-e5528a9f1289", "https://vgmdb.net/album/121679"]
 
-[666]
+[653]
 catalognumber = "BRDM-10060"
 date = "2022-07-01"
 album = "Happy! Happier! Happiest! / ハロー、ハッピーワールド!"
@@ -9989,7 +9774,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121479"]
 
-[667]
+[654]
 catalognumber = "BRMM-10122"
 date = "2018-05-02"
 album = "Anfang / Roselia"
@@ -10009,7 +9794,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bf64e10e-dbb9-4c6a-a4ea-dd2d7245de2a", "https://vgmdb.net/album/74887"]
 
-[668]
+[655]
 catalognumber = "BRMM-10264"
 date = "2020-05-27"
 album = "Daylight -デイライト- / Morfonica"
@@ -10021,14 +9806,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/378642a2-17b8-485c-b8c4-7392457db2a5", "https://vgmdb.net/album/97112"]
 
-[669]
+[656]
 catalognumber = "BRMM-10014"
 date = "2015-04-18"
 album = "Yes! BanG_Dream!"
 tracks = []
 links = ["https://vgmdb.net/album/73026"]
 
-[670]
+[657]
 catalognumber = "BRMM-10240"
 date = "2020-03-04"
 album = "ワクワクmeetsトリップ / Pastel*Palettes"
