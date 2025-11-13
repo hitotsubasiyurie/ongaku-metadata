@@ -998,39 +998,268 @@ catalognumber = "LACA-39892"
 date = "2022-05-11"
 album = "LAYERING / 寺島拓篤 [初回限定盤] Disc 1 [LACA-39892]"
 tracks = [
-    [1, "Architect", "", ""],
-    [2, "magic words", "", ""],
-    [3, "スターテイル", "", ""],
-    [4, "SCARLET SIGN", "", ""],
-    [5, "Prismatic World", "", ""],
-    [6, "INNER STAR", "", ""],
-    [7, "0+1", "", ""],
-    [8, "sunlight avenue", "", ""],
-    [9, "evolve", "", ""],
-    [10, "ID", "", ""],
-    [11, "Nameless Story", "", ""],
-    [12, "メグルモノ", "", ""],
-    [13, "Buddy,steady,go!", "", ""],
-    [14, "UNBREAKABLE", "", ""],
-    [15, "Reincarnate", "", ""],
-    [16, "GRATEFUL LAYERS", "", ""],
+    [1, "Architect", "寺島拓篤", ""],
+    [2, "magic words", "寺島拓篤", ""],
+    [3, "スターテイル", "寺島拓篤", ""],
+    [4, "SCARLET SIGN", "寺島拓篤", ""],
+    [5, "Prismatic World", "寺島拓篤", ""],
+    [6, "INNER STAR", "寺島拓篤", ""],
+    [7, "0+1", "寺島拓篤", ""],
+    [8, "sunlight avenue", "寺島拓篤", ""],
+    [9, "evolve", "寺島拓篤", ""],
+    [10, "ID", "寺島拓篤", ""],
+    [11, "Nameless Story", "寺島拓篤", ""],
+    [12, "メグルモノ", "寺島拓篤", ""],
+    [13, "Buddy, steady, go!", "寺島拓篤", ""],
+    [14, "UNBREAKABLE", "寺島拓篤", ""],
+    [15, "Reincarnate", "寺島拓篤", ""],
+    [16, "GRATEFUL LAYERS", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/116987"]
+links = ["https://beta.musicbrainz.org/release/e2650fa6-69cd-467c-bbd3-35d1e814df82", "https://vgmdb.net/album/116987"]
 
 [60]
 catalognumber = "LACA-39893"
 date = "2022-05-11"
 album = "LAYERING / 寺島拓篤 [初回限定盤] Disc 2 [LACA-39893]"
 tracks = [
-    [1, "ファントムライツ", "", ""],
-    [2, "MONSTER", "", ""],
-    [3, "HERO", "", ""],
-    [4, "ビビッドナイトフィーバー!", "", ""],
-    [5, "JUMBLE TOWN", "", ""],
-    [6, "Special Day", "", ""],
-    [7, "あいのうた", "", ""],
-    [8, "君の季節", "", ""],
-    [9, "光の在処", "", ""],
-    [10, "WHAT A WONDERFUL WORLD!", "", ""],
+    [1, "ファントムライツ", "寺島拓篤", ""],
+    [2, "MONSTER", "寺島拓篤", ""],
+    [3, "HERO", "寺島拓篤", ""],
+    [4, "ビビッドナイトフィーバー！", "寺島拓篤", ""],
+    [5, "JUMBLE TOWN", "寺島拓篤", ""],
+    [6, "Special Day", "寺島拓篤", ""],
+    [7, "あいのうた", "寺島拓篤", ""],
+    [8, "君の季節", "寺島拓篤", ""],
+    [9, "光の在処", "寺島拓篤", ""],
+    [10, "WHAT A WONDERFUL WORLD!", "寺島拓篤", ""],
 ]
-links = ["https://vgmdb.net/album/116987"]
+links = ["https://beta.musicbrainz.org/release/e2650fa6-69cd-467c-bbd3-35d1e814df82", "https://vgmdb.net/album/116987"]
+
+[61]
+catalognumber = "LACA-25024"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム「永遠の絆」"
+tracks = [
+    [1, "Make Me Feel Better", "MindaRyn", ""],
+    [2, "浄歌", "TRUE", ""],
+    [3, "SPARKLES", "STEREO DIVE FOUNDATION", ""],
+    [4, "VISIONS", "熊田茜音 feat. 寺島拓篤", ""],
+    [5, "CALL YOUR NAME", "リムル(CV.岡咲美保)、三上悟(CV.寺島拓篤)", ""],
+    [6, "Make Me Feel Better (Instrumental)", "MindaRyn", ""],
+    [7, "浄歌 (Instrumental)", "TRUE", ""],
+    [8, "SPARKLES (Instrumental)", "STEREO DIVE FOUNDATION", ""],
+    [9, "VISIONS (Instrumental)", "熊田茜音", ""],
+    [10, "CALL YOUR NAME (Instrumental)", "リムル(CV.岡咲美保)、三上悟(CV.寺島拓篤)", ""],
+]
+links = ["https://beta.musicbrainz.org/release/cf331c36-baa8-40d5-9f50-4d746a69d340", "https://vgmdb.net/album/123241"]
+
+[62]
+catalognumber = "LACZ-10119"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム「永遠の絆」 [流通限定盤] Vocal"
+tracks = [
+    [1, "Make Me Feel Better", "MindaRyn", ""],
+    [2, "浄歌", "TRUE", ""],
+    [3, "SPARKLES", "STEREO DIVE FOUNDATION", ""],
+    [4, "VISIONS", "熊田茜音 feat. 寺島拓篤", ""],
+    [5, "CALL YOUR NAME", "リムル(CV.岡咲美保)、三上悟(CV.寺島拓篤)", ""],
+    [6, "Make Me Feel Better (Instrumental)", "MindaRyn", ""],
+    [7, "浄歌 (Instrumental)", "TRUE", ""],
+    [8, "SPARKLES (Instrumental)", "STEREO DIVE FOUNDATION", ""],
+    [9, "VISIONS (Instrumental)", "熊田茜音", ""],
+    [10, "CALL YOUR NAME (Instrumental)", "リムル(CV.岡咲美保)、三上悟(CV.寺島拓篤)", ""],
+]
+links = ["https://beta.musicbrainz.org/release/3e29e451-4198-4f24-853f-a19e984f3d25", "https://vgmdb.net/album/123242"]
+
+[63]
+catalognumber = "LACZ-10120"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム「永遠の絆」 [流通限定盤] Drama"
+tracks = [
+    [1, "ドラマCD 「ヴェルドラとミリムのお留守番」", "", ""],
+]
+links = ["https://vgmdb.net/album/123242"]
+
+[64]
+catalognumber = "LZC-2876"
+date = "2024-09-27"
+album = "TVアニメ『転生したらスライムだった件 第3期』オリジナルサウンドトラック「転生したら音楽だった件3」 Disc 1"
+tracks = [
+    [1, "夜魔", "藤間仁", ""],
+    [2, "企み", "藤間仁", ""],
+    [3, "道化師", "藤間仁", ""],
+    [4, "情熱", "藤間仁", ""],
+    [5, "嫌味", "藤間仁", ""],
+    [6, "密謀", "藤間仁", ""],
+    [7, "荒野", "藤間仁", ""],
+    [8, "正義", "藤間仁", ""],
+    [9, "友好", "藤間仁", ""],
+    [10, "対策", "藤間仁", ""],
+    [11, "PEACEKEEPER (TV size)", "STEREO DIVE FOUNDATION", ""],
+    [12, "交渉", "藤間仁", ""],
+    [13, "陽気", "藤間仁", ""],
+    [14, "動揺", "藤間仁", ""],
+    [15, "真実", "藤間仁", ""],
+    [16, "孤高", "藤間仁", ""],
+    [17, "天啓", "藤間仁", ""],
+    [18, "日常", "藤間仁", ""],
+    [19, "議事", "藤間仁", ""],
+    [20, "恋心", "藤間仁", ""],
+    [21, "唖然", "藤間仁", ""],
+    [22, "難航", "藤間仁", ""],
+    [23, "喧騒", "藤間仁", ""],
+    [24, "Believer (TV size)", "来栖りん", ""],
+    [25, "計略", "藤間仁", ""],
+    [26, "悪巧", "藤間仁", ""],
+    [27, "悪意", "藤間仁", ""],
+    [28, "郷愁", "藤間仁", ""],
+    [29, "対立", "藤間仁", ""],
+    [30, "決意", "藤間仁", ""],
+    [31, "衝突", "藤間仁", ""],
+]
+links = ["https://beta.musicbrainz.org/release/86058266-a394-4bf9-87ca-d51f8e966633", "https://vgmdb.net/album/142987"]
+
+[65]
+catalognumber = "LZC-2876"
+date = "2024-09-27"
+album = "TVアニメ『転生したらスライムだった件 第3期』オリジナルサウンドトラック「転生したら音楽だった件3」 Disc 2"
+tracks = [
+    [1, "レナセールセレナーデ (TV size)", "ももいろクローバーZ", ""],
+    [2, "獲得", "藤間仁", ""],
+    [3, "妖艶", "藤間仁", ""],
+    [4, "能天気", "藤間仁", ""],
+    [5, "共鳴", "藤間仁", ""],
+    [6, "帰還", "藤間仁", ""],
+    [7, "困惑", "藤間仁", ""],
+    [8, "新星", "藤間仁", ""],
+    [9, "幻想", "藤間仁", ""],
+    [10, "Miracle soup (TV size)", "MindaRyn", ""],
+    [11, "開戦", "藤間仁", ""],
+    [12, "調べ", "藤間仁", ""],
+    [13, "二重奏", "藤間仁", ""],
+    [14, "新天地", "藤間仁", ""],
+    [15, "迷宮", "藤間仁", ""],
+]
+links = ["https://beta.musicbrainz.org/release/86058266-a394-4bf9-87ca-d51f8e966633", "https://vgmdb.net/album/142987"]
+
+[66]
+catalognumber = "LACZ-10121"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」 [流通限定盤] Original Soundtrack Disc 1"
+tracks = [
+    [1, "魔人", "", ""],
+    [2, "決死", "", ""],
+    [3, "名付け", "", ""],
+    [4, "猛進", "", ""],
+    [5, "愕然", "", ""],
+    [6, "睥睨", "", ""],
+    [7, "急変", "", ""],
+    [8, "有意義", "", ""],
+    [9, "逆襲", "", ""],
+    [10, "一進一退", "", ""],
+    [11, "好意", "", ""],
+    [12, "幼馴染", "", ""],
+    [13, "残忍", "", ""],
+    [14, "楽勝", "", ""],
+    [15, "信頼", "", ""],
+    [16, "決心", "", ""],
+    [17, "対峙", "", ""],
+    [18, "不思議", "", ""],
+    [19, "ティアラ", "", ""],
+    [20, "謀略", "", ""],
+    [21, "優勢", "", ""],
+    [22, "繁栄", "", ""],
+]
+links = ["https://vgmdb.net/album/124527"]
+
+[67]
+catalognumber = "LACZ-10122"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」 [流通限定盤] Original Soundtrack Disc 2"
+tracks = [
+    [1, "愁傷", "", ""],
+    [2, "内密", "", ""],
+    [3, "友情", "", ""],
+    [4, "作戦会議", "", ""],
+    [5, "別れ", "", ""],
+    [6, "暗躍", "", ""],
+    [7, "軍閥", "", ""],
+    [8, "決闘", "", ""],
+    [9, "深刻", "", ""],
+    [10, "孤独", "", ""],
+    [11, "本性", "", ""],
+    [12, "闘気", "", ""],
+    [13, "謎", "", ""],
+    [14, "気まぐれ", "", ""],
+    [15, "争議", "", ""],
+    [16, "契約", "", ""],
+    [17, "攻撃", "", ""],
+    [18, "炎", "", ""],
+    [19, "奮起", "", ""],
+    [20, "通告", "", ""],
+    [21, "掃討", "", ""],
+    [22, "これから", "", ""],
+    [23, "魔王", "", ""],
+]
+links = ["https://vgmdb.net/album/124527"]
+
+[68]
+catalognumber = "LACA-9915"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」 Disc 1 [LACA-9915]"
+tracks = [
+    [1, "魔人", "藤間 仁 (Elements Garden)", ""],
+    [2, "決死", "藤間 仁 (Elements Garden)", ""],
+    [3, "名付け", "藤間 仁 (Elements Garden)", ""],
+    [4, "猛進", "藤間 仁 (Elements Garden)", ""],
+    [5, "愕然", "藤間 仁 (Elements Garden)", ""],
+    [6, "睥睨", "藤間 仁 (Elements Garden)", ""],
+    [7, "急変", "藤間 仁 (Elements Garden)", ""],
+    [8, "有意義", "藤間 仁 (Elements Garden)", ""],
+    [9, "逆襲", "藤間 仁 (Elements Garden)", ""],
+    [10, "一進一退", "藤間 仁 (Elements Garden)", ""],
+    [11, "好意", "藤間 仁 (Elements Garden)", ""],
+    [12, "幼馴染", "藤間 仁 (Elements Garden)", ""],
+    [13, "残忍", "藤間 仁 (Elements Garden)", ""],
+    [14, "楽勝", "藤間 仁 (Elements Garden)", ""],
+    [15, "信頼", "藤間 仁 (Elements Garden)", ""],
+    [16, "決心", "藤間 仁 (Elements Garden)", ""],
+    [17, "対峙", "藤間 仁 (Elements Garden)", ""],
+    [18, "不思議", "藤間 仁 (Elements Garden)", ""],
+    [19, "ティアラ", "藤間 仁 (Elements Garden)", ""],
+    [20, "謀略", "藤間 仁 (Elements Garden)", ""],
+    [21, "優勢", "藤間 仁 (Elements Garden)", ""],
+    [22, "繁栄", "藤間 仁 (Elements Garden)", ""],
+]
+links = ["https://beta.musicbrainz.org/release/f93035f8-a366-4614-8cec-04020b37260a", "https://vgmdb.net/album/123209"]
+
+[69]
+catalognumber = "LACA-9916"
+date = "2022-11-25"
+album = "『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」 Disc 2 [LACA-9916]"
+tracks = [
+    [1, "愁傷", "藤間 仁 (Elements Garden)", ""],
+    [2, "内密", "藤間 仁 (Elements Garden)", ""],
+    [3, "友情", "藤間 仁 (Elements Garden)", ""],
+    [4, "作戦会議", "藤間 仁 (Elements Garden)", ""],
+    [5, "別れ", "藤間 仁 (Elements Garden)", ""],
+    [6, "暗躍", "藤間 仁 (Elements Garden)", ""],
+    [7, "軍閥", "藤間 仁 (Elements Garden)", ""],
+    [8, "決闘", "藤間 仁 (Elements Garden)", ""],
+    [9, "深刻", "藤間 仁 (Elements Garden)", ""],
+    [10, "孤独", "藤間 仁 (Elements Garden)", ""],
+    [11, "本性", "藤間 仁 (Elements Garden)", ""],
+    [12, "闘気", "藤間 仁 (Elements Garden)", ""],
+    [13, "謎", "藤間 仁 (Elements Garden)", ""],
+    [14, "気まぐれ", "藤間 仁 (Elements Garden)", ""],
+    [15, "争議", "藤間 仁 (Elements Garden)", ""],
+    [16, "契約", "藤間 仁 (Elements Garden)", ""],
+    [17, "攻撃", "藤間 仁 (Elements Garden)", ""],
+    [18, "炎", "藤間 仁 (Elements Garden)", ""],
+    [19, "奮起", "藤間 仁 (Elements Garden)", ""],
+    [20, "通告", "藤間 仁 (Elements Garden)", ""],
+    [21, "掃討", "藤間 仁 (Elements Garden)", ""],
+    [22, "これから", "藤間 仁 (Elements Garden)", ""],
+    [23, "魔王", "藤間 仁 (Elements Garden)", ""],
+]
+links = ["https://beta.musicbrainz.org/release/f93035f8-a366-4614-8cec-04020b37260a", "https://vgmdb.net/album/123209"]
