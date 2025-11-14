@@ -4,7 +4,7 @@ date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Roselia"
 tracks = [
     [1, "君じゃなきゃダメみたい (game size ver.)", "", ""],
-    [2, "Redo (game size ver.)", "", ""],
+    [2, "Redo (game size ver.)", "", "0"],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
     [5, "GO! GO! MANIAC (game size ver.)", "", ""],
@@ -16,10 +16,10 @@ catalognumber = "ZMCZ-10605"
 date = "2016-05-25"
 album = "STYX HELIX / MYTH & ROID"
 tracks = [
-    [1, "STYX HELIX", "MYTH & ROID", ""],
-    [2, "STRAIGHT BET", "MYTH & ROID", ""],
-    [3, "STYX HELIX (INSTRUMENTAL)", "MYTH & ROID", ""],
-    [4, "STRAIGHT BET (INSTRUMENTAL)", "MYTH & ROID", ""],
+    [1, "STYX HELIX", "MYTH & ROID", "0"],
+    [2, "STRAIGHT BET", "MYTH & ROID", "0"],
+    [3, "STYX HELIX (INSTRUMENTAL)", "MYTH & ROID", "0"],
+    [4, "STRAIGHT BET (INSTRUMENTAL)", "MYTH & ROID", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/668d8d8d-9c47-4dbf-985d-72be10082cd4", "https://vgmdb.net/album/57305"]
 
@@ -75,10 +75,10 @@ catalognumber = "ZMCZ-14011"
 date = "2020-08-26"
 album = "Realize / 鈴木このみ"
 tracks = [
-    [1, "Realize", "鈴木このみ", ""],
-    [2, "A Beautiful Mistake", "鈴木このみ", ""],
-    [3, "Realize (instrumental)", "鈴木このみ", ""],
-    [4, "A Beautiful Mistake (instrumental)", "鈴木このみ", ""],
+    [1, "Realize", "鈴木このみ", "0"],
+    [2, "A Beautiful Mistake", "鈴木このみ", "0"],
+    [3, "Realize (instrumental)", "鈴木このみ", "0"],
+    [4, "A Beautiful Mistake (instrumental)", "鈴木このみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b6c88b3c-469e-4e88-80c2-78b164a360e0", "https://vgmdb.net/album/96249"]
 
@@ -93,7 +93,7 @@ tracks = [
     [4, "abnormalize", "Afterglow", ""],
     [5, "春を告げる", "Pastel＊Palettes", ""],
     [6, "Sparkling Daydream", "Pastel＊Palettes", ""],
-    [7, "Realize", "Roselia", ""],
+    [7, "Realize", "Roselia", "0"],
     [8, "Preserved Roses", "Roselia×蘭", ""],
     [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", ""],
     [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", ""],
@@ -127,7 +127,7 @@ catalognumber = "PLJS-36142"
 date = "2021-01-28"
 album = "Re:ゼロから始める異世界生活 偽りの王選候補 オリジナル・サウンドトラック"
 tracks = [
-    [1, "Reline", "", ""],
+    [1, "Reline", "", "0"],
     [2, "蘇りの螺旋 〜タイトル〜", "", ""],
     [3, "ゲームメニュー", "", ""],
     [4, "ワールドマップテーマ", "", ""],
@@ -171,9 +171,9 @@ date = "2019-10-23"
 album = "TIT FOR TAT / MYTH & ROID"
 tracks = [
     [1, "TIT FOR TAT", "MYTH & ROID", ""],
-    [2, "STYX HELIX -KIHOW style edition-", "MYTH & ROID", ""],
+    [2, "STYX HELIX -KIHOW style edition-", "MYTH & ROID", "0"],
     [3, "TIT FOR TAT (instrumental)", "MYTH & ROID", ""],
-    [4, "STYX HELIX -KIHOW style edition- (instrumental)", "MYTH & ROID", ""],
+    [4, "STYX HELIX -KIHOW style edition- (instrumental)", "MYTH & ROID", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/78d1f32e-c4f4-4958-88c7-8bd284df8a4c", "https://vgmdb.net/album/89671"]
 
@@ -183,7 +183,7 @@ date = "2021-01-29"
 album = "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne Collector's Edition Soundtrack"
 tracks = [
     [1, "Spiral of Rebirth -Main Title Theme-", "Takashi Okamoto", ""],
-    [2, "Reline", "Takashi Okamoto", ""],
+    [2, "Reline", "Takashi Okamoto", "0"],
     [3, "Game Menu", "Takashi Okamoto", ""],
     [4, "World Map Theme", "Takashi Okamoto", ""],
     [5, "Peace and Quiet", "Takashi Okamoto", ""],
@@ -251,7 +251,7 @@ tracks = [
     [8, "Absolute Soul", "鈴木このみ", ""],
     [9, "東のシンドバッド", "鈴木このみ", ""],
     [10, "Beat your Heart", "鈴木このみ", ""],
-    [11, "Redo", "鈴木このみ", ""],
+    [11, "Redo", "鈴木このみ", "0"],
     [12, "Moment", "鈴木このみ", ""],
     [13, "全部君がいたから知ったんだ", "鈴木このみ", ""],
 ]
@@ -275,10 +275,10 @@ album = "バンドリ! ガールズバンドパーティ! カバーコレクシ�
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
     [2, "DAYS", "Poppin'Party", ""],
-    [3, "Redo", "Afterglow", ""],
+    [3, "Redo", "Afterglow", "0"],
     [4, "ロストワンの号哭", "Afterglow", ""],
     [5, "ハッピーシンセサイザ", "Pastel＊Palettes", ""],
-    [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
+    [6, "世界は恋に落ちている", "Pastel＊Palettes", "0"],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
     [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
@@ -294,7 +294,7 @@ date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD ハロー、ハッピーワールド!"
 tracks = [
     [1, "君じゃなきゃダメみたい (game size ver.)", "", ""],
-    [2, "Redo (game size ver.)", "", ""],
+    [2, "Redo (game size ver.)", "", "0"],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
     [5, "GO! GO! MANIAC (game size ver.)", "", ""],
@@ -307,7 +307,7 @@ date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Pastel*Palettes"
 tracks = [
     [1, "君じゃなきゃダメみたい (game size ver.)", "", ""],
-    [2, "Redo (game size ver.)", "", ""],
+    [2, "Redo (game size ver.)", "", "0"],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
     [5, "GO! GO! MANIAC (game size ver.)", "", ""],
@@ -347,35 +347,35 @@ catalognumber = "ZMCZ-12642"
 date = "2018-10-24"
 album = "OVA「Re:ゼロから始める異世界生活 Memory Snow」Memory Album"
 tracks = [
-    [1, "英雄のタクト -起源-", "末廣健一郎", ""],
-    [2, "空想クラップ", "末廣健一郎", ""],
-    [3, "始まりの音色", "末廣健一郎", ""],
-    [4, "毛並み職人", "末廣健一郎", ""],
-    [5, "おたんこナス", "末廣健一郎", ""],
-    [6, "寝起きとレム", "末廣健一郎", ""],
-    [7, "よあけのみち", "末廣健一郎", ""],
-    [8, "Relive", "nonoc", ""],
-    [9, "リンガ", "末廣健一郎", ""],
-    [10, "エミリアの隠し事", "末廣健一郎", ""],
-    [11, "ロズワール", "末廣健一郎", ""],
-    [12, "発魔期", "末廣健一郎", ""],
-    [13, "笛と創造の散歩者", "末廣健一郎", ""],
-    [14, "スバル協奏曲", "末廣健一郎", ""],
-    [15, "異世界行進曲", "末廣健一郎", ""],
-    [16, "相談中", "末廣健一郎", ""],
-    [17, "侵食のマハト", "末廣健一郎", ""],
-    [18, "運命の起動", "末廣健一郎", ""],
-    [19, "チキチキ", "末廣健一郎", ""],
-    [20, "Memories", "安月名莉子", ""],
-    [21, "時と空の思い出", "末廣健一郎", ""],
-    [22, "雪まつり", "末廣健一郎", ""],
-    [23, "EMT!!", "末廣健一郎", ""],
-    [24, "賑やかな日々", "末廣健一郎", ""],
-    [25, "思考回路", "末廣健一郎", ""],
-    [26, "宴の夜", "末廣健一郎", ""],
-    [27, "魅惑の酒", "末廣健一郎", ""],
-    [28, "Memory Snow", "末廣健一郎", ""],
-    [29, "White White Snow", "nonoc", ""],
+    [1, "英雄のタクト -起源-", "末廣健一郎", "0"],
+    [2, "空想クラップ", "末廣健一郎", "0"],
+    [3, "始まりの音色", "末廣健一郎", "0"],
+    [4, "毛並み職人", "末廣健一郎", "0"],
+    [5, "おたんこナス", "末廣健一郎", "0"],
+    [6, "寝起きとレム", "末廣健一郎", "0"],
+    [7, "よあけのみち", "末廣健一郎", "0"],
+    [8, "Relive", "nonoc", "0"],
+    [9, "リンガ", "末廣健一郎", "0"],
+    [10, "エミリアの隠し事", "末廣健一郎", "0"],
+    [11, "ロズワール", "末廣健一郎", "0"],
+    [12, "発魔期", "末廣健一郎", "0"],
+    [13, "笛と創造の散歩者", "末廣健一郎", "0"],
+    [14, "スバル協奏曲", "末廣健一郎", "0"],
+    [15, "異世界行進曲", "末廣健一郎", "0"],
+    [16, "相談中", "末廣健一郎", "0"],
+    [17, "侵食のマハト", "末廣健一郎", "0"],
+    [18, "運命の起動", "末廣健一郎", "0"],
+    [19, "チキチキ", "末廣健一郎", "0"],
+    [20, "Memories", "安月名莉子", "0"],
+    [21, "時と空の思い出", "末廣健一郎", "0"],
+    [22, "雪まつり", "末廣健一郎", "0"],
+    [23, "EMT!!", "末廣健一郎", "0"],
+    [24, "賑やかな日々", "末廣健一郎", "0"],
+    [25, "思考回路", "末廣健一郎", "0"],
+    [26, "宴の夜", "末廣健一郎", "0"],
+    [27, "魅惑の酒", "末廣健一郎", "0"],
+    [28, "Memory Snow", "末廣健一郎", "0"],
+    [29, "White White Snow", "nonoc", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5ed19d46-bf00-4f3d-a7d4-45c71ebe56c8", "https://vgmdb.net/album/79687"]
 
@@ -413,7 +413,7 @@ tracks = [
     [6, "DISCOTHEQUE", "Pastel＊Palettes", ""],
     [7, "ゆりゆららららゆるゆり大事件", "Pastel＊Palettes", ""],
     [8, "SAKURAスキップ", "Pastel＊Palettes", ""],
-    [9, "Stay Alive", "Pastel＊Palettes", ""],
+    [9, "Stay Alive", "Pastel＊Palettes", "0"],
     [10, "秘密の扉から会いにきて", "Pastel＊Palettes", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f468c22a-42f8-4dca-9bd8-a0355064a6fc", "https://vgmdb.net/album/130157"]
@@ -423,11 +423,11 @@ catalognumber = "ZMCZ-10604"
 date = "2016-05-11"
 album = "Redo / 鈴木このみ"
 tracks = [
-    [1, "Redo", "鈴木このみ", ""],
-    [2, "メビウス", "鈴木このみ", ""],
-    [3, "世界は疵を抱きしめる (Acoustic ver.)", "鈴木このみ", ""],
-    [4, "Redo (instrumental)", "鈴木このみ", ""],
-    [5, "メビウス (instrumental)", "鈴木このみ", ""],
+    [1, "Redo", "鈴木このみ", "0"],
+    [2, "メビウス", "鈴木このみ", "0"],
+    [3, "世界は疵を抱きしめる (Acoustic ver.)", "鈴木このみ", "0"],
+    [4, "Redo (instrumental)", "鈴木このみ", "0"],
+    [5, "メビウス (instrumental)", "鈴木このみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9d223c2b-7006-4571-aec4-a2ccb0ad40a5", "https://vgmdb.net/album/57297"]
 
@@ -438,15 +438,15 @@ album = "LIFE of DASH / 鈴木このみ"
 tracks = [
     [1, "CHOIR JAIL", "鈴木このみ", ""],
     [2, "DAYS of DASH", "鈴木このみ", ""],
-    [3, "夢の続き", "鈴木このみ", ""],
+    [3, "夢の続き", "鈴木このみ", "0"],
     [4, "私がモテないのはどう考えてもお前らが悪い", "鈴木このみ n' キバオブアキバ", ""],
     [5, "AVENGE WORLD", "鈴木このみ", ""],
-    [6, "世界は疵を抱きしめる", "鈴木このみ", ""],
+    [6, "世界は疵を抱きしめる", "鈴木このみ", "0"],
     [7, "This game", "鈴木このみ", ""],
     [8, "銀閃の風", "鈴木このみ", ""],
     [9, "Absolute Soul", "鈴木このみ", ""],
     [10, "Beat your Heart", "鈴木このみ", ""],
-    [11, "Redo", "鈴木このみ", ""],
+    [11, "Redo", "鈴木このみ", "0"],
     [12, "Love is MY RAIL -running start-", "鈴木このみ", ""],
     [13, "カオスシンドローム", "鈴木このみ", ""],
     [14, "Blow out", "鈴木このみ", ""],
@@ -488,10 +488,10 @@ catalognumber = "ZMCZ-14611"
 date = "2021-02-24"
 album = "Long shot / 前島麻由"
 tracks = [
-    [1, "Long shot", "前島麻由", ""],
-    [2, "Reline", "前島麻由", ""],
-    [3, "Long shot (instrumental)", "前島麻由", ""],
-    [4, "Reline (instrumental)", "前島麻由", ""],
+    [1, "Long shot", "前島麻由", "0"],
+    [2, "Reline", "前島麻由", "0"],
+    [3, "Long shot (instrumental)", "前島麻由", "0"],
+    [4, "Reline (instrumental)", "前島麻由", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ee96985d-199b-4c5d-a92c-b9dd7c34b0a7", "https://vgmdb.net/album/106456"]
 
@@ -518,7 +518,7 @@ tracks = [
     [4, "徒花ネクロマンシー", "佐咲紗花", ""],
     [5, "廻廻奇譚", "佐咲紗花", ""],
     [6, "怪物", "佐咲紗花", ""],
-    [7, "Stay Alive", "佐咲紗花", ""],
+    [7, "Stay Alive", "佐咲紗花", "0"],
     [8, "回レ!雪月花", "佐咲紗花 × atsuko (angela)", ""],
     [9, "ポラリス", "佐咲紗花", ""],
     [10, "牙狼〜SAVIOR IN THE DARK〜", "佐咲紗花", ""],
@@ -536,7 +536,7 @@ tracks = [
     [4, "ドラマツルギー", "Afterglow×香澄", ""],
     [5, "花ハ踊レヤいろはにほ", "Pastel＊Palettes", ""],
     [6, "春擬き", "Pastel＊Palettes", ""],
-    [7, "Paradisus-Paradoxum", "Roselia", ""],
+    [7, "Paradisus-Paradoxum", "Roselia", "0"],
     [8, "甲賀忍法帖", "Roselia", ""],
     [9, "ウィーアー!", "ハロー、ハッピーワールド！", ""],
     [10, "おジャ魔女カーニバル!!", "ハロー、ハッピーワールド！", ""],
@@ -615,10 +615,10 @@ album = "MUSEUM / MYTH & ROID [Limited Edition] Disc 1 (CD)"
 tracks = [
     [1, "L.L.L.", "MYTH & ROID", ""],
     [2, "ANGER/ANGER", "MYTH & ROID", ""],
-    [3, "STYX HELIX", "MYTH & ROID", ""],
-    [4, "STRAIGHT BET", "MYTH & ROID", ""],
-    [5, "Paradisus-Paradoxum", "MYTH & ROID", ""],
-    [6, "theater D", "MYTH & ROID", ""],
+    [3, "STYX HELIX", "MYTH & ROID", "0"],
+    [4, "STRAIGHT BET", "MYTH & ROID", "0"],
+    [5, "Paradisus-Paradoxum", "MYTH & ROID", "0"],
+    [6, "theater D", "MYTH & ROID", "0"],
     [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", ""],
     [8, "JINGO JUNGLE", "MYTH & ROID", ""],
     [9, "Remembrance", "MYTH & ROID", ""],
@@ -664,7 +664,7 @@ catalognumber = "TBZR-0719"
 date = "2016-09-28"
 album = "ラジオCD「Re:ゼロから始める異世界ラジオ生活」Vol.2 Disc 1 (CD) [TBZR-0719]"
 tracks = [
-    [1, "新規録りおろしラジオ", "", ""],
+    [1, "新規録りおろしラジオ", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84290"]
 
@@ -673,14 +673,14 @@ catalognumber = "TBZR-0720"
 date = "2016-09-28"
 album = "ラジオCD「Re:ゼロから始める異世界ラジオ生活」Vol.2 Disc 2 (CD-ROM) [TBZR-0720]"
 tracks = [
-    [1, "rezero_09", "", ""],
-    [2, "rezero_10", "", ""],
-    [3, "rezero_11", "", ""],
-    [4, "rezero_12", "", ""],
-    [5, "rezero_13", "", ""],
-    [6, "rezero_14", "", ""],
-    [7, "rezero_15", "", ""],
-    [8, "rezero_16", "", ""],
+    [1, "rezero_09", "", "0"],
+    [2, "rezero_10", "", "0"],
+    [3, "rezero_11", "", "0"],
+    [4, "rezero_12", "", "0"],
+    [5, "rezero_13", "", "0"],
+    [6, "rezero_14", "", "0"],
+    [7, "rezero_15", "", "0"],
+    [8, "rezero_16", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84290"]
 
@@ -734,11 +734,11 @@ catalognumber = "ZMCZ-10603"
 date = "2016-05-11"
 album = "Redo / 鈴木このみ Disc 1 (CD)"
 tracks = [
-    [1, "Redo", "鈴木このみ", ""],
-    [2, "メビウス", "鈴木このみ", ""],
-    [3, "夢の続き (Acoustic ver.)", "鈴木このみ", ""],
-    [4, "Redo (instrumental)", "鈴木このみ", ""],
-    [5, "メビウス (instrumental)", "鈴木このみ", ""],
+    [1, "Redo", "鈴木このみ", "0"],
+    [2, "メビウス", "鈴木このみ", "0"],
+    [3, "夢の続き (Acoustic ver.)", "鈴木このみ", "0"],
+    [4, "Redo (instrumental)", "鈴木このみ", "0"],
+    [5, "メビウス (instrumental)", "鈴木このみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/93efb5ee-b455-4508-a3b5-e34b6e21d208", "https://vgmdb.net/album/57298"]
 
@@ -747,8 +747,8 @@ catalognumber = "ZMCZ-10603"
 date = "2016-05-11"
 album = "Redo / 鈴木このみ Disc 2 (DVD)"
 tracks = [
-    [1, "Redo (Music Video)", "", ""],
-    [2, "Redo (Music Video Making)", "", ""],
+    [1, "Redo (Music Video)", "", "0"],
+    [2, "Redo (Music Video Making)", "", "0"],
     [3, "鈴木このみ 1st Live Tour 2015 ～Nice to ME CHU!!!～ 東京公演 (2015.10.12@Zepp Tokyo) ライブ映像", "", ""],
 ]
 links = ["https://vgmdb.net/album/57298"]
@@ -758,14 +758,14 @@ catalognumber = "ZMCZ-14721"
 date = "2021-03-24"
 album = "TVアニメ「Re:ゼロから始める異世界生活」キャラクターソングアルバム"
 tracks = [
-    [1, "Stay Alive", "エミリア(CV:高橋李依)", ""],
-    [2, "Wishing", "レム(CV:水瀬いのり)", ""],
-    [3, "Re:lation", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", ""],
-    [4, "Chu♡Loveサマー", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", ""],
-    [5, "ゼロから始める異世界体操!", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", ""],
-    [6, "ぼうやの夢よ", "エミリア(CV:高橋李依)", ""],
-    [7, "あなたの知らないこと", "ラム(CV:村川梨衣)", ""],
-    [8, "Door", "エミリア(CV:高橋李依)", ""],
+    [1, "Stay Alive", "エミリア(CV:高橋李依)", "0"],
+    [2, "Wishing", "レム(CV:水瀬いのり)", "0"],
+    [3, "Re:lation", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", "1"],
+    [4, "Chu♡Loveサマー", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", "1"],
+    [5, "ゼロから始める異世界体操!", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", "0"],
+    [6, "ぼうやの夢よ", "エミリア(CV:高橋李依)", "0"],
+    [7, "あなたの知らないこと", "ラム(CV:村川梨衣)", "0"],
+    [8, "Door", "エミリア(CV:高橋李依)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d9d31855-d05c-4c1f-b7c3-8d4153a4952a", "https://vgmdb.net/album/107997"]
 
@@ -792,12 +792,12 @@ album = "eYe's / MYTH & ROID [初回限定盤] Vocal, Remix"
 tracks = [
     [1, "- A beginning -", "MYTH & ROID", ""],
     [2, "TRAGEDY:ETERNITY", "MYTH & ROID", ""],
-    [3, "Paradisus‐Paradoxum", "MYTH & ROID", ""],
-    [4, "STYX HELIX", "MYTH & ROID", ""],
+    [3, "Paradisus‐Paradoxum", "MYTH & ROID", "0"],
+    [4, "STYX HELIX", "MYTH & ROID", "0"],
     [5, "雪を聴く夜", "MYTH & ROID", ""],
     [6, "Tough & Alone", "MYTH & ROID", ""],
     [7, "ANGER/ANGER", "MYTH & ROID", ""],
-    [8, "theater D", "MYTH & ROID", ""],
+    [8, "theater D", "MYTH & ROID", "0"],
     [9, "JINGO JUNGLE -HBB Remix-", "MYTH & ROID", ""],
     [10, "Crazy Scary Holy Fantasy", "MYTH & ROID", ""],
     [11, "L.L.L.", "MYTH & ROID", ""],
@@ -815,8 +815,8 @@ tracks = [
     [1, "TRAGEDY:ETERNITY Music Video", "MYTH & ROID", ""],
     [2, "L.L.L. Music Video", "MYTH & ROID", ""],
     [3, "ANGER/ANGER Music Video", "MYTH & ROID", ""],
-    [4, "STYX HELIX Music Video", "MYTH & ROID", ""],
-    [5, "Paradisus‐Paradoxum Music Video", "MYTH & ROID", ""],
+    [4, "STYX HELIX Music Video", "MYTH & ROID", "0"],
+    [5, "Paradisus‐Paradoxum Music Video", "MYTH & ROID", "0"],
     [6, "JINGO JUNGLE Music Video", "MYTH & ROID", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/3eb7c82b-0581-43e1-8a79-7672b1f26c19", "https://vgmdb.net/album/64785"]
@@ -873,7 +873,7 @@ date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Afterglow"
 tracks = [
     [1, "君じゃなきゃダメみたい (game size ver.)", "", ""],
-    [2, "Redo (game size ver.)", "", ""],
+    [2, "Redo (game size ver.)", "", "0"],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
     [5, "GO! GO! MANIAC (game size ver.)", "", ""],
@@ -895,7 +895,7 @@ tracks = [
     [8, "舞い降りてきた雪", "恋とプロデューサー featuring Konomi Suzuki", ""],
     [9, "Theater of Life", "鈴木このみ", ""],
     [10, "命の灯火", "鈴木このみ", ""],
-    [11, "Realize", "鈴木このみ", ""],
+    [11, "Realize", "鈴木このみ", "0"],
     [12, "メロディックロードムービー", "鈴木このみ feat.伊東歌詞太郎", ""],
     [13, "Ordinary Wish", "鈴木このみ", ""],
 ]
@@ -913,7 +913,7 @@ catalognumber = ""
 date = "2020-09-21"
 album = "theater D (cover ver.) [feat. 鳴花ヒメ・ミコト] / タカオカミズキ"
 tracks = [
-    [1, "theater D (cover ver.) [feat. 鳴花ヒメ・ミコト]", "", ""],
+    [1, "theater D (cover ver.) [feat. 鳴花ヒメ・ミコト]", "", "0"],
 ]
 links = ["https://vgmdb.net/album/109192"]
 
@@ -922,7 +922,7 @@ catalognumber = "LZC-2038"
 date = "2021-12-01"
 album = "STAY ALIVE SAYAKAVER. ～triangle～ ver. / 佐咲紗花"
 tracks = [
-    [1, "Stay Alive SAYAKAVER. 〜triangle〜 ver.", "佐咲紗花", ""],
+    [1, "Stay Alive SAYAKAVER. 〜triangle〜 ver.", "佐咲紗花", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9812da21-f9c2-4061-b679-12cc787b378b", "https://vgmdb.net/album/116367"]
 
@@ -946,9 +946,9 @@ date = "2019-07-24"
 album = "PANTA RHEI / MYTH & ROID"
 tracks = [
     [1, "PANTA RHEI", "MYTH & ROID", ""],
-    [2, "Paradisus‐Paradoxum –KIHOW style edition–", "MYTH & ROID", ""],
+    [2, "Paradisus‐Paradoxum –KIHOW style edition–", "MYTH & ROID", "0"],
     [3, "PANTA RHEI(instrumental)", "MYTH & ROID", ""],
-    [4, "Paradisus‐Paradoxum –KIHOW style edition–(instrumental)", "MYTH & ROID", ""],
+    [4, "Paradisus‐Paradoxum –KIHOW style edition–(instrumental)", "MYTH & ROID", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a1289e9b-2e3b-41df-adab-5ba81036b300", "https://vgmdb.net/album/86623"]
 
@@ -957,12 +957,12 @@ catalognumber = "ZMCZ-10784"
 date = "2016-08-24"
 album = "Stay Alive / エミリア (CV:高橋李依)"
 tracks = [
-    [1, "Stay Alive", "エミリア(CV:高橋李依)", ""],
-    [2, "Wishing", "レム(CV:水瀬いのり)", ""],
-    [3, "ぼうやの夢よ", "エミリア(CV:高橋李依)", ""],
-    [4, "Stay Alive (instrumental)", "エミリア(CV:高橋李依)", ""],
-    [5, "Wishing (instrumental)", "レム(CV:水瀬いのり)", ""],
-    [6, "ぼうやの夢よ (instrumental)", "エミリア(CV:高橋李依)", ""],
+    [1, "Stay Alive", "エミリア(CV:高橋李依)", "0"],
+    [2, "Wishing", "レム(CV:水瀬いのり)", "1"],
+    [3, "ぼうやの夢よ", "エミリア(CV:高橋李依)", "0"],
+    [4, "Stay Alive (instrumental)", "エミリア(CV:高橋李依)", "0"],
+    [5, "Wishing (instrumental)", "レム(CV:水瀬いのり)", "0"],
+    [6, "ぼうやの夢よ (instrumental)", "エミリア(CV:高橋李依)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ca344c5b-9c69-4283-8383-e7c4c026d571", "https://vgmdb.net/album/59422"]
 
@@ -977,7 +977,7 @@ tracks = [
     [4, "地球ぎ", "松澤由美", ""],
     [5, "愛してるばんざーい!", "松澤由美", ""],
     [6, "メリッサ", "松澤由美", ""],
-    [7, "STYX HELIX", "松澤由美", ""],
+    [7, "STYX HELIX", "松澤由美", "0"],
     [8, "Magia", "松澤由美", ""],
     [9, "プラチナ", "松澤由美", ""],
     [10, "キョウメイ〜Résonance〜", "松澤由美", ""],
@@ -1000,7 +1000,7 @@ tracks = [
     [8, "舞い降りてきた雪", "恋とプロデューサー featuring Konomi Suzuki", ""],
     [9, "Theater of Life", "鈴木このみ", ""],
     [10, "命の灯火", "鈴木このみ", ""],
-    [11, "Realize", "鈴木このみ", ""],
+    [11, "Realize", "鈴木このみ", "0"],
     [12, "メロディックロードムービー", "鈴木このみ feat.伊東歌詞太郎", ""],
     [13, "Ordinary Wish", "鈴木このみ", ""],
 ]
@@ -1023,10 +1023,10 @@ album = "バンドリ! ガールズバンドパーティ! カバーコレクシ�
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
     [2, "DAYS", "Poppin'Party", ""],
-    [3, "Redo", "Afterglow", ""],
+    [3, "Redo", "Afterglow", "0"],
     [4, "ロストワンの号哭", "Afterglow", ""],
     [5, "ハッピーシンセサイザ", "Pastel＊Palettes", ""],
-    [6, "世界は恋に落ちている", "Pastel＊Palettes", ""],
+    [6, "世界は恋に落ちている", "Pastel＊Palettes", "0"],
     [7, "深愛", "Roselia", ""],
     [8, "シャルル", "Roselia", ""],
     [9, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
@@ -1042,7 +1042,7 @@ date = "2020-06-01"
 album = "バンドリ! ガールズバンドパーティ! カバコレ Special Selection"
 tracks = [
     [1, "君じゃなきゃダメみたい", "Poppin'Party", ""],
-    [2, "Redo", "Afterglow", ""],
+    [2, "Redo", "Afterglow", "0"],
     [3, "ふわふわ時間", "Pastel＊Palettes", ""],
     [4, "魂のルフラン", "Roselia", ""],
     [5, "GO! GO! MANIAC", "ハロー、ハッピーワールド！", ""],
@@ -1056,10 +1056,10 @@ album = "MUSEUM / MYTH & ROID"
 tracks = [
     [1, "L.L.L.", "MYTH & ROID", ""],
     [2, "ANGER/ANGER", "MYTH & ROID", ""],
-    [3, "STYX HELIX", "MYTH & ROID", ""],
-    [4, "STRAIGHT BET", "MYTH & ROID", ""],
-    [5, "Paradisus-Paradoxum", "MYTH & ROID", ""],
-    [6, "theater D", "MYTH & ROID", ""],
+    [3, "STYX HELIX", "MYTH & ROID", "0"],
+    [4, "STRAIGHT BET", "MYTH & ROID", "0"],
+    [5, "Paradisus-Paradoxum", "MYTH & ROID", "0"],
+    [6, "theater D", "MYTH & ROID", "0"],
     [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", ""],
     [8, "JINGO JUNGLE", "MYTH & ROID", ""],
     [9, "Remembrance", "MYTH & ROID", ""],
@@ -1090,10 +1090,10 @@ catalognumber = "ZMCZ-14012"
 date = "2020-09-02"
 album = "Memento / nonoc"
 tracks = [
-    [1, "Memento", "nonoc", ""],
-    [2, "雪の果てに君の名を", "nonoc", ""],
-    [3, "Memento (instrumental)", "nonoc", ""],
-    [4, "雪の果てに君の名を (instrumental)", "nonoc", ""],
+    [1, "Memento", "nonoc", "0"],
+    [2, "雪の果てに君の名を", "nonoc", "0"],
+    [3, "Memento (instrumental)", "nonoc", "0"],
+    [4, "雪の果てに君の名を (instrumental)", "nonoc", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/536d1f6a-eda2-49bb-a267-1939138b18ac", "https://vgmdb.net/album/96267"]
 
@@ -1109,24 +1109,24 @@ catalognumber = "ZMCZ-13561"
 date = "2019-11-08"
 album = "OVA「Re:ゼロから始める異世界生活 氷結の絆」オリジナルサウンドトラック"
 tracks = [
-    [1, "Prologue", "末廣健一郎", ""],
-    [2, "Conversation", "末廣健一郎", ""],
-    [3, "In the forest", "末廣健一郎", ""],
-    [4, "Quiet tension", "末廣健一郎", ""],
-    [5, "Jealous Witch", "末廣健一郎", ""],
-    [6, "Eerie", "末廣健一郎", ""],
-    [7, "Negotiation", "末廣健一郎", ""],
-    [8, "Statues", "末廣健一郎", ""],
-    [9, "Conciliator", "末廣健一郎", ""],
-    [10, "Black Water", "末廣健一郎", ""],
-    [11, "Determination", "末廣健一郎", ""],
-    [12, "Vengeance", "末廣健一郎", ""],
-    [13, "I don't know", "末廣健一郎", ""],
-    [14, "Pack has come", "末廣健一郎", ""],
-    [15, "Her fate", "末廣健一郎", ""],
-    [16, "Contract", "末廣健一郎", ""],
-    [17, "I am Emilia", "末廣健一郎", ""],
-    [18, "The beauty of the world", "末廣健一郎", ""],
+    [1, "Prologue", "末廣健一郎", "0"],
+    [2, "Conversation", "末廣健一郎", "0"],
+    [3, "In the forest", "末廣健一郎", "0"],
+    [4, "Quiet tension", "末廣健一郎", "0"],
+    [5, "Jealous Witch", "末廣健一郎", "0"],
+    [6, "Eerie", "末廣健一郎", "0"],
+    [7, "Negotiation", "末廣健一郎", "0"],
+    [8, "Statues", "末廣健一郎", "0"],
+    [9, "Conciliator", "末廣健一郎", "0"],
+    [10, "Black Water", "末廣健一郎", "0"],
+    [11, "Determination", "末廣健一郎", "0"],
+    [12, "Vengeance", "末廣健一郎", "0"],
+    [13, "I don't know", "末廣健一郎", "0"],
+    [14, "Pack has come", "末廣健一郎", "0"],
+    [15, "Her fate", "末廣健一郎", "0"],
+    [16, "Contract", "末廣健一郎", "0"],
+    [17, "I am Emilia", "末廣健一郎", "0"],
+    [18, "The beauty of the world", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2aec4cef-3eab-420a-95d6-4fdd8b9c7b2d", "https://vgmdb.net/album/89044"]
 
@@ -1135,25 +1135,25 @@ catalognumber = "ZMXZ-10657-CD"
 date = "2016-12-21"
 album = "Re:ゼロから始める異世界生活 スペシャルサウンドトラックCD 2"
 tracks = [
-    [1, "英雄のタクト -起源-", "末廣健一郎", ""],
-    [2, "絶望と贖罪のヒュムネ", "末廣健一郎", ""],
-    [3, "親竜王国ルグニカ", "末廣健一郎", ""],
-    [4, "王選の時", "末廣健一郎", ""],
-    [5, "玉座の間", "末廣健一郎", ""],
-    [6, "運命の起動", "末廣健一郎", ""],
-    [7, "決意の鼓動", "末廣健一郎", ""],
-    [8, "霧の足音", "末廣健一郎", ""],
-    [9, "混沌ノイズ", "末廣健一郎", ""],
-    [10, "思慮と考証", "末廣健一郎", ""],
-    [11, "過去と未来の分岐", "末廣健一郎", ""],
-    [12, "安息のリヒト", "末廣健一郎", ""],
-    [13, "怠惰", "末廣健一郎", ""],
-    [14, "沈黙のレクイエム", "末廣健一郎", ""],
-    [15, "決戦の序曲", "末廣健一郎", ""],
-    [16, "侵食のマハト", "末廣健一郎", ""],
-    [17, "勝利の行進", "末廣健一郎", ""],
-    [18, "シュテルベン シャル", "末廣健一郎", ""],
-    [19, "スバルとエミリア", "末廣健一郎", ""],
+    [1, "英雄のタクト -起源-", "末廣健一郎", "0"],
+    [2, "絶望と贖罪のヒュムネ", "末廣健一郎", "0"],
+    [3, "親竜王国ルグニカ", "末廣健一郎", "0"],
+    [4, "王選の時", "末廣健一郎", "0"],
+    [5, "玉座の間", "末廣健一郎", "0"],
+    [6, "運命の起動", "末廣健一郎", "0"],
+    [7, "決意の鼓動", "末廣健一郎", "0"],
+    [8, "霧の足音", "末廣健一郎", "0"],
+    [9, "混沌ノイズ", "末廣健一郎", "0"],
+    [10, "思慮と考証", "末廣健一郎", "0"],
+    [11, "過去と未来の分岐", "末廣健一郎", "0"],
+    [12, "安息のリヒト", "末廣健一郎", "0"],
+    [13, "怠惰", "末廣健一郎", "0"],
+    [14, "沈黙のレクイエム", "末廣健一郎", "0"],
+    [15, "決戦の序曲", "末廣健一郎", "0"],
+    [16, "侵食のマハト", "末廣健一郎", "0"],
+    [17, "勝利の行進", "末廣健一郎", "0"],
+    [18, "シュテルベン シャル", "末廣健一郎", "0"],
+    [19, "スバルとエミリア", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f4581eab-31f8-446b-b1e1-72bfd5aafb13", "https://vgmdb.net/album/58034"]
 
@@ -1164,12 +1164,12 @@ album = "eYe's / MYTH & ROID"
 tracks = [
     [1, "- A beginning -", "MYTH & ROID", ""],
     [2, "TRAGEDY:ETERNITY", "MYTH & ROID", ""],
-    [3, "Paradisus-Paradoxum", "MYTH & ROID", ""],
-    [4, "STYX HELIX", "MYTH & ROID", ""],
+    [3, "Paradisus-Paradoxum", "MYTH & ROID", "0"],
+    [4, "STYX HELIX", "MYTH & ROID", "0"],
     [5, "雪を聴く夜", "MYTH & ROID", ""],
     [6, "Tough & Alone", "MYTH & ROID", ""],
     [7, "ANGER/ANGER", "MYTH & ROID", ""],
-    [8, "theater D", "MYTH & ROID", ""],
+    [8, "theater D", "MYTH & ROID", "0"],
     [9, "JINGO JUNGLE -HBB Remix-", "MYTH & ROID", ""],
     [10, "Crazy Scary Holy Fantasy", "MYTH & ROID", ""],
     [11, "L.L.L.", "MYTH & ROID", ""],
@@ -1192,8 +1192,8 @@ tracks = [
     [6, "CONTINUE…?", "涼風青葉(CV:高田憂希)", ""],
     [7, "STEP by STEP UP↑↑↑↑", "fourfolium", ""],
     [8, "Overdrive", "原田ひとみ", ""],
-    [9, "Stay Alive", "エミリア(CV:高橋李依)", ""],
-    [10, "Wishing", "レム(CV:水瀬いのり)", ""],
+    [9, "Stay Alive", "エミリア(CV:高橋李依)", "0"],
+    [10, "Wishing", "レム(CV:水瀬いのり)", "0"],
     [11, "戦線のリアリズム", "新菜まこ", ""],
     [12, "More One Night", "チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)", ""],
     [13, "Blow out", "鈴木このみ", ""],
@@ -1208,24 +1208,24 @@ catalognumber = "ZMCZ-14292"
 date = "2021-04-28"
 album = "TVアニメ「Re:ゼロから始める異世界生活」2nd season オリジナルサウンドトラックVol.2"
 tracks = [
-    [1, "英雄のタクト -覚醒-", "末廣健一郎", ""],
-    [2, "言霊の加護", "末廣健一郎", ""],
-    [3, "エリオール大森林の永久凍土", "末廣健一郎", ""],
-    [4, "フォルトナ", "末廣健一郎", ""],
-    [5, "オットー・スーウェン", "末廣健一郎", ""],
-    [6, "虚飾の魔女", "末廣健一郎", ""],
-    [7, "封印の森", "末廣健一郎", ""],
-    [8, "愛", "末廣健一郎", ""],
-    [9, "記憶の旅路", "末廣健一郎", ""],
-    [10, "崩壊の始まり", "末廣健一郎", ""],
-    [11, "幸せになるために", "末廣健一郎", ""],
-    [12, "聖域の始まり", "末廣健一郎", ""],
-    [13, "試練への決意", "末廣健一郎", ""],
-    [14, "信じる理由", "末廣健一郎", ""],
-    [15, "契約", "末廣健一郎", ""],
-    [16, "騎士", "末廣健一郎", ""],
-    [17, "出鱈目なステップ", "末廣健一郎", ""],
-    [18, "それぞれの誓い", "末廣健一郎", ""],
+    [1, "英雄のタクト -覚醒-", "末廣健一郎", "0"],
+    [2, "言霊の加護", "末廣健一郎", "0"],
+    [3, "エリオール大森林の永久凍土", "末廣健一郎", "0"],
+    [4, "フォルトナ", "末廣健一郎", "0"],
+    [5, "オットー・スーウェン", "末廣健一郎", "0"],
+    [6, "虚飾の魔女", "末廣健一郎", "0"],
+    [7, "封印の森", "末廣健一郎", "0"],
+    [8, "愛", "末廣健一郎", "0"],
+    [9, "記憶の旅路", "末廣健一郎", "0"],
+    [10, "崩壊の始まり", "末廣健一郎", "0"],
+    [11, "幸せになるために", "末廣健一郎", "0"],
+    [12, "聖域の始まり", "末廣健一郎", "0"],
+    [13, "試練への決意", "末廣健一郎", "0"],
+    [14, "信じる理由", "末廣健一郎", "0"],
+    [15, "契約", "末廣健一郎", "0"],
+    [16, "騎士", "末廣健一郎", "0"],
+    [17, "出鱈目なステップ", "末廣健一郎", "0"],
+    [18, "それぞれの誓い", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6b2c7714-3b9a-4608-8972-46b5d2741c29", "https://vgmdb.net/album/107996"]
 
@@ -1234,31 +1234,31 @@ catalognumber = "ZMXZ-10653-CD"
 date = "2016-08-24"
 album = "Re:ゼロから始める異世界生活 スペシャルサウンドトラックCD 1"
 tracks = [
-    [1, "愛と漆黒の輪舞曲 -Main Theme-", "末廣健一郎", ""],
-    [2, "Death Ballet", "末廣健一郎", ""],
-    [3, "魔女の呼び声", "末廣健一郎", ""],
-    [4, "始まりの音色", "末廣健一郎", ""],
-    [5, "毛並み職人", "末廣健一郎", ""],
-    [6, "おたんこナス", "末廣健一郎", ""],
-    [7, "リンガ", "末廣健一郎", ""],
-    [8, "EMT!!", "末廣健一郎", ""],
-    [9, "空想クラップ", "末廣健一郎", ""],
-    [10, "スバル協奏曲", "末廣健一郎", ""],
-    [11, "木漏れ日に想う", "末廣健一郎", ""],
-    [12, "戦いの舞踏", "末廣健一郎", ""],
-    [13, "夜の企み", "末廣健一郎", ""],
-    [14, "絡みあう真実の糸", "末廣健一郎", ""],
-    [15, "灰色のトレーネ", "末廣健一郎", ""],
-    [16, "光を探して", "末廣健一郎", ""],
-    [17, "思考回路", "末廣健一郎", ""],
-    [18, "戦慄の時", "末廣健一郎", ""],
-    [19, "禁忌の調べ", "末廣健一郎", ""],
-    [20, "死の啓示", "末廣健一郎", ""],
-    [21, "Krise", "末廣健一郎", ""],
-    [22, "衝動への前兆", "末廣健一郎", ""],
-    [23, "Hexentanz", "末廣健一郎", ""],
-    [24, "英雄のタクト", "末廣健一郎", ""],
-    [25, "君にふれて", "末廣健一郎", ""],
+    [1, "愛と漆黒の輪舞曲 -Main Theme-", "末廣健一郎", "0"],
+    [2, "Death Ballet", "末廣健一郎", "0"],
+    [3, "魔女の呼び声", "末廣健一郎", "0"],
+    [4, "始まりの音色", "末廣健一郎", "0"],
+    [5, "毛並み職人", "末廣健一郎", "0"],
+    [6, "おたんこナス", "末廣健一郎", "0"],
+    [7, "リンガ", "末廣健一郎", "0"],
+    [8, "EMT!!", "末廣健一郎", "0"],
+    [9, "空想クラップ", "末廣健一郎", "0"],
+    [10, "スバル協奏曲", "末廣健一郎", "0"],
+    [11, "木漏れ日に想う", "末廣健一郎", "0"],
+    [12, "戦いの舞踏", "末廣健一郎", "0"],
+    [13, "夜の企み", "末廣健一郎", "0"],
+    [14, "絡みあう真実の糸", "末廣健一郎", "0"],
+    [15, "灰色のトレーネ", "末廣健一郎", "0"],
+    [16, "光を探して", "末廣健一郎", "0"],
+    [17, "思考回路", "末廣健一郎", "0"],
+    [18, "戦慄の時", "末廣健一郎", "0"],
+    [19, "禁忌の調べ", "末廣健一郎", "0"],
+    [20, "死の啓示", "末廣健一郎", "0"],
+    [21, "Krise", "末廣健一郎", "0"],
+    [22, "衝動への前兆", "末廣健一郎", "0"],
+    [23, "Hexentanz", "末廣健一郎", "0"],
+    [24, "英雄のタクト", "末廣健一郎", "0"],
+    [25, "君にふれて", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/556c527c-aa90-4c47-9761-ed71b7735806", "https://vgmdb.net/album/58033"]
 
@@ -1267,9 +1267,9 @@ catalognumber = "ZMCZ-18032"
 date = "2025-03-13"
 album = "TVアニメ「Re:ゼロから始める異世界生活」Remakeアルバム"
 tracks = [
-    [1, "Stay Alive", "KIHOW(from MYTH & ROID)", ""],
-    [2, "Wishing", "前島麻由", ""],
-    [3, "あなたの知らないこと", "鈴木このみ", ""],
+    [1, "Stay Alive", "KIHOW(from MYTH & ROID)", "0"],
+    [2, "Wishing", "前島麻由", "0"],
+    [3, "あなたの知らないこと", "鈴木このみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/95308b8f-d4e6-4732-8ec6-473cb3190409", "https://vgmdb.net/album/150995"]
 
@@ -1286,7 +1286,7 @@ tracks = [
     [6, "浪漫飛行", "オーイシマサヨシ", ""],
     [7, "モラトリアムダンスフロア", "オーイシマサヨシ", ""],
     [8, "リングオブドランカー", "オーイシマサヨシ", ""],
-    [9, "ぼうやの夢よ", "オーイシマサヨシ", ""],
+    [9, "ぼうやの夢よ", "オーイシマサヨシ", "0"],
     [10, "ヒーローインポッシボー", "オーイシマサヨシ", ""],
     [11, "君じゃなきゃダメみたい", "オーイシマサヨシ", ""],
 ]
@@ -1319,27 +1319,27 @@ catalognumber = "ZMCZ-14291"
 date = "2020-10-28"
 album = "TVアニメ「Re:ゼロから始める異世界生活」2nd season オリジナルサウンドトラック Disc 1 [ZMCZ-14291 (TGCS-11787)]"
 tracks = [
-    [1, "誓いの息吹 -2nd Main Theme-", "末廣健一郎", ""],
-    [2, "クレマルディの迷い森", "末廣健一郎", ""],
-    [3, "不吉への序章", "末廣健一郎", ""],
-    [4, "聖域の謎", "末廣健一郎", ""],
-    [5, "新たな使用人", "末廣健一郎", ""],
-    [6, "ペトラ", "末廣健一郎", ""],
-    [7, "魔女の墓場", "末廣健一郎", ""],
-    [8, "境界線", "末廣健一郎", ""],
-    [9, "強欲の茶会", "末廣健一郎", ""],
-    [10, "束の間の一時", "末廣健一郎", ""],
-    [11, "叡智の風景", "末廣健一郎", ""],
-    [12, "混血の暮らす場所", "末廣健一郎", ""],
-    [13, "Each thought", "末廣健一郎", ""],
-    [14, "道化の仮面", "末廣健一郎", ""],
-    [15, "君の呼ぶ声に", "末廣健一郎", ""],
-    [16, "行ってらっしゃい", "末廣健一郎", ""],
-    [17, "エキドナ", "末廣健一郎", ""],
-    [18, "虚う心", "末廣健一郎", ""],
-    [19, "深淵", "末廣健一郎", ""],
-    [20, "強襲分解", "末廣健一郎", ""],
-    [21, "エルザ・グランヒルテ", "末廣健一郎", ""],
+    [1, "誓いの息吹 -2nd Main Theme-", "末廣健一郎", "0"],
+    [2, "クレマルディの迷い森", "末廣健一郎", "0"],
+    [3, "不吉への序章", "末廣健一郎", "0"],
+    [4, "聖域の謎", "末廣健一郎", "0"],
+    [5, "新たな使用人", "末廣健一郎", "0"],
+    [6, "ペトラ", "末廣健一郎", "0"],
+    [7, "魔女の墓場", "末廣健一郎", "0"],
+    [8, "境界線", "末廣健一郎", "0"],
+    [9, "強欲の茶会", "末廣健一郎", "0"],
+    [10, "束の間の一時", "末廣健一郎", "0"],
+    [11, "叡智の風景", "末廣健一郎", "0"],
+    [12, "混血の暮らす場所", "末廣健一郎", "0"],
+    [13, "Each thought", "末廣健一郎", "0"],
+    [14, "道化の仮面", "末廣健一郎", "0"],
+    [15, "君の呼ぶ声に", "末廣健一郎", "0"],
+    [16, "行ってらっしゃい", "末廣健一郎", "0"],
+    [17, "エキドナ", "末廣健一郎", "0"],
+    [18, "虚う心", "末廣健一郎", "0"],
+    [19, "深淵", "末廣健一郎", "0"],
+    [20, "強襲分解", "末廣健一郎", "0"],
+    [21, "エルザ・グランヒルテ", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/37dbd322-f0ce-4688-91ec-a4f5e1c54889", "https://vgmdb.net/album/101216"]
 
@@ -1348,26 +1348,26 @@ catalognumber = "ZMCZ-14291"
 date = "2020-10-28"
 album = "TVアニメ「Re:ゼロから始める異世界生活」2nd season オリジナルサウンドトラック Disc 2 [ZMCZ-14291 (TGCS-11788)]"
 tracks = [
-    [1, "魔女達の宴", "末廣健一郎", ""],
-    [2, "意思の欠片", "末廣健一郎", ""],
-    [3, "The truth of haze", "末廣健一郎", ""],
-    [4, "欺きのオルゴール", "末廣健一郎", ""],
-    [5, "俚俗の笛", "末廣健一郎", ""],
-    [6, "誓いの旋律", "末廣健一郎", ""],
-    [7, "Malicious second hand", "末廣健一郎", ""],
-    [8, "Signs of darkness", "末廣健一郎", ""],
-    [9, "腸狩り", "末廣健一郎", ""],
-    [10, "魔手", "末廣健一郎", ""],
-    [11, "陰鬱の音色", "末廣健一郎", ""],
-    [12, "共振", "末廣健一郎", ""],
-    [13, "ロズワール辺境伯", "末廣健一郎", ""],
-    [14, "雪音", "末廣健一郎", ""],
-    [15, "歪み", "末廣健一郎", ""],
-    [16, "サテラ", "末廣健一郎", ""],
-    [17, "過去の行先", "末廣健一郎", ""],
-    [18, "祈りの調べ", "末廣健一郎", ""],
-    [19, "魔獣決戦", "末廣健一郎", ""],
-    [20, "Death Ballet -改-", "末廣健一郎", ""],
+    [1, "魔女達の宴", "末廣健一郎", "0"],
+    [2, "意思の欠片", "末廣健一郎", "0"],
+    [3, "The truth of haze", "末廣健一郎", "0"],
+    [4, "欺きのオルゴール", "末廣健一郎", "0"],
+    [5, "俚俗の笛", "末廣健一郎", "0"],
+    [6, "誓いの旋律", "末廣健一郎", "0"],
+    [7, "Malicious second hand", "末廣健一郎", "0"],
+    [8, "Signs of darkness", "末廣健一郎", "0"],
+    [9, "腸狩り", "末廣健一郎", "0"],
+    [10, "魔手", "末廣健一郎", "0"],
+    [11, "陰鬱の音色", "末廣健一郎", "0"],
+    [12, "共振", "末廣健一郎", "0"],
+    [13, "ロズワール辺境伯", "末廣健一郎", "0"],
+    [14, "雪音", "末廣健一郎", "0"],
+    [15, "歪み", "末廣健一郎", "0"],
+    [16, "サテラ", "末廣健一郎", "0"],
+    [17, "過去の行先", "末廣健一郎", "0"],
+    [18, "祈りの調べ", "末廣健一郎", "0"],
+    [19, "魔獣決戦", "末廣健一郎", "0"],
+    [20, "Death Ballet -改-", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/37dbd322-f0ce-4688-91ec-a4f5e1c54889", "https://vgmdb.net/album/101216"]
 
@@ -1376,10 +1376,10 @@ catalognumber = "ZMCZ-14612"
 date = "2021-03-03"
 album = "Believe in you / nonoc"
 tracks = [
-    [1, "Believe in you", "nonoc", ""],
-    [2, "ヒトリイロ", "nonoc", ""],
-    [3, "Believe in you (instrumental)", "nonoc", ""],
-    [4, "ヒトリイロ (instrumental)", "nonoc", ""],
+    [1, "Believe in you", "nonoc", "1"],
+    [2, "ヒトリイロ", "nonoc", "0"],
+    [3, "Believe in you (instrumental)", "nonoc", "0"],
+    [4, "ヒトリイロ (instrumental)", "nonoc", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a5776d73-727f-4c4b-86a1-b7b8abc7818e", "https://vgmdb.net/album/106455"]
 
@@ -1400,10 +1400,10 @@ catalognumber = "ZMCZ-10783"
 date = "2016-08-24"
 album = "Paradisus-Paradoxum / MYTH & ROID"
 tracks = [
-    [1, "Paradisus‐Paradoxum", "MYTH & ROID", ""],
-    [2, "theater D", "MYTH & ROID", ""],
-    [3, "Paradisus‐Paradoxum (instrumental)", "MYTH & ROID", ""],
-    [4, "theater D (instrumental)", "MYTH & ROID", ""],
+    [1, "Paradisus‐Paradoxum", "MYTH & ROID", "0"],
+    [2, "theater D", "MYTH & ROID", "0"],
+    [3, "Paradisus‐Paradoxum (instrumental)", "MYTH & ROID", "0"],
+    [4, "theater D (instrumental)", "MYTH & ROID", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a10982d1-c404-4148-820c-5838642c8823", "https://vgmdb.net/album/59421"]
 
@@ -1413,7 +1413,7 @@ date = "2018-12-12"
 album = "BanG Dream! 特典サンプラーCD Poppin'Party"
 tracks = [
     [1, "君じゃなきゃダメみたい (game size ver.)", "", ""],
-    [2, "Redo (game size ver.)", "", ""],
+    [2, "Redo (game size ver.)", "", "0"],
     [3, "ハッピーシンセサイザ (game size ver.)", "", ""],
     [4, "深愛 (game size ver.)", "", ""],
     [5, "GO! GO! MANIAC (game size ver.)", "", ""],
@@ -1426,9 +1426,9 @@ date = "2022-10-26"
 album = "HIGHEST / OxT"
 tracks = [
     [1, "HIGHEST", "OxT", ""],
-    [2, "Paradisus‐Paradoxum(Mare Tranquillitatis)", "OxT", ""],
+    [2, "Paradisus‐Paradoxum(Mare Tranquillitatis)", "OxT", "0"],
     [3, "HIGHEST(instrumental)", "OxT", ""],
-    [4, "Paradisus‐Paradoxum(Mare Tranquillitatis)(instrumental)", "OxT", ""],
+    [4, "Paradisus‐Paradoxum(Mare Tranquillitatis)(instrumental)", "OxT", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ec35d6ca-a266-4712-a551-7970a5b466f9", "https://vgmdb.net/album/122598"]
 
@@ -1451,27 +1451,27 @@ catalognumber = "ZMCZ-10885"
 date = "2016-10-26"
 album = "Re:ゼロから始める異世界生活 サウンドトラックCD"
 tracks = [
-    [1, "愛と漆黒の輪舞曲 - MainTheme -", "末廣健一郎", ""],
-    [2, "英雄のタクト - 起源 -", "末廣健一郎", ""],
-    [3, "絶望と贖罪のヒュムネ", "末廣健一郎", ""],
-    [4, "親竜王国ルグニカ", "末廣健一郎", ""],
-    [5, "異世界行進曲", "末廣健一郎", ""],
-    [6, "時と空の想い出", "末廣健一郎", ""],
-    [7, "笛と創造の散歩道", "末廣健一郎", ""],
-    [8, "Re:verse", "末廣健一郎", ""],
-    [9, "決意の心音", "末廣健一郎", ""],
-    [10, "幻想リート", "末廣健一郎", ""],
-    [11, "哀しみのエヒト", "末廣健一郎", ""],
-    [12, "記憶の鎖", "末廣健一郎", ""],
-    [13, "悪意の咆哮", "末廣健一郎", ""],
-    [14, "怠惰", "末廣健一郎", ""],
-    [15, "魔女の呼び声", "末廣健一郎", ""],
-    [16, "運命の起動", "末廣健一郎", ""],
-    [17, "沈黙のレクイエム", "末廣健一郎", ""],
-    [18, "Death Ballet", "末廣健一郎", ""],
-    [19, "激昂の円舞", "末廣健一郎", ""],
-    [20, "決戦の序曲", "末廣健一郎", ""],
-    [21, "星の願い", "末廣健一郎", ""],
+    [1, "愛と漆黒の輪舞曲 - MainTheme -", "末廣健一郎", "0"],
+    [2, "英雄のタクト - 起源 -", "末廣健一郎", "0"],
+    [3, "絶望と贖罪のヒュムネ", "末廣健一郎", "0"],
+    [4, "親竜王国ルグニカ", "末廣健一郎", "0"],
+    [5, "異世界行進曲", "末廣健一郎", "0"],
+    [6, "時と空の想い出", "末廣健一郎", "0"],
+    [7, "笛と創造の散歩道", "末廣健一郎", "0"],
+    [8, "Re:verse", "末廣健一郎", "0"],
+    [9, "決意の心音", "末廣健一郎", "0"],
+    [10, "幻想リート", "末廣健一郎", "0"],
+    [11, "哀しみのエヒト", "末廣健一郎", "0"],
+    [12, "記憶の鎖", "末廣健一郎", "0"],
+    [13, "悪意の咆哮", "末廣健一郎", "0"],
+    [14, "怠惰", "末廣健一郎", "0"],
+    [15, "魔女の呼び声", "末廣健一郎", "0"],
+    [16, "運命の起動", "末廣健一郎", "0"],
+    [17, "沈黙のレクイエム", "末廣健一郎", "0"],
+    [18, "Death Ballet", "末廣健一郎", "0"],
+    [19, "激昂の円舞", "末廣健一郎", "0"],
+    [20, "決戦の序曲", "末廣健一郎", "0"],
+    [21, "星の願い", "末廣健一郎", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/63364f22-dbe3-4a2f-bf96-bec58ed7aed0", "https://vgmdb.net/album/60736"]
 
@@ -1504,7 +1504,7 @@ catalognumber = "TBZR-0687"
 date = "2016-07-27"
 album = "ラジオCD「Re:ゼロから始める異世界ラジオ生活」Vol.1 Disc 1 (CD) [TBZR-0687]"
 tracks = [
-    [1, "新規録りおろしラジオ", "", ""],
+    [1, "新規録りおろしラジオ", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84289"]
 
@@ -1513,14 +1513,14 @@ catalognumber = "TBZR-0688"
 date = "2016-07-27"
 album = "ラジオCD「Re:ゼロから始める異世界ラジオ生活」Vol.1 Disc 2 (CD-ROM) [TBZR-0688]"
 tracks = [
-    [1, "rezero_01", "", ""],
-    [2, "rezero_02", "", ""],
-    [3, "rezero_03", "", ""],
-    [4, "rezero_04", "", ""],
-    [5, "rezero_05", "", ""],
-    [6, "rezero_06", "", ""],
-    [7, "rezero_07", "", ""],
-    [8, "rezero_08", "", ""],
+    [1, "rezero_01", "", "0"],
+    [2, "rezero_02", "", "0"],
+    [3, "rezero_03", "", "0"],
+    [4, "rezero_04", "", "0"],
+    [5, "rezero_05", "", "0"],
+    [6, "rezero_06", "", "0"],
+    [7, "rezero_07", "", "0"],
+    [8, "rezero_08", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84289"]
 
@@ -1567,7 +1567,7 @@ tracks = [
     [8, "Absolute Soul", "鈴木このみ", ""],
     [9, "東のシンドバッド", "鈴木このみ", ""],
     [10, "Beat your Heart", "鈴木このみ", ""],
-    [11, "Redo", "鈴木このみ", ""],
+    [11, "Redo", "鈴木このみ", "0"],
     [12, "Moment", "鈴木このみ", ""],
     [13, "全部君がいたから知ったんだ", "鈴木このみ", ""],
 ]
@@ -1584,7 +1584,7 @@ tracks = [
     [4, "abnormalize", "Afterglow", ""],
     [5, "春を告げる", "Pastel＊Palettes", ""],
     [6, "Sparkling Daydream", "Pastel＊Palettes", ""],
-    [7, "Realize", "Roselia", ""],
+    [7, "Realize", "Roselia", "0"],
     [8, "Preserved Roses", "Roselia×蘭", ""],
     [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", ""],
     [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", ""],
@@ -1600,7 +1600,7 @@ catalognumber = "ZMCZ-16541"
 date = "2023-03-29"
 album = "BLUE MOON / 安月名莉子"
 tracks = [
-    [1, "Memories", "安月名莉子", ""],
+    [1, "Memories", "安月名莉子", "0"],
     [2, "君にふれて", "安月名莉子", ""],
     [3, "Whiteout", "安月名莉子", ""],
     [4, "花", "安月名莉子", ""],
