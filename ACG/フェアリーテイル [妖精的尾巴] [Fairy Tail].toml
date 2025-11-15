@@ -26,7 +26,7 @@ date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [FAIRY TAIL盤] Vocal"
 tracks = [
     [1, "R.P.G.〜Rockin' Playing Game", "SuG", ""],
-    [2, "don't stop da muzic", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/08fd610b-0fd1-4a31-b18a-d4aa5059e14a", "https://vgmdb.net/album/45850"]
 
@@ -44,14 +44,14 @@ catalognumber = "PCCA-03384"
 date = "2011-06-08"
 album = "ひとりさみしく / ShaNa"
 tracks = [
-    [1, "Intro", "ShaNa", ""],
+    [1, "Intro", "ShaNa", "0"],
     [2, "宴", "ShaNa", ""],
-    [3, "Lion Da Soul", "ShaNa feat. GIO, ITACHI", ""],
+    [3, "Lion Da Soul", "ShaNa feat. GIO, ITACHI", "0"],
     [4, "恋模様", "ShaNa feat. LGYankees", ""],
     [5, "Sunday", "ShaNa feat. SO-TA", ""],
     [6, "tears", "ShaNa", ""],
-    [7, "Booty Call", "ShaNa feat. Noa", ""],
-    [8, "Nasty Boy", "ShaNa", ""],
+    [7, "Booty Call", "ShaNa feat. Noa", "0"],
+    [8, "Nasty Boy", "ShaNa", "0"],
     [9, "ひとりさみしく", "ShaNa", ""],
     [10, "Outro", "ShaNa", ""],
     [11, "Yell 3.11", "ShaNa", ""],
@@ -119,7 +119,7 @@ album = "Ryu☆BEST -MOONLiGHT- Original Soundtrack"
 tracks = [
     [1, "でんでんぱっしょん (Ryu☆Remix)", "でんぱ組.inc", ""],
     [2, "ドアラのテーマ", "DJ DOALA", ""],
-    [3, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", ""],
+    [3, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", "0"],
     [4, "Affection", "Another Infinity feat. Mayumi Morinaga", ""],
     [5, "ウッーウッーウマウマ(゜∀゜) (Ryu*Remix)", "Caramell", ""],
     [6, "Scatman (Ryu☆Remix)", "Ryu☆", ""],
@@ -158,7 +158,7 @@ tracks = [
     [11, "R U Ready?", "Ryu☆", ""],
     [12, "Ultramarine", "青龍", ""],
     [13, "Kaleidoscope", "桜龍", ""],
-    [14, "dreamin' (+VOX Mix)", "Mayumi Morinaga", ""],
+    [14, "dreamin' (+VOX Mix)", "Mayumi Morinaga", "0"],
     [15, "orion", "Ryu*", ""],
     [16, "One By One", "Ryu*", ""],
     [17, "TENKU", "Ryu☆", ""],
@@ -173,10 +173,10 @@ catalognumber = "PCCA-03443"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!!"
 tracks = [
-    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", "0"],
     [2, "恋の20連鎖!! 〜またまたver.〜", "ぷよぷよアイドリング!!!", ""],
     [3, "アルファベットでこれなんだ!? 〜保健室大作戦〜", "アイドリング!!!", ""],
-    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/99054bef-6db2-494c-b25c-616843d5597c", "https://vgmdb.net/album/45883"]
 
@@ -216,10 +216,10 @@ catalognumber = "PCCA-03442"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 1 (CD) [PCCA-03442-1]"
 tracks = [
-    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", "0"],
     [2, "恋の20連鎖!! 〜がらがらver.〜", "ぷよぷよアイドリング!!!", ""],
     [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "アイドリング!!!", ""],
-    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6a9bb849-77da-4dcd-94d7-b8fa66eb53c2", "https://vgmdb.net/album/45884"]
 
@@ -336,13 +336,13 @@ catalognumber = "PCCA-03830"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3"
 tracks = [
-    [1, "I Wish", "Milky Bunny", ""],
-    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [1, "I Wish", "Milky Bunny", "0"],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", "0"],
     [3, "はじまりの空", "+Plus", ""],
-    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", "0"],
     [5, "「テノヒラ」", "HERO", ""],
     [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
-    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", "0"],
     [8, "キミがくれたもの", "工藤静香", ""],
     [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
     [10, "We're the stars", "愛美", ""],
@@ -391,7 +391,7 @@ catalognumber = "PCCA-03158"
 date = "2010-04-28"
 album = "ft./ピースボール [FAIRY TAIL EDITION] / FUNKIST Disc 1 (CD) [PCCA-03158-1]"
 tracks = [
-    [1, "ft.", "FUNKIST", ""],
+    [1, "ft.", "FUNKIST", "0"],
     [2, "ピースボール", "FUNKIST", ""],
     [3, "メロディー (Acoustic ver.)", "FUNKIST", ""],
 ]
@@ -506,9 +506,9 @@ date = "2011-04-20"
 album = "防衛本能/Evidence / Daisy×Daisy Vocal"
 tracks = [
     [1, "防衛本脳", "", ""],
-    [2, "Evidence", "", ""],
+    [2, "Evidence", "", "0"],
     [3, "防衛本脳 (karaoke)", "", ""],
-    [4, "Evidence (karaoke)", "", ""],
+    [4, "Evidence (karaoke)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/24648"]
 
@@ -518,7 +518,7 @@ date = "2011-04-20"
 album = "防衛本能/Evidence / Daisy×Daisy Video"
 tracks = [
     [1, "防衛本脳 (ビデオクリップ)", "", ""],
-    [2, "Evidence (ビデオクリップ)", "", ""],
+    [2, "Evidence (ビデオクリップ)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/24648"]
 
@@ -539,7 +539,7 @@ catalognumber = "PCCA-03157"
 date = "2010-04-28"
 album = "ft./ピースボール / FUNKIST"
 tracks = [
-    [1, "ft.", "FUNKIST", ""],
+    [1, "ft.", "FUNKIST", "0"],
     [2, "ピースボール", "FUNKIST", ""],
     [3, "メロディー （Acoustic ver.）", "FUNKIST", ""],
 ]
@@ -585,9 +585,9 @@ catalognumber = "PCCA-03341"
 date = "2011-01-26"
 album = "Be As One/Let's get it on / w-inds."
 tracks = [
-    [1, "Be As One", "w-inds.", ""],
-    [2, "Let’s get it on", "w-inds.", ""],
-    [3, "Noise", "w-inds.", ""],
+    [1, "Be As One", "w-inds.", "0"],
+    [2, "Let’s get it on", "w-inds.", "0"],
+    [3, "Noise", "w-inds.", "0"],
     [4, "To My Fans", "w-inds.", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/3a6ef2b9-7fe7-4a93-b7dc-21852cf21ecc", "https://vgmdb.net/album/45870"]
@@ -629,24 +629,24 @@ catalognumber = "QWCE-00231"
 date = "2012-06-12"
 album = "Glitter/神巫詞 / Mayumi Morinaga Vocal"
 tracks = [
-    [1, "Glitter (Starving Trancer Remix) feat.Another Infinity", "", ""],
-    [2, "dreamin' feat.Ryu☆", "", ""],
+    [1, "Glitter (Starving Trancer Remix) feat.Another Infinity", "", "0"],
+    [2, "dreamin' feat.Ryu☆", "", "0"],
     [3, "STARS (Ryu☆Remix RRver.) feat.Another Infinity", "", ""],
-    [4, "Follow Tomorrow (for future mix rearrange ver)", "", ""],
-    [5, "Mermaid girl (Extended RRver.)", "", ""],
+    [4, "Follow Tomorrow (for future mix rearrange ver)", "", "0"],
+    [5, "Mermaid girl (Extended RRver.)", "", "0"],
     [6, "XANADU OF TWO feat.T.Kakuta With Starving Trancer -BEYOND THE ETERNAL XANADU MIX-", "", ""],
     [7, "朧", "", ""],
     [8, "夢現 feat.Another Infinity", "", ""],
     [9, "響音-kotone- feat.Another Infinity", "", ""],
     [10, "神巫詞 feat.164", "", ""],
-    [11, "Delta feat.40mP", "", ""],
-    [12, "Love Material feat.Another Infinity", "", ""],
+    [11, "Delta feat.40mP", "", "0"],
+    [12, "Love Material feat.Another Infinity", "", "0"],
     [13, "SW feat.Starving Trancer", "", ""],
-    [14, "Don't be afraid feat.Starving Trancer", "", ""],
+    [14, "Don't be afraid feat.Starving Trancer", "", "0"],
     [15, "ずっとみつめていて feat.DJ UTO vs.Starving Trancer", "", ""],
-    [16, "ONE MILLION MILES feat.DJ UTO", "", ""],
-    [17, "NO CHALLENGE,NO SUCCESS (MK Remix)", "", ""],
-    [18, "Caramel Sugar feat.Another Infinity", "", ""],
+    [16, "ONE MILLION MILES feat.DJ UTO", "", "0"],
+    [17, "NO CHALLENGE,NO SUCCESS (MK Remix)", "", "0"],
+    [18, "Caramel Sugar feat.Another Infinity", "", "0"],
 ]
 links = ["https://vgmdb.net/album/131013"]
 
@@ -809,7 +809,7 @@ date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 1 (CD) [PCCA-03094-1]"
 tracks = [
     [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
-    [2, "Don't be afraid", "アイドリング!!!", ""],
+    [2, "Don't be afraid", "アイドリング!!!", "0"],
     [3, "機種変エクスタシィ", "アイドリング!!!", ""],
     [4, "S.O.W. センスオブワンダー (インストゥルメンタル)", "アイドリング!!!", ""],
 ]
@@ -897,9 +897,9 @@ catalognumber = "PCCA-03339"
 date = "2011-01-26"
 album = "Be As One / w-inds. [Limited Edition] Disc 1 (CD) [PCCA-03339-1]"
 tracks = [
-    [1, "Be As One", "w-inds.", ""],
-    [2, "Let’s get it on", "w-inds.", ""],
-    [3, "Noise", "w-inds.", ""],
+    [1, "Be As One", "w-inds.", "0"],
+    [2, "Let’s get it on", "w-inds.", "0"],
+    [3, "Noise", "w-inds.", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/72abcc99-05bc-4635-a58e-f3e610cce259", "https://vgmdb.net/album/45871"]
 
@@ -908,7 +908,7 @@ catalognumber = "PCCA-03339"
 date = "2011-01-26"
 album = "Be As One / w-inds. [Limited Edition] Disc 2 (DVD) [PCCA-03339-2]"
 tracks = [
-    [1, "Be As One (PV)", "w-inds.", ""],
+    [1, "Be As One (PV)", "w-inds.", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/72abcc99-05bc-4635-a58e-f3e610cce259", "https://vgmdb.net/album/45871"]
 
@@ -923,7 +923,7 @@ tracks = [
     [4, "芽吹く風", "柳川和樹", ""],
     [5, "蓮華", "矢野達也", ""],
     [6, "撫子", "柳川和樹", ""],
-    [7, "Birth", "霜月はるか", ""],
+    [7, "Birth", "霜月はるか", "0"],
     [8, "お陽さまと散歩に行こう！ ～for ネルケ", "山西利治", ""],
     [9, "翔べないカモメの物語 ～for ネルケ", "土屋暁", ""],
     [10, "おそとに行こう ～for ネルケ", "小林美代子", ""],
@@ -1080,7 +1080,7 @@ catalognumber = "KECH-9076"
 date = "2024-01-24"
 album = "ガスト30周年記念 セレクション CD-BOX Disc 6 [KECH-9076]"
 tracks = [
-    [1, "Glitter", "茶太", ""],
+    [1, "Glitter", "茶太", "0"],
     [2, "TIE", "アサノハヤト", ""],
     [3, "レッツ・ガールズトーク！", "アサノハヤト", ""],
     [4, "弾むような足取りで", "アサノハヤト", ""],
@@ -1127,10 +1127,10 @@ catalognumber = "PCCA-03310"
 date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy [Limited Edition] Disc 1 (CD) [PCCA-03310-1]"
 tracks = [
-    [1, "HOLY SHINE", "Daisy×Daisy", ""],
-    [2, "BELIEVE", "Daisy×Daisy", ""],
-    [3, "HOLY SHINE (original karaoke)", "Daisy×Daisy", ""],
-    [4, "BELIEVE (original karaoke)", "Daisy×Daisy", ""],
+    [1, "HOLY SHINE", "Daisy×Daisy", "0"],
+    [2, "BELIEVE", "Daisy×Daisy", "0"],
+    [3, "HOLY SHINE (original karaoke)", "Daisy×Daisy", "0"],
+    [4, "BELIEVE (original karaoke)", "Daisy×Daisy", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/45748bea-73fd-49cc-9749-2fef9b4a0ff6", "https://vgmdb.net/album/45857"]
 
@@ -1140,7 +1140,7 @@ date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy [Limited Edition] Disc 2 (DVD) [PCCA-03310-2]"
 tracks = [
     [1, "テレビアニメ「FAIRY TAIL」 ノンテロップエンディング映像", "Daisy×Daisy", ""],
-    [2, "HOLY SHINE (PV)", "Daisy×Daisy", ""],
+    [2, "HOLY SHINE (PV)", "Daisy×Daisy", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/45748bea-73fd-49cc-9749-2fef9b4a0ff6", "https://vgmdb.net/album/45857"]
 
@@ -1179,15 +1179,15 @@ album = "アメリカン少年 / ジャミール"
 tracks = [
     [1, "片思イノ想イカタ", "JAMIL", ""],
     [2, "The Rock City Boy", "JAMIL", ""],
-    [3, "Get Away", "JAMIL feat. Lafa Taylor", ""],
+    [3, "Get Away", "JAMIL feat. Lafa Taylor", "0"],
     [4, "空をこえて", "JAMIL", ""],
     [5, "二人でなくちゃ", "JAMIL", ""],
-    [6, "BOKUMAMA～もうひとつの誕生日～", "JAMIL", ""],
-    [7, "Fall Up", "JAMIL", ""],
-    [8, "I miss you", "JAMIL", ""],
+    [6, "BOKUMAMA～もうひとつの誕生日～", "JAMIL", "0"],
+    [7, "Fall Up", "JAMIL", "0"],
+    [8, "I miss you", "JAMIL", "0"],
     [9, "大きな木の下", "JAMIL", ""],
-    [10, "I’m here,you’re there", "JAMIL", ""],
-    [11, "Keep On", "JAMIL", ""],
+    [10, "I’m here,you’re there", "JAMIL", "0"],
+    [11, "Keep On", "JAMIL", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/645069d0-5b6a-4320-a22b-1378842f119c", "https://vgmdb.net/album/55025"]
 
@@ -1230,42 +1230,42 @@ catalognumber = "PCCG-01016"
 date = "2010-01-06"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ", "高梨康治", ""],
-    [2, "エルザのテーマ", "高梨康治", ""],
-    [3, "魔法発動", "高梨康治", ""],
-    [4, "ドラゴンスレイヤー", "高梨康治", ""],
-    [5, "楽園の塔", "高梨康治", ""],
-    [6, "闇ギルド", "高梨康治", ""],
-    [7, "ミラジェーンのテーマ", "高梨康治", ""],
-    [8, "にぎやかな街", "高梨康治", ""],
-    [9, "妖精の尻尾", "高梨康治", ""],
-    [10, "星霊魔法", "高梨康治", ""],
-    [11, "ルーシィがんばる", "高梨康治", ""],
-    [12, "グレイのテーマ", "高梨康治", ""],
-    [13, "ナツのテーマ", "高梨康治", ""],
-    [14, "宿命", "高梨康治", ""],
-    [15, "忍び寄る影", "高梨康治", ""],
-    [16, "ラクサス暴走", "高梨康治", ""],
-    [17, "フェアリーロウ", "高梨康治", ""],
-    [18, "仲間たち", "高梨康治", ""],
-    [19, "故郷", "高梨康治", ""],
-    [20, "ルーシィのテーマ", "高梨康治", ""],
-    [21, "氷の戦塵", "高梨康治", ""],
-    [22, "幽鬼", "高梨康治", ""],
-    [23, "闇よ、つどえ！", "高梨康治", ""],
-    [24, "アイゼンヴァルト", "高梨康治", ""],
-    [25, "暗黒の魔導士", "高梨康治", ""],
-    [26, "サラマンダー", "高梨康治", ""],
-    [27, "氷刃舞う", "高梨康治", ""],
-    [28, "魔法対戦", "高梨康治", ""],
-    [29, "悲しき過去", "高梨康治", ""],
-    [30, "悪魔デリオラ", "高梨康治", ""],
-    [31, "ティターニアの鎧", "高梨康治", ""],
-    [32, "燃え上がる拳", "高梨康治", ""],
-    [33, "最後の魔法", "高梨康治", ""],
-    [34, "紅蓮の怒り", "高梨康治", ""],
-    [35, "威風堂々 ―Rock ver.―", "高梨康治", ""],
-    [36, "FAIRY TAIL メインテーマ ―Slow ver.―", "高梨康治", ""],
+    [1, "FAIRY TAIL メインテーマ", "高梨康治", "0"],
+    [2, "エルザのテーマ", "高梨康治", "0"],
+    [3, "魔法発動", "高梨康治", "0"],
+    [4, "ドラゴンスレイヤー", "高梨康治", "0"],
+    [5, "楽園の塔", "高梨康治", "0"],
+    [6, "闇ギルド", "高梨康治", "0"],
+    [7, "ミラジェーンのテーマ", "高梨康治", "0"],
+    [8, "にぎやかな街", "高梨康治", "0"],
+    [9, "妖精の尻尾", "高梨康治", "0"],
+    [10, "星霊魔法", "高梨康治", "0"],
+    [11, "ルーシィがんばる", "高梨康治", "0"],
+    [12, "グレイのテーマ", "高梨康治", "0"],
+    [13, "ナツのテーマ", "高梨康治", "0"],
+    [14, "宿命", "高梨康治", "0"],
+    [15, "忍び寄る影", "高梨康治", "0"],
+    [16, "ラクサス暴走", "高梨康治", "0"],
+    [17, "フェアリーロウ", "高梨康治", "0"],
+    [18, "仲間たち", "高梨康治", "0"],
+    [19, "故郷", "高梨康治", "0"],
+    [20, "ルーシィのテーマ", "高梨康治", "0"],
+    [21, "氷の戦塵", "高梨康治", "0"],
+    [22, "幽鬼", "高梨康治", "0"],
+    [23, "闇よ、つどえ！", "高梨康治", "0"],
+    [24, "アイゼンヴァルト", "高梨康治", "0"],
+    [25, "暗黒の魔導士", "高梨康治", "0"],
+    [26, "サラマンダー", "高梨康治", "0"],
+    [27, "氷刃舞う", "高梨康治", "0"],
+    [28, "魔法対戦", "高梨康治", "0"],
+    [29, "悲しき過去", "高梨康治", "0"],
+    [30, "悪魔デリオラ", "高梨康治", "0"],
+    [31, "ティターニアの鎧", "高梨康治", "0"],
+    [32, "燃え上がる拳", "高梨康治", "0"],
+    [33, "最後の魔法", "高梨康治", "0"],
+    [34, "紅蓮の怒り", "高梨康治", "0"],
+    [35, "威風堂々 ―Rock ver.―", "高梨康治", "0"],
+    [36, "FAIRY TAIL メインテーマ ―Slow ver.―", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/43d18983-8881-4411-8869-cc7afd456fdd", "https://vgmdb.net/album/20180"]
 
@@ -1286,12 +1286,12 @@ catalognumber = "PCCA-03387"
 date = "2011-04-20"
 album = "Evidence/防衛本脳 / Daisy×Daisy"
 tracks = [
-    [1, "Evidence", "Daisy×Daisy", ""],
+    [1, "Evidence", "Daisy×Daisy", "1"],
     [2, "防衛本脳", "Daisy×Daisy", ""],
-    [3, "answer to the master", "Daisy×Daisy", ""],
-    [4, "Evidence (karaoke)", "Daisy×Daisy", ""],
+    [3, "answer to the master", "Daisy×Daisy", "0"],
+    [4, "Evidence (karaoke)", "Daisy×Daisy", "0"],
     [5, "防衛本脳 (karaoke)", "Daisy×Daisy", ""],
-    [6, "answer to the master (karaoke)", "Daisy×Daisy", ""],
+    [6, "answer to the master (karaoke)", "Daisy×Daisy", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2c18cb23-5f81-4376-9037-3128c5aa069e", "https://vgmdb.net/album/24649"]
 
@@ -1312,36 +1312,36 @@ catalognumber = "PCCG-01175"
 date = "2011-07-06"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.3"
 tracks = [
-    [1, "魔法境の旅人", "高梨康治", ""],
-    [2, "3人のドラゴンスレイヤー", "高梨康治", ""],
-    [3, "疾風迅雷", "高梨康治", ""],
-    [4, "鋼の白熱戦", "高梨康治", ""],
-    [5, "連合軍、集結!", "高梨康治", ""],
-    [6, "シャルルの告白", "高梨康治", ""],
-    [7, "六魔将軍現る!", "高梨康治", ""],
-    [8, "群雄相打つ", "高梨康治", ""],
-    [9, "ミッドナイト目覚める", "高梨康治", ""],
-    [10, "毒竜のコブラ", "高梨康治", ""],
-    [11, "ニルヴァーナの光", "高梨康治", ""],
-    [12, "平行世界エドラス", "高梨康治", ""],
-    [13, "浮遊島の民", "高梨康治", ""],
-    [14, "ミストガンのテーマ", "高梨康治", ""],
-    [15, "天空の巫女", "高梨康治", ""],
-    [16, "翼あるもの", "高梨康治", ""],
-    [17, "超亜空間魔法アニマ", "高梨康治", ""],
-    [18, "エクシードたち", "高梨康治", ""],
-    [19, "消えゆく魔力", "高梨康治", ""],
-    [20, "アイスボーイ", "高梨康治", ""],
-    [21, "天使殲滅作戦", "高梨康治", ""],
-    [22, "天使の苦悩", "高梨康治", ""],
-    [23, "パンサーリリー", "高梨康治", ""],
-    [24, "竜鎖砲", "高梨康治", ""],
-    [25, "激闘魔法陣", "高梨康治", ""],
-    [26, "星霊合戦", "高梨康治", ""],
-    [27, "正義の力", "高梨康治", ""],
-    [28, "エルザ対エルザ", "高梨康治", ""],
-    [29, "ドラゴンフォース", "高梨康治", ""],
-    [30, "古の魔法", "高梨康治", ""],
+    [1, "魔法境の旅人", "高梨康治", "0"],
+    [2, "3人のドラゴンスレイヤー", "高梨康治", "0"],
+    [3, "疾風迅雷", "高梨康治", "0"],
+    [4, "鋼の白熱戦", "高梨康治", "0"],
+    [5, "連合軍、集結!", "高梨康治", "0"],
+    [6, "シャルルの告白", "高梨康治", "0"],
+    [7, "六魔将軍現る!", "高梨康治", "0"],
+    [8, "群雄相打つ", "高梨康治", "0"],
+    [9, "ミッドナイト目覚める", "高梨康治", "0"],
+    [10, "毒竜のコブラ", "高梨康治", "0"],
+    [11, "ニルヴァーナの光", "高梨康治", "0"],
+    [12, "平行世界エドラス", "高梨康治", "0"],
+    [13, "浮遊島の民", "高梨康治", "0"],
+    [14, "ミストガンのテーマ", "高梨康治", "0"],
+    [15, "天空の巫女", "高梨康治", "0"],
+    [16, "翼あるもの", "高梨康治", "0"],
+    [17, "超亜空間魔法アニマ", "高梨康治", "0"],
+    [18, "エクシードたち", "高梨康治", "0"],
+    [19, "消えゆく魔力", "高梨康治", "0"],
+    [20, "アイスボーイ", "高梨康治", "0"],
+    [21, "天使殲滅作戦", "高梨康治", "0"],
+    [22, "天使の苦悩", "高梨康治", "0"],
+    [23, "パンサーリリー", "高梨康治", "0"],
+    [24, "竜鎖砲", "高梨康治", "0"],
+    [25, "激闘魔法陣", "高梨康治", "0"],
+    [26, "星霊合戦", "高梨康治", "0"],
+    [27, "正義の力", "高梨康治", "0"],
+    [28, "エルザ対エルザ", "高梨康治", "0"],
+    [29, "ドラゴンフォース", "高梨康治", "0"],
+    [30, "古の魔法", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/440c4e11-fae2-4a74-94a1-caab879a57c8", "https://vgmdb.net/album/25764"]
 
@@ -1392,7 +1392,7 @@ date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!! Disc 1 (CD) [PCCA-03095-1]"
 tracks = [
     [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
-    [2, "Don’t be afraid", "アイドリング!!!", ""],
+    [2, "Don’t be afraid", "アイドリング!!!", "0"],
     [3, "機種変エクスタシィ", "アイドリング!!!", ""],
     [4, "S.O.W. センスオブワンダー (Instrumental)", "アイドリング!!!", ""],
 ]
@@ -1548,12 +1548,12 @@ catalognumber = "PCCA-03579"
 date = "2012-03-21"
 album = "FAIRY TAIL オープニング&エンディングテーマソングスVol.2 Disc 1 (CD) [PCCA-03579-1]"
 tracks = [
-    [1, "Fiesta", "", ""],
-    [2, "Be As One", "", ""],
-    [3, "Evidence", "", ""],
+    [1, "Fiesta", "", "0"],
+    [2, "Be As One", "", "0"],
+    [3, "Evidence", "", "0"],
     [4, "ひとりさみしく", "", ""],
     [5, "The Rock City Boy", "", ""],
-    [6, "Don't think.Feel!!!", "", ""],
+    [6, "Don't think.Feel!!!", "", "0"],
     [7, "永久のキズナ feat. Another Infinity", "", ""],
     [8, "この手伸ばして", "", ""],
 ]
@@ -1568,18 +1568,18 @@ tracks = [
     [2, "完璧ぐ～のね", "", ""],
     [3, "S.O.W.センスオブワンダー", "", ""],
     [4, "追憶メリーゴーランド", "", ""],
-    [5, "ft.", "", ""],
+    [5, "ft.", "", "0"],
     [6, "ごめんね、私。", "", ""],
     [7, "R.P.G.～Rockin' Playing Game", "", ""],
     [8, "君がいるから", "", ""],
     [9, "エガオノマホウ", "", ""],
-    [10, "HOLY SHINE", "", ""],
-    [11, "Fiesta", "", ""],
-    [12, "Be As One", "", ""],
-    [13, "Evidence", "", ""],
+    [10, "HOLY SHINE", "", "0"],
+    [11, "Fiesta", "", "0"],
+    [12, "Be As One", "", "0"],
+    [13, "Evidence", "", "0"],
     [14, "ひとりさみしく", "", ""],
     [15, "The Rock City Boy", "", ""],
-    [16, "Don't think.Feel!!!", "", ""],
+    [16, "Don't think.Feel!!!", "", "0"],
     [17, "永久のキズナ feat. Another Infinity", "", ""],
     [18, "この手伸ばして", "", ""],
 ]
@@ -1622,10 +1622,10 @@ album = "FAIRY TAIL キャラクターソングアルバム2 キズナだろー!
 tracks = [
     [1, "キズナだろー!!", "ナツ・ドラグニル (柿原徹也)", ""],
     [2, "スカーレット", "エルザ・スカーレット (大原さやか)", ""],
-    [3, "Naked dream", "グレイ・フルバスター (中村悠一)", ""],
+    [3, "Naked dream", "グレイ・フルバスター (中村悠一)", "0"],
     [4, "ずっと一緒", "ウェンディ・マーベル (佐藤聡美) & シャルル (堀江由衣)", ""],
     [5, "俺のIRONブルース", "ガジル・レッドフォックス (羽多野渉)", ""],
-    [6, "Happy Holiday", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [6, "Happy Holiday", "ルーシィ・ハートフィリア (平野綾)", "0"],
     [7, "いつも全開だ", "ナツ・ドラグニル (柿原徹也) & ハッピー (釘宮理恵)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/975bbf87-82ea-4f38-8d3f-aed533db941a", "https://vgmdb.net/album/32061"]
@@ -1676,8 +1676,8 @@ catalognumber = "PCCA-03340"
 date = "2011-01-26"
 album = "Let's get it on / w-inds. [Limited Edition] Disc 1 (CD) [PCCA-03340-1]"
 tracks = [
-    [1, "Be As One", "w-inds.", ""],
-    [2, "Let’s get it on", "w-inds.", ""],
+    [1, "Be As One", "w-inds.", "0"],
+    [2, "Let’s get it on", "w-inds.", "0"],
     [3, "To My Fans", "w-inds.", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/1dfd8c29-56cd-4742-ab24-ffbbf5ef7d31", "https://vgmdb.net/album/45872"]
@@ -1687,7 +1687,7 @@ catalognumber = "PCCA-03340"
 date = "2011-01-26"
 album = "Let's get it on / w-inds. [Limited Edition] Disc 2 (DVD) [PCCA-03340-2]"
 tracks = [
-    [1, "Let's get it on (PV)", "w-inds.", ""],
+    [1, "Let's get it on (PV)", "w-inds.", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1dfd8c29-56cd-4742-ab24-ffbbf5ef7d31", "https://vgmdb.net/album/45872"]
 
@@ -1762,9 +1762,9 @@ catalognumber = "PCCG-70064"
 date = "2010-03-03"
 album = "「FAIRY TAIL」キャラクターソングコレクションVOL.2 ルーシィ&ハッピー"
 tracks = [
-    [1, "OPEN THE GATE", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [1, "OPEN THE GATE", "ルーシィ・ハートフィリア (平野綾)", "0"],
     [2, "ハッピーデイ", "ハッピー (釘宮理恵)", ""],
-    [3, "OPEN THE GATE (instrumental)", "ルーシィ・ハートフィリア (平野綾)", ""],
+    [3, "OPEN THE GATE (instrumental)", "ルーシィ・ハートフィリア (平野綾)", "0"],
     [4, "ハッピーデイ (instrumental)", "ハッピー (釘宮理恵)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/ada920f3-e213-44b9-895a-6db17bba13e1", "https://vgmdb.net/album/23868"]
@@ -1802,30 +1802,30 @@ catalognumber = "PCCG-01337"
 date = "2013-03-20"
 album = "FAIRY TAIL オリジナルサウンドトラック VOL.4 Original Soundtrack"
 tracks = [
-    [1, "雷炎竜吼える", "高梨康治", ""],
-    [2, "煉獄の七眷属", "高梨康治", ""],
-    [3, "黒魔導士の邪心", "高梨康治", ""],
-    [4, "胸に秘めし想い", "高梨康治", ""],
-    [5, "愛しきものへ", "高梨康治", ""],
-    [6, "S級魔導士昇格試験", "高梨康治", ""],
-    [7, "天狼島", "高梨康治", ""],
-    [8, "悪魔の心臓 (グリモアハート)", "高梨康治", ""],
-    [9, "黒き炎", "高梨康治", ""],
-    [10, "火竜 vs. 炎神", "高梨康治", ""],
-    [11, "過ぎし日の光", "高梨康治", ""],
-    [12, "メイビスの墓", "高梨康治", ""],
-    [13, "大魔導士ブルーノート", "高梨康治", ""],
-    [14, "無敵のアズマ", "高梨康治", ""],
-    [15, "ゼレフの憂鬱", "高梨康治", ""],
-    [16, "魔女の罪 (クリムソルシエール)", "高梨康治", ""],
-    [17, "ウルティアとグレイ", "高梨康治", ""],
-    [18, "妖精の輝き", "高梨康治", ""],
-    [19, "天狼樹", "高梨康治", ""],
-    [20, "マカロフ vs. ハデス", "高梨康治", ""],
-    [21, "破滅への序曲", "高梨康治", ""],
-    [22, "最強最後の死闘", "高梨康治", ""],
-    [23, "ベストパートナー", "高梨康治", ""],
-    [24, "FAIRY TAIL メインテーマ -天狼島 ver.-", "高梨康治", ""],
+    [1, "雷炎竜吼える", "高梨康治", "0"],
+    [2, "煉獄の七眷属", "高梨康治", "0"],
+    [3, "黒魔導士の邪心", "高梨康治", "0"],
+    [4, "胸に秘めし想い", "高梨康治", "0"],
+    [5, "愛しきものへ", "高梨康治", "0"],
+    [6, "S級魔導士昇格試験", "高梨康治", "0"],
+    [7, "天狼島", "高梨康治", "0"],
+    [8, "悪魔の心臓 (グリモアハート)", "高梨康治", "0"],
+    [9, "黒き炎", "高梨康治", "0"],
+    [10, "火竜 vs. 炎神", "高梨康治", "0"],
+    [11, "過ぎし日の光", "高梨康治", "0"],
+    [12, "メイビスの墓", "高梨康治", "0"],
+    [13, "大魔導士ブルーノート", "高梨康治", "0"],
+    [14, "無敵のアズマ", "高梨康治", "0"],
+    [15, "ゼレフの憂鬱", "高梨康治", "0"],
+    [16, "魔女の罪 (クリムソルシエール)", "高梨康治", "0"],
+    [17, "ウルティアとグレイ", "高梨康治", "0"],
+    [18, "妖精の輝き", "高梨康治", "0"],
+    [19, "天狼樹", "高梨康治", "0"],
+    [20, "マカロフ vs. ハデス", "高梨康治", "0"],
+    [21, "破滅への序曲", "高梨康治", "0"],
+    [22, "最強最後の死闘", "高梨康治", "0"],
+    [23, "ベストパートナー", "高梨康治", "0"],
+    [24, "FAIRY TAIL メインテーマ -天狼島 ver.-", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/19de4532-2e2d-4726-a3e3-6ade49186ee1", "https://vgmdb.net/album/37513"]
 
@@ -1834,33 +1834,33 @@ catalognumber = "PCCG-01337"
 date = "2013-03-20"
 album = "FAIRY TAIL オリジナルサウンドトラック VOL.4 Original Soundtrack, Vocal"
 tracks = [
-    [1, "剣咬の虎 (セイバートゥース)", "高梨康治", ""],
-    [2, "第三世代ドラゴンスレイヤー", "高梨康治", ""],
-    [3, "白竜と影竜", "高梨康治", ""],
-    [4, "時の迷宮", "高梨康治", ""],
-    [5, "はるかなる約束の地", "高梨康治", ""],
-    [6, "大魔闘演武", "高梨康治", ""],
-    [7, "誇りを賭けて", "高梨康治", ""],
-    [8, "ゲームの始まり", "高梨康治", ""],
-    [9, "強敵現る", "高梨康治", ""],
-    [10, "魔法競技戦", "高梨康治", ""],
-    [11, "勝機の一撃", "高梨康治", ""],
-    [12, "ルーシィと星霊の力", "高梨康治", ""],
-    [13, "暗躍する者たち", "高梨康治", ""],
-    [14, "ウルティア", "高梨康治", ""],
-    [15, "ジュビア", "高梨康治", ""],
-    [16, "ギルドの誇り", "高梨康治", ""],
-    [17, "フロッシュとレクター", "高梨康治", ""],
-    [18, "シャルルの悪夢", "高梨康治", ""],
-    [19, "エクリプス計画", "高梨康治", ""],
-    [20, "われらフェアリーテイル", "高梨康治", ""],
-    [21, "最凶ライバル登場", "高梨康治", ""],
-    [22, "頂上を目指せ!", "高梨康治", ""],
-    [23, "練達の魔法戦", "高梨康治", ""],
-    [24, "終わりなき攻防", "高梨康治", ""],
-    [25, "魔道の覇者", "高梨康治", ""],
-    [26, "BLOW AWAY", "ナツ (柿原徹也) & グレイ (中村悠一)", ""],
-    [27, "Happy Tale", "ルーシィ (平野綾), エルザ (大原さやか), ウェンディ (佐藤聡美)", ""],
+    [1, "剣咬の虎 (セイバートゥース)", "高梨康治", "0"],
+    [2, "第三世代ドラゴンスレイヤー", "高梨康治", "0"],
+    [3, "白竜と影竜", "高梨康治", "0"],
+    [4, "時の迷宮", "高梨康治", "0"],
+    [5, "はるかなる約束の地", "高梨康治", "0"],
+    [6, "大魔闘演武", "高梨康治", "0"],
+    [7, "誇りを賭けて", "高梨康治", "0"],
+    [8, "ゲームの始まり", "高梨康治", "0"],
+    [9, "強敵現る", "高梨康治", "0"],
+    [10, "魔法競技戦", "高梨康治", "0"],
+    [11, "勝機の一撃", "高梨康治", "0"],
+    [12, "ルーシィと星霊の力", "高梨康治", "0"],
+    [13, "暗躍する者たち", "高梨康治", "0"],
+    [14, "ウルティア", "高梨康治", "0"],
+    [15, "ジュビア", "高梨康治", "0"],
+    [16, "ギルドの誇り", "高梨康治", "0"],
+    [17, "フロッシュとレクター", "高梨康治", "0"],
+    [18, "シャルルの悪夢", "高梨康治", "0"],
+    [19, "エクリプス計画", "高梨康治", "0"],
+    [20, "われらフェアリーテイル", "高梨康治", "0"],
+    [21, "最凶ライバル登場", "高梨康治", "0"],
+    [22, "頂上を目指せ!", "高梨康治", "0"],
+    [23, "練達の魔法戦", "高梨康治", "0"],
+    [24, "終わりなき攻防", "高梨康治", "0"],
+    [25, "魔道の覇者", "高梨康治", "0"],
+    [26, "BLOW AWAY", "ナツ (柿原徹也) & グレイ (中村悠一)", "0"],
+    [27, "Happy Tale", "ルーシィ (平野綾), エルザ (大原さやか), ウェンディ (佐藤聡美)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/19de4532-2e2d-4726-a3e3-6ade49186ee1", "https://vgmdb.net/album/37513"]
 
@@ -1906,9 +1906,9 @@ date = "2012-01-11"
 album = "ずるいよ…/I Wish / Milky Bunny"
 tracks = [
     [1, "ずるいよ・・・", "Milky Bunny", ""],
-    [2, "I Wish", "Milky Bunny", ""],
+    [2, "I Wish", "Milky Bunny", "0"],
     [3, "ずるいよ・・・ (Karaoke)", "Milky Bunny", ""],
-    [4, "I Wish (Karaoke)", "Milky Bunny", ""],
+    [4, "I Wish (Karaoke)", "Milky Bunny", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9af8e50f-ea1e-4dcb-8b2c-eeff8ef32dd4", "https://vgmdb.net/album/45891"]
 
@@ -1981,10 +1981,10 @@ catalognumber = "EYXA-12276B"
 date = "2020-01-31"
 album = "FAIRY TAIL ファイナルシリーズ ORIGINAL SOUND COLLECTION Vol.1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ -Battle version-", "高梨康治", ""],
+    [1, "FAIRY TAIL メインテーマ -Battle version-", "高梨康治", "0"],
     [2, "戦場に咲く剣", "高梨康治", ""],
     [3, "氷の闘志", "高梨康治", ""],
-    [4, "炎竜王の咆哮", "高梨康治", ""],
+    [4, "炎竜王の咆哮", "高梨康治", "0"],
     [5, "闇に仕えし者たち", "高梨康治", ""],
     [6, "戦慄すべき敵", "高梨康治", ""],
     [7, "フェアリーテイルふたたび", "高梨康治", ""],
@@ -1993,7 +1993,7 @@ tracks = [
     [10, "マカロフの決意", "高梨康治", ""],
     [11, "強襲! 最強魔導士", "高梨康治", ""],
     [12, "マグノリア防衛戦", "高梨康治", ""],
-    [13, "連係攻撃・グレイ&ジュビア", "高梨康治", ""],
+    [13, "連係攻撃・グレイ&ジュビア", "高梨康治", "0"],
     [14, "華麗なるルーシィ", "高梨康治", ""],
     [15, "ひととき心やすらかに", "高梨康治", ""],
     [16, "温泉日和", "高梨康治", ""],
@@ -2009,7 +2009,7 @@ tracks = [
     [26, "傷だらけの激闘", "高梨康治", ""],
     [27, "不屈の反撃", "高梨康治", ""],
     [28, "ギルドの旗のもとに", "高梨康治", ""],
-    [29, "FAIRY TAIL メインテーマ -Ballad version-", "高梨康治", ""],
+    [29, "FAIRY TAIL メインテーマ -Ballad version-", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2628508b-3cd6-4f11-864a-14afd223b019", "https://vgmdb.net/album/84796"]
 
@@ -2106,7 +2106,7 @@ date = "2022-03-16"
 album = "FAIRY TAIL 竜王音楽祭 -Music Festival Of The Dragon King-"
 tracks = [
     [1, "ドラゴンフォース", "", ""],
-    [2, "3人のドラゴンスレイヤー", "", ""],
+    [2, "3人のドラゴンスレイヤー", "", "0"],
     [3, "ドラゴンスレイヤー(ナツの怒りのテーマ2)", "", ""],
     [4, "鉄竜 ーくろがねー", "", ""],
     [5, "ナツ vs. 未来ローグ", "", ""],
@@ -2118,7 +2118,7 @@ tracks = [
     [11, "ミラジェーンのテーマ", "", ""],
     [12, "星霜の雫", "", ""],
     [13, "グレイのテーマ", "", ""],
-    [14, "FAIRY TAIL メインテーマ 2014", "", ""],
+    [14, "FAIRY TAIL メインテーマ 2014", "", "0"],
     [15, "竜の炎", "", ""],
     [16, "エルザ、宿命を斬る", "", ""],
     [17, "ミストガンのテーマ", "", ""],
@@ -2126,7 +2126,7 @@ tracks = [
     [19, "魔法対戦", "", ""],
     [20, "エルザ vs. エルザ", "", ""],
     [21, "雷炎竜吼える", "", ""],
-    [22, "FAIRY TAIL メインテーマ", "", ""],
+    [22, "FAIRY TAIL メインテーマ", "", "0"],
     [23, "最後の魔法", "", ""],
     [24, "フェアリーテイル 新たな冒険", "", ""],
 ]
@@ -2137,10 +2137,10 @@ catalognumber = "PCCG-70063"
 date = "2010-02-17"
 album = "「FAIRY TAIL」キャラクターソングコレクションVOL.1 ナツ&グレイ"
 tracks = [
-    [1, "Blaze Up", "柿原徹也", ""],
-    [2, "Frozen Soul", "中村優一", ""],
-    [3, "Blaze Up (Instrumental)", "Funta", ""],
-    [4, "Frozen Soul (Instrumental)", "藤澤健至", ""],
+    [1, "Blaze Up", "柿原徹也", "0"],
+    [2, "Frozen Soul", "中村優一", "0"],
+    [3, "Blaze Up (Instrumental)", "Funta", "0"],
+    [4, "Frozen Soul (Instrumental)", "藤澤健至", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab325be5-21c2-4179-9add-d3f84ad5027e", "https://vgmdb.net/album/23846"]
 
@@ -2172,10 +2172,10 @@ catalognumber = "PCCA-03441"
 date = "2011-07-27"
 album = "Don't think.Feel!!! / アイドリング!!! Disc 1 (CD) [PCCA-03441-1]"
 tracks = [
-    [1, "Don't think. Feel!!!", "アイドリング!!!", ""],
+    [1, "Don't think. Feel!!!", "アイドリング!!!", "0"],
     [2, "恋の20連鎖!! 〜べそべそver.〜", "ぷよぷよアイドリング!!!", ""],
     [3, "アルファベットでこれなんだ!? ～保健室大作戦～", "アイドリング!!!", ""],
-    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", ""],
+    [4, "Don't think. Feel!!! (Instrumental)", "アイドリング!!!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3b4893ae-73d5-4f8e-a5c3-7a5c69a0f35c", "https://vgmdb.net/album/45885"]
 
@@ -2477,7 +2477,7 @@ tracks = [
     [2, "恋してSaturday Night", "+Plus", ""],
     [3, "Run to Free", "+Plus", ""],
     [4, "届いてほしい", "+Plus", ""],
-    [5, "Fiesta", "+Plus", ""],
+    [5, "Fiesta", "+Plus", "0"],
     [6, "ハピバ!!", "+Plus", ""],
     [7, "茜空", "+Plus", ""],
     [8, "エール", "+Plus", ""],
@@ -2500,7 +2500,7 @@ date = "2010-01-27"
 album = "S.O.W.センスオブワンダー / アイドリング!!!"
 tracks = [
     [1, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
-    [2, "Don't be afraid", "アイドリング!!!", ""],
+    [2, "Don't be afraid", "アイドリング!!!", "0"],
     [3, "機種変エクスタシィ", "アイドリング!!!", ""],
     [4, "S.O.W. センスオブワンダー (インストゥルメンタル)", "アイドリング!!!", ""],
 ]
@@ -2520,9 +2520,9 @@ catalognumber = "PCCA-70321"
 date = "2012-03-07"
 album = "Boys be Ambitious!!/ヒカリ / Hi-Fi CAMP"
 tracks = [
-    [1, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [1, "Boys be Ambitious!!", "Hi‐Fi CAMP", "0"],
     [2, "ヒカリ", "Hi‐Fi CAMP", ""],
-    [3, "Boys be Ambitious!! ‐Instrumental‐", "Hi‐Fi CAMP", ""],
+    [3, "Boys be Ambitious!! ‐Instrumental‐", "Hi‐Fi CAMP", "0"],
     [4, "ヒカリ ‐Instrumental‐", "Hi‐Fi CAMP", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e5c689b5-b2c5-482f-b1c5-649ffb210519", "https://vgmdb.net/album/31926"]
@@ -2559,7 +2559,7 @@ tracks = [
     [4, "芽吹く風", "", ""],
     [5, "蓮華", "", ""],
     [6, "撫子", "", ""],
-    [7, "Birth", "", ""],
+    [7, "Birth", "", "0"],
     [8, "お陽さまと散歩に行こう！ ～for ネルケ", "", ""],
     [9, "翔べないカモメの物語 ～for ネルケ", "", ""],
     [10, "おそとに行こう ～for ネルケ", "", ""],
@@ -2716,7 +2716,7 @@ catalognumber = "KCS-3331"
 date = "2024-01-24"
 album = "ガスト30周年記念 プレミアム CD-BOX Original Soundtrack Disc 6"
 tracks = [
-    [1, "Glitter", "", ""],
+    [1, "Glitter", "", "0"],
     [2, "TIE", "", ""],
     [3, "レッツ・ガールズトーク！", "", ""],
     [4, "弾むような足取りで", "", ""],
@@ -3077,10 +3077,10 @@ catalognumber = "ETEV-00011"
 date = "2011-12-29"
 album = "Glitter / Another Infinity Feat. Mayumi Morinaga"
 tracks = [
-    [1, "Glitter", "Another Infinity feat. Mayumi Morinaga", ""],
-    [2, "Glitter (Instrumental)", "Another Infinity feat. Mayumi Morinaga", ""],
-    [3, "Glitter (Ryu☆Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
-    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [1, "Glitter", "Another Infinity feat. Mayumi Morinaga", "0"],
+    [2, "Glitter (Instrumental)", "Another Infinity feat. Mayumi Morinaga", "0"],
+    [3, "Glitter (Ryu☆Remix)", "Another Infinity feat. Mayumi Morinaga", "0"],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5ffe4f57-fdc7-4638-8004-0afc5eaab12d", "https://vgmdb.net/album/131012"]
 
@@ -3132,9 +3132,9 @@ catalognumber = "PCCA-03323"
 date = "2011-01-19"
 album = "Fiesta/エール / +Plus Disc 1 (CD) [PCCA-03323-1]"
 tracks = [
-    [1, "Fiesta", "+Plus", ""],
+    [1, "Fiesta", "+Plus", "0"],
     [2, "エール", "+Plus", ""],
-    [3, "Birth", "+Plus", ""],
+    [3, "Birth", "+Plus", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e24db566-9359-454d-a662-075e54b5c037", "https://vgmdb.net/album/45882"]
 
@@ -3143,7 +3143,7 @@ catalognumber = "PCCA-03323"
 date = "2011-01-19"
 album = "Fiesta/エール / +Plus Disc 2 (DVD) [PCCA-03323-2]"
 tracks = [
-    [1, "Fiesta (Music Video)", "", ""],
+    [1, "Fiesta (Music Video)", "", "0"],
     [2, "メイキング映像", "", ""],
 ]
 links = ["https://vgmdb.net/album/45882"]
@@ -3208,16 +3208,16 @@ catalognumber = "EYCA-10453"
 date = "2015-05-13"
 album = "フェアリーテイル オリジナル・サウンド・コレクション Disc 1 [EYCA-10453]"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ 2014", "高梨康治", ""],
+    [1, "FAIRY TAIL メインテーマ 2014", "高梨康治", "0"],
     [2, "氷刃演武", "高梨康治", ""],
     [3, "ティターニア舞う", "高梨康治", ""],
-    [4, "紅蓮の男", "高梨康治", ""],
+    [4, "紅蓮の男", "高梨康治", "0"],
     [5, "飢狼騎士団登場", "高梨康治", ""],
     [6, "処刑人との死闘", "高梨康治", ""],
     [7, "悲しみはめぐる", "高梨康治", ""],
-    [8, "暗黒の未来", "高梨康治", ""],
+    [8, "暗黒の未来", "高梨康治", "0"],
     [9, "エクリプスの扉", "高梨康治", ""],
-    [10, "大魔闘演武の真実", "高梨康治", ""],
+    [10, "大魔闘演武の真実", "高梨康治", "0"],
     [11, "太古の支配者", "高梨康治", ""],
     [12, "ドラゴン来襲", "高梨康治", ""],
     [13, "ドラゴン・ファイト", "高梨康治", ""],
@@ -3242,24 +3242,24 @@ tracks = [
     [2, "魔法で大騒ぎ", "高梨康治", ""],
     [3, "レッツ・パーティ!", "高梨康治", ""],
     [4, "つかの間のやすらぎ", "高梨康治", ""],
-    [5, "FAIRY TAIL メインテーマ 2014 -Piano ver.-", "高梨康治", ""],
+    [5, "FAIRY TAIL メインテーマ 2014 -Piano ver.-", "高梨康治", "0"],
     [6, "星霊会の異変", "高梨康治", ""],
-    [7, "星霊魔法少女がゆく", "高梨康治", ""],
+    [7, "星霊魔法少女がゆく", "高梨康治", "0"],
     [8, "星霊たちの反乱", "高梨康治", ""],
     [9, "星霊獣", "高梨康治", ""],
     [10, "星霊界の闘い", "高梨康治", ""],
     [11, "星霊王の目覚め", "高梨康治", ""],
     [12, "星霊の鍵を携えて", "高梨康治", ""],
-    [13, "最強ギルドとは俺たちさ", "高梨康治", ""],
+    [13, "最強ギルドとは俺たちさ", "高梨康治", "0"],
     [14, "信じる心", "高梨康治", ""],
     [15, "明日をよぎる影", "高梨康治", ""],
     [16, "闇からの誘い", "高梨康治", ""],
     [17, "固き絆を胸に", "高梨康治", ""],
     [18, "氷の男", "高梨康治", ""],
     [19, "緋色の戦姫", "高梨康治", ""],
-    [20, "火焔乱舞", "高梨康治", ""],
+    [20, "火焔乱舞", "高梨康治", "0"],
     [21, "フェアリーテイル・ライジング", "高梨康治", ""],
-    [22, "FAIRY TAIL メインテーマ 2014 -Battle ver.-", "高梨康治", ""],
+    [22, "FAIRY TAIL メインテーマ 2014 -Battle ver.-", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/62926dc3-50cc-4ac3-b5a9-dc981b6adad8", "https://vgmdb.net/album/51162"]
 
@@ -3269,7 +3269,7 @@ date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG [初回限定盤] Vocal"
 tracks = [
     [1, "R.P.G.～Rockin' Playing Game", "SuG", ""],
-    [2, "don't stop da muzic", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/69615a5b-e1f1-45ed-be36-a9f6bc9f718b", "https://vgmdb.net/album/128827"]
 
@@ -3387,7 +3387,7 @@ date = "2009-12-02"
 album = "Snow fairy / FUNKIST Disc 1 (CD) [PCCA-03056-1]"
 tracks = [
     [1, "Snow fairy", "FUNKIST", ""],
-    [2, "hira hira", "FUNKIST", ""],
+    [2, "hira hira", "FUNKIST", "0"],
     [3, "South Africa 2009", "FUNKIST", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/7efd3a95-2ec6-4b3a-8963-2adb0a2ac392", "https://vgmdb.net/album/45826"]
@@ -3468,9 +3468,9 @@ date = "2012-01-11"
 album = "ずるいよ…/I Wish / Milky Bunny"
 tracks = [
     [1, "ずるいよ...", "", ""],
-    [2, "I Wish", "", ""],
+    [2, "I Wish", "", "0"],
     [3, "ずるいよ... (karaoke)", "", ""],
-    [4, "I Wish (karaoke)", "", ""],
+    [4, "I Wish (karaoke)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/45892"]
 
@@ -3480,23 +3480,23 @@ date = "2012-06-06"
 album = "Glitter/神巫詞 / Mayumi Morinaga"
 tracks = [
     [1, "神巫詞", "Mayumi Morinaga feat. 164", ""],
-    [2, "dreamin’", "Mayumi Morinaga feat. Ryu☆", ""],
+    [2, "dreamin’", "Mayumi Morinaga feat. Ryu☆", "0"],
     [3, "STARS (Ryu☆Remix RRver.)", "Another Infinity feat. Mayumi Morinaga", ""],
-    [4, "Follow Tomorrow (for future mix rearrange ver)", "HHH×MM×ST", ""],
-    [5, "Mermaid girl (Extended RRver.)", "Cream puff", ""],
+    [4, "Follow Tomorrow (for future mix rearrange ver)", "HHH×MM×ST", "0"],
+    [5, "Mermaid girl (Extended RRver.)", "Cream puff", "0"],
     [6, "XANADU OF TWO –BEYOND THE ETERNAL XANADU MIX–", "Mayumi Morinaga feat. T.Kakuta with Starving Trancer", ""],
     [7, "朧", "HHH×MM×ST", ""],
     [8, "夢現", "Another Infinity feat. Mayumi Morinaga", ""],
     [9, "響音 –kotone–", "Mayumi Morinaga feat. Another Infinity", ""],
-    [10, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", ""],
-    [11, "Delta", "Mayumi Morinaga feat. 40mP", ""],
-    [12, "Love Material", "Mayumi Morinaga feat. Another Infinity", ""],
+    [10, "Glitter (Starving Trancer Remix)", "Mayumi Morinaga feat. Another Infinity", "0"],
+    [11, "Delta", "Mayumi Morinaga feat. 40mP", "0"],
+    [12, "Love Material", "Mayumi Morinaga feat. Another Infinity", "0"],
     [13, "SW", "Mayumi Morinaga feat. Starving Trancer", ""],
-    [14, "Don’t be afraid", "Mayumi Morinaga feat. Starving Trancer", ""],
+    [14, "Don’t be afraid", "Mayumi Morinaga feat. Starving Trancer", "0"],
     [15, "ずっとみつめていて", "Mayumi Morinaga feat. DJ UTO vs. Starving Trancer", ""],
-    [16, "ONE MILLION MILES", "Mayumi Morinaga feat. DJ UTO", ""],
-    [17, "NO CHALLENGE, NO SUCCESS (MK Remix)", "Mayumi Morinaga", ""],
-    [18, "Caramel Sugar", "Mayumi Morinaga feat. Another Infinity", ""],
+    [16, "ONE MILLION MILES", "Mayumi Morinaga feat. DJ UTO", "0"],
+    [17, "NO CHALLENGE, NO SUCCESS (MK Remix)", "Mayumi Morinaga", "0"],
+    [18, "Caramel Sugar", "Mayumi Morinaga feat. Another Infinity", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b082b674-a05e-47fb-83a7-3f69a03d028b", "https://vgmdb.net/album/147554"]
 
@@ -3510,7 +3510,7 @@ tracks = [
     [3, "会いたい、会いたくない", "南波志帆", ""],
     [4, "お針子の唄", "南波志帆", ""],
     [5, "シャイニングスター", "南波志帆", ""],
-    [6, "Bless You, Girls!", "南波志帆", ""],
+    [6, "Bless You, Girls!", "南波志帆", "0"],
     [7, "楽園にて", "南波志帆", ""],
     [8, "光の街", "南波志帆", ""],
 ]
@@ -3592,42 +3592,42 @@ catalognumber = "PCCG-01057"
 date = "2010-07-07"
 album = "TVアニメ「FAIRY TAIL」オリジナルサウンドトラック VOL.2"
 tracks = [
-    [1, "鉄竜 -くろがね-", "高梨康治", ""],
-    [2, "獅子の星霊", "高梨康治", ""],
-    [3, "邪悪の槌音", "高梨康治", ""],
-    [4, "追憶 〜めざめる魂〜", "高梨康治", ""],
-    [5, "新しい友情", "高梨康治", ""],
-    [6, "ハッピーのテーマ", "高梨康治", ""],
-    [7, "妖しい魔導士", "高梨康治", ""],
-    [8, "マカロフ", "高梨康治", ""],
+    [1, "鉄竜 -くろがね-", "高梨康治", "0"],
+    [2, "獅子の星霊", "高梨康治", "0"],
+    [3, "邪悪の槌音", "高梨康治", "0"],
+    [4, "追憶 〜めざめる魂〜", "高梨康治", "0"],
+    [5, "新しい友情", "高梨康治", "0"],
+    [6, "ハッピーのテーマ", "高梨康治", "0"],
+    [7, "妖しい魔導士", "高梨康治", "0"],
+    [8, "マカロフ", "高梨康治", "0"],
     [9, "ファンタジア", "水谷広実", ""],
-    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", ""],
-    [11, "ファントムロード", "高梨康治", ""],
-    [12, "魔道の挑戦者", "高梨康治", ""],
-    [13, "破邪の戦風", "高梨康治", ""],
-    [14, "悲壮", "高梨康治", ""],
-    [15, "FAIRY TAIL メインテーマ -Piano ver.-", "高梨康治", ""],
-    [16, "ナツの魔法1 〜火竜の咆哮〜", "高梨康治", ""],
-    [17, "ナツの魔法2 〜火竜の劍角〜", "高梨康治", ""],
-    [18, "ナツの魔法3 〜紅蓮火竜拳〜", "高梨康治", ""],
-    [19, "グレイの魔法1 〜アイスメイク〜", "高梨康治", ""],
-    [20, "グレイの魔法2 〜アイスゲイザー〜", "高梨康治", ""],
-    [21, "グレイの魔法3 〜氷刃・七連舞〜", "高梨康治", ""],
-    [22, "エルザの魔法1 〜金剛の鎧〜", "高梨康治", ""],
-    [23, "エルザの魔法2 〜天輪の鎧〜", "高梨康治", ""],
-    [24, "エルザの魔法3 〜煉獄の鎧〜", "高梨康治", ""],
-    [25, "冥き残光", "高梨康治", ""],
-    [26, "星霊王", "高梨康治", ""],
-    [27, "楽園の塔 〜ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", ""],
-    [28, "解き放たれし力", "高梨康治", ""],
-    [29, "絆", "高梨康治", ""],
-    [30, "追憶 〜哀しき魂〜", "高梨康治", ""],
-    [31, "魔水晶", "高梨康治", ""],
-    [32, "サタンソウル", "高梨康治", ""],
-    [33, "退魔激戦", "高梨康治", ""],
-    [34, "永遠の魔法", "高梨康治", ""],
-    [35, "フィオーレ王国", "高梨康治", ""],
-    [36, "FAIRY TAIL メインテーマ -METAL ver.-", "藤澤健至", ""],
+    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", "0"],
+    [11, "ファントムロード", "高梨康治", "0"],
+    [12, "魔道の挑戦者", "高梨康治", "0"],
+    [13, "破邪の戦風", "高梨康治", "0"],
+    [14, "悲壮", "高梨康治", "0"],
+    [15, "FAIRY TAIL メインテーマ -Piano ver.-", "高梨康治", "0"],
+    [16, "ナツの魔法1 〜火竜の咆哮〜", "高梨康治", "0"],
+    [17, "ナツの魔法2 〜火竜の劍角〜", "高梨康治", "0"],
+    [18, "ナツの魔法3 〜紅蓮火竜拳〜", "高梨康治", "0"],
+    [19, "グレイの魔法1 〜アイスメイク〜", "高梨康治", "0"],
+    [20, "グレイの魔法2 〜アイスゲイザー〜", "高梨康治", "0"],
+    [21, "グレイの魔法3 〜氷刃・七連舞〜", "高梨康治", "0"],
+    [22, "エルザの魔法1 〜金剛の鎧〜", "高梨康治", "0"],
+    [23, "エルザの魔法2 〜天輪の鎧〜", "高梨康治", "0"],
+    [24, "エルザの魔法3 〜煉獄の鎧〜", "高梨康治", "0"],
+    [25, "冥き残光", "高梨康治", "0"],
+    [26, "星霊王", "高梨康治", "0"],
+    [27, "楽園の塔 〜ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", "0"],
+    [28, "解き放たれし力", "高梨康治", "0"],
+    [29, "絆", "高梨康治", "0"],
+    [30, "追憶 〜哀しき魂〜", "高梨康治", "0"],
+    [31, "魔水晶", "高梨康治", "0"],
+    [32, "サタンソウル", "高梨康治", "0"],
+    [33, "退魔激戦", "高梨康治", "0"],
+    [34, "永遠の魔法", "高梨康治", "0"],
+    [35, "フィオーレ王国", "高梨康治", "0"],
+    [36, "FAIRY TAIL メインテーマ -METAL ver.-", "藤澤健至", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/579c71ca-3e22-44ff-9122-1aa9d3c269b4", "https://vgmdb.net/album/20181"]
 
@@ -3638,7 +3638,7 @@ album = "ルーツ・アンド・ルーツ / GOING UNDER GROUND"
 tracks = [
     [1, "1978", "GOING UNDER GROUND", ""],
     [2, "シナリオライター", "GOING UNDER GROUND", ""],
-    [3, "Breakthrough", "GOING UNDER GROUND", ""],
+    [3, "Breakthrough", "GOING UNDER GROUND", "0"],
     [4, "Roots", "GOING UNDER GROUND", ""],
     [5, "1998〜土曜日の夜と日曜日の朝〜", "GOING UNDER GROUND", ""],
     [6, "ナカザのディスコ★", "GOING UNDER GROUND", ""],
@@ -3658,11 +3658,11 @@ catalognumber = "PCCG-01161"
 date = "2011-04-27"
 album = "FAIRY TAIL キャラクターソングアルバム"
 tracks = [
-    [1, "Eternal Fellows", "柿原徹也", ""],
+    [1, "Eternal Fellows", "柿原徹也", "0"],
     [2, "Wings of Liberty", "大原さやか", ""],
-    [3, "METALLIC KISS", "羽多野渉", ""],
-    [4, "Have a nice day!", "釘宮理恵 & 堀江由衣", ""],
-    [5, "Amazing Blessings", "佐藤聡美", ""],
+    [3, "METALLIC KISS", "羽多野渉", "0"],
+    [4, "Have a nice day!", "釘宮理恵 & 堀江由衣", "1"],
+    [5, "Amazing Blessings", "佐藤聡美", "1"],
     [6, "TRUE PRIDE", "中村優一", ""],
     [7, "日常賛歌 ~This Place~", "平野綾", ""],
 ]
@@ -3679,9 +3679,9 @@ tracks = [
     [4, "太陽の村", "高梨康治", ""],
     [5, "ミネルバ", "高梨康治", ""],
     [6, "ドリアーテ", "高梨康治", ""],
-    [7, "老魔導士ウォーロッド・シーケン", "高梨康治", ""],
+    [7, "老魔導士ウォーロッド・シーケン", "高梨康治", "0"],
     [8, "ナツとハッピー", "高梨康治", ""],
-    [9, "魔法評議院ERA", "高梨康治", ""],
+    [9, "魔法評議院ERA", "高梨康治", "0"],
     [10, "九鬼門あらわる", "高梨康治", ""],
     [11, "不死のテンペスター", "高梨康治", ""],
     [12, "ジャッカル", "高梨康治", ""],
@@ -3692,7 +3692,7 @@ tracks = [
     [17, "ラミー", "高梨康治", ""],
     [18, "ルーシィの出番", "高梨康治", ""],
     [19, "タルタロス", "高梨康治", ""],
-    [20, "童子切のエゼル", "高梨康治", ""],
+    [20, "童子切のエゼル", "高梨康治", "0"],
     [21, "漆黒僧正キース", "高梨康治", ""],
     [22, "ジェラールの想い", "高梨康治", ""],
     [23, "六魔将軍", "高梨康治", ""],
@@ -3700,9 +3700,9 @@ tracks = [
     [25, "エルザの道", "高梨康治", ""],
     [26, "絶対零度のシルバー", "高梨康治", ""],
     [27, "涼月天セイラ", "高梨康治", ""],
-    [28, "美しき魔人ミラジェーン", "高梨康治", ""],
+    [28, "美しき魔人ミラジェーン", "高梨康治", "0"],
     [29, "不屈のフェアリーテイル", "高梨康治", ""],
-    [30, "白き遺産フェイス", "高梨康治", ""],
+    [30, "白き遺産フェイス", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5356f781-7649-4377-ba9b-8f5897911265", "https://vgmdb.net/album/57876"]
 
@@ -3717,20 +3717,20 @@ tracks = [
     [4, "絆の力", "高梨康治", ""],
     [5, "シルバー急襲", "高梨康治", ""],
     [6, "死力の激闘", "高梨康治", ""],
-    [7, "悲しき戦い", "高梨康治", ""],
+    [7, "悲しき戦い", "高梨康治", "0"],
     [8, "絶対の悪魔", "高梨康治", ""],
     [9, "ドラゴン大戦争", "高梨康治", ""],
     [10, "フェアリーテイル挑む", "高梨康治", ""],
     [11, "怒りの総力戦", "高梨康治", ""],
     [12, "悲しみを乗り越えて", "高梨康治", ""],
-    [13, "郷愁の風景", "高梨康治", ""],
+    [13, "郷愁の風景", "高梨康治", "0"],
     [14, "港町で", "高梨康治", ""],
     [15, "メイビス", "高梨康治", ""],
     [16, "小さながんばり屋", "高梨康治", ""],
     [17, "浮き立つ心", "高梨康治", ""],
     [18, "危険な対立", "高梨康治", ""],
     [19, "冒険への旅立ち", "高梨康治", ""],
-    [20, "天狼玉", "高梨康治", ""],
+    [20, "天狼玉", "高梨康治", "0"],
     [21, "メイビスの思惑", "高梨康治", ""],
     [22, "メイビスの挑戦", "高梨康治", ""],
     [23, "自由への戦い", "高梨康治", ""],
@@ -3739,8 +3739,8 @@ tracks = [
     [26, "新米記者ルーシィ", "高梨康治", ""],
     [27, "てんてこ舞い", "高梨康治", ""],
     [28, "ドタバタ大騒動", "高梨康治", ""],
-    [29, "想い出のフェアリーテイル", "高梨康治", ""],
-    [30, "FAIRY TAIL メインテーマ 2016", "高梨康治", ""],
+    [29, "想い出のフェアリーテイル", "高梨康治", "0"],
+    [30, "FAIRY TAIL メインテーマ 2016", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5356f781-7649-4377-ba9b-8f5897911265", "https://vgmdb.net/album/57876"]
 
@@ -3865,7 +3865,7 @@ date = "2009-12-02"
 album = "Snow fairy / FUNKIST [Limited Edition] Disc 1 (CD) [PCCA-03055-1]"
 tracks = [
     [1, "Snow fairy", "", ""],
-    [2, "hira hira", "", ""],
+    [2, "hira hira", "", "0"],
     [3, "South Africa 2009", "", ""],
 ]
 links = ["https://vgmdb.net/album/45827"]
@@ -3928,26 +3928,26 @@ catalognumber = "PCSP-03972"
 date = "2022-03-16"
 album = "FAIRY TAIL CHARACTER SONGS COLLECTION"
 tracks = [
-    [1, "Blaze Up", "柿原徹也", ""],
-    [2, "Frozen Soul", "中村優一", ""],
-    [3, "Open The Gate", "平野綾", ""],
+    [1, "Blaze Up", "柿原徹也", "0"],
+    [2, "Frozen Soul", "中村優一", "0"],
+    [3, "Open The Gate", "平野綾", "0"],
     [4, "Happy Day", "釘宮理恵", ""],
-    [5, "Eternal Fellows", "柿原徹也", ""],
+    [5, "Eternal Fellows", "柿原徹也", "0"],
     [6, "Wings of Liberty", "大原さやか", ""],
-    [7, "Metallic Kiss", "羽多野渉", ""],
-    [8, "Have a Nice Day!", "堀江由衣 & 釘宮理恵", ""],
-    [9, "Amazing Blessings", "佐藤聡美", ""],
+    [7, "Metallic Kiss", "羽多野渉", "0"],
+    [8, "Have a Nice Day!", "堀江由衣 & 釘宮理恵", "0"],
+    [9, "Amazing Blessings", "佐藤聡美", "0"],
     [10, "True Pride", "中村優一", ""],
     [11, "Nichijou Sanka - This Place -", "平野綾", ""],
     [12, "Kizuna Darou!!", "柿原徹也", ""],
     [13, "Scarlet", "大原さやか", ""],
-    [14, "Naked Dream", "中村優一", ""],
+    [14, "Naked Dream", "中村優一", "0"],
     [15, "Zutto Issho", "佐藤聡美 & 堀江由衣", ""],
     [16, "My Iron Blues", "羽多野渉", ""],
-    [17, "Happy Holiday", "平野綾", ""],
+    [17, "Happy Holiday", "平野綾", "0"],
     [18, "Itsumo Zenkaida", "柿原徹也 & 釘宮理恵", ""],
-    [19, "Blow Away", "柿原徹也 & 中村優一", ""],
-    [20, "Happy Tale", "佐藤聡美, 大原さやか & 平野綾", ""],
+    [19, "Blow Away", "柿原徹也 & 中村優一", "0"],
+    [20, "Happy Tale", "佐藤聡美, 大原さやか & 平野綾", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/09b16c27-e937-4e09-8bf5-0f4049de2e58", "https://vgmdb.net/album/118740"]
 
@@ -3991,13 +3991,13 @@ catalognumber = "PCCA-03829"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3 Disc 1 (CD)"
 tracks = [
-    [1, "I Wish", "Milky Bunny", ""],
-    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [1, "I Wish", "Milky Bunny", "0"],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", "0"],
     [3, "はじまりの空", "+Plus", ""],
-    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", "0"],
     [5, "「テノヒラ」", "HERO", ""],
     [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
-    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", "0"],
     [8, "キミがくれたもの", "工藤静香", ""],
     [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
     [10, "We're the stars", "愛美", ""],
@@ -4009,13 +4009,13 @@ catalognumber = "PCCA-03829"
 date = "2013-07-03"
 album = "アニメ「FAIRY TAIL」オープニング&エンディング テーマソングスVol.3 Disc 2 (DVD)"
 tracks = [
-    [1, "I Wish", "Milky Bunny", ""],
-    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", ""],
+    [1, "I Wish", "Milky Bunny", "0"],
+    [2, "Boys be Ambitious!!", "Hi‐Fi CAMP", "0"],
     [3, "はじまりの空", "+Plus", ""],
-    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", ""],
+    [4, "Glitter (Starving Trancer Remix)", "Another Infinity feat. Mayumi Morinaga", "0"],
     [5, "「テノヒラ」", "HERO", ""],
     [6, "YELL(エール)～輝くためのもの～", "サーターアンダギー", ""],
-    [7, "Breakthrough", "GOING UNDER GROUND", ""],
+    [7, "Breakthrough", "GOING UNDER GROUND", "0"],
     [8, "キミがくれたもの", "工藤静香", ""],
     [9, "フェアリーテイル～約束の日～", "米倉千尋", ""],
     [10, "We're the stars", "愛美", ""],
@@ -4027,11 +4027,11 @@ catalognumber = "PCCA-03311"
 date = "2010-11-23"
 album = "HOLY SHINE / Daisy×Daisy"
 tracks = [
-    [1, "HOLY SHINE", "Daisy×Daisy", ""],
-    [2, "BELIEVE", "Daisy×Daisy", ""],
+    [1, "HOLY SHINE", "Daisy×Daisy", "0"],
+    [2, "BELIEVE", "Daisy×Daisy", "0"],
     [3, "i", "Daisy×Daisy", ""],
-    [4, "HOLY SHINE (original karaoke)", "Daisy×Daisy", ""],
-    [5, "BELIEVE (original karaoke)", "Daisy×Daisy", ""],
+    [4, "HOLY SHINE (original karaoke)", "Daisy×Daisy", "0"],
+    [5, "BELIEVE (original karaoke)", "Daisy×Daisy", "0"],
     [6, "i (original karaoke)", "Daisy×Daisy", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/70c16a4e-f0e5-4fdd-9eea-746cdfd482b1", "https://vgmdb.net/album/45858"]
@@ -4042,15 +4042,15 @@ date = "2012-12-05"
 album = "Sakura Luminance / Ryu☆"
 tracks = [
     [1, "Sakura Luminance", "Ryu☆", ""],
-    [2, "Follow Tomorrow (for future mix rearrange ver.)", "HHH×MM×ST", ""],
-    [3, "Glitter (Starving Trancer Remix) feat. Another Infinity", "Mayumi Morinaga feat. Another Infinity", ""],
+    [2, "Follow Tomorrow (for future mix rearrange ver.)", "HHH×MM×ST", "0"],
+    [3, "Glitter (Starving Trancer Remix) feat. Another Infinity", "Mayumi Morinaga feat. Another Infinity", "0"],
     [4, "I/O (Extended Mix)", "Ryu☆", ""],
     [5, "White Garden", "Another Infinity feat. Mayumi Morinaga", ""],
     [6, "STARS", "Another Infinity feat. Mayumi Morinaga", ""],
     [7, "僕の望むセカイ", "Another Infinity feat. Mayumi Morinaga", ""],
     [8, "朧", "HHH×MM×ST", ""],
     [9, "two digits", "Another Infinity feat. Mayumi Morinaga", ""],
-    [10, "dreamin' feat. Ryu☆ (+VOX Mix)", "Mayumi Morinaga", ""],
+    [10, "dreamin' feat. Ryu☆ (+VOX Mix)", "Mayumi Morinaga", "0"],
     [11, "中華急行 (Extended Mix)", "Ryu☆", ""],
     [12, "532nm (Extended Mix)", "Ryu☆", ""],
     [13, "800nm (Extended Mix)", "Another Infinity", ""],
@@ -4073,12 +4073,12 @@ tracks = [
     [2, "完璧ぐ〜のね", "渡り廊下走り隊", ""],
     [3, "S.O.W. センスオブワンダー", "アイドリング!!!", ""],
     [4, "追憶メリーゴーランド", "onelifecrew", ""],
-    [5, "ft.", "FUNKIST", ""],
+    [5, "ft.", "FUNKIST", "0"],
     [6, "ごめんね、私。", "南波志帆", ""],
     [7, "R.P.G.〜Rockin’ Playing Game", "SuG", ""],
     [8, "君がいるから", "下川みくに", ""],
     [9, "エガオノマホウ", "MAGIC PARTY", ""],
-    [10, "HOLY SHINE", "Daisy×Daisy", ""],
+    [10, "HOLY SHINE", "Daisy×Daisy", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/99749316-5add-4723-b4c6-34262b64d76e", "https://vgmdb.net/album/26704"]
 
@@ -4226,28 +4226,28 @@ tracks = [
     [2, "疾風の戦場", "高梨康治", ""],
     [3, "スプリガン12", "高梨康治", ""],
     [4, "忌まわしき秘密", "高梨康治", ""],
-    [5, "数奇なるさだめ", "高梨康治", ""],
+    [5, "数奇なるさだめ", "高梨康治", "0"],
     [6, "エルザ、宿命を斬る", "高梨康治", ""],
-    [7, "最後の魔法 -Final version-", "高梨康治", ""],
-    [8, "絆 -Final version-", "高梨康治", ""],
+    [7, "最後の魔法 -Final version-", "高梨康治", "0"],
+    [8, "絆 -Final version-", "高梨康治", "0"],
     [9, "星霊衣をまとって", "高梨康治", ""],
     [10, "ナツとルーシィ", "高梨康治", ""],
     [11, "ふざけないで", "高梨康治", ""],
-    [12, "約束だよ", "高梨康治", ""],
-    [13, "FAIRY TAIL メインテーマ -Piano Solo version-", "高梨康治", ""],
+    [12, "約束だよ", "高梨康治", "0"],
+    [13, "FAIRY TAIL メインテーマ -Piano Solo version-", "高梨康治", "0"],
     [14, "不死の呪い", "高梨康治", ""],
     [15, "ENDの書", "高梨康治", ""],
     [16, "ゼレフ", "高梨康治", ""],
     [17, "フェアリーハート", "高梨康治", ""],
-    [18, "追憶～めざめる魂～ -Final version-", "高梨康治", ""],
+    [18, "追憶～めざめる魂～ -Final version-", "高梨康治", "0"],
     [19, "戦火のフィオーレ王国", "高梨康治", ""],
     [20, "明日への進撃", "高梨康治", ""],
     [21, "破滅の使者", "高梨康治", ""],
-    [22, "ドラゴンスレイヤー -Final version-", "高梨康治", ""],
-    [23, "3人のドラゴンスレイヤー -Final version-", "高梨康治", ""],
-    [24, "ドラゴンフォース -Final version-", "高梨康治", ""],
+    [22, "ドラゴンスレイヤー -Final version-", "高梨康治", "0"],
+    [23, "3人のドラゴンスレイヤー -Final version-", "高梨康治", "0"],
+    [24, "ドラゴンフォース -Final version-", "高梨康治", "0"],
     [25, "永遠の冒険", "高梨康治", ""],
-    [26, "FAIRY TAIL メインテーマ -Final version-", "高梨康治", ""],
+    [26, "FAIRY TAIL メインテーマ -Final version-", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/03429018-38f6-4a2c-9385-66b6f15ef613", "https://vgmdb.net/album/84797"]
 
@@ -4299,12 +4299,12 @@ catalognumber = "PCCA-03580"
 date = "2012-03-21"
 album = "FAIRY TAIL オープニング&エンディングテーマソングスVol.2"
 tracks = [
-    [1, "Fiesta", "+Plus", ""],
-    [2, "Be As One", "w-inds.", ""],
-    [3, "Evidence", "Daisy×Daisy", ""],
+    [1, "Fiesta", "+Plus", "0"],
+    [2, "Be As One", "w-inds.", "0"],
+    [3, "Evidence", "Daisy×Daisy", "0"],
     [4, "ひとりさみしく", "ShaNa", ""],
     [5, "The Rock City Boy", "JAMIL", ""],
-    [6, "Don’t think. Feel!!!", "アイドリング!!!", ""],
+    [6, "Don’t think. Feel!!!", "アイドリング!!!", "0"],
     [7, "永久のキズナ", "Daisy×Daisy feat. Another Infinity", ""],
     [8, "この手伸ばして", "Hi‐Fi CAMP", ""],
 ]
@@ -4316,7 +4316,7 @@ date = "2010-09-01"
 album = "R.P.G.~Rockin' Playing Game / SuG"
 tracks = [
     [1, "R.P.G.～Rockin' Playing Game", "SuG", ""],
-    [2, "don't stop da muzic", "SuG", ""],
+    [2, "don't stop da muzic", "SuG", "0"],
     [3, "16bit HERO3", "SuG", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/09e05d79-980d-49c5-b2d5-58c36bac63db", "https://vgmdb.net/album/45851"]
@@ -4340,42 +4340,42 @@ catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 1"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ", "高梨康治", ""],
-    [2, "エルザのテーマ", "高梨康治", ""],
-    [3, "魔法発動", "高梨康治", ""],
-    [4, "ドラゴンスレイヤー", "高梨康治", ""],
-    [5, "楽園の塔", "高梨康治", ""],
-    [6, "闇ギルド", "高梨康治", ""],
-    [7, "ミラジェーンのテーマ", "高梨康治", ""],
-    [8, "にぎやかな街", "高梨康治", ""],
-    [9, "妖精の尻尾", "高梨康治", ""],
-    [10, "星霊魔法", "高梨康治", ""],
-    [11, "ルーシィがんばる", "高梨康治", ""],
-    [12, "グレイのテーマ", "高梨康治", ""],
-    [13, "ナツのテーマ", "高梨康治", ""],
-    [14, "宿命", "高梨康治", ""],
-    [15, "忍び寄る影", "高梨康治", ""],
-    [16, "ラクサス暴走", "高梨康治", ""],
-    [17, "フェアリーロウ", "高梨康治", ""],
-    [18, "仲間たち", "高梨康治", ""],
-    [19, "故郷", "高梨康治", ""],
-    [20, "ルーシィのテーマ", "高梨康治", ""],
-    [21, "氷の戦塵", "高梨康治", ""],
-    [22, "幽鬼", "高梨康治", ""],
-    [23, "闇よ、つどえ!", "高梨康治", ""],
-    [24, "アイゼンヴァルト", "高梨康治", ""],
-    [25, "暗黒の魔導士", "高梨康治", ""],
-    [26, "サラマンダー", "高梨康治", ""],
-    [27, "氷刃舞う", "高梨康治", ""],
-    [28, "魔法対戦", "高梨康治", ""],
-    [29, "悲しき過去", "高梨康治", ""],
-    [30, "悪魔デリオラ", "高梨康治", ""],
-    [31, "ティターニアの鎧", "高梨康治", ""],
-    [32, "燃え上がる拳", "高梨康治", ""],
-    [33, "最後の魔法", "高梨康治", ""],
-    [34, "紅蓮の怒り", "高梨康治", ""],
-    [35, "威風堂々 (Rock ver.)", "高梨康治", ""],
-    [36, "FAIRY TAIL メインテーマ (Slow ver.)", "高梨康治", ""],
+    [1, "FAIRY TAIL メインテーマ", "高梨康治", "0"],
+    [2, "エルザのテーマ", "高梨康治", "0"],
+    [3, "魔法発動", "高梨康治", "0"],
+    [4, "ドラゴンスレイヤー", "高梨康治", "0"],
+    [5, "楽園の塔", "高梨康治", "0"],
+    [6, "闇ギルド", "高梨康治", "0"],
+    [7, "ミラジェーンのテーマ", "高梨康治", "0"],
+    [8, "にぎやかな街", "高梨康治", "0"],
+    [9, "妖精の尻尾", "高梨康治", "0"],
+    [10, "星霊魔法", "高梨康治", "0"],
+    [11, "ルーシィがんばる", "高梨康治", "0"],
+    [12, "グレイのテーマ", "高梨康治", "0"],
+    [13, "ナツのテーマ", "高梨康治", "0"],
+    [14, "宿命", "高梨康治", "0"],
+    [15, "忍び寄る影", "高梨康治", "0"],
+    [16, "ラクサス暴走", "高梨康治", "0"],
+    [17, "フェアリーロウ", "高梨康治", "0"],
+    [18, "仲間たち", "高梨康治", "0"],
+    [19, "故郷", "高梨康治", "0"],
+    [20, "ルーシィのテーマ", "高梨康治", "0"],
+    [21, "氷の戦塵", "高梨康治", "0"],
+    [22, "幽鬼", "高梨康治", "0"],
+    [23, "闇よ、つどえ!", "高梨康治", "0"],
+    [24, "アイゼンヴァルト", "高梨康治", "0"],
+    [25, "暗黒の魔導士", "高梨康治", "0"],
+    [26, "サラマンダー", "高梨康治", "0"],
+    [27, "氷刃舞う", "高梨康治", "0"],
+    [28, "魔法対戦", "高梨康治", "0"],
+    [29, "悲しき過去", "高梨康治", "0"],
+    [30, "悪魔デリオラ", "高梨康治", "0"],
+    [31, "ティターニアの鎧", "高梨康治", "0"],
+    [32, "燃え上がる拳", "高梨康治", "0"],
+    [33, "最後の魔法", "高梨康治", "0"],
+    [34, "紅蓮の怒り", "高梨康治", "0"],
+    [35, "威風堂々 (Rock ver.)", "高梨康治", "0"],
+    [36, "FAIRY TAIL メインテーマ (Slow ver.)", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
@@ -4384,42 +4384,42 @@ catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Vocal, Remaster"
 tracks = [
-    [1, "鉄竜 -くろがね-", "高梨康治", ""],
-    [2, "獅子の星霊", "高梨康治", ""],
-    [3, "邪悪の槌音", "高梨康治", ""],
-    [4, "追憶 ～めざめる魂～", "高梨康治", ""],
-    [5, "新しい友情", "高梨康治", ""],
-    [6, "ハッピーのテーマ", "高梨康治", ""],
-    [7, "妖しい魔導士", "高梨康治", ""],
-    [8, "マカロフ", "高梨康治", ""],
+    [1, "鉄竜 -くろがね-", "高梨康治", "0"],
+    [2, "獅子の星霊", "高梨康治", "0"],
+    [3, "邪悪の槌音", "高梨康治", "0"],
+    [4, "追憶 ～めざめる魂～", "高梨康治", "0"],
+    [5, "新しい友情", "高梨康治", "0"],
+    [6, "ハッピーのテーマ", "高梨康治", "0"],
+    [7, "妖しい魔導士", "高梨康治", "0"],
+    [8, "マカロフ", "高梨康治", "0"],
     [9, "ファンタジア", "水谷広実", ""],
-    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", ""],
-    [11, "ファントムロード", "高梨康治", ""],
-    [12, "魔道の挑戦者", "高梨康治", ""],
-    [13, "破邪の戦風", "高梨康治", ""],
-    [14, "悲壮", "高梨康治", ""],
-    [15, "FAIRY TAIL メインテーマ (Piano ver.)", "高梨康治", ""],
-    [16, "ナツの魔法1 ～火竜の咆哮～", "高梨康治", ""],
-    [17, "ナツの魔法2 ～火竜の劍角～", "高梨康治", ""],
-    [18, "ナツの魔法3 ～紅蓮火竜拳～", "高梨康治", ""],
-    [19, "グレイの魔法1 ～アイスメイク～", "高梨康治", ""],
-    [20, "グレイの魔法2 ～アイスゲイザー～", "高梨康治", ""],
-    [21, "グレイの魔法3 ～氷刃・七連舞～", "高梨康治", ""],
-    [22, "エルザの魔法1 ～金剛の鎧～", "高梨康治", ""],
-    [23, "エルザの魔法2 ～天輪の鎧～", "高梨康治", ""],
-    [24, "エルザの魔法3 ～煉獄の鎧～", "高梨康治", ""],
-    [25, "冥き残光", "高梨康治", ""],
-    [26, "星霊王", "高梨康治", ""],
-    [27, "楽園の塔 ～ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", ""],
-    [28, "解き放たれし力", "高梨康治", ""],
-    [29, "絆", "高梨康治", ""],
-    [30, "追憶 ～哀しき魂～", "高梨康治", ""],
-    [31, "魔水晶", "高梨康治", ""],
-    [32, "サタンソウル", "高梨康治", ""],
-    [33, "退魔激戦", "高梨康治", ""],
-    [34, "永遠の魔法", "高梨康治", ""],
-    [35, "フィオーレ王国", "高梨康治", ""],
-    [36, "FAIRY TAIL メインテーマ (METAL ver.)", "藤澤健至", ""],
+    [10, "旅立つ者へ", "高梨康治/ミラジェーン (CV: 小野涼子)", "0"],
+    [11, "ファントムロード", "高梨康治", "0"],
+    [12, "魔道の挑戦者", "高梨康治", "0"],
+    [13, "破邪の戦風", "高梨康治", "0"],
+    [14, "悲壮", "高梨康治", "0"],
+    [15, "FAIRY TAIL メインテーマ (Piano ver.)", "高梨康治", "0"],
+    [16, "ナツの魔法1 ～火竜の咆哮～", "高梨康治", "0"],
+    [17, "ナツの魔法2 ～火竜の劍角～", "高梨康治", "0"],
+    [18, "ナツの魔法3 ～紅蓮火竜拳～", "高梨康治", "0"],
+    [19, "グレイの魔法1 ～アイスメイク～", "高梨康治", "0"],
+    [20, "グレイの魔法2 ～アイスゲイザー～", "高梨康治", "0"],
+    [21, "グレイの魔法3 ～氷刃・七連舞～", "高梨康治", "0"],
+    [22, "エルザの魔法1 ～金剛の鎧～", "高梨康治", "0"],
+    [23, "エルザの魔法2 ～天輪の鎧～", "高梨康治", "0"],
+    [24, "エルザの魔法3 ～煉獄の鎧～", "高梨康治", "0"],
+    [25, "冥き残光", "高梨康治", "0"],
+    [26, "星霊王", "高梨康治", "0"],
+    [27, "楽園の塔 ～ラフマニノフ「ピアノ協奏曲第2番ハ短調Op.18」第1楽章より", "高梨康治", "0"],
+    [28, "解き放たれし力", "高梨康治", "0"],
+    [29, "絆", "高梨康治", "0"],
+    [30, "追憶 ～哀しき魂～", "高梨康治", "0"],
+    [31, "魔水晶", "高梨康治", "0"],
+    [32, "サタンソウル", "高梨康治", "0"],
+    [33, "退魔激戦", "高梨康治", "0"],
+    [34, "永遠の魔法", "高梨康治", "0"],
+    [35, "フィオーレ王国", "高梨康治", "0"],
+    [36, "FAIRY TAIL メインテーマ (METAL ver.)", "藤澤健至", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
@@ -4428,36 +4428,36 @@ catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 3"
 tracks = [
-    [1, "魔法境の旅人", "高梨康治", ""],
-    [2, "3人のドラゴンスレイヤー", "高梨康治", ""],
-    [3, "疾風迅雷", "高梨康治", ""],
-    [4, "鋼の白熱戦", "高梨康治", ""],
-    [5, "連合軍、集結!", "高梨康治", ""],
-    [6, "シャルルの告白", "高梨康治", ""],
-    [7, "六魔将軍現る!", "高梨康治", ""],
-    [8, "群雄相打つ", "高梨康治", ""],
-    [9, "ミッドナイト目覚める", "高梨康治", ""],
-    [10, "毒竜のコブラ", "高梨康治", ""],
-    [11, "ニルヴァーナの光", "高梨康治", ""],
-    [12, "平行世界エドラス", "高梨康治", ""],
-    [13, "浮遊島の民", "高梨康治", ""],
-    [14, "ミストガンのテーマ", "高梨康治", ""],
-    [15, "天空の巫女", "高梨康治", ""],
-    [16, "翼あるもの", "高梨康治", ""],
-    [17, "超亜空間魔法アニマ", "高梨康治", ""],
-    [18, "エクシードたち", "高梨康治", ""],
-    [19, "消えゆく魔力", "高梨康治", ""],
-    [20, "アイスボーイ", "高梨康治", ""],
-    [21, "天使殲滅作戦", "高梨康治", ""],
-    [22, "天使の苦悩", "高梨康治", ""],
-    [23, "パンサーリリー", "高梨康治", ""],
-    [24, "竜鎖砲", "高梨康治", ""],
-    [25, "激闘魔法陣", "高梨康治", ""],
-    [26, "星霊合戦", "高梨康治", ""],
-    [27, "正義の力", "高梨康治", ""],
+    [1, "魔法境の旅人", "高梨康治", "0"],
+    [2, "3人のドラゴンスレイヤー", "高梨康治", "0"],
+    [3, "疾風迅雷", "高梨康治", "0"],
+    [4, "鋼の白熱戦", "高梨康治", "0"],
+    [5, "連合軍、集結!", "高梨康治", "0"],
+    [6, "シャルルの告白", "高梨康治", "0"],
+    [7, "六魔将軍現る!", "高梨康治", "0"],
+    [8, "群雄相打つ", "高梨康治", "0"],
+    [9, "ミッドナイト目覚める", "高梨康治", "0"],
+    [10, "毒竜のコブラ", "高梨康治", "0"],
+    [11, "ニルヴァーナの光", "高梨康治", "0"],
+    [12, "平行世界エドラス", "高梨康治", "0"],
+    [13, "浮遊島の民", "高梨康治", "0"],
+    [14, "ミストガンのテーマ", "高梨康治", "0"],
+    [15, "天空の巫女", "高梨康治", "0"],
+    [16, "翼あるもの", "高梨康治", "0"],
+    [17, "超亜空間魔法アニマ", "高梨康治", "0"],
+    [18, "エクシードたち", "高梨康治", "0"],
+    [19, "消えゆく魔力", "高梨康治", "0"],
+    [20, "アイスボーイ", "高梨康治", "0"],
+    [21, "天使殲滅作戦", "高梨康治", "0"],
+    [22, "天使の苦悩", "高梨康治", "0"],
+    [23, "パンサーリリー", "高梨康治", "0"],
+    [24, "竜鎖砲", "高梨康治", "0"],
+    [25, "激闘魔法陣", "高梨康治", "0"],
+    [26, "星霊合戦", "高梨康治", "0"],
+    [27, "正義の力", "高梨康治", "0"],
     [28, "エルザ vs. エルザ", "高梨康治", ""],
-    [29, "ドラゴンフォース", "高梨康治", ""],
-    [30, "古の魔法", "高梨康治", ""],
+    [29, "ドラゴンフォース", "高梨康治", "0"],
+    [30, "古の魔法", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
@@ -4466,55 +4466,55 @@ catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 4"
 tracks = [
-    [1, "雷炎竜吼える", "高梨康治", ""],
-    [2, "煉獄の七眷属", "高梨康治", ""],
-    [3, "黒魔導士の邪心", "高梨康治", ""],
-    [4, "胸に秘めし想い", "高梨康治", ""],
-    [5, "愛しきものへ", "高梨康治", ""],
-    [6, "S級魔導士昇格試験", "高梨康治", ""],
-    [7, "天狼島", "高梨康治", ""],
-    [8, "悪魔の心臓(グリモアハート)", "高梨康治", ""],
-    [9, "黒き炎", "高梨康治", ""],
-    [10, "火竜 vs. 炎神", "高梨康治", ""],
-    [11, "過ぎし日の光", "高梨康治", ""],
-    [12, "メイビスの墓", "高梨康治", ""],
-    [13, "大魔導士ブルーノート", "高梨康治", ""],
-    [14, "無敵のアズマ", "高梨康治", ""],
-    [15, "ゼレフの憂鬱", "高梨康治", ""],
-    [16, "魔女の罪(クリムソルシエール)", "高梨康治", ""],
-    [17, "ウルティアとグレイ", "高梨康治", ""],
-    [18, "妖精の輝き", "高梨康治", ""],
-    [19, "天狼樹", "高梨康治", ""],
-    [20, "マカロフ vs. ハデス", "高梨康治", ""],
-    [21, "破滅への序曲", "高梨康治", ""],
-    [22, "最強最後の死闘", "高梨康治", ""],
-    [23, "ベストパートナー", "高梨康治", ""],
-    [24, "FAIRY TAIL メインテーマ (天狼島 ver.)", "高梨康治", ""],
-    [25, "剣咬の虎(セイバートゥース)", "高梨康治", ""],
-    [26, "第三世代ドラゴンスレイヤー", "高梨康治", ""],
-    [27, "白竜と影竜", "高梨康治", ""],
-    [28, "時の迷宮", "高梨康治", ""],
-    [29, "はるかなる約束の地", "高梨康治", ""],
-    [30, "大魔闘演武", "高梨康治", ""],
-    [31, "誇りを賭けて", "高梨康治", ""],
-    [32, "ゲームの始まり", "高梨康治", ""],
-    [33, "強敵現る", "高梨康治", ""],
-    [34, "魔法競技戦", "高梨康治", ""],
-    [35, "勝機の一撃", "高梨康治", ""],
-    [36, "ルーシィと星霊の力", "高梨康治", ""],
-    [37, "暗躍する者たち", "高梨康治", ""],
-    [38, "ウルティア", "高梨康治", ""],
-    [39, "ジュビア", "高梨康治", ""],
-    [40, "ギルドの誇り", "高梨康治", ""],
-    [41, "フロッシュとレクター", "高梨康治", ""],
-    [42, "シャルルの悪夢", "高梨康治", ""],
-    [43, "エクリプス計画", "高梨康治", ""],
-    [44, "われらフェアリーテイル", "高梨康治", ""],
-    [45, "最凶ライバル登場", "高梨康治", ""],
-    [46, "頂上を目指せ!", "高梨康治", ""],
-    [47, "練達の魔法戦", "高梨康治", ""],
-    [48, "終わりなき攻防", "高梨康治", ""],
-    [49, "魔道の覇者", "高梨康治", ""],
+    [1, "雷炎竜吼える", "高梨康治", "0"],
+    [2, "煉獄の七眷属", "高梨康治", "0"],
+    [3, "黒魔導士の邪心", "高梨康治", "0"],
+    [4, "胸に秘めし想い", "高梨康治", "0"],
+    [5, "愛しきものへ", "高梨康治", "0"],
+    [6, "S級魔導士昇格試験", "高梨康治", "0"],
+    [7, "天狼島", "高梨康治", "0"],
+    [8, "悪魔の心臓(グリモアハート)", "高梨康治", "0"],
+    [9, "黒き炎", "高梨康治", "0"],
+    [10, "火竜 vs. 炎神", "高梨康治", "0"],
+    [11, "過ぎし日の光", "高梨康治", "0"],
+    [12, "メイビスの墓", "高梨康治", "0"],
+    [13, "大魔導士ブルーノート", "高梨康治", "0"],
+    [14, "無敵のアズマ", "高梨康治", "0"],
+    [15, "ゼレフの憂鬱", "高梨康治", "0"],
+    [16, "魔女の罪(クリムソルシエール)", "高梨康治", "0"],
+    [17, "ウルティアとグレイ", "高梨康治", "0"],
+    [18, "妖精の輝き", "高梨康治", "0"],
+    [19, "天狼樹", "高梨康治", "0"],
+    [20, "マカロフ vs. ハデス", "高梨康治", "0"],
+    [21, "破滅への序曲", "高梨康治", "0"],
+    [22, "最強最後の死闘", "高梨康治", "0"],
+    [23, "ベストパートナー", "高梨康治", "0"],
+    [24, "FAIRY TAIL メインテーマ (天狼島 ver.)", "高梨康治", "0"],
+    [25, "剣咬の虎(セイバートゥース)", "高梨康治", "0"],
+    [26, "第三世代ドラゴンスレイヤー", "高梨康治", "0"],
+    [27, "白竜と影竜", "高梨康治", "0"],
+    [28, "時の迷宮", "高梨康治", "0"],
+    [29, "はるかなる約束の地", "高梨康治", "0"],
+    [30, "大魔闘演武", "高梨康治", "0"],
+    [31, "誇りを賭けて", "高梨康治", "0"],
+    [32, "ゲームの始まり", "高梨康治", "0"],
+    [33, "強敵現る", "高梨康治", "0"],
+    [34, "魔法競技戦", "高梨康治", "0"],
+    [35, "勝機の一撃", "高梨康治", "0"],
+    [36, "ルーシィと星霊の力", "高梨康治", "0"],
+    [37, "暗躍する者たち", "高梨康治", "0"],
+    [38, "ウルティア", "高梨康治", "0"],
+    [39, "ジュビア", "高梨康治", "0"],
+    [40, "ギルドの誇り", "高梨康治", "0"],
+    [41, "フロッシュとレクター", "高梨康治", "0"],
+    [42, "シャルルの悪夢", "高梨康治", "0"],
+    [43, "エクリプス計画", "高梨康治", "0"],
+    [44, "われらフェアリーテイル", "高梨康治", "0"],
+    [45, "最凶ライバル登場", "高梨康治", "0"],
+    [46, "頂上を目指せ!", "高梨康治", "0"],
+    [47, "練達の魔法戦", "高梨康治", "0"],
+    [48, "終わりなき攻防", "高梨康治", "0"],
+    [49, "魔道の覇者", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
@@ -4523,8 +4523,8 @@ catalognumber = "PCSP-03971"
 date = "2022-03-16"
 album = "FAIRY TAIL SOUNDTRACK ARCHIVES 2009-2013 Original Soundtrack, Remaster Disc 5"
 tracks = [
-    [1, "FAIRY TAIL メインテーマ (Rock ver.)", "高梨康治", ""],
-    [2, "フィオーレ王国 (Short ver.)", "高梨康治", ""],
+    [1, "FAIRY TAIL メインテーマ (Rock ver.)", "高梨康治", "0"],
+    [2, "フィオーレ王国 (Short ver.)", "高梨康治", "0"],
     [3, "プロローグ", "高梨康治", ""],
     [4, "ショートピース・メドレー1(サブタイトル～アイキャッチA・B～次回予告)", "高梨康治", ""],
     [5, "ジークレインのたくらみ", "高梨康治", ""],
@@ -4551,8 +4551,8 @@ tracks = [
     [26, "鳴動する大地", "高梨康治", ""],
     [27, "突破口を開け", "高梨康治", ""],
     [28, "砂塵巻く激突", "高梨康治", ""],
-    [29, "古の魔法 (Piano Solo ver.)", "高梨康治", ""],
-    [30, "FAIRY TAIL メインテーマ -2009 1st Demo-", "高梨康治", ""],
+    [29, "古の魔法 (Piano Solo ver.)", "高梨康治", "0"],
+    [30, "FAIRY TAIL メインテーマ -2009 1st Demo-", "高梨康治", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bd354ca6-547c-4d1d-ab55-d82fb60cbd0c", "https://vgmdb.net/album/118739"]
 
