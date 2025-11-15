@@ -16,7 +16,7 @@ tracks = [
     [11, "エレクトリリカル", "LiSA", ""],
     [12, "君にピエロ", "LiSA", ""],
     [13, "No More Time Machine", "LiSA", "0"],
-    [14, "シルシ", "LiSA", ""],
+    [14, "シルシ", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/65986e74-ee69-4a51-9bbe-c98e909cdf6e", "https://vgmdb.net/album/50329"]
 
@@ -139,9 +139,9 @@ tracks = [
     [3, "君がくれた世界", "春奈るな", ""],
     [4, "アイヲウタエ", "春奈るな", ""],
     [5, "snowdrop", "春奈るな", ""],
-    [6, "Startear", "春奈るな", ""],
+    [6, "Startear", "春奈るな", "0"],
     [7, "君色シグナル", "春奈るな", ""],
-    [8, "夜の虹を越えて", "春奈るな", ""],
+    [8, "夜の虹を越えて", "春奈るな", "0"],
     [9, "Ripple Effect", "春奈るな", ""],
     [10, "Windia", "春奈るな", ""],
     [11, "ステラブリーズ", "春奈るな", ""],
@@ -160,13 +160,13 @@ tracks = [
     [1, "キミノテ", "春奈るな", ""],
     [2, "微熱の月", "春奈るな", ""],
     [3, "I WANNA 電磁的 DO", "春奈るな", ""],
-    [4, "祈り", "春奈るな", ""],
+    [4, "祈り", "春奈るな", "0"],
     [5, "狂想リフレイン", "春奈るな", ""],
     [6, "ぼくというきみへ", "春奈るな", ""],
     [7, "TRUE STORY", "春奈るな", ""],
     [8, "るなティックワード", "春奈るな", ""],
     [9, "如月アテンション", "じん feat. 春奈るな", ""],
-    [10, "ラムネセカイ", "春奈るな", ""],
+    [10, "ラムネセカイ", "春奈るな", "0"],
     [11, "恋の期限は3年、愛の期限は何年?", "春奈るな", ""],
     [12, "みんな絶対キミが好き", "春奈るな", ""],
     [13, "Sweet Fantasy", "春奈るな", ""],
@@ -189,7 +189,7 @@ tracks = [
     [8, "Sweet Fantasy (Music Video)", "春奈るな", ""],
     [9, "みんな絶対キミが好き (Music Video)", "春奈るな", ""],
     [10, "君色シグナル (Music Video)", "春奈るな", ""],
-    [11, "Startear (Music Video)", "春奈るな", ""],
+    [11, "Startear (Music Video)", "春奈るな", "0"],
     [12, "snowdrop (Music Video)", "春奈るな", ""],
     [13, "アイヲウタエ (Music Video)", "春奈るな", ""],
     [14, "君がくれた世界 (Music Video)", "春奈るな", ""],
@@ -203,7 +203,7 @@ catalognumber = "SVWC-70031"
 date = "2014-12-10"
 album = "シルシ / LiSA Disc 1 (CD) [SVWC-70031]"
 tracks = [
-    [1, "シルシ", "LiSA", ""],
+    [1, "シルシ", "LiSA", "1"],
     [2, "No More Time Machine", "LiSA", "1"],
     [3, "crossing field -English ver.-", "LiSA", "0"],
 ]
@@ -214,7 +214,7 @@ catalognumber = "SVWC-70032"
 date = "2014-12-10"
 album = "シルシ / LiSA Disc 2 (DVD) [SVWC-70032]"
 tracks = [
-    [1, "シルシ -Music Clip-", "LiSA", ""],
+    [1, "シルシ -Music Clip-", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/717e57a3-5bfb-4032-ae5c-d30b9f59104d", "https://vgmdb.net/album/48444"]
 
@@ -274,7 +274,7 @@ tracks = [
     [7, "ミライガール", "戸松遥", ""],
     [8, "Issai Gassai", "戸松遥", "0"],
     [9, "星のステージ", "戸松遥", ""],
-    [10, "ユメセカイ", "戸松遥", ""],
+    [10, "ユメセカイ", "戸松遥", "0"],
     [11, "Oh My God", "戸松遥", ""],
     [12, "STAGE", "戸松遥", ""],
     [13, "明日色ひまわり", "戸松遥", ""],
@@ -299,7 +299,7 @@ tracks = [
     [11, "エレクトリリカル", "LiSA", ""],
     [12, "君にピエロ", "LiSA", ""],
     [13, "No More Time Machine", "LiSA", "0"],
-    [14, "シルシ", "LiSA", ""],
+    [14, "シルシ", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/785bdaa8-fa15-47c0-ab85-822811dd5376", "https://vgmdb.net/album/50331"]
 
@@ -317,7 +317,7 @@ tracks = [
     [7, "träumerei", "LiSA", ""],
     [8, "DOCTOR", "LiSA", ""],
     [9, "シロイトイキ", "LiSA", ""],
-    [10, "いつかの手紙", "LiSA", ""],
+    [10, "いつかの手紙", "LiSA", "0"],
     [11, "アシアトコンパス", "LiSA", ""],
     [12, "EGOiSTiC SHOOTER", "LiSA", ""],
     [13, "ROCK-mode", "LiSA", ""],
@@ -395,9 +395,9 @@ tracks = [
     [3, "君がくれた世界", "春奈るな", ""],
     [4, "アイヲウタエ", "春奈るな", ""],
     [5, "snowdrop -春奈るなver.-", "春奈るな", ""],
-    [6, "Startear", "春奈るな", ""],
+    [6, "Startear", "春奈るな", "0"],
     [7, "君色シグナル", "春奈るな", ""],
-    [8, "夜の虹を越えて", "春奈るな", ""],
+    [8, "夜の虹を越えて", "春奈るな", "0"],
     [9, "Ripple Effect", "春奈るな", ""],
     [10, "Windia", "春奈るな", ""],
     [11, "ステラブリーズ", "春奈るな", ""],
@@ -460,7 +460,7 @@ tracks = [
     [8, "アヴァロン・ブルー", "藍井エイル", ""],
     [9, "コバルト・スカイ", "藍井エイル", ""],
     [10, "frozen eyez", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "GLORIA", "藍井エイル", ""],
     [13, "レイニーデイ", "藍井エイル", ""],
 ]
@@ -475,7 +475,7 @@ tracks = [
     [2, "アヴァロン・ブルー (Music Video)", "藍井エイル", ""],
     [3, "コバルト・スカイ (Music Video)", "藍井エイル", ""],
     [4, "シリウス (Music Video)", "藍井エイル", ""],
-    [5, "虹の音 (Music Video)", "藍井エイル", ""],
+    [5, "虹の音 (Music Video)", "藍井エイル", "0"],
     [6, "IGNITE (Music Video)", "藍井エイル", "0"],
     [7, "ラピスラズリ (Music Video)", "藍井エイル", ""],
     [8, "Bright Future (Music Video -Live Clip-)", "藍井エイル", ""],
@@ -491,54 +491,54 @@ album = "劇場版 ソードアート・オンライン -オーディナル・�
 tracks = [
     [1, "in the digital world", "梶浦由記", "0"],
     [2, "a promise", "梶浦由記", "0"],
-    [3, "story of the past", "梶浦由記", ""],
+    [3, "story of the past", "梶浦由記", "0"],
     [4, "Augma", "梶浦由記", "0"],
     [5, "back ground music No.1", "梶浦由記", "0"],
-    [6, "welcome to \"Ordinal Scale\"", "梶浦由記", ""],
+    [6, "welcome to \"Ordinal Scale\"", "梶浦由記", "0"],
     [7, "logging in #1", "梶浦由記", "0"],
     [8, "beginning of the fight", "梶浦由記", "0"],
     [9, "fight in the OS", "梶浦由記", "0"],
-    [10, "you won!", "梶浦由記", ""],
+    [10, "you won!", "梶浦由記", "0"],
     [11, "mystery of OS #1", "梶浦由記", "0"],
     [12, "night time", "梶浦由記", "0"],
     [13, "logging in #2", "梶浦由記", "0"],
-    [14, "she has a luminous sword", "梶浦由記", ""],
-    [15, "Yuna #1", "梶浦由記", ""],
+    [14, "she has a luminous sword", "梶浦由記", "0"],
+    [15, "Yuna #1", "梶浦由記", "0"],
     [16, "mystery of OS #2", "梶浦由記", "0"],
-    [17, "starting to solve the mystery", "梶浦由記", ""],
-    [18, "Yuna #2", "梶浦由記", ""],
+    [17, "starting to solve the mystery", "梶浦由記", "0"],
+    [18, "Yuna #2", "梶浦由記", "0"],
     [19, "logging in #3", "梶浦由記", "0"],
     [20, "her dream", "梶浦由記", "0"],
     [21, "loss of memory", "梶浦由記", "0"],
-    [22, "to find her memory", "梶浦由記", ""],
-    [23, "to find her memory #2", "梶浦由記", ""],
+    [22, "to find her memory", "梶浦由記", "0"],
+    [23, "to find her memory #2", "梶浦由記", "0"],
     [24, "his anger", "梶浦由記", "0"],
     [25, "I have to regain her memory", "梶浦由記", "0"],
     [26, "logging in #4", "梶浦由記", "0"],
     [27, "another field to overcome", "梶浦由記", "0"],
-    [28, "Yuna #3", "梶浦由記", ""],
-    [29, "Yuna #4", "梶浦由記", ""],
+    [28, "Yuna #3", "梶浦由記", "0"],
+    [29, "Yuna #4", "梶浦由記", "0"],
     [30, "mystery of OS #3", "梶浦由記", "0"],
     [31, "he has something to hide", "梶浦由記", "0"],
-    [32, "the lost daughter", "梶浦由記", ""],
+    [32, "the lost daughter", "梶浦由記", "0"],
     [33, "in her room", "梶浦由記", "0"],
     [34, "I will be close to you", "梶浦由記", "0"],
     [35, "I will fight to regain her memory", "梶浦由記", "0"],
-    [36, "who are you?", "梶浦由記", ""],
+    [36, "who are you?", "梶浦由記", "0"],
     [37, "it's just only a game", "梶浦由記", "0"],
     [38, "he knows something", "梶浦由記", "0"],
     [39, "a short break", "梶浦由記", "0"],
     [40, "facing each other", "梶浦由記", "0"],
-    [41, "something wrong is happening", "梶浦由記", ""],
+    [41, "something wrong is happening", "梶浦由記", "0"],
     [42, "father and daughter", "梶浦由記", "0"],
     [43, "can we save them?", "梶浦由記", "0"],
-    [44, "we are always together", "梶浦由記", ""],
-    [45, "the place we should have reached", "梶浦由記", ""],
+    [44, "we are always together", "梶浦由記", "0"],
+    [45, "the place we should have reached", "梶浦由記", "0"],
     [46, "for your bravery", "梶浦由記", "0"],
     [47, "I will fight with you!", "梶浦由記", "0"],
     [48, "let's join swords", "梶浦由記", "0"],
     [49, "he is here", "梶浦由記", "0"],
-    [50, "shooting stars", "梶浦由記", ""],
+    [50, "shooting stars", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e98c0b60-8e27-4cbd-b27e-b8d4ea046e6d", "https://vgmdb.net/album/64050"]
 
@@ -547,11 +547,11 @@ catalognumber = "ANTC-70256"
 date = "2017-02-18"
 album = "劇場版 ソードアート・オンライン -オーディナル・スケール- Original Soundtrack Disc 2 [ANTC-70256]"
 tracks = [
-    [1, "Ubiquitous dB", "ユナ(CV:神田沙也加)", ""],
+    [1, "Ubiquitous dB", "ユナ(CV:神田沙也加)", "0"],
     [2, "longing", "ユナ(CV:神田沙也加)", "0"],
     [3, "delete", "ユナ(CV:神田沙也加)", "0"],
     [4, "Break Beat Bark!", "ユナ(CV:神田沙也加)", "0"],
-    [5, "smile for you", "ユナ(CV:神田沙也加)", ""],
+    [5, "smile for you", "ユナ(CV:神田沙也加)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e98c0b60-8e27-4cbd-b27e-b8d4ea046e6d", "https://vgmdb.net/album/64050"]
 
@@ -640,7 +640,7 @@ tracks = [
     [1, "Prologue 〜Candy Lips〜", "春奈るな", ""],
     [2, "君色シグナル", "春奈るな", ""],
     [3, "みんな絶対キミが好き", "春奈るな", ""],
-    [4, "Startear", "春奈るな", ""],
+    [4, "Startear", "春奈るな", "0"],
     [5, "DESSERT", "春奈るな", ""],
     [6, "恋の期限は3年、愛の期限は何年?", "春奈るな", ""],
     [7, "乙女の願い事", "春奈るな", ""],
@@ -648,7 +648,7 @@ tracks = [
     [9, "SU・KI・DA・YO", "春奈るな", ""],
     [10, "るなティックワード", "春奈るな", ""],
     [11, "snowdrop", "春奈るな", ""],
-    [12, "夜の虹を越えて", "春奈るな", ""],
+    [12, "夜の虹を越えて", "春奈るな", "0"],
     [13, "Beautiful World", "春奈るな", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/dbd5c083-03c1-4645-b622-2bb4034f1bac", "https://vgmdb.net/album/50567"]
@@ -671,9 +671,9 @@ catalognumber = "SMCL-275"
 date = "2012-07-25"
 album = "ユメセカイ / 戸松遥"
 tracks = [
-    [1, "ユメセカイ", "戸松遥", ""],
+    [1, "ユメセカイ", "戸松遥", "0"],
     [2, "Issai Gassai", "戸松遥", "0"],
-    [3, "ユメセカイ (instrumental)", "戸松遥", ""],
+    [3, "ユメセカイ (instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c9afaf02-4520-4216-86cb-1b54a0d6c47c", "https://vgmdb.net/album/33373"]
 
@@ -690,7 +690,7 @@ tracks = [
     [6, "私の町はメリー・ゴーランド （「グリム名作劇場」より）", "taste", ""],
     [7, "DREAM SOLISTER （「響け！ユーフォニアム」より）", "taste", ""],
     [8, "Star!! （「アイドルマスター シンデレラガールズ」より）", "taste", ""],
-    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste", ""],
+    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste", "0"],
     [10, "ring your bell （「Fate/stay night [Unlimited Blade Works]」より）", "taste", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/fcb38131-1e21-456d-a498-290f25c34a83", "https://vgmdb.net/album/69054"]
@@ -708,7 +708,7 @@ tracks = [
     [6, "私の町はメリー・ゴーランド （「グリム名作劇場」より）", "taste / 雪村しずか", ""],
     [7, "DREAM SOLISTER （「響け！ユーフォニアム」より）", "taste / 雪村しずか", ""],
     [8, "Star!! （「アイドルマスター シンデレラガールズ」より）", "taste / みずき・あんてば・りと", ""],
-    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste / 雪村しずか", ""],
+    [9, "シルシ （「ソードアート・オンラインⅡ」より）", "taste / 雪村しずか", "0"],
     [10, "ring your bell （「Fate/stay night [Unlimited Blade Works]」より）", "taste / utatane,", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/fcb38131-1e21-456d-a498-290f25c34a83", "https://vgmdb.net/album/69054"]
@@ -739,7 +739,7 @@ album = "IGNITE / 藍井エイル Disc 1 (CD) [SECL-1552]"
 tracks = [
     [1, "IGNITE", "藍井エイル", "0"],
     [2, "Brainwash", "藍井エイル", "0"],
-    [3, "泡沫", "藍井エイル", ""],
+    [3, "泡沫", "藍井エイル", "0"],
     [4, "IGNITE (Instrumental)", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/038d076e-f2f8-47a5-8419-17ce1ceb89d9", "https://vgmdb.net/album/45960"]
@@ -790,7 +790,7 @@ tracks = [
     [6, "愛錠 -Lyric video-", "LiSA", ""],
     [7, "ハウル -MUSiC CLiP-", "LiSA", ""],
     [8, "unlasting -LiSA special live in AbemaTV-", "LiSA", ""],
-    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", ""],
+    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", "0"],
     [10, "紅蓮華 -THE FIRST TAKE-", "LiSA", ""],
     [11, "THE MAKiNG OF “LEO-NiNE”", "LiSA", ""],
 ]
@@ -830,7 +830,7 @@ tracks = [
     [6, "愛錠 -Lyric video-", "LiSA", ""],
     [7, "ハウル -MUSiC CLiP-", "LiSA", ""],
     [8, "unlasting -LiSA special live in AbemaTV-", "LiSA", ""],
-    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", ""],
+    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", "0"],
     [10, "紅蓮華 -THE FIRST TAKE-", "LiSA", ""],
     [11, "THE MAKiNG OF “LEO-NiNE”", "LiSA", ""],
 ]
@@ -841,22 +841,22 @@ catalognumber = "88985334852"
 date = "2016"
 album = "Sword Art Online Original Soundtrack Disc 1"
 tracks = [
-    [1, "swordland", "", ""],
-    [2, "the first town", "", ""],
+    [1, "swordland", "", "0"],
+    [2, "the first town", "", "0"],
     [3, "fight!", "", "0"],
     [4, "friendly feelings", "", "0"],
     [5, "a tender feeling", "", "0"],
     [6, "feel uneasy", "", "0"],
-    [7, "welcome to this world", "", ""],
+    [7, "welcome to this world", "", "0"],
     [8, "he rules us", "", "0"],
     [9, "death game", "", "0"],
-    [10, "stand at bay", "", ""],
+    [10, "stand at bay", "", "0"],
     [11, "a close battle", "", "0"],
     [12, "at our parting", "", "0"],
-    [13, "weird place", "", ""],
+    [13, "weird place", "", "0"],
     [14, "quiet strain", "", "0"],
     [15, "a tense situation", "", "0"],
-    [16, "taut nerves", "", ""],
+    [16, "taut nerves", "", "0"],
     [17, "a strategy meeting", "", "0"],
     [18, "march down", "", "0"],
     [19, "gracefully", "", "0"],
@@ -869,14 +869,14 @@ tracks = [
     [26, "at our parting ~piano only", "", "0"],
     [27, "despaired", "", "0"],
     [28, "a squabble", "", "0"],
-    [29, "smile for me", "", ""],
+    [29, "smile for me", "", "0"],
     [30, "at nightfall", "", "0"],
-    [31, "survive the swordland", "", ""],
+    [31, "survive the swordland", "", "0"],
     [32, "no way", "", "0"],
     [33, "a narrow escape", "", "0"],
-    [34, "with my friend", "", ""],
+    [34, "with my friend", "", "0"],
     [35, "a tiny love ~harp only", "", "0"],
-    [36, "we have to defeat it", "", ""],
+    [36, "we have to defeat it", "", "0"],
     [37, "friendly feelings ~piano only", "", "0"],
     [38, "critical phase", "", "0"],
     [39, "at our parting ~Vc only", "", "0"],
@@ -888,25 +888,25 @@ catalognumber = "88985334852"
 date = "2016"
 album = "Sword Art Online Original Soundtrack Disc 2"
 tracks = [
-    [1, "swordland ~ to be continued", "", ""],
+    [1, "swordland ~ to be continued", "", "0"],
     [2, "is this love?", "", "0"],
-    [3, "she is still sleeping", "", ""],
+    [3, "she is still sleeping", "", "0"],
     [4, "Oberon", "", "0"],
     [5, "climbing up the world tree", "", "0"],
     [6, "a new world of fairies", "", "0"],
-    [7, "Yui", "", ""],
+    [7, "Yui", "", "0"],
     [8, "in time of peace", "", "0"],
     [9, "last flight", "", "0"],
     [10, "aerial fight", "", "0"],
     [11, "got to win", "", "0"],
     [12, "fly, if you can", "", "0"],
-    [13, "town in the morning", "", ""],
+    [13, "town in the morning", "", "0"],
     [14, "in the cage", "", "0"],
     [15, "I wonder", "", "0"],
     [16, "is this love? ~piano only ver", "", "0"],
     [17, "past sadness", "", "0"],
     [18, "fly higher and faster", "", "0"],
-    [19, "victory", "", ""],
+    [19, "victory", "", "0"],
     [20, "fight with a devil", "", "0"],
     [21, "reconciliation", "", "0"],
     [22, "false king", "", "0"],
@@ -914,7 +914,7 @@ tracks = [
     [24, "aincrad", "", "0"],
     [25, "like in the glass", "", "0"],
     [26, "in this world", "", "0"],
-    [27, "swordbreaking land", "", ""],
+    [27, "swordbreaking land", "", "0"],
     [28, "in this cruel land", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91923"]
@@ -925,21 +925,21 @@ date = "2016"
 album = "Sword Art Online Original Soundtrack Disc 3"
 tracks = [
     [1, "gunland", "", "0"],
-    [2, "this psychedelic world", "", ""],
+    [2, "this psychedelic world", "", "0"],
     [3, "Death Gun", "", "0"],
-    [4, "think tenderly of you", "", ""],
+    [4, "think tenderly of you", "", "0"],
     [5, "daily life, you and me", "", "0"],
-    [6, "something is strange", "", ""],
+    [6, "something is strange", "", "0"],
     [7, "creeping up", "", "0"],
-    [8, "unnaturally tense", "", ""],
+    [8, "unnaturally tense", "", "0"],
     [9, "inside information", "", "0"],
     [10, "concerning operation", "", "0"],
     [11, "a pressing danger", "", "0"],
-    [12, "shooting it out", "", ""],
-    [13, "where's my enemy?", "", ""],
-    [14, "they start fighting", "", ""],
+    [12, "shooting it out", "", "0"],
+    [13, "where's my enemy?", "", "0"],
+    [14, "they start fighting", "", "0"],
     [15, "continuing suspense", "", "0"],
-    [16, "she has to overcome her fear", "", ""],
+    [16, "she has to overcome her fear", "", "0"],
     [17, "good bye, again and again", "", "0"],
     [18, "no-escape", "", "0"],
     [19, "her actual world", "", "0"],
@@ -950,18 +950,18 @@ tracks = [
     [24, "crooked mind", "", "0"],
     [25, "a brisk conversation", "", "0"],
     [26, "he, or she?", "", "0"],
-    [27, "shoot 'em up!", "", ""],
+    [27, "shoot 'em up!", "", "0"],
     [28, "quickly and without fail", "", "0"],
     [29, "drive your way", "", "0"],
     [30, "Bullet of Bullets", "", "0"],
     [31, "another state of emergency", "", "0"],
-    [32, "think tenderly of you ~Mbox ver", "", ""],
+    [32, "think tenderly of you ~Mbox ver", "", "0"],
     [33, "I'm always thinking of you", "", "0"],
-    [34, "so I met her", "", ""],
+    [34, "so I met her", "", "0"],
     [35, "a bleak and desolate land", "", "0"],
-    [36, "she's a knockout!", "", ""],
+    [36, "she's a knockout!", "", "0"],
     [37, "fighting hard and close", "", "0"],
-    [38, "you are the winner!", "", ""],
+    [38, "you are the winner!", "", "0"],
     [39, "peace, again", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91923"]
@@ -972,30 +972,30 @@ date = "2016"
 album = "Sword Art Online Original Soundtrack Disc 4"
 tracks = [
     [1, "desolate landscape", "", "0"],
-    [2, "Tonky", "", ""],
+    [2, "Tonky", "", "0"],
     [3, "in this place", "", "0"],
     [4, "Freyja", "", "0"],
-    [5, "Urd", "", ""],
+    [5, "Urd", "", "0"],
     [6, "in another land", "", "0"],
-    [7, "running out of crisis", "", ""],
-    [8, "the appearance of Thrymr", "", ""],
+    [7, "running out of crisis", "", "0"],
+    [8, "the appearance of Thrymr", "", "0"],
     [9, "defeat him and get it!", "", "0"],
     [10, "in the battle field, once again", "", "0"],
     [11, "fly away from here!", "", "0"],
     [12, "a sad quarrel", "", "0"],
-    [13, "run, run, runaway", "", ""],
-    [14, "you are not alone #2", "", ""],
+    [13, "run, run, runaway", "", "0"],
+    [14, "you are not alone #2", "", "0"],
     [15, "light your sword", "", "0"],
     [16, "heartbreaking reality", "", "0"],
-    [17, "you are not alone", "", ""],
-    [18, "tears for you", "", ""],
+    [17, "you are not alone", "", "0"],
+    [18, "tears for you", "", "0"],
     [19, "moon and shadow", "", "0"],
-    [20, "you are not alone ~Ac.G ver", "", ""],
-    [21, "school days, with you", "", ""],
-    [22, "you are not alone #3", "", ""],
-    [23, "trying to understand", "", ""],
+    [20, "you are not alone ~Ac.G ver", "", "0"],
+    [21, "school days, with you", "", "0"],
+    [22, "you are not alone #3", "", "0"],
+    [23, "trying to understand", "", "0"],
     [24, "cold and wild", "", "0"],
-    [25, "you are not alone ~piano ver.", "", ""],
+    [25, "you are not alone ~piano ver.", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91923"]
 
@@ -1004,15 +1004,15 @@ catalognumber = "88985334852"
 date = "2016"
 album = "Sword Art Online Live Event, Video"
 tracks = [
-    [1, "swordland", "", ""],
+    [1, "swordland", "", "0"],
     [2, "aerial fight", "", "0"],
-    [3, "the first town", "", ""],
-    [4, "Tonky (LIVE ver.)", "", ""],
+    [3, "the first town", "", "0"],
+    [4, "Tonky (LIVE ver.)", "", "0"],
     [5, "daily life, you and me", "", "0"],
     [6, "another state of emergency", "", "0"],
-    [7, "you are not alone (LIVE ver.)", "", ""],
+    [7, "you are not alone (LIVE ver.)", "", "0"],
     [8, "luminous sword (LIVE ver.)", "", "0"],
-    [9, "she has to overcome her fear (LIVE ver.)", "", ""],
+    [9, "she has to overcome her fear (LIVE ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91923"]
 
@@ -1084,7 +1084,7 @@ date = "2012-11-21"
 album = "INNOCENCE / 藍井エイル Vocal"
 tracks = [
     [1, "INNOCENCE", "藍井エイル", "0"],
-    [2, "Velvet Tears", "藍井エイル", ""],
+    [2, "Velvet Tears", "藍井エイル", "0"],
     [3, "dear brightness", "藍井エイル", "0"],
     [4, "INNOCENCE (TV Size Ver.)", "藍井エイル", "0"],
 ]
@@ -1157,10 +1157,10 @@ catalognumber = "SECL-1560"
 date = "2014-08-20"
 album = "Startear / 春奈るな Disc 1 (CD) [SECL-1560]"
 tracks = [
-    [1, "Startear", "春奈るな", ""],
-    [2, "夏の恋予報", "春奈るな", ""],
-    [3, "ラムネセカイ", "春奈るな", ""],
-    [4, "Startear -TV size ver.-", "春奈るな", ""],
+    [1, "Startear", "春奈るな", "0"],
+    [2, "夏の恋予報", "春奈るな", "0"],
+    [3, "ラムネセカイ", "春奈るな", "0"],
+    [4, "Startear -TV size ver.-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/12f2e749-2d7e-4645-9acd-11e818515940", "https://vgmdb.net/album/45965"]
 
@@ -1204,7 +1204,7 @@ tracks = [
     [2, "キモチファクトリー", "", ""],
     [3, "そしてパレードは続く", "", ""],
     [4, "Believe in myself", "", ""],
-    [5, "シルシ", "", ""],
+    [5, "シルシ", "", "0"],
     [6, "LiTTLE DEViL PARADE", "", ""],
     [7, "コズミックジェットコースター", "", ""],
     [8, "ROCK-mode", "", ""],
@@ -1224,7 +1224,7 @@ tracks = [
     [3, "サンビカ", "藍井エイル", ""],
     [4, "GENESIS", "藍井エイル", ""],
     [5, "MEMORIA", "藍井エイル", ""],
-    [6, "シンシアの光", "藍井エイル", ""],
+    [6, "シンシアの光", "藍井エイル", "0"],
     [7, "HaNaZaKaRi", "藍井エイル", ""],
     [8, "クロイウタ", "藍井エイル", ""],
     [9, "KASUMI", "藍井エイル", ""],
@@ -1273,23 +1273,23 @@ catalognumber = "AOA-2903B-DISC3"
 date = "2013-10-15"
 album = "Sword Art Online Original Soundtrack 2"
 tracks = [
-    [1, "Swordland ～To Be Continued", "梶浦由記", ""],
+    [1, "Swordland ～To Be Continued", "梶浦由記", "0"],
     [2, "Friendly Feelings", "梶浦由記", "0"],
-    [3, "Sorrowfully", "梶浦由記", ""],
+    [3, "Sorrowfully", "梶浦由記", "0"],
     [4, "Critical Phase", "梶浦由記", "0"],
-    [5, "Victory", "梶浦由記", ""],
+    [5, "Victory", "梶浦由記", "0"],
     [6, "A New World of Fairies", "梶浦由記", "0"],
     [7, "Fly Higher and Faster", "梶浦由記", "0"],
     [8, "In Time of Peace", "梶浦由記", "0"],
     [9, "Fly, If You Can", "梶浦由記", "0"],
     [10, "Fight With a Devil", "梶浦由記", "0"],
-    [11, "She Is Still Sleeping", "梶浦由記", ""],
+    [11, "She Is Still Sleeping", "梶浦由記", "0"],
     [12, "Past Sadness", "梶浦由記", "0"],
     [13, "Is This Love?", "梶浦由記", "0"],
-    [14, "Town in the Morning", "梶浦由記", ""],
+    [14, "Town in the Morning", "梶浦由記", "0"],
     [15, "Climbing Up the World Tree", "梶浦由記", "0"],
     [16, "I Wonder", "梶浦由記", "0"],
-    [17, "Yui", "梶浦由記", ""],
+    [17, "Yui", "梶浦由記", "0"],
     [18, "Is This Love? ～Piano Only Ver.", "梶浦由記", "0"],
     [19, "Oberon", "梶浦由記", "0"],
     [20, "In the Cage", "梶浦由記", "0"],
@@ -1309,7 +1309,7 @@ date = "2012-08-08"
 album = "crossing field / LiSA [Limited Edition] Vocal"
 tracks = [
     [1, "crossing field", "LiSA", "0"],
-    [2, "いつかの手紙", "LiSA", ""],
+    [2, "いつかの手紙", "LiSA", "0"],
     [3, "KiSS me PARADOX", "LiSA", "0"],
     [4, "crossing field -Instrumental-", "LiSA", "0"],
 ]
@@ -1330,8 +1330,8 @@ date = "2012-11-28"
 album = "Overfly / 春奈るな Disc 1 (CD) [SECL-1220]"
 tracks = [
     [1, "Overfly", "春奈るな", "0"],
-    [2, "祈り", "春奈るな", ""],
-    [3, "魔法の城、真実の書物。", "春奈るな", ""],
+    [2, "祈り", "春奈るな", "0"],
+    [3, "魔法の城、真実の書物。", "春奈るな", "0"],
     [4, "Overfly -Instrumental-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dd7978bc-1ff6-4fcd-8d42-0e54d2b43222", "https://vgmdb.net/album/35256"]
@@ -1377,7 +1377,7 @@ tracks = [
     [2, "キモチファクトリー", "", ""],
     [3, "そしてパレードは続く", "", ""],
     [4, "Believe in myself", "", ""],
-    [5, "シルシ", "", ""],
+    [5, "シルシ", "", "0"],
     [6, "LiTTLE DEViL PARADE", "", ""],
     [7, "コズミックジェットコースター", "", ""],
     [8, "ROCK-mode", "", ""],
@@ -1490,7 +1490,7 @@ tracks = [
     [2, "IGNITE", "藍井エイル", "0"],
     [3, "ラピスラズリ", "藍井エイル", ""],
     [4, "ゆらり", "藍井エイル", ""],
-    [5, "シンシアの光", "藍井エイル", ""],
+    [5, "シンシアの光", "藍井エイル", "0"],
     [6, "Quit", "藍井エイル", ""],
     [7, "Bright Future", "藍井エイル", ""],
     [8, "JUMP!!!", "藍井エイル", ""],
@@ -1509,7 +1509,7 @@ date = "2014-12-03"
 album = "courage / 戸松遥 Disc 1 (CD) [SMCL-367]"
 tracks = [
     [1, "courage", "戸松遥", "0"],
-    [2, "セパレイト・ウェイズ", "戸松遥", ""],
+    [2, "セパレイト・ウェイズ", "戸松遥", "0"],
     [3, "courage (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8e8e7f1c-5bee-4868-ad41-cbbf7412c681", "https://vgmdb.net/album/48451"]
@@ -1534,7 +1534,7 @@ tracks = [
     [3, "産巣日の時", "戸松遥", ""],
     [4, "STAGE", "戸松遥", ""],
     [5, "やさしき日々", "戸松遥", ""],
-    [6, "セパレイト・ウェイズ", "戸松遥", ""],
+    [6, "セパレイト・ウェイズ", "戸松遥", "0"],
     [7, "マリラレルラ", "戸松遥", ""],
     [8, "こいのうた", "戸松遥", ""],
     [9, "Circle", "戸松遥", ""],
@@ -1543,7 +1543,7 @@ tracks = [
     [12, "Baby Baby Love", "戸松遥", ""],
     [13, "ドーナツ", "戸松遥", ""],
     [14, "ヒカリギフト", "戸松遥", ""],
-    [15, "ユメセカイ", "戸松遥", ""],
+    [15, "ユメセカイ", "戸松遥", "0"],
     [16, "bookmark", "戸松遥", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/a61e8e3f-31f3-4af7-905a-ac73908ed979", "https://vgmdb.net/album/85498"]
@@ -1686,19 +1686,19 @@ album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPIL
 tracks = [
     [1, "My Independent Destiny", "", "0"],
     [2, "Memory Heart Message", "", "0"],
-    [3, "☆Lovely Super Idol☆", "", ""],
+    [3, "☆Lovely Super Idol☆", "", "0"],
     [4, "Cheer! Tear? Cheer!!", "", "0"],
     [5, "I know \"ai\"", "", "0"],
     [6, "Face to You", "", "0"],
-    [7, "Sky The Graffiti", "", ""],
-    [8, "Sword & Soul", "", ""],
-    [9, "Sing All Overtures", "", ""],
-    [10, "white flower garden", "", ""],
+    [7, "Sky The Graffiti", "", "0"],
+    [8, "Sword & Soul", "", "0"],
+    [9, "Sing All Overtures", "", "0"],
+    [10, "white flower garden", "", "0"],
     [11, "Party-go-round", "", "0"],
     [12, "My Independent Destiny -Decadent Glitches remix-", "", "0"],
     [13, "Memory Heart Message -Remember Forever remix-", "", "0"],
-    [14, "☆Lovely Super Idol☆ -☆remix-", "", ""],
-    [15, "Sky The Graffiti -sky juke remix-", "", ""],
+    [14, "☆Lovely Super Idol☆ -☆remix-", "", "0"],
+    [15, "Sky The Graffiti -sky juke remix-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
 
@@ -1707,20 +1707,20 @@ catalognumber = "ANZX-16514"
 date = "2022-10-31"
 album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPILATION Vocal, Remix Disc 2"
 tracks = [
-    [1, "SOLITARY BULLET", "", ""],
+    [1, "SOLITARY BULLET", "", "0"],
     [2, "BLAZING BULLET", "", "0"],
     [3, "MAD BULLET\"S\"", "", "0"],
-    [4, "RELIEF BULLET", "", ""],
+    [4, "RELIEF BULLET", "", "0"],
     [5, "Memorial Calibur", "", "0"],
     [6, "Liberty Rosario", "", "0"],
-    [7, "Tomorrow's Rosario", "", ""],
-    [8, "Sleepless Legend", "", ""],
+    [7, "Tomorrow's Rosario", "", "0"],
+    [8, "Sleepless Legend", "", "0"],
     [9, "Sora e to Ateta Tegami", "", ""],
     [10, "Heart Sweet Heart", "", "0"],
     [11, "Liberty Rosario (cut-up ParaDise mix)", "", "0"],
     [12, "Memorial Calibur (85' elektro Mix)", "", "0"],
-    [13, "Solitary Bullet (LowBoOst mix)", "", ""],
-    [14, "Tomorrow's Rosario (amBient mix)", "", ""],
+    [13, "Solitary Bullet (LowBoOst mix)", "", "0"],
+    [14, "Tomorrow's Rosario (amBient mix)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
 
@@ -1729,22 +1729,22 @@ catalognumber = "ANZX-16515"
 date = "2022-10-31"
 album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPILATION Original Soundtrack Disc 3"
 tracks = [
-    [1, "swordland", "", ""],
-    [2, "the first town", "", ""],
+    [1, "swordland", "", "0"],
+    [2, "the first town", "", "0"],
     [3, "fight!", "", "0"],
     [4, "friendly feelings", "", "0"],
     [5, "a tender feeling", "", "0"],
     [6, "feel uneasy", "", "0"],
-    [7, "welcome to this world", "", ""],
+    [7, "welcome to this world", "", "0"],
     [8, "he rules us", "", "0"],
     [9, "death game", "", "0"],
-    [10, "stand at bay", "", ""],
+    [10, "stand at bay", "", "0"],
     [11, "a close battle", "", "0"],
     [12, "at our parting", "", "0"],
-    [13, "weird place", "", ""],
+    [13, "weird place", "", "0"],
     [14, "quiet strain", "", "0"],
     [15, "a tense situation", "", "0"],
-    [16, "taut nerves", "", ""],
+    [16, "taut nerves", "", "0"],
     [17, "a strategy meeting", "", "0"],
     [18, "march down", "", "0"],
     [19, "gracefully", "", "0"],
@@ -1757,14 +1757,14 @@ tracks = [
     [26, "at our parting ~piano only", "", "0"],
     [27, "despaired", "", "0"],
     [28, "a squabble", "", "0"],
-    [29, "smile for me", "", ""],
+    [29, "smile for me", "", "0"],
     [30, "at nightfall", "", "0"],
-    [31, "survive the swordland", "", ""],
+    [31, "survive the swordland", "", "0"],
     [32, "no way", "", "0"],
     [33, "a narrow escape", "", "0"],
-    [34, "with my friend", "", ""],
+    [34, "with my friend", "", "0"],
     [35, "a tiny love ~harp only", "", "0"],
-    [36, "we have to defeat it", "", ""],
+    [36, "we have to defeat it", "", "0"],
     [37, "friendly feelings ~piano only", "", "0"],
     [38, "critical phase", "", "0"],
     [39, "at our parting ~Vc only", "", "0"],
@@ -1776,25 +1776,25 @@ catalognumber = "ANZX-16516"
 date = "2022-10-31"
 album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPILATION Original Soundtrack Disc 4"
 tracks = [
-    [1, "swordland ~ to be continued", "", ""],
+    [1, "swordland ~ to be continued", "", "0"],
     [2, "is this love?", "", "0"],
-    [3, "she is still sleeping", "", ""],
+    [3, "she is still sleeping", "", "0"],
     [4, "Oberon", "", "0"],
     [5, "climbing up the world tree", "", "0"],
     [6, "a new world of fairies", "", "0"],
-    [7, "Yui", "", ""],
+    [7, "Yui", "", "0"],
     [8, "in time of peace", "", "0"],
     [9, "last flight", "", "0"],
     [10, "aerial fight", "", "0"],
     [11, "got to win", "", "0"],
     [12, "fly, if you can", "", "0"],
-    [13, "town in the morning", "", ""],
+    [13, "town in the morning", "", "0"],
     [14, "in the cage", "", "0"],
     [15, "I wonder", "", "0"],
     [16, "is this love? ~piano only ver", "", "0"],
     [17, "past sadness", "", "0"],
     [18, "fly higher and faster", "", "0"],
-    [19, "victory", "", ""],
+    [19, "victory", "", "0"],
     [20, "fight with a devil", "", "0"],
     [21, "reconciliation", "", "0"],
     [22, "false king", "", "0"],
@@ -1802,7 +1802,7 @@ tracks = [
     [24, "aincrad", "", "0"],
     [25, "like in the glass", "", "0"],
     [26, "in this world", "", "0"],
-    [27, "swordbreaking land", "", ""],
+    [27, "swordbreaking land", "", "0"],
     [28, "in this cruel land", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
@@ -1813,21 +1813,21 @@ date = "2022-10-31"
 album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPILATION Original Soundtrack Disc 5"
 tracks = [
     [1, "gunland", "", "0"],
-    [2, "this psychedelic world", "", ""],
+    [2, "this psychedelic world", "", "0"],
     [3, "Death Gun", "", "0"],
-    [4, "think tenderly of you", "", ""],
+    [4, "think tenderly of you", "", "0"],
     [5, "daily life, you and me", "", "0"],
-    [6, "something is strange", "", ""],
+    [6, "something is strange", "", "0"],
     [7, "creeping up", "", "0"],
-    [8, "unnaturally tense", "", ""],
+    [8, "unnaturally tense", "", "0"],
     [9, "inside information", "", "0"],
     [10, "concerning operation", "", "0"],
     [11, "a pressing danger", "", "0"],
-    [12, "shooting it out", "", ""],
-    [13, "where's my enemy?", "", ""],
-    [14, "they start fighting", "", ""],
+    [12, "shooting it out", "", "0"],
+    [13, "where's my enemy?", "", "0"],
+    [14, "they start fighting", "", "0"],
     [15, "continuing suspense", "", "0"],
-    [16, "she has to overcome her fear", "", ""],
+    [16, "she has to overcome her fear", "", "0"],
     [17, "good bye, again and again", "", "0"],
     [18, "no-escape", "", "0"],
     [19, "her actual world", "", "0"],
@@ -1838,18 +1838,18 @@ tracks = [
     [24, "crooked mind", "", "0"],
     [25, "a brisk conversation", "", "0"],
     [26, "he, or she?", "", "0"],
-    [27, "shoot 'em up!", "", ""],
+    [27, "shoot 'em up!", "", "0"],
     [28, "quickly and without fail", "", "0"],
     [29, "drive your way", "", "0"],
     [30, "Bullet of Bullets", "", "0"],
     [31, "another state of emergency", "", "0"],
-    [32, "think tenderly of you ~Mbox ver", "", ""],
+    [32, "think tenderly of you ~Mbox ver", "", "0"],
     [33, "I'm always thinking of you", "", "0"],
-    [34, "so I met her", "", ""],
+    [34, "so I met her", "", "0"],
     [35, "a bleak and desolate land", "", "0"],
-    [36, "she's a knockout!", "", ""],
+    [36, "she's a knockout!", "", "0"],
     [37, "fighting hard and close", "", "0"],
-    [38, "you are the winner!", "", ""],
+    [38, "you are the winner!", "", "0"],
     [39, "peace, again", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
@@ -1860,30 +1860,30 @@ date = "2022-10-31"
 album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPILATION Original Soundtrack Disc 6"
 tracks = [
     [1, "desolate landscape", "", "0"],
-    [2, "Tonky", "", ""],
+    [2, "Tonky", "", "0"],
     [3, "in this place", "", "0"],
     [4, "Freyja", "", "0"],
-    [5, "Urd", "", ""],
+    [5, "Urd", "", "0"],
     [6, "in another land", "", "0"],
-    [7, "running out of crisis", "", ""],
-    [8, "the appearance of Thrymr", "", ""],
+    [7, "running out of crisis", "", "0"],
+    [8, "the appearance of Thrymr", "", "0"],
     [9, "defeat him and get it!", "", "0"],
     [10, "in the battle field, once again", "", "0"],
     [11, "fly away from here!", "", "0"],
     [12, "a sad quarrel", "", "0"],
-    [13, "run, run, runaway", "", ""],
-    [14, "you are not alone #2", "", ""],
+    [13, "run, run, runaway", "", "0"],
+    [14, "you are not alone #2", "", "0"],
     [15, "light your sword", "", "0"],
     [16, "heartbreaking reality", "", "0"],
-    [17, "you are not alone", "", ""],
-    [18, "tears for you", "", ""],
+    [17, "you are not alone", "", "0"],
+    [18, "tears for you", "", "0"],
     [19, "moon and shadow", "", "0"],
-    [20, "you are not alone ~Ac.G ver", "", ""],
-    [21, "school days, with you", "", ""],
-    [22, "you are not alone #3", "", ""],
-    [23, "trying to understand", "", ""],
+    [20, "you are not alone ~Ac.G ver", "", "0"],
+    [21, "school days, with you", "", "0"],
+    [22, "you are not alone #3", "", "0"],
+    [23, "trying to understand", "", "0"],
     [24, "cold and wild", "", "0"],
-    [25, "you are not alone ~piano ver.", "", ""],
+    [25, "you are not alone ~piano ver.", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
 
@@ -1894,59 +1894,59 @@ album = "ソードアート・オンライン 10TH ANNIVERSARY CD SPECIAL COMPIL
 tracks = [
     [1, "in the digital world", "", "0"],
     [2, "a promise", "", "0"],
-    [3, "story of the past", "", ""],
+    [3, "story of the past", "", "0"],
     [4, "Augma", "", "0"],
     [5, "back ground music No.1", "", "0"],
-    [6, "welcome to \"Ordinal Scale\"", "", ""],
+    [6, "welcome to \"Ordinal Scale\"", "", "0"],
     [7, "logging in #1", "", "0"],
     [8, "beginning of the fight", "", "0"],
     [9, "fight in the OS", "", "0"],
-    [10, "you won!", "", ""],
+    [10, "you won!", "", "0"],
     [11, "mystery of OS #1", "", "0"],
     [12, "night time", "", "0"],
     [13, "logging in #2", "", "0"],
-    [14, "she has a luminous sword", "", ""],
-    [15, "Yuna #1", "", ""],
+    [14, "she has a luminous sword", "", "0"],
+    [15, "Yuna #1", "", "0"],
     [16, "mystery of OS #2", "", "0"],
-    [17, "starting to solve the mystery", "", ""],
-    [18, "Yuna #2", "", ""],
+    [17, "starting to solve the mystery", "", "0"],
+    [18, "Yuna #2", "", "0"],
     [19, "logging in #3", "", "0"],
     [20, "her dream", "", "0"],
     [21, "loss of memory", "", "0"],
-    [22, "to find her memory", "", ""],
-    [23, "to find her memory #2", "", ""],
+    [22, "to find her memory", "", "0"],
+    [23, "to find her memory #2", "", "0"],
     [24, "his anger", "", "0"],
     [25, "I have to regain her memory", "", "0"],
     [26, "logging in #4", "", "0"],
     [27, "another field to overcome", "", "0"],
-    [28, "Yuna #3", "", ""],
-    [29, "Yuna #4", "", ""],
+    [28, "Yuna #3", "", "0"],
+    [29, "Yuna #4", "", "0"],
     [30, "mystery of OS #3", "", "0"],
     [31, "he has something to hide", "", "0"],
-    [32, "the lost daughter", "", ""],
+    [32, "the lost daughter", "", "0"],
     [33, "in her room", "", "0"],
     [34, "I will be close to you", "", "0"],
     [35, "I will fight to regain her memory", "", "0"],
-    [36, "who are you?", "", ""],
+    [36, "who are you?", "", "0"],
     [37, "it's just only a game", "", "0"],
     [38, "he knows something", "", "0"],
     [39, "a short break", "", "0"],
     [40, "facing each other", "", "0"],
-    [41, "something wrong is happening", "", ""],
+    [41, "something wrong is happening", "", "0"],
     [42, "father and daughter", "", "0"],
     [43, "can we save them?", "", "0"],
-    [44, "we are always together", "", ""],
-    [45, "the place we should have reached", "", ""],
+    [44, "we are always together", "", "0"],
+    [45, "the place we should have reached", "", "0"],
     [46, "for your bravery", "", "0"],
     [47, "I will fight with you!", "", "0"],
     [48, "let's join swords", "", "0"],
     [49, "he is here", "", "0"],
-    [50, "shooting stars", "", ""],
-    [51, "Ubiquitous dB", "", ""],
+    [50, "shooting stars", "", "0"],
+    [51, "Ubiquitous dB", "", "0"],
     [52, "longing", "", "0"],
     [53, "delete", "", "0"],
     [54, "Break Beat Bark!", "", "0"],
-    [55, "smile for you", "", ""],
+    [55, "smile for you", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
 
@@ -1960,7 +1960,7 @@ tracks = [
     [3, "INNOCENCE", "", "0"],
     [4, "Overfly", "", "0"],
     [5, "IGNITE", "", "0"],
-    [6, "Startear", "", ""],
+    [6, "Startear", "", "0"],
     [7, "courage", "", "0"],
     [8, "No More Time Machine", "", "0"],
     [9, "Separate Ways", "", ""],
@@ -1968,11 +1968,11 @@ tracks = [
     [11, "Cynthia no Hikari", "", ""],
     [12, "Yoru no Niji wo Koete", "", ""],
     [13, "Catch the Moment", "", "0"],
-    [14, "Ubiquitous dB -special ver.-", "", ""],
+    [14, "Ubiquitous dB -special ver.-", "", "0"],
     [15, "Break Beat Bark! -special ver.-", "", "0"],
     [16, "longing -movie ver.-", "", "0"],
     [17, "delete -movie ver.-", "", "0"],
-    [18, "smile for you -movie ver.-", "", ""],
+    [18, "smile for you -movie ver.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120693"]
 
@@ -2023,7 +2023,7 @@ date = "2012-11-21"
 album = "INNOCENCE / 藍井エイル"
 tracks = [
     [1, "INNOCENCE", "藍井エイル", "0"],
-    [2, "Velvet Tears", "藍井エイル", ""],
+    [2, "Velvet Tears", "藍井エイル", "0"],
     [3, "last forever", "藍井エイル", "0"],
     [4, "INNOCENCE (instrumental)", "藍井エイル", "0"],
 ]
@@ -2243,9 +2243,9 @@ tracks = [
     [1, "ASH", "", ""],
     [2, "紅蓮華", "", ""],
     [3, "BRAND NEW YOU", "", ""],
-    [4, "変わらない青", "", ""],
+    [4, "変わらない青", "", "0"],
     [5, "蜜", "", ""],
-    [6, "シルシ", "", ""],
+    [6, "シルシ", "", "0"],
     [7, "炎", "", ""],
     [8, "unlasting", "", ""],
     [9, "dawn", "", ""],
@@ -2318,24 +2318,24 @@ date = "2015-11-17"
 album = "Sword Art Online Original Soundtrack II VOL.2"
 tracks = [
     [1, "desolate landscape", "梶浦由記", "0"],
-    [2, "Tonky", "梶浦由記", ""],
+    [2, "Tonky", "梶浦由記", "0"],
     [3, "in this place", "梶浦由記", "0"],
     [4, "Freyja", "梶浦由記", "0"],
-    [5, "Urd", "梶浦由記", ""],
+    [5, "Urd", "梶浦由記", "0"],
     [6, "in another land", "梶浦由記", "0"],
-    [7, "the appearance of Thrymr", "梶浦由記", ""],
+    [7, "the appearance of Thrymr", "梶浦由記", "0"],
     [8, "defeat him and get it!", "梶浦由記", "0"],
     [9, "in the battle field, once again", "梶浦由記", "0"],
     [10, "fly away from here!", "梶浦由記", "0"],
     [11, "a sad quarrel", "梶浦由記", "0"],
-    [12, "you are not alone #2", "梶浦由記", ""],
+    [12, "you are not alone #2", "梶浦由記", "0"],
     [13, "light your sword", "梶浦由記", "0"],
     [14, "heartbreaking reality", "梶浦由記", "0"],
-    [15, "you are not alone", "梶浦由記", ""],
-    [16, "tears for you", "梶浦由記", ""],
-    [17, "school days, with you", "梶浦由記", ""],
-    [18, "you are not alone #3", "梶浦由記", ""],
-    [19, "trying to understand", "梶浦由記", ""],
+    [15, "you are not alone", "梶浦由記", "0"],
+    [16, "tears for you", "梶浦由記", "0"],
+    [17, "school days, with you", "梶浦由記", "0"],
+    [18, "you are not alone #3", "梶浦由記", "0"],
+    [19, "trying to understand", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7139d0bc-8871-42f1-b0ed-e68e0155ba93", "https://vgmdb.net/album/54979"]
 
@@ -2352,7 +2352,7 @@ date = "2012-08-08"
 album = "crossing field / LiSA"
 tracks = [
     [1, "crossing field", "LiSA", "1"],
-    [2, "いつかの手紙", "LiSA", ""],
+    [2, "いつかの手紙", "LiSA", "0"],
     [3, "KiSS me PARADOX", "LiSA", "0"],
     [4, "crossing field -Instrumental-", "LiSA", "0"],
 ]
@@ -2450,7 +2450,7 @@ date = "2014-12-03"
 album = "courage / 戸松遥"
 tracks = [
     [1, "courage", "戸松遥", "0"],
-    [2, "セパレイト・ウェイズ", "戸松遥", ""],
+    [2, "セパレイト・ウェイズ", "戸松遥", "0"],
     [3, "courage (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/001d3f5f-d1a0-4919-93f3-e23ed2cfd9cf", "https://vgmdb.net/album/48452"]
@@ -2546,8 +2546,8 @@ catalognumber = "ANZX-11122"
 date = "2014-10-22"
 album = "ソードアート・オンライン II 第1巻 特典CD"
 tracks = [
-    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", ""],
-    [2, "SOLITARY BULLET -Instrumental-", "シノン(沢城みゆき)", ""],
+    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", "0"],
+    [2, "SOLITARY BULLET -Instrumental-", "シノン(沢城みゆき)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f303f6f8-b919-42db-b4e4-9fd62a1c635f", "https://vgmdb.net/album/46846"]
 
@@ -2662,8 +2662,8 @@ album = "ソードアート・オンライン ソングコレクション Aniple
 tracks = [
     [1, "My Independent Destiny -Decadent Glitches remix-", "アスナ(戸松 遥)", "0"],
     [2, "Memory Heart Message -Remember Forever remix-", "サチ(早見沙織)", "0"],
-    [3, "☆Lovely Super Idol☆ -☆ remix-", "シリカ(日高里菜)", ""],
-    [4, "Sky The Graffiti -sky juke remix-", "リーファ(竹達彩奈)", ""],
+    [3, "☆Lovely Super Idol☆ -☆ remix-", "シリカ(日高里菜)", "0"],
+    [4, "Sky The Graffiti -sky juke remix-", "リーファ(竹達彩奈)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4d2b589a-2cb2-4367-8ed9-225d458d44cc", "https://vgmdb.net/album/47951"]
 
@@ -2698,9 +2698,9 @@ tracks = [
     [3, "君がくれた世界", "春奈るな", ""],
     [4, "アイヲウタエ", "春奈るな", ""],
     [5, "snowdrop", "春奈るな", ""],
-    [6, "Startear", "春奈るな", ""],
+    [6, "Startear", "春奈るな", "0"],
     [7, "君色シグナル", "春奈るな", ""],
-    [8, "夜の虹を越えて", "春奈るな", ""],
+    [8, "夜の虹を越えて", "春奈るな", "0"],
     [9, "Ripple Effect", "春奈るな", ""],
     [10, "Windia", "春奈るな", ""],
     [11, "ステラブリーズ", "春奈るな", ""],
@@ -2771,7 +2771,7 @@ tracks = [
     [9, "アイリス", "藍井エイル", ""],
     [10, "今", "藍井エイル", ""],
     [11, "フラグメント", "藍井エイル", ""],
-    [12, "シンシアの光 (RE BLUE LIVE ver.)", "藍井エイル", ""],
+    [12, "シンシアの光 (RE BLUE LIVE ver.)", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a05ec7c8-1932-4bff-bcfa-1878fbc14ead", "https://vgmdb.net/album/85987"]
 
@@ -2780,9 +2780,9 @@ catalognumber = "SMCL-276"
 date = "2012-07-25"
 album = "ユメセカイ / 戸松遥"
 tracks = [
-    [1, "ユメセカイ", "戸松遥", ""],
+    [1, "ユメセカイ", "戸松遥", "0"],
     [2, "Issai Gassai", "戸松遥", "0"],
-    [3, "ユメセカイ (Instrumental)", "戸松遥", ""],
+    [3, "ユメセカイ (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d0476f89-a6ce-450c-93ee-b2f2c8a56815", "https://vgmdb.net/album/33374"]
 
@@ -2791,8 +2791,8 @@ catalognumber = "ANZX-6618"
 date = "2013-06-26"
 album = "ソードアート・オンライン 第9巻 特典CD"
 tracks = [
-    [1, "Sing All Overtures", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", ""],
-    [2, "Sing All Overtures -Instrumental-", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", ""],
+    [1, "Sing All Overtures", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", "0"],
+    [2, "Sing All Overtures -Instrumental-", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b7449bf3-b246-43f6-a9d5-c35ae8b8d499", "https://vgmdb.net/album/37024"]
 
@@ -2876,9 +2876,9 @@ catalognumber = "SMCL-273"
 date = "2012-07-25"
 album = "ユメセカイ / 戸松遥 Vocal"
 tracks = [
-    [1, "ユメセカイ", "戸松遥", ""],
+    [1, "ユメセカイ", "戸松遥", "0"],
     [2, "Issai Gassai", "戸松遥", "0"],
-    [3, "ユメセカイ (Instrumental)", "戸松遥", ""],
+    [3, "ユメセカイ (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bebe1a2c-ee50-4b36-b223-9993ad890f97", "https://vgmdb.net/album/33372"]
 
@@ -2887,8 +2887,8 @@ catalognumber = "SMCL-274"
 date = "2012-07-25"
 album = "ユメセカイ / 戸松遥 Video"
 tracks = [
-    [1, "ユメセカイ (music clip)", "戸松遥", ""],
-    [2, "ユメセカイ (TV Spot 15sec+30sec)", "戸松遥", ""],
+    [1, "ユメセカイ (music clip)", "戸松遥", "0"],
+    [2, "ユメセカイ (TV Spot 15sec+30sec)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bebe1a2c-ee50-4b36-b223-9993ad890f97", "https://vgmdb.net/album/33372"]
 
@@ -2897,10 +2897,10 @@ catalognumber = "SECL-1557"
 date = "2014-08-20"
 album = "Startear / 春奈るな Disc 1 (CD) [SECL-1557]"
 tracks = [
-    [1, "Startear", "春奈るな", ""],
-    [2, "夏の恋予報", "春奈るな", ""],
-    [3, "ラムネセカイ", "春奈るな", ""],
-    [4, "Startear -Instrumental-", "春奈るな", ""],
+    [1, "Startear", "春奈るな", "0"],
+    [2, "夏の恋予報", "春奈るな", "0"],
+    [3, "ラムネセカイ", "春奈るな", "0"],
+    [4, "Startear -Instrumental-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/20ca8280-0d17-4aa3-9752-5227aa340b9a", "https://vgmdb.net/album/45963"]
 
@@ -2909,8 +2909,8 @@ catalognumber = "SECL-1558"
 date = "2014-08-20"
 album = "Startear / 春奈るな Disc 2 (DVD) [SECL-1558]"
 tracks = [
-    [1, "Startear (Music Video)", "春奈るな", ""],
-    [2, "Startear (Music Video Making Movie)", "春奈るな", ""],
+    [1, "Startear (Music Video)", "春奈るな", "0"],
+    [2, "Startear (Music Video Making Movie)", "春奈るな", "0"],
     [3, "「Document of AnimeNEXT 2014 in New Jersey & New York, USA(2014.3.5～3.9)」", "春奈るな", ""],
     [4, "「リスアニ! TV」 (春奈るな×藍井エイル特集/巨大迷路編 -Luna ver.-)", "春奈るな", ""],
 ]
@@ -3009,7 +3009,7 @@ tracks = [
     [7, "凛", "", ""],
     [8, "KOE", "", ""],
     [9, "Overfly", "", "0"],
-    [10, "Startear", "", ""],
+    [10, "Startear", "", "0"],
     [11, "Cage", "", ""],
     [12, "sh0ut", "", ""],
     [13, "Unti-L", "", ""],
@@ -3045,7 +3045,7 @@ tracks = [
     [6, "vanilla sky", "", ""],
     [7, "BLAZING", "", ""],
     [8, "Overfly", "", "0"],
-    [9, "Startear", "", ""],
+    [9, "Startear", "", "0"],
     [10, "IGNITE", "", "0"],
     [11, "Rising Hope", "", ""],
 ]
@@ -3113,7 +3113,7 @@ tracks = [
     [1, "Rising Hope", "LiSA", ""],
     [2, "crossing field", "LiSA", "0"],
     [3, "だってアタシのヒーロー。", "LiSA", ""],
-    [4, "シルシ", "LiSA", ""],
+    [4, "シルシ", "LiSA", "0"],
     [5, "AxxxiS", "LiSA", ""],
     [6, "Empty MERMAiD", "LiSA", ""],
     [7, "ジェットロケット", "LiSA", ""],
@@ -3154,22 +3154,22 @@ catalognumber = "SVWC-70116"
 date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Disc 1 [SVWC-70116]"
 tracks = [
-    [1, "swordland", "梶浦由記", ""],
-    [2, "the first town", "梶浦由記", ""],
+    [1, "swordland", "梶浦由記", "0"],
+    [2, "the first town", "梶浦由記", "0"],
     [3, "fight!", "梶浦由記", "0"],
     [4, "friendly feelings", "梶浦由記", "0"],
     [5, "a tender feeling", "梶浦由記", "0"],
     [6, "feel uneasy", "梶浦由記", "0"],
-    [7, "welcome to this world", "梶浦由記", ""],
+    [7, "welcome to this world", "梶浦由記", "0"],
     [8, "he rules us", "梶浦由記", "0"],
     [9, "death game", "梶浦由記", "0"],
-    [10, "stand at bay", "梶浦由記", ""],
+    [10, "stand at bay", "梶浦由記", "0"],
     [11, "a close battle", "梶浦由記", "0"],
     [12, "at our parting", "梶浦由記", "0"],
-    [13, "weird place", "梶浦由記", ""],
+    [13, "weird place", "梶浦由記", "0"],
     [14, "quiet strain", "梶浦由記", "0"],
     [15, "a tense situation", "梶浦由記", "0"],
-    [16, "taut nerves", "梶浦由記", ""],
+    [16, "taut nerves", "梶浦由記", "0"],
     [17, "a strategy meeting", "梶浦由記", "0"],
     [18, "march down", "梶浦由記", "0"],
     [19, "gracefully", "梶浦由記", "0"],
@@ -3182,14 +3182,14 @@ tracks = [
     [26, "at our parting 〜piano only", "梶浦由記", "0"],
     [27, "despaired", "梶浦由記", "0"],
     [28, "a squabble", "梶浦由記", "0"],
-    [29, "smile for me", "梶浦由記", ""],
+    [29, "smile for me", "梶浦由記", "0"],
     [30, "at nightfall", "梶浦由記", "0"],
-    [31, "survive the swordland", "梶浦由記", ""],
+    [31, "survive the swordland", "梶浦由記", "0"],
     [32, "no way", "梶浦由記", "0"],
     [33, "a narrow escape", "梶浦由記", "0"],
-    [34, "with my friend", "梶浦由記", ""],
+    [34, "with my friend", "梶浦由記", "0"],
     [35, "a tiny love 〜harp only", "梶浦由記", "0"],
-    [36, "we have to defeat it", "梶浦由記", ""],
+    [36, "we have to defeat it", "梶浦由記", "0"],
     [37, "friendly feelings 〜piano only", "梶浦由記", "0"],
     [38, "critical phase", "梶浦由記", "0"],
     [39, "at our parting 〜Vc only", "梶浦由記", "0"],
@@ -3201,25 +3201,25 @@ catalognumber = "SVWC-70117"
 date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Disc 2 [SVWC-70117]"
 tracks = [
-    [1, "swordland〜to be continued", "梶浦由記", ""],
+    [1, "swordland〜to be continued", "梶浦由記", "0"],
     [2, "is this love?", "梶浦由記", "0"],
-    [3, "she is still sleeping", "梶浦由記", ""],
+    [3, "she is still sleeping", "梶浦由記", "0"],
     [4, "Oberon", "梶浦由記", "0"],
     [5, "climbing up the world tree", "梶浦由記", "0"],
     [6, "a new world of fairies", "梶浦由記", "0"],
-    [7, "Yui", "梶浦由記", ""],
+    [7, "Yui", "梶浦由記", "0"],
     [8, "in time of peace", "梶浦由記", "0"],
     [9, "last flight", "梶浦由記", "0"],
     [10, "aerial fight", "梶浦由記", "0"],
     [11, "got to win", "梶浦由記", "0"],
     [12, "fly, if you can", "梶浦由記", "0"],
-    [13, "town in the morning", "梶浦由記", ""],
+    [13, "town in the morning", "梶浦由記", "0"],
     [14, "in the cage", "梶浦由記", "0"],
     [15, "I wonder", "梶浦由記", "0"],
     [16, "is this love? 〜piano only ver.", "梶浦由記", "0"],
     [17, "past sadness", "梶浦由記", "0"],
     [18, "fly higher and faster", "梶浦由記", "0"],
-    [19, "victory", "梶浦由記", ""],
+    [19, "victory", "梶浦由記", "0"],
     [20, "fight with a devil", "梶浦由記", "0"],
     [21, "reconciliation", "梶浦由記", "0"],
     [22, "false king", "梶浦由記", "0"],
@@ -3227,7 +3227,7 @@ tracks = [
     [24, "aincrad", "梶浦由記", "0"],
     [25, "like in the glass", "梶浦由記", "0"],
     [26, "in this world", "梶浦由記", "0"],
-    [27, "swordbreaking land", "梶浦由記", ""],
+    [27, "swordbreaking land", "梶浦由記", "0"],
     [28, "in this cruel land", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2dc35217-c9f5-46e5-8b87-8f8af3574cbe", "https://vgmdb.net/album/55173"]
@@ -3238,21 +3238,21 @@ date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Disc 3 [SVWC-70118]"
 tracks = [
     [1, "gunland", "梶浦由記", "0"],
-    [2, "this psychedelic world", "梶浦由記", ""],
+    [2, "this psychedelic world", "梶浦由記", "0"],
     [3, "Death Gun", "梶浦由記", "0"],
-    [4, "think tenderly of you", "梶浦由記", ""],
+    [4, "think tenderly of you", "梶浦由記", "0"],
     [5, "daily life, you and me", "梶浦由記", "0"],
-    [6, "something is strange", "梶浦由記", ""],
+    [6, "something is strange", "梶浦由記", "0"],
     [7, "creeping up", "梶浦由記", "0"],
-    [8, "unnaturally tense", "梶浦由記", ""],
+    [8, "unnaturally tense", "梶浦由記", "0"],
     [9, "inside information", "梶浦由記", "0"],
     [10, "concerning operation", "梶浦由記", "0"],
     [11, "a pressing danger", "梶浦由記", "0"],
-    [12, "shooting it out", "梶浦由記", ""],
-    [13, "where's my enemy?", "梶浦由記", ""],
-    [14, "they start fighting", "梶浦由記", ""],
+    [12, "shooting it out", "梶浦由記", "0"],
+    [13, "where's my enemy?", "梶浦由記", "0"],
+    [14, "they start fighting", "梶浦由記", "0"],
     [15, "continuing suspense", "梶浦由記", "0"],
-    [16, "she has to overcome her fear", "梶浦由記", ""],
+    [16, "she has to overcome her fear", "梶浦由記", "0"],
     [17, "good bye, again and again", "梶浦由記", "0"],
     [18, "no-escape", "梶浦由記", "0"],
     [19, "her actual world", "梶浦由記", "0"],
@@ -3263,18 +3263,18 @@ tracks = [
     [24, "crooked mind", "梶浦由記", "0"],
     [25, "a brisk conversation", "梶浦由記", "0"],
     [26, "he, or she?", "梶浦由記", "0"],
-    [27, "shoot 'em up!", "梶浦由記", ""],
+    [27, "shoot 'em up!", "梶浦由記", "0"],
     [28, "quickly and without fail", "梶浦由記", "0"],
     [29, "drive your way", "梶浦由記", "0"],
     [30, "Bullet of Bullets", "梶浦由記", "0"],
     [31, "another state of emergency", "梶浦由記", "0"],
-    [32, "think tenderly of you 〜Mbox ver", "梶浦由記", ""],
+    [32, "think tenderly of you 〜Mbox ver", "梶浦由記", "0"],
     [33, "I'm always thinking of you", "梶浦由記", "0"],
-    [34, "so I met her", "梶浦由記", ""],
+    [34, "so I met her", "梶浦由記", "0"],
     [35, "a bleak and desolate land", "梶浦由記", "0"],
-    [36, "she's a knockout!", "梶浦由記", ""],
+    [36, "she's a knockout!", "梶浦由記", "0"],
     [37, "fighting hard and close", "梶浦由記", "0"],
-    [38, "you are the winner!", "梶浦由記", ""],
+    [38, "you are the winner!", "梶浦由記", "0"],
     [39, "peace, again", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2dc35217-c9f5-46e5-8b87-8f8af3574cbe", "https://vgmdb.net/album/55173"]
@@ -3285,30 +3285,30 @@ date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Disc 4 [SVWC-70119]"
 tracks = [
     [1, "desolate landscape", "梶浦由記", "0"],
-    [2, "Tonky", "梶浦由記", ""],
+    [2, "Tonky", "梶浦由記", "0"],
     [3, "in this place", "梶浦由記", "0"],
     [4, "Freyja", "梶浦由記", "0"],
-    [5, "Urd", "梶浦由記", ""],
+    [5, "Urd", "梶浦由記", "0"],
     [6, "in another land", "梶浦由記", "0"],
-    [7, "running out of crisis", "梶浦由記", ""],
-    [8, "the appearance of Thrymr", "梶浦由記", ""],
+    [7, "running out of crisis", "梶浦由記", "0"],
+    [8, "the appearance of Thrymr", "梶浦由記", "0"],
     [9, "defeat him and get it!", "梶浦由記", "0"],
     [10, "in the battle field, once again", "梶浦由記", "0"],
     [11, "fly away from here!", "梶浦由記", "0"],
     [12, "a sad quarrel", "梶浦由記", "0"],
-    [13, "run, run, runaway", "梶浦由記", ""],
-    [14, "you are not alone #2", "梶浦由記", ""],
+    [13, "run, run, runaway", "梶浦由記", "0"],
+    [14, "you are not alone #2", "梶浦由記", "0"],
     [15, "light your sword", "梶浦由記", "0"],
     [16, "heartbreaking reality", "梶浦由記", "0"],
-    [17, "you are not alone", "梶浦由記", ""],
-    [18, "tears for you", "梶浦由記", ""],
+    [17, "you are not alone", "梶浦由記", "0"],
+    [18, "tears for you", "梶浦由記", "0"],
     [19, "moon and shadow", "梶浦由記", "0"],
-    [20, "you are not alone 〜Ac.G ver.", "梶浦由記", ""],
-    [21, "school days, with you", "梶浦由記", ""],
-    [22, "you are not alone #3", "梶浦由記", ""],
-    [23, "trying to understand", "梶浦由記", ""],
+    [20, "you are not alone 〜Ac.G ver.", "梶浦由記", "0"],
+    [21, "school days, with you", "梶浦由記", "0"],
+    [22, "you are not alone #3", "梶浦由記", "0"],
+    [23, "trying to understand", "梶浦由記", "0"],
     [24, "cold and wild", "梶浦由記", "0"],
-    [25, "you are not alone 〜piano ver.", "梶浦由記", ""],
+    [25, "you are not alone 〜piano ver.", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2dc35217-c9f5-46e5-8b87-8f8af3574cbe", "https://vgmdb.net/album/55173"]
 
@@ -3357,7 +3357,7 @@ tracks = [
     [1, "Rising Hope", "LiSA", ""],
     [2, "crossing field", "LiSA", "0"],
     [3, "だってアタシのヒーロー。", "LiSA", ""],
-    [4, "シルシ", "LiSA", ""],
+    [4, "シルシ", "LiSA", "0"],
     [5, "AxxxiS", "LiSA", ""],
     [6, "Empty MERMAiD", "LiSA", ""],
     [7, "ジェットロケット", "LiSA", ""],
@@ -3395,15 +3395,15 @@ catalognumber = "SVWC-70265"
 date = "2017-03-22"
 album = "ソードアート・オンライン ソングコレクションII Disc 1 [SVWC-70265]"
 tracks = [
-    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", ""],
+    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", "0"],
     [2, "BLAZING BULLET", "キリト(CV:松岡禎丞)&シノン(CV:沢城みゆき)", "0"],
     [3, "MAD BULLET\"S\"", "デス・ガン(CV:保志総一朗)&新川恭二(CV:花江夏樹)", "0"],
-    [4, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", ""],
+    [4, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", "0"],
     [5, "Memorial Calibur", "リーファ(CV:竹達彩奈)&ユイ(CV:伊藤かな恵)&シリカ(CV:日高里菜)&リズベット(CV:高垣彩陽)", "0"],
     [6, "Liberty Rosario", "ユウキ(CV:悠木碧)", "0"],
-    [7, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", ""],
-    [8, "Sleepless Legend", "ユウキ(CV:悠木碧)&シウネー(CV:嶋村侑)&ジュン(CV:山下大輝)&テッチ(CV:こぶしのぶゆき)&タルケン(CV:田丸篤志)&ノリ(CV:田野アサミ)&アスナ(CV:戸松遥)", ""],
-    [9, "空へと宛てた手紙", "アスナ(CV:戸松遥)&ユウキ(CV:悠木碧)", ""],
+    [7, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", "0"],
+    [8, "Sleepless Legend", "ユウキ(CV:悠木碧)&シウネー(CV:嶋村侑)&ジュン(CV:山下大輝)&テッチ(CV:こぶしのぶゆき)&タルケン(CV:田丸篤志)&ノリ(CV:田野アサミ)&アスナ(CV:戸松遥)", "0"],
+    [9, "空へと宛てた手紙", "アスナ(CV:戸松遥)&ユウキ(CV:悠木碧)", "0"],
     [10, "Heart Sweet Heart", "ユイ(伊藤かな恵)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/aa8cc251-d57d-4d6b-9977-e4c91654cc71", "https://vgmdb.net/album/65808"]
@@ -3414,13 +3414,13 @@ date = "2017-03-22"
 album = "ソードアート・オンライン ソングコレクションII Disc 2 [SVWC-70266]"
 tracks = [
     [1, "IGNITE", "藍井エイル", "0"],
-    [2, "Startear", "春奈るな", ""],
+    [2, "Startear", "春奈るな", "0"],
     [3, "courage", "戸松遥", "0"],
     [4, "No More Time Machine", "LiSA", "0"],
-    [5, "セパレイト・ウェイズ", "戸松遥", ""],
-    [6, "シルシ", "LiSA", ""],
-    [7, "シンシアの光", "藍井エイル", ""],
-    [8, "夜の虹を越えて", "春奈るな", ""],
+    [5, "セパレイト・ウェイズ", "戸松遥", "0"],
+    [6, "シルシ", "LiSA", "0"],
+    [7, "シンシアの光", "藍井エイル", "0"],
+    [8, "夜の虹を越えて", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/aa8cc251-d57d-4d6b-9977-e4c91654cc71", "https://vgmdb.net/album/65808"]
 
@@ -3430,8 +3430,8 @@ date = "2012-11-28"
 album = "Overfly / 春奈るな Vocal"
 tracks = [
     [1, "Overfly", "春奈るな", "1"],
-    [2, "祈り", "春奈るな", ""],
-    [3, "魔法の城、真実の書物。", "春奈るな", ""],
+    [2, "祈り", "春奈るな", "0"],
+    [3, "魔法の城、真実の書物。", "春奈るな", "0"],
     [4, "Overfly -TV size ver.-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/275e0d01-ba20-4519-918d-d9a1ebcf94ba", "https://vgmdb.net/album/35258"]
@@ -3461,7 +3461,7 @@ tracks = [
     [8, "アヴァロン・ブルー", "藍井エイル", ""],
     [9, "コバルト・スカイ", "藍井エイル", ""],
     [10, "frozen eyez", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "GLORIA", "藍井エイル", ""],
     [13, "レイニーデイ", "藍井エイル", ""],
 ]
@@ -3527,9 +3527,9 @@ tracks = [
     [3, "君がくれた世界", "春奈るな", ""],
     [4, "アイヲウタエ", "春奈るな", ""],
     [5, "snowdrop", "春奈るな", ""],
-    [6, "Startear", "春奈るな", ""],
+    [6, "Startear", "春奈るな", "0"],
     [7, "君色シグナル", "春奈るな", ""],
-    [8, "夜の虹を越えて", "春奈るな", ""],
+    [8, "夜の虹を越えて", "春奈るな", "0"],
     [9, "Ripple Effect", "春奈るな", ""],
     [10, "Windia", "春奈るな", ""],
     [11, "ステラブリーズ", "春奈るな", ""],
@@ -3548,13 +3548,13 @@ tracks = [
     [1, "キミノテ", "春奈るな", ""],
     [2, "微熱の月", "春奈るな", ""],
     [3, "I WANNA 電磁的 DO", "春奈るな", ""],
-    [4, "祈り", "春奈るな", ""],
+    [4, "祈り", "春奈るな", "0"],
     [5, "狂想リフレイン", "春奈るな", ""],
     [6, "ぼくというきみへ", "春奈るな", ""],
     [7, "TRUE STORY", "春奈るな", ""],
     [8, "るなティックワード", "春奈るな", ""],
     [9, "如月アテンション", "じん feat. 春奈るな", ""],
-    [10, "ラムネセカイ", "春奈るな", ""],
+    [10, "ラムネセカイ", "春奈るな", "0"],
     [11, "恋の期限は3年、愛の期限は何年?", "春奈るな", ""],
     [12, "みんな絶対キミが好き", "春奈るな", ""],
     [13, "Sweet Fantasy", "春奈るな", ""],
@@ -3577,7 +3577,7 @@ tracks = [
     [8, "Sweet Fantasy (Music Video)", "春奈るな", ""],
     [9, "みんな絶対キミが好き (Music Video)", "春奈るな", ""],
     [10, "君色シグナル (Music Video)", "春奈るな", ""],
-    [11, "Startear (Music Video)", "春奈るな", ""],
+    [11, "Startear (Music Video)", "春奈るな", "0"],
     [12, "snowdrop (Music Video)", "春奈るな", ""],
     [13, "アイヲウタエ (Music Video)", "春奈るな", ""],
     [14, "君がくれた世界 (Music Video)", "春奈るな", ""],
@@ -3604,7 +3604,7 @@ tracks = [
     [11, "エレクトリリカル", "LiSA", ""],
     [12, "君にピエロ", "LiSA", ""],
     [13, "No More Time Machine", "LiSA", "0"],
-    [14, "シルシ", "LiSA", ""],
+    [14, "シルシ", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/107ef951-e611-4cd4-a7e5-6f47daa1e02a", "https://vgmdb.net/album/50330"]
 
@@ -3623,7 +3623,7 @@ tracks = [
     [8, "traumerei", "", ""],
     [9, "DOCTOR", "", ""],
     [10, "シロイトイキ", "", ""],
-    [11, "いつかの手紙", "", ""],
+    [11, "いつかの手紙", "", "0"],
     [12, "アシアトコンパス", "", ""],
     [13, "EGOiSTiC SHOOTER", "", ""],
     [14, "ROCK-mode", "", ""],
@@ -3683,7 +3683,7 @@ tracks = [
     [17, "M@STERPIECE", "765PRO ALLSTARS", ""],
     [18, "DAYS", "FLOW", ""],
     [19, "MEMORIA", "藍井エイル", ""],
-    [20, "Shooting Star", "KOTOKO", ""],
+    [20, "Shooting Star", "KOTOKO", "0"],
     [21, "鳥の詩", "Lia", ""],
     [22, "だんご大家族", "茶太", ""],
     [23, "ゆずれない願い", "田村直美", ""],
@@ -3720,7 +3720,7 @@ tracks = [
     [3, "産巣日の時", "戸松遥", ""],
     [4, "STAGE", "戸松遥", ""],
     [5, "やさしき日々", "戸松遥", ""],
-    [6, "セパレイト・ウェイズ", "戸松遥", ""],
+    [6, "セパレイト・ウェイズ", "戸松遥", "0"],
     [7, "マリラレルラ", "戸松遥", ""],
     [8, "こいのうた", "戸松遥", ""],
     [9, "Circle", "戸松遥", ""],
@@ -3729,7 +3729,7 @@ tracks = [
     [12, "Baby Baby Love", "戸松遥", ""],
     [13, "ドーナツ", "戸松遥", ""],
     [14, "ヒカリギフト", "戸松遥", ""],
-    [15, "ユメセカイ", "戸松遥", ""],
+    [15, "ユメセカイ", "戸松遥", "0"],
     [16, "bookmark", "戸松遥", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/01c5b8bb-d240-416c-b4b4-7060b4c0c3d9", "https://vgmdb.net/album/85499"]
@@ -3767,7 +3767,7 @@ tracks = [
     [5, "PURPLE LOVE", "春奈るな", ""],
     [6, "REASON", "春奈るな", ""],
     [7, "アイコトバ", "春奈るな", ""],
-    [8, "Startear", "春奈るな", ""],
+    [8, "Startear", "春奈るな", "0"],
     [9, "美しきセンティメント", "春奈るな", ""],
     [10, "KIRAMEKI☆ライフライン", "春奈るな", ""],
     [11, "NAKED HEART", "春奈るな", ""],
@@ -3782,7 +3782,7 @@ date = "2017-02-15"
 album = "Catch the Moment / LiSA [Limited Edition] Disc 1 (CD) [SVWC-70233]"
 tracks = [
     [1, "Catch the Moment", "LiSA", "0"],
-    [2, "リングアベル", "LiSA", ""],
+    [2, "リングアベル", "LiSA", "0"],
     [3, "Merry Hurry Berry", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/86730752-b66c-4802-97cd-08988f7b7ff0", "https://vgmdb.net/album/63270"]
@@ -3825,7 +3825,7 @@ tracks = [
     [1, "シアトル「Sakura-Con」密着ドキュメント映像", "春奈るな", ""],
     [2, "「OVERSKY」 CD Jacket Making Movie", "春奈るな", ""],
     [3, "煌く星の病 (Music Video)", "春奈るな", ""],
-    [4, "魔法の城、真実の書物。 (Music Video)", "春奈るな", ""],
+    [4, "魔法の城、真実の書物。 (Music Video)", "春奈るな", "0"],
     [5, "終焉の魔法、終天の真意。 (Music Video)", "春奈るな", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/af4e1ddd-9771-4c9d-818a-288d5c41354a", "https://vgmdb.net/album/40781"]
@@ -3835,7 +3835,7 @@ catalognumber = "SEXX-00985"
 date = "2015-03-25"
 album = "シンシアの光 / 藍井エイル"
 tracks = [
-    [1, "シンシアの光", "藍井エイル", ""],
+    [1, "シンシアの光", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f9eef0c3-d5f5-4caf-a297-9fb039f4a79f", "https://vgmdb.net/album/51622"]
 
@@ -3875,8 +3875,8 @@ date = "2012-11-28"
 album = "Overfly / 春奈るな"
 tracks = [
     [1, "Overfly", "春奈るな", "0"],
-    [2, "祈り", "春奈るな", ""],
-    [3, "魔法の城、真実の書物。", "春奈るな", ""],
+    [2, "祈り", "春奈るな", "0"],
+    [3, "魔法の城、真実の書物。", "春奈るな", "0"],
     [4, "Overfly -Instrumental-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6b566ca2-246a-4227-82cc-9b7ff9c669b7", "https://vgmdb.net/album/35257"]
@@ -3972,7 +3972,7 @@ tracks = [
     [2, "IGNITE", "藍井エイル", "0"],
     [3, "ラピスラズリ", "藍井エイル", ""],
     [4, "ゆらり", "藍井エイル", ""],
-    [5, "シンシアの光", "藍井エイル", ""],
+    [5, "シンシアの光", "藍井エイル", "0"],
     [6, "Quit", "藍井エイル", ""],
     [7, "Bright Future", "藍井エイル", ""],
     [8, "JUMP!!!", "藍井エイル", ""],
@@ -3994,7 +3994,7 @@ tracks = [
     [2, "ツナガルオモイ (Music Video)", "藍井エイル", ""],
     [3, "GENESIS (Music Video)", "藍井エイル", ""],
     [4, "ラピスラズリ (Music Video)", "藍井エイル", ""],
-    [5, "シンシアの光 (Music Video)", "藍井エイル", ""],
+    [5, "シンシアの光 (Music Video)", "藍井エイル", "0"],
     [6, "Making of 「D’AZUR」", "藍井エイル", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/dbc7abc2-b619-43ff-93c1-8eb0227d7179", "https://vgmdb.net/album/52395"]
@@ -4051,8 +4051,8 @@ date = "2021-10-29"
 album = "ソードアート・オンライン フィルムオーケストラコンサート 2021 with 東京ニューシティ管弦楽団 Disc 1 [SVWC-70554]"
 tracks = [
     [1, "aincrad", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
-    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
+    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [4, "luminous sword", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [5, "a tender feeling", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [6, "at our parting", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
@@ -4062,11 +4062,11 @@ tracks = [
     [10, "dance with me", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [11, "Death Gun", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [12, "moon and shadow", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [14, "fight in the OS", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [15, "let’s join swords", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [16, "delete", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6f370d28-40f9-4844-8b2b-6dccae003ec6", "https://vgmdb.net/album/112738"]
 
@@ -4122,7 +4122,7 @@ album = "IGNITE / 藍井エイル"
 tracks = [
     [1, "IGNITE", "藍井エイル", "0"],
     [2, "Brainwash", "藍井エイル", "0"],
-    [3, "泡沫", "藍井エイル", ""],
+    [3, "泡沫", "藍井エイル", "0"],
     [4, "IGNITE (Instrumental)", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c27a9b3f-1b54-4b02-968e-f82fe7930aac", "https://vgmdb.net/album/45961"]
@@ -4132,8 +4132,8 @@ catalognumber = "ANZX-11138"
 date = "2015-06-24"
 album = "ソードアート・オンライン II 第9巻 特典CD"
 tracks = [
-    [1, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", ""],
-    [2, "Tomorrow's Rosario -Instrumental-", "アスナ(CV:戸松遥)", ""],
+    [1, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", "0"],
+    [2, "Tomorrow's Rosario -Instrumental-", "アスナ(CV:戸松遥)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/fe81d38b-5bdd-4b42-aa0d-b473479a18b2", "https://vgmdb.net/album/49873"]
 
@@ -4153,9 +4153,9 @@ tracks = [
     [1, "ASH", "", ""],
     [2, "紅蓮華", "", ""],
     [3, "BRAND NEW YOU", "", ""],
-    [4, "変わらない青", "", ""],
+    [4, "変わらない青", "", "0"],
     [5, "蜜", "", ""],
-    [6, "シルシ", "", ""],
+    [6, "シルシ", "", "0"],
     [7, "炎", "", ""],
     [8, "unlasting", "", ""],
     [9, "dawn", "", ""],
@@ -4285,7 +4285,7 @@ tracks = [
     [1, "Prologue 〜Candy Lips〜", "春奈るな", ""],
     [2, "君色シグナル", "春奈るな", ""],
     [3, "みんな絶対キミが好き", "春奈るな", ""],
-    [4, "Startear", "春奈るな", ""],
+    [4, "Startear", "春奈るな", "0"],
     [5, "DESSERT", "春奈るな", ""],
     [6, "恋の期限は3年、愛の期限は何年?", "春奈るな", ""],
     [7, "乙女の願い事", "春奈るな", ""],
@@ -4293,7 +4293,7 @@ tracks = [
     [9, "SU・KI・DA・YO", "春奈るな", ""],
     [10, "るなティックワード", "春奈るな", ""],
     [11, "snowdrop", "春奈るな", ""],
-    [12, "夜の虹を越えて", "春奈るな", ""],
+    [12, "夜の虹を越えて", "春奈るな", "0"],
     [13, "Beautiful World", "春奈るな", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/659919fa-5f8e-43d0-8ad0-e39826fafe2f", "https://vgmdb.net/album/50568"]
@@ -4316,9 +4316,9 @@ catalognumber = "SVWC-70033"
 date = "2014-12-10"
 album = "シルシ / LiSA Disc 1 (CD) [SVWC-70033]"
 tracks = [
-    [1, "シルシ", "LiSA", ""],
+    [1, "シルシ", "LiSA", "0"],
     [2, "No More Time Machine", "LiSA", "0"],
-    [3, "シルシ -instrumental-", "LiSA", ""],
+    [3, "シルシ -instrumental-", "LiSA", "0"],
     [4, "No More Time Machine -instrumental-", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4c65b1cc-7003-4d4c-bec0-a06730e2cae6", "https://vgmdb.net/album/48445"]
@@ -4378,7 +4378,7 @@ catalognumber = "SVWC-70035"
 date = "2014-12-10"
 album = "シルシ / LiSA"
 tracks = [
-    [1, "シルシ", "LiSA", ""],
+    [1, "シルシ", "LiSA", "0"],
     [2, "No More Time Machine", "LiSA", "0"],
     [3, "crossing field -English ver.-", "LiSA", "0"],
 ]
@@ -4512,24 +4512,24 @@ catalognumber = "SVWC-70224"
 date = "2017-03-22"
 album = "ソードアート・オンライン ソングコレクションII"
 tracks = [
-    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", ""],
+    [1, "SOLITARY BULLET", "シノン(沢城みゆき)", "0"],
     [2, "BLAZING BULLET", "キリト(CV:松岡禎丞)&シノン(CV:沢城みゆき)", "0"],
     [3, "MAD BULLET\"S\"", "デス・ガン(CV:保志総一朗)&新川恭二(CV:花江夏樹)", "0"],
-    [4, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", ""],
+    [4, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", "0"],
     [5, "Memorial Calibur", "リーファ(CV:竹達彩奈)&ユイ(CV:伊藤かな恵)&シリカ(CV:日高里菜)&リズベット(CV:高垣彩陽)", "0"],
     [6, "Liberty Rosario", "ユウキ(CV:悠木碧)", "0"],
-    [7, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", ""],
-    [8, "Sleepless Legend", "ユウキ(CV:悠木碧)&シウネー(CV:嶋村侑)&ジュン(CV:山下大輝)&テッチ(CV:こぶしのぶゆき)&タルケン(CV:田丸篤志)&ノリ(CV:田野アサミ)&アスナ(CV:戸松遥)", ""],
-    [9, "空へと宛てた手紙", "アスナ(CV:戸松遥)&ユウキ(CV:悠木碧)", ""],
+    [7, "Tomorrow's Rosario", "アスナ(CV:戸松遥)", "0"],
+    [8, "Sleepless Legend", "ユウキ(CV:悠木碧)&シウネー(CV:嶋村侑)&ジュン(CV:山下大輝)&テッチ(CV:こぶしのぶゆき)&タルケン(CV:田丸篤志)&ノリ(CV:田野アサミ)&アスナ(CV:戸松遥)", "0"],
+    [9, "空へと宛てた手紙", "アスナ(CV:戸松遥)&ユウキ(CV:悠木碧)", "1"],
     [10, "Heart Sweet Heart", "ユイ(伊藤かな恵)", "0"],
     [11, "IGNITE", "藍井エイル", "0"],
-    [12, "Startear", "春奈るな", ""],
+    [12, "Startear", "春奈るな", "0"],
     [13, "courage", "戸松遥", "0"],
     [14, "No More Time Machine", "LiSA", "0"],
-    [15, "セパレイト・ウェイズ", "戸松遥", ""],
-    [16, "シルシ", "LiSA", ""],
-    [17, "シンシアの光", "藍井エイル", ""],
-    [18, "夜の虹を越えて", "春奈るな", ""],
+    [15, "セパレイト・ウェイズ", "戸松遥", "0"],
+    [16, "シルシ", "LiSA", "0"],
+    [17, "シンシアの光", "藍井エイル", "0"],
+    [18, "夜の虹を越えて", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/bb232837-096f-440f-b9ff-c61405d92392", "https://vgmdb.net/album/62017"]
 
@@ -4598,10 +4598,10 @@ catalognumber = "SECL-1559"
 date = "2014-08-20"
 album = "Startear / 春奈るな"
 tracks = [
-    [1, "Startear", "春奈るな", ""],
-    [2, "夏の恋予報", "春奈るな", ""],
-    [3, "ラムネセカイ", "春奈るな", ""],
-    [4, "Startear -Instrumental-", "春奈るな", ""],
+    [1, "Startear", "春奈るな", "0"],
+    [2, "夏の恋予報", "春奈るな", "0"],
+    [3, "ラムネセカイ", "春奈るな", "0"],
+    [4, "Startear -Instrumental-", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/29e56cd7-7c2d-47df-b5e4-d0c15f2acae3", "https://vgmdb.net/album/45964"]
 
@@ -4625,7 +4625,7 @@ tracks = [
     [3, "サンビカ", "藍井エイル", ""],
     [4, "GENESIS", "藍井エイル", ""],
     [5, "MEMORIA", "藍井エイル", ""],
-    [6, "シンシアの光", "藍井エイル", ""],
+    [6, "シンシアの光", "藍井エイル", "0"],
     [7, "HaNaZaKaRi", "藍井エイル", ""],
     [8, "クロイウタ", "藍井エイル", ""],
     [9, "KASUMI", "藍井エイル", ""],
@@ -4660,9 +4660,9 @@ date = "2012-11-21"
 album = "ソードアート・オンライン 第2巻 特典CD"
 tracks = [
     [1, "Memory Heart Message", "サチ(早見沙織)", "0"],
-    [2, "☆Lovely Super Idol☆", "シリカ(日高里菜)", ""],
+    [2, "☆Lovely Super Idol☆", "シリカ(日高里菜)", "1"],
     [3, "Memory Heart Message -Instrumental-", "サチ(早見沙織)", "0"],
-    [4, "☆Lovely Super Idol☆ -Instrumental-", "シリカ(日高里菜)", ""],
+    [4, "☆Lovely Super Idol☆ -Instrumental-", "シリカ(日高里菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/35bc7d37-1a88-4c82-805b-dc530f0115db", "https://vgmdb.net/album/34664"]
 
@@ -4731,7 +4731,7 @@ tracks = [
     [8, "nayuta gride", "藍井エイル", ""],
     [9, "惑星の唄", "藍井エイル", ""],
     [10, "翼の行方", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "Daydream", "藍井エイル", ""],
     [13, "KASUMI", "藍井エイル", ""],
     [14, "A New Day", "藍井エイル", ""],
@@ -4767,7 +4767,7 @@ tracks = [
     [8, "nayuta gride", "藍井エイル", ""],
     [9, "惑星の唄", "藍井エイル", ""],
     [10, "翼の行方", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "Daydream", "藍井エイル", ""],
     [13, "KASUMI", "藍井エイル", ""],
     [14, "A New Day", "藍井エイル", ""],
@@ -4782,7 +4782,7 @@ tracks = [
     [1, "コバルト・スカイ (Music Video)", "藍井エイル", ""],
     [2, "シリウス (Music Video)", "藍井エイル", ""],
     [3, "クロイウタ (Music Video)", "藍井エイル", ""],
-    [4, "虹の音 (Music Video)", "藍井エイル", ""],
+    [4, "虹の音 (Music Video)", "藍井エイル", "0"],
     [5, "KASUMI (Music Video)", "藍井エイル", ""],
     [6, "サンビカ (Music Video -Live ver.-)", "藍井エイル", ""],
 ]
@@ -4838,7 +4838,7 @@ date = "2012-11-21"
 album = "INNOCENCE / 藍井エイル Vocal"
 tracks = [
     [1, "INNOCENCE", "藍井エイル", "0"],
-    [2, "Velvet Tears", "藍井エイル", ""],
+    [2, "Velvet Tears", "藍井エイル", "0"],
     [3, "last forever", "藍井エイル", "0"],
     [4, "INNOCENCE (instrumental)", "藍井エイル", "0"],
 ]
@@ -4924,7 +4924,7 @@ tracks = [
     [1, "Rising Hope", "LiSA", ""],
     [2, "crossing field", "LiSA", "0"],
     [3, "だってアタシのヒーロー。", "LiSA", ""],
-    [4, "シルシ", "LiSA", ""],
+    [4, "シルシ", "LiSA", "0"],
     [5, "AxxxiS", "LiSA", ""],
     [6, "Empty MERMAiD", "LiSA", ""],
     [7, "ジェットロケット", "LiSA", ""],
@@ -5042,8 +5042,8 @@ date = "2021-10-29"
 album = "ソードアート・オンライン フィルムオーケストラコンサート 2021 with 東京ニューシティ管弦楽団 [初回生産限定盤] Arrangement, Live Event Disc 1"
 tracks = [
     [1, "aincrad", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
-    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
+    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [4, "luminous sword", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [5, "a tender feeling", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [6, "at our parting", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
@@ -5053,11 +5053,11 @@ tracks = [
     [10, "dance with me", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [11, "Death Gun", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [12, "moon and shadow", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [14, "fight in the OS", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [15, "let’s join swords", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [16, "delete", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6b63ba7d-5b48-4acf-a421-db2f69c082b5", "https://vgmdb.net/album/112739"]
 
@@ -5093,8 +5093,8 @@ date = "2021-10-29"
 album = "ソードアート・オンライン フィルムオーケストラコンサート 2021 with 東京ニューシティ管弦楽団 [初回生産限定盤] Arrangement, Live Event, Video"
 tracks = [
     [1, "aincrad", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
-    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [2, "swordland", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
+    [3, "the first town", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [4, "luminous sword", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [5, "a tender feeling", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [6, "at our parting", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
@@ -5104,11 +5104,11 @@ tracks = [
     [10, "dance with me", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [11, "Death Gun", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [12, "moon and shadow", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [13, "you are not alone", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [14, "fight in the OS", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [15, "let’s join swords", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [16, "delete", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
-    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
+    [17, "smile for you", "梶浦由記 with 東京ニューシティ管弦楽団", "0"],
     [18, "a peaceful landscape", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
     [19, "her name is Alice", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
     [20, "we have to save her!", "梶浦由記 with 東京ニューシティ管弦楽団", ""],
@@ -5207,17 +5207,17 @@ album = "ソードアート・オンライン ソングコレクション"
 tracks = [
     [1, "My Independent Destiny", "アスナ(戸松 遥)", "0"],
     [2, "Memory Heart Message", "サチ(早見沙織)", "0"],
-    [3, "☆Lovely Super Idol☆", "シリカ(日高里菜)", ""],
+    [3, "☆Lovely Super Idol☆", "シリカ(日高里菜)", "0"],
     [4, "Cheer! Tear? Cheer!!", "リズベット(高垣彩陽)", "0"],
     [5, "I know \"ai\"", "ユイ(伊藤かな恵)", "0"],
     [6, "Face to You", "直葉(竹達彩奈)", "0"],
-    [7, "Sky The Graffiti", "リーファ(竹達彩奈)", ""],
-    [8, "Sword & Soul", "キリト(松岡禎丞)", ""],
-    [9, "Sing All Overtures", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", ""],
-    [10, "white flower garden", "アスナ(戸松 遥)", ""],
+    [7, "Sky The Graffiti", "リーファ(竹達彩奈)", "0"],
+    [8, "Sword & Soul", "キリト(松岡禎丞)", "0"],
+    [9, "Sing All Overtures", "キリト(CV:松岡禎丞)、アスナ(CV:戸松遥)、リーファ(CV:竹達彩奈)、ユイ(CV:伊藤かな恵)、シリカ(CV:日高里菜)、リズベット(CV:高垣彩陽)", "0"],
+    [10, "white flower garden", "アスナ(戸松 遥)", "0"],
     [11, "Party-go-round", "シリカ(日高里菜)、リズベット(高垣彩陽)", "1"],
     [12, "crossing field", "LiSA", "0"],
-    [13, "ユメセカイ", "戸松遥", ""],
+    [13, "ユメセカイ", "戸松遥", "0"],
     [14, "INNOCENCE", "藍井エイル", "0"],
     [15, "Overfly", "春奈るな", "0"],
 ]
@@ -5263,7 +5263,7 @@ tracks = [
     [2, "IGNITE", "藍井エイル", "0"],
     [3, "ラピスラズリ", "藍井エイル", ""],
     [4, "ゆらり", "藍井エイル", ""],
-    [5, "シンシアの光", "藍井エイル", ""],
+    [5, "シンシアの光", "藍井エイル", "0"],
     [6, "Quit", "藍井エイル", ""],
     [7, "Bright Future", "藍井エイル", ""],
     [8, "JUMP!!!", "藍井エイル", ""],
@@ -5285,7 +5285,7 @@ tracks = [
     [2, "ツナガルオモイ (Music Video)", "藍井エイル", ""],
     [3, "GENESIS (Music Video)", "藍井エイル", ""],
     [4, "ラピスラズリ (Music Video)", "藍井エイル", ""],
-    [5, "シンシアの光 (Music Video)", "藍井エイル", ""],
+    [5, "シンシアの光 (Music Video)", "藍井エイル", "0"],
     [6, "Making of 「D’AZUR」", "藍井エイル", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/288f7b4c-b7bf-4ffe-85fa-f283e71675f3", "https://vgmdb.net/album/52394"]
@@ -5405,7 +5405,7 @@ tracks = [
     [8, "nayuta gride", "藍井エイル", ""],
     [9, "惑星の唄", "藍井エイル", ""],
     [10, "翼の行方", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "Daydream", "藍井エイル", ""],
     [13, "KASUMI", "藍井エイル", ""],
     [14, "A New Day", "藍井エイル", ""],
@@ -5420,7 +5420,7 @@ tracks = [
     [1, "コバルト・スカイ (Music Video)", "藍井エイル", ""],
     [2, "シリウス (Music Video)", "藍井エイル", ""],
     [3, "クロイウタ (Music Video)", "藍井エイル", ""],
-    [4, "虹の音 (Music Video)", "藍井エイル", ""],
+    [4, "虹の音 (Music Video)", "藍井エイル", "0"],
     [5, "KASUMI (Music Video)", "藍井エイル", ""],
     [6, "サンビカ (Music Video -Live ver.-)", "藍井エイル", ""],
 ]
@@ -5431,23 +5431,23 @@ catalognumber = "ANZX-6614"
 date = "2013-04-24"
 album = "ソードアート・オンライン オリジナルサウンドトラック vol.2"
 tracks = [
-    [1, "swordland ～to be continued", "梶浦由記", ""],
+    [1, "swordland ～to be continued", "梶浦由記", "0"],
     [2, "friendly feelings", "梶浦由記", "0"],
-    [3, "sorrowfully", "梶浦由記", ""],
+    [3, "sorrowfully", "梶浦由記", "0"],
     [4, "critical phase", "梶浦由記", "0"],
-    [5, "victory", "梶浦由記", ""],
+    [5, "victory", "梶浦由記", "0"],
     [6, "a new world of fairies", "梶浦由記", "0"],
     [7, "fly higher and faster", "梶浦由記", "0"],
     [8, "in time of peace", "梶浦由記", "0"],
     [9, "fly, if you can", "梶浦由記", "0"],
     [10, "fight with a devil", "梶浦由記", "0"],
-    [11, "she is still sleeping", "梶浦由記", ""],
+    [11, "she is still sleeping", "梶浦由記", "0"],
     [12, "past sadness", "梶浦由記", "0"],
     [13, "is this love?", "梶浦由記", "0"],
-    [14, "town in the morning", "梶浦由記", ""],
+    [14, "town in the morning", "梶浦由記", "0"],
     [15, "climbing up the world tree", "梶浦由記", "0"],
     [16, "I wonder", "梶浦由記", "0"],
-    [17, "Yui", "梶浦由記", ""],
+    [17, "Yui", "梶浦由記", "0"],
     [18, "is this love? ～piano only ver.", "梶浦由記", "0"],
     [19, "Oberon", "梶浦由記", "0"],
     [20, "in the cage", "梶浦由記", "0"],
@@ -5558,8 +5558,8 @@ catalognumber = "ANZX-11130"
 date = "2015-02-25"
 album = "ソードアート・オンライン II 第5巻 特典CD"
 tracks = [
-    [1, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", ""],
-    [2, "RELIEF BULLET -Instrumental-", "朝田詩乃(CV:沢城みゆき)", ""],
+    [1, "RELIEF BULLET", "朝田詩乃(CV:沢城みゆき)", "1"],
+    [2, "RELIEF BULLET -Instrumental-", "朝田詩乃(CV:沢城みゆき)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7be4ad5f-86e5-42ca-8f70-8ad99361917f", "https://vgmdb.net/album/48447"]
 
@@ -5571,7 +5571,7 @@ tracks = [
     [1, "Rising Hope", "LiSA", ""],
     [2, "crossing field", "LiSA", "0"],
     [3, "だってアタシのヒーロー。", "LiSA", ""],
-    [4, "シルシ", "LiSA", ""],
+    [4, "シルシ", "LiSA", "0"],
     [5, "AxxxiS", "LiSA", ""],
     [6, "Empty MERMAiD", "LiSA", ""],
     [7, "ジェットロケット", "LiSA", ""],
@@ -5632,7 +5632,7 @@ tracks = [
     [10, "FRIENDSHIP", "plazma feat. MFMW", ""],
     [11, "BURST THE GRAVITY", "Hommarju feat. yumemi + る〜と", ""],
     [12, "CHOOSE ME ダーリン", "Disco da gama feat. Natsuhi + R.Cena", ""],
-    [13, "ユメセカイ", "Disco da gama feat. R.Cena", ""],
+    [13, "ユメセカイ", "Disco da gama feat. R.Cena", "0"],
     [14, "BELIEVE", "Flash back Dominant feat. Latte", ""],
     [15, "満開＊スマイル！", "Disco da gama feat. 慧", ""],
     [16, "シグナルグラフ", "Booing Day feat. Nahoko", ""],
@@ -5700,17 +5700,17 @@ date = "2021-10-29"
 album = "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア オリジナル・サウンドトラック"
 tracks = [
     [1, "counting down", "梶浦由記", ""],
-    [2, "welcome to this world 〜progressive mix", "梶浦由記", ""],
+    [2, "welcome to this world 〜progressive mix", "梶浦由記", "0"],
     [3, "one day, one morning", "梶浦由記", ""],
     [4, "sometimes I feel alone", "梶浦由記", ""],
     [5, "she is my friend", "梶浦由記", ""],
     [6, "she is my friend #2", "梶浦由記", ""],
     [7, "sometimes I feel alone #2", "梶浦由記", ""],
     [8, "she is my friend #3", "梶浦由記", ""],
-    [9, "welcome to this land of sword", "梶浦由記", ""],
+    [9, "welcome to this land of sword", "梶浦由記", "0"],
     [10, "please enter your name", "梶浦由記", ""],
     [11, "aincrad 〜progressive mix", "梶浦由記", "0"],
-    [12, "who are you!?", "梶浦由記", ""],
+    [12, "who are you!?", "梶浦由記", "0"],
     [13, "the first town 〜progressive mix", "梶浦由記", ""],
     [14, "walking around together", "梶浦由記", ""],
     [15, "he rules us 〜progressive mix", "梶浦由記", "0"],
@@ -5759,7 +5759,7 @@ tracks = [
     [3, "サンビカ", "藍井エイル", ""],
     [4, "GENESIS", "藍井エイル", ""],
     [5, "MEMORIA", "藍井エイル", ""],
-    [6, "シンシアの光", "藍井エイル", ""],
+    [6, "シンシアの光", "藍井エイル", "0"],
     [7, "HaNaZaKaRi", "藍井エイル", ""],
     [8, "クロイウタ", "藍井エイル", ""],
     [9, "KASUMI", "藍井エイル", ""],
@@ -5785,7 +5785,7 @@ tracks = [
     [8, "アヴァロン・ブルー", "藍井エイル", ""],
     [9, "コバルト・スカイ", "藍井エイル", ""],
     [10, "frozen eyez", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "GLORIA", "藍井エイル", ""],
     [13, "レイニーデイ", "藍井エイル", ""],
 ]
@@ -5815,7 +5815,7 @@ tracks = [
     [17, "Bright Future", "藍井エイル", ""],
     [18, "INNOCENCE", "藍井エイル", "0"],
     [19, "ラピスラズリ", "藍井エイル", ""],
-    [20, "シンシアの光", "藍井エイル", ""],
+    [20, "シンシアの光", "藍井エイル", "0"],
     [21, "青の世界", "藍井エイル", ""],
     [22, "HaNaZaKaRi", "藍井エイル", ""],
     [23, "春〜spring〜", "藍井エイル", ""],
@@ -5831,7 +5831,7 @@ date = "2014-12-03"
 album = "courage / 戸松遥 Disc 1 (CD) [SMCL-370]"
 tracks = [
     [1, "courage", "戸松遥", "0"],
-    [2, "セパレイト・ウェイズ", "戸松遥", ""],
+    [2, "セパレイト・ウェイズ", "戸松遥", "0"],
     [3, "courage (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6b72e78c-5d02-43fe-8f8a-c94e5c1743fd", "https://vgmdb.net/album/48453"]
@@ -5879,7 +5879,7 @@ tracks = [
     [7, "ミライガール", "戸松遥", ""],
     [8, "Issai Gassai", "戸松遥", "0"],
     [9, "星のステージ", "戸松遥", ""],
-    [10, "ユメセカイ", "戸松遥", ""],
+    [10, "ユメセカイ", "戸松遥", "0"],
     [11, "Oh My God ♥", "戸松遥", ""],
     [12, "STAGE", "戸松遥", ""],
     [13, "明日色ひまわり", "戸松遥", ""],
@@ -5911,21 +5911,21 @@ catalognumber = "AOA-2901B-DISC3"
 date = "2013-08-13"
 album = "Sword Art Online Original Soundtrack 1"
 tracks = [
-    [1, "Swordland", "梶浦由記", ""],
+    [1, "Swordland", "梶浦由記", "0"],
     [2, "Feel Uneasy", "梶浦由記", "0"],
     [3, "Everyday Life", "梶浦由記", "0"],
     [4, "Quiet Strain", "梶浦由記", "0"],
     [5, "No Way", "梶浦由記", "0"],
-    [6, "Stand at Bay", "梶浦由記", ""],
-    [7, "Weird Place", "梶浦由記", ""],
-    [8, "Survive the Swordland", "梶浦由記", ""],
-    [9, "Taut Nerves", "梶浦由記", ""],
+    [6, "Stand at Bay", "梶浦由記", "0"],
+    [7, "Weird Place", "梶浦由記", "0"],
+    [8, "Survive the Swordland", "梶浦由記", "0"],
+    [9, "Taut Nerves", "梶浦由記", "0"],
     [10, "A Tense Situation", "梶浦由記", "0"],
     [11, "A Strategy Meeting", "梶浦由記", "0"],
     [12, "In Your Past", "梶浦由記", "0"],
     [13, "March Down", "梶浦由記", "0"],
     [14, "Left in Suspense", "梶浦由記", "0"],
-    [15, "We Have to Defeat It", "梶浦由記", ""],
+    [15, "We Have to Defeat It", "梶浦由記", "0"],
     [16, "At Our Parting", "梶浦由記", "0"],
     [17, "Confront Battle", "梶浦由記", "0"],
     [18, "At Our Parting ～Piano Only", "梶浦由記", "0"],
@@ -5937,11 +5937,11 @@ tracks = [
     [24, "He Rules Us", "梶浦由記", "0"],
     [25, "Fight!", "梶浦由記", "0"],
     [26, "A Tiny Love", "梶浦由記", "0"],
-    [27, "Smile for Me", "梶浦由記", ""],
+    [27, "Smile for Me", "梶浦由記", "0"],
     [28, "Gracefully", "梶浦由記", "0"],
     [29, "A Squabble", "梶浦由記", "0"],
-    [30, "With My Friend", "梶浦由記", ""],
-    [31, "The First Town", "梶浦由記", ""],
+    [30, "With My Friend", "梶浦由記", "0"],
+    [31, "The First Town", "梶浦由記", "0"],
     [32, "At Nightfall", "梶浦由記", "0"],
     [33, "Despaired", "梶浦由記", "0"],
 ]
@@ -5952,11 +5952,11 @@ catalognumber = "SECL-1446"
 date = "2014-01-01"
 album = "虹の音 / 藍井エイル Arrangement, Vocal, Live Event"
 tracks = [
-    [1, "虹の音", "藍井エイル", ""],
-    [2, "ユメセカイ", "藍井エイル", ""],
+    [1, "虹の音", "藍井エイル", "1"],
+    [2, "ユメセカイ", "藍井エイル", "0"],
     [3, "INNOCENCE (Live at 渋谷公会堂)", "藍井エイル", "0"],
-    [4, "虹の音 (TV size ver.)", "藍井エイル", ""],
-    [5, "虹の音 (Instrumental)", "藍井エイル", ""],
+    [4, "虹の音 (TV size ver.)", "藍井エイル", "0"],
+    [5, "虹の音 (Instrumental)", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8486e95b-599d-4545-8bff-bcc4e14798e4", "https://vgmdb.net/album/42639"]
 
@@ -5980,7 +5980,7 @@ tracks = [
     [1, "Prologue 〜Candy Lips〜", "春奈るな", ""],
     [2, "君色シグナル", "春奈るな", ""],
     [3, "みんな絶対キミが好き", "春奈るな", ""],
-    [4, "Startear", "春奈るな", ""],
+    [4, "Startear", "春奈るな", "0"],
     [5, "DESSERT", "春奈るな", ""],
     [6, "恋の期限は3年、愛の期限は何年?", "春奈るな", ""],
     [7, "乙女の願い事", "春奈るな", ""],
@@ -5988,7 +5988,7 @@ tracks = [
     [9, "SU・KI・DA・YO", "春奈るな", ""],
     [10, "るなティックワード", "春奈るな", ""],
     [11, "snowdrop", "春奈るな", ""],
-    [12, "夜の虹を越えて", "春奈るな", ""],
+    [12, "夜の虹を越えて", "春奈るな", "0"],
     [13, "Beautiful World", "春奈るな", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/6dffa366-04ac-4991-81d7-5c62354a3d3e", "https://vgmdb.net/album/50566"]
@@ -6000,54 +6000,54 @@ album = "劇場版 ソードアート・オンライン -オーディナル・�
 tracks = [
     [1, "in the digital world", "梶浦由記", "0"],
     [2, "a promise", "梶浦由記", "0"],
-    [3, "story of the past", "梶浦由記", ""],
+    [3, "story of the past", "梶浦由記", "0"],
     [4, "Augma", "梶浦由記", "0"],
     [5, "back ground music No.1", "梶浦由記", "0"],
-    [6, "welcome to \"Ordinal Scale\"", "梶浦由記", ""],
+    [6, "welcome to \"Ordinal Scale\"", "梶浦由記", "0"],
     [7, "logging in #1", "梶浦由記", "0"],
     [8, "beginning of the fight", "梶浦由記", "0"],
     [9, "fight in the OS", "梶浦由記", "0"],
-    [10, "you won!", "梶浦由記", ""],
+    [10, "you won!", "梶浦由記", "0"],
     [11, "mystery of OS #1", "梶浦由記", "0"],
     [12, "night time", "梶浦由記", "0"],
     [13, "logging in #2", "梶浦由記", "0"],
-    [14, "she has a luminous sword", "梶浦由記", ""],
-    [15, "Yuna #1", "梶浦由記", ""],
+    [14, "she has a luminous sword", "梶浦由記", "0"],
+    [15, "Yuna #1", "梶浦由記", "0"],
     [16, "mystery of OS #2", "梶浦由記", "0"],
-    [17, "starting to solve the mystery", "梶浦由記", ""],
-    [18, "Yuna #2", "梶浦由記", ""],
+    [17, "starting to solve the mystery", "梶浦由記", "0"],
+    [18, "Yuna #2", "梶浦由記", "0"],
     [19, "logging in #3", "梶浦由記", "0"],
     [20, "her dream", "梶浦由記", "0"],
     [21, "loss of memory", "梶浦由記", "0"],
-    [22, "to find her memory", "梶浦由記", ""],
-    [23, "to find her memory #2", "梶浦由記", ""],
+    [22, "to find her memory", "梶浦由記", "0"],
+    [23, "to find her memory #2", "梶浦由記", "0"],
     [24, "his anger", "梶浦由記", "0"],
     [25, "I have to regain her memory", "梶浦由記", "0"],
     [26, "logging in #4", "梶浦由記", "0"],
     [27, "another field to overcome", "梶浦由記", "0"],
-    [28, "Yuna #3", "梶浦由記", ""],
-    [29, "Yuna #4", "梶浦由記", ""],
+    [28, "Yuna #3", "梶浦由記", "0"],
+    [29, "Yuna #4", "梶浦由記", "0"],
     [30, "mystery of OS #3", "梶浦由記", "0"],
     [31, "he has something to hide", "梶浦由記", "0"],
-    [32, "the lost daughter", "梶浦由記", ""],
+    [32, "the lost daughter", "梶浦由記", "0"],
     [33, "in her room", "梶浦由記", "0"],
     [34, "I will be close to you", "梶浦由記", "0"],
     [35, "I will fight to regain her memory", "梶浦由記", "0"],
-    [36, "who are you?", "梶浦由記", ""],
+    [36, "who are you?", "梶浦由記", "0"],
     [37, "it's just only a game", "梶浦由記", "0"],
     [38, "he knows something", "梶浦由記", "0"],
     [39, "a short break", "梶浦由記", "0"],
     [40, "facing each other", "梶浦由記", "0"],
-    [41, "something wrong is happening", "梶浦由記", ""],
+    [41, "something wrong is happening", "梶浦由記", "0"],
     [42, "father and daughter", "梶浦由記", "0"],
     [43, "can we save them?", "梶浦由記", "0"],
-    [44, "we are always together", "梶浦由記", ""],
-    [45, "the place we should have reached", "梶浦由記", ""],
+    [44, "we are always together", "梶浦由記", "0"],
+    [45, "the place we should have reached", "梶浦由記", "0"],
     [46, "for your bravery", "梶浦由記", "0"],
     [47, "I will fight with you!", "梶浦由記", "0"],
     [48, "let's join swords", "梶浦由記", "0"],
     [49, "he is here", "梶浦由記", "0"],
-    [50, "shooting stars", "梶浦由記", ""],
+    [50, "shooting stars", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab808c01-7111-4fa6-9390-77c5d909c873", "https://vgmdb.net/album/64049"]
 
@@ -6056,11 +6056,11 @@ catalognumber = "SVWC-70256"
 date = "2017-02-22"
 album = "劇場版 ソードアート・オンライン -オーディナル・スケール- Original Soundtrack Vocal"
 tracks = [
-    [1, "Ubiquitous dB", "ユナ(CV:神田沙也加)", ""],
+    [1, "Ubiquitous dB", "ユナ(CV:神田沙也加)", "0"],
     [2, "longing", "ユナ(CV:神田沙也加)", "0"],
     [3, "delete", "ユナ(CV:神田沙也加)", "0"],
     [4, "Break Beat Bark!", "ユナ(CV:神田沙也加)", "0"],
-    [5, "smile for you", "ユナ(CV:神田沙也加)", ""],
+    [5, "smile for you", "ユナ(CV:神田沙也加)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ab808c01-7111-4fa6-9390-77c5d909c873", "https://vgmdb.net/album/64049"]
 
@@ -6131,7 +6131,7 @@ album = "ソードアート・オンライン インテグラル・ファクタ�
 tracks = [
     [1, "SAOIF main theme", "", ""],
     [2, "SAOIF title theme", "", ""],
-    [3, "the first town", "", ""],
+    [3, "the first town", "", "0"],
     [4, "not lost fight", "", ""],
     [5, "going forward", "", ""],
     [6, "death game", "", "0"],
@@ -6149,7 +6149,7 @@ tracks = [
     [3, "サンビカ", "藍井エイル", ""],
     [4, "GENESIS", "藍井エイル", ""],
     [5, "MEMORIA", "藍井エイル", ""],
-    [6, "シンシアの光", "藍井エイル", ""],
+    [6, "シンシアの光", "藍井エイル", "0"],
     [7, "HaNaZaKaRi", "藍井エイル", ""],
     [8, "クロイウタ", "藍井エイル", ""],
     [9, "KASUMI", "藍井エイル", ""],
@@ -6273,12 +6273,12 @@ catalognumber = "ANZX-14002"
 date = "2017-09-27"
 album = "SWORD ART ONLINE THE MOVIE -ORDINAL SCALE- CHARACTER SONGS"
 tracks = [
-    [1, "Ubiquitous dB -special ver.-", "結城明日奈(CV:戸松遥)、綾野珪子(CV:日高里菜)", ""],
+    [1, "Ubiquitous dB -special ver.-", "結城明日奈(CV:戸松遥)、綾野珪子(CV:日高里菜)", "1"],
     [2, "Break Beat Bark! -special ver.-", "篠崎里香(CV:高垣彩陽)、朝田詩乃(CV:沢城みゆき)", "1"],
     [3, "longing -movie ver.-", "ユナ(CV:神田沙也加)", "0"],
     [4, "delete -movie ver.-", "ユナ(CV:神田沙也加)", "0"],
-    [5, "smile for you -movie ver.-", "ユナ(CV:神田沙也加)", ""],
-    [6, "Ubiquitous dB -instrumental ver.-", "結城明日奈(CV:戸松遥)、綾野珪子(CV:日高里菜)", ""],
+    [5, "smile for you -movie ver.-", "ユナ(CV:神田沙也加)", "0"],
+    [6, "Ubiquitous dB -instrumental ver.-", "結城明日奈(CV:戸松遥)、綾野珪子(CV:日高里菜)", "0"],
     [7, "Break Beat Bark! -instrumental ver.-", "篠崎里香(CV:高垣彩陽)、朝田詩乃(CV:沢城みゆき)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b895e389-90aa-49d5-b264-7f1865e63437", "https://vgmdb.net/album/69292"]
@@ -6295,9 +6295,9 @@ tracks = [
     [5, "snowdrop -春奈るなver.-", "春奈るな", ""],
     [6, "TRUE STORY", "春奈るな", ""],
     [7, "るなティックワード", "春奈るな", ""],
-    [8, "Startear", "春奈るな", ""],
+    [8, "Startear", "春奈るな", "0"],
     [9, "君色シグナル", "春奈るな", ""],
-    [10, "夜の虹を越えて", "春奈るな", ""],
+    [10, "夜の虹を越えて", "春奈るな", "0"],
     [11, "Ripple Effect", "春奈るな", ""],
     [12, "Windia", "春奈るな", ""],
     [13, "S×W -soul world-", "KOTOKO × LUNA", ""],
@@ -6318,21 +6318,21 @@ date = "2015-06-30"
 album = "Sword Art Online Original Soundtrack II VOL.1"
 tracks = [
     [1, "gunland", "梶浦由記", "0"],
-    [2, "this psychedelic world", "梶浦由記", ""],
+    [2, "this psychedelic world", "梶浦由記", "0"],
     [3, "Death Gun", "梶浦由記", "0"],
-    [4, "think tenderly of you", "梶浦由記", ""],
+    [4, "think tenderly of you", "梶浦由記", "0"],
     [5, "daily life, you and me", "梶浦由記", "0"],
-    [6, "something is strange", "梶浦由記", ""],
+    [6, "something is strange", "梶浦由記", "0"],
     [7, "creeping up", "梶浦由記", "0"],
-    [8, "unnaturally tense", "梶浦由記", ""],
+    [8, "unnaturally tense", "梶浦由記", "0"],
     [9, "inside information", "梶浦由記", "0"],
     [10, "concerning operation", "梶浦由記", "0"],
     [11, "a pressing danger", "梶浦由記", "0"],
-    [12, "shooting it out", "梶浦由記", ""],
-    [13, "where's my enemy?", "梶浦由記", ""],
-    [14, "they start fighting", "梶浦由記", ""],
+    [12, "shooting it out", "梶浦由記", "0"],
+    [13, "where's my enemy?", "梶浦由記", "0"],
+    [14, "they start fighting", "梶浦由記", "0"],
     [15, "continuing suspense", "梶浦由記", "0"],
-    [16, "she has to overcome her fear", "梶浦由記", ""],
+    [16, "she has to overcome her fear", "梶浦由記", "0"],
     [17, "good bye, again and again", "梶浦由記", "0"],
     [18, "no-escape", "梶浦由記", "0"],
     [19, "her actual world", "梶浦由記", "0"],
@@ -6342,17 +6342,17 @@ tracks = [
     [23, "crooked mind", "梶浦由記", "0"],
     [24, "a brisk conversation", "梶浦由記", "0"],
     [25, "he, or she?", "梶浦由記", "0"],
-    [26, "shoot 'em up!", "梶浦由記", ""],
+    [26, "shoot 'em up!", "梶浦由記", "0"],
     [27, "quickly and without fail", "梶浦由記", "0"],
     [28, "drive your way", "梶浦由記", "0"],
     [29, "Bullet of Bullets", "梶浦由記", "0"],
     [30, "another state of emergency", "梶浦由記", "0"],
     [31, "I'm always thinking of you", "梶浦由記", "0"],
-    [32, "so I met her", "梶浦由記", ""],
+    [32, "so I met her", "梶浦由記", "0"],
     [33, "a bleak and desolate land", "梶浦由記", "0"],
-    [34, "she's a knockout!", "梶浦由記", ""],
+    [34, "she's a knockout!", "梶浦由記", "0"],
     [35, "fighting hard and close", "梶浦由記", "0"],
-    [36, "you are the winner!", "梶浦由記", ""],
+    [36, "you are the winner!", "梶浦由記", "0"],
     [37, "peace, again", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/348aaf32-a259-4e86-bbfa-04f4626066b0", "https://vgmdb.net/album/54978"]
@@ -6459,9 +6459,9 @@ tracks = [
     [1, "ASH", "", ""],
     [2, "紅蓮華", "", ""],
     [3, "BRAND NEW YOU", "", ""],
-    [4, "変わらない青", "", ""],
+    [4, "変わらない青", "", "0"],
     [5, "蜜", "", ""],
-    [6, "シルシ", "", ""],
+    [6, "シルシ", "", "0"],
     [7, "炎", "", ""],
     [8, "unlasting", "", ""],
     [9, "dawn", "", ""],
@@ -6482,9 +6482,9 @@ tracks = [
     [1, "ASH", "", ""],
     [2, "紅蓮華", "", ""],
     [3, "BRAND NEW YOU", "", ""],
-    [4, "変わらない青", "", ""],
+    [4, "変わらない青", "", "0"],
     [5, "蜜", "", ""],
-    [6, "シルシ", "", ""],
+    [6, "シルシ", "", "0"],
     [7, "炎", "", ""],
     [8, "unlasting", "", ""],
     [9, "dawn", "", ""],
@@ -6657,21 +6657,21 @@ catalognumber = "ANZX-6608"
 date = "2013-01-23"
 album = "ソードアート・オンライン オリジナルサウンドトラック vol.1"
 tracks = [
-    [1, "swordland", "梶浦由記", ""],
+    [1, "swordland", "梶浦由記", "0"],
     [2, "feel uneasy", "梶浦由記", "0"],
     [3, "everyday life", "梶浦由記", "0"],
     [4, "quiet strain", "梶浦由記", "0"],
     [5, "no way", "梶浦由記", "0"],
-    [6, "stand at bay", "梶浦由記", ""],
-    [7, "weird place", "梶浦由記", ""],
-    [8, "survive the swordland", "梶浦由記", ""],
-    [9, "taut nerves", "梶浦由記", ""],
+    [6, "stand at bay", "梶浦由記", "0"],
+    [7, "weird place", "梶浦由記", "0"],
+    [8, "survive the swordland", "梶浦由記", "0"],
+    [9, "taut nerves", "梶浦由記", "0"],
     [10, "a tense situation", "梶浦由記", "0"],
     [11, "a strategy meeting", "梶浦由記", "0"],
     [12, "in your past", "梶浦由記", "0"],
     [13, "march down", "梶浦由記", "0"],
     [14, "left in suspense", "梶浦由記", "0"],
-    [15, "we have to defeat it", "梶浦由記", ""],
+    [15, "we have to defeat it", "梶浦由記", "0"],
     [16, "at our parting", "梶浦由記", "0"],
     [17, "confront battle", "梶浦由記", "0"],
     [18, "at our parting 〜piano only", "梶浦由記", "0"],
@@ -6683,11 +6683,11 @@ tracks = [
     [24, "he rules us", "梶浦由記", "0"],
     [25, "fight!", "梶浦由記", "0"],
     [26, "a tiny love", "梶浦由記", "0"],
-    [27, "smile for me", "梶浦由記", ""],
+    [27, "smile for me", "梶浦由記", "0"],
     [28, "gracefully", "梶浦由記", "0"],
     [29, "a squabble", "梶浦由記", "0"],
-    [30, "with my friend", "梶浦由記", ""],
-    [31, "the first town", "梶浦由記", ""],
+    [30, "with my friend", "梶浦由記", "0"],
+    [31, "the first town", "梶浦由記", "0"],
     [32, "at nightfall", "梶浦由記", "0"],
     [33, "despaired", "梶浦由記", "0"],
 ]
@@ -6742,7 +6742,7 @@ tracks = [
     [1, "シアトル「Sakura-Con」密着ドキュメント映像", "春奈るな", ""],
     [2, "「OVERSKY」 CD Jacket Making Movie", "春奈るな", ""],
     [3, "煌く星の病 (Music Video)", "春奈るな", ""],
-    [4, "魔法の城、真実の書物。 (Music Video)", "春奈るな", ""],
+    [4, "魔法の城、真実の書物。 (Music Video)", "春奈るな", "0"],
     [5, "終焉の魔法、終天の真意。 (Music Video)", "春奈るな", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/dfbe5ad6-dd13-4eda-8049-7695a6b342b8", "https://vgmdb.net/album/40780"]
@@ -6801,8 +6801,8 @@ album = "ソードアート・オンライン ソングコレクションII Anip
 tracks = [
     [1, "Liberty Rosario (cut-up ParaDise mix)", "ユウキ(CV:悠木碧)", "0"],
     [2, "Memorial Calibur (85' elektro Mix)", "リーファ(CV:竹達彩奈)&ユイ(CV:伊藤かな恵)&シリカ(CV:日高里菜)&リズベット(CV:高垣彩陽)", "0"],
-    [3, "Solitary Bullet (LowBoOst mix)", "シノン(CV:沢城みゆき)", ""],
-    [4, "Tomorrow's Rosario (amBient mix)", "アスナ(CV:戸松遥)", ""],
+    [3, "Solitary Bullet (LowBoOst mix)", "シノン(CV:沢城みゆき)", "0"],
+    [4, "Tomorrow's Rosario (amBient mix)", "アスナ(CV:戸松遥)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8751ea38-a4e4-4852-8354-560f1293e950", "https://vgmdb.net/album/62046"]
 
@@ -6863,7 +6863,7 @@ tracks = [
     [6, "Sweet Fantasy", "春奈るな", ""],
     [7, "君色シグナル", "春奈るな", ""],
     [8, "Overfly", "春奈るな", "0"],
-    [9, "Startear", "春奈るな", ""],
+    [9, "Startear", "春奈るな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/162927c4-dfaf-4155-a8ef-c76c89ed1082", "https://vgmdb.net/album/60479"]
 
@@ -6872,22 +6872,22 @@ catalognumber = "SVWC-70111"
 date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Original Soundtrack Disc 1"
 tracks = [
-    [1, "swordland", "梶浦由記", ""],
-    [2, "the first town", "梶浦由記", ""],
+    [1, "swordland", "梶浦由記", "0"],
+    [2, "the first town", "梶浦由記", "0"],
     [3, "fight!", "梶浦由記", "0"],
     [4, "friendly feelings", "梶浦由記", "0"],
     [5, "a tender feeling", "梶浦由記", "0"],
     [6, "feel uneasy", "梶浦由記", "0"],
-    [7, "welcome to this world", "梶浦由記", ""],
+    [7, "welcome to this world", "梶浦由記", "0"],
     [8, "he rules us", "梶浦由記", "0"],
     [9, "death game", "梶浦由記", "0"],
-    [10, "stand at bay", "梶浦由記", ""],
+    [10, "stand at bay", "梶浦由記", "0"],
     [11, "a close battle", "梶浦由記", "0"],
     [12, "at our parting", "梶浦由記", "0"],
-    [13, "weird place", "梶浦由記", ""],
+    [13, "weird place", "梶浦由記", "0"],
     [14, "quiet strain", "梶浦由記", "0"],
     [15, "a tense situation", "梶浦由記", "0"],
-    [16, "taut nerves", "梶浦由記", ""],
+    [16, "taut nerves", "梶浦由記", "0"],
     [17, "a strategy meeting", "梶浦由記", "0"],
     [18, "march down", "梶浦由記", "0"],
     [19, "gracefully", "梶浦由記", "0"],
@@ -6900,14 +6900,14 @@ tracks = [
     [26, "at our parting 〜piano only", "梶浦由記", "0"],
     [27, "despaired", "梶浦由記", "0"],
     [28, "a squabble", "梶浦由記", "0"],
-    [29, "smile for me", "梶浦由記", ""],
+    [29, "smile for me", "梶浦由記", "0"],
     [30, "at nightfall", "梶浦由記", "0"],
-    [31, "survive the swordland", "梶浦由記", ""],
+    [31, "survive the swordland", "梶浦由記", "0"],
     [32, "no way", "梶浦由記", "0"],
     [33, "a narrow escape", "梶浦由記", "0"],
-    [34, "with my friend", "梶浦由記", ""],
+    [34, "with my friend", "梶浦由記", "0"],
     [35, "a tiny love 〜harp only", "梶浦由記", "0"],
-    [36, "we have to defeat it", "梶浦由記", ""],
+    [36, "we have to defeat it", "梶浦由記", "0"],
     [37, "friendly feelings 〜piano only", "梶浦由記", "0"],
     [38, "critical phase", "梶浦由記", "0"],
     [39, "at our parting 〜Vc only", "梶浦由記", "0"],
@@ -6919,25 +6919,25 @@ catalognumber = "SVWC-70112"
 date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Original Soundtrack Disc 2"
 tracks = [
-    [1, "swordland〜to be continued", "梶浦由記", ""],
+    [1, "swordland〜to be continued", "梶浦由記", "0"],
     [2, "is this love?", "梶浦由記", "0"],
-    [3, "she is still sleeping", "梶浦由記", ""],
+    [3, "she is still sleeping", "梶浦由記", "0"],
     [4, "Oberon", "梶浦由記", "0"],
     [5, "climbing up the world tree", "梶浦由記", "0"],
     [6, "a new world of fairies", "梶浦由記", "0"],
-    [7, "Yui", "梶浦由記", ""],
+    [7, "Yui", "梶浦由記", "0"],
     [8, "in time of peace", "梶浦由記", "0"],
     [9, "last flight", "梶浦由記", "0"],
     [10, "aerial fight", "梶浦由記", "0"],
     [11, "got to win", "梶浦由記", "0"],
     [12, "fly, if you can", "梶浦由記", "0"],
-    [13, "town in the morning", "梶浦由記", ""],
+    [13, "town in the morning", "梶浦由記", "0"],
     [14, "in the cage", "梶浦由記", "0"],
     [15, "I wonder", "梶浦由記", "0"],
     [16, "is this love? 〜piano only ver.", "梶浦由記", "0"],
     [17, "past sadness", "梶浦由記", "0"],
     [18, "fly higher and faster", "梶浦由記", "0"],
-    [19, "victory", "梶浦由記", ""],
+    [19, "victory", "梶浦由記", "0"],
     [20, "fight with a devil", "梶浦由記", "0"],
     [21, "reconciliation", "梶浦由記", "0"],
     [22, "false king", "梶浦由記", "0"],
@@ -6945,7 +6945,7 @@ tracks = [
     [24, "aincrad", "梶浦由記", "0"],
     [25, "like in the glass", "梶浦由記", "0"],
     [26, "in this world", "梶浦由記", "0"],
-    [27, "swordbreaking land", "梶浦由記", ""],
+    [27, "swordbreaking land", "梶浦由記", "0"],
     [28, "in this cruel land", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5b727ddd-f2b4-4cc5-a744-e50342fa6898", "https://vgmdb.net/album/55174"]
@@ -6956,21 +6956,21 @@ date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Original Soundtrack Disc 3"
 tracks = [
     [1, "gunland", "梶浦由記", "0"],
-    [2, "this psychedelic world", "梶浦由記", ""],
+    [2, "this psychedelic world", "梶浦由記", "0"],
     [3, "Death Gun", "梶浦由記", "0"],
-    [4, "think tenderly of you", "梶浦由記", ""],
+    [4, "think tenderly of you", "梶浦由記", "0"],
     [5, "daily life, you and me", "梶浦由記", "0"],
-    [6, "something is strange", "梶浦由記", ""],
+    [6, "something is strange", "梶浦由記", "0"],
     [7, "creeping up", "梶浦由記", "0"],
-    [8, "unnaturally tense", "梶浦由記", ""],
+    [8, "unnaturally tense", "梶浦由記", "0"],
     [9, "inside information", "梶浦由記", "0"],
     [10, "concerning operation", "梶浦由記", "0"],
     [11, "a pressing danger", "梶浦由記", "0"],
-    [12, "shooting it out", "梶浦由記", ""],
-    [13, "where's my enemy?", "梶浦由記", ""],
-    [14, "they start fighting", "梶浦由記", ""],
+    [12, "shooting it out", "梶浦由記", "0"],
+    [13, "where's my enemy?", "梶浦由記", "0"],
+    [14, "they start fighting", "梶浦由記", "0"],
     [15, "continuing suspense", "梶浦由記", "0"],
-    [16, "she has to overcome her fear", "梶浦由記", ""],
+    [16, "she has to overcome her fear", "梶浦由記", "0"],
     [17, "good bye, again and again", "梶浦由記", "0"],
     [18, "no-escape", "梶浦由記", "0"],
     [19, "her actual world", "梶浦由記", "0"],
@@ -6981,18 +6981,18 @@ tracks = [
     [24, "crooked mind", "梶浦由記", "0"],
     [25, "a brisk conversation", "梶浦由記", "0"],
     [26, "he, or she?", "梶浦由記", "0"],
-    [27, "shoot 'em up!", "梶浦由記", ""],
+    [27, "shoot 'em up!", "梶浦由記", "0"],
     [28, "quickly and without fail", "梶浦由記", "0"],
     [29, "drive your way", "梶浦由記", "0"],
     [30, "Bullet of Bullets", "梶浦由記", "0"],
     [31, "another state of emergency", "梶浦由記", "0"],
-    [32, "think tenderly of you 〜Mbox ver", "梶浦由記", ""],
+    [32, "think tenderly of you 〜Mbox ver", "梶浦由記", "0"],
     [33, "I'm always thinking of you", "梶浦由記", "0"],
-    [34, "so I met her", "梶浦由記", ""],
+    [34, "so I met her", "梶浦由記", "0"],
     [35, "a bleak and desolate land", "梶浦由記", "0"],
-    [36, "she's a knockout!", "梶浦由記", ""],
+    [36, "she's a knockout!", "梶浦由記", "0"],
     [37, "fighting hard and close", "梶浦由記", "0"],
-    [38, "you are the winner!", "梶浦由記", ""],
+    [38, "you are the winner!", "梶浦由記", "0"],
     [39, "peace, again", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5b727ddd-f2b4-4cc5-a744-e50342fa6898", "https://vgmdb.net/album/55174"]
@@ -7003,30 +7003,30 @@ date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Original Soundtrack Disc 4"
 tracks = [
     [1, "desolate landscape", "梶浦由記", "0"],
-    [2, "Tonky", "梶浦由記", ""],
+    [2, "Tonky", "梶浦由記", "0"],
     [3, "in this place", "梶浦由記", "0"],
     [4, "Freyja", "梶浦由記", "0"],
-    [5, "Urd", "梶浦由記", ""],
+    [5, "Urd", "梶浦由記", "0"],
     [6, "in another land", "梶浦由記", "0"],
-    [7, "running out of crisis", "梶浦由記", ""],
-    [8, "the appearance of Thrymr", "梶浦由記", ""],
+    [7, "running out of crisis", "梶浦由記", "0"],
+    [8, "the appearance of Thrymr", "梶浦由記", "0"],
     [9, "defeat him and get it!", "梶浦由記", "0"],
     [10, "in the battle field, once again", "梶浦由記", "0"],
     [11, "fly away from here!", "梶浦由記", "0"],
     [12, "a sad quarrel", "梶浦由記", "0"],
-    [13, "run, run, runaway", "梶浦由記", ""],
-    [14, "you are not alone #2", "梶浦由記", ""],
+    [13, "run, run, runaway", "梶浦由記", "0"],
+    [14, "you are not alone #2", "梶浦由記", "0"],
     [15, "light your sword", "梶浦由記", "0"],
     [16, "heartbreaking reality", "梶浦由記", "0"],
-    [17, "you are not alone", "梶浦由記", ""],
-    [18, "tears for you", "梶浦由記", ""],
+    [17, "you are not alone", "梶浦由記", "0"],
+    [18, "tears for you", "梶浦由記", "0"],
     [19, "moon and shadow", "梶浦由記", "0"],
-    [20, "you are not alone 〜Ac.G ver.", "梶浦由記", ""],
-    [21, "school days, with you", "梶浦由記", ""],
-    [22, "you are not alone #3", "梶浦由記", ""],
-    [23, "trying to understand", "梶浦由記", ""],
+    [20, "you are not alone 〜Ac.G ver.", "梶浦由記", "0"],
+    [21, "school days, with you", "梶浦由記", "0"],
+    [22, "you are not alone #3", "梶浦由記", "0"],
+    [23, "trying to understand", "梶浦由記", "0"],
     [24, "cold and wild", "梶浦由記", "0"],
-    [25, "you are not alone 〜piano ver.", "梶浦由記", ""],
+    [25, "you are not alone 〜piano ver.", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5b727ddd-f2b4-4cc5-a744-e50342fa6898", "https://vgmdb.net/album/55174"]
 
@@ -7035,15 +7035,15 @@ catalognumber = "SVWC-70115"
 date = "2016-01-27"
 album = "ソードアート・オンライン ミュージックコレクション Original Soundtrack, Live Event"
 tracks = [
-    [1, "swordland", "梶浦由記", ""],
+    [1, "swordland", "梶浦由記", "0"],
     [2, "aerial fight", "梶浦由記", "0"],
-    [3, "the first town", "梶浦由記", ""],
-    [4, "Tonky (LIVE ver.)", "梶浦由記", ""],
+    [3, "the first town", "梶浦由記", "0"],
+    [4, "Tonky (LIVE ver.)", "梶浦由記", "0"],
     [5, "daily life, you and me", "梶浦由記", "0"],
     [6, "another state of emergency", "梶浦由記", "0"],
-    [7, "you are not alone (LIVE ver.)", "梶浦由記", ""],
+    [7, "you are not alone (LIVE ver.)", "梶浦由記", "0"],
     [8, "luminous sword (LIVE ver.)", "梶浦由記", "0"],
-    [9, "she has to overcome her fear (LIVE ver.)", "梶浦由記", ""],
+    [9, "she has to overcome her fear (LIVE ver.)", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5b727ddd-f2b4-4cc5-a744-e50342fa6898", "https://vgmdb.net/album/55174"]
 
@@ -7054,7 +7054,7 @@ album = "IGNITE / 藍井エイル Disc 1 (CD) [SECL-1555]"
 tracks = [
     [1, "IGNITE", "藍井エイル", "0"],
     [2, "Brainwash", "藍井エイル", "0"],
-    [3, "泡沫", "藍井エイル", ""],
+    [3, "泡沫", "藍井エイル", "0"],
     [4, "IGNITE (TV size ver.)", "藍井エイル", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c1390a48-1907-42bb-9eaa-25596b5953d7", "https://vgmdb.net/album/45962"]
@@ -7102,7 +7102,7 @@ tracks = [
     [6, "愛錠 -Lyric video-", "LiSA", ""],
     [7, "ハウル -MUSiC CLiP-", "LiSA", ""],
     [8, "unlasting -LiSA special live in AbemaTV-", "LiSA", ""],
-    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", ""],
+    [9, "シルシ -LiSA special live in AbemaTV-", "LiSA", "0"],
     [10, "紅蓮華 -THE FIRST TAKE-", "LiSA", ""],
     [11, "THE MAKiNG OF “LEO-NiNE”", "LiSA", ""],
 ]
@@ -7381,7 +7381,7 @@ tracks = [
     [8, "アヴァロン・ブルー", "藍井エイル", ""],
     [9, "コバルト・スカイ", "藍井エイル", ""],
     [10, "frozen eyez", "藍井エイル", ""],
-    [11, "虹の音", "藍井エイル", ""],
+    [11, "虹の音", "藍井エイル", "0"],
     [12, "GLORIA", "藍井エイル", ""],
     [13, "レイニーデイ", "藍井エイル", ""],
 ]
@@ -7396,7 +7396,7 @@ tracks = [
     [2, "アヴァロン・ブルー (Music Video)", "藍井エイル", ""],
     [3, "コバルト・スカイ (Music Video)", "藍井エイル", ""],
     [4, "シリウス (Music Video)", "藍井エイル", ""],
-    [5, "虹の音 (Music Video)", "藍井エイル", ""],
+    [5, "虹の音 (Music Video)", "藍井エイル", "0"],
     [6, "IGNITE (Music Video)", "藍井エイル", "0"],
     [7, "ラピスラズリ (Music Video)", "藍井エイル", ""],
     [8, "Bright Future (Music Video -Live Clip-)", "藍井エイル", ""],
@@ -7411,7 +7411,7 @@ date = "2017-02-15"
 album = "Catch the Moment / LiSA"
 tracks = [
     [1, "Catch the Moment", "LiSA", "0"],
-    [2, "リングアベル", "LiSA", ""],
+    [2, "リングアベル", "LiSA", "0"],
     [3, "Merry Hurry Berry", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b8052cab-ac4a-45dc-b9ac-bad9ffac81e9", "https://vgmdb.net/album/63268"]
@@ -7454,8 +7454,8 @@ date = "2012-08-08"
 album = "crossing field / LiSA [Limited Edition] Vocal"
 tracks = [
     [1, "crossing field", "LiSA", "0"],
-    [2, "いつかの手紙", "LiSA", ""],
-    [3, "変わらない青", "LiSA", ""],
+    [2, "いつかの手紙", "LiSA", "0"],
+    [3, "変わらない青", "LiSA", "0"],
     [4, "crossing field -TV ver.-", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ccced213-e3ec-40a4-aac0-1130911b54ef", "https://vgmdb.net/album/33538"]
@@ -7474,10 +7474,10 @@ catalognumber = "ANZX-6616"
 date = "2013-05-22"
 album = "ソードアート・オンライン 第8巻 特典CD"
 tracks = [
-    [1, "Sky The Graffiti", "リーファ(竹達彩奈)", ""],
-    [2, "Sword & Soul", "キリト(松岡禎丞)", ""],
-    [3, "Sky The Graffiti -Instrumental-", "リーファ(竹達彩奈)", ""],
-    [4, "Sword & Soul -Instrumental-", "キリト(松岡禎丞)", ""],
+    [1, "Sky The Graffiti", "リーファ(竹達彩奈)", "0"],
+    [2, "Sword & Soul", "キリト(松岡禎丞)", "0"],
+    [3, "Sky The Graffiti -Instrumental-", "リーファ(竹達彩奈)", "0"],
+    [4, "Sword & Soul -Instrumental-", "キリト(松岡禎丞)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/712768ec-171b-4a9d-86b3-4f1a712141b5", "https://vgmdb.net/album/36616"]
 
@@ -7538,7 +7538,7 @@ tracks = [
     [1, "Rising Hope", "LiSA", ""],
     [2, "crossing field", "LiSA", "0"],
     [3, "だってアタシのヒーロー。", "LiSA", ""],
-    [4, "シルシ", "LiSA", ""],
+    [4, "シルシ", "LiSA", "0"],
     [5, "AxxxiS", "LiSA", ""],
     [6, "Empty MERMAiD", "LiSA", ""],
     [7, "ジェットロケット", "LiSA", ""],
@@ -7595,7 +7595,7 @@ tracks = [
     [14, "キモチファクトリー", "LiSA", ""],
     [15, "そしてパレードは続く", "LiSA", ""],
     [16, "Believe in myself", "LiSA", ""],
-    [17, "シルシ", "LiSA", ""],
+    [17, "シルシ", "LiSA", "0"],
     [18, "LiTTLE DEViL PARADE", "LiSA", ""],
     [19, "コズミックジェットコースター", "LiSA", ""],
     [20, "ROCK-mode", "LiSA", ""],
@@ -7782,7 +7782,7 @@ date = "2017-02-15"
 album = "Catch the Moment / LiSA [Limited Edition]"
 tracks = [
     [1, "Catch the Moment", "LiSA", "1"],
-    [2, "リングアベル", "LiSA", ""],
+    [2, "リングアベル", "LiSA", "0"],
     [3, "Catch the Moment -Instrumental-", "LiSA", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/504246b4-3582-48e6-8245-bdd1f8c36bdf", "https://vgmdb.net/album/63269"]
@@ -8048,7 +8048,7 @@ tracks = [
     [7, "凛", "", ""],
     [8, "KOE", "", ""],
     [9, "Overfly", "", "0"],
-    [10, "Startear", "", ""],
+    [10, "Startear", "", "0"],
     [11, "Cage", "", ""],
     [12, "sh0ut", "", ""],
     [13, "Unti-L", "", ""],
@@ -8283,24 +8283,24 @@ date = "2015-04-22"
 album = "ソードアート・オンライン オリジナルサウンドトラック II vol.2"
 tracks = [
     [1, "desolate landscape", "梶浦由記", "0"],
-    [2, "Tonky", "梶浦由記", ""],
+    [2, "Tonky", "梶浦由記", "0"],
     [3, "in this place", "梶浦由記", "0"],
     [4, "Freyja", "梶浦由記", "0"],
-    [5, "Urd", "梶浦由記", ""],
+    [5, "Urd", "梶浦由記", "0"],
     [6, "in another land", "梶浦由記", "0"],
-    [7, "the appearance of Thrymr", "梶浦由記", ""],
+    [7, "the appearance of Thrymr", "梶浦由記", "0"],
     [8, "defeat him and get it!", "梶浦由記", "0"],
     [9, "in the battle field, once again", "梶浦由記", "0"],
     [10, "fly away from here!", "梶浦由記", "0"],
     [11, "a sad quarrel", "梶浦由記", "0"],
-    [12, "you are not alone #2", "梶浦由記", ""],
+    [12, "you are not alone #2", "梶浦由記", "0"],
     [13, "light your sword", "梶浦由記", "0"],
     [14, "heartbreaking reality", "梶浦由記", "0"],
-    [15, "you are not alone", "梶浦由記", ""],
-    [16, "tears for you", "梶浦由記", ""],
-    [17, "school days, with you", "梶浦由記", ""],
-    [18, "you are not alone #3", "梶浦由記", ""],
-    [19, "trying to understand", "梶浦由記", ""],
+    [15, "you are not alone", "梶浦由記", "0"],
+    [16, "tears for you", "梶浦由記", "0"],
+    [17, "school days, with you", "梶浦由記", "0"],
+    [18, "you are not alone #3", "梶浦由記", "0"],
+    [19, "trying to understand", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4f497685-f1e3-4823-bfc2-aa5508066c03", "https://vgmdb.net/album/49340"]
 
@@ -8336,8 +8336,8 @@ tracks = [
     [2, "A Tender Feeling", "", "0"],
     [3, "A Tiny Love", "", "0"],
     [4, "At Our Parting", "", "0"],
-    [5, "Think Tenderly of You", "", ""],
-    [6, "You Are Not Alone", "", ""],
+    [5, "Think Tenderly of You", "", "0"],
+    [6, "You Are Not Alone", "", "0"],
 ]
 links = ["https://vgmdb.net/album/120876"]
 
@@ -8347,21 +8347,21 @@ date = "2014-12-24"
 album = "ソードアート・オンライン オリジナルサウンドトラック II vol.1"
 tracks = [
     [1, "gunland", "梶浦由記", "0"],
-    [2, "this psychedelic world", "梶浦由記", ""],
+    [2, "this psychedelic world", "梶浦由記", "0"],
     [3, "Death Gun", "梶浦由記", "0"],
-    [4, "think tenderly of you", "梶浦由記", ""],
+    [4, "think tenderly of you", "梶浦由記", "0"],
     [5, "daily life, you and me", "梶浦由記", "0"],
-    [6, "something is strange", "梶浦由記", ""],
+    [6, "something is strange", "梶浦由記", "0"],
     [7, "creeping up", "梶浦由記", "0"],
-    [8, "unnaturally tense", "梶浦由記", ""],
+    [8, "unnaturally tense", "梶浦由記", "0"],
     [9, "inside information", "梶浦由記", "0"],
     [10, "concerning operation", "梶浦由記", "0"],
     [11, "a pressing danger", "梶浦由記", "0"],
-    [12, "shooting it out", "梶浦由記", ""],
-    [13, "where's my enemy?", "梶浦由記", ""],
-    [14, "they start fighting", "梶浦由記", ""],
+    [12, "shooting it out", "梶浦由記", "0"],
+    [13, "where's my enemy?", "梶浦由記", "0"],
+    [14, "they start fighting", "梶浦由記", "0"],
     [15, "continuing suspense", "梶浦由記", "0"],
-    [16, "she has to overcome her fear", "梶浦由記", ""],
+    [16, "she has to overcome her fear", "梶浦由記", "0"],
     [17, "good bye, again and again", "梶浦由記", "0"],
     [18, "no-escape", "梶浦由記", "0"],
     [19, "her actual world", "梶浦由記", "0"],
@@ -8371,17 +8371,17 @@ tracks = [
     [23, "crooked mind", "梶浦由記", "0"],
     [24, "a brisk conversation", "梶浦由記", "0"],
     [25, "he, or she?", "梶浦由記", "0"],
-    [26, "shoot 'em up!", "梶浦由記", ""],
+    [26, "shoot 'em up!", "梶浦由記", "0"],
     [27, "quickly and without fail", "梶浦由記", "0"],
     [28, "drive your way", "梶浦由記", "0"],
     [29, "Bullet of Bullets", "梶浦由記", "0"],
     [30, "another state of emergency", "梶浦由記", "0"],
     [31, "I'm always thinking of you", "梶浦由記", "0"],
-    [32, "so I met her", "梶浦由記", ""],
+    [32, "so I met her", "梶浦由記", "0"],
     [33, "a bleak and desolate land", "梶浦由記", "0"],
-    [34, "she's a knockout!", "梶浦由記", ""],
+    [34, "she's a knockout!", "梶浦由記", "0"],
     [35, "fighting hard and close", "梶浦由記", "0"],
-    [36, "you are the winner!", "梶浦由記", ""],
+    [36, "you are the winner!", "梶浦由記", "0"],
     [37, "peace, again", "梶浦由記", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/616e5d8c-64c5-40c2-a94f-dfe7fe916295", "https://vgmdb.net/album/47819"]
