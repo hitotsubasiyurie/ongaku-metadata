@@ -3,9 +3,9 @@ catalognumber = "SMCL-216"
 date = "2010-11-03"
 album = "Baby Baby Love / 戸松遥 Disc 1 (CD) [SMCL-216]"
 tracks = [
-    [1, "Baby Baby Love", "戸松遥", ""],
-    [2, "やさしき日々", "戸松遥", ""],
-    [3, "Baby Baby Love (Instrumental)", "戸松遥", ""],
+    [1, "Baby Baby Love", "戸松遥", "0"],
+    [2, "やさしき日々", "戸松遥", "0"],
+    [3, "Baby Baby Love (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/55ad8cd8-3195-46e4-b4e8-0a3007e5678a", "https://vgmdb.net/album/36207"]
 
@@ -14,8 +14,8 @@ catalognumber = "SMCL-217"
 date = "2010-11-03"
 album = "Baby Baby Love / 戸松遥 Disc 2 (DVD) [SMCL-217]"
 tracks = [
-    [1, "Baby Baby Love", "", ""],
-    [2, "Baby Baby Love TV Spot 15sec+30sec", "", ""],
+    [1, "Baby Baby Love", "", "0"],
+    [2, "Baby Baby Love TV Spot 15sec+30sec", "", "0"],
 ]
 links = ["https://vgmdb.net/album/36207"]
 
@@ -31,7 +31,7 @@ tracks = [
     [5, "向日葵", "Ray", ""],
     [6, "ひかり", "Ray", ""],
     [7, "凪-nagi-", "Ray", ""],
-    [8, "楽園PROJECT", "Ray", ""],
+    [8, "楽園PROJECT", "Ray", "0"],
     [9, "baby♡macaron", "Ray", ""],
     [10, "Sweet Days", "Ray", ""],
     [11, "Recall", "Ray", ""],
@@ -102,7 +102,7 @@ tracks = [
     [23, "おにくじゃぽねすく!", "ゼウシくん(花澤香菜)", ""],
     [24, "プリコグ (M@STER VERSION)", "水谷絵理(花澤香菜)", ""],
     [25, "みのりのぞっこん未来予報♡", "中沢農(花澤香菜)", ""],
-    [26, "君らしくなきゃヤダよ!", "結城美柑(花澤香菜)", ""],
+    [26, "君らしくなきゃヤダよ!", "結城美柑(花澤香菜)", "0"],
     [27, "私がモテないのは可愛くないからだよね?", "ゆうちゃん(花澤香菜)", ""],
     [28, "心の窓辺にて", "双葉アオイ(花澤香菜)", ""],
     [29, "もうそう♡えくすぷれす", "千石撫子(花澤香菜)", ""],
@@ -119,11 +119,11 @@ catalognumber = "GNCA-1186"
 date = "2008-08-22"
 album = "To LOVEる-とらぶる- Variety CD その2"
 tracks = [
-    [1, "へーーーーっくち!～ルン時々、レン～", "ルン / レン (大浦冬華)", ""],
-    [2, "春奈、最悪の一日 A‐PART", "[dialogue]", ""],
-    [3, "恋とビキニと雨予報", "西連寺春菜(矢作紗友里)", ""],
-    [4, "春奈、最悪の一日 B‐PART", "[dialogue]", ""],
-    [5, "GOLDEN TRANCER", "金色の闇(福圓美里)", ""],
+    [1, "へーーーーっくち!～ルン時々、レン～", "ルン / レン (大浦冬華)", "0"],
+    [2, "春奈、最悪の一日 A‐PART", "[dialogue]", "0"],
+    [3, "恋とビキニと雨予報", "西連寺春菜(矢作紗友里)", "0"],
+    [4, "春奈、最悪の一日 B‐PART", "[dialogue]", "0"],
+    [5, "GOLDEN TRANCER", "金色の闇(福圓美里)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/29d33de3-531b-4db8-802a-0fcb82f1daaa", "https://vgmdb.net/album/51037"]
 
@@ -142,7 +142,7 @@ tracks = [
     [8, "フシ-ギノ-アナ", "KOTOKO", ""],
     [9, "Rock☆DE フルーツバスケット♪", "KOTOKO", ""],
     [10, "サクラノアメモエギノヨ", "KOTOKO", ""],
-    [11, "Loop-the-Loop", "KOTOKO", ""],
+    [11, "Loop-the-Loop", "KOTOKO", "0"],
     [12, "リスタート", "KOTOKO", ""],
     [13, "P◇lyG△n", "KOTOKO", ""],
     [14, "→unfinished→ -Album ver.-", "KOTOKO", ""],
@@ -165,34 +165,34 @@ catalognumber = "GNCA-1190"
 date = "2008-07-25"
 album = "To LOVEる-とらぶる- O.S.T.1"
 tracks = [
-    [1, "forever we can make it! (TV-Size)", "THYME", ""],
-    [2, "My Name Is LALA", "渡辺剛", ""],
-    [3, "HARUNA", "渡辺剛", ""],
-    [4, "Good Morning", "渡辺剛", ""],
-    [5, "ウキウキ・ワルツ", "渡辺剛", ""],
-    [6, "気マズイ…", "渡辺剛", ""],
-    [7, "刺客", "渡辺剛", ""],
-    [8, "Run Away", "渡辺剛", ""],
-    [9, "何でこ～なんの!?", "渡辺剛", ""],
-    [10, "ピンチ到来!", "渡辺剛", ""],
-    [11, "Fallin' Angel", "渡辺剛", ""],
-    [12, "To LOVEる・SAMBA", "渡辺剛", ""],
-    [13, "ひと休み", "渡辺剛", ""],
-    [14, "妄想Lover", "渡辺剛", ""],
-    [15, "男、魅せます!", "渡辺剛", ""],
-    [16, "沙姫さま", "渡辺剛", ""],
-    [17, "くいーんの陰謀", "渡辺剛", ""],
-    [18, "孤独の闇", "渡辺剛", ""],
-    [19, "Bitter memories", "渡辺剛", ""],
-    [20, "揺れる気持ち", "渡辺剛", ""],
-    [21, "悲劇、入ります", "渡辺剛", ""],
-    [22, "Go! RITO", "渡辺剛", ""],
-    [23, "激闘", "渡辺剛", ""],
-    [24, "どうして…", "渡辺剛", ""],
-    [25, "Sentimental", "渡辺剛", ""],
-    [26, "Let's Fanfare", "渡辺剛", ""],
-    [27, "Theme of To LOVEる", "渡辺剛", ""],
-    [28, "ラッキーチューン (TV-Size)", "Anna", ""],
+    [1, "forever we can make it! (TV-Size)", "THYME", "0"],
+    [2, "My Name Is LALA", "渡辺剛", "0"],
+    [3, "HARUNA", "渡辺剛", "0"],
+    [4, "Good Morning", "渡辺剛", "0"],
+    [5, "ウキウキ・ワルツ", "渡辺剛", "0"],
+    [6, "気マズイ…", "渡辺剛", "0"],
+    [7, "刺客", "渡辺剛", "0"],
+    [8, "Run Away", "渡辺剛", "0"],
+    [9, "何でこ～なんの!?", "渡辺剛", "0"],
+    [10, "ピンチ到来!", "渡辺剛", "0"],
+    [11, "Fallin' Angel", "渡辺剛", "0"],
+    [12, "To LOVEる・SAMBA", "渡辺剛", "0"],
+    [13, "ひと休み", "渡辺剛", "0"],
+    [14, "妄想Lover", "渡辺剛", "0"],
+    [15, "男、魅せます!", "渡辺剛", "0"],
+    [16, "沙姫さま", "渡辺剛", "0"],
+    [17, "くいーんの陰謀", "渡辺剛", "0"],
+    [18, "孤独の闇", "渡辺剛", "0"],
+    [19, "Bitter memories", "渡辺剛", "0"],
+    [20, "揺れる気持ち", "渡辺剛", "0"],
+    [21, "悲劇、入ります", "渡辺剛", "0"],
+    [22, "Go! RITO", "渡辺剛", "0"],
+    [23, "激闘", "渡辺剛", "0"],
+    [24, "どうして…", "渡辺剛", "0"],
+    [25, "Sentimental", "渡辺剛", "0"],
+    [26, "Let's Fanfare", "渡辺剛", "0"],
+    [27, "Theme of To LOVEる", "渡辺剛", "0"],
+    [28, "ラッキーチューン (TV-Size)", "Anna", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dc80e775-b955-49ea-9950-133bce068843", "https://vgmdb.net/album/36216"]
 
@@ -201,10 +201,10 @@ catalognumber = "1000344850"
 date = "2012-10-24"
 album = "楽園PROJECT / Ray Vocal"
 tracks = [
-    [1, "楽園PROJECT", "Ray", ""],
-    [2, "protostar ～あの日のワタシ～", "Ray", ""],
-    [3, "楽園PROJECT -instrumental-", "Ray", ""],
-    [4, "protostar ～あの日のワタシ～ -instrumental-", "Ray", ""],
+    [1, "楽園PROJECT", "Ray", "0"],
+    [2, "protostar ～あの日のワタシ～", "Ray", "0"],
+    [3, "楽園PROJECT -instrumental-", "Ray", "0"],
+    [4, "protostar ～あの日のワタシ～ -instrumental-", "Ray", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/62b6edba-cb3c-48a5-981b-394f6541b713", "https://vgmdb.net/album/34613"]
 
@@ -213,9 +213,9 @@ catalognumber = "1000344850"
 date = "2012-10-24"
 album = "楽園PROJECT / Ray Video"
 tracks = [
-    [1, "楽園PROJECT Music Video", "", ""],
-    [2, "楽園PROJECT Music Video Making film", "", ""],
-    [3, "楽園PROJECT TV-SPOT", "", ""],
+    [1, "楽園PROJECT Music Video", "", "0"],
+    [2, "楽園PROJECT Music Video Making film", "", "0"],
+    [3, "楽園PROJECT TV-SPOT", "", "0"],
 ]
 links = ["https://vgmdb.net/album/34613"]
 
@@ -224,10 +224,10 @@ catalognumber = "GNCA-0388"
 date = "2015-07-29"
 album = "secret arms / Ray [Limited Edition] Disc 1 (CD) [GNCA-038801]"
 tracks = [
-    [1, "secret arms", "Ray", ""],
-    [2, "Lovely Storm", "Ray", ""],
-    [3, "secret arms <instrumental>", "Ray", ""],
-    [4, "Lovely Storm <instrumental>", "Ray", ""],
+    [1, "secret arms", "Ray", "0"],
+    [2, "Lovely Storm", "Ray", "0"],
+    [3, "secret arms <instrumental>", "Ray", "0"],
+    [4, "Lovely Storm <instrumental>", "Ray", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ec80e87e-f288-41bb-869b-a08767724e6b", "https://vgmdb.net/album/52942"]
 
@@ -236,8 +236,8 @@ catalognumber = "GNCA-0388"
 date = "2015-07-29"
 album = "secret arms / Ray [Limited Edition] Disc 2 (DVD) [GNCA-038802]"
 tracks = [
-    [1, "secret arms MV", "Ray", ""],
-    [2, "secret arms MV -Dance ver.-", "Ray", ""],
+    [1, "secret arms MV", "Ray", "0"],
+    [2, "secret arms MV -Dance ver.-", "Ray", "0"],
     [3, "MV Making", "Ray", ""],
     [4, "SPOT", "Ray", ""],
 ]
@@ -248,10 +248,10 @@ catalognumber = "BRMM-10029"
 date = "2015-12-23"
 album = "To LOVEる -とらぶる- デュエットソング キミとスクール☆デイズ / 古手川唯&西連寺春菜 (CV.名塚佳織&矢作紗友里)"
 tracks = [
-    [1, "キミとスクール☆デイズ", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", ""],
-    [2, "最愛Darling! (唯・春菜バージョン)", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", ""],
-    [3, "キミとスクール☆デイズ -Instrumental-", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", ""],
-    [4, "最愛Darling! (唯・春菜バージョン) -Instrumental-", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", ""],
+    [1, "キミとスクール☆デイズ", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", "0"],
+    [2, "最愛Darling! (唯・春菜バージョン)", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", "0"],
+    [3, "キミとスクール☆デイズ -Instrumental-", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", "0"],
+    [4, "最愛Darling! (唯・春菜バージョン) -Instrumental-", "古手川唯(CV.名塚佳織)&西連寺春菜(CV.矢作紗友里)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/770a2ead-ef81-4cb4-9987-e868823ca7f6", "https://vgmdb.net/album/54835"]
 
@@ -260,11 +260,11 @@ catalognumber = "GNCA-1187"
 date = "2008-10-03"
 album = "To LOVEる-とらぶる- Variety CD その3"
 tracks = [
-    [1, "やだ!", "ララ・サタリン・デビルーク(戸松 遥)", ""],
-    [2, "美柑とヤミのお祭り大作戦 A-PART", "[dialogue]", ""],
-    [3, "My name is 'YAMI-chang'", "金色の闇(福圓美里)", ""],
-    [4, "美柑とヤミのお祭り大作戦 B-PART", "[dialogue]", ""],
-    [5, "清廉潔癖女子。", "古手川唯(名塚佳織)", ""],
+    [1, "やだ!", "ララ・サタリン・デビルーク(戸松 遥)", "0"],
+    [2, "美柑とヤミのお祭り大作戦 A-PART", "[dialogue]", "0"],
+    [3, "My name is 'YAMI-chang'", "金色の闇(福圓美里)", "0"],
+    [4, "美柑とヤミのお祭り大作戦 B-PART", "[dialogue]", "0"],
+    [5, "清廉潔癖女子。", "古手川唯(名塚佳織)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/90c100b9-5832-4ef4-b17c-ca359c7a8e11", "https://vgmdb.net/album/51038"]
 
@@ -274,11 +274,11 @@ date = "2017-06-07"
 album = "Happy days / Ray"
 tracks = [
     [1, "sign", "Ray", ""],
-    [2, "楽園PROJECT", "Ray", ""],
+    [2, "楽園PROJECT", "Ray", "0"],
     [3, "Recall", "Ray", ""],
     [4, "lull 〜そして僕らは〜", "Ray", ""],
     [5, "ebb and flow", "Ray", ""],
-    [6, "secret arms", "Ray", ""],
+    [6, "secret arms", "Ray", "0"],
     [7, "初めてガールズ!", "Ray", ""],
     [8, "a-gain", "Ray", ""],
     [9, "♡km/h", "Ray", ""],
@@ -296,10 +296,10 @@ catalognumber = "1000344853"
 date = "2012-11-07"
 album = "ファールプレーにくらり／サクラメイキュウ / 分島花音"
 tracks = [
-    [1, "ファールプレーにくらり", "分島花音", ""],
-    [2, "サクラメイキュウ", "分島花音", ""],
-    [3, "ファールプレーにくらり -instrumental-", "分島花音", ""],
-    [4, "サクラメイキュウ -instrumental-", "分島花音", ""],
+    [1, "ファールプレーにくらり", "分島花音", "0"],
+    [2, "サクラメイキュウ", "分島花音", "0"],
+    [3, "ファールプレーにくらり -instrumental-", "分島花音", "0"],
+    [4, "サクラメイキュウ -instrumental-", "分島花音", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b9d059fc-6d46-4e1e-a444-e70096f1eb60", "https://vgmdb.net/album/34614"]
 
@@ -308,10 +308,10 @@ catalognumber = "GNCA-0263"
 date = "2012-12-12"
 album = "To LOVEる-とらぶる-ダークネス キャラクターシングル / ララ・サタリン・デビルーク starring 戸松遥"
 tracks = [
-    [1, "天真爛漫!オトメ冥利☆", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
-    [2, "そして君と恋をする from ララ", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
-    [3, "天真爛漫!オトメ冥利☆ (Instrumental)", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
-    [4, "そして君と恋をする from ララ (Instrumental)", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
+    [1, "天真爛漫!オトメ冥利☆", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
+    [2, "そして君と恋をする from ララ", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
+    [3, "天真爛漫!オトメ冥利☆ (Instrumental)", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
+    [4, "そして君と恋をする from ララ (Instrumental)", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0eda5061-c29a-47ab-a9a7-a77a9f5e1286", "https://vgmdb.net/album/36154"]
 
@@ -320,10 +320,10 @@ catalognumber = "GNCV-0026"
 date = "2010-10-20"
 album = "Loop-the-Loop / KOTOKO"
 tracks = [
-    [1, "Loop‐the‐Loop", "KOTOKO", ""],
-    [2, "雷鳴が鳴く頃", "KOTOKO", ""],
-    [3, "Loop‐the‐Loop –instrumental–", "KOTOKO", ""],
-    [4, "雷鳴が鳴く頃 –instrumental–", "KOTOKO", ""],
+    [1, "Loop‐the‐Loop", "KOTOKO", "0"],
+    [2, "雷鳴が鳴く頃", "KOTOKO", "0"],
+    [3, "Loop‐the‐Loop –instrumental–", "KOTOKO", "0"],
+    [4, "雷鳴が鳴く頃 –instrumental–", "KOTOKO", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/82c17f68-5820-370d-8635-de9e23041b78", "https://vgmdb.net/album/36208"]
 
@@ -332,10 +332,10 @@ catalognumber = "GNCA-0262"
 date = "2012-12-05"
 album = "「To LOVEる -とらぶる- ダークネス」キャラクターシングル / モモ・ベリア・デビルーク starring 豊崎愛生"
 tracks = [
-    [1, "MORE&MORE", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
-    [2, "そして君と恋をする from モモ", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
-    [3, "MORE&MORE (Instrumental)", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
-    [4, "そして君と恋をする from モモ (Instrumental)", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
+    [1, "MORE&MORE", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
+    [2, "そして君と恋をする from モモ", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
+    [3, "MORE&MORE (Instrumental)", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
+    [4, "そして君と恋をする from モモ (Instrumental)", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0683d7b2-81da-4918-b0f1-a3513d00a5cf", "https://vgmdb.net/album/36153"]
 
@@ -344,29 +344,29 @@ catalognumber = "GNCA-1302"
 date = "2011-02-23"
 album = "もっとToLOVEる-とらぶる- ミュージックCD2"
 tracks = [
-    [1, "ごめん! からまっちゃっTail", "ナナ・アスタ・デビルーク(CV.伊藤かな恵) & モモ・ベリア・デビルーク(CV.豊崎愛生)", ""],
-    [2, "楽しくToLOVEる", "渡辺剛", ""],
-    [3, "隠れて隠して", "渡辺剛", ""],
-    [4, "風紀を乱しちゃイケマセン", "渡辺剛", ""],
-    [5, "敵対心", "渡辺剛", ""],
-    [6, "突進~!!", "渡辺剛", ""],
-    [7, "遅刻だァ~ッ!", "渡辺剛", ""],
-    [8, "ど~なっちゃうの~?", "渡辺剛", ""],
-    [9, "眠れないの...", "渡辺剛", ""],
-    [10, "御門先生!!!", "渡辺剛", ""],
-    [11, "オレの気持ち", "渡辺剛", ""],
-    [12, "コ、コケ川", "渡辺剛", ""],
-    [13, "迫り来るタイヤキ", "渡辺剛", ""],
-    [14, "Battle-2", "渡辺剛", ""],
-    [15, "あなた、恋をしていますか?", "渡辺剛", ""],
-    [16, "ルンの想い", "渡辺剛", ""],
-    [17, "リトの匂いだ...", "渡辺剛", ""],
-    [18, "リト、沈没", "渡辺剛", ""],
-    [19, "Xmasの想い出", "渡辺剛", ""],
-    [20, "雨の公園で...", "渡辺剛", ""],
-    [21, "ともだち", "渡辺剛", ""],
-    [22, "もっとToLOVEる", "渡辺剛", ""],
-    [23, "ダーリンハニィ■スィートエモーション", "ララ・サタリン・デビルーク(CV.戸松遥) & 西連寺春菜(CV.矢作紗友里)", ""],
+    [1, "ごめん! からまっちゃっTail", "ナナ・アスタ・デビルーク(CV.伊藤かな恵) & モモ・ベリア・デビルーク(CV.豊崎愛生)", "0"],
+    [2, "楽しくToLOVEる", "渡辺剛", "0"],
+    [3, "隠れて隠して", "渡辺剛", "0"],
+    [4, "風紀を乱しちゃイケマセン", "渡辺剛", "0"],
+    [5, "敵対心", "渡辺剛", "0"],
+    [6, "突進~!!", "渡辺剛", "0"],
+    [7, "遅刻だァ~ッ!", "渡辺剛", "0"],
+    [8, "ど~なっちゃうの~?", "渡辺剛", "0"],
+    [9, "眠れないの...", "渡辺剛", "0"],
+    [10, "御門先生!!!", "渡辺剛", "0"],
+    [11, "オレの気持ち", "渡辺剛", "0"],
+    [12, "コ、コケ川", "渡辺剛", "0"],
+    [13, "迫り来るタイヤキ", "渡辺剛", "0"],
+    [14, "Battle-2", "渡辺剛", "0"],
+    [15, "あなた、恋をしていますか?", "渡辺剛", "0"],
+    [16, "ルンの想い", "渡辺剛", "0"],
+    [17, "リトの匂いだ...", "渡辺剛", "0"],
+    [18, "リト、沈没", "渡辺剛", "0"],
+    [19, "Xmasの想い出", "渡辺剛", "0"],
+    [20, "雨の公園で...", "渡辺剛", "0"],
+    [21, "ともだち", "渡辺剛", "0"],
+    [22, "もっとToLOVEる", "渡辺剛", "0"],
+    [23, "ダーリンハニィ■スィートエモーション", "ララ・サタリン・デビルーク(CV.戸松遥) & 西連寺春菜(CV.矢作紗友里)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/47271bf2-a1d7-439b-b0cf-044ed04ae5ec", "https://vgmdb.net/album/22176"]
 
@@ -375,10 +375,10 @@ catalognumber = "GNCA-0223"
 date = "2010-12-22"
 album = "もっと To LOVEる-とらぶる- キャラクターCD:03 -ナナ&モモ-"
 tracks = [
-    [1, "ナナいろノーサンキュウ!", "ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
-    [2, "モ・モ・い・ろ・み・ご・ろ", "モモ・ベリア・デビルーク(CV.豊崎愛生)", ""],
-    [3, "ナナいろノーサンキュウ! (カラオケ)", "ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
-    [4, "モ・モ・い・ろ・み・ご・ろ (カラオケ)", "モモ・ベリア・デビルーク(CV.豊崎愛生)", ""],
+    [1, "ナナいろノーサンキュウ!", "ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "1"],
+    [2, "モ・モ・い・ろ・み・ご・ろ", "モモ・ベリア・デビルーク(CV.豊崎愛生)", "0"],
+    [3, "ナナいろノーサンキュウ! (カラオケ)", "ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "0"],
+    [4, "モ・モ・い・ろ・み・ご・ろ (カラオケ)", "モモ・ベリア・デビルーク(CV.豊崎愛生)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/43f5f429-7231-4f28-b870-02f8705e71a0", "https://vgmdb.net/album/63358"]
 
@@ -387,11 +387,11 @@ catalognumber = "GNCA-1189"
 date = "2008-11-28"
 album = "To LOVEる-とらぶる- Variety CD その5"
 tracks = [
-    [1, "…っちゃえ!", "ララ(戸松 遥)&春菜(矢作紗友里)", ""],
-    [2, "こんにちはベイビー A‐PART", "[dialogue]", ""],
-    [3, "うぃっス!カタルシス", "結城リト(渡辺明乃)", ""],
-    [4, "こんにちはベイビー B‐PART", "[dialogue]", ""],
-    [5, "君らしくなきゃヤダよ!", "結城美柑(花澤香菜)", ""],
+    [1, "…っちゃえ!", "ララ(戸松 遥)&春菜(矢作紗友里)", "0"],
+    [2, "こんにちはベイビー A‐PART", "[dialogue]", "0"],
+    [3, "うぃっス!カタルシス", "結城リト(渡辺明乃)", "0"],
+    [4, "こんにちはベイビー B‐PART", "[dialogue]", "0"],
+    [5, "君らしくなきゃヤダよ!", "結城美柑(花澤香菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/093e2cba-6e6c-4b46-a4b1-bea91bb8636d", "https://vgmdb.net/album/51040"]
 
@@ -400,10 +400,10 @@ catalognumber = "GNCA-0221"
 date = "2010-11-24"
 album = "もっと To LOVEる-とらぶる- キャラクターCD:01 ララ&春菜"
 tracks = [
-    [1, "メロ♡メロマンちっく", "ララ・サタリン・デビルーク(CV: 戸松遥)", ""],
-    [2, "君が教えてくれるすべて", "西連寺春菜(CV: 矢作紗友里)", ""],
-    [3, "メロ♡メロマンちっく (カラオケ)", "ララ・サタリン・デビルーク(CV: 戸松遥)", ""],
-    [4, "君が教えてくれるすべて (カラオケ)", "西連寺春菜(CV: 矢作紗友里)", ""],
+    [1, "メロ♡メロマンちっく", "ララ・サタリン・デビルーク(CV: 戸松遥)", "0"],
+    [2, "君が教えてくれるすべて", "西連寺春菜(CV: 矢作紗友里)", "0"],
+    [3, "メロ♡メロマンちっく (カラオケ)", "ララ・サタリン・デビルーク(CV: 戸松遥)", "0"],
+    [4, "君が教えてくれるすべて (カラオケ)", "西連寺春菜(CV: 矢作紗友里)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/362c1a7e-6280-4aec-8725-0972c03bb397", "https://vgmdb.net/album/64990"]
 
@@ -417,8 +417,8 @@ tracks = [
     [3, "さんすくみ", "分島花音", ""],
     [4, "チョコレート", "分島花音", ""],
     [5, "signal", "分島花音", ""],
-    [6, "ファールプレーにくらり", "分島花音", ""],
-    [7, "サクラメイキュウ", "分島花音", ""],
+    [6, "ファールプレーにくらり", "分島花音", "0"],
+    [7, "サクラメイキュウ", "分島花音", "0"],
     [8, "芸術家のかわいい想像たち", "分島花音", ""],
     [9, "ナイチンゲール", "分島花音", ""],
     [10, "world's end, girl's rondo", "分島花音", ""],
@@ -431,14 +431,14 @@ catalognumber = "FCCM-0237"
 date = "2008-08-22"
 album = "ラジオTo LOVEる -とらぶる- ～明乃・紗友里の彩南高校放送部～ DJCD Vol.2"
 tracks = [
-    [1, "オープニング", "", ""],
-    [2, "「告白100本ノック」傑作選", "", ""],
-    [3, "「リトのドキドキエンドルフィン」傑作選", "", ""],
-    [4, "「リトと春菜のトラブる特別授業」傑作選", "", ""],
-    [5, "「妄想ドラマ『いつだって恋は突然』」", "", ""],
-    [6, "ゲストトーク・福圓美里さん編", "", ""],
-    [7, "ゲストトーク・川澄綾子さん編", "", ""],
-    [8, "エンディング", "", ""],
+    [1, "オープニング", "", "0"],
+    [2, "「告白100本ノック」傑作選", "", "0"],
+    [3, "「リトのドキドキエンドルフィン」傑作選", "", "0"],
+    [4, "「リトと春菜のトラブる特別授業」傑作選", "", "0"],
+    [5, "「妄想ドラマ『いつだって恋は突然』」", "", "0"],
+    [6, "ゲストトーク・福圓美里さん編", "", "0"],
+    [7, "ゲストトーク・川澄綾子さん編", "", "0"],
+    [8, "エンディング", "", "0"],
 ]
 links = ["https://vgmdb.net/album/51048"]
 
@@ -447,10 +447,10 @@ catalognumber = "GNCA-0132"
 date = "2009-03-25"
 album = "やってこい!ダイスキ♥/ララ&春菜(戸松遥&矢作紗友里)"
 tracks = [
-    [1, "やってこい!ダイスキ♥", "ララ(戸松 遥)&春菜(矢作紗友里)", ""],
-    [2, "あっぷる・ぱにっく!?", "ララ(戸松 遥)&春菜(矢作紗友里)", ""],
-    [3, "やってこい!ダイスキ♥(オリジナル・カラオケ)", "ララ(戸松 遥)&春菜(矢作紗友里)", ""],
-    [4, "あっぷる・ぱにっく!?(オリジナル・カラオケ)", "ララ(戸松 遥)&春菜(矢作紗友里)", ""],
+    [1, "やってこい!ダイスキ♥", "ララ(戸松 遥)&春菜(矢作紗友里)", "0"],
+    [2, "あっぷる・ぱにっく!?", "ララ(戸松 遥)&春菜(矢作紗友里)", "1"],
+    [3, "やってこい!ダイスキ♥(オリジナル・カラオケ)", "ララ(戸松 遥)&春菜(矢作紗友里)", "0"],
+    [4, "あっぷる・ぱにっく!?(オリジナル・カラオケ)", "ララ(戸松 遥)&春菜(矢作紗友里)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f48f44c6-c363-46de-a82d-45c6aa7aea76", "https://vgmdb.net/album/36212"]
 
@@ -479,7 +479,7 @@ catalognumber = "ARN0004"
 date = "2012-07-07"
 album = "A-Remix Nation 4 Disc 2"
 tracks = [
-    [1, "あっぷる・ぱにっく！？ (DJ Mashiro & 3R2 Remix)", "DJ Mashiro & 3R2", ""],
+    [1, "あっぷる・ぱにっく！？ (DJ Mashiro & 3R2 Remix)", "DJ Mashiro & 3R2", "0"],
     [2, "ふたりのきもちのほんとのひみつ(Synagi \"BASS, Please Kill Me!\" Remix)", "Synagi", ""],
     [3, "緋色の空 (Ebon Remix)", "Ebon", ""],
     [4, "マブラヴ(モンスター視聴者REMIX)", "モンスター視聴者", ""],
@@ -500,10 +500,10 @@ catalognumber = "GNCL-0028"
 date = "2008-04-23"
 album = "forever we can make it! / THYME"
 tracks = [
-    [1, "forever we can make it!", "THYME", ""],
-    [2, "The LAST DAY", "THYME", ""],
-    [3, "forever we can make it! (without Vocal)", "THYME", ""],
-    [4, "The LAST DAY (without Vocal)", "THYME", ""],
+    [1, "forever we can make it!", "THYME", "0"],
+    [2, "The LAST DAY", "THYME", "0"],
+    [3, "forever we can make it! (without Vocal)", "THYME", "0"],
+    [4, "The LAST DAY (without Vocal)", "THYME", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c5ed4099-13eb-4c89-a8b9-e9a951271108", "https://vgmdb.net/album/36215"]
 
@@ -551,7 +551,7 @@ album = "KOTOKO Anime song's complete album \"The Fable\" [Limited Edition] Voca
 tracks = [
     [1, "being", "KOTOKO", ""],
     [2, "Chercher〜シャルシェ〜", "KOTOKO", ""],
-    [3, "Loop-the-Loop", "KOTOKO", ""],
+    [3, "Loop-the-Loop", "KOTOKO", "0"],
     [4, "▲MEW▲△MEW△CAKE", "KOTOKO", ""],
     [5, "My Gentle Days", "KOTOKO", ""],
     [6, "DuDiDuWa*lalala", "KOTOKO", ""],
@@ -577,10 +577,10 @@ catalognumber = "GNCA-0389"
 date = "2015-07-29"
 album = "secret arms / Ray"
 tracks = [
-    [1, "secret arms", "Ray", ""],
-    [2, "Lovely Storm", "Ray", ""],
-    [3, "secret arms <instrumental>", "Ray", ""],
-    [4, "Lovely Storm <instrumental>", "Ray", ""],
+    [1, "secret arms", "Ray", "0"],
+    [2, "Lovely Storm", "Ray", "0"],
+    [3, "secret arms <instrumental>", "Ray", "0"],
+    [4, "Lovely Storm <instrumental>", "Ray", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6977729a-2784-4032-af25-bf79d10982da", "https://vgmdb.net/album/52941"]
 
@@ -611,29 +611,29 @@ catalognumber = "GNCA-1301"
 date = "2011-01-26"
 album = "もっとToLOVEる-とらぶる- ミュージックCD1"
 tracks = [
-    [1, "Loop-the-Loop", "KOTOKO", ""],
-    [2, "パーティー始めよっか!!", "渡辺剛", ""],
-    [3, "穏やかワルツ", "渡辺剛", ""],
-    [4, "おはよう、リト!", "渡辺剛", ""],
-    [5, "無邪気なララ", "渡辺剛", ""],
-    [6, "減点!", "渡辺剛", ""],
-    [7, "カワイ~~!", "渡辺剛", ""],
-    [8, "リト、脱線", "渡辺剛", ""],
-    [9, "ドキドキ・リト", "渡辺剛", ""],
-    [10, "じゃないぞ! 乙女ちっく", "渡辺明乃", ""],
-    [11, "チャキチャキToLOVEる", "渡辺剛", ""],
-    [12, "愛してる!", "渡辺剛", ""],
-    [13, "それぞれの時間", "渡辺剛", ""],
-    [14, "リトへの想い", "渡辺剛", ""],
-    [15, "えっちいのは嫌いです...", "渡辺剛", ""],
-    [16, "お気楽ソング", "渡辺剛", ""],
-    [17, "賞金稼ぎ登場", "渡辺剛", ""],
-    [18, "ヤミちゃん", "渡辺剛", ""],
-    [19, "Battle-1", "渡辺剛", ""],
-    [20, "想い出の場所に", "渡辺剛", ""],
-    [21, "雨上りの空に", "渡辺剛", ""],
-    [22, "ゴメンネ", "渡辺剛", ""],
-    [23, "ラ・ラ・ラ・ライブフルっ!", "ルン(CV.大浦冬華) & 霧崎恭子(CV.千葉千恵巳)", ""],
+    [1, "Loop-the-Loop", "KOTOKO", "0"],
+    [2, "パーティー始めよっか!!", "渡辺剛", "0"],
+    [3, "穏やかワルツ", "渡辺剛", "0"],
+    [4, "おはよう、リト!", "渡辺剛", "0"],
+    [5, "無邪気なララ", "渡辺剛", "0"],
+    [6, "減点!", "渡辺剛", "0"],
+    [7, "カワイ~~!", "渡辺剛", "0"],
+    [8, "リト、脱線", "渡辺剛", "0"],
+    [9, "ドキドキ・リト", "渡辺剛", "0"],
+    [10, "じゃないぞ! 乙女ちっく", "渡辺明乃", "0"],
+    [11, "チャキチャキToLOVEる", "渡辺剛", "0"],
+    [12, "愛してる!", "渡辺剛", "0"],
+    [13, "それぞれの時間", "渡辺剛", "0"],
+    [14, "リトへの想い", "渡辺剛", "0"],
+    [15, "えっちいのは嫌いです...", "渡辺剛", "0"],
+    [16, "お気楽ソング", "渡辺剛", "0"],
+    [17, "賞金稼ぎ登場", "渡辺剛", "0"],
+    [18, "ヤミちゃん", "渡辺剛", "0"],
+    [19, "Battle-1", "渡辺剛", "0"],
+    [20, "想い出の場所に", "渡辺剛", "0"],
+    [21, "雨上りの空に", "渡辺剛", "0"],
+    [22, "ゴメンネ", "渡辺剛", "0"],
+    [23, "ラ・ラ・ラ・ライブフルっ!", "ルン(CV.大浦冬華) & 霧崎恭子(CV.千葉千恵巳)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/36bfe605-bec2-4fcb-b54d-ae8f089b298e", "https://vgmdb.net/album/21745"]
 
@@ -642,14 +642,14 @@ catalognumber = "FCCM-0236"
 date = "2008-06-25"
 album = "ラジオTo LOVEる -とらぶる- ～明乃・紗友里の彩南高校放送部～ DJCD Vol.1"
 tracks = [
-    [1, "オープニング", "", ""],
-    [2, "「告白100本ノック」傑作選", "", ""],
-    [3, "「リトのドキドキエンドルフィン」傑作選", "", ""],
-    [4, "「リトと春菜のトラブる特別授業」傑作選", "", ""],
-    [5, "「初恋スウィートメモリー」", "", ""],
-    [6, "ゲストトーク・新井里美さん編", "", ""],
-    [7, "ゲストトーク・戸松遥さん編", "", ""],
-    [8, "エンディング", "", ""],
+    [1, "オープニング", "", "0"],
+    [2, "「告白100本ノック」傑作選", "", "0"],
+    [3, "「リトのドキドキエンドルフィン」傑作選", "", "0"],
+    [4, "「リトと春菜のトラブる特別授業」傑作選", "", "0"],
+    [5, "「初恋スウィートメモリー」", "", "0"],
+    [6, "ゲストトーク・新井里美さん編", "", "0"],
+    [7, "ゲストトーク・戸松遥さん編", "", "0"],
+    [8, "エンディング", "", "0"],
 ]
 links = ["https://vgmdb.net/album/51047"]
 
@@ -658,10 +658,10 @@ catalognumber = "BRMM-10027"
 date = "2015-11-25"
 album = "To LOVEる -とらぶる- デュエットソング 恋のため息 / モモ・ベリア・デビルーク&ナナ・アスタ・デビルーク (CV.豊崎愛生&伊藤かな恵)"
 tracks = [
-    [1, "恋のため息", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
-    [2, "最愛Darling! (モモ・ナナバージョン)", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
-    [3, "恋のため息 -Instrumental-", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
-    [4, "最愛Darling! (モモ・ナナバージョン) -Instrumental-", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", ""],
+    [1, "恋のため息", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "0"],
+    [2, "最愛Darling! (モモ・ナナバージョン)", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "0"],
+    [3, "恋のため息 -Instrumental-", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "0"],
+    [4, "最愛Darling! (モモ・ナナバージョン) -Instrumental-", "モモ・ベリア・デビルーク(CV.豊崎愛生)&ナナ・アスタ・デビルーク(CV.伊藤かな恵)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e0d37289-c03d-41c6-b6aa-c41fb2f3c00a", "https://vgmdb.net/album/54833"]
 
@@ -670,10 +670,10 @@ catalognumber = "GNCA-0224"
 date = "2010-12-22"
 album = "もっと To LOVEる-とらぶる- キャラクターCD:04 -唯&お静-"
 tracks = [
-    [1, "のーらぶ", "古手川唯(CV: 名塚佳織)", ""],
-    [2, "スキって半透明！", "村雨静(CV: 能登麻美子)", ""],
-    [3, "のーらぶ (カラオケ)", "古手川唯(CV: 名塚佳織)", ""],
-    [4, "スキって半透明！ (カラオケ)", "村雨静(CV: 能登麻美子)", ""],
+    [1, "のーらぶ", "古手川唯(CV: 名塚佳織)", "1"],
+    [2, "スキって半透明！", "村雨静(CV: 能登麻美子)", "0"],
+    [3, "のーらぶ (カラオケ)", "古手川唯(CV: 名塚佳織)", "0"],
+    [4, "スキって半透明！ (カラオケ)", "村雨静(CV: 能登麻美子)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/24632275-06a2-4fe6-a610-a2b7bd73cfe6", "https://vgmdb.net/album/63360"]
 
@@ -682,10 +682,10 @@ catalognumber = "GNCV-0036"
 date = "2015-08-05"
 album = "Gardens / 川田まみ"
 tracks = [
-    [1, "Gardens", "川田まみ", ""],
-    [2, "∃UTOPIA?", "川田まみ", ""],
-    [3, "Gardens <instrumental>", "川田まみ", ""],
-    [4, "∃UTOPIA? <instrumental>", "川田まみ", ""],
+    [1, "Gardens", "川田まみ", "0"],
+    [2, "∃UTOPIA?", "川田まみ", "0"],
+    [3, "Gardens <instrumental>", "川田まみ", "0"],
+    [4, "∃UTOPIA? <instrumental>", "川田まみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/006c6fd4-2c2a-4fe9-b2dc-3aa899904711", "https://vgmdb.net/album/52940"]
 
@@ -698,8 +698,8 @@ tracks = [
     [2, "砂のお城", "分島花音", ""],
     [3, "プリンセスチャールストン", "分島花音", ""],
     [4, "celmisia", "分島花音", ""],
-    [5, "ファールプレーにくらり", "分島花音", ""],
-    [6, "サクラメイキュウ", "分島花音", ""],
+    [5, "ファールプレーにくらり", "分島花音", "0"],
+    [6, "サクラメイキュウ", "分島花音", "0"],
     [7, "signal", "分島花音", ""],
     [8, "無重力", "分島花音", ""],
     [9, "killy killy JOKER", "分島花音", ""],
@@ -734,14 +734,14 @@ tracks = [
     [2, "Tomorrow", "戸松遥", ""],
     [3, "産巣日の時", "戸松遥", ""],
     [4, "STAGE", "戸松遥", ""],
-    [5, "やさしき日々", "戸松遥", ""],
+    [5, "やさしき日々", "戸松遥", "0"],
     [6, "セパレイト・ウェイズ", "戸松遥", ""],
     [7, "マリラレルラ", "戸松遥", ""],
     [8, "こいのうた", "戸松遥", ""],
     [9, "Circle", "戸松遥", ""],
     [10, "七色みちしるべ", "戸松遥", ""],
     [11, "naissance", "戸松遥", ""],
-    [12, "Baby Baby Love", "戸松遥", ""],
+    [12, "Baby Baby Love", "戸松遥", "0"],
     [13, "ドーナツ", "戸松遥", ""],
     [14, "ヒカリギフト", "戸松遥", ""],
     [15, "ユメセカイ", "戸松遥", ""],
@@ -766,32 +766,32 @@ catalognumber = "GNCA-1191"
 date = "2008-12-26"
 album = "To LOVEる-とらぶる- O.S.T.2"
 tracks = [
-    [1, "リトの青春", "渡辺剛", ""],
-    [2, "幽霊たちの宴", "渡辺剛", ""],
-    [3, "妄想Happy", "渡辺剛", ""],
-    [4, "恥ずかしい…", "渡辺剛", ""],
-    [5, "染みるハナシ", "渡辺剛", ""],
-    [6, "結城亭血風録", "渡辺剛", ""],
-    [7, "攻防の果て", "渡辺剛", ""],
-    [8, "デビルーク星人", "渡辺剛", ""],
-    [9, "迫る危機", "渡辺剛", ""],
-    [10, "運命", "渡辺剛", ""],
-    [11, "不安", "渡辺剛", ""],
-    [12, "本当の気持ち", "渡辺剛", ""],
-    [13, "PEKE", "渡辺剛", ""],
-    [14, "ドギマギ・ブルース", "渡辺剛", ""],
-    [15, "体操始め!", "渡辺剛", ""],
-    [16, "かかれ～!", "渡辺剛", ""],
-    [17, "日本のココロ", "渡辺剛", ""],
-    [18, "行け!結城リト", "渡辺剛", ""],
-    [19, "自分の答え", "渡辺剛", ""],
-    [20, "傷心", "渡辺剛", ""],
-    [21, "想い出", "渡辺剛", ""],
-    [22, "春菜への想い", "渡辺剛", ""],
-    [23, "キラーラ星人ピカリー", "渡辺剛", ""],
-    [24, "ハチャメチャ・ダンシング!", "渡辺剛", ""],
-    [25, "kissの行方 (TV-Size)", "Anna", ""],
-    [26, "爆熱少女マジカルキョーコ", "マジカルキョーコ（千葉千恵巳）", ""],
+    [1, "リトの青春", "渡辺剛", "0"],
+    [2, "幽霊たちの宴", "渡辺剛", "0"],
+    [3, "妄想Happy", "渡辺剛", "0"],
+    [4, "恥ずかしい…", "渡辺剛", "0"],
+    [5, "染みるハナシ", "渡辺剛", "0"],
+    [6, "結城亭血風録", "渡辺剛", "0"],
+    [7, "攻防の果て", "渡辺剛", "0"],
+    [8, "デビルーク星人", "渡辺剛", "0"],
+    [9, "迫る危機", "渡辺剛", "0"],
+    [10, "運命", "渡辺剛", "0"],
+    [11, "不安", "渡辺剛", "0"],
+    [12, "本当の気持ち", "渡辺剛", "0"],
+    [13, "PEKE", "渡辺剛", "0"],
+    [14, "ドギマギ・ブルース", "渡辺剛", "0"],
+    [15, "体操始め!", "渡辺剛", "0"],
+    [16, "かかれ～!", "渡辺剛", "0"],
+    [17, "日本のココロ", "渡辺剛", "0"],
+    [18, "行け!結城リト", "渡辺剛", "0"],
+    [19, "自分の答え", "渡辺剛", "0"],
+    [20, "傷心", "渡辺剛", "0"],
+    [21, "想い出", "渡辺剛", "0"],
+    [22, "春菜への想い", "渡辺剛", "0"],
+    [23, "キラーラ星人ピカリー", "渡辺剛", "0"],
+    [24, "ハチャメチャ・ダンシング!", "渡辺剛", "0"],
+    [25, "kissの行方 (TV-Size)", "Anna", "0"],
+    [26, "爆熱少女マジカルキョーコ", "マジカルキョーコ（千葉千恵巳）", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/952d45cd-1740-410d-8e76-beeddca8c590", "https://vgmdb.net/album/36217"]
 
@@ -800,10 +800,10 @@ catalognumber = "GNCV-0025"
 date = "2010-10-20"
 album = "Loop-the-Loop / KOTOKO [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "Loop‐the‐Loop", "KOTOKO", ""],
-    [2, "雷鳴が鳴く頃", "KOTOKO", ""],
-    [3, "Loop‐the‐Loop –instrumental–", "KOTOKO", ""],
-    [4, "雷鳴が鳴く頃 –instrumental–", "KOTOKO", ""],
+    [1, "Loop‐the‐Loop", "KOTOKO", "0"],
+    [2, "雷鳴が鳴く頃", "KOTOKO", "0"],
+    [3, "Loop‐the‐Loop –instrumental–", "KOTOKO", "0"],
+    [4, "雷鳴が鳴く頃 –instrumental–", "KOTOKO", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/871c1c45-00a6-4f77-8884-e7be95d2b07e", "https://vgmdb.net/album/36210"]
 
@@ -812,7 +812,7 @@ catalognumber = "GNCV-0025"
 date = "2010-10-20"
 album = "Loop-the-Loop / KOTOKO [Limited Edition] Disc 2 (DVD)"
 tracks = [
-    [1, "Loop‐the‐Loop (プロモーションビデオ)", "KOTOKO", ""],
+    [1, "Loop‐the‐Loop (プロモーションビデオ)", "KOTOKO", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/871c1c45-00a6-4f77-8884-e7be95d2b07e", "https://vgmdb.net/album/36210"]
 
@@ -821,10 +821,10 @@ catalognumber = "GNCA-0222"
 date = "2010-11-24"
 album = "もっと To LOVEる-とらぶる- キャラクターCD:02 美柑&闇"
 tracks = [
-    [1, "リビングWars", "結城美柑(CV: 花澤香菜)", ""],
-    [2, "ミステイク?! DEATH", "金色の闇(CV: 福圓美里)", ""],
-    [3, "リビングWars (カラオケ)", "結城美柑(CV: 花澤香菜)", ""],
-    [4, "ミステイク?! DEATH (カラオケ)", "金色の闇(CV: 福圓美里)", ""],
+    [1, "リビングWars", "結城美柑(CV: 花澤香菜)", "1"],
+    [2, "ミステイク?! DEATH", "金色の闇(CV: 福圓美里)", "0"],
+    [3, "リビングWars (カラオケ)", "結城美柑(CV: 花澤香菜)", "0"],
+    [4, "ミステイク?! DEATH (カラオケ)", "金色の闇(CV: 福圓美里)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f7917161-8c1c-4900-9223-0085f54a29e3", "https://vgmdb.net/album/64991"]
 
@@ -833,11 +833,11 @@ catalognumber = "GNCA-1185"
 date = "2008-07-04"
 album = "To LOVEる-とらぶる- Variety CD その1"
 tracks = [
-    [1, "ダイスキみーっけ!", "ララ・サタリン・デビルーク(戸松 遥)", ""],
-    [2, "勇者リトの冒険 A-PART", "[dialogue]", ""],
-    [3, "ちゃんとしてよセイシュン!", "結城美柑(花澤香菜)", ""],
-    [4, "勇者リトの冒険 B-PART", "[dialogue]", ""],
-    [5, "スカートのはじっこ", "西連寺春菜(矢作紗友里)", ""],
+    [1, "ダイスキみーっけ!", "ララ・サタリン・デビルーク(戸松 遥)", "0"],
+    [2, "勇者リトの冒険 A-PART", "[dialogue]", "0"],
+    [3, "ちゃんとしてよセイシュン!", "結城美柑(花澤香菜)", "0"],
+    [4, "勇者リトの冒険 B-PART", "[dialogue]", "0"],
+    [5, "スカートのはじっこ", "西連寺春菜(矢作紗友里)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/88b5e5f6-aabc-4292-8e2e-30e18388fdd7", "https://vgmdb.net/album/51036"]
 
@@ -853,7 +853,7 @@ tracks = [
     [5, "向日葵", "Ray", ""],
     [6, "ひかり", "Ray", ""],
     [7, "凪-nagi-", "Ray", ""],
-    [8, "楽園PROJECT", "Ray", ""],
+    [8, "楽園PROJECT", "Ray", "0"],
     [9, "baby♡macaron", "Ray", ""],
     [10, "Sweet Days", "Ray", ""],
     [11, "Recall", "Ray", ""],
@@ -879,7 +879,7 @@ tracks = [
     [10, "恋せよ女の子", "MK feat.Ma15", ""],
     [11, "続く世界", "N.O.-SYO feat.YURiE", ""],
     [12, "ひとさしゆびクワイエット！", "Hommarju feat.Ma15+MAKI", ""],
-    [13, "forever we can make it!", "DJ Sa9 feat.YURiE", ""],
+    [13, "forever we can make it!", "DJ Sa9 feat.YURiE", "0"],
     [14, "Tears Infection", "Ryu* feat.CAMRY", ""],
     [15, "きらめく涙は星に", "Acid=Stone Valley feat.たまゆら", ""],
     [16, "Forフルーツバスケット", "MK feat.CAMRY", ""],
@@ -899,8 +899,8 @@ tracks = [
     [2, "Q&A リサイタル!", "戸松遥", ""],
     [3, "渚のSHOOTING STAR", "戸松遥", ""],
     [4, "Make Up Sweet Girl", "戸松遥", ""],
-    [5, "Baby Baby Love", "戸松遥", ""],
-    [6, "やさしき日々", "戸松遥", ""],
+    [5, "Baby Baby Love", "戸松遥", "0"],
+    [6, "やさしき日々", "戸松遥", "0"],
     [7, "ミライガール", "戸松遥", ""],
     [8, "Issai Gassai", "戸松遥", ""],
     [9, "星のステージ", "戸松遥", ""],
@@ -920,8 +920,8 @@ tracks = [
     [2, "Q&A リサイタル!", "戸松遥", ""],
     [3, "渚のSHOOTING STAR", "戸松遥", ""],
     [4, "♪Make Up Sweet Girl☆", "戸松遥", ""],
-    [5, "Baby Baby Love", "戸松遥", ""],
-    [6, "やさしき日々", "戸松遥", ""],
+    [5, "Baby Baby Love", "戸松遥", "0"],
+    [6, "やさしき日々", "戸松遥", "0"],
     [7, "ミライガール", "戸松遥", ""],
     [8, "Issai Gassai", "戸松遥", ""],
     [9, "星のステージ", "戸松遥", ""],
@@ -947,10 +947,10 @@ catalognumber = "GNCA-0261"
 date = "2012-12-05"
 album = "To LOVEる-とらぶる-ダークネス キャラクターシングル / 金色の闇 starring 福圓美里"
 tracks = [
-    [1, "Beyond The Darkness", "金色の闇 starring 福圓美里", ""],
-    [2, "そして君と恋をする from 金色の闇", "金色の闇 starring 福圓美里", ""],
-    [3, "Beyond The Darkness (Instrumental)", "金色の闇 starring 福圓美里", ""],
-    [4, "そして君と恋をする from 金色の闇 (Instrumental)", "金色の闇 starring 福圓美里", ""],
+    [1, "Beyond The Darkness", "金色の闇 starring 福圓美里", "0"],
+    [2, "そして君と恋をする from 金色の闇", "金色の闇 starring 福圓美里", "0"],
+    [3, "Beyond The Darkness (Instrumental)", "金色の闇 starring 福圓美里", "0"],
+    [4, "そして君と恋をする from 金色の闇 (Instrumental)", "金色の闇 starring 福圓美里", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4cee8787-430f-44d7-befd-64e0d5432d6e", "https://vgmdb.net/album/36152"]
 
@@ -959,11 +959,11 @@ catalognumber = "GNCA-1188"
 date = "2008-10-24"
 album = "To LOVEる-とらぶる- Variety CD その4"
 tracks = [
-    [1, "わたくしナンバーワン!!", "天条院沙姫(川澄綾子)", ""],
-    [2, "お嬢様の遭難 沙姫篇", "[dialogue]", ""],
-    [3, "まんなかSensitive", "古手川唯(名塚佳織)", ""],
-    [4, "チクタクチクタク恋の音♥ 唯篇", "[dialogue]", ""],
-    [5, "SWITCHんぐ!", "ルン / レン (大浦冬華)", ""],
+    [1, "わたくしナンバーワン!!", "天条院沙姫(川澄綾子)", "0"],
+    [2, "お嬢様の遭難 沙姫篇", "[dialogue]", "0"],
+    [3, "まんなかSensitive", "古手川唯(名塚佳織)", "0"],
+    [4, "チクタクチクタク恋の音♥ 唯篇", "[dialogue]", "0"],
+    [5, "SWITCHんぐ!", "ルン / レン (大浦冬華)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7b834b56-57e2-4a5c-a82b-80ae8a8af985", "https://vgmdb.net/album/51039"]
 
@@ -972,10 +972,10 @@ catalognumber = "GNCL-0032"
 date = "2008-05-28"
 album = "ラッキーチューン / Anna"
 tracks = [
-    [1, "ラッキーチューン", "Anna", ""],
-    [2, "星のカケラ", "Anna", ""],
-    [3, "ラッキーチューン (Instrumental)", "Anna", ""],
-    [4, "星のカケラ (Instrumental)", "Anna", ""],
+    [1, "ラッキーチューン", "Anna", "1"],
+    [2, "星のカケラ", "Anna", "0"],
+    [3, "ラッキーチューン (Instrumental)", "Anna", "0"],
+    [4, "星のカケラ (Instrumental)", "Anna", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/2df1d167-6054-4d6a-ab89-81bcf555f185", "https://vgmdb.net/album/36213"]
 
@@ -984,10 +984,10 @@ catalognumber = "GNCA-0264"
 date = "2012-12-12"
 album = "To LOVEる-とらぶる-ダークネス キャラクターシングル / ナナ・アスタ・デビルーク starring 伊藤かな恵"
 tracks = [
-    [1, "ナ・ナ・フ・シ・ギ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
-    [2, "そして君と恋をする from ナナ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
-    [3, "ナ・ナ・フ・シ・ギ (Instrumental)", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
-    [4, "そして君と恋をする from ナナ (Instrumental)", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
+    [1, "ナ・ナ・フ・シ・ギ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
+    [2, "そして君と恋をする from ナナ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
+    [3, "ナ・ナ・フ・シ・ギ (Instrumental)", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
+    [4, "そして君と恋をする from ナナ (Instrumental)", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/47ed2073-0c77-43eb-a817-9a1d06ce65ca", "https://vgmdb.net/album/36155"]
 
@@ -996,10 +996,10 @@ catalognumber = "1000344852"
 date = "2012-11-07"
 album = "ファールプレーにくらり／サクラメイキュウ / 分島花音 Vocal"
 tracks = [
-    [1, "ファールプレーにくらり", "分島花音", ""],
-    [2, "サクラメイキュウ", "分島花音", ""],
-    [3, "ファールプレーにくらり -instrumental-", "分島花音", ""],
-    [4, "サクラメイキュウ -instrumental-", "分島花音", ""],
+    [1, "ファールプレーにくらり", "分島花音", "0"],
+    [2, "サクラメイキュウ", "分島花音", "0"],
+    [3, "ファールプレーにくらり -instrumental-", "分島花音", "0"],
+    [4, "サクラメイキュウ -instrumental-", "分島花音", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/de4a4358-7cd9-469c-a5cf-2dad1945f75a", "https://vgmdb.net/album/34615"]
 
@@ -1056,7 +1056,7 @@ album = "KOTOKO Anime song's complete album \"The Fable\" Disc 3 [GNCA-159203]"
 tracks = [
     [1, "being", "KOTOKO", ""],
     [2, "Chercher〜シャルシェ〜", "KOTOKO", ""],
-    [3, "Loop-the-Loop", "KOTOKO", ""],
+    [3, "Loop-the-Loop", "KOTOKO", "0"],
     [4, "▲MEW▲△MEW△CAKE", "KOTOKO", ""],
     [5, "My Gentle Days", "KOTOKO", ""],
     [6, "DuDiDuWa*lalala", "KOTOKO", ""],
@@ -1072,7 +1072,7 @@ catalognumber = "GNXA-7181-CD"
 date = "2012-12-21"
 album = "To LOVEる-とらぶる-ダークネス ミニドラマCD Vol.1"
 tracks = [
-    [1, "モモと唯のハレンチ学園パラダイス♪", "モモ・ベリア・デビルーク(CV.豊崎愛生) & 古手川唯(CV.名塚佳織)", ""],
+    [1, "モモと唯のハレンチ学園パラダイス♪", "モモ・ベリア・デビルーク(CV.豊崎愛生) & 古手川唯(CV.名塚佳織)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0cdb258f-81f5-4907-9386-ad2bb51d0145", "https://vgmdb.net/album/37042"]
 
@@ -1081,10 +1081,10 @@ catalognumber = "1000344851"
 date = "2012-10-24"
 album = "楽園PROJECT / Ray"
 tracks = [
-    [1, "楽園PROJECT", "Ray", ""],
-    [2, "protostar ～あの日のワタシ～", "Ray", ""],
-    [3, "楽園PROJECT -instrumental-", "Ray", ""],
-    [4, "protostar ～あの日のワタシ～ -instrumental-", "Ray", ""],
+    [1, "楽園PROJECT", "Ray", "0"],
+    [2, "protostar ～あの日のワタシ～", "Ray", "0"],
+    [3, "楽園PROJECT -instrumental-", "Ray", "0"],
+    [4, "protostar ～あの日のワタシ～ -instrumental-", "Ray", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c6b2451d-bf97-40e5-ac09-de60fcb240fe", "https://vgmdb.net/album/34612"]
 
@@ -1098,7 +1098,7 @@ tracks = [
     [3, "DAYS OF DASH", "Booing Day feat. YURiE", ""],
     [4, "未完成ストライド", "Icon feat. Latte", ""],
     [5, "君が夢を連れてきた", "Disco da gama feat. MFMW + si-na", ""],
-    [6, "ファールプレーにくらり", "Disco da gama feat. R.Cena", ""],
+    [6, "ファールプレーにくらり", "Disco da gama feat. R.Cena", "0"],
     [7, "SLOW DANCE", "Icon feat. Yusuke", ""],
     [8, "LIFEる IS LOVEる!!", "MK feat. maburu-choko + SAYURI", ""],
     [9, "SELF PRODUCER", "MK feat. KANA", ""],
@@ -1142,7 +1142,7 @@ tracks = [
     [8, "フシ-ギノ-アナ", "KOTOKO", ""],
     [9, "Rock☆DE フルーツバスケット♪", "KOTOKO", ""],
     [10, "サクラノアメモエギノヨ", "KOTOKO", ""],
-    [11, "Loop-the-Loop", "KOTOKO", ""],
+    [11, "Loop-the-Loop", "KOTOKO", "0"],
     [12, "リスタート", "KOTOKO", ""],
     [13, "P◇lyG△n", "KOTOKO", ""],
     [14, "→unfinished→ -Album ver.-", "KOTOKO", ""],
@@ -1164,7 +1164,7 @@ tracks = [
     [8, "ラッキーマンの歌", "見吉香耶 starring 矢作紗友里", ""],
     [9, "ワイワイワールド", "新妻えいじ starring 岡本信彦", ""],
     [10, "ロマンス", "新妻えいじ starring 岡本信彦", ""],
-    [11, "forever we can make it!", "福田真太 starring 諏訪部順一", ""],
+    [11, "forever we can make it!", "福田真太 starring 諏訪部順一", "0"],
     [12, "アンバランスなKissをして", "福田真太 starring 諏訪部順一", ""],
     [13, "1/2", "蒼樹紅 starring 川澄綾子", ""],
     [14, "うしろゆびさされ組", "蒼樹紅 starring 川澄綾子", ""],
@@ -1185,8 +1185,8 @@ tracks = [
     [3, "さんすくみ", "分島花音", ""],
     [4, "チョコレート", "分島花音", ""],
     [5, "signal", "分島花音", ""],
-    [6, "ファールプレーにくらり", "分島花音", ""],
-    [7, "サクラメイキュウ", "分島花音", ""],
+    [6, "ファールプレーにくらり", "分島花音", "0"],
+    [7, "サクラメイキュウ", "分島花音", "0"],
     [8, "芸術家のかわいい想像たち", "分島花音", ""],
     [9, "ナイチンゲール", "分島花音", ""],
     [10, "world’s end, girl’s rondo", "分島花音", ""],
@@ -1271,9 +1271,9 @@ catalognumber = "SMCL-218"
 date = "2010-11-03"
 album = "Baby Baby Love / 戸松遥"
 tracks = [
-    [1, "Baby Baby Love", "戸松遥", ""],
-    [2, "やさしき日々", "戸松遥", ""],
-    [3, "Baby Baby Love (Instrumental)", "戸松遥", ""],
+    [1, "Baby Baby Love", "戸松遥", "0"],
+    [2, "やさしき日々", "戸松遥", "1"],
+    [3, "Baby Baby Love (Instrumental)", "戸松遥", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/353b67db-55c4-30a3-8ca6-92fe95cf4f62", "https://vgmdb.net/album/31160"]
 
@@ -1282,7 +1282,7 @@ catalognumber = "GNXA-7182-CD"
 date = "2013-01-30"
 album = "To LOVEる-とらぶる-ダークネス ミニドラマCD Vol.2"
 tracks = [
-    [1, "美柑とヤミのヤミヤミカンパニー♪", "結城美柑(CV.花澤香菜) & 金色の闇(CV.福圓美里)", ""],
+    [1, "美柑とヤミのヤミヤミカンパニー♪", "結城美柑(CV.花澤香菜) & 金色の闇(CV.福圓美里)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/729976a4-ce27-436f-aac7-6e185cf84258", "https://vgmdb.net/album/37043"]
 
@@ -1291,16 +1291,16 @@ catalognumber = "GNCA-1194"
 date = "2013-04-24"
 album = "To LOVEる-とらぶる-ダークネス キャラクターALBUM(仮)"
 tracks = [
-    [1, "MORE&MORE", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
-    [2, "Beyond The Darkness", "金色の闇 starring 福圓美里", ""],
-    [3, "天真爛漫!オトメ冥利☆", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
-    [4, "ナ・ナ・フ・シ・ギ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
-    [5, "Dangerous Game", "黒咲芽亜 starring 井口裕香", ""],
-    [6, "油断×大敵", "ナナ・アスタ・デビルーク starring 伊藤かな恵", ""],
-    [7, "恋のL♡VE♂L♡VE♀大発明!", "ララ・サタリン・デビルーク starring 戸松 遥", ""],
-    [8, "甘い世界", "金色の闇 starring 福圓美里", ""],
-    [9, "恋のチャンス", "モモ・ベリア・デビルーク starring 豊崎愛生", ""],
-    [10, "そして君と恋をする", "金色の闇＆モモ＆ララ＆ナナ", ""],
+    [1, "MORE&MORE", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
+    [2, "Beyond The Darkness", "金色の闇 starring 福圓美里", "0"],
+    [3, "天真爛漫!オトメ冥利☆", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
+    [4, "ナ・ナ・フ・シ・ギ", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
+    [5, "Dangerous Game", "黒咲芽亜 starring 井口裕香", "0"],
+    [6, "油断×大敵", "ナナ・アスタ・デビルーク starring 伊藤かな恵", "0"],
+    [7, "恋のL♡VE♂L♡VE♀大発明!", "ララ・サタリン・デビルーク starring 戸松 遥", "0"],
+    [8, "甘い世界", "金色の闇 starring 福圓美里", "0"],
+    [9, "恋のチャンス", "モモ・ベリア・デビルーク starring 豊崎愛生", "0"],
+    [10, "そして君と恋をする", "金色の闇＆モモ＆ララ＆ナナ", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/1a0a52bc-f838-4b85-9d5f-db161644f329", "https://vgmdb.net/album/37584"]
 
@@ -1315,7 +1315,7 @@ tracks = [
     [4, "Truth", "kors k", ""],
     [5, "魂のルフラン", "NYO", ""],
     [6, "緋色の空", "Taishi", ""],
-    [7, "Forever We Can Make It!", "Tanaita", ""],
+    [7, "Forever We Can Make It!", "Tanaita", "0"],
     [8, "集結の園へ", "Muzik Servant", ""],
     [9, "Yahho!!", "未来派", ""],
     [10, "虹", "JiNG*da*LaW", ""],
@@ -1333,10 +1333,10 @@ catalognumber = "GNCL-0039"
 date = "2008-08-27"
 album = "kissの行方 / Anna"
 tracks = [
-    [1, "kissの行方", "Anna", ""],
-    [2, "SCAR", "Anna", ""],
-    [3, "kissの行方 (instrumental)", "Anna", ""],
-    [4, "SCAR (instrumental)", "Anna", ""],
+    [1, "kissの行方", "Anna", "0"],
+    [2, "SCAR", "Anna", "0"],
+    [3, "kissの行方 (instrumental)", "Anna", "0"],
+    [4, "SCAR (instrumental)", "Anna", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/8ce20cdf-a608-4f9a-b83c-e7843367f7ab", "https://vgmdb.net/album/36214"]
 
@@ -1350,8 +1350,8 @@ tracks = [
     [3, "さんすくみ", "分島花音", ""],
     [4, "チョコレート", "分島花音", ""],
     [5, "signal", "分島花音", ""],
-    [6, "ファールプレーにくらり", "分島花音", ""],
-    [7, "サクラメイキュウ", "分島花音", ""],
+    [6, "ファールプレーにくらり", "分島花音", "0"],
+    [7, "サクラメイキュウ", "分島花音", "0"],
     [8, "芸術家のかわいい想像たち", "分島花音", ""],
     [9, "ナイチンゲール", "分島花音", ""],
     [10, "world’s end, girl’s rondo", "分島花音", ""],
@@ -1380,14 +1380,14 @@ tracks = [
     [2, "Tomorrow", "戸松遥", ""],
     [3, "産巣日の時", "戸松遥", ""],
     [4, "STAGE", "戸松遥", ""],
-    [5, "やさしき日々", "戸松遥", ""],
+    [5, "やさしき日々", "戸松遥", "0"],
     [6, "セパレイト・ウェイズ", "戸松遥", ""],
     [7, "マリラレルラ", "戸松遥", ""],
     [8, "こいのうた", "戸松遥", ""],
     [9, "Circle", "戸松遥", ""],
     [10, "七色みちしるべ", "戸松遥", ""],
     [11, "naissance", "戸松遥", ""],
-    [12, "Baby Baby Love", "戸松遥", ""],
+    [12, "Baby Baby Love", "戸松遥", "0"],
     [13, "ドーナツ", "戸松遥", ""],
     [14, "ヒカリギフト", "戸松遥", ""],
     [15, "ユメセカイ", "戸松遥", ""],
@@ -1409,10 +1409,10 @@ catalognumber = "BRMM-10026"
 date = "2015-11-11"
 album = "To LOVEる -とらぶる- デュエットソング マルサンカクカゾク / ララ・サタリン・デビルーク&結城美柑 (CV.戸松遥&花澤香菜)"
 tracks = [
-    [1, "マルサンカクカゾク", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", ""],
-    [2, "最愛Darling! (ララ・美柑バージョン)", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", ""],
-    [3, "マルサンカクカゾク -Instrumental-", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", ""],
-    [4, "最愛Darling! (ララ・美柑バージョン) -Instrumental-", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", ""],
+    [1, "マルサンカクカゾク", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", "1"],
+    [2, "最愛Darling! (ララ・美柑バージョン)", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", "0"],
+    [3, "マルサンカクカゾク -Instrumental-", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", "0"],
+    [4, "最愛Darling! (ララ・美柑バージョン) -Instrumental-", "ララ・サタリン・デビルーク(CV.戸松遥)&結城美柑(CV.花澤香菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0ec1685e-9d7c-478a-a7cf-0ee4888df658", "https://vgmdb.net/album/54832"]
 
@@ -1436,10 +1436,10 @@ catalognumber = "BRMM-10028"
 date = "2015-12-09"
 album = "To LOVEる -とらぶる- デュエットソングヘーキじゃないかも / 金色の闇&黒咲芽亜 (CV.福圓美里&井口裕香)"
 tracks = [
-    [1, "ヘーキじゃないかも", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", ""],
-    [2, "最愛Darling! (ヤミ・メアバージョン)", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", ""],
-    [3, "ヘーキじゃないかも -Instrumental-", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", ""],
-    [4, "最愛Darling! (ヤミ・メアバージョン) -Instrumental-", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", ""],
+    [1, "ヘーキじゃないかも", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", "0"],
+    [2, "最愛Darling! (ヤミ・メアバージョン)", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", "0"],
+    [3, "ヘーキじゃないかも -Instrumental-", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", "0"],
+    [4, "最愛Darling! (ヤミ・メアバージョン) -Instrumental-", "金色の闇(CV.福圓美里) & 黒咲芽亜(CV.井口裕香)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/851a67fe-95f4-46c9-b512-f98699e54dca", "https://vgmdb.net/album/54834"]
 
