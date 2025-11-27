@@ -31,23 +31,23 @@ catalognumber = "ANZX-11808"
 date = "2015-05-27"
 album = "デュラララ!!×2 承 第4巻 特典CD"
 tracks = [
-    [1, "Dancing in the Sunshine", "吉森信", ""],
-    [2, "春の学園", "吉森信", ""],
-    [3, "青くない空に", "吉森信", ""],
-    [4, "取り立てラプソディ", "吉森信", ""],
-    [5, "Spicy Cats & Dogs", "吉森信", ""],
-    [6, "A Tiger in the Circle", "吉森信", ""],
-    [7, "ガスマスクの夫婦", "吉森信", ""],
-    [8, "お惚気チャカポコ", "吉森信", ""],
-    [9, "The Legend of the Red", "吉森信", ""],
-    [10, "影の視線", "吉森信", ""],
-    [11, "ロシアのシゴトニン", "吉森信", ""],
-    [12, "ひた走る棘", "吉森信", ""],
-    [13, "真昼のタイマン", "吉森信", ""],
-    [14, "暗闇のカオス", "吉森信", ""],
-    [15, "Shooter's direction", "吉森信", ""],
-    [16, "狂った非日常", "吉森信", ""],
-    [17, "雨の中たたずむ", "吉森信", ""],
+    [1, "Dancing in the Sunshine", "吉森信", "0"],
+    [2, "春の学園", "吉森信", "0"],
+    [3, "青くない空に", "吉森信", "0"],
+    [4, "取り立てラプソディ", "吉森信", "0"],
+    [5, "Spicy Cats & Dogs", "吉森信", "0"],
+    [6, "A Tiger in the Circle", "吉森信", "0"],
+    [7, "ガスマスクの夫婦", "吉森信", "0"],
+    [8, "お惚気チャカポコ", "吉森信", "0"],
+    [9, "The Legend of the Red", "吉森信", "0"],
+    [10, "影の視線", "吉森信", "0"],
+    [11, "ロシアのシゴトニン", "吉森信", "0"],
+    [12, "ひた走る棘", "吉森信", "0"],
+    [13, "真昼のタイマン", "吉森信", "0"],
+    [14, "暗闇のカオス", "吉森信", "0"],
+    [15, "Shooter's direction", "吉森信", "0"],
+    [16, "狂った非日常", "吉森信", "0"],
+    [17, "雨の中たたずむ", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/03991ae0-5687-45a9-9db9-9736a08ee6ed", "https://vgmdb.net/album/50788"]
 
@@ -60,7 +60,7 @@ tracks = [
     [2, "嘘まみれの街で", "PENGUIN RESEARCH", ""],
     [3, "スーパースター", "PENGUIN RESEARCH", ""],
     [4, "Alternative (PGR ver.)", "PENGUIN RESEARCH", ""],
-    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
+    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
     [6, "シニバショダンス", "PENGUIN RESEARCH", ""],
     [7, "SUPERCHARGER", "PENGUIN RESEARCH", ""],
     [8, "冀望", "PENGUIN RESEARCH", ""],
@@ -77,7 +77,7 @@ date = "2017-03-08"
 album = "敗者復活戦自由形 / PENGUIN RESEARCH [初回生産限定盤] Disc 2 (DVD) [SECL-2123]"
 tracks = [
     [1, "SUPERCHARGER -Music Video-", "PENGUIN RESEARCH", ""],
-    [2, "ジョーカーに宜しく -Music Video-", "PENGUIN RESEARCH", ""],
+    [2, "ジョーカーに宜しく -Music Video-", "PENGUIN RESEARCH", "0"],
     [3, "敗北の少年 -Music Video-", "PENGUIN RESEARCH", ""],
     [4, "boyhood -Music Video-", "PENGUIN RESEARCH", ""],
     [5, "スポットライト -Music Video-", "PENGUIN RESEARCH", ""],
@@ -93,7 +93,7 @@ date = "2018-02-14"
 album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement, Vocal"
 tracks = [
     [1, "薔薇は美しく散る", "影山ヒロノブ", ""],
-    [2, "裏切りの夕焼け", "影山ヒロノブ", ""],
+    [2, "裏切りの夕焼け", "影山ヒロノブ", "0"],
     [3, "THE REAL FOLK BLUES", "影山ヒロノブ", ""],
     [4, "好敵手", "影山ヒロノブ", ""],
     [5, "カントリーロード", "影山ヒロノブ", ""],
@@ -114,7 +114,7 @@ date = "2018-02-14"
 album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement"
 tracks = [
     [1, "薔薇は美しく散る", "影山ヒロノブ", ""],
-    [2, "裏切りの夕焼け", "影山ヒロノブ", ""],
+    [2, "裏切りの夕焼け", "影山ヒロノブ", "0"],
     [3, "THE REAL FOLK BLUES", "影山ヒロノブ", ""],
     [4, "好敵手", "影山ヒロノブ", ""],
     [5, "カントリーロード", "影山ヒロノブ", ""],
@@ -225,10 +225,10 @@ catalognumber = "AICL-2936"
 date = "2015-08-05"
 album = "EXIT / REVALCY"
 tracks = [
-    [1, "EXIT", "REVALCY", ""],
-    [2, "君なんだ", "REVALCY", ""],
-    [3, "Nothing's too late", "REVALCY", ""],
-    [4, "EXIT [Instrumental]", "REVALCY", ""],
+    [1, "EXIT", "REVALCY", "0"],
+    [2, "君なんだ", "REVALCY", "0"],
+    [3, "Nothing's too late", "REVALCY", "0"],
+    [4, "EXIT [Instrumental]", "REVALCY", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/877a0f93-a961-43c8-90f5-03ac38395c48", "https://vgmdb.net/album/53140"]
 
@@ -237,8 +237,8 @@ catalognumber = "ANZX-11830"
 date = "2016-04-27"
 album = "デュラララ!!×2 結 第3巻 特典CD"
 tracks = [
-    [1, "Special Voice", "", ""],
-    [2, "君をのせて", "", ""],
+    [1, "Special Voice", "", "0"],
+    [2, "君をのせて", "", "0"],
 ]
 links = ["https://vgmdb.net/album/57720"]
 
@@ -247,10 +247,10 @@ catalognumber = "KSCL-2677"
 date = "2016-01-20"
 album = "Steppin' out / FLOW [Limited Edition] Disc 1 (CD) [KSCL-2677]"
 tracks = [
-    [1, "Steppin' out", "FLOW", ""],
-    [2, "蒼き惑星", "FLOW", ""],
-    [3, "虹の空 -Beautiful Sky mix-", "FLOW", ""],
-    [4, "Steppin' out -Instrumental-", "FLOW", ""],
+    [1, "Steppin' out", "FLOW", "0"],
+    [2, "蒼き惑星", "FLOW", "0"],
+    [3, "虹の空 -Beautiful Sky mix-", "FLOW", "0"],
+    [4, "Steppin' out -Instrumental-", "FLOW", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e02b7ced-f35d-4d33-8a40-f3c342fe4230", "https://vgmdb.net/album/55856"]
 
@@ -259,8 +259,8 @@ catalognumber = "KSCL-2678"
 date = "2016-01-20"
 album = "Steppin' out / FLOW [Limited Edition] Disc 2 (DVD) [KSCL-2678]"
 tracks = [
-    [1, "Steppin' out (Music Video)", "FLOW", ""],
-    [2, "Steppin' out (Music Video Making)", "FLOW", ""],
+    [1, "Steppin' out (Music Video)", "FLOW", "0"],
+    [2, "Steppin' out (Music Video Making)", "FLOW", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e02b7ced-f35d-4d33-8a40-f3c342fe4230", "https://vgmdb.net/album/55856"]
 
@@ -271,14 +271,14 @@ album = "DRRROOKiEZ!! -ROOKiEZ is PUNK'D respect for DRRR!!- / ROOKiEZ is PUNK'D
 tracks = [
     [1, "- overture -", "ROOKiEZ is PUNK’D", ""],
     [2, "DROP", "ROOKiEZ is PUNK’D", ""],
-    [3, "コンプリケイション", "ROOKiEZ is PUNK’D", ""],
+    [3, "コンプリケイション", "ROOKiEZ is PUNK’D", "0"],
     [4, "Evil messenger", "ROOKiEZ is PUNK’D", ""],
     [5, "Fight for your right", "ROOKiEZ is PUNK’D", ""],
     [6, "Bring back", "ROOKiEZ is PUNK’D", ""],
     [7, "Stand up", "ROOKiEZ is PUNK’D", ""],
     [8, "- interlude", "Masaomi Kida (CV:Mamoru Miyano)", ""],
     [9, "DROP -GAME SIZE VER.-", "ROOKiEZ is PUNK’D", ""],
-    [10, "コンプリケイション -Acoustic lyrics reading-", "ROOKiEZ is PUNK’D feat. Masaomi Kida (CV:Mamoru Miyano)", ""],
+    [10, "コンプリケイション -Acoustic lyrics reading-", "ROOKiEZ is PUNK’D feat. Masaomi Kida (CV:Mamoru Miyano)", "0"],
     [11, "DROP", "ROOKiEZ is PUNK’D + Masaomi Kida (CV:Mamoru Miyano)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/333ebd51-28f1-488d-af86-bfae39492bb1", "https://vgmdb.net/album/132730"]
@@ -289,7 +289,7 @@ date = "2011-08-24"
 album = "DRRROOKiEZ!! -ROOKiEZ is PUNK'D respect for DRRR!!- / ROOKiEZ is PUNK'D [Limited Edition] Disc 2 (DVD) [DFCL-1793]"
 tracks = [
     [1, "DROP (MUSIC VIDEO)", "ROOKiEZ is PUNK’D", ""],
-    [2, "コンプリケイション -DRRR!! EDITION- (MUSIC VIDEO)", "ROOKiEZ is PUNK’D", ""],
+    [2, "コンプリケイション -DRRR!! EDITION- (MUSIC VIDEO)", "ROOKiEZ is PUNK’D", "0"],
     [3, "Stand up -DRRR!! EDITION- (MUSIC VIDEO)", "ROOKiEZ is PUNK’D", ""],
     [4, "プレイステーション・ポータブル用ソフト『デュラララ!! 3way standoff -alley-』 (OPENING MOVIE)", "ROOKiEZ is PUNK’D", ""],
 ]
@@ -300,8 +300,8 @@ catalognumber = "ANZX-11832"
 date = "2016-05-25"
 album = "デュラララ!!×2 結 第4巻 特典CD"
 tracks = [
-    [1, "Special Voice", "", ""],
-    [2, "冬の稲妻", "", ""],
+    [1, "Special Voice", "", "0"],
+    [2, "冬の稲妻", "", "0"],
 ]
 links = ["https://vgmdb.net/album/57940"]
 
@@ -313,7 +313,7 @@ tracks = [
     [1, "COLORS", "", ""],
     [2, "WORLD END", "", ""],
     [3, "PENDULUM", "", ""],
-    [4, "Steppin'out", "", ""],
+    [4, "Steppin'out", "", "0"],
     [5, "WORD OF THE VOICE", "", ""],
     [6, "Hey!!!", "", ""],
     [7, "愛愛愛に撃たれてバイバイバイ", "", ""],
@@ -331,7 +331,7 @@ tracks = [
     [19, "Re: member", "", ""],
     [20, "Break it down", "", ""],
     [21, "SUMMER FREAK", "", ""],
-    [22, "虹の空", "", ""],
+    [22, "虹の空", "", "0"],
     [23, "GO!!!", "", ""],
     [24, "Sign", "", ""],
 ]
@@ -344,7 +344,7 @@ album = "WILL / PENGUIN RESEARCH"
 tracks = [
     [1, "SUPERCHARGER", "PENGUIN RESEARCH", ""],
     [2, "A WILL", "PENGUIN RESEARCH", ""],
-    [3, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
+    [3, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
     [4, "雷鳴", "PENGUIN RESEARCH", ""],
     [5, "世界最後の日に", "PENGUIN RESEARCH", ""],
     [6, "敗北の少年", "PENGUIN RESEARCH", ""],
@@ -356,8 +356,8 @@ catalognumber = "ANZB-9522"
 date = "2010-02-24"
 album = "デュラララ!! カバーソングコレクションCD「リンダリンダ」＜紀田正臣＞"
 tracks = [
-    [1, "Special Voice", "[dialogue]", ""],
-    [2, "リンダリンダ", "紀田正臣(CV:宮野真守)", ""],
+    [1, "Special Voice", "[dialogue]", "0"],
+    [2, "リンダリンダ", "紀田正臣(CV:宮野真守)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c480b81f-5bce-4f36-8084-67f74b9288f8", "https://vgmdb.net/album/23191"]
 
@@ -366,8 +366,8 @@ catalognumber = "ANZX-11812"
 date = "2015-07-22"
 album = "デュラララ!!×2 承 第6巻 特典CD"
 tracks = [
-    [1, "Special Voice", "[dialogue]", ""],
-    [2, "セーラー服と機関銃", "園原杏里(花澤香菜)", ""],
+    [1, "Special Voice", "[dialogue]", "0"],
+    [2, "セーラー服と機関銃", "園原杏里(花澤香菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/4e8b824d-b441-46c8-84ee-7fe69c4c183f", "https://vgmdb.net/album/51233"]
 
@@ -396,7 +396,7 @@ catalognumber = "ANXX-00586"
 date = "2015-01-25"
 album = "little world / 聖辺ルリ"
 tracks = [
-    [1, "little world", "聖辺ルリ(藤田咲)", ""],
+    [1, "little world", "聖辺ルリ(藤田咲)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/52d4603c-b9f7-46cd-8c37-0fdf053c3ed4", "https://vgmdb.net/album/50508"]
 
@@ -408,7 +408,7 @@ tracks = [
     [1, "天使にふれたよ！", "", ""],
     [2, "恋愛サーキュレーション", "", ""],
     [3, "一斉の声", "", ""],
-    [4, "君をのせて", "", ""],
+    [4, "君をのせて", "", "0"],
     [5, "悲しみをやさしさに", "", ""],
     [6, "残酷な天使のテーゼ", "", ""],
     [7, "微笑みの爆弾", "", ""],
@@ -434,7 +434,7 @@ tracks = [
     [27, "ぴゅあぴゅあはーと", "", ""],
     [28, "Believe", "", ""],
     [29, "God knows", "", ""],
-    [30, "裏切りの夕焼け", "", ""],
+    [30, "裏切りの夕焼け", "", "0"],
 ]
 links = ["https://vgmdb.net/album/151362"]
 
@@ -452,7 +452,7 @@ tracks = [
     [7, "Os-宇宙人", "", ""],
     [8, "only my railgun", "", ""],
     [9, "SHOOT!", "", ""],
-    [10, "裏切りの夕焼け", "", ""],
+    [10, "裏切りの夕焼け", "", "0"],
     [11, "oath sign", "", ""],
     [12, "inner universe", "", ""],
     [13, "Hacking to the Gate", "", ""],
@@ -476,8 +476,8 @@ catalognumber = "ANZB-9530"
 date = "2010-06-23"
 album = "デュラララ!! カバーソングコレクションCD「学園天国」＜竜ヶ峰帝人＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "学園天国", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "学園天国", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23204"]
 
@@ -490,7 +490,7 @@ tracks = [
     [2, "IGNITE", "藍井エイル", ""],
     [3, "The Everlasting Guilty Crown", "EGOIST", ""],
     [4, "sh0ut", "SawanoHiroyuki[nZk]:Tielle&Gemie", ""],
-    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
+    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
     [6, "デート", "斉藤壮馬", ""],
     [7, "ずっと", "佐香智久", ""],
     [8, "星空☆ディスティネーション", "花澤香菜", ""],
@@ -563,8 +563,8 @@ tracks = [
     [7, "Lagoon", "OKAMOTO'S", ""],
     [8, "Beautiful Days", "OKAMOTO’S", ""],
     [9, "Dance With You", "OKAMOTO’S", ""],
-    [10, "HEADHUNT", "OKAMOTO’S", ""],
-    [11, "チャンス", "OKAMOTO’S", ""],
+    [10, "HEADHUNT", "OKAMOTO’S", "0"],
+    [11, "チャンス", "OKAMOTO’S", "0"],
     [12, "HAPPY BIRTHDAY", "OKAMOTO’S", ""],
     [13, "恋のビート", "OKAMOTO’S", ""],
     [14, "サウンド・オブ・ミュージック", "OKAMOTO’S", ""],
@@ -578,11 +578,11 @@ catalognumber = "DFCL-1636"
 date = "2010-06-02"
 album = "コンプリケイション / ROOKiEZ is PUNK'D"
 tracks = [
-    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", ""],
-    [2, "Fortune", "ROOKiEZ is PUNK’D", ""],
-    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", ""],
-    [4, "コンプリケイション (instrumental)", "ROOKiEZ is PUNK’D", ""],
-    [5, "Fortune (instrumental)", "ROOKiEZ is PUNK’D", ""],
+    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", "0"],
+    [2, "Fortune", "ROOKiEZ is PUNK’D", "0"],
+    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", "0"],
+    [4, "コンプリケイション (instrumental)", "ROOKiEZ is PUNK’D", "0"],
+    [5, "Fortune (instrumental)", "ROOKiEZ is PUNK’D", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/211f2515-8ec7-4759-b352-0d33aaa306f5", "https://vgmdb.net/album/68963"]
 
@@ -591,16 +591,16 @@ catalognumber = "SVWC-70166"
 date = "2016-06-08"
 album = "デュラララッピング!! -「デュラララ!!」BEST- Disc 1 (CD) [SVWC-70166]"
 tracks = [
-    [1, "裏切りの夕焼け", "THEATRE BROOK", ""],
-    [2, "Trust Me", "松下優也", ""],
-    [3, "コンプリケイション", "ROOKiEZ is PUNK’D", ""],
-    [4, "Butterfly", "ON/OFF", ""],
-    [5, "HEADHUNT", "OKAMOTO’S", ""],
-    [6, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", ""],
-    [7, "Day you laugh", "豊永利行", ""],
-    [8, "EXIT", "REVALCY", ""],
-    [9, "Steppin'out", "FLOW", ""],
-    [10, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
+    [1, "裏切りの夕焼け", "THEATRE BROOK", "0"],
+    [2, "Trust Me", "松下優也", "0"],
+    [3, "コンプリケイション", "ROOKiEZ is PUNK’D", "0"],
+    [4, "Butterfly", "ON/OFF", "0"],
+    [5, "HEADHUNT", "OKAMOTO’S", "0"],
+    [6, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", "0"],
+    [7, "Day you laugh", "豊永利行", "0"],
+    [8, "EXIT", "REVALCY", "0"],
+    [9, "Steppin'out", "FLOW", "0"],
+    [10, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c6920a7f-cbec-404c-9296-7fc499e797e9", "https://vgmdb.net/album/57861"]
 
@@ -618,9 +618,9 @@ catalognumber = "DFCL-1639"
 date = "2010-06-09"
 album = "Butterfly / ON/OFF [初回生産限定盤] Disc 1 (CD) [DFCL-1639]"
 tracks = [
-    [1, "Butterfly", "ON/OFF", ""],
-    [2, "CONNECTION", "ON/OFF", ""],
-    [3, "Butterfly (Instrumental)", "ON/OFF", ""],
+    [1, "Butterfly", "ON/OFF", "0"],
+    [2, "CONNECTION", "ON/OFF", "0"],
+    [3, "Butterfly (Instrumental)", "ON/OFF", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1da4265d-f7b7-3796-973d-4c3a9d894441", "https://vgmdb.net/album/89892"]
 
@@ -639,10 +639,10 @@ catalognumber = "BVCL-627"
 date = "2015-02-04"
 album = "HEADHUNT / OKAMOTO'S [Limited Edition] Disc 1 (CD) [BVCL-627]"
 tracks = [
-    [1, "HEADHUNT", "OKAMOTO’S", ""],
-    [2, "チャンス", "OKAMOTO’S", ""],
-    [3, "HEADHUNT (デュラララ!!×2 承 short version)", "OKAMOTO’S", ""],
-    [4, "HEADHUNT (instrumental)", "OKAMOTO’S", ""],
+    [1, "HEADHUNT", "OKAMOTO’S", "0"],
+    [2, "チャンス", "OKAMOTO’S", "0"],
+    [3, "HEADHUNT (デュラララ!!×2 承 short version)", "OKAMOTO’S", "0"],
+    [4, "HEADHUNT (instrumental)", "OKAMOTO’S", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/54e050c3-e91e-485f-ac22-9233c1c31294", "https://vgmdb.net/album/49113"]
 
@@ -661,15 +661,15 @@ catalognumber = "SVWC-7837"
 date = "2012-05-23"
 album = "DRRR Wrapping!! Character Song Collection"
 tracks = [
-    [1, "リンダリンダ", "紀田正臣(CV:宮野真守)", ""],
-    [2, "津軽海峡・冬景色", "平和島静雄(CV:小野大輔)", ""],
-    [3, "学園天国", "竜ヶ峰帝人(CV:豊永利行)", ""],
-    [4, "ツッパリHigh School Rock'n Roll (登校編)", "門田京平(CV:中村悠一)", ""],
-    [5, "時をかける少女", "園原杏里(CV:花澤香菜)", ""],
-    [6, "DIAMONDS <ダイアモンド>", "岸谷新羅(CV:福山 潤)", ""],
-    [7, "すばらしい日々", "折原臨也(CV:神谷浩史)", ""],
-    [8, "ルージュの伝言", "セルティ・ストゥルルソン(CV:沢城みゆき)", ""],
-    [9, "rain tears", "聖辺ルリ(CV:藤田 咲)", ""],
+    [1, "リンダリンダ", "紀田正臣(CV:宮野真守)", "0"],
+    [2, "津軽海峡・冬景色", "平和島静雄(CV:小野大輔)", "0"],
+    [3, "学園天国", "竜ヶ峰帝人(CV:豊永利行)", "0"],
+    [4, "ツッパリHigh School Rock'n Roll (登校編)", "門田京平(CV:中村悠一)", "0"],
+    [5, "時をかける少女", "園原杏里(CV:花澤香菜)", "0"],
+    [6, "DIAMONDS <ダイアモンド>", "岸谷新羅(CV:福山 潤)", "0"],
+    [7, "すばらしい日々", "折原臨也(CV:神谷浩史)", "0"],
+    [8, "ルージュの伝言", "セルティ・ストゥルルソン(CV:沢城みゆき)", "0"],
+    [9, "rain tears", "聖辺ルリ(CV:藤田 咲)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6b40d9ce-f46c-491c-a14b-02c3f76fb542", "https://vgmdb.net/album/31361"]
 
@@ -685,8 +685,8 @@ catalognumber = "ANZB-9542"
 date = "2010-12-22"
 album = "デュラララ!! カバーソングコレクションCD「すばらしい日々」＜折原臨也＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "すばらしい日々", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "すばらしい日々", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23210"]
 
@@ -695,10 +695,10 @@ catalognumber = "DFCL-1642"
 date = "2010-06-09"
 album = "Butterfly / ON/OFF [期間生産限定盤] Vocal"
 tracks = [
-    [1, "Butterfly", "ON/OFF", ""],
-    [2, "CONNECTION", "ON/OFF", ""],
-    [3, "Butterfly (TV Size Ver.)", "ON/OFF", ""],
-    [4, "Butterfly (Instrumental)", "ON/OFF", ""],
+    [1, "Butterfly", "ON/OFF", "0"],
+    [2, "CONNECTION", "ON/OFF", "0"],
+    [3, "Butterfly (TV Size Ver.)", "ON/OFF", "0"],
+    [4, "Butterfly (Instrumental)", "ON/OFF", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d0a7ed6c-89f4-4fb9-84bf-432ffd2fa41a", "https://vgmdb.net/album/58431"]
 
@@ -751,8 +751,8 @@ tracks = [
     [7, "Lagoon", "", ""],
     [8, "Beautiful Days", "", ""],
     [9, "Dance With You", "", ""],
-    [10, "HEADHUNT", "", ""],
-    [11, "チャンス", "", ""],
+    [10, "HEADHUNT", "", "0"],
+    [11, "チャンス", "", "0"],
     [12, "HAPPY BIRTHDAY", "", ""],
     [13, "恋のビート", "", ""],
     [14, "サウンド・オブ・ミュージック", "", ""],
@@ -780,7 +780,7 @@ tracks = [
     [12, "マダラ", "", ""],
     [13, "ART(FCO2811)", "", ""],
     [14, "SAVE ME", "", ""],
-    [15, "HEADHUNT", "", ""],
+    [15, "HEADHUNT", "", "0"],
     [16, "BROTHER", "", ""],
     [17, "ROCKY", "", ""],
     [18, "Dancing Boy", "", ""],
@@ -795,8 +795,8 @@ catalognumber = "ANZX-11828"
 date = "2016-03-23"
 album = "デュラララ!!×2 結 第2巻 特典CD"
 tracks = [
-    [1, "Special Voice", "折原九瑠璃&舞流(金元寿子&喜多村英梨)", ""],
-    [2, "恋のバカンス", "折原九瑠璃&舞流(金元寿子&喜多村英梨)", ""],
+    [1, "Special Voice", "折原九瑠璃&舞流(金元寿子&喜多村英梨)", "0"],
+    [2, "恋のバカンス", "折原九瑠璃&舞流(金元寿子&喜多村英梨)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7ef2ac7f-8202-4a65-8447-910f1b08ae20", "https://vgmdb.net/album/57719"]
 
@@ -805,11 +805,11 @@ catalognumber = "ESCL-3378"
 date = "2010-02-24"
 album = "裏切りの夕焼け / THEATRE BROOK [期間生産限定盤] Vocal"
 tracks = [
-    [1, "裏切りの夕焼け", "THEATRE BROOK", ""],
-    [2, "未来を今", "THEATRE BROOK", ""],
-    [3, "裏切りの夕焼け -TV Size Opening Ver.-", "THEATRE BROOK", ""],
-    [4, "裏切りの夕焼け -TV Size Long Ver.-", "THEATRE BROOK", ""],
-    [5, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", ""],
+    [1, "裏切りの夕焼け", "THEATRE BROOK", "0"],
+    [2, "未来を今", "THEATRE BROOK", "0"],
+    [3, "裏切りの夕焼け -TV Size Opening Ver.-", "THEATRE BROOK", "0"],
+    [4, "裏切りの夕焼け -TV Size Long Ver.-", "THEATRE BROOK", "0"],
+    [5, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/69c667dc-6fc1-4092-bf90-8f3e0d6831e9", "https://vgmdb.net/album/31055"]
 
@@ -818,7 +818,7 @@ catalognumber = "ESCL-3379"
 date = "2010-02-24"
 album = "裏切りの夕焼け / THEATRE BROOK [期間生産限定盤] Video"
 tracks = [
-    [1, "裏切りの夕焼け Music Video", "THEATRE BROOK", ""],
+    [1, "裏切りの夕焼け Music Video", "THEATRE BROOK", "0"],
     [2, "MBS・TBS系アニメーション「デュラララ!!」ノンクレジットオープニング映像", "THEATRE BROOK", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/69c667dc-6fc1-4092-bf90-8f3e0d6831e9", "https://vgmdb.net/album/31055"]
@@ -828,8 +828,8 @@ catalognumber = "ANZB-9526"
 date = "2010-04-21"
 album = "デュラララ!! カバーソングコレクションCD「津軽海峡・冬景色」＜平和島静雄＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "海峡・冬景色", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "海峡・冬景色", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23200"]
 
@@ -838,8 +838,8 @@ catalognumber = "ANZX-11814"
 date = "2015-08-26"
 album = "デュラララ!!×2 転 第1巻 特典CD"
 tracks = [
-    [1, "Special Voice", "紀田正臣(宮野真守)", ""],
-    [2, "ジュリアに傷心(ハートブレイク)", "紀田正臣(宮野真守)", ""],
+    [1, "Special Voice", "紀田正臣(宮野真守)", "0"],
+    [2, "ジュリアに傷心(ハートブレイク)", "紀田正臣(宮野真守)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a2f6a130-8449-45c0-a2a3-0f24b973d752", "https://vgmdb.net/album/53265"]
 
@@ -856,7 +856,7 @@ tracks = [
     [6, "冥夜花伝廊", "Cubby-S feat.Latte", ""],
     [7, "la divina tragedia ～魔曲～", "Hommarju feat.YOZU+R.Cena", ""],
     [8, "できるかなって☆☆☆", "Ryu* feat.MAKI+CAMRY+Ma15", ""],
-    [9, "裏切りの夕焼け", "Acid=Stone Valley feat.TAKANORI", ""],
+    [9, "裏切りの夕焼け", "Acid=Stone Valley feat.TAKANORI", "0"],
     [10, "ゴールデンタイムラバー", "MK feat.hideki", ""],
     [11, "Rumbling hearts", "MK feat.KANA", ""],
     [12, "rise", "MK feat.R.Cena", ""],
@@ -883,10 +883,10 @@ catalognumber = "KSCL-2679"
 date = "2016-01-20"
 album = "Steppin' out / FLOW"
 tracks = [
-    [1, "Steppin' out", "FLOW", ""],
-    [2, "蒼き惑星", "FLOW", ""],
-    [3, "虹の空 -Beautiful Sky mix-", "FLOW", ""],
-    [4, "Steppin' out -Instrumental-", "FLOW", ""],
+    [1, "Steppin' out", "FLOW", "0"],
+    [2, "蒼き惑星", "FLOW", "0"],
+    [3, "虹の空 -Beautiful Sky mix-", "FLOW", "0"],
+    [4, "Steppin' out -Instrumental-", "FLOW", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ce50c344-64ec-49d8-9b17-6efc2f07f629", "https://vgmdb.net/album/55854"]
 
@@ -895,8 +895,8 @@ catalognumber = "ANZX-11806"
 date = "2015-04-22"
 album = "デュラララ!!×2 承 第3巻 特典CD"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "なごり雪", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "なごり雪", "", "0"],
 ]
 links = ["https://vgmdb.net/album/50314"]
 
@@ -905,8 +905,8 @@ catalognumber = "ANZX-11818"
 date = "2015-10-28"
 album = "デュラララ!!×2 転 第3巻 特典CD"
 tracks = [
-    [1, "Special Voice", "聖辺ルリ(藤田咲)", ""],
-    [2, "little world", "聖辺ルリ(藤田咲)", ""],
+    [1, "Special Voice", "聖辺ルリ(藤田咲)", "0"],
+    [2, "little world", "聖辺ルリ(藤田咲)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/ec44d89e-3732-4a1d-be1b-1ea1d78b635f", "https://vgmdb.net/album/54301"]
 
@@ -915,10 +915,10 @@ catalognumber = "ANZX-11802"
 date = "2015-02-25"
 album = "デュラララ!!×2 承 第1巻 特典CD"
 tracks = [
-    [1, "灯台もと暗し #01", "[dialogue]", ""],
-    [2, "灯台もと暗し #02", "[dialogue]", ""],
-    [3, "灯台もと暗し #03", "[dialogue]", ""],
-    [4, "灯台もと暗し #04", "[dialogue]", ""],
+    [1, "灯台もと暗し #01", "[dialogue]", "0"],
+    [2, "灯台もと暗し #02", "[dialogue]", "0"],
+    [3, "灯台もと暗し #03", "[dialogue]", "0"],
+    [4, "灯台もと暗し #04", "[dialogue]", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5af62a86-b1c0-4ced-ab97-2dfd39c0a33f", "https://vgmdb.net/album/49946"]
 
@@ -927,10 +927,10 @@ catalognumber = "ANZX-9837"
 date = "2012-05-23"
 album = "デュラララ!! 録り下ろしドラマ＆スタッフトークCD Disc 1 [ANZX-9837]"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116723"]
 
@@ -939,9 +939,9 @@ catalognumber = "ANZX-9838"
 date = "2012-05-23"
 album = "デュラララ!! 録り下ろしドラマ＆スタッフトークCD Disc 2 [ANZX-9838]"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116723"]
 
@@ -950,11 +950,11 @@ catalognumber = "ANZX-9839"
 date = "2012-05-23"
 album = "デュラララ!! 録り下ろしドラマ＆スタッフトークCD Disc 3 [ANZX-9839]"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
-    [4, "(no title available)", "", ""],
-    [5, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
+    [4, "(no title available)", "", "0"],
+    [5, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116723"]
 
@@ -963,29 +963,29 @@ catalognumber = "SVWC-70168"
 date = "2016-06-15"
 album = "デュラララ!! The Greatest Hits ～Sweet Strange Memories Disc 1 [SVWC-70168]"
 tracks = [
-    [1, "憧れの非日常", "吉森信", ""],
-    [2, "池袋西口五叉路交差点", "吉森信", ""],
-    [3, "斜め上を歩け", "吉森信", ""],
-    [4, "絵の中の少女 (piano solo)", "吉森信", ""],
-    [5, "笑えるほど卑怯な奴", "吉森信", ""],
-    [6, "池袋最強伝説", "吉森信", ""],
-    [7, "ロシアのヨウジンボウ", "吉森信", ""],
-    [8, "エレクトリック・コシュタ・バワー", "吉森信", ""],
+    [1, "憧れの非日常", "吉森信", "0"],
+    [2, "池袋西口五叉路交差点", "吉森信", "0"],
+    [3, "斜め上を歩け", "吉森信", "0"],
+    [4, "絵の中の少女 (piano solo)", "吉森信", "0"],
+    [5, "笑えるほど卑怯な奴", "吉森信", "0"],
+    [6, "池袋最強伝説", "吉森信", "0"],
+    [7, "ロシアのヨウジンボウ", "吉森信", "0"],
+    [8, "エレクトリック・コシュタ・バワー", "吉森信", "0"],
     [9, "闇を裂く闇より", "吉森信", ""],
-    [10, "声のない叫び", "吉森信", ""],
-    [11, "乾いた前触れ", "吉森信", ""],
-    [12, "瓶詰めの天使", "吉森信", ""],
-    [13, "火曜日の夜に", "吉森信", ""],
-    [14, "コハクサントコフェロールカルシウム音頭", "吉森信", ""],
-    [15, "緑色の記憶", "吉森信", ""],
-    [16, "ふたりの憧憬 (retake)", "吉森信", ""],
-    [17, "心を縛る愛の言葉", "吉森信", ""],
-    [18, "cosmic cycle", "吉森信", ""],
-    [19, "psychedelic parade〜デュラララ!!のテーマ", "吉森信", ""],
-    [20, "ただ、静かに見つめろ", "吉森信", ""],
-    [21, "つわものどもが夢の跡", "吉森信", ""],
-    [22, "また始まる日常へ", "吉森信", ""],
-    [23, "ロシアのヨウジンボウ〜アンコール", "吉森信", ""],
+    [10, "声のない叫び", "吉森信", "0"],
+    [11, "乾いた前触れ", "吉森信", "0"],
+    [12, "瓶詰めの天使", "吉森信", "0"],
+    [13, "火曜日の夜に", "吉森信", "0"],
+    [14, "コハクサントコフェロールカルシウム音頭", "吉森信", "0"],
+    [15, "緑色の記憶", "吉森信", "0"],
+    [16, "ふたりの憧憬 (retake)", "吉森信", "0"],
+    [17, "心を縛る愛の言葉", "吉森信", "0"],
+    [18, "cosmic cycle", "吉森信", "0"],
+    [19, "psychedelic parade〜デュラララ!!のテーマ", "吉森信", "0"],
+    [20, "ただ、静かに見つめろ", "吉森信", "0"],
+    [21, "つわものどもが夢の跡", "吉森信", "0"],
+    [22, "また始まる日常へ", "吉森信", "0"],
+    [23, "ロシアのヨウジンボウ〜アンコール", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e99e7a14-c104-481c-9d21-270a73c3d217", "https://vgmdb.net/album/57862"]
 
@@ -994,25 +994,25 @@ catalognumber = "SVWC-70169"
 date = "2016-06-15"
 album = "デュラララ!! The Greatest Hits ～Sweet Strange Memories Disc 2 [SVWC-70169]"
 tracks = [
-    [1, "Dancing in the Sunshine", "吉森信", ""],
-    [2, "春の学園", "吉森信", ""],
-    [3, "青くない空に", "吉森信", ""],
-    [4, "アカマンボウのネギトロ", "吉森信", ""],
-    [5, "ロシアのシゴトニン", "吉森信", ""],
-    [6, "取り立てラプソディ", "吉森信", ""],
-    [7, "真昼のタイマン", "吉森信", ""],
-    [8, "暗闇のカオス", "吉森信", ""],
-    [9, "The Legend of the Red", "吉森信", ""],
-    [10, "狂った非日常", "吉森信", ""],
-    [11, "雨の中たたずむ", "吉森信", ""],
-    [12, "愛の復讐", "吉森信", ""],
-    [13, "帰ってきた傾奇者", "吉森信", ""],
-    [14, "赤い目の群衆", "吉森信", ""],
-    [15, "巡り巡る運命", "吉森信", ""],
-    [16, "魂のかけら", "吉森信", ""],
-    [17, "空を覆う漆黒の影", "吉森信", ""],
-    [18, "揺るぎない想い", "吉森信", ""],
-    [19, "物語は永遠に", "吉森信", ""],
+    [1, "Dancing in the Sunshine", "吉森信", "0"],
+    [2, "春の学園", "吉森信", "0"],
+    [3, "青くない空に", "吉森信", "0"],
+    [4, "アカマンボウのネギトロ", "吉森信", "0"],
+    [5, "ロシアのシゴトニン", "吉森信", "0"],
+    [6, "取り立てラプソディ", "吉森信", "0"],
+    [7, "真昼のタイマン", "吉森信", "0"],
+    [8, "暗闇のカオス", "吉森信", "0"],
+    [9, "The Legend of the Red", "吉森信", "0"],
+    [10, "狂った非日常", "吉森信", "0"],
+    [11, "雨の中たたずむ", "吉森信", "0"],
+    [12, "愛の復讐", "吉森信", "0"],
+    [13, "帰ってきた傾奇者", "吉森信", "0"],
+    [14, "赤い目の群衆", "吉森信", "0"],
+    [15, "巡り巡る運命", "吉森信", "0"],
+    [16, "魂のかけら", "吉森信", "0"],
+    [17, "空を覆う漆黒の影", "吉森信", "0"],
+    [18, "揺るぎない想い", "吉森信", "0"],
+    [19, "物語は永遠に", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e99e7a14-c104-481c-9d21-270a73c3d217", "https://vgmdb.net/album/57862"]
 
@@ -1021,8 +1021,8 @@ catalognumber = "ANZX-11810"
 date = "2015-06-24"
 album = "デュラララ!!×2 承 第5巻 特典CD"
 tracks = [
-    [1, "Special Voice", "[dialogue]", ""],
-    [2, "あゝ無情", "六条千景(小野友樹)", ""],
+    [1, "Special Voice", "[dialogue]", "0"],
+    [2, "あゝ無情", "六条千景(小野友樹)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/425f32f7-0f0f-4fad-af9b-448ce5bd14c5", "https://vgmdb.net/album/50789"]
 
@@ -1031,10 +1031,10 @@ catalognumber = "ZMCL-1044"
 date = "2016-01-20"
 album = "ジョーカーに宜しく / PENGUIN RESEARCH"
 tracks = [
-    [1, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
-    [2, "wasteland", "PENGUIN RESEARCH", ""],
-    [3, "Critical Hit", "PENGUIN RESEARCH", ""],
-    [4, "ジョーカーに宜しく -Instrumental-", "PENGUIN RESEARCH", ""],
+    [1, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
+    [2, "wasteland", "PENGUIN RESEARCH", "0"],
+    [3, "Critical Hit", "PENGUIN RESEARCH", "0"],
+    [4, "ジョーカーに宜しく -Instrumental-", "PENGUIN RESEARCH", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9de425e5-e8ae-4dd9-b262-4a1faf98b22c", "https://vgmdb.net/album/55591"]
 
@@ -1044,7 +1044,7 @@ date = "2010-08-04"
 album = "超！アニメビート"
 tracks = [
     [1, "PHANTOM MINDS", "", ""],
-    [2, "裏切りの夕焼け", "", ""],
+    [2, "裏切りの夕焼け", "", "0"],
     [3, "only my railgun", "", ""],
     [4, "溝ノ口太陽族", "", ""],
     [5, "十六夜涙", "", ""],
@@ -1066,8 +1066,8 @@ catalognumber = "ANZX-11834"
 date = "2016-06-22"
 album = "デュラララ!!×2 結 第5巻 特典CD"
 tracks = [
-    [1, "Special Voice", "", ""],
-    [2, "勝手にしやがれ", "", ""],
+    [1, "Special Voice", "", "0"],
+    [2, "勝手にしやがれ", "", "0"],
 ]
 links = ["https://vgmdb.net/album/59373"]
 
@@ -1076,10 +1076,10 @@ catalognumber = "ESCL-3364"
 date = "2010-02-17"
 album = "Trust Me / 松下優也"
 tracks = [
-    [1, "Trust Me", "松下優也", ""],
-    [2, "ふたり", "松下優也", ""],
-    [3, "Trust Me -Instrumental-", "松下優也", ""],
-    [4, "ふたり -Instrumental-", "松下優也", ""],
+    [1, "Trust Me", "松下優也", "0"],
+    [2, "ふたり", "松下優也", "0"],
+    [3, "Trust Me -Instrumental-", "松下優也", "0"],
+    [4, "ふたり -Instrumental-", "松下優也", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df8788d4-4b97-41b5-b815-8ecdd5e72adf", "https://vgmdb.net/album/76088"]
 
@@ -1088,9 +1088,9 @@ catalognumber = "AICL-2818"
 date = "2015-02-11"
 album = "NEVER SAY NEVER / THREE LIGHTS DOWN KINGS"
 tracks = [
-    [1, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", ""],
-    [2, "JUMP", "THREE LIGHTS DOWN KINGS", ""],
-    [3, "THREE LIGHTS DOWN KINGS (Non Stop Mix by DJ和)", "THREE LIGHTS DOWN KINGS", ""],
+    [1, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", "0"],
+    [2, "JUMP", "THREE LIGHTS DOWN KINGS", "0"],
+    [3, "THREE LIGHTS DOWN KINGS (Non Stop Mix by DJ和)", "THREE LIGHTS DOWN KINGS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e90338cb-d6b7-49e2-99c7-bfd4999c8293", "https://vgmdb.net/album/49396"]
 
@@ -1099,10 +1099,10 @@ catalognumber = "AICL-2816"
 date = "2015-02-11"
 album = "NEVER SAY NEVER / THREE LIGHTS DOWN KINGS [Limited Edition] Disc 1 (CD) [AICL-2816]"
 tracks = [
-    [1, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", ""],
-    [2, "JUMP", "THREE LIGHTS DOWN KINGS", ""],
-    [3, "THREE LIGHTS DOWN KINGS (Non Stop Mix by DJ和)", "THREE LIGHTS DOWN KINGS", ""],
-    [4, "NEVER SAY NEVER ‐TV SIZE ENDING ver‐", "THREE LIGHTS DOWN KINGS", ""],
+    [1, "NEVER SAY NEVER", "THREE LIGHTS DOWN KINGS", "0"],
+    [2, "JUMP", "THREE LIGHTS DOWN KINGS", "0"],
+    [3, "THREE LIGHTS DOWN KINGS (Non Stop Mix by DJ和)", "THREE LIGHTS DOWN KINGS", "0"],
+    [4, "NEVER SAY NEVER ‐TV SIZE ENDING ver‐", "THREE LIGHTS DOWN KINGS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/330a0aec-45fb-40ad-9f24-54b569ba47c8", "https://vgmdb.net/album/49397"]
 
@@ -1111,7 +1111,7 @@ catalognumber = "AICL-2817"
 date = "2015-02-11"
 album = "NEVER SAY NEVER / THREE LIGHTS DOWN KINGS [Limited Edition] Disc 2 (DVD) [AICL-2817]"
 tracks = [
-    [1, "NEVER SAY NEVER (MUSIC VIDEO ‐アニメver‐)", "THREE LIGHTS DOWN KINGS", ""],
+    [1, "NEVER SAY NEVER (MUSIC VIDEO ‐アニメver‐)", "THREE LIGHTS DOWN KINGS", "0"],
     [2, "「デュラララ!!×2 承」ノンクレジットエンディング映像", "THREE LIGHTS DOWN KINGS", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/330a0aec-45fb-40ad-9f24-54b569ba47c8", "https://vgmdb.net/album/49397"]
@@ -1121,8 +1121,8 @@ catalognumber = "ANZB-9540"
 date = "2010-11-24"
 album = "デュラララ!! カバーソングコレクションCD「DIAMONDS<ダイアモンド>」＜岸谷新羅＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "DIAMONDS", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "DIAMONDS", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23207"]
 
@@ -1153,7 +1153,7 @@ date = "2018-02-14"
 album = "誰がカバーやねんアニソンショー / 影山ヒロノブ"
 tracks = [
     [1, "薔薇は美しく散る", "影山ヒロノブ", ""],
-    [2, "裏切りの夕焼け", "影山ヒロノブ", ""],
+    [2, "裏切りの夕焼け", "影山ヒロノブ", "0"],
     [3, "THE REAL FOLK BLUES", "影山ヒロノブ", ""],
     [4, "好敵手", "影山ヒロノブ", ""],
     [5, "カントリーロード", "影山ヒロノブ", ""],
@@ -1173,9 +1173,9 @@ catalognumber = "ANZB-9534"
 date = "2010-08-25"
 album = "デュラララ!! オリジナルドラマCD〈2〉「未来永劫」"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116718"]
 
@@ -1184,8 +1184,8 @@ catalognumber = "ANZX-11804"
 date = "2015-03-25"
 album = "デュラララ!!×2 承 第2巻 特典CD"
 tracks = [
-    [1, "Special Voice", "[dialogue]", ""],
-    [2, "ルビーの指環", "平和島静雄(小野大輔)", ""],
+    [1, "Special Voice", "[dialogue]", "0"],
+    [2, "ルビーの指環", "平和島静雄(小野大輔)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9d1d61f3-405e-48e7-a771-7206c9d24ee9", "https://vgmdb.net/album/50313"]
 
@@ -1204,7 +1204,7 @@ tracks = [
     [8, "スペシャルトーク3", "沼倉愛美, 原由実 & 浅倉杏美 from THE IDOLM@STER STATION!!!", ""],
     [9, "お料理行進曲", "浅倉杏美 from THE IDOLM@STER STATION!!!", ""],
     [10, "カサブランカ・ダンディ", "沼倉愛美 from THE IDOLM@STER STATION!!!", ""],
-    [11, "ペッパー警部", "原由実 from THE IDOLM@STER STATION!!!", ""],
+    [11, "ペッパー警部", "原由実 from THE IDOLM@STER STATION!!!", "0"],
     [12, "クリスマスなんて大嫌い!!なんちゃって♥", "沼倉愛美, 原由実 & 浅倉杏美 from THE IDOLM@STER STATION!!!", ""],
     [13, "雨", "沼倉愛美, 原由実 & 浅倉杏美 from THE IDOLM@STER STATION!!!", ""],
     [14, "Monday Night Fever☆", "沼倉愛美, 原由実 & 浅倉杏美 from THE IDOLM@STER STATION!!!", ""],
@@ -1246,8 +1246,8 @@ catalognumber = "ANZX-11824"
 date = "2016-01-27"
 album = "デュラララ!!×2 転 第6巻 特典CD"
 tracks = [
-    [1, "Special Voice", "セルティ・ストゥルルソン(沢城みゆき)", ""],
-    [2, "ペッパー警部", "セルティ・ストゥルルソン(沢城みゆき)", ""],
+    [1, "Special Voice", "セルティ・ストゥルルソン(沢城みゆき)", "0"],
+    [2, "ペッパー警部", "セルティ・ストゥルルソン(沢城みゆき)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c739dcaf-36b0-435f-9ce3-98a19de10ea8", "https://vgmdb.net/album/54304"]
 
@@ -1256,9 +1256,9 @@ catalognumber = "DFCL-1641"
 date = "2010-06-09"
 album = "Butterfly / ON/OFF"
 tracks = [
-    [1, "Butterfly", "ON/OFF", ""],
-    [2, "CONNECTION", "ON/OFF", ""],
-    [3, "Butterfly (Instrumental)", "ON/OFF", ""],
+    [1, "Butterfly", "ON/OFF", "0"],
+    [2, "CONNECTION", "ON/OFF", "0"],
+    [3, "Butterfly (Instrumental)", "ON/OFF", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/911228c3-dbbd-487b-b0ac-57af8be2854c", "https://vgmdb.net/album/89893"]
 
@@ -1267,10 +1267,10 @@ catalognumber = "AICL-2937"
 date = "2015-08-05"
 album = "EXIT / REVALCY [期間生産限定盤] Disc 1 (CD) [AICL-2937]"
 tracks = [
-    [1, "EXIT", "REVALCY", ""],
-    [2, "君なんだ", "REVALCY", ""],
-    [3, "Nothing's too late", "REVALCY", ""],
-    [4, "EXIT [TV size ver.]", "REVALCY", ""],
+    [1, "EXIT", "REVALCY", "0"],
+    [2, "君なんだ", "REVALCY", "0"],
+    [3, "Nothing's too late", "REVALCY", "0"],
+    [4, "EXIT [TV size ver.]", "REVALCY", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ba3b84ee-fd61-43d7-87ef-3e91ea7e9f7a", "https://vgmdb.net/album/53142"]
 
@@ -1280,7 +1280,7 @@ date = "2015-08-05"
 album = "EXIT / REVALCY [期間生産限定盤] Disc 2 (DVD) [AICL-2938]"
 tracks = [
     [1, "『デュラララ!!×2 転』EDノンクレジット映像", "", ""],
-    [2, "EXIT -Music Video-", "", ""],
+    [2, "EXIT -Music Video-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/53142"]
 
@@ -1289,11 +1289,11 @@ catalognumber = "KSCL-2680"
 date = "2016-01-20"
 album = "Steppin' out / FLOW [Limited Edition] Disc 1 (CD) [KSCL-2680]"
 tracks = [
-    [1, "Steppin' out", "FLOW", ""],
-    [2, "蒼き惑星", "FLOW", ""],
-    [3, "虹の空 -Beautiful Sky mix-", "FLOW", ""],
-    [4, "Steppin' out -TV Size-", "FLOW", ""],
-    [5, "Steppin' out -Instrumental-", "FLOW", ""],
+    [1, "Steppin' out", "FLOW", "0"],
+    [2, "蒼き惑星", "FLOW", "0"],
+    [3, "虹の空 -Beautiful Sky mix-", "FLOW", "0"],
+    [4, "Steppin' out -TV Size-", "FLOW", "0"],
+    [5, "Steppin' out -Instrumental-", "FLOW", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d5879b03-65d2-40ef-b82f-ed9afdda0b8f", "https://vgmdb.net/album/55855"]
 
@@ -1302,8 +1302,8 @@ catalognumber = "KSCL-2681"
 date = "2016-01-20"
 album = "Steppin' out / FLOW [Limited Edition] Disc 2 (DVD) [KSCL-2681]"
 tracks = [
-    [1, "Steppin' out (TV Size Film)", "", ""],
-    [2, "Steppin' out (Special Anime Trailer)", "", ""],
+    [1, "Steppin' out (TV Size Film)", "", "0"],
+    [2, "Steppin' out (Special Anime Trailer)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/55855"]
 
@@ -1312,9 +1312,9 @@ catalognumber = "ZMCL-1042"
 date = "2016-01-20"
 album = "ジョーカーに宜しく / PENGUIN RESEARCH Disc 1 (CD) [ZMCL-1042]"
 tracks = [
-    [1, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
-    [2, "wasteland", "PENGUIN RESEARCH", ""],
-    [3, "ジョーカーに宜しく -Instrumental-", "PENGUIN RESEARCH", ""],
+    [1, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
+    [2, "wasteland", "PENGUIN RESEARCH", "0"],
+    [3, "ジョーカーに宜しく -Instrumental-", "PENGUIN RESEARCH", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f44f7a65-e9fe-47c8-89a7-6dffd6d5dea3", "https://vgmdb.net/album/55590"]
 
@@ -1323,7 +1323,7 @@ catalognumber = "ZMCL-1043"
 date = "2016-01-20"
 album = "ジョーカーに宜しく / PENGUIN RESEARCH Disc 2 (DVD) [ZMCL-1043]"
 tracks = [
-    [1, "ジョーカーに宜しく -Music Video-", "PENGUIN RESEARCH", ""],
+    [1, "ジョーカーに宜しく -Music Video-", "PENGUIN RESEARCH", "0"],
     [2, "TVアニメーション 「デュラララ!!×2」 特別映像 (PENGUIN RESEARCH ver.)", "PENGUIN RESEARCH", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f44f7a65-e9fe-47c8-89a7-6dffd6d5dea3", "https://vgmdb.net/album/55590"]
@@ -1367,8 +1367,8 @@ tracks = [
     [7, "Lagoon", "", ""],
     [8, "Beautiful Days", "", ""],
     [9, "Dance With You", "", ""],
-    [10, "HEADHUNT", "", ""],
-    [11, "チャンス", "", ""],
+    [10, "HEADHUNT", "", "0"],
+    [11, "チャンス", "", "0"],
     [12, "HAPPY BIRTHDAY", "", ""],
     [13, "恋のビート", "", ""],
     [14, "サウンド・オブ・ミュージック", "", ""],
@@ -1396,7 +1396,7 @@ tracks = [
     [12, "マダラ", "", ""],
     [13, "ART(FCO2811)", "", ""],
     [14, "SAVE ME", "", ""],
-    [15, "HEADHUNT", "", ""],
+    [15, "HEADHUNT", "", "0"],
     [16, "BROTHER", "", ""],
     [17, "ROCKY", "", ""],
     [18, "Dancing Boy", "", ""],
@@ -1433,8 +1433,8 @@ catalognumber = "ANZB-9544"
 date = "2011-01-26"
 album = "デュラララ!! カバーソングコレクションCD「ルージュの伝言」＜セルティ・ストゥルルソン＞"
 tracks = [
-    [1, "Special Voice", "セルティ・ストゥルルソン(CV: 沢城みゆき)", ""],
-    [2, "ルージュの伝言", "セルティ・ストゥルルソン(CV:沢城みゆき)", ""],
+    [1, "Special Voice", "セルティ・ストゥルルソン(CV: 沢城みゆき)", "0"],
+    [2, "ルージュの伝言", "セルティ・ストゥルルソン(CV:沢城みゆき)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e1caf7b7-7379-4a76-a6f4-5a909f666e05", "https://vgmdb.net/album/116720"]
 
@@ -1445,25 +1445,25 @@ album = "吉森 信 作品集「七つの扉」 Original Soundtrack Disc 1"
 tracks = [
     [1, "ふくのしまの光", "", ""],
     [2, "長い長い夢の中の宴 ～バッカーノ!のテーマ", "", ""],
-    [3, "池袋西口五叉路交差点", "", ""],
+    [3, "池袋西口五叉路交差点", "", "0"],
     [4, "路地裏の法則", "", ""],
-    [5, "psychedelic parade ～デュラララ!!のテーマ (remix)", "", ""],
+    [5, "psychedelic parade ～デュラララ!!のテーマ (remix)", "", "0"],
     [6, "アルヴェアーレのブルース～阿鼻叫喚の狂った舞台 (7gates remix)", "", ""],
-    [7, "声のない叫び", "", ""],
+    [7, "声のない叫び", "", "0"],
     [8, "影のない過去", "", ""],
     [9, "光と影のふたつのカノン", "", ""],
     [10, "エマジェン!", "", ""],
-    [11, "池袋最強伝説", "", ""],
-    [12, "笑えるほど卑怯な奴", "", ""],
-    [13, "エレクトリック・コシュタ・バワー (remix)", "", ""],
+    [11, "池袋最強伝説", "", "0"],
+    [12, "笑えるほど卑怯な奴", "", "0"],
+    [13, "エレクトリック・コシュタ・バワー (remix)", "", "0"],
     [14, "We are AMARS", "", ""],
     [15, "明日、雨あがり", "", ""],
-    [16, "ロシアのヨウジンボウ", "", ""],
+    [16, "ロシアのヨウジンボウ", "", "0"],
     [17, "百鬼夜行～妖怪大行進 (7gates remix)", "", ""],
     [18, "百雷の神楽 (7gates remix)", "", ""],
-    [19, "コハクサントコフェロールカルシウム音頭 (remix)", "", ""],
+    [19, "コハクサントコフェロールカルシウム音頭 (remix)", "", "0"],
     [20, "黒のダンディ", "", ""],
-    [21, "ただ静かに見つめろ (remix)", "", ""],
+    [21, "ただ静かに見つめろ (remix)", "", "0"],
     [22, "踊れ!アマーズ", "", ""],
 ]
 links = ["https://vgmdb.net/album/32323"]
@@ -1475,12 +1475,12 @@ album = "吉森 信 作品集「七つの扉」 Original Soundtrack Disc 2"
 tracks = [
     [1, "山神の森へ", "", ""],
     [2, "妖光の月に ～夏目友人帳 参 のテーマ", "", ""],
-    [3, "絵の中の少女 (piano solo)", "", ""],
+    [3, "絵の中の少女 (piano solo)", "", "0"],
     [4, "きみが呼ぶ名まえ ～夏目友人帳のテーマ", "", ""],
     [5, "雪どけのささやき ～夏目友人帳 肆 のテーマ", "", ""],
     [6, "夢うつつ", "", ""],
     [7, "記憶の手紙", "", ""],
-    [8, "憧れの非日常", "", ""],
+    [8, "憧れの非日常", "", "0"],
     [9, "五線譜のアリス ～学園アリスのテーマ～", "", ""],
     [10, "海と月の夢", "", ""],
     [11, "めぐる夏の便り", "", ""],
@@ -1506,7 +1506,7 @@ tracks = [
     [1, "COLORS", "", ""],
     [2, "WORLD END", "", ""],
     [3, "PENDULUM", "", ""],
-    [4, "Steppin'out", "", ""],
+    [4, "Steppin'out", "", "0"],
     [5, "WORD OF THE VOICE", "", ""],
     [6, "Hey!!!", "", ""],
     [7, "愛愛愛に撃たれてバイバイバイ", "", ""],
@@ -1524,7 +1524,7 @@ tracks = [
     [19, "Re: member", "", ""],
     [20, "Break it down", "", ""],
     [21, "SUMMER FREAK", "", ""],
-    [22, "虹の空", "", ""],
+    [22, "虹の空", "", "0"],
     [23, "GO!!!", "", ""],
     [24, "Sign", "", ""],
 ]
@@ -1565,22 +1565,22 @@ catalognumber = "ANZB-9538"
 date = "2010-10-27"
 album = "デュラララ!! オリジナル・サウンドトラックCD「サイケデリックドリームスVOL.02」"
 tracks = [
-    [1, "psychedelic parade～デュラララ!!のテーマ", "吉森信", ""],
-    [2, "追憶の向こう", "吉森信", ""],
-    [3, "cosmic cycle", "吉森信", ""],
-    [4, "rain tears", "聖辺ルリ(CV:藤田 咲)", ""],
-    [5, "躍動する鼓動", "吉森信", ""],
-    [6, "エレクトリック・コシュタ・バワー", "吉森信", ""],
-    [7, "ただ、静かに見つめろ", "吉森信", ""],
-    [8, "休日の至福", "吉森信", ""],
-    [9, "夕方の通学路", "吉森信", ""],
-    [10, "コハクサントコフェロールカルシウム音頭", "吉森信", ""],
-    [11, "微笑みの影", "吉森信", ""],
-    [12, "心を縛る愛の言葉", "吉森信", ""],
-    [13, "追いすがる過去を見つめて", "吉森信", ""],
-    [14, "果てしない不信", "吉森信", ""],
-    [15, "チョコレートが行方不明", "吉森信", ""],
-    [16, "また始まる日常へ", "吉森信", ""],
+    [1, "psychedelic parade～デュラララ!!のテーマ", "吉森信", "0"],
+    [2, "追憶の向こう", "吉森信", "0"],
+    [3, "cosmic cycle", "吉森信", "0"],
+    [4, "rain tears", "聖辺ルリ(CV:藤田 咲)", "0"],
+    [5, "躍動する鼓動", "吉森信", "0"],
+    [6, "エレクトリック・コシュタ・バワー", "吉森信", "0"],
+    [7, "ただ、静かに見つめろ", "吉森信", "0"],
+    [8, "休日の至福", "吉森信", "0"],
+    [9, "夕方の通学路", "吉森信", "0"],
+    [10, "コハクサントコフェロールカルシウム音頭", "吉森信", "0"],
+    [11, "微笑みの影", "吉森信", "0"],
+    [12, "心を縛る愛の言葉", "吉森信", "0"],
+    [13, "追いすがる過去を見つめて", "吉森信", "0"],
+    [14, "果てしない不信", "吉森信", "0"],
+    [15, "チョコレートが行方不明", "吉森信", "0"],
+    [16, "また始まる日常へ", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/dd00b0b5-04dc-439a-97b4-be3173d2add1", "https://vgmdb.net/album/20125"]
 
@@ -1589,8 +1589,8 @@ catalognumber = "ANZB-9536"
 date = "2010-09-11"
 album = "デュラララ!! カバーソングコレクションCD「時をかける少女」＜園原 杏里＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "時をかける少女", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "時をかける少女", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23206"]
 
@@ -1599,11 +1599,11 @@ catalognumber = "SVWC-70097"
 date = "2015-08-12"
 album = "Day you laugh / 豊永利行 Disc 1 (CD) [SVWC-70097]"
 tracks = [
-    [1, "Day you laugh", "豊永利行", ""],
-    [2, "91cm", "豊永利行", ""],
-    [3, "Day you laugh -instrumental-", "豊永利行", ""],
-    [4, "91cm -instrumental-", "豊永利行", ""],
-    [5, "Day you laugh -デュラララ!!×2 転 short version-", "豊永利行", ""],
+    [1, "Day you laugh", "豊永利行", "0"],
+    [2, "91cm", "豊永利行", "0"],
+    [3, "Day you laugh -instrumental-", "豊永利行", "0"],
+    [4, "91cm -instrumental-", "豊永利行", "0"],
+    [5, "Day you laugh -デュラララ!!×2 転 short version-", "豊永利行", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/df4e4324-71c6-4526-9d6b-c19bf8824ec2", "https://vgmdb.net/album/53130"]
 
@@ -1623,23 +1623,23 @@ catalognumber = "ANZB-9528"
 date = "2010-05-26"
 album = "デュラララ!! オリジナル・サウンドトラックCD「サイケデリックドリームスVOL.01」"
 tracks = [
-    [1, "池袋西口五叉路交差点", "吉森信", ""],
-    [2, "憧れの非日常", "吉森信", ""],
-    [3, "斜め上を歩け", "吉森信", ""],
-    [4, "笑えるほど卑怯な奴", "吉森信", ""],
-    [5, "ロシアのヨウジンボウ", "吉森信", ""],
-    [6, "池袋最強伝説", "吉森信", ""],
-    [7, "声のない叫び", "吉森信", ""],
-    [8, "火曜日の夜に", "吉森信", ""],
-    [9, "つまずきサンバ", "吉森信", ""],
-    [10, "絵の中の少女", "吉森信", ""],
-    [11, "ふたりの憧憬", "吉森信", ""],
-    [12, "瓶詰めの天使", "吉森信", ""],
-    [13, "乾いた前触れ", "吉森信", ""],
-    [14, "闇を裂く闇", "吉森信", ""],
-    [15, "都会の焦燥", "吉森信", ""],
-    [16, "狂い咲きの正義", "吉森信", ""],
-    [17, "緑色の記憶", "吉森信", ""],
+    [1, "池袋西口五叉路交差点", "吉森信", "0"],
+    [2, "憧れの非日常", "吉森信", "0"],
+    [3, "斜め上を歩け", "吉森信", "0"],
+    [4, "笑えるほど卑怯な奴", "吉森信", "0"],
+    [5, "ロシアのヨウジンボウ", "吉森信", "0"],
+    [6, "池袋最強伝説", "吉森信", "0"],
+    [7, "声のない叫び", "吉森信", "0"],
+    [8, "火曜日の夜に", "吉森信", "0"],
+    [9, "つまずきサンバ", "吉森信", "0"],
+    [10, "絵の中の少女", "吉森信", "0"],
+    [11, "ふたりの憧憬", "吉森信", "0"],
+    [12, "瓶詰めの天使", "吉森信", "0"],
+    [13, "乾いた前触れ", "吉森信", "0"],
+    [14, "闇を裂く闇", "吉森信", "0"],
+    [15, "都会の焦燥", "吉森信", "0"],
+    [16, "狂い咲きの正義", "吉森信", "0"],
+    [17, "緑色の記憶", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/c225e7d9-830d-45d1-88e8-ed9dd970e2e0", "https://vgmdb.net/album/20124"]
 
@@ -1660,7 +1660,7 @@ tracks = [
     [10, "恋はスリルショックサスペンス", "", ""],
     [11, "UP!", "", ""],
     [12, "GLAMOROUS SKY", "", ""],
-    [13, "あゝ無情", "", ""],
+    [13, "あゝ無情", "", "0"],
     [14, "ルパン三世", "", ""],
     [15, "男女", "", ""],
     [16, "マジンガーZ", "", ""],
@@ -1674,10 +1674,10 @@ catalognumber = "AICL-2934"
 date = "2015-08-05"
 album = "EXIT / REVALCY [初回生産限定盤] Vocal"
 tracks = [
-    [1, "EXIT", "REVALCY", ""],
-    [2, "君なんだ", "REVALCY", ""],
-    [3, "Nothing's too late", "REVALCY", ""],
-    [4, "EXIT [Instrumental]", "REVALCY", ""],
+    [1, "EXIT", "REVALCY", "0"],
+    [2, "君なんだ", "REVALCY", "0"],
+    [3, "Nothing's too late", "REVALCY", "0"],
+    [4, "EXIT [Instrumental]", "REVALCY", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b8829059-d15f-4bb0-9dc2-442d14470a63", "https://vgmdb.net/album/53141"]
 
@@ -1686,7 +1686,7 @@ catalognumber = "AICL-2935"
 date = "2015-08-05"
 album = "EXIT / REVALCY [初回生産限定盤] Video"
 tracks = [
-    [1, "EXIT music video", "", ""],
+    [1, "EXIT music video", "", "0"],
 ]
 links = ["https://vgmdb.net/album/53141"]
 
@@ -1695,10 +1695,10 @@ catalognumber = "ESCL-3362"
 date = "2010-02-17"
 album = "Trust Me / 松下優也 [初回生産限定盤] Disc 1 (CD) [ESCL-3362]"
 tracks = [
-    [1, "Trust Me", "松下優也", ""],
-    [2, "ふたり", "松下優也", ""],
-    [3, "Trust Me -Instrumental-", "松下優也", ""],
-    [4, "ふたり -Instrumental-", "松下優也", ""],
+    [1, "Trust Me", "松下優也", "0"],
+    [2, "ふたり", "松下優也", "0"],
+    [3, "Trust Me -Instrumental-", "松下優也", "0"],
+    [4, "ふたり -Instrumental-", "松下優也", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/402ab43c-6284-3f7f-8670-27476b98f928", "https://vgmdb.net/album/76087"]
 
@@ -1716,33 +1716,33 @@ catalognumber = "SVWC-7747"
 date = "2011-02-23"
 album = "デュラララ!! OST ベストヒット池袋 サイケデリミックス"
 tracks = [
-    [1, "池袋西口五叉路交差点 (remix)", "吉森信", ""],
-    [2, "psychedelic parade~デュラララ!!のテーマ (remix)", "吉森信", ""],
-    [3, "憧れの非日常 (piano solo)", "吉森信", ""],
-    [4, "斜め上を歩け (remix)", "吉森信", ""],
-    [5, "エレクトリック・コシュタ・バワー (remix)", "吉森信", ""],
-    [6, "絵の中の少女 (piano solo)", "吉森信", ""],
-    [7, "池袋最強伝説 (remix)", "吉森信", ""],
-    [8, "笑えるほど卑怯な奴 (remix)", "吉森信", ""],
-    [9, "ロシアのヨウジンボウ (remix)", "吉森信", ""],
-    [10, "パレードの舞台裏", "吉森信", ""],
-    [11, "ふたりの憧憬 (retake)", "吉森信", ""],
-    [12, "声のない叫び (remix)", "吉森信", ""],
-    [13, "瓶詰めの天使 (remix)", "吉森信", ""],
-    [14, "コハクサントコフェロールカルシウム音頭 (remix)", "吉森信", ""],
-    [15, "cosmic cycle (remix)", "吉森信", ""],
-    [16, "狂い咲きの正義 (remix)", "吉森信", ""],
-    [17, "ただ静かに見つめろ (remix)", "吉森信", ""],
-    [18, "緑色の記憶 (piano solo)", "吉森信", ""],
-    [19, "さあ、みんな一緒に", "吉森信", ""],
-    [20, "裏切りの夕焼け -TV Size Long Ver.-", "THEATRE BROOK", ""],
-    [21, "Trust Me (TV SIZE)", "松下優也", ""],
-    [22, "コンプリケイション TV SIZE OPENING VER.", "ROOKiEZ is PUNK’D", ""],
-    [23, "Butterfly (TV Size Ver.)", "ON/OFF", ""],
-    [24, "さあ、みんなまた一緒に", "吉森信", ""],
-    [25, "ロシアのヨウジンボウ~アンコール", "吉森信", ""],
-    [26, "また始まる日常へ (remix)", "吉森信", ""],
-    [27, "つわものどもが夢の跡", "吉森信", ""],
+    [1, "池袋西口五叉路交差点 (remix)", "吉森信", "0"],
+    [2, "psychedelic parade~デュラララ!!のテーマ (remix)", "吉森信", "0"],
+    [3, "憧れの非日常 (piano solo)", "吉森信", "0"],
+    [4, "斜め上を歩け (remix)", "吉森信", "0"],
+    [5, "エレクトリック・コシュタ・バワー (remix)", "吉森信", "0"],
+    [6, "絵の中の少女 (piano solo)", "吉森信", "0"],
+    [7, "池袋最強伝説 (remix)", "吉森信", "0"],
+    [8, "笑えるほど卑怯な奴 (remix)", "吉森信", "0"],
+    [9, "ロシアのヨウジンボウ (remix)", "吉森信", "0"],
+    [10, "パレードの舞台裏", "吉森信", "0"],
+    [11, "ふたりの憧憬 (retake)", "吉森信", "0"],
+    [12, "声のない叫び (remix)", "吉森信", "0"],
+    [13, "瓶詰めの天使 (remix)", "吉森信", "0"],
+    [14, "コハクサントコフェロールカルシウム音頭 (remix)", "吉森信", "0"],
+    [15, "cosmic cycle (remix)", "吉森信", "0"],
+    [16, "狂い咲きの正義 (remix)", "吉森信", "0"],
+    [17, "ただ静かに見つめろ (remix)", "吉森信", "0"],
+    [18, "緑色の記憶 (piano solo)", "吉森信", "0"],
+    [19, "さあ、みんな一緒に", "吉森信", "0"],
+    [20, "裏切りの夕焼け -TV Size Long Ver.-", "THEATRE BROOK", "0"],
+    [21, "Trust Me (TV SIZE)", "松下優也", "0"],
+    [22, "コンプリケイション TV SIZE OPENING VER.", "ROOKiEZ is PUNK’D", "0"],
+    [23, "Butterfly (TV Size Ver.)", "ON/OFF", "0"],
+    [24, "さあ、みんなまた一緒に", "吉森信", "0"],
+    [25, "ロシアのヨウジンボウ~アンコール", "吉森信", "0"],
+    [26, "また始まる日常へ (remix)", "吉森信", "0"],
+    [27, "つわものどもが夢の跡", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5a80fdb5-6740-41e0-a302-3c16139f2238", "https://vgmdb.net/album/21959"]
 
@@ -1762,7 +1762,7 @@ tracks = [
     [2, "嘘まみれの街で", "PENGUIN RESEARCH", ""],
     [3, "スーパースター", "PENGUIN RESEARCH", ""],
     [4, "Alternative (PGR ver.)", "PENGUIN RESEARCH", ""],
-    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", ""],
+    [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", "0"],
     [6, "シニバショダンス", "PENGUIN RESEARCH", ""],
     [7, "SUPERCHARGER", "PENGUIN RESEARCH", ""],
     [8, "冀望", "PENGUIN RESEARCH", ""],
@@ -1778,9 +1778,9 @@ catalognumber = "ANZB-9524"
 date = "2010-03-24"
 album = "デュラララ!! オリジナルドラマCD〈1〉「八面六臂」"
 tracks = [
-    [1, "(no title available)", "", ""],
-    [2, "(no title available)", "", ""],
-    [3, "(no title available)", "", ""],
+    [1, "(no title available)", "", "0"],
+    [2, "(no title available)", "", "0"],
+    [3, "(no title available)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/116688"]
 
@@ -1789,9 +1789,9 @@ catalognumber = "BVCL-626"
 date = "2015-02-04"
 album = "HEADHUNT / OKAMOTO'S"
 tracks = [
-    [1, "HEADHUNT", "OKAMOTO’S", ""],
-    [2, "チャンス", "OKAMOTO’S", ""],
-    [3, "HEADHUNT (instrumental)", "OKAMOTO’S", ""],
+    [1, "HEADHUNT", "OKAMOTO’S", "0"],
+    [2, "チャンス", "OKAMOTO’S", "0"],
+    [3, "HEADHUNT (instrumental)", "OKAMOTO’S", "0"],
     [4, "Beek -Acoustic Studio Session-", "OKAMOTO’S", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/a42f30ab-d139-4316-9606-28705d674658", "https://vgmdb.net/album/49112"]
@@ -1808,7 +1808,7 @@ tracks = [
     [5, "帰り道", "MK", ""],
     [6, "ドラえもんBGM", "Hommarju", ""],
     [7, "ふわふわ時間", "MK", ""],
-    [8, "Trust Me", "Hommarju", ""],
+    [8, "Trust Me", "Hommarju", "0"],
     [9, "ナチュラルに恋して", "MK", ""],
     [10, "3年目の浮気", "Hommarju", ""],
     [11, "右肩の蝶 (Ryu* REMIX)", "のりぴー", ""],
@@ -1839,10 +1839,10 @@ catalognumber = "SVWC-70099"
 date = "2015-08-12"
 album = "Day you laugh / 豊永利行"
 tracks = [
-    [1, "Day you laugh", "豊永利行", ""],
-    [2, "91cm", "豊永利行", ""],
-    [3, "Day you laugh -instrumental-", "豊永利行", ""],
-    [4, "91cm -instrumental-", "豊永利行", ""],
+    [1, "Day you laugh", "豊永利行", "0"],
+    [2, "91cm", "豊永利行", "0"],
+    [3, "Day you laugh -instrumental-", "豊永利行", "0"],
+    [4, "91cm -instrumental-", "豊永利行", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/53afad1a-44ce-4688-bc36-e2c947b04245", "https://vgmdb.net/album/53129"]
 
@@ -1851,8 +1851,8 @@ catalognumber = "ANZX-11836"
 date = "2016-07-27"
 album = "デュラララ!!×2 結 第6巻 特典CD"
 tracks = [
-    [1, "Special Voice", "", ""],
-    [2, "君がいるだけで", "", ""],
+    [1, "Special Voice", "", "0"],
+    [2, "君がいるだけで", "", "0"],
 ]
 links = ["https://vgmdb.net/album/63906"]
 
@@ -1861,11 +1861,11 @@ catalognumber = "DFCL-1637"
 date = "2010-06-02"
 album = "コンプリケイション / ROOKiEZ is PUNK'D [期間生産限定盤] Vocal"
 tracks = [
-    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", ""],
-    [2, "Fortune", "ROOKiEZ is PUNK’D", ""],
-    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", ""],
-    [4, "コンプリケイション (TV SIZE OPENING VER.)", "ROOKiEZ is PUNK’D", ""],
-    [5, "コンプリケイション (TV SIZE LONG VER.)", "ROOKiEZ is PUNK’D", ""],
+    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", "0"],
+    [2, "Fortune", "ROOKiEZ is PUNK’D", "0"],
+    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", "0"],
+    [4, "コンプリケイション (TV SIZE OPENING VER.)", "ROOKiEZ is PUNK’D", "0"],
+    [5, "コンプリケイション (TV SIZE LONG VER.)", "ROOKiEZ is PUNK’D", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6e893803-e5bb-4eb4-aee1-790a233646aa", "https://vgmdb.net/album/31066"]
 
@@ -1874,7 +1874,7 @@ catalognumber = "DFCL-1638"
 date = "2010-06-02"
 album = "コンプリケイション / ROOKiEZ is PUNK'D [期間生産限定盤] Video"
 tracks = [
-    [1, "コンプリケイション (music video)", "ROOKiEZ is PUNK’D", ""],
+    [1, "コンプリケイション (music video)", "ROOKiEZ is PUNK’D", "0"],
     [2, "MBS・TBS系アニメーション「デュラララ!!」ノンクレジットオープニング", "ROOKiEZ is PUNK’D", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/6e893803-e5bb-4eb4-aee1-790a233646aa", "https://vgmdb.net/album/31066"]
@@ -1885,7 +1885,7 @@ date = "2010-12-01"
 album = "歌ってみた歌合戦!!"
 tracks = [
     [1, "Only my railgun", "", ""],
-    [2, "裏切りの夕焼け", "", ""],
+    [2, "裏切りの夕焼け", "", "0"],
     [3, "Perfect-area complete!", "", ""],
     [4, "Don’t say \"lazy\"", "", ""],
     [5, "ふわふわ時間", "", ""],
@@ -1907,8 +1907,8 @@ catalognumber = "ANZB-9532"
 date = "2010-07-21"
 album = "デュラララ!! カバーソングコレクションCD「ツッパリHigh school Rock'n Roll(登校編)」＜門田京平＞"
 tracks = [
-    [1, "スペシャルボイス", "", ""],
-    [2, "ツッパリHigh school Rock'n Roll(登校編)", "", ""],
+    [1, "スペシャルボイス", "", "0"],
+    [2, "ツッパリHigh school Rock'n Roll(登校編)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/23205"]
 
@@ -1917,10 +1917,10 @@ catalognumber = "ESCL-3365"
 date = "2010-02-17"
 album = "Trust Me / 松下優也 [期間生産限定盤] Disc 1 (CD) [ESCL-3365]"
 tracks = [
-    [1, "Trust Me", "松下優也", ""],
-    [2, "Trust Me -TV size-", "松下優也", ""],
-    [3, "Trust Me -Remix-", "松下優也", ""],
-    [4, "Trust Me -Instrumental-", "松下優也", ""],
+    [1, "Trust Me", "松下優也", "0"],
+    [2, "Trust Me -TV size-", "松下優也", "0"],
+    [3, "Trust Me -Remix-", "松下優也", "0"],
+    [4, "Trust Me -Instrumental-", "松下優也", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3bd0761d-70ec-48da-adc9-cd9060901fb8", "https://vgmdb.net/album/76089"]
 
@@ -1930,7 +1930,7 @@ date = "2010-02-17"
 album = "Trust Me / 松下優也 [期間生産限定盤] Disc 2 (DVD) [ESCL-3366]"
 tracks = [
     [1, "アニメ「デュラララ!!」エンディング映像", "松下優也", ""],
-    [2, "Trust Me (Music Clip)", "松下優也", ""],
+    [2, "Trust Me (Music Clip)", "松下優也", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3bd0761d-70ec-48da-adc9-cd9060901fb8", "https://vgmdb.net/album/76089"]
 
@@ -1939,12 +1939,12 @@ catalognumber = "ANZX-11816"
 date = "2015-09-30"
 album = "デュラララ!!×2 転 第2巻 特典CD"
 tracks = [
-    [1, "知らぬが仏 #01", "", ""],
-    [2, "知らぬが仏 #02", "", ""],
-    [3, "知らぬが仏 #03", "", ""],
-    [4, "知らぬが仏 #04", "", ""],
-    [5, "知らぬが仏 #05", "", ""],
-    [6, "知らぬが仏 #06", "", ""],
+    [1, "知らぬが仏 #01", "", "0"],
+    [2, "知らぬが仏 #02", "", "0"],
+    [3, "知らぬが仏 #03", "", "0"],
+    [4, "知らぬが仏 #04", "", "0"],
+    [5, "知らぬが仏 #05", "", "0"],
+    [6, "知らぬが仏 #06", "", "0"],
 ]
 links = ["https://vgmdb.net/album/54300"]
 
@@ -1953,9 +1953,9 @@ catalognumber = "ESCL-3377"
 date = "2010-02-24"
 album = "裏切りの夕焼け / THEATRE BROOK"
 tracks = [
-    [1, "裏切りの夕焼け", "THEATRE BROOK", ""],
-    [2, "未来を今", "THEATRE BROOK", ""],
-    [3, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", ""],
+    [1, "裏切りの夕焼け", "THEATRE BROOK", "0"],
+    [2, "未来を今", "THEATRE BROOK", "0"],
+    [3, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0af502c3-934a-467d-8d7a-67a84ec88e4f", "https://vgmdb.net/album/65914"]
 
@@ -1964,10 +1964,10 @@ catalognumber = "ANZX-11826"
 date = "2016-02-24"
 album = "デュラララ!!×2 結 第1巻 特典CD"
 tracks = [
-    [1, "割れ鍋に綴じ蓋 #01", "", ""],
-    [2, "割れ鍋に綴じ蓋 #02", "", ""],
-    [3, "割れ鍋に綴じ蓋 #03", "", ""],
-    [4, "割れ鍋に綴じ蓋 #04", "", ""],
+    [1, "割れ鍋に綴じ蓋 #01", "", "0"],
+    [2, "割れ鍋に綴じ蓋 #02", "", "0"],
+    [3, "割れ鍋に綴じ蓋 #03", "", "0"],
+    [4, "割れ鍋に綴じ蓋 #04", "", "0"],
 ]
 links = ["https://vgmdb.net/album/56805"]
 
@@ -1976,9 +1976,9 @@ catalognumber = "ESCL-3375"
 date = "2010-02-24"
 album = "裏切りの夕焼け / THEATRE BROOK [初回生産限定盤] Disc 1 (CD) [ESCL-3375]"
 tracks = [
-    [1, "裏切りの夕焼け", "THEATRE BROOK", ""],
-    [2, "未来を今", "THEATRE BROOK", ""],
-    [3, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", ""],
+    [1, "裏切りの夕焼け", "THEATRE BROOK", "0"],
+    [2, "未来を今", "THEATRE BROOK", "0"],
+    [3, "裏切りの夕焼け -Karaoke Mix-", "THEATRE BROOK", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/03ae6502-3380-3ff0-9180-14054e4ae958", "https://vgmdb.net/album/116686"]
 
@@ -1987,7 +1987,7 @@ catalognumber = "ESCL-3376"
 date = "2010-02-24"
 album = "裏切りの夕焼け / THEATRE BROOK [初回生産限定盤] Disc 2 (DVD) [ESCL-3376]"
 tracks = [
-    [1, "裏切りの夕焼け (Music Video)", "THEATRE BROOK", ""],
+    [1, "裏切りの夕焼け (Music Video)", "THEATRE BROOK", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/03ae6502-3380-3ff0-9180-14054e4ae958", "https://vgmdb.net/album/116686"]
 
@@ -2011,7 +2011,7 @@ date = "2014-06-06"
 album = "ROOKiEZ is PUNK'D ANIME SONGS BEST! U.S. LIMITED / ROOKiEZ is PUNK'D"
 tracks = [
     [1, "DROP", "", ""],
-    [2, "コンプリケイション", "", ""],
+    [2, "コンプリケイション", "", "0"],
     [3, "IN MY WORLD", "", ""],
     [4, "Don't wake me up", "", ""],
     [5, "リクライム", "", ""],
@@ -2026,8 +2026,8 @@ catalognumber = "ANZX-11820"
 date = "2015-11-25"
 album = "デュラララ!!×2 転 第4巻 特典CD"
 tracks = [
-    [1, "Special Voice", "黒沼青葉(下野紘)", ""],
-    [2, "Romanticが止まらない", "黒沼青葉(下野紘)", ""],
+    [1, "Special Voice", "黒沼青葉(下野紘)", "0"],
+    [2, "Romanticが止まらない", "黒沼青葉(下野紘)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a5f4bcf6-ff48-4504-8406-356105056184", "https://vgmdb.net/album/54302"]
 
@@ -2036,24 +2036,24 @@ catalognumber = "ANZX-11822"
 date = "2015-12-23"
 album = "デュラララ!!×2 転 第5巻 特典CD"
 tracks = [
-    [1, "物語は永遠に", "吉森信", ""],
-    [2, "空を覆う漆黒の影", "吉森信", ""],
-    [3, "帰ってきた傾奇者", "吉森信", ""],
-    [4, "アカマンボウのネギトロ", "吉森信", ""],
-    [5, "池袋ウォーカー", "吉森信", ""],
-    [6, "戯れに君と踊りて", "吉森信", ""],
-    [7, "インヒズルーム", "吉森信", ""],
-    [8, "密やかな願い", "吉森信", ""],
-    [9, "愛の復讐", "吉森信", ""],
-    [10, "一触即発", "吉森信", ""],
-    [11, "氷の螺旋", "吉森信", ""],
-    [12, "蛇の道は蛇", "吉森信", ""],
-    [13, "ストーキングストリングス", "吉森信", ""],
-    [14, "赤い目の群衆", "吉森信", ""],
-    [15, "魂のかけら", "吉森信", ""],
-    [16, "揺るぎない想い", "吉森信", ""],
-    [17, "巡り巡る運命", "吉森信", ""],
-    [18, "戻りゆく日々に", "吉森信", ""],
+    [1, "物語は永遠に", "吉森信", "0"],
+    [2, "空を覆う漆黒の影", "吉森信", "0"],
+    [3, "帰ってきた傾奇者", "吉森信", "0"],
+    [4, "アカマンボウのネギトロ", "吉森信", "0"],
+    [5, "池袋ウォーカー", "吉森信", "0"],
+    [6, "戯れに君と踊りて", "吉森信", "0"],
+    [7, "インヒズルーム", "吉森信", "0"],
+    [8, "密やかな願い", "吉森信", "0"],
+    [9, "愛の復讐", "吉森信", "0"],
+    [10, "一触即発", "吉森信", "0"],
+    [11, "氷の螺旋", "吉森信", "0"],
+    [12, "蛇の道は蛇", "吉森信", "0"],
+    [13, "ストーキングストリングス", "吉森信", "0"],
+    [14, "赤い目の群衆", "吉森信", "0"],
+    [15, "魂のかけら", "吉森信", "0"],
+    [16, "揺るぎない想い", "吉森信", "0"],
+    [17, "巡り巡る運命", "吉森信", "0"],
+    [18, "戻りゆく日々に", "吉森信", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/7f865be9-ad06-4b8b-a275-7bd2e7a08dff", "https://vgmdb.net/album/54303"]
 
@@ -2062,11 +2062,11 @@ catalognumber = "DFCL-1634"
 date = "2010-06-02"
 album = "コンプリケイション / ROOKiEZ is PUNK'D [初回生産限定盤] Vocal"
 tracks = [
-    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", ""],
-    [2, "Fortune", "ROOKiEZ is PUNK’D", ""],
-    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", ""],
-    [4, "コンプリケイション (instrumental)", "ROOKiEZ is PUNK’D", ""],
-    [5, "Fortune (instrumental)", "ROOKiEZ is PUNK’D", ""],
+    [1, "コンプリケイション", "ROOKiEZ is PUNK’D", "0"],
+    [2, "Fortune", "ROOKiEZ is PUNK’D", "0"],
+    [3, "BUMP ON da STYLE", "ROOKiEZ is PUNK’D", "0"],
+    [4, "コンプリケイション (instrumental)", "ROOKiEZ is PUNK’D", "0"],
+    [5, "Fortune (instrumental)", "ROOKiEZ is PUNK’D", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e70a14bc-d1b8-33c1-b983-cd0799c4289d", "https://vgmdb.net/album/68964"]
 
@@ -2075,7 +2075,7 @@ catalognumber = "DFCL-1635"
 date = "2010-06-02"
 album = "コンプリケイション / ROOKiEZ is PUNK'D [初回生産限定盤] Video"
 tracks = [
-    [1, "コンプリケイション (music video)", "ROOKiEZ is PUNK’D", ""],
+    [1, "コンプリケイション (music video)", "ROOKiEZ is PUNK’D", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e70a14bc-d1b8-33c1-b983-cd0799c4289d", "https://vgmdb.net/album/68964"]
 
@@ -2092,7 +2092,7 @@ tracks = [
     [6, "冥夜花伝廊", "Cubby-S feat.Latte", ""],
     [7, "la divina tragedia ～魔曲～", "Hommarju feat.YOZU+R.Cena", ""],
     [8, "できるかなって☆☆☆", "Ryu* feat.MAKI+CAMRY+Ma15", ""],
-    [9, "裏切りの夕焼け", "Acid=Stone Valley feat.TAKANORI", ""],
+    [9, "裏切りの夕焼け", "Acid=Stone Valley feat.TAKANORI", "0"],
     [10, "ゴールデンタイムラバー", "MK feat.hideki", ""],
     [11, "Rumbling hearts", "MK feat.KANA", ""],
     [12, "rise", "MK feat.R.Cena", ""],
