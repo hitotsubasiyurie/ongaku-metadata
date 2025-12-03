@@ -1307,10 +1307,10 @@ catalognumber = "GNCA-0553"
 date = "2018-11-21"
 album = "ご注文はうさぎですか?? キャラクターソロシリーズ08 リゼ [CV.種田梨沙]"
 tracks = [
-    [1, "0時過ぎのWonder Cocktail", "リゼ(CV.種田梨沙)", ""],
+    [1, "0時過ぎのWonder Cocktail", "リゼ(CV.種田梨沙)", "0"],
     [2, "無敵のMidnight crew", "リゼ(CV.種田梨沙)", ""],
     [3, "わーいわーいトライ! ～リゼ Ver.～", "リゼ(CV.種田梨沙)", ""],
-    [4, "0時過ぎのWonder Cocktail (Instrumental)", "リゼ(CV.種田梨沙)", ""],
+    [4, "0時過ぎのWonder Cocktail (Instrumental)", "リゼ(CV.種田梨沙)", "0"],
     [5, "無敵のMidnight crew (Instrumental)", "リゼ(CV.種田梨沙)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/9c70ec6c-c7dd-412f-8e6f-02f916c1f8ee", "https://vgmdb.net/album/78056"]

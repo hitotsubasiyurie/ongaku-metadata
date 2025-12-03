@@ -3,12 +3,12 @@ catalognumber = "AVCA-62467"
 date = "2013-12-18"
 album = "プリティーリズム・レインボーライブ プリズム☆ユニットコレクション"
 tracks = [
-    [1, "I Wannabee myself ～自分らしくいたい!～", "", ""],
+    [1, "I Wannabee myself ～自分らしくいたい!～", "", "0"],
     [2, "Rosette Nebula", "", ""],
     [3, "どしゃぶりHAPPY!", "", ""],
     [4, "ベルローズの帰り道", "", ""],
     [5, "ハッピーレイン♪の帰り道", "", ""],
-    [6, "I Wannabee myself ～自分らしくいたい!～ (inst.)", "", ""],
+    [6, "I Wannabee myself ～自分らしくいたい!～ (inst.)", "", "0"],
     [7, "Rosette Nebula (inst.)", "", ""],
     [8, "どしゃぶりHAPPY! (inst.)", "", ""],
 ]
@@ -56,11 +56,11 @@ album = "劇場版KING OF PRISM -PRIDE the HERO- Song & Soundtrack Vocal Disc 1"
 tracks = [
     [1, "Vivi℃ Heart Session!", "エーデルローズ新入生(CV.寺島惇太・斉藤壮馬・畠中祐・八代拓・五十嵐雅・永塚拓馬・内田雄馬)", ""],
     [2, "恋のロイヤルストレートフラッシュ", "The シャッフル(CV.小林竜之・高橋 渉・橋本晃太朗・長谷徳人・江田拓寛)", ""],
-    [3, "CRAZY GONNA CRAZY", "一条シン＆如月ルヰ（CV.寺島惇太・蒼井翔太）", ""],
+    [3, "CRAZY GONNA CRAZY", "一条シン＆如月ルヰ（CV.寺島惇太・蒼井翔太）", "0"],
     [4, "Reboot -Hiro ver.-", "速水ヒロ（CV.前野智昭）", ""],
-    [5, "LOVE MIX", "高田馬場ジョージGS(CV.小林竜之)", ""],
-    [6, "EZ DO DANCE -THUNDER STORM ver.-", "大和アレクサンダー vs 香賀美タイガ(CV.武内駿輔・畠中 祐)", ""],
-    [7, "FREEDOM -THUNDER STORM ver.-", "仁科カヅキ（CV.増田俊樹）", ""],
+    [5, "LOVE MIX", "高田馬場ジョージGS(CV.小林竜之)", "0"],
+    [6, "EZ DO DANCE -THUNDER STORM ver.-", "大和アレクサンダー vs 香賀美タイガ(CV.武内駿輔・畠中 祐)", "0"],
+    [7, "FREEDOM -THUNDER STORM ver.-", "仁科カヅキ（CV.増田俊樹）", "0"],
     [8, "Over the Sunshine!", "一条シン(CV.寺島惇太)", ""],
     [9, "ルナティックDEStiNy", "如月ルヰ(CV.蒼井翔太)", ""],
     [10, "pride -KING OF PRISM ver.-", "速水ヒロ（CV.前野智昭）", ""],
@@ -75,11 +75,11 @@ album = "劇場版KING OF PRISM -PRIDE the HERO- Song & Soundtrack Vocal Disc 2"
 tracks = [
     [1, "Vivi℃ Heart Session! (inst.)", "エーデルローズ新入生(CV.寺島惇太・斉藤壮馬・畠中祐・八代拓・五十嵐雅・永塚拓馬・内田雄馬)", ""],
     [2, "恋のロイヤルストレートフラッシュ (inst.)", "The シャッフル(CV.小林竜之・高橋 渉・橋本晃太朗・長谷徳人・江田拓寛)", ""],
-    [3, "CRAZY GONNA CRAZY (inst.)", "一条シン＆如月ルヰ（CV.寺島惇太・蒼井翔太）", ""],
+    [3, "CRAZY GONNA CRAZY (inst.)", "一条シン＆如月ルヰ（CV.寺島惇太・蒼井翔太）", "0"],
     [4, "Reboot -Hiro ver.- (inst.)", "速水ヒロ（CV.前野智昭）", ""],
-    [5, "LOVE MIX (inst.)", "高田馬場ジョージGS(CV.小林竜之)", ""],
-    [6, "EZ DO DANCE -THUNDER STORM ver.- (inst.)", "大和アレクサンダー vs 香賀美タイガ(CV.武内駿輔・畠中 祐)", ""],
-    [7, "FREEDOM -THUNDER STORM ver.- (inst.)", "仁科カヅキ（CV.増田俊樹）", ""],
+    [5, "LOVE MIX (inst.)", "高田馬場ジョージGS(CV.小林竜之)", "0"],
+    [6, "EZ DO DANCE -THUNDER STORM ver.- (inst.)", "大和アレクサンダー vs 香賀美タイガ(CV.武内駿輔・畠中 祐)", "0"],
+    [7, "FREEDOM -THUNDER STORM ver.- (inst.)", "仁科カヅキ（CV.増田俊樹）", "0"],
     [8, "Over the Sunshine! (inst.)", "一条シン(CV.寺島惇太)", ""],
     [9, "ルナティックDEStiNy (inst.)", "如月ルヰ(CV.蒼井翔太)", ""],
     [10, "pride -KING OF PRISM ver.- (inst.)", "速水ヒロ（CV.前野智昭）", ""],
@@ -117,7 +117,7 @@ tracks = [
     [23, "アレク登場", "石塚玲依", ""],
     [24, "アレクとタイガの審査結果", "石塚玲依", ""],
     [25, "勝者決定", "石塚玲依", ""],
-    [26, "KING OF PRISM", "石塚玲依", ""],
+    [26, "KING OF PRISM", "石塚玲依", "0"],
     [27, "想いを込めて", "石塚玲依", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/9b46ce64-3cb2-4424-9be2-2235d69c8f51", "https://vgmdb.net/album/69729"]
@@ -132,16 +132,16 @@ tracks = [
     [3, "ラン♪ for ジャンピン!", "", ""],
     [4, "アメイジング・キャッスル", "", ""],
     [5, "Mon chouchou", "", ""],
-    [6, "Girl’s Fantasy", "", ""],
+    [6, "Girl’s Fantasy", "", "0"],
     [7, "シュガーレス×フレンド", "", ""],
     [8, "愛ドルを取り戻せ!", "", ""],
     [9, "ぷりっとぱ~ふぇくと -More Pritto/fect Mix-", "", ""],
     [10, "かりすま~とGIRL☆Yeah! -じゅのん Ver.-", "", ""],
     [11, "かりすま~とGIRL☆Yeah! -ぴのん Ver.-", "", ""],
     [12, "かりすま~とGIRL☆Yeah! -かのん Ver.-", "", ""],
-    [13, "0-week-old -Falulu with Hibiki Ver.-", "", ""],
+    [13, "0-week-old -Falulu with Hibiki Ver.-", "", "0"],
     [14, "ま~ぶる Make up a-ha-ha! -らぁら & のん Ver.-", "", ""],
-    [15, "Girl’s Fantasy -Jewlie with Janis Ver.-", "", ""],
+    [15, "Girl’s Fantasy -Jewlie with Janis Ver.-", "", "0"],
     [16, "組曲フォーエバー☆フレンズ~第一楽章~「I FRIEND YOU!」~第二楽章~「LOVE IS FRIEND」", "", ""],
     [17, "組曲フォーエバー☆フレンズ~インターリュード~「メモリーズ・メドレー」", "", ""],
     [18, "組曲フォーエバー☆フレンズ~第三楽章~「My Friend, Dear Friend」~第四楽章~「ウィー・アー・ザ・フレンズ!」", "", ""],
@@ -155,10 +155,10 @@ date = "2017-09-20"
 album = "プリパラ☆ミュージックコレクション season.3 DX Disc 2 (CD) [EYCA-11454]"
 tracks = [
     [1, "Ready Smile!! -TV size.-", "", ""],
-    [2, "Brand New Dreamer -TV size.-", "", ""],
+    [2, "Brand New Dreamer -TV size.-", "", "0"],
     [3, "Shining Star -TV size.-", "", ""],
     [4, "プリパラ☆ダンシング!!! -TV size.-", "", ""],
-    [5, "Growin’ Jewel! -TV size.-", "", ""],
+    [5, "Growin’ Jewel! -TV size.-", "", "0"],
     [6, "メインテーマA", "", ""],
     [7, "メインテーマB", "", ""],
     [8, "日常A", "", ""],
@@ -199,23 +199,23 @@ date = "2017-09-20"
 album = "プリパラ☆ミュージックコレクション season.3 DX Disc 3 (DVD) [EYCA-11454B]"
 tracks = [
     [1, "Ready Smile!! (ノンテロップオープニングテーマ)", "", ""],
-    [2, "Brand New Dreamer (ノンテロップオープニングテーマ)", "", ""],
+    [2, "Brand New Dreamer (ノンテロップオープニングテーマ)", "", "0"],
     [3, "Shining Star (ノンテロップオープニングテーマ)", "", ""],
     [4, "プリパラ☆ダンシング!!! (ノンテロップエンディングテーマ)", "", ""],
-    [5, "Growin’ Jewel! (ノンテロップエンディングテーマ)", "", ""],
+    [5, "Growin’ Jewel! (ノンテロップエンディングテーマ)", "", "0"],
     [6, "トライアングル・スター (プリパラライブ映像)", "", ""],
     [7, "かりすま~とGIRL☆Yeah! (プリパラライブ映像)", "", ""],
     [8, "ラン♪ for ジャンピン! (プリパラライブ映像)", "", ""],
     [9, "アメイジング・キャッスル (プリパラライブ映像)", "", ""],
     [10, "Mon chouchou (プリパラライブ映像)", "", ""],
-    [11, "Girl’s Fantasy (プリパラライブ映像)", "", ""],
+    [11, "Girl’s Fantasy (プリパラライブ映像)", "", "0"],
     [12, "シュガーレス×フレンド (プリパラライブ映像)", "", ""],
     [13, "愛ドルを取り戻せ! (プリパラライブ映像)", "", ""],
     [14, "かりすま~とGIRL☆Yeah! -じゅのん Ver.- (プリパラライブ映像)", "", ""],
     [15, "かりすま~とGIRL☆Yeah! -ぴのん Ver.- (プリパラライブ映像)", "", ""],
     [16, "かりすま~とGIRL☆Yeah! -かのん Ver.- (プリパラライブ映像)", "", ""],
-    [17, "0-week-old -Falulu with Hibiki Ver.- (プリパラライブ映像)", "", ""],
-    [18, "Girl’s Fantasy -Jewlie with Janis Ver.- (プリパラライブ映像)", "", ""],
+    [17, "0-week-old -Falulu with Hibiki Ver.- (プリパラライブ映像)", "", "0"],
+    [18, "Girl’s Fantasy -Jewlie with Janis Ver.- (プリパラライブ映像)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/69986"]
 
@@ -226,7 +226,7 @@ album = "プロミス! リズム! パラダイス!"
 tracks = [
     [1, "ゴー! ゴー! ゴージャスー!", "", ""],
     [2, "かりすま~とGIRL☆Yeah!", "", ""],
-    [3, "Ha Cha Me Cha テレパシー", "", ""],
+    [3, "Ha Cha Me Cha テレパシー", "", "0"],
     [4, "し~くれっと! ラタトゥイユ", "", ""],
     [5, "リザーブ・ザ・リバース!", "", ""],
     [6, "スター☆ア・ラ・カルト", "", ""],
@@ -235,7 +235,7 @@ tracks = [
     [9, "ピュア・ハート・カレンダー", "", ""],
     [10, "神曲! ~Gaarmage Tourism~", "", ""],
     [11, "スパイシー♪ホット*ケーキ!!!", "", ""],
-    [12, "Crew-Sing! Friend-Ship♡", "", ""],
+    [12, "Crew-Sing! Friend-Ship♡", "真中らぁら (CV.茜屋日海夏)、南みれぃ (CV.芹澤優)、北条そふぃ (CV.久保田未夢)、東堂 シオン (CV.山北 早紀)、ドロシー・ウェスト (CV.澁谷 梓希)、レオナ・ウェスト (CV.若井 友希)、紫京院ひびき (CV.斎賀 みつき)、ファルル (CV.赤﨑 千夏)、緑風ふわり (CV.佐藤 あずさ)、黒須あろま (CV.牧野 由依)、白玉みかん (CV.渡部 優衣)、ガァルル (CV.真田 アサミ)、真中 のん (CV.田中 美海)、太陽ペッパー (CV.山下七海)、月川 ちり (CV.大森 日雅)、夢川 ゆい (CV.伊達 朱里紗)、虹色にの (CV.大地 葉)、幸多みちる (CV.山田 唯菜)、華園しゅうか (CV.朝日奈丸佳)、夢川ショウゴ (CV.山下誠一郎)、三鷹アサヒ (CV.小林竜之)、高瀬コヨイ (CV.土田玲央)", "1"],
 ]
 links = ["https://vgmdb.net/album/89068"]
 
@@ -259,7 +259,7 @@ date = "2011-06-15"
 album = "MAX! 乙女心/Happy GO Lucky! ~ハピ☆ラキでゴ→!~ / SUPER☆GiRLS Vocal"
 tracks = [
     [1, "MAX!乙女心", "SUPER☆GiRLS", ""],
-    [2, "Happy GO Lucky!～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", ""],
+    [2, "Happy GO Lucky!～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/45eee286-2b91-4d59-9d79-266b81406db4", "https://vgmdb.net/album/65441"]
 
@@ -270,7 +270,7 @@ album = "MAX! 乙女心/Happy GO Lucky! ~ハピ☆ラキでゴ→!~ / SUPER☆Gi
 tracks = [
     [1, "MAX!乙女心（MUSIC VIDEO）", "SUPER☆GiRLS", ""],
     [2, "MAX!乙女心 メンバー個別CM集（全12ver.）", "SUPER☆GiRLS", ""],
-    [3, "Happy GO Lucky!〜ハピ☆ラキでゴ→!〜（プリティリズム・オーロラドリーム エンディング SUPER☆GiRLSパート）", "SUPER☆GiRLS", ""],
+    [3, "Happy GO Lucky!〜ハピ☆ラキでゴ→!〜（プリティリズム・オーロラドリーム エンディング SUPER☆GiRLSパート）", "SUPER☆GiRLS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/45eee286-2b91-4d59-9d79-266b81406db4", "https://vgmdb.net/album/65441"]
 
@@ -282,11 +282,11 @@ tracks = [
     [1, "チクタク・Magicaる・アイドルタイム！", "", ""],
     [2, "ブランニュー・ハピネス！", "", ""],
     [3, "あっちゃこっちゃゲーム", "", ""],
-    [4, "GOスト♭コースター", "", ""],
+    [4, "GOスト♭コースター", "", "0"],
     [5, "チクタク・Magicaる・アイドルタイム！ -inst.-", "", ""],
     [6, "ブランニュー・ハピネス！ -inst.-", "", ""],
     [7, "あっちゃこっちゃゲーム -inst.-", "", ""],
-    [8, "GOスト♭コースター -inst.-", "", ""],
+    [8, "GOスト♭コースター -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/68278"]
 
@@ -307,9 +307,9 @@ catalognumber = "EYCA-12855"
 date = "2020-03-25"
 album = "LOVEグラフィティ / SePTENTRION"
 tracks = [
-    [1, "LOVEグラフィティ", "", ""],
+    [1, "LOVEグラフィティ", "SePTENTRION", "0"],
     [2, "ドラマチックLOVE -ALLSTARS THANKS ver.-", "", ""],
-    [3, "LOVEグラフィティ inst.", "", ""],
+    [3, "LOVEグラフィティ inst.", "SePTENTRION", "0"],
     [4, "ドラマチックLOVE -ALLSTARS THANKS ver.- inst.", "", ""],
 ]
 links = ["https://vgmdb.net/album/95193"]
@@ -364,10 +364,10 @@ catalognumber = "EYCA-13169"
 date = "2021-05-26"
 album = "キラッとプリ☆チャン♪ソングコレクション～from SUNSHINE CIRCUS～"
 tracks = [
-    [1, "Despertar del SOL!", "", ""],
+    [1, "Despertar del SOL!", "", "0"],
     [2, "sunshine smiles", "", ""],
     [3, "アドリブ・デスティニー", "", ""],
-    [4, "Despertar del SOL! -inst.-", "", ""],
+    [4, "Despertar del SOL! -inst.-", "", "0"],
     [5, "sunshine smiles -inst.-", "", ""],
     [6, "アドリブ・デスティニー -inst.-", "", ""],
     [7, "オリジナルミニドラマ『アリスとイブ、そしてソルルも!? ルルナ応援マル秘大作戦!』", "", ""],
@@ -391,7 +391,7 @@ tracks = [
     [10, "Realize!", "", ""],
     [11, "ドリームパレード", "", ""],
     [12, "ブライトファンタジー", "", ""],
-    [13, "Goin'on", "", ""],
+    [13, "Goin'on", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121651"]
 
@@ -434,7 +434,7 @@ tracks = [
     [10, "Realize!", "", ""],
     [11, "ドリームパレード", "", ""],
     [12, "ブライトファンタジー", "", ""],
-    [13, "Goin'on", "", ""],
+    [13, "Goin'on", "", "0"],
     [14, "Ready Smile!!", "", ""],
     [15, "Re:Call", "", ""],
     [16, "Shining Star", "", ""],
@@ -520,10 +520,10 @@ catalognumber = "AVCA-74083/B"
 date = "2014-02-05"
 album = "Butterfly Effect / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "Butterfly Effect", "", ""],
-    [2, "Dance Away", "", ""],
-    [3, "Butterfly Effect (inst.)", "", ""],
-    [4, "Dance Away (inst.)", "", ""],
+    [1, "Butterfly Effect", "", "0"],
+    [2, "Dance Away", "Prizmmy☆", "0"],
+    [3, "Butterfly Effect (inst.)", "", "0"],
+    [4, "Dance Away (inst.)", "Prizmmy☆", "0"],
 ]
 links = ["https://vgmdb.net/album/44347"]
 
@@ -532,8 +532,8 @@ catalognumber = "AVCA-74083/B"
 date = "2014-02-05"
 album = "Butterfly Effect / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "Butterfly Effect (ミュージックビデオ)", "", ""],
-    [2, "Butterfly Effect (ダンスマスターVer.)", "", ""],
+    [1, "Butterfly Effect (ミュージックビデオ)", "", "0"],
+    [2, "Butterfly Effect (ダンスマスターVer.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44347"]
 
@@ -543,10 +543,10 @@ date = "2017-03-08"
 album = "Shining Star / i☆Ris"
 tracks = [
     [1, "Shining Star", "i☆Ris", ""],
-    [2, "jewel", "i☆Ris", ""],
+    [2, "jewel", "i☆Ris", "0"],
     [3, "HERO", "i☆Ris", ""],
     [4, "Shining Star (Instrumental)", "i☆Ris", ""],
-    [5, "jewel (Instrumental)", "i☆Ris", ""],
+    [5, "jewel (Instrumental)", "i☆Ris", "0"],
     [6, "HERO (Instrumental)", "i☆Ris", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/68700824-3cf7-4384-a2ed-c99f80192ba4", "https://vgmdb.net/album/63642"]
@@ -564,9 +564,9 @@ date = "2017-03-08"
 album = "Shining Star / i☆Ris [CD+DVD] Disc 1 (CD)"
 tracks = [
     [1, "Shining Star", "i☆Ris", ""],
-    [2, "jewel", "i☆Ris", ""],
+    [2, "jewel", "i☆Ris", "0"],
     [3, "Shining Star (Instrumental)", "i☆Ris", ""],
-    [4, "jewel (Instrumental)", "i☆Ris", ""],
+    [4, "jewel (Instrumental)", "i☆Ris", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a423bbf8-ae5b-4300-83a1-bf9931f17176", "https://vgmdb.net/album/63643"]
 
@@ -585,16 +585,16 @@ catalognumber = "EYCA-13130"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal Disc 1"
 tracks = [
-    [1, "BOY MEETS GIRL -Prism Boys ver.-", "", ""],
+    [1, "BOY MEETS GIRL -Prism Boys ver.-", "", "0"],
     [2, "pride -debut ver.-", "", ""],
     [3, "Reboot", "", ""],
     [4, "pride", "", ""],
-    [5, "FREEDOM", "", ""],
-    [6, "athletic core", "", ""],
+    [5, "FREEDOM", "", "0"],
+    [6, "athletic core", "", "0"],
     [7, "Flavor", "", ""],
     [8, "Over the Sunshine!", "", ""],
     [9, "Reboot -Hiro ver.-", "", ""],
-    [10, "FREEDOM -THUNDER STORM ver.-", "", ""],
+    [10, "FREEDOM -THUNDER STORM ver.-", "", "0"],
     [11, "pride -KING OF PRISM ver.-", "", ""],
     [12, "虹色CROWN", "", ""],
     [13, "虹色CROWN -Acoustic ver.-", "", ""],
@@ -631,14 +631,14 @@ album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal Disc 3"
 tracks = [
     [1, "Shiny Seven Stars!", "", ""],
     [2, "百花繚乱", "", ""],
-    [3, "Fly in the sky", "", ""],
+    [3, "Fly in the sky", "", "0"],
     [4, "Orange Flamingo", "", ""],
-    [5, "JOKER KISS!", "", ""],
+    [5, "JOKER KISS!", "", "0"],
     [6, "Sailing!", "", ""],
     [7, "Twinkle☆Twinkle", "", ""],
     [8, "Shiny Stellar", "", ""],
     [9, "survival dAnce ~no no cry more~", "", ""],
-    [10, "I know Shangri-La", "", ""],
+    [10, "I know Shangri-La", "", "0"],
     [11, "ダイスキリフレイン", "", ""],
     [12, "ファイブカードは突然に...", "", ""],
     [13, "ナナイロノチカイ! -Brilliant oath-", "", ""],
@@ -677,14 +677,14 @@ tracks = [
     [3, "Crossing Labyrinth", "", ""],
     [4, "Want To Touch", "", ""],
     [5, "煌めきの彼方へ ～エーデルローズ校歌～", "", ""],
-    [6, "Happy Happy Birthday!", "", ""],
-    [7, "Happy Happy Birthday! -Shin-", "", ""],
-    [8, "Happy Happy Birthday! -Yukinojo-", "", ""],
-    [9, "Happy Happy Birthday! -Taiga-", "", ""],
-    [10, "Happy Happy Birthday! -Kakeru-", "", ""],
-    [11, "Happy Happy Birthday! -Minato-", "", ""],
-    [12, "Happy Happy Birthday! -Leo-", "", ""],
-    [13, "Happy Happy Birthday! -Yu-", "", ""],
+    [6, "Happy Happy Birthday!", "", "0"],
+    [7, "Happy Happy Birthday! -Shin-", "", "0"],
+    [8, "Happy Happy Birthday! -Yukinojo-", "", "0"],
+    [9, "Happy Happy Birthday! -Taiga-", "", "0"],
+    [10, "Happy Happy Birthday! -Kakeru-", "", "0"],
+    [11, "Happy Happy Birthday! -Minato-", "", "0"],
+    [12, "Happy Happy Birthday! -Leo-", "", "0"],
+    [13, "Happy Happy Birthday! -Yu-", "", "0"],
     [14, "ドラマチックLOVE Thanks 1st anniversary REMIX", "", ""],
 ]
 links = ["https://vgmdb.net/album/103244"]
@@ -694,19 +694,19 @@ catalognumber = "EYCA-13135"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal Disc 6"
 tracks = [
-    [1, "EZ DO DANCE -K.O.P. REMIX-", "", ""],
-    [2, "EZ DO DANCE -THUNDER STORM ver.-", "", ""],
-    [3, "BRAND NEW TOMORROW", "", ""],
+    [1, "EZ DO DANCE -K.O.P. REMIX-", "", "0"],
+    [2, "EZ DO DANCE -THUNDER STORM ver.-", "", "0"],
+    [3, "BRAND NEW TOMORROW", "", "0"],
     [4, "寒い夜だから...", "", ""],
     [5, "masquerade", "", ""],
     [6, "Unite! The Night!", "", ""],
-    [7, "LEGEND OF WIND", "", ""],
-    [8, "Love & Peace Forever", "", ""],
+    [7, "LEGEND OF WIND", "", "0"],
+    [8, "Love & Peace Forever", "", "0"],
     [9, "Overnight Sensation ～時代はあなたに委ねてる～", "", ""],
-    [10, "JOY", "", ""],
+    [10, "JOY", "", "0"],
     [11, "Silver and Gold dance", "", ""],
     [12, "愛がもう少し欲しいよ", "", ""],
-    [13, "BOY MEETS GIRL", "", ""],
+    [13, "BOY MEETS GIRL", "", "0"],
 ]
 links = ["https://vgmdb.net/album/103244"]
 
@@ -715,20 +715,20 @@ catalognumber = "EYCA-13136"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal Disc 7"
 tracks = [
-    [1, "gift -Louis ver.-", "", ""],
+    [1, "gift -Louis ver.-", "", "0"],
     [2, "pride -Louis ver.-", "", ""],
     [3, "ハート♥イロ♥トリドリ～ム", "", ""],
     [4, "Over the Sunshine! -Shin solo ver.-", "", ""],
     [5, "恋のロイヤルストレートフラッシュ", "", ""],
-    [6, "LOVE♥MIX", "", ""],
+    [6, "LOVE♥MIX", "", "0"],
     [7, "叙情ピンフォール", "", ""],
     [8, "ルナティックDEStiNy", "", ""],
     [9, "プラトニックソード", "", ""],
     [10, "MOONSHINE", "", ""],
     [11, "Silent Promise", "", ""],
-    [12, "CRAZY GONNA CRAZY", "", ""],
-    [13, "366LOVEダイアリー", "", ""],
-    [14, "LOVEグラフィティ", "", ""],
+    [12, "CRAZY GONNA CRAZY", "", "0"],
+    [13, "366LOVEダイアリー", "", "0"],
+    [14, "LOVEグラフィティ", "SePTENTRION", "0"],
     [15, "ドラマチックLOVE -ALLSTARS THANKS ver.-", "", ""],
 ]
 links = ["https://vgmdb.net/album/103244"]
@@ -738,21 +738,21 @@ catalognumber = "EYCA-13137"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal Disc 8"
 tracks = [
-    [1, "athletic core -合体ロボ発進!ver.-", "", ""],
-    [2, "FREEDOM", "", ""],
+    [1, "athletic core -合体ロボ発進!ver.-", "", "0"],
+    [2, "FREEDOM", "", "0"],
     [3, "NEO STREET STREAM 2018 SUMMER REMIX", "", ""],
     [4, "pride -仮面舞踏会ver.-", "", ""],
     [5, "masquerade", "", ""],
-    [6, "EZ DO DANCE", "", ""],
-    [7, "FREEDOM", "", ""],
+    [6, "EZ DO DANCE", "", "0"],
+    [7, "FREEDOM", "", "0"],
     [8, "プラトニックソード", "", ""],
     [9, "ドラマチックLOVE -X'mas version-", "", ""],
     [10, "寒い夜だから...", "", ""],
     [11, "ハート♥イロ♥トリドリ～ム", "", ""],
     [12, "ALIVE", "", ""],
     [13, "ドラマチックLOVE -Shin debut ver.-", "", ""],
-    [14, "EZ DO DANCE -STREET BATTLE ver.-", "", ""],
-    [15, "BOY MEETS GIRL -Edel Rose Stars ver.-", "", ""],
+    [14, "EZ DO DANCE -STREET BATTLE ver.-", "", "0"],
+    [15, "BOY MEETS GIRL -Edel Rose Stars ver.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/103244"]
 
@@ -761,18 +761,18 @@ catalognumber = "EYCA-13138"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal, Live Event Disc 9"
 tracks = [
-    [0, "01 \r\nOpening!～Shiny Seven Stars!", "", ""],
-    [0, "02 \r\nShiny Stellar", "", ""],
-    [0, "03 \r\nSailing!", "", ""],
-    [0, "04 \r\nTwinkle☆Twinkle", "", ""],
-    [0, "05 \r\n百花繚乱", "", ""],
-    [0, "06 \r\nFly in the sky", "", ""],
-    [0, "07 \r\nOrange Flamingo", "", ""],
-    [0, "08 \r\nJOKER KISS!", "", ""],
-    [0, "09 \r\nsurvival dAnce ~no no cry more~", "", ""],
-    [0, "10 \r\nI know Shangri-La", "", ""],
-    [0, "11 \r\nダイスキリフレイン", "", ""],
-    [1, "KING OF PRISM SUPER LIVE SHINY SEVEN STARS!-1", "", ""],
+    [0, "01 \r\nOpening!～Shiny Seven Stars!", "", "0"],
+    [0, "02 \r\nShiny Stellar", "", "0"],
+    [0, "03 \r\nSailing!", "", "0"],
+    [0, "04 \r\nTwinkle☆Twinkle", "", "0"],
+    [0, "05 \r\n百花繚乱", "", "0"],
+    [0, "06 \r\nFly in the sky", "", "0"],
+    [0, "07 \r\nOrange Flamingo", "", "0"],
+    [0, "08 \r\nJOKER KISS!", "", "0"],
+    [0, "09 \r\nsurvival dAnce ~no no cry more~", "", "0"],
+    [0, "10 \r\nI know Shangri-La", "", "0"],
+    [0, "11 \r\nダイスキリフレイン", "", "0"],
+    [1, "KING OF PRISM SUPER LIVE SHINY SEVEN STARS!-1", "", "0"],
 ]
 links = ["https://vgmdb.net/album/103244"]
 
@@ -781,11 +781,11 @@ catalognumber = "EYCA-13139"
 date = "2021-01-08"
 album = "KING OF PRISM BEST ALBUM \"Music Goes On!\" Vocal, Live Event Disc 10"
 tracks = [
-    [0, "01 \r\nTRF Special Medley", "", ""],
-    [0, "02 \r\n366LOVEダイアリー", "", ""],
-    [0, "03 \r\nアンコール～ナナイロノチカイ! -Brilliant oath-", "", ""],
-    [0, "04 \r\nドラマチックLOVE", "", ""],
-    [1, "KING OF PRISM SUPER LIVE SHINY SEVEN STARS!-2", "", ""],
+    [0, "01 \r\nTRF Special Medley", "", "0"],
+    [0, "02 \r\n366LOVEダイアリー", "", "0"],
+    [0, "03 \r\nアンコール～ナナイロノチカイ! -Brilliant oath-", "", "0"],
+    [0, "04 \r\nドラマチックLOVE", "", "0"],
+    [1, "KING OF PRISM SUPER LIVE SHINY SEVEN STARS!-2", "", "0"],
 ]
 links = ["https://vgmdb.net/album/103244"]
 
@@ -795,14 +795,14 @@ date = "2023-03-22"
 album = "ワッチャプリマジ! ミュージックコレクションDX Disc 1 (CD) [EYCA-14023]"
 tracks = [
     [1, "マジ・ワッチャパレード", "陽比野まつり with みゃむ (cv.廣瀬千夏, 小池理子)", ""],
-    [2, "Believe", "ジェニファー・純恋・ソル (cv.青野紗穂)", ""],
+    [2, "Believe", "ジェニファー・純恋・ソル (cv.青野紗穂)", "0"],
     [3, "Starlight!", "弥生ひな with チムム (cv.内田彩, 引坂理絵)", ""],
     [4, "イワナイ", "甘瓜みるき with はにたん (cv.相良茉優, 小倉唯)", ""],
     [5, "こんな世界に告ぐ", "心愛れもん with きゃろん (cv.鈴木杏奈, 吉河順央)", ""],
     [6, "The Secret Garden", "皇あまね with ぱたの (cv.庄司宇芽香, 小原好美)", ""],
     [7, "ワッチャ！プリーズ！マジック！ –What’s your “Please” Magic?– (5人ver.)", "陽比野まつり, 弥生ひな, 心愛れもん, 皇あまね, 甘瓜みるき (cv.廣瀬千夏, 内田彩, 鈴木杏奈, 庄司宇芽香, 相良茉優)", ""],
     [8, "滲む、馨る、", "御芽河あうる (cv.藤寺美徳)", ""],
-    [9, "Don't be Afraid", "ひゅーい, 田丸篤志 (cv.伊吹橙真, 梶原岳人)", ""],
+    [9, "Don't be Afraid", "ひゅーい, 田丸篤志 (cv.伊吹橙真, 梶原岳人)", "0"],
     [10, "奇跡の降る", "陽比野まつり, 御芽河あうる (cv.廣瀬千夏, 藤寺美徳)", ""],
     [11, "天頂のコンフィアンサ", "弥生ひな, 皇あまね (cv.内田彩, 庄司宇芽香)", ""],
     [12, "Sweetness×Darkness", "甘瓜みるき, 心愛れもん (cv.相良茉優, 鈴木杏奈)", ""],
@@ -810,8 +810,8 @@ tracks = [
     [14, "ワッチャ！プリーズ！マジック！ –What’s your “Please” Magic?– (6人ver.)", "陽比野まつり, 弥生ひな, 心愛れもん, 皇あまね, 甘瓜みるき, 御芽河あうる (cv.廣瀬千夏, 内田彩, 鈴木杏奈, 庄司宇芽香, 相良茉優, 藤寺美徳)", ""],
     [15, "Magical Future", "陽比野まつり, みゃむ (cv.廣瀬千夏,小池理子)", ""],
     [16, "チェックワンツー", "みゃむ, チムム, きゃろん (cv.小池理子, 引坂理絵, 吉河順央)", ""],
-    [17, "Dreaming Sound –TV size–", "鈴木杏奈", ""],
-    [18, "Chasing the dream –TV size–", "鈴木杏奈", ""],
+    [17, "Dreaming Sound –TV size–", "鈴木杏奈", "0"],
+    [18, "Chasing the dream –TV size–", "鈴木杏奈", "0"],
     [19, "Magic×Color –TV size–", "鈴木杏奈", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/27952a8f-3180-4321-9142-f725d1c4067f", "https://vgmdb.net/album/125187"]
@@ -860,20 +860,20 @@ catalognumber = "EYCA-14023~4/B"
 date = "2023-03-22"
 album = "ワッチャプリマジ! ミュージックコレクションDX Disc 3 (Blu-ray) [EYCA-14024B]"
 tracks = [
-    [1, "Dreaming Sound (ノンテロップオープニングテーマ)", "鈴木杏奈", ""],
-    [2, "Chasing the dream (ノンテロップオープニングテーマ)", "鈴木杏奈", ""],
+    [1, "Dreaming Sound (ノンテロップオープニングテーマ)", "鈴木杏奈", "0"],
+    [2, "Chasing the dream (ノンテロップオープニングテーマ)", "鈴木杏奈", "0"],
     [3, "Magic×Color (ノンテロップオープニングテーマ)", "鈴木杏奈", ""],
     [4, "Magical Future (ノンテロップエンディングテーマ)", "陽比野まつり, みゃむ (cv.廣瀬千夏,小池理子)", ""],
     [5, "チェックワンツー (ノンテロップエンディングテーマ)", "みゃむ, チムム, きゃろん (cv.小池理子, 引坂理絵, 吉河順央)", ""],
     [6, "マジ・ワッチャパレード (ワッチャプリマジ！ライブ映像)", "陽比野まつり with みゃむ (cv.廣瀬千夏, 小池理子)", ""],
-    [7, "Believe (ワッチャプリマジ！ライブ映像)", "ジェニファー・純恋・ソル (cv.青野紗穂)", ""],
+    [7, "Believe (ワッチャプリマジ！ライブ映像)", "ジェニファー・純恋・ソル (cv.青野紗穂)", "0"],
     [8, "Starlight! (ワッチャプリマジ！ライブ映像)", "弥生ひな with チムム (cv.内田彩, 引坂理絵)", ""],
     [9, "イワナイ (ワッチャプリマジ！ライブ映像)", "甘瓜みるき with はにたん (cv.相良茉優, 小倉唯)", ""],
     [10, "こんな世界に告ぐ (ワッチャプリマジ！ライブ映像)", "心愛れもん with きゃろん (cv.鈴木杏奈, 吉河順央)", ""],
     [11, "The Secret Garden (ワッチャプリマジ！ライブ映像)", "皇あまね with ぱたの (cv.庄司宇芽香, 小原好美)", ""],
     [12, "ワッチャ！プリーズ！マジック！ –What’s your “Please” Magic?– (5人ver.) (ワッチャプリマジ！ライブ映像)", "陽比野まつり, 弥生ひな, 心愛れもん, 皇あまね, 甘瓜みるき (cv.廣瀬千夏, 内田彩, 鈴木杏奈, 庄司宇芽香, 相良茉優)", ""],
     [13, "滲む、馨る、 (ワッチャプリマジ！ライブ映像)", "御芽河あうる (cv.藤寺美徳)", ""],
-    [14, "Don’t be Afraid (ワッチャプリマジ！ライブ映像)", "ひゅーい, 田丸篤志 (cv.伊吹橙真, 梶原岳人)", ""],
+    [14, "Don’t be Afraid (ワッチャプリマジ！ライブ映像)", "ひゅーい, 田丸篤志 (cv.伊吹橙真, 梶原岳人)", "0"],
     [15, "奇跡の降る (ワッチャプリマジ！ライブ映像)", "陽比野まつり, 御芽河あうる (cv.廣瀬千夏, 藤寺美徳)", ""],
     [16, "天頂のコンフィアンサ (ワッチャプリマジ！ライブ映像)", "弥生ひな, 皇あまね (cv.内田彩, 庄司宇芽香)", ""],
     [17, "Sweetness×Darkness (ワッチャプリマジ！ライブ映像)", "甘瓜みるき, 心愛れもん (cv.相良茉優, 鈴木杏奈)", ""],
@@ -907,9 +907,9 @@ date = "2019-08-07"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 一条シン・太刀花ユキノジョウ・香賀美タイガ・十王院カケル・鷹梁ミナト・西園寺レオ・涼野ユウ"
 tracks = [
     [1, "ナナイロノチカイ! -Brilliant oath-", "", ""],
-    [2, "BOY MEETS GIRL", "", ""],
+    [2, "BOY MEETS GIRL", "", "0"],
     [3, "ナナイロノチカイ! -Brilliant oath- inst.", "", ""],
-    [4, "BOY MEETS GIRL inst.", "", ""],
+    [4, "BOY MEETS GIRL inst.", "", "0"],
 ]
 links = ["https://vgmdb.net/album/86266"]
 
@@ -951,10 +951,10 @@ catalognumber = "EYCA-13165"
 date = "2020-12-02"
 album = "キラッとプリ☆チャン♪ソングコレクション ~from MELODY FANTASY~"
 tracks = [
-    [1, "A・B・C・Dいいね★ダンス", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", ""],
+    [1, "A・B・C・Dいいね★ダンス", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", "1"],
     [2, "キラッとプリ☆チャンランド", "メルパン (cv.大森日雅)", ""],
     [3, "Merry Merry Fantasia!", "メルティックスター (cv.芹澤優、若井友希、森嶋優花)", ""],
-    [4, "A・B・C・Dいいね★ダンス inst.", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", ""],
+    [4, "A・B・C・Dいいね★ダンス inst.", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", "0"],
     [5, "キラッとプリ☆チャンランド inst.", "メルパン (cv.大森日雅)", ""],
     [6, "Merry Merry Fantasia! inst.", "メルティックスター (cv.芹澤優、若井友希、森嶋優花)", ""],
     [7, "オリジナルミニドラマ『メルパン、タイムスリップしちゃったパン!?』", "あんな、さら、める、メルパン (cv.芹澤 優、若井友希、森嶋優花、大森日雅)", ""],
@@ -977,11 +977,11 @@ catalognumber = "EYCA-10651"
 date = "2015-12-23"
 album = "Over The Rainbow SPECIAL FAN DISC"
 tracks = [
-    [1, "BOY MEETS GIRL", "", ""],
+    [1, "BOY MEETS GIRL", "", "0"],
     [2, "Reboot", "", ""],
     [3, "pride", "", ""],
-    [4, "FREEDOM", "", ""],
-    [5, "athletic core", "", ""],
+    [4, "FREEDOM", "", "0"],
+    [5, "athletic core", "", "0"],
     [6, "pride by Hiro×Koji", "", ""],
     [7, "Flavor", "", ""],
     [8, "Over the Sunshine!", "", ""],
@@ -1027,9 +1027,9 @@ date = "2019-08-07"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 一条シン"
 tracks = [
     [1, "プラトニックソード", "一条シン（cv.寺島惇太）", ""],
-    [2, "BRAND NEW TOMORROW", "一条シン（cv.寺島惇太）", ""],
+    [2, "BRAND NEW TOMORROW", "一条シン（cv.寺島惇太）", "0"],
     [3, "プラトニックソード inst.", "一条シン（cv.寺島惇太）", ""],
-    [4, "BRAND NEW TOMORROW inst.", "一条シン（cv.寺島惇太）", ""],
+    [4, "BRAND NEW TOMORROW inst.", "一条シン（cv.寺島惇太）", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cef898fc-5b01-4223-8047-e6225746b327", "https://vgmdb.net/album/86265"]
 
@@ -1101,18 +1101,18 @@ catalognumber = "AVCA-62275~6/B"
 date = "2013-03-20"
 album = "プリティーリズム･ディアマイフューチャー プリズム☆ミュージックコレクション DX Original Soundtrack, Vocal Disc 1"
 tracks = [
-    [1, "Dear My Future ~未来の自分へ~", "Prizmmy☆", ""],
+    [1, "Dear My Future ~未来の自分へ~", "Prizmmy☆", "0"],
     [2, "my Transform", "Prizmmy☆", ""],
-    [3, "BRAND NEW WORLD!!", "Prizmmy☆", ""],
+    [3, "BRAND NEW WORLD!!", "Prizmmy☆", "0"],
     [4, "チェキ☆ラブ", "PURETTY", ""],
-    [5, "Life is Just a Miracle 〜生きているって素晴らしい〜", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", ""],
-    [6, "Body Rock", "Prizmmy☆", ""],
+    [5, "Life is Just a Miracle 〜生きているって素晴らしい〜", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", "0"],
+    [6, "Body Rock", "Prizmmy☆", "0"],
     [7, "パンピナッ！", "Prizmmy☆", ""],
     [8, "シュワシュワBABY", "PURETTY", ""],
     [9, "サンキュッ!!", "P&P［ヘイン・かりん・シユン］cv. 伊藤かな恵・津田美波・金香里", ""],
     [10, "Mirage JET", "Sprouts［あやみ・れいな・ジェウン］cv. 佐倉綾音・高森奈津美・米澤円", ""],
-    [11, "cheer! yeah!×2", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", ""],
-    [12, "LOVE♥MIX", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", ""],
+    [11, "cheer! yeah!×2", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", "0"],
+    [12, "LOVE♥MIX", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", "0"],
     [13, "よいなかそ♪", "せれのん with K", ""],
     [14, "Que sera", "MARs", ""],
 ]
@@ -1123,17 +1123,17 @@ catalognumber = "AVCA-62275~6/B"
 date = "2013-03-20"
 album = "プリティーリズム･ディアマイフューチャー プリズム☆ミュージックコレクション DX Original Soundtrack, Vocal Disc 2"
 tracks = [
-    [1, "Dear My Future", "長岡成貢", ""],
-    [2, "Dear My Future ～メロウバージョン!", "長岡成貢", ""],
-    [3, "Dear My Future ～軽やかバージョン", "長岡成貢", ""],
-    [4, "Dear My Future ～ストリングス・バージョン", "長岡成貢", ""],
-    [5, "Dear My Future ～ピアノ・バージョン", "長岡成貢", ""],
+    [1, "Dear My Future", "長岡成貢", "0"],
+    [2, "Dear My Future ～メロウバージョン!", "長岡成貢", "0"],
+    [3, "Dear My Future ～軽やかバージョン", "長岡成貢", "0"],
+    [4, "Dear My Future ～ストリングス・バージョン", "長岡成貢", "0"],
+    [5, "Dear My Future ～ピアノ・バージョン", "長岡成貢", "0"],
     [6, "Prizmmy☆のテーマ", "長岡成貢", ""],
     [7, "失敗連続Prizmmy☆", "長岡成貢", ""],
     [8, "恋するPrizmmy☆", "長岡成貢", ""],
     [9, "切なさPrizmmy☆", "長岡成貢", ""],
     [10, "悲しみPrizmmy☆", "長岡成貢", ""],
-    [11, "It's a Show Time!", "長岡成貢", ""],
+    [11, "It's a Show Time!", "長岡成貢", "0"],
     [12, "プリズムアクト", "長岡成貢", ""],
     [13, "みあのテーマ", "長岡成貢", ""],
     [14, "猪突猛進みあ", "長岡成貢", ""],
@@ -1152,7 +1152,7 @@ tracks = [
     [27, "めが姉ぇ空間", "長岡成貢", ""],
     [28, "心もコーデ", "長岡成貢", ""],
     [29, "銭の花咲く頃", "長岡成貢", ""],
-    [30, "Dear Crown", "長岡成貢", ""],
+    [30, "Dear Crown", "長岡成貢", "0"],
     [31, "サブタイトル", "長岡成貢", ""],
     [32, "次回予告!", "長岡成貢", ""],
     [33, "アイキャッチ～みあ", "長岡成貢", ""],
@@ -1170,18 +1170,18 @@ catalognumber = "AVCA-62275~6/B"
 date = "2013-03-20"
 album = "プリティーリズム･ディアマイフューチャー プリズム☆ミュージックコレクション DX Video"
 tracks = [
-    [1, "Dear My Future ～未来の自分へ～ (ノンテロップ オープニングテーマ)", "Prizmmy☆", ""],
-    [2, "BRAND NEW WORLD!! (ノンテロップ オープニングテーマ)", "Prizmmy☆", ""],
-    [3, "Life is Just a Miracle ～生きているって素晴らしい～ (ノンテロップ オープニングテーマ)", "Prizmmy☆ぼいすアクトレス", ""],
+    [1, "Dear My Future ～未来の自分へ～ (ノンテロップ オープニングテーマ)", "Prizmmy☆", "0"],
+    [2, "BRAND NEW WORLD!! (ノンテロップ オープニングテーマ)", "Prizmmy☆", "0"],
+    [3, "Life is Just a Miracle ～生きているって素晴らしい～ (ノンテロップ オープニングテーマ)", "Prizmmy☆ぼいすアクトレス", "0"],
     [4, "パンピナッ! (ノンテロップ オープニングテーマ)", "Prizmmy☆", ""],
-    [5, "Dear My Future ～未来の自分へ～→my Transform (スペシャルミュージッククリップ)", "Prizmmy☆", ""],
+    [5, "Dear My Future ～未来の自分へ～→my Transform (スペシャルミュージッククリップ)", "Prizmmy☆", "0"],
     [6, "チェキ☆ラブ (スペシャルミュージッククリップ)", "PURETTY", ""],
     [7, "Mirage JET (スペシャルミュージッククリップ)", "Sprouts", ""],
     [8, "シュワシュワBABY (スペシャルミュージッククリップ)", "PURETTY", ""],
     [9, "Que sera (スペシャルミュージッククリップ)", "MARs", ""],
     [10, "my Transform (ノンテロップ エンディングテーマ)", "Prizmmy☆", ""],
     [11, "チェキ☆ラブ (ノンテロップ エンディングテーマ)", "PURETTY", ""],
-    [12, "Body Rock (ノンテロップ エンディングテーマ)", "Prizmmy☆", ""],
+    [12, "Body Rock (ノンテロップ エンディングテーマ)", "Prizmmy☆", "0"],
     [13, "シュワシュワBABY (ノンテロップ エンディングテーマ)", "PURETTY", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d1509af6-26bd-44f5-b890-0dbe05cfd781", "https://vgmdb.net/album/37350"]
@@ -1194,15 +1194,15 @@ tracks = [
     [1, "なるのあいさつ!", "", ""],
     [2, "ハート♥イロ♥トリドリ～ム", "", ""],
     [3, "いとのあいさつ", "", ""],
-    [4, "BT37.5", "", ""],
+    [4, "BT37.5", "", "0"],
     [5, "あんのあいさつ", "", ""],
     [6, "Sweet time Cooking Magic ～胸ペコなんです私って～", "", ""],
     [7, "りんねのひとりごと", "", ""],
-    [8, "gift", "", ""],
+    [8, "gift", "", "0"],
     [9, "ハート♥イロ♥トリドリ～ム (inst.)", "", ""],
-    [10, "BT37.5 (inst.)", "", ""],
+    [10, "BT37.5 (inst.)", "", "0"],
     [11, "Sweet time Cooking magic ～胸ペコなんです私って～ (inst.)", "", ""],
-    [12, "gift (inst.)", "", ""],
+    [12, "gift (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44364"]
 
@@ -1243,11 +1243,11 @@ date = "2017-02-24"
 album = "プリパラソング♪コレクション 2ndステージ DX Disc 1 (CD)"
 tracks = [
     [1, "Mon chouchou", "", ""],
-    [2, "Girl's Fantasy", "", ""],
+    [2, "Girl's Fantasy", "Jewlie", "1"],
     [3, "シュガーレス×フレンド", "", ""],
     [4, "愛ドルを取り戻せ!", "", ""],
     [5, "Mon chouchou -inst-", "", ""],
-    [6, "Girl's Fantasy -inst-", "", ""],
+    [6, "Girl's Fantasy -inst-", "", "0"],
     [7, "シュガーレス×フレンド -inst-", "", ""],
     [8, "愛ドルを取り戻せ! -inst-", "", ""],
 ]
@@ -1259,7 +1259,7 @@ date = "2017-02-24"
 album = "プリパラソング♪コレクション 2ndステージ DX Disc 2 (DVD)"
 tracks = [
     [1, "Mon chouchou", "", ""],
-    [2, "Girl's Fantasy", "", ""],
+    [2, "Girl's Fantasy", "", "0"],
     [3, "シュガーレス×フレンド", "", ""],
     [4, "愛ドルを取り戻せ!", "", ""],
 ]
@@ -1327,18 +1327,18 @@ catalognumber = "AVCA-62392"
 date = "2013-03-20"
 album = "プリティーリズム・ディアマイフューチャー プリズム☆ミュージックコレクション Disc 1 [AVCA-62392]"
 tracks = [
-    [1, "Dear My Future～未来の自分へ～", "", ""],
+    [1, "Dear My Future～未来の自分へ～", "", "0"],
     [2, "my Transform", "", ""],
-    [3, "BRAND NEW WORLD!!", "", ""],
+    [3, "BRAND NEW WORLD!!", "", "0"],
     [4, "チェキ☆ラブ", "", ""],
-    [5, "Life is Just a Miracle～生きているって素晴らしい～", "", ""],
-    [6, "Body Rock", "", ""],
+    [5, "Life is Just a Miracle～生きているって素晴らしい～", "", "0"],
+    [6, "Body Rock", "", "0"],
     [7, "パンピナッ!", "", ""],
     [8, "シュワシュワBABY", "", ""],
     [9, "サンキュッ!!", "", ""],
     [10, "Mirage JET", "", ""],
-    [11, "cheer!yeah!×2", "", ""],
-    [12, "LOVE♥MIX", "", ""],
+    [11, "cheer!yeah!×2", "", "0"],
+    [12, "LOVE♥MIX", "", "0"],
     [13, "よいなかそ♪", "", ""],
     [14, "Que sera", "", ""],
 ]
@@ -1349,17 +1349,17 @@ catalognumber = "AVCA-62393"
 date = "2013-03-20"
 album = "プリティーリズム・ディアマイフューチャー プリズム☆ミュージックコレクション Disc 2 [AVCA-62393]"
 tracks = [
-    [1, "Dear My Future", "", ""],
-    [2, "Dear My Future (メロウバージョン!)", "", ""],
-    [3, "Dear My Future (軽やかバージョン)", "", ""],
-    [4, "Dear My Future (ストリングス・バージョン)", "", ""],
-    [5, "Dear My Future (ピアノ・バージョン)", "", ""],
+    [1, "Dear My Future", "", "0"],
+    [2, "Dear My Future (メロウバージョン!)", "", "0"],
+    [3, "Dear My Future (軽やかバージョン)", "", "0"],
+    [4, "Dear My Future (ストリングス・バージョン)", "", "0"],
+    [5, "Dear My Future (ピアノ・バージョン)", "", "0"],
     [6, "Prizmmy☆のテーマ", "", ""],
     [7, "失敗連続Prizmmy☆", "", ""],
     [8, "恋するPrizmmy☆", "", ""],
     [9, "切なさPrizmmy☆", "", ""],
     [10, "悲しみPrizmmy☆", "", ""],
-    [11, "It's a Show Time!", "", ""],
+    [11, "It's a Show Time!", "", "0"],
     [12, "プリズムアクト", "", ""],
     [13, "みあのテーマ", "", ""],
     [14, "猪突猛進みあ", "", ""],
@@ -1378,7 +1378,7 @@ tracks = [
     [27, "めが姉ぇ空間", "", ""],
     [28, "心もコーデ", "", ""],
     [29, "銭の花咲く頃", "", ""],
-    [30, "Dear Crown", "", ""],
+    [30, "Dear Crown", "", "0"],
     [31, "サブタイトル", "", ""],
     [32, "次回予告!", "", ""],
     [33, "アイキャッチ～みあ", "", ""],
@@ -1396,9 +1396,9 @@ catalognumber = "AVCA-62955/B"
 date = "2013-10-30"
 album = "CRAZY GONNA CRAZY / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "CRAZY GONNA CRAZY", "", ""],
-    [2, "CRAZY GONNA CRAZY -Funkot Mix-", "", ""],
-    [3, "CRAZY GONNA CRAZY (inst.)", "", ""],
+    [1, "CRAZY GONNA CRAZY", "", "0"],
+    [2, "CRAZY GONNA CRAZY -Funkot Mix-", "", "0"],
+    [3, "CRAZY GONNA CRAZY (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44346"]
 
@@ -1407,8 +1407,8 @@ catalognumber = "AVCA-62955/B"
 date = "2013-10-30"
 album = "CRAZY GONNA CRAZY / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "CRAZY GONNA CRAZY (ミュージッククリップ)", "", ""],
-    [2, "CRAZY GONNA CRAZY (ダンスマスターver.)", "", ""],
+    [1, "CRAZY GONNA CRAZY (ミュージッククリップ)", "", "0"],
+    [2, "CRAZY GONNA CRAZY (ダンスマスターver.)", "", "0"],
     [3, "Prizmmy☆Let’s!Dance!CRAZY GONNA CRAZY!!", "", ""],
 ]
 links = ["https://vgmdb.net/album/44346"]
@@ -1429,9 +1429,9 @@ tracks = [
     [2, "スライドライド", "Run Girls, Run!", ""],
     [3, "りんごの木", "林鼓子", ""],
     [4, "キラッとスタート", "Run Girls, Run!", ""],
-    [5, "Go! Up! スターダム!", "Run Girls, Run!", ""],
-    [6, "Break the Blue!!", "Run Girls, Run!", ""],
-    [7, "Darling Darling", "森嶋優花", ""],
+    [5, "Go! Up! スターダム!", "Run Girls, Run!", "0"],
+    [6, "Break the Blue!!", "Run Girls, Run!", "0"],
+    [7, "Darling Darling", "森嶋優花", "0"],
     [8, "never-ending!!", "Run Girls, Run!", ""],
     [9, "ダイヤモンドスマイル", "Run Girls, Run!", ""],
     [10, "水着とスイカ", "Run Girls, Run!", ""],
@@ -1450,8 +1450,8 @@ tracks = [
     [1, "ランガリング・シンガソング Music Video", "Run Girls, Run!", ""],
     [2, "スライドライド Music Video", "Run Girls, Run!", ""],
     [3, "キラッとスタート Music Video", "Run Girls, Run!", ""],
-    [4, "Go! Up! スターダム! Music Video", "Run Girls, Run!", ""],
-    [5, "Break the Blue!! Music Video", "Run Girls, Run!", ""],
+    [4, "Go! Up! スターダム! Music Video", "Run Girls, Run!", "0"],
+    [5, "Break the Blue!! Music Video", "Run Girls, Run!", "0"],
     [6, "ダイヤモンドスマイル Music Video", "Run Girls, Run!", ""],
     [7, "Share the light Music Video", "Run Girls, Run!", ""],
 ]
@@ -1499,12 +1499,12 @@ tracks = [
     [2, "快打洗心♡カッキンBUDDY", "", ""],
     [3, "Miss.プリオネア", "", ""],
     [4, "サンシャイン・ベル", "", ""],
-    [5, "Giraギャラティック・タイトロープ", "", ""],
+    [5, "Giraギャラティック・タイトロープ", "", "0"],
     [6, "ハートフル♡ドリーム -inst.-", "", ""],
     [7, "快打洗心♡カッキンBUDDY -inst.-", "", ""],
     [8, "Miss.プリオネア -inst.-", "", ""],
     [9, "サンシャイン・ベル -inst.-", "", ""],
-    [10, "Giraギャラティック・タイトロープ -inst.-", "", ""],
+    [10, "Giraギャラティック・タイトロープ -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/72922"]
 
@@ -1514,7 +1514,7 @@ date = "2017-12-08"
 album = "プリパラ ULTRA MEGA MIX COLLECTION Vol.2"
 tracks = [
     [1, "ドリームパレード (DJ BOSS 90's Pop Techno Remix)", "ふれんど〜る", ""],
-    [2, "HAPPYぱLUCKY (DJ BOSS LUCKY EUROBEAT Remix)", "SoLaMi♡SMILE", ""],
+    [2, "HAPPYぱLUCKY (DJ BOSS LUCKY EUROBEAT Remix)", "SoLaMi♡SMILE", "0"],
     [3, "絶対生命final show女 (KAZBONGO Zettai Electro Remix)", "東堂シオン", ""],
     [4, "Twin mirror♥compact (Taku Inoue Future Remix)", "ドロシー&レオナ", ""],
     [5, "君100%人生 (NJ zEn HYPER EURO RAVE Remix)", "北条コスモ", ""],
@@ -1543,7 +1543,7 @@ tracks = [
     [7, "鉄腕ガール", "i☆Ris", ""],
     [8, "Vampire Lady", "i☆Ris", ""],
     [9, "Fanfare", "i☆Ris", ""],
-    [10, "Goin’on", "i☆Ris", ""],
+    [10, "Goin’on", "i☆Ris", "0"],
     [11, "Raspberry night", "i☆Ris", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8855971c-35b8-4ab6-92da-f607b07027fb", "https://vgmdb.net/album/58670"]
@@ -1566,10 +1566,10 @@ date = "2018-12-19"
 album = "KING OF PRISM X'mas Winter Eyes/Happy Happy Birthday!"
 tracks = [
     [1, "Winter Eyes", "", ""],
-    [2, "Happy Happy Birthday!", "", ""],
+    [2, "Happy Happy Birthday!", "", "0"],
     [3, "ドラマチックLOVE -X'mas version-", "", ""],
     [4, "Winter Eyes (inst.)", "", ""],
-    [5, "Happy Happy Birthday! (inst.)", "", ""],
+    [5, "Happy Happy Birthday! (inst.)", "", "0"],
     [6, "ドラマチックLOVE -X'mas version- (inst.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/86269"]
@@ -1580,14 +1580,14 @@ date = "2023-03-22"
 album = "ワッチャプリマジ! ミュージックコレクション Vocal"
 tracks = [
     [1, "マジ・ワッチャパレード", "", ""],
-    [2, "Believe", "", ""],
+    [2, "Believe", "", "0"],
     [3, "Starlight!", "", ""],
     [4, "イワナイ", "", ""],
     [5, "こんな世界に告ぐ", "", ""],
     [6, "The Secret Garden", "", ""],
     [7, "ワッチャ！プリーズ！マジック！ -What's your \"Please\" Magic?- (5人ver.)", "", ""],
     [8, "滲む、馨る、", "", ""],
-    [9, "Don't be Afraid", "", ""],
+    [9, "Don't be Afraid", "", "0"],
     [10, "奇跡の降る", "", ""],
     [11, "天頂のコンフィアンサ", "", ""],
     [12, "Sweetness×Darkness", "", ""],
@@ -1595,8 +1595,8 @@ tracks = [
     [14, "ワッチャ！プリーズ！マジック！ -What's your \"Please\" Magic?- (6人ver.)", "", ""],
     [15, "Magical Future", "", ""],
     [16, "チェックワンツー", "", ""],
-    [17, "Dreaming Sound -TV size-", "", ""],
-    [18, "Chasing the dream -TV size-", "", ""],
+    [17, "Dreaming Sound -TV size-", "", "0"],
+    [18, "Chasing the dream -TV size-", "", "0"],
     [19, "Magic×Color -TV size-", "", ""],
 ]
 links = ["https://vgmdb.net/album/125186"]
@@ -1753,17 +1753,17 @@ catalognumber = "EYCA-10144"
 date = "2015-01-14"
 album = "プリティーリズム・スペシャルコンプリートCD BOX Disc 3 [EYCA-10144]"
 tracks = [
-    [1, "Dear My Future! (メインテーマ)", "", ""],
-    [2, "Dear My Future! (メロウ)", "", ""],
-    [3, "Dear My Future! (軽やか)", "", ""],
-    [4, "Dear My Future! (ストリングス)", "", ""],
-    [5, "Dear My Future! (ピアノソロ)", "", ""],
+    [1, "Dear My Future! (メインテーマ)", "", "0"],
+    [2, "Dear My Future! (メロウ)", "", "0"],
+    [3, "Dear My Future! (軽やか)", "", "0"],
+    [4, "Dear My Future! (ストリングス)", "", "0"],
+    [5, "Dear My Future! (ピアノソロ)", "", "0"],
     [6, "Prizmmy☆のテーマ (主題歌アレンジ)", "", ""],
     [7, "失敗連続Prizmmy☆ (主題歌アレンジ)", "", ""],
     [8, "恋するPrizmmy☆ (主題歌アレンジ)", "", ""],
     [9, "切なさPrizmmy☆ (主題歌アレンジ)", "", ""],
     [10, "悲しみPrizmmy☆ (主題歌アレンジ)", "", ""],
-    [11, "It's A Show Time", "", ""],
+    [11, "It's A Show Time", "", "0"],
     [12, "プリズムアクト", "", ""],
     [13, "みあのテーマ(きどあいらっく・みあ)", "", ""],
     [14, "猪突猛進みあ", "", ""],
@@ -1782,7 +1782,7 @@ tracks = [
     [27, "めが姉ぇ空間", "", ""],
     [28, "心もコーデ", "", ""],
     [29, "銭の花咲く頃", "", ""],
-    [30, "Dear Crown", "", ""],
+    [30, "Dear Crown", "", "0"],
     [31, "グレイトフルシンフォニア序曲～闇の先へ", "", ""],
     [32, "最大の苦難～阿世知欽太郎の怨念", "", ""],
     [33, "ラストアクト～みんなの未来", "", ""],
@@ -1838,7 +1838,7 @@ tracks = [
     [33, "なるとコウジ(公園にて)", "", ""],
     [34, "探偵のように", "", ""],
     [35, "謎の影", "", ""],
-    [36, "DJ.COOのキラデコ・トレーラー", "", ""],
+    [36, "DJ.COOのキラデコ・トレーラー", "", "0"],
     [37, "ヒロとコウジ(ライバル)", "", ""],
     [38, "親子ゲンカ", "", ""],
     [39, "楽しい食卓", "", ""],
@@ -1860,7 +1860,7 @@ tracks = [
     [7, "長引く審査", "", ""],
     [8, "天使のはしご", "", ""],
     [9, "謎の行動", "", ""],
-    [10, "3人でプリズムショー", "", ""],
+    [10, "3人でプリズムショー", "", "0"],
     [11, "高揚感", "", ""],
     [12, "おとはのプリズムライブ特訓", "", ""],
     [13, "友情が生まれる", "", ""],
@@ -1897,21 +1897,21 @@ album = "プリティーリズム・スペシャルコンプリートCD BOX Disc
 tracks = [
     [1, "You May Dream", "", ""],
     [2, "めらめらハートが熱くなる", "", ""],
-    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "", ""],
-    [4, "Dream Goes On", "", ""],
+    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "", "0"],
+    [4, "Dream Goes On", "", "0"],
     [5, "ココロ充電!", "", ""],
     [6, "Switch On My Heart", "", ""],
-    [7, "1/1000永遠の美学", "", ""],
+    [7, "1/1000永遠の美学", "", "0"],
     [8, "We Will Win! -ココロのバトンでポ・ポンのポ～ン☆-", "", ""],
-    [9, "Hop!Step!!Jump!!!", "", ""],
+    [9, "Hop!Step!!Jump!!!", "MARs", "1"],
     [10, "Never Let Me Down ～がんばりやぁ!～", "", ""],
     [11, "愛しのティンカーベル", "", ""],
-    [12, "1000%キュンキュンさせてよ♡", "", ""],
+    [12, "1000%キュンキュンさせてよ♡", "", "0"],
     [13, "プリティーリズムでGo!", "", ""],
     [14, "Shall We Go?!", "", ""],
-    [15, "Don't Give Up", "", ""],
+    [15, "Don't Give Up", "", "0"],
     [16, "Wonderful World", "", ""],
-    [17, "Everybody's Gonna Be Happy [TVサイズ]", "", ""],
+    [17, "Everybody's Gonna Be Happy [TVサイズ]", "", "0"],
 ]
 links = ["https://vgmdb.net/album/82289"]
 
@@ -1920,18 +1920,18 @@ catalognumber = "EYCA-10148"
 date = "2015-01-14"
 album = "プリティーリズム・スペシャルコンプリートCD BOX Disc 7 [EYCA-10148]"
 tracks = [
-    [1, "Dear My Future ～未来の自分へ～", "", ""],
+    [1, "Dear My Future ～未来の自分へ～", "", "0"],
     [2, "my Transform", "", ""],
-    [3, "BRAND NEW WORLD!!", "", ""],
+    [3, "BRAND NEW WORLD!!", "", "0"],
     [4, "チェキ☆ラブ", "", ""],
-    [5, "Life is Just a Miracle ～生きているって素晴らしい～", "", ""],
-    [6, "Body Rock", "", ""],
+    [5, "Life is Just a Miracle ～生きているって素晴らしい～", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", "1"],
+    [6, "Body Rock", "", "0"],
     [7, "パンピナッ!", "", ""],
     [8, "シュワシュワBABY", "", ""],
     [9, "サンキュッ!!", "", ""],
     [10, "Mirage JET", "", ""],
-    [11, "cheer! yeah!×2", "", ""],
-    [12, "LOVE♡MIX", "", ""],
+    [11, "cheer! yeah!×2", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", "1"],
+    [12, "LOVE♡MIX", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", "0"],
     [13, "よいなかそ♪", "", ""],
     [14, "Que sera", "", ""],
 ]
@@ -1943,22 +1943,22 @@ date = "2015-01-14"
 album = "プリティーリズム・スペシャルコンプリートCD BOX Disc 8 [EYCA-10149]"
 tracks = [
     [1, "ハート♡イロ♡トリドリ～ム", "", ""],
-    [2, "BT37.5", "", ""],
+    [2, "BT37.5", "", "0"],
     [3, "Sweet time Cooking magic ～胸ペコなんです私って～", "", ""],
-    [4, "Get music!", "", ""],
+    [4, "Get music!", "", "0"],
     [5, "Vanity♡colon", "", ""],
-    [6, "Blowin' in the Mind", "", ""],
-    [7, "gift", "", ""],
+    [6, "Blowin' in the Mind", "", "0"],
+    [7, "gift", "", "0"],
     [8, "nth color", "", ""],
     [9, "Reboot", "", ""],
     [10, "pride", "", ""],
-    [11, "FREEDOM", "", ""],
-    [12, "EZ DO DANCE -DJ.COO ver.-", "", ""],
+    [11, "FREEDOM", "", "0"],
+    [12, "EZ DO DANCE -DJ.COO ver.-", "", "0"],
     [13, "Rosette Nebula", "", ""],
     [14, "どしゃぶりHAPPY!", "", ""],
-    [15, "cherry-picking days", "", ""],
-    [16, "ALIVE -TV mix ver.-", "", ""],
-    [17, "Little Wing & Beautiful Pride", "", ""],
+    [15, "cherry-picking days", "福原あん＆森園わかな(CV.芹澤優＆内田真礼)", "1"],
+    [16, "ALIVE -TV mix ver.-", "涼野いと＆小鳥遊おとは(CV.小松未可子＆後藤沙緒里)", "1"],
+    [17, "Little Wing & Beautiful Pride", "彩瀬なる＆蓮城寺べる(CV.加藤英美里＆戸松 遥)", "0"],
     [18, "SEVENDAYS LOVE,SEVENDAYS FRIEND", "", ""],
 ]
 links = ["https://vgmdb.net/album/82289"]
@@ -1968,13 +1968,13 @@ catalognumber = "EYCA-10150"
 date = "2015-01-14"
 album = "プリティーリズム・スペシャルコンプリートCD BOX Disc 9 [EYCA-10150]"
 tracks = [
-    [1, "BOY MEETS GIRL", "", ""],
-    [2, "EZ DO DANCE", "", ""],
-    [3, "CRAZY GONNA CRAZY", "", ""],
-    [4, "Butterfly Effect", "", ""],
+    [1, "BOY MEETS GIRL", "", "0"],
+    [2, "EZ DO DANCE", "", "0"],
+    [3, "CRAZY GONNA CRAZY", "", "0"],
+    [4, "Butterfly Effect", "", "0"],
     [5, "RainBow×RainBow", "", ""],
     [6, "§RainBow", "", ""],
-    [7, "I Wannabee myself ～自分らしくいたい!～", "", ""],
+    [7, "I Wannabee myself ～自分らしくいたい!～", "Happy Rain♪", "1"],
     [8, "ハッピースター☆レストラン", "", ""],
     [9, "なる・ジャンプ (ギター)", "", ""],
     [10, "いと・ジャンプ (キーボード)", "", ""],
@@ -2000,13 +2000,13 @@ catalognumber = "EYCA-10151"
 date = "2015-01-14"
 album = "プリティーリズム・スペシャルコンプリートCD BOX Disc 10 [EYCA-10151]"
 tracks = [
-    [1, "BOY MEETS GIRL", "", ""],
-    [2, "athletic core", "", ""],
+    [1, "BOY MEETS GIRL", "", "0"],
+    [2, "athletic core", "", "0"],
     [3, "ハート♡イロ♡トリドリ～ム ～LIVE in クリスマス2014ver.～", "", ""],
     [4, "ハピなる音頭", "", ""],
-    [5, "FreeDreamin'", "", ""],
+    [5, "FreeDreamin'", "", "0"],
     [6, "と・き・め・きDays", "", ""],
-    [7, "Are You Ready?", "", ""],
+    [7, "Are You Ready?", "", "0"],
     [8, "オトメパズル ～恋するEVERYDAY～", "", ""],
     [9, "Shooting STAR", "", ""],
     [10, "StarLight☆HeartBeat", "", ""],
@@ -2033,7 +2033,7 @@ tracks = [
     [12, "TRIal HEART〜恋の違反チケット〜", "南みれぃ", ""],
     [13, "ぷりぱら☆ララン", "スーパープリパラ☆オールアイドル's", ""],
     [14, "プリパラ☆ダンシング！！！", "らぁら & ガァルル", ""],
-    [15, "Just be yourself", "わーすた", ""],
+    [15, "Just be yourself", "わーすた", "0"],
     [16, "Red Flash Revolution", "北条そふぃ", ""],
     [17, "Neo Dimentsion Go!!", "Tricolore", ""],
     [18, "TRIal HEART〜恋の違反チケット〜", "南みれぃ", ""],
@@ -2046,9 +2046,9 @@ catalognumber = "EYCA-10002/B"
 date = "2014-09-17"
 album = "Jumpin'! Dancin'! / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "Jumpin'! Dancin'!", "", ""],
+    [1, "Jumpin'! Dancin'!", "Prizmmy☆", "0"],
     [2, "ワンダ!!!!", "", ""],
-    [3, "Jumpin'! Dancin'! (inst.)", "", ""],
+    [3, "Jumpin'! Dancin'! (inst.)", "Prizmmy☆", "0"],
     [4, "ワンダ!!!! (inst.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/47459"]
@@ -2058,9 +2058,9 @@ catalognumber = "EYCA-10002/B"
 date = "2014-09-17"
 album = "Jumpin'! Dancin'! / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "Jumpin'! Dancin'! ミュージックビデオ", "", ""],
-    [2, "Jumpin'! Dancin'! ダンスマスターVer.", "", ""],
-    [3, "Jumpin'! Dancin'! TVサイズVer.", "", ""],
+    [1, "Jumpin'! Dancin'! ミュージックビデオ", "Prizmmy☆", "0"],
+    [2, "Jumpin'! Dancin'! ダンスマスターVer.", "Prizmmy☆", "0"],
+    [3, "Jumpin'! Dancin'! TVサイズVer.", "Prizmmy☆", "0"],
 ]
 links = ["https://vgmdb.net/album/47459"]
 
@@ -2069,13 +2069,13 @@ catalognumber = "EYCA-10788/B"
 date = "2016-02-24"
 album = "LOVE TROOPER / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "LOVE TROOPER", "Prizmmy☆", ""],
+    [1, "LOVE TROOPER", "Prizmmy☆", "1"],
     [2, "UNITE", "Prizmmy☆", ""],
     [3, "NEO UNIVERSE", "Prizmmy☆", ""],
     [4, "きゅるりらきゅりら", "MIA＆HINA", ""],
     [5, "全身全霊GO MY WAY", "プリズム☆メイツ", ""],
-    [6, "LOVE TROOPER TV size", "Prizmmy☆", ""],
-    [7, "LOVE TROOPER inst.", "Prizmmy☆", ""],
+    [6, "LOVE TROOPER TV size", "Prizmmy☆", "0"],
+    [7, "LOVE TROOPER inst.", "Prizmmy☆", "0"],
     [8, "UNITE inst.", "Prizmmy☆", ""],
     [9, "NEO UNIVERSE inst.", "Prizmmy☆", ""],
     [10, "きゅるりらきゅりら inst.", "MIA＆HINA", ""],
@@ -2098,7 +2098,7 @@ date = "2017-12-15"
 album = "プリパラ ULTRA MEGA MIX COLLECTION Vol.2 (DJ COLLECTION)"
 tracks = [
     [1, "ドリームパレード (DJ BOSS 90's Pop Techno Remix)", "", ""],
-    [2, "HAPPYぱLUCKY (DJ BOSS LUCKY EUROBEAT Remix)", "", ""],
+    [2, "HAPPYぱLUCKY (DJ BOSS LUCKY EUROBEAT Remix)", "", "0"],
     [3, "絶対生命final show女 (KAZBONGO Zettai Electro Remix)", "", ""],
     [4, "Twin mirror♥compact (Taku Inoue Future Remix)", "", ""],
     [5, "君100%人生 (NJ zEn HYPER EURO RAVE Remix)", "", ""],
@@ -2119,22 +2119,22 @@ date = "2014-04-23"
 album = "プリティーリズム・レインボーライブ プリズム☆ミュージックコレクションDX Original Soundtrack Disc 1"
 tracks = [
     [1, "ハート♥イロ♥トリドリ～ム", "", ""],
-    [2, "BT37.5", "", ""],
+    [2, "BT37.5", "", "0"],
     [3, "Sweet time Cooking magic ～胸ペコなんです私って～", "", ""],
-    [4, "Get music!", "", ""],
+    [4, "Get music!", "", "0"],
     [5, "Vanity♥colon", "", ""],
-    [6, "Blowin' in the Mind", "", ""],
-    [7, "gift", "", ""],
+    [6, "Blowin' in the Mind", "", "0"],
+    [7, "gift", "", "0"],
     [8, "nth color", "", ""],
     [9, "Reboot", "", ""],
     [10, "pride", "", ""],
-    [11, "FREEDOM", "", ""],
-    [12, "EZ DO DANCE -DJ.COO ver.-", "", ""],
+    [11, "FREEDOM", "", "0"],
+    [12, "EZ DO DANCE -DJ.COO ver.-", "", "0"],
     [13, "Rosette Nebula", "", ""],
     [14, "どしゃぶりHAPPY!", "", ""],
-    [15, "cherry-picking days", "", ""],
-    [16, "ALIVE -TV mix ver.-", "", ""],
-    [17, "Little Wing & Beautiful Pride", "", ""],
+    [15, "cherry-picking days", "福原あん＆森園わかな(CV.芹澤優＆内田真礼)", "0"],
+    [16, "ALIVE -TV mix ver.-", "", "0"],
+    [17, "Little Wing & Beautiful Pride", "", "0"],
     [18, "SEVENDAYS LOVE, SEVENDAYS FRIEND", "", ""],
 ]
 links = ["https://vgmdb.net/album/44344"]
@@ -2166,7 +2166,7 @@ tracks = [
     [20, "華やかなディアクラウン", "", ""],
     [21, "困った事態", "", ""],
     [22, "大盛況のプリズムストーン", "", ""],
-    [23, "DJ.COOのキラデコ・トレーラー", "", ""],
+    [23, "DJ.COOのキラデコ・トレーラー", "", "0"],
     [24, "想い出のピアノ", "", ""],
     [25, "仲直り", "", ""],
     [26, "言いがかり", "", ""],
@@ -2192,21 +2192,21 @@ catalognumber = "AVCA-74279~80/B"
 date = "2014-04-23"
 album = "プリティーリズム・レインボーライブ プリズム☆ミュージックコレクションDX Video"
 tracks = [
-    [1, "BOY MEETS GIRL (ノンテロップOP)", "", ""],
-    [2, "EZ DO DANCE (ノンテロップOP)", "", ""],
-    [3, "CRAZY GONNA CRAZY (ノンテロップOP)", "", ""],
-    [4, "Butterfly Effect (ノンテロップOP)", "", ""],
+    [1, "BOY MEETS GIRL (ノンテロップOP)", "", "0"],
+    [2, "EZ DO DANCE (ノンテロップOP)", "", "0"],
+    [3, "CRAZY GONNA CRAZY (ノンテロップOP)", "", "0"],
+    [4, "Butterfly Effect (ノンテロップOP)", "", "0"],
     [5, "RainBow×RainBow (ノンテロップED)", "", ""],
     [6, "§Rainbow (ノンテロップED)", "", ""],
-    [7, "I wannnabee myself (ノンテロップED)", "", ""],
+    [7, "I wannnabee myself (ノンテロップED)", "", "0"],
     [8, "ハッピースター☆レストラン (ノンテロップED)", "", ""],
     [9, "ハート♥イロ♥トリドリ～ム (プリズムショースペシャルムービー)", "", ""],
-    [10, "BT37.5 (プリズムショースペシャルムービー)", "", ""],
+    [10, "BT37.5 (プリズムショースペシャルムービー)", "", "0"],
     [11, "Sweet time Cooking Magic (プリズムショースペシャルムービー)", "", ""],
-    [12, "Get music! (プリズムショースペシャルムービー)", "", ""],
+    [12, "Get music! (プリズムショースペシャルムービー)", "", "0"],
     [13, "Vanity♥Colon (プリズムショースペシャルムービー)", "", ""],
-    [14, "Blowin' in the Mind (プリズムショースペシャルムービー)", "", ""],
-    [15, "gift (プリズムショースペシャルムービー)", "", ""],
+    [14, "Blowin' in the Mind (プリズムショースペシャルムービー)", "", "0"],
+    [15, "gift (プリズムショースペシャルムービー)", "", "0"],
     [16, "nth color (プリズムショースペシャルムービー)", "", ""],
     [17, "Rosette Nebula (プリズムショースペシャルムービー)", "", ""],
     [18, "どしゃぶりHAPPY! (プリズムショービデオ)", "", ""],
@@ -2241,7 +2241,7 @@ tracks = [
     [7, "鉄腕ガール", "i☆Ris", ""],
     [8, "Vampire Lady", "i☆Ris", ""],
     [9, "Fanfare", "i☆Ris", ""],
-    [10, "Goin’on", "i☆Ris", ""],
+    [10, "Goin’on", "i☆Ris", "0"],
     [11, "Raspberry night", "i☆Ris", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/3edabb1e-14c8-4b15-a1e0-00729a54675c", "https://vgmdb.net/album/136742"]
@@ -2325,19 +2325,19 @@ tracks = [
     [2, "太陽のflare sherbet", "", ""],
     [3, "Pretty Prism Paradise!!!", "", ""],
     [4, "No D&D code", "", ""],
-    [5, "CHANGE! MY WORLD", "", ""],
-    [6, "HAPPYぱLUCKY", "", ""],
-    [7, "0-week-old", "", ""],
+    [5, "CHANGE! MY WORLD", "", "0"],
+    [6, "HAPPYぱLUCKY", "", "0"],
+    [7, "0-week-old", "", "0"],
     [8, "君100%人生", "", ""],
-    [9, "Love friend style", "", ""],
+    [9, "Love friend style", "", "0"],
     [10, "Realize! -SoLaMiDressing ver.-", "", ""],
     [11, "Make it! -SoLaMiDressing&Falulu ver.-", "", ""],
     [12, "Make it! -TV size-", "", ""],
     [13, "ミラクル☆パラダイス -TV size-", "", ""],
     [14, "Realize! -TV size-", "", ""],
-    [15, "Jumpin'! Dancin'! -TV size-", "", ""],
+    [15, "Jumpin'! Dancin'! -TV size-", "Prizmmy☆", "0"],
     [16, "キラキランウェイ☆ -TV size-", "", ""],
-    [17, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ -TV size-", "", ""],
+    [17, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ -TV size-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/51840"]
 
@@ -2448,12 +2448,12 @@ tracks = [
     [2, "快打洗心♡カッキンBUDDY", "", ""],
     [3, "Miss.プリオネア", "", ""],
     [4, "サンシャイン・ベル", "", ""],
-    [5, "Giraギャラティック・タイトロープ", "", ""],
+    [5, "Giraギャラティック・タイトロープ", "", "0"],
     [6, "ハートフル♡ドリーム -inst.-", "", ""],
     [7, "快打洗心♡カッキンBUDDY -inst.-", "", ""],
     [8, "Miss.プリオネア -inst.-", "", ""],
     [9, "サンシャイン・ベル -inst.-", "", ""],
-    [10, "Giraギャラティック・タイトロープ -inst.-", "", ""],
+    [10, "Giraギャラティック・タイトロープ -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/72923"]
 
@@ -2462,11 +2462,11 @@ catalognumber = "EYCA-11670/B"
 date = "2017-12-06"
 album = "アイドルタイムプリパラ♪ソングコレクション ～ゆめペコおかわり！～DX Video"
 tracks = [
-    [1, "GOスト♭コースター", "", ""],
+    [1, "GOスト♭コースター", "", "0"],
     [2, "快打洗心♡カッキンBUDDY", "", ""],
     [3, "Miss.プリオネア", "", ""],
     [4, "サンシャイン・ベル", "", ""],
-    [5, "Giraギャラティック・タイトロープ", "", ""],
+    [5, "Giraギャラティック・タイトロープ", "", "0"],
 ]
 links = ["https://vgmdb.net/album/72923"]
 
@@ -2487,10 +2487,10 @@ catalognumber = "AVCA-62020/B"
 date = "2012-11-21"
 album = "Body Rock / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "Body Rock", "", ""],
-    [2, "Best Friend", "", ""],
-    [3, "Body Rock (inst.)", "", ""],
-    [4, "Best Friend (inst.)", "", ""],
+    [1, "Body Rock", "", "0"],
+    [2, "Best Friend", "Prizmmy☆", "0"],
+    [3, "Body Rock (inst.)", "", "0"],
+    [4, "Best Friend (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44341"]
 
@@ -2499,9 +2499,9 @@ catalognumber = "AVCA-62020/B"
 date = "2012-11-21"
 album = "Body Rock / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "Body Rock (ミュージッククリップ)", "", ""],
-    [2, "Body Rock (TVサイズVer.)", "", ""],
-    [3, "Body Rock (ダンスマスターVer.)", "", ""],
+    [1, "Body Rock (ミュージッククリップ)", "", "0"],
+    [2, "Body Rock (TVサイズVer.)", "", "0"],
+    [3, "Body Rock (ダンスマスターVer.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44341"]
 
@@ -2514,7 +2514,7 @@ tracks = [
     [2, "コーデチェンジ", "", ""],
     [3, "パルプスの少女ふわり", "", ""],
     [4, "コノウタトマレイヒ", "", ""],
-    [5, "0-week-old", "", ""],
+    [5, "0-week-old", "", "0"],
     [6, "ワルツ「まずは赤の他人から」 (パニックラビリンス + 純・アモーレ・愛)", "", ""],
     [7, "プリパラ☆ダンシング!!!", "", ""],
 ]
@@ -2528,20 +2528,20 @@ tracks = [
     [1, "チクタク・Magicaる・アイドルタイム！", "", ""],
     [2, "ブランニュー・ハピネス！", "", ""],
     [3, "あっちゃこっちゃゲーム", "", ""],
-    [4, "GOスト♭コースター", "", ""],
+    [4, "GOスト♭コースター", "", "0"],
     [5, "快打洗心♡カッキンBUDDY", "", ""],
     [6, "Miss.プリオネア", "", ""],
-    [7, "Dear My Future ～未来の自分へ～", "", ""],
+    [7, "Dear My Future ～未来の自分へ～", "", "0"],
     [8, "サンシャイン・ベル", "", ""],
     [9, "すた～らいとカーニバル☆", "", ""],
     [10, "リンリン♪がぁらふぁらんど", "", ""],
     [11, "チクタク・Magicaる・アイドルタイム！", "", ""],
-    [12, "Giraギャラティック・タイトロープ", "", ""],
-    [13, "Get Over Dress-code", "", ""],
+    [12, "Giraギャラティック・タイトロープ", "", "0"],
+    [13, "Get Over Dress-code", "", "0"],
     [14, "チクタク・Magicaる・アイドルタイム！ -WITH Ver.-", "", ""],
-    [15, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", ""],
+    [15, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", "0"],
     [16, "Memorial", "", ""],
-    [17, "Believe My DREAM!", "", ""],
+    [17, "Believe My DREAM!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/76866"]
 
@@ -2550,7 +2550,7 @@ catalognumber = "EYCA-11672~3/B"
 date = "2018-06-27"
 album = "アイドルタイムプリパラ☆ミュージックコレクション DX Original Soundtrack, Vocal"
 tracks = [
-    [1, "Just be yourself -TV size-", "", ""],
+    [1, "Just be yourself -TV size-", "", "0"],
     [2, "最上級ぱらどっくす -TV size-", "", ""],
     [3, "Memorial -TV size-", "", ""],
     [4, "アイドル：タイム!! -TV size-", "", ""],
@@ -2598,7 +2598,7 @@ catalognumber = "EYCA-11672~3/B"
 date = "2018-06-27"
 album = "アイドルタイムプリパラ☆ミュージックコレクション DX Video"
 tracks = [
-    [1, "Just be yourself", "", ""],
+    [1, "Just be yourself", "", "0"],
     [2, "最上級ぱらどっくす", "", ""],
     [3, "Memorial", "", ""],
     [4, "アイドル：タイム!! -#13 Ver.-", "", ""],
@@ -2608,19 +2608,19 @@ tracks = [
     [8, "チクタク・Magicaる・アイドルタイム！", "", ""],
     [9, "ブランニュー・ハピネス！", "", ""],
     [10, "あっちゃこっちゃゲーム", "", ""],
-    [11, "GOスト♭コースター", "", ""],
+    [11, "GOスト♭コースター", "", "0"],
     [12, "快打洗心♡カッキンBUDDY", "", ""],
     [13, "Miss.プリオネア", "", ""],
-    [14, "Dear My Future ～未来の自分へ～", "", ""],
+    [14, "Dear My Future ～未来の自分へ～", "", "0"],
     [15, "サンシャイン・ベル", "", ""],
     [16, "すた～らいとカーニバル☆", "", ""],
     [17, "リンリン♪がぁらふぁらんど", "", ""],
-    [18, "Giraギャラティック・タイトロープ", "", ""],
-    [19, "Get Over Dress-code", "", ""],
+    [18, "Giraギャラティック・タイトロープ", "", "0"],
+    [19, "Get Over Dress-code", "", "0"],
     [20, "チクタク・Magicaる・アイドルタイム！ -WITH Ver.-", "", ""],
-    [21, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", ""],
+    [21, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", "0"],
     [22, "Memorial", "", ""],
-    [23, "Believe My DREAM!", "", ""],
+    [23, "Believe My DREAM!", "", "0"],
 ]
 links = ["https://vgmdb.net/album/76866"]
 
@@ -2632,14 +2632,14 @@ tracks = [
     [1, "コウジのあいさつ", "", ""],
     [2, "Reboot", "", ""],
     [3, "カヅキのあいさつ", "", ""],
-    [4, "FREEDOM", "", ""],
+    [4, "FREEDOM", "", "0"],
     [5, "ヒロのあいさつ", "", ""],
     [6, "pride", "", ""],
-    [7, "BOY MEETS GIRL -Prism Boys ver.-", "", ""],
+    [7, "BOY MEETS GIRL -Prism Boys ver.-", "", "0"],
     [8, "Reboot (inst.)", "", ""],
-    [9, "FREEDOM (inst.)", "", ""],
+    [9, "FREEDOM (inst.)", "", "0"],
     [10, "pride (inst.)", "", ""],
-    [11, "BOY MEETS GIRL -Prism Boys ver.- (inst.)", "", ""],
+    [11, "BOY MEETS GIRL -Prism Boys ver.- (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44414"]
 
@@ -2658,11 +2658,11 @@ date = "2022-07-20"
 album = "TVアニメ『ワッチャプリマジ!』キャラクターソングミニアルバム PUMPING WACCHA! 03"
 tracks = [
     [1, "滲む、馨る、", "", ""],
-    [2, "Don't be Afraid", "", ""],
+    [2, "Don't be Afraid", "", "0"],
     [3, "奇跡の降る", "", ""],
     [4, "チェックワンツー", "", ""],
     [5, "滲む、馨る、 -inst.-", "", ""],
-    [6, "Don't be Afraid -inst.-", "", ""],
+    [6, "Don't be Afraid -inst.-", "", "0"],
     [7, "奇跡の降る -inst.-", "", ""],
     [8, "チェックワンツー -inst.-", "", ""],
 ]
@@ -2685,9 +2685,9 @@ catalognumber = "AVCA-62529/B"
 date = "2013-07-24"
 album = "EZ DO DANCE / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "EZ DO DANCE", "Prizmmy☆", ""],
+    [1, "EZ DO DANCE", "Prizmmy☆", "0"],
     [2, "パーリィー☆パーリィー", "Prizmmy☆", ""],
-    [3, "EZ DO DANCE (inst.)", "Prizmmy☆", ""],
+    [3, "EZ DO DANCE (inst.)", "Prizmmy☆", "0"],
     [4, "パーリィー☆パーリィー (inst.)", "Prizmmy☆", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/b1e79a86-c63d-4f87-80b2-512583fa59a7", "https://vgmdb.net/album/44345"]
@@ -2697,8 +2697,8 @@ catalognumber = "AVCA-62529/B"
 date = "2013-07-24"
 album = "EZ DO DANCE / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "EZ DO DANCE ミュージッククリップ", "Prizmmy☆", ""],
-    [2, "EZ DO DANCE ダンスマスターver.", "Prizmmy☆", ""],
+    [1, "EZ DO DANCE ミュージッククリップ", "Prizmmy☆", "0"],
+    [2, "EZ DO DANCE ダンスマスターver.", "Prizmmy☆", "0"],
     [3, "Prizmmy☆ Let’s! Dance! EZ DO DANCE!!", "Prizmmy☆", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/b1e79a86-c63d-4f87-80b2-512583fa59a7", "https://vgmdb.net/album/44345"]
@@ -2719,11 +2719,11 @@ catalognumber = "AVCD-39355/B"
 date = "2017-04-19"
 album = "Just be yourself / わーすた(The World Standard) Disc 1 (CD)"
 tracks = [
-    [1, "Just be yourself", "わーすた", ""],
+    [1, "Just be yourself", "わーすた", "1"],
     [2, "NEW にゃーくにゃくにゃ水族館2", "わーすた", ""],
     [3, "約束だから", "わーすた", ""],
     [4, "いぬねこ。青春真っ盛り", "わーすた", ""],
-    [5, "Just be yourself (Instrumental)", "わーすた", ""],
+    [5, "Just be yourself (Instrumental)", "わーすた", "0"],
     [6, "NEW にゃーくにゃくにゃ水族館2 (Instrumental)", "わーすた", ""],
     [7, "約束だから (Instrumental)", "わーすた", ""],
     [8, "いぬねこ。青春真っ盛り (Instrumental)", "わーすた", ""],
@@ -2735,7 +2735,7 @@ catalognumber = "AVCD-39355/B"
 date = "2017-04-19"
 album = "Just be yourself / わーすた(The World Standard) Disc 2 (Blu-ray)"
 tracks = [
-    [1, "Just be yourself (MUSIC VIDEO)", "わーすた", ""],
+    [1, "Just be yourself (MUSIC VIDEO)", "わーすた", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a3ec7f25-7e00-47df-b778-c0f2c0dd4704", "https://vgmdb.net/album/66204"]
 
@@ -2840,10 +2840,10 @@ album = "Ready Smile!! / i☆Ris"
 tracks = [
     [1, "Ready Smile!!", "i☆Ris", ""],
     [2, "trust", "i☆Ris", ""],
-    [3, "Garnet", "i☆Ris", ""],
+    [3, "Garnet", "i☆Ris", "0"],
     [4, "Ready Smile!!（Instrumental）", "i☆Ris", ""],
     [5, "trust （Instrumental）", "i☆Ris", ""],
-    [6, "Garnet （Instrumental）", "i☆Ris", ""],
+    [6, "Garnet （Instrumental）", "i☆Ris", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/76b0aaed-0e25-486e-a81b-0d35fb99e757", "https://vgmdb.net/album/57864"]
 
@@ -2934,7 +2934,7 @@ date = "2017-10-18"
 album = "最上級ぱらどっくす / わーすた(The World Standard)"
 tracks = [
     [1, "最上級ぱらどっくす", "わーすた", ""],
-    [2, "GOGO!プリパライフ", "わーすた", ""],
+    [2, "GOGO!プリパライフ", "わーすた", "0"],
     [3, "ハロハロフレンズ", "わーすた", ""],
     [4, "最上級ぱらどっくす (KARAOKE)", "わーすた", ""],
 ]
@@ -3041,11 +3041,11 @@ album = "キラッとプリ☆チャン♪ソングコレクション～2ndチ�
 tracks = [
     [1, "キラリ覚醒☆リインカネーション", "りんか(CV.厚木那奈美)", ""],
     [2, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [4, "フォーチュン・カラット", "アンジュ(CV.三森すずこ)", ""],
     [5, "キラリ覚醒☆リインカネーション -inst.-", "りんか(CV.厚木那奈美)", ""],
     [6, "SUPER CUTIE SUPER GIRL -inst.-", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [7, "COMETIC SILHOUETTE -inst.-", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [7, "COMETIC SILHOUETTE -inst.-", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [8, "フォーチュン・カラット -inst.-", "白鳥アンジュ(CV.三森すずこ)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/cc9096e4-1dc5-4a94-9fcd-4dd0dc3051d3", "https://vgmdb.net/album/81877"]
@@ -3057,13 +3057,13 @@ album = "WELCOME TO DREAM / わーすた(The World Standard)"
 tracks = [
     [1, "WELCOME TO DREAM", "", ""],
     [2, "最上級ぱらどっくす", "", ""],
-    [3, "Just be yourself", "", ""],
+    [3, "Just be yourself", "", "0"],
     [4, "WELCOME TO DREAM (Instrumental)", "", ""],
     [5, "最上級ぱらどっくす (Instrumental)", "", ""],
-    [6, "Just be yourself (Instrumental)", "", ""],
+    [6, "Just be yourself (Instrumental)", "", "0"],
     [7, "WELCOME TO DERAM (KARAOKE)", "", ""],
     [8, "最上級ぱらどっくす (KARAOKE)", "", ""],
-    [9, "Just be yourself (KARAOKE)", "", ""],
+    [9, "Just be yourself (KARAOKE)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/74480"]
 
@@ -3076,12 +3076,12 @@ tracks = [
     [2, "ヨ・キエロ・ビビール", "わーすた", ""],
     [3, "デデスパボン！", "わーすた", ""],
     [4, "やーだー", "わーすた", ""],
-    [5, "KIRA KIRA ホログラム", "わーすた", ""],
+    [5, "KIRA KIRA ホログラム", "わーすた", "0"],
     [6, "大志を抱け！カルビアンビシャス！ (Instrumental)", "わーすた", ""],
     [7, "ヨ・キエロ・ビビール (Instrumental)", "わーすた", ""],
     [8, "デデスパボン！ (Instrumental)", "わーすた", ""],
     [9, "やーだー (Instrumental)", "わーすた", ""],
-    [10, "KIRA KIRA ホログラム (Instrumental)", "わーすた", ""],
+    [10, "KIRA KIRA ホログラム (Instrumental)", "わーすた", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cc593912-51d6-42ac-a993-82185cc44d36", "https://vgmdb.net/album/81358"]
 
@@ -3135,11 +3135,11 @@ catalognumber = "EYCA-11110"
 date = "2016-09-30"
 album = "Brand New Dreamer / らぁら＆じゅのん＆ぴのん＆かのん (cv.茜屋日海夏＆田中美海)"
 tracks = [
-    [1, "Brand New Dreamer (らぁら×トライアングル)", "", ""],
-    [2, "Brand New Dreamer (らぁら×じゅのん)", "", ""],
-    [3, "Brand New Dreamer (らぁら×ぴのん)", "", ""],
-    [4, "Brand New Dreamer (らぁら×かのん)", "", ""],
-    [5, "Brand New Dreamer (Instrumental)", "", ""],
+    [1, "Brand New Dreamer (らぁら×トライアングル)", "らぁら×トライアングル(cv.茜屋日海夏＆田中美海)", "1"],
+    [2, "Brand New Dreamer (らぁら×じゅのん)", "らぁら×じゅのん(cv.茜屋日海夏＆田中美海)", "0"],
+    [3, "Brand New Dreamer (らぁら×ぴのん)", "らぁら×ぴのん(cv.茜屋日海夏＆田中美海)", "0"],
+    [4, "Brand New Dreamer (らぁら×かのん)", "らぁら×かのん(cv.茜屋日海夏＆田中美海)", "0"],
+    [5, "Brand New Dreamer (Instrumental)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/60098"]
 
@@ -3148,9 +3148,9 @@ catalognumber = "AVCA-49492/B"
 date = "2012-03-16"
 album = "Everybody's Gonna Be Happy / Prizmmy☆ [with DVD] Vocal"
 tracks = [
-    [1, "Everybody's Gonna Be Happy", "", ""],
+    [1, "Everybody's Gonna Be Happy", "", "0"],
     [2, "Popple☆Heart", "", ""],
-    [3, "Everybody's Gonna Be Happy (inst.)", "", ""],
+    [3, "Everybody's Gonna Be Happy (inst.)", "", "0"],
     [4, "Popple☆Heart (inst.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/44320"]
@@ -3160,9 +3160,9 @@ catalognumber = "AVCA-49492/B"
 date = "2012-03-16"
 album = "Everybody's Gonna Be Happy / Prizmmy☆ [with DVD] Video"
 tracks = [
-    [1, "Everybody's Gonna Be Happy (ミュージッククリップ)", "", ""],
-    [2, "Everybody's Gonna Be Happy (TVサイズVer.)", "", ""],
-    [3, "Everybody's Gonna Be Happy (ダンスマスターVer.)", "", ""],
+    [1, "Everybody's Gonna Be Happy (ミュージッククリップ)", "", "0"],
+    [2, "Everybody's Gonna Be Happy (TVサイズVer.)", "", "0"],
+    [3, "Everybody's Gonna Be Happy (ダンスマスターVer.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44320"]
 
@@ -3171,10 +3171,10 @@ catalognumber = "EYCA-10798/B"
 date = "2016-02-17"
 album = "Goin'on / i☆Ris [CD+DVD] Disc 1 (CD)"
 tracks = [
-    [1, "Goin'on", "", ""],
-    [2, "Baby...", "", ""],
-    [3, "Goin'on (Instrumental)", "", ""],
-    [4, "Baby... (Instrumental)", "", ""],
+    [1, "Goin'on", "", "0"],
+    [2, "Baby...", "", "0"],
+    [3, "Goin'on (Instrumental)", "", "0"],
+    [4, "Baby... (Instrumental)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/56029"]
 
@@ -3183,8 +3183,8 @@ catalognumber = "EYCA-10798/B"
 date = "2016-02-17"
 album = "Goin'on / i☆Ris [CD+DVD] Disc 2 (DVD)"
 tracks = [
-    [1, "Goin'on -Music Video-", "", ""],
-    [2, "Goin'on -Off Shot Movie- DVD", "", ""],
+    [1, "Goin'on -Music Video-", "", "0"],
+    [2, "Goin'on -Off Shot Movie- DVD", "", "0"],
 ]
 links = ["https://vgmdb.net/album/56029"]
 
@@ -3194,9 +3194,9 @@ date = "2019-07-10"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 鷹梁ミナト"
 tracks = [
     [1, "Sailing!", "鷹梁ミナト(cv.五十嵐 雅)", ""],
-    [2, "LEGEND OF WIND", "鷹梁ミナト(cv.五十嵐 雅)", ""],
+    [2, "LEGEND OF WIND", "鷹梁ミナト(cv.五十嵐 雅)", "0"],
     [3, "Sailing! inst.", "鷹梁ミナト(cv.五十嵐 雅)", ""],
-    [4, "LEGEND OF WIND inst.", "鷹梁ミナト(cv.五十嵐 雅)", ""],
+    [4, "LEGEND OF WIND inst.", "鷹梁ミナト(cv.五十嵐 雅)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d7643296-85a9-476a-ac76-06f423586b04", "https://vgmdb.net/album/86260"]
 
@@ -3209,12 +3209,12 @@ tracks = [
     [2, "ヨ・キエロ・ビビール", "わーすた", ""],
     [3, "デデスパボン！", "わーすた", ""],
     [4, "やーだー", "わーすた", ""],
-    [5, "KIRA KIRA ホログラム", "わーすた", ""],
+    [5, "KIRA KIRA ホログラム", "わーすた", "0"],
     [6, "大志を抱け！カルビアンビシャス！ (Instrumental)", "わーすた", ""],
     [7, "ヨ・キエロ・ビビール (Instrumental)", "わーすた", ""],
     [8, "デデスパボン！ (Instrumental)", "わーすた", ""],
     [9, "やーだー (Instrumental)", "わーすた", ""],
-    [10, "KIRA KIRA ホログラム (Instrumental)", "わーすた", ""],
+    [10, "KIRA KIRA ホログラム (Instrumental)", "わーすた", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/25e48e7c-58a7-400b-89a1-4c4e35f35a79", "https://vgmdb.net/album/81357"]
 
@@ -3269,11 +3269,11 @@ tracks = [
     [7, "パニックラビリンス", "あじみ(cv.上田麗奈)", ""],
     [8, "オムオムライス", "コズミックオムライスダ・ヴィンチ", ""],
     [9, "ぱぴぷぺ☆POLICE!", "らぁら(cv.茜屋日海夏)、ドロシー(cv.澁谷梓希)、みかん(cv.渡部優衣)", ""],
-    [10, "0-week-old", "ファルル(cv.赤﨑千夏)", ""],
+    [10, "0-week-old", "ファルル(cv.赤﨑千夏)", "1"],
     [11, "純・アモーレ・愛", "紫京院ひびき(cv.斎賀みつき)", ""],
     [12, "ホワット・ア・ワンダプリ・ワールド!!", "セレパラ歌劇団(cv.斎賀みつき・渡部優衣・山北早紀・久保田未夢・赤﨑千夏)", ""],
     [13, "ヴァーチャデリアイドル", "赤井めが姉ぇ(cv.伊藤かな恵)", ""],
-    [14, "0-week-old -ガァルルver.-", "ガァルル(cv.真田アサミ)", ""],
+    [14, "0-week-old -ガァルルver.-", "ガァルル(cv.真田アサミ)", "0"],
     [15, "ぷりっとぱ〜ふぇくと", "南みれぃ(cv.芹澤優)", ""],
     [16, "Twin mirror compact", "ドロシー・ウェスト&レオナ・ウェスト(cv.澁谷梓希&若井友希)", ""],
     [17, "アラウンド・ザ・プリパランド!", "ふれんど〜る&セレパラ歌劇団(cv.茜屋日海夏&芹澤 優&久保田未夢&山北早紀&澁谷梓希&若井友希&牧野由依&渡部優衣&赤﨑千夏&斎賀みつき)", ""],
@@ -3290,11 +3290,11 @@ album = "プリパラ☆ミュージックコレクション season.2 Disc 2 [EY
 tracks = [
     [1, "ドリームパレード -TV size-", "i☆Ris", ""],
     [2, "ブライトファンタジー -TV size-", "i☆Ris", ""],
-    [3, "Goin'on -TV size-", "i☆Ris", ""],
+    [3, "Goin'on -TV size-", "i☆Ris", "0"],
     [4, "アイドルキンリョク♥Lesson GO! -TV size-", "らぁら with プリズム☆アイドル研究生's", ""],
     [5, "胸キュンLove Song -TV size-", "SUPER☆GiRLS", ""],
     [6, "レインボウ・メロディー♪ -TV size-", "プリパラドリーム☆オールスターズ", ""],
-    [7, "LOVE TROOPER -TV size-", "高橋果鈴", ""],
+    [7, "LOVE TROOPER -TV size-", "高橋果鈴", "0"],
     [8, "プリパラ2メインテーマ", "石塚玲依", ""],
     [9, "黄昏", "石塚玲依", ""],
     [10, "第1変身シーン", "石塚玲依", ""],
@@ -3342,16 +3342,16 @@ tracks = [
     [1, "ブランニュー・ハピネス! (DJ BOSS Hard Trance Remix (Extended Mix))", "らぁら & ゆい (CV. 茜屋日海夏 & 伊達朱里紗)", ""],
     [2, "チクタク・Magicaる・アイドルタイム! (Francisco Gaitan Remix (Extended Mix))", "ゆい (CV. 伊達朱里紗)", ""],
     [3, "あっちゃこっちゃゲーム (DJ BOSS SEB Remix (Extended Mix))", "にの (CV. 大地葉)", ""],
-    [4, "GOスト♭コースター (Y&Co. Dance Mix (Extended Mix))", "みちる (CV. 山田唯菜)", ""],
+    [4, "GOスト♭コースター (Y&Co. Dance Mix (Extended Mix))", "みちる (CV. 山田唯菜)", "0"],
     [5, "Miss.プリオネア (DELACTION Remix (Extended Mix))", "しゅうか (CV. 朝日奈丸佳)", ""],
-    [6, "Giraギャラティック・タイトロープ (DJ BOSS EDM Remix (Extended Mix))", "WITH (CV. 山下誠一郎、小林竜之、土田玲央)", ""],
-    [7, "Dear My Future 〜未来の自分へ〜 (DJ BOSS 90'S Eurobeat Remix (Extended Mix))", "華園みあ (CV. 大久保瑠美)", ""],
+    [6, "Giraギャラティック・タイトロープ (DJ BOSS EDM Remix (Extended Mix))", "WITH (CV. 山下誠一郎、小林竜之、土田玲央)", "0"],
+    [7, "Dear My Future 〜未来の自分へ〜 (DJ BOSS 90'S Eurobeat Remix (Extended Mix))", "華園みあ (CV. 大久保瑠美)", "0"],
     [8, "ハートフル♡ドリーム (DJ Noriken Hardcore Mix (Extended Mix))", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", ""],
     [9, "快打洗心♡カッキンBUDDY (DJ BOSS DISCO STYLE (Extended Mix))", "にの & シオン (CV. 大地葉 & 山北早紀)", ""],
-    [10, "Get Over Dress-code (Blacklolita Bit Future Remix (Extended Mix))", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
+    [10, "Get Over Dress-code (Blacklolita Bit Future Remix (Extended Mix))", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "0"],
     [11, "リンリン♪がぁらふぁらんど (KAZBONGO Drumstep Remix (Extended Mix))", "ファララ & ガァララ (CV. 佐藤あずさ & 黒沢ともよ)", ""],
     [12, "Memorial (Y&Co. Eurobeat Remix (Extended Mix))", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤優・久保田未夢・山北早紀・澁谷梓希・若井友希)", ""],
-    [13, "Believe My DREAM! (DJ Shimamura's Hardcore Rave Mix (Extended Mix))", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", ""],
+    [13, "Believe My DREAM! (DJ Shimamura's Hardcore Rave Mix (Extended Mix))", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/f7b466bd-feb9-44a2-a35f-f9a1df91defa", "https://vgmdb.net/album/95972"]
 
@@ -3360,12 +3360,12 @@ catalognumber = "AVCD-39416/B"
 date = "2018-06-20"
 album = "JUMPING SUMMER / わーすた(The World Standard) Disc 1 (CD) [AVCD-39416]"
 tracks = [
-    [1, "JUMPING SUMMER", "わーすた", ""],
+    [1, "JUMPING SUMMER", "わーすた", "0"],
     [2, "タピオカミルクティー", "わーすた", ""],
     [3, "PLATONIC GIRL", "わーすた", ""],
     [4, "スタンドアロン・コンプレックス", "わーすた", ""],
     [5, "プリティー☆チャンネル", "わーすた", ""],
-    [6, "JUMPING SUMMER（Instrumental）", "わーすた", ""],
+    [6, "JUMPING SUMMER（Instrumental）", "わーすた", "0"],
     [7, "タピオカミルクティー（Instrumental）", "わーすた", ""],
     [8, "PLATONIC GIRL（Instrumental）", "わーすた", ""],
     [9, "スタンドアロン・コンプレックス（Instrumental）", "わーすた", ""],
@@ -3388,12 +3388,12 @@ date = "2016-04-27"
 album = "劇場版KING OF PRISM by PrettyRhythm Song & Soundtrack Vocal, Drama"
 tracks = [
     [1, "ドラマチックLOVE", "一条シン(CV.寺島惇太) & 太刀花ユキノジョウ(CV.斉藤壮馬) & 香賀美タイガ(CV.畠中祐) & 十王院カケル(CV.八代拓) & 鷹梁ミナト(CV.五十嵐雅) & 西園寺レオ(CV.永塚拓馬) & 涼野ユウ(CV.内田雄馬)", ""],
-    [2, "EZ DO DANCE -K.O.P. REMIX-", "仁科カヅキ vs 大和アレクサンダー(CV.増田俊樹・武内駿輔)", ""],
+    [2, "EZ DO DANCE -K.O.P. REMIX-", "仁科カヅキ vs 大和アレクサンダー(CV.増田俊樹・武内駿輔)", "0"],
     [3, "pride -Louis ver.-", "如月ルヰ(CV.蒼井翔太)", ""],
     [4, "Over the Sunshine! -Shin with Over The Rainbow ver.-", "一条シン with Over The Rainbow(CV.寺島惇太・柿原徹也・前野智昭・増田俊樹)", ""],
     [5, "オーディオドラマ『華京祭は大騒ぎ!』 (神浜コウジ・速水ヒロ・仁科カヅキ)", "[dialogue]", ""],
     [6, "ドラマチックLOVE (inst.)", "一条シン(CV.寺島惇太) & 太刀花ユキノジョウ(CV.斉藤壮馬) & 香賀美タイガ(CV.畠中祐) & 十王院カケル(CV.八代拓) & 鷹梁ミナト(CV.五十嵐雅) & 西園寺レオ(CV.永塚拓馬) & 涼野ユウ(CV.内田雄馬)", ""],
-    [7, "EZ DO DANCE -K.O.P. REMIX- (inst.)", "仁科カヅキ vs 大和アレクサンダー(CV.増田俊樹・武内駿輔)", ""],
+    [7, "EZ DO DANCE -K.O.P. REMIX- (inst.)", "仁科カヅキ vs 大和アレクサンダー(CV.増田俊樹・武内駿輔)", "0"],
     [8, "pride -Louis ver.- (inst.)", "如月ルヰ(CV.蒼井翔太)", ""],
     [9, "Over the Sunshine! (inst.)", "一条シン with Over The Rainbow(CV.寺島惇太・柿原徹也・前野智昭・増田俊樹)", ""],
 ]
@@ -3455,12 +3455,12 @@ album = "プリパラドリームソング♪コレクションDX ~WINTER~ Vocal
 tracks = [
     [1, "ホワット・ア・ワンダプリ・ワールド!!", "", ""],
     [2, "純・アモーレ・愛", "", ""],
-    [3, "0-week-old", "", ""],
+    [3, "0-week-old", "", "0"],
     [4, "メッセージ by ひびき", "", ""],
     [5, "メッセージ by セレパラ歌劇団", "", ""],
     [6, "ホワット・ア・ワンダプリ・ワールド!! (inst)", "", ""],
     [7, "純・アモーレ・愛 (inst)", "", ""],
-    [8, "0-week-old (inst)", "", ""],
+    [8, "0-week-old (inst)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/55918"]
 
@@ -3478,10 +3478,10 @@ catalognumber = "EYCA-13164/B"
 date = "2020-12-02"
 album = "キラッとプリ☆チャン♪ソングコレクション ~from MELODY FANTASY~ DX Disc 1 (CD) [EYCA-13164]"
 tracks = [
-    [1, "A・B・C・Dいいね★ダンス", "", ""],
+    [1, "A・B・C・Dいいね★ダンス", "", "0"],
     [2, "キラッとプリ☆チャンランド", "", ""],
     [3, "Merry Merry Fantasia!", "", ""],
-    [4, "A・B・C・Dいいね★ダンス -inst.-", "", ""],
+    [4, "A・B・C・Dいいね★ダンス -inst.-", "", "0"],
     [5, "キラッとプリ☆チャンランド -inst.-", "", ""],
     [6, "Merry Merry Fantasia! -inst.-", "", ""],
     [7, "オリジナルミニドラマ『メルパン、タイムスリップしちゃったパン!?』", "", ""],
@@ -3495,7 +3495,7 @@ album = "キラッとプリ☆チャン♪ソングコレクション ~from MELO
 tracks = [
     [1, "Merry Merry Fantasia!", "", ""],
     [2, "キラッとプリ☆チャンランド (メルパンVer.)", "", ""],
-    [3, "A・B・C・Dいいね★ダンス (ノンテロップED)", "", ""],
+    [3, "A・B・C・Dいいね★ダンス (ノンテロップED)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/103837"]
 
@@ -3504,9 +3504,9 @@ catalognumber = "AVCA-49493"
 date = "2012-03-16"
 album = "Everybody's Gonna Be Happy / Prizmmy☆"
 tracks = [
-    [1, "Everybody's Gonna Be Happy", "Prizmmy☆", ""],
+    [1, "Everybody's Gonna Be Happy", "Prizmmy☆", "0"],
     [2, "Popple☆Heart", "Prizmmy☆", ""],
-    [3, "Everybody's Gonna Be Happy (inst.)", "Prizmmy☆", ""],
+    [3, "Everybody's Gonna Be Happy (inst.)", "Prizmmy☆", "0"],
     [4, "Popple☆Heart (inst.)", "Prizmmy☆", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/8c28c9ce-035e-4242-9ddc-64a160d942be", "https://vgmdb.net/album/44307"]
@@ -3517,11 +3517,11 @@ date = "2017-02-24"
 album = "プリパラソング♪コレクション 2ndステージ"
 tracks = [
     [1, "Mon chouchou", "", ""],
-    [2, "Girl's Fantasy", "", ""],
+    [2, "Girl's Fantasy", "", "0"],
     [3, "シュガーレス×フレンド", "", ""],
     [4, "愛ドルを取り戻せ!", "", ""],
     [5, "Mon chouchou -inst-", "", ""],
-    [6, "Girl's Fantasy -inst-", "", ""],
+    [6, "Girl's Fantasy -inst-", "", "0"],
     [7, "シュガーレス×フレンド -inst-", "", ""],
     [8, "愛ドルを取り戻せ! -inst-", "", ""],
 ]
@@ -3556,7 +3556,7 @@ album = "WONDERFUL PALETTE / i☆Ris [CD+DVD] Vocal, Live Event, Video"
 tracks = [
     [1, "「i☆Ris 結成5周年記念Live～5 years old! Everyone comes together☆～」-Off Shot Movie-", "", ""],
     [2, "鉄腕ガール", "", ""],
-    [3, "Baby...", "", ""],
+    [3, "Baby...", "", "0"],
     [4, "Fanfare", "", ""],
     [5, "Raspberry night", "", ""],
 ]
@@ -3569,11 +3569,11 @@ album = "TVアニメ『ワッチャプリマジ!』キャラクターソング�
 tracks = [
     [1, "こんな世界に告ぐ", "", ""],
     [2, "The Secret Garden", "", ""],
-    [3, "Believe", "", ""],
+    [3, "Believe", "", "0"],
     [4, "ワッチャ!プリーズ!マジック! -What's your \"Please\" Magic?-", "", ""],
     [5, "こんな世界に告ぐ -inst.-", "", ""],
     [6, "The Secret Garden -inst.-", "", ""],
-    [7, "Believe -inst.-", "", ""],
+    [7, "Believe -inst.-", "", "0"],
     [8, "ワッチャ!プリーズ!マジック! -What's your \"Please\" Magic?- -inst.-", "", ""],
 ]
 links = ["https://vgmdb.net/album/118592"]
@@ -3584,9 +3584,9 @@ date = "2019-04-24"
 album = "Shiny Seven Stars!/366LOVEダイアリー"
 tracks = [
     [1, "Shiny Seven Stars!", "", ""],
-    [2, "366LOVEダイアリー", "", ""],
+    [2, "366LOVEダイアリー", "", "0"],
     [3, "Shiny Seven Stars! (inst.)", "", ""],
-    [4, "366LOVEダイアリー (inst.)", "", ""],
+    [4, "366LOVEダイアリー (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/84844"]
 
@@ -3596,7 +3596,7 @@ date = "2017-10-01"
 album = "お誕生日ぷり♡"
 tracks = [
     [1, "ぷりっとぱ～ふぇくと", "", ""],
-    [2, "HAPPYぱLUCKY", "", ""],
+    [2, "HAPPYぱLUCKY", "", "0"],
     [3, "ラッキー! サプライズ☆バースデイ", "", ""],
 ]
 links = ["https://vgmdb.net/album/71897"]
@@ -3642,9 +3642,9 @@ catalognumber = "AVCD-39354"
 date = "2017-04-19"
 album = "Just be yourself / わーすた(The World Standard)"
 tracks = [
-    [1, "Just be yourself", "わーすた", ""],
+    [1, "Just be yourself", "わーすた", "0"],
     [2, "いぬねこ。青春真っ盛り", "わーすた", ""],
-    [3, "Just be yourself (KARAOKE)", "わーすた", ""],
+    [3, "Just be yourself (KARAOKE)", "わーすた", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/74935b2d-c495-4377-af30-5977c047de2a", "https://vgmdb.net/album/66203"]
 
@@ -3692,9 +3692,9 @@ catalognumber = "EYCA-12225/B"
 date = "2019-02-06"
 album = "Break the Blue!!/never-ending!! / Run Girls, Run! Disc 1 (CD) [EYCA-12225]"
 tracks = [
-    [1, "Break the Blue!!", "Run Girls, Run!", ""],
+    [1, "Break the Blue!!", "Run Girls, Run!", "0"],
     [2, "never-ending!!", "Run Girls, Run!", ""],
-    [3, "Break the Blue!! (Instrumental)", "Run Girls, Run!", ""],
+    [3, "Break the Blue!! (Instrumental)", "Run Girls, Run!", "0"],
     [4, "never-ending!! (Instrumental)", "Run Girls, Run!", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/d50ae43f-02c8-42ec-8d0f-b73a7f947f84", "https://vgmdb.net/album/82237"]
@@ -3704,8 +3704,8 @@ catalognumber = "EYCA-12225/B"
 date = "2019-02-06"
 album = "Break the Blue!!/never-ending!! / Run Girls, Run! Disc 2 (Blu-ray) [EYCA-12225B]"
 tracks = [
-    [1, "Break the Blue!! Music Video", "Run Girls, Run!", ""],
-    [2, "Break the Blue!! Making Video", "Run Girls, Run!", ""],
+    [1, "Break the Blue!! Music Video", "Run Girls, Run!", "0"],
+    [2, "Break the Blue!! Making Video", "Run Girls, Run!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d50ae43f-02c8-42ec-8d0f-b73a7f947f84", "https://vgmdb.net/album/82237"]
 
@@ -3714,8 +3714,8 @@ catalognumber = "EYXA-12825~7/B"
 date = "2020-02-19"
 album = "KING OF PRISM Rose Party 2019 -Shiny 2Days Pack- Disc 1 (Blu-ray) [EYXA-12825]"
 tracks = [
-    [1, "BOY MEETS GIRL", "", ""],
-    [2, "athletic core", "", ""],
+    [1, "BOY MEETS GIRL", "", "0"],
+    [2, "athletic core", "", "0"],
     [3, "アゲハ蝶、夢舞い恋しぐれ", "", ""],
     [4, "レジェンド・ワールド", "", ""],
     [5, "Groovin' Chara-Emo Night", "", ""],
@@ -3731,7 +3731,7 @@ tracks = [
     [15, "SHOWCASE NIGHT", "", ""],
     [16, "恋のロイヤルストレートフラッシュ", "", ""],
     [17, "TIMELESS IMPACT", "", ""],
-    [18, "EZ DO DANCE", "", ""],
+    [18, "EZ DO DANCE", "", "0"],
     [19, "survival dAnce～no no cry more～", "", ""],
     [20, "Over the Sunshine!", "", ""],
     [21, "ドラマチックLOVE", "", ""],
@@ -3744,35 +3744,35 @@ catalognumber = "EYXA-12825~7/B"
 date = "2020-02-19"
 album = "KING OF PRISM Rose Party 2019 -Shiny 2Days Pack- Disc 2 (Blu-ray) [EYXA-12826]"
 tracks = [
-    [0, "01 \r\nメインタイトル", "", ""],
-    [0, "02 \r\nプリズムの王者 (メインテーマ)", "", ""],
-    [0, "01 \r\nプリズム・ジャンプ", "", ""],
-    [0, "02 \r\nエーデルローズ、舞う", "", ""],
-    [0, "03 \r\n初登校", "", ""],
-    [0, "04 \r\nオバレとの出逢い", "", ""],
-    [0, "05 \r\n浴場にて", "", ""],
-    [0, "01 \r\nエーデルローズの紹介", "", ""],
-    [0, "02 \r\nミナトの夕食メニュー", "", ""],
-    [0, "03 \r\n願書提出?", "", ""],
-    [0, "04 \r\n南の島のバカンス", "", ""],
-    [0, "05 \r\n自分らしく", "", ""],
-    [0, "01 \r\n悪は健在なり", "", ""],
-    [0, "02 \r\n悪と悪の取引", "", ""],
-    [0, "03 \r\n独裁者・仁", "", ""],
-    [0, "01 \r\nユキノジョウの想い", "", ""],
-    [0, "02 \r\n仲間たちの心配", "", ""],
-    [0, "03 \r\nコウジの旅立ち", "", ""],
-    [0, "01 \r\n美味しい料理の秘密", "", ""],
-    [0, "02 \r\n父と母の想い", "", ""],
-    [0, "03 \r\n俺も翔びたいんだ", "", ""],
-    [0, "04 \r\n勝者決定", "", ""],
-    [0, "05 \r\nKING OF PRISM", "", ""],
-    [0, "01 \r\nシャインの輝き", "", ""],
-    [0, "02 \r\nダーク・シャイン", "", ""],
-    [0, "03 \r\nそれぞれの対決", "", ""],
-    [0, "04 \r\nPRISM その愛", "", ""],
-    [0, "05 \r\n輝く未来", "", ""],
-    [1, "gift", "", ""],
+    [0, "01 \r\nメインタイトル", "", "0"],
+    [0, "02 \r\nプリズムの王者 (メインテーマ)", "", "0"],
+    [0, "01 \r\nプリズム・ジャンプ", "", "0"],
+    [0, "02 \r\nエーデルローズ、舞う", "", "0"],
+    [0, "03 \r\n初登校", "", "0"],
+    [0, "04 \r\nオバレとの出逢い", "", "0"],
+    [0, "05 \r\n浴場にて", "", "0"],
+    [0, "01 \r\nエーデルローズの紹介", "", "0"],
+    [0, "02 \r\nミナトの夕食メニュー", "", "0"],
+    [0, "03 \r\n願書提出?", "", "0"],
+    [0, "04 \r\n南の島のバカンス", "", "0"],
+    [0, "05 \r\n自分らしく", "", "0"],
+    [0, "01 \r\n悪は健在なり", "", "0"],
+    [0, "02 \r\n悪と悪の取引", "", "0"],
+    [0, "03 \r\n独裁者・仁", "", "0"],
+    [0, "01 \r\nユキノジョウの想い", "", "0"],
+    [0, "02 \r\n仲間たちの心配", "", "0"],
+    [0, "03 \r\nコウジの旅立ち", "", "0"],
+    [0, "01 \r\n美味しい料理の秘密", "", "0"],
+    [0, "02 \r\n父と母の想い", "", "0"],
+    [0, "03 \r\n俺も翔びたいんだ", "", "0"],
+    [0, "04 \r\n勝者決定", "", "0"],
+    [0, "05 \r\nKING OF PRISM", "", "0"],
+    [0, "01 \r\nシャインの輝き", "", "0"],
+    [0, "02 \r\nダーク・シャイン", "", "0"],
+    [0, "03 \r\nそれぞれの対決", "", "0"],
+    [0, "04 \r\nPRISM その愛", "", "0"],
+    [0, "05 \r\n輝く未来", "", "0"],
+    [1, "gift", "", "0"],
     [2, "【メドレー1】メインタイトル/プリズムの王者 (メインテーマ)", "", ""],
     [3, "【メドレー2】プリズム・ジャンプ/エーデルローズ、舞う/初登校/オバレとの出逢い/浴場にて", "", ""],
     [4, "【メドレー3】エーデルローズの紹介/ミナトの夕食メニュー/願書提出?/南の島のバカンス/自分らしく", "", ""],
@@ -3804,35 +3804,35 @@ catalognumber = "EYXA-12825~7/B"
 date = "2020-02-19"
 album = "KING OF PRISM Rose Party 2019 -Shiny 2Days Pack- Disc 4 (CD) [EYXA-12827B]"
 tracks = [
-    [0, "01 \r\nメインタイトル", "", ""],
-    [0, "02 \r\nプリズムの王者 (メインテーマ)", "", ""],
-    [0, "01 \r\nプリズム・ジャンプ", "", ""],
-    [0, "02 \r\nエーデルローズ、舞う", "", ""],
-    [0, "03 \r\n初登校", "", ""],
-    [0, "04 \r\nオバレとの出逢い", "", ""],
-    [0, "05 \r\n浴場にて", "", ""],
-    [0, "01 \r\nエーデルローズの紹介", "", ""],
-    [0, "02 \r\nミナトの夕食メニュー", "", ""],
-    [0, "03 \r\n願書提出?", "", ""],
-    [0, "04 \r\n南の島のバカンス", "", ""],
-    [0, "05 \r\n自分らしく", "", ""],
-    [0, "01 \r\n悪は健在なり", "", ""],
-    [0, "02 \r\n悪と悪の取引", "", ""],
-    [0, "03 \r\n独裁者・仁", "", ""],
-    [0, "01 \r\nユキノジョウの想い", "", ""],
-    [0, "02 \r\n仲間たちの心配", "", ""],
-    [0, "03 \r\nコウジの旅立ち", "", ""],
-    [0, "01 \r\n美味しい料理の秘密", "", ""],
-    [0, "02 \r\n父と母の想い", "", ""],
-    [0, "03 \r\n俺も翔びたいんだ", "", ""],
-    [0, "04 \r\n勝者決定", "", ""],
-    [0, "05 \r\nKING OF PRISM", "", ""],
-    [0, "01 \r\nシャインの輝き", "", ""],
-    [0, "02 \r\nダーク・シャイン", "", ""],
-    [0, "03 \r\nそれぞれの対決", "", ""],
-    [0, "04 \r\nPRISM その愛", "", ""],
-    [0, "05 \r\n輝く未来", "", ""],
-    [1, "gift", "", ""],
+    [0, "01 \r\nメインタイトル", "", "0"],
+    [0, "02 \r\nプリズムの王者 (メインテーマ)", "", "0"],
+    [0, "01 \r\nプリズム・ジャンプ", "", "0"],
+    [0, "02 \r\nエーデルローズ、舞う", "", "0"],
+    [0, "03 \r\n初登校", "", "0"],
+    [0, "04 \r\nオバレとの出逢い", "", "0"],
+    [0, "05 \r\n浴場にて", "", "0"],
+    [0, "01 \r\nエーデルローズの紹介", "", "0"],
+    [0, "02 \r\nミナトの夕食メニュー", "", "0"],
+    [0, "03 \r\n願書提出?", "", "0"],
+    [0, "04 \r\n南の島のバカンス", "", "0"],
+    [0, "05 \r\n自分らしく", "", "0"],
+    [0, "01 \r\n悪は健在なり", "", "0"],
+    [0, "02 \r\n悪と悪の取引", "", "0"],
+    [0, "03 \r\n独裁者・仁", "", "0"],
+    [0, "01 \r\nユキノジョウの想い", "", "0"],
+    [0, "02 \r\n仲間たちの心配", "", "0"],
+    [0, "03 \r\nコウジの旅立ち", "", "0"],
+    [0, "01 \r\n美味しい料理の秘密", "", "0"],
+    [0, "02 \r\n父と母の想い", "", "0"],
+    [0, "03 \r\n俺も翔びたいんだ", "", "0"],
+    [0, "04 \r\n勝者決定", "", "0"],
+    [0, "05 \r\nKING OF PRISM", "", "0"],
+    [0, "01 \r\nシャインの輝き", "", "0"],
+    [0, "02 \r\nダーク・シャイン", "", "0"],
+    [0, "03 \r\nそれぞれの対決", "", "0"],
+    [0, "04 \r\nPRISM その愛", "", "0"],
+    [0, "05 \r\n輝く未来", "", "0"],
+    [1, "gift", "", "0"],
     [2, "【メドレー1】メインタイトル/プリズムの王者 (メインテーマ)", "", ""],
     [3, "【メドレー2】プリズム・ジャンプ/エーデルローズ、舞う/初登校/オバレとの出逢い/浴場にて", "", ""],
     [4, "【メドレー3】エーデルローズの紹介/ミナトの夕食メニュー/願書提出?/南の島のバカンス/自分らしく", "", ""],
@@ -3914,7 +3914,7 @@ tracks = [
     [12, "アルティメット☆MAGIC", "", ""],
     [13, "Happy New World☆", "", ""],
     [14, "Ready Smile (Enc)", "", ""],
-    [15, "Goin'on (Enc)", "", ""],
+    [15, "Goin'on (Enc)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/124602"]
 
@@ -3937,10 +3937,10 @@ album = "プリティーリズム・オーロラドリーム ライブチック�
 tracks = [
     [1, "ライブチック・ドラマ 楽屋にて～Before", "", ""],
     [2, "ライブチック・ドラマ MC(1)", "", ""],
-    [3, "1/1000永遠の美学", "", ""],
+    [3, "1/1000永遠の美学", "", "0"],
     [4, "ライブチック・ドラマ MC(2)", "", ""],
     [5, "ライブチック・ドラマ 楽屋にて～After", "", ""],
-    [6, "1/1000永遠の美学 (instrumental)", "", ""],
+    [6, "1/1000永遠の美学 (instrumental)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/40795"]
 
@@ -3989,12 +3989,12 @@ catalognumber = "AVCD-39417"
 date = "2018-06-20"
 album = "JUMPING SUMMER / わーすた(The World Standard)"
 tracks = [
-    [1, "JUMPING SUMMER", "わーすた", ""],
+    [1, "JUMPING SUMMER", "わーすた", "0"],
     [2, "タピオカミルクティー", "わーすた", ""],
     [3, "PLATONIC GIRL", "わーすた", ""],
     [4, "スタンドアロン・コンプレックス", "わーすた", ""],
     [5, "プリティー☆チャンネル", "わーすた", ""],
-    [6, "JUMPING SUMMER（Instrumental）", "わーすた", ""],
+    [6, "JUMPING SUMMER（Instrumental）", "わーすた", "0"],
     [7, "タピオカミルクティー（Instrumental）", "わーすた", ""],
     [8, "PLATONIC GIRL（Instrumental）", "わーすた", ""],
     [9, "スタンドアロン・コンプレックス（Instrumental）", "わーすた", ""],
@@ -4013,13 +4013,13 @@ tracks = [
     [4, "No D&D code (Y&Co. Hard Dance Remix) (Long Ver.)", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
     [5, "ま～ぶるMake up a-ha-ha! (Hyper Techno Remix) (Long Ver.)", "真中らぁら & 南みれぃ (CV. 茜屋日海夏 & 芹澤優)", ""],
     [6, "太陽のflare sherbet (Super Euro Remix) (Long Ver.)", "北条そふぃ (CV. 久保田未夢)", ""],
-    [7, "CHANGE! MY WORLD (Blacklolita Future Bass Remix) (Long Ver.)", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
-    [8, "0-week-old (Y&Co. R&B Remix) (Long Ver.)", "ファルル (CV. 赤﨑千夏)", ""],
+    [7, "CHANGE! MY WORLD (Blacklolita Future Bass Remix) (Long Ver.)", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "0"],
+    [8, "0-week-old (Y&Co. R&B Remix) (Long Ver.)", "ファルル (CV. 赤﨑千夏)", "0"],
     [9, "ぱぴぷぺ☆POLICE! (80'S Style Remix) (Long Ver.)", "真中らぁら、ドロシー・ウェスト、白玉みかん (CV. 茜屋日海夏、澁谷梓希、渡部優衣)", ""],
     [10, "トンでもSUMMER ADVENTURE (Extra Drop Mix) (Long Ver.)", "ドレッシングふらわー (CV. 山北早紀、若井友希、澁谷梓希、佐藤あずさ、茜屋日海夏)", ""],
     [11, "でび＆えん☆Reversible-Ring (Happy Trance Remix) (Long Ver.)", "アロマゲドン (CV. 牧野由依 & 渡部優衣)", ""],
     [12, "純・アモーレ・愛 (Y&Co. Eurobeat Remix) (Long Ver.)", "紫京院ひびき (CV. 斎賀みつき)", ""],
-    [13, "Love friend style (DJ Shimamura's Hardcore Rave Remix) (Long Ver.)", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", ""],
+    [13, "Love friend style (DJ Shimamura's Hardcore Rave Remix) (Long Ver.)", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/72606046-634b-4834-ae2d-316a237238d2", "https://vgmdb.net/album/89184"]
 
@@ -4042,7 +4042,7 @@ tracks = [
     [12, "アルティメット☆MAGIC", "", ""],
     [13, "Happy New World☆", "", ""],
     [14, "Ready Smile (Enc)", "", ""],
-    [15, "Goin'on (Enc)", "", ""],
+    [15, "Goin'on (Enc)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/124603"]
 
@@ -4161,14 +4161,14 @@ tracks = [
     [5, "プリマ☆ドンナ？メモリアル!", "プリティーオールフレンズ (cv.阿澄佳奈、大久保瑠美、加藤英美里、茜屋日海夏、伊達朱里紗、林鼓子)", ""],
     [6, "おやくそくセンセーション", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", ""],
     [7, "sunshine smiles", "アリス(CV.ファイルーズあい)", ""],
-    [8, "Despertar del SOL!", "ソルル(CV.斎賀みつき)", ""],
+    [8, "Despertar del SOL!", "ソルル(CV.斎賀みつき)", "0"],
     [9, "いたずらカーニバル!!", "Oshama Tricks (cv.山北早紀、cv.澁谷梓希)", ""],
     [10, "プラネタリウムの殻", "イブ (cv.指出毬亜)", ""],
-    [11, "Lustro della LUNA", "ルルナ (cv.山村 響)", ""],
+    [11, "Lustro della LUNA", "ルルナ (cv.山村 響)", "0"],
     [12, "アドリブ・デスティニー", "ALIVE(CV.ファイルーズあい、指出毬亜)", ""],
     [13, "MEMORIES FOR FUTURE -Ray-", "Wだいあ (cv.佐々木李子)", ""],
     [14, "ファイナルイルミネーション", "Miracle☆Kiratts with キラッCHU (cv.林 鼓子、cv.久保田未夢、cv.厚木那奈美、cv.山下七海)", ""],
-    [15, "Awakening Light", "ソルル 、ルルナ (cv.斎賀みつき、cv.山村 響)", ""],
+    [15, "Awakening Light", "ソルル 、ルルナ (cv.斎賀みつき、cv.山村 響)", "0"],
     [16, "ドリーミング☆チャンネル!", "Pri☆chan All Star (cv. 林 鼓子、久保田未夢、厚木那奈美、芹澤 優、若井友希、森嶋優花、茜屋日海夏、徳井青空、佐々木李子、山下七海、大森日雅、田中美海、ファイルーズあい、指出毬亜、斎賀みつき、山村 響、山北早紀、澁谷梓希、三森すずこ、阿澄佳奈、加藤英美里、伊達朱里紗)", ""],
     [17, "One Heart (Meltic StAr ver.)", "Meltic StAr (cv.芹澤 優、cv.若井友希、cv.森嶋優花)", ""],
     [18, "One Heart (Miracle☆Kiratts ver.)", "Miracle☆Kiratts (cv.林 鼓子、cv.久保田未夢、cv.厚木那奈美)", ""],
@@ -4183,14 +4183,14 @@ tracks = [
     [1, "イルミナージュ・ランド -TV size-", "Run Girls, Run!", ""],
     [2, "ルミナンスプリンセス -TV size-", "Run Girls, Run!", ""],
     [3, "ドリーミング☆チャンネル! -TV size-", "Run Girls, Run!", ""],
-    [4, "A・B・C・Dいいね★ダンス -TV size-", "GOGO!MASCOTS", ""],
+    [4, "A・B・C・Dいいね★ダンス -TV size-", "GOGO!MASCOTS", "0"],
     [5, "One Heart -TV size-", "Miracle StAr", ""],
     [6, "イルミナージュクイーン", "加藤達也", ""],
     [7, "楽しまなくっちゃ", "加藤達也", ""],
     [8, "閉園時間", "加藤達也", ""],
     [9, "誰もいない遊園地", "加藤達也", ""],
     [10, "プリ☆チャンランドにようこそ!", "加藤達也", ""],
-    [11, "ENTRANCE AREA", "加藤達也", ""],
+    [11, "ENTRANCE AREA", "加藤達也", "0"],
     [12, "RAINBOW SKY AREA", "加藤達也", ""],
     [13, "MELODY FANTASY AREA", "加藤達也", ""],
     [14, "OCEAN MERMAID AREA", "加藤達也", ""],
@@ -4198,7 +4198,7 @@ tracks = [
     [16, "MOONLIGHT MAGIC AREA", "加藤達也", ""],
     [17, "THE☆登場", "加藤達也", ""],
     [18, "目まぐるしい日々", "加藤達也", ""],
-    [19, "KAGAYAKI", "加藤達也", ""],
+    [19, "KAGAYAKI", "加藤達也", "0"],
     [20, "マスコットのテーマ", "加藤達也", ""],
     [21, "シンキングタイム", "加藤達也", ""],
     [22, "期待を胸に", "加藤達也", ""],
@@ -4272,11 +4272,11 @@ catalognumber = "EYCA-10799"
 date = "2016-02-17"
 album = "Goin'on / i☆Ris"
 tracks = [
-    [1, "Goin’on", "i☆Ris", ""],
-    [2, "Baby…", "i☆Ris", ""],
+    [1, "Goin’on", "i☆Ris", "1"],
+    [2, "Baby…", "i☆Ris", "0"],
     [3, "キラリ", "i☆Ris", ""],
-    [4, "Goin’on（Instrumental）", "i☆Ris", ""],
-    [5, "Baby…（Instrumental）", "i☆Ris", ""],
+    [4, "Goin’on（Instrumental）", "i☆Ris", "0"],
+    [5, "Baby…（Instrumental）", "i☆Ris", "0"],
     [6, "キラリ（Instrumental）", "i☆Ris", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/c9a7df44-3005-4db6-8b22-e8081c4cd2f4", "https://vgmdb.net/album/56028"]
@@ -4286,12 +4286,12 @@ catalognumber = "EYCA-13555"
 date = "2021-12-01"
 album = "Dreaming Sound / 鈴木杏奈 [アニメ盤]"
 tracks = [
-    [1, "Dreaming Sound", "", ""],
+    [1, "Dreaming Sound", "", "0"],
     [2, "Sail Away Justice", "", ""],
-    [3, "Dreaming Sound -TV ver.-", "", ""],
-    [4, "Dreaming Sound -Off Main Vocal-", "", ""],
+    [3, "Dreaming Sound -TV ver.-", "", "0"],
+    [4, "Dreaming Sound -Off Main Vocal-", "", "0"],
     [5, "Sail Away Justice -Off Main Vocal-", "", ""],
-    [6, "Dreaming Sound -TV ver. Off Main Vocal-", "", ""],
+    [6, "Dreaming Sound -TV ver. Off Main Vocal-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/114358"]
 
@@ -4438,7 +4438,7 @@ tracks = [
     [16, "ファイブカードは突然に…", "", ""],
     [17, "MOONSHINE", "", ""],
     [18, "プラトニックソード", "", ""],
-    [19, "gift-Louis ver.-", "", ""],
+    [19, "gift-Louis ver.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/88276"]
 
@@ -4528,7 +4528,7 @@ tracks = [
     [2, "コーデチェンジ", "", ""],
     [3, "パルプスの少女ふわり", "", ""],
     [4, "コノウタトマレイヒ", "", ""],
-    [5, "0-week-old", "", ""],
+    [5, "0-week-old", "", "0"],
     [6, "ワルツ「まずは赤の他人から」 (パニックラビリンス + 純・アモーレ・愛)", "", ""],
     [7, "プリパラ☆ダンシング!!!", "", ""],
 ]
@@ -4546,14 +4546,14 @@ tracks = [
     [5, "プリマ☆ドンナ？メモリアル！", "プリティーオールフレンズ (cv.阿澄佳奈、大久保瑠美、加藤英美里、茜屋日海夏、伊達朱里紗、林鼓子)", ""],
     [6, "おやくそくセンセーション", "ゴー! ゴー! マスコッツ (cv.山下七海、大森日雅、田中美海)", ""],
     [7, "sunshine smiles", "アリス(CV.ファイルーズあい)", ""],
-    [8, "Despertar del SOL！", "ソルル(CV.斎賀みつき)", ""],
+    [8, "Despertar del SOL！", "ソルル(CV.斎賀みつき)", "0"],
     [9, "いたずらカーニバル!!", "Oshama Tricks (cv.山北早紀、cv.澁谷梓希)", ""],
     [10, "プラネタリウムの殻", "イブ (cv.指出毬亜)", ""],
-    [11, "Lustro della LUNA", "ルルナ (cv.山村 響)", ""],
+    [11, "Lustro della LUNA", "ルルナ (cv.山村 響)", "0"],
     [12, "アドリブ・デスティニー", "ALIVE(CV.ファイルーズあい、指出毬亜)", ""],
     [13, "MEMORIES FOR FUTURE -Ray-", "Wだいあ (cv.佐々木李子)", ""],
     [14, "ファイナルイルミネーション", "Miracle☆Kiratts with キラッCHU (cv.林 鼓子、cv.久保田未夢、cv.厚木那奈美、cv.山下七海)", ""],
-    [15, "Awakening Light", "ソルル 、ルルナ (cv.斎賀みつき、cv.山村 響)", ""],
+    [15, "Awakening Light", "ソルル 、ルルナ (cv.斎賀みつき、cv.山村 響)", "0"],
     [16, "ドリーミング☆チャンネル！", "Pri☆chan All Star (cv. 林 鼓子、久保田未夢、厚木那奈美、芹澤 優、若井友希、森嶋優花、茜屋日海夏、徳井青空、佐々木李子、山下七海、大森日雅、田中美海、ファイルーズあい、指出毬亜、斎賀みつき、山村 響、山北早紀、澁谷梓希、三森すずこ、阿澄佳奈、加藤英美里、伊達朱里紗)", ""],
     [17, "One Heart (Meltic StAr ver.)", "Meltic StAr (cv.芹澤 優、cv.若井友希、cv.森嶋優花)", ""],
     [18, "One Heart (Miracle☆Kiratts ver.)", "Miracle☆Kiratts (cv.林 鼓子、cv.久保田未夢、cv.厚木那奈美)", ""],
@@ -4568,14 +4568,14 @@ tracks = [
     [1, "イルミナージュ・ランド -TV size-", "", ""],
     [2, "ルミナンスプリンセス -TV size-", "", ""],
     [3, "ドリーミング☆チャンネル! -TV size-", "", ""],
-    [4, "A・B・C・Dいいね★ダンス -TV size-", "", ""],
+    [4, "A・B・C・Dいいね★ダンス -TV size-", "", "0"],
     [5, "One Heart -TV size-", "", ""],
     [6, "イルミナージュクイーン", "", ""],
     [7, "楽しまなくっちゃ", "", ""],
     [8, "閉園時間", "", ""],
     [9, "誰もいない遊園地", "", ""],
     [10, "プリ☆チャンランドにようこそ!", "", ""],
-    [11, "ENTRANCE AREA", "", ""],
+    [11, "ENTRANCE AREA", "", "0"],
     [12, "RAINBOW SKY AREA", "", ""],
     [13, "MELODY FANTASY AREA", "", ""],
     [14, "OCEAN MERMAID AREA", "", ""],
@@ -4583,7 +4583,7 @@ tracks = [
     [16, "MOONLIGHT MAGIC AREA", "", ""],
     [17, "THE☆登場", "", ""],
     [18, "目まぐるしい日々", "", ""],
-    [19, "KAGAYAKI", "", ""],
+    [19, "KAGAYAKI", "", "0"],
     [20, "マスコットのテーマ", "", ""],
     [21, "シンキングタイム", "", ""],
     [22, "期待を胸に", "", ""],
@@ -4626,7 +4626,7 @@ tracks = [
     [1, "イルミナージュ・ランド (ノンテロップオープニングテーマ)", "", ""],
     [2, "ルミナンスプリンセス (ノンテロップオープニングテーマ)", "", ""],
     [3, "ドリーミング☆チャンネル! (ノンテロップオープニングテーマ)", "", ""],
-    [4, "A・B・C・Dいいね★ダンス (ノンテロップエンディングテーマ)", "", ""],
+    [4, "A・B・C・Dいいね★ダンス (ノンテロップエンディングテーマ)", "", "0"],
     [5, "One Heart (ノンテロップエンディングテーマ)", "", ""],
     [6, "ミラクルコースター (プリ☆チャンライブ映像)", "", ""],
     [7, "キラッとプリ☆チャンランド (キラッCHU ver.) (プリ☆チャンライブ映像)", "", ""],
@@ -4638,15 +4638,15 @@ tracks = [
     [13, "チクタク・Magicaる・アイドルタイム! (プリ☆チャンライブ映像)", "", ""],
     [14, "おやくそくセンセーション (プリ☆チャンライブ映像)", "", ""],
     [15, "sunshine smiles (プリ☆チャンライブ映像)", "", ""],
-    [16, "Despertar del SOL! (プリ☆チャンライブ映像)", "", ""],
+    [16, "Despertar del SOL! (プリ☆チャンライブ映像)", "", "0"],
     [17, "いたずらカーニバル!! (プリ☆チャンライブ映像)", "", ""],
     [18, "プラネタリウムの殻 (プリ☆チャンライブ映像)", "", ""],
-    [19, "Lustro della LUNA (プリ☆チャンライブ映像)", "", ""],
+    [19, "Lustro della LUNA (プリ☆チャンライブ映像)", "", "0"],
     [20, "アドリブ・デスティニー (プリ☆チャンライブ映像)", "", ""],
     [21, "MEMORIES FOR FUTURE -Ray- (プリ☆チャンライブ映像)", "", ""],
     [22, "ブランニュー・ハピネス! (プリ☆チャンライブ映像)", "", ""],
     [23, "ファイナルイルミネーション (プリ☆チャンライブ映像)", "", ""],
-    [24, "Awakening Light (プリ☆チャンライブ映像)", "", ""],
+    [24, "Awakening Light (プリ☆チャンライブ映像)", "", "0"],
     [25, "ファイナルイルミネーション (with キラッCHU ver.) (プリ☆チャンライブ映像)", "", ""],
     [26, "ドリーミング☆チャンネル! (プリ☆チャンライブ映像)", "", ""],
 ]
@@ -4688,16 +4688,16 @@ tracks = [
     [5, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
     [6, "乙女アテンションプリーズ", "ミラクル☆キラッツ (cv.林 鼓子、久保田未夢、厚木那奈美)", ""],
     [7, "Play Sound☆", "メルティックスター(CV.芹澤優、若井友希)", ""],
-    [8, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [8, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [9, "寝ても覚めてもDREAMIN' GIRL", "メルティックスター (cv.芹澤 優、若井友希、森嶋優花)", ""],
     [10, "キラッとスタート", "ミラクル☆スター (cv.林 鼓子、久保田未夢、厚木那奈美、芹澤 優、若井友希、森嶋優花)", ""],
     [11, "フォーチュン・カラット", "アンジュ(CV.三森すずこ)", ""],
     [12, "パーフェクト・フィナーレ", "アイランジュ (CV.三森すずこ、阿澄佳奈)", ""],
     [13, "キラッとスタート -TV size-", "Run Girls, Run!", ""],
-    [14, "Go! Up! スターダム! -TV size-", "Run Girls, Run!", ""],
+    [14, "Go! Up! スターダム! -TV size-", "Run Girls, Run!", "0"],
     [15, "never-ending!! -TV size-", "Run Girls, Run!", ""],
     [16, "プリティー☆チャンネル -TV size-", "わーすた", ""],
-    [17, "KIRA KIRA ホログラム -TV size-", "わーすた", ""],
+    [17, "KIRA KIRA ホログラム -TV size-", "わーすた", "0"],
     [18, "SHINING FLOWER -TV size-", "わーすた", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/798ec5b1-4ba9-4202-b76f-0c49d02983dd", "https://vgmdb.net/album/87408"]
@@ -4807,16 +4807,16 @@ tracks = [
     [1, "ブランニュー・ハピネス! (DJ BOSS Hard Trance Remix)", "らぁら & ゆい (CV. 茜屋日海夏 & 伊達朱里紗)", ""],
     [2, "チクタク・Magicaる・アイドルタイム! (Francisco Gaitan Remix)", "ゆい (CV. 伊達朱里紗)", ""],
     [3, "あっちゃこっちゃゲーム (DJ BOSS SEB Remix)", "にの (CV. 大地葉)", ""],
-    [4, "GOスト♭コースター (Y&Co. Dance Mix)", "みちる (CV. 山田唯菜)", ""],
+    [4, "GOスト♭コースター (Y&Co. Dance Mix)", "みちる (CV. 山田唯菜)", "0"],
     [5, "Miss.プリオネア (DELACTION Remix)", "しゅうか (CV. 朝日奈丸佳)", ""],
-    [6, "Giraギャラティック・タイトロープ (DJ BOSS EDM Remix)", "WITH (CV. 山下誠一郎、小林竜之、土田玲央)", ""],
-    [7, "Dear My Future 〜未来の自分へ〜 (DJ BOSS 90'S Eurobeat Remix)", "華園みあ (CV. 大久保瑠美)", ""],
+    [6, "Giraギャラティック・タイトロープ (DJ BOSS EDM Remix)", "WITH (CV. 山下誠一郎、小林竜之、土田玲央)", "0"],
+    [7, "Dear My Future 〜未来の自分へ〜 (DJ BOSS 90'S Eurobeat Remix)", "華園みあ (CV. 大久保瑠美)", "0"],
     [8, "ハートフル♡ドリーム (DJ Noriken Hardcore Mix)", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", ""],
     [9, "快打洗心♡カッキンBUDDY (DJ BOSS DISCO STYLE)", "にの & シオン (CV. 大地葉 & 山北早紀)", ""],
-    [10, "Get Over Dress-code (Blacklolita Bit Future Remix)", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
+    [10, "Get Over Dress-code (Blacklolita Bit Future Remix)", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "0"],
     [11, "リンリン♪がぁらふぁらんど (KAZBONGO Drumstep Remix)", "ファララ & ガァララ (CV. 佐藤あずさ & 黒沢ともよ)", ""],
     [12, "Memorial (Y&Co. Eurobeat Remix)", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", ""],
-    [13, "Believe My DREAM! (DJ Shimamura's Hardcore Rave Mix)", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", ""],
+    [13, "Believe My DREAM! (DJ Shimamura's Hardcore Rave Mix)", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/9334b0d4-02b5-4d29-9633-11b7ff8e6751", "https://vgmdb.net/album/89072"]
 
@@ -4825,9 +4825,9 @@ catalognumber = "EYCA-13551"
 date = "2021-12-01"
 album = "Dreaming Sound / 鈴木杏奈"
 tracks = [
-    [1, "Dreaming Sound", "鈴木杏奈", ""],
+    [1, "Dreaming Sound", "鈴木杏奈", "0"],
     [2, "Sail Away Justice", "鈴木杏奈", ""],
-    [3, "Dreaming Sound -Instrumental-", "鈴木杏奈", ""],
+    [3, "Dreaming Sound -Instrumental-", "鈴木杏奈", "0"],
     [4, "Sail Away Justice -Instrumental-", "鈴木杏奈", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/1029d184-d134-42e1-ad10-d4309beb2848", "https://vgmdb.net/album/114356"]
@@ -4837,9 +4837,9 @@ catalognumber = "AVCA-49815/B"
 date = "2012-08-29"
 album = "BRAND NEW WORLD!! / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "BRAND NEW WORLD!!", "Prizmmy☆", ""],
+    [1, "BRAND NEW WORLD!!", "Prizmmy☆", "0"],
     [2, "Prizmmy☆'s AISATSU SONG", "Prizmmy☆", ""],
-    [3, "BRAND NEW WORLD!! (inst.)", "Prizmmy☆", ""],
+    [3, "BRAND NEW WORLD!! (inst.)", "Prizmmy☆", "0"],
     [4, "Prizmmy☆'s AISATSU SONG (inst.)", "Prizmmy☆", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/3d9e75ac-6904-4614-8d5b-c96f7b4e2a95", "https://vgmdb.net/album/44338"]
@@ -4849,8 +4849,8 @@ catalognumber = "AVCA-49815/B"
 date = "2012-08-29"
 album = "BRAND NEW WORLD!! / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "BRAND NEW WORLD!! (ミュージッククリップ)", "Prizmmy☆", ""],
-    [2, "BRAND NEW WORLD!! (ダンスマスターVer.)", "Prizmmy☆", ""],
+    [1, "BRAND NEW WORLD!! (ミュージッククリップ)", "Prizmmy☆", "0"],
+    [2, "BRAND NEW WORLD!! (ダンスマスターVer.)", "Prizmmy☆", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/3d9e75ac-6904-4614-8d5b-c96f7b4e2a95", "https://vgmdb.net/album/44338"]
 
@@ -4860,7 +4860,7 @@ date = "2011-06-15"
 album = "MAX! 乙女心/Happy GO Lucky! ~ハピ☆ラキでゴ→!~ / SUPER☆GiRLS"
 tracks = [
     [1, "MAX!乙女心", "SUPER☆GiRLS", ""],
-    [2, "Happy GO Lucky!～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", ""],
+    [2, "Happy GO Lucky!～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", "0"],
     [3, "オリジナルCDドラマ SUPER☆GiRLS 超絶学園 スクールデイズコレクション 夏 誰がアイドル!?", "SUPER☆GiRLS", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/4893ab22-8b19-4209-bec5-c0c657314619", "https://vgmdb.net/album/65439"]
@@ -4928,10 +4928,10 @@ catalognumber = "EYCA-10281/B"
 date = "2015-02-18"
 album = "I Just Wanna Be With You ~仮想(ヴァーチャル)と真実(リアル)の狭間で~ / Prizmmy☆ Vocal"
 tracks = [
-    [1, "I Just Wanna Be With You 〜仮想と真実の狭間で〜", "Prizmmy☆", ""],
-    [2, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 Club Mix Ver.", "Prizmmy☆", ""],
-    [3, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 (inst)", "Prizmmy☆", ""],
-    [4, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 Club Mix Ver. (inst)", "Prizmmy☆", ""],
+    [1, "I Just Wanna Be With You 〜仮想と真実の狭間で〜", "Prizmmy☆", "0"],
+    [2, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 Club Mix Ver.", "Prizmmy☆", "0"],
+    [3, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 (inst)", "Prizmmy☆", "0"],
+    [4, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 Club Mix Ver. (inst)", "Prizmmy☆", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d5070149-6f0c-4fa2-9473-7df21e8c8ba0", "https://vgmdb.net/album/50489"]
 
@@ -4940,10 +4940,10 @@ catalognumber = "EYCA-10281/B"
 date = "2015-02-18"
 album = "I Just Wanna Be With You ~仮想(ヴァーチャル)と真実(リアル)の狭間で~ / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 ミュージッククリップ", "Prizmmy☆", ""],
-    [2, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 TVサイズVer.", "Prizmmy☆", ""],
-    [3, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 ダンスマスターVer.", "Prizmmy☆", ""],
-    [4, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 メイキング", "Prizmmy☆", ""],
+    [1, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 ミュージッククリップ", "Prizmmy☆", "0"],
+    [2, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 TVサイズVer.", "Prizmmy☆", "0"],
+    [3, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 ダンスマスターVer.", "Prizmmy☆", "0"],
+    [4, "I Just Wanna Be With You 〜仮想と真実の狭間で〜 メイキング", "Prizmmy☆", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d5070149-6f0c-4fa2-9473-7df21e8c8ba0", "https://vgmdb.net/album/50489"]
 
@@ -4955,11 +4955,11 @@ tracks = [
     [1, "チクタク・Magicaる・アイドルタイム！", "ゆい(cv.伊達朱里紗)", ""],
     [2, "ブランニュー・ハピネス！", "ゆい&らぁら(cv.伊達朱里紗&茜屋日海夏)", ""],
     [3, "あっちゃこっちゃゲーム", "にの(cv.大地葉)", ""],
-    [4, "GOスト♭コースター", "みちる(cv.山田唯菜)", ""],
+    [4, "GOスト♭コースター", "みちる(cv.山田唯菜)", "0"],
     [5, "チクタク・Magicaる・アイドルタイム！ -inst.-", "ゆい(cv.伊達朱里紗)", ""],
     [6, "ブランニュー・ハピネス！ -inst.-", "ゆい&らぁら(cv.伊達朱里紗&茜屋日海夏)", ""],
     [7, "あっちゃこっちゃゲーム -inst.-", "にの(cv.大地葉)", ""],
-    [8, "GOスト♭コースター -inst.-", "みちる(cv.山田唯菜)", ""],
+    [8, "GOスト♭コースター -inst.-", "みちる(cv.山田唯菜)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5c6c619f-185d-4537-9ff6-3a1d4f4f6c22", "https://vgmdb.net/album/68279"]
 
@@ -4980,9 +4980,9 @@ date = "2019-07-24"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 西園寺レオ"
 tracks = [
     [1, "Twinkle☆Twinkle", "西園寺レオ（cv.永塚拓馬）", ""],
-    [2, "Love & Peace Forever", "西園寺レオ（cv.永塚拓馬）", ""],
+    [2, "Love & Peace Forever", "西園寺レオ（cv.永塚拓馬）", "0"],
     [3, "Twinkle☆Twinkle inst.", "西園寺レオ（cv.永塚拓馬）", ""],
-    [4, "Love & Peace Forever inst.", "西園寺レオ（cv.永塚拓馬）", ""],
+    [4, "Love & Peace Forever inst.", "西園寺レオ（cv.永塚拓馬）", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d332ba27-5f55-4bb6-b8c7-e24a8188b282", "https://vgmdb.net/album/86261"]
 
@@ -4999,7 +4999,7 @@ date = "2017-10-18"
 album = "パラドックス ワールド / わーすた(The World Standard) Disc 1 (CD) [AVCD-39379]"
 tracks = [
     [1, "恋するにゃこたん〜フリもフラレもあなたのまま〜", "わーすた", ""],
-    [2, "Just be yourself", "わーすた", ""],
+    [2, "Just be yourself", "わーすた", "0"],
     [3, "最上級ぱらどっくす", "わーすた", ""],
     [4, "Magical Word", "わーすた", ""],
     [5, "ねぇ愛してみて", "わーすた", ""],
@@ -5020,7 +5020,7 @@ album = "パラドックス ワールド / わーすた(The World Standard) Disc
 tracks = [
     [1, "The World Standard 〜夢があるからついてきてね〜 @Zepp DiverCity(TOKYO) 2017.4.22 (LIVE VIDEO)", "わーすた", ""],
     [2, "最上級ぱらどっくす (MUSIC VIDEO)", "わーすた", ""],
-    [3, "Just be yourself (2nd Edition) (MUSIC VIDEO)", "わーすた", ""],
+    [3, "Just be yourself (2nd Edition) (MUSIC VIDEO)", "わーすた", "0"],
     [4, "ゆうめいに、にゃりたい。 (MUSIC VIDEO)", "わーすた", ""],
     [5, "完全なるアイドル (MUSIC VIDEO)", "わーすた", ""],
     [6, "ぱわわわわん!!! パワーパフ ガールズ (MUSIC VIDEO)", "わーすた", ""],
@@ -5070,11 +5070,11 @@ tracks = [
     [2, "ナナイロノチカイ! -Brilliant oath-", "", ""],
     [3, "Orange Flamingo", "", ""],
     [4, "Sailing!", "", ""],
-    [5, "FREEDOM -THUNDER STORM SESSION ver.-", "", ""],
+    [5, "FREEDOM -THUNDER STORM SESSION ver.-", "", "0"],
     [6, "Twinkle☆Twinkle", "", ""],
     [7, "百花繚乱", "", ""],
     [8, "プラトニックソード", "", ""],
-    [9, "Fly in the sky", "", ""],
+    [9, "Fly in the sky", "", "0"],
     [10, "Shiny Stellar", "", ""],
 ]
 links = ["https://vgmdb.net/album/95211"]
@@ -5086,21 +5086,21 @@ album = "プリティーリズム・オーロラドリーム プリズム☆ミ�
 tracks = [
     [1, "You May Dream", "", ""],
     [2, "めらめらハートが熱くなる", "", ""],
-    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "", ""],
-    [4, "Dream Goes On", "", ""],
+    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "", "0"],
+    [4, "Dream Goes On", "", "0"],
     [5, "ココロ充電!", "", ""],
     [6, "Switch On My Heart", "", ""],
-    [7, "1/1000永遠の美学", "", ""],
+    [7, "1/1000永遠の美学", "", "0"],
     [8, "We Will Win! -ココロのバトンでポ・ポンのポ～ン☆-", "", ""],
-    [9, "Hop! Step!! Jump!!!", "", ""],
+    [9, "Hop! Step!! Jump!!!", "", "0"],
     [10, "Never Let me Down ～がんばりやぁ!～", "", ""],
     [11, "愛しのティンカーベル", "", ""],
-    [12, "1000% キュン キュンさせてよ□", "", ""],
+    [12, "1000% キュン キュンさせてよ□", "", "0"],
     [13, "プリティーリズムでGo!", "", ""],
     [14, "Shall We Go?!", "", ""],
-    [15, "Don't Give Up", "", ""],
+    [15, "Don't Give Up", "", "0"],
     [16, "Wonderful World", "", ""],
-    [17, "Everybody's Gonna Be Happy [TVサイズ]", "", ""],
+    [17, "Everybody's Gonna Be Happy [TVサイズ]", "", "0"],
 ]
 links = ["https://vgmdb.net/album/40787"]
 
@@ -5167,22 +5167,22 @@ date = "2014-04-23"
 album = "プリティーリズム・レインボーライブ プリズム☆ミュージックコレクション Original Soundtrack, Vocal"
 tracks = [
     [1, "ハート♥イロ♥トリドリ～ム", "彩瀬なる(CV:加藤英美里)", ""],
-    [2, "BT37.5", "涼野いと(CV.小松未可子)", ""],
+    [2, "BT37.5", "涼野いと(CV.小松未可子)", "0"],
     [3, "Sweet time Cooking magic ～胸ペコなんです私って～", "福原あん(CV.芹澤 優)", ""],
-    [4, "Get music!", "蓮城寺べる(CV.戸松 遥)", ""],
+    [4, "Get music!", "蓮城寺べる(CV.戸松 遥)", "0"],
     [5, "Vanity♥colon", "小鳥遊おとは(CV.後藤沙緒里)", ""],
-    [6, "Blowin' in the Mind", "森園わかな(CV.内田真礼)", ""],
-    [7, "gift", "りんね(CV.佐倉綾音)", ""],
+    [6, "Blowin' in the Mind", "森園わかな(CV.内田真礼)", "0"],
+    [7, "gift", "りんね(CV.佐倉綾音)", "0"],
     [8, "nth color", "天羽ジュネ(CV.宍戸留美)", ""],
     [9, "Reboot", "神浜コウジ(CV.柿原徹也)", ""],
     [10, "pride", "速水ヒロ(CV.前野智昭)", ""],
-    [11, "FREEDOM", "仁科カヅキ(CV.増田俊樹)", ""],
-    [12, "EZ DO DANCE -DJ.COO ver.-", "DJ.COO(CV.森久保祥太郎)", ""],
+    [11, "FREEDOM", "仁科カヅキ(CV.増田俊樹)", "0"],
+    [12, "EZ DO DANCE -DJ.COO ver.-", "DJ.COO(CV.森久保祥太郎)", "0"],
     [13, "Rosette Nebula", "ベルローズ(CV.戸松 遥・後藤沙緒里・内田真礼)", ""],
     [14, "どしゃぶりHAPPY!", "ハッピーレイン♪(CV.加藤英美里・小松未可子・芹澤優)", ""],
-    [15, "cherry-picking days", "福原あん＆森園わかな(CV.芹澤優＆内田真礼)", ""],
-    [16, "ALIVE -TV mix ver.-", "涼野いと＆小鳥遊おとは(CV.小松未可子＆後藤沙緒里)", ""],
-    [17, "Little Wing & Beautiful Pride", "彩瀬なる＆蓮城寺べる(CV.加藤英美里＆戸松 遥)", ""],
+    [15, "cherry-picking days", "福原あん＆森園わかな(CV.芹澤優＆内田真礼)", "0"],
+    [16, "ALIVE -TV mix ver.-", "涼野いと＆小鳥遊おとは(CV.小松未可子＆後藤沙緒里)", "0"],
+    [17, "Little Wing & Beautiful Pride", "彩瀬なる＆蓮城寺べる(CV.加藤英美里＆戸松 遥)", "0"],
     [18, "SEVENDAYS LOVE, SEVENDAYS FRIEND", "りんね＆天羽ジュネ(CV.佐倉綾音＆宍戸留美)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/751b9645-e506-483d-b678-79e6ce7e6f13", "https://vgmdb.net/album/44340"]
@@ -5214,7 +5214,7 @@ tracks = [
     [20, "華やかなディアクラウン", "長岡成貢", ""],
     [21, "困った事態", "長岡成貢", ""],
     [22, "大盛況のプリズムストーン", "長岡成貢", ""],
-    [23, "DJ.COOのキラデコ・トレーラー", "長岡成貢", ""],
+    [23, "DJ.COOのキラデコ・トレーラー", "長岡成貢", "0"],
     [24, "想い出のピアノ", "長岡成貢", ""],
     [25, "仲直り", "長岡成貢", ""],
     [26, "言いがかり", "長岡成貢", ""],
@@ -5310,12 +5310,12 @@ catalognumber = "EYCA-13172/B"
 date = "2021-07-21"
 album = "キラッとプリ☆チャン♪ソングコレクション～from MOONLIGHT MAGIC～ DX Vocal, Drama"
 tracks = [
-    [1, "Lustro della LUNA", "", ""],
+    [1, "Lustro della LUNA", "", "0"],
     [2, "プラネタリウムの殻", "", ""],
-    [3, "Awakening Light", "", ""],
-    [4, "Lustro della LUNA -inst.-", "", ""],
+    [3, "Awakening Light", "", "0"],
+    [4, "Lustro della LUNA -inst.-", "", "0"],
     [5, "プラネタリウムの殻 -inst.-", "", ""],
-    [6, "Awakening Light -inst.-", "", ""],
+    [6, "Awakening Light -inst.-", "", "0"],
     [7, "オリジナルミニドラマ『がんばれマスコッツ! みんなで楽しくエクササイズラビ!』", "", ""],
 ]
 links = ["https://vgmdb.net/album/109659"]
@@ -5325,9 +5325,9 @@ catalognumber = "EYCA-13172/B"
 date = "2021-07-21"
 album = "キラッとプリ☆チャン♪ソングコレクション～from MOONLIGHT MAGIC～ DX Vocal, Video"
 tracks = [
-    [1, "Lustro della LUNA", "", ""],
+    [1, "Lustro della LUNA", "", "0"],
     [2, "プラネタリウムの殻", "", ""],
-    [3, "Awakening Light", "", ""],
+    [3, "Awakening Light", "", "0"],
 ]
 links = ["https://vgmdb.net/album/109659"]
 
@@ -5356,9 +5356,9 @@ tracks = [
     [2, "スライドライド", "Run Girls, Run!", ""],
     [3, "りんごの木", "林鼓子", ""],
     [4, "キラッとスタート", "Run Girls, Run!", ""],
-    [5, "Go! Up! スターダム!", "Run Girls, Run!", ""],
-    [6, "Break the Blue!!", "Run Girls, Run!", ""],
-    [7, "Darling Darling", "森嶋優花", ""],
+    [5, "Go! Up! スターダム!", "Run Girls, Run!", "0"],
+    [6, "Break the Blue!!", "Run Girls, Run!", "0"],
+    [7, "Darling Darling", "森嶋優花", "1"],
     [8, "never-ending!!", "Run Girls, Run!", ""],
     [9, "ダイヤモンドスマイル", "Run Girls, Run!", ""],
     [10, "水着とスイカ", "Run Girls, Run!", ""],
@@ -5395,9 +5395,9 @@ catalognumber = "AVCA-49690/B"
 date = "2012-04-25"
 album = "Dear My Future ~未来の自分へ~ / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "Dear My Future 〜未来の自分へ〜", "Prizmmy☆", ""],
+    [1, "Dear My Future 〜未来の自分へ〜", "Prizmmy☆", "0"],
     [2, "Party driver", "Prizmmy☆", ""],
-    [3, "Dear My Future 〜未来の自分へ〜 (inst.)", "Prizmmy☆", ""],
+    [3, "Dear My Future 〜未来の自分へ〜 (inst.)", "Prizmmy☆", "0"],
     [4, "Party driver (inst.)", "Prizmmy☆", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/afb5d019-1d9c-498c-aa79-a72e3f2f8593", "https://vgmdb.net/album/44321"]
@@ -5407,8 +5407,8 @@ catalognumber = "AVCA-49690/B"
 date = "2012-04-25"
 album = "Dear My Future ~未来の自分へ~ / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "Dear My Future (ミュージッククリップ)", "Prizmmy☆", ""],
-    [2, "Dear My Future (ダンスマスターVer.)", "Prizmmy☆", ""],
+    [1, "Dear My Future (ミュージッククリップ)", "Prizmmy☆", "0"],
+    [2, "Dear My Future (ダンスマスターVer.)", "Prizmmy☆", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/afb5d019-1d9c-498c-aa79-a72e3f2f8593", "https://vgmdb.net/album/44321"]
 
@@ -5417,9 +5417,9 @@ catalognumber = "EYCA-12056/B"
 date = "2018-10-31"
 album = "Go! Up! スターダム! / Run Girls, Run! Disc 1 (CD) [EYCA-12056]"
 tracks = [
-    [1, "Go! Up! スターダム!", "Run Girls, Run!", ""],
+    [1, "Go! Up! スターダム!", "Run Girls, Run!", "0"],
     [2, "秋いろツイード", "Run Girls, Run!", ""],
-    [3, "Go! Up! スターダム! (Instrumental)", "Run Girls, Run!", ""],
+    [3, "Go! Up! スターダム! (Instrumental)", "Run Girls, Run!", "0"],
     [4, "秋いろツイード (Instrumental)", "Run Girls, Run!", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/23a79ec5-5e9d-49ff-8e63-c093c33172cf", "https://vgmdb.net/album/79410"]
@@ -5429,7 +5429,7 @@ catalognumber = "EYCA-12056/B"
 date = "2018-10-31"
 album = "Go! Up! スターダム! / Run Girls, Run! Disc 2 (DVD) [EYCA-12056B]"
 tracks = [
-    [1, "Go! Up! スターダム! Music Video", "Run Girls, Run!", ""],
+    [1, "Go! Up! スターダム! Music Video", "Run Girls, Run!", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/23a79ec5-5e9d-49ff-8e63-c093c33172cf", "https://vgmdb.net/album/79410"]
 
@@ -5453,7 +5453,7 @@ tracks = [
     [13, "EVERYBODY! EVERYBODY!", "", ""],
     [14, "YOU YOU YOU", "", ""],
     [15, "Special Kiss", "", ""],
-    [16, "COMETIC SILHOUETTE", "", ""],
+    [16, "COMETIC SILHOUETTE", "", "0"],
     [17, "Revelation", "", ""],
     [18, "Merry Birthday!", "", ""],
     [19, "ぷりっとぱ～ふぇくと", "", ""],
@@ -5488,9 +5488,9 @@ catalognumber = "EYCA-13739"
 date = "2022-05-18"
 album = "Chasing the dream / 鈴木杏奈"
 tracks = [
-    [1, "Chasing the dream", "鈴木杏奈", ""],
+    [1, "Chasing the dream", "鈴木杏奈", "0"],
     [2, "てのひらのありがとう", "鈴木杏奈", ""],
-    [3, "Chasing the dream -Instrumental-", "鈴木杏奈", ""],
+    [3, "Chasing the dream -Instrumental-", "鈴木杏奈", "0"],
     [4, "てのひらのありがとう -Instrumental-", "鈴木杏奈", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/1dd1a08e-dfcc-40b7-9fae-da0f91ddc7ce", "https://vgmdb.net/album/119178"]
@@ -5500,9 +5500,9 @@ catalognumber = "EYCA-12586"
 date = "2019-08-07"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 如月ルヰ"
 tracks = [
-    [1, "I know Shangri-La", "如月ルヰ（cv.蒼井翔太）", ""],
+    [1, "I know Shangri-La", "如月ルヰ（cv.蒼井翔太）", "0"],
     [2, "愛がもう少し欲しいよ", "如月ルヰ（cv.蒼井翔太）", ""],
-    [3, "I know Shangri-La inst.", "如月ルヰ（cv.蒼井翔太）", ""],
+    [3, "I know Shangri-La inst.", "如月ルヰ（cv.蒼井翔太）", "0"],
     [4, "愛がもう少し欲しいよ inst.", "如月ルヰ（cv.蒼井翔太）", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/2d201f78-7cd3-4f8b-ac8c-b30a38c3f08d", "https://vgmdb.net/album/86264"]
@@ -5514,21 +5514,21 @@ album = "プリティーリズム・オーロラドリーム プリズム☆ミ�
 tracks = [
     [1, "You May Dream", "LISP", ""],
     [2, "めらめらハートが熱くなる", "MARs", ""],
-    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "SUPER☆GiRLS", ""],
-    [4, "Dream Goes On", "春音あいら(CV.阿澄佳奈)", ""],
+    [3, "Happy GO Lucky! ～ハピ☆ラキでゴー!～", "SUPER☆GiRLS", "0"],
+    [4, "Dream Goes On", "春音あいら(CV.阿澄佳奈)", "0"],
     [5, "ココロ充電!", "天宮りずむ(CV.原紗友里)", ""],
     [6, "Switch On My Heart", "高峰みおん(CV.片岡あづさ)", ""],
-    [7, "1/1000永遠の美学", "Callings", ""],
+    [7, "1/1000永遠の美学", "Callings", "0"],
     [8, "We Will Win! －ココロのバトンでポ・ポンのポ～ン☆－", "東京女子流", ""],
-    [9, "Hop! Step!! Jump!!!", "MARs", ""],
+    [9, "Hop! Step!! Jump!!!", "MARs", "0"],
     [10, "Never Let me Down ～がんばりやぁ!～", "せれのん", ""],
     [11, "愛しのティンカーベル", "Callings", ""],
-    [12, "1000% キュン キュンさせてよ♥", "プリティーリズム☆オールスターズ", ""],
+    [12, "1000% キュン キュンさせてよ♥", "プリティーリズム☆オールスターズ", "0"],
     [13, "プリティーリズムでGo!", "MARs", ""],
     [14, "Shall We Go?!", "久里須かなめ(CV.伊藤かな恵)", ""],
-    [15, "Don't Give Up", "藤堂かのん(CV.明坂聡美)", ""],
+    [15, "Don't Give Up", "藤堂かのん(CV.明坂聡美)", "0"],
     [16, "Wonderful World", "城之内セレナ(CV.米澤円)", ""],
-    [17, "Everybody's Gonna Be Happy [TVサイズ]", "Prizmmy☆", ""],
+    [17, "Everybody's Gonna Be Happy [TVサイズ]", "Prizmmy☆", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/a20deda4-7241-4e5b-8f5c-840ebcb2fa8a", "https://vgmdb.net/album/36629"]
 
@@ -5589,13 +5589,13 @@ album = "プリティーリズム・オーロラドリーム プリズム☆ミ�
 tracks = [
     [1, "You May Dream (ノンテロップオープニング)", "LISP", ""],
     [2, "めらめらハートが熱くなる (スペシャルミュージッククリップ)", "MARs", ""],
-    [3, "Dream Goes On (スペシャルミュージッククリップ)", "春音あいら(CV.阿澄佳奈)", ""],
+    [3, "Dream Goes On (スペシャルミュージッククリップ)", "春音あいら(CV.阿澄佳奈)", "0"],
     [4, "ココロ充電! (スペシャルミュージッククリップ)", "天宮りずむ(CV.原紗友里)", ""],
     [5, "Switch On My Heart (スペシャルミュージッククリップ)", "高峰みおん(CV.片岡あづさ)", ""],
     [6, "Never Let me Down ～がんばりやぁ!～ (スペシャルミュージッククリップ)", "せれのん", ""],
-    [7, "Hop! Step!! Jump!!! (スペシャルミュージッククリップ)", "MARs", ""],
+    [7, "Hop! Step!! Jump!!! (スペシャルミュージッククリップ)", "MARs", "0"],
     [8, "You May Dream (スペシャルミュージッククリップ)", "LISP", ""],
-    [9, "Happy GO Lucky! ～ハピ☆ラキでゴー!～ (ノンテロップエンディング)", "SUPER☆GiRLS", ""],
+    [9, "Happy GO Lucky! ～ハピ☆ラキでゴー!～ (ノンテロップエンディング)", "SUPER☆GiRLS", "0"],
     [10, "We Will Win! -ココロのバトンでポ・ポンのポ～ン☆- (ノンテロップエンディング)", "東京女子流", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/a20deda4-7241-4e5b-8f5c-840ebcb2fa8a", "https://vgmdb.net/album/36629"]
@@ -5626,16 +5626,16 @@ catalognumber = "AVCA-62021"
 date = "2012-12-19"
 album = "プリティーリズム・ディアマイフューチャー プリズムソング・コレクション 「Life is just a miracle」"
 tracks = [
-    [1, "Life is Just a Miracle 〜生きているって素晴らしい〜", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", ""],
+    [1, "Life is Just a Miracle 〜生きているって素晴らしい〜", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", "0"],
     [2, "サンキュッ!!", "P&P［ヘイン・かりん・シユン］cv. 伊藤かな恵・津田美波・金香里", ""],
     [3, "Mirage JET", "Sprouts［あやみ・れいな・ジェウン］cv. 佐倉綾音・高森奈津美・米澤円", ""],
-    [4, "cheer! yeah!×2", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", ""],
-    [5, "LOVE♥MIX", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", ""],
-    [6, "Life is Just a Miracle 〜生きているって素晴らしい〜 (inst.)", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", ""],
+    [4, "cheer! yeah!×2", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", "0"],
+    [5, "LOVE♥MIX", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", "0"],
+    [6, "Life is Just a Miracle 〜生きているって素晴らしい〜 (inst.)", "Prizmmy☆ぼいすアクトレス［みあ・れいな・かりん・大瑠璃あやみ］cv. 大久保瑠美・高森奈津美・津田美波・佐倉綾音", "0"],
     [7, "サンキュッ!! (inst.)", "P&P［ヘイン・かりん・シユン］cv. 伊藤かな恵・津田美波・金香里", ""],
     [8, "Mirage JET (inst.)", "Sprouts［あやみ・れいな・ジェウン］cv. 佐倉綾音・高森奈津美・米澤円", ""],
-    [9, "cheer! yeah!×2 (inst.)", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", ""],
-    [10, "LOVE♥MIX (inst.)", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", ""],
+    [9, "cheer! yeah!×2 (inst.)", "COSMOs［みあ・ソミン・チェギョン］cv. 大久保瑠美・三宅麻理恵・明坂聡美", "0"],
+    [10, "LOVE♥MIX (inst.)", "LOVE-MIX［いつき・ヨンファ］cv. くまいもとこ・高山みなみ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0066297c-9431-460d-99c7-a5865e53c31b", "https://vgmdb.net/album/35716"]
 
@@ -5659,9 +5659,9 @@ date = "2011-06-15"
 album = "MAX! 乙女心/Happy GO Lucky! ~ハピ☆ラキでゴ→!~ / SUPER☆GiRLS"
 tracks = [
     [1, "MAX!乙女心", "SUPER☆GiRLS", ""],
-    [2, "Happy GO Lucky! ～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", ""],
+    [2, "Happy GO Lucky! ～ハピ☆ラキでゴ→!～", "SUPER☆GiRLS", "0"],
     [3, "MAX!乙女心 (Instrumental)", "SUPER☆GiRLS", ""],
-    [4, "Happy GO Lucky! ～ハピ☆ラキでゴ→!～ (Instrumental)", "SUPER☆GiRLS", ""],
+    [4, "Happy GO Lucky! ～ハピ☆ラキでゴ→!～ (Instrumental)", "SUPER☆GiRLS", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/42e705d1-7563-484d-a93d-45da343202bc", "https://vgmdb.net/album/65440"]
 
@@ -5670,12 +5670,12 @@ catalognumber = "EYCA-13738"
 date = "2022-05-18"
 album = "Chasing the dream / 鈴木杏奈 [アニメ盤]"
 tracks = [
-    [1, "Chasing the dream", "鈴木杏奈", ""],
+    [1, "Chasing the dream", "鈴木杏奈", "0"],
     [2, "てのひらのありがとう", "鈴木杏奈", ""],
-    [3, "Chasing the dream -TV ver.-", "鈴木杏奈", ""],
-    [4, "Chasing the dream -Instrumental-", "鈴木杏奈", ""],
+    [3, "Chasing the dream -TV ver.-", "鈴木杏奈", "0"],
+    [4, "Chasing the dream -Instrumental-", "鈴木杏奈", "0"],
     [5, "てのひらのありがとう -Instrumental-", "鈴木杏奈", ""],
-    [6, "Chasing the dream -TV ver. Instrumental-", "鈴木杏奈", ""],
+    [6, "Chasing the dream -TV ver. Instrumental-", "鈴木杏奈", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cc8d0a76-c264-4b58-b52c-241701879af8", "https://vgmdb.net/album/119179"]
 
@@ -5684,9 +5684,9 @@ catalognumber = "EYCA-13737/B"
 date = "2022-05-18"
 album = "Chasing the dream / 鈴木杏奈 Vocal"
 tracks = [
-    [1, "Chasing the dream", "鈴木杏奈", ""],
+    [1, "Chasing the dream", "鈴木杏奈", "0"],
     [2, "てのひらのありがとう", "鈴木杏奈", ""],
-    [3, "Chasing the dream -Instrumental-", "鈴木杏奈", ""],
+    [3, "Chasing the dream -Instrumental-", "鈴木杏奈", "0"],
     [4, "てのひらのありがとう -Instrumental-", "鈴木杏奈", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/0d404356-2a29-431d-861d-4fbc7477e3be", "https://vgmdb.net/album/119180"]
@@ -5696,8 +5696,8 @@ catalognumber = "EYCA-13737/B"
 date = "2022-05-18"
 album = "Chasing the dream / 鈴木杏奈 Vocal, Video"
 tracks = [
-    [1, "Chasing the dream –Music Video–", "鈴木杏奈", ""],
-    [2, "Chasing the dream –Off Shot Movie–", "鈴木杏奈", ""],
+    [1, "Chasing the dream –Music Video–", "鈴木杏奈", "0"],
+    [2, "Chasing the dream –Off Shot Movie–", "鈴木杏奈", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0d404356-2a29-431d-861d-4fbc7477e3be", "https://vgmdb.net/album/119180"]
 
@@ -5706,9 +5706,9 @@ catalognumber = "EYCA-12226"
 date = "2019-02-06"
 album = "Break the Blue!!/never-ending!! / Run Girls, Run!"
 tracks = [
-    [1, "Break the Blue!!", "Run Girls, Run!", ""],
+    [1, "Break the Blue!!", "Run Girls, Run!", "0"],
     [2, "never-ending!!", "Run Girls, Run!", ""],
-    [3, "Break the Blue!! (Instrumental)", "Run Girls, Run!", ""],
+    [3, "Break the Blue!! (Instrumental)", "Run Girls, Run!", "0"],
     [4, "never-ending!! (Instrumental)", "Run Girls, Run!", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/f9e0d573-5a7b-4e50-bee2-431c896bf42b", "https://vgmdb.net/album/82236"]
@@ -5720,12 +5720,12 @@ album = "プリパラドリームソング♪コレクション ~WINTER~"
 tracks = [
     [1, "ホワット・ア・ワンダプリ・ワールド!!", "", ""],
     [2, "純・アモーレ・愛", "", ""],
-    [3, "0-week-old", "", ""],
+    [3, "0-week-old", "", "0"],
     [4, "メッセージ by ひびき", "", ""],
     [5, "メッセージ by セレパラ歌劇団", "", ""],
     [6, "ホワット・ア・ワンダプリ・ワールド!! (inst)", "", ""],
     [7, "純・アモーレ・愛 (inst)", "", ""],
-    [8, "0-week-old (inst)", "", ""],
+    [8, "0-week-old (inst)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/55917"]
 
@@ -5734,8 +5734,8 @@ catalognumber = "EYCS-00084"
 date = "2021-01-08"
 album = "KING OF PRISMラジオCD \"Secret Rose Time\""
 tracks = [
-    [1, "KING OF PRISMラジオ ～Secret Rose Time～ 特別復刻版", "", ""],
-    [2, "KING OF PRISMラジオ ～Secret Rose Time～ 特別企画 “Radio Goes On!”", "", ""],
+    [1, "KING OF PRISMラジオ ～Secret Rose Time～ 特別復刻版", "", "0"],
+    [2, "KING OF PRISMラジオ ～Secret Rose Time～ 特別企画 “Radio Goes On!”", "", "0"],
 ]
 links = ["https://vgmdb.net/album/106446"]
 
@@ -5747,11 +5747,11 @@ tracks = [
     [1, "ヒロインズドラマ", "", ""],
     [2, "My Secreat heArtbeats", "", ""],
     [3, "スペース! スパイス! スペクタクル!", "", ""],
-    [4, "La La Meltic stAr", "", ""],
+    [4, "La La Meltic stAr", "", "0"],
     [5, "ヒロインズドラマ -inst.-", "", ""],
     [6, "My Secreat heArtbeats -inst.-", "", ""],
     [7, "スペース! スパイス! スペクタクル! -inst.-", "", ""],
-    [8, "La La Meltic stAr -inst.-", "", ""],
+    [8, "La La Meltic stAr -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91784"]
 
@@ -5760,9 +5760,9 @@ catalognumber = "EYCA-13554/B"
 date = "2021-12-01"
 album = "Dreaming Sound / 鈴木杏奈 Vocal"
 tracks = [
-    [1, "Dreaming Sound", "", ""],
+    [1, "Dreaming Sound", "", "0"],
     [2, "Sail Away Justice", "", ""],
-    [3, "Dreaming Sound -Instrumental-", "", ""],
+    [3, "Dreaming Sound -Instrumental-", "", "0"],
     [4, "Sail Away Justice -Instrumental-", "", ""],
 ]
 links = ["https://vgmdb.net/album/114357"]
@@ -5772,9 +5772,9 @@ catalognumber = "EYCA-13554/B"
 date = "2021-12-01"
 album = "Dreaming Sound / 鈴木杏奈 Vocal, Video"
 tracks = [
-    [1, "Dreaming Sound -Music Video-", "", ""],
-    [2, "Dreaming Sound -Making Video-", "", ""],
-    [3, "Dreaming Sound -Recording Documentary-", "", ""],
+    [1, "Dreaming Sound -Music Video-", "", "0"],
+    [2, "Dreaming Sound -Making Video-", "", "0"],
+    [3, "Dreaming Sound -Recording Documentary-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/114357"]
 
@@ -5837,13 +5837,13 @@ tracks = [
     [4, "No D&D code [Y&Co. Hard Dance Remix]", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
     [5, "ま～ぶるMake up a-ha-ha! [Hyper Techno Remix]", "真中らぁら & 南みれぃ (CV. 茜屋日海夏 & 芹澤優)", ""],
     [6, "太陽のflare sherbet [Super Euro Remix]", "北条そふぃ (CV. 久保田未夢)", ""],
-    [7, "CHANGE! MY WORLD [Blacklolita Future Bass Remix]", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", ""],
-    [8, "0-week-old [Y&Co. R&B Remix]", "ファルル (CV. 赤﨑千夏)", ""],
+    [7, "CHANGE! MY WORLD [Blacklolita Future Bass Remix]", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "0"],
+    [8, "0-week-old [Y&Co. R&B Remix]", "ファルル (CV. 赤﨑千夏)", "0"],
     [9, "ぱぴぷぺ☆POLICE! [80'S Style Remix]", "真中らぁら、ドロシー・ウェスト、白玉みかん (CV. 茜屋日海夏、澁谷梓希、渡部優衣)", ""],
     [10, "トンでもSUMMER ADVENTURE [Extra Drop Mix]", "ドレッシングふらわー (CV. 山北早紀、若井友希、澁谷梓希、佐藤あずさ、茜屋日海夏)", ""],
     [11, "でび＆えん☆Reversible-Ring [Happy Trance Remix]", "アロマゲドン (CV. 牧野由依 & 渡部優衣)", ""],
     [12, "純・アモーレ・愛 [Y&Co. Eurobeat Remix]", "紫京院ひびき (CV. 斎賀みつき)", ""],
-    [13, "Love friend style [DJ Shimamura's Hardcore Rave Remix]", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", ""],
+    [13, "Love friend style [DJ Shimamura's Hardcore Rave Remix]", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e99ff549-84ff-48fd-81d0-c370508a4b31", "https://vgmdb.net/album/66967"]
 
@@ -5881,20 +5881,20 @@ tracks = [
     [1, "チクタク・Magicaる・アイドルタイム!", "", ""],
     [2, "ブランニュー・ハピネス!", "", ""],
     [3, "あっちゃこっちゃゲーム", "", ""],
-    [4, "GOスト♭コースター", "", ""],
+    [4, "GOスト♭コースター", "", "0"],
     [5, "快打洗心♡カッキンBUDDY", "", ""],
     [6, "Miss.プリオネア", "", ""],
-    [7, "Dear My Future ～未来の自分へ～", "", ""],
+    [7, "Dear My Future ～未来の自分へ～", "", "0"],
     [8, "サンシャイン・ベル", "", ""],
     [9, "すた～らいとカーニバル☆", "", ""],
     [10, "リンリン♪がぁらふぁらんど", "", ""],
     [11, "チクタク・Magicaる・アイドルタイム!", "", ""],
-    [12, "Giraギャラティック・タイトロープ", "", ""],
-    [13, "Get Over Dress-code", "", ""],
+    [12, "Giraギャラティック・タイトロープ", "", "0"],
+    [13, "Get Over Dress-code", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "1"],
     [14, "チクタク・Magicaる・アイドルタイム! -WITH Ver.-", "", ""],
-    [15, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", ""],
+    [15, "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-", "", "0"],
     [16, "Memorial", "", ""],
-    [17, "Believe My DREAM!", "", ""],
+    [17, "Believe My DREAM!", "MY☆DREAM (CV. 伊達朱里紗、大地葉、山田唯菜)", "1"],
 ]
 links = ["https://vgmdb.net/album/76865"]
 
@@ -5903,7 +5903,7 @@ catalognumber = "EYCA-11675"
 date = "2018-06-27"
 album = "アイドルタイムプリパラ☆ミュージックコレクション Original Soundtrack, Vocal"
 tracks = [
-    [1, "Just be yourself -TV size-", "", ""],
+    [1, "Just be yourself -TV size-", "", "0"],
     [2, "最上級ぱらどっくす -TV size-", "", ""],
     [3, "Memorial -TV size-", "", ""],
     [4, "アイドル：タイム!! -TV size-", "", ""],
@@ -5951,9 +5951,9 @@ catalognumber = "EYCA-12057"
 date = "2018-10-31"
 album = "Go! Up! スターダム! / Run Girls, Run!"
 tracks = [
-    [1, "Go! Up! スターダム!", "Run Girls, Run!", ""],
+    [1, "Go! Up! スターダム!", "Run Girls, Run!", "0"],
     [2, "秋いろツイード", "Run Girls, Run!", ""],
-    [3, "Go! Up! スターダム! (Instrumental)", "Run Girls, Run!", ""],
+    [3, "Go! Up! スターダム! (Instrumental)", "Run Girls, Run!", "0"],
     [4, "秋いろツイード (Instrumental)", "Run Girls, Run!", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/ad00db56-b010-4585-944d-cc0e453fde2b", "https://vgmdb.net/album/79409"]
@@ -5972,7 +5972,7 @@ tracks = [
     [7, "えもめきピッカーン", "えも(CV:久保田未夢)", ""],
     [8, "My Secret heArtbeats", "さら(CV:若井友希)", ""],
     [9, "フレンドパスワード", "だいあ(CV:佐々木李子)", ""],
-    [10, "La La Meltic StAr", "メルティックスター (CV:芹澤優、若井友希、森嶋優花)", ""],
+    [10, "La La Meltic StAr", "メルティックスター (CV:芹澤優、若井友希、森嶋優花)", "0"],
     [11, "ロケットハート", "ミラクル☆キラッツ (CV:林鼓子、久保田未夢、厚木那奈美)", ""],
     [12, "ヒロインズドラマ", "あんな(CV:芹澤優)", ""],
     [13, "ツヨキ!ツインテールズ", "えも&あんな (CV:久保田未夢&芹澤優)", ""],
@@ -5980,7 +5980,7 @@ tracks = [
     [15, "MEMORIES FOR FUTURE", "みらい&だいあ (CV:林鼓子&佐々木李子)", ""],
     [16, "ダイヤモンドスマイル", "オール☆ジュエルアイドルズ (CV:林鼓子、久保田未夢、厚木那奈美、芹澤優、若井友希、森嶋優花、茜屋日海夏、徳井青空、佐々木李子、 三森すずこ)", ""],
     [17, "じゃんけんキラッと!プリ☆チャン", "みらい(CV: 林 鼓子)", ""],
-    [18, "Brand New Girls", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", ""],
+    [18, "Brand New Girls", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", "1"],
 ]
 links = ["https://beta.musicbrainz.org/release/58ffc2b8-dd81-44ac-b110-46ba5202c66b", "https://vgmdb.net/album/97888"]
 
@@ -5992,7 +5992,7 @@ tracks = [
     [1, "ダイヤモンドスマイル -TV Size.-", "Run Girls, Run!", ""],
     [2, "キラリスト・ジュエリスト -TV Size.-", "Run Girls, Run!", ""],
     [3, "じゃんけんキラッと！プリ☆チャン -TV Size.-", "みらい(CV: 林 鼓子)", ""],
-    [4, "Brand New Girls -TV Size.-", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", ""],
+    [4, "Brand New Girls -TV Size.-", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", "0"],
     [5, "夕暮れの空に", "加藤達也", ""],
     [6, "ひとりぼっちの星空", "加藤達也", ""],
     [7, "友情", "加藤達也", ""],
@@ -6045,7 +6045,7 @@ tracks = [
     [1, "ダイヤモンドスマイル (第11話～第26話ver.) (ノンテロップオープニングテーマ)", "[unknown]", ""],
     [2, "キラリスト・ジュエリスト (第51話ver.) (ノンテロップオープニングテーマ)", "[unknown]", ""],
     [3, "じゃんけんキラッと!プリ☆チャン (第14話～第26話ver.) (ノンテロップエンディングテーマ)", "[unknown]", ""],
-    [4, "Brand New Girls (第40話～第51話ver.) (ノンテロップエンディングテーマ)", "[unknown]", ""],
+    [4, "Brand New Girls (第40話～第51話ver.) (ノンテロップエンディングテーマ)", "[unknown]", "0"],
     [5, "TOKIMEKIハート・ジュエル♪ (プリ☆チャンライブ映像)", "みらい(CV: 林 鼓子)", ""],
     [6, "シアワ星かわいい賛歌 (プリ☆チャンライブ映像)", "まりあ(CV:茜屋日海夏)", ""],
     [7, "夢色エナジー (プリ☆チャンライブ映像)", "りんか(CV:厚木那奈美)", ""],
@@ -6055,7 +6055,7 @@ tracks = [
     [11, "えもめきピッカーン (プリ☆チャンライブ映像)", "えも(CV:久保田未夢)", ""],
     [12, "My Secret heArtbeats (プリ☆チャンライブ映像)", "さら(CV:若井友希)", ""],
     [13, "フレンドパスワード (プリ☆チャンライブ映像)", "だいあ(CV:佐々木李子)", ""],
-    [14, "La La Meltic StAr (プリ☆チャンライブ映像)", "メルティックスター", ""],
+    [14, "La La Meltic StAr (プリ☆チャンライブ映像)", "メルティックスター", "0"],
     [15, "ロケットハート (プリ☆チャンライブ映像)", "ミラクル☆キラッツ", ""],
     [16, "ヒロインズドラマ (プリ☆チャンライブ映像)", "あんな(CV:芹澤優)", ""],
     [17, "ツヨキ!ツインテールズ (プリ☆チャンライブ映像)", "えも&あんな (CV:久保田未夢&芹澤優)", ""],
@@ -6071,14 +6071,14 @@ catalognumber = "AVCA-74512/B"
 date = "2014-09-03"
 album = "プリティーリズム・レインボーライブ　プリズム☆ボーイズコレクション Disc 1 (CD) [AVCA-74512]"
 tracks = [
-    [1, "athletic core", "", ""],
+    [1, "athletic core", "", "0"],
     [2, "Flavor", "", ""],
     [3, "アフタートーク by コウジ", "", ""],
     [4, "アフタートーク by ヒロ", "", ""],
     [5, "アフタートーク by カヅキ", "", ""],
-    [6, "BOY MEETS GIRL -non dialog ver.-", "", ""],
+    [6, "BOY MEETS GIRL -non dialog ver.-", "", "0"],
     [7, "pride by Hiro×Koji", "", ""],
-    [8, "athletic core (inst)", "", ""],
+    [8, "athletic core (inst)", "", "0"],
     [9, "Flavor (inst)", "", ""],
     [10, "pride by Hiro×Koji (inst)", "", ""],
 ]
@@ -6090,7 +6090,7 @@ date = "2014-09-03"
 album = "プリティーリズム・レインボーライブ　プリズム☆ボーイズコレクション Disc 2 (DVD) [AVCA-74512B]"
 tracks = [
     [1, "pride", "", ""],
-    [2, "FREEDOM", "", ""],
+    [2, "FREEDOM", "", "0"],
     [3, "pride -revolution ver.-", "", ""],
 ]
 links = ["https://vgmdb.net/album/80876"]
@@ -6125,7 +6125,7 @@ tracks = [
     [13, "EVERYBODY! EVERYBODY!", "", ""],
     [14, "YOU YOU YOU", "", ""],
     [15, "Special Kiss", "", ""],
-    [16, "COMETIC SILHOUETTE", "", ""],
+    [16, "COMETIC SILHOUETTE", "", "0"],
     [17, "Revelation", "", ""],
     [18, "Merry Birthday!", "", ""],
     [19, "ぷりっとぱ～ふぇくと", "", ""],
@@ -6167,11 +6167,11 @@ date = "2022-07-20"
 album = "TVアニメ『ワッチャプリマジ!』キャラクターソングミニアルバム PUMPING WACCHA! 03 DX Vocal"
 tracks = [
     [1, "滲む、馨る、", "", ""],
-    [2, "Don't be Afraid", "", ""],
+    [2, "Don't be Afraid", "", "0"],
     [3, "奇跡の降る", "", ""],
     [4, "チェックワンツー", "", ""],
     [5, "滲む、馨る、 -inst.-", "", ""],
-    [6, "Don't be Afraid -inst.-", "", ""],
+    [6, "Don't be Afraid -inst.-", "", "0"],
     [7, "奇跡の降る -inst.-", "", ""],
     [8, "チェックワンツー -inst.-", "", ""],
 ]
@@ -6183,7 +6183,7 @@ date = "2022-07-20"
 album = "TVアニメ『ワッチャプリマジ!』キャラクターソングミニアルバム PUMPING WACCHA! 03 DX Vocal, Video"
 tracks = [
     [1, "滲む、馨る、", "", ""],
-    [2, "Don't be Afraid", "", ""],
+    [2, "Don't be Afraid", "", "0"],
     [3, "奇跡の降る", "", ""],
     [4, "チェックワンツー (ノンテロップED)", "", ""],
 ]
@@ -6228,12 +6228,12 @@ catalognumber = "EYCA-13173"
 date = "2021-07-21"
 album = "キラッとプリ☆チャン♪ソングコレクション～from MOONLIGHT MAGIC～"
 tracks = [
-    [1, "Lustro della LUNA", "", ""],
+    [1, "Lustro della LUNA", "", "0"],
     [2, "プラネタリウムの殻", "", ""],
-    [3, "Awakening Light", "", ""],
-    [4, "Lustro della LUNA -inst.-", "", ""],
+    [3, "Awakening Light", "", "0"],
+    [4, "Lustro della LUNA -inst.-", "", "0"],
     [5, "プラネタリウムの殻 -inst.-", "", ""],
-    [6, "Awakening Light -inst.-", "", ""],
+    [6, "Awakening Light -inst.-", "", "0"],
     [7, "オリジナルミニドラマ『がんばれマスコッツ! みんなで楽しくエクササイズラビ!』", "", ""],
 ]
 links = ["https://vgmdb.net/album/109658"]
@@ -6243,10 +6243,10 @@ catalognumber = "EYCA-13168/B"
 date = "2021-05-26"
 album = "キラッとプリ☆チャン♪ソングコレクション～from SUNSHINE CIRCUS～ DX Vocal, Drama"
 tracks = [
-    [1, "Despertar del SOL!", "", ""],
+    [1, "Despertar del SOL!", "", "0"],
     [2, "sunshine smiles", "", ""],
     [3, "アドリブ・デスティニー", "", ""],
-    [4, "Despertar del SOL! -inst.-", "", ""],
+    [4, "Despertar del SOL! -inst.-", "", "0"],
     [5, "sunshine smiles -inst.-", "", ""],
     [6, "アドリブ・デスティニー -inst.-", "", ""],
     [7, "オリジナルミニドラマ『アリスとイブ、そしてソルルも!? ルルナ応援マル秘大作戦!』", "", ""],
@@ -6259,7 +6259,7 @@ date = "2021-05-26"
 album = "キラッとプリ☆チャン♪ソングコレクション～from SUNSHINE CIRCUS～ DX Vocal, Video"
 tracks = [
     [1, "sunshine smiles", "", ""],
-    [2, "Despertar del SOL!", "", ""],
+    [2, "Despertar del SOL!", "", "0"],
     [3, "アドリブ・デスティニー", "", ""],
 ]
 links = ["https://vgmdb.net/album/109655"]
@@ -6281,7 +6281,7 @@ tracks = [
     [10, "Realize!", "i☆Ris", ""],
     [11, "ドリームパレード", "i☆Ris", ""],
     [12, "ブライトファンタジー", "i☆Ris", ""],
-    [13, "Goin’on", "i☆Ris", ""],
+    [13, "Goin’on", "i☆Ris", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/23f7bf46-672d-4d0b-93f3-c8d82e68b687", "https://vgmdb.net/album/121652"]
 
@@ -6342,7 +6342,7 @@ tracks = [
     [10, "Realize!", "", ""],
     [11, "ドリームパレード", "", ""],
     [12, "ブライトファンタジー", "", ""],
-    [13, "Goin'on", "", ""],
+    [13, "Goin'on", "", "0"],
     [14, "Ready Smile!!", "", ""],
     [15, "Re:Call", "", ""],
     [16, "Shining Star", "", ""],
@@ -6379,19 +6379,19 @@ tracks = [
     [2, "太陽のflare sherbet", "", ""],
     [3, "Pretty Prism Paradise!!!", "", ""],
     [4, "No D&D code", "", ""],
-    [5, "CHANGE! MY WORLD", "", ""],
-    [6, "HAPPYぱLUCKY", "", ""],
-    [7, "0-week-old", "", ""],
+    [5, "CHANGE! MY WORLD", "DressingPafé (CV. 山北早紀、澁谷梓希、若井友希)", "0"],
+    [6, "HAPPYぱLUCKY", "SoLaMi♡SMILE", "1"],
+    [7, "0-week-old", "", "0"],
     [8, "君100%人生", "", ""],
-    [9, "Love friend style", "", ""],
+    [9, "Love friend style", "SoLaMi Dressing (CV. 茜屋日海夏・芹澤 優・久保田未夢・山北早紀・澁谷梓希・若井友希)", "1"],
     [10, "Realize! -SoLaMiDressing ver.-", "", ""],
     [11, "Make it! -SoLaMiDressing&Falulu ver.-", "", ""],
     [12, "Make it! -TV size-", "", ""],
     [13, "ミラクル☆パラダイス -TV size-", "", ""],
     [14, "Realize! -TV size-", "", ""],
-    [15, "Jumpin'! Dancin'! -TV size-", "", ""],
+    [15, "Jumpin'! Dancin'! -TV size-", "Prizmmy☆", "0"],
     [16, "キラキランウェイ☆ -TV size-", "", ""],
-    [17, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ -TV size-", "", ""],
+    [17, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ -TV size-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/51841"]
 
@@ -6455,11 +6455,11 @@ tracks = [
     [1, "Make it! (ノンテロップオープニングテーマ)", "", ""],
     [2, "ミラクル☆パラダイス (ノンテロップオープニングテーマ)", "", ""],
     [3, "Realize! (ノンテロップオープニングテーマ)", "", ""],
-    [4, "Jumpin'! Dancin'! (ノンテロップエンディングテーマ)", "", ""],
+    [4, "Jumpin'! Dancin'! (ノンテロップエンディングテーマ)", "Prizmmy☆", "0"],
     [5, "キラキランウェイ☆ (ノンテロップエンディングテーマ)", "", ""],
-    [6, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ (ノンテロップエンディングテーマ)", "", ""],
-    [7, "Love friend style -SoLaMiDressing ver.- (プリパラライブ映像)", "", ""],
-    [8, "Love friend style -Laala solo ver.- (プリパラライブ映像)", "", ""],
+    [6, "I Just Wanna Be With You ～仮想(ヴァーチャル)と真実(リアル)の狭間で～ (ノンテロップエンディングテーマ)", "", "0"],
+    [7, "Love friend style -SoLaMiDressing ver.- (プリパラライブ映像)", "", "0"],
+    [8, "Love friend style -Laala solo ver.- (プリパラライブ映像)", "", "0"],
     [9, "Make it! -Falulu Comeback Live- (プリパラライブ映像)", "", ""],
 ]
 links = ["https://vgmdb.net/album/51841"]
@@ -6472,13 +6472,13 @@ tracks = [
     [1, "寒い夜だから...", "", ""],
     [2, "masquerade", "", ""],
     [3, "Unite! The Night!", "", ""],
-    [4, "JOY", "", ""],
-    [5, "LEGEND OF WIND", "", ""],
-    [6, "Love & Peace Forever", "", ""],
+    [4, "JOY", "", "0"],
+    [5, "LEGEND OF WIND", "", "0"],
+    [6, "Love & Peace Forever", "", "0"],
     [7, "Overnight Sensation", "", ""],
     [8, "Silver and Gold dance", "", ""],
     [9, "愛がもう少し欲しいよ", "", ""],
-    [10, "BRAND NEW TOMORROW", "", ""],
+    [10, "BRAND NEW TOMORROW", "", "0"],
 ]
 links = ["https://vgmdb.net/album/100781"]
 
@@ -6492,16 +6492,16 @@ tracks = [
     [3, "ラン♪ for ジャンピン!", "", ""],
     [4, "アメイジング・キャッスル", "", ""],
     [5, "Mon chouchou", "", ""],
-    [6, "Girl’s Fantasy", "", ""],
+    [6, "Girl’s Fantasy", "", "0"],
     [7, "シュガーレス×フレンド", "", ""],
     [8, "愛ドルを取り戻せ!", "", ""],
     [9, "ぷりっとぱ~ふぇくと -More Pritto/fect Mix-", "", ""],
     [10, "かりすま~とGIRL☆Yeah! -じゅのん Ver.-", "", ""],
     [11, "かりすま~とGIRL☆Yeah! -ぴのん Ver.-", "", ""],
     [12, "かりすま~とGIRL☆Yeah! -かのん Ver.-", "", ""],
-    [13, "0-week-old -Falulu with Hibiki Ver.-", "", ""],
+    [13, "0-week-old -Falulu with Hibiki Ver.-", "", "0"],
     [14, "ま~ぶる Make up a-ha-ha! -らぁら & のん Ver.-", "", ""],
-    [15, "Girl’s Fantasy -Jewlie with Janis Ver.-", "", ""],
+    [15, "Girl’s Fantasy -Jewlie with Janis Ver.-", "", "0"],
     [16, "組曲フォーエバー☆フレンズ~第一楽章~「I FRIEND YOU!」~第二楽章~「LOVE IS FRIEND」", "", ""],
     [17, "組曲フォーエバー☆フレンズ~インターリュード~「メモリーズ・メドレー」", "", ""],
     [18, "組曲フォーエバー☆フレンズ~第三楽章~「My Friend, Dear Friend」~第四楽章~「ウィー・アー・ザ・フレンズ!」", "", ""],
@@ -6515,10 +6515,10 @@ date = "2017-09-20"
 album = "プリパラ☆ミュージックコレクション season.3 Disc 2 [EYCA-11456]"
 tracks = [
     [1, "Ready Smile!! -TV size.-", "", ""],
-    [2, "Brand New Dreamer -TV size.-", "", ""],
+    [2, "Brand New Dreamer -TV size.-", "", "0"],
     [3, "Shining Star -TV size.-", "", ""],
     [4, "プリパラ☆ダンシング!!! -TV size.-", "", ""],
-    [5, "Growin’ Jewel! -TV size.-", "", ""],
+    [5, "Growin’ Jewel! -TV size.-", "", "0"],
     [6, "メインテーマA", "", ""],
     [7, "メインテーマB", "", ""],
     [8, "日常A", "", ""],
@@ -6573,14 +6573,14 @@ date = "2014-02-19"
 album = "プリティーリズム・レインボーライブ プリズム☆デュオコレクション Vocal, Drama"
 tracks = [
     [1, "あん&わかな、ステージ待機!", "", ""],
-    [2, "cherry-picking days", "", ""],
+    [2, "cherry-picking days", "", "0"],
     [3, "いと&おとは、ステージ待機!", "", ""],
     [4, "ALIVE", "", ""],
     [5, "なる&べる、ステージ待機!", "", ""],
-    [6, "Little Wing&Beautiful Pride", "", ""],
-    [7, "cherry-picking days (inst)", "", ""],
+    [6, "Little Wing&Beautiful Pride", "", "0"],
+    [7, "cherry-picking days (inst)", "", "0"],
     [8, "ALIVE (inst)", "", ""],
-    [9, "Little Wing&Beautiful Pride (inst)", "", ""],
+    [9, "Little Wing&Beautiful Pride (inst)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44420"]
 
@@ -6663,10 +6663,10 @@ catalognumber = "EYCA-12577"
 date = "2019-07-10"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 高田馬場ジョージ GS"
 tracks = [
-    [1, "JOKER KISS!", "高田馬場ジョージGS（cv.小林竜之）", ""],
-    [2, "JOY", "高田馬場ジョージGS（cv.小林竜之）", ""],
-    [3, "JOKER KISS! inst.", "高田馬場ジョージGS（cv.小林竜之）", ""],
-    [4, "JOY inst.", "高田馬場ジョージGS（cv.小林竜之）", ""],
+    [1, "JOKER KISS!", "高田馬場ジョージGS（cv.小林竜之）", "0"],
+    [2, "JOY", "高田馬場ジョージGS（cv.小林竜之）", "0"],
+    [3, "JOKER KISS! inst.", "高田馬場ジョージGS（cv.小林竜之）", "0"],
+    [4, "JOY inst.", "高田馬場ジョージGS（cv.小林竜之）", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/487c4578-745d-433b-928e-204581b55a6c", "https://vgmdb.net/album/86259"]
 
@@ -6705,7 +6705,7 @@ tracks = [
     [7, "えもめきピッカーン", "えも(CV:久保田未夢)", ""],
     [8, "My Secret heArtbeats", "さら(CV:若井友希)", ""],
     [9, "フレンドパスワード", "だいあ(CV:佐々木李子)", ""],
-    [10, "La La Meltic StAr", "メルティックスター (CV:芹澤優、若井友希、森嶋優花)", ""],
+    [10, "La La Meltic StAr", "メルティックスター (CV:芹澤優、若井友希、森嶋優花)", "0"],
     [11, "ロケットハート", "ミラクル☆キラッツ (CV:林鼓子、久保田未夢、厚木那奈美)", ""],
     [12, "ヒロインズドラマ", "あんな(CV:芹澤優)", ""],
     [13, "ツヨキ!ツインテールズ", "えも&あんな (CV:久保田未夢&芹澤優)", ""],
@@ -6713,7 +6713,7 @@ tracks = [
     [15, "MEMORIES FOR FUTURE", "みらい&だいあ (CV:林鼓子&佐々木李子)", ""],
     [16, "ダイヤモンドスマイル", "オール☆ジュエルアイドルズ (CV:林鼓子、久保田未夢、厚木那奈美、芹澤優、若井友希、森嶋優花、茜屋日海夏、徳井青空、佐々木李子、 三森すずこ)", ""],
     [17, "じゃんけんキラッと!プリ☆チャン", "みらい(CV: 林 鼓子)", ""],
-    [18, "Brand New Girls", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", ""],
+    [18, "Brand New Girls", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/cf5d1a0b-99aa-4966-aea3-487ad8eb8778", "https://vgmdb.net/album/97887"]
 
@@ -6725,7 +6725,7 @@ tracks = [
     [1, "ダイヤモンドスマイル -TV Size.-", "Run Girls, Run!", ""],
     [2, "キラリスト・ジュエリスト -TV Size.-", "Run Girls, Run!", ""],
     [3, "じゃんけんキラッと！プリ☆チャン -TV Size.-", "みらい(CV: 林 鼓子)", ""],
-    [4, "Brand New Girls -TV Size.-", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", ""],
+    [4, "Brand New Girls -TV Size.-", "ブランニュー☆ガールズ (CV:林鼓子、厚木那奈美、森嶋優花)", "0"],
     [5, "夕暮れの空に", "加藤達也", ""],
     [6, "ひとりぼっちの星空", "加藤達也", ""],
     [7, "友情", "加藤達也", ""],
@@ -6802,14 +6802,14 @@ tracks = [
     [3, "Starved For You", "", ""],
     [4, "氷上白浪男", "", ""],
     [5, "Surprise Decoration!", "", ""],
-    [6, "FREEDOM", "", ""],
+    [6, "FREEDOM", "", "0"],
     [7, "pride-仮面舞踏会ver.-", "", ""],
     [8, "レッドナイト・ヴァンパイア inst.", "", ""],
     [9, "約束のサジタリウス inst.", "", ""],
     [10, "Starved For You inst.", "", ""],
     [11, "氷上白浪男 inst.", "", ""],
     [12, "Surprise Decoration! inst.", "", ""],
-    [13, "FREEDOM inst.", "", ""],
+    [13, "FREEDOM inst.", "", "0"],
     [14, "pride-仮面舞踏会ver.- inst.", "", ""],
 ]
 links = ["https://vgmdb.net/album/80880"]
@@ -6819,9 +6819,9 @@ catalognumber = "AVCA-62390/B"
 date = "2013-05-22"
 album = "BOY MEETS GIRL / Prizmmy☆ Disc 1 (CD)"
 tracks = [
-    [1, "BOY MEETS GIRL", "", ""],
-    [2, "BOY MEETS GIRL -Prism Game Remix-", "", ""],
-    [3, "BOY MEETS GIRL (inst.)", "", ""],
+    [1, "BOY MEETS GIRL", "", "0"],
+    [2, "BOY MEETS GIRL -Prism Game Remix-", "", "0"],
+    [3, "BOY MEETS GIRL (inst.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44343"]
 
@@ -6830,8 +6830,8 @@ catalognumber = "AVCA-62390/B"
 date = "2013-05-22"
 album = "BOY MEETS GIRL / Prizmmy☆ Disc 2 (DVD)"
 tracks = [
-    [1, "BOY MEETS GIRL (ミュージックビデオ)", "", ""],
-    [2, "BOY MEETS GIRL (ダンスマスターVer.)", "", ""],
+    [1, "BOY MEETS GIRL (ミュージックビデオ)", "", "0"],
+    [2, "BOY MEETS GIRL (ダンスマスターVer.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/44343"]
 
@@ -6865,11 +6865,11 @@ tracks = [
     [1, "ヒロインズドラマ", "", ""],
     [2, "My Secreat heArtbeats", "", ""],
     [3, "スペース! スパイス! スペクタクル!", "", ""],
-    [4, "La La Meltic stAr", "", ""],
+    [4, "La La Meltic stAr", "", "0"],
     [5, "ヒロインズドラマ -inst.-", "", ""],
     [6, "My Secreat heArtbeats -inst.-", "", ""],
     [7, "スペース! スパイス! スペクタクル! -inst.-", "", ""],
-    [8, "La La Meltic stAr -inst.-", "", ""],
+    [8, "La La Meltic stAr -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/91783"]
 
@@ -6880,7 +6880,7 @@ album = "キラッとプリ☆チャン♪ソングコレクション ～メル�
 tracks = [
     [1, "スペース! スパイス! スペクタクル!", "", ""],
     [2, "My Secreat heArtbeats", "", ""],
-    [3, "La La Meltic stAr", "", ""],
+    [3, "La La Meltic stAr", "", "0"],
     [4, "じゃんけんキラッと! プリ☆チャン (ノンテロップED)", "", ""],
 ]
 links = ["https://vgmdb.net/album/91783"]
@@ -6897,16 +6897,16 @@ tracks = [
     [5, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
     [6, "乙女アテンションプリーズ", "ミラクル☆キラッツ (cv.林 鼓子、久保田未夢、厚木那奈美)", ""],
     [7, "Play Sound☆", "メルティックスター(CV.芹澤優、若井友希)", ""],
-    [8, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [8, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [9, "寝ても覚めてもDREAMIN' GIRL", "メルティックスター (cv.芹澤 優、若井友希、森嶋優花)", ""],
     [10, "キラッとスタート", "ミラクル☆スター (cv.林 鼓子、久保田未夢、厚木那奈美、芹澤 優、若井友希、森嶋優花)", ""],
     [11, "フォーチュン・カラット", "アンジュ(CV.三森すずこ)", ""],
     [12, "パーフェクト・フィナーレ", "アイランジュ (CV.三森すずこ、阿澄佳奈)", ""],
     [13, "キラッとスタート -TV size-", "Run Girls, Run!", ""],
-    [14, "Go! Up! スターダム! -TV size-", "Run Girls, Run!", ""],
+    [14, "Go! Up! スターダム! -TV size-", "Run Girls, Run!", "0"],
     [15, "never-ending!! -TV size-", "Run Girls, Run!", ""],
     [16, "プリティー☆チャンネル -TV size-", "わーすた", ""],
-    [17, "KIRA KIRA ホログラム -TV size-", "わーすた", ""],
+    [17, "KIRA KIRA ホログラム -TV size-", "わーすた", "0"],
     [18, "SHINING FLOWER -TV size-", "わーすた", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/fed0c8ec-48ad-4d99-959e-6d891a966b7c", "https://vgmdb.net/album/87409"]
@@ -6963,10 +6963,10 @@ date = "2019-09-11"
 album = "キラッとプリ☆チャン♪ミュージックコレクション DX Vocal, Video"
 tracks = [
     [1, "キラッとスタート(第16話～第26話ver.)", "Run Girls, Run!", ""],
-    [2, "Go! Up! スターダム!", "Run Girls, Run!", ""],
+    [2, "Go! Up! スターダム!", "Run Girls, Run!", "0"],
     [3, "never-ending!!(第47話~第51話ver.)", "Run Girls, Run!", ""],
     [4, "プリティー☆チャンネル(第16話~第26話ver.)", "わーすた", ""],
-    [5, "KIRA KIRA ホログラム", "わーすた", ""],
+    [5, "KIRA KIRA ホログラム", "わーすた", "0"],
     [6, "SHINING FLOWER(第46話~第51話ver.)", "わーすた", ""],
     [7, "レディー・アクション!", "ミラクル☆キラッツ(cv.林鼓子、久保田未夢)", ""],
     [8, "ワン・ツー・スウィーツ", "みらい(cv. 林 鼓子)", ""],
@@ -6974,7 +6974,7 @@ tracks = [
     [10, "Play Sound☆", "メルティックスター(cv.芹澤優、若井友希)", ""],
     [11, "キラリ覚醒☆リインカーネーション", "りんか(cv.厚木那奈美)", ""],
     [12, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(cv.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [13, "COMETIC SILHOUETTE", "メルティックスター(cv.芹澤優、若井友希、森嶋優花)", ""],
+    [13, "COMETIC SILHOUETTE", "メルティックスター(cv.芹澤優、若井友希、森嶋優花)", "0"],
     [14, "フォーチュン・カラット", "アンジュ(cv.三森すずこ)", ""],
     [15, "乙女アテンションプリーズ", "ミラクル☆キラッツ(cv.林鼓子、久保田未夢、厚木那奈美)", ""],
     [16, "寝ても覚めてもDREAMIN' GIRL", "メルティックスター(cv.芹澤優、若井友希、森嶋優花)", ""],
@@ -7003,11 +7003,11 @@ album = "TVアニメ『ワッチャプリマジ!』キャラクターソング�
 tracks = [
     [1, "こんな世界に告ぐ", "", ""],
     [2, "The Secret Garden", "", ""],
-    [3, "Believe", "", ""],
+    [3, "Believe", "", "0"],
     [4, "ワッチャ!プリーズ!マジック! -What's your \"Please\" Magic?-", "", ""],
     [5, "こんな世界に告ぐ -inst.-", "", ""],
     [6, "The Secret Garden -inst.-", "", ""],
-    [7, "Believe -inst.-", "", ""],
+    [7, "Believe -inst.-", "", "0"],
     [8, "ワッチャ!プリーズ!マジック! -What's your \"Please\" Magic?- -inst.-", "", ""],
 ]
 links = ["https://vgmdb.net/album/118593"]
@@ -7019,7 +7019,7 @@ album = "TVアニメ『ワッチャプリマジ!』キャラクターソング�
 tracks = [
     [1, "こんな世界に告ぐ", "", ""],
     [2, "The Secret Garden", "", ""],
-    [3, "Believe", "", ""],
+    [3, "Believe", "", "0"],
     [4, "ワッチャ!プリーズ!マジック! -What's your \"Please\" Magic?-", "", ""],
 ]
 links = ["https://vgmdb.net/album/118593"]
@@ -7043,7 +7043,7 @@ tracks = [
     [12, "アルティメット☆MAGIC", "", ""],
     [13, "Happy New World☆", "", ""],
     [14, "Ready Smile (Enc)", "", ""],
-    [15, "Goin'on (Enc)", "", ""],
+    [15, "Goin'on (Enc)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/124601"]
 
@@ -7054,11 +7054,11 @@ album = "キラッとプリ☆チャン♪ソングコレクション～2ndチ�
 tracks = [
     [1, "キラリ覚醒☆リインカネーション", "りんか(CV.厚木那奈美)", ""],
     [2, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [4, "フォーチュン・カラット", "アンジュ(CV.三森すずこ)", ""],
     [5, "キラリ覚醒☆リインカネーション -inst.-", "りんか(CV.厚木那奈美)", ""],
     [6, "SUPER CUTIE SUPER GIRL -inst.-", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [7, "COMETIC SILHOUETTE -inst.-", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [7, "COMETIC SILHOUETTE -inst.-", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [8, "フォーチュン・カラット -inst.-", "白鳥アンジュ(CV.三森すずこ)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/5ef047dd-4cf9-4ba6-a7d8-21db5372188e", "https://vgmdb.net/album/81878"]
@@ -7070,7 +7070,7 @@ album = "キラッとプリ☆チャン♪ソングコレクション～2ndチ�
 tracks = [
     [1, "キラリ覚醒☆リインカネーション", "りんか(CV.厚木那奈美)", ""],
     [2, "SUPER CUTIE SUPER GIRL", "ミラクル☆キラッツ(CV.林鼓子、久保田未夢、厚木那奈美)", ""],
-    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", ""],
+    [3, "COMETIC SILHOUETTE", "メルティックスター(CV.芹澤優、若井友希、森嶋優花)", "0"],
     [4, "フォーチュン・カラット", "白鳥アンジュ(CV.三森すずこ)", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/5ef047dd-4cf9-4ba6-a7d8-21db5372188e", "https://vgmdb.net/album/81878"]
@@ -7125,10 +7125,10 @@ catalognumber = "EYCA-11215"
 date = "2016-11-23"
 album = "GROWIN' JEWEL! / SoLaMi Dressing"
 tracks = [
-    [1, "GROWIN' JEWEL!", "", ""],
-    [2, "GROWIN' JEWEL! -SoLaMi♡SMILE ver.-", "", ""],
-    [3, "GROWIN' JEWEL! -DressingPafe ver.-", "", ""],
-    [4, "GROWIN' JEWEL! -inst.-", "", ""],
+    [1, "GROWIN' JEWEL!", "SoLaMi Dressing", "1"],
+    [2, "GROWIN' JEWEL! -SoLaMi♡SMILE ver.-", "", "0"],
+    [3, "GROWIN' JEWEL! -DressingPafe ver.-", "", "0"],
+    [4, "GROWIN' JEWEL! -inst.-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/62101"]
 
@@ -7146,11 +7146,11 @@ tracks = [
     [7, "パニックラビリンス", "あじみ(cv.上田麗奈)", ""],
     [8, "オムオムライス", "コズミックオムライスダ・ヴィンチ", ""],
     [9, "ぱぴぷぺ☆POLICE!", "らぁら(cv.茜屋日海夏)、ドロシー(cv.澁谷梓希)、みかん(cv.渡部優衣)", ""],
-    [10, "0-week-old", "ファルル(cv.赤﨑千夏)", ""],
+    [10, "0-week-old", "ファルル(cv.赤﨑千夏)", "0"],
     [11, "純・アモーレ・愛", "紫京院ひびき(cv.斎賀みつき)", ""],
     [12, "ホワット・ア・ワンダプリ・ワールド!!", "セレパラ歌劇団(cv.斎賀みつき・渡部優衣・山北早紀・久保田未夢・赤﨑千夏)", ""],
     [13, "ヴァーチャデリアイドル", "赤井めが姉ぇ(cv.伊藤かな恵)", ""],
-    [14, "0-week-old -ガァルルver.-", "ガァルル(cv.真田アサミ)", ""],
+    [14, "0-week-old -ガァルルver.-", "ガァルル(cv.真田アサミ)", "0"],
     [15, "ぷりっとぱ〜ふぇくと", "南みれぃ(cv.芹澤優)", ""],
     [16, "Twin mirror compact", "ドロシー・ウェスト&レオナ・ウェスト(cv.澁谷梓希&若井友希)", ""],
     [17, "アラウンド・ザ・プリパランド!", "ふれんど〜る&セレパラ歌劇団(cv.茜屋日海夏&芹澤 優&久保田未夢&山北早紀&澁谷梓希&若井友希&牧野由依&渡部優衣&赤﨑千夏&斎賀みつき)", ""],
@@ -7167,11 +7167,11 @@ album = "プリパラ☆ミュージックコレクション season.2 DX Disc 2 
 tracks = [
     [1, "ドリームパレード -TV size-", "", ""],
     [2, "ブライトファンタジー -TV size-", "", ""],
-    [3, "Goin'on -TV size-", "", ""],
+    [3, "Goin'on -TV size-", "", "0"],
     [4, "アイドルキンリョク♥Lesson GO! -TV size-", "", ""],
     [5, "胸キュンLove Song -TV size-", "", ""],
     [6, "レインボウ・メロディー♪ -TV size-", "", ""],
-    [7, "LOVE TROOPER -TV size-", "", ""],
+    [7, "LOVE TROOPER -TV size-", "", "0"],
     [8, "プリパラ2メインテーマ", "", ""],
     [9, "黄昏", "", ""],
     [10, "第1変身シーン", "", ""],
@@ -7218,11 +7218,11 @@ album = "プリパラ☆ミュージックコレクション season.2 DX Disc 3 
 tracks = [
     [1, "ドリームパレード (ノンテロップオープニングテーマ)", "", ""],
     [2, "ブライトファンタジー (ノンテロップオープニングテーマ)", "", ""],
-    [3, "Goin'on (ノンテロップオープニングテーマ)", "", ""],
+    [3, "Goin'on (ノンテロップオープニングテーマ)", "", "0"],
     [4, "アイドルキンリョク♥Lesson GO! (ノンテロップエンディングテーマ)", "", ""],
     [5, "胸キュンLove Song (ノンテロップエンディングテーマ)", "", ""],
     [6, "レインボウ・メロディー♪ (ノンテロップエンディングテーマ)", "", ""],
-    [7, "LOVE TROOPER (ノンテロップエンディングテーマ)", "", ""],
+    [7, "LOVE TROOPER (ノンテロップエンディングテーマ)", "", "0"],
     [8, "トンでもSUMMER ADVENTURE (プリパラライブ映像)", "", ""],
     [9, "オムオムライス (プリパラライブ映像)", "", ""],
     [10, "ホワット・ア・ワンダプリ・ワールド!! (プリパラライブ映像)", "", ""],
@@ -7294,7 +7294,7 @@ tracks = [
     [12, "アルティメット☆MAGIC", "", ""],
     [13, "Happy New World☆", "", ""],
     [14, "Ready Smile (Enc)", "", ""],
-    [15, "Goin'on (Enc)", "", ""],
+    [15, "Goin'on (Enc)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/124604"]
 
@@ -7361,7 +7361,7 @@ tracks = [
     [10, "Realize!", "", ""],
     [11, "ドリームパレード", "", ""],
     [12, "ブライトファンタジー", "", ""],
-    [13, "Goin'on", "", ""],
+    [13, "Goin'on", "", "0"],
 ]
 links = ["https://vgmdb.net/album/121650"]
 
@@ -7434,9 +7434,9 @@ catalognumber = "EYCA-12581"
 date = "2019-06-26"
 album = "KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 香賀美タイガ"
 tracks = [
-    [1, "Fly in the sky", "香賀美タイガ（cv.畠中祐）", ""],
+    [1, "Fly in the sky", "香賀美タイガ（cv.畠中祐）", "0"],
     [2, "masquerade", "香賀美タイガ（cv.畠中祐）", ""],
-    [3, "Fly in the sky inst.", "香賀美タイガ（cv.畠中祐）", ""],
+    [3, "Fly in the sky inst.", "香賀美タイガ（cv.畠中祐）", "0"],
     [4, "masquerade inst.", "香賀美タイガ（cv.畠中祐）", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/e32ac215-9f38-4859-9ded-9b6a638690ac", "https://vgmdb.net/album/86257"]
@@ -7461,9 +7461,9 @@ tracks = [
     [6, "シュガーレス×フレンド (DELACTION Remix)", "NonSugar", ""],
     [7, "Red Flash Revolution (Y&Co. Eurobeat Remix)", "北条そふぃ", ""],
     [8, "Neo Dimension Go!! (DJ Shimamura's DRUM&BASS Remix)", "Tricolore", ""],
-    [9, "Growin' Jewel! (Y&Co. 80's Eurobeat Remix)", "SoLaMi Dressing", ""],
+    [9, "Growin' Jewel! (Y&Co. 80's Eurobeat Remix)", "SoLaMi Dressing", "0"],
     [10, "アメイジング・キャッスル (DJ BOSS ULTRA EDM Remix)", "Gaarmageddon", ""],
-    [11, "Girl's Fantasy (DJ BOSS Cyber Remix)", "ジュリィ", ""],
+    [11, "Girl's Fantasy (DJ BOSS Cyber Remix)", "ジュリィ", "0"],
     [12, "TRIal HEART 〜恋の違反チケット〜 (DJ BOSS HEART EUROBEAT Remix)", "南みれぃ", ""],
     [13, "ぷりぱら☆ララン (DJ Noriken Hardcore Mix)", "スーパープリパラ☆オールアイドル's", ""],
 ]
@@ -7504,19 +7504,19 @@ tracks = [
     [2, "ま～ぶる Make up a-ha-ha!", "茜屋日海夏 & 芹澤優", ""],
     [3, "Pretty Prism Paradise!!!", "茜屋日海夏, 芹澤優 & 久保田未夢", ""],
     [4, "No D&D code", "山北早紀, 澁谷梓希 & 若井友希", ""],
-    [5, "CHANGE! MY WORLD", "山北早紀, 澁谷梓希 & 若井友希", ""],
-    [6, "HAPPYぱLUCKY", "茜屋日海夏, 芹澤優 & 久保田未夢", ""],
+    [5, "CHANGE! MY WORLD", "山北早紀, 澁谷梓希 & 若井友希", "0"],
+    [6, "HAPPYぱLUCKY", "茜屋日海夏, 芹澤優 & 久保田未夢", "0"],
     [7, "Realize! -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希&若井友希", ""],
-    [8, "0(ゼロ)-week-old", "赤﨑千夏", ""],
+    [8, "0(ゼロ)-week-old", "赤﨑千夏", "0"],
     [9, "君100%人生", "山本希望", ""],
-    [10, "Love friend style", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", ""],
+    [10, "Love friend style", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", "0"],
     [11, "Make it! -SoLaMiDressing&Falulu ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希 & 赤﨑千夏", ""],
     [12, "でび&えん☆Reversible-Ring", "牧野由依 & 渡部優衣", ""],
     [13, "太陽のflare sherbet -サクラシャワーver.-", "久保田未夢", ""],
     [14, "ドリームパレード", "茜屋日海夏, 芹澤優 & 久保田未夢", ""],
     [15, "コノウタトマレイヒ", "佐藤あずさ", ""],
     [16, "ラッキー!サプライズ☆バースデイ", "牧野由依, 渡部優衣, 茜屋日海夏, 芹澤優 & 久保田未夢", ""],
-    [17, "0(ラブ)-week-old", "赤﨑千夏", ""],
+    [17, "0(ラブ)-week-old", "赤﨑千夏", "0"],
     [18, "パニックラビリンス", "上田麗奈", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/219bf471-04fc-4f7d-9aac-6f17b436cb49", "https://vgmdb.net/album/84689"]
@@ -7533,7 +7533,7 @@ tracks = [
     [5, "純(ピュ)・アモーレ・愛", "斎賀みつき", ""],
     [6, "ホワット・ア・ワンダプリ・ワールド!!", "斎賀みつき, 赤﨑千夏, 久保田未夢, 山北早紀 & 渡部優衣", ""],
     [7, "ヴァーチャデリアイドル□", "伊藤かな恵", ""],
-    [8, "0(ラブ)-week-old -ガァルルver.-", "真田アサミ", ""],
+    [8, "0(ラブ)-week-old -ガァルルver.-", "真田アサミ", "0"],
     [9, "ぷりっとぱ～ふぇくと", "芹澤優", ""],
     [10, "Twin mirror□compact", "澁谷梓希 & 若井友希", ""],
     [11, "アラウンド・ザ・プリパランド!", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希, 赤﨑千夏, 牧野由依, 渡部優衣 & 斎賀みつき", ""],
@@ -7556,21 +7556,21 @@ tracks = [
     [2, "アメイジング・キャッスル", "牧野由依, 渡部優衣 & 真田アサミ", ""],
     [3, "Just My Chance Call", "赤﨑千夏", ""],
     [4, "Mon chouchou", "斎賀みつき, 赤﨑千夏 & 佐藤あずさ", ""],
-    [5, "Girl's Fantasy", "上田麗奈", ""],
+    [5, "Girl's Fantasy", "上田麗奈", "0"],
     [6, "シュガーレス×フレンド", "田中美海, 大森日雅 & 山下七海", ""],
     [7, "愛ドルを取り戻せ!", "上田麗奈, 山本希望 & 赤﨑千夏", ""],
-    [8, "0-week-old -Falulu with Hibiki Ver.-", "赤﨑千夏 & 斎賀みつき", ""],
+    [8, "0-week-old -Falulu with Hibiki Ver.-", "赤﨑千夏 & 斎賀みつき", "0"],
     [9, "ま～ぶる Make up a-ha-ha! -らぁら&のん Ver.-", "茜屋日海夏 & 田中美海", ""],
-    [10, "Girl's Fantasy -Jewlie with Janis Ver.-", "上田麗奈 & 豊崎愛生", ""],
-    [11, "Love friend style -Laala Solo ver.-", "茜屋日海夏", ""],
+    [10, "Girl's Fantasy -Jewlie with Janis Ver.-", "上田麗奈 & 豊崎愛生", "0"],
+    [11, "Love friend style -Laala Solo ver.-", "茜屋日海夏", "0"],
     [12, "ぷりっとぱ～ふぇくと -More Pritto/fect Mix-", "芹澤優", ""],
-    [13, "Brand New Dreamer", "茜屋日海夏 & 田中美海", ""],
+    [13, "Brand New Dreamer", "茜屋日海夏 & 田中美海", "0"],
     [14, "Make it!", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", ""],
     [15, "組曲フォーエバー☆フレンズ～第一楽章～「I FRIEND YOU!!」～第二楽章～「LOVE IS FRIEND」 -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 上田麗奈 & 豊崎愛生", ""],
     [16, "組曲フォーエバー☆フレンズ～インターリュード～「メモリーズ・メドレー」 -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希, 田中美海, 大森日雅, 山下七海, 斎賀みつき, 赤﨑千夏, 佐藤あずさ, 牧野由依, 渡部優衣, 真田アサミ, 山本希望 & 上田麗奈", ""],
     [17, "組曲フォーエバー☆フレンズ～第三楽章～「My Friend, Dear Friend」～第四楽章～「ウィー・アー・ザ・フレンズ!」 -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希, 田中美海, 大森日雅, 山下七海, 斎賀みつき, 赤﨑千夏, 佐藤あずさ, 牧野由依, 渡部優衣, 真田アサミ, 山本希望 & 上田麗奈", ""],
     [18, "組曲フォーエバー☆フレンズ～ポストリュード～「Girl's Fantasy」 -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", ""],
-    [19, "Growin' Jewel! -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", ""],
+    [19, "Growin' Jewel! -SoLaMiDressing ver.-", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/219bf471-04fc-4f7d-9aac-6f17b436cb49", "https://vgmdb.net/album/84689"]
 
@@ -7582,20 +7582,20 @@ tracks = [
     [1, "チクタク・Magicaる・アイドルタイム!", "伊達朱里紗", ""],
     [2, "ブランニュー・ハピネス!", "伊達朱里紗 & 茜屋日海夏", ""],
     [3, "あっちゃこっちゃゲーム", "大地葉", ""],
-    [4, "GOスト♭コースター", "山田唯菜", ""],
+    [4, "GOスト♭コースター", "山田唯菜", "0"],
     [5, "快打洗心□カッキンBUDDY", "大地葉 & 山北早紀", ""],
     [6, "Miss.プリオネア", "朝日奈丸佳", ""],
-    [7, "Dear My Future ～未来の自分へ～", "大久保瑠美", ""],
+    [7, "Dear My Future ～未来の自分へ～", "大久保瑠美", "0"],
     [8, "サンシャイン・ベル", "佐藤あずさ", ""],
     [9, "すた～らいとカーニバル☆", "黒沢ともよ", ""],
     [10, "リンリン♪がぁらふぁらんど", "佐藤あずさ & 黒沢ともよ", ""],
     [11, "チクタク・Magicaる・アイドルタイム!", "佐藤あずさ", ""],
-    [12, "Giraギャラティック・タイトロープ", "山下誠一郎, 小林竜之 & 土田玲央", ""],
-    [13, "Get Over Dress-code", "山北早紀, 澁谷梓希 & 若井友希", ""],
+    [12, "Giraギャラティック・タイトロープ", "山下誠一郎, 小林竜之 & 土田玲央", "0"],
+    [13, "Get Over Dress-code", "山北早紀, 澁谷梓希 & 若井友希", "0"],
     [14, "チクタク・Magicaる・アイドルタイム!", "山下誠一郎, 小林竜之 & 土田玲央", ""],
-    [15, "Giraギャラティック・タイトロープ", "伊達朱里紗, 大地葉 & 山田唯菜", ""],
+    [15, "Giraギャラティック・タイトロープ", "伊達朱里紗, 大地葉 & 山田唯菜", "0"],
     [16, "Memorial", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希 & 若井友希", ""],
-    [17, "Believe My DREAM!", "伊達朱里紗, 大地葉 & 山田唯菜", ""],
+    [17, "Believe My DREAM!", "伊達朱里紗, 大地葉 & 山田唯菜", "0"],
     [18, "ハートフル□ドリーム", "伊達朱里紗, 大地葉 & 山田唯菜", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/219bf471-04fc-4f7d-9aac-6f17b436cb49", "https://vgmdb.net/album/84689"]
@@ -7612,17 +7612,17 @@ tracks = [
     [5, "かりすま～とGIRL☆Yeah!", "田中美海", ""],
     [6, "かりすま～とGIRL☆Yeah!", "田中美海", ""],
     [7, "かりすま～とGIRL☆Yeah!", "田中美海", ""],
-    [8, "Brand New Dreamer", "茜屋日海夏 & 田中美海", ""],
-    [9, "Brand New Dreamer", "茜屋日海夏 & 田中美海", ""],
-    [10, "Brand New Dreamer", "茜屋日海夏 & 田中美海", ""],
+    [8, "Brand New Dreamer", "茜屋日海夏 & 田中美海", "0"],
+    [9, "Brand New Dreamer", "茜屋日海夏 & 田中美海", "0"],
+    [10, "Brand New Dreamer", "茜屋日海夏 & 田中美海", "0"],
     [11, "Make it! -らぁら&なお Ver.-", "茜屋日海夏 & 南條愛乃", ""],
     [12, "Neo Dimension Go!!", "斎賀みつき, 赤﨑千夏 & 佐藤あずさ", ""],
     [13, "Red Flash Revolution", "久保田未夢", ""],
     [14, "TRIal HEART ～恋の違反チケット～", "芹澤優", ""],
     [15, "ぷりぱら☆ララン", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希, 牧野由依, 渡部優衣, 真田アサミ, 田中美海, 大森日雅, 山下七海, 佐藤あずさ & 赤﨑千夏", ""],
     [16, "Make it! ～ Remake it☆Remix ～", "茜屋日海夏", ""],
-    [17, "Growin' Jewel!", "茜屋日海夏, 芹澤優 & 久保田未夢", ""],
-    [18, "Growin' Jewel!", "山北早紀, 澁谷梓希 & 若井友希", ""],
+    [17, "Growin' Jewel!", "茜屋日海夏, 芹澤優 & 久保田未夢", "0"],
+    [18, "Growin' Jewel!", "山北早紀, 澁谷梓希 & 若井友希", "0"],
     [19, "オールアイドル組曲 プリシャス♪", "茜屋日海夏, 芹澤優, 久保田未夢, 山北早紀, 澁谷梓希, 若井友希, 牧野由依, 渡部優衣, 佐藤あずさ, 上田麗奈, 赤﨑千夏 & 真田アサミ", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/219bf471-04fc-4f7d-9aac-6f17b436cb49", "https://vgmdb.net/album/84689"]
@@ -7946,15 +7946,15 @@ catalognumber = "EYCA-10334"
 date = "2015-03-18"
 album = "プリパラ アイドルソング♪コレクション / SoLaMi♡SMILE & コスモ & ファルル (cv.茜屋日海夏&芹澤 優&久保田未夢&山本希望&赤﨑千夏)"
 tracks = [
-    [1, "HAPPYぱLUCKY", "", ""],
+    [1, "HAPPYぱLUCKY", "", "0"],
     [2, "君100%人生", "", ""],
-    [3, "0-week-old", "", ""],
+    [3, "0-week-old", "", "0"],
     [4, "メッセージbySoLaMi♡SMILE", "", ""],
     [5, "メッセージbyコスモ", "", ""],
     [6, "メッセージbyファルル", "", ""],
-    [7, "HAPPYぱLUCKY(inst)", "", ""],
+    [7, "HAPPYぱLUCKY(inst)", "", "0"],
     [8, "君100%人生(inst)", "", ""],
-    [9, "0-week-old(inst)", "", ""],
+    [9, "0-week-old(inst)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/50490"]
 
@@ -7965,10 +7965,10 @@ album = "プリティーリズム・オーロラドリーム ライブチック�
 tracks = [
     [1, "ライブチック・ドラマ 楽屋にて～Before", "春音あいら(CV.阿澄佳奈)", ""],
     [2, "ライブチック・ドラマ MC(1)", "春音あいら(CV.阿澄佳奈)", ""],
-    [3, "Dream Goes On", "春音あいら(CV.阿澄佳奈)", ""],
+    [3, "Dream Goes On", "春音あいら(CV.阿澄佳奈)", "0"],
     [4, "ライブチック・ドラマ MC(2)", "春音あいら(CV.阿澄佳奈)", ""],
     [5, "ライブチック・ドラマ 楽屋にて～After", "春音あいら(CV.阿澄佳奈)", ""],
-    [6, "Dream Goes On (instrumental)", "春音あいら(CV.阿澄佳奈)", ""],
+    [6, "Dream Goes On (instrumental)", "春音あいら(CV.阿澄佳奈)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/318f36a7-4e6d-484f-a8d0-5cee194f56bc", "https://vgmdb.net/album/40790"]
 
@@ -8013,9 +8013,9 @@ tracks = [
     [6, "シュガーレス×フレンド (DELACTION Remix)", "NonSugar", ""],
     [7, "Red Flash Revolution (Y&Co. Eurobeat Remix)", "北条そふぃ", ""],
     [8, "Neo Dimension Go!! (DJ Shimamura's DRUM&BASS Remix)", "Tricolore", ""],
-    [9, "Growin' Jewel! (Y&Co. 80's Eurobeat Remix)", "SoLaMi Dressing", ""],
+    [9, "Growin' Jewel! (Y&Co. 80's Eurobeat Remix)", "SoLaMi Dressing", "0"],
     [10, "アメイジング・キャッスル (DJ BOSS ULTRA EDM Remix)", "Gaarmageddon", ""],
-    [11, "Girl's Fantasy (DJ BOSS Cyber Remix)", "ジュリィ", ""],
+    [11, "Girl's Fantasy (DJ BOSS Cyber Remix)", "ジュリィ", "0"],
     [12, "TRIal HEART 〜恋の違反チケット〜 (DJ BOSS HEART EUROBEAT Remix)", "南みれぃ", ""],
     [13, "ぷりぱら☆ララン (DJ Noriken Hardcore Mix)", "スーパープリパラ☆オールアイドル's", ""],
 ]
@@ -8035,7 +8035,7 @@ tracks = [
     [7, "鉄腕ガール", "i☆Ris", ""],
     [8, "Vampire Lady", "i☆Ris", ""],
     [9, "Fanfare", "i☆Ris", ""],
-    [10, "Goin’on", "i☆Ris", ""],
+    [10, "Goin’on", "i☆Ris", "0"],
     [11, "Raspberry night", "i☆Ris", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/eefa8d3d-52b5-404c-80fc-3f6c7eef8208", "https://vgmdb.net/album/136741"]
@@ -8071,15 +8071,15 @@ date = "2013-10-16"
 album = "プリティーリズム・レインボーライブ プリズム☆ソロコレクション byべる&おとは&わかな"
 tracks = [
     [1, "わかなのあいさつ", "", ""],
-    [2, "Blowin’ in the Mind", "", ""],
+    [2, "Blowin’ in the Mind", "", "0"],
     [3, "おとはのあいさつ", "", ""],
     [4, "Vanity□colon", "", ""],
     [5, "べるの挨拶", "", ""],
-    [6, "Get music!", "", ""],
+    [6, "Get music!", "", "0"],
     [7, "3人より、愛をこめて。", "", ""],
-    [8, "Blowin’ in the Mind (inst.)", "", ""],
+    [8, "Blowin’ in the Mind (inst.)", "", "0"],
     [9, "Vanity□colon (inst.)", "", ""],
-    [10, "Get music! (inst.)", "", ""],
+    [10, "Get music! (inst.)", "", "0"],
     [11, "キャストがプリティーリズムの世界を体験!「Let’s enjoy PrettyRhythm★」", "", ""],
 ]
 links = ["https://vgmdb.net/album/44413"]
@@ -8125,11 +8125,11 @@ date = "2015-02-11"
 album = "プリパラ アイドルソング コレクション / 東堂シオン&ドロシー・ウェスト&レオナ・ウェスト(cv.山北早紀&澁谷梓希&若井友希)"
 tracks = [
     [1, "No D&D code", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", ""],
-    [2, "CHANGE! MY WORLD", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", ""],
+    [2, "CHANGE! MY WORLD", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", "1"],
     [3, "メッセージ by シオン", "[dialogue]", ""],
     [4, "メッセージ by ドロシー", "[dialogue]", ""],
     [5, "メッセージ by レオナ", "[dialogue]", ""],
     [6, "No D&D code (inst)", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", ""],
-    [7, "CHANGE! MY WORLD (inst)", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", ""],
+    [7, "CHANGE! MY WORLD (inst)", "シオン&ドロシー&レオナ (CV:山北早紀&澁谷梓希&若井友希)", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/ef9f830d-5d04-43a4-9c61-8a68eaddc473", "https://vgmdb.net/album/49504"]
