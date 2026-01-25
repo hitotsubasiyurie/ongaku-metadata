@@ -3,10 +3,10 @@ catalognumber = "WIC-8026"
 date = "2004-03-19"
 album = "Jewels Ocean Maxi Single"
 tracks = [
-    [1, "INNOCENT", "", ""],
+    [1, "INNOCENT", "", "0"],
     [2, "Call On Me", "", ""],
     [3, "DESPERADO", "", ""],
-    [4, "INNOCENT (karaoke)", "", ""],
+    [4, "INNOCENT (karaoke)", "", "0"],
     [5, "Call On Me (karaoke)", "", ""],
     [6, "DESPERADO (karaoke)", "", ""],
 ]
@@ -17,9 +17,9 @@ catalognumber = "DLRD-3004"
 date = "2006-03-31"
 album = "imouto-challenge! Imouto Compilation Album"
 tracks = [
-    [1, "ハートのベルはring ring ring", "", ""],
-    [2, "紺色と黒のファンタジー", "", ""],
-    [3, "chu-chu-chu", "", ""],
+    [1, "ハートのベルはring ring ring", "", "0"],
+    [2, "紺色と黒のファンタジー", "", "0"],
+    [3, "chu-chu-chu", "", "0"],
     [4, "双想歌", "", ""],
     [5, "乱世", "", ""],
     [6, "晴れ、ときどき恋っ！", "", ""],
@@ -37,12 +37,12 @@ catalognumber = "KOIOTOME-T"
 date = "2006-08-25"
 album = "Koi Otome Maxi Single CD"
 tracks = [
-    [1, "Wake me up! (Long Version)", "", ""],
-    [2, "Strong Will (Long Version)", "", ""],
-    [3, "Wake me up! (Karaoke Version)", "", ""],
-    [4, "Strong Will (Karaoke Version)", "", ""],
-    [5, "Wake me up! (Short Version)", "", ""],
-    [6, "Strong Will (Short Version)", "", ""],
+    [1, "Wake me up! (Long Version)", "", "0"],
+    [2, "Strong Will (Long Version)", "", "0"],
+    [3, "Wake me up! (Karaoke Version)", "", "0"],
+    [4, "Strong Will (Karaoke Version)", "", "0"],
+    [5, "Wake me up! (Short Version)", "", "0"],
+    [6, "Strong Will (Short Version)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/30508"]
 
@@ -75,7 +75,7 @@ catalognumber = "AKCI-26031"
 date = "2005-04-27"
 album = "Eiyuu × Maou Soundtrack"
 tracks = [
-    [1, "鼓動 short ver.", "", ""],
+    [1, "鼓動 short ver.", "", "0"],
     [2, "始まる世界", "", ""],
     [3, "魔王", "", ""],
     [4, "進軍", "", ""],
@@ -106,9 +106,9 @@ tracks = [
     [29, "最終決戦", "", ""],
     [30, "ULTIMATE BATTLE!!", "", ""],
     [31, "ENDLESS…", "", ""],
-    [32, "鼓動", "", ""],
-    [33, "鼓動 short ver.-instrument-", "", ""],
-    [34, "鼓動 full ver.-instrument-", "", ""],
+    [32, "鼓動", "", "0"],
+    [33, "鼓動 short ver.-instrument-", "", "0"],
+    [34, "鼓動 full ver.-instrument-", "", "0"],
 ]
 links = ["https://vgmdb.net/album/8283"]
 
@@ -282,7 +282,7 @@ catalognumber = "46601828"
 date = "2011-08-26"
 album = "TROUBLE@SPIRAL! SOUND TRACK"
 tracks = [
-    [1, "our precious bond(full)", "", ""],
+    [1, "our precious bond(full)", "", "0"],
     [2, "良く晴れた朝", "", ""],
     [3, "日差し浴びて", "", ""],
     [4, "holiday", "", ""],
@@ -307,8 +307,8 @@ tracks = [
     [23, "elegant", "", ""],
     [24, "妙齢のお姉さん！？", "", ""],
     [25, "微笑み見たい(full)", "", ""],
-    [26, "our precious bond(オルゴール)", "", ""],
-    [27, "our precious bond(ピアノ)", "", ""],
+    [26, "our precious bond(オルゴール)", "", "0"],
+    [27, "our precious bond(ピアノ)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/35657"]
 
@@ -428,12 +428,12 @@ tracks = [
     [2, "ドラマティック・パレード", "立花あや", ""],
     [3, "Summer days rhapsody", "民安ともえ", ""],
     [4, "百花繚乱ファンタズム", "真理絵", ""],
-    [5, "刃に残るは君の面影", "Rita", ""],
-    [6, "Aliare", "葉月", ""],
-    [7, "新しい調べ", "中山♥マミ", ""],
+    [5, "刃に残るは君の面影", "Rita", "0"],
+    [6, "Aliare", "葉月", "0"],
+    [7, "新しい調べ", "中山♥マミ", "0"],
     [8, "夢の隣に", "中山♥マミ", ""],
     [9, "ビタミンラブ", "真理絵", ""],
-    [10, "dear", "なかせひな", ""],
+    [10, "dear", "なかせひな", "0"],
     [11, "桃色の花咲く頃に", "真理絵", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/85d84076-78c8-4541-bfa2-34b3b2faf86b", "https://vgmdb.net/album/34429"]
@@ -461,7 +461,7 @@ tracks = [
     [4, "SHINE RING", "真理絵", ""],
     [5, "プリズミック", "AiRI", ""],
     [6, "瞬間カタオモイ", "i.o.sound", ""],
-    [7, "華暦", "Ayumi.", ""],
+    [7, "華暦", "Ayumi.", "0"],
     [8, "JACK KEEPER", "MiLO", ""],
     [9, "こいのす☆イチャコライズ", "塩出美彩希", ""],
     [10, "スロースターター", "上間江望", ""],
@@ -478,7 +478,7 @@ catalognumber = "AACD-1003"
 date = "2009-12-27"
 album = "ANGEL NAVIGATE ORIGINAL SOUND TRACK"
 tracks = [
-    [1, "precious (full ver)", "", ""],
+    [1, "precious (full ver)", "", "0"],
     [2, "夏の朝", "", ""],
     [3, "start+dash", "", ""],
     [4, "夕凪", "", ""],
@@ -494,12 +494,12 @@ tracks = [
     [14, "心の空き", "", ""],
     [15, "嬉しくてためいき", "", ""],
     [16, "葛藤", "", ""],
-    [17, "precious (オルゴールver)", "", ""],
-    [18, "precious (ピアノver.)", "", ""],
+    [17, "precious (オルゴールver)", "", "0"],
+    [18, "precious (ピアノver.)", "", "0"],
     [19, "この瞬間に…", "", ""],
-    [20, "precious (off vocal)", "", ""],
+    [20, "precious (off vocal)", "", "0"],
     [21, "道標 (full ver)", "", ""],
-    [22, "precious (short ver)", "", ""],
+    [22, "precious (short ver)", "", "0"],
     [23, "道標 (short ver)", "", ""],
 ]
 links = ["https://vgmdb.net/album/16954"]
@@ -633,7 +633,7 @@ catalognumber = "SPUS-00014"
 date = "2006-08-11"
 album = "Oshiete♥Re:maid Original Sound Track Original Soundtrack, Vocal"
 tracks = [
-    [1, "MISS YOU", "みるく", ""],
+    [1, "MISS YOU", "みるく", "0"],
     [2, "穏やかな日々", "Angel Note", ""],
     [3, "ある晴れた日の歌", "Angel Note", ""],
     [4, "心躍る毎日", "Angel Note", ""],
@@ -649,7 +649,7 @@ tracks = [
     [14, "ただ、為す術も無く", "Angel Note", ""],
     [15, "甘い触れあい", "Angel Note", ""],
     [16, "あふれる愛と欲望と", "Angel Note", ""],
-    [17, "Moving Love", "kala", ""],
+    [17, "Moving Love", "kala", "0"],
     [18, "おしえて ご主人様?", "REIKA", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/c110aa5f-fa6e-4aa0-b9d3-8a7d05b4860f", "https://vgmdb.net/album/2534"]
@@ -702,16 +702,16 @@ catalognumber = "SRL-2009"
 date = "2010-08-13"
 album = "PrismRhythm ED.VocalCollection -Belltina-"
 tracks = [
-    [1, "Prism", "", ""],
-    [2, "Present", "", ""],
-    [3, "Dreams", "", ""],
-    [4, "Smile", "", ""],
-    [5, "Spring Snow", "", ""],
-    [6, "Prism(Instrumental)", "", ""],
-    [7, "Present(Instrumental)", "", ""],
-    [8, "Dreams(Instrumental)", "", ""],
-    [9, "Smile(Instrumental)", "", ""],
-    [10, "Spring Snow(Instrumental)", "", ""],
+    [1, "Prism", "", "0"],
+    [2, "Present", "", "0"],
+    [3, "Dreams", "Lump of Sugar", "1"],
+    [4, "Smile", "なかせひな", "1"],
+    [5, "Spring Snow", "灰田みかげ", "0"],
+    [6, "Prism(Instrumental)", "", "0"],
+    [7, "Present(Instrumental)", "", "0"],
+    [8, "Dreams(Instrumental)", "", "0"],
+    [9, "Smile(Instrumental)", "", "0"],
+    [10, "Spring Snow(Instrumental)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/20337"]
 
@@ -731,9 +731,9 @@ catalognumber = "STEG-04035"
 date = "2004-12-29"
 album = "Studio e.go! Vocal Collection Vol.5"
 tracks = [
-    [1, "恋するハート", "", ""],
+    [1, "恋するハート", "", "0"],
     [2, "Overthrow", "", ""],
-    [3, "虹の向こう", "", ""],
+    [3, "虹の向こう", "", "0"],
     [4, "Free Bird", "", ""],
     [5, "恋の歯車", "", ""],
     [6, "JEWEL", "", ""],
@@ -821,15 +821,15 @@ catalognumber = "SMCD-0004"
 date = "2004-10-29"
 album = "It is under a sweetheart more than a friend. ORIGINAL SOUNDTRACK Vocal"
 tracks = [
-    [1, "友達以上恋人未満", "", ""],
-    [2, "オモイノチカラ", "", ""],
+    [1, "友達以上恋人未満", "", "0"],
+    [2, "オモイノチカラ", "", "0"],
     [3, "赤い糸", "", ""],
-    [4, "友達以上恋人未満 (Game Size)", "", ""],
+    [4, "友達以上恋人未満 (Game Size)", "", "0"],
     [5, "赤い糸 (Game Size)", "", ""],
-    [6, "友達以上恋人未満 (Middle Tempo)", "", ""],
-    [7, "友達以上恋人未満 (Extra Arrange)", "", ""],
-    [8, "友達以上恋人未満 (Off Vocal)", "", ""],
-    [9, "オモイノチカラ (Off Vocal)", "", ""],
+    [6, "友達以上恋人未満 (Middle Tempo)", "", "0"],
+    [7, "友達以上恋人未満 (Extra Arrange)", "", "0"],
+    [8, "友達以上恋人未満 (Off Vocal)", "", "0"],
+    [9, "オモイノチカラ (Off Vocal)", "", "0"],
     [10, "赤い糸 (Off Vocal)", "", ""],
 ]
 links = ["https://vgmdb.net/album/1985"]
@@ -1040,7 +1040,7 @@ tracks = [
     [3, "Another Reality", "nao", ""],
     [4, "Connect new World", "KEiNA", ""],
     [5, "Lies and Truth", "KEiNA", ""],
-    [6, "Utopia", "MALiA", ""],
+    [6, "Utopia", "MALiA", "0"],
     [7, "Unite+reactioN", "KOTOKO", ""],
     [8, "Identity", "片霧烈火", ""],
     [9, "U", "KOTOKO", ""],
@@ -1163,10 +1163,10 @@ tracks = [
     [2, "Melty Air", "佐藤ひろ美", ""],
     [3, "迷いの森", "佐藤ひろ美", ""],
     [4, "Dancing in the Moment", "佐藤ひろ美", ""],
-    [5, "夏のファンタジア", "佐藤ひろ美", ""],
+    [5, "夏のファンタジア", "佐藤ひろ美", "0"],
     [6, "Believe in You", "佐藤ひろ美", ""],
     [7, "夏果", "佐藤ひろ美", ""],
-    [8, "望郷歌～まほろば～", "佐藤ひろ美", ""],
+    [8, "望郷歌～まほろば～", "佐藤ひろ美", "0"],
     [9, "「カケラ」", "佐藤ひろ美", ""],
     [10, "strong enough", "佐藤ひろ美", ""],
     [11, "祝祭のカンパネラ!", "佐藤ひろ美", ""],
@@ -1560,12 +1560,12 @@ catalognumber = "LPTN-0071"
 date = "2022-10-28"
 album = "SMEE Vocal Cover Collection Ver.Haruka Shimotsuki"
 tracks = [
-    [1, "quantum jump", "霜月はるか", ""],
+    [1, "quantum jump", "霜月はるか", "0"],
     [2, "ハレノヒステップ", "霜月はるか", ""],
     [3, "Girls' Carnival", "霜月はるか", ""],
     [4, "Day before Memory", "霜月はるか", ""],
     [5, "ultimate breaKING", "霜月はるか", ""],
-    [6, "quantum jump (Karaoke Ver.)", "霜月はるか", ""],
+    [6, "quantum jump (Karaoke Ver.)", "霜月はるか", "0"],
     [7, "ハレノヒステップ (Karaoke Ver.)", "霜月はるか", ""],
     [8, "Girls' Carnival (Karaoke Ver.)", "霜月はるか", ""],
     [9, "Day before Memory (Karaoke Ver.)", "霜月はるか", ""],
@@ -1642,7 +1642,7 @@ catalognumber = "YATA-TENT"
 date = "2011-11-25"
 album = "Tentacle Lord -Waga Te ni Ochiyo Yuusou Naru Otome- Original Soundtrack"
 tracks = [
-    [1, "Chemin", "", ""],
+    [1, "Chemin", "", "0"],
     [2, "BGM2", "", ""],
     [3, "BGM3", "", ""],
     [4, "BGM4", "", ""],
@@ -1671,14 +1671,14 @@ tracks = [
     [1, "内なる雨", "真里歌", ""],
     [2, "Live in Despair", "飛蘭", ""],
     [3, "竜たちノ夢", "桜川めぐ", ""],
-    [4, "こころのプリズム", "結奈", ""],
+    [4, "こころのプリズム", "結奈", "0"],
     [5, "その光", "鈴原知花", ""],
-    [6, "Run", "tohko", ""],
+    [6, "Run", "tohko", "0"],
     [7, "内なる雨 (short version)", "真里歌", ""],
     [8, "竜たちノ夢 (short version)", "櫻川めぐ", ""],
-    [9, "こころのプリズム (short version)", "結奈", ""],
+    [9, "こころのプリズム (short version)", "結奈", "0"],
     [10, "その光 (short version)", "鈴原知花", ""],
-    [11, "Run (short version)", "tohko", ""],
+    [11, "Run (short version)", "tohko", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/0bd5e844-14f4-4ccf-adf5-b6f0df90c013", "https://vgmdb.net/album/18811"]
 
@@ -1788,7 +1788,7 @@ tracks = [
     [17, "その先の未来へ", "", ""],
     [18, "To important people", "", ""],
     [19, "あの頃のように", "", ""],
-    [20, "輝いたまま", "", ""],
+    [20, "輝いたまま", "", "0"],
 ]
 links = ["https://vgmdb.net/album/12941"]
 
@@ -2057,7 +2057,7 @@ tracks = [
     [22, "シーラの子守歌", "", ""],
     [23, "ミレニアムの終焉", "", ""],
     [24, "また会う日まで", "", ""],
-    [25, "今日も笑顔で（EDテーマ）", "", ""],
+    [25, "今日も笑顔で（EDテーマ）", "", "0"],
 ]
 links = ["https://vgmdb.net/album/4720"]
 
@@ -2081,8 +2081,8 @@ tracks = [
     [2, "Piece of Time (trans ver.)", "", ""],
     [3, "木漏れ日フレネル (full ver.)", "", ""],
     [4, "木漏れ日フレネル (techno arr ver.)", "", ""],
-    [5, "恋の補習を始めまShow (full ver.)", "", ""],
-    [6, "恋の補習を始めまShow (inst ver.)", "", ""],
+    [5, "恋の補習を始めまShow (full ver.)", "", "0"],
+    [6, "恋の補習を始めまShow (inst ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/124136"]
 
@@ -2255,8 +2255,8 @@ catalognumber = "YSCD-0031"
 date = "2014-01-24"
 album = "Amairo IsleNauts Original Soundtrack Original Soundtrack, Vocal Disc 1"
 tracks = [
-    [1, "Blue-Love Chime (Game Size)", "nao", ""],
-    [2, "Blue-Love Chime (Title Version)", "Famishin", ""],
+    [1, "Blue-Love Chime (Game Size)", "nao", "0"],
+    [2, "Blue-Love Chime (Title Version)", "Famishin", "0"],
     [3, "空での暮らし", "Famishin", ""],
     [4, "おだやかな日常", "Famishin", ""],
     [5, "なんでそーなるの", "Famishin", ""],
@@ -2298,12 +2298,12 @@ tracks = [
     [10, "悲しみの決意", "Famishin", ""],
     [11, "暗雲", "Famishin", ""],
     [12, "暗雲 (No Melody Version)", "Famishin", ""],
-    [13, "Blue-Love Chime (Guitar Version)", "Famishin", ""],
+    [13, "Blue-Love Chime (Guitar Version)", "Famishin", "0"],
     [14, "Sprint!", "Famishin", ""],
     [15, "心つなげて", "Famishin", ""],
     [16, "もっと近くに", "Famishin", ""],
     [17, "結", "Famishin", ""],
-    [18, "Blue-Love Chime (Piano Version)", "Famishin", ""],
+    [18, "Blue-Love Chime (Piano Version)", "Famishin", "0"],
     [19, "Epilogue", "Famishin", ""],
     [20, "天色〜シャーリィ〜 (Game Size)", "シャーリィ･ウォリック(CV.北見六花)", ""],
     [21, "天色〜夕音〜 (Game Size)", "天霧夕音(CV.登代田瀬良)", ""],
@@ -2318,9 +2318,9 @@ catalognumber = "YSCD-0033"
 date = "2014-01-24"
 album = "Amairo IsleNauts Original Soundtrack Vocal"
 tracks = [
-    [1, "Blue-Love Chime", "nao", ""],
+    [1, "Blue-Love Chime", "nao", "0"],
     [2, "天色", "あまいろ＊カルテット", ""],
-    [3, "Blue-Love Chime (Karaoke Version)", "nao", ""],
+    [3, "Blue-Love Chime (Karaoke Version)", "nao", "0"],
     [4, "天色 (Karaoke Version)", "あまいろ＊カルテット", ""],
     [5, "天色〜シャーリィ〜", "シャーリィ･ウォリック(CV.北見六花)", ""],
     [6, "天色〜夕音〜", "天霧夕音(CV.登代田瀬良)", ""],
@@ -2334,7 +2334,7 @@ catalognumber = ""
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Preorder Bonus Special CD"
 tracks = [
-    [1, "一生恋してる！ (Full Version)", "", ""],
+    [1, "一生恋してる！ (Full Version)", "", "0"],
     [2, "民宿ペア旅行ご招待", "", ""],
     [3, "海、幼馴染じゃんけん", "", ""],
     [4, "夕、バーベキュー", "", ""],
@@ -2360,9 +2360,9 @@ date = "2012-10-26"
 album = "Color of the flower Heptagram Goshikimuradayori Uta to Ohanashi no Special CD"
 tracks = [
     [1, "恋色の花咲く頃", "中恵光城", ""],
-    [2, "故郷", "Kicco", ""],
+    [2, "故郷", "Kicco", "0"],
     [3, "恋色の花咲く頃 (インストルメンタル)", "増谷賢", ""],
-    [4, "故郷 (インストルメンタル)", "佐々倉マコト", ""],
+    [4, "故郷 (インストルメンタル)", "佐々倉マコト", "0"],
     [5, "花色ヘプタグラムドラマCD「御式村ぱとろーる記」", "藤森ゆき奈 & 志木こよみ", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/11cee6be-1a61-4177-94bc-1dc8c0716ad9", "https://vgmdb.net/album/88718"]
@@ -2383,8 +2383,8 @@ catalognumber = "YSCD-0024"
 date = "2012-08-24"
 album = "DRACU-RIOT! Original Soundtrack Original Soundtrack, Vocal"
 tracks = [
-    [1, "Scarlet ～DRACU-RIOT! OP主題歌～", "Famishin", ""],
-    [2, "Scarlet (Title Version)", "Famishin", ""],
+    [1, "Scarlet ～DRACU-RIOT! OP主題歌～", "Famishin", "0"],
+    [2, "Scarlet (Title Version)", "Famishin", "0"],
     [3, "Dazzling Sun", "Famishin", ""],
     [4, "Boke and Tsukkomi", "Famishin", ""],
     [5, "Playful People", "Famishin", ""],
@@ -2400,8 +2400,8 @@ tracks = [
     [15, "Spread Anxiety", "Famishin", ""],
     [16, "Grieving", "Famishin", ""],
     [17, "Embrace", "Famishin", ""],
-    [18, "Scarlet <Piano Version>", "Famishin", ""],
-    [19, "Scarlet (Game Size)", "Famishin", ""],
+    [18, "Scarlet <Piano Version>", "Famishin", "0"],
+    [19, "Scarlet (Game Size)", "Famishin", "0"],
     [20, "Damedame", "Famishin", ""],
     [21, "Daily Night", "Famishin", ""],
     [22, "Accomplishment of the Adult", "Famishin", ""],
@@ -2431,7 +2431,7 @@ tracks = [
     [12, "君だけの僕 (Game Size)", "Famishin", ""],
     [13, "君だけの僕 ～DRACU-RIOT! ED 主題歌～", "Famishin", ""],
     [14, "君だけの僕", "Famishin", ""],
-    [15, "Scarlet (Karaoke Version)", "Famishin", ""],
+    [15, "Scarlet (Karaoke Version)", "Famishin", "0"],
     [16, "君だけの僕 (Karaoke Version)", "Famishin", ""],
     [17, "未使用曲1", "Famishin", ""],
     [18, "未使用曲2", "Famishin", ""],
@@ -2443,9 +2443,9 @@ catalognumber = "SMAG-0009C"
 date = "2004-09-24"
 album = "Tomodachi Ijou, Koibito Miman OP Theme"
 tracks = [
-    [1, "友達以上恋人未満", "", ""],
-    [2, "友達以上恋人未満 Short Version", "", ""],
-    [3, "友達以上恋人未満 Karaoke Version", "", ""],
+    [1, "友達以上恋人未満", "", "0"],
+    [2, "友達以上恋人未満 Short Version", "", "0"],
+    [3, "友達以上恋人未満 Karaoke Version", "", "0"],
 ]
 links = ["https://vgmdb.net/album/7211"]
 
@@ -2499,7 +2499,7 @@ catalognumber = "STEG-04008"
 date = "2004-04-23"
 album = "Maou no Musumetachi Theme Song CD"
 tracks = [
-    [1, "恋するハート", "", ""],
+    [1, "恋するハート", "", "0"],
 ]
 links = ["https://vgmdb.net/album/32896"]
 
@@ -2586,7 +2586,7 @@ tracks = [
     [9, "One Scene", "AiRI", ""],
     [10, "Anthem", "nao", ""],
     [11, "幸せな愛のカタチ", "Lira", ""],
-    [12, "未来は…", "中山♡マミ", ""],
+    [12, "未来は…", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/30ebc38c-0b43-4188-ad16-643843294c77", "https://vgmdb.net/album/49111"]
 
@@ -2699,10 +2699,10 @@ album = "Studio e.go! Vocal Collection Vol.7"
 tracks = [
     [1, "My Friend　『IZUMO2学園狂想曲』メインテーマ", "", ""],
     [2, "向日葵 - Return to Me -　『メンアットワーク！４』ＯＰテーマ", "", ""],
-    [3, "今日も笑顔で　『メンアットワーク！４』ＥＤテーマ", "", ""],
+    [3, "今日も笑顔で　『メンアットワーク！４』ＥＤテーマ", "", "0"],
     [4, "You are so beautiful!　『み・こ・こ・ん』メインテーマ", "", ""],
-    [5, "You change the color of my heart　『おかえしび～すと！』メインテーマ", "", ""],
-    [6, "カッコよくなくちゃ！　『あおぞらマジカ！』メインテーマ", "", ""],
+    [5, "You change the color of my heart　『おかえしび～すと！』メインテーマ", "", "0"],
+    [6, "カッコよくなくちゃ！　『あおぞらマジカ！』メインテーマ", "", "0"],
     [7, "不思議なRELATION　『とらぶるDAYS』メインテーマ", "", ""],
     [8, "Misty Rain - 七月の雨　『IZUMO3』ＯＰテーマ", "", ""],
     [9, "さよならの手前　『IZUMO3』ＥＤテーマ", "", ""],
@@ -2856,22 +2856,22 @@ catalognumber = "SRL-1008"
 date = "2014-05-02"
 album = "Angel Note Best Collection Vol.10 \"To the Brilliant Future\""
 tracks = [
-    [1, "疾るセカイと僕らのミライ", "Riryka", ""],
-    [2, "Next To You", "しほり", ""],
-    [3, "二人のアルバム", "夏希美羽", ""],
-    [4, "Find The Gate", "真里歌", ""],
-    [5, "Blue-Love Chime", "nao", ""],
-    [6, "School Festival!!", "榊原ゆい", ""],
-    [7, "闇夜の彼方", "真里歌", ""],
-    [8, "Chemin", "tohko", ""],
-    [9, "ASAGI", "中瀬ひな", ""],
-    [10, "Aliare", "葉月", ""],
-    [11, "未来は…", "中山♡マミ", ""],
-    [12, "シャムロック", "Riryka", ""],
-    [13, "Only Your Precious Star", "しほり", ""],
-    [14, "観覧車", "Duca", ""],
-    [15, "Tricky Love", "神代あみ", ""],
-    [16, "終わりは終わりじゃない", "中山♡マミ", ""],
+    [1, "疾るセカイと僕らのミライ", "Riryka", "0"],
+    [2, "Next To You", "しほり", "0"],
+    [3, "二人のアルバム", "夏希美羽", "0"],
+    [4, "Find The Gate", "真里歌", "1"],
+    [5, "Blue-Love Chime", "nao", "0"],
+    [6, "School Festival!!", "榊原ゆい", "1"],
+    [7, "闇夜の彼方", "真里歌", "0"],
+    [8, "Chemin", "tohko", "0"],
+    [9, "ASAGI", "中瀬ひな", "0"],
+    [10, "Aliare", "葉月", "0"],
+    [11, "未来は…", "中山♡マミ", "0"],
+    [12, "シャムロック", "Riryka", "1"],
+    [13, "Only Your Precious Star", "しほり", "1"],
+    [14, "観覧車", "Duca", "0"],
+    [15, "Tricky Love", "神代あみ", "0"],
+    [16, "終わりは終わりじゃない", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/fefca27a-13c5-4fec-8815-867d08d64865", "https://vgmdb.net/album/76893"]
 
@@ -3100,27 +3100,27 @@ catalognumber = "KGD-07071"
 date = "2007-12-21"
 album = "Solfege Original Soundtrack"
 tracks = [
-    [1, "Little wing", "", ""],
-    [2, "Kaleidoscope", "", ""],
-    [3, "Dreamer", "", ""],
-    [4, "friendliness!", "", ""],
-    [5, "obedience", "", ""],
-    [6, "Cross road", "", ""],
-    [7, "Milk Tea", "", ""],
-    [8, "Little wing ~Piano Arrangement Ver~", "", ""],
-    [9, "Kaleidoscope ~Piano Arrangement Ver~", "", ""],
-    [10, "Dreamer ~Piano Arrangement Ver~", "", ""],
-    [11, "friendliness! ~Piano Arrangement Ver~", "", ""],
-    [12, "obedience ~Piano Arrangement Ver~", "", ""],
-    [13, "Cross road ~Piano Arrangement Ver~", "", ""],
-    [14, "Milk Tea ~Piano Arrangement Ver~", "", ""],
-    [15, "Andante", "", ""],
-    [16, "Vivace", "", ""],
-    [17, "Adagio", "", ""],
-    [18, "Grave", "", ""],
-    [19, "Lent", "", ""],
-    [20, "Adagietto", "", ""],
-    [21, "Allegro con brio", "", ""],
+    [1, "Little wing", "", "0"],
+    [2, "Kaleidoscope", "", "0"],
+    [3, "Dreamer", "", "0"],
+    [4, "friendliness!", "", "0"],
+    [5, "obedience", "", "0"],
+    [6, "Cross road", "", "0"],
+    [7, "Milk Tea", "", "0"],
+    [8, "Little wing ~Piano Arrangement Ver~", "", "0"],
+    [9, "Kaleidoscope ~Piano Arrangement Ver~", "", "0"],
+    [10, "Dreamer ~Piano Arrangement Ver~", "", "0"],
+    [11, "friendliness! ~Piano Arrangement Ver~", "", "0"],
+    [12, "obedience ~Piano Arrangement Ver~", "", "0"],
+    [13, "Cross road ~Piano Arrangement Ver~", "", "0"],
+    [14, "Milk Tea ~Piano Arrangement Ver~", "", "0"],
+    [15, "Andante", "", "0"],
+    [16, "Vivace", "", "0"],
+    [17, "Adagio", "", "0"],
+    [18, "Grave", "", "0"],
+    [19, "Lent", "", "0"],
+    [20, "Adagietto", "", "0"],
+    [21, "Allegro con brio", "", "0"],
 ]
 links = ["https://vgmdb.net/album/6180"]
 
@@ -3182,8 +3182,8 @@ tracks = [
     [17, "愛の営み", "", ""],
     [18, "明日に向かって", "", ""],
     [19, "故郷の詩 (Grand Finale)", "", ""],
-    [20, "咲く未来 (カラオケ Ver.)", "", ""],
-    [21, "咲く未来 (フルコーラス Ver.)", "", ""],
+    [20, "咲く未来 (カラオケ Ver.)", "", "0"],
+    [21, "咲く未来 (フルコーラス Ver.)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/42732"]
 
@@ -3215,8 +3215,8 @@ tracks = [
     [21, "Outer planet", "", ""],
     [22, "Holiday", "", ""],
     [23, "Embrace", "", ""],
-    [24, "Dear", "", ""],
-    [25, "Again", "", ""],
+    [24, "Dear", "", "0"],
+    [25, "Again", "", "0"],
     [26, "光の地図 short ver.", "", ""],
 ]
 links = ["https://vgmdb.net/album/7510"]
@@ -3229,10 +3229,10 @@ tracks = [
     [1, "見上げた空に落ちていく", "片霧烈火", ""],
     [2, "あなたに、いちばん、つたえたいこと。", "片霧烈火", ""],
     [3, "コンチェルトノート", "NANA", ""],
-    [4, "輝いたまま", "中山♡マミ", ""],
+    [4, "輝いたまま", "中山♡マミ", "0"],
     [5, "あの頃のように", "Riryka", ""],
-    [6, "夏のファンタジア", "佐藤ひろ美", ""],
-    [7, "夏のファンタジア アカペラver.", "佐藤ひろ美", ""],
+    [6, "夏のファンタジア", "佐藤ひろ美", "0"],
+    [7, "夏のファンタジア アカペラver.", "佐藤ひろ美", "0"],
     [8, "想いの果て", "tohko", ""],
     [9, "Long for…", "瀬名", ""],
     [10, "Gracias", "片霧烈火", ""],
@@ -3286,7 +3286,7 @@ tracks = [
     [26, "フィオレリーア", "Elements Garden", ""],
     [27, "カンティレーナ", "Angel Note", ""],
     [28, "水の調べ", "Angel Note", ""],
-    [29, "やさしさは水の調べ (Short Version)", "中山♡マミ", ""],
+    [29, "やさしさは水の調べ (Short Version)", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/529b0ab2-fb72-4225-b27b-9604bb08d939", "https://vgmdb.net/album/18139"]
 
@@ -3601,7 +3601,7 @@ tracks = [
     [6, "繋ぐ想い", "manaca", ""],
     [7, "To\"five\"Kiss", "櫻川めぐ", ""],
     [8, "null", "茶太", ""],
-    [9, "疾るセカイと僕らのミライ", "Riryka", ""],
+    [9, "疾るセカイと僕らのミライ", "Riryka", "0"],
     [10, "be confidence", "Duca", ""],
     [11, "Flyable Heart", "KIYO", ""],
     [12, "Hey Darling!", "松下", ""],
@@ -3678,7 +3678,7 @@ catalognumber = "AKCI-26006"
 date = "2004-01-28"
 album = "Jewels Ocean Soundtrack"
 tracks = [
-    [1, "INNOCENT", "", ""],
+    [1, "INNOCENT", "", "0"],
     [2, "JuwelsOcean", "", ""],
     [3, "夢幻のヤミ", "", ""],
     [4, "今日という輝き", "", ""],
@@ -3706,8 +3706,8 @@ tracks = [
     [26, "輝かぬ宝石", "", ""],
     [27, "終わりなき夜に朝は来ない", "", ""],
     [28, "ダイヤモンドの騎士", "", ""],
-    [29, "INNOCENT piano ver.", "", ""],
-    [30, "光臨！ その名は武神鬼帝！", "", ""],
+    [29, "INNOCENT piano ver.", "", "0"],
+    [30, "光臨！ その名は武神鬼帝！", "", "0"],
     [31, "メツボウノウタウタイ", "", ""],
     [32, "SHAIN...", "", ""],
     [33, "Call On Me", "", ""],
@@ -3792,20 +3792,20 @@ catalognumber = "KGD-10020"
 date = "2010-09-29"
 album = "Solfege Vocal Collection Disc 1"
 tracks = [
-    [1, "Little Wing", "榊原ゆい", ""],
-    [2, "Kaleidoscope", "榊原ゆい", ""],
-    [3, "Dreamer", "榊原ゆい", ""],
-    [4, "friendliness!", "榊原ゆい", ""],
-    [5, "obedience", "榊原ゆい", ""],
-    [6, "Cross road", "榊原ゆい", ""],
-    [7, "Milk Tea", "榊原ゆい", ""],
-    [8, "you're my dear", "中山♡マミ", ""],
-    [9, "Aozora Melody", "神代あみ", ""],
-    [10, "shining (織歌 Ver.)", "加藤雅美", ""],
-    [11, "shining (すくね Ver.)", "たかはし智秋", ""],
-    [12, "again", "たかはし智秋", ""],
-    [13, "especially", "伊月ゆい", ""],
-    [14, "Resonance", "今井麻美", ""],
+    [1, "Little Wing", "榊原ゆい", "0"],
+    [2, "Kaleidoscope", "榊原ゆい", "0"],
+    [3, "Dreamer", "榊原ゆい", "0"],
+    [4, "friendliness!", "榊原ゆい", "0"],
+    [5, "obedience", "榊原ゆい", "0"],
+    [6, "Cross road", "榊原ゆい", "1"],
+    [7, "Milk Tea", "榊原ゆい", "0"],
+    [8, "you're my dear", "中山♡マミ", "0"],
+    [9, "Aozora Melody", "神代あみ", "0"],
+    [10, "shining (織歌 Ver.)", "加藤雅美", "0"],
+    [11, "shining (すくね Ver.)", "たかはし智秋", "0"],
+    [12, "again", "たかはし智秋", "0"],
+    [13, "especially", "伊月ゆい", "1"],
+    [14, "Resonance", "今井麻美", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b51ac01d-0be9-422b-9e6e-c64ed4e44727", "https://vgmdb.net/album/27497"]
 
@@ -3814,26 +3814,26 @@ catalognumber = "KGD-10020"
 date = "2010-09-29"
 album = "Solfege Vocal Collection Disc 2"
 tracks = [
-    [1, "Little Wing ~Piano Arrange Version~", "Angel Note", ""],
-    [2, "Kaleidoscope ~Piano Arrange Version~", "Angel Note", ""],
-    [3, "Dreamer ~Piano Arrange Version~", "Angel Note", ""],
-    [4, "friendliness! ~Piano Arrange Version~", "Angel Note", ""],
-    [5, "obedience ~Piano Arrange Version~", "Angel Note", ""],
-    [6, "Cross road ~Piano Arrange Version~", "Angel Note", ""],
-    [7, "Milk Tea ~Piano Arrange Version~", "Angel Note", ""],
-    [8, "you're my dear ~Piano Arrange Version~", "Angel Note", ""],
-    [9, "Aozora Melody ~Piano Arrange Version~", "Angel Note", ""],
-    [10, "shining ~Piano Arrange Version~", "Angel Note", ""],
-    [11, "again ~Piano Arrange Version~", "Angel Note", ""],
-    [12, "especially ~Piano Arrange Version~", "Angel Note", ""],
-    [13, "Resonance ~Piano Arrange Version~", "Angel Note", ""],
-    [14, "Andante", "馬場信繁", ""],
-    [15, "Vivace", "馬場信繁", ""],
-    [16, "Adagio", "馬場信繁", ""],
-    [17, "Grave", "馬場信繁", ""],
-    [18, "Lent", "馬場信繁", ""],
-    [19, "Adagietto", "馬場信繁", ""],
-    [20, "Allegro con brio", "馬場信繁", ""],
+    [1, "Little Wing ~Piano Arrange Version~", "Angel Note", "0"],
+    [2, "Kaleidoscope ~Piano Arrange Version~", "Angel Note", "0"],
+    [3, "Dreamer ~Piano Arrange Version~", "Angel Note", "0"],
+    [4, "friendliness! ~Piano Arrange Version~", "Angel Note", "0"],
+    [5, "obedience ~Piano Arrange Version~", "Angel Note", "0"],
+    [6, "Cross road ~Piano Arrange Version~", "Angel Note", "0"],
+    [7, "Milk Tea ~Piano Arrange Version~", "Angel Note", "0"],
+    [8, "you're my dear ~Piano Arrange Version~", "Angel Note", "0"],
+    [9, "Aozora Melody ~Piano Arrange Version~", "Angel Note", "0"],
+    [10, "shining ~Piano Arrange Version~", "Angel Note", "0"],
+    [11, "again ~Piano Arrange Version~", "Angel Note", "0"],
+    [12, "especially ~Piano Arrange Version~", "Angel Note", "0"],
+    [13, "Resonance ~Piano Arrange Version~", "Angel Note", "0"],
+    [14, "Andante", "馬場信繁", "0"],
+    [15, "Vivace", "馬場信繁", "0"],
+    [16, "Adagio", "馬場信繁", "0"],
+    [17, "Grave", "馬場信繁", "0"],
+    [18, "Lent", "馬場信繁", "0"],
+    [19, "Adagietto", "馬場信繁", "0"],
+    [20, "Allegro con brio", "馬場信繁", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b51ac01d-0be9-422b-9e6e-c64ed4e44727", "https://vgmdb.net/album/27497"]
 
@@ -4256,9 +4256,9 @@ tracks = [
     [2, "雫", "", ""],
     [3, "いにしえの物語～鬼魂～", "", ""],
     [4, "キスはすぐそこ", "", ""],
-    [5, "challenge myself to the goal", "", ""],
-    [6, "from the distant night sky", "", ""],
-    [7, "challenge myself to the goal -Remix-", "", ""],
+    [5, "challenge myself to the goal", "", "0"],
+    [6, "from the distant night sky", "", "0"],
+    [7, "challenge myself to the goal -Remix-", "", "0"],
     [8, "色あせた写真の…に君の笑顔が (short ver.)", "", ""],
 ]
 links = ["https://vgmdb.net/album/29835"]
@@ -4322,7 +4322,7 @@ catalognumber = "STEG-04026"
 date = "2004-11-26"
 album = "Successor of Wind Theme Song CD"
 tracks = [
-    [1, "虹の向こう", "", ""],
+    [1, "虹の向こう", "", "0"],
     [2, "Free Bird", "", ""],
 ]
 links = ["https://vgmdb.net/album/32894"]
@@ -4332,11 +4332,11 @@ catalognumber = "PRM-001"
 date = "2006-12-29"
 album = "Purimoba Vocal Stage 2006 Winter"
 tracks = [
-    [1, "I'll try my best!!", "中山♡マミ&YU-KO", ""],
+    [1, "I'll try my best!!", "中山♡マミ&YU-KO", "0"],
     [2, "君に再び逢えた奇跡", "YURIA", ""],
     [3, "原罪のレクイエム", "KOTOKO", ""],
     [4, "恋の経験値", "misakichi", ""],
-    [5, "MISS YOU", "みるく・くるみ", ""],
+    [5, "MISS YOU", "みるく・くるみ", "0"],
     [6, "MORAL", "Mika", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/ebb1c1b0-e37b-453c-bdae-4e63e6c547e4", "https://vgmdb.net/album/11584"]
@@ -4559,7 +4559,7 @@ tracks = [
     [11, "Girls Life", "橋本みゆき", ""],
     [12, "Still Dream", "Ria", ""],
     [13, "カーニバル", "NANA", ""],
-    [14, "INNOCENT", "みるくくるみ", ""],
+    [14, "INNOCENT", "みるくくるみ", "0"],
     [15, "Precious Love", "Saori", ""],
     [16, "青い星の上で", "今井美里", ""],
 ]
@@ -4570,9 +4570,9 @@ catalognumber = "PLT-009"
 date = "2004-08-13"
 album = "Princess Witches Theme Song Maxi Single \"I'll try my best!!\""
 tracks = [
-    [1, "I'll try my best!!", "中山♡マミ & U-KO", ""],
-    [2, "I'll try my best!! (piano version)", "中山♡マミ & U-KO", ""],
-    [3, "I'll try my best!! (instrumental version)", "中山♡マミ & U-KO", ""],
+    [1, "I'll try my best!!", "中山♡マミ & U-KO", "0"],
+    [2, "I'll try my best!! (piano version)", "中山♡マミ & U-KO", "0"],
+    [3, "I'll try my best!! (instrumental version)", "中山♡マミ & U-KO", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5f117be0-f2cf-4858-bdd8-6fbfabbc3470", "https://vgmdb.net/album/9902"]
 
@@ -4609,11 +4609,11 @@ tracks = [
     [6, "arcane", "ave;new feat. YU-KI", ""],
     [7, "Longing", "ave;new feat. Saori Sakura", ""],
     [8, "Princess Blood", "Rita", ""],
-    [9, "Passion", "藤間仁", ""],
+    [9, "Passion", "藤間仁", "0"],
     [10, "Water Strings", "片霧烈火", ""],
     [11, "カゲロウ", "中原涼", ""],
     [12, "FU～★ FU～★", "藤田淳平", ""],
-    [13, "壊れた月", "kala", ""],
+    [13, "壊れた月", "kala", "0"],
     [14, "Silent Snow", "Rita", ""],
     [15, "ZWEI WORTER ～僕らの世界～", "佐藤ひろ美", ""],
     [16, "Insanity", "青葉りんご", ""],
@@ -4630,7 +4630,7 @@ tracks = [
     [1, "ワンダーランド", "中山♡マミ", ""],
     [2, "きみにおねがい！セキュリティ", "MOSAIC.WAV", ""],
     [3, "spider", "薬師るり", ""],
-    [4, "Get the future", "中瀬ひな, Riryka", ""],
+    [4, "Get the future", "中瀬ひな, Riryka", "0"],
     [5, "情熱↑", "凛", ""],
     [6, "妄想爆走☆開発chu!", "Cheerful+Colorful", ""],
     [7, "コクハク☆パラダイス", "シュナ", ""],
@@ -4753,15 +4753,15 @@ tracks = [
     [12, "譲れないモノ", "森まもる", ""],
     [13, "運命と意志", "森まもる", ""],
     [14, "はるかかなた", "森まもる", ""],
-    [15, "Aliare half chorus ver.", "葉月", ""],
+    [15, "Aliare half chorus ver.", "葉月", "0"],
     [16, "ぬくもり", "森まもる", ""],
-    [17, "Aliare ～on piano～", "椎名俊介", ""],
+    [17, "Aliare ～on piano～", "椎名俊介", "0"],
     [18, "きっと桜を見るたびに", "森まもる", ""],
-    [19, "新しい調べ half chorus ver.", "中山♡マミ", ""],
-    [20, "Aliare full chorus ver.", "葉月", ""],
-    [21, "新しい調べ full chorus ver.", "中山♥マミ", ""],
-    [22, "Aliare full chorus off vocal ver.", "椎名俊介", ""],
-    [23, "新しい調べ full chorus off vocal ver.", "椎名俊介", ""],
+    [19, "新しい調べ half chorus ver.", "中山♡マミ", "0"],
+    [20, "Aliare full chorus ver.", "葉月", "0"],
+    [21, "新しい調べ full chorus ver.", "中山♥マミ", "0"],
+    [22, "Aliare full chorus off vocal ver.", "椎名俊介", "0"],
+    [23, "新しい調べ full chorus off vocal ver.", "椎名俊介", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/1ea00ea9-0c4f-4373-ab52-43030b8debef", "https://vgmdb.net/album/30824"]
 
@@ -4793,7 +4793,7 @@ catalognumber = "VA-C79-0001"
 date = "2010-12-29"
 album = "VA Compilation CD Vol.2 \"Panorama\""
 tracks = [
-    [1, "友達以上恋人未満", "芽依子&さくら", ""],
+    [1, "友達以上恋人未満", "芽依子&さくら", "0"],
     [2, "Do you feel loved?", "KOTOKO", ""],
     [3, "星屑 Cover", "あっこ。", ""],
     [4, "Time heals all sorrows", "KOTOKO", ""],
@@ -5079,7 +5079,7 @@ date = "2010-03-26"
 album = "RGH ~Koi to Hero to Gakuen to~ Special Disc"
 tracks = [
     [1, "My Dear HERO", "", ""],
-    [2, "虹色の季節", "", ""],
+    [2, "虹色の季節", "", "0"],
     [3, "倫応学園の楽天♪", "", ""],
     [4, "倫応学園の不遇・・・", "", ""],
     [5, "倫応学園の空腹", "", ""],
@@ -5096,9 +5096,9 @@ catalognumber = "WIC-7637DA"
 date = "2002-12-13"
 album = "SHOOTING HOLINESS PRIMA VEIL -V- -OP&ED MUSIC MAXI SINGLE-"
 tracks = [
-    [1, "ふたつの心理", "", ""],
+    [1, "ふたつの心理", "", "0"],
     [2, "恋の魔法", "", ""],
-    [3, "ふたつの心理 (カラオケバージョン)", "", ""],
+    [3, "ふたつの心理 (カラオケバージョン)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/21200"]
 
@@ -5177,7 +5177,7 @@ date = "2005-08-12"
 album = "PRINCESS WITCHES ORIGINAL SOUND TRACKS Disc 1"
 tracks = [
     [1, "プリっちがはじまるよ!!", "アメディオ", ""],
-    [2, "I'll try my best!!", "中山♡マミ & U-KO", ""],
+    [2, "I'll try my best!!", "中山♡マミ & U-KO", "0"],
     [3, "愛すべき日常へ - まったり", "アメディオ", ""],
     [4, "愛すべき日常へ - ノリノリ", "アメディオ", ""],
     [5, "早起きは、 鉄の掟", "アメディオ", ""],
@@ -5225,8 +5225,8 @@ tracks = [
     [11, "Refrain - Dreamy", "アメディオ", ""],
     [12, "Refrain - Dramatic Arrange", "アメディオ", ""],
     [13, "Raising Soul", "アメディオ", ""],
-    [14, "I'll try my best!! - Piano Arrange", "Angel Note", ""],
-    [15, "I'll try my best!! - karaoke", "Angel Note", ""],
+    [14, "I'll try my best!! - Piano Arrange", "Angel Note", "0"],
+    [15, "I'll try my best!! - karaoke", "Angel Note", "0"],
     [16, "Refrain - karaoke", "上松範康", ""],
     [17, "パピリン、 愛の調べ", "アメディオ", ""],
 ]
@@ -5262,15 +5262,15 @@ album = "Escu:de vocal collection vol.1"
 tracks = [
     [1, "みらくるテンプテーション!!", "Team saB:ten", ""],
     [2, "Hot Heart Ruin", "NSN", ""],
-    [3, "ふたつの心理", "ハジメ", ""],
+    [3, "ふたつの心理", "ハジメ", "0"],
     [4, "恋の魔法", "Team saB:ten", ""],
     [5, "ミラクルファンタジー", "NSN", ""],
     [6, "ハタヤマ絵描き唄", "RON", ""],
-    [7, "Love Doll", "Angel Note", ""],
-    [8, "INNOCENT", "Angel Note", ""],
+    [7, "Love Doll", "Angel Note", "0"],
+    [8, "INNOCENT", "Angel Note", "0"],
     [9, "Call on Me", "Angel Note", ""],
     [10, "DESPERADO", "Angel Note", ""],
-    [11, "鼓動", "Angel Note", ""],
+    [11, "鼓動", "Angel Note", "0"],
     [12, "ENDLESS...", "RON", ""],
     [13, "MY ONLY STYLE", "RON", ""],
     [14, "ENDLESS...～Omake no Mix～", "RON", ""],
@@ -5286,7 +5286,7 @@ catalognumber = "PSTA-0706S"
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Original Voice Drama"
 tracks = [
-    [1, "一生恋してる！ (Full Ver.)", "", ""],
+    [1, "一生恋してる！ (Full Ver.)", "", "0"],
     [2, "幼馴染が起こしに来てくれる朝", "", ""],
     [3, "誕生日はキスがいい", "", ""],
     [4, "ドタバタ文化祭準備！", "", ""],
@@ -5354,7 +5354,7 @@ tracks = [
     [11, "Fusion Star", "KOTOKO", ""],
     [12, "シアワセノワルツ", "Marica", ""],
     [13, "Devotion", "chiduko", ""],
-    [14, "I'll try my best", "中山マミ & Uko", ""],
+    [14, "I'll try my best", "中山マミ & Uko", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/d35aa769-ba84-48fe-9e58-b12f89ea393e", "https://vgmdb.net/album/5890"]
 
@@ -5368,7 +5368,7 @@ tracks = [
     [3, "となりの世話女房", "", ""],
     [4, "素直になれない名監督", "", ""],
     [5, "恥ずかしがりの魔法使い", "", ""],
-    [6, "Focus love (Game Size)", "", ""],
+    [6, "Focus love (Game Size)", "", "0"],
     [7, "REC.!", "", ""],
     [8, "(·∀·)ﾆﾔﾆﾔ", "", ""],
     [9, "そこに直れ!!", "", ""],
@@ -5407,9 +5407,9 @@ tracks = [
     [12, "夏影 suite5", "", ""],
     [13, "LOVEREC.", "", ""],
     [14, "Take mirage #2", "", ""],
-    [15, "Focus love (Full chorus ver.)", "", ""],
+    [15, "Focus love (Full chorus ver.)", "", "0"],
     [16, "Take mirage (Full chorus ver.)", "", ""],
-    [17, "Focus love (Off Vocal)", "", ""],
+    [17, "Focus love (Off Vocal)", "", "0"],
     [18, "Take Mirage (Off Vocal)", "", ""],
 ]
 links = ["https://vgmdb.net/album/55347"]
@@ -5518,7 +5518,7 @@ tracks = [
     [61, "BITE", "", ""],
     [62, "とおせんぼ", "", ""],
     [63, "TOO LATE", "", ""],
-    [64, "LITTLE WING", "", ""],
+    [64, "LITTLE WING", "", "0"],
     [65, "恋の魔法", "", ""],
     [66, "遠い夏", "", ""],
     [67, "Lovedoll", "", ""],
@@ -5536,7 +5536,7 @@ catalognumber = "STEG-06023"
 date = "2006-12-29"
 album = "Aozora Magiccer!! Original Soundtrack"
 tracks = [
-    [1, "カッコよくなくちゃ！(OP ver.)", "", ""],
+    [1, "カッコよくなくちゃ！(OP ver.)", "", "0"],
     [2, "空の彼方へ", "", ""],
     [3, "森を駆け抜けろ", "", ""],
     [4, "大海原", "", ""],
@@ -5556,8 +5556,8 @@ tracks = [
     [18, "いい雰囲気", "", ""],
     [19, "求愛の儀式", "", ""],
     [20, "鎮めの儀式", "", ""],
-    [21, "カッコよくなくちゃ！", "", ""],
-    [22, "カッコよくなくちゃ！(KARAOKE ver.)", "", ""],
+    [21, "カッコよくなくちゃ！", "", "0"],
+    [22, "カッコよくなくちゃ！(KARAOKE ver.)", "", "0"],
     [23, "(data track)", "", ""],
 ]
 links = ["https://vgmdb.net/album/4771"]
@@ -5583,7 +5583,7 @@ tracks = [
     [3, "LOVEコンプレックス PRESIDENTS ver.", "", ""],
     [4, "LOVEコンプレックス 雪乃 ver.", "", ""],
     [5, "LOVEコンプレックス イリーナ ver.", "", ""],
-    [6, "Family Bond", "", ""],
+    [6, "Family Bond", "", "0"],
     [7, "Summer days rhapsody 志乃 ver.", "", ""],
     [8, "Summer days rhapsody 聖 ver.", "", ""],
     [9, "Summer days rhapsody 出穂 ver.", "", ""],
@@ -5622,19 +5622,19 @@ catalognumber = "YSCD-0055"
 date = "2018-08-24"
 album = "YUZUSOFT VOCAL COLLECTION 2006-2016 Disc 1 [YSCD-0055]"
 tracks = [
-    [1, "Beautiful Harmony", "榊原ゆい", ""],
-    [2, "My Dear", "中山♡マミ", ""],
+    [1, "Beautiful Harmony", "榊原ゆい", "0"],
+    [2, "My Dear", "中山♡マミ", "0"],
     [3, "Trust in me", "榊原ゆい", ""],
     [4, "true drop", "霜月はるか", ""],
     [5, "想いのカナタ", "霜月はるか", ""],
     [6, "リフレイン", "榊原ゆい", ""],
     [7, "メチャ恋らんまん☆", "榊原ゆい", ""],
-    [8, "MUGEN∞MIRAI", "神代あみ", ""],
-    [9, "Change&Chance!", "榊原ゆい", ""],
+    [8, "MUGEN∞MIRAI", "神代あみ", "0"],
+    [9, "Change&Chance!", "榊原ゆい", "0"],
     [10, "光差す未来", "霜月はるか", ""],
-    [11, "Scarlet", "榊原ゆい", ""],
+    [11, "Scarlet", "榊原ゆい", "0"],
     [12, "君だけの僕", "Riryka", ""],
-    [13, "Blue-Love Chime", "nao", ""],
+    [13, "Blue-Love Chime", "nao", "0"],
     [14, "天色", "あまいろ＊カルテット", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/7d0d1c09-d59f-4497-b33b-3de15e4eb1e1", "https://vgmdb.net/album/83928"]
@@ -5645,12 +5645,12 @@ date = "2018-08-24"
 album = "YUZUSOFT VOCAL COLLECTION 2006-2016 Disc 2 [YSCD-0056]"
 tracks = [
     [1, "恋せよ乙女！", "米倉千尋", ""],
-    [2, "Without You", "仮屋和奏 starring 神代あみ", ""],
+    [2, "Without You", "仮屋和奏 starring 神代あみ", "0"],
     [3, "Re:Start～君とまた出逢えて～", "神代あみ", ""],
-    [4, "天使の羽とクリスタル", "Riryka", ""],
+    [4, "天使の羽とクリスタル", "Riryka", "0"],
     [5, "スカート", "葉月", ""],
     [6, "君がくれた光", "カサンドラ", ""],
-    [7, "大好き", "中山♡マミ", ""],
+    [7, "大好き", "中山♡マミ", "0"],
     [8, "恋ひ恋ふ縁", "KOTOKO", ""],
     [9, "愛しさと感謝の気持ち", "榊原ゆい", ""],
     [10, "ふたりで", "Riryka", ""],
@@ -5723,7 +5723,7 @@ catalognumber = "LPTN-0018"
 date = "2014-08-15"
 album = "Fureraba Mini Fandisc & Full Soundtrack Disc 1"
 tracks = [
-    [1, "quantum jump", "真里歌", ""],
+    [1, "quantum jump", "真里歌", "0"],
     [2, "theme of HIMARI ver.FRIEND", "Angel Note", ""],
     [3, "theme of RINA ver.FRIEND", "Angel Note", ""],
     [4, "theme of YUZUYU ver.FRIEND", "Angel Note", ""],
@@ -5738,7 +5738,7 @@ tracks = [
     [13, "devote all one's energy", "Angel Note", ""],
     [14, "どういうこと？", "Angel Note", ""],
     [15, "FRIEND TO LOVER", "Angel Note", ""],
-    [16, "quantum jump ver.inst", "Angel Note", ""],
+    [16, "quantum jump ver.inst", "Angel Note", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/53a48572-4cd3-4cbd-ba31-2ab82bae2eb3", "https://vgmdb.net/album/47748"]
 
@@ -5757,8 +5757,8 @@ tracks = [
     [8, "ウキウキ気分で", "Angel Note", ""],
     [9, "LOVER TO...", "Angel Note", ""],
     [10, "未来を描いて", "Angel Note", ""],
-    [11, "二人のアルバム", "夏希美羽", ""],
-    [12, "二人のアルバム ver.inst", "Angel Note", ""],
+    [11, "二人のアルバム", "夏希美羽", "0"],
+    [12, "二人のアルバム ver.inst", "Angel Note", "0"],
     [13, "未使用曲01", "Angel Note", ""],
     [14, "未使用曲02", "Angel Note", ""],
     [15, "未使用曲03", "Angel Note", ""],
@@ -5771,7 +5771,7 @@ catalognumber = "STEG-06024"
 date = "2006-12-29"
 album = "Okaeshi Beast!! Original Soundtrack"
 tracks = [
-    [1, "You change the color of my heart (OP ver.)", "", ""],
+    [1, "You change the color of my heart (OP ver.)", "", "0"],
     [2, "不吉な予感", "", ""],
     [3, "日常", "", ""],
     [4, "ふたりの獣っ娘", "", ""],
@@ -5788,8 +5788,8 @@ tracks = [
     [15, "陵辱Part2", "", ""],
     [16, "ひなたと一緒", "", ""],
     [17, "獣娘の水遊び", "", ""],
-    [18, "You change the color of my heart", "", ""],
-    [19, "You change the color of my heart (KARAOKE ver.)", "", ""],
+    [18, "You change the color of my heart", "", "0"],
+    [19, "You change the color of my heart (KARAOKE ver.)", "", "0"],
     [20, "(data track)", "", ""],
 ]
 links = ["https://vgmdb.net/album/4779"]
@@ -5817,7 +5817,7 @@ catalognumber = "STEG-04017"
 date = "2004-08-13"
 album = "Maou no Musumetachi Soundtrack & Short Story"
 tracks = [
-    [1, "恋するハート", "", ""],
+    [1, "恋するハート", "", "0"],
     [2, "魔王の間", "", ""],
     [3, "いっきまーす！", "", ""],
     [4, "抜き足、差し足", "", ""],
@@ -5886,7 +5886,7 @@ tracks = [
     [7, "ヒカリ　～ANGEL HALO ver～", "", ""],
     [8, "ヒカリ　～ANGEL WING ver～", "", ""],
     [9, "太陽の咲く星で", "", ""],
-    [10, "風花雪月", "", ""],
+    [10, "風花雪月", "", "0"],
     [11, "Everlasting Flower", "", ""],
     [12, "おもいでを空に", "", ""],
     [13, "キューブ de おねえちゃん", "", ""],
@@ -6115,13 +6115,13 @@ tracks = [
     [9, "たとえ、折れた翼でも", "井ノ原智", ""],
     [10, "君の周波数", "井ノ原智", ""],
     [11, "SIGNAL on piano", "井ノ原智", ""],
-    [12, "未来は… on piano", "井ノ原智", ""],
-    [13, "未来は…", "中山♡マミ", ""],
+    [12, "未来は… on piano", "井ノ原智", "0"],
+    [13, "未来は…", "中山♡マミ", "0"],
     [14, "夏の終わりに", "井ノ原智", ""],
     [15, "SIGNAL -full chorus-", "tohko", ""],
-    [16, "未来は… -full chorus-", "中山♡マミ", ""],
+    [16, "未来は… -full chorus-", "中山♡マミ", "0"],
     [17, "SIGNAL -off vocal-", "tohko", ""],
-    [18, "未来は… -off vocal-", "中山♡マミ", ""],
+    [18, "未来は… -off vocal-", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/68d20b23-872c-43c4-8496-6e41c62a4f4a", "https://vgmdb.net/album/38870"]
 
@@ -6170,7 +6170,7 @@ catalognumber = "DWE-004"
 date = "2010-12-24"
 album = "Kagura Gensoutan Original Soundtrack"
 tracks = [
-    [1, "望郷歌～まほろば～", "", ""],
+    [1, "望郷歌～まほろば～", "", "0"],
     [2, "講義の時間", "", ""],
     [3, "3バカがゆく", "", ""],
     [4, "夕暮れ時", "", ""],
@@ -6191,8 +6191,8 @@ tracks = [
     [19, "奈落の底", "", ""],
     [20, "妖かしの姫", "", ""],
     [21, "まほろば～追憶～", "", ""],
-    [22, "想ひ出小往", "", ""],
-    [23, "望郷歌～まほろば～ アレンジVer.", "", ""],
+    [22, "想ひ出小往", "", "0"],
+    [23, "望郷歌～まほろば～ アレンジVer.", "", "0"],
 ]
 links = ["https://vgmdb.net/album/21310"]
 
@@ -6240,9 +6240,9 @@ catalognumber = "app-108"
 date = "2015-03-27"
 album = "Hana no No ni Saku Utakata no ORIGINAL SOUNDTRACK Disc 2 [app-108]"
 tracks = [
-    [1, "華暦", "Ayumi.", ""],
+    [1, "華暦", "Ayumi.", "0"],
     [2, "avenir", "葉月", ""],
-    [3, "桜の記憶", "tohko", ""],
+    [3, "桜の記憶", "tohko", "0"],
     [4, "対峙", "鷹石しのぶ", ""],
     [5, "Our bond will continue forever", "鷹石しのぶ", ""],
     [6, "女色", "鷹石しのぶ", ""],
@@ -6250,13 +6250,13 @@ tracks = [
     [8, "深層記憶", "鷹石しのぶ", ""],
     [9, "花暦 arr. piano & viola", "鷹石しのぶ", ""],
     [10, "花暦 arr. strings & A.gt -咲花-", "鷹石しのぶ", ""],
-    [11, "桜の記憶 arr. -決意-", "鷹石しのぶ", ""],
+    [11, "桜の記憶 arr. -決意-", "鷹石しのぶ", "0"],
     [12, "avenir arr. -明日の色-", "鷹石しのぶ", ""],
     [13, "これからの日々 -彩の花-", "鷹石しのぶ", ""],
     [14, "咲くか散るか!?", "鷹石しのぶ", ""],
-    [15, "華暦 short version", "Ayumi.", ""],
+    [15, "華暦 short version", "Ayumi.", "0"],
     [16, "avenir short version", "葉月", ""],
-    [17, "桜の記憶 short version", "tohko", ""],
+    [17, "桜の記憶 short version", "tohko", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/af4924b7-99a3-48ab-8df5-dc444b5813cf", "https://vgmdb.net/album/51835"]
 
@@ -6300,7 +6300,7 @@ date = "2010-08-13"
 album = "PENCIL ROYALE -VOCAL COLLECTION-"
 tracks = [
     [1, "魔女っ娘つるぺた☆ま～じカル！", "", ""],
-    [2, "I'll try my best", "", ""],
+    [2, "I'll try my best", "", "0"],
     [3, "Refrain", "", ""],
     [4, "恋は☆Magic", "", ""],
     [5, "乙女な☆Witches", "", ""],
@@ -6368,11 +6368,11 @@ tracks = [
     [1, "たとえば 突然。", "小高光太郎", ""],
     [2, "予報のない嵐", "小高光太郎", ""],
     [3, "七色パレット", "太田雅友", ""],
-    [4, "絆は銀の糸", "中山♡マミ", ""],
+    [4, "絆は銀の糸", "中山♡マミ", "0"],
     [5, "たとえば 突然。(off vocal)", "小高光太郎", ""],
     [6, "予報のない嵐(off vocal)", "小高光太郎", ""],
     [7, "七色パレット(off vocal)", "太田雅友", ""],
-    [8, "絆は銀の糸(off vocal)", "中山♡マミ", ""],
+    [8, "絆は銀の糸(off vocal)", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/6603d622-bd9f-495c-aa33-c31b3185f26d", "https://vgmdb.net/album/18096"]
 
@@ -6420,7 +6420,7 @@ tracks = [
     [16, "悪夢", "", ""],
     [17, "冒険", "", ""],
     [18, "厳しい旅", "", ""],
-    [19, "迷宮", "", ""],
+    [19, "迷宮", "", "0"],
     [20, "絶界･交点", "", ""],
     [21, "取り戻すべき平和", "", ""],
     [22, "立ちふさがる壁", "", ""],
@@ -6436,7 +6436,7 @@ catalognumber = "YSCD-0018"
 date = "2011-04-22"
 album = "NOBLE WORKS ORIGINAL SOUNDTRACK Original Soundtrack, Vocal"
 tracks = [
-    [1, "Change&Chance！", "榊原ゆい", ""],
+    [1, "Change&Chance！", "榊原ゆい", "0"],
     [2, "綺羅びやかな朝", "井ノ原智", ""],
     [3, "TO・HO・HO・NO・HO", "井ノ原智", ""],
     [4, "なんだこりゃ", "井ノ原智", ""],
@@ -6445,7 +6445,7 @@ tracks = [
     [7, "暴力反対！", "井ノ原智", ""],
     [8, "愉快な仲間たち", "井ノ原智", ""],
     [9, "恋の爆弾 <Instrument Version>", "井ノ原智", ""],
-    [10, "Change&Chance！ (Game Size)", "井ノ原智", ""],
+    [10, "Change&Chance！ (Game Size)", "井ノ原智", "0"],
     [11, "Noble Life", "井ノ原智", ""],
     [12, "美しき日々", "井ノ原智", ""],
     [13, "Elegant Behavior", "井ノ原智", ""],
@@ -6478,7 +6478,7 @@ tracks = [
     [12, "光差す未来 (Game Size)", "井ノ原智", ""],
     [13, "卒業", "井ノ原智", ""],
     [14, "光差す未来", "霜月はるか", ""],
-    [15, "Change&Chance！ (Karaoke Version)", "井ノ原智", ""],
+    [15, "Change&Chance！ (Karaoke Version)", "井ノ原智", "0"],
     [16, "光差す未来 (Karaoke Version)", "井ノ原智", ""],
 ]
 links = ["https://beta.musicbrainz.org/release/305856ec-2122-4089-a1a8-b213e5fad91e", "https://vgmdb.net/album/24768"]
@@ -6507,13 +6507,13 @@ date = "2006-12-22"
 album = "CROSS FIRE Original Soundtrack"
 tracks = [
     [1, "God bless you", "", ""],
-    [2, "Keep back my tears", "", ""],
+    [2, "Keep back my tears", "", "0"],
     [3, "It's A Fine Day", "", ""],
     [4, "Good morning", "", ""],
     [5, "Gradual midafternoon", "", ""],
     [6, "The Silence", "", ""],
     [7, "happening!?", "", ""],
-    [8, "Keep back my tears -music box-", "", ""],
+    [8, "Keep back my tears -music box-", "", "0"],
     [9, "I think.", "", ""],
     [10, "The 616", "", ""],
     [11, "stalker", "", ""],
@@ -6522,7 +6522,7 @@ tracks = [
     [14, "I am here for you.", "", ""],
     [15, "Get back shining sky", "", ""],
     [16, "God bless you -Solo-", "", ""],
-    [17, "Keep back my tears -karaoke Ver.-", "", ""],
+    [17, "Keep back my tears -karaoke Ver.-", "", "0"],
     [18, "Get back shining sky -karaoke Ver.-", "", ""],
 ]
 links = ["https://vgmdb.net/album/4042"]
@@ -6532,22 +6532,22 @@ catalognumber = "SRL-1009"
 date = "2016-01-29"
 album = "Melodies -Angel Note Best Collection Vol.11- Vocal"
 tracks = [
-    [1, "嘘と真実", "葉月", ""],
-    [2, "星のようになりたい", "Kicco", ""],
-    [3, "華暦", "Ayumi.", ""],
-    [4, "Passion", "Duca", ""],
-    [5, "恋の補習を始めま♡Show", "神代あみ", ""],
-    [6, "桜の記憶", "tohko", ""],
-    [7, "Focus love", "真理絵", ""],
-    [8, "大好き", "中山♡マミ", ""],
-    [9, "NEW WORLD", "葉月", ""],
-    [10, "花筵狂歌", "しほり", ""],
-    [11, "未来への一歩", "民安★ROCK", ""],
-    [12, "True Heart", "tohko", ""],
-    [13, "Without You", "神代あみ", ""],
-    [14, "カケラ", "葉月", ""],
-    [15, "ecloseion", "西沢はぐみ", ""],
-    [16, "天使の羽とクリスタル", "Riryka", ""],
+    [1, "嘘と真実", "葉月", "0"],
+    [2, "星のようになりたい", "Kicco", "0"],
+    [3, "華暦", "Ayumi.", "0"],
+    [4, "Passion", "Duca", "0"],
+    [5, "恋の補習を始めま♡Show", "神代あみ", "0"],
+    [6, "桜の記憶", "tohko", "0"],
+    [7, "Focus love", "真理絵", "0"],
+    [8, "大好き", "中山♡マミ", "1"],
+    [9, "NEW WORLD", "葉月", "0"],
+    [10, "花筵狂歌", "しほり", "0"],
+    [11, "未来への一歩", "民安★ROCK", "0"],
+    [12, "True Heart", "tohko", "1"],
+    [13, "Without You", "神代あみ", "1"],
+    [14, "カケラ", "葉月", "0"],
+    [15, "ecloseion", "西沢はぐみ", "1"],
+    [16, "天使の羽とクリスタル", "Riryka", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831", "https://vgmdb.net/album/76903"]
 
@@ -6556,16 +6556,16 @@ catalognumber = "SRL-1009"
 date = "2016-01-29"
 album = "Melodies -Angel Note Best Collection Vol.11- Vocal, Remix"
 tracks = [
-    [1, "Get The Future (ヴァ☆ニー vs. DJ 沖P Remix)", "Riryka & なかせひな", ""],
-    [2, "紅舞 (DJ 沖P Remix)", "佐藤ひろ美", ""],
-    [3, "華暦 (44tk Remix)", "Ayumi.", ""],
-    [4, "嘘と真実 (ヴァ☆ニー Remix)", "葉月", ""],
-    [5, "True Heart (AZにゃんRemix)", "tohko", ""],
-    [6, "quantum Jump (44tk Remix)", "真里歌", ""],
-    [7, "二人のアルバム (DJ 沖P Remix)", "夏希美羽", ""],
-    [8, "Hello Lady (AZにゃんRemix)", "真里歌", ""],
-    [9, "Next to you (DJ 沖P Remix)", "しほり", ""],
-    [10, "光臨!大天使ラビエル☆ (DJ 沖P Remix)", "なかせひな", ""],
+    [1, "Get The Future (ヴァ☆ニー vs. DJ 沖P Remix)", "Riryka & なかせひな", "0"],
+    [2, "紅舞 (DJ 沖P Remix)", "佐藤ひろ美", "0"],
+    [3, "華暦 (44tk Remix)", "Ayumi.", "0"],
+    [4, "嘘と真実 (ヴァ☆ニー Remix)", "葉月", "0"],
+    [5, "True Heart (AZにゃんRemix)", "tohko", "0"],
+    [6, "quantum Jump (44tk Remix)", "真里歌", "0"],
+    [7, "二人のアルバム (DJ 沖P Remix)", "夏希美羽", "0"],
+    [8, "Hello Lady (AZにゃんRemix)", "真里歌", "0"],
+    [9, "Next to you (DJ 沖P Remix)", "しほり", "0"],
+    [10, "光臨!大天使ラビエル☆ (DJ 沖P Remix)", "なかせひな", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831", "https://vgmdb.net/album/76903"]
 
@@ -6574,7 +6574,7 @@ catalognumber = "SPUS-23030"
 date = "2012-10-26"
 album = "OTA-MA! SOUNDTRACK!"
 tracks = [
-    [1, "はっぴぃなんだからいいじゃん (Full.ver)", "", ""],
+    [1, "はっぴぃなんだからいいじゃん (Full.ver)", "", "0"],
     [2, "OTAKU DAYS", "", ""],
     [3, "モエるホノオのまんがみち (きららのテーマ)", "", ""],
     [4, "ヒミツ、Say You (まみのテーマ)", "", ""],
@@ -6584,10 +6584,10 @@ tracks = [
     [8, "とある悲しみへの追憶", "", ""],
     [9, "ザ・ビューティフル☆ドリーマー", "", ""],
     [10, "かえりたい場所", "", ""],
-    [11, "終わりは終わりじゃない (ver:music box)", "", ""],
-    [12, "終わりは終わりじゃない (Full.ver)", "", ""],
-    [13, "はっぴいなんだからいいじゃん (カラオケ)", "", ""],
-    [14, "終わりは終わりじゃない (カラオケ)", "", ""],
+    [11, "終わりは終わりじゃない (ver:music box)", "", "0"],
+    [12, "終わりは終わりじゃない (Full.ver)", "", "0"],
+    [13, "はっぴいなんだからいいじゃん (カラオケ)", "", "0"],
+    [14, "終わりは終わりじゃない (カラオケ)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/33905"]
 
@@ -6616,7 +6616,7 @@ catalognumber = "SHOT-010"
 date = "2012-11-30"
 album = "SUPER SHOT5 Special Edition -Bishoujo Game Remix Collection- Arrangement, Vocal, Remix"
 tracks = [
-    [1, "Scarlet (DJ Shimamura Remix)", "榊原ゆい", ""],
+    [1, "Scarlet (DJ Shimamura Remix)", "榊原ゆい", "0"],
     [2, "運命の誓い (Hommarju Remix)", "美郷あき", ""],
     [3, "ストレイトシープ (Kirin Hardcore Remix)", "Ceui", ""],
     [4, "幸せな記憶 (Memory loss mix)", "上原れな", ""],
@@ -6639,17 +6639,17 @@ album = "SUPER SHOT5 Special Edition -Bishoujo Game Remix Collection- Disc 2 [SH
 tracks = [
     [1, "Lunatic Tears... (DJ Shimamura Remix)", "彩音", ""],
     [2, "届かない恋 (kors k Hardcore Mix)", "上原れな", ""],
-    [3, "Change&Chance! (JAKAZiD's Noble☆Rework)", "榊原ゆい", ""],
+    [3, "Change&Chance! (JAKAZiD's Noble☆Rework)", "榊原ゆい", "0"],
     [4, "恋の試練 (dupli-mix)", "津田朱里", ""],
     [5, "Answer (Emotional MEGA Beat mix)", "片霧烈火", ""],
     [6, "Hold a dream (kors k Remix)", "上原れな", ""],
-    [7, "夏のファンタジア (kors k Garage Mix)", "佐藤ひろ美", ""],
+    [7, "夏のファンタジア (kors k Garage Mix)", "佐藤ひろ美", "0"],
     [8, "Asphodelus (Liquid Bass Mix)", "Ceui", ""],
     [9, "シンフォニック・ラブ (Melodies Overflowed mix)", "橋本みゆき", ""],
-    [10, "幻想の城 (Wallow mix)", "榊原ゆい", ""],
+    [10, "幻想の城 (Wallow mix)", "榊原ゆい", "0"],
     [11, "メチャ恋らんまん☆ (High-power Mega Sound Remix)", "榊原ゆい", ""],
     [12, "祝福のカンパネラ (StripE Trance Remix)", "佐藤ひろ美・NANA", ""],
-    [13, "Kaleidoscope (Magical club Remix)", "霜月はるか", ""],
+    [13, "Kaleidoscope (Magical club Remix)", "霜月はるか", "0"],
     [14, "二人色 (Jump out mix)", "Duca", ""],
     [15, "STAR LEGEND (DJ SHIMAMURA's D'N'B Remix)", "榊原ゆい", ""],
     [16, "あ・る・ぴ・じ♪ (JAKAZiD's エッチ・A・R・D・C・O・R・E Remix)", "nazuna", ""],
@@ -6707,7 +6707,7 @@ catalognumber = "APP-001-NDS"
 date = "2011-06-24"
 album = "Nadeshiko Drip SOUND TRACK"
 tracks = [
-    [1, "Sweet Love", "tohko", ""],
+    [1, "Sweet Love", "tohko", "0"],
     [2, "とびきり撫子", "Angel Note", ""],
     [3, "高嶺の花は意外と近くに", "Angel Note", ""],
     [4, "咲きかけのつぼみ", "Angel Note", ""],
@@ -6774,7 +6774,7 @@ tracks = [
     [7, "bumpy-Jumpy!", "KOTOKO", ""],
     [8, "Sign", "miru", ""],
     [9, "Explorer World", "NANA", ""],
-    [10, "Knowing", "真里歌", ""],
+    [10, "Knowing", "真里歌", "0"],
     [11, "Flower!!", "KOTOKO", ""],
     [12, "primal", "solfa feat.Ceui", ""],
     [13, "ポンコツロケンロー", "AiRI", ""],
@@ -6868,11 +6868,11 @@ catalognumber = "DLAD-1006"
 date = "2012-12-29"
 album = "Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~"
 tracks = [
-    [1, "観覧車 ～あの日と、昨日と今日と明日と～", "", ""],
+    [1, "観覧車 ～あの日と、昨日と今日と明日と～", "", "0"],
     [2, "夏へのとびら", "", ""],
-    [3, "観覧車 ～あの日と、昨日と今日と明日と～[short.ver]", "", ""],
+    [3, "観覧車 ～あの日と、昨日と今日と明日と～[short.ver]", "", "0"],
     [4, "夏へのとびら[short.ver]", "", ""],
-    [5, "観覧車 ～あの日と、昨日と今日と明日と～[off.vo]", "", ""],
+    [5, "観覧車 ～あの日と、昨日と今日と明日と～[off.vo]", "", "0"],
     [6, "夏へのとびら[off.vo]", "", ""],
 ]
 links = ["https://vgmdb.net/album/141932"]
@@ -6882,7 +6882,7 @@ catalognumber = "PAM-0034AS"
 date = "2005-05-27"
 album = "Pricchi Super Arranged Soundtrack"
 tracks = [
-    [1, "I'll try my best!!", "", ""],
+    [1, "I'll try my best!!", "", "0"],
     [2, "Refrain", "", ""],
     [3, "Aerial Rave - re-mix -", "", ""],
     [4, "Air Raid - re-mix -", "", ""],
@@ -6926,7 +6926,7 @@ date = "2005-04-21"
 album = "SHUFFLE! Mirage Lullaby Special Remix + α"
 tracks = [
     [1, "Mirage Lullaby", "", ""],
-    [2, "In the Sky", "", ""],
+    [2, "In the Sky", "", "0"],
     [3, "SCRAMBLE!", "", ""],
     [4, "Mirage Lullaby \"Dominator MIX(short)\"", "", ""],
     [5, "Surface mix", "", ""],
@@ -7074,7 +7074,7 @@ album = "BLOODY TUNE / Yui Sakakibara"
 tracks = [
     [1, "BLOODY TUNE", "榊原ゆい", ""],
     [2, "Gregorio （L×T mix）", "榊原ゆい", ""],
-    [3, "幻想の城", "榊原ゆい", ""],
+    [3, "幻想の城", "榊原ゆい", "0"],
     [4, "リフレイン", "榊原ゆい", ""],
     [5, "Miss. Brand-new day", "榊原ゆい", ""],
     [6, "FairChild", "榊原ゆい", ""],
@@ -7208,7 +7208,7 @@ album = "Hello Lady! Original Soundtrack Original Soundtrack, Vocal"
 tracks = [
     [1, "Soul Release", "真里歌", ""],
     [2, "Truth and Light", "真里歌", ""],
-    [3, "Hello Lady", "真里歌", ""],
+    [3, "Hello Lady", "真里歌", "0"],
     [4, "Soul Release short ver.", "真里歌", ""],
     [5, "Truth and Light short ver.", "真里歌", ""],
     [6, "「Soul Release」Instrumental Rock Ver.", "Meis Clauson", ""],
@@ -7250,7 +7250,7 @@ tracks = [
     [16, "最後の時まで", "井ノ原智", ""],
     [17, "時は過ぎて", "井ノ原智", ""],
     [18, "輝けるもの", "井ノ原智", ""],
-    [19, "Hello Lady short ver.", "真里歌", ""],
+    [19, "Hello Lady short ver.", "真里歌", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/54b4e320-c959-49fa-be64-c2d325296ae3", "https://vgmdb.net/album/45121"]
 
@@ -7282,7 +7282,7 @@ catalognumber = "STEG-04033"
 date = "2004-12-29"
 album = "Successor of Wind Original Sound Track"
 tracks = [
-    [1, "虹の向こう(OP ver.)", "", ""],
+    [1, "虹の向こう(OP ver.)", "", "0"],
     [2, "予感", "", ""],
     [3, "西風", "", ""],
     [4, "サキのテーマ", "", ""],
@@ -7323,7 +7323,7 @@ date = "2004-09-01"
 album = "It is under a sweetheart more than a friend. Promotion Book Special Supplement"
 tracks = [
     [1, "ミニドラマ 前編", "", ""],
-    [2, "友達以上恋人未満 芽依子&さくらバージョン", "", ""],
+    [2, "友達以上恋人未満 芽依子&さくらバージョン", "", "0"],
     [3, "ミニドラマ 後編", "", ""],
 ]
 links = ["https://vgmdb.net/album/143137"]
@@ -7378,13 +7378,13 @@ album = "HONEY / Yui Sakakibara"
 tracks = [
     [1, "HONEY", "榊原ゆい", ""],
     [2, "refrain", "榊原ゆい", ""],
-    [3, "Favorite Love", "榊原ゆい", ""],
+    [3, "Favorite Love", "榊原ゆい", "0"],
     [4, "Doki Dokiが止まらない", "榊原ゆい", ""],
     [5, "夜がくるたび", "榊原ゆい", ""],
     [6, "You make me!", "榊原ゆい", ""],
-    [7, "Wake me up!", "榊原ゆい", ""],
+    [7, "Wake me up!", "榊原ゆい", "0"],
     [8, "彼方…", "榊原ゆい", ""],
-    [9, "Beautiful Harmony", "榊原ゆい", ""],
+    [9, "Beautiful Harmony", "榊原ゆい", "0"],
     [10, "恋するとけい", "榊原ゆい", ""],
     [11, "Shining Orange", "榊原ゆい", ""],
     [12, "Happy Birthday!", "榊原ゆい", ""],
@@ -7399,22 +7399,22 @@ catalognumber = "SRL-1005"
 date = "2010-05-28"
 album = "Providence -Angel Note Best Collection Volume 7-"
 tracks = [
-    [1, "Get the Future", "", ""],
-    [2, "幻想の城", "", ""],
-    [3, "Run", "", ""],
-    [4, "precious", "", ""],
-    [5, "キラリ", "", ""],
-    [6, "そらをとぶふねのうた", "", ""],
-    [7, "AGAIN", "", ""],
-    [8, "Cherry My Heart", "", ""],
-    [9, "虹色の季節", "", ""],
-    [10, "Family Bond", "", "0"],
-    [11, "りんかねーしょん☆新撰組っ！", "", ""],
-    [12, "やさしさは水の調べ", "", ""],
-    [13, "こころのプリズム", "", ""],
-    [14, "Sparkle days", "", ""],
-    [15, "next to…", "", ""],
-    [16, "MUGEN∞MIRAI", "", ""],
+    [1, "Get the Future", "Riryka & なかせひな", "0"],
+    [2, "幻想の城", "", "0"],
+    [3, "Run", "", "0"],
+    [4, "precious", "Angel Note", "0"],
+    [5, "キラリ", "", "0"],
+    [6, "そらをとぶふねのうた", "", "0"],
+    [7, "AGAIN", "", "0"],
+    [8, "Cherry My Heart", "Angel Note", "1"],
+    [9, "虹色の季節", "", "0"],
+    [10, "Family Bond", "成瀬未亜＆みる", "1"],
+    [11, "りんかねーしょん☆新撰組っ！", "", "0"],
+    [12, "やさしさは水の調べ", "", "1"],
+    [13, "こころのプリズム", "結奈", "0"],
+    [14, "Sparkle days", "Riryka", "0"],
+    [15, "next to…", "", "0"],
+    [16, "MUGEN∞MIRAI", "", "0"],
 ]
 links = ["https://vgmdb.net/album/18885"]
 
@@ -7423,8 +7423,8 @@ catalognumber = "DAI-130321"
 date = "2013-03-29"
 album = "The planeta in the future world Original Soundtrack"
 tracks = [
-    [1, "疾るセカイと僕らのミライ", "Riryka", ""],
-    [2, "疾るセカイと僕らのミライ (inst)", "Meis Clauson", ""],
+    [1, "疾るセカイと僕らのミライ", "Riryka", "0"],
+    [2, "疾るセカイと僕らのミライ (inst)", "Meis Clauson", "0"],
     [3, "スローステップ", "森まもる", ""],
     [4, "スプライツ！", "森まもる", ""],
     [5, "焦燥と行動の狭間で", "森まもる", ""],
@@ -7633,7 +7633,7 @@ catalognumber = "KICA-1493"
 date = "2010-10-27"
 album = "Akatsuki no Goei ~Tsumibukaki Shumatsuron~ ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "幻想の城", "榊原ゆい", ""],
+    [1, "幻想の城", "榊原ゆい", "0"],
     [2, "own justice", "神月社", ""],
     [3, "Into the Gunsight", "Barbarian On The Groove", ""],
     [4, "Eye For An Eye", "Barbarian On The Groove", ""],
@@ -7665,7 +7665,7 @@ catalognumber = ""
 date = "2014-04-29"
 album = "Koishiki Manual Original Soundtrack"
 tracks = [
-    [1, "恋の補習を始めま♥Show", "", ""],
+    [1, "恋の補習を始めま♥Show", "", "0"],
     [2, "いつもの日々", "", ""],
     [3, "デート", "", ""],
     [4, "これからどうするか", "", ""],
@@ -7674,21 +7674,21 @@ tracks = [
     [7, "エレナ登場", "", ""],
     [8, "ドジってトラブル", "", ""],
     [9, "達成！", "", ""],
-    [10, "恋の補習を始めま♥Show - Arrange Version", "", ""],
+    [10, "恋の補習を始めま♥Show - Arrange Version", "", "0"],
     [11, "初めてのブリーフィング", "", ""],
     [12, "時にはポロっと", "", ""],
     [13, "素直に", "", ""],
     [14, "不慣れな事", "", ""],
     [15, "するならみんなで", "", ""],
     [16, "決めた", "", ""],
-    [17, "恋の補習を始めま♥Show - Title Version", "", ""],
-    [18, "True Heart", "", ""],
-    [19, "恋の補習を始めま♥Show - Minus One Version", "", ""],
-    [20, "恋の補習を始めま♥Show - Instrumental Version", "", ""],
-    [21, "True Heart - Minus One Version", "", ""],
-    [22, "True Heart - Instrumental Version", "", ""],
-    [23, "恋の補習を始めま♥Show - Arr. Minus One Version", "", ""],
-    [24, "恋の補習を始めま♥Show - Arr. Instrumental Version", "", ""],
+    [17, "恋の補習を始めま♥Show - Title Version", "", "0"],
+    [18, "True Heart", "", "0"],
+    [19, "恋の補習を始めま♥Show - Minus One Version", "", "0"],
+    [20, "恋の補習を始めま♥Show - Instrumental Version", "", "0"],
+    [21, "True Heart - Minus One Version", "", "0"],
+    [22, "True Heart - Instrumental Version", "", "0"],
+    [23, "恋の補習を始めま♥Show - Arr. Minus One Version", "", "0"],
+    [24, "恋の補習を始めま♥Show - Arr. Instrumental Version", "", "0"],
 ]
 links = ["https://vgmdb.net/album/47211"]
 
@@ -7697,18 +7697,18 @@ catalognumber = "LHCA-5008"
 date = "2005-04-27"
 album = "Angelic Gift -Angel Note BEST COLLECTION-"
 tracks = [
-    [1, "友達以上恋人未満", "中山♡マミ", ""],
-    [2, "恋するハート", "中山♡マミ", ""],
-    [3, "虹の向こう", "みるくくるみ", ""],
-    [4, "過去と夢", "Sizuku", ""],
-    [5, "INNOCENT", "みるくくるみ", ""],
-    [6, "頑張っちゃいます、はい。", "中山♡マミ", ""],
-    [7, "鼓動", "Sizuku", ""],
-    [8, "from the distant night sky", "中山♡マミ", ""],
-    [9, "ふたつの心理", "中山♡マミ", ""],
-    [10, "You change the color of my heart", "中山♡マミ", ""],
-    [11, "オモイノチカラ", "みるくくるみ", ""],
-    [12, "Sleep in my love", "kala", ""],
+    [1, "友達以上恋人未満", "中山♡マミ", "0"],
+    [2, "恋するハート", "中山♡マミ", "0"],
+    [3, "虹の向こう", "みるくくるみ", "0"],
+    [4, "過去と夢", "Sizuku", "0"],
+    [5, "INNOCENT", "みるくくるみ", "0"],
+    [6, "頑張っちゃいます、はい。", "中山♡マミ", "0"],
+    [7, "鼓動", "Sizuku", "0"],
+    [8, "from the distant night sky", "中山♡マミ", "0"],
+    [9, "ふたつの心理", "中山♡マミ", "0"],
+    [10, "You change the color of my heart", "中山♡マミ", "0"],
+    [11, "オモイノチカラ", "みるくくるみ", "0"],
+    [12, "Sleep in my love", "kala", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/e997d8bd-8d7f-4d98-9a9d-a5193ddc2fb8", "https://vgmdb.net/album/8965"]
 
@@ -7717,13 +7717,13 @@ catalognumber = "WITCH-412"
 date = "2005-01-28"
 album = "-Traveler- Katayoku no Tenshi/Mofu×Mokyu"
 tracks = [
-    [1, "見えない翼 ～Full Chorus Version", "", ""],
-    [2, "頑張っちゃいます、はい。 ～Full Chorus Version", "", ""],
-    [3, "見えない翼 ～Game Version", "", ""],
-    [4, "頑張っちゃいます、はい。 ～Game Version", "", ""],
-    [5, "見えない翼 ～Karaoke Version", "", ""],
-    [6, "頑張っちゃいます、はい。 ～Karaoke Version", "", ""],
-    [7, "見えない翼 ～アルバムバージョン", "", ""],
+    [1, "見えない翼 ～Full Chorus Version", "", "0"],
+    [2, "頑張っちゃいます、はい。 ～Full Chorus Version", "", "0"],
+    [3, "見えない翼 ～Game Version", "", "0"],
+    [4, "頑張っちゃいます、はい。 ～Game Version", "", "0"],
+    [5, "見えない翼 ～Karaoke Version", "", "0"],
+    [6, "頑張っちゃいます、はい。 ～Karaoke Version", "", "0"],
+    [7, "見えない翼 ～アルバムバージョン", "", "0"],
 ]
 links = ["https://vgmdb.net/album/140753"]
 
@@ -7788,7 +7788,7 @@ catalognumber = "MESSE-284"
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Original Drama"
 tracks = [
-    [1, "一生恋してる！ (Full Ver.)", "", ""],
+    [1, "一生恋してる！ (Full Ver.)", "", "0"],
     [2, "手作り巨大クッキー", "", ""],
     [3, "美月の手作り弁当", "", ""],
     [4, "幼馴染達の王様ゲーム！", "", ""],
@@ -7801,14 +7801,14 @@ catalognumber = "CC-313"
 date = "2004-10-29"
 album = "Yin-Yang! X Change Alternative Opening Song & Ending Song"
 tracks = [
-    [1, "challenge myself for the goal [Short]", "", ""],
-    [2, "challenge myself for the goal [Long]", "", ""],
-    [3, "challenge myself for the goal [Inst Short]", "", ""],
-    [4, "challenge myself for the goal [Inst Long]", "", ""],
-    [5, "from the distant night sky [Short]", "", ""],
-    [6, "from the distant night sky [Long]", "", ""],
-    [7, "from the distant night sky [Inst Short]", "", ""],
-    [8, "from the distant night sky [Inst Long]", "", ""],
+    [1, "challenge myself for the goal [Short]", "", "0"],
+    [2, "challenge myself for the goal [Long]", "", "0"],
+    [3, "challenge myself for the goal [Inst Short]", "", "0"],
+    [4, "challenge myself for the goal [Inst Long]", "", "0"],
+    [5, "from the distant night sky [Short]", "", "0"],
+    [6, "from the distant night sky [Long]", "", "0"],
+    [7, "from the distant night sky [Inst Short]", "", "0"],
+    [8, "from the distant night sky [Inst Long]", "", "0"],
 ]
 links = ["https://vgmdb.net/album/45391"]
 
@@ -7817,17 +7817,17 @@ catalognumber = "AKCI-26009"
 date = "2004-03-31"
 album = "~Angel Note~ Love Story"
 tracks = [
-    [1, "Love Story (Angel Note)", "", ""],
-    [2, "見えない翼 ~アルバムヴァージョン~ (Witch『片翼の天使』より)", "", ""],
-    [3, "心あるかぎり (Waffle『決意と決別と~調教されし者~』より)", "", ""],
-    [4, "Love Doll (エスクード『ラブリー・ラブドール』より)", "", ""],
-    [5, "Innocent ~remixバージョン~ (エスクード『ジュエルスオーシャン』より)", "", ""],
-    [6, "Challenge Myself For The Goal (Crowd『yin‐yang!xchange Alternative』より)", "", ""],
-    [7, "Season (Cdpa『季節の花嫁』より)", "", ""],
-    [8, "世界の果て (トロピカルソフト『revenir』より)", "", ""],
-    [9, "J·I·K·O·G·I·S·E·I (フロンティアワークス『らいむいろ戦奇譚ドラマcd Sp1 天国に一番近い教師』より)", "", ""],
-    [10, "K·I·S·E·K·I (フロンティアワークス『らいむいろ戦奇譚ドラマcd Sp2 斬れ! 世直し礼武隊』より)", "", ""],
-    [11, "Love Story ~ピアノバージョン~ (Angel Note)", "", ""],
+    [1, "Love Story (Angel Note)", "", "0"],
+    [2, "見えない翼 ~アルバムヴァージョン~ (Witch『片翼の天使』より)", "", "0"],
+    [3, "心あるかぎり (Waffle『決意と決別と~調教されし者~』より)", "", "0"],
+    [4, "Love Doll (エスクード『ラブリー・ラブドール』より)", "", "0"],
+    [5, "Innocent ~remixバージョン~ (エスクード『ジュエルスオーシャン』より)", "", "0"],
+    [6, "Challenge Myself For The Goal (Crowd『yin‐yang!xchange Alternative』より)", "", "0"],
+    [7, "Season (Cdpa『季節の花嫁』より)", "", "0"],
+    [8, "世界の果て (トロピカルソフト『revenir』より)", "", "0"],
+    [9, "J·I·K·O·G·I·S·E·I (フロンティアワークス『らいむいろ戦奇譚ドラマcd Sp1 天国に一番近い教師』より)", "", "0"],
+    [10, "K·I·S·E·K·I (フロンティアワークス『らいむいろ戦奇譚ドラマcd Sp2 斬れ! 世直し礼武隊』より)", "", "0"],
+    [11, "Love Story ~ピアノバージョン~ (Angel Note)", "", "0"],
 ]
 links = ["https://vgmdb.net/album/2545"]
 
@@ -7853,14 +7853,14 @@ tracks = [
     [4, "百花繚乱ファンタズム (吉備津宮灯Ver.)", "", ""],
     [5, "僕のとなりで恋をして! (小松莉奈Ver.)", "", ""],
     [6, "君はAngel (高橋未亜Ver.)", "", ""],
-    [7, "Aliare (悠木夏海Ver.)", "", ""],
+    [7, "Aliare (悠木夏海Ver.)", "", "0"],
     [8, "Clover Heart's -New Decade Edition- (杏鈴&杏璃Ver.)", "", ""],
     [9, "Clover Day's (杏鈴&杏璃Ver.)", "", ""],
     [10, "茜色の空へ (巴Ver.)", "", ""],
     [11, "FairChild -Version YUI11507- (有栖川悠姫Ver.)", "", ""],
     [12, "Rebirth ∞ Impact (天元ルイVer.)", "", ""],
     [13, "ねぇ ありがとう (徳田義宗Ver.)", "", ""],
-    [14, "新しい調べ (一桜Ver.)", "", ""],
+    [14, "新しい調べ (一桜Ver.)", "", "0"],
     [15, "アンコール (イリーナ・ウラジミーロヴナ・プチナVer.)", "", ""],
     [16, "Clover Heart's -New Decade Edition- (合唱バージョン)", "", ""],
 ]
@@ -7882,7 +7882,7 @@ tracks = [
     [9, "Miss you", "Marica", ""],
     [10, "天使のハートブレイク", "安倍ようこ", ""],
     [11, "ロック♡オン♡ユー", "みるくくるみ", ""],
-    [12, "鼓動", "Sizuku", ""],
+    [12, "鼓動", "Sizuku", "0"],
     [13, "蝶ノ夢", "真理絵", ""],
     [14, "MIDNIGHT MEMORY", "御影由宇", ""],
     [15, "魂響", "片霧烈火", ""],
@@ -7946,1077 +7946,6 @@ tracks = [
 links = ["https://vgmdb.net/album/20566"]
 
 [347]
-catalognumber = ""
-date = ""
-album = "Senren*Banka Original Soundtrack Disc 1"
-tracks = [
-    [1, "Koi Kou Enishi (Title Version)", "KOTOKO", ""],
-    [2, "Timeless Town", "Angel Note", ""],
-    [3, "Tradition and Custom", "Angel Note", ""],
-    [4, "What?", "Angel Note", ""],
-    [5, "How and Why?", "Angel Note", ""],
-    [6, "Unbelievable", "Angel Note", ""],
-    [7, "Tears of Folly", "Angel Note", ""],
-    [8, "Subdued Morning", "Angel Note", ""],
-    [9, "Count On Me", "Angel Note", ""],
-    [10, "Lurking in the Dark", "Angel Note", ""],
-    [11, "Cursed Spirit", "Angel Note", ""],
-    [12, "Blind", "Angel Note", ""],
-    [13, "The Beauty of Nature", "Angel Note", ""],
-    [14, "Cursed Inheritance", "Angel Note", ""],
-    [15, "Clear and Serene", "Angel Note", ""],
-    [16, "Destiny", "Angel Note", ""],
-    [17, "A Brief Respite", "Angel Note", ""],
-    [18, "Relaxation", "Angel Note", ""],
-    [19, "Mic Test 1 2 3", "Angel Note", ""],
-    [20, "Harmony", "Angel Note", ""],
-    [21, "Training", "Angel Note", ""],
-    [22, "It's a HORI style!", "Angel Note", ""],
-    [23, "Tashinya", "Angel Note", ""],
-    [24, "Radiant Moment", "Angel Note", ""],
-    [25, "Lucky Day", "Angel Note", ""],
-    [26, "Tension in the Air", "Angel Note", ""],
-    [27, "Unending Battle", "Angel Note", ""],
-    [28, "Curse", "Angel Note", ""],
-    [29, "Hazy", "Angel Note", ""],
-    [30, "Blessings of the Gods", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
-
-[348]
-catalognumber = ""
-date = ""
-album = "Senren*Banka Original Soundtrack Disc 2"
-tracks = [
-    [1, "Koi Kou Enishi (Game Size)", "KOTOKO", ""],
-    [2, "Tooryanse~Sweet Spontaneity <Instrument Version>", "Angel Note", ""],
-    [3, "Mako's Everyday Life <Instrument Version>", "Angel Note", ""],
-    [4, "A Single Bond <Instrument Version>", "Angel Note", ""],
-    [5, "Blue Sky <Instrument Version>", "Angel Note", ""],
-    [6, "My Cute Cousin", "Angel Note", ""],
-    [7, "Do You Like Your Hardworking Onee-san?", "Angel Note", ""],
-    [8, "Tooryanse~Sweet Spontaneity <Quiet Version>", "Angel Note", ""],
-    [9, "Mako's Everyday Life <Quiet Version>", "Angel Note", ""],
-    [10, "A Single Bond <Quiet Version>", "Angel Note", ""],
-    [11, "Blue Sky <Quiet Version>", "Angel Note", ""],
-    [12, "Do You Like Your Hardworking Onee-san? <Quiet Version>", "Angel Note", ""],
-    [13, "Determination", "Angel Note", ""],
-    [14, "Koi Kou Enishi <Koto Version>", "Angel Note", ""],
-    [15, "Heartfelt Dawn", "Angel Note", ""],
-    [16, "Marriage", "Angel Note", ""],
-    [17, "Both Body and Soul", "Angel Note", ""],
-    [18, "Koi Kou Enishi <Piano Version>", "Angel Note", ""],
-    [19, "With Love and Gratitude (Game Size)", "榊原ゆい", ""],
-    [20, "Together (Game Size)", "Riryka", ""],
-    [21, "Two Silhouettes (Game SIze)", "春風まゆき", ""],
-    [22, "GIFT (Game Size)", "カサンドラ", ""],
-    [23, "Love Flower (Game Size)", "葉月", ""],
-    [24, "By Your Side (Game Size)", "tohko", ""],
-    [25, "Do You Like Your Hardworking Onee-san? <Shamisen Solo>", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
-
-[349]
-catalognumber = ""
-date = ""
-album = "Senren*Banka Original Soundtrack Disc 3"
-tracks = [
-    [1, "Koi Kou Enishi", "KOTOKO", ""],
-    [2, "With Love and Gratitude", "榊原ゆい", ""],
-    [3, "Together", "Riryka", ""],
-    [4, "Two Silhouettes", "春風まゆき", ""],
-    [5, "GIFT", "カサンドラ", ""],
-    [6, "Love Flower", "葉月", ""],
-    [7, "By Your Side", "tohko", ""],
-    [8, "Koi Kou Enishi (Karaoke Version)", "KOTOKO", ""],
-    [9, "With Love and Gratitude (Karaoke Version)", "榊原ゆい", ""],
-    [10, "Together (Karaoke Version)", "Riryka", ""],
-    [11, "Two Silhouettes (Karaoke Version)", "春風まゆき", ""],
-    [12, "GIFT (Karaoke Version)", "カサンドラ", ""],
-    [13, "Love Flower (Karaoke Version)", "葉月", ""],
-    [14, "By Your Side (Karaoke Version)", "tohko", ""],
-]
-links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
-
-[350]
-catalognumber = "SRL-1007"
-date = "2013-03-29"
-album = "Venus Voice/Angel Note Best Collection Volume 9"
-tracks = [
-    [1, "Knowing", "真里歌", ""],
-    [2, "未来への一歩 (AngelNote featuring 民安★ROCK)", "民安★ROCK", ""],
-    [3, "光臨！大天使ラビエル☆", "ラビエル (CV:中瀬ひな)", ""],
-    [4, "はっぴぃなんだからいいじゃん", "西野みく", ""],
-    [5, "Sweet Love", "tohko", ""],
-    [6, "紅舞", "佐藤ひろ美", ""],
-    [7, "故郷", "Kicco", ""],
-    [8, "Scarlet", "榊原ゆい", ""],
-    [9, "MASAKASA PARADISE", "神代あみ with TRIAL", ""],
-    [10, "約束", "Rita", ""],
-    [11, "Le Conseil", "tohko", ""],
-    [12, "YOu & ME = Happy!", "榊原ゆい", ""],
-    [13, "描いてた夢", "柚木ちな", ""],
-    [14, "新しい調べ", "中山♥マミ", ""],
-    [15, "夕焼けのマージナル", "Riryka", ""],
-    [16, "Guiding Star", "夏希美羽", ""],
-]
-links = ["https://beta.musicbrainz.org/release/a53c9eb0-69fc-4843-a859-32c48d5258a2"]
-
-[351]
-catalognumber = "LACA-5462"
-date = "2006-01-12"
-album = "Gift~ギフト~にじいろストーリーズ 七色のリボン"
-tracks = [
-    [1, "七色のリボン", "藤弥美里", ""],
-    [2, "EVERSEASON", "藤弥美里", ""],
-    [3, "莉子のテーマ", "Angel Note", ""],
-    [4, "霧乃のテーマ", "Angel Note", ""],
-    [5, "綸花のテーマ", "Angel Note", ""],
-    [6, "千紗のテーマ", "Angel Note", ""],
-    [7, "縁のテーマ", "Angel Note", ""],
-    [8, "Brand new day", "Angel Note", ""],
-    [9, "Youthful days", "Angel Note", ""],
-    [10, "Let's go together！", "Angel Note", ""],
-    [11, "たそがれ", "Angel Note", ""],
-    [12, "夜のダイアリー", "Angel Note", ""],
-    [13, "不発弾", "Angel Note", ""],
-    [14, "バイオリンソナタ", "Angel Note", ""],
-    [15, "静けさの中で", "Angel Note", ""],
-    [16, "叶わない思い", "Angel Note", ""],
-    [17, "孤独", "Angel Note", ""],
-    [18, "蒼いさざ波", "Angel Note", ""],
-    [19, "Night raid", "Angel Note", ""],
-    [20, "重ねた時", "Angel Note", ""],
-    [21, "光の中で", "Angel Note", ""],
-    [22, "フラッシュ・バック", "Angel Note", ""],
-    [23, "Days with love", "Angel Note", ""],
-    [24, "幸せのオルゴール", "Angel Note", ""],
-    [25, "たとえば、突然。 (inst ver.)", "小高光太郎", ""],
-]
-links = ["https://beta.musicbrainz.org/release/2a325b7f-3386-46fd-a742-46256527df2f"]
-
-[352]
-catalognumber = "LHCA-5008"
-date = "2005-04-27"
-album = "Angelic Gift -Angel Note BEST COLLECTION-"
-tracks = [
-    [1, "友達以上恋人未満", "中山♡マミ", ""],
-    [2, "恋するハート", "中山♡マミ", ""],
-    [3, "虹の向こう", "みるくくるみ", ""],
-    [4, "過去と夢", "Sizuku", ""],
-    [5, "INNOCENT", "みるくくるみ", ""],
-    [6, "頑張っちゃいます、はい。", "中山♡マミ", ""],
-    [7, "鼓動", "Sizuku", ""],
-    [8, "from the distant night sky", "中山♡マミ", ""],
-    [9, "ふたつの心理", "中山♡マミ", ""],
-    [10, "You change the color of my heart", "中山♡マミ", ""],
-    [11, "オモイノチカラ", "みるくくるみ", ""],
-    [12, "Sleep in my love", "kala", ""],
-]
-links = ["https://beta.musicbrainz.org/release/e997d8bd-8d7f-4d98-9a9d-a5193ddc2fb8"]
-
-[353]
-catalognumber = "AACD-1010"
-date = "2014-06-27"
-album = "スクランブルラバーズ VOCAL SONG collection"
-tracks = [
-    [1, "My First Love", "Duca", ""],
-    [2, "Dear My Lover", "Rita", ""],
-    [3, "Girly Side", "KANAMI", ""],
-    [4, "夏の風、あの日君に恋をした", "kaoru", ""],
-    [5, "Primula.", "m@o", ""],
-    [6, "My First Love (off vocal)", "Angel Note", ""],
-    [7, "Dear My Lover (off vocal)", "Angel Note", ""],
-    [8, "Girly Side (off vocal)", "Angel Note", ""],
-    [9, "夏の風、あの日君に恋をした (off vocal)", "Angel Note", ""],
-    [10, "Primula. (off vocal)", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/7fa159ab-461e-4ae1-a9a8-606196e7c1e5"]
-
-[354]
-catalognumber = "YSCD-0045"
-date = "2017-02-10"
-album = "千恋＊万花 オリジナルサウンドトラック Disc 1"
-tracks = [
-    [1, "恋ひ恋ふ縁 (Title Version)", "KOTOKO", ""],
-    [2, "今昔の街", "Angel Note", ""],
-    [3, "伝統と格式", "Angel Note", ""],
-    [4, "はて？", "Angel Note", ""],
-    [5, "なぜに何故？", "Angel Note", ""],
-    [6, "ビックリ仰天", "Angel Note", ""],
-    [7, "ずっこけ涙節", "Angel Note", ""],
-    [8, "慎ましき朝", "Angel Note", ""],
-    [9, "おまかせあれ", "Angel Note", ""],
-    [10, "闇に潜む影", "Angel Note", ""],
-    [11, "祟り神", "Angel Note", ""],
-    [12, "何も見えない", "Angel Note", ""],
-    [13, "花鳥風月", "Angel Note", ""],
-    [14, "忌わしき継承", "Angel Note", ""],
-    [15, "明鏡止水", "Angel Note", ""],
-    [16, "運命", "Angel Note", ""],
-    [17, "ひとときの安息", "Angel Note", ""],
-    [18, "くつろぎの間", "Angel Note", ""],
-    [19, "本日は晴天なり", "Angel Note", ""],
-    [20, "和気藹々", "Angel Note", ""],
-    [21, "鍛錬", "Angel Note", ""],
-    [22, "It's a HORI style!", "Angel Note", ""],
-    [23, "田心屋", "Angel Note", ""],
-    [24, "輝きの瞬間", "Angel Note", ""],
-    [25, "良日", "Angel Note", ""],
-    [26, "張り詰めた時", "Angel Note", ""],
-    [27, "終わりなき戦い", "Angel Note", ""],
-    [28, "呪詛", "Angel Note", ""],
-    [29, "朧", "Angel Note", ""],
-    [30, "神様の祝福", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06"]
-
-[355]
-catalognumber = "YSCD-0046"
-date = "2017-02-10"
-album = "千恋＊万花 オリジナルサウンドトラック Disc 2"
-tracks = [
-    [1, "恋ひ恋ふ縁 (Game Size)", "KOTOKO", ""],
-    [2, "とおりゃんせ～甘美風来 <Instrument Version>", "Angel Note", ""],
-    [3, "茉子の日常 <Instrument Version>", "Angel Note", ""],
-    [4, "キズナヒトツ <Instrument Version>", "Angel Note", ""],
-    [5, "Bluesky <Instrument Version>", "Angel Note", ""],
-    [6, "気になる従妹", "Angel Note", ""],
-    [7, "頑張るお姉さんは好きですか？", "Angel Note", ""],
-    [8, "とおりゃんせ～甘美風来 <Quiet Version>", "Angel Note", ""],
-    [9, "茉子の日常 <Quiet Version>", "Angel Note", ""],
-    [10, "キズナヒトツ <Quiet Version>", "Angel Note", ""],
-    [11, "Bluesky <Quiet Version>", "Angel Note", ""],
-    [12, "頑張るお姉さんは好きですか？ <Quiet Version>", "Angel Note", ""],
-    [13, "決意", "Angel Note", ""],
-    [14, "恋ひ恋う縁 <Koto Version>", "Angel Note", ""],
-    [15, "心の夜明け", "Angel Note", ""],
-    [16, "縁結び", "Angel Note", ""],
-    [17, "身も心も…", "Angel Note", ""],
-    [18, "恋ひ恋ふ縁 <Piano Version>", "Angel Note", ""],
-    [19, "愛しさと感謝の気持ち (Game Size)", "榊原ゆい", ""],
-    [20, "ふたりで (Game Size)", "Riryka", ""],
-    [21, "ふたつの影 (Game Size)", "春風まゆき", ""],
-    [22, "GIFT (Game Size)", "カサンドラ", ""],
-    [23, "Love flower (Game Size)", "葉月", ""],
-    [24, "キミのとなり (Game Size)", "tohko", ""],
-    [25, "頑張るお姉さんは好きですか？ <Shamisen Solo>", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06"]
-
-[356]
-catalognumber = "YSCD-0047"
-date = "2017-02-10"
-album = "千恋＊万花 オリジナルサウンドトラック Disc 3"
-tracks = [
-    [1, "恋ひ恋ふ縁", "KOTOKO", ""],
-    [2, "愛しさと感謝の気持ち", "榊原ゆい", ""],
-    [3, "ふたりで", "Riryka", ""],
-    [4, "ふたつの影", "春風まゆき", ""],
-    [5, "GIFT", "カサンドラ", ""],
-    [6, "Love flower", "葉月", ""],
-    [7, "キミのとなり", "tohko", ""],
-    [8, "恋ひ恋ふ縁 (Karaoke Version)", "KOTOKO", ""],
-    [9, "愛しさと感謝の気持ち (Karaoke Version)", "榊原ゆい", ""],
-    [10, "ふたりで (Karaoke Version)", "Riryka", ""],
-    [11, "ふたつの影 (Karaoke Version)", "春風まゆき", ""],
-    [12, "GIFT (Karaoke Version)", "カサンドラ", ""],
-    [13, "Love flower (Karaoke Version)", "葉月", ""],
-    [14, "キミのとなり (Karaoke Version)", "tohko", ""],
-]
-links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06"]
-
-[357]
-catalognumber = "LPTN-0018"
-date = "2014-08-15"
-album = "フレラバ ミニファンディスク＋フルサウンドトラック DISC FRIEND"
-tracks = [
-    [1, "quantum jump", "真里歌", ""],
-    [2, "theme of HIMARI ver.FRIEND", "Angel Note", ""],
-    [3, "theme of RINA ver.FRIEND", "Angel Note", ""],
-    [4, "theme of YUZUYU ver.FRIEND", "Angel Note", ""],
-    [5, "theme of MISAKI ver.FRIEND", "Angel Note", ""],
-    [6, "今日も今日とて", "Angel Note", ""],
-    [7, "心地よい風と共に", "Angel Note", ""],
-    [8, "オレンジ色の空", "Angel Note", ""],
-    [9, "星空の瞬き", "Angel Note", ""],
-    [10, "騒々しい日々", "Angel Note", ""],
-    [11, "council of war", "Angel Note", ""],
-    [12, "battle!", "Angel Note", ""],
-    [13, "devote all one's energy", "Angel Note", ""],
-    [14, "どういうこと？", "Angel Note", ""],
-    [15, "FRIEND TO LOVER", "Angel Note", ""],
-    [16, "quantum jump ver.inst", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/53a48572-4cd3-4cbd-ba31-2ab82bae2eb3"]
-
-[358]
-catalognumber = "LPTN-0018"
-date = "2014-08-15"
-album = "フレラバ ミニファンディスク＋フルサウンドトラック DISC LOVER"
-tracks = [
-    [1, "恋、始めよう！", "Angel Note", ""],
-    [2, "theme of HIMARI ver.LOVER", "Angel Note", ""],
-    [3, "theme of RINA ver.LOVER", "Angel Note", ""],
-    [4, "theme of YUZUYU ver.LOVER", "Angel Note", ""],
-    [5, "theme of MISAKI ver.LOVER", "Angel Note", ""],
-    [6, "最後には長いキスを", "Angel Note", ""],
-    [7, "言葉より大切な事", "Angel Note", ""],
-    [8, "ウキウキ気分で", "Angel Note", ""],
-    [9, "LOVER TO...", "Angel Note", ""],
-    [10, "未来を描いて", "Angel Note", ""],
-    [11, "二人のアルバム", "夏希美羽", ""],
-    [12, "二人のアルバム ver.inst", "Angel Note", ""],
-    [13, "未使用曲01", "Angel Note", ""],
-    [14, "未使用曲02", "Angel Note", ""],
-    [15, "未使用曲03", "Angel Note", ""],
-    [16, "未使用曲04", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/53a48572-4cd3-4cbd-ba31-2ab82bae2eb3"]
-
-[359]
-catalognumber = "CLOCD-0002"
-date = "2013-05-10"
-album = "プリズム◇リコレクション! SOUND◇TRACK Disc 1"
-tracks = [
-    [1, "翼は南へ", "森まもる", ""],
-    [2, "二人のあしおと", "森まもる", ""],
-    [3, "となりを見あげて", "森まもる", ""],
-    [4, "発見いっぱい探検隊！", "森まもる", ""],
-    [5, "レンズの向こうに広がる世界", "森まもる", ""],
-    [6, "仲間の笑顔", "森まもる", ""],
-    [7, "我らの出番！", "森まもる", ""],
-    [8, "あの星を目指して！", "森まもる", ""],
-    [9, "伝えたいのは……", "森まもる", ""],
-    [10, "暮れなずむ街角", "森まもる", ""],
-    [11, "☆☆☆ストライド", "森まもる", ""],
-    [12, "さぁ、街へ繰りだそう！", "森まもる", ""],
-    [13, "恋のシナプス", "森まもる", ""],
-    [14, "フフヒ……", "森まもる", ""],
-    [15, "こういうヒトタチ", "森まもる", ""],
-    [16, "君はおっぱい？", "森まもる", ""],
-    [17, "今日も☆☆☆日和", "森まもる", ""],
-    [18, "触れ得ざる景色", "森まもる", ""],
-]
-links = ["https://beta.musicbrainz.org/release/59e7b2ac-77a6-49d8-a7e4-e6cdf6583392"]
-
-[360]
-catalognumber = "CLOCD-0002"
-date = "2013-05-10"
-album = "プリズム◇リコレクション! SOUND◇TRACK Disc 2"
-tracks = [
-    [1, "心つたう雫", "森まもる", ""],
-    [2, "一人一人のプリズム", "森まもる", ""],
-    [3, "目が合うと、いつも", "森まもる", ""],
-    [4, "あなただけに……", "森まもる", ""],
-    [5, "やわらかな胸にいだかれ", "森まもる", ""],
-    [6, "DOUBLE ARTIFICE", "森まもる", ""],
-    [7, "聳え立つもの", "森まもる", ""],
-    [8, "SIGNS OF ROAR", "森まもる", ""],
-    [9, "守りたいもの", "森まもる", ""],
-    [10, "繋いだ手と手に生まれる光", "森まもる", ""],
-    [11, "今、君に捧げる", "森まもる", ""],
-    [12, "この街に生まれた奇跡", "森まもる", ""],
-    [13, "プリズミック", "AiRI", ""],
-    [14, "光の標", "AiRI", ""],
-    [15, "カレイドスコープ", "相良心", ""],
-    [16, "プリズミック (Inst.)", "宮崎京一", ""],
-    [17, "光の標 (Inst.)", "宮崎京一", ""],
-    [18, "カレイドスコープ (Inst.)", "AYUMU、宮崎京一", ""],
-]
-links = ["https://beta.musicbrainz.org/release/59e7b2ac-77a6-49d8-a7e4-e6cdf6583392"]
-
-[361]
-catalognumber = "LHCA-5051"
-date = "2006-08-23"
-album = "Utopia - Angel Note BEST COLLECTION II -"
-tracks = [
-    [1, "桃源郷", "Riryka", ""],
-    [2, "chu-chu-chu", "中山♡マミ", ""],
-    [3, "Utopia", "kala", ""],
-    [4, "I'll try my best", "中山♡マミ", ""],
-    [5, "紺色と黒のファンタジー", "中山♡マミ", ""],
-    [6, "絆は銀の糸", "榊原ゆい", ""],
-    [7, "REAL", "Riryka", ""],
-    [8, "トビラ ～明日への地図～", "Shizuku", ""],
-    [9, "空にキス", "Riryka", ""],
-    [10, "迷宮 ～Endress Labyrinth～", "kala", ""],
-    [11, "ハートのベルはring ring ring", "ましろゆき", ""],
-    [12, "La La サマーホリデイズ", "中山♡マミ", ""],
-    [13, "月光花", "Riryka", ""],
-]
-links = ["https://beta.musicbrainz.org/release/261b66cd-0469-46b3-a091-fbdce619c19d"]
-
-[362]
-catalognumber = "SRL-1006"
-date = "2011-05-06"
-album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
-tracks = [
-    [1, "our precious bond", "中山♡マミ＆神代あみ", ""],
-    [2, "Change&Chance!", "榊原ゆい", ""],
-    [3, "わたしの大事なもの", "橋本みゆき", ""],
-    [4, "夏のファンタジア", "佐藤ひろ美", ""],
-    [5, "I believe in you", "tohko", ""],
-    [6, "アイという名の地図", "真里歌", ""],
-    [7, "shining brightly", "Riryka＆なかせひな", ""],
-    [8, "刃に残るは君の面影", "Rita", ""],
-    [9, "Friends", "tohko", ""],
-    [10, "everlasting", "Riryka", ""],
-    [11, "dear", "なかせひな", ""],
-    [12, "水色ステージ", "真里歌", ""],
-    [13, "望郷歌～まほろば～", "佐藤ひろ美", ""],
-    [14, "Cherry Day", "神代あみ", ""],
-    [15, "想ひ出小往", "瀬名", ""],
-    [16, "Dear My Precious", "片霧烈火", ""],
-]
-links = ["https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753"]
-
-[363]
-catalognumber = "BREZ-0018"
-date = "2005-11-23"
-album = "夏音-Ring- Original Sound Track waves Disc 1"
-tracks = [
-    [1, "True Blue", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [2, "What a Beautiful Day", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [3, "Promnade -Japanese ver.-", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [4, "今日の風　明日の色", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [5, "僕らの上にあるのは空", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [6, "True Blue -Instrument ver.-", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [7, "今日の風　明日の色 -Instrument ver.-", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [8, "What A Beautiful Day -Instrument ver.-", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [9, "RE:Promnade", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-]
-links = ["https://beta.musicbrainz.org/release/69d72340-2cfd-4e65-9df6-effdac57203a"]
-
-[364]
-catalognumber = "BREZ-0019"
-date = "2005-11-23"
-album = "夏音-Ring- Original Sound Track waves Disc 2"
-tracks = [
-    [1, "Ring", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [2, "紺碧の朝", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [3, "優しい生活", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [4, "朝だよっ起きてっ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [5, "鈴菜のテーマ2", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [6, "ねこにカステラ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [7, "Promnade", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [8, "日差しを浴びて", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [9, "静流のテーマ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [10, "Coffee Maker", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [11, "雨の日は休みたい", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [12, "優しい調べ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [13, "Savarin", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [14, "夕凪", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [15, "電子の雲", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [16, "Je te veux", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [17, "美しい毎日", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [18, "朝霧", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [19, "毎日が日曜日!?", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [20, "お出かけ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [21, "Non devi sorprendere", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [22, "海!海!海!", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [23, "Così è la vita!", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [24, "スロウ・メロウ・イエロウ", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [25, "Da.Ba.Da", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [26, "於、水族館", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [27, "ホール", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [28, "狐の嫁入り", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [29, "涙の訳", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [30, "昨日", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [31, "深海に降る雪", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [32, "今日と云う日を", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [33, "初めは喧嘩ばかり", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-    [34, "僕らの上にあるのは空 -Music Box Ver.-", "Rembrandz Sound Team / Little Wing / Angel Note / M.U.T.S. music studio", ""],
-]
-links = ["https://beta.musicbrainz.org/release/69d72340-2cfd-4e65-9df6-effdac57203a"]
-
-[365]
-catalognumber = ""
-date = "2015-05-29"
-album = "ALIA's CARNIVAL! ORIGINAL SOUNDTRACK COLLECTION Disc 1"
-tracks = [
-    [1, "未来の風が吹く short ver.", "NANA", ""],
-    [2, "Title of the ALIA", "Angel Note & NORAS", ""],
-    [3, "春風駘蕩", "Angel Note & NORAS", ""],
-    [4, "桜雲台学院", "Angel Note & NORAS", ""],
-    [5, "思案", "Angel Note & NORAS", ""],
-    [6, "悠久の場所", "NANA", ""],
-    [7, "必殺のアーケン", "Angel Note & NORAS", ""],
-    [8, "異能力", "Angel Note & NORAS", ""],
-    [9, "こそこそ・・・", "Angel Note & NORAS", ""],
-    [10, "修羅場ってる?", "Angel Note & NORAS", ""],
-    [11, "息づく朝", "Angel Note & NORAS", ""],
-    [12, "Morning tea", "Angel Note & NORAS", ""],
-    [13, "さくら色の少女", "Angel Note & NORAS", ""],
-    [14, "朝がすみの通学路", "Angel Note & NORAS", ""],
-    [15, "これぞ桜雲台", "Angel Note & NORAS", ""],
-    [16, "ホームルームはカードで", "Angel Note & NORAS", ""],
-    [17, "昼まで昼休み", "Angel Note & NORAS", ""],
-    [18, "Tower of Sacred library", "Angel Note & NORAS", ""],
-    [19, "Feel the strain", "Angel Note & NORAS", ""],
-    [20, "Spread アーケン!", "Angel Note & NORAS", ""],
-    [21, "放課後散策", "Angel Note & NORAS", ""],
-    [22, "アス研へようこそ", "Angel Note & NORAS", ""],
-    [23, "アリアな午後", "Angel Note & NORAS", ""],
-    [24, "今日もほのぼの", "Angel Note & NORAS", ""],
-    [25, "夕焼けの空", "Angel Note & NORAS", ""],
-    [26, "Night Dawn", "Angel Note & NORAS", ""],
-    [27, "夜遊び", "Angel Note & NORAS", ""],
-    [28, "Day is done", "Angel Note & NORAS", ""],
-    [29, "不穏", "Angel Note & NORAS", ""],
-    [30, "Spread アリア戦", "Angel Note & NORAS", ""],
-]
-links = ["https://beta.musicbrainz.org/release/5e17fbfe-f797-4f2c-8906-ce5d1c1bc984"]
-
-[366]
-catalognumber = ""
-date = "2015-05-29"
-album = "ALIA's CARNIVAL! ORIGINAL SOUNDTRACK COLLECTION Disc 2"
-tracks = [
-    [1, "CARNIVAL!", "Angel Note & NORAS", ""],
-    [2, "桜雲の喧騒", "Angel Note & NORAS", ""],
-    [3, "cafe's T", "Angel Note & NORAS", ""],
-    [4, "なにを買う?", "Angel Note & NORAS", ""],
-    [5, "聖域", "Angel Note & NORAS", ""],
-    [6, "at Home", "Angel Note & NORAS", ""],
-    [7, "悠久のメモリア", "Angel Note & NORAS", ""],
-    [8, "重いのゆくえ", "Angel Note & NORAS", ""],
-    [9, "黄昏", "Angel Note & NORAS", ""],
-    [10, "放課後の熱量", "Angel Note & NORAS", ""],
-    [11, "恋心", "Angel Note & NORAS", ""],
-    [12, "告白", "Angel Note & NORAS", ""],
-    [13, "仄かに甘い蜜", "Angel Note & NORAS", ""],
-    [14, "Graysig Institutions", "Angel Note & NORAS", ""],
-    [15, "悠久の果て", "Angel Note & NORAS", ""],
-    [16, "逡巡する思惑", "Angel Note & NORAS", ""],
-    [17, "蜃気楼", "Angel Note & NORAS", ""],
-    [18, "Winning Run", "Angel Note & NORAS", ""],
-    [19, "青き目覚め、春の絆", "Angel Note & NORAS", ""],
-    [20, "Reunion", "Angel Note & NORAS", ""],
-    [21, "悠久の場所 short ver.", "NANA", ""],
-    [22, "Abaddon", "Angel Note & NORAS", ""],
-    [23, "grope in the D.A.R.K", "Angel Note & NORAS", ""],
-    [24, "届かぬ想い", "Angel Note & NORAS", ""],
-    [25, "生と死・・・", "Angel Note & NORAS", ""],
-    [26, "夏祭", "Angel Note & NORAS", ""],
-    [27, "茜色の街並み", "Angel Note & NORAS", ""],
-    [28, "流れる刻の恋", "Angel Note & NORAS", ""],
-    [29, "spread バトル!", "Angel Note & NORAS", ""],
-    [30, "遊々叶の詩", "Angel Note & NORAS", ""],
-]
-links = ["https://beta.musicbrainz.org/release/5e17fbfe-f797-4f2c-8906-ce5d1c1bc984"]
-
-[367]
-catalognumber = "NANA-0006"
-date = "2017-08-11"
-album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 1"
-tracks = [
-    [1, "未来の風が吹く OP full ver", "NANA", ""],
-    [2, "Title of the ALIA", "Angel Note & NORAS", ""],
-    [3, "春風駘蕩", "Angel Note & NORAS", ""],
-    [4, "桜雲台学院", "Angel Note & NORAS", ""],
-    [5, "思案", "Angel Note & NORAS", ""],
-    [6, "悠久の場所 Air", "Angel Note & NORAS", ""],
-    [7, "必殺のアーケン", "Angel Note & NORAS", ""],
-    [8, "異能力", "Angel Note & NORAS", ""],
-    [9, "こそこそ…", "Angel Note & NORAS", ""],
-    [10, "修羅場ってる?", "Angel Note & NORAS", ""],
-    [11, "息づく朝", "Angel Note & NORAS", ""],
-    [12, "Morning tea", "Angel Note & NORAS", ""],
-    [13, "さくら色の少女", "Angel Note & NORAS", ""],
-    [14, "朝がすみの通学路", "Angel Note & NORAS", ""],
-    [15, "これぞ桜雲流", "Angel Note & NORAS", ""],
-    [16, "ホームルームはカードで", "Angel Note & NORAS", ""],
-    [17, "昼まで昼休み", "Angel Note & NORAS", ""],
-    [18, "Tower of Sacred library", "Angel Note & NORAS", ""],
-    [19, "Feel the strain", "Angel Note & NORAS", ""],
-    [20, "spread アーケン!", "Angel Note & NORAS", ""],
-    [21, "放課後散策", "Angel Note & NORAS", ""],
-    [22, "アス研ヘようこそ", "Angel Note & NORAS", ""],
-    [23, "アリアな午後", "Angel Note & NORAS", ""],
-    [24, "今日もほのぼの", "Angel Note & NORAS", ""],
-    [25, "夕焼けの空", "Angel Note & NORAS", ""],
-    [26, "Night Dawn", "Angel Note & NORAS", ""],
-    [27, "夜遊び", "Angel Note & NORAS", ""],
-    [28, "Day is done", "Angel Note & NORAS", ""],
-    [29, "不稳", "Angel Note & NORAS", ""],
-]
-links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00"]
-
-[368]
-catalognumber = "NANA-0006"
-date = "2017-08-11"
-album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 2"
-tracks = [
-    [1, "spread ALIA戦", "Angel Note & NORAS", ""],
-    [2, "CARNIVAL!", "Angel Note & NORAS", ""],
-    [3, "桜雲の喧騒", "Angel Note & NORAS", ""],
-    [4, "cafe's T", "Angel Note & NORAS", ""],
-    [5, "なにを買う?", "Angel Note & NORAS", ""],
-    [6, "聖域", "Angel Note & NORAS", ""],
-    [7, "at Home", "Angel Note & NORAS", ""],
-    [8, "悠久のメモリア", "Angel Note & NORAS", ""],
-    [9, "想いのゆくえ", "Angel Note & NORAS", ""],
-    [10, "黄昏", "Angel Note & NORAS", ""],
-    [11, "放課後の熱量", "Angel Note & NORAS", ""],
-    [12, "恋心", "Angel Note & NORAS", ""],
-    [13, "告白", "Angel Note & NORAS", ""],
-    [14, "仄かに甘い蜜", "Angel Note & NORAS", ""],
-    [15, "Grayish Institutions", "Angel Note & NORAS", ""],
-    [16, "悠久の果て", "Angel Note & NORAS", ""],
-    [17, "逡巡する思惑", "Angel Note & NORAS", ""],
-    [18, "蜃気楼", "Angel Note & NORAS", ""],
-    [19, "Winning Run", "Angel Note & NORAS", ""],
-    [20, "青き目覚め、春の絆", "Angel Note & NORAS", ""],
-    [21, "Reunion", "Angel Note & NORAS", ""],
-    [22, "悠久の場所 ED full ver", "NANA", ""],
-    [23, "Abaddon", "Angel Note & NORAS", ""],
-    [24, "grope in the D.A.R.K", "Angel Note & NORAS", ""],
-    [25, "届かぬ想い", "Angel Note & NORAS", ""],
-    [26, "生と死と…", "Angel Note & NORAS", ""],
-    [27, "夏祭", "Angel Note & NORAS", ""],
-    [28, "茜色の街並み", "Angel Note & NORAS", ""],
-    [29, "流るる刻の恋", "Angel Note & NORAS", ""],
-    [30, "spread パトル!", "Angel Note & NORAS", ""],
-    [31, "遊々叶の詩", "Angel Note & NORAS", ""],
-]
-links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00"]
-
-[369]
-catalognumber = "NANA-0006"
-date = "2017-08-11"
-album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 3"
-tracks = [
-    [1, "Flowering Memory OP full ver", "西沢はぐみ", ""],
-    [2, "Title of the Sky", "Angel Note & NORAS", ""],
-    [3, "碧風", "Angel Note & NORAS", ""],
-    [4, "リゾート都市", "Angel Note & NORAS", ""],
-    [5, "夏雲の季節", "Angel Note & NORAS", ""],
-    [6, "ホームルーム", "Angel Note & NORAS", ""],
-    [7, "とある夏の午後", "Angel Note & NORAS", ""],
-    [8, "碧日学園", "Angel Note & NORAS", ""],
-    [9, "学園生活", "Angel Note & NORAS", ""],
-    [10, "始まる、朝の通学路", "Angel Note & NORAS", ""],
-    [11, "優雅な時間", "Angel Note & NORAS", ""],
-    [12, "ユユカナ", "Angel Note & NORAS", ""],
-    [13, "幼なじみと窓辺で", "Angel Note & NORAS", ""],
-    [14, "星降る夜の物語", "Angel Note & NORAS", ""],
-    [15, "あの子を追いかけて", "Angel Note & NORAS", ""],
-    [16, "フラワリング", "Angel Note & NORAS", ""],
-    [17, "蜜月夜", "Angel Note & NORAS", ""],
-    [18, "煉獄", "Angel Note & NORAS", ""],
-    [19, "spread イデア戦", "Angel Note & NORAS", ""],
-    [20, "恋月夜 -Koizukiyo- ED full ver", "西沢はぐみ", ""],
-    [21, "ボーナストラック", "Angel Note & NORAS", ""],
-    [22, "ボーナストラック", "Angel Note & NORAS", ""],
-    [23, "ボーナストラック", "Angel Note & NORAS", ""],
-    [24, "ボーナストラック", "Angel Note & NORAS", ""],
-    [25, "ボーナストラック", "Angel Note & NORAS", ""],
-    [26, "ボーナストラック", "Angel Note & NORAS", ""],
-    [27, "ボーナストラック", "Angel Note & NORAS", ""],
-    [28, "ボーナストラック", "Angel Note & NORAS", ""],
-    [29, "ボーナストラック", "Angel Note & NORAS", ""],
-    [30, "ボーナストラック", "Angel Note & NORAS", ""],
-]
-links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00"]
-
-[370]
-catalognumber = ""
-date = "2015-03-26"
-album = "Friend to Lover ～フレラバ～ キャラクターソングCD"
-tracks = [
-    [1, "eclosion", "西沢はぐみ", ""],
-    [2, "and happy", "皆原 陽茉莉(CV.東かりん)", ""],
-    [3, "Good Night", "望月 理奈(CV.あじ秋刀魚)", ""],
-    [4, "シャルロットの憂鬱", "柊 ゆずゆ(CV.秋野花)", ""],
-    [5, "この声を聞いてね", "沢渡 岬(CV.水邑琴音)", ""],
-    [6, "Quantum jump（ピアノアレンジver）", "真里歌", ""],
-    [7, "2人のアルバム（アコースティックアレンジver）", "夏希美羽", ""],
-    [8, "eclosion（instrumental）", "椎名俊介", ""],
-    [9, "and happy（instrumental）", "椎名俊介", ""],
-    [10, "Good Night（instrumental）", "kala", ""],
-    [11, "シャルロットの憂鬱（instrumental）", "井ノ原智", ""],
-    [12, "この声を聞いてね（instrumental）", "篠原瑞希", ""],
-]
-links = ["https://beta.musicbrainz.org/release/9e508b5f-c985-41d1-b207-8a3e8c5ea473"]
-
-[371]
-catalognumber = "SRL-1004"
-date = "2009-08-28"
-album = "Heartful Moment -Angel Note Best Collection VI-"
-tracks = [
-    [1, "秋陽", "真里歌", ""],
-    [2, "keep on going", "榊原ゆい", ""],
-    [3, "戦士たちのLullaby", "瀬名", ""],
-    [4, "Moon Story", "UR@N", ""],
-    [5, "魂の炎", "UMA", ""],
-    [6, "希望の歌", "青葉りんご", ""],
-    [7, "Crusader Dream", "Riryka & 中瀬ひな", ""],
-    [8, "火華乱舞！", "神代あみ", ""],
-    [9, "Moon Garden", "Riryka", ""],
-    [10, "クレナイノツキ", "中瀬ひな", ""],
-    [11, "はっぴぃ", "yuiko", ""],
-    [12, "ナ・イ・ショの恋", "榊原ゆい", ""],
-    [13, "鏡の森", "片霧烈火", ""],
-    [14, "Everlasting", "神代あみ", ""],
-    [15, "笑顔に会いたくて", "Riryka", ""],
-    [16, "輝いたまま", "中山♡マミ", ""],
-]
-links = ["https://beta.musicbrainz.org/release/844a6c83-f905-4959-8819-621df245effd"]
-
-[372]
-catalognumber = "CLOCD-0008"
-date = "2016-06-24"
-album = "ここから夏のイノセンス！ ORIGINAL SOUNDTRACK"
-tracks = [
-    [1, "予感のリズム", "Angel Note", ""],
-    [2, "Radiant Adolescence", "Angel Note", ""],
-    [3, "Impish Chuckle", "Angel Note", ""],
-    [4, "ひなたの縁側", "Angel Note", ""],
-    [5, "彼女の清々しいたたずまい", "Angel Note", ""],
-    [6, "みどりいろを深呼吸", "Angel Note", ""],
-    [7, "一緒にはずむ足取りで", "Angel Note", ""],
-    [8, "帰ろうか。また明日", "Angel Note", ""],
-    [9, "水面をはじいて駆けていく", "Angel Note", ""],
-    [10, "夏の日差しと笑顔", "Angel Note", ""],
-    [11, "胸が自然と高鳴るように", "Angel Note", ""],
-    [12, "ちょっと待って、それは", "Angel Note", ""],
-    [13, "騒然！in晶生村", "Angel Note", ""],
-    [14, "Quiently Trigger", "Angel Note", ""],
-    [15, "ほたるがたり", "Angel Note", ""],
-    [16, "静謐な覚悟", "Angel Note", ""],
-    [17, "お願いだからそんな顔しないで", "Angel Note", ""],
-    [18, "ほどける想い", "Angel Note", ""],
-    [19, "そっとゆびをからめて", "Angel Note", ""],
-    [20, "それはとけあうたいおんの", "Angel Note", ""],
-    [21, "じんせいでいちばんすてきなよる", "Angel Note", ""],
-    [22, "涙ばかりじゃない", "Angel Note", ""],
-    [23, "神様、今も、ここに", "Angel Note", ""],
-    [24, "きっと未来まで届くよ", "Angel Note", ""],
-    [25, "よろこびの音色", "Angel Note", ""],
-    [26, "Brilliant Life", "Angel Note", ""],
-    [27, "ずっとふたりで。ね。", "Angel Note", ""],
-    [28, "君とつくるもうひとつの未来", "AiRI", ""],
-    [29, "君とつくるもうひとつの未来（inst）", "AiRI", ""],
-    [30, "Innocent Summer", "AiRI", ""],
-    [31, "Innocent Summer（inst）", "AiRI", ""],
-    [32, "夏空", "AiRI", ""],
-    [33, "夏空（inst）", "AiRI", ""],
-]
-links = ["https://beta.musicbrainz.org/release/19ecc874-438f-45fd-be41-ec472754a069"]
-
-[373]
-catalognumber = "SRL-1009"
-date = "2016-01-29"
-album = "Melodies ～Angel Note Best Collection Vol.11～ Melodies"
-tracks = [
-    [1, "嘘と真実", "葉月", ""],
-    [2, "星のようになりたい", "Kicco", ""],
-    [3, "華暦", "Ayumi.", ""],
-    [4, "Passion", "Duca", ""],
-    [5, "恋の補習を始めま♡Show", "神代あみ", ""],
-    [6, "桜の記憶", "tohko", ""],
-    [7, "Focus love", "真理絵", ""],
-    [8, "大好き", "中山♡マミ", ""],
-    [9, "NEW WORLD", "葉月", ""],
-    [10, "花筵狂歌", "しほり", ""],
-    [11, "未来への一歩", "民安★ROCK", ""],
-    [12, "True Heart", "tohko", ""],
-    [13, "Without You", "神代あみ", ""],
-    [14, "カケラ", "葉月", ""],
-    [15, "ecloseion", "西沢はぐみ", ""],
-    [16, "天使の羽とクリスタル", "Riryka", ""],
-]
-links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831"]
-
-[374]
-catalognumber = "SRL-1009"
-date = "2016-01-29"
-album = "Melodies ～Angel Note Best Collection Vol.11～ 萌アニ☆きゅ～ん Special Remix"
-tracks = [
-    [1, "Get The Future (ヴァ☆ニー vs. DJ 沖P Remix)", "Riryka & なかせひな", ""],
-    [2, "紅舞 (DJ 沖P Remix)", "佐藤ひろ美", ""],
-    [3, "華暦 (44tk Remix)", "Ayumi.", ""],
-    [4, "嘘と真実 (ヴァ☆ニー Remix)", "葉月", ""],
-    [5, "True Heart (AZにゃんRemix)", "tohko", ""],
-    [6, "quantum Jump (44tk Remix)", "真里歌", ""],
-    [7, "二人のアルバム (DJ 沖P Remix)", "夏希美羽", ""],
-    [8, "Hello Lady (AZにゃんRemix)", "真里歌", ""],
-    [9, "Next to you (DJ 沖P Remix)", "しほり", ""],
-    [10, "光臨!大天使ラビエル☆ (DJ 沖P Remix)", "なかせひな", ""],
-]
-links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831"]
-
-[375]
-catalognumber = "SPHT-81610"
-date = "2010-03-19"
-album = "メルクリア～水の都に恋の花束を～ サウンドトラック 「水都の音色」"
-tracks = [
-    [1, "Blue Horizon (Short Version)", "榊原ゆい", ""],
-    [2, "蒼穹の下で", "Elements Garden", ""],
-    [3, "蒼玉の都アトレティカ", "Elements Garden", ""],
-    [4, "水平線の夕日", "Angel Note", ""],
-    [5, "きみと手を繋いで", "Elements Garden", ""],
-    [6, "暑い…", "Angel Note", ""],
-    [7, "夏のインブルーリア", "Elements Garden", ""],
-    [8, "午睡～シエスタ", "Elements Garden", ""],
-    [9, "銀の風", "Elements Garden", ""],
-    [10, "メルクリア (Short Version)", "霜月はるか", ""],
-    [11, "アカデミーの日常", "Elements Garden", ""],
-    [12, "遠い約束", "Elements Garden", ""],
-    [13, "手のひらのぬくもり", "Elements Garden", ""],
-    [14, "Alone in the dark", "Angel Note", ""],
-    [15, "慟哭の世界", "Elements Garden", ""],
-    [16, "あなたが好きです", "Elements Garden", ""],
-    [17, "銀帝蹄の夜", "Elements Garden", ""],
-    [18, "いたずらとドキドキと", "Angel Note", ""],
-    [19, "暴走～チェンタウロ", "Angel Note", ""],
-    [20, "あなたに包まれて", "Angel Note", ""],
-    [21, "リラサメント", "Angel Note", ""],
-    [22, "神秘の扉", "Angel Note", ""],
-    [23, "レガッタ～スヴェスティーレ", "Elements Garden", ""],
-    [24, "水の夜想曲", "Elements Garden", ""],
-    [25, "青い花 (Short Version)", "Riryka", ""],
-    [26, "フィオレリーア", "Elements Garden", ""],
-    [27, "カンティレーナ", "Angel Note", ""],
-    [28, "水の調べ", "Angel Note", ""],
-    [29, "やさしさは水の調べ (Short Version)", "中山♡マミ", ""],
-]
-links = ["https://beta.musicbrainz.org/release/529b0ab2-fb72-4225-b27b-9604bb08d939"]
-
-[376]
-catalognumber = "SRL-1003"
-date = "2009-06-05"
-album = "Angel Book vol.01"
-tracks = [
-    [1, "一生恋してる", "中山♡マミ", ""],
-    [2, "頑張っちゃいます、はい。", "中山♡マミ", ""],
-    [3, "MISS YOU", "みるくくるみ", ""],
-    [4, "永遠の奇跡", "Kala", ""],
-    [5, "トビラ～明日への地図～", "Sizuku", ""],
-    [6, "だってふぉ～りんLOVE", "中山♡マミ", ""],
-    [7, "INNOCENT", "みるくくるみ", ""],
-    [8, "exchange", "中山♡マミ", ""],
-    [9, "風花雪月", "榊原ゆい", ""],
-    [10, "ピンチとチャンス", "中山♡マミ", ""],
-]
-links = ["https://beta.musicbrainz.org/release/6c6872c1-4858-46bf-a95b-6a638c437af4"]
-
-[377]
-catalognumber = "KICA-1489"
-date = "2010-09-22"
-album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc01"
-tracks = [
-    [1, "夏のファンタジア", "佐藤ひろ美", ""],
-    [2, "Long for・・・", "瀬名", ""],
-    [3, "想いの果て", "藤子", ""],
-    [4, "夏のファンタジア (アカペラ version)", "佐藤ひろ美", ""],
-    [5, "夏のファンタジア (short version 01)", "佐藤ひろ美", ""],
-    [6, "羽織り", "Angel Note", ""],
-    [7, "御奈神村", "Angel Note", ""],
-    [8, "夏草の小道", "Angel Note", ""],
-    [9, "沈みゆくもの", "Angel Note", ""],
-    [10, "射光線", "Angel Note", ""],
-    [11, "夜想", "Angel Note", ""],
-    [12, "夏蛍", "Angel Note", ""],
-    [13, "昔語り", "Angel Note", ""],
-    [14, "神籬", "Angel Note", ""],
-    [15, "依り代", "Angel Note", ""],
-    [16, "夏の軌跡", "Angel Note", ""],
-    [17, "絹雲", "Angel Note", ""],
-    [18, "一日一膳", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
-
-[378]
-catalognumber = "KICA-1490"
-date = "2010-09-22"
-album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc02"
-tracks = [
-    [1, "夏のファンタジア (short version 02)", "佐藤ひろ美", ""],
-    [2, "沙久耶", "Angel Note", ""],
-    [3, "少女の舞い羽根", "Angel Note", ""],
-    [4, "日向の丘", "Angel Note", ""],
-    [5, "銀の檻", "Angel Note", ""],
-    [6, "銀子式", "Angel Note", ""],
-    [7, "想い人", "Angel Note", ""],
-    [8, "琴線", "Angel Note", ""],
-    [9, "深い霧の先へ", "Angel Note", ""],
-    [10, "一つ石", "Angel Note", ""],
-    [11, "六道の辻", "Angel Note", ""],
-    [12, "鳴動", "Angel Note", ""],
-    [13, "傷", "Angel Note", ""],
-    [14, "哀しき抱擁", "Angel Note", ""],
-    [15, "華麗奔放", "Angel Note", ""],
-    [16, "ありがとう", "Angel Note", ""],
-    [17, "繋いだ両手", "Angel Note", ""],
-    [18, "希い望む", "Angel Note", ""],
-    [19, "誰の為に", "Angel Note", ""],
-    [20, "憂いの連鎖", "Angel Note", ""],
-    [21, "夏のファンタジア -Orchestral-", "Angel Note", ""],
-    [22, "過去の柵 (しがらみ)", "Angel Note", ""],
-    [23, "物語の旋律", "Angel Note", ""],
-    [24, "想いの果て(short version)", "藤子", ""],
-]
-links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
-
-[379]
-catalognumber = "APP-001-NDS"
-date = "2011-06-24"
-album = "なでしこドリップ SOUND TRACK"
-tracks = [
-    [1, "Sweet Love", "tohko", ""],
-    [2, "とびきり撫子", "Angel Note", ""],
-    [3, "高嶺の花は意外と近くに", "Angel Note", ""],
-    [4, "咲きかけのつぼみ", "Angel Note", ""],
-    [5, "ひまわりよりも天真爛漫", "Angel Note", ""],
-    [6, "榊に咲いた白い花びら", "Angel Note", ""],
-    [7, "ちんまい福の神", "Angel Note", ""],
-    [8, "モーニングコーヒー", "Angel Note", ""],
-    [9, "風に揺れる夕顔", "Angel Note", ""],
-    [10, "サマーバケーション", "Angel Note", ""],
-    [11, "チュ～リップリップ", "Angel Note", ""],
-    [12, "チューリップポップ!", "Angel Note", ""],
-    [13, "イエローリップ", "Angel Note", ""],
-    [14, "浪漫アンティーク", "Angel Note", ""],
-    [15, "浪漫アンティーク ～analog ver.", "Angel Note", ""],
-    [16, "ほのかな緊張", "Angel Note", ""],
-    [17, "駆けよ、車輪よ", "Angel Note", ""],
-    [18, "ローテンション・リリー", "Angel Note", ""],
-    [19, "涙の滴、花片に墜つ", "Angel Note", ""],
-    [20, "甘やかな香り", "Angel Note", ""],
-    [21, "bitter sweet", "Angel Note", ""],
-    [22, "ひとときの安らぎ", "Angel Note", ""],
-    [23, "朝顔の滴", "Angel Note", ""],
-    [24, "薔薇のベッドシーツ", "Angel Note", ""],
-    [25, "珈琲ブレイク", "Angel Note", ""],
-    [26, "轍に咲く花", "Angel Note", ""],
-    [27, "believe in love", "solfa feat. Rita", ""],
-    [28, "summer dream", "solfa feat. yuki", ""],
-]
-links = ["https://beta.musicbrainz.org/release/e24dae8f-1063-4802-93ac-96da1ace8c0b"]
-
-[380]
-catalognumber = "AACD-1001"
-date = "2014-06-27"
-album = "SCLAMBLE LOVERS Complete Sound Track."
-tracks = [
-    [1, "Starting your Morning", "Angel Note", ""],
-    [2, "陽だまり♪サンライト", "Angel Note", ""],
-    [3, "Switch A to B?", "Angel Note", ""],
-    [4, "夕映え", "Angel Note", ""],
-    [5, "Time to say good night...", "Angel Note", ""],
-    [6, "小さな約束、絆となって", "Angel Note", ""],
-    [7, "DOTABATA♪...♥!?", "Angel Note", ""],
-    [8, "黒雨", "Angel Note", ""],
-    [9, "安らぎの足音", "Angel Note", ""],
-    [10, "初夏のメロウにのせて", "Angel Note", ""],
-    [11, "ふわり、優しい君へ", "Angel Note", ""],
-    [12, "棗☆あくてぃべ～しょん", "Angel Note", ""],
-    [13, "Always Keep myself", "Angel Note", ""],
-    [14, "いつも私のスピードで", "Angel Note", ""],
-    [15, "消えない想い", "Angel Note", ""],
-    [16, "Like a SWEETS～甘い香りに誘われて～", "Angel Note", ""],
-    [17, "素敵デート☆レッスン中！", "Angel Note", ""],
-    [18, "Call your name", "Angel Note", ""],
-    [19, "初恋色のコンチェルト", "Angel Note", ""],
-    [20, "My First Love -off vocal ショートver.-", "Angel Note", ""],
-    [21, "メーカータイトルジングル", "Angel Note", ""],
-    [22, "どこいこう?", "Angel Note", ""],
-    [23, "My First Love -ショートver.-", "Duca", ""],
-    [24, "Dear My Lover -ショートver.-", "Rita", ""],
-    [25, "Girly Side -ショートver.-", "KANAMI", ""],
-    [26, "夏の風、あの日君に恋をした -ショートver.-", "kaoru", ""],
-    [27, "Primula. -ショートver.-", "m@o", ""],
-]
-links = ["https://beta.musicbrainz.org/release/9adf083c-7283-40f7-80a0-7b7322652a17"]
-
-[381]
-catalognumber = "YSCD-0052"
-date = "2018-08-24"
-album = "RIDDLE JOKER オリジナルサウンドトラック Disc 1"
-tracks = [
-    [1, "astral ability (Title Version)", "Angel Note", ""],
-    [2, "あやしげなるもの", "Angel Note", ""],
-    [3, "Suspicion", "Angel Note", ""],
-    [4, "Invisibly Faster", "Angel Note", ""],
-    [5, "Usability of Ability", "Angel Note", ""],
-    [6, "astral ability (Game Size)", "橋本みゆき & 佐咲紗花", ""],
-    [7, "Morning Light", "Angel Note", ""],
-    [8, "変わらない日常", "Angel Note", ""],
-    [9, "Common Scenery", "Angel Note", ""],
-    [10, "Emotion", "Angel Note", ""],
-    [11, "やってもた", "Angel Note", ""],
-    [12, "Take into Account", "Angel Note", ""],
-    [13, "Search for Riddle", "Angel Note", ""],
-    [14, "Accident Occurred", "Angel Note", ""],
-    [15, "Approach Shadows", "Angel Note", ""],
-    [16, "Conflict", "Angel Note", ""],
-    [17, "O.BA.KA.SAN", "Angel Note", ""],
-    [18, "Happy Days", "Angel Note", ""],
-    [19, "Always Fine!", "Angel Note", ""],
-    [20, "Precious Memories", "Angel Note", ""],
-    [21, "Happening!!", "Angel Note", ""],
-    [22, "鷲逗は今日も平和です", "Angel Note", ""],
-    [23, "Creepy Wind", "Angel Note", ""],
-    [24, "Hard Fight", "Angel Note", ""],
-    [25, "Mastery", "Angel Note", ""],
-    [26, "優しさにつつまれて", "Angel Note", ""],
-]
-links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a"]
-
-[382]
-catalognumber = "YSCD-0053"
-date = "2018-08-24"
-album = "RIDDLE JOKER オリジナルサウンドトラック Disc 2"
-tracks = [
-    [1, "PERFECT GIRL (Instrumental Version)", "Angel Note", ""],
-    [2, "Sympathy (Instrumental Version)", "Angel Note", ""],
-    [3, "強がるオトナのSecret Labo (Instrumental Version)", "Angel Note", ""],
-    [4, "大和撫子は憧れ (Instrumental Version)", "Angel Note", ""],
-    [5, "陽だまり笑顔で (Instrumental Version)", "Angel Note", ""],
-    [6, "PERFECT GIRL (Quiet Version)", "Angel Note", ""],
-    [7, "Sympathy (Quiet Version)", "Angel Note", ""],
-    [8, "強がるオトナのSecret Labo (Quiet Version)", "Angel Note", ""],
-    [9, "大和撫子は憧れ (Quiet Version)", "Angel Note", ""],
-    [10, "陽だまり笑顔で (Quiet Version)", "Angel Note", ""],
-    [11, "Investigation", "Angel Note", ""],
-    [12, "Astral Power", "Angel Note", ""],
-    [13, "Dark Clouds", "Angel Note", ""],
-    [14, "astral ability (Guitar Version)", "Angel Note", ""],
-    [15, "匿せない気持ち", "Angel Note", ""],
-    [16, "Honey Moon", "Angel Note", ""],
-    [17, "永い夢から", "Angel Note", ""],
-    [18, "astral ability (Piano Version)", "Angel Note", ""],
-    [19, "ゆびきり (Game Size)", "霜月はるか", ""],
-    [20, "ずっと (Game Size)", "葉月", ""],
-    [21, "初恋 (Game Size)", "tohko", ""],
-    [22, "恋だより (Game Size)", "羽生みいな", ""],
-    [23, "陽だまり笑顔で (Game Size)", "春風まゆき", ""],
-]
-links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a"]
-
-[383]
-catalognumber = "YSCD-0054"
-date = "2018-08-24"
-album = "RIDDLE JOKER オリジナルサウンドトラック Disc 3"
-tracks = [
-    [1, "astral ability", "橋本みゆき & 佐咲紗花", ""],
-    [2, "ゆびきり", "霜月はるか", ""],
-    [3, "ずっと", "葉月", ""],
-    [4, "初恋", "tohko", ""],
-    [5, "恋だより", "羽生みいな", ""],
-    [6, "陽だまり笑顔で", "春風まゆき", ""],
-    [7, "astral ability (Karaoke Version)", "橋本みゆき & 佐咲紗花", ""],
-    [8, "ゆびきり (Karaoke Version)", "霜月はるか", ""],
-    [9, "ずっと (Karaoke Version)", "葉月", ""],
-    [10, "初恋 (Karaoke Version)", "tohko", ""],
-    [11, "恋だより (Karaoke Version)", "羽生みいな", ""],
-    [12, "陽だまり笑顔で (Karaoke Version)", "春風まゆき", ""],
-]
-links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a"]
-
-[384]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 1"
@@ -9056,7 +7985,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[385]
+[348]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 2"
@@ -9071,7 +8000,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[386]
+[349]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 3"
@@ -9080,50 +8009,343 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[387]
-catalognumber = "SRL-1008"
-date = "2014-05-02"
-album = "Angel Note Best Collection Vol.10 \"To the Brilliant Future\""
+[350]
+catalognumber = ""
+date = "2015-03-26"
+album = "Friend to Lover ～フレラバ～ キャラクターソングCD"
 tracks = [
-    [1, "疾るセカイと僕らのミライ", "Riryka", ""],
-    [2, "Next To You", "しほり", ""],
-    [3, "二人のアルバム", "夏希美羽", ""],
-    [4, "Find The Gate", "真里歌", ""],
-    [5, "Blue-Love Chime", "nao", ""],
-    [6, "School Festival!!", "榊原ゆい", ""],
-    [7, "闇夜の彼方", "真里歌", ""],
-    [8, "Chemin", "tohko", ""],
-    [9, "ASAGI", "中瀬ひな", ""],
-    [10, "Aliare", "葉月", ""],
-    [11, "未来は…", "中山♡マミ", ""],
-    [12, "シャムロック", "Riryka", ""],
-    [13, "Only Your Precious Star", "しほり", ""],
-    [14, "観覧車", "Duca", ""],
-    [15, "Tricky Love", "神代あみ", ""],
-    [16, "終わりは終わりじゃない", "中山♡マミ", ""],
+    [1, "eclosion", "西沢はぐみ", "0"],
+    [2, "and happy", "皆原 陽茉莉(CV.東かりん)", ""],
+    [3, "Good Night", "望月 理奈(CV.あじ秋刀魚)", ""],
+    [4, "シャルロットの憂鬱", "柊 ゆずゆ(CV.秋野花)", ""],
+    [5, "この声を聞いてね", "沢渡 岬(CV.水邑琴音)", ""],
+    [6, "Quantum jump（ピアノアレンジver）", "真里歌", "0"],
+    [7, "2人のアルバム（アコースティックアレンジver）", "夏希美羽", ""],
+    [8, "eclosion（instrumental）", "椎名俊介", ""],
+    [9, "and happy（instrumental）", "椎名俊介", ""],
+    [10, "Good Night（instrumental）", "kala", ""],
+    [11, "シャルロットの憂鬱（instrumental）", "井ノ原智", ""],
+    [12, "この声を聞いてね（instrumental）", "篠原瑞希", ""],
 ]
-links = ["https://beta.musicbrainz.org/release/fefca27a-13c5-4fec-8815-867d08d64865"]
+links = ["https://beta.musicbrainz.org/release/9e508b5f-c985-41d1-b207-8a3e8c5ea473"]
 
-[388]
+[351]
+catalognumber = "LHCA-5051"
+date = "2006-08-23"
+album = "Utopia - Angel Note BEST COLLECTION II -"
+tracks = [
+    [1, "桃源郷", "Riryka", "0"],
+    [2, "chu-chu-chu", "中山♡マミ", "1"],
+    [3, "Utopia", "kala", "0"],
+    [4, "I'll try my best", "中山♡マミ", "1"],
+    [5, "紺色と黒のファンタジー", "中山♡マミ", "0"],
+    [6, "絆は銀の糸", "榊原ゆい", "0"],
+    [7, "REAL", "Riryka", "0"],
+    [8, "トビラ ～明日への地図～", "Shizuku", "0"],
+    [9, "空にキス", "Riryka", "0"],
+    [10, "迷宮 ～Endress Labyrinth～", "kala", "0"],
+    [11, "ハートのベルはring ring ring", "ましろゆき", "0"],
+    [12, "La La サマーホリデイズ", "中山♡マミ", "1"],
+    [13, "月光花", "Riryka", "0"],
+]
+links = ["https://beta.musicbrainz.org/release/261b66cd-0469-46b3-a091-fbdce619c19d"]
+
+[352]
+catalognumber = "KICA-1489"
+date = "2010-09-22"
+album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc01"
+tracks = [
+    [1, "夏のファンタジア", "佐藤ひろ美", "0"],
+    [2, "Long for・・・", "瀬名", ""],
+    [3, "想いの果て", "藤子", ""],
+    [4, "夏のファンタジア (アカペラ version)", "佐藤ひろ美", "0"],
+    [5, "夏のファンタジア (short version 01)", "佐藤ひろ美", "0"],
+    [6, "羽織り", "Angel Note", ""],
+    [7, "御奈神村", "Angel Note", ""],
+    [8, "夏草の小道", "Angel Note", ""],
+    [9, "沈みゆくもの", "Angel Note", ""],
+    [10, "射光線", "Angel Note", ""],
+    [11, "夜想", "Angel Note", ""],
+    [12, "夏蛍", "Angel Note", ""],
+    [13, "昔語り", "Angel Note", ""],
+    [14, "神籬", "Angel Note", ""],
+    [15, "依り代", "Angel Note", ""],
+    [16, "夏の軌跡", "Angel Note", ""],
+    [17, "絹雲", "Angel Note", ""],
+    [18, "一日一膳", "Angel Note", ""],
+]
+links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
+
+[353]
+catalognumber = "KICA-1490"
+date = "2010-09-22"
+album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc02"
+tracks = [
+    [1, "夏のファンタジア (short version 02)", "佐藤ひろ美", "0"],
+    [2, "沙久耶", "Angel Note", ""],
+    [3, "少女の舞い羽根", "Angel Note", ""],
+    [4, "日向の丘", "Angel Note", ""],
+    [5, "銀の檻", "Angel Note", ""],
+    [6, "銀子式", "Angel Note", ""],
+    [7, "想い人", "Angel Note", ""],
+    [8, "琴線", "Angel Note", ""],
+    [9, "深い霧の先へ", "Angel Note", ""],
+    [10, "一つ石", "Angel Note", ""],
+    [11, "六道の辻", "Angel Note", ""],
+    [12, "鳴動", "Angel Note", ""],
+    [13, "傷", "Angel Note", ""],
+    [14, "哀しき抱擁", "Angel Note", ""],
+    [15, "華麗奔放", "Angel Note", ""],
+    [16, "ありがとう", "Angel Note", ""],
+    [17, "繋いだ両手", "Angel Note", ""],
+    [18, "希い望む", "Angel Note", ""],
+    [19, "誰の為に", "Angel Note", ""],
+    [20, "憂いの連鎖", "Angel Note", ""],
+    [21, "夏のファンタジア -Orchestral-", "Angel Note", "0"],
+    [22, "過去の柵 (しがらみ)", "Angel Note", ""],
+    [23, "物語の旋律", "Angel Note", ""],
+    [24, "想いの果て(short version)", "藤子", ""],
+]
+links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
+
+[354]
+catalognumber = "SRL-1003"
+date = "2009-06-05"
+album = "Angel Book vol.01"
+tracks = [
+    [1, "一生恋してる", "中山♡マミ", "0"],
+    [2, "頑張っちゃいます、はい。", "中山♡マミ", "0"],
+    [3, "MISS YOU", "みるくくるみ", "0"],
+    [4, "永遠の奇跡", "Kala", "0"],
+    [5, "トビラ～明日への地図～", "Sizuku", "0"],
+    [6, "だってふぉ～りんLOVE", "中山♡マミ", "0"],
+    [7, "INNOCENT", "みるくくるみ", "0"],
+    [8, "exchange", "中山♡マミ", "1"],
+    [9, "風花雪月", "榊原ゆい", "0"],
+    [10, "ピンチとチャンス", "中山♡マミ", "0"],
+]
+links = ["https://beta.musicbrainz.org/release/6c6872c1-4858-46bf-a95b-6a638c437af4"]
+
+[355]
 catalognumber = "LHCA-5065"
 date = "2007-03-07"
 album = "BellesDivas -Angel Note BEST COLLECTION III-"
 tracks = [
-    [1, "Beautiful Harmony", "榊原ゆい", ""],
-    [2, "Up to you", "中山♡マミ", ""],
-    [3, "Miss You", "Riryka", ""],
-    [4, "小夜鳴鳥に背を向けて", "kala", ""],
-    [5, "Keep back my tears", "中山♡マミ", ""],
-    [6, "Favorite Love", "榊原ゆい", ""],
-    [7, "カッコよくなくちゃ！", "中山♡マミ", ""],
-    [8, "壊れた月", "kala", ""],
-    [9, "Strong Will", "中山♡マミ", ""],
-    [10, "傷跡", "Riryka", ""],
-    [11, "Wake me up！", "榊原ゆい", ""],
-    [12, "今日も笑顔で", "中山♡マミ", ""],
-    [13, "Moving Love", "kala", ""],
-    [14, "咲く未来", "中山♡マミ", ""],
-    [15, "In Your Sky", "榊原ゆい", ""],
-    [16, "My Dear", "中山♡マミ", ""],
+    [1, "Beautiful Harmony", "榊原ゆい", "1"],
+    [2, "Up to you", "中山♡マミ", "0"],
+    [3, "Miss You", "Riryka", "0"],
+    [4, "小夜鳴鳥に背を向けて", "kala", "0"],
+    [5, "Keep back my tears", "中山♡マミ", "0"],
+    [6, "Favorite Love", "榊原ゆい", "0"],
+    [7, "カッコよくなくちゃ！", "中山♡マミ", "0"],
+    [8, "壊れた月", "kala", "0"],
+    [9, "Strong Will", "中山♡マミ", "0"],
+    [10, "傷跡", "Riryka", "0"],
+    [11, "Wake me up！", "榊原ゆい", "0"],
+    [12, "今日も笑顔で", "中山♡マミ", "0"],
+    [13, "Moving Love", "kala", "0"],
+    [14, "咲く未来", "中山♡マミ", "0"],
+    [15, "In Your Sky", "榊原ゆい", "0"],
+    [16, "My Dear", "中山♡マミ", "0"],
 ]
 links = ["https://beta.musicbrainz.org/release/b84060b7-5718-45ef-aa1e-f9006d01542f"]
+
+[356]
+catalognumber = "SRL-1004"
+date = "2009-08-28"
+album = "Heartful Moment -Angel Note Best Collection VI-"
+tracks = [
+    [1, "秋陽", "真里歌", "0"],
+    [2, "keep on going", "榊原ゆい", "0"],
+    [3, "戦士たちのLullaby", "瀬名", "0"],
+    [4, "Moon Story", "UR@N", "0"],
+    [5, "魂の炎", "UMA", "0"],
+    [6, "希望の歌", "青葉りんご", "0"],
+    [7, "Crusader Dream", "Riryka & 中瀬ひな", "1"],
+    [8, "火華乱舞！", "神代あみ", "0"],
+    [9, "Moon Garden", "Riryka", "0"],
+    [10, "クレナイノツキ", "中瀬ひな", "0"],
+    [11, "はっぴぃ", "yuiko", "0"],
+    [12, "ナ・イ・ショの恋", "榊原ゆい", "0"],
+    [13, "鏡の森", "片霧烈火", "0"],
+    [14, "Everlasting", "神代あみ", "0"],
+    [15, "笑顔に会いたくて", "Riryka", "0"],
+    [16, "輝いたまま", "中山♡マミ", "0"],
+]
+links = ["https://beta.musicbrainz.org/release/844a6c83-f905-4959-8819-621df245effd"]
+
+[357]
+catalognumber = "SRL-1007"
+date = "2013-03-29"
+album = "Venus Voice/Angel Note Best Collection Volume 9"
+tracks = [
+    [1, "Knowing", "真里歌", "1"],
+    [2, "未来への一歩 (AngelNote featuring 民安★ROCK)", "民安★ROCK", "0"],
+    [3, "光臨！大天使ラビエル☆", "ラビエル (CV:中瀬ひな)", "1"],
+    [4, "はっぴぃなんだからいいじゃん", "西野みく", "0"],
+    [5, "Sweet Love", "tohko", "0"],
+    [6, "紅舞", "佐藤ひろ美", "0"],
+    [7, "故郷", "Kicco", "0"],
+    [8, "Scarlet", "榊原ゆい", "0"],
+    [9, "MASAKASA PARADISE", "神代あみ with TRIAL", "0"],
+    [10, "約束", "Rita", "0"],
+    [11, "Le Conseil", "tohko", "0"],
+    [12, "YOu & ME = Happy!", "榊原ゆい", "0"],
+    [13, "描いてた夢", "柚木ちな", "0"],
+    [14, "新しい調べ", "中山♥マミ", "0"],
+    [15, "夕焼けのマージナル", "Riryka", "0"],
+    [16, "Guiding Star", "夏希美羽", "0"],
+]
+links = ["https://beta.musicbrainz.org/release/a53c9eb0-69fc-4843-a859-32c48d5258a2"]
+
+[358]
+catalognumber = "AACD-1001"
+date = "2014-06-27"
+album = "SCLAMBLE LOVERS Complete Sound Track."
+tracks = [
+    [1, "Starting your Morning", "Angel Note", ""],
+    [2, "陽だまり♪サンライト", "Angel Note", ""],
+    [3, "Switch A to B?", "Angel Note", ""],
+    [4, "夕映え", "Angel Note", ""],
+    [5, "Time to say good night...", "Angel Note", ""],
+    [6, "小さな約束、絆となって", "Angel Note", ""],
+    [7, "DOTABATA♪...♥!?", "Angel Note", ""],
+    [8, "黒雨", "Angel Note", ""],
+    [9, "安らぎの足音", "Angel Note", ""],
+    [10, "初夏のメロウにのせて", "Angel Note", ""],
+    [11, "ふわり、優しい君へ", "Angel Note", ""],
+    [12, "棗☆あくてぃべ～しょん", "Angel Note", ""],
+    [13, "Always Keep myself", "Angel Note", ""],
+    [14, "いつも私のスピードで", "Angel Note", ""],
+    [15, "消えない想い", "Angel Note", ""],
+    [16, "Like a SWEETS～甘い香りに誘われて～", "Angel Note", ""],
+    [17, "素敵デート☆レッスン中！", "Angel Note", ""],
+    [18, "Call your name", "Angel Note", ""],
+    [19, "初恋色のコンチェルト", "Angel Note", ""],
+    [20, "My First Love -off vocal ショートver.-", "Angel Note", ""],
+    [21, "メーカータイトルジングル", "Angel Note", ""],
+    [22, "どこいこう?", "Angel Note", ""],
+    [23, "My First Love -ショートver.-", "Duca", ""],
+    [24, "Dear My Lover -ショートver.-", "Rita", ""],
+    [25, "Girly Side -ショートver.-", "KANAMI", ""],
+    [26, "夏の風、あの日君に恋をした -ショートver.-", "kaoru", ""],
+    [27, "Primula. -ショートver.-", "m@o", ""],
+]
+links = ["https://beta.musicbrainz.org/release/9adf083c-7283-40f7-80a0-7b7322652a17"]
+
+[359]
+catalognumber = "SRL-1006"
+date = "2011-05-06"
+album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
+tracks = [
+    [1, "our precious bond", "中山♡マミ＆神代あみ", "1"],
+    [2, "Change&Chance!", "榊原ゆい", "0"],
+    [3, "わたしの大事なもの", "橋本みゆき", "0"],
+    [4, "夏のファンタジア", "佐藤ひろ美", "0"],
+    [5, "I believe in you", "tohko", "0"],
+    [6, "アイという名の地図", "真里歌", "0"],
+    [7, "shining brightly", "Riryka＆なかせひな", "0"],
+    [8, "刃に残るは君の面影", "Rita", "0"],
+    [9, "Friends", "tohko", "0"],
+    [10, "everlasting", "Riryka", "0"],
+    [11, "dear", "なかせひな", "1"],
+    [12, "水色ステージ", "真里歌", "0"],
+    [13, "望郷歌～まほろば～", "佐藤ひろ美", "0"],
+    [14, "Cherry Day", "神代あみ", "1"],
+    [15, "想ひ出小往", "瀬名", "0"],
+    [16, "Dear My Precious", "片霧烈火", "0"],
+]
+links = ["https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753"]
+
+[360]
+catalognumber = ""
+date = ""
+album = "Senren*Banka Original Soundtrack Disc 1"
+tracks = [
+    [1, "Koi Kou Enishi (Title Version)", "KOTOKO", ""],
+    [2, "Timeless Town", "Angel Note", ""],
+    [3, "Tradition and Custom", "Angel Note", ""],
+    [4, "What?", "Angel Note", ""],
+    [5, "How and Why?", "Angel Note", ""],
+    [6, "Unbelievable", "Angel Note", ""],
+    [7, "Tears of Folly", "Angel Note", ""],
+    [8, "Subdued Morning", "Angel Note", ""],
+    [9, "Count On Me", "Angel Note", ""],
+    [10, "Lurking in the Dark", "Angel Note", ""],
+    [11, "Cursed Spirit", "Angel Note", ""],
+    [12, "Blind", "Angel Note", ""],
+    [13, "The Beauty of Nature", "Angel Note", ""],
+    [14, "Cursed Inheritance", "Angel Note", ""],
+    [15, "Clear and Serene", "Angel Note", ""],
+    [16, "Destiny", "Angel Note", ""],
+    [17, "A Brief Respite", "Angel Note", ""],
+    [18, "Relaxation", "Angel Note", ""],
+    [19, "Mic Test 1 2 3", "Angel Note", ""],
+    [20, "Harmony", "Angel Note", ""],
+    [21, "Training", "Angel Note", ""],
+    [22, "It's a HORI style!", "Angel Note", ""],
+    [23, "Tashinya", "Angel Note", ""],
+    [24, "Radiant Moment", "Angel Note", ""],
+    [25, "Lucky Day", "Angel Note", ""],
+    [26, "Tension in the Air", "Angel Note", ""],
+    [27, "Unending Battle", "Angel Note", ""],
+    [28, "Curse", "Angel Note", ""],
+    [29, "Hazy", "Angel Note", ""],
+    [30, "Blessings of the Gods", "Angel Note", ""],
+]
+links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
+
+[361]
+catalognumber = ""
+date = ""
+album = "Senren*Banka Original Soundtrack Disc 2"
+tracks = [
+    [1, "Koi Kou Enishi (Game Size)", "KOTOKO", ""],
+    [2, "Tooryanse~Sweet Spontaneity <Instrument Version>", "Angel Note", ""],
+    [3, "Mako's Everyday Life <Instrument Version>", "Angel Note", ""],
+    [4, "A Single Bond <Instrument Version>", "Angel Note", ""],
+    [5, "Blue Sky <Instrument Version>", "Angel Note", ""],
+    [6, "My Cute Cousin", "Angel Note", ""],
+    [7, "Do You Like Your Hardworking Onee-san?", "Angel Note", ""],
+    [8, "Tooryanse~Sweet Spontaneity <Quiet Version>", "Angel Note", ""],
+    [9, "Mako's Everyday Life <Quiet Version>", "Angel Note", ""],
+    [10, "A Single Bond <Quiet Version>", "Angel Note", ""],
+    [11, "Blue Sky <Quiet Version>", "Angel Note", ""],
+    [12, "Do You Like Your Hardworking Onee-san? <Quiet Version>", "Angel Note", ""],
+    [13, "Determination", "Angel Note", ""],
+    [14, "Koi Kou Enishi <Koto Version>", "Angel Note", ""],
+    [15, "Heartfelt Dawn", "Angel Note", ""],
+    [16, "Marriage", "Angel Note", ""],
+    [17, "Both Body and Soul", "Angel Note", ""],
+    [18, "Koi Kou Enishi <Piano Version>", "Angel Note", ""],
+    [19, "With Love and Gratitude (Game Size)", "榊原ゆい", ""],
+    [20, "Together (Game Size)", "Riryka", ""],
+    [21, "Two Silhouettes (Game SIze)", "春風まゆき", ""],
+    [22, "GIFT (Game Size)", "カサンドラ", ""],
+    [23, "Love Flower (Game Size)", "葉月", ""],
+    [24, "By Your Side (Game Size)", "tohko", ""],
+    [25, "Do You Like Your Hardworking Onee-san? <Shamisen Solo>", "Angel Note", ""],
+]
+links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
+
+[362]
+catalognumber = ""
+date = ""
+album = "Senren*Banka Original Soundtrack Disc 3"
+tracks = [
+    [1, "Koi Kou Enishi", "KOTOKO", ""],
+    [2, "With Love and Gratitude", "榊原ゆい", ""],
+    [3, "Together", "Riryka", ""],
+    [4, "Two Silhouettes", "春風まゆき", ""],
+    [5, "GIFT", "カサンドラ", ""],
+    [6, "Love Flower", "葉月", ""],
+    [7, "By Your Side", "tohko", ""],
+    [8, "Koi Kou Enishi (Karaoke Version)", "KOTOKO", ""],
+    [9, "With Love and Gratitude (Karaoke Version)", "榊原ゆい", ""],
+    [10, "Together (Karaoke Version)", "Riryka", ""],
+    [11, "Two Silhouettes (Karaoke Version)", "春風まゆき", ""],
+    [12, "GIFT (Karaoke Version)", "カサンドラ", ""],
+    [13, "Love Flower (Karaoke Version)", "葉月", ""],
+    [14, "By Your Side (Karaoke Version)", "tohko", ""],
+]
+links = ["https://beta.musicbrainz.org/release/892f13a5-4306-4734-98a6-68284b2cdbdd"]
