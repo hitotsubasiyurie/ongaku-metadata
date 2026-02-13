@@ -1,213 +1,4 @@
 [1]
-catalognumber = "BCXA-1123"
-date = "2016-05-27"
-album = "ガールズ&パンツァー 劇場版 SPECIAL CD ボコのうた"
-tracks = [
-    [1, "おいらボコだぜ!", "西住みほ(CV.渕上舞) & 島田愛里寿(CV.竹達彩奈)", 0],
-    [2, "おいらボコだぜ! (西住みほver.)", "西住みほ(CV.渕上舞)", 0],
-    [3, "おいらボコだぜ! (島田愛里寿ver.)", "島田愛里寿(CV.竹達彩奈)", 0],
-    [4, "おいらボコだぜ! (off vocal)", "西住みほ(CV.渕上舞) & 島田愛里寿(CV.竹達彩奈)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/3f665d52-d9bf-47a6-b660-59675a06b8d5", "https://vgmdb.net/album/57212"]
-
-[2]
-catalognumber = "LAPP-1113"
-date = "2019-11-27"
-album = "Acoustic Album naked garden 特典CD / ChouCho"
-tracks = [
-    [1, "Authentic symphony (Acoustic Live \"naked garden\" vol.9)", "", -1],
-    [2, "DreamRiser (Acoustic Live \"naked garden\" vol.9)", "", 0],
-]
-links = ["https://vgmdb.net/album/96130"]
-
-[3]
-catalognumber = "LACA-15644"
-date = "2017-03-29"
-album = "Fated Crown / 佐咲紗花"
-tracks = [
-    [1, "Oval Circus", "佐咲紗花", -1],
-    [2, "Duality", "佐咲紗花", -1],
-    [3, "Lyla", "佐咲紗花", -1],
-    [4, "High-Flying Future!!", "佐咲紗花", 0],
-    [5, "PARADICE BABY KISS", "佐咲紗花 with 三狐神囃子", -1],
-    [6, "FEEL✕ALIVE", "佐咲紗花", -1],
-    [7, "HOWLITE", "佐咲紗花", -1],
-    [8, "Linaria", "佐咲紗花", -1],
-    [9, "花紋 (Only SAYAKA ver.)", "佐咲紗花", -1],
-    [10, "WASTELANDERS", "佐咲紗花", -1],
-    [11, "EMERALD (Fated Crown ver.)", "佐咲紗花", -1],
-    [12, "Reworld", "佐咲紗花", -1],
-    [13, "Fated Crown", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/89738b0a-a7ed-4151-b091-3768cf4462b3", "https://vgmdb.net/album/66148"]
-
-[4]
-catalognumber = "LACM-14698"
-date = "2017-12-13"
-album = "Enter Enter MISSION! 最終章ver. / あんこうチーム"
-tracks = [
-    [1, "Enter Enter MISSION！最終章ver.", "あんこうチーム", 0],
-    [2, "Long and Shining Road", "あんこうチーム", 1],
-    [3, "Enter Enter MISSION！最終章ver. (Instrumental)", "あんこうチーム", 0],
-    [4, "Long and Shining Road (Instrumental)", "あんこうチーム", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0fca24cc-12cd-46fa-9b7e-7f2be9bf6ce0", "https://vgmdb.net/album/71410"]
-
-[5]
-catalognumber = ""
-date = "2017-01-22"
-album = "ガルパンメタル（とか）アレンジ"
-tracks = [
-    [1, "サッキヤルヴェン・ポルッカ", "", -1],
-    [2, "アメリカ野砲隊マーチ", "", 0],
-    [3, "カチューシャ", "", 0],
-    [4, "雪の進軍", "", 0],
-    [5, "おまけ", "", -1],
-]
-links = ["https://vgmdb.net/album/94609"]
-
-[6]
-catalognumber = "LACM-14694"
-date = "2017-12-06"
-album = "Grand symphony / 佐咲紗花"
-tracks = [
-    [1, "Grand symphony", "佐咲紗花", 0],
-    [2, "プラネタリー", "佐咲紗花", 0],
-    [3, "Grand symphony (off vocal)", "佐咲紗花", 0],
-    [4, "プラネタリー (off vocal)", "佐咲紗花", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8cd8217a-6564-4a03-b3ad-793bc86513be", "https://vgmdb.net/album/71411"]
-
-[7]
-catalognumber = ""
-date = "2017-12-30"
-album = "ガルパンメタル（とか）アレンジ２"
-tracks = [
-    [1, "when johnny comes marching home", "", -1],
-    [2, "British grenadiers", "", -1],
-    [3, "Le chant de l'oignon", "", -1],
-    [4, "battle hymn of the republic", "", -1],
-]
-links = ["https://vgmdb.net/album/94610"]
-
-[8]
-catalognumber = ""
-date = "2016-05-27"
-album = "ガールズ&パンツァー 劇場版 戦車トークCD"
-tracks = [
-    [1, "オープニング", "中村桜 & 上坂すみれ", -1],
-    [2, "ゲストトーク 鈴木貴昭(考証・スーパーバイザー)", "中村桜, 上坂すみれ & 鈴木貴昭", -1],
-    [3, "ゲストトーク 吉川和篤(ミリタリー監修)", "中村桜, 上坂すみれ & 吉川和篤", -1],
-    [4, "ゲストトーク 岡部いさく(軍事評論家)", "中村桜, 上坂すみれ & 岡部いさく", -1],
-    [5, "インターミッション", "中村桜 & 上坂すみれ", -1],
-    [6, "ゲストトーク 斎木伸生(考証・スーパーバイザー)", "中村桜, 上坂すみれ & 斎木伸生", -1],
-    [7, "ゲストトーク 杉山潔(プロデューサー)", "中村桜, 上坂すみれ & 杉山潔", -1],
-    [8, "エンディング", "中村桜 & 上坂すみれ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/8126d616-b1f7-4a25-ace7-3be96ae91085", "https://vgmdb.net/album/110737"]
-
-[9]
-catalognumber = ""
-date = "2016-06-26"
-album = "ようげん&みゅーじっく ~ガルパンのアコースティックギター・アレンジです！~"
-tracks = [
-    [1, "DreamRiser", "ようげん＆みゅーじっく", 0],
-    [2, "piece of youth", "ようげん＆みゅーじっく", 0],
-    [3, "Enter Enter MISSION !", "ようげん＆みゅーじっく", 0],
-    [4, "それゆけ！乙女の戦車道 ! !", "ようげん＆みゅーじっく", 0],
-    [5, "GloryStory", "ようげん＆みゅーじっく", 0],
-    [6, "大洗の潮騒はとても心地よいです！", "ようげん＆みゅーじっく", -1],
-    [7, "神社の林でことりサンチームが鳴いていました！", "ようげん＆みゅーじっく", -1],
-]
-links = ["https://beta.musicbrainz.org/release/cc524950-a3d8-411e-86a5-6c0c31c021a0", "https://vgmdb.net/album/61336"]
-
-[10]
-catalognumber = "LACA-35644"
-date = "2017-03-29"
-album = "Fated Crown / 佐咲紗花 Disc 1 (CD)"
-tracks = [
-    [1, "Oval Circus", "佐咲紗花", -1],
-    [2, "Duality", "佐咲紗花", -1],
-    [3, "Lyla", "佐咲紗花", -1],
-    [4, "High-Flying Future!!", "佐咲紗花", 0],
-    [5, "PARADICE BABY KISS", "佐咲紗花 with 三狐神囃子", -1],
-    [6, "FEEL×ALIVE", "佐咲紗花", -1],
-    [7, "HOWLITE", "佐咲紗花", -1],
-    [8, "Linaria", "佐咲紗花", -1],
-    [9, "花紋 (Only SAYAKA ver.)", "佐咲紗花", -1],
-    [10, "WASTELANDERS", "佐咲紗花", -1],
-    [11, "EMERALD (Fated Crown ver.)", "佐咲紗花", -1],
-    [12, "Reworld", "佐咲紗花", -1],
-    [13, "Fated Crown", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/4d5cb49f-2abb-4e2d-aabd-ae9c9c27faef", "https://vgmdb.net/album/66147"]
-
-[11]
-catalognumber = "LACA-35644"
-date = "2017-03-29"
-album = "Fated Crown / 佐咲紗花 Disc 2 (DVD)"
-tracks = [
-    [1, "Fated Crown (Music Video)", "佐咲紗花", -1],
-    [2, "Making of Fated Crown", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/4d5cb49f-2abb-4e2d-aabd-ae9c9c27faef", "https://vgmdb.net/album/66147"]
-
-[12]
-catalognumber = "LACA-15646"
-date = "2017-06-21"
-album = "GIRLS und PANZER CHARACTER SONG ALBUM 「わたしたちも音楽道、はじめました!」"
-tracks = [
-    [1, "I Found My Way", "西住みほ(渕上舞)", 0],
-    [2, "Queen of Quality Season", "ダージリン(喜多村英梨) meets オレンジペコ(石原舞)", 0],
-    [3, "OK! GO AHEAD!", "ケイ(川澄綾子)", 0],
-    [4, "Nuovo Armati Paradiso〜新しい戦車の世界", "アンチョビ(吉岡麻耶)", 0],
-    [5, "великая Катюша〜偉大なるカチューシャ", "カチューシャ(金元寿子)", 0],
-    [6, "叭喇撃突ケ響", "西絹代(瀬戸麻沙美)", 0],
-    [7, "Tärkeintä elämässä〜人生の大切なこと", "ミカ(能登麻美子)", 0],
-    [8, "Wonderland-go-round", "島田愛里寿(竹達彩奈)", 0],
-    [9, "Mein Weg und Dein Weg〜私の道、お前の道", "西住まほ(田中理恵)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2fee4918-4e79-407e-8ce7-968db879e930", "https://vgmdb.net/album/69140"]
-
-[13]
-catalognumber = "LACA-15548"
-date = "2016-05-11"
-album = "『ガールズ&パンツァー 劇場版』ドラマCD5 新しい友達ができました!"
-tracks = [
-    [1, "聖グロの戦車道はあくまで優雅、なのですわ！", "[dialogue]", -1],
-    [2, "クラーラの秘密", "[dialogue]", -1],
-    [3, "継続の夏休み", "[dialogue]", -1],
-    [4, "知波単学園異常なし！", "[dialogue]", -1],
-    [5, "ボコ、やります！", "[dialogue]", -1],
-    [6, "愛里寿隊長の事をもっと知りたい大作戦！", "[dialogue]", -1],
-]
-links = ["https://beta.musicbrainz.org/release/f4d5e6bc-2770-47fd-9008-0f18dc7aef94", "https://vgmdb.net/album/57149"]
-
-[14]
-catalognumber = "LACM-24436"
-date = "2023-10-04"
-album = "Never Say Goodbye / ChouCho"
-tracks = [
-    [1, "Never Say Goodbye", "ChouCho", -1],
-    [2, "Grand symphony", "ChouCho", 0],
-    [3, "Never Say Goodbye (off vocal)", "ChouCho", -1],
-    [4, "Grand symphony (off vocal)", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/e3854cb2-60a8-4e02-be63-30c9d10aad8f", "https://vgmdb.net/album/130709"]
-
-[15]
-catalognumber = "LACM-14033"
-date = "2012-12-05"
-album = "ガールズ&パンツァー キャラクターソング Vol.3 咲いたはな / 五十鈴華(CV.尾崎真実)"
-tracks = [
-    [1, "咲いたはな", "五十鈴華(CV.尾崎真実)", 0],
-    [2, "なんて素敵な理想像！", "五十鈴華(CV.尾崎真実)", 1],
-    [3, "咲いたはな (Instrumental)", "五十鈴華(CV.尾崎真実)", 0],
-    [4, "なんて素敵な理想像！ (Instrumental)", "五十鈴華(CV.尾崎真実)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/1add1c78-f176-415f-84a8-b50bb274c65b", "https://vgmdb.net/album/37266"]
-
-[16]
 catalognumber = "LACM-14011"
 date = "2012-10-24"
 album = "DreamRiser / ChouCho"
@@ -221,288 +12,30 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8b5d1ebd-f970-47de-8b5a-fb21ab8a6436", "https://vgmdb.net/album/34576"]
 
-[17]
-catalognumber = "LACA-35680"
-date = "2018-01-17"
-album = "color of time / ChouCho [Limited Edition] Disc 1 (CD)"
+[2]
+catalognumber = "LACM-34011"
+date = "2012-10-24"
+album = "DreamRiser / ChouCho [Limited Edition] Vocal"
 tracks = [
-    [1, "color of time", "ChouCho", -1],
-    [2, "kaleidoscope", "ChouCho", -1],
-    [3, "Elemental World", "ChouCho", -1],
-    [4, "ワンダーテイル", "ChouCho", -1],
-    [5, "cuddle", "ChouCho", -1],
-    [6, "セフィロトの木", "ChouCho", -1],
-    [7, "one and only", "ChouCho", -1],
-    [8, "Asterism", "ChouCho", -1],
-    [9, "アンダンテ", "ChouCho", -1],
-    [10, "薄紅の月", "ChouCho", -1],
-    [11, "明日の君さえいればいい。", "ChouCho", -1],
-    [12, "アリア", "ChouCho", -1],
-    [13, "searchlight", "ChouCho", -1],
+    [1, "DreamRiser", "ChouCho", 0],
+    [2, "かみつれを手に", "ChouCho", 0],
+    [3, "life is blue back", "ChouCho", 0],
+    [4, "DreamRiser (OFF VOCAL)", "ChouCho", 0],
+    [5, "かみつれを手に (OFF VOCAL)", "ChouCho", 0],
+    [6, "life is blue back (OFF VOCAL)", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/54438ca4-2114-44d5-aace-8fca63e137a3", "https://vgmdb.net/album/72071"]
+links = ["https://beta.musicbrainz.org/release/9a08df0c-4d5d-4449-a86e-69f74c4d1dab", "https://vgmdb.net/album/34577"]
 
-[18]
-catalognumber = "LACA-35680"
-date = "2018-01-17"
-album = "color of time / ChouCho [Limited Edition] Disc 2 (Blu-ray)"
+[3]
+catalognumber = "LACM-34011"
+date = "2012-10-24"
+album = "DreamRiser / ChouCho [Limited Edition] Video"
 tracks = [
-    [1, "color of time", "ChouCho", -1],
-    [2, "Asterism", "ChouCho", -1],
-    [3, "Elemental world", "ChouCho", -1],
-    [4, "kaleidoscope", "ChouCho", -1],
-    [5, "bouquet", "ChouCho", -1],
-    [6, "starlog", "ChouCho", -1],
-    [7, "DreamRiser", "ChouCho", 0],
-    [8, "優しさの理由", "ChouCho", -1],
-    [9, "piece of youth", "ChouCho", 0],
+    [1, "DreamRiser (Music Clip)", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/54438ca4-2114-44d5-aace-8fca63e137a3", "https://vgmdb.net/album/72071"]
+links = ["https://beta.musicbrainz.org/release/9a08df0c-4d5d-4449-a86e-69f74c4d1dab", "https://vgmdb.net/album/34577"]
 
-[19]
-catalognumber = "LACM-14034"
-date = "2012-12-05"
-album = "ガールズ&パンツァー キャラクターソング Vol.4 戦車道恋唄! / 秋山優花里(CV.中上育実)"
-tracks = [
-    [1, "戦車道恋唄！", "秋山優花里(CV.中上育実)", 0],
-    [2, "1PLDK", "秋山優花里(CV.中上育実)", 1],
-    [3, "戦車道恋唄！ (Instrumental)", "秋山優花里(CV.中上育実)", 0],
-    [4, "1PLDK (Instrumental)", "秋山優花里(CV.中上育実)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2662e0e3-6a47-416c-8740-f88d237d076f", "https://vgmdb.net/album/37267"]
-
-[20]
-catalognumber = "LACA-15366"
-date = "2013-12-25"
-album = "secretgarden / ChouCho"
-tracks = [
-    [1, "secretgarden", "ChouCho", -1],
-    [2, "DreamRiser", "ChouCho", 0],
-    [3, "空とキミのメッセージ", "ChouCho", -1],
-    [4, "ばらのナミダ", "ChouCho", -1],
-    [5, "光", "ChouCho", -1],
-    [6, "Cocoon", "ChouCho", -1],
-    [7, "暮れ色のキャンバス 〜secretgarden mix〜", "ChouCho", -1],
-    [8, "kagami", "ChouCho", -1],
-    [9, "Eternal waltz", "ChouCho", -1],
-    [10, "かみつれを手に", "ChouCho", 0],
-    [11, "earthlit", "ChouCho", -1],
-    [12, "starlog", "ChouCho", -1],
-]
-links = ["https://beta.musicbrainz.org/release/62407d65-8c0e-4533-83de-2def2f20a815", "https://vgmdb.net/album/42978"]
-
-[21]
-catalognumber = "LACA-9436"
-date = "2016-02-10"
-album = "ガールズ＆パンツァー オーケストラ・コンサート～Herbst Musikfest 2015～ Disc 1 [LACA-9436]"
-tracks = [
-    [1, "戦車道行進曲!パンツァーフォー!", "東京フィルハーモニー交響楽団", 0],
-    [2, "「これからの毎日が、本当に楽しみ!」 (Monologue)", "渕上舞", 0],
-    [3, "新しい朝の始まりです!～こんな普通の学園生活って素敵です!", "東京フィルハーモニー交響楽団", 0],
-    [4, "横暴は生徒会に与えられた正当な権利です!", "東京フィルハーモニー交響楽団", 0],
-    [5, "生徒会、悲壮な決意とともに進みます!", "東京フィルハーモニー交響楽団", 0],
-    [6, "戦車の知識では誰にも負けません!", "東京フィルハーモニー交響楽団", 0],
-    [7, "戦車を可愛くデコレーションしちゃいます!", "東京フィルハーモニー交響楽団", 0],
-    [8, "戦車、乗ります!", "東京フィルハーモニー交響楽団", 0],
-    [9, "学園艦は今日も勇壮に海原を進みます!", "東京フィルハーモニー交響楽団", 0],
-    [10, "「どこまでやれるかわからないけど、精一杯やってみよう!」 (Monologue)", "渕上舞", 0],
-    [11, "ブリティッシュ・グレナディアーズ", "東京フィルハーモニー交響楽団", 0],
-    [12, "いざ!試合にのぞみます!", "東京フィルハーモニー交響楽団", 0],
-    [13, "敵戦車進軍してきます!", "東京フィルハーモニー交響楽団", 0],
-    [14, "「もう少し戦車道続けてみるね、お姉ちゃん」 (Monologue)", "渕上舞", 0],
-    [15, "リパブリック讃歌", "東京フィルハーモニー交響楽団", 0],
-    [16, "開会式です!～栄光の戦車道全国大会始まります!", "東京フィルハーモニー交響楽団", 0],
-    [17, "私、いやな予感がします!", "東京フィルハーモニー交響楽団", 0],
-    [18, "アメリカ野砲隊マーチ", "東京フィルハーモニー交響楽団", 0],
-    [19, "「いつか私も、私の気持ち、ちゃんと話せるようになりたいな」 (Monologue)", "渕上舞", 0],
-    [20, "これが友情ですね!", "東京フィルハーモニー交響楽団", 0],
-    [21, "理由があります...", "東京フィルハーモニー交響楽団", 0],
-    [22, "秋山優花里のアンツィオ校潜入大作戦です!", "東京フィルハーモニー交響楽団", 0],
-    [23, "Le Fiamme Nere", "東京フィルハーモニー交響楽団", 0],
-    [24, "フニクリ・フニクラ", "東京フィルハーモニー交響楽団", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5e077422-1dfd-4130-80fb-ce0e9e6fb561", "https://vgmdb.net/album/55526"]
-
-[22]
-catalognumber = "LACA-9437"
-date = "2016-02-10"
-album = "ガールズ＆パンツァー オーケストラ・コンサート～Herbst Musikfest 2015～ Disc 2 [LACA-9437]"
-tracks = [
-    [1, "金平糖の精の踊り～カチューシャ", "東京フィルハーモニー交響楽団", 0],
-    [2, "大洗女子学園チーム前進します!", "東京フィルハーモニー交響楽団", 0],
-    [3, "ポーリュシュカ・ポーレ", "東京フィルハーモニー交響楽団", 0],
-    [4, "「落ち着いて考えよう、今私に、私たちにできること」 (Monologue)", "渕上舞", 0],
-    [5, "あんこう音頭", "佐咲紗花, 東京フィルハーモニー交響楽団", 0],
-    [6, "「私はもう、戦車道はやめないよ」 (Monologue)", "渕上舞", 0],
-    [7, "昨日の敵は今日の友です!", "東京フィルハーモニー交響楽団", 0],
-    [8, "エーリカ", "東京フィルハーモニー交響楽団", 0],
-    [9, "乙女のたしなみ戦車道マーチ!", "東京フィルハーモニー交響楽団", 0],
-    [10, "パンツァー・リート", "東京フィルハーモニー交響楽団", 0],
-    [11, "息を殺して待ちぶせします!", "東京フィルハーモニー交響楽団", 0],
-    [12, "戦車道とは女子としての道を極めることでもあります!", "東京フィルハーモニー交響楽団", 0],
-    [13, "緊迫する戦況です!", "東京フィルハーモニー交響楽団", 0],
-    [14, "戦線は膠着状態です!", "東京フィルハーモニー交響楽団", 0],
-    [15, "戦車道アンセムです!", "東京フィルハーモニー交響楽団", 0],
-    [16, "Enter Enter MISSION! (Orchestra Ver.)", "東京フィルハーモニー交響楽団", 0],
-    [17, "DreamRiser", "ChouCho, 東京フィルハーモニー交響楽団", 0],
-    [18, "GloryStory", "ChouCho, 東京フィルハーモニー交響楽団", 0],
-    [19, "Enter Enter MISSION! (Herbst Musikfest 2015 Ver.)", "渕上舞, ChouCho, 佐咲紗花, 東京フィルハーモニー交響楽団", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5e077422-1dfd-4130-80fb-ce0e9e6fb561", "https://vgmdb.net/album/55526"]
-
-[23]
-catalognumber = "LAVZ-10003"
-date = "2021-11-01"
-album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 1 [LAVZ-10003]"
-tracks = [
-    [0, "A-Side", "", -1],
-    [0, "Side length 15:00", "", -1],
-    [0, "B-Side", "", -1],
-    [1, "戦車道行進曲!パンツァーフォー!", "", 0],
-    [2, "乙女のたしなみ戦車道マーチ!", "", 0],
-    [3, "大洗女子学園チーム前進します!", "", 0],
-    [4, "戦車、乗ります!", "", 0],
-    [5, "学園艦は今日も勇壮に海原を進みます!", "", 0],
-    [6, "新しい朝の始まりです!", "", 0],
-    [7, "転校してきて良かったです!", "", 0],
-    [8, "私、モテモテで困ってます!?", "", 0],
-    [9, "戦車の知識では誰にも負けません!", "", 0],
-    [10, "秘めた想いに触れました!", "", 0],
-    [11, "おばぁに会いに行きます!", "", 0],
-    [12, "こんな普通の学園生活って素敵です!", "", 0],
-    [13, "私、いやな予感がします!", "", 0],
-    [14, "横暴は生徒会に与えられた正当な権利です!", "", 0],
-    [15, "戦車道とは女子としての道を極めることでもあります!", "", 0],
-    [16, "生徒会、悲壮な決意とともに進みます!", "", 0],
-    [17, "バレー部復活をかけて戦います!", "", 0],
-    [18, "私たち、精一杯頑張ります!", "", 0],
-    [19, "戦車を可愛くデコレーションしちゃいます!", "", 0],
-]
-links = ["https://vgmdb.net/album/117892"]
-
-[24]
-catalognumber = "LAVZ-10003"
-date = "2021-11-01"
-album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 2 [LAVZ-10005]"
-tracks = [
-    [0, "A-Side", "", -1],
-    [0, "Side length 14:41", "", -1],
-    [0, "B-Side", "", -1],
-    [1, "アウトレットでお買い物します!", "", 0],
-    [2, "戦車喫茶に来ました!", "", 0],
-    [3, "スポーツニュースは今日も戦車道を報じています!", "", 0],
-    [4, "理由があります…", "", 0],
-    [5, "私、決めます!", "", 0],
-    [6, "これが友情ですね!", "", 0],
-    [7, "明日に備えて寝ます!", "", 0],
-    [8, "開会式です!", "", 0],
-    [9, "栄光の戦車道全国大会始まります!", "", 0],
-    [10, "いざ!試合にのぞみます!", "", 0],
-    [11, "敵戦車進軍してきます!", "", 0],
-    [12, "息を殺して待ちぶせします!", "", 0],
-    [13, "戦線は膠着状態です!", "", 0],
-    [14, "緊迫する戦況です!", "", 0],
-    [15, "健闘を讃え合います!", "", 0],
-    [16, "昨日の敵は今日の友です!", "", 0],
-    [17, "みんな最高の友だちです!", "", 0],
-    [18, "戦車道アンセムです!", "", 0],
-]
-links = ["https://vgmdb.net/album/117892"]
-
-[25]
-catalognumber = "LAVZ-10003"
-date = "2021-11-01"
-album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 3 [LAVZ-10006]"
-tracks = [
-    [0, "A-Side", "", -1],
-    [0, "Side length 15:31", "", -1],
-    [0, "B-Side", "", -1],
-    [1, "それゆけ!乙女の戦車道!! Wind Orchestra ver.", "", 0],
-    [2, "ブリティッシュ・グレナディアーズ", "", 0],
-    [3, "リパブリック讃歌", "", 0],
-    [4, "アメリカ野砲隊マーチ", "", 0],
-    [5, "M4シャーマン中戦車 A GO!GO!", "", 0],
-    [6, "パンツァー・リート", "", 0],
-    [7, "エーリカ", "", 0],
-    [8, "ポーリュシュカ・ポーレ", "", 0],
-    [9, "カチューシャ", "", 0],
-    [10, "カチューシャ Sung by カチューシャ&ノンナ", "", 0],
-    [11, "あんこう音頭", "", 0],
-    [12, "DreamRiser (TV size)", "", 0],
-    [13, "Enter Enter MISSION! (TV size)", "", 0],
-]
-links = ["https://vgmdb.net/album/117892"]
-
-[26]
-catalognumber = "PJO-0003"
-date = "2017-12-29"
-album = "Precious Jazz Orchestra Plays Anime Standards vol.2"
-tracks = [
-    [1, "ツキヨミ", "Precious Jazz Orchestra", -1],
-    [2, "桜のあと (all quartets lead to the?)", "Precious Jazz Orchestra", -1],
-    [3, "God knows...", "Precious Jazz Orchestra", -1],
-    [4, "秘密基地", "Precious Jazz Orchestra", -1],
-    [5, "ループ", "Precious Jazz Orchestra", -1],
-    [6, "DreamRiser", "Precious Jazz Orchestra", 0],
-    [7, "真赤な誓い", "Precious Jazz Orchestra", -1],
-    [8, "君の知らない物語", "Precious Jazz Orchestra", -1],
-]
-links = ["https://beta.musicbrainz.org/release/a916ae3d-5e4e-45f5-893a-fb4cc394e8a5", "https://vgmdb.net/album/73691"]
-
-[27]
-catalognumber = "LACM-14032"
-date = "2012-11-21"
-album = "ガールズ&パンツァー キャラクターソング Vol.2 恋にLOVEして / 武部沙織(CV.茅野愛衣)"
-tracks = [
-    [1, "恋にLOVEして", "武部沙織(CV.茅野愛衣)", 0],
-    [2, "SUNNY GIRL", "武部沙織(CV.茅野愛衣)", 0],
-    [3, "恋にLOVEして (Instrumental)", "武部沙織(CV.茅野愛衣)", 0],
-    [4, "SUNNY GIRL (Instrumental)", "武部沙織(CV.茅野愛衣)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/68280419-c6f5-4f8e-937a-a4620fbc72b4", "https://vgmdb.net/album/37265"]
-
-[28]
-catalognumber = "LACA-39959"
-date = "2023-09-27"
-album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム [初回限定盤] Disc 1 [LACA-39959]"
-tracks = [
-    [1, "DreamRiser", "", 0],
-    [2, "眠れる本能", "", 0],
-    [3, "one and only", "", -1],
-    [4, "あんこう音頭", "", 0],
-    [5, "High-Flying Future!!", "", 0],
-    [6, "希望の絆", "", 0],
-    [7, "Still a long way to go", "", 0],
-]
-links = ["https://vgmdb.net/album/130484"]
-
-[29]
-catalognumber = "LACA-39960"
-date = "2023-09-27"
-album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム [初回限定盤] Disc 2 [LACA-39960]"
-tracks = [
-    [1, "Enter Enter MISSION!", "", 0],
-    [2, "それゆけ! 乙女の戦車道!!", "", 0],
-    [3, "GOING PANZER WAY!", "", 0],
-    [4, "DreamRiser あんこう ver.", "", 0],
-    [5, "戦車道行進曲", "", 0],
-    [6, "雪の進軍", "", 0],
-    [7, "SCHOOL GIRL、はじめます!", "", 0],
-    [8, "infinity orbit", "", 0],
-    [9, "恋にLOVEして", "", 0],
-    [10, "SUNNY GIRL", "", 0],
-    [11, "咲いたはな", "", 0],
-    [12, "なんて素敵な理想像!", "", 0],
-    [13, "戦車道恋唄!", "", 0],
-    [14, "1PLDK", "", 0],
-    [15, "メランコリック", "", 0],
-    [16, "朝の戦い", "", 0],
-    [17, "カチューシャ Sung by カチューシャ＆ノンナ", "", 0],
-    [18, "Enter Enter MISSION! 第63回戦車道全国高校生大会ver.", "", 0],
-]
-links = ["https://vgmdb.net/album/130484"]
-
-[30]
+[4]
 catalognumber = "LACM-14019"
 date = "2012-11-07"
 album = "Enter Enter MISSION!"
@@ -514,70 +47,67 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dbacc1f8-b79a-4501-8fa9-7e81a9a5d231", "https://vgmdb.net/album/34578"]
 
-[31]
-catalognumber = "LACA-9548"
-date = "2017-12-20"
-album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 1 [LACA-9548]"
+[5]
+catalognumber = "LACM-14032"
+date = "2012-11-21"
+album = "ガールズ&パンツァー キャラクターソング Vol.2 恋にLOVEして / 武部沙織(CV.茅野愛衣)"
 tracks = [
-    [1, "GloryStory", "ChouCho", 0],
-    [2, "エキシビションです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [3, "学園艦とお別れです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [4, "潮の香りもあまりしません", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [5, "ボコミュージアムです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [6, "試合が決定しました!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [7, "試合が始まります！～Interlude", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [1, "恋にLOVEして", "武部沙織(CV.茅野愛衣)", 0],
+    [2, "SUNNY GIRL", "武部沙織(CV.茅野愛衣)", 0],
+    [3, "恋にLOVEして (Instrumental)", "武部沙織(CV.茅野愛衣)", 0],
+    [4, "SUNNY GIRL (Instrumental)", "武部沙織(CV.茅野愛衣)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+links = ["https://beta.musicbrainz.org/release/68280419-c6f5-4f8e-937a-a4620fbc72b4", "https://vgmdb.net/album/37265"]
 
-[32]
-catalognumber = "LACA-9549"
-date = "2017-12-20"
-album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 2 [LACA-9549]"
+[6]
+catalognumber = "LACM-14031"
+date = "2012-11-21"
+album = "ガールズ&パンツァー キャラクターソング Vol.1 SCHOOL GIRL、はじめます! / 西住みほ(CV.渕上舞)"
 tracks = [
-    [1, "ファンファーレ～こっつん作戦開始します!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [2, "包囲されています!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [3, "どんぐり小隊の活躍です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [4, "私たちにできる戦いをしましょう!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [5, "ボコボコになっても立ち向かいます!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [6, "決戦です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [7, "大洗女子学園の勝利です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [8, "piece of youth", "ChouCho", 0],
+    [1, "SCHOOL GIRL、はじめます!", "西住みほ(CV.渕上舞)", 1],
+    [2, "infinity orbit", "西住みほ(CV.渕上舞)", 1],
+    [3, "SCHOOL GIRL、はじめます! (Instrumental)", "西住みほ(CV.渕上舞)", 0],
+    [4, "infinity orbit (Instrumental)", "西住みほ(CV.渕上舞)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+links = ["https://beta.musicbrainz.org/release/874a3e2c-a429-4709-8597-730325b0b509", "https://vgmdb.net/album/37264"]
 
-[33]
-catalognumber = "LACA-9550"
-date = "2017-12-20"
-album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 3 [LACA-9550]"
+[7]
+catalognumber = "LACM-14033"
+date = "2012-12-05"
+album = "ガールズ&パンツァー キャラクターソング Vol.3 咲いたはな / 五十鈴華(CV.尾崎真実)"
 tracks = [
-    [1, "無双です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
-    [2, "DreamRiser", "ChouCho", 0],
-    [3, "Grand symphony", "佐咲紗花", 0],
-    [4, "Enter Enter MISSION!", "ChouCho&佐咲紗花", 0],
+    [1, "咲いたはな", "五十鈴華(CV.尾崎真実)", 0],
+    [2, "なんて素敵な理想像！", "五十鈴華(CV.尾崎真実)", 1],
+    [3, "咲いたはな (Instrumental)", "五十鈴華(CV.尾崎真実)", 0],
+    [4, "なんて素敵な理想像！ (Instrumental)", "五十鈴華(CV.尾崎真実)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+links = ["https://beta.musicbrainz.org/release/1add1c78-f176-415f-84a8-b50bb274c65b", "https://vgmdb.net/album/37266"]
 
-[34]
-catalognumber = "LACA-15326"
-date = "2013-08-07"
-album = "TVアニメ『ガールズ&パンツァー』ファンディスクCD"
+[8]
+catalognumber = "LACM-14034"
+date = "2012-12-05"
+album = "ガールズ&パンツァー キャラクターソング Vol.4 戦車道恋唄! / 秋山優花里(CV.中上育実)"
 tracks = [
-    [1, "総合火力演習です！", "西住みほ(CV.渕上舞), 秋山優花里(CV.中上育実), ダージリン(CV.喜多村英梨), 蝶野亜美(CV.椎名へきる), 西住まほ(CV.田中理恵), ケイ(CV.川澄綾子), アンチョビ(CV.吉岡麻耶) & カチューシャ(CV.金元寿子)", 0],
-    [2, "戦車道行進曲", "あんこうチーム", 0],
-    [3, "雪の進軍", "あんこうチーム", 0],
-    [4, "進軍する聖グロリアーナと囮となるIV号 (一話より)", "小山恭正", 0],
-    [5, "IV号、吊り橋の上の戦い (３話より)", "小山恭正", 0],
-    [6, "大洗町市街戦。逃げるIV号と追うマチルダII ～ チャーチルとの一騎打ち (４話より)", "小山恭正", 0],
-    [7, "ファイアフライ１７ポンド砲声 ～ 稜線射撃とIV号被弾 (６話より)", "小山恭正", 0],
-    [8, "雪上の戦い１ 追撃、そして敵の包囲網の中へ・・・。 (８話より)", "小山恭正", 0],
-    [9, "雪上の戦い２ 敵包囲網を突破せよ！ところてん作戦開始。 (９話より)", "小山恭正", 0],
-    [10, "マウスの威容 ～ マウス撃破！ (１１話より)", "小山恭正", 0],
-    [11, "パンツァーチェイス！市街地を駆ける八九式！ (１２話より)", "小山恭正", 0],
-    [12, "最後の戦い！ポルシェティーガー仁王立ちと、みほ・まほ一騎打ち！ (１２話より)", "小山恭正", 0],
+    [1, "戦車道恋唄！", "秋山優花里(CV.中上育実)", 0],
+    [2, "1PLDK", "秋山優花里(CV.中上育実)", 1],
+    [3, "戦車道恋唄！ (Instrumental)", "秋山優花里(CV.中上育実)", 0],
+    [4, "1PLDK (Instrumental)", "秋山優花里(CV.中上育実)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/a94279ea-49b2-4dd9-b126-d77363b0ad1f", "https://vgmdb.net/album/39929"]
+links = ["https://beta.musicbrainz.org/release/2662e0e3-6a47-416c-8740-f88d237d076f", "https://vgmdb.net/album/37267"]
 
-[35]
+[9]
+catalognumber = "LACM-14035"
+date = "2012-12-05"
+album = "ガールズ&パンツァー キャラクターソング Vol.5 メランコリック / 冷泉麻子(CV.井口裕香)"
+tracks = [
+    [1, "メランコリック", "冷泉麻子(CV.井口裕香)", 1],
+    [2, "朝の戦い", "冷泉麻子(CV.井口裕香)", 1],
+    [3, "メランコリック (Instrumental)", "冷泉麻子(CV.井口裕香)", 0],
+    [4, "朝の戦い (Instrumental)", "冷泉麻子(CV.井口裕香)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9ad2b387-2c96-45b1-9b73-4cd0d598ba53", "https://vgmdb.net/album/37268"]
+
+[10]
 catalognumber = "LACA-9256"
 date = "2012-12-26"
 album = "ガールズ&パンツァー オリジナル・サウンド・トラック Original Soundtrack, Vocal"
@@ -622,7 +152,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c9c575b5-9f58-46ff-aa71-569828e2bfa3", "https://vgmdb.net/album/35777"]
 
-[36]
+[11]
 catalognumber = "LACA-9257"
 date = "2012-12-26"
 album = "ガールズ&パンツァー オリジナル・サウンド・トラック Original Soundtrack"
@@ -643,30 +173,98 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c9c575b5-9f58-46ff-aa71-569828e2bfa3", "https://vgmdb.net/album/35777"]
 
-[37]
-catalognumber = "LACM-34011"
-date = "2012-10-24"
-album = "DreamRiser / ChouCho [Limited Edition] Vocal"
+[12]
+catalognumber = "LACA-15301"
+date = "2013-05-29"
+album = "ガールズ＆パンツァー ドラマCD 今度はドラマCDです!"
 tracks = [
-    [1, "DreamRiser", "ChouCho", 0],
-    [2, "かみつれを手に", "ChouCho", 0],
-    [3, "life is blue back", "ChouCho", 0],
-    [4, "DreamRiser (OFF VOCAL)", "ChouCho", 0],
-    [5, "かみつれを手に (OFF VOCAL)", "ChouCho", 0],
-    [6, "life is blue back (OFF VOCAL)", "ChouCho", 0],
+    [1, "クイズ大会です！", "[dialogue]", -1],
+    [2, "風紀です！", "[dialogue]", -1],
+    [3, "自動車です！", "[dialogue]", -1],
+    [4, "ダージリン様の格言集です！", "[dialogue]", -1],
+    [5, "プラウダＶＳサンダースです！", "[dialogue]", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/9a08df0c-4d5d-4449-a86e-69f74c4d1dab", "https://vgmdb.net/album/34577"]
+links = ["https://beta.musicbrainz.org/release/8d3b2623-a13b-4963-8efb-a6a08dbfcd58", "https://vgmdb.net/album/39200"]
 
-[38]
-catalognumber = "LACM-34011"
-date = "2012-10-24"
-album = "DreamRiser / ChouCho [Limited Edition] Video"
+[13]
+catalognumber = "12163"
+date = "2013-07-27"
+album = "不肖・秋山優花里の戦車講座 ～番外編～"
 tracks = [
-    [1, "DreamRiser (Music Clip)", "ChouCho", 0],
+    [1, "不肖・秋山優花里の戦車講座 ～番外編～ 決勝戦を終えた秋山優花里のひとり語り", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/9a08df0c-4d5d-4449-a86e-69f74c4d1dab", "https://vgmdb.net/album/34577"]
+links = ["https://vgmdb.net/album/112101"]
 
-[39]
+[14]
+catalognumber = "LACA-15326"
+date = "2013-08-07"
+album = "TVアニメ『ガールズ&パンツァー』ファンディスクCD"
+tracks = [
+    [1, "総合火力演習です！", "西住みほ(CV.渕上舞), 秋山優花里(CV.中上育実), ダージリン(CV.喜多村英梨), 蝶野亜美(CV.椎名へきる), 西住まほ(CV.田中理恵), ケイ(CV.川澄綾子), アンチョビ(CV.吉岡麻耶) & カチューシャ(CV.金元寿子)", 0],
+    [2, "戦車道行進曲", "あんこうチーム", 0],
+    [3, "雪の進軍", "あんこうチーム", 0],
+    [4, "進軍する聖グロリアーナと囮となるIV号 (一話より)", "小山恭正", 0],
+    [5, "IV号、吊り橋の上の戦い (３話より)", "小山恭正", 0],
+    [6, "大洗町市街戦。逃げるIV号と追うマチルダII ～ チャーチルとの一騎打ち (４話より)", "小山恭正", 0],
+    [7, "ファイアフライ１７ポンド砲声 ～ 稜線射撃とIV号被弾 (６話より)", "小山恭正", 0],
+    [8, "雪上の戦い１ 追撃、そして敵の包囲網の中へ・・・。 (８話より)", "小山恭正", 0],
+    [9, "雪上の戦い２ 敵包囲網を突破せよ！ところてん作戦開始。 (９話より)", "小山恭正", 0],
+    [10, "マウスの威容 ～ マウス撃破！ (１１話より)", "小山恭正", 0],
+    [11, "パンツァーチェイス！市街地を駆ける八九式！ (１２話より)", "小山恭正", 0],
+    [12, "最後の戦い！ポルシェティーガー仁王立ちと、みほ・まほ一騎打ち！ (１２話より)", "小山恭正", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a94279ea-49b2-4dd9-b126-d77363b0ad1f", "https://vgmdb.net/album/39929"]
+
+[15]
+catalognumber = "LZM-2107"
+date = "2013-09-20"
+album = "あんこう音頭 大洗盆踊りver. / 佐咲紗花 Vocal"
+tracks = [
+    [1, "あんこう音頭 大洗盆踊りver.", "西住まほ(CV:渕上舞)、佐咲紗花", 0],
+    [2, "あんこう音頭 大洗盆踊りver.（カラオケ）", "西住まほ(CV:渕上舞)、佐咲紗花", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3d7d2e75-c935-4956-8597-c2b7e2db0e7f", "https://vgmdb.net/album/41064"]
+
+[16]
+catalognumber = "LZM-2108"
+date = "2013-09-20"
+album = "あんこう音頭 大洗盆踊りver. / 佐咲紗花 Arrangement, Vocal"
+tracks = [
+    [1, "渕上 舞のリアル・アンコウ・ウォー！", "西住まほ(CV:渕上舞)、佐咲紗花", -1],
+]
+links = ["https://beta.musicbrainz.org/release/3d7d2e75-c935-4956-8597-c2b7e2db0e7f", "https://vgmdb.net/album/41064"]
+
+[17]
+catalognumber = "BCXE-0779"
+date = "2013-09-25"
+album = "雪の進軍 / 中上育実 & 森谷里美"
+tracks = [
+    [1, "雪の進軍", "", 0],
+    [2, "雪の進軍 (Off Vocal)", "", 0],
+]
+links = ["https://vgmdb.net/album/39034"]
+
+[18]
+catalognumber = "LACA-15366"
+date = "2013-12-25"
+album = "secretgarden / ChouCho"
+tracks = [
+    [1, "secretgarden", "ChouCho", -1],
+    [2, "DreamRiser", "ChouCho", 0],
+    [3, "空とキミのメッセージ", "ChouCho", -1],
+    [4, "ばらのナミダ", "ChouCho", -1],
+    [5, "光", "ChouCho", -1],
+    [6, "Cocoon", "ChouCho", -1],
+    [7, "暮れ色のキャンバス 〜secretgarden mix〜", "ChouCho", -1],
+    [8, "kagami", "ChouCho", -1],
+    [9, "Eternal waltz", "ChouCho", -1],
+    [10, "かみつれを手に", "ChouCho", 0],
+    [11, "earthlit", "ChouCho", -1],
+    [12, "starlog", "ChouCho", -1],
+]
+links = ["https://beta.musicbrainz.org/release/62407d65-8c0e-4533-83de-2def2f20a815", "https://vgmdb.net/album/42978"]
+
+[19]
 catalognumber = "LACA-35366"
 date = "2013-12-25"
 album = "secretgarden / ChouCho [Limited Edition] Disc 1 (CD)"
@@ -686,7 +284,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4f49884e-f820-4f49-b683-5bf6290978ac", "https://vgmdb.net/album/42977"]
 
-[40]
+[20]
 catalognumber = "LACA-35366"
 date = "2013-12-25"
 album = "secretgarden / ChouCho [Limited Edition] Disc 2 (DVD)"
@@ -697,198 +295,72 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4f49884e-f820-4f49-b683-5bf6290978ac", "https://vgmdb.net/album/42977"]
 
-[41]
-catalognumber = "LACZ-10174"
-date = "2023-10-06"
-album = "Never Say Goodbye / ChouCho [販路限定LPサイズ盤]"
+[21]
+catalognumber = "LACA-15415"
+date = "2014-06-25"
+album = "TVアニメ ガールズ&パンツァー ドラマCD2 もうすぐアンツィオ戦です!"
 tracks = [
-    [1, "Never Say Goodbye", "ChouCho", -1],
-    [2, "Grand symphony", "ChouCho", 0],
-    [3, "Never Say Goodbye (off vocal)", "ChouCho", -1],
-    [4, "Grand symphony (off vocal)", "ChouCho", 0],
+    [1, "Episode 01 もうすぐアンツィオ戦です！ ２回戦に向けて", "[dialogue]", -1],
+    [2, "Episode 01 もうすぐアンツィオ戦です！ 大洗女子学園栄養科の実力", "[dialogue]", -1],
+    [3, "Episode 01 もうすぐアンツィオ戦です！ アンツィオってどんな学校？", "[dialogue]", -1],
+    [4, "Episode 01 もうすぐアンツィオ戦です！ デザートタイムはポジティブに", "[dialogue]", -1],
+    [5, "Episode 02 アルバイトです！ 決勝前の誤算", "[dialogue]", -1],
+    [6, "Episode 02 アルバイトです！ 三村時計店", "[dialogue]", -1],
+    [7, "Episode 02 アルバイトです！ ジョイショップタグチ", "[dialogue]", -1],
+    [8, "Episode 02 アルバイトです！ 江口又新堂", "[dialogue]", -1],
+    [9, "Episode 02 アルバイトです！ 黒澤藤右衛門商店", "[dialogue]", -1],
+    [10, "Episode 02 アルバイトです！ 丸五水産", "[dialogue]", -1],
+    [11, "Episode 02 アルバイトです！ ウスヤ精肉店", "[dialogue]", -1],
+    [12, "Episode 02 アルバイトです！ 大洗ホテル", "[dialogue]", -1],
+    [13, "Episode 02 アルバイトです！ 自動車部の校外活動", "[dialogue]", -1],
+    [14, "Episode 03 不肖・武部沙織のイタリア料理講座 不肖・武部沙織のイタリア料理講座", "[dialogue]", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/d3f40e11-b61a-4415-9bac-5c3793788790", "https://vgmdb.net/album/130710"]
+links = ["https://beta.musicbrainz.org/release/2b8c983a-546c-4690-8527-5a3836048bf1", "https://vgmdb.net/album/75911"]
 
-[42]
-catalognumber = "LACA-15301"
-date = "2013-05-29"
-album = "ガールズ＆パンツァー ドラマCD 今度はドラマCDです!"
+[22]
+catalognumber = "LACA-15427"
+date = "2014-08-06"
+album = "TVアニメ ガールズ&パンツァー ドラマCD3 あんこうチーム訪問します! Disc 1 [LACA-15427]"
 tracks = [
-    [1, "クイズ大会です！", "[dialogue]", -1],
-    [2, "風紀です！", "[dialogue]", -1],
-    [3, "自動車です！", "[dialogue]", -1],
-    [4, "ダージリン様の格言集です！", "[dialogue]", -1],
-    [5, "プラウダＶＳサンダースです！", "[dialogue]", -1],
+    [1, "また生徒会の無茶ぶりです", "[dialogue]", 0],
+    [2, "聖グロリアーナ訪問します", "[dialogue]", 0],
+    [3, "サンダース再びであります", "[dialogue]", 0],
+    [4, "アンツィオはおいしそうね", "[dialogue]", 0],
+    [5, "夜行列車は通ってないのか", "[dialogue]", 0],
+    [6, "少し久しぶりの黒森峰です", "[dialogue]", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/8d3b2623-a13b-4963-8efb-a6a08dbfcd58", "https://vgmdb.net/album/39200"]
+links = ["https://beta.musicbrainz.org/release/e21440ec-d5cf-4ebd-963a-5426985f3d86", "https://vgmdb.net/album/47922"]
 
-[43]
-catalognumber = "LACA-15799"
-date = "2019-11-13"
-album = "『ガールズ&パンツァー最終章』ドラマCD4 〜おやつの時間はまだかしら♪〜"
+[23]
+catalognumber = "LACA-15427"
+date = "2014-08-06"
+album = "TVアニメ ガールズ&パンツァー ドラマCD3 あんこうチーム訪問します! Disc 2 [LAPC-1070]"
 tracks = [
-    [1, "午後のマリー様", "", -1],
-    [2, "どん底の一日", "", -1],
-    [3, "ガールズ&パンツァー休み時間です! #4", "", -1],
-    [4, "アンチョビ細腕繁盛記 #4", "", -1],
+    [1, "秋山優花里のアンツィオ校潜入大作戦です！", "[dialogue]", 0],
+    [2, "これが本当のアンツィオ戦です！メドレー１（模擬戦～試合開始）", "[dialogue]", 0],
+    [3, "Le Fiamme Nere", "[dialogue]", 0],
+    [4, "これが本当のアンツィオ戦です！メドレー２（マカロニ作戦～試合終了）", "[dialogue]", 0],
+    [5, "フニクリ・フニクラ", "[dialogue]", 0],
 ]
-links = ["https://vgmdb.net/album/89231"]
+links = ["https://beta.musicbrainz.org/release/e21440ec-d5cf-4ebd-963a-5426985f3d86", "https://vgmdb.net/album/47922"]
 
-[44]
-catalognumber = "LACA-9862"
-date = "2021-12-08"
-album = "ChouCho the BEST Vocal Disc 1"
+[24]
+catalognumber = ""
+date = "2014-12-30"
+album = "音楽の時間です!"
 tracks = [
-    [1, "Aurorise", "ChouCho", -1],
-    [2, "優しさの理由", "ChouCho", -1],
-    [3, "Here comes The SUN", "ChouCho", -1],
-    [4, "Elemental World", "ChouCho", -1],
-    [5, "Authentic symphony", "ちょうちょ", -1],
-    [6, "風のソルフェ", "ChouCho", -1],
-    [7, "明日の君さえいればいい。", "ChouCho", -1],
-    [8, "夏の日と君の声", "ChouCho", -1],
-    [9, "ハルモニア", "ChouCho", -1],
-    [10, "フロンティア", "ChouCho", 0],
-    [11, "DreamRiser", "ChouCho", 0],
-    [12, "なないろのたね", "ChouCho", -1],
+    [1, "戦車道行進曲!パンツァーフォー!", "", 0],
+    [2, "健闘を讃え合います!", "", 0],
+    [3, "緊迫する戦況です!", "", 0],
+    [4, "みんな最高の友達です!", "", 0],
+    [5, "戦車道行進曲!パンツァーフォー!", "", 0],
+    [6, "健闘を讃え合います!", "", 0],
+    [7, "緊迫する戦況です!", "", 0],
+    [8, "みんな最高の友達です!", "", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113409"]
+links = ["https://vgmdb.net/album/86002"]
 
-[45]
-catalognumber = "LACA-9863"
-date = "2021-12-08"
-album = "ChouCho the BEST Vocal Disc 2"
-tracks = [
-    [1, "kaleidoscope", "ChouCho", -1],
-    [2, "BLESS YoUr NAME", "ChouCho", -1],
-    [3, "灰色のサーガ", "ChouCho", -1],
-    [4, "オレンジ色", "ChouCho", -1],
-    [5, "空想トライアングル", "ChouCho", -1],
-    [6, "Asterism", "ChouCho", -1],
-    [7, "空とキミのメッセージ", "ChouCho", -1],
-    [8, "あの空に還る未来で", "ChouCho", -1],
-    [9, "薄紅の月", "ChouCho", -1],
-    [10, "starlog", "ChouCho", -1],
-    [11, "カワルミライ", "ちょうちょ", -1],
-    [12, "piece of youth", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113409"]
-
-[46]
-catalognumber = "12163"
-date = "2013-07-27"
-album = "不肖・秋山優花里の戦車講座 ～番外編～"
-tracks = [
-    [1, "不肖・秋山優花里の戦車講座 ～番外編～ 決勝戦を終えた秋山優花里のひとり語り", "", -1],
-]
-links = ["https://vgmdb.net/album/112101"]
-
-[47]
-catalognumber = "LACA-9793"
-date = "2020-11-11"
-album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 1 [LACA-9793]"
-tracks = [
-    [1, "星彩のRipieno", "佐咲紗花", -1],
-    [2, "Lucky☆Racer", "佐咲紗花", -1],
-    [3, "Real Star☆", "佐咲紗花", -1],
-    [4, "fly away t.p.s", "佐咲紗花", -1],
-    [5, "Zzz", "佐咲紗花", -1],
-    [6, "Starting Again", "佐咲紗花", -1],
-    [7, "Reason why XXX", "佐咲紗花", -1],
-    [8, "Break your world", "佐咲紗花", -1],
-    [9, "Junction heart", "佐咲紗花", -1],
-    [10, "CHIASTOLITE", "佐咲紗花", -1],
-    [11, "DREAMLESS DIVER", "佐咲紗花", -1],
-    [12, "WASTELANDERS", "佐咲紗花", -1],
-    [13, "FEEL×ALIVE", "佐咲紗花", -1],
-    [14, "ID-0", "佐咲紗花", -1],
-    [15, "Grand symphony", "佐咲紗花", 0],
-    [16, "SCARLET MASTER", "佐咲紗花", -1],
-    [17, "ヒトツボシ", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
-
-[48]
-catalognumber = "LACA-9794"
-date = "2020-11-11"
-album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 2 [LACA-9794]"
-tracks = [
-    [1, "universal sky", "佐咲紗花", -1],
-    [2, "Shooting the future", "佐咲紗花", -1],
-    [3, "Fortune love", "佐咲紗花", -1],
-    [4, "ワールドエンド", "佐咲紗花", -1],
-    [5, "BLAZE MOMENT 〜紅蓮浄歌〜", "佐咲紗花", -1],
-    [6, "絶対☆強気主義", "佐咲紗花", -1],
-    [7, "恋さくミライ", "佐咲紗花", -1],
-    [8, "あいのうた", "佐咲紗花", -1],
-    [9, "happy!happy!スキャンダル!!", "佐咲紗花", -1],
-    [10, "Heart beat", "佐咲紗花", -1],
-    [11, "One Kiss One Love", "佐咲紗花", -1],
-    [12, "未来永劫", "佐咲紗花", -1],
-    [13, "infinite knots", "佐咲紗花", -1],
-    [14, "Golden Mission", "佐咲紗花", -1],
-    [15, "True Memories Symphony", "佐咲紗花", -1],
-    [16, "さくら、Reincarnation", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
-
-[49]
-catalognumber = "LACA-9795"
-date = "2020-11-11"
-album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 3 [LACA-9795]"
-tracks = [
-    [1, "Atlantico Blue", "佐咲紗花", -1],
-    [2, "Super Shiny Sensation!!!", "佐咲紗花", -1],
-    [3, "snow ring", "佐咲紗花", -1],
-    [4, "君と奏でるストーリー", "佐咲紗花", -1],
-    [5, "High-Flying Future!!", "佐咲紗花", 0],
-    [6, "花紋", "佐咲紗花 with 三狐神囃子", -1],
-    [7, "Rewritable", "佐咲紗花", -1],
-    [8, "Lily of Angels", "佐咲紗花", -1],
-    [9, "あんこう音頭", "佐咲紗花", 0],
-    [10, "sympathetic world", "佐咲紗花", -1],
-    [11, "流星ボイス", "佐咲紗花", -1],
-    [12, "渚JUMPING!!", "佐咲紗花", -1],
-    [13, "Twinkle Starlight", "佐咲紗花", -1],
-    [14, "日常0話エンディングテーマ", "佐咲紗花", -1],
-    [15, "恋花", "佐咲紗花", -1],
-    [16, "Go future", "佐咲紗花", -1],
-    [17, "ダイアログ", "佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
-
-[50]
-catalognumber = "LACM-14035"
-date = "2012-12-05"
-album = "ガールズ&パンツァー キャラクターソング Vol.5 メランコリック / 冷泉麻子(CV.井口裕香)"
-tracks = [
-    [1, "メランコリック", "冷泉麻子(CV.井口裕香)", 1],
-    [2, "朝の戦い", "冷泉麻子(CV.井口裕香)", 1],
-    [3, "メランコリック (Instrumental)", "冷泉麻子(CV.井口裕香)", 0],
-    [4, "朝の戦い (Instrumental)", "冷泉麻子(CV.井口裕香)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9ad2b387-2c96-45b1-9b73-4cd0d598ba53", "https://vgmdb.net/album/37268"]
-
-[51]
-catalognumber = "LZM-2107"
-date = "2013-09-20"
-album = "あんこう音頭 大洗盆踊りver. / 佐咲紗花 Vocal"
-tracks = [
-    [1, "あんこう音頭 大洗盆踊りver.", "西住まほ(CV:渕上舞)、佐咲紗花", 0],
-    [2, "あんこう音頭 大洗盆踊りver.（カラオケ）", "西住まほ(CV:渕上舞)、佐咲紗花", 0],
-]
-links = ["https://beta.musicbrainz.org/release/3d7d2e75-c935-4956-8597-c2b7e2db0e7f", "https://vgmdb.net/album/41064"]
-
-[52]
-catalognumber = "LZM-2108"
-date = "2013-09-20"
-album = "あんこう音頭 大洗盆踊りver. / 佐咲紗花 Arrangement, Vocal"
-tracks = [
-    [1, "渕上 舞のリアル・アンコウ・ウォー！", "西住まほ(CV:渕上舞)、佐咲紗花", -1],
-]
-links = ["https://beta.musicbrainz.org/release/3d7d2e75-c935-4956-8597-c2b7e2db0e7f", "https://vgmdb.net/album/41064"]
-
-[53]
+[25]
 catalognumber = "LACA-15519"
 date = "2015-10-28"
 album = "TVアニメ ガールズ&パンツァー ドラマCD4 月刊戦車道CD ～戦車女子特集します!～"
@@ -918,157 +390,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d2c8f591-c557-4b03-9f94-6ead63a09ff8", "https://vgmdb.net/album/53918"]
 
-[54]
-catalognumber = "LACA-35565, LACA-35566"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 1 (CD) [LACA-35565]"
-tracks = [
-    [1, "bouquet", "ChouCho", -1],
-    [2, "カワルミライ", "ちょうちょ", -1],
-    [3, "Authentic symphony", "ちょうちょ", -1],
-    [4, "ハルモニア", "ChouCho", -1],
-    [5, "Million of Bravery", "ChouCho", -1],
-    [6, "優しさの理由", "ChouCho", -1],
-    [7, "DreamRiser", "ChouCho", 0],
-    [8, "空とキミのメッセージ", "ChouCho", -1],
-    [9, "starlog", "ChouCho", -1],
-    [10, "光", "ChouCho", -1],
-    [11, "kagami", "ChouCho", -1],
-    [12, "あの空に還る未来で", "ChouCho", -1],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
-
-[55]
-catalognumber = "LACA-35565, LACA-35566"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 2 (CD) [LACA-35566]"
-tracks = [
-    [1, "夏の日と君の声", "ChouCho", -1],
-    [2, "ルーセントアイズ", "ChouCho", -1],
-    [3, "君へ贈る魔法", "ChouCho", -1],
-    [4, "Starting up", "ChouCho", -1],
-    [5, "大切な宝物", "ChouCho", -1],
-    [6, "BLESS YoUr NAME", "ChouCho", -1],
-    [7, "Hello, Hello, Hello", "ChouCho", -1],
-    [8, "piece of youth", "ChouCho", 0],
-    [9, "GloryStory", "ChouCho", 0],
-    [10, "空想トライアングル", "ChouCho", -1],
-    [11, "眠れる本能", "ChouCho", 0],
-    [12, "希望の絆 ~ChouCho solo ver.~", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
-
-[56]
-catalognumber = "LACA-35565, LACA-35566"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 3 (Blu-ray) [LAPD-1398]"
-tracks = [
-    [1, "bouquet", "", -1],
-    [2, "カワルミライ", "", -1],
-    [3, "Authentic symphony", "", -1],
-    [4, "優しさの理由", "", -1],
-    [5, "flyleaf", "", -1],
-    [6, "DreamRiser", "", 0],
-    [7, "空とキミのメッセージ", "", -1],
-    [8, "starlog", "", -1],
-    [9, "secretgarden", "", -1],
-    [10, "あの空に還る未来で", "", -1],
-    [11, "夏の日と君の声", "", -1],
-    [12, "BLESS YoUr NAME", "", -1],
-    [13, "piece of youth", "", 0],
-    [14, "空想トライアングル", "", -1],
-]
-links = ["https://vgmdb.net/album/58137"]
-
-[57]
-catalognumber = "LACA-15415"
-date = "2014-06-25"
-album = "TVアニメ ガールズ&パンツァー ドラマCD2 もうすぐアンツィオ戦です!"
-tracks = [
-    [1, "Episode 01 もうすぐアンツィオ戦です！ ２回戦に向けて", "[dialogue]", -1],
-    [2, "Episode 01 もうすぐアンツィオ戦です！ 大洗女子学園栄養科の実力", "[dialogue]", -1],
-    [3, "Episode 01 もうすぐアンツィオ戦です！ アンツィオってどんな学校？", "[dialogue]", -1],
-    [4, "Episode 01 もうすぐアンツィオ戦です！ デザートタイムはポジティブに", "[dialogue]", -1],
-    [5, "Episode 02 アルバイトです！ 決勝前の誤算", "[dialogue]", -1],
-    [6, "Episode 02 アルバイトです！ 三村時計店", "[dialogue]", -1],
-    [7, "Episode 02 アルバイトです！ ジョイショップタグチ", "[dialogue]", -1],
-    [8, "Episode 02 アルバイトです！ 江口又新堂", "[dialogue]", -1],
-    [9, "Episode 02 アルバイトです！ 黒澤藤右衛門商店", "[dialogue]", -1],
-    [10, "Episode 02 アルバイトです！ 丸五水産", "[dialogue]", -1],
-    [11, "Episode 02 アルバイトです！ ウスヤ精肉店", "[dialogue]", -1],
-    [12, "Episode 02 アルバイトです！ 大洗ホテル", "[dialogue]", -1],
-    [13, "Episode 02 アルバイトです！ 自動車部の校外活動", "[dialogue]", -1],
-    [14, "Episode 03 不肖・武部沙織のイタリア料理講座 不肖・武部沙織のイタリア料理講座", "[dialogue]", -1],
-]
-links = ["https://beta.musicbrainz.org/release/2b8c983a-546c-4690-8527-5a3836048bf1", "https://vgmdb.net/album/75911"]
-
-[58]
-catalognumber = "LACA-39862, LACA-39863"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal Disc 1"
-tracks = [
-    [1, "Aurorise", "ChouCho", -1],
-    [2, "優しさの理由", "ChouCho", -1],
-    [3, "Here comes The SUN", "ChouCho", -1],
-    [4, "Elemental World", "ChouCho", -1],
-    [5, "Authentic symphony", "ちょうちょ", -1],
-    [6, "風のソルフェ", "ChouCho", -1],
-    [7, "明日の君さえいればいい。", "ChouCho", -1],
-    [8, "夏の日と君の声", "ChouCho", -1],
-    [9, "ハルモニア", "ChouCho", -1],
-    [10, "フロンティア", "ChouCho", 0],
-    [11, "DreamRiser", "ChouCho", 0],
-    [12, "なないろのたね", "ChouCho", -1],
-]
-links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113410"]
-
-[59]
-catalognumber = "LACA-39862, LACA-39863"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal Disc 2"
-tracks = [
-    [1, "kaleidoscope", "ChouCho", -1],
-    [2, "BLESS YoUr NAME", "ChouCho", -1],
-    [3, "灰色のサーガ", "ChouCho", -1],
-    [4, "オレンジ色", "ChouCho", -1],
-    [5, "空想トライアングル", "ChouCho", -1],
-    [6, "Asterism", "ChouCho", -1],
-    [7, "空とキミのメッセージ", "ChouCho", -1],
-    [8, "あの空に還る未来で", "ChouCho", -1],
-    [9, "薄紅の月", "ChouCho", -1],
-    [10, "starlog", "ChouCho", -1],
-    [11, "カワルミライ", "ちょうちょ", -1],
-    [12, "piece of youth", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113410"]
-
-[60]
-catalognumber = "LACA-39862, LACA-39863"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal, Video"
-tracks = [
-    [1, "DreamRiser", "", 0],
-    [2, "kaleidoscope", "", -1],
-    [3, "灰色のサーガ", "", -1],
-    [4, "なないろのたね", "", -1],
-    [5, "優しさの理由", "", -1],
-    [6, "カワルミライ", "", -1],
-]
-links = ["https://vgmdb.net/album/113410"]
-
-[61]
-catalognumber = "LACM-14031"
-date = "2012-11-21"
-album = "ガールズ&パンツァー キャラクターソング Vol.1 SCHOOL GIRL、はじめます! / 西住みほ(CV.渕上舞)"
-tracks = [
-    [1, "SCHOOL GIRL、はじめます!", "西住みほ(CV.渕上舞)", 1],
-    [2, "infinity orbit", "西住みほ(CV.渕上舞)", 1],
-    [3, "SCHOOL GIRL、はじめます! (Instrumental)", "西住みほ(CV.渕上舞)", 0],
-    [4, "infinity orbit (Instrumental)", "西住みほ(CV.渕上舞)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/874a3e2c-a429-4709-8597-730325b0b509", "https://vgmdb.net/album/37264"]
-
-[62]
+[26]
 catalognumber = "LACA-9430"
 date = "2015-11-18"
 album = "ガールズ&パンツァー 劇場版 オリジナルサウンドトラック Original Soundtrack"
@@ -1107,7 +429,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0df14d2-37fe-471c-ad39-ad4fcbbf3258", "https://vgmdb.net/album/54443"]
 
-[63]
+[27]
 catalognumber = "LACA-9431"
 date = "2015-11-18"
 album = "ガールズ&パンツァー 劇場版 オリジナルサウンドトラック Original Soundtrack, Vocal"
@@ -1122,22 +444,91 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0df14d2-37fe-471c-ad39-ad4fcbbf3258", "https://vgmdb.net/album/54443"]
 
-[64]
-catalognumber = "LACA-15812"
-date = "2020-03-11"
-album = "交響曲ガールズ&パンツァー"
+[28]
+catalognumber = "LACM-14421"
+date = "2015-11-25"
+album = "piece of youth / ChouCho"
 tracks = [
-    [1, "第一楽章 戦車道行進曲", "浜口史郎", 0],
-    [2, "第二楽章 新しい生活と決意", "浜口史郎", 0],
-    [3, "第三楽章 戦車道全国高校生大会", "浜口史郎", 0],
-    [4, "第四楽章 数々のピンチの果てに", "浜口史郎", 0],
-    [5, "第五楽章 それぞれの想い", "浜口史郎", 0],
-    [6, "第六楽章 最後の戦い～フィナーレ", "浜口史郎", 0],
-    [7, "ガールズ&パンツァーのための狂詩曲", "浜口史郎", 0],
+    [1, "piece of youth", "ChouCho", 0],
+    [2, "GloryStory", "ChouCho", 0],
+    [3, "piece of youth (off vocal)", "ChouCho", 0],
+    [4, "GloryStory (off vocal)", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/681ded8c-ce1e-4acd-8a2f-154a87df4e2c", "https://vgmdb.net/album/92244"]
+links = ["https://beta.musicbrainz.org/release/fe81469d-b6d9-4a38-aec3-1af5c94517a6", "https://vgmdb.net/album/54690"]
 
-[65]
+[29]
+catalognumber = "LACA-15529"
+date = "2015-12-02"
+album = "ガールズ&パンツァー タンソンミニアルバム"
+tracks = [
+    [1, "GO! Ⅳ! IT!", "影山ヒロノブ", -1],
+    [2, "超重戦車級王者マウス", "蝶野正洋", -1],
+    [3, "鉄人戦車T28!", "山形ユキオ", -1],
+    [4, "万能戦車センチュリオン", "宮内タカユキ", -1],
+    [5, "ティーガー・フィーバー!", "遠藤正明", -1],
+]
+links = ["https://beta.musicbrainz.org/release/2d943aaf-a9c0-4de4-bf59-205157ffb8f6", "https://vgmdb.net/album/54904"]
+
+[30]
+catalognumber = "LACA-9436"
+date = "2016-02-10"
+album = "ガールズ＆パンツァー オーケストラ・コンサート～Herbst Musikfest 2015～ Disc 1 [LACA-9436]"
+tracks = [
+    [1, "戦車道行進曲!パンツァーフォー!", "東京フィルハーモニー交響楽団", 0],
+    [2, "「これからの毎日が、本当に楽しみ!」 (Monologue)", "渕上舞", 0],
+    [3, "新しい朝の始まりです!～こんな普通の学園生活って素敵です!", "東京フィルハーモニー交響楽団", 0],
+    [4, "横暴は生徒会に与えられた正当な権利です!", "東京フィルハーモニー交響楽団", 0],
+    [5, "生徒会、悲壮な決意とともに進みます!", "東京フィルハーモニー交響楽団", 0],
+    [6, "戦車の知識では誰にも負けません!", "東京フィルハーモニー交響楽団", 0],
+    [7, "戦車を可愛くデコレーションしちゃいます!", "東京フィルハーモニー交響楽団", 0],
+    [8, "戦車、乗ります!", "東京フィルハーモニー交響楽団", 0],
+    [9, "学園艦は今日も勇壮に海原を進みます!", "東京フィルハーモニー交響楽団", 0],
+    [10, "「どこまでやれるかわからないけど、精一杯やってみよう!」 (Monologue)", "渕上舞", 0],
+    [11, "ブリティッシュ・グレナディアーズ", "東京フィルハーモニー交響楽団", 0],
+    [12, "いざ!試合にのぞみます!", "東京フィルハーモニー交響楽団", 0],
+    [13, "敵戦車進軍してきます!", "東京フィルハーモニー交響楽団", 0],
+    [14, "「もう少し戦車道続けてみるね、お姉ちゃん」 (Monologue)", "渕上舞", 0],
+    [15, "リパブリック讃歌", "東京フィルハーモニー交響楽団", 0],
+    [16, "開会式です!～栄光の戦車道全国大会始まります!", "東京フィルハーモニー交響楽団", 0],
+    [17, "私、いやな予感がします!", "東京フィルハーモニー交響楽団", 0],
+    [18, "アメリカ野砲隊マーチ", "東京フィルハーモニー交響楽団", 0],
+    [19, "「いつか私も、私の気持ち、ちゃんと話せるようになりたいな」 (Monologue)", "渕上舞", 0],
+    [20, "これが友情ですね!", "東京フィルハーモニー交響楽団", 0],
+    [21, "理由があります...", "東京フィルハーモニー交響楽団", 0],
+    [22, "秋山優花里のアンツィオ校潜入大作戦です!", "東京フィルハーモニー交響楽団", 0],
+    [23, "Le Fiamme Nere", "東京フィルハーモニー交響楽団", 0],
+    [24, "フニクリ・フニクラ", "東京フィルハーモニー交響楽団", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5e077422-1dfd-4130-80fb-ce0e9e6fb561", "https://vgmdb.net/album/55526"]
+
+[31]
+catalognumber = "LACA-9437"
+date = "2016-02-10"
+album = "ガールズ＆パンツァー オーケストラ・コンサート～Herbst Musikfest 2015～ Disc 2 [LACA-9437]"
+tracks = [
+    [1, "金平糖の精の踊り～カチューシャ", "東京フィルハーモニー交響楽団", 0],
+    [2, "大洗女子学園チーム前進します!", "東京フィルハーモニー交響楽団", 0],
+    [3, "ポーリュシュカ・ポーレ", "東京フィルハーモニー交響楽団", 0],
+    [4, "「落ち着いて考えよう、今私に、私たちにできること」 (Monologue)", "渕上舞", 0],
+    [5, "あんこう音頭", "佐咲紗花, 東京フィルハーモニー交響楽団", 0],
+    [6, "「私はもう、戦車道はやめないよ」 (Monologue)", "渕上舞", 0],
+    [7, "昨日の敵は今日の友です!", "東京フィルハーモニー交響楽団", 0],
+    [8, "エーリカ", "東京フィルハーモニー交響楽団", 0],
+    [9, "乙女のたしなみ戦車道マーチ!", "東京フィルハーモニー交響楽団", 0],
+    [10, "パンツァー・リート", "東京フィルハーモニー交響楽団", 0],
+    [11, "息を殺して待ちぶせします!", "東京フィルハーモニー交響楽団", 0],
+    [12, "戦車道とは女子としての道を極めることでもあります!", "東京フィルハーモニー交響楽団", 0],
+    [13, "緊迫する戦況です!", "東京フィルハーモニー交響楽団", 0],
+    [14, "戦線は膠着状態です!", "東京フィルハーモニー交響楽団", 0],
+    [15, "戦車道アンセムです!", "東京フィルハーモニー交響楽団", 0],
+    [16, "Enter Enter MISSION! (Orchestra Ver.)", "東京フィルハーモニー交響楽団", 0],
+    [17, "DreamRiser", "ChouCho, 東京フィルハーモニー交響楽団", 0],
+    [18, "GloryStory", "ChouCho, 東京フィルハーモニー交響楽団", 0],
+    [19, "Enter Enter MISSION! (Herbst Musikfest 2015 Ver.)", "渕上舞, ChouCho, 佐咲紗花, 東京フィルハーモニー交響楽団", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5e077422-1dfd-4130-80fb-ce0e9e6fb561", "https://vgmdb.net/album/55526"]
+
+[32]
 catalognumber = "LACA-15541"
 date = "2016-03-16"
 album = "『ガールズ&パンツァー』ボーカルミニアルバム 音楽道、はじめました!"
@@ -1150,61 +541,83 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fed7495c-62bf-45d6-952b-63a0f98e431b", "https://vgmdb.net/album/56079"]
 
-[66]
-catalognumber = "LACA-15681"
-date = "2017-11-29"
-album = "『ガールズ&パンツァー最終章』ドラマCD1〜テスト勉強です!〜"
+[33]
+catalognumber = "LACA-15548"
+date = "2016-05-11"
+album = "『ガールズ&パンツァー 劇場版』ドラマCD5 新しい友達ができました!"
 tracks = [
-    [1, "テスト勉強です！", "[dialogue]", -1],
-    [2, "来年のことです！", "[dialogue]", -1],
-    [3, "ガールズ＆パンツァー休み時間です！ #1", "[dialogue]", -1],
-    [4, "アンチョビ細腕繁盛記 #1", "[dialogue]", -1],
+    [1, "聖グロの戦車道はあくまで優雅、なのですわ！", "[dialogue]", -1],
+    [2, "クラーラの秘密", "[dialogue]", -1],
+    [3, "継続の夏休み", "[dialogue]", -1],
+    [4, "知波単学園異常なし！", "[dialogue]", -1],
+    [5, "ボコ、やります！", "[dialogue]", -1],
+    [6, "愛里寿隊長の事をもっと知りたい大作戦！", "[dialogue]", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/09225c88-3855-4957-b576-686d66c4a1b7", "https://vgmdb.net/album/71412"]
+links = ["https://beta.musicbrainz.org/release/f4d5e6bc-2770-47fd-9008-0f18dc7aef94", "https://vgmdb.net/album/57149"]
 
-[67]
-catalognumber = "LACA-15699"
-date = "2018-03-21"
-album = "『ガールズ&パンツァー最終章』ドラマCD2～学園祭です!?〜"
+[34]
+catalognumber = "LACA-35565, LACA-35566"
+date = "2016-05-25"
+album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 1 (CD) [LACA-35565]"
 tracks = [
-    [1, "学園祭です!?", "", -1],
-    [2, "大学選抜の休日", "", -1],
-    [3, "ガールズ&パンツァー休み時間です! #2", "", -1],
-    [4, "アンチョビ細腕繁盛記 #2", "", -1],
+    [1, "bouquet", "ChouCho", -1],
+    [2, "カワルミライ", "ちょうちょ", -1],
+    [3, "Authentic symphony", "ちょうちょ", -1],
+    [4, "ハルモニア", "ChouCho", -1],
+    [5, "Million of Bravery", "ChouCho", -1],
+    [6, "優しさの理由", "ChouCho", -1],
+    [7, "DreamRiser", "ChouCho", 0],
+    [8, "空とキミのメッセージ", "ChouCho", -1],
+    [9, "starlog", "ChouCho", -1],
+    [10, "光", "ChouCho", -1],
+    [11, "kagami", "ChouCho", -1],
+    [12, "あの空に還る未来で", "ChouCho", -1],
 ]
-links = ["https://vgmdb.net/album/74063"]
+links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
 
-[68]
-catalognumber = "LACM-14421"
-date = "2015-11-25"
-album = "piece of youth / ChouCho"
+[35]
+catalognumber = "LACA-35565, LACA-35566"
+date = "2016-05-25"
+album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 2 (CD) [LACA-35566]"
 tracks = [
-    [1, "piece of youth", "ChouCho", 0],
-    [2, "GloryStory", "ChouCho", 0],
-    [3, "piece of youth (off vocal)", "ChouCho", 0],
-    [4, "GloryStory (off vocal)", "ChouCho", 0],
+    [1, "夏の日と君の声", "ChouCho", -1],
+    [2, "ルーセントアイズ", "ChouCho", -1],
+    [3, "君へ贈る魔法", "ChouCho", -1],
+    [4, "Starting up", "ChouCho", -1],
+    [5, "大切な宝物", "ChouCho", -1],
+    [6, "BLESS YoUr NAME", "ChouCho", -1],
+    [7, "Hello, Hello, Hello", "ChouCho", -1],
+    [8, "piece of youth", "ChouCho", 0],
+    [9, "GloryStory", "ChouCho", 0],
+    [10, "空想トライアングル", "ChouCho", -1],
+    [11, "眠れる本能", "ChouCho", 0],
+    [12, "希望の絆 ~ChouCho solo ver.~", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/fe81469d-b6d9-4a38-aec3-1af5c94517a6", "https://vgmdb.net/album/54690"]
+links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
 
-[69]
-catalognumber = "LACA-15801"
-date = "2019-11-27"
-album = "naked garden / ChouCho"
+[36]
+catalognumber = "LACA-35565, LACA-35566"
+date = "2016-05-25"
+album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 3 (Blu-ray) [LAPD-1398]"
 tracks = [
-    [1, "リコリス", "ChouCho", -1],
-    [2, "カワルミライ", "ChouCho", -1],
-    [3, "優しさの理由", "ChouCho", -1],
-    [4, "Snow halation", "ChouCho", -1],
-    [5, "starlog", "ChouCho", -1],
-    [6, "木蘭の涙", "ChouCho", -1],
-    [7, "明日の君さえいればいい。", "ChouCho", -1],
-    [8, "Agape", "ChouCho", -1],
-    [9, "piece of youth", "ChouCho", 0],
-    [10, "searchlight", "ChouCho", -1],
+    [1, "bouquet", "", -1],
+    [2, "カワルミライ", "", -1],
+    [3, "Authentic symphony", "", -1],
+    [4, "優しさの理由", "", -1],
+    [5, "flyleaf", "", -1],
+    [6, "DreamRiser", "", 0],
+    [7, "空とキミのメッセージ", "", -1],
+    [8, "starlog", "", -1],
+    [9, "secretgarden", "", -1],
+    [10, "あの空に還る未来で", "", -1],
+    [11, "夏の日と君の声", "", -1],
+    [12, "BLESS YoUr NAME", "", -1],
+    [13, "piece of youth", "", 0],
+    [14, "空想トライアングル", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/b404cf9f-bff9-4e95-9b9a-801fd04a151e", "https://vgmdb.net/album/90456"]
+links = ["https://vgmdb.net/album/58137"]
 
-[70]
+[37]
 catalognumber = "LACA-15565"
 date = "2016-05-25"
 album = "ChouCho ColleCtion \"bouquet\" Disc 1 [LACA-15565]"
@@ -1224,7 +637,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3cdc78b3-c4b4-4ee6-80f3-e0cf84c2c87a", "https://vgmdb.net/album/58136"]
 
-[71]
+[38]
 catalognumber = "LACA-15566"
 date = "2016-05-25"
 album = "ChouCho ColleCtion \"bouquet\" Disc 2 [LACA-15566]"
@@ -1244,63 +657,612 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3cdc78b3-c4b4-4ee6-80f3-e0cf84c2c87a", "https://vgmdb.net/album/58136"]
 
-[72]
-catalognumber = ""
-date = "2014-12-30"
-album = "音楽の時間です!"
+[39]
+catalognumber = "BCXA-1123"
+date = "2016-05-27"
+album = "ガールズ&パンツァー 劇場版 SPECIAL CD ボコのうた"
 tracks = [
-    [1, "戦車道行進曲!パンツァーフォー!", "", 0],
-    [2, "健闘を讃え合います!", "", 0],
-    [3, "緊迫する戦況です!", "", 0],
-    [4, "みんな最高の友達です!", "", 0],
-    [5, "戦車道行進曲!パンツァーフォー!", "", 0],
-    [6, "健闘を讃え合います!", "", 0],
-    [7, "緊迫する戦況です!", "", 0],
-    [8, "みんな最高の友達です!", "", 0],
+    [1, "おいらボコだぜ!", "西住みほ(CV.渕上舞) & 島田愛里寿(CV.竹達彩奈)", 0],
+    [2, "おいらボコだぜ! (西住みほver.)", "西住みほ(CV.渕上舞)", 0],
+    [3, "おいらボコだぜ! (島田愛里寿ver.)", "島田愛里寿(CV.竹達彩奈)", 0],
+    [4, "おいらボコだぜ! (off vocal)", "西住みほ(CV.渕上舞) & 島田愛里寿(CV.竹達彩奈)", 0],
 ]
-links = ["https://vgmdb.net/album/86002"]
+links = ["https://beta.musicbrainz.org/release/3f665d52-d9bf-47a6-b660-59675a06b8d5", "https://vgmdb.net/album/57212"]
+
+[40]
+catalognumber = ""
+date = "2016-05-27"
+album = "ガールズ&パンツァー 劇場版 戦車トークCD"
+tracks = [
+    [1, "オープニング", "中村桜 & 上坂すみれ", -1],
+    [2, "ゲストトーク 鈴木貴昭(考証・スーパーバイザー)", "中村桜, 上坂すみれ & 鈴木貴昭", -1],
+    [3, "ゲストトーク 吉川和篤(ミリタリー監修)", "中村桜, 上坂すみれ & 吉川和篤", -1],
+    [4, "ゲストトーク 岡部いさく(軍事評論家)", "中村桜, 上坂すみれ & 岡部いさく", -1],
+    [5, "インターミッション", "中村桜 & 上坂すみれ", -1],
+    [6, "ゲストトーク 斎木伸生(考証・スーパーバイザー)", "中村桜, 上坂すみれ & 斎木伸生", -1],
+    [7, "ゲストトーク 杉山潔(プロデューサー)", "中村桜, 上坂すみれ & 杉山潔", -1],
+    [8, "エンディング", "中村桜 & 上坂すみれ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/8126d616-b1f7-4a25-ace7-3be96ae91085", "https://vgmdb.net/album/110737"]
+
+[41]
+catalognumber = ""
+date = "2016-06-26"
+album = "ようげん&みゅーじっく ~ガルパンのアコースティックギター・アレンジです！~"
+tracks = [
+    [1, "DreamRiser", "ようげん＆みゅーじっく", 0],
+    [2, "piece of youth", "ようげん＆みゅーじっく", 0],
+    [3, "Enter Enter MISSION !", "ようげん＆みゅーじっく", 0],
+    [4, "それゆけ！乙女の戦車道 ! !", "ようげん＆みゅーじっく", 0],
+    [5, "GloryStory", "ようげん＆みゅーじっく", 0],
+    [6, "大洗の潮騒はとても心地よいです！", "ようげん＆みゅーじっく", -1],
+    [7, "神社の林でことりサンチームが鳴いていました！", "ようげん＆みゅーじっく", -1],
+]
+links = ["https://beta.musicbrainz.org/release/cc524950-a3d8-411e-86a5-6c0c31c021a0", "https://vgmdb.net/album/61336"]
+
+[42]
+catalognumber = ""
+date = "2017-01-22"
+album = "ガルパンメタル（とか）アレンジ"
+tracks = [
+    [1, "サッキヤルヴェン・ポルッカ", "", -1],
+    [2, "アメリカ野砲隊マーチ", "", 0],
+    [3, "カチューシャ", "", 0],
+    [4, "雪の進軍", "", 0],
+    [5, "おまけ", "", -1],
+]
+links = ["https://vgmdb.net/album/94609"]
+
+[43]
+catalognumber = "LACA-15644"
+date = "2017-03-29"
+album = "Fated Crown / 佐咲紗花"
+tracks = [
+    [1, "Oval Circus", "佐咲紗花", -1],
+    [2, "Duality", "佐咲紗花", -1],
+    [3, "Lyla", "佐咲紗花", -1],
+    [4, "High-Flying Future!!", "佐咲紗花", 0],
+    [5, "PARADICE BABY KISS", "佐咲紗花 with 三狐神囃子", -1],
+    [6, "FEEL✕ALIVE", "佐咲紗花", -1],
+    [7, "HOWLITE", "佐咲紗花", -1],
+    [8, "Linaria", "佐咲紗花", -1],
+    [9, "花紋 (Only SAYAKA ver.)", "佐咲紗花", -1],
+    [10, "WASTELANDERS", "佐咲紗花", -1],
+    [11, "EMERALD (Fated Crown ver.)", "佐咲紗花", -1],
+    [12, "Reworld", "佐咲紗花", -1],
+    [13, "Fated Crown", "佐咲紗花", -1],
+]
+links = ["https://beta.musicbrainz.org/release/89738b0a-a7ed-4151-b091-3768cf4462b3", "https://vgmdb.net/album/66148"]
+
+[44]
+catalognumber = "LACA-35644"
+date = "2017-03-29"
+album = "Fated Crown / 佐咲紗花 Disc 1 (CD)"
+tracks = [
+    [1, "Oval Circus", "佐咲紗花", -1],
+    [2, "Duality", "佐咲紗花", -1],
+    [3, "Lyla", "佐咲紗花", -1],
+    [4, "High-Flying Future!!", "佐咲紗花", 0],
+    [5, "PARADICE BABY KISS", "佐咲紗花 with 三狐神囃子", -1],
+    [6, "FEEL×ALIVE", "佐咲紗花", -1],
+    [7, "HOWLITE", "佐咲紗花", -1],
+    [8, "Linaria", "佐咲紗花", -1],
+    [9, "花紋 (Only SAYAKA ver.)", "佐咲紗花", -1],
+    [10, "WASTELANDERS", "佐咲紗花", -1],
+    [11, "EMERALD (Fated Crown ver.)", "佐咲紗花", -1],
+    [12, "Reworld", "佐咲紗花", -1],
+    [13, "Fated Crown", "佐咲紗花", -1],
+]
+links = ["https://beta.musicbrainz.org/release/4d5cb49f-2abb-4e2d-aabd-ae9c9c27faef", "https://vgmdb.net/album/66147"]
+
+[45]
+catalognumber = "LACA-35644"
+date = "2017-03-29"
+album = "Fated Crown / 佐咲紗花 Disc 2 (DVD)"
+tracks = [
+    [1, "Fated Crown (Music Video)", "佐咲紗花", -1],
+    [2, "Making of Fated Crown", "佐咲紗花", -1],
+]
+links = ["https://beta.musicbrainz.org/release/4d5cb49f-2abb-4e2d-aabd-ae9c9c27faef", "https://vgmdb.net/album/66147"]
+
+[46]
+catalognumber = "LACA-15646"
+date = "2017-06-21"
+album = "GIRLS und PANZER CHARACTER SONG ALBUM 「わたしたちも音楽道、はじめました!」"
+tracks = [
+    [1, "I Found My Way", "西住みほ(渕上舞)", 0],
+    [2, "Queen of Quality Season", "ダージリン(喜多村英梨) meets オレンジペコ(石原舞)", 0],
+    [3, "OK! GO AHEAD!", "ケイ(川澄綾子)", 0],
+    [4, "Nuovo Armati Paradiso〜新しい戦車の世界", "アンチョビ(吉岡麻耶)", 0],
+    [5, "великая Катюша〜偉大なるカチューシャ", "カチューシャ(金元寿子)", 0],
+    [6, "叭喇撃突ケ響", "西絹代(瀬戸麻沙美)", 0],
+    [7, "Tärkeintä elämässä〜人生の大切なこと", "ミカ(能登麻美子)", 0],
+    [8, "Wonderland-go-round", "島田愛里寿(竹達彩奈)", 0],
+    [9, "Mein Weg und Dein Weg〜私の道、お前の道", "西住まほ(田中理恵)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2fee4918-4e79-407e-8ce7-968db879e930", "https://vgmdb.net/album/69140"]
+
+[47]
+catalognumber = "LACA-15681"
+date = "2017-11-29"
+album = "『ガールズ&パンツァー最終章』ドラマCD1〜テスト勉強です!〜"
+tracks = [
+    [1, "テスト勉強です！", "[dialogue]", -1],
+    [2, "来年のことです！", "[dialogue]", -1],
+    [3, "ガールズ＆パンツァー休み時間です！ #1", "[dialogue]", -1],
+    [4, "アンチョビ細腕繁盛記 #1", "[dialogue]", -1],
+]
+links = ["https://beta.musicbrainz.org/release/09225c88-3855-4957-b576-686d66c4a1b7", "https://vgmdb.net/album/71412"]
+
+[48]
+catalognumber = "LACM-14694"
+date = "2017-12-06"
+album = "Grand symphony / 佐咲紗花"
+tracks = [
+    [1, "Grand symphony", "佐咲紗花", 0],
+    [2, "プラネタリー", "佐咲紗花", 0],
+    [3, "Grand symphony (off vocal)", "佐咲紗花", 0],
+    [4, "プラネタリー (off vocal)", "佐咲紗花", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8cd8217a-6564-4a03-b3ad-793bc86513be", "https://vgmdb.net/album/71411"]
+
+[49]
+catalognumber = "LACM-14698"
+date = "2017-12-13"
+album = "Enter Enter MISSION! 最終章ver. / あんこうチーム"
+tracks = [
+    [1, "Enter Enter MISSION！最終章ver.", "あんこうチーム", 0],
+    [2, "Long and Shining Road", "あんこうチーム", 1],
+    [3, "Enter Enter MISSION！最終章ver. (Instrumental)", "あんこうチーム", 0],
+    [4, "Long and Shining Road (Instrumental)", "あんこうチーム", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0fca24cc-12cd-46fa-9b7e-7f2be9bf6ce0", "https://vgmdb.net/album/71410"]
+
+[50]
+catalognumber = "LACA-9548"
+date = "2017-12-20"
+album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 1 [LACA-9548]"
+tracks = [
+    [1, "GloryStory", "ChouCho", 0],
+    [2, "エキシビションです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [3, "学園艦とお別れです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [4, "潮の香りもあまりしません", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [5, "ボコミュージアムです!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [6, "試合が決定しました!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [7, "試合が始まります！～Interlude", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+
+[51]
+catalognumber = "LACA-9549"
+date = "2017-12-20"
+album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 2 [LACA-9549]"
+tracks = [
+    [1, "ファンファーレ～こっつん作戦開始します!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [2, "包囲されています!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [3, "どんぐり小隊の活躍です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [4, "私たちにできる戦いをしましょう!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [5, "ボコボコになっても立ち向かいます!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [6, "決戦です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [7, "大洗女子学園の勝利です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [8, "piece of youth", "ChouCho", 0],
+]
+links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+
+[52]
+catalognumber = "LACA-9550"
+date = "2017-12-20"
+album = "『ガールズ＆パンツァー劇場版』シネマティック・コンサートアルバム Disc 3 [LACA-9550]"
+tracks = [
+    [1, "無双です!", "浜口史郎; 東京フィルGuPオーケストラ", -1],
+    [2, "DreamRiser", "ChouCho", 0],
+    [3, "Grand symphony", "佐咲紗花", 0],
+    [4, "Enter Enter MISSION!", "ChouCho&佐咲紗花", 0],
+]
+links = ["https://beta.musicbrainz.org/release/79ad8d94-1839-4ed0-9577-c102014f7c56", "https://vgmdb.net/album/69575"]
+
+[53]
+catalognumber = "PJO-0003"
+date = "2017-12-29"
+album = "Precious Jazz Orchestra Plays Anime Standards vol.2"
+tracks = [
+    [1, "ツキヨミ", "Precious Jazz Orchestra", -1],
+    [2, "桜のあと (all quartets lead to the?)", "Precious Jazz Orchestra", -1],
+    [3, "God knows...", "Precious Jazz Orchestra", -1],
+    [4, "秘密基地", "Precious Jazz Orchestra", -1],
+    [5, "ループ", "Precious Jazz Orchestra", -1],
+    [6, "DreamRiser", "Precious Jazz Orchestra", 0],
+    [7, "真赤な誓い", "Precious Jazz Orchestra", -1],
+    [8, "君の知らない物語", "Precious Jazz Orchestra", -1],
+]
+links = ["https://beta.musicbrainz.org/release/a916ae3d-5e4e-45f5-893a-fb4cc394e8a5", "https://vgmdb.net/album/73691"]
+
+[54]
+catalognumber = "DTRB-0004"
+date = "2017-12-29"
+album = "dRoiD vol.4"
+tracks = [
+    [1, "プラチナ", "", -1],
+    [2, "檄! 帝国華撃団", "", -1],
+    [3, "ルパン三世のテーマ ‘78", "", -1],
+    [4, "宇宙戦艦ヤマト", "", -1],
+    [5, "戦車道行進曲! パンツァーフォー!", "", 0],
+    [6, "ようこそジャパリパークへ", "", -1],
+]
+links = ["https://vgmdb.net/album/76883"]
+
+[55]
+catalognumber = ""
+date = "2017-12-30"
+album = "ガルパンメタル（とか）アレンジ２"
+tracks = [
+    [1, "when johnny comes marching home", "", -1],
+    [2, "British grenadiers", "", -1],
+    [3, "Le chant de l'oignon", "", -1],
+    [4, "battle hymn of the republic", "", -1],
+]
+links = ["https://vgmdb.net/album/94610"]
+
+[56]
+catalognumber = "LACA-35680"
+date = "2018-01-17"
+album = "color of time / ChouCho [Limited Edition] Disc 1 (CD)"
+tracks = [
+    [1, "color of time", "ChouCho", -1],
+    [2, "kaleidoscope", "ChouCho", -1],
+    [3, "Elemental World", "ChouCho", -1],
+    [4, "ワンダーテイル", "ChouCho", -1],
+    [5, "cuddle", "ChouCho", -1],
+    [6, "セフィロトの木", "ChouCho", -1],
+    [7, "one and only", "ChouCho", -1],
+    [8, "Asterism", "ChouCho", -1],
+    [9, "アンダンテ", "ChouCho", -1],
+    [10, "薄紅の月", "ChouCho", -1],
+    [11, "明日の君さえいればいい。", "ChouCho", -1],
+    [12, "アリア", "ChouCho", -1],
+    [13, "searchlight", "ChouCho", -1],
+]
+links = ["https://beta.musicbrainz.org/release/54438ca4-2114-44d5-aace-8fca63e137a3", "https://vgmdb.net/album/72071"]
+
+[57]
+catalognumber = "LACA-35680"
+date = "2018-01-17"
+album = "color of time / ChouCho [Limited Edition] Disc 2 (Blu-ray)"
+tracks = [
+    [1, "color of time", "ChouCho", -1],
+    [2, "Asterism", "ChouCho", -1],
+    [3, "Elemental world", "ChouCho", -1],
+    [4, "kaleidoscope", "ChouCho", -1],
+    [5, "bouquet", "ChouCho", -1],
+    [6, "starlog", "ChouCho", -1],
+    [7, "DreamRiser", "ChouCho", 0],
+    [8, "優しさの理由", "ChouCho", -1],
+    [9, "piece of youth", "ChouCho", 0],
+]
+links = ["https://beta.musicbrainz.org/release/54438ca4-2114-44d5-aace-8fca63e137a3", "https://vgmdb.net/album/72071"]
+
+[58]
+catalognumber = "LACA-15680"
+date = "2018-01-17"
+album = "color of time / ChouCho"
+tracks = [
+    [1, "color of time", "ChouCho", -1],
+    [2, "kaleidoscope", "ChouCho", -1],
+    [3, "Elemental World", "ChouCho", -1],
+    [4, "ワンダーテイル", "ChouCho", -1],
+    [5, "cuddle", "ChouCho", -1],
+    [6, "セフィロトの木", "ChouCho", -1],
+    [7, "one and only", "ChouCho", -1],
+    [8, "Asterism", "ChouCho", -1],
+    [9, "アンダンテ", "ChouCho", -1],
+    [10, "薄紅の月", "ChouCho", -1],
+    [11, "明日の君さえいればいい。", "ChouCho", -1],
+    [12, "アリア", "ChouCho", -1],
+    [13, "searchlight", "ChouCho", -1],
+]
+links = ["https://beta.musicbrainz.org/release/1c1cf1a9-7087-4b78-8583-a5bac0f46330", "https://vgmdb.net/album/72072"]
+
+[59]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement, Vocal"
+tracks = [
+    [1, "薔薇は美しく散る", "影山ヒロノブ", -1],
+    [2, "裏切りの夕焼け", "影山ヒロノブ", -1],
+    [3, "THE REAL FOLK BLUES", "影山ヒロノブ", -1],
+    [4, "好敵手", "影山ヒロノブ", -1],
+    [5, "カントリーロード", "影山ヒロノブ", -1],
+    [6, "炎のたからもの", "影山ヒロノブ", -1],
+    [7, "草原のマルコ", "影山ヒロノブ", -1],
+    [8, "Get Wild", "影山ヒロノブ", -1],
+    [9, "ルパン三世・愛のテーマ", "影山ヒロノブ", -1],
+    [10, "God knows…", "影山ヒロノブ", -1],
+    [11, "グローイング・アップ", "影山ヒロノブ", -1],
+    [12, "葛飾ラプソディー", "影山ヒロノブ", -1],
+    [13, "風にひとりで", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[60]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement"
+tracks = [
+    [1, "薔薇は美しく散る", "影山ヒロノブ", -1],
+    [2, "裏切りの夕焼け", "影山ヒロノブ", -1],
+    [3, "THE REAL FOLK BLUES", "影山ヒロノブ", -1],
+    [4, "好敵手", "影山ヒロノブ", -1],
+    [5, "カントリーロード", "影山ヒロノブ", -1],
+    [6, "炎のたからもの", "影山ヒロノブ", -1],
+    [7, "草原のマルコ", "影山ヒロノブ", -1],
+    [8, "Get Wild", "影山ヒロノブ", -1],
+    [9, "ルパン三世・愛のテーマ", "影山ヒロノブ", -1],
+    [10, "God knows…", "影山ヒロノブ", -1],
+    [11, "グローイング・アップ", "影山ヒロノブ", -1],
+    [12, "葛飾ラプソディー", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[61]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal"
+tracks = [
+    [1, "エンブレム～名も無き英雄達へ～", "JAM Project", -1],
+    [2, "翼", "影山ヒロノブ", -1],
+    [3, "Follow you ～君とともに～", "影山ヒロノブ", -1],
+    [4, "超ヒーロー伝説", "影山ヒロノブ", -1],
+    [5, "呀 ～Tusk of Darkness～", "影山ヒロノブ", -1],
+    [6, "ヨーソロー ～星の海を越えて～", "影山ヒロノブ", -1],
+    [7, "Worrier ～闇を駆ける呀～", "影山ヒロノブ", -1],
+    [8, "魔戒群狼伝牙王", "影山ヒロノブ", -1],
+    [9, "KO・BU・SHI ～鉄拳～", "影山ヒロノブ", -1],
+    [10, "ヒッパレ!モンスターストライク", "影山ヒロノブ", -1],
+    [11, "GO! IV! IT!", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[62]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 4"
+tracks = [
+    [1, "Beginning", "影山ヒロノブ", -1],
+    [2, "甘く危険な夜に", "影山ヒロノブ", -1],
+    [3, "Mr.Travelin’Man", "影山ヒロノブ", -1],
+    [4, "Life without you", "影山ヒロノブ", -1],
+    [5, "She’s trouble & I’m such a fool!", "影山ヒロノブ", -1],
+    [6, "おーりとーり", "影山ヒロノブ", -1],
+    [7, "Home ～僕の大切な人達へ～", "影山ヒロノブ", -1],
+    [8, "HEATS", "影山ヒロノブ", -1],
+    [9, "戦隊メドレ（電撃戦隊チェンジマン・光戦隊マスクマン・鳥人戦隊ジェットマン）", "影山ヒロノブ", -1],
+    [10, "こころはタマゴ", "影山ヒロノブ", -1],
+    [11, "鬼神童子ZENKI", "影山ヒロノブ", -1],
+    [12, "聖闘士神話 ～ソルジャー・ドリーム～", "影山ヒロノブ", -1],
+    [13, "夢光年", "影山ヒロノブ", -1],
+    [14, "赤頭巾ちゃん御用心", "影山ヒロノブ", -1],
+    [15, "愛には愛を", "影山ヒロノブ", -1],
+    [16, "二人の宝島", "影山ヒロノブ", -1],
+    [17, "Hey! I love you!", "影山ヒロノブ", -1],
+    [18, "Stellar Compass", "影山ヒロノブ", -1],
+    [19, "感じてナイト", "影山ヒロノブ", -1],
+    [20, "宇宙は僕らを待っている", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[63]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 5"
+tracks = [
+    [1, "Beginning", "影山ヒロノブ", -1],
+    [2, "甘く危険な夜に", "影山ヒロノブ", -1],
+    [3, "Mr.Travelin’Man", "影山ヒロノブ", -1],
+    [4, "Life without you", "影山ヒロノブ", -1],
+    [5, "She’s trouble & I’m such a fool!", "影山ヒロノブ", -1],
+    [6, "おーりとーり", "影山ヒロノブ", -1],
+    [7, "Home ～僕の大切な人達へ～", "影山ヒロノブ", -1],
+    [8, "HEATS", "影山ヒロノブ", -1],
+    [9, "戦隊メドレ（電撃戦隊チェンジマン・光戦隊マスクマン・鳥人戦隊ジェットマン）", "影山ヒロノブ", -1],
+    [10, "こころはタマゴ", "影山ヒロノブ", -1],
+    [11, "鬼神童子ZENKI", "影山ヒロノブ", -1],
+    [12, "聖闘士神話 ～ソルジャー・ドリーム～", "影山ヒロノブ", -1],
+    [13, "夢光年", "影山ヒロノブ", -1],
+    [14, "赤頭巾ちゃん御用心", "影山ヒロノブ", -1],
+    [15, "愛には愛を", "影山ヒロノブ", -1],
+    [16, "二人の宝島", "影山ヒロノブ", -1],
+    [17, "Hey! I love you!", "影山ヒロノブ", -1],
+    [18, "Stellar Compass", "影山ヒロノブ", -1],
+    [19, "感じてナイト", "影山ヒロノブ", -1],
+    [20, "宇宙は僕らを待っている", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[64]
+catalognumber = "LACA-35700"
+date = "2018-02-14"
+album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 6"
+tracks = [
+    [1, "LINE LIVE 『～影山ヒロノブデビュー40周年記念LINE LIVE～「影生ヒロノブ」』Digest", "影山ヒロノブ", -1],
+    [2, "『影山ヒロノブ LIVE 2006 Cold Rain』Digest", "影山ヒロノブ", -1],
+    [3, "『影山ヒロノブ 30周年記念ライブ』Digest", "影山ヒロノブ", -1],
+    [4, "Making of 『A.O.R』", "影山ヒロノブ", -1],
+    [5, "Making of 『40years on the road』", "影山ヒロノブ", -1],
+    [6, "『ハッピーアイスクリーム!』Music Video ～オレは「J‐Rider」!", "影山ヒロノブ", -1],
+    [7, "『Beginning』Music Video ～Recording in Los Angeles", "影山ヒロノブ", -1],
+    [8, "『30years 3ounce』Music Video", "影山ヒロノブ", -1],
+    [9, "『CROSS WORLD～俺達のフロンティアスピリット～』Music Video", "影山ヒロノブ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+
+[65]
+catalognumber = "LACA-15699"
+date = "2018-03-21"
+album = "『ガールズ&パンツァー最終章』ドラマCD2～学園祭です!?〜"
+tracks = [
+    [1, "学園祭です!?", "", -1],
+    [2, "大学選抜の休日", "", -1],
+    [3, "ガールズ&パンツァー休み時間です! #2", "", -1],
+    [4, "アンチョビ細腕繁盛記 #2", "", -1],
+]
+links = ["https://vgmdb.net/album/74063"]
+
+[66]
+catalognumber = "LACM-14819"
+date = "2018-12-26"
+album = "Still a long way to go / ChouCho × 佐咲紗花"
+tracks = [
+    [1, "Still a long way to go", "ChouCho × 佐咲紗花", 0],
+    [2, "フロンティア", "ChouCho", 0],
+    [3, "春色スカイ", "佐咲紗花", 1],
+    [4, "Still a long way to go (off vocal)", "ChouCho × 佐咲紗花", 0],
+    [5, "フロンティア (off vocal)", "ChouCho", 0],
+    [6, "春色スカイ (off vocal)", "佐咲紗花", 0],
+]
+links = ["https://beta.musicbrainz.org/release/47c6f77b-02c3-48c6-a27f-ff316aa2c63e", "https://vgmdb.net/album/80983"]
+
+[67]
+catalognumber = "LACA-15779"
+date = "2019-06-05"
+album = "『ガールズ&パンツァー最終章』ドラマCD3 〜練習試合です!〜"
+tracks = [
+    [1, "ダージリンのサンダース訪問記", "", -1],
+    [2, "アリクイさんチーム、太陽の下へ", "", -1],
+    [3, "ガールズ&パンツァー休み時間です! #3", "", -1],
+    [4, "アンチョビ細腕繁盛記 #3", "", -1],
+]
+links = ["https://vgmdb.net/album/84943"]
+
+[68]
+catalognumber = "LACA-15799"
+date = "2019-11-13"
+album = "『ガールズ&パンツァー最終章』ドラマCD4 〜おやつの時間はまだかしら♪〜"
+tracks = [
+    [1, "午後のマリー様", "", -1],
+    [2, "どん底の一日", "", -1],
+    [3, "ガールズ&パンツァー休み時間です! #4", "", -1],
+    [4, "アンチョビ細腕繁盛記 #4", "", -1],
+]
+links = ["https://vgmdb.net/album/89231"]
+
+[69]
+catalognumber = "LAPP-1113"
+date = "2019-11-27"
+album = "Acoustic Album naked garden 特典CD / ChouCho"
+tracks = [
+    [1, "Authentic symphony (Acoustic Live \"naked garden\" vol.9)", "", -1],
+    [2, "DreamRiser (Acoustic Live \"naked garden\" vol.9)", "", 0],
+]
+links = ["https://vgmdb.net/album/96130"]
+
+[70]
+catalognumber = "LACA-15801"
+date = "2019-11-27"
+album = "naked garden / ChouCho"
+tracks = [
+    [1, "リコリス", "ChouCho", -1],
+    [2, "カワルミライ", "ChouCho", -1],
+    [3, "優しさの理由", "ChouCho", -1],
+    [4, "Snow halation", "ChouCho", -1],
+    [5, "starlog", "ChouCho", -1],
+    [6, "木蘭の涙", "ChouCho", -1],
+    [7, "明日の君さえいればいい。", "ChouCho", -1],
+    [8, "Agape", "ChouCho", -1],
+    [9, "piece of youth", "ChouCho", 0],
+    [10, "searchlight", "ChouCho", -1],
+]
+links = ["https://beta.musicbrainz.org/release/b404cf9f-bff9-4e95-9b9a-801fd04a151e", "https://vgmdb.net/album/90456"]
+
+[71]
+catalognumber = "LACA-15812"
+date = "2020-03-11"
+album = "交響曲ガールズ&パンツァー"
+tracks = [
+    [1, "第一楽章 戦車道行進曲", "浜口史郎", 0],
+    [2, "第二楽章 新しい生活と決意", "浜口史郎", 0],
+    [3, "第三楽章 戦車道全国高校生大会", "浜口史郎", 0],
+    [4, "第四楽章 数々のピンチの果てに", "浜口史郎", 0],
+    [5, "第五楽章 それぞれの想い", "浜口史郎", 0],
+    [6, "第六楽章 最後の戦い～フィナーレ", "浜口史郎", 0],
+    [7, "ガールズ&パンツァーのための狂詩曲", "浜口史郎", 0],
+]
+links = ["https://beta.musicbrainz.org/release/681ded8c-ce1e-4acd-8a2f-154a87df4e2c", "https://vgmdb.net/album/92244"]
+
+[72]
+catalognumber = "LACA-9793"
+date = "2020-11-11"
+album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 1 [LACA-9793]"
+tracks = [
+    [1, "星彩のRipieno", "佐咲紗花", -1],
+    [2, "Lucky☆Racer", "佐咲紗花", -1],
+    [3, "Real Star☆", "佐咲紗花", -1],
+    [4, "fly away t.p.s", "佐咲紗花", -1],
+    [5, "Zzz", "佐咲紗花", -1],
+    [6, "Starting Again", "佐咲紗花", -1],
+    [7, "Reason why XXX", "佐咲紗花", -1],
+    [8, "Break your world", "佐咲紗花", -1],
+    [9, "Junction heart", "佐咲紗花", -1],
+    [10, "CHIASTOLITE", "佐咲紗花", -1],
+    [11, "DREAMLESS DIVER", "佐咲紗花", -1],
+    [12, "WASTELANDERS", "佐咲紗花", -1],
+    [13, "FEEL×ALIVE", "佐咲紗花", -1],
+    [14, "ID-0", "佐咲紗花", -1],
+    [15, "Grand symphony", "佐咲紗花", 0],
+    [16, "SCARLET MASTER", "佐咲紗花", -1],
+    [17, "ヒトツボシ", "佐咲紗花", -1],
+]
+links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
 
 [73]
-catalognumber = "LACA-15529"
-date = "2015-12-02"
-album = "ガールズ&パンツァー タンソンミニアルバム"
+catalognumber = "LACA-9794"
+date = "2020-11-11"
+album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 2 [LACA-9794]"
 tracks = [
-    [1, "GO! Ⅳ! IT!", "影山ヒロノブ", -1],
-    [2, "超重戦車級王者マウス", "蝶野正洋", -1],
-    [3, "鉄人戦車T28!", "山形ユキオ", -1],
-    [4, "万能戦車センチュリオン", "宮内タカユキ", -1],
-    [5, "ティーガー・フィーバー!", "遠藤正明", -1],
+    [1, "universal sky", "佐咲紗花", -1],
+    [2, "Shooting the future", "佐咲紗花", -1],
+    [3, "Fortune love", "佐咲紗花", -1],
+    [4, "ワールドエンド", "佐咲紗花", -1],
+    [5, "BLAZE MOMENT 〜紅蓮浄歌〜", "佐咲紗花", -1],
+    [6, "絶対☆強気主義", "佐咲紗花", -1],
+    [7, "恋さくミライ", "佐咲紗花", -1],
+    [8, "あいのうた", "佐咲紗花", -1],
+    [9, "happy!happy!スキャンダル!!", "佐咲紗花", -1],
+    [10, "Heart beat", "佐咲紗花", -1],
+    [11, "One Kiss One Love", "佐咲紗花", -1],
+    [12, "未来永劫", "佐咲紗花", -1],
+    [13, "infinite knots", "佐咲紗花", -1],
+    [14, "Golden Mission", "佐咲紗花", -1],
+    [15, "True Memories Symphony", "佐咲紗花", -1],
+    [16, "さくら、Reincarnation", "佐咲紗花", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/2d943aaf-a9c0-4de4-bf59-205157ffb8f6", "https://vgmdb.net/album/54904"]
+links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
 
 [74]
-catalognumber = "LACA-15427"
-date = "2014-08-06"
-album = "TVアニメ ガールズ&パンツァー ドラマCD3 あんこうチーム訪問します! Disc 1 [LACA-15427]"
+catalognumber = "LACA-9795"
+date = "2020-11-11"
+album = "SAYABEST 2010-2020 / 佐咲紗花 Disc 3 [LACA-9795]"
 tracks = [
-    [1, "また生徒会の無茶ぶりです", "[dialogue]", 0],
-    [2, "聖グロリアーナ訪問します", "[dialogue]", 0],
-    [3, "サンダース再びであります", "[dialogue]", 0],
-    [4, "アンツィオはおいしそうね", "[dialogue]", 0],
-    [5, "夜行列車は通ってないのか", "[dialogue]", 0],
-    [6, "少し久しぶりの黒森峰です", "[dialogue]", 0],
+    [1, "Atlantico Blue", "佐咲紗花", -1],
+    [2, "Super Shiny Sensation!!!", "佐咲紗花", -1],
+    [3, "snow ring", "佐咲紗花", -1],
+    [4, "君と奏でるストーリー", "佐咲紗花", -1],
+    [5, "High-Flying Future!!", "佐咲紗花", 0],
+    [6, "花紋", "佐咲紗花 with 三狐神囃子", -1],
+    [7, "Rewritable", "佐咲紗花", -1],
+    [8, "Lily of Angels", "佐咲紗花", -1],
+    [9, "あんこう音頭", "佐咲紗花", 0],
+    [10, "sympathetic world", "佐咲紗花", -1],
+    [11, "流星ボイス", "佐咲紗花", -1],
+    [12, "渚JUMPING!!", "佐咲紗花", -1],
+    [13, "Twinkle Starlight", "佐咲紗花", -1],
+    [14, "日常0話エンディングテーマ", "佐咲紗花", -1],
+    [15, "恋花", "佐咲紗花", -1],
+    [16, "Go future", "佐咲紗花", -1],
+    [17, "ダイアログ", "佐咲紗花", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/e21440ec-d5cf-4ebd-963a-5426985f3d86", "https://vgmdb.net/album/47922"]
+links = ["https://beta.musicbrainz.org/release/69b942b5-14ef-49c9-9cc3-236d00662c11", "https://vgmdb.net/album/101631"]
 
 [75]
-catalognumber = "LACA-15427"
-date = "2014-08-06"
-album = "TVアニメ ガールズ&パンツァー ドラマCD3 あんこうチーム訪問します! Disc 2 [LAPC-1070]"
-tracks = [
-    [1, "秋山優花里のアンツィオ校潜入大作戦です！", "[dialogue]", 0],
-    [2, "これが本当のアンツィオ戦です！メドレー１（模擬戦～試合開始）", "[dialogue]", 0],
-    [3, "Le Fiamme Nere", "[dialogue]", 0],
-    [4, "これが本当のアンツィオ戦です！メドレー２（マカロニ作戦～試合終了）", "[dialogue]", 0],
-    [5, "フニクリ・フニクラ", "[dialogue]", 0],
-]
-links = ["https://beta.musicbrainz.org/release/e21440ec-d5cf-4ebd-963a-5426985f3d86", "https://vgmdb.net/album/47922"]
-
-[76]
 catalognumber = "LACA-15870"
 date = "2021-05-12"
 album = "アニメ『ガールズ＆パンツァー 最終章』オリジナルサウンドトラック"
@@ -1332,211 +1294,225 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/44be04f6-b2b3-463e-a2bf-4bd1abd1b1b8", "https://vgmdb.net/album/108949"]
 
-[77]
-catalognumber = "LACM-14819"
-date = "2018-12-26"
-album = "Still a long way to go / ChouCho × 佐咲紗花"
+[76]
+catalognumber = "LAVZ-10003"
+date = "2021-11-01"
+album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 1 [LAVZ-10003]"
 tracks = [
-    [1, "Still a long way to go", "ChouCho × 佐咲紗花", 0],
-    [2, "フロンティア", "ChouCho", 0],
-    [3, "春色スカイ", "佐咲紗花", 1],
-    [4, "Still a long way to go (off vocal)", "ChouCho × 佐咲紗花", 0],
-    [5, "フロンティア (off vocal)", "ChouCho", 0],
-    [6, "春色スカイ (off vocal)", "佐咲紗花", 0],
+    [0, "A-Side", "", -1],
+    [0, "Side length 15:00", "", -1],
+    [0, "B-Side", "", -1],
+    [1, "戦車道行進曲!パンツァーフォー!", "", 0],
+    [2, "乙女のたしなみ戦車道マーチ!", "", 0],
+    [3, "大洗女子学園チーム前進します!", "", 0],
+    [4, "戦車、乗ります!", "", 0],
+    [5, "学園艦は今日も勇壮に海原を進みます!", "", 0],
+    [6, "新しい朝の始まりです!", "", 0],
+    [7, "転校してきて良かったです!", "", 0],
+    [8, "私、モテモテで困ってます!?", "", 0],
+    [9, "戦車の知識では誰にも負けません!", "", 0],
+    [10, "秘めた想いに触れました!", "", 0],
+    [11, "おばぁに会いに行きます!", "", 0],
+    [12, "こんな普通の学園生活って素敵です!", "", 0],
+    [13, "私、いやな予感がします!", "", 0],
+    [14, "横暴は生徒会に与えられた正当な権利です!", "", 0],
+    [15, "戦車道とは女子としての道を極めることでもあります!", "", 0],
+    [16, "生徒会、悲壮な決意とともに進みます!", "", 0],
+    [17, "バレー部復活をかけて戦います!", "", 0],
+    [18, "私たち、精一杯頑張ります!", "", 0],
+    [19, "戦車を可愛くデコレーションしちゃいます!", "", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/47c6f77b-02c3-48c6-a27f-ff316aa2c63e", "https://vgmdb.net/album/80983"]
+links = ["https://vgmdb.net/album/117892"]
+
+[77]
+catalognumber = "LAVZ-10003"
+date = "2021-11-01"
+album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 2 [LAVZ-10005]"
+tracks = [
+    [0, "A-Side", "", -1],
+    [0, "Side length 14:41", "", -1],
+    [0, "B-Side", "", -1],
+    [1, "アウトレットでお買い物します!", "", 0],
+    [2, "戦車喫茶に来ました!", "", 0],
+    [3, "スポーツニュースは今日も戦車道を報じています!", "", 0],
+    [4, "理由があります…", "", 0],
+    [5, "私、決めます!", "", 0],
+    [6, "これが友情ですね!", "", 0],
+    [7, "明日に備えて寝ます!", "", 0],
+    [8, "開会式です!", "", 0],
+    [9, "栄光の戦車道全国大会始まります!", "", 0],
+    [10, "いざ!試合にのぞみます!", "", 0],
+    [11, "敵戦車進軍してきます!", "", 0],
+    [12, "息を殺して待ちぶせします!", "", 0],
+    [13, "戦線は膠着状態です!", "", 0],
+    [14, "緊迫する戦況です!", "", 0],
+    [15, "健闘を讃え合います!", "", 0],
+    [16, "昨日の敵は今日の友です!", "", 0],
+    [17, "みんな最高の友だちです!", "", 0],
+    [18, "戦車道アンセムです!", "", 0],
+]
+links = ["https://vgmdb.net/album/117892"]
 
 [78]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement, Vocal"
+catalognumber = "LAVZ-10003"
+date = "2021-11-01"
+album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 3 [LAVZ-10006]"
 tracks = [
-    [1, "薔薇は美しく散る", "影山ヒロノブ", -1],
-    [2, "裏切りの夕焼け", "影山ヒロノブ", -1],
-    [3, "THE REAL FOLK BLUES", "影山ヒロノブ", -1],
-    [4, "好敵手", "影山ヒロノブ", -1],
-    [5, "カントリーロード", "影山ヒロノブ", -1],
-    [6, "炎のたからもの", "影山ヒロノブ", -1],
-    [7, "草原のマルコ", "影山ヒロノブ", -1],
-    [8, "Get Wild", "影山ヒロノブ", -1],
-    [9, "ルパン三世・愛のテーマ", "影山ヒロノブ", -1],
-    [10, "God knows…", "影山ヒロノブ", -1],
-    [11, "グローイング・アップ", "影山ヒロノブ", -1],
-    [12, "葛飾ラプソディー", "影山ヒロノブ", -1],
-    [13, "風にひとりで", "影山ヒロノブ", -1],
+    [0, "A-Side", "", -1],
+    [0, "Side length 15:31", "", -1],
+    [0, "B-Side", "", -1],
+    [1, "それゆけ!乙女の戦車道!! Wind Orchestra ver.", "", 0],
+    [2, "ブリティッシュ・グレナディアーズ", "", 0],
+    [3, "リパブリック讃歌", "", 0],
+    [4, "アメリカ野砲隊マーチ", "", 0],
+    [5, "M4シャーマン中戦車 A GO!GO!", "", 0],
+    [6, "パンツァー・リート", "", 0],
+    [7, "エーリカ", "", 0],
+    [8, "ポーリュシュカ・ポーレ", "", 0],
+    [9, "カチューシャ", "", 0],
+    [10, "カチューシャ Sung by カチューシャ&ノンナ", "", 0],
+    [11, "あんこう音頭", "", 0],
+    [12, "DreamRiser (TV size)", "", 0],
+    [13, "Enter Enter MISSION! (TV size)", "", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://vgmdb.net/album/117892"]
 
 [79]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Arrangement"
+catalognumber = "LACA-9862"
+date = "2021-12-08"
+album = "ChouCho the BEST Vocal Disc 1"
 tracks = [
-    [1, "薔薇は美しく散る", "影山ヒロノブ", -1],
-    [2, "裏切りの夕焼け", "影山ヒロノブ", -1],
-    [3, "THE REAL FOLK BLUES", "影山ヒロノブ", -1],
-    [4, "好敵手", "影山ヒロノブ", -1],
-    [5, "カントリーロード", "影山ヒロノブ", -1],
-    [6, "炎のたからもの", "影山ヒロノブ", -1],
-    [7, "草原のマルコ", "影山ヒロノブ", -1],
-    [8, "Get Wild", "影山ヒロノブ", -1],
-    [9, "ルパン三世・愛のテーマ", "影山ヒロノブ", -1],
-    [10, "God knows…", "影山ヒロノブ", -1],
-    [11, "グローイング・アップ", "影山ヒロノブ", -1],
-    [12, "葛飾ラプソディー", "影山ヒロノブ", -1],
+    [1, "Aurorise", "ChouCho", -1],
+    [2, "優しさの理由", "ChouCho", -1],
+    [3, "Here comes The SUN", "ChouCho", -1],
+    [4, "Elemental World", "ChouCho", -1],
+    [5, "Authentic symphony", "ちょうちょ", -1],
+    [6, "風のソルフェ", "ChouCho", -1],
+    [7, "明日の君さえいればいい。", "ChouCho", -1],
+    [8, "夏の日と君の声", "ChouCho", -1],
+    [9, "ハルモニア", "ChouCho", -1],
+    [10, "フロンティア", "ChouCho", 0],
+    [11, "DreamRiser", "ChouCho", 0],
+    [12, "なないろのたね", "ChouCho", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113409"]
 
 [80]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal"
+catalognumber = "LACA-9863"
+date = "2021-12-08"
+album = "ChouCho the BEST Vocal Disc 2"
 tracks = [
-    [1, "エンブレム～名も無き英雄達へ～", "JAM Project", -1],
-    [2, "翼", "影山ヒロノブ", -1],
-    [3, "Follow you ～君とともに～", "影山ヒロノブ", -1],
-    [4, "超ヒーロー伝説", "影山ヒロノブ", -1],
-    [5, "呀 ～Tusk of Darkness～", "影山ヒロノブ", -1],
-    [6, "ヨーソロー ～星の海を越えて～", "影山ヒロノブ", -1],
-    [7, "Worrier ～闇を駆ける呀～", "影山ヒロノブ", -1],
-    [8, "魔戒群狼伝牙王", "影山ヒロノブ", -1],
-    [9, "KO・BU・SHI ～鉄拳～", "影山ヒロノブ", -1],
-    [10, "ヒッパレ!モンスターストライク", "影山ヒロノブ", -1],
-    [11, "GO! IV! IT!", "影山ヒロノブ", -1],
+    [1, "kaleidoscope", "ChouCho", -1],
+    [2, "BLESS YoUr NAME", "ChouCho", -1],
+    [3, "灰色のサーガ", "ChouCho", -1],
+    [4, "オレンジ色", "ChouCho", -1],
+    [5, "空想トライアングル", "ChouCho", -1],
+    [6, "Asterism", "ChouCho", -1],
+    [7, "空とキミのメッセージ", "ChouCho", -1],
+    [8, "あの空に還る未来で", "ChouCho", -1],
+    [9, "薄紅の月", "ChouCho", -1],
+    [10, "starlog", "ChouCho", -1],
+    [11, "カワルミライ", "ちょうちょ", -1],
+    [12, "piece of youth", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113409"]
 
 [81]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 4"
+catalognumber = "LACA-39862, LACA-39863"
+date = "2021-12-08"
+album = "ChouCho the BEST [初回限定盤] Vocal Disc 1"
 tracks = [
-    [1, "Beginning", "影山ヒロノブ", -1],
-    [2, "甘く危険な夜に", "影山ヒロノブ", -1],
-    [3, "Mr.Travelin’Man", "影山ヒロノブ", -1],
-    [4, "Life without you", "影山ヒロノブ", -1],
-    [5, "She’s trouble & I’m such a fool!", "影山ヒロノブ", -1],
-    [6, "おーりとーり", "影山ヒロノブ", -1],
-    [7, "Home ～僕の大切な人達へ～", "影山ヒロノブ", -1],
-    [8, "HEATS", "影山ヒロノブ", -1],
-    [9, "戦隊メドレ（電撃戦隊チェンジマン・光戦隊マスクマン・鳥人戦隊ジェットマン）", "影山ヒロノブ", -1],
-    [10, "こころはタマゴ", "影山ヒロノブ", -1],
-    [11, "鬼神童子ZENKI", "影山ヒロノブ", -1],
-    [12, "聖闘士神話 ～ソルジャー・ドリーム～", "影山ヒロノブ", -1],
-    [13, "夢光年", "影山ヒロノブ", -1],
-    [14, "赤頭巾ちゃん御用心", "影山ヒロノブ", -1],
-    [15, "愛には愛を", "影山ヒロノブ", -1],
-    [16, "二人の宝島", "影山ヒロノブ", -1],
-    [17, "Hey! I love you!", "影山ヒロノブ", -1],
-    [18, "Stellar Compass", "影山ヒロノブ", -1],
-    [19, "感じてナイト", "影山ヒロノブ", -1],
-    [20, "宇宙は僕らを待っている", "影山ヒロノブ", -1],
+    [1, "Aurorise", "ChouCho", -1],
+    [2, "優しさの理由", "ChouCho", -1],
+    [3, "Here comes The SUN", "ChouCho", -1],
+    [4, "Elemental World", "ChouCho", -1],
+    [5, "Authentic symphony", "ちょうちょ", -1],
+    [6, "風のソルフェ", "ChouCho", -1],
+    [7, "明日の君さえいればいい。", "ChouCho", -1],
+    [8, "夏の日と君の声", "ChouCho", -1],
+    [9, "ハルモニア", "ChouCho", -1],
+    [10, "フロンティア", "ChouCho", 0],
+    [11, "DreamRiser", "ChouCho", 0],
+    [12, "なないろのたね", "ChouCho", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113410"]
 
 [82]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 5"
+catalognumber = "LACA-39862, LACA-39863"
+date = "2021-12-08"
+album = "ChouCho the BEST [初回限定盤] Vocal Disc 2"
 tracks = [
-    [1, "Beginning", "影山ヒロノブ", -1],
-    [2, "甘く危険な夜に", "影山ヒロノブ", -1],
-    [3, "Mr.Travelin’Man", "影山ヒロノブ", -1],
-    [4, "Life without you", "影山ヒロノブ", -1],
-    [5, "She’s trouble & I’m such a fool!", "影山ヒロノブ", -1],
-    [6, "おーりとーり", "影山ヒロノブ", -1],
-    [7, "Home ～僕の大切な人達へ～", "影山ヒロノブ", -1],
-    [8, "HEATS", "影山ヒロノブ", -1],
-    [9, "戦隊メドレ（電撃戦隊チェンジマン・光戦隊マスクマン・鳥人戦隊ジェットマン）", "影山ヒロノブ", -1],
-    [10, "こころはタマゴ", "影山ヒロノブ", -1],
-    [11, "鬼神童子ZENKI", "影山ヒロノブ", -1],
-    [12, "聖闘士神話 ～ソルジャー・ドリーム～", "影山ヒロノブ", -1],
-    [13, "夢光年", "影山ヒロノブ", -1],
-    [14, "赤頭巾ちゃん御用心", "影山ヒロノブ", -1],
-    [15, "愛には愛を", "影山ヒロノブ", -1],
-    [16, "二人の宝島", "影山ヒロノブ", -1],
-    [17, "Hey! I love you!", "影山ヒロノブ", -1],
-    [18, "Stellar Compass", "影山ヒロノブ", -1],
-    [19, "感じてナイト", "影山ヒロノブ", -1],
-    [20, "宇宙は僕らを待っている", "影山ヒロノブ", -1],
+    [1, "kaleidoscope", "ChouCho", -1],
+    [2, "BLESS YoUr NAME", "ChouCho", -1],
+    [3, "灰色のサーガ", "ChouCho", -1],
+    [4, "オレンジ色", "ChouCho", -1],
+    [5, "空想トライアングル", "ChouCho", -1],
+    [6, "Asterism", "ChouCho", -1],
+    [7, "空とキミのメッセージ", "ChouCho", -1],
+    [8, "あの空に還る未来で", "ChouCho", -1],
+    [9, "薄紅の月", "ChouCho", -1],
+    [10, "starlog", "ChouCho", -1],
+    [11, "カワルミライ", "ちょうちょ", -1],
+    [12, "piece of youth", "ChouCho", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113410"]
 
 [83]
-catalognumber = "LACA-35700"
-date = "2018-02-14"
-album = "誰がカバーやねんアニソンショー [40th Anniversary Edition] / 影山ヒロノブ [初回限定生產盤] Vocal, Live Event, Video Disc 6"
+catalognumber = "LACA-39862, LACA-39863"
+date = "2021-12-08"
+album = "ChouCho the BEST [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "LINE LIVE 『～影山ヒロノブデビュー40周年記念LINE LIVE～「影生ヒロノブ」』Digest", "影山ヒロノブ", -1],
-    [2, "『影山ヒロノブ LIVE 2006 Cold Rain』Digest", "影山ヒロノブ", -1],
-    [3, "『影山ヒロノブ 30周年記念ライブ』Digest", "影山ヒロノブ", -1],
-    [4, "Making of 『A.O.R』", "影山ヒロノブ", -1],
-    [5, "Making of 『40years on the road』", "影山ヒロノブ", -1],
-    [6, "『ハッピーアイスクリーム!』Music Video ～オレは「J‐Rider」!", "影山ヒロノブ", -1],
-    [7, "『Beginning』Music Video ～Recording in Los Angeles", "影山ヒロノブ", -1],
-    [8, "『30years 3ounce』Music Video", "影山ヒロノブ", -1],
-    [9, "『CROSS WORLD～俺達のフロンティアスピリット～』Music Video", "影山ヒロノブ", -1],
+    [1, "DreamRiser", "", 0],
+    [2, "kaleidoscope", "", -1],
+    [3, "灰色のサーガ", "", -1],
+    [4, "なないろのたね", "", -1],
+    [5, "優しさの理由", "", -1],
+    [6, "カワルミライ", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/eb013dd6-3f19-45e3-8071-8d17edfc47d4", "https://vgmdb.net/album/140178"]
+links = ["https://vgmdb.net/album/113410"]
 
 [84]
-catalognumber = "DTRB-0004"
-date = "2017-12-29"
-album = "dRoiD vol.4"
+catalognumber = "LACA-39959"
+date = "2023-09-27"
+album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム [初回限定盤] Disc 1 [LACA-39959]"
 tracks = [
-    [1, "プラチナ", "", -1],
-    [2, "檄! 帝国華撃団", "", -1],
-    [3, "ルパン三世のテーマ ‘78", "", -1],
-    [4, "宇宙戦艦ヤマト", "", -1],
-    [5, "戦車道行進曲! パンツァーフォー!", "", 0],
-    [6, "ようこそジャパリパークへ", "", -1],
+    [1, "DreamRiser", "", 0],
+    [2, "眠れる本能", "", 0],
+    [3, "one and only", "", -1],
+    [4, "あんこう音頭", "", 0],
+    [5, "High-Flying Future!!", "", 0],
+    [6, "希望の絆", "", 0],
+    [7, "Still a long way to go", "", 0],
 ]
-links = ["https://vgmdb.net/album/76883"]
+links = ["https://vgmdb.net/album/130484"]
 
 [85]
-catalognumber = "LACA-15680"
-date = "2018-01-17"
-album = "color of time / ChouCho"
+catalognumber = "LACA-39960"
+date = "2023-09-27"
+album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム [初回限定盤] Disc 2 [LACA-39960]"
 tracks = [
-    [1, "color of time", "ChouCho", -1],
-    [2, "kaleidoscope", "ChouCho", -1],
-    [3, "Elemental World", "ChouCho", -1],
-    [4, "ワンダーテイル", "ChouCho", -1],
-    [5, "cuddle", "ChouCho", -1],
-    [6, "セフィロトの木", "ChouCho", -1],
-    [7, "one and only", "ChouCho", -1],
-    [8, "Asterism", "ChouCho", -1],
-    [9, "アンダンテ", "ChouCho", -1],
-    [10, "薄紅の月", "ChouCho", -1],
-    [11, "明日の君さえいればいい。", "ChouCho", -1],
-    [12, "アリア", "ChouCho", -1],
-    [13, "searchlight", "ChouCho", -1],
+    [1, "Enter Enter MISSION!", "", 0],
+    [2, "それゆけ! 乙女の戦車道!!", "", 0],
+    [3, "GOING PANZER WAY!", "", 0],
+    [4, "DreamRiser あんこう ver.", "", 0],
+    [5, "戦車道行進曲", "", 0],
+    [6, "雪の進軍", "", 0],
+    [7, "SCHOOL GIRL、はじめます!", "", 0],
+    [8, "infinity orbit", "", 0],
+    [9, "恋にLOVEして", "", 0],
+    [10, "SUNNY GIRL", "", 0],
+    [11, "咲いたはな", "", 0],
+    [12, "なんて素敵な理想像!", "", 0],
+    [13, "戦車道恋唄!", "", 0],
+    [14, "1PLDK", "", 0],
+    [15, "メランコリック", "", 0],
+    [16, "朝の戦い", "", 0],
+    [17, "カチューシャ Sung by カチューシャ＆ノンナ", "", 0],
+    [18, "Enter Enter MISSION! 第63回戦車道全国高校生大会ver.", "", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/1c1cf1a9-7087-4b78-8583-a5bac0f46330", "https://vgmdb.net/album/72072"]
+links = ["https://vgmdb.net/album/130484"]
 
 [86]
-catalognumber = "BCXE-0779"
-date = "2013-09-25"
-album = "雪の進軍 / 中上育実 & 森谷里美"
-tracks = [
-    [1, "雪の進軍", "", 0],
-    [2, "雪の進軍 (Off Vocal)", "", 0],
-]
-links = ["https://vgmdb.net/album/39034"]
-
-[87]
-catalognumber = "LACA-15779"
-date = "2019-06-05"
-album = "『ガールズ&パンツァー最終章』ドラマCD3 〜練習試合です!〜"
-tracks = [
-    [1, "ダージリンのサンダース訪問記", "", -1],
-    [2, "アリクイさんチーム、太陽の下へ", "", -1],
-    [3, "ガールズ&パンツァー休み時間です! #3", "", -1],
-    [4, "アンチョビ細腕繁盛記 #3", "", -1],
-]
-links = ["https://vgmdb.net/album/84943"]
-
-[88]
 catalognumber = "LACA-9959"
 date = "2023-09-27"
 album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム Disc 1 [LACA-9959]"
@@ -1551,7 +1527,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/12317825-4c5f-49d0-a66a-71343235acc3", "https://vgmdb.net/album/130483"]
 
-[89]
+[87]
 catalognumber = "LACA-9960"
 date = "2023-09-27"
 album = "TVアニメ『ガールズ&パンツァー』10周年ベストアルバム Disc 2 [LACA-9960]"
@@ -1576,3 +1552,27 @@ tracks = [
     [18, "Enter Enter MISSION! 第63回戦車道全国高校生大会ver.", "西住みほ (CV.渕上 舞) ダージリン (CV.喜多村英梨)/ケイ (CV.川澄綾子)/アンチョビ (CV.吉岡麻耶)/カチューシャ (CV.金元寿子)/西住まほ (CV.田中理恵)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/12317825-4c5f-49d0-a66a-71343235acc3", "https://vgmdb.net/album/130483"]
+
+[88]
+catalognumber = "LACM-24436"
+date = "2023-10-04"
+album = "Never Say Goodbye / ChouCho"
+tracks = [
+    [1, "Never Say Goodbye", "ChouCho", -1],
+    [2, "Grand symphony", "ChouCho", 0],
+    [3, "Never Say Goodbye (off vocal)", "ChouCho", -1],
+    [4, "Grand symphony (off vocal)", "ChouCho", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e3854cb2-60a8-4e02-be63-30c9d10aad8f", "https://vgmdb.net/album/130709"]
+
+[89]
+catalognumber = "LACZ-10174"
+date = "2023-10-06"
+album = "Never Say Goodbye / ChouCho [販路限定LPサイズ盤]"
+tracks = [
+    [1, "Never Say Goodbye", "ChouCho", -1],
+    [2, "Grand symphony", "ChouCho", 0],
+    [3, "Never Say Goodbye (off vocal)", "ChouCho", -1],
+    [4, "Grand symphony (off vocal)", "ChouCho", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d3f40e11-b61a-4415-9bac-5c3793788790", "https://vgmdb.net/album/130710"]

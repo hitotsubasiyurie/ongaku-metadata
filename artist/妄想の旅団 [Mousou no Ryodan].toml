@@ -1,5 +1,17 @@
 [1]
 catalognumber = ""
+date = "2007-08-17"
+album = "歌種（ウタタネ）"
+tracks = [
+    [1, "透明なマニキュア", "九条雛姫", -1],
+    [2, "LOVE FIRE", "九条雛姫", -1],
+    [3, "LOST MY MUSIC", "九条雛姫", -1],
+    [4, "鳥の詩", "九条雛姫", -1],
+]
+links = ["https://www.dojin-music.info/cd/457"]
+
+[2]
+catalognumber = ""
 date = "2007-10-08"
 album = "PRE-VIEW"
 tracks = [
@@ -8,133 +20,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24191"]
 
-[2]
-catalognumber = ""
-date = "2020-05-29"
-album = "だって魔法が使えるもん！"
-tracks = [
-    [1, "あなたに一番効く魔法", "桜妃あむ", 0],
-    [2, "無敵の呪文", "浅井ゆう", 0],
-]
-links = ["https://www.dojin-music.info/cd/21011"]
-
 [3]
-catalognumber = ""
-date = "2021-12-31"
-album = "アイドルだもん！"
-tracks = [
-    [1, "アイドルだもん！", "まるもこ", -1],
-]
-links = ["https://www.dojin-music.info/cd/26281"]
-
-[4]
-catalognumber = ""
-date = "2019-04-28"
-album = "ベリーこみゅこみゅ"
-tracks = [
-    [1, "なかよく…なれるかな?", "揚げだし豆腐ゆう", 0],
-    [2, "なかよくなろ!", "桜妃あむ", 0],
-]
-links = ["https://www.dojin-music.info/cd/6538"]
-
-[5]
-catalognumber = ""
-date = "2025-04-27"
-album = "幸せSelect"
-tracks = [
-    [1, "幸せSelect", "まるもこ", -1],
-    [2, "選択的選択権", "恋摘もなか", -1],
-]
-links = ["https://www.dojin-music.info/cd/34076"]
-
-[6]
-catalognumber = ""
-date = "2016-12-31"
-album = "嫁はソシャゲにいるよ！"
-tracks = [
-    [1, "嫁が突然ガチャで来ると大変なんです", "ほたるたん", 0],
-    [2, "嫁は9歳で2.5次元ですがなにか？", "桜妃あむ", 1],
-]
-links = ["https://www.dojin-music.info/cd/6342"]
-
-[7]
-catalognumber = ""
-date = "2019-10-27"
-album = "ちっちゃな天使！"
-tracks = [
-    [1, "て、天使なんかじゃないから！", "揚げだし豆腐ゆう", 0],
-    [2, "だって天使だもん！", "桜妃あむ", 0],
-]
-links = ["https://www.dojin-music.info/cd/10437"]
-
-[8]
-catalognumber = ""
-date = "2016-04-24"
-album = "ソクパラ"
-tracks = [
-    [1, "靴下の1-JK（の履いてるタイツ）の場合", "ほたる", 0],
-    [2, "靴下の2-JCの場合", "星空唄", 0],
-    [3, "靴下の3-JSの場", "ほたる", 0],
-]
-links = ["https://www.dojin-music.info/cd/6344"]
-
-[9]
-catalognumber = ""
-date = "2008-08-16"
-album = "animus sonus"
-tracks = [
-    [1, "I Bless Thy Life", "Reira", -1],
-    [2, "Lamento", "Reira", -1],
-    [3, "沙耶の唄", "Reira", -1],
-    [4, "幻灯", "Reira", -1],
-    [5, "ガラスのくつ", "Reira", -1],
-    [6, "賛えし闘いの詩", "Reira", -1],
-    [7, "STILL", "Reira", -1],
-]
-links = ["https://www.dojin-music.info/cd/1238"]
-
-[10]
-catalognumber = ""
-date = "2018-10-28"
-album = "ゆりゆりやんもえフィーバー"
-tracks = [
-    [1, "ゆりゆりやんもえフィーバー", "桜妃あむ", 0],
-    [2, "妹にタヌキを語られながら起こされる", "", 0],
-]
-links = ["https://www.dojin-music.info/cd/6336"]
-
-[11]
-catalognumber = ""
-date = "2023-08-13"
-album = "お薬だしておきますね！"
-tracks = [
-    [1, "あなたのお薬", "まるもこ", -1],
-    [2, "泣き虫なおくすり", "浅井ゆう", -1],
-]
-links = ["https://www.dojin-music.info/cd/29711"]
-
-[12]
-catalognumber = ""
-date = "2020-03-01"
-album = "お花見しよーじょ"
-tracks = [
-    [1, "恋する蕾", "浅井ゆう", 0],
-    [2, "淡色桜吹雪", "桜妃あむ", 0],
-]
-links = ["https://www.dojin-music.info/cd/17326"]
-
-[13]
-catalognumber = ""
-date = "2017-12-29"
-album = "おねえさんといっしょ"
-tracks = [
-    [1, "おしえて！おねえさん", "ほたるたん、桜妃あむ", 0],
-    [2, "あこがれ！おねえさん！", "桜妃あむ", 0],
-    [3, "おねえさんにはお兄ちゃんはわたさない！", "ほたるたん", 1],
-]
-links = ["https://www.dojin-music.info/cd/6334"]
-
-[14]
 catalognumber = ""
 date = "2008-03-09"
 album = "Little Wish"
@@ -150,7 +36,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/458"]
 
-[15]
+[4]
 catalognumber = ""
 date = "2008-05-11"
 album = "finis vocis"
@@ -160,99 +46,34 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/1237"]
 
-[16]
+[5]
 catalognumber = ""
-date = "2018-04-29"
-album = "ちょっと病んでてかわいいCD"
+date = "2008-08-16"
+album = "animus sonus"
 tracks = [
-    [1, "私、一途なだけです！", "ほたるたん、桜妃あむ", 1],
-    [2, "赤いラブレター", "桜妃あむ", 1],
-    [3, "アイドルDEATH！", "ほたるたん", 0],
+    [1, "I Bless Thy Life", "Reira", -1],
+    [2, "Lamento", "Reira", -1],
+    [3, "沙耶の唄", "Reira", -1],
+    [4, "幻灯", "Reira", -1],
+    [5, "ガラスのくつ", "Reira", -1],
+    [6, "賛えし闘いの詩", "Reira", -1],
+    [7, "STILL", "Reira", -1],
 ]
-links = ["https://www.dojin-music.info/cd/6338"]
+links = ["https://www.dojin-music.info/cd/1238"]
 
-[17]
+[6]
 catalognumber = ""
-date = "2023-10-29"
-album = "人間！合格！！"
+date = "2008-12-29"
+album = "魔法をかけるわ 本当よ！　〜ミクが歌う クリィミーマミ・ヴォーカル・アレンジ集〜"
 tracks = [
-    [1, "合格 or death", "まるもこ", -1],
-    [2, "キライと好き", "浅井ゆう", -1],
+    [1, "デリケートに好きして", "VOCALOID2 初音ミク", 0],
+    [2, "BIN KANルージュ", "VOCALOID2 初音ミク", 0],
+    [3, "ハートのSEASON", "VOCALOID2 初音ミク", 0],
+    [4, "魔法の砂時計", "VOCALOID2 初音ミク", 0],
 ]
-links = ["https://www.dojin-music.info/cd/30698"]
+links = ["https://www.dojin-music.info/cd/1687"]
 
-[18]
-catalognumber = ""
-date = "2017-08-11"
-album = "みんなのおうた"
-tracks = [
-    [1, "みんなのおうた", "ほたるたん、桜妃あむ", 0],
-    [2, "恋するたぬき", "桜妃あむ", 0],
-    [3, "おにいちゃん博物館", "ほたるたん", 0],
-]
-links = ["https://www.dojin-music.info/cd/6340"]
-
-[19]
-catalognumber = ""
-date = "2016-10-30"
-album = "Pet Shop Girls"
-tracks = [
-    [1, "チラッ☆な気持ち", "ほたるたん", 0],
-    [2, "気まぐれ肉球", "ほたるたん", 0],
-    [3, "お散歩るんたった", "星空うた", 0],
-]
-links = ["https://www.dojin-music.info/cd/6343"]
-
-[20]
-catalognumber = ""
-date = "2018-08-10"
-album = "古代アイドル！黄泉比良坂88！"
-tracks = [
-    [1, "おいでよ！神話の国！", "桜妃あむ、揚げだし豆腐ゆう", 0],
-    [2, "因幡の白バニー！", "揚げだし豆腐ゆう", 0],
-    [3, "闇・ヤミ・DANCING!", "桜妃あむ", 0],
-]
-links = ["https://www.dojin-music.info/cd/6337"]
-
-[21]
-catalognumber = ""
-date = "2017-10-29"
-album = "がとー・ど・夜空"
-tracks = [
-    [1, "がとー・ど・夜空", "ほたるたん", 0],
-]
-links = ["https://www.dojin-music.info/cd/6339"]
-
-[22]
-catalognumber = ""
-date = "2007-08-17"
-album = "歌種（ウタタネ）"
-tracks = [
-    [1, "透明なマニキュア", "九条雛姫", -1],
-    [2, "LOVE FIRE", "九条雛姫", -1],
-    [3, "LOST MY MUSIC", "九条雛姫", -1],
-    [4, "鳥の詩", "九条雛姫", -1],
-]
-links = ["https://www.dojin-music.info/cd/457"]
-
-[23]
-catalognumber = ""
-date = "2024-04-28"
-album = "おなかに聞いちゃえ！"
-tracks = []
-links = ["https://www.dojin-music.info/cd/31562"]
-
-[24]
-catalognumber = ""
-date = "2021-10-31"
-album = "SNSへようこそ！"
-tracks = [
-    [1, "らいふ いず はっぴい", "浅井ゆう", -1],
-    [2, "SNSへようこそ！", "まるもこ", -1],
-]
-links = ["https://www.dojin-music.info/cd/25545"]
-
-[25]
+[7]
 catalognumber = ""
 date = "2009-12-30"
 album = "for nowhere girl"
@@ -263,17 +84,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/3130"]
 
-[26]
-catalognumber = ""
-date = "2023-04-30"
-album = "めざせ！アイドル！"
-tracks = [
-    [1, "あなたのアイドル！", "まるもこ", -1],
-    [2, "ナイショのお願い", "浅井ゆう", -1],
-]
-links = ["https://www.dojin-music.info/cd/29272"]
-
-[27]
+[8]
 catalognumber = ""
 date = "2010-08-14"
 album = "屁理屈　歌謡ショウ"
@@ -285,6 +96,202 @@ tracks = [
     [5, "屁理屈 歌謡ショウ", "初音ミク", 0],
 ]
 links = ["https://www.dojin-music.info/cd/3131"]
+
+[9]
+catalognumber = ""
+date = "2016-04-24"
+album = "ソクパラ"
+tracks = [
+    [1, "靴下の1-JK（の履いてるタイツ）の場合", "ほたる", 0],
+    [2, "靴下の2-JCの場合", "星空唄", 0],
+    [3, "靴下の3-JSの場", "ほたる", 0],
+]
+links = ["https://www.dojin-music.info/cd/6344"]
+
+[10]
+catalognumber = ""
+date = "2016-04-24"
+album = "ソクパラ　Socks Paradise"
+tracks = [
+    [0, "靴下の1-JK（の履いてるタイツ）の場合", "ほたる", 1],
+    [0, "靴下の2-JCの場合", "星空唄", 0],
+    [0, "靴下の3-JSの場合", "ほたる", 0],
+]
+links = ["https://www.suruga-ya.jp/kaitori/kaitori_detail/186138252"]
+
+[11]
+catalognumber = ""
+date = "2016-10-30"
+album = "Pet Shop Girls"
+tracks = [
+    [1, "チラッ☆な気持ち", "ほたるたん", 0],
+    [2, "気まぐれ肉球", "ほたるたん", 0],
+    [3, "お散歩るんたった", "星空うた", 0],
+]
+links = ["https://www.dojin-music.info/cd/6343"]
+
+[12]
+catalognumber = ""
+date = "2016-12-31"
+album = "嫁はソシャゲにいるよ！"
+tracks = [
+    [1, "嫁が突然ガチャで来ると大変なんです", "ほたるたん", 0],
+    [2, "嫁は9歳で2.5次元ですがなにか？", "桜妃あむ", 1],
+]
+links = ["https://www.dojin-music.info/cd/6342"]
+
+[13]
+catalognumber = ""
+date = "2017-04-30"
+album = "うわ おとめ つよい"
+tracks = [
+    [1, "うわ おとめ つよい", "ほたるたん、桜妃あむ", 0],
+    [2, "あ The Toy", "桜妃あむ", 0],
+    [3, "おとめパークへようこそ", "ほたるたん", 0],
+]
+links = ["https://www.dojin-music.info/cd/6341"]
+
+[14]
+catalognumber = ""
+date = "2017-08-11"
+album = "みんなのおうた"
+tracks = [
+    [1, "みんなのおうた", "ほたるたん、桜妃あむ", 0],
+    [2, "恋するたぬき", "桜妃あむ", 0],
+    [3, "おにいちゃん博物館", "ほたるたん", 0],
+]
+links = ["https://www.dojin-music.info/cd/6340"]
+
+[15]
+catalognumber = ""
+date = "2017-10-29"
+album = "がとー・ど・夜空"
+tracks = [
+    [1, "がとー・ど・夜空", "ほたるたん", 0],
+]
+links = ["https://www.dojin-music.info/cd/6339"]
+
+[16]
+catalognumber = ""
+date = "2017-12-29"
+album = "おねえさんといっしょ"
+tracks = [
+    [1, "おしえて！おねえさん", "ほたるたん、桜妃あむ", 0],
+    [2, "あこがれ！おねえさん！", "桜妃あむ", 0],
+    [3, "おねえさんにはお兄ちゃんはわたさない！", "ほたるたん", 1],
+]
+links = ["https://www.dojin-music.info/cd/6334"]
+
+[17]
+catalognumber = ""
+date = "2018-04-29"
+album = "ちょっと病んでてかわいいCD"
+tracks = [
+    [1, "私、一途なだけです！", "ほたるたん、桜妃あむ", 1],
+    [2, "赤いラブレター", "桜妃あむ", 1],
+    [3, "アイドルDEATH！", "ほたるたん", 0],
+]
+links = ["https://www.dojin-music.info/cd/6338"]
+
+[18]
+catalognumber = ""
+date = "2018-08-10"
+album = "古代アイドル！黄泉比良坂88！"
+tracks = [
+    [1, "おいでよ！神話の国！", "桜妃あむ、揚げだし豆腐ゆう", 0],
+    [2, "因幡の白バニー！", "揚げだし豆腐ゆう", 0],
+    [3, "闇・ヤミ・DANCING!", "桜妃あむ", 0],
+]
+links = ["https://www.dojin-music.info/cd/6337"]
+
+[19]
+catalognumber = ""
+date = "2018-10-28"
+album = "ゆりゆりやんもえフィーバー"
+tracks = [
+    [1, "ゆりゆりやんもえフィーバー", "桜妃あむ", 0],
+    [2, "妹にタヌキを語られながら起こされる", "", 0],
+]
+links = ["https://www.dojin-music.info/cd/6336"]
+
+[20]
+catalognumber = ""
+date = "2018-12-30"
+album = "ちっちゃいけど がんばっておーえんするよ！"
+tracks = [
+    [1, "ふれーふれー！だよ！", "桜妃あむ", 0],
+    [2, "おうちでまってるからね！", "揚げだし豆腐ゆう", 0],
+]
+links = ["https://www.dojin-music.info/cd/6335"]
+
+[21]
+catalognumber = ""
+date = "2019"
+album = "方言幼女"
+tracks = [
+    [1, "ぼっけー好きじゃけぇ（すごい好きだから）", "桜妃あむ", 1],
+    [2, "てげてげでいっちゃが（適当で良いよ）", "揚げだし豆腐ゆう", 1],
+]
+links = ["https://soundcloud.com/user-319400522/c96"]
+
+[22]
+catalognumber = ""
+date = "2019-04-28"
+album = "ベリーこみゅこみゅ"
+tracks = [
+    [1, "なかよく…なれるかな?", "揚げだし豆腐ゆう", 0],
+    [2, "なかよくなろ!", "桜妃あむ", 0],
+]
+links = ["https://www.dojin-music.info/cd/6538"]
+
+[23]
+catalognumber = ""
+date = "2019-10-27"
+album = "ちっちゃな天使！"
+tracks = [
+    [1, "て、天使なんかじゃないから！", "揚げだし豆腐ゆう", 0],
+    [2, "だって天使だもん！", "桜妃あむ", 0],
+]
+links = ["https://www.dojin-music.info/cd/10437"]
+
+[24]
+catalognumber = ""
+date = "2019-12-31"
+album = "ちっちゃな悪魔！"
+tracks = [
+    [1, "いっしょに堕ちよ！", "揚げだし豆腐ゆう", 0],
+    [2, "あなたにしちゃうぞ！", "桜妃あむ", 1],
+]
+links = ["https://www.suruga-ya.jp/kaitori/kaitori_detail/186165282"]
+
+[25]
+catalognumber = ""
+date = "2020-03-01"
+album = "お花見しよーじょ"
+tracks = [
+    [1, "恋する蕾", "浅井ゆう", 0],
+    [2, "淡色桜吹雪", "桜妃あむ", 0],
+]
+links = ["https://www.dojin-music.info/cd/17326"]
+
+[26]
+catalognumber = ""
+date = "2020-05-29"
+album = "だって魔法が使えるもん！"
+tracks = [
+    [1, "あなたに一番効く魔法", "桜妃あむ", 0],
+    [2, "無敵の呪文", "浅井ゆう", 0],
+]
+links = ["https://www.dojin-music.info/cd/21011"]
+
+[27]
+catalognumber = ""
+date = "2020-10-25"
+album = "もえキャン"
+tracks = [
+    [1, "お願いお星さま", "浅井ゆう", -1],
+]
+links = ["https://www.dojin-music.info/cd/22497"]
 
 [28]
 catalognumber = ""
@@ -298,44 +305,24 @@ links = ["https://www.dojin-music.info/cd/24074"]
 
 [29]
 catalognumber = ""
-date = "2020-10-25"
-album = "もえキャン"
+date = "2021-10-31"
+album = "SNSへようこそ！"
 tracks = [
-    [1, "お願いお星さま", "浅井ゆう", -1],
+    [1, "らいふ いず はっぴい", "浅井ゆう", -1],
+    [2, "SNSへようこそ！", "まるもこ", -1],
 ]
-links = ["https://www.dojin-music.info/cd/22497"]
+links = ["https://www.dojin-music.info/cd/25545"]
 
 [30]
 catalognumber = ""
-date = "2017-04-30"
-album = "うわ おとめ つよい"
+date = "2021-12-31"
+album = "アイドルだもん！"
 tracks = [
-    [1, "うわ おとめ つよい", "ほたるたん、桜妃あむ", 0],
-    [2, "あ The Toy", "桜妃あむ", 0],
-    [3, "おとめパークへようこそ", "ほたるたん", 0],
+    [1, "アイドルだもん！", "まるもこ", -1],
 ]
-links = ["https://www.dojin-music.info/cd/6341"]
+links = ["https://www.dojin-music.info/cd/26281"]
 
 [31]
-catalognumber = ""
-date = "2008-12-29"
-album = "魔法をかけるわ 本当よ！　〜ミクが歌う クリィミーマミ・ヴォーカル・アレンジ集〜"
-tracks = [
-    [1, "デリケートに好きして", "VOCALOID2 初音ミク", 0],
-    [2, "BIN KANルージュ", "VOCALOID2 初音ミク", 0],
-    [3, "ハートのSEASON", "VOCALOID2 初音ミク", 0],
-    [4, "魔法の砂時計", "VOCALOID2 初音ミク", 0],
-]
-links = ["https://www.dojin-music.info/cd/1687"]
-
-[32]
-catalognumber = ""
-date = "2025-10-26"
-album = "日常アーカイブ"
-tracks = []
-links = ["https://www.dojin-music.info/cd/34746"]
-
-[33]
 catalognumber = ""
 date = "2022-04-24"
 album = "春乙女"
@@ -345,43 +332,56 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/26992"]
 
+[32]
+catalognumber = ""
+date = "2023-04-30"
+album = "めざせ！アイドル！"
+tracks = [
+    [1, "あなたのアイドル！", "まるもこ", -1],
+    [2, "ナイショのお願い", "浅井ゆう", -1],
+]
+links = ["https://www.dojin-music.info/cd/29272"]
+
+[33]
+catalognumber = ""
+date = "2023-08-13"
+album = "お薬だしておきますね！"
+tracks = [
+    [1, "あなたのお薬", "まるもこ", -1],
+    [2, "泣き虫なおくすり", "浅井ゆう", -1],
+]
+links = ["https://www.dojin-music.info/cd/29711"]
+
 [34]
 catalognumber = ""
-date = "2018-12-30"
-album = "ちっちゃいけど がんばっておーえんするよ！"
+date = "2023-10-29"
+album = "人間！合格！！"
 tracks = [
-    [1, "ふれーふれー！だよ！", "桜妃あむ", 0],
-    [2, "おうちでまってるからね！", "揚げだし豆腐ゆう", 0],
+    [1, "合格 or death", "まるもこ", -1],
+    [2, "キライと好き", "浅井ゆう", -1],
 ]
-links = ["https://www.dojin-music.info/cd/6335"]
+links = ["https://www.dojin-music.info/cd/30698"]
 
 [35]
 catalognumber = ""
-date = "2016-04-24"
-album = "ソクパラ　Socks Paradise"
-tracks = [
-    [0, "靴下の1-JK（の履いてるタイツ）の場合", "ほたる", 1],
-    [0, "靴下の2-JCの場合", "星空唄", 0],
-    [0, "靴下の3-JSの場合", "ほたる", 0],
-]
-links = ["https://www.suruga-ya.jp/kaitori/kaitori_detail/186138252"]
+date = "2024-04-28"
+album = "おなかに聞いちゃえ！"
+tracks = []
+links = ["https://www.dojin-music.info/cd/31562"]
 
 [36]
 catalognumber = ""
-date = "2019"
-album = "方言幼女"
+date = "2025-04-27"
+album = "幸せSelect"
 tracks = [
-    [1, "ぼっけー好きじゃけぇ（すごい好きだから）", "桜妃あむ", 1],
-    [2, "てげてげでいっちゃが（適当で良いよ）", "揚げだし豆腐ゆう", 1],
+    [1, "幸せSelect", "まるもこ", -1],
+    [2, "選択的選択権", "恋摘もなか", -1],
 ]
-links = ["https://soundcloud.com/user-319400522/c96"]
+links = ["https://www.dojin-music.info/cd/34076"]
 
 [37]
 catalognumber = ""
-date = "2019-12-31"
-album = "ちっちゃな悪魔！"
-tracks = [
-    [1, "いっしょに堕ちよ！", "揚げだし豆腐ゆう", 0],
-    [2, "あなたにしちゃうぞ！", "桜妃あむ", 1],
-]
-links = ["https://www.suruga-ya.jp/kaitori/kaitori_detail/186165282"]
+date = "2025-10-26"
+album = "日常アーカイブ"
+tracks = []
+links = ["https://www.dojin-music.info/cd/34746"]

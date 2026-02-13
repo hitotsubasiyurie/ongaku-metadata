@@ -1,48 +1,16 @@
 [1]
-catalognumber = "PCCG-70403"
-date = "2017-07-05"
-album = "やくそく / 鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)"
+catalognumber = "PCCG-70231"
+date = "2014-11-05"
+album = "ホシトハナ / 讃州中学勇者部"
 tracks = [
-    [1, "やくそく", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 1],
-    [2, "ともだち (乃木園子ソロver.)", "乃木園子(CV:花澤香菜)", 0],
-    [3, "やくそく (Instrumental)", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 0],
+    [1, "ホシトハナ", "讃州中学勇者部", 0],
+    [2, "祈りの歌 acoustic guitar ver.", "犬吠埼樹 (黒沢ともよ)", 1],
+    [3, "ホシトハナ <Instrumental>", "讃州中学勇者部", 0],
+    [4, "祈りの歌 acoustic guitar ver. <Instrumental>", "犬吠埼樹 (黒沢ともよ)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/01a36c39-7b14-40d0-8abe-02656a0287e5", "https://vgmdb.net/album/64945"]
+links = ["https://beta.musicbrainz.org/release/da813bbe-8fe5-411a-9fd6-529f5e334620", "https://vgmdb.net/album/47677"]
 
 [2]
-catalognumber = "PCXG-50452-2"
-date = "2015-01-21"
-album = "結城友奈は勇者である スペシャルキャラクターソングCD"
-tracks = [
-    [1, "ホシトハナ友奈ソロver.", "讃州中学勇者部", 0],
-    [2, "ホシトハナ東郷ソロver.", "讃州中学勇者部", 0],
-    [3, "ホシトハナ風ソロver.", "讃州中学勇者部", 0],
-    [4, "ホシトハナ樹ソロver.", "讃州中学勇者部", 0],
-    [5, "ホシトハナ夏凜ソロver.", "讃州中学勇者部", 0],
-    [6, "○△□(マルサンカクシカク)", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
-    [7, "古今無双", "東郷美森(CV.三森すずこ)", 0],
-    [8, "Aurora Days友奈ソロver.", "讃州中学勇者部", 0],
-    [9, "Aurora Days東郷ソロver.", "讃州中学勇者部", 0],
-    [10, "Aurora Days風ソロver.", "讃州中学勇者部", 0],
-    [11, "Aurora Days樹ソロver.", "讃州中学勇者部", 0],
-    [12, "Aurora Days夏凜ソロver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8e2f3cda-2450-4c19-b96a-a3251c8a1b4d", "https://vgmdb.net/album/49987"]
-
-[3]
-catalognumber = "PCCG-01991"
-date = "2021-10-27"
-album = "アシタノハナタチ / 讃州中学勇者部"
-tracks = [
-    [1, "アシタノハナタチ", "讃州中学勇者部", 0],
-    [2, "U・D・N", "讃州中学勇者部", -1],
-    [3, "アシタノハナタチ TV edit", "讃州中学勇者部", 0],
-    [4, "アシタノハナタチ <Instrumental>", "讃州中学勇者部", 0],
-    [5, "U・D・N <Instrumental>", "讃州中学勇者部", -1],
-]
-links = ["https://beta.musicbrainz.org/release/5ba667a7-a796-4832-907c-17704cf07b9b", "https://vgmdb.net/album/114186"]
-
-[4]
 catalognumber = "PCCG-70232"
 date = "2014-11-19"
 album = "Aurora Days / 讃州中学勇者部"
@@ -54,512 +22,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b3bd33e6-76dd-40e5-97e1-982989169632", "https://vgmdb.net/album/47678"]
 
-[5]
-catalognumber = "PCCG-70408"
-date = "2017-12-06"
-album = "ハナコトバ/勇者たちのララバイ / 讃州中学勇者部"
-tracks = [
-    [1, "ハナコトバ", "讃州中学勇者部", 0],
-    [2, "勇者たちのララバイ", "讃州中学勇者部", 0],
-    [3, "ハナコトバ <Instrumental>", "讃州中学勇者部", 0],
-    [4, "勇者たちのララバイ <Instrumental>", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/fbedde72-dedc-4fa0-95f3-e847b2d97f3b", "https://vgmdb.net/album/71544"]
-
-[6]
-catalognumber = "PCXG-50455-2"
-date = "2015-04-15"
-album = "結城友奈は勇者である オリジナルサウンドトラック アウトテイク"
-tracks = [
-    [1, "勇者と魔王", "帆足圭吾", 0],
-    [2, "魔王のテーマ", "帆足圭吾", 0],
-    [3, "ガールズ", "帆足圭吾", 0],
-    [4, "楽しいひと時", "帆足圭吾", 0],
-    [5, "団欒", "高橋邦幸", 0],
-    [6, "くつろぎ", "高橋邦幸", 0],
-    [7, "可憐", "広川恵一", 0],
-    [8, "プリティ", "帆足圭吾", 0],
-    [9, "コミカル", "高橋邦幸", 0],
-    [10, "お間抜け", "高橋邦幸", 0],
-    [11, "ドタバタ", "高橋邦幸", 0],
-    [12, "鬼教官", "帆足圭吾", 0],
-    [13, "お色気", "帆足圭吾", 0],
-    [14, "険悪", "広川恵一", 0],
-    [15, "涙", "岡部啓一", 0],
-    [16, "チュートリアル", "岡部啓一", 0],
-    [17, "うどん屋店内BGM", "高橋邦幸", 0],
-    [18, "旅館", "帆足圭吾", 0],
-    [19, "勇者アプリ・メール着信", "広川恵一", 0],
-    [20, "着メロ", "広川恵一", 0],
-    [21, "樹海化警報", "広川恵一", 0],
-    [22, "樹海化特別警報検閲済", "広川恵一", 0],
-    [23, "樹海化特別警報", "広川恵一", 0],
-    [24, "タウラスのベル", "岡部啓一", 0],
-    [25, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 1],
-    [26, "Aurora Days 第十話 ver.", "東郷美森(CV:三森すずこ)", 0],
-    [27, "Aurora Days 第十一話 ver.", "結城友奈(CV:照井春佳)", 0],
-    [28, "Aurora Days 第十二話 ver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/d75675f4-df3c-4658-af9a-92deb09e1e0e", "https://vgmdb.net/album/50592"]
-
-[7]
-catalognumber = "USPC-10003C"
-date = "2015-08-10"
-album = "Yuki Yuna is a Hero original soundtrack outtake CD 3"
-tracks = [
-    [1, "勇者と魔王", "帆足圭吾", 0],
-    [2, "魔王のテーマ", "帆足圭吾", 0],
-    [3, "ガールズ", "帆足圭吾", 0],
-    [4, "楽しいひと時", "帆足圭吾", 0],
-    [5, "団欒", "高橋邦幸", 0],
-    [6, "くつろぎ", "高橋邦幸", 0],
-    [7, "可憐", "広川恵一", 0],
-    [8, "プリティ", "帆足圭吾", 0],
-    [9, "コミカル", "高橋邦幸", 0],
-    [10, "お間抜け", "高橋邦幸", 0],
-    [11, "ドタバタ", "高橋邦幸", 0],
-    [12, "鬼教官", "帆足圭吾", 0],
-    [13, "お色気", "帆足圭吾", 0],
-    [14, "険悪", "広川恵一", 0],
-    [15, "涙", "岡部啓一", 0],
-    [16, "チュートリアル", "岡部啓一", 0],
-    [17, "うどん屋店内BGM", "高橋邦幸", 0],
-    [18, "旅館", "帆足圭吾", 0],
-    [19, "勇者アプリ・メール着信", "広川恵一", 0],
-    [20, "着メロ", "広川恵一", 0],
-    [21, "樹海化警報", "広川恵一", 0],
-    [22, "樹海化特別警報検閲済", "広川恵一", 0],
-    [23, "樹海化特別警報", "広川恵一", 0],
-    [24, "タウラスのベル", "岡部啓一", 0],
-    [25, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 0],
-    [26, "Aurora Days 第十話 ver.", "東郷美森(CV:三森すずこ)", 0],
-    [27, "Aurora Days 第十一話 ver.", "結城友奈(CV:照井春佳)", 0],
-    [28, "Aurora Days 第十二話 ver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/079cf210-a7d8-4091-b633-5e109e20ca61", "https://vgmdb.net/album/52670"]
-
-[8]
-catalognumber = "PCCG-02073"
-date = "2021-10-27"
-album = "地平線の向こうへ / 讃州中学勇者部"
-tracks = [
-    [1, "地平線の向こうへ", "讃州中学勇者部", 1],
-    [2, "Darling☆Darling", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", -1],
-    [3, "真紅の刃", "三好夏凜（CV：長妻樹里）", -1],
-    [4, "地平線の向こうへ TV edit", "讃州中学勇者部", 0],
-    [5, "地平線の向こうへ 〈Instrumental〉", "讃州中学勇者部", 0],
-    [6, "Darling☆Darling 〈Instrumental〉", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", -1],
-    [7, "真紅の刃 〈Instrumental〉", "三好夏凜（CV：長妻樹里）", -1],
-]
-links = ["https://beta.musicbrainz.org/release/8d69878b-b596-40ef-b84e-047715d249bb", "https://vgmdb.net/album/114187"]
-
-[9]
-catalognumber = "PCCG-01699"
-date = "2018-06-27"
-album = "tone. / 三森すずこ"
-tracks = [
-    [1, "恋はイリュージョン", "三森すずこ", 0],
-    [2, "Happy Lucky Life!!", "三森すずこ", -1],
-    [3, "Colorful Girl", "三森すずこ", 0],
-    [4, "海と空のヒミツ", "三森すずこ", -1],
-    [5, "Light for Knight", "三森すずこ", -1],
-    [6, "革命のマスカレード", "三森すずこ", -1],
-    [7, "Xenotopia", "三森すずこ", -1],
-    [8, "比翼の鳥", "三森すずこ", -1],
-    [9, "サキワフハナ", "三森すずこ", 0],
-    [10, "エガオノキミヘ", "三森すずこ", 0],
-    [11, "夢飛行", "三森すずこ", -1],
-    [12, "WONDER FLIGHT", "三森すずこ", -1],
-    [13, "SAKURA dreamers", "三森すずこ", -1],
-    [14, "スマイリウム", "三森すずこ", -1],
-    [15, "アレコレ", "三森すずこ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/871832ba-2519-4211-9eb3-cc13f34315ad", "https://vgmdb.net/album/76625"]
-
-[10]
-catalognumber = "PCCG-70401"
-date = "2017-03-15"
-album = "ともだち / 鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)"
-tracks = [
-    [1, "ともだち", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 1],
-    [2, "ともだち (鷲尾須美ソロver.)", "鷲尾須美(CV:三森すずこ)", 0],
-    [3, "ともだち <Instrumental>", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/733f14e9-363f-4c23-889b-c2dea33c3c13", "https://vgmdb.net/album/64943"]
-
-[11]
-catalognumber = "PCCG-01623"
-date = "2017-10-11"
-album = "エガオノキミへ / 三森すずこ Disc 1 (CD)"
-tracks = [
-    [1, "エガオノキミヘ", "三森すずこ", 0],
-    [2, "Colorful Girl", "三森すずこ", 0],
-    [3, "エガオノキミヘ [Instrumental]", "三森すずこ", 0],
-    [4, "Colorful Girl [Instrumental]", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/09e79c83-19e5-4e81-9eec-c6668894e573", "https://vgmdb.net/album/69822"]
-
-[12]
-catalognumber = "PCCG-01623"
-date = "2017-10-11"
-album = "エガオノキミへ / 三森すずこ Disc 2 (DVD)"
-tracks = [
-    [1, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
-    [2, "エガオノキミヘ (MAKING OF MUSIC VIDEO)", "三森すずこ", 0],
-    [3, "エガオノキミヘ (OFF SHOT)", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/09e79c83-19e5-4e81-9eec-c6668894e573", "https://vgmdb.net/album/69822"]
-
-[13]
-catalognumber = "PCCG-01591"
-date = "2017-07-05"
-album = "「結城友奈は勇者である-鷲尾須美の章-」 オリジナルサウンドトラック"
-tracks = [
-    [1, "サキワフハナ <Instrumental> (movie ver.)", "岡部啓一", 0],
-    [2, "勇者御記", "帆足圭吾", 0],
-    [3, "木漏れ日", "高橋邦幸", 0],
-    [4, "樹海の中へ", "帆足圭吾", 0],
-    [5, "神への憧憬", "中川奈美", 0],
-    [6, "サザンカ", "高橋邦幸", 0],
-    [7, "予感", "岡部啓一", 0],
-    [8, "うすらい", "岡部啓一", 0],
-    [9, "禍正し", "中川奈美", 0],
-    [10, "鎮花の儀", "岡部啓一", 0],
-    [11, "しろがねの糸", "高橋邦幸", 0],
-    [12, "ベゴニア", "岡部啓一", 0],
-    [13, "カスミソウ", "帆足圭吾", 0],
-    [14, "チューリップ", "瀬尾祥太郎", 0],
-    [15, "ライラック", "瀬尾祥太郎", 0],
-    [16, "樹海の迷宮", "岡部啓一", 0],
-    [17, "ゼラニウム", "Emi Evans", 0],
-    [18, "蝶結び", "岡部啓一", 0],
-    [19, "ナデシコ", "瀬尾祥太郎", 0],
-    [20, "ユキヤナギ", "高橋邦幸", 0],
-    [21, "ゲッカビジン", "帆足圭吾", 0],
-    [22, "箱庭", "帆足圭吾", 0],
-    [23, "サンチョ音頭", "瀬尾祥太郎", 0],
-    [24, "アサガオ", "帆足圭吾", 0],
-    [25, "風向き", "中川奈美", 0],
-    [26, "忍び寄る影", "岡部啓一", 0],
-    [27, "花散る雨", "帆足圭吾", 0],
-    [28, "シロツメクサ", "高橋邦幸", 0],
-    [29, "花嵐", "高橋邦幸", 0],
-    [30, "少女の願い", "Emi Evans", 0],
-    [31, "タネトハナ", "Emi Evans", 0],
-]
-links = ["https://beta.musicbrainz.org/release/b78e9cc3-fd3a-4b79-9482-6716a6cf2e72", "https://vgmdb.net/album/67368"]
-
-[14]
-catalognumber = "DSP-02188"
-date = "2018-11-28"
-album = "five tones Mimori Suzuko 5th Anniversary Live LIVE CD"
-tracks = [
-    [1, "ミライスタート", "", -1],
-    [2, "Happy Lucky Life!!", "", -1],
-    [3, "海と空のヒミツ", "", -1],
-    [4, "サキワフハナ", "", 0],
-    [5, "エガオノキミヘ", "", 0],
-    [6, "My First Lesson", "", -1],
-    [7, "アレコレ", "", -1],
-    [8, "革命のマスカレード", "", -1],
-    [9, "比翼の鳥", "", -1],
-    [10, "SAKURA dreamers", "", -1],
-    [11, "WONDER FLIGHT", "", -1],
-    [12, "スマイリウム", "", -1],
-    [13, "ユニバーページ", "", -1],
-    [14, "TINY TRAIN TOUR", "", -1],
-    [15, "夢飛行", "", -1],
-    [16, "ちいさな手と観覧車", "", -1],
-    [17, "会いたいよ...会いたいよ!", "", -1],
-]
-links = ["https://vgmdb.net/album/79846"]
-
-[15]
-catalognumber = "PCCG-01504"
-date = "2016-03-02"
-album = "「結城友奈は勇者である」character songs 勇気のバトン"
-tracks = [
-    [1, "勇気のバトン (short ver.)", "讃州中学勇者部", 0],
-    [2, "Hello Girls", "結城友奈(CV:照井春佳)", 1],
-    [3, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
-    [4, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
-    [5, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 1],
-    [6, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 1],
-    [7, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
-    [8, "勇気のバトン", "讃州中学勇者部", 1],
-]
-links = ["https://beta.musicbrainz.org/release/e25e8437-da04-4376-8c2e-768039b4d5eb", "https://vgmdb.net/album/55482"]
-
-[16]
-catalognumber = "DSP-02093"
-date = "2016-03-02"
-album = "結城友奈は勇者である character songs 勇気のバトン ソロver."
-tracks = [
-    [1, "勇気のバトン 友奈ソロver.", "讃州中学勇者部", 0],
-    [2, "勇気のバトン 東郷ソロver.", "讃州中学勇者部", 0],
-    [3, "勇気のバトン 風ソロver.", "讃州中学勇者部", 0],
-    [4, "勇気のバトン 樹ソロver.", "讃州中学勇者部", 0],
-    [5, "勇気のバトン 夏凜ソロver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9afcd897-98b7-441d-a7fd-45975846349c", "https://vgmdb.net/album/57106"]
-
-[17]
-catalognumber = "PCCG-01698"
-date = "2018-06-27"
-album = "tone. / 三森すずこ Disc 1 (CD)"
-tracks = [
-    [1, "恋はイリュージョン", "三森すずこ", 0],
-    [2, "Happy Lucky Life!!", "三森すずこ", -1],
-    [3, "Colorful Girl", "三森すずこ", 0],
-    [4, "海と空のヒミツ", "三森すずこ", -1],
-    [5, "Light for Knight", "三森すずこ", -1],
-    [6, "革命のマスカレード", "三森すずこ", -1],
-    [7, "Xenotopia", "三森すずこ", -1],
-    [8, "比翼の鳥", "三森すずこ", -1],
-    [9, "サキワフハナ", "三森すずこ", 0],
-    [10, "エガオノキミヘ", "三森すずこ", 0],
-    [11, "夢飛行", "三森すずこ", -1],
-    [12, "WONDER FLIGHT", "三森すずこ", -1],
-    [13, "SAKURA dreamers", "三森すずこ", -1],
-    [14, "スマイリウム", "三森すずこ", -1],
-    [15, "アレコレ", "三森すずこ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/b1187930-b41b-48b8-9beb-8ed06848ecf0", "https://vgmdb.net/album/76624"]
-
-[18]
-catalognumber = "PCCG-01698"
-date = "2018-06-27"
-album = "tone. / 三森すずこ Disc 2 (DVD)"
-tracks = [
-    [1, "革命のマスカレード (Music Video)", "三森すずこ", -1],
-    [2, "革命のマスカレード (off shot)", "三森すずこ", -1],
-    [3, "革命のマスカレード (Making of Music Video)", "三森すずこ", -1],
-    [4, "アレコレ (Music Video)", "三森すずこ", -1],
-    [5, "アレコレ (off shot)", "三森すずこ", -1],
-    [6, "アレコレ (Making of Music Video)", "三森すずこ", -1],
-    [7, "恋はイリュージョン (MUSIC VIDEO)", "三森すずこ", 0],
-    [8, "Light for Knight (MUSIC VIDEO)", "三森すずこ", -1],
-    [9, "Xenotopia (MUSIC VIDEO)", "三森すずこ", -1],
-    [10, "サキワフハナ (MUSIC VIDEO)", "三森すずこ", 0],
-    [11, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/b1187930-b41b-48b8-9beb-8ed06848ecf0", "https://vgmdb.net/album/76624"]
-
-[19]
-catalognumber = "PCCG-70361"
-date = "2017-04-12"
-album = "サキワフハナ / 三森すずこ"
-tracks = [
-    [1, "サキワフハナ", "三森すずこ", 0],
-    [2, "恋はイリュージョン", "三森すずこ", 0],
-    [3, "サキワフハナ (Instrumental)", "三森すずこ", 0],
-    [4, "恋はイリュージョン (Instrumental)", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/3902417d-68c2-48a7-91a7-697df598f9d2", "https://vgmdb.net/album/62570"]
-
-[20]
-catalognumber = "PCCG-01576"
-date = "2017-04-12"
-album = "サキワフハナ / 三森すずこ Disc 1 (CD)"
-tracks = [
-    [1, "サキワフハナ", "三森すずこ", 0],
-    [2, "恋はイリュージョン", "三森すずこ", 0],
-    [3, "サキワフハナ (Instrumental)", "三森すずこ", 0],
-    [4, "恋はイリュージョン (Instrumental)", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/edb26068-fddd-4edf-98a1-7a26d5b50a76", "https://vgmdb.net/album/62572"]
-
-[21]
-catalognumber = "PCCG-01576"
-date = "2017-04-12"
-album = "サキワフハナ / 三森すずこ Disc 2 (DVD)"
-tracks = [
-    [1, "「サキワフハナ」 Music Video / Making", "", -1],
-    [2, "「恋はイリュージョン」 Music Video / Making", "", -1],
-    [3, "off shot", "", -1],
-]
-links = ["https://vgmdb.net/album/62572"]
-
-[22]
-catalognumber = "PCCG-01819"
-date = "2019-11-06"
-album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」 Disc 1 [PCCG-01819-1]"
-tracks = [
-    [1, "ホシトハナ", "讃州中学勇者部", 0],
-    [2, "soda pops", "犬吠埼風 (内山夕実)", 0],
-    [3, "○△□", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
-    [4, "古今無双", "東郷美森(CV.三森すずこ)", 0],
-    [5, "祈りの歌 acoustic guitar ver.", "犬吠埼樹 (黒沢ともよ)", 0],
-    [6, "ユウガオ", "Emi Evans", 0],
-    [7, "ウスユキソウ", "Emi Evans", 0],
-    [8, "Aurora Days", "讃州中学勇者部", 0],
-    [9, "Hello Girls", "結城友奈(CV:照井春佳)", 0],
-    [10, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
-    [11, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
-    [12, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 0],
-    [13, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 0],
-    [14, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
-    [15, "FOLLOW TOMORROW ME", "結城友奈(CV.照井春佳)", 1],
-    [16, "花火", "東郷美森(CV.三森すずこ)", 0],
-    [17, "ユメ見ノクニ", "乃木園子(CV.花澤香菜)", 1],
-    [18, "Yellow Ocean", "犬吠埼風(CV.内山夕実)", 1],
-    [19, "憧憬", "犬吠埼樹(CV.黒沢ともよ)", 0],
-    [20, "KIZUNA", "三好夏凜(CV.長妻樹里)", 0],
-    [21, "勇気のバトン ゆゆゆver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/98afdcbc-4d75-4075-b0b4-aa4dfba8e532", "https://vgmdb.net/album/88154"]
-
-[23]
-catalognumber = "PCCG-01819"
-date = "2019-11-06"
-album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」 Disc 2 [PCCG-01819-2]"
-tracks = [
-    [1, "サキワフハナ", "三森すずこ", 0],
-    [2, "エガオノキミヘ", "三森すずこ", 0],
-    [3, "ともだち", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 0],
-    [4, "国防体操", "鷲尾須美(CV.三森すずこ)", 0],
-    [5, "ゼラニウム", "Emi Evans", 0],
-    [6, "たましい", "三ノ輪銀(CV:花守ゆみり)", 0],
-    [7, "少女の願い", "Emi Evans", 0],
-    [8, "やくそく", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 0],
-    [9, "タネトハナ", "Emi Evans", 0],
-    [10, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 0],
-    [11, "ハナコトバ", "讃州中学勇者部", 0],
-    [12, "花冠", "Emi Evans", 0],
-    [13, "勇者たちのララバイ", "讃州中学勇者部", 0],
-    [14, "キボウノツボミ", "乃木若葉(CV.大橋彩香), 上里ひなた(CV.高野麻里佳), 高嶋友奈(CV.照井春佳), 郡千景(CV.鈴木愛奈), 土居球子(CV.本渡楓) & 伊予島杏(CV.近藤玲奈)", 0],
-    [15, "勇気のバトン のわゆver.", "乃木若葉(CV.大橋彩香), 上里ひなた(CV.高野麻里佳), 高嶋友奈(CV.照井春佳), 郡千景(CV.鈴木愛奈), 土居球子(CV.本渡楓) & 伊予島杏(CV.近藤玲奈)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/98afdcbc-4d75-4075-b0b4-aa4dfba8e532", "https://vgmdb.net/album/88154"]
-
-[24]
-catalognumber = "USPC-10001C"
-date = "2015-04-10"
-album = "Yuki Yuna is a Hero special charactersong CD 1"
-tracks = [
-    [1, "ホシトハナ友奈ソロver.", "讃州中学勇者部", 0],
-    [2, "ホシトハナ東郷ソロver.", "讃州中学勇者部", 0],
-    [3, "ホシトハナ風ソロver.", "讃州中学勇者部", 0],
-    [4, "ホシトハナ樹ソロver.", "讃州中学勇者部", 0],
-    [5, "ホシトハナ夏凜ソロver.", "讃州中学勇者部", 0],
-    [6, "○△□(マルサンカクシカク)", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
-    [7, "古今無双", "東郷美森(CV.三森すずこ)", 0],
-    [8, "Aurora Days友奈ソロver.", "讃州中学勇者部", 0],
-    [9, "Aurora Days東郷ソロver.", "讃州中学勇者部", 0],
-    [10, "Aurora Days風ソロver.", "讃州中学勇者部", 0],
-    [11, "Aurora Days樹ソロver.", "讃州中学勇者部", 0],
-    [12, "Aurora Days夏凜ソロver.", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/54d77aed-c20b-4005-9f30-58e4e1361a76", "https://vgmdb.net/album/50354"]
-
-[25]
-catalognumber = "PCCG-70402"
-date = "2017-04-12"
-album = "たましい / 三ノ輪銀(CV:花守ゆみり)"
-tracks = [
-    [1, "たましい", "三ノ輪銀(CV:花守ゆみり)", 1],
-    [2, "ともだち (三ノ輪銀ソロver.)", "三ノ輪銀(CV:花守ゆみり)", 0],
-    [3, "たましい <Instrumental>", "三ノ輪銀(CV:花守ゆみり)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6bd15a44-714f-4ed3-ba6b-9ef5107321a6", "https://vgmdb.net/album/64944"]
-
-[26]
-catalognumber = "PCCG-01697"
-date = "2018-06-27"
-album = "tone. / 三森すずこ Disc 1 (CD)"
-tracks = [
-    [1, "恋はイリュージョン", "三森すずこ", 0],
-    [2, "Happy Lucky Life!!", "三森すずこ", -1],
-    [3, "Colorful Girl", "三森すずこ", 0],
-    [4, "海と空のヒミツ", "三森すずこ", -1],
-    [5, "Light for Knight", "三森すずこ", -1],
-    [6, "革命のマスカレード", "三森すずこ", -1],
-    [7, "Xenotopia", "三森すずこ", -1],
-    [8, "比翼の鳥", "三森すずこ", -1],
-    [9, "サキワフハナ", "三森すずこ", 0],
-    [10, "エガオノキミヘ", "三森すずこ", 0],
-    [11, "夢飛行", "三森すずこ", -1],
-    [12, "WONDER FLIGHT", "三森すずこ", -1],
-    [13, "SAKURA dreamers", "三森すずこ", -1],
-    [14, "スマイリウム", "三森すずこ", -1],
-    [15, "アレコレ", "三森すずこ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/84e138e1-c1ab-4ea5-aa49-9cb799f17651", "https://vgmdb.net/album/76623"]
-
-[27]
-catalognumber = "PCCG-01697"
-date = "2018-06-27"
-album = "tone. / 三森すずこ Disc 2 (Blu-ray)"
-tracks = [
-    [1, "革命のマスカレード (Music Video)", "三森すずこ", -1],
-    [2, "革命のマスカレード (off shot)", "三森すずこ", -1],
-    [3, "革命のマスカレード (Making of Music Video)", "三森すずこ", -1],
-    [4, "アレコレ (Music Video)", "三森すずこ", -1],
-    [5, "アレコレ (off shot)", "三森すずこ", -1],
-    [6, "アレコレ (Making of Music Video)", "三森すずこ", -1],
-    [7, "恋はイリュージョン (MUSIC VIDEO)", "三森すずこ", 0],
-    [8, "Light for Knight (MUSIC VIDEO)", "三森すずこ", -1],
-    [9, "Xenotopia (MUSIC VIDEO)", "三森すずこ", -1],
-    [10, "サキワフハナ (MUSIC VIDEO)", "三森すずこ", 0],
-    [11, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/84e138e1-c1ab-4ea5-aa49-9cb799f17651", "https://vgmdb.net/album/76623"]
-
-[28]
-catalognumber = "PCSP-02252"
-date = "2017-05-08"
-album = "国防体操 / 鷲尾須美 (CV: 三森すずこ)"
-tracks = [
-    [1, "国防体操", "", 0],
-]
-links = ["https://vgmdb.net/album/116414"]
-
-[29]
-catalognumber = "PCCG-70406"
-date = "2017-10-11"
-album = "エガオノキミへ / 三森すずこ"
-tracks = [
-    [1, "エガオノキミヘ", "三森すずこ", 0],
-    [2, "Colorful Girl", "三森すずこ", 0],
-    [3, "エガオノキミヘ [Instrumental]", "三森すずこ", 0],
-    [4, "Colorful Girl [Instrumental]", "三森すずこ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/a9ea8155-a72b-4188-a833-818947452853", "https://vgmdb.net/album/69821"]
-
-[30]
-catalognumber = "PCCG-01503"
-date = "2016-03-02"
-album = "「結城友奈は勇者である」character songs 勇気のバトン Disc 1 (CD) [PCCG-01503-1]"
-tracks = [
-    [1, "勇気のバトン (short ver.)", "讃州中学勇者部", 0],
-    [2, "Hello Girls", "結城友奈(CV:照井春佳)", 0],
-    [3, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
-    [4, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
-    [5, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 0],
-    [6, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 0],
-    [7, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
-    [8, "勇気のバトン", "讃州中学勇者部", 0],
-]
-links = ["https://beta.musicbrainz.org/release/17073852-271d-4b7e-ab39-e3428bbf33b8", "https://vgmdb.net/album/55483"]
-
-[31]
-catalognumber = "PCCG-01503"
-date = "2016-03-02"
-album = "「結城友奈は勇者である」character songs 勇気のバトン Disc 2 (DVD) [PCCG-01503-2]"
-tracks = [
-    [1, "「勇気のバトン」アニメーション Music Video", "", -1],
-    [2, "満開祭り 2015.3.15@豊洲PIT", "", -1],
-]
-links = ["https://vgmdb.net/album/55483"]
-
-[32]
-catalognumber = "PCCG-02072"
-date = "2021-12-01"
-album = "結城友奈は勇者である -大満開の章- OST"
-tracks = []
-links = ["https://vgmdb.net/album/114987"]
-
-[33]
+[3]
 catalognumber = "PCCG-01438"
 date = "2014-12-10"
 album = "TVアニメ「結城友奈は勇者である」オリジナルサウンドトラック"
@@ -598,7 +61,27 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/47ebb85f-cb0d-4c55-9a50-0655528cf0f9", "https://vgmdb.net/album/48663"]
 
-[34]
+[4]
+catalognumber = "PCXG-50452-2"
+date = "2015-01-21"
+album = "結城友奈は勇者である スペシャルキャラクターソングCD"
+tracks = [
+    [1, "ホシトハナ友奈ソロver.", "讃州中学勇者部", 0],
+    [2, "ホシトハナ東郷ソロver.", "讃州中学勇者部", 0],
+    [3, "ホシトハナ風ソロver.", "讃州中学勇者部", 0],
+    [4, "ホシトハナ樹ソロver.", "讃州中学勇者部", 0],
+    [5, "ホシトハナ夏凜ソロver.", "讃州中学勇者部", 0],
+    [6, "○△□(マルサンカクシカク)", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
+    [7, "古今無双", "東郷美森(CV.三森すずこ)", 0],
+    [8, "Aurora Days友奈ソロver.", "讃州中学勇者部", 0],
+    [9, "Aurora Days東郷ソロver.", "讃州中学勇者部", 0],
+    [10, "Aurora Days風ソロver.", "讃州中学勇者部", 0],
+    [11, "Aurora Days樹ソロver.", "讃州中学勇者部", 0],
+    [12, "Aurora Days夏凜ソロver.", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8e2f3cda-2450-4c19-b96a-a3251c8a1b4d", "https://vgmdb.net/album/49987"]
+
+[5]
 catalognumber = "PCXG-50454-2"
 date = "2015-03-18"
 album = "結城友奈は勇者である アレンジトラックス"
@@ -617,7 +100,336 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4e81008-32cb-4b37-a18a-9f4ae3831c7d", "https://vgmdb.net/album/50591"]
 
-[35]
+[6]
+catalognumber = "USPC-10001C"
+date = "2015-04-10"
+album = "Yuki Yuna is a Hero special charactersong CD 1"
+tracks = [
+    [1, "ホシトハナ友奈ソロver.", "讃州中学勇者部", 0],
+    [2, "ホシトハナ東郷ソロver.", "讃州中学勇者部", 0],
+    [3, "ホシトハナ風ソロver.", "讃州中学勇者部", 0],
+    [4, "ホシトハナ樹ソロver.", "讃州中学勇者部", 0],
+    [5, "ホシトハナ夏凜ソロver.", "讃州中学勇者部", 0],
+    [6, "○△□(マルサンカクシカク)", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
+    [7, "古今無双", "東郷美森(CV.三森すずこ)", 0],
+    [8, "Aurora Days友奈ソロver.", "讃州中学勇者部", 0],
+    [9, "Aurora Days東郷ソロver.", "讃州中学勇者部", 0],
+    [10, "Aurora Days風ソロver.", "讃州中学勇者部", 0],
+    [11, "Aurora Days樹ソロver.", "讃州中学勇者部", 0],
+    [12, "Aurora Days夏凜ソロver.", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/54d77aed-c20b-4005-9f30-58e4e1361a76", "https://vgmdb.net/album/50354"]
+
+[7]
+catalognumber = "PCXG-50455-2"
+date = "2015-04-15"
+album = "結城友奈は勇者である オリジナルサウンドトラック アウトテイク"
+tracks = [
+    [1, "勇者と魔王", "帆足圭吾", 0],
+    [2, "魔王のテーマ", "帆足圭吾", 0],
+    [3, "ガールズ", "帆足圭吾", 0],
+    [4, "楽しいひと時", "帆足圭吾", 0],
+    [5, "団欒", "高橋邦幸", 0],
+    [6, "くつろぎ", "高橋邦幸", 0],
+    [7, "可憐", "広川恵一", 0],
+    [8, "プリティ", "帆足圭吾", 0],
+    [9, "コミカル", "高橋邦幸", 0],
+    [10, "お間抜け", "高橋邦幸", 0],
+    [11, "ドタバタ", "高橋邦幸", 0],
+    [12, "鬼教官", "帆足圭吾", 0],
+    [13, "お色気", "帆足圭吾", 0],
+    [14, "険悪", "広川恵一", 0],
+    [15, "涙", "岡部啓一", 0],
+    [16, "チュートリアル", "岡部啓一", 0],
+    [17, "うどん屋店内BGM", "高橋邦幸", 0],
+    [18, "旅館", "帆足圭吾", 0],
+    [19, "勇者アプリ・メール着信", "広川恵一", 0],
+    [20, "着メロ", "広川恵一", 0],
+    [21, "樹海化警報", "広川恵一", 0],
+    [22, "樹海化特別警報検閲済", "広川恵一", 0],
+    [23, "樹海化特別警報", "広川恵一", 0],
+    [24, "タウラスのベル", "岡部啓一", 0],
+    [25, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 1],
+    [26, "Aurora Days 第十話 ver.", "東郷美森(CV:三森すずこ)", 0],
+    [27, "Aurora Days 第十一話 ver.", "結城友奈(CV:照井春佳)", 0],
+    [28, "Aurora Days 第十二話 ver.", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d75675f4-df3c-4658-af9a-92deb09e1e0e", "https://vgmdb.net/album/50592"]
+
+[8]
+catalognumber = "USPC-10002C"
+date = "2015-06-10"
+album = "Yuki Yuna is a Hero arrange tracks CD 2"
+tracks = [
+    [1, "ホシトハナ ピアノver.", "", 0],
+    [2, "満開 remix", "", 0],
+    [3, "威風堂々 remix", "", 0],
+    [4, "ユウガオ ピアノver.", "", 0],
+    [5, "☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
+    [6, "☆☆☆☆＊＊＊＊ remix", "", 0],
+    [7, "☆☆☆☆☆☆☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
+    [8, "ウスユキソウ ピアノver.", "", 0],
+    [9, "☆☆☆☆☆☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
+    [10, "封印の儀 remix", "", 0],
+    [11, "アリウム ピアノver.", "", 0],
+]
+links = ["https://vgmdb.net/album/51531"]
+
+[9]
+catalognumber = "USPC-10003C"
+date = "2015-08-10"
+album = "Yuki Yuna is a Hero original soundtrack outtake CD 3"
+tracks = [
+    [1, "勇者と魔王", "帆足圭吾", 0],
+    [2, "魔王のテーマ", "帆足圭吾", 0],
+    [3, "ガールズ", "帆足圭吾", 0],
+    [4, "楽しいひと時", "帆足圭吾", 0],
+    [5, "団欒", "高橋邦幸", 0],
+    [6, "くつろぎ", "高橋邦幸", 0],
+    [7, "可憐", "広川恵一", 0],
+    [8, "プリティ", "帆足圭吾", 0],
+    [9, "コミカル", "高橋邦幸", 0],
+    [10, "お間抜け", "高橋邦幸", 0],
+    [11, "ドタバタ", "高橋邦幸", 0],
+    [12, "鬼教官", "帆足圭吾", 0],
+    [13, "お色気", "帆足圭吾", 0],
+    [14, "険悪", "広川恵一", 0],
+    [15, "涙", "岡部啓一", 0],
+    [16, "チュートリアル", "岡部啓一", 0],
+    [17, "うどん屋店内BGM", "高橋邦幸", 0],
+    [18, "旅館", "帆足圭吾", 0],
+    [19, "勇者アプリ・メール着信", "広川恵一", 0],
+    [20, "着メロ", "広川恵一", 0],
+    [21, "樹海化警報", "広川恵一", 0],
+    [22, "樹海化特別警報検閲済", "広川恵一", 0],
+    [23, "樹海化特別警報", "広川恵一", 0],
+    [24, "タウラスのベル", "岡部啓一", 0],
+    [25, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 0],
+    [26, "Aurora Days 第十話 ver.", "東郷美森(CV:三森すずこ)", 0],
+    [27, "Aurora Days 第十一話 ver.", "結城友奈(CV:照井春佳)", 0],
+    [28, "Aurora Days 第十二話 ver.", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/079cf210-a7d8-4091-b633-5e109e20ca61", "https://vgmdb.net/album/52670"]
+
+[10]
+catalognumber = "PCCG-01504"
+date = "2016-03-02"
+album = "「結城友奈は勇者である」character songs 勇気のバトン"
+tracks = [
+    [1, "勇気のバトン (short ver.)", "讃州中学勇者部", 0],
+    [2, "Hello Girls", "結城友奈(CV:照井春佳)", 1],
+    [3, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
+    [4, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
+    [5, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 1],
+    [6, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 1],
+    [7, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
+    [8, "勇気のバトン", "讃州中学勇者部", 1],
+]
+links = ["https://beta.musicbrainz.org/release/e25e8437-da04-4376-8c2e-768039b4d5eb", "https://vgmdb.net/album/55482"]
+
+[11]
+catalognumber = "DSP-02093"
+date = "2016-03-02"
+album = "結城友奈は勇者である character songs 勇気のバトン ソロver."
+tracks = [
+    [1, "勇気のバトン 友奈ソロver.", "讃州中学勇者部", 0],
+    [2, "勇気のバトン 東郷ソロver.", "讃州中学勇者部", 0],
+    [3, "勇気のバトン 風ソロver.", "讃州中学勇者部", 0],
+    [4, "勇気のバトン 樹ソロver.", "讃州中学勇者部", 0],
+    [5, "勇気のバトン 夏凜ソロver.", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9afcd897-98b7-441d-a7fd-45975846349c", "https://vgmdb.net/album/57106"]
+
+[12]
+catalognumber = "PCCG-01503"
+date = "2016-03-02"
+album = "「結城友奈は勇者である」character songs 勇気のバトン Disc 1 (CD) [PCCG-01503-1]"
+tracks = [
+    [1, "勇気のバトン (short ver.)", "讃州中学勇者部", 0],
+    [2, "Hello Girls", "結城友奈(CV:照井春佳)", 0],
+    [3, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
+    [4, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
+    [5, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 0],
+    [6, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 0],
+    [7, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
+    [8, "勇気のバトン", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/17073852-271d-4b7e-ab39-e3428bbf33b8", "https://vgmdb.net/album/55483"]
+
+[13]
+catalognumber = "PCCG-01503"
+date = "2016-03-02"
+album = "「結城友奈は勇者である」character songs 勇気のバトン Disc 2 (DVD) [PCCG-01503-2]"
+tracks = [
+    [1, "「勇気のバトン」アニメーション Music Video", "", -1],
+    [2, "満開祭り 2015.3.15@豊洲PIT", "", -1],
+]
+links = ["https://vgmdb.net/album/55483"]
+
+[14]
+catalognumber = "PCCG-70401"
+date = "2017-03-15"
+album = "ともだち / 鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)"
+tracks = [
+    [1, "ともだち", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 1],
+    [2, "ともだち (鷲尾須美ソロver.)", "鷲尾須美(CV:三森すずこ)", 0],
+    [3, "ともだち <Instrumental>", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/733f14e9-363f-4c23-889b-c2dea33c3c13", "https://vgmdb.net/album/64943"]
+
+[15]
+catalognumber = "PCCG-70361"
+date = "2017-04-12"
+album = "サキワフハナ / 三森すずこ"
+tracks = [
+    [1, "サキワフハナ", "三森すずこ", 0],
+    [2, "恋はイリュージョン", "三森すずこ", 0],
+    [3, "サキワフハナ (Instrumental)", "三森すずこ", 0],
+    [4, "恋はイリュージョン (Instrumental)", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3902417d-68c2-48a7-91a7-697df598f9d2", "https://vgmdb.net/album/62570"]
+
+[16]
+catalognumber = "PCCG-01576"
+date = "2017-04-12"
+album = "サキワフハナ / 三森すずこ Disc 1 (CD)"
+tracks = [
+    [1, "サキワフハナ", "三森すずこ", 0],
+    [2, "恋はイリュージョン", "三森すずこ", 0],
+    [3, "サキワフハナ (Instrumental)", "三森すずこ", 0],
+    [4, "恋はイリュージョン (Instrumental)", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/edb26068-fddd-4edf-98a1-7a26d5b50a76", "https://vgmdb.net/album/62572"]
+
+[17]
+catalognumber = "PCCG-01576"
+date = "2017-04-12"
+album = "サキワフハナ / 三森すずこ Disc 2 (DVD)"
+tracks = [
+    [1, "「サキワフハナ」 Music Video / Making", "", -1],
+    [2, "「恋はイリュージョン」 Music Video / Making", "", -1],
+    [3, "off shot", "", -1],
+]
+links = ["https://vgmdb.net/album/62572"]
+
+[18]
+catalognumber = "PCCG-70402"
+date = "2017-04-12"
+album = "たましい / 三ノ輪銀(CV:花守ゆみり)"
+tracks = [
+    [1, "たましい", "三ノ輪銀(CV:花守ゆみり)", 1],
+    [2, "ともだち (三ノ輪銀ソロver.)", "三ノ輪銀(CV:花守ゆみり)", 0],
+    [3, "たましい <Instrumental>", "三ノ輪銀(CV:花守ゆみり)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6bd15a44-714f-4ed3-ba6b-9ef5107321a6", "https://vgmdb.net/album/64944"]
+
+[19]
+catalognumber = "PCSP-02252"
+date = "2017-05-08"
+album = "国防体操 / 鷲尾須美 (CV: 三森すずこ)"
+tracks = [
+    [1, "国防体操", "", 0],
+]
+links = ["https://vgmdb.net/album/116414"]
+
+[20]
+catalognumber = "PCCG-70403"
+date = "2017-07-05"
+album = "やくそく / 鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)"
+tracks = [
+    [1, "やくそく", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 1],
+    [2, "ともだち (乃木園子ソロver.)", "乃木園子(CV:花澤香菜)", 0],
+    [3, "やくそく (Instrumental)", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/01a36c39-7b14-40d0-8abe-02656a0287e5", "https://vgmdb.net/album/64945"]
+
+[21]
+catalognumber = "PCCG-01591"
+date = "2017-07-05"
+album = "「結城友奈は勇者である-鷲尾須美の章-」 オリジナルサウンドトラック"
+tracks = [
+    [1, "サキワフハナ <Instrumental> (movie ver.)", "岡部啓一", 0],
+    [2, "勇者御記", "帆足圭吾", 0],
+    [3, "木漏れ日", "高橋邦幸", 0],
+    [4, "樹海の中へ", "帆足圭吾", 0],
+    [5, "神への憧憬", "中川奈美", 0],
+    [6, "サザンカ", "高橋邦幸", 0],
+    [7, "予感", "岡部啓一", 0],
+    [8, "うすらい", "岡部啓一", 0],
+    [9, "禍正し", "中川奈美", 0],
+    [10, "鎮花の儀", "岡部啓一", 0],
+    [11, "しろがねの糸", "高橋邦幸", 0],
+    [12, "ベゴニア", "岡部啓一", 0],
+    [13, "カスミソウ", "帆足圭吾", 0],
+    [14, "チューリップ", "瀬尾祥太郎", 0],
+    [15, "ライラック", "瀬尾祥太郎", 0],
+    [16, "樹海の迷宮", "岡部啓一", 0],
+    [17, "ゼラニウム", "Emi Evans", 0],
+    [18, "蝶結び", "岡部啓一", 0],
+    [19, "ナデシコ", "瀬尾祥太郎", 0],
+    [20, "ユキヤナギ", "高橋邦幸", 0],
+    [21, "ゲッカビジン", "帆足圭吾", 0],
+    [22, "箱庭", "帆足圭吾", 0],
+    [23, "サンチョ音頭", "瀬尾祥太郎", 0],
+    [24, "アサガオ", "帆足圭吾", 0],
+    [25, "風向き", "中川奈美", 0],
+    [26, "忍び寄る影", "岡部啓一", 0],
+    [27, "花散る雨", "帆足圭吾", 0],
+    [28, "シロツメクサ", "高橋邦幸", 0],
+    [29, "花嵐", "高橋邦幸", 0],
+    [30, "少女の願い", "Emi Evans", 0],
+    [31, "タネトハナ", "Emi Evans", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b78e9cc3-fd3a-4b79-9482-6716a6cf2e72", "https://vgmdb.net/album/67368"]
+
+[22]
+catalognumber = "PCCG-01623"
+date = "2017-10-11"
+album = "エガオノキミへ / 三森すずこ Disc 1 (CD)"
+tracks = [
+    [1, "エガオノキミヘ", "三森すずこ", 0],
+    [2, "Colorful Girl", "三森すずこ", 0],
+    [3, "エガオノキミヘ [Instrumental]", "三森すずこ", 0],
+    [4, "Colorful Girl [Instrumental]", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/09e79c83-19e5-4e81-9eec-c6668894e573", "https://vgmdb.net/album/69822"]
+
+[23]
+catalognumber = "PCCG-01623"
+date = "2017-10-11"
+album = "エガオノキミへ / 三森すずこ Disc 2 (DVD)"
+tracks = [
+    [1, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
+    [2, "エガオノキミヘ (MAKING OF MUSIC VIDEO)", "三森すずこ", 0],
+    [3, "エガオノキミヘ (OFF SHOT)", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/09e79c83-19e5-4e81-9eec-c6668894e573", "https://vgmdb.net/album/69822"]
+
+[24]
+catalognumber = "PCCG-70406"
+date = "2017-10-11"
+album = "エガオノキミへ / 三森すずこ"
+tracks = [
+    [1, "エガオノキミヘ", "三森すずこ", 0],
+    [2, "Colorful Girl", "三森すずこ", 0],
+    [3, "エガオノキミヘ [Instrumental]", "三森すずこ", 0],
+    [4, "Colorful Girl [Instrumental]", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a9ea8155-a72b-4188-a833-818947452853", "https://vgmdb.net/album/69821"]
+
+[25]
+catalognumber = "PCCG-70408"
+date = "2017-12-06"
+album = "ハナコトバ/勇者たちのララバイ / 讃州中学勇者部"
+tracks = [
+    [1, "ハナコトバ", "讃州中学勇者部", 0],
+    [2, "勇者たちのララバイ", "讃州中学勇者部", 0],
+    [3, "ハナコトバ <Instrumental>", "讃州中学勇者部", 0],
+    [4, "勇者たちのララバイ <Instrumental>", "讃州中学勇者部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fbedde72-dedc-4fa0-95f3-e847b2d97f3b", "https://vgmdb.net/album/71544"]
+
+[26]
 catalognumber = "PCXG-50622-3"
 date = "2018-05-30"
 album = "結城友奈は勇者である -勇者の章- オリジナルサウンドトラック"
@@ -638,38 +450,246 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/faee801a-23f5-4845-bab0-3280ca92000b", "https://vgmdb.net/album/72061"]
 
-[36]
-catalognumber = "PCCG-70231"
-date = "2014-11-05"
-album = "ホシトハナ / 讃州中学勇者部"
+[27]
+catalognumber = "PCCG-01699"
+date = "2018-06-27"
+album = "tone. / 三森すずこ"
+tracks = [
+    [1, "恋はイリュージョン", "三森すずこ", 0],
+    [2, "Happy Lucky Life!!", "三森すずこ", -1],
+    [3, "Colorful Girl", "三森すずこ", 0],
+    [4, "海と空のヒミツ", "三森すずこ", -1],
+    [5, "Light for Knight", "三森すずこ", -1],
+    [6, "革命のマスカレード", "三森すずこ", -1],
+    [7, "Xenotopia", "三森すずこ", -1],
+    [8, "比翼の鳥", "三森すずこ", -1],
+    [9, "サキワフハナ", "三森すずこ", 0],
+    [10, "エガオノキミヘ", "三森すずこ", 0],
+    [11, "夢飛行", "三森すずこ", -1],
+    [12, "WONDER FLIGHT", "三森すずこ", -1],
+    [13, "SAKURA dreamers", "三森すずこ", -1],
+    [14, "スマイリウム", "三森すずこ", -1],
+    [15, "アレコレ", "三森すずこ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/871832ba-2519-4211-9eb3-cc13f34315ad", "https://vgmdb.net/album/76625"]
+
+[28]
+catalognumber = "PCCG-01698"
+date = "2018-06-27"
+album = "tone. / 三森すずこ Disc 1 (CD)"
+tracks = [
+    [1, "恋はイリュージョン", "三森すずこ", 0],
+    [2, "Happy Lucky Life!!", "三森すずこ", -1],
+    [3, "Colorful Girl", "三森すずこ", 0],
+    [4, "海と空のヒミツ", "三森すずこ", -1],
+    [5, "Light for Knight", "三森すずこ", -1],
+    [6, "革命のマスカレード", "三森すずこ", -1],
+    [7, "Xenotopia", "三森すずこ", -1],
+    [8, "比翼の鳥", "三森すずこ", -1],
+    [9, "サキワフハナ", "三森すずこ", 0],
+    [10, "エガオノキミヘ", "三森すずこ", 0],
+    [11, "夢飛行", "三森すずこ", -1],
+    [12, "WONDER FLIGHT", "三森すずこ", -1],
+    [13, "SAKURA dreamers", "三森すずこ", -1],
+    [14, "スマイリウム", "三森すずこ", -1],
+    [15, "アレコレ", "三森すずこ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/b1187930-b41b-48b8-9beb-8ed06848ecf0", "https://vgmdb.net/album/76624"]
+
+[29]
+catalognumber = "PCCG-01698"
+date = "2018-06-27"
+album = "tone. / 三森すずこ Disc 2 (DVD)"
+tracks = [
+    [1, "革命のマスカレード (Music Video)", "三森すずこ", -1],
+    [2, "革命のマスカレード (off shot)", "三森すずこ", -1],
+    [3, "革命のマスカレード (Making of Music Video)", "三森すずこ", -1],
+    [4, "アレコレ (Music Video)", "三森すずこ", -1],
+    [5, "アレコレ (off shot)", "三森すずこ", -1],
+    [6, "アレコレ (Making of Music Video)", "三森すずこ", -1],
+    [7, "恋はイリュージョン (MUSIC VIDEO)", "三森すずこ", 0],
+    [8, "Light for Knight (MUSIC VIDEO)", "三森すずこ", -1],
+    [9, "Xenotopia (MUSIC VIDEO)", "三森すずこ", -1],
+    [10, "サキワフハナ (MUSIC VIDEO)", "三森すずこ", 0],
+    [11, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b1187930-b41b-48b8-9beb-8ed06848ecf0", "https://vgmdb.net/album/76624"]
+
+[30]
+catalognumber = "PCCG-01697"
+date = "2018-06-27"
+album = "tone. / 三森すずこ Disc 1 (CD)"
+tracks = [
+    [1, "恋はイリュージョン", "三森すずこ", 0],
+    [2, "Happy Lucky Life!!", "三森すずこ", -1],
+    [3, "Colorful Girl", "三森すずこ", 0],
+    [4, "海と空のヒミツ", "三森すずこ", -1],
+    [5, "Light for Knight", "三森すずこ", -1],
+    [6, "革命のマスカレード", "三森すずこ", -1],
+    [7, "Xenotopia", "三森すずこ", -1],
+    [8, "比翼の鳥", "三森すずこ", -1],
+    [9, "サキワフハナ", "三森すずこ", 0],
+    [10, "エガオノキミヘ", "三森すずこ", 0],
+    [11, "夢飛行", "三森すずこ", -1],
+    [12, "WONDER FLIGHT", "三森すずこ", -1],
+    [13, "SAKURA dreamers", "三森すずこ", -1],
+    [14, "スマイリウム", "三森すずこ", -1],
+    [15, "アレコレ", "三森すずこ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/84e138e1-c1ab-4ea5-aa49-9cb799f17651", "https://vgmdb.net/album/76623"]
+
+[31]
+catalognumber = "PCCG-01697"
+date = "2018-06-27"
+album = "tone. / 三森すずこ Disc 2 (Blu-ray)"
+tracks = [
+    [1, "革命のマスカレード (Music Video)", "三森すずこ", -1],
+    [2, "革命のマスカレード (off shot)", "三森すずこ", -1],
+    [3, "革命のマスカレード (Making of Music Video)", "三森すずこ", -1],
+    [4, "アレコレ (Music Video)", "三森すずこ", -1],
+    [5, "アレコレ (off shot)", "三森すずこ", -1],
+    [6, "アレコレ (Making of Music Video)", "三森すずこ", -1],
+    [7, "恋はイリュージョン (MUSIC VIDEO)", "三森すずこ", 0],
+    [8, "Light for Knight (MUSIC VIDEO)", "三森すずこ", -1],
+    [9, "Xenotopia (MUSIC VIDEO)", "三森すずこ", -1],
+    [10, "サキワフハナ (MUSIC VIDEO)", "三森すずこ", 0],
+    [11, "エガオノキミヘ (MUSIC VIDEO)", "三森すずこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/84e138e1-c1ab-4ea5-aa49-9cb799f17651", "https://vgmdb.net/album/76623"]
+
+[32]
+catalognumber = "DSP-02188"
+date = "2018-11-28"
+album = "five tones Mimori Suzuko 5th Anniversary Live LIVE CD"
+tracks = [
+    [1, "ミライスタート", "", -1],
+    [2, "Happy Lucky Life!!", "", -1],
+    [3, "海と空のヒミツ", "", -1],
+    [4, "サキワフハナ", "", 0],
+    [5, "エガオノキミヘ", "", 0],
+    [6, "My First Lesson", "", -1],
+    [7, "アレコレ", "", -1],
+    [8, "革命のマスカレード", "", -1],
+    [9, "比翼の鳥", "", -1],
+    [10, "SAKURA dreamers", "", -1],
+    [11, "WONDER FLIGHT", "", -1],
+    [12, "スマイリウム", "", -1],
+    [13, "ユニバーページ", "", -1],
+    [14, "TINY TRAIN TOUR", "", -1],
+    [15, "夢飛行", "", -1],
+    [16, "ちいさな手と観覧車", "", -1],
+    [17, "会いたいよ...会いたいよ!", "", -1],
+]
+links = ["https://vgmdb.net/album/79846"]
+
+[33]
+catalognumber = "PCCG-01819"
+date = "2019-11-06"
+album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」 Disc 1 [PCCG-01819-1]"
 tracks = [
     [1, "ホシトハナ", "讃州中学勇者部", 0],
-    [2, "祈りの歌 acoustic guitar ver.", "犬吠埼樹 (黒沢ともよ)", 1],
-    [3, "ホシトハナ <Instrumental>", "讃州中学勇者部", 0],
-    [4, "祈りの歌 acoustic guitar ver. <Instrumental>", "犬吠埼樹 (黒沢ともよ)", 0],
+    [2, "soda pops", "犬吠埼風 (内山夕実)", 0],
+    [3, "○△□", "結城友奈(CV.照井春佳) & 三好夏凜(CV.長妻樹里)", 0],
+    [4, "古今無双", "東郷美森(CV.三森すずこ)", 0],
+    [5, "祈りの歌 acoustic guitar ver.", "犬吠埼樹 (黒沢ともよ)", 0],
+    [6, "ユウガオ", "Emi Evans", 0],
+    [7, "ウスユキソウ", "Emi Evans", 0],
+    [8, "Aurora Days", "讃州中学勇者部", 0],
+    [9, "Hello Girls", "結城友奈(CV:照井春佳)", 0],
+    [10, "時計仕掛けの記憶", "東郷美森(CV:三森すずこ)", 0],
+    [11, "EXODUS", "乃木園子(CV:花澤香菜)", 0],
+    [12, "ありったけlove for you", "犬吠埼風(CV:内山夕実)", 0],
+    [13, "カラフルワールド", "犬吠埼樹(CV:黒沢ともよ)", 0],
+    [14, "! ERROR !", "三好夏凜(CV:長妻樹里)", 0],
+    [15, "FOLLOW TOMORROW ME", "結城友奈(CV.照井春佳)", 1],
+    [16, "花火", "東郷美森(CV.三森すずこ)", 0],
+    [17, "ユメ見ノクニ", "乃木園子(CV.花澤香菜)", 1],
+    [18, "Yellow Ocean", "犬吠埼風(CV.内山夕実)", 1],
+    [19, "憧憬", "犬吠埼樹(CV.黒沢ともよ)", 0],
+    [20, "KIZUNA", "三好夏凜(CV.長妻樹里)", 0],
+    [21, "勇気のバトン ゆゆゆver.", "讃州中学勇者部", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/da813bbe-8fe5-411a-9fd6-529f5e334620", "https://vgmdb.net/album/47677"]
+links = ["https://beta.musicbrainz.org/release/98afdcbc-4d75-4075-b0b4-aa4dfba8e532", "https://vgmdb.net/album/88154"]
+
+[34]
+catalognumber = "PCCG-01819"
+date = "2019-11-06"
+album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」 Disc 2 [PCCG-01819-2]"
+tracks = [
+    [1, "サキワフハナ", "三森すずこ", 0],
+    [2, "エガオノキミヘ", "三森すずこ", 0],
+    [3, "ともだち", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)、三ノ輪銀(CV:花守ゆみり)", 0],
+    [4, "国防体操", "鷲尾須美(CV.三森すずこ)", 0],
+    [5, "ゼラニウム", "Emi Evans", 0],
+    [6, "たましい", "三ノ輪銀(CV:花守ゆみり)", 0],
+    [7, "少女の願い", "Emi Evans", 0],
+    [8, "やくそく", "鷲尾須美(CV:三森すずこ)、乃木園子(CV:花澤香菜)", 0],
+    [9, "タネトハナ", "Emi Evans", 0],
+    [10, "祈りの歌", "犬吠埼樹(CV:黒沢ともよ)", 0],
+    [11, "ハナコトバ", "讃州中学勇者部", 0],
+    [12, "花冠", "Emi Evans", 0],
+    [13, "勇者たちのララバイ", "讃州中学勇者部", 0],
+    [14, "キボウノツボミ", "乃木若葉(CV.大橋彩香), 上里ひなた(CV.高野麻里佳), 高嶋友奈(CV.照井春佳), 郡千景(CV.鈴木愛奈), 土居球子(CV.本渡楓) & 伊予島杏(CV.近藤玲奈)", 0],
+    [15, "勇気のバトン のわゆver.", "乃木若葉(CV.大橋彩香), 上里ひなた(CV.高野麻里佳), 高嶋友奈(CV.照井春佳), 郡千景(CV.鈴木愛奈), 土居球子(CV.本渡楓) & 伊予島杏(CV.近藤玲奈)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/98afdcbc-4d75-4075-b0b4-aa4dfba8e532", "https://vgmdb.net/album/88154"]
+
+[35]
+catalognumber = "DSP-02227"
+date = "2019-11-06"
+album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」ソロバージョンCD"
+tracks = [
+    [1, "キボウノツボミ 乃木若葉ソロver.", "乃木若葉(CV.大橋彩香)", 0],
+    [2, "キボウノツボミ 上里ひなたソロver.", "上里ひなた(CV.高野麻里佳)", 0],
+    [3, "キボウノツボミ 高嶋友奈ソロver.", "高嶋友奈(CV.照井春佳)", 0],
+    [4, "キボウノツボミ 郡千景ソロver.", "郡千景(CV.鈴木愛奈)", 0],
+    [5, "キボウノツボミ 土居球子ソロver.", "土居球子(CV.本渡楓)", 0],
+    [6, "キボウノツボミ 伊予島杏ソロver.", "伊予島杏(CV.近藤玲奈)", 0],
+    [7, "勇気のバトン 乃木若葉ソロver.", "乃木若葉(CV.大橋彩香)", 0],
+    [8, "勇気のバトン 上里ひなたソロver.", "上里ひなた(CV.高野麻里佳)", 0],
+    [9, "勇気のバトン 高嶋友奈ソロver.", "高嶋友奈(CV.照井春佳)", 0],
+    [10, "勇気のバトン 郡千景ソロver.", "郡千景(CV.鈴木愛奈)", 0],
+    [11, "勇気のバトン 土居球子ソロver.", "土居球子(CV.本渡楓)", 0],
+    [12, "勇気のバトン 伊予島杏ソロver.", "伊予島杏(CV.近藤玲奈)", 0],
+]
+links = ["https://vgmdb.net/album/91962"]
+
+[36]
+catalognumber = "PCCG-01991"
+date = "2021-10-27"
+album = "アシタノハナタチ / 讃州中学勇者部"
+tracks = [
+    [1, "アシタノハナタチ", "讃州中学勇者部", 0],
+    [2, "U・D・N", "讃州中学勇者部", -1],
+    [3, "アシタノハナタチ TV edit", "讃州中学勇者部", 0],
+    [4, "アシタノハナタチ <Instrumental>", "讃州中学勇者部", 0],
+    [5, "U・D・N <Instrumental>", "讃州中学勇者部", -1],
+]
+links = ["https://beta.musicbrainz.org/release/5ba667a7-a796-4832-907c-17704cf07b9b", "https://vgmdb.net/album/114186"]
 
 [37]
-catalognumber = "USPC-10002C"
-date = "2015-06-10"
-album = "Yuki Yuna is a Hero arrange tracks CD 2"
+catalognumber = "PCCG-02073"
+date = "2021-10-27"
+album = "地平線の向こうへ / 讃州中学勇者部"
 tracks = [
-    [1, "ホシトハナ ピアノver.", "", 0],
-    [2, "満開 remix", "", 0],
-    [3, "威風堂々 remix", "", 0],
-    [4, "ユウガオ ピアノver.", "", 0],
-    [5, "☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
-    [6, "☆☆☆☆＊＊＊＊ remix", "", 0],
-    [7, "☆☆☆☆☆☆☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
-    [8, "ウスユキソウ ピアノver.", "", 0],
-    [9, "☆☆☆☆☆☆☆☆☆☆＊＊＊＊＊ remix", "", 0],
-    [10, "封印の儀 remix", "", 0],
-    [11, "アリウム ピアノver.", "", 0],
+    [1, "地平線の向こうへ", "讃州中学勇者部", 1],
+    [2, "Darling☆Darling", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", -1],
+    [3, "真紅の刃", "三好夏凜（CV：長妻樹里）", -1],
+    [4, "地平線の向こうへ TV edit", "讃州中学勇者部", 0],
+    [5, "地平線の向こうへ 〈Instrumental〉", "讃州中学勇者部", 0],
+    [6, "Darling☆Darling 〈Instrumental〉", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", -1],
+    [7, "真紅の刃 〈Instrumental〉", "三好夏凜（CV：長妻樹里）", -1],
 ]
-links = ["https://vgmdb.net/album/51531"]
+links = ["https://beta.musicbrainz.org/release/8d69878b-b596-40ef-b84e-047715d249bb", "https://vgmdb.net/album/114187"]
 
 [38]
+catalognumber = "PCCG-02072"
+date = "2021-12-01"
+album = "結城友奈は勇者である -大満開の章- OST"
+tracks = []
+links = ["https://vgmdb.net/album/114987"]
+
+[39]
 catalognumber = "PCCG-02112"
 date = "2021-12-01"
 album = "「結城友奈は勇者である-大満開の章-」オリジナルサウンドトラック Original Soundtrack"
@@ -701,7 +721,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cdef6140-6495-4a10-9e51-8a3f50ce594c", "https://vgmdb.net/album/115181"]
 
-[39]
+[40]
 catalognumber = "PCCG-02112"
 date = "2021-12-01"
 album = "「結城友奈は勇者である-大満開の章-」オリジナルサウンドトラック Original Soundtrack, Vocal"
@@ -729,23 +749,3 @@ tracks = [
     [21, "スイートピー", "岡部啓一・MONACA", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/cdef6140-6495-4a10-9e51-8a3f50ce594c", "https://vgmdb.net/album/115181"]
-
-[40]
-catalognumber = "DSP-02227"
-date = "2019-11-06"
-album = "「結城友奈は勇者である」ベストアルバム「勇気の歌」ソロバージョンCD"
-tracks = [
-    [1, "キボウノツボミ 乃木若葉ソロver.", "乃木若葉(CV.大橋彩香)", 0],
-    [2, "キボウノツボミ 上里ひなたソロver.", "上里ひなた(CV.高野麻里佳)", 0],
-    [3, "キボウノツボミ 高嶋友奈ソロver.", "高嶋友奈(CV.照井春佳)", 0],
-    [4, "キボウノツボミ 郡千景ソロver.", "郡千景(CV.鈴木愛奈)", 0],
-    [5, "キボウノツボミ 土居球子ソロver.", "土居球子(CV.本渡楓)", 0],
-    [6, "キボウノツボミ 伊予島杏ソロver.", "伊予島杏(CV.近藤玲奈)", 0],
-    [7, "勇気のバトン 乃木若葉ソロver.", "乃木若葉(CV.大橋彩香)", 0],
-    [8, "勇気のバトン 上里ひなたソロver.", "上里ひなた(CV.高野麻里佳)", 0],
-    [9, "勇気のバトン 高嶋友奈ソロver.", "高嶋友奈(CV.照井春佳)", 0],
-    [10, "勇気のバトン 郡千景ソロver.", "郡千景(CV.鈴木愛奈)", 0],
-    [11, "勇気のバトン 土居球子ソロver.", "土居球子(CV.本渡楓)", 0],
-    [12, "勇気のバトン 伊予島杏ソロver.", "伊予島杏(CV.近藤玲奈)", 0],
-]
-links = ["https://vgmdb.net/album/91962"]

@@ -11,49 +11,28 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/91e40854-846b-493e-9687-29c9817f4afc", "https://vgmdb.net/album/82216"]
 
 [2]
-catalognumber = "TGCS-11164"
-date = "2019-04-24"
-album = "私に天使が舞い降りた! キャラクターソングCD 02"
+catalognumber = "VTZL-152"
+date = "2019-01-30"
+album = "気ままな天使たち×ハッピー・ハッピー・フレンズ / わたてん☆5 Disc 1 (CD) [VTCL-35296]"
 tracks = [
-    [1, "GO！GO！GO！", "わたてん☆5", 0],
-    [2, "GO！GO！GO！ -Instrumental-", "わたてん☆5", 0],
+    [1, "気ままな天使たち", "わたてん☆5", 0],
+    [2, "ハッピー･ハッピー･フレンズ", "わたてん☆5", 0],
+    [3, "気ままな天使たち -Instrumental-", "わたてん☆5", 0],
+    [4, "ハッピー･ハッピー･フレンズ -Instrumental-", "わたてん☆5", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/d548ab11-783a-4f43-9a74-59a907a8af9a", "https://vgmdb.net/album/83286"]
+links = ["https://beta.musicbrainz.org/release/714febf6-3c7e-4df2-b5ff-b0bab122b5ba", "https://vgmdb.net/album/82215"]
 
 [3]
-catalognumber = ""
-date = "2020-01-31"
-album = "私に天使が舞い降りた! 7 特装版 付録ドラマCD"
+catalognumber = "VTZL-152"
+date = "2019-01-30"
+album = "気ままな天使たち×ハッピー・ハッピー・フレンズ / わたてん☆5 Disc 2 (DVD) [VTBY-158]"
 tracks = [
-    [1, "オープニング", "", -1],
-    [2, "いつか本当に捕まりそうでシンパイ", "", -1],
-    [3, "みゃーこってその犬?", "", -1],
-    [4, "わたしの顔使ってもいいぞ", "", -1],
-    [5, "もういつ死んでもいいわ", "", -1],
-    [6, "味見してただけです", "", -1],
-    [7, "エンディング", "", -1],
+    [1, "気ままな天使たち (Music Clip)", "わたてん☆5", 0],
+    [2, "気ままな天使たち (Making Movie)", "わたてん☆5", 0],
 ]
-links = ["https://vgmdb.net/album/93041"]
+links = ["https://beta.musicbrainz.org/release/714febf6-3c7e-4df2-b5ff-b0bab122b5ba", "https://vgmdb.net/album/82215"]
 
 [4]
-catalognumber = "VTCL-60539"
-date = "2020-11-25"
-album = "デリシャス・スマイル! / わたてん☆5"
-tracks = [
-    [1, "デリシャス・スマイル！", "わたてん☆5", 0],
-    [2, "無限大ハピネス", "わたてん☆5", 0],
-    [3, "スイーツスイーツパーティー！", "わたてん☆5", 1],
-    [4, "スペシャルコーディネート", "わたてん☆5", 0],
-    [5, "スイーツランド・パラドックス", "白咲花(CV.指出毬亜)", 0],
-    [6, "みゃー姉！！", "星野ひなた(CV.長江里加)", 0],
-    [7, "参上！小悪魔エンジェル", "姫坂乃愛(CV.鬼頭明里)", 0],
-    [8, "My canon", "種村小依(CV.大和田仁美)", 1],
-    [9, "いっしょにおててをつなごうね", "小之森夏音(CV.大空直美)", 0],
-    [10, "ディアマイフレンド", "星野みやこ(CV.上田麗奈)＆松本香子(CV.Lynn)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/672c3b6f-d9b6-4ac9-b97c-c8180feac8ad", "https://vgmdb.net/album/103945"]
-
-[5]
 catalognumber = "VTCL-60483"
 date = "2019-02-27"
 album = "「私に天使が舞い降りた!」キャラクターソングアルバム 天使のうたごえ"
@@ -73,18 +52,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9cd9a99d-e2ec-4671-b572-f75c63456033", "https://vgmdb.net/album/82935"]
 
-[6]
-catalognumber = ""
-date = "2020-09-18"
-album = "無限大ハピネス COMIC ver. / わたてん☆5"
-tracks = [
-    [1, "無限大ハピネス COMIC ver.", "わたてん☆5", 0],
-    [2, "無限大ハピネス COMIC ver. -Instrumental-", "わたてん☆5", 0],
-    [3, "おまけドラマ「インタビュー」", "わたてん☆5", -1],
-]
-links = ["https://beta.musicbrainz.org/release/71cf1f9b-a781-4ec6-a1a7-f73729c25a72", "https://vgmdb.net/album/103452"]
-
-[7]
+[5]
 catalognumber = "TGCS-11162"
 date = "2019-03-27"
 album = "私に天使が舞い降りた! キャラクターソングCD 01"
@@ -94,40 +62,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1f72a7be-b63e-47dc-ac0b-1c6c9c1b6090", "https://vgmdb.net/album/83285"]
 
-[8]
-catalognumber = ""
-date = "2022-08-24"
-album = "私に天使が舞い降りた! CHARACTER SONG & RADIO CD"
-tracks = [
-    [1, "晴れルヤ!", "", 0],
-    [2, "GO! GO! GO!", "", 0],
-    [3, "(data track)", "", -1],
-]
-links = ["https://vgmdb.net/album/120020"]
-
-[9]
-catalognumber = "VTZL-152"
-date = "2019-01-30"
-album = "気ままな天使たち×ハッピー・ハッピー・フレンズ / わたてん☆5 Disc 1 (CD) [VTCL-35296]"
-tracks = [
-    [1, "気ままな天使たち", "わたてん☆5", 0],
-    [2, "ハッピー･ハッピー･フレンズ", "わたてん☆5", 0],
-    [3, "気ままな天使たち -Instrumental-", "わたてん☆5", 0],
-    [4, "ハッピー･ハッピー･フレンズ -Instrumental-", "わたてん☆5", 0],
-]
-links = ["https://beta.musicbrainz.org/release/714febf6-3c7e-4df2-b5ff-b0bab122b5ba", "https://vgmdb.net/album/82215"]
-
-[10]
-catalognumber = "VTZL-152"
-date = "2019-01-30"
-album = "気ままな天使たち×ハッピー・ハッピー・フレンズ / わたてん☆5 Disc 2 (DVD) [VTBY-158]"
-tracks = [
-    [1, "気ままな天使たち (Music Clip)", "わたてん☆5", 0],
-    [2, "気ままな天使たち (Making Movie)", "わたてん☆5", 0],
-]
-links = ["https://beta.musicbrainz.org/release/714febf6-3c7e-4df2-b5ff-b0bab122b5ba", "https://vgmdb.net/album/82215"]
-
-[11]
+[6]
 catalognumber = "VTCL-60494"
 date = "2019-04-03"
 album = "TVアニメ「私に天使が舞い降りた!」サウンドコレクション"
@@ -182,7 +117,109 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5c8fd7dd-e054-44b3-b7d4-1b422b8c344a", "https://vgmdb.net/album/83724"]
 
+[7]
+catalognumber = "TGCS-11164"
+date = "2019-04-24"
+album = "私に天使が舞い降りた! キャラクターソングCD 02"
+tracks = [
+    [1, "GO！GO！GO！", "わたてん☆5", 0],
+    [2, "GO！GO！GO！ -Instrumental-", "わたてん☆5", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d548ab11-783a-4f43-9a74-59a907a8af9a", "https://vgmdb.net/album/83286"]
+
+[8]
+catalognumber = "TGCS-11166"
+date = "2019-05-24"
+album = "私に天使が舞い降りた! スペシャルラジオCD"
+tracks = [
+    [1, "(no title available)", "", 0],
+]
+links = ["https://vgmdb.net/album/83287"]
+
+[9]
+catalognumber = ""
+date = "2020-01-31"
+album = "私に天使が舞い降りた! 7 特装版 付録ドラマCD"
+tracks = [
+    [1, "オープニング", "", -1],
+    [2, "いつか本当に捕まりそうでシンパイ", "", -1],
+    [3, "みゃーこってその犬?", "", -1],
+    [4, "わたしの顔使ってもいいぞ", "", -1],
+    [5, "もういつ死んでもいいわ", "", -1],
+    [6, "味見してただけです", "", -1],
+    [7, "エンディング", "", -1],
+]
+links = ["https://vgmdb.net/album/93041"]
+
+[10]
+catalognumber = ""
+date = "2020-09-18"
+album = "無限大ハピネス COMIC ver. / わたてん☆5"
+tracks = [
+    [1, "無限大ハピネス COMIC ver.", "わたてん☆5", 0],
+    [2, "無限大ハピネス COMIC ver. -Instrumental-", "わたてん☆5", 0],
+    [3, "おまけドラマ「インタビュー」", "わたてん☆5", -1],
+]
+links = ["https://beta.musicbrainz.org/release/71cf1f9b-a781-4ec6-a1a7-f73729c25a72", "https://vgmdb.net/album/103452"]
+
+[11]
+catalognumber = "VTCL-60539"
+date = "2020-11-25"
+album = "デリシャス・スマイル! / わたてん☆5"
+tracks = [
+    [1, "デリシャス・スマイル！", "わたてん☆5", 0],
+    [2, "無限大ハピネス", "わたてん☆5", 0],
+    [3, "スイーツスイーツパーティー！", "わたてん☆5", 1],
+    [4, "スペシャルコーディネート", "わたてん☆5", 0],
+    [5, "スイーツランド・パラドックス", "白咲花(CV.指出毬亜)", 0],
+    [6, "みゃー姉！！", "星野ひなた(CV.長江里加)", 0],
+    [7, "参上！小悪魔エンジェル", "姫坂乃愛(CV.鬼頭明里)", 0],
+    [8, "My canon", "種村小依(CV.大和田仁美)", 1],
+    [9, "いっしょにおててをつなごうね", "小之森夏音(CV.大空直美)", 0],
+    [10, "ディアマイフレンド", "星野みやこ(CV.上田麗奈)＆松本香子(CV.Lynn)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/672c3b6f-d9b6-4ac9-b97c-c8180feac8ad", "https://vgmdb.net/album/103945"]
+
 [12]
+catalognumber = "VTZL-179"
+date = "2020-11-25"
+album = "デリシャス・スマイル! / わたてん☆5 [初回限定盤] Vocal"
+tracks = [
+    [1, "デリシャス・スマイル!", "", 0],
+    [2, "無限大ハピネス", "", 0],
+    [3, "スイーツスイーツパーティー!", "", 0],
+    [4, "スペシャルコーディネート", "", 0],
+    [5, "スイーツランド・パラドックス", "", 0],
+    [6, "みゃー姉!!", "", 0],
+    [7, "参上!小悪魔エンジェル", "", 0],
+    [8, "My canon", "", 0],
+    [9, "いっしょにおててをつなごうね", "", 0],
+    [10, "ディアマイフレンド", "", 0],
+]
+links = ["https://vgmdb.net/album/103946"]
+
+[13]
+catalognumber = "VTZL-179"
+date = "2020-11-25"
+album = "デリシャス・スマイル! / わたてん☆5 [初回限定盤] Vocal, Video"
+tracks = [
+    [1, "デリシャス・スマイル! (Music Clip)", "", 0],
+    [2, "デリシャス・スマイル! (Making Movie)", "", 0],
+]
+links = ["https://vgmdb.net/album/103946"]
+
+[14]
+catalognumber = ""
+date = "2022-08-24"
+album = "私に天使が舞い降りた! CHARACTER SONG & RADIO CD"
+tracks = [
+    [1, "晴れルヤ!", "", 0],
+    [2, "GO! GO! GO!", "", 0],
+    [3, "(data track)", "", -1],
+]
+links = ["https://vgmdb.net/album/120020"]
+
+[15]
 catalognumber = "VTZL-213"
 date = "2022-10-12"
 album = "私に天使が舞い降りた! プレシャス・フレンズ サウンド・コレクション [初回限定盤] Original Soundtrack, Vocal"
@@ -217,7 +254,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fa667eaa-c6e7-484e-bf8a-4997febeebf4", "https://vgmdb.net/album/122040"]
 
-[13]
+[16]
 catalognumber = "VTZL-213"
 date = "2022-10-12"
 album = "私に天使が舞い降りた! プレシャス・フレンズ サウンド・コレクション [初回限定盤] Vocal, Video"
@@ -227,7 +264,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122040"]
 
-[14]
+[17]
 catalognumber = "VTCL-60566"
 date = "2022-10-12"
 album = "私に天使が舞い降りた! プレシャス・フレンズ サウンド・コレクション"
@@ -261,40 +298,3 @@ tracks = [
     [27, "Q.E.D.", "松本香子(CV.Lynn)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ab440614-7224-4eae-9a2f-35f5b3677ca4", "https://vgmdb.net/album/122039"]
-
-[15]
-catalognumber = "VTZL-179"
-date = "2020-11-25"
-album = "デリシャス・スマイル! / わたてん☆5 [初回限定盤] Vocal"
-tracks = [
-    [1, "デリシャス・スマイル!", "", 0],
-    [2, "無限大ハピネス", "", 0],
-    [3, "スイーツスイーツパーティー!", "", 0],
-    [4, "スペシャルコーディネート", "", 0],
-    [5, "スイーツランド・パラドックス", "", 0],
-    [6, "みゃー姉!!", "", 0],
-    [7, "参上!小悪魔エンジェル", "", 0],
-    [8, "My canon", "", 0],
-    [9, "いっしょにおててをつなごうね", "", 0],
-    [10, "ディアマイフレンド", "", 0],
-]
-links = ["https://vgmdb.net/album/103946"]
-
-[16]
-catalognumber = "VTZL-179"
-date = "2020-11-25"
-album = "デリシャス・スマイル! / わたてん☆5 [初回限定盤] Vocal, Video"
-tracks = [
-    [1, "デリシャス・スマイル! (Music Clip)", "", 0],
-    [2, "デリシャス・スマイル! (Making Movie)", "", 0],
-]
-links = ["https://vgmdb.net/album/103946"]
-
-[17]
-catalognumber = "TGCS-11166"
-date = "2019-05-24"
-album = "私に天使が舞い降りた! スペシャルラジオCD"
-tracks = [
-    [1, "(no title available)", "", 0],
-]
-links = ["https://vgmdb.net/album/83287"]

@@ -1,4 +1,28 @@
 [1]
+catalognumber = "VGR-2"
+date = "2005-08-24"
+album = "アイスキャンディー / MAKO"
+tracks = [
+    [1, "アイスキャンディー", "MAKO", 1],
+    [2, "あいコトバ", "MAKO", 1],
+    [3, "アイスキャンディー＊karaoke", "MAKO", 0],
+    [4, "あいコトバ＊karaoke", "MAKO", 0],
+]
+links = ["https://beta.musicbrainz.org/release/242a4cdc-8bc2-49e4-808c-d69c0be9d2b3", "https://vgmdb.net/album/61120"]
+
+[2]
+catalognumber = "VGR-1"
+date = "2005-08-24"
+album = "晴れのちハレ! / 富田麻帆"
+tracks = [
+    [1, "晴れのちハレ！", "富田麻帆", 1],
+    [2, "オレンジ色のひまわり", "富田麻帆", 1],
+    [3, "晴れのちハレ！＊karaoke", "富田麻帆", 0],
+    [4, "オレンジ色のひまわり＊karaoke", "富田麻帆", 0],
+]
+links = ["https://beta.musicbrainz.org/release/981e4958-4eec-4a2e-a7c3-55794bed8b6e", "https://vgmdb.net/album/61121"]
+
+[3]
 catalognumber = "SVWC-7291"
 date = "2005-10-26"
 album = "かみちゅ!◎オリジナル・サウンドトラック"
@@ -30,7 +54,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e1c8e1af-7ca2-45c0-9e60-51669c4dac13", "https://vgmdb.net/album/17770"]
 
-[2]
+[4]
 catalognumber = "5352-2"
 date = "2006-10-10"
 album = "KamiChu! Original Soundtrack"
@@ -61,27 +85,3 @@ tracks = [
     [24, "Ice Candy (TV version)", "MAKO", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f5a851fb-7b4d-4cca-918c-04a6ff94edaf", "https://vgmdb.net/album/25854"]
-
-[3]
-catalognumber = "VGR-2"
-date = "2005-08-24"
-album = "アイスキャンディー / MAKO"
-tracks = [
-    [1, "アイスキャンディー", "MAKO", 1],
-    [2, "あいコトバ", "MAKO", 1],
-    [3, "アイスキャンディー＊karaoke", "MAKO", 0],
-    [4, "あいコトバ＊karaoke", "MAKO", 0],
-]
-links = ["https://beta.musicbrainz.org/release/242a4cdc-8bc2-49e4-808c-d69c0be9d2b3", "https://vgmdb.net/album/61120"]
-
-[4]
-catalognumber = "VGR-1"
-date = "2005-08-24"
-album = "晴れのちハレ! / 富田麻帆"
-tracks = [
-    [1, "晴れのちハレ！", "富田麻帆", 1],
-    [2, "オレンジ色のひまわり", "富田麻帆", 1],
-    [3, "晴れのちハレ！＊karaoke", "富田麻帆", 0],
-    [4, "オレンジ色のひまわり＊karaoke", "富田麻帆", 0],
-]
-links = ["https://beta.musicbrainz.org/release/981e4958-4eec-4a2e-a7c3-55794bed8b6e", "https://vgmdb.net/album/61121"]

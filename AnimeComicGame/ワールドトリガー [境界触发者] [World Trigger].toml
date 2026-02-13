@@ -1,75 +1,4 @@
 [1]
-catalognumber = "TYCT-60192"
-date = "2022-03-02"
-album = "事象の地平線 / 神はサイコロを振らない Disc 1 [TYCT-60192]"
-tracks = [
-    [1, "イリーガル・ゲーム", "神はサイコロを振らない", -1],
-    [2, "タイムファクター", "神はサイコロを振らない", 0],
-    [3, "巡る巡る", "神はサイコロを振らない", -1],
-    [4, "初恋", "神はサイコロを振らない × アユニ・D(BiSH/PEDRO) × n‐buna from ヨルシカ", -1],
-    [5, "泡沫花火", "神はサイコロを振らない", -1],
-    [6, "LOVE", "神はサイコロを振らない", -1],
-    [7, "1on1", "神はサイコロを振らない", 0],
-    [8, "愛のけだもの", "神はサイコロを振らない × キタニタツヤ", -1],
-    [9, "遺言状", "神はサイコロを振らない", -1],
-    [10, "徒夢の中で", "神はサイコロを振らない", -1],
-]
-links = ["https://beta.musicbrainz.org/release/362d53e6-8bac-4f13-b048-7e8635a4e747", "https://vgmdb.net/album/116829"]
-
-[2]
-catalognumber = "TYCT-60193"
-date = "2022-03-02"
-album = "事象の地平線 / 神はサイコロを振らない Disc 2 [TYCT-60193]"
-tracks = [
-    [1, "あなただけ", "神はサイコロを振らない", -1],
-    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
-    [3, "少年よ永遠に", "神はサイコロを振らない", -1],
-    [4, "目蓋", "神はサイコロを振らない", -1],
-    [5, "導火線", "神はサイコロを振らない", -1],
-    [6, "パーフェクト・ルーキーズ", "神はサイコロを振らない", -1],
-    [7, "夜永唄 – Unplugged 2022", "神はサイコロを振らない", -1],
-    [8, "プラトニック・ラブ", "神はサイコロを振らない", 0],
-    [9, "未来永劫", "神はサイコロを振らない", 0],
-    [10, "僕だけが失敗作みたいで", "神はサイコロを振らない", -1],
-]
-links = ["https://beta.musicbrainz.org/release/362d53e6-8bac-4f13-b048-7e8635a4e747", "https://vgmdb.net/album/116829"]
-
-[3]
-catalognumber = "AVCD-83283"
-date = "2015-05-27"
-album = "アシタノヒカリ / AAA [アニメ盤]"
-tracks = [
-    [1, "アシタノヒカリ", "AAA", 0],
-    [2, "アシタノヒカリ (Instrumental)", "AAA", 0],
-]
-links = ["https://beta.musicbrainz.org/release/709dcec2-b89b-4867-b94f-4ae51b9bb1b5", "https://vgmdb.net/album/51802"]
-
-[4]
-catalognumber = "VICL-65031"
-date = "2018-08-16"
-album = "The Best of Pile / Pile"
-tracks = [
-    [1, "伝説のFLARE", "Pile", -1],
-    [2, "⇒ NEXT WORLD ⇒", "Pile", -1],
-    [3, "Furuwasete", "Pile", -1],
-    [4, "キミがくれたKISEKI", "Pile", -1],
-    [5, "ドリームトリガー", "Pile", 0],
-    [6, "チェックメイト", "Pile", -1],
-    [7, "P.S.ありがとう…", "Pile", -1],
-    [8, "Melody", "Pile", -1],
-    [9, "素晴らしきSekai", "Pile", -1],
-    [10, "VENGEANCE", "Pile", -1],
-    [11, "ROAD", "Pile", -1],
-    [12, "絆Hero", "Pile", -1],
-    [13, "Lost Paradise", "Pile", -1],
-    [14, "Cliche", "Pile", -1],
-    [15, "Go My Way", "Pile", -1],
-    [16, "BJ", "Pile", -1],
-    [17, "Your is All...", "Pile", -1],
-]
-links = ["https://beta.musicbrainz.org/release/dab8df67-eacf-40c2-a6e6-23168be88d5f", "https://vgmdb.net/album/81723"]
-
-[5]
 catalognumber = "TKCA-74156"
 date = "2014-11-05"
 album = "笑顔の理由。/GIRIGIRI / ソナーポケット [初回生産限定盤A] Disc 1 (CD)"
@@ -81,7 +10,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d65c8c2c-79ee-4645-b7cb-f8bb3a107381", "https://vgmdb.net/album/48021"]
 
-[6]
+[2]
 catalognumber = "TKCA-74156"
 date = "2014-11-05"
 album = "笑顔の理由。/GIRIGIRI / ソナーポケット [初回生産限定盤A] Disc 2 (DVD)"
@@ -91,18 +20,157 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48021"]
 
-[7]
-catalognumber = "UPCH-5984"
-date = "2021-12-15"
-album = "雲外憧憬 / FantasticYouth"
+[3]
+catalognumber = "TKCA-74170"
+date = "2014-11-05"
+album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [通常盤B]"
 tracks = [
-    [1, "雲外憧憬", "FantasticYouth", 0],
-    [2, "雲外憧憬 (English ver.)", "FantasticYouth", 0],
-    [3, "東京青走", "FantasticYouth", 0],
+    [1, "GIRIGIRI", "ソナーポケット", 0],
+    [2, "笑顔の理由。", "ソナーポケット", 0],
+    [3, "タノシマセ隊!!!", "ソナーポケット", -1],
+    [4, "GIRIGIRI (TV size)", "ソナーポケット", 0],
+    [5, "GIRIGIRI (Instrumental)", "ソナーポケット", 0],
+    [6, "笑顔の理由。 (Instrumental)", "ソナーポケット", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/6f243a3a-21b9-4e48-8d8d-4307d16dc889", "https://vgmdb.net/album/115394"]
+links = ["https://beta.musicbrainz.org/release/d6747ab9-f6e5-4a8e-b243-46358cf8b243", "https://vgmdb.net/album/48018"]
+
+[4]
+catalognumber = "TKCA-74160"
+date = "2014-11-05"
+album = "笑顔の理由。/GIRIGIRI / ソナーポケット [通常盤A]"
+tracks = [
+    [1, "笑顔の理由。", "ソナーポケット", 0],
+    [2, "GIRIGIRI", "ソナーポケット", 0],
+    [3, "タノシマセ隊!!!", "ソナーポケット", -1],
+    [4, "笑顔の理由。 (instrumental)", "ソナーポケット", 0],
+    [5, "GIRIGIRI (instrumental)", "ソナーポケット", 0],
+]
+links = ["https://beta.musicbrainz.org/release/aa17a1ae-3e51-49db-a632-e306a8373d91", "https://vgmdb.net/album/48017"]
+
+[5]
+catalognumber = "TKCA-74166"
+date = "2014-11-05"
+album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [初回生産限定盤B] Disc 1 (CD)"
+tracks = [
+    [1, "GIRIGIRI", "ソナーポケット", 0],
+    [2, "笑顔の理由。", "ソナーポケット", 0],
+    [3, "GIRIGIRI (TV size)", "ソナーポケット", 0],
+    [4, "GIRIGIRI (Instrumental)", "ソナーポケット", 0],
+    [5, "笑顔の理由。 (Instrumental)", "ソナーポケット", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ef72c33f-2b41-46d8-b2ff-aa8724e5fa66", "https://vgmdb.net/album/48020"]
+
+[6]
+catalognumber = "TKCA-74166"
+date = "2014-11-05"
+album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [初回生産限定盤B] Disc 2 (DVD)"
+tracks = [
+    [1, "GIRIGIRI (MV)", "ソナーポケット", 0],
+    [2, "GIRIGIRI (MV メイキング&オフショット)", "ソナーポケット", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ef72c33f-2b41-46d8-b2ff-aa8724e5fa66", "https://vgmdb.net/album/48020"]
+
+[7]
+catalognumber = "DSSD-11211"
+date = "2015-03-13"
+album = "ワールドトリガー オリジナルドラマCD『もしも修と迅が嵐山隊に入ったら』"
+tracks = [
+    [1, "もしも修と迅が嵐山隊に入ったら", "", 0],
+]
+links = ["https://vgmdb.net/album/117255"]
 
 [8]
+catalognumber = "DSSD-11213"
+date = "2015-05-13"
+album = "ワールドトリガー オリジナルドラマCD『祝! 玉狛支部・たつこの部屋出演!』"
+tracks = [
+    [1, "祝! 玉狛支部・たつこの部屋出演!", "", 0],
+]
+links = ["https://vgmdb.net/album/117256"]
+
+[9]
+catalognumber = "AVCD-83283"
+date = "2015-05-27"
+album = "アシタノヒカリ / AAA [アニメ盤]"
+tracks = [
+    [1, "アシタノヒカリ", "AAA", 0],
+    [2, "アシタノヒカリ (Instrumental)", "AAA", 0],
+]
+links = ["https://beta.musicbrainz.org/release/709dcec2-b89b-4867-b94f-4ae51b9bb1b5", "https://vgmdb.net/album/51802"]
+
+[10]
+catalognumber = "AVCD-83215"
+date = "2015-05-27"
+album = "アシタノヒカリ / AAA"
+tracks = [
+    [1, "アシタノヒカリ", "AAA", 0],
+    [2, "アシタノヒカリ (Instrumental)", "AAA", 0],
+]
+links = ["https://beta.musicbrainz.org/release/444ae523-a37c-4f8f-9be1-66073ec04d34", "https://vgmdb.net/album/51801"]
+
+[11]
+catalognumber = "DSSD-11215"
+date = "2015-07-08"
+album = "ワールドトリガー オリジナルドラマCD『玉狛支部の眠れない夜』"
+tracks = [
+    [1, "玉狛支部の眠れない夜", "", 0],
+]
+links = ["https://vgmdb.net/album/117257"]
+
+[12]
+catalognumber = "VIZL-895"
+date = "2015-11-04"
+album = "ドリームトリガー / Pile [初回限定盤 A] Disc 1 (CD)"
+tracks = [
+    [1, "ドリームトリガー", "Pile", 0],
+    [2, "ヴァンパイア革命", "Pile", 0],
+    [3, "伝説のFLARE -strings ver.- <off vocal>", "Pile", -1],
+]
+links = ["https://beta.musicbrainz.org/release/8ae3c2e5-e7be-4eb9-ac78-08f1417c1726", "https://vgmdb.net/album/55199"]
+
+[13]
+catalognumber = "VIZL-895"
+date = "2015-11-04"
+album = "ドリームトリガー / Pile [初回限定盤 A] Disc 2 (DVD)"
+tracks = [
+    [1, "「ドリームトリガー」Music Video", "", -1],
+    [2, "Live映像「JEWEL VOX」ワンマンツアー＠渋谷duo", "", -1],
+]
+links = ["https://vgmdb.net/album/55199"]
+
+[14]
+catalognumber = "VICL-37114"
+date = "2015-11-04"
+album = "ドリームトリガー / Pile [初回限定盤 B]"
+tracks = [
+    [1, "ドリームトリガー", "Pile", 0],
+    [2, "ヴァンパイア革命", "Pile", 0],
+    [3, "キミがくれたKISEKI -strings ver.- <off vocal>", "Pile", -1],
+]
+links = ["https://beta.musicbrainz.org/release/1b820cbc-31ba-452d-9c59-e339d2dc9411", "https://vgmdb.net/album/55200"]
+
+[15]
+catalognumber = "VICL-37115"
+date = "2015-11-04"
+album = "ドリームトリガー / Pile [アニメ盤]"
+tracks = [
+    [1, "ドリームトリガー", "Pile", 0],
+    [2, "ヴァンパイア革命", "Pile", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6a7a717c-1b45-4355-98e6-ed149119a912", "https://vgmdb.net/album/55201"]
+
+[16]
+catalognumber = "VICL-37116"
+date = "2015-11-04"
+album = "ドリームトリガー / Pile"
+tracks = [
+    [1, "ドリームトリガー", "Pile", 0],
+    [2, "ヴァンパイア革命", "Pile", 0],
+    [3, "ドリームトリガー -strings ver.- <off vocal>", "Pile", 0],
+]
+links = ["https://beta.musicbrainz.org/release/af8c4831-4c38-4c2e-bdb8-b7337d78b53a", "https://vgmdb.net/album/55198"]
+
+[17]
 catalognumber = "UICZ-4353"
 date = "2016-05-11"
 album = "TVアニメ『ワールドトリガー』オリジナル・サウンドトラック"
@@ -150,7 +218,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c5203d6f-0923-45f3-8d78-958fe90855e1", "https://vgmdb.net/album/57968"]
 
-[9]
+[18]
 catalognumber = "VICL-37165"
 date = "2016-05-18"
 album = "Melody / Pile [アニメ盤]"
@@ -162,138 +230,80 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/57858"]
 
-[10]
-catalognumber = "DSSD-11215"
-date = "2015-07-08"
-album = "ワールドトリガー オリジナルドラマCD『玉狛支部の眠れない夜』"
-tracks = [
-    [1, "玉狛支部の眠れない夜", "", 0],
-]
-links = ["https://vgmdb.net/album/117257"]
-
-[11]
-catalognumber = "UV1AS-00682"
-date = "2021-10-17"
-album = "タイムファクター / 神はサイコロを振らない"
-tracks = [
-    [1, "タイムファクター", "神はサイコロを振らない", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f02dec12-0858-41b3-9f63-bf289eeecf5d", "https://vgmdb.net/album/115773"]
-
-[12]
-catalognumber = "TKCA-74170"
-date = "2014-11-05"
-album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [通常盤B]"
-tracks = [
-    [1, "GIRIGIRI", "ソナーポケット", 0],
-    [2, "笑顔の理由。", "ソナーポケット", 0],
-    [3, "タノシマセ隊!!!", "ソナーポケット", -1],
-    [4, "GIRIGIRI (TV size)", "ソナーポケット", 0],
-    [5, "GIRIGIRI (Instrumental)", "ソナーポケット", 0],
-    [6, "笑顔の理由。 (Instrumental)", "ソナーポケット", 0],
-]
-links = ["https://beta.musicbrainz.org/release/d6747ab9-f6e5-4a8e-b243-46358cf8b243", "https://vgmdb.net/album/48018"]
-
-[13]
-catalognumber = "VIZL-895"
-date = "2015-11-04"
-album = "ドリームトリガー / Pile [初回限定盤 A] Disc 1 (CD)"
-tracks = [
-    [1, "ドリームトリガー", "Pile", 0],
-    [2, "ヴァンパイア革命", "Pile", 0],
-    [3, "伝説のFLARE -strings ver.- <off vocal>", "Pile", -1],
-]
-links = ["https://beta.musicbrainz.org/release/8ae3c2e5-e7be-4eb9-ac78-08f1417c1726", "https://vgmdb.net/album/55199"]
-
-[14]
-catalognumber = "VIZL-895"
-date = "2015-11-04"
-album = "ドリームトリガー / Pile [初回限定盤 A] Disc 2 (DVD)"
-tracks = [
-    [1, "「ドリームトリガー」Music Video", "", -1],
-    [2, "Live映像「JEWEL VOX」ワンマンツアー＠渋谷duo", "", -1],
-]
-links = ["https://vgmdb.net/album/55199"]
-
-[15]
-catalognumber = "TYCT-69234"
-date = "2022-03-02"
-album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal Disc 1"
-tracks = [
-    [1, "イリーガル・ゲーム", "", -1],
-    [2, "タイムファクター", "", 0],
-    [3, "巡る巡る", "", -1],
-    [4, "初恋", "", -1],
-    [5, "泡沫花火", "", -1],
-    [6, "LOVE", "", -1],
-    [7, "1on1", "", 0],
-    [8, "愛のけだもの", "", -1],
-    [9, "遺言状", "", -1],
-    [10, "徒夢の中で", "", -1],
-]
-links = ["https://vgmdb.net/album/116830"]
-
-[16]
-catalognumber = "TYCT-69234"
-date = "2022-03-02"
-album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal Disc 2"
-tracks = [
-    [1, "あなただけ", "", -1],
-    [2, "クロノグラフ彗星", "", 0],
-    [3, "少年よ永遠に", "", -1],
-    [4, "目蓋", "", -1],
-    [5, "導火線", "", -1],
-    [6, "パーフェクト・ルーキーズ", "", -1],
-    [7, "夜永唄 - Unplugged 2022", "", -1],
-    [8, "プラトニック・ラブ", "", 0],
-    [9, "未来永劫", "", 0],
-    [10, "僕だけが失敗作みたいで", "", -1],
-]
-links = ["https://vgmdb.net/album/116830"]
-
-[17]
-catalognumber = "TYCT-69234"
-date = "2022-03-02"
-album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal, Live Event, Video"
-tracks = [
-    [1, "クロノグラフ彗星", "", 0],
-    [2, "揺らめいて候", "", -1],
-    [3, "遺言状", "", -1],
-    [4, "泡沫花火", "", -1],
-    [5, "胡蝶蘭", "", -1],
-    [6, "解放宣言", "", -1],
-    [7, "パーフェクト・ルーキーズ", "", -1],
-    [8, "ジュブナイルに捧ぐ", "", -1],
-    [9, "夜永唄", "", -1],
-    [10, "プラトニック・ラブ", "", 0],
-    [11, "1on1", "", 0],
-    [12, "未来永劫", "", 0],
-    [13, "巡る巡る", "", -1],
-    [14, "illumination", "", -1],
-    [15, "遠征ライブ密着 - ライブ稼働の裏側全部見せちゃいます -", "", -1],
-    [16, "野音Live 2022「最下層からの観測」ドッキリ開催発表映像", "", -1],
-]
-links = ["https://vgmdb.net/album/116830"]
-
-[18]
-catalognumber = "TYCT-69189"
-date = "2021-01-20"
-album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤A]"
-tracks = [
-    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
-    [2, "Force", "TOMORROW X TOGETHER", 0],
-    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
-    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
-]
-links = ["https://beta.musicbrainz.org/release/a09a08a3-4f98-462d-aac6-e6938f837990", "https://vgmdb.net/album/108279"]
-
 [19]
+catalognumber = "VICL-37164"
+date = "2016-05-18"
+album = "Melody / Pile [初回限定盤B]"
+tracks = [
+    [1, "Melody", "", -1],
+    [2, "angel song -another ver.-", "", -1],
+    [3, "ドリームトリガー -another ver.-", "", 0],
+    [4, "Melody <off vocal>", "", -1],
+    [5, "angel song -another ver.- <off vocal>", "", -1],
+]
+links = ["https://vgmdb.net/album/57857"]
+
+[20]
+catalognumber = "VIZL-963"
+date = "2016-05-18"
+album = "Melody / Pile [初回限定盤A] Arrangement, Vocal"
+tracks = [
+    [1, "Melody", "", -1],
+    [2, "angel song", "", -1],
+    [3, "ドリームトリガー -another ver.-", "", 0],
+    [4, "Melody <off vocal>", "", -1],
+    [5, "angel song <off vocal>", "", -1],
+]
+links = ["https://vgmdb.net/album/57856"]
+
+[21]
+catalognumber = "VIZL-963"
+date = "2016-05-18"
+album = "Melody / Pile [初回限定盤A] Vocal"
+tracks = [
+    [1, "「Melody」ミュージックビデオ", "", -1],
+]
+links = ["https://vgmdb.net/album/57856"]
+
+[22]
+catalognumber = "VICL-37163"
+date = "2016-05-18"
+album = "Melody / Pile"
+tracks = [
+    [1, "Melody", "Pile", -1],
+    [2, "angel song", "Pile", -1],
+    [3, "ドリームトリガー -another ver.-", "Pile", 0],
+    [4, "Melody <off vocal>", "Pile", -1],
+    [5, "angel song <off vocal>", "Pile", -1],
+]
+links = ["https://beta.musicbrainz.org/release/41e7b1a9-8a4f-4d0c-9325-2f526dbe365b", "https://vgmdb.net/album/57855"]
+
+[23]
+catalognumber = "VICL-65031"
+date = "2018-08-16"
+album = "The Best of Pile / Pile"
+tracks = [
+    [1, "伝説のFLARE", "Pile", -1],
+    [2, "⇒ NEXT WORLD ⇒", "Pile", -1],
+    [3, "Furuwasete", "Pile", -1],
+    [4, "キミがくれたKISEKI", "Pile", -1],
+    [5, "ドリームトリガー", "Pile", 0],
+    [6, "チェックメイト", "Pile", -1],
+    [7, "P.S.ありがとう…", "Pile", -1],
+    [8, "Melody", "Pile", -1],
+    [9, "素晴らしきSekai", "Pile", -1],
+    [10, "VENGEANCE", "Pile", -1],
+    [11, "ROAD", "Pile", -1],
+    [12, "絆Hero", "Pile", -1],
+    [13, "Lost Paradise", "Pile", -1],
+    [14, "Cliche", "Pile", -1],
+    [15, "Go My Way", "Pile", -1],
+    [16, "BJ", "Pile", -1],
+    [17, "Your is All...", "Pile", -1],
+]
+links = ["https://beta.musicbrainz.org/release/dab8df67-eacf-40c2-a6e6-23168be88d5f", "https://vgmdb.net/album/81723"]
+
+[24]
 catalognumber = "VIZL-1406"
 date = "2018-08-16"
 album = "The Best of Pile / Pile [初回限定盤A] Disc 1 (CD)"
@@ -318,7 +328,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d843490-be33-432a-b07b-e416dd32170d", "https://vgmdb.net/album/81724"]
 
-[20]
+[25]
 catalognumber = "VIZL-1406"
 date = "2018-08-16"
 album = "The Best of Pile / Pile [初回限定盤A] Disc 2 (Blu-ray)"
@@ -335,18 +345,270 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d843490-be33-432a-b07b-e416dd32170d", "https://vgmdb.net/album/81724"]
 
-[21]
-catalognumber = "VICL-37114"
-date = "2015-11-04"
-album = "ドリームトリガー / Pile [初回限定盤 B]"
+[26]
+catalognumber = "VIZL-1407"
+date = "2018-08-16"
+album = "The Best of Pile / Pile [初回限定盤B]"
 tracks = [
-    [1, "ドリームトリガー", "Pile", 0],
-    [2, "ヴァンパイア革命", "Pile", 0],
-    [3, "キミがくれたKISEKI -strings ver.- <off vocal>", "Pile", -1],
+    [1, "伝説のFLARE", "Pile", -1],
+    [2, "⇒ NEXT WORLD ⇒", "Pile", -1],
+    [3, "Furuwasete", "Pile", -1],
+    [4, "キミがくれたKISEKI", "Pile", -1],
+    [5, "ドリームトリガー", "Pile", 0],
+    [6, "チェックメイト", "Pile", -1],
+    [7, "P.S.ありがとう…", "Pile", -1],
+    [8, "Melody", "Pile", -1],
+    [9, "素晴らしきSekai", "Pile", -1],
+    [10, "VENGEANCE", "Pile", -1],
+    [11, "ROAD", "Pile", -1],
+    [12, "絆Hero", "Pile", -1],
+    [13, "Lost Paradise", "Pile", -1],
+    [14, "Cliche", "Pile", -1],
+    [15, "Go My Way", "Pile", -1],
+    [16, "BJ", "Pile", -1],
+    [17, "Your is All...", "Pile", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/1b820cbc-31ba-452d-9c59-e339d2dc9411", "https://vgmdb.net/album/55200"]
+links = ["https://beta.musicbrainz.org/release/95ef3f14-7b58-46f1-9a7d-593ae684fa73", "https://vgmdb.net/album/81725"]
 
-[22]
+[27]
+catalognumber = "TYCT-69189"
+date = "2021-01-20"
+album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤A]"
+tracks = [
+    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
+    [2, "Force", "TOMORROW X TOGETHER", 0],
+    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
+    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a09a08a3-4f98-462d-aac6-e6938f837990", "https://vgmdb.net/album/108279"]
+
+[28]
+catalognumber = "TYCT-69190"
+date = "2021-01-20"
+album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤B] Vocal"
+tracks = [
+    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
+    [2, "Force", "TOMORROW X TOGETHER", 0],
+    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
+    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b49c1291-1d54-497c-b997-fe82d3a16714", "https://vgmdb.net/album/108281"]
+
+[29]
+catalognumber = "TYCT-69190"
+date = "2021-01-20"
+album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤B] Vocal, Video"
+tracks = [
+    [1, "5時53分の空で見つけた君と僕 [Japanese Ver.] (Music Video)", "", 0],
+    [2, "5時53分の空で見つけた君と僕 [Japanese Ver.] (Making of Music Video)", "", 0],
+    [3, "Making of Jacket Photos", "", -1],
+]
+links = ["https://vgmdb.net/album/108281"]
+
+[30]
+catalognumber = "TYCT-69191"
+date = "2021-01-20"
+album = "STILL DREAMING / TOMORROW X TOGETHER"
+tracks = [
+    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
+    [2, "Force", "TOMORROW X TOGETHER", 0],
+    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
+    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
+    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
+]
+links = ["https://beta.musicbrainz.org/release/1e419253-cc2d-4caa-8919-2e2a3963da75", "https://vgmdb.net/album/108278"]
+
+[31]
+catalognumber = "TYCT-39153"
+date = "2021-03-17"
+album = "エーテルの正体 / 神はサイコロを振らない [アニメ盤]"
+tracks = [
+    [1, "未来永劫", "神はサイコロを振らない", 0],
+    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
+    [3, "プラトニック・ラブ", "神はサイコロを振らない", 0],
+    [4, "1on1", "神はサイコロを振らない", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0416344f-49c9-4fca-9da6-c6e2007de949", "https://vgmdb.net/album/107975"]
+
+[32]
+catalognumber = "TYCT-39152"
+date = "2021-03-17"
+album = "エーテルの正体 / 神はサイコロを振らない [LIVE盤] Vocal"
+tracks = [
+    [1, "未来永劫", "", 0],
+    [2, "クロノグラフ彗星", "", 0],
+    [3, "プラトニック・ラブ", "", 0],
+    [4, "1on1", "", 0],
+]
+links = ["https://vgmdb.net/album/107976"]
+
+[33]
+catalognumber = "TYCT-39152"
+date = "2021-03-17"
+album = "エーテルの正体 / 神はサイコロを振らない [LIVE盤] Vocal, Live Event, Video"
+tracks = [
+    [1, "ジュブナイルに捧ぐ (Streaming Live「理-kotowari-」)", "", -1],
+    [2, "揺らめいて候 (Streaming Live「理-kotowari-」)", "", -1],
+    [3, "胡蝶蘭 (Streaming Live「理-kotowari-」)", "", -1],
+    [4, "illumination (Streaming Live「理-kotowari-」)", "", -1],
+    [5, "解放宣言 (Streaming Live「理-kotowari-」)", "", -1],
+    [6, "アノニマス (Streaming Live「理-kotowari-」)", "", -1],
+    [7, "パーフェクト・ルーキーズ (Streaming Live「理-kotowari-」)", "", -1],
+    [8, "No Matter What (Streaming Live「理-kotowari-」)", "", -1],
+    [9, "CLUB 27 (Streaming Live「理-kotowari-」)", "", -1],
+    [10, "夜永唄 (Streaming Live「理-kotowari-」)", "", -1],
+    [11, "泡沫花火 (Streaming Live「理-kotowari-」)", "", -1],
+    [12, "目蓋 (九州産業大学「香椎祭」)", "", -1],
+    [13, "クロノグラフ彗星 (Studio Shot in One Take Live-Keeping COUNTDOWN JAPAN&RADIO CRAZY spirit alive)", "", 0],
+]
+links = ["https://vgmdb.net/album/107976"]
+
+[34]
+catalognumber = "TYCT-30121"
+date = "2021-03-17"
+album = "エーテルの正体 / 神はサイコロを振らない"
+tracks = [
+    [1, "未来永劫", "神はサイコロを振らない", 0],
+    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
+    [3, "プラトニック・ラブ", "神はサイコロを振らない", 0],
+    [4, "1on1", "神はサイコロを振らない", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8c50e260-8792-4b22-b1c7-41321a1ef0a2", "https://vgmdb.net/album/107974"]
+
+[35]
+catalognumber = "UV1AS-00682"
+date = "2021-10-17"
+album = "タイムファクター / 神はサイコロを振らない"
+tracks = [
+    [1, "タイムファクター", "神はサイコロを振らない", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f02dec12-0858-41b3-9f63-bf289eeecf5d", "https://vgmdb.net/album/115773"]
+
+[36]
+catalognumber = "UPCH-5984"
+date = "2021-12-15"
+album = "雲外憧憬 / FantasticYouth"
+tracks = [
+    [1, "雲外憧憬", "FantasticYouth", 0],
+    [2, "雲外憧憬 (English ver.)", "FantasticYouth", 0],
+    [3, "東京青走", "FantasticYouth", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6f243a3a-21b9-4e48-8d8d-4307d16dc889", "https://vgmdb.net/album/115394"]
+
+[37]
+catalognumber = "TYCT-60192"
+date = "2022-03-02"
+album = "事象の地平線 / 神はサイコロを振らない Disc 1 [TYCT-60192]"
+tracks = [
+    [1, "イリーガル・ゲーム", "神はサイコロを振らない", -1],
+    [2, "タイムファクター", "神はサイコロを振らない", 0],
+    [3, "巡る巡る", "神はサイコロを振らない", -1],
+    [4, "初恋", "神はサイコロを振らない × アユニ・D(BiSH/PEDRO) × n‐buna from ヨルシカ", -1],
+    [5, "泡沫花火", "神はサイコロを振らない", -1],
+    [6, "LOVE", "神はサイコロを振らない", -1],
+    [7, "1on1", "神はサイコロを振らない", 0],
+    [8, "愛のけだもの", "神はサイコロを振らない × キタニタツヤ", -1],
+    [9, "遺言状", "神はサイコロを振らない", -1],
+    [10, "徒夢の中で", "神はサイコロを振らない", -1],
+]
+links = ["https://beta.musicbrainz.org/release/362d53e6-8bac-4f13-b048-7e8635a4e747", "https://vgmdb.net/album/116829"]
+
+[38]
+catalognumber = "TYCT-60193"
+date = "2022-03-02"
+album = "事象の地平線 / 神はサイコロを振らない Disc 2 [TYCT-60193]"
+tracks = [
+    [1, "あなただけ", "神はサイコロを振らない", -1],
+    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
+    [3, "少年よ永遠に", "神はサイコロを振らない", -1],
+    [4, "目蓋", "神はサイコロを振らない", -1],
+    [5, "導火線", "神はサイコロを振らない", -1],
+    [6, "パーフェクト・ルーキーズ", "神はサイコロを振らない", -1],
+    [7, "夜永唄 – Unplugged 2022", "神はサイコロを振らない", -1],
+    [8, "プラトニック・ラブ", "神はサイコロを振らない", 0],
+    [9, "未来永劫", "神はサイコロを振らない", 0],
+    [10, "僕だけが失敗作みたいで", "神はサイコロを振らない", -1],
+]
+links = ["https://beta.musicbrainz.org/release/362d53e6-8bac-4f13-b048-7e8635a4e747", "https://vgmdb.net/album/116829"]
+
+[39]
+catalognumber = "TYCT-69234"
+date = "2022-03-02"
+album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal Disc 1"
+tracks = [
+    [1, "イリーガル・ゲーム", "", -1],
+    [2, "タイムファクター", "", 0],
+    [3, "巡る巡る", "", -1],
+    [4, "初恋", "", -1],
+    [5, "泡沫花火", "", -1],
+    [6, "LOVE", "", -1],
+    [7, "1on1", "", 0],
+    [8, "愛のけだもの", "", -1],
+    [9, "遺言状", "", -1],
+    [10, "徒夢の中で", "", -1],
+]
+links = ["https://vgmdb.net/album/116830"]
+
+[40]
+catalognumber = "TYCT-69234"
+date = "2022-03-02"
+album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal Disc 2"
+tracks = [
+    [1, "あなただけ", "", -1],
+    [2, "クロノグラフ彗星", "", 0],
+    [3, "少年よ永遠に", "", -1],
+    [4, "目蓋", "", -1],
+    [5, "導火線", "", -1],
+    [6, "パーフェクト・ルーキーズ", "", -1],
+    [7, "夜永唄 - Unplugged 2022", "", -1],
+    [8, "プラトニック・ラブ", "", 0],
+    [9, "未来永劫", "", 0],
+    [10, "僕だけが失敗作みたいで", "", -1],
+]
+links = ["https://vgmdb.net/album/116830"]
+
+[41]
+catalognumber = "TYCT-69234"
+date = "2022-03-02"
+album = "事象の地平線 / 神はサイコロを振らない [初回限定盤] Vocal, Live Event, Video"
+tracks = [
+    [1, "クロノグラフ彗星", "", 0],
+    [2, "揺らめいて候", "", -1],
+    [3, "遺言状", "", -1],
+    [4, "泡沫花火", "", -1],
+    [5, "胡蝶蘭", "", -1],
+    [6, "解放宣言", "", -1],
+    [7, "パーフェクト・ルーキーズ", "", -1],
+    [8, "ジュブナイルに捧ぐ", "", -1],
+    [9, "夜永唄", "", -1],
+    [10, "プラトニック・ラブ", "", 0],
+    [11, "1on1", "", 0],
+    [12, "未来永劫", "", 0],
+    [13, "巡る巡る", "", -1],
+    [14, "illumination", "", -1],
+    [15, "遠征ライブ密着 - ライブ稼働の裏側全部見せちゃいます -", "", -1],
+    [16, "野音Live 2022「最下層からの観測」ドッキリ開催発表映像", "", -1],
+]
+links = ["https://vgmdb.net/album/116830"]
+
+[42]
 catalognumber = "COCX-41714"
 date = "2022-04-27"
 album = "TVアニメ「ワールドトリガー」オリジナル・サウンドトラック2"
@@ -392,265 +654,3 @@ tracks = [
     [39, "新生 (M101)", "川井憲次", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/15c333e4-d7f0-4eec-9fed-388b2b93bd5d", "https://vgmdb.net/album/116237"]
-
-[23]
-catalognumber = "TYCT-39153"
-date = "2021-03-17"
-album = "エーテルの正体 / 神はサイコロを振らない [アニメ盤]"
-tracks = [
-    [1, "未来永劫", "神はサイコロを振らない", 0],
-    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
-    [3, "プラトニック・ラブ", "神はサイコロを振らない", 0],
-    [4, "1on1", "神はサイコロを振らない", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0416344f-49c9-4fca-9da6-c6e2007de949", "https://vgmdb.net/album/107975"]
-
-[24]
-catalognumber = "VICL-37115"
-date = "2015-11-04"
-album = "ドリームトリガー / Pile [アニメ盤]"
-tracks = [
-    [1, "ドリームトリガー", "Pile", 0],
-    [2, "ヴァンパイア革命", "Pile", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6a7a717c-1b45-4355-98e6-ed149119a912", "https://vgmdb.net/album/55201"]
-
-[25]
-catalognumber = "DSSD-11213"
-date = "2015-05-13"
-album = "ワールドトリガー オリジナルドラマCD『祝! 玉狛支部・たつこの部屋出演!』"
-tracks = [
-    [1, "祝! 玉狛支部・たつこの部屋出演!", "", 0],
-]
-links = ["https://vgmdb.net/album/117256"]
-
-[26]
-catalognumber = "TKCA-74160"
-date = "2014-11-05"
-album = "笑顔の理由。/GIRIGIRI / ソナーポケット [通常盤A]"
-tracks = [
-    [1, "笑顔の理由。", "ソナーポケット", 0],
-    [2, "GIRIGIRI", "ソナーポケット", 0],
-    [3, "タノシマセ隊!!!", "ソナーポケット", -1],
-    [4, "笑顔の理由。 (instrumental)", "ソナーポケット", 0],
-    [5, "GIRIGIRI (instrumental)", "ソナーポケット", 0],
-]
-links = ["https://beta.musicbrainz.org/release/aa17a1ae-3e51-49db-a632-e306a8373d91", "https://vgmdb.net/album/48017"]
-
-[27]
-catalognumber = "VICL-37164"
-date = "2016-05-18"
-album = "Melody / Pile [初回限定盤B]"
-tracks = [
-    [1, "Melody", "", -1],
-    [2, "angel song -another ver.-", "", -1],
-    [3, "ドリームトリガー -another ver.-", "", 0],
-    [4, "Melody <off vocal>", "", -1],
-    [5, "angel song -another ver.- <off vocal>", "", -1],
-]
-links = ["https://vgmdb.net/album/57857"]
-
-[28]
-catalognumber = "TYCT-39152"
-date = "2021-03-17"
-album = "エーテルの正体 / 神はサイコロを振らない [LIVE盤] Vocal"
-tracks = [
-    [1, "未来永劫", "", 0],
-    [2, "クロノグラフ彗星", "", 0],
-    [3, "プラトニック・ラブ", "", 0],
-    [4, "1on1", "", 0],
-]
-links = ["https://vgmdb.net/album/107976"]
-
-[29]
-catalognumber = "TYCT-39152"
-date = "2021-03-17"
-album = "エーテルの正体 / 神はサイコロを振らない [LIVE盤] Vocal, Live Event, Video"
-tracks = [
-    [1, "ジュブナイルに捧ぐ (Streaming Live「理-kotowari-」)", "", -1],
-    [2, "揺らめいて候 (Streaming Live「理-kotowari-」)", "", -1],
-    [3, "胡蝶蘭 (Streaming Live「理-kotowari-」)", "", -1],
-    [4, "illumination (Streaming Live「理-kotowari-」)", "", -1],
-    [5, "解放宣言 (Streaming Live「理-kotowari-」)", "", -1],
-    [6, "アノニマス (Streaming Live「理-kotowari-」)", "", -1],
-    [7, "パーフェクト・ルーキーズ (Streaming Live「理-kotowari-」)", "", -1],
-    [8, "No Matter What (Streaming Live「理-kotowari-」)", "", -1],
-    [9, "CLUB 27 (Streaming Live「理-kotowari-」)", "", -1],
-    [10, "夜永唄 (Streaming Live「理-kotowari-」)", "", -1],
-    [11, "泡沫花火 (Streaming Live「理-kotowari-」)", "", -1],
-    [12, "目蓋 (九州産業大学「香椎祭」)", "", -1],
-    [13, "クロノグラフ彗星 (Studio Shot in One Take Live-Keeping COUNTDOWN JAPAN&RADIO CRAZY spirit alive)", "", 0],
-]
-links = ["https://vgmdb.net/album/107976"]
-
-[30]
-catalognumber = "TYCT-69190"
-date = "2021-01-20"
-album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤B] Vocal"
-tracks = [
-    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
-    [2, "Force", "TOMORROW X TOGETHER", 0],
-    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
-    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
-]
-links = ["https://beta.musicbrainz.org/release/b49c1291-1d54-497c-b997-fe82d3a16714", "https://vgmdb.net/album/108281"]
-
-[31]
-catalognumber = "TYCT-69190"
-date = "2021-01-20"
-album = "STILL DREAMING / TOMORROW X TOGETHER [初回限定盤B] Vocal, Video"
-tracks = [
-    [1, "5時53分の空で見つけた君と僕 [Japanese Ver.] (Music Video)", "", 0],
-    [2, "5時53分の空で見つけた君と僕 [Japanese Ver.] (Making of Music Video)", "", 0],
-    [3, "Making of Jacket Photos", "", -1],
-]
-links = ["https://vgmdb.net/album/108281"]
-
-[32]
-catalognumber = "VIZL-963"
-date = "2016-05-18"
-album = "Melody / Pile [初回限定盤A] Arrangement, Vocal"
-tracks = [
-    [1, "Melody", "", -1],
-    [2, "angel song", "", -1],
-    [3, "ドリームトリガー -another ver.-", "", 0],
-    [4, "Melody <off vocal>", "", -1],
-    [5, "angel song <off vocal>", "", -1],
-]
-links = ["https://vgmdb.net/album/57856"]
-
-[33]
-catalognumber = "VIZL-963"
-date = "2016-05-18"
-album = "Melody / Pile [初回限定盤A] Vocal"
-tracks = [
-    [1, "「Melody」ミュージックビデオ", "", -1],
-]
-links = ["https://vgmdb.net/album/57856"]
-
-[34]
-catalognumber = "TYCT-30121"
-date = "2021-03-17"
-album = "エーテルの正体 / 神はサイコロを振らない"
-tracks = [
-    [1, "未来永劫", "神はサイコロを振らない", 0],
-    [2, "クロノグラフ彗星", "神はサイコロを振らない", 0],
-    [3, "プラトニック・ラブ", "神はサイコロを振らない", 0],
-    [4, "1on1", "神はサイコロを振らない", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8c50e260-8792-4b22-b1c7-41321a1ef0a2", "https://vgmdb.net/album/107974"]
-
-[35]
-catalognumber = "VICL-37116"
-date = "2015-11-04"
-album = "ドリームトリガー / Pile"
-tracks = [
-    [1, "ドリームトリガー", "Pile", 0],
-    [2, "ヴァンパイア革命", "Pile", 0],
-    [3, "ドリームトリガー -strings ver.- <off vocal>", "Pile", 0],
-]
-links = ["https://beta.musicbrainz.org/release/af8c4831-4c38-4c2e-bdb8-b7337d78b53a", "https://vgmdb.net/album/55198"]
-
-[36]
-catalognumber = "DSSD-11211"
-date = "2015-03-13"
-album = "ワールドトリガー オリジナルドラマCD『もしも修と迅が嵐山隊に入ったら』"
-tracks = [
-    [1, "もしも修と迅が嵐山隊に入ったら", "", 0],
-]
-links = ["https://vgmdb.net/album/117255"]
-
-[37]
-catalognumber = "VICL-37163"
-date = "2016-05-18"
-album = "Melody / Pile"
-tracks = [
-    [1, "Melody", "Pile", -1],
-    [2, "angel song", "Pile", -1],
-    [3, "ドリームトリガー -another ver.-", "Pile", 0],
-    [4, "Melody <off vocal>", "Pile", -1],
-    [5, "angel song <off vocal>", "Pile", -1],
-]
-links = ["https://beta.musicbrainz.org/release/41e7b1a9-8a4f-4d0c-9325-2f526dbe365b", "https://vgmdb.net/album/57855"]
-
-[38]
-catalognumber = "TYCT-69191"
-date = "2021-01-20"
-album = "STILL DREAMING / TOMORROW X TOGETHER"
-tracks = [
-    [1, "Intro : DREAMING", "TOMORROW X TOGETHER", 0],
-    [2, "Force", "TOMORROW X TOGETHER", 0],
-    [3, "5時53分の空で見つけた君と僕 [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [4, "9と4分の3番線で君を待つ (Run Away) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [5, "ある日、頭からツノが生えた (CROWN) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [6, "Angel Or Devil [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [7, "Drama [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [8, "永遠に光れ (Everlasting Shine)", "TOMORROW X TOGETHER", 0],
-    [9, "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.]", "TOMORROW X TOGETHER", 0],
-    [10, "Outro : STILL", "TOMORROW X TOGETHER", 0],
-]
-links = ["https://beta.musicbrainz.org/release/1e419253-cc2d-4caa-8919-2e2a3963da75", "https://vgmdb.net/album/108278"]
-
-[39]
-catalognumber = "VIZL-1407"
-date = "2018-08-16"
-album = "The Best of Pile / Pile [初回限定盤B]"
-tracks = [
-    [1, "伝説のFLARE", "Pile", -1],
-    [2, "⇒ NEXT WORLD ⇒", "Pile", -1],
-    [3, "Furuwasete", "Pile", -1],
-    [4, "キミがくれたKISEKI", "Pile", -1],
-    [5, "ドリームトリガー", "Pile", 0],
-    [6, "チェックメイト", "Pile", -1],
-    [7, "P.S.ありがとう…", "Pile", -1],
-    [8, "Melody", "Pile", -1],
-    [9, "素晴らしきSekai", "Pile", -1],
-    [10, "VENGEANCE", "Pile", -1],
-    [11, "ROAD", "Pile", -1],
-    [12, "絆Hero", "Pile", -1],
-    [13, "Lost Paradise", "Pile", -1],
-    [14, "Cliche", "Pile", -1],
-    [15, "Go My Way", "Pile", -1],
-    [16, "BJ", "Pile", -1],
-    [17, "Your is All...", "Pile", -1],
-]
-links = ["https://beta.musicbrainz.org/release/95ef3f14-7b58-46f1-9a7d-593ae684fa73", "https://vgmdb.net/album/81725"]
-
-[40]
-catalognumber = "TKCA-74166"
-date = "2014-11-05"
-album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [初回生産限定盤B] Disc 1 (CD)"
-tracks = [
-    [1, "GIRIGIRI", "ソナーポケット", 0],
-    [2, "笑顔の理由。", "ソナーポケット", 0],
-    [3, "GIRIGIRI (TV size)", "ソナーポケット", 0],
-    [4, "GIRIGIRI (Instrumental)", "ソナーポケット", 0],
-    [5, "笑顔の理由。 (Instrumental)", "ソナーポケット", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ef72c33f-2b41-46d8-b2ff-aa8724e5fa66", "https://vgmdb.net/album/48020"]
-
-[41]
-catalognumber = "TKCA-74166"
-date = "2014-11-05"
-album = "GIRIGIRI/笑顔の理由。 / ソナーポケット [初回生産限定盤B] Disc 2 (DVD)"
-tracks = [
-    [1, "GIRIGIRI (MV)", "ソナーポケット", 0],
-    [2, "GIRIGIRI (MV メイキング&オフショット)", "ソナーポケット", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ef72c33f-2b41-46d8-b2ff-aa8724e5fa66", "https://vgmdb.net/album/48020"]
-
-[42]
-catalognumber = "AVCD-83215"
-date = "2015-05-27"
-album = "アシタノヒカリ / AAA"
-tracks = [
-    [1, "アシタノヒカリ", "AAA", 0],
-    [2, "アシタノヒカリ (Instrumental)", "AAA", 0],
-]
-links = ["https://beta.musicbrainz.org/release/444ae523-a37c-4f8f-9be1-66073ec04d34", "https://vgmdb.net/album/51801"]

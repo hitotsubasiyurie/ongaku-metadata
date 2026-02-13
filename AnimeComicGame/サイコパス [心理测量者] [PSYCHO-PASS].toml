@@ -1,201 +1,236 @@
 [1]
-catalognumber = "SECL-2528"
-date = "2019-11-27"
-album = "Q-vism / Who-ya Extended [Limited Edition] Disc 1 (CD) [SECL-2528]"
+catalognumber = "AICL-2452"
+date = "2012-11-14"
+album = "abnormalize / 凛として時雨 Vocal"
 tracks = [
-    [1, "Q‐vism", "Who‐ya Extended", -1],
-    [2, "S‐cape 2 the abs", "Who‐ya Extended", -1],
-    [3, "Q‐vism (Instrumental)", "Who‐ya Extended", -1],
-    [4, "S‐cape 2 the abs (Instrumental)", "Who‐ya Extended", -1],
-    [5, "Q-vism (TV size)", "Who‐ya Extended", -1],
+    [1, "abnormalize", "凛として時雨", 0],
+    [2, "make up syndrome", "凛として時雨", 0],
+    [3, "abnormalize (TV edit)", "凛として時雨", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/a8dd450d-6bbb-46a1-afbd-e5cb2c5fc6b0", "https://vgmdb.net/album/90908"]
+links = ["https://beta.musicbrainz.org/release/b2d204c2-ddcf-45b1-a1b7-e855a915bb56", "https://vgmdb.net/album/35218"]
 
 [2]
-catalognumber = "SECL-2529"
-date = "2019-11-27"
-album = "Q-vism / Who-ya Extended [Limited Edition] Disc 2 (DVD) [SECL-2529]"
+catalognumber = "AICL-2453"
+date = "2012-11-14"
+album = "abnormalize / 凛として時雨 Video"
 tracks = [
-    [1, "「Q‐vism」MUSIC VIDEO", "Who‐ya Extended", -1],
+    [1, "「abnormalize」music video", "凛として時雨", -1],
+    [2, "「PSYCHO-PASS サイコパス」non-credit opening movie", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/a8dd450d-6bbb-46a1-afbd-e5cb2c5fc6b0", "https://vgmdb.net/album/90908"]
+links = ["https://beta.musicbrainz.org/release/b2d204c2-ddcf-45b1-a1b7-e855a915bb56", "https://vgmdb.net/album/35218"]
 
 [3]
-catalognumber = "OMRS-0002"
-date = "2015-02-20"
-album = "菅野祐悟バレンタインコンサート2014"
+catalognumber = "AICL-2451"
+date = "2012-11-14"
+album = "abnormalize / 凛として時雨"
 tracks = [
-    [1, "新参者-MAIN THEME-", "", -1],
-    [2, "探偵ガリレオ", "", -1],
-    [3, "ソナチネ", "", -1],
-    [4, "雨が映し出す物語", "", -1],
-    [5, "ホタルノヒカリ-OPENING TITLE-", "", -1],
-    [6, "LIFE ～踊る大捜査線 THE FINAL 新たなる希望 Ver.～", "", -1],
-    [7, "湾岸の要塞 ～踊る大捜査線 THE FINAL 新たなる希望 Ver.～", "", -1],
-    [8, "軍師官兵衛 メイン・テーマ", "", -1],
-    [9, "天才官兵衛", "", -1],
-    [10, "官兵衛走る", "", -1],
-    [11, "軍監官兵衛", "", -1],
-    [12, "ダブルフェイス-MAIN THEME-", "", -1],
-    [13, "影山のテーマ", "", -1],
-    [14, "PSYCHO-PASS", "", 0],
-    [15, "Security Police", "", -1],
-    [16, "ARXII-13", "", -1],
-    [17, "White Valentine", "", -1],
+    [1, "abnormalize", "凛として時雨", 0],
+    [2, "make up syndrome", "凛として時雨", 0],
 ]
-links = ["https://vgmdb.net/album/76105"]
+links = ["https://beta.musicbrainz.org/release/2b954fc2-8222-4354-8f03-a2216e4ea319", "https://vgmdb.net/album/35217"]
 
 [4]
-catalognumber = "TBR24812D-2"
-date = "2015-01-21"
-album = "サイコパス2 第2巻 特典CD"
+catalognumber = "SRCL-8149"
+date = "2012-12-05"
+album = "名前のない怪物 / EGOIST"
 tracks = [
-    [1, "純白の決意", "", -1],
+    [1, "prelude", "クラッシャー木村", 0],
+    [2, "名前のない怪物", "EGOIST", 0],
+    [3, "カナデナル", "EGOIST", 0],
+    [4, "名前のない怪物 (TV Edit 92s ver)", "EGOIST", 0],
+    [5, "名前のない怪物 -Instrumental-", "EGOIST", 0],
+    [6, "カナデナル -Instrumental-", "EGOIST", 0],
+    [7, "名前のない怪物 (TV Edit 92s ver) -Instrumental-", "EGOIST", 0],
 ]
-links = ["https://vgmdb.net/album/49216"]
+links = ["https://beta.musicbrainz.org/release/e9d3b35c-a4b4-4669-a9c8-2e35467cb78e", "https://vgmdb.net/album/35318"]
 
 [5]
-catalognumber = "TBCD-0474"
-date = "2015-09-30"
-album = "ドラマCD「PSYCHO-PASS サイコパス 追跡者 縢秀星」上巻"
-tracks = []
-links = ["https://vgmdb.net/album/53886"]
+catalognumber = "SRCL-8147"
+date = "2012-12-05"
+album = "名前のない怪物 / EGOIST Disc 1 (CD) [SRCL-8147]"
+tracks = [
+    [1, "prelude", "クラッシャー木村", 0],
+    [2, "名前のない怪物", "EGOIST", 0],
+    [3, "カナデナル", "EGOIST", 0],
+    [4, "名前のない怪物 (TV Edit 92s ver)", "EGOIST", 0],
+    [5, "名前のない怪物 -Instrumental-", "EGOIST", 0],
+    [6, "カナデナル -Instrumental-", "EGOIST", 0],
+    [7, "名前のない怪物 (TV Edit 92s ver) -Instrumental-", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6a0fba8d-3abe-436f-a1f8-9e0889bd50a9", "https://vgmdb.net/album/35317"]
 
 [6]
-catalognumber = "AICL-3999"
-date = "2021-01-20"
-album = "Perfake Perfect / 凛として時雨"
+catalognumber = "SRCL-8148"
+date = "2012-12-05"
+album = "名前のない怪物 / EGOIST Disc 2 (DVD) [SRCL-8148]"
 tracks = [
-    [1, "Perfake Perfect", "凛として時雨", -1],
-    [2, "Perfake Perfect Instrumental", "凛として時雨", -1],
-    [3, "Perfake Perfect inspired by PSYCHO‐PASS Virtue and Vice 2", "凛として時雨", -1],
+    [1, "｢名前のない怪物｣Music Video", "EGOIST", -1],
+    [2, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー <NIGHT version>", "EGOIST", -1],
+    [3, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー <DAY version>", "EGOIST", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/67110d87-7ac6-4b82-b5c3-d92591070291", "https://vgmdb.net/album/106565"]
+links = ["https://beta.musicbrainz.org/release/6a0fba8d-3abe-436f-a1f8-9e0889bd50a9", "https://vgmdb.net/album/35317"]
 
 [7]
-catalognumber = "TBCD-0580"
-date = "2016-01-27"
-album = "ドラマCD「PSYCHO-PASS サイコパス 追跡者 縢秀星」下巻"
-tracks = []
-links = ["https://vgmdb.net/album/56066"]
-
-[8]
-catalognumber = "AICL-3784"
-date = "2019-11-20"
-album = "bullet / Cö shu Nie [期間生産限定盤B] Disc 1 (CD) [AICL-3784]"
-tracks = [
-    [1, "bullet", "Cö shu Nie", -1],
-    [2, "絶体絶命 (piano ver.)", "Cö shu Nie", -1],
-    [3, "Lamp (piano ver.)", "Cö shu Nie", -1],
-    [4, "bullet (Instrumental)", "Cö shu Nie", -1],
-    [5, "bullet (TV edit)", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/eed342b8-3777-47c6-aad5-51b0bd950b24", "https://vgmdb.net/album/90910"]
-
-[9]
-catalognumber = "AICL-3785"
-date = "2019-11-20"
-album = "bullet / Cö shu Nie [期間生産限定盤B] Disc 2 (DVD) [AICL-3785]"
-tracks = [
-    [1, "“bullet” Music Video (another ending ver.)", "Cö shu Nie", -1],
-    [2, "TVアニメ「PSYCHO‐PASS サイコパス 3」 Non-credit Ending Movie", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/eed342b8-3777-47c6-aad5-51b0bd950b24", "https://vgmdb.net/album/90910"]
-
-[10]
 catalognumber = "TBZR-0088"
 date = "2013-01-01"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」冬の一斉検挙SP Disc 1"
 tracks = []
 links = ["https://vgmdb.net/album/51749"]
 
-[11]
+[8]
 catalognumber = "TBZR-0089"
 date = "2013-01-01"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」冬の一斉検挙SP Disc 2"
 tracks = []
 links = ["https://vgmdb.net/album/51749"]
 
+[9]
+catalognumber = "TBR22422D-2"
+date = "2013-01-25"
+album = "PSYCHO-PASS SOUNDTRACK VOL.1"
+tracks = [
+    [1, "PSYCHO-PASS", "菅野祐悟", 0],
+    [2, "その銃口は、正義を支配する", "菅野祐悟", 0],
+    [3, "犯罪係数", "菅野祐悟", 0],
+    [4, "人の心", "菅野祐悟", 0],
+    [5, "公安局刑事課一係", "菅野祐悟", 0],
+    [6, "シビュラシステム", "菅野祐悟", 0],
+    [7, "猟犬の嗅覚", "菅野祐悟", 0],
+    [8, "刑事の勘", "菅野祐悟", 0],
+    [9, "観察眼", "菅野祐悟", 0],
+    [10, "強迫観念", "菅野祐悟", 0],
+    [11, "秩序", "菅野祐悟", 0],
+    [12, "ボーダーライン", "菅野祐悟", 0],
+    [13, "ドミネーター", "菅野祐悟", 0],
+    [14, "法と秩序", "菅野祐悟", 0],
+    [15, "命の在り方", "菅野祐悟", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6167bf57-af0f-4cd5-8aca-97321b850226", "https://vgmdb.net/album/35900"]
+
+[10]
+catalognumber = "SRCL-8240"
+date = "2013-03-06"
+album = "All Alone With You / EGOIST"
+tracks = [
+    [1, "All Alone With You", "EGOIST", 1],
+    [2, "elbadaernU", "EGOIST", 0],
+    [3, "All Alone With You (TV Edit)", "EGOIST", 0],
+    [4, "All Alone With You -Instrumental-", "EGOIST", 0],
+    [5, "elbadaernU -Instrumental-", "EGOIST", 0],
+    [6, "All Alone With You (TV Edit) -Instrumental-", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/1b6dd873-65dc-4045-9c0e-3d7d4f65549a", "https://vgmdb.net/album/36952"]
+
+[11]
+catalognumber = "SRCL-8238"
+date = "2013-03-06"
+album = "All Alone With You / EGOIST [Limited Edition] Disc 1 (CD) [SRCL-8238-9]"
+tracks = [
+    [1, "All Alone With You", "EGOIST", 0],
+    [2, "elbadaernU", "EGOIST", 0],
+    [3, "All Alone With You (TV Edit)", "EGOIST", 0],
+    [4, "All Alone With You -Instrumental-", "EGOIST", 0],
+    [5, "elbadaernU -Instrumental-", "EGOIST", 0],
+    [6, "All Alone With You (TV Edit) -Instrumental-", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0fb13f2d-5872-451d-8359-13e219eb4254", "https://vgmdb.net/album/36951"]
+
 [12]
-catalognumber = "TBZR-0122"
-date = "2013-07-03"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 1"
-tracks = []
-links = ["https://vgmdb.net/album/51750"]
+catalognumber = "SRCL-8239"
+date = "2013-03-06"
+album = "All Alone With You / EGOIST [Limited Edition] Disc 2 (DVD) [SRCL-8238-9]"
+tracks = [
+    [1, "｢All Alone With You｣Music Video", "EGOIST", -1],
+    [2, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/0fb13f2d-5872-451d-8359-13e219eb4254", "https://vgmdb.net/album/36951"]
 
 [13]
-catalognumber = "TBZR-0123"
-date = "2013-07-03"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 2"
-tracks = []
-links = ["https://vgmdb.net/album/51750"]
+catalognumber = "ESCL-4036"
+date = "2013-03-06"
+album = "Out of Control / Nothing's Carved In Stone"
+tracks = [
+    [1, "Out of Control", "Nothing’s Carved In Stone", 0],
+    [2, "Crystal Beat", "Nothing’s Carved In Stone", 0],
+    [3, "Raining Ash", "Nothing’s Carved In Stone", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ed4e1fa0-bb6f-4978-9901-0f0a53bb04b9", "https://vgmdb.net/album/37123"]
 
 [14]
-catalognumber = "VVCL-1153"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Disc 1 (CD) [VVCL-1153]"
+catalognumber = "ESCL-4034"
+date = "2013-03-06"
+album = "Out of Control / Nothing's Carved In Stone [期間生産限定盤] Vocal"
 tracks = [
-    [1, "英雄 運命の詩", "EGOIST", -1],
-    [2, "Welcome to the *fam", "EGOIST", -1],
-    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
-    [4, "Door", "EGOIST", -1],
-    [5, "Ghost of a smile", "EGOIST", -1],
-    [6, "リローデッド", "EGOIST", -1],
-    [7, "Fallen", "EGOIST", 0],
-    [8, "好きと言われた日", "EGOIST", -1],
-    [9, "All Alone With You", "EGOIST", 0],
-    [10, "カナデナル", "EGOIST", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", -1],
-    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
-    [14, "エウテルペ", "EGOIST", -1],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
+    [1, "Out of Control", "Nothing’s Carved In Stone", 0],
+    [2, "Out of Control -アニメバージョン-", "Nothing’s Carved In Stone", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/4b852733-a35f-4ec4-be30-2a46c1184268", "https://vgmdb.net/album/72550"]
+links = ["https://beta.musicbrainz.org/release/3acbc09e-5d87-420f-9cca-ec9e32fddb64", "https://vgmdb.net/album/37122"]
 
 [15]
-catalognumber = "VVCL-1154"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Disc 2 (DVD) [VVCL-1154]"
+catalognumber = "ESCL-4035"
+date = "2013-03-06"
+album = "Out of Control / Nothing's Carved In Stone [期間生産限定盤] Video"
 tracks = [
-    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
-    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
-    [3, "\"Planetes\" Music Video", "EGOIST", -1],
-    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
-    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
-    [6, "\"Fallen\" Music Video", "EGOIST", -1],
-    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
-    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
-    [9, "\"Door\" Music Video", "EGOIST", -1],
-    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
-    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
-    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
+    [1, "「PSYCHO-PASS サイコパス」Opening Non-Credit Movie ＜MAD version＞", "Nothing’s Carved In Stone", -1],
+    [2, "「PSYCHO-PASS サイコパス」Opening Non-Credit Movie ＜Cinemascope version＞", "Nothing’s Carved In Stone", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/4b852733-a35f-4ec4-be30-2a46c1184268", "https://vgmdb.net/album/72550"]
+links = ["https://beta.musicbrainz.org/release/3acbc09e-5d87-420f-9cca-ec9e32fddb64", "https://vgmdb.net/album/37122"]
 
 [16]
-catalognumber = "AICL-2759"
-date = "2014-11-05"
-album = "Enigmatic Feeling / 凛として時雨 [期間生産限定盤] Vocal"
+catalognumber = "AICL-2526"
+date = "2013-04-10"
+album = "i'mperfect / 凛として時雨"
 tracks = [
-    [1, "Enigmatic Feeling", "凛として時雨", 0],
-    [2, "Dynamite Nonsense", "凛として時雨", 0],
-    [3, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
+    [1, "Beautiful Circus", "凛として時雨", -1],
+    [2, "abnormalize", "凛として時雨", 0],
+    [3, "Metamorphose", "凛として時雨", -1],
+    [4, "Filmsick Mystery", "凛として時雨", -1],
+    [5, "Sitai miss me", "凛として時雨", -1],
+    [6, "make up syndrome (album mix)", "凛として時雨", 0],
+    [7, "MONSTER", "凛として時雨", -1],
+    [8, "キミトオク", "凛として時雨", -1],
+    [9, "Missing ling", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/6ebd1b11-67c8-4db6-a4ae-83094e29a52c", "https://vgmdb.net/album/48157"]
+links = ["https://beta.musicbrainz.org/release/9c89e1ac-5a34-4a0c-be2d-da697f9f3d25", "https://vgmdb.net/album/100562"]
 
 [17]
-catalognumber = "AICL-2760"
-date = "2014-11-05"
-album = "Enigmatic Feeling / 凛として時雨 [期間生産限定盤] Video"
+catalognumber = "TBR22425D-2"
+date = "2013-04-19"
+album = "PSYCHO-PASS SOUNDTRACK VOL.2"
 tracks = [
-    [1, "｢Enigmatic Feeling｣ Music Video", "凛として時雨", -1],
-    [2, "｢PSYCHO-PASS サイコパス2｣ non-credit opening movie", "凛として時雨", -1],
+    [1, "潜在犯", "菅野祐悟", 0],
+    [2, "矛盾に満ちた世界", "菅野祐悟", 0],
+    [3, "命の重み", "菅野祐悟", 0],
+    [4, "光", "菅野祐悟", 0],
+    [5, "信念", "菅野祐悟", 0],
+    [6, "廃棄区画", "菅野祐悟", 0],
+    [7, "偶像", "菅野祐悟", 0],
+    [8, "犯罪遊戯", "菅野祐悟", 0],
+    [9, "サイコハザード", "菅野祐悟", 0],
+    [10, "精神構造", "菅野祐悟", 0],
+    [11, "聖者の晩餐", "菅野祐悟", 0],
+    [12, "神の意識", "菅野祐悟", 0],
+    [13, "楽園", "菅野祐悟", 0],
+    [14, "槙島聖護", "菅野祐悟", 0],
+    [15, "PSYCHO-PASS Symphony", "菅野祐悟", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/6ebd1b11-67c8-4db6-a4ae-83094e29a52c", "https://vgmdb.net/album/48157"]
+links = ["https://beta.musicbrainz.org/release/ebfad068-671c-44fb-91b0-a1f4ccd52e0f", "https://vgmdb.net/album/35899"]
 
 [18]
+catalognumber = "TBZR-0096"
+date = "2013-04-24"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 1"
+tracks = []
+links = ["https://vgmdb.net/album/51481"]
+
+[19]
+catalognumber = "TBZR-0097"
+date = "2013-04-24"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 2"
+tracks = []
+links = ["https://vgmdb.net/album/51481"]
+
+[20]
 catalognumber = "SRCL-8295"
 date = "2013-05-29"
 album = "PSYCHO-PASS Complete Original Soundtrack Disc 1 [SRCL-8295]"
@@ -225,7 +260,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/22ee0f5b-1fdb-4aeb-8809-caa68085df9e", "https://vgmdb.net/album/38314"]
 
-[19]
+[21]
 catalognumber = "SRCL-8296"
 date = "2013-05-29"
 album = "PSYCHO-PASS Complete Original Soundtrack Disc 2 [SRCL-8296]"
@@ -260,57 +295,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/22ee0f5b-1fdb-4aeb-8809-caa68085df9e", "https://vgmdb.net/album/38314"]
 
-[20]
-catalognumber = "BRMM-10596"
-date = "2022-12-14"
-album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.7"
-tracks = [
-    [1, "ヴァンパイア", "Poppin'Party", -1],
-    [2, "怪物", "Poppin'Party", -1],
-    [3, "メンタルチェンソー", "Afterglow", -1],
-    [4, "abnormalize", "Afterglow", 0],
-    [5, "春を告げる", "Pastel＊Palettes", -1],
-    [6, "Sparkling Daydream", "Pastel＊Palettes", -1],
-    [7, "Realize", "Roselia", -1],
-    [8, "Preserved Roses", "Roselia×蘭", -1],
-    [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", -1],
-    [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", -1],
-    [11, "COLORFUL BOX", "Morfonica", -1],
-    [12, "unravel", "Morfonica", -1],
-    [13, "Cry Baby", "RAISE A SUILEN", -1],
-    [14, "メギツネ", "RAISE A SUILEN", -1],
-]
-links = ["https://beta.musicbrainz.org/release/8f04d182-c716-4a5d-8a82-96381a9973c8", "https://vgmdb.net/album/123847"]
-
-[21]
-catalognumber = "AICL-2795"
-date = "2015-01-14"
-album = "Who What Who What / 凛として時雨 Disc 1 (CD) [AICL-2795]"
-tracks = [
-    [1, "Who What Who What", "凛として時雨", 0],
-    [2, "Who What Who What (Movie edit)", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9b59868f-e37c-411d-8e3c-1023ebdd37d5", "https://vgmdb.net/album/49333"]
-
 [22]
-catalognumber = "AICL-2796"
-date = "2015-01-14"
-album = "Who What Who What / 凛として時雨 Disc 2 (DVD) [AICL-2796]"
-tracks = [
-    [1, "Who What Who What (Music Video)", "凛として時雨", 0],
-    [2, "「PSYCHO-PASS サイコパス選択無き幸福」teaser movie “abnormalize” edit", "凛として時雨", -1],
-    [3, "「PSYCHO-PASS サイコパス2」non-credit another opening movie", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/9b59868f-e37c-411d-8e3c-1023ebdd37d5", "https://vgmdb.net/album/49333"]
-
-[23]
-catalognumber = "PPSP-0001"
-date = "2014-08-18"
-album = "ラジオCD「新録音版PSYCHO-PASS ラジオ 公安局刑事課24時」"
-tracks = []
-links = ["https://vgmdb.net/album/51751"]
-
-[24]
 catalognumber = "SRCL-8291, SRCL-8292, SRCL-8293, SRCL-8294"
 date = "2013-05-29"
 album = "PSYCHO-PASS Complete Original Soundtrack [Limited Edition] Original Soundtrack, Vocal Disc 1"
@@ -340,7 +325,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/934f077e-7c0a-419a-b9ca-649007c4932f", "https://vgmdb.net/album/38313"]
 
-[25]
+[23]
 catalognumber = "SRCL-8291, SRCL-8292, SRCL-8293, SRCL-8294"
 date = "2013-05-29"
 album = "PSYCHO-PASS Complete Original Soundtrack [Limited Edition] Original Soundtrack, Vocal Disc 2"
@@ -375,7 +360,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/934f077e-7c0a-419a-b9ca-649007c4932f", "https://vgmdb.net/album/38313"]
 
-[26]
+[24]
 catalognumber = "SRCL-8291, SRCL-8292, SRCL-8293, SRCL-8294"
 date = "2013-05-29"
 album = "PSYCHO-PASS Complete Original Soundtrack [Limited Edition] Disc 3 (Blu-ray) [SRCL-8293]"
@@ -389,52 +374,191 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/934f077e-7c0a-419a-b9ca-649007c4932f", "https://vgmdb.net/album/38313"]
 
+[25]
+catalognumber = "TBZR-0122"
+date = "2013-07-03"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 1"
+tracks = []
+links = ["https://vgmdb.net/album/51750"]
+
+[26]
+catalognumber = "TBZR-0123"
+date = "2013-07-03"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 2"
+tracks = []
+links = ["https://vgmdb.net/album/51750"]
+
 [27]
-catalognumber = "SCGA-00053"
-date = "2016-08-24"
-album = "ANISON PIANO 2 -marasy animation songs cover on piano-"
+catalognumber = "TBCD-0156"
+date = "2013-09-25"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻"
 tracks = [
-    [1, "名前のない怪物", "まらしぃ", 0],
-    [2, "LEVEL5-judgelight-", "まらしぃ", -1],
-    [3, "this game", "まらしぃ", -1],
-    [4, "めざせポケモンマスター", "まらしぃ", -1],
-    [5, "メリッサ", "まらしぃ", -1],
-    [6, "Believe", "まらしぃ", -1],
-    [7, "unravel", "まらしぃ", -1],
-    [8, "ラムのラブソング", "まらしぃ", -1],
-    [9, "タッチ", "まらしぃ", -1],
-    [10, "ガーネット", "まらしぃ", -1],
-    [11, "ようかい体操第一", "まらしぃ", -1],
-    [12, "ギミー！レボリューション", "まらしぃ", -1],
-    [13, "シュガーソングとビターステップ", "まらしぃ", -1],
-    [14, "secret base 〜君がくれたもの〜", "まらしぃ", -1],
-    [15, "創聖のアクエリオン", "まらしぃ feat. 小湊昭尚(尺八)", -1],
+    [1, "むかしばなしをはじめようか", "", -1],
+    [2, "おひめさまとおうじさま", "", -1],
+    [3, "わるいまほうつかいののろい", "", -1],
+    [4, "ふたりのおしろ", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/bc7ea5a0-aa9d-4582-a373-80792ac42a77", "https://vgmdb.net/album/61458"]
+links = ["https://vgmdb.net/album/51753"]
 
 [28]
-catalognumber = "AICL-3720"
-date = "2019-07-03"
-album = "Neighbormind/laser beamer / 凛として時雨 Disc 1 (CD) [AICL-3720]"
+catalognumber = "TBZD-0154"
+date = "2013-09-25"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻 Disc 1 [TBZD-0154]"
 tracks = [
-    [1, "Neighbormind", "凛として時雨", -1],
-    [2, "laser beamer", "凛として時雨", -1],
-    [3, "Neighbormind (Instrumental)", "凛として時雨", -1],
-    [4, "laser beamer (Instrumental)", "凛として時雨", -1],
+    [1, "むかしばなしをはじめようか", "", -1],
+    [2, "おひめさまとおうじさま", "", -1],
+    [3, "わるいまほうつかいののろい", "", -1],
+    [4, "ふたりのおしろ", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/3d2fcd7e-7582-4ee4-aea3-dcc057d25764", "https://vgmdb.net/album/86047"]
+links = ["https://vgmdb.net/album/51754"]
 
 [29]
-catalognumber = "AICL-3721"
-date = "2019-07-03"
-album = "Neighbormind/laser beamer / 凛として時雨 Disc 2 (DVD) [AICL-3721]"
+catalognumber = "TBZD-0155"
+date = "2013-09-25"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻 Disc 2 [TBZD-0155]"
 tracks = [
-    [1, "\"laser beamer\" Music Video", "凛として時雨", -1],
-    [2, "\"laser beamer\" -「舞台PSYCHO-PASS サイコパス Virtue and Vice」Opening Stage Plot", "凛として時雨", -1],
+    [1, "名前のない座談会", "", -1],
+    [2, "おまけドラマ「刑事たちの短い平穏」", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/3d2fcd7e-7582-4ee4-aea3-dcc057d25764", "https://vgmdb.net/album/86047"]
+links = ["https://vgmdb.net/album/51754"]
 
 [30]
+catalognumber = "TBZD-0173"
+date = "2013-11-27"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 1 [TBZD-0173]"
+tracks = [
+    [1, "しょうじきもののおうじさま", "", -1],
+    [2, "わるいまほうつかいたいじ", "", -1],
+    [3, "なまえのないかいぶつ", "", -1],
+]
+links = ["https://vgmdb.net/album/51756"]
+
+[31]
+catalognumber = "TBZD-0174"
+date = "2013-11-27"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 2 [TBZD-0174]"
+tracks = [
+    [1, "ひみつのゆりかご～名前のない怪物", "", -1],
+    [2, "名前のない座談会", "", -1],
+    [3, "おまけドラマ「気まぐれな犯罪者たち」", "", -1],
+]
+links = ["https://vgmdb.net/album/51756"]
+
+[32]
+catalognumber = "TBZD-0175"
+date = "2013-11-27"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 1 [TBZD-0175]"
+tracks = [
+    [1, "しょうじきもののおうじさま", "", -1],
+    [2, "わるいまほうつかいたいじ", "", -1],
+    [3, "なまえのないかいぶつ", "", -1],
+]
+links = ["https://vgmdb.net/album/51755"]
+
+[33]
+catalognumber = "TBZD-0176"
+date = "2013-11-27"
+album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 2 [TBZD-0176]"
+tracks = [
+    [1, "ひみつのゆりかご～名前のない怪物", "", -1],
+]
+links = ["https://vgmdb.net/album/51755"]
+
+[34]
+catalognumber = "SICL-30002"
+date = "2014-01-29"
+album = "thanks! ～菅野祐悟 ベストセレクション～"
+tracks = [
+    [1, "新参者 -MAIN THEME- (TBS系 日曜劇場「新参者」より)", "", -1],
+    [2, "PSYCHO-PASS (フジテレビ系アニメ「PSYCHO-PASS サイコパス」より)", "", 0],
+    [3, "Security Police -Movie Version- (映画「SP野望篇」より)", "", -1],
+    [4, "影山のテーマ (フジテレビ系ドラマ「謎解きはディナーのあとで」より)", "", -1],
+    [5, "世界で最も美しい場所 (piano & strings version) (映画「アマルフィ 女神の報酬」より)", "", -1],
+    [6, "自動車革命オープニングテーマ (NHKスペシャル「自動車革命」より)", "", -1],
+    [7, "MR.BRAIN (TBS系ドラマ「MR.BRAIN」より)", "", -1],
+    [8, "アンダルシア 女神の報復 (映画「アンダルシア 女神の報復」より)", "", -1],
+    [9, "ダブルフェイス (TBS・WOWOW共同制作ドラマ「ダブルフェイス 潜入捜査篇&偽装警察篇」より)", "", -1],
+    [10, "LIFE～「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」～メインテーマ (piano & strings version) (映画「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」より", "", -1],
+    [11, "ホタルノヒカリ-OPENING TITLE- (piano & strings version) (映画「ホタルノヒカリ」より)", "", -1],
+    [12, "外交官・黒田康作 (フジテレビ系ドラマ「外交官・黒田康作」より)", "", -1],
+    [13, "不毛地帯～生きて歴史の証人たれ～ (フジテレビ系ドラマ「不毛地帯」より)", "", -1],
+    [14, "ソナチネ (quartet version) (映画「真夏の方程式」より)", "", -1],
+    [15, "探偵ガリレオ (piano & strings version) (フジテレビ系ドラマ「ガリレオ シーズン2」より)", "", -1],
+    [16, "Au petit jour", "", -1],
+]
+links = ["https://vgmdb.net/album/42936"]
+
+[35]
+catalognumber = "OMRS-0001"
+date = "2014-02-08"
+album = "菅野祐悟スプリングコンサート2013"
+tracks = [
+    [1, "インターミッション~愛のテーマ~", "", -1],
+    [2, "レジデント~私の選んだ道~", "", -1],
+    [3, "ホタルノヒカリ -OPENING TITLE-", "", -1],
+    [4, "新参者 -MAIN THEME-", "", -1],
+    [5, "シェアハウスの恋人~TERRA~", "", -1],
+    [6, "pack up Hopes", "", -1],
+    [7, "PSYCHO-PASS Symphony", "", 0],
+    [8, "図書館戦争 革命のつばさ", "", -1],
+    [9, "ダブルフェイス -MAIN THEME-", "", -1],
+    [10, "LIFE ~「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」メインテーマ~", "", -1],
+    [11, "湾岸の要塞", "", -1],
+    [12, "探偵ガリレオ", "", -1],
+    [13, "影山のテーマ", "", -1],
+    [14, "ダーティ★ママ!-MAIN THEME-", "", -1],
+    [15, "Security Police", "", -1],
+    [16, "Dear.", "", -1],
+]
+links = ["https://vgmdb.net/album/44821"]
+
+[36]
+catalognumber = "WP-09430"
+date = "2014-03-11"
+album = "PSYCHO-PASS SEASON ONE OST Disc 1 [CD-09430A]"
+tracks = [
+    [1, "PSYCHO-PASS", "菅野祐悟", 0],
+    [2, "The System Holds Justice at Gunpoint", "菅野祐悟", -1],
+    [3, "Crime Coefficient", "菅野祐悟", -1],
+    [4, "The Human Heart", "菅野祐悟", -1],
+    [5, "Public Safety Bureau Criminal Investigation Department, Division 1", "菅野祐悟", -1],
+    [6, "The Sibyl System", "菅野祐悟", -1],
+    [7, "A Hunting Dog's Sense of Smell", "菅野祐悟", -1],
+    [8, "Detective Instinct", "菅野祐悟", -1],
+    [9, "Sharp Eyes", "菅野祐悟", -1],
+    [10, "Obsession", "菅野祐悟", -1],
+    [11, "The Public Order", "菅野祐悟", -1],
+    [12, "Borderline", "菅野祐悟", -1],
+    [13, "Dominator", "菅野祐悟", -1],
+    [14, "Law And Order", "菅野祐悟", -1],
+    [15, "The State of My Life", "菅野祐悟", -1],
+]
+links = ["https://beta.musicbrainz.org/release/133b6353-741e-41c5-a066-194b564f631c", "https://vgmdb.net/album/51651"]
+
+[37]
+catalognumber = "WP-09430"
+date = "2014-03-11"
+album = "PSYCHO-PASS SEASON ONE OST Disc 2 [CD-09430B]"
+tracks = [
+    [1, "Latent Criminal", "菅野祐悟", -1],
+    [2, "A World of Contradictions", "菅野祐悟", -1],
+    [3, "The Importance of Life", "菅野祐悟", -1],
+    [4, "Light", "菅野祐悟", -1],
+    [5, "Faith", "菅野祐悟", -1],
+    [6, "Abolition Block", "菅野祐悟", -1],
+    [7, "Icons", "菅野祐悟", -1],
+    [8, "Crime Games", "菅野祐悟", -1],
+    [9, "Psycho-Hazard", "菅野祐悟", -1],
+    [10, "Mentality", "菅野祐悟", -1],
+    [11, "Saint's Supper", "菅野祐悟", -1],
+    [12, "Perception of God", "菅野祐悟", -1],
+    [13, "Paradise", "菅野祐悟", -1],
+    [14, "Shogo Makishima", "菅野祐悟", -1],
+    [15, "PSYCHO-PASS Symphony", "菅野祐悟", 0],
+]
+links = ["https://beta.musicbrainz.org/release/133b6353-741e-41c5-a066-194b564f631c", "https://vgmdb.net/album/51651"]
+
+[38]
 catalognumber = ""
 date = "2014-05-21"
 album = "PSYCHO-PASS SEASON ONE OST Disc 1"
@@ -457,7 +581,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/64039"]
 
-[31]
+[39]
 catalognumber = ""
 date = "2014-05-21"
 album = "PSYCHO-PASS SEASON ONE OST Disc 2"
@@ -480,42 +604,113 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/64039"]
 
-[32]
-catalognumber = ""
-date = "2020-02-11"
-album = "Unnamed / タカオカミズキ"
-tracks = [
-    [1, "All Alone With You", "タカオカミズキ", 0],
-    [2, "Ghost of a Smile -2020ver.-", "タカオカミズキ", -1],
-    [3, "名前のない怪物 -2020ver.-", "タカオカミズキ", 0],
-    [4, "Fallen -2020ver.-", "タカオカミズキ", 0],
-    [5, "Planetes", "タカオカミズキ", -1],
-    [6, "Departures～あなたにおくるアイの歌～ -2020ver.-", "タカオカミズキ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/b1d6d278-a216-4e8e-a11d-69c65d831047", "https://vgmdb.net/album/109193"]
+[40]
+catalognumber = "PPSP-0001"
+date = "2014-08-18"
+album = "ラジオCD「新録音版PSYCHO-PASS ラジオ 公安局刑事課24時」"
+tracks = []
+links = ["https://vgmdb.net/album/51751"]
 
-[33]
-catalognumber = "SEXX-02281"
-date = "2021-11-16"
-album = "Q-vism - From THE FIRST TAKE / Who-ya Extended"
+[41]
+catalognumber = "AICL-2759"
+date = "2014-11-05"
+album = "Enigmatic Feeling / 凛として時雨 [期間生産限定盤] Vocal"
 tracks = [
-    [1, "us - From THE FIRST TAKE", "milet", -1],
+    [1, "Enigmatic Feeling", "凛として時雨", 0],
+    [2, "Dynamite Nonsense", "凛として時雨", 0],
+    [3, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/3aaeb293-a193-443f-a657-3b490d917334", "https://vgmdb.net/album/115882"]
+links = ["https://beta.musicbrainz.org/release/6ebd1b11-67c8-4db6-a4ae-83094e29a52c", "https://vgmdb.net/album/48157"]
 
-[34]
-catalognumber = "SECL-2527"
-date = "2019-11-27"
-album = "Q-vism / Who-ya Extended"
+[42]
+catalognumber = "AICL-2760"
+date = "2014-11-05"
+album = "Enigmatic Feeling / 凛として時雨 [期間生産限定盤] Video"
 tracks = [
-    [1, "Q‐vism", "Who‐ya Extended", -1],
-    [2, "S‐cape 2 the abs", "Who‐ya Extended", -1],
-    [3, "Q‐vism (Instrumental)", "Who‐ya Extended", -1],
-    [4, "S‐cape 2 the abs (Instrumental)", "Who‐ya Extended", -1],
+    [1, "｢Enigmatic Feeling｣ Music Video", "凛として時雨", -1],
+    [2, "｢PSYCHO-PASS サイコパス2｣ non-credit opening movie", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/35441847-e3e7-4a9f-ab4d-a1a265e183cc", "https://vgmdb.net/album/90906"]
+links = ["https://beta.musicbrainz.org/release/6ebd1b11-67c8-4db6-a4ae-83094e29a52c", "https://vgmdb.net/album/48157"]
 
-[35]
+[43]
+catalognumber = "AICL-2761"
+date = "2014-11-05"
+album = "Enigmatic Feeling / 凛として時雨"
+tracks = [
+    [1, "Enigmatic Feeling", "凛として時雨", 0],
+    [2, "Dynamite Nonsense", "凛として時雨", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d11ddd23-15a8-4975-85ad-eb301f08fcc3", "https://vgmdb.net/album/48156"]
+
+[44]
+catalognumber = "SRCL-8639"
+date = "2014-11-19"
+album = "Fallen / EGOIST"
+tracks = [
+    [1, "Fallen", "EGOIST", 0],
+    [2, "1.4.2", "EGOIST", 1],
+    [3, "Fallen (TV Edit)", "EGOIST", 0],
+    [4, "Fallen -Instrumental-", "EGOIST", 0],
+    [5, "1.4.2 -Instrumental-", "EGOIST", 0],
+    [6, "Fallen (TV Edit) -Instrumental-", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/41254e15-f263-4c72-a3b4-fda2985ca33b", "https://vgmdb.net/album/47766"]
+
+[45]
+catalognumber = "SRCL-8637"
+date = "2014-11-19"
+album = "Fallen / EGOIST [Limited Edition] Disc 1 (CD) [SRCL-8637]"
+tracks = [
+    [1, "Fallen", "EGOIST", 0],
+    [2, "1.4.2", "EGOIST", 0],
+    [3, "Fallen (TV Edit)", "EGOIST", 0],
+    [4, "Fallen -Instrumental-", "EGOIST", 0],
+    [5, "1.4.2 -Instrumental-", "EGOIST", 0],
+    [6, "Fallen (TV Edit) -Instrumental-", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/cd1baea4-5e2f-421b-91aa-f87ee430ba23", "https://vgmdb.net/album/47765"]
+
+[46]
+catalognumber = "SRCL-8638"
+date = "2014-11-19"
+album = "Fallen / EGOIST [Limited Edition] Disc 2 (DVD) [SRCL-8638]"
+tracks = [
+    [1, "「Fallen」Music Video", "EGOIST", -1],
+    [2, "「PSYCHO-PASS サイコパス 2」Ending ノンクレジットムービー", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/cd1baea4-5e2f-421b-91aa-f87ee430ba23", "https://vgmdb.net/album/47765"]
+
+[47]
+catalognumber = "TBR24811D-2"
+date = "2014-12-17"
+album = "サイコパス2 第1巻 特典CD"
+tracks = [
+    [1, "燻る面影", "", -1],
+]
+links = ["https://vgmdb.net/album/49215"]
+
+[48]
+catalognumber = "AICL-2795"
+date = "2015-01-14"
+album = "Who What Who What / 凛として時雨 Disc 1 (CD) [AICL-2795]"
+tracks = [
+    [1, "Who What Who What", "凛として時雨", 0],
+    [2, "Who What Who What (Movie edit)", "凛として時雨", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9b59868f-e37c-411d-8e3c-1023ebdd37d5", "https://vgmdb.net/album/49333"]
+
+[49]
+catalognumber = "AICL-2796"
+date = "2015-01-14"
+album = "Who What Who What / 凛として時雨 Disc 2 (DVD) [AICL-2796]"
+tracks = [
+    [1, "Who What Who What (Music Video)", "凛として時雨", 0],
+    [2, "「PSYCHO-PASS サイコパス選択無き幸福」teaser movie “abnormalize” edit", "凛として時雨", -1],
+    [3, "「PSYCHO-PASS サイコパス2」non-credit another opening movie", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/9b59868f-e37c-411d-8e3c-1023ebdd37d5", "https://vgmdb.net/album/49333"]
+
+[50]
 catalognumber = "AICL-2801"
 date = "2015-01-14"
 album = "Best of Tornado / 凛として時雨 [Tornado Edition] Arrangement, Vocal"
@@ -538,7 +733,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a88c2fb8-c353-45e6-aeaf-60f9a05ea7f6", "https://vgmdb.net/album/49335"]
 
-[36]
+[51]
 catalognumber = "AICL-2802"
 date = "2015-01-14"
 album = "Best of Tornado / 凛として時雨 [Tornado Edition] Video"
@@ -557,7 +752,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a88c2fb8-c353-45e6-aeaf-60f9a05ea7f6", "https://vgmdb.net/album/49335"]
 
-[37]
+[52]
 catalognumber = "AICL-2803"
 date = "2015-01-14"
 album = "Best of Tornado / 凛として時雨 [Tornado Edition] Vocal"
@@ -577,49 +772,576 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a88c2fb8-c353-45e6-aeaf-60f9a05ea7f6", "https://vgmdb.net/album/49335"]
 
-[38]
-catalognumber = "MSDS-002"
-date = "2024-06-19"
-album = "gnosinA -Beyond-"
+[53]
+catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
+date = "2015-01-14"
+album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Arrangement, Vocal"
 tracks = [
-    [1, "KABANERI OF THE IRON FORTRESS", "千代浦蝶美", -1],
-    [2, "君色シグナル", "久遠たま", -1],
-    [3, "平行線", "松永依織", -1],
-    [4, "こんなに近くで…", "詩趣ミンゴス", -1],
-    [5, "光るなら", "よしか⁂", -1],
-    [6, "七色シンフォニー", "天羽しろっぷ", -1],
-    [7, "Fallen", "松永依織 & 久遠たま", 0],
-    [8, "フィクション", "天羽しろっぷ & よしか⁂", -1],
-    [9, "Oz.", "千代浦蝶美 & 詩趣ミンゴス", -1],
+    [1, "JPOP Xfile", "凛として時雨", -1],
+    [2, "Telecastic fake show", "凛として時雨", -1],
+    [3, "abnormalize", "凛として時雨", 0],
+    [4, "illusion is mine", "凛として時雨", -1],
+    [5, "想像のSecurity (2015 mix)", "凛として時雨", -1],
+    [6, "DISCO FLIGHT", "凛として時雨", -1],
+    [7, "moment A rhythm (short Ver.)", "凛として時雨", -1],
+    [8, "Beautiful Circus", "凛として時雨", -1],
+    [9, "I was music", "凛として時雨", -1],
+    [10, "鮮やかな殺人 (2015 mix)", "凛として時雨", -1],
+    [11, "テレキャスターの真実 (2015 mix)", "凛として時雨", -1],
+    [12, "nakano kill you (2015 mix)", "凛として時雨", -1],
+    [13, "Enigmatic Feeling (2015 mix)", "凛として時雨", 0],
+    [14, "Missing ling", "凛として時雨", -1],
+    [15, "傍観", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/8c197117-edd6-4fee-a819-0cc6ae7e46d2", "https://vgmdb.net/album/142057"]
+links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
 
-[39]
-catalognumber = "TBCD-0156"
-date = "2013-09-25"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻"
+[54]
+catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
+date = "2015-01-14"
+album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Video"
 tracks = [
-    [1, "むかしばなしをはじめようか", "", -1],
-    [2, "おひめさまとおうじさま", "", -1],
-    [3, "わるいまほうつかいののろい", "", -1],
-    [4, "ふたりのおしろ", "", -1],
+    [1, "Sadistic Summer (Music Video)", "凛として時雨", -1],
+    [2, "想像のSecurity (Music Video)", "凛として時雨", -1],
+    [3, "DISCO FLIGHT (Music Video)", "凛として時雨", -1],
+    [4, "Telecastic fake show (Music Video)", "凛として時雨", -1],
+    [5, "JPOP Xfile (Music Video)", "凛として時雨", -1],
+    [6, "I was music (Music Video)", "凛として時雨", -1],
+    [7, "illusion is mine (Music Video)", "凛として時雨", -1],
+    [8, "abnormalize (Music Video)", "凛として時雨", 0],
+    [9, "Beautiful Circus (Music Video)", "凛として時雨", -1],
+    [10, "Metamorphose (Music Video)", "凛として時雨", -1],
+    [11, "Enigmatic Feeling (Music Video)", "凛として時雨", 0],
 ]
-links = ["https://vgmdb.net/album/51753"]
+links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
 
-[40]
-catalognumber = "BRMM-10540"
-date = "2022-05-18"
-album = "ROZEN HORIZON / Roselia [通常盤B]"
+[55]
+catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
+date = "2015-01-14"
+album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Vocal"
 tracks = [
-    [1, "Sprechchor", "Roselia", -1],
-    [2, "閃光", "Roselia", -1],
-    [3, "THE HISTORIC...", "Roselia", -1],
-    [4, "ROZEN HORIZON", "Roselia", -1],
-    [5, "名前のない怪物", "Roselia", 0],
+    [1, "鮮やかな殺人 (from Demo Tape)", "凛として時雨", -1],
+    [2, "TK in the 夕景 (from Demo Tape)", "凛として時雨", -1],
+    [3, "テレキャスターの真実", "凛として時雨", -1],
+    [4, "赤い誘惑", "凛として時雨", -1],
+    [5, "Sergio Echigo", "凛として時雨", -1],
+    [6, "傍観", "凛として時雨", -1],
+    [7, "CRAZY感情STYLE (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
+    [8, "ラストダンスレボリューション (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
+    [9, "Acoustic (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
+    [10, "Sadistic Summer (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
+    [11, "赤い誘惑 (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
+    [12, "夕景の記憶 (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/34f0c129-391a-42fc-8e7e-6c4367216b2f", "https://vgmdb.net/album/116876"]
+links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
 
-[41]
+[56]
+catalognumber = "AICL-2804"
+date = "2015-01-14"
+album = "Best of Tornado / 凛として時雨"
+tracks = [
+    [1, "JPOP Xfile", "凛として時雨", -1],
+    [2, "Telecastic fake show", "凛として時雨", -1],
+    [3, "abnormalize", "凛として時雨", 0],
+    [4, "illusion is mine", "凛として時雨", -1],
+    [5, "想像のSecurity (2015 mix)", "凛として時雨", -1],
+    [6, "DISCO FLIGHT", "凛として時雨", -1],
+    [7, "moment A rhythm (short Ver.)", "凛として時雨", -1],
+    [8, "Beautiful Circus", "凛として時雨", -1],
+    [9, "I was music", "凛として時雨", -1],
+    [10, "鮮やかな殺人 (2015 mix)", "凛として時雨", -1],
+    [11, "テレキャスターの真実 (2015 mix)", "凛として時雨", -1],
+    [12, "nakano kill you (2015 mix)", "凛として時雨", -1],
+    [13, "Enigmatic Feeling (2015 mix)", "凛として時雨", 0],
+    [14, "Missing ling", "凛として時雨", -1],
+    [15, "傍観", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/063e485a-3aae-449a-b9b9-647c7707abf0", "https://vgmdb.net/album/49336"]
+
+[57]
+catalognumber = "TBR24812D-2"
+date = "2015-01-21"
+album = "サイコパス2 第2巻 特典CD"
+tracks = [
+    [1, "純白の決意", "", -1],
+]
+links = ["https://vgmdb.net/album/49216"]
+
+[58]
+catalognumber = "TBZR-0375"
+date = "2015-01-28"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」復活SP Disc 1"
+tracks = []
+links = ["https://vgmdb.net/album/51752"]
+
+[59]
+catalognumber = "TBZR-0376"
+date = "2015-01-28"
+album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」復活SP Disc 2"
+tracks = []
+links = ["https://vgmdb.net/album/51752"]
+
+[60]
+catalognumber = "TBR24813D-2"
+date = "2015-02-18"
+album = "サイコパス2 第3巻 特典CD"
+tracks = [
+    [1, "姉弟中毒", "", -1],
+]
+links = ["https://vgmdb.net/album/49217"]
+
+[61]
+catalognumber = "OMRS-0002"
+date = "2015-02-20"
+album = "菅野祐悟バレンタインコンサート2014"
+tracks = [
+    [1, "新参者-MAIN THEME-", "", -1],
+    [2, "探偵ガリレオ", "", -1],
+    [3, "ソナチネ", "", -1],
+    [4, "雨が映し出す物語", "", -1],
+    [5, "ホタルノヒカリ-OPENING TITLE-", "", -1],
+    [6, "LIFE ～踊る大捜査線 THE FINAL 新たなる希望 Ver.～", "", -1],
+    [7, "湾岸の要塞 ～踊る大捜査線 THE FINAL 新たなる希望 Ver.～", "", -1],
+    [8, "軍師官兵衛 メイン・テーマ", "", -1],
+    [9, "天才官兵衛", "", -1],
+    [10, "官兵衛走る", "", -1],
+    [11, "軍監官兵衛", "", -1],
+    [12, "ダブルフェイス-MAIN THEME-", "", -1],
+    [13, "影山のテーマ", "", -1],
+    [14, "PSYCHO-PASS", "", 0],
+    [15, "Security Police", "", -1],
+    [16, "ARXII-13", "", -1],
+    [17, "White Valentine", "", -1],
+]
+links = ["https://vgmdb.net/album/76105"]
+
+[62]
+catalognumber = "TBR24814D-2"
+date = "2015-03-18"
+album = "サイコパス2 第4巻 特典CD"
+tracks = [
+    [1, "漆黒の誘惑者", "", -1],
+]
+links = ["https://vgmdb.net/album/49218"]
+
+[63]
+catalognumber = "SRCL-8757"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 1 [SRCL-8757]"
+tracks = [
+    [1, "PSYCHO-PASS feat.AKANE", "菅野祐悟", 0],
+    [2, "サイマティックスキャン", "菅野祐悟", 0],
+    [3, "ハレーション", "菅野祐悟", 0],
+    [4, "執行官", "菅野祐悟", 0],
+    [5, "What Color ?", "菅野祐悟", 0],
+    [6, "殺意の肯定", "菅野祐悟", 0],
+    [7, "忍び寄る虚実", "菅野祐悟", 0],
+    [8, "サイコパス汚染", "菅野祐悟", 0],
+    [9, "コントロール出来ません", "菅野祐悟", 0],
+    [10, "黒く染める力", "菅野祐悟", 0],
+    [11, "エリアストレス", "菅野祐悟", 0],
+    [12, "透明人間", "菅野祐悟", 0],
+    [13, "生体コンタクト", "菅野祐悟", 0],
+    [14, "全能者のパラドクス", "菅野祐悟", 0],
+    [15, "人と法を守るために", "菅野祐悟", 0],
+    [16, "裁きの場", "菅野祐悟", 0],
+    [17, "最後のキー", "菅野祐悟", 0],
+    [18, "生み出された怪物", "菅野祐悟", 0],
+    [19, "共同幻想", "菅野祐悟", 0],
+    [20, "ハングリーチキン", "菅野祐悟", 0],
+    [21, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
+    [22, "Fallen (TV Edit)", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
+
+[64]
+catalognumber = "SRCL-8758"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 2 [SRCL-8758]"
+tracks = [
+    [1, "2116.7", "菅野祐悟", 0],
+    [2, "朱の疑問", "菅野祐悟", 0],
+    [3, "あの人は⋯", "菅野祐悟", 0],
+    [4, "密入国", "菅野祐悟", 0],
+    [5, "脳波モンタージュ", "菅野祐悟", 0],
+    [6, "国外捜査", "菅野祐悟", 0],
+    [7, "思い", "菅野祐悟", 0],
+    [8, "思想と尊厳", "菅野祐悟", 0],
+    [9, "シビュラの制圧", "菅野祐悟", 0],
+    [10, "現状整理", "菅野祐悟", 0],
+    [11, "シャンバラという天国", "菅野祐悟", 0],
+    [12, "破壊が追いかける", "菅野祐悟", 0],
+    [13, "捜査の一貫", "菅野祐悟", 0],
+    [14, "望み (Movie Mix)", "菅野祐悟", 0],
+    [15, "地に呪われたる者", "菅野祐悟", 0],
+    [16, "ゲリラ狩り", "菅野祐悟", 0],
+    [17, "悪夢", "菅野祐悟", 0],
+    [18, "独り善がり", "菅野祐悟", 0],
+    [19, "人と法を守るために (Movie Mix)", "菅野祐悟", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
+
+[65]
+catalognumber = "SRCL-8759"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 3 [SRCL-8759]"
+tracks = [
+    [1, "標的の探索", "菅野祐悟", 0],
+    [2, "組織暴力", "菅野祐悟", 0],
+    [3, "怒りの眼差し", "菅野祐悟", 0],
+    [4, "執行モード", "菅野祐悟", 0],
+    [5, "PSYCHO-PASS feat.AKANE (Movie Mix)", "菅野祐悟", 0],
+    [6, "槙島聖護 (Movie Mix)", "菅野祐悟", 0],
+    [7, "生み出された怪物 (Movie Mix)", "菅野祐悟", 0],
+    [8, "命の在り方 (Movie Mix)", "菅野祐悟", 0],
+    [9, "PSYCHO-PASS (Movie Mix)", "菅野祐悟", 0],
+    [10, "Who What Who What (Movie edit)", "凛として時雨", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
+
+[66]
+catalognumber = "SRCL-8753"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 1"
+tracks = [
+    [1, "PSYCHO-PASS feat.AKANE", "菅野祐悟", 0],
+    [2, "サイマティックスキャン", "菅野祐悟", 0],
+    [3, "ハレーション", "菅野祐悟", 0],
+    [4, "執行官", "菅野祐悟", 0],
+    [5, "What Color ?", "菅野祐悟", 0],
+    [6, "殺意の肯定", "菅野祐悟", 0],
+    [7, "忍び寄る虚実", "菅野祐悟", 0],
+    [8, "サイコパス汚染", "菅野祐悟", 0],
+    [9, "コントロール出来ません", "菅野祐悟", 0],
+    [10, "黒く染める力", "菅野祐悟", 0],
+    [11, "エリアストレス", "菅野祐悟", 0],
+    [12, "透明人間", "菅野祐悟", 0],
+    [13, "生体コンタクト", "菅野祐悟", 0],
+    [14, "全能者のパラドクス", "菅野祐悟", 0],
+    [15, "人と法を守るために", "菅野祐悟", 0],
+    [16, "裁きの場", "菅野祐悟", 0],
+    [17, "最後のキー", "菅野祐悟", 0],
+    [18, "生み出された怪物", "菅野祐悟", 0],
+    [19, "共同幻想", "菅野祐悟", 0],
+    [20, "ハングリーチキン", "菅野祐悟", 0],
+    [21, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
+    [22, "Fallen (TV Edit)", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
+
+[67]
+catalognumber = "SRCL-8754"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 2"
+tracks = [
+    [1, "2116.7", "菅野祐悟", 0],
+    [2, "朱の疑問", "菅野祐悟", 0],
+    [3, "あの人は⋯", "菅野祐悟", 0],
+    [4, "密入国", "菅野祐悟", 0],
+    [5, "脳波モンタージュ", "菅野祐悟", 0],
+    [6, "国外捜査", "菅野祐悟", 0],
+    [7, "思い", "菅野祐悟", 0],
+    [8, "思想と尊厳", "菅野祐悟", 0],
+    [9, "シビュラの制圧", "菅野祐悟", 0],
+    [10, "現状整理", "菅野祐悟", 0],
+    [11, "シャンバラという天国", "菅野祐悟", 0],
+    [12, "破壊が追いかける", "菅野祐悟", 0],
+    [13, "捜査の一貫", "菅野祐悟", 0],
+    [14, "望み (Movie Mix)", "菅野祐悟", 0],
+    [15, "地に呪われたる者", "菅野祐悟", 0],
+    [16, "ゲリラ狩り", "菅野祐悟", 0],
+    [17, "悪夢", "菅野祐悟", 0],
+    [18, "独り善がり", "菅野祐悟", 0],
+    [19, "人と法を守るために (Movie Mix)", "菅野祐悟", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
+
+[68]
+catalognumber = "SRCL-8755"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 3"
+tracks = [
+    [1, "標的の探索", "菅野祐悟", 0],
+    [2, "組織暴力", "菅野祐悟", 0],
+    [3, "怒りの眼差し", "菅野祐悟", 0],
+    [4, "執行モード", "菅野祐悟", 0],
+    [5, "PSYCHO-PASS feat.AKANE (Movie Mix)", "菅野祐悟", 0],
+    [6, "槙島聖護 (Movie Mix)", "菅野祐悟", 0],
+    [7, "生み出された怪物 (Movie Mix)", "菅野祐悟", 0],
+    [8, "命の在り方 (Movie Mix)", "菅野祐悟", 0],
+    [9, "PSYCHO-PASS (Movie Mix)", "菅野祐悟", 0],
+    [10, "Who What Who What (Movie edit)", "凛として時雨", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
+
+[69]
+catalognumber = "SRCL-8756"
+date = "2015-03-18"
+album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Video"
+tracks = [
+    [1, "｢PSYCHO-PASS サイコパス2 ｣ ノンテロップOP:凛として時雨 ｢Enigmatic Feeling｣(Final Edition)", "凛として時雨", -1],
+    [2, "｢PSYCHO-PASS サイコパス2｣ ノンテロップED:EGOIST ｢Fallen｣ (Final Edition)", "EGOIST", -1],
+    [3, "｢劇場版 PSYCHO-PASS サイコパス｣ ノンテロップOP:凛として時雨「Who What Who What｣", "凛として時雨", -1],
+    [4, "｢劇場版 PSYCHO-PASS サイコパス｣ ティザー予告PV", "菅野祐悟", -1],
+    [5, "｢劇場版 PSYCHO-PASS サイコパス｣ 本予告第1弾PV", "菅野祐悟", -1],
+    [6, "｢劇場版 PSYCHO-PASS サイコパス｣ 本予告第2弾PV", "菅野祐悟", -1],
+]
+links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
+
+[70]
+catalognumber = "TBR24815D-2"
+date = "2015-04-15"
+album = "サイコパス2 第5巻 特典CD"
+tracks = [
+    [1, "次代への狼煙", "", -1],
+]
+links = ["https://vgmdb.net/album/49219"]
+
+[71]
+catalognumber = "TBCD-0474"
+date = "2015-09-30"
+album = "ドラマCD「PSYCHO-PASS サイコパス 追跡者 縢秀星」上巻"
+tracks = []
+links = ["https://vgmdb.net/album/53886"]
+
+[72]
+catalognumber = "TBCD-0580"
+date = "2016-01-27"
+album = "ドラマCD「PSYCHO-PASS サイコパス 追跡者 縢秀星」下巻"
+tracks = []
+links = ["https://vgmdb.net/album/56066"]
+
+[73]
+catalognumber = "OMRS-0003"
+date = "2016-02-24"
+album = "菅野祐悟バレンタインコンサート2015"
+tracks = [
+    [1, "軍師官兵衛 メイン・テーマ", "", -1],
+    [2, "天才官兵衛", "", -1],
+    [3, "官兵衛走る", "", -1],
+    [4, "ATTENTION PLEASE -MAIN THEME-", "", -1],
+    [5, "アニュスデイ", "", -1],
+    [6, "トロンボーン協奏曲「Flower」より2楽章 AS TIME GOES BY", "", -1],
+    [7, "花咲舞が黙ってない", "", -1],
+    [8, "Security Police", "", -1],
+    [9, "ダブルフェイス-MAIN THEME-", "", -1],
+    [10, "Never Again", "", -1],
+    [11, "ガンダム Gのレコンギスタ", "", -1],
+    [12, "Gの閃光", "", -1],
+    [13, "ドミネーター", "", 0],
+    [14, "PSYCHO-PASS", "", 0],
+    [15, "スターダストクルセイダース", "", -1],
+    [16, "MOZU", "", -1],
+    [17, "春の足音", "", -1],
+]
+links = ["https://vgmdb.net/album/76079"]
+
+[74]
+catalognumber = "SCGA-00053"
+date = "2016-08-24"
+album = "ANISON PIANO 2 -marasy animation songs cover on piano-"
+tracks = [
+    [1, "名前のない怪物", "まらしぃ", 0],
+    [2, "LEVEL5-judgelight-", "まらしぃ", -1],
+    [3, "this game", "まらしぃ", -1],
+    [4, "めざせポケモンマスター", "まらしぃ", -1],
+    [5, "メリッサ", "まらしぃ", -1],
+    [6, "Believe", "まらしぃ", -1],
+    [7, "unravel", "まらしぃ", -1],
+    [8, "ラムのラブソング", "まらしぃ", -1],
+    [9, "タッチ", "まらしぃ", -1],
+    [10, "ガーネット", "まらしぃ", -1],
+    [11, "ようかい体操第一", "まらしぃ", -1],
+    [12, "ギミー！レボリューション", "まらしぃ", -1],
+    [13, "シュガーソングとビターステップ", "まらしぃ", -1],
+    [14, "secret base 〜君がくれたもの〜", "まらしぃ", -1],
+    [15, "創聖のアクエリオン", "まらしぃ feat. 小湊昭尚(尺八)", -1],
+]
+links = ["https://beta.musicbrainz.org/release/bc7ea5a0-aa9d-4582-a373-80792ac42a77", "https://vgmdb.net/album/61458"]
+
+[75]
+catalognumber = "OMR-0006"
+date = "2017-02-12"
+album = "菅野祐悟スプリングコンサート2016"
+tracks = [
+    [1, "花咲舞が黙ってない", "", -1],
+    [2, "世界でもっとも美しい場所", "", -1],
+    [3, "ガンダム Gのレコンギスタ", "", -1],
+    [4, "湾岸の要塞", "", -1],
+    [5, "永遠の土", "", -1],
+    [6, "トロンボーン協奏曲「flower」 より 『第3楽章 Flower note』", "", -1],
+    [7, "軍師官兵衛 メイン・テーマ", "", -1],
+    [8, "アイムホーム-MAIN THEME-", "", -1],
+    [9, "Double Moon", "", -1],
+    [10, "MOZU", "", -1],
+    [11, "Never Again", "", -1],
+    [12, "AJIN MAIN THEME", "", -1],
+    [13, "PSYCHO-PASS", "", 0],
+    [14, "スターダストクルセイダース", "", -1],
+    [15, "銭の戦争", "", -1],
+    [16, "Security Police", "", -1],
+    [17, "story", "", -1],
+]
+links = ["https://vgmdb.net/album/131935"]
+
+[76]
+catalognumber = "VVCL-1153"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Disc 1 (CD) [VVCL-1153]"
+tracks = [
+    [1, "英雄 運命の詩", "EGOIST", -1],
+    [2, "Welcome to the *fam", "EGOIST", -1],
+    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
+    [4, "Door", "EGOIST", -1],
+    [5, "Ghost of a smile", "EGOIST", -1],
+    [6, "リローデッド", "EGOIST", -1],
+    [7, "Fallen", "EGOIST", 0],
+    [8, "好きと言われた日", "EGOIST", -1],
+    [9, "All Alone With You", "EGOIST", 0],
+    [10, "カナデナル", "EGOIST", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", -1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
+    [14, "エウテルペ", "EGOIST", -1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/4b852733-a35f-4ec4-be30-2a46c1184268", "https://vgmdb.net/album/72550"]
+
+[77]
+catalognumber = "VVCL-1154"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Disc 2 (DVD) [VVCL-1154]"
+tracks = [
+    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
+    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
+    [3, "\"Planetes\" Music Video", "EGOIST", -1],
+    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
+    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
+    [6, "\"Fallen\" Music Video", "EGOIST", -1],
+    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
+    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
+    [9, "\"Door\" Music Video", "EGOIST", -1],
+    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
+    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
+    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/4b852733-a35f-4ec4-be30-2a46c1184268", "https://vgmdb.net/album/72550"]
+
+[78]
+catalognumber = "VVCL-1155"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST"
+tracks = [
+    [1, "英雄 運命の詩", "EGOIST", -1],
+    [2, "Welcome to the *fam", "EGOIST", -1],
+    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
+    [4, "Door", "EGOIST", -1],
+    [5, "Ghost of a smile", "EGOIST", -1],
+    [6, "リローデッド", "EGOIST", -1],
+    [7, "Fallen", "EGOIST", 0],
+    [8, "好きと言われた日", "EGOIST", -1],
+    [9, "All Alone With You", "EGOIST", 0],
+    [10, "カナデナル", "EGOIST", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", -1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
+    [14, "エウテルペ", "EGOIST", -1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/97ff9864-2b70-407f-b7dc-5fab065923f8", "https://vgmdb.net/album/72547"]
+
+[79]
+catalognumber = "VVCL-1151"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Arrangement, Vocal, Remaster"
+tracks = [
+    [1, "英雄 運命の詩", "EGOIST", -1],
+    [2, "Welcome to the *fam", "EGOIST", -1],
+    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
+    [4, "Door", "EGOIST", -1],
+    [5, "Ghost of a smile", "EGOIST", -1],
+    [6, "リローデッド", "EGOIST", -1],
+    [7, "Fallen", "EGOIST", 0],
+    [8, "好きと言われた日", "EGOIST", -1],
+    [9, "All Alone With You", "EGOIST", 0],
+    [10, "カナデナル", "EGOIST", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", -1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
+    [14, "エウテルペ", "EGOIST", -1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/9c518c51-5e88-4e24-a1cf-bb074513d370", "https://vgmdb.net/album/72549"]
+
+[80]
+catalognumber = "VVCL-1152"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Arrangement, Vocal"
+tracks = [
+    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
+    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
+    [3, "\"Planetes\" Music Video", "EGOIST", -1],
+    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
+    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
+    [6, "\"Fallen\" Music Video", "EGOIST", -1],
+    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
+    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
+    [9, "\"Door\" Music Video", "EGOIST", -1],
+    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
+    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
+    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/9c518c51-5e88-4e24-a1cf-bb074513d370", "https://vgmdb.net/album/72549"]
+
+[81]
+catalognumber = "VVCL-1148, VVCL-1149, VVCL-1150"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Vocal Disc 1"
+tracks = [
+    [1, "英雄 運命の詩", "EGOIST", -1],
+    [2, "Welcome to the *fam", "EGOIST", -1],
+    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
+    [4, "Door", "EGOIST", -1],
+    [5, "Ghost of a smile", "EGOIST", -1],
+    [6, "リローデッド", "EGOIST", -1],
+    [7, "Fallen", "EGOIST", 0],
+    [8, "好きと言われた日", "EGOIST", -1],
+    [9, "All Alone With You", "EGOIST", 0],
+    [10, "カナデナル", "EGOIST", 0],
+    [11, "名前のない怪物", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", -1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
+    [14, "エウテルペ", "EGOIST", -1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/980b7a4a-a174-4681-83c6-52e846345b1a", "https://vgmdb.net/album/72548"]
+
+[82]
+catalognumber = "VVCL-1148, VVCL-1149, VVCL-1150"
+date = "2017-12-27"
+album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Vocal Disc 2"
+tracks = [
+    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
+    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
+    [3, "\"Planetes\" Music Video", "EGOIST", -1],
+    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
+    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
+    [6, "\"Fallen\" Music Video", "EGOIST", -1],
+    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
+    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
+    [9, "\"Door\" Music Video", "EGOIST", -1],
+    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
+    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
+    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/980b7a4a-a174-4681-83c6-52e846345b1a", "https://vgmdb.net/album/72548"]
+
+[83]
 catalognumber = "VVCL-1387"
 date = "2019-01-23"
 album = "MiX ～面白いほどよくわかるノンストップSACRA MUSIC～"
@@ -662,381 +1384,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3bc10fbc-e9ee-49bd-80be-f761b96b3fa0", "https://vgmdb.net/album/82372"]
 
-[42]
-catalognumber = "SRCL-8240"
-date = "2013-03-06"
-album = "All Alone With You / EGOIST"
-tracks = [
-    [1, "All Alone With You", "EGOIST", 1],
-    [2, "elbadaernU", "EGOIST", 0],
-    [3, "All Alone With You (TV Edit)", "EGOIST", 0],
-    [4, "All Alone With You -Instrumental-", "EGOIST", 0],
-    [5, "elbadaernU -Instrumental-", "EGOIST", 0],
-    [6, "All Alone With You (TV Edit) -Instrumental-", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/1b6dd873-65dc-4045-9c0e-3d7d4f65549a", "https://vgmdb.net/album/36952"]
-
-[43]
-catalognumber = "VVCL-1155"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST"
-tracks = [
-    [1, "英雄 運命の詩", "EGOIST", -1],
-    [2, "Welcome to the *fam", "EGOIST", -1],
-    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
-    [4, "Door", "EGOIST", -1],
-    [5, "Ghost of a smile", "EGOIST", -1],
-    [6, "リローデッド", "EGOIST", -1],
-    [7, "Fallen", "EGOIST", 0],
-    [8, "好きと言われた日", "EGOIST", -1],
-    [9, "All Alone With You", "EGOIST", 0],
-    [10, "カナデナル", "EGOIST", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", -1],
-    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
-    [14, "エウテルペ", "EGOIST", -1],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/97ff9864-2b70-407f-b7dc-5fab065923f8", "https://vgmdb.net/album/72547"]
-
-[44]
-catalognumber = "AIXX-01522"
-date = "2019-04-18"
-album = "laser beamer / 凛として時雨"
-tracks = [
-    [1, "laser beamer", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/50ca2fca-e80d-4a1b-a570-b005fb42ee67", "https://vgmdb.net/album/86015"]
-
-[45]
-catalognumber = "VVCL-1151"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Arrangement, Vocal, Remaster"
-tracks = [
-    [1, "英雄 運命の詩", "EGOIST", -1],
-    [2, "Welcome to the *fam", "EGOIST", -1],
-    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
-    [4, "Door", "EGOIST", -1],
-    [5, "Ghost of a smile", "EGOIST", -1],
-    [6, "リローデッド", "EGOIST", -1],
-    [7, "Fallen", "EGOIST", 0],
-    [8, "好きと言われた日", "EGOIST", -1],
-    [9, "All Alone With You", "EGOIST", 0],
-    [10, "カナデナル", "EGOIST", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", -1],
-    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
-    [14, "エウテルペ", "EGOIST", -1],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/9c518c51-5e88-4e24-a1cf-bb074513d370", "https://vgmdb.net/album/72549"]
-
-[46]
-catalognumber = "VVCL-1152"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Arrangement, Vocal"
-tracks = [
-    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
-    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
-    [3, "\"Planetes\" Music Video", "EGOIST", -1],
-    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
-    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
-    [6, "\"Fallen\" Music Video", "EGOIST", -1],
-    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
-    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
-    [9, "\"Door\" Music Video", "EGOIST", -1],
-    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
-    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
-    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/9c518c51-5e88-4e24-a1cf-bb074513d370", "https://vgmdb.net/album/72549"]
-
-[47]
-catalognumber = "TBZD-0173"
-date = "2013-11-27"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 1 [TBZD-0173]"
-tracks = [
-    [1, "しょうじきもののおうじさま", "", -1],
-    [2, "わるいまほうつかいたいじ", "", -1],
-    [3, "なまえのないかいぶつ", "", -1],
-]
-links = ["https://vgmdb.net/album/51756"]
-
-[48]
-catalognumber = "TBZD-0174"
-date = "2013-11-27"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 2 [TBZD-0174]"
-tracks = [
-    [1, "ひみつのゆりかご～名前のない怪物", "", -1],
-    [2, "名前のない座談会", "", -1],
-    [3, "おまけドラマ「気まぐれな犯罪者たち」", "", -1],
-]
-links = ["https://vgmdb.net/album/51756"]
-
-[49]
-catalognumber = "SRCL-8238"
-date = "2013-03-06"
-album = "All Alone With You / EGOIST [Limited Edition] Disc 1 (CD) [SRCL-8238-9]"
-tracks = [
-    [1, "All Alone With You", "EGOIST", 0],
-    [2, "elbadaernU", "EGOIST", 0],
-    [3, "All Alone With You (TV Edit)", "EGOIST", 0],
-    [4, "All Alone With You -Instrumental-", "EGOIST", 0],
-    [5, "elbadaernU -Instrumental-", "EGOIST", 0],
-    [6, "All Alone With You (TV Edit) -Instrumental-", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0fb13f2d-5872-451d-8359-13e219eb4254", "https://vgmdb.net/album/36951"]
-
-[50]
-catalognumber = "SRCL-8239"
-date = "2013-03-06"
-album = "All Alone With You / EGOIST [Limited Edition] Disc 2 (DVD) [SRCL-8238-9]"
-tracks = [
-    [1, "｢All Alone With You｣Music Video", "EGOIST", -1],
-    [2, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/0fb13f2d-5872-451d-8359-13e219eb4254", "https://vgmdb.net/album/36951"]
-
-[51]
-catalognumber = "SNCL-83"
-date = "2023-08-17"
-album = "Astrolabe / カグラナナ [完全生産限定盤] Disc 1 [SNCL-83]"
-tracks = [
-    [1, "シアワセ辛略計画", "カグラナナ", -1],
-    [2, "Burn Ash", "カグラナナ", -1],
-    [3, "恋ひ渡る雨粒", "カグラナナ", -1],
-    [4, "君がくれた音", "カグラナナ", -1],
-    [5, "ナナイロセカイ <Eurobeat Arranged by Nor>", "カグラナナ", -1],
-    [6, "陽炎 <Drum’n’Bass Arranged by Len>", "カグラナナ", -1],
-    [7, "鼓動 <Piano Arranged by 40mP>", "カグラナナ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/83d964d7-01fe-4c8a-b2a5-e0708861d6c5", "https://vgmdb.net/album/136732"]
-
-[52]
-catalognumber = "SNCL-84"
-date = "2023-08-17"
-album = "Astrolabe / カグラナナ [完全生産限定盤] Disc 2 [SNCL-84]"
-tracks = [
-    [1, "DISCOTHEQUE", "カグラナナ", -1],
-    [2, "ブラック★ロックシューター", "カグラナナ", -1],
-    [3, "名前のない怪物", "カグラナナ", 0],
-    [4, "STAR RISE", "カグラナナ", -1],
-    [5, "群青", "カグラナナ", -1],
-    [6, "HIGHSCHOOL OF THE DEAD", "カグラナナ", -1],
-    [7, "letter song", "カグラナナ", -1],
-]
-links = ["https://beta.musicbrainz.org/release/83d964d7-01fe-4c8a-b2a5-e0708861d6c5", "https://vgmdb.net/album/136732"]
-
-[53]
-catalognumber = "AICL-3997"
-date = "2021-01-20"
-album = "Perfake Perfect / 凛として時雨 [初回限定盤] Vocal"
-tracks = [
-    [1, "Perfake Perfect", "凛として時雨", -1],
-    [2, "Perfake Perfect (Instrumental)", "凛として時雨", -1],
-    [3, "Perfake Perfect inspired by PSYCHO‐PASS Virtue and Vice 2", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/bb17a6c8-7c15-4481-8b0d-323a0faced2d", "https://vgmdb.net/album/106566"]
-
-[54]
-catalognumber = "AICL-3998"
-date = "2021-01-20"
-album = "Perfake Perfect / 凛として時雨 [初回限定盤] Vocal, Live Event, Video"
-tracks = [
-    [1, "Sadistic Summer", "", -1],
-    [2, "テレキャスターの真実", "", -1],
-    [3, "CRAZY感情STYLE", "", -1],
-    [4, "トルネードG", "", -1],
-    [5, "O.F.T", "", -1],
-    [6, "Acoustic", "", -1],
-    [7, "ターボチャージャーON", "", -1],
-    [8, "Telecastic fake show", "", -1],
-    [9, "DISCO FLIGHT", "", -1],
-    [10, "想像のSecurity", "", -1],
-    [11, "鮮やかな殺人", "", -1],
-    [12, "TK in the 夕景", "", -1],
-    [13, "傍観", "", -1],
-    [14, "abnormalize (From Rehearsal Shoot)", "", 0],
-]
-links = ["https://vgmdb.net/album/106566"]
-
-[55]
-catalognumber = "OMRS-0001"
-date = "2014-02-08"
-album = "菅野祐悟スプリングコンサート2013"
-tracks = [
-    [1, "インターミッション~愛のテーマ~", "", -1],
-    [2, "レジデント~私の選んだ道~", "", -1],
-    [3, "ホタルノヒカリ -OPENING TITLE-", "", -1],
-    [4, "新参者 -MAIN THEME-", "", -1],
-    [5, "シェアハウスの恋人~TERRA~", "", -1],
-    [6, "pack up Hopes", "", -1],
-    [7, "PSYCHO-PASS Symphony", "", 0],
-    [8, "図書館戦争 革命のつばさ", "", -1],
-    [9, "ダブルフェイス -MAIN THEME-", "", -1],
-    [10, "LIFE ~「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」メインテーマ~", "", -1],
-    [11, "湾岸の要塞", "", -1],
-    [12, "探偵ガリレオ", "", -1],
-    [13, "影山のテーマ", "", -1],
-    [14, "ダーティ★ママ!-MAIN THEME-", "", -1],
-    [15, "Security Police", "", -1],
-    [16, "Dear.", "", -1],
-]
-links = ["https://vgmdb.net/album/44821"]
-
-[56]
-catalognumber = "AIJL-5340"
-date = "2023-06-07"
-album = "PSYCHO-PASS: Cutting the Digital Domination / 凛として時雨"
-tracks = [
-    [1, "abnormalize", "", 0],
-    [2, "Enigmatic Feeling", "", 0],
-    [3, "Who What Who What", "", 0],
-    [4, "アレキシサイミアスペア", "", -1],
-    [5, "laser beamer", "", -1],
-    [6, "Perfake Perfect", "", -1],
-]
-links = ["https://vgmdb.net/album/128375"]
-
-[57]
-catalognumber = "AICL-4358"
-date = "2023-05-10"
-album = "アレキシサイミアスペア / 凛として時雨 [完全生産限定盤] Disc 1 (CD) [AICL-4358]"
-tracks = [
-    [1, "アレキシサイミアスペア", "凛として時雨", -1],
-    [2, "アレキシサイミアスペア (Movie edit)", "凛として時雨", -1],
-    [3, "アレキシサイミアスペア (Instrumental)", "凛として時雨", -1],
-    [4, "abnormalize (10th anniversary mix)", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/423d910f-7088-46b5-96f6-ddcd536326f9", "https://vgmdb.net/album/128374"]
-
-[58]
-catalognumber = "AICL-4359"
-date = "2023-05-10"
-album = "アレキシサイミアスペア / 凛として時雨 [完全生産限定盤] Disc 2 (Blu-ray) [AICL-4359]"
-tracks = [
-    [1, "『劇場版 PSYCHO‐PASS サイコパス PROVIDENCE』ノンクレジットOP", "凛として時雨", -1],
-    [2, "アレキシサイミアスペア (Music Video)", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/423d910f-7088-46b5-96f6-ddcd536326f9", "https://vgmdb.net/album/128374"]
-
-[59]
-catalognumber = "AICL-3783"
-date = "2019-11-20"
-album = "bullet / Cö shu Nie [期間生産限定盤A]"
-tracks = [
-    [1, "bullet", "Cö shu Nie", -1],
-    [2, "絶体絶命 (piano ver.)", "Cö shu Nie", -1],
-    [3, "Lamp (piano ver.)", "Cö shu Nie", -1],
-    [4, "bullet (Instrumental)", "Cö shu Nie", -1],
-    [5, "bullet (Slushii Remix)", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/97f2ecdb-e4b3-43cf-885e-a060efe04745", "https://vgmdb.net/album/90909"]
-
-[60]
-catalognumber = "TBR22422D-2"
-date = "2013-01-25"
-album = "PSYCHO-PASS SOUNDTRACK VOL.1"
-tracks = [
-    [1, "PSYCHO-PASS", "菅野祐悟", 0],
-    [2, "その銃口は、正義を支配する", "菅野祐悟", 0],
-    [3, "犯罪係数", "菅野祐悟", 0],
-    [4, "人の心", "菅野祐悟", 0],
-    [5, "公安局刑事課一係", "菅野祐悟", 0],
-    [6, "シビュラシステム", "菅野祐悟", 0],
-    [7, "猟犬の嗅覚", "菅野祐悟", 0],
-    [8, "刑事の勘", "菅野祐悟", 0],
-    [9, "観察眼", "菅野祐悟", 0],
-    [10, "強迫観念", "菅野祐悟", 0],
-    [11, "秩序", "菅野祐悟", 0],
-    [12, "ボーダーライン", "菅野祐悟", 0],
-    [13, "ドミネーター", "菅野祐悟", 0],
-    [14, "法と秩序", "菅野祐悟", 0],
-    [15, "命の在り方", "菅野祐悟", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6167bf57-af0f-4cd5-8aca-97321b850226", "https://vgmdb.net/album/35900"]
-
-[61]
-catalognumber = "SECL-2562"
-date = "2020-04-15"
-album = "wyxt. / Who-ya Extended"
-tracks = [
-    [1, "Synthetic Sympathy", "Who‐ya Extended", -1],
-    [2, "Killing My Fear", "Who‐ya Extended", -1],
-    [3, "Dogma‐Agnostic", "Who‐ya Extended", -1],
-    [4, "ErroЯ CØDE", "Who‐ya Extended", -1],
-    [5, "Slight light life", "Who‐ya Extended", -1],
-    [6, "Too late to know", "Who‐ya Extended", -1],
-    [7, "●REC ON", "Who‐ya Extended", -1],
-    [8, "G.O.A.T", "Who‐ya Extended", -1],
-    [9, "memorized.", "Who‐ya Extended", -1],
-    [10, "Q‐vism", "Who‐ya Extended", -1],
-]
-links = ["https://beta.musicbrainz.org/release/b25a45c0-cca2-4296-a73c-a99380950163", "https://vgmdb.net/album/97238"]
-
-[62]
-catalognumber = "SRCL-8639"
-date = "2014-11-19"
-album = "Fallen / EGOIST"
-tracks = [
-    [1, "Fallen", "EGOIST", 0],
-    [2, "1.4.2", "EGOIST", 1],
-    [3, "Fallen (TV Edit)", "EGOIST", 0],
-    [4, "Fallen -Instrumental-", "EGOIST", 0],
-    [5, "1.4.2 -Instrumental-", "EGOIST", 0],
-    [6, "Fallen (TV Edit) -Instrumental-", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/41254e15-f263-4c72-a3b4-fda2985ca33b", "https://vgmdb.net/album/47766"]
-
-[63]
-catalognumber = "WP-09430"
-date = "2014-03-11"
-album = "PSYCHO-PASS SEASON ONE OST Disc 1 [CD-09430A]"
-tracks = [
-    [1, "PSYCHO-PASS", "菅野祐悟", 0],
-    [2, "The System Holds Justice at Gunpoint", "菅野祐悟", -1],
-    [3, "Crime Coefficient", "菅野祐悟", -1],
-    [4, "The Human Heart", "菅野祐悟", -1],
-    [5, "Public Safety Bureau Criminal Investigation Department, Division 1", "菅野祐悟", -1],
-    [6, "The Sibyl System", "菅野祐悟", -1],
-    [7, "A Hunting Dog's Sense of Smell", "菅野祐悟", -1],
-    [8, "Detective Instinct", "菅野祐悟", -1],
-    [9, "Sharp Eyes", "菅野祐悟", -1],
-    [10, "Obsession", "菅野祐悟", -1],
-    [11, "The Public Order", "菅野祐悟", -1],
-    [12, "Borderline", "菅野祐悟", -1],
-    [13, "Dominator", "菅野祐悟", -1],
-    [14, "Law And Order", "菅野祐悟", -1],
-    [15, "The State of My Life", "菅野祐悟", -1],
-]
-links = ["https://beta.musicbrainz.org/release/133b6353-741e-41c5-a066-194b564f631c", "https://vgmdb.net/album/51651"]
-
-[64]
-catalognumber = "WP-09430"
-date = "2014-03-11"
-album = "PSYCHO-PASS SEASON ONE OST Disc 2 [CD-09430B]"
-tracks = [
-    [1, "Latent Criminal", "菅野祐悟", -1],
-    [2, "A World of Contradictions", "菅野祐悟", -1],
-    [3, "The Importance of Life", "菅野祐悟", -1],
-    [4, "Light", "菅野祐悟", -1],
-    [5, "Faith", "菅野祐悟", -1],
-    [6, "Abolition Block", "菅野祐悟", -1],
-    [7, "Icons", "菅野祐悟", -1],
-    [8, "Crime Games", "菅野祐悟", -1],
-    [9, "Psycho-Hazard", "菅野祐悟", -1],
-    [10, "Mentality", "菅野祐悟", -1],
-    [11, "Saint's Supper", "菅野祐悟", -1],
-    [12, "Perception of God", "菅野祐悟", -1],
-    [13, "Paradise", "菅野祐悟", -1],
-    [14, "Shogo Makishima", "菅野祐悟", -1],
-    [15, "PSYCHO-PASS Symphony", "菅野祐悟", 0],
-]
-links = ["https://beta.musicbrainz.org/release/133b6353-741e-41c5-a066-194b564f631c", "https://vgmdb.net/album/51651"]
-
-[65]
+[84]
 catalognumber = "SRCL-11075"
 date = "2019-04-03"
 album = "PSYCHO-PASS Sinners of the System Theme songs+ Dedicated by 中野雅之"
@@ -1055,139 +1403,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c5aab546-4b41-4b7c-bc06-c6e4e7fd877b", "https://vgmdb.net/album/84201"]
 
-[66]
-catalognumber = "SRCL-8149"
-date = "2012-12-05"
-album = "名前のない怪物 / EGOIST"
-tracks = [
-    [1, "prelude", "クラッシャー木村", 0],
-    [2, "名前のない怪物", "EGOIST", 0],
-    [3, "カナデナル", "EGOIST", 0],
-    [4, "名前のない怪物 (TV Edit 92s ver)", "EGOIST", 0],
-    [5, "名前のない怪物 -Instrumental-", "EGOIST", 0],
-    [6, "カナデナル -Instrumental-", "EGOIST", 0],
-    [7, "名前のない怪物 (TV Edit 92s ver) -Instrumental-", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/e9d3b35c-a4b4-4669-a9c8-2e35467cb78e", "https://vgmdb.net/album/35318"]
-
-[67]
-catalognumber = "SICL-30002"
-date = "2014-01-29"
-album = "thanks! ～菅野祐悟 ベストセレクション～"
-tracks = [
-    [1, "新参者 -MAIN THEME- (TBS系 日曜劇場「新参者」より)", "", -1],
-    [2, "PSYCHO-PASS (フジテレビ系アニメ「PSYCHO-PASS サイコパス」より)", "", 0],
-    [3, "Security Police -Movie Version- (映画「SP野望篇」より)", "", -1],
-    [4, "影山のテーマ (フジテレビ系ドラマ「謎解きはディナーのあとで」より)", "", -1],
-    [5, "世界で最も美しい場所 (piano & strings version) (映画「アマルフィ 女神の報酬」より)", "", -1],
-    [6, "自動車革命オープニングテーマ (NHKスペシャル「自動車革命」より)", "", -1],
-    [7, "MR.BRAIN (TBS系ドラマ「MR.BRAIN」より)", "", -1],
-    [8, "アンダルシア 女神の報復 (映画「アンダルシア 女神の報復」より)", "", -1],
-    [9, "ダブルフェイス (TBS・WOWOW共同制作ドラマ「ダブルフェイス 潜入捜査篇&偽装警察篇」より)", "", -1],
-    [10, "LIFE～「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」～メインテーマ (piano & strings version) (映画「踊る大捜査線THE MOVIE3 ヤツらを解放せよ!」より", "", -1],
-    [11, "ホタルノヒカリ-OPENING TITLE- (piano & strings version) (映画「ホタルノヒカリ」より)", "", -1],
-    [12, "外交官・黒田康作 (フジテレビ系ドラマ「外交官・黒田康作」より)", "", -1],
-    [13, "不毛地帯～生きて歴史の証人たれ～ (フジテレビ系ドラマ「不毛地帯」より)", "", -1],
-    [14, "ソナチネ (quartet version) (映画「真夏の方程式」より)", "", -1],
-    [15, "探偵ガリレオ (piano & strings version) (フジテレビ系ドラマ「ガリレオ シーズン2」より)", "", -1],
-    [16, "Au petit jour", "", -1],
-]
-links = ["https://vgmdb.net/album/42936"]
-
-[68]
-catalognumber = "TBZD-0154"
-date = "2013-09-25"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻 Disc 1 [TBZD-0154]"
-tracks = [
-    [1, "むかしばなしをはじめようか", "", -1],
-    [2, "おひめさまとおうじさま", "", -1],
-    [3, "わるいまほうつかいののろい", "", -1],
-    [4, "ふたりのおしろ", "", -1],
-]
-links = ["https://vgmdb.net/album/51754"]
-
-[69]
-catalognumber = "TBZD-0155"
-date = "2013-09-25"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 上巻 Disc 2 [TBZD-0155]"
-tracks = [
-    [1, "名前のない座談会", "", -1],
-    [2, "おまけドラマ「刑事たちの短い平穏」", "", -1],
-]
-links = ["https://vgmdb.net/album/51754"]
-
-[70]
-catalognumber = "AICL-2452"
-date = "2012-11-14"
-album = "abnormalize / 凛として時雨 Vocal"
-tracks = [
-    [1, "abnormalize", "凛として時雨", 0],
-    [2, "make up syndrome", "凛として時雨", 0],
-    [3, "abnormalize (TV edit)", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/b2d204c2-ddcf-45b1-a1b7-e855a915bb56", "https://vgmdb.net/album/35218"]
-
-[71]
-catalognumber = "AICL-2453"
-date = "2012-11-14"
-album = "abnormalize / 凛として時雨 Video"
-tracks = [
-    [1, "「abnormalize」music video", "凛として時雨", -1],
-    [2, "「PSYCHO-PASS サイコパス」non-credit opening movie", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/b2d204c2-ddcf-45b1-a1b7-e855a915bb56", "https://vgmdb.net/album/35218"]
-
-[72]
-catalognumber = "AICL-2761"
-date = "2014-11-05"
-album = "Enigmatic Feeling / 凛として時雨"
-tracks = [
-    [1, "Enigmatic Feeling", "凛として時雨", 0],
-    [2, "Dynamite Nonsense", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/d11ddd23-15a8-4975-85ad-eb301f08fcc3", "https://vgmdb.net/album/48156"]
-
-[73]
-catalognumber = "BRMM-10308"
-date = "2021-01-20"
-album = "D4DJ Groovy Mix カバートラックス vol.1"
-tracks = [
-    [1, "恋愛レボリューション21", "Happy Around!", -1],
-    [2, "DAYS", "Happy Around!", -1],
-    [3, "マジLOVE1000%", "Peaky P-key", -1],
-    [4, "JUST COMMUNICATION", "Peaky P-key", -1],
-    [5, "sakura", "Photon Maiden", -1],
-    [6, "シドニア", "Photon Maiden", -1],
-    [7, "キューティーハニー", "Merm4id", -1],
-    [8, "DISCOTHEQUE", "Merm4id", -1],
-    [9, "名前のない怪物", "燐舞曲", 0],
-    [10, "DESIRE -情熱-", "燐舞曲", -1],
-    [11, "ふ・れ・ん・ど・し・た・い", "Lyrical Lily", -1],
-    [12, "タッチ", "Lyrical Lily", -1],
-]
-links = ["https://beta.musicbrainz.org/release/9d8d7778-0c05-4220-a8b7-165676dc7047", "https://vgmdb.net/album/101934"]
-
-[74]
-catalognumber = "TBZD-0175"
-date = "2013-11-27"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 1 [TBZD-0175]"
-tracks = [
-    [1, "しょうじきもののおうじさま", "", -1],
-    [2, "わるいまほうつかいたいじ", "", -1],
-    [3, "なまえのないかいぶつ", "", -1],
-]
-links = ["https://vgmdb.net/album/51755"]
-
-[75]
-catalognumber = "TBZD-0176"
-date = "2013-11-27"
-album = "PSYCHO-PASS サイコパス/ゼロ 名前のない怪物 下巻 Disc 2 [TBZD-0176]"
-tracks = [
-    [1, "ひみつのゆりかご～名前のない怪物", "", -1],
-]
-links = ["https://vgmdb.net/album/51755"]
-
-[76]
+[85]
 catalognumber = "AICL-3676"
 date = "2019-04-03"
 album = "平成アニソン大賞 mixed by DJ和"
@@ -1238,69 +1454,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/40ab68df-50ba-4fd6-b295-d04708d93435", "https://vgmdb.net/album/91475"]
 
-[77]
-catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
-date = "2015-01-14"
-album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Arrangement, Vocal"
-tracks = [
-    [1, "JPOP Xfile", "凛として時雨", -1],
-    [2, "Telecastic fake show", "凛として時雨", -1],
-    [3, "abnormalize", "凛として時雨", 0],
-    [4, "illusion is mine", "凛として時雨", -1],
-    [5, "想像のSecurity (2015 mix)", "凛として時雨", -1],
-    [6, "DISCO FLIGHT", "凛として時雨", -1],
-    [7, "moment A rhythm (short Ver.)", "凛として時雨", -1],
-    [8, "Beautiful Circus", "凛として時雨", -1],
-    [9, "I was music", "凛として時雨", -1],
-    [10, "鮮やかな殺人 (2015 mix)", "凛として時雨", -1],
-    [11, "テレキャスターの真実 (2015 mix)", "凛として時雨", -1],
-    [12, "nakano kill you (2015 mix)", "凛として時雨", -1],
-    [13, "Enigmatic Feeling (2015 mix)", "凛として時雨", 0],
-    [14, "Missing ling", "凛として時雨", -1],
-    [15, "傍観", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
-
-[78]
-catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
-date = "2015-01-14"
-album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Video"
-tracks = [
-    [1, "Sadistic Summer (Music Video)", "凛として時雨", -1],
-    [2, "想像のSecurity (Music Video)", "凛として時雨", -1],
-    [3, "DISCO FLIGHT (Music Video)", "凛として時雨", -1],
-    [4, "Telecastic fake show (Music Video)", "凛として時雨", -1],
-    [5, "JPOP Xfile (Music Video)", "凛として時雨", -1],
-    [6, "I was music (Music Video)", "凛として時雨", -1],
-    [7, "illusion is mine (Music Video)", "凛として時雨", -1],
-    [8, "abnormalize (Music Video)", "凛として時雨", 0],
-    [9, "Beautiful Circus (Music Video)", "凛として時雨", -1],
-    [10, "Metamorphose (Music Video)", "凛として時雨", -1],
-    [11, "Enigmatic Feeling (Music Video)", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
-
-[79]
-catalognumber = "AICL-2797, AICL-2798, AICL-2799, AICL-2800"
-date = "2015-01-14"
-album = "Best of Tornado / 凛として時雨 [Hyper Tornado Edition] Vocal"
-tracks = [
-    [1, "鮮やかな殺人 (from Demo Tape)", "凛として時雨", -1],
-    [2, "TK in the 夕景 (from Demo Tape)", "凛として時雨", -1],
-    [3, "テレキャスターの真実", "凛として時雨", -1],
-    [4, "赤い誘惑", "凛として時雨", -1],
-    [5, "Sergio Echigo", "凛として時雨", -1],
-    [6, "傍観", "凛として時雨", -1],
-    [7, "CRAZY感情STYLE (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
-    [8, "ラストダンスレボリューション (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
-    [9, "Acoustic (from 2006.12.2 Live at SHINJUKU LOFT)", "凛として時雨", -1],
-    [10, "Sadistic Summer (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
-    [11, "赤い誘惑 (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
-    [12, "夕景の記憶 (from 2007.11.11 Live at SHIBUYA-AX)", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/79bacc68-946a-4c0a-8db7-2cfe5380fe09", "https://vgmdb.net/album/49334"]
-
-[80]
+[86]
 catalognumber = "SRCL-11073"
 date = "2019-04-03"
 album = "PSYCHO-PASS Sinners of the System Theme songs+ Dedicated by 中野雅之 Vocal Disc 1"
@@ -1319,7 +1473,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84202"]
 
-[81]
+[87]
 catalognumber = "SRCL-11074"
 date = "2019-04-03"
 album = "PSYCHO-PASS Sinners of the System Theme songs+ Dedicated by 中野雅之 Vocal Disc 2"
@@ -1337,7 +1491,254 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84202"]
 
-[82]
+[88]
+catalognumber = "AIXX-01522"
+date = "2019-04-18"
+album = "laser beamer / 凛として時雨"
+tracks = [
+    [1, "laser beamer", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/50ca2fca-e80d-4a1b-a570-b005fb42ee67", "https://vgmdb.net/album/86015"]
+
+[89]
+catalognumber = "AICL-3720"
+date = "2019-07-03"
+album = "Neighbormind/laser beamer / 凛として時雨 Disc 1 (CD) [AICL-3720]"
+tracks = [
+    [1, "Neighbormind", "凛として時雨", -1],
+    [2, "laser beamer", "凛として時雨", -1],
+    [3, "Neighbormind (Instrumental)", "凛として時雨", -1],
+    [4, "laser beamer (Instrumental)", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/3d2fcd7e-7582-4ee4-aea3-dcc057d25764", "https://vgmdb.net/album/86047"]
+
+[90]
+catalognumber = "AICL-3721"
+date = "2019-07-03"
+album = "Neighbormind/laser beamer / 凛として時雨 Disc 2 (DVD) [AICL-3721]"
+tracks = [
+    [1, "\"laser beamer\" Music Video", "凛として時雨", -1],
+    [2, "\"laser beamer\" -「舞台PSYCHO-PASS サイコパス Virtue and Vice」Opening Stage Plot", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/3d2fcd7e-7582-4ee4-aea3-dcc057d25764", "https://vgmdb.net/album/86047"]
+
+[91]
+catalognumber = "AICL-3784"
+date = "2019-11-20"
+album = "bullet / Cö shu Nie [期間生産限定盤B] Disc 1 (CD) [AICL-3784]"
+tracks = [
+    [1, "bullet", "Cö shu Nie", -1],
+    [2, "絶体絶命 (piano ver.)", "Cö shu Nie", -1],
+    [3, "Lamp (piano ver.)", "Cö shu Nie", -1],
+    [4, "bullet (Instrumental)", "Cö shu Nie", -1],
+    [5, "bullet (TV edit)", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eed342b8-3777-47c6-aad5-51b0bd950b24", "https://vgmdb.net/album/90910"]
+
+[92]
+catalognumber = "AICL-3785"
+date = "2019-11-20"
+album = "bullet / Cö shu Nie [期間生産限定盤B] Disc 2 (DVD) [AICL-3785]"
+tracks = [
+    [1, "“bullet” Music Video (another ending ver.)", "Cö shu Nie", -1],
+    [2, "TVアニメ「PSYCHO‐PASS サイコパス 3」 Non-credit Ending Movie", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/eed342b8-3777-47c6-aad5-51b0bd950b24", "https://vgmdb.net/album/90910"]
+
+[93]
+catalognumber = "AICL-3783"
+date = "2019-11-20"
+album = "bullet / Cö shu Nie [期間生産限定盤A]"
+tracks = [
+    [1, "bullet", "Cö shu Nie", -1],
+    [2, "絶体絶命 (piano ver.)", "Cö shu Nie", -1],
+    [3, "Lamp (piano ver.)", "Cö shu Nie", -1],
+    [4, "bullet (Instrumental)", "Cö shu Nie", -1],
+    [5, "bullet (Slushii Remix)", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/97f2ecdb-e4b3-43cf-885e-a060efe04745", "https://vgmdb.net/album/90909"]
+
+[94]
+catalognumber = "SECL-2528"
+date = "2019-11-27"
+album = "Q-vism / Who-ya Extended [Limited Edition] Disc 1 (CD) [SECL-2528]"
+tracks = [
+    [1, "Q‐vism", "Who‐ya Extended", -1],
+    [2, "S‐cape 2 the abs", "Who‐ya Extended", -1],
+    [3, "Q‐vism (Instrumental)", "Who‐ya Extended", -1],
+    [4, "S‐cape 2 the abs (Instrumental)", "Who‐ya Extended", -1],
+    [5, "Q-vism (TV size)", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/a8dd450d-6bbb-46a1-afbd-e5cb2c5fc6b0", "https://vgmdb.net/album/90908"]
+
+[95]
+catalognumber = "SECL-2529"
+date = "2019-11-27"
+album = "Q-vism / Who-ya Extended [Limited Edition] Disc 2 (DVD) [SECL-2529]"
+tracks = [
+    [1, "「Q‐vism」MUSIC VIDEO", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/a8dd450d-6bbb-46a1-afbd-e5cb2c5fc6b0", "https://vgmdb.net/album/90908"]
+
+[96]
+catalognumber = "SECL-2527"
+date = "2019-11-27"
+album = "Q-vism / Who-ya Extended"
+tracks = [
+    [1, "Q‐vism", "Who‐ya Extended", -1],
+    [2, "S‐cape 2 the abs", "Who‐ya Extended", -1],
+    [3, "Q‐vism (Instrumental)", "Who‐ya Extended", -1],
+    [4, "S‐cape 2 the abs (Instrumental)", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/35441847-e3e7-4a9f-ab4d-a1a265e183cc", "https://vgmdb.net/album/90906"]
+
+[97]
+catalognumber = "SECL-2525"
+date = "2019-11-27"
+album = "Q-vism / Who-ya Extended [Limited Edition] Disc 1 (CD) [SECL-2525]"
+tracks = [
+    [1, "Q-vism", "", -1],
+    [2, "S-cape 2 the abs", "", -1],
+    [3, "Q-vism (Instrumental)", "", -1],
+    [4, "S-cape 2 the abs (Instrumental)", "", -1],
+]
+links = ["https://vgmdb.net/album/90907"]
+
+[98]
+catalognumber = "SECL-2526"
+date = "2019-11-27"
+album = "Q-vism / Who-ya Extended [Limited Edition] Disc 2 (DVD) [SECL-2526]"
+tracks = [
+    [1, "「Q‐vism」MUSIC VIDEO", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/35441847-e3e7-4a9f-ab4d-a1a265e183cc", "https://vgmdb.net/album/90907"]
+
+[99]
+catalognumber = "AICL-3788"
+date = "2019-12-11"
+album = "PURE / Cö shu Nie [Limited Edition] Vocal"
+tracks = [
+    [1, "who are you?", "Cö shu Nie", -1],
+    [2, "asphyxia", "Cö shu Nie", -1],
+    [3, "bullet", "Cö shu Nie", -1],
+    [4, "scapegoat", "Cö shu Nie", -1],
+    [5, "character", "Cö shu Nie", -1],
+    [6, "CREAM", "Cö shu Nie", -1],
+    [7, "サイコプール≒レゴプール", "Cö shu Nie", -1],
+    [8, "iB", "Cö shu Nie", -1],
+    [9, "絶体絶命", "Cö shu Nie", -1],
+    [10, "Lamp", "Cö shu Nie", -1],
+    [11, "inertia", "Cö shu Nie", -1],
+    [12, "gray", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/138ae8f4-f5bf-42fd-9fc1-05a90f125251", "https://vgmdb.net/album/92060"]
+
+[100]
+catalognumber = "AICL-3789"
+date = "2019-12-11"
+album = "PURE / Cö shu Nie [Limited Edition] Vocal, Live Event"
+tracks = [
+    [1, "who are you?", "", -1],
+    [2, "サイコプール≒レゴプール", "", -1],
+    [3, "絶体絶命", "", -1],
+    [4, "defection", "", -1],
+    [5, "PERSON.", "", -1],
+    [6, "asphyxia", "", -1],
+]
+links = ["https://vgmdb.net/album/92060"]
+
+[101]
+catalognumber = "AICL-3790"
+date = "2019-12-11"
+album = "PURE / Cö shu Nie"
+tracks = [
+    [1, "who are you?", "Cö shu Nie", -1],
+    [2, "asphyxia", "Cö shu Nie", -1],
+    [3, "bullet", "Cö shu Nie", -1],
+    [4, "scapegoat", "Cö shu Nie", -1],
+    [5, "character", "Cö shu Nie", -1],
+    [6, "CREAM", "Cö shu Nie", -1],
+    [7, "サイコプール≒レゴプール", "Cö shu Nie", -1],
+    [8, "iB", "Cö shu Nie", -1],
+    [9, "絶体絶命", "Cö shu Nie", -1],
+    [10, "Lamp", "Cö shu Nie", -1],
+    [11, "inertia", "Cö shu Nie", -1],
+    [12, "gray", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/10a76f20-5684-403e-8667-c419d30432e2", "https://vgmdb.net/album/92059"]
+
+[102]
+catalognumber = ""
+date = "2020-02-11"
+album = "Unnamed / タカオカミズキ"
+tracks = [
+    [1, "All Alone With You", "タカオカミズキ", 0],
+    [2, "Ghost of a Smile -2020ver.-", "タカオカミズキ", -1],
+    [3, "名前のない怪物 -2020ver.-", "タカオカミズキ", 0],
+    [4, "Fallen -2020ver.-", "タカオカミズキ", 0],
+    [5, "Planetes", "タカオカミズキ", -1],
+    [6, "Departures～あなたにおくるアイの歌～ -2020ver.-", "タカオカミズキ", -1],
+]
+links = ["https://beta.musicbrainz.org/release/b1d6d278-a216-4e8e-a11d-69c65d831047", "https://vgmdb.net/album/109193"]
+
+[103]
+catalognumber = "AIXX-01725"
+date = "2020-03-27"
+album = "red strand / Cö shu Nie"
+tracks = [
+    [1, "red strand", "Cö shu Nie", -1],
+]
+links = ["https://beta.musicbrainz.org/release/356f3522-7f35-4635-a452-761a950f8e35", "https://vgmdb.net/album/97489"]
+
+[104]
+catalognumber = "SECL-2562"
+date = "2020-04-15"
+album = "wyxt. / Who-ya Extended"
+tracks = [
+    [1, "Synthetic Sympathy", "Who‐ya Extended", -1],
+    [2, "Killing My Fear", "Who‐ya Extended", -1],
+    [3, "Dogma‐Agnostic", "Who‐ya Extended", -1],
+    [4, "ErroЯ CØDE", "Who‐ya Extended", -1],
+    [5, "Slight light life", "Who‐ya Extended", -1],
+    [6, "Too late to know", "Who‐ya Extended", -1],
+    [7, "●REC ON", "Who‐ya Extended", -1],
+    [8, "G.O.A.T", "Who‐ya Extended", -1],
+    [9, "memorized.", "Who‐ya Extended", -1],
+    [10, "Q‐vism", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/b25a45c0-cca2-4296-a73c-a99380950163", "https://vgmdb.net/album/97238"]
+
+[105]
+catalognumber = "SECL-2560"
+date = "2020-04-15"
+album = "wyxt. / Who-ya Extended [Limited Edition] Vocal"
+tracks = [
+    [1, "Synthetic Sympathy", "Who‐ya Extended", -1],
+    [2, "Killing My Fear", "Who‐ya Extended", -1],
+    [3, "Dogma-Agnostic", "Who‐ya Extended", -1],
+    [4, "ErroЯ CODE", "Who‐ya Extended", -1],
+    [5, "Slight light life", "Who‐ya Extended", -1],
+    [6, "Too late to know", "Who‐ya Extended", -1],
+    [7, "●REC ON", "Who‐ya Extended", -1],
+    [8, "G.O.A.T", "Who‐ya Extended", -1],
+    [9, "memorized.", "Who‐ya Extended", -1],
+    [10, "Q-vism", "Who‐ya Extended", -1],
+]
+links = ["https://beta.musicbrainz.org/release/d8142177-998e-4862-8f10-69c3e16ce0df", "https://vgmdb.net/album/97239"]
+
+[106]
+catalognumber = "SECL-2561"
+date = "2020-04-15"
+album = "wyxt. / Who-ya Extended [Limited Edition] Vocal, Video"
+tracks = [
+    [1, "Q-vism (MUSIC VIDEO)", "", -1],
+    [2, "Synthetic Sympathy (MUSIC VIDEO)", "", -1],
+    [3, "Synthetic Sympathy (MUSIC VIDEO) (PSYCHO-PASS ver.)", "", -1],
+    [4, "「PSYCHO-PASS サイコパス 3 FIRST INSPECTOR」ノンクレジットオープニングムービー", "", -1],
+]
+links = ["https://vgmdb.net/album/97239"]
+
+[107]
 catalognumber = "AICL-3928"
 date = "2020-10-28"
 album = "リスアニ! MIX by DJ和 ～10th Anniversary Selection～"
@@ -1389,109 +1790,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0becd9d-9a87-4616-bbdf-f371df067cf2", "https://vgmdb.net/album/105306"]
 
-[83]
-catalognumber = "SECL-2560"
-date = "2020-04-15"
-album = "wyxt. / Who-ya Extended [Limited Edition] Vocal"
+[108]
+catalognumber = "NJSJ-008"
+date = "2020-10-28"
+album = "Prismatic Colors / にじさんじ"
 tracks = [
-    [1, "Synthetic Sympathy", "Who‐ya Extended", -1],
-    [2, "Killing My Fear", "Who‐ya Extended", -1],
-    [3, "Dogma-Agnostic", "Who‐ya Extended", -1],
-    [4, "ErroЯ CODE", "Who‐ya Extended", -1],
-    [5, "Slight light life", "Who‐ya Extended", -1],
-    [6, "Too late to know", "Who‐ya Extended", -1],
-    [7, "●REC ON", "Who‐ya Extended", -1],
-    [8, "G.O.A.T", "Who‐ya Extended", -1],
-    [9, "memorized.", "Who‐ya Extended", -1],
-    [10, "Q-vism", "Who‐ya Extended", -1],
+    [1, "残酷な天使のテーゼ", "早瀬走", -1],
+    [2, "ジレンマ", "メリッサ・キンレンカ", -1],
+    [3, "シリョクケンサ", "葉加瀬冬雪", -1],
+    [4, "カサブタ", "シェリン・バーガンディ", -1],
+    [5, "ラストダンス", "剣持刀也", -1],
+    [6, "Gimme×Gimme", "ドーラ", -1],
+    [7, "世界は恋に落ちている", "星川サラ", -1],
+    [8, "再会", "卯月コウ", -1],
+    [9, "ゆずれない願い", "レヴィ・エリファ", -1],
+    [10, "太陽系デスコ", "アンジュ・カトリーナ", -1],
+    [11, "Hand in Hand", "リゼ・ヘルエスタ", -1],
+    [12, "名前のない怪物", "戌亥とこ", 0],
+    [13, "My Dearest", "町田ちま", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/d8142177-998e-4862-8f10-69c3e16ce0df", "https://vgmdb.net/album/97239"]
+links = ["https://beta.musicbrainz.org/release/0cd97c3b-37ed-4cc3-9702-0fe78c12f34a", "https://vgmdb.net/album/105590"]
 
-[84]
-catalognumber = "SECL-2561"
-date = "2020-04-15"
-album = "wyxt. / Who-ya Extended [Limited Edition] Vocal, Video"
-tracks = [
-    [1, "Q-vism (MUSIC VIDEO)", "", -1],
-    [2, "Synthetic Sympathy (MUSIC VIDEO)", "", -1],
-    [3, "Synthetic Sympathy (MUSIC VIDEO) (PSYCHO-PASS ver.)", "", -1],
-    [4, "「PSYCHO-PASS サイコパス 3 FIRST INSPECTOR」ノンクレジットオープニングムービー", "", -1],
-]
-links = ["https://vgmdb.net/album/97239"]
-
-[85]
-catalognumber = "AICL-2451"
-date = "2012-11-14"
-album = "abnormalize / 凛として時雨"
-tracks = [
-    [1, "abnormalize", "凛として時雨", 0],
-    [2, "make up syndrome", "凛として時雨", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2b954fc2-8222-4354-8f03-a2216e4ea319", "https://vgmdb.net/album/35217"]
-
-[86]
-catalognumber = "AICL-4353"
-date = "2023-04-12"
-album = "last aurorally / 凛として時雨"
-tracks = [
-    [1, "Super Sonic Aurorally", "凛として時雨", -1],
-    [2, "竜巻いて鮮脳", "凛として時雨", -1],
-    [3, "Marvelous Persona", "凛として時雨", -1],
-    [4, "laser beamer", "凛として時雨", -1],
-    [5, "self‐hacking", "凛として時雨", -1],
-    [6, "アレキシサイミアスペア", "凛として時雨", -1],
-    [7, "Neighbormind", "凛として時雨", -1],
-    [8, "Perfake Perfect", "凛として時雨", -1],
-    [9, "滅亡craft", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/bfc16325-c98f-483d-a6e8-3618c6633024", "https://vgmdb.net/album/127479"]
-
-[87]
-catalognumber = "VVCL-2240"
-date = "2023-05-10"
-album = "当事者 / EGOIST [初回生産限定盤] Vocal, Remix"
-tracks = [
-    [1, "当事者", "EGOIST", -1],
-    [2, "Fallen (M2U Remix)", "EGOIST", 0],
-    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
-    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
-    [5, "当事者 (Instrumental)", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/49da5481-3ec9-46a8-99db-69ae21c61ea0", "https://vgmdb.net/album/127608"]
-
-[88]
-catalognumber = "VVCL-2241"
-date = "2023-05-10"
-album = "当事者 / EGOIST [初回生産限定盤] Vocal, Remix, Video"
-tracks = [
-    [1, "当事者 Music Video", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/49da5481-3ec9-46a8-99db-69ae21c61ea0", "https://vgmdb.net/album/127608"]
-
-[89]
-catalognumber = "AICL-2804"
-date = "2015-01-14"
-album = "Best of Tornado / 凛として時雨"
-tracks = [
-    [1, "JPOP Xfile", "凛として時雨", -1],
-    [2, "Telecastic fake show", "凛として時雨", -1],
-    [3, "abnormalize", "凛として時雨", 0],
-    [4, "illusion is mine", "凛として時雨", -1],
-    [5, "想像のSecurity (2015 mix)", "凛として時雨", -1],
-    [6, "DISCO FLIGHT", "凛として時雨", -1],
-    [7, "moment A rhythm (short Ver.)", "凛として時雨", -1],
-    [8, "Beautiful Circus", "凛として時雨", -1],
-    [9, "I was music", "凛として時雨", -1],
-    [10, "鮮やかな殺人 (2015 mix)", "凛として時雨", -1],
-    [11, "テレキャスターの真実 (2015 mix)", "凛として時雨", -1],
-    [12, "nakano kill you (2015 mix)", "凛として時雨", -1],
-    [13, "Enigmatic Feeling (2015 mix)", "凛として時雨", 0],
-    [14, "Missing ling", "凛として時雨", -1],
-    [15, "傍観", "凛として時雨", -1],
-]
-links = ["https://beta.musicbrainz.org/release/063e485a-3aae-449a-b9b9-647c7707abf0", "https://vgmdb.net/album/49336"]
-
-[90]
+[109]
 catalognumber = "SECL-2624"
 date = "2020-11-11"
 album = "「PSYCHO-PASS サイコパス 3」Original Soundtrack Original Soundtrack"
@@ -1520,7 +1840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9015e199-4b27-4141-b1be-35f967e32765", "https://vgmdb.net/album/101447"]
 
-[91]
+[110]
 catalognumber = "SECL-2625"
 date = "2020-11-11"
 album = "「PSYCHO-PASS サイコパス 3」Original Soundtrack Original Soundtrack, Vocal"
@@ -1552,251 +1872,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101447"]
 
-[92]
-catalognumber = "TBR24814D-2"
-date = "2015-03-18"
-album = "サイコパス2 第4巻 特典CD"
-tracks = [
-    [1, "漆黒の誘惑者", "", -1],
-]
-links = ["https://vgmdb.net/album/49218"]
-
-[93]
-catalognumber = "AICL-4189"
-date = "2022-03-16"
-album = "Flos Ex Machina / Cö shu Nie"
-tracks = [
-    [1, "red strand", "Cö shu Nie", -1],
-    [2, "BED CHUTE!!", "Cö shu Nie", -1],
-    [3, "undress me", "Cö shu Nie", -1],
-    [4, "fujI", "Cö shu Nie", -1],
-    [5, "病は花から", "Cö shu Nie", -1],
-    [6, "青春にして已む", "Cö shu Nie", -1],
-    [7, "miracle", "Cö shu Nie", -1],
-    [8, "夏の深雪", "Cö shu Nie", -1],
-    [9, "give it back", "Cö shu Nie", -1],
-    [10, "SAKURA BURST", "Cö shu Nie", -1],
-    [11, "nightmare feathers_", "Cö shu Nie", -1],
-    [12, "迷路 〜序章〜", "Cö shu Nie", -1],
-    [13, "迷路 〜本編〜", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/ff6ae477-a41e-431e-b9f5-1be152afdf59", "https://vgmdb.net/album/117033"]
-
-[94]
-catalognumber = "SRCL-8757"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 1 [SRCL-8757]"
-tracks = [
-    [1, "PSYCHO-PASS feat.AKANE", "菅野祐悟", 0],
-    [2, "サイマティックスキャン", "菅野祐悟", 0],
-    [3, "ハレーション", "菅野祐悟", 0],
-    [4, "執行官", "菅野祐悟", 0],
-    [5, "What Color ?", "菅野祐悟", 0],
-    [6, "殺意の肯定", "菅野祐悟", 0],
-    [7, "忍び寄る虚実", "菅野祐悟", 0],
-    [8, "サイコパス汚染", "菅野祐悟", 0],
-    [9, "コントロール出来ません", "菅野祐悟", 0],
-    [10, "黒く染める力", "菅野祐悟", 0],
-    [11, "エリアストレス", "菅野祐悟", 0],
-    [12, "透明人間", "菅野祐悟", 0],
-    [13, "生体コンタクト", "菅野祐悟", 0],
-    [14, "全能者のパラドクス", "菅野祐悟", 0],
-    [15, "人と法を守るために", "菅野祐悟", 0],
-    [16, "裁きの場", "菅野祐悟", 0],
-    [17, "最後のキー", "菅野祐悟", 0],
-    [18, "生み出された怪物", "菅野祐悟", 0],
-    [19, "共同幻想", "菅野祐悟", 0],
-    [20, "ハングリーチキン", "菅野祐悟", 0],
-    [21, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
-    [22, "Fallen (TV Edit)", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
-
-[95]
-catalognumber = "SRCL-8758"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 2 [SRCL-8758]"
-tracks = [
-    [1, "2116.7", "菅野祐悟", 0],
-    [2, "朱の疑問", "菅野祐悟", 0],
-    [3, "あの人は⋯", "菅野祐悟", 0],
-    [4, "密入国", "菅野祐悟", 0],
-    [5, "脳波モンタージュ", "菅野祐悟", 0],
-    [6, "国外捜査", "菅野祐悟", 0],
-    [7, "思い", "菅野祐悟", 0],
-    [8, "思想と尊厳", "菅野祐悟", 0],
-    [9, "シビュラの制圧", "菅野祐悟", 0],
-    [10, "現状整理", "菅野祐悟", 0],
-    [11, "シャンバラという天国", "菅野祐悟", 0],
-    [12, "破壊が追いかける", "菅野祐悟", 0],
-    [13, "捜査の一貫", "菅野祐悟", 0],
-    [14, "望み (Movie Mix)", "菅野祐悟", 0],
-    [15, "地に呪われたる者", "菅野祐悟", 0],
-    [16, "ゲリラ狩り", "菅野祐悟", 0],
-    [17, "悪夢", "菅野祐悟", 0],
-    [18, "独り善がり", "菅野祐悟", 0],
-    [19, "人と法を守るために (Movie Mix)", "菅野祐悟", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
-
-[96]
-catalognumber = "SRCL-8759"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 Disc 3 [SRCL-8759]"
-tracks = [
-    [1, "標的の探索", "菅野祐悟", 0],
-    [2, "組織暴力", "菅野祐悟", 0],
-    [3, "怒りの眼差し", "菅野祐悟", 0],
-    [4, "執行モード", "菅野祐悟", 0],
-    [5, "PSYCHO-PASS feat.AKANE (Movie Mix)", "菅野祐悟", 0],
-    [6, "槙島聖護 (Movie Mix)", "菅野祐悟", 0],
-    [7, "生み出された怪物 (Movie Mix)", "菅野祐悟", 0],
-    [8, "命の在り方 (Movie Mix)", "菅野祐悟", 0],
-    [9, "PSYCHO-PASS (Movie Mix)", "菅野祐悟", 0],
-    [10, "Who What Who What (Movie edit)", "凛として時雨", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/2452e13e-4cb5-4680-ac01-3a3a6be0db66", "https://vgmdb.net/album/49922"]
-
-[97]
-catalognumber = "OMR-0006"
-date = "2017-02-12"
-album = "菅野祐悟スプリングコンサート2016"
-tracks = [
-    [1, "花咲舞が黙ってない", "", -1],
-    [2, "世界でもっとも美しい場所", "", -1],
-    [3, "ガンダム Gのレコンギスタ", "", -1],
-    [4, "湾岸の要塞", "", -1],
-    [5, "永遠の土", "", -1],
-    [6, "トロンボーン協奏曲「flower」 より 『第3楽章 Flower note』", "", -1],
-    [7, "軍師官兵衛 メイン・テーマ", "", -1],
-    [8, "アイムホーム-MAIN THEME-", "", -1],
-    [9, "Double Moon", "", -1],
-    [10, "MOZU", "", -1],
-    [11, "Never Again", "", -1],
-    [12, "AJIN MAIN THEME", "", -1],
-    [13, "PSYCHO-PASS", "", 0],
-    [14, "スターダストクルセイダース", "", -1],
-    [15, "銭の戦争", "", -1],
-    [16, "Security Police", "", -1],
-    [17, "story", "", -1],
-]
-links = ["https://vgmdb.net/album/131935"]
-
-[98]
-catalognumber = "SRCL-8753"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 1"
-tracks = [
-    [1, "PSYCHO-PASS feat.AKANE", "菅野祐悟", 0],
-    [2, "サイマティックスキャン", "菅野祐悟", 0],
-    [3, "ハレーション", "菅野祐悟", 0],
-    [4, "執行官", "菅野祐悟", 0],
-    [5, "What Color ?", "菅野祐悟", 0],
-    [6, "殺意の肯定", "菅野祐悟", 0],
-    [7, "忍び寄る虚実", "菅野祐悟", 0],
-    [8, "サイコパス汚染", "菅野祐悟", 0],
-    [9, "コントロール出来ません", "菅野祐悟", 0],
-    [10, "黒く染める力", "菅野祐悟", 0],
-    [11, "エリアストレス", "菅野祐悟", 0],
-    [12, "透明人間", "菅野祐悟", 0],
-    [13, "生体コンタクト", "菅野祐悟", 0],
-    [14, "全能者のパラドクス", "菅野祐悟", 0],
-    [15, "人と法を守るために", "菅野祐悟", 0],
-    [16, "裁きの場", "菅野祐悟", 0],
-    [17, "最後のキー", "菅野祐悟", 0],
-    [18, "生み出された怪物", "菅野祐悟", 0],
-    [19, "共同幻想", "菅野祐悟", 0],
-    [20, "ハングリーチキン", "菅野祐悟", 0],
-    [21, "Enigmatic Feeling (TV edit)", "凛として時雨", 0],
-    [22, "Fallen (TV Edit)", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
-
-[99]
-catalognumber = "SRCL-8754"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 2"
-tracks = [
-    [1, "2116.7", "菅野祐悟", 0],
-    [2, "朱の疑問", "菅野祐悟", 0],
-    [3, "あの人は⋯", "菅野祐悟", 0],
-    [4, "密入国", "菅野祐悟", 0],
-    [5, "脳波モンタージュ", "菅野祐悟", 0],
-    [6, "国外捜査", "菅野祐悟", 0],
-    [7, "思い", "菅野祐悟", 0],
-    [8, "思想と尊厳", "菅野祐悟", 0],
-    [9, "シビュラの制圧", "菅野祐悟", 0],
-    [10, "現状整理", "菅野祐悟", 0],
-    [11, "シャンバラという天国", "菅野祐悟", 0],
-    [12, "破壊が追いかける", "菅野祐悟", 0],
-    [13, "捜査の一貫", "菅野祐悟", 0],
-    [14, "望み (Movie Mix)", "菅野祐悟", 0],
-    [15, "地に呪われたる者", "菅野祐悟", 0],
-    [16, "ゲリラ狩り", "菅野祐悟", 0],
-    [17, "悪夢", "菅野祐悟", 0],
-    [18, "独り善がり", "菅野祐悟", 0],
-    [19, "人と法を守るために (Movie Mix)", "菅野祐悟", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
-
-[100]
-catalognumber = "SRCL-8755"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Original Soundtrack, Vocal Disc 3"
-tracks = [
-    [1, "標的の探索", "菅野祐悟", 0],
-    [2, "組織暴力", "菅野祐悟", 0],
-    [3, "怒りの眼差し", "菅野祐悟", 0],
-    [4, "執行モード", "菅野祐悟", 0],
-    [5, "PSYCHO-PASS feat.AKANE (Movie Mix)", "菅野祐悟", 0],
-    [6, "槙島聖護 (Movie Mix)", "菅野祐悟", 0],
-    [7, "生み出された怪物 (Movie Mix)", "菅野祐悟", 0],
-    [8, "命の在り方 (Movie Mix)", "菅野祐悟", 0],
-    [9, "PSYCHO-PASS (Movie Mix)", "菅野祐悟", 0],
-    [10, "Who What Who What (Movie edit)", "凛として時雨", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
-
-[101]
-catalognumber = "SRCL-8756"
-date = "2015-03-18"
-album = "PSYCHO-PASS Complete Original Soundtrack 2 [Limited Edition] Video"
-tracks = [
-    [1, "｢PSYCHO-PASS サイコパス2 ｣ ノンテロップOP:凛として時雨 ｢Enigmatic Feeling｣(Final Edition)", "凛として時雨", -1],
-    [2, "｢PSYCHO-PASS サイコパス2｣ ノンテロップED:EGOIST ｢Fallen｣ (Final Edition)", "EGOIST", -1],
-    [3, "｢劇場版 PSYCHO-PASS サイコパス｣ ノンテロップOP:凛として時雨「Who What Who What｣", "凛として時雨", -1],
-    [4, "｢劇場版 PSYCHO-PASS サイコパス｣ ティザー予告PV", "菅野祐悟", -1],
-    [5, "｢劇場版 PSYCHO-PASS サイコパス｣ 本予告第1弾PV", "菅野祐悟", -1],
-    [6, "｢劇場版 PSYCHO-PASS サイコパス｣ 本予告第2弾PV", "菅野祐悟", -1],
-]
-links = ["https://beta.musicbrainz.org/release/0ba9a77f-efc8-4056-8660-50dc25f855d8", "https://vgmdb.net/album/49921"]
-
-[102]
-catalognumber = "TBZR-0096"
-date = "2013-04-24"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 1"
-tracks = []
-links = ["https://vgmdb.net/album/51481"]
-
-[103]
-catalognumber = "TBZR-0097"
-date = "2013-04-24"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 2"
-tracks = []
-links = ["https://vgmdb.net/album/51481"]
-
-[104]
-catalognumber = "TBR24811D-2"
-date = "2014-12-17"
-album = "サイコパス2 第1巻 特典CD"
-tracks = [
-    [1, "燻る面影", "", -1],
-]
-links = ["https://vgmdb.net/album/49215"]
-
-[105]
+[111]
 catalognumber = "SEXX-02113"
 date = "2020-11-11"
 album = "PSYCHO-PASS サイコパス 3 Original Soundtrack [配信バージョン]"
@@ -1871,144 +1947,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d3999601-e83f-44b2-996d-b9ff0eb4ac6c", "https://vgmdb.net/album/106181"]
 
-[106]
-catalognumber = "TBR22425D-2"
-date = "2013-04-19"
-album = "PSYCHO-PASS SOUNDTRACK VOL.2"
-tracks = [
-    [1, "潜在犯", "菅野祐悟", 0],
-    [2, "矛盾に満ちた世界", "菅野祐悟", 0],
-    [3, "命の重み", "菅野祐悟", 0],
-    [4, "光", "菅野祐悟", 0],
-    [5, "信念", "菅野祐悟", 0],
-    [6, "廃棄区画", "菅野祐悟", 0],
-    [7, "偶像", "菅野祐悟", 0],
-    [8, "犯罪遊戯", "菅野祐悟", 0],
-    [9, "サイコハザード", "菅野祐悟", 0],
-    [10, "精神構造", "菅野祐悟", 0],
-    [11, "聖者の晩餐", "菅野祐悟", 0],
-    [12, "神の意識", "菅野祐悟", 0],
-    [13, "楽園", "菅野祐悟", 0],
-    [14, "槙島聖護", "菅野祐悟", 0],
-    [15, "PSYCHO-PASS Symphony", "菅野祐悟", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ebfad068-671c-44fb-91b0-a1f4ccd52e0f", "https://vgmdb.net/album/35899"]
-
-[107]
-catalognumber = "SECL-2525"
-date = "2019-11-27"
-album = "Q-vism / Who-ya Extended [Limited Edition] Disc 1 (CD) [SECL-2525]"
-tracks = [
-    [1, "Q-vism", "", -1],
-    [2, "S-cape 2 the abs", "", -1],
-    [3, "Q-vism (Instrumental)", "", -1],
-    [4, "S-cape 2 the abs (Instrumental)", "", -1],
-]
-links = ["https://vgmdb.net/album/90907"]
-
-[108]
-catalognumber = "SECL-2526"
-date = "2019-11-27"
-album = "Q-vism / Who-ya Extended [Limited Edition] Disc 2 (DVD) [SECL-2526]"
-tracks = [
-    [1, "「Q‐vism」MUSIC VIDEO", "Who‐ya Extended", -1],
-]
-links = ["https://beta.musicbrainz.org/release/35441847-e3e7-4a9f-ab4d-a1a265e183cc", "https://vgmdb.net/album/90907"]
-
-[109]
-catalognumber = "AICL-3788"
-date = "2019-12-11"
-album = "PURE / Cö shu Nie [Limited Edition] Vocal"
-tracks = [
-    [1, "who are you?", "Cö shu Nie", -1],
-    [2, "asphyxia", "Cö shu Nie", -1],
-    [3, "bullet", "Cö shu Nie", -1],
-    [4, "scapegoat", "Cö shu Nie", -1],
-    [5, "character", "Cö shu Nie", -1],
-    [6, "CREAM", "Cö shu Nie", -1],
-    [7, "サイコプール≒レゴプール", "Cö shu Nie", -1],
-    [8, "iB", "Cö shu Nie", -1],
-    [9, "絶体絶命", "Cö shu Nie", -1],
-    [10, "Lamp", "Cö shu Nie", -1],
-    [11, "inertia", "Cö shu Nie", -1],
-    [12, "gray", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/138ae8f4-f5bf-42fd-9fc1-05a90f125251", "https://vgmdb.net/album/92060"]
-
-[110]
-catalognumber = "AICL-3789"
-date = "2019-12-11"
-album = "PURE / Cö shu Nie [Limited Edition] Vocal, Live Event"
-tracks = [
-    [1, "who are you?", "", -1],
-    [2, "サイコプール≒レゴプール", "", -1],
-    [3, "絶体絶命", "", -1],
-    [4, "defection", "", -1],
-    [5, "PERSON.", "", -1],
-    [6, "asphyxia", "", -1],
-]
-links = ["https://vgmdb.net/album/92060"]
-
-[111]
-catalognumber = "AIXX-01725"
-date = "2020-03-27"
-album = "red strand / Cö shu Nie"
-tracks = [
-    [1, "red strand", "Cö shu Nie", -1],
-]
-links = ["https://beta.musicbrainz.org/release/356f3522-7f35-4635-a452-761a950f8e35", "https://vgmdb.net/album/97489"]
-
 [112]
-catalognumber = "VVCL-2242"
-date = "2023-05-10"
-album = "当事者 / EGOIST"
-tracks = [
-    [1, "当事者", "EGOIST", -1],
-    [2, "Fallen (M2U Remix)", "EGOIST", 0],
-    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
-    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
-    [5, "当事者 (Instrumental)", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/b6a1f9e2-a54b-467b-84e1-1db68b286ac6", "https://vgmdb.net/album/127607"]
-
-[113]
-catalognumber = "ESCL-4036"
-date = "2013-03-06"
-album = "Out of Control / Nothing's Carved In Stone"
-tracks = [
-    [1, "Out of Control", "Nothing’s Carved In Stone", 0],
-    [2, "Crystal Beat", "Nothing’s Carved In Stone", 0],
-    [3, "Raining Ash", "Nothing’s Carved In Stone", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ed4e1fa0-bb6f-4978-9901-0f0a53bb04b9", "https://vgmdb.net/album/37123"]
-
-[114]
-catalognumber = "SRCL-8147"
-date = "2012-12-05"
-album = "名前のない怪物 / EGOIST Disc 1 (CD) [SRCL-8147]"
-tracks = [
-    [1, "prelude", "クラッシャー木村", 0],
-    [2, "名前のない怪物", "EGOIST", 0],
-    [3, "カナデナル", "EGOIST", 0],
-    [4, "名前のない怪物 (TV Edit 92s ver)", "EGOIST", 0],
-    [5, "名前のない怪物 -Instrumental-", "EGOIST", 0],
-    [6, "カナデナル -Instrumental-", "EGOIST", 0],
-    [7, "名前のない怪物 (TV Edit 92s ver) -Instrumental-", "EGOIST", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6a0fba8d-3abe-436f-a1f8-9e0889bd50a9", "https://vgmdb.net/album/35317"]
-
-[115]
-catalognumber = "SRCL-8148"
-date = "2012-12-05"
-album = "名前のない怪物 / EGOIST Disc 2 (DVD) [SRCL-8148]"
-tracks = [
-    [1, "｢名前のない怪物｣Music Video", "EGOIST", -1],
-    [2, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー <NIGHT version>", "EGOIST", -1],
-    [3, "｢PSYCHO-PASS サイコパス｣Ending ノンクレジットムービー <DAY version>", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/6a0fba8d-3abe-436f-a1f8-9e0889bd50a9", "https://vgmdb.net/album/35317"]
-
-[116]
 catalognumber = "SECL-2620, SECL-2621, SECL-2622, SECL-2623"
 date = "2020-11-11"
 album = "「PSYCHO-PASS サイコパス 3」Original Soundtrack Original Soundtrack"
@@ -2037,7 +1976,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9af028ef-158a-462a-beef-953ab53f0f0f", "https://vgmdb.net/album/101448"]
 
-[117]
+[113]
 catalognumber = "SECL-2620, SECL-2621, SECL-2622, SECL-2623"
 date = "2020-11-11"
 album = "「PSYCHO-PASS サイコパス 3」Original Soundtrack Original Soundtrack, Vocal"
@@ -2069,7 +2008,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9015e199-4b27-4141-b1be-35f967e32765", "https://vgmdb.net/album/101448"]
 
-[118]
+[114]
 catalognumber = "SECL-2620, SECL-2621, SECL-2622, SECL-2623"
 date = "2020-11-11"
 album = "「PSYCHO-PASS サイコパス 3」Original Soundtrack Live Event"
@@ -2098,171 +2037,157 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9af028ef-158a-462a-beef-953ab53f0f0f", "https://vgmdb.net/album/101448"]
 
-[119]
-catalognumber = "TBR24815D-2"
-date = "2015-04-15"
-album = "サイコパス2 第5巻 特典CD"
+[115]
+catalognumber = "AICL-3999"
+date = "2021-01-20"
+album = "Perfake Perfect / 凛として時雨"
 tracks = [
-    [1, "次代への狼煙", "", -1],
+    [1, "Perfake Perfect", "凛として時雨", -1],
+    [2, "Perfake Perfect Instrumental", "凛として時雨", -1],
+    [3, "Perfake Perfect inspired by PSYCHO‐PASS Virtue and Vice 2", "凛として時雨", -1],
 ]
-links = ["https://vgmdb.net/album/49219"]
+links = ["https://beta.musicbrainz.org/release/67110d87-7ac6-4b82-b5c3-d92591070291", "https://vgmdb.net/album/106565"]
+
+[116]
+catalognumber = "AICL-3997"
+date = "2021-01-20"
+album = "Perfake Perfect / 凛として時雨 [初回限定盤] Vocal"
+tracks = [
+    [1, "Perfake Perfect", "凛として時雨", -1],
+    [2, "Perfake Perfect (Instrumental)", "凛として時雨", -1],
+    [3, "Perfake Perfect inspired by PSYCHO‐PASS Virtue and Vice 2", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/bb17a6c8-7c15-4481-8b0d-323a0faced2d", "https://vgmdb.net/album/106566"]
+
+[117]
+catalognumber = "AICL-3998"
+date = "2021-01-20"
+album = "Perfake Perfect / 凛として時雨 [初回限定盤] Vocal, Live Event, Video"
+tracks = [
+    [1, "Sadistic Summer", "", -1],
+    [2, "テレキャスターの真実", "", -1],
+    [3, "CRAZY感情STYLE", "", -1],
+    [4, "トルネードG", "", -1],
+    [5, "O.F.T", "", -1],
+    [6, "Acoustic", "", -1],
+    [7, "ターボチャージャーON", "", -1],
+    [8, "Telecastic fake show", "", -1],
+    [9, "DISCO FLIGHT", "", -1],
+    [10, "想像のSecurity", "", -1],
+    [11, "鮮やかな殺人", "", -1],
+    [12, "TK in the 夕景", "", -1],
+    [13, "傍観", "", -1],
+    [14, "abnormalize (From Rehearsal Shoot)", "", 0],
+]
+links = ["https://vgmdb.net/album/106566"]
+
+[118]
+catalognumber = "BRMM-10308"
+date = "2021-01-20"
+album = "D4DJ Groovy Mix カバートラックス vol.1"
+tracks = [
+    [1, "恋愛レボリューション21", "Happy Around!", -1],
+    [2, "DAYS", "Happy Around!", -1],
+    [3, "マジLOVE1000%", "Peaky P-key", -1],
+    [4, "JUST COMMUNICATION", "Peaky P-key", -1],
+    [5, "sakura", "Photon Maiden", -1],
+    [6, "シドニア", "Photon Maiden", -1],
+    [7, "キューティーハニー", "Merm4id", -1],
+    [8, "DISCOTHEQUE", "Merm4id", -1],
+    [9, "名前のない怪物", "燐舞曲", 0],
+    [10, "DESIRE -情熱-", "燐舞曲", -1],
+    [11, "ふ・れ・ん・ど・し・た・い", "Lyrical Lily", -1],
+    [12, "タッチ", "Lyrical Lily", -1],
+]
+links = ["https://beta.musicbrainz.org/release/9d8d7778-0c05-4220-a8b7-165676dc7047", "https://vgmdb.net/album/101934"]
+
+[119]
+catalognumber = "SEXX-02281"
+date = "2021-11-16"
+album = "Q-vism - From THE FIRST TAKE / Who-ya Extended"
+tracks = [
+    [1, "us - From THE FIRST TAKE", "milet", -1],
+]
+links = ["https://beta.musicbrainz.org/release/3aaeb293-a193-443f-a657-3b490d917334", "https://vgmdb.net/album/115882"]
 
 [120]
-catalognumber = "VVCL-2243"
-date = "2023-05-10"
-album = "当事者 / EGOIST [期間生産限定盤] Vocal, Remix"
+catalognumber = "AICL-4189"
+date = "2022-03-16"
+album = "Flos Ex Machina / Cö shu Nie"
 tracks = [
-    [1, "当事者", "EGOIST", -1],
-    [2, "Fallen (M2U Remix)", "EGOIST", 0],
-    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
-    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
-    [5, "当事者 (Instrumental)", "EGOIST", -1],
+    [1, "red strand", "Cö shu Nie", -1],
+    [2, "BED CHUTE!!", "Cö shu Nie", -1],
+    [3, "undress me", "Cö shu Nie", -1],
+    [4, "fujI", "Cö shu Nie", -1],
+    [5, "病は花から", "Cö shu Nie", -1],
+    [6, "青春にして已む", "Cö shu Nie", -1],
+    [7, "miracle", "Cö shu Nie", -1],
+    [8, "夏の深雪", "Cö shu Nie", -1],
+    [9, "give it back", "Cö shu Nie", -1],
+    [10, "SAKURA BURST", "Cö shu Nie", -1],
+    [11, "nightmare feathers_", "Cö shu Nie", -1],
+    [12, "迷路 〜序章〜", "Cö shu Nie", -1],
+    [13, "迷路 〜本編〜", "Cö shu Nie", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/43f5565f-8f6f-4b8a-9aad-bb24128158b6", "https://vgmdb.net/album/127609"]
+links = ["https://beta.musicbrainz.org/release/ff6ae477-a41e-431e-b9f5-1be152afdf59", "https://vgmdb.net/album/117033"]
 
 [121]
-catalognumber = "VVCL-2244"
-date = "2023-05-10"
-album = "当事者 / EGOIST [期間生産限定盤] Video"
+catalognumber = "AICL-4188"
+date = "2022-03-16"
+album = "Flos Ex Machina / Cö shu Nie [初回生産限定盤]"
 tracks = [
-    [1, "当事者 -Music Video- (PSYCHO-PASS ver.)", "EGOIST", -1],
+    [1, "red strand", "", -1],
+    [2, "BED CHUTE!!", "", -1],
+    [3, "undress me", "", -1],
+    [4, "fujI", "", -1],
+    [5, "病は花から", "", -1],
+    [6, "青春にして已む", "", -1],
+    [7, "miracle", "", -1],
+    [8, "夏の深雪", "", -1],
+    [9, "give it back", "", -1],
+    [10, "SAKURA BURST", "", -1],
+    [11, "nightmare feathers_", "", -1],
+    [12, "迷路 ～序章～", "", -1],
+    [13, "迷路 ～本編～", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/43f5565f-8f6f-4b8a-9aad-bb24128158b6", "https://vgmdb.net/album/127609"]
+links = ["https://vgmdb.net/album/117034"]
 
 [122]
-catalognumber = "ESCL-4034"
-date = "2013-03-06"
-album = "Out of Control / Nothing's Carved In Stone [期間生産限定盤] Vocal"
+catalognumber = "BRMM-10540"
+date = "2022-05-18"
+album = "ROZEN HORIZON / Roselia [通常盤B]"
 tracks = [
-    [1, "Out of Control", "Nothing’s Carved In Stone", 0],
-    [2, "Out of Control -アニメバージョン-", "Nothing’s Carved In Stone", 0],
+    [1, "Sprechchor", "Roselia", -1],
+    [2, "閃光", "Roselia", -1],
+    [3, "THE HISTORIC...", "Roselia", -1],
+    [4, "ROZEN HORIZON", "Roselia", -1],
+    [5, "名前のない怪物", "Roselia", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/3acbc09e-5d87-420f-9cca-ec9e32fddb64", "https://vgmdb.net/album/37122"]
+links = ["https://beta.musicbrainz.org/release/34f0c129-391a-42fc-8e7e-6c4367216b2f", "https://vgmdb.net/album/116876"]
 
 [123]
-catalognumber = "ESCL-4035"
-date = "2013-03-06"
-album = "Out of Control / Nothing's Carved In Stone [期間生産限定盤] Video"
+catalognumber = "BRMM-10596"
+date = "2022-12-14"
+album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.7"
 tracks = [
-    [1, "「PSYCHO-PASS サイコパス」Opening Non-Credit Movie ＜MAD version＞", "Nothing’s Carved In Stone", -1],
-    [2, "「PSYCHO-PASS サイコパス」Opening Non-Credit Movie ＜Cinemascope version＞", "Nothing’s Carved In Stone", -1],
+    [1, "ヴァンパイア", "Poppin'Party", -1],
+    [2, "怪物", "Poppin'Party", -1],
+    [3, "メンタルチェンソー", "Afterglow", -1],
+    [4, "abnormalize", "Afterglow", 0],
+    [5, "春を告げる", "Pastel＊Palettes", -1],
+    [6, "Sparkling Daydream", "Pastel＊Palettes", -1],
+    [7, "Realize", "Roselia", -1],
+    [8, "Preserved Roses", "Roselia×蘭", -1],
+    [9, "ヒャダインのじょーじょーゆーじょー", "ハロー、ハッピーワールド！", -1],
+    [10, "シル・ヴ・プレジデント", "ハロー、ハッピーワールド！×彩×ましろ", -1],
+    [11, "COLORFUL BOX", "Morfonica", -1],
+    [12, "unravel", "Morfonica", -1],
+    [13, "Cry Baby", "RAISE A SUILEN", -1],
+    [14, "メギツネ", "RAISE A SUILEN", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/3acbc09e-5d87-420f-9cca-ec9e32fddb64", "https://vgmdb.net/album/37122"]
+links = ["https://beta.musicbrainz.org/release/8f04d182-c716-4a5d-8a82-96381a9973c8", "https://vgmdb.net/album/123847"]
 
 [124]
-catalognumber = "OMRS-0003"
-date = "2016-02-24"
-album = "菅野祐悟バレンタインコンサート2015"
-tracks = [
-    [1, "軍師官兵衛 メイン・テーマ", "", -1],
-    [2, "天才官兵衛", "", -1],
-    [3, "官兵衛走る", "", -1],
-    [4, "ATTENTION PLEASE -MAIN THEME-", "", -1],
-    [5, "アニュスデイ", "", -1],
-    [6, "トロンボーン協奏曲「Flower」より2楽章 AS TIME GOES BY", "", -1],
-    [7, "花咲舞が黙ってない", "", -1],
-    [8, "Security Police", "", -1],
-    [9, "ダブルフェイス-MAIN THEME-", "", -1],
-    [10, "Never Again", "", -1],
-    [11, "ガンダム Gのレコンギスタ", "", -1],
-    [12, "Gの閃光", "", -1],
-    [13, "ドミネーター", "", 0],
-    [14, "PSYCHO-PASS", "", 0],
-    [15, "スターダストクルセイダース", "", -1],
-    [16, "MOZU", "", -1],
-    [17, "春の足音", "", -1],
-]
-links = ["https://vgmdb.net/album/76079"]
-
-[125]
-catalognumber = "TBZR-0375"
-date = "2015-01-28"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」復活SP Disc 1"
-tracks = []
-links = ["https://vgmdb.net/album/51752"]
-
-[126]
-catalognumber = "TBZR-0376"
-date = "2015-01-28"
-album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」復活SP Disc 2"
-tracks = []
-links = ["https://vgmdb.net/album/51752"]
-
-[127]
-catalognumber = "TBR24813D-2"
-date = "2015-02-18"
-album = "サイコパス2 第3巻 特典CD"
-tracks = [
-    [1, "姉弟中毒", "", -1],
-]
-links = ["https://vgmdb.net/album/49217"]
-
-[128]
-catalognumber = "NJSJ-008"
-date = "2020-10-28"
-album = "Prismatic Colors / にじさんじ"
-tracks = [
-    [1, "残酷な天使のテーゼ", "早瀬走", -1],
-    [2, "ジレンマ", "メリッサ・キンレンカ", -1],
-    [3, "シリョクケンサ", "葉加瀬冬雪", -1],
-    [4, "カサブタ", "シェリン・バーガンディ", -1],
-    [5, "ラストダンス", "剣持刀也", -1],
-    [6, "Gimme×Gimme", "ドーラ", -1],
-    [7, "世界は恋に落ちている", "星川サラ", -1],
-    [8, "再会", "卯月コウ", -1],
-    [9, "ゆずれない願い", "レヴィ・エリファ", -1],
-    [10, "太陽系デスコ", "アンジュ・カトリーナ", -1],
-    [11, "Hand in Hand", "リゼ・ヘルエスタ", -1],
-    [12, "名前のない怪物", "戌亥とこ", 0],
-    [13, "My Dearest", "町田ちま", -1],
-]
-links = ["https://beta.musicbrainz.org/release/0cd97c3b-37ed-4cc3-9702-0fe78c12f34a", "https://vgmdb.net/album/105590"]
-
-[129]
-catalognumber = "VVCL-1148, VVCL-1149, VVCL-1150"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Vocal Disc 1"
-tracks = [
-    [1, "英雄 運命の詩", "EGOIST", -1],
-    [2, "Welcome to the *fam", "EGOIST", -1],
-    [3, "KABANERI OF THE IRON FORTRESS", "EGOIST", -1],
-    [4, "Door", "EGOIST", -1],
-    [5, "Ghost of a smile", "EGOIST", -1],
-    [6, "リローデッド", "EGOIST", -1],
-    [7, "Fallen", "EGOIST", 0],
-    [8, "好きと言われた日", "EGOIST", -1],
-    [9, "All Alone With You", "EGOIST", 0],
-    [10, "カナデナル", "EGOIST", 0],
-    [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", -1],
-    [13, "The Everlasting Guilty Crown", "EGOIST", -1],
-    [14, "エウテルペ", "EGOIST", -1],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", -1],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/980b7a4a-a174-4681-83c6-52e846345b1a", "https://vgmdb.net/album/72548"]
-
-[130]
-catalognumber = "VVCL-1148, VVCL-1149, VVCL-1150"
-date = "2017-12-27"
-album = "GREATEST HITS 2011-2017 \"ALTER EGO\" / EGOIST [Limited Edition] Vocal Disc 2"
-tracks = [
-    [1, "\"Departures ～あなたにおくるアイの歌～\" Music Video", "EGOIST", -1],
-    [2, "\"The Everlasting Guilty Crown\" Music Video (TV Edit ver.)", "EGOIST", -1],
-    [3, "\"Planetes\" Music Video", "EGOIST", -1],
-    [4, "\"名前のない怪物\" Music Video", "EGOIST", -1],
-    [5, "\"All Alone With You\" Music Video", "EGOIST", -1],
-    [6, "\"Fallen\" Music Video", "EGOIST", -1],
-    [7, "\"リローデッド\" Music Video", "EGOIST", -1],
-    [8, "\"Ghost of a smile\" Music Video", "EGOIST", -1],
-    [9, "\"Door\" Music Video", "EGOIST", -1],
-    [10, "\"KABANERI OF THE IRON FORTRESS\" Original Movie", "EGOIST", -1],
-    [11, "\"Welcome to the *fam\" Music Video", "EGOIST", -1],
-    [12, "\"英雄 運命の詩\" Original Movie", "EGOIST", -1],
-]
-links = ["https://beta.musicbrainz.org/release/980b7a4a-a174-4681-83c6-52e846345b1a", "https://vgmdb.net/album/72548"]
-
-[131]
 catalognumber = "BRMM-10595"
 date = "2022-12-14"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクション Vol.7 [Blu-ray付生産限定盤]"
@@ -2284,84 +2209,159 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ff28439e-66bf-4b64-8377-236ba5cbdeb1", "https://vgmdb.net/album/123848"]
 
-[132]
-catalognumber = "AICL-2526"
-date = "2013-04-10"
-album = "i'mperfect / 凛として時雨"
+[125]
+catalognumber = "AICL-4353"
+date = "2023-04-12"
+album = "last aurorally / 凛として時雨"
 tracks = [
-    [1, "Beautiful Circus", "凛として時雨", -1],
-    [2, "abnormalize", "凛として時雨", 0],
-    [3, "Metamorphose", "凛として時雨", -1],
-    [4, "Filmsick Mystery", "凛として時雨", -1],
-    [5, "Sitai miss me", "凛として時雨", -1],
-    [6, "make up syndrome (album mix)", "凛として時雨", 0],
-    [7, "MONSTER", "凛として時雨", -1],
-    [8, "キミトオク", "凛として時雨", -1],
-    [9, "Missing ling", "凛として時雨", -1],
+    [1, "Super Sonic Aurorally", "凛として時雨", -1],
+    [2, "竜巻いて鮮脳", "凛として時雨", -1],
+    [3, "Marvelous Persona", "凛として時雨", -1],
+    [4, "laser beamer", "凛として時雨", -1],
+    [5, "self‐hacking", "凛として時雨", -1],
+    [6, "アレキシサイミアスペア", "凛として時雨", -1],
+    [7, "Neighbormind", "凛として時雨", -1],
+    [8, "Perfake Perfect", "凛として時雨", -1],
+    [9, "滅亡craft", "凛として時雨", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/9c89e1ac-5a34-4a0c-be2d-da697f9f3d25", "https://vgmdb.net/album/100562"]
+links = ["https://beta.musicbrainz.org/release/bfc16325-c98f-483d-a6e8-3618c6633024", "https://vgmdb.net/album/127479"]
+
+[126]
+catalognumber = "AICL-4358"
+date = "2023-05-10"
+album = "アレキシサイミアスペア / 凛として時雨 [完全生産限定盤] Disc 1 (CD) [AICL-4358]"
+tracks = [
+    [1, "アレキシサイミアスペア", "凛として時雨", -1],
+    [2, "アレキシサイミアスペア (Movie edit)", "凛として時雨", -1],
+    [3, "アレキシサイミアスペア (Instrumental)", "凛として時雨", -1],
+    [4, "abnormalize (10th anniversary mix)", "凛として時雨", 0],
+]
+links = ["https://beta.musicbrainz.org/release/423d910f-7088-46b5-96f6-ddcd536326f9", "https://vgmdb.net/album/128374"]
+
+[127]
+catalognumber = "AICL-4359"
+date = "2023-05-10"
+album = "アレキシサイミアスペア / 凛として時雨 [完全生産限定盤] Disc 2 (Blu-ray) [AICL-4359]"
+tracks = [
+    [1, "『劇場版 PSYCHO‐PASS サイコパス PROVIDENCE』ノンクレジットOP", "凛として時雨", -1],
+    [2, "アレキシサイミアスペア (Music Video)", "凛として時雨", -1],
+]
+links = ["https://beta.musicbrainz.org/release/423d910f-7088-46b5-96f6-ddcd536326f9", "https://vgmdb.net/album/128374"]
+
+[128]
+catalognumber = "VVCL-2240"
+date = "2023-05-10"
+album = "当事者 / EGOIST [初回生産限定盤] Vocal, Remix"
+tracks = [
+    [1, "当事者", "EGOIST", -1],
+    [2, "Fallen (M2U Remix)", "EGOIST", 0],
+    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
+    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
+    [5, "当事者 (Instrumental)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/49da5481-3ec9-46a8-99db-69ae21c61ea0", "https://vgmdb.net/album/127608"]
+
+[129]
+catalognumber = "VVCL-2241"
+date = "2023-05-10"
+album = "当事者 / EGOIST [初回生産限定盤] Vocal, Remix, Video"
+tracks = [
+    [1, "当事者 Music Video", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/49da5481-3ec9-46a8-99db-69ae21c61ea0", "https://vgmdb.net/album/127608"]
+
+[130]
+catalognumber = "VVCL-2242"
+date = "2023-05-10"
+album = "当事者 / EGOIST"
+tracks = [
+    [1, "当事者", "EGOIST", -1],
+    [2, "Fallen (M2U Remix)", "EGOIST", 0],
+    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
+    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
+    [5, "当事者 (Instrumental)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/b6a1f9e2-a54b-467b-84e1-1db68b286ac6", "https://vgmdb.net/album/127607"]
+
+[131]
+catalognumber = "VVCL-2243"
+date = "2023-05-10"
+album = "当事者 / EGOIST [期間生産限定盤] Vocal, Remix"
+tracks = [
+    [1, "当事者", "EGOIST", -1],
+    [2, "Fallen (M2U Remix)", "EGOIST", 0],
+    [3, "All Alone With You (Serph Remix)", "EGOIST", 0],
+    [4, "名前のない怪物 (Giga Remix)", "EGOIST", 0],
+    [5, "当事者 (Instrumental)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/43f5565f-8f6f-4b8a-9aad-bb24128158b6", "https://vgmdb.net/album/127609"]
+
+[132]
+catalognumber = "VVCL-2244"
+date = "2023-05-10"
+album = "当事者 / EGOIST [期間生産限定盤] Video"
+tracks = [
+    [1, "当事者 -Music Video- (PSYCHO-PASS ver.)", "EGOIST", -1],
+]
+links = ["https://beta.musicbrainz.org/release/43f5565f-8f6f-4b8a-9aad-bb24128158b6", "https://vgmdb.net/album/127609"]
 
 [133]
-catalognumber = "SRCL-8637"
-date = "2014-11-19"
-album = "Fallen / EGOIST [Limited Edition] Disc 1 (CD) [SRCL-8637]"
+catalognumber = "AIJL-5340"
+date = "2023-06-07"
+album = "PSYCHO-PASS: Cutting the Digital Domination / 凛として時雨"
 tracks = [
-    [1, "Fallen", "EGOIST", 0],
-    [2, "1.4.2", "EGOIST", 0],
-    [3, "Fallen (TV Edit)", "EGOIST", 0],
-    [4, "Fallen -Instrumental-", "EGOIST", 0],
-    [5, "1.4.2 -Instrumental-", "EGOIST", 0],
-    [6, "Fallen (TV Edit) -Instrumental-", "EGOIST", 0],
+    [1, "abnormalize", "", 0],
+    [2, "Enigmatic Feeling", "", 0],
+    [3, "Who What Who What", "", 0],
+    [4, "アレキシサイミアスペア", "", -1],
+    [5, "laser beamer", "", -1],
+    [6, "Perfake Perfect", "", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/cd1baea4-5e2f-421b-91aa-f87ee430ba23", "https://vgmdb.net/album/47765"]
+links = ["https://vgmdb.net/album/128375"]
 
 [134]
-catalognumber = "SRCL-8638"
-date = "2014-11-19"
-album = "Fallen / EGOIST [Limited Edition] Disc 2 (DVD) [SRCL-8638]"
+catalognumber = "SNCL-83"
+date = "2023-08-17"
+album = "Astrolabe / カグラナナ [完全生産限定盤] Disc 1 [SNCL-83]"
 tracks = [
-    [1, "「Fallen」Music Video", "EGOIST", -1],
-    [2, "「PSYCHO-PASS サイコパス 2」Ending ノンクレジットムービー", "EGOIST", -1],
+    [1, "シアワセ辛略計画", "カグラナナ", -1],
+    [2, "Burn Ash", "カグラナナ", -1],
+    [3, "恋ひ渡る雨粒", "カグラナナ", -1],
+    [4, "君がくれた音", "カグラナナ", -1],
+    [5, "ナナイロセカイ <Eurobeat Arranged by Nor>", "カグラナナ", -1],
+    [6, "陽炎 <Drum’n’Bass Arranged by Len>", "カグラナナ", -1],
+    [7, "鼓動 <Piano Arranged by 40mP>", "カグラナナ", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/cd1baea4-5e2f-421b-91aa-f87ee430ba23", "https://vgmdb.net/album/47765"]
+links = ["https://beta.musicbrainz.org/release/83d964d7-01fe-4c8a-b2a5-e0708861d6c5", "https://vgmdb.net/album/136732"]
 
 [135]
-catalognumber = "AICL-3790"
-date = "2019-12-11"
-album = "PURE / Cö shu Nie"
+catalognumber = "SNCL-84"
+date = "2023-08-17"
+album = "Astrolabe / カグラナナ [完全生産限定盤] Disc 2 [SNCL-84]"
 tracks = [
-    [1, "who are you?", "Cö shu Nie", -1],
-    [2, "asphyxia", "Cö shu Nie", -1],
-    [3, "bullet", "Cö shu Nie", -1],
-    [4, "scapegoat", "Cö shu Nie", -1],
-    [5, "character", "Cö shu Nie", -1],
-    [6, "CREAM", "Cö shu Nie", -1],
-    [7, "サイコプール≒レゴプール", "Cö shu Nie", -1],
-    [8, "iB", "Cö shu Nie", -1],
-    [9, "絶体絶命", "Cö shu Nie", -1],
-    [10, "Lamp", "Cö shu Nie", -1],
-    [11, "inertia", "Cö shu Nie", -1],
-    [12, "gray", "Cö shu Nie", -1],
+    [1, "DISCOTHEQUE", "カグラナナ", -1],
+    [2, "ブラック★ロックシューター", "カグラナナ", -1],
+    [3, "名前のない怪物", "カグラナナ", 0],
+    [4, "STAR RISE", "カグラナナ", -1],
+    [5, "群青", "カグラナナ", -1],
+    [6, "HIGHSCHOOL OF THE DEAD", "カグラナナ", -1],
+    [7, "letter song", "カグラナナ", -1],
 ]
-links = ["https://beta.musicbrainz.org/release/10a76f20-5684-403e-8667-c419d30432e2", "https://vgmdb.net/album/92059"]
+links = ["https://beta.musicbrainz.org/release/83d964d7-01fe-4c8a-b2a5-e0708861d6c5", "https://vgmdb.net/album/136732"]
 
 [136]
-catalognumber = "AICL-4188"
-date = "2022-03-16"
-album = "Flos Ex Machina / Cö shu Nie [初回生産限定盤]"
+catalognumber = "MSDS-002"
+date = "2024-06-19"
+album = "gnosinA -Beyond-"
 tracks = [
-    [1, "red strand", "", -1],
-    [2, "BED CHUTE!!", "", -1],
-    [3, "undress me", "", -1],
-    [4, "fujI", "", -1],
-    [5, "病は花から", "", -1],
-    [6, "青春にして已む", "", -1],
-    [7, "miracle", "", -1],
-    [8, "夏の深雪", "", -1],
-    [9, "give it back", "", -1],
-    [10, "SAKURA BURST", "", -1],
-    [11, "nightmare feathers_", "", -1],
-    [12, "迷路 ～序章～", "", -1],
-    [13, "迷路 ～本編～", "", -1],
+    [1, "KABANERI OF THE IRON FORTRESS", "千代浦蝶美", -1],
+    [2, "君色シグナル", "久遠たま", -1],
+    [3, "平行線", "松永依織", -1],
+    [4, "こんなに近くで…", "詩趣ミンゴス", -1],
+    [5, "光るなら", "よしか⁂", -1],
+    [6, "七色シンフォニー", "天羽しろっぷ", -1],
+    [7, "Fallen", "松永依織 & 久遠たま", 0],
+    [8, "フィクション", "天羽しろっぷ & よしか⁂", -1],
+    [9, "Oz.", "千代浦蝶美 & 詩趣ミンゴス", -1],
 ]
-links = ["https://vgmdb.net/album/117034"]
+links = ["https://beta.musicbrainz.org/release/8c197117-edd6-4fee-a819-0cc6ae7e46d2", "https://vgmdb.net/album/142057"]
