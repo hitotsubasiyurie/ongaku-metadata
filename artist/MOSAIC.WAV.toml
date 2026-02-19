@@ -3,19 +3,19 @@ catalognumber = ""
 date = ""
 album = "Akiba-Pop Recollection Disc 1"
 tracks = [
-    [1, "We Love", "MOSAIC.WAV", -1],
-    [2, "Nai Xiao De Gu Niang", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "Youkoso Himitsu no Janbaraya!?", "MOSAIC.WAV", -1],
-    [5, "Meganedene!", "MOSAIC.WAV", -1],
-    [6, "Gachagacha Cute Figu@Mate", "MOSAIC.WAV", -1],
-    [7, "Gachagacha Hertz Figu@Radio", "MOSAIC.WAV", -1],
-    [8, "Pantyuarii", "MOSAIC.WAV", -1],
-    [9, "Sennou Sakusyu Toranomaki", "MOSAIC.WAV", -1],
-    [10, "Space! Wave! Akiba-Pop!!", "MOSAIC.WAV", -1],
-    [11, "Hanayome Shugyou Air Darlin'", "MOSAIC.WAV", -1],
-    [12, "Todoke In Nyaa Heart", "MOSAIC.WAV", -1],
-    [13, "Mon-ju Brains", "MOSAIC.WAV", -1],
+    [1, "We Love", "MOSAIC.WAV", 0],
+    [2, "Nai Xiao De Gu Niang", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "Youkoso Himitsu no Janbaraya!?", "MOSAIC.WAV", 0],
+    [5, "Meganedene!", "MOSAIC.WAV", 0],
+    [6, "Gachagacha Cute Figu@Mate", "MOSAIC.WAV", 0],
+    [7, "Gachagacha Hertz Figu@Radio", "MOSAIC.WAV", 0],
+    [8, "Pantyuarii", "MOSAIC.WAV", 0],
+    [9, "Sennou Sakusyu Toranomaki", "MOSAIC.WAV", 0],
+    [10, "Space! Wave! Akiba-Pop!!", "MOSAIC.WAV", 0],
+    [11, "Hanayome Shugyou Air Darlin'", "MOSAIC.WAV", 0],
+    [12, "Todoke In Nyaa Heart", "MOSAIC.WAV", 0],
+    [13, "Mon-ju Brains", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/65913106-ce3b-4eb4-9e47-7c4b98ed45a3"]
 
@@ -24,19 +24,19 @@ catalognumber = ""
 date = ""
 album = "Akiba-Pop Recollection Disc 2"
 tracks = [
-    [1, "Magical Hacker Kurukuru Risk -Album Version-", "MOSAIC.WAV", -1],
-    [2, "Denki no Koibito", "MOSAIC.WAV", -1],
-    [3, "Kimi wa Nantera Byte", "MOSAIC.WAV", -1],
-    [4, "Miwaku no Tunderoid", "MOSAIC.WAV", -1],
-    [5, "Yuriseizinn Naokosan", "MOSAIC.WAV", -1],
-    [6, "Yuriseishiki Oyuugiuta", "MOSAIC.WAV", -1],
-    [7, "Falsie The Pseudo-Science Girl (Girigiri Kagaku Shoujyo Folsii)", "MOSAIC.WAV", -1],
-    [8, "*** ni Dekirukana", "MOSAIC.WAV", -1],
-    [9, "Local Jesus", "MOSAIC.WAV", -1],
-    [10, "Akiba-Pop The Future", "MOSAIC.WAV", -1],
-    [11, "Eclipse", "MOSAIC.WAV", -1],
-    [12, "Zikuukan Tyouetsu Library", "MOSAIC.WAV", -1],
-    [13, "Flyer", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker Kurukuru Risk -Album Version-", "MOSAIC.WAV", 0],
+    [2, "Denki no Koibito", "MOSAIC.WAV", 0],
+    [3, "Kimi wa Nantera Byte", "MOSAIC.WAV", 0],
+    [4, "Miwaku no Tunderoid", "MOSAIC.WAV", 0],
+    [5, "Yuriseizinn Naokosan", "MOSAIC.WAV", 0],
+    [6, "Yuriseishiki Oyuugiuta", "MOSAIC.WAV", 0],
+    [7, "Falsie The Pseudo-Science Girl (Girigiri Kagaku Shoujyo Folsii)", "MOSAIC.WAV", 0],
+    [8, "*** ni Dekirukana", "MOSAIC.WAV", 0],
+    [9, "Local Jesus", "MOSAIC.WAV", 0],
+    [10, "Akiba-Pop The Future", "MOSAIC.WAV", 0],
+    [11, "Eclipse", "MOSAIC.WAV", 0],
+    [12, "Zikuukan Tyouetsu Library", "MOSAIC.WAV", 0],
+    [13, "Flyer", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/65913106-ce3b-4eb4-9e47-7c4b98ed45a3"]
 
@@ -45,25 +45,25 @@ catalognumber = ""
 date = ""
 album = "Amusement Pack"
 tracks = [
-    [1, "Makuai Geki \"Deai To Makizoe\"", "MOSAIC.WAV", -1],
-    [2, "Akiba In Wonderland", "MOSAIC.WAV", -1],
-    [3, "Makuai Geki \"365 days 5 hours 48 minutes 45 seconds\"", "MOSAIC.WAV", -1],
-    [4, "Katamichi Catch-ball", "MOSAIC.WAV", -1],
-    [5, "Nursery Time", "MOSAIC.WAV", -1],
-    [6, "Makuai Geki \"Risou No Koukyuu\"", "MOSAIC.WAV", -1],
-    [7, "Mitsudomoe-motion～triangular fight", "MOSAIC.WAV", -1],
-    [8, "Makuai Geki \"Shudaika No Amai Sasayaki\"", "MOSAIC.WAV", -1],
-    [9, "Saikyou OX Keikaku", "MOSAIC.WAV", -1],
-    [10, "Setsujou! Hyakkaryouran", "MOSAIC.WAV", -1],
-    [11, "Makuai Geki \"Itameta Kuruma Demo Arimase Nu\"", "MOSAIC.WAV", -1],
-    [12, "Pain Paint Car", "MOSAIC.WAV", -1],
-    [13, "Kyun Kyun Panic", "MOSAIC.WAV", -1],
-    [14, "Makuai Geki \"Kaidouzoi No Gakudantachi\"", "MOSAIC.WAV", -1],
-    [15, "We Love “AKIBA-POP”!! [NEW TAKE]", "MOSAIC.WAV", -1],
-    [16, "Makuai Geki \"Attraction Delivery\"", "MOSAIC.WAV", -1],
-    [17, "Amusement Pack", "MOSAIC.WAV", -1],
-    [18, "Makuai Geki \"40 Page No Shoutaijou\"", "MOSAIC.WAV", -1],
-    [19, "Finale", "MOSAIC.WAV", -1],
+    [1, "Makuai Geki \"Deai To Makizoe\"", "MOSAIC.WAV", 0],
+    [2, "Akiba In Wonderland", "MOSAIC.WAV", 0],
+    [3, "Makuai Geki \"365 days 5 hours 48 minutes 45 seconds\"", "MOSAIC.WAV", 0],
+    [4, "Katamichi Catch-ball", "MOSAIC.WAV", 0],
+    [5, "Nursery Time", "MOSAIC.WAV", 0],
+    [6, "Makuai Geki \"Risou No Koukyuu\"", "MOSAIC.WAV", 0],
+    [7, "Mitsudomoe-motion～triangular fight", "MOSAIC.WAV", 0],
+    [8, "Makuai Geki \"Shudaika No Amai Sasayaki\"", "MOSAIC.WAV", 0],
+    [9, "Saikyou OX Keikaku", "MOSAIC.WAV", 0],
+    [10, "Setsujou! Hyakkaryouran", "MOSAIC.WAV", 0],
+    [11, "Makuai Geki \"Itameta Kuruma Demo Arimase Nu\"", "MOSAIC.WAV", 0],
+    [12, "Pain Paint Car", "MOSAIC.WAV", 0],
+    [13, "Kyun Kyun Panic", "MOSAIC.WAV", 0],
+    [14, "Makuai Geki \"Kaidouzoi No Gakudantachi\"", "MOSAIC.WAV", 0],
+    [15, "We Love “AKIBA-POP”!! [NEW TAKE]", "MOSAIC.WAV", 0],
+    [16, "Makuai Geki \"Attraction Delivery\"", "MOSAIC.WAV", 0],
+    [17, "Amusement Pack", "MOSAIC.WAV", 0],
+    [18, "Makuai Geki \"40 Page No Shoutaijou\"", "MOSAIC.WAV", 0],
+    [19, "Finale", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/bbd9ac84-82fa-42f4-9d28-5abf0bf3de8d"]
 
@@ -72,12 +72,12 @@ catalognumber = ""
 date = ""
 album = "CD \"Koe de Oshigoto\" Image Song \"Mahou no Oshigoto\""
 tracks = [
-    [1, "Mahou no Oshigoto", "MOSAIC.WAV", -1],
-    [2, "Kokoro no Himegoto", "MOSAIC.WAV", -1],
-    [3, "Yume de ii Koto", "MOSAIC.WAV", -1],
-    [4, "Mahou no Oshigoto（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "Kokoro no Himegoto（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "Yume de ii Koto（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "Mahou no Oshigoto", "MOSAIC.WAV", 0],
+    [2, "Kokoro no Himegoto", "MOSAIC.WAV", 0],
+    [3, "Yume de ii Koto", "MOSAIC.WAV", 0],
+    [4, "Mahou no Oshigoto（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "Kokoro no Himegoto（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "Yume de ii Koto（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/3035dffa-8a1b-42d9-8262-7694f78f5fe4"]
 
@@ -86,10 +86,10 @@ catalognumber = ""
 date = ""
 album = "End of the Year"
 tracks = [
-    [1, "Bonnou of the Year", "MOSAIC.WAV", -1],
-    [2, "Nextage", "yksb", -1],
-    [3, "Bonnou of the Year (Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "Nextage (Off Vocal)", "yksb", -1],
+    [1, "Bonnou of the Year", "MOSAIC.WAV", 0],
+    [2, "Nextage", "yksb", 0],
+    [3, "Bonnou of the Year (Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "Nextage (Off Vocal)", "yksb", 0],
 ]
 links = []
 
@@ -98,19 +98,19 @@ catalognumber = ""
 date = ""
 album = "Ginyu Planet☆Akiba-Pop"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV/Mosaic. wav", -1],
-    [2, "Indoor Izm", "MOSAIC.WAV", -1],
-    [3, "Mono no Aware", "MOSAIC.WAV", -1],
-    [4, "Oishii Mahou no Tonaekata", "MOSAIC.WAV", -1],
-    [5, "NAOKO-THUNDER VERNIER ~Youshouki no Owari~", "MOSAIC.WAV", -1],
-    [6, "Kimi ni Onegai! Security", "MOSAIC.WAV", -1],
-    [7, "Tabegoro☆1/2 Fruits", "MOSAIC.WAV", -1],
-    [8, "Yuukyuu Souhunka", "MOSAIC.WAV", -1],
-    [9, "Nounai Saisei ~Ecphoric dance~", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ \"Hyperluminal\"", "MOSAIC.WAV", -1],
-    [11, "Papipepu Poliday", "MOSAIC.WAV", -1],
-    [12, "Tentaijou Ginyuu Satellite", "MOSAIC.WAV", -1],
-    [13, "Fly-Alone", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV/Mosaic. wav", 0],
+    [2, "Indoor Izm", "MOSAIC.WAV", 0],
+    [3, "Mono no Aware", "MOSAIC.WAV", 0],
+    [4, "Oishii Mahou no Tonaekata", "MOSAIC.WAV", 0],
+    [5, "NAOKO-THUNDER VERNIER ~Youshouki no Owari~", "MOSAIC.WAV", 0],
+    [6, "Kimi ni Onegai! Security", "MOSAIC.WAV", 0],
+    [7, "Tabegoro☆1/2 Fruits", "MOSAIC.WAV", 0],
+    [8, "Yuukyuu Souhunka", "MOSAIC.WAV", 0],
+    [9, "Nounai Saisei ~Ecphoric dance~", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ \"Hyperluminal\"", "MOSAIC.WAV", 0],
+    [11, "Papipepu Poliday", "MOSAIC.WAV", 0],
+    [12, "Tentaijou Ginyuu Satellite", "MOSAIC.WAV", 0],
+    [13, "Fly-Alone", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -119,12 +119,12 @@ catalognumber = ""
 date = ""
 album = "illuminations"
 tracks = [
-    [1, "illuminations", "MOSAIC.WAV", -1],
-    [2, "ヨゾラのTwinkle", "MOSAIC.WAV", -1],
-    [3, "女の子はゆめかわスイーツで出来ている", "MOSAIC.WAV", -1],
-    [4, "illuminations (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "ヨゾラのTwinkle (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "女の子はゆめかわスイーツで出来ている (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "illuminations", "MOSAIC.WAV", 0],
+    [2, "ヨゾラのTwinkle", "MOSAIC.WAV", 0],
+    [3, "女の子はゆめかわスイーツで出来ている", "MOSAIC.WAV", 0],
+    [4, "illuminations (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "ヨゾラのTwinkle (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "女の子はゆめかわスイーツで出来ている (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -133,12 +133,12 @@ catalognumber = ""
 date = ""
 album = "Monster Parade"
 tracks = [
-    [0, "Monster Parade", "MOSAIC.WAV", -1],
-    [0, "Sampling Free", "MOSAIC.WAV", -1],
-    [0, "Lumpling BOX", "MOSAIC.WAV", -1],
-    [0, "Monster Parade (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Sampling Free (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Lumpling BOX (Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "Monster Parade", "MOSAIC.WAV", 0],
+    [0, "Sampling Free", "MOSAIC.WAV", 0],
+    [0, "Lumpling BOX", "MOSAIC.WAV", 0],
+    [0, "Monster Parade (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Sampling Free (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Lumpling BOX (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -147,12 +147,12 @@ catalognumber = ""
 date = ""
 album = "MoonStar Halloween"
 tracks = [
-    [1, "MoonStar Halloween", "MOSAIC.WAV", -1],
-    [2, "ジドリックラビリンス", "MOSAIC.WAV", -1],
-    [3, "パティシエ・和菓シエ", "MOSAIC.WAV", -1],
-    [4, "MoonStar Halloween(Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "ジドリックラビリンス(Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "パティシエ・和菓シエ(Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "MoonStar Halloween", "MOSAIC.WAV", 0],
+    [2, "ジドリックラビリンス", "MOSAIC.WAV", 0],
+    [3, "パティシエ・和菓シエ", "MOSAIC.WAV", 0],
+    [4, "MoonStar Halloween(Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "ジドリックラビリンス(Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "パティシエ・和菓シエ(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -161,12 +161,12 @@ catalognumber = ""
 date = ""
 album = "Tasukete! Okusuri Sensei"
 tracks = [
-    [1, "Tasukete! Okusuri Sensei", "MOSAIC.WAV", -1],
-    [2, "H Na Kuni No Kagaku Kyouiku", "MOSAIC.WAV", -1],
-    [3, "Shoukei No Minoritier", "MOSAIC.WAV", -1],
-    [4, "Tasukete! Okusuri Sensei (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "H Na Kuni No Kagaku Kyouiku (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "Shoukei No Minoritier (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "Tasukete! Okusuri Sensei", "MOSAIC.WAV", 0],
+    [2, "H Na Kuni No Kagaku Kyouiku", "MOSAIC.WAV", 0],
+    [3, "Shoukei No Minoritier", "MOSAIC.WAV", 0],
+    [4, "Tasukete! Okusuri Sensei (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "H Na Kuni No Kagaku Kyouiku (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "Shoukei No Minoritier (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -175,12 +175,12 @@ catalognumber = ""
 date = ""
 album = "Zensekaiteki Touch Panel"
 tracks = [
-    [0, "Zensekaiteki Touch Panel", "MOSAIC.WAV", -1],
-    [0, "Pasokon Yoku Wakannai", "MOSAIC.WAV", -1],
-    [0, "Tweet Now (ΦｗΦ)ノ", "MOSAIC.WAV", -1],
-    [0, "Zensekaiteki Touch Panel (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Pasokon Yoku Wakannai (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Tweet Now (ΦｗΦ)ノ (Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "Zensekaiteki Touch Panel", "MOSAIC.WAV", 0],
+    [0, "Pasokon Yoku Wakannai", "MOSAIC.WAV", 0],
+    [0, "Tweet Now (ΦｗΦ)ノ", "MOSAIC.WAV", 0],
+    [0, "Zensekaiteki Touch Panel (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Pasokon Yoku Wakannai (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Tweet Now (ΦｗΦ)ノ (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -189,10 +189,10 @@ catalognumber = ""
 date = ""
 album = "¦ÁÖñ(P^P)ÇâÇ·HVç©"
 tracks = [
-    [1, "¦ÁÖñ(P^P)ÇâÇ·HVç©", "MOSAIC.WAV", -1],
-    [2, "µãzGª", "MOSAIC.WAV", -1],
-    [3, "¦ÁÖñ(P^P)ÇâÇ·HVç© (Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "µãzGª (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "¦ÁÖñ(P^P)ÇâÇ·HVç©", "MOSAIC.WAV", 0],
+    [2, "µãzGª", "MOSAIC.WAV", 0],
+    [3, "¦ÁÖñ(P^P)ÇâÇ·HVç© (Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "µãzGª (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -201,12 +201,12 @@ catalognumber = ""
 date = ""
 album = "おとこの娘のトビラ"
 tracks = [
-    [1, "おとこの娘のトビラ", "MOSAIC. WAV", -1],
-    [2, "商品おすすめソシエちゃん", "MOSAIC. WAV", -1],
-    [3, "unpleasant melody ～戸惑いの仔羊たち～", "MOSAIC. WAV", -1],
-    [4, "おとこの娘のトビラ (Off Vocal)", "MOSAIC. WAV", -1],
-    [5, "05 商品おすすめソシエちゃん (Off Vocal)", "MOSAIC. WAV", 0],
-    [6, "unpleasant melody ～戸惑いの仔羊たち～ (Off Vocal)", "Mosaic.wav", -1],
+    [1, "おとこの娘のトビラ", "MOSAIC. WAV", 0],
+    [2, "商品おすすめソシエちゃん", "MOSAIC. WAV", 0],
+    [3, "unpleasant melody ～戸惑いの仔羊たち～", "MOSAIC. WAV", 0],
+    [4, "おとこの娘のトビラ (Off Vocal)", "MOSAIC. WAV", 0],
+    [5, "05 商品おすすめソシエちゃん (Off Vocal)", "MOSAIC. WAV", 1],
+    [6, "unpleasant melody ～戸惑いの仔羊たち～ (Off Vocal)", "Mosaic.wav", 0],
 ]
 links = []
 
@@ -215,10 +215,10 @@ catalognumber = ""
 date = ""
 album = "この世界がゲームだと俺だけが知っている〜MusicOnline〜"
 tracks = [
-    [0, "Communicate Log Out", "Mosaic.wav", -1],
-    [0, "おたすけ!トレインちゃんからは逃げられない(", "Mosaic.wav", -1],
-    [0, "氷雨降る、月に叢雲", "Mosaic.wav", -1],
-    [0, "A:バグです", "Mosaic.wav", -1],
+    [0, "Communicate Log Out", "Mosaic.wav", 0],
+    [0, "おたすけ!トレインちゃんからは逃げられない(", "Mosaic.wav", 0],
+    [0, "氷雨降る、月に叢雲", "Mosaic.wav", 0],
+    [0, "A:バグです", "Mosaic.wav", 0],
 ]
 links = []
 
@@ -227,7 +227,7 @@ catalognumber = ""
 date = ""
 album = "オタカラアドベンチャー"
 tracks = [
-    [1, "オタカラアドベンチャー", "しゃおみこ", -1],
+    [1, "オタカラアドベンチャー", "しゃおみこ", 0],
 ]
 links = []
 
@@ -236,12 +236,12 @@ catalognumber = ""
 date = ""
 album = "サキュバしって★マイマスター"
 tracks = [
-    [1, "サキュバしって★マイマスター", "MOSAIC. WAV", -1],
-    [2, "ユリオンジャック", "MOSAIC. WAV", -1],
-    [3, "LOVE?サイキック相談室", "MOSAIC. WAV", -1],
-    [4, "サキュバしって★マイマスター(Off Vocal)", "MOSAIC. WAV", -1],
-    [5, "ユリオンジャック(Off Vocal)", "MOSAIC. WAV", -1],
-    [6, "LOVE?サイキック相談室(Off Vocal)", "MOSAIC. WAV", -1],
+    [1, "サキュバしって★マイマスター", "MOSAIC. WAV", 0],
+    [2, "ユリオンジャック", "MOSAIC. WAV", 0],
+    [3, "LOVE?サイキック相談室", "MOSAIC. WAV", 0],
+    [4, "サキュバしって★マイマスター(Off Vocal)", "MOSAIC. WAV", 0],
+    [5, "ユリオンジャック(Off Vocal)", "MOSAIC. WAV", 0],
+    [6, "LOVE?サイキック相談室(Off Vocal)", "MOSAIC. WAV", 0],
 ]
 links = []
 
@@ -250,11 +250,11 @@ catalognumber = ""
 date = ""
 album = "明日、ホクは死ぬ。キミは生き返る。~Last Page~"
 tracks = [
-    [1, "憑依系ヒロイン、光ちゃん参上!(Voice Up for 夢前光)", "み~こ", -1],
-    [2, "じゅる…おにいさま☆いただきますなのです!!(Voice Up for 坂本雪瑚)", "み~こ", -1],
-    [3, "Orange Candy(Voice Up for 真田霞)", "み~こ", -1],
-    [4, "HERO戦隊セクシードリーム(Voice Up for セクシードリーム戦隊)", "柏森進·み~こ·尾崎亜梨子·三本木大輔", -1],
-    [5, "ウラオモテダイアリー(Voice Up for 明日、ボクは死ぬ。キミは生き返る。)", "み~こ", -1],
+    [1, "憑依系ヒロイン、光ちゃん参上!(Voice Up for 夢前光)", "み~こ", 0],
+    [2, "じゅる…おにいさま☆いただきますなのです!!(Voice Up for 坂本雪瑚)", "み~こ", 0],
+    [3, "Orange Candy(Voice Up for 真田霞)", "み~こ", 0],
+    [4, "HERO戦隊セクシードリーム(Voice Up for セクシードリーム戦隊)", "柏森進·み~こ·尾崎亜梨子·三本木大輔", 0],
+    [5, "ウラオモテダイアリー(Voice Up for 明日、ボクは死ぬ。キミは生き返る。)", "み~こ", 0],
 ]
 links = []
 
@@ -263,12 +263,12 @@ catalognumber = ""
 date = ""
 album = "残念アイドル☆ふびんちゃん"
 tracks = [
-    [0, "残念アイドル☆ふびんちゃん", "MOSAIC.WAV", -1],
-    [0, "ドローンちゃん逃亡日記", "MOSAIC.WAV", -1],
-    [0, "君が、嘘を、ツイッター", "MOSAIC.WAV", -1],
-    [0, "残念アイドル☆ふびんちゃん(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "ドローンちゃん逃亡日記(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "君が、嘘を、ツイッター(Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "残念アイドル☆ふびんちゃん", "MOSAIC.WAV", 0],
+    [0, "ドローンちゃん逃亡日記", "MOSAIC.WAV", 0],
+    [0, "君が、嘘を、ツイッター", "MOSAIC.WAV", 0],
+    [0, "残念アイドル☆ふびんちゃん(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "ドローンちゃん逃亡日記(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "君が、嘘を、ツイッター(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -277,12 +277,12 @@ catalognumber = "MOCD-0001"
 date = "2004-05-14"
 album = "Magical Hacker☆くるくるリスク"
 tracks = [
-    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", -1],
-    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", -1],
-    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", -1],
-    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", 0],
+    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", 0],
+    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", 0],
+    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/277ef904-ee3e-4158-a77e-5c07b916bf14"]
 
@@ -291,19 +291,19 @@ catalognumber = "MOCD-0002"
 date = "2004-10-29"
 album = "We Love 'AKIBA-POP'!!"
 tracks = [
-    [1, "めろんぱん", "MOSAIC.WAV", -1],
-    [2, "Magical Hacker☆くるくるリスク -Album Version-", "MOSAIC.WAV", -1],
-    [3, "虹の世界で2D LOVE", "MOSAIC.WAV", -1],
-    [4, "ふつうのうた", "MOSAIC.WAV", -1],
-    [5, "電気の恋人 /* Dreamy IC Mix */", "MOSAIC.WAV", -1],
-    [6, "きゅいん", "MOSAIC.WAV", -1],
-    [7, "GAMER'S ACTRESS 〜Sweet Digital Mix〜", "MOSAIC.WAV", -1],
-    [8, "GRANDE 〜グランデ〜", "MOSAIC.WAV", -1],
-    [9, "春夏秋冬・恋・まつり", "MOSAIC.WAV", -1],
-    [10, "萌えスパイラル！アキバトラー'／'", "MOSAIC.WAV", -1],
-    [11, "ないしゃおだくーにゃん", "MOSAIC.WAV", -1],
-    [12, "We Love 'AKIBA-POP'!!", "MOSAIC.WAV", -1],
-    [13, "機械クリオネ", "MOSAIC.WAV", -1],
+    [1, "めろんぱん", "MOSAIC.WAV", 0],
+    [2, "Magical Hacker☆くるくるリスク -Album Version-", "MOSAIC.WAV", 0],
+    [3, "虹の世界で2D LOVE", "MOSAIC.WAV", 0],
+    [4, "ふつうのうた", "MOSAIC.WAV", 0],
+    [5, "電気の恋人 /* Dreamy IC Mix */", "MOSAIC.WAV", 0],
+    [6, "きゅいん", "MOSAIC.WAV", 0],
+    [7, "GAMER'S ACTRESS 〜Sweet Digital Mix〜", "MOSAIC.WAV", 0],
+    [8, "GRANDE 〜グランデ〜", "MOSAIC.WAV", 0],
+    [9, "春夏秋冬・恋・まつり", "MOSAIC.WAV", 0],
+    [10, "萌えスパイラル！アキバトラー'／'", "MOSAIC.WAV", 0],
+    [11, "ないしゃおだくーにゃん", "MOSAIC.WAV", 0],
+    [12, "We Love 'AKIBA-POP'!!", "MOSAIC.WAV", 0],
+    [13, "機械クリオネ", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c8e3c5e0-e6f0-4e78-a01f-2345f571de83"]
 
@@ -312,12 +312,12 @@ catalognumber = "MOCD-0003"
 date = "2005-10-28"
 album = "キミは何テラバイト？"
 tracks = [
-    [1, "キミは何テラバイト？", "MOSAIC.WAV", -1],
-    [2, "マスターアップ！グレィトアキバトラー", "MOSAIC.WAV", -1],
-    [3, "We Love \"AKIBA-POP\"!! (Funny X2 Drum'n'rock? Version)", "MOSAIC.WAV", -1],
-    [4, "キミは何テラバイト？（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "マスターアップ！グレィトアキバトラー（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "We Love \"AKIBA-POP\"!!（Original Version・Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "キミは何テラバイト？", "MOSAIC.WAV", 0],
+    [2, "マスターアップ！グレィトアキバトラー", "MOSAIC.WAV", 0],
+    [3, "We Love \"AKIBA-POP\"!! (Funny X2 Drum'n'rock? Version)", "MOSAIC.WAV", 0],
+    [4, "キミは何テラバイト？（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "マスターアップ！グレィトアキバトラー（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "We Love \"AKIBA-POP\"!!（Original Version・Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/254f7391-f2d1-4521-9c89-f224e3f6a264"]
 
@@ -326,24 +326,24 @@ catalognumber = ""
 date = "2006"
 album = "きすみみ!! ～Kiss！Me！Me！～ オリジナルサウンドトラックアルバム 「きすみみ!!でGo！Go！」"
 tracks = [
-    [1, "Kissしてme！me！", "4-EVER / み～こ", -1],
-    [2, "ふたりのKiss", "4-EVER / み～こ", -1],
-    [3, "平穏なひと時", "4-EVER / み～こ", -1],
-    [4, "Fly-ALONE (Instrumental Ver.)", "4-EVER/み～こ/柏森進", -1],
-    [4, "ほのぼのでいこう", "4-EVER / み～こ", -1],
-    [5, "慌てず騒がず", "4-EVER / み～こ", -1],
-    [6, "ドタバタぱにっく！", "4-EVER / み～こ", -1],
-    [7, "あの日", "4-EVER / み～こ", -1],
-    [8, "忍び寄る危機", "4-EVER / み～こ", -1],
-    [9, "窮地", "4-EVER / み～こ", -1],
-    [10, "ハイテンションでGO！", "4-EVER / み～こ", -1],
-    [11, "泣く心", "4-EVER / み～こ", -1],
-    [12, "過ぎ去りし懐かしの", "4-EVER / み～こ", -1],
-    [13, "君が隣にいること", "4-EVER / み～こ", -1],
-    [14, "想い、静かに", "4-EVER / み～こ", -1],
-    [15, "触れていたくて", "4-EVER / み～こ", -1],
-    [16, "今だけはふたり", "4-EVER / み～こ", -1],
-    [17, "KissしてGO！GO！", "4-EVER / み～こ", -1],
+    [1, "Kissしてme！me！", "4-EVER / み～こ", 0],
+    [2, "ふたりのKiss", "4-EVER / み～こ", 0],
+    [3, "平穏なひと時", "4-EVER / み～こ", 0],
+    [4, "Fly-ALONE (Instrumental Ver.)", "4-EVER/み～こ/柏森進", 0],
+    [4, "ほのぼのでいこう", "4-EVER / み～こ", 0],
+    [5, "慌てず騒がず", "4-EVER / み～こ", 0],
+    [6, "ドタバタぱにっく！", "4-EVER / み～こ", 0],
+    [7, "あの日", "4-EVER / み～こ", 0],
+    [8, "忍び寄る危機", "4-EVER / み～こ", 0],
+    [9, "窮地", "4-EVER / み～こ", 0],
+    [10, "ハイテンションでGO！", "4-EVER / み～こ", 0],
+    [11, "泣く心", "4-EVER / み～こ", 0],
+    [12, "過ぎ去りし懐かしの", "4-EVER / み～こ", 0],
+    [13, "君が隣にいること", "4-EVER / み～こ", 0],
+    [14, "想い、静かに", "4-EVER / み～こ", 0],
+    [15, "触れていたくて", "4-EVER / み～こ", 0],
+    [16, "今だけはふたり", "4-EVER / み～こ", 0],
+    [17, "KissしてGO！GO！", "4-EVER / み～こ", 0],
 ]
 links = []
 
@@ -352,18 +352,18 @@ catalognumber = "MOCD-0004"
 date = "2006-01-20"
 album = "SPACE AKIBA-POP"
 tracks = [
-    [1, "Love Cheat!", "MOSAIC.WAV", -1],
-    [2, "１００グラムの恋心", "MOSAIC.WAV", -1],
-    [3, "かおりのおくりもの", "MOSAIC.WAV", -1],
-    [4, "魔法のトリマー「マジカルリンス・マックスハート」 (MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [5, "My darling!", "MOSAIC.WAV", -1],
-    [6, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [7, "どっきん☆満男全席", "MOSAIC.WAV", -1],
-    [8, "パジャマ de ぱ・ぱ・ぱ (MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [9, "恋のチェッカー・フラッグ", "MOSAIC.WAV", -1],
-    [10, "魅惑のツンデレロイド", "MOSAIC.WAV", -1],
-    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [12, "The anthem of Online", "MOSAIC.WAV", -1],
+    [1, "Love Cheat!", "MOSAIC.WAV", 0],
+    [2, "１００グラムの恋心", "MOSAIC.WAV", 0],
+    [3, "かおりのおくりもの", "MOSAIC.WAV", 0],
+    [4, "魔法のトリマー「マジカルリンス・マックスハート」 (MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [5, "My darling!", "MOSAIC.WAV", 0],
+    [6, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [7, "どっきん☆満男全席", "MOSAIC.WAV", 0],
+    [8, "パジャマ de ぱ・ぱ・ぱ (MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [9, "恋のチェッカー・フラッグ", "MOSAIC.WAV", 0],
+    [10, "魅惑のツンデレロイド", "MOSAIC.WAV", 0],
+    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [12, "The anthem of Online", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9232c952-01c9-4fd3-8469-8c7d2b111160"]
 
@@ -372,10 +372,10 @@ catalognumber = "COLLABO-MAXICD"
 date = "2006-06-30"
 album = "はちゅかの MOSAIC.WAV ＆ unMOMENT Collaboration Maxi CD"
 tracks = [
-    [1, "Akibaの\"A\"からはじめよう", "MOSAIC.WAV", -1],
-    [2, "『Aiでしょ？ 愛』", "MOSAIC.WAV", -1],
-    [3, "Akibaの\"A\"からはじめよう（カラオケ）", "MOSAIC.WAV", -1],
-    [4, "『Aiでしょ？ 愛』（カラオケ）", "MOSAIC.WAV", -1],
+    [1, "Akibaの\"A\"からはじめよう", "MOSAIC.WAV", 0],
+    [2, "『Aiでしょ？ 愛』", "MOSAIC.WAV", 0],
+    [3, "Akibaの\"A\"からはじめよう（カラオケ）", "MOSAIC.WAV", 0],
+    [4, "『Aiでしょ？ 愛』（カラオケ）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/fe10ebd6-1b13-469b-8060-e52acc07f5cb"]
 
@@ -384,8 +384,8 @@ catalognumber = ""
 date = "2006-08-11"
 album = "Kissして me! me!"
 tracks = [
-    [1, "Kissして me! me!", "MOSAIC.WAV", -1],
-    [2, "Kissして me! me! (instrumental)", "MOSAIC.WAV", -1],
+    [1, "Kissして me! me!", "MOSAIC.WAV", 0],
+    [2, "Kissして me! me! (instrumental)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/1981e200-d21f-4465-ad1b-5765bb00e1de"]
 
@@ -394,10 +394,10 @@ catalognumber = "LACM-4289"
 date = "2006-08-23"
 album = "キュン・キュン・パニック"
 tracks = [
-    [1, "キュン・キュン・パニック", "MOSAIC.WAV", -1],
-    [2, "らりほるらりほ", "MOSAIC.WAV", -1],
-    [3, "キュン・キュン・パニック（off vocal）", "MOSAIC.WAV", -1],
-    [4, "らりほるらりほ（off vocal）", "MOSAIC.WAV", -1],
+    [1, "キュン・キュン・パニック", "MOSAIC.WAV", 0],
+    [2, "らりほるらりほ", "MOSAIC.WAV", 0],
+    [3, "キュン・キュン・パニック（off vocal）", "MOSAIC.WAV", 0],
+    [4, "らりほるらりほ（off vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2fe5868e-2941-4825-ad10-d3df470dfbbe"]
 
@@ -406,12 +406,12 @@ catalognumber = "MOCD-0005"
 date = "2006-09-08"
 album = "めがねでねっ！"
 tracks = [
-    [1, "めがねでねっ！", "MOSAIC.WAV", -1],
-    [2, "A好（ガール）", "MOSAIC.WAV", -1],
-    [3, "Dive Into Web", "MOSAIC.WAV", -1],
-    [4, "めがねでねっ！（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "A好（ガール）（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "Dive Into Web（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "めがねでねっ！", "MOSAIC.WAV", 0],
+    [2, "A好（ガール）", "MOSAIC.WAV", 0],
+    [3, "Dive Into Web", "MOSAIC.WAV", 0],
+    [4, "めがねでねっ！（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "A好（ガール）（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "Dive Into Web（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9e656f1e-3910-4b28-b56c-54f4688c6bcf"]
 
@@ -420,10 +420,10 @@ catalognumber = "LACM-4313"
 date = "2006-10-25"
 album = "最強○×計画"
 tracks = [
-    [1, "最強○×計画", "MOSAIC.WAV", -1],
-    [2, "DICE★KI♪", "MOSAIC.WAV", -1],
-    [3, "最強○×計画 [off vocal]", "MOSAIC.WAV", -1],
-    [4, "DICE★KI♪ [off vocal]", "MOSAIC.WAV", -1],
+    [1, "最強○×計画", "MOSAIC.WAV", 0],
+    [2, "DICE★KI♪", "MOSAIC.WAV", 0],
+    [3, "最強○×計画 [off vocal]", "MOSAIC.WAV", 0],
+    [4, "DICE★KI♪ [off vocal]", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/73c4cc8a-7538-443c-a1ac-af57a836793f"]
 
@@ -432,10 +432,10 @@ catalognumber = ""
 date = "2006-12-09"
 album = "百合星人ナオコサン"
 tracks = [
-    [1, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [2, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [3, "百合星人ナオコサン（Off Vocal）", "MOSAIC.WAV", -1],
-    [4, "百合星式おゆうぎうた（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [2, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [3, "百合星人ナオコサン（Off Vocal）", "MOSAIC.WAV", 0],
+    [4, "百合星式おゆうぎうた（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/89cee434-b30b-4c7d-bc5a-77f803809986"]
 
@@ -444,27 +444,27 @@ catalognumber = "ele-a003"
 date = "2007"
 album = "Figu@Mate Soundtrack Disc 1"
 tracks = [
-    [1, "ガチャガチャきゅ～と・ふぃぎゅ@メイト (short)", "MOSAIC.WAV", -1],
-    [2, "1・2・3・イエィ", "MOSAIC.WAV", -1],
-    [3, "オタクな毎日", "MOSAIC.WAV", -1],
-    [4, "フィギュア魔法少女", "MOSAIC.WAV", -1],
-    [5, "メイドロボ？", "MOSAIC.WAV", -1],
-    [6, "薄幸少女・全開", "MOSAIC.WAV", -1],
-    [7, "人種限定の癒し空間", "MOSAIC.WAV", -1],
-    [8, "奇妙な光景", "MOSAIC.WAV", -1],
-    [9, "オタクの敵", "MOSAIC.WAV", -1],
-    [10, "フィギュアマスター", "MOSAIC.WAV", -1],
-    [11, "上品に大暴れ", "MOSAIC.WAV", -1],
-    [12, "選抜フィギュア", "MOSAIC.WAV", -1],
-    [13, "フィギュアに新たな姿を", "MOSAIC.WAV", -1],
-    [14, "妄想開放", "MOSAIC.WAV", -1],
-    [15, "暗黒妄想", "MOSAIC.WAV", -1],
-    [16, "深夜の動き", "MOSAIC.WAV", -1],
-    [17, "恋する怪盗☆年中無休", "MOSAIC.WAV", -1],
-    [18, "メメ子・平和な日々", "MOSAIC.WAV", -1],
-    [19, "メメ子・バトル", "MOSAIC.WAV", -1],
-    [20, "メメ子・シリアス", "MOSAIC.WAV", -1],
-    [21, "メメ子・ハッピーエンド", "MOSAIC.WAV", -1],
+    [1, "ガチャガチャきゅ～と・ふぃぎゅ@メイト (short)", "MOSAIC.WAV", 0],
+    [2, "1・2・3・イエィ", "MOSAIC.WAV", 0],
+    [3, "オタクな毎日", "MOSAIC.WAV", 0],
+    [4, "フィギュア魔法少女", "MOSAIC.WAV", 0],
+    [5, "メイドロボ？", "MOSAIC.WAV", 0],
+    [6, "薄幸少女・全開", "MOSAIC.WAV", 0],
+    [7, "人種限定の癒し空間", "MOSAIC.WAV", 0],
+    [8, "奇妙な光景", "MOSAIC.WAV", 0],
+    [9, "オタクの敵", "MOSAIC.WAV", 0],
+    [10, "フィギュアマスター", "MOSAIC.WAV", 0],
+    [11, "上品に大暴れ", "MOSAIC.WAV", 0],
+    [12, "選抜フィギュア", "MOSAIC.WAV", 0],
+    [13, "フィギュアに新たな姿を", "MOSAIC.WAV", 0],
+    [14, "妄想開放", "MOSAIC.WAV", 0],
+    [15, "暗黒妄想", "MOSAIC.WAV", 0],
+    [16, "深夜の動き", "MOSAIC.WAV", 0],
+    [17, "恋する怪盗☆年中無休", "MOSAIC.WAV", 0],
+    [18, "メメ子・平和な日々", "MOSAIC.WAV", 0],
+    [19, "メメ子・バトル", "MOSAIC.WAV", 0],
+    [20, "メメ子・シリアス", "MOSAIC.WAV", 0],
+    [21, "メメ子・ハッピーエンド", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b5c54741-7ee4-4e98-aa41-c5b795ebbe7c"]
 
@@ -473,27 +473,27 @@ catalognumber = "ele-a003"
 date = "2007"
 album = "Figu@Mate Soundtrack Disc 2"
 tracks = [
-    [1, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (short)", "MOSAIC.WAV", -1],
-    [2, "ふぃぎゅ@カーニバル", "MOSAIC.WAV", -1],
-    [3, "光ある日常", "MOSAIC.WAV", -1],
-    [4, "アキバロード", "MOSAIC.WAV", -1],
-    [5, "今すぐショッピング", "MOSAIC.WAV", -1],
-    [6, "キュアレスト", "MOSAIC.WAV", -1],
-    [7, "青い地球のために", "MOSAIC.WAV", -1],
-    [8, "爆裂フィギュア", "MOSAIC.WAV", -1],
-    [9, "照らされる炎", "MOSAIC.WAV", -1],
-    [10, "夜空の星", "MOSAIC.WAV", -1],
-    [11, "ペペロンチーノ", "MOSAIC.WAV", -1],
-    [12, "魔法少女イフリナ現臨", "MOSAIC.WAV", -1],
-    [13, "ロマンス", "MOSAIC.WAV", -1],
-    [14, "幸せ", "MOSAIC.WAV", -1],
-    [15, "加速する危機感", "MOSAIC.WAV", -1],
-    [16, "外道エンドロール", "MOSAIC.WAV", -1],
-    [17, "静かな夜", "MOSAIC.WAV", -1],
-    [18, "BOK-OSS", "MOSAIC.WAV", -1],
-    [19, "ラストパワー (short)", "MOSAIC.WAV", -1],
-    [20, "1・2・3・イエィ Ver-F", "MOSAIC.WAV", -1],
-    [21, "乙女の呪い", "MOSAIC.WAV", -1],
+    [1, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (short)", "MOSAIC.WAV", 0],
+    [2, "ふぃぎゅ@カーニバル", "MOSAIC.WAV", 0],
+    [3, "光ある日常", "MOSAIC.WAV", 0],
+    [4, "アキバロード", "MOSAIC.WAV", 0],
+    [5, "今すぐショッピング", "MOSAIC.WAV", 0],
+    [6, "キュアレスト", "MOSAIC.WAV", 0],
+    [7, "青い地球のために", "MOSAIC.WAV", 0],
+    [8, "爆裂フィギュア", "MOSAIC.WAV", 0],
+    [9, "照らされる炎", "MOSAIC.WAV", 0],
+    [10, "夜空の星", "MOSAIC.WAV", 0],
+    [11, "ペペロンチーノ", "MOSAIC.WAV", 0],
+    [12, "魔法少女イフリナ現臨", "MOSAIC.WAV", 0],
+    [13, "ロマンス", "MOSAIC.WAV", 0],
+    [14, "幸せ", "MOSAIC.WAV", 0],
+    [15, "加速する危機感", "MOSAIC.WAV", 0],
+    [16, "外道エンドロール", "MOSAIC.WAV", 0],
+    [17, "静かな夜", "MOSAIC.WAV", 0],
+    [18, "BOK-OSS", "MOSAIC.WAV", 0],
+    [19, "ラストパワー (short)", "MOSAIC.WAV", 0],
+    [20, "1・2・3・イエィ Ver-F", "MOSAIC.WAV", 0],
+    [21, "乙女の呪い", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b5c54741-7ee4-4e98-aa41-c5b795ebbe7c"]
 
@@ -502,10 +502,10 @@ catalognumber = "LACM-4337"
 date = "2007-01-24"
 album = "切情！佰火繚乱"
 tracks = [
-    [1, "切情！佰火繚乱", "MOSAIC.WAV", -1],
-    [2, "アキバ in ワンダーランド", "MOSAIC.WAV", -1],
-    [3, "切情！佰火繚乱 （off vocal）", "MOSAIC.WAV", -1],
-    [4, "アキバ in ワンダーランド （off vocal）", "MOSAIC.WAV", -1],
+    [1, "切情！佰火繚乱", "MOSAIC.WAV", 0],
+    [2, "アキバ in ワンダーランド", "MOSAIC.WAV", 0],
+    [3, "切情！佰火繚乱 （off vocal）", "MOSAIC.WAV", 0],
+    [4, "アキバ in ワンダーランド （off vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c876123f-1a1e-4dcd-a952-d0433e1ab085"]
 
@@ -514,12 +514,12 @@ catalognumber = "MOCD-0006"
 date = "2007-02-16"
 album = "ギリギリ科学少女ふぉるしぃ"
 tracks = [
-    [1, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", -1],
-    [2, "0Hzの恋人", "MOSAIC.WAV", 0],
-    [3, "未来ノスタルジィ", "MOSAIC.WAV", -1],
-    [4, "ギリギリ科学少女ふぉるしぃ（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "0Hzの恋人（Off Vocal）", "MOSAIC.WAV", 0],
-    [6, "未来ノスタルジィ（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", 0],
+    [2, "0Hzの恋人", "MOSAIC.WAV", 1],
+    [3, "未来ノスタルジィ", "MOSAIC.WAV", 0],
+    [4, "ギリギリ科学少女ふぉるしぃ（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "0Hzの恋人（Off Vocal）", "MOSAIC.WAV", 1],
+    [6, "未来ノスタルジィ（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0e3d2ee7-6853-49ab-9b89-ec11a42ec36a"]
 
@@ -528,9 +528,9 @@ catalognumber = "AKS-005"
 date = "2007-02-23"
 album = "2.5次元の足音"
 tracks = [
-    [1, "スマイル0円 (MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [2, "2.5次元の足音", "MOSAIC.WAV", -1],
-    [3, "ぱんちゅありー", "MOSAIC.WAV", -1],
+    [1, "スマイル0円 (MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [2, "2.5次元の足音", "MOSAIC.WAV", 0],
+    [3, "ぱんちゅありー", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c6ffe65f-19ae-4ae8-a65b-90b191bc6865"]
 
@@ -539,14 +539,14 @@ catalognumber = "ele-a001"
 date = "2007-04-27"
 album = "がちゃがちゃきゅーっと ふぃぎゅあっと ～ふぃぎゅ@メイト&謝肉祭 ミニソングアルバム～"
 tracks = [
-    [1, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [2, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
-    [3, "恋する怪盗☆年中無休", "MOSAIC.WAV", -1],
-    [4, "ラストパワー", "MOSAIC.WAV", -1],
-    [5, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト (short)", "MOSAIC.WAV", -1],
-    [6, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (short)", "MOSAIC.WAV", -1],
-    [7, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト (instrumental)", "MOSAIC.WAV", -1],
-    [8, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (instrumental)", "MOSAIC.WAV", -1],
+    [1, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [2, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
+    [3, "恋する怪盗☆年中無休", "MOSAIC.WAV", 0],
+    [4, "ラストパワー", "MOSAIC.WAV", 0],
+    [5, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト (short)", "MOSAIC.WAV", 0],
+    [6, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (short)", "MOSAIC.WAV", 0],
+    [7, "ガチャガチャきゅ～っと・ふぃぎゅ@メイト (instrumental)", "MOSAIC.WAV", 0],
+    [8, "ガチャガチャへるつ・ふぃぎゅ@ラジオ (instrumental)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5acf4044-1bbc-4e25-93f0-bae66ba1b314"]
 
@@ -555,10 +555,10 @@ catalognumber = "LACM-4387"
 date = "2007-07-25"
 album = "片道きゃっちぼーる"
 tracks = [
-    [1, "片道きゃっちぼーる", "MOSAIC.WAV", -1],
-    [2, "コンビニベンリニ", "MOSAIC.WAV", -1],
-    [3, "片道きゃっちぼーる (off vocal)", "MOSAIC.WAV", -1],
-    [4, "コンビニベンリニ (off vocal)", "MOSAIC.WAV", -1],
+    [1, "片道きゃっちぼーる", "MOSAIC.WAV", 0],
+    [2, "コンビニベンリニ", "MOSAIC.WAV", 0],
+    [3, "片道きゃっちぼーる (off vocal)", "MOSAIC.WAV", 0],
+    [4, "コンビニベンリニ (off vocal)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/20d800ac-f3e0-4b29-9eeb-711950e31a61"]
 
@@ -567,18 +567,18 @@ catalognumber = "MOCD-0007"
 date = "2007-08-17"
 album = "Future-Fiction:AKIBA-POP!!"
 tracks = [
-    [1, "AKIBAの\"A\"からはじめよう", "MOSAIC.WAV", -1],
-    [2, "吸い取っちゃう！究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", -1],
-    [3, "みなみのしまのふろーね", "MOSAIC.WAV", -1],
-    [4, "ギリギリ科学少女ふぉるしぃ（NewArrange）", "MOSAIC.WAV", -1],
-    [5, "Look at me tenderly（NewTake）", "MOSAIC.WAV", -1],
-    [6, "一件落着よベイベー！", "MOSAIC.WAV", -1],
-    [7, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト（NewTake）", "MOSAIC.WAV", -1],
-    [8, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
-    [9, "プリン・プリン・ポップト・ショコラ・パ・レスト（NewTake）", "MOSAIC.WAV", -1],
-    [10, "20世紀ヒューマノイド", "MOSAIC.WAV", -1],
-    [11, "光のエレメント〜for \"We Love AKIBA-POP\"〜", "MOSAIC.WAV", -1],
-    [12, "AKIBA-POP the Future", "MOSAIC.WAV", -1],
+    [1, "AKIBAの\"A\"からはじめよう", "MOSAIC.WAV", 0],
+    [2, "吸い取っちゃう！究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", 0],
+    [3, "みなみのしまのふろーね", "MOSAIC.WAV", 0],
+    [4, "ギリギリ科学少女ふぉるしぃ（NewArrange）", "MOSAIC.WAV", 0],
+    [5, "Look at me tenderly（NewTake）", "MOSAIC.WAV", 0],
+    [6, "一件落着よベイベー！", "MOSAIC.WAV", 0],
+    [7, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト（NewTake）", "MOSAIC.WAV", 0],
+    [8, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
+    [9, "プリン・プリン・ポップト・ショコラ・パ・レスト（NewTake）", "MOSAIC.WAV", 0],
+    [10, "20世紀ヒューマノイド", "MOSAIC.WAV", 0],
+    [11, "光のエレメント〜for \"We Love AKIBA-POP\"〜", "MOSAIC.WAV", 0],
+    [12, "AKIBA-POP the Future", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9105a238-1677-466b-bd93-cd0c1392862f"]
 
@@ -587,11 +587,11 @@ catalognumber = "RSEN-0001"
 date = "2007-10-19"
 album = "からす天狗うじゅ　電脳合戦×うじゅの陣！"
 tracks = [
-    [1, "電脳合戦×うじゅの陣！～からす天狗うじゅイメージソング～", "MOSAIC.WAV", -1],
-    [2, "うじゅたま☆うじゅりんぱ～うじゅのおしゃべり祈祷イメージソング～", "MOSAIC.WAV", -1],
-    [3, "電脳合戦×うじゅの陣！[off vocal]", "MOSAIC.WAV", -1],
-    [4, "うじゅたま☆うじゅりんぱ[off vocal]", "MOSAIC.WAV", -1],
-    [5, "からす天狗うじゅ　予告編　CVみ～こ　[BONUSTRACK]", "MOSAIC.WAV", -1],
+    [1, "電脳合戦×うじゅの陣！～からす天狗うじゅイメージソング～", "MOSAIC.WAV", 0],
+    [2, "うじゅたま☆うじゅりんぱ～うじゅのおしゃべり祈祷イメージソング～", "MOSAIC.WAV", 0],
+    [3, "電脳合戦×うじゅの陣！[off vocal]", "MOSAIC.WAV", 0],
+    [4, "うじゅたま☆うじゅりんぱ[off vocal]", "MOSAIC.WAV", 0],
+    [5, "からす天狗うじゅ　予告編　CVみ～こ　[BONUSTRACK]", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/878fe2b5-cf00-479a-9c34-9dfbae4f5b3e"]
 
@@ -600,12 +600,12 @@ catalognumber = "MOCD-0009"
 date = "2007-12-29"
 album = "ラストバトル！　アキバトラー\"μ\""
 tracks = [
-    [1, "ラストバトル！　アキバトラー\"μ\"", "MOSAIC.WAV", -1],
-    [2, "最高ψ最強φメロダロイド！", "MOSAIC.WAV", -1],
-    [3, "科学遣いの弟子", "MOSAIC.WAV", -1],
-    [4, "ラストバトル！　アキバトラー\"μ\"（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "最高ψ最強φメロダロイド！（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "科学遣いの弟子（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "ラストバトル！　アキバトラー\"μ\"", "MOSAIC.WAV", 0],
+    [2, "最高ψ最強φメロダロイド！", "MOSAIC.WAV", 0],
+    [3, "科学遣いの弟子", "MOSAIC.WAV", 0],
+    [4, "ラストバトル！　アキバトラー\"μ\"（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "最高ψ最強φメロダロイド！（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "科学遣いの弟子（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d6b643a0-79e2-42a7-b20b-1511ddab7e64"]
 
@@ -614,11 +614,11 @@ catalognumber = ""
 date = "2008"
 album = "こどもざいく・やみもざいく"
 tracks = [
-    [0, "ひとりでできるかな", "MOSAIC. WAV", -1],
-    [0, "おなかいっぱい", "MOSAIC. WAV", -1],
-    [0, "おとなのねばねばスイーツ(instrumental)", "MOSAIC. WAV", -1],
-    [0, "恋の死亡フラグ", "MOSAIC. WAV", -1],
-    [0, "地獄のヤンデロイド", "MOSAIC. WAV", -1],
+    [0, "ひとりでできるかな", "MOSAIC. WAV", 0],
+    [0, "おなかいっぱい", "MOSAIC. WAV", 0],
+    [0, "おとなのねばねばスイーツ(instrumental)", "MOSAIC. WAV", 0],
+    [0, "恋の死亡フラグ", "MOSAIC. WAV", 0],
+    [0, "地獄のヤンデロイド", "MOSAIC. WAV", 0],
 ]
 links = []
 
@@ -627,7 +627,7 @@ catalognumber = ""
 date = "2008-02-01"
 album = "＊＊＊にできるかな"
 tracks = [
-    [1, "＊＊＊にできるかな", "MOSAIC.WAV", -1],
+    [1, "＊＊＊にできるかな", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d76115de-1797-4d08-a318-0d0135cffbbb"]
 
@@ -636,25 +636,25 @@ catalognumber = "LACA-5751"
 date = "2008-03-26"
 album = "Amusement Pack"
 tracks = [
-    [1, "幕間劇「出会いと巻き添え」", "MOSAIC.WAV", -1],
-    [2, "アキバ in ワンダーランド", "MOSAIC.WAV", -1],
-    [3, "幕間劇「三六五日五時間四八分四五秒」", "MOSAIC.WAV", -1],
-    [4, "片道きゃっちぼーる", "MOSAIC.WAV", -1],
-    [5, "Nursery Time", "MOSAIC.WAV", -1],
-    [6, "幕間劇「理想の後宮」", "MOSAIC.WAV", -1],
-    [7, "三つ巴-motion～triangular fight", "MOSAIC.WAV", -1],
-    [8, "幕間劇「主題歌の甘いささやき」", "MOSAIC.WAV", -1],
-    [9, "最強○×計画", "MOSAIC.WAV", -1],
-    [10, "切情！佰火繚乱", "MOSAIC.WAV", -1],
-    [11, "幕間劇「炒めた車でもありませぬ」", "MOSAIC.WAV", -1],
-    [12, "Pain Paint Car", "MOSAIC.WAV", -1],
-    [13, "キュン・キュン・パニック", "MOSAIC.WAV", -1],
-    [14, "幕間劇「街道沿いの楽団達」", "MOSAIC.WAV", -1],
-    [15, "We Love “AKIBA-POP”!! [NEW TAKE]", "MOSAIC.WAV", -1],
-    [16, "幕間劇「アトラクション・デリバリー」", "MOSAIC.WAV", -1],
-    [17, "Amusement Pack", "MOSAIC.WAV", -1],
-    [18, "幕間劇「40ページの招待状」", "MOSAIC.WAV", -1],
-    [19, "フィナーレ", "MOSAIC.WAV", -1],
+    [1, "幕間劇「出会いと巻き添え」", "MOSAIC.WAV", 0],
+    [2, "アキバ in ワンダーランド", "MOSAIC.WAV", 0],
+    [3, "幕間劇「三六五日五時間四八分四五秒」", "MOSAIC.WAV", 0],
+    [4, "片道きゃっちぼーる", "MOSAIC.WAV", 0],
+    [5, "Nursery Time", "MOSAIC.WAV", 0],
+    [6, "幕間劇「理想の後宮」", "MOSAIC.WAV", 0],
+    [7, "三つ巴-motion～triangular fight", "MOSAIC.WAV", 0],
+    [8, "幕間劇「主題歌の甘いささやき」", "MOSAIC.WAV", 0],
+    [9, "最強○×計画", "MOSAIC.WAV", 0],
+    [10, "切情！佰火繚乱", "MOSAIC.WAV", 0],
+    [11, "幕間劇「炒めた車でもありませぬ」", "MOSAIC.WAV", 0],
+    [12, "Pain Paint Car", "MOSAIC.WAV", 0],
+    [13, "キュン・キュン・パニック", "MOSAIC.WAV", 0],
+    [14, "幕間劇「街道沿いの楽団達」", "MOSAIC.WAV", 0],
+    [15, "We Love “AKIBA-POP”!! [NEW TAKE]", "MOSAIC.WAV", 0],
+    [16, "幕間劇「アトラクション・デリバリー」", "MOSAIC.WAV", 0],
+    [17, "Amusement Pack", "MOSAIC.WAV", 0],
+    [18, "幕間劇「40ページの招待状」", "MOSAIC.WAV", 0],
+    [19, "フィナーレ", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6ada9adb-6772-4e9f-859f-b6432b873cb5"]
 
@@ -663,10 +663,10 @@ catalognumber = "LACM-4491"
 date = "2008-04-23"
 album = "超妻賢母宣言"
 tracks = [
-    [1, "超妻賢母宣言", "MOSAIC.WAV", -1],
-    [2, "ねるがよい", "MOSAIC.WAV", -1],
-    [3, "超妻賢母宣言（off vocal）", "MOSAIC.WAV", -1],
-    [4, "ねるがよい（off vocal）", "MOSAIC.WAV", -1],
+    [1, "超妻賢母宣言", "MOSAIC.WAV", 0],
+    [2, "ねるがよい", "MOSAIC.WAV", 0],
+    [3, "超妻賢母宣言（off vocal）", "MOSAIC.WAV", 0],
+    [4, "ねるがよい（off vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/34d87448-5319-44e2-9798-6f73c54c8496"]
 
@@ -675,10 +675,10 @@ catalognumber = "DCCD-001"
 date = "2008-08-15"
 album = "むすめいく！-musumake-"
 tracks = [
-    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [2, "FLY-ALONE", "MOSAIC.WAV", -1],
-    [3, "たべごろ☆1/2ふるーつ (Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "FLY-ALONE (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [2, "FLY-ALONE", "MOSAIC.WAV", 0],
+    [3, "たべごろ☆1/2ふるーつ (Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "FLY-ALONE (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7a729b9b-f24d-42ba-b412-9f98644b9410"]
 
@@ -687,12 +687,12 @@ catalognumber = "MOCD-0012"
 date = "2008-08-15"
 album = "迷惑メーリングGIRL"
 tracks = [
-    [1, "迷惑メーリングGIRL", "MOSAIC.WAV", -1],
-    [2, "あなたの隣のバンパイア", "MOSAIC.WAV", -1],
-    [3, "デジタル・ラジカル・シンドローム", "MOSAIC.WAV", -1],
-    [4, "迷惑メーリングGIRL（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "あなたの隣のバンパイア（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "デジタル・ラジカル・シンドローム（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "迷惑メーリングGIRL", "MOSAIC.WAV", 0],
+    [2, "あなたの隣のバンパイア", "MOSAIC.WAV", 0],
+    [3, "デジタル・ラジカル・シンドローム", "MOSAIC.WAV", 0],
+    [4, "迷惑メーリングGIRL（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "あなたの隣のバンパイア（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "デジタル・ラジカル・シンドローム（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c49b6850-96d9-456f-a296-80dacc2032be"]
 
@@ -701,18 +701,18 @@ catalognumber = ""
 date = "2008-09-10"
 album = "SPACE AKIBA‐POP"
 tracks = [
-    [1, "Love Cheat!", "MOSAIC.WAV", -1],
-    [2, "100グラムの恋心", "MOSAIC.WAV", 0],
-    [3, "かおりのおくりもの", "MOSAIC.WAV", -1],
-    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [5, "My darling!", "MOSAIC.WAV", -1],
-    [6, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [7, "どっきん☆満漢全席", "MOSAIC.WAV", -1],
-    [8, "パジャマ de ぱ・ぱ・ぱ (MOSAIC.WAV Ver)", "MOSAIC.WAV", -1],
-    [9, "恋のチェッカー・フラッグ", "MOSAIC.WAV", -1],
-    [10, "魅惑のツンデロイド", "MOSAIC.WAV", -1],
-    [11, "SPACE! WAVE! AKIBA‐POP!!", "MOSAIC.WAV", -1],
-    [12, "The anthem of Online", "MOSAIC.WAV", -1],
+    [1, "Love Cheat!", "MOSAIC.WAV", 0],
+    [2, "100グラムの恋心", "MOSAIC.WAV", 1],
+    [3, "かおりのおくりもの", "MOSAIC.WAV", 0],
+    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [5, "My darling!", "MOSAIC.WAV", 0],
+    [6, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [7, "どっきん☆満漢全席", "MOSAIC.WAV", 0],
+    [8, "パジャマ de ぱ・ぱ・ぱ (MOSAIC.WAV Ver)", "MOSAIC.WAV", 0],
+    [9, "恋のチェッカー・フラッグ", "MOSAIC.WAV", 0],
+    [10, "魅惑のツンデロイド", "MOSAIC.WAV", 0],
+    [11, "SPACE! WAVE! AKIBA‐POP!!", "MOSAIC.WAV", 0],
+    [12, "The anthem of Online", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/df4aec28-4d2d-4490-84eb-47fb2451e188"]
 
@@ -721,19 +721,19 @@ catalognumber = ""
 date = "2009"
 album = "Superluminal Ж AKIBA‐POP"
 tracks = [
-    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", -1],
-    [2, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [3, "シリーシンフォニー", "MOSAIC.WAV", -1],
-    [4, "こいはぐ", "MOSAIC.WAV", -1],
-    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", -1],
-    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", -1],
-    [7, "愛の個人授業", "MOSAIC.WAV", -1],
-    [8, "Love Cheek?", "MOSAIC.WAV", -1],
-    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [10, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [11, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", -1],
-    [13, "ふたりのKiss", "MOSAIC.WAV", -1],
+    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", 0],
+    [2, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [3, "シリーシンフォニー", "MOSAIC.WAV", 0],
+    [4, "こいはぐ", "MOSAIC.WAV", 0],
+    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", 0],
+    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", 0],
+    [7, "愛の個人授業", "MOSAIC.WAV", 0],
+    [8, "Love Cheek?", "MOSAIC.WAV", 0],
+    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [10, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [11, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", 0],
+    [13, "ふたりのKiss", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/970c2e0e-d12a-49a8-b310-d9e2c9a88973"]
 
@@ -742,8 +742,8 @@ catalognumber = ""
 date = "2009"
 album = "魔法のおしごと"
 tracks = [
-    [1, "魔法のおしごと", "MOSAIC.WAV", -1],
-    [2, "魔法のおしごと off vocal version", "MOSAIC.WAV", -1],
+    [1, "魔法のおしごと", "MOSAIC.WAV", 0],
+    [2, "魔法のおしごと off vocal version", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -752,19 +752,19 @@ catalognumber = "MOCD-0014"
 date = "2009-04-15"
 album = "Superluminal Ж AKIBA-POP"
 tracks = [
-    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", -1],
-    [2, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [3, "シリーシンフォニー", "MOSAIC.WAV", -1],
-    [4, "こいはぐ", "MOSAIC.WAV", -1],
-    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", -1],
-    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", -1],
-    [7, "愛の個人授業", "MOSAIC.WAV", -1],
-    [8, "Love Cheek？", "MOSAIC.WAV", -1],
-    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [10, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [11, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", -1],
-    [13, "ふたりのKiss", "MOSAIC.WAV", -1],
+    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", 0],
+    [2, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [3, "シリーシンフォニー", "MOSAIC.WAV", 0],
+    [4, "こいはぐ", "MOSAIC.WAV", 0],
+    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", 0],
+    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", 0],
+    [7, "愛の個人授業", "MOSAIC.WAV", 0],
+    [8, "Love Cheek？", "MOSAIC.WAV", 0],
+    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [10, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [11, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", 0],
+    [13, "ふたりのKiss", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/20570877-6e43-4c39-a0bd-69a4385d044a"]
 
@@ -773,19 +773,19 @@ catalognumber = "MOCD-0015"
 date = "2009-04-15"
 album = "Superluminal Ж AKIBA-POP"
 tracks = [
-    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", -1],
-    [2, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [3, "シリーシンフォニー", "MOSAIC.WAV", -1],
-    [4, "こいはぐ", "MOSAIC.WAV", -1],
-    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", -1],
-    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", -1],
-    [7, "愛の個人授業", "MOSAIC.WAV", -1],
-    [8, "Love Cheek？", "MOSAIC.WAV", -1],
-    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [10, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [11, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", -1],
-    [13, "ふたりのKiss", "MOSAIC.WAV", -1],
+    [1, "洗脳・搾取・虎の巻", "MOSAIC.WAV", 0],
+    [2, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [3, "シリーシンフォニー", "MOSAIC.WAV", 0],
+    [4, "こいはぐ", "MOSAIC.WAV", 0],
+    [5, "空から女の子が降ってくる街", "MOSAIC.WAV", 0],
+    [6, "にゅーすたいるおんらいん", "MOSAIC.WAV", 0],
+    [7, "愛の個人授業", "MOSAIC.WAV", 0],
+    [8, "Love Cheek？", "MOSAIC.WAV", 0],
+    [9, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [10, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [11, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [12, "妄想網 Ж Superluminal", "MOSAIC.WAV", 0],
+    [13, "ふたりのKiss", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/99608110-0072-3e19-8715-c9786a3450e4"]
 
@@ -794,13 +794,13 @@ catalognumber = "PCCG-90035"
 date = "2009-10-21"
 album = "Heartsnative"
 tracks = [
-    [1, "みんなみくみくにしてあげる♪", "み〜こ · 初音ミク", -1],
-    [2, "＊＊＊にできたかな", "MIEKO · KAYATO · 初音ミク · 巡音ルカ", -1],
-    [3, "電気の恋人 -I am Programmer's Song- /* VL-3901mkII */", "み〜こ · 初音ミク", -1],
-    [4, "server error", "み〜こ · 初音ミク", -1],
-    [5, "キミは何テラバイト？ 〜Chorus of 6 Vocaloids〜", "初音ミク · 鏡音リン · 鏡音レン · 巡音ルカ · MEIKO · KAITO", -1],
-    [6, "HATSUNEtive", "み〜こ · 初音ミク", -1],
-    [7, "Mimic me.", "み〜こ · 初音ミク", -1],
+    [1, "みんなみくみくにしてあげる♪", "み〜こ · 初音ミク", 0],
+    [2, "＊＊＊にできたかな", "MIEKO · KAYATO · 初音ミク · 巡音ルカ", 0],
+    [3, "電気の恋人 -I am Programmer's Song- /* VL-3901mkII */", "み〜こ · 初音ミク", 0],
+    [4, "server error", "み〜こ · 初音ミク", 0],
+    [5, "キミは何テラバイト？ 〜Chorus of 6 Vocaloids〜", "初音ミク · 鏡音リン · 鏡音レン · 巡音ルカ · MEIKO · KAITO", 0],
+    [6, "HATSUNEtive", "み〜こ · 初音ミク", 0],
+    [7, "Mimic me.", "み〜こ · 初音ミク", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6ed8bc08-f07b-4197-951e-763ca259f13c"]
 
@@ -809,12 +809,12 @@ catalognumber = ""
 date = "2010"
 album = "No·Nai·Sai·Sei ～ecphoric dance～"
 tracks = [
-    [1, "No·Nai·Sai·Sei ～ecphoric dance～", "MOSAIC.WAV", -1],
-    [2, "Singing & Ringing", "MOSAIC.WAV", -1],
-    [3, "Vela", "MOSAIC.WAV", -1],
-    [4, "No·Nai·Sai·Sei ～ecphoric dance～ (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "Singing & Ringing (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "Vela (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "No·Nai·Sai·Sei ～ecphoric dance～", "MOSAIC.WAV", 0],
+    [2, "Singing & Ringing", "MOSAIC.WAV", 0],
+    [3, "Vela", "MOSAIC.WAV", 0],
+    [4, "No·Nai·Sai·Sei ～ecphoric dance～ (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "Singing & Ringing (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "Vela (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -823,9 +823,9 @@ catalognumber = ""
 date = "2010"
 album = "陣取場取！まるたけえべす"
 tracks = [
-    [0, "陣取場取！まるたけえべす", "MOSAIC.WAV", -1],
-    [0, "うじゅたま☆うじゅりんぱ（京ことばハ゛ーシ゛ョン）", "MOSAIC.WAV", -1],
-    [0, "嵐電数え歌", "MOSAIC.WAV", -1],
+    [0, "陣取場取！まるたけえべす", "MOSAIC.WAV", 0],
+    [0, "うじゅたま☆うじゅりんぱ（京ことばハ゛ーシ゛ョン）", "MOSAIC.WAV", 0],
+    [0, "嵐電数え歌", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -834,12 +834,12 @@ catalognumber = ""
 date = "2011"
 album = "Hな国の教育事情"
 tracks = [
-    [0, "Hな国の教育事情", "MOSAIC.WAV", -1],
-    [0, "量子コンピュータガール", "MOSAIC.WAV", -1],
-    [0, "Cry for the moon<竹取物語>", "MOSAIC.WAV", -1],
-    [0, "Hな国の教育事情 (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "量子コンピュータガール (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Cry for the moon<竹取物語> (Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "Hな国の教育事情", "MOSAIC.WAV", 0],
+    [0, "量子コンピュータガール", "MOSAIC.WAV", 0],
+    [0, "Cry for the moon<竹取物語>", "MOSAIC.WAV", 0],
+    [0, "Hな国の教育事情 (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "量子コンピュータガール (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Cry for the moon<竹取物語> (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -848,10 +848,10 @@ catalognumber = "GNXA-707102"
 date = "2011-01-26"
 album = "「神のみぞ知るセカイ」 ROUTE 1.0 特典CD"
 tracks = [
-    [1, "God only knows 第三幕 (Harder Goddess arrange)", "MOSAIC.WAV", -1],
-    [2, "Oh!まい☆GOD!! (Dancing Little Happy arrange)", "MOSAIC.WAV", -1],
-    [3, "ハッピークレセント (Waving More Happy arrange)", "MOSAIC.WAV", -1],
-    [4, "コイノシルシ (Finale arrange)", "MOSAIC.WAV", -1],
+    [1, "God only knows 第三幕 (Harder Goddess arrange)", "MOSAIC.WAV", 0],
+    [2, "Oh!まい☆GOD!! (Dancing Little Happy arrange)", "MOSAIC.WAV", 0],
+    [3, "ハッピークレセント (Waving More Happy arrange)", "MOSAIC.WAV", 0],
+    [4, "コイノシルシ (Finale arrange)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/095504b5-9cce-4290-988f-dd03f3d0dc3f"]
 
@@ -860,10 +860,10 @@ catalognumber = "GNXA-707202"
 date = "2011-02-23"
 album = "「神のみぞ知るセカイ」 ROUTE 2.0 特典CD"
 tracks = [
-    [1, "Wonder Chance (Game Start!→Bonus Core arrange)", "MOSAIC.WAV", -1],
-    [2, "口笛ジェット (Modulated Whistle arrange)", "MOSAIC.WAV", -1],
-    [3, "ラスト・ダンス (Hard Rock Woman arrange)", "MOSAIC.WAV", -1],
-    [4, "集積回路の夢旅人 (Until the Ending arrange)", "MOSAIC.WAV", -1],
+    [1, "Wonder Chance (Game Start!→Bonus Core arrange)", "MOSAIC.WAV", 0],
+    [2, "口笛ジェット (Modulated Whistle arrange)", "MOSAIC.WAV", 0],
+    [3, "ラスト・ダンス (Hard Rock Woman arrange)", "MOSAIC.WAV", 0],
+    [4, "集積回路の夢旅人 (Until the Ending arrange)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f551cca5-5497-443e-9ddc-32d9d23f1567"]
 
@@ -872,13 +872,13 @@ catalognumber = "MOCD-0030"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド　ア　イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "悠久想春歌", "MOSAIC.WAV", -1],
-    [5, "Next Stage！ ⇒ \"Hyperluminal\"", "MOSAIC.WAV", -1],
-    [6, "パペピプPOLIDAY　※", "MOSAIC.WAV", -1],
-    [7, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド　ア　イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "悠久想春歌", "MOSAIC.WAV", 0],
+    [5, "Next Stage！ ⇒ \"Hyperluminal\"", "MOSAIC.WAV", 0],
+    [6, "パペピプPOLIDAY　※", "MOSAIC.WAV", 0],
+    [7, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/fce5bbf2-75eb-4d49-ad6f-c9e380ebf64a"]
 
@@ -887,19 +887,19 @@ catalognumber = "MOCD-0031"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", -1],
-    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [8, "悠久想春歌", "MOSAIC.WAV", -1],
-    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", -1],
-    [11, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
-    [13, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", 0],
+    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [8, "悠久想春歌", "MOSAIC.WAV", 0],
+    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", 0],
+    [11, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
+    [13, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/139dbe47-ca9c-389f-93f6-7df3347120cd"]
 
@@ -908,19 +908,19 @@ catalognumber = "MOCD-0033"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", -1],
-    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [8, "悠久想春歌", "MOSAIC.WAV", -1],
-    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", -1],
-    [11, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
-    [13, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", 0],
+    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [8, "悠久想春歌", "MOSAIC.WAV", 0],
+    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", 0],
+    [11, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
+    [13, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/79190112-9dcc-3c1d-a0c3-23a7ce2d2f5e"]
 
@@ -929,19 +929,19 @@ catalognumber = "MOCD-0032"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", -1],
-    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [8, "悠久想春歌", "MOSAIC.WAV", -1],
-    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", -1],
-    [11, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
-    [13, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", 0],
+    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [8, "悠久想春歌", "MOSAIC.WAV", 0],
+    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", 0],
+    [11, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
+    [13, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f87f5dd4-c000-37c9-a597-f0c86afa5176"]
 
@@ -950,19 +950,19 @@ catalognumber = "MOCD-0028"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP Disc 1"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", -1],
-    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [8, "悠久想春歌", "MOSAIC.WAV", -1],
-    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", -1],
-    [11, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
-    [13, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [5, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", 0],
+    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [8, "悠久想春歌", "MOSAIC.WAV", 0],
+    [9, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", 0],
+    [11, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [12, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
+    [13, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d9efa128-e3d1-44a8-ad3d-28d638d2a09e"]
 
@@ -971,13 +971,13 @@ catalognumber = "MOCD-0029"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP 24bit/96kHz HQM WAVデータ(DVD-ROM)"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "悠久想春歌", "MOSAIC.WAV", -1],
-    [5, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", -1],
-    [6, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [7, "天体上∇吟遊サテライト", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義（インド ア イズム）", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "悠久想春歌", "MOSAIC.WAV", 0],
+    [5, "Next Stage！ ⇒ “Hyperluminal”", "MOSAIC.WAV", 0],
+    [6, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [7, "天体上∇吟遊サテライト", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d9efa128-e3d1-44a8-ad3d-28d638d2a09e"]
 
@@ -986,12 +986,12 @@ catalognumber = "MOCD-0030"
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP Disc 3"
 tracks = [
-    [1, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", -1],
-    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [3, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [4, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", -1],
-    [5, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [6, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "脳・内・再・醒〜ecphoric dance〜", "MOSAIC.WAV", 0],
+    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [3, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [4, "NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜", "MOSAIC.WAV", 0],
+    [5, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [6, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d9efa128-e3d1-44a8-ad3d-28d638d2a09e"]
 
@@ -1000,12 +1000,12 @@ catalognumber = ""
 date = "2011-03-09"
 album = "吟遊Planet☆AKIBA-POP Appendix LP"
 tracks = [
-    [1, "脳・内・再・醒～ecphoric dance～", "MOSAIC.WAV", -1],
-    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [3, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [4, "NAOKO-THUNDER VERNIER II　～幼女期の終わり～", "MOSAIC.WAV", -1],
-    [5, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [6, "FLY-ALONE", "MOSAIC.WAV", -1],
+    [1, "脳・内・再・醒～ecphoric dance～", "MOSAIC.WAV", 0],
+    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [3, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [4, "NAOKO-THUNDER VERNIER II　～幼女期の終わり～", "MOSAIC.WAV", 0],
+    [5, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [6, "FLY-ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/af872aca-d2ad-4e1e-bda3-556a3f254555"]
 
@@ -1014,19 +1014,19 @@ catalognumber = ""
 date = "2011-04-06"
 album = "吟遊Planet☆AKIBA‐POP"
 tracks = [
-    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", -1],
-    [2, "印度 a 主義(インド ア イズム)", "MOSAIC.WAV", -1],
-    [3, "もののあはれ", "MOSAIC.WAV", -1],
-    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [5, "NAOKO‐THUNDER VERNIER II ～幼女期の終わり～", "MOSAIC.WAV", -1],
-    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", -1],
-    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [8, "悠久想春歌", "MOSAIC.WAV", -1],
-    [9, "脳・内・再・醒～ecphoric dance～", "MOSAIC.WAV", -1],
-    [10, "Next Stage！ ⇒ ’’Hyperluminal’’", "MOSAIC.WAV", -1],
-    [11, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [12, "天体上 ∇ 吟遊サテライト", "MOSAIC.WAV", -1],
-    [13, "FLY‐ALONE", "MOSAIC.WAV", -1],
+    [1, "Thing！ Think！ Ting！", "MOSAIC.WAV", 0],
+    [2, "印度 a 主義(インド ア イズム)", "MOSAIC.WAV", 0],
+    [3, "もののあはれ", "MOSAIC.WAV", 0],
+    [4, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [5, "NAOKO‐THUNDER VERNIER II ～幼女期の終わり～", "MOSAIC.WAV", 0],
+    [6, "きみにおねがい！セキュリティ", "MOSAIC.WAV", 0],
+    [7, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [8, "悠久想春歌", "MOSAIC.WAV", 0],
+    [9, "脳・内・再・醒～ecphoric dance～", "MOSAIC.WAV", 0],
+    [10, "Next Stage！ ⇒ ’’Hyperluminal’’", "MOSAIC.WAV", 0],
+    [11, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [12, "天体上 ∇ 吟遊サテライト", "MOSAIC.WAV", 0],
+    [13, "FLY‐ALONE", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/17f85066-8144-4e26-bd05-bd3970fd28ed"]
 
@@ -1035,10 +1035,10 @@ catalognumber = "MOCD-0027"
 date = "2011-04-20"
 album = "ココナナなのね"
 tracks = [
-    [1, "ココナナなのね", "MOSAIC.WAV", -1],
-    [2, "ビギナーズラブ", "MOSAIC.WAV", -1],
-    [3, "ココナナなのね (Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "ビギナーズラブ (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "ココナナなのね", "MOSAIC.WAV", 0],
+    [2, "ビギナーズラブ", "MOSAIC.WAV", 0],
+    [3, "ココナナなのね (Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "ビギナーズラブ (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e2e2692d-b8b6-458e-9510-a0035fd78e1a"]
 
@@ -1047,20 +1047,20 @@ catalognumber = "GNCA-1309"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 元気side / Delightful Deep Dempa-song"
 tracks = [
-    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", -1],
-    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [5, "めがねでねっ!", "MOSAIC.WAV", -1],
-    [6, "最強○×計画", "MOSAIC.WAV", -1],
-    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
-    [9, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", -1],
-    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", -1],
-    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", -1],
-    [14, "Mon-ju☆Brains", "MOSAIC.WAV", -1],
+    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", 0],
+    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [5, "めがねでねっ!", "MOSAIC.WAV", 0],
+    [6, "最強○×計画", "MOSAIC.WAV", 0],
+    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
+    [9, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", 0],
+    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", 0],
+    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", 0],
+    [14, "Mon-ju☆Brains", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8880cdc4-6f28-40aa-99be-b0d375da7812"]
 
@@ -1069,20 +1069,20 @@ catalognumber = "GNCA-1309"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 電気side / Electric Emotional Engineering"
 tracks = [
-    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", -1],
-    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", -1],
-    [3, "キミは何テラバイト？", "MOSAIC.WAV", -1],
-    [4, "魅惑のツンデロイド", "MOSAIC.WAV", -1],
-    [5, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", -1],
-    [8, "＊＊＊にできるかな", "MOSAIC.WAV", -1],
-    [9, "片道きゃっちぼーる", "MOSAIC.WAV", -1],
-    [10, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [11, "AKIBA-POP the Future", "MOSAIC.WAV", -1],
-    [12, "エクリプス<eclipse>", "MOSAIC.WAV", -1],
-    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", -1],
-    [14, "Flyer", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", 0],
+    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", 0],
+    [3, "キミは何テラバイト？", "MOSAIC.WAV", 0],
+    [4, "魅惑のツンデロイド", "MOSAIC.WAV", 0],
+    [5, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", 0],
+    [8, "＊＊＊にできるかな", "MOSAIC.WAV", 0],
+    [9, "片道きゃっちぼーる", "MOSAIC.WAV", 0],
+    [10, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [11, "AKIBA-POP the Future", "MOSAIC.WAV", 0],
+    [12, "エクリプス<eclipse>", "MOSAIC.WAV", 0],
+    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", 0],
+    [14, "Flyer", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8880cdc4-6f28-40aa-99be-b0d375da7812"]
 
@@ -1091,20 +1091,20 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 元気side / Delightful Deep Dempa-song"
 tracks = [
-    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", -1],
-    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [5, "めがねでねっ!", "MOSAIC.WAV", -1],
-    [6, "最強○×計画", "MOSAIC.WAV", -1],
-    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
-    [9, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", -1],
-    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", -1],
-    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", -1],
-    [14, "Mon-ju☆Brains", "MOSAIC.WAV", -1],
+    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", 0],
+    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [5, "めがねでねっ!", "MOSAIC.WAV", 0],
+    [6, "最強○×計画", "MOSAIC.WAV", 0],
+    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
+    [9, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", 0],
+    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", 0],
+    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", 0],
+    [14, "Mon-ju☆Brains", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b1a0cf6f-9776-4dc1-8f89-f238d2ffab49"]
 
@@ -1113,20 +1113,20 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 電気side / Electric Emotional Engineering"
 tracks = [
-    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", -1],
-    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", -1],
-    [3, "キミは何テラバイト？", "MOSAIC.WAV", -1],
-    [4, "魅惑のツンデロイド", "MOSAIC.WAV", -1],
-    [5, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", -1],
-    [8, "＊＊＊にできるかな", "MOSAIC.WAV", -1],
-    [9, "片道きゃっちぼーる", "MOSAIC.WAV", -1],
-    [10, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [11, "AKIBA-POP the Future", "MOSAIC.WAV", -1],
-    [12, "エクリプス<eclipse>", "MOSAIC.WAV", -1],
-    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", -1],
-    [14, "Flyer", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", 0],
+    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", 0],
+    [3, "キミは何テラバイト？", "MOSAIC.WAV", 0],
+    [4, "魅惑のツンデロイド", "MOSAIC.WAV", 0],
+    [5, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", 0],
+    [8, "＊＊＊にできるかな", "MOSAIC.WAV", 0],
+    [9, "片道きゃっちぼーる", "MOSAIC.WAV", 0],
+    [10, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [11, "AKIBA-POP the Future", "MOSAIC.WAV", 0],
+    [12, "エクリプス<eclipse>", "MOSAIC.WAV", 0],
+    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", 0],
+    [14, "Flyer", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b1a0cf6f-9776-4dc1-8f89-f238d2ffab49"]
 
@@ -1135,12 +1135,12 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION Magical Hacker☆くるくるリスク"
 tracks = [
-    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", -1],
-    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", -1],
-    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", -1],
-    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", 0],
+    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", 0],
+    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", 0],
+    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b1a0cf6f-9776-4dc1-8f89-f238d2ffab49"]
 
@@ -1149,7 +1149,7 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 一期一会 ONLY CHANCE ～とらのあなで逢いましょう～"
 tracks = [
-    [1, "一期一会 ONLY CHANCE ～とらのあなで逢いましょう～", "MOSAIC.WAV", -1],
+    [1, "一期一会 ONLY CHANCE ～とらのあなで逢いましょう～", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b1a0cf6f-9776-4dc1-8f89-f238d2ffab49"]
 
@@ -1158,20 +1158,20 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 元気side / Delightful Deep Dempa-song"
 tracks = [
-    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", -1],
-    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [5, "めがねでねっ!", "MOSAIC.WAV", -1],
-    [6, "最強○×計画", "MOSAIC.WAV", -1],
-    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
-    [9, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", -1],
-    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", -1],
-    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", -1],
-    [14, "Mon-ju☆Brains", "MOSAIC.WAV", -1],
+    [1, "We Love \"AKIBA-POP\"!!", "MOSAIC.WAV", 0],
+    [2, "奶小的姑娘（ないしゃおだくーにゃん）", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [5, "めがねでねっ!", "MOSAIC.WAV", 0],
+    [6, "最強○×計画", "MOSAIC.WAV", 0],
+    [7, "ガチャガチャきゅ～と･ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [8, "ガチャガチャへるつ･ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
+    [9, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [10, "洗脳･搾取･虎の巻", "MOSAIC.WAV", 0],
+    [11, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [12, "＊ヨメ修業・Air Darlin'", "MOSAIC.WAV", 0],
+    [13, "とどけ！イン・にゃあ・はーと", "MOSAIC.WAV", 0],
+    [14, "Mon-ju☆Brains", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6f623270-e321-4cef-9985-404b4261d4cb"]
 
@@ -1180,20 +1180,20 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION 電気side / Electric Emotional Engineering"
 tracks = [
-    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", -1],
-    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", -1],
-    [3, "キミは何テラバイト？", "MOSAIC.WAV", -1],
-    [4, "魅惑のツンデロイド", "MOSAIC.WAV", -1],
-    [5, "百合星人ナオコサン", "MOSAIC.WAV", -1],
-    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", -1],
-    [8, "＊＊＊にできるかな", "MOSAIC.WAV", -1],
-    [9, "片道きゃっちぼーる", "MOSAIC.WAV", -1],
-    [10, "LOCAL JESUS", "MOSAIC.WAV", -1],
-    [11, "AKIBA-POP the Future", "MOSAIC.WAV", -1],
-    [12, "エクリプス<eclipse>", "MOSAIC.WAV", -1],
-    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", -1],
-    [14, "Flyer", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker ☆ くるくるリスク -Album Version-", "MOSAIC.WAV", 0],
+    [2, "電気の恋人 /＊ I am Programmer's Song ＊/", "MOSAIC.WAV", 0],
+    [3, "キミは何テラバイト？", "MOSAIC.WAV", 0],
+    [4, "魅惑のツンデロイド", "MOSAIC.WAV", 0],
+    [5, "百合星人ナオコサン", "MOSAIC.WAV", 0],
+    [6, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [7, "ギリギリ科学少女ふぉるしぃ", "MOSAIC.WAV", 0],
+    [8, "＊＊＊にできるかな", "MOSAIC.WAV", 0],
+    [9, "片道きゃっちぼーる", "MOSAIC.WAV", 0],
+    [10, "LOCAL JESUS", "MOSAIC.WAV", 0],
+    [11, "AKIBA-POP the Future", "MOSAIC.WAV", 0],
+    [12, "エクリプス<eclipse>", "MOSAIC.WAV", 0],
+    [13, "時空間超越 √ ライブラリィ", "MOSAIC.WAV", 0],
+    [14, "Flyer", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6f623270-e321-4cef-9985-404b4261d4cb"]
 
@@ -1202,12 +1202,12 @@ catalognumber = "GNCA-1308"
 date = "2011-11-23"
 album = "AKIBA-POP √RECOLLECTION Magical Hacker☆くるくるリスク"
 tracks = [
-    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", -1],
-    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", -1],
-    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", -1],
-    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "Magical Hacker☆くるくるリスク", "MOSAIC.WAV", 0],
+    [2, "GAMER'S ACTRESS〜My Sweet xxx Voice〜", "MOSAIC.WAV", 0],
+    [3, "電気の恋人 /* I am Programmer's Song */", "MOSAIC.WAV", 0],
+    [4, "Magical Hacker☆くるくるリスク（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "GAMER'S ACTRESS〜My Sweet xxx Voice〜（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "電気の恋人 /* I am Programmer's Song */（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6f623270-e321-4cef-9985-404b4261d4cb"]
 
@@ -1216,12 +1216,12 @@ catalognumber = ""
 date = "2012"
 album = "七三値ぱすかはダイスを振らない!"
 tracks = [
-    [1, "七三値ぱすかはダイスを振らない!", "MOSAIC.WAV", -1],
-    [2, "ストレス Free Style", "MOSAIC.WAV", -1],
-    [3, "100ネンゴノキミヘ", "MOSAIC.WAV", 0],
-    [4, "七三値ぱすかはダイスを振らない! (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "ストレス Free Style (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "100ネンゴノキミヘ (Off Vocal)", "MOSAIC.WAV", 0],
+    [1, "七三値ぱすかはダイスを振らない!", "MOSAIC.WAV", 0],
+    [2, "ストレス Free Style", "MOSAIC.WAV", 0],
+    [3, "100ネンゴノキミヘ", "MOSAIC.WAV", 1],
+    [4, "七三値ぱすかはダイスを振らない! (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "ストレス Free Style (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "100ネンゴノキミヘ (Off Vocal)", "MOSAIC.WAV", 1],
 ]
 links = []
 
@@ -1230,24 +1230,24 @@ catalognumber = "GNCA-1322"
 date = "2012-08-21"
 album = "吟遊Planet☆MOSAIC.LIVE Disc 1"
 tracks = [
-    [1, "入場BGM~メンバー呼び込み", "MOSAIC.WAV", -1],
-    [2, "Thing! Think! Ting!", "MOSAIC.WAV", -1],
-    [3, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [4, "魅惑のツンデロイド~地獄のヤンデロイド", "MOSAIC.WAV", -1],
-    [5, "-MC-", "MOSAIC.WAV", -1],
-    [6, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", -1],
-    [7, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [8, "ココナナなのね", "MOSAIC.WAV", -1],
-    [9, "もののあはれ (ゲスト:デッドボールP)", "MOSAIC.WAV", -1],
-    [10, "-MC-", "MOSAIC.WAV", -1],
-    [11, "Japanese Ninja No.1 (ゲスト:デッドボールP)", "MOSAIC.WAV", -1],
-    [12, "-MC- 【MOSAIC.Bros】", "MOSAIC.WAV", -1],
-    [13, "NAOKO-THUNDER VERNIER II ~幼女期の終わり~", "MOSAIC.WAV", -1],
-    [14, "百合星式おゆうぎうた", "MOSAIC.WAV", -1],
-    [15, "-MC- 【MOSAIC.Brosメンバー紹介】", "MOSAIC.WAV", -1],
-    [16, "最高ψ最強φメロダロイド!~***にできたかな", "MOSAIC.WAV", -1],
-    [17, "パッヘルベルのカノン", "MOSAIC.WAV", -1],
-    [18, "LOCAL JESUS", "MOSAIC.WAV", -1],
+    [1, "入場BGM~メンバー呼び込み", "MOSAIC.WAV", 0],
+    [2, "Thing! Think! Ting!", "MOSAIC.WAV", 0],
+    [3, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [4, "魅惑のツンデロイド~地獄のヤンデロイド", "MOSAIC.WAV", 0],
+    [5, "-MC-", "MOSAIC.WAV", 0],
+    [6, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", 0],
+    [7, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [8, "ココナナなのね", "MOSAIC.WAV", 0],
+    [9, "もののあはれ (ゲスト:デッドボールP)", "MOSAIC.WAV", 0],
+    [10, "-MC-", "MOSAIC.WAV", 0],
+    [11, "Japanese Ninja No.1 (ゲスト:デッドボールP)", "MOSAIC.WAV", 0],
+    [12, "-MC- 【MOSAIC.Bros】", "MOSAIC.WAV", 0],
+    [13, "NAOKO-THUNDER VERNIER II ~幼女期の終わり~", "MOSAIC.WAV", 0],
+    [14, "百合星式おゆうぎうた", "MOSAIC.WAV", 0],
+    [15, "-MC- 【MOSAIC.Brosメンバー紹介】", "MOSAIC.WAV", 0],
+    [16, "最高ψ最強φメロダロイド!~***にできたかな", "MOSAIC.WAV", 0],
+    [17, "パッヘルベルのカノン", "MOSAIC.WAV", 0],
+    [18, "LOCAL JESUS", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/18f28cf3-8fae-4760-b48a-e82c7177bdd3"]
 
@@ -1256,21 +1256,21 @@ catalognumber = "GNCA-1322"
 date = "2012-08-21"
 album = "吟遊Planet☆MOSAIC.LIVE Disc 2"
 tracks = [
-    [1, "悠久想春歌", "MOSAIC.WAV", -1],
-    [2, "FLY-ALONE", "MOSAIC.WAV", -1],
-    [3, "脳・内・再・醒~ecphoric dance~", "MOSAIC.WAV", -1],
-    [4, "-MC-", "MOSAIC.WAV", -1],
-    [5, "妄想網 Ж Superluminal~Next Stage!⇒ ”Hyperluminal”", "MOSAIC.WAV", -1],
-    [6, "天体上 ∇ 吟遊サテライト", "MOSAIC.WAV", -1],
-    [7, "【アンコール】", "MOSAIC.WAV", -1],
-    [8, "洗脳・搾取・虎の巻", "MOSAIC.WAV", -1],
-    [9, "パペピプPOLIDAY", "MOSAIC.WAV", -1],
-    [10, "【ダブルアンコール】", "MOSAIC.WAV", -1],
-    [11, "ガチャガチャきゅ~と・ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [12, "-メンバー紹介-", "MOSAIC.WAV", -1],
-    [13, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [14, "-MC-", "MOSAIC.WAV", -1],
-    [15, "-ENDING- (BGM: 天体上∇吟遊サテライト)", "MOSAIC.WAV", -1],
+    [1, "悠久想春歌", "MOSAIC.WAV", 0],
+    [2, "FLY-ALONE", "MOSAIC.WAV", 0],
+    [3, "脳・内・再・醒~ecphoric dance~", "MOSAIC.WAV", 0],
+    [4, "-MC-", "MOSAIC.WAV", 0],
+    [5, "妄想網 Ж Superluminal~Next Stage!⇒ ”Hyperluminal”", "MOSAIC.WAV", 0],
+    [6, "天体上 ∇ 吟遊サテライト", "MOSAIC.WAV", 0],
+    [7, "【アンコール】", "MOSAIC.WAV", 0],
+    [8, "洗脳・搾取・虎の巻", "MOSAIC.WAV", 0],
+    [9, "パペピプPOLIDAY", "MOSAIC.WAV", 0],
+    [10, "【ダブルアンコール】", "MOSAIC.WAV", 0],
+    [11, "ガチャガチャきゅ~と・ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [12, "-メンバー紹介-", "MOSAIC.WAV", 0],
+    [13, "SPACE! WAVE! AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [14, "-MC-", "MOSAIC.WAV", 0],
+    [15, "-ENDING- (BGM: 天体上∇吟遊サテライト)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/18f28cf3-8fae-4760-b48a-e82c7177bdd3"]
 
@@ -1279,19 +1279,19 @@ catalognumber = "GNCA-1341, GNCA-1341"
 date = "2012-11-07"
 album = "みんなみくみくにしてあげる～Heartsnative2～"
 tracks = [
-    [1, "みんなみくみくにしてあげる♪", "鶴田加茂＆MOSAIC.TUNE feat. 初音ミク", -1],
-    [2, "ダブルラリアット", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [3, "ルカルカ★ナイトフィーバー", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [4, "ワールズエンド・ダンスホール", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [5, "マトリョシカ", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [6, "ハッピーシンセサイザ", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [7, "イカサマライフゲイム", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [8, "想像フォレスト", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [9, "千本桜", "MOSAIC.TUNE feat. 初音ミク", -1],
-    [10, "vivid blank", "ゐつ・鶴田加茂・MOSAIC.TUNE・磯村カイ feat. 初音ミク", -1],
-    [11, "ユービック・ミュージック", "ゐつ・鶴田加茂・MOSAIC.TUNE・けんせい（Silver Seats Records） feat. 初音ミク", -1],
-    [12, "回帰のシンクロニシティ", "ゐつ・鶴田加茂・MOSAIC.TUNE・けんせい（Silver Seats Records） feat. 初音ミク", -1],
-    [13, "トワイライト×トワイライト", "dezzy＆MOSAIC.TUNE feat. 初音ミク", -1],
+    [1, "みんなみくみくにしてあげる♪", "鶴田加茂＆MOSAIC.TUNE feat. 初音ミク", 0],
+    [2, "ダブルラリアット", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [3, "ルカルカ★ナイトフィーバー", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [4, "ワールズエンド・ダンスホール", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [5, "マトリョシカ", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [6, "ハッピーシンセサイザ", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [7, "イカサマライフゲイム", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [8, "想像フォレスト", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [9, "千本桜", "MOSAIC.TUNE feat. 初音ミク", 0],
+    [10, "vivid blank", "ゐつ・鶴田加茂・MOSAIC.TUNE・磯村カイ feat. 初音ミク", 0],
+    [11, "ユービック・ミュージック", "ゐつ・鶴田加茂・MOSAIC.TUNE・けんせい（Silver Seats Records） feat. 初音ミク", 0],
+    [12, "回帰のシンクロニシティ", "ゐつ・鶴田加茂・MOSAIC.TUNE・けんせい（Silver Seats Records） feat. 初音ミク", 0],
+    [13, "トワイライト×トワイライト", "dezzy＆MOSAIC.TUNE feat. 初音ミク", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ff2b3266-9ffe-4cbd-9d61-fbd6c2459efb"]
 
@@ -1300,12 +1300,12 @@ catalognumber = ""
 date = "2013"
 album = "All Last One Chance!"
 tracks = [
-    [1, "All Last One Chance!", "MOSAIC. WAV", -1],
-    [2, "睡眠時☆胸キュン☆症候群", "MOSAIC. WAV", -1],
-    [3, "麻雀よくわかんない", "MOSAIC. WAV", -1],
-    [4, "All Last One Chance! (Off Vocal)", "MOSAIC. WAV", -1],
-    [5, "睡眠時☆胸キュン☆症候群 (Off Vocal)", "MOSAIC. WAV", -1],
-    [6, "麻雀よくわかんない (Off Vocal)", "MOSAIC. WAV", -1],
+    [1, "All Last One Chance!", "MOSAIC. WAV", 0],
+    [2, "睡眠時☆胸キュン☆症候群", "MOSAIC. WAV", 0],
+    [3, "麻雀よくわかんない", "MOSAIC. WAV", 0],
+    [4, "All Last One Chance! (Off Vocal)", "MOSAIC. WAV", 0],
+    [5, "睡眠時☆胸キュン☆症候群 (Off Vocal)", "MOSAIC. WAV", 0],
+    [6, "麻雀よくわかんない (Off Vocal)", "MOSAIC. WAV", 0],
 ]
 links = []
 
@@ -1314,19 +1314,19 @@ catalognumber = "GNCA-1401"
 date = "2013-12-11"
 album = "トランジスタの道化団〜Heartsnative3〜"
 tracks = [
-    [1, "真夏のレターレインボー〜DA DA DA DANCING〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", -1],
-    [2, "櫻花饗宴", "MOSAIC.TUNE", -1],
-    [3, "狛犬の双音", "MOSAIC.TUNE", -1],
-    [4, "Cross Lyric", "MOSAIC.TUNE", -1],
-    [5, "aDOOR-able WORLD", "MOSAIC.TUNE", -1],
-    [6, "18号のBlue-Gene", "MOSAIC.TUNE", -1],
-    [7, "エポケーに、おちる。", "MOSAIC.TUNE", -1],
-    [8, "センチメンタル・アンドロイド", "MOSAIC.TUNE", -1],
-    [9, "シナモンティーをどうぞ〜Taurus Poniatovii〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", -1],
-    [10, "回転木馬の国のアリス", "MOSAIC.TUNE", -1],
-    [11, "デンコーセッカ", "MOSAIC.TUNE", -1],
-    [12, "トランジスタの道化団", "MOSAIC.TUNE", -1],
-    [13, "夜明けのノスタルジア", "MOSAIC.TUNE", -1],
+    [1, "真夏のレターレインボー〜DA DA DA DANCING〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", 0],
+    [2, "櫻花饗宴", "MOSAIC.TUNE", 0],
+    [3, "狛犬の双音", "MOSAIC.TUNE", 0],
+    [4, "Cross Lyric", "MOSAIC.TUNE", 0],
+    [5, "aDOOR-able WORLD", "MOSAIC.TUNE", 0],
+    [6, "18号のBlue-Gene", "MOSAIC.TUNE", 0],
+    [7, "エポケーに、おちる。", "MOSAIC.TUNE", 0],
+    [8, "センチメンタル・アンドロイド", "MOSAIC.TUNE", 0],
+    [9, "シナモンティーをどうぞ〜Taurus Poniatovii〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", 0],
+    [10, "回転木馬の国のアリス", "MOSAIC.TUNE", 0],
+    [11, "デンコーセッカ", "MOSAIC.TUNE", 0],
+    [12, "トランジスタの道化団", "MOSAIC.TUNE", 0],
+    [13, "夜明けのノスタルジア", "MOSAIC.TUNE", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/398ad52f-91d6-419b-9807-e46e0849b72b"]
 
@@ -1335,19 +1335,19 @@ catalognumber = "GNCA-1402"
 date = "2013-12-11"
 album = "Astronomical Φ AKIBA-POP!! (初回限定盤)"
 tracks = [
-    [1, "DA DA DA DANCING〜真夏のレターレインボー〜 (MOSAIC.WAV版)", "MOSAIC.WAV", -1],
-    [2, "さくら色マーマレード", "MOSAIC.WAV", -1],
-    [3, "Kissしてme! me!", "MOSAIC.WAV", -1],
-    [4, "パライソハレルヤスンバラリア", "MOSAIC.WAV", -1],
-    [5, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", -1],
-    [6, "2.5次元の足音", "MOSAIC.WAV", -1],
-    [7, "ラビュー☆ラビュー!", "MOSAIC.WAV", -1],
-    [8, "フォトンベルト観光ホテル", "MOSAIC.WAV", -1],
-    [9, "シナモンティーをどうぞ〜Argo Navis〜 (MOSAIC.WAV版)", "MOSAIC.WAV", -1],
-    [10, "幻覚ユーフォリア", "MOSAIC.WAV", -1],
-    [11, "Two Ring", "MOSAIC.WAV", -1],
-    [12, "Astronomical Φ AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [13, "ΑΦΡΟΔΙΤΗ〜Aphrodite〜", "MOSAIC.WAV", -1],
+    [1, "DA DA DA DANCING〜真夏のレターレインボー〜 (MOSAIC.WAV版)", "MOSAIC.WAV", 0],
+    [2, "さくら色マーマレード", "MOSAIC.WAV", 0],
+    [3, "Kissしてme! me!", "MOSAIC.WAV", 0],
+    [4, "パライソハレルヤスンバラリア", "MOSAIC.WAV", 0],
+    [5, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", 0],
+    [6, "2.5次元の足音", "MOSAIC.WAV", 0],
+    [7, "ラビュー☆ラビュー!", "MOSAIC.WAV", 0],
+    [8, "フォトンベルト観光ホテル", "MOSAIC.WAV", 0],
+    [9, "シナモンティーをどうぞ〜Argo Navis〜 (MOSAIC.WAV版)", "MOSAIC.WAV", 0],
+    [10, "幻覚ユーフォリア", "MOSAIC.WAV", 0],
+    [11, "Two Ring", "MOSAIC.WAV", 0],
+    [12, "Astronomical Φ AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [13, "ΑΦΡΟΔΙΤΗ〜Aphrodite〜", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9adcbc94-ed15-43f0-b410-9187678bad51"]
 
@@ -1356,7 +1356,7 @@ catalognumber = "GNCA-1402"
 date = "2013-12-11"
 album = "Astronomical Φ AKIBA-POP!! (初回限定盤) 特典シングル ★歴代MOSAICキャラソングをメドレー形式に再構築、8分を超える10周年特別組曲を収録! !"
 tracks = [
-    [1, "Queen of MOSAIC.Girls", "MOSAIC.WAV", -1],
+    [1, "Queen of MOSAIC.Girls", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9adcbc94-ed15-43f0-b410-9187678bad51"]
 
@@ -1365,19 +1365,19 @@ catalognumber = "GNCA-1403, GNCA-1403"
 date = "2013-12-11"
 album = "Astronomical Φ AKIBA-POP!!"
 tracks = [
-    [1, "DA DA DA DANCING〜真夏のレターレインボー〜 (MOSAIC.WAV版)", "MOSAIC.WAV", -1],
-    [2, "さくら色マーマレード", "MOSAIC.WAV", -1],
-    [3, "Kissしてme! me!", "MOSAIC.WAV", -1],
-    [4, "パライソハレルヤスンバラリア", "MOSAIC.WAV", -1],
-    [5, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", -1],
-    [6, "2.5次元の足音", "MOSAIC.WAV", -1],
-    [7, "ラビュー☆ラビュー!", "MOSAIC.WAV", -1],
-    [8, "フォトンベルト観光ホテル", "MOSAIC.WAV", -1],
-    [9, "シナモンティーをどうぞ〜Argo Navis〜 (MOSAIC.WAV版)", "MOSAIC.WAV", -1],
-    [10, "幻覚ユーフォリア", "MOSAIC.WAV", -1],
-    [11, "Two Ring", "MOSAIC.WAV", -1],
-    [12, "Astronomical Φ AKIBA-POP!!", "MOSAIC.WAV", -1],
-    [13, "ΑΦΡΟΔΙΤΗ〜Aphrodite〜", "MOSAIC.WAV", -1],
+    [1, "DA DA DA DANCING〜真夏のレターレインボー〜 (MOSAIC.WAV版)", "MOSAIC.WAV", 0],
+    [2, "さくら色マーマレード", "MOSAIC.WAV", 0],
+    [3, "Kissしてme! me!", "MOSAIC.WAV", 0],
+    [4, "パライソハレルヤスンバラリア", "MOSAIC.WAV", 0],
+    [5, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", 0],
+    [6, "2.5次元の足音", "MOSAIC.WAV", 0],
+    [7, "ラビュー☆ラビュー!", "MOSAIC.WAV", 0],
+    [8, "フォトンベルト観光ホテル", "MOSAIC.WAV", 0],
+    [9, "シナモンティーをどうぞ〜Argo Navis〜 (MOSAIC.WAV版)", "MOSAIC.WAV", 0],
+    [10, "幻覚ユーフォリア", "MOSAIC.WAV", 0],
+    [11, "Two Ring", "MOSAIC.WAV", 0],
+    [12, "Astronomical Φ AKIBA-POP!!", "MOSAIC.WAV", 0],
+    [13, "ΑΦΡΟΔΙΤΗ〜Aphrodite〜", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c47558fb-3b57-43d2-b8d4-14d1494c6793"]
 
@@ -1386,19 +1386,19 @@ catalognumber = "GNCA-1400, GNCA-1400"
 date = "2013-12-11"
 album = "トランジスタの道化団〜Heartsnative3〜"
 tracks = [
-    [1, "真夏のレターレインボー〜DA DA DA DANCING〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", -1],
-    [2, "櫻花饗宴", "MOSAIC.TUNE", -1],
-    [3, "狛犬の双音", "MOSAIC.TUNE", -1],
-    [4, "Cross Lyric", "MOSAIC.TUNE", -1],
-    [5, "aDOOR-able WORLD", "MOSAIC.TUNE", -1],
-    [6, "18号のBlue-Gene", "MOSAIC.TUNE", -1],
-    [7, "エポケーに、おちる。", "MOSAIC.TUNE", -1],
-    [8, "センチメンタル・アンドロイド", "MOSAIC.TUNE", -1],
-    [9, "シナモンティーをどうぞ〜Taurus Poniatovii〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", -1],
-    [10, "回転木馬の国のアリス", "MOSAIC.TUNE", -1],
-    [11, "デンコーセッカ", "MOSAIC.TUNE", -1],
-    [12, "トランジスタの道化団", "MOSAIC.TUNE", -1],
-    [13, "夜明けのノスタルジア", "MOSAIC.TUNE", -1],
+    [1, "真夏のレターレインボー〜DA DA DA DANCING〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", 0],
+    [2, "櫻花饗宴", "MOSAIC.TUNE", 0],
+    [3, "狛犬の双音", "MOSAIC.TUNE", 0],
+    [4, "Cross Lyric", "MOSAIC.TUNE", 0],
+    [5, "aDOOR-able WORLD", "MOSAIC.TUNE", 0],
+    [6, "18号のBlue-Gene", "MOSAIC.TUNE", 0],
+    [7, "エポケーに、おちる。", "MOSAIC.TUNE", 0],
+    [8, "センチメンタル・アンドロイド", "MOSAIC.TUNE", 0],
+    [9, "シナモンティーをどうぞ〜Taurus Poniatovii〜 (MOSAIC.TUNE版)", "MOSAIC.TUNE", 0],
+    [10, "回転木馬の国のアリス", "MOSAIC.TUNE", 0],
+    [11, "デンコーセッカ", "MOSAIC.TUNE", 0],
+    [12, "トランジスタの道化団", "MOSAIC.TUNE", 0],
+    [13, "夜明けのノスタルジア", "MOSAIC.TUNE", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/210828ef-334b-404e-8e9b-41383951b215"]
 
@@ -1407,12 +1407,12 @@ catalognumber = "MOCD-0048"
 date = "2013-12-31"
 album = "CD 『こえでおしごと！』イメージソング 「魔法のおしごと」"
 tracks = [
-    [1, "魔法のおしごと", "MOSAIC.WAV", -1],
-    [2, "こころのひめごと", "MOSAIC.WAV", -1],
-    [3, "ゆめでいいこと", "MOSAIC.WAV", -1],
-    [4, "魔法のおしごと（Off Vocal）", "MOSAIC.WAV", -1],
-    [5, "こころのひめごと（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "ゆめでいいこと（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "魔法のおしごと", "MOSAIC.WAV", 0],
+    [2, "こころのひめごと", "MOSAIC.WAV", 0],
+    [3, "ゆめでいいこと", "MOSAIC.WAV", 0],
+    [4, "魔法のおしごと（Off Vocal）", "MOSAIC.WAV", 0],
+    [5, "こころのひめごと（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "ゆめでいいこと（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0ab7d841-2f79-4bd5-bc3e-a79b44728588"]
 
@@ -1421,12 +1421,12 @@ catalognumber = ""
 date = "2014"
 album = "ローレグエンジェル夏到来!"
 tracks = [
-    [1, "ローレグエンジェル夏到来!", "MOSAIC.WAV", -1],
-    [2, "風のシンフォニア", "MOSAIC.WAV", -1],
-    [3, "LUCKY BLUE BIRD", "MOSAIC.WAV", -1],
-    [4, "ローレグエンジェル夏到来! (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "風のシンフォニア (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "LUCKY BLUE BIRD (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "ローレグエンジェル夏到来!", "MOSAIC.WAV", 0],
+    [2, "風のシンフォニア", "MOSAIC.WAV", 0],
+    [3, "LUCKY BLUE BIRD", "MOSAIC.WAV", 0],
+    [4, "ローレグエンジェル夏到来! (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "風のシンフォニア (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "LUCKY BLUE BIRD (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1435,10 +1435,10 @@ catalognumber = ""
 date = "2014"
 album = "浅葱色花吹雪"
 tracks = [
-    [1, "浅葱色花吹雪", "MOSAIC.WAV", -1],
-    [2, "仮称ギザギザ流剣技団へのお誘い", "MOSAIC.WAV", -1],
-    [3, "浅葱色花吹雪(Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "仮称ギザギザ流剣技団へのお誘い(Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "浅葱色花吹雪", "MOSAIC.WAV", 0],
+    [2, "仮称ギザギザ流剣技団へのお誘い", "MOSAIC.WAV", 0],
+    [3, "浅葱色花吹雪(Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "仮称ギザギザ流剣技団へのお誘い(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1447,12 +1447,12 @@ catalognumber = ""
 date = "2014-10-05"
 album = "MUSIC FOR RIDING!"
 tracks = [
-    [1, "Century", "MOSAIC.WAV", -1],
-    [2, "キクミミ☆ヒルクライム", "MOSAIC.WAV", -1],
-    [3, "ライダーズサウンド", "MOSAIC.WAV", -1],
-    [4, "Century (Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "キクミミ☆ヒルクライム (Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "ライダーズサウンド (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "Century", "MOSAIC.WAV", 0],
+    [2, "キクミミ☆ヒルクライム", "MOSAIC.WAV", 0],
+    [3, "ライダーズサウンド", "MOSAIC.WAV", 0],
+    [4, "Century (Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "キクミミ☆ヒルクライム (Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "ライダーズサウンド (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/110ed507-e39e-46a2-9f9a-71e2b710bf96"]
 
@@ -1461,12 +1461,12 @@ catalognumber = ""
 date = "2015"
 album = "GSR - Glory Start Running - EP"
 tracks = [
-    [1, "GSR - Glory Start Running", "MOSAIC.WAV", -1],
-    [2, "Are Kana Rare Kana", "MOSAIC.WAV", -1],
-    [3, "Holy Place", "MOSAIC.WAV", -1],
-    [4, "GSR - Glory Start Running (Instrumental)", "MOSAIC.WAV", -1],
-    [5, "Are Kana Rare Kana (Instrumental)", "MOSAIC.WAV", -1],
-    [6, "Holy Place (Instrumental)", "MOSAIC.WAV", -1],
+    [1, "GSR - Glory Start Running", "MOSAIC.WAV", 0],
+    [2, "Are Kana Rare Kana", "MOSAIC.WAV", 0],
+    [3, "Holy Place", "MOSAIC.WAV", 0],
+    [4, "GSR - Glory Start Running (Instrumental)", "MOSAIC.WAV", 0],
+    [5, "Are Kana Rare Kana (Instrumental)", "MOSAIC.WAV", 0],
+    [6, "Holy Place (Instrumental)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1475,16 +1475,16 @@ catalognumber = ""
 date = "2015"
 album = "MOSAIC.LASSIC ~ふたりのはっぴー☆あいらんど~"
 tracks = [
-    [1, "ふたりのはっぴー☆あいらんど～for C.A.Debussy～", "MOSAIC.WAV", -1],
-    [2, "恋愛初歩のノクターン", "MOSAIC.WAV", -1],
-    [3, "【ANIME BGM】ヴィヴァルディさん", "MOSAIC.WAV", -1],
-    [4, "Caro mio ben", "MOSAIC.WAV", -1],
-    [5, "気づいたら貯金が", "MOSAIC.WAV", -1],
-    [6, "ふたりのはっぴー☆あいらんど～for C.A.Debussy～ (Off Vocal)", "MOSAIC.WAV", -1],
-    [7, "恋愛初歩のノクターン (Off Vocal)", "MOSAIC.WAV", -1],
-    [8, "Caro mio ben (Off Vocal)", "MOSAIC.WAV", -1],
-    [9, "気づいたら貯金が (Off Vocal)", "MOSAIC.WAV", -1],
-    [10, "気づいたら電車が (気づいたら貯金が ピアノver.)", "MOSAIC.WAV", -1],
+    [1, "ふたりのはっぴー☆あいらんど～for C.A.Debussy～", "MOSAIC.WAV", 0],
+    [2, "恋愛初歩のノクターン", "MOSAIC.WAV", 0],
+    [3, "【ANIME BGM】ヴィヴァルディさん", "MOSAIC.WAV", 0],
+    [4, "Caro mio ben", "MOSAIC.WAV", 0],
+    [5, "気づいたら貯金が", "MOSAIC.WAV", 0],
+    [6, "ふたりのはっぴー☆あいらんど～for C.A.Debussy～ (Off Vocal)", "MOSAIC.WAV", 0],
+    [7, "恋愛初歩のノクターン (Off Vocal)", "MOSAIC.WAV", 0],
+    [8, "Caro mio ben (Off Vocal)", "MOSAIC.WAV", 0],
+    [9, "気づいたら貯金が (Off Vocal)", "MOSAIC.WAV", 0],
+    [10, "気づいたら電車が (気づいたら貯金が ピアノver.)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1493,14 +1493,14 @@ catalognumber = ""
 date = "2015"
 album = "獄卒エンジェル☆閻魔ちゃん"
 tracks = [
-    [1, "獄卒エンジェル☆閻魔ちゃん", "MOSAIC.WAV", -1],
-    [2, "Sleeping Beauty", "MOSAIC.WAV", -1],
-    [3, "2-tone Infinity", "MOSAIC.WAV", -1],
-    [4, "E・D・M・M=えだまめ音頭", "MOSAIC.WAV", -1],
-    [5, "獄卒エンジェル☆閻魔ちゃん（Off Vocal）", "MOSAIC.WAV", -1],
-    [6, "Sleeping Beauty（Off Vocal）", "MOSAIC.WAV", -1],
-    [7, "2-tone Infinity（Off Vocal）", "MOSAIC.WAV", -1],
-    [8, "E・D・M・M=えだまめ音頭（Off Vocal）", "MOSAIC.WAV", -1],
+    [1, "獄卒エンジェル☆閻魔ちゃん", "MOSAIC.WAV", 0],
+    [2, "Sleeping Beauty", "MOSAIC.WAV", 0],
+    [3, "2-tone Infinity", "MOSAIC.WAV", 0],
+    [4, "E・D・M・M=えだまめ音頭", "MOSAIC.WAV", 0],
+    [5, "獄卒エンジェル☆閻魔ちゃん（Off Vocal）", "MOSAIC.WAV", 0],
+    [6, "Sleeping Beauty（Off Vocal）", "MOSAIC.WAV", 0],
+    [7, "2-tone Infinity（Off Vocal）", "MOSAIC.WAV", 0],
+    [8, "E・D・M・M=えだまめ音頭（Off Vocal）", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1509,12 +1509,12 @@ catalognumber = ""
 date = "2015-08-14"
 album = "KIKIKIKI"
 tracks = [
-    [1, "KIKIKIKI (Vocal:MOSAIC.WAV)", "MOSAIC.WAV//実験台モルモット", -1],
-    [2, "キラリグサリ私雨 (Vocal:谷琢磨 (実験台モルモット))", "MOSAIC.WAV//実験台モルモット", -1],
-    [3, "KIKIKIKI (Vocal:谷琢磨 (実験台モルモット))", "MOSAIC.WAV//実験台モルモット", -1],
-    [4, "キラリグサリ私雨 (Vocal:MOSAIC.WAV)", "MOSAIC.WAV//実験台モルモット", -1],
-    [5, "KIKIKIKI (Off Vocal)", "MOSAIC.WAV//実験台モルモット", -1],
-    [6, "キラリグサリ私雨 (Off Vocal)", "MOSAIC.WAV//実験台モルモット", -1],
+    [1, "KIKIKIKI (Vocal:MOSAIC.WAV)", "MOSAIC.WAV//実験台モルモット", 0],
+    [2, "キラリグサリ私雨 (Vocal:谷琢磨 (実験台モルモット))", "MOSAIC.WAV//実験台モルモット", 0],
+    [3, "KIKIKIKI (Vocal:谷琢磨 (実験台モルモット))", "MOSAIC.WAV//実験台モルモット", 0],
+    [4, "キラリグサリ私雨 (Vocal:MOSAIC.WAV)", "MOSAIC.WAV//実験台モルモット", 0],
+    [5, "KIKIKIKI (Off Vocal)", "MOSAIC.WAV//実験台モルモット", 0],
+    [6, "キラリグサリ私雨 (Off Vocal)", "MOSAIC.WAV//実験台モルモット", 0],
 ]
 links = []
 
@@ -1523,31 +1523,31 @@ catalognumber = "GNXA-137102"
 date = "2015-10-23"
 album = "がっこうぐらし! オリジナルサウンドトラック 1"
 tracks = [
-    [1, "めざめのワルツ", "MOSAIC.WAV", -1],
-    [2, "朝の訪れ", "MOSAIC.WAV", -1],
-    [3, "学園生活部活動記録", "MOSAIC.WAV", -1],
-    [4, "会話は踊る", "MOSAIC.WAV", -1],
-    [5, "Humor Maker", "MOSAIC.WAV", -1],
-    [6, "おとぼけゆきげんきのんき", "MOSAIC.WAV", -1],
-    [7, "さっぱりくるみフィジカル派", "MOSAIC.WAV", -1],
-    [8, "すっとぼけマーチ", "MOSAIC.WAV", -1],
-    [9, "とぼけてもダメです!", "MOSAIC.WAV", -1],
-    [10, "頼れるりーさんきちんとさん", "MOSAIC.WAV", -1],
-    [11, "てきぱきみきロジカル派", "MOSAIC.WAV", -1],
-    [12, "学校のためのソルフェージュより\"She's already gone.\"", "MOSAIC.WAV", -1],
-    [13, "冷淡な宣告", "MOSAIC.WAV", -1],
-    [14, "空虚な世界", "MOSAIC.WAV", -1],
-    [15, "優しいめぐねえありがとう", "MOSAIC.WAV", -1],
-    [16, "コラッかしこい太郎丸!", "MOSAIC.WAV", -1],
-    [17, "おっかけっこ!", "MOSAIC.WAV", -1],
-    [18, "もっとおっかけっこ!!", "MOSAIC.WAV", -1],
-    [19, "Unpeaceful", "MOSAIC.WAV", -1],
-    [20, "冷酷な表情", "MOSAIC.WAV", -1],
-    [21, "Hideosity", "MOSAIC.WAV", -1],
-    [22, "振りはらって走れ!", "MOSAIC.WAV", -1],
-    [23, "言いたかった言葉", "MOSAIC.WAV", -1],
-    [24, "学校は勇者に微笑む", "MOSAIC.WAV", -1],
-    [25, "今日はおやすみなさい", "MOSAIC.WAV", -1],
+    [1, "めざめのワルツ", "MOSAIC.WAV", 0],
+    [2, "朝の訪れ", "MOSAIC.WAV", 0],
+    [3, "学園生活部活動記録", "MOSAIC.WAV", 0],
+    [4, "会話は踊る", "MOSAIC.WAV", 0],
+    [5, "Humor Maker", "MOSAIC.WAV", 0],
+    [6, "おとぼけゆきげんきのんき", "MOSAIC.WAV", 0],
+    [7, "さっぱりくるみフィジカル派", "MOSAIC.WAV", 0],
+    [8, "すっとぼけマーチ", "MOSAIC.WAV", 0],
+    [9, "とぼけてもダメです!", "MOSAIC.WAV", 0],
+    [10, "頼れるりーさんきちんとさん", "MOSAIC.WAV", 0],
+    [11, "てきぱきみきロジカル派", "MOSAIC.WAV", 0],
+    [12, "学校のためのソルフェージュより\"She's already gone.\"", "MOSAIC.WAV", 0],
+    [13, "冷淡な宣告", "MOSAIC.WAV", 0],
+    [14, "空虚な世界", "MOSAIC.WAV", 0],
+    [15, "優しいめぐねえありがとう", "MOSAIC.WAV", 0],
+    [16, "コラッかしこい太郎丸!", "MOSAIC.WAV", 0],
+    [17, "おっかけっこ!", "MOSAIC.WAV", 0],
+    [18, "もっとおっかけっこ!!", "MOSAIC.WAV", 0],
+    [19, "Unpeaceful", "MOSAIC.WAV", 0],
+    [20, "冷酷な表情", "MOSAIC.WAV", 0],
+    [21, "Hideosity", "MOSAIC.WAV", 0],
+    [22, "振りはらって走れ!", "MOSAIC.WAV", 0],
+    [23, "言いたかった言葉", "MOSAIC.WAV", 0],
+    [24, "学校は勇者に微笑む", "MOSAIC.WAV", 0],
+    [25, "今日はおやすみなさい", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/202e3446-bef6-44d3-b60f-b80b221372c5"]
 
@@ -1556,34 +1556,34 @@ catalognumber = "GNXA-137202"
 date = "2015-11-26"
 album = "がっこうぐらし! オリジナルサウンドトラック 2"
 tracks = [
-    [1, "Clear Sky", "MOSAIC.WAV", -1],
-    [2, "廊下は走らない", "MOSAIC.WAV", -1],
-    [3, "会話は踊る、されど進まず", "MOSAIC.WAV", -1],
-    [4, "ほんわか昼休み", "MOSAIC.WAV", -1],
-    [5, "学校が好きだ！", "MOSAIC.WAV", -1],
-    [6, "Situation Talk", "MOSAIC.WAV", -1],
-    [7, "雲のようにあいまいな平和", "MOSAIC.WAV", -1],
-    [8, "3点、もっとがんばりましょう", "MOSAIC.WAV", -1],
-    [9, "5点、まあまあです", "MOSAIC.WAV", -1],
-    [10, "優しさに触れたとき", "MOSAIC.WAV", -1],
-    [11, "あったかい気持ち", "MOSAIC.WAV", -1],
-    [12, "After School", "MOSAIC.WAV", -1],
-    [13, "いま手にすることのできる平和", "MOSAIC.WAV", -1],
-    [14, "惨憺たる現状", "MOSAIC.WAV", -1],
-    [15, "記憶の中の景色", "MOSAIC.WAV", -1],
-    [16, "記憶の中の間違った景色", "MOSAIC.WAV", -1],
-    [17, "交錯する記憶", "MOSAIC.WAV", -1],
-    [18, "緊急会議", "MOSAIC.WAV", -1],
-    [19, "不吉な夢を見る", "MOSAIC.WAV", -1],
-    [20, "りーさん…りーさん？", "MOSAIC.WAV", -1],
-    [21, "Creeping Crud", "MOSAIC.WAV", -1],
-    [22, "?再会?", "MOSAIC.WAV", -1],
-    [23, "負けない、強さ", "MOSAIC.WAV", -1],
-    [24, "隣り合わせの死", "MOSAIC.WAV", -1],
-    [25, "輝く明日のための戦い", "MOSAIC.WAV", -1],
-    [26, "友情の証", "MOSAIC.WAV", -1],
-    [27, "みんなの卒業式", "MOSAIC.WAV", -1],
-    [28, "ふ・れ・ん・ど・し・た・い（みーくんver.）", "みーくん（CV:高橋李依）", -1],
+    [1, "Clear Sky", "MOSAIC.WAV", 0],
+    [2, "廊下は走らない", "MOSAIC.WAV", 0],
+    [3, "会話は踊る、されど進まず", "MOSAIC.WAV", 0],
+    [4, "ほんわか昼休み", "MOSAIC.WAV", 0],
+    [5, "学校が好きだ！", "MOSAIC.WAV", 0],
+    [6, "Situation Talk", "MOSAIC.WAV", 0],
+    [7, "雲のようにあいまいな平和", "MOSAIC.WAV", 0],
+    [8, "3点、もっとがんばりましょう", "MOSAIC.WAV", 0],
+    [9, "5点、まあまあです", "MOSAIC.WAV", 0],
+    [10, "優しさに触れたとき", "MOSAIC.WAV", 0],
+    [11, "あったかい気持ち", "MOSAIC.WAV", 0],
+    [12, "After School", "MOSAIC.WAV", 0],
+    [13, "いま手にすることのできる平和", "MOSAIC.WAV", 0],
+    [14, "惨憺たる現状", "MOSAIC.WAV", 0],
+    [15, "記憶の中の景色", "MOSAIC.WAV", 0],
+    [16, "記憶の中の間違った景色", "MOSAIC.WAV", 0],
+    [17, "交錯する記憶", "MOSAIC.WAV", 0],
+    [18, "緊急会議", "MOSAIC.WAV", 0],
+    [19, "不吉な夢を見る", "MOSAIC.WAV", 0],
+    [20, "りーさん…りーさん？", "MOSAIC.WAV", 0],
+    [21, "Creeping Crud", "MOSAIC.WAV", 0],
+    [22, "?再会?", "MOSAIC.WAV", 0],
+    [23, "負けない、強さ", "MOSAIC.WAV", 0],
+    [24, "隣り合わせの死", "MOSAIC.WAV", 0],
+    [25, "輝く明日のための戦い", "MOSAIC.WAV", 0],
+    [26, "友情の証", "MOSAIC.WAV", 0],
+    [27, "みんなの卒業式", "MOSAIC.WAV", 0],
+    [28, "ふ・れ・ん・ど・し・た・い（みーくんver.）", "みーくん（CV:高橋李依）", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/89ef45a7-9e68-4220-9836-d8ffc474e4b4"]
 
@@ -1592,14 +1592,14 @@ catalognumber = ""
 date = "2016"
 album = "AstronomicalΦANOTHER-POP！！"
 tracks = [
-    [0, "シナモンティーをどうぞ～My Graduation～", "MOSAIC.WAV", -1],
-    [0, "幻覚リフォームマニア", "MOSAIC.WAV", -1],
-    [0, "ラビュー☆ラビュー！～SAKURAデビュー～", "MOSAIC.WAV", -1],
-    [0, "魔理沙は大変なものを盗んでいきました～MOSAIC98拡張音源 mix～", "MOSAIC.WAV", -1],
-    [0, "シナモンティーをどうぞ～My Graduation～(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "幻覚リフォームマニア(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "ラビュー☆ラビュー！～SAKURAデビュー～(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "魔理沙は大変なものを盗んでいきました～MOSAIC98拡張音源 mix～(Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "シナモンティーをどうぞ～My Graduation～", "MOSAIC.WAV", 0],
+    [0, "幻覚リフォームマニア", "MOSAIC.WAV", 0],
+    [0, "ラビュー☆ラビュー！～SAKURAデビュー～", "MOSAIC.WAV", 0],
+    [0, "魔理沙は大変なものを盗んでいきました～MOSAIC98拡張音源 mix～", "MOSAIC.WAV", 0],
+    [0, "シナモンティーをどうぞ～My Graduation～(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "幻覚リフォームマニア(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "ラビュー☆ラビュー！～SAKURAデビュー～(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "魔理沙は大変なものを盗んでいきました～MOSAIC98拡張音源 mix～(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1608,13 +1608,13 @@ catalognumber = ""
 date = "2016"
 album = "Crossing Heart"
 tracks = [
-    [0, "Crossing Heart", "MOSAIC.WAV", -1],
-    [0, "Cross Lyric", "MOSAIC.WAV", -1],
-    [0, "マジカルラッキージャム", "MOSAIC.WAV", -1],
-    [0, "Crossing Heart (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "Cross Lyric (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "マジカルラッキージャム (Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "マジカルラッキージャム (Reversed)", "MOSAIC.WAV", -1],
+    [0, "Crossing Heart", "MOSAIC.WAV", 0],
+    [0, "Cross Lyric", "MOSAIC.WAV", 0],
+    [0, "マジカルラッキージャム", "MOSAIC.WAV", 0],
+    [0, "Crossing Heart (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "Cross Lyric (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "マジカルラッキージャム (Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "マジカルラッキージャム (Reversed)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1623,8 +1623,8 @@ catalognumber = ""
 date = "2016"
 album = "MOSAIC.Hackathon"
 tracks = [
-    [1, "2015年に起こること", "MOSAIC.WAV", -1],
-    [2, "2015年に起こること (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "2015年に起こること", "MOSAIC.WAV", 0],
+    [2, "2015年に起こること (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1633,8 +1633,8 @@ catalognumber = ""
 date = "2016"
 album = "MOSAIC.HACKATHON2.0"
 tracks = [
-    [1, "翼はいいから時間をください", "MOSAIC.WAV", -1],
-    [2, "翼はいいから時間をください (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "翼はいいから時間をください", "MOSAIC.WAV", 0],
+    [2, "翼はいいから時間をください (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1643,10 +1643,10 @@ catalognumber = ""
 date = "2016"
 album = "Re:connection"
 tracks = [
-    [1, "Re:Connection", "MOSAIC.WAV", -1],
-    [2, "花の粉パランのおつとめソング", "MOSAIC.WAV", -1],
-    [3, "Re:Connection (Off Vocal)", "MOSAIC.WAV", -1],
-    [4, "花の粉パランのおつとめソング (Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "Re:Connection", "MOSAIC.WAV", 0],
+    [2, "花の粉パランのおつとめソング", "MOSAIC.WAV", 0],
+    [3, "Re:Connection (Off Vocal)", "MOSAIC.WAV", 0],
+    [4, "花の粉パランのおつとめソング (Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1655,11 +1655,11 @@ catalognumber = ""
 date = "2016"
 album = "いでおろーぐ!革命組曲"
 tracks = [
-    [1, "いでおろーぐ!", "MOSAIC.WAV", -1],
-    [2, "Resistance=Resistance", "MOSAIC.WAV", -1],
-    [3, "恋愛戦略キューピッド", "yksb・HIR・MOSAIC.WAV", -1],
-    [4, "立てよ同志!!反恋愛主義☆Revolution", "狐夢想(COOL&CREATE)・ARM(IOSYS)", -1],
-    [5, "残念人類楽観歌", "yksb・鶴田加茂・磯村カイ", -1],
+    [1, "いでおろーぐ!", "MOSAIC.WAV", 0],
+    [2, "Resistance=Resistance", "MOSAIC.WAV", 0],
+    [3, "恋愛戦略キューピッド", "yksb・HIR・MOSAIC.WAV", 0],
+    [4, "立てよ同志!!反恋愛主義☆Revolution", "狐夢想(COOL&CREATE)・ARM(IOSYS)", 0],
+    [5, "残念人類楽観歌", "yksb・鶴田加茂・磯村カイ", 0],
 ]
 links = []
 
@@ -1668,11 +1668,11 @@ catalognumber = "MOCD-0065"
 date = "2016-10-28"
 album = "青春ブタ野郎は恋する幻想曲の夢を見ない"
 tracks = [
-    [1, "ジュブナイル (Voice Up For 青春ブタ野郎)", "MOSAIC.WAV & yksb", -1],
-    [2, "Get Back Me!! (Voice Up For 桜島麻衣)", "MOSAIC.WAV & yksb", -1],
-    [3, "なして同じ朝を繰り返すと!? (Voice Up For 古賀朋絵)", "MOSAIC.WAV, けんせい & 狐夢想", -1],
-    [4, "Place And Active (Voice Up For 梓川かえで)", "yksb & 中垣雄一朗", -1],
-    [5, "嘘つきシュレディンガーと夢見がちラプラス (Voice Up For フシギ系科学)", "MOSAIC.WAV", -1],
+    [1, "ジュブナイル (Voice Up For 青春ブタ野郎)", "MOSAIC.WAV & yksb", 0],
+    [2, "Get Back Me!! (Voice Up For 桜島麻衣)", "MOSAIC.WAV & yksb", 0],
+    [3, "なして同じ朝を繰り返すと!? (Voice Up For 古賀朋絵)", "MOSAIC.WAV, けんせい & 狐夢想", 0],
+    [4, "Place And Active (Voice Up For 梓川かえで)", "yksb & 中垣雄一朗", 0],
+    [5, "嘘つきシュレディンガーと夢見がちラプラス (Voice Up For フシギ系科学)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f741c79b-abef-48b9-9f41-59d6cc6a8a95"]
 
@@ -1716,31 +1716,31 @@ catalognumber = "SFC-GKG100"
 date = "2017-06-27"
 album = "SCHOOL-LIVE! Premium Box Set Original Soundtrack Volume 1"
 tracks = [
-    [1, "Waking-Up Waltz", "MOSAIC.WAV", -1],
-    [2, "Morning's Arrival", "MOSAIC.WAV", -1],
-    [3, "School Life Club Activity Log", "MOSAIC.WAV", -1],
-    [4, "Conversation", "MOSAIC.WAV", -1],
-    [5, "Humor Maker", "MOSAIC.WAV", -1],
-    [6, "Blockhead Yuki Makes Merry", "MOSAIC.WAV", -1],
-    [7, "Kurumi's Refreshing and Physical", "MOSAIC.WAV", -1],
-    [8, "Blockhead March", "MOSAIC.WAV", -1],
-    [9, "Don't Be a Blockhead!", "MOSAIC.WAV", -1],
-    [10, "Dependable Ri-san Takes Care of It", "MOSAIC.WAV", -1],
-    [11, "Miki's Quick and Logical", "MOSAIC.WAV", -1],
-    [12, "From Solfège for School: \"She's already gone.\"", "MOSAIC.WAV", -1],
-    [13, "An Indifferent Verdict", "MOSAIC.WAV", -1],
-    [14, "An Empty World", "MOSAIC.WAV", -1],
-    [15, "Thank You, Kind Megu-nee", "MOSAIC.WAV", -1],
-    [16, "Hey! Stubborn Taromaru", "MOSAIC.WAV", -1],
-    [17, "Playing Tag!", "MOSAIC.WAV", -1],
-    [18, "Even More Playing Tag!", "MOSAIC.WAV", -1],
-    [19, "Unpeaceful", "MOSAIC.WAV", -1],
-    [20, "A Cruel Expression", "MOSAIC.WAV", -1],
-    [21, "Hideosity", "MOSAIC.WAV", -1],
-    [22, "Shake It Off and Run!", "MOSAIC.WAV", -1],
-    [23, "Things I Wanted to Say", "MOSAIC.WAV", -1],
-    [24, "The School Smiles for Its Heroes", "MOSAIC.WAV", -1],
-    [25, "Goodnight for Today", "MOSAIC.WAV", -1],
+    [1, "Waking-Up Waltz", "MOSAIC.WAV", 0],
+    [2, "Morning's Arrival", "MOSAIC.WAV", 0],
+    [3, "School Life Club Activity Log", "MOSAIC.WAV", 0],
+    [4, "Conversation", "MOSAIC.WAV", 0],
+    [5, "Humor Maker", "MOSAIC.WAV", 0],
+    [6, "Blockhead Yuki Makes Merry", "MOSAIC.WAV", 0],
+    [7, "Kurumi's Refreshing and Physical", "MOSAIC.WAV", 0],
+    [8, "Blockhead March", "MOSAIC.WAV", 0],
+    [9, "Don't Be a Blockhead!", "MOSAIC.WAV", 0],
+    [10, "Dependable Ri-san Takes Care of It", "MOSAIC.WAV", 0],
+    [11, "Miki's Quick and Logical", "MOSAIC.WAV", 0],
+    [12, "From Solfège for School: \"She's already gone.\"", "MOSAIC.WAV", 0],
+    [13, "An Indifferent Verdict", "MOSAIC.WAV", 0],
+    [14, "An Empty World", "MOSAIC.WAV", 0],
+    [15, "Thank You, Kind Megu-nee", "MOSAIC.WAV", 0],
+    [16, "Hey! Stubborn Taromaru", "MOSAIC.WAV", 0],
+    [17, "Playing Tag!", "MOSAIC.WAV", 0],
+    [18, "Even More Playing Tag!", "MOSAIC.WAV", 0],
+    [19, "Unpeaceful", "MOSAIC.WAV", 0],
+    [20, "A Cruel Expression", "MOSAIC.WAV", 0],
+    [21, "Hideosity", "MOSAIC.WAV", 0],
+    [22, "Shake It Off and Run!", "MOSAIC.WAV", 0],
+    [23, "Things I Wanted to Say", "MOSAIC.WAV", 0],
+    [24, "The School Smiles for Its Heroes", "MOSAIC.WAV", 0],
+    [25, "Goodnight for Today", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ffd9efa7-b7e9-4e43-942a-badca6103012"]
 
@@ -1749,33 +1749,33 @@ catalognumber = "SFC-GKG100"
 date = "2017-06-27"
 album = "SCHOOL-LIVE! Premium Box Set Original Soundtrack Volume 2"
 tracks = [
-    [1, "Clear Sky", "MOSAIC.WAV", -1],
-    [2, "Don't Run in the Halls", "MOSAIC.WAV", -1],
-    [3, "Conversation, but It Doesn't Go Anywhere", "MOSAIC.WAV", -1],
-    [4, "Cozy Lunch", "MOSAIC.WAV", -1],
-    [5, "I Love School!", "MOSAIC.WAV", -1],
-    [6, "Situation Talk", "MOSAIC.WAV", -1],
-    [7, "An Unclear Peace, Like Clouds", "MOSAIC.WAV", -1],
-    [8, "3 Points, Let's Work Harder", "MOSAIC.WAV", -1],
-    [9, "5 Points, So-So", "MOSAIC.WAV", -1],
-    [10, "When Kindness Touches You", "MOSAIC.WAV", -1],
-    [11, "Warm Feelings", "MOSAIC.WAV", -1],
-    [12, "After School", "MOSAIC.WAV", -1],
-    [13, "A Peace We Can Have", "MOSAIC.WAV", -1],
-    [14, "A Horrible Situation", "MOSAIC.WAV", -1],
-    [15, "Scenery in Our Memories", "MOSAIC.WAV", -1],
-    [16, "Wrong Scenery in Our Memories", "MOSAIC.WAV", -1],
-    [17, "Intersecting Memories", "MOSAIC.WAV", -1],
-    [18, "Emergency Meeting", "MOSAIC.WAV", -1],
-    [19, "An Unlucky Dream", "MOSAIC.WAV", -1],
-    [20, "Ri-san? ... Ri-san?", "MOSAIC.WAV", -1],
-    [21, "Creeping Crud", "MOSAIC.WAV", -1],
-    [22, "Reunion?", "MOSAIC.WAV", -1],
-    [23, "Unyielding Strength", "MOSAIC.WAV", -1],
-    [24, "Die Together", "MOSAIC.WAV", -1],
-    [25, "Fighting for a Shining Tomorrow", "MOSAIC.WAV", -1],
-    [26, "Proof of Friendship", "MOSAIC.WAV", -1],
-    [27, "Everyone's Graduation", "MOSAIC.WAV", -1],
+    [1, "Clear Sky", "MOSAIC.WAV", 0],
+    [2, "Don't Run in the Halls", "MOSAIC.WAV", 0],
+    [3, "Conversation, but It Doesn't Go Anywhere", "MOSAIC.WAV", 0],
+    [4, "Cozy Lunch", "MOSAIC.WAV", 0],
+    [5, "I Love School!", "MOSAIC.WAV", 0],
+    [6, "Situation Talk", "MOSAIC.WAV", 0],
+    [7, "An Unclear Peace, Like Clouds", "MOSAIC.WAV", 0],
+    [8, "3 Points, Let's Work Harder", "MOSAIC.WAV", 0],
+    [9, "5 Points, So-So", "MOSAIC.WAV", 0],
+    [10, "When Kindness Touches You", "MOSAIC.WAV", 0],
+    [11, "Warm Feelings", "MOSAIC.WAV", 0],
+    [12, "After School", "MOSAIC.WAV", 0],
+    [13, "A Peace We Can Have", "MOSAIC.WAV", 0],
+    [14, "A Horrible Situation", "MOSAIC.WAV", 0],
+    [15, "Scenery in Our Memories", "MOSAIC.WAV", 0],
+    [16, "Wrong Scenery in Our Memories", "MOSAIC.WAV", 0],
+    [17, "Intersecting Memories", "MOSAIC.WAV", 0],
+    [18, "Emergency Meeting", "MOSAIC.WAV", 0],
+    [19, "An Unlucky Dream", "MOSAIC.WAV", 0],
+    [20, "Ri-san? ... Ri-san?", "MOSAIC.WAV", 0],
+    [21, "Creeping Crud", "MOSAIC.WAV", 0],
+    [22, "Reunion?", "MOSAIC.WAV", 0],
+    [23, "Unyielding Strength", "MOSAIC.WAV", 0],
+    [24, "Die Together", "MOSAIC.WAV", 0],
+    [25, "Fighting for a Shining Tomorrow", "MOSAIC.WAV", 0],
+    [26, "Proof of Friendship", "MOSAIC.WAV", 0],
+    [27, "Everyone's Graduation", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ffd9efa7-b7e9-4e43-942a-badca6103012"]
 
@@ -1784,12 +1784,12 @@ catalognumber = ""
 date = "2018"
 album = "君のパンツが見たい。"
 tracks = [
-    [0, "君のパンツが見たい。", "MOSAIC.WAV", -1],
-    [0, "まじかるパンツ", "MOSAIC.WAV", -1],
-    [0, "パンツ Of The Wind", "MOSAIC.WAV", -1],
-    [0, "君のパンツが見たい。(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "まじかるパンツ(Off Vocal)", "MOSAIC.WAV", -1],
-    [0, "パンツ Of The Wind(Off Vocal)", "MOSAIC.WAV", -1],
+    [0, "君のパンツが見たい。", "MOSAIC.WAV", 0],
+    [0, "まじかるパンツ", "MOSAIC.WAV", 0],
+    [0, "パンツ Of The Wind", "MOSAIC.WAV", 0],
+    [0, "君のパンツが見たい。(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "まじかるパンツ(Off Vocal)", "MOSAIC.WAV", 0],
+    [0, "パンツ Of The Wind(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1798,20 +1798,20 @@ catalognumber = "MOCD-0082"
 date = "2018-12-29"
 album = "MiracleluminalΣAKIBA-POP!! Disc 1"
 tracks = [
-    [1, "No Pants, No Life!", "MOSAIC.WAV", -1],
-    [2, "Magi☆まじょ★ココロ・ストロベリー", "MOSAIC.WAV", -1],
-    [3, "オコサマオトナナオサナナナ", "MOSAIC.WAV", -1],
-    [4, "KissしてGO!GO!", "MOSAIC.WAV", -1],
-    [5, "Blue Stripe", "MOSAIC.WAV", -1],
-    [6, "おりじにゃ〜る!", "MOSAIC.WAV", -1],
-    [7, "即席！脳直★ミュージックシステム", "MOSAIC.WAV", -1],
-    [8, "とーきょー全域★アキハバラ？", "MOSAIC.WAV", -1],
-    [9, "いつもあなたに恋してる", "MOSAIC.WAV", -1],
-    [10, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", -1],
-    [11, "花一匁", "MOSAIC.WAV", -1],
-    [12, "熟成！醸造！発酵星◎〜スペースヨーグルアース〜", "MOSAIC.WAV", -1],
-    [13, "≪AI≫リアリィ・フェアリィ≪tubers≫", "MOSAIC.WAV", -1],
-    [14, "ハートも笑顔になりますように", "MOSAIC.WAV", -1],
+    [1, "No Pants, No Life!", "MOSAIC.WAV", 0],
+    [2, "Magi☆まじょ★ココロ・ストロベリー", "MOSAIC.WAV", 0],
+    [3, "オコサマオトナナオサナナナ", "MOSAIC.WAV", 0],
+    [4, "KissしてGO!GO!", "MOSAIC.WAV", 0],
+    [5, "Blue Stripe", "MOSAIC.WAV", 0],
+    [6, "おりじにゃ〜る!", "MOSAIC.WAV", 0],
+    [7, "即席！脳直★ミュージックシステム", "MOSAIC.WAV", 0],
+    [8, "とーきょー全域★アキハバラ？", "MOSAIC.WAV", 0],
+    [9, "いつもあなたに恋してる", "MOSAIC.WAV", 0],
+    [10, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", 0],
+    [11, "花一匁", "MOSAIC.WAV", 0],
+    [12, "熟成！醸造！発酵星◎〜スペースヨーグルアース〜", "MOSAIC.WAV", 0],
+    [13, "≪AI≫リアリィ・フェアリィ≪tubers≫", "MOSAIC.WAV", 0],
+    [14, "ハートも笑顔になりますように", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/bbe32f2f-2a36-40b5-a238-240b7eb24472"]
 
@@ -1820,15 +1820,15 @@ catalognumber = "MOCD-0082"
 date = "2018-12-29"
 album = "MiracleluminalΣAKIBA-POP!! Disc 2"
 tracks = [
-    [1, "☆(記号)をつければかしこかろう", "MOSAIC.WAV", -1],
-    [2, "集え!フロンティアーナ", "MOSAIC.WAV", -1],
-    [3, "Grateful Friends", "MOSAIC.WAV", -1],
-    [4, "モノクローム・アンサー", "MOSAIC.WAV", -1],
-    [5, "エキサイティング!!ぺ・た・こ☆", "MOSAIC.WAV", -1],
-    [6, "メモリからメロダロイドへのプロシード", "MOSAIC.WAV", -1],
-    [7, "Veriest Rabbit-VR-", "MOSAIC.WAV", -1],
-    [8, "超級数 Σ Miracleluminal", "MOSAIC.WAV", -1],
-    [9, "edge", "MOSAIC.WAV", -1],
+    [1, "☆(記号)をつければかしこかろう", "MOSAIC.WAV", 0],
+    [2, "集え!フロンティアーナ", "MOSAIC.WAV", 0],
+    [3, "Grateful Friends", "MOSAIC.WAV", 0],
+    [4, "モノクローム・アンサー", "MOSAIC.WAV", 0],
+    [5, "エキサイティング!!ぺ・た・こ☆", "MOSAIC.WAV", 0],
+    [6, "メモリからメロダロイドへのプロシード", "MOSAIC.WAV", 0],
+    [7, "Veriest Rabbit-VR-", "MOSAIC.WAV", 0],
+    [8, "超級数 Σ Miracleluminal", "MOSAIC.WAV", 0],
+    [9, "edge", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/bbe32f2f-2a36-40b5-a238-240b7eb24472"]
 
@@ -1837,20 +1837,20 @@ catalognumber = "MOCD-0081"
 date = "2018-12-29"
 album = "MiracleluminalΣAKIBA-POP!! Disc 1"
 tracks = [
-    [1, "No Pants, No Life!", "MOSAIC.WAV", -1],
-    [2, "Magi☆まじょ★ココロ・ストロベリー", "MOSAIC.WAV", -1],
-    [3, "オコサマオトナナオサナナナ", "MOSAIC.WAV", -1],
-    [4, "KissしてGO!GO!", "MOSAIC.WAV", -1],
-    [5, "Blue Stripe", "MOSAIC.WAV", -1],
-    [6, "おりじにゃ〜る!", "MOSAIC.WAV", -1],
-    [7, "即席！脳直★ミュージックシステム", "MOSAIC.WAV", -1],
-    [8, "とーきょー全域★アキハバラ？", "MOSAIC.WAV", -1],
-    [9, "いつもあなたに恋してる", "MOSAIC.WAV", -1],
-    [10, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", -1],
-    [11, "花一匁", "MOSAIC.WAV", -1],
-    [12, "熟成！醸造！発酵星◎〜スペースヨーグルアース", "MOSAIC.WAV", -1],
-    [13, "≪AI≫リアリィ・フェアリィ≪tubers≫", "MOSAIC.WAV", -1],
-    [14, "ハートも笑顔になりますように", "MOSAIC.WAV", -1],
+    [1, "No Pants, No Life!", "MOSAIC.WAV", 0],
+    [2, "Magi☆まじょ★ココロ・ストロベリー", "MOSAIC.WAV", 0],
+    [3, "オコサマオトナナオサナナナ", "MOSAIC.WAV", 0],
+    [4, "KissしてGO!GO!", "MOSAIC.WAV", 0],
+    [5, "Blue Stripe", "MOSAIC.WAV", 0],
+    [6, "おりじにゃ〜る!", "MOSAIC.WAV", 0],
+    [7, "即席！脳直★ミュージックシステム", "MOSAIC.WAV", 0],
+    [8, "とーきょー全域★アキハバラ？", "MOSAIC.WAV", 0],
+    [9, "いつもあなたに恋してる", "MOSAIC.WAV", 0],
+    [10, "世界の果てで会いし愛ましょう", "MOSAIC.WAV", 0],
+    [11, "花一匁", "MOSAIC.WAV", 0],
+    [12, "熟成！醸造！発酵星◎〜スペースヨーグルアース", "MOSAIC.WAV", 0],
+    [13, "≪AI≫リアリィ・フェアリィ≪tubers≫", "MOSAIC.WAV", 0],
+    [14, "ハートも笑顔になりますように", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/4cd05f97-5947-4324-a165-da51251f253e"]
 
@@ -1859,15 +1859,15 @@ catalognumber = "MOCD-0081"
 date = "2018-12-29"
 album = "MiracleluminalΣAKIBA-POP!! Disc 2"
 tracks = [
-    [1, "☆(記号)をつければかしこかろう", "MOSAIC.WAV", -1],
-    [2, "集え!フロンティアーナ", "MOSAIC.WAV", -1],
-    [3, "Grateful Friends", "MOSAIC.WAV", -1],
-    [4, "モノクローム・アンサー", "MOSAIC.WAV", -1],
-    [5, "エキサイティング!!ぺ・た・こ☆", "MOSAIC.WAV", -1],
-    [6, "メモリからメロダロイドへのプロシード", "MOSAIC.WAV", -1],
-    [7, "Veriest Rabbit-VR-", "MOSAIC.WAV", -1],
-    [8, "超級数 Σ Miracleluminal", "MOSAIC.WAV", -1],
-    [9, "edge", "MOSAIC.WAV", -1],
+    [1, "☆(記号)をつければかしこかろう", "MOSAIC.WAV", 0],
+    [2, "集え!フロンティアーナ", "MOSAIC.WAV", 0],
+    [3, "Grateful Friends", "MOSAIC.WAV", 0],
+    [4, "モノクローム・アンサー", "MOSAIC.WAV", 0],
+    [5, "エキサイティング!!ぺ・た・こ☆", "MOSAIC.WAV", 0],
+    [6, "メモリからメロダロイドへのプロシード", "MOSAIC.WAV", 0],
+    [7, "Veriest Rabbit-VR-", "MOSAIC.WAV", 0],
+    [8, "超級数 Σ Miracleluminal", "MOSAIC.WAV", 0],
+    [9, "edge", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/4cd05f97-5947-4324-a165-da51251f253e"]
 
@@ -1876,13 +1876,13 @@ catalognumber = "MOCD-0081"
 date = "2018-12-29"
 album = "MiracleluminalΣAKIBA-POP!! MOSAIC.WAV 1st.LIVE “We Live AKIBA-POP!!” 復刻盤"
 tracks = [
-    [1, "MagicalHacker☆くるくるリスク〜バクベアちゃんとデュエット", "MOSAIC.WAV", -1],
-    [2, "しゃおしゃおトーク１", "MOSAIC.WAV", -1],
-    [3, "LAST ANGEL (Short Ver.)", "MOSAIC.WAV", -1],
-    [4, "しゃおしゃおトーク２", "MOSAIC.WAV", -1],
-    [5, "みなみのしまのふろーね (ラフ1)", "MOSAIC.WAV", -1],
-    [6, "みなみのしまのふろーね (ラフ2)", "MOSAIC.WAV", -1],
-    [7, "みなみのしまのふろーね (ラフ3)", "MOSAIC.WAV", -1],
+    [1, "MagicalHacker☆くるくるリスク〜バクベアちゃんとデュエット", "MOSAIC.WAV", 0],
+    [2, "しゃおしゃおトーク１", "MOSAIC.WAV", 0],
+    [3, "LAST ANGEL (Short Ver.)", "MOSAIC.WAV", 0],
+    [4, "しゃおしゃおトーク２", "MOSAIC.WAV", 0],
+    [5, "みなみのしまのふろーね (ラフ1)", "MOSAIC.WAV", 0],
+    [6, "みなみのしまのふろーね (ラフ2)", "MOSAIC.WAV", 0],
+    [7, "みなみのしまのふろーね (ラフ3)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/4cd05f97-5947-4324-a165-da51251f253e"]
 
@@ -1891,12 +1891,12 @@ catalognumber = ""
 date = "2019"
 album = "シタギスキマ～スキマジック～"
 tracks = [
-    [1, "オシタギドローイング", "MOSAIC.WAV", -1],
-    [2, "好き【】【】スキマジック", "MOSAIC.WAV", -1],
-    [3, "SS Impact", "MOSAIC.WAV", -1],
-    [4, "オシタギドローイング(Off Vocal)", "MOSAIC.WAV", -1],
-    [5, "好き【】【】スキマジック(Off Vocal)", "MOSAIC.WAV", -1],
-    [6, "SS Impact(Off Vocal)", "MOSAIC.WAV", -1],
+    [1, "オシタギドローイング", "MOSAIC.WAV", 0],
+    [2, "好き【】【】スキマジック", "MOSAIC.WAV", 0],
+    [3, "SS Impact", "MOSAIC.WAV", 0],
+    [4, "オシタギドローイング(Off Vocal)", "MOSAIC.WAV", 0],
+    [5, "好き【】【】スキマジック(Off Vocal)", "MOSAIC.WAV", 0],
+    [6, "SS Impact(Off Vocal)", "MOSAIC.WAV", 0],
 ]
 links = []
 
@@ -1905,9 +1905,9 @@ catalognumber = "GNCL-1329"
 date = "2020-12-23"
 album = "Akiba-Pop И Scripter 〜Mosaic.WAV Game Song Collection〜 Limited First Edition Disc 1"
 tracks = [
-    [1, "N・E・C・OにゃんこPOP!(にゃーーー)", "MOSAIC.WAV", -1],
-    [2, "AKIBA-POP+++(Triple Plus)", "MOSAIC.WAV", -1],
-    [3, "Next Stage! ⇒ “Hyperluminal\" (8bit version)", "MOSAIC.WAV", -1],
+    [1, "N・E・C・OにゃんこPOP!(にゃーーー)", "MOSAIC.WAV", 0],
+    [2, "AKIBA-POP+++(Triple Plus)", "MOSAIC.WAV", 0],
+    [3, "Next Stage! ⇒ “Hyperluminal\" (8bit version)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8625562a-cc9d-40b0-abea-83e68d634b01"]
 
@@ -1916,18 +1916,18 @@ catalognumber = "GNCL-1329"
 date = "2020-12-23"
 album = "Akiba-Pop И Scripter 〜Mosaic.WAV Game Song Collection〜 Disc 1"
 tracks = [
-    [1, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [2, "どっきん☆満漢全席", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [5, "パジャマ de ぱ・ぱ・ぱ", "MOSAIC.WAV", -1],
-    [6, "吸い取っちゃう!究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", -1],
-    [7, "Look at Me Tenderly", "MOSAIC.WAV", -1],
-    [8, "プリン・プリン・ポップト・ショコラ・パ・レスト", "MOSAIC.WAV", -1],
-    [9, "いつもあなたに恋してる", "MOSAIC.WAV", -1],
-    [10, "愛の個人授業", "MOSAIC.WAV", -1],
-    [11, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [12, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
+    [1, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [2, "どっきん☆満漢全席", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [5, "パジャマ de ぱ・ぱ・ぱ", "MOSAIC.WAV", 0],
+    [6, "吸い取っちゃう!究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", 0],
+    [7, "Look at Me Tenderly", "MOSAIC.WAV", 0],
+    [8, "プリン・プリン・ポップト・ショコラ・パ・レスト", "MOSAIC.WAV", 0],
+    [9, "いつもあなたに恋してる", "MOSAIC.WAV", 0],
+    [10, "愛の個人授業", "MOSAIC.WAV", 0],
+    [11, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [12, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8625562a-cc9d-40b0-abea-83e68d634b01"]
 
@@ -1936,19 +1936,19 @@ catalognumber = "GNCL-1329"
 date = "2020-12-23"
 album = "Akiba-Pop И Scripter 〜Mosaic.WAV Game Song Collection〜 Disc 2"
 tracks = [
-    [1, "AKIBAの\"A\"からはじめよう", "MOSAIC.WAV", -1],
-    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [3, "KissしてMe! Me!", "MOSAIC.WAV", -1],
-    [4, "KissしてGO!GO!", "MOSAIC.WAV", -1],
-    [5, "ふたりのKiss", "MOSAIC.WAV", -1],
-    [6, "シリーシンフォニー", "MOSAIC.WAV", -1],
-    [7, "こいはぐ", "MOSAIC.WAV", -1],
-    [8, "プレアデス", "MOSAIC.WAV", -1],
-    [9, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", -1],
-    [10, "2.5次元の足音", "MOSAIC.WAV", -1],
-    [11, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [12, "スマイル0円(MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [13, "さくら色マーマレード", "MOSAIC.WAV", -1],
+    [1, "AKIBAの\"A\"からはじめよう", "MOSAIC.WAV", 0],
+    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [3, "KissしてMe! Me!", "MOSAIC.WAV", 0],
+    [4, "KissしてGO!GO!", "MOSAIC.WAV", 0],
+    [5, "ふたりのKiss", "MOSAIC.WAV", 0],
+    [6, "シリーシンフォニー", "MOSAIC.WAV", 0],
+    [7, "こいはぐ", "MOSAIC.WAV", 0],
+    [8, "プレアデス", "MOSAIC.WAV", 0],
+    [9, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", 0],
+    [10, "2.5次元の足音", "MOSAIC.WAV", 0],
+    [11, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [12, "スマイル0円(MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [13, "さくら色マーマレード", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8625562a-cc9d-40b0-abea-83e68d634b01"]
 
@@ -1957,18 +1957,18 @@ catalognumber = "GNCL-1329"
 date = "2020-12-23"
 album = "Akiba-Pop И Scripter 〜Mosaic.WAV Game Song Collection〜 Disc 3"
 tracks = [
-    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [2, "FLY-ALONE", "MOSAIC.WAV", -1],
-    [3, "きみにおねがい!セキュリティ", "MOSAIC.WAV", -1],
-    [4, "Blue Stripe", "MOSAIC.WAV", -1],
-    [5, "All Last One Chance!", "MOSAIC.WAV", -1],
-    [6, "ハートも笑顔になりますように", "MOSAIC.WAV", -1],
-    [7, "ツギハギ:⇔めいくぴーす!", "MOSAIC.WAV", -1],
-    [8, "No Pants, No Life!", "MOSAIC.WAV", -1],
-    [9, "滞在性△シンギュラリティ", "MOSAIC.WAV", -1],
-    [10, "バーチャルショーケース(新曲)", "MOSAIC.WAV", -1],
-    [11, "乙女と奏でるゲームシンフォニー(新曲)", "MOSAIC.WAV", -1],
-    [12, "AKIBA-POP И GAL GAMEメドレー(新曲)", "MOSAIC.WAV", -1],
+    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [2, "FLY-ALONE", "MOSAIC.WAV", 0],
+    [3, "きみにおねがい!セキュリティ", "MOSAIC.WAV", 0],
+    [4, "Blue Stripe", "MOSAIC.WAV", 0],
+    [5, "All Last One Chance!", "MOSAIC.WAV", 0],
+    [6, "ハートも笑顔になりますように", "MOSAIC.WAV", 0],
+    [7, "ツギハギ:⇔めいくぴーす!", "MOSAIC.WAV", 0],
+    [8, "No Pants, No Life!", "MOSAIC.WAV", 0],
+    [9, "滞在性△シンギュラリティ", "MOSAIC.WAV", 0],
+    [10, "バーチャルショーケース(新曲)", "MOSAIC.WAV", 0],
+    [11, "乙女と奏でるゲームシンフォニー(新曲)", "MOSAIC.WAV", 0],
+    [12, "AKIBA-POP И GAL GAMEメドレー(新曲)", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8625562a-cc9d-40b0-abea-83e68d634b01"]
 
@@ -1977,13 +1977,13 @@ catalognumber = "GNCL-1329"
 date = "2020-12-23"
 album = "Akiba-Pop И Scripter 〜Mosaic.WAV Game Song Collection〜 Limited First Edition Disc 2"
 tracks = [
-    [1, "洗脳搾取虎の巻", "上坂すみれ", -1],
-    [2, "魅惑のツンデロイド", "桃井はるこ", -1],
-    [3, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト", "キズナアイ", -1],
-    [4, "片道きゃっちぼーる", "AZKi", -1],
-    [5, "最強○✕計画", "犬山たまき", -1],
-    [6, "ぱんちゅありー", "尾丸ポルカ", -1],
-    [7, "Love Cheat!", "AZKi & 矢木めーこ", -1],
+    [1, "洗脳搾取虎の巻", "上坂すみれ", 0],
+    [2, "魅惑のツンデロイド", "桃井はるこ", 0],
+    [3, "ガチャガチャきゅ〜と・ふぃぎゅ@メイト", "キズナアイ", 0],
+    [4, "片道きゃっちぼーる", "AZKi", 0],
+    [5, "最強○✕計画", "犬山たまき", 0],
+    [6, "ぱんちゅありー", "尾丸ポルカ", 0],
+    [7, "Love Cheat!", "AZKi & 矢木めーこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8625562a-cc9d-40b0-abea-83e68d634b01"]
 
@@ -1992,18 +1992,18 @@ catalognumber = ""
 date = "2020-12-23"
 album = "Akiba‐Pop Scripter MOSAIC.WAV Game Song Collection Disc 1"
 tracks = [
-    [1, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", -1],
-    [2, "どっきん☆満漢全席", "MOSAIC.WAV", -1],
-    [3, "Love Cheat!", "MOSAIC.WAV", -1],
-    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [5, "パジャマ de ぱ・ぱ・ぱ", "MOSAIC.WAV", -1],
-    [6, "吸い取っちゃう!究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", -1],
-    [7, "Look at me tenderly", "MOSAIC.WAV", -1],
-    [8, "プリン・プリン・ポップト・ショコラ・パ・レスト", "MOSAIC.WAV", -1],
-    [9, "いつもあなたに恋してる", "MOSAIC.WAV", -1],
-    [10, "愛の個人授業", "MOSAIC.WAV", -1],
-    [11, "ガチャガチャきゅ~と・ふぃぎゅ@メイト", "MOSAIC.WAV", -1],
-    [12, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", -1],
+    [1, "ようこそ!ヒミツの雀バラや!?", "MOSAIC.WAV", 0],
+    [2, "どっきん☆満漢全席", "MOSAIC.WAV", 0],
+    [3, "Love Cheat!", "MOSAIC.WAV", 0],
+    [4, "魔法のトリマー「マジカルリンス・マックスハート」(MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [5, "パジャマ de ぱ・ぱ・ぱ", "MOSAIC.WAV", 0],
+    [6, "吸い取っちゃう!究極エナジー⇒未確認飛行UFO", "MOSAIC.WAV", 0],
+    [7, "Look at me tenderly", "MOSAIC.WAV", 0],
+    [8, "プリン・プリン・ポップト・ショコラ・パ・レスト", "MOSAIC.WAV", 0],
+    [9, "いつもあなたに恋してる", "MOSAIC.WAV", 0],
+    [10, "愛の個人授業", "MOSAIC.WAV", 0],
+    [11, "ガチャガチャきゅ~と・ふぃぎゅ@メイト", "MOSAIC.WAV", 0],
+    [12, "ガチャガチャへるつ・ふぃぎゅ@ラジオ", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d3c1a43e-c521-4ede-a448-af316ca6e077"]
 
@@ -2012,19 +2012,19 @@ catalognumber = ""
 date = "2020-12-23"
 album = "Akiba‐Pop Scripter MOSAIC.WAV Game Song Collection Disc 2"
 tracks = [
-    [1, "AKIBAのAからはじめよう", "MOSAIC.WAV", -1],
-    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", -1],
-    [3, "Kissしてme! me!", "MOSAIC.WAV", -1],
-    [4, "KissしてGO!GO!", "MOSAIC.WAV", -1],
-    [5, "ふたりのKiss", "MOSAIC.WAV", -1],
-    [6, "シリーシンフォニー", "MOSAIC.WAV", -1],
-    [7, "こいはぐ", "MOSAIC.WAV", -1],
-    [8, "プレアデス(New Take)", "MOSAIC.WAV", -1],
-    [9, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", -1],
-    [10, "2.5次元の足音", "MOSAIC.WAV", -1],
-    [11, "ぱんちゅありー", "MOSAIC.WAV", -1],
-    [12, "スマイル0円(MOSAIC.WAV Ver.)", "MOSAIC.WAV", -1],
-    [13, "さくら色マーマレード", "MOSAIC.WAV", -1],
+    [1, "AKIBAのAからはじめよう", "MOSAIC.WAV", 0],
+    [2, "おいしい魔法のサシスセソ", "MOSAIC.WAV", 0],
+    [3, "Kissしてme! me!", "MOSAIC.WAV", 0],
+    [4, "KissしてGO!GO!", "MOSAIC.WAV", 0],
+    [5, "ふたりのKiss", "MOSAIC.WAV", 0],
+    [6, "シリーシンフォニー", "MOSAIC.WAV", 0],
+    [7, "こいはぐ", "MOSAIC.WAV", 0],
+    [8, "プレアデス(New Take)", "MOSAIC.WAV", 0],
+    [9, "ちちんぷいぷいチチノタネ", "MOSAIC.WAV", 0],
+    [10, "2.5次元の足音", "MOSAIC.WAV", 0],
+    [11, "ぱんちゅありー", "MOSAIC.WAV", 0],
+    [12, "スマイル0円(MOSAIC.WAV Ver.)", "MOSAIC.WAV", 0],
+    [13, "さくら色マーマレード", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d3c1a43e-c521-4ede-a448-af316ca6e077"]
 
@@ -2033,17 +2033,17 @@ catalognumber = ""
 date = "2020-12-23"
 album = "Akiba‐Pop Scripter MOSAIC.WAV Game Song Collection Disc 3"
 tracks = [
-    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", -1],
-    [2, "FLY‐ALONE", "MOSAIC.WAV", -1],
-    [3, "きみにおねがい!セキュリティ", "MOSAIC.WAV", -1],
-    [4, "Blue Stripe", "MOSAIC.WAV", -1],
-    [5, "All Last One Chance!", "MOSAIC.WAV", -1],
-    [6, "ハートも笑顔になりますように", "MOSAIC.WAV", -1],
-    [7, "ツギハギ:⇔めいくぴーす!", "MOSAIC.WAV", -1],
-    [8, "No Pants, No Life!", "MOSAIC.WAV", -1],
-    [9, "滞在性△シンギュラリティ", "MOSAIC.WAV", -1],
-    [10, "バーチャルショーケース", "MOSAIC.WAV", -1],
-    [11, "乙女と奏でるゲームシンフォニー", "MOSAIC.WAV", -1],
-    [12, "AKIBA‐POP GAL GAME組曲", "MOSAIC.WAV", -1],
+    [1, "たべごろ☆1/2ふるーつ", "MOSAIC.WAV", 0],
+    [2, "FLY‐ALONE", "MOSAIC.WAV", 0],
+    [3, "きみにおねがい!セキュリティ", "MOSAIC.WAV", 0],
+    [4, "Blue Stripe", "MOSAIC.WAV", 0],
+    [5, "All Last One Chance!", "MOSAIC.WAV", 0],
+    [6, "ハートも笑顔になりますように", "MOSAIC.WAV", 0],
+    [7, "ツギハギ:⇔めいくぴーす!", "MOSAIC.WAV", 0],
+    [8, "No Pants, No Life!", "MOSAIC.WAV", 0],
+    [9, "滞在性△シンギュラリティ", "MOSAIC.WAV", 0],
+    [10, "バーチャルショーケース", "MOSAIC.WAV", 0],
+    [11, "乙女と奏でるゲームシンフォニー", "MOSAIC.WAV", 0],
+    [12, "AKIBA‐POP GAL GAME組曲", "MOSAIC.WAV", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d3c1a43e-c521-4ede-a448-af316ca6e077"]

@@ -3,10 +3,10 @@ catalognumber = "SPH-002"
 date = "2008-08-15"
 album = "ヨスガノソラ Maxi-single"
 tracks = [
-    [1, "道の先、空の向こう", "Rita", 0],
-    [2, "夜明けのプリズム", "Rita", 0],
-    [3, "道の先、空の向こう ～off vocal～", "Rita", 0],
-    [4, "夜明けのプリズム ～off vocal～", "Rita", 0],
+    [1, "道の先、空の向こう", "Rita", 1],
+    [2, "夜明けのプリズム", "Rita", 1],
+    [3, "道の先、空の向こう ～off vocal～", "Rita", 1],
+    [4, "夜明けのプリズム ～off vocal～", "Rita", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b0eb810c-cd25-4f72-9318-cd8db88d2289", "https://vgmdb.net/album/10063"]
 
@@ -15,12 +15,12 @@ catalognumber = "SPYS-0812SM"
 date = "2008-12-05"
 album = "ヨスガノソラ ソフマップ特典 ボイスドラマ 「秘密のリゾート遊び」"
 tracks = [
-    [1, "全員集合", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
-    [2, "水着で山登り", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
-    [3, "さて、思いっきり遊ぼう！", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
-    [4, "手のかかる保護者", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
-    [5, "日焼けのあとを確かめて", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
-    [6, "楽しいことはまたこれからも", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 0],
+    [1, "全員集合", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
+    [2, "水着で山登り", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
+    [3, "さて、思いっきり遊ぼう！", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
+    [4, "手のかかる保護者", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
+    [5, "日焼けのあとを確かめて", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
+    [6, "楽しいことはまたこれからも", "春日野穹(CV: 白波遥), 依媛奈緒(CV: 木村あやか), 天女目瑛(CV: 月城真菜), 渚一葉(CV: 五行なずな), 乃木坂初佳(CV: 遠野そよぎ), 倉永梢(CV: 姫川あいり), 中里亮平(CV: 後野祭), 伊福部やひろ(CV: 一色ヒカル)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ae45eaa5-d175-458c-aac5-44ddd93d2fc4", "https://vgmdb.net/album/11242"]
 
@@ -29,12 +29,12 @@ catalognumber = "MESSE-410"
 date = "2008-12-05"
 album = "ヨスガノソラ Original Drama"
 tracks = [
-    [1, "叉依姫神社祭りの始まり", "[dialogue]", 0],
-    [2, "お祭りはブレイコー", "[dialogue]", 0],
-    [3, "神楽前の休憩時間", "[dialogue]", 0],
-    [4, "ミコミコへのお誘い", "[dialogue]", 0],
-    [5, "悪事の代償", "[dialogue]", 0],
-    [6, "お祭りはまだこれから", "[dialogue]", 0],
+    [1, "叉依姫神社祭りの始まり", "[dialogue]", 1],
+    [2, "お祭りはブレイコー", "[dialogue]", 1],
+    [3, "神楽前の休憩時間", "[dialogue]", 1],
+    [4, "ミコミコへのお誘い", "[dialogue]", 1],
+    [5, "悪事の代償", "[dialogue]", 1],
+    [6, "お祭りはまだこれから", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/78c25f05-a67d-417d-9274-422885b456d4", "https://vgmdb.net/album/11241"]
 
@@ -43,9 +43,9 @@ catalognumber = "SPH-001S"
 date = "2008-12-05"
 album = "ヨスガノソラ 初回限定版特典 「ヨスガノソラ IMAGE CD」"
 tracks = [
-    [1, "君、繋ぐ空。", "Rita", 1],
-    [2, "交響詩ヨスガノソラ", "折倉俊則・他", 1],
-    [3, "君、繋ぐ空。(instrumental)", "Rita", 0],
+    [1, "君、繋ぐ空。", "Rita", 2],
+    [2, "交響詩ヨスガノソラ", "折倉俊則・他", 2],
+    [3, "君、繋ぐ空。(instrumental)", "Rita", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d1284d3-95e7-4010-96fd-f59d7d27e88c", "https://vgmdb.net/album/11243"]
 
@@ -54,27 +54,27 @@ catalognumber = "SPH-003"
 date = "2009-02-27"
 album = "ヨスガノソラ サウンドトラック"
 tracks = [
-    [1, "道の先、空の向こう Short Ver.", "Rita", 0],
-    [2, "優しい風が吹くあの場所で", "Manack", 1],
-    [3, "子守歌じゃないのに", "Manack", 0],
-    [4, "スローライフに憧れて", "Manack", 1],
-    [5, "大空と紙飛行機", "Manack", 1],
-    [6, "膝枕で過ごす放課後", "Manack", 1],
-    [7, "素直と不器用と意地っ張り", "Manack", 1],
-    [8, "黄昏の帰り道", "Manack", 1],
-    [9, "頬を伝う冷たい涙", "Manack", 0],
-    [10, "漆黒の思惑", "Manack", 0],
-    [11, "気持ちの狭間", "Manack", 0],
-    [12, "むふ～", "Manack", 0],
-    [13, "よーしやっちまえ！", "Manack", 0],
-    [14, "楽しんだ今が勝ち！", "Manack", 1],
-    [15, "寂しい夜", "Manack", 0],
-    [16, "無くならない大事な心", "Manack", 0],
-    [17, "追い求めてきたもの", "Manack", 1],
-    [18, "星の滴", "Manack", 1],
-    [19, "未来へ踏み出す一歩", "Manack", 1],
-    [20, "開闢新地", "Manack", 0],
-    [21, "夜明けのプリズム Short Ver.", "Rita", 0],
+    [1, "道の先、空の向こう Short Ver.", "Rita", 1],
+    [2, "優しい風が吹くあの場所で", "Manack", 2],
+    [3, "子守歌じゃないのに", "Manack", 1],
+    [4, "スローライフに憧れて", "Manack", 2],
+    [5, "大空と紙飛行機", "Manack", 2],
+    [6, "膝枕で過ごす放課後", "Manack", 2],
+    [7, "素直と不器用と意地っ張り", "Manack", 2],
+    [8, "黄昏の帰り道", "Manack", 2],
+    [9, "頬を伝う冷たい涙", "Manack", 1],
+    [10, "漆黒の思惑", "Manack", 1],
+    [11, "気持ちの狭間", "Manack", 1],
+    [12, "むふ～", "Manack", 1],
+    [13, "よーしやっちまえ！", "Manack", 1],
+    [14, "楽しんだ今が勝ち！", "Manack", 2],
+    [15, "寂しい夜", "Manack", 1],
+    [16, "無くならない大事な心", "Manack", 1],
+    [17, "追い求めてきたもの", "Manack", 2],
+    [18, "星の滴", "Manack", 2],
+    [19, "未来へ踏み出す一歩", "Manack", 2],
+    [20, "開闢新地", "Manack", 1],
+    [21, "夜明けのプリズム Short Ver.", "Rita", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1bd68e6a-3a3a-4611-a018-9e719c84f1ef", "https://vgmdb.net/album/11834"]
 
@@ -83,11 +83,11 @@ catalognumber = "KICM-3215"
 date = "2010-10-27"
 album = "ツナグキズナ / Team.ねこかん[猫]featuring.天乙准花"
 tracks = [
-    [1, "ツナグキズナ", "Team.ねこかん[猫] featuring.天乙准花", 0],
-    [2, "美空に続く光", "Team.ねこかん[猫] featuring.天乙准花", 0],
-    [3, "ツナグキズナ off vocal ver.", "Team.ねこかん[猫] featuring.天乙准花", 0],
-    [4, "美空に続く光 off vocal ver.", "Team.ねこかん[猫] featuring.天乙准花", 0],
-    [5, "エアーマンが倒せない 天乙准花 ver.", "Team.ねこかん[猫] featuring.天乙准花", 0],
+    [1, "ツナグキズナ", "Team.ねこかん[猫] featuring.天乙准花", 1],
+    [2, "美空に続く光", "Team.ねこかん[猫] featuring.天乙准花", 1],
+    [3, "ツナグキズナ off vocal ver.", "Team.ねこかん[猫] featuring.天乙准花", 1],
+    [4, "美空に続く光 off vocal ver.", "Team.ねこかん[猫] featuring.天乙准花", 1],
+    [5, "エアーマンが倒せない 天乙准花 ver.", "Team.ねこかん[猫] featuring.天乙准花", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fbdfa95a-4dc6-4ef9-94c7-c9cc2d0e07b2", "https://vgmdb.net/album/27425"]
 
@@ -96,10 +96,10 @@ catalognumber = "KICM-3214"
 date = "2010-10-27"
 album = "比翼の羽根 / eufonius"
 tracks = [
-    [1, "比翼の羽根", "eufonius", 1],
-    [2, "パトリ", "eufonius", 1],
-    [3, "比翼の羽根 off vocal ver.", "eufonius", 0],
-    [4, "パトリ off vocal ver.", "eufonius", 0],
+    [1, "比翼の羽根", "eufonius", 2],
+    [2, "パトリ", "eufonius", 2],
+    [3, "比翼の羽根 off vocal ver.", "eufonius", 1],
+    [4, "パトリ off vocal ver.", "eufonius", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c4db9dbe-5991-4d4b-a432-9fa0ad863a59", "https://vgmdb.net/album/27424"]
 
@@ -108,12 +108,12 @@ catalognumber = "KICM-93216"
 date = "2010-11-10"
 album = "ピンキージョーンズ / ももいろクローバー"
 tracks = [
-    [1, "ピンキージョーンズ", "ももいろクローバー", 0],
-    [2, "ココ☆ナツ", "ももいろクローバー", 0],
-    [3, "キミとセカイ", "ももいろクローバー", 0],
-    [4, "ピンキージョーンズ (off vocal ver.)", "ももいろクローバー", 0],
-    [5, "ココ☆ナツ (off vocal ver.)", "ももいろクローバー", 0],
-    [6, "キミとセカイ (off vocal ver.)", "ももいろクローバー", 0],
+    [1, "ピンキージョーンズ", "ももいろクローバー", 1],
+    [2, "ココ☆ナツ", "ももいろクローバー", 1],
+    [3, "キミとセカイ", "ももいろクローバー", 1],
+    [4, "ピンキージョーンズ (off vocal ver.)", "ももいろクローバー", 1],
+    [5, "ココ☆ナツ (off vocal ver.)", "ももいろクローバー", 1],
+    [6, "キミとセカイ (off vocal ver.)", "ももいろクローバー", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fc294cff-2bb9-4341-9a5c-6e96fea17fc3", "https://vgmdb.net/album/27419"]
 
@@ -122,25 +122,25 @@ catalognumber = "SSX-10180"
 date = "2010-12-22"
 album = "ヨスガノソラ オリジナルサウンドトラック－Arrange－"
 tracks = [
-    [1, "優しい風が吹くあの場所で -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [2, "スローライフに憧れて -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [3, "膝枕で過ごす放課後 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [4, "大空と紙飛行機 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [5, "素直と不器用と意地っ張り -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [6, "子守歌じゃないのに -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [7, "黄昏の帰り道 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [8, "むふ~ -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [9, "よーしやっちまえ! -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [10, "頬を伝う冷たい涙 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [11, "開闢新地 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [12, "寂しい夜 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [13, "無くならない大事な心 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [14, "楽しんだ今が勝ち! -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [15, "漆黒の思惑 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [16, "気持ちの狭間 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [17, "追い求めてきたもの -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [18, "星の滴 -Anime Version-", "三輪学・Bruno Wen-li", 0],
-    [19, "未来へ踏み出す一歩 -Anime Version-", "三輪学・Bruno Wen-li", 0],
+    [1, "優しい風が吹くあの場所で -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [2, "スローライフに憧れて -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [3, "膝枕で過ごす放課後 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [4, "大空と紙飛行機 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [5, "素直と不器用と意地っ張り -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [6, "子守歌じゃないのに -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [7, "黄昏の帰り道 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [8, "むふ~ -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [9, "よーしやっちまえ! -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [10, "頬を伝う冷たい涙 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [11, "開闢新地 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [12, "寂しい夜 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [13, "無くならない大事な心 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [14, "楽しんだ今が勝ち! -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [15, "漆黒の思惑 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [16, "気持ちの狭間 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [17, "追い求めてきたもの -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [18, "星の滴 -Anime Version-", "三輪学・Bruno Wen-li", 1],
+    [19, "未来へ踏み出す一歩 -Anime Version-", "三輪学・Bruno Wen-li", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b07d321e-bec3-42da-90ae-f72759241b3f", "https://vgmdb.net/album/31045"]
 
@@ -149,8 +149,8 @@ catalognumber = "SSX-10181"
 date = "2011-01-26"
 album = "ヨスガノソラ 添い寝CD (渚一葉／天女目瑛)"
 tracks = [
-    [1, "渚一葉", "渚一葉 (小野涼子)", -1],
-    [2, "天女目瑛", "天女目瑛 (阪田佳代)", -1],
+    [1, "渚一葉", "渚一葉 (小野涼子)", 0],
+    [2, "天女目瑛", "天女目瑛 (阪田佳代)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/a9b34da9-08cf-49ca-abb2-e5fc9bf30774", "https://vgmdb.net/album/129251"]
 
@@ -159,30 +159,30 @@ catalognumber = "SSX-10182"
 date = "2011-02-23"
 album = "ヨスガノソラ オリジナルサウンドトラック－New－"
 tracks = [
-    [1, "ヨスガノソラ メインテーマ —遠い空へ—", "三輪学 / Bruno Wen-li", 0],
-    [2, "ヨスガノソラ メインテーマ —祈り—", "三輪学 / Bruno Wen-li", 0],
-    [3, "笑顔の行方", "三輪学 / Bruno Wen-li", 1],
-    [4, "二人の距離", "三輪学 / Bruno Wen-li", 0],
-    [5, "ヨスガノソラ メインテーマ —記憶—", "三輪学 / Bruno Wen-li", 0],
-    [6, "Suspended", "三輪学 / Bruno Wen-li", 0],
-    [7, "ヨスガノソラ メインテーマ —願い—", "三輪学 / Bruno Wen-li", 0],
-    [8, "追憶ハート", "三輪学 / Bruno Wen-li", 0],
-    [9, "その日の事", "三輪学 / Bruno Wen-li", 0],
-    [10, "Before It's Too Late", "三輪学 / Bruno Wen-li", 0],
-    [11, "もう10日目か", "三輪学 / Bruno Wen-li", 0],
-    [12, "折れない心", "三輪学 / Bruno Wen-li", 0],
-    [13, "リセットボタン", "三輪学 / Bruno Wen-li", 0],
-    [14, "ハルカノココロ", "三輪学 / Bruno Wen-li", 1],
-    [15, "Rain like tears", "三輪学 / Bruno Wen-li", 0],
-    [16, "戸惑いの中", "三輪学 / Bruno Wen-li", 0],
-    [17, "Old Memory", "三輪学 / Bruno Wen-li", 1],
-    [18, "君の笑う声", "三輪学 / Bruno Wen-li", 1],
-    [19, "So Sweet Sorrow", "三輪学 / Bruno Wen-li", 0],
-    [20, "Deep Inside Region", "三輪学 / Bruno Wen-li", 0],
-    [21, "言い出せなくて", "三輪学 / Bruno Wen-li", 1],
-    [22, "June Song", "三輪学 / Bruno Wen-li", 0],
-    [23, "喪失の予感", "三輪学 / Bruno Wen-li", 0],
-    [24, "暗闇の向こう", "三輪学 / Bruno Wen-li", 0],
+    [1, "ヨスガノソラ メインテーマ —遠い空へ—", "三輪学 / Bruno Wen-li", 1],
+    [2, "ヨスガノソラ メインテーマ —祈り—", "三輪学 / Bruno Wen-li", 1],
+    [3, "笑顔の行方", "三輪学 / Bruno Wen-li", 2],
+    [4, "二人の距離", "三輪学 / Bruno Wen-li", 1],
+    [5, "ヨスガノソラ メインテーマ —記憶—", "三輪学 / Bruno Wen-li", 1],
+    [6, "Suspended", "三輪学 / Bruno Wen-li", 1],
+    [7, "ヨスガノソラ メインテーマ —願い—", "三輪学 / Bruno Wen-li", 1],
+    [8, "追憶ハート", "三輪学 / Bruno Wen-li", 1],
+    [9, "その日の事", "三輪学 / Bruno Wen-li", 1],
+    [10, "Before It's Too Late", "三輪学 / Bruno Wen-li", 1],
+    [11, "もう10日目か", "三輪学 / Bruno Wen-li", 1],
+    [12, "折れない心", "三輪学 / Bruno Wen-li", 1],
+    [13, "リセットボタン", "三輪学 / Bruno Wen-li", 1],
+    [14, "ハルカノココロ", "三輪学 / Bruno Wen-li", 2],
+    [15, "Rain like tears", "三輪学 / Bruno Wen-li", 1],
+    [16, "戸惑いの中", "三輪学 / Bruno Wen-li", 1],
+    [17, "Old Memory", "三輪学 / Bruno Wen-li", 2],
+    [18, "君の笑う声", "三輪学 / Bruno Wen-li", 2],
+    [19, "So Sweet Sorrow", "三輪学 / Bruno Wen-li", 1],
+    [20, "Deep Inside Region", "三輪学 / Bruno Wen-li", 1],
+    [21, "言い出せなくて", "三輪学 / Bruno Wen-li", 2],
+    [22, "June Song", "三輪学 / Bruno Wen-li", 1],
+    [23, "喪失の予感", "三輪学 / Bruno Wen-li", 1],
+    [24, "暗闇の向こう", "三輪学 / Bruno Wen-li", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7a6af8de-303a-40eb-a94d-a96cff3b66f2", "https://vgmdb.net/album/31046"]
 
@@ -191,8 +191,8 @@ catalognumber = "SSX-10182"
 date = "2011-03-23"
 album = "ヨスガノソラ 添い寝CD (依姫奈緒／春日野 穹)"
 tracks = [
-    [1, "依媛奈緒", "依媛奈緒 (いのくちゆか)", -1],
-    [2, "春日野穹", "春日野穹 (田口宏子)", -1],
+    [1, "依媛奈緒", "依媛奈緒 (いのくちゆか)", 0],
+    [2, "春日野穹", "春日野穹 (田口宏子)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/97c360ca-e182-4645-816d-8edadc4c98e6", "https://vgmdb.net/album/129252"]
 
@@ -201,25 +201,25 @@ catalognumber = "QWCE-00187"
 date = "2011-04-06"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 12"
 tracks = [
-    [1, "THEME FOR PANTY & STOCKING", "Hommarju feat. Yusuke", -1],
-    [2, "侵略ノススメ☆", "Booing Day feat. mi-mi", -1],
-    [3, "正解はひとつ!じゃない!!", "Hommarju feat. Latte + R.Cena + 405", -1],
-    [4, "ピンキージョーンズ", "Dizzi Mystica feat. R.Cena + 405 + mi-mi", 0],
-    [5, "OVER SKY", "Booing Day feat. Latte", -1],
-    [6, "MORE-MORE LOVERS!!", "Booing Day feat. mi-mi", -1],
-    [7, "MOON SIGNAL", "Icon feat. yumemi + 405", -1],
-    [8, "本能のDOUBT", "Booing Day feat. mamiko", -1],
-    [9, "HELP!!", "Dizzi Mystica feat. yumemi + si-na", -1],
-    [10, "LAST VISION FOR LAST", "Dizzi Mystica feat. yumemi", -1],
-    [11, "FLY AWAY", "Hommarju feat. MFMW", -1],
-    [12, "COSMOS VS ALIEN", "plasma feat. 405", -1],
-    [13, "DOWN TOWN", "MK feat. YURiE", -1],
-    [14, "絆-KIZUNAIRO-色", "Dizzi Mystica feat. Nahoko", -1],
-    [15, "カレンデュラレクイエム", "MK feat. R.Cena", -1],
-    [16, "比翼の羽根", "Dizzi Mystica feat. R.Cena", 0],
-    [17, "GOD ONLY KNOWS第三幕", "Icon feat. YURiE", -1],
-    [18, "ハートの確率", "Hommarju feat. si-na + Latte", -1],
-    [19, "メタメリズム", "Icon feat. R.Cena", -1],
+    [1, "THEME FOR PANTY & STOCKING", "Hommarju feat. Yusuke", 0],
+    [2, "侵略ノススメ☆", "Booing Day feat. mi-mi", 0],
+    [3, "正解はひとつ!じゃない!!", "Hommarju feat. Latte + R.Cena + 405", 0],
+    [4, "ピンキージョーンズ", "Dizzi Mystica feat. R.Cena + 405 + mi-mi", 1],
+    [5, "OVER SKY", "Booing Day feat. Latte", 0],
+    [6, "MORE-MORE LOVERS!!", "Booing Day feat. mi-mi", 0],
+    [7, "MOON SIGNAL", "Icon feat. yumemi + 405", 0],
+    [8, "本能のDOUBT", "Booing Day feat. mamiko", 0],
+    [9, "HELP!!", "Dizzi Mystica feat. yumemi + si-na", 0],
+    [10, "LAST VISION FOR LAST", "Dizzi Mystica feat. yumemi", 0],
+    [11, "FLY AWAY", "Hommarju feat. MFMW", 0],
+    [12, "COSMOS VS ALIEN", "plasma feat. 405", 0],
+    [13, "DOWN TOWN", "MK feat. YURiE", 0],
+    [14, "絆-KIZUNAIRO-色", "Dizzi Mystica feat. Nahoko", 0],
+    [15, "カレンデュラレクイエム", "MK feat. R.Cena", 0],
+    [16, "比翼の羽根", "Dizzi Mystica feat. R.Cena", 1],
+    [17, "GOD ONLY KNOWS第三幕", "Icon feat. YURiE", 0],
+    [18, "ハートの確率", "Hommarju feat. si-na + Latte", 0],
+    [19, "メタメリズム", "Icon feat. R.Cena", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/924b924e-edbf-462b-be29-12cca2f40551", "https://vgmdb.net/album/29351"]
 
@@ -228,19 +228,19 @@ catalognumber = "LASA-5108"
 date = "2011-11-23"
 album = "フォノン / eufonius"
 tracks = [
-    [1, "phonon", "eufonius", -1],
-    [2, "サイクレイション", "eufonius", -1],
-    [3, "比翼の羽根", "eufonius", 0],
-    [4, "マナ", "eufonius", -1],
-    [5, "キラリクルリ", "eufonius", -1],
-    [6, "ゆきなみき", "eufonius", -1],
-    [7, "fugace", "eufonius", -1],
-    [8, "分解能", "eufonius", -1],
-    [9, "涙の記憶", "eufonius", -1],
-    [10, "きらきら", "eufonius", -1],
-    [11, "MySmile", "eufonius", -1],
-    [12, "光のフィルメント", "eufonius", -1],
-    [13, "遥かな日々", "eufonius", -1],
+    [1, "phonon", "eufonius", 0],
+    [2, "サイクレイション", "eufonius", 0],
+    [3, "比翼の羽根", "eufonius", 1],
+    [4, "マナ", "eufonius", 0],
+    [5, "キラリクルリ", "eufonius", 0],
+    [6, "ゆきなみき", "eufonius", 0],
+    [7, "fugace", "eufonius", 0],
+    [8, "分解能", "eufonius", 0],
+    [9, "涙の記憶", "eufonius", 0],
+    [10, "きらきら", "eufonius", 0],
+    [11, "MySmile", "eufonius", 0],
+    [12, "光のフィルメント", "eufonius", 0],
+    [13, "遥かな日々", "eufonius", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d9ee6e12-53b8-4bcb-aefe-1f252147f74d", "https://vgmdb.net/album/30205"]
 
@@ -249,18 +249,18 @@ catalognumber = "LACA-9378"
 date = "2015-03-11"
 album = "καλυτερυζ / eufonius Disc 1 [LACA-9378]"
 tracks = [
-    [1, "Apocrypha", "eufonius", -1],
-    [2, "恋するココロ", "eufonius", -1],
-    [3, "ヒカリ輝くセカイ", "eufonius", -1],
-    [4, "パラダイム", "eufonius", -1],
-    [5, "ぼくらの時間", "eufonius", -1],
-    [6, "レテ", "eufonius", -1],
-    [7, "きらきら", "eufonius", -1],
-    [8, "桜色", "eufonius", -1],
-    [9, "プリズム・サイン", "eufonius", -1],
-    [10, "遠い夏空", "eufonius", -1],
-    [11, "サイクレイション", "eufonius", -1],
-    [12, "光のフィルメント", "eufonius", -1],
+    [1, "Apocrypha", "eufonius", 0],
+    [2, "恋するココロ", "eufonius", 0],
+    [3, "ヒカリ輝くセカイ", "eufonius", 0],
+    [4, "パラダイム", "eufonius", 0],
+    [5, "ぼくらの時間", "eufonius", 0],
+    [6, "レテ", "eufonius", 0],
+    [7, "きらきら", "eufonius", 0],
+    [8, "桜色", "eufonius", 0],
+    [9, "プリズム・サイン", "eufonius", 0],
+    [10, "遠い夏空", "eufonius", 0],
+    [11, "サイクレイション", "eufonius", 0],
+    [12, "光のフィルメント", "eufonius", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/77d2f1ab-cbc8-4836-9829-6127993e1fe5", "https://vgmdb.net/album/57395"]
 
@@ -269,18 +269,18 @@ catalognumber = "LACA-9379"
 date = "2015-03-11"
 album = "καλυτερυζ / eufonius Disc 2 [LACA-9379]"
 tracks = [
-    [1, "はばたく未来", "eufonius", -1],
-    [2, "この声が届いたら", "eufonius", -1],
-    [3, "phosphorus", "eufonius", -1],
-    [4, "gleaming sky", "eufonius", -1],
-    [5, "ホログラフ", "eufonius", -1],
-    [6, "比翼の羽根", "eufonius", 0],
-    [7, "ナルキッソス~eon~", "eufonius", -1],
-    [8, "melody melody", "eufonius", -1],
-    [9, "アレセイア", "eufonius", -1],
-    [10, "Idea", "eufonius", -1],
-    [11, "メグメル ~cuckool mix 2007~", "eufonius", -1],
-    [12, "リフレクティア", "eufonius", -1],
+    [1, "はばたく未来", "eufonius", 0],
+    [2, "この声が届いたら", "eufonius", 0],
+    [3, "phosphorus", "eufonius", 0],
+    [4, "gleaming sky", "eufonius", 0],
+    [5, "ホログラフ", "eufonius", 0],
+    [6, "比翼の羽根", "eufonius", 1],
+    [7, "ナルキッソス~eon~", "eufonius", 0],
+    [8, "melody melody", "eufonius", 0],
+    [9, "アレセイア", "eufonius", 0],
+    [10, "Idea", "eufonius", 0],
+    [11, "メグメル ~cuckool mix 2007~", "eufonius", 0],
+    [12, "リフレクティア", "eufonius", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/77d2f1ab-cbc8-4836-9829-6127993e1fe5", "https://vgmdb.net/album/57395"]
 
@@ -289,27 +289,27 @@ catalognumber = "GMAS-6622"
 date = "2016-06-22"
 album = "GAMEのアニソン!!The BEST TUNES-1"
 tracks = [
-    [1, "サクラサクミライコイユメ", "", -1],
-    [2, "海色", "", -1],
-    [3, "純情スペクトラ", "", -1],
-    [4, "Breakin’through", "", -1],
-    [5, "SWORD SUMMIT", "", -1],
-    [6, "EXiSTENCE", "", -1],
-    [7, "絶望性:ヒーロー治療薬", "", -1],
-    [8, "Dimension tripper!!!!", "", -1],
-    [9, "ideal white", "", -1],
-    [10, "Hacking to the Gate", "", -1],
-    [11, "虹色センチメンタル", "", -1],
-    [12, "プラスチックスマイル", "", -1],
-    [13, "恋するレンズ", "", -1],
-    [14, "Take your way", "", -1],
-    [15, "Check my soul", "", -1],
-    [16, "比翼の羽根", "", 0],
-    [17, "楽園の翼", "", -1],
-    [18, "Star!!", "", -1],
-    [19, "明日へのキズナ", "", -1],
-    [20, "Break your world", "", -1],
-    [21, "Oath sign", "", -1],
+    [1, "サクラサクミライコイユメ", "", 0],
+    [2, "海色", "", 0],
+    [3, "純情スペクトラ", "", 0],
+    [4, "Breakin’through", "", 0],
+    [5, "SWORD SUMMIT", "", 0],
+    [6, "EXiSTENCE", "", 0],
+    [7, "絶望性:ヒーロー治療薬", "", 0],
+    [8, "Dimension tripper!!!!", "", 0],
+    [9, "ideal white", "", 0],
+    [10, "Hacking to the Gate", "", 0],
+    [11, "虹色センチメンタル", "", 0],
+    [12, "プラスチックスマイル", "", 0],
+    [13, "恋するレンズ", "", 0],
+    [14, "Take your way", "", 0],
+    [15, "Check my soul", "", 0],
+    [16, "比翼の羽根", "", 1],
+    [17, "楽園の翼", "", 0],
+    [18, "Star!!", "", 0],
+    [19, "明日へのキズナ", "", 0],
+    [20, "Break your world", "", 0],
+    [21, "Oath sign", "", 0],
 ]
 links = ["https://vgmdb.net/album/150656"]
 
@@ -318,10 +318,10 @@ catalognumber = "SSX-10423"
 date = "2016-09-21"
 album = "ヨスガノソラ シチュエーションドラマＣＤ「イチャイチャノソラ」"
 tracks = [
-    [1, "渚 一葉編「ネオキノカズハ」", "", -1],
-    [2, "天女目 瑛編「アキラノムネモミ」", "", -1],
-    [3, "依姫奈緒編「ナオノカンビョウ」", "", -1],
-    [4, "春日野 穹編「オフロノソラ」", "", -1],
+    [1, "渚 一葉編「ネオキノカズハ」", "", 0],
+    [2, "天女目 瑛編「アキラノムネモミ」", "", 0],
+    [3, "依姫奈緒編「ナオノカンビョウ」", "", 0],
+    [4, "春日野 穹編「オフロノソラ」", "", 0],
 ]
 links = ["https://vgmdb.net/album/129253"]
 
@@ -330,51 +330,51 @@ catalognumber = "NOPA-1271"
 date = "2016-09-21"
 album = "ヨスガノソラ オリジナルサウンドトラック/オープニング主題歌&番組挿入歌アルバム"
 tracks = [
-    [1, "比翼の羽根", "eufonius", 0],
-    [2, "優しい風が吹くあの場所で－Anime Version－（M3）", "Manack", 0],
-    [3, "スローライフに憧れて－Anime Version－（M5）", "Manack", 0],
-    [4, "膝枕で過ごす放課後－Anime Version－（M7）", "Manack", 0],
-    [5, "大空と紙飛行機－Anime Version－（M6）", "Manack", 0],
-    [6, "素直と不器用と意地っ張り－Anime Version－（M8）", "Manack", 0],
-    [7, "子守歌じゃないのに－Anime Version－（M4）", "Manack", 0],
-    [8, "黄昏の帰り道－Anime Version－（M9）", "Manack", 0],
-    [9, "むふ～－Anime Version－（M13）", "Manack", 0],
-    [10, "よーしやっちまえ！－Anime Version－（M14）", "Manack", 0],
-    [11, "頬を伝う冷たい涙－Anime Version－（M10）", "Manack", 0],
-    [12, "開闢新地－Anime Version－（M21）", "Manack", 0],
-    [13, "寂しい夜－Anime Version－（M16）", "Manack", 0],
-    [14, "無くならない大事な心－Anime Version－（M17）", "Manack", 0],
-    [15, "楽しんだ今が勝ち！－Anime Version－（M15）", "Manack", 0],
-    [16, "漆黒の思惑－Anime Version－（M11）", "Manack", 0],
-    [17, "気持ちの狭間－Anime Version－（M12）", "Manack", 0],
-    [18, "追い求めてきたもの－Anime Version－（M18）", "Manack", 0],
-    [19, "星の滴－Anime Version－（M19）", "Manack", 0],
-    [20, "未来へ踏み出す一歩－Anime Version－（M20）", "Manack", 0],
-    [21, "ヨスガノソラ メインテーマ－遠い空へ－（M1）", "Bruno Wen-li", 0],
-    [22, "ヨスガノソラ メインテーマ－祈り－（M2）", "Bruno Wen-li", 0],
-    [23, "笑顔の行方（M3）", "Bruno Wen-li", 0],
-    [24, "二人の距離（M4）", "Bruno Wen-li", 0],
-    [25, "ヨスガノソラ メインテーマ－記憶－（M5）", "Bruno Wen-li", 0],
-    [26, "Suspended（M6）", "Bruno Wen-li", -1],
-    [27, "ヨスガノソラ メインテーマ－願い－（M7）", "Bruno Wen-li", 0],
-    [28, "追憶のハート（M9－A）", "Bruno Wen-li", -1],
-    [29, "その日の事（M9－B）", "Bruno Wen-li", 0],
-    [30, "Before it's too late（M9－C）", "Bruno Wen-li", 0],
-    [31, "もう10日目か（M10－A）", "Bruno Wen-li", 0],
-    [32, "折れない心（M10－B）", "Bruno Wen-li", 0],
-    [33, "リセットボタン（M10－C）", "Bruno Wen-li", -1],
-    [34, "ハルカノココロ（M11）", "Bruno Wen-li", 0],
-    [35, "Rain like tears（M12）", "Bruno Wen-li", 0],
-    [36, "戸惑いの中（M13）", "Bruno Wen-li", 0],
-    [37, "Old Memory（M14）", "Bruno Wen-li", 0],
-    [38, "君の笑う声（M15）", "Bruno Wen-li", 0],
-    [39, "So Sweet Sorrow（M16）", "Bruno Wen-li", 0],
-    [40, "Deep Inside Region（M17）", "Bruno Wen-li", 0],
-    [41, "言い出せなくて（M18）", "Bruno Wen-li", 0],
-    [42, "June Song（M19）", "Bruno Wen-li", 0],
-    [43, "喪失の予感（M20）", "Bruno Wen-li", 0],
-    [44, "暗闇の向こう（M21）", "Bruno Wen-li", 0],
-    [45, "ツナグキズナ", "Team.ねこかん[猫]", 0],
+    [1, "比翼の羽根", "eufonius", 1],
+    [2, "優しい風が吹くあの場所で－Anime Version－（M3）", "Manack", 1],
+    [3, "スローライフに憧れて－Anime Version－（M5）", "Manack", 1],
+    [4, "膝枕で過ごす放課後－Anime Version－（M7）", "Manack", 1],
+    [5, "大空と紙飛行機－Anime Version－（M6）", "Manack", 1],
+    [6, "素直と不器用と意地っ張り－Anime Version－（M8）", "Manack", 1],
+    [7, "子守歌じゃないのに－Anime Version－（M4）", "Manack", 1],
+    [8, "黄昏の帰り道－Anime Version－（M9）", "Manack", 1],
+    [9, "むふ～－Anime Version－（M13）", "Manack", 1],
+    [10, "よーしやっちまえ！－Anime Version－（M14）", "Manack", 1],
+    [11, "頬を伝う冷たい涙－Anime Version－（M10）", "Manack", 1],
+    [12, "開闢新地－Anime Version－（M21）", "Manack", 1],
+    [13, "寂しい夜－Anime Version－（M16）", "Manack", 1],
+    [14, "無くならない大事な心－Anime Version－（M17）", "Manack", 1],
+    [15, "楽しんだ今が勝ち！－Anime Version－（M15）", "Manack", 1],
+    [16, "漆黒の思惑－Anime Version－（M11）", "Manack", 1],
+    [17, "気持ちの狭間－Anime Version－（M12）", "Manack", 1],
+    [18, "追い求めてきたもの－Anime Version－（M18）", "Manack", 1],
+    [19, "星の滴－Anime Version－（M19）", "Manack", 1],
+    [20, "未来へ踏み出す一歩－Anime Version－（M20）", "Manack", 1],
+    [21, "ヨスガノソラ メインテーマ－遠い空へ－（M1）", "Bruno Wen-li", 1],
+    [22, "ヨスガノソラ メインテーマ－祈り－（M2）", "Bruno Wen-li", 1],
+    [23, "笑顔の行方（M3）", "Bruno Wen-li", 1],
+    [24, "二人の距離（M4）", "Bruno Wen-li", 1],
+    [25, "ヨスガノソラ メインテーマ－記憶－（M5）", "Bruno Wen-li", 1],
+    [26, "Suspended（M6）", "Bruno Wen-li", 0],
+    [27, "ヨスガノソラ メインテーマ－願い－（M7）", "Bruno Wen-li", 1],
+    [28, "追憶のハート（M9－A）", "Bruno Wen-li", 0],
+    [29, "その日の事（M9－B）", "Bruno Wen-li", 1],
+    [30, "Before it's too late（M9－C）", "Bruno Wen-li", 1],
+    [31, "もう10日目か（M10－A）", "Bruno Wen-li", 1],
+    [32, "折れない心（M10－B）", "Bruno Wen-li", 1],
+    [33, "リセットボタン（M10－C）", "Bruno Wen-li", 0],
+    [34, "ハルカノココロ（M11）", "Bruno Wen-li", 1],
+    [35, "Rain like tears（M12）", "Bruno Wen-li", 1],
+    [36, "戸惑いの中（M13）", "Bruno Wen-li", 1],
+    [37, "Old Memory（M14）", "Bruno Wen-li", 1],
+    [38, "君の笑う声（M15）", "Bruno Wen-li", 1],
+    [39, "So Sweet Sorrow（M16）", "Bruno Wen-li", 1],
+    [40, "Deep Inside Region（M17）", "Bruno Wen-li", 1],
+    [41, "言い出せなくて（M18）", "Bruno Wen-li", 1],
+    [42, "June Song（M19）", "Bruno Wen-li", 1],
+    [43, "喪失の予感（M20）", "Bruno Wen-li", 1],
+    [44, "暗闇の向こう（M21）", "Bruno Wen-li", 1],
+    [45, "ツナグキズナ", "Team.ねこかん[猫]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4ae376a1-9155-4f34-a445-ed3280f82429", "https://vgmdb.net/album/61710"]
 
@@ -383,15 +383,15 @@ catalognumber = "COCC-17977"
 date = "2022-08-03"
 album = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 07 ストリート・ランウェイ"
 tracks = [
-    [1, "ストリート・ランウェイ (M@STER VERSION)", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", -1],
-    [2, "サラバ、愛しき悲しみたちよ", "島村卯月(CV:大橋彩香)、渋谷凛(CV:福原綾香)、本田未央(CV:原紗友里)", -1],
-    [3, "ピンキージョーンズ", "北条加蓮(CV:渕上舞)、高森藍子(CV:金子有希)、五十嵐響子(CV:種﨑敦美)", 0],
-    [4, "ストリート・ランウェイ (M@STER VERSION) オリジナル・カラオケ", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", -1],
-    [5, "ストリート・ランウェイ (M@STER VERSION) 砂塚あきらソロ・リミックス", "砂塚あきら(CV:富田美憂)", -1],
-    [6, "ストリート・ランウェイ (M@STER VERSION) 早坂美玲ソロ・リミックス", "早坂美玲(CV:朝井彩加)", -1],
-    [7, "ストリート・ランウェイ (M@STER VERSION) 堀裕子ソロ・リミックス", "堀裕子(CV:鈴木絵理)", -1],
-    [8, "ストリート・ランウェイ (M@STER VERSION) 多田李衣菜ソロ・リミックス", "多田李衣菜(CV:青木瑠璃子)", -1],
-    [9, "ストリート・ランウェイ (M@STER VERSION) 二宮飛鳥ソロ・リミックス", "二宮飛鳥(CV:青木志貴)", -1],
-    [10, "ストリート・ランウェイ (Game Version)", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", -1],
+    [1, "ストリート・ランウェイ (M@STER VERSION)", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", 0],
+    [2, "サラバ、愛しき悲しみたちよ", "島村卯月(CV:大橋彩香)、渋谷凛(CV:福原綾香)、本田未央(CV:原紗友里)", 0],
+    [3, "ピンキージョーンズ", "北条加蓮(CV:渕上舞)、高森藍子(CV:金子有希)、五十嵐響子(CV:種﨑敦美)", 1],
+    [4, "ストリート・ランウェイ (M@STER VERSION) オリジナル・カラオケ", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", 0],
+    [5, "ストリート・ランウェイ (M@STER VERSION) 砂塚あきらソロ・リミックス", "砂塚あきら(CV:富田美憂)", 0],
+    [6, "ストリート・ランウェイ (M@STER VERSION) 早坂美玲ソロ・リミックス", "早坂美玲(CV:朝井彩加)", 0],
+    [7, "ストリート・ランウェイ (M@STER VERSION) 堀裕子ソロ・リミックス", "堀裕子(CV:鈴木絵理)", 0],
+    [8, "ストリート・ランウェイ (M@STER VERSION) 多田李衣菜ソロ・リミックス", "多田李衣菜(CV:青木瑠璃子)", 0],
+    [9, "ストリート・ランウェイ (M@STER VERSION) 二宮飛鳥ソロ・リミックス", "二宮飛鳥(CV:青木志貴)", 0],
+    [10, "ストリート・ランウェイ (Game Version)", "砂塚あきら(CV:富田美憂)、早坂美玲(CV:朝井彩加)、堀裕子(CV:鈴木絵理)、多田李衣菜(CV:青木瑠璃子)、二宮飛鳥(CV:青木志貴)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9ce36515-fd97-4b22-84fe-bcb8b404e37d", "https://vgmdb.net/album/121435"]

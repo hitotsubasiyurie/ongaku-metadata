@@ -3,12 +3,12 @@ catalognumber = "ANZX-9872"
 date = "2011-05-25"
 album = "A-CHANNEL THE ANIMATION 1 BONUS DISC Ending theme & Inserted Songs"
 tracks = [
-    [1, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [2, "はるかぜの化学", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [3, "Start", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [4, "ハミングガール (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [5, "はるかぜの化学 (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [6, "Start (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [1, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [2, "はるかぜの化学", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [3, "Start", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [4, "ハミングガール (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [5, "はるかぜの化学 (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [6, "Start (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/25bbf53b-2bd8-4968-b5e5-5a7ac4293ff2", "https://vgmdb.net/album/25783"]
 
@@ -17,10 +17,10 @@ catalognumber = "SVWC-7767"
 date = "2011-05-25"
 album = "Morning Arch / 河野マリナ"
 tracks = [
-    [1, "Morning Arch", "河野マリナ", 0],
-    [2, "I meet You◎", "河野マリナ", -1],
-    [3, "FOCUS! FOCUS!", "河野マリナ", -1],
-    [4, "Morning Arch (Instrumental)", "河野マリナ", 0],
+    [1, "Morning Arch", "河野マリナ", 1],
+    [2, "I meet You◎", "河野マリナ", 0],
+    [3, "FOCUS! FOCUS!", "河野マリナ", 0],
+    [4, "Morning Arch (Instrumental)", "河野マリナ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c78fe3bd-a476-4896-838a-cb6b937a6203", "https://vgmdb.net/album/25781"]
 
@@ -29,10 +29,10 @@ catalognumber = "SVWC-7765"
 date = "2011-05-25"
 album = "Morning Arch / 河野マリナ Vocal"
 tracks = [
-    [1, "Morning Arch", "河野マリナ", 0],
-    [2, "I meet You◎", "河野マリナ", -1],
-    [3, "FOCUS! FOCUS!", "河野マリナ", -1],
-    [4, "Morning Arch (Instrumental)", "河野マリナ", 0],
+    [1, "Morning Arch", "河野マリナ", 1],
+    [2, "I meet You◎", "河野マリナ", 0],
+    [3, "FOCUS! FOCUS!", "河野マリナ", 0],
+    [4, "Morning Arch (Instrumental)", "河野マリナ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c78fe3bd-a476-4896-838a-cb6b937a6203", "https://vgmdb.net/album/25782"]
 
@@ -41,7 +41,7 @@ catalognumber = "SVWC-7766"
 date = "2011-05-25"
 album = "Morning Arch / 河野マリナ Video"
 tracks = [
-    [1, "Morning Arch (Video Clip)", "河野マリナ", 0],
+    [1, "Morning Arch (Video Clip)", "河野マリナ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c78fe3bd-a476-4896-838a-cb6b937a6203", "https://vgmdb.net/album/25782"]
 
@@ -50,10 +50,10 @@ catalognumber = "ANZX-9874"
 date = "2011-06-20"
 album = "A-CHANNEL THE ANIMATION 2 BONUS DISC Inserted Songs"
 tracks = [
-    [1, "ぎゅっとして欲しいんだ", "トオル(悠木碧)", 1],
-    [2, "summer dream syndrome", "るん(福原香織)", 1],
-    [3, "ぎゅっとして欲しいんだ (Instrumental)", "hanawaya", 1],
-    [4, "summer dream syndrome (Instrumental)", "やしきん", 1],
+    [1, "ぎゅっとして欲しいんだ", "トオル(悠木碧)", 2],
+    [2, "summer dream syndrome", "るん(福原香織)", 2],
+    [3, "ぎゅっとして欲しいんだ (Instrumental)", "hanawaya", 2],
+    [4, "summer dream syndrome (Instrumental)", "やしきん", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/8c97bbc5-0098-4351-acb2-a5d405fc6149", "https://vgmdb.net/album/26072"]
 
@@ -62,48 +62,48 @@ catalognumber = "SVWC-7770"
 date = "2011-06-22"
 album = "Aチャンネル おりじなるさうんどとらっく"
 tracks = [
-    [1, "Morning Arch TV ver.", "河野マリナ", 0],
-    [2, "awake", "MONACA", 0],
-    [3, "alongside", "MONACA", 0],
-    [4, "academic", "MONACA", 0],
-    [5, "apple", "MONACA", 0],
-    [6, "artistic", "MONACA", 0],
-    [7, "awful", "MONACA", 0],
-    [8, "anxious", "MONACA", 0],
-    [9, "april fool", "MONACA", 0],
-    [10, "aggressive", "MONACA", 0],
-    [11, "amazing", "MONACA", 0],
-    [12, "air", "MONACA", 0],
-    [13, "approach", "MONACA", 0],
-    [14, "attack", "MONACA", 0],
-    [15, "ace", "MONACA", 0],
-    [16, "alone", "MONACA", 0],
-    [17, "accept", "MONACA", 0],
-    [18, "avenue", "MONACA", 0],
-    [19, "agony", "MONACA", 0],
-    [20, "about", "MONACA", 0],
-    [21, "accident", "MONACA", 0],
-    [22, "advise", "MONACA", 0],
-    [23, "à la mode", "MONACA", -1],
-    [24, "around", "MONACA", 0],
-    [25, "absurd", "MONACA", 0],
-    [26, "anywhere", "MONACA", 0],
-    [27, "angel", "MONACA", 0],
-    [28, "audience", "MONACA", 0],
-    [29, "addict", "MONACA", 0],
-    [30, "above", "MONACA", 0],
-    [31, "actress", "MONACA", 0],
-    [32, "again", "MONACA", 0],
-    [33, "almost", "MONACA", 0],
-    [34, "ashamed", "MONACA", 0],
-    [35, "active", "MONACA", 0],
-    [36, "absent", "MONACA", 0],
-    [37, "alarm", "MONACA", 0],
-    [38, "abnormal", "MONACA", 0],
-    [39, "august", "MONACA", 0],
-    [40, "autumn", "MONACA", 0],
-    [41, "afternoon", "MONACA", 0],
-    [42, "ハミングガール TV ver.", "るん(福原香織)／トオル(悠木碧)／ナギ(内山夕実)／ユー子(寿美菜子)", 0],
+    [1, "Morning Arch TV ver.", "河野マリナ", 1],
+    [2, "awake", "MONACA", 1],
+    [3, "alongside", "MONACA", 1],
+    [4, "academic", "MONACA", 1],
+    [5, "apple", "MONACA", 1],
+    [6, "artistic", "MONACA", 1],
+    [7, "awful", "MONACA", 1],
+    [8, "anxious", "MONACA", 1],
+    [9, "april fool", "MONACA", 1],
+    [10, "aggressive", "MONACA", 1],
+    [11, "amazing", "MONACA", 1],
+    [12, "air", "MONACA", 1],
+    [13, "approach", "MONACA", 1],
+    [14, "attack", "MONACA", 1],
+    [15, "ace", "MONACA", 1],
+    [16, "alone", "MONACA", 1],
+    [17, "accept", "MONACA", 1],
+    [18, "avenue", "MONACA", 1],
+    [19, "agony", "MONACA", 1],
+    [20, "about", "MONACA", 1],
+    [21, "accident", "MONACA", 1],
+    [22, "advise", "MONACA", 1],
+    [23, "à la mode", "MONACA", 0],
+    [24, "around", "MONACA", 1],
+    [25, "absurd", "MONACA", 1],
+    [26, "anywhere", "MONACA", 1],
+    [27, "angel", "MONACA", 1],
+    [28, "audience", "MONACA", 1],
+    [29, "addict", "MONACA", 1],
+    [30, "above", "MONACA", 1],
+    [31, "actress", "MONACA", 1],
+    [32, "again", "MONACA", 1],
+    [33, "almost", "MONACA", 1],
+    [34, "ashamed", "MONACA", 1],
+    [35, "active", "MONACA", 1],
+    [36, "absent", "MONACA", 1],
+    [37, "alarm", "MONACA", 1],
+    [38, "abnormal", "MONACA", 1],
+    [39, "august", "MONACA", 1],
+    [40, "autumn", "MONACA", 1],
+    [41, "afternoon", "MONACA", 1],
+    [42, "ハミングガール TV ver.", "るん(福原香織)／トオル(悠木碧)／ナギ(内山夕実)／ユー子(寿美菜子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/adc7e4be-dd43-40fa-91ad-acbeca97cd98", "https://vgmdb.net/album/25780"]
 
@@ -112,10 +112,10 @@ catalognumber = "ANZX-9876"
 date = "2011-07-27"
 album = "A-CHANNEL THE ANIMATION 3 BONUS DISC Inserted Songs"
 tracks = [
-    [1, "Mermaid Sisters", "ユー子(寿美菜子)", 0],
-    [2, "探検のススメ", "ナギ(内山夕実)", 1],
-    [3, "Mermaid Sisters (Instrumental)", "オオヤギヒロオ", 0],
-    [4, "探検のススメ (Instrumental)", "堀江晶太", 0],
+    [1, "Mermaid Sisters", "ユー子(寿美菜子)", 1],
+    [2, "探検のススメ", "ナギ(内山夕実)", 2],
+    [3, "Mermaid Sisters (Instrumental)", "オオヤギヒロオ", 1],
+    [4, "探検のススメ (Instrumental)", "堀江晶太", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4059e306-0a5f-4229-939d-95b4802f7b7b", "https://vgmdb.net/album/26073"]
 
@@ -124,25 +124,25 @@ catalognumber = "QWCE-00194"
 date = "2011-08-03"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 13"
 tracks = [
-    [1, "コネクト", "plazma feat.Nahoko", -1],
-    [2, "CORE PRIDE", "Hommarju feat.TAKANORI", -1],
-    [3, "魔・カ・セ・テ Tonight", "Booing Day feat.MAKI", -1],
-    [4, "ぱんでみっく!", "Hommarju feat.mi-mi", -1],
-    [5, "Destin Histoire", "Icon feat.JJ", -1],
-    [6, "インモラリスト", "Hommarju feat.R.Cena+hideki", -1],
-    [7, "RPG", "Booing Day feat.puchi", -1],
-    [8, "わが名は小学生", "Dizzi Mystica feat.405+mi-mi", -1],
-    [9, "Choose my love!", "Booing Day feat.KANA", -1],
-    [10, "Morning Arch", "Dizzi Mystica feat.YURiE", 0],
-    [11, "A Whole New World God Only Knows", "Hommarju feat.R.Cena", -1],
-    [12, "Scarlet Ballet", "Dizzi Mystica feat.mi-mi", -1],
-    [13, "STRAIGHT JET", "MK feat.Latte", -1],
-    [14, "Taste of Paradise", "Dizzi Mystica feat.yumemi", -1],
-    [15, "Os-宇宙人", "Dizzi Mystica feat.mi-mi", -1],
-    [16, "SHINY SHINY", "MK feat.405", -1],
-    [17, "SCARLET KNIGHT", "Dizzi Mystica feat.Latte", -1],
-    [18, "青い栞", "Icon feat.Yusuke+yuno", -1],
-    [19, "Magia", "Dizzi Mystica feat.Natsuhi+R.Cena", -1],
+    [1, "コネクト", "plazma feat.Nahoko", 0],
+    [2, "CORE PRIDE", "Hommarju feat.TAKANORI", 0],
+    [3, "魔・カ・セ・テ Tonight", "Booing Day feat.MAKI", 0],
+    [4, "ぱんでみっく!", "Hommarju feat.mi-mi", 0],
+    [5, "Destin Histoire", "Icon feat.JJ", 0],
+    [6, "インモラリスト", "Hommarju feat.R.Cena+hideki", 0],
+    [7, "RPG", "Booing Day feat.puchi", 0],
+    [8, "わが名は小学生", "Dizzi Mystica feat.405+mi-mi", 0],
+    [9, "Choose my love!", "Booing Day feat.KANA", 0],
+    [10, "Morning Arch", "Dizzi Mystica feat.YURiE", 1],
+    [11, "A Whole New World God Only Knows", "Hommarju feat.R.Cena", 0],
+    [12, "Scarlet Ballet", "Dizzi Mystica feat.mi-mi", 0],
+    [13, "STRAIGHT JET", "MK feat.Latte", 0],
+    [14, "Taste of Paradise", "Dizzi Mystica feat.yumemi", 0],
+    [15, "Os-宇宙人", "Dizzi Mystica feat.mi-mi", 0],
+    [16, "SHINY SHINY", "MK feat.405", 0],
+    [17, "SCARLET KNIGHT", "Dizzi Mystica feat.Latte", 0],
+    [18, "青い栞", "Icon feat.Yusuke+yuno", 0],
+    [19, "Magia", "Dizzi Mystica feat.Natsuhi+R.Cena", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/212e98cc-5094-428f-8042-5fade11a7075", "https://vgmdb.net/album/29349"]
 
@@ -151,18 +151,18 @@ catalognumber = "ANZX-9878"
 date = "2011-08-24"
 album = "A-CHANNEL THE ANIMATION 4 BONUS DISC Inserted Songs"
 tracks = [
-    [1, "Summer breeze", "ユー子(寿美菜子)", 0],
-    [2, "オチャメロディカルビューティバンバン", "るん(福原香織)", 0],
-    [3, "恋一夜夢一夜", "ナギ(内山夕実)", 0],
-    [4, "ともだち", "トオル(悠木碧)、るん(福原香織)", 1],
-    [5, "君の手", "佐藤先生(小野大輔)", 0],
-    [6, "翼はないけど", "トオル(悠木碧)、るん(福原香織)", 1],
-    [7, "Summer breeze (Instrumental)", "TSUKASA", 0],
-    [8, "オチャメロディカルビューティバンバン (Instrumental)", "TSUKASA", 0],
-    [9, "恋一夜夢一夜 (Instrumental)", "磯崎健史", 0],
-    [10, "ともだち (Instrumental)", "流歌", 1],
-    [11, "君の手 (Instrumental)", "ACOMPANAR", 0],
-    [12, "翼はないけど (Instrumental)", "yamazo", 1],
+    [1, "Summer breeze", "ユー子(寿美菜子)", 1],
+    [2, "オチャメロディカルビューティバンバン", "るん(福原香織)", 1],
+    [3, "恋一夜夢一夜", "ナギ(内山夕実)", 1],
+    [4, "ともだち", "トオル(悠木碧)、るん(福原香織)", 2],
+    [5, "君の手", "佐藤先生(小野大輔)", 1],
+    [6, "翼はないけど", "トオル(悠木碧)、るん(福原香織)", 2],
+    [7, "Summer breeze (Instrumental)", "TSUKASA", 1],
+    [8, "オチャメロディカルビューティバンバン (Instrumental)", "TSUKASA", 1],
+    [9, "恋一夜夢一夜 (Instrumental)", "磯崎健史", 1],
+    [10, "ともだち (Instrumental)", "流歌", 2],
+    [11, "君の手 (Instrumental)", "ACOMPANAR", 1],
+    [12, "翼はないけど (Instrumental)", "yamazo", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/1b706916-4b2d-484c-a2d5-af1ad4ba03d4", "https://vgmdb.net/album/60810"]
 
@@ -171,10 +171,10 @@ catalognumber = "ANZX-9880"
 date = "2011-09-21"
 album = "A-CHANNEL THE ANIMATION 5 BONUS DISC Inserted Songs"
 tracks = [
-    [1, "オカシナ時間", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [2, "Happy Snow", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [3, "オカシナ時間 (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [4, "Happy Snow (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [1, "オカシナ時間", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [2, "Happy Snow", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [3, "オカシナ時間 (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [4, "Happy Snow (Instrumental)", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/48b86fc1-f5c1-4a50-80e4-2f8d381290fa", "https://vgmdb.net/album/48999"]
 
@@ -183,10 +183,10 @@ catalognumber = "ANZX-9882"
 date = "2011-10-26"
 album = "A-CHANNEL THE ANIMATION 6 BONUS DISC Inserted Songs"
 tracks = [
-    [1, "きっと ずっと もっと", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [2, "未確認飛行ガール", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [3, "きっと ずっと もっと (Instrumental)", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
-    [4, "未確認飛行ガール (Instrumental)", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
+    [1, "きっと ずっと もっと", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [2, "未確認飛行ガール", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
+    [3, "きっと ずっと もっと (Instrumental)", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 2],
+    [4, "未確認飛行ガール (Instrumental)", "トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/04fcd3d1-4e46-446d-b989-65e8ebb133fa", "https://vgmdb.net/album/49000"]
 
@@ -195,9 +195,9 @@ catalognumber = "ANZX-9884"
 date = "2012-03-21"
 album = "A-CHANNEL THE ANIMATION +smile BONUS DISC Disc 1 [ANZX-9884]"
 tracks = [
-    [1, "バルーンシアター -Full size-", "河野万里奈", 1],
-    [2, "バルーンシアター -TV size-", "河野万里奈", 0],
-    [3, "バルーンシアター (Instrumental)", "河野万里奈", 0],
+    [1, "バルーンシアター -Full size-", "河野万里奈", 2],
+    [2, "バルーンシアター -TV size-", "河野万里奈", 1],
+    [3, "バルーンシアター (Instrumental)", "河野万里奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cae416d9-9689-4fd7-98ac-3e91d35bd8af", "https://vgmdb.net/album/49001"]
 
@@ -206,13 +206,13 @@ catalognumber = "ANZX-9885"
 date = "2012-03-21"
 album = "A-CHANNEL THE ANIMATION +smile BONUS DISC Disc 2 [ANZX-9885]"
 tracks = [
-    [1, "大切な場所", "悠木碧, 又吉愛 & 斎藤桃子", 1],
-    [2, "HAPPY NEW DAYS", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 1],
-    [3, "スマイル方程式 -Full size-", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 1],
-    [4, "スマイル方程式 -TV size-", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 0],
-    [5, "大切な場所 (Instrumental)", "悠木碧, 又吉愛 & 斎藤桃子", 1],
-    [6, "HAPPY NEW DAYS (Instrumental)", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 1],
-    [7, "スマイル方程式 (Instrumental)", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 1],
+    [1, "大切な場所", "悠木碧, 又吉愛 & 斎藤桃子", 2],
+    [2, "HAPPY NEW DAYS", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 2],
+    [3, "スマイル方程式 -Full size-", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 2],
+    [4, "スマイル方程式 -TV size-", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 1],
+    [5, "大切な場所 (Instrumental)", "悠木碧, 又吉愛 & 斎藤桃子", 2],
+    [6, "HAPPY NEW DAYS (Instrumental)", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 2],
+    [7, "スマイル方程式 (Instrumental)", "福原香織, 福原香織, 内山夕実 & 寿美菜子", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/cae416d9-9689-4fd7-98ac-3e91d35bd8af", "https://vgmdb.net/album/49001"]
 
@@ -221,18 +221,18 @@ catalognumber = "SVWC-7970"
 date = "2013-12-11"
 album = "First Touch / 河野マリナ Disc 1 (CD) [SVWC-7970]"
 tracks = [
-    [1, "その声を覚えてる", "河野マリナ", -1],
-    [2, "消えるdaydream", "河野マリナ", -1],
-    [3, "Morning Arch", "河野マリナ", 0],
-    [4, "たからもの", "河野マリナ", -1],
-    [5, "MAGIC OF MUSIC", "河野マリナ", -1],
-    [6, "バルーンシアター", "河野マリナ", 0],
-    [7, "Do!! Do!! Let me Fun♪", "河野マリナ", -1],
-    [8, "Cheer for me!!", "河野マリナ", -1],
-    [9, "snowdrop -河野マリナ ver.-", "河野マリナ", -1],
-    [10, "Imperfect blue", "河野マリナ", -1],
-    [11, "アラタなるセカイ", "河野マリナ", -1],
-    [12, "この優しい世界のなか", "河野マリナ", -1],
+    [1, "その声を覚えてる", "河野マリナ", 0],
+    [2, "消えるdaydream", "河野マリナ", 0],
+    [3, "Morning Arch", "河野マリナ", 1],
+    [4, "たからもの", "河野マリナ", 0],
+    [5, "MAGIC OF MUSIC", "河野マリナ", 0],
+    [6, "バルーンシアター", "河野マリナ", 1],
+    [7, "Do!! Do!! Let me Fun♪", "河野マリナ", 0],
+    [8, "Cheer for me!!", "河野マリナ", 0],
+    [9, "snowdrop -河野マリナ ver.-", "河野マリナ", 0],
+    [10, "Imperfect blue", "河野マリナ", 0],
+    [11, "アラタなるセカイ", "河野マリナ", 0],
+    [12, "この優しい世界のなか", "河野マリナ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9d6a64e5-5357-4673-b2d0-d022d2034b14", "https://vgmdb.net/album/42081"]
 
@@ -241,10 +241,10 @@ catalognumber = "SVWC-7971"
 date = "2013-12-11"
 album = "First Touch / 河野マリナ Disc 2 (DVD) [SVWC-7971]"
 tracks = [
-    [1, "河野マリナ スペシャルドキュメンタリー「First Touch」", "河野マリナ", -1],
-    [2, "Morning Arch (MUSIC CLIP)", "河野マリナ", 0],
-    [3, "たからもの (MUSIC CLIP)", "河野マリナ", -1],
-    [4, "その声を覚えてる (MUSIC CLIP)", "河野マリナ", -1],
+    [1, "河野マリナ スペシャルドキュメンタリー「First Touch」", "河野マリナ", 0],
+    [2, "Morning Arch (MUSIC CLIP)", "河野マリナ", 1],
+    [3, "たからもの (MUSIC CLIP)", "河野マリナ", 0],
+    [4, "その声を覚えてる (MUSIC CLIP)", "河野マリナ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9d6a64e5-5357-4673-b2d0-d022d2034b14", "https://vgmdb.net/album/42081"]
 
@@ -253,18 +253,18 @@ catalognumber = "SVWC-7972"
 date = "2013-12-11"
 album = "First Touch / 河野マリナ"
 tracks = [
-    [1, "その声を覚えてる", "河野マリナ", -1],
-    [2, "消えるdaydream", "河野マリナ", -1],
-    [3, "Morning Arch", "河野マリナ", 0],
-    [4, "たからもの", "河野マリナ", -1],
-    [5, "MAGIC OF MUSIC", "河野マリナ", -1],
-    [6, "バルーンシアター", "河野マリナ", 0],
-    [7, "Do!! Do!! Let me Fun♪", "河野マリナ", -1],
-    [8, "Cheer for me!!", "河野マリナ", -1],
-    [9, "snowdrop -河野マリナ ver.-", "河野マリナ", -1],
-    [10, "Imperfect blue", "河野マリナ", -1],
-    [11, "アラタなるセカイ", "河野マリナ", -1],
-    [12, "この優しい世界のなか", "河野マリナ", -1],
+    [1, "その声を覚えてる", "河野マリナ", 0],
+    [2, "消えるdaydream", "河野マリナ", 0],
+    [3, "Morning Arch", "河野マリナ", 1],
+    [4, "たからもの", "河野マリナ", 0],
+    [5, "MAGIC OF MUSIC", "河野マリナ", 0],
+    [6, "バルーンシアター", "河野マリナ", 1],
+    [7, "Do!! Do!! Let me Fun♪", "河野マリナ", 0],
+    [8, "Cheer for me!!", "河野マリナ", 0],
+    [9, "snowdrop -河野マリナ ver.-", "河野マリナ", 0],
+    [10, "Imperfect blue", "河野マリナ", 0],
+    [11, "アラタなるセカイ", "河野マリナ", 0],
+    [12, "この優しい世界のなか", "河野マリナ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ee2aa5dc-3bc5-4e6e-8181-4ac384e58243", "https://vgmdb.net/album/42082"]
 
@@ -273,13 +273,13 @@ catalognumber = "ANZX-12084"
 date = "2017-09-27"
 album = "A-CHANNEL THE ANIMATION Blu-ray Disc BOX -MUSIC CHANNEL- Disc 1 [ANZX-12084]"
 tracks = [
-    [1, "Morning Arch", "河野万里奈", 1],
-    [2, "ハミングガール", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [3, "バルーンシアター", "河野万里奈", 0],
-    [4, "スマイル方程式", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [5, "大切な場所", "トオル (CV: 悠木碧), 今井 豊 (CV: 又吉愛), 野山美歩 (CV: 斎藤桃子)", 0],
-    [6, "HAPPY NEW DAYS", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [7, "Viba鍋!よっつ星", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [1, "Morning Arch", "河野万里奈", 2],
+    [2, "ハミングガール", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [3, "バルーンシアター", "河野万里奈", 1],
+    [4, "スマイル方程式", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [5, "大切な場所", "トオル (CV: 悠木碧), 今井 豊 (CV: 又吉愛), 野山美歩 (CV: 斎藤桃子)", 1],
+    [6, "HAPPY NEW DAYS", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [7, "Viba鍋!よっつ星", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/96919854-9974-4069-bfe3-c5d1a02df210", "https://vgmdb.net/album/71758"]
 
@@ -288,22 +288,22 @@ catalognumber = "ANZX-12085"
 date = "2017-09-27"
 album = "A-CHANNEL THE ANIMATION Blu-ray Disc BOX -MUSIC CHANNEL- Disc 2 [ANZX-12085]"
 tracks = [
-    [1, "はるかぜの化学", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [2, "Start", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [3, "ぎゅっとして欲しいんだ", "トオル (CV: 悠木碧)", 0],
-    [4, "summer dream syndrome", "るん (CV: 福原香織)", 0],
-    [5, "Mermaid Sisters", "ユー子 (CV: 寿美菜子)", 0],
-    [6, "探検のススメ", "ナギ (CV: 内山夕実)", 0],
-    [7, "Summer breeze", "ユー子 (CV: 寿美菜子)", 0],
-    [8, "オチャメロディカルビューティバンバン", "るん (CV: 福原香織)", 0],
-    [9, "恋一夜夢一夜", "ナギ (CV: 内山夕実)", 0],
-    [10, "ともだち", "るん (CV: 福原香織), トオル (CV: 悠木碧)", 0],
-    [11, "君の手", "佐藤先生 (CV: 小野大輔)", 0],
-    [12, "翼はないけど", "るん (CV: 福原香織), トオル (CV: 悠木碧)", 0],
-    [13, "オカシナ時間", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [14, "Happy Snow", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
-    [15, "きっと ずっと もっと", "トオル (CV: 悠木碧)", 0],
-    [16, "未確認飛行ガール", "ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 0],
+    [1, "はるかぜの化学", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [2, "Start", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [3, "ぎゅっとして欲しいんだ", "トオル (CV: 悠木碧)", 1],
+    [4, "summer dream syndrome", "るん (CV: 福原香織)", 1],
+    [5, "Mermaid Sisters", "ユー子 (CV: 寿美菜子)", 1],
+    [6, "探検のススメ", "ナギ (CV: 内山夕実)", 1],
+    [7, "Summer breeze", "ユー子 (CV: 寿美菜子)", 1],
+    [8, "オチャメロディカルビューティバンバン", "るん (CV: 福原香織)", 1],
+    [9, "恋一夜夢一夜", "ナギ (CV: 内山夕実)", 1],
+    [10, "ともだち", "るん (CV: 福原香織), トオル (CV: 悠木碧)", 1],
+    [11, "君の手", "佐藤先生 (CV: 小野大輔)", 1],
+    [12, "翼はないけど", "るん (CV: 福原香織), トオル (CV: 悠木碧)", 1],
+    [13, "オカシナ時間", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [14, "Happy Snow", "るん (CV: 福原香織), トオル (CV: 悠木碧), ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
+    [15, "きっと ずっと もっと", "トオル (CV: 悠木碧)", 1],
+    [16, "未確認飛行ガール", "ナギ (CV: 内山夕実), ユー子 (CV: 寿美菜子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96919854-9974-4069-bfe3-c5d1a02df210", "https://vgmdb.net/album/71758"]
 
@@ -312,45 +312,45 @@ catalognumber = "ANZX-12086"
 date = "2017-09-27"
 album = "A-CHANNEL THE ANIMATION Blu-ray Disc BOX -MUSIC CHANNEL- Disc 3 [ANZX-12086]"
 tracks = [
-    [1, "awake", "MONACA", 0],
-    [2, "alongside", "MONACA", 0],
-    [3, "academic", "MONACA", 0],
-    [4, "apple", "MONACA", 0],
-    [5, "artistic", "MONACA", 0],
-    [6, "awful", "MONACA", 0],
-    [7, "anxious", "MONACA", 0],
-    [8, "april fool", "MONACA", 0],
-    [9, "aggressive", "MONACA", 0],
-    [10, "amazing", "MONACA", 0],
-    [11, "air", "MONACA", 0],
-    [12, "approach", "MONACA", 0],
-    [13, "attack", "MONACA", 0],
-    [14, "ace", "MONACA", 0],
-    [15, "alone", "MONACA", 0],
-    [16, "accept", "MONACA", 0],
-    [17, "avenue", "MONACA", 0],
-    [18, "agony", "MONACA", 0],
-    [19, "about", "MONACA", 0],
-    [20, "accident", "MONACA", 0],
-    [21, "advise", "MONACA", 0],
-    [22, "a la mode", "MONACA", 0],
-    [23, "around", "MONACA", 0],
-    [24, "absurd", "MONACA", 0],
-    [25, "anywhere", "MONACA", 0],
-    [26, "angel", "MONACA", 0],
-    [27, "audience", "MONACA", 0],
-    [28, "addict", "MONACA", 0],
-    [29, "above", "MONACA", 0],
-    [30, "actress", "MONACA", 0],
-    [31, "again", "MONACA", 0],
-    [32, "almost", "MONACA", 0],
-    [33, "ashamed", "MONACA", 0],
-    [34, "active", "MONACA", 0],
-    [35, "absent", "MONACA", 0],
-    [36, "alarm", "MONACA", 0],
-    [37, "abnormal", "MONACA", 0],
-    [38, "august", "MONACA", 0],
-    [39, "autumn", "MONACA", 0],
-    [40, "afternoon", "MONACA", 0],
+    [1, "awake", "MONACA", 1],
+    [2, "alongside", "MONACA", 1],
+    [3, "academic", "MONACA", 1],
+    [4, "apple", "MONACA", 1],
+    [5, "artistic", "MONACA", 1],
+    [6, "awful", "MONACA", 1],
+    [7, "anxious", "MONACA", 1],
+    [8, "april fool", "MONACA", 1],
+    [9, "aggressive", "MONACA", 1],
+    [10, "amazing", "MONACA", 1],
+    [11, "air", "MONACA", 1],
+    [12, "approach", "MONACA", 1],
+    [13, "attack", "MONACA", 1],
+    [14, "ace", "MONACA", 1],
+    [15, "alone", "MONACA", 1],
+    [16, "accept", "MONACA", 1],
+    [17, "avenue", "MONACA", 1],
+    [18, "agony", "MONACA", 1],
+    [19, "about", "MONACA", 1],
+    [20, "accident", "MONACA", 1],
+    [21, "advise", "MONACA", 1],
+    [22, "a la mode", "MONACA", 1],
+    [23, "around", "MONACA", 1],
+    [24, "absurd", "MONACA", 1],
+    [25, "anywhere", "MONACA", 1],
+    [26, "angel", "MONACA", 1],
+    [27, "audience", "MONACA", 1],
+    [28, "addict", "MONACA", 1],
+    [29, "above", "MONACA", 1],
+    [30, "actress", "MONACA", 1],
+    [31, "again", "MONACA", 1],
+    [32, "almost", "MONACA", 1],
+    [33, "ashamed", "MONACA", 1],
+    [34, "active", "MONACA", 1],
+    [35, "absent", "MONACA", 1],
+    [36, "alarm", "MONACA", 1],
+    [37, "abnormal", "MONACA", 1],
+    [38, "august", "MONACA", 1],
+    [39, "autumn", "MONACA", 1],
+    [40, "afternoon", "MONACA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96919854-9974-4069-bfe3-c5d1a02df210", "https://vgmdb.net/album/71758"]
