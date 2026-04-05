@@ -2734,11 +2734,58 @@ links = ["https://beta.musicbrainz.org/release/855f3fee-67f0-4abe-8ee8-d1c8edd1a
 [173]
 catalognumber = "LLMS-0006"
 date = "2016-04-27"
-album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.6"
-tracks = []
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.6 Disc 1"
+tracks = [
+    [1, "にこりんぱな特別版 01 OPENING", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [2, "にこりんぱな特別版 02 演技のお時間!! リターンズ!!", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [3, "にこりんぱな特別版 03 にこりんぱな応援歌～.ファイナル～!!", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [4, "にこりんぱな特別版 04 ENDING ～ 罰ゲーム", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+]
 links = ["https://vgmdb.net/album/57317"]
 
 [174]
+catalognumber = "LLMS-0006"
+date = "2016-04-27"
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.6 Disc 2"
+tracks = [
+    [1, "ラブライブ! μ's広報部～にこりんぱな～第47回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [2, "ラブライブ! μ's広報部～にこりんぱな～第48回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [3, "ラブライブ! μ's広報部～にこりんぱな～第49回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [4, "ラブライブ! μ's広報部～にこりんぱな～第50回", "徳井青空、飯田里穂、久保ユリカ、楠田亜衣奈、南條愛乃", 0],
+    [5, "ラブライブ! μ's広報部～にこりんぱな～第51回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [6, "ラブライブ! μ's広報部～にこりんぱな～第52回", "徳井青空、飯田里穂、久保ユリカ、新田恵海", 0],
+    [7, "ラブライブ! μ's広報部～にこりんぱな～第53回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [8, "ラブライブ! μ's広報部～にこりんぱな～第54回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [9, "ラブライブ! μ's広報部～にこりんぱな～第55回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [10, "ラブライブ! μ's広報部～にこりんぱな～第56回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [11, "ラブライブ! μ's広報部～にこりんぱな～第57回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [12, "ラブライブ! μ's広報部～にこりんぱな～第58回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [13, "ラブライブ! μ's広報部～にこりんぱな～第59回", "徳井青空、飯田里穂、久保ユリカ", 0],
+]
+links = ["https://vgmdb.net/album/57317"]
+
+[175]
+catalognumber = "LLMS-0006"
+date = "2016-04-27"
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.6 Disc 3"
+tracks = [
+    [1, "ラブライブ! μ's広報部～にこりんぱな～第60回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [2, "ラブライブ! μ's広報部～にこりんぱな～第61回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [3, "ラブライブ! μ's広報部～にこりんぱな～第62回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [4, "ラブライブ! μ's広報部～にこりんぱな～第63回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [5, "ラブライブ! μ's広報部～にこりんぱな～第64回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [6, "ラブライブ! μ's広報部～にこりんぱな～第65回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [7, "ラブライブ! μ's広報部～にこりんぱな～第66回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [8, "ラブライブ! μ's広報部～にこりんぱな～第67回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [9, "ラブライブ! μ's広報部～にこりんぱな～第68回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [10, "ラブライブ! μ's広報部～にこりんぱな～第69回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [11, "ラブライブ! μ's広報部～にこりんぱな～第70回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [12, "ラブライブ! μ's広報部～にこりんぱな～第71回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [13, "ラブライブ! μ's広報部～にこりんぱな～第72回", "徳井青空、飯田里穂、久保ユリカ", 0],
+]
+links = ["https://vgmdb.net/album/57317"]
+
+[176]
 catalognumber = "LACM-14481"
 date = "2016-05-11"
 album = "元気全開 DAY! DAY! DAY! / CYaRon!"
@@ -2751,7 +2798,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b814cb9a-cbc1-41e3-8165-9e4393c50c84", "https://vgmdb.net/album/57958"]
 
-[175]
+[177]
 catalognumber = "LACM-14482"
 date = "2016-05-25"
 album = "トリコリコPLEASE!! / AZALEA"
@@ -2764,7 +2811,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54fb7a76-ba40-40df-bcfe-2a7eeb77c7f8", "https://vgmdb.net/album/57959"]
 
-[176]
+[178]
 catalognumber = "LACM-14483"
 date = "2016-06-08"
 album = "Strawberry Trapper / Guilty Kiss"
@@ -2777,7 +2824,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0d4ebca2-10b3-42a1-b8e0-fa175824b2d1", "https://vgmdb.net/album/57960"]
 
-[177]
+[179]
 catalognumber = "LACM-14500"
 date = "2016-07-20"
 album = "青空Jumping Heart / Aqours"
@@ -2789,14 +2836,61 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/05dbf8ff-94ed-469a-88fd-69a79389e386", "https://vgmdb.net/album/58147"]
 
-[178]
+[180]
 catalognumber = "LLMS-0007"
 date = "2016-07-27"
-album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.7"
-tracks = []
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.7 Disc 1"
+tracks = [
+    [1, "にこりんぱな特別版 01 OPNING", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [2, "にこりんぱな特別版 02 キーワードで「ラブライブ!」を振り返り～!!", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [3, "にこりんぱな特別版 03 クイズ!! にこりんぱなほの～!!", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+    [4, "にこりんぱな特別版 04 ENDING", "にこりんぱな (徳井青空, 飯田里穂, 久保ユリカ)", 0],
+]
 links = ["https://vgmdb.net/album/59239"]
 
-[179]
+[181]
+catalognumber = "LLMS-0007"
+date = "2016-07-27"
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.7 Disc 2"
+tracks = [
+    [1, "ラブライブ! μ's広報部～にこりんぱな～第73回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [2, "ラブライブ! μ's広報部～にこりんぱな～第74回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [3, "ラブライブ! μ's広報部～にこりんぱな～第75回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [4, "ラブライブ! μ's広報部～にこりんぱな～第76回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [5, "ラブライブ! μ's広報部～にこりんぱな～第77回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [6, "ラブライブ! μ's広報部～にこりんぱな～第78回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [7, "ラブライブ! μ's広報部～にこりんぱな～第79回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [8, "ラブライブ! μ's広報部～にこりんぱな～第80回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [9, "ラブライブ! μ's広報部～にこりんぱな～第81回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [10, "ラブライブ! μ's広報部～にこりんぱな～第82回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [11, "ラブライブ! μ's広報部～にこりんぱな～第83回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [12, "ラブライブ! μ's広報部～にこりんぱな～第84回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [13, "ラブライブ! μ's広報部～にこりんぱな～第85回", "徳井青空、飯田里穂、久保ユリカ", 0],
+]
+links = ["https://vgmdb.net/album/59239"]
+
+[182]
+catalognumber = "LLMS-0007"
+date = "2016-07-27"
+album = "ラブライブ! μ's広報部～にこりんぱな～ Vol.7 Disc 3"
+tracks = [
+    [1, "ラブライブ! μ's広報部～にこりんぱな～第86回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [2, "ラブライブ! μ's広報部～にこりんぱな～第87回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [3, "ラブライブ! μ's広報部～にこりんぱな～第88回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [4, "ラブライブ! μ's広報部～にこりんぱな～第89回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [5, "ラブライブ! μ's広報部～にこりんぱな～第90回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [6, "ラブライブ! μ's広報部～にこりんぱな～第91回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [7, "ラブライブ! μ's広報部～にこりんぱな～第92回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [8, "ラブライブ! μ's広報部～にこりんぱな～第93回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [9, "ラブライブ! μ's広報部～にこりんぱな～第94回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [10, "ラブライブ! μ's広報部～にこりんぱな～第95回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [11, "ラブライブ! μ's広報部～にこりんぱな～第96回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [12, "ラブライブ! μ's広報部～にこりんぱな～第97回", "徳井青空、飯田里穂、久保ユリカ", 0],
+    [13, "ラブライブ! μ's広報部～にこりんぱな～第98回", "徳井青空、飯田里穂、久保ユリカ", 0],
+]
+links = ["https://vgmdb.net/album/59239"]
+
+[183]
 catalognumber = "LACM-14521"
 date = "2016-08-03"
 album = "決めたよHand in Hand/ダイスキだったらダイジョウブ! / Aqours"
@@ -2808,7 +2902,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e4c0c66-8246-4d0f-b22f-6e478cfefba7", "https://vgmdb.net/album/58750"]
 
-[180]
+[184]
 catalognumber = "PJO-0001"
 date = "2016-08-14"
 album = "Precious Jazz Orchestra Plays Anime Standards vol.1"
@@ -2824,7 +2918,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5f47c96c-9fcd-45ea-8ba6-0a92522b3fce", "https://vgmdb.net/album/60516"]
 
-[181]
+[185]
 catalognumber = "SOH-0054"
 date = "2016-08-14"
 album = "LoveMetalBest!"
@@ -2842,7 +2936,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118546"]
 
-[182]
+[186]
 catalognumber = "SOH-0053"
 date = "2016-08-16"
 album = "ラブメタル! SR - Heavy metal idol project - Vol.8"
@@ -2855,7 +2949,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118442"]
 
-[183]
+[187]
 catalognumber = "LACM-14540"
 date = "2016-08-24"
 album = "ユメ語るよりユメ歌おう / Aqours"
@@ -2867,7 +2961,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0a239a54-05dc-4e03-a412-74766da54eb9", "https://vgmdb.net/album/59529"]
 
-[184]
+[188]
 catalognumber = "LACM-14522"
 date = "2016-09-14"
 album = "夢で夜空を照らしたい/未熟DREAMER / Aqours"
@@ -2879,7 +2973,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/021e5e9d-de62-4f94-a4ae-be5f25dea10c", "https://vgmdb.net/album/59528"]
 
-[185]
+[189]
 catalognumber = ""
 date = "2016-09-18"
 album = "Orchestral μ'sic♪"
@@ -2896,7 +2990,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85633"]
 
-[186]
+[190]
 catalognumber = ""
 date = "2016-09-24"
 album = "Ooooooooo I Smoke The Weed, I'm Bob Dylan"
@@ -2922,7 +3016,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/11546e1e-1cea-4a09-b9b1-34001c30a8cc", "https://vgmdb.net/album/68377"]
 
-[187]
+[191]
 catalognumber = "BCXA-1170"
 date = "2016-09-27"
 album = "Aqours オリジナルソングCD 1"
@@ -2932,7 +3026,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dea4eaa6-33c1-4286-b151-af901d55708a", "https://vgmdb.net/album/60060"]
 
-[188]
+[192]
 catalognumber = "BCXA-1171"
 date = "2016-10-26"
 album = "Aqours オリジナルソングCD 2"
@@ -2942,7 +3036,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0b7c077f-a5ed-421e-9810-8cf30c62b985", "https://vgmdb.net/album/60061"]
 
-[189]
+[193]
 catalognumber = "LACM-14523"
 date = "2016-11-09"
 album = "想いよひとつになれ/MIRAI TICKET / Aqours"
@@ -2954,7 +3048,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5f4f6d7-a552-4797-ba64-b973dbfbf0e7", "https://vgmdb.net/album/60195"]
 
-[190]
+[194]
 catalognumber = "LACM-14560"
 date = "2016-11-23"
 album = "ジングルベルがとまらない / Aqours"
@@ -2969,7 +3063,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96dd8cab-69a0-430d-8c10-d4361ffd0537", "https://vgmdb.net/album/61525"]
 
-[191]
+[195]
 catalognumber = "BCXA-1172"
 date = "2016-11-25"
 album = "Aqours オリジナルソングCD 3"
@@ -2979,7 +3073,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7db6d83c-b9a4-4334-b1cf-1e46f61d0c50", "https://vgmdb.net/album/60062"]
 
-[192]
+[196]
 catalognumber = "LACA-9475"
 date = "2016-11-30"
 album = "TVアニメ 『ラブライブ!サンシャイン!!』 オリジナルサウンドトラック Sailing to the Sunshine Disc 1 [LACA-9475]"
@@ -3029,7 +3123,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6724b142-cba8-4b2a-8ae3-8d76ea0e908f", "https://vgmdb.net/album/60767"]
 
-[193]
+[197]
 catalognumber = "LACA-9476"
 date = "2016-11-30"
 album = "TVアニメ 『ラブライブ!サンシャイン!!』 オリジナルサウンドトラック Sailing to the Sunshine Disc 2 [LACA-9476]"
@@ -3076,7 +3170,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6724b142-cba8-4b2a-8ae3-8d76ea0e908f", "https://vgmdb.net/album/60767"]
 
-[194]
+[198]
 catalognumber = "BCXA-1173"
 date = "2016-12-22"
 album = "Aqours オリジナルソングCD 4"
@@ -3086,7 +3180,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85ff2383-520d-4f30-887a-e6adc729e1a8", "https://vgmdb.net/album/60063"]
 
-[195]
+[199]
 catalognumber = "TAM3-0155"
 date = "2016-12-29"
 album = "AnimeViolin ROCK - Anime Instrumental Arrange Album -"
@@ -3104,7 +3198,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b75f669-0d6a-4f99-a3be-221047c3c278", "https://vgmdb.net/album/79692"]
 
-[196]
+[200]
 catalognumber = ""
 date = "2016-12-31"
 album = "ようげんのアニソン・アコースティックギターアレンジ集"
@@ -3120,7 +3214,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/43619e44-69d7-44c6-bf19-0a12b32e4c6f", "https://vgmdb.net/album/65273"]
 
-[197]
+[201]
 catalognumber = "BCXA-1174"
 date = "2017-01-27"
 album = "Aqours オリジナルソングCD 5"
@@ -3130,7 +3224,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a7a1096c-eb1a-4cb5-9e1c-ad534b42f80b", "https://vgmdb.net/album/60064"]
 
-[198]
+[202]
 catalognumber = "BCXA-1175"
 date = "2017-02-24"
 album = "Aqours オリジナルソングCD 6"
@@ -3140,7 +3234,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6469c838-5168-4009-9300-60ce8f39b0d7", "https://vgmdb.net/album/60065"]
 
-[199]
+[203]
 catalognumber = ""
 date = "2017-03-12"
 album = "アコライブ! (ラブライブ! アコースティックギター・インストアレンジ集)"
@@ -3155,7 +3249,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a91581c8-7643-4a1d-b1f7-a0dbc4565750", "https://vgmdb.net/album/66319"]
 
-[200]
+[204]
 catalognumber = "BEPC-9999"
 date = "2017-03-24"
 album = "Aqoursのグルメレポート"
@@ -3166,7 +3260,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d7e688e7-0049-40ec-9ec5-45fb95e567ab", "https://vgmdb.net/album/60069"]
 
-[201]
+[205]
 catalognumber = "BEPC-0022"
 date = "2017-03-24"
 album = "Guilty Eyes Fever / Guilty Kiss"
@@ -3176,7 +3270,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e7b724b1-5eb9-4a77-8561-159549cfb777", "https://vgmdb.net/album/60068"]
 
-[202]
+[206]
 catalognumber = "BEPC-0021"
 date = "2017-03-24"
 album = "P.S.の向こう側 / CYaRon!"
@@ -3186,7 +3280,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a58cce04-d60d-4044-b57e-720baefac45c", "https://vgmdb.net/album/60067"]
 
-[203]
+[207]
 catalognumber = "BCXA-1176"
 date = "2017-03-24"
 album = "Aqours オリジナルソングCD 7"
@@ -3196,7 +3290,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c074a6f1-5426-4431-9b89-fe0bc2b15afa", "https://vgmdb.net/album/60066"]
 
-[204]
+[208]
 catalognumber = "BEPC-0023"
 date = "2017-03-24"
 album = "LONELY TUNING / AZALEA"
@@ -3206,7 +3300,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68dfba73-372f-4848-99bc-001f58a4beae", "https://vgmdb.net/album/60070"]
 
-[205]
+[209]
 catalognumber = "LACM-14590"
 date = "2017-04-05"
 album = "HAPPY PARTY TRAIN / Aqours Vocal, Drama"
@@ -3221,7 +3315,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bd7fa5ef-941d-4531-b5b9-a487d98d5f57", "https://vgmdb.net/album/64158"]
 
-[206]
+[210]
 catalognumber = "LACM-14590"
 date = "2017-04-05"
 album = "HAPPY PARTY TRAIN / Aqours Vocal"
@@ -3230,7 +3324,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bd7fa5ef-941d-4531-b5b9-a487d98d5f57", "https://vgmdb.net/album/64158"]
 
-[207]
+[211]
 catalognumber = "LACM-14591"
 date = "2017-04-05"
 album = "HAPPY PARTY TRAIN / Aqours Vocal, Drama"
@@ -3245,7 +3339,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8eb6e5d2-cdef-40f3-ab10-211266b8c7b4", "https://vgmdb.net/album/64159"]
 
-[208]
+[212]
 catalognumber = "LACM-14591"
 date = "2017-04-05"
 album = "HAPPY PARTY TRAIN / Aqours Vocal"
@@ -3254,7 +3348,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8eb6e5d2-cdef-40f3-ab10-211266b8c7b4", "https://vgmdb.net/album/64159"]
 
-[209]
+[213]
 catalognumber = "LACM-14601"
 date = "2017-05-10"
 album = "近未来ハッピーエンド / CYaRon!"
@@ -3267,7 +3361,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5425d128-fbe2-4896-bed2-faa65114de71", "https://vgmdb.net/album/65514"]
 
-[210]
+[214]
 catalognumber = ""
 date = "2017-05-28"
 album = "Orchestral μ'sic♪♪"
@@ -3284,7 +3378,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85634"]
 
-[211]
+[215]
 catalognumber = "MESC-0217"
 date = "2017-05-31"
 album = "キミと一緒ならメロディも勇気になるCD / M.O.E. Disc 1 (CD)"
@@ -3308,7 +3402,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f60ef2e-1547-454d-b7d9-40dac84e0232", "https://vgmdb.net/album/98472"]
 
-[212]
+[216]
 catalognumber = "MESC-0217"
 date = "2017-05-31"
 album = "キミと一緒ならメロディも勇気になるCD / M.O.E. Disc 2 (DVD)"
@@ -3317,7 +3411,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f60ef2e-1547-454d-b7d9-40dac84e0232", "https://vgmdb.net/album/98472"]
 
-[213]
+[217]
 catalognumber = "LACM-14602"
 date = "2017-05-31"
 album = "GALAXY HidE and SeeK / AZALEA"
@@ -3330,7 +3424,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6599c8dd-5c7d-4a54-8c1b-d8c9aa81fa32", "https://vgmdb.net/album/65515"]
 
-[214]
+[218]
 catalognumber = "MESC-0218"
 date = "2017-05-31"
 album = "キミと一緒ならメロディも勇気になるCD / M.O.E."
@@ -3354,7 +3448,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/98471"]
 
-[215]
+[219]
 catalognumber = "LACM-14603"
 date = "2017-06-21"
 album = "コワレヤスキ / Guilty Kiss"
@@ -3367,7 +3461,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a065202f-4235-42d6-b30b-7fb6e5e85bcf", "https://vgmdb.net/album/65516"]
 
-[216]
+[220]
 catalognumber = "LACM-14600"
 date = "2017-06-30"
 album = "Landing action Yeah!! / Aqours"
@@ -3386,7 +3480,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01d9e673-0eb4-418c-bac6-1007c4bbdca0", "https://vgmdb.net/album/67177"]
 
-[217]
+[221]
 catalognumber = "LACM-14630"
 date = "2017-08-02"
 album = "ラブライブ! サンシャイン!! デュオトリオコレクションCD VOL.1 SUMMER VACATION"
@@ -3402,7 +3496,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7a873061-1bfa-4c02-8677-6d1adce6f4e9", "https://vgmdb.net/album/67814"]
 
-[218]
+[222]
 catalognumber = ""
 date = "2017-08-11"
 album = "ラブライブ! サンシャイン!! アコースティックギター・アレンジ集"
@@ -3417,7 +3511,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/70573"]
 
-[219]
+[223]
 catalognumber = "LACM-14680"
 date = "2017-10-25"
 album = "未来の僕らは知ってるよ / Aqours"
@@ -3429,7 +3523,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/169d1c4b-7d88-4725-a5e8-26da0150f247", "https://vgmdb.net/album/70623"]
 
-[220]
+[224]
 catalognumber = "LACM-14681"
 date = "2017-11-15"
 album = "勇気はどこに?君の胸に! / Aqours"
@@ -3441,7 +3535,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3dc7f451-9459-43a3-aa2d-4f719832fbb6", "https://vgmdb.net/album/70622"]
 
-[221]
+[225]
 catalognumber = "LACM-14691"
 date = "2017-11-29"
 album = "MY舞☆TONIGHT/MIRACLE WAVE / Aqours"
@@ -3453,7 +3547,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5ab094e-fafa-4b5f-b558-5283031188dd", "https://vgmdb.net/album/71404"]
 
-[222]
+[226]
 catalognumber = "LACM-14692"
 date = "2017-12-20"
 album = "Awaken the power / Saint Aqours Snow"
@@ -3468,7 +3562,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/691cf7fb-f822-4d20-8021-8cc63b1e7fee", "https://vgmdb.net/album/71405"]
 
-[223]
+[227]
 catalognumber = "BCXA-1330"
 date = "2017-12-22"
 album = "Aqours オリジナルソングCD 1"
@@ -3478,7 +3572,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1923364b-4c6a-438d-9af8-5d8ef7486310", "https://vgmdb.net/album/72084"]
 
-[224]
+[228]
 catalognumber = ""
 date = "2017-12-26"
 album = "Totino's® Presents High Quality Video Game Rips Provided By Hinchy To Be Uploaded By SiIvaGunner (nice): The Platinum Collection - Volume 1 (Featuring Coconut Gun from the Donkey Kong Series)"
@@ -3514,7 +3608,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87454"]
 
-[225]
+[229]
 catalognumber = "NPG-002"
 date = "2017-12-30"
 album = "my FAVORITE Aqours"
@@ -3530,7 +3624,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/31a02315-7034-47db-92be-97dacb3867ae", "https://vgmdb.net/album/85616"]
 
-[226]
+[230]
 catalognumber = "LACM-14693"
 date = "2018-01-17"
 album = "WATER BLUE NEW WORLD/WONDERFUL STORIES / Aqours"
@@ -3542,7 +3636,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/781dce93-388c-4aba-8e69-2bd98bcfae11", "https://vgmdb.net/album/72208"]
 
-[227]
+[231]
 catalognumber = "BCXA-1331"
 date = "2018-01-26"
 album = "Aqours オリジナルソングCD 2"
@@ -3552,7 +3646,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bdf1b645-3f91-4aaa-9261-ef0a12975e99", "https://vgmdb.net/album/72085"]
 
-[228]
+[232]
 catalognumber = "LACA-9580"
 date = "2018-01-31"
 album = "TVアニメ『ラブライブ!サンシャイン !!』2期オリジナルサウンドトラック Journey to the Sunshine Disc 1 [LACA-9580]"
@@ -3588,7 +3682,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c0a9fc62-95b7-4715-96c0-be5e8d743fab", "https://vgmdb.net/album/72798"]
 
-[229]
+[233]
 catalognumber = "LACA-9581"
 date = "2018-01-31"
 album = "TVアニメ『ラブライブ!サンシャイン !!』2期オリジナルサウンドトラック Journey to the Sunshine Disc 2 [LACA-9581]"
@@ -3621,7 +3715,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c0a9fc62-95b7-4715-96c0-be5e8d743fab", "https://vgmdb.net/album/72798"]
 
-[230]
+[234]
 catalognumber = "BCXA-1332"
 date = "2018-02-23"
 album = "Aqours オリジナルソングCD 3"
@@ -3633,7 +3727,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1baccd0e-73ee-4e43-afd3-aff6ec0ba81b", "https://vgmdb.net/album/72086"]
 
-[231]
+[235]
 catalognumber = "BCXA-1333"
 date = "2018-03-23"
 album = "Aqours オリジナルソングCD 4"
@@ -3643,7 +3737,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8031543c-22ff-438c-b8be-39ea3aafab26", "https://vgmdb.net/album/72087"]
 
-[232]
+[236]
 catalognumber = "LACA-9621"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 小泉花陽 Memories with Hanayo Disc 1 [LACA-9621]"
@@ -3665,7 +3759,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54b04c17-6e27-4203-8045-10e757dbf4f5", "https://vgmdb.net/album/71679"]
 
-[233]
+[237]
 catalognumber = "LACA-9622"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 小泉花陽 Memories with Hanayo Disc 2 [LACA-9622]"
@@ -3681,7 +3775,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54b04c17-6e27-4203-8045-10e757dbf4f5", "https://vgmdb.net/album/71679"]
 
-[234]
+[238]
 catalognumber = "LACA-9623"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 小泉花陽 Memories with Hanayo Disc 3 [LACA-9623]"
@@ -3699,7 +3793,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54b04c17-6e27-4203-8045-10e757dbf4f5", "https://vgmdb.net/album/71679"]
 
-[235]
+[239]
 catalognumber = "LACA-9606"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 南ことり Memories with Kotori Disc 1 [LACA-9606]"
@@ -3720,7 +3814,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f7bf204-09bf-44e2-8be8-eae1063adf77", "https://vgmdb.net/album/71674"]
 
-[236]
+[240]
 catalognumber = "LACA-9607"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 南ことり Memories with Kotori Disc 2 [LACA-9607]"
@@ -3736,7 +3830,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f7bf204-09bf-44e2-8be8-eae1063adf77", "https://vgmdb.net/album/71674"]
 
-[237]
+[241]
 catalognumber = "LACA-9608"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 南ことり Memories with Kotori Disc 3 [LACA-9608]"
@@ -3754,7 +3848,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f7bf204-09bf-44e2-8be8-eae1063adf77", "https://vgmdb.net/album/71674"]
 
-[238]
+[242]
 catalognumber = "LACA-39600"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Vocal"
@@ -3775,7 +3869,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[239]
+[243]
 catalognumber = "LACA-39601"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 2 [LACA-39601]"
@@ -3791,7 +3885,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[240]
+[244]
 catalognumber = "LACA-39602"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 3 [LACA-39602]"
@@ -3809,7 +3903,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[241]
+[245]
 catalognumber = "LACA-39603"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 4 [LACA-39603]"
@@ -3831,7 +3925,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[242]
+[246]
 catalognumber = "LACA-39604"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 5 [LACA-39604]"
@@ -3847,7 +3941,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[243]
+[247]
 catalognumber = "LACA-39605"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 6 [LACA-39605]"
@@ -3865,7 +3959,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[244]
+[248]
 catalognumber = "LACA-39606"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 7 [LACA-39606]"
@@ -3886,7 +3980,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[245]
+[249]
 catalognumber = "LACA-39607"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 8 [LACA-39607]"
@@ -3902,7 +3996,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[246]
+[250]
 catalognumber = "LACA-39608"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 9 [LACA-39608]"
@@ -3920,7 +4014,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[247]
+[251]
 catalognumber = "LACA-39609"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 10 [LACA-39609]"
@@ -3941,7 +4035,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[248]
+[252]
 catalognumber = "LACA-39610"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 11 [LACA-39610]"
@@ -3957,7 +4051,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[249]
+[253]
 catalognumber = "LACA-39611"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 12 [LACA-39611]"
@@ -3975,7 +4069,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[250]
+[254]
 catalognumber = "LACA-39612"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 13 [LACA-39612]"
@@ -3997,7 +4091,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[251]
+[255]
 catalognumber = "LACA-39613"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 14 [LACA-39613]"
@@ -4013,7 +4107,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[252]
+[256]
 catalognumber = "LACA-39614"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 15 [LACA-39614]"
@@ -4031,7 +4125,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[253]
+[257]
 catalognumber = "LACA-39615"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 16 [LACA-39615]"
@@ -4053,7 +4147,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[254]
+[258]
 catalognumber = "LACA-39616"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 17 [LACA-39616]"
@@ -4069,7 +4163,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[255]
+[259]
 catalognumber = "LACA-39617"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 18 [LACA-39617]"
@@ -4087,7 +4181,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[256]
+[260]
 catalognumber = "LACA-39618"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 19 [LACA-39618]"
@@ -4109,7 +4203,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[257]
+[261]
 catalognumber = "LACA-39619"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 20 [LACA-39619]"
@@ -4125,7 +4219,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[258]
+[262]
 catalognumber = "LACA-39620"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 21 [LACA-39620]"
@@ -4143,7 +4237,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[259]
+[263]
 catalognumber = "LACA-39621"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 22 [LACA-39621]"
@@ -4165,7 +4259,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[260]
+[264]
 catalognumber = "LACA-39622"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 23 [LACA-39622]"
@@ -4181,7 +4275,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[261]
+[265]
 catalognumber = "LACA-39623"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 24 [LACA-39623]"
@@ -4199,7 +4293,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[262]
+[266]
 catalognumber = "LACA-39624"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 25 [LACA-39624]"
@@ -4221,7 +4315,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[263]
+[267]
 catalognumber = "LACA-39625"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 26 [LACA-39625]"
@@ -4237,7 +4331,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[264]
+[268]
 catalognumber = "LACA-39626"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! collection Memorial BOX III Disc 27 [LACA-39626]"
@@ -4255,7 +4349,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/71670"]
 
-[265]
+[269]
 catalognumber = "LACA-9600"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 高坂穂乃果 Memories with Honoka Disc 1 [LACA-9600]"
@@ -4276,7 +4370,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d0594d0-fb5d-4540-a979-25ceb2049797", "https://vgmdb.net/album/71672"]
 
-[266]
+[270]
 catalognumber = "LACA-9601"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 高坂穂乃果 Memories with Honoka Disc 2 [LACA-9601]"
@@ -4292,7 +4386,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d0594d0-fb5d-4540-a979-25ceb2049797", "https://vgmdb.net/album/71672"]
 
-[267]
+[271]
 catalognumber = "LACA-9602"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 高坂穂乃果 Memories with Honoka Disc 3 [LACA-9602]"
@@ -4310,7 +4404,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d0594d0-fb5d-4540-a979-25ceb2049797", "https://vgmdb.net/album/71672"]
 
-[268]
+[272]
 catalognumber = "LACA-9612"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 星空凛 Memories with Rin Disc 1 [LACA-9612]"
@@ -4332,7 +4426,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2133e96d-48a3-4134-93e4-12d34cb50db9", "https://vgmdb.net/album/71676"]
 
-[269]
+[273]
 catalognumber = "LACA-9613"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 星空凛 Memories with Rin Disc 2 [LACA-9613]"
@@ -4348,7 +4442,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2133e96d-48a3-4134-93e4-12d34cb50db9", "https://vgmdb.net/album/71676"]
 
-[270]
+[274]
 catalognumber = "LACA-9614"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 星空凛 Memories with Rin Disc 3 [LACA-9614]"
@@ -4366,7 +4460,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2133e96d-48a3-4134-93e4-12d34cb50db9", "https://vgmdb.net/album/71676"]
 
-[271]
+[275]
 catalognumber = "LACA-9618"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 東條希 Memories with Nozomi Disc 1 [LACA-9618]"
@@ -4388,7 +4482,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d302889f-8a6d-4682-b3ec-7b09c367f25f", "https://vgmdb.net/album/71678"]
 
-[272]
+[276]
 catalognumber = "LACA-9619"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 東條希 Memories with Nozomi Disc 2 [LACA-9619]"
@@ -4404,7 +4498,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d302889f-8a6d-4682-b3ec-7b09c367f25f", "https://vgmdb.net/album/71678"]
 
-[273]
+[277]
 catalognumber = "LACA-9620"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 東條希 Memories with Nozomi Disc 3 [LACA-9620]"
@@ -4422,7 +4516,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d302889f-8a6d-4682-b3ec-7b09c367f25f", "https://vgmdb.net/album/71678"]
 
-[274]
+[278]
 catalognumber = "LACA-9624"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 矢澤にこ Memories with Nico Disc 1 [LACA-9624]"
@@ -4444,7 +4538,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cdf4a0ae-27e9-41b9-a8e9-2fbbd6bde794", "https://vgmdb.net/album/71680"]
 
-[275]
+[279]
 catalognumber = "LACA-9625"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 矢澤にこ Memories with Nico Disc 2 [LACA-9625]"
@@ -4460,7 +4554,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cdf4a0ae-27e9-41b9-a8e9-2fbbd6bde794", "https://vgmdb.net/album/71680"]
 
-[276]
+[280]
 catalognumber = "LACA-9626"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 矢澤にこ Memories with Nico Disc 3 [LACA-9626]"
@@ -4478,7 +4572,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cdf4a0ae-27e9-41b9-a8e9-2fbbd6bde794", "https://vgmdb.net/album/71680"]
 
-[277]
+[281]
 catalognumber = "LACA-9615"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 西木野真姫 Memories with Maki Disc 1 [LACA-9615]"
@@ -4500,7 +4594,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/88267dfc-fa60-4dbd-8989-2e0301115172", "https://vgmdb.net/album/71677"]
 
-[278]
+[282]
 catalognumber = "LACA-9616"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 西木野真姫 Memories with Maki Disc 2 [LACA-9616]"
@@ -4516,7 +4610,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/88267dfc-fa60-4dbd-8989-2e0301115172", "https://vgmdb.net/album/71677"]
 
-[279]
+[283]
 catalognumber = "LACA-9617"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 西木野真姫 Memories with Maki Disc 3 [LACA-9617]"
@@ -4534,7 +4628,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/88267dfc-fa60-4dbd-8989-2e0301115172", "https://vgmdb.net/album/71677"]
 
-[280]
+[284]
 catalognumber = "LACA-9609"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 園田海未 Memories with Umi Disc 1 [LACA-9609]"
@@ -4555,7 +4649,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95b1e1b0-4845-470b-bd5f-1c61ecc23a0e", "https://vgmdb.net/album/71675"]
 
-[281]
+[285]
 catalognumber = "LACA-9610"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 園田海未 Memories with Umi Disc 2 [LACA-9610]"
@@ -4571,7 +4665,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95b1e1b0-4845-470b-bd5f-1c61ecc23a0e", "https://vgmdb.net/album/71675"]
 
-[282]
+[286]
 catalognumber = "LACA-9611"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 園田海未 Memories with Umi Disc 3 [LACA-9611]"
@@ -4589,7 +4683,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95b1e1b0-4845-470b-bd5f-1c61ecc23a0e", "https://vgmdb.net/album/71675"]
 
-[283]
+[287]
 catalognumber = "LACA-9603"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 絢瀬絵里 Memories with Eli Disc 1 [LACA-9603]"
@@ -4611,7 +4705,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01713506-5ad8-41f2-9ad5-755643d70bd4", "https://vgmdb.net/album/71673"]
 
-[284]
+[288]
 catalognumber = "LACA-9604"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 絢瀬絵里 Memories with Eli Disc 2 [LACA-9604]"
@@ -4627,7 +4721,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01713506-5ad8-41f2-9ad5-755643d70bd4", "https://vgmdb.net/album/71673"]
 
-[285]
+[289]
 catalognumber = "LACA-9605"
 date = "2018-03-28"
 album = "ラブライブ! Solo Live! III from μ's 絢瀬絵里 Memories with Eli Disc 3 [LACA-9605]"
@@ -4645,7 +4739,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01713506-5ad8-41f2-9ad5-755643d70bd4", "https://vgmdb.net/album/71673"]
 
-[286]
+[290]
 catalognumber = "BCXA-1334"
 date = "2018-04-24"
 album = "Aqours オリジナルソングCD 5"
@@ -4657,7 +4751,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/72088"]
 
-[287]
+[291]
 catalognumber = "BCXA-1335"
 date = "2018-05-25"
 album = "Aqours オリジナルソングCD 6"
@@ -4669,7 +4763,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ded3adb0-a75f-48ad-8ddd-2a6a1439ca7e", "https://vgmdb.net/album/72089"]
 
-[288]
+[292]
 catalognumber = "BCXA-1336"
 date = "2018-06-22"
 album = "Aqours オリジナルソングCD 7"
@@ -4679,7 +4773,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/24a7bbf7-00d0-44f3-b8b0-da0d702a0e5f", "https://vgmdb.net/album/72090"]
 
-[289]
+[293]
 catalognumber = "AZCD-007"
 date = "2018-06-22"
 album = "Aqoursの女子会パーティー"
@@ -4690,7 +4784,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/72094"]
 
-[290]
+[294]
 catalognumber = "BEPC-0026"
 date = "2018-06-22"
 album = "Guilty!? Farewell party / Guilty Kiss"
@@ -4700,7 +4794,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/75369955-8de2-4520-97d6-3bd85f4f32a8", "https://vgmdb.net/album/72091"]
 
-[291]
+[295]
 catalognumber = "BEPC-0027"
 date = "2018-06-22"
 album = "卒業ですね / AZALEA"
@@ -4710,7 +4804,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a912ae78-7603-4f56-bf8b-3c3efb2182c7", "https://vgmdb.net/album/72093"]
 
-[292]
+[296]
 catalognumber = "BEPC-0025"
 date = "2018-06-22"
 album = "サクラバイバイ / CYaRon!"
@@ -4720,7 +4814,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d56c682b-72e9-49b3-b39e-f455edb8a796", "https://vgmdb.net/album/72092"]
 
-[293]
+[297]
 catalognumber = "LACM-14770"
 date = "2018-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2018"
@@ -4733,7 +4827,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/03ccdeeb-d82a-4df0-8fcf-7a73982f45cc", "https://vgmdb.net/album/76051"]
 
-[294]
+[298]
 catalognumber = "LACM-34770"
 date = "2018-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2018 GOLD EDITION Disc 1 (CD)"
@@ -4746,7 +4840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acae6b4f-7c93-4c8f-a25e-6aecafca49ff", "https://vgmdb.net/album/76052"]
 
-[295]
+[299]
 catalognumber = "LACM-34770"
 date = "2018-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2018 GOLD EDITION Disc 2 (DVD)"
@@ -4763,7 +4857,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acae6b4f-7c93-4c8f-a25e-6aecafca49ff", "https://vgmdb.net/album/76052"]
 
-[296]
+[300]
 catalognumber = "LACM-34770"
 date = "2018-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2018 GOLD EDITION Disc 3 (DVD)"
@@ -4780,7 +4874,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acae6b4f-7c93-4c8f-a25e-6aecafca49ff", "https://vgmdb.net/album/76052"]
 
-[297]
+[301]
 catalognumber = "LACM-34770"
 date = "2018-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2018 GOLD EDITION Disc 4 (DVD)"
@@ -4790,7 +4884,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acae6b4f-7c93-4c8f-a25e-6aecafca49ff", "https://vgmdb.net/album/76052"]
 
-[298]
+[302]
 catalognumber = "LACM-14800"
 date = "2018-08-01"
 album = "Thank you, FRIENDS!! / Aqours"
@@ -4805,7 +4899,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8a56b522-d24f-4186-b6f4-8d873656bdc7", "https://vgmdb.net/album/78378"]
 
-[299]
+[303]
 catalognumber = "MSW-0001"
 date = "2018-08-10"
 album = "Acoustic Works! LoveLive! Solo Guitar Collection"
@@ -4821,7 +4915,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b5855b2-f1ea-4a61-b916-f632102779f6", "https://vgmdb.net/album/85255"]
 
-[300]
+[304]
 catalognumber = "NPG-003"
 date = "2018-08-11"
 album = "my FAVORITE Aqours Vol.2"
@@ -4839,7 +4933,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bcdfd514-af42-4407-a722-aa9accb7e23b", "https://vgmdb.net/album/85618"]
 
-[301]
+[305]
 catalognumber = "LACZ-10012"
 date = "2018-11-16"
 album = "Thank you, FRIENDS!! SOLO CONCERT / Aqours"
@@ -4856,7 +4950,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ddfee68-02f1-4074-b8b5-18fa70eeaa79", "https://vgmdb.net/album/82091"]
 
-[302]
+[306]
 catalognumber = "LACA-15770"
 date = "2018-11-21"
 album = "TOKIMEKI Runners / 虹ヶ咲学園スクールアイドル同好会 Vocal"
@@ -4874,7 +4968,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a211d8f-b049-40dc-a9ed-33a06f2178ff", "https://vgmdb.net/album/80802"]
 
-[303]
+[307]
 catalognumber = "LACA-15770"
 date = "2018-11-21"
 album = "TOKIMEKI Runners / 虹ヶ咲学園スクールアイドル同好会 Vocal, Video"
@@ -4884,7 +4978,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/80802"]
 
-[304]
+[308]
 catalognumber = "LACZ-10009"
 date = "2018-11-24"
 album = "Marine Border Parasol / 高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺 曜(CV.斉藤朱夏)"
@@ -4894,7 +4988,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/75ac3858-19a9-435d-83ec-9aa6a7a4c440", "https://vgmdb.net/album/81671"]
 
-[305]
+[309]
 catalognumber = "LACZ-10008"
 date = "2018-11-24"
 album = "ハジマリロード / 津島善子(CV.小林愛香)、国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡 愛)"
@@ -4904,7 +4998,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/86d0760f-54ce-45a4-a09f-de9da90f98b7", "https://vgmdb.net/album/81670"]
 
-[306]
+[310]
 catalognumber = "LACZ-10010"
 date = "2018-11-24"
 album = "予測不可能Driving! / 松浦果南(CV.諏訪ななか)、黒澤ダイヤ(CV.小宮有紗)、小原鞠莉(CV.鈴木愛奈)"
@@ -4914,7 +5008,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d650aeec-93a9-4930-b144-8d52139a2e54", "https://vgmdb.net/album/81673"]
 
-[307]
+[311]
 catalognumber = "TOKU-1257"
 date = "2018-12-27"
 album = "ラブライブ! サンシャイン!! 高海千歌 Blu-rayジャケットVer. (限定版!!) モノローグCD"
@@ -4923,7 +5017,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82988"]
 
-[308]
+[312]
 catalognumber = ""
 date = "2019-01-20"
 album = "Aqours Symphonica♪"
@@ -4940,7 +5034,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/85635"]
 
-[309]
+[313]
 catalognumber = "LACM-14831"
 date = "2019-01-23"
 album = "僕らの走ってきた道は.../Next SPARKLING!! / Aqours"
@@ -4952,7 +5046,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/38ca97fd-56f3-41c6-ad7c-3cd17f22c60f", "https://vgmdb.net/album/81960"]
 
-[310]
+[314]
 catalognumber = "LACM-14832"
 date = "2019-01-30"
 album = "逃走迷走メビウスループ/Hop? Stop? Nonstop! / Aqours"
@@ -4964,7 +5058,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed519620-5dc6-47d5-b550-7919bc72316d", "https://vgmdb.net/album/81959"]
 
-[311]
+[315]
 catalognumber = "LACM-14833"
 date = "2019-02-06"
 album = "Believe again/Brightest Melody/Over The Next Rainbow / Saint Aqours Snow"
@@ -4979,7 +5073,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c3be554c-3f5a-4c1a-9364-2a4c4a27f4ce", "https://vgmdb.net/album/81958"]
 
-[312]
+[316]
 catalognumber = "LACA-9665"
 date = "2019-02-27"
 album = "『ラブライブ! サンシャイン!! The School Idol Movie Over the Rainbow』オリジナルサウンドトラック Sailing to the Rainbow Disc 1 [LACA-9665]"
@@ -5010,7 +5104,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5238fc75-b2c8-40cb-b0d8-876bdbab4163", "https://vgmdb.net/album/83194"]
 
-[313]
+[317]
 catalognumber = "LACA-9666"
 date = "2019-02-27"
 album = "『ラブライブ! サンシャイン!! The School Idol Movie Over the Rainbow』オリジナルサウンドトラック Sailing to the Rainbow Disc 2 [LACA-9666]"
@@ -5044,14 +5138,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5238fc75-b2c8-40cb-b0d8-876bdbab4163", "https://vgmdb.net/album/83194"]
 
-[314]
+[318]
 catalognumber = "TOKU-1258"
 date = "2019-02-28"
 album = "ラブライブ! サンシャイン!! 渡辺 曜 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82989"]
 
-[315]
+[319]
 catalognumber = ""
 date = "2019-03-03"
 album = "Totino's® Presents High Quality Video Game Rips Provided By Hinchy To Be Uploaded By SiIvaGunner (NEW FUNKY MODE): The Platinum Collection - Volume 2 (Featuring Pizza Rolls from the Sonic Series)"
@@ -5086,7 +5180,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87455"]
 
-[316]
+[320]
 catalognumber = "LABM-7280"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 1 [LABM-7280]"
@@ -5105,7 +5199,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122518"]
 
-[317]
+[321]
 catalognumber = "LABM-7281"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 2 [LABM-7281]"
@@ -5127,7 +5221,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122518"]
 
-[318]
+[322]
 catalognumber = "LABX-8333"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 1 [LABX-8333]"
@@ -5146,7 +5240,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121891"]
 
-[319]
+[323]
 catalognumber = "LABX-8334"
 date = "2019-03-06"
 album = "ラブライブ! サンシャイン!! Aqours 3rd LoveLive! Tour ～WONDERFUL STORIES～ Disc 2 [LABX-8334]"
@@ -5168,14 +5262,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121891"]
 
-[320]
+[324]
 catalognumber = "TOKU-1259"
 date = "2019-03-26"
 album = "ラブライブ! サンシャイン!! 桜内梨子 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82990"]
 
-[321]
+[325]
 catalognumber = "AICL-3676"
 date = "2019-04-03"
 album = "平成アニソン大賞 mixed by DJ和"
@@ -5226,7 +5320,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/40ab68df-50ba-4fd6-b295-d04708d93435", "https://vgmdb.net/album/91475"]
 
-[322]
+[326]
 catalognumber = "LAVZ-10001"
 date = "2019-05-15"
 album = "君のこころは輝いてるかい? / Aqours"
@@ -5244,7 +5338,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b444f7f7-653d-4a79-87f5-9203b331d7f1", "https://vgmdb.net/album/109309"]
 
-[323]
+[327]
 catalognumber = "LAVZ-10002"
 date = "2019-05-15"
 album = "恋になりたいAQUARIUM / Aqours"
@@ -5262,14 +5356,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cefe3395-bf75-4b4b-a3ce-fd0afe8b1949", "https://vgmdb.net/album/117768"]
 
-[324]
+[328]
 catalognumber = "TOKU-1260"
 date = "2019-05-21"
 album = "ラブライブ! サンシャイン!! 黒澤ルビィ Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82991"]
 
-[325]
+[329]
 catalognumber = "LACA-9677"
 date = "2019-05-22"
 album = "ラブライブ! 虹ヶ咲学園 ～お昼休み放送室～ドラマCD 放課後ファンタジア Disc 1 [LACA-9677]"
@@ -5295,7 +5389,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0e1df682-1b81-4b3a-945f-db120a0b66bf", "https://vgmdb.net/album/84455"]
 
-[326]
+[330]
 catalognumber = "LACA-9678"
 date = "2019-05-22"
 album = "ラブライブ! 虹ヶ咲学園 ～お昼休み放送室～ドラマCD 放課後ファンタジア Disc 2 [LACA-9678]"
@@ -5313,14 +5407,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0e1df682-1b81-4b3a-945f-db120a0b66bf", "https://vgmdb.net/album/84455"]
 
-[327]
+[331]
 catalognumber = "TOKU-1261"
 date = "2019-06-25"
 album = "ラブライブ! サンシャイン!! 国木田花丸 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82992"]
 
-[328]
+[332]
 catalognumber = "LACM-14860"
 date = "2019-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2019"
@@ -5333,7 +5427,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c321ed96-26ee-4757-9aef-ccc4cb30bdc8", "https://vgmdb.net/album/84861"]
 
-[329]
+[333]
 catalognumber = "LACM-34860"
 date = "2019-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2019 PLATINUM EDITION Disc 1 (CD) [LACM-34860]"
@@ -5346,7 +5440,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2045ec8e-01e3-4a60-b060-e168b372dde1", "https://vgmdb.net/album/84862"]
 
-[330]
+[334]
 catalognumber = "LACM-34860"
 date = "2019-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2019 PLATINUM EDITION Disc 2 (DVD) [LAPD-1527]"
@@ -5357,7 +5451,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2045ec8e-01e3-4a60-b060-e168b372dde1", "https://vgmdb.net/album/84862"]
 
-[331]
+[335]
 catalognumber = "LACM-34860"
 date = "2019-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2019 PLATINUM EDITION Disc 3 (DVD) [LAPD-1528]"
@@ -5369,7 +5463,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2045ec8e-01e3-4a60-b060-e168b372dde1", "https://vgmdb.net/album/84862"]
 
-[332]
+[336]
 catalognumber = "LACM-34860"
 date = "2019-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2019 PLATINUM EDITION Disc 4 (DVD) [LAPD-1529]"
@@ -5387,7 +5481,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2045ec8e-01e3-4a60-b060-e168b372dde1", "https://vgmdb.net/album/84862"]
 
-[333]
+[337]
 catalognumber = "BCXA-1441"
 date = "2019-07-26"
 album = "AqoursオリジナルソングCD"
@@ -5397,7 +5491,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da258a7d-7797-4f2a-b89d-49c7eb2f392e", "https://vgmdb.net/album/85984"]
 
-[334]
+[338]
 catalognumber = "AZCD-0005"
 date = "2019-07-26"
 album = "Aqoursのお泊りプラン ～イタリア編～"
@@ -5411,7 +5505,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/340a2b4a-0f7d-479d-83c1-08c61e48edba", "https://vgmdb.net/album/89038"]
 
-[335]
+[339]
 catalognumber = "LACZ-10019"
 date = "2019-07-26"
 album = "冒険Type A, B, C!! / Aqours"
@@ -5422,21 +5516,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4cc1fccd-a2be-47fe-a45d-4e7fce308118", "https://vgmdb.net/album/89369"]
 
-[336]
+[340]
 catalognumber = "TOKU-1262"
 date = "2019-08-27"
 album = "ラブライブ! サンシャイン!! 津島善子 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82993"]
 
-[337]
+[341]
 catalognumber = "TOKU-1263"
 date = "2019-09-24"
 album = "ラブライブ! サンシャイン!! 黒澤ダイヤ Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/82994"]
 
-[338]
+[342]
 catalognumber = "LACM-14881"
 date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal Disc 1"
@@ -5451,7 +5545,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7066affe-6b59-4a90-947e-f41c6c09bcbb", "https://vgmdb.net/album/87200"]
 
-[339]
+[343]
 catalognumber = "LACM-14881"
 date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal Disc 2"
@@ -5460,7 +5554,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7066affe-6b59-4a90-947e-f41c6c09bcbb", "https://vgmdb.net/album/87200"]
 
-[340]
+[344]
 catalognumber = "LACM-14880"
 date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal, Drama"
@@ -5475,7 +5569,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/954f61da-e2f9-4a26-bd52-70e548eda6d5", "https://vgmdb.net/album/87199"]
 
-[341]
+[345]
 catalognumber = "LACM-14880"
 date = "2019-09-25"
 album = "未体験HORIZON / Aqours Vocal"
@@ -5484,7 +5578,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/87199"]
 
-[342]
+[346]
 catalognumber = "LACA-15800"
 date = "2019-10-02"
 album = "Love U my friends / 虹ヶ咲学園スクールアイドル同好会"
@@ -5503,7 +5597,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68f6b8fc-41eb-433b-a48a-9412328932a5", "https://vgmdb.net/album/87198"]
 
-[343]
+[347]
 catalognumber = "ASTKC-1006"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Amazon.co.jp購入特典 μ's 2年生座談会!"
@@ -5512,7 +5606,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/90393"]
 
-[344]
+[348]
 catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 1"
@@ -5535,7 +5629,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53b75082-0887-4b6e-b13b-06475a1b6baa", "https://vgmdb.net/album/88269"]
 
-[345]
+[349]
 catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 2"
@@ -5558,7 +5652,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53b75082-0887-4b6e-b13b-06475a1b6baa", "https://vgmdb.net/album/88269"]
 
-[346]
+[350]
 catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 3"
@@ -5581,7 +5675,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53b75082-0887-4b6e-b13b-06475a1b6baa", "https://vgmdb.net/album/88269"]
 
-[347]
+[351]
 catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 4"
@@ -5598,7 +5692,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53b75082-0887-4b6e-b13b-06475a1b6baa", "https://vgmdb.net/album/88269"]
 
-[348]
+[352]
 catalognumber = "BCXA-1494"
 date = "2019-10-25"
 album = "ラブライブ! 9th Anniversary Blu-ray BOX Special CD Disc 5"
@@ -5622,7 +5716,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53b75082-0887-4b6e-b13b-06475a1b6baa", "https://vgmdb.net/album/88269"]
 
-[349]
+[353]
 catalognumber = "LACM-14930"
 date = "2019-10-30"
 album = "KOKORO Magic \"A to Z\" / Aqours Disc 1 (CD) [LACM-14930]"
@@ -5634,7 +5728,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6cf35c9d-b30e-4133-a12b-d6bf429b9f02", "https://vgmdb.net/album/87201"]
 
-[350]
+[354]
 catalognumber = "LACM-14930"
 date = "2019-10-30"
 album = "KOKORO Magic \"A to Z\" / Aqours Disc 2 (Blu-ray) [LAPD-1553]"
@@ -5643,14 +5737,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6cf35c9d-b30e-4133-a12b-d6bf429b9f02", "https://vgmdb.net/album/87201"]
 
-[351]
+[355]
 catalognumber = "TOKU-1264"
 date = "2019-11-26"
 album = "ラブライブ! サンシャイン!! 松浦果南 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/83838"]
 
-[352]
+[356]
 catalognumber = "LACM-14931"
 date = "2019-11-27"
 album = "New Romantic Sailors / Guilty Kiss"
@@ -5664,7 +5758,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0dea6529-43f8-4b92-b6fd-6db94644b938", "https://vgmdb.net/album/90090"]
 
-[353]
+[357]
 catalognumber = "LACA-15801"
 date = "2019-11-27"
 album = "naked garden / ChouCho"
@@ -5682,7 +5776,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b404cf9f-bff9-4e95-9b9a-801fd04a151e", "https://vgmdb.net/album/90456"]
 
-[354]
+[358]
 catalognumber = "LACM-14932"
 date = "2019-12-04"
 album = "Braveheart Coaster / CYaRon!"
@@ -5696,7 +5790,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/485cbccc-fc46-494b-8b2b-912ebf3fb1c2", "https://vgmdb.net/album/90091"]
 
-[355]
+[359]
 catalognumber = "LACM-14933"
 date = "2019-12-11"
 album = "Amazing Travel DNA / AZALEA"
@@ -5710,7 +5804,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a51a8220-af40-4377-a26b-ccf25040bfaa", "https://vgmdb.net/album/90092"]
 
-[356]
+[360]
 catalognumber = "LACA-9721"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 1 [LACA-9721]"
@@ -5730,7 +5824,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[357]
+[361]
 catalognumber = "LACA-9722"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 2 [LACA-9722]"
@@ -5748,7 +5842,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[358]
+[362]
 catalognumber = "LACA-9723"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 3 [LACA-9723]"
@@ -5763,7 +5857,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[359]
+[363]
 catalognumber = "LACA-9724"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 4 [LACA-9724]"
@@ -5781,7 +5875,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[360]
+[364]
 catalognumber = "LACA-9725"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 5 [LACA-9725]"
@@ -5796,7 +5890,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[361]
+[365]
 catalognumber = "LACA-9726"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 6 [LACA-9726]"
@@ -5814,7 +5908,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[362]
+[366]
 catalognumber = "LACA-9727"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 7 [LACA-9727]"
@@ -5833,7 +5927,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[363]
+[367]
 catalognumber = "LACA-9728"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 8 [LACA-9728]"
@@ -5851,7 +5945,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[364]
+[368]
 catalognumber = "LACA-9729"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 9 [LACA-9729]"
@@ -5869,7 +5963,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[365]
+[369]
 catalognumber = "LACA-9730"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 10 [LACA-9730]"
@@ -5886,7 +5980,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[366]
+[370]
 catalognumber = "LACA-9731"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 11 [LACA-9731]"
@@ -5904,7 +5998,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[367]
+[371]
 catalognumber = "LACA-9732"
 date = "2019-12-25"
 album = "μ's Memorial CD-BOX Complete BEST BOX Disc 12 [LACA-9732]"
@@ -5922,14 +6016,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a30afa3f-19a1-4043-8903-4d5fb9d21fb3", "https://vgmdb.net/album/89669"]
 
-[368]
+[372]
 catalognumber = "TOKU-1265"
 date = "2020-01-21"
 album = "ラブライブ! サンシャイン!! 小原鞠莉 Blu-rayジャケットVer. (限定版!!) モノローグCD"
 tracks = []
 links = ["https://vgmdb.net/album/84907"]
 
-[369]
+[373]
 catalognumber = "LAPP-1115"
 date = "2020-02-05"
 album = "Guilty Night, Guilty Kiss! / STEREO DIVE FOUNDATION"
@@ -5938,7 +6032,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/96091"]
 
-[370]
+[374]
 catalognumber = "LACM-14971"
 date = "2020-02-12"
 album = "Dream Land! Dream World! / A·ZU·NA"
@@ -5951,7 +6045,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68b0ad82-0469-4eca-9083-ab8b1ee82979", "https://vgmdb.net/album/92837"]
 
-[371]
+[375]
 catalognumber = "LACM-14970"
 date = "2020-02-12"
 album = "SUPER NOVA / DiverDiva"
@@ -5964,7 +6058,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/340ce4d8-e8d0-427e-a4af-2fa47901d2ef", "https://vgmdb.net/album/92833"]
 
-[372]
+[376]
 catalognumber = "LACM-14972"
 date = "2020-02-12"
 album = "Sing & Smile!! / QU4RTZ"
@@ -5977,7 +6071,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2a3b0752-97fa-4239-ab75-dc2e560775b5", "https://vgmdb.net/album/92838"]
 
-[373]
+[377]
 catalognumber = "LACA-9743"
 date = "2020-03-18"
 album = "ラブライブ! 虹ヶ咲学園 〜お昼休み放送室〜 ドラマCD 日常コンチェルト Disc 1 [LACA-9743]"
@@ -5996,7 +6090,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7a82e907-eabd-45f7-a4be-075dcc401d2f", "https://vgmdb.net/album/94690"]
 
-[374]
+[378]
 catalognumber = "LACA-9744"
 date = "2020-03-18"
 album = "ラブライブ! 虹ヶ咲学園 〜お昼休み放送室〜 ドラマCD 日常コンチェルト Disc 2 [LACA-9744]"
@@ -6013,7 +6107,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7a82e907-eabd-45f7-a4be-075dcc401d2f", "https://vgmdb.net/album/94690"]
 
-[375]
+[379]
 catalognumber = "LACM-14950"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal"
@@ -6025,7 +6119,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cad708a1-c9fa-4169-8856-74a2c05c4f61", "https://vgmdb.net/album/93532"]
 
-[376]
+[380]
 catalognumber = "LACM-14950"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal, Video"
@@ -6034,7 +6128,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cad708a1-c9fa-4169-8856-74a2c05c4f61", "https://vgmdb.net/album/93532"]
 
-[377]
+[381]
 catalognumber = "LACM-14951"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal"
@@ -6046,7 +6140,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/905a085c-473d-4361-b304-95894700fe67", "https://vgmdb.net/album/93531"]
 
-[378]
+[382]
 catalognumber = "LACM-14951"
 date = "2020-03-25"
 album = "A song for You! You? You!! / μ's Vocal, Video"
@@ -6055,7 +6149,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/905a085c-473d-4361-b304-95894700fe67", "https://vgmdb.net/album/93531"]
 
-[379]
+[383]
 catalognumber = "BNEFCDDAY2"
 date = "2020-04"
 album = "バンダイナムコエンターテインメントフェスティバル NON-STOP MIX CD DAY2"
@@ -6107,7 +6201,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/94587"]
 
-[380]
+[384]
 catalognumber = "LACZ-10030"
 date = "2020-05"
 album = "シャゼリア☆キッス☆ダダンダーン / シャゼリア☆キッス"
@@ -6117,7 +6211,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fab73271-4182-4cd2-b30a-e4fc14adff43", "https://vgmdb.net/album/98657"]
 
-[381]
+[385]
 catalognumber = "USSW-0246"
 date = "2020-05-27"
 album = "Yumi Matsuzawa AnimeSong Cover Album"
@@ -6136,7 +6230,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/97e56fa1-698f-4831-8c35-81ce4cbb4bc0", "https://vgmdb.net/album/97011"]
 
-[382]
+[386]
 catalognumber = "LACM-14990"
 date = "2020-07-22"
 album = "Fantastic Departure! / Aqours"
@@ -6151,7 +6245,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5e454c33-be2e-4c5e-a67b-7dd768296821", "https://vgmdb.net/album/97700"]
 
-[383]
+[387]
 catalognumber = "LACM-14980"
 date = "2020-07-29"
 album = "無敵級*ビリーバー / 中須かすみ(CV:相良茉優) from 虹ヶ咲学園スクールアイドル同好会 Vocal, Drama"
@@ -6162,7 +6256,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/16d258bb-0a53-48d6-825f-c07ec5f83008", "https://vgmdb.net/album/99270"]
 
-[384]
+[388]
 catalognumber = "LACM-14980"
 date = "2020-07-29"
 album = "無敵級*ビリーバー / 中須かすみ(CV:相良茉優) from 虹ヶ咲学園スクールアイドル同好会 Vocal, Video"
@@ -6172,7 +6266,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4d6aa14-8693-4ba2-97ca-66c9ffa6ce76", "https://vgmdb.net/album/99270"]
 
-[385]
+[389]
 catalognumber = "LACM-14981"
 date = "2020-07-29"
 album = "無敵級*ビリーバー / 中須かすみ(CV:相良茉優) from 虹ヶ咲学園スクールアイドル同好会 Vocal, Drama"
@@ -6183,7 +6277,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5193811e-d0b9-43b4-a255-b288fd9826f7", "https://vgmdb.net/album/99271"]
 
-[386]
+[390]
 catalognumber = "LACM-14981"
 date = "2020-07-29"
 album = "無敵級*ビリーバー / 中須かすみ(CV:相良茉優) from 虹ヶ咲学園スクールアイドル同好会 Vocal, Video"
@@ -6193,7 +6287,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/16d258bb-0a53-48d6-825f-c07ec5f83008", "https://vgmdb.net/album/99271"]
 
-[387]
+[391]
 catalognumber = "LACA-9760"
 date = "2020-08-01"
 album = "LoveLive! Sunshine!! Takami Chika First Solo Concert ALBUM ~One More Sunshine Story~ Disc 1 [LACA-9760]"
@@ -6208,7 +6302,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e7abb188-fd08-4661-a365-0823efeda7bd", "https://vgmdb.net/album/97686"]
 
-[388]
+[392]
 catalognumber = "LACA-9761"
 date = "2020-08-01"
 album = "LoveLive! Sunshine!! Takami Chika First Solo Concert ALBUM ~One More Sunshine Story~ Disc 2 [LACA-9761]"
@@ -6225,7 +6319,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e7abb188-fd08-4661-a365-0823efeda7bd", "https://vgmdb.net/album/97686"]
 
-[389]
+[393]
 catalognumber = "LACM-14934"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Drama"
@@ -6240,7 +6334,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b6d54515-f5cf-4078-be87-7ad1a07d388b", "https://vgmdb.net/album/99473"]
 
-[390]
+[394]
 catalognumber = "LACM-14934"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Video"
@@ -6249,7 +6343,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b6d54515-f5cf-4078-be87-7ad1a07d388b", "https://vgmdb.net/album/99473"]
 
-[391]
+[395]
 catalognumber = "LACM-14935"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Drama"
@@ -6264,7 +6358,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a091644a-b514-40cf-ad97-ddaa21a7582f", "https://vgmdb.net/album/99474"]
 
-[392]
+[396]
 catalognumber = "LACM-14935"
 date = "2020-08-19"
 album = "Dazzling White Town / Saint Snow Vocal, Video"
@@ -6273,7 +6367,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a091644a-b514-40cf-ad97-ddaa21a7582f", "https://vgmdb.net/album/99474"]
 
-[393]
+[397]
 catalognumber = "LACM-34010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020 BLACK EDITION Vocal"
@@ -6292,7 +6386,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5e43c23-897a-4217-89ba-e9a73e2e2bb1", "https://vgmdb.net/album/97696"]
 
-[394]
+[398]
 catalognumber = "LACM-34010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020 BLACK EDITION Talk Disc 2"
@@ -6320,7 +6414,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5e43c23-897a-4217-89ba-e9a73e2e2bb1", "https://vgmdb.net/album/97696"]
 
-[395]
+[399]
 catalognumber = "LACM-34010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020 BLACK EDITION Talk Disc 3"
@@ -6345,7 +6439,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5e43c23-897a-4217-89ba-e9a73e2e2bb1", "https://vgmdb.net/album/97696"]
 
-[396]
+[400]
 catalognumber = "LACM-34010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020 BLACK EDITION Video Disc 4"
@@ -6358,7 +6452,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5e43c23-897a-4217-89ba-e9a73e2e2bb1", "https://vgmdb.net/album/97696"]
 
-[397]
+[401]
 catalognumber = "LACM-34010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020 BLACK EDITION Video Disc 5"
@@ -6370,7 +6464,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5e43c23-897a-4217-89ba-e9a73e2e2bb1", "https://vgmdb.net/album/97696"]
 
-[398]
+[402]
 catalognumber = "LACM-24010"
 date = "2020-08-26"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2020"
@@ -6389,7 +6483,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9469225d-a0f5-4c2b-93f4-b230dc08df68", "https://vgmdb.net/album/97695"]
 
-[399]
+[403]
 catalognumber = "LACA-15840"
 date = "2020-09-02"
 album = "Just Believe!!! / 虹ヶ咲学園スクールアイドル同好会"
@@ -6409,7 +6503,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/456cd47d-ac15-4218-bd23-bfbca1de0c5d", "https://vgmdb.net/album/99272"]
 
-[400]
+[404]
 catalognumber = "LACA-9762"
 date = "2020-09-19"
 album = "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert ALBUM ~Pianoforte Monologue~ Disc 1 [LACA-9762]"
@@ -6424,7 +6518,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b0f33d52-f073-4134-b02f-906678ff76c5", "https://vgmdb.net/album/97687"]
 
-[401]
+[405]
 catalognumber = "LACA-9763"
 date = "2020-09-19"
 album = "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert ALBUM ~Pianoforte Monologue~ Disc 2 [LACA-9763]"
@@ -6441,7 +6535,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b0f33d52-f073-4134-b02f-906678ff76c5", "https://vgmdb.net/album/97687"]
 
-[402]
+[406]
 catalognumber = "LACA-9764"
 date = "2020-09-21"
 album = "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert ALBUM ~RED GEM WINK~ Disc 1 [LACA-9764]"
@@ -6456,7 +6550,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d51ea2ee-2df7-4c2c-a7ac-2c2a085593de", "https://vgmdb.net/album/97688"]
 
-[403]
+[407]
 catalognumber = "LACA-9765"
 date = "2020-09-21"
 album = "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert ALBUM ~RED GEM WINK~ Disc 2 [LACA-9765]"
@@ -6473,7 +6567,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d51ea2ee-2df7-4c2c-a7ac-2c2a085593de", "https://vgmdb.net/album/97688"]
 
-[404]
+[408]
 catalognumber = "LACA-9780"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 1 [LACA-9780]"
@@ -6490,7 +6584,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/97698"]
 
-[405]
+[409]
 catalognumber = "LACA-9781"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 2 [LACA-9781]"
@@ -6513,7 +6607,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/683b0dcd-61b3-4806-b0ba-bc0e13159b8f", "https://vgmdb.net/album/97698"]
 
-[406]
+[410]
 catalognumber = "LACA-9782"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 3 [LACA-9782]"
@@ -6530,7 +6624,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/97698"]
 
-[407]
+[411]
 catalognumber = "LACA-9783"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 4 [LACA-9783]"
@@ -6550,35 +6644,35 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/97698"]
 
-[408]
+[412]
 catalognumber = "LACA-39780"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 1"
 tracks = []
 links = ["https://vgmdb.net/album/97699"]
 
-[409]
+[413]
 catalognumber = "LACA-39781"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 2"
 tracks = []
 links = ["https://vgmdb.net/album/97699"]
 
-[410]
+[414]
 catalognumber = "LACA-39782"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 3"
 tracks = []
 links = ["https://vgmdb.net/album/97699"]
 
-[411]
+[415]
 catalognumber = "LACA-39783"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Disc 4"
 tracks = []
 links = ["https://vgmdb.net/album/97699"]
 
-[412]
+[416]
 catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 1"
@@ -6595,7 +6689,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101818"]
 
-[413]
+[417]
 catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 2"
@@ -6618,7 +6712,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/101818"]
 
-[414]
+[418]
 catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 3"
@@ -6635,7 +6729,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101818"]
 
-[415]
+[419]
 catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 4"
@@ -6655,7 +6749,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101818"]
 
-[416]
+[420]
 catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal, Video"
@@ -6682,7 +6776,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101818"]
 
-[417]
+[421]
 catalognumber = "LACM-24050"
 date = "2020-10-21"
 album = "虹色Passions! / 虹ヶ咲学園スクールアイドル同好会"
@@ -6694,7 +6788,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d00359fc-a6b0-4540-8ffe-a221f196e13b", "https://vgmdb.net/album/102276"]
 
-[418]
+[422]
 catalognumber = "AICL-3928"
 date = "2020-10-28"
 album = "リスアニ! MIX by DJ和 ～10th Anniversary Selection～"
@@ -6746,7 +6840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e0becd9d-9a87-4616-bbdf-f371df067cf2", "https://vgmdb.net/album/105306"]
 
-[419]
+[423]
 catalognumber = "LACM-24051"
 date = "2020-11-04"
 album = "NEO SKY, NEO MAP! / 虹ヶ咲学園スクールアイドル同好会"
@@ -6758,7 +6852,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ac9c3877-a62f-4c4d-89f5-ccc87728653e", "https://vgmdb.net/album/102277"]
 
-[420]
+[424]
 catalognumber = "LACM-24052"
 date = "2020-11-18"
 album = "Dream with You/Poppin' Up!/DIVE! / 上原歩夢 (CV.大西亜玖璃)、中須かすみ (CV.相良茉優)、優木せつ菜 (CV.楠木ともり) from 虹ヶ咲学園スクールアイドル同好会 [上原歩夢盤]"
@@ -6772,7 +6866,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0ffd7fae-a88a-4072-9410-31f9f8ddb37b", "https://vgmdb.net/album/102279"]
 
-[421]
+[425]
 catalognumber = "LACM-24053"
 date = "2020-11-18"
 album = "Dream with You/Poppin' Up!/DIVE! / 上原歩夢 (CV.大西亜玖璃)、中須かすみ (CV.相良茉優)、優木せつ菜 (CV.楠木ともり) from 虹ヶ咲学園スクールアイドル同好会 [中須かすみ盤]"
@@ -6786,7 +6880,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/42206761-ded8-41e9-8ff4-8a14f327e0cb", "https://vgmdb.net/album/102280"]
 
-[422]
+[426]
 catalognumber = "LACM-24054"
 date = "2020-11-18"
 album = "Dream with You/Poppin' Up!/DIVE! / 上原歩夢 (CV.大西亜玖璃)、中須かすみ (CV.相良茉優)、優木せつ菜 (CV.楠木ともり) from 虹ヶ咲学園スクールアイドル同好会 [優木せつ菜盤]"
@@ -6800,7 +6894,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e72c3b5-560a-43ed-ae71-516111379a45", "https://vgmdb.net/album/102281"]
 
-[423]
+[427]
 catalognumber = "LACM-24055"
 date = "2020-12-02"
 album = "サイコーハート/La Bella Patria/ツナガルコネクト / 宮下愛(CV.村上奈津実)、エマ・ヴェルデ(CV.指出毬亜)、天王寺璃奈(CV.田中ちえ美) from 虹ヶ咲学園スクールアイドル同好会 [宮下愛盤]"
@@ -6814,7 +6908,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/83a25fe7-7090-496a-bf29-03d1e919f006", "https://vgmdb.net/album/103700"]
 
-[424]
+[428]
 catalognumber = "LACM-24056"
 date = "2020-12-02"
 album = "サイコーハート/La Bella Patria/ツナガルコネクト / 宮下愛(CV.村上奈津実)、エマ・ヴェルデ(CV.指出毬亜)、天王寺璃奈(CV.田中ちえ美) from 虹ヶ咲学園スクールアイドル同好会 [エマ・ヴェルデ盤]"
@@ -6828,7 +6922,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8582e075-6e0a-48e0-a4c4-4baeb69cab17", "https://vgmdb.net/album/103701"]
 
-[425]
+[429]
 catalognumber = "LACM-24057"
 date = "2020-12-02"
 album = "サイコーハート/La Bella Patria/ツナガルコネクト / 宮下愛(CV.村上奈津実)、エマ・ヴェルデ(CV.指出毬亜)、天王寺璃奈(CV.田中ちえ美) from 虹ヶ咲学園スクールアイドル同好会 [天王寺璃奈盤]"
@@ -6842,7 +6936,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01f441ee-0626-47ef-9049-3e999ae1e08b", "https://vgmdb.net/album/103702"]
 
-[426]
+[430]
 catalognumber = "LACM-24030"
 date = "2020-12-09"
 album = "ラブライブ! サンシャイン!! デュオトリオコレクションCD VOL.2 WINTER VACATION"
@@ -6856,7 +6950,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28d1cf31-6ea0-4d53-8c1e-71ac1263c873", "https://vgmdb.net/album/100948"]
 
-[427]
+[431]
 catalognumber = "LACM-24058"
 date = "2020-12-16"
 album = "Butterfly/Solitude Rain/VIVID WORLD / 近江彼方 (CV: 鬼頭明里)、桜坂しずく (CV: 前田佳織里)、朝香果林 (CV: 久保田未夢) from 虹ヶ咲学園スクールアイドル同好会 [近江彼方盤]"
@@ -6870,7 +6964,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/09e09320-0e58-4539-8f1f-f9558fdfc3e4", "https://vgmdb.net/album/103703"]
 
-[428]
+[432]
 catalognumber = "LACM-24059"
 date = "2020-12-16"
 album = "Butterfly/Solitude Rain/VIVID WORLD / 近江彼方 (CV: 鬼頭明里)、桜坂しずく (CV: 前田佳織里)、朝香果林 (CV: 久保田未夢) from 虹ヶ咲学園スクールアイドル同好会 [桜坂しずく盤]"
@@ -6884,7 +6978,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c9a95c9d-b095-401f-8229-e7d92885158b", "https://vgmdb.net/album/103704"]
 
-[429]
+[433]
 catalognumber = "LACM-24060"
 date = "2020-12-16"
 album = "Butterfly/Solitude Rain/VIVID WORLD / 近江彼方 (CV: 鬼頭明里)、桜坂しずく (CV: 前田佳織里)、朝香果林 (CV: 久保田未夢) from 虹ヶ咲学園スクールアイドル同好会 [朝香果林盤]"
@@ -6898,7 +6992,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c0bcfb80-b5bb-4dd4-8ff9-16aa639aa977", "https://vgmdb.net/album/103705"]
 
-[430]
+[434]
 catalognumber = "BCXA-1590"
 date = "2020-12-24"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.01"
@@ -6908,7 +7002,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/db643d5c-ce16-46b9-b439-bedc349e0bd4", "https://vgmdb.net/album/104656"]
 
-[431]
+[435]
 catalognumber = "LACA-9766"
 date = "2021-01-01"
 album = "LoveLive! Sunshine!! Kurosawa Dia First Solo Concert ALBUM ~WHITE FIRST LOVE~ Disc 1 [LACA-9766]"
@@ -6923,7 +7017,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8a547cd1-420e-442f-aa24-2b3569525ac1", "https://vgmdb.net/album/97689"]
 
-[432]
+[436]
 catalognumber = "LACA-9767"
 date = "2021-01-01"
 album = "LoveLive! Sunshine!! Kurosawa Dia First Solo Concert ALBUM ~WHITE FIRST LOVE~ Disc 2 [LACA-9767]"
@@ -6940,7 +7034,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8a547cd1-420e-442f-aa24-2b3569525ac1", "https://vgmdb.net/album/97689"]
 
-[433]
+[437]
 catalognumber = "SGFR-0001"
 date = "2021-01-01"
 album = "Halation Celebration ~ 10th Anniversary Tribute to Snow halation"
@@ -6972,7 +7066,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1b65b4cd-4d56-44dd-a3fa-0b4f772e9e7f", "https://vgmdb.net/album/109222"]
 
-[434]
+[438]
 catalognumber = "LACM-24061"
 date = "2021-01-13"
 album = "Awakening Promise/夢がここからはじまるよ / 虹ヶ咲学園スクールアイドル同好会"
@@ -6984,7 +7078,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/66e68b59-ff36-4662-883e-1516ed9a70c8", "https://vgmdb.net/album/104783"]
 
-[435]
+[439]
 catalognumber = "BCXA-1591"
 date = "2021-01-27"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.02"
@@ -6994,7 +7088,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af2d2ec7-ac18-43ef-beee-12a0fd664c6a", "https://vgmdb.net/album/104657"]
 
-[436]
+[440]
 catalognumber = "LACA-9796"
 date = "2021-01-27"
 album = "TVアニメ『ラブライブ! 虹ヶ咲学園スクールアイドル同好会』オリジナルサウンドトラック Sound of TOKIMEKI Disc 1 [LACA-9796]"
@@ -7037,7 +7131,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e105444f-b0ec-4141-b315-e9419da6a6fe", "https://vgmdb.net/album/106134"]
 
-[437]
+[441]
 catalognumber = "LACA-9797"
 date = "2021-01-27"
 album = "TVアニメ『ラブライブ! 虹ヶ咲学園スクールアイドル同好会』オリジナルサウンドトラック Sound of TOKIMEKI Disc 2 [LACA-9797]"
@@ -7081,7 +7175,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e105444f-b0ec-4141-b315-e9419da6a6fe", "https://vgmdb.net/album/106134"]
 
-[438]
+[442]
 catalognumber = "LACA-9768"
 date = "2021-02-10"
 album = "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert ALBUM ～さかなかなんだか?～ Disc 1 [LACA-9768]"
@@ -7096,7 +7190,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ca396042-fdd5-4312-ac5e-083c282d8f78", "https://vgmdb.net/album/97690"]
 
-[439]
+[443]
 catalognumber = "LACA-9769"
 date = "2021-02-10"
 album = "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert ALBUM ～さかなかなんだか?～ Disc 2 [LACA-9769]"
@@ -7113,7 +7207,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/43f21f58-fa26-459d-988f-6234da2dd032", "https://vgmdb.net/album/97690"]
 
-[440]
+[444]
 catalognumber = "LACA-9810"
 date = "2021-02-24"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう放送室～ ドラマCD 青春カプリッチョ Disc 1 [LACA-9810]"
@@ -7137,7 +7231,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/539dbb9a-3c82-45e2-83ab-b2ebb9244924", "https://vgmdb.net/album/107281"]
 
-[441]
+[445]
 catalognumber = "LACA-9811"
 date = "2021-02-24"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう放送室～ ドラマCD 青春カプリッチョ Disc 2 [LACA-9811]"
@@ -7152,7 +7246,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/539dbb9a-3c82-45e2-83ab-b2ebb9244924", "https://vgmdb.net/album/107281"]
 
-[442]
+[446]
 catalognumber = "BCXA-1592"
 date = "2021-02-25"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.03"
@@ -7162,7 +7256,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a253324e-1893-4b8b-8614-31b5eca8c29d", "https://vgmdb.net/album/104658"]
 
-[443]
+[447]
 catalognumber = "LACA-9770"
 date = "2021-03-04"
 album = "LoveLive! Sunshine!! Kunikida Hanamaru First Solo Concert ALBUM ～おやすみなさん!～ Disc 1 [LACA-9770]"
@@ -7177,7 +7271,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/89e6c38e-def5-4837-8e3b-0146b1a48ab5", "https://vgmdb.net/album/97691"]
 
-[444]
+[448]
 catalognumber = "LACA-9771"
 date = "2021-03-04"
 album = "LoveLive! Sunshine!! Kunikida Hanamaru First Solo Concert ALBUM ～おやすみなさん!～ Disc 2 [LACA-9771]"
@@ -7194,7 +7288,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a6d09726-a1b2-46e8-922d-03151e1781e3", "https://vgmdb.net/album/97691"]
 
-[445]
+[449]
 catalognumber = ""
 date = "2021-03-05"
 album = "fusoxide's Works Vol. 1"
@@ -7236,7 +7330,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109612"]
 
-[446]
+[450]
 catalognumber = "BCXA-1593"
 date = "2021-03-26"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.04"
@@ -7246,7 +7340,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d1bde38a-2f64-4701-a74c-8c12da45120f", "https://vgmdb.net/album/104659"]
 
-[447]
+[451]
 catalognumber = "LACZ-10060"
 date = "2021-03-26"
 album = "Voices vol.1 ～アニソンコーラスカバーアルバム～ / ヒーラーガールズ"
@@ -7259,7 +7353,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da91c2c0-a607-42d1-ad01-82b360701756", "https://vgmdb.net/album/107995"]
 
-[448]
+[452]
 catalognumber = "LACM-24091"
 date = "2021-03-31"
 album = "smile smile ship Start! / Aqours Vocal Disc 1"
@@ -7274,7 +7368,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107785"]
 
-[449]
+[453]
 catalognumber = "LACM-24091"
 date = "2021-03-31"
 album = "smile smile ship Start! / Aqours Vocal Disc 2"
@@ -7283,7 +7377,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107785"]
 
-[450]
+[454]
 catalognumber = "LACM-24090"
 date = "2021-03-31"
 album = "smile smile ship Start! / Aqours Vocal, Drama"
@@ -7298,7 +7392,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fb3ec3d0-69a2-4762-baa3-ead49b795104", "https://vgmdb.net/album/107784"]
 
-[451]
+[455]
 catalognumber = "LACM-24090"
 date = "2021-03-31"
 album = "smile smile ship Start! / Aqours Vocal, Video"
@@ -7307,7 +7401,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fb3ec3d0-69a2-4762-baa3-ead49b795104", "https://vgmdb.net/album/107784"]
 
-[452]
+[456]
 catalognumber = "LACM-24100"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [みんなで叶える物語盤] Vocal, Drama"
@@ -7323,7 +7417,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b581449-0f33-4014-b5c0-8d6b8c081b5b", "https://vgmdb.net/album/108159"]
 
-[453]
+[457]
 catalognumber = "LACM-24100"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [みんなで叶える物語盤] Vocal, Video"
@@ -7332,7 +7426,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b581449-0f33-4014-b5c0-8d6b8c081b5b", "https://vgmdb.net/album/108159"]
 
-[454]
+[458]
 catalognumber = "LACM-24103"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [私を叶える物語盤] Vocal, Drama"
@@ -7351,7 +7445,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108162"]
 
-[455]
+[459]
 catalognumber = "LACM-24103"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [私を叶える物語盤] Vocal, Video"
@@ -7360,7 +7454,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108162"]
 
-[456]
+[460]
 catalognumber = "LACM-24102"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [みんなで叶える物語盤] Vocal, Drama"
@@ -7376,7 +7470,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108160"]
 
-[457]
+[461]
 catalognumber = "LACM-24102"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [みんなで叶える物語盤] Vocal, Video"
@@ -7385,7 +7479,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108160"]
 
-[458]
+[462]
 catalognumber = "LACM-24101"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [私を叶える物語盤] Vocal, Drama"
@@ -7404,7 +7498,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e92df675-cc80-4b71-a257-205f01b897b8", "https://vgmdb.net/album/108161"]
 
-[459]
+[463]
 catalognumber = "LACM-24101"
 date = "2021-04-07"
 album = "始まりは君の空 / Liella! [私を叶える物語盤] Vocal, Video"
@@ -7413,7 +7507,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e92df675-cc80-4b71-a257-205f01b897b8", "https://vgmdb.net/album/108161"]
 
-[460]
+[464]
 catalognumber = "LACA-9772"
 date = "2021-04-17"
 album = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~ Disc 1 [LACA-9772]"
@@ -7428,7 +7522,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/042578f5-db29-4b14-af6c-958f82c7080e", "https://vgmdb.net/album/97692"]
 
-[461]
+[465]
 catalognumber = "LACA-9773"
 date = "2021-04-17"
 album = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~ Disc 2 [LACA-9773]"
@@ -7445,7 +7539,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/042578f5-db29-4b14-af6c-958f82c7080e", "https://vgmdb.net/album/97692"]
 
-[462]
+[466]
 catalognumber = "BCXA-1594"
 date = "2021-04-27"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.05"
@@ -7455,7 +7549,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/431d37bd-269b-4b01-9a69-5a6099fa0257", "https://vgmdb.net/album/104660"]
 
-[463]
+[467]
 catalognumber = "LACM-24131"
 date = "2021-05-26"
 album = "THE SECRET NiGHT / DiverDiva"
@@ -7468,7 +7562,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f8b148bb-4ab4-4e34-bfd0-250b6fce1326", "https://vgmdb.net/album/109796"]
 
-[464]
+[468]
 catalognumber = "BCXA-1595"
 date = "2021-05-26"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.06"
@@ -7478,7 +7572,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f1142343-9086-475d-959c-c9c7d2ee525c", "https://vgmdb.net/album/104661"]
 
-[465]
+[469]
 catalognumber = "LACA-15881"
 date = "2021-06-02"
 album = "ある日...永遠みたいに! / CYaRon!"
@@ -7500,7 +7594,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3251d98e-3dd8-44c2-a693-341fe7675990", "https://vgmdb.net/album/109793"]
 
-[466]
+[470]
 catalognumber = "LACA-9774"
 date = "2021-06-13"
 album = "LoveLive! Sunshine!! Ohara Mari First Solo Concert ALBUM ~New winding road~ Disc 1 [LACA-9774]"
@@ -7515,7 +7609,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/caae7b93-993a-45a3-b0f8-e10d037c8e6a", "https://vgmdb.net/album/97693"]
 
-[467]
+[471]
 catalognumber = "LACA-9775"
 date = "2021-06-13"
 album = "LoveLive! Sunshine!! Ohara Mari First Solo Concert ALBUM ~New winding road~ Disc 2 [LACA-9775]"
@@ -7532,7 +7626,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/caae7b93-993a-45a3-b0f8-e10d037c8e6a", "https://vgmdb.net/album/97693"]
 
-[468]
+[472]
 catalognumber = "LACM-24132"
 date = "2021-06-16"
 album = "Maze Town / A·ZU·NA"
@@ -7545,7 +7639,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0dc631b0-dcb1-473e-bd4c-879c0a5a0b4f", "https://vgmdb.net/album/109797"]
 
-[469]
+[473]
 catalognumber = "LACA-15882"
 date = "2021-06-23"
 album = "We'll get the next dream!!! / AZALEA"
@@ -7567,7 +7661,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6bcbb916-10ca-40df-9423-29f996f3810d", "https://vgmdb.net/album/109794"]
 
-[470]
+[474]
 catalognumber = "BCXA-1596"
 date = "2021-06-25"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.07"
@@ -7577,7 +7671,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7553506c-eb9e-4246-997e-296a774077a3", "https://vgmdb.net/album/104662"]
 
-[471]
+[475]
 catalognumber = "AZCD-011"
 date = "2021-06-25"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 Amazon.co.jp特典 ドラマCD 合宿......どこ行こう?"
@@ -7588,7 +7682,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104664"]
 
-[472]
+[476]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Vocal"
@@ -7607,7 +7701,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[473]
+[477]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Vocal, Video"
@@ -7619,7 +7713,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[474]
+[478]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Talk Disc 3"
@@ -7639,7 +7733,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[475]
+[479]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Talk Disc 4"
@@ -7657,7 +7751,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[476]
+[480]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Talk, Video"
@@ -7671,7 +7765,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[477]
+[481]
 catalognumber = "LACM-34130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021 HOLOGRAM EDITION Vocal, Talk, Video"
@@ -7692,7 +7786,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9c6d6ce-b287-4a28-9026-2068c75cb3fa", "https://vgmdb.net/album/109792"]
 
-[478]
+[482]
 catalognumber = "LACM-24130"
 date = "2021-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2021"
@@ -7711,7 +7805,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2eb29d75-bc77-4485-9444-28b384f1c105", "https://vgmdb.net/album/109269"]
 
-[479]
+[483]
 catalognumber = "LACA-9776"
 date = "2021-07-13"
 album = "LoveLive! Sunshine!! Tsushima Yoshiko First Solo Concert ALBUM ~in this unstable world~ Disc 1 [LACA-9776]"
@@ -7726,7 +7820,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/22c23824-a3e9-4125-a36d-f3597ea4224f", "https://vgmdb.net/album/97694"]
 
-[480]
+[484]
 catalognumber = "LACA-9777"
 date = "2021-07-13"
 album = "LoveLive! Sunshine!! Tsushima Yoshiko First Solo Concert ALBUM ~in this unstable world~ Disc 2 [LACA-9777]"
@@ -7743,7 +7837,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/22c23824-a3e9-4125-a36d-f3597ea4224f", "https://vgmdb.net/album/97694"]
 
-[481]
+[485]
 catalognumber = "LACM-24133"
 date = "2021-07-14"
 album = "Swinging! / QU4RTZ"
@@ -7756,7 +7850,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6414a34c-b33e-434c-bde9-b7a04002b936", "https://vgmdb.net/album/109798"]
 
-[482]
+[486]
 catalognumber = "LACM-24140"
 date = "2021-07-21"
 album = "START!! True dreams / Liella!"
@@ -7768,7 +7862,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/313e0b77-4fc8-4d33-8ff9-0070242a4ffe", "https://vgmdb.net/album/111494"]
 
-[483]
+[487]
 catalognumber = "LACA-15883"
 date = "2021-07-28"
 album = "Shooting Star Warrior / Guilty Kiss"
@@ -7790,7 +7884,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b39062e-1306-4e00-af07-c21776948e1b", "https://vgmdb.net/album/109795"]
 
-[484]
+[488]
 catalognumber = "LACA-9831"
 date = "2021-08-01"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Takami Chika Disc 1 [LACA-9831]"
@@ -7808,7 +7902,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c2bc9833-9f6e-466f-94ff-cb479f87b86a", "https://vgmdb.net/album/111498"]
 
-[485]
+[489]
 catalognumber = "LACA-9832"
 date = "2021-08-01"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Takami Chika Disc 2 [LACA-9832]"
@@ -7825,7 +7919,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85a3e464-42a9-494b-a4ae-15bc435807eb", "https://vgmdb.net/album/111498"]
 
-[486]
+[490]
 catalognumber = "LACM-24150"
 date = "2021-08-04"
 album = "未来は風のように / Liella!"
@@ -7837,7 +7931,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/31bd5967-a86b-43ba-a836-d8850159490d", "https://vgmdb.net/album/111495"]
 
-[487]
+[491]
 catalognumber = "LACM-24141"
 date = "2021-08-25"
 album = "未来予報ハレルヤ!/Tiny Stars / Liella! [第1話盤]"
@@ -7851,7 +7945,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8fdb9576-4c57-465c-ac04-1ab2e2c5f8e0", "https://vgmdb.net/album/111496"]
 
-[488]
+[492]
 catalognumber = "LACM-24142"
 date = "2021-08-25"
 album = "未来予報ハレルヤ!/Tiny Stars / Liella! [第3話盤]"
@@ -7865,7 +7959,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c84623f4-75b4-4b6b-aceb-e970491edd31", "https://vgmdb.net/album/111497"]
 
-[489]
+[493]
 catalognumber = "LACA-9833"
 date = "2021-09-19"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Sakurauchi Riko Disc 1 [LACA-9833]"
@@ -7883,7 +7977,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed10ab23-889b-4a6e-9e51-d0f28051690c", "https://vgmdb.net/album/111532"]
 
-[490]
+[494]
 catalognumber = "LACA-9834"
 date = "2021-09-19"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Sakurauchi Riko Disc 2 [LACA-9834]"
@@ -7900,7 +7994,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f6352a9-67d2-4d50-b271-cabfff7c2317", "https://vgmdb.net/album/111532"]
 
-[491]
+[495]
 catalognumber = "LACA-9835"
 date = "2021-09-21"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Ruby Disc 1 [LACA-9835]"
@@ -7916,7 +8010,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cb425c0c-0c5b-462f-9b08-42bd71073d79", "https://vgmdb.net/album/111533"]
 
-[492]
+[496]
 catalognumber = "LACA-9836"
 date = "2021-09-21"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Ruby Disc 2 [LACA-9836]"
@@ -7933,53 +8027,53 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cb425c0c-0c5b-462f-9b08-42bd71073d79", "https://vgmdb.net/album/111533"]
 
-[493]
-catalognumber = "LACM-24170"
-date = "2021-09-22"
-album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Drama"
-tracks = [
-    [1, "KU-RU-KU-RU Cruller!", "Aqours", 0],
-    [2, "SUKI for you, DREAM for you!", "Aqours", 0],
-    [3, "KU-RU-KU-RU Cruller! (Off Vocal)", "Aqours", 0],
-    [4, "SUKI for you, DREAM for you! (Off Vocal)", "Aqours", 0],
-    [5, "キセキを教えて", "Aqours", 0],
-    [6, "動き出すキセキ", "Aqours", 0],
-]
-links = ["https://beta.musicbrainz.org/release/3e84c576-36a2-4569-9dbc-59221e2cb152", "https://vgmdb.net/album/112461"]
-
-[494]
-catalognumber = "LACM-24170"
-date = "2021-09-22"
-album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Video"
-tracks = [
-    [1, "KU-RU-KU-RU Cruller! (アニメーションPV)", "Aqours", 0],
-]
-links = ["https://beta.musicbrainz.org/release/3e84c576-36a2-4569-9dbc-59221e2cb152", "https://vgmdb.net/album/112461"]
-
-[495]
-catalognumber = "LACM-24171"
-date = "2021-09-22"
-album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Drama"
-tracks = [
-    [1, "KU-RU-KU-RU Cruller!", "Aqours", 0],
-    [2, "SUKI for you, DREAM for you!", "Aqours", 0],
-    [3, "KU-RU-KU-RU Cruller! (Off Vocal)", "Aqours", 0],
-    [4, "SUKI for you, DREAM for you! (Off Vocal)", "Aqours", 0],
-    [5, "キセキを教えて", "Aqours", 0],
-    [6, "動き出すキセキ", "Aqours", 0],
-]
-links = ["https://beta.musicbrainz.org/release/fc7cc8c0-f184-401c-a017-5c03c047619c", "https://vgmdb.net/album/112462"]
-
-[496]
-catalognumber = "LACM-24171"
-date = "2021-09-22"
-album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Video"
-tracks = [
-    [1, "KU-RU-KU-RU Cruller! (アニメーションPV)", "Aqours", 0],
-]
-links = ["https://beta.musicbrainz.org/release/fc7cc8c0-f184-401c-a017-5c03c047619c", "https://vgmdb.net/album/112462"]
-
 [497]
+catalognumber = "LACM-24170"
+date = "2021-09-22"
+album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Drama"
+tracks = [
+    [1, "KU-RU-KU-RU Cruller!", "Aqours", 0],
+    [2, "SUKI for you, DREAM for you!", "Aqours", 0],
+    [3, "KU-RU-KU-RU Cruller! (Off Vocal)", "Aqours", 0],
+    [4, "SUKI for you, DREAM for you! (Off Vocal)", "Aqours", 0],
+    [5, "キセキを教えて", "Aqours", 0],
+    [6, "動き出すキセキ", "Aqours", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3e84c576-36a2-4569-9dbc-59221e2cb152", "https://vgmdb.net/album/112461"]
+
+[498]
+catalognumber = "LACM-24170"
+date = "2021-09-22"
+album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Video"
+tracks = [
+    [1, "KU-RU-KU-RU Cruller! (アニメーションPV)", "Aqours", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3e84c576-36a2-4569-9dbc-59221e2cb152", "https://vgmdb.net/album/112461"]
+
+[499]
+catalognumber = "LACM-24171"
+date = "2021-09-22"
+album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Drama"
+tracks = [
+    [1, "KU-RU-KU-RU Cruller!", "Aqours", 0],
+    [2, "SUKI for you, DREAM for you!", "Aqours", 0],
+    [3, "KU-RU-KU-RU Cruller! (Off Vocal)", "Aqours", 0],
+    [4, "SUKI for you, DREAM for you! (Off Vocal)", "Aqours", 0],
+    [5, "キセキを教えて", "Aqours", 0],
+    [6, "動き出すキセキ", "Aqours", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fc7cc8c0-f184-401c-a017-5c03c047619c", "https://vgmdb.net/album/112462"]
+
+[500]
+catalognumber = "LACM-24171"
+date = "2021-09-22"
+album = "KU-RU-KU-RU Cruller! / Aqours Vocal, Video"
+tracks = [
+    [1, "KU-RU-KU-RU Cruller! (アニメーションPV)", "Aqours", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fc7cc8c0-f184-401c-a017-5c03c047619c", "https://vgmdb.net/album/112462"]
+
+[501]
 catalognumber = "BCXA-1667"
 date = "2021-09-28"
 album = "LIELLA! ORIGINAL SONG CD VOL.1"
@@ -7989,7 +8083,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/34c0c6ec-8333-4d04-ab52-ffbdac2cedb2", "https://vgmdb.net/album/113015"]
 
-[498]
+[502]
 catalognumber = "LACM-24144"
 date = "2021-09-29"
 album = "常夏☆サンシャイン/Wish Song / Liella! [第8話盤]"
@@ -8003,7 +8097,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce397942-9707-4cb7-a152-47ce2bb9608c", "https://vgmdb.net/album/112148"]
 
-[499]
+[503]
 catalognumber = "LACM-24143"
 date = "2021-09-29"
 album = "常夏☆サンシャイン/Wish Song / Liella! [第6話盤]"
@@ -8017,7 +8111,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e465deb5-a6d8-4f4b-ae0c-2085ac7983aa", "https://vgmdb.net/album/112147"]
 
-[500]
+[504]
 catalognumber = ""
 date = "2021-10-01"
 album = "KU-RU-KU-RU Cruller! (Angely Diva - Cover Version) / Angely Diva"
@@ -8027,7 +8121,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6940c816-b6c4-4158-bf1f-806e964a8e38", "https://vgmdb.net/album/114825"]
 
-[501]
+[505]
 catalognumber = "LACM-24160"
 date = "2021-10-06"
 album = "MONSTER GIRLS / R3BIRTH"
@@ -8040,7 +8134,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/eb463bfa-476d-4fd3-98e4-02b8e9f62669", "https://vgmdb.net/album/112725"]
 
-[502]
+[506]
 catalognumber = "LACA-9860"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) Disc 1 [LACA-9860]"
@@ -8061,7 +8155,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/683b0dcd-61b3-4806-b0ba-bc0e13159b8f", "https://vgmdb.net/album/112698"]
 
-[503]
+[507]
 catalognumber = "LACA-9861"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) Disc 2 [LACA-9861]"
@@ -8084,7 +8178,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81b49aab-643d-4435-b7de-1dd2bda33824", "https://vgmdb.net/album/112698"]
 
-[504]
+[508]
 catalognumber = "LACA-39860, LACA-39861"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal Disc 1"
@@ -8105,7 +8199,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed5f3251-2a79-4af9-8ddf-20b003abf81c", "https://vgmdb.net/album/112699"]
 
-[505]
+[509]
 catalognumber = "LACA-39860, LACA-39861"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal Disc 2"
@@ -8128,7 +8222,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed5f3251-2a79-4af9-8ddf-20b003abf81c", "https://vgmdb.net/album/112699"]
 
-[506]
+[510]
 catalognumber = "LACA-39860, LACA-39861"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal, Video"
@@ -8143,7 +8237,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed5f3251-2a79-4af9-8ddf-20b003abf81c", "https://vgmdb.net/album/112699"]
 
-[507]
+[511]
 catalognumber = "LACA-15900"
 date = "2021-10-13"
 album = "L!L!L! (Love the Life We Live) / 虹ヶ咲学園スクールアイドル同好会"
@@ -8164,7 +8258,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70d8c9fa-c78e-4ecc-adaa-8b3c13b167a8", "https://vgmdb.net/album/112929"]
 
-[508]
+[512]
 catalognumber = "LACM-24145"
 date = "2021-10-20"
 album = "ノンフィクション!!/Starlight Prologue / Liella! [第10話盤]"
@@ -8178,7 +8272,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f7588a77-9378-4620-a65f-906a863cb29b", "https://vgmdb.net/album/112915"]
 
-[509]
+[513]
 catalognumber = "LACM-24146"
 date = "2021-10-20"
 album = "ノンフィクション!!/Starlight Prologue / Liella! [第12話盤]"
@@ -8192,7 +8286,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/870a4551-b3d0-462c-ae4b-d1d5e2dcf960", "https://vgmdb.net/album/112916"]
 
-[510]
+[514]
 catalognumber = "LACA-15895"
 date = "2021-10-27"
 album = "リエラのうた / Liella!"
@@ -8212,7 +8306,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9e7d3f88-5c43-405c-a69f-a88a698e4c04", "https://vgmdb.net/album/113535"]
 
-[511]
+[515]
 catalognumber = "BCXA-1668"
 date = "2021-10-27"
 album = "LIELLA! ORIGINAL SONG CD VOL.2"
@@ -8222,7 +8316,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/154b1097-80c3-4439-a581-a46484f2bc13", "https://vgmdb.net/album/113355"]
 
-[512]
+[516]
 catalognumber = "LACA-9851"
 date = "2021-10-27"
 album = "TVアニメ『ラブライブ! スーパースター!!』オリジナルサウンドトラック「Dreams of the Superstar」 Original Soundtrack, Vocal"
@@ -8262,7 +8356,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15604232-d311-4f8c-a37b-8d99bb703516", "https://vgmdb.net/album/113534"]
 
-[513]
+[517]
 catalognumber = "LACA-9852"
 date = "2021-10-27"
 album = "TVアニメ『ラブライブ! スーパースター!!』オリジナルサウンドトラック「Dreams of the Superstar」 Original Soundtrack"
@@ -8300,7 +8394,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15604232-d311-4f8c-a37b-8d99bb703516", "https://vgmdb.net/album/113534"]
 
-[514]
+[518]
 catalognumber = "LACA-9853"
 date = "2021-10-27"
 album = "TVアニメ『ラブライブ! スーパースター!!』オリジナルサウンドトラック「Dreams of the Superstar」 Vocal"
@@ -8332,7 +8426,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15604232-d311-4f8c-a37b-8d99bb703516", "https://vgmdb.net/album/113534"]
 
-[515]
+[519]
 catalognumber = "LACM-24180"
 date = "2021-11-03"
 album = "LIVE with a smile! / Aqours・虹ヶ咲学園スクールアイドル同好会・Liella!"
@@ -8345,7 +8439,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6fa0b70c-31cd-46c0-ae9e-693adfdf5f52", "https://vgmdb.net/album/113662"]
 
-[516]
+[520]
 catalognumber = "LACM-24201"
 date = "2021-11-24"
 album = "not ALONE not HITORI/ミラクル STAY TUNE!/Shooting Voice!! / Aqours・虹ヶ咲学園スクールアイドル同好会・Liella! [虹ヶ咲学園スクールアイドル同好会盤]"
@@ -8359,7 +8453,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/664f4d4a-041d-46ff-91c1-e5fdb0d5bd25", "https://vgmdb.net/album/114654"]
 
-[517]
+[521]
 catalognumber = "LACM-24200"
 date = "2021-11-24"
 album = "not ALONE not HITORI/ミラクル STAY TUNE!/Shooting Voice!! / Aqours・虹ヶ咲学園スクールアイドル同好会・Liella! [Aqours盤]"
@@ -8373,7 +8467,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7fb394ea-b8f0-4da5-9674-4cd0bb2aa5b2", "https://vgmdb.net/album/114653"]
 
-[518]
+[522]
 catalognumber = "LACZ-10083"
 date = "2021-11-24"
 album = "Aqoursドラマ&ラジオスペシャルCD"
@@ -8383,7 +8477,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115004"]
 
-[519]
+[523]
 catalognumber = "LACM-24202"
 date = "2021-11-24"
 album = "not ALONE not HITORI/ミラクル STAY TUNE!/Shooting Voice!! / Aqours・虹ヶ咲学園スクールアイドル同好会・Liella! [Liella!盤]"
@@ -8397,7 +8491,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6e1bcf8d-51ff-4b71-8edb-99ff868554b1", "https://vgmdb.net/album/114655"]
 
-[520]
+[524]
 catalognumber = "BCXA-1669"
 date = "2021-11-26"
 album = "LIELLA! ORIGINAL SONG CD VOL.3"
@@ -8407,7 +8501,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/76982372-f18e-46b4-a560-04044c7a9d2d", "https://vgmdb.net/album/113356"]
 
-[521]
+[525]
 catalognumber = "BCXA-1670"
 date = "2021-12-24"
 album = "LIELLA! ORIGINAL SONG CD VOL.4"
@@ -8417,7 +8511,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33b4a0dc-85f1-4bb9-8abc-18a89b10a4d9", "https://vgmdb.net/album/113357"]
 
-[522]
+[526]
 catalognumber = "LACA-9837"
 date = "2022-01-01"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Dia Disc 1 [LACA-9837]"
@@ -8432,7 +8526,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/66aa4a98-c7f4-448e-add7-ef72e6329f99", "https://vgmdb.net/album/111534"]
 
-[523]
+[527]
 catalognumber = "LACA-9838"
 date = "2022-01-01"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Dia Disc 2 [LACA-9838]"
@@ -8449,7 +8543,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/35900a9d-b65b-4568-bb80-df9d3954a73d", "https://vgmdb.net/album/111534"]
 
-[524]
+[528]
 catalognumber = "BCXA-1671"
 date = "2022-01-26"
 album = "LIELLA! ORIGINAL SONG CD VOL.5"
@@ -8459,7 +8553,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/48a9ed49-20b9-44e5-a0d3-5d6ad6a8549c", "https://vgmdb.net/album/113358"]
 
-[525]
+[529]
 catalognumber = "LACM-24240"
 date = "2022-02-02"
 album = "HOT PASSION!! / Sunny Passion"
@@ -8471,7 +8565,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0de15b52-959e-431e-9597-60b7ad995de9", "https://vgmdb.net/album/116540"]
 
-[526]
+[530]
 catalognumber = "LACA-9839"
 date = "2022-02-10"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Matsuura Kanan Disc 1 [LACA-9839]"
@@ -8486,7 +8580,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c22a8958-41f4-49f6-a2d9-40b60a4c2099", "https://vgmdb.net/album/111535"]
 
-[527]
+[531]
 catalognumber = "LACA-9840"
 date = "2022-02-10"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Matsuura Kanan Disc 2 [LACA-9840]"
@@ -8503,14 +8597,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9189f5ab-7671-4d48-ab3b-a9f84d02ffc0", "https://vgmdb.net/album/111535"]
 
-[528]
+[532]
 catalognumber = ""
 date = "2022-02-25"
 album = "ラブライブ! スーパースター!! Amazon.co.jp全巻特典 ドラマCD 満開目指して!"
 tracks = []
 links = ["https://vgmdb.net/album/113021"]
 
-[529]
+[533]
 catalognumber = "TOKU-1917"
 date = "2022-02-25"
 album = "探して! Future / Liella!"
@@ -8520,7 +8614,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/67dd508f-be70-4153-a4a6-4acde41043a8", "https://vgmdb.net/album/113016"]
 
-[530]
+[534]
 catalognumber = "BEPB-0036"
 date = "2022-02-25"
 album = "Stella! / 澁谷かのん(CV.伊達さゆり)、嵐千砂都(CV.岬なこ)、平安名すみれ(CV.ペイトン尚未)"
@@ -8530,7 +8624,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/35a98bac-6b0b-4e23-8326-727a5751b0c0", "https://vgmdb.net/album/113018"]
 
-[531]
+[535]
 catalognumber = "BEPB-0038"
 date = "2022-02-25"
 album = "変わらないすべて / 澁谷かのん(CV.伊達さゆり)、嵐千砂都(CV.岬なこ)"
@@ -8540,7 +8634,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78b6e448-f6ce-4476-933d-c3d8d886c5a9", "https://vgmdb.net/album/113019"]
 
-[532]
+[536]
 catalognumber = "BEPB-0035"
 date = "2022-02-25"
 album = "HAPPY TO DO WA! / 唐可可(CV.Liyuu)、平安名すみれ(CV.ペイトン尚未)、葉月恋(CV.青山なぎさ)"
@@ -8550,7 +8644,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/caf00e23-42c0-416b-9fc2-955c53a08227", "https://vgmdb.net/album/113017"]
 
-[533]
+[537]
 catalognumber = "BCXA-1672"
 date = "2022-02-25"
 album = "LIELLA! ORIGINAL SONG CD VOL.6"
@@ -8560,7 +8654,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a415d299-a088-451d-8261-e322bf1fe15b", "https://vgmdb.net/album/113359"]
 
-[534]
+[538]
 catalognumber = "BEPB-0037"
 date = "2022-02-25"
 album = "クレッシェンドゆ・ら / 唐可可(CV.Liyuu)、葉月恋(CV.青山なぎさ)"
@@ -8570,7 +8664,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ee9baed-ff02-4ff8-a778-059a24e2d6e9", "https://vgmdb.net/album/113020"]
 
-[535]
+[539]
 catalognumber = "LACA-15941"
 date = "2022-03-02"
 album = "What a Wonderful Dream!! / Liella! [フォト盤]"
@@ -8588,7 +8682,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a2c7093e-8e70-4231-9b0f-f20de47017a6", "https://vgmdb.net/album/116539"]
 
-[536]
+[540]
 catalognumber = "LACA-15940"
 date = "2022-03-02"
 album = "What a Wonderful Dream!! / Liella! [オリジナル盤]"
@@ -8606,7 +8700,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0d40bc09-0d20-41bf-9c5e-f30c0c5c29a3", "https://vgmdb.net/album/116538"]
 
-[537]
+[541]
 catalognumber = "LACA-9841"
 date = "2022-03-04"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kunikida Hanamaru Disc 1 [LACA-9841]"
@@ -8622,7 +8716,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72ba810e-6951-4e71-a69c-f0699771e8e3", "https://vgmdb.net/album/111536"]
 
-[538]
+[542]
 catalognumber = "LACA-9842"
 date = "2022-03-04"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kunikida Hanamaru Disc 2 [LACA-9842]"
@@ -8639,14 +8733,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/929e6ac1-6077-4aa3-93bd-866b61520654", "https://vgmdb.net/album/111536"]
 
-[539]
+[543]
 catalognumber = ""
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX Amazon.co.jp特典 Aqours 2年生座談会!!"
 tracks = []
 links = ["https://vgmdb.net/album/117385"]
 
-[540]
+[544]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Vocal Disc 1"
@@ -8664,7 +8758,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[541]
+[545]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Vocal Disc 2"
@@ -8685,7 +8779,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[542]
+[546]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Vocal Disc 3"
@@ -8698,7 +8792,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[543]
+[547]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Drama Disc 4"
@@ -8709,7 +8803,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[544]
+[548]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Drama Disc 5"
@@ -8720,7 +8814,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[545]
+[549]
 catalognumber = "BCXA-1721"
 date = "2022-03-29"
 album = "ラブライブ! サンシャイン!! Blu-ray BOX 特典CD Drama Disc 6"
@@ -8734,7 +8828,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c91860f0-ba3e-4210-9169-7657e53b2639", "https://vgmdb.net/album/117380"]
 
-[546]
+[550]
 catalognumber = "LACM-24260"
 date = "2022-04-13"
 album = "なんどだって約束! / Aqours"
@@ -8753,7 +8847,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/652539ae-007c-47e5-98d5-02931ed8fbf8", "https://vgmdb.net/album/117642"]
 
-[547]
+[551]
 catalognumber = "LACA-9843"
 date = "2022-04-17"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Watanabe You Disc 1 [LACA-9843]"
@@ -8771,7 +8865,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8f3749d8-63a4-47b6-8cf0-6042ebab085c", "https://vgmdb.net/album/111537"]
 
-[548]
+[552]
 catalognumber = "LACA-9844"
 date = "2022-04-17"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Watanabe You Disc 2 [LACA-9844]"
@@ -8788,7 +8882,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8f3749d8-63a4-47b6-8cf0-6042ebab085c", "https://vgmdb.net/album/111537"]
 
-[549]
+[553]
 catalognumber = "LACM-24230"
 date = "2022-04-20"
 album = "Colorful Dreams! Colorful Smiles! / 虹ヶ咲学園スクールアイドル同好会"
@@ -8800,7 +8894,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2aa3842d-d2a8-4d53-9b46-108d8fdfc048", "https://vgmdb.net/album/117617"]
 
-[550]
+[554]
 catalognumber = "LACM-24250"
 date = "2022-04-27"
 album = "夢が僕らの太陽さ / 虹ヶ咲学園スクールアイドル同好会"
@@ -8812,7 +8906,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/defb0a5e-e422-45d4-af94-b39db326b18d", "https://vgmdb.net/album/118185"]
 
-[551]
+[555]
 catalognumber = "LACM-24270"
 date = "2022-05-11"
 album = "ENJOY IT! / QU4RTZ"
@@ -8824,7 +8918,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/16963949-b746-49a1-a11f-8224d65e3c8f", "https://vgmdb.net/album/118186"]
 
-[552]
+[556]
 catalognumber = "LACM-24271"
 date = "2022-05-25"
 album = "Eternal Light / DiverDiva"
@@ -8836,7 +8930,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0ae27d31-f8ce-412b-a488-4f0a616d2d67", "https://vgmdb.net/album/118187"]
 
-[553]
+[557]
 catalognumber = "LACM-24272"
 date = "2022-06-08"
 album = "Infinity! Our wings!! / A·ZU·NA"
@@ -8848,7 +8942,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/459885aa-1f14-4b42-8eea-1215cd65084e", "https://vgmdb.net/album/118188"]
 
-[554]
+[558]
 catalognumber = "LACA-9845"
 date = "2022-06-13"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Ohara Mari Disc 1 [LACA-9845]"
@@ -8863,7 +8957,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28e44cdd-eac2-48d4-9350-aa9db5db4198", "https://vgmdb.net/album/111538"]
 
-[555]
+[559]
 catalognumber = "LACA-9846"
 date = "2022-06-13"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Ohara Mari Disc 2 [LACA-9846]"
@@ -8880,7 +8974,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28e44cdd-eac2-48d4-9350-aa9db5db4198", "https://vgmdb.net/album/111538"]
 
-[556]
+[560]
 catalognumber = "LACM-24275"
 date = "2022-06-22"
 album = "Eutopia/EMOTION/stars we chase / 鐘嵐珠 (CV: 法元明菜)、三船栞子 (CV: 小泉萌香)、ミア・テイラー (CV: 内田秀) from 虹ヶ咲学園スクールアイドル同好会 [ミア・テイラー盤]"
@@ -8894,7 +8988,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/39520271-2702-41d9-ad2f-4af33698923b", "https://vgmdb.net/album/119395"]
 
-[557]
+[561]
 catalognumber = "LACM-24274"
 date = "2022-06-22"
 album = "Eutopia/EMOTION/stars we chase / 鐘嵐珠 (CV: 法元明菜)、三船栞子 (CV: 小泉萌香)、ミア・テイラー (CV: 内田秀) from 虹ヶ咲学園スクールアイドル同好会 [三船栞子盤]"
@@ -8908,7 +9002,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/020c08fb-c69e-4a8f-aa89-2497dfc265c1", "https://vgmdb.net/album/119394"]
 
-[558]
+[562]
 catalognumber = "LACM-24273"
 date = "2022-06-22"
 album = "Eutopia/EMOTION/stars we chase / 鐘嵐珠 (CV: 法元明菜)、三船栞子 (CV: 小泉萌香)、ミア・テイラー (CV: 内田秀) from 虹ヶ咲学園スクールアイドル同好会 [鐘嵐珠盤]"
@@ -8922,7 +9016,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ca9195b-c28f-4e99-b782-2a57cc424d10", "https://vgmdb.net/album/119393"]
 
-[559]
+[563]
 catalognumber = "BCXA-1749"
 date = "2022-06-24"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.01"
@@ -8932,7 +9026,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9fe72c51-ca21-4a39-adc4-28465ab217b6", "https://vgmdb.net/album/119359"]
 
-[560]
+[564]
 catalognumber = "LACM-34280"
 date = "2022-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2022 WHITE EDITION [初回限定生産盤] Vocal"
@@ -8951,7 +9045,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85a2cd0f-2466-46e4-ba11-073bda784bf7", "https://vgmdb.net/album/118809"]
 
-[561]
+[565]
 catalognumber = "LACM-34280"
 date = "2022-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2022 WHITE EDITION [初回限定生産盤] Video"
@@ -9009,7 +9103,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118809"]
 
-[562]
+[566]
 catalognumber = "LACM-34280"
 date = "2022-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2022 WHITE EDITION [初回限定生産盤] Talk, Video Disc 3"
@@ -9070,7 +9164,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118809"]
 
-[563]
+[567]
 catalognumber = "LACM-34280"
 date = "2022-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2022 WHITE EDITION [初回限定生産盤] Talk, Video Disc 4"
@@ -9087,7 +9181,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85a2cd0f-2466-46e4-ba11-073bda784bf7", "https://vgmdb.net/album/118809"]
 
-[564]
+[568]
 catalognumber = "LACM-24280"
 date = "2022-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2022 [期間限定生産盤]"
@@ -9106,7 +9200,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4ea9cad3-9c73-4fd5-b979-57fac06e9964", "https://vgmdb.net/album/118808"]
 
-[565]
+[569]
 catalognumber = "LABX-38570"
 date = "2022-07-06"
 album = "ラブライブ!スーパースター!! Liella! First LoveLive! Tour ～Starlines～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 1"
@@ -9136,7 +9230,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123828"]
 
-[566]
+[570]
 catalognumber = "LABX-38571"
 date = "2022-07-06"
 album = "ラブライブ!スーパースター!! Liella! First LoveLive! Tour ～Starlines～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 2"
@@ -9166,7 +9260,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123828"]
 
-[567]
+[571]
 catalognumber = "LABX-38572"
 date = "2022-07-06"
 album = "ラブライブ!スーパースター!! Liella! First LoveLive! Tour ～Starlines～ Blu-ray Memorial BOX Live Event, Talk, Video"
@@ -9175,7 +9269,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123828"]
 
-[568]
+[572]
 catalognumber = "LACA-9847"
 date = "2022-07-13"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Tsushima Yoshiko Disc 1 [LACA-9847]"
@@ -9191,7 +9285,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9b9c5c4-a078-4e17-9dc0-c393e9cedce9", "https://vgmdb.net/album/111539"]
 
-[569]
+[573]
 catalognumber = "LACA-9848"
 date = "2022-07-13"
 album = "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Tsushima Yoshiko Disc 2 [LACA-9848]"
@@ -9208,7 +9302,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ef6968ea-71f5-476c-b0ba-62bc8e85249a", "https://vgmdb.net/album/111539"]
 
-[570]
+[574]
 catalognumber = "LACA-9938"
 date = "2022-07-13"
 album = "TVアニメ『ラブライブ! 虹ヶ咲学園スクールアイドル同好会』2期 オリジナルサウンドトラック Bound for TOKIMEKI Disc 1 [LACA-9938]"
@@ -9248,7 +9342,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d96ccb2f-5f1b-470d-b624-6b0698d75aac", "https://vgmdb.net/album/119597"]
 
-[571]
+[575]
 catalognumber = "LACA-9939"
 date = "2022-07-13"
 album = "TVアニメ『ラブライブ! 虹ヶ咲学園スクールアイドル同好会』2期 オリジナルサウンドトラック Bound for TOKIMEKI Disc 2 [LACA-9939]"
@@ -9287,7 +9381,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d96ccb2f-5f1b-470d-b624-6b0698d75aac", "https://vgmdb.net/album/119597"]
 
-[572]
+[576]
 catalognumber = "LACM-24276"
 date = "2022-07-27"
 album = "Future Parade / 虹ヶ咲学園スクールアイドル同好会"
@@ -9299,7 +9393,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acfc1154-29a4-4f82-a1f5-e3088d0eb951", "https://vgmdb.net/album/119596"]
 
-[573]
+[577]
 catalognumber = "BCXA-1750"
 date = "2022-07-27"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.02"
@@ -9309,7 +9403,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/27050dec-5e15-47b5-a0c9-e971433f5be3", "https://vgmdb.net/album/119396"]
 
-[574]
+[578]
 catalognumber = "LACA-9920"
 date = "2022-08-01"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Takami Chika Disc 1 [LACA-9920]"
@@ -9324,7 +9418,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e166550b-f755-4237-af41-66474445e491", "https://vgmdb.net/album/120259"]
 
-[575]
+[579]
 catalognumber = "LACA-9921"
 date = "2022-08-01"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Takami Chika Disc 2 [LACA-9921]"
@@ -9340,7 +9434,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e166550b-f755-4237-af41-66474445e491", "https://vgmdb.net/album/120259"]
 
-[576]
+[580]
 catalognumber = "LACM-24300"
 date = "2022-08-03"
 album = "WE WILL!! / Liella!"
@@ -9352,7 +9446,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08f23c6e-d586-4f32-8698-1ebca00bfb00", "https://vgmdb.net/album/120370"]
 
-[577]
+[581]
 catalognumber = "LACM-24301"
 date = "2022-08-10"
 album = "追いかける夢の先で / Liella!"
@@ -9364,7 +9458,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2ee241f3-9aa4-4e9b-b198-d1f2d176a3f2", "https://vgmdb.net/album/120371"]
 
-[578]
+[582]
 catalognumber = "LACM-24312"
 date = "2022-08-17"
 album = "Welcome to 僕らのセカイ/Go!! リスタート / Liella! [第3話盤]"
@@ -9378,7 +9472,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d9274f4d-3d00-407c-8cd6-63c044d0d65a", "https://vgmdb.net/album/120373"]
 
-[579]
+[583]
 catalognumber = "LACM-24311"
 date = "2022-08-17"
 album = "Welcome to 僕らのセカイ/Go!! リスタート / Liella! [第1話盤]"
@@ -9392,7 +9486,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dab8020e-8d2d-4b9c-9b53-83345a395c81", "https://vgmdb.net/album/120372"]
 
-[580]
+[584]
 catalognumber = "LACA-9940"
 date = "2022-08-24"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう&放課後放送室～ ドラマCD 純情アマービレ Disc 1 [LACA-9940]"
@@ -9411,7 +9505,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5b96c61-b0a7-40cc-ab8e-ac14f97c34cd", "https://vgmdb.net/album/121011"]
 
-[581]
+[585]
 catalognumber = "LACA-9941"
 date = "2022-08-24"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう&放課後放送室～ ドラマCD 純情アマービレ Disc 2 [LACA-9941]"
@@ -9430,49 +9524,49 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5b96c61-b0a7-40cc-ab8e-ac14f97c34cd", "https://vgmdb.net/album/121011"]
 
-[582]
-catalognumber = "LACM-24290"
-date = "2022-08-24"
-album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal"
-tracks = [
-    [1, "BANZAI! digital trippers", "Aqours feat. 初音ミク", 0],
-    [2, "KA-GA-YA-KI-RA-RI-RA", "Aqours feat. 初音ミク", 0],
-    [3, "BANZAI! digital trippers (Off Vocal)", "Aqours feat. 初音ミク", 0],
-    [4, "KA-GA-YA-KI-RA-RI-RA (Off Vocal)", "Aqours feat. 初音ミク", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ae39bdcd-f11d-44f3-876f-0f8a86114e5a", "https://vgmdb.net/album/118811"]
-
-[583]
-catalognumber = "LACM-24290"
-date = "2022-08-24"
-album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal, Video"
-tracks = [
-    [1, "BANZAI! digital trippers (Animation PV)", "Aqours feat. 初音ミク", 0],
-]
-links = ["https://beta.musicbrainz.org/release/ae39bdcd-f11d-44f3-876f-0f8a86114e5a", "https://vgmdb.net/album/118811"]
-
-[584]
-catalognumber = "LACM-24291"
-date = "2022-08-24"
-album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal"
-tracks = [
-    [1, "BANZAI! digital trippers", "Aqours feat. 初音ミク", 0],
-    [2, "KA-GA-YA-KI-RA-RI-RA", "Aqours feat. 初音ミク", 0],
-    [3, "BANZAI! digital trippers (Off Vocal)", "Aqours feat. 初音ミク", 0],
-    [4, "KA-GA-YA-KI-RA-RI-RA (Off Vocal)", "Aqours feat. 初音ミク", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f5dd4610-90b4-47d3-a608-e3da4fd75d4d", "https://vgmdb.net/album/118812"]
-
-[585]
-catalognumber = "LACM-24291"
-date = "2022-08-24"
-album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal, Video"
-tracks = [
-    [1, "BANZAI! digital trippers (Animation PV)", "Aqours feat. 初音ミク", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f5dd4610-90b4-47d3-a608-e3da4fd75d4d", "https://vgmdb.net/album/118812"]
-
 [586]
+catalognumber = "LACM-24290"
+date = "2022-08-24"
+album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal"
+tracks = [
+    [1, "BANZAI! digital trippers", "Aqours feat. 初音ミク", 0],
+    [2, "KA-GA-YA-KI-RA-RI-RA", "Aqours feat. 初音ミク", 0],
+    [3, "BANZAI! digital trippers (Off Vocal)", "Aqours feat. 初音ミク", 0],
+    [4, "KA-GA-YA-KI-RA-RI-RA (Off Vocal)", "Aqours feat. 初音ミク", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ae39bdcd-f11d-44f3-876f-0f8a86114e5a", "https://vgmdb.net/album/118811"]
+
+[587]
+catalognumber = "LACM-24290"
+date = "2022-08-24"
+album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal, Video"
+tracks = [
+    [1, "BANZAI! digital trippers (Animation PV)", "Aqours feat. 初音ミク", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ae39bdcd-f11d-44f3-876f-0f8a86114e5a", "https://vgmdb.net/album/118811"]
+
+[588]
+catalognumber = "LACM-24291"
+date = "2022-08-24"
+album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal"
+tracks = [
+    [1, "BANZAI! digital trippers", "Aqours feat. 初音ミク", 0],
+    [2, "KA-GA-YA-KI-RA-RI-RA", "Aqours feat. 初音ミク", 0],
+    [3, "BANZAI! digital trippers (Off Vocal)", "Aqours feat. 初音ミク", 0],
+    [4, "KA-GA-YA-KI-RA-RI-RA (Off Vocal)", "Aqours feat. 初音ミク", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f5dd4610-90b4-47d3-a608-e3da4fd75d4d", "https://vgmdb.net/album/118812"]
+
+[589]
+catalognumber = "LACM-24291"
+date = "2022-08-24"
+album = "BANZAI! digital trippers / Aqours feat. 初音ミク Vocal, Video"
+tracks = [
+    [1, "BANZAI! digital trippers (Animation PV)", "Aqours feat. 初音ミク", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f5dd4610-90b4-47d3-a608-e3da4fd75d4d", "https://vgmdb.net/album/118812"]
+
+[590]
 catalognumber = "BCXA-1751"
 date = "2022-08-26"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.03"
@@ -9482,7 +9576,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cb1e3d06-ae22-4e55-8952-1135c2450845", "https://vgmdb.net/album/119397"]
 
-[587]
+[591]
 catalognumber = "LACA-9922"
 date = "2022-09-19"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Sakurauchi Riko Disc 1 [LACA-9922]"
@@ -9497,7 +9591,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0375f455-43d3-412b-aa11-a1723f9e9394", "https://vgmdb.net/album/120258"]
 
-[588]
+[592]
 catalognumber = "LACA-9923"
 date = "2022-09-19"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Sakurauchi Riko Disc 2 [LACA-9923]"
@@ -9513,7 +9607,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0375f455-43d3-412b-aa11-a1723f9e9394", "https://vgmdb.net/album/120258"]
 
-[589]
+[593]
 catalognumber = "LACM-24314"
 date = "2022-09-21"
 album = "ビタミンSUMMER!/Chance Day, Chance Way! / Liella! [第8話盤]"
@@ -9527,7 +9621,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ed0f637-9048-47bd-9d4e-981794102172", "https://vgmdb.net/album/121677"]
 
-[590]
+[594]
 catalognumber = "LACA-9924"
 date = "2022-09-21"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kurosawa Ruby Disc 1 [LACA-9924]"
@@ -9543,7 +9637,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ae6ee9da-02d9-45c7-a824-06f3c4d7815a", "https://vgmdb.net/album/120257"]
 
-[591]
+[595]
 catalognumber = "LACA-9925"
 date = "2022-09-21"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kurosawa Ruby Disc 2 [LACA-9925]"
@@ -9559,7 +9653,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ae6ee9da-02d9-45c7-a824-06f3c4d7815a", "https://vgmdb.net/album/120257"]
 
-[592]
+[596]
 catalognumber = "LACM-24313"
 date = "2022-09-21"
 album = "ビタミンSUMMER!/Chance Day, Chance Way! / Liella! [第6話盤]"
@@ -9573,7 +9667,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/52d45550-56b6-4d77-934e-68b948f58ab8", "https://vgmdb.net/album/121678"]
 
-[593]
+[597]
 catalognumber = "BCXA-1752"
 date = "2022-09-28"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.04"
@@ -9583,7 +9677,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6b869a00-c943-4bd1-8e0a-29b7ce08298c", "https://vgmdb.net/album/119398"]
 
-[594]
+[598]
 catalognumber = "LACM-24321"
 date = "2022-09-28"
 album = "Vroom Vroom / R3BIRTH"
@@ -9596,7 +9690,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7411c6ef-1efd-4ed6-9e8a-ac2fa869a8db", "https://vgmdb.net/album/121173"]
 
-[595]
+[599]
 catalognumber = "LACM-24320"
 date = "2022-10-05"
 album = "Shadow Effect / DiverDiva"
@@ -9609,7 +9703,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/417e4976-d669-4fa2-acad-396d495b8cdc", "https://vgmdb.net/album/121172"]
 
-[596]
+[600]
 catalognumber = "LACM-24330"
 date = "2022-10-12"
 album = "永遠の一瞬 / 虹ヶ咲学園スクールアイドル同好会"
@@ -9623,7 +9717,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1f808017-3f53-4b35-b9b7-ba2630c9c537", "https://vgmdb.net/album/121387"]
 
-[597]
+[601]
 catalognumber = "LACM-24315"
 date = "2022-10-19"
 album = "Sing! Shine! Smile!/未来の音が聴こえる / Liella! [第10話盤]"
@@ -9637,7 +9731,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08a122c6-8f8c-4db0-a8ec-35fb15eadae0", "https://vgmdb.net/album/121675"]
 
-[598]
+[602]
 catalognumber = "LACM-24316"
 date = "2022-10-19"
 album = "Sing! Shine! Smile!/未来の音が聴こえる / Liella! [第12話盤]"
@@ -9651,7 +9745,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/30ecd21c-580b-4c51-ab45-577dc048400b", "https://vgmdb.net/album/121676"]
 
-[599]
+[603]
 catalognumber = "LACA-25006"
 date = "2022-10-26"
 album = "リエラのうた2 / Liella!"
@@ -9671,7 +9765,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/48426403-f91e-4e0c-b5be-7cd72a7de5f2", "https://vgmdb.net/album/122180"]
 
-[600]
+[604]
 catalognumber = "LACA-9913"
 date = "2022-10-26"
 album = "TVアニメ『ラブライブ!スーパースター!!』2期オリジナルサウンドトラック 「Twinkle of the Superstar」 Original Soundtrack"
@@ -9708,7 +9802,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93187051-1c84-4134-b3ff-1d95c9bc9922", "https://vgmdb.net/album/122175"]
 
-[601]
+[605]
 catalognumber = "LACA-9914"
 date = "2022-10-26"
 album = "TVアニメ『ラブライブ!スーパースター!!』2期オリジナルサウンドトラック 「Twinkle of the Superstar」 Vocal"
@@ -9736,7 +9830,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93187051-1c84-4134-b3ff-1d95c9bc9922", "https://vgmdb.net/album/122175"]
 
-[602]
+[606]
 catalognumber = "BCXA-1753"
 date = "2022-10-28"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.05"
@@ -9746,7 +9840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/067747d1-aa43-4142-b2b3-78f903bf525f", "https://vgmdb.net/album/119399"]
 
-[603]
+[607]
 catalognumber = "LACM-24322"
 date = "2022-11-02"
 album = "Blue! / A·ZU·NA"
@@ -9759,7 +9853,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85db582f-daac-4a60-8faa-1198fc572903", "https://vgmdb.net/album/121174"]
 
-[604]
+[608]
 catalognumber = "LABX-8610"
 date = "2022-11-02"
 album = "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ ＜OCEAN STAGE＞ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 1"
@@ -9777,7 +9871,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123965"]
 
-[605]
+[609]
 catalognumber = "LABX-8611"
 date = "2022-11-02"
 album = "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ ＜OCEAN STAGE＞ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 2"
@@ -9798,7 +9892,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123965"]
 
-[606]
+[610]
 catalognumber = "LABX-8612"
 date = "2022-11-02"
 album = "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ ＜OCEAN STAGE＞ Blu-ray Memorial BOX Live Event, Talk, Video"
@@ -9809,7 +9903,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/123965"]
 
-[607]
+[611]
 catalognumber = "LACM-24340"
 date = "2022-11-09"
 album = "わーいわいわい わいわいわい! / わいわいわい"
@@ -9822,7 +9916,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6fd9738e-cbd0-4c7c-a91b-ff7ee4411ed9", "https://vgmdb.net/album/122461"]
 
-[608]
+[612]
 catalognumber = "LACM-24323"
 date = "2022-11-23"
 album = "PASTEL / QU4RTZ"
@@ -9835,7 +9929,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0e5f274b-294a-4858-904b-3ac3973b5dcd", "https://vgmdb.net/album/121175"]
 
-[609]
+[613]
 catalognumber = "BCXA-1754"
 date = "2022-11-25"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.06"
@@ -9845,7 +9939,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/582637af-7c88-4817-be29-cb68aabae62e", "https://vgmdb.net/album/119400"]
 
-[610]
+[614]
 catalognumber = "LACM-24350"
 date = "2022-11-30"
 album = "Butterfly Wing/エーデルシュタイン / ウィーン・マルガレーテ(CV.結那)"
@@ -9857,7 +9951,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9d224585-24f1-4a63-afc4-0e5a8b34f961", "https://vgmdb.net/album/123343"]
 
-[611]
+[615]
 catalognumber = "LACZ-10123"
 date = "2022-12-10"
 album = "未完成ドリーム!"
@@ -9869,7 +9963,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e61b7716-7b2f-404f-9620-173fa1b101aa", "https://vgmdb.net/album/124441"]
 
-[612]
+[616]
 catalognumber = "GNCA-1629"
 date = "2022-12-21"
 album = "ジャーニーズ・トランク / 南條愛乃 Vocal"
@@ -9890,7 +9984,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
 
-[613]
+[617]
 catalognumber = "GNCA-1629"
 date = "2022-12-21"
 album = "ジャーニーズ・トランク / 南條愛乃 Arrangement, Vocal"
@@ -9903,7 +9997,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
 
-[614]
+[618]
 catalognumber = "GNCA-1629"
 date = "2022-12-21"
 album = "ジャーニーズ・トランク / 南條愛乃 Vocal, Video"
@@ -9918,14 +10012,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
 
-[615]
+[619]
 catalognumber = ""
 date = "2022-12-23"
 album = "Go Go! ニジガク勉強会!"
-tracks = []
+tracks = [
+    [1, "01. Go Go! ニジガク勉強会！", "", 0],
+]
 links = ["https://vgmdb.net/album/119725"]
 
-[616]
+[620]
 catalognumber = "BCXA-1778"
 date = "2022-12-23"
 album = "LIELLA! ORIGINAL SONG CD VOL.1"
@@ -9935,7 +10031,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8c7b977-428f-4c27-91e7-dfb7593f4ede", "https://vgmdb.net/album/121902"]
 
-[617]
+[621]
 catalognumber = "BCXA-1755"
 date = "2022-12-23"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 2nd Season オリジナルソングCD vol.07"
@@ -9945,7 +10041,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1362ff43-80c7-45f4-9ef7-31290ee5acb1", "https://vgmdb.net/album/119401"]
 
-[618]
+[622]
 catalognumber = "LZC-2337"
 date = "2022-12-24"
 album = "ニジガク ボーナストラック コレクション Vol.1 / 虹ヶ咲学園スクールアイドル同好会"
@@ -9960,7 +10056,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/937c6775-12bf-4259-9a45-0c4088831613", "https://vgmdb.net/album/125391"]
 
-[619]
+[623]
 catalognumber = "LACA-9926"
 date = "2023-01-01"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kurosawa Dia Disc 1 [LACA-9926]"
@@ -9976,7 +10072,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8909fa91-1d05-4e86-9bf0-5b14301125f2", "https://vgmdb.net/album/120256"]
 
-[620]
+[624]
 catalognumber = "LACA-9927"
 date = "2023-01-01"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kurosawa Dia Disc 2 [LACA-9927]"
@@ -9993,7 +10089,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8909fa91-1d05-4e86-9bf0-5b14301125f2", "https://vgmdb.net/album/120256"]
 
-[621]
+[625]
 catalognumber = "BCXA-1779"
 date = "2023-01-27"
 album = "LIELLA! ORIGINAL SONG CD VOL.2"
@@ -10003,7 +10099,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/86cf56a9-610f-4905-9a0d-896fa5289275", "https://vgmdb.net/album/121903"]
 
-[622]
+[626]
 catalognumber = "LACM-24360"
 date = "2023-02-01"
 album = "わちゅごなどぅー / 虹ヶ咲学園スクールアイドル同好会"
@@ -10016,7 +10112,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6825592-f07e-4d9c-83c4-fad86c2209e8", "https://vgmdb.net/album/124790"]
 
-[623]
+[627]
 catalognumber = "LACA-9928"
 date = "2023-02-10"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Matsuura Kanan Disc 1 [LACA-9928]"
@@ -10032,7 +10128,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a1450f0f-202c-4afe-b34a-3f8c42a2e8f1", "https://vgmdb.net/album/120255"]
 
-[624]
+[628]
 catalognumber = "LACA-9929"
 date = "2023-02-10"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Matsuura Kanan Disc 2 [LACA-9929]"
@@ -10049,7 +10145,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a1450f0f-202c-4afe-b34a-3f8c42a2e8f1", "https://vgmdb.net/album/120255"]
 
-[625]
+[629]
 catalognumber = "LACA-25010"
 date = "2023-02-15"
 album = "The Blue Swell / Aqours"
@@ -10067,7 +10163,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/38526e7f-1487-493c-87ba-815f77c87565", "https://vgmdb.net/album/121381"]
 
-[626]
+[630]
 catalognumber = "BCXA-1780"
 date = "2023-02-24"
 album = "LIELLA! ORIGINAL SONG CD VOL.3"
@@ -10077,14 +10173,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e201a166-e258-4d4c-a6a1-15a195ec1da7", "https://vgmdb.net/album/121904"]
 
-[627]
+[631]
 catalognumber = ""
 date = "2023-02-24"
 album = "ラブライブ! スーパースター!! 2期 Amazon.co.jp全巻特典 ドラマCD"
 tracks = []
 links = ["https://vgmdb.net/album/121905"]
 
-[628]
+[632]
 catalognumber = "LACA-9930"
 date = "2023-03-04"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kunikida Hanamaru Disc 1 [LACA-9930]"
@@ -10100,7 +10196,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d0d0335e-9099-4c7a-be15-36dd5f8c5871", "https://vgmdb.net/album/120254"]
 
-[629]
+[633]
 catalognumber = "LACA-9931"
 date = "2023-03-04"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Kunikida Hanamaru Disc 2 [LACA-9931]"
@@ -10116,7 +10212,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e00433c-5b61-4402-9a3a-beda9cb41d68", "https://vgmdb.net/album/120254"]
 
-[630]
+[634]
 catalognumber = "LACA-25041"
 date = "2023-03-15"
 album = "Second Sparkle / Liella! [フォト盤]"
@@ -10137,7 +10233,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/50a950ad-b0ec-4d7c-88b9-478351297e9f", "https://vgmdb.net/album/125483"]
 
-[631]
+[635]
 catalognumber = "LACA-25040"
 date = "2023-03-15"
 album = "Second Sparkle / Liella! [オリジナル盤]"
@@ -10158,7 +10254,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0733ab9b-571d-4485-a806-80bfc50a5a76", "https://vgmdb.net/album/125482"]
 
-[632]
+[636]
 catalognumber = "LACA-25045"
 date = "2023-03-29"
 album = "Dream Believers / 蓮ノ空女学院スクールアイドルクラブ"
@@ -10172,7 +10268,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0680408c-a98f-4205-950f-1de739b7618d", "https://vgmdb.net/album/127897"]
 
-[633]
+[637]
 catalognumber = "LACA-9932"
 date = "2023-04-17"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Watanabe You Disc 1 [LACA-9932]"
@@ -10187,7 +10283,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1aacf992-8d3a-49e6-8371-8bdcad1baa08", "https://vgmdb.net/album/120253"]
 
-[634]
+[638]
 catalognumber = "LACA-9933"
 date = "2023-04-17"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Watanabe You Disc 2 [LACA-9933]"
@@ -10203,7 +10299,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1aacf992-8d3a-49e6-8371-8bdcad1baa08", "https://vgmdb.net/album/120253"]
 
-[635]
+[639]
 catalognumber = "LACM-24371"
 date = "2023-04-26"
 album = "Reflection in the mirror / スリーズブーケ"
@@ -10217,7 +10313,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/514be355-fb57-49a6-853f-7e1192e63919", "https://vgmdb.net/album/129355"]
 
-[636]
+[640]
 catalognumber = "LACM-24372"
 date = "2023-04-26"
 album = "Sparkly Spot / DOLLCHESTRA"
@@ -10231,7 +10327,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7ed1746a-432b-4b65-b9a4-a010932b59ae", "https://vgmdb.net/album/129353"]
 
-[637]
+[641]
 catalognumber = "LACA-25051"
 date = "2023-05-10"
 album = "スクールアイドルミュージカル"
@@ -10269,7 +10365,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8fa722dc-a31b-4aaa-b096-b96427e4c751", "https://vgmdb.net/album/129395"]
 
-[638]
+[642]
 catalognumber = "LACM-24370"
 date = "2023-05-17"
 album = "MIRACLE NEW STORY / Liella!"
@@ -10281,7 +10377,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d9d51a8-f1c1-4337-b6f4-fbd13eab41ea", "https://vgmdb.net/album/129165"]
 
-[639]
+[643]
 catalognumber = "LACM-24400"
 date = "2023-06-07"
 album = "KAGAYAKI Don't forget! / 虹ヶ咲学園スクールアイドル同好会"
@@ -10293,7 +10389,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8eb038b9-eef6-43cb-a2ea-3ead2d44fb0d", "https://vgmdb.net/album/129416"]
 
-[640]
+[644]
 catalognumber = "LACA-9934"
 date = "2023-06-13"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Ohara Mari Disc 1 [LACA-9934]"
@@ -10309,7 +10405,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c14d4572-ecda-4b10-b179-e2f2ec371bd9", "https://vgmdb.net/album/120252"]
 
-[641]
+[645]
 catalognumber = "LACA-9935"
 date = "2023-06-13"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Ohara Mari Disc 2 [LACA-9935]"
@@ -10326,7 +10422,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c14d4572-ecda-4b10-b179-e2f2ec371bd9", "https://vgmdb.net/album/120252"]
 
-[642]
+[646]
 catalognumber = "LACM-24391"
 date = "2023-06-14"
 album = "Holiday∞Holiday / Tragic Drops【スリーズブーケ盤】"
@@ -10338,7 +10434,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0fd934db-527c-451d-acfd-a2a214c23bd3", "https://vgmdb.net/album/130132"]
 
-[643]
+[647]
 catalognumber = "LACM-24392"
 date = "2023-06-14"
 album = "Holiday∞Holiday / Tragic Drops【DOLLCHESTRA盤】"
@@ -10350,7 +10446,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c22e88ad-5333-4d87-b525-83dd27b0dfe4", "https://vgmdb.net/album/130133"]
 
-[644]
+[648]
 catalognumber = "LACZ-10152"
 date = "2023-06-23"
 album = "SINGING, DREAMING, NOW! / 虹ヶ咲学園スクールアイドル同好会"
@@ -10362,7 +10458,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f0e021b2-93a1-485d-8469-3ade2ac4993b", "https://vgmdb.net/album/132897"]
 
-[645]
+[649]
 catalognumber = "BCXA-1854"
 date = "2023-06-23"
 album = "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY オリジナルソングCD"
@@ -10372,7 +10468,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/129420"]
 
-[646]
+[650]
 catalognumber = "LACZ-10150"
 date = "2023-06-23"
 album = "Feel Alive/Go Our Way! / 虹ヶ咲学園スクールアイドル同好会 [R3BIRTH盤]"
@@ -10384,7 +10480,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a6eb6f9e-1c85-45f3-927a-b9cc6801fa92", "https://vgmdb.net/album/132895"]
 
-[647]
+[651]
 catalognumber = "LACZ-10151"
 date = "2023-06-23"
 album = "Feel Alive/Go Our Way! / 虹ヶ咲学園スクールアイドル同好会 [虹ヶ咲学園スクールアイドル同好会盤]"
@@ -10396,7 +10492,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9073c34c-b2da-4454-86f8-b79f22eecfe7", "https://vgmdb.net/album/132896"]
 
-[648]
+[652]
 catalognumber = "LACM-24410"
 date = "2023-06-28"
 album = "Feel Alive/Go Our Way! / 虹ヶ咲学園スクールアイドル同好会 [R3BIRTH盤]"
@@ -10408,7 +10504,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ef81662-5c76-4e24-83d1-4eddc6597765", "https://vgmdb.net/album/129417"]
 
-[649]
+[653]
 catalognumber = "LACM-24411"
 date = "2023-06-28"
 album = "Feel Alive/Go Our Way! / 虹ヶ咲学園スクールアイドル同好会 [虹ヶ咲学園スクールアイドル同好会盤]"
@@ -10420,7 +10516,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a28a342b-8d66-4727-86af-a74a31de72f2", "https://vgmdb.net/album/129418"]
 
-[650]
+[654]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 1 (CD) [LACM-34430]"
@@ -10429,7 +10525,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[651]
+[655]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 2 (CD) [LACM-34431]"
@@ -10447,7 +10543,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[652]
+[656]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 3 (Blu-ray) [LAPD-1749]"
@@ -10464,7 +10560,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[653]
+[657]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 4 (Blu-ray) [LAPD-1750]"
@@ -10487,7 +10583,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[654]
+[658]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 5 (Blu-ray) [LAPD-1751]"
@@ -10508,7 +10604,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[655]
+[659]
 catalognumber = "LACM-34430, LACM-34431"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 6 (Blu-ray) [LAPD-1752]"
@@ -10530,7 +10626,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
-[656]
+[660]
 catalognumber = "LACM-24430"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 [期間限定生産]"
@@ -10549,7 +10645,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15211305-5c8e-45eb-b083-d1e32276f53f", "https://vgmdb.net/album/130469"]
 
-[657]
+[661]
 catalognumber = "LACM-24412"
 date = "2023-07-05"
 album = "SINGING, DREAMING, NOW! / 虹ヶ咲学園スクールアイドル同好会"
@@ -10561,7 +10657,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fd9ca872-a8e9-416e-aa43-022f5dc7a6ae", "https://vgmdb.net/album/129419"]
 
-[658]
+[662]
 catalognumber = "LACA-9936"
 date = "2023-07-13"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Tsushima Yoshiko Disc 1 [LACA-9936]"
@@ -10577,7 +10673,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1a8a7ab1-dd16-498c-a696-44b23dd43e66", "https://vgmdb.net/album/120251"]
 
-[659]
+[663]
 catalognumber = "LACA-9937"
 date = "2023-07-13"
 album = "LoveLive! Sunshine!! Third Solo Concert Album ~THE STORY OF \"OVER THE RAINBOW\"~ starring Tsushima Yoshiko Disc 2 [LACA-9937]"
@@ -10593,7 +10689,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1a8a7ab1-dd16-498c-a696-44b23dd43e66", "https://vgmdb.net/album/120251"]
 
-[660]
+[664]
 catalognumber = "LACM-24440"
 date = "2023-07-26"
 album = "幻日ミステリウム / Aqours"
@@ -10605,7 +10701,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4024eb6-9d97-4e2c-80d1-a1974e8d150c", "https://vgmdb.net/album/130090"]
 
-[661]
+[665]
 catalognumber = "LACA-25060"
 date = "2023-08-02"
 album = "Jump Into the New World / Liella!"
@@ -10620,7 +10716,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/399d9007-d0d6-48d2-a7fa-67dad7225a93", "https://vgmdb.net/album/129166"]
 
-[662]
+[666]
 catalognumber = "LACM-24441"
 date = "2023-08-02"
 album = "キミノタメボクノタメ / Aqours"
@@ -10632,7 +10728,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ef41cd39-1491-4dee-9b7b-320cfce540ec", "https://vgmdb.net/album/130455"]
 
-[663]
+[667]
 catalognumber = "LACM-24408"
 date = "2023-08-09"
 album = "眩耀夜行 / スリーズブーケ"
@@ -10646,7 +10742,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81fb4458-4e23-4ea0-96b7-a3ce9c1086fd", "https://vgmdb.net/album/132088"]
 
-[664]
+[668]
 catalognumber = "LACM-24409"
 date = "2023-08-09"
 album = "Mirage Voyage / DOLLCHESTRA"
@@ -10660,7 +10756,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/11a99bdc-7db0-41fc-8dd3-8dbabc3e0e7e", "https://vgmdb.net/album/132089"]
 
-[665]
+[669]
 catalognumber = "LACM-24442"
 date = "2023-08-23"
 album = "Far far away/Be as one!!! [Far far away盤(A盤)]"
@@ -10672,7 +10768,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/42150165-c2a0-4a09-aaef-33850ea4904f", "https://vgmdb.net/album/130457"]
 
-[666]
+[670]
 catalognumber = "LACM-24443"
 date = "2023-08-23"
 album = "Far far away/Be as one!!! [Be as one!!!盤(B盤)]"
@@ -10684,7 +10780,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fbe3524d-7259-45ba-91cf-2af1bf9134d3", "https://vgmdb.net/album/130458"]
 
-[667]
+[671]
 catalognumber = "LACM-24445"
 date = "2023-09-06"
 album = "R・E・P/Hey, dear my friends [Hey, dear my friends盤(B盤)]"
@@ -10696,7 +10792,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ebc23bdc-293d-4364-ad45-1925752e2991", "https://vgmdb.net/album/130460"]
 
-[668]
+[672]
 catalognumber = "LACM-24444"
 date = "2023-09-06"
 album = "R・E・P/Hey, dear my friends [R・E・P盤(A盤)]"
@@ -10708,7 +10804,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/379f13e2-be85-4d72-82a8-cef8b06859bd", "https://vgmdb.net/album/130459"]
 
-[669]
+[673]
 catalognumber = "LACA-25071"
 date = "2023-09-20"
 album = "夏めきペイン / 蓮ノ空女学院スクールアイドルクラブ"
@@ -10726,7 +10822,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/27cf1772-7cfe-4b2c-8588-6318e68be6c4", "https://vgmdb.net/album/132115"]
 
-[670]
+[674]
 catalognumber = "LACM-24447"
 date = "2023-09-27"
 album = "GIRLS!!/Wonder sea breeze [Wonder sea breeze盤(B盤)]"
@@ -10738,7 +10834,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b27f4f41-53d8-446b-a765-7397ad833daf", "https://vgmdb.net/album/131476"]
 
-[671]
+[675]
 catalognumber = "LACM-24446"
 date = "2023-09-27"
 album = "GIRLS!!/Wonder sea breeze [GIRLS!!盤(A盤)]"
@@ -10750,7 +10846,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e575f78c-a570-45cc-9ef4-93791f139785", "https://vgmdb.net/album/131475"]
 
-[672]
+[676]
 catalognumber = "BCXA-1863"
 date = "2023-09-27"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD１"
@@ -10761,7 +10857,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1cdf9728-0d62-4e46-aeb1-82da337b6401", "https://vgmdb.net/album/130462"]
 
-[673]
+[677]
 catalognumber = "LACA-25070"
 date = "2023-10-04"
 album = "Fly with You!! / 虹ヶ咲学園スクールアイドル同好会"
@@ -10782,7 +10878,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9538bfc0-d407-4efb-83ce-16019d5b6a5f", "https://vgmdb.net/album/130452"]
 
-[674]
+[678]
 catalognumber = "LACA-35070"
 date = "2023-10-04"
 album = "Fly with You!! / 虹ヶ咲学園スクールアイドル同好会 [初回限定盤]"
@@ -10803,7 +10899,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/15616f5d-a45a-4161-b815-80e5866db653", "https://vgmdb.net/album/130453"]
 
-[675]
+[679]
 catalognumber = "LACM-24449"
 date = "2023-10-11"
 album = "Forever U & I/La la 勇気のうた [La la 勇気のうた盤(B盤)]"
@@ -10815,7 +10911,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9c887163-5afc-42ec-8090-2f5ead710706", "https://vgmdb.net/album/131478"]
 
-[676]
+[680]
 catalognumber = "LACM-24448"
 date = "2023-10-11"
 album = "Forever U & I/La la 勇気のうた [Forever U & I盤(A盤)]"
@@ -10827,7 +10923,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f57e4408-313a-4715-9376-7964f0cf1199", "https://vgmdb.net/album/131477"]
 
-[677]
+[681]
 catalognumber = "LACA-19010"
 date = "2023-10-25"
 album = "TVアニメ『幻日のヨハネ -SUNSHINE in the MIRROR-』オリジナルサウンドトラック「みんなの音」 Disc 1 [LACA-19010]"
@@ -10869,7 +10965,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/861ee4b4-70ff-4681-b9b8-1026b2828410", "https://vgmdb.net/album/130461"]
 
-[678]
+[682]
 catalognumber = "LACA-19011"
 date = "2023-10-25"
 album = "TVアニメ『幻日のヨハネ -SUNSHINE in the MIRROR-』オリジナルサウンドトラック「みんなの音」 Disc 2 [LACA-19011]"
@@ -10903,7 +10999,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/98af251b-bfad-43d2-82b9-b48b84fc756c", "https://vgmdb.net/album/130461"]
 
-[679]
+[683]
 catalognumber = "BCXA-1864"
 date = "2023-10-27"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD2"
@@ -10914,7 +11010,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/176a122b-0bd1-4396-b8db-febaeccb0f31", "https://vgmdb.net/album/130463"]
 
-[680]
+[684]
 catalognumber = "LACM-24456"
 date = "2023-11-15"
 album = "素顔のピクセル / スリーズブーケ"
@@ -10928,7 +11024,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5fb08224-92c2-4266-9c9f-22e6a72fa4e5", "https://vgmdb.net/album/132155"]
 
-[681]
+[685]
 catalognumber = "INTIP-022"
 date = "2023-11-16"
 album = "『幻日のヨハネ -BLAZE in the DEEPBLUE-』 サウンドトラックCD"
@@ -10970,7 +11066,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a439d7f2-a059-413f-bf89-cdfddfb9c85e", "https://vgmdb.net/album/132724"]
 
-[682]
+[686]
 catalognumber = "BCXA-1865"
 date = "2023-11-22"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD3"
@@ -10981,7 +11077,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/418ea863-a08c-41b6-b659-ed1fd6a123dd", "https://vgmdb.net/album/130464"]
 
-[683]
+[687]
 catalognumber = "LACM-24457"
 date = "2023-11-22"
 album = "Take It Over / DOLLCHESTRA"
@@ -10995,7 +11091,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f36c938f-7f08-44fe-abfd-405345180bd6", "https://vgmdb.net/album/132156"]
 
-[684]
+[688]
 catalognumber = "LACM-24458"
 date = "2023-11-29"
 album = "アイデンティティ / みらくらぱーく！"
@@ -11009,7 +11105,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d5483644-bab1-46e8-b926-579319da126b", "https://vgmdb.net/album/132157"]
 
-[685]
+[689]
 catalognumber = "LACM-24470"
 date = "2023-12-06"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦テーマソング「異次元★♥BIGBANG」"
@@ -11019,7 +11115,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9ebf715d-1883-40ba-9034-e72ed5057fa5", "https://vgmdb.net/album/132422"]
 
-[686]
+[690]
 catalognumber = "LACA-19008"
 date = "2023-12-06"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう&放課後放送室～ ドラマCD 夢幻グランディオーソ Disc 1 [LACA-19008]"
@@ -11039,7 +11135,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132517"]
 
-[687]
+[691]
 catalognumber = "LACA-19009"
 date = "2023-12-06"
 album = "ラブライブ! 虹ヶ咲学園 ～おはよう&放課後放送室～ ドラマCD 夢幻グランディオーソ Disc 2 [LACA-19009]"
@@ -11060,7 +11156,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132517"]
 
-[688]
+[692]
 catalognumber = "BCXA-1866"
 date = "2023-12-22"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD4"
@@ -11071,7 +11167,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c2733b1c-d09a-4078-909c-e5cceed5d9b4", "https://vgmdb.net/album/130465"]
 
-[689]
+[693]
 catalognumber = "LACM-24460"
 date = "2024-01-10"
 album = "シェキラ☆☆☆ / Liella!"
@@ -11084,7 +11180,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b56d7d0e-44e0-4a1a-90e2-4e64aff53c88", "https://vgmdb.net/album/133268"]
 
-[690]
+[694]
 catalognumber = "LACM-24468"
 date = "2024-01-17"
 album = "Link to the FUTURE / 蓮ノ空女学院スクールアイドルクラブ"
@@ -11098,7 +11194,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6c1b1058-43db-4d94-b7aa-c0546c178102", "https://vgmdb.net/album/132898"]
 
-[691]
+[695]
 catalognumber = "LACM-24511"
 date = "2024-01-24"
 album = "New Year's March!/ラジオ体操第一(虹ヶ咲学園スクールアイドル同好会 Ver.)＜type-B＞ / 虹ヶ咲学園スクールアイドル同好会"
@@ -11110,7 +11206,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/88b4331b-9c61-46db-81f7-ad3e4fcee752", "https://vgmdb.net/album/134482"]
 
-[692]
+[696]
 catalognumber = "LACM-24510"
 date = "2024-01-24"
 album = "New Year's March!/ラジオ体操第一(虹ヶ咲学園スクールアイドル同好会 Ver.)＜type-A＞ / 虹ヶ咲学園スクールアイドル同好会"
@@ -11122,7 +11218,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02fb5834-71ef-4fdd-98e3-645fb9b1a712", "https://vgmdb.net/album/134481"]
 
-[693]
+[697]
 catalognumber = "BCXA-1867"
 date = "2024-01-26"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD5"
@@ -11133,7 +11229,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cd69edb5-c3f2-452f-88fb-9590fd527e0b", "https://vgmdb.net/album/130466"]
 
-[694]
+[698]
 catalognumber = ""
 date = "2024-02-02"
 album = "Wave 4 - Covers"
@@ -11153,7 +11249,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/138045"]
 
-[695]
+[699]
 catalognumber = "LACM-24512"
 date = "2024-02-14"
 album = "Special Thanks / 青とシャボン / ミルク / スリーズブーケ&DOLLCHESTRA&みらくらぱーく!"
@@ -11167,7 +11263,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d699460a-c87a-4d24-ad20-daf92d4f7c8a", "https://vgmdb.net/album/136844"]
 
-[696]
+[700]
 catalognumber = "BCXA-1868"
 date = "2024-02-28"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD6"
@@ -11178,7 +11274,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/04a57fe1-8f82-4e15-9977-7ffdafceec36", "https://vgmdb.net/album/130467"]
 
-[697]
+[701]
 catalognumber = "LACM-34540"
 date = "2024-03-08"
 album = "peace piece pizza / わいわいわい [Blu-ray付初回限定盤] Vocal"
@@ -11190,7 +11286,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/417e1f94-874e-4ed8-a4df-8f7c4614b57f", "https://vgmdb.net/album/140062"]
 
-[698]
+[702]
 catalognumber = "LACM-34540"
 date = "2024-03-08"
 album = "peace piece pizza / わいわいわい [Blu-ray付初回限定盤] Vocal, Live Event, Talk, Video"
@@ -11208,7 +11304,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/417e1f94-874e-4ed8-a4df-8f7c4614b57f", "https://vgmdb.net/album/140062"]
 
-[699]
+[703]
 catalognumber = "LACM-24505"
 date = "2024-03-20"
 album = "Colorfulness/ハッピー至上主義!/Pleasure Feather / るりのとゆかいなつづりたち&かほめぐ♡じぇらーと&蓮ノ休日"
@@ -11222,7 +11318,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f0e07599-50bb-415c-841e-054928197d75", "https://vgmdb.net/album/138075"]
 
-[700]
+[704]
 catalognumber = "BCXA-1869"
 date = "2024-03-27"
 album = "幻日のヨハネ -SUNSHINE in the MIRROR- オリジナルソングCD7"
@@ -11233,7 +11329,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec2dd34b-debd-415b-9dfd-217a31d0fa0c", "https://vgmdb.net/album/130468"]
 
-[701]
+[705]
 catalognumber = "LACM-24523"
 date = "2024-03-27"
 album = "以心☆電信 / みらくらぱーく！"
@@ -11247,7 +11343,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0583da43-a130-4175-8154-a2aa2b1816fd", "https://vgmdb.net/album/137560"]
 
-[702]
+[706]
 catalognumber = "LACM-24527"
 date = "2024-04-03"
 album = "抱きしめる花びら / 蓮ノ空女学院スクールアイドルクラブ"
@@ -11259,7 +11355,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/10275aed-d322-461e-94ad-07e15696b13f", "https://vgmdb.net/album/137991"]
 
-[703]
+[707]
 catalognumber = "LACM-24530"
 date = "2024-04-10"
 album = "虹ヶ咲学園校歌 / 虹ヶ咲学園スクールアイドル同好会"
@@ -11271,7 +11367,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/da78fdf9-5d6f-4ade-899e-14efbd6e0b7f", "https://vgmdb.net/album/136100"]
 
-[704]
+[708]
 catalognumber = "LACA-25089"
 date = "2024-04-17"
 album = "Dream Believers (104期 Ver.) / 蓮ノ空女学院スクールアイドルクラブ"
@@ -11285,7 +11381,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c31ff62c-df77-4a01-8635-24eb3cff6c9e", "https://vgmdb.net/album/138421"]
 
-[705]
+[709]
 catalognumber = "LACM-24591"
 date = "2024-04-24"
 album = "ニュートラル / KALEIDOSCORE"
@@ -11299,7 +11395,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd80cc67-5f9d-415d-a8d9-c6044de25b2f", "https://vgmdb.net/album/139008"]
 
-[706]
+[710]
 catalognumber = "LACM-24592"
 date = "2024-04-24"
 album = "Jellyfish / 5yncri5e!"
@@ -11313,7 +11409,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/64431b36-249d-40d9-a80e-ef11896d5aa5", "https://vgmdb.net/album/139012"]
 
-[707]
+[711]
 catalognumber = "LACM-24590"
 date = "2024-04-24"
 album = "ディストーション / CatChu!"
@@ -11327,7 +11423,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1a2e0278-678f-4788-a642-68a14b0e08e0", "https://vgmdb.net/album/139006"]
 
-[708]
+[712]
 catalognumber = "LACM-24540"
 date = "2024-05-08"
 album = "peace piece pizza / わいわいわい"
@@ -11339,7 +11435,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cf492504-1f3d-4e7e-b4b5-88649cb51660", "https://vgmdb.net/album/140063"]
 
-[709]
+[713]
 catalognumber = "LACM-24550"
 date = "2024-05-29"
 album = "Deep Blue / Aqours"
@@ -11351,7 +11447,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93a19480-6b59-4f06-8491-3e638942ba43", "https://vgmdb.net/album/140214"]
 
-[710]
+[714]
 catalognumber = "LACM-24571"
 date = "2024-07-17"
 album = "Bloom the smile, Bloom the dream! / 蓮ノ空女学院スクールアイドルクラブ"
@@ -11363,7 +11459,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e1063394-f3cd-4eab-91d6-c3f9faec3be2", "https://vgmdb.net/album/141123"]
 
-[711]
+[715]
 catalognumber = "LACA-19060"
 date = "2024-08-01"
 album = "LoveLive! Sunshine!! Fourth Solo Concert Album ~THE STORY OF SUNSHINE!!~ starring Takami Chika Disc 1 [LACA-19060]"
@@ -11382,7 +11478,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1971af09-1e86-43e4-9a1e-4286fd691ed9", "https://vgmdb.net/album/140761"]
 
-[712]
+[716]
 catalognumber = "LACA-19061"
 date = "2024-08-01"
 album = "LoveLive! Sunshine!! Fourth Solo Concert Album ~THE STORY OF SUNSHINE!!~ starring Takami Chika Disc 2 [LACA-19061]"
@@ -11400,7 +11496,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1971af09-1e86-43e4-9a1e-4286fd691ed9", "https://vgmdb.net/album/140761"]
 
-[713]
+[717]
 catalognumber = "LABX-38770"
 date = "2024-08-07"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦 Blu-ray【初回限定版】 Disc 1 [LABX-38770]"
@@ -11466,7 +11562,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135227"]
 
-[714]
+[718]
 catalognumber = "LABX-38771"
 date = "2024-08-07"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦 Blu-ray【初回限定版】 Disc 2 [LABX-38771]"
@@ -11532,7 +11628,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135227"]
 
-[715]
+[719]
 catalognumber = "LABX-38772"
 date = "2024-08-07"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦 Blu-ray【初回限定版】 Disc 3 [LABX-38772]"
@@ -11543,7 +11639,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135227"]
 
-[716]
+[720]
 catalognumber = "LABX-8770"
 date = "2024-08-07"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦 Blu-ray Disc 1 [LABX-8770]"
@@ -11609,7 +11705,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135228"]
 
-[717]
+[721]
 catalognumber = "LABX-8771"
 date = "2024-08-07"
 album = "異次元フェス アイドルマスター★♥ラブライブ！歌合戦 Blu-ray Disc 2 [LABX-8771]"
@@ -11675,7 +11771,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/135228"]
 
-[718]
+[722]
 catalognumber = "LACA-19080"
 date = "2024-08-07"
 album = "「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」ライブ音源CD Disc 1 [LACA-19080]"
@@ -11700,7 +11796,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/140040"]
 
-[719]
+[723]
 catalognumber = "LACA-19081"
 date = "2024-08-07"
 album = "「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」ライブ音源CD Disc 2 [LACA-19081]"
@@ -11727,7 +11823,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/140040"]
 
-[720]
+[724]
 catalognumber = "LACZ-10205"
 date = "2024-08-21"
 album = "椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム!"
@@ -11747,7 +11843,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2852c992-2c6a-4528-9da2-495b5131fd1c", "https://vgmdb.net/album/136101"]
 
-[721]
+[725]
 catalognumber = "LACM-24625"
 date = "2024-09-04"
 album = "月夜見海月 / スリーズブーケ"
@@ -11759,7 +11855,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/677c1a37-b2f7-4d35-adae-97100f7e472a", "https://vgmdb.net/album/142774"]
 
-[722]
+[726]
 catalognumber = "LACM-24626"
 date = "2024-09-11"
 album = "Proof / DOLLCHESTRA"
@@ -11771,7 +11867,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/db77cc05-05c7-4ccf-a148-cc5555a507d6", "https://vgmdb.net/album/142907"]
 
-[723]
+[727]
 catalognumber = "LACM-24630"
 date = "2024-09-20"
 album = "「LoveLive! Series Asia Tour 2024 ～みんなで叶える物語～」テーマソングCD「Bring the LOVE!」 / 渡辺曜 (CV: 斉藤朱夏)、上原歩夢 (CV: 大西亜玖璃)、澁谷かのん (CV: 伊達さゆり)、日野下花帆 (CV: 楡井希実)、高坂穂乃果 (CV: 新田恵海)※ゲスト歌唱"
@@ -11781,7 +11877,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b6da66c7-6d71-47d8-b75c-5f10250799ae", "https://vgmdb.net/album/142910"]
 
-[724]
+[728]
 catalognumber = "LACA-25124"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [上原歩夢盤]"
@@ -11801,7 +11897,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5ae387ac-5f40-44a7-b9f6-f18508b8f060", "https://vgmdb.net/album/143199"]
 
-[725]
+[729]
 catalognumber = "LACA-25120"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [桜坂しずく盤]"
@@ -11821,7 +11917,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4bfb17c-1531-44ef-9daa-4821bf303687", "https://vgmdb.net/album/143097"]
 
-[726]
+[730]
 catalognumber = "LACA-25122"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [エマ・ヴェルデ盤]"
@@ -11841,7 +11937,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5cd8e092-bd90-4b13-9437-1453173de0d2", "https://vgmdb.net/album/143099"]
 
-[727]
+[731]
 catalognumber = "LACA-25125"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [主題歌盤]"
@@ -11861,7 +11957,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a33897a4-f309-46de-828e-9e662cbbb2ef", "https://vgmdb.net/album/143096"]
 
-[728]
+[732]
 catalognumber = "LACA-25123"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [鐘嵐珠盤]"
@@ -11881,7 +11977,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba301454-4eac-4397-84c6-c7722c932ddf", "https://vgmdb.net/album/143100"]
 
-[729]
+[733]
 catalognumber = "LACA-25121"
 date = "2024-09-25"
 album = "どこにいても君は君 / 虹ヶ咲学園スクールアイドル同好会 [近江彼方盤]"
@@ -11901,7 +11997,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/eb14a510-b03a-4cbc-91f2-902310e2a63a", "https://vgmdb.net/album/143098"]
 
-[730]
+[734]
 catalognumber = "LACM-24577"
 date = "2024-10-02"
 album = "ファンファーレ!!! / みらくらぱーく!"
@@ -11913,7 +12009,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6858a82e-ee34-4aea-9527-50dce0d89d49", "https://vgmdb.net/album/143971"]
 
-[731]
+[735]
 catalognumber = "LABX-8840"
 date = "2024-10-16"
 album = "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN! CAN! FUN!～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 1"
@@ -11951,7 +12047,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145258"]
 
-[732]
+[736]
 catalognumber = "LABX-8841"
 date = "2024-10-16"
 album = "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN! CAN! FUN!～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 2"
@@ -11990,7 +12086,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145258"]
 
-[733]
+[737]
 catalognumber = "LABX-8842"
 date = "2024-10-16"
 album = "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN! CAN! FUN!～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 3"
@@ -12005,7 +12101,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145258"]
 
-[734]
+[738]
 catalognumber = "LABX-8843"
 date = "2024-10-16"
 album = "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN! CAN! FUN!～ Blu-ray Memorial BOX Vocal, Live Event, Talk, Video Disc 4"
@@ -12030,7 +12126,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145258"]
 
-[735]
+[739]
 catalognumber = "LABX-8844"
 date = "2024-10-16"
 album = "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN! CAN! FUN!～ Blu-ray Memorial BOX Live Event, Talk, Video"
@@ -12040,7 +12136,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145258"]
 
-[736]
+[740]
 catalognumber = "LACM-24650"
 date = "2024-10-23"
 album = "Let's be ONE / Liella!"
@@ -12052,7 +12148,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/56df7d10-d63d-48f4-9cf6-a686bd52159e", "https://vgmdb.net/album/143487"]
 
-[737]
+[741]
 catalognumber = "LACM-24651"
 date = "2024-10-23"
 album = "DAISUKI FULL POWER / Liella!"
@@ -12064,7 +12160,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/87c0db7a-0754-41d6-bf1c-bfdd0c3d306e", "https://vgmdb.net/album/143677"]
 
-[738]
+[742]
 catalognumber = "LACM-24661"
 date = "2024-11-13"
 album = "Bubble Rise/Special Color / Liella! [第2話盤]"
@@ -12078,7 +12174,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96fdccfe-36a9-4d63-a727-99a4c2cf4d2d", "https://vgmdb.net/album/144534"]
 
-[739]
+[743]
 catalognumber = "LACM-24662"
 date = "2024-11-13"
 album = "Bubble Rise/Special Color / Liella! [第3話盤]"
@@ -12092,7 +12188,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6fd7e06-6f82-47a1-906d-61e0dd61fd20", "https://vgmdb.net/album/144535"]
 
-[740]
+[744]
 catalognumber = "LACM-24639"
 date = "2024-12-04"
 album = "ハナムスビ / バアドケージ / ジョーショーキリュー / スリーズブーケ&DOLLCHESTRA&みらくらぱーく!"
@@ -12106,7 +12202,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fb6b0c15-1d2b-407e-93ed-f0b0cfa859d2", "https://vgmdb.net/album/145116"]
 
-[741]
+[745]
 catalognumber = "LACA-19054"
 date = "2024-12-04"
 album = "映画『ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編 第1章』オリジナルサウンドトラック&ボーカルコレクション「珊瑚礁の記憶」 Original Soundtrack, Vocal"
@@ -12135,7 +12231,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/106d1a80-5fb3-453c-a4dd-444e4dcb2390", "https://vgmdb.net/album/144449"]
 
-[742]
+[746]
 catalognumber = "LACA-19055"
 date = "2024-12-04"
 album = "映画『ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編 第1章』オリジナルサウンドトラック&ボーカルコレクション「珊瑚礁の記憶」 Vocal"
@@ -12155,7 +12251,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/106d1a80-5fb3-453c-a4dd-444e4dcb2390", "https://vgmdb.net/album/144449"]
 
-[743]
+[747]
 catalognumber = "LACM-24664"
 date = "2024-12-11"
 album = "絶対的LOVER/Dazzling Game / Liella! [第8話盤]"
@@ -12169,7 +12265,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/419edfad-f7f1-475f-93d0-d74c5581b49b", "https://vgmdb.net/album/144538"]
 
-[744]
+[748]
 catalognumber = "LACM-24663"
 date = "2024-12-11"
 album = "絶対的LOVER/Dazzling Game / Liella! [第6話盤]"
@@ -12183,7 +12279,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ffc74846-0f3c-4ed1-bf2a-6d0a82b54998", "https://vgmdb.net/album/144537"]
 
-[745]
+[749]
 catalognumber = "LACM-24640"
 date = "2024-12-18"
 album = "永久hours / Aqours"
@@ -12195,7 +12291,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4eea660a-0bb0-4c23-9a75-19245233a505", "https://vgmdb.net/album/145793"]
 
-[746]
+[750]
 catalognumber = "LACM-34640"
 date = "2024-12-18"
 album = "永久hours / Aqours [Blu-ray付初回限定盤] Vocal"
@@ -12207,7 +12303,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9000a53-4f58-4278-9ebd-d6156e66b788", "https://vgmdb.net/album/145794"]
 
-[747]
+[751]
 catalognumber = "LACM-34640"
 date = "2024-12-18"
 album = "永久hours / Aqours [Blu-ray付初回限定盤] Vocal, Video"
@@ -12217,7 +12313,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9000a53-4f58-4278-9ebd-d6156e66b788", "https://vgmdb.net/album/145794"]
 
-[748]
+[752]
 catalognumber = "LACM-24666"
 date = "2025-01-08"
 album = "笑顔のPromise/スーパースター!! / Liella! [第11話盤]"
@@ -12231,7 +12327,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61087a77-f53c-4552-880e-e30439f7b368", "https://vgmdb.net/album/144654"]
 
-[749]
+[753]
 catalognumber = "LACM-24665"
 date = "2025-01-08"
 album = "笑顔のPromise/スーパースター!! / Liella! [第10話盤]"
@@ -12245,7 +12341,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8c9b3ae-acd6-4739-81e8-479e1ab10f6c", "https://vgmdb.net/album/144539"]
 
-[750]
+[754]
 catalognumber = "LACM-24667"
 date = "2025-01-15"
 album = "始まりは君の空 ～11 Ver.～ / Liella!"
@@ -12255,7 +12351,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61a85155-e433-4e31-b3ff-3e6f5bddbe63", "https://vgmdb.net/album/144655"]
 
-[751]
+[755]
 catalognumber = "LACM-24620"
 date = "2025-01-22"
 album = "愛♡スクリ～ム! / AiScReam"
@@ -12268,7 +12364,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9883192d-3b10-4659-ab39-f5f0c6758e6b", "https://vgmdb.net/album/146201"]
 
-[752]
+[756]
 catalognumber = "LACA-25142"
 date = "2025-01-29"
 album = "リエラのうた3 / Liella!"
@@ -12282,7 +12378,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7f60fc37-13b1-4ab3-83c1-74992881c1b8", "https://vgmdb.net/album/144656"]
 
-[753]
+[757]
 catalognumber = "LACM-24671"
 date = "2025-01-29"
 album = "NIJIGAKU Monthly Songs♪1月度シングル: White Delight / ミア・テイラー (CV. 内田秀)"
@@ -12294,7 +12390,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d0fd0922-fa77-419e-9863-6540b497e9e0", "https://vgmdb.net/album/146650"]
 
-[754]
+[758]
 catalognumber = "BCXA-1968"
 date = "2025-01-29"
 album = "ラブライブ！虹ヶ咲学園スクールアイドル同好会完結編第1章 ORIGINAL SONG CD"
@@ -12304,7 +12400,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/146648"]
 
-[755]
+[759]
 catalognumber = "LACM-24652"
 date = "2025-02-05"
 album = "KEY of Like! / 蓮ノ空女学院スクールアイドルクラブ"
@@ -12316,7 +12412,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1b503d46-805c-48ec-9792-f295b8020ed9", "https://vgmdb.net/album/146802"]
 
-[756]
+[760]
 catalognumber = "LACA-19078"
 date = "2025-02-05"
 album = "TVアニメ『ラブライブ!スーパースター!!』3期 オリジナルサウンドトラック 「The beginning of the Superstar」 Original Soundtrack"
@@ -12351,7 +12447,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/881036c8-0f5c-4481-8879-205f14f1d333", "https://vgmdb.net/album/144274"]
 
-[757]
+[761]
 catalognumber = "LACA-19079"
 date = "2025-02-05"
 album = "TVアニメ『ラブライブ!スーパースター!!』3期 オリジナルサウンドトラック 「The beginning of the Superstar」 Vocal"
@@ -12380,7 +12476,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/881036c8-0f5c-4481-8879-205f14f1d333", "https://vgmdb.net/album/144274"]
 
-[758]
+[762]
 catalognumber = "LACM-24672"
 date = "2025-02-12"
 album = "NIJIGAKU Monthly Songs♪2月度シングル: Starry Night Serenade / エマ・ヴェルデ (CV. 指出毬亜)"
@@ -12392,7 +12488,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8926b0c5-d381-4cc1-a1c2-2ebd4a1c0855", "https://vgmdb.net/album/147632"]
 
-[759]
+[763]
 catalognumber = "LACM-24659"
 date = "2025-02-26"
 album = "AURORA FLOWER / 蓮ノ空女学院スクールアイドルクラブ"
@@ -12404,7 +12500,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/db937e4f-6376-46a9-8916-435df4b95063", "https://vgmdb.net/album/147633"]
 
-[760]
+[764]
 catalognumber = "LACM-24673"
 date = "2025-03-12"
 album = "NIJIGAKU Monthly Songs♪3月度シングル: The Sweetest Time♡ / 上原歩夢 (CV. 大西亜玖璃)"
@@ -12416,7 +12512,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/567238b8-c966-4e36-8951-ae1e7011b95b", "https://vgmdb.net/album/148245"]
 
-[761]
+[765]
 catalognumber = "LACM-24669"
 date = "2025-03-19"
 album = "COMPASS / DOLLCHESTRA"
@@ -12428,7 +12524,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c5ca1bd8-c8f1-4d0c-bb9a-429b56a91425", "https://vgmdb.net/album/148064"]
 
-[762]
+[766]
 catalognumber = "LACM-24670"
 date = "2025-03-19"
 album = "全方位キュン♡ / みらくらぱーく！"
@@ -12440,7 +12536,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/afa79f9d-4484-4798-8b8a-170d41be499c", "https://vgmdb.net/album/148065"]
 
-[763]
+[767]
 catalognumber = "LACM-24668"
 date = "2025-03-19"
 album = "ユメワズライ / スリーズブーケ"
@@ -12452,7 +12548,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f46f1d0-fbd0-49d2-87d1-643e95503706", "https://vgmdb.net/album/148063"]
 
-[764]
+[768]
 catalognumber = "BCXA-1957"
 date = "2025-03-26"
 album = "Liella! オリジナルソングCD①"
@@ -12462,7 +12558,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/146652"]
 
-[765]
+[769]
 catalognumber = "LACA-25149"
 date = "2025-03-26"
 album = "おいでよ！石川大観光 / 蓮ノ空女学院スクールアイドルクラブ"
@@ -12477,7 +12573,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/12208270-2051-4e0b-a6f0-87977ceb939f", "https://vgmdb.net/album/148066"]
 
-[766]
+[770]
 catalognumber = "LACM-24674"
 date = "2025-04-01"
 album = "NIJIGAKU Monthly Songs♪4月度シングル: にじいろ☆ルミエール / 中須かすみ (CV. 相良茉優)"
@@ -12489,7 +12585,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0ebe3027-9d0a-4134-a9c8-994b98c027ec", "https://vgmdb.net/album/148838"]
 
-[767]
+[771]
 catalognumber = "LACM-24685"
 date = "2025-04-09"
 album = "いつでも、いつまでも / 蓮ノ空女学院スクールアイドルクラブ"
@@ -12501,7 +12597,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54f9e320-1478-447a-8aec-7d6b4b994750", "https://vgmdb.net/album/148524"]
 
-[768]
+[772]
 catalognumber = "BCXA-1958"
 date = "2025-04-23"
 album = "Liella! オリジナルソングCD②"
@@ -12511,7 +12607,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/146653"]
 
-[769]
+[773]
 catalognumber = "LACA-25154"
 date = "2025-04-30"
 album = "Dream Believers (105期 Ver.) / 蓮ノ空女学院スクールアイドルクラブ"

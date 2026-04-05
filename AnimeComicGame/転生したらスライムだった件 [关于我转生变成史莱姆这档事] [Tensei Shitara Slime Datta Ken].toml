@@ -1153,6 +1153,124 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
 [65]
+catalognumber = "KIZM-781~2"
+date = "2023-11-01"
+album = "ココロトラベル / 岡咲美保 Disc 1 (CD) [KIZM-781]"
+tracks = [
+    [1, "ココロトラベル", "岡咲美保", 0],
+    [2, "キボウノレシピ", "岡咲美保", 0],
+    [3, "ココロトラベル (off vocal version)", "岡咲美保", 0],
+    [4, "キボウノレシピ (off vocal version)", "岡咲美保", 0],
+]
+links = ["https://vgmdb.net/album/132986", "https://beta.musicbrainz.org/release/92214a4d-daf1-4c83-b4cc-ae38fb5352c9"]
+
+[66]
+catalognumber = "KIZM-781~2"
+date = "2023-11-01"
+album = "ココロトラベル / 岡咲美保 Disc 2 (Blu-ray) [KIZM-782]"
+tracks = [
+    [1, "ココロトラベル (MUSIC VIDEO)", "岡咲美保", 0],
+    [2, "キボウノレシピ (MUSIC VIDEO)", "岡咲美保", 0],
+    [3, "MAKING", "岡咲美保", 0],
+]
+links = ["https://vgmdb.net/album/132986", "https://beta.musicbrainz.org/release/92214a4d-daf1-4c83-b4cc-ae38fb5352c9"]
+
+[67]
+catalognumber = "LZC-2558"
+date = "2023-11-01"
+album = "ヒカリハナツ / 寺島拓篤"
+tracks = [
+    [1, "ヒカリハナツ", "寺島拓篤", 0],
+]
+links = ["https://vgmdb.net/album/132900", "https://beta.musicbrainz.org/release/a2a37c94-f503-4c60-af30-8650515cb6cd"]
+
+[68]
+catalognumber = "KICM-2139"
+date = "2023-11-01"
+album = "ココロトラベル / 岡咲美保"
+tracks = [
+    [1, "ココロトラベル", "岡咲美保", 0],
+    [2, "キボウノレシピ", "岡咲美保", 0],
+    [3, "ココロトラベル (off vocal version)", "岡咲美保", 0],
+    [4, "キボウノレシピ (off vocal version)", "岡咲美保", 0],
+]
+links = ["https://vgmdb.net/album/132985", "https://beta.musicbrainz.org/release/dd60a0d3-08ed-4632-b9b2-7b8ac1648f34"]
+
+[69]
+catalognumber = "LACM-34557"
+date = "2024-05-22"
+album = "Believer / 来栖りん [初回限定盤] Vocal"
+tracks = [
+    [1, "Believer", "来栖りん", 0],
+    [2, "SUMMER JOY", "来栖りん", 0],
+    [3, "ヒロイン", "来栖りん", 0],
+]
+links = ["https://vgmdb.net/album/137033", "https://beta.musicbrainz.org/release/4d2fc318-f03f-4b3f-9092-ccedfe657121"]
+
+[70]
+catalognumber = "LACM-34557"
+date = "2024-05-22"
+album = "Believer / 来栖りん [初回限定盤] Video"
+tracks = [
+    [1, "Believer -Music Video-", "来栖りん", 0],
+    [2, "Believer -Making Movie-", "来栖りん", 0],
+]
+links = ["https://vgmdb.net/album/137033", "https://beta.musicbrainz.org/release/c2ffb1ac-6b19-4d36-bd5c-2942c2a96551"]
+
+[71]
+catalognumber = "LACM-24557"
+date = "2024-05-22"
+album = "Believer / 来栖りん [通常盤A]"
+tracks = [
+    [1, "Believer", "来栖りん", 0],
+    [2, "SUMMER JOY", "来栖りん", 0],
+    [3, "ヒロイン", "来栖りん", 0],
+]
+links = ["https://vgmdb.net/album/137035", "https://beta.musicbrainz.org/release/5ed717ce-4932-4972-bd16-40f403d00714"]
+
+[72]
+catalognumber = "LACM-24558"
+date = "2024-05-22"
+album = "Believer / 来栖りん [通常盤B]"
+tracks = [
+    [1, "Believer", "来栖りん", 0],
+    [2, "SUMMER JOY", "来栖りん", 0],
+    [3, "ヒロイン", "来栖りん", 0],
+]
+links = ["https://vgmdb.net/album/137034", "https://beta.musicbrainz.org/release/4d2fc318-f03f-4b3f-9092-ccedfe657121"]
+
+[73]
+catalognumber = "LACM-24538"
+date = "2024-05-29"
+album = "PEACEKEEPER / STEREO DIVE FOUNDATION"
+tracks = [
+    [1, "PEACEKEEPER", "STEREO DIVE FOUNDATION", 0],
+    [2, "MONOGRAM", "STEREO DIVE FOUNDATION", 0],
+    [3, "PEACEKEEPER (TV Size)", "STEREO DIVE FOUNDATION", 0],
+    [4, "PEACEKEEPER (Instrumental)", "STEREO DIVE FOUNDATION", 0],
+    [5, "MONOGRAM (Instrumental)", "STEREO DIVE FOUNDATION", 0],
+]
+links = ["https://vgmdb.net/album/135414", "https://beta.musicbrainz.org/release/bddfc2f7-ac33-4361-b489-9296e37c350e"]
+
+[74]
+catalognumber = "LZC-2824"
+date = "2024-06-22"
+album = "Miracle soup / MindaRyn"
+tracks = [
+    [1, "Miracle soup", "MindaRyn", 0],
+]
+links = ["https://vgmdb.net/album/142323", "https://beta.musicbrainz.org/release/23cc43e1-57f8-4579-a1e8-622a296a6273"]
+
+[75]
+catalognumber = "NOPA-6129"
+date = "2024-06-28"
+album = "レナセールセレナーデ / ももいろクローバーZ"
+tracks = [
+    [1, "レナセールセレナーデ", "ももいろクローバーZ", 0],
+]
+links = ["https://vgmdb.net/album/140579", "https://beta.musicbrainz.org/release/26d67607-52c0-43d7-8ad4-ddedf0c86124"]
+
+[76]
 catalognumber = "LACM-24608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アーティスト盤] Vocal"
@@ -1164,7 +1282,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79e68593-24fa-4769-b6ac-f061583493cb", "https://vgmdb.net/album/143910"]
 
-[66]
+[77]
 catalognumber = "LACM-24608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アーティスト盤] Vocal, Live Event, Video"
@@ -1190,7 +1308,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/79e68593-24fa-4769-b6ac-f061583493cb", "https://vgmdb.net/album/143910"]
 
-[67]
+[78]
 catalognumber = "LACM-34608"
 date = "2024-08-28"
 album = "フローズン / TRUE [アニメ盤]"
@@ -1202,7 +1320,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70f2f461-281c-4f6e-974c-2cb6adeff742", "https://vgmdb.net/album/143905"]
 
-[68]
+[79]
 catalognumber = "LZC-2876"
 date = "2024-09-27"
 album = "TVアニメ『転生したらスライムだった件 第3期』オリジナルサウンドトラック「転生したら音楽だった件3」 Disc 1"
@@ -1241,7 +1359,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/86058266-a394-4bf9-87ca-d51f8e966633", "https://vgmdb.net/album/142987"]
 
-[69]
+[80]
 catalognumber = "LZC-2876"
 date = "2024-09-27"
 album = "TVアニメ『転生したらスライムだった件 第3期』オリジナルサウンドトラック「転生したら音楽だった件3」 Disc 2"

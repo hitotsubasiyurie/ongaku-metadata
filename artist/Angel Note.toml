@@ -2628,6 +2628,27 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/261b66cd-0469-46b3-a091-fbdce619c19d"]
 
 [117]
+catalognumber = "LHCA-5051"
+date = "2006-08-23"
+album = "Utopia -Angel Note Best Collection 2-"
+tracks = [
+    [1, "桃源郷", "Riryka", 0],
+    [2, "chu-chu-chu", "中山♡マミ", 0],
+    [3, "Utopia", "kala", 0],
+    [4, "I'll try my best", "中山♡マミ", 0],
+    [5, "紺色と黒のファンタジー", "中山♡マミ", 0],
+    [6, "絆は銀の糸", "榊原ゆい", 0],
+    [7, "REAL", "Riryka", 0],
+    [8, "トビラ ～明日への地図～", "Shizuku", 0],
+    [9, "空にキス", "Riryka", 0],
+    [10, "迷宮 ～Endress Labyrinth～", "kala", 0],
+    [11, "ハートのベルはring ring ring", "ましろゆき", 0],
+    [12, "La La サマーホリデイズ", "中山♡マミ", 0],
+    [13, "月光花", "Riryka", 0],
+]
+links = ["https://vgmdb.net/album/8966", "https://beta.musicbrainz.org/release/261b66cd-0469-46b3-a091-fbdce619c19d"]
+
+[118]
 catalognumber = "KOIOTOME-T"
 date = "2006-08-25"
 album = "Koi Otome Maxi Single CD"
@@ -2641,7 +2662,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/30508"]
 
-[118]
+[119]
 catalognumber = "RYUSYS-0077"
 date = "2006-09-01"
 album = "Original Sound Track \"Men at Work!\" 1~4 COMPLETE! Original Soundtrack"
@@ -2665,7 +2686,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4720"]
 
-[119]
+[120]
 catalognumber = "RYUSYS-0077"
 date = "2006-09-01"
 album = "Original Sound Track \"Men at Work!\" 1~4 COMPLETE! Original Soundtrack, Vocal Disc 2"
@@ -2692,7 +2713,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4720"]
 
-[120]
+[121]
 catalognumber = "RYUSYS-0077"
 date = "2006-09-01"
 album = "Original Sound Track \"Men at Work!\" 1~4 COMPLETE! Original Soundtrack, Vocal Disc 3"
@@ -2720,7 +2741,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4720"]
 
-[121]
+[122]
 catalognumber = "RYUSYS-0077"
 date = "2006-09-01"
 album = "Original Sound Track \"Men at Work!\" 1~4 COMPLETE! Original Soundtrack, Vocal Disc 4"
@@ -2753,7 +2774,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4720"]
 
-[122]
+[123]
 catalognumber = "STEG-06011"
 date = "2006-09-01"
 album = "Men at Work! 4 Vocal CD"
@@ -2766,7 +2787,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/28286"]
 
-[123]
+[124]
 catalognumber = "WFKU-609S"
 date = "2006-09-22"
 album = "Kokyou no Uta Gratitude DISC ~Ruruho kara no Kansha CD~"
@@ -2795,7 +2816,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/42732"]
 
-[124]
+[125]
 catalognumber = "LTXA-002"
 date = "2006-09-22"
 album = "HONEY / Yui Sakakibara"
@@ -2818,7 +2839,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed4fff00-c2cb-47e2-97f7-b82d09d2d250", "https://vgmdb.net/album/69069"]
 
-[125]
+[126]
 catalognumber = "RSNREC-001"
 date = "2006-10-27"
 album = "ANGEL SOUND COMPLETE: Mahou Tenshi Series Complete Soundtrack"
@@ -2865,7 +2886,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20416"]
 
-[126]
+[127]
 catalognumber = "LACA-5592"
 date = "2006-12-21"
 album = "crystal3: CIRCUS VOCAL COLLECTION Vol.3"
@@ -2885,7 +2906,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c62f2350-70f0-4074-9ee7-ced1f3c8b60a", "https://vgmdb.net/album/12752"]
 
-[127]
+[128]
 catalognumber = "JJN-100S"
 date = "2006-12-22"
 album = "CROSS FIRE Original Soundtrack"
@@ -2911,7 +2932,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4042"]
 
-[128]
+[129]
 catalognumber = "KQC20K"
 date = "2006-12-29"
 album = "Tsukushite Ageru noni!! - Koharu no Dokidoki☆Kounai Housoukyoku"
@@ -2924,7 +2945,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29752"]
 
-[129]
+[130]
 catalognumber = "PRM-001"
 date = "2006-12-29"
 album = "Purimoba Vocal Stage 2006 Winter"
@@ -2938,7 +2959,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ebb1c1b0-e37b-453c-bdae-4e63e6c547e4", "https://vgmdb.net/album/11584"]
 
-[130]
+[131]
 catalognumber = "STEG-06023"
 date = "2006-12-29"
 album = "Aozora Magiccer!! Original Soundtrack"
@@ -2969,7 +2990,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4771"]
 
-[131]
+[132]
 catalognumber = "STEG-06024"
 date = "2006-12-29"
 album = "Okaeshi Beast!! Original Soundtrack"
@@ -2997,7 +3018,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4779"]
 
-[132]
+[133]
 catalognumber = "LHCA-5065"
 date = "2007-03-07"
 album = "BellesDivas -Angel Note BEST COLLECTION III-"
@@ -3021,7 +3042,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b84060b7-5718-45ef-aa1e-f9006d01542f"]
 
-[133]
+[134]
+catalognumber = "LHCA-5065"
+date = "2007-03-07"
+album = "BellesDivas -Angel Note BEST COLLECTION III-"
+tracks = [
+    [1, "Beautiful Harmony", "榊原ゆい", 0],
+    [2, "Up to you", "中山♡マミ", 0],
+    [3, "Miss You", "Riryka", 0],
+    [4, "小夜鳴鳥に背を向けて", "kala", 0],
+    [5, "Keep back my tears", "中山♡マミ", 0],
+    [6, "Favorite Love", "榊原ゆい", 0],
+    [7, "カッコよくなくちゃ！", "中山♡マミ", 0],
+    [8, "壊れた月", "kala", 0],
+    [9, "Strong Will", "中山♡マミ", 0],
+    [10, "傷跡", "Riryka", 0],
+    [11, "Wake me up！", "榊原ゆい", 0],
+    [12, "今日も笑顔で", "中山♡マミ", 0],
+    [13, "Moving Love", "kala", 0],
+    [14, "咲く未来", "中山♡マミ", 0],
+    [15, "In Your Sky", "榊原ゆい", 0],
+    [16, "My Dear", "中山♡マミ", 0],
+]
+links = ["https://vgmdb.net/album/8967", "https://beta.musicbrainz.org/release/b84060b7-5718-45ef-aa1e-f9006d01542f"]
+
+[135]
 catalognumber = "LACM-4365"
 date = "2007-05-09"
 album = "D.C.II ~Da Capo II~ Spring Celebration Grand Opening Theme \"Happy my life ~Thank you for everything!!~\""
@@ -3033,7 +3078,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd7f8582-73bb-482c-b178-389d72711b4f", "https://vgmdb.net/album/12714"]
 
-[134]
+[136]
 catalognumber = "LACA-5636"
 date = "2007-05-23"
 album = "D.C.II Spring Celebration Vocal Mini Album ~Songs from D.C.II Spring Celebration~"
@@ -3046,7 +3091,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c25c57b8-03ee-4462-89a2-56d5f91d09b8", "https://vgmdb.net/album/27614"]
 
-[135]
+[137]
 catalognumber = ""
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Preorder Bonus Special CD"
@@ -3071,7 +3116,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/26171"]
 
-[136]
+[138]
 catalognumber = "PSTA-0706S"
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Original Voice Drama"
@@ -3084,7 +3129,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/6822"]
 
-[137]
+[139]
 catalognumber = "MESSE-284"
 date = "2007-06-01"
 album = "Tsukushite Ageru noni!! Original Drama"
@@ -3097,7 +3142,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/24317"]
 
-[138]
+[140]
 catalognumber = "STEG-07013"
 date = "2007-08-16"
 album = "Studio e.go! Vocal Collection Vol.7"
@@ -3114,7 +3159,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29848"]
 
-[139]
+[141]
 catalognumber = "MNST-012"
 date = "2007-08-24"
 album = "Clear Original Sound Track Disc 1"
@@ -3152,7 +3197,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cea9cf77-40ec-4659-8d06-c4057e4a2e22", "https://vgmdb.net/album/4762"]
 
-[140]
+[142]
 catalognumber = "MNST-012"
 date = "2007-08-24"
 album = "Clear Original Sound Track Disc 2"
@@ -3176,7 +3221,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cea9cf77-40ec-4659-8d06-c4057e4a2e22", "https://vgmdb.net/album/4762"]
 
-[141]
+[143]
 catalognumber = "VZ-0045"
 date = "2007-09-28"
 album = "Suisei Tenshi Primaveil Zwei SELECT SOUNDS"
@@ -3197,7 +3242,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/69056"]
 
-[142]
+[144]
 catalognumber = "LACA-5713"
 date = "2007-11-21"
 album = "Hatsunejima Best: D.C. ~Da Capo~ Best Selection"
@@ -3217,7 +3262,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6f8b9056-2e41-4007-bbeb-3cd0e119a992", "https://vgmdb.net/album/11322"]
 
-[143]
+[145]
 catalognumber = "KGD-07071"
 date = "2007-12-21"
 album = "Solfege Original Soundtrack"
@@ -3246,7 +3291,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/6180"]
 
-[144]
+[146]
 catalognumber = "LOS-K001"
 date = "2007-12-29"
 album = "Nursery Rhyme Character Song Vol.1 Az's Labyrinth"
@@ -3257,7 +3302,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e70f8ef-a763-4288-b430-5e99635ce7bc", "https://vgmdb.net/album/6653"]
 
-[145]
+[147]
 catalognumber = "LACA-5730"
 date = "2008-01-23"
 album = "Ageha / yozuca*"
@@ -3277,7 +3322,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b13b8e0c-e5f3-4d00-a6fa-167c4e37ed1b", "https://vgmdb.net/album/13502"]
 
-[146]
+[148]
 catalognumber = "PAM-0052"
 date = "2008-01-25"
 album = "PENCIL VOCAL COLLECTION 02"
@@ -3299,7 +3344,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d35aa769-ba84-48fe-9e58-b12f89ea393e", "https://vgmdb.net/album/5890"]
 
-[147]
+[149]
 catalognumber = ""
 date = "2008-05-30"
 album = "Furufuru☆Full Moon Original Soundtrack FURUFULL"
@@ -3341,7 +3386,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/35322"]
 
-[148]
+[150]
 catalognumber = "SPUS-21010"
 date = "2008-06-27"
 album = "Unity Marriage Soundtrack"
@@ -3373,7 +3418,31 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/9189"]
 
-[149]
+[151]
+catalognumber = "SRL-1001"
+date = "2008-06-27"
+album = "Be nuts about Angels -Angel Note Best Collection 4-"
+tracks = [
+    [1, "トキメキDay by day", "神代あみ", 0],
+    [2, "Trust in me", "榊原ゆい", 0],
+    [3, "みだれ髪", "Riryka", 0],
+    [4, "Let’s Do It！", "中山♡マミ", 0],
+    [5, "星屑の天使", "真里歌", 0],
+    [6, "Clover", "中山♡マミ", 0],
+    [7, "Happy xx time", "神代あみ", 0],
+    [8, "Eternity Star’s", "中瀬ひな", 0],
+    [9, "Festivity", "中山♡マミ", 0],
+    [10, "月光～君恋し夜～", "Riryka", 0],
+    [11, "パーソナルスペース", "榊原ゆい", 0],
+    [12, "true drop", "霜月はるか", 0],
+    [13, "碧い約束", "真里歌", 0],
+    [14, "endlessly", "中山♡マミ", 0],
+    [15, "Green Road", "kala", 0],
+    [16, "晴れのち曇り時々雨", "榊原ゆい", 0],
+]
+links = ["https://vgmdb.net/album/8475", "https://beta.musicbrainz.org/release/a4c815b1-d6f2-462e-834a-e1220a27b400"]
+
+[152]
 catalognumber = "MRCD0808"
 date = "2008-07-31"
 album = "Marron Vocal Collection"
@@ -3394,7 +3463,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/10114"]
 
-[150]
+[153]
 catalognumber = "ele-a005"
 date = "2008-08-15"
 album = "Escu:de vocal collection vol.1"
@@ -3420,7 +3489,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4b1ef22-2273-435d-a9f8-bf36ddc9fe9e", "https://vgmdb.net/album/10197"]
 
-[151]
+[154]
+catalognumber = "SRL-1002"
+date = "2008-08-29"
+album = "Sing Song Swing -Angel Note Best Collection 5-"
+tracks = [
+    [1, "Little wing", "榊原ゆい", 0],
+    [2, "色褪せた旋律", "Riryka", 0],
+    [3, "彼女×彼女×彼女～今夜はぎゅっと抱きしめてね～", "中山♡マミ", 0],
+    [4, "絆", "真里歌", 0],
+    [5, "Fairy tale of fantasy", "中瀬ひな", 0],
+    [6, "ふたりのり", "神代あみ", 0],
+    [7, "NAMIDA", "Riryka", 0],
+    [8, "Eternal Ring", "榊原ゆい", 0],
+    [9, "涙の破片", "中山♡マミ", 0],
+    [10, "Castle of Heaven", "神代あみ", 0],
+    [11, "誇り高き勇者", "Riryka", 0],
+    [12, "Purest Days", "真理絵", 0],
+    [13, "薔薇に抱かれて", "Riryka", 0],
+    [14, "CROSS WORLD", "神代あみ", 0],
+    [15, "最初の一歩", "中山♡マミ", 0],
+    [16, "宝物", "Riryka", 0],
+]
+links = ["https://vgmdb.net/album/9155", "https://beta.musicbrainz.org/release/cb2c6331-c041-4a52-bdc5-4de55ce4bdf7"]
+
+[155]
 catalognumber = "KICS-1391"
 date = "2008-09-10"
 album = "JOKER / Yui Sakakibara"
@@ -3443,7 +3536,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4e98113-fa04-47a2-8852-4ad52e7a2a53", "https://vgmdb.net/album/9354"]
 
-[152]
+[156]
 catalognumber = "LACM-4525"
 date = "2008-09-10"
 album = "TV Animation Hidamari Sketch x365 Character Song Vol.1 YUNO"
@@ -3455,7 +3548,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/93be9ec7-b06c-4f1c-b40a-356bfd58fddf", "https://vgmdb.net/album/21062"]
 
-[153]
+[157]
 catalognumber = "SRL-2005"
 date = "2008-09-12"
 album = "Mou Ichinichi Hoshikatta/Lump of Sugeeeeee!! / UMA"
@@ -3469,7 +3562,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a1349880-5787-4bed-927a-a7d0a1c0e6e8", "https://vgmdb.net/album/68854"]
 
-[154]
+[158]
 catalognumber = "VT-0810-2V"
 date = "2008-10-24"
 album = "ENGAGE LINKS Yachatta CD"
@@ -3481,7 +3574,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/10889"]
 
-[155]
+[159]
 catalognumber = "AM-0002"
 date = "2009-05-01"
 album = "Concerto Note Original Sound Track [Limited Edition] Disc 1"
@@ -3508,7 +3601,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/12941"]
 
-[156]
+[160]
 catalognumber = "AM-0002"
 date = "2009-05-01"
 album = "Concerto Note Original Sound Track [Limited Edition] Disc 2"
@@ -3536,7 +3629,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/12941"]
 
-[157]
+[161]
 catalognumber = "AM-0003"
 date = "2009-05-01"
 album = "Rui wa Tomo wo Yobu Original Sound Track [Limited Edition]"
@@ -3581,7 +3674,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/98cde9e1-73e8-4cf8-9477-18593411f69e", "https://vgmdb.net/album/12942"]
 
-[158]
+[162]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 1"
@@ -3621,7 +3714,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[159]
+[163]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 2"
@@ -3636,7 +3729,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[160]
+[164]
 catalognumber = "AM-0004"
 date = "2009-05-01"
 album = "暁の護衛＆暁の護衛～プリンシパルたちの休日～ ORIGINAL SOUND TRACK Disc 3"
@@ -3645,7 +3738,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
-[161]
+[165]
 catalognumber = "LACA-5913"
 date = "2009-05-27"
 album = "yozuca* 10th Anniversary Best [enjoy]"
@@ -3670,7 +3763,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/308a4af2-137b-43e4-9c38-98904d06f946", "https://vgmdb.net/album/13421"]
 
-[162]
+[166]
 catalognumber = "SRL-1003"
 date = "2009-06-05"
 album = "Angel Book vol.01"
@@ -3688,7 +3781,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6c6872c1-4858-46bf-a95b-6a638c437af4"]
 
-[163]
+[167]
 catalognumber = "app-102"
 date = "2009-08-14"
 album = "Applique & Akatsuki Works Piano Arrange Album ~The piano which plays memory~"
@@ -3704,7 +3797,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/14985"]
 
-[164]
+[168]
 catalognumber = "KICS-1496"
 date = "2009-08-26"
 album = "Yeeeeell! / Yui Sakakibara"
@@ -3727,7 +3820,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba859bfd-9159-4805-98a1-dcd4c45ece08", "https://vgmdb.net/album/89178"]
 
-[165]
+[169]
 catalognumber = "SRL-1004"
 date = "2009-08-28"
 album = "Heartful Moment -Angel Note Best Collection VI-"
@@ -3751,7 +3844,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/844a6c83-f905-4959-8819-621df245effd"]
 
-[166]
+[170]
+catalognumber = "SRL-1004"
+date = "2009-08-28"
+album = "Heartful Moment -Angel Note Best Collection VI-"
+tracks = [
+    [1, "秋陽", "真里歌", 0],
+    [2, "keep on going", "榊原ゆい", 0],
+    [3, "戦士たちのLullaby", "瀬名", 0],
+    [4, "Moon Story", "UR@N", 0],
+    [5, "魂の炎", "UMA", 0],
+    [6, "希望の歌", "青葉りんご", 0],
+    [7, "Crusader Dream", "Riryka & 中瀬ひな", 0],
+    [8, "火華乱舞！", "神代あみ", 0],
+    [9, "Moon Garden", "Riryka", 0],
+    [10, "クレナイノツキ", "中瀬ひな", 0],
+    [11, "はっぴぃ", "yuiko", 0],
+    [12, "ナ・イ・ショの恋", "榊原ゆい", 0],
+    [13, "鏡の森", "片霧烈火", 0],
+    [14, "Everlasting", "神代あみ", 0],
+    [15, "笑顔に会いたくて", "Riryka", 0],
+    [16, "輝いたまま", "中山♡マミ", 0],
+]
+links = ["https://vgmdb.net/album/14995", "https://beta.musicbrainz.org/release/844a6c83-f905-4959-8819-621df245effd"]
+
+[171]
 catalognumber = "LACA-9159"
 date = "2009-09-09"
 album = "Lantis 10th anniversary Best 090926 Disc 1 [LACA-9159]"
@@ -3770,7 +3887,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6aa942b1-7fff-452d-94d6-890963910e28", "https://vgmdb.net/album/15850"]
 
-[167]
+[172]
 catalognumber = "LACA-9160"
 date = "2009-09-09"
 album = "Lantis 10th anniversary Best 090926 Disc 2 [LACA-9160]"
@@ -3788,7 +3905,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6aa942b1-7fff-452d-94d6-890963910e28", "https://vgmdb.net/album/15850"]
 
-[168]
+[173]
 catalognumber = "AACD-1003"
 date = "2009-12-27"
 album = "ANGEL NAVIGATE ORIGINAL SOUND TRACK"
@@ -3819,7 +3936,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/16954"]
 
-[169]
+[174]
 catalognumber = "VA-C77-0001"
 date = "2009-12-29"
 album = "VA Compilation CD Vol.1 \"Panorama\""
@@ -3840,7 +3957,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce1052dc-0296-40a7-89da-8925013e7d6c", "https://vgmdb.net/album/16761"]
 
-[170]
+[175]
 catalognumber = "SPHT-81610"
 date = "2010-03-19"
 album = "Mercuria -The bouquet of love to Atretica- Soundtrack \"Suito no Neiro\""
@@ -3877,7 +3994,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/529b0ab2-fb72-4225-b27b-9604bb08d939", "https://vgmdb.net/album/18139"]
 
-[171]
+[176]
 catalognumber = "CHIEN-1003T"
 date = "2010-03-26"
 album = "RGH ~Koi to Hero to Gakuen to~ Special Disc"
@@ -3895,7 +4012,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/54120"]
 
-[172]
+[177]
 catalognumber = "SRL-1005"
 date = "2010-05-28"
 album = "Providence -Angel Note Best Collection Volume 7-"
@@ -3919,7 +4036,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/18885"]
 
-[173]
+[178]
 catalognumber = "KIZC-4001"
 date = "2010-07-21"
 album = "co:μ -Kuroi Ryuu to Yasashii Oukoku- ORIGINAL SOUND TRACK Original Soundtrack Disc 1"
@@ -3938,7 +4055,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0bd5e844-14f4-4ccf-adf5-b6f0df90c013", "https://vgmdb.net/album/18811"]
 
-[174]
+[179]
 catalognumber = "KIZC-4002"
 date = "2010-07-21"
 album = "co:μ -Kuroi Ryuu to Yasashii Oukoku- ORIGINAL SOUND TRACK Original Soundtrack Disc 2"
@@ -3981,7 +4098,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0bd5e844-14f4-4ccf-adf5-b6f0df90c013", "https://vgmdb.net/album/18811"]
 
-[175]
+[180]
 catalognumber = "KIZC-4003"
 date = "2010-07-21"
 album = "co:μ -Kuroi Ryuu to Yasashii Oukoku- ORIGINAL SOUND TRACK Original Soundtrack Disc 3"
@@ -3993,7 +4110,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0bd5e844-14f4-4ccf-adf5-b6f0df90c013", "https://vgmdb.net/album/18811"]
 
-[176]
+[181]
 catalognumber = "SRL-2009"
 date = "2010-08-13"
 album = "PrismRhythm ED.VocalCollection -Belltina-"
@@ -4011,7 +4128,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20337"]
 
-[177]
+[182]
 catalognumber = "PAM-0114"
 date = "2010-08-13"
 album = "PENCIL ROYALE -VOCAL COLLECTION-"
@@ -4031,7 +4148,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20914"]
 
-[178]
+[183]
 catalognumber = "KICS-1607"
 date = "2010-08-25"
 album = "BLOODY TUNE / Yui Sakakibara"
@@ -4054,7 +4171,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c50a385f-253c-4d0a-90ff-9c4f6d87207d", "https://vgmdb.net/album/69067"]
 
-[179]
+[184]
 catalognumber = "YSCD-0013"
 date = "2010-08-27"
 album = "NOBLE WORKS Character Song vol.1 Koi no Bakudan"
@@ -4065,7 +4182,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0c026809-981c-410f-8fa6-e8f31e9600bb", "https://vgmdb.net/album/85705"]
 
-[180]
+[185]
 catalognumber = "YSCD-0014"
 date = "2010-09-10"
 album = "NOBLE WORKS Character Song vol.2 Oshigoto Shimasu"
@@ -4076,7 +4193,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/77362488-a53f-4e8d-b4a4-c225e7b81cd8", "https://vgmdb.net/album/85707"]
 
-[181]
+[186]
 catalognumber = "KICA-1489"
 date = "2010-09-22"
 album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc01"
@@ -4102,7 +4219,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
 
-[182]
+[187]
 catalognumber = "KICA-1490"
 date = "2010-09-22"
 album = "黄昏のシンセミア ORIGINAL SOUNDTRACK Disc02"
@@ -4134,7 +4251,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1fe81ad4-eb25-4bc0-b9ae-daeaf75a3b06"]
 
-[183]
+[188]
 catalognumber = "YSCD-0015"
 date = "2010-09-24"
 album = "NOBLE WORKS Character Song vol.3 Dare ni mo Ienai Himitsu desu"
@@ -4145,7 +4262,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ebcdeb8e-ad56-4aab-87c9-79789ab03bc6", "https://vgmdb.net/album/85708"]
 
-[184]
+[189]
 catalognumber = "DLAD-1003"
 date = "2010-09-24"
 album = "Chougen Yuuki Mugen Finity Theme Song CD: Bokura no Yuuki wa Mugendai!"
@@ -4158,7 +4275,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/30874"]
 
-[185]
+[190]
 catalognumber = "KGD-10020"
 date = "2010-09-29"
 album = "Solfege Vocal Collection Disc 1"
@@ -4180,7 +4297,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b51ac01d-0be9-422b-9e6e-c64ed4e44727", "https://vgmdb.net/album/27497"]
 
-[186]
+[191]
 catalognumber = "KGD-10020"
 date = "2010-09-29"
 album = "Solfege Vocal Collection Disc 2"
@@ -4208,7 +4325,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b51ac01d-0be9-422b-9e6e-c64ed4e44727", "https://vgmdb.net/album/27497"]
 
-[187]
+[192]
 catalognumber = "YSCD-0016"
 date = "2010-10-08"
 album = "NOBLE WORKS Character Song vol.4 Dash☆"
@@ -4219,7 +4336,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/17448ab2-3040-474f-8548-31fd8f7ccb75", "https://vgmdb.net/album/85709"]
 
-[188]
+[193]
 catalognumber = "YSCD-0017"
 date = "2010-10-22"
 album = "NOBLE WORKS Character Song vol.5 Aoi Tori"
@@ -4230,7 +4347,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/52db8567-8e39-4169-ae19-7d672fe05cc8", "https://vgmdb.net/album/85711"]
 
-[189]
+[194]
 catalognumber = "KICA-1493"
 date = "2010-10-27"
 album = "Akatsuki no Goei ~Tsumibukaki Shumatsuron~ ORIGINAL SOUNDTRACK"
@@ -4262,7 +4379,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3a3f9919-ae6d-4a13-b858-41aaf6fca163", "https://vgmdb.net/album/20802"]
 
-[190]
+[195]
 catalognumber = "SPUS-21810"
 date = "2010-10-29"
 album = "Chu×Chu Idol 2 SOUND TRACKS Disc 1 [SPUS-21810]"
@@ -4278,7 +4395,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20729"]
 
-[191]
+[196]
 catalognumber = "SPUS-21811"
 date = "2010-10-29"
 album = "Chu×Chu Idol 2 SOUND TRACKS Disc 2 [SPUS-21811]"
@@ -4305,7 +4422,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20729"]
 
-[192]
+[197]
 catalognumber = "CIRCUS-0255"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal, Data"
@@ -4326,7 +4443,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[193]
+[198]
 catalognumber = "CIRCUS-0256"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 2"
@@ -4347,7 +4464,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[194]
+[199]
 catalognumber = "CIRCUS-0257"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 3"
@@ -4368,7 +4485,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[195]
+[200]
 catalognumber = "CIRCUS-0258"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 4"
@@ -4390,7 +4507,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[196]
+[201]
 catalognumber = "CIRCUS-0259"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 5"
@@ -4410,7 +4527,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[197]
+[202]
 catalognumber = "CIRCUS-0260"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 6"
@@ -4433,7 +4550,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[198]
+[203]
 catalognumber = "CIRCUS-0261"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 7"
@@ -4454,7 +4571,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[199]
+[204]
 catalognumber = "CIRCUS-0262"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 8"
@@ -4474,7 +4591,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[200]
+[205]
 catalognumber = "CIRCUS-0263"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 9"
@@ -4493,7 +4610,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[201]
+[206]
 catalognumber = "CIRCUS-0264"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 10"
@@ -4513,7 +4630,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[202]
+[207]
 catalognumber = "CIRCUS-0265"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 11"
@@ -4534,7 +4651,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[203]
+[208]
 catalognumber = "CIRCUS-0266"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 12"
@@ -4553,7 +4670,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[204]
+[209]
 catalognumber = "CIRCUS-0267"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Vocal Disc 13"
@@ -4576,7 +4693,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ec7a5bcf-ed9a-495a-9e4a-3e99a242f5d2", "https://vgmdb.net/album/21948"]
 
-[205]
+[210]
 catalognumber = "CIRCUS-0268"
 date = "2010-11-11"
 album = "CIRCUS 10th Collect Talk, Data"
@@ -4585,7 +4702,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/21948"]
 
-[206]
+[211]
 catalognumber = "DWE-004"
 date = "2010-12-24"
 album = "Kagura Gensoutan Original Soundtrack"
@@ -4616,7 +4733,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/21310"]
 
-[207]
+[212]
 catalognumber = "VA-C79-0001"
 date = "2010-12-29"
 album = "VA Compilation CD Vol.2 \"Panorama\""
@@ -4636,7 +4753,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9eddf9e1-af37-4443-b58c-7fdc6dcd2662", "https://vgmdb.net/album/35129"]
 
-[208]
+[213]
 catalognumber = ""
 date = "2011-03-29"
 album = "D.C. ~Da Capo~ Original Soundtrack"
@@ -4661,7 +4778,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45601"]
 
-[209]
+[214]
 catalognumber = "YSCD-0018"
 date = "2011-04-22"
 album = "NOBLE WORKS ORIGINAL SOUNDTRACK Original Soundtrack, Vocal"
@@ -4689,7 +4806,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/305856ec-2122-4089-a1a8-b213e5fad91e", "https://vgmdb.net/album/24768"]
 
-[210]
+[215]
 catalognumber = "YSCD-0019"
 date = "2011-04-22"
 album = "NOBLE WORKS ORIGINAL SOUNDTRACK Original Soundtrack"
@@ -4713,7 +4830,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/305856ec-2122-4089-a1a8-b213e5fad91e", "https://vgmdb.net/album/24768"]
 
-[211]
+[216]
 catalognumber = "SRL-1006"
 date = "2011-05-06"
 album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
@@ -4737,7 +4854,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753"]
 
-[212]
+[217]
+catalognumber = "SRL-1006"
+date = "2011-05-06"
+album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
+tracks = [
+    [1, "our precious bond", "中山♡マミ＆神代あみ", 0],
+    [2, "Change&Chance!", "榊原ゆい", 0],
+    [3, "わたしの大事なもの", "橋本みゆき", 0],
+    [4, "夏のファンタジア", "佐藤ひろ美", 0],
+    [5, "I believe in you", "tohko", 0],
+    [6, "アイという名の地図", "真里歌", 0],
+    [7, "shining brightly", "Riryka＆なかせひな", 0],
+    [8, "刃に残るは君の面影", "Rita", 0],
+    [9, "Friends", "tohko", 0],
+    [10, "everlasting", "Riryka", 0],
+    [11, "dear", "なかせひな", 0],
+    [12, "水色ステージ", "真里歌", 0],
+    [13, "望郷歌～まほろば～", "佐藤ひろ美", 0],
+    [14, "Cherry Day", "神代あみ", 0],
+    [15, "想ひ出小往", "瀬名", 0],
+    [16, "Dear My Precious", "片霧烈火", 0],
+]
+links = ["https://vgmdb.net/album/26383", "https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753"]
+
+[218]
 catalognumber = "APP-001-NDS"
 date = "2011-06-24"
 album = "Nadeshiko Drip SOUND TRACK"
@@ -4773,7 +4914,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e24dae8f-1063-4802-93ac-96da1ace8c0b", "https://vgmdb.net/album/26823"]
 
-[213]
+[219]
 catalognumber = "DWE-005"
 date = "2011-07-29"
 album = "Toki o Kanaderu Waltz Original Sound Track"
@@ -4799,7 +4940,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/25739"]
 
-[214]
+[220]
 catalognumber = "46601828"
 date = "2011-08-26"
 album = "TROUBLE@SPIRAL! SOUND TRACK"
@@ -4834,7 +4975,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/35657"]
 
-[215]
+[221]
 catalognumber = "D-EVE1108T"
 date = "2011-09-22"
 album = "D-EVE in you SPECIAL Sound Track CD"
@@ -4861,7 +5002,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29212"]
 
-[216]
+[222]
 catalognumber = "YATA-TENT"
 date = "2011-11-25"
 album = "Tentacle Lord -Waga Te ni Ochiyo Yuusou Naru Otome- Original Soundtrack"
@@ -4887,7 +5028,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/31819"]
 
-[217]
+[223]
 catalognumber = "AH-HA-002"
 date = "2011-11-25"
 album = "Syunki gentei poco a poco! Complete Soundtrack"
@@ -4918,7 +5059,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ea00ea9-0c4f-4373-ab52-43030b8debef", "https://vgmdb.net/album/30824"]
 
-[218]
+[224]
 catalognumber = "FIZZ-111222-2"
 date = "2011-12-22"
 album = "Koisuru Koto to Mitsuketari! Koi Koto Gekichuu Gakkyokushuu"
@@ -4962,7 +5103,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/30794"]
 
-[219]
+[225]
 catalognumber = "DWE-006"
 date = "2011-12-22"
 album = "Hanasaku Otome to Koi no Grimoire Original Soundtrack"
@@ -4996,7 +5137,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29391"]
 
-[220]
+[226]
 catalognumber = "VA-C81-0001"
 date = "2011-12-31"
 album = "VA Compilation CD Vol.3 Panorama"
@@ -5017,7 +5158,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c80b2e7d-372d-4f5b-b5e9-157976268c0b", "https://vgmdb.net/album/32844"]
 
-[221]
+[227]
 catalognumber = "YSCD-0021"
 date = "2012-01-27"
 album = "DRACU-RIOT! Character Song Vol.2 Growing! / Azusa Mera (CV Shizuku Satou)"
@@ -5028,7 +5169,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0e9d88ea-38e0-4b38-b7a2-e71fba52ddbc", "https://vgmdb.net/album/29820"]
 
-[222]
+[228]
 catalognumber = "SKM-007"
 date = "2012-01-27"
 album = "Manatsu no Cielo / Samurai Girl"
@@ -5040,7 +5181,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/31368"]
 
-[223]
+[229]
 catalognumber = "320064-4"
 date = "2012-02-02"
 album = "Gift -prism- Sound Collection"
@@ -5074,7 +5215,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29556"]
 
-[224]
+[230]
 catalognumber = "YSCD-0022"
 date = "2012-02-10"
 album = "DRACU-RIOT! Character Song Vol.3 Kitto Daijoubu / Rio Inamura (CV Hinata Ayukawa)"
@@ -5085,7 +5226,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dfec7a28-449c-46ba-ae04-b37725979b1e", "https://vgmdb.net/album/29822"]
 
-[225]
+[231]
 catalognumber = "YSCD-0023"
 date = "2012-02-24"
 album = "DRACU-RIOT! Character Song Vol.4 NO LIMIT / Elina Olegovna Obeh (CV Aerio Suzuki)"
@@ -5096,7 +5237,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a3001b39-e7f4-4cc5-9e77-8c1f042c8390", "https://vgmdb.net/album/29823"]
 
-[226]
+[232]
 catalognumber = "DWE-007"
 date = "2012-07-27"
 album = "Kurenai Kagura Original Sound Track"
@@ -5128,7 +5269,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/33051"]
 
-[227]
+[233]
 catalognumber = "LACA-15207"
 date = "2012-08-22"
 album = "RiSE / Hiromi Sato"
@@ -5150,7 +5291,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bb98663f-080a-4b14-9f9e-53edda33f3c5", "https://vgmdb.net/album/60386"]
 
-[228]
+[234]
 catalognumber = "LACA-15229"
 date = "2012-08-22"
 album = "SMILOOP* / yozurino*"
@@ -5169,7 +5310,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/73ce6b88-28f0-438c-949e-dff58f11e844", "https://vgmdb.net/album/90396"]
 
-[229]
+[235]
 catalognumber = "YSCD-0024"
 date = "2012-08-24"
 album = "DRACU-RIOT! Original Soundtrack Original Soundtrack, Vocal"
@@ -5203,7 +5344,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/597a16f7-c02a-4213-bb39-503b49c6ed9a", "https://vgmdb.net/album/33957"]
 
-[230]
+[236]
 catalognumber = "YSCD-0025"
 date = "2012-08-24"
 album = "DRACU-RIOT! Original Soundtrack Original Soundtrack"
@@ -5229,7 +5370,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/597a16f7-c02a-4213-bb39-503b49c6ed9a", "https://vgmdb.net/album/33957"]
 
-[231]
+[237]
 catalognumber = "ALcot-AV-009"
 date = "2012-08-31"
 album = "ALcot Vocal collection. Vol.4 Ding Dong"
@@ -5248,7 +5389,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/85d84076-78c8-4541-bfa2-34b3b2faf86b", "https://vgmdb.net/album/34429"]
 
-[232]
+[238]
 catalognumber = "FVCG-1210"
 date = "2012-09-26"
 album = "Judge of a Life / Yui Sakakibara"
@@ -5260,7 +5401,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6aa34b36-951d-45cc-91ff-7171f364e922", "https://vgmdb.net/album/34482"]
 
-[233]
+[239]
 catalognumber = "LOS-SP010"
 date = "2012-10-26"
 album = "Color of the flower Heptagram Goshikimuradayori Uta to Ohanashi no Special CD"
@@ -5273,7 +5414,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/11cee6be-1a61-4177-94bc-1dc8c0716ad9", "https://vgmdb.net/album/88718"]
 
-[234]
+[240]
 catalognumber = "SPUS-23030"
 date = "2012-10-26"
 album = "OTA-MA! SOUNDTRACK!"
@@ -5295,7 +5436,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/33905"]
 
-[235]
+[241]
 catalognumber = "AH-AE-002"
 date = "2012-11-30"
 album = "Aete Mushisuru Kimi to no Mirai ~Relay broadcast~ original mini soundtrack"
@@ -5313,7 +5454,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/514465a6-589d-4a99-991d-ea6e0a53f154", "https://vgmdb.net/album/36710"]
 
-[236]
+[242]
 catalognumber = "SHOT-010"
 date = "2012-11-30"
 album = "SUPER SHOT5 Special Edition -Bishoujo Game Remix Collection- Arrangement, Vocal, Remix"
@@ -5334,7 +5475,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b46e3cf2-f2a0-4b82-b27f-079ad70db6b3", "https://vgmdb.net/album/88898"]
 
-[237]
+[243]
 catalognumber = "SHOT-010"
 date = "2012-11-30"
 album = "SUPER SHOT5 Special Edition -Bishoujo Game Remix Collection- Disc 2 [SHOT-010B]"
@@ -5372,7 +5513,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b46e3cf2-f2a0-4b82-b27f-079ad70db6b3", "https://vgmdb.net/album/88898"]
 
-[238]
+[244]
 catalognumber = "DLAD-1006"
 date = "2012-12-29"
 album = "Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~"
@@ -5386,7 +5527,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/141932"]
 
-[239]
+[245]
 catalognumber = "LACM-14059"
 date = "2013-01-23"
 album = "Sakura Happy Innovation / Ricca Morizono (CV. Emi Nitta), Charles Yoshino (CV. Ui Miyazaki), Himeno Katsuragi (CV. Mikoi Sasaki), Sara Rukawa (CV. Chiyo Ousaki), Aoi Hinomoto (CV. Erica Kaiho)"
@@ -5398,7 +5539,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a5507a7e-b51c-43a4-914f-5835c560cf76", "https://vgmdb.net/album/36382"]
 
-[240]
+[246]
 catalognumber = "DIFE-1018"
 date = "2013-01-25"
 album = "applique Song Collection -Tasogare no Saki ni Noboru Ashita-"
@@ -5416,7 +5557,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/70a47927-815d-4843-a28a-72b297f9a98a", "https://vgmdb.net/album/37093"]
 
-[241]
+[247]
 catalognumber = "DAI-130321"
 date = "2013-03-29"
 album = "The planeta in the future world Original Soundtrack"
@@ -5441,7 +5582,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/62e297da-9bc5-4583-9cb5-2334fd8c960d", "https://vgmdb.net/album/38575"]
 
-[242]
+[248]
 catalognumber = "SRL-1007"
 date = "2013-03-29"
 album = "Venus Voice/Angel Note Best Collection Volume 9"
@@ -5465,7 +5606,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a53c9eb0-69fc-4843-a859-32c48d5258a2"]
 
-[243]
+[249]
+catalognumber = "SRL-1007"
+date = "2013-03-29"
+album = "Angel Note -Venus Voice- Angel Note Best Collection Volume 9"
+tracks = [
+    [1, "Knowing", "真里歌", 0],
+    [2, "未来への一歩 (AngelNote featuring 民安★ROCK)", "民安★ROCK", 0],
+    [3, "光臨！大天使ラビエル☆", "ラビエル (CV:中瀬ひな)", 0],
+    [4, "はっぴぃなんだからいいじゃん", "西野みく", 0],
+    [5, "Sweet Love", "tohko", 0],
+    [6, "紅舞", "佐藤ひろ美", 0],
+    [7, "故郷", "Kicco", 0],
+    [8, "Scarlet", "榊原ゆい", 0],
+    [9, "MASAKASA PARADISE", "神代あみ with TRIAL", 0],
+    [10, "約束", "Rita", 0],
+    [11, "Le Conseil", "tohko", 0],
+    [12, "YOu & ME = Happy!", "榊原ゆい", 0],
+    [13, "描いてた夢", "柚木ちな", 0],
+    [14, "新しい調べ", "中山♥マミ", 0],
+    [15, "夕焼けのマージナル", "Riryka", 0],
+    [16, "Guiding Star", "夏希美羽", 0],
+]
+links = ["https://vgmdb.net/album/52142", "https://beta.musicbrainz.org/release/a53c9eb0-69fc-4843-a859-32c48d5258a2"]
+
+[250]
 catalognumber = "YSCD-0027"
 date = "2013-04-19"
 album = "Amairo IsleNauts Character Song vol.1 step forward"
@@ -5476,7 +5641,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e57644e6-4590-41f8-b796-ebd592429865", "https://vgmdb.net/album/39380"]
 
-[244]
+[251]
 catalognumber = "YSCD-0028"
 date = "2013-05-02"
 album = "Amairo IsleNauts Character Song vol.2 Watashi dake no Sora"
@@ -5487,7 +5652,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/535b5b84-544a-42cd-8427-db2ee8b7a0fb", "https://vgmdb.net/album/70720"]
 
-[245]
+[252]
 catalognumber = "CLOCD-0002"
 date = "2013-05-10"
 album = "Prism◇Recollection! SOUND◇TRACK Original Soundtrack"
@@ -5513,7 +5678,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59e7b2ac-77a6-49d8-a7e4-e6cdf6583392", "https://vgmdb.net/album/38892"]
 
-[246]
+[253]
 catalognumber = "CLOCD-0002"
 date = "2013-05-10"
 album = "Prism◇Recollection! SOUND◇TRACK Original Soundtrack, Vocal"
@@ -5539,7 +5704,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59e7b2ac-77a6-49d8-a7e4-e6cdf6583392", "https://vgmdb.net/album/38892"]
 
-[247]
+[254]
 catalognumber = "YSCD-0029"
 date = "2013-05-17"
 album = "Amairo IsleNauts Character Song vol.3 Aozora Canvas"
@@ -5550,7 +5715,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fdf783fa-e1f9-42cf-8e0d-6e770244f618", "https://vgmdb.net/album/70721"]
 
-[248]
+[255]
 catalognumber = "YSCD-0030"
 date = "2013-05-31"
 album = "Amairo IsleNauts Character Song vol.4 Daisuki nanda"
@@ -5561,7 +5726,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ced652c-408b-4d10-8491-aafab22748b0", "https://vgmdb.net/album/70722"]
 
-[249]
+[256]
 catalognumber = "AL-AV-013"
 date = "2013-05-31"
 album = "Aete Mushisuru Kimi to no Mirai ~Relay broadcast~ ORIGINAL SOUND TRACKS Original Soundtrack, Vocal"
@@ -5588,7 +5753,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68d20b23-872c-43c4-8496-6e41c62a4f4a", "https://vgmdb.net/album/38870"]
 
-[250]
+[257]
 catalognumber = "AL-AV-013"
 date = "2013-05-31"
 album = "Aete Mushisuru Kimi to no Mirai ~Relay broadcast~ ORIGINAL SOUND TRACKS Original Soundtrack"
@@ -5614,7 +5779,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68d20b23-872c-43c4-8496-6e41c62a4f4a", "https://vgmdb.net/album/38870"]
 
-[251]
+[258]
 catalognumber = "BMS-0005"
 date = "2013-12-28"
 album = "GLacé Plus One Disc - 1/2 summer Drama CD & GLacé OP Theme Collection Disc 1 [BMS-0005]"
@@ -5625,7 +5790,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/124136"]
 
-[252]
+[259]
 catalognumber = "BMS-0006"
 date = "2013-12-28"
 album = "GLacé Plus One Disc - 1/2 summer Drama CD & GLacé OP Theme Collection Disc 2 [BMS-0006]"
@@ -5639,7 +5804,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/124136"]
 
-[253]
+[260]
 catalognumber = "YSCD-0031"
 date = "2014-01-24"
 album = "Amairo IsleNauts Original Soundtrack Original Soundtrack, Vocal Disc 1"
@@ -5670,7 +5835,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b2cf6b7-04a1-420b-b15a-ce78a414f5d9", "https://vgmdb.net/album/42897"]
 
-[254]
+[261]
 catalognumber = "YSCD-0032"
 date = "2014-01-24"
 album = "Amairo IsleNauts Original Soundtrack Original Soundtrack, Vocal Disc 2"
@@ -5702,7 +5867,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b2cf6b7-04a1-420b-b15a-ce78a414f5d9", "https://vgmdb.net/album/42897"]
 
-[255]
+[262]
 catalognumber = "YSCD-0033"
 date = "2014-01-24"
 album = "Amairo IsleNauts Original Soundtrack Vocal"
@@ -5718,7 +5883,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b2cf6b7-04a1-420b-b15a-ce78a414f5d9", "https://vgmdb.net/album/42897"]
 
-[256]
+[263]
 catalognumber = "HALS-SMSP"
 date = "2014-03-28"
 album = "Hello Lady! SOFMAP ORIGINAL SOUNDTRACK"
@@ -5734,7 +5899,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45060"]
 
-[257]
+[264]
 catalognumber = ""
 date = "2014-04-29"
 album = "Koishiki Manual Original Soundtrack"
@@ -5766,7 +5931,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/47211"]
 
-[258]
+[265]
 catalognumber = "SRL-1008"
 date = "2014-05-02"
 album = "Angel Note Best Collection Vol.10 \"To the Brilliant Future\""
@@ -5790,7 +5955,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fefca27a-13c5-4fec-8815-867d08d64865", "https://vgmdb.net/album/76893"]
 
-[259]
+[266]
 catalognumber = "DIFE-1023"
 date = "2014-05-23"
 album = "Hello Lady! Original Soundtrack Original Soundtrack, Vocal"
@@ -5816,7 +5981,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54b4e320-c959-49fa-be64-c2d325296ae3", "https://vgmdb.net/album/45121"]
 
-[260]
+[267]
 catalognumber = "DIFE-1024"
 date = "2014-05-23"
 album = "Hello Lady! Original Soundtrack Original Soundtrack"
@@ -5843,7 +6008,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/54b4e320-c959-49fa-be64-c2d325296ae3", "https://vgmdb.net/album/45121"]
 
-[261]
+[268]
 catalognumber = "AACD-1010"
 date = "2014-06-27"
 album = "SCRAMBLE LOVERS VOCAL SONG collection"
@@ -5861,7 +6026,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7fa159ab-461e-4ae1-a9a8-606196e7c1e5", "https://vgmdb.net/album/46553"]
 
-[262]
+[269]
 catalognumber = "AACD-1001"
 date = "2014-06-27"
 album = "SCLAMBLE LOVERS Complete Sound Track."
@@ -5896,7 +6061,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9adf083c-7283-40f7-80a0-7b7322652a17"]
 
-[263]
+[270]
 catalognumber = "SPPI-24390"
 date = "2014-07-21"
 album = "share the thoughts / Chua Churam (CV/Yui Sakakibara)"
@@ -5907,7 +6072,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/58239"]
 
-[264]
+[271]
 catalognumber = "DWE-013"
 date = "2014-07-25"
 album = "Gigai no Alruna Original Soundtrack"
@@ -5941,7 +6106,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45008"]
 
-[265]
+[272]
 catalognumber = "LPTN-0018"
 date = "2014-08-15"
 album = "Fureraba Mini Fandisc & Full Soundtrack Disc 1"
@@ -5965,7 +6130,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53a48572-4cd3-4cbd-ba31-2ab82bae2eb3", "https://vgmdb.net/album/47748"]
 
-[266]
+[273]
 catalognumber = "LPTN-0018"
 date = "2014-08-15"
 album = "Fureraba Mini Fandisc & Full Soundtrack Disc 2"
@@ -5989,7 +6154,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/53a48572-4cd3-4cbd-ba31-2ab82bae2eb3", "https://vgmdb.net/album/47748"]
 
-[267]
+[274]
 catalognumber = "AL-AV-017"
 date = "2014-10-31"
 album = "ALcot Vocal collection vol.5 \"Rise\""
@@ -6009,7 +6174,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/30ebc38c-0b43-4188-ad16-643843294c77", "https://vgmdb.net/album/49111"]
 
-[268]
+[275]
 catalognumber = "VG-0002"
 date = "2014-12-28"
 album = "CARDFIGHT!! VANGUARD THE MOVIE NEON MESSIAH SOUNDTRACK"
@@ -6056,7 +6221,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/64120"]
 
-[269]
+[276]
 catalognumber = "AW-1014"
 date = "2014-12-30"
 album = "Hello Lady! Piano Arrange Album"
@@ -6074,7 +6239,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/49613"]
 
-[270]
+[277]
 catalognumber = ""
 date = "2015-03-26"
 album = "Friend to Lover ～フレラバ～ キャラクターソングCD"
@@ -6094,7 +6259,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9e508b5f-c985-41d1-b207-8a3e8c5ea473"]
 
-[271]
+[278]
 catalognumber = "app-107"
 date = "2015-03-27"
 album = "Hana no No ni Saku Utakata no ORIGINAL SOUNDTRACK Disc 1 [app-107]"
@@ -6122,7 +6287,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af4924b7-99a3-48ab-8df5-dc444b5813cf", "https://vgmdb.net/album/51835"]
 
-[272]
+[279]
 catalognumber = "app-108"
 date = "2015-03-27"
 album = "Hana no No ni Saku Utakata no ORIGINAL SOUNDTRACK Disc 2 [app-108]"
@@ -6147,7 +6312,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af4924b7-99a3-48ab-8df5-dc444b5813cf", "https://vgmdb.net/album/51835"]
 
-[273]
+[280]
 catalognumber = "DIFE-1025"
 date = "2015-04-24"
 album = "AKABEiSOFT2&Sisters Vocal Collection"
@@ -6167,7 +6332,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f8dc2bd-09b6-452a-a140-13a0b32015d2", "https://vgmdb.net/album/52677"]
 
-[274]
+[281]
 catalognumber = "LACA-9400"
 date = "2015-05-13"
 album = "D.C. ~Da Capo~ Super Best Arrangement, Vocal"
@@ -6191,7 +6356,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32117aeb-a2d5-49d5-a995-a757b8ef09fb", "https://vgmdb.net/album/50854"]
 
-[275]
+[282]
 catalognumber = "LACA-9401"
 date = "2015-05-13"
 album = "D.C. ~Da Capo~ Super Best Vocal Disc 2"
@@ -6214,7 +6379,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32117aeb-a2d5-49d5-a995-a757b8ef09fb", "https://vgmdb.net/album/50854"]
 
-[276]
+[283]
 catalognumber = "LACA-9402"
 date = "2015-05-13"
 album = "D.C. ~Da Capo~ Super Best Vocal Disc 3"
@@ -6239,7 +6404,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32117aeb-a2d5-49d5-a995-a757b8ef09fb", "https://vgmdb.net/album/50854"]
 
-[277]
+[284]
 catalognumber = "LACA-9403"
 date = "2015-05-13"
 album = "D.C. ~Da Capo~ Super Best Vocal Disc 4"
@@ -6263,7 +6428,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32117aeb-a2d5-49d5-a995-a757b8ef09fb", "https://vgmdb.net/album/50854"]
 
-[278]
+[285]
 catalognumber = ""
 date = "2015-05-29"
 album = "ALIA's CARNIVAL! ORIGINAL SOUNDTRACK COLLECTION Disc 1"
@@ -6301,7 +6466,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5e17fbfe-f797-4f2c-8906-ce5d1c1bc984", "https://vgmdb.net/album/55158"]
 
-[279]
+[286]
 catalognumber = ""
 date = "2015-05-29"
 album = "ALIA's CARNIVAL! ORIGINAL SOUNDTRACK COLLECTION Disc 2"
@@ -6339,7 +6504,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5e17fbfe-f797-4f2c-8906-ce5d1c1bc984", "https://vgmdb.net/album/55158"]
 
-[280]
+[287]
 catalognumber = "AL-AV-022"
 date = "2015-08-13"
 album = "LOVEREC. Original Soundtracks Disc 1"
@@ -6369,7 +6534,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/55347"]
 
-[281]
+[288]
 catalognumber = "AL-AV-022"
 date = "2015-08-13"
 album = "LOVEREC. Original Soundtracks Disc 2 [AL-AV-022]"
@@ -6395,7 +6560,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/55347"]
 
-[282]
+[289]
 catalognumber = "NANA-0004"
 date = "2015-08-14"
 album = "ALIA's CARNIVAL! Flowering Sky ORIGINAL SOUNDTRACK COLLECTION"
@@ -6422,7 +6587,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/67049"]
 
-[283]
+[290]
 catalognumber = "DWE-016"
 date = "2015-08-28"
 album = "Ayakashi Sange Soundtrack"
@@ -6454,7 +6619,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/52447"]
 
-[284]
+[291]
 catalognumber = "SRL-1009"
 date = "2016-01-29"
 album = "Melodies -Angel Note Best Collection Vol.11- Vocal"
@@ -6478,7 +6643,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831", "https://vgmdb.net/album/76903"]
 
-[285]
+[292]
 catalognumber = "SRL-1009"
 date = "2016-01-29"
 album = "Melodies -Angel Note Best Collection Vol.11- Vocal, Remix"
@@ -6496,7 +6661,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5000f2f5-67b3-4250-b0fe-374de72e9831", "https://vgmdb.net/album/76903"]
 
-[286]
+[293]
 catalognumber = "YSCD-0041"
 date = "2016-04-15"
 album = "Senren*Banka Character Song Vol.1 \"Tooryanse ~ Kanbi Fuurai\""
@@ -6507,7 +6672,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ba44c2c-fe58-4395-8d40-143f9feef666", "https://vgmdb.net/album/74143"]
 
-[287]
+[294]
 catalognumber = "YSCD-0042"
 date = "2016-04-28"
 album = "Senren*Banka Character Song Vol.2 \"Mako no Nichijou\""
@@ -6518,7 +6683,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f5ebcda0-70a3-43ca-87cb-232664ced2d1", "https://vgmdb.net/album/85728"]
 
-[288]
+[295]
 catalognumber = "YSCD-0043"
 date = "2016-05-13"
 album = "Senren*Banka Character Song Vol.3 \"Kizuna Hitotsu\""
@@ -6529,7 +6694,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/74ea9484-abf4-4023-872b-ade9742c31f9", "https://vgmdb.net/album/85730"]
 
-[289]
+[296]
 catalognumber = "YSCD-0044"
 date = "2016-05-27"
 album = "Senren*Banka Character Song Vol.4 \"Blue sky\""
@@ -6540,7 +6705,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78b1fb7c-5ddf-4acb-9ba1-d1a905f4046e", "https://vgmdb.net/album/85729"]
 
-[290]
+[297]
 catalognumber = "CLOCD-0008"
 date = "2016-06-24"
 album = "KOKOKARA NATSUNO INNOCENCE! ORIGINAL SOUNDTRACK"
@@ -6581,7 +6746,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/19ecc874-438f-45fd-be41-ec472754a069", "https://vgmdb.net/album/58688"]
 
-[291]
+[298]
 catalognumber = "CUCD-1010"
 date = "2016-08-11"
 album = "CLOCKUP Vocal Collection 2003~2015 Disc 1"
@@ -6607,7 +6772,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b696fe21-26ce-43a3-ba38-d640bbc48596", "https://vgmdb.net/album/61895"]
 
-[292]
+[299]
 catalognumber = "CUCD-1010"
 date = "2016-08-11"
 album = "CLOCKUP Vocal Collection 2003~2015 Disc 2"
@@ -6634,7 +6799,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b696fe21-26ce-43a3-ba38-d640bbc48596", "https://vgmdb.net/album/61895"]
 
-[293]
+[300]
 catalognumber = "AL-AV-029"
 date = "2016-12-29"
 album = "Yomegami My Sweet Goddess! Original Soundtracks Disc 1"
@@ -6664,7 +6829,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/63670"]
 
-[294]
+[301]
 catalognumber = "AL-AV-029"
 date = "2016-12-29"
 album = "Yomegami My Sweet Goddess! Original Soundtracks Disc 2"
@@ -6691,7 +6856,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/63670"]
 
-[295]
+[302]
 catalognumber = "YSCD-0045"
 date = "2017-02-10"
 album = "Senren*Banka Original Soundtrack Original Soundtrack, Vocal"
@@ -6729,7 +6894,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06", "https://vgmdb.net/album/63196"]
 
-[296]
+[303]
 catalognumber = "YSCD-0046"
 date = "2017-02-10"
 album = "Senren*Banka Original Soundtrack Original Soundtrack Disc 2"
@@ -6762,7 +6927,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06", "https://vgmdb.net/album/63196"]
 
-[297]
+[304]
 catalognumber = "YSCD-0047"
 date = "2017-02-10"
 album = "Senren*Banka Original Soundtrack Original Soundtrack Disc 3"
@@ -6784,7 +6949,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce5fb2ae-41a1-4111-b100-39fc7752ee06", "https://vgmdb.net/album/63196"]
 
-[298]
+[305]
 catalognumber = "DWE-018"
 date = "2017-07-28"
 album = "Tsuki no Michibiki Kumo Haruka Original Soundtrack"
@@ -6816,7 +6981,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/68424"]
 
-[299]
+[306]
 catalognumber = "NANA-0006"
 date = "2017-08-11"
 album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 1"
@@ -6853,7 +7018,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00", "https://vgmdb.net/album/70195"]
 
-[300]
+[307]
 catalognumber = "NANA-0006"
 date = "2017-08-11"
 album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 2"
@@ -6892,7 +7057,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00", "https://vgmdb.net/album/70195"]
 
-[301]
+[308]
 catalognumber = "NANA-0006"
 date = "2017-08-11"
 album = "ALIA's CARNIVAL! -ORIGINAL SOUND TRACK- FULL COMPLETE EDITION Disc 3"
@@ -6930,7 +7095,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b20a6ea6-d98c-431d-87ac-f845519f5b00", "https://vgmdb.net/album/70195"]
 
-[302]
+[309]
 catalognumber = "YSCD-0048"
 date = "2018-01-12"
 album = "RIDDLE JOKER Character Song Vol.1 PERFECT GIRL / Ayase Mitsukasa (CV: Sawa Sawasawa)"
@@ -6942,7 +7107,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/330885e3-cf1f-498d-8f46-ac5fd3987951", "https://vgmdb.net/album/78576"]
 
-[303]
+[310]
 catalognumber = "YSCD-0049"
 date = "2018-01-26"
 album = "RIDDLE JOKER Character Song Vol.2 Sympathy / Nanami Arihara (CV: Yui Kusuhara)"
@@ -6954,7 +7119,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d21a4a3f-1ab5-45eb-9b2f-9fe91798aca8", "https://vgmdb.net/album/78577"]
 
-[304]
+[311]
 catalognumber = "YSCD-0050"
 date = "2018-02-09"
 album = "RIDDLE JOKER Character Song Vol.3 Tsuyogaru Otona no Secret Labo / Mayu Shikibe (CV: Sumika Nishizono)"
@@ -6966,7 +7131,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95e0a5c0-8666-4199-9977-419f46402b96", "https://vgmdb.net/album/78578"]
 
-[305]
+[312]
 catalognumber = "YSCD-0051"
 date = "2018-02-23"
 album = "RIDDLE JOKER Character Song Vol.4 Yamato Nadeshiko wa Akogare / Hazuki Nijouin (CV: Sora Haruka)"
@@ -6978,7 +7143,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/abb38ee6-1bbb-454c-ac27-5cd44b629681", "https://vgmdb.net/album/78579"]
 
-[306]
+[313]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 1"
@@ -7000,7 +7165,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[307]
+[314]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 2"
@@ -7020,7 +7185,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[308]
+[315]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 3"
@@ -7039,7 +7204,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[309]
+[316]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 4"
@@ -7060,7 +7225,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[310]
+[317]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 5"
@@ -7080,7 +7245,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[311]
+[318]
 catalognumber = "GIGA-180311"
 date = "2018-03-30"
 album = "GIGA BEST ALBUM Disc 6"
@@ -7101,7 +7266,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cd12bc6-4005-4eb9-886e-8c1304216dde", "https://vgmdb.net/album/95180"]
 
-[312]
+[319]
 catalognumber = "YSCD-0052"
 date = "2018-08-24"
 album = "RIDDLE JOKER Original Soundtrack Disc 1 [YSCD-0052]"
@@ -7135,7 +7300,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a", "https://vgmdb.net/album/78720"]
 
-[313]
+[320]
 catalognumber = "YSCD-0053"
 date = "2018-08-24"
 album = "RIDDLE JOKER Original Soundtrack Disc 2 [YSCD-0053]"
@@ -7166,7 +7331,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a", "https://vgmdb.net/album/78720"]
 
-[314]
+[321]
 catalognumber = "YSCD-0054"
 date = "2018-08-24"
 album = "RIDDLE JOKER Original Soundtrack Disc 3 [YSCD-0054]"
@@ -7186,7 +7351,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e72a9d66-9c11-46ea-9ae3-13c5b9d3fa8a", "https://vgmdb.net/album/78720"]
 
-[315]
+[322]
 catalognumber = "YSCD-0055"
 date = "2018-08-24"
 album = "YUZUSOFT VOCAL COLLECTION 2006-2016 Disc 1 [YSCD-0055]"
@@ -7208,7 +7373,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7d0d1c09-d59f-4497-b33b-3de15e4eb1e1", "https://vgmdb.net/album/83928"]
 
-[316]
+[323]
 catalognumber = "YSCD-0056"
 date = "2018-08-24"
 album = "YUZUSOFT VOCAL COLLECTION 2006-2016 Disc 2 [YSCD-0056]"
@@ -7230,7 +7395,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7d0d1c09-d59f-4497-b33b-3de15e4eb1e1", "https://vgmdb.net/album/83928"]
 
-[317]
+[324]
 catalognumber = "SSCD-001"
 date = "2018-08-31"
 album = "Symphony Sounds Record 2018 ~from 2003 to 2017~"
@@ -7253,7 +7418,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd94b5af-faea-4084-a8b2-f2e5517e000b", "https://vgmdb.net/album/91315"]
 
-[318]
+[325]
 catalognumber = ""
 date = "2018-11-30"
 album = "Haruka Drive! Original SoundTrack"
@@ -7273,7 +7438,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82334"]
 
-[319]
+[326]
 catalognumber = "CIRCUS-0370"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 1"
@@ -7292,7 +7457,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[320]
+[327]
 catalognumber = "CIRCUS-0371"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 2"
@@ -7312,7 +7477,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[321]
+[328]
 catalognumber = "CIRCUS-0372"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 3"
@@ -7331,7 +7496,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[322]
+[329]
 catalognumber = "CIRCUS-0373"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 4"
@@ -7350,7 +7515,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[323]
+[330]
 catalognumber = "CIRCUS-0374"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 5"
@@ -7370,7 +7535,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[324]
+[331]
 catalognumber = "CIRCUS-0375"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 6"
@@ -7391,7 +7556,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[325]
+[332]
 catalognumber = "CIRCUS-0376"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 7"
@@ -7411,7 +7576,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[326]
+[333]
 catalognumber = "CIRCUS-0377"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Vocal Disc 8"
@@ -7428,7 +7593,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[327]
+[334]
 catalognumber = "CIRCUS-0378"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Original Soundtrack Disc 9"
@@ -7460,7 +7625,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[328]
+[335]
 catalognumber = "CIRCUS-0379"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Original Soundtrack Disc 10"
@@ -7503,7 +7668,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[329]
+[336]
 catalognumber = "CIRCUS-0380"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Original Soundtrack Disc 11"
@@ -7547,7 +7712,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[330]
+[337]
 catalognumber = "CIRCUS-0381"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Original Soundtrack Disc 12"
@@ -7589,7 +7754,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[331]
+[338]
 catalognumber = "CIRCUS-0382"
 date = "2019-01-25"
 album = "D.C. ARCHIVES SAKURA Edition MUSIC SIDE Original Soundtrack Disc 13"
@@ -7639,7 +7804,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3fd5b6b-199e-4881-bef3-2553e5836ba6", "https://vgmdb.net/album/83733"]
 
-[332]
+[339]
 catalognumber = "YSCD-0058"
 date = "2019-09-27"
 album = "Café Stella to Shinigami no Chou Character Song Vol.1 Only you! / Kanna Akizuki (CV: McLaren)"
@@ -7651,7 +7816,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e5b3182e-7b83-433a-9bd3-8d624c7d399b", "https://vgmdb.net/album/89846"]
 
-[333]
+[340]
 catalognumber = "YSCD-0059"
 date = "2019-10-11"
 album = "Café Stella to Shinigami no Chou Character Song Vol.2 Sweetest Bitterness / Natsume Shiki (CV: Kanako)"
@@ -7663,7 +7828,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/89c34f30-7fbc-4223-98b5-5387411ec1af", "https://vgmdb.net/album/89847"]
 
-[334]
+[341]
 catalognumber = "YSCD-0060"
 date = "2019-10-25"
 album = "Café Stella to Shinigami no Chou Character Song Vol.3 Kokochiii Nichijou / Nozomi Sumizome (CV: Aoi Uehara)"
@@ -7675,7 +7840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/75ccab04-f376-4912-88c5-070c0919aca8", "https://vgmdb.net/album/89848"]
 
-[335]
+[342]
 catalognumber = "YSCD-0061"
 date = "2019-11-08"
 album = "Café Stella to Shinigami no Chou Character Song Vol.4 Happy Sunshine / Mei Hiuchidani (CV: Urara Neraiuchi)"
@@ -7687,7 +7852,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b00a9a65-9c9b-4ced-a42e-2b557191443c", "https://vgmdb.net/album/89849"]
 
-[336]
+[343]
 catalognumber = ""
 date = "2020-06-26"
 album = "Nekotsuku, Sakura. SOUND TRACK CD Original Soundtrack, Vocal"
@@ -7699,7 +7864,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97434"]
 
-[337]
+[344]
 catalognumber = ""
 date = "2020-06-26"
 album = "Nekotsuku, Sakura. SOUND TRACK CD Original Soundtrack"
@@ -7731,7 +7896,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/97434"]
 
-[338]
+[345]
 catalognumber = "YSCD-0062"
 date = "2020-07-22"
 album = "Café Stella to Shinigami no Chou ORIGINAL SOUNDTRACK Original Soundtrack, Vocal Disc 1"
@@ -7764,7 +7929,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68a63ca1-a732-4123-a816-3d3d3f45e79a", "https://vgmdb.net/album/99295"]
 
-[339]
+[346]
 catalognumber = "YSCD-0063"
 date = "2020-07-22"
 album = "Café Stella to Shinigami no Chou ORIGINAL SOUNDTRACK Original Soundtrack"
@@ -7794,7 +7959,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68a63ca1-a732-4123-a816-3d3d3f45e79a", "https://vgmdb.net/album/99295"]
 
-[340]
+[347]
 catalognumber = "YSCD-0064"
 date = "2020-07-22"
 album = "Café Stella to Shinigami no Chou ORIGINAL SOUNDTRACK Original Soundtrack, Vocal Disc 3"
@@ -7820,7 +7985,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68a63ca1-a732-4123-a816-3d3d3f45e79a", "https://vgmdb.net/album/99295"]
 
-[341]
+[348]
 catalognumber = "ALV_CF01"
 date = "2020-09-17"
 album = "ALcot Character song Album: Voices"
@@ -7844,7 +8009,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/92299"]
 
-[342]
+[349]
 catalognumber = ""
 date = "2020-12-28"
 album = "ALcot characterSong coLLection"
@@ -7872,7 +8037,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111388"]
 
-[343]
+[350]
 catalognumber = "SSCD-008"
 date = "2021-05-28"
 album = "Symphony Sounds Generation 2019"
@@ -7895,7 +8060,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/484b4bff-46a4-404b-8dc8-605a0ea34119", "https://vgmdb.net/album/111264"]
 
-[344]
+[351]
 catalognumber = "WMACD-041"
 date = "2021-07-30"
 album = "Kiseki e no Bravi / Yui Sakakibara & Megu Sakuragawa"
@@ -7908,7 +8073,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9fb089d2-14a2-4583-99b7-50020b0c919a", "https://vgmdb.net/album/109980"]
 
-[345]
+[352]
 catalognumber = "MED-CD2-38352"
 date = "2021-07-30"
 album = "Chou no Doku Hana no Kusari Music Collection Original Soundtrack, Vocal"
@@ -7952,7 +8117,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112162"]
 
-[346]
+[353]
 catalognumber = "MED-CD2-38352"
 date = "2021-07-30"
 album = "Chou no Doku Hana no Kusari Music Collection Original Soundtrack"
@@ -7974,7 +8139,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112162"]
 
-[347]
+[354]
 catalognumber = "YRCD-0001"
 date = "2021-12-30"
 album = "PARQUET ORIGINAL SOUNDTRACK Disc 1 [YRCD-0001]"
@@ -8003,7 +8168,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8d058e6c-4998-4313-8f30-19c28f504d33", "https://vgmdb.net/album/115799"]
 
-[348]
+[355]
 catalognumber = "YRCD-0002"
 date = "2021-12-30"
 album = "PARQUET ORIGINAL SOUNDTRACK Disc 2 [YRCD-0002]"
@@ -8028,7 +8193,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8d058e6c-4998-4313-8f30-19c28f504d33", "https://vgmdb.net/album/115799"]
 
-[349]
+[356]
 catalognumber = "SSCD-011"
 date = "2022-05-27"
 album = "Symphony Sounds Generation 2020"
@@ -8051,7 +8216,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28c77fc3-6de4-4eea-b8d3-a5d69ba9fa59", "https://vgmdb.net/album/119674"]
 
-[350]
+[357]
 catalognumber = "WMS-002"
 date = "2022-09-29"
 album = "la campanella della eterno Soundtrack"
@@ -8098,7 +8263,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/83c7d448-2ed9-4c3f-aaa9-5f100280bd0e", "https://vgmdb.net/album/122021"]
 
-[351]
+[358]
 catalognumber = "LPTN-0071"
 date = "2022-10-28"
 album = "SMEE Vocal Cover Collection Ver.Haruka Shimotsuki"
@@ -8116,7 +8281,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f272942-0dbe-4d5c-b609-80c8a1737cfd", "https://vgmdb.net/album/122782"]
 
-[352]
+[359]
 catalognumber = ""
 date = "2022-12-23"
 album = "Arcana Alchemia Soundtrack Disc 1"
@@ -8128,7 +8293,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/07f86600-c96e-4c7d-a8fc-1c13aaae6290", "https://vgmdb.net/album/123046"]
 
-[353]
+[360]
 catalognumber = ""
 date = "2022-12-23"
 album = "Arcana Alchemia Soundtrack Disc 2"
@@ -8161,7 +8326,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/07f86600-c96e-4c7d-a8fc-1c13aaae6290", "https://vgmdb.net/album/123046"]
 
-[354]
+[361]
 catalognumber = "SSCD-013"
 date = "2023-01-27"
 album = "Symphony Sounds Request"
@@ -8184,7 +8349,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/86e5634c-3a5c-451f-ba5c-c96b786e66ab", "https://vgmdb.net/album/125064"]
 
-[355]
+[362]
 catalognumber = "YSCD-0069"
 date = "2023-03-10"
 album = "TENSHI☆SOUZOU RE-BOOT! Character Song Vol.4 Horete Yurete Koikogare / Kaguya Hoshikawa"
@@ -8196,7 +8361,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e78cedb1-393e-4ac9-a29a-3d3b81ce0d8a", "https://vgmdb.net/album/125061"]
 
-[356]
+[363]
 catalognumber = "YSCD-0070"
 date = "2023-10-27"
 album = "TENSHI☆SOUZOU RE-BOOT! ORIGINAL SOUNDTRACK Disc 1"
@@ -8227,7 +8392,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8330cf1-defa-478f-bc40-ed84261c2c83", "https://vgmdb.net/album/132245"]
 
-[357]
+[364]
 catalognumber = "YSCD-0071"
 date = "2023-10-27"
 album = "TENSHI☆SOUZOU RE-BOOT! ORIGINAL SOUNDTRACK Disc 2"
@@ -8255,7 +8420,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8330cf1-defa-478f-bc40-ed84261c2c83", "https://vgmdb.net/album/132245"]
 
-[358]
+[365]
 catalognumber = "YSCD-0072"
 date = "2023-10-27"
 album = "TENSHI☆SOUZOU RE-BOOT! ORIGINAL SOUNDTRACK Disc 3"
@@ -8281,7 +8446,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8330cf1-defa-478f-bc40-ed84261c2c83", "https://vgmdb.net/album/132245"]
 
-[359]
+[366]
 catalognumber = "YSCD-0073"
 date = "2023-10-27"
 album = "TENSHI☆SOUZOU RE-BOOT! ORIGINAL SOUNDTRACK Disc 4"
@@ -8303,14 +8468,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8330cf1-defa-478f-bc40-ed84261c2c83", "https://vgmdb.net/album/132245"]
 
-[360]
+[367]
 catalognumber = "CHPY1011"
 date = "2024-04-22"
 album = "Princess Witches Original Soundtrack"
 tracks = []
 links = ["https://vgmdb.net/album/135938"]
 
-[361]
+[368]
 catalognumber = "SSCD-018"
 date = "2024-08-30"
 album = "Symphony Sounds Record 2024 ~from 2009 to 2023~"
@@ -8333,7 +8498,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d1777cc3-623f-48ae-bcaa-97eee30521b8", "https://vgmdb.net/album/142202"]
 
-[362]
+[369]
 catalognumber = "YSCD-0074"
 date = "2025-09-26"
 album = "lemonade jam / lemonade factory"
