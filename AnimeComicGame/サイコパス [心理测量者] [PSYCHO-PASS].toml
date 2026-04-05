@@ -74,14 +74,24 @@ links = ["https://beta.musicbrainz.org/release/6a0fba8d-3abe-436f-a1f8-9e0889bd5
 catalognumber = "TBZR-0088"
 date = "2013-01-01"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」冬の一斉検挙SP Disc 1"
-tracks = []
+tracks = [
+    [1, "冬の一斉検挙SP01", "関智一、野島健児、花澤香菜", 0],
+    [2, "冬の一斉検挙SP02", "関智一、野島健児、花澤香菜", 0],
+    [3, "冬の一斉検挙SP03", "関智一、野島健児、花澤香菜", 0],
+]
 links = ["https://vgmdb.net/album/51749"]
 
 [8]
 catalognumber = "TBZR-0089"
 date = "2013-01-01"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」冬の一斉検挙SP Disc 2"
-tracks = []
+tracks = [
+    [1, "PSYCHO-PASSラジオ公安局刑事課24時_第0回", "", 0],
+    [2, "PSYCHO-PASSラジオ公安局刑事課24時_第1回", "", 0],
+    [3, "PSYCHO-PASSラジオ公安局刑事課24時_第2回", "", 0],
+    [4, "PSYCHO-PASSラジオ公安局刑事課24時_第3回", "", 0],
+    [5, "PSYCHO-PASSラジオ公安局刑事課24時_第4回", "", 0],
+]
 links = ["https://vgmdb.net/album/51749"]
 
 [9]
@@ -220,14 +230,24 @@ links = ["https://beta.musicbrainz.org/release/ebfad068-671c-44fb-91b0-a1f4ccd52
 catalognumber = "TBZR-0096"
 date = "2013-04-24"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 1"
-tracks = []
+tracks = [
+    [1, "春の交通安全SP01", "関智一、野島健児、花澤香菜", 0],
+    [2, "春の交通安全SP02", "関智一、野島健児、花澤香菜", 0],
+    [3, "春の交通安全SP03", "関智一、野島健児、花澤香菜", 0],
+]
 links = ["https://vgmdb.net/album/51481"]
 
 [19]
 catalognumber = "TBZR-0097"
 date = "2013-04-24"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」春の交通安全SP Disc 2"
-tracks = []
+tracks = [
+    [1, "PSYCHO-PASSラジオ公安局刑事課24時_第5回", "", 0],
+    [2, "PSYCHO-PASSラジオ公安局刑事課24時_第6回", "", 0],
+    [3, "PSYCHO-PASSラジオ公安局刑事課24時_第7回", "", 0],
+    [4, "PSYCHO-PASSラジオ公安局刑事課24時_第8回", "", 0],
+    [5, "PSYCHO-PASSラジオ公安局刑事課24時_第9回", "", 0],
+]
 links = ["https://vgmdb.net/album/51481"]
 
 [20]
@@ -378,14 +398,23 @@ links = ["https://beta.musicbrainz.org/release/934f077e-7c0a-419a-b9ca-649007c49
 catalognumber = "TBZR-0122"
 date = "2013-07-03"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 1"
-tracks = []
+tracks = [
+    [1, "凶悪犯確保の瞬間SP01", "関智一、野島健児、花澤香菜", 0],
+    [2, "凶悪犯確保の瞬間SP02", "関智一、野島健児、花澤香菜", 0],
+    [3, "凶悪犯確保の瞬間SP03", "関智一、野島健児、花澤香菜", 0],
+]
 links = ["https://vgmdb.net/album/51750"]
 
 [26]
 catalognumber = "TBZR-0123"
 date = "2013-07-03"
 album = "ラジオCD「PSYCHO-PASS ラジオ 公安局刑事課24時」凶悪犯確保の瞬間SP Disc 2"
-tracks = []
+tracks = [
+    [1, "PSYCHO-PASSラジオ公安局刑事課24時_第10回", "", 0],
+    [2, "PSYCHO-PASSラジオ公安局刑事課24時_第11回", "", 0],
+    [3, "PSYCHO-PASSラジオ公安局刑事課24時_第12回", "", 0],
+    [4, "PSYCHO-PASSラジオ公安局刑事課24時_第13回", "", 0],
+]
 links = ["https://vgmdb.net/album/51750"]
 
 [27]
