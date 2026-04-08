@@ -556,7 +556,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/f4d5e6bc-2770-47fd-9008-0f18dc7aef94", "https://vgmdb.net/album/57149"]
 
 [34]
-catalognumber = "LACA-35565, LACA-35566"
+catalognumber = "LACA-35565~6"
 date = "2016-05-25"
 album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 1 (CD) [LACA-35565]"
 tracks = [
@@ -576,7 +576,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
 
 [35]
-catalognumber = "LACA-35565, LACA-35566"
+catalognumber = "LACA-35565~6"
 date = "2016-05-25"
 album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 2 (CD) [LACA-35566]"
 tracks = [
@@ -596,7 +596,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
 
 [36]
-catalognumber = "LACA-35565, LACA-35566"
+catalognumber = "LACA-35565~6"
 date = "2016-05-25"
 album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 3 (Blu-ray) [LAPD-1398]"
 tracks = [
@@ -1299,9 +1299,6 @@ catalognumber = "LAVZ-10003"
 date = "2021-11-01"
 album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 1 [LAVZ-10003]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 15:00", "", 0],
-    [0, "B-Side", "", 0],
     [1, "戦車道行進曲!パンツァーフォー!", "", 1],
     [2, "乙女のたしなみ戦車道マーチ!", "", 1],
     [3, "大洗女子学園チーム前進します!", "", 1],
@@ -1329,9 +1326,6 @@ catalognumber = "LAVZ-10003"
 date = "2021-11-01"
 album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 2 [LAVZ-10005]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 14:41", "", 0],
-    [0, "B-Side", "", 0],
     [1, "アウトレットでお買い物します!", "", 1],
     [2, "戦車喫茶に来ました!", "", 1],
     [3, "スポーツニュースは今日も戦車道を報じています!", "", 1],
@@ -1358,9 +1352,6 @@ catalognumber = "LAVZ-10003"
 date = "2021-11-01"
 album = "ガールズ&パンツァー ORIGINAL SOUND TRACK ~LP Remaster Edition~ Disc 3 [LAVZ-10006]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 15:31", "", 0],
-    [0, "B-Side", "", 0],
     [1, "それゆけ!乙女の戦車道!! Wind Orchestra ver.", "", 1],
     [2, "ブリティッシュ・グレナディアーズ", "", 1],
     [3, "リパブリック讃歌", "", 1],
@@ -1418,7 +1409,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113409"]
 
 [81]
-catalognumber = "LACA-39862, LACA-39863"
+catalognumber = "LACA-39862~3"
 date = "2021-12-08"
 album = "ChouCho the BEST [初回限定盤] Vocal Disc 1"
 tracks = [
@@ -1438,7 +1429,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113410"]
 
 [82]
-catalognumber = "LACA-39862, LACA-39863"
+catalognumber = "LACA-39862~3"
 date = "2021-12-08"
 album = "ChouCho the BEST [初回限定盤] Vocal Disc 2"
 tracks = [
@@ -1458,7 +1449,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113410"]
 
 [83]
-catalognumber = "LACA-39862, LACA-39863"
+catalognumber = "LACA-39862~3"
 date = "2021-12-08"
 album = "ChouCho the BEST [初回限定盤] Vocal, Video"
 tracks = [

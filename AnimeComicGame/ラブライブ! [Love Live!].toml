@@ -431,7 +431,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/17406a8a-887f-4b13-bbea-668bba610bf6", "https://vgmdb.net/album/51764"]
 
 [30]
-catalognumber = "LACA-39260, LACA-39261"
+catalognumber = "LACA-39260~1"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection [超豪華盤] Vocal Disc 1"
 tracks = [
@@ -453,7 +453,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9bddad65-b38d-49c3-9baf-0775faa7c023", "https://vgmdb.net/album/51811"]
 
 [31]
-catalognumber = "LACA-39260, LACA-39261"
+catalognumber = "LACA-39260~1"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection [超豪華盤] Vocal Disc 2"
 tracks = [
@@ -478,7 +478,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9bddad65-b38d-49c3-9baf-0775faa7c023", "https://vgmdb.net/album/51811"]
 
 [32]
-catalognumber = "LACA-39260, LACA-39261"
+catalognumber = "LACA-39260~1"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection [超豪華盤] Video"
 tracks = [
@@ -491,7 +491,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9bddad65-b38d-49c3-9baf-0775faa7c023", "https://vgmdb.net/album/51811"]
 
 [33]
-catalognumber = "LACA-39262, LACA-39263"
+catalognumber = "LACA-39262~3"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection Vocal Disc 1"
 tracks = [
@@ -513,7 +513,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/37889b99-bd2b-4a09-b831-be23c5136083", "https://vgmdb.net/album/51765"]
 
 [34]
-catalognumber = "LACA-39262, LACA-39263"
+catalognumber = "LACA-39262~3"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection Vocal Disc 2"
 tracks = [
@@ -538,7 +538,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/37889b99-bd2b-4a09-b831-be23c5136083", "https://vgmdb.net/album/51765"]
 
 [35]
-catalognumber = "LACA-39262, LACA-39263"
+catalognumber = "LACA-39262~3"
 date = "2013-01-09"
 album = "μ's Best Album Best Live! collection Video"
 tracks = [
@@ -5325,9 +5325,6 @@ catalognumber = "LAVZ-10001"
 date = "2019-05-15"
 album = "君のこころは輝いてるかい? / Aqours"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "", "", 0],
-    [0, "B-Side", "", 0],
     [1, "君のこころは輝いてるかい?", "", 1],
     [2, "Step! ZERO to ONE", "", 1],
     [3, "Aqours☆HEROES", "", 1],
@@ -5343,9 +5340,6 @@ catalognumber = "LAVZ-10002"
 date = "2019-05-15"
 album = "恋になりたいAQUARIUM / Aqours"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "", "", 0],
-    [0, "B-Side", "", 0],
     [1, "恋になりたいAQUARIUM", "", 1],
     [2, "待ってて愛のうた", "", 1],
     [3, "届かない星だとしても", "", 1],
@@ -6673,7 +6667,7 @@ tracks = []
 links = ["https://vgmdb.net/album/97699"]
 
 [416]
-catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
+catalognumber = "LACA-39800~3"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 1"
 tracks = [
@@ -6690,7 +6684,7 @@ tracks = [
 links = ["https://vgmdb.net/album/101818"]
 
 [417]
-catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
+catalognumber = "LACA-39800~3"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 2"
 tracks = [
@@ -6713,7 +6707,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/699b355a-b4c3-456d-9654-577f21161d1a", "https://vgmdb.net/album/101818"]
 
 [418]
-catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
+catalognumber = "LACA-39800~3"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 3"
 tracks = [
@@ -6730,7 +6724,7 @@ tracks = [
 links = ["https://vgmdb.net/album/101818"]
 
 [419]
-catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
+catalognumber = "LACA-39800~3"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal Disc 4"
 tracks = [
@@ -6750,7 +6744,7 @@ tracks = [
 links = ["https://vgmdb.net/album/101818"]
 
 [420]
-catalognumber = "LACA-39800, LACA-39801, LACA-39802, LACA-39803"
+catalognumber = "LACA-39800~3"
 date = "2020-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2015〜2017) Vocal, Video"
 tracks = [
@@ -8179,7 +8173,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/81b49aab-643d-4435-b7de-1dd2bda33824", "https://vgmdb.net/album/112698"]
 
 [508]
-catalognumber = "LACA-39860, LACA-39861"
+catalognumber = "LACA-39860~1"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal Disc 1"
 tracks = [
@@ -8200,7 +8194,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/ed5f3251-2a79-4af9-8ddf-20b003abf81c", "https://vgmdb.net/album/112699"]
 
 [509]
-catalognumber = "LACA-39860, LACA-39861"
+catalognumber = "LACA-39860~1"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal Disc 2"
 tracks = [
@@ -8223,7 +8217,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/ed5f3251-2a79-4af9-8ddf-20b003abf81c", "https://vgmdb.net/album/112699"]
 
 [510]
-catalognumber = "LACA-39860, LACA-39861"
+catalognumber = "LACA-39860~1"
 date = "2021-10-07"
 album = "ラブライブ! サンシャイン!! Aqours CHRONICLE (2018~2020) [初回限定盤] Vocal, Video"
 tracks = [
@@ -10517,7 +10511,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/a28a342b-8d66-4727-86af-a74a31de72f2", "https://vgmdb.net/album/129418"]
 
 [654]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 1 (CD) [LACM-34430]"
 tracks = [
@@ -10526,7 +10520,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
 [655]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 2 (CD) [LACM-34431]"
 tracks = [
@@ -10544,7 +10538,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
 [656]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 3 (Blu-ray) [LAPD-1749]"
 tracks = [
@@ -10561,7 +10555,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
 [657]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 4 (Blu-ray) [LAPD-1750]"
 tracks = [
@@ -10584,7 +10578,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
 [658]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 5 (Blu-ray) [LAPD-1751]"
 tracks = [
@@ -10605,7 +10599,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/7160eb6d-5958-423b-8577-c9c9dcb5b511", "https://vgmdb.net/album/130470"]
 
 [659]
-catalognumber = "LACM-34430, LACM-34431"
+catalognumber = "LACM-34430~1"
 date = "2023-06-30"
 album = "ラブライブ! サンシャイン!! Aqours CLUB CD SET 2023 CLEAR EDITION [初回限定生産] Disc 6 (Blu-ray) [LAPD-1752]"
 tracks = [

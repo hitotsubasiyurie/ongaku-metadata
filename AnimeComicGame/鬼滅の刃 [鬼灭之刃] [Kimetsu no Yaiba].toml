@@ -750,7 +750,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/dbfe67c1-69ae-4f52-acd6-beddebaf5d81", "https://vgmdb.net/album/99830"]
 
 [29]
-catalognumber = "VVCL-1700, VVCL-1701, VVCL-1702"
+catalognumber = "VVCL-1700~2"
 date = "2020-10-14"
 album = "LEO-NiNE / LiSA [Limited Edition] Vocal"
 tracks = [
@@ -771,7 +771,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/95d1754a-242a-420f-af88-327662cf619b", "https://vgmdb.net/album/99836"]
 
 [30]
-catalognumber = "VVCL-1700, VVCL-1701, VVCL-1702"
+catalognumber = "VVCL-1700~2"
 date = "2020-10-14"
 album = "LEO-NiNE / LiSA [Limited Edition] Vocal, Live Event, Video"
 tracks = [
@@ -1126,9 +1126,6 @@ catalognumber = "VVJL-5"
 date = "2021-03-13"
 album = "紅蓮華/炎 (HOMURA) / LiSA [完全生産限定盤]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "", "", 0],
-    [0, "B-Side", "", 0],
     [1, "紅蓮華", "", 1],
     [2, "\"PROPAGANDA\"", "", 0],
     [3, "やくそくのうた", "", 1],
@@ -1587,9 +1584,6 @@ catalognumber = "VVJL-9"
 date = "2022-02-16"
 album = "明け星/白銀 / LiSA [完全生産限定盤]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 8:48", "", 0],
-    [0, "B-Side", "", 0],
     [1, "明け星", "", 1],
     [2, "白銀", "", 1],
     [3, "明け星 -Instrumental-", "", 1],
@@ -1604,9 +1598,6 @@ catalognumber = "VVJL-10"
 date = "2022-02-16"
 album = "残響散歌/朝が来る / Aimer [完全生産限定盤]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 7:54", "", 0],
-    [0, "B-Side", "", 0],
     [1, "残響散歌", "", 1],
     [2, "朝が来る", "", 1],
     [3, "残響散歌 -Instrumental-", "", 1],
@@ -2095,7 +2086,7 @@ tracks = [
 links = ["https://vgmdb.net/album/121161"]
 
 [93]
-catalognumber = "VVX8-12, VVX8-13, VVX8-14, VVX8-15"
+catalognumber = "VVX8-12~5"
 date = "2022-09-07"
 album = "Aimer Hall Tour 2022 \"Walpurgisnacht\" Live at TOKYO GARDEN THEATER [Blanc et Noir 限定盤] Vocal, Live Event, Video Disc 1"
 tracks = [
@@ -2121,7 +2112,7 @@ tracks = [
 links = ["https://vgmdb.net/album/123308"]
 
 [94]
-catalognumber = "VVX8-12, VVX8-13, VVX8-14, VVX8-15"
+catalognumber = "VVX8-12~5"
 date = "2022-09-07"
 album = "Aimer Hall Tour 2022 \"Walpurgisnacht\" Live at TOKYO GARDEN THEATER [Blanc et Noir 限定盤] Vocal, Live Event, Video Disc 2"
 tracks = [
@@ -2138,7 +2129,7 @@ tracks = [
 links = ["https://vgmdb.net/album/123308"]
 
 [95]
-catalognumber = "VVX8-12, VVX8-13, VVX8-14, VVX8-15"
+catalognumber = "VVX8-12~5"
 date = "2022-09-07"
 album = "Aimer Hall Tour 2022 \"Walpurgisnacht\" Live at TOKYO GARDEN THEATER [Blanc et Noir 限定盤] Vocal, Live Event"
 tracks = [
@@ -2245,7 +2236,7 @@ tracks = [
 links = ["https://vgmdb.net/album/122449"]
 
 [100]
-catalognumber = "VVXL-114, VVXL-115, VVXL-116"
+catalognumber = "VVXL-114~6"
 date = "2022-10-12"
 album = "LiVE is Smile Always～Eve&Birth～「the Birth」at NIPPON BUDOKAN / LiSA [完全数量生産限定盤] Vocal, Live Event, Video"
 tracks = [
@@ -2277,7 +2268,7 @@ tracks = [
 links = ["https://vgmdb.net/album/122450"]
 
 [101]
-catalognumber = "VVXL-114, VVXL-115, VVXL-116"
+catalognumber = "VVXL-114~6"
 date = "2022-10-12"
 album = "LiVE is Smile Always～Eve&Birth～「the Birth」at NIPPON BUDOKAN / LiSA [完全数量生産限定盤] Vocal, Live Event"
 tracks = [
@@ -2320,7 +2311,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/6a1a61b6-bb37-4f4c-af9d-8f21a2cd5de5", "https://vgmdb.net/album/123068"]
 
 [103]
-catalognumber = "VVCL-2120, VVCL-2121"
+catalognumber = "VVCL-2120~1"
 date = "2022-11-16"
 album = "LANDER / LiSA [完全数量生産限定盤] Disc 1 [VVCL-2120]"
 tracks = [
@@ -2342,7 +2333,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/db2cbb99-69ff-479d-9bad-81aeb3a93bec", "https://vgmdb.net/album/123072"]
 
 [104]
-catalognumber = "VVCL-2125, VVCL-2126, VVCL-2127"
+catalognumber = "VVCL-2125~7"
 date = "2022-11-16"
 album = "LANDER / LiSA [初回生産限定盤B] Vocal"
 tracks = [
@@ -2364,7 +2355,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9e116c41-e2a1-48da-a3b9-946833e55db6", "https://vgmdb.net/album/123070"]
 
 [105]
-catalognumber = "VVCL-2125, VVCL-2126, VVCL-2127"
+catalognumber = "VVCL-2125~7"
 date = "2022-11-16"
 album = "LANDER / LiSA [初回生産限定盤B] Vocal, Video"
 tracks = [
@@ -2382,7 +2373,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/9e116c41-e2a1-48da-a3b9-946833e55db6", "https://vgmdb.net/album/123070"]
 
 [106]
-catalognumber = "VVCL-2122, VVCL-2123, VVCL-2124"
+catalognumber = "VVCL-2122~4"
 date = "2022-11-16"
 album = "LANDER / LiSA [初回生産限定盤A] Vocal"
 tracks = [
@@ -2404,7 +2395,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/06abea9e-22d4-495b-b336-542c0498572e", "https://vgmdb.net/album/123069"]
 
 [107]
-catalognumber = "VVCL-2122, VVCL-2123, VVCL-2124"
+catalognumber = "VVCL-2122~4"
 date = "2022-11-16"
 album = "LANDER / LiSA [初回生産限定盤A] Vocal, Video"
 tracks = [
@@ -3170,9 +3161,6 @@ catalognumber = "ANTJ-33041"
 date = "2024-03-06"
 album = "「鬼滅の刃」無限列車編 オリジナルサウンドトラック Disc 1 [ANTJ-33041]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 21:23", "", 0],
-    [0, "B-Side", "", 0],
     [1, "無限列車〜avant-title〜", "", 1],
     [2, "煉獄と合流", "", 1],
     [3, "煉獄との対話", "", 1],
@@ -3211,9 +3199,6 @@ catalognumber = "ANTJ-33042"
 date = "2024-03-06"
 album = "「鬼滅の刃」無限列車編 オリジナルサウンドトラック Disc 2 [ANTJ-33042]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 19:30", "", 0],
-    [0, "B-Side", "", 0],
     [1, "列車の変貌", "", 1],
     [2, "触手～霹靂一閃 六連", "", 1],
     [3, "孤軍奮闘～煉獄の目覚め", "", 1],
@@ -3240,9 +3225,6 @@ catalognumber = "ANTJ-33043"
 date = "2024-03-06"
 album = "「鬼滅の刃」無限列車編 オリジナルサウンドトラック Disc 3 [ANTJ-33043]"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 1:34", "", 0],
-    [0, "B-Side", "", 0],
     [1, "明け星 -TV ver.-", "", 1],
     [2, "白銀 -TV ver.-", "", 1],
 ]
@@ -3603,9 +3585,6 @@ catalognumber = "IN-L004"
 date = "2025-02-28"
 album = "ペガサス幻想-聖闘士星矢, 紅蓮華-鬼滅の刃 / Rob Lundgren, Ricardo Cruz"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 3:54", "", 0],
-    [0, "B-Side", "", 0],
     [1, "PEGASUS FANTASY - SAINT SEIYA", "", 0],
     [2, "GURENGE - DEMON SLAYER", "", 0],
 ]

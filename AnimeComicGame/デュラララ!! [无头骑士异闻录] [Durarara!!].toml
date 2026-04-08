@@ -1884,7 +1884,7 @@ tracks = [
 links = ["https://vgmdb.net/album/97261"]
 
 [123]
-catalognumber = "BVCL-1070, BVCL-1071, BVCL-1072, BVCL-1073, BVCL-1074"
+catalognumber = "BVCL-1070~4"
 date = "2020-04-15"
 album = "10'S BEST / OKAMOTO'S [Limited Edition] Vocal Disc 1"
 tracks = [
@@ -1909,7 +1909,7 @@ tracks = [
 links = ["https://vgmdb.net/album/97263"]
 
 [124]
-catalognumber = "BVCL-1070, BVCL-1071, BVCL-1072, BVCL-1073, BVCL-1074"
+catalognumber = "BVCL-1070~4"
 date = "2020-04-15"
 album = "10'S BEST / OKAMOTO'S [Limited Edition] Vocal Disc 2"
 tracks = [
@@ -1933,7 +1933,7 @@ tracks = [
 links = ["https://vgmdb.net/album/97263"]
 
 [125]
-catalognumber = "BVCL-1070, BVCL-1071, BVCL-1072, BVCL-1073, BVCL-1074"
+catalognumber = "BVCL-1070~4"
 date = "2020-04-15"
 album = "10'S BEST / OKAMOTO'S [Limited Edition] Vocal, Live Event, Video"
 tracks = [
@@ -1963,13 +1963,10 @@ tracks = [
 links = ["https://vgmdb.net/album/97263"]
 
 [126]
-catalognumber = "BVCL-1070, BVCL-1071, BVCL-1072, BVCL-1073, BVCL-1074"
+catalognumber = "BVCL-1070~4"
 date = "2020-04-15"
 album = "10'S BEST / OKAMOTO'S [Limited Edition] Vocal Disc 4"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "", "", 0],
-    [0, "B-Side", "", 0],
     [1, "Run Run Run", "", 0],
     [2, "笑って笑って", "", 0],
     [3, "欲望を叫べ!!!!", "", 0],

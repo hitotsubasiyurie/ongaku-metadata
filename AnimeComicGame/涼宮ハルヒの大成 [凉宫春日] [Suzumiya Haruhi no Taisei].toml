@@ -496,9 +496,6 @@ catalognumber = "LZM-2001"
 date = "2007-03-18"
 album = "ハレ晴レユカイ/うぇるかむUNKNOWN"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "", "", 0],
-    [0, "B-Side", "", 0],
     [1, "ハレ晴レユカイ", "", 1],
     [2, "うぇるかむUNKNOWN", "", 1],
 ]
@@ -1373,7 +1370,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/3546057d-e660-4992-9186-817baa41762e", "https://vgmdb.net/album/35017"]
 
 [78]
-catalognumber = "MUCD-1212, MUCD-1213"
+catalognumber = "MUCD-1212~3"
 date = "2009-07-22"
 album = "スーパー★アニメ☆リミックス SUPER BEST Arrangement, Vocal, Remix Disc 1"
 tracks = [
@@ -1406,7 +1403,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/84c52624-30cc-45df-b866-787783e028df", "https://vgmdb.net/album/88880"]
 
 [79]
-catalognumber = "MUCD-1212, MUCD-1213"
+catalognumber = "MUCD-1212~3"
 date = "2009-07-22"
 album = "スーパー★アニメ☆リミックス SUPER BEST Arrangement, Vocal, Remix Disc 2"
 tracks = [
@@ -1439,7 +1436,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/84c52624-30cc-45df-b866-787783e028df", "https://vgmdb.net/album/88880"]
 
 [80]
-catalognumber = "MUCD-1212, MUCD-1213"
+catalognumber = "MUCD-1212~3"
 date = "2009-07-22"
 album = "スーパー★アニメ☆リミックス SUPER BEST Arrangement, Vocal, Remix, Video"
 tracks = [
@@ -4288,7 +4285,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
 
 [211]
-catalognumber = "SVWC-70501, SVWC-70502, SVWC-70503, SVWC-70504, SVWC-70505, SVWC-70506"
+catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 1"
 tracks = [
@@ -4312,7 +4309,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
 
 [212]
-catalognumber = "SVWC-70501, SVWC-70502, SVWC-70503, SVWC-70504, SVWC-70505, SVWC-70506"
+catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 2"
 tracks = [
@@ -4337,7 +4334,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
 
 [213]
-catalognumber = "SVWC-70501, SVWC-70502, SVWC-70503, SVWC-70504, SVWC-70505, SVWC-70506"
+catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 3"
 tracks = [
@@ -4361,7 +4358,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
 
 [214]
-catalognumber = "SVWC-70501, SVWC-70502, SVWC-70503, SVWC-70504, SVWC-70505, SVWC-70506"
+catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 4"
 tracks = [
@@ -4402,7 +4399,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
 
 [215]
-catalognumber = "SVWC-70501, SVWC-70502, SVWC-70503, SVWC-70504, SVWC-70505, SVWC-70506"
+catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 5"
 tracks = [

@@ -3278,7 +3278,7 @@ tracks = [
 links = ["https://vgmdb.net/album/152289"]
 
 [211]
-catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
+catalognumber = "KICS-3989~93"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 1 [KICS-3989]"
 tracks = [
@@ -3301,7 +3301,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [212]
-catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
+catalognumber = "KICS-3989~93"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 2 [KICS-3990]"
 tracks = [
@@ -3324,7 +3324,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [213]
-catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
+catalognumber = "KICS-3989~93"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 3 [KICS-3991]"
 tracks = [
@@ -3347,7 +3347,7 @@ tracks = [
 links = ["https://beta.musicbrainz.org/release/aaef7463-d615-4412-841e-1626d819e45d", "https://vgmdb.net/album/108530"]
 
 [214]
-catalognumber = "KICS-3989, KICS-3990, KICS-3991, KICS-3992, KICS-3993"
+catalognumber = "KICS-3989~93"
 date = "2021-04-28"
 album = "25 YEARS AFTER ～All Time Best～ / 米倉千尋 Disc 4 [KICS-3992]"
 tracks = [
@@ -3413,9 +3413,6 @@ catalognumber = "AVTD-96828/B~C"
 date = "2021-11-10"
 album = "BRiGHT FUTURE / EMPiRE [初回生産限定盤] Vocal Disc 1"
 tracks = [
-    [0, "A-Side", "", 0],
-    [0, "Side length 24:28", "", 0],
-    [0, "B-Side", "", 0],
     [1, "LET'S SHOW", "", 0],
     [2, "Chase your back", "", 0],
     [3, "IZA!!", "", 0],
