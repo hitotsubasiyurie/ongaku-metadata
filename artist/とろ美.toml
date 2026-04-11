@@ -48,6 +48,59 @@ links = ["https://www.dojin-music.info/cd/22926"]
 
 [5]
 catalognumber = ""
+date = ""
+album = "ぷねうまレコードですら 何がしたいのかよくわからないCD"
+tracks = [
+    [1, "Fred von Jupiter", "とろ美", 0],
+    [2, "Fly me to the moons (Fly me to the moon)", "たなかよしあき", 0],
+    [3, "Teathe（残酷な天使のテーゼ）", "たなかよしあき", 0],
+    [4, "Lufeaulan（魂のルフラン）", "たなかよしあき", 0],
+]
+links = ["https://www.last.fm/music/%E3%81%A8%E3%82%8D%E7%BE%8E/%E3%81%B7%E3%81%AD%E3%81%86%E3%81%BE%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E3%81%99%E3%82%89+%E4%BD%95%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%81%AE%E3%81%8B%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84CD"]
+
+[6]
+catalognumber = ""
+date = ""
+album = "とろプロ TOROPURO YURUYURU SONG SELECTION VERSION 1.0"
+tracks = [
+    [1, "とろプロアイキャッチ", "とろ美", 0],
+    [2, "スキンハーモニー", "とろ美", 0],
+    [3, "モグモグデザート", "とろ美", 0],
+    [4, "１００の質問のうた", "とろ美", 0],
+    [5, "ブルー・ロシアン・ブルー", "とろ美", 0],
+    [6, "おさんぽ天国", "とろ美", 0],
+    [7, "企画書のうた", "とろ美", 0],
+    [8, "変な汁", "とろ美", 0],
+    [9, "ゆるゆる", "とろ美", 0],
+    [10, "-", "とろ美", 0],
+]
+links = ["https://www.last.fm/music/%E3%81%A8%E3%82%8D%E7%BE%8E/%E3%81%A8%E3%82%8D%E3%83%97%E3%83%AD+TOROPURO+YURUYURU+SONG+SELECTION+VERSION+1.0"]
+
+[7]
+catalognumber = ""
+date = ""
+album = "とろみかん 果汁0%"
+tracks = [
+    [1, "+ONE", "とろ美", 0],
+    [2, "ふっかつのじゅもん", "とろ美", 0],
+    [3, "しずる (タダイケ MIX)", "とろ美", 0],
+    [4, "+ONE (からおけ)", "あいかわらずな", 0],
+    [5, "ふっかつのじゅもん (からおけ)", "あいかわらずな", 0],
+]
+links = ["https://www.last.fm/music/%E3%81%A8%E3%82%8D%E7%BE%8E/%E3%81%A8%E3%82%8D%E3%81%BF%E3%81%8B%E3%82%93+%E6%9E%9C%E6%B1%810%25"]
+
+[8]
+catalognumber = ""
+date = ""
+album = "ぷりぷり さぷりめんと わーにんぐ ろっくのぼいすらいぶらりん"
+tracks = [
+    [1, "Puripuri Supplement", "Toromi", 0],
+    [2, "Warning", "Toromi", 0],
+]
+links = ["https://www.last.fm/music/%E3%81%A8%E3%82%8D%E7%BE%8E/%E3%81%B7%E3%82%8A%E3%81%B7%E3%82%8A+%E3%81%95%E3%81%B7%E3%82%8A%E3%82%81%E3%82%93%E3%81%A8+%E3%82%8F%E3%83%BC%E3%81%AB%E3%82%93%E3%81%90+%E3%82%8D%E3%81%A3%E3%81%8F%E3%81%AE%E3%81%BC%E3%81%84%E3%81%99%E3%82%89%E3%81%84%E3%81%B6%E3%82%89%E3%82%8A%E3%82%93"]
+
+[9]
+catalognumber = ""
 date = "2004"
 album = "Maru.con"
 tracks = [
@@ -69,7 +122,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7f73833a-b00e-4fa3-9258-ca15aac682fa"]
 
-[6]
+[10]
 catalognumber = "DAND-00002"
 date = "2004-06-11"
 album = "MUSIC FOR MARUCOM"
@@ -99,7 +152,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/38409"]
 
-[7]
+[11]
 catalognumber = "DOC-0002"
 date = "2005-01-28"
 album = "doll ～歌姫 vol.6 －舞－"
@@ -117,7 +170,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/26853"]
 
-[8]
+[12]
 catalognumber = "GIRL-0006"
 date = "2006-08-11"
 album = "I've Respect arrange vocal album: admiration"
@@ -133,7 +186,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4cc8319c-fecb-4d41-b5f8-bbb682200aa1", "https://vgmdb.net/album/2327", "https://www.dojin-music.info/cd/64"]
 
-[9]
+[13]
 catalognumber = "GRWOC58"
 date = "2006-08-11"
 album = "light Song of The Best Collection II"
@@ -158,7 +211,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/8092"]
 
-[10]
+[14]
 catalognumber = "TRCD-000004"
 date = "2006-08-13"
 album = "わにわに天国/あいびき"
@@ -168,7 +221,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bb1f88bb-b051-432d-bd83-343ef4f40c23"]
 
-[11]
+[15]
 catalognumber = ""
 date = "2006-12-31"
 album = "たちつてとろ美ちゃん Ver1,2"
@@ -180,7 +233,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/355"]
 
-[12]
+[16]
 catalognumber = ""
 date = "2006-12-31"
 album = "みゅ〜とろん"
@@ -196,7 +249,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/547"]
 
-[13]
+[17]
 catalognumber = "OMAHO-DA"
 date = "2007-02-23"
 album = "おいしい魔法のとなえかた。 初回特典"
@@ -212,7 +265,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/099992dd-0e7e-44e7-816b-17bf7baca8b8", "https://vgmdb.net/album/24754"]
 
-[14]
+[18]
 catalognumber = "TRMSY-0006"
 date = "2007-04-29"
 album = "Toropixel"
@@ -228,7 +281,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7e4c31c9-dbf7-4bf5-870c-7927580708e8", "https://www.dojin-music.info/cd/356"]
 
-[15]
+[19]
 catalognumber = "SACD-5018"
 date = "2007-05-20"
 album = "らぶれす-Loveressive-"
@@ -247,7 +300,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/969fb15f-6a4d-4f6f-b17c-e896d99e8ce6", "https://vgmdb.net/album/14878"]
 
-[16]
+[20]
 catalognumber = ""
 date = "2007-05-20"
 album = "らぶれす Loveressive"
@@ -265,7 +318,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/113"]
 
-[17]
+[21]
 catalognumber = "GIRL-0009~10"
 date = "2007-08-17"
 album = "I've Respect arrange vocal album: unify Arrangement, Vocal"
@@ -281,7 +334,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32930357-0938-4c8c-b1ec-f2c78245d95c", "https://vgmdb.net/album/27782"]
 
-[18]
+[22]
 catalognumber = "TRCD-0007"
 date = "2007-08-17"
 album = "T:DRIVE"
@@ -294,7 +347,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fdd0a99d-f478-4a86-a39c-58d172c0cbeb", "https://www.dojin-music.info/cd/357"]
 
-[19]
+[23]
 catalognumber = ""
 date = "2007-08-17"
 album = "unify"
@@ -318,7 +371,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/67"]
 
-[20]
+[24]
 catalognumber = "GIRL-0009~10"
 date = "2007-08-17"
 album = "I've Respect arrange vocal album: unify Arrangement, Vocal, Original Work"
@@ -334,7 +387,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/32930357-0938-4c8c-b1ec-f2c78245d95c", "https://vgmdb.net/album/27782"]
 
-[21]
+[25]
 catalognumber = "DST-401S"
 date = "2007-11-16"
 album = "れんたる彼女"
@@ -360,7 +413,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/5502"]
 
-[22]
+[26]
 catalognumber = "ALCR-106"
 date = "2007-12-29"
 album = "Alchemy SOUND Vocal Collection"
@@ -384,7 +437,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/6334"]
 
-[23]
+[27]
 catalognumber = ""
 date = "2007-12-31"
 album = "PROTOROTYPE"
@@ -398,7 +451,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/358"]
 
-[24]
+[28]
 catalognumber = ""
 date = "2008-05-11"
 album = "とろ☆ウマ"
@@ -411,7 +464,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/881"]
 
-[25]
+[29]
 catalognumber = ""
 date = "2008-08-16"
 album = "にじのおと"
@@ -429,7 +482,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/1167"]
 
-[26]
+[30]
 catalognumber = ""
 date = "2008-08-16"
 album = "Five entrances -ファイブ/エントランセス-"
@@ -442,7 +495,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/1178"]
 
-[27]
+[31]
 catalognumber = "TRCD-0009"
 date = "2008-08-16"
 album = "トロヅクシ"
@@ -459,7 +512,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2b9ccc47-f37e-4170-a18a-419e96a0515b", "https://www.dojin-music.info/cd/1203"]
 
-[28]
+[32]
 catalognumber = ""
 date = "2008-12-07"
 album = "KONTON HEROES compiration vol.1"
@@ -474,7 +527,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/22935"]
 
-[29]
+[33]
 catalognumber = "TRCD-0010"
 date = "2008-12-28"
 album = "ETOLOGY"
@@ -488,7 +541,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3fa5f95d-86b8-47b0-ad8b-6d094266f61a", "https://www.dojin-music.info/cd/1712"]
 
-[30]
+[34]
 catalognumber = "SNGLY-001"
 date = "2008-12-29"
 album = "Xing Songs -カップリング・ソングズ-"
@@ -502,7 +555,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/27572", "https://www.dojin-music.info/cd/16259"]
 
-[31]
+[35]
 catalognumber = ""
 date = "2009"
 album = "ぷねうまレコードの国防軍の歌を歌おうＣＤ改"
@@ -518,7 +571,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1238ff72-5dd2-469d-9b7b-126c8cf533cc", "https://www.dojin-music.info/cd/2675"]
 
-[32]
+[36]
 catalognumber = ""
 date = "2009-04-12"
 album = "KONTON 入学式 compiration vol.2"
@@ -535,7 +588,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/22934"]
 
-[33]
+[37]
 catalognumber = ""
 date = "2009-04-26"
 album = "小鳩ヶ丘高校女子ぐろ～部 オリジナルサウンドトラック On Fight!"
@@ -593,7 +646,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/20907"]
 
-[34]
+[38]
 catalognumber = "FBCD-015"
 date = "2009-04-26"
 album = "On Fight! 小鳩ヶ丘高校女子ぐろ〜部 オリジナルサウンドトラック Original Soundtrack"
@@ -635,7 +688,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a69388bd-11e9-4130-a468-bb6e5e05a815", "https://vgmdb.net/album/28098"]
 
-[35]
+[39]
 catalognumber = "FBCD-015"
 date = "2009-04-26"
 album = "On Fight! 小鳩ヶ丘高校女子ぐろ〜部 オリジナルサウンドトラック Original Soundtrack, Arrangement, Vocal"
@@ -659,7 +712,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a69388bd-11e9-4130-a468-bb6e5e05a815", "https://vgmdb.net/album/28098"]
 
-[36]
+[40]
 catalognumber = "N/A"
 date = "2009-05-29"
 album = "めろめろキュートとか Memorial Song Collection 2006-2009"
@@ -680,7 +733,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e528971e-5a4a-4e46-aba3-e6c47c9fe215", "https://vgmdb.net/album/14046"]
 
-[37]
+[41]
 catalognumber = "TRCD-0011"
 date = "2009-08-15"
 album = "SECRETORO×MEROCONCERT"
@@ -699,7 +752,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bb63e8f6-1596-45f7-b9eb-d232721eb89d"]
 
-[38]
+[42]
 catalognumber = "TRCD-0013"
 date = "2009-12-30"
 album = "たちつてとろ美ちゃん Ver1.7+"
@@ -714,14 +767,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cf7c5ef4-4220-4e62-aaa5-c5e7c3f1d17a"]
 
-[39]
+[43]
 catalognumber = "CDRIVE-002S"
 date = "2010-02-26"
 album = "催眠生活～校則だから仕方ない!?～ 予約特典 ボーカル&サントラCD"
 tracks = []
 links = ["https://vgmdb.net/album/19266"]
 
-[40]
+[44]
 catalognumber = ""
 date = "2010-03-13"
 album = "センセイ布告"
@@ -734,7 +787,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/8469"]
 
-[41]
+[45]
 catalognumber = ""
 date = "2010-05-05"
 album = "ましん・ぽっぷVol:2- We Are Pneuma -"
@@ -748,7 +801,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/2676"]
 
-[42]
+[46]
 catalognumber = "RHR-0001"
 date = "2010-08-13"
 album = "寺ズッキュン! 愛の了法寺!"
@@ -762,7 +815,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c1b57ccb-590d-4c07-875c-019521eafac7", "https://vgmdb.net/album/149652", "https://www.dojin-music.info/cd/22928"]
 
-[43]
+[47]
 catalognumber = "IO-0184"
 date = "2010-12-30"
 album = "東方云符不普"
@@ -783,7 +836,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/77837827-db7f-4d95-b8fa-2d51f468b7b1", "https://vgmdb.net/album/22641"]
 
-[44]
+[48]
 catalognumber = ""
 date = "2010-12-30"
 album = "東方云符不普"
@@ -803,7 +856,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12976"]
 
-[45]
+[49]
 catalognumber = "TRCD-0015"
 date = "2010-12-31"
 album = "とろみ仕立て"
@@ -818,7 +871,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a7250262-d259-4ec9-9c67-593f216709eb", "https://www.dojin-music.info/cd/8467"]
 
-[46]
+[50]
 catalognumber = "IO-0186"
 date = "2011-03-13"
 album = "東方メレンゲ少女夜行"
@@ -840,7 +893,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/467a73de-8673-438d-88e5-02256799043e", "https://vgmdb.net/album/24208", "https://www.dojin-music.info/cd/12974"]
 
-[47]
+[51]
 catalognumber = "TRCD-0016"
 date = "2011-05-01"
 album = "ちゅらら♥にらいかない"
@@ -852,7 +905,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7cec35d8-d04f-4516-8f5e-ccdc4d10b9ea"]
 
-[48]
+[52]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 4 [KDSD-00469]"
@@ -870,7 +923,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[49]
+[53]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 1 [KDSD-00466]"
@@ -888,7 +941,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[50]
+[54]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 3 [KDSD-00468]"
@@ -906,7 +959,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[51]
+[55]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 5 [KDSD-00470]"
@@ -924,7 +977,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[52]
+[56]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 2 [KDSD-00467]"
@@ -942,7 +995,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[53]
+[57]
 catalognumber = "KDSD-00466~71"
 date = "2011-06-29"
 album = "doll ～歌姫 Complete Box Disc 6 [KDSD-00471]"
@@ -960,7 +1013,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39867"]
 
-[54]
+[58]
 catalognumber = "IO-0183"
 date = "2011-07-10"
 album = "東方アゲハ DESTINY"
@@ -979,7 +1032,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ef9e185-105b-4086-be6b-356fa75d59f4", "https://vgmdb.net/album/26915", "https://www.dojin-music.info/cd/3494"]
 
-[55]
+[59]
 catalognumber = "IO-0197"
 date = "2011-08-13"
 album = "東方プレシャス流星少女"
@@ -1001,7 +1054,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5dcc843a-88ec-411f-97b1-6db07edf34f7", "https://vgmdb.net/album/27505", "https://www.dojin-music.info/cd/3698"]
 
-[56]
+[60]
 catalognumber = ""
 date = "2011-10-30"
 album = "ぴこみこ☆"
@@ -1015,7 +1068,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6213"]
 
-[57]
+[61]
 catalognumber = ""
 date = "2011-12-29"
 album = "なむ×きゅん"
@@ -1028,7 +1081,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9cfc5347-9810-422b-b86b-fc9ed403bd35", "https://www.dojin-music.info/cd/22930"]
 
-[58]
+[62]
 catalognumber = "LRGA-0005"
 date = "2011-12-31"
 album = "幻想エモーション / 幻想エアリー"
@@ -1046,7 +1099,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86568"]
 
-[59]
+[63]
 catalognumber = "TRMSY-0017"
 date = "2012-08-11"
 album = "astromyu"
@@ -1059,7 +1112,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bf69319b-e263-467c-be7a-8eb2ca0d0869", "https://www.dojin-music.info/cd/8466"]
 
-[60]
+[64]
 catalognumber = "IO-0201"
 date = "2012-11-30"
 album = "Grimoire of IOSYS - 東方BEST ALBUM vol.3 Disc 1"
@@ -1080,7 +1133,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/202bb550-1dcb-43c6-89ef-de0a68630031", "https://vgmdb.net/album/44287"]
 
-[61]
+[65]
 catalognumber = "IO-0201"
 date = "2012-11-30"
 album = "Grimoire of IOSYS - 東方BEST ALBUM vol.3 Disc 3"
@@ -1106,7 +1159,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/202bb550-1dcb-43c6-89ef-de0a68630031", "https://vgmdb.net/album/44287"]
 
-[62]
+[66]
 catalognumber = "IO-0201"
 date = "2012-11-30"
 album = "Grimoire of IOSYS - 東方BEST ALBUM vol.3 Disc 2"
@@ -1127,7 +1180,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/202bb550-1dcb-43c6-89ef-de0a68630031", "https://vgmdb.net/album/44287"]
 
-[63]
+[67]
 catalognumber = "TRCD-0018"
 date = "2013-04-29"
 album = "Animeyasan"
@@ -1141,7 +1194,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2b29bfcf-ab37-4453-9e45-f9fd19b35618", "https://www.dojin-music.info/cd/8468"]
 
-[64]
+[68]
 catalognumber = "KTHT-0019"
 date = "2013-04-29"
 album = "プチリズム六"
@@ -1159,7 +1212,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8056b0f7-dc7a-4add-89d6-b8cf0b15abad", "https://vgmdb.net/album/43997", "https://www.dojin-music.info/cd/5632"]
 
-[65]
+[69]
 catalognumber = "N/A"
 date = "2013-08-11"
 album = "キラキラスターナイトパーフェクトブック"
@@ -1189,7 +1242,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109921"]
 
-[66]
+[70]
 catalognumber = "LRGA-0007"
 date = "2013-08-12"
 album = "幻想セレクション / 幻想エアリー"
@@ -1208,7 +1261,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86570"]
 
-[67]
+[71]
 catalognumber = "KTHT-0022"
 date = "2013-12-31"
 album = "プチリズム∞"
@@ -1227,7 +1280,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b053db2e-a6d6-4a77-9bcc-e2d74e9aa2f9", "https://vgmdb.net/album/43210", "https://www.dojin-music.info/cd/5630"]
 
-[68]
+[72]
 catalognumber = "IO-0263"
 date = "2014-05-11"
 album = "はいぱぁ電波これくしょん！ -フリーダム★東方編-"
@@ -1249,7 +1302,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e30295a7-51ad-4961-af65-a219eea716fd", "https://vgmdb.net/album/45554", "https://www.dojin-music.info/cd/12217"]
 
-[69]
+[73]
 catalognumber = "TRCD-0019"
 date = "2014-08-17"
 album = "とろみのうた"
@@ -1263,7 +1316,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2ff073c6-67be-4a5d-ad89-98a2ba6d6aed", "https://www.dojin-music.info/cd/8465"]
 
-[70]
+[74]
 catalognumber = "CDRIVE-011-1~2"
 date = "2014-08-29"
 album = "C:drive.催眠シリーズ VOCAL MEMORIES Disc 2"
@@ -1286,7 +1339,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/374c5ba1-d398-4a35-8d27-f7f6aa32df80", "https://vgmdb.net/album/49166"]
 
-[71]
+[75]
 catalognumber = "CDRIVE-011-1~2"
 date = "2014-08-29"
 album = "C:drive.催眠シリーズ VOCAL MEMORIES Disc 1"
@@ -1308,7 +1361,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/374c5ba1-d398-4a35-8d27-f7f6aa32df80", "https://vgmdb.net/album/49166"]
 
-[72]
+[76]
 catalognumber = ""
 date = "2014-10-26"
 album = "艦これ やりました。"
@@ -1321,7 +1374,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/22931"]
 
-[73]
+[77]
 catalognumber = ""
 date = "2014-11-24"
 album = "げきぴょす☆パペット"
@@ -1339,7 +1392,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/13058"]
 
-[74]
+[78]
 catalognumber = "TRCD-0020"
 date = "2015-08-16"
 album = "クワとろバリュー＋"
@@ -1355,7 +1408,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ff9054e-8480-4f78-98fb-ced0aff092e5", "https://www.dojin-music.info/cd/8464"]
 
-[75]
+[79]
 catalognumber = ""
 date = "2015-12-31"
 album = "トローカ・ダートゥ"
@@ -1368,7 +1421,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/8463"]
 
-[76]
+[80]
 catalognumber = ""
 date = "2015-12-31"
 album = "ピコロニーノーツ２"
@@ -1385,7 +1438,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5624"]
 
-[77]
+[81]
 catalognumber = "IO-0201L"
 date = "2016-07-10"
 album = "Grimoire of IOSYS - 東方BEST ALBUM vol.3 - LIGHT Disc 2"
@@ -1406,7 +1459,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109509"]
 
-[78]
+[82]
 catalognumber = "IO-0201L"
 date = "2016-07-10"
 album = "Grimoire of IOSYS - 東方BEST ALBUM vol.3 - LIGHT Disc 1"
@@ -1427,7 +1480,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/109509"]
 
-[79]
+[83]
 catalognumber = "TRCD-0022"
 date = "2016-08-14"
 album = "TOROSICKS"
@@ -1441,7 +1494,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/44e87dbb-e075-4d35-9e77-6938014347b5"]
 
-[80]
+[84]
 catalognumber = ""
 date = "2016-08-14"
 album = "TOROSICKS"
@@ -1455,7 +1508,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/8462"]
 
-[81]
+[85]
 catalognumber = ""
 date = "2016-12-31"
 album = "中とろ美"
@@ -1467,7 +1520,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/8461"]
 
-[82]
+[86]
 catalognumber = ""
 date = "2016-12-31"
 album = "中とろ美"
@@ -1481,7 +1534,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba54814f-9b40-4de1-a04d-1c86b3dd0cba"]
 
-[83]
+[87]
 catalognumber = "COCX-39918"
 date = "2017-04-26"
 album = "8BIT キラキラスターナイトDX - RIKI collection -"
@@ -1520,7 +1573,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/66896"]
 
-[84]
+[88]
 catalognumber = ""
 date = "2017-08-11"
 album = "ふわとろ美"
@@ -1529,10 +1582,14 @@ tracks = [
     [2, "男尊女子～私の愛する旦那様なんちて～", "とろ美", 0],
     [3, "デット オア アライブ 黄金の林檎 争奪戦", "とろ美", 0],
     [4, "かみたま 仏たま 女神さま", "とろ美", 0],
+    [5, "イッチョウラ ラブ（off vocal）", "とろ美", 0],
+    [6, "男尊女子～私の愛する旦那様なんちて～（off vocal）", "とろ美", 0],
+    [7, "デット オア アライブ 黄金の林檎 争奪戦（off vocal）", "とろ美", 0],
+    [8, "かみたま 仏たま 女神さま（off vocal）", "とろ美", 0],
 ]
 links = ["https://www.dojin-music.info/cd/8460"]
 
-[85]
+[89]
 catalognumber = ""
 date = "2017-10-29"
 album = "寺パ！"
@@ -1547,7 +1604,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5334"]
 
-[86]
+[90]
 catalognumber = ""
 date = "2017-12-29"
 album = "かみたま"
@@ -1562,7 +1619,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/338de398-a919-4c48-bb93-91dd46324bef"]
 
-[87]
+[91]
 catalognumber = ""
 date = "2018-08-10"
 album = "Toho Maboroshi Stars"
@@ -1578,7 +1635,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7866"]
 
-[88]
+[92]
 catalognumber = ""
 date = "2018-08-10"
 album = "ねぎとろ美"
@@ -1590,7 +1647,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/41c3d90e-ca3e-403a-8f74-6fe50b160cfe"]
 
-[89]
+[93]
 catalognumber = ""
 date = "2018-12-30"
 album = "ペトロフィリア"
@@ -1602,7 +1659,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/8459"]
 
-[90]
+[94]
 catalognumber = "TRCD-0027"
 date = "2019-08-12"
 album = "とろざんまい"
@@ -1622,7 +1679,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4a0e4f01-97e5-4c76-b75e-d79c405238f1", "https://www.dojin-music.info/cd/8458"]
 
-[91]
+[95]
 catalognumber = "ele-a028"
 date = "2021-07-21"
 album = "放課後⇒エデュケーション! オリジナルサウンドトラック"
@@ -1649,7 +1706,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111033"]
 
-[92]
+[96]
 catalognumber = "GMCP-1027"
 date = "2023-11-24"
 album = "エスクード BEST VOCAL on PEACH"
@@ -1669,7 +1726,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6efc1359-7015-485e-947f-f8af0ef93890", "https://vgmdb.net/album/132996"]
 
-[93]
+[97]
 catalognumber = "CLRC-10094"
 date = "2024-12-25"
 album = "キラキラスターナイト 8BIT MUSIC POWER - RIKI Collection - Disc 4"
@@ -1695,7 +1752,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f741adfa-0eec-4149-bd86-f607804f4463", "https://vgmdb.net/album/145636"]
 
-[94]
+[98]
 catalognumber = "CLRC-10094"
 date = "2024-12-25"
 album = "キラキラスターナイト 8BIT MUSIC POWER - RIKI Collection - Disc 3"
@@ -1719,7 +1776,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f741adfa-0eec-4149-bd86-f607804f4463", "https://vgmdb.net/album/145636"]
 
-[95]
+[99]
 catalognumber = "CLRC-10094"
 date = "2024-12-25"
 album = "キラキラスターナイト 8BIT MUSIC POWER - RIKI Collection - Disc 2"
@@ -1745,7 +1802,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f741adfa-0eec-4149-bd86-f607804f4463", "https://vgmdb.net/album/145636"]
 
-[96]
+[100]
 catalognumber = "CLRC-10094"
 date = "2024-12-25"
 album = "キラキラスターナイト 8BIT MUSIC POWER - RIKI Collection - Disc 1"
@@ -1783,7 +1840,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f741adfa-0eec-4149-bd86-f607804f4463", "https://vgmdb.net/album/145636"]
 
-[97]
+[101]
 catalognumber = "RSCD-0005"
 date = "2025-10-26"
 album = "BreakStation: Rave Side"
