@@ -1,3 +1,15 @@
+[499669c5ff69c563aa03820d510ab1a8]
+catalognumber = ""
+date = ""
+album = "THE IDOLM@STER ・ MANGA Break! 1 オリジナル CD"
+tracks = [
+    [3, "キューティーハニー", "四条貴音", 0],
+    [4, "rise", "如月千早", 0],
+    [1, "ムーンライト伝説", "天海春香", 0],
+    [2, "ハッピー☆マテリアル", "我那覇響", 0],
+]
+links = ["https://www.last.fm/music/765PRO/THE+IDOLM@STER+%E3%83%BB+MANGA+Break!+1+%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB+CD"]
+
 [b45e6e32fe784943e58999e5a55a05d1]
 catalognumber = "COCX-33355"
 date = "2005-09-28"
@@ -6218,6 +6230,19 @@ tracks = [
     [5, "(no title available)", "", 1],
 ]
 links = ["https://vgmdb.net/album/92938"]
+
+[a231ae9c460d3bab033e1ea1ba6e6c02]
+catalognumber = ""
+date = "2011-08-12"
+album = "Show Time!"
+tracks = [
+    [1, "Show Time!", "沼倉愛美/原由実", 0],
+    [2, "Gravity=Reality", "沼倉愛美", 0],
+    [3, "闇色アリス", "原由実", 0],
+    [4, "Show Time! (Off Vocal Ver.)", "me to me", 0],
+    [5, "ミニドラマ「STEP by STEP」", "me to me", 0],
+]
+links = ["https://music.163.com/#/album?id=75789083"]
 
 [48bada8f454db339e286f3a1f470312c]
 catalognumber = "MCSD-1009"
@@ -39369,6 +39394,15 @@ tracks = [
     [1, "ハートボイルドウォーズ (M@STER VERSION)", "大和亜季(CV:村中知)、村上巴(CV:花井美春)、片桐早苗(CV:和氣あず未)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/75abebc6-2b5f-41ab-a2d8-e2888ac0e41d", "https://vgmdb.net/album/126072"]
+
+[d59ae5d5a472043c761e29c41cde7715]
+catalognumber = ""
+date = "2023-01-21"
+album = "CRYST@LOUD"
+tracks = [
+    [1, "CRYST@LOUD", "THE IDOLM@STER", 0],
+]
+links = ["https://music.163.com/#/album?id=158214351"]
 
 [29e6e4782c4af7310ec4d0fe009d0a3d]
 catalognumber = "LACA-15988"
