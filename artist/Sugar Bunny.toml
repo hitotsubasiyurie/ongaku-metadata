@@ -207,7 +207,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4038"]
 
-[ce3f636a005335b073e97adf0140e1d0]
+[09e751b68f5ac8263c8180d531bd6e04]
 catalognumber = ""
 date = "2018-10-28"
 album = "ぽっぴんどりーみん"
@@ -219,7 +219,7 @@ tracks = [
     [5, "ねぇ、先生", "まめこ", 0],
     [6, "めるちーゆー", "まめこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/4545", "https://beta.musicbrainz.org/release/22e851d9-a284-4707-b06b-1023a7711c36"]
+links = ["https://beta.musicbrainz.org/release/22e851d9-a284-4707-b06b-1023a7711c36", "https://www.dojin-music.info/cd/4545"]
 
 [bfce4842113489b1fe2522cca635cfd9]
 catalognumber = ""
@@ -241,6 +241,17 @@ tracks = [
     [13, "サクライロ幸福論", "まめこ", 0],
 ]
 links = ["https://www.dojin-music.info/cd/4030"]
+
+[336caa07b5e29bfb6518573e9fd7ae72]
+catalognumber = ""
+date = "2019-04-28"
+album = "OH！DO！インフェクティブ"
+tracks = [
+    [1, "この胸の花に名前をつけよう", "まめこ/風花ましろ", 0],
+    [2, "世界の楽しい救い方。", "まめこ/風花ましろ", 0],
+    [3, "女の子は強く気高く可愛くあるのが鉄則です!", "まめこ/風花ましろ", 0],
+]
+links = ["https://music.163.com/#/album?id=78989163"]
 
 [1f62c9ee4c6b518618715c60973d5c6e]
 catalognumber = ""

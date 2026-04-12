@@ -9776,6 +9776,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d219edfe-0b78-4d6d-bc32-3d4f16b7c9f0", "https://vgmdb.net/album/150136"]
 
+[a868dfc5cdd08484cc75f4d6b3b0d223]
+catalognumber = "BRMM-10925"
+date = "2025-05-28"
+album = "TVアニメ「BanG Dream! Ave Mujica」Original Soundtrack 下巻"
+tracks = [
+    [1, "仮面の告白", "藤間仁", 0],
+    [2, "歪なパレード", "藤田淳平", 0],
+    [3, "がたがた", "藤田淳平", 0],
+    [4, "壊れてる...", "藤間仁", 0],
+    [5, "幕引き", "藤間仁", 0],
+    [6, "始まりの偽り", "藤田淳平", 0],
+    [7, "星の空の下", "藤田淳平", 0],
+    [8, "隠された真実", "藤田淳平", 0],
+    [9, "逃避行", "藤田淳平", 0],
+    [10, "薄明", "藤間仁", 0],
+    [11, "八芒星ダンス -instrumental-", "Ave Mujica", 0],
+    [12, "顔 -instrumental-", "Ave Mujica", 0],
+    [13, "パラディースス", "藤間仁", 0],
+    [14, "天球のMúsica -instrumental-", "Ave Mujica", 0],
+]
+links = ["https://beta.musicbrainz.org/release/cc4fe40a-3b5b-48d1-87bb-b7a490b7e781"]
+
 [b4f2dce8896e4270b956ab42de7c5ef0]
 catalognumber = "BRMM-10935"
 date = "2025-06-11"
