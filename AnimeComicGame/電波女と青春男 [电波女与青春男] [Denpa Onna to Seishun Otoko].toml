@@ -1,4 +1,4 @@
-[929ac2d7c3ab1ae00890b2a030ebcc1e]
+[38f3e18d9b117c76272f782b819412a5]
 catalognumber = "KICM-3232"
 date = "2011-04-27"
 album = "Os-宇宙人 / エリオをかまってちゃん"
@@ -8,9 +8,9 @@ tracks = [
     [3, "Os-宇宙人 (off vocal ver.)", "エリオをかまってちゃん", 0],
     [4, "コタツから眺める世界地図 (off vocal ver.)", "エリオをかまってちゃん", 0],
 ]
-links = ["https://vgmdb.net/album/26027", "https://beta.musicbrainz.org/release/64e7fd74-85ce-4a7e-9327-c6e1441165ec"]
+links = ["https://beta.musicbrainz.org/release/64e7fd74-85ce-4a7e-9327-c6e1441165ec", "https://vgmdb.net/album/26027"]
 
-[3eb17fa715b9a6b1480b392758b6116c]
+[5b3e3027f32447d9b9fad2a4d4c9f0c4]
 catalognumber = "KICM-1340"
 date = "2011-05-25"
 album = "ルル/ときめきハッカー / やくしまるえつこ"
@@ -22,9 +22,9 @@ tracks = [
     [5, "ルル(tv-size)", "やくしまるえつこ", 0],
     [6, "ときめきハッカー(EOG only)", "やくしまるえつこ", 0],
 ]
-links = ["https://vgmdb.net/album/30236", "https://beta.musicbrainz.org/release/678b91d1-2ca2-4112-933e-388e25443ad0"]
+links = ["https://beta.musicbrainz.org/release/678b91d1-2ca2-4112-933e-388e25443ad0", "https://vgmdb.net/album/30236"]
 
-[e75cd4d5cf20ad4dcf9dd4122ed10a4b]
+[0bc22658b2243502f2b8f56d5ad6588b]
 catalognumber = "SSX-10195"
 date = "2011-06-22"
 album = "電波女と青春男・オリジナルサウンドトラック Vol.1"
@@ -50,9 +50,20 @@ tracks = [
     [19, "Splash", "Franz Maxwell I.", 0],
     [20, "Os-宇宙人 (TV-SIZE)", "エリオをかまってちゃん", 0],
 ]
-links = ["https://vgmdb.net/album/26155", "https://beta.musicbrainz.org/release/66f5a28a-0cbd-4c88-b741-7bd5e74ce15b"]
+links = ["https://beta.musicbrainz.org/release/66f5a28a-0cbd-4c88-b741-7bd5e74ce15b", "https://vgmdb.net/album/26155"]
 
-[f268c246441d98290888ba3f94ac3be8]
+[892c097b08456d198bb2a00c2e7751df]
+catalognumber = "SSX-10196"
+date = "2011-07-27"
+album = "［電波メールと青春ラジオ］DJCD vol.1"
+tracks = [
+    [1, "[第1回]ゲスト", "渕上舞", 0],
+    [2, "[第2回]ゲスト", "加藤英美里", 0],
+    [3, "[第3回]ゲスト", "野中藍", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7e1175af-122f-4534-83a5-a8d3a3d3a49f"]
+
+[54a2c02401c4cc5d36ce70f8e0381c9f]
 catalognumber = "QWCE-00194"
 date = "2011-08-03"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 13"
@@ -77,9 +88,9 @@ tracks = [
     [18, "青い栞", "Icon feat.Yusuke+yuno", 0],
     [19, "Magia", "Dizzi Mystica feat.Natsuhi+R.Cena", 0],
 ]
-links = ["https://vgmdb.net/album/29349", "https://beta.musicbrainz.org/release/212e98cc-5094-428f-8042-5fade11a7075"]
+links = ["https://beta.musicbrainz.org/release/212e98cc-5094-428f-8042-5fade11a7075", "https://vgmdb.net/album/29349"]
 
-[2159eb784c2cffe4ae12532fcca757a3]
+[932feaa2f548c1bf299d318b4504e023]
 catalognumber = "SSX-10197"
 date = "2011-08-24"
 album = "電波女と青春男 キャラクターソングアルバムvol.1"
@@ -88,9 +99,9 @@ tracks = [
     [2, "昼休みとヘルメットと同級生", "御船流子(CV:加藤英美里)", 0],
     [3, "キボネング・デコの名で", "前川さん(CV:渕上舞)", 0],
 ]
-links = ["https://vgmdb.net/album/26157", "https://beta.musicbrainz.org/release/9d08e581-6ace-49c4-94c8-30331fd9cfac"]
+links = ["https://beta.musicbrainz.org/release/9d08e581-6ace-49c4-94c8-30331fd9cfac", "https://vgmdb.net/album/26157"]
 
-[d0703c53370254d61cb8449fbf8c2bec]
+[4b3d320731c5042b8ddb0d2d5f7d2f64]
 catalognumber = "SSX-10198"
 date = "2011-10-26"
 album = "電波女と青春男 オリジナルサウンドトラックvol.2"
@@ -119,9 +130,20 @@ tracks = [
     [22, "わたあめ・ゆかた・やきそば", "Franz Maxwell I.", 0],
     [23, "Happy Day", "Franz Maxwell I.", 0],
 ]
-links = ["https://vgmdb.net/album/26156", "https://beta.musicbrainz.org/release/9bc87f3f-ebd5-4a17-a73f-048b105545da"]
+links = ["https://beta.musicbrainz.org/release/9bc87f3f-ebd5-4a17-a73f-048b105545da", "https://vgmdb.net/album/26156"]
 
-[c29f62bc84db1c31c8fd3ba81bc19559]
+[56c1b47b6fb6ecec23e858cc868de5f5]
+catalognumber = "SSX-10199"
+date = "2011-11-23"
+album = "［電波メールと青春ラジオ］DJCD vol.2"
+tracks = [
+    [1, "[第4回]ゲスト", "加藤英美里 & 渕上舞", 0],
+    [2, "[第5回]ゲスト", "井口裕香", 0],
+    [3, "[第6回]ゲスト", "入野自由", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2df02988-09e7-423b-95c0-78150744f26c"]
+
+[11da3ffe1749fd4620f42c5b933cc0a5]
 catalognumber = "SSX-10200"
 date = "2011-12-21"
 album = "電波女と青春男 キャラクターソングアルバムvol.2"
@@ -130,9 +152,9 @@ tracks = [
     [2, "ツヨクネガエ ツヨクハナテ", "星宮社(CV:井口裕香)", 0],
     [3, "にわ君、すなわち転校生、あるいはイトコ", "藤和エリオ、前川さん、御船流子(CV:大亀あすか、加藤英美里、渕上舞)", 0],
 ]
-links = ["https://vgmdb.net/album/26158", "https://beta.musicbrainz.org/release/62e00aec-932d-4123-a836-b92c7c7c2a09"]
+links = ["https://beta.musicbrainz.org/release/62e00aec-932d-4123-a836-b92c7c7c2a09", "https://vgmdb.net/album/26158"]
 
-[fd75b7214a6712c407bdb4a3723889ae]
+[6c6b65de8fa49df9ea409891457e062b]
 catalognumber = "COCX-38253"
 date = "2013-10-09"
 album = "THE IDOLM@STER CINDERELLA MASTER Cute jewelries! 001"
@@ -148,7 +170,7 @@ tracks = [
     [9, "アタシポンコツアンドロイド (オリジナル・カラオケ)", "双葉 杏(CV:五十嵐裕美)、前川みく(CV:高森奈津美)、島村卯月(CV:大橋彩香)、小日向美穂(CV:津田美波)、安部菜々(CV:三宅麻理恵)", 0],
     [10, "ススメ☆オトメ 〜jewel parade〜 (オリジナル・カラオケ)", "双葉 杏(CV:五十嵐裕美)、前川みく(CV:高森奈津美)、島村卯月(CV:大橋彩香)、小日向美穂(CV:津田美波)、安部菜々(CV:三宅麻理恵)", 0],
 ]
-links = ["https://vgmdb.net/album/40103", "https://beta.musicbrainz.org/release/3f485829-c846-4718-b2e4-98ae23c5c57d"]
+links = ["https://beta.musicbrainz.org/release/3f485829-c846-4718-b2e4-98ae23c5c57d", "https://vgmdb.net/album/40103"]
 
 [767d5ecbb27d4a9a0d08a3744b1a0c18]
 catalognumber = "MAGICUS-55"
@@ -286,7 +308,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150817"]
 
-[cfbc5fe11349d6fc6c27d61de46b6dc0]
+[4ad816326418cd93e293c639dd0eb431]
 catalognumber = "SNCL-66"
 date = "2022-05-25"
 album = "まだ雨はやまない / しぐれうい"
@@ -309,4 +331,4 @@ tracks = [
     [16, "rainy lady (Instrumental)", "しぐれうい", 0],
     [17, "Pris-Magic! (Instrumental)", "しぐれうい", 0],
 ]
-links = ["https://vgmdb.net/album/119497", "https://beta.musicbrainz.org/release/09cabdc8-a3c0-4ed4-b78e-fa493e5c614e"]
+links = ["https://beta.musicbrainz.org/release/09cabdc8-a3c0-4ed4-b78e-fa493e5c614e", "https://vgmdb.net/album/119497"]

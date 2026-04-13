@@ -10,7 +10,31 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/50013"]
 
-[3748bcb8f4a59b2325c14cd68bf5cf72]
+[d7185f2378dba95abcd8b92411c24ce8]
+catalognumber = ""
+date = "2014-12-30"
+album = "ネコぱら vol.1 OP / ED"
+tracks = [
+    [1, "タイヨウパラダイス", "nao", 0],
+    [2, "ねこまんま日和", "霜月はるか", 0],
+    [3, "タイヨウパラダイス (inst.ver)", "nao", 0],
+    [4, "ねこまんま日和 (inst.ver)", "霜月はるか", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d8963459-4570-4126-a7f8-3a7cf317cd79"]
+
+[919792f07a287d1181c0155187b7ef54]
+catalognumber = ""
+date = "2016-02-20"
+album = "ネコぱら vol.2 OP / ED"
+tracks = [
+    [1, "ドキドキ☆ココロ☆フレーバー", "榊原ゆい", 0],
+    [2, "100にゃんパワーで夢心地", "榊原ゆい", 0],
+    [3, "ドキドキ☆ココロ☆フレーバー (Instrumental)", "榊原ゆい", 0],
+    [4, "100にゃんパワーで夢心地 (Instrumental)", "榊原ゆい", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b397f3b3-ca3f-43e2-9190-fee5e8a27ede"]
+
+[4f3c26fd8a1381f56f23f1ec008d7c84]
 catalognumber = "N/A"
 date = "2016-03-30"
 album = "GilvaSunner's Highest Quality Video Game Rips: Volume 1"
@@ -261,9 +285,67 @@ tracks = [
     [244, "Wisp Halation", "Triple‐Q", 0],
     [245, "The GiIvaSunner Staff Roll", "MtH", 0],
 ]
-links = ["https://vgmdb.net/album/57954", "https://beta.musicbrainz.org/release/5dbca4ff-f247-4592-8f1e-06602ec8e8e3"]
+links = ["https://beta.musicbrainz.org/release/5dbca4ff-f247-4592-8f1e-06602ec8e8e3", "https://vgmdb.net/album/57954"]
 
-[582f092e78ae4fb8ab1c1964d1b84511]
+[2b8b1dd06e94158d8b99fd3f2b306c60]
+catalognumber = ""
+date = "2017-05-26"
+album = "ネコぱらvol.3 OP / ED"
+tracks = [
+    [1, "ネコイチ", "Duca", 0],
+    [2, "Growing", "Duca", 0],
+    [3, "ネコイチ (Instrumental)", "Duca", 0],
+    [4, "Growing (Instrumental)", "Duca", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b108b6d6-f27e-4a24-b14b-314486c08d88"]
+
+[0ee2218ff2d75ce66f3d36b316150089]
+catalognumber = ""
+date = "2018-01-08"
+album = "NEKOPARA OVA ORIGINAL SOUNDTRACK"
+tracks = [
+    [1, "Baby→Lady LOVE", "Ray", 0],
+    [2, "▲MEW▲△MEW△CAKE", "KOTOKO", 0],
+    [3, "CatWalk", "前田雄吾", 0],
+    [4, "Nya soleil", "前田雄吾", 0],
+    [5, "Samba De nyannyan", "前田雄吾", 0],
+    [6, "Neko will be...", "前田雄吾", 0],
+    [7, "Neko Maturi", "前田雄吾", 0],
+    [8, "Lovely kitten", "前田雄吾", 0],
+    [9, "Itazura koneko", "前田雄吾", 0],
+    [10, "Neko to sanpo", "前田雄吾", 0],
+    [11, "Screw Up", "前田雄吾", 0],
+    [12, "Amazed Cat", "前田雄吾", 0],
+    [13, "Cat Chase", "前田雄吾", 0],
+    [14, "Strategy meeting", "前田雄吾", 0],
+    [15, "Stealthy step", "前田雄吾", 0],
+    [16, "Tragedy of a cat", "前田雄吾", 0],
+    [17, "Nyannyan paradise", "前田雄吾", 0],
+    [18, "Baby→Lady LOVE (Epilogue)", "前田雄吾", 0],
+    [19, "Tasogare nyanko", "前田雄吾", 0],
+    [20, "Aibyou", "前田雄吾", 0],
+    [21, "Grief", "前田雄吾", 0],
+    [22, "Baby→Lady LOVE (MusicBox)", "前田雄吾", 0],
+    [23, "Unlucky feeling", "前田雄吾", 0],
+    [24, "Impatience", "前田雄吾", 0],
+    [25, "Baby→Lady LOVE (inst.)", "前田雄吾", 0],
+    [26, "▲MEW▲△MEW△CAKE (inst.)", "sky_delta", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2b526cf3-6be0-408a-8640-fb2df551e49d"]
+
+[e32933af3f687629e8c1858e9874f528]
+catalognumber = "GNCA-0534"
+date = "2018-10-24"
+album = "Symphony"
+tracks = [
+    [1, "Symphony", "Luce Twinkle Wink☆", 0],
+    [2, "Strawberry♥feels", "Luce Twinkle Wink☆", 0],
+    [3, "Symphony (instrumental)", "Luce Twinkle Wink☆", 0],
+    [4, "Strawberry♥feels (instrumental)", "Luce Twinkle Wink☆", 0],
+]
+links = ["https://beta.musicbrainz.org/release/c6f2126d-778f-46f0-8ab1-edb67d30ec8d"]
+
+[e36530d251c0353d1f91a31c3a58a94b]
 catalognumber = "EYCA-12806"
 date = "2020-02-19"
 album = "Shiny Happy Days / ショコラ (CV: 八木侑紀)、バニラ (CV: 佐伯伊織)、アズキ (CV: 井澤詩織)、メイプル (CV: 伊藤美来)、シナモン (CV: のぐちゆり)、ココナツ (CV: 水谷麻鈴)"
@@ -272,9 +354,9 @@ tracks = [
     [2, "Shiny Happy Days (Instrumental)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
     [3, "ショートドラマ「はじめてのレコーディング」", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
 ]
-links = ["https://vgmdb.net/album/93967", "https://beta.musicbrainz.org/release/cdf4ca28-7bbb-40b4-abfe-c4f7d548665c"]
+links = ["https://beta.musicbrainz.org/release/cdf4ca28-7bbb-40b4-abfe-c4f7d548665c", "https://vgmdb.net/album/93967"]
 
-[a1e92eb3d43b8a9b65f28f19541eef69]
+[0a8029f4b2e25006979f0c8e82505ae7]
 catalognumber = "EYCA-12807"
 date = "2020-02-19"
 album = "陽だまりの香り / ショコラ (CV: 八木侑紀)、バニラ (CV: 佐伯伊織)"
@@ -284,9 +366,9 @@ tracks = [
     [3, "ショートドラマ「ショコラのおやすみトーク」", "[dialogue]", 0],
     [4, "ショートドラマ「バニラのおやすみトーク」", "[dialogue]", 0],
 ]
-links = ["https://vgmdb.net/album/93968", "https://beta.musicbrainz.org/release/e95f892e-563c-4a7c-8b78-4136b2ed870a"]
+links = ["https://beta.musicbrainz.org/release/e95f892e-563c-4a7c-8b78-4136b2ed870a", "https://vgmdb.net/album/93968"]
 
-[a6fabfbd65958f15e50a0d17b68dbdd6]
+[26ce183b0f9cdef1a87172a34346adba]
 catalognumber = "EYCA-12808"
 date = "2020-03-18"
 album = "TVアニメ「ネコぱら」サウンドコレクションアルバム"
@@ -328,9 +410,21 @@ tracks = [
     [35, "Shiny Happy Days (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
     [36, "陽だまりの香り (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 0],
 ]
-links = ["https://vgmdb.net/album/95181", "https://beta.musicbrainz.org/release/34bfcef6-14e8-4ada-95e5-5d8df3ccdeb2"]
+links = ["https://beta.musicbrainz.org/release/34bfcef6-14e8-4ada-95e5-5d8df3ccdeb2", "https://vgmdb.net/album/95181"]
 
-[0d5a553c31ecc451910238483f94027d]
+[52c0c67016a5e6660cb6757722eee200]
+catalognumber = ""
+date = "2020-11-27"
+album = "ネコぱら vol.4 OP / ED"
+tracks = [
+    [1, "SWEET×SWEET", "KOTOKO", 0],
+    [2, "NEGAIGOTO", "KOTOKO", 0],
+    [3, "SWEET×SWEET (Instrumental)", "KOTOKO", 0],
+    [4, "NEGAIGOTO (Instrumental)", "KOTOKO", 0],
+]
+links = ["https://beta.musicbrainz.org/release/496608e4-fb78-4d3a-a48a-968bd7252079"]
+
+[6b67899957f48089bbfc8483dc333b24]
 catalognumber = "KDGG-0587"
 date = "2020-12-15"
 album = "おとのはレター ～Hare no Oto～ / 霜月はるか"
@@ -350,9 +444,9 @@ tracks = [
     [13, "Sentimental Snow", "霜月はるか", 0],
     [14, "おとのはレター", "霜月はるか", 0],
 ]
-links = ["https://vgmdb.net/album/107393", "https://beta.musicbrainz.org/release/fb2ea4c6-aa33-446a-ba3d-7bac95ee5c43"]
+links = ["https://beta.musicbrainz.org/release/fb2ea4c6-aa33-446a-ba3d-7bac95ee5c43", "https://vgmdb.net/album/107393"]
 
-[a323bbeee97836b6b899926684c3c3bb]
+[9f88d5a519a00aab75414f1176c8496e]
 catalognumber = "KDGG-0589"
 date = "2020-12-15"
 album = "おとのはレター COMPLETE SET / 霜月はるか Disc 1"
@@ -372,9 +466,9 @@ tracks = [
     [13, "Sentimental Snow", "霜月はるか", 0],
     [14, "おとのはレター", "霜月はるか", 0],
 ]
-links = ["https://vgmdb.net/album/107395", "https://beta.musicbrainz.org/release/3cd89d88-0325-4770-8d4c-606f98714b5a"]
+links = ["https://beta.musicbrainz.org/release/3cd89d88-0325-4770-8d4c-606f98714b5a", "https://vgmdb.net/album/107395"]
 
-[96b6ebedccf7d04ada8644e0b5b32d3b]
+[21837eee5770badb448a5aad791abef4]
 catalognumber = "KDGG-0589"
 date = "2020-12-15"
 album = "おとのはレター COMPLETE SET / 霜月はるか Disc 2"
@@ -395,9 +489,9 @@ tracks = [
     [14, "ゆびきり", "霜月はるか", 0],
     [15, "ブレイクノート", "霜月はるか", 0],
 ]
-links = ["https://vgmdb.net/album/107395", "https://beta.musicbrainz.org/release/3cd89d88-0325-4770-8d4c-606f98714b5a"]
+links = ["https://beta.musicbrainz.org/release/3cd89d88-0325-4770-8d4c-606f98714b5a", "https://vgmdb.net/album/107395"]
 
-[da9e5ebabb2d3312b9c9c1405f2c3911]
+[f46e109c7d9c83fdc8b00beda144bca0]
 catalognumber = "ANTCD-A0000016946"
 date = "2025-06-13"
 album = "side by side / Aiobahn +81 feat. FUWAMOCO"
@@ -406,9 +500,9 @@ tracks = [
     [2, "side by side (Video Edit)", "Aiobahn +81 feat. FUWAMOCO", 0],
     [3, "side by side (Instrumental)", "Aiobahn +81 feat. FUWAMOCO", 0],
 ]
-links = ["https://vgmdb.net/album/150421", "https://beta.musicbrainz.org/release/4600ad71-3084-483e-ac71-99acea79edc7"]
+links = ["https://beta.musicbrainz.org/release/4600ad71-3084-483e-ac71-99acea79edc7", "https://vgmdb.net/album/150421"]
 
-[daa42df90057d2ab722c1bc44006a8f7]
+[b39bc5fda56a098d38e17f55ea78c6c2]
 catalognumber = "N/A"
 date = "2025-08"
 album = "コントレイル/side by side"
@@ -418,9 +512,9 @@ tracks = [
     [3, "コントレイル (inst ver.)", "Ceui", 0],
     [4, "side by side (inst ver.)", "Aiobahn +81 feat. FUWAMOCO", 0],
 ]
-links = ["https://vgmdb.net/album/150295", "https://beta.musicbrainz.org/release/3049b794-038b-4594-992a-dc6da1c165d5"]
+links = ["https://beta.musicbrainz.org/release/3049b794-038b-4594-992a-dc6da1c165d5", "https://vgmdb.net/album/150295"]
 
-[ffd161e063b25aa65814d078b614349f]
+[975153e9dd3fa9170a0afa996179c8db]
 catalognumber = "AVCD-63845"
 date = "2026-02-11"
 album = "eau de parfum ~extended play~ / Aiobahn +81"
@@ -433,4 +527,4 @@ tracks = [
     [6, "太陽の楽園 ～Promised Land～", "Aiobahn +81 & 名取さな", 0],
     [7, "side by side", "Aiobahn +81 feat. FUWAMOCO", 0],
 ]
-links = ["https://vgmdb.net/album/155464", "https://beta.musicbrainz.org/release/0b2e67d4-e5fb-4a9f-9f24-b2b7b0be0c50"]
+links = ["https://beta.musicbrainz.org/release/0b2e67d4-e5fb-4a9f-9f24-b2b7b0be0c50", "https://vgmdb.net/album/155464"]
