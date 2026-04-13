@@ -1,4 +1,44 @@
-[d702ae1d96a2ec91b03c632176a31a07]
+[832342dccbcd61252eb6d43cf8fe2c68]
+catalognumber = ""
+date = ""
+album = "ARIA Drama CD I"
+tracks = [
+    [1, "Navigation 01 ネオ・ヴェネツィア", "ARIAカンパニー", 0],
+    [2, "Navigation 02 ヴォガ・ロンガ", "ARIAカンパニー", 0],
+    [3, "Navigation 03 星の謳声", "ARIAカンパニー", 0],
+    [4, "Navigation 04 アウグーリオ・ボナーノ", "ARIAカンパニー", 0],
+    [5, "Special Navigation 不思議の国のアリア", "ARIAカンパニー", 0],
+    [6, "— 座談会", "ARIAカンパニー", 0],
+]
+links = ["https://www.last.fm/music/ARIA%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC/ARIA+Drama+CD+I"]
+
+[2242d609d5b671f87ba72f45875c72a8]
+catalognumber = ""
+date = ""
+album = "ARIA Drama CD II"
+tracks = [
+    [1, "Navigation 01 春一番", "ARIAカンパニー", 0],
+    [2, "Navigation 02 街の宝物", "ARIAカンパニー", 0],
+    [3, "Navigation 03 水の3大妖精", "ARIAカンパニー", 0],
+    [4, "Navigation 04 ボッコロの日", "ARIAカンパニー", 0],
+    [5, "Special Navigation ネオ·ヴェネツィアの海賊たち", "ARIAカンパニー", 0],
+]
+links = ["https://www.last.fm/music/ARIA%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC/ARIA+Drama+CD+II"]
+
+[10159116c5ff92c45ca68967faae01ac]
+catalognumber = "FCCC-0038"
+date = "2005-09-22"
+album = "AQUA Dorama CD I"
+tracks = [
+    [1, "Navigation 01 - 水の惑星", "[dialogue]", 0],
+    [2, "Navigation 02 - 水先案内人", "[dialogue]", 0],
+    [3, "Navigation 03 - 水没の街", "[dialogue]", 0],
+    [4, "Navigation 04 - 希望の丘", "[dialogue]", 0],
+    [5, "Special Navigation - 魔法少女アカリ&アイカ しあわせってなあに?", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5d3e9053-56ae-423b-b636-d5026af39826"]
+
+[87ff7098919e5afb63b68137e9fc197c]
 catalognumber = "VICL-35898"
 date = "2005-10-21"
 album = "ウンディーネ / 牧野由依"
@@ -8,9 +48,9 @@ tracks = [
     [3, "ウンディーネ (Instrumental)", "牧野由依", 0],
     [4, "シンフォニー (Instrumental)", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/25320", "https://beta.musicbrainz.org/release/a0a82f4c-e255-486f-87d8-e42a8f471f4d"]
+links = ["https://beta.musicbrainz.org/release/a0a82f4c-e255-486f-87d8-e42a8f471f4d", "https://vgmdb.net/album/25320"]
 
-[f7f5168d4e209d95747b3d9aa3b824b0]
+[9859c073ef2f9e1d6131ef80d3a776f7]
 catalognumber = "VICL-35899"
 date = "2005-10-21"
 album = "rainbow / ROUND TABLE featuring Nino"
@@ -20,9 +60,9 @@ tracks = [
     [3, "rainbow (instrumental)", "ROUND TABLE featuring Nino", 0],
     [4, "just for you (instrumental)", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/25323", "https://beta.musicbrainz.org/release/3c150e2f-605b-4235-b6e8-cc32b2eb640c"]
+links = ["https://beta.musicbrainz.org/release/3c150e2f-605b-4235-b6e8-cc32b2eb640c", "https://vgmdb.net/album/25323"]
 
-[80b77bf3b824e3d2ebf729d51fd26ed3]
+[4c4aa6556118ccca8500bef625ee4d80]
 catalognumber = "VICL-61795"
 date = "2005-11-23"
 album = "ARIA The ANIMATION ORIGINAL SOUNDTRACK"
@@ -53,9 +93,9 @@ tracks = [
     [24, "そして舟は行く", "Choro Club", 0],
     [25, "Rainbow -acoustic ver.-", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/23380", "https://beta.musicbrainz.org/release/104ca75a-80ac-41fd-b138-92175d2fc031"]
+links = ["https://beta.musicbrainz.org/release/104ca75a-80ac-41fd-b138-92175d2fc031", "https://vgmdb.net/album/23380"]
 
-[9e9309a815357c4d78163e667d93bda9]
+[6504c3bf81aa3344020cc9ef89a24f98]
 catalognumber = "FCCM-0089"
 date = "2005-11-25"
 album = "ARIA The ANIMATION Drama CD I BLUE"
@@ -66,9 +106,9 @@ tracks = [
     [4, "Navigation 04: ビデオチャットパーティー 〜星のコンチェルト〜", "脚本: 吉田玲子", 0],
     [5, "テーマトーク・キャストクレジット", "おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36304", "https://beta.musicbrainz.org/release/a9b1fdbd-0773-403a-af47-f62419b59aad"]
+links = ["https://beta.musicbrainz.org/release/a9b1fdbd-0773-403a-af47-f62419b59aad", "https://vgmdb.net/album/36304"]
 
-[db58a67a2d2f853daa965715b2747656]
+[54e4e863d196a5c6c6e31d752ec334da]
 catalognumber = "FCCM-0090"
 date = "2005-12-22"
 album = "ARIA The ANIMATION Drama CD II RED"
@@ -79,9 +119,9 @@ tracks = [
     [4, "Navigation 04: ビデオチャットパーティー 〜死霊の惑星〜", "脚本: 吉田玲子", 0],
     [5, "テーマトーク・キャストクレジット", "おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36305", "https://beta.musicbrainz.org/release/edf596d8-674c-4b34-9be5-300a2f12a79a"]
+links = ["https://beta.musicbrainz.org/release/edf596d8-674c-4b34-9be5-300a2f12a79a", "https://vgmdb.net/album/36305"]
 
-[9b1efa6d159f7a65dbd760fa90624026]
+[4984b561ac81ccfcc8b7b8d979e49a2c]
 catalognumber = "FCCM-0091"
 date = "2006-01-25"
 album = "ARIA The ANIMATION Drama CD III ORANGE"
@@ -92,9 +132,9 @@ tracks = [
     [4, "Navigation 04: ビデオチャットパーティー 〜プリマをねらえ!〜", "葉月絵理乃, 斎藤千和, 広橋涼, 大原さやか, 皆川純子, 川上とも子, 水橋かおり, 西村ちなみ", 0],
     [5, "テーマトーク・キャストクレジット", "葉月絵理乃, 斎藤千和, 広橋涼, 大原さやか, 皆川純子, 川上とも子, 水橋かおり, 西村ちなみ", 0],
 ]
-links = ["https://vgmdb.net/album/36306", "https://beta.musicbrainz.org/release/45623334-20d9-4f56-9437-f1803d4d3884"]
+links = ["https://beta.musicbrainz.org/release/45623334-20d9-4f56-9437-f1803d4d3884", "https://vgmdb.net/album/36306"]
 
-[80a3e3fb6ee8f410604ed5844b94b58b]
+[773950a05c6b300c21123c20ce6496f2]
 catalognumber = "N/A"
 date = "2006-03-29"
 album = "ARIA The ANIMATION PERFECT GUIDEBOOK SPECIAL APPENDIX DRAMA CD"
@@ -102,9 +142,9 @@ tracks = [
     [1, "Special Navigation 01: 『水先案内人1日体験!』", "脚本: 藤咲あゆな", 0],
     [2, "Special Navigation 02: 『その 妖精になる前の・・・』", "脚本: 吉田玲子", 0],
 ]
-links = ["https://vgmdb.net/album/36312", "https://beta.musicbrainz.org/release/35b42f3d-7bd1-4f93-8dc0-5184dcee8134"]
+links = ["https://beta.musicbrainz.org/release/35b42f3d-7bd1-4f93-8dc0-5184dcee8134", "https://vgmdb.net/album/36312"]
 
-[79867320f44ea1dacfdf3208a8ae67a9]
+[faed53c555ee4141d8de27d0e1bdb78c]
 catalognumber = "VICL-35987"
 date = "2006-04-26"
 album = "夏待ち / ROUND TABLE featuring Nino"
@@ -114,9 +154,9 @@ tracks = [
     [3, "夏待ち (instrumental)", "ROUND TABLE featuring Nino", 0],
     [4, "潮騒 (instrumental)", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/25385", "https://beta.musicbrainz.org/release/c166161f-69c0-4c9b-8651-da554e273e73"]
+links = ["https://beta.musicbrainz.org/release/c166161f-69c0-4c9b-8651-da554e273e73", "https://vgmdb.net/album/25385"]
 
-[655904e34b8db7714305ed89482589f2]
+[37234f5529d75e061a0a3e9b94428e4d]
 catalognumber = "VICL-35986"
 date = "2006-04-26"
 album = "ユーフォリア / 牧野由依"
@@ -126,9 +166,9 @@ tracks = [
     [3, "ユーフォリア –Instrumental–", "牧野由依", 0],
     [4, "雨降花 –Instrumental–", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/25392", "https://beta.musicbrainz.org/release/3996b961-58d2-4213-a5e5-d3e4cfe7efd3"]
+links = ["https://beta.musicbrainz.org/release/3996b961-58d2-4213-a5e5-d3e4cfe7efd3", "https://vgmdb.net/album/25392"]
 
-[e0edac8ee8a5bd82bd1b0d55756a6b0d]
+[011f73225900f66eef4045896d252918]
 catalognumber = "VICL-61935"
 date = "2006-05-24"
 album = "ARIA The NATURAL ORIGINAL SOUNDTRACK due"
@@ -159,9 +199,9 @@ tracks = [
     [24, "夏待ち -TVサイズ-", "ROUND TABLE featuring Nino", 0],
     [25, "AQUA -guitar solo-", "Choro Club feat. Senoo", 0],
 ]
-links = ["https://vgmdb.net/album/23711", "https://beta.musicbrainz.org/release/adf114fe-b625-473c-a765-935fd880d977"]
+links = ["https://beta.musicbrainz.org/release/adf114fe-b625-473c-a765-935fd880d977", "https://vgmdb.net/album/23711"]
 
-[9538859a4b2ca7d28edbee83ed8350e0]
+[6835b166bc0ae51ccfb214605f2b418e]
 catalognumber = "FCCM-0141"
 date = "2006-06-23"
 album = "ARIA The NATURAL Drama CD I"
@@ -172,9 +212,9 @@ tracks = [
     [4, "Navigation 04: アリア社長と灯里のへんてこな夢 〜決闘! ウンディーネ巌流島〜", "脚本: 藤咲あゆな", 0],
     [5, "テーマトーク・キャストクレジット", "おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36307", "https://beta.musicbrainz.org/release/25950725-13db-4015-86e1-6969f704cf8c"]
+links = ["https://beta.musicbrainz.org/release/25950725-13db-4015-86e1-6969f704cf8c", "https://vgmdb.net/album/36307"]
 
-[3cf7ab93afb938ae5b58d614b15832a0]
+[b788ca33cf11f3dc185aac77be8f526c]
 catalognumber = "FCCM-0142"
 date = "2006-07-21"
 album = "ARIA The NATURAL Drama CD II"
@@ -185,9 +225,9 @@ tracks = [
     [4, "Navigation 04: アリア社長と灯里のへんてこな夢・その2", "脚本: 岡田麿里", 0],
     [5, "テーマトーク・キャストクレジット", "おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36308", "https://beta.musicbrainz.org/release/6616a0a4-37bf-4ca2-afe7-513860a5e33b"]
+links = ["https://beta.musicbrainz.org/release/6616a0a4-37bf-4ca2-afe7-513860a5e33b", "https://vgmdb.net/album/36308"]
 
-[ab850ef303703bd744f0ffe2c3eb95c9]
+[2f5bf073f32ddf020c26239506db0644]
 catalognumber = "VICL-62003"
 date = "2006-08-02"
 album = "ARIA ～ピアノ・コレクション～ スタジオーネ －季節－"
@@ -211,9 +251,9 @@ tracks = [
     [17, "スタジオーネ -終章-", "葉月絵理乃・広橋涼・斎藤千和・大原さやか", 0],
     [18, "Rainbow", "窪田ミナ", 0],
 ]
-links = ["https://vgmdb.net/album/10671", "https://beta.musicbrainz.org/release/f07168fb-3662-4c40-bc93-0937fb2a418a"]
+links = ["https://beta.musicbrainz.org/release/f07168fb-3662-4c40-bc93-0937fb2a418a", "https://vgmdb.net/album/10671"]
 
-[5e9a0a4a4eaed901b87c8f8ee73731a1]
+[f00293bba6a4d4a7374d23aeb5d72e96]
 catalognumber = "MCRX001"
 date = "2006-08-13"
 album = "ARIA The ARTIFICIAL"
@@ -223,9 +263,9 @@ tracks = [
     [3, "夕凪", "Alabaster", 0],
     [4, "SigSig (Alabaster Remix 2006)", "kors k", 0],
 ]
-links = ["https://vgmdb.net/album/18080", "https://beta.musicbrainz.org/release/76a1ab8e-f348-4bb5-ae6f-1050f807df04"]
+links = ["https://beta.musicbrainz.org/release/76a1ab8e-f348-4bb5-ae6f-1050f807df04", "https://vgmdb.net/album/18080"]
 
-[21cb0eeecd26bc3d505aea7ccd303cfb]
+[e56bb6296ac1ec2e1bcd2d6c1c6eeaba]
 catalognumber = "VICL-62042"
 date = "2006-08-30"
 album = "ニノ / ラウンド・テーブル フィーチャリング ニノ"
@@ -243,9 +283,9 @@ tracks = [
     [11, "Rainbow", "ROUND TABLE featuring Nino", 0],
     [12, "Just a Little", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/66436", "https://beta.musicbrainz.org/release/99e650b7-5752-4a5c-a9cd-101cb1f1d804"]
+links = ["https://beta.musicbrainz.org/release/99e650b7-5752-4a5c-a9cd-101cb1f1d804", "https://vgmdb.net/album/66436"]
 
-[2a5a60c76e499cbefbfd07e27ea50046]
+[d42bb499f4a718d76e24f966d941f7c8]
 catalognumber = "VICL-62044"
 date = "2006-09-06"
 album = "ARIA The NATURAL ボーカルソング・コレクション"
@@ -264,9 +304,9 @@ tracks = [
     [12, "Smile Again", "葉月絵理乃", 0],
     [13, "でっかいシアワセです。", "ウンディーネ娘 (広橋 涼・葉月絵理乃・斎藤千和) feat. アリア社長 (西村ちなみ)", 0],
 ]
-links = ["https://vgmdb.net/album/23209", "https://beta.musicbrainz.org/release/b926767b-93b4-4b44-bf7d-057e70d2311e"]
+links = ["https://beta.musicbrainz.org/release/b926767b-93b4-4b44-bf7d-057e70d2311e", "https://vgmdb.net/album/23209"]
 
-[b34b61b95d8281eef9a02e8b8f69fa15]
+[0c1b16af52e32642343d4e7e8ee9d091]
 catalognumber = "FPBD-0003"
 date = "2006-09-28"
 album = "ARIA The NATURAL ～遠い記憶のミラージュ～ サウンドトラック Original Soundtrack, Vocal"
@@ -288,9 +328,9 @@ tracks = [
     [15, "星の謳声", "馬場信繁", 0],
     [16, "BLUE BLUE WAVE -orgel ver.-", "志倉千代丸", 0],
 ]
-links = ["https://vgmdb.net/album/21937", "https://beta.musicbrainz.org/release/9e9ed083-d2f6-4f00-a1d1-02938bb1c620"]
+links = ["https://beta.musicbrainz.org/release/9e9ed083-d2f6-4f00-a1d1-02938bb1c620", "https://vgmdb.net/album/21937"]
 
-[681224ab39f6ffb7560726b4deec2835]
+[91bf60524529348dcb7b349d669379b0]
 catalognumber = "FPBD-0003"
 date = "2006-09-28"
 album = "ARIA The NATURAL ～遠い記憶のミラージュ～ サウンドトラック Original Soundtrack"
@@ -314,7 +354,7 @@ tracks = [
     [17, "変わらない青空", "馬場信繁", 0],
     [18, "たいせつなほし", "馬場信繁", 0],
 ]
-links = ["https://vgmdb.net/album/21937", "https://beta.musicbrainz.org/release/9e9ed083-d2f6-4f00-a1d1-02938bb1c620"]
+links = ["https://beta.musicbrainz.org/release/9e9ed083-d2f6-4f00-a1d1-02938bb1c620", "https://vgmdb.net/album/21937"]
 
 [e0a4b2ee942de7afeefcf58d9952386a]
 catalognumber = "ARIA-0001"
@@ -336,16 +376,21 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/36442"]
 
-[1bfd21d52974a7bc7a45323bfa91fe43]
+[e25820ac8899027e639097ed075b70b5]
 catalognumber = "ARIA-0001"
 date = "2006-09-29"
 album = "ARIA The STATION Neo VENEZIA INFORMALE Talk"
 tracks = [
-    [1, "でつかい録りおろしおまけ番組", "", 0],
+    [5, "でっかい録りおろしおまけ番組です!  05", "ARIAカンパニー", 0],
+    [6, "でっかい録りおろしおまけ番組です!  06", "ARIAカンパニー", 0],
+    [1, "でっかい録りおろしおまけ番組です!  01", "ARIAカンパニー", 0],
+    [2, "でっかい録りおろしおまけ番組です!  02", "ARIAカンパニー", 0],
+    [3, "でっかい録りおろしおまけ番組です!  03", "ARIAカンパニー", 0],
+    [4, "でっかい録りおろしおまけ番組です!  04", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/36442"]
 
-[1f658f729f4ca75230c6ec7ae3063677]
+[de94e534e21d066088bb3cc8b110ee25]
 catalognumber = "VGCD-1004"
 date = "2006-10-06"
 album = "PS2用ソフト『ARIA The NATURAL～遠い記憶（ゆめ）のミラージュ』 主題歌 「BLUE BLUE WAVE」"
@@ -355,7 +400,7 @@ tracks = [
     [3, "BLUE BLUE WAVE (off vocal)", "KAORI", 0],
     [4, "その小さな小さな微笑みで (off vocal)", "KAORI", 0],
 ]
-links = ["https://vgmdb.net/album/12015", "https://beta.musicbrainz.org/release/e36aacee-1fca-42f7-9331-adc426ec9f84"]
+links = ["https://beta.musicbrainz.org/release/e36aacee-1fca-42f7-9331-adc426ec9f84", "https://vgmdb.net/album/12015"]
 
 [03e41ca84bfc1e5718ff89578b8ebd66]
 catalognumber = "ARIA-1001"
@@ -378,16 +423,19 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/37948"]
 
-[30aabf81ddd9643400410d2e2df0981e]
+[677cef576d7fe47a3b4e19164f02de87]
 catalognumber = "ARIA-1001"
 date = "2006-11-24"
 album = "ARIA The STATION Due COUR.1 Drama"
 tracks = [
-    [1, "でっかい録りおろしおまけCD Due その1", "", 0],
+    [1, "でっかい録りおろしおまけCD Due その1 - 01", "ARIAカンパニー", 0],
+    [2, "でっかい録りおろしおまけCD Due その1 - 02", "ARIAカンパニー", 0],
+    [3, "でっかい録りおろしおまけCD Due その1 - 03", "ARIAカンパニー", 0],
+    [4, "でっかい録りおろしおまけCD Due その1 - 04", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/37948"]
 
-[4188e436b1c32175ddb43ea41aeb11cd]
+[e8431f5777e49ed8635dea8534093fcb]
 catalognumber = "VICL-62167"
 date = "2006-12-06"
 album = "天球の音楽 / 牧野 由依"
@@ -407,7 +455,7 @@ tracks = [
     [13, "雨降花 -Album Version-", "牧野由依", 0],
     [14, "アムリタ", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/62492", "https://beta.musicbrainz.org/release/a1136fcf-30c8-4926-8381-f3e38c7b978d"]
+links = ["https://beta.musicbrainz.org/release/a1136fcf-30c8-4926-8381-f3e38c7b978d", "https://vgmdb.net/album/62492"]
 
 [a5020940e9323d23a855b5c8b7683077]
 catalognumber = "N/A"
@@ -501,16 +549,20 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/37956"]
 
-[6d9dc9cb714b2909656c4c8c59d321f8]
+[8c6fd9f398ba17e274da9fa965be7863]
 catalognumber = "ARIA-1004"
 date = "2007-05-25"
 album = "ARIA The STATION Due COUR.4 Talk"
 tracks = [
-    [1, "でっかい録りおろしおまけCD Due その4「~ARIA The STATION Dueを振り返って~前代末聞!ラジオなのにオーディオコメンタリー!」", "", 0],
+    [1, "でっかい録りおろしおまけCD Due その4 - 01", "ARIAカンパニー", 0],
+    [2, "でっかい録りおろしおまけCD Due その4 - 02", "ARIAカンパニー", 0],
+    [3, "でっかい録りおろしおまけCD Due その4 - 03", "ARIAカンパニー", 0],
+    [4, "でっかい録りおろしおまけCD Due その4 - 04", "ARIAカンパニー", 0],
+    [5, "でっかい録りおろしおまけCD Due その4 - 05", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/37956"]
 
-[22be96abdd612505b61c186e41b9d597]
+[d1eef1c5dda072a570e862a889feac8c]
 catalognumber = "VGCD-0094"
 date = "2007-08-10"
 album = "re;stratosphere / KAORI"
@@ -528,9 +580,9 @@ tracks = [
     [11, "やさしい星座 (acoustic mix)", "KAORI", 0],
     [12, "stratosphere", "KAORI", 0],
 ]
-links = ["https://vgmdb.net/album/13523", "https://beta.musicbrainz.org/release/fb16bf00-b621-3514-b1ad-650a32593053"]
+links = ["https://beta.musicbrainz.org/release/fb16bf00-b621-3514-b1ad-650a32593053", "https://vgmdb.net/album/13523"]
 
-[82189bcd1e562d4b6e630c9cd3bc6a02]
+[bd7bd29302e4d3b1fc6a7e2617a224a1]
 catalognumber = "VGCD-50004"
 date = "2007-08-10"
 album = "re;stratosphere / KAORI [初回限定盤] Vocal"
@@ -548,9 +600,9 @@ tracks = [
     [11, "やさしい星座 (acoustic mix)", "KAORI", 0],
     [12, "stratosphere", "KAORI", 0],
 ]
-links = ["https://vgmdb.net/album/24516", "https://beta.musicbrainz.org/release/4e2436d5-1907-4eec-a17d-d6a0b825aafe"]
+links = ["https://beta.musicbrainz.org/release/4e2436d5-1907-4eec-a17d-d6a0b825aafe", "https://vgmdb.net/album/24516"]
 
-[a8b4665f801d5f5ea5a02c7f2a1c3b62]
+[2abcf33f7cf621b569a055817217dcff]
 catalognumber = "VGCD-50004"
 date = "2007-08-10"
 album = "re;stratosphere / KAORI [初回限定盤] Video"
@@ -558,9 +610,9 @@ tracks = [
     [1, "BLUE BLUE WAVE Music Clip", "KAORI", 0],
     [2, "この青空に約束を Music Clip", "KAORI", 0],
 ]
-links = ["https://vgmdb.net/album/24516", "https://beta.musicbrainz.org/release/4e2436d5-1907-4eec-a17d-d6a0b825aafe"]
+links = ["https://beta.musicbrainz.org/release/4e2436d5-1907-4eec-a17d-d6a0b825aafe", "https://vgmdb.net/album/24516"]
 
-[c3570cbeb08cdbc56a772da1e2e15149]
+[5c09b85a9b2cc797b849ae4ed4a3c7e5]
 catalognumber = "VTCL-35001"
 date = "2007-09-21"
 album = "七色の空を / 明日、夕暮れまで"
@@ -571,7 +623,7 @@ tracks = [
     [4, "明日、夕暮れまで -Instrumental-", "葉月絵理乃", 0],
     [5, "七色の空を -弾き語り-", "SONOROUS", 0],
 ]
-links = ["https://vgmdb.net/album/40615", "https://beta.musicbrainz.org/release/5cc10ea9-5add-4aee-aeca-72e51849a8b9"]
+links = ["https://beta.musicbrainz.org/release/5cc10ea9-5add-4aee-aeca-72e51849a8b9", "https://vgmdb.net/album/40615"]
 
 [e5a772b92de3decc0dacd40229d0420b]
 catalognumber = "ARIA-2001"
@@ -594,16 +646,21 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/44245"]
 
-[3b34957497f9c28acda474149be54362]
+[8697a3e6b4f88ad07fec6dcd97e43432]
 catalognumber = "ARIA-2001"
 date = "2007-09-28"
 album = "ARIA The STATION Tricolore COUR.1 Disc 2 (CD) [ARIA-2001B]"
 tracks = [
-    [1, "ARIA The STATION Tricolore 特別版「でっかいオレンジぷらねつと放送局です!」", "", 0],
+    [1, "でっかいオレンジぷらねっと放送局です! 01", "ARIAカンパニー", 0],
+    [2, "でっかいオレンジぷらねっと放送局です! 02", "ARIAカンパニー", 0],
+    [3, "でっかいオレンジぷらねっと放送局です! 03", "ARIAカンパニー", 0],
+    [4, "でっかいオレンジぷらねっと放送局です! 04", "ARIAカンパニー", 0],
+    [5, "でっかいオレンジぷらねっと放送局です! 05", "ARIAカンパニー", 0],
+    [6, "でっかいオレンジぷらねっと放送局です! 06", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/44245"]
 
-[1a2621110a66f80e435754b4b3ff7ab3]
+[f49c61d47b3d4141c4a94922399c10b5]
 catalognumber = "N/A"
 date = "2007-11-22"
 album = "USAO CD vol.2"
@@ -621,7 +678,7 @@ tracks = [
     [11, "愚民hardcore", "USAO", 0],
     [12, "Duel Sisters", "USAO", 0],
 ]
-links = ["https://vgmdb.net/album/19435", "https://beta.musicbrainz.org/release/89d9549d-6625-482d-b3fe-280697bbb56f"]
+links = ["https://beta.musicbrainz.org/release/89d9549d-6625-482d-b3fe-280697bbb56f", "https://vgmdb.net/album/19435"]
 
 [852e4eb0451f91e898d5331254306cd6]
 catalognumber = "ARIA-2002"
@@ -644,16 +701,20 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/44255"]
 
-[8bf61574c109ef29614b00838fdc5023]
+[eddb69995854a207a72bf4ad31e4999b]
 catalognumber = "ARIA-2002"
 date = "2007-12-21"
 album = "ARIA The STATION Tricolore COUR.2 Disc 2 (CD) [ARIA-2002B]"
 tracks = [
-    [1, "ARIA The STATION Tricolore 特別版「姫屋通信」", "", 0],
+    [1, "姫屋通信 1", "ARIAカンパニー", 0],
+    [2, "姫屋通信 2", "ARIAカンパニー", 0],
+    [3, "姫屋通信 3", "ARIAカンパニー", 0],
+    [4, "姫屋通信 4", "ARIAカンパニー", 0],
+    [5, "姫屋通信 5", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/44255"]
 
-[9819c6114edeb2c243f9d8607dc80e69]
+[2f817e06693ed089385e50e8e5bb486d]
 catalognumber = "VTCL-35018"
 date = "2008-01-23"
 album = "金の波 千の波 / 新居昭乃"
@@ -663,9 +724,9 @@ tracks = [
     [3, "金の波 千の波 (w/o akino)", "新居昭乃", 0],
     [4, "鳥かごの夢 (w/o akino)", "新居昭乃", 0],
 ]
-links = ["https://vgmdb.net/album/40598", "https://beta.musicbrainz.org/release/45945986-8362-47ee-96af-1482bd7551c9"]
+links = ["https://beta.musicbrainz.org/release/45945986-8362-47ee-96af-1482bd7551c9", "https://vgmdb.net/album/40598"]
 
-[60d4ad9124d7a3688ddb290deeeadd4e]
+[4a2068a74e725730923290288d7e92b8]
 catalognumber = "VTCL-35016"
 date = "2008-01-23"
 album = "スピラーレ / 牧野由依"
@@ -675,9 +736,9 @@ tracks = [
     [3, "スピラーレ (Instrumental)", "牧野由依", 0],
     [4, "横顔 -acoustic version- (Instrumental)", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/57139", "https://beta.musicbrainz.org/release/d3fbe2eb-a605-419c-bb81-4182cb2aba6c"]
+links = ["https://beta.musicbrainz.org/release/d3fbe2eb-a605-419c-bb81-4182cb2aba6c", "https://vgmdb.net/album/57139"]
 
-[d32afc12a4234850671c4770ab068198]
+[27716548d1b6f86eac4f1c515fa442de]
 catalognumber = "VICL-62756"
 date = "2008-02-20"
 album = "モーメント / 窪田ミナ"
@@ -695,9 +756,9 @@ tracks = [
     [11, "Fragile", "窪田ミナ", 0],
     [12, "Echoing Silence", "窪田ミナ", 0],
 ]
-links = ["https://vgmdb.net/album/38246", "https://beta.musicbrainz.org/release/0321d5a7-1d14-454c-b2a0-e51b73893b52"]
+links = ["https://beta.musicbrainz.org/release/0321d5a7-1d14-454c-b2a0-e51b73893b52", "https://vgmdb.net/album/38246"]
 
-[1fae8bb83678e2050ddb546ad4559b43]
+[d826cec2fc0f570fc9435f7d11dffe8d]
 catalognumber = "VTCL-60026"
 date = "2008-02-20"
 album = "ARIA The ORIGINATION ORIGINAL SOUNDTRACK tre"
@@ -726,9 +787,9 @@ tracks = [
     [22, "金の波 千の波 -TVサイズ-", "新居昭乃", 0],
     [23, "四季 〜そして僕は海に還る〜", "Choro Club feat. Senoo", 0],
 ]
-links = ["https://vgmdb.net/album/25474", "https://beta.musicbrainz.org/release/19cf4638-3239-472e-ae07-0bc4b4b12cf9"]
+links = ["https://beta.musicbrainz.org/release/19cf4638-3239-472e-ae07-0bc4b4b12cf9", "https://vgmdb.net/album/25474"]
 
-[4d3c8a3ff70753af806ee40b9c396c28]
+[7caa51bd9bd287667f1dc8ed1504462d]
 catalognumber = "FCCM-0206"
 date = "2008-03-21"
 album = "ARIA The ORIGINATION Drama CD I ~雪~"
@@ -739,9 +800,9 @@ tracks = [
     [4, "Navigation 04: 社長ズ! お鍋ぐつぐつ", "水無灯里 (葉月絵理乃)、アリア社長 (西村ちなみ)、まぁ社長 (渡辺明乃)、ヒメ (井上喜久子)", 0],
     [5, "キャストテーマトーク", "水無灯里 (葉月絵理乃)、藍華 (斎藤千和)、アリス (広橋涼)、アリシア (大原さやか)、晃 (皆川純子)、アテナ (川上とも子)、アイ (水橋かおり)、アリア社長 (西村ちなみ)、暁 (野島裕史)、まぁ社長 (渡辺明乃)、グランマ (松尾佳子)", 0],
 ]
-links = ["https://vgmdb.net/album/36309", "https://beta.musicbrainz.org/release/643d6c0f-782f-47f6-954a-3eab65d5fd81"]
+links = ["https://beta.musicbrainz.org/release/643d6c0f-782f-47f6-954a-3eab65d5fd81", "https://vgmdb.net/album/36309"]
 
-[ef8522a7006834fac1b7076602629413]
+[edb610b00eafb1981e4aa7b858bb7eea]
 catalognumber = "VTCL-60036"
 date = "2008-03-26"
 album = "マキノユイ。 / 牧野由依"
@@ -759,9 +820,9 @@ tracks = [
     [11, "DESTINY", "牧野由依", 0],
     [12, "私について", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/92887", "https://beta.musicbrainz.org/release/209e082f-c0f6-36b2-8f45-9e0b61494686"]
+links = ["https://beta.musicbrainz.org/release/209e082f-c0f6-36b2-8f45-9e0b61494686", "https://vgmdb.net/album/92887"]
 
-[1da85ff81b3258f6508582f848983eac]
+[bcb68bc11b069c55c9bce51429254b1d]
 catalognumber = "VTZL-4"
 date = "2008-03-26"
 album = "マキノユイ。 / 牧野由依 Disc 1 (CD) [VTCL-60036]"
@@ -779,9 +840,9 @@ tracks = [
     [11, "DESTINY", "牧野由依", 0],
     [12, "私について", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/92886", "https://beta.musicbrainz.org/release/ce3f8410-39a7-45a2-ae7b-11165f79b870"]
+links = ["https://beta.musicbrainz.org/release/ce3f8410-39a7-45a2-ae7b-11165f79b870", "https://vgmdb.net/album/92886"]
 
-[061ae0d4297724c0bbfb2c06002b92a5]
+[a825d45b010e8be0e6db3bc9639cf77c]
 catalognumber = "VTZL-4"
 date = "2008-03-26"
 album = "マキノユイ。 / 牧野由依 Disc 2 (DVD) [VTBY-2]"
@@ -796,9 +857,9 @@ tracks = [
     [8, "Album 「天球の音楽」 CM", "牧野由依", 0],
     [9, "Single 「スケッチブックを持ったまま」 CM", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/92886", "https://beta.musicbrainz.org/release/ce3f8410-39a7-45a2-ae7b-11165f79b870"]
+links = ["https://beta.musicbrainz.org/release/ce3f8410-39a7-45a2-ae7b-11165f79b870", "https://vgmdb.net/album/92886"]
 
-[9f68d5305937b976673293176e348f12]
+[87603e4f9962643cb93d6c7591c13c33]
 catalognumber = "VTCL-60023"
 date = "2008-03-26"
 album = "「ARIA The ORIGINATION」ピアノ・コレクションII「ディパルテンツァ-旅立ち-」"
@@ -816,7 +877,7 @@ tracks = [
     [11, "天気雨", "妹尾武", 0],
     [12, "明日、夕暮れまで", "妹尾武", 0],
 ]
-links = ["https://vgmdb.net/album/19353", "https://beta.musicbrainz.org/release/899eb3ce-8a49-4c17-bf0c-118d84e3039e"]
+links = ["https://beta.musicbrainz.org/release/899eb3ce-8a49-4c17-bf0c-118d84e3039e", "https://vgmdb.net/album/19353"]
 
 [da7f65f3a4f2126fcddeb5209888c409]
 catalognumber = "ARIA-2003"
@@ -839,16 +900,22 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/51157"]
 
-[cdef8ce572bff168424cb7cc1b20982a]
+[1bf34a74fb2d4f5497ac1f4614f07bfe]
 catalognumber = "ARIA-2003"
 date = "2008-03-28"
 album = "ARIA The STATION Tricolore COUR.3 Disc 2 (CD) [ARIA-2003B]"
 tracks = [
-    [1, "ARIA The STATION Tricolore 特別版「ARIA The キッチン♪」", "", 0],
+    [1, "オープニング", "ARIAカンパニー", 0],
+    [2, "材料の説明", "ARIAカンパニー", 0],
+    [3, "クッキング前半戦", "ARIAカンパニー", 0],
+    [4, "クッキング後半戦", "ARIAカンパニー", 0],
+    [5, "試食タイム", "ARIAカンパニー", 0],
+    [6, "エンディング", "ARIAカンパニー", 0],
+    [7, "おまけ", "ARIAカンパニー", 0],
 ]
 links = ["https://vgmdb.net/album/51157"]
 
-[ebc93530ac8fff1cf17303a5be577964]
+[dc6e884b649c9a42ba9f24067bf8f90f]
 catalognumber = "FCCM-0207"
 date = "2008-04-23"
 album = "ARIA The ORIGINATION Drama CD II ~月~"
@@ -859,9 +926,9 @@ tracks = [
     [4, "Navigation 04: 社長ズ! 月に向かってほえろ!", "脚本：藤咲あゆな", 0],
     [5, "キャストテーマトーク", "﻿﻿おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36310", "https://beta.musicbrainz.org/release/a717610e-afdb-4f10-997c-21ec34cab286"]
+links = ["https://beta.musicbrainz.org/release/a717610e-afdb-4f10-997c-21ec34cab286", "https://vgmdb.net/album/36310"]
 
-[142214521081443625643b535f2be33f]
+[d3ac4c901e9a3e4bb5e5dbb4b647ef3b]
 catalognumber = "FCCM-0208"
 date = "2008-05-21"
 album = "ARIA The ORIGINATION Drama CD III ~花~"
@@ -872,9 +939,9 @@ tracks = [
     [4, "Navigation 04: 社長ズ! 世界の中心でアリアは歌う", "脚本: 藤咲あゆな", 0],
     [5, "キャストテーマトーク", "おーるきゃすと", 0],
 ]
-links = ["https://vgmdb.net/album/36311", "https://beta.musicbrainz.org/release/4294995b-efbb-4123-a186-e9ceb20766c9"]
+links = ["https://beta.musicbrainz.org/release/4294995b-efbb-4123-a186-e9ceb20766c9", "https://vgmdb.net/album/36311"]
 
-[714c72eb7f6bb5653ff346c876b22166]
+[49ee115799874193cd9c1bf78aa7c7ee]
 catalognumber = "VTCL-35031"
 date = "2008-06-25"
 album = "恋をしてる / ROUND TABLE featuring Nino"
@@ -885,9 +952,9 @@ tracks = [
     [4, "恋をしてる -without Nino-", "ROUND TABLE featuring Nino", 0],
     [5, "シンフォニー -without Nino-", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/150385", "https://beta.musicbrainz.org/release/33993e61-e0dc-4b1b-8f14-a5f04295116c"]
+links = ["https://beta.musicbrainz.org/release/33993e61-e0dc-4b1b-8f14-a5f04295116c", "https://vgmdb.net/album/150385"]
 
-[1e9d5348169a28aa1f0525dd294791d9]
+[a52cf85454704df3af37c6664a4de5ae]
 catalognumber = "FPBD-0099"
 date = "2008-06-26"
 album = "ARIA The ORIGINATION ～蒼い惑星のエルシエロ～ 音楽CD Original Soundtrack Disc 1"
@@ -915,9 +982,9 @@ tracks = [
     [21, "理解りあえるために", "馬場信繁", 0],
     [22, "Graceful Way (Orgel Ver.)", "志倉千代丸", 0],
 ]
-links = ["https://vgmdb.net/album/15884", "https://beta.musicbrainz.org/release/9ff1a395-3e19-4a78-9858-12e02170994f"]
+links = ["https://beta.musicbrainz.org/release/9ff1a395-3e19-4a78-9858-12e02170994f", "https://vgmdb.net/album/15884"]
 
-[18092c1acde1291ee75f2fbe0aa466fa]
+[b30fbc192da5468a51bce94a4e9244c6]
 catalognumber = "FPBD-0099"
 date = "2008-06-26"
 album = "ARIA The ORIGINATION ～蒼い惑星のエルシエロ～ 音楽CD Original Soundtrack Disc 2"
@@ -926,16 +993,42 @@ tracks = [
     [2, "Il Cielo (Short Ver.)", "アニー", 0],
     [3, "花ノ咲ク星 (Short Ver.)", "諫山実生", 0],
 ]
-links = ["https://vgmdb.net/album/15884", "https://beta.musicbrainz.org/release/9ff1a395-3e19-4a78-9858-12e02170994f"]
+links = ["https://beta.musicbrainz.org/release/9ff1a395-3e19-4a78-9858-12e02170994f", "https://vgmdb.net/album/15884"]
 
-[7d061d55ff6086949df9e18dd823a649]
+[c8f8591d4993d5d976251365e92b3b6e]
 catalognumber = "ARIA-2004"
 date = "2008-06-27"
 album = "ARIA The STATION Tricolore COUR.4"
-tracks = []
+tracks = [
+    [1, "第40回　春の野に出て若菜摘む", "ARIAカンパニー", 0],
+    [2, "第41回　歌姫さんの憂鬱？", "ARIAカンパニー", 0],
+    [3, "第42回　元気の源！", "ARIAカンパニー", 0],
+    [4, "第43回　節分はっぴー", "ARIAカンパニー", 0],
+    [5, "第44回　バウータできるかな？", "ARIAカンパニー", 0],
+    [6, "第45回　バレンチノ・狂詩曲（カプリッチョ）", "ARIAカンパニー", 0],
+    [7, "第46回　幸せの法則", "ARIAカンパニー", 0],
+    [8, "第47回　冬の終わりに", "ARIAカンパニー", 0],
+    [9, "第48回　お内裏様だ～れだ？", "ARIAカンパニー", 0],
+    [10, "第49回　以心伝心！", "ARIAカンパニー", 0],
+    [11, "第50回　花より団子より……", "ARIAカンパニー", 0],
+    [12, "第51回　また会う日まで！", "ARIAカンパニー", 0],
+    [13, "第52回　アニメ最終回スペシャル", "ARIAカンパニー", 0],
+]
 links = ["https://vgmdb.net/album/84566"]
 
-[0c0adb1bc362d74fa9c13b173be40c81]
+[6727bb53e5d1d9e8d08991b85732ac8c]
+catalognumber = "ARIA-2004"
+date = "2008-06-27"
+album = "ARIA The STATION Tricolore COUR.4 Disc 2"
+tracks = [
+    [1, "ARIA The Satojun Torikohyanen 1", "ARIAカンパニー", 0],
+    [2, "ARIA The Satojun Torikohyanen 2", "ARIAカンパニー", 0],
+    [3, "ARIA The Satojun Torikohyanen 3", "ARIAカンパニー", 0],
+    [4, "ARIA The Satojun Torikohyanen 4", "ARIAカンパニー", 0],
+]
+links = ["https://vgmdb.net/album/84566"]
+
+[28ed5c2dccc15fb17224a6361c1f93d6]
 catalognumber = "QWCE-00051"
 date = "2008-07-02"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 4"
@@ -961,9 +1054,9 @@ tracks = [
     [19, "いちごコンプリート", "Ma15+MAKI", 0],
     [20, "ユーフォリア", "CAMRY", 0],
 ]
-links = ["https://vgmdb.net/album/29343", "https://beta.musicbrainz.org/release/4b9e903c-6009-4735-ac6e-3fd2b43e9cb3"]
+links = ["https://beta.musicbrainz.org/release/4b9e903c-6009-4735-ac6e-3fd2b43e9cb3", "https://vgmdb.net/album/29343"]
 
-[dd18e854e68f06dcc4d9d4067dcc0fad]
+[98b20c0d3739e5e54fd7ae8e4a7fc73e]
 catalognumber = "FVCG-1035"
 date = "2008-07-25"
 album = "PS2ゲーム 『ARIA The ORIGINATION ～蒼い惑星のエルシエロ～』 主題歌 「graceful way」 「花ノ咲ク星」 「Il Cielo」"
@@ -975,9 +1068,9 @@ tracks = [
     [5, "Il Cielo (off vocal)", "アニー (花澤香菜)", 0],
     [6, "花ノ咲ク星 (off vocal)", "諫山実生", 0],
 ]
-links = ["https://vgmdb.net/album/10069", "https://beta.musicbrainz.org/release/b4735008-1183-44e3-b76c-38f7bcda6d3d"]
+links = ["https://beta.musicbrainz.org/release/b4735008-1183-44e3-b76c-38f7bcda6d3d", "https://vgmdb.net/album/10069"]
 
-[75b757d7222c79599dd0cd04f239f559]
+[25a8cecc14c14e24f6346228518850c9]
 catalognumber = "VGCD-0152"
 date = "2008-07-30"
 album = "THE WORKS ～志倉千代丸楽曲集～ 2.0"
@@ -998,9 +1091,9 @@ tracks = [
     [14, "その小さな小さな微笑みで", "KAORI", 0],
     [15, "Close Your Eyes", "彩音", 0],
 ]
-links = ["https://vgmdb.net/album/9596", "https://beta.musicbrainz.org/release/382a3e83-4777-446d-a987-22142b37bd4d"]
+links = ["https://beta.musicbrainz.org/release/382a3e83-4777-446d-a987-22142b37bd4d", "https://vgmdb.net/album/9596"]
 
-[64f45bb7e7b85731670c68116aa2ce8f]
+[e6f75d6012dd429187b65433d9798baf]
 catalognumber = "VGCD-0153"
 date = "2008-07-30"
 album = "THE WORKS ～志倉千代丸楽曲集～ 3.0"
@@ -1021,7 +1114,7 @@ tracks = [
     [14, "Day Break", "KAORI", 0],
     [15, "Friend", "いとうかなこ", 0],
 ]
-links = ["https://vgmdb.net/album/9597", "https://beta.musicbrainz.org/release/de57ca27-1bd6-4457-b58f-2ae0734c271c"]
+links = ["https://beta.musicbrainz.org/release/de57ca27-1bd6-4457-b58f-2ae0734c271c", "https://vgmdb.net/album/9597"]
 
 [cc19b876112da5a6a31681d2efbdaaed]
 catalognumber = "N/A"
@@ -1032,7 +1125,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/36314"]
 
-[16a8aee584fd35ad576ac30f30458ed1]
+[1880d5fadb6397c8b9daaeba21a23db4]
 catalognumber = "VTCL-60083"
 date = "2008-12-24"
 album = "ひまわり / 河井英里"
@@ -1054,18 +1147,18 @@ tracks = [
     [15, "バルカローレ -Live Ver.-", "河井英里", 0],
     [16, "サンタクロウスの空 -Live Ver.-", "河井英里", 0],
 ]
-links = ["https://vgmdb.net/album/32756", "https://beta.musicbrainz.org/release/2f88b9f7-49c6-4a62-bd41-598596f6e11f"]
+links = ["https://beta.musicbrainz.org/release/2f88b9f7-49c6-4a62-bd41-598596f6e11f", "https://vgmdb.net/album/32756"]
 
-[209a8c525653793b1a352a909b57183f]
+[2f454b6dbc123682200c4795f338acb2]
 catalognumber = "ZMSZ-4346"
 date = "2009-03-25"
 album = "ARIA The ANIMATION DVD-BOX 特典ドラマCD「その憧れの人をめざして…」"
 tracks = [
     [1, "その 憧れの人をめざして…", "脚本: 吉田玲子", 0],
 ]
-links = ["https://vgmdb.net/album/130434", "https://beta.musicbrainz.org/release/96a33810-2a07-4034-ab7e-8c9f86a6da80"]
+links = ["https://beta.musicbrainz.org/release/96a33810-2a07-4034-ab7e-8c9f86a6da80", "https://vgmdb.net/album/130434"]
 
-[2d8b8da74512c29f989437390eeb8186]
+[03305494b5a296b744da3f87048f747a]
 catalognumber = "VTCL-35071"
 date = "2009-07-22"
 album = "ウンディーネ / 牧野由依"
@@ -1075,7 +1168,7 @@ tracks = [
     [3, "ウンディーネ (Instrumental)", "牧野由依", 0],
     [4, "シンフォニー (Instrumental)", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/62686", "https://beta.musicbrainz.org/release/2c0255b4-34fa-4aaf-a160-976dc2c382eb"]
+links = ["https://beta.musicbrainz.org/release/2c0255b4-34fa-4aaf-a160-976dc2c382eb", "https://vgmdb.net/album/62686"]
 
 [ec4dca543aa146333fc9d26b3b225baa]
 catalognumber = "VTCL-35073"
@@ -1101,7 +1194,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102410"]
 
-[4386ab3c6747f74ba2f1a84b68fb216c]
+[f682a10d71114d3ebf6239c455cedc0d]
 catalognumber = "VTCL-60171"
 date = "2009-07-22"
 album = "ARIA The ANIMATION ORIGINAL SOUNDTRACK"
@@ -1132,9 +1225,9 @@ tracks = [
     [24, "そして舟は行く", "Choro Club", 0],
     [25, "Rainbow -acoustic ver.-", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/146477", "https://beta.musicbrainz.org/release/cff062e3-1c92-4808-aac4-4d0818a893d6"]
+links = ["https://beta.musicbrainz.org/release/cff062e3-1c92-4808-aac4-4d0818a893d6", "https://vgmdb.net/album/146477"]
 
-[8ac224a6ed43834bb67a20785422ba50]
+[b2df2e032f3f1426260b206712f6e5d0]
 catalognumber = "VTCL-35072"
 date = "2009-07-22"
 album = "rainbow / ROUND TABLE featuring Nino"
@@ -1144,9 +1237,9 @@ tracks = [
     [3, "rainbow (instrumental)", "ROUND TABLE featuring Nino", 0],
     [4, "just for you (instrumental)", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/25324", "https://beta.musicbrainz.org/release/5ce7ed2d-7a03-48e0-b255-583569795eea"]
+links = ["https://beta.musicbrainz.org/release/5ce7ed2d-7a03-48e0-b255-583569795eea", "https://vgmdb.net/album/25324"]
 
-[a94d36d84548876117488680ca5933d9]
+[dfa855e1f71fe6d53b98972373778c14]
 catalognumber = "VTCL-60114~6"
 date = "2009-09-23"
 album = "ARIA The BOX 2005-2008 [完全初回限定生産] Original Soundtrack, Vocal, Prototype/Unused"
@@ -1177,9 +1270,9 @@ tracks = [
     [24, "ARIA", "Choro Club feat. Senoo", 0],
     [25, "AQUA", "Choro Club feat. Senoo", 0],
 ]
-links = ["https://vgmdb.net/album/22658", "https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8"]
+links = ["https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8", "https://vgmdb.net/album/22658"]
 
-[924c8ce2c11cc190a8cd3fc4b0893fd1]
+[b6aded7cc930a161b93061ef55e87569]
 catalognumber = "VTCL-60114~6"
 date = "2009-09-23"
 album = "ARIA The BOX 2005-2008 [完全初回限定生産] Original Soundtrack Disc 2"
@@ -1200,9 +1293,9 @@ tracks = [
     [14, "横顔", "牧野由依", 0],
     [15, "金の波 千の波", "新居昭乃", 0],
 ]
-links = ["https://vgmdb.net/album/22658", "https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8"]
+links = ["https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8", "https://vgmdb.net/album/22658"]
 
-[891a70154d6b897770319368230165a0]
+[595c91d5f8b3c5212e27dd233b64eee4]
 catalognumber = "VTCL-60114~6"
 date = "2009-09-23"
 album = "ARIA The BOX 2005-2008 [完全初回限定生産] Original Soundtrack Disc 3"
@@ -1223,9 +1316,9 @@ tracks = [
     [14, "夏の妖精 -guitar solo-", "Choro Club feat. Senoo", 0],
     [15, "Second Season 〜出会い〜 -bandolim melo-", "Choro Club feat. Senoo", 0],
 ]
-links = ["https://vgmdb.net/album/22658", "https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8"]
+links = ["https://beta.musicbrainz.org/release/424840dd-6f9b-410c-8647-47eb427030b8", "https://vgmdb.net/album/22658"]
 
-[a9ebe5d78692253efd17d7fedf85a974]
+[991b5f6a3795eb67690caf669b188b7a]
 catalognumber = "VGCD-0176"
 date = "2009-10-21"
 album = "THE WORKS ～志倉千代丸楽曲集～ 5.0"
@@ -1246,9 +1339,9 @@ tracks = [
     [14, "fake me", "いとうかなこ", 0],
     [15, "Brilliant Star", "水樹奈々", 0],
 ]
-links = ["https://vgmdb.net/album/15820", "https://beta.musicbrainz.org/release/57d75d55-e0d8-49c5-86a8-6e0873fa320c"]
+links = ["https://beta.musicbrainz.org/release/57d75d55-e0d8-49c5-86a8-6e0873fa320c", "https://vgmdb.net/album/15820"]
 
-[e84da6648ef7dd4f4cb1501d02cd6d0d]
+[bbf19518eb31f404f5162bb8bf673fab]
 catalognumber = "VGCD-0175"
 date = "2009-10-21"
 album = "THE WORKS ～志倉千代丸楽曲集～ 4.0"
@@ -1269,9 +1362,9 @@ tracks = [
     [14, "蒼黒のスピカ", "Velforest.", 0],
     [15, "Everlasting Sky", "彩音", 0],
 ]
-links = ["https://vgmdb.net/album/15819", "https://beta.musicbrainz.org/release/b31f3a7f-bb88-46c0-a3dc-f5340097208c"]
+links = ["https://beta.musicbrainz.org/release/b31f3a7f-bb88-46c0-a3dc-f5340097208c", "https://vgmdb.net/album/15819"]
 
-[f3f25464b73405c2a441fd67cc60e1d7]
+[0a62799639c71db0095b5eafb26ee71b]
 catalognumber = "MSTBL022"
 date = "2009-12-30"
 album = "THE VERY BEST OF DJ A.Q. REMIXES"
@@ -1292,9 +1385,9 @@ tracks = [
     [14, "Dear you (DJ A.Q. Remix)", "DJ A.Q.", 0],
     [15, "One more time, One more chance (DJ A.Q. ELEKTORO REMIX)", "DJ A.Q.", 0],
 ]
-links = ["https://vgmdb.net/album/19255", "https://beta.musicbrainz.org/release/bc7520f1-fe8d-475c-b4ef-dcc15320af0c"]
+links = ["https://beta.musicbrainz.org/release/bc7520f1-fe8d-475c-b4ef-dcc15320af0c", "https://vgmdb.net/album/19255"]
 
-[ea56a0419783d177afeba39361ca29df]
+[2bb2a6886708701eff5ffb7bc9c1bbd1]
 catalognumber = "FVCG-1148"
 date = "2011-04-27"
 album = "ガトー・ショコラ / Kicco"
@@ -1312,9 +1405,9 @@ tracks = [
     [11, "情熱のウォブル", "Kicco", 0],
     [12, "名も無き物語", "Kicco", 0],
 ]
-links = ["https://vgmdb.net/album/27040", "https://beta.musicbrainz.org/release/a341f73a-1e99-4ec4-b456-f02d8ebd0a2e"]
+links = ["https://beta.musicbrainz.org/release/a341f73a-1e99-4ec4-b456-f02d8ebd0a2e", "https://vgmdb.net/album/27040"]
 
-[9afd341b85e17055689a2f72afb3e2bb]
+[0c5468c9669e7e4ee133c68f9958a83f]
 catalognumber = "VTCL-60301"
 date = "2012-04-25"
 album = "Red Planet / 新居昭乃"
@@ -1334,9 +1427,9 @@ tracks = [
     [13, "虹", "新居昭乃", 0],
     [14, "Happiness is here", "新居昭乃", 0],
 ]
-links = ["https://vgmdb.net/album/127019", "https://beta.musicbrainz.org/release/f3455d60-30fd-47c1-aaec-2638fa9de53c"]
+links = ["https://beta.musicbrainz.org/release/f3455d60-30fd-47c1-aaec-2638fa9de53c", "https://vgmdb.net/album/127019"]
 
-[92a3b78a6c764baf9b7011e96c2ee75e]
+[557a360c3204041b2fc3d822c1b0375c]
 catalognumber = "VTCL-60302"
 date = "2012-04-25"
 album = "Blue Planet / 新居昭乃"
@@ -1356,9 +1449,9 @@ tracks = [
     [13, "Sophia〜白の惑星", "新居昭乃", 0],
     [14, "ポーリーヌ、ポーリーヌ", "新居昭乃", 0],
 ]
-links = ["https://vgmdb.net/album/127179", "https://beta.musicbrainz.org/release/ea7b0a5f-d9b4-40b4-a13d-f3cbb11e8e93"]
+links = ["https://beta.musicbrainz.org/release/ea7b0a5f-d9b4-40b4-a13d-f3cbb11e8e93", "https://vgmdb.net/album/127179"]
 
-[dada9bc9f73d64b6bd16b296f9da0168]
+[664f10db42dcf75a7e3e4d1ed3ff3792]
 catalognumber = "TUHA-003"
 date = "2012-08-11"
 album = "fromage / 葉月ゆら+月子(La Bella Luna)"
@@ -1375,9 +1468,9 @@ tracks = [
     [10, "ゆらと月子のおしゃべり", "葉月ゆら & 月子", 0],
     [11, "推定可憐♪魔法少女", "葉月ゆら & 月子", 0],
 ]
-links = ["https://vgmdb.net/album/74642", "https://beta.musicbrainz.org/release/e5b35a81-219c-4f52-ae6b-5c3f3ff5f1ff"]
+links = ["https://beta.musicbrainz.org/release/e5b35a81-219c-4f52-ae6b-5c3f3ff5f1ff", "https://vgmdb.net/album/74642"]
 
-[779289f861dc242f89f747c00109a7c3]
+[a99cd2c603061bfcc323b0246a8ee5f9]
 catalognumber = "VTZL-49"
 date = "2012-11-28"
 album = "SINGLES BEST 2002-2012 MEMORIES / ROUND TABLE featuring Nino [Limited Edition] Disc 1 (CD) [VTCL-60320]"
@@ -1397,7 +1490,7 @@ tracks = [
     [13, "約束の場所", "ROUND TABLE featuring Nino", 0],
     [14, "メモリーズ", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/35350", "https://beta.musicbrainz.org/release/69f3efa7-fde3-48c5-9c5a-95490e44a0e4"]
+links = ["https://beta.musicbrainz.org/release/69f3efa7-fde3-48c5-9c5a-95490e44a0e4", "https://vgmdb.net/album/35350"]
 
 [e23d33db29d8ad3150bdf9b31ff66d69]
 catalognumber = "VTZL-49"
@@ -1421,7 +1514,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/35350"]
 
-[d2dc0c41c665c79eaf20bbfc5543a0b8]
+[b2547480a527f800992bb075b69ed12a]
 catalognumber = "VTCL-60320"
 date = "2012-11-28"
 album = "SINGLES BEST 2002-2012 MEMORIES / ROUND TABLE featuring Nino"
@@ -1441,9 +1534,9 @@ tracks = [
     [13, "約束の場所", "ROUND TABLE featuring Nino", 0],
     [14, "メモリーズ", "ROUND TABLE featuring Nino", 0],
 ]
-links = ["https://vgmdb.net/album/35349", "https://beta.musicbrainz.org/release/69f3efa7-fde3-48c5-9c5a-95490e44a0e4"]
+links = ["https://beta.musicbrainz.org/release/69f3efa7-fde3-48c5-9c5a-95490e44a0e4", "https://vgmdb.net/album/35349"]
 
-[26558f948d2963ed73275d7ab5da2b52]
+[ef58b13efcc8486d280291d30bf73f24]
 catalognumber = "VTCL-35218"
 date = "2015-11-11"
 album = "Brand-new World/ピアチェーレ / 西沢幸奏"
@@ -1455,7 +1548,7 @@ tracks = [
     [5, "ピアチェーレ (Instrumental)", "西沢幸奏", 0],
     [6, "Cross (Instrumental)", "西沢幸奏", 0],
 ]
-links = ["https://vgmdb.net/album/54664", "https://beta.musicbrainz.org/release/b62b4393-eb64-480f-8c0f-941437205a8d"]
+links = ["https://beta.musicbrainz.org/release/b62b4393-eb64-480f-8c0f-941437205a8d", "https://vgmdb.net/album/54664"]
 
 [7b8a72fd1cc6eca71e0e5663e61a7d60]
 catalognumber = "ARIAG-0001"
@@ -1471,7 +1564,7 @@ album = "ARIA The STATION Memoria"
 tracks = []
 links = ["https://vgmdb.net/album/59060"]
 
-[7f5e00867aeccac3eb212bdc2a2eb0bc]
+[a8f5eaafe6e2572bbb9cc2606008d8f1]
 catalognumber = "PJO-0002"
 date = "2016-12-31"
 album = "your name. EP"
@@ -1480,9 +1573,9 @@ tracks = [
     [2, "Don't say \"lazy\"", "Precious Jazz Orchestra", 0],
     [3, "Undine", "Precious Jazz Orchestra", 0],
 ]
-links = ["https://vgmdb.net/album/64760", "https://beta.musicbrainz.org/release/92c8990b-ec91-414d-95f7-e3747fc8470c"]
+links = ["https://beta.musicbrainz.org/release/92c8990b-ec91-414d-95f7-e3747fc8470c", "https://vgmdb.net/album/64760"]
 
-[07be8faf907600b19d32e1bc6f697af5]
+[a66428cc62e456a753ee7b0158ae4157]
 catalognumber = "VTCL-60447"
 date = "2017-03-15"
 album = "Break Your Fate / 西沢幸奏"
@@ -1500,9 +1593,9 @@ tracks = [
     [11, "帰還", "西沢幸奏", 0],
     [12, "Feel This Moment", "西沢幸奏", 0],
 ]
-links = ["https://vgmdb.net/album/64808", "https://beta.musicbrainz.org/release/f2b505ed-f630-4b6c-b918-3e6a19030d77"]
+links = ["https://beta.musicbrainz.org/release/f2b505ed-f630-4b6c-b918-3e6a19030d77", "https://vgmdb.net/album/64808"]
 
-[7ecb13e89b9969830ac884d793f2047a]
+[91132a96353a73da0e25e88a5187c66e]
 catalognumber = "VTZL-124"
 date = "2017-03-15"
 album = "Break Your Fate / 西沢幸奏 Disc 1 (CD) [VTCL-60447]"
@@ -1520,9 +1613,9 @@ tracks = [
     [11, "帰還", "西沢幸奏", 0],
     [12, "Feel This Moment", "西沢幸奏", 0],
 ]
-links = ["https://vgmdb.net/album/64810", "https://beta.musicbrainz.org/release/69f4be0a-b2a8-454f-8f18-e40085e224b7"]
+links = ["https://beta.musicbrainz.org/release/69f4be0a-b2a8-454f-8f18-e40085e224b7", "https://vgmdb.net/album/64810"]
 
-[8c04c494003e598ed0ff2534be37a424]
+[f0b439615b95d5cc3537e287d86af8cf]
 catalognumber = "VTZL-124"
 date = "2017-03-15"
 album = "Break Your Fate / 西沢幸奏 Disc 2 (DVD) [VTBY-140]"
@@ -1533,7 +1626,7 @@ tracks = [
     [4, "帰還 (Music Video)", "西沢幸奏", 0],
     [5, "Break your fate (Music Video)", "西沢幸奏", 0],
 ]
-links = ["https://vgmdb.net/album/64810", "https://beta.musicbrainz.org/release/69f4be0a-b2a8-454f-8f18-e40085e224b7"]
+links = ["https://beta.musicbrainz.org/release/69f4be0a-b2a8-454f-8f18-e40085e224b7", "https://vgmdb.net/album/64810"]
 
 [7dbe510c81f26b74176a86a5e1c997bd]
 catalognumber = "AW-010"
@@ -1600,7 +1693,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/83570"]
 
-[01739aa90004761c15790d346387aecf]
+[68d6d220a001873eb1f81983c8ae34a2]
 catalognumber = "TECI-1629"
 date = "2019-03-20"
 album = "UP!!!! / 牧野由依 Arrangement, Vocal"
@@ -1617,9 +1710,9 @@ tracks = [
     [10, "ハウリング", "牧野由依", 0],
     [11, "Cluster [UPDATE]", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/92888", "https://beta.musicbrainz.org/release/ff6f3b71-7208-497f-a7c3-858b0b4e6e86"]
+links = ["https://beta.musicbrainz.org/release/ff6f3b71-7208-497f-a7c3-858b0b4e6e86", "https://vgmdb.net/album/92888"]
 
-[e2a1839c2e5b13326d7d4c525ff548fd]
+[49bde286ae4d3e4d8c84811755a7289a]
 catalognumber = "TECI-1629"
 date = "2019-03-20"
 album = "UP!!!! / 牧野由依 Original Soundtrack, Arrangement, Vocal"
@@ -1636,9 +1729,9 @@ tracks = [
     [10, "アムリタ -弾き語り-", "牧野由依", 0],
     [11, "アルメリア -弾き語り-", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/92888", "https://beta.musicbrainz.org/release/ff6f3b71-7208-497f-a7c3-858b0b4e6e86"]
+links = ["https://beta.musicbrainz.org/release/ff6f3b71-7208-497f-a7c3-858b0b4e6e86", "https://vgmdb.net/album/92888"]
 
-[cb4ba6d7edc68c4d8f68e548eb2d1819]
+[210b17e3bc519eaefe306dc86750b363]
 catalognumber = "VICP-65552"
 date = "2019-10-23"
 album = "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.6~"
@@ -1659,9 +1752,9 @@ tracks = [
     [14, "もってけ! セーラーふく", "Rasmus Faber presents Platina Jazz", 0],
     [15, "甘き死よ、来たれ", "Rasmus Faber presents Platina Jazz", 0],
 ]
-links = ["https://vgmdb.net/album/90432", "https://beta.musicbrainz.org/release/3f3b58cc-c8ac-44ce-b303-da1d460b4c73"]
+links = ["https://beta.musicbrainz.org/release/3f3b58cc-c8ac-44ce-b303-da1d460b4c73", "https://vgmdb.net/album/90432"]
 
-[b43b28599b7389c7fbf7cf63f9c67a50]
+[1bd059a9a16e29d1d09eaa5cdb5766df]
 catalognumber = "VTCL-35326"
 date = "2021-03-03"
 album = "フェリチータ/echoes / 安野希世乃 [KIYONO盤]"
@@ -1672,9 +1765,9 @@ tracks = [
     [4, "フェリチータ —Instrumental—", "安野希世乃", 0],
     [5, "echoes —Instrumental—", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/107543", "https://beta.musicbrainz.org/release/5f91eeb3-de2f-4720-828e-cac61afe6d62"]
+links = ["https://beta.musicbrainz.org/release/5f91eeb3-de2f-4720-828e-cac61afe6d62", "https://vgmdb.net/album/107543"]
 
-[658f4fc5bbd978055e970784f4e67837]
+[54027299a7183df00f119eaa585b23f3]
 catalognumber = "VTCL-35325"
 date = "2021-03-03"
 album = "フェリチータ/echoes / 安野希世乃 [ARIA盤]"
@@ -1685,7 +1778,7 @@ tracks = [
     [4, "フェリチータ —Instrumental—", "安野希世乃", 0],
     [5, "echoes —Instrumental—", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/107542", "https://beta.musicbrainz.org/release/a44eee18-256b-4ade-a721-2f0b98ffc142"]
+links = ["https://beta.musicbrainz.org/release/a44eee18-256b-4ade-a721-2f0b98ffc142", "https://vgmdb.net/album/107542"]
 
 [e8ea87300dde698c456aa7769516d3a9]
 catalognumber = "UKSL-0006"
@@ -1717,7 +1810,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/111577"]
 
-[60e3989834b8fd6bd7cb8720fcef0ce2]
+[bab8f8283c22ebfa53884618ffa808f0]
 catalognumber = "VTZL-187"
 date = "2021-10-20"
 album = "おんなじキモチ。 / 安野希世乃 [初回限定盤] Vocal"
@@ -1728,7 +1821,7 @@ tracks = [
     [4, "Act 10 ～Dear My Characters～ -Instrumental-", "安野希世乃", 0],
     [5, "おんなじキモチ。 -Instrumental-", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/113644", "https://beta.musicbrainz.org/release/428cd967-74eb-41c4-9bb4-249628139f3f"]
+links = ["https://beta.musicbrainz.org/release/428cd967-74eb-41c4-9bb4-249628139f3f", "https://vgmdb.net/album/113644"]
 
 [78f4e0b59193dd742836956571d07b14]
 catalognumber = "VTZL-187"
@@ -1754,7 +1847,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113644"]
 
-[0bbadde12cb6189d0671d2aecf32879d]
+[f63ab3d733296bdd69fd3727979043c8]
 catalognumber = "VTCL-35337"
 date = "2021-12-01"
 album = "エスペーロ/ウンディーネ ～2021 edizione～ / 牧野由依 [ARIA盤]"
@@ -1765,9 +1858,9 @@ tracks = [
     [4, "エスペーロ without YUI", "牧野由依", 0],
     [5, "ウンディーネ ～2021 edizione～ without YUI", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/115069", "https://beta.musicbrainz.org/release/8821d16d-32d3-475c-9e62-854a0a117496"]
+links = ["https://beta.musicbrainz.org/release/8821d16d-32d3-475c-9e62-854a0a117496", "https://vgmdb.net/album/115069"]
 
-[ee3c954b57082c45818a2dd844a30332]
+[38a90281ad1f329992cc0909f7d900fa]
 catalognumber = "VTCL-60554"
 date = "2021-12-01"
 album = "「ARIA The CREPUSCOLO」「ARIA The BENEDIZIONE」オリジナルサウンドトラック quattro"
@@ -1800,9 +1893,9 @@ tracks = [
     [26, "旅立ちの空 〜ARIA Forever〜", "Choro Club feat. Senoo", 0],
     [27, "あこがれ 〜Winter Promenade Pianoforte〜", "Choro Club feat. Senoo", 0],
 ]
-links = ["https://vgmdb.net/album/115067", "https://beta.musicbrainz.org/release/dad38c13-7ac1-4d91-a7c1-cdffc0558f27"]
+links = ["https://beta.musicbrainz.org/release/dad38c13-7ac1-4d91-a7c1-cdffc0558f27", "https://vgmdb.net/album/115067"]
 
-[b27f362c29bf41332a99cfce36447593]
+[4a0265bbc35caeba8444c467046e898c]
 catalognumber = "VTCL-35338"
 date = "2021-12-01"
 album = "エスペーロ/ウンディーネ ～2021 edizione～ / 牧野由依 [YUI盤]"
@@ -1814,9 +1907,9 @@ tracks = [
     [5, "ウンディーネ ～2021 edizione～ without YUI", "牧野由依", 0],
     [6, "きみの鳥は歌える without YUI", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/115068", "https://beta.musicbrainz.org/release/a03903a6-f976-41e4-80d8-4d7c3dd759d4"]
+links = ["https://beta.musicbrainz.org/release/a03903a6-f976-41e4-80d8-4d7c3dd759d4", "https://vgmdb.net/album/115068"]
 
-[d2eca5a120fbab61efdea66cfe69c8b6]
+[e958febd76c2b81f4512a36d81309790]
 catalognumber = "VTZL-210"
 date = "2022-07-27"
 album = "A PIECE OF CAKE / 安野希世乃 [限定盤A]"
@@ -1835,9 +1928,9 @@ tracks = [
     [12, "echoes", "安野希世乃", 0],
     [13, "A piece of cake", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/120679", "https://beta.musicbrainz.org/release/1e47e65a-a8f2-4538-89f6-36e70a12c293"]
+links = ["https://beta.musicbrainz.org/release/1e47e65a-a8f2-4538-89f6-36e70a12c293", "https://vgmdb.net/album/120679"]
 
-[6c7b5888dc5eb9ea6b9511b61d5e46c9]
+[5e6a2fc89f53df2fc3e346fbce0abbec]
 catalognumber = "VTZL-211"
 date = "2022-07-27"
 album = "A PIECE OF CAKE / 安野希世乃 [限定盤B] Vocal"
@@ -1856,9 +1949,9 @@ tracks = [
     [12, "echoes", "安野希世乃", 0],
     [13, "A piece of cake", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/120680", "https://beta.musicbrainz.org/release/831f6792-cbdb-4f2a-a1d7-6c6c2477b534"]
+links = ["https://beta.musicbrainz.org/release/831f6792-cbdb-4f2a-a1d7-6c6c2477b534", "https://vgmdb.net/album/120680"]
 
-[f24cc34cdf493310282e1d5d305b75c6]
+[994ffb45b3450aac0444fdb57ac4a92c]
 catalognumber = "VTZL-211"
 date = "2022-07-27"
 album = "A PIECE OF CAKE / 安野希世乃 [限定盤B] Vocal, Video"
@@ -1869,9 +1962,9 @@ tracks = [
     [4, "世紀の祝祭 (Music Video)", "安野希世乃", 0],
     [5, "「世紀の祝祭」 Behind the Scenes", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/120680", "https://beta.musicbrainz.org/release/831f6792-cbdb-4f2a-a1d7-6c6c2477b534"]
+links = ["https://beta.musicbrainz.org/release/831f6792-cbdb-4f2a-a1d7-6c6c2477b534", "https://vgmdb.net/album/120680"]
 
-[bc1f304cb6a73b177da701076043bc08]
+[c03952b900af7e15eb51b3669f13c28f]
 catalognumber = "VTCL-60563"
 date = "2022-07-27"
 album = "A PIECE OF CAKE / 安野希世乃"
@@ -1890,7 +1983,7 @@ tracks = [
     [12, "echoes", "安野希世乃", 0],
     [13, "A piece of cake", "安野希世乃", 0],
 ]
-links = ["https://vgmdb.net/album/120678", "https://beta.musicbrainz.org/release/6f75c38d-f4f7-485e-b310-b4bc0a9641c7"]
+links = ["https://beta.musicbrainz.org/release/6f75c38d-f4f7-485e-b310-b4bc0a9641c7", "https://vgmdb.net/album/120678"]
 
 [fafe18a95eafe6f19dae2eb2b7752e34]
 catalognumber = "SHBR-0646-2"
@@ -1903,7 +1996,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118846"]
 
-[e3817e07fdbfa49c6a478ed27fd547b8]
+[41596718f4a01e285047b30e7d5a559f]
 catalognumber = "VTZL-216"
 date = "2022-10-05"
 album = "あなたとわたしを繋ぐもの / 牧野由依 [初回限定盤B]"
@@ -1916,9 +2009,9 @@ tracks = [
     [6, "ウンディーネ 〜2021 edizione〜", "牧野由依", 0],
     [7, "世界でいちばん愛しい音", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/121887", "https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464"]
+links = ["https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464", "https://vgmdb.net/album/121887"]
 
-[6867972eadca83b460318c989c86f39d]
+[65ca41b432205bb6970f8b76a377b893]
 catalognumber = "VTCL-60565"
 date = "2022-10-05"
 album = "あなたとわたしを繋ぐもの / 牧野由依"
@@ -1931,9 +2024,9 @@ tracks = [
     [6, "ウンディーネ 〜2021 edizione〜", "牧野由依", 0],
     [7, "世界でいちばん愛しい音", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/121886", "https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464"]
+links = ["https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464", "https://vgmdb.net/album/121886"]
 
-[da94101de0af23e24abbf59963a0c6d2]
+[6459a54149afdebf666e9ae03c487a33]
 catalognumber = "VTZL-215"
 date = "2022-10-05"
 album = "あなたとわたしを繋ぐもの / 牧野由依 [初回限定盤A] Vocal"
@@ -1946,7 +2039,7 @@ tracks = [
     [6, "ウンディーネ 〜2021 edizione〜", "牧野由依", 0],
     [7, "世界でいちばん愛しい音", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/121888", "https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464"]
+links = ["https://beta.musicbrainz.org/release/040d7378-a7df-42d1-9aa5-c0ac4b97d464", "https://vgmdb.net/album/121888"]
 
 [0331d2350da05faa4d923a98d4d5ea81]
 catalognumber = "VTZL-215"
@@ -1959,7 +2052,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121888"]
 
-[1bfe4a036894ebc31bf25014608478d1]
+[8d12a3045296af14ba87698b4f29dbaf]
 catalognumber = "VTCL-60647~9"
 date = "2025-06-25"
 album = "ARIA The BEST 2005-2025 Vocal Disc 1"
@@ -1979,9 +2072,9 @@ tracks = [
     [13, "エスペーロ", "牧野由依", 0],
     [14, "ウンディーネ ～2021 edizione～", "牧野由依", 0],
 ]
-links = ["https://vgmdb.net/album/150476", "https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539"]
+links = ["https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539", "https://vgmdb.net/album/150476"]
 
-[669d62de196115a9d12f245b1aa228dd]
+[272d31b332f90eb5d4570fd7b4f9a285]
 catalognumber = "VTCL-60647~9"
 date = "2025-06-25"
 album = "ARIA The BEST 2005-2025 Vocal Disc 2"
@@ -2000,9 +2093,9 @@ tracks = [
     [12, "バルカローレ～orchestra version～", "広橋涼 with 河井英里", 0],
     [13, "でっかいシアワセです。", "ウンディーネ娘 (広橋 涼・葉月絵理乃・斎藤千和) feat. アリア社長 (西村ちなみ)", 0],
 ]
-links = ["https://vgmdb.net/album/150476", "https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539"]
+links = ["https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539", "https://vgmdb.net/album/150476"]
 
-[744efccb69d3469e1c8e70cc893493f4]
+[16622cd7803c4b7a3f5aaf5fc1aa39fc]
 catalognumber = "VTCL-60647~9"
 date = "2025-06-25"
 album = "ARIA The BEST 2005-2025 Arrangement"
@@ -2016,7 +2109,7 @@ tracks = [
     [7, "フェリチータ", "窪田ミナ", 0],
     [8, "エスペーロ", "窪田ミナ", 0],
 ]
-links = ["https://vgmdb.net/album/150476", "https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539"]
+links = ["https://beta.musicbrainz.org/release/76550b2f-92b4-41ca-8f21-fe2cbe455539", "https://vgmdb.net/album/150476"]
 
 [0ff4f88a06a4c643086bc6e83ccc49de]
 catalognumber = "VTJL-40~1"
