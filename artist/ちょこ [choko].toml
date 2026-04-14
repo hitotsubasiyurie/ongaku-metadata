@@ -284,7 +284,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/edc602eb-0a1d-4072-b5b7-5cd9b2b5f7e2"]
 
-[86cce6522cf96fc922dfaec58b406fd8]
+[ada17f2f89c28366e83239410cbdb048]
 catalognumber = ""
 date = "2016-04-24"
 album = "ちょこれーとほりっく！"
@@ -298,7 +298,7 @@ tracks = [
     [7, "気づいてよあいらびゅ", "ちょこ", 0],
     [8, "告白大作戦", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5760", "https://beta.musicbrainz.org/release/a0432a17-fcb9-4695-b413-627e45cc035a"]
+links = ["https://beta.musicbrainz.org/release/a0432a17-fcb9-4695-b413-627e45cc035a", "https://www.dojin-music.info/cd/5760"]
 
 [258dd36ba96628ad66c66ff763e4c4bd]
 catalognumber = ""
@@ -377,7 +377,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4586"]
 
-[51d65994d9f66af6f125f9938db2ad7e]
+[12174588ec06caf75ed6671379b8b535]
 catalognumber = ""
 date = "2016-10-30"
 album = "ちょこれーときんぐだむ"
@@ -391,7 +391,7 @@ tracks = [
     [7, "ちょこっと◆きんぐだむ～イントロ～", "立秋", 0],
     [8, "ちょこっと◆きんぐだむ", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5759", "https://beta.musicbrainz.org/release/148581dd-e8ca-4c01-841a-4fa2b5bf2b82"]
+links = ["https://beta.musicbrainz.org/release/148581dd-e8ca-4c01-841a-4fa2b5bf2b82", "https://www.dojin-music.info/cd/5759"]
 
 [4d41a8942bd864f6b05d92c890e27fa9]
 catalognumber = ""
@@ -577,7 +577,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4584"]
 
-[8d0d26773d5430e784095f8c7e0e5190]
+[a6ffbfa926f1c7e1833b555475ccadfc]
 catalognumber = ""
 date = "2017-10-29"
 album = "Happy Night Festival"
@@ -591,7 +591,7 @@ tracks = [
     [7, "笑って！", "ちょこ", 0],
     [8, "はっぴぃないと☆ふぇすてぃばる", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5757", "https://beta.musicbrainz.org/release/ee3f7500-c117-4445-9a48-2c056b520404"]
+links = ["https://beta.musicbrainz.org/release/ee3f7500-c117-4445-9a48-2c056b520404", "https://www.dojin-music.info/cd/5757"]
 
 [cd3d5c79b6e771aede070e712b3125df]
 catalognumber = ""
@@ -644,7 +644,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6497"]
 
-[26efe3818840939c491159317324b669]
+[7ff2b446370f1cc7abcdcdca16c494b6]
 catalognumber = "RISH-0010"
 date = "2018-04-29"
 album = "Candy Pop Party"
@@ -658,7 +658,7 @@ tracks = [
     [7, "あめふりのロンド ～Long Version～", "ちょこ", 0],
     [8, "ぱあ ～ぱぱぱぱあver～", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5794", "https://beta.musicbrainz.org/release/ce85cb5a-120d-4f69-95bf-48150a885cba"]
+links = ["https://beta.musicbrainz.org/release/ce85cb5a-120d-4f69-95bf-48150a885cba", "https://www.dojin-music.info/cd/5794"]
 
 [d1f1695127da456b08cffc410f0235ae]
 catalognumber = ""
@@ -712,7 +712,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5609"]
 
-[8ebd3d6f9974eeb06386ed69b5ddeb2a]
+[2cc771e2b0d9e3672fd4bd5346ae7348]
 catalognumber = "CTDK-0007"
 date = "2018-04-29"
 album = "ちょこっと配信ちゅう！"
@@ -726,7 +726,7 @@ tracks = [
     [7, "ユメミルエレクトロ", "ちょこ", 0],
     [8, "おしかけ★ぱーちゅーば→ショコラ", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5756", "https://beta.musicbrainz.org/release/1a336019-e181-4c19-a38e-b5c91b94b528"]
+links = ["https://beta.musicbrainz.org/release/1a336019-e181-4c19-a38e-b5c91b94b528", "https://www.dojin-music.info/cd/5756"]
 
 [72ac93b293fe1f69cd4a98154a8a730f]
 catalognumber = ""
@@ -827,7 +827,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5766"]
 
-[290cfff19625e76e8bcfed1900a43dec]
+[e5baad59222b075827b4b74b86a5f16a]
 catalognumber = "CTDK-0008"
 date = "2018-10-28"
 album = "DREAM MAGIC"
@@ -840,9 +840,9 @@ tracks = [
     [6, "Make my special!", "ちょこ", 0],
     [7, "CANDY NIGHT PARADE!", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5754", "https://beta.musicbrainz.org/release/99aa2b9c-9c93-46d5-a74d-1f8d62eb8a11"]
+links = ["https://beta.musicbrainz.org/release/99aa2b9c-9c93-46d5-a74d-1f8d62eb8a11", "https://www.dojin-music.info/cd/5754"]
 
-[09e855e5750ea54e5600d391fe67f3d3]
+[3af022de8116053b2b81356f7f830b8b]
 catalognumber = ""
 date = "2018-10-28"
 album = "Champagne Night"
@@ -852,7 +852,7 @@ tracks = [
     [3, "キミに胸キュン☆シャンパンNight-inst-", "かたほとり", 0],
     [4, "だんだん好きになってゆく♡-Inst-", "ひろて〜", 0],
 ]
-links = ["https://www.dojin-music.info/cd/5755", "https://beta.musicbrainz.org/release/dfa04708-e3f6-4a86-bdf7-899ba8340e1c"]
+links = ["https://beta.musicbrainz.org/release/dfa04708-e3f6-4a86-bdf7-899ba8340e1c", "https://www.dojin-music.info/cd/5755"]
 
 [e8991867252511c3c3b5613f722e7ddc]
 catalognumber = ""
@@ -934,7 +934,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5612"]
 
-[fae0f6864bb9696dfd617d7d094461ac]
+[f37b1ea254d405e449d9cde3043d4ecd]
 catalognumber = "CTDK-0010"
 date = "2019-04-28"
 album = "Special C"
@@ -946,7 +946,7 @@ tracks = [
     [5, "Homing!", "ちょこ", 0],
     [6, "スペシャルC", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/4688", "https://beta.musicbrainz.org/release/9f28578c-6bd8-45f0-9ace-bdbb773e4888"]
+links = ["https://beta.musicbrainz.org/release/9f28578c-6bd8-45f0-9ace-bdbb773e4888", "https://www.dojin-music.info/cd/4688"]
 
 [176e780d07fc7e1aeffcdd3a1d42ebcc]
 catalognumber = ""
@@ -1140,7 +1140,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10176"]
 
-[50f2c919a1c84eb19913e66b859e7a96]
+[1f25339c7af8b737ff2015491d03f6bb]
 catalognumber = ""
 date = "2019-10-27"
 album = "キャンディプラネット"
@@ -1152,9 +1152,9 @@ tracks = [
     [5, "very * berry * planet", "ちょこ", 0],
     [6, "ヒカリフレーバー", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/9999", "https://beta.musicbrainz.org/release/ab2e31ca-c645-474a-9bb5-cf3307960702"]
+links = ["https://beta.musicbrainz.org/release/ab2e31ca-c645-474a-9bb5-cf3307960702", "https://www.dojin-music.info/cd/9999"]
 
-[716df7bb94f71128f015d2e166ace028]
+[810f418b9006894107ad6cdcbcaba0e7]
 catalognumber = ""
 date = "2019-10-27"
 album = "きゃんでぃほりっくないとめあ"
@@ -1162,7 +1162,7 @@ tracks = [
     [1, "きゃんでぃほりっくないとめあ", "ちょこ", 0],
     [2, "ハロハロハロウィン Rish Nightmare ver.", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/10805", "https://beta.musicbrainz.org/release/d2016c54-52c6-40b9-aea1-107590a93d78"]
+links = ["https://beta.musicbrainz.org/release/d2016c54-52c6-40b9-aea1-107590a93d78", "https://www.dojin-music.info/cd/10805"]
 
 [026cb55c7e8c5501e2a1bd79b287d2a2]
 catalognumber = ""
@@ -1293,7 +1293,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7af0edf8-d434-4e14-aa77-b9ddee2aee8a"]
 
-[0aea930d9121f4ef2a807a28edb8e733]
+[0a088ab423978d079f3b7890952710ee]
 catalognumber = "CTDK-0012"
 date = "2020-10-25"
 album = "ファンシーキョンシー"
@@ -1302,7 +1302,7 @@ tracks = [
     [2, "Again again", "ちょこ", 0],
     [3, "ほしくずのうた", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/22539", "https://beta.musicbrainz.org/release/bc272df9-9260-4d0a-a573-56a214449f7b"]
+links = ["https://beta.musicbrainz.org/release/bc272df9-9260-4d0a-a573-56a214449f7b", "https://www.dojin-music.info/cd/22539"]
 
 [5e0659f7aea4492bcd69a12311cf3aed]
 catalognumber = ""
@@ -1354,7 +1354,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bd4d3f14-a75b-4748-be93-80a75b5ce475"]
 
-[82a7949cf90994cad8cbf5d4108a01c6]
+[66aa717866b257580ee687dfffe90ab4]
 catalognumber = "CTDK-0013"
 date = "2021-04-25"
 album = "アイスワール"
@@ -1367,7 +1367,7 @@ tracks = [
     [6, "Stellar Magic Night", "ちょこ", 0],
     [7, "very * berry * planet (Capchii Remix)", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/24105", "https://beta.musicbrainz.org/release/f6a535df-e0c7-40f4-8d8a-88c6e8d235e1"]
+links = ["https://beta.musicbrainz.org/release/f6a535df-e0c7-40f4-8d8a-88c6e8d235e1", "https://www.dojin-music.info/cd/24105"]
 
 [7dab115d1876151e1485236d856791a1]
 catalognumber = ""
@@ -1383,14 +1383,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95374376-b78e-4582-a9b9-a668944d6b1f"]
 
-[d71f67b7e97990113c6e8ffad309caf8]
+[141d206c5a5c08ccaf2d81060bc80435]
 catalognumber = ""
 date = "2021-08-28"
 album = "スイートクリームソーダ"
 tracks = [
     [1, "スイートクリームソーダ", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/24602", "https://beta.musicbrainz.org/release/2d952471-b188-461d-839e-c09ef333fda6"]
+links = ["https://beta.musicbrainz.org/release/2d952471-b188-461d-839e-c09ef333fda6", "https://www.dojin-music.info/cd/24602"]
 
 [9ba167b4b38e0b30608cab215c83e64e]
 catalognumber = ""
@@ -1500,7 +1500,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/26970"]
 
-[5ef24b0ac2af462aa278fdb3112de8fe]
+[f2543e5c03e47e28771e4f7de811c1e3]
 catalognumber = "CTDK-0015"
 date = "2022-04-24"
 album = "夢見星とチョコレート"
@@ -1515,7 +1515,7 @@ tracks = [
     [8, "World wide Girl", "ちょこ", 0],
     [9, "オフライン・レコンキスタ", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/26940", "https://beta.musicbrainz.org/release/9e05f6aa-0904-4d73-a684-bee0346398de"]
+links = ["https://beta.musicbrainz.org/release/9e05f6aa-0904-4d73-a684-bee0346398de", "https://www.dojin-music.info/cd/26940"]
 
 [e3c20006fb70b5b86b88a37f1f2e3ef9]
 catalognumber = ""
@@ -1565,7 +1565,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/27857"]
 
-[ab38c6fbfbc1ad18a739d8a616e647ba]
+[04a56a6c247b97c5a0d7d5b33fc83b4c]
 catalognumber = "CTDK-0016"
 date = "2022-10-30"
 album = "おにらぶ♡"
@@ -1576,9 +1576,9 @@ tracks = [
     [4, "おにーちゃん♡元気づけ☆大作戦！", "ちょこ", 0],
     [5, "クソザコおにーちゃんは妹に罵られたい！(クソザコ立秋Remix)", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/28431", "https://beta.musicbrainz.org/release/ed70aee9-11ce-4441-bfa4-f7a0d5c9b87d"]
+links = ["https://beta.musicbrainz.org/release/ed70aee9-11ce-4441-bfa4-f7a0d5c9b87d", "https://www.dojin-music.info/cd/28431"]
 
-[199edf5893bc11a02aeed92548344751]
+[af692c5a6d0bb692aa713b6a7e272aad]
 catalognumber = "CTDK-0017"
 date = "2022-10-30"
 album = "甘色メルティータイム"
@@ -1592,7 +1592,7 @@ tracks = [
     [7, "恋色パティシエ(picco Remix)", "ちょこ", 0],
     [8, "コーヒーカップ・ラブ(irucaice Remix)", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/28322", "https://beta.musicbrainz.org/release/dc7c3113-617a-484b-9e52-8d26342de5ec"]
+links = ["https://beta.musicbrainz.org/release/dc7c3113-617a-484b-9e52-8d26342de5ec", "https://www.dojin-music.info/cd/28322"]
 
 [4e4cc9cf743d8c9ba2b110f9edd091c5]
 catalognumber = ""
@@ -1642,7 +1642,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/29072"]
 
-[143bf4c81d3b73988ed78cb0a086887c]
+[28fe2fd1fe1ecb950d2faf817b6aec5e]
 catalognumber = "CTDK-0018"
 date = "2023-04-30"
 album = "チョコレートシンドローム"
@@ -1653,7 +1653,7 @@ tracks = [
     [4, "ちょこ♡中毒", "ちょこ", 0],
     [5, "夢色カプセル", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/28935", "https://beta.musicbrainz.org/release/d87e8ac3-a0f0-483d-9a22-c6baad6ca815"]
+links = ["https://beta.musicbrainz.org/release/d87e8ac3-a0f0-483d-9a22-c6baad6ca815", "https://www.dojin-music.info/cd/28935"]
 
 [a76f4ed61e3d27b2b75fae39bb1b71c3]
 catalognumber = "RISH-0018"
@@ -1795,7 +1795,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a69f7b30-d780-4091-96cf-f5a36a957526"]
 
-[2b140b63906647b31b29e9b4e0971507]
+[3219a57dec2e00140b5b577f8d399135]
 catalognumber = "CTDK-0020"
 date = "2023-10-29"
 album = "Change!"
@@ -1807,7 +1807,7 @@ tracks = [
     [5, "MG5 ～マジでギャルする 5 秒前！？", "ちょこ", 0],
     [6, "嘘つきハートメーター", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/30302", "https://beta.musicbrainz.org/release/14d8d2ae-66a2-4a89-a28b-543c0e4a7271"]
+links = ["https://beta.musicbrainz.org/release/14d8d2ae-66a2-4a89-a28b-543c0e4a7271", "https://www.dojin-music.info/cd/30302"]
 
 [af967c16562e77c40604484e9bc50731]
 catalognumber = ""
@@ -1866,7 +1866,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/31549"]
 
-[d41a48623fdb9a1e3b27c5f7d12b9d9a]
+[ccb9aa313c1b0217fb75b42d5ec1f7ae]
 catalognumber = "CTDK-0021"
 date = "2024-04-28"
 album = "ラブコーション"
@@ -1877,7 +1877,7 @@ tracks = [
     [4, "無限ダラダラガンダーラ", "ちょこ", 0],
     [5, "キュンとキュート！", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/31138", "https://beta.musicbrainz.org/release/17d3d846-083b-4084-add1-8bfb9014e112"]
+links = ["https://beta.musicbrainz.org/release/17d3d846-083b-4084-add1-8bfb9014e112", "https://www.dojin-music.info/cd/31138"]
 
 [d5fe9152aeed42a187cdd7797f48af7e]
 catalognumber = "RISH-0021"
@@ -1896,7 +1896,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b903dd9f-8581-476b-a479-935e24c309e2"]
 
-[c54454f745529a60d43191b53863102c]
+[51251148d5b72c728886536db6851f19]
 catalognumber = ""
 date = "2024-10-27"
 album = "午前0時に待ち合わせ"
@@ -1909,9 +1909,9 @@ tracks = [
     [6, "Monopoly Love", "ちょこ", 0],
     [7, "向こう側の君へ", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/32290", "https://beta.musicbrainz.org/release/5406048c-d452-4fc1-8890-d8f9dd9ac7c3"]
+links = ["https://beta.musicbrainz.org/release/5406048c-d452-4fc1-8890-d8f9dd9ac7c3", "https://www.dojin-music.info/cd/32290"]
 
-[5cf1f31d741b80496db653fdab98cea5]
+[36510cfec9685e188fc41120e960f5ab]
 catalognumber = "CTDK-0022"
 date = "2025-04-27"
 album = "僕はキャラメルポップコーンになりたい！"
@@ -1923,7 +1923,7 @@ tracks = [
     [5, "あまべた★ソルティキャット", "ちょこ", 0],
     [6, "僕はキャラメルポップコーン！", "ちょこ", 0],
 ]
-links = ["https://www.dojin-music.info/cd/33472", "https://beta.musicbrainz.org/release/9be0a922-0e1c-43e3-b2ef-a5a37f1eaba8"]
+links = ["https://beta.musicbrainz.org/release/9be0a922-0e1c-43e3-b2ef-a5a37f1eaba8", "https://www.dojin-music.info/cd/33472"]
 
 [9e9acdd2a3c8e9787dbb8f9e9eb95d4a]
 catalognumber = ""
