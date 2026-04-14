@@ -91,7 +91,23 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4468"]
 
-[b3c43847b8c5f5a893a20135471d2382]
+[d4371852f344a5fde572c257cb33d471]
+catalognumber = "JBCJ-9004"
+date = "2003-07-21"
+album = "THE BEST OF TV ANIMATION SLAM DUNK 〜Single Collection〜"
+tracks = [
+    [1, "君が好きだと叫びたい", "BAAD", 0],
+    [2, "あなただけ見つめてる", "大黒摩季", 0],
+    [3, "世界が終るまでは…", "WANDS", 0],
+    [4, "煌めく瞬間に捕われて", "MANISH", 0],
+    [5, "ぜったいに 誰も", "ZYYG", 0],
+    [6, "マイ フレンド", "ZARD", 0],
+    [7, "ENDLESS CHAIN 〜CINE VERSION〜", "BAAD", 0],
+    [8, "煌めく瞬間に捕われて 〜CINE VERSION〜", "MANISH", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d161ea2e-9e80-4649-80d7-873c67f711ad"]
+
+[d612cea5a069fec4ec06146ece61e2e5]
 catalognumber = "LC2208~10"
 date = "2014-03-26"
 album = "Third / 泉 陸奥彦 Disc 1 [LC2208]"
@@ -125,9 +141,9 @@ tracks = [
     [27, "MODEL DD6", "MUTSUHIKO IZUMI", 0],
     [28, "Holy Snow (Album Version)", "泉陸奥彦", 0],
 ]
-links = ["https://vgmdb.net/album/127593", "https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65"]
+links = ["https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65", "https://vgmdb.net/album/127593"]
 
-[063b1fe994a4695fba59d757c692eb18]
+[6353d0d00b335414f0f769f62e753707]
 catalognumber = "LC2208~10"
 date = "2014-03-26"
 album = "Third / 泉 陸奥彦 Disc 2 [LC2209]"
@@ -166,9 +182,9 @@ tracks = [
     [32, "Ready Go!!", "荒牧陽子", 0],
     [33, "歌の翼", "あーたん", 0],
 ]
-links = ["https://vgmdb.net/album/127593", "https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65"]
+links = ["https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65", "https://vgmdb.net/album/127593"]
 
-[a1b0c37152ebccb3bc24fa597054e724]
+[5542595b476a8937595e9e559d552bfa]
 catalognumber = "LC2208~10"
 date = "2014-03-26"
 album = "Third / 泉 陸奥彦 Disc 3 [LC2210]"
@@ -229,4 +245,4 @@ tracks = [
     [54, "SWING, SWING～“A” JAM BLUES", "泉陸奥彦", 0],
     [55, "RED SUN", "泉陸奥彦", 0],
 ]
-links = ["https://vgmdb.net/album/127593", "https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65"]
+links = ["https://beta.musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65", "https://vgmdb.net/album/127593"]

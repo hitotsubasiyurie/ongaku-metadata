@@ -1,4 +1,14 @@
-[de15b244f95733ae99b04aec14e6bb5a]
+[4c3dd525795269311c011b921dbc0509]
+catalognumber = ""
+date = ""
+album = "ブルーアーカイブ 絆ダイアローグ Vol.20 「ヒナ」"
+tracks = [
+    [1, "温もりのそばで、羽を預けて", "ヒナ(CV:広橋涼)", 0],
+    [2, "温もりのそばで、羽を預けて(Instrumental Ver.)", "ヒナ(CV:広橋涼)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4b183981-ac66-4df9-a3a4-124331f1306b"]
+
+[99c309397be557b9b77fc8a4d5c15c00]
 catalognumber = "KICM-2078"
 date = "2021-03-31"
 album = "Clear Morning / 小倉唯"
@@ -8,9 +18,9 @@ tracks = [
     [3, "Clear Morning (off vocal ver)", "小倉唯", 0],
     [4, "pyu♥a purely (off vocal ver)", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/108549", "https://beta.musicbrainz.org/release/c1c662a1-9887-46d3-af73-7bc5226074ee"]
+links = ["https://beta.musicbrainz.org/release/c1c662a1-9887-46d3-af73-7bc5226074ee", "https://vgmdb.net/album/108549"]
 
-[2f24b4bab818de32bbba353bc54c5f2c]
+[e6efbf2a7d5b7abe78d2498f36214081]
 catalognumber = "KICM-92078"
 date = "2021-03-31"
 album = "Clear Morning / 小倉唯 [期間限定盤] Vocal"
@@ -20,7 +30,7 @@ tracks = [
     [3, "Clear Morning (off vocal ver)", "小倉唯", 0],
     [4, "pyu♥a purely (off vocal ver)", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/108550", "https://beta.musicbrainz.org/release/c1c662a1-9887-46d3-af73-7bc5226074ee"]
+links = ["https://beta.musicbrainz.org/release/c1c662a1-9887-46d3-af73-7bc5226074ee", "https://vgmdb.net/album/108550"]
 
 [931d901767d47c538872ad2df9160066]
 catalognumber = "KICM-92078"
@@ -32,14 +42,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108550"]
 
-[fe9d22602c33b7ec7122eeb8e8b5853c]
+[6b51310b48e3867719cf91d8c2af3085]
 catalognumber = "N/A"
 date = "2021-11-08"
 album = "Target for love / 이진아"
 tracks = [
     [1, "Target for love", "이진아", 0],
 ]
-links = ["https://vgmdb.net/album/116664", "https://beta.musicbrainz.org/release/d4a0b7ca-8c41-4110-91b0-aecc0a31c5a4"]
+links = ["https://beta.musicbrainz.org/release/d4a0b7ca-8c41-4110-91b0-aecc0a31c5a4", "https://vgmdb.net/album/116664"]
 
 [f31ceae43aa9661c45c249eb5a572fcc]
 catalognumber = "N/A"
@@ -73,7 +83,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122055"]
 
-[ef64427ecd35075d988272dc98caec52]
+[3d9fd0c55fb66c17e03b2a19bcbc73f7]
 catalognumber = "KIZC-657~9"
 date = "2022-02-16"
 album = "Tarte / 小倉唯 Vocal"
@@ -91,9 +101,9 @@ tracks = [
     [11, "CiaoCiao Afternoon", "小倉唯", 0],
     [12, "桜色ラビネス", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116284", "https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513"]
+links = ["https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513", "https://vgmdb.net/album/116284"]
 
-[917e411242aaf2bac4fd9d65b1382bee]
+[f98856535334cc215bbf95c53216ae83]
 catalognumber = "KIZC-657~9"
 date = "2022-02-16"
 album = "Tarte / 小倉唯 Vocal, Video"
@@ -121,9 +131,9 @@ tracks = [
     [21, "Making of Very Merry Happy Christmas", "小倉唯", 0],
     [22, "Very Merry Happy Christmas (#ゆいとの思い出【お泊まり編】) (おまけ)", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116284", "https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513"]
+links = ["https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513", "https://vgmdb.net/album/116284"]
 
-[fddf58c1b35034daa5ee1b07e97c9aeb]
+[c94609e2dbf6b825c36a4db4856c5079]
 catalognumber = "KIZC-657~9"
 date = "2022-02-16"
 album = "Tarte / 小倉唯 Vocal, Live Event, Video"
@@ -158,9 +168,9 @@ tracks = [
     [28, "Tinkling Smile <ENCORE> (LIVE TOUR 2019「Step Apple」)", "小倉唯", 0],
     [29, "Honey□Come!! <ENCORE> (1st LIVE TOUR「High-Touch☆Summer」)", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116284", "https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513"]
+links = ["https://beta.musicbrainz.org/release/5c4fd5bb-ba6e-4417-9c69-6d6f74666513", "https://vgmdb.net/album/116284"]
 
-[9744c13e3fa05508a8cfbb1e5b1944bb]
+[b98d0225810a114871e24e8ae6baf760]
 catalognumber = "KIZC-660~1"
 date = "2022-02-16"
 album = "Tarte / 小倉唯 Vocal"
@@ -178,9 +188,9 @@ tracks = [
     [11, "CiaoCiao Afternoon", "小倉唯", 0],
     [12, "桜色ラビネス", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116283", "https://beta.musicbrainz.org/release/0f9f4ad9-af91-46d1-baa5-5ce2c43d06c3"]
+links = ["https://beta.musicbrainz.org/release/0f9f4ad9-af91-46d1-baa5-5ce2c43d06c3", "https://vgmdb.net/album/116283"]
 
-[3cecf673a959ae3e6edd416f7bb6142e]
+[cc2a86d9bb5161efa8ab969e1a97589c]
 catalognumber = "KIZC-660~1"
 date = "2022-02-16"
 album = "Tarte / 小倉唯 Vocal, Video"
@@ -208,9 +218,9 @@ tracks = [
     [21, "Making of Very Merry Happy Christmas", "小倉唯", 0],
     [22, "Very Merry Happy Christmas (#ゆいとの思い出【お泊まり編】) (おまけ)", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116283", "https://beta.musicbrainz.org/release/0f9f4ad9-af91-46d1-baa5-5ce2c43d06c3"]
+links = ["https://beta.musicbrainz.org/release/0f9f4ad9-af91-46d1-baa5-5ce2c43d06c3", "https://vgmdb.net/album/116283"]
 
-[6b2f2543e3c5f63092dbb375821af597]
+[51096dc4d7f360f37fcf3ff8b0a3f60f]
 catalognumber = "KICS-4040"
 date = "2022-02-16"
 album = "Tarte / 小倉唯"
@@ -228,9 +238,9 @@ tracks = [
     [11, "CiaoCiao Afternoon", "小倉唯", 0],
     [12, "桜色ラビネス", "小倉唯", 0],
 ]
-links = ["https://vgmdb.net/album/116282", "https://beta.musicbrainz.org/release/3274b6bd-d83a-4e18-89f3-7a5a8bf1b4c2"]
+links = ["https://beta.musicbrainz.org/release/3274b6bd-d83a-4e18-89f3-7a5a8bf1b4c2", "https://vgmdb.net/album/116282"]
 
-[2c8573c80c8072e4731de132bdfbeefc]
+[6a3f9dbe67466760466b71675ecc3c73]
 catalognumber = "N/A"
 date = "2022-03-10"
 album = "Blue Echolocation: Blue Archive Arrange Album Disc 1"
@@ -262,9 +272,9 @@ tracks = [
     [25, "Shooting Stars Triplets", "o29_831", 0],
     [26, "Twilight Trip", "o29_831", 0],
 ]
-links = ["https://vgmdb.net/album/122521", "https://beta.musicbrainz.org/release/ebbb0de6-ebfe-448f-9195-016596c6b4b1"]
+links = ["https://beta.musicbrainz.org/release/ebbb0de6-ebfe-448f-9195-016596c6b4b1", "https://vgmdb.net/album/122521"]
 
-[7ae460a625616d2e8af47623011f6c6b]
+[de36b59dc76694d536ee802da9158c1b]
 catalognumber = "N/A"
 date = "2022-03-10"
 album = "Blue Echolocation: Blue Archive Arrange Album Disc 2"
@@ -287,9 +297,9 @@ tracks = [
     [16, "Αναζήτηση για την Κιβωτός στο Ντεβαλόκα", "o29_831", 0],
     [17, "Connected Sky -Dance with our halos!-", "o29_831", 0],
 ]
-links = ["https://vgmdb.net/album/122521", "https://beta.musicbrainz.org/release/ebbb0de6-ebfe-448f-9195-016596c6b4b1"]
+links = ["https://beta.musicbrainz.org/release/ebbb0de6-ebfe-448f-9195-016596c6b4b1", "https://vgmdb.net/album/122521"]
 
-[b64bca8954f92cf48d23cd26cf77212b]
+[c5483805c7523af30ccaeef0f179d680]
 catalognumber = "BACD-0001"
 date = "2022-03-25"
 album = "ブルーアーカイブ Original Soundtrack Vol.1 ~Longing for the memorable days~ Disc 1 [BACD-0001-1]"
@@ -315,9 +325,9 @@ tracks = [
     [19, "Rolling beat", "Mitsukiyo", 0],
     [20, "Accelerator", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/117861", "https://beta.musicbrainz.org/release/8baecda4-f155-40f6-a173-8f6b98cede5b"]
+links = ["https://beta.musicbrainz.org/release/8baecda4-f155-40f6-a173-8f6b98cede5b", "https://vgmdb.net/album/117861"]
 
-[6e9aad0a0595eb05c7822274e2101932]
+[d22caccf30a71e4389349ec8a58613ce]
 catalognumber = "BACD-0001"
 date = "2022-03-25"
 album = "ブルーアーカイブ Original Soundtrack Vol.1 ~Longing for the memorable days~ Disc 2 [BACD-0001-2]"
@@ -342,9 +352,9 @@ tracks = [
     [18, "Fevertime", "KARUT", 0],
     [19, "Library of Omen", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/117861", "https://beta.musicbrainz.org/release/8baecda4-f155-40f6-a173-8f6b98cede5b"]
+links = ["https://beta.musicbrainz.org/release/8baecda4-f155-40f6-a173-8f6b98cede5b", "https://vgmdb.net/album/117861"]
 
-[344ce51005bbc09565ec4ca4bd83db87]
+[915e2b256a987ba9b58d6632da26b7c4]
 catalognumber = "BACD-003"
 date = "2022-04-02"
 album = "キラメクMiLieへ / イタズラ☆ストレート"
@@ -353,7 +363,7 @@ tracks = [
     [2, "キラメクMiLieへ(Short Ver.)", "イタズラ☆ストレート《アリス(CV:田中美海)、アル(CV:近藤玲奈)、ヒフミ(CV:本渡楓)、ユウカ(CV:春花らん)》", 0],
     [3, "キラメクMiLieへ(Instrumental Ver.)", "イタズラ☆ストレート《アリス(CV:田中美海)、アル(CV:近藤玲奈)、ヒフミ(CV:本渡楓)、ユウカ(CV:春花らん)》", 0],
 ]
-links = ["https://vgmdb.net/album/119106", "https://beta.musicbrainz.org/release/8aa6add1-d812-4a43-8146-f41c59aa4175"]
+links = ["https://beta.musicbrainz.org/release/8aa6add1-d812-4a43-8146-f41c59aa4175", "https://vgmdb.net/album/119106"]
 
 [26c4e3a08bae8a768abc15e3c4d2dd76]
 catalognumber = "N/A"
@@ -385,7 +395,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/122058"]
 
-[84de5d66611302aedfe7fa9907a0ee38]
+[e1845ebb63e39f8cfa607b61b7be7d19]
 catalognumber = "BACD-0004"
 date = "2022-09-22"
 album = "Blue Archive Original Soundtrack Vol.2 ~Searching for the unknown truth~ Disc 1"
@@ -401,9 +411,9 @@ tracks = [
     [9, "OperationD", "Nor", 0],
     [10, "someday, sometime", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/121696", "https://beta.musicbrainz.org/release/92b97dfd-9f11-4601-8573-8e19b3a399d7"]
+links = ["https://beta.musicbrainz.org/release/92b97dfd-9f11-4601-8573-8e19b3a399d7", "https://vgmdb.net/album/121696"]
 
-[e5cc7fd401dede5f9540ab4f62360319]
+[dc0a7d6fd3aa47a431c131e373518e5a]
 catalognumber = "BACD-0004"
 date = "2022-09-22"
 album = "Blue Archive Original Soundtrack Vol.2 ~Searching for the unknown truth~ Disc 2"
@@ -420,9 +430,9 @@ tracks = [
     [10, "GGF", "Nor", 0],
     [11, "Hello to Halo", "Nor", 0],
 ]
-links = ["https://vgmdb.net/album/121696", "https://beta.musicbrainz.org/release/92b97dfd-9f11-4601-8573-8e19b3a399d7"]
+links = ["https://beta.musicbrainz.org/release/92b97dfd-9f11-4601-8573-8e19b3a399d7", "https://vgmdb.net/album/121696"]
 
-[b4682bf8eee9bf34274759dac92746d1]
+[1115c118beb5f118bcc215450fe48f6c]
 catalognumber = "BACD-0005"
 date = "2022-10-01"
 album = "かがやきサマーデイズ / アビドス高等学校対策委員会"
@@ -431,9 +441,9 @@ tracks = [
     [2, "かがやきサマーデイズ(Short Ver.)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
     [3, "かがやきサマーデイズ(Instrumental Ver.)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
 ]
-links = ["https://vgmdb.net/album/121695", "https://beta.musicbrainz.org/release/056df675-6b19-4701-a797-1969b2793060"]
+links = ["https://beta.musicbrainz.org/release/056df675-6b19-4701-a797-1969b2793060", "https://vgmdb.net/album/121695"]
 
-[cadf4f927ac3daed305cd78b7c508f3b]
+[004095fa61e7e32352328713df83dc95]
 catalognumber = "BACD-0006"
 date = "2022-10-12"
 album = "ドラマCD 舞台袖のかくしごと～キヴォトス晄輪大祭～"
@@ -442,9 +452,9 @@ tracks = [
     [2, "続々と訪れる人たち", "空崎ヒナ(CV:広橋涼)氷室セナ(CV:大西沙織)鷲見セリナ(CV:涼本あきほ)", 0],
     [3, "集まって、支え合って", "空崎ヒナ(CV:広橋涼)氷室セナ(CV:大西沙織)鷲見セリナ(CV:涼本あきほ)", 0],
 ]
-links = ["https://vgmdb.net/album/126119", "https://beta.musicbrainz.org/release/7c24afd4-7f62-4983-aaf9-73405f7e56d9"]
+links = ["https://beta.musicbrainz.org/release/7c24afd4-7f62-4983-aaf9-73405f7e56d9", "https://vgmdb.net/album/126119"]
 
-[eb50ef0d6701ba25b7d1564000e12d62]
+[613a45523bf64b0d3c5caaed07d14185]
 catalognumber = "BACD-0009"
 date = "2022-11-23"
 album = "わたしたちのクエスト / モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)"
@@ -453,9 +463,9 @@ tracks = [
     [2, "わたしたちのクエスト(Short Ver.)", "モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)", 0],
     [3, "わたしたちのクエスト(Instrumental Ver.)", "モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)", 0],
 ]
-links = ["https://vgmdb.net/album/117844", "https://beta.musicbrainz.org/release/4902d144-2bc9-412e-a325-05134846ad46"]
+links = ["https://beta.musicbrainz.org/release/4902d144-2bc9-412e-a325-05134846ad46", "https://vgmdb.net/album/117844"]
 
-[77b53471c045c8438fd7fdb3997cb111]
+[c86ea43b72384f1e5f3f943eb31d6e22]
 catalognumber = "QMCD-0003"
 date = "2022-12-29"
 album = "Blue Archive 1st Anniversary OST Disc 1"
@@ -481,9 +491,9 @@ tracks = [
     [19, "Rolling beat", "Mitsukiyo", 0],
     [20, "Accelerator", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/125567", "https://beta.musicbrainz.org/release/85bc0ffc-7c17-42f1-a526-354a6ec6fadd"]
+links = ["https://beta.musicbrainz.org/release/85bc0ffc-7c17-42f1-a526-354a6ec6fadd", "https://vgmdb.net/album/125567"]
 
-[ee828bc938b4455a26a457a6f5910691]
+[5d09777730b12edf17ee4ef2c0a625c0]
 catalognumber = "QMCD-0003"
 date = "2022-12-29"
 album = "Blue Archive 1st Anniversary OST Disc 2"
@@ -508,7 +518,7 @@ tracks = [
     [18, "Fevertime", "KARUT", 0],
     [19, "Library of Omen", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/125567", "https://beta.musicbrainz.org/release/85bc0ffc-7c17-42f1-a526-354a6ec6fadd"]
+links = ["https://beta.musicbrainz.org/release/85bc0ffc-7c17-42f1-a526-354a6ec6fadd", "https://vgmdb.net/album/125567"]
 
 [c5ca4796d58b3ea1eeaa4becc0cb5973]
 catalognumber = "N/A"
@@ -539,7 +549,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/126124"]
 
-[7b465861424ffbd695a09f8b15dd59ca]
+[87472ebd368928ae0f8ae91c3f86e031]
 catalognumber = "NMCD-0021"
 date = "2023-04-16"
 album = "Clippings of youth vol.1"
@@ -556,7 +566,7 @@ tracks = [
     [10, "Serenity Flowering", "o29_831", 0],
     [11, "Unwelcome School (tettere- nekomix) inst ver.", "ねこみりん", 0],
 ]
-links = ["https://vgmdb.net/album/128119", "https://beta.musicbrainz.org/release/f5426ce1-6dfe-443d-928b-d047e437ed00"]
+links = ["https://beta.musicbrainz.org/release/f5426ce1-6dfe-443d-928b-d047e437ed00", "https://vgmdb.net/album/128119"]
 
 [877295b2563eeeb4a335a1a98ffb5ac1]
 catalognumber = "LOLPR-054"
@@ -576,7 +586,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/128754"]
 
-[110efaac77071500d96c8a0e645417e2]
+[576e00c084a2effd1ddbfa68d5676acc]
 catalognumber = "ARCA-0001"
 date = "2023-04-30"
 album = "Memoria; Preces"
@@ -591,9 +601,9 @@ tracks = [
     [8, "Singular of Semiotic World(s)", "What A Shino", 0],
     [9, "Run through", "YUKIYANAGI", 0],
 ]
-links = ["https://vgmdb.net/album/133527", "https://beta.musicbrainz.org/release/fb861c39-dbfd-4b0f-ad55-3ce2e827133f"]
+links = ["https://beta.musicbrainz.org/release/fb861c39-dbfd-4b0f-ad55-3ce2e827133f", "https://vgmdb.net/album/133527"]
 
-[98cf74d265019e706e069569260dd1f0]
+[5acffd81ea2a771800782290d0a03ede]
 catalognumber = "BACD-0007"
 date = "2023-05-12"
 album = "Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~ Disc 1"
@@ -612,9 +622,9 @@ tracks = [
     [12, "Walkthrough", "Nor", 0],
     [13, "Aira", "Mitsukiyo", 0],
 ]
-links = ["https://vgmdb.net/album/126116", "https://beta.musicbrainz.org/release/45638fdb-2c47-485e-b66f-dc146630b445"]
+links = ["https://beta.musicbrainz.org/release/45638fdb-2c47-485e-b66f-dc146630b445", "https://vgmdb.net/album/126116"]
 
-[8e424d2fcb397065f9939e534db41c53]
+[07e1d355fbb8a9305a9f2bbd4f50739c]
 catalognumber = "BACD-0007"
 date = "2023-05-12"
 album = "Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~ Disc 2"
@@ -633,9 +643,9 @@ tracks = [
     [12, "Moment", "Nor", 0],
     [13, "Constant Moderato Piano Arrange", "Mitsukiyo", 0],
 ]
-links = ["https://vgmdb.net/album/126116", "https://beta.musicbrainz.org/release/45638fdb-2c47-485e-b66f-dc146630b445"]
+links = ["https://beta.musicbrainz.org/release/45638fdb-2c47-485e-b66f-dc146630b445", "https://vgmdb.net/album/126116"]
 
-[2954b8692edd76114bdb5eb939d0ec70]
+[7550ae497cb224bbc48ba7934b088f78]
 catalognumber = "BACD-0010"
 date = "2023-05-12"
 album = "Blue Archive Extra Soundtrack"
@@ -654,9 +664,9 @@ tracks = [
     [12, "One. Two. Henshin!", "ミツキヨ", 0],
     [13, "Nobis", "ミツキヨ", 0],
 ]
-links = ["https://vgmdb.net/album/126115", "https://beta.musicbrainz.org/release/faf949db-81ac-435f-bf96-42b1ac103760"]
+links = ["https://beta.musicbrainz.org/release/faf949db-81ac-435f-bf96-42b1ac103760", "https://vgmdb.net/album/126115"]
 
-[0f9f779a57bd1885d42b96aed25e6eaf]
+[9570f3b8cfc6a231e492d884964b4e92]
 catalognumber = "N/A"
 date = "2023-05-20"
 album = "Blue Archive Symphony: Unofficial Orchestral Arrangement Album"
@@ -702,7 +712,7 @@ tracks = [
     [39, "RE Aoharu", "Nor", 0],
     [40, "Constant Moderato (Grand Finale)", "Mitsukiyo, KARUT & Nor", 0],
 ]
-links = ["https://vgmdb.net/album/129767", "https://beta.musicbrainz.org/release/f4aa2766-1f63-47bf-8e5b-36ff024850f8"]
+links = ["https://beta.musicbrainz.org/release/f4aa2766-1f63-47bf-8e5b-36ff024850f8", "https://vgmdb.net/album/129767"]
 
 [86bf9910949eb669939e17b58a744dea]
 catalognumber = "N/A"
@@ -722,14 +732,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147468"]
 
-[5f0d5bb3e515d33bd1c7a7ce6ad5e8c3]
+[9e1ed92eb7485d06b2647c3ddc80f2da]
 catalognumber = "VVXX-01488"
 date = "2023-08-04"
 album = "Blue Canvas / ClariS"
 tracks = [
     [1, "Blue Canvas", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131380", "https://beta.musicbrainz.org/release/2ad51006-ad7e-4192-8e9c-822ff4161998"]
+links = ["https://beta.musicbrainz.org/release/2ad51006-ad7e-4192-8e9c-822ff4161998", "https://vgmdb.net/album/131380"]
 
 [d95a71827a5fd4e99ae2a3f1e794ce9a]
 catalognumber = "N/A"
@@ -754,7 +764,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/131089"]
 
-[6d62c09ea3c1ed92887c0c75f2c18200]
+[daf9c50ae11aec9230603bd8218ab727]
 catalognumber = "N/A"
 date = "2023-08-05"
 album = "Blue Archive Symphony: Unofficial Orchestral Arrangement Album Disc 2 (Download Code)"
@@ -800,9 +810,9 @@ tracks = [
     [39, "RE Aoharu", "Nor", 0],
     [40, "Constant Moderato (Grand Finale)", "Mitsukiyo, KARUT & Nor", 0],
 ]
-links = ["https://vgmdb.net/album/131089", "https://beta.musicbrainz.org/release/f4aa2766-1f63-47bf-8e5b-36ff024850f8"]
+links = ["https://beta.musicbrainz.org/release/f4aa2766-1f63-47bf-8e5b-36ff024850f8", "https://vgmdb.net/album/131089"]
 
-[cb8f7548bc672a02ee43ebe599f3827c]
+[ba4a5096d03f5ae3287465de2e454f2b]
 catalognumber = "N/A"
 date = "2023-08-05"
 album = "Kivotos of Rock"
@@ -813,9 +823,9 @@ tracks = [
     [4, "Library of Omen", "Jiho Park", 0],
     [5, "Luminous Memory", "Jiho Park", 0],
 ]
-links = ["https://vgmdb.net/album/131088", "https://beta.musicbrainz.org/release/16722126-7350-4a9d-bfa2-2cf80de8fe40"]
+links = ["https://beta.musicbrainz.org/release/16722126-7350-4a9d-bfa2-2cf80de8fe40", "https://vgmdb.net/album/131088"]
 
-[ae51081f0d32881e5c197ee5392a971f]
+[139c80db616f2c35b873b9eb5f18bd7b]
 catalognumber = "VVCL-2322"
 date = "2023-08-23"
 album = "コイセカイ / ClariS"
@@ -826,9 +836,9 @@ tracks = [
     [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
     [5, "コイセカイ -Instrumental-", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131573", "https://beta.musicbrainz.org/release/284b5556-6560-401a-92b7-ca6aded1ba38"]
+links = ["https://beta.musicbrainz.org/release/284b5556-6560-401a-92b7-ca6aded1ba38", "https://vgmdb.net/album/131573"]
 
-[6c9003eee593d10f067692c809301cc0]
+[273e268ba3f83c2e2f2cc0257464644e]
 catalognumber = "VVCL-2320~1"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [初回生産限定盤] Disc 1 (CD) [VVCL-2320]"
@@ -839,9 +849,9 @@ tracks = [
     [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
     [5, "コイセカイ -Instrumental-", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131899", "https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38"]
+links = ["https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38", "https://vgmdb.net/album/131899"]
 
-[35341b78dfaea295157b698c20ebf9d2]
+[6a095e415fc43adcab75960f33d4f479]
 catalognumber = "VVCL-2320~1"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [初回生産限定盤] Disc 2 (Blu-ray) [VVCL-2321]"
@@ -856,9 +866,9 @@ tracks = [
     [8, "コネクト (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
     [9, "PRECIOUS (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131899", "https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38"]
+links = ["https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38", "https://vgmdb.net/album/131899"]
 
-[7dfa6e100f5cdb2cf531c8e3d15d1f07]
+[8ad8a664fdae935860e2aacc13bda590]
 catalognumber = "VVCL-2323~4"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [期間生産限定盤] Disc 1 (CD) [VVCL-2323]"
@@ -869,18 +879,18 @@ tracks = [
     [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
     [5, "コイセカイ -TV MIX-", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131900", "https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f"]
+links = ["https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f", "https://vgmdb.net/album/131900"]
 
-[ed0c8589981f333b09c9af00231611f9]
+[11844329bf112469444241c5d670ec66]
 catalognumber = "VVCL-2323~4"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [期間生産限定盤] Disc 2 (DVD) [VVCL-2324]"
 tracks = [
     [1, "TVアニメ「白聖女と黒牧師」ノンクレジットオープニングムービー", "ClariS", 0],
 ]
-links = ["https://vgmdb.net/album/131900", "https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f"]
+links = ["https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f", "https://vgmdb.net/album/131900"]
 
-[8a5a4a6447057f606ecd3246ae03af82]
+[fd1075fa2a387fd559b292fed01c924b]
 catalognumber = "N/A"
 date = "2023-10-07"
 album = "Kivotos of Rock ~The False Sanctum~"
@@ -891,9 +901,9 @@ tracks = [
     [4, "Goz Battle Theme", "NezMayo", 0],
     [5, "Gregoris Battle Theme", "NezMayo", 0],
 ]
-links = ["https://vgmdb.net/album/132060", "https://beta.musicbrainz.org/release/9e267669-a71c-4e7d-a8f2-183b404f9f2c"]
+links = ["https://beta.musicbrainz.org/release/9e267669-a71c-4e7d-a8f2-183b404f9f2c", "https://vgmdb.net/album/132060"]
 
-[73bf7d1b189497785bbbf0308f428543]
+[b1aac8dbd3c56707ff473f114c33c8ce]
 catalognumber = "BACD-0011"
 date = "2023-10-08"
 album = "優しさの記憶 / 鹿乃"
@@ -901,9 +911,9 @@ tracks = [
     [1, "優しさの記憶", "鹿乃", 0],
     [2, "優しさの記憶(Instrumental Ver.)", "鹿乃", 0],
 ]
-links = ["https://vgmdb.net/album/131095", "https://beta.musicbrainz.org/release/fe8dc8b1-2a31-43b8-87c3-b1ff65e93828"]
+links = ["https://beta.musicbrainz.org/release/fe8dc8b1-2a31-43b8-87c3-b1ff65e93828", "https://vgmdb.net/album/131095"]
 
-[2c3c2ae66ef002ab57f6005aaf2ca9db]
+[6bee39ad1505b8ce3d2213918513ffee]
 catalognumber = "BACD-0012"
 date = "2023-10-10"
 album = "ワンダー・ファニー・ハーモニー / サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)"
@@ -912,9 +922,9 @@ tracks = [
     [2, "ワンダー・ファニー・ハーモニー(Short Ver.)", "サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)", 0],
     [3, "ワンダー・ファニー・ハーモニー(Instrumental Ver.)", "サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)", 0],
 ]
-links = ["https://vgmdb.net/album/131097", "https://beta.musicbrainz.org/release/22b6a11c-d69b-4ebc-a723-4169ff266108"]
+links = ["https://beta.musicbrainz.org/release/22b6a11c-d69b-4ebc-a723-4169ff266108", "https://vgmdb.net/album/131097"]
 
-[2226af0fad1acb49307bfbf9b482bdaa]
+[7d40e07533af5f5c7b7fea313fa300ba]
 catalognumber = "BACD-0008"
 date = "2023-10-18"
 album = "ブルーアーカイブ Original Soundtrack Vol.4 ~Aiming for the ideal freedom~ Disc 1"
@@ -934,9 +944,9 @@ tracks = [
     [13, "Blue New Battle", "ミツキヨ", 0],
     [14, "Tasty New Year", "Nor", 0],
 ]
-links = ["https://vgmdb.net/album/131096", "https://beta.musicbrainz.org/release/b6ebdba4-0b68-4ffc-aa1d-23674ef56955"]
+links = ["https://beta.musicbrainz.org/release/b6ebdba4-0b68-4ffc-aa1d-23674ef56955", "https://vgmdb.net/album/131096"]
 
-[ad11ed859c6dc59b0fd907746f7662a4]
+[1e2f21af64dcb646e3ee16969f4622d9]
 catalognumber = "BACD-0008"
 date = "2023-10-18"
 album = "ブルーアーカイブ Original Soundtrack Vol.4 ~Aiming for the ideal freedom~ Disc 2"
@@ -956,9 +966,9 @@ tracks = [
     [13, "Aoharu Band Arrange", "ミツキヨ", 0],
     [14, "Our New Story", "ミツキヨ", 0],
 ]
-links = ["https://vgmdb.net/album/131096", "https://beta.musicbrainz.org/release/b6ebdba4-0b68-4ffc-aa1d-23674ef56955"]
+links = ["https://beta.musicbrainz.org/release/b6ebdba4-0b68-4ffc-aa1d-23674ef56955", "https://vgmdb.net/album/131096"]
 
-[6cc9f6848db545e5da9368912e170c8a]
+[ee13ed3761cfaff16d0393ba49a71de1]
 catalognumber = "NMCD-0022"
 date = "2023-10-22"
 album = "Clippings of youth vol.2"
@@ -976,9 +986,9 @@ tracks = [
     [11, "My Daily Routine", "lent/らん", 0],
     [12, "After School Party People!!!!! inst ver.", "ねこみりん", 0],
 ]
-links = ["https://vgmdb.net/album/133418", "https://beta.musicbrainz.org/release/f295a6da-93a3-4c1f-a1f4-21d8eace0aef"]
+links = ["https://beta.musicbrainz.org/release/f295a6da-93a3-4c1f-a1f4-21d8eace0aef", "https://vgmdb.net/album/133418"]
 
-[4b4b38921f951e9994374fa475229763]
+[5a2da611de51dd7e6d13c0f01938ac78]
 catalognumber = "N/A"
 date = "2023-10-29"
 album = "Blue Archive Band Arrange Album Vol.1"
@@ -990,9 +1000,9 @@ tracks = [
     [5, "Cozy Noisy Time", "ちょる", 0],
     [6, "Catch Me If U Can", "ayakashi", 0],
 ]
-links = ["https://vgmdb.net/album/133353", "https://beta.musicbrainz.org/release/d5dab226-d3ca-40a5-9b9c-13b562120d73"]
+links = ["https://beta.musicbrainz.org/release/d5dab226-d3ca-40a5-9b9c-13b562120d73", "https://vgmdb.net/album/133353"]
 
-[e5f49c925643c335d32397622ad69b9d]
+[7ea756edd314940faffa839c11485dbb]
 catalognumber = "ARCA-0002"
 date = "2023-10-29"
 album = "Memoria; Graphicus"
@@ -1009,9 +1019,9 @@ tracks = [
     [10, "REmember Blue", "Alicemetix", 0],
     [11, "Your Graffiti", "JJJ", 0],
 ]
-links = ["https://vgmdb.net/album/133659", "https://beta.musicbrainz.org/release/2a78d9b8-e99a-43a0-8e92-323074b4ba3a"]
+links = ["https://beta.musicbrainz.org/release/2a78d9b8-e99a-43a0-8e92-323074b4ba3a", "https://vgmdb.net/album/133659"]
 
-[d4cda873af0b6cba84eb5d213cdcb034]
+[60de7453196539553c79c5602566f30e]
 catalognumber = "N/A"
 date = "2023-12-16"
 album = "Memories in Blue."
@@ -1025,9 +1035,9 @@ tracks = [
     [7, "GIVE ME CHOCO♡ (quilt heron remix)", "quilt heron, copiest. & Minstein", 0],
     [8, "RE Aoharu -afterwards-", "quilt heron, copiest. & Minstein", 0],
 ]
-links = ["https://vgmdb.net/album/148419", "https://beta.musicbrainz.org/release/81c003e1-d2dd-4713-9a82-eaa59b74c0a7"]
+links = ["https://beta.musicbrainz.org/release/81c003e1-d2dd-4713-9a82-eaa59b74c0a7", "https://vgmdb.net/album/148419"]
 
-[97e63cde18c40a04be3ccb538d7e8837]
+[4ccfda485f0c6d96b079f5ca90d7c598]
 catalognumber = "QMCD-0008"
 date = "2023-12-18"
 album = "Blue Archive 2nd Anniversary Original Sound Track Disc 1"
@@ -1043,9 +1053,9 @@ tracks = [
     [9, "OperationD", "Nor", 0],
     [10, "someday, sometime", "KARUT", 0],
 ]
-links = ["https://vgmdb.net/album/140436", "https://beta.musicbrainz.org/release/526c2802-1356-4408-9d31-9da09cfb4d9c"]
+links = ["https://beta.musicbrainz.org/release/526c2802-1356-4408-9d31-9da09cfb4d9c", "https://vgmdb.net/album/140436"]
 
-[a81e4e610245236a09cc9430a3e00d4d]
+[44e22e514c350c09e5d0f8bd2bbe446d]
 catalognumber = "QMCD-0008"
 date = "2023-12-18"
 album = "Blue Archive 2nd Anniversary Original Sound Track Disc 2"
@@ -1062,7 +1072,7 @@ tracks = [
     [10, "GGF", "Nor", 0],
     [11, "Hello to Halo", "Nor", 0],
 ]
-links = ["https://vgmdb.net/album/140436", "https://beta.musicbrainz.org/release/526c2802-1356-4408-9d31-9da09cfb4d9c"]
+links = ["https://beta.musicbrainz.org/release/526c2802-1356-4408-9d31-9da09cfb4d9c", "https://vgmdb.net/album/140436"]
 
 [f82d46904d24d073f22514cc3d069703]
 catalognumber = "N/A"
@@ -1076,7 +1086,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145673"]
 
-[ee337f68ca72290ad1c54b047ad4f427]
+[db064524cee4a03ef9919aa460273298]
 catalognumber = "LOLPR-056"
 date = "2023-12-30"
 album = "lol project 056:Spinning for the memorable fragments -Blue Archive unofficial fan arrange vol.2-"
@@ -1093,9 +1103,9 @@ tracks = [
     [10, "Hello to Halo", "Utena", 0],
     [11, "RE Aoharu", "Thanatos", 0],
 ]
-links = ["https://vgmdb.net/album/135068", "https://beta.musicbrainz.org/release/407e478e-ed12-474a-8cd1-bd72118e426a"]
+links = ["https://beta.musicbrainz.org/release/407e478e-ed12-474a-8cd1-bd72118e426a", "https://vgmdb.net/album/135068"]
 
-[f31294996ca89f9c69de8220a66e6f43]
+[3565dddd2be8d6a6911ba88d01634f9f]
 catalognumber = "KORJP-0001"
 date = "2023-12-30"
 album = "Kivotos of Rock"
@@ -1110,9 +1120,9 @@ tracks = [
     [8, "Gregorius Battle Theme", "NezMayo", 0],
     [9, "Luminous Memory", "Jiho Park", 0],
 ]
-links = ["https://vgmdb.net/album/135800", "https://beta.musicbrainz.org/release/dcccacab-f6a1-47a9-ab37-2781c4e64b49"]
+links = ["https://beta.musicbrainz.org/release/dcccacab-f6a1-47a9-ab37-2781c4e64b49", "https://vgmdb.net/album/135800"]
 
-[04b7c177e01a93d7d1aace081b57462d]
+[db435569ae3f3f9fff0cc147b2f721d2]
 catalognumber = "NMCD-0023"
 date = "2023-12-30"
 album = "クロレラE.P."
@@ -1126,9 +1136,9 @@ tracks = [
     [7, "TOMODACHI PLANKTON", "o29_831", 0],
     [8, "????", "????", 0],
 ]
-links = ["https://vgmdb.net/album/136055", "https://beta.musicbrainz.org/release/37f25424-cbec-4f23-ad4e-3b6abc6cb3ca"]
+links = ["https://beta.musicbrainz.org/release/37f25424-cbec-4f23-ad4e-3b6abc6cb3ca", "https://vgmdb.net/album/136055"]
 
-[680063258e487447f98895ada39b544c]
+[a2d5168200745cabdb3ae70e40a1abfa]
 catalognumber = "EMCD-0016"
 date = "2023-12-30"
 album = "The Memory of Archive"
@@ -1145,9 +1155,9 @@ tracks = [
     [10, "Glitch Street (ARForest Remix)", "ARForest", 0],
     [11, "Blood Stained Faith (RiraN Remix)", "RiraN", 0],
 ]
-links = ["https://vgmdb.net/album/135313", "https://beta.musicbrainz.org/release/c5ab451d-7014-4fee-8f66-51946429b8bf"]
+links = ["https://beta.musicbrainz.org/release/c5ab451d-7014-4fee-8f66-51946429b8bf", "https://vgmdb.net/album/135313"]
 
-[835ee32f95b54d6d1044e4bc886282fb]
+[a727a83972c0e67bbea4c57075c46e62]
 catalognumber = "BACD-0014"
 date = "2024-01"
 album = "ブルーアーカイブ 青春あんさんぶる Vol.1 「アロナ」/ アロナ (CV:小原好美)"
@@ -1156,9 +1166,9 @@ tracks = [
     [2, "エブリディいっしょ♪ (Instrumental Ver.)", "アロナ (CV:小原好美)", 0],
     [3, "ボイスドラマ Vol.1 「アロナのお掃除大作戦！」", "[dialogue]", 0],
 ]
-links = ["https://vgmdb.net/album/133032", "https://beta.musicbrainz.org/release/69c3492c-6b9a-4b8d-ae1b-969e6eae9d69"]
+links = ["https://beta.musicbrainz.org/release/69c3492c-6b9a-4b8d-ae1b-969e6eae9d69", "https://vgmdb.net/album/133032"]
 
-[458f138b3464f345312738fc4598592b]
+[382c327a7373a1bab32042ff2f8e3274]
 catalognumber = "N/A"
 date = "2024-02-17"
 album = "Memories in Blue. vol.2"
@@ -1171,9 +1181,9 @@ tracks = [
     [6, "별똥별 한 접시 (Shooting Stars Arrange)", "Minstein", 0],
     [7, "훗날, 언젠가 (Someday, Sometimes Arrange)", "quilt heron", 0],
 ]
-links = ["https://vgmdb.net/album/148420", "https://beta.musicbrainz.org/release/bdb1ed31-bc8e-4bba-95c9-e81bc8828e39"]
+links = ["https://beta.musicbrainz.org/release/bdb1ed31-bc8e-4bba-95c9-e81bc8828e39", "https://vgmdb.net/album/148420"]
 
-[410ab5756025038909e48d85bbb6fd33]
+[a904e16f3af45448c4587a4e56b90b76]
 catalognumber = "N/A"
 date = "2024-02-17"
 album = "Kivotos Of Rock ~ 少女夢想"
@@ -1185,9 +1195,9 @@ tracks = [
     [5, "Cherry Merry Berry", "Jiho Park", 0],
     [6, "Blooming moon", "Jiho Park", 0],
 ]
-links = ["https://vgmdb.net/album/136227", "https://beta.musicbrainz.org/release/0342679c-67a2-4d60-abd9-2fe27dba3268"]
+links = ["https://beta.musicbrainz.org/release/0342679c-67a2-4d60-abd9-2fe27dba3268", "https://vgmdb.net/album/136227"]
 
-[1673a90131c07ff550a04723ede7cfc8]
+[6d2d1957d99e966a16fb66306c4d8969]
 catalognumber = "N/A"
 date = "2024-02-17"
 album = "밀레니엄 게임음악부!"
@@ -1199,9 +1209,9 @@ tracks = [
     [5, "Goal Wo Nerae!", "ENnE", 0],
     [6, "Out of Control", "ENnE", 0],
 ]
-links = ["https://vgmdb.net/album/147469", "https://beta.musicbrainz.org/release/31a5deeb-694a-4354-a87c-28147a6baa1b"]
+links = ["https://beta.musicbrainz.org/release/31a5deeb-694a-4354-a87c-28147a6baa1b", "https://vgmdb.net/album/147469"]
 
-[d389b429dff1ad7a9c2688e5f8320bf6]
+[50697fd4e3c69a7d55187ba3e70ce754]
 catalognumber = "N/A"
 date = "2024-02-17"
 album = "키보토스의 밤"
@@ -1213,9 +1223,9 @@ tracks = [
     [5, "Burning Love", "ChestnutWhale", 0],
     [6, "Midnight Trip", "ChestnutWhale", 0],
 ]
-links = ["https://vgmdb.net/album/147467", "https://beta.musicbrainz.org/release/8eb7ab08-20b9-4d4d-8aca-e529a6822a1c"]
+links = ["https://beta.musicbrainz.org/release/8eb7ab08-20b9-4d4d-8aca-e529a6822a1c", "https://vgmdb.net/album/147467"]
 
-[80cf2acad75c9cb04e903c5fb17f6093]
+[31c096421d274a89a2f0d3a1424c92ad]
 catalognumber = "BACD-0016"
 date = "2024-03"
 album = "ブルーアーカイブ 青春あんさんぶる Vol.2 「ヴェリタス」/ チヒロ (CV:山村響)、コタマ (CV:高川みな)、マキ (CV:三上枝織)、ハレ (CV:貝原怜奈)"
@@ -1224,9 +1234,9 @@ tracks = [
     [2, "Get Over the World (Instrumental Ver.)", "ヴェリタス《チヒロ(CV:山村響)、コタマ(CV:高川みな)、ハレ(CV:貝原怜奈)、マキ(CV:三上枝織)》", 0],
     [3, "ボイスドラマ Vol.2 「Rest ＆ Panic」", "[dialogue]", 0],
 ]
-links = ["https://vgmdb.net/album/135281", "https://beta.musicbrainz.org/release/66660d36-96ef-4cd6-8d68-f99333f25be1"]
+links = ["https://beta.musicbrainz.org/release/66660d36-96ef-4cd6-8d68-f99333f25be1", "https://vgmdb.net/album/135281"]
 
-[ce26295856cf3f9971d88c67303cea92]
+[a6d10c8b507a232e0dea72eb55fb1eb3]
 catalognumber = "BACD-0019"
 date = "2024-04"
 album = "ブルーアーカイブ 青春あんさんぶる Vol.3 「便利屋68」 / 便利屋68"
@@ -1234,9 +1244,9 @@ tracks = [
     [1, "一日一惡★レッツゴー！", "便利屋68《アル(CV:近藤玲奈)、ムツキ(CV:大久保瑠美)、カヨコ(CV:藤井ゆきよ)、ハルカ(CV:石飛恵里花)》", 0],
     [2, "一日一惡★レッツゴー！(Instrumental Ver.)", "便利屋68《アル(CV:近藤玲奈)、ムツキ(CV:大久保瑠美)、カヨコ(CV:藤井ゆきよ)、ハルカ(CV:石飛恵里花)》", 0],
 ]
-links = ["https://vgmdb.net/album/136051", "https://beta.musicbrainz.org/release/a4356c50-67e5-4502-a524-95aba09e7bea"]
+links = ["https://beta.musicbrainz.org/release/a4356c50-67e5-4502-a524-95aba09e7bea", "https://vgmdb.net/album/136051"]
 
-[1c8591b07ffe4c57f59e662ce9bfd22b]
+[8425a974d95e7f16062101a365d3bd24]
 catalognumber = "BACD-0018"
 date = "2024-04"
 album = "澄んだ青空、萌ゆる心 / カスミ (CV.上坂すみれ)、ユカリ (CV.村上まなつ)、モミジ (CV.大亀あすか)、ハレ (CV.貝原怜奈)、エイミ ( CV.松永あかね)"
@@ -1244,9 +1254,9 @@ tracks = [
     [1, "澄んだ青空、萌ゆる心", "カスミ(CV:上坂すみれ)、ユカリ(CV:村上まなつ)、モミジ(CV:大亀あすか)、ハレ(CV:貝原怜奈)、エイミ(CV:松永あかね)", 0],
     [2, "澄んだ青空、萌ゆる心(Instrumental Ver.)", "カスミ(CV:上坂すみれ)、ユカリ(CV:村上まなつ)、モミジ(CV:大亀あすか)、ハレ(CV:貝原怜奈)、エイミ(CV:松永あかね)", 0],
 ]
-links = ["https://vgmdb.net/album/136048", "https://beta.musicbrainz.org/release/03143c38-36c7-4380-9f3f-d53e8a3e6aff"]
+links = ["https://beta.musicbrainz.org/release/03143c38-36c7-4380-9f3f-d53e8a3e6aff", "https://vgmdb.net/album/136048"]
 
-[9e9f7eb7ea276b177ee35d3f4281897f]
+[1121d62f8d74ab9bd674dca1adf4d59e]
 catalognumber = "BACD-0017"
 date = "2024-04"
 album = "全力絶対Come☆True / イタズラ☆ストレート"
@@ -1255,9 +1265,9 @@ tracks = [
     [2, "全力絶対Come☆True(Short Ver.)", "イタズラ☆ストレート《アリス(CV:田中美海)、アル(CV:近藤玲奈)、ヒフミ(CV:本渡楓)、ユウカ(CV:春花らん)、ノノミ(CV:三浦千幸)》", 0],
     [3, "全力絶対Come☆True(Instrumental Ver.)", "イタズラ☆ストレート《アリス(CV:田中美海)、アル(CV:近藤玲奈)、ヒフミ(CV:本渡楓)、ユウカ(CV:春花らん)、ノノミ(CV:三浦千幸)》", 0],
 ]
-links = ["https://vgmdb.net/album/136047", "https://beta.musicbrainz.org/release/b9836f03-032a-4f59-8c16-242acb1865d7"]
+links = ["https://beta.musicbrainz.org/release/b9836f03-032a-4f59-8c16-242acb1865d7", "https://vgmdb.net/album/136047"]
 
-[a9d4d99f77421e0d32785197659e2371]
+[06a5dd1df502e74ef7d17f61f0ae4ab0]
 catalognumber = "NMCD-0024"
 date = "2024-04-07"
 album = "Clippings of youth vol.3"
@@ -1275,9 +1285,42 @@ tracks = [
     [11, "My utmost for shes highest", "o29_831", 0],
     [12, "????", "o29_831", 0],
 ]
-links = ["https://vgmdb.net/album/138163", "https://beta.musicbrainz.org/release/4f13c9a4-b198-4c93-a0be-098d83cfcec5"]
+links = ["https://beta.musicbrainz.org/release/4f13c9a4-b198-4c93-a0be-098d83cfcec5", "https://vgmdb.net/album/138163"]
 
-[319566ebaef158302c69536fdd78d3b6]
+[7a4f1de012a75788f33e45329c149b4f]
+catalognumber = ""
+date = "2024-04-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.1 「シロコ」"
+tracks = [
+    [1, "あゆみ", "シロコ(CV:小倉唯)", 0],
+    [2, "あゆみ(Instrumental Ver.)", "シロコ(CV:小倉唯)", 0],
+    [3, "Dialogue Vol.1「前略、終わらない鼓動と」", "シロコ(CV:小倉唯)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d5339cfb-b77d-4dd6-8126-2df9fe7dce15"]
+
+[e3a622b509db06a22b8d0982d7a36351]
+catalognumber = ""
+date = "2024-04-21"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.4 「忍術研究部」"
+tracks = [
+    [1, "忍術研究部!只今参上!の巻。", "忍術研究部《ミチル(CV:水橋かおり)、イズナ(CV:阿澄佳奈)、ツクヨ(CV:後藤彩佐)》", 0],
+    [2, "忍術研究部!只今参上!の巻。(Instrumental Ver.)", "忍術研究部《ミチル(CV:水橋かおり)、イズナ(CV:阿澄佳奈)、ツクヨ(CV:後藤彩佐)》", 0],
+    [3, "ボイスドラマ Vol.4 「忍法・妹系後輩の術!?」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e2957d1c-38bf-426a-8331-c488fe5fc34b"]
+
+[91b3b5f595d0ab86dcd3a4e30b5b0161]
+catalognumber = ""
+date = "2024-04-21"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.5 「補習授業部」"
+tracks = [
+    [1, "手つなぎハッピーエンド", "補習授業部《ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)》", 0],
+    [2, "手つなぎハッピーエンド(Instrumental Ver.)", "補習授業部《ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)》", 0],
+    [3, "ボイスドラマ Vol.5 「夏と水着とエッチじゃないもの」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8c350a91-7163-4b30-a645-bec4a6b89d56"]
+
+[24c97682c1754ad96eb12eb896df33d5]
 catalognumber = "ARCA-0003"
 date = "2024-04-28"
 album = "Memoria; Ver"
@@ -1293,9 +1336,9 @@ tracks = [
     [9, "Dawn at the Summit", "What A Shino", 0],
     [10, "Filp It!", "DENPA-SAMPLER", 0],
 ]
-links = ["https://vgmdb.net/album/143595", "https://beta.musicbrainz.org/release/5038e17c-0f98-4f71-a9a7-99aea8ad1c8d"]
+links = ["https://beta.musicbrainz.org/release/5038e17c-0f98-4f71-a9a7-99aea8ad1c8d", "https://vgmdb.net/album/143595"]
 
-[d22675019c2bce3ffed3864b6eb32cf8]
+[ad7e50eda94f99bf0822b4ad36015688]
 catalognumber = "KMCD-0001"
 date = "2024-04-28"
 album = "Jazz Archive"
@@ -1311,9 +1354,9 @@ tracks = [
     [9, "Midnight Trip", "kanmi", 0],
     [10, "Irasshaimase", "kanmi", 0],
 ]
-links = ["https://vgmdb.net/album/141628", "https://beta.musicbrainz.org/release/abce519b-f253-480d-b96f-eb204282493a"]
+links = ["https://beta.musicbrainz.org/release/abce519b-f253-480d-b96f-eb204282493a", "https://vgmdb.net/album/141628"]
 
-[cb3bdb20b040032387a61c230af4d9c3]
+[7f94e8b5b82169a886a7b3f21f36577a]
 catalognumber = "N/A"
 date = "2024-05-04"
 album = "Hi-Voltage Arisu"
@@ -1334,9 +1377,9 @@ tracks = [
     [14, "Twilight Trip", "SimoFrost", 0],
     [15, "Thank You for Playing", "lomi", 0],
 ]
-links = ["https://vgmdb.net/album/145668", "https://beta.musicbrainz.org/release/661fddad-db51-4526-a32e-66dd5fc11b74"]
+links = ["https://beta.musicbrainz.org/release/661fddad-db51-4526-a32e-66dd5fc11b74", "https://vgmdb.net/album/145668"]
 
-[8088cbbdf63827947d011c57afa15e66]
+[5bdaf4ca6f8718144f2a59065d95da96]
 catalognumber = "BACD-0013"
 date = "2024-05-16"
 album = "Blue Archive Original Soundtrack Vol.5 ~Striving for the bloomy festival~ Disc 1"
@@ -1355,9 +1398,9 @@ tracks = [
     [12, "Tsukikage", "Nor", 0],
     [13, "KIRISAME", "Nor", 0],
 ]
-links = ["https://vgmdb.net/album/136032", "https://beta.musicbrainz.org/release/f9deab78-5670-4094-b133-62a9da9a4fe7"]
+links = ["https://beta.musicbrainz.org/release/f9deab78-5670-4094-b133-62a9da9a4fe7", "https://vgmdb.net/album/136032"]
 
-[8eba48347922f7d5f323ca9abb962475]
+[b44dea38f07b4e583053aac25c5a055e]
 catalognumber = "BACD-0013"
 date = "2024-05-16"
 album = "Blue Archive Original Soundtrack Vol.5 ~Striving for the bloomy festival~ Disc 2"
@@ -1377,7 +1420,7 @@ tracks = [
     [13, "Dark Shadows", "KARUT", 0],
     [14, "Fruitful Blossom", "ミツキヨ", 0],
 ]
-links = ["https://vgmdb.net/album/136032", "https://beta.musicbrainz.org/release/f9deab78-5670-4094-b133-62a9da9a4fe7"]
+links = ["https://beta.musicbrainz.org/release/f9deab78-5670-4094-b133-62a9da9a4fe7", "https://vgmdb.net/album/136032"]
 
 [8807e0cc71a7df7a285e6d888f2059a8]
 catalognumber = "N/A"
@@ -1389,7 +1432,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/148424"]
 
-[b1b16d72b61b65c3a90e8de1f7e25bf6]
+[541c983032c8dc2eede932d8d1300672]
 catalognumber = "N/A"
 date = "2024-05-19"
 album = "지금부터 트리니티 교가 제창이 있겠습니다"
@@ -1403,7 +1446,7 @@ tracks = [
     [7, "Hifumi Daisuki[Instrumental]", "ENnE", 0],
     [8, "ナギサ様のヒフミダイスキ!![Instrumental]", "ENnE", 0],
 ]
-links = ["https://vgmdb.net/album/148418", "https://beta.musicbrainz.org/release/a0d16d94-9064-4952-8748-3ceea6ffb887"]
+links = ["https://beta.musicbrainz.org/release/a0d16d94-9064-4952-8748-3ceea6ffb887", "https://vgmdb.net/album/148418"]
 
 [feb2740884de968f7906bbb8bed9e588]
 catalognumber = "QMCD-0014"
@@ -1447,6 +1490,17 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/140433"]
 
+[1499b9645867efe36282a4a8e055c4a5]
+catalognumber = ""
+date = "2024-06-24"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.2 「アル」"
+tracks = [
+    [1, "これが私のハードボイルド!?", "アル(CV:近藤玲奈)", 0],
+    [2, "これが私のハードボイルド!?(Instrumental Ver.)", "アル(CV:近藤玲奈)", 0],
+    [3, "Dialogue Vol.2「カレー屋は一日にして成らず」", "アル(CV:近藤玲奈)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/397288dd-9a03-4da2-97b9-9fea0a082d74"]
+
 [1a068b74d619d3c3836461e816ad0352]
 catalognumber = "N/A"
 date = "2024-07-20"
@@ -1463,7 +1517,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/148422"]
 
-[380d3ee90ed5ddb2ba80db91948033db]
+[45731ac1836a226fff25af33f65616f0]
 catalognumber = "BACD-0021"
 date = "2024-07-21"
 album = "彩りキャンバス / SUGAR RUSH"
@@ -1472,9 +1526,42 @@ tracks = [
     [2, "彩りキャンバス(Short Ver.)", "SUGAR RUSH", 0],
     [3, "彩りキャンバス(Instrumental Ver.)", "SUGAR RUSH", 0],
 ]
-links = ["https://vgmdb.net/album/144922", "https://beta.musicbrainz.org/release/6a97d4cd-29f5-4114-b047-1f8a0d8a538c"]
+links = ["https://beta.musicbrainz.org/release/6a97d4cd-29f5-4114-b047-1f8a0d8a538c", "https://vgmdb.net/album/144922"]
 
-[96f27ef4605bfa42e36d7e23f6aa4b24]
+[220e099f1b371395e0171684263f4d78]
+catalognumber = ""
+date = "2024-07-22"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.3 「ヒフミ」"
+tracks = [
+    [1, "好きなんです!", "ヒフミ(CV:本渡楓)", 0],
+    [2, "好きなんです!(Instrumental Ver.)", "ヒフミ(CV:本渡楓)", 0],
+    [3, "Dialogue Vol.3「とまらない心を聞かせて」", "ヒフミ(CV:本渡楓)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6d6aece9-2434-487c-ab7a-10f12df03524"]
+
+[89d8d530f7525da1bbef9b88cc245163]
+catalognumber = ""
+date = "2024-07-22"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.6 「放課後スイーツ部」"
+tracks = [
+    [1, "パフェダイアリーズ", "放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ)》", 0],
+    [2, "パフェダイアリーズ (Instrumental Ver.)", "放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ)》", 0],
+    [3, "ボイスドラマ Vol.6 「真夏の海と幻のスイーツ!」", "放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ)》", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5cd61299-f33a-4206-b5eb-c5fbb74427b7"]
+
+[843eb651689dc3d17d6dddb0700a9bc3]
+catalognumber = ""
+date = "2024-07-23"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.4 「ホシノ」"
+tracks = [
+    [1, "ぷかぷかぴ～す", "ホシノ(CV:花守ゆみり)", 0],
+    [2, "ぷかぷかぴ～す(Instrumental Ver.)", "ホシノ(CV:花守ゆみり)", 0],
+    [3, "Dialogue Vol.4「幸福を探す遠道」", "ホシノ(CV:花守ゆみり)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7fbd5e4e-95b7-4e7a-9760-ff202f7d16d4"]
+
+[a2896159231cd11ff36db83bbc4d4c86]
 catalognumber = "KMCD-0002"
 date = "2024-08-03"
 album = "Jazz Archive 2"
@@ -1490,9 +1577,9 @@ tracks = [
     [9, "彩りキャンバス Sax ver.", "kanmi", 0],
     [10, "Shooting Stars", "kanmi", 0],
 ]
-links = ["https://vgmdb.net/album/141629", "https://beta.musicbrainz.org/release/f27432d7-f18e-4747-8dd8-3a16f73048f4"]
+links = ["https://beta.musicbrainz.org/release/f27432d7-f18e-4747-8dd8-3a16f73048f4", "https://vgmdb.net/album/141629"]
 
-[e9534eda772d978227bf0c50e3e7924e]
+[3b9288f1948544b2ec8fa8b67cd82896]
 catalognumber = "LOLPR-059"
 date = "2024-08-11"
 album = "lol project 059:Connecting for the entrusted hope -Blue Archive unofficial fan arrange vol.3-"
@@ -1509,9 +1596,9 @@ tracks = [
     [10, "Midnight Trip", "Utena", 0],
     [11, "Blooming Moon", "Thanatos", 0],
 ]
-links = ["https://vgmdb.net/album/141423", "https://beta.musicbrainz.org/release/c452c3b2-5a3e-4946-80ba-6958c20341fa"]
+links = ["https://beta.musicbrainz.org/release/c452c3b2-5a3e-4946-80ba-6958c20341fa", "https://vgmdb.net/album/141423"]
 
-[44036d6ee735e1266799e1a89d6b416a]
+[89713ac8ed3a7df37c6a24ba16d78f30]
 catalognumber = "N/A"
 date = "2024-08-24"
 album = "샬레 재즈 연구부"
@@ -1526,9 +1613,9 @@ tracks = [
     [8, "Re Aoharu", "NEMP", 0],
     [9, "Luminous Memory", "Z:U 지우", 0],
 ]
-links = ["https://vgmdb.net/album/147466", "https://beta.musicbrainz.org/release/8353fa33-518b-422e-8327-f2ae5dbcbeac"]
+links = ["https://beta.musicbrainz.org/release/8353fa33-518b-422e-8327-f2ae5dbcbeac", "https://vgmdb.net/album/147466"]
 
-[3e28d364c5d84e12f26fc0b2347eec42]
+[29a21953685b28146edacd2ce69ac41a]
 catalognumber = "SNCL-00098"
 date = "2024-09-11"
 album = "青春のアーカイブ／真昼の空の月 / アビドス高等学校対策委員会"
@@ -1540,9 +1627,9 @@ tracks = [
     [5, "青春のアーカイブ (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
     [6, "真昼の空の月 (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
 ]
-links = ["https://vgmdb.net/album/139383", "https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4"]
+links = ["https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4", "https://vgmdb.net/album/139383"]
 
-[1198a1e5e709e1657078928ea5803e7e]
+[494f0352af9e7086aca201be80430f70]
 catalognumber = "SNCL-00097"
 date = "2024-09-11"
 album = "青春のアーカイブ／真昼の空の月 / アビドス高等学校対策委員会 [初回生産限定盤]"
@@ -1554,9 +1641,9 @@ tracks = [
     [5, "青春のアーカイブ (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
     [6, "真昼の空の月 (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
 ]
-links = ["https://vgmdb.net/album/139384", "https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4"]
+links = ["https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4", "https://vgmdb.net/album/139384"]
 
-[b709ed172306f2856cb5463eca02bada]
+[283b646f28313334c0e552fa758ba826]
 catalognumber = "BPCL-00001"
 date = "2024-09-11"
 album = "青春のアーカイブ／真昼の空の月 / アビドス高等学校対策委員会 [初回生産限定盤]"
@@ -1568,9 +1655,9 @@ tracks = [
     [5, "青春のアーカイブ (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
     [6, "真昼の空の月 (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
 ]
-links = ["https://vgmdb.net/album/139385", "https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4"]
+links = ["https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4", "https://vgmdb.net/album/139385"]
 
-[fbc1017037d27f44461960f85a2fb418]
+[751d1bf63b87195c7eaf40f08bc3fee6]
 catalognumber = "BPCL-00002"
 date = "2024-09-11"
 album = "青春のアーカイブ／真昼の空の月 / アビドス高等学校対策委員会"
@@ -1582,9 +1669,9 @@ tracks = [
     [5, "青春のアーカイブ (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
     [6, "真昼の空の月 (instrumental)", "アビドス高等学校対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
 ]
-links = ["https://vgmdb.net/album/139386", "https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4"]
+links = ["https://beta.musicbrainz.org/release/e140065f-e2b4-4a72-a2be-7f6586339ec4", "https://vgmdb.net/album/139386"]
 
-[bfd7f7968b8fd816c834f2905183070b]
+[e3f7563e6c157cb53b6123ac97c5da53]
 catalognumber = "BACD-0015"
 date = "2024-10-15"
 album = "Blue Archive Original Soundtrack Vol.6 ~Keeping for the abiding belief~ Disc 1"
@@ -1604,9 +1691,9 @@ tracks = [
     [13, "Ramune Lagoon", "YUC'e", 0],
     [14, "Summer Attack!", "EmoCosine", 0],
 ]
-links = ["https://vgmdb.net/album/141282", "https://beta.musicbrainz.org/release/2b7065d6-38ae-4c3b-ac03-d2b17abd6fdc"]
+links = ["https://beta.musicbrainz.org/release/2b7065d6-38ae-4c3b-ac03-d2b17abd6fdc", "https://vgmdb.net/album/141282"]
 
-[cdea3d0deda74be67eba94eaf1775df4]
+[0225ae3c5a2b32243dd2d51bc5da9a28]
 catalognumber = "BACD-0015"
 date = "2024-10-15"
 album = "Blue Archive Original Soundtrack Vol.6 ~Keeping for the abiding belief~ Disc 2"
@@ -1626,9 +1713,53 @@ tracks = [
     [13, "Yumeji Party", "ミツキヨ", 0],
     [14, "Serene Scenario", "ミツキヨ", 0],
 ]
-links = ["https://vgmdb.net/album/141282", "https://beta.musicbrainz.org/release/2b7065d6-38ae-4c3b-ac03-d2b17abd6fdc"]
+links = ["https://beta.musicbrainz.org/release/2b7065d6-38ae-4c3b-ac03-d2b17abd6fdc", "https://vgmdb.net/album/141282"]
 
-[07a39f98223bfce553d1bd246fad2313]
+[22be724dfa62c16ba261d2f877513cc0]
+catalognumber = ""
+date = "2024-10-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.5 「イズナ」"
+tracks = [
+    [1, "主殿のお傍でニンニンニン", "イズナ(CV:阿澄佳奈)", 0],
+    [2, "主殿のお傍でニンニンニン(Instrumental Ver.)", "イズナ(CV:阿澄佳奈)", 0],
+    [3, "Dialogue Vol.5「そしてイズナは宣言する」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5d1e7b44-1e26-480a-962d-916c18f77ce9"]
+
+[0d763d5b679d093202a2bf7e51fe618d]
+catalognumber = ""
+date = "2024-10-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.6 「ミヤコ」"
+tracks = [
+    [1, "月導", "ミヤコ(CV:藤田茜)", 0],
+    [2, "月導(Instrumental Ver.)", "ミヤコ(CV:藤田茜)", 0],
+    [3, "Dialogue Vol.6「眠れぬウサギは夜光にたゆたう」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/689422ee-31a5-43c8-bae1-83062e4d1625"]
+
+[1513be4e29f7e6ad331eb5133fe3ab98]
+catalognumber = "BACD-0031"
+date = "2024-10-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.5 「イズナ」"
+tracks = [
+    [1, "主殿のお傍でニンニンニン", "イズナ(CV:阿澄佳奈)", 0],
+    [2, "主殿のお傍でニンニンニン(Instrumental Ver.)", "イズナ(CV:阿澄佳奈)", 0],
+    [3, "Dialogue Vol.5「そしてイズナは宣言する」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ac11305e-b1a8-4937-93d9-e5d1cb9b587f"]
+
+[1b3ddfe8455d07fa2d7c6a59b36166f4]
+catalognumber = ""
+date = "2024-10-21"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.7 「美食研究会」"
+tracks = [
+    [1, "美食追求の道 ～いただきます!～", "美食研究会《ハルナ(CV:田所あずさ)、アカリ(CV:森嶋優花)、イズミ(CV:久保ユリカ)、ジュンコ(CV:金元寿子)》", 0],
+    [2, "美食追求の道 ～いただきます!～(Instrumental Ver.)", "美食研究会《ハルナ(CV:田所あずさ)、アカリ(CV:森嶋優花)、イズミ(CV:久保ユリカ)、ジュンコ(CV:金元寿子)》", 0],
+    [3, "ボイスドラマ Vol.7 「山グルメ研究会」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/99178124-84f6-4660-9310-38411e398bb5"]
+
+[3d737dfce4a898c89229f228839d8065]
 catalognumber = "ARIS-0001"
 date = "2024-10-27"
 album = "Clearly Moment"
@@ -1644,9 +1775,9 @@ tracks = [
     [9, "Blooming moon (C0C0Ä* Remix)", "C0C0Ä*", 0],
     [10, "Sheside Outside (JJJ Remix)", "JJJ", 0],
 ]
-links = ["https://vgmdb.net/album/153853", "https://beta.musicbrainz.org/release/6d1250bc-d364-45b5-922b-11d3cb0d7cba"]
+links = ["https://beta.musicbrainz.org/release/6d1250bc-d364-45b5-922b-11d3cb0d7cba", "https://vgmdb.net/album/153853"]
 
-[0b128fb1eb182207d43977954e1207f9]
+[9a73c4860ef9873a5c9cf47bc73b2356]
 catalognumber = "ARCA-0004"
 date = "2024-10-27"
 album = "Acceleration Error: ARCA out of memory"
@@ -1666,9 +1797,9 @@ tracks = [
     [13, "From ex-C.P. (Instrumental)", "Getty", 0],
     [14, "endless summer (prod. DECOYTRIO) (Instrumental)", "MC SYUMI", 0],
 ]
-links = ["https://vgmdb.net/album/143594", "https://beta.musicbrainz.org/release/d7192452-7324-42d9-b214-ae072be91e11"]
+links = ["https://beta.musicbrainz.org/release/d7192452-7324-42d9-b214-ae072be91e11", "https://vgmdb.net/album/143594"]
 
-[5abc78e09548606a0f53897e136d2d51]
+[7b18b42db61254ec56c8b8bd0c50b296]
 catalognumber = "N/A"
 date = "2024-10-27"
 album = "SUPER Hi-Voltage Arisu Dual-Volt!! Disc 1"
@@ -1685,9 +1816,9 @@ tracks = [
     [10, "Shoothing Star (Xeno Remix)", "Xeno", 0],
     [11, "Virtual Rain", "SimoFrost", 0],
 ]
-links = ["https://vgmdb.net/album/145670", "https://beta.musicbrainz.org/release/c37c9d5b-35c3-463c-b52c-f0e154676b49"]
+links = ["https://beta.musicbrainz.org/release/c37c9d5b-35c3-463c-b52c-f0e154676b49", "https://vgmdb.net/album/145670"]
 
-[66f60d4d5d22ae1ac410059bc1ebb2a1]
+[53cb23c56ecf7a5358907d0503e8da95]
 catalognumber = "N/A"
 date = "2024-10-27"
 album = "SUPER Hi-Voltage Arisu Dual-Volt!! Disc 2"
@@ -1704,7 +1835,7 @@ tracks = [
     [10, "luminous memory (Kurobara HAPPY REMIX)", "Kurobara", 0],
     [11, "neverend finale", "solasole", 0],
 ]
-links = ["https://vgmdb.net/album/145670", "https://beta.musicbrainz.org/release/c37c9d5b-35c3-463c-b52c-f0e154676b49"]
+links = ["https://beta.musicbrainz.org/release/c37c9d5b-35c3-463c-b52c-f0e154676b49", "https://vgmdb.net/album/145670"]
 
 [5788c2f0d6ab747414d53bb862eefe62]
 catalognumber = "CPCD-0031"
@@ -1788,7 +1919,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145588"]
 
-[d4ee1b5cd377ff1995d6709f1ec1b154]
+[48ca4e40ea37f3c1f519ff7f8574a576]
 catalognumber = "EMCD-0019"
 date = "2024-12-21"
 album = "The Memory of Archive vol.2"
@@ -1804,7 +1935,7 @@ tracks = [
     [9, "Hello to Halo (YUKIYANAGI Remix)", "YUKIYANAGI", 0],
     [10, "優しさの記憶 (RiraN Remix, Cover by 音琴兎愛)", "RiraN", 0],
 ]
-links = ["https://vgmdb.net/album/145272", "https://beta.musicbrainz.org/release/de132503-7600-4c6a-9519-abad0f798da9"]
+links = ["https://beta.musicbrainz.org/release/de132503-7600-4c6a-9519-abad0f798da9", "https://vgmdb.net/album/145272"]
 
 [d736374fbbb1a279dbb08adf38c9b084]
 catalognumber = "N/A"
@@ -1834,7 +1965,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145589"]
 
-[2dee3bdda99074ba79aa79b6781342c9]
+[855d550c7ccda74da6717979ff80236e]
 catalognumber = "BACD-0035"
 date = "2024-12-23"
 album = "ブルーアーカイブ　絆ダイアローグ Vol.7 「ユウカ」"
@@ -1843,7 +1974,29 @@ tracks = [
     [2, "コントロールできない感情という変数 (Instrumental Ver.)", "ユウカ(CV:春花らん)", 0],
     [3, "Dialogue Vol.7「想い重ねる数字の証明。」", "[dialogue]", 0],
 ]
-links = ["https://vgmdb.net/album/156547", "https://beta.musicbrainz.org/release/e4d5fbd5-98d1-4a02-93d0-fa791b331f1e"]
+links = ["https://beta.musicbrainz.org/release/e4d5fbd5-98d1-4a02-93d0-fa791b331f1e", "https://vgmdb.net/album/156547"]
+
+[ad87acf44ef265a8812e5c0c18bba284]
+catalognumber = ""
+date = "2024-12-23"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.8 「アリス」"
+tracks = [
+    [1, "勇者アリスの大冒険!", "アリス(CV:田中美海)", 0],
+    [2, "勇者アリスの大冒険! (Instrumental Ver.)", "アリス(CV:田中美海)", 0],
+    [3, "Dialogue Vol.8「アリスクエスト～辿り着く誓約の大樹～」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2b8451ad-cb91-4fb6-899f-2b6684b23de1"]
+
+[445b15971f20bd8c7266548573243aa9]
+catalognumber = ""
+date = "2024-12-23"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.8 「RABBIT小隊」"
+tracks = [
+    [1, "進み続ける兎たち", "RABBIT小隊《ミヤコ(CV:藤田茜)、サキ(CV:友永朱音)、モエ(CV:井澤詩織)、ミユ(CV:後藤邑子)》", 0],
+    [2, "進み続ける兎たち (Instrumental Ver.)", "RABBIT小隊《ミヤコ(CV:藤田茜)、サキ(CV:友永朱音)、モエ(CV:井澤詩織)、ミユ(CV:後藤邑子)》", 0],
+    [3, "ボイスドラマ Vol.8 「暴風雨vs子ウサギたちの暗闘!」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fbc2d0c0-2960-4374-9e5a-addfb56063e3"]
 
 [1b8f5dd72370a4180231540e50d07a62]
 catalognumber = "N/A"
@@ -1859,7 +2012,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145674"]
 
-[0aaa08f76c0633fa168939fc89350f60]
+[5044c5c6b958785c177dadaff0806359]
 catalognumber = "KMCD-0003"
 date = "2024-12-29"
 album = "Jazz Archive 3"
@@ -1875,7 +2028,7 @@ tracks = [
     [9, "Alkaline Tears", "kanmi", 0],
     [10, "トモダチOneStep Sax ver.", "kanmi", 0],
 ]
-links = ["https://vgmdb.net/album/145666", "https://beta.musicbrainz.org/release/035e79ab-c097-4331-b281-3b9492584c23"]
+links = ["https://beta.musicbrainz.org/release/035e79ab-c097-4331-b281-3b9492584c23", "https://vgmdb.net/album/145666"]
 
 [0b7b09c0c6e69d693a47b45c561226e4]
 catalognumber = "NMCD-0025"
@@ -1892,7 +2045,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145442"]
 
-[8bcf96113f784d4fc9172b1a56f2e636]
+[1c5cbd86b0b2048419592cabfb04b3e9]
 catalognumber = "LOGCD-036"
 date = "2024-12-29"
 album = "Resonate Serenade"
@@ -1914,7 +2067,40 @@ tracks = [
     [15, "System All Green (クエーバー Remix)", "クエーバー", 0],
     [16, "Aoharu (Liquid D'n'B Remix)", "DJ AIR-G", 0],
 ]
-links = ["https://vgmdb.net/album/145409", "https://beta.musicbrainz.org/release/afc1d8dd-94c5-44a4-b13b-e91a13837449"]
+links = ["https://beta.musicbrainz.org/release/afc1d8dd-94c5-44a4-b13b-e91a13837449", "https://vgmdb.net/album/145409"]
+
+[7edba67f71808b9ebe9de84878685d44]
+catalognumber = ""
+date = "2025-01-19"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.9 「カンナ」"
+tracks = [
+    [1, "夜明けのコーヒーの香り", "カンナ(CV:松岡美里)", 0],
+    [2, "夜明けのコーヒーの香り (Instrumental Ver.)", "カンナ(CV:松岡美里)", 0],
+    [3, "Dialogue Vol.9「休暇と出会いのスペシャルブレンド」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6a564005-45e5-495a-9063-3e68b6c117ad"]
+
+[68145137e3c11cb0f3f525cbe8f3895f]
+catalognumber = ""
+date = "2025-01-19"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.10 「風紀委員会」"
+tracks = [
+    [1, "純真レゾンデートル", "風紀委員会《ヒナ(CV:広橋涼)、アコ(CV:高野麻里佳)、イオリ(CV:佐倉綾音)、チナツ(CV:香月はるか)》", 0],
+    [2, "純真レゾンデートル (Instrumental Ver.)", "風紀委員会《ヒナ(CV:広橋涼)、アコ(CV:高野麻里佳)、イオリ(CV:佐倉綾音)、チナツ(CV:香月はるか)》", 0],
+    [3, "ボイスドラマ Vol.10 「風紀を乱す者たちへ」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/544fce9c-166e-44a7-950c-b96503412ebd"]
+
+[ed1dccf4940493e111568461425eac0c]
+catalognumber = ""
+date = "2025-01-19"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.9 「対策委員会」"
+tracks = [
+    [1, "一緒の約束", "対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
+    [2, "一緒の約束 (Instrumental Ver.)", "対策委員会《ホシノ(CV:花守ゆみり)、シロコ(CV:小倉唯)、ノノミ(CV:三浦千幸)、セリカ(CV:大橋彩香)、アヤネ(CV:原田彩楓)》", 0],
+    [3, "ボイスドラマ Vol.9 「マラソン大会入賞対策委員会」", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7281e9f0-e4a3-4708-b4ab-d4e457add17d"]
 
 [2b0fa702f7b74c920e827040dd5106ca]
 catalognumber = "N/A"
@@ -1978,7 +2164,40 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147322"]
 
-[7d6a41d886d35065a1a9c757a401c67a]
+[f338e6a16a7aec54dccd0f4bb631f5b0]
+catalognumber = ""
+date = "2025-04-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.10 「ネル」"
+tracks = [
+    [1, "Victory Sky", "ネル(CV:小清水亜美)", 0],
+    [2, "Victory Sky(Instrumental Ver.)", "ネル(CV:小清水亜美)", 0],
+    [3, "Dialogue Vol.10 「コールサイン00の賑やかな休息」", "ネル(CV:小清水亜美)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/aa4799e1-3c94-4820-9269-6f53f51215b2"]
+
+[2e3fc6746ede046dae6f53d98c17af8b]
+catalognumber = ""
+date = "2025-04-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.11 「サオリ」- EP"
+tracks = [
+    [1, "Walking Night", "東さおり(CV:石上静香)", 0],
+    [2, "Walking Night(Instrumental Ver.)", "東さおり(CV:石上静香)", 0],
+    [3, "Dialogue Vol.11 「新たな学びは、誰かのために」", "東さおり(CV:石上静香)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7c855eb5-f57f-4b57-9cab-9e69f96a0b23"]
+
+[fa42a1052dc8be01b039c35452e09528]
+catalognumber = ""
+date = "2025-04-21"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.11 「修行部」"
+tracks = [
+    [1, "うららか☆SYUGYOU", "ツバキ (CV. 白砂沙帆)、ミモリ (CV. 田中理恵)、カエデ (CV. 加藤英美里)", 0],
+    [2, "うららか☆SYUGYOU(Instrumental Ver.)", "ツバキ (CV. 白砂沙帆)、ミモリ (CV. 田中理恵)、カエデ (CV. 加藤英美里)", 0],
+    [3, "ボイスドラマ Vol.11 「たとえばこんな、ある日のこと〜みんなで修行をやったなら〜」", "ツバキ (CV. 白砂沙帆)、ミモリ (CV. 田中理恵)、カエデ (CV. 加藤英美里)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2d42cace-134c-46cc-a009-8fc60a741b49"]
+
+[cf298d64ea6e384c463284853a4d4f09]
 catalognumber = "ARCA-0005"
 date = "2025-04-27"
 album = "Memoria; Conatus"
@@ -1994,9 +2213,9 @@ tracks = [
     [9, "Ears Up, Eyes Forward", "Ichii", 0],
     [10, "Wings in Somnium", "nenpulse", 0],
 ]
-links = ["https://vgmdb.net/album/148744", "https://beta.musicbrainz.org/release/5ca23827-c97d-498e-af62-e725c8b59ad8"]
+links = ["https://beta.musicbrainz.org/release/5ca23827-c97d-498e-af62-e725c8b59ad8", "https://vgmdb.net/album/148744"]
 
-[8089b34db52187051a0820ddbf2b9791]
+[ced38c434574525d7de89558986ca599]
 catalognumber = "ARIS-0002"
 date = "2025-04-27"
 album = "Starlit Promise"
@@ -2011,9 +2230,9 @@ tracks = [
     [8, "Midnight Trip (C0C0Ä* Remix)", "C0C0Ä*", 0],
     [9, "After School Dessert (Nachick Remix)", "Nachick", 0],
 ]
-links = ["https://vgmdb.net/album/153856", "https://beta.musicbrainz.org/release/0ad3bd4b-dd15-44f5-bbcd-902fb2282df2"]
+links = ["https://beta.musicbrainz.org/release/0ad3bd4b-dd15-44f5-bbcd-902fb2282df2", "https://vgmdb.net/album/153856"]
 
-[e6bea122a52330d02162496ee1cc0680]
+[a3a1e497b8adc47ea859d6d4d3170a2c]
 catalognumber = "NMCD-0026"
 date = "2025-04-27"
 album = "Clippings of youth vol.4"
@@ -2029,9 +2248,9 @@ tracks = [
     [9, "Hinagesi(siqlo's \"D.O.P.\" Remix )", "siqlo", 0],
     [10, "Loforð um sólsetur", "o29_831", 0],
 ]
-links = ["https://vgmdb.net/album/148792", "https://beta.musicbrainz.org/release/38e1e28e-ccf2-4e8c-ab7b-b2c4071b3ef6"]
+links = ["https://beta.musicbrainz.org/release/38e1e28e-ccf2-4e8c-ab7b-b2c4071b3ef6", "https://vgmdb.net/album/148792"]
 
-[72d632d5b783ad8e16cea53cfd1014a7]
+[2a92ac560db9c2dd26b398311b98c05a]
 catalognumber = "CPCD-0032"
 date = "2025-04-27"
 album = "ドロンっ！と忍研只今参上です！"
@@ -2052,7 +2271,7 @@ tracks = [
     [14, "Usagi Flap(rei_zanma Remix)", "rei_zanma", 0],
     [15, "Starry Confession (ziki_7 Remix)", "ziki_7", 0],
 ]
-links = ["https://vgmdb.net/album/149608", "https://beta.musicbrainz.org/release/78935030-c566-4173-8729-f853b4b8fd65"]
+links = ["https://beta.musicbrainz.org/release/78935030-c566-4173-8729-f853b4b8fd65", "https://vgmdb.net/album/149608"]
 
 [be0c454be8cbb5c2a897a55970064d91]
 catalognumber = "QMCD-0018"
@@ -2096,6 +2315,39 @@ tracks = [
     [14, "Fruitful Blossom", "", 0],
 ]
 links = ["https://vgmdb.net/album/149359"]
+
+[6ab29356d29a90067b669100d8646a0c]
+catalognumber = ""
+date = "2025-06-22"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.13 「フウカ」"
+tracks = [
+    [1, "憧れの日々", "愛清フウカ", 0],
+    [2, "憧れの日々(Instrumental Ver.)", "愛清フウカ", 0],
+    [3, "Dialogue Vol.13「たまには、優雅な休息を」", "愛清フウカ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/53a47f04-5a44-4b9e-947a-ce773e735c08"]
+
+[c26b37a4e570ac8d6cf872fc297974f6]
+catalognumber = ""
+date = "2025-06-22"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.12 「ヨシミ」"
+tracks = [
+    [1, "イマハカラメル ―Sweeten Up Later", "伊原木ヨシミ", 0],
+    [2, "イマハカラメル ―Sweeten Up Later(Instrumental Ver.)", "伊原木ヨシミ", 0],
+    [3, "Dialogue Vol.12「甘いお菓子と乙女の心得」", "伊原木ヨシミ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/96074e73-9dd3-4e43-99bc-281ee2cfac4c"]
+
+[0fb99b5e1425eb4803557cdc8cb07ca3]
+catalognumber = "BACD-0048"
+date = "2025-06-22"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.12 「ヴァルキューレ」"
+tracks = [
+    [1, "パトランプハーモニー!", "ヴァルキューレ (カンナ (CV.松岡美里), キリノ (CV.中島優衣), フブキ (CV.平山笑美))", 0],
+    [2, "パトランプハーモニー!(Instrumental Ver.)", "ヴァルキューレ (カンナ (CV.松岡美里), キリノ (CV.中島優衣), フブキ (CV.平山笑美))", 0],
+    [3, "ボイスドラマ Vol.12「こちらヴァルキューレ、市民の皆様にお伝えします!」", "ヴァルキューレ (カンナ (CV.松岡美里), キリノ (CV.中島優衣), フブキ (CV.平山笑美))", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0338aabc-ac6a-4131-b137-b7a617726d10"]
 
 [330fc2514b095fe31a4316c5ef17994d]
 catalognumber = "SSAR110~2"
@@ -2146,7 +2398,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/151436"]
 
-[eb591624105347fc3330b70496025a2c]
+[39cd675a2e94c9e5ba6ac4cd8effa292]
 catalognumber = "BACD-0030"
 date = "2025-07-17"
 album = "Blue Archive Original Soundtrack Vol.7 ~Harmonizing for the Hearts of Each~ Disc 1"
@@ -2165,9 +2417,9 @@ tracks = [
     [12, "P.A.J.A.M.A Sleep Over", "KARUT", 0],
     [13, "Expo Festa", "EmoCosine", 0],
 ]
-links = ["https://vgmdb.net/album/148880", "https://beta.musicbrainz.org/release/ab806049-2dd8-42fb-b7c3-fc9f67591ddf"]
+links = ["https://beta.musicbrainz.org/release/ab806049-2dd8-42fb-b7c3-fc9f67591ddf", "https://vgmdb.net/album/148880"]
 
-[234a0288b4c6b4f8524f6a3816c0beef]
+[9fde95308446eda092d9c636f3a9ee2b]
 catalognumber = "BACD-0030"
 date = "2025-07-17"
 album = "Blue Archive Original Soundtrack Vol.7 ~Harmonizing for the Hearts of Each~ Disc 2"
@@ -2188,9 +2440,42 @@ tracks = [
     [14, "Miracle", "Nor", 0],
     [15, "Candy Step", "Nor", 0],
 ]
-links = ["https://vgmdb.net/album/148880", "https://beta.musicbrainz.org/release/ab806049-2dd8-42fb-b7c3-fc9f67591ddf"]
+links = ["https://beta.musicbrainz.org/release/ab806049-2dd8-42fb-b7c3-fc9f67591ddf", "https://vgmdb.net/album/148880"]
 
-[a88a8a69641f6ab321d7432b84cae8af]
+[f47dbd02852a311ec4eb9d547dcea75b]
+catalognumber = ""
+date = "2025-07-20"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.15 「ノア」"
+tracks = [
+    [1, "記憶と記録の間に", "生塩ノア(CV.鈴代紗弓)", 0],
+    [2, "記憶と記録の間に(Instrumental Ver.)", "生塩ノア(CV.鈴代紗弓)", 0],
+    [3, "Dialogue Vol.15「Eau de Noaはどこまでも透明なのに」", "生塩ノア(CV.鈴代紗弓)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6ed04317-7d5c-4124-8ac0-e1709028bb34"]
+
+[6c9884717ea533762d9b00c984c55add]
+catalognumber = ""
+date = "2025-07-20"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.14 「ノノミ」"
+tracks = [
+    [1, "Hand in Hand, Heart in Heart", "十六夜ノノミ(CV.三浦千幸)", 0],
+    [2, "Hand in Hand, Heart in Heart(Instrumental Ver.)", "十六夜ノノミ(CV.三浦千幸)", 0],
+    [3, "Dialogue Vol.14「アビドスアイドルプロジェクトの足跡」", "十六夜ノノミ(CV.三浦千幸)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9bb0bba7-8a77-44bb-9669-51ffc2f00eb5"]
+
+[aea9151936b9cce8f0f436926309220c]
+catalognumber = "BACD-0051"
+date = "2025-07-20"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.13 「梅花園」"
+tracks = [
+    [1, "笑顔 はなまる Happy Day", "梅花園 (春原シュン (CV.伊藤静), 春原ココナ (CV.五十嵐裕美))", 0],
+    [2, "笑顔 はなまる Happy Day(Instrumental Ver.)", "梅花園 (春原シュン (CV.伊藤静), 春原ココナ (CV.五十嵐裕美))", 0],
+    [3, "ボイスドラマ Vol.13 「大怪獣バイカゴン現る!」", "梅花園 (春原シュン (CV.伊藤静), 春原ココナ (CV.五十嵐裕美))", 0],
+]
+links = ["https://beta.musicbrainz.org/release/62f5ca20-91e2-45a6-b648-2f89ca7dd201"]
+
+[25bb7588a24fb13b103d00a9a29ebcd2]
 catalognumber = "CPCD-0033"
 date = "2025-08-16"
 album = "イズナ流忍法!氷菓の術!ですっ"
@@ -2211,9 +2496,9 @@ tracks = [
     [14, "Tremendous Celebration(rei zanma Remix)", "rei zanma", 0],
     [15, "夢路の花 (Rei Iroi Orchestral Remix)", "彩巳レイ", 0],
 ]
-links = ["https://vgmdb.net/album/152432", "https://beta.musicbrainz.org/release/2b4f1726-cfd3-45b9-818d-2b13bf15e42e"]
+links = ["https://beta.musicbrainz.org/release/2b4f1726-cfd3-45b9-818d-2b13bf15e42e", "https://vgmdb.net/album/152432"]
 
-[c005e23019b16518770fddf7e47f7410]
+[33a898155706b3fcd1ee8cd5b1338718]
 catalognumber = "LOLPR-065"
 date = "2025-08-16"
 album = "lol project 065:Releasing for the heightened senses -Blue Archive unofficial fan arrange vol.4-"
@@ -2231,9 +2516,9 @@ tracks = [
     [11, "U-n.I", "Utena", 0],
     [12, "Starry Confession", "Utena", 0],
 ]
-links = ["https://vgmdb.net/album/151522", "https://beta.musicbrainz.org/release/675c92a8-8d5c-48c6-b1e3-9755e8c0859f"]
+links = ["https://beta.musicbrainz.org/release/675c92a8-8d5c-48c6-b1e3-9755e8c0859f", "https://vgmdb.net/album/151522"]
 
-[bcb817a1c1ecd6a7beb8d80632c138b0]
+[b9a8b8bb3fe11990b6ec60ca2d00fd94]
 catalognumber = "KMCD-0004"
 date = "2025-08-16"
 album = "Jazz Archive 4"
@@ -2244,7 +2529,7 @@ tracks = [
     [4, "Shoujo Delight", "kanmi", 0],
     [5, "U-n.I", "kanmi", 0],
 ]
-links = ["https://vgmdb.net/album/156166", "https://beta.musicbrainz.org/release/4bb78670-2b5b-46eb-8e1c-a4688c7ef8d5"]
+links = ["https://beta.musicbrainz.org/release/4bb78670-2b5b-46eb-8e1c-a4688c7ef8d5", "https://vgmdb.net/album/156166"]
 
 [a8f0a377b9bc33bfdd449b931895ced0]
 catalognumber = "N/A"
@@ -2262,7 +2547,40 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/152906"]
 
-[21bfe473a2609b6eb941dd0a3d7094fd]
+[551d211eecc548a5486734b4306dc49f]
+catalognumber = ""
+date = "2025-10-19"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.17 「アスナ」"
+tracks = [
+    [1, "アスナのまにまに?", "アスナ(CV:長谷川育美)", 0],
+    [2, "アスナのまにまに?(Instrumental Ver.)", "アスナ(CV:長谷川育美)", 0],
+    [3, "Dialogue Vol.17「アスナも歩けば幸運に当たる。」", "アスナ(CV:長谷川育美)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f3201588-0c3d-4ea1-af51-2f85b78f95e1"]
+
+[26cd9ceb8d77554e2036869b9876231d]
+catalognumber = ""
+date = "2025-10-19"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.16 「シズコ」"
+tracks = [
+    [1, "看板娘のヒミツ素顔", "シズコ(CV:森永千才)", 0],
+    [2, "看板娘のヒミツ素顔(Instrumental Ver.)", "シズコ(CV:森永千才)", 0],
+    [3, "Dialogue Vol.16「お祭りを楽しむ、1人の少女として。」", "シズコ(CV:森永千才)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b158a736-5673-46ad-ac26-59b92935e63f"]
+
+[dc733b97819f36bbcda9bce30bd9a754]
+catalognumber = ""
+date = "2025-10-19"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.14 「エンジニア部」"
+tracks = [
+    [1, "発明!ロマン!Engineer Dream!!", "ウタハ (CV. 青木望)、ヒビキ (CV. 名塚佳織)、コトリ (CV. 篠原なるみ)", 0],
+    [2, "発明!ロマン!Engineer Dream!!(Instrumental Ver.)", "ウタハ (CV. 青木望)、ヒビキ (CV. 名塚佳織)、コトリ (CV. 篠原なるみ)", 0],
+    [3, "ボイスドラマVol.14「夢のロマン・ピザマシン誕生」", "ウタハ (CV. 青木望)、ヒビキ (CV. 名塚佳織)、コトリ (CV. 篠原なるみ)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e0663e7b-9b66-4ca5-ae38-9704b16544c7"]
+
+[d2590f9237c29333a77a3fd362f909f7]
 catalognumber = "ARIS-0003"
 date = "2025-10-26"
 album = "Colorful Campus"
@@ -2279,9 +2597,9 @@ tracks = [
     [10, "Shoujo Delight (Alicemetix Remix)", "Alicemetix", 0],
     [11, "Candy Step (tenkayu Remix)", "tenkayu", 0],
 ]
-links = ["https://vgmdb.net/album/153857", "https://beta.musicbrainz.org/release/ecb56f96-3b70-4a04-b78b-5599f52bb328"]
+links = ["https://beta.musicbrainz.org/release/ecb56f96-3b70-4a04-b78b-5599f52bb328", "https://vgmdb.net/album/153857"]
 
-[d90d8ebadf6c14bbe0774ccdf3d84f46]
+[7c2c5f896b43393c5d829bd8321b2f71]
 catalognumber = "NMCD-0027"
 date = "2025-10-26"
 album = "フィットネス落語E.P."
@@ -2293,9 +2611,20 @@ tracks = [
     [5, "NEGOTIATION", "nekomimi style", 0],
     [6, "Soft Velocity", "nekomimi style", 0],
 ]
-links = ["https://vgmdb.net/album/153852", "https://beta.musicbrainz.org/release/0f53a973-509d-4b65-9707-c7465f4bb3b9"]
+links = ["https://beta.musicbrainz.org/release/0f53a973-509d-4b65-9707-c7465f4bb3b9", "https://vgmdb.net/album/153852"]
 
-[a46a4cdba0e915dc4d93baafc066e1d4]
+[a148d084e3ebe65c0625009792f345b4]
+catalognumber = "BACD-0059"
+date = "2025-12-21"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.19 「ハナエ」"
+tracks = [
+    [1, "Happy×Smiley", "ハナエ(CV:優木かな)", 0],
+    [2, "Happy×Smiley(Instrumental Ver.)", "ハナエ(CV:優木かな)", 0],
+    [3, "Dialogue Vol.19「朝顔ハナエの健康のススメ!」", "ハナエ(CV:優木かな)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/47c16532-5682-4518-8cf2-69ced8285a52"]
+
+[fd1026d6618c2e47e28e93f9e67d66a9]
 catalognumber = "LOGCD-040"
 date = "2025-12-30"
 album = "Resonant Fiesta"
@@ -2318,9 +2647,9 @@ tracks = [
     [16, "OTKPARA! (uramp Remix)", "uramp", 0],
     [17, "RE Aoharu (Newlisk Remix)", "Newlisk", 0],
 ]
-links = ["https://vgmdb.net/album/155686", "https://beta.musicbrainz.org/release/90deb378-2449-41af-b14b-0fd85b619415"]
+links = ["https://beta.musicbrainz.org/release/90deb378-2449-41af-b14b-0fd85b619415", "https://vgmdb.net/album/155686"]
 
-[db5e110b2f65044c21e276916fcf2131]
+[e4ed6d848a140abff9d44ab75a7a0b82]
 catalognumber = "ARCA-0006"
 date = "2025-12-30"
 album = "わたぐものむこう"
@@ -2336,7 +2665,7 @@ tracks = [
     [9, "Stay Blue, Stay Bright", "NeLiME", 0],
     [10, "Connected Sky (Kurobara HAPPY REMIX)", "Kurobara", 0],
 ]
-links = ["https://vgmdb.net/album/155620", "https://beta.musicbrainz.org/release/f75074b8-60f0-4775-b6a5-f2f276e4f9cd"]
+links = ["https://beta.musicbrainz.org/release/f75074b8-60f0-4775-b6a5-f2f276e4f9cd", "https://vgmdb.net/album/155620"]
 
 [1a1cd74343a103ec6aca1ade1511e6be]
 catalognumber = "CPCD-0034"
@@ -2375,6 +2704,39 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/156174"]
 
+[8186c469f0c1fe153c22be55d760d590]
+catalognumber = ""
+date = "2026-01-18"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.21 「ミカ」"
+tracks = [
+    [1, "幸せになるよ", "ミカ(CV:東山奈央)", 0],
+    [2, "幸せになるよ(Instrumental Ver.)", "ミカ(CV:東山奈央)", 0],
+    [3, "Dialogue Vol.21「君の無邪気な海の希望」", "ミカ(CV:東山奈央)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5427eac8-7f56-4b7f-9166-edbbf2e00489"]
+
+[ac74158ecf032b6aac0f87a636a9d028]
+catalognumber = "BACD-0062"
+date = "2026-01-18"
+album = "ブルーアーカイブ 絆ダイアローグ Vol.20 「ヒナ」"
+tracks = [
+    [1, "温もりのそばで、羽を預けて", "ヒナ(CV:広橋涼)", 0],
+    [2, "温もりのそばで、羽を預けて(Instrumental Ver.)", "ヒナ(CV:広橋涼)", 0],
+    [3, "Dialogue Vol.20「poco a poco」", "ヒナ(CV:広橋涼)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b413831c-c6e1-44bd-84a5-f93dab9aa9a2"]
+
+[32097e0f4bb6d4498a5ff05d4154abd4]
+catalognumber = ""
+date = "2026-01-18"
+album = "ブルーアーカイブ 青春あんさんぶる Vol.16 「ハイランダー」"
+tracks = [
+    [1, "出発進行!ハイランダー!!", "ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV: 田嶌紗蘭)》", 0],
+    [2, "出発進行!ハイランダー!!(Instrumental Ver.)", "ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV: 田嶌紗蘭)》", 0],
+    [3, "ボイスドラマVol.16「途中下車で行く列車旅」", "ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV: 田嶌紗蘭)》", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e75c2d43-8f4c-4443-8c26-7eceeb40f5ac"]
+
 [baba7b9712a8213d663b93d42970f429]
 catalognumber = "N/A"
 date = "2026-01-25"
@@ -2397,7 +2759,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/158235"]
 
-[405eb51fbd6be97368379f19e15d214a]
+[269098dc8cd2dc7c0e2b797e887fa51f]
 catalognumber = "BACD-0053"
 date = "2026-05"
 album = "Blue Archive Original Soundtrack Vol.8 ~Dreaming for the Melody of Revolution~ Disc 1"
@@ -2417,9 +2779,9 @@ tracks = [
     [13, "WE'RE CCC", "EmoCosine", 0],
     [14, "Odekake", "EmoCosine", 0],
 ]
-links = ["https://vgmdb.net/album/156545", "https://beta.musicbrainz.org/release/b61bc791-7778-4ec4-a69f-a32bdc237147"]
+links = ["https://beta.musicbrainz.org/release/b61bc791-7778-4ec4-a69f-a32bdc237147", "https://vgmdb.net/album/156545"]
 
-[7332ac1d76779940bbafbe18f7e95e73]
+[23a3ac3025e2e191cf9994a954ce9df2]
 catalognumber = "BACD-0053"
 date = "2026-05"
 album = "Blue Archive Original Soundtrack Vol.8 ~Dreaming for the Melody of Revolution~ Disc 2"
@@ -2439,4 +2801,4 @@ tracks = [
     [13, "The Loop of Life", "KARUT", 0],
     [14, "Funk 4 Dummies", "Aiobahn +81", 0],
 ]
-links = ["https://vgmdb.net/album/156545", "https://beta.musicbrainz.org/release/b61bc791-7778-4ec4-a69f-a32bdc237147"]
+links = ["https://beta.musicbrainz.org/release/b61bc791-7778-4ec4-a69f-a32bdc237147", "https://vgmdb.net/album/156545"]
