@@ -1,3 +1,23 @@
+[25518acfec3aa1abb05c02b753268670]
+catalognumber = ""
+date = ""
+album = "娘ドラ◎2022＋LIVE SELECTION"
+tracks = [
+    [1, "ドラマ1 (娘ドラ◎2022)", "中村悠一(早乙女アルト), 遠藤綾(シェリル・ノーム), 中島愛(ランカ・リー), 井上喜久子(グレイス・オコナー), 桑島法子(松浦ナナセ), 山田親之條(ライブスタッフ)", 0],
+    [2, "トライアングラー (fight on stage) (LIVE SELECTION)", "シェリル・ノーム starring May'n, ランカ・リー＝中島愛", 0],
+    [3, "射手座☆午後九時 Don't be late (LIVE SELECTION)", "シェリル・ノーム starring May'n", 0],
+    [4, "星間飛行 (LIVE SELECTION)", "ランカ・リー＝中島愛", 0],
+    [5, "ライオン (LIVE SELECTION)", "シェリル・ノーム starring May'n, ランカ・リー＝中島愛", 0],
+    [6, "Songbird (LIVE SELECTION)", "ランカ・リー＝中島愛", 0],
+    [7, "天使になっちゃった (LIVE SELECTION)", "シェリル・ノーム starring May'n", 0],
+    [8, "サヨナラノツバサ〜the end of triangle (LIVE SELECTION)", "シェリル・ノーム starring May'n, ランカ・リー＝中島愛", 0],
+    [9, "dシュディスタb (LIVE SELECTION)", "シェリル・ノーム starring May'n, ランカ・リー＝中島愛", 0],
+    [10, "ドラマ2 (娘ドラ◎2022)", "中村悠一(早乙女アルト), 遠藤綾(シェリル・ノーム), 中島愛(ランカ・リー), 井上喜久子(グレイス・オコナー), 桑島法子(松浦ナナセ), 山田親之條(ライブスタッフ)", 0],
+    [11, "時の迷宮 (LIVE SELECTION)", "ランカ・リー＝中島愛, シェリル・ノーム starring May'n", 0],
+    [12, "ドラマ3 (娘ドラ◎2022)", "中村悠一(早乙女アルト), 遠藤綾(シェリル・ノーム), 中島愛(ランカ・リー), 井上喜久子(グレイス・オコナー), 桑島法子(松浦ナナセ), 山田親之條(ライブスタッフ)", 0],
+]
+links = ["https://www.last.fm/music/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%AB%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%A0+starring+May%27n,+%E3%83%A9%E3%83%B3%E3%82%AB%E3%83%BB%E3%83%AA%E3%83%BC%EF%BC%9D%E4%B8%AD%E5%B3%B6%E6%84%9B/%E5%A8%98%E3%83%89%E3%83%A9%E2%97%8E2022%EF%BC%8BLIVE+SELECTION"]
+
 [22d38a0c37e8bf6856d175795c708ce0]
 catalognumber = "JBX-2029"
 date = "1982"
@@ -7525,6 +7545,17 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/151362"]
 
+[da1bb9d7167e7040db6743c29026b2a0]
+catalognumber = "BCXA-0798, FLDCM-5"
+date = "2013-12-25"
+album = "娘ドラ◎ドラ5 2/2 ランカ脱出大作戦!!"
+tracks = [
+    [1, "謎の密室B", "[dialogue]", 0],
+    [2, "謎の密室D", "[dialogue]", 0],
+    [3, "謎の密室E", "[dialogue]", 0],
+]
+links = ["https://beta.musicbrainz.org/release/50b8d8c3-d0c0-454d-89ba-5c9c55df5a00"]
+
 [1d2d8ac65e243cfa969db4178cad388c]
 catalognumber = "GJCC-1001"
 date = "2014-02-26"
@@ -8994,6 +9025,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e95d7e6d-59b6-4622-ab8d-30af3eefc0e0", "https://vgmdb.net/album/114008"]
 
+[3904bb8fb8aabdb31ecc3a9b3e9b6e11]
+catalognumber = "VTCL-35336"
+date = "2021-11-10"
+album = "時の迷宮"
+tracks = [
+    [1, "時の迷宮", "ランカ・リー＝中島愛/シェリル・ノーム starring May’n", 0],
+    [2, "サクリファイス", "シェリル・ノーム starring May’n/ランカ・リー＝中島愛", 0],
+    [3, "時の迷宮 -movie edition-", "ランカ・リー＝中島愛/シェリル・ノーム starring May’n", 0],
+    [4, "時の迷宮(w/o Ranka & Sheryl)", "ランカ・リー＝中島愛/シェリル・ノーム starring May’n", 0],
+    [5, "サクリファイス (w/o Sheryl & Ranka)", "シェリル・ノーム starring May’n/ランカ・リー＝中島愛", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2eb9ba2d-2280-4099-a056-fcddb2107d01"]
+
 [50d332fb4f69758f685c077ae1e3a5cc]
 catalognumber = "VTCL-60557"
 date = "2022-04-06"
@@ -9068,6 +9112,102 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/264f3956-d0a9-4413-8b04-0f83ce4af8c9", "https://vgmdb.net/album/121752"]
 
+[06a79abdb48543ce171fcb8d7dcdd4f5]
+catalognumber = "VTZL-225"
+date = "2023-05-17"
+album = "「マクロスΔ」ライブベストアルバム Absolute LIVE!!!!! LIVE from “Walküre Attack!”"
+tracks = [
+    [1, "恋! ハレイション THE WAR 〜without Freyja〜", "ワルキューレ", 0],
+    [2, "一度だけの恋なら", "ワルキューレ", 0],
+    [3, "ジリティック♡BEGINNER", "ワルキューレ", 0],
+    [4, "不確定性☆COSMIC MOVEMENT", "ワルキューレ", 0],
+    [5, "僕らの戦場", "ワルキューレ", 0],
+    [6, "NEO STREAM", "ワルキューレ", 0],
+    [7, "AXIA〜ダイスキでダイキライ〜", "ワルキューレ", 0],
+    [8, "GIRAFFE BLUES", "ワルキューレ", 0],
+    [9, "Walkure Attack!", "ワルキューレ", 0],
+    [10, "ルンがピカッと光ったら", "ワルキューレ", 0],
+    [11, "いけないボーダーライン", "ワルキューレ", 0],
+    [12, "恋! ハレイション THE WAR", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4ff79750-a551-4951-86f6-2c84c1854e85"]
+
+[23fc6e8b4097e58a87207b73f9093231]
+catalognumber = "VTZL-225"
+date = "2023-05-17"
+album = "「マクロスΔ」ライブベストアルバム Absolute LIVE!!!!! LIVE from “Walküre Trap!”"
+tracks = [
+    [1, "Absolute 5", "ワルキューレ", 0],
+    [2, "絶対零度θノヴァティック", "ワルキューレ", 0],
+    [3, "おにゃの子☆girl", "ワルキューレ", 0],
+    [4, "LOVE! THUNDER GLOW", "ワルキューレ", 0],
+    [5, "Silent Hacker", "ワルキューレ", 0],
+    [6, "破滅の純情", "ワルキューレ", 0],
+    [7, "Hear The Universe", "ワルキューレ", 0],
+    [8, "涙目爆発音", "ワルキューレ", 0],
+    [9, "ワルキューレのバースデイソング", "ワルキューレ", 0],
+    [10, "God Bless You", "ワルキューレ", 0],
+    [11, "風は予告なく吹く", "ワルキューレ", 0],
+    [12, "愛・おぼえていますか", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4ff79750-a551-4951-86f6-2c84c1854e85"]
+
+[c70fc37a65f5e39afbecc62d677ae7cd]
+catalognumber = "VTZL-225"
+date = "2023-05-17"
+album = "「マクロスΔ」ライブベストアルバム Absolute LIVE!!!!! LIVE from “Walküre Reborn!”"
+tracks = [
+    [1, "唇の凍傷", "ワルキューレ", 0],
+    [2, "未来はオンナのためにある", "ワルキューレ", 0],
+    [3, "無限大DRIVE", "ワルキューレ", 0],
+    [4, "キキワケナイ!", "ワルキューレ", 0],
+    [5, "マダマニア", "ワルキューレ", 0],
+    [6, "キズナ→スパイラル", "ワルキューレ", 0],
+    [7, "愛してる", "ワルキューレ", 0],
+    [8, "つらみ現在進行形", "ワルキューレ", 0],
+    [9, "ワルキューレはあきらめない", "ワルキューレ", 0],
+    [10, "ALIVE〜祈りの唄〜", "ワルキューレ", 0],
+    [11, "宇宙のかけら", "ワルキューレ", 0],
+    [12, "ルンに花咲く恋もある", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4ff79750-a551-4951-86f6-2c84c1854e85"]
+
+[938397a866206c939e4bc8ba84907d20]
+catalognumber = "VTZL-225"
+date = "2023-05-17"
+album = "「マクロスΔ」ライブベストアルバム Absolute LIVE!!!!! LIVE from Others"
+tracks = [
+    [1, "ようこそ! ワルキューレ・ワールドヘ", "ワルキューレ", 0],
+    [2, "涙目爆発音 〜with Claire〜", "ワルキューレ with Claire", 0],
+    [3, "星間飛行 〜Freyja meets Ranka〜", "Freyja meets Ranka", 0],
+    [4, "不確定性☆COSMIC MOVEMENT 〜Walküre meets Ranka〜", "Walküre meets Ranka", 0],
+    [5, "ダイアモンド クレバス 〜Mikumo meets Sheryl〜", "Mikumo meets Sheryl", 0],
+    [6, "僕らの戦場 〜Walküre meets Sheryl〜", "Walküre meets Sheryl", 0],
+    [7, "GIRAFFE BLUES 〜Kaname Solo Requiem〜", "ワルキューレ", 0],
+    [8, "Glow in the dark", "Yami_Q_ray", 0],
+    [9, "Diva in Abyss", "Yami_Q_ray", 0],
+    [10, "綺麗な花には毒がある", "Yami_Q_ray", 0],
+    [11, "ワルキューレがとまらない", "ワルキューレ", 0],
+    [12, "ワルキューレは裏切らない", "ワルキューレ", 0],
+    [13, "チェンジ!!!!!", "ワルキューレ", 0],
+    [14, "Dancing in the Moonlight", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4ff79750-a551-4951-86f6-2c84c1854e85"]
+
+[eb5685aff47e68946b3d4827e08f2a82]
+catalognumber = "VTZL-225"
+date = "2023-05-17"
+album = "「マクロスΔ」ライブベストアルバム Absolute LIVE!!!!!"
+tracks = [
+    [1, "一度だけの恋なら (Music Video)", "ワルキューレ", 0],
+    [2, "絶対零度θノヴァティック (Music Video)", "ワルキューレ", 0],
+    [3, "ワルキューレがとまらない (Music Video)", "ワルキューレ", 0],
+    [4, "ワルキューレは裏切らない (Music Video)", "ワルキューレ", 0],
+    [5, "未来はオンナのためにある (Music Video)", "ワルキューレ", 0],
+    [6, "ワルキューレはあきらめない (Music Video)", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4ff79750-a551-4951-86f6-2c84c1854e85"]
+
 [7aabeff783004b67882b2591ce2e917d]
 catalognumber = "VTCL-60591"
 date = "2024-01-24"
@@ -9125,6 +9265,63 @@ tracks = [
     [2, "トライアングラー – from CrosSing Instrumental", "栗林みな実", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/86be512a-548b-46cf-8922-553a06781fd8", "https://vgmdb.net/album/137837"]
+
+[c96f097e62c7609fd87e6ce79ea680b1]
+catalognumber = "VTCL-60635"
+date = "2024-06-05"
+album = "W encore Disc 1"
+tracks = [
+    [1, "一度だけの恋なら (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [2, "ルンがピカッと光ったら (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [3, "破滅の純情 (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [4, "絶対零度θノヴァティック (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [5, "チェンジ!!!!! (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [6, "唇の凍傷 (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [7, "いけないボーダーライン (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [8, "Walkure Attack! (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [9, "AXIA～ダイスキでダイキライ～ (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [10, "GIRAFFE BLUES (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [11, "Glow in the dark (Last Mission Live Ver.)", "ヤミキューレ", 0],
+    [12, "Diva in Abyss (Last Mission Live Ver.)", "ヤミキューレ", 0],
+    [13, "綺麗な花には毒がある (Last Mission Live Ver.)", "ヤミキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f9046c1f-08d2-412a-a63a-cede3453f095"]
+
+[0ffdb8c748b89f15d2627a3f99210dbd]
+catalognumber = "VTCL-60636"
+date = "2024-06-05"
+album = "W encore Disc 2"
+tracks = [
+    [1, "ワルキューレがとまらない (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [2, "ワルキューレは裏切らない (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [3, "ワルキューレはあきらめない (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [4, "未来はオンナのためにある (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [5, "Absolute 5 (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [6, "ルンに花咲く恋もある (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [7, "「Walkure Reborn!」ソロメドレー (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [8, "りんごのうた (Last Mission Live Ver.)", "鈴木みのり", 0],
+    [9, "ALIVE～祈りの唄～ (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [10, "宇宙のかけら (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [11, "恋! ハレイション THE WAR (Last Mission Live Ver.)", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f9046c1f-08d2-412a-a63a-cede3453f095"]
+
+[d71fb69279b8c0abac71090fe00429dd]
+catalognumber = "VTCL-60637"
+date = "2024-06-05"
+album = "W encore Disc 3"
+tracks = [
+    [1, "「Walkure Trap!」ソロメドレー (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [2, "僕らの戦場 (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [3, "不確定性☆COSMIC MOVEMENT (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [4, "Hear The Universe (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [5, "つらみ現在進行形 (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [6, "Dancing in the Moonlight (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [7, "NEO STREAM (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [8, "愛・おぼえていますか (Last Mission Live Ver.)", "ワルキューレ", 0],
+    [9, "ようこそ! ワルキューレ・ワールドへ (Last Mission Live Ver.)", "ワルキューレ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f9046c1f-08d2-412a-a63a-cede3453f095"]
 
 [4bef9d46d6fc49f2af89a54c00626dd3]
 catalognumber = "VTJL-32~3"

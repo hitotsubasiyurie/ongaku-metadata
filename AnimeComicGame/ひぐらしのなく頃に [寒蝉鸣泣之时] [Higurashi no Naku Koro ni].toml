@@ -15,6 +15,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aab83716-ade2-4d1c-9258-897218e8d344", "https://vgmdb.net/album/5928"]
 
+[38380b6e4800a5e1221ea25ccc723b07]
+catalognumber = "HMG-001"
+date = "2005-02-11"
+album = "Higurashi Motion Graphic vol.1 「なかない君と嘆きの世界」"
+tracks = [
+    [1, "bewailing", "", 0],
+    [2, "しあわせの場所", "", 0],
+    [3, "bewailing (instrumental ver.)", "", 0],
+    [4, "しあわせの場所 (instrumental ver.)", "", 0],
+]
+links = ["https://vgmdb.net/album/12858"]
+
 [507d137cc5fed6227225b9e72116e82c]
 catalognumber = "TUCD-01"
 date = "2005-05-01"
@@ -89,6 +101,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/25222"]
 
+[32b68a678ea3ecbcf3d69779d46ccb3a]
+catalognumber = "HMG-002"
+date = "2005-05-29"
+album = "Higurashi Motion Graphic vol.2 「なかない君と嘆きの世界 -ソウシュンフ-」"
+tracks = [
+    [1, "月ハ昇ル、私ハ詠ウ", "", 0],
+    [2, "ふわり", "", 0],
+    [3, "月ハ昇ル、私ハ詠ウ (instrumental ver.)", "", 0],
+    [4, "ふわり (instrumental ver.)", "", 0],
+]
+links = ["https://vgmdb.net/album/12859"]
+
 [10b11ea4069c18bb8c6ed8c741059000]
 catalognumber = "MGCD-0001"
 date = "2005-08-13"
@@ -135,6 +159,18 @@ tracks = [
     [10, "sunrise", "", 0],
 ]
 links = ["https://vgmdb.net/album/124103"]
+
+[c6082cab209b93c40691eff9086471f2]
+catalognumber = "HMG-003"
+date = "2005-08-14"
+album = "Higurashi Motion Graphic vol.3 「なかない君と嘆きの世界 -宴-」"
+tracks = [
+    [1, "狂宴-dance when cried-", "", 0],
+    [2, "うつつがたり", "", 0],
+    [3, "狂宴-dance when cried-(instrumental ver.)", "", 0],
+    [4, "うつつがたり(instrumental ver.)", "", 0],
+]
+links = ["https://vgmdb.net/album/12860"]
 
 [1e3564f9b16f22bd0e42fea354d1fd51]
 catalognumber = "AQSS-0001"
@@ -324,6 +360,18 @@ tracks = [
     [12, "Bonus Track", "", 0],
 ]
 links = ["https://vgmdb.net/album/112052"]
+
+[46191aae912fcb87620f86e3320e26b3]
+catalognumber = "N/A"
+date = "2006"
+album = "Higurashi Motion Graphic vol.5「なかない君と嘆きの世界 -requiem for themselves and tragedies-」"
+tracks = [
+    [1, "嘆きの世界", "", 0],
+    [2, "For You", "", 0],
+    [3, "嘆きの世界 (instrumental)", "", 0],
+    [4, "For You (instrumental)", "", 0],
+]
+links = ["https://vgmdb.net/album/30902"]
 
 [7af430e9b12e4087b7339d1edf4e7b0e]
 catalognumber = "FCCT-0039"
@@ -537,6 +585,18 @@ tracks = [
     [6, "メイン・テーマ～Piano Ver.～", "", 0],
 ]
 links = ["https://vgmdb.net/album/101789"]
+
+[553d7baecb42ad321b128443ed8861c4]
+catalognumber = "HMG-004"
+date = "2006-08-11"
+album = "Higurashi Motion Graphic vol.4「なかない君と嘆きの世界 -輪廻の刻は暮れゆけど-」"
+tracks = [
+    [1, "リンネの夢と…", "", 0],
+    [2, "みちしるべ", "", 0],
+    [3, "リンネの夢と… (instrumental)", "", 0],
+    [4, "みちしるべ (instrumental)", "", 0],
+]
+links = ["https://vgmdb.net/album/2339"]
 
 [913567e226b676eb4efe9d30ad1ae20d]
 catalognumber = "IO-0118"
@@ -829,6 +889,29 @@ tracks = [
     [5, "メイン・テーマ-結", "", 0],
 ]
 links = ["https://vgmdb.net/album/101790"]
+
+[0a19b8a249b1aa22c3fbaf4867d1db85]
+catalognumber = "HMG-006"
+date = "2006-12-06"
+album = "Higurashi Motion Graphic vol.6「全集　なかない君と嘆きの世界」"
+tracks = [
+    [1, "intro", "表本裕二", 0],
+    [2, "bewailing", "新良エツ子", 0],
+    [3, "しあわせの場所", "ico", 0],
+    [4, "月ハ昇ル、私ハ詠ウ", "新良エツ子", 0],
+    [5, "ふわり", "ico", 0],
+    [6, "狂宴-dance when cried-", "新良エツ子", 0],
+    [7, "うつつがたり", "ico", 0],
+    [8, "かれらの狂気よ生き延びる道を教えよ", "新良エツ子", 0],
+    [9, "リンネの夢と…", "新良エツ子", 0],
+    [10, "みちしるべ", "ico", 0],
+    [11, "嘆きの世界", "新良エツ子", 0],
+    [12, "FOR YOU", "ico", 0],
+    [13, "泣かないキミ", "新良エツ子", 0],
+    [14, "RE:bewailing", "表本裕二", 0],
+    [15, "outro", "表本裕二", 0],
+]
+links = ["https://beta.musicbrainz.org/release/1e21e1f0-bd00-42a7-b5a1-b7bcbec04496", "https://vgmdb.net/album/30903"]
 
 [b3998649e8da14643a9b48491aaa83e9]
 catalognumber = "OYASHIRO-0003"

@@ -265,6 +265,22 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3ca2fc02-3e02-49a0-9fa8-d4f21ab0008c", "https://vgmdb.net/album/69971"]
 
+[488fac2bb844edb4b7ddf81eb3abafbb]
+catalognumber = "GCFC-017"
+date = "2001-03-30"
+album = "ぷちこのうた2"
+tracks = [
+    [1, "Baby?Lady?", "ぷちこ（CV. 沢城みゆき）", 0],
+    [2, "HIP-HOP★ベジタブル", "ぷちこ（CV. 沢城みゆき）", 0],
+    [3, "Baby?Lady?（ハイパー・リミックス）", "ぷちこ（CV. 沢城みゆき）", 0],
+    [4, "Baby?Lady?（オリジナルカラオケ）", "ぷちこ（CV. 沢城みゆき）", 0],
+    [5, "HIP-HOP★ベジタブル（オリジナルカラオケ）", "ぷちこ（CV. 沢城みゆき）", 0],
+    [6, "Baby?Lady?（ハイパー・リミックス）（オリジナルカラオケ）", "ぷちこ（CV. 沢城みゆき）", 0],
+    [7, "Spicy Girl（ライブバージョン）", "ぷちこ（CV. 沢城みゆき）", 0],
+    [8, "ボイス・メッセージ", "ぷちこ（CV. 沢城みゆき）", 0],
+]
+links = ["https://beta.musicbrainz.org/release/71e89871-4c8d-4758-a3d0-039f76e55399"]
+
 [24faa1c19a2962d0cd47bcda40c68595]
 catalognumber = "KICA-538"
 date = "2001-04-25"
@@ -551,6 +567,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/96e6e081-032f-474a-b187-6bd6b702ea36", "https://vgmdb.net/album/57262"]
 
+[74e13a9544bb4340f5e3c485cb718003]
+catalognumber = "BRDA-1001"
+date = "2002-09-27"
+album = "無限大∞ソリュージョン"
+tracks = [
+    [1, "無限大∞ソリューション", "真田アサミ・沢城みゆき・氷上恭子", 0],
+    [2, "Run & Gun!!", "鳥海浩輔・鈴木千尋・サエキトモ", 0],
+    [3, "D.U.P!", "真田アサミ・沢城みゆき・氷上恭子", 0],
+    [4, "ONLY★YOU 〜君を守りたい〜", "鳥海浩輔・鈴木千尋・サエキトモ", 0],
+    [5, "Voice of Heart (D.U.P & P.K.O Ver.)", "真田アサミ・沢城みゆき・氷上恭子・鳥海浩輔・鈴木千尋・サエキトモ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fdc6d6bd-4d21-4915-9fe4-454f0e622f8a"]
+
 [20933b8aea98c31c8373a001a2c6d23e]
 catalognumber = "BRDR-1012"
 date = "2003-02-08"
@@ -576,6 +605,44 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c05c9fd4-98ef-4938-8b8f-2b92f478cd6b", "https://vgmdb.net/album/69946"]
 
+[39fa05f7b8980a59d0a9f289db4843e3]
+catalognumber = "BRDF-3005"
+date = "2003-05-23"
+album = "「デ・ジ・キャラットにょ」キャラクターシングルコレクション① デ・ジ・キャラット"
+tracks = [
+    [1, "オーエンするにょ", "デ・ジ・キャラット(CV.真田アサミ)", 0],
+    [2, "みていてほしいにょ", "デ・ジ・キャラット(CV.真田アサミ)", 0],
+    [3, "ミニドラマ「でじこの『シークレットダイアリー』にょ」", "デ・ジ・キャラット(CV.真田アサミ)", 0],
+    [4, "オーエンするにょ(*Karaoke)", "デ・ジ・キャラット(CV.真田アサミ)", 0],
+    [5, "みていてほしいにょ(*Karaoke)", "デ・ジ・キャラット(CV.真田アサミ)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6ac80620-ccfc-479a-8755-3467f78ba461"]
+
+[44b5bcaa38963a3da32c6a7e137b1db7]
+catalognumber = "BRDF-3006"
+date = "2003-05-23"
+album = "ミラクル☆テレパシー"
+tracks = [
+    [1, "ミラクル★テレパシー", "ミルフィーユ*蘭花*でじこ", 0],
+    [2, "午前0時はハッピースタート!", "ミルフィーユ*蘭花*でじこ", 0],
+    [3, "ミラクル★テレパシー (*Karaoke)", "ミルフィーユ*蘭花*でじこ", 0],
+    [4, "午前0時はハッピースタート! (*Karaoke)", "ミルフィーユ*蘭花*でじこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/28283fcf-5149-4813-90f7-a01bca57fe7d"]
+
+[2cbb572dfc4587d3a6f402bc5ed07efc]
+catalognumber = "BRDF-3008"
+date = "2003-06-27"
+album = "「デ・ジ・キャラットにょ」キャラクターシングルコレクション② プチ・キャラット"
+tracks = [
+    [1, "ぷち・まいんど", "プチ・キャラット(CV.沢城みゆき)", 0],
+    [2, "しっぽの円舞曲", "プチ・キャラット(CV.沢城みゆき)", 0],
+    [3, "ミニドラマ「ぷちこの遊園地デート(?)にゅ」", "プチ・キャラット(CV.沢城みゆき)", 0],
+    [4, "ぷち・まいんど*Karaoke", "プチ・キャラット(CV.沢城みゆき)", 0],
+    [5, "しっぽの円舞曲*Karaoke", "プチ・キャラット(CV.沢城みゆき)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/1e2ee583-8135-4de7-aa1b-2d38dea89c6d"]
+
 [c2695b966bfa71a1b4276d4f2bfec63d]
 catalognumber = "BRDR-1022"
 date = "2003-07-25"
@@ -588,6 +655,35 @@ tracks = [
     [5, "Message", "", 0],
 ]
 links = ["https://vgmdb.net/album/139158"]
+
+[624f8f3d839f6022bdd158949abe4571]
+catalognumber = "BRDF-3014"
+date = "2003-07-25"
+album = "「デ・ジ・キャラットにょ」キャラクターシングルコレクション③ラ・ビ・アン・ローズ"
+tracks = [
+    [1, "普通じゃナイの", "ラ・ビ・アン・ローズ(CV.氷上恭子)", 0],
+    [2, "制服とリップクリーム", "ラ・ビ・アン・ローズ(CV.氷上恭子)", 0],
+    [3, "ミニドラマ「ラビアンのアイドルコンテスト出場よ!」", "ラ・ビ・アン・ローズ(CV.氷上恭子)", 0],
+    [4, "普通じゃナイの*Karaoke", "ラ・ビ・アン・ローズ(CV.氷上恭子)", 0],
+    [5, "制服とリップクリーム*Karaoke", "ラ・ビ・アン・ローズ(CV.氷上恭子)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/c6bfd47b-bdb9-43b6-96bc-e0dfcafe21a6"]
+
+[7d4fabd1e1762d6a40bea78b6af780c5]
+catalognumber = "BRDA-1026"
+date = "2003-10-10"
+album = "CAUTION!"
+tracks = [
+    [1, "CAUTION! ~Instrumental~", "P・K・O", 0],
+    [2, "EGOIST", "P・K・O", 0],
+    [3, "ZERO", "P・K・O", 0],
+    [4, "Run&Gun! ~BTL II 大宮Live ver.~", "P・K・O", 0],
+    [5, "BLACK AMBITION ~Ambitious Soul Mix~", "P・K・O", 0],
+    [6, "VOICE MESSAGE", "P・K・O", 0],
+    [7, "EGOIST ~tracks~", "P・K・O", 0],
+    [8, "ZERO ~tracks~", "P・K・O", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d2aa63d1-92d3-4f9e-8131-4c0b583771e6"]
 
 [4eba7ff95bb53957645ea62a1f14f1b9]
 catalognumber = "BRDF-3017"
@@ -1044,6 +1140,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f441ff5-11e8-46a4-85ee-870164889622", "https://vgmdb.net/album/123900"]
 
+[d1aeb05044cc5e5778454ff69d968a23]
+catalognumber = ""
+date = "2022-10-14"
+album = "Welcome! (D-POP version)"
+tracks = [
+    [1, "Welcome! (D-POP version)", "真田アサミ, 沢城みゆき, 氷上恭子, 明坂聡美, 伊藤彩沙", 0],
+]
+links = ["https://beta.musicbrainz.org/release/076a43b5-59ce-4d00-9942-bf9313930071"]
+
 [0b8394aea698a38c897440b43455e9d0]
 catalognumber = "BRMM-10572"
 date = "2022-10-26"
@@ -1063,6 +1168,15 @@ tracks = [
     [12, "ぼなぺてぃーと♡S", "Lyrical Lily", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ae6b1d1f-2d8b-46dc-ab17-4c952334c8ed", "https://vgmdb.net/album/122544"]
+
+[ca200a55604afee876c6ff1275ffc9ce]
+catalognumber = "BRDM-10209"
+date = "2023-01-03"
+album = "PARTY☆NIGHT (D-POP version)"
+tracks = [
+    [1, "PARTY☆NIGHT (D-POP version)", "真田アサミ, 沢城みゆき, 氷上恭子, 明坂聡美, 伊藤彩沙", 0],
+]
+links = ["https://beta.musicbrainz.org/release/005a8a6a-c2a7-4540-ba83-6bea33ece7b4"]
 
 [ac781e00d53d60dc54bc56b40fdb0fef]
 catalognumber = "LACA-9954~6"
