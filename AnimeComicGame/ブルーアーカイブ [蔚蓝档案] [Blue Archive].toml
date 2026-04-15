@@ -549,6 +549,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/126124"]
 
+[d6da4a35657136a5e4c94766ae49ec39]
+catalognumber = "BACD-0006"
+date = "2023-01-23"
+album = "ブルーアーカイブ「ドラマCD 舞台袖のかくしごと～キヴォトス晄輪大祭～」楽曲「LA LA RUN!」"
+tracks = [
+    [1, "LA LA RUN!", "ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)", 0],
+    [2, "LA LA RUN!(Instrumental Ver.)", "ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6ac346d5-48c8-4980-aef5-e60665bfa73d"]
+
 [87472ebd368928ae0f8ae91c3f86e031]
 catalognumber = "NMCD-0021"
 date = "2023-04-16"
@@ -1236,6 +1246,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/66660d36-96ef-4cd6-8d68-f99333f25be1", "https://vgmdb.net/album/135281"]
 
+[db555ad63cfcdf0bfa3007ad6192bd7e]
+catalognumber = ""
+date = "2024-03-25"
+album = "夢路の花"
+tracks = [
+    [1, "夢路の花", "ヒナ(CV:広橋涼)", 0],
+    [2, "夢路の花 (Short Ver.)", "ヒナ(CV:広橋涼)", 0],
+    [3, "夢路の花 (Instrumental Ver.)", "ヒナ(CV:広橋涼)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4580373d-337f-4ad0-bd0f-e3443eeca218"]
+
 [a6d10c8b507a232e0dea72eb55fb1eb3]
 catalognumber = "BACD-0019"
 date = "2024-04"
@@ -1501,6 +1522,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/397288dd-9a03-4da2-97b9-9fea0a082d74"]
 
+[c9def12081d99c3d4961c807be691629]
+catalognumber = ""
+date = "2024-07-18"
+album = "准备出发！"
+tracks = [
+    [1, "准备出发！", "安雪璃/小敢/MACE/曹雅雯/Z君", 0],
+    [2, "准备出发！ (伴奏)", "安雪璃/小敢/MACE/曹雅雯/久田泉奈（CV", 0],
+]
+links = ["https://music.163.com/#/album?id=242386253"]
+
 [1a068b74d619d3c3836461e816ad0352]
 catalognumber = "N/A"
 date = "2024-07-20"
@@ -1578,6 +1609,15 @@ tracks = [
     [10, "Shooting Stars", "kanmi", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f27432d7-f18e-4747-8dd8-3a16f73048f4", "https://vgmdb.net/album/141629"]
+
+[7968a82d26f67db1418c530106e508ab]
+catalognumber = ""
+date = "2024-08-03"
+album = "向着黎明奔去"
+tracks = [
+    [1, "向着黎明奔去 (中文版)", "龟娘/大汪汪", 0],
+]
+links = ["https://music.163.com/#/album?id=243463197"]
 
 [3b9288f1948544b2ec8fa8b67cd82896]
 catalognumber = "LOLPR-059"
@@ -2164,6 +2204,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/147322"]
 
+[50833872d4bfbeb1e4682a8b1caa0d9c]
+catalognumber = ""
+date = "2025-03-30"
+album = "碧蓝档案活动「Sheside outside」活动曲 Paint It Now"
+tracks = [
+    [1, "Paint it Now", "星海辰starsea/灌注爱丽丝喵", 0],
+    [2, "Paint it Now 伴奏", "錠前 サオリ（CV:石上静香）/星海辰starsea", 0],
+    [3, "Paint It Now--Short Ver", "星海辰starsea", 0],
+    [4, "Paint It Now（Short Ver） 伴奏", "錠前 サオリ（CV:石上静香）/星海辰starsea", 0],
+]
+links = ["https://music.163.com/#/album?id=267481132"]
+
 [f338e6a16a7aec54dccd0f4bb631f5b0]
 catalognumber = ""
 date = "2025-04-21"
@@ -2272,6 +2324,17 @@ tracks = [
     [15, "Starry Confession (ziki_7 Remix)", "ziki_7", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/78935030-c566-4173-8729-f853b4b8fd65", "https://vgmdb.net/album/149608"]
+
+[7f02845748db4e7eb48d5d5179db34a3]
+catalognumber = ""
+date = "2025-05-02"
+album = "Twinkle☆Magic – Memories in Melody ［사쿠라코］ (블루 아카이브)"
+tracks = [
+    [1, "Twinkle☆Magic", "사쿠라코 (CV:이다은)", 0],
+    [2, "Twinkle☆Magic (Inst.)", "사쿠라코 (CV:이다은)", 0],
+    [3, "선생님은 차가 먼저인가요, 우유가 먼저인가요?", "사쿠라코 (CV:이다은)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5472b42b-9421-4c94-bcb0-d3a645a18da1"]
 
 [be0c454be8cbb5c2a897a55970064d91]
 catalognumber = "QMCD-0018"
@@ -2474,6 +2537,17 @@ tracks = [
     [3, "ボイスドラマ Vol.13 「大怪獣バイカゴン現る!」", "梅花園 (春原シュン (CV.伊藤静), 春原ココナ (CV.五十嵐裕美))", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/62f5ca20-91e2-45a6-b648-2f89ca7dd201"]
+
+[e99b900cf74a5ebc35b8b71ca0f31e5a]
+catalognumber = ""
+date = "2025-08-03"
+album = "碧蓝档案【夏空下的约定】活动曲「Romantic Seaside」"
+tracks = [
+    [1, "Romantic Seaside（Game Size）", "星海辰starsea", 0],
+    [2, "Romantic Seaside", "星海辰starsea", 0],
+    [3, "Romantic Seaside(Drama Ver.)", "星海辰starsea", 0],
+]
+links = ["https://music.163.com/#/album?id=280328779"]
 
 [25bb7588a24fb13b103d00a9a29ebcd2]
 catalognumber = "CPCD-0033"
