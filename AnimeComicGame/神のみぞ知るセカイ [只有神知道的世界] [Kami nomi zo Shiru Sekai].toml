@@ -1,136 +1,136 @@
-[798cde6d794e38e23f1fb286a88398dd]
+[5262f468bf77e5fecf8ca4a5d0ff239b]
 catalognumber = "GNCA-0191"
 date = "2010-11-03"
 album = "God only knows～集積回路の夢旅人 / Oratorio The World God Only Knows"
 tracks = [
     [1, "God only knows", "Oratorio The World God Only Knows", 1],
-    [2, "集積回路の夢旅人", "Oratorio The World God Only Knows", 0],
+    [2, "集積回路の夢旅人", "Oratorio The World God Only Knows", 1],
     [3, "God only knows (Instrumental)", "Oratorio The World God Only Knows", 1],
-    [4, "集積回路の夢旅人 (Instrumental)", "Oratorio The World God Only Knows", 0],
+    [4, "集積回路の夢旅人 (Instrumental)", "Oratorio The World God Only Knows", 1],
     [5, "God only knows 第三幕 (O.A. version)", "Oratorio The World God Only Knows", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c80a67bb-554e-4b69-9435-913ebfe3266d", "https://vgmdb.net/album/23043"]
 
-[c0bf92269e85602a6febbd130fb0808b]
+[cc4316994c60ea67569a71e47938e12d]
 catalognumber = "GNCA-0200"
 date = "2010-11-10"
 album = "神のみキャラCD.0 エルシィ starring 伊藤かな恵"
 tracks = [
     [1, "Oh!まい☆GOD!!", "エルシィ starring 伊藤かな恵", 1],
-    [2, "コイノシルシ from Elsie", "エルシィ starring 伊藤かな恵", 0],
+    [2, "コイノシルシ from Elsie", "エルシィ starring 伊藤かな恵", 1],
     [3, "Oh!まい☆GOD!! (Instrumental)", "エルシィ starring 伊藤かな恵", 1],
-    [4, "コイノシルシ from Elsie (Instrumental)", "エルシィ starring 伊藤かな恵", 0],
+    [4, "コイノシルシ from Elsie (Instrumental)", "エルシィ starring 伊藤かな恵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0e5aeefd-2a47-4df8-8217-e6ad197d9ecf", "https://vgmdb.net/album/27037"]
 
-[048381aa2582bf252cebc369570c188b]
+[17bcb8c60e634e1146962dade9422773]
 catalognumber = "GNCA-0201"
 date = "2010-11-17"
 album = "神のみキャラCD.1 高原歩美 starring 竹達彩奈"
 tracks = [
-    [1, "Wonder Chance", "高原歩美 starring 竹達彩奈", 0],
-    [2, "コイノシルシ from Ayumi", "高原歩美 starring 竹達彩奈", 0],
-    [3, "Wonder Chance (Instrumental)", "高原歩美 starring 竹達彩奈", 0],
-    [4, "コイノシルシ from Ayumi (Instrumental)", "高原歩美 starring 竹達彩奈", 0],
+    [1, "Wonder Chance", "高原歩美 starring 竹達彩奈", 1],
+    [2, "コイノシルシ from Ayumi", "高原歩美 starring 竹達彩奈", 1],
+    [3, "Wonder Chance (Instrumental)", "高原歩美 starring 竹達彩奈", 1],
+    [4, "コイノシルシ from Ayumi (Instrumental)", "高原歩美 starring 竹達彩奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b434b285-9fc6-478f-9289-243297d83795", "https://vgmdb.net/album/27043"]
 
-[e81c336181c9f51dbbf5b70904a1db4d]
+[101e80b81d90cac46d885bd3be54b619]
 catalognumber = "GNCA-0202"
 date = "2010-11-24"
 album = "神のみキャラCD.2 青山美生 starring 悠木碧"
 tracks = [
-    [1, "ラスト・ダンス", "青山美生 starring 悠木碧", 0],
-    [2, "コイノシルシ from Mio", "青山美生 starring 悠木碧", 0],
-    [3, "ラスト・ダンス (Instrumental)", "青山美生 starring 悠木碧", 0],
-    [4, "コイノシルシ from Mio (Instrumental)", "青山美生 starring 悠木碧", 0],
+    [1, "ラスト・ダンス", "青山美生 starring 悠木碧", 1],
+    [2, "コイノシルシ from Mio", "青山美生 starring 悠木碧", 1],
+    [3, "ラスト・ダンス (Instrumental)", "青山美生 starring 悠木碧", 1],
+    [4, "コイノシルシ from Mio (Instrumental)", "青山美生 starring 悠木碧", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b39b5e62-bffc-4737-a5ac-9c44c5bdf465", "https://vgmdb.net/album/27044"]
 
-[0652ddc38006ec3cfca25dcc0198016c]
+[7612800a77eb1a12382fb35148235f96]
 catalognumber = "GNCA-0205"
 date = "2010-12-01"
 album = "神のみキャラCD.くれよん 飛鳥 空 starring 櫻井 智"
 tracks = [
-    [1, "初めての色", "飛鳥空 starring 櫻井智", 0],
-    [2, "たった一度の奇跡", "飛鳥空 starring 櫻井智", 0],
-    [3, "初めての色 (Instrumental)", "飛鳥空 starring 櫻井智", 0],
-    [4, "たった一度の奇跡 (Instrumental)", "飛鳥空 starring 櫻井智", 0],
+    [1, "初めての色", "飛鳥空 starring 櫻井智", 1],
+    [2, "たった一度の奇跡", "飛鳥空 starring 櫻井智", 1],
+    [3, "初めての色 (Instrumental)", "飛鳥空 starring 櫻井智", 1],
+    [4, "たった一度の奇跡 (Instrumental)", "飛鳥空 starring 櫻井智", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4bb06f81-2cd8-4619-a16b-871b5c320338", "https://vgmdb.net/album/27047"]
 
-[2d472de6ccae24c878eccbab9bb0382b]
+[5bcaab1352ca9eeb37226a6872fa084f]
 catalognumber = "GNCA-0193"
 date = "2010-12-08"
 album = "コイノシルシ / 神のみぞ知り隊"
 tracks = [
-    [1, "コイノシルシ", "神のみぞ知り隊", 0],
-    [2, "コイノシルシ feat. 高原歩美", "高原歩美 starring 竹達彩奈 with エルシィ starring 伊藤かな恵", 0],
-    [3, "コイノシルシ feat. 青山美生", "青山美生 starring 悠木 碧 with エルシィ&高原歩美 starring 伊藤かな恵&竹達彩奈", 0],
-    [4, "コイノシルシ feat. 中川かのん", "中川かのん starring 東山奈央 with エルシィ&歩美&美生 starring 伊藤かな恵&竹達彩奈&悠木 碧", 0],
-    [5, "コイノシルシ feat. 汐宮 栞", "汐宮 栞 starring 花澤香菜 with エルシィ&歩美&美生&かのん starring 伊藤かな恵&竹達彩奈&悠木 碧&東山奈央", 0],
-    [6, "コイノシルシ (Instrumental)", "神のみぞ知り隊", 0],
+    [1, "コイノシルシ", "神のみぞ知り隊", 1],
+    [2, "コイノシルシ feat. 高原歩美", "高原歩美 starring 竹達彩奈 with エルシィ starring 伊藤かな恵", 1],
+    [3, "コイノシルシ feat. 青山美生", "青山美生 starring 悠木 碧 with エルシィ&高原歩美 starring 伊藤かな恵&竹達彩奈", 1],
+    [4, "コイノシルシ feat. 中川かのん", "中川かのん starring 東山奈央 with エルシィ&歩美&美生 starring 伊藤かな恵&竹達彩奈&悠木 碧", 1],
+    [5, "コイノシルシ feat. 汐宮 栞", "汐宮 栞 starring 花澤香菜 with エルシィ&歩美&美生&かのん starring 伊藤かな恵&竹達彩奈&悠木 碧&東山奈央", 1],
+    [6, "コイノシルシ (Instrumental)", "神のみぞ知り隊", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0c0bc177-8a8d-4752-b536-b25e39a6b25c", "https://vgmdb.net/album/27325"]
 
-[21200182ecb10fb505a656f936c8dee6]
+[e004861da03645eb4fb1377dc6e5e47f]
 catalognumber = "GNCA-0203"
 date = "2010-12-15"
 album = "神のみキャラCD.3 中川かのん starring 東山奈央"
 tracks = [
-    [1, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
-    [2, "コイノシルシ from Kanon", "中川かのん starring 東山奈央", 0],
-    [3, "ハッピークレセント (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [4, "コイノシルシ from Kanon (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "ハッピークレセント", "中川かのん starring 東山奈央", 2],
+    [2, "コイノシルシ from Kanon", "中川かのん starring 東山奈央", 1],
+    [3, "ハッピークレセント (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [4, "コイノシルシ from Kanon (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ff62cd90-ec7f-4638-90f9-a5a18b3ab896", "https://vgmdb.net/album/27045"]
 
-[1a2009d314a5250b2387530a04a1bcac]
+[7d76ced0fb52ee5d94a91aa8e1de96dc]
 catalognumber = "GNCA-0204"
 date = "2010-12-22"
 album = "神のみキャラCD.4 汐宮 栞 starring 花澤香菜"
 tracks = [
-    [1, "口笛ジェット", "汐宮 栞 starring 花澤香菜", 0],
-    [2, "コイノシルシ from Shiori", "汐宮 栞 starring 花澤香菜", 0],
-    [3, "口笛ジェット (Instrumental)", "汐宮 栞 starring 花澤香菜", 0],
-    [4, "コイノシルシ from Shiori (Instrumental)", "汐宮 栞 starring 花澤香菜", 0],
+    [1, "口笛ジェット", "汐宮 栞 starring 花澤香菜", 2],
+    [2, "コイノシルシ from Shiori", "汐宮 栞 starring 花澤香菜", 1],
+    [3, "口笛ジェット (Instrumental)", "汐宮 栞 starring 花澤香菜", 1],
+    [4, "コイノシルシ from Shiori (Instrumental)", "汐宮 栞 starring 花澤香菜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/52ba17b5-7e37-49d5-ad84-9c11542c32e0", "https://vgmdb.net/album/27046"]
 
-[6810436c0a1a1b50c3590f98e6d03b3d]
+[38ebe053f7536083d8e999b9b61d035e]
 catalognumber = "GNXA-707102"
 date = "2011-01-26"
 album = "神のみぞ知るセカイ ROUTE 1.0 SPECIAL DISC"
 tracks = [
     [1, "God only knows 第三幕 (Harder Goddess arrange)", "MOSAIC.WAV", 1],
     [2, "Oh!まい☆GOD!! (Dancing Little Happy arrange)", "MOSAIC.WAV", 1],
-    [3, "ハッピークレセント (Waving More Happy arrange)", "MOSAIC.WAV", 0],
-    [4, "コイノシルシ (Finale arrange)", "MOSAIC.WAV", 0],
+    [3, "ハッピークレセント (Waving More Happy arrange)", "MOSAIC.WAV", 1],
+    [4, "コイノシルシ (Finale arrange)", "MOSAIC.WAV", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/095504b5-9cce-4290-988f-dd03f3d0dc3f", "https://vgmdb.net/album/48723"]
 
-[b62cbd747a314f8465f2e8da9f0f1ae1]
+[6ffaeb23239889eea8fec5a8fe419bc2]
 catalognumber = "GNCA-1277"
 date = "2011-02-16"
 album = "Lasei / ELISA [Limited Edition] Vocal"
 tracks = [
     [1, "Prologue of Lasei", "ELISA", 1],
     [2, "God only knows", "Oratorio The World God Only Knows", 1],
-    [3, "集積回路の夢旅人", "ELISA", 0],
+    [3, "集積回路の夢旅人", "ELISA", 1],
     [4, "Light To Unite", "ELISA", 1],
-    [5, "機械仕掛けのシンデレラ", "ELISA", 0],
+    [5, "機械仕掛けのシンデレラ", "ELISA", 1],
     [6, "Special \"ONE\" <album ver>", "ELISA", 0],
-    [7, "真実の証", "ELISA", 0],
-    [8, "True my sight.", "ELISA", 0],
+    [7, "真実の証", "ELISA", 1],
+    [8, "True my sight.", "ELISA", 1],
     [9, "Reminiscence", "ELISA", 1],
     [10, "Heaven's Sky", "ELISA", 1],
     [11, "STONE CIRCLE", "ELISA", 1],
-    [12, "深淵のプロフェシア", "ELISA", 0],
+    [12, "深淵のプロフェシア", "ELISA", 1],
     [13, "Epilogue of Lasei", "ELISA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cb787bf3-1a59-4db2-93c0-4339d419cc87", "https://vgmdb.net/album/24353"]
 
-[7ea0388a284135eac98caf4c4d54362b]
+[8541d4c98208189b6465032f81b1e512]
 catalognumber = "GNCA-1277"
 date = "2011-02-16"
 album = "Lasei / ELISA [Limited Edition] Video"
@@ -138,62 +138,62 @@ tracks = [
     [1, "ebullient future (English)", "ELISA", 1],
     [2, "HIKARI", "ELISA", 1],
     [3, "ミカエルは眠る -dans le coeur-", "ELISA", 0],
-    [4, "光の雨", "ELISA", 0],
+    [4, "光の雨", "ELISA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cb787bf3-1a59-4db2-93c0-4339d419cc87", "https://vgmdb.net/album/24353"]
 
-[29c22ef55905187be5c59f8f6ce87b6a]
+[fc34bd4232fe2f007162b6d056627580]
 catalognumber = "GNCA-1278"
 date = "2011-02-16"
 album = "Lasei / ELISA"
 tracks = [
     [1, "Prologue of Lasei", "ELISA", 1],
     [2, "God only knows", "Oratorio The World God Only Knows", 1],
-    [3, "集積回路の夢旅人", "ELISA", 0],
+    [3, "集積回路の夢旅人", "ELISA", 1],
     [4, "Light To Unite", "ELISA", 1],
-    [5, "機械仕掛けのシンデレラ", "ELISA", 0],
+    [5, "機械仕掛けのシンデレラ", "ELISA", 1],
     [6, "Special “ONE” <album ver>", "ELISA", 1],
-    [7, "真実の証", "ELISA", 0],
-    [8, "True my sight.", "ELISA", 0],
+    [7, "真実の証", "ELISA", 1],
+    [8, "True my sight.", "ELISA", 1],
     [9, "Reminiscence", "ELISA", 1],
     [10, "Heaven’s Sky", "ELISA", 1],
     [11, "STONE CIRCLE", "ELISA", 1],
-    [12, "深淵のプロフェシア", "ELISA", 0],
+    [12, "深淵のプロフェシア", "ELISA", 1],
     [13, "Epilogue of Lasei", "ELISA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0c505839-3931-4338-b518-6d24f71f3480", "https://vgmdb.net/album/24524"]
 
-[7f0ef86839b46f4c357409e2a8017ff8]
+[7d8d4ba2b7310e146179125d6c09f917]
 catalognumber = "GNXA-707202"
 date = "2011-02-23"
 album = "神のみぞ知るセカイ ROUTE 2.0 SPECIAL DISC"
 tracks = [
-    [1, "Wonder Chance (Game Start!→Bonus Core arrange)", "MOSAIC.WAV", 0],
-    [2, "口笛ジェット (Modulated Whistle arrange)", "MOSAIC.WAV", 0],
-    [3, "ラスト・ダンス (Hard Rock Woman arrange)", "MOSAIC.WAV", 0],
-    [4, "集積回路の夢旅人 (Until the Ending arrange)", "MOSAIC.WAV", 0],
+    [1, "Wonder Chance (Game Start!→Bonus Core arrange)", "MOSAIC.WAV", 1],
+    [2, "口笛ジェット (Modulated Whistle arrange)", "MOSAIC.WAV", 1],
+    [3, "ラスト・ダンス (Hard Rock Woman arrange)", "MOSAIC.WAV", 1],
+    [4, "集積回路の夢旅人 (Until the Ending arrange)", "MOSAIC.WAV", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f551cca5-5497-443e-9ddc-32d9d23f1567", "https://vgmdb.net/album/48724"]
 
-[5eec9e884e0c55c16791fabf4ddadb2e]
+[7bfe6a0b74d61b1d369317ca4152e878]
 catalognumber = "GNCA-1280"
 date = "2011-03-03"
 album = "Birth / 中川かのん starring 東山奈央 Vocal, Talk"
 tracks = [
     [1, "Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 1],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [5, "ウラハラブ", "中川かのん starring 東山奈央", 0],
-    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
-    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
-    [8, "らぶこーる", "中川かのん starring 東山奈央", 0],
-    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [5, "ウラハラブ", "中川かのん starring 東山奈央", 1],
+    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
+    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
+    [8, "らぶこーる", "中川かのん starring 東山奈央", 1],
+    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [10, "Birth", "前口渉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b0526133-a2fe-49a9-a05a-6de2265ffb97", "https://vgmdb.net/album/27306"]
 
-[ec5a70163b3dbf92576e30473d6b62b1]
+[af01e9cac6aaf14d100948b27c608f57]
 catalognumber = "GNCA-1280"
 date = "2011-03-03"
 album = "Birth / 中川かのん starring 東山奈央 Vocal"
@@ -209,79 +209,79 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b0526133-a2fe-49a9-a05a-6de2265ffb97", "https://vgmdb.net/album/27306"]
 
-[ad3afca8597aab8de4dd615fc25b37ab]
+[f1ad1ee8b675568d159cba971bf906a2]
 catalognumber = "GNCA-1281"
 date = "2011-03-03"
 album = "Birth / 中川かのん starring 東山奈央"
 tracks = [
     [1, "Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 2],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [5, "ウラハラブ", "中川かのん starring 東山奈央", 0],
-    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
-    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
-    [8, "らぶこーる", "中川かのん starring 東山奈央", 0],
-    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [5, "ウラハラブ", "中川かのん starring 東山奈央", 1],
+    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
+    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
+    [8, "らぶこーる", "中川かのん starring 東山奈央", 1],
+    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [10, "Birth", "前口渉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8d2c4735-c1cd-4f87-9b65-9aaf7f7a7762", "https://vgmdb.net/album/27308"]
 
-[46f9add07fc918206479ad3549d3e259]
+[2a989f38617a26e44e3e05a849044bf2]
 catalognumber = "GNCA-1279"
 date = "2011-04-06"
 album = "神のみぞ知るセカイ Original Soundtrack"
 tracks = [
-    [1, "恋～口づけまでの距離［メインテーマ］", "松尾早人", 0],
+    [1, "恋～口づけまでの距離［メインテーマ］", "松尾早人", 1],
     [2, "God only knows 第三幕", "Oratorio The World God Only Knows", 1],
     [3, "NOW PLAYING", "松尾早人", 1],
-    [4, "我が名は落とし神", "松尾早人", 0],
-    [5, "空から落ちてきた小悪魔", "松尾早人", 0],
-    [6, "さぁ、駆け魂狩りへ！", "松尾早人", 0],
-    [7, "心のスキマ", "松尾早人", 0],
-    [8, "走り出したら止まれない少女", "松尾早人", 0],
-    [9, "華麗なる攻略", "松尾早人", 0],
-    [10, "少女の涙", "松尾早人", 0],
-    [11, "見えたぞ、エンディングが", "松尾早人", 0],
-    [12, "コイノシルシ feat. 高原歩美 (TV-EDIT)", "神のみぞ知り隊 feat. 高原歩美", 0],
-    [13, "あくまでも妹です", "松尾早人", 0],
-    [14, "気高くも可憐な少女", "松尾早人", 0],
-    [15, "ルート検索中", "松尾早人", 0],
-    [16, "令嬢の秘密", "松尾早人", 0],
-    [17, "恋の予感", "松尾早人", 0],
-    [18, "コイノシルシ feat. 青山美生 (TV-EDIT)", "神のみぞ知り隊 feat. 青山美生", 0],
-    [19, "神にーさま～", "松尾早人", 0],
-    [20, "モノローグ", "松尾早人", 0],
-    [21, "無限回廊のヒロイン", "松尾早人", 0],
-    [22, "体力＞知力", "松尾早人", 0],
-    [23, "せつない幕切れ", "松尾早人", 0],
-    [24, "たった一度の奇跡 (TV-EDIT)", "飛鳥 空 starring 櫻井 智", 0],
-    [25, "神さま～", "松尾早人", 0],
-    [26, "ありふれた現実", "松尾早人", 0],
-    [27, "不明瞭なルート", "松尾早人", 0],
-    [28, "限りなく透明な存在", "松尾早人", 0],
-    [29, "誰も知らない…", "松尾早人", 0],
-    [30, "選択肢総当り", "松尾早人", 0],
-    [31, "恋、ヨロシクお願いします！～追憶～", "松尾早人", 0],
-    [32, "コイノシルシ feat.中川かのん (TV-EDIT)", "神のみぞ知り隊 feat. 中川かのん", 0],
-    [33, "いってきまーす！", "松尾早人", 0],
-    [34, "迫り来る影", "松尾早人", 0],
-    [35, "ゆるい日常", "松尾早人", 0],
-    [36, "行動への起動", "松尾早人", 0],
-    [37, "コイノシルシ from Elsie (TV-EDIT)", "エルシィ starring 伊藤かな恵", 0],
-    [38, "私、がんばります！", "松尾早人", 0],
-    [39, "饒舌な本と無口な少女", "松尾早人", 0],
-    [40, "本は愛 本は喜び 本は感動", "松尾早人", 0],
-    [41, "去り行くものたちへの鎮魂歌", "松尾早人", 0],
-    [42, "恋の調べ", "松尾早人", 0],
-    [43, "恋の記憶", "松尾早人", 0],
-    [44, "コイノシルシ feat. 汐宮 栞 (TV-EDIT)", "神のみぞ知り隊 feat. 汐宮 栞", 0],
+    [4, "我が名は落とし神", "松尾早人", 1],
+    [5, "空から落ちてきた小悪魔", "松尾早人", 1],
+    [6, "さぁ、駆け魂狩りへ！", "松尾早人", 1],
+    [7, "心のスキマ", "松尾早人", 1],
+    [8, "走り出したら止まれない少女", "松尾早人", 1],
+    [9, "華麗なる攻略", "松尾早人", 1],
+    [10, "少女の涙", "松尾早人", 1],
+    [11, "見えたぞ、エンディングが", "松尾早人", 1],
+    [12, "コイノシルシ feat. 高原歩美 (TV-EDIT)", "神のみぞ知り隊 feat. 高原歩美", 1],
+    [13, "あくまでも妹です", "松尾早人", 1],
+    [14, "気高くも可憐な少女", "松尾早人", 1],
+    [15, "ルート検索中", "松尾早人", 1],
+    [16, "令嬢の秘密", "松尾早人", 1],
+    [17, "恋の予感", "松尾早人", 1],
+    [18, "コイノシルシ feat. 青山美生 (TV-EDIT)", "神のみぞ知り隊 feat. 青山美生", 1],
+    [19, "神にーさま～", "松尾早人", 1],
+    [20, "モノローグ", "松尾早人", 1],
+    [21, "無限回廊のヒロイン", "松尾早人", 1],
+    [22, "体力＞知力", "松尾早人", 1],
+    [23, "せつない幕切れ", "松尾早人", 1],
+    [24, "たった一度の奇跡 (TV-EDIT)", "飛鳥 空 starring 櫻井 智", 1],
+    [25, "神さま～", "松尾早人", 1],
+    [26, "ありふれた現実", "松尾早人", 1],
+    [27, "不明瞭なルート", "松尾早人", 1],
+    [28, "限りなく透明な存在", "松尾早人", 1],
+    [29, "誰も知らない…", "松尾早人", 1],
+    [30, "選択肢総当り", "松尾早人", 1],
+    [31, "恋、ヨロシクお願いします！～追憶～", "松尾早人", 1],
+    [32, "コイノシルシ feat.中川かのん (TV-EDIT)", "神のみぞ知り隊 feat. 中川かのん", 1],
+    [33, "いってきまーす！", "松尾早人", 1],
+    [34, "迫り来る影", "松尾早人", 1],
+    [35, "ゆるい日常", "松尾早人", 1],
+    [36, "行動への起動", "松尾早人", 1],
+    [37, "コイノシルシ from Elsie (TV-EDIT)", "エルシィ starring 伊藤かな恵", 1],
+    [38, "私、がんばります！", "松尾早人", 1],
+    [39, "饒舌な本と無口な少女", "松尾早人", 1],
+    [40, "本は愛 本は喜び 本は感動", "松尾早人", 1],
+    [41, "去り行くものたちへの鎮魂歌", "松尾早人", 1],
+    [42, "恋の調べ", "松尾早人", 1],
+    [43, "恋の記憶", "松尾早人", 1],
+    [44, "コイノシルシ feat. 汐宮 栞 (TV-EDIT)", "神のみぞ知り隊 feat. 汐宮 栞", 1],
     [45, "NEXT STAGE", "松尾早人", 1],
-    [46, "集積回路の夢旅人 feat. 桂木桂馬", "桂木桂馬 starring 下野 紘 with Oratorio The World God Only Knows", 0],
+    [46, "集積回路の夢旅人 feat. 桂木桂馬", "桂木桂馬 starring 下野 紘 with Oratorio The World God Only Knows", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/191ffff6-25ef-4989-aee4-d0369edaccc2", "https://vgmdb.net/album/21590"]
 
-[3f62fef01e305390c00eaa1a5c16352f]
+[5f617d574010f9794611ffed01e7a36b]
 catalognumber = "QWCE-00187"
 date = "2011-04-06"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 12"
@@ -308,25 +308,25 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/924b924e-edbf-462b-be29-12cca2f40551", "https://vgmdb.net/album/29351"]
 
-[b2f0cc3f18091e48ead14a84a6828932]
+[ee1c46ec8c53d1a974ae1f8892e4a2bf]
 catalognumber = "GNCT-0017"
 date = "2011-04-20"
 album = "神のみぞ知るセカイII –SPECIAL SAMPLER DISC–"
 tracks = [
     [1, "A Whole New World God Only Knows (TV size)", "Oratorio The World God Only Knows", 1],
     [2, "God Only Knows 第三幕", "Oratorio The World God Only Knows", 1],
-    [3, "エルシィ&ハクアの「駆け魂隊トーク」", "エルシィ(伊藤かな恵)・ハクア(早見沙織)", 0],
-    [4, "アイノヨカン (TV size)", "神のみぞ知り隊", 0],
+    [3, "エルシィ&ハクアの「駆け魂隊トーク」", "エルシィ(伊藤かな恵)・ハクア(早見沙織)", 1],
+    [4, "アイノヨカン (TV size)", "神のみぞ知り隊", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/616d781f-4bd4-4e22-8202-3a37f1fde548", "https://vgmdb.net/album/48729"]
 
-[b7650de1f91fe6533a8e596105388b9b]
+[847a49ab83fe0f9eff4bed4223d5925f]
 catalognumber = "GNXA-707402"
 date = "2011-05-11"
 album = "神のみぞ知るセカイ ROUTE 4.0 SPECIAL DISC"
 tracks = [
-    [1, "恋、ヨロシクお願いします!", "シトロン starring 日高里菜＆内田真礼＆東山奈央", 0],
-    [2, "恋、ヨロシクお願いします! (Instrumental)", "シトロン starring 日高里菜＆内田真礼＆東山奈央", 0],
+    [1, "恋、ヨロシクお願いします!", "シトロン starring 日高里菜＆内田真礼＆東山奈央", 1],
+    [2, "恋、ヨロシクお願いします! (Instrumental)", "シトロン starring 日高里菜＆内田真礼＆東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/133ed06d-05e1-4ee0-8cbd-66b3b63b84b9", "https://vgmdb.net/album/48725"]
 
@@ -342,137 +342,137 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/458cf80e-bb29-48d0-bbb7-7c7f7db81037", "https://vgmdb.net/album/24880"]
 
-[05fedbed4c0c033c6416bc8882e7de95]
+[6cec7e69df8055dde3da81993ba1d51e]
 catalognumber = "GNXA-707502"
 date = "2011-05-25"
 album = "神のみぞ知るセカイ ROUTE 5.0 SPECIAL DISC"
 tracks = [
-    [1, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #1", "", 0],
-    [2, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #2", "", 0],
-    [3, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #3", "", 0],
-    [4, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #4", "", 0],
-    [5, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #5", "", 0],
-    [6, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #6", "", 0],
-    [7, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #7", "", 0],
+    [1, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #1", "", 1],
+    [2, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #2", "", 1],
+    [3, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #3", "", 1],
+    [4, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #4", "", 1],
+    [5, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #5", "", 1],
+    [6, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #6", "", 1],
+    [7, "朗読CD「神のみぞ知るセカイ」原作 FLAG.6 #7", "", 1],
 ]
 links = ["https://vgmdb.net/album/48726"]
 
-[b806ad613178042cef8666062c1c5a3b]
+[227662f76286b74130fc71674d667c58]
 catalognumber = "GNCA-0194"
 date = "2011-05-25"
 album = "アイノヨカン / 神のみぞ知り隊"
 tracks = [
-    [1, "アイノヨカン", "神のみぞ知り隊", 0],
-    [2, "アイノヨカン from 駆け魂隊", "駆け魂隊", 0],
-    [3, "アイノヨカン (Instrumental)", "神のみぞ知り隊", 0],
-    [4, "アイノヨカン from 駆け魂隊 (Instrumental)", "駆け魂隊", 0],
+    [1, "アイノヨカン", "神のみぞ知り隊", 1],
+    [2, "アイノヨカン from 駆け魂隊", "駆け魂隊", 1],
+    [3, "アイノヨカン (Instrumental)", "神のみぞ知り隊", 1],
+    [4, "アイノヨカン from 駆け魂隊 (Instrumental)", "駆け魂隊", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d3426778-19dd-44c8-b8a5-fe07c8f61a25", "https://vgmdb.net/album/24881"]
 
-[1d6bc50a4fcda61eae915828ce732808]
+[27ae741535334d444c23f35e86fb6d16]
 catalognumber = "GNCA-0206"
 date = "2011-06-01"
 album = "神のみキャラCD.5 春日 楠 starring 小清水亜美"
 tracks = [
     [1, "SAMURAIガールの憂鬱", "春日 楠 starring 小清水亜美", 1],
-    [2, "アイノヨカン from Kusunoki", "春日 楠 starring 小清水亜美", 0],
+    [2, "アイノヨカン from Kusunoki", "春日 楠 starring 小清水亜美", 1],
     [3, "SAMURAIガールの憂鬱 (Instrumental)", "春日 楠 starring 小清水亜美", 1],
-    [4, "アイノヨカン from Kusunoki (Instrumental)", "春日 楠 starring 小清水亜美", 0],
+    [4, "アイノヨカン from Kusunoki (Instrumental)", "春日 楠 starring 小清水亜美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5e17a0fc-75a1-44d3-beca-1e11b16310f6", "https://vgmdb.net/album/26890"]
 
-[5a1f8cb8cc61b3ab364ad8c23e1daa8e]
+[ff27c48dd5427357e5bd52c698f118fd]
 catalognumber = "GNCA-0209"
 date = "2011-06-08"
 album = "神のみキャラCD.00 ハクア starring 早見沙織"
 tracks = [
     [1, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
-    [2, "アイノヨカン from Haqua", "ハクア starring 早見沙織", 0],
+    [2, "アイノヨカン from Haqua", "ハクア starring 早見沙織", 1],
     [3, "NAKED GENIUS (Instrumental)", "ハクア starring 早見沙織", 1],
-    [4, "アイノヨカン from Haqua (Instrumental)", "ハクア starring 早見沙織", 0],
+    [4, "アイノヨカン from Haqua (Instrumental)", "ハクア starring 早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/74ecc9fd-dfaf-495d-9861-3096374b5f16", "https://vgmdb.net/album/26782"]
 
-[97ab8c982a4d7d8430dd2b331317117e]
+[058efba1099b26479382e818f5394916]
 catalognumber = "GNCA-0207"
 date = "2011-06-15"
 album = "神のみキャラCD.6 小阪ちひろ starring 阿澄佳奈"
 tracks = [
     [1, "It's All Right", "小阪ちひろ starring 阿澄佳奈", 1],
-    [2, "アイノヨカン from Chihiro", "小阪ちひろ starring 阿澄佳奈", 0],
+    [2, "アイノヨカン from Chihiro", "小阪ちひろ starring 阿澄佳奈", 1],
     [3, "It's All Right (Instrumental)", "小阪ちひろ starring 阿澄佳奈", 1],
-    [4, "アイノヨカン from Chihiro (Instrumental)", "小阪ちひろ starring 阿澄佳奈", 0],
+    [4, "アイノヨカン from Chihiro (Instrumental)", "小阪ちひろ starring 阿澄佳奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1b08bb6d-f09c-4a02-aef5-ac2558f66675", "https://vgmdb.net/album/26796"]
 
-[22f02f67d6c67fa4b7a07c828f727c9d]
+[822624d7ef169471c48daf431deea3d4]
 catalognumber = "GNXA-707602"
 date = "2011-06-22"
 album = "神のみぞ知るセカイ ROUTE 6.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #1", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #2", "", 0],
-    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #3", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #1", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #2", "", 1],
+    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #3", "", 1],
 ]
 links = ["https://vgmdb.net/album/48727"]
 
-[2a8554ade2a49232c6142ff4fd8cecb1]
+[a473b6fed352ac591e2fa50f94317143]
 catalognumber = "GNCA-0208"
 date = "2011-06-22"
 album = "神のみキャラCD.7 長瀬純 starring 豊崎愛生"
 tracks = [
     [1, "My Color", "長瀬 純 starring 豊崎愛生", 1],
-    [2, "アイノヨカン from Jun", "長瀬 純 starring 豊崎愛生", 0],
+    [2, "アイノヨカン from Jun", "長瀬 純 starring 豊崎愛生", 1],
     [3, "My Color (Instrumental)", "長瀬 純 starring 豊崎愛生", 1],
-    [4, "アイノヨカン from Jun (Instrumental)", "長瀬 純 starring 豊崎愛生", 0],
+    [4, "アイノヨカン from Jun (Instrumental)", "長瀬 純 starring 豊崎愛生", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6fc8f95f-3849-4130-9337-4a61b1d77a59", "https://vgmdb.net/album/26889"]
 
-[8029b161557bd013377d8dfaca56c429]
+[bbc99a2396adf753fd51d73527a4b193]
 catalognumber = "GNCA-1282"
 date = "2011-07-27"
 album = "神のみぞ知るセカイII Original Soundtrack"
 tracks = [
-    [1, "恋～口づけまでの距離Ⅱ[メインテーマ改]", "松尾早人", 0],
+    [1, "恋～口づけまでの距離Ⅱ[メインテーマ改]", "松尾早人", 1],
     [2, "A Whole New World God Only Knows (TV EDIT)", "Oratorio The World God Only Knows", 1],
-    [3, "剛健な乙女", "松尾早人", 0],
-    [4, "古式武術春日流羅新活殺術", "松尾早人", 0],
-    [5, "軟弱な乙女", "松尾早人", 0],
-    [6, "武 vs 女", "松尾早人", 0],
-    [7, "現実の中で", "松尾早人", 0],
-    [8, "地区長、来たる。", "松尾早人", 0],
-    [9, "地区長、行動す。", "松尾早人", 0],
-    [10, "一等公務魔と三等公務魔", "松尾早人", 0],
-    [11, "不気味な劇場", "松尾早人", 0],
-    [12, "優等悪魔の光と影", "松尾早人", 0],
-    [13, "駆け魂勾留作戦!", "松尾早人", 0],
-    [14, "大丈夫、大切なあなたへ", "松尾早人", 0],
-    [15, "アイノヨカン feat.駆け魂隊 (TV EDIT)", "駆け魂隊", 0],
-    [16, "平凡少女", "松尾早人", 0],
-    [17, "雨ばっか……", "松尾早人", 0],
-    [18, "パラメーター誤読", "松尾早人", 0],
-    [19, "雨、雨、雨……", "松尾早人", 0],
-    [20, "初めて恋をした記憶～ピアノ伴奏～", "川崎里実", 0],
-    [21, "初めて恋をした記憶 (TV EDIT)", "小阪ちひろ starring 阿澄佳奈", 0],
+    [3, "剛健な乙女", "松尾早人", 1],
+    [4, "古式武術春日流羅新活殺術", "松尾早人", 1],
+    [5, "軟弱な乙女", "松尾早人", 1],
+    [6, "武 vs 女", "松尾早人", 1],
+    [7, "現実の中で", "松尾早人", 1],
+    [8, "地区長、来たる。", "松尾早人", 1],
+    [9, "地区長、行動す。", "松尾早人", 1],
+    [10, "一等公務魔と三等公務魔", "松尾早人", 1],
+    [11, "不気味な劇場", "松尾早人", 1],
+    [12, "優等悪魔の光と影", "松尾早人", 1],
+    [13, "駆け魂勾留作戦!", "松尾早人", 1],
+    [14, "大丈夫、大切なあなたへ", "松尾早人", 1],
+    [15, "アイノヨカン feat.駆け魂隊 (TV EDIT)", "駆け魂隊", 1],
+    [16, "平凡少女", "松尾早人", 1],
+    [17, "雨ばっか……", "松尾早人", 1],
+    [18, "パラメーター誤読", "松尾早人", 1],
+    [19, "雨、雨、雨……", "松尾早人", 1],
+    [20, "初めて恋をした記憶～ピアノ伴奏～", "川崎里実", 1],
+    [21, "初めて恋をした記憶 (TV EDIT)", "小阪ちひろ starring 阿澄佳奈", 1],
     [22, "2年B組新米先生", "松尾早人", 1],
-    [23, "ジャンボ鶴馬のテーマ～O", "松尾早人", 0],
-    [24, "理想と現実の狭間で", "松尾早人", 0],
-    [25, "いつも心に太陽を", "松尾早人", 0],
-    [26, "アイノヨカン (TV EDIT)", "神のみぞ知り隊", 0],
-    [27, "五つ葉のクローバーを探す少女", "松尾早人", 0],
+    [23, "ジャンボ鶴馬のテーマ～O", "松尾早人", 1],
+    [24, "理想と現実の狭間で", "松尾早人", 1],
+    [25, "いつも心に太陽を", "松尾早人", 1],
+    [26, "アイノヨカン (TV EDIT)", "神のみぞ知り隊", 1],
+    [27, "五つ葉のクローバーを探す少女", "松尾早人", 1],
     [28, "HAPPYEND (TV EDIT)", "桂木桂馬 & 杉本四葉 starring 下野 紘 & 丹下 桜", 1],
     [29, "NEXT STAGE II", "松尾早人", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2a5b8fc0-3449-4712-8e35-411fa4c9b27f", "https://vgmdb.net/album/25945"]
 
-[31ce7e11c19d74889bc85e43782340a0]
+[dc04a4a1b253b7868814b37f4e7b22ca]
 catalognumber = "GNXA-707702"
 date = "2011-07-27"
 album = "神のみぞ知るセカイII ROUTE 1.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #4", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #5", "", 0],
-    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #6", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #4", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #5", "", 1],
+    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #6", "", 1],
 ]
 links = ["https://vgmdb.net/album/48717"]
 
@@ -503,83 +503,83 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/212e98cc-5094-428f-8042-5fade11a7075", "https://vgmdb.net/album/29349"]
 
-[d4aba64cbf75e0503a0d694606673c98]
+[1c0a7771db82881542774564607bd4cc]
 catalognumber = "GNXA-707802"
 date = "2011-08-31"
 album = "神のみぞ知るセカイII ROUTE 2.0 SPECIAL DISC"
 tracks = [
-    [1, "素晴らしき哉、日常!", "松尾早人", 0],
-    [2, "恋の記憶 〜エピローグ〜", "松尾早人", 0],
-    [3, "わたし、駄目な悪魔です…", "松尾早人", 0],
-    [4, "こころの夕暮れ", "松尾早人", 0],
-    [5, "迫りくる不安", "松尾早人", 0],
-    [6, "消えてしまった記憶", "松尾早人", 0],
-    [7, "孤独な令嬢", "松尾早人", 0],
-    [8, "アイアンヴァージン", "松尾早人", 0],
-    [9, "認めたくない現実", "松尾早人", 0],
-    [10, "軟弱な乙女 (B-type)", "松尾早人", 0],
-    [11, "平凡少女 (B-type)", "松尾早人", 0],
-    [12, "いつも心に太陽を (B-type)", "松尾早人", 0],
-    [13, "理想と現実の狭間で (B-type)", "松尾早人", 0],
+    [1, "素晴らしき哉、日常!", "松尾早人", 1],
+    [2, "恋の記憶 〜エピローグ〜", "松尾早人", 1],
+    [3, "わたし、駄目な悪魔です…", "松尾早人", 1],
+    [4, "こころの夕暮れ", "松尾早人", 1],
+    [5, "迫りくる不安", "松尾早人", 1],
+    [6, "消えてしまった記憶", "松尾早人", 1],
+    [7, "孤独な令嬢", "松尾早人", 1],
+    [8, "アイアンヴァージン", "松尾早人", 1],
+    [9, "認めたくない現実", "松尾早人", 1],
+    [10, "軟弱な乙女 (B-type)", "松尾早人", 1],
+    [11, "平凡少女 (B-type)", "松尾早人", 1],
+    [12, "いつも心に太陽を (B-type)", "松尾早人", 1],
+    [13, "理想と現実の狭間で (B-type)", "松尾早人", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/67f59f42-1512-4d59-9060-7b2950b004ae", "https://vgmdb.net/album/48641"]
 
-[36940e2f114fc93b883ae197aa29f10e]
+[1345538c4841a97902512c015e991038]
 catalognumber = "GNCA-0211"
 date = "2011-09-14"
 album = "夏色サプライズ / 中川かのん starring 東山奈央"
 tracks = [
-    [1, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
-    [2, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [3, "らぶこーる Orchestra ver.", "中川かのん starring 東山奈央", 0],
-    [4, "夏色サプライズ (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [5, "サマーボーイ (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [6, "らぶこーる Orchestra ver. (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
+    [2, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [3, "らぶこーる Orchestra ver.", "中川かのん starring 東山奈央", 1],
+    [4, "夏色サプライズ (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [5, "サマーボーイ (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [6, "らぶこーる Orchestra ver. (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e4c75220-b90a-4c11-8ee8-cd16f9cccf95", "https://vgmdb.net/album/26891"]
 
-[fae52b421edbc34bb8ea0d1b8253262c]
+[7ee34314d0da9d2a58fbde33534d407c]
 catalognumber = "GNCA-0210"
 date = "2011-09-14"
 album = "夏色サプライズ / 中川かのん starring 東山奈央 Vocal"
 tracks = [
-    [1, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
-    [2, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [3, "らぶこーる Orchestra ver.", "中川かのん starring 東山奈央", 0],
-    [4, "夏色サプライズ (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [5, "サマーボーイ (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [6, "らぶこーる Orchestra ver. (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
+    [2, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [3, "らぶこーる Orchestra ver.", "中川かのん starring 東山奈央", 1],
+    [4, "夏色サプライズ (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [5, "サマーボーイ (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [6, "らぶこーる Orchestra ver. (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f80617c0-cc42-4c07-88d4-3f2a340764b0", "https://vgmdb.net/album/26892"]
 
-[d348c92ede79783f85b9ac4cd3a01634]
+[df23a1d8ff1b0df2a64ce68b2d6ade4b]
 catalognumber = "GNCA-0210"
 date = "2011-09-14"
 album = "夏色サプライズ / 中川かのん starring 東山奈央 Video"
 tracks = [
-    [1, "夏色サプライズ (PV EDIT)", "中川かのん starring 東山奈央", 0],
+    [1, "夏色サプライズ (PV EDIT)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f80617c0-cc42-4c07-88d4-3f2a340764b0", "https://vgmdb.net/album/26892"]
 
-[8a20c867e56b569b97b93f14ba3cbaa8]
+[d3822f63a64d71012becb42cc952197c]
 catalognumber = "GNCA-1283"
 date = "2011-09-21"
 album = "Greetings from special agents Elysia de Lute Ima and Haqua d'rot Herminium [Limited Edition] Vocal"
 tracks = [
     [1, "Nonstop!! Hunters", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
     [2, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
-    [3, "アタフタNight & Day!", "エルシィ starring 伊藤かな恵", 0],
-    [4, "ご機嫌いかが?", "ハクア starring 早見沙織", 0],
-    [5, "コイノシルシ feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 0],
+    [3, "アタフタNight & Day!", "エルシィ starring 伊藤かな恵", 1],
+    [4, "ご機嫌いかが?", "ハクア starring 早見沙織", 1],
+    [5, "コイノシルシ feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
     [6, "Oh!まい☆GOD!!", "エルシィ starring 伊藤かな恵", 1],
     [7, "1'st EVOLUTION→", "ハクア starring 早見沙織", 1],
-    [8, "アイノヨカン from Elsie", "エルシィ starring 伊藤かな恵", 0],
+    [8, "アイノヨカン from Elsie", "エルシィ starring 伊藤かな恵", 1],
     [9, "Good Night Song 〜同じ空の下で〜", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
-    [10, "アイノヨカン feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 0],
+    [10, "アイノヨカン feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e5367c9-abd8-4d87-9e9b-28c03e04d0d6", "https://vgmdb.net/album/26976"]
 
-[9788a2358736f95513179289ff218a8a]
+[680791962b8e870d41308004deb0366e]
 catalognumber = "GNCA-1283"
 date = "2011-09-21"
 album = "Greetings from special agents Elysia de Lute Ima and Haqua d'rot Herminium [Limited Edition] Video"
@@ -588,131 +588,131 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6e5367c9-abd8-4d87-9e9b-28c03e04d0d6", "https://vgmdb.net/album/26976"]
 
-[c308cff61bda0ebc1092c60c1f52902d]
+[dd6ef73b47bbdcbbc2a520522b3e1686]
 catalognumber = "GNCA-1284"
 date = "2011-09-21"
 album = "Greetings from special agents Elysia de Lute Ima and Haqua d'rot Herminium"
 tracks = [
     [1, "Nonstop!! Hunters", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
     [2, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
-    [3, "アタフタNight & Day!", "エルシィ starring 伊藤かな恵", 0],
-    [4, "ご機嫌いかが?", "ハクア starring 早見沙織", 0],
-    [5, "コイノシルシ feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 0],
+    [3, "アタフタNight & Day!", "エルシィ starring 伊藤かな恵", 1],
+    [4, "ご機嫌いかが?", "ハクア starring 早見沙織", 1],
+    [5, "コイノシルシ feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
     [6, "Oh!まい☆GOD!!", "エルシィ starring 伊藤かな恵", 1],
     [7, "1'st EVOLUTION→", "ハクア starring 早見沙織", 1],
-    [8, "アイノヨカン from Elsie", "エルシィ starring 伊藤かな恵", 0],
+    [8, "アイノヨカン from Elsie", "エルシィ starring 伊藤かな恵", 1],
     [9, "Good Night Song 〜同じ空の下で〜", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
-    [10, "アイノヨカン feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 0],
+    [10, "アイノヨカン feat. 駆け魂隊", "駆け魂隊 starring 伊藤かな恵&早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c62a6037-8d37-4cce-af58-eb51caa4492a", "https://vgmdb.net/album/26975"]
 
-[1d3d5f2f0eed953c8b34387a129bc95b]
+[a8a34a5f0d5ff6860f790c5950533392]
 catalognumber = "GNXA-707902"
 date = "2011-09-28"
 album = "神のみぞ知るセカイII ROUTE 3.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #7", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #8", "", 0],
-    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #9", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #7", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #8", "", 1],
+    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #9", "", 1],
 ]
 links = ["https://vgmdb.net/album/48718"]
 
-[f35b0e59712ab2590227406e86f50e48]
+[1b45e1411d2aaada668448de5e2d6759]
 catalognumber = "GNXA-708002"
 date = "2011-10-26"
 album = "神のみぞ知るセカイII ROUTE 4.0 SPECIAL DISC"
 tracks = [
-    [1, "初めて恋をした記憶", "小阪ちひろ starring 阿澄佳奈", 0],
-    [2, "初めて恋をした記憶 (Instrumental)", "小阪ちひろ starring 阿澄佳奈", 0],
+    [1, "初めて恋をした記憶", "小阪ちひろ starring 阿澄佳奈", 2],
+    [2, "初めて恋をした記憶 (Instrumental)", "小阪ちひろ starring 阿澄佳奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/240eaad7-b2bc-4e0c-a62d-345322bf4053", "https://vgmdb.net/album/48719"]
 
-[f444d01d6957ffaf995f11e5aad1eeed]
+[23b62100e80d22c344614e08cc37758b]
 catalognumber = "GNXA-708102"
 date = "2011-11-30"
 album = "神のみぞ知るセカイII ROUTE 5.0 SPECIAL DISC"
 tracks = [
-    [1, "店頭用ナレーション集 #1", "", 0],
-    [2, "店頭用ナレーション集 #2", "", 0],
-    [3, "店頭用ナレーション集 #3", "", 0],
-    [4, "店頭用ナレーション集 #4", "", 0],
-    [5, "店頭用ナレーション集 #5", "", 0],
-    [6, "店頭用ナレーション集 #6", "", 0],
-    [7, "店頭用ナレーション集 #7", "", 0],
-    [8, "店頭用ナレーション集 #8", "", 0],
-    [9, "店頭用ナレーション集 #9", "", 0],
+    [1, "店頭用ナレーション集 #1", "", 1],
+    [2, "店頭用ナレーション集 #2", "", 1],
+    [3, "店頭用ナレーション集 #3", "", 1],
+    [4, "店頭用ナレーション集 #4", "", 1],
+    [5, "店頭用ナレーション集 #5", "", 1],
+    [6, "店頭用ナレーション集 #6", "", 1],
+    [7, "店頭用ナレーション集 #7", "", 1],
+    [8, "店頭用ナレーション集 #8", "", 1],
+    [9, "店頭用ナレーション集 #9", "", 1],
 ]
 links = ["https://vgmdb.net/album/48720"]
 
-[ca87a8eea32f33a24bd666edd34a8f30]
+[9930b58633deddb7c1a034a45b969570]
 catalognumber = "GNCA-1286"
 date = "2011-12-21"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム"
 tracks = [
-    [1, "すいみん不足", "小阪ちひろ starring 阿澄佳奈", 0],
+    [1, "すいみん不足", "小阪ちひろ starring 阿澄佳奈", 1],
     [2, "Dancing Star", "エルシィ starring 伊藤かな恵", 1],
-    [3, "笑顔に会いたい", "高原歩美 starring 竹達彩奈", 0],
-    [4, "プラチナ", "青山美生 starring 悠木碧", 0],
-    [5, "愛・おぼえていますか", "中川かのん starring 東山奈央", 0],
+    [3, "笑顔に会いたい", "高原歩美 starring 竹達彩奈", 1],
+    [4, "プラチナ", "青山美生 starring 悠木碧", 1],
+    [5, "愛・おぼえていますか", "中川かのん starring 東山奈央", 1],
     [6, "ANGEL NIGHT ～天使のいる場所～", "ハクア starring 早見沙織", 1],
-    [7, "輪舞-revolution", "春日楠 starring 小清水亜美", 0],
-    [8, "トゥインクル☆スター", "汐宮栞 starring 花澤香菜", 0],
+    [7, "輪舞-revolution", "春日楠 starring 小清水亜美", 1],
+    [8, "トゥインクル☆スター", "汐宮栞 starring 花澤香菜", 1],
     [9, "Dearest", "長瀬純＆二階堂由梨 starring 豊崎愛生＆田中敦子", 1],
-    [10, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 0],
+    [10, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6a862218-5cb0-4e5e-a362-c6185a6fb3d7", "https://vgmdb.net/album/29155"]
 
-[5a19a8454754c4edfa503c0e904d02fd]
+[88349f581576b904ac67c1a51e75a7e1]
 catalognumber = "GNCA-1285"
 date = "2011-12-21"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム Arrangement, Vocal"
 tracks = [
-    [1, "すいみん不足", "小阪ちひろ starring 阿澄佳奈", 0],
+    [1, "すいみん不足", "小阪ちひろ starring 阿澄佳奈", 1],
     [2, "Dancing Star", "エルシィ starring 伊藤かな恵", 1],
-    [3, "笑顔に会いたい", "高原歩美 starring 竹達彩奈", 0],
-    [4, "プラチナ", "青山美生 starring 悠木碧", 0],
-    [5, "愛・おぼえていますか", "中川かのん starring 東山奈央", 0],
+    [3, "笑顔に会いたい", "高原歩美 starring 竹達彩奈", 1],
+    [4, "プラチナ", "青山美生 starring 悠木碧", 1],
+    [5, "愛・おぼえていますか", "中川かのん starring 東山奈央", 1],
     [6, "ANGEL NIGHT ～天使のいる場所～", "ハクア starring 早見沙織", 1],
-    [7, "輪舞-revolution", "春日楠 starring 小清水亜美", 0],
-    [8, "トゥインクル☆スター", "汐宮栞 starring 花澤香菜", 0],
+    [7, "輪舞-revolution", "春日楠 starring 小清水亜美", 1],
+    [8, "トゥインクル☆スター", "汐宮栞 starring 花澤香菜", 1],
     [9, "Dearest", "長瀬純＆二階堂由梨 starring 豊崎愛生＆田中敦子", 1],
-    [10, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 0],
+    [10, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0065066d-9f18-4921-9073-0422af9324c9", "https://vgmdb.net/album/29156"]
 
-[2497cb78fd2c64c41f2e0c60b5d319b2]
+[87a70ccee63fef8966385575d4a1fb87]
 catalognumber = "GNCA-1285"
 date = "2011-12-21"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム Talk"
 tracks = [
-    [1, "神のみラジオ SPECIAL 1", "下野 紘 as 桂木桂馬", 0],
-    [2, "神のみラジオ SPECIAL 2", "下野 紘 as 桂木桂馬", 0],
-    [3, "神のみラジオ SPECIAL 3", "下野 紘 as 桂木桂馬", 0],
-    [4, "神のみラジオ SPECIAL 4", "下野 紘 as 桂木桂馬", 0],
-    [5, "神のみラジオ SPECIAL 5", "下野 紘 as 桂木桂馬", 0],
-    [6, "神のみラジオ SPECIAL 6", "下野 紘 as 桂木桂馬", 0],
-    [7, "神のみラジオ SPECIAL 7", "下野 紘 as 桂木桂馬", 0],
-    [8, "神のみラジオ SPECIAL 8", "下野 紘 as 桂木桂馬", 0],
-    [9, "神のみラジオ SPECIAL 9", "下野 紘 as 桂木桂馬", 0],
-    [10, "神のみラジオ SPECIAL 10", "下野 紘 as 桂木桂馬", 0],
-    [11, "神のみラジオ SPECIAL 11", "下野 紘 as 桂木桂馬", 0],
-    [12, "神のみラジオ SPECIAL 12", "下野 紘 as 桂木桂馬", 0],
-    [13, "神のみラジオ SPECIAL 13", "下野 紘 as 桂木桂馬", 0],
+    [1, "神のみラジオ SPECIAL 1", "下野 紘 as 桂木桂馬", 1],
+    [2, "神のみラジオ SPECIAL 2", "下野 紘 as 桂木桂馬", 1],
+    [3, "神のみラジオ SPECIAL 3", "下野 紘 as 桂木桂馬", 1],
+    [4, "神のみラジオ SPECIAL 4", "下野 紘 as 桂木桂馬", 1],
+    [5, "神のみラジオ SPECIAL 5", "下野 紘 as 桂木桂馬", 1],
+    [6, "神のみラジオ SPECIAL 6", "下野 紘 as 桂木桂馬", 1],
+    [7, "神のみラジオ SPECIAL 7", "下野 紘 as 桂木桂馬", 1],
+    [8, "神のみラジオ SPECIAL 8", "下野 紘 as 桂木桂馬", 1],
+    [9, "神のみラジオ SPECIAL 9", "下野 紘 as 桂木桂馬", 1],
+    [10, "神のみラジオ SPECIAL 10", "下野 紘 as 桂木桂馬", 1],
+    [11, "神のみラジオ SPECIAL 11", "下野 紘 as 桂木桂馬", 1],
+    [12, "神のみラジオ SPECIAL 12", "下野 紘 as 桂木桂馬", 1],
+    [13, "神のみラジオ SPECIAL 13", "下野 紘 as 桂木桂馬", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0065066d-9f18-4921-9073-0422af9324c9", "https://vgmdb.net/album/29156"]
 
-[35a902a3a27b9ee6d89e3ddcd2f6ca54]
+[78cd7752227472bf4ad30035f24b740d]
 catalognumber = "GNXA-708202"
 date = "2011-12-28"
 album = "神のみぞ知るセカイII ROUTE 6.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #10", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #11", "", 0],
-    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #12", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #10", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #11", "", 1],
+    [3, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 #12", "", 1],
 ]
 links = ["https://vgmdb.net/album/48721"]
 
-[3b17410e4269f20339e9e299bd28c495]
+[2b3d6b0267eea2eb2bfb74ed77558656]
 catalognumber = "VICP-65036"
 date = "2012-02-08"
 album = "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.3~"
@@ -725,7 +725,7 @@ tracks = [
     [6, "1/2", "Rasmus Faber presents Platina Jazz", 0],
     [7, "H.T", "Rasmus Faber presents Platina Jazz", 0],
     [8, "小さなてのひら", "Rasmus Faber presents Platina Jazz", 0],
-    [9, "プラチナ", "Rasmus Faber presents Platina Jazz", 0],
+    [9, "プラチナ", "Rasmus Faber presents Platina Jazz", 1],
     [10, "ルパン三世・愛のテーマ", "Rasmus Faber presents Platina Jazz", 0],
     [11, "輝く空の静寂には", "Rasmus Faber presents Platina Jazz", 0],
     [12, "デリケートに好きして", "Rasmus Faber presents Platina Jazz", 0],
@@ -737,296 +737,296 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b7f2f56a-e6dd-4e88-93fb-97edd60bbebc", "https://vgmdb.net/album/31127"]
 
-[f9af8996ba2bbba2ab104e6fcc55de63]
+[be131c448a58c08ff9cfad2e30ec1164]
 catalognumber = "GNCA-0214"
 date = "2012-03-03"
 album = "桜色卒業/バレバレ・バレンタイン / 中川かのん starring 東山奈央"
 tracks = [
-    [1, "桜色卒業", "中川かのん starring 東山奈央", 0],
-    [2, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
-    [3, "桜色卒業 ピアノ伴奏", "中川かのん starring 東山奈央", 0],
-    [4, "桜色卒業 (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [5, "バレバレ・バレンタイン (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [6, "桜色卒業 ピアノ伴奏 (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "桜色卒業", "中川かのん starring 東山奈央", 1],
+    [2, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 2],
+    [3, "桜色卒業 ピアノ伴奏", "中川かのん starring 東山奈央", 1],
+    [4, "桜色卒業 (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [5, "バレバレ・バレンタイン (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [6, "桜色卒業 ピアノ伴奏 (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c1048dea-09b3-43e0-a804-6e5826bb7450", "https://vgmdb.net/album/31723"]
 
-[1e90f593793351ba723b00449358babd]
+[a6d95b1a769dbe74e3bbb2390b9899ca]
 catalognumber = "GNCA-0212"
 date = "2012-03-14"
 album = "神のみキャラCD.神 桂木桂馬 starring 下野 紘"
 tracks = [
     [1, "HAPPYEND", "桂木桂馬＆杉本四葉 starring 下野紘＆丹下桜", 1],
-    [2, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 0],
-    [3, "集積回路の夢旅人 feat. 桂木桂馬 (another vocal ver.)", "桂木桂馬 starring 下野紘", 0],
+    [2, "もっと!モット!ときめき", "桂木桂馬 starring 下野紘", 1],
+    [3, "集積回路の夢旅人 feat. 桂木桂馬 (another vocal ver.)", "桂木桂馬 starring 下野紘", 1],
     [4, "HAPPYEND (Instrumental)", "桂木桂馬＆杉本四葉 starring 下野紘＆丹下桜", 1],
-    [5, "もっと!モット!ときめき (Instrumental)", "桂木桂馬 starring 下野紘", 0],
+    [5, "もっと!モット!ときめき (Instrumental)", "桂木桂馬 starring 下野紘", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8d553f29-a90b-468d-8b4d-9da5ca259a30", "https://vgmdb.net/album/31724"]
 
-[ff9d9f5f8b1dd08e467d9f6e97c88dd2]
+[97435094053ff230914d30459a597b15]
 catalognumber = "GNCA-1325"
 date = "2012-05-30"
 album = "PRE-PRODUCTION / eyelis"
 tracks = [
     [1, "Prologue～God only knows 第三幕", "eyelis", 1],
-    [2, "コイノシルシ", "eyelis", 0],
+    [2, "コイノシルシ", "eyelis", 1],
     [3, "Break+Your+Destiny", "eyelis", 1],
     [4, "AFTER 0:00", "eyelis", 1],
-    [5, "Wonder Wind", "eyelis", 0],
-    [6, "ダーリンベイビ", "eyelis", 0],
-    [7, "UNLIMITED～∞～", "eyelis", 0],
-    [8, "本日、満開ワタシ色!", "eyelis", 0],
+    [5, "Wonder Wind", "eyelis", 1],
+    [6, "ダーリンベイビ", "eyelis", 1],
+    [7, "UNLIMITED～∞～", "eyelis", 1],
+    [8, "本日、満開ワタシ色!", "eyelis", 1],
     [9, "HAPPYEND", "eyelis", 1],
-    [10, "らぶこーる", "eyelis", 0],
-    [11, "早春賦", "eyelis", 0],
+    [10, "らぶこーる", "eyelis", 1],
+    [11, "早春賦", "eyelis", 1],
     [12, "Epilogue～DATTE大本命", "eyelis", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/119fbcc3-15bb-48f1-a581-3fdf1e3bfbdf", "https://vgmdb.net/album/37153"]
 
-[24a00cfeba7343079b7c5eba033f9f65]
+[dfa45b0ba614e12b161c7b96fe7058cb]
 catalognumber = "GNCA-1327"
 date = "2012-05-30"
 album = "「神のみぞ知るセカイ」 中川かのん starring 東山奈央 1st Concert 2012 Ribbon Revolution Vocal Disc 1"
 tracks = [
     [1, "Prologue〜Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 1],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "MC〜ようこそ1stコンサートへ!", "中川かのん starring 東山奈央", 1],
     [5, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [6, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
+    [6, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
     [8, "MC〜ゲスト登場!", "中川かのん＆桂木桂馬＆ハクア starring 東山奈央＆下野紘＆早見沙織", 1],
-    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 0],
+    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 1],
     [10, "MC〜かのんちゃんのスリーサイズ", "ハクア starring 早見沙織", 1],
     [11, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
     [12, "God only knows 第三幕", "木村香真良", 1],
-    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 0],
+    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 1],
     [14, "MC〜かのん&ハクア", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
-    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
-    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
+    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
+    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cddd53e-1e0c-43ee-95eb-15011c2df4c4", "https://vgmdb.net/album/68921"]
 
-[7153014555199139c5043bfc2dc352f9]
+[d753fc3d8e5558c5401b7075d3085264]
 catalognumber = "GNCA-1327"
 date = "2012-05-30"
 album = "「神のみぞ知るセカイ」 中川かのん starring 東山奈央 1st Concert 2012 Ribbon Revolution Vocal Disc 2"
 tracks = [
     [1, "MC〜ここからが第二幕です", "中川かのん starring 東山奈央", 1],
-    [2, "ウラハラブ", "中川かのん starring 東山奈央", 0],
+    [2, "ウラハラブ", "中川かのん starring 東山奈央", 1],
     [3, "MC〜受け止めてバレンタイン!", "中川かのん starring 東山奈央", 1],
-    [4, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
+    [4, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
     [5, "MC〜ここに集う奇蹟", "中川かのん starring 東山奈央", 1],
-    [6, "らぶこーる", "中川かのん starring 東山奈央", 0],
+    [6, "らぶこーる", "中川かのん starring 東山奈央", 1],
     [7, "MC〜日比谷公会堂を制圧しましょう!", "中川かのん starring 東山奈央", 1],
-    [8, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
+    [8, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
     [9, "MC〜かのんこーる", "中川かのん starring 東山奈央", 1],
-    [10, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
+    [10, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
     [11, "MC〜大切な……", "中川かのん starring 東山奈央", 1],
-    [12, "桜色卒業", "中川かのん starring 東山奈央", 0],
+    [12, "桜色卒業", "中川かのん starring 東山奈央", 1],
     [13, "MC〜かのん with 桂馬&ハクア+エルシィ", "中川かのん＆桂木桂馬＆ハクア＆エルシィ starring 東山奈央＆下野紘＆早見沙織＆伊藤かな恵", 1],
-    [14, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 0],
-    [15, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [14, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 1],
+    [15, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [16, "Epilogue〜Birth", "中川かのん starring 東山奈央", 1],
     [17, "Message from 東山奈央", "東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cddd53e-1e0c-43ee-95eb-15011c2df4c4", "https://vgmdb.net/album/68921"]
 
-[f2e6dc47569158167322149a78ba1786]
+[c7ac9307bc3512dd397da882f3305a7d]
 catalognumber = "GNCA-1327"
 date = "2012-05-30"
 album = "「神のみぞ知るセカイ」 中川かのん starring 東山奈央 1st Concert 2012 Ribbon Revolution Live Event"
 tracks = [
     [1, "Prologue〜Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 1],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "MC〜ようこそ1stコンサートへ!", "中川かのん starring 東山奈央", 1],
     [5, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [6, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
+    [6, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
     [8, "MC〜ゲスト登場!", "中川かのん＆桂木桂馬＆ハクア starring 東山奈央＆下野紘＆早見沙織", 1],
-    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 0],
+    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 1],
     [10, "MC〜かのんちゃんのスリーサイズ", "ハクア starring 早見沙織", 1],
     [11, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
     [12, "God only knows 第三幕", "木村香真良", 1],
-    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 0],
+    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 1],
     [14, "MC〜かのん&ハクア", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
-    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
-    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
+    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
+    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
     [17, "MC〜ここからが第二幕です", "中川かのん starring 東山奈央", 1],
-    [18, "ウラハラブ", "中川かのん starring 東山奈央", 0],
+    [18, "ウラハラブ", "中川かのん starring 東山奈央", 1],
     [19, "MC〜受け止めてバレンタイン!", "中川かのん starring 東山奈央", 1],
-    [20, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
+    [20, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
     [21, "MC〜ここに集う奇蹟", "中川かのん starring 東山奈央", 1],
-    [22, "らぶこーる", "中川かのん starring 東山奈央", 0],
+    [22, "らぶこーる", "中川かのん starring 東山奈央", 1],
     [23, "MC〜日比谷公会堂を制圧しましょう!", "中川かのん starring 東山奈央", 1],
-    [24, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
+    [24, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
     [25, "MC〜かのんこーる", "中川かのん starring 東山奈央", 1],
-    [26, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
+    [26, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
     [27, "MC〜大切な……", "中川かのん starring 東山奈央", 1],
-    [28, "桜色卒業", "中川かのん starring 東山奈央", 0],
+    [28, "桜色卒業", "中川かのん starring 東山奈央", 1],
     [29, "MC〜かのん with 桂馬&ハクア+エルシィ", "中川かのん＆桂木桂馬＆ハクア＆エルシィ starring 東山奈央＆下野紘＆早見沙織＆伊藤かな恵", 1],
-    [30, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 0],
-    [31, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [30, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 1],
+    [31, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [32, "Epilogue〜Birth", "中川かのん starring 東山奈央", 1],
     [33, "ENDクレジット〜恋、ヨロシクお願いします!", "シトロン starring 日高里菜＆内田真礼＆東山奈央", 0],
     [34, "Prologue & Epilogue 映像", "中川かのん starring 東山奈央", 0],
-    [35, "桜色卒業 (TV SPOT)", "中川かのん starring 東山奈央", 0],
+    [35, "桜色卒業 (TV SPOT)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cddd53e-1e0c-43ee-95eb-15011c2df4c4", "https://vgmdb.net/album/68921"]
 
-[555355529164eb70a234426c7d2b171a]
+[e4f84a5f727ab7df9ea1e18459e9bc88]
 catalognumber = "GNCA-1326"
 date = "2012-05-30"
 album = "「神のみぞ知るセカイ」 中川かのん starring 東山奈央 1st Concert 2012 Ribbon Revolution Vocal"
 tracks = [
     [1, "Prologue〜Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 1],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "MC〜ようこそ1stコンサートへ!", "中川かのん starring 東山奈央", 1],
     [5, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [6, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
+    [6, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [7, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
     [8, "MC〜ゲスト登場!", "中川かのん＆桂木桂馬＆ハクア starring 東山奈央＆下野紘＆早見沙織", 1],
-    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 0],
+    [9, "ご機嫌いかが?", "ハクア starring 早見沙織", 1],
     [10, "MC〜かのんちゃんのスリーサイズ", "ハクア starring 早見沙織", 1],
     [11, "NAKED GENIUS", "ハクア starring 早見沙織", 1],
     [12, "God only knows 第三幕", "木村香真良", 1],
-    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 0],
+    [13, "集積回路の夢旅人", "桂木桂馬 starring 下野紘", 1],
     [14, "MC〜かのん&ハクア", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
-    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
-    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 0],
+    [15, "アイノヨカン", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
+    [16, "コイノシルシ", "中川かのん＆ハクア starring 東山奈央＆早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cddd53e-1e0c-43ee-95eb-15011c2df4c4", "https://vgmdb.net/album/68923"]
 
-[67614497ba239b646e3e92c40cbe51c4]
+[1b0168ac51c3f0fa0483352d27189016]
 catalognumber = "GNCA-1326"
 date = "2012-05-30"
 album = "「神のみぞ知るセカイ」 中川かのん starring 東山奈央 1st Concert 2012 Ribbon Revolution Live Event"
 tracks = [
     [1, "MC〜ここからが第二幕です", "中川かのん starring 東山奈央", 1],
-    [2, "ウラハラブ", "中川かのん starring 東山奈央", 0],
+    [2, "ウラハラブ", "中川かのん starring 東山奈央", 1],
     [3, "MC〜受け止めてバレンタイン!", "中川かのん starring 東山奈央", 1],
-    [4, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
+    [4, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
     [5, "MC〜ここに集う奇蹟", "中川かのん starring 東山奈央", 1],
-    [6, "らぶこーる", "中川かのん starring 東山奈央", 0],
+    [6, "らぶこーる", "中川かのん starring 東山奈央", 1],
     [7, "MC〜日比谷公会堂を制圧しましょう!", "中川かのん starring 東山奈央", 1],
-    [8, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
+    [8, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
     [9, "MC〜かのんこーる", "中川かのん starring 東山奈央", 1],
-    [10, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
+    [10, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
     [11, "MC〜大切な……", "中川かのん starring 東山奈央", 1],
-    [12, "桜色卒業", "中川かのん starring 東山奈央", 0],
+    [12, "桜色卒業", "中川かのん starring 東山奈央", 1],
     [13, "MC〜かのん with 桂馬&ハクア+エルシィ", "中川かのん＆桂木桂馬＆ハクア＆エルシィ starring 東山奈央＆下野紘＆早見沙織＆伊藤かな恵", 1],
-    [14, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 0],
-    [15, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [14, "かのんBANDメンバー紹介", "中川かのん starring 東山奈央", 1],
+    [15, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [16, "Epilogue〜Birth", "中川かのん starring 東山奈央", 1],
     [17, "Message from 東山奈央", "東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cddd53e-1e0c-43ee-95eb-15011c2df4c4", "https://vgmdb.net/album/68923"]
 
-[4ba2ce774954ab5f146617397875309f]
+[2198cac549c04d2ff26635fa762b7fa8]
 catalognumber = "GNCA-0196"
 date = "2012-12-19"
 album = "ヒカリノキセキ/未来への扉 / eyelis"
 tracks = [
-    [1, "ヒカリノキセキ", "eyelis", 0],
-    [2, "未来への扉", "eyelis", 0],
-    [3, "ヒカリノキセキ (OVA EDIT)", "eyelis", 0],
-    [4, "未来への扉 (OVA EDIT)", "eyelis", 0],
-    [5, "ヒカリノキセキ (Instrumental)", "eyelis", 0],
-    [6, "未来への扉 (Instrumental)", "eyelis", 0],
+    [1, "ヒカリノキセキ", "eyelis", 2],
+    [2, "未来への扉", "eyelis", 1],
+    [3, "ヒカリノキセキ (OVA EDIT)", "eyelis", 1],
+    [4, "未来への扉 (OVA EDIT)", "eyelis", 1],
+    [5, "ヒカリノキセキ (Instrumental)", "eyelis", 1],
+    [6, "未来への扉 (Instrumental)", "eyelis", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8594095e-7c74-4cc3-8348-03b1ccaa6f44", "https://vgmdb.net/album/35749"]
 
-[9a2ee1b6cdc2e38b06e57eba4117e6b6]
+[a96cba881ddf4d59c31f444861d7ccbf]
 catalognumber = "GNCA-0195"
 date = "2012-12-19"
 album = "ヒカリノキセキ/未来への扉 / eyelis [初回限定盤] Disc 1 (CD) [GNCA-019501]"
 tracks = [
-    [1, "ヒカリノキセキ", "eyelis", 0],
-    [2, "未来への扉", "eyelis", 0],
-    [3, "ヒカリノキセキ (OVA EDIT)", "eyelis", 0],
-    [4, "未来への扉 (OVA EDIT)", "eyelis", 0],
-    [5, "ヒカリノキセキ (Instrumental)", "eyelis", 0],
-    [6, "未来への扉 (Instrumental)", "eyelis", 0],
+    [1, "ヒカリノキセキ", "eyelis", 1],
+    [2, "未来への扉", "eyelis", 1],
+    [3, "ヒカリノキセキ (OVA EDIT)", "eyelis", 1],
+    [4, "未来への扉 (OVA EDIT)", "eyelis", 1],
+    [5, "ヒカリノキセキ (Instrumental)", "eyelis", 1],
+    [6, "未来への扉 (Instrumental)", "eyelis", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8594095e-7c74-4cc3-8348-03b1ccaa6f44", "https://vgmdb.net/album/35748"]
 
-[73407a0ee3cfc08eeb3c1b224f621900]
+[f83c109b100a9a1c98e7d4935f6e92b4]
 catalognumber = "GNCA-0195"
 date = "2012-12-19"
 album = "ヒカリノキセキ/未来への扉 / eyelis [初回限定盤] Disc 2 (DVD) [GNCA-019502]"
 tracks = [
-    [1, "ヒカリノキセキ (OVA「神のみぞ知るセカイ～再会～」ノンクレジット主題歌映像)", "", 0],
-    [2, "未来への扉 (OVA「神のみぞ知るセカイ～邂逅～」ノンクレジット主題歌映像)", "", 0],
+    [1, "ヒカリノキセキ (OVA「神のみぞ知るセカイ～再会～」ノンクレジット主題歌映像)", "", 1],
+    [2, "未来への扉 (OVA「神のみぞ知るセカイ～邂逅～」ノンクレジット主題歌映像)", "", 1],
 ]
 links = ["https://vgmdb.net/album/35748"]
 
-[9adf4f9844f223f47d255d44d2ff8def]
+[793f6a0c12cbe1f4e12b6d21373f9da8]
 catalognumber = "GNCA-0217"
 date = "2013-02-13"
 album = "リンゴリボン / 中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか"
 tracks = [
-    [1, "リンゴリボン", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 0],
-    [2, "ヘルプルミミ", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 0],
-    [3, "リンゴリボン (Instrumental)", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 0],
-    [4, "ヘルプルミミ (Instrumental)", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 0],
+    [1, "リンゴリボン", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 1],
+    [2, "ヘルプルミミ", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 1],
+    [3, "リンゴリボン (Instrumental)", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 1],
+    [4, "ヘルプルミミ (Instrumental)", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/465fbc13-9b67-4f50-a1be-91cb56b2244b", "https://vgmdb.net/album/38201"]
 
-[4d401a9dba189884c5ff8ea8117bd20b]
+[8efbb3b9e997a7570130cf548aa11942]
 catalognumber = "GNCA-0216"
 date = "2013-02-13"
 album = "Advance / 桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織"
 tracks = [
     [1, "Advance", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 1],
-    [2, "つよがりサンセット", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 0],
+    [2, "つよがりサンセット", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 2],
     [3, "Advance (Instrumental)", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 1],
-    [4, "つよがりサンセット (Instrumental)", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 0],
+    [4, "つよがりサンセット (Instrumental)", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c8c42a70-2d8b-4c43-84d3-ea6b1c095909", "https://vgmdb.net/album/38200"]
 
-[c9617f58f02a8fb5d9b6493fcee97040]
+[a038dff6d1a4f14d47fda21a86ceac6d]
 catalognumber = "GNCA-1370"
 date = "2013-05-10"
 album = "奇跡のドア/ 桂ヒナギク&中川かのん&ハクア&水蓮寺ルカ"
 tracks = [
-    [1, "Overture", "前口渉", 0],
-    [2, "リンゴリボン", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 0],
+    [1, "Overture", "前口渉", 1],
+    [2, "リンゴリボン", "中川かのん＆水蓮寺ルカ starring 東山奈央＆山崎はるか", 1],
     [3, "GRAVITY", "ハクア＆水蓮寺ルカ starring 早見沙織＆山崎はるか", 1],
-    [4, "Acoustic Medley of Hinagiku,Kanon,Haqua,Ruka", "桂ヒナギク＆中川かのん＆ハクア＆水蓮寺ルカ starring 伊藤 静＆東山奈央＆早見沙織＆山崎はるか", 0],
+    [4, "Acoustic Medley of Hinagiku,Kanon,Haqua,Ruka", "桂ヒナギク＆中川かのん＆ハクア＆水蓮寺ルカ starring 伊藤 静＆東山奈央＆早見沙織＆山崎はるか", 1],
     [5, "Advance", "桂ヒナギク＆ハクア starring 伊藤 静＆早見沙織", 1],
-    [6, "ピンク・デコ・モーション", "桂ヒナギク＆中川かのん starring 伊藤 静＆東山奈央", 0],
-    [7, "奇跡のドア", "桂ヒナギク＆中川かのん＆ハクア＆水蓮寺ルカ starring 伊藤 静＆東山奈央＆早見沙織＆山崎はるか", 0],
+    [6, "ピンク・デコ・モーション", "桂ヒナギク＆中川かのん starring 伊藤 静＆東山奈央", 1],
+    [7, "奇跡のドア", "桂ヒナギク＆中川かのん＆ハクア＆水蓮寺ルカ starring 伊藤 静＆東山奈央＆早見沙織＆山崎はるか", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/12cd0823-8733-4880-b8dd-8d3306711bf0", "https://vgmdb.net/album/40219"]
 
-[11ab943e8949e75b765becdde0d82b15]
+[3a1e5c7e57c306caa20e87de068be3aa]
 catalognumber = "GNCA-0304"
 date = "2013-06-19"
 album = "かのん100% / 中川かのん starring 東山奈央"
 tracks = [
-    [1, "かのん100%", "中川かのん starring 東山奈央", 0],
-    [2, "君色ラブソング", "中川かのん starring 東山奈央", 0],
-    [3, "かのん100% (OVA EDIT)", "中川かのん starring 東山奈央", 0],
-    [4, "君色ラブソング (OVA EDIT)", "中川かのん starring 東山奈央", 0],
-    [5, "かのん100% (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [6, "君色ラブソング (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "かのん100%", "中川かのん starring 東山奈央", 1],
+    [2, "君色ラブソング", "中川かのん starring 東山奈央", 2],
+    [3, "かのん100% (OVA EDIT)", "中川かのん starring 東山奈央", 1],
+    [4, "君色ラブソング (OVA EDIT)", "中川かのん starring 東山奈央", 1],
+    [5, "かのん100% (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [6, "君色ラブソング (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/660ae549-f35c-4d7d-a470-7c5e626ee34e", "https://vgmdb.net/album/48637"]
 
-[48c35895deb14715c17bffa5667cb103]
+[c1b00fab7f74576e1cda601cc84c6901]
 catalognumber = "GNCA-0303"
 date = "2013-06-19"
 album = "かのん100% / 中川かのん starring 東山奈央 [初回限定盤] Disc 1 (CD) [GNCA-030301]"
 tracks = [
-    [1, "かのん100%", "中川かのん starring 東山奈央", 0],
-    [2, "君色ラブソング", "中川かのん starring 東山奈央", 0],
-    [3, "かのん100% (OVA EDIT)", "中川かのん starring 東山奈央", 0],
-    [4, "君色ラブソング (OVA EDIT)", "中川かのん starring 東山奈央", 0],
-    [5, "かのん100% (Instrumental)", "中川かのん starring 東山奈央", 0],
-    [6, "君色ラブソング (Instrumental)", "中川かのん starring 東山奈央", 0],
+    [1, "かのん100%", "中川かのん starring 東山奈央", 1],
+    [2, "君色ラブソング", "中川かのん starring 東山奈央", 1],
+    [3, "かのん100% (OVA EDIT)", "中川かのん starring 東山奈央", 1],
+    [4, "君色ラブソング (OVA EDIT)", "中川かのん starring 東山奈央", 1],
+    [5, "かのん100% (Instrumental)", "中川かのん starring 東山奈央", 1],
+    [6, "君色ラブソング (Instrumental)", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/660ae549-f35c-4d7d-a470-7c5e626ee34e", "https://vgmdb.net/album/48639"]
 
@@ -1035,12 +1035,12 @@ catalognumber = "GNCA-0303"
 date = "2013-06-19"
 album = "かのん100% / 中川かのん starring 東山奈央 [初回限定盤] Disc 2 (DVD) [GNCA-030302]"
 tracks = [
-    [1, "「かのん100% 」OVAノンクレジットOP", "", 0],
+    [1, "「かのん100%」OVAノンクレジットOP", "", 0],
     [2, "「君色ラブソング」OVAノンクレジットED", "", 0],
 ]
 links = ["https://vgmdb.net/album/48639"]
 
-[94aab6c0ee5128e540fe23bb2ee17d7b]
+[12796a6ed066bfa272c2a11a5c232a7b]
 catalognumber = "GNCA-0197"
 date = "2013-07-31"
 album = "God only knows -Secrets of the Goddess- / Oratorio The World God Only Knows"
@@ -1051,111 +1051,111 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a97a1f46-3149-4996-9d60-f6eaecbecce8", "https://vgmdb.net/album/39531"]
 
-[a4deed37fece5a3a43710fd6c06a2ca3]
+[2510db3a86b83e6d737bb01b1723def9]
 catalognumber = "GNCA-0291"
 date = "2013-08-07"
 album = "神のみキャラCD.8 鮎川天理 starring 名塚佳織"
 tracks = [
     [1, "MAGIC of HAPPINESS", "鮎川天理 starring 名塚佳織", 1],
-    [2, "キズナノユクエ from Tenri", "鮎川天理 starring 名塚佳織", 0],
+    [2, "キズナノユクエ from Tenri", "鮎川天理 starring 名塚佳織", 1],
     [3, "MAGIC of HAPPINESS (Instrumental)", "鮎川天理 starring 名塚佳織", 1],
-    [4, "キズナノユクエ from Tenri (Instrumental)", "鮎川天理 starring 名塚佳織", 0],
+    [4, "キズナノユクエ from Tenri (Instrumental)", "鮎川天理 starring 名塚佳織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/808870c8-a6db-45b9-9cf1-df6ebc78a9e8", "https://vgmdb.net/album/41243"]
 
-[988122437ff22fa77321ba6fe873f79f]
+[f805aa9c8a98c0dd85e5aaa4c3c60a4e]
 catalognumber = "GNCA-0292"
 date = "2013-08-21"
 album = "神のみキャラCD.9 九条月夜 starring 井口裕香"
 tracks = [
-    [1, "月の夜に逢いましょう", "九条月夜 starring 井口裕香", 0],
-    [2, "キズナノユクエ from Tsukiyo", "九条月夜 starring 井口裕香", 0],
-    [3, "月の夜に逢いましょう (Instrumental)", "九条月夜 starring 井口裕香", 0],
-    [4, "キズナノユクエ from Tsukiyo (Instrumental)", "九条月夜 starring 井口裕香", 0],
+    [1, "月の夜に逢いましょう", "九条月夜 starring 井口裕香", 1],
+    [2, "キズナノユクエ from Tsukiyo", "九条月夜 starring 井口裕香", 1],
+    [3, "月の夜に逢いましょう (Instrumental)", "九条月夜 starring 井口裕香", 1],
+    [4, "キズナノユクエ from Tsukiyo (Instrumental)", "九条月夜 starring 井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/65634c1e-df92-44aa-a143-204176a5d25b", "https://vgmdb.net/album/41244"]
 
-[6d310e8f0aaa5946e8ce6686e8ef65ed]
+[9115ade5fc90323a3fbee68c07288811]
 catalognumber = "GNCA-0293"
 date = "2013-08-28"
 album = "神のみキャラCD.10 五位堂結 starring 高垣彩陽"
 tracks = [
     [1, "Heart Beatにご用心！", "五位堂 結 starring 高垣彩陽", 1],
-    [2, "キズナノユクエ from Yui", "五位堂 結 starring 高垣彩陽", 0],
+    [2, "キズナノユクエ from Yui", "五位堂 結 starring 高垣彩陽", 1],
     [3, "Heart Beatにご用心！ (Instrumental)", "五位堂 結 starring 高垣彩陽", 1],
-    [4, "キズナノユクエ from Yui (Instrumental)", "五位堂 結 starring 高垣彩陽", 0],
+    [4, "キズナノユクエ from Yui (Instrumental)", "五位堂 結 starring 高垣彩陽", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c74572e4-40e0-4712-bac1-4951d5ed169f", "https://vgmdb.net/album/41435"]
 
-[10a13d7747a7f511851f88f139ccbd20]
+[fab11076db9925ae94bb724bb5c89ee4]
 catalognumber = "GNCA-0294"
 date = "2013-09-04"
 album = "神のみキャラCD.000 エルシィ＆ハクア starring 伊藤かな恵＆早見沙織"
 tracks = [
-    [1, "ろまんちっく☆２Night", "エルシィ starring 伊藤かな恵", 0],
-    [2, "With…you…", "ハクア starring 早見沙織", 0],
-    [3, "ろまんちっく☆２Night (Instrumental)", "エルシィ starring 伊藤かな恵", 0],
-    [4, "With…you… (Instrumental)", "ハクア starring 早見沙織", 0],
+    [1, "ろまんちっく☆２Night", "エルシィ starring 伊藤かな恵", 1],
+    [2, "With…you…", "ハクア starring 早見沙織", 1],
+    [3, "ろまんちっく☆２Night (Instrumental)", "エルシィ starring 伊藤かな恵", 1],
+    [4, "With…you… (Instrumental)", "ハクア starring 早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d05e78bb-de7a-47e3-bcf6-224ba6af2729", "https://vgmdb.net/album/41436"]
 
-[c40f1770388b86a8975fa9d9d001adb8]
+[5892afe3dbcaade5e6670f4252b0a083]
 catalognumber = "GNCA-0198"
 date = "2013-09-11"
 album = "キズナノユクエ / ユピテルの姉妹"
 tracks = [
-    [1, "キズナノユクエ", "ユピテルの姉妹", 0],
-    [2, "キズナノユクエ feat. 九条月夜", "九条月夜 starring 井口裕香", 0],
-    [3, "キズナノユクエ feat. 中川かのん", "中川かのん starring 東山奈央", 0],
-    [4, "キズナノユクエ feat. 鮎川天理", "鮎川天理 starring 名塚佳織", 0],
-    [5, "キズナノユクエ feat. 汐宮 栞", "汐宮 栞 starring 花澤香菜", 0],
-    [6, "キズナノユクエ feat. 五位堂 結", "五位堂 結 starring 高垣彩陽", 0],
-    [7, "キズナノユクエ feat. 高原歩美", "高原歩美 starring 竹達彩奈", 0],
-    [8, "キズナノユクエ (TV EDIT)", "ユピテルの姉妹", 0],
-    [9, "キズナノユクエ (Instrumental)", "ユピテルの姉妹", 0],
+    [1, "キズナノユクエ", "ユピテルの姉妹", 2],
+    [2, "キズナノユクエ feat. 九条月夜", "九条月夜 starring 井口裕香", 1],
+    [3, "キズナノユクエ feat. 中川かのん", "中川かのん starring 東山奈央", 1],
+    [4, "キズナノユクエ feat. 鮎川天理", "鮎川天理 starring 名塚佳織", 1],
+    [5, "キズナノユクエ feat. 汐宮 栞", "汐宮 栞 starring 花澤香菜", 1],
+    [6, "キズナノユクエ feat. 五位堂 結", "五位堂 結 starring 高垣彩陽", 1],
+    [7, "キズナノユクエ feat. 高原歩美", "高原歩美 starring 竹達彩奈", 1],
+    [8, "キズナノユクエ (TV EDIT)", "ユピテルの姉妹", 1],
+    [9, "キズナノユクエ (Instrumental)", "ユピテルの姉妹", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8c95a54b-e906-4f83-b3d8-f443afcf5bb6", "https://vgmdb.net/album/39823"]
 
-[2d1860e0c19e79cbbf5764432952ee1f]
+[4ac2e7b7c81ace51bd375b9738e9e087]
 catalognumber = "GNCA-0295"
 date = "2013-09-25"
 album = "初めて恋をした記憶 / 2B PENCILS"
 tracks = [
-    [1, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 0],
-    [2, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 0],
-    [3, "初めて恋をした記憶 (Instrumental)", "2B PENCILS＆中川かのん", 0],
-    [4, "キャッチ・ザ・レインボー (Instrumental)", "2B PENCILS with 学食のおばちゃん", 0],
-    [5, "初めて恋をした記憶", "小阪ちひろ starring 阿澄佳奈", 0],
+    [1, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 1],
+    [2, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 1],
+    [3, "初めて恋をした記憶 (Instrumental)", "2B PENCILS＆中川かのん", 1],
+    [4, "キャッチ・ザ・レインボー (Instrumental)", "2B PENCILS with 学食のおばちゃん", 1],
+    [5, "初めて恋をした記憶", "小阪ちひろ starring 阿澄佳奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1d4a5689-a2e9-4683-a82d-cb3d91e46163", "https://vgmdb.net/album/48626"]
 
-[5985231e308a9e30cf46ea04652316ec]
+[e3119af33157a1dc37f706e7f77d5fdd]
 catalognumber = "GNBA-789302"
 date = "2013-10-30"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 1.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #0", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #1", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #0", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #1", "", 1],
 ]
 links = ["https://vgmdb.net/album/48657"]
 
-[ad9052fcb50596bf4ddcc93ede893c76]
+[c4ae06fe3406a68471af63be9d72fa09]
 catalognumber = "GNCA-1392"
 date = "2013-10-30"
 album = "Colors / 中川かのん starring 東山奈央 Disc 1 [GNCA-139201]"
 tracks = [
-    [1, "青春パラダイス", "中川かのん starring 東山奈央", 0],
-    [2, "かのん100%", "中川かのん starring 東山奈央", 0],
-    [3, "君色ラブソング", "中川かのん starring 東山奈央", 0],
-    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
-    [5, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 0],
-    [7, "秋色片想い", "中川かのん starring 東山奈央", 0],
-    [8, "瞳からスノー", "中川かのん starring 東山奈央", 0],
-    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 0],
-    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
-    [11, "桜色卒業", "中川かのん starring 東山奈央", 0],
-    [12, "歩いていくもん", "中川かのん starring 東山奈央", 0],
+    [1, "青春パラダイス", "中川かのん starring 東山奈央", 1],
+    [2, "かのん100%", "中川かのん starring 東山奈央", 1],
+    [3, "君色ラブソング", "中川かのん starring 東山奈央", 1],
+    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
+    [5, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 1],
+    [7, "秋色片想い", "中川かのん starring 東山奈央", 1],
+    [8, "瞳からスノー", "中川かのん starring 東山奈央", 1],
+    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 1],
+    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
+    [11, "桜色卒業", "中川かのん starring 東山奈央", 1],
+    [12, "歩いていくもん", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7db50077-72a5-4482-b44b-ff221492988a", "https://vgmdb.net/album/48645"]
 
@@ -1177,23 +1177,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7db50077-72a5-4482-b44b-ff221492988a", "https://vgmdb.net/album/48645"]
 
-[7ffa193c32a2338941109a9a4f84ea69]
+[4b55766d7ec8abb529f69ab40eaa85ee]
 catalognumber = "GNCA-1390"
 date = "2013-10-30"
 album = "Colors / 中川かのん starring 東山奈央 Disc 1 [GNCA-139001]"
 tracks = [
-    [1, "青春パラダイス", "中川かのん starring 東山奈央", 0],
-    [2, "かのん100%", "中川かのん starring 東山奈央", 0],
-    [3, "君色ラブソング", "中川かのん starring 東山奈央", 0],
-    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
-    [5, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 0],
-    [7, "秋色片想い", "中川かのん starring 東山奈央", 0],
-    [8, "瞳からスノー", "中川かのん starring 東山奈央", 0],
-    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 0],
-    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
-    [11, "桜色卒業", "中川かのん starring 東山奈央", 0],
-    [12, "歩いていくもん", "中川かのん starring 東山奈央", 0],
+    [1, "青春パラダイス", "中川かのん starring 東山奈央", 1],
+    [2, "かのん100%", "中川かのん starring 東山奈央", 1],
+    [3, "君色ラブソング", "中川かのん starring 東山奈央", 1],
+    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
+    [5, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 1],
+    [7, "秋色片想い", "中川かのん starring 東山奈央", 1],
+    [8, "瞳からスノー", "中川かのん starring 東山奈央", 1],
+    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 1],
+    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
+    [11, "桜色卒業", "中川かのん starring 東山奈央", 1],
+    [12, "歩いていくもん", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7db50077-72a5-4482-b44b-ff221492988a", "https://vgmdb.net/album/48644"]
 
@@ -1215,83 +1215,83 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7db50077-72a5-4482-b44b-ff221492988a", "https://vgmdb.net/album/48644"]
 
-[1accaf3a38bcba15a5e9e4d0d925400e]
+[4b942fad095435a50123ba8e4631bbb2]
 catalognumber = "GNCA-1393"
 date = "2013-10-30"
 album = "Birth / 中川かのん starring 東山奈央"
 tracks = [
     [1, "Date of Birth", "中川かのん starring 東山奈央", 1],
     [2, "LOVE KANON", "中川かのん starring 東山奈央", 1],
-    [3, "YES-TODAY", "中川かのん starring 東山奈央", 0],
+    [3, "YES-TODAY", "中川かのん starring 東山奈央", 1],
     [4, "ALL 4 YOU", "中川かのん starring 東山奈央", 1],
-    [5, "ウラハラブ", "中川かのん starring 東山奈央", 0],
-    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
-    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 0],
-    [8, "らぶこーる", "中川かのん starring 東山奈央", 0],
-    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 0],
+    [5, "ウラハラブ", "中川かのん starring 東山奈央", 1],
+    [6, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
+    [7, "想いはRain Rain", "中川かのん starring 東山奈央", 1],
+    [8, "らぶこーる", "中川かのん starring 東山奈央", 1],
+    [9, "ダーリンベイビ", "中川かのん starring 東山奈央", 1],
     [10, "Birth", "前口渉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/738ffbc9-2fe2-42ec-8877-d7ee2ff029b2", "https://vgmdb.net/album/48643"]
 
-[ecc1b2aac653678d7909c6da93f63ded]
+[ee9bd545e151aa5d2bece6f0c5de171a]
 catalognumber = "GNCA-1391"
 date = "2013-10-30"
 album = "Colors / 中川かのん starring 東山奈央"
 tracks = [
-    [1, "青春パラダイス", "中川かのん starring 東山奈央", 0],
-    [2, "かのん100%", "中川かのん starring 東山奈央", 0],
-    [3, "君色ラブソング", "中川かのん starring 東山奈央", 0],
-    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 0],
-    [5, "サマーボーイ", "中川かのん starring 東山奈央", 0],
-    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 0],
-    [7, "秋色片想い", "中川かのん starring 東山奈央", 0],
-    [8, "瞳からスノー", "中川かのん starring 東山奈央", 0],
-    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 0],
-    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 0],
-    [11, "桜色卒業", "中川かのん starring 東山奈央", 0],
-    [12, "歩いていくもん", "中川かのん starring 東山奈央", 0],
+    [1, "青春パラダイス", "中川かのん starring 東山奈央", 1],
+    [2, "かのん100%", "中川かのん starring 東山奈央", 1],
+    [3, "君色ラブソング", "中川かのん starring 東山奈央", 1],
+    [4, "夏色サプライズ", "中川かのん starring 東山奈央", 1],
+    [5, "サマーボーイ", "中川かのん starring 東山奈央", 1],
+    [6, "ろまんてぃっく愛情", "中川かのん starring 東山奈央", 1],
+    [7, "秋色片想い", "中川かのん starring 東山奈央", 1],
+    [8, "瞳からスノー", "中川かのん starring 東山奈央", 1],
+    [9, "恋に落ちたサンタ", "中川かのん starring 東山奈央", 1],
+    [10, "バレバレ・バレンタイン", "中川かのん starring 東山奈央", 1],
+    [11, "桜色卒業", "中川かのん starring 東山奈央", 1],
+    [12, "歩いていくもん", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7db50077-72a5-4482-b44b-ff221492988a", "https://vgmdb.net/album/48646"]
 
-[ec3427d34cd7d9952fe192764be77e1b]
+[34896a7b7b7a651ef073daa69868469f]
 catalognumber = "GNCA-1394"
 date = "2013-11-27"
 album = "SECOND MISSION / 駆け魂隊"
 tracks = [
-    [1, "World Fortune～セカイノユクエ～", "エルシィ＆ハクア starring 伊藤かな恵＆早見沙織", 0],
+    [1, "World Fortune～セカイノユクエ～", "エルシィ＆ハクア starring 伊藤かな恵＆早見沙織", 1],
     [2, "GRAVITY", "ハクア starring 早見沙織", 1],
-    [3, "なんちゃってアイドル？！", "エルシィ starring 伊藤かな恵", 0],
-    [4, "With…you…", "ハクア starring 早見沙織", 0],
-    [5, "†DEVIL’S MISSION†", "エルシィ＆ハクア starring 伊藤かな恵＆早見沙織", 0],
+    [3, "なんちゃってアイドル？！", "エルシィ starring 伊藤かな恵", 2],
+    [4, "With…you…", "ハクア starring 早見沙織", 1],
+    [5, "†DEVIL’S MISSION†", "エルシィ＆ハクア starring 伊藤かな恵＆早見沙織", 1],
     [6, "BITTER TASTE", "ノーラ starring 豊口めぐみ", 1],
-    [7, "微熱ルネサンス", "ハクア starring 早見沙織", 0],
-    [8, "ろまんちっく☆２Night", "エルシィ starring 伊藤かな恵", 0],
+    [7, "微熱ルネサンス", "ハクア starring 早見沙織", 1],
+    [8, "ろまんちっく☆２Night", "エルシィ starring 伊藤かな恵", 1],
     [9, "Innocent Blue", "ハクア starring 早見沙織", 1],
     [10, "Cherish", "エルシィ＆ハクア starring 伊藤かな恵＆早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/40f0ce85-d0f2-4013-9b40-50a62be26492", "https://vgmdb.net/album/48642"]
 
-[82dfdc0451bcf84b994aa16b7f40455f]
+[2348ac2d044bec30393bffaf4e063f4a]
 catalognumber = "GNBA-789402"
 date = "2013-11-27"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 2.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #2", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #3", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #2", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #3", "", 1],
 ]
 links = ["https://vgmdb.net/album/48658"]
 
-[a2876f36931b55942bdc03fe0ebe108b]
+[4446ea3168f75df8651d686a0761c27f]
 catalognumber = "GNBA-789502"
 date = "2013-12-11"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 3.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #4", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #5", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #4", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #5", "", 1],
 ]
 links = ["https://vgmdb.net/album/48659"]
 
-[58899bf40ee245a0f990084ec1b057d9]
+[84af064fc83b6be4069edda180ecdfe2]
 catalognumber = "GNCA-1396"
 date = "2013-12-11"
 album = "2B PENCILS / 2B PENCILS [Limited Edition]"
@@ -1299,19 +1299,19 @@ tracks = [
     [1, "Soundcheck", "2B PENCILS", 1],
     [2, "QUESTION?", "2B PENCILS", 1],
     [3, "Heart Beatにご用心!", "2B PENCILS", 1],
-    [4, "Wonder Chance", "2B PENCILS", 0],
+    [4, "Wonder Chance", "2B PENCILS", 1],
     [5, "Oh！まい☆GOD!!", "2B PENCILS", 1],
-    [6, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 0],
+    [6, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 1],
     [7, "DIVE into the SKY", "2B PENCILS", 1],
     [8, "Special Memory", "2B PENCILS", 1],
     [9, "NO.1", "2B PENCILS", 1],
-    [10, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 0],
+    [10, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 1],
     [11, "It's All Right", "2B PENCILS", 1],
-    [12, "初めて恋をした記憶 (女神篇#12 TV EDIT)", "2B PENCILS＆中川かのん", 0],
+    [12, "初めて恋をした記憶 (女神篇#12 TV EDIT)", "2B PENCILS＆中川かのん", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0bbcbf01-bf9e-41b5-89ce-fbc8a01055ce", "https://vgmdb.net/album/48629"]
 
-[1255148796ac7e91619413968dc5ecd1]
+[21af2a28c5730790307fc30f431f32e2]
 catalognumber = "GNCA-1397"
 date = "2013-12-11"
 album = "2B PENCILS / 2B PENCILS"
@@ -1319,172 +1319,172 @@ tracks = [
     [1, "Soundcheck", "2B PENCILS", 1],
     [2, "QUESTION?", "2B PENCILS", 1],
     [3, "Heart Beatにご用心!", "2B PENCILS", 1],
-    [4, "Wonder Chance", "2B PENCILS", 0],
+    [4, "Wonder Chance", "2B PENCILS", 1],
     [5, "Oh！まい☆GOD!!", "2B PENCILS", 1],
-    [6, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 0],
+    [6, "キャッチ・ザ・レインボー", "2B PENCILS with 学食のおばちゃん", 1],
     [7, "DIVE into the SKY", "2B PENCILS", 1],
     [8, "Special Memory", "2B PENCILS", 1],
     [9, "NO.1", "2B PENCILS", 1],
-    [10, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 0],
+    [10, "初めて恋をした記憶", "2B PENCILS＆中川かのん", 1],
     [11, "It's All Right", "2B PENCILS", 1],
-    [12, "初めて恋をした記憶 (女神篇#12 TV EDIT)", "2B PENCILS＆中川かのん", 0],
+    [12, "初めて恋をした記憶 (女神篇#12 TV EDIT)", "2B PENCILS＆中川かのん", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/baa83e1e-65c0-4e3e-8dfe-44ffd2fe3866", "https://vgmdb.net/album/48627"]
 
-[923112609066b649989c8e87a05bb3e6]
+[794140e2bdc69ec6650237b1d41dae65]
 catalognumber = "GNCA-1398"
 date = "2013-12-25"
 album = "神のみぞ知るセカイ 女神篇 Original Soundtrack Original Soundtrack, Vocal"
 tracks = [
-    [1, "タイムリミット", "松尾早人", 0],
+    [1, "タイムリミット", "松尾早人", 1],
     [2, "God only knows -Secrets of the Goddess- (Extract)", "Oratorio The World God Only Knows", 1],
-    [3, "おせっかいな女神", "松尾早人", 0],
-    [4, "切ない恋の記憶", "松尾早人", 0],
-    [5, "キズナノユクエ feat. 中川かのん (TV EDIT)", "中川かのん starring 東山奈央", 0],
-    [6, "ヴィンテージのリューネ", "松尾早人", 0],
-    [7, "女神攻略", "松尾早人", 0],
-    [8, "月を愛でる小さき少女", "松尾早人", 0],
-    [9, "正義を愛する女神の力", "松尾早人", 0],
-    [10, "キズナノユクエ feat. 九条月夜 (TV EDIT)", "九条月夜 starring 井口裕香", 0],
-    [11, "和装の麗人", "松尾早人", 0],
-    [12, "男装の麗人", "松尾早人", 0],
-    [13, "戦いの女神", "松尾早人", 0],
-    [14, "キズナノユクエ feat. 五位堂 結 (TV EDIT)", "五位堂 結 starring 高垣彩陽", 0],
-    [15, "シモーネとカシラギ", "松尾早人", 0],
-    [16, "私について。", "松尾早人", 0],
-    [17, "知恵と知力の女神", "松尾早人", 0],
-    [18, "キズナノユクエ feat. 汐宮 栞 (TV EDIT)", "汐宮 栞 starring 花澤香菜", 0],
+    [3, "おせっかいな女神", "松尾早人", 1],
+    [4, "切ない恋の記憶", "松尾早人", 1],
+    [5, "キズナノユクエ feat. 中川かのん (TV EDIT)", "中川かのん starring 東山奈央", 1],
+    [6, "ヴィンテージのリューネ", "松尾早人", 1],
+    [7, "女神攻略", "松尾早人", 1],
+    [8, "月を愛でる小さき少女", "松尾早人", 1],
+    [9, "正義を愛する女神の力", "松尾早人", 1],
+    [10, "キズナノユクエ feat. 九条月夜 (TV EDIT)", "九条月夜 starring 井口裕香", 1],
+    [11, "和装の麗人", "松尾早人", 1],
+    [12, "男装の麗人", "松尾早人", 1],
+    [13, "戦いの女神", "松尾早人", 1],
+    [14, "キズナノユクエ feat. 五位堂 結 (TV EDIT)", "五位堂 結 starring 高垣彩陽", 1],
+    [15, "シモーネとカシラギ", "松尾早人", 1],
+    [16, "私について。", "松尾早人", 1],
+    [17, "知恵と知力の女神", "松尾早人", 1],
+    [18, "キズナノユクエ feat. 汐宮 栞 (TV EDIT)", "汐宮 栞 starring 花澤香菜", 1],
     [19, "NEXT STAGE Ⅲ", "松尾早人", 1],
-    [20, "恋、再び", "松尾早人", 0],
-    [21, "瞳からスノー (TV EDIT)", "中川かのん starring 東山奈央", 0],
-    [22, "神に恋した女神", "松尾早人", 0],
-    [23, "キズナノユクエ feat. 鮎川天理 (TV EDIT)", "鮎川天理 starring 名塚佳織", 0],
-    [24, "神に恋した悪魔", "松尾早人", 0],
-    [25, "With…you… (TV EDIT)", "ハクア starring 早見沙織", 0],
-    [26, "初恋", "松尾早人", 0],
-    [27, "友達の恋", "松尾早人", 0],
-    [28, "最初のヒロイン～最後の女神", "松尾早人", 0],
-    [29, "キズナノユクエ feat. 高原歩美 (TV EDIT)", "高原歩美 starring 竹達彩奈", 0],
-    [30, "正統悪魔社(ヴィンテージ)", "松尾早人", 0],
-    [31, "目覚めし姉妹の力", "松尾早人", 0],
-    [32, "キズナノユクエ (TV EDIT)", "ユピテルの姉妹", 0],
-    [33, "初めて恋をした記憶 (女神篇 #12 TV EDIT)", "2B PENCILS＆中川かのん", 0],
-    [34, "コイノシルシ (女神篇 TV EDIT)", "神のみぞ知り隊", 0],
+    [20, "恋、再び", "松尾早人", 1],
+    [21, "瞳からスノー (TV EDIT)", "中川かのん starring 東山奈央", 1],
+    [22, "神に恋した女神", "松尾早人", 1],
+    [23, "キズナノユクエ feat. 鮎川天理 (TV EDIT)", "鮎川天理 starring 名塚佳織", 1],
+    [24, "神に恋した悪魔", "松尾早人", 1],
+    [25, "With…you… (TV EDIT)", "ハクア starring 早見沙織", 1],
+    [26, "初恋", "松尾早人", 1],
+    [27, "友達の恋", "松尾早人", 1],
+    [28, "最初のヒロイン～最後の女神", "松尾早人", 1],
+    [29, "キズナノユクエ feat. 高原歩美 (TV EDIT)", "高原歩美 starring 竹達彩奈", 1],
+    [30, "正統悪魔社(ヴィンテージ)", "松尾早人", 1],
+    [31, "目覚めし姉妹の力", "松尾早人", 1],
+    [32, "キズナノユクエ (TV EDIT)", "ユピテルの姉妹", 1],
+    [33, "初めて恋をした記憶 (女神篇 #12 TV EDIT)", "2B PENCILS＆中川かのん", 1],
+    [34, "コイノシルシ (女神篇 TV EDIT)", "神のみぞ知り隊", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/451052a4-fed2-4cbf-bb53-c6d17b4b626e", "https://vgmdb.net/album/40493"]
 
-[968a87cb67c7e3cf96a8159d32f1d164]
+[e5ccabd834971972c20715c08fee3a93]
 catalognumber = "GNCA-1398"
 date = "2013-12-25"
 album = "神のみぞ知るセカイ 女神篇 Original Soundtrack Original Soundtrack"
 tracks = [
-    [1, "再会", "松尾早人", 0],
-    [2, "穏やかならぬ距離感", "松尾早人", 0],
-    [3, "角付きの地区長", "松尾早人", 0],
-    [4, "大切なともだち", "松尾早人", 0],
-    [5, "したたかで強引な作戦", "松尾早人", 0],
-    [6, "秘密", "松尾早人", 0],
-    [7, "幼馴染み", "松尾早人", 0],
-    [8, "その悪魔凶暴につき", "松尾早人", 0],
-    [9, "神と女神", "松尾早人", 0],
-    [10, "ヒカリノキセキ (OVA EDIT)", "eyelis", 0],
-    [11, "蘇る記憶", "松尾早人", 0],
-    [12, "十年前の夏", "松尾早人", 0],
-    [13, "忘れえぬ想い出", "松尾早人", 0],
-    [14, "純潔の女神", "松尾早人", 0],
-    [15, "恋～はじめての口づけ", "松尾早人", 0],
-    [16, "邂逅", "松尾早人", 0],
-    [17, "未来への扉 (OVA EDIT)", "eyelis", 0],
+    [1, "再会", "松尾早人", 1],
+    [2, "穏やかならぬ距離感", "松尾早人", 1],
+    [3, "角付きの地区長", "松尾早人", 1],
+    [4, "大切なともだち", "松尾早人", 1],
+    [5, "したたかで強引な作戦", "松尾早人", 1],
+    [6, "秘密", "松尾早人", 1],
+    [7, "幼馴染み", "松尾早人", 1],
+    [8, "その悪魔凶暴につき", "松尾早人", 1],
+    [9, "神と女神", "松尾早人", 1],
+    [10, "ヒカリノキセキ (OVA EDIT)", "eyelis", 1],
+    [11, "蘇る記憶", "松尾早人", 1],
+    [12, "十年前の夏", "松尾早人", 1],
+    [13, "忘れえぬ想い出", "松尾早人", 1],
+    [14, "純潔の女神", "松尾早人", 1],
+    [15, "恋～はじめての口づけ", "松尾早人", 1],
+    [16, "邂逅", "松尾早人", 1],
+    [17, "未来への扉 (OVA EDIT)", "eyelis", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/451052a4-fed2-4cbf-bb53-c6d17b4b626e", "https://vgmdb.net/album/40493"]
 
-[a6dc8d741873e408d8a1a25c97d7833c]
+[bd8bff79233b10b2511d88ef1709e623]
 catalognumber = "GNBA-789602"
 date = "2013-12-25"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 4.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #6", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #7", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #6", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #7", "", 1],
 ]
 links = ["https://vgmdb.net/album/48660"]
 
-[a974e631ebb0ace6c08b3807f1615735]
+[83723caf55fc280537627084427becee]
 catalognumber = "GNBA-789702"
 date = "2014-01-29"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 5.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #8", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #9", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #8", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #9", "", 1],
 ]
 links = ["https://vgmdb.net/album/48661"]
 
-[37faa88338e02f0419875d27434402f7]
+[87249931ffbaa416b3847a243ac7c7b8]
 catalognumber = "GNCA-1290"
 date = "2014-02-12"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム2"
 tracks = [
-    [1, "アッセンブル・インサート", "エルシィ starring 伊藤かな恵", 0],
-    [2, "ゆずれない願い", "高原歩美＆五位堂 結 starring 竹達彩奈＆高垣彩陽", 0],
+    [1, "アッセンブル・インサート", "エルシィ starring 伊藤かな恵", 1],
+    [2, "ゆずれない願い", "高原歩美＆五位堂 結 starring 竹達彩奈＆高垣彩陽", 1],
     [3, "Dang Dang気になる", "小阪ちひろ starring 阿澄佳奈", 1],
-    [4, "空へ…", "九条月夜 starring 井口裕香", 0],
-    [5, "夢は終わらない〜こぼれ落ちる時の雫〜", "鮎川天理 starring 名塚佳織", 0],
+    [4, "空へ…", "九条月夜 starring 井口裕香", 1],
+    [5, "夢は終わらない〜こぼれ落ちる時の雫〜", "鮎川天理 starring 名塚佳織", 1],
     [6, "dis-", "ハクア starring 早見沙織", 1],
-    [7, "ロ・ロ・ロ・ロシアン・ルーレット", "ノーラ starring 豊口めぐみ", 0],
+    [7, "ロ・ロ・ロ・ロシアン・ルーレット", "ノーラ starring 豊口めぐみ", 1],
     [8, "Raison d'être", "汐宮 栞 starring 花澤香菜", 1],
-    [9, "想い出がいっぱい", "中川かのん starring 東山奈央", 0],
-    [10, "女の子って", "桂木桂馬 with エルシィ starring 下野紘 with 伊藤かな恵", 0],
+    [9, "想い出がいっぱい", "中川かのん starring 東山奈央", 1],
+    [10, "女の子って", "桂木桂馬 with エルシィ starring 下野紘 with 伊藤かな恵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dfb3ce46-f5a3-4982-a6a8-ca99402d569e", "https://vgmdb.net/album/48649"]
 
-[705026db64360b3cf35b81fa24a551b6]
+[be27a4f58af5360bfce3a96e441cbaf0]
 catalognumber = "GNCA-1289"
 date = "2014-02-12"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム2 Arrangement, Vocal"
 tracks = [
-    [1, "アッセンブル・インサート", "エルシィ starring 伊藤かな恵", 0],
-    [2, "ゆずれない願い", "高原歩美＆五位堂 結 starring 竹達彩奈＆高垣彩陽", 0],
+    [1, "アッセンブル・インサート", "エルシィ starring 伊藤かな恵", 1],
+    [2, "ゆずれない願い", "高原歩美＆五位堂 結 starring 竹達彩奈＆高垣彩陽", 2],
     [3, "Dang Dang 気になる", "小阪ちひろ starring 阿澄佳奈", 1],
-    [4, "空へ…", "九条月夜 starring 井口裕香", 0],
-    [5, "夢は終わらない 〜こぼれ落ちる時の雫〜", "鮎川天理 starring 名塚佳織", 0],
+    [4, "空へ…", "九条月夜 starring 井口裕香", 1],
+    [5, "夢は終わらない 〜こぼれ落ちる時の雫〜", "鮎川天理 starring 名塚佳織", 1],
     [6, "dis-", "ハクア starring 早見沙織", 1],
-    [7, "ロ・ロ・ロ・ロシアン・ルーレット", "ノーラ starring 豊口めぐみ", 0],
+    [7, "ロ・ロ・ロ・ロシアン・ルーレット", "ノーラ starring 豊口めぐみ", 1],
     [8, "Raison d'être", "汐宮 栞 starring 花澤香菜", 1],
-    [9, "想い出がいっぱい", "中川かのん starring 東山奈央", 0],
-    [10, "女の子って", "桂木桂馬 with エルシィ starring 下野紘 with 伊藤かな恵", 0],
+    [9, "想い出がいっぱい", "中川かのん starring 東山奈央", 2],
+    [10, "女の子って", "桂木桂馬 with エルシィ starring 下野紘 with 伊藤かな恵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/81734679-1316-416e-a42c-61537b02e073", "https://vgmdb.net/album/48650"]
 
-[6b58dbce5f8342788fa8b659e161b677]
+[fb5b108d97f0b3902daa0ca14ad4d4be]
 catalognumber = "GNCA-1289"
 date = "2014-02-12"
 album = "神のみぞ知るセカイ キャラクター・カバー・アルバム2 Talk"
 tracks = [
-    [1, "神のみラジオ SPECIAL CD #01", "若木民喜 & 下野紘", 0],
-    [2, "神のみラジオ SPECIAL CD #02", "若木民喜 & 下野紘", 0],
-    [3, "神のみラジオ SPECIAL CD #03", "若木民喜 & 下野紘", 0],
-    [4, "神のみラジオ SPECIAL CD #04", "若木民喜 & 下野紘", 0],
-    [5, "神のみラジオ SPECIAL CD #05", "若木民喜 & 下野紘", 0],
-    [6, "神のみラジオ SPECIAL CD #06", "若木民喜 & 下野紘", 0],
-    [7, "神のみラジオ SPECIAL CD #07", "若木民喜 & 下野紘", 0],
-    [8, "神のみラジオ SPECIAL CD #08", "若木民喜 & 下野紘", 0],
-    [9, "神のみラジオ SPECIAL CD #09", "若木民喜 & 下野紘", 0],
-    [10, "神のみラジオ SPECIAL CD #10", "若木民喜 & 下野紘", 0],
-    [11, "神のみラジオ SPECIAL CD #11", "若木民喜 & 下野紘", 0],
-    [12, "神のみラジオ SPECIAL CD #12", "若木民喜 & 下野紘", 0],
+    [1, "神のみラジオ SPECIAL CD #01", "若木民喜 & 下野紘", 1],
+    [2, "神のみラジオ SPECIAL CD #02", "若木民喜 & 下野紘", 1],
+    [3, "神のみラジオ SPECIAL CD #03", "若木民喜 & 下野紘", 1],
+    [4, "神のみラジオ SPECIAL CD #04", "若木民喜 & 下野紘", 1],
+    [5, "神のみラジオ SPECIAL CD #05", "若木民喜 & 下野紘", 1],
+    [6, "神のみラジオ SPECIAL CD #06", "若木民喜 & 下野紘", 1],
+    [7, "神のみラジオ SPECIAL CD #07", "若木民喜 & 下野紘", 1],
+    [8, "神のみラジオ SPECIAL CD #08", "若木民喜 & 下野紘", 1],
+    [9, "神のみラジオ SPECIAL CD #09", "若木民喜 & 下野紘", 1],
+    [10, "神のみラジオ SPECIAL CD #10", "若木民喜 & 下野紘", 1],
+    [11, "神のみラジオ SPECIAL CD #11", "若木民喜 & 下野紘", 1],
+    [12, "神のみラジオ SPECIAL CD #12", "若木民喜 & 下野紘", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/81734679-1316-416e-a42c-61537b02e073", "https://vgmdb.net/album/48650"]
 
-[0d0befacb81a5e374cb00db2dccba0a9]
+[edb2f7dc72b2eebd5d4249f8ad32b8c4]
 catalognumber = "GNBA-789802"
 date = "2014-02-26"
 album = "神のみぞ知るセカイ 女神篇 ROUTE 6.0 SPECIAL DISC"
 tracks = [
-    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #10", "", 0],
-    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #11", "", 0],
+    [1, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #10", "", 1],
+    [2, "WEBラジオ 神のみぞ知るセカイ〜落とし神Calling you〜 女神篇 #11", "", 1],
 ]
 links = ["https://vgmdb.net/album/48662"]
 
-[cc09dbc6845a66b21515a27c867cc5cc]
+[6a285a19775967b129ffa76a671f6758]
 catalognumber = "IC-HC010"
 date = "2014-04-27"
 album = "MERmÉX IV -In Violence-"
@@ -1508,7 +1508,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45393"]
 
-[ac6d2aa80d58078266a3feb3dd1a05bf]
+[bbcd5e45a7f9fc0618cb8dd63dca7b22]
 catalognumber = "1000597874"
 date = "2016-05-18"
 album = "crescendo / eyelis"
@@ -1517,8 +1517,8 @@ tracks = [
     [2, "銀世界", "eyelis", 0],
     [3, "ページ〜君と綴る物語〜", "eyelis", 0],
     [4, "絆にのせて", "eyelis", 0],
-    [5, "ヒカリノキセキ", "eyelis", 0],
-    [6, "未来への扉", "eyelis", 0],
+    [5, "ヒカリノキセキ", "eyelis", 1],
+    [6, "未来への扉", "eyelis", 1],
     [7, "輝きの欠片", "eyelis", 0],
     [8, "空の涯て", "eyelis", 0],
     [9, "OUTLAWS", "eyelis", 0],
@@ -1530,7 +1530,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a29dd189-bfe3-4303-a5cd-a8721e544adc", "https://vgmdb.net/album/65458"]
 
-[56020d1e683418c27d5e5509056ff7d6]
+[7d5970ca34596f626cbbb1e37b75d8c6]
 catalognumber = "1000597873"
 date = "2016-05-18"
 album = "crescendo / eyelis [特典CD付盤] Disc 1 [1000597873-A]"
@@ -1539,8 +1539,8 @@ tracks = [
     [2, "銀世界", "eyelis", 0],
     [3, "ページ〜君と綴る物語〜", "eyelis", 0],
     [4, "絆にのせて", "eyelis", 0],
-    [5, "ヒカリノキセキ", "eyelis", 0],
-    [6, "未来への扉", "eyelis", 0],
+    [5, "ヒカリノキセキ", "eyelis", 1],
+    [6, "未来への扉", "eyelis", 1],
     [7, "輝きの欠片", "eyelis", 0],
     [8, "空の涯て", "eyelis", 0],
     [9, "OUTLAWS", "eyelis", 0],
@@ -1581,7 +1581,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/65499"]
 
-[ad224f3c0d4b92d1639b5ea5717e59c4]
+[c26e2a46fbfadaec29de59bbc42b21a4]
 catalognumber = "SVWC-70189~90"
 date = "2016-08-30"
 album = "KANAight ～花澤香菜キャラソン ハイパークロニクルミックス～ Disc 2 [SVWC-70190]"
@@ -1623,7 +1623,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af9b0033-666b-42e6-be05-cb4280729814", "https://vgmdb.net/album/65499"]
 
-[a27c1067bd642f9ccd15feec78fa746b]
+[6cc23296fef55a6067d70d45d8f3f49d]
 catalognumber = "VVCL-1283~4"
 date = "2018-08-29"
 album = "DIAMOND MEMORIES ~All Time Best of ELISA~ Disc 1 [VVCL-1283]"
@@ -1631,35 +1631,35 @@ tracks = [
     [1, "euphoric field (English)", "ELISA", 1],
     [2, "HIKARI", "ELISA", 1],
     [3, "ebullient future (English)", "ELISA", 1],
-    [4, "Wonder Wind", "ELISA", 0],
+    [4, "Wonder Wind", "ELISA", 1],
     [5, "Dear My Friend -まだ見ぬ未来へ-", "ELISA", 1],
     [6, "Real Force", "ELISA", 1],
     [7, "God only knows", "Oratorio The World God Only Knows", 1],
-    [8, "集積回路の夢旅人", "ELISA", 0],
+    [8, "集積回路の夢旅人", "ELISA", 1],
     [9, "Invisible Message", "ELISA", 1],
     [10, "SCARLET WINGS", "ELISA", 1],
-    [11, "真実の証", "ELISA", 0],
-    [12, "光の雨", "ELISA", 0],
+    [11, "真実の証", "ELISA", 1],
+    [12, "光の雨", "ELISA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b6afc2b-0318-4a74-8380-d5790d257220", "https://vgmdb.net/album/78463"]
 
-[3bd85d59f58f5d08d67d7a9d533b6196]
+[8d599c9a5e3de8c9b26569ba08e0adb6]
 catalognumber = "VVCL-1283~4"
 date = "2018-08-29"
 album = "DIAMOND MEMORIES ~All Time Best of ELISA~ Disc 2 [VVCL-1284]"
 tracks = [
-    [1, "そばにいるよ", "ELISA", 0],
+    [1, "そばにいるよ", "ELISA", 1],
     [2, "REALISM", "ELISA", 1],
-    [3, "ミレナリオ", "ELISA", 0],
+    [3, "ミレナリオ", "ELISA", 1],
     [4, "Shout my heart", "ELISA", 1],
     [5, "LIFE", "ELISA", 1],
     [6, "EONIAN -イオニアン-", "ELISA connect EFP", 1],
-    [7, "君をのせて", "ELISA", 0],
+    [7, "君をのせて", "ELISA", 1],
     [8, "Rain or Shine", "ELISA", 1],
     [9, "ex:tella", "ELISA", 1],
-    [10, "コントレイル", "ELISA", 0],
-    [11, "WISH", "ELISA", 0],
-    [12, "紅豆 -アカシアの実-", "ELISA", 0],
+    [10, "コントレイル", "ELISA", 1],
+    [11, "WISH", "ELISA", 1],
+    [12, "紅豆 -アカシアの実-", "ELISA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b6afc2b-0318-4a74-8380-d5790d257220", "https://vgmdb.net/album/78463"]
 
@@ -1675,7 +1675,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/17190f06-118a-4c27-9143-6c2010d7de30", "https://vgmdb.net/album/99954"]
 
-[9f2f666af00ecb708661ab5f2ccdd572]
+[d354a6515e64f98cb10cfb2e2264dfeb]
 catalognumber = "VTZL-177"
 date = "2020-08-05"
 album = "Special Thanks! / 東山奈央 Vocal Disc 1"
@@ -1690,8 +1690,8 @@ tracks = [
     [8, "未来物語", "ユウギリ starring 東山奈央", 0],
     [9, "DEDICATE", "ヒミコ(東山奈央)", 0],
     [10, "風にまかせて", "湯音(東山奈央)", 0],
-    [11, "らぶこーる", "中川かのん starring 東山奈央", 0],
-    [12, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
+    [11, "らぶこーる", "中川かのん starring 東山奈央", 1],
+    [12, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/17190f06-118a-4c27-9143-6c2010d7de30", "https://vgmdb.net/album/99954"]
 
@@ -1716,7 +1716,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/17190f06-118a-4c27-9143-6c2010d7de30", "https://vgmdb.net/album/99954"]
 
-[d9996809e604a2477e5dea846c754d39]
+[00b3852f6059bd9f6d7063daa03376a3]
 catalognumber = "VTCL-60535~6"
 date = "2020-08-05"
 album = "Special Thanks! / 東山奈央 Disc 1 [VTCL-60535]"
@@ -1731,8 +1731,8 @@ tracks = [
     [8, "未来物語", "ユウギリ starring 東山奈央", 0],
     [9, "DEDICATE", "ヒミコ(東山奈央)", 0],
     [10, "風にまかせて", "湯音(東山奈央)", 0],
-    [11, "らぶこーる", "中川かのん starring 東山奈央", 0],
-    [12, "ハッピークレセント", "中川かのん starring 東山奈央", 0],
+    [11, "らぶこーる", "中川かのん starring 東山奈央", 1],
+    [12, "ハッピークレセント", "中川かのん starring 東山奈央", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a5f65090-0661-49db-9b01-f7c0fa01d3de", "https://vgmdb.net/album/99953"]
 
