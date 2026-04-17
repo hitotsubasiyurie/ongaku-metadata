@@ -3018,12 +3018,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/4779"]
 
-[88c78bebba75e673a7d040a857b699af]
+[9a5002e6a54c0ed67a5ca60e8ec58de1]
 catalognumber = "LHCA-5065"
 date = "2007-03-07"
 album = "BellesDivas -Angel Note BEST COLLECTION III-"
 tracks = [
-    [1, "Beautiful Harmony", "榊原ゆい", 0],
+    [1, "Beautiful Harmony", "榊原ゆい", 1],
     [2, "Up to you", "中山♡マミ", 0],
     [3, "Miss You", "Riryka", 0],
     [4, "小夜鳴鳥に背を向けて", "kala", 0],
@@ -3394,7 +3394,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/9189"]
 
-[0bc21170faa61cdcd4c3f2f81f533ca0]
+[6e1a6bff18ed1295ca249c301a588f70]
 catalognumber = "SRL-1001"
 date = "2008-06-27"
 album = "Be nuts about Angels -Angel Note Best Collection 4-"
@@ -3404,7 +3404,7 @@ tracks = [
     [3, "みだれ髪", "Riryka", 0],
     [4, "Let’s Do It！", "中山♡マミ", 0],
     [5, "星屑の天使", "真里歌", 0],
-    [6, "Clover", "中山♡マミ", 0],
+    [6, "Clover", "中山♡マミ", 1],
     [7, "Happy xx time", "神代あみ", 0],
     [8, "Eternity Star’s", "中瀬ひな", 0],
     [9, "Festivity", "中山♡マミ", 0],
@@ -3465,7 +3465,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4b1ef22-2273-435d-a9f8-bf36ddc9fe9e", "https://vgmdb.net/album/10197"]
 
-[14b48103da3e0e91a69e34a2b077f0a7]
+[f118efd2198a97207c5a255e511ab0ff]
 catalognumber = "SRL-1002"
 date = "2008-08-29"
 album = "Sing Song Swing -Angel Note Best Collection 5-"
@@ -3479,11 +3479,11 @@ tracks = [
     [7, "NAMIDA", "Riryka", 0],
     [8, "Eternal Ring", "榊原ゆい", 0],
     [9, "涙の破片", "中山♡マミ", 0],
-    [10, "Castle of Heaven", "神代あみ", 0],
+    [10, "Castle of Heaven", "神代あみ", 1],
     [11, "誇り高き勇者", "Riryka", 0],
     [12, "Purest Days", "真理絵", 0],
     [13, "薔薇に抱かれて", "Riryka", 0],
-    [14, "CROSS WORLD", "神代あみ", 0],
+    [14, "CROSS WORLD", "神代あみ", 1],
     [15, "最初の一歩", "中山♡マミ", 0],
     [16, "宝物", "Riryka", 0],
 ]
@@ -3796,7 +3796,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ba859bfd-9159-4805-98a1-dcd4c45ece08", "https://vgmdb.net/album/89178"]
 
-[2688dc7e44112fffa472437e03852f4a]
+[4b667b7094b0d5bb99050ef465627539]
 catalognumber = "SRL-1004"
 date = "2009-08-28"
 album = "Heartful Moment -Angel Note Best Collection VI-"
@@ -3807,7 +3807,7 @@ tracks = [
     [4, "Moon Story", "UR@N", 0],
     [5, "魂の炎", "UMA", 0],
     [6, "希望の歌", "青葉りんご", 0],
-    [7, "Crusader Dream", "Riryka & 中瀬ひな", 0],
+    [7, "Crusader Dream", "Riryka & 中瀬ひな", 2],
     [8, "火華乱舞！", "神代あみ", 0],
     [9, "Moon Garden", "Riryka", 0],
     [10, "クレナイノツキ", "中瀬ひな", 0],
@@ -4782,13 +4782,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/305856ec-2122-4089-a1a8-b213e5fad91e", "https://vgmdb.net/album/24768"]
 
-[297d6450ce1814b098e0622410734681]
+[c868047e3ac33405e1514d7aefa7f87d]
 catalognumber = "SRL-1006"
 date = "2011-05-06"
 album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
 tracks = [
-    [1, "our precious bond", "中山♡マミ＆神代あみ", 0],
-    [2, "Change&Chance!", "榊原ゆい", 0],
+    [1, "our precious bond", "中山♡マミ＆神代あみ", 2],
+    [2, "Change&Chance!", "榊原ゆい", 1],
     [3, "わたしの大事なもの", "橋本みゆき", 0],
     [4, "夏のファンタジア", "佐藤ひろ美", 0],
     [5, "I believe in you", "tohko", 0],
@@ -4797,12 +4797,12 @@ tracks = [
     [8, "刃に残るは君の面影", "Rita", 0],
     [9, "Friends", "tohko", 0],
     [10, "everlasting", "Riryka", 0],
-    [11, "dear", "なかせひな", 0],
+    [11, "dear", "なかせひな", 2],
     [12, "水色ステージ", "真里歌", 0],
     [13, "望郷歌～まほろば～", "佐藤ひろ美", 0],
-    [14, "Cherry Day", "神代あみ", 0],
+    [14, "Cherry Day", "神代あみ", 1],
     [15, "想ひ出小往", "瀬名", 0],
-    [16, "Dear My Precious", "片霧烈火", 0],
+    [16, "Dear My Precious", "片霧烈火", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753", "https://vgmdb.net/album/26383"]
 
