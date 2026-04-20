@@ -1,36 +1,36 @@
-[38bc5ccd60110077b7072258e2260a0e]
+[36c417fa351c6d65a440a71af498dda0]
 catalognumber = "N/A"
 date = "2014-12-29"
 album = "タイヨウパラダイス/ねこまんま日和"
 tracks = [
-    [1, "タイヨウパラダイス", "", 0],
-    [2, "ねこまんま日和", "", 0],
-    [3, "タイヨウパラダイス (inst ver.)", "", 0],
-    [4, "ねこまんま日和 (inst ver.)", "", 0],
+    [1, "タイヨウパラダイス", "", 1],
+    [2, "ねこまんま日和", "", 1],
+    [3, "タイヨウパラダイス (inst ver.)", "", 1],
+    [4, "ねこまんま日和 (inst ver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/50013"]
 
-[d7185f2378dba95abcd8b92411c24ce8]
+[20d6a0d41a980b2698cff3e70552df88]
 catalognumber = ""
 date = "2014-12-30"
 album = "ネコぱら vol.1 OP / ED"
 tracks = [
-    [1, "タイヨウパラダイス", "nao", 0],
-    [2, "ねこまんま日和", "霜月はるか", 0],
-    [3, "タイヨウパラダイス (inst.ver)", "nao", 0],
-    [4, "ねこまんま日和 (inst.ver)", "霜月はるか", 0],
+    [1, "タイヨウパラダイス", "nao", 1],
+    [2, "ねこまんま日和", "霜月はるか", 2],
+    [3, "タイヨウパラダイス (inst.ver)", "nao", 1],
+    [4, "ねこまんま日和 (inst.ver)", "霜月はるか", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d8963459-4570-4126-a7f8-3a7cf317cd79"]
 
-[919792f07a287d1181c0155187b7ef54]
+[9a5cbd31af7ccc6ee67278fe248bca3c]
 catalognumber = ""
 date = "2016-02-20"
 album = "ネコぱら vol.2 OP / ED"
 tracks = [
-    [1, "ドキドキ☆ココロ☆フレーバー", "榊原ゆい", 0],
-    [2, "100にゃんパワーで夢心地", "榊原ゆい", 0],
-    [3, "ドキドキ☆ココロ☆フレーバー (Instrumental)", "榊原ゆい", 0],
-    [4, "100にゃんパワーで夢心地 (Instrumental)", "榊原ゆい", 0],
+    [1, "ドキドキ☆ココロ☆フレーバー", "榊原ゆい", 1],
+    [2, "100にゃんパワーで夢心地", "榊原ゆい", 2],
+    [3, "ドキドキ☆ココロ☆フレーバー (Instrumental)", "榊原ゆい", 1],
+    [4, "100にゃんパワーで夢心地 (Instrumental)", "榊原ゆい", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b397f3b3-ca3f-43e2-9190-fee5e8a27ede"]
 
@@ -287,144 +287,144 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5dbca4ff-f247-4592-8f1e-06602ec8e8e3", "https://vgmdb.net/album/57954"]
 
-[2b8b1dd06e94158d8b99fd3f2b306c60]
+[a4f9e2d4547ef83f29e9453e496db355]
 catalognumber = ""
 date = "2017-05-26"
 album = "ネコぱらvol.3 OP / ED"
 tracks = [
-    [1, "ネコイチ", "Duca", 0],
-    [2, "Growing", "Duca", 0],
-    [3, "ネコイチ (Instrumental)", "Duca", 0],
-    [4, "Growing (Instrumental)", "Duca", 0],
+    [1, "ネコイチ", "Duca", 1],
+    [2, "Growing", "Duca", 1],
+    [3, "ネコイチ (Instrumental)", "Duca", 1],
+    [4, "Growing (Instrumental)", "Duca", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b108b6d6-f27e-4a24-b14b-314486c08d88"]
 
-[0ee2218ff2d75ce66f3d36b316150089]
+[cf917d7dfe36d815a8e84e309c5cbd2c]
 catalognumber = ""
 date = "2018-01-08"
 album = "NEKOPARA OVA ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "Baby→Lady LOVE", "Ray", 0],
-    [2, "▲MEW▲△MEW△CAKE", "KOTOKO", 0],
-    [3, "CatWalk", "前田雄吾", 0],
-    [4, "Nya soleil", "前田雄吾", 0],
-    [5, "Samba De nyannyan", "前田雄吾", 0],
-    [6, "Neko will be...", "前田雄吾", 0],
-    [7, "Neko Maturi", "前田雄吾", 0],
-    [8, "Lovely kitten", "前田雄吾", 0],
-    [9, "Itazura koneko", "前田雄吾", 0],
-    [10, "Neko to sanpo", "前田雄吾", 0],
-    [11, "Screw Up", "前田雄吾", 0],
-    [12, "Amazed Cat", "前田雄吾", 0],
-    [13, "Cat Chase", "前田雄吾", 0],
-    [14, "Strategy meeting", "前田雄吾", 0],
-    [15, "Stealthy step", "前田雄吾", 0],
-    [16, "Tragedy of a cat", "前田雄吾", 0],
-    [17, "Nyannyan paradise", "前田雄吾", 0],
-    [18, "Baby→Lady LOVE (Epilogue)", "前田雄吾", 0],
-    [19, "Tasogare nyanko", "前田雄吾", 0],
-    [20, "Aibyou", "前田雄吾", 0],
-    [21, "Grief", "前田雄吾", 0],
-    [22, "Baby→Lady LOVE (MusicBox)", "前田雄吾", 0],
-    [23, "Unlucky feeling", "前田雄吾", 0],
-    [24, "Impatience", "前田雄吾", 0],
-    [25, "Baby→Lady LOVE (inst.)", "前田雄吾", 0],
-    [26, "▲MEW▲△MEW△CAKE (inst.)", "sky_delta", 0],
+    [1, "Baby→Lady LOVE", "Ray", 1],
+    [2, "▲MEW▲△MEW△CAKE", "KOTOKO", 1],
+    [3, "CatWalk", "前田雄吾", 1],
+    [4, "Nya soleil", "前田雄吾", 1],
+    [5, "Samba De nyannyan", "前田雄吾", 1],
+    [6, "Neko will be...", "前田雄吾", 1],
+    [7, "Neko Maturi", "前田雄吾", 1],
+    [8, "Lovely kitten", "前田雄吾", 1],
+    [9, "Itazura koneko", "前田雄吾", 1],
+    [10, "Neko to sanpo", "前田雄吾", 1],
+    [11, "Screw Up", "前田雄吾", 1],
+    [12, "Amazed Cat", "前田雄吾", 1],
+    [13, "Cat Chase", "前田雄吾", 1],
+    [14, "Strategy meeting", "前田雄吾", 1],
+    [15, "Stealthy step", "前田雄吾", 1],
+    [16, "Tragedy of a cat", "前田雄吾", 1],
+    [17, "Nyannyan paradise", "前田雄吾", 1],
+    [18, "Baby→Lady LOVE (Epilogue)", "前田雄吾", 1],
+    [19, "Tasogare nyanko", "前田雄吾", 1],
+    [20, "Aibyou", "前田雄吾", 1],
+    [21, "Grief", "前田雄吾", 1],
+    [22, "Baby→Lady LOVE (MusicBox)", "前田雄吾", 1],
+    [23, "Unlucky feeling", "前田雄吾", 1],
+    [24, "Impatience", "前田雄吾", 1],
+    [25, "Baby→Lady LOVE (inst.)", "前田雄吾", 1],
+    [26, "▲MEW▲△MEW△CAKE (inst.)", "sky_delta", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2b526cf3-6be0-408a-8640-fb2df551e49d"]
 
-[e32933af3f687629e8c1858e9874f528]
+[8bfd767b3048f1625351a8f2f9e9bc5c]
 catalognumber = "GNCA-0534"
 date = "2018-10-24"
 album = "Symphony"
 tracks = [
-    [1, "Symphony", "Luce Twinkle Wink☆", 0],
-    [2, "Strawberry♥feels", "Luce Twinkle Wink☆", 0],
-    [3, "Symphony (instrumental)", "Luce Twinkle Wink☆", 0],
-    [4, "Strawberry♥feels (instrumental)", "Luce Twinkle Wink☆", 0],
+    [1, "Symphony", "Luce Twinkle Wink☆", 1],
+    [2, "Strawberry♥feels", "Luce Twinkle Wink☆", 1],
+    [3, "Symphony (instrumental)", "Luce Twinkle Wink☆", 1],
+    [4, "Strawberry♥feels (instrumental)", "Luce Twinkle Wink☆", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c6f2126d-778f-46f0-8ab1-edb67d30ec8d"]
 
-[e36530d251c0353d1f91a31c3a58a94b]
+[53c65cd4717aed6894732a293d64aa63]
 catalognumber = "EYCA-12806"
 date = "2020-02-19"
 album = "Shiny Happy Days / ショコラ (CV: 八木侑紀)、バニラ (CV: 佐伯伊織)、アズキ (CV: 井澤詩織)、メイプル (CV: 伊藤美来)、シナモン (CV: のぐちゆり)、ココナツ (CV: 水谷麻鈴)"
 tracks = [
-    [1, "Shiny Happy Days", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
-    [2, "Shiny Happy Days (Instrumental)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
-    [3, "ショートドラマ「はじめてのレコーディング」", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
+    [1, "Shiny Happy Days", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 2],
+    [2, "Shiny Happy Days (Instrumental)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 1],
+    [3, "ショートドラマ「はじめてのレコーディング」", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cdf4ca28-7bbb-40b4-abfe-c4f7d548665c", "https://vgmdb.net/album/93967"]
 
-[0a8029f4b2e25006979f0c8e82505ae7]
+[32dc973d5fdf72c24cc0b4d8683b41be]
 catalognumber = "EYCA-12807"
 date = "2020-02-19"
 album = "陽だまりの香り / ショコラ (CV: 八木侑紀)、バニラ (CV: 佐伯伊織)"
 tracks = [
-    [1, "陽だまりの香り", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 0],
-    [2, "陽だまりの香り (Instrumental)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 0],
-    [3, "ショートドラマ「ショコラのおやすみトーク」", "[dialogue]", 0],
-    [4, "ショートドラマ「バニラのおやすみトーク」", "[dialogue]", 0],
+    [1, "陽だまりの香り", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 1],
+    [2, "陽だまりの香り (Instrumental)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 1],
+    [3, "ショートドラマ「ショコラのおやすみトーク」", "[dialogue]", 1],
+    [4, "ショートドラマ「バニラのおやすみトーク」", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e95f892e-563c-4a7c-8b78-4136b2ed870a", "https://vgmdb.net/album/93968"]
 
-[26ce183b0f9cdef1a87172a34346adba]
+[c05090ee80e9c28cb581be6a43536730]
 catalognumber = "EYCA-12808"
 date = "2020-03-18"
 album = "TVアニメ「ネコぱら」サウンドコレクションアルバム"
 tracks = [
-    [1, "ラ・ソレイユへようこそ!", "立山秋航", 0],
-    [2, "リラックスタイム", "立山秋航", 0],
-    [3, "弾んで遊ぼう", "立山秋航", 0],
-    [4, "ドタバタにゃんこバトル!", "立山秋航", 0],
-    [5, "ネコたちの掛け合い", "立山秋航", 0],
-    [6, "ひなたぼっこ", "立山秋航", 0],
-    [7, "ドジっちゃってアタフタ", "立山秋航", 0],
-    [8, "忍び寄るネコの影", "立山秋航", 0],
-    [9, "逃げろ〜〜〜!", "立山秋航", 0],
-    [10, "膨らむ不安", "立山秋航", 0],
-    [11, "ネコたちの毎日", "立山秋航", 0],
-    [12, "ピンチでハラハラ!?", "立山秋航", 0],
-    [13, "陽気な浜辺", "立山秋航", 0],
-    [14, "フレーメン反応", "立山秋航", 0],
-    [15, "口ゲンカしないの!", "立山秋航", 0],
-    [16, "寂しい気持ち", "立山秋航", 0],
-    [17, "いつもありがとう", "立山秋航", 0],
-    [18, "嫌な予感", "立山秋航", 0],
-    [19, "疑心暗鬼", "立山秋航", 0],
-    [20, "えっちな妄想", "立山秋航", 0],
-    [21, "ハートがウォーミング", "立山秋航", 0],
-    [22, "ネコぱら行進曲", "立山秋航", 0],
-    [23, "大団円", "立山秋航", 0],
-    [24, "メルヘンな世界", "立山秋航", 0],
-    [25, "対決!〜コミカル編〜", "立山秋航", 0],
-    [26, "対決!〜良い勝負編〜", "立山秋航", 0],
-    [27, "対決!〜熱血編〜", "立山秋航", 0],
-    [28, "最終決戦", "立山秋航", 0],
-    [29, "いつも大好きだよ", "立山秋航", 0],
-    [30, "アイキャッチ", "立山秋航", 0],
-    [31, "君とWitches☆彡 (TV size)", "メイプル(CV:伊藤美来)", 0],
-    [32, "君とWitches☆彡 (フルsize)", "メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)", 0],
-    [33, "ホントノココロ", "メイプル(CV:伊藤美来)", 0],
-    [34, "陽だまりの香り～カカオもいっしょver～", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、カカオ(CV:森嶋優花)", 0],
-    [35, "Shiny Happy Days (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 0],
-    [36, "陽だまりの香り (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 0],
+    [1, "ラ・ソレイユへようこそ!", "立山秋航", 1],
+    [2, "リラックスタイム", "立山秋航", 1],
+    [3, "弾んで遊ぼう", "立山秋航", 1],
+    [4, "ドタバタにゃんこバトル!", "立山秋航", 1],
+    [5, "ネコたちの掛け合い", "立山秋航", 1],
+    [6, "ひなたぼっこ", "立山秋航", 1],
+    [7, "ドジっちゃってアタフタ", "立山秋航", 1],
+    [8, "忍び寄るネコの影", "立山秋航", 1],
+    [9, "逃げろ〜〜〜!", "立山秋航", 1],
+    [10, "膨らむ不安", "立山秋航", 1],
+    [11, "ネコたちの毎日", "立山秋航", 1],
+    [12, "ピンチでハラハラ!?", "立山秋航", 1],
+    [13, "陽気な浜辺", "立山秋航", 1],
+    [14, "フレーメン反応", "立山秋航", 1],
+    [15, "口ゲンカしないの!", "立山秋航", 1],
+    [16, "寂しい気持ち", "立山秋航", 1],
+    [17, "いつもありがとう", "立山秋航", 1],
+    [18, "嫌な予感", "立山秋航", 1],
+    [19, "疑心暗鬼", "立山秋航", 1],
+    [20, "えっちな妄想", "立山秋航", 1],
+    [21, "ハートがウォーミング", "立山秋航", 1],
+    [22, "ネコぱら行進曲", "立山秋航", 1],
+    [23, "大団円", "立山秋航", 1],
+    [24, "メルヘンな世界", "立山秋航", 1],
+    [25, "対決!〜コミカル編〜", "立山秋航", 1],
+    [26, "対決!〜良い勝負編〜", "立山秋航", 1],
+    [27, "対決!〜熱血編〜", "立山秋航", 1],
+    [28, "最終決戦", "立山秋航", 1],
+    [29, "いつも大好きだよ", "立山秋航", 1],
+    [30, "アイキャッチ", "立山秋航", 1],
+    [31, "君とWitches☆彡 (TV size)", "メイプル(CV:伊藤美来)", 1],
+    [32, "君とWitches☆彡 (フルsize)", "メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)", 1],
+    [33, "ホントノココロ", "メイプル(CV:伊藤美来)", 2],
+    [34, "陽だまりの香り～カカオもいっしょver～", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、カカオ(CV:森嶋優花)", 2],
+    [35, "Shiny Happy Days (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)、アズキ(CV:井澤詩織)、メイプル(CV:伊藤美来)、シナモン(CV:のぐちゆり)、ココナツ(CV:水谷麻鈴)", 1],
+    [36, "陽だまりの香り (TV size)", "ショコラ(CV:八木侑紀)、バニラ(CV:佐伯伊織)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/34bfcef6-14e8-4ada-95e5-5d8df3ccdeb2", "https://vgmdb.net/album/95181"]
 
-[52c0c67016a5e6660cb6757722eee200]
+[23d8f749e6977b7b30b51169e01f4eaa]
 catalognumber = ""
 date = "2020-11-27"
 album = "ネコぱら vol.4 OP / ED"
 tracks = [
-    [1, "SWEET×SWEET", "KOTOKO", 0],
-    [2, "NEGAIGOTO", "KOTOKO", 0],
-    [3, "SWEET×SWEET (Instrumental)", "KOTOKO", 0],
-    [4, "NEGAIGOTO (Instrumental)", "KOTOKO", 0],
+    [1, "SWEET×SWEET", "KOTOKO", 1],
+    [2, "NEGAIGOTO", "KOTOKO", 1],
+    [3, "SWEET×SWEET (Instrumental)", "KOTOKO", 1],
+    [4, "NEGAIGOTO (Instrumental)", "KOTOKO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/496608e4-fb78-4d3a-a48a-968bd7252079"]
 
-[6b67899957f48089bbfc8483dc333b24]
+[18949a6fba7e1490cda2eeb01852e9d1]
 catalognumber = "KDGG-0587"
 date = "2020-12-15"
 album = "おとのはレター ～Hare no Oto～ / 霜月はるか"
@@ -436,7 +436,7 @@ tracks = [
     [5, "promise", "霜月はるか", 0],
     [6, "The Light of Hope", "霜月はるか", 0],
     [7, "夏色ラムネ", "solfa feat.霜月はるか", 0],
-    [8, "ねこまんま日和", "霜月はるか", 0],
+    [8, "ねこまんま日和", "霜月はるか", 1],
     [9, "イノチの灯し方", "霜月はるか", 0],
     [10, "Shine", "霜月はるか", 0],
     [11, "虹のはじまり", "霜月はるか", 0],
@@ -446,7 +446,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fb2ea4c6-aa33-446a-ba3d-7bac95ee5c43", "https://vgmdb.net/album/107393"]
 
-[9f88d5a519a00aab75414f1176c8496e]
+[587de5e16302191741ec06e4924c4cfb]
 catalognumber = "KDGG-0589"
 date = "2020-12-15"
 album = "おとのはレター COMPLETE SET / 霜月はるか Disc 1"
@@ -458,7 +458,7 @@ tracks = [
     [5, "promise", "霜月はるか", 0],
     [6, "The Light of Hope", "霜月はるか", 0],
     [7, "夏色ラムネ", "solfa feat.霜月はるか", 0],
-    [8, "ねこまんま日和", "霜月はるか", 0],
+    [8, "ねこまんま日和", "霜月はるか", 1],
     [9, "イノチの灯し方", "霜月はるか", 0],
     [10, "Shine", "霜月はるか", 0],
     [11, "虹のはじまり", "霜月はるか", 0],
