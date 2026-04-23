@@ -81,24 +81,24 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8e2f3cda-2450-4c19-b96a-a3251c8a1b4d", "https://vgmdb.net/album/49987"]
 
-[82785631c7f969a559d17fd2c8e5cf1c]
+[12eb5ac0b63265fdd50e521d8af0c8d9]
 catalognumber = "PCCG-90138"
 date = "2015-02-25"
 album = "ラジオCD「結城友奈は勇者である 勇者部活動報告」Vol.1"
 tracks = [
-    [1, "yuyuyu 01", "", 0],
-    [2, "yuyuyu 02", "", 0],
-    [3, "yuyuyu 03", "", 0],
-    [4, "yuyuyu 04", "", 0],
-    [5, "yuyuyu 05", "", 0],
-    [6, "yuyuyu 06", "", 0],
-    [7, "yuyuyu 07", "", 0],
-    [8, "yuyuyu 08", "", 0],
-    [9, "yuyuyu 09", "", 0],
-    [10, "yuyuyu 10", "", 0],
-    [11, "yuyuyu 11", "", 0],
-    [12, "yuyuyu 12", "", 0],
-    [13, "yuyuyu sp 01", "", 0],
+    [1, "yuyuyu 01", "", 1],
+    [2, "yuyuyu 02", "", 1],
+    [3, "yuyuyu 03", "", 1],
+    [4, "yuyuyu 04", "", 1],
+    [5, "yuyuyu 05", "", 1],
+    [6, "yuyuyu 06", "", 1],
+    [7, "yuyuyu 07", "", 1],
+    [8, "yuyuyu 08", "", 1],
+    [9, "yuyuyu 09", "", 1],
+    [10, "yuyuyu 10", "", 1],
+    [11, "yuyuyu 11", "", 1],
+    [12, "yuyuyu 12", "", 1],
+    [13, "yuyuyu sp 01", "", 1],
 ]
 links = ["https://vgmdb.net/album/50215"]
 
@@ -177,22 +177,22 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d75675f4-df3c-4658-af9a-92deb09e1e0e", "https://vgmdb.net/album/50592"]
 
-[24f1f3d4a68cb65dbb51e9a4d7eb50c3]
+[184c2371b28b142aa1683d11dd80341a]
 catalognumber = "PCCG-90139"
 date = "2015-05-20"
 album = "ラジオCD「結城友奈は勇者である 勇者部活動報告」Vol.2"
 tracks = [
-    [1, "yuyuyu 13", "", 0],
-    [2, "yuyuyu 14", "", 0],
-    [3, "yuyuyu 15", "", 0],
-    [4, "yuyuyu 16", "", 0],
-    [5, "yuyuyu 17", "", 0],
-    [6, "yuyuyu 18", "", 0],
-    [7, "yuyuyu 19", "", 0],
-    [8, "yuyuyu 20", "", 0],
-    [9, "yuyuyu 21", "", 0],
-    [10, "yuyuyu 22", "", 0],
-    [11, "yuyuyu sp 02", "", 0],
+    [1, "yuyuyu 13", "", 1],
+    [2, "yuyuyu 14", "", 1],
+    [3, "yuyuyu 15", "", 1],
+    [4, "yuyuyu 16", "", 1],
+    [5, "yuyuyu 17", "", 1],
+    [6, "yuyuyu 18", "", 1],
+    [7, "yuyuyu 19", "", 1],
+    [8, "yuyuyu 20", "", 1],
+    [9, "yuyuyu 21", "", 1],
+    [10, "yuyuyu 22", "", 1],
+    [11, "yuyuyu sp 02", "", 1],
 ]
 links = ["https://vgmdb.net/album/51007"]
 
@@ -215,22 +215,22 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/51531"]
 
-[deb25b4cd38e15d78ec8cf2440cfc9cb]
+[1e178f9783c8d4825c94c514b0dad371]
 catalognumber = "PCCG-90142"
 date = "2015-07-22"
 album = "ラジオCD「結城友奈は勇者である 勇者部活動報告」Vol.3"
 tracks = [
-    [1, "yuyuyu 23", "", 0],
-    [2, "yuyuyu 24", "", 0],
-    [3, "yuyuyu 25", "", 0],
-    [4, "yuyuyu 26", "", 0],
-    [5, "yuyuyu 27", "", 0],
-    [6, "yuyuyu 28", "", 0],
-    [7, "yuyuyu 29", "", 0],
-    [8, "yuyuyu 30", "", 0],
-    [9, "yuyuyu 31", "", 0],
-    [10, "yuyuyu 32", "", 0],
-    [11, "yuyuyu sp 03", "", 0],
+    [1, "yuyuyu 23", "", 1],
+    [2, "yuyuyu 24", "", 1],
+    [3, "yuyuyu 25", "", 1],
+    [4, "yuyuyu 26", "", 1],
+    [5, "yuyuyu 27", "", 1],
+    [6, "yuyuyu 28", "", 1],
+    [7, "yuyuyu 29", "", 1],
+    [8, "yuyuyu 30", "", 1],
+    [9, "yuyuyu 31", "", 1],
+    [10, "yuyuyu 32", "", 1],
+    [11, "yuyuyu sp 03", "", 1],
 ]
 links = ["https://vgmdb.net/album/51008"]
 
@@ -495,21 +495,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fbedde72-dedc-4fa0-95f3-e847b2d97f3b", "https://vgmdb.net/album/71544"]
 
-[a87cef60028c93e119cbf9ec6450048e]
+[c085395b458dd434be42c8a388e2562c]
 catalognumber = "PCCG-90165"
 date = "2017-12-20"
 album = "ラジオCD「結城友奈は勇者である 勇者部活動報告」 春夏秋冬"
 tracks = [
-    [1, "yuyuyu2 01", "", 0],
-    [2, "yuyuyu2 02", "", 0],
-    [3, "yuyuyu2 03", "", 0],
-    [4, "yuyuyu2 04", "", 0],
-    [5, "yuyuyu2 05", "", 0],
-    [6, "yuyuyu2 06", "", 0],
-    [7, "yuyuyu2 07", "", 0],
-    [8, "yuyuyu2 08", "", 0],
-    [9, "yuyuyu2 09", "", 0],
-    [10, "yuyuyu2 10", "", 0],
+    [1, "yuyuyu2 01", "", 1],
+    [2, "yuyuyu2 02", "", 1],
+    [3, "yuyuyu2 03", "", 1],
+    [4, "yuyuyu2 04", "", 1],
+    [5, "yuyuyu2 05", "", 1],
+    [6, "yuyuyu2 06", "", 1],
+    [7, "yuyuyu2 07", "", 1],
+    [8, "yuyuyu2 08", "", 1],
+    [9, "yuyuyu2 09", "", 1],
+    [10, "yuyuyu2 10", "", 1],
 ]
 links = ["https://vgmdb.net/album/72387"]
 
@@ -780,16 +780,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/91962"]
 
-[5a46cc93d32ae77b40dd10ca8e83a4a0]
+[3c86890435db49eddbec53c73d1d502b]
 catalognumber = "PCSP-03778"
 date = "2021-10-02"
 album = "U・D・N"
 tracks = [
     [1, "U・D・N", "YUSYABU BAND", 0],
-    [2, "Darling☆Darling", "結城友奈(CV:照井春佳) & 犬吠埼 樹(CV:黒沢ともよ)", 0],
+    [2, "Darling☆Darling", "結城友奈(CV:照井春佳) & 犬吠埼 樹(CV:黒沢ともよ)", 1],
     [3, "真紅の刃", "三好夏凜(CV:長妻樹里)", 0],
     [4, "U・D・N (Instrumental)", "YUSYABU BAND", 0],
-    [5, "Darling☆Darling (Instrumental)", "結城友奈(CV:照井春佳) & 犬吠埼 樹(CV:黒沢ともよ)", 0],
+    [5, "Darling☆Darling (Instrumental)", "結城友奈(CV:照井春佳) & 犬吠埼 樹(CV:黒沢ともよ)", 1],
     [6, "真紅の刃 (Instrumental)", "三好夏凜(CV:長妻樹里)", 0],
 ]
 links = ["https://www.last.fm/music/YUSYABU+BAND/U%E3%83%BBD%E3%83%BBN"]
@@ -807,17 +807,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5ba667a7-a796-4832-907c-17704cf07b9b", "https://vgmdb.net/album/114186"]
 
-[a42eaa552daea5c40914c3b5329bfb38]
+[dff8760c216ad3277ae13123e3ec4f51]
 catalognumber = "PCCG-02073"
 date = "2021-10-27"
 album = "地平線の向こうへ / 讃州中学勇者部"
 tracks = [
     [1, "地平線の向こうへ", "讃州中学勇者部", 2],
-    [2, "Darling☆Darling", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", 0],
+    [2, "Darling☆Darling", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", 1],
     [3, "真紅の刃", "三好夏凜（CV：長妻樹里）", 0],
     [4, "地平線の向こうへ TV edit", "讃州中学勇者部", 1],
     [5, "地平線の向こうへ 〈Instrumental〉", "讃州中学勇者部", 1],
-    [6, "Darling☆Darling 〈Instrumental〉", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", 0],
+    [6, "Darling☆Darling 〈Instrumental〉", "結城友奈（CV：照井春佳）＆犬吠埼樹（CV：黒沢ともよ）", 1],
     [7, "真紅の刃 〈Instrumental〉", "三好夏凜（CV：長妻樹里）", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8d69878b-b596-40ef-b84e-047715d249bb", "https://vgmdb.net/album/114187"]
