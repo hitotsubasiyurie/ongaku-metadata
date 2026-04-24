@@ -1,29 +1,29 @@
-[d1ef5cfabf082ccf1ec77384477903c8]
+[d85424f85f0b24dd458f2bb946415fcb]
 catalognumber = "WAVE-00009"
 date = "2004-12-30"
 album = "ひぐらしのなく頃に イメージサウンドアルバム \"もうなかないで\""
 tracks = [
-    [1, "あの頃のように", "WAVE", 0],
-    [2, "もうなかないで", "WAVE", 0],
-    [3, "陽光の小景", "WAVE", 0],
-    [4, "橙の中で", "WAVE", 0],
-    [5, "ワタナガシ", "WAVE", 0],
-    [6, "サンクチュアリィ", "WAVE", 0],
-    [7, "僕は君に＊される", "WAVE", 0],
-    [8, "truth", "WAVE", 0],
-    [9, "そして ひぐらしはなき止んだ", "WAVE", 0],
+    [1, "あの頃のように", "WAVE", 1],
+    [2, "もうなかないで", "WAVE", 1],
+    [3, "陽光の小景", "WAVE", 1],
+    [4, "橙の中で", "WAVE", 1],
+    [5, "ワタナガシ", "WAVE", 1],
+    [6, "サンクチュアリィ", "WAVE", 1],
+    [7, "僕は君に＊される", "WAVE", 1],
+    [8, "truth", "WAVE", 1],
+    [9, "そして ひぐらしはなき止んだ", "WAVE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aab83716-ade2-4d1c-9258-897218e8d344", "https://vgmdb.net/album/5928"]
 
-[38380b6e4800a5e1221ea25ccc723b07]
+[cca29f49613a9f51d66b789e605990d3]
 catalognumber = "HMG-001"
 date = "2005-02-11"
 album = "Higurashi Motion Graphic vol.1 「なかない君と嘆きの世界」"
 tracks = [
-    [1, "bewailing", "", 0],
-    [2, "しあわせの場所", "", 0],
-    [3, "bewailing (instrumental ver.)", "", 0],
-    [4, "しあわせの場所 (instrumental ver.)", "", 0],
+    [1, "bewailing", "", 1],
+    [2, "しあわせの場所", "", 1],
+    [3, "bewailing (instrumental ver.)", "", 1],
+    [4, "しあわせの場所 (instrumental ver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/12858"]
 
@@ -45,12 +45,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dcbbe977-d33a-4c25-acc4-9a0f057e22d7", "https://vgmdb.net/album/13314"]
 
-[4ea41dd72462a6babce2411e94d3b211]
+[28d2a7402c2a5f185eec02e6fb2e02ca]
 catalognumber = "WACD-001"
 date = "2005-05-27"
 album = "ドラマCD ひぐらしのなく頃に ～鬼隠し編～ Disc 1"
 tracks = [
-    [1, "プロローグ", "", 0],
+    [1, "プロローグ", "", 1],
     [2, "圭一と仲間たち", "", 0],
     [3, "レナを攻略せよ！", "", 0],
     [4, "戦慄の部活動", "", 0],
@@ -63,7 +63,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/25222"]
 
-[3b9bd13cf454a68364ffb9a71f3ffcea]
+[8cbae94cbab032f4ea9a32c22133a937]
 catalognumber = "WACD-001"
 date = "2005-05-27"
 album = "ドラマCD ひぐらしのなく頃に ～鬼隠し編～ Disc 2"
@@ -72,7 +72,7 @@ tracks = [
     [2, "大石来訪", "", 0],
     [3, "疑惑の発芽", "", 0],
     [4, "レナ豹変", "", 0],
-    [5, "鬼隠し", "", 0],
+    [5, "鬼隠し", "", 1],
     [6, "エンジェルモートにて", "", 0],
     [7, "レナと魅音", "", 0],
     [8, "見舞いのおはぎ", "", 0],
@@ -81,7 +81,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/25222"]
 
-[4e665af3a78fbb59c5d9fb74dd3fc16a]
+[8945d87b1e6df779233ea683d72c01ae]
 catalognumber = "WACD-001"
 date = "2005-05-27"
 album = "ドラマCD ひぐらしのなく頃に ～鬼隠し編～ Disc 3"
@@ -97,48 +97,48 @@ tracks = [
     [9, "最後の疑惑", "", 0],
     [10, "ひぐらしの声", "", 0],
     [11, "惨劇の終わり", "", 0],
-    [12, "エピローグ", "", 0],
+    [12, "エピローグ", "", 1],
 ]
 links = ["https://vgmdb.net/album/25222"]
 
-[32b68a678ea3ecbcf3d69779d46ccb3a]
+[a4790f340dfb4483ad5c55b7e4bea4f5]
 catalognumber = "HMG-002"
 date = "2005-05-29"
 album = "Higurashi Motion Graphic vol.2 「なかない君と嘆きの世界 -ソウシュンフ-」"
 tracks = [
-    [1, "月ハ昇ル、私ハ詠ウ", "", 0],
-    [2, "ふわり", "", 0],
-    [3, "月ハ昇ル、私ハ詠ウ (instrumental ver.)", "", 0],
-    [4, "ふわり (instrumental ver.)", "", 0],
+    [1, "月ハ昇ル、私ハ詠ウ", "", 1],
+    [2, "ふわり", "", 1],
+    [3, "月ハ昇ル、私ハ詠ウ (instrumental ver.)", "", 1],
+    [4, "ふわり (instrumental ver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/12859"]
 
-[10b11ea4069c18bb8c6ed8c741059000]
+[6f50c9c7b9eb32f95ab33b04aa421aca]
 catalognumber = "MGCD-0001"
 date = "2005-08-13"
 album = "ひぐらしのなく頃に解 Original Sound Version & Extra Sounds ｢Thanks／you｣"
 tracks = [
-    [1, "Thanks", "dai", 0],
-    [2, "Iru", "dai", 0],
-    [3, "陰", "dai", 0],
-    [4, "Soul scour", "dai", 0],
-    [5, "you(M.Box風)", "dai", 0],
-    [6, "Confession", "dai", 0],
-    [7, "you", "dai", 0],
-    [8, "空夢", "dai", 0],
-    [9, "そらのむこう", "dai", 0],
-    [10, "競争", "dai", 0],
-    [11, "月影(arrange)", "dai", 0],
-    [12, "夢想", "dai", 0],
-    [13, "夢想(arrange)", "dai", 0],
-    [14, "feel", "dai", 0],
-    [15, "月影", "dai", 0],
-    [16, "久遠", "dai", 0],
-    [17, "Birth and Death", "dai", 0],
-    [18, "想い", "dai", 0],
-    [19, "you (Vocal)", "癒月", 0],
-    [20, "想い(Vocal)", "癒月", 0],
-    [21, "隠しトラック", "dai", 0],
+    [1, "Thanks", "dai", 1],
+    [2, "Iru", "dai", 1],
+    [3, "陰", "dai", 1],
+    [4, "Soul scour", "dai", 1],
+    [5, "you(M.Box風)", "dai", 1],
+    [6, "Confession", "dai", 1],
+    [7, "you", "dai", 2],
+    [8, "空夢", "dai", 1],
+    [9, "そらのむこう", "dai", 1],
+    [10, "競争", "dai", 1],
+    [11, "月影(arrange)", "dai", 1],
+    [12, "夢想", "dai", 1],
+    [13, "夢想(arrange)", "dai", 1],
+    [14, "feel", "dai", 1],
+    [15, "月影", "dai", 1],
+    [16, "久遠", "dai", 1],
+    [17, "Birth and Death", "dai", 1],
+    [18, "想い", "dai", 1],
+    [19, "you (Vocal)", "癒月", 1],
+    [20, "想い(Vocal)", "癒月", 1],
+    [21, "隠しトラック", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e02f6060-d368-4261-b751-a19df7250dc3", "https://vgmdb.net/album/6209"]
 
@@ -160,19 +160,19 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/124103"]
 
-[c6082cab209b93c40691eff9086471f2]
+[d3f31327fbdb94cb0b63ad59b9486672]
 catalognumber = "HMG-003"
 date = "2005-08-14"
 album = "Higurashi Motion Graphic vol.3 「なかない君と嘆きの世界 -宴-」"
 tracks = [
-    [1, "狂宴-dance when cried-", "", 0],
-    [2, "うつつがたり", "", 0],
-    [3, "狂宴-dance when cried-(instrumental ver.)", "", 0],
+    [1, "狂宴-dance when cried-", "", 1],
+    [2, "うつつがたり", "", 1],
+    [3, "狂宴-dance when cried-(instrumental ver.)", "", 1],
     [4, "うつつがたり(instrumental ver.)", "", 0],
 ]
 links = ["https://vgmdb.net/album/12860"]
 
-[1e3564f9b16f22bd0e42fea354d1fd51]
+[a2be5b83b71155d80d870c1da21f16e6]
 catalognumber = "AQSS-0001"
 date = "2005-10-23"
 album = "疾奏幼女曲"
@@ -181,100 +181,100 @@ tracks = [
     [2, "輝く季節に -manualation-", "", 0],
     [3, "約束は幸せのために", "", 0],
     [4, "メタル DE え～りん", "", 0],
-    [5, "Thanks/you -Hitch Hiker-", "", 0],
+    [5, "Thanks/you -Hitch Hiker-", "", 1],
     [6, "ハートのベルはring×3", "", 0],
 ]
 links = ["https://vgmdb.net/album/14065"]
 
-[da65197586b4b90d866f9ed62cf0bc6f]
+[5b83de2c4d57d14bf62f8f3b0cd7a547]
 catalognumber = "WACD-002"
 date = "2005-12-22"
 album = "ドラマCD ひぐらしのなく頃に ～綿流し編～ Disc 1"
 tracks = [
-    [1, "プロローグ", "", 0],
-    [2, "部活メンバー集合", "", 0],
-    [3, "いざ、ゲーム大会", "", 0],
-    [4, "園崎詩音", "", 0],
-    [5, "とまどいの魅音", "", 0],
-    [6, "詩音との再会", "", 0],
-    [7, "デザートフェア", "", 0],
-    [8, "エンジェルモート攻防戦", "", 0],
-    [9, "レナのヒント", "", 0],
-    [10, "魅音と詩音", "", 0],
+    [1, "プロローグ", "", 1],
+    [2, "部活メンバー集合", "", 1],
+    [3, "いざ、ゲーム大会", "", 1],
+    [4, "園崎詩音", "", 1],
+    [5, "とまどいの魅音", "", 1],
+    [6, "詩音との再会", "", 1],
+    [7, "デザートフェア", "", 1],
+    [8, "エンジェルモート攻防戦", "", 1],
+    [9, "レナのヒント", "", 1],
+    [10, "魅音と詩音", "", 1],
 ]
 links = ["https://vgmdb.net/album/99372"]
 
-[3465d179282f2a3e594b64cebe255ff2]
+[c611203b4cbf8b4a7f991a45dfccbd8c]
 catalognumber = "WACD-002"
 date = "2005-12-22"
 album = "ドラマCD ひぐらしのなく頃に ～綿流し編～ Disc 2"
 tracks = [
-    [1, "とまどいの圭一", "", 0],
-    [2, "雛見沢ダム計画", "", 0],
-    [3, "綿流し祭り", "", 0],
-    [4, "祭具殿の侵入者", "", 0],
-    [5, "綿流しの真実", "", 0],
-    [6, "祭りの終わり", "", 0],
-    [7, "圭一の疑念", "", 0],
-    [8, "図書館の会合", "", 0],
-    [9, "詩音の電話", "", 0],
+    [1, "とまどいの圭一", "", 1],
+    [2, "雛見沢ダム計画", "", 1],
+    [3, "綿流し祭り", "", 1],
+    [4, "祭具殿の侵入者", "", 1],
+    [5, "綿流しの真実", "", 1],
+    [6, "祭りの終わり", "", 1],
+    [7, "圭一の疑念", "", 1],
+    [8, "図書館の会合", "", 1],
+    [9, "詩音の電話", "", 1],
 ]
 links = ["https://vgmdb.net/album/99372"]
 
-[8e802c6c7845b234ebaa231c2ed3a44c]
+[7797a79905042493a79bf32e050105a4]
 catalognumber = "WACD-002"
 date = "2005-12-22"
 album = "ドラマCD ひぐらしのなく頃に ～綿流し編～ Disc 3"
 tracks = [
-    [1, "村長失踪", "", 0],
-    [2, "猫さん、犬さん", "", 0],
-    [3, "詩音の警告", "", 0],
-    [4, "レナへの電話", "", 0],
-    [5, "古手神社", "", 0],
-    [6, "梨花失踪", "", 0],
-    [7, "大石の接触", "", 0],
-    [8, "レナの推理", "", 0],
-    [9, "大石の追及", "", 0],
-    [10, "虚構の詩音", "", 0],
+    [1, "村長失踪", "", 1],
+    [2, "猫さん、犬さん", "", 1],
+    [3, "詩音の警告", "", 1],
+    [4, "レナへの電話", "", 1],
+    [5, "古手神社", "", 1],
+    [6, "梨花失踪", "", 1],
+    [7, "大石の接触", "", 1],
+    [8, "レナの推理", "", 1],
+    [9, "大石の追及", "", 1],
+    [10, "虚構の詩音", "", 1],
 ]
 links = ["https://vgmdb.net/album/99372"]
 
-[3e1f2fef80095430c138fc886613026a]
+[4886ac67d7f09759af88326f86d8f7c4]
 catalognumber = "WACD-002"
 date = "2005-12-22"
 album = "ドラマCD ひぐらしのなく頃に ～綿流し編～ Disc 4"
 tracks = [
-    [1, "回覧板", "", 0],
-    [2, "狡猾な大石", "", 0],
-    [3, "園崎魅音", "", 0],
-    [4, "魅音の昔語り", "", 0],
-    [5, "祭儀場", "", 0],
-    [6, "鬼との対決", "", 0],
-    [7, "エピローグ1", "", 0],
-    [8, "月光", "", 0],
-    [9, "エピローグ2", "", 0],
-    [10, "最後の望み", "", 0],
+    [1, "回覧板", "", 1],
+    [2, "狡猾な大石", "", 1],
+    [3, "園崎魅音", "", 1],
+    [4, "魅音の昔語り", "", 1],
+    [5, "祭儀場", "", 1],
+    [6, "鬼との対決", "", 1],
+    [7, "エピローグ1", "", 1],
+    [8, "月光", "", 1],
+    [9, "エピローグ2", "", 1],
+    [10, "最後の望み", "", 1],
 ]
 links = ["https://vgmdb.net/album/99372"]
 
-[16d896d42f88c690e19891ce047120dd]
+[857777d968d7c426d0aef79ce67c5e5c]
 catalognumber = "FCCT-0038"
 date = "2005-12-22"
 album = "アンソロジードラマCD ひぐらしのなく頃に 第1巻 雛見沢村武闘会編"
 tracks = [
-    [1, "オープニング・事件から幕は上がり", "", 0],
-    [2, "押入れの中にありそうな本を探せ！", "", 0],
-    [3, "雛見沢村武闘会", "", 0],
-    [4, "エンディング・ひぐらしの声の中で", "", 0],
+    [1, "オープニング・事件から幕は上がり", "", 1],
+    [2, "押入れの中にありそうな本を探せ！", "", 1],
+    [3, "雛見沢村武闘会", "", 1],
+    [4, "エンディング・ひぐらしの声の中で", "", 1],
 ]
 links = ["https://vgmdb.net/album/19733"]
 
-[efbf38ba59d000c8b763078f38a919a1]
+[5e273e2da08e95256c8613d4b42c1c65]
 catalognumber = "OYASHIRO-0001"
 date = "2005-12-29"
 album = "ひぐらしのなく頃に お持ち帰り～☆ miniCD 2005WINTER"
 tracks = [
-    [1, "圭一の野望なのです。にぱ〜☆", "[dialogue]", 0],
+    [1, "圭一の野望なのです。にぱ〜☆", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/abe0cd7f-4912-42cd-a782-bfe8bdae4444", "https://vgmdb.net/album/102578"]
 
@@ -321,23 +321,23 @@ album = "ひぐらしのなく頃に お持ち帰り～☆ miniCD 2006SUMMER"
 tracks = []
 links = ["https://vgmdb.net/album/102601"]
 
-[dbee55eb7e548989c767c4140e5d40d1]
+[484d372a573163b837f84a2e666db8a3]
 catalognumber = "WFCD-002"
 date = "2006"
 album = "ドラマCD ひぐらしのなく頃に アペンドディスク01"
 tracks = [
-    [1, "レナってどういう名前だよ？", "", 0],
-    [2, "うちって学年混在？", "", 0],
-    [3, "元気ないね", "", 0],
-    [4, "カレーの日 1", "", 0],
-    [5, "カレーの日 2", "", 0],
-    [6, "カレーの日 3", "", 0],
-    [7, "カレーの日 4", "", 0],
-    [8, "自宅にて", "", 0],
-    [9, "ごちそうさま", "", 0],
-    [10, "魅音の電話", "", 0],
-    [11, "雀荘「鈴」", "", 0],
-    [12, "当主のホワイトデー", "", 0],
+    [1, "レナってどういう名前だよ？", "", 1],
+    [2, "うちって学年混在？", "", 1],
+    [3, "元気ないね", "", 1],
+    [4, "カレーの日 1", "", 1],
+    [5, "カレーの日 2", "", 1],
+    [6, "カレーの日 3", "", 1],
+    [7, "カレーの日 4", "", 1],
+    [8, "自宅にて", "", 1],
+    [9, "ごちそうさま", "", 1],
+    [10, "魅音の電話", "", 1],
+    [11, "雀荘「鈴」", "", 1],
+    [12, "当主のホワイトデー", "", 1],
 ]
 links = ["https://vgmdb.net/album/102445"]
 
@@ -361,39 +361,39 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112052"]
 
-[46191aae912fcb87620f86e3320e26b3]
+[0bc9c40fcc993c51c8f23347ac6c306f]
 catalognumber = "N/A"
 date = "2006"
 album = "Higurashi Motion Graphic vol.5「なかない君と嘆きの世界 -requiem for themselves and tragedies-」"
 tracks = [
-    [1, "嘆きの世界", "", 0],
-    [2, "For You", "", 0],
-    [3, "嘆きの世界 (instrumental)", "", 0],
-    [4, "For You (instrumental)", "", 0],
+    [1, "嘆きの世界", "", 1],
+    [2, "For You", "Cosmic Comic & Riff*raff", 1],
+    [3, "嘆きの世界 (instrumental)", "", 1],
+    [4, "For You (instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/30902"]
 
-[7af430e9b12e4087b7339d1edf4e7b0e]
+[1cf06ceb6aead246b7eb6167063da9d5]
 catalognumber = "FCCT-0039"
 date = "2006-03-24"
 album = "アンソロジードラマCD ひぐらしのなく頃に 第2巻"
 tracks = [
-    [1, "白昼の悪夢", "", 0],
-    [2, "オヤシロ探偵・古手梨花", "", 0],
-    [3, "正直者は報われるのです☆", "", 0],
-    [4, "雛見沢村雀鬼列伝", "", 0],
+    [1, "白昼の悪夢", "", 1],
+    [2, "オヤシロ探偵・古手梨花", "", 1],
+    [3, "正直者は報われるのです☆", "", 1],
+    [4, "雛見沢村雀鬼列伝", "", 1],
 ]
 links = ["https://vgmdb.net/album/19734"]
 
-[3bc3e2d8081a870f7c1a3c299ae80210]
+[a49a7b73b8cc31f616bd8f7d0a3ebd1d]
 catalognumber = "FCCM-0135"
 date = "2006-05-24"
 album = "ひぐらしのなく頃に / 島みやえい子"
 tracks = [
-    [1, "ひぐらしのなく頃に", "島みやえい子", 0],
-    [2, "all alone", "島みやえい子", 0],
-    [3, "ひぐらしのなく頃に　Instrumental", "島みやえい子", 0],
-    [4, "all alone　Instrumental", "島みやえい子", 0],
+    [1, "ひぐらしのなく頃に", "島みやえい子", 1],
+    [2, "all alone", "島みやえい子", 1],
+    [3, "ひぐらしのなく頃に　Instrumental", "島みやえい子", 1],
+    [4, "all alone　Instrumental", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4502a8fd-3b23-4cf7-9510-841fbc43c2f8", "https://vgmdb.net/album/5870"]
 
@@ -426,140 +426,140 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6b995962-cbfc-46c5-92d6-d017f3c75020", "https://vgmdb.net/album/7757"]
 
-[35d43891fb7310abe55099310fec9f44]
+[b3632b86c1349847a612721a5d8c725c]
 catalognumber = "FCCM-0136"
 date = "2006-06-28"
 album = "why, or why not / 片霧烈火"
 tracks = [
-    [1, "why, or why not", "大嶋啓之 feat. 片霧烈火", 0],
-    [2, "誰そ彼", "bermei.inazawa feat. 片霧烈火", 0],
-    [3, "why, or why not <Instrumental>", "大嶋啓之 feat. 片霧烈火", 0],
-    [4, "誰そ彼 <Instrumental>", "bermei.inazawa feat. 片霧烈火", 0],
+    [1, "why, or why not", "大嶋啓之 feat. 片霧烈火", 2],
+    [2, "誰そ彼", "bermei.inazawa feat. 片霧烈火", 1],
+    [3, "why, or why not <Instrumental>", "大嶋啓之 feat. 片霧烈火", 1],
+    [4, "誰そ彼 <Instrumental>", "bermei.inazawa feat. 片霧烈火", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3853ad73-3dee-4fc7-9b0b-065fb000756d", "https://vgmdb.net/album/8347"]
 
-[da898dd3ee97e90f97e0061c879bd79f]
+[2d45e94499cfcbf8fe2c46a5cde850b8]
 catalognumber = "WACD-004"
 date = "2006-06-28"
 album = "ドラマCD ひぐらしのなく頃に ～祟殺し編～ Disc 1"
 tracks = [
-    [1, "プロローグ", "[dialogue]", 0],
-    [2, "いつものお昼風景", "[dialogue]", 0],
-    [3, "台所の救世主", "[dialogue]", 0],
-    [4, "和やかな食卓", "[dialogue]", 0],
-    [5, "お弁当対決", "[dialogue]", 0],
-    [6, "二人の夕食", "[dialogue]", 0],
-    [7, "にーにー", "[dialogue]", 0],
-    [8, "バーベキューの日", "[dialogue]", 0],
-    [9, "詩音の豹変", "[dialogue]", 0],
-    [10, "“転校”の理由", "[dialogue]", 0],
+    [1, "プロローグ", "[dialogue]", 1],
+    [2, "いつものお昼風景", "[dialogue]", 1],
+    [3, "台所の救世主", "[dialogue]", 1],
+    [4, "和やかな食卓", "[dialogue]", 1],
+    [5, "お弁当対決", "[dialogue]", 1],
+    [6, "二人の夕食", "[dialogue]", 1],
+    [7, "にーにー", "[dialogue]", 1],
+    [8, "バーベキューの日", "[dialogue]", 1],
+    [9, "詩音の豹変", "[dialogue]", 1],
+    [10, "“転校”の理由", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ac5f20e6-d93e-4baa-8e4f-87ecc686c7b9", "https://vgmdb.net/album/102460"]
 
-[531fdd656ff40d7217efc9de508107c5]
+[187d7fadfca149cadfdf000d50e0de45]
 catalognumber = "WACD-004"
 date = "2006-06-28"
 album = "ドラマCD ひぐらしのなく頃に ～祟殺し編～ Disc 2"
 tracks = [
-    [1, "圭一の不安", "[dialogue]", 0],
-    [2, "大石の来訪", "[dialogue]", 0],
-    [3, "オヤシロさまの使い", "[dialogue]", 0],
-    [4, "沙都子、登校", "[dialogue]", 0],
-    [5, "虐待の対応", "[dialogue]", 0],
-    [6, "北条家", "[dialogue]", 0],
-    [7, "沈黙の理由", "[dialogue]", 0],
-    [8, "オヤシロさまの祟り", "[dialogue]", 0],
-    [9, "児童相談所への保護要請", "[dialogue]", 0],
-    [10, "圭一の祈り", "[dialogue]", 0],
+    [1, "圭一の不安", "[dialogue]", 1],
+    [2, "大石の来訪", "[dialogue]", 1],
+    [3, "オヤシロさまの使い", "[dialogue]", 1],
+    [4, "沙都子、登校", "[dialogue]", 1],
+    [5, "虐待の対応", "[dialogue]", 1],
+    [6, "北条家", "[dialogue]", 1],
+    [7, "沈黙の理由", "[dialogue]", 1],
+    [8, "オヤシロさまの祟り", "[dialogue]", 1],
+    [9, "児童相談所への保護要請", "[dialogue]", 1],
+    [10, "圭一の祈り", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ac5f20e6-d93e-4baa-8e4f-87ecc686c7b9", "https://vgmdb.net/album/102460"]
 
-[2356c4516b929f5a956bdf929cff0159]
+[186e00e6b4245217f8e86b625f410654]
 catalognumber = "WACD-004"
 date = "2006-06-28"
 album = "ドラマCD ひぐらしのなく頃に ～祟殺し編～ Disc 3"
 tracks = [
-    [1, "児童相談所の結論", "[dialogue]", 0],
-    [2, "1500秒の決断", "[dialogue]", 0],
-    [3, "殺人方法検証", "[dialogue]", 0],
-    [4, "魅音への電話", "[dialogue]", 0],
-    [5, "殺人準備", "[dialogue]", 0],
-    [6, "殺人", "[dialogue]", 0],
-    [7, "死体処理", "[dialogue]", 0],
-    [8, "鷹野との邂逅", "[dialogue]", 0],
-    [9, "二人の圭一", "[dialogue]", 0],
-    [10, "混迷の雛見沢", "[dialogue]", 0],
+    [1, "児童相談所の結論", "[dialogue]", 1],
+    [2, "1500秒の決断", "[dialogue]", 1],
+    [3, "殺人方法検証", "[dialogue]", 1],
+    [4, "魅音への電話", "[dialogue]", 1],
+    [5, "殺人準備", "[dialogue]", 1],
+    [6, "殺人", "[dialogue]", 1],
+    [7, "死体処理", "[dialogue]", 1],
+    [8, "鷹野との邂逅", "[dialogue]", 1],
+    [9, "二人の圭一", "[dialogue]", 1],
+    [10, "混迷の雛見沢", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ac5f20e6-d93e-4baa-8e4f-87ecc686c7b9", "https://vgmdb.net/album/102460"]
 
-[3456c15a8e03bbd687b01acd14c72c37]
+[b5667d4853d66e4e254691bf4b6034b5]
 catalognumber = "WACD-004"
 date = "2006-06-28"
 album = "ドラマCD ひぐらしのなく頃に ～祟殺し編～ Disc 4"
 tracks = [
-    [1, "入江診療所", "[dialogue]", 0],
-    [2, "殺人の証拠", "[dialogue]", 0],
-    [3, "再び北条家へ", "[dialogue]", 0],
-    [4, "祟殺し", "[dialogue]", 0],
-    [5, "最後の呪詛", "[dialogue]", 0],
-    [6, "雛見沢大災害", "[dialogue]", 0],
-    [7, "エピローグ1", "[dialogue]", 0],
-    [8, "エピローグ2", "[dialogue]", 0],
+    [1, "入江診療所", "[dialogue]", 1],
+    [2, "殺人の証拠", "[dialogue]", 1],
+    [3, "再び北条家へ", "[dialogue]", 1],
+    [4, "祟殺し", "[dialogue]", 1],
+    [5, "最後の呪詛", "[dialogue]", 1],
+    [6, "雛見沢大災害", "[dialogue]", 1],
+    [7, "エピローグ1", "[dialogue]", 1],
+    [8, "エピローグ2", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ac5f20e6-d93e-4baa-8e4f-87ecc686c7b9", "https://vgmdb.net/album/102460"]
 
-[5e44c12271c0d08e81df2f39df8f85a6]
+[87fcd7423e7e5d5f9a11f540beb41c22]
 catalognumber = "FCCM-0137"
 date = "2006-07-21"
 album = "TVアニメーション「ひぐらしのなく頃に」オリジナルサウンドトラック"
 tracks = [
-    [1, "メイン・テーマ", "川井憲次", 0],
-    [2, "静かな朝", "川井憲次", 0],
-    [3, "散策", "川井憲次", 0],
-    [4, "疑惑", "川井憲次", 0],
-    [5, "祟り", "川井憲次", 0],
-    [6, "笑顔", "川井憲次", 0],
-    [7, "ハリキって行こう！", "川井憲次", 0],
-    [8, "決めるぜ！", "川井憲次", 0],
-    [9, "オヤシロさま", "川井憲次", 0],
-    [10, "やすらぎ", "川井憲次", 0],
-    [11, "浸行", "川井憲次", 0],
-    [12, "暗示", "川井憲次", 0],
-    [13, "元気印！", "川井憲次", 0],
-    [14, "少女", "川井憲次", 0],
-    [15, "ウラガワ", "川井憲次", 0],
-    [16, "危機", "川井憲次", 0],
-    [17, "企み", "川井憲次", 0],
-    [18, "放課後", "川井憲次", 0],
-    [19, "祭り", "川井憲次", 0],
-    [20, "ものがたり", "川井憲次", 0],
-    [21, "事件", "川井憲次", 0],
-    [22, "鬼ヶ淵", "川井憲次", 0],
-    [23, "想い抱いて", "川井憲次", 0],
-    [24, "授業中！", "川井憲次", 0],
-    [25, "淑やかに", "川井憲次", 0],
-    [26, "勝負！", "川井憲次", 0],
-    [27, "ワルだくみ", "川井憲次", 0],
-    [28, "夕涼み", "川井憲次", 0],
-    [29, "憑依", "川井憲次", 0],
-    [30, "暗転", "川井憲次", 0],
-    [31, "恐怖", "川井憲次", 0],
-    [32, "緊張", "川井憲次", 0],
-    [33, "切なくて", "川井憲次", 0],
-    [34, "メイン・テーマ ～revise～", "川井憲次", 0],
-    [35, "ひぐらしのなく頃に ～TV Version～", "島みやえい子", 0],
-    [36, "why, or why not ～TV Version～", "片霧烈火", 0],
+    [1, "メイン・テーマ", "川井憲次", 1],
+    [2, "静かな朝", "川井憲次", 1],
+    [3, "散策", "川井憲次", 1],
+    [4, "疑惑", "川井憲次", 1],
+    [5, "祟り", "川井憲次", 1],
+    [6, "笑顔", "川井憲次", 1],
+    [7, "ハリキって行こう！", "川井憲次", 1],
+    [8, "決めるぜ！", "川井憲次", 1],
+    [9, "オヤシロさま", "川井憲次", 1],
+    [10, "やすらぎ", "川井憲次", 1],
+    [11, "浸行", "川井憲次", 1],
+    [12, "暗示", "川井憲次", 1],
+    [13, "元気印！", "川井憲次", 1],
+    [14, "少女", "川井憲次", 1],
+    [15, "ウラガワ", "川井憲次", 1],
+    [16, "危機", "川井憲次", 1],
+    [17, "企み", "川井憲次", 1],
+    [18, "放課後", "川井憲次", 1],
+    [19, "祭り", "川井憲次", 1],
+    [20, "ものがたり", "川井憲次", 1],
+    [21, "事件", "川井憲次", 1],
+    [22, "鬼ヶ淵", "川井憲次", 1],
+    [23, "想い抱いて", "川井憲次", 1],
+    [24, "授業中！", "川井憲次", 1],
+    [25, "淑やかに", "川井憲次", 1],
+    [26, "勝負！", "川井憲次", 1],
+    [27, "ワルだくみ", "川井憲次", 1],
+    [28, "夕涼み", "川井憲次", 1],
+    [29, "憑依", "川井憲次", 1],
+    [30, "暗転", "川井憲次", 1],
+    [31, "恐怖", "川井憲次", 1],
+    [32, "緊張", "川井憲次", 1],
+    [33, "切なくて", "川井憲次", 1],
+    [34, "メイン・テーマ ～revise～", "川井憲次", 1],
+    [35, "ひぐらしのなく頃に ～TV Version～", "島みやえい子", 1],
+    [36, "why, or why not ～TV Version～", "片霧烈火", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e717199e-64c4-4104-957a-070ec39d09f6", "https://vgmdb.net/album/5868"]
 
-[809c451a691bde3b1f1d9388585d4011]
+[695c8f476dc7910cdf9be50105d77048]
 catalognumber = "KNIL-0001"
 date = "2006-08"
 album = "ひぐらしのなく頃に かけらむすび～ハジマリ～ Arrangement, Vocal"
 tracks = [
-    [1, "かけらむすび サンプラーノンストップメドレーエディション", "[unknown]", 0],
-    [2, "when they cry ショートバージョン", "片霧烈火", 0],
-    [3, "[untitled]", "田村ゆかり", 0],
+    [1, "かけらむすび サンプラーノンストップメドレーエディション", "[unknown]", 1],
+    [2, "when they cry ショートバージョン", "片霧烈火", 1],
+    [3, "[untitled]", "田村ゆかり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94df4c76-63ab-4bde-a58c-ad9babdf2ab2", "https://vgmdb.net/album/102437"]
 
@@ -572,29 +572,29 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102437"]
 
-[c01a8f6c6c3c5b6e6bd96687408f9578]
+[533797d2b0e3671685c171b454451126]
 catalognumber = "FCBP-0037EX"
 date = "2006-08-04"
 album = "ひぐらしのなく頃に Bonus Disc 雛見沢探訪 Mini Soundtrack"
 tracks = [
-    [1, "メイン・テーマ", "", 0],
-    [2, "理由", "", 0],
-    [3, "ワルだくみ", "", 0],
+    [1, "メイン・テーマ", "", 1],
+    [2, "理由", "", 1],
+    [3, "ワルだくみ", "", 1],
     [4, "事件～Another.Ver.～", "", 0],
-    [5, "祭り", "", 0],
-    [6, "メイン・テーマ～Piano Ver.～", "", 0],
+    [5, "祭り", "", 1],
+    [6, "メイン・テーマ～Piano Ver.～", "", 1],
 ]
 links = ["https://vgmdb.net/album/101789"]
 
-[553d7baecb42ad321b128443ed8861c4]
+[31104a38c871165064c24ec2a96e4475]
 catalognumber = "HMG-004"
 date = "2006-08-11"
 album = "Higurashi Motion Graphic vol.4「なかない君と嘆きの世界 -輪廻の刻は暮れゆけど-」"
 tracks = [
-    [1, "リンネの夢と…", "", 0],
-    [2, "みちしるべ", "", 0],
-    [3, "リンネの夢と… (instrumental)", "", 0],
-    [4, "みちしるべ (instrumental)", "", 0],
+    [1, "リンネの夢と…", "", 1],
+    [2, "みちしるべ", "", 1],
+    [3, "リンネの夢と… (instrumental)", "", 1],
+    [4, "みちしるべ (instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/2339"]
 
@@ -633,7 +633,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107379"]
 
-[6a71bf1ef596063bee3e2ef69403469e]
+[406ff60a73da5327bf8ec3b0ce3a2aed]
 catalognumber = "GP-01"
 date = "2006-08-13"
 album = "Various festa"
@@ -643,108 +643,108 @@ tracks = [
     [3, "TheMoonPrncess", "", 0],
     [4, "DancingExcalibur", "", 0],
     [5, "夏影～The 2006th summer～", "", 0],
-    [6, "For You", "", 0],
+    [6, "For You", "", 1],
     [7, "Encourage", "", 0],
 ]
 links = ["https://vgmdb.net/album/12559"]
 
-[01a3c91e0b977e82b7da2ecbc414ccad]
+[b1b24879eaadb5499ce4a1a9e25ca0c4]
 catalognumber = "DY-001"
 date = "2006-08-13"
 album = "Dear you 「ひぐらしのなく頃に」イメージボーカルアルバム"
 tracks = [
-    [1, "Dear you -Cry-", "癒月", 0],
-    [2, "Dear you -Feel-", "古都葉稔", 0],
-    [3, "Dear you -Kind-", "雪宮雛希", 0],
-    [4, "Dear you -Hope-", "蛍灯翔", 0],
-    [5, "想い -You were in the wind of summer-", "柚木薫", 0],
+    [1, "Dear you -Cry-", "癒月", 1],
+    [2, "Dear you -Feel-", "古都葉稔", 1],
+    [3, "Dear you -Kind-", "雪宮雛希", 1],
+    [4, "Dear you -Hope-", "蛍灯翔", 1],
+    [5, "想い -You were in the wind of summer-", "柚木薫", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9d922da4-1494-4ce2-81a7-4576ed75243f", "https://vgmdb.net/album/6821"]
 
-[fe48e8f2ae0336c453bb6fa61caacc0c]
+[54d11b28c719a3062dbb04e089ea7ab4]
 catalognumber = "LACA-9063~4"
 date = "2006-08-23"
 album = "ひぐらしのなく頃に 解 オリジナルサウンドトラック Original Soundtrack"
 tracks = [
-    [1, "air pizz", "dai", 0],
-    [2, "Testament", "dai", 0],
-    [3, "祭", "dai", 0],
-    [4, "feel", "dai", 0],
-    [5, "you (M.Box)", "dai", 0],
-    [6, "空夢", "dai", 0],
-    [7, "Soul scour", "dai", 0],
-    [8, "陰(かげ)", "dai", 0],
-    [9, "Fearlessness", "dai", 0],
-    [10, "you -destructive", "dai", 0],
-    [11, "C-examination", "dai", 0],
-    [12, "search and destroy", "dai", 0],
-    [13, "虚", "dai", 0],
-    [14, "宴", "dai", 0],
-    [15, "being", "dai", 0],
-    [16, "Birth and death", "dai", 0],
-    [17, "confession", "dai", 0],
-    [18, "conviction", "dai", 0],
-    [19, "Iru", "dai", 0],
-    [20, "一重", "dai", 0],
-    [21, "Cradle song", "dai", 0],
-    [22, "Gray", "dai", 0],
-    [23, "years", "dai", 0],
-    [24, "LIVE", "dai", 0],
-    [25, "Thanks", "dai", 0],
-    [26, "ふたり。ひとり。", "dai", 0],
-    [27, "そらのむこう (piano)", "dai", 0],
-    [28, "you", "dai", 0],
+    [1, "air pizz", "dai", 1],
+    [2, "Testament", "dai", 1],
+    [3, "祭", "dai", 1],
+    [4, "feel", "dai", 1],
+    [5, "you (M.Box)", "dai", 1],
+    [6, "空夢", "dai", 1],
+    [7, "Soul scour", "dai", 1],
+    [8, "陰(かげ)", "dai", 1],
+    [9, "Fearlessness", "dai", 1],
+    [10, "you -destructive", "dai", 1],
+    [11, "C-examination", "dai", 1],
+    [12, "search and destroy", "dai", 1],
+    [13, "虚", "dai", 1],
+    [14, "宴", "dai", 1],
+    [15, "being", "dai", 1],
+    [16, "Birth and death", "dai", 1],
+    [17, "confession", "dai", 1],
+    [18, "conviction", "dai", 1],
+    [19, "Iru", "dai", 1],
+    [20, "一重", "dai", 1],
+    [21, "Cradle song", "dai", 1],
+    [22, "Gray", "dai", 1],
+    [23, "years", "dai", 1],
+    [24, "LIVE", "dai", 1],
+    [25, "Thanks", "dai", 1],
+    [26, "ふたり。ひとり。", "dai", 1],
+    [27, "そらのむこう (piano)", "dai", 1],
+    [28, "you", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e765a5d3-d16c-44f2-8a2a-50b7f0a4462a", "https://vgmdb.net/album/5613"]
 
-[847036574293f865aa4747adffc4bffa]
+[94ba83d7dc2c302b99e952b8251b0b9d]
 catalognumber = "LACA-9063~4"
 date = "2006-08-23"
 album = "ひぐらしのなく頃に 解 オリジナルサウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "祝祭", "カレギュウ", 0],
-    [2, "utu", "海老スパ", 0],
-    [3, "Frozen memories", "すえばし", 0],
-    [4, "Solitude", "すえばし", 0],
-    [5, "door", "pre-holder", 0],
-    [6, "Liberating", "pre-holder", 0],
-    [7, "Over the sky", "pre-holder", 0],
-    [8, "Rain", "pre-holder", 0],
-    [9, "Squall", "pre-holder", 0],
-    [10, "鼓動", "pre-holder", 0],
-    [11, "胎動", "pre-holder", 0],
-    [12, "daily passing by", "zts", 0],
-    [13, "daily passing by (celesta)", "zts", 0],
-    [14, "soak", "zts", 0],
-    [15, "what is wished", "zts", 0],
-    [16, "Amber", "朱月笛丸", 0],
-    [17, "Bellflower", "朱月笛丸", 0],
-    [18, "Big Bear", "朱月笛丸", 0],
-    [19, "狂気への回廊", "DJ NETA-RAW", 0],
-    [20, "見えぬ未来", "DJ NETA-RAW", 0],
-    [21, "pros", "propan_mode", 0],
-    [22, "Sheep counts", "propan_mode", 0],
-    [23, "風車小屋の少年", "SB YUNE", 0],
-    [24, "古", "SB YUNE", 0],
-    [25, "伝えたいこと", "七瀬光", 0],
-    [26, "そらのむこう", "結月そら", 0],
+    [1, "祝祭", "カレギュウ", 1],
+    [2, "utu", "海老スパ", 1],
+    [3, "Frozen memories", "すえばし", 1],
+    [4, "Solitude", "すえばし", 1],
+    [5, "door", "pre-holder", 1],
+    [6, "Liberating", "pre-holder", 1],
+    [7, "Over the sky", "pre-holder", 1],
+    [8, "Rain", "pre-holder", 1],
+    [9, "Squall", "pre-holder", 1],
+    [10, "鼓動", "pre-holder", 1],
+    [11, "胎動", "pre-holder", 1],
+    [12, "daily passing by", "zts", 1],
+    [13, "daily passing by (celesta)", "zts", 1],
+    [14, "soak", "zts", 1],
+    [15, "what is wished", "zts", 1],
+    [16, "Amber", "朱月笛丸", 1],
+    [17, "Bellflower", "朱月笛丸", 1],
+    [18, "Big Bear", "朱月笛丸", 1],
+    [19, "狂気への回廊", "DJ NETA-RAW", 1],
+    [20, "見えぬ未来", "DJ NETA-RAW", 1],
+    [21, "pros", "propan_mode", 1],
+    [22, "Sheep counts", "propan_mode", 1],
+    [23, "風車小屋の少年", "SB YUNE", 1],
+    [24, "古", "SB YUNE", 1],
+    [25, "伝えたいこと", "七瀬光", 1],
+    [26, "そらのむこう", "結月そら", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/e765a5d3-d16c-44f2-8a2a-50b7f0a4462a", "https://vgmdb.net/album/5613"]
 
-[a099aa9f516793ad1bc0120d166f1742]
+[5c22d08e8b3e24633182ad0586d750b7]
 catalognumber = "FCCM-0156"
 date = "2006-09-27"
 album = "ひぐらしのなく頃に イメージアルバム かけらむすび"
 tracks = [
-    [1, "緑の色のやさしい風", "天門", 0],
-    [2, "my home", "霜月はるか", 0],
-    [3, "M･A･T･S･U･R･I - Meet Your Match！", "風葉", 0],
-    [4, "when they cry", "片霧烈火", 0],
-    [5, "蝕み", "zts", 0],
-    [6, "hymn", "onoken", 0],
-    [7, "samsara", "茶太", 0],
-    [8, "you - Visionen im Spiegel", "癒月", 0],
-    [9, "月の夜のつめたい風", "天門", 0],
+    [1, "緑の色のやさしい風", "天門", 1],
+    [2, "my home", "霜月はるか", 1],
+    [3, "M･A･T･S･U･R･I - Meet Your Match！", "風葉", 1],
+    [4, "when they cry", "片霧烈火", 2],
+    [5, "蝕み", "zts", 1],
+    [6, "hymn", "onoken", 1],
+    [7, "samsara", "茶太", 1],
+    [8, "you - Visionen im Spiegel", "癒月", 1],
+    [9, "月の夜のつめたい風", "天門", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c2099658-6b7a-41f1-a09e-1e5931ebec29", "https://vgmdb.net/album/5866"]
 
@@ -802,7 +802,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102476"]
 
-[04da6bc90f47eeb0645b53cadfe23fcf]
+[2d2608e4b001c12872e6419726175ca6]
 catalognumber = "GNCA-1106"
 date = "2006-10-04"
 album = "オー / 島みやえい子"
@@ -817,50 +817,50 @@ tracks = [
     [8, "宇宙のまほろば", "島みやえい子", 0],
     [9, "銀河の子", "島宮えい子", 0],
     [10, "Recovery", "島みやえい子", 0],
-    [11, "ひぐらしのなく頃に", "島みやえい子", 0],
+    [11, "ひぐらしのなく頃に", "島みやえい子", 1],
     [12, "どこにも無い道", "島みやえい子", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/aa071445-1f89-33fd-8742-962670b456fe", "https://vgmdb.net/album/58481"]
 
-[17b84aebe9a59fa0d62a9ee38f408c56]
+[48acb6436f741f27d02c4c60e2a4c32d]
 catalognumber = "FCCM-0159"
 date = "2006-10-06"
 album = "TVアニメーション「ひぐらしのなく頃に」オリジナルサウンドトラックVol.2"
 tracks = [
-    [1, "兆し", "川井憲次", 0],
-    [2, "憑依〜gamelan ver.〜", "川井憲次", 0],
-    [3, "メイン・テーマ-罪", "川井憲次", 0],
-    [4, "奇怪", "川井憲次", 0],
-    [5, "あたりまえの時間", "川井憲次", 0],
-    [6, "怖震", "川井憲次", 0],
-    [7, "ゆったり〜。", "川井憲次", 0],
-    [8, "変化", "川井憲次", 0],
-    [9, "調査", "川井憲次", 0],
-    [10, "迫る", "川井憲次", 0],
-    [11, "メイン・テーマ-哀", "川井憲次", 0],
-    [12, "宿命", "川井憲次", 0],
-    [13, "揺動", "川井憲次", 0],
-    [14, "平穏無事", "川井憲次", 0],
-    [15, "気配", "川井憲次", 0],
-    [16, "オヤシロさま〜another ver.〜", "川井憲次", 0],
-    [17, "メイン・テーマ-罪〜another ver.〜", "川井憲次", 0],
-    [18, "ミチシルベ", "川井憲次", 0],
-    [19, "推理", "川井憲次", 0],
-    [20, "やわらかな陽光", "川井憲次", 0],
-    [21, "真実", "川井憲次", 0],
-    [22, "狂気", "川井憲次", 0],
-    [23, "理由", "川井憲次", 0],
-    [24, "意図", "川井憲次", 0],
-    [25, "メイン・テーマ-結", "川井憲次", 0],
+    [1, "兆し", "川井憲次", 1],
+    [2, "憑依〜gamelan ver.〜", "川井憲次", 1],
+    [3, "メイン・テーマ-罪", "川井憲次", 1],
+    [4, "奇怪", "川井憲次", 1],
+    [5, "あたりまえの時間", "川井憲次", 1],
+    [6, "怖震", "川井憲次", 1],
+    [7, "ゆったり〜。", "川井憲次", 1],
+    [8, "変化", "川井憲次", 1],
+    [9, "調査", "川井憲次", 1],
+    [10, "迫る", "川井憲次", 1],
+    [11, "メイン・テーマ-哀", "川井憲次", 1],
+    [12, "宿命", "川井憲次", 1],
+    [13, "揺動", "川井憲次", 1],
+    [14, "平穏無事", "川井憲次", 1],
+    [15, "気配", "川井憲次", 1],
+    [16, "オヤシロさま〜another ver.〜", "川井憲次", 1],
+    [17, "メイン・テーマ-罪〜another ver.〜", "川井憲次", 1],
+    [18, "ミチシルベ", "川井憲次", 1],
+    [19, "推理", "川井憲次", 1],
+    [20, "やわらかな陽光", "川井憲次", 1],
+    [21, "真実", "川井憲次", 1],
+    [22, "狂気", "川井憲次", 1],
+    [23, "理由", "川井憲次", 1],
+    [24, "意図", "川井憲次", 1],
+    [25, "メイン・テーマ-結", "川井憲次", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d27d00a7-22d5-41e2-8916-2143d6ef88e7", "https://vgmdb.net/album/5864"]
 
-[7649376e5c369004a4bf98cb7b86a1c1]
+[1d74d020965212fc8e6d2f8247a250f8]
 catalognumber = "AECD-004"
 date = "2006-10-09"
 album = "SUGURASHI"
 tracks = [
-    [1, "Intro", "源屋", 0],
+    [1, "Intro", "源屋", 1],
     [2, "Green Airplane", "REDALiCE", 0],
     [3, "Get Last", "源屋", 0],
     [4, "Intense Blaze", "Redalice", 0],
@@ -870,46 +870,46 @@ tracks = [
     [8, "Airfort (JP Hardcore mix)", "源屋", 0],
     [9, "Head Examine", "Redalice", 0],
     [10, "Funky Light", "Redalice", 0],
-    [11, "You (Hardcore remix)", "Redalice", 0],
+    [11, "You (Hardcore remix)", "Redalice", 1],
     [12, "Green Airplane", "Redalice", 0],
     [13, "Airfort (JP Hardcore mix)", "源屋", 0],
     [14, "S O R A", "Redalice", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ee2ce4c8-3b2c-4b7e-9333-a490b25dcc6f", "https://vgmdb.net/album/8897"]
 
-[69ca3519a1e903968ab315d6c8d838e3]
+[9ff401fabffe5a29fbb11fcfeb37d802]
 catalognumber = "FCBP-0040EX"
 date = "2006-11-10"
 album = "ひぐらしのなく頃に Bonus Disc 雛見沢探訪 Mini Soundtrack2"
 tracks = [
     [1, "やすらぎ～Another.Ver.～", "", 0],
-    [2, "メイン・テーマ～No-Rhythm Ver.～", "", 0],
-    [3, "憑依～Gamelan Ver.～", "", 0],
-    [4, "真実", "", 0],
-    [5, "メイン・テーマ-結", "", 0],
+    [2, "メイン・テーマ～No-Rhythm Ver.～", "", 1],
+    [3, "憑依～Gamelan Ver.～", "", 1],
+    [4, "真実", "", 1],
+    [5, "メイン・テーマ-結", "", 1],
 ]
 links = ["https://vgmdb.net/album/101790"]
 
-[0a19b8a249b1aa22c3fbaf4867d1db85]
+[c5a3b67ba1f6b87550d65976f44c751e]
 catalognumber = "HMG-006"
 date = "2006-12-06"
 album = "Higurashi Motion Graphic vol.6「全集　なかない君と嘆きの世界」"
 tracks = [
-    [1, "intro", "表本裕二", 0],
-    [2, "bewailing", "新良エツ子", 0],
-    [3, "しあわせの場所", "ico", 0],
-    [4, "月ハ昇ル、私ハ詠ウ", "新良エツ子", 0],
-    [5, "ふわり", "ico", 0],
-    [6, "狂宴-dance when cried-", "新良エツ子", 0],
-    [7, "うつつがたり", "ico", 0],
-    [8, "かれらの狂気よ生き延びる道を教えよ", "新良エツ子", 0],
-    [9, "リンネの夢と…", "新良エツ子", 0],
-    [10, "みちしるべ", "ico", 0],
-    [11, "嘆きの世界", "新良エツ子", 0],
-    [12, "FOR YOU", "ico", 0],
-    [13, "泣かないキミ", "新良エツ子", 0],
-    [14, "RE:bewailing", "表本裕二", 0],
-    [15, "outro", "表本裕二", 0],
+    [1, "intro", "表本裕二", 1],
+    [2, "bewailing", "新良エツ子", 1],
+    [3, "しあわせの場所", "ico", 1],
+    [4, "月ハ昇ル、私ハ詠ウ", "新良エツ子", 1],
+    [5, "ふわり", "ico", 1],
+    [6, "狂宴-dance when cried-", "新良エツ子", 1],
+    [7, "うつつがたり", "ico", 1],
+    [8, "かれらの狂気よ生き延びる道を教えよ", "新良エツ子", 1],
+    [9, "リンネの夢と…", "新良エツ子", 1],
+    [10, "みちしるべ", "ico", 1],
+    [11, "嘆きの世界", "新良エツ子", 1],
+    [12, "FOR YOU", "ico", 1],
+    [13, "泣かないキミ", "新良エツ子", 1],
+    [14, "RE:bewailing", "表本裕二", 1],
+    [15, "outro", "表本裕二", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1e21e1f0-bd00-42a7-b5a1-b7bcbec04496", "https://vgmdb.net/album/30903"]
 
@@ -920,12 +920,12 @@ album = "ひぐらしのなく頃に お持ち帰り～☆ miniCD 2006WINTER"
 tracks = []
 links = ["https://vgmdb.net/album/102603"]
 
-[fcba72f3152dec265fe062ed23ebc36f]
+[ab8db8918fb0cfb0410b5012cdb2bec2]
 catalognumber = "WACD-104"
 date = "2006-12-27"
 album = "ドラマCD ひぐらしのなく頃に ～暇潰し編～ Disc 1"
 tracks = [
-    [1, "プロローグ", "", 0],
+    [1, "プロローグ", "", 1],
     [2, "雪絵との逢瀬", "", 0],
     [3, "警視庁公安部", "", 0],
     [4, "鬼ヶ淵死守同盟の蛮行", "", 0],
@@ -934,7 +934,7 @@ tracks = [
     [7, "雛見沢村へ", "", 0],
     [8, "古手梨花", "", 0],
     [9, "雛見沢大自然ウォッチング", "", 0],
-    [10, "古手神社", "", 0],
+    [10, "古手神社", "", 1],
     [11, "梨花豹変", "", 0],
 ]
 links = ["https://vgmdb.net/album/6820"]
@@ -956,7 +956,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/6820"]
 
-[eedddbcfabd065d6440329ce6b4500f5]
+[7c9e0428746f968e9a309bb3abe0fc54]
 catalognumber = "WACD-104"
 date = "2006-12-27"
 album = "ドラマCD ひぐらしのなく頃に ～暇潰し編～ Disc 3"
@@ -967,30 +967,30 @@ tracks = [
     [4, "月下の少女", "", 0],
     [5, "大石との再会", "", 0],
     [6, "少女の言葉", "", 0],
-    [7, "オヤシロさまの崇り", "", 0],
+    [7, "オヤシロさまの崇り", "", 1],
     [8, "そして彼らは立ち上がる", "", 0],
-    [9, "エピローグ", "", 0],
+    [9, "エピローグ", "", 1],
 ]
 links = ["https://vgmdb.net/album/6820"]
 
-[92869487ebecfcf1e9c41e68ab468c35]
+[ea3caadf346a10e48b80195c71023162]
 catalognumber = "YMS-001"
 date = "2006-12-29"
 album = "ひぐらしのなく頃に コミケCD 2006冬 ～鬼のいぬ間に～"
 tracks = [
-    [1, "笑顔・はっぴぃ・ピース♪short ver.", "竜宮レナ (CV:中原麻衣)", 0],
-    [2, "雛見沢湯けむり秘話", "大山曜", 0],
-    [3, "勇者ケイイチの冒険", "大山曜", 0],
-    [4, "雛見沢ロード・レース(前編)", "大山曜", 0],
-    [5, "雛見沢ロード・レース(後編)", "大山曜", 0],
-    [6, "圭一、告白の代償", "大山曜", 0],
-    [7, "怪盗れなぱんマン現る(前編)", "大山曜", 0],
-    [8, "怪盗れなぱんマン現る(後編)", "大山曜", 0],
-    [9, "神聖メイド帝国、再臨", "大山曜", 0],
+    [1, "笑顔・はっぴぃ・ピース♪short ver.", "竜宮レナ (CV:中原麻衣)", 1],
+    [2, "雛見沢湯けむり秘話", "大山曜", 1],
+    [3, "勇者ケイイチの冒険", "大山曜", 1],
+    [4, "雛見沢ロード・レース(前編)", "大山曜", 1],
+    [5, "雛見沢ロード・レース(後編)", "大山曜", 1],
+    [6, "圭一、告白の代償", "大山曜", 1],
+    [7, "怪盗れなぱんマン現る(前編)", "大山曜", 1],
+    [8, "怪盗れなぱんマン現る(後編)", "大山曜", 1],
+    [9, "神聖メイド帝国、再臨", "大山曜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a3e5d031-e5c2-4f74-b8fa-0ec999e0a510", "https://vgmdb.net/album/30758"]
 
-[3d638d317887507c54646a13ea89ad79]
+[9cb35c99eeb2b88ed0ffae518895caa1]
 catalognumber = "KLNG-0008"
 date = "2006-12-29"
 album = "Callisto"
@@ -999,7 +999,7 @@ tracks = [
     [2, "Rosario", "", 0],
     [3, "Coup d'etat", "", 0],
     [4, "True 801", "", 0],
-    [5, "You -Extended mix-", "", 0],
+    [5, "You -Extended mix-", "", 1],
     [6, "恋はみずいろ", "", 0],
     [7, "オリーブの首飾り", "", 0],
     [8, "Ruined cave on the snow", "", 0],
@@ -1008,7 +1008,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/155683"]
 
-[20df5cea6cf061dda351dc5c3b9f09fd]
+[1bfb1d9eaaf8491ec7b7af70f67307a6]
 catalognumber = "MTCD-002"
 date = "2006-12-31"
 album = "MINAMOTRANCE CORE!!"
@@ -1021,35 +1021,35 @@ tracks = [
     [6, "Twilight Moon", "源屋", 0],
     [7, "Miss You", "源屋", 0],
     [8, "Liberate (Hardcore Extended)", "源屋", 0],
-    [9, "You", "源屋", 0],
+    [9, "You", "源屋", 1],
     [10, "Dancing Night (MYXD Hyper Teramix)", "MYXD", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/89dda66d-dd40-42d1-886d-aa2f3b2e4e97", "https://vgmdb.net/album/5146"]
 
-[da263e31caebc75be72643c7462a2e9d]
+[56f7f7e5b9478f48322d709dde01c12a]
 catalognumber = "MBCD-0010"
 date = "2006-12-31"
 album = "ひぐらしぐらし"
 tracks = [
-    [1, "resolution", "fang", 0],
-    [2, "Solitude -Rigyo mix-", "りぎょ", 0],
-    [3, "Love & Peace", "Sakino", 0],
-    [4, "K.O.H (こちら鹿骨市興宮町派出所)", "羽鳥風画", 0],
-    [5, "you -Reduce-", "koro", 0],
-    [6, "Count Down! -途惑いと真実-", "koro", 0],
-    [7, "バスなのです。", "りぎょ", 0],
-    [8, "陽炎", "羽鳥風画", 0],
-    [9, "その先にあるもの", "koro", 0],
-    [10, "Solitude -YDK mix-", "YDK", 0],
+    [1, "resolution", "fang", 1],
+    [2, "Solitude -Rigyo mix-", "りぎょ", 1],
+    [3, "Love & Peace", "Sakino", 1],
+    [4, "K.O.H (こちら鹿骨市興宮町派出所)", "羽鳥風画", 1],
+    [5, "you -Reduce-", "koro", 1],
+    [6, "Count Down! -途惑いと真実-", "koro", 1],
+    [7, "バスなのです。", "りぎょ", 1],
+    [8, "陽炎", "羽鳥風画", 1],
+    [9, "その先にあるもの", "koro", 1],
+    [10, "Solitude -YDK mix-", "YDK", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c062eb47-c9f3-4c54-8665-5afb8b62149c", "https://vgmdb.net/album/9928"]
 
-[14df0929e13003608bccdc77635d8954]
+[ce4813e8611c4bc44e5642777031872a]
 catalognumber = "MSTCD001"
 date = "2006-12-31"
 album = "CORE-O-RAMA"
 tracks = [
-    [1, "You (Hardcore remix)", "REDALiCE", 0],
+    [1, "You (Hardcore remix)", "REDALiCE", 1],
     [2, "Minx of Terror", "m1dy", 0],
     [3, "Awesome Powers (Re-edit)", "The Thong Mover", 0],
     [4, "大塚の人妻 (C-Type mix)", "C-TYPE Feat. Taske", 0],
@@ -1064,18 +1064,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/72a99aa8-611f-4a7a-b231-c3f923d4ddb9", "https://vgmdb.net/album/10576"]
 
-[00256c9e06949f94bfdbfe7f221707d2]
+[20672047475c063ed20eee5a5b14e08c]
 catalognumber = "RMCD-0001"
 date = "2006-12-31"
 album = "はるひぐらし"
 tracks = [
-    [1, "ひぐらしのなく頃に", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [2, "why, or why not", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [3, "冒険でしょでしょ？", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [4, "ハレ晴レユカイ", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [5, "God knows...", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [6, "Lost my music", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
-    [7, "恋の長門伝説", "@RYOUKI & ABSOLUTE CASTAWAY", 0],
+    [1, "ひぐらしのなく頃に", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [2, "why, or why not", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [3, "冒険でしょでしょ？", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [4, "ハレ晴レユカイ", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [5, "God knows...", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [6, "Lost my music", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
+    [7, "恋の長門伝説", "@RYOUKI & ABSOLUTE CASTAWAY", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b3920cf5-8e41-488b-84b1-1ae7091fdf51", "https://vgmdb.net/album/20750"]
 
@@ -1094,14 +1094,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c0f3a5da-2f8a-4149-a677-404fcee0e276", "https://vgmdb.net/album/6471"]
 
-[0d437f8d379916efd44f0a118ace3882]
+[44026f2e3fc24781e8065883b4fe4256]
 catalognumber = "TAM3-0008"
 date = "2006-12-31"
 album = "ＴＡＭの福袋"
 tracks = [
-    [1, "you ～バイオリン＆ピアノ～", "TAM", 0],
-    [2, "想い ～弦楽四重奏～", "TAM", 0],
-    [3, "you ～youの主題によるピアノ即興～", "TAM", 0],
+    [1, "you ～バイオリン＆ピアノ～", "TAM", 1],
+    [2, "想い ～弦楽四重奏～", "TAM", 1],
+    [3, "you ～youの主題によるピアノ即興～", "TAM", 1],
     [4, "朝影", "TAM", 0],
     [5, "鳥の詩", "TAM", 0],
     [6, "夏影", "TAM", 0],
@@ -1122,18 +1122,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a15c2d20-ffd2-44df-9d35-f847f5aaf8b9", "https://vgmdb.net/album/6733"]
 
-[60baa84b486a982179f5e7044c42b7b5]
+[c71aeb5d746171b4c58ca8a74a70620f]
 catalognumber = "MGKK-0001"
 date = "2006-12-31"
 album = "after years"
 tracks = [
     [1, "Movment", "pre-holder", 0],
     [2, "詩 -うた-", "pre-holder・dai", 0],
-    [3, "you pavane -you-", "Steinway Bernkastel", 0],
+    [3, "you pavane -you-", "Steinway Bernkastel", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0482ba0f-2474-4564-8b7e-4c77e528d2dc", "https://vgmdb.net/album/28271"]
 
-[bfd3e0a45185b53312ec2d02fe4f14d4]
+[d39d8aa0b9cc5deb04e24b28cb8d0cbf]
 catalognumber = "TUCD-03"
 date = "2006-12-31"
 album = "SPICA"
@@ -1146,11 +1146,11 @@ tracks = [
     [6, "妖魔夜行", "", 0],
     [7, "二色蓮花蝶 ～ Ancients", "", 0],
     [8, "え～りんの使い捨てウドンゲ", "", 0],
-    [9, "Confession", "", 0],
+    [9, "Confession", "", 1],
 ]
 links = ["https://vgmdb.net/album/21127"]
 
-[2c9b0e2c78726a9d1dd554e77ed27475]
+[e716a148370293e13451faa266f25931]
 catalognumber = "FCBP-0043EX"
 date = "2007-01-25"
 album = "ひぐらしのなく頃に Bonus Disc 雛見沢探訪 Mini Soundtrack3"
@@ -1158,22 +1158,22 @@ tracks = [
     [1, "オヤシロさま～Another.Ver.～", "", 0],
     [2, "暗転～Another.Ver.～", "", 0],
     [3, "迫る～Another.Ver.～", "", 0],
-    [4, "平穏無事", "", 0],
-    [5, "狂気", "", 0],
+    [4, "平穏無事", "", 1],
+    [5, "狂気", "", 1],
     [6, "祭り～Another.Ver.～", "", 0],
 ]
 links = ["https://vgmdb.net/album/101791"]
 
-[340d59bf8ee6063455fb3ebeba11b0fb]
+[e376b3c4d7779c564a92946d14c23686]
 catalognumber = "PRM-0013"
 date = "2007-01-28"
 album = "嘆きノ森 TRANCE VERSION / 彩音"
 tracks = [
-    [1, "嘆きノ森 TRANCE VERSION", "", 0],
+    [1, "嘆きノ森 TRANCE VERSION", "", 1],
 ]
 links = ["https://vgmdb.net/album/123149"]
 
-[c05b8e838671ae77f272c21ba9ec0e82]
+[3ab9e00d37aba52710fda77a5ba5250c]
 catalognumber = "TAM3-0010"
 date = "2007-02-12"
 album = "TAMovie directors.Edition"
@@ -1184,100 +1184,100 @@ tracks = [
     [4, "Air メドレー", "", 0],
     [5, "CLANNAD メドレー", "", 0],
     [6, "Quartett / 咲き誇る季節", "", 0],
-    [7, "ひぐらしのなく頃に / you", "", 0],
+    [7, "ひぐらしのなく頃に / you", "", 1],
     [8, "FINAL FANTASY メドレー", "", 0],
     [9, "super mario world / 一面メドレー", "", 0],
     [10, "特典映像", "", 0],
 ]
 links = ["https://vgmdb.net/album/49201"]
 
-[5761dda0189c932a0c87f7640a99698e]
+[d0d6b3017148203950f82efe3757331c]
 catalognumber = "VGCD-1006"
 date = "2007-02-22"
 album = "ひぐらしのなく頃に祭オープニングテーマ 嘆きノ森"
 tracks = [
-    [1, "嘆きノ森", "彩音", 0],
-    [2, "コンプレックス・イマージュ", "彩音", 0],
-    [3, "嘆きノ森 (off vocal)", "彩音", 0],
-    [4, "コンプレックス・イマージュ (off vocal)", "彩音", 0],
+    [1, "嘆きノ森", "彩音", 1],
+    [2, "コンプレックス・イマージュ", "彩音", 1],
+    [3, "嘆きノ森 (off vocal)", "彩音", 1],
+    [4, "コンプレックス・イマージュ (off vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6b62017f-b60a-4e32-9373-25fae88a0b47", "https://vgmdb.net/album/4350"]
 
-[798a9af8eff74f302fea122129ead146]
+[6f51d55ecb56ba711c53d9c7db416cbf]
 catalognumber = "FPBD-0004"
 date = "2007-02-22"
 album = "ひぐらしのなく頃に祭 オリジナルサウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "嘆きノ森 (Short Ver.)", "彩音", 0],
-    [2, "escape (Short Ver.)", "いとうかなこ", 0],
-    [3, "コンプレックス・イマージュ (Short Ver.)", "彩音", 0],
-    [4, "Friend (Short Ver.)", "いとうかなこ", 0],
-    [5, "安息の時間", "川越好博", 0],
-    [6, "大逆テン？！", "立花泰彦", 0],
-    [7, "朝来帰の空", "泉邦宏", 0],
-    [8, "ぽかぽか散歩道", "立花泰彦", 0],
-    [9, "ちょこっとCITY TIME", "秦修", 0],
-    [10, "TRICK or TREAT", "泉邦宏", 0],
-    [11, "夜鈴の調べ", "泉邦宏", 0],
-    [12, "黒い道化師", "大山曜", 0],
-    [13, "おごそかな渇き", "立花泰彦", 0],
-    [14, "神楽舞", "大山曜", 0],
-    [15, "DEAD END Symphony", "神保伸太郎", 0],
-    [16, "忍び寄る気配", "泉邦宏", 0],
-    [17, "月光蝶", "神保伸太郎", 0],
-    [18, "迷い子たちの帰宅", "立花泰彦", 0],
-    [19, "綿流し", "秦修", 0],
-    [20, "枯れた花園", "秦修", 0],
-    [21, "喪失", "泉邦宏", 0],
+    [1, "嘆きノ森 (Short Ver.)", "彩音", 1],
+    [2, "escape (Short Ver.)", "いとうかなこ", 1],
+    [3, "コンプレックス・イマージュ (Short Ver.)", "彩音", 1],
+    [4, "Friend (Short Ver.)", "いとうかなこ", 1],
+    [5, "安息の時間", "川越好博", 1],
+    [6, "大逆テン？！", "立花泰彦", 1],
+    [7, "朝来帰の空", "泉邦宏", 1],
+    [8, "ぽかぽか散歩道", "立花泰彦", 1],
+    [9, "ちょこっとCITY TIME", "秦修", 1],
+    [10, "TRICK or TREAT", "泉邦宏", 1],
+    [11, "夜鈴の調べ", "泉邦宏", 1],
+    [12, "黒い道化師", "大山曜", 1],
+    [13, "おごそかな渇き", "立花泰彦", 1],
+    [14, "神楽舞", "大山曜", 1],
+    [15, "DEAD END Symphony", "神保伸太郎", 1],
+    [16, "忍び寄る気配", "泉邦宏", 1],
+    [17, "月光蝶", "神保伸太郎", 1],
+    [18, "迷い子たちの帰宅", "立花泰彦", 1],
+    [19, "綿流し", "秦修", 1],
+    [20, "枯れた花園", "秦修", 1],
+    [21, "喪失", "泉邦宏", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c89a0cba-c2c1-4e5c-9aff-3aa620fd4931", "https://vgmdb.net/album/4355"]
 
-[df16a9cf333adcbb79e0f70f08fee235]
+[639d65b7c441c9687f248cfd51ded537]
 catalognumber = "FPBD-0004"
 date = "2007-02-22"
 album = "ひぐらしのなく頃に祭 オリジナルサウンドトラック Original Soundtrack"
 tracks = [
-    [1, "旧き想い", "秦修", 0],
-    [2, "還らぬ時間", "秦修", 0],
-    [3, "ひとり", "筒井香織", 0],
-    [4, "償いのコトバ", "秦修", 0],
-    [5, "連鎖する流転", "筒井香織", 0],
-    [6, "古手の巫女", "川越好博", 0],
-    [7, "Free", "筒井香織", 0],
-    [8, "暗鬼の影", "秦修", 0],
-    [9, "地獄の響", "泉邦宏", 0],
-    [10, "無垢なる侵食", "泉邦宏", 0],
-    [11, "降臨と生誕と", "泉邦宏", 0],
-    [12, "オヤシロさま", "秦修", 0],
-    [13, "袋小路の猫", "神保伸太郎", 0],
-    [14, "Melody", "筒井香織", 0],
-    [15, "Sister", "筒井香織", 0],
-    [16, "雛見沢の死", "筒井香織", 0],
-    [17, "みんな、いなくなった", "筒井香織", 0],
-    [18, "朱紅の宴", "川越好博", 0],
-    [19, "獣たちは嗤う", "大山曜", 0],
-    [20, "最期のサイコロ", "大山曜", 0],
-    [21, "血塗られた鎮魂歌", "筒井香織", 0],
-    [22, "嘆きノ森 インストver.", "筒井香織", 0],
-    [23, "嘆きノ森 オルゴールver.", "筒井香織", 0],
-    [24, "escape インストver.", "磯江俊道", 0],
-    [25, "Friend オルゴールver.", "川越好博", 0],
+    [1, "旧き想い", "秦修", 1],
+    [2, "還らぬ時間", "秦修", 1],
+    [3, "ひとり", "筒井香織", 1],
+    [4, "償いのコトバ", "秦修", 1],
+    [5, "連鎖する流転", "筒井香織", 1],
+    [6, "古手の巫女", "川越好博", 1],
+    [7, "Free", "筒井香織", 1],
+    [8, "暗鬼の影", "秦修", 1],
+    [9, "地獄の響", "泉邦宏", 1],
+    [10, "無垢なる侵食", "泉邦宏", 1],
+    [11, "降臨と生誕と", "泉邦宏", 1],
+    [12, "オヤシロさま", "秦修", 1],
+    [13, "袋小路の猫", "神保伸太郎", 1],
+    [14, "Melody", "筒井香織", 1],
+    [15, "Sister", "筒井香織", 1],
+    [16, "雛見沢の死", "筒井香織", 1],
+    [17, "みんな、いなくなった", "筒井香織", 1],
+    [18, "朱紅の宴", "川越好博", 1],
+    [19, "獣たちは嗤う", "大山曜", 1],
+    [20, "最期のサイコロ", "大山曜", 1],
+    [21, "血塗られた鎮魂歌", "筒井香織", 1],
+    [22, "嘆きノ森 インストver.", "筒井香織", 1],
+    [23, "嘆きノ森 オルゴールver.", "筒井香織", 1],
+    [24, "escape インストver.", "磯江俊道", 1],
+    [25, "Friend オルゴールver.", "川越好博", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c89a0cba-c2c1-4e5c-9aff-3aa620fd4931", "https://vgmdb.net/album/4355"]
 
-[dedd19ff40214eebbc5eec82ecc9d49a]
+[54d1e827ba9df288079ca7d13b14a14a]
 catalognumber = "VGCD-1007"
 date = "2007-02-22"
 album = "ひぐらしのなく頃に祭エンディングテーマ escape"
 tracks = [
-    [1, "escape", "いとうかなこ", 0],
-    [2, "Friend", "いとうかなこ", 0],
-    [3, "escape (off vocal)", "いとうかなこ", 0],
-    [4, "Friend (off vocal)", "いとうかなこ", 0],
+    [1, "escape", "いとうかなこ", 1],
+    [2, "Friend", "いとうかなこ", 1],
+    [3, "escape (off vocal)", "いとうかなこ", 1],
+    [4, "Friend (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a59587a5-f27b-4598-8533-c79541d68c0a", "https://vgmdb.net/album/4359"]
 
-[7bab92af0ee47e8891b4082337d820ca]
+[f7b06ad5529e240b965d8feae93f2ae1]
 catalognumber = "ZTSL-015"
 date = "2007-03-23"
 album = "Selfregards 2"
@@ -1291,102 +1291,102 @@ tracks = [
     [7, "守", "zts", 0],
     [8, "spiral ladder", "zts", 0],
     [9, "circle (zts mix)", "zts", 0],
-    [10, "daily passing by (synthtone)", "bermei.inazawa", 0],
+    [10, "daily passing by (synthtone)", "bermei.inazawa", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/48f0a1e6-1306-49e1-9eda-c9c307db3bb0", "https://vgmdb.net/album/8956"]
 
-[cee9e8a28e79ff40d0f92404fb801977]
+[6cae6af9751a71bd6a6ac4311e164f51]
 catalognumber = "FCCM-0177"
 date = "2007-03-28"
 album = "ひぐらしのなく頃に キャラクターCD①"
 tracks = [
-    [1, "笑顔・はっぴぃ・ピース♪", "竜宮レナ（中原麻衣）", 0],
-    [2, "圭一・大石の噂の事件簿ABC", "前原圭一（保志総一朗）、大石蔵人（茶風林）", 0],
-    [3, "オリジナルドラマ「レナのかぁいいもの」", "中原麻衣", 0],
-    [4, "笑顔・はっぴぃ・ピース♪ カラオケ", "竜宮レナ（中原麻衣）", 0],
-    [5, "圭一・大石の噂の事件簿ABC カラオケ", "前原圭一（保志総一朗）、大石蔵人（茶風林）", 0],
+    [1, "笑顔・はっぴぃ・ピース♪", "竜宮レナ（中原麻衣）", 1],
+    [2, "圭一・大石の噂の事件簿ABC", "前原圭一（保志総一朗）、大石蔵人（茶風林）", 1],
+    [3, "オリジナルドラマ「レナのかぁいいもの」", "中原麻衣", 1],
+    [4, "笑顔・はっぴぃ・ピース♪ カラオケ", "竜宮レナ（中原麻衣）", 1],
+    [5, "圭一・大石の噂の事件簿ABC カラオケ", "前原圭一（保志総一朗）、大石蔵人（茶風林）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3224bfc3-b2b7-4695-ad2c-349dd9af6172", "https://vgmdb.net/album/30559"]
 
-[4a8b0f83a9056acd96f4526cbf062348]
+[7d21c4139ee4f558ccbd3967c920ded7]
 catalognumber = "TFM-002"
 date = "2007-04-22"
 album = "ひぐらしデイブレイク oRigiNAL SouND TRACK Disc 1"
 tracks = [
-    [1, "from the sky", "あきやまうに", 0],
-    [2, "today's hero", "あきやまうに", 0],
-    [3, "2 on 2", "あきやまうに", 0],
-    [4, "close mission", "あきやまうに", 0],
-    [5, "prize machine", "あきやまうに", 0],
-    [6, "far east", "あきやまうに", 0],
-    [7, "elastico", "あきやまうに", 0],
-    [8, "just cause", "あきやまうに", 0],
-    [9, "thanks", "あきやまうに", 0],
-    [10, "speedster", "あきやまうに", 0],
-    [11, "sacred curry empire", "あきやまうに", 0],
-    [12, "antiguo", "あきやまうに", 0],
-    [13, "dernier", "あきやまうに", 0],
-    [14, "camouflage legend", "あきやまうに", 0],
-    [15, "fearlessness", "あきやまうに", 0],
-    [16, "night chaser", "あきやまうに", 0],
-    [17, "victory", "あきやまうに", 0],
-    [18, "defeat", "あきやまうに", 0],
-    [19, "to the sky", "あきやまうに", 0],
+    [1, "from the sky", "あきやまうに", 1],
+    [2, "today's hero", "あきやまうに", 1],
+    [3, "2 on 2", "あきやまうに", 1],
+    [4, "close mission", "あきやまうに", 1],
+    [5, "prize machine", "あきやまうに", 1],
+    [6, "far east", "あきやまうに", 1],
+    [7, "elastico", "あきやまうに", 1],
+    [8, "just cause", "あきやまうに", 1],
+    [9, "thanks", "あきやまうに", 1],
+    [10, "speedster", "あきやまうに", 1],
+    [11, "sacred curry empire", "あきやまうに", 1],
+    [12, "antiguo", "あきやまうに", 1],
+    [13, "dernier", "あきやまうに", 1],
+    [14, "camouflage legend", "あきやまうに", 1],
+    [15, "fearlessness", "あきやまうに", 1],
+    [16, "night chaser", "あきやまうに", 1],
+    [17, "victory", "あきやまうに", 1],
+    [18, "defeat", "あきやまうに", 1],
+    [19, "to the sky", "あきやまうに", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f76b563d-e87b-4720-a725-fdeeb4ce7c20", "https://vgmdb.net/album/9776"]
 
-[2ca5b81b9ca02e739d21695cf14e2f37]
+[bb99f514d8af8d36014bdc1447367e70]
 catalognumber = "TFM-002"
 date = "2007-04-22"
 album = "ひぐらしデイブレイク oRigiNAL SouND TRACK Disc 2"
 tracks = [
-    [1, "取扱説明書", "あきやまうに", 0],
-    [2, "只今部活中", "あきやまうに", 0],
-    [3, "夕方の教室", "あきやまうに", 0],
-    [4, "色違い", "あきやまうに", 0],
-    [5, "美しき世界", "あきやまうに", 0],
-    [6, "帰路", "あきやまうに", 0],
-    [7, "モテ道かく語りき", "あきやまうに", 0],
-    [8, "帝国の興亡", "あきやまうに", 0],
-    [9, "フワラズノ勾玉", "あきやまうに", 0],
-    [10, "未来へ", "あきやまうに", 0],
-    [11, "にぱ～☆", "あきやまうに", 0],
-    [12, "kneecap", "あきやまうに", 0],
-    [13, "bright sun", "あきやまうに", 0],
-    [14, "spinning seesaw", "あきやまうに", 0],
-    [15, "close mission", "oiko", 0],
-    [16, "far east", "あきやまうに", 0],
-    [17, "elastico", "Wiwaxia", 0],
-    [18, "night chaser", "oiko", 0],
-    [19, "to the sky", "SS", 0],
-    [20, "フワラズノ勾玉", "あきやまうに", 0],
+    [1, "取扱説明書", "あきやまうに", 1],
+    [2, "只今部活中", "あきやまうに", 1],
+    [3, "夕方の教室", "あきやまうに", 1],
+    [4, "色違い", "あきやまうに", 1],
+    [5, "美しき世界", "あきやまうに", 1],
+    [6, "帰路", "あきやまうに", 1],
+    [7, "モテ道かく語りき", "あきやまうに", 1],
+    [8, "帝国の興亡", "あきやまうに", 1],
+    [9, "フワラズノ勾玉", "あきやまうに", 1],
+    [10, "未来へ", "あきやまうに", 1],
+    [11, "にぱ～☆", "あきやまうに", 1],
+    [12, "kneecap", "あきやまうに", 1],
+    [13, "bright sun", "あきやまうに", 1],
+    [14, "spinning seesaw", "あきやまうに", 1],
+    [15, "close mission", "oiko", 1],
+    [16, "far east", "あきやまうに", 1],
+    [17, "elastico", "Wiwaxia", 1],
+    [18, "night chaser", "oiko", 1],
+    [19, "to the sky", "SS", 1],
+    [20, "フワラズノ勾玉", "あきやまうに", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f76b563d-e87b-4720-a725-fdeeb4ce7c20", "https://vgmdb.net/album/9776"]
 
-[aede1ec6632685aa89520eaa6f5fcbf8]
+[0951851be63db8cad69fb4e4e3af3b8c]
 catalognumber = "WACD-205"
 date = "2007-04-25"
 album = "ドラマCD ひぐらしのなく頃に ～語咄し編～"
 tracks = [
-    [1, "いつもの風景", "[dialogue]", 0],
-    [2, "魅音の昔語り", "[dialogue]", 0],
-    [3, "男の世界", "[dialogue]", 0],
-    [4, "沙都子の水難", "[dialogue]", 0],
-    [5, "犠牲の果て", "[dialogue]", 0],
-    [6, "守るべき仲間", "[dialogue]", 0],
-    [7, "変わらない日常へ", "[dialogue]", 0],
-    [8, "それはレナの一大事", "[dialogue]", 0],
-    [9, "気になるあいつは女こまし?", "[dialogue]", 0],
-    [10, "ようこそINトラップ教室", "[dialogue]", 0],
-    [11, "天使みたいな圭一とのつきあい方", "[dialogue]", 0],
-    [12, "部活メンバー眼輝く、圭一屠る", "[dialogue]", 0],
-    [13, "薬のコードネームは○○", "[dialogue]", 0],
-    [14, "目覚めよ……Oh!Gon!圭一", "[dialogue]", 0],
-    [15, "その後、リテイク", "[dialogue]", 0],
+    [1, "いつもの風景", "[dialogue]", 1],
+    [2, "魅音の昔語り", "[dialogue]", 1],
+    [3, "男の世界", "[dialogue]", 1],
+    [4, "沙都子の水難", "[dialogue]", 1],
+    [5, "犠牲の果て", "[dialogue]", 1],
+    [6, "守るべき仲間", "[dialogue]", 1],
+    [7, "変わらない日常へ", "[dialogue]", 1],
+    [8, "それはレナの一大事", "[dialogue]", 1],
+    [9, "気になるあいつは女こまし?", "[dialogue]", 1],
+    [10, "ようこそINトラップ教室", "[dialogue]", 1],
+    [11, "天使みたいな圭一とのつきあい方", "[dialogue]", 1],
+    [12, "部活メンバー眼輝く、圭一屠る", "[dialogue]", 1],
+    [13, "薬のコードネームは○○", "[dialogue]", 1],
+    [14, "目覚めよ……Oh!Gon!圭一", "[dialogue]", 1],
+    [15, "その後、リテイク", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/76d1d249-80bd-4210-ac81-6bbbb3d4cfe5", "https://vgmdb.net/album/99128"]
 
-[ae4118186d92b0a6383ecd3a9b81c759]
+[21e5447791a0b91fbbc788e7a6c51d40]
 catalognumber = "VGCD-0079"
 date = "2007-04-25"
 album = "ARCHIVE LOVERS / Ayane"
@@ -1398,29 +1398,29 @@ tracks = [
     [5, "ARCHIVE LOVERS", "彩音", 0],
     [6, "そよ風のシルエ", "彩音", 0],
     [7, "Film Makers", "彩音", 0],
-    [8, "コンプレックス・イマージュ", "彩音", 0],
+    [8, "コンプレックス・イマージュ", "彩音", 1],
     [9, "To the Moon", "彩音", 0],
     [10, "龍刻の彼方へ", "彩音", 0],
-    [11, "嘆きノ森", "彩音", 0],
+    [11, "嘆きノ森", "彩音", 1],
     [12, "カカシ (Orchestra version)", "彩音", 0],
     [13, "ロマンシングストーリー", "彩音", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5c759638-66b4-3f37-a071-ca9611a910d8", "https://vgmdb.net/album/13104"]
 
-[f0d57dbe9ada57711c75b36d68150f4c]
+[10f1d2301f6dbda484c458991dbbf5ae]
 catalognumber = "FCCM-0178"
 date = "2007-04-25"
 album = "ひぐらしのなく頃に キャラクターCD②"
 tracks = [
-    [1, "ふたりのバースディ", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 0],
-    [2, "いえない言葉", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 0],
-    [3, "オリジナルドラマ「魅音の告白」", "雪野五月", 0],
-    [4, "ふたりのバースディ (カラオケ)", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 0],
-    [5, "言えない言葉 (カラオケ)", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 0],
+    [1, "ふたりのバースディ", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 1],
+    [2, "いえない言葉", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 1],
+    [3, "オリジナルドラマ「魅音の告白」", "雪野五月", 1],
+    [4, "ふたりのバースディ (カラオケ)", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 1],
+    [5, "言えない言葉 (カラオケ)", "園崎魅音（雪野五月）、園崎詩音（雪野五月）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2da6594d-3e36-4bcc-b2f8-66d65be384b5", "https://vgmdb.net/album/30560"]
 
-[8c198abf3edfcf9dbf7a9eaa43bed849]
+[8007719d8f9e1aec45c8164d657af859]
 catalognumber = "VGCD-0083"
 date = "2007-05-25"
 album = "HYPER 萌 TRANCE ～彩音～"
@@ -1429,17 +1429,17 @@ tracks = [
     [2, "ORANGE", "彩音", 0],
     [3, "To the Moon", "彩音", 0],
     [4, "Private Place", "彩音", 0],
-    [5, "コンプレックス・イマージュ", "彩音", 0],
+    [5, "コンプレックス・イマージュ", "彩音", 1],
     [6, "Fractal Tree", "彩音", 0],
     [7, "Film Makers", "彩音", 0],
     [8, "アカシアの木の下で", "彩音", 0],
-    [9, "嘆きノ森", "彩音", 0],
+    [9, "嘆きノ森", "彩音", 1],
     [10, "ロマンシングストーリー", "彩音", 0],
     [11, "魔女っ子メグちゃん", "彩音", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/69cc0e61-dda8-4fc9-8c8f-dd92c15696d9", "https://vgmdb.net/album/15725"]
 
-[404c2f2a7fac14c87db4d6f28588c902]
+[407192a0e62a07cc340dab5aed33845e]
 catalognumber = "TAM3-0014"
 date = "2007-06-10"
 album = "TAM&PICO コラボＣＤ 初期作品集"
@@ -1458,132 +1458,132 @@ tracks = [
     [12, "ためいき", "TAM×pico", 0],
     [13, "Nikoensis～追想", "TAM×pico", 0],
     [14, "karma", "TAM×pico", 0],
-    [15, "you", "TAM×pico", 0],
+    [15, "you", "TAM×pico", 1],
     [16, "Little Busters!", "TAM×pico", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/818ed0e1-5a83-4581-b268-c28363b09404", "https://vgmdb.net/album/6625"]
 
-[aafc1b2ef979e9d823065338ffa7275f]
+[ae2d9550d8163f34c35b2dd11f71762e]
 catalognumber = "MGRA-0002"
 date = "2007-06-17"
 album = "yours サンプルCDです"
 tracks = [
     [1, "最後のコイン", "", 0],
-    [2, "years", "", 0],
-    [3, "you -destructive", "", 0],
-    [4, "feel", "", 0],
-    [5, "being", "", 0],
+    [2, "years", "", 1],
+    [3, "you -destructive", "", 1],
+    [4, "feel", "", 1],
+    [5, "being", "", 1],
     [6, "Lorely", "", 0],
-    [7, "Hello", "", 0],
+    [7, "Hello", "", 1],
 ]
 links = ["https://vgmdb.net/album/115155"]
 
-[afce03477062269a3071285938249ea6]
+[4d52b6ebba323621e7977b779124321f]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 3"
 tracks = [
-    [1, "園崎本家へ", "[dialogue]", 0],
-    [2, "地下祭具殿", "[dialogue]", 0],
-    [3, "詩音のけじめ", "[dialogue]", 0],
-    [4, "それから数日", "[dialogue]", 0],
-    [5, "あのおもちゃ屋へ", "[dialogue]", 0],
-    [6, "興宮署来賓室", "[dialogue]", 0],
-    [7, "鬼隠し", "[dialogue]", 0],
-    [8, "鷹野との出会い", "[dialogue]", 0],
-    [9, "魅音の涙", "[dialogue]", 0],
+    [1, "園崎本家へ", "[dialogue]", 1],
+    [2, "地下祭具殿", "[dialogue]", 1],
+    [3, "詩音のけじめ", "[dialogue]", 1],
+    [4, "それから数日", "[dialogue]", 1],
+    [5, "あのおもちゃ屋へ", "[dialogue]", 1],
+    [6, "興宮署来賓室", "[dialogue]", 1],
+    [7, "鬼隠し", "[dialogue]", 1],
+    [8, "鷹野との出会い", "[dialogue]", 1],
+    [9, "魅音の涙", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
-[b79bf4f66433c800006584439ac54a96]
+[448a513555a2c4ffc156c2711cb8238a]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 2"
 tracks = [
-    [1, "雨の停留所にて", "[dialogue]", 0],
-    [2, "雛見沢分校", "[dialogue]", 0],
-    [3, "詩音の怒り", "[dialogue]", 0],
-    [4, "綿流し前日", "[dialogue]", 0],
-    [5, "悟史との電話", "[dialogue]", 0],
-    [6, "綿流しの日", "[dialogue]", 0],
-    [7, "4年目の祟り", "[dialogue]", 0],
-    [8, "悟史とおもちゃ屋へ", "[dialogue]", 0],
-    [9, "園崎詩音", "[dialogue]", 0],
+    [1, "雨の停留所にて", "[dialogue]", 1],
+    [2, "雛見沢分校", "[dialogue]", 1],
+    [3, "詩音の怒り", "[dialogue]", 1],
+    [4, "綿流し前日", "[dialogue]", 1],
+    [5, "悟史との電話", "[dialogue]", 1],
+    [6, "綿流しの日", "[dialogue]", 1],
+    [7, "4年目の祟り", "[dialogue]", 1],
+    [8, "悟史とおもちゃ屋へ", "[dialogue]", 1],
+    [9, "園崎詩音", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
-[3e7cf2f04081973a41a4e1012ed83673]
+[e43f27e78c5a76293c369e2075c5d3e2]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 1"
 tracks = [
-    [1, "脱走", "[dialogue]", 0],
-    [2, "故郷へ", "[dialogue]", 0],
-    [3, "新しい一日", "[dialogue]", 0],
-    [4, "祟りの噂", "[dialogue]", 0],
-    [5, "暴露", "[dialogue]", 0],
-    [6, "北条悟史", "[dialogue]", 0],
-    [7, "浮き立つ心", "[dialogue]", 0],
-    [8, "偶然の出会い", "[dialogue]", 0],
-    [9, "優しい時間", "[dialogue]", 0],
-    [10, "雛見沢ファイターズ", "[dialogue]", 0],
-    [11, "レナとの出会い", "[dialogue]", 0],
+    [1, "脱走", "[dialogue]", 1],
+    [2, "故郷へ", "[dialogue]", 1],
+    [3, "新しい一日", "[dialogue]", 1],
+    [4, "祟りの噂", "[dialogue]", 1],
+    [5, "暴露", "[dialogue]", 1],
+    [6, "北条悟史", "[dialogue]", 1],
+    [7, "浮き立つ心", "[dialogue]", 1],
+    [8, "偶然の出会い", "[dialogue]", 1],
+    [9, "優しい時間", "[dialogue]", 1],
+    [10, "雛見沢ファイターズ", "[dialogue]", 1],
+    [11, "レナとの出会い", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
-[1635d01715f0762116b2f42b2e1a17cf]
+[a8274c7ef7295dbd4e84ffbeaa326007]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 4"
 tracks = [
-    [1, "圭一との出会い", "[dialogue]", 0],
-    [2, "失われゆく場所", "[dialogue]", 0],
-    [3, "悟史との再開", "[dialogue]", 0],
-    [4, "綿流しの祭", "[dialogue]", 0],
-    [5, "祭具殿", "[dialogue]", 0],
-    [6, "5年目の祟り", "[dialogue]", 0],
-    [7, "翻る意思", "[dialogue]", 0],
-    [8, "転位の姉妹", "[dialogue]", 0],
-    [9, "詩音激怒", "[dialogue]", 0],
-    [10, "戻れない足場", "[dialogue]", 0],
-    [11, "詩音跳梁", "[dialogue]", 0],
+    [1, "圭一との出会い", "[dialogue]", 1],
+    [2, "失われゆく場所", "[dialogue]", 1],
+    [3, "悟史との再開", "[dialogue]", 1],
+    [4, "綿流しの祭", "[dialogue]", 1],
+    [5, "祭具殿", "[dialogue]", 1],
+    [6, "5年目の祟り", "[dialogue]", 1],
+    [7, "翻る意思", "[dialogue]", 1],
+    [8, "転位の姉妹", "[dialogue]", 1],
+    [9, "詩音激怒", "[dialogue]", 1],
+    [10, "戻れない足場", "[dialogue]", 1],
+    [11, "詩音跳梁", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
-[309fdaf6a54684f86c544d031e6452f2]
+[296575f250933551256ef65bd73a7f2d]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 5"
 tracks = [
-    [1, "鹿骨市立図書館", "[dialogue]", 0],
-    [2, "老人達の怒り", "[dialogue]", 0],
-    [3, "公由への告白", "[dialogue]", 0],
-    [4, "圭一との電話", "[dialogue]", 0],
-    [5, "公由への拷問", "[dialogue]", 0],
-    [6, "古手梨花", "[dialogue]", 0],
-    [7, "梨花の訪問", "[dialogue]", 0],
-    [8, "頭首の舞", "[dialogue]", 0],
-    [9, "鬼の策略", "[dialogue]", 0],
-    [10, "古手神社", "[dialogue]", 0],
+    [1, "鹿骨市立図書館", "[dialogue]", 1],
+    [2, "老人達の怒り", "[dialogue]", 1],
+    [3, "公由への告白", "[dialogue]", 1],
+    [4, "圭一との電話", "[dialogue]", 1],
+    [5, "公由への拷問", "[dialogue]", 1],
+    [6, "古手梨花", "[dialogue]", 1],
+    [7, "梨花の訪問", "[dialogue]", 1],
+    [8, "頭首の舞", "[dialogue]", 1],
+    [9, "鬼の策略", "[dialogue]", 1],
+    [10, "古手神社", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
-[2a024a55d077829240432ecb0937fdad]
+[7f6d5363ddfedc26e464f30997dac209]
 catalognumber = "WACD-105"
 date = "2007-06-27"
 album = "ドラマCD ひぐらしのなく頃に解 ～目明し編～ Disc 6"
 tracks = [
-    [1, "断罪", "[dialogue]", 0],
-    [2, "鬼の哄笑", "[dialogue]", 0],
-    [3, "嘲笑", "[dialogue]", 0],
-    [4, "心を鬼へ", "[dialogue]", 0],
-    [5, "前原圭一", "[dialogue]", 0],
-    [6, "解", "[dialogue]", 0],
-    [7, "エピローグ", "[dialogue]", 0],
-    [8, "血染まる月", "[dialogue]", 0],
-    [9, "落日の夢", "[dialogue]", 0],
-    [10, "you", "雪野五月", 0],
-    [11, "そして……", "[dialogue]", 0],
+    [1, "断罪", "[dialogue]", 1],
+    [2, "鬼の哄笑", "[dialogue]", 1],
+    [3, "嘲笑", "[dialogue]", 1],
+    [4, "心を鬼へ", "[dialogue]", 1],
+    [5, "前原圭一", "[dialogue]", 1],
+    [6, "解", "[dialogue]", 1],
+    [7, "エピローグ", "[dialogue]", 1],
+    [8, "血染まる月", "[dialogue]", 1],
+    [9, "落日の夢", "[dialogue]", 1],
+    [10, "you", "雪野五月", 1],
+    [11, "そして……", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49141026-b1dc-4415-b6fa-7163ad8418f3", "https://vgmdb.net/album/6819"]
 
@@ -1602,120 +1602,120 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/156560"]
 
-[150ad52298828dc500c98a22e816bb16]
+[acf0b074ad8d37c5d05e8fac4cb17960]
 catalognumber = "FCCM-0188"
 date = "2007-07-25"
 album = "DJCD「ひぐらしのなく頃に」猿回し編 第一巻"
 tracks = [
-    [1, "レナ&魅音のオープニングトーク", "", 0],
-    [2, "ミニコント 第1回", "", 0],
-    [3, "ミニコント 第2回", "", 0],
-    [4, "新録 ザ・部活!", "", 0],
-    [5, "ミニコント 第3回", "", 0],
-    [6, "ミニコント 第4回", "", 0],
-    [7, "ザ・部活! 名作選&未公開トーク", "", 0],
-    [8, "ミニコント 第5回", "", 0],
-    [9, "ミニコント 第6回", "", 0],
-    [10, "新録 かけらさがし", "", 0],
-    [11, "かけらさがし 名作選&未公開恐怖", "", 0],
-    [12, "ミニコント 新作1", "", 0],
-    [13, "出張 ザ・部活!", "", 0],
-    [14, "ミニコント 新作2", "", 0],
-    [15, "レナ&魅音のエンディングトーク", "", 0],
+    [1, "レナ&魅音のオープニングトーク", "", 1],
+    [2, "ミニコント 第1回", "", 1],
+    [3, "ミニコント 第2回", "", 1],
+    [4, "新録 ザ・部活!", "", 1],
+    [5, "ミニコント 第3回", "", 1],
+    [6, "ミニコント 第4回", "", 1],
+    [7, "ザ・部活! 名作選&未公開トーク", "", 1],
+    [8, "ミニコント 第5回", "", 1],
+    [9, "ミニコント 第6回", "", 1],
+    [10, "新録 かけらさがし", "", 1],
+    [11, "かけらさがし 名作選&未公開恐怖", "", 1],
+    [12, "ミニコント 新作1", "", 1],
+    [13, "出張 ザ・部活!", "", 1],
+    [14, "ミニコント 新作2", "", 1],
+    [15, "レナ&魅音のエンディングトーク", "", 1],
 ]
 links = ["https://vgmdb.net/album/99457"]
 
-[7280a73a151e8992b6e21adef93a3d3c]
+[3fd431589d378b8345017a1c788c757e]
 catalognumber = "FCCM-0179"
 date = "2007-07-25"
 album = "ひぐらしのなく頃に キャラクターCD③"
 tracks = [
-    [1, "無限回廊", "古手梨花（田村ゆかり）", 0],
-    [2, "好き好き∞にーにー", "北条沙都子（かないみか）", 0],
-    [3, "オリジナルドラマ「雛見沢異聞」", "古手梨花（田村ゆかり）、北条沙都子（かないみか）", 0],
-    [4, "無限回廊(カラオケ)", "古手梨花（田村ゆかり）", 0],
-    [5, "好き好き∞にーにー(カラオケ)", "北条沙都子（かないみか）", 0],
+    [1, "無限回廊", "古手梨花（田村ゆかり）", 1],
+    [2, "好き好き∞にーにー", "北条沙都子（かないみか）", 1],
+    [3, "オリジナルドラマ「雛見沢異聞」", "古手梨花（田村ゆかり）、北条沙都子（かないみか）", 1],
+    [4, "無限回廊(カラオケ)", "古手梨花（田村ゆかり）", 1],
+    [5, "好き好き∞にーにー(カラオケ)", "北条沙都子（かないみか）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/69933fdd-ae51-48a9-b340-be049973d495", "https://vgmdb.net/album/30561"]
 
-[e25a9944ff907de3efffe6d8cd33c19d]
+[44b5109e1bd63d49f70bdacaa239aa16]
 catalognumber = "KNIL-0002"
 date = "2007-08-17"
 album = "こころむすび～ハジマリ～"
 tracks = [
-    [1, "こころむすび サンプラーノンストップメドレーエデイシヨン", "", 0],
-    [2, "月下の決闘者 フルバージョン", "", 0],
+    [1, "こころむすび サンプラーノンストップメドレーエデイシヨン", "", 1],
+    [2, "月下の決闘者 フルバージョン", "", 1],
     [3, "エクストラムービー 「when they cry」 ショートバージョン", "", 0],
 ]
 links = ["https://vgmdb.net/album/105228"]
 
-[6942efbaefa02b3ebb0240c4d9c73837]
+[82d3c53d9e6de03a5896f1f663ffd193]
 catalognumber = "MGRA-0003"
 date = "2007-08-17"
 album = "Yours ひぐらしのなく頃に オリジナル・リメイク・サウンドヴァージョン Original Soundtrack, Arrangement, Vocal, Original Work"
 tracks = [
-    [1, "最後のコイン", "dai", 0],
-    [2, "years", "dai", 0],
-    [3, "空夢", "dai", 0],
-    [4, "feel", "dai", 0],
-    [5, "Birth and death", "dai", 0],
-    [6, "Cradle song", "dai", 0],
-    [7, "Gray", "dai", 0],
-    [8, "一重", "dai", 0],
-    [9, "Fearlessness", "dai", 0],
-    [10, "C-examination", "dai", 0],
-    [11, "Conviction", "dai", 0],
-    [12, "Testament", "dai", 0],
-    [13, "虚", "dai", 0],
-    [14, "Live", "dai", 0],
-    [15, "音無しの村", "dai", 0],
-    [16, "空夢(Vocal Ver)", "癒月", 0],
-    [17, "Gray ep", "dai", 0],
+    [1, "最後のコイン", "dai", 1],
+    [2, "years", "dai", 1],
+    [3, "空夢", "dai", 1],
+    [4, "feel", "dai", 1],
+    [5, "Birth and death", "dai", 1],
+    [6, "Cradle song", "dai", 1],
+    [7, "Gray", "dai", 1],
+    [8, "一重", "dai", 1],
+    [9, "Fearlessness", "dai", 1],
+    [10, "C-examination", "dai", 1],
+    [11, "Conviction", "dai", 1],
+    [12, "Testament", "dai", 1],
+    [13, "虚", "dai", 1],
+    [14, "Live", "dai", 1],
+    [15, "音無しの村", "dai", 1],
+    [16, "空夢(Vocal Ver)", "癒月", 1],
+    [17, "Gray ep", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aceb9eac-4934-46c5-9b57-a32bf2386350", "https://vgmdb.net/album/30904"]
 
-[983dbbb03eded4e0b8fe6485647757e8]
+[4b7a0766bb6249fb878f3cdea892c107]
 catalognumber = "MGRA-0003"
 date = "2007-08-17"
 album = "Yours ひぐらしのなく頃に オリジナル・リメイク・サウンドヴァージョン Original Soundtrack, Arrangement, Vocal Disc 2"
 tracks = [
-    [1, "そらのむこう", "dai", 0],
-    [2, "ふたり。ひとり。", "dai", 0],
-    [3, "being", "dai", 0],
-    [4, "you-destructive", "dai", 0],
-    [5, "Search and destroy", "dai", 0],
-    [6, "祭", "dai", 0],
-    [7, "後日談", "dai", 0],
-    [8, "air pizz", "dai", 0],
-    [9, "そらのむこう(Vocal Ver)", "結月そら", 0],
+    [1, "そらのむこう", "dai", 1],
+    [2, "ふたり。ひとり。", "dai", 1],
+    [3, "being", "dai", 1],
+    [4, "you-destructive", "dai", 1],
+    [5, "Search and destroy", "dai", 1],
+    [6, "祭", "dai", 1],
+    [7, "後日談", "dai", 1],
+    [8, "air pizz", "dai", 1],
+    [9, "そらのむこう(Vocal Ver)", "結月そら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aceb9eac-4934-46c5-9b57-a32bf2386350", "https://vgmdb.net/album/30904"]
 
-[6781af10738be94043b8ff3283572299]
+[de0a462492aab2f628e7722f7d2fe5a1]
 catalognumber = "MGRA-0003"
 date = "2007-08-17"
 album = "Yours ひぐらしのなく頃に オリジナル・リメイク・サウンドヴァージョン Original Soundtrack, Arrangement, Vocal Disc 3"
 tracks = [
-    [1, "Confession (Vocal Ver)", "癒月", 0],
-    [2, "Thanks", "dai", 0],
-    [3, "Iru", "dai", 0],
-    [4, "陰", "dai", 0],
-    [5, "Soul scour", "dai", 0],
-    [6, "you(M.Box風) Ver2", "dai", 0],
-    [7, "Confession", "dai", 0],
-    [8, "you", "dai", 0],
-    [9, "Loreley", "dai", 0],
-    [10, "こころ", "dai", 0],
-    [11, "Don't Cry", "dai", 0],
-    [12, "そらのむこう Ver1.01", "dai", 0],
-    [13, "day", "dai", 0],
-    [14, "へっぽこクッキング", "dai", 0],
-    [15, "friend", "dai", 0],
-    [16, "乖離", "dai", 0],
-    [17, "幾星霜", "dai", 0],
-    [18, "Thanks (Vocal Ver)", "癒月", 0],
-    [19, "Hello", "dai", 0],
-    [20, "[unknown]", "dai", 0],
+    [1, "Confession (Vocal Ver)", "癒月", 1],
+    [2, "Thanks", "dai", 1],
+    [3, "Iru", "dai", 1],
+    [4, "陰", "dai", 1],
+    [5, "Soul scour", "dai", 1],
+    [6, "you(M.Box風) Ver2", "dai", 1],
+    [7, "Confession", "dai", 1],
+    [8, "you", "dai", 1],
+    [9, "Loreley", "dai", 1],
+    [10, "こころ", "dai", 1],
+    [11, "Don't Cry", "dai", 1],
+    [12, "そらのむこう Ver1.01", "dai", 1],
+    [13, "day", "dai", 1],
+    [14, "へっぽこクッキング", "dai", 1],
+    [15, "friend", "dai", 1],
+    [16, "乖離", "dai", 1],
+    [17, "幾星霜", "dai", 1],
+    [18, "Thanks (Vocal Ver)", "癒月", 2],
+    [19, "Hello", "dai", 1],
+    [20, "[unknown]", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aceb9eac-4934-46c5-9b57-a32bf2386350", "https://vgmdb.net/album/30904"]
 
@@ -1734,107 +1734,107 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/108796"]
 
-[0e8e8687806019dc239fdc9342951c83]
+[0425e5e6e39f7a6682f27e96227f562b]
 catalognumber = "TAM3-0016"
 date = "2007-08-17"
 album = "ひぐらしをひく頃に 音廻し編"
 tracks = [
-    [1, "you の主題によるバイオリン独奏", "TAMUSIC", 0],
-    [2, "Thanks", "TAMUSIC", 0],
-    [3, "Iru", "TAMUSIC", 0],
-    [4, "陰", "TAMUSIC", 0],
-    [5, "Confession", "TAMUSIC", 0],
-    [6, "そらのむこう", "TAMUSIC", 0],
-    [7, "夢想", "TAMUSIC", 0],
-    [8, "feel", "TAMUSIC", 0],
-    [9, "想い ～弦楽七重奏～", "TAMUSIC", 0],
+    [1, "you の主題によるバイオリン独奏", "TAMUSIC", 1],
+    [2, "Thanks", "TAMUSIC", 1],
+    [3, "Iru", "TAMUSIC", 1],
+    [4, "陰", "TAMUSIC", 1],
+    [5, "Confession", "TAMUSIC", 1],
+    [6, "そらのむこう", "TAMUSIC", 1],
+    [7, "夢想", "TAMUSIC", 1],
+    [8, "feel", "TAMUSIC", 1],
+    [9, "想い ～弦楽七重奏～", "TAMUSIC", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dcf1902f-0405-45fc-b0e4-9c1279b2abb3", "https://vgmdb.net/album/6438"]
 
-[4b4c23934dcf0a7650edfc9a2704b4e1]
+[585ae217b00c1640702e150b1ee75b2a]
 catalognumber = "WFCD-007"
 date = "2007-08-17"
 album = "you / 雪野五月"
 tracks = [
-    [1, "you", "雪野五月", 0],
-    [2, "thanks", "雪野五月", 0],
-    [3, "you <Off Vocal version>", "雪野五月", 0],
-    [4, "thanks <Off Vocal version>", "雪野五月", 0],
+    [1, "you", "雪野五月", 1],
+    [2, "thanks", "雪野五月", 1],
+    [3, "you <Off Vocal version>", "雪野五月", 1],
+    [4, "thanks <Off Vocal version>", "雪野五月", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/19b1984b-01cb-4331-80df-ca8c0cfd10e5", "https://vgmdb.net/album/5049"]
 
-[8f1126bb75754023ff797ca83ddb5277]
+[f74f323050e65a3635f6693b27e4315c]
 catalognumber = "ZNCD-0001"
 date = "2007-08-17"
 album = "Loop the Pool"
 tracks = [
-    [1, "you", "", 0],
+    [1, "you", "", 1],
     [2, "否光船", "", 0],
     [3, "雛三沢", "", 0],
     [4, "風見の鳥", "", 0],
-    [5, "古手神社", "", 0],
+    [5, "古手神社", "", 1],
     [6, "夕焼け", "", 0],
     [7, "(no title available)", "", 0],
     [8, "みー", "", 0],
 ]
 links = ["https://vgmdb.net/album/123150"]
 
-[a0fed4219413e2b5c7131affacbab273]
+[2359858940b8368b7d1dc75d5df7a9da]
 catalognumber = "FCCM-0194"
 date = "2007-08-22"
 album = "対象a / anNina"
 tracks = [
-    [1, "対象a", "anNina", 0],
-    [2, "ロートシルトRh-", "anNina", 0],
-    [3, "対象a Instrumental", "anNina", 0],
-    [4, "ロートシルトRh- Instrumental", "anNina", 0],
+    [1, "対象a", "anNina", 1],
+    [2, "ロートシルトRh-", "anNina", 1],
+    [3, "対象a Instrumental", "anNina", 1],
+    [4, "ロートシルトRh- Instrumental", "anNina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dc39121a-5cb4-4cfd-9b70-6fc04e068c44", "https://vgmdb.net/album/6817"]
 
-[b18028a22fbe42207cfa9a1bf563ff27]
+[698f92beb0ce7f092613efd29bb11cf4]
 catalognumber = "FCCM-0193"
 date = "2007-08-22"
 album = "奈落の花 / 島みやえい子"
 tracks = [
-    [1, "奈落の花", "島みやえい子", 0],
-    [2, "FLOW", "島みやえい子", 0],
-    [3, "奈落の花 Instrumental", "島みやえい子", 0],
-    [4, "FLOW Instrumental", "島みやえい子", 0],
+    [1, "奈落の花", "島みやえい子", 1],
+    [2, "FLOW", "島みやえい子", 1],
+    [3, "奈落の花 Instrumental", "島みやえい子", 1],
+    [4, "FLOW Instrumental", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f09b7d36-a0eb-4b6f-b18a-04e0198be860", "https://vgmdb.net/album/5871"]
 
-[a68d277da64bd2a0dffe70675533a8e0]
+[0adfde50c20d2935699ec2af09b99704]
 catalognumber = "FCCM-0189"
 date = "2007-08-24"
 album = "DJCD「ひぐらしのなく頃に」猿回し編 第二巻"
 tracks = [
-    [1, "レナ&魅音のオープニングトーク", "", 0],
-    [2, "ミニコント 第7回", "", 0],
-    [3, "ミニコント 第8回", "", 0],
-    [4, "新録 ザ・部活!", "", 0],
-    [5, "ミニコント 第9回", "", 0],
-    [6, "ミニコント 第10回", "", 0],
-    [7, "ザ・部活! 名作選&未公開トーク", "", 0],
-    [8, "ミニコント 第11回", "", 0],
-    [9, "ミニコント 第12回", "", 0],
-    [10, "新録 かけらさがし", "", 0],
-    [11, "かけらさがし 名作選&未公開恐怖", "", 0],
-    [12, "ミニコント 新作1", "", 0],
-    [13, "出張 ザ・部活!", "", 0],
-    [14, "ミニコント 新作2", "", 0],
-    [15, "レナ&魅音のエンディングトーク", "", 0],
+    [1, "レナ&魅音のオープニングトーク", "", 1],
+    [2, "ミニコント 第7回", "", 1],
+    [3, "ミニコント 第8回", "", 1],
+    [4, "新録 ザ・部活!", "", 1],
+    [5, "ミニコント 第9回", "", 1],
+    [6, "ミニコント 第10回", "", 1],
+    [7, "ザ・部活! 名作選&未公開トーク", "", 1],
+    [8, "ミニコント 第11回", "", 1],
+    [9, "ミニコント 第12回", "", 1],
+    [10, "新録 かけらさがし", "", 1],
+    [11, "かけらさがし 名作選&未公開恐怖", "", 1],
+    [12, "ミニコント 新作1", "", 1],
+    [13, "出張 ザ・部活!", "", 1],
+    [14, "ミニコント 新作2", "", 1],
+    [15, "レナ&魅音のエンディングトーク", "", 1],
 ]
 links = ["https://vgmdb.net/album/102428"]
 
-[024416b47bb5c1ab7beda7d2e9c16aa1]
+[aca8fda59df166143086624d964ea4e0]
 catalognumber = "QWCE-00025"
 date = "2007-09-19"
 album = "EXIT TRANCE PRESENTS CODE SPEED アニメトランス BEST"
 tracks = [
     [1, "もってけ！セーラーふく", "KNEE SOCKS", 0],
-    [2, "ハレ晴レユカイ", "Ma15", 0],
+    [2, "ハレ晴レユカイ", "Ma15", 1],
     [3, "創聖のアクエリオン", "chum", 0],
-    [4, "God Knows…", "KEIKO", 0],
+    [4, "God Knows…", "KEIKO", 1],
     [5, "Butter-fly", "NINE", 0],
     [6, "緋色の空", "chum", 0],
     [7, "晴れてハレルヤ", "KEIKO", 0],
@@ -1842,7 +1842,7 @@ tracks = [
     [9, "夢想歌", "chum", 0],
     [10, "ゆずれない願い", "YURiE", 0],
     [11, "Re-Sublimity", "chum", 0],
-    [12, "ひぐらしのなく頃に", "chum", 0],
+    [12, "ひぐらしのなく頃に", "chum", 1],
     [13, "最強○×計画", "Ma15", 0],
     [14, "DANZEN!ふたりはプリキュア", "YURiE", 0],
     [15, "宇宙で恋は☆るるんルーン", "Ma15", 0],
@@ -1854,120 +1854,120 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7c47880f-c8bd-42be-a003-e38739214faf", "https://vgmdb.net/album/29340"]
 
-[e5197215dca02b1242ee40dd0083603a]
+[4ba61196f5e71e4f7d4119792c5c7e1c]
 catalognumber = "WFCD-008"
 date = "2007-10-26"
 album = "ドラマCD ひぐらしのなく頃に アペンドディスク02 Disc 1"
 tracks = [
-    [1, "野球勝負 その1", "", 0],
-    [2, "野球勝負 その2", "", 0],
-    [3, "野球勝負 その3", "", 0],
-    [4, "野球勝負 その4", "", 0],
-    [5, "トラップ講座 初級", "", 0],
-    [6, "トラップ講座 中級", "", 0],
-    [7, "トラップ講座 上級", "", 0],
-    [8, "5年目の犠牲者", "", 0],
-    [9, "照会要請", "", 0],
-    [10, "雛見沢大災害報道", "", 0],
+    [1, "野球勝負 その1", "", 1],
+    [2, "野球勝負 その2", "", 1],
+    [3, "野球勝負 その3", "", 1],
+    [4, "野球勝負 その4", "", 1],
+    [5, "トラップ講座 初級", "", 1],
+    [6, "トラップ講座 中級", "", 1],
+    [7, "トラップ講座 上級", "", 1],
+    [8, "5年目の犠牲者", "", 1],
+    [9, "照会要請", "", 1],
+    [10, "雛見沢大災害報道", "", 1],
 ]
 links = ["https://vgmdb.net/album/4665"]
 
-[584e15f118085c27367ae67ed2713a10]
+[e912ea0bf7b0c108af5f841cbc52b483]
 catalognumber = "WFCD-008"
 date = "2007-10-26"
 album = "ドラマCD ひぐらしのなく頃に アペンドディスク02 Disc 2"
 tracks = [
-    [1, "雪絵との電話", "", 0],
-    [2, "トランクの雛", "", 0],
-    [3, "順調", "", 0],
-    [4, "麦茶と紅茶と石臼と", "", 0],
-    [5, "鬼の目にもなんとか", "", 0],
-    [6, "にじんだ日記", "", 0],
-    [7, "くしゃくしゃの日記", "", 0],
-    [8, "粉々の日記", "", 0],
-    [9, "叔父夫婦と悟史たち", "", 0],
-    [10, "オヤシロさまの祟り、考察", "", 0],
-    [11, "詩音のノート抜粋", "", 0],
-    [12, "幸せのノート", "", 0],
-    [13, "チャンバラで勘当", "", 0],
+    [1, "雪絵との電話", "", 1],
+    [2, "トランクの雛", "", 1],
+    [3, "順調", "", 1],
+    [4, "麦茶と紅茶と石臼と", "", 1],
+    [5, "鬼の目にもなんとか", "", 1],
+    [6, "にじんだ日記", "", 1],
+    [7, "くしゃくしゃの日記", "", 1],
+    [8, "粉々の日記", "", 1],
+    [9, "叔父夫婦と悟史たち", "", 1],
+    [10, "オヤシロさまの祟り、考察", "", 1],
+    [11, "詩音のノート抜粋", "", 1],
+    [12, "幸せのノート", "", 1],
+    [13, "チャンバラで勘当", "", 1],
 ]
 links = ["https://vgmdb.net/album/4665"]
 
-[df6fb7ecd2a14b2fa92047e697df8121]
+[886db76d9513a2c330570d05a7a2b03c]
 catalognumber = "ALCG-0001"
 date = "2007-11-22"
 album = "ドラマCDシリーズ ひぐらしのなく頃に祭 羞晒し編 Drama"
 tracks = [
-    [1, "はじめに", "", 0],
-    [2, "プールに行こう", "", 0],
-    [3, "寝坊と遅刻、そして", "", 0],
-    [4, "救いの手と悪魔のささやき", "", 0],
-    [5, "プールに集まる天使たち", "", 0],
-    [6, "なんてこったい", "", 0],
-    [7, "取られてたまるか!", "", 0],
-    [8, "オキテ破りの大乱戦", "", 0],
-    [9, "四天王集結、もはやカオス", "", 0],
-    [10, "誰だって、自分が一番", "", 0],
-    [11, "これにて一件落着……か?", "", 0],
+    [1, "はじめに", "", 1],
+    [2, "プールに行こう", "", 1],
+    [3, "寝坊と遅刻、そして", "", 1],
+    [4, "救いの手と悪魔のささやき", "", 1],
+    [5, "プールに集まる天使たち", "", 1],
+    [6, "なんてこったい", "", 1],
+    [7, "取られてたまるか!", "", 1],
+    [8, "オキテ破りの大乱戦", "", 1],
+    [9, "四天王集結、もはやカオス", "", 1],
+    [10, "誰だって、自分が一番", "", 1],
+    [11, "これにて一件落着……か?", "", 1],
 ]
 links = ["https://vgmdb.net/album/6818"]
 
-[fc44fa2e4df6ef9667666f89ab9aca18]
+[3cb2083cdf1929b440a9a86bb2fa00a5]
 catalognumber = "ALCG-0001"
 date = "2007-11-22"
 album = "ドラマCDシリーズ ひぐらしのなく頃に祭 羞晒し編 Arrangement, Talk"
 tracks = [
-    [1, "「嘆きノ森」ストリングスVer.", "", 0],
-    [2, "声優座談会 (保志総一郎・中原麻衣・雪野五月)", "", 0],
+    [1, "「嘆きノ森」ストリングスVer.", "", 1],
+    [2, "声優座談会 (保志総一郎・中原麻衣・雪野五月)", "", 1],
 ]
 links = ["https://vgmdb.net/album/6818"]
 
-[997876b83cade573e0271ed732cf5822]
+[f3a511b05885e1fa89b7eda7a1780608]
 catalognumber = "FCCM-0199"
 date = "2007-12-12"
 album = "TVアニメーション『ひぐらしのなく頃に解』 SOUNDTRACK vol.1"
 tracks = [
-    [1, "メイン・テーマ -解", "川井憲次", 0],
-    [2, "平穏無事 ～slow ver.～", "川井憲次", 0],
-    [3, "意図 ～alternative ver.～", "川井憲次", 0],
-    [4, "予感", "川井憲次", 0],
-    [5, "壊滅", "川井憲次", 0],
-    [6, "ミチシルベ ~Piano ver.~", "川井憲次", 0],
-    [7, "かわいいカミサマ", "川井憲次", 0],
-    [8, "懐疑", "川井憲次", 0],
-    [9, "潜行", "川井憲次", 0],
-    [10, "山狗", "川井憲次", 0],
-    [11, "被虐 ～another ver.～", "川井憲次", 0],
-    [12, "ハリキって行こう！ ～slow ver.～", "川井憲次", 0],
-    [13, "メイン・テーマ -解 ～Piano ver.～", "川井憲次", 0],
-    [14, "罠", "川井憲次", 0],
-    [15, "静かなる抗議", "川井憲次", 0],
-    [16, "失意", "川井憲次", 0],
-    [17, "いつも通り", "川井憲次", 0],
-    [18, "儚", "川井憲次", 0],
-    [19, "解明", "川井憲次", 0],
-    [20, "被虐", "川井憲次", 0],
-    [21, "真相", "川井憲次", 0],
-    [22, "激突", "川井憲次", 0],
-    [23, "ものがたり ～Piano ver.～", "川井憲次", 0],
-    [24, "宿望", "川井憲次", 0],
-    [25, "メイン・テーマ -解 ～another ver.～", "川井憲次", 0],
-    [26, "奈落の花 -Short Version-", "島みやえい子", 0],
+    [1, "メイン・テーマ -解", "川井憲次", 1],
+    [2, "平穏無事 ～slow ver.～", "川井憲次", 1],
+    [3, "意図 ～alternative ver.～", "川井憲次", 1],
+    [4, "予感", "川井憲次", 1],
+    [5, "壊滅", "川井憲次", 1],
+    [6, "ミチシルベ ~Piano ver.~", "川井憲次", 1],
+    [7, "かわいいカミサマ", "川井憲次", 1],
+    [8, "懐疑", "川井憲次", 1],
+    [9, "潜行", "川井憲次", 1],
+    [10, "山狗", "川井憲次", 1],
+    [11, "被虐 ～another ver.～", "川井憲次", 1],
+    [12, "ハリキって行こう！ ～slow ver.～", "川井憲次", 1],
+    [13, "メイン・テーマ -解 ～Piano ver.～", "川井憲次", 1],
+    [14, "罠", "川井憲次", 1],
+    [15, "静かなる抗議", "川井憲次", 1],
+    [16, "失意", "川井憲次", 1],
+    [17, "いつも通り", "川井憲次", 1],
+    [18, "儚", "川井憲次", 1],
+    [19, "解明", "川井憲次", 1],
+    [20, "被虐", "川井憲次", 1],
+    [21, "真相", "川井憲次", 1],
+    [22, "激突", "川井憲次", 1],
+    [23, "ものがたり ～Piano ver.～", "川井憲次", 1],
+    [24, "宿望", "川井憲次", 1],
+    [25, "メイン・テーマ -解 ～another ver.～", "川井憲次", 1],
+    [26, "奈落の花 -Short Version-", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3c8fbe4f-f17d-435c-b9d3-2f3ab072a8b7", "https://vgmdb.net/album/17908"]
 
-[e38051ddcda5619d3d45b0517165fddd]
+[38f8435fb064b9b639597f55e8a0101f]
 catalognumber = "OYAP-0001A"
 date = "2007-12-15"
 album = "ひぐらしのなく頃に 主題歌 「WHEEL OF FORTUNE（運命の輪）」 short Ver. / 島みや えい子"
 tracks = [
-    [1, "WHEEL OF FORTUNE (運命の輪) short ver.", "島みやえい子", 0],
-    [2, "オリジナルミニドラマ「ひぐらし映画祭り～feat.TOMY～」1", "[dialogue]", 0],
-    [3, "オリジナルミニドラマ「ひぐらし映画祭り～feat.TOMY～」2", "[dialogue]", 0],
+    [1, "WHEEL OF FORTUNE (運命の輪) short ver.", "島みやえい子", 1],
+    [2, "オリジナルミニドラマ「ひぐらし映画祭り～feat.TOMY～」1", "[dialogue]", 1],
+    [3, "オリジナルミニドラマ「ひぐらし映画祭り～feat.TOMY～」2", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aca12d2a-4b03-4dc4-a533-8470baabf430", "https://vgmdb.net/album/102610"]
 
-[15d35d05a045f3a3712ed6cf1da1f2ce]
+[56ed255344546d84c67ca7dfec46ee7d]
 catalognumber = "QWCE-00033"
 date = "2007-12-19"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 2"
@@ -1975,7 +1975,7 @@ tracks = [
     [1, "Genesis Of Aquarion", "FLORENCE", 0],
     [2, "クリティウスの牙", "社長", 0],
     [3, "雪、無音、窓辺にて。", "KANA", 0],
-    [4, "奈落の花", "YURiE", 0],
+    [4, "奈落の花", "YURiE", 1],
     [5, "Nowhere", "MAKI", 0],
     [6, "First Kiss", "YURiE", 0],
     [7, "ヘミソフィア", "MAKI", 0],
@@ -1995,42 +1995,42 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7ae8b165-9e3a-442c-98ff-ff34980a5ea9", "https://vgmdb.net/album/29341"]
 
-[ef1c0a7db0212422be401cafa09b8a3e]
+[efba144bbccc5f866995dec55cb51c02]
 catalognumber = "FCCM-0212"
 date = "2007-12-21"
 album = "DJCD ひぐらしのなく頃に解 皿回し編 第一巻"
 tracks = [
-    [1, "レナ&魅音のオープニングトーク", "", 0],
-    [2, "ミニコント 第1回", "", 0],
-    [3, "ミニコント 第2回", "", 0],
-    [4, "新録 ザ・部活!", "", 0],
-    [5, "ミニコント 第3回", "", 0],
-    [6, "ザ・部活!名作選", "", 0],
-    [7, "ミニコント 第4回", "", 0],
-    [8, "新録 エンジェルモートへようこそ!", "", 0],
-    [9, "ミニコント 新作1", "", 0],
-    [10, "新録 かけらさがし", "", 0],
-    [11, "かけらさがし 名作選", "", 0],
-    [12, "ミニコント 新作2", "", 0],
-    [13, "レナ&魅音のエンディングトーク", "", 0],
+    [1, "レナ&魅音のオープニングトーク", "", 1],
+    [2, "ミニコント 第1回", "", 1],
+    [3, "ミニコント 第2回", "", 1],
+    [4, "新録 ザ・部活!", "", 1],
+    [5, "ミニコント 第3回", "", 1],
+    [6, "ザ・部活!名作選", "", 1],
+    [7, "ミニコント 第4回", "", 1],
+    [8, "新録 エンジェルモートへようこそ!", "", 1],
+    [9, "ミニコント 新作1", "", 1],
+    [10, "新録 かけらさがし", "", 1],
+    [11, "かけらさがし 名作選", "", 1],
+    [12, "ミニコント 新作2", "", 1],
+    [13, "レナ&魅音のエンディングトーク", "", 1],
 ]
 links = ["https://vgmdb.net/album/99498"]
 
-[4e870e38d6734864d190ea6eb05b6930]
+[9371c7755361d8a3ee4c99ccca124aa4]
 catalognumber = "FCCM-020901"
 date = "2007-12-21"
 album = "TVアニメーション『ひぐらしのなく頃に解』イメージアルバム こころむすび [初回限定盤] Vocal"
 tracks = [
-    [1, "紡ぎばなし", "onoken", 0],
-    [2, "月下の決闘者", "TERRA、片霧烈火", 0],
-    [3, "common wish", "癒月", 0],
-    [4, "integral integral", "Annabel", 0],
-    [5, "少女の薄明", "霜月はるか", 0],
-    [6, "陽炎", "結月そら", 0],
-    [7, "入魂撃破!～君を守るために～", "綾菓", 0],
-    [8, "ワタシのタメのセカイのアリカタ", "片霧烈火", 0],
-    [9, "祭囃しが聞こえる", "茶太", 0],
-    [10, "こころむすび", "こころむすびオールスターズ", 0],
+    [1, "紡ぎばなし", "onoken", 1],
+    [2, "月下の決闘者", "TERRA、片霧烈火", 1],
+    [3, "common wish", "癒月", 1],
+    [4, "integral integral", "Annabel", 1],
+    [5, "少女の薄明", "霜月はるか", 1],
+    [6, "陽炎", "結月そら", 1],
+    [7, "入魂撃破!～君を守るために～", "綾菓", 1],
+    [8, "ワタシのタメのセカイのアリカタ", "片霧烈火", 1],
+    [9, "祭囃しが聞こえる", "茶太", 2],
+    [10, "こころむすび", "こころむすびオールスターズ", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/a31e7cb8-3239-478d-aca3-55e2d918524c", "https://vgmdb.net/album/8350"]
 
@@ -2043,46 +2043,46 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/8350"]
 
-[6e064ed4f4443baca36b3eec961f7c10]
+[25d8b627156db9e54d3cb7ed4a1e73ac]
 catalognumber = "FCCM-0209"
 date = "2007-12-21"
 album = "TVアニメーション『ひぐらしのなく頃に解』イメージアルバム こころむすび"
 tracks = [
-    [1, "紡ぎばなし", "onoken", 0],
-    [2, "月下の決闘者", "TERRA、片霧烈火", 0],
-    [3, "common wish", "癒月", 0],
-    [4, "integral integral", "Annabel", 0],
-    [5, "少女の薄明", "霜月はるか", 0],
-    [6, "陽炎", "結月そら", 0],
-    [7, "入魂撃破!～君を守るために～", "綾菓", 0],
-    [8, "ワタシのタメのセカイのアリカタ", "片霧烈火", 0],
-    [9, "祭囃しが聞こえる", "茶太", 0],
-    [10, "こころむすび", "こころむすびオールスターズ", 0],
+    [1, "紡ぎばなし", "onoken", 1],
+    [2, "月下の決闘者", "TERRA、片霧烈火", 1],
+    [3, "common wish", "癒月", 1],
+    [4, "integral integral", "Annabel", 1],
+    [5, "少女の薄明", "霜月はるか", 1],
+    [6, "陽炎", "結月そら", 1],
+    [7, "入魂撃破!～君を守るために～", "綾菓", 1],
+    [8, "ワタシのタメのセカイのアリカタ", "片霧烈火", 1],
+    [9, "祭囃しが聞こえる", "茶太", 1],
+    [10, "こころむすび", "こころむすびオールスターズ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a31e7cb8-3239-478d-aca3-55e2d918524c", "https://vgmdb.net/album/8349"]
 
-[7823265fe689ef1d6bbeafbbf7adf873]
+[0fda40974f76a9c59462dc6c44695862]
 catalognumber = "COOL-0001"
 date = "2007-12-29"
 album = "ひぐらしのなく頃に 解 COMIC MARKET 73 LIMITED CD"
 tracks = [
-    [1, "「ひぐらしのなく頃に解」 ～character case book～ スペシャルミックスメドレー", "", 0],
-    [2, "・一、失われた記憶を求めて", "", 0],
-    [3, "魅音のオヤシロさまランド", "", 0],
-    [4, "見参!雛見沢・ウルブラザーズ", "", 0],
+    [1, "「ひぐらしのなく頃に解」 ～character case book～ スペシャルミックスメドレー", "", 1],
+    [2, "・一、失われた記憶を求めて", "", 1],
+    [3, "魅音のオヤシロさまランド", "", 1],
+    [4, "見参!雛見沢・ウルブラザーズ", "", 1],
 ]
 links = ["https://vgmdb.net/album/30877"]
 
-[19893f98f4ca93fdf2fe1fd64399e1e4]
+[e70ec958575c8db3869c7c442eb2739e]
 catalognumber = "FCCM-0200"
 date = "2007-12-29"
 album = "TVアニメーション ひぐらしのなく頃に解 ～character case book～ Vol.1 羽入(堀江由衣) Link 古手梨花(たむらゆかり)"
 tracks = [
-    [1, "なのです☆", "羽入（堀江由衣）", 0],
-    [2, "S・A・G・A〜輪廻の果てに〜", "古手梨花（田村ゆかり）", 0],
-    [3, "オリジナルドラマ 「以心伝心？」", "羽入（堀江由衣）、古手梨花（田村ゆかり）、前原圭一（保志総一朗）、竜宮レナ（中原麻衣）、園崎魅音（雪野五月）、北条沙都子（かないみか）", 0],
-    [4, "なのです☆－羽入いないのですver.－", "江幡育子", 0],
-    [5, "S・A・G・A〜輪廻の果てに〜－梨花いないver.－", "DY-T", 0],
+    [1, "なのです☆", "羽入（堀江由衣）", 1],
+    [2, "S・A・G・A〜輪廻の果てに〜", "古手梨花（田村ゆかり）", 1],
+    [3, "オリジナルドラマ 「以心伝心？」", "羽入（堀江由衣）、古手梨花（田村ゆかり）、前原圭一（保志総一朗）、竜宮レナ（中原麻衣）、園崎魅音（雪野五月）、北条沙都子（かないみか）", 1],
+    [4, "なのです☆－羽入いないのですver.－", "江幡育子", 1],
+    [5, "S・A・G・A〜輪廻の果てに〜－梨花いないver.－", "DY-T", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/963323a2-47d2-4cc9-973e-2a972f01c4e0", "https://vgmdb.net/album/52355"]
 
@@ -2107,26 +2107,26 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/154624"]
 
-[2fc8f6e9e591ed307843b5fd249e7422]
+[8bf2ace807c5a0bd654c92d613e4c711]
 catalognumber = "N/A"
 date = "2007-12-31"
 album = "cul-de-sac"
 tracks = [
-    [1, "you", "", 0],
-    [2, "utu", "", 0],
-    [3, "Solitude", "", 0],
-    [4, "見えぬ未来", "", 0],
-    [5, "you -destructive", "", 0],
-    [6, "胎動", "", 0],
-    [7, "祝祭", "", 0],
-    [8, "Sheep counts", "", 0],
+    [1, "you", "", 1],
+    [2, "utu", "", 1],
+    [3, "Solitude", "", 1],
+    [4, "見えぬ未来", "", 1],
+    [5, "you -destructive", "", 1],
+    [6, "胎動", "", 1],
+    [7, "祝祭", "", 1],
+    [8, "Sheep counts", "", 1],
     [9, "Rain/Squall", "", 0],
-    [10, "Birth and death", "", 0],
-    [11, "そらのむこう (piano)", "", 0],
+    [10, "Birth and death", "", 1],
+    [11, "そらのむこう (piano)", "", 1],
 ]
 links = ["https://vgmdb.net/album/123154"]
 
-[65a70b1c83bed898b77f11fe0488cad6]
+[95e4e369a144a00770b67f49180158a0]
 catalognumber = "MGWV-0001"
 date = "2007-12-31"
 album = "On Your Mark -forked road-"
@@ -2137,16 +2137,16 @@ tracks = [
     [4, "Morning always comes", "", 0],
     [5, "on your mark", "", 0],
     [6, "tomorrow", "", 0],
-    [7, "you -Gratitude-", "", 0],
+    [7, "you -Gratitude-", "", 1],
 ]
 links = ["https://vgmdb.net/album/6556"]
 
-[37e2f08ef7eecef09988fcbf255f956a]
+[dbf4183ca48ef90525b35eef6a78d411]
 catalognumber = "N/A"
 date = "2007-12-31"
 album = "M.Graveyard突発CD ~ 生まれてきてくれてありがとう"
 tracks = [
-    [1, "Thanks（you/thanks + yours/2）", "", 0],
+    [1, "Thanks（you/thanks + yours/2）", "", 1],
     [2, "陰（another version）", "", 0],
     [3, "Bouquet of funeral（Cradle song arrange）", "", 0],
     [4, "雨（hope arrange）", "", 0],
@@ -2155,24 +2155,24 @@ tracks = [
     [7, "hope Ver0.5（hope another version）", "", 0],
     [8, "生まれてきてくれてありがとう（demo version）", "", 0],
     [9, "生まれてきてくれてありがとう（inst）", "", 0],
-    [10, "you", "", 0],
+    [10, "you", "", 1],
 ]
 links = ["https://vgmdb.net/album/6463"]
 
-[7ab879fdba1c6093e8d5ae524389242f]
+[f0aca1d9c519ecfc402bea3ca6291415]
 catalognumber = "TAM3-0022"
 date = "2007-12-31"
 album = "ひぐれし森の演奏会"
 tracks = [
-    [1, "Thanks", "TAMUSIC", 0],
+    [1, "Thanks", "TAMUSIC", 1],
     [2, "youの主題によるピアノ即興曲", "TAMUSIC", 0],
-    [3, "そらのむこう", "TAMUSIC", 0],
-    [4, "空夢", "TAMUSIC", 0],
-    [5, "Confession", "TAMUSIC", 0],
-    [6, "feel", "TAMUSIC", 0],
-    [7, "夢想", "TAMUSIC", 0],
-    [8, "月影", "TAMUSIC", 0],
-    [9, "Birth and Death", "TAMUSIC", 0],
+    [3, "そらのむこう", "TAMUSIC", 1],
+    [4, "空夢", "TAMUSIC", 1],
+    [5, "Confession", "TAMUSIC", 1],
+    [6, "feel", "TAMUSIC", 1],
+    [7, "夢想", "TAMUSIC", 1],
+    [8, "月影", "TAMUSIC", 1],
+    [9, "Birth and Death", "TAMUSIC", 1],
     [10, "包み込む仲間への想い～弦楽四重奏～", "TAMUSIC", 0],
     [11, "youワルツ～音楽教室の舞踏会～", "TAMUSIC", 0],
 ]
@@ -2195,16 +2195,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102604"]
 
-[a8a402f9a1d757f7131ee2a395cfd4ba]
+[eae91148e2309be3a02c6ac00aef1119]
 catalognumber = "FCCM-0201"
 date = "2008-01-16"
 album = "TVアニメーション ひぐらしのなく頃に解 ～character case book～ Vol.2 鷹野三四(伊藤美紀) Link 富竹ジロウ(大川透)"
 tracks = [
-    [1, "梵~karma~", "鷹野三四（伊藤美紀）", 0],
-    [2, "愛のイナズマ閃光", "富竹ジロウ（大川透）", 0],
-    [3, "オリジナルドラマ FM雛見沢「鷹野三四の明るい雛美沢」", "[dialogue]", 0],
-    [4, "梵~karma~ -鷹野いないver.-", "鷹野三四（伊藤美紀）", 0],
-    [5, "愛のイナズマ閃光 -富竹いないver.-", "富竹ジロウ（大川透）", 0],
+    [1, "梵~karma~", "鷹野三四（伊藤美紀）", 1],
+    [2, "愛のイナズマ閃光", "富竹ジロウ（大川透）", 1],
+    [3, "オリジナルドラマ FM雛見沢「鷹野三四の明るい雛美沢」", "[dialogue]", 1],
+    [4, "梵~karma~ -鷹野いないver.-", "鷹野三四（伊藤美紀）", 1],
+    [5, "愛のイナズマ閃光 -富竹いないver.-", "富竹ジロウ（大川透）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c772b60b-8f68-4159-9b26-5bff82105b36", "https://vgmdb.net/album/52356"]
 
@@ -2229,56 +2229,56 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99479"]
 
-[575563309bf6f2d94d38ca3527dce052]
+[af4b64a7a168dd5c70f456d4f9541163]
 catalognumber = "FCCM-0211"
 date = "2008-01-30"
 album = "TVアニメーション『ひぐらしのなく頃に解』 SOUNDTRACK vol.2"
 tracks = [
-    [1, "メイン・テーマ -囃", "川井憲次", 0],
-    [2, "幸せ", "川井憲次", 0],
-    [3, "密談", "川井憲次", 0],
-    [4, "嵌入", "川井憲次", 0],
-    [5, "乱", "川井憲次", 0],
-    [6, "挫折", "川井憲次", 0],
-    [7, "正義！", "川井憲次", 0],
-    [8, "殺気", "川井憲次", 0],
-    [9, "蹉跌", "川井憲次", 0],
-    [10, "畏怖", "川井憲次", 0],
-    [11, "脱走", "川井憲次", 0],
-    [12, "メイン・テーマ -囃 ～Piano ver.～", "川井憲次", 0],
-    [13, "秘密裏", "川井憲次", 0],
-    [14, "狡猾", "川井憲次", 0],
-    [15, "策略", "川井憲次", 0],
-    [16, "静かなる抗議 -粛", "川井憲次", 0],
-    [17, "焦燥", "川井憲次", 0],
-    [18, "症候群", "川井憲次", 0],
-    [19, "軍", "川井憲次", 0],
-    [20, "悲劇", "川井憲次", 0],
-    [21, "静", "川井憲次", 0],
-    [22, "メイン・テーマ -囃 ～another ver.～", "川井憲次", 0],
-    [23, "対象a ～Short Version～", "anNina", 0],
+    [1, "メイン・テーマ -囃", "川井憲次", 1],
+    [2, "幸せ", "川井憲次", 1],
+    [3, "密談", "川井憲次", 1],
+    [4, "嵌入", "川井憲次", 1],
+    [5, "乱", "川井憲次", 1],
+    [6, "挫折", "川井憲次", 1],
+    [7, "正義！", "川井憲次", 1],
+    [8, "殺気", "川井憲次", 1],
+    [9, "蹉跌", "川井憲次", 1],
+    [10, "畏怖", "川井憲次", 1],
+    [11, "脱走", "川井憲次", 1],
+    [12, "メイン・テーマ -囃 ～Piano ver.～", "川井憲次", 1],
+    [13, "秘密裏", "川井憲次", 1],
+    [14, "狡猾", "川井憲次", 1],
+    [15, "策略", "川井憲次", 1],
+    [16, "静かなる抗議 -粛", "川井憲次", 1],
+    [17, "焦燥", "川井憲次", 1],
+    [18, "症候群", "川井憲次", 1],
+    [19, "軍", "川井憲次", 1],
+    [20, "悲劇", "川井憲次", 1],
+    [21, "静", "川井憲次", 1],
+    [22, "メイン・テーマ -囃 ～another ver.～", "川井憲次", 1],
+    [23, "対象a ～Short Version～", "anNina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4c76b665-0c1b-4cf7-bdc9-07f02af8e8a2", "https://vgmdb.net/album/21625"]
 
-[62953a03d874c96307c79c09619eac0d]
+[7c4c6b2167cea66635aca8585862bc31]
 catalognumber = "FCCM-0202"
 date = "2008-02-14"
 album = "TVアニメーション ひぐらしのなく頃に解 ～character case book～ Vol.3 北条悟史(小林ゆう) Link 前原圭一(保志総一朗)"
 tracks = [
-    [1, "YellowsicKING", "Yu Kobayashi", 0],
-    [2, "クールになれ! ~Keep On Our Love~", "Soichiro Hoshi", 0],
-    [3, "オリジナルドラマ FM雛見沢「圭一・悟史の雛見沢・クール・レイディオ」", "Yu Kobayashi & Soichiro Hoshi", 0],
-    [4, "YellowsicKING -悟史いないver.-", "Yu Kobayashi", 0],
-    [5, "クールになれ! ~Keep On Our Love~ -圭一いないver.-", "Soichiro Hoshi", 0],
+    [1, "YellowsicKING", "Yu Kobayashi", 1],
+    [2, "クールになれ! ~Keep On Our Love~", "Soichiro Hoshi", 1],
+    [3, "オリジナルドラマ FM雛見沢「圭一・悟史の雛見沢・クール・レイディオ」", "Yu Kobayashi & Soichiro Hoshi", 1],
+    [4, "YellowsicKING -悟史いないver.-", "Yu Kobayashi", 1],
+    [5, "クールになれ! ~Keep On Our Love~ -圭一いないver.-", "Soichiro Hoshi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49762bcd-b8b9-4b48-8507-30339d8400cd", "https://vgmdb.net/album/52357"]
 
-[bcea6b75f78ac6814a584d83816f7c64]
+[9b0769441cfeb9e80ac888ed8bcb49bc]
 catalognumber = "WACD-107"
 date = "2008-02-22"
 album = "ドラマCD ひぐらしのなく頃に解 ～罪滅し編～ Disc 1"
 tracks = [
-    [1, "プロローグ", "", 0],
+    [1, "プロローグ", "", 1],
     [2, "スタートダッシュ！", "", 0],
     [3, "対決！圭一とレナ", "", 0],
     [4, "罰ゲームの世界", "", 0],
@@ -2291,7 +2291,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102462"]
 
-[86fbee884afd7e7c085af2c0c9c97f93]
+[860941d70905b7fbd024ae802b120745]
 catalognumber = "WACD-107"
 date = "2008-02-22"
 album = "ドラマCD ひぐらしのなく頃に解 ～罪滅し編～ Disc 2"
@@ -2303,22 +2303,22 @@ tracks = [
     [5, "鉄平襲来", "", 0],
     [6, "父の涙", "", 0],
     [7, "新しい朝", "", 0],
-    [8, "死体処理", "", 0],
+    [8, "死体処理", "", 1],
     [9, "罪の露見", "", 0],
     [10, "許しあう仲間", "", 0],
 ]
 links = ["https://vgmdb.net/album/102462"]
 
-[faccb268cd41dd7e49dca49980ad30ee]
+[a7504194bf6de176ac47a26eb01f3144]
 catalognumber = "WACD-107"
 date = "2008-02-22"
 album = "ドラマCD ひぐらしのなく頃に解 ～罪滅し編～ Disc 3"
 tracks = [
     [1, "永遠の幸せ", "", 0],
-    [2, "綿流し祭", "", 0],
+    [2, "綿流し祭", "", 1],
     [3, "部活風景", "", 0],
     [4, "大石来訪", "", 0],
-    [5, "オヤシロさま", "", 0],
+    [5, "オヤシロさま", "", 1],
     [6, "スクラップ帖", "", 0],
     [7, "レナを追う影", "", 0],
     [8, "鷹野の残したもの", "", 0],
@@ -2362,7 +2362,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102462"]
 
-[cdc5457b42e1b7a67f1efb1a558c95e8]
+[6f32ca94f5e3528a2dcc98353f8a8831]
 catalognumber = "WACD-107"
 date = "2008-02-22"
 album = "ドラマCD ひぐらしのなく頃に解 ～罪滅し編～ Disc 6"
@@ -2373,24 +2373,24 @@ tracks = [
     [4, "最後のチャンス", "", 0],
     [5, "屋根上の決闘", "", 0],
     [6, "月に吠える", "", 0],
-    [7, "あの日、あの場所、全てに『ありがとう』", "", 0],
+    [7, "あの日、あの場所、全てに『ありがとう』", "", 1],
 ]
 links = ["https://vgmdb.net/album/102462"]
 
-[9a0351eb1c82a107e7d3e377b53f6f58]
+[f557b3845db46d893ec4caabb73d33af]
 catalognumber = "GNCV-1004"
 date = "2008-04-02"
 album = "ひかりなでしこ / 島みやえい子"
 tracks = [
     [1, "Introduction", "島みやえい子", 0],
     [2, "ひかりなでしこ", "島みやえい子", 0],
-    [3, "all alone", "島みやえい子", 0],
+    [3, "all alone", "島みやえい子", 1],
     [4, "ATLANTE", "島みやえい子", 0],
     [5, "観覧車", "島みやえい子", 0],
     [6, "scheherazade", "島みやえい子", 0],
-    [7, "奈落の花", "島みやえい子", 0],
+    [7, "奈落の花", "島みやえい子", 1],
     [8, "青い果実", "島みやえい子", 0],
-    [9, "FLOW", "島みやえい子", 0],
+    [9, "FLOW", "島みやえい子", 1],
     [10, "あすなろの木", "島みやえい子", 0],
     [11, "十四の月", "島宮えい子", 0],
     [12, "ハルミチル", "島みやえい子", 0],
@@ -2398,20 +2398,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d70a182d-eaf9-3427-ad32-f81f355c2ae2", "https://vgmdb.net/album/57700"]
 
-[62b892f29ece483edb81f7c367d69581]
+[0ecd0e77222ef4ffd34bc24e9b6f1033]
 catalognumber = "GNCV-1003"
 date = "2008-04-02"
 album = "ひかりなでしこ / 島みやえい子 Disc 1 (CD)"
 tracks = [
     [1, "Introduction", "島みやえい子", 0],
     [2, "ひかりなでしこ", "島みやえい子", 0],
-    [3, "all alone", "島みやえい子", 0],
+    [3, "all alone", "島みやえい子", 1],
     [4, "ATLANTE", "島みやえい子", 0],
     [5, "観覧車", "島みやえい子", 0],
     [6, "scheherazade", "島みやえい子", 0],
-    [7, "奈落の花", "島みやえい子", 0],
+    [7, "奈落の花", "島みやえい子", 1],
     [8, "青い果実", "島みやえい子", 0],
-    [9, "FLOW", "島みやえい子", 0],
+    [9, "FLOW", "島みやえい子", 1],
     [10, "あすなろの木", "島みやえい子", 0],
     [11, "十四の月", "島宮えい子", 0],
     [12, "ハルミチル", "島みやえい子", 0],
@@ -2428,36 +2428,36 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/662338a4-ee52-4644-bcf8-cfb6480539eb", "https://vgmdb.net/album/57701"]
 
-[8ea8bde4d2d39a42b12deb12d3535aac]
+[5b17d7e3d680200cf34227c987b24850]
 catalognumber = "FCCJ-0002"
 date = "2008-04-16"
 album = "WHEEL OF FORTUNE (運命の輪) / 島みやえい子 [初回限定盤] Vocal"
 tracks = [
-    [1, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 0],
-    [2, "ディオラマ", "島みやえい子", 0],
-    [3, "WHEEL OF FORTUNE (運命の輪) -instrumental-", "島みやえい子", 0],
-    [4, "ディオラマ -instrumental-", "島みやえい子", 0],
+    [1, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 1],
+    [2, "ディオラマ", "島みやえい子", 1],
+    [3, "WHEEL OF FORTUNE (運命の輪) -instrumental-", "島みやえい子", 1],
+    [4, "ディオラマ -instrumental-", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/897ea203-99bf-4b38-8012-359a2dd1302e", "https://vgmdb.net/album/27220"]
 
-[c9fdcc5859ae96cb110ea7064a6bf253]
+[9e8fe3e186c29e7df8cbe72b05a0fef7]
 catalognumber = "FCCJ-0002"
 date = "2008-04-16"
 album = "WHEEL OF FORTUNE (運命の輪) / 島みやえい子 [初回限定盤] Video"
 tracks = [
-    [1, "WHEEL OF FORTUNE (運命の輪) (Promotion Video)", "島みやえい子", 0],
+    [1, "WHEEL OF FORTUNE (運命の輪) (Promotion Video)", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/897ea203-99bf-4b38-8012-359a2dd1302e", "https://vgmdb.net/album/27220"]
 
-[5108bb585979e4e2563f729e18787997]
+[7b7b62411395e99ca284853aee6384ea]
 catalognumber = "FCCJ-0001"
 date = "2008-04-16"
 album = "WHEEL OF FORTUNE (運命の輪) / 島みやえい子"
 tracks = [
-    [1, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 0],
-    [2, "ディオラマ", "島みやえい子", 0],
-    [3, "WHEEL OF FORTUNE (運命の輪) -instrumental-", "島みやえい子", 0],
-    [4, "ディオラマ -instrumental-", "島みやえい子", 0],
+    [1, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 1],
+    [2, "ディオラマ", "島みやえい子", 1],
+    [3, "WHEEL OF FORTUNE (運命の輪) -instrumental-", "島みやえい子", 1],
+    [4, "ディオラマ -instrumental-", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/74147ca3-2163-3120-8632-43dbb420d1fb", "https://vgmdb.net/album/27218"]
 
@@ -2492,40 +2492,40 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/156967"]
 
-[a4ecd280f63e5b7c031645fff4a75eac]
+[73c2dea761f1fd816cbd047a4bcb913d]
 catalognumber = "FVCG-1019"
 date = "2008-06-26"
 album = "ひぐらしのなく頃に絆 第一巻・祟 主題歌 「追想のディスペア」 [DVD付限定盤] Vocal Disc 1"
 tracks = [
-    [1, "追想のディスペア", "いとうかなこ", 0],
-    [2, "突風", "いとうかなこ", 0],
-    [3, "追想のディスペア (off vocal)", "いとうかなこ", 0],
-    [4, "突風 (off vocal)", "いとうかなこ", 0],
+    [1, "追想のディスペア", "いとうかなこ", 1],
+    [2, "突風", "いとうかなこ", 1],
+    [3, "追想のディスペア (off vocal)", "いとうかなこ", 1],
+    [4, "突風 (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5d1d3679-ec67-4efb-af6c-9755819b23a5", "https://vgmdb.net/album/9197"]
 
-[2b9670126f533827d3db6cf45c0e4e4f]
+[1598638e9bfad5c33cd88f7ef6450d6e]
 catalognumber = "FVCG-1019"
 date = "2008-06-26"
 album = "ひぐらしのなく頃に絆 第一巻・祟 主題歌 「追想のディスペア」 [DVD付限定盤] Vocal Disc 2"
 tracks = [
-    [1, "追想のディスペア (Music Clip)", "いとうかなこ", 0],
+    [1, "追想のディスペア (Music Clip)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5d1d3679-ec67-4efb-af6c-9755819b23a5", "https://vgmdb.net/album/9197"]
 
-[b745304bc7d3183b7f6127b788afff10]
+[94f8190be81150fd05ba5a2ea9c71a8a]
 catalognumber = "FVCG-1020"
 date = "2008-06-26"
 album = "ひぐらしのなく頃に絆 第一巻・祟 主題歌 「追想のディスペア」"
 tracks = [
-    [1, "追想のディスペア", "いとうかなこ", 0],
-    [2, "突風", "いとうかなこ", 0],
-    [3, "追想のディスペア (off vocal)", "いとうかなこ", 0],
-    [4, "突風 (off vocal)", "いとうかなこ", 0],
+    [1, "追想のディスペア", "いとうかなこ", 1],
+    [2, "突風", "いとうかなこ", 1],
+    [3, "追想のディスペア (off vocal)", "いとうかなこ", 1],
+    [4, "突風 (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8fcfb3e7-e2ca-49a9-a118-db43cf6c0167", "https://vgmdb.net/album/9157"]
 
-[28ed5c2dccc15fb17224a6361c1f93d6]
+[29ab5bb79afcea813af81e5e6981a2df]
 catalognumber = "QWCE-00051"
 date = "2008-07-02"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 4"
@@ -2539,9 +2539,9 @@ tracks = [
     [7, "片翼のイカロス", "Ma15", 0],
     [8, "Dancing in the velvet moon", "KANA", 0],
     [9, "暁の車", "CAMRY", 0],
-    [10, "why, or why not", "YURiE", 0],
+    [10, "why, or why not", "YURiE", 1],
     [11, "SECRET AMBITION", "KANA", 0],
-    [12, "YOU", "CAMRY", 0],
+    [12, "YOU", "CAMRY", 1],
     [13, "Shooting Star", "MAKI", 0],
     [14, "clover", "CAMRY", 0],
     [15, "dis-", "MAKI", 0],
@@ -2553,7 +2553,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4b9e903c-6009-4735-ac6e-3fd2b43e9cb3", "https://vgmdb.net/album/29343"]
 
-[25a8cecc14c14e24f6346228518850c9]
+[6077e33688187838dbf3dccf179b5dd9]
 catalognumber = "VGCD-0152"
 date = "2008-07-30"
 album = "THE WORKS ～志倉千代丸楽曲集～ 2.0"
@@ -2569,24 +2569,24 @@ tracks = [
     [9, "そよ風のシルエ", "彩音", 0],
     [10, "Shine~降りそそぐ風のように~", "藤重政孝", 0],
     [11, "Find the blue", "いとうかなこ", 0],
-    [12, "コンプレックス・イマージュ", "彩音", 0],
+    [12, "コンプレックス・イマージュ", "彩音", 1],
     [13, "cloudier sky", "彩音", 0],
     [14, "その小さな小さな微笑みで", "KAORI", 0],
     [15, "Close Your Eyes", "彩音", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/382a3e83-4777-446d-a987-22142b37bd4d", "https://vgmdb.net/album/9596"]
 
-[f7a0a006f11093c68d845744e8cb6e54]
+[290a175ef3173b05ff16d8754bf4a44b]
 catalognumber = "FCCM-0241"
 date = "2008-08-15"
 album = "TVアニメーション「ひぐらしのなく頃に解」 Character CD～入江たちの逆襲～"
 tracks = [
-    [1, "HEAVEN's Door", "関俊彦", 0],
-    [2, "BUCHIKAMACE 徹甲弾!", "小野大輔", 0],
-    [3, "知恵先生のカレーライス音頭", "折笠富美子", 0],
-    [4, "HEAVEN's Door-入江off ver.-", "関俊彦", 0],
-    [5, "BUCHIKAMACE 徹甲弾!-赤坂off ver.-", "小野大輔", 0],
-    [6, "知恵先生のカレーライス音頭-知恵先生off ver.-", "折笠富美子", 0],
+    [1, "HEAVEN's Door", "関俊彦", 1],
+    [2, "BUCHIKAMACE 徹甲弾!", "小野大輔", 1],
+    [3, "知恵先生のカレーライス音頭", "折笠富美子", 1],
+    [4, "HEAVEN's Door-入江off ver.-", "関俊彦", 1],
+    [5, "BUCHIKAMACE 徹甲弾!-赤坂off ver.-", "小野大輔", 1],
+    [6, "知恵先生のカレーライス音頭-知恵先生off ver.-", "折笠富美子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bcc4e391-4464-4439-9019-33941ed347b0", "https://vgmdb.net/album/60145"]
 
@@ -2602,12 +2602,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/105225"]
 
-[b7e8d5fe907a568c0b69e5c116aaa11d]
+[3c2143ccc982332865dcdfdcc5d971ee]
 catalognumber = "KLNG-0012"
 date = "2008-08-15"
 album = "RADIATION"
 tracks = [
-    [1, "You -Genuine Piano EDIT-", "", 0],
+    [1, "You -Genuine Piano EDIT-", "", 1],
     [2, "BAY BRiDGE", "", 0],
     [3, "Crossline", "", 0],
     [4, "Distance", "", 0],
@@ -2618,31 +2618,31 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/155684"]
 
-[e00fc0dedfeca3faa6d1067ccc19c673]
+[d2cc66c59603f5fccbe0ddd9556e9901]
 catalognumber = "HBMS-041"
 date = "2008-08-15"
 album = "あの日, あの場所, 全てに『ありがとう』"
 tracks = [
-    [1, "あの日, あの場所, 全てに『ありがとう』", "保志総一朗, dai, 羽鳥風画, bAsHEE", 0],
-    [2, "Overload", "保志総一朗, 羽鳥風画", 0],
-    [3, "あの日, あの場所, 全てに『ありがとう』 (Off Vocal version)", "dai, 羽鳥風画, bAsHEE", 0],
-    [4, "Overload (Off Vocal version)", "羽鳥風画", 0],
-    [5, "あの日, あの場所, 全てに『ありがとう』 (羽鳥風画 original version)", "dai, 羽鳥風画, bAsHEE", 0],
-    [6, "あの日, あの場所, 全てに『ありがとう』 (bAsHEE arenge version)", "dai, 羽鳥風画, bAsHEE", 0],
+    [1, "あの日, あの場所, 全てに『ありがとう』", "保志総一朗, dai, 羽鳥風画, bAsHEE", 1],
+    [2, "Overload", "保志総一朗, 羽鳥風画", 1],
+    [3, "あの日, あの場所, 全てに『ありがとう』 (Off Vocal version)", "dai, 羽鳥風画, bAsHEE", 1],
+    [4, "Overload (Off Vocal version)", "羽鳥風画", 1],
+    [5, "あの日, あの場所, 全てに『ありがとう』 (羽鳥風画 original version)", "dai, 羽鳥風画, bAsHEE", 1],
+    [6, "あの日, あの場所, 全てに『ありがとう』 (bAsHEE arenge version)", "dai, 羽鳥風画, bAsHEE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/faa36470-0a3d-4be3-81b9-8180490ed743", "https://vgmdb.net/album/55964"]
 
-[9ff09bde4daa1d25564b947b1455b97a]
+[600f1a352da3f0d604e5b4cc4b2d11b2]
 catalognumber = "FCCM-0242"
 date = "2008-08-15"
 album = "ひぐらしのなく頃に Series Character Song Remix CD 〜なにかがちがうのです☆〜"
 tracks = [
-    [1, "なのです☆〜オヤシロさまBREAKS〜 Re-mixed by DJ SADOI", "", 0],
-    [2, "なのです☆〜ハイスピードあうあうトランス〜 Re-mixed by ティーイベ", "", 0],
-    [3, "なのです☆〜deep smoke mix〜 Re-mixed by peachman", "", 0],
-    [4, "圭一・大石の噂の事件簿ABC〜North Europe Mix〜 Remixed by 西田マサラ", "", 0],
-    [5, "圭一・大石の噂の事件簿ABC〜PSYCHO SPACE MIX〜 Remixed by CHAMAR / TOD AQUARIUM RECORDS", "", 0],
-    [6, "圭一・大石の噂の事件簿ABC〜type-R〜 Remixed by Shingo Ideta", "", 0],
+    [1, "なのです☆〜オヤシロさまBREAKS〜 Re-mixed by DJ SADOI", "", 1],
+    [2, "なのです☆〜ハイスピードあうあうトランス〜 Re-mixed by ティーイベ", "", 1],
+    [3, "なのです☆〜deep smoke mix〜 Re-mixed by peachman", "", 1],
+    [4, "圭一・大石の噂の事件簿ABC〜North Europe Mix〜 Remixed by 西田マサラ", "", 1],
+    [5, "圭一・大石の噂の事件簿ABC〜PSYCHO SPACE MIX〜 Remixed by CHAMAR / TOD AQUARIUM RECORDS", "", 1],
+    [6, "圭一・大石の噂の事件簿ABC〜type-R〜 Remixed by Shingo Ideta", "", 1],
 ]
 links = ["https://vgmdb.net/album/60146"]
 
@@ -2661,7 +2661,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/12208"]
 
-[d26464b7c94f9f4ef7bc341da4c3c03c]
+[f91f93e7f98bb8543a338fade91a156a]
 catalognumber = "GC-0006"
 date = "2008-08-16"
 album = "When they sing Vol.1"
@@ -2673,20 +2673,20 @@ tracks = [
     [5, "Trick Trap!", "閣下", 0],
     [6, "K the magician", "北大路瑞希", 0],
     [7, "片翼の鷲", "北大路瑞希", 0],
-    [8, "you ～Beloved criminal～", "閣下", 0],
+    [8, "you ～Beloved criminal～", "閣下", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b63befc9-2522-4fc7-aa8a-562cf340c8b7", "https://vgmdb.net/album/14777"]
 
-[5420ef9665f3524b4b47d6b29c071b41]
+[c3476ab2c874c0e63ee7f942fc0cc480]
 catalognumber = "WAVE-00027"
 date = "2008-08-16"
 album = "Songs."
 tracks = [
-    [1, "Dear You -Cry-", "癒月", 0],
+    [1, "Dear You -Cry-", "癒月", 1],
     [2, "Wing of the Light -up past the Russell Hotel-", "Annabel", 0],
     [3, "祈りにも似た", "片霧烈火", 0],
     [4, "ひだまり", "dai", 0],
-    [5, "thanks", "癒月", 0],
+    [5, "thanks", "癒月", 1],
     [6, "どこにもない明日", "茶太", 0],
     [7, "Rio ～信じられない話はいつも貴方が運んでくる。～", "Morrigan, 片霧烈火, ビートまりお & 藤枝あかね", 0],
     [8, "After Scene", "Morrigan", 0],
@@ -2740,7 +2740,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/765beef0-e11e-46bb-be5f-7a04b1bea08c", "https://vgmdb.net/album/14588"]
 
-[9d6ac35e5afecf0598f24726e532a862]
+[9d51f75e262a7ea06a6b4b192de7521b]
 catalognumber = "PRIM-1004"
 date = "2008-08-17"
 album = "Piano Chronicle: 歴代名曲 弾いてみた!!"
@@ -2750,30 +2750,30 @@ tracks = [
     [3, "Ragnarok Online -Title-", "primenotes", 0],
     [4, "Live (piano version)", "primenotes", 0],
     [5, "狂気の瞳 ～ Invisible Full Moon", "primenotes", 0],
-    [6, "You", "primenotes", 0],
+    [6, "You", "primenotes", 1],
     [7, "エアーマンが倒せない (ピアノ即興 version)", "primenotes", 0],
     [8, "みくみくにしてあげる♪ (ピアノ即興 version)", "primenotes", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7203d236-0371-48f8-aeee-8e04f0f03252", "https://vgmdb.net/album/49164"]
 
-[4abafe2db00c6ee720df527f3eb0b072]
+[a03211b0696957bb4aeac153b989f4d4]
 catalognumber = "ABCD-001"
 date = "2008-08-22"
 album = "early world's end and sequence"
 tracks = [
     [1, "early world's end and sequence", "", 0],
-    [2, "you (abc rmx from higurashi)", "", 0],
+    [2, "you (abc rmx from higurashi)", "", 1],
     [3, "kimi wo nosete (bals rmx from laputa)", "", 0],
     [4, "kkbtes", "", 0],
 ]
 links = ["https://vgmdb.net/album/29318"]
 
-[3be65888dec0c05990ed76efc158146c]
+[d0be58054869f4e172018a6d3889607c]
 catalognumber = "GCAM-001"
 date = "2008-08-27"
 album = "アニメ★マニア"
 tracks = [
-    [1, "奈落の花", "Yoko Kobayashi", 0],
+    [1, "奈落の花", "Yoko Kobayashi", 1],
     [2, "魂のルフラン", "Rhyme Knight", 0],
     [3, "Secret Ambition", "Fkm", 0],
     [4, "残酷な天使のテーゼ", "Esprit", 0],
@@ -2787,14 +2787,14 @@ tracks = [
     [12, "カラフルDays", "榑林ひろこ", 0],
     [13, "射手座☆午後九時Don't Be Late", "Maximum-Z", 0],
     [14, "Joint", "Yoko Kobayashi", 0],
-    [15, "ハレ晴レユカイ", "Maiko", 0],
+    [15, "ハレ晴レユカイ", "Maiko", 1],
     [16, "射手座☆午後九時Don't Be Late", "Maximum-Z", 0],
     [17, "もってけ! セーラーふく", "新井みずか", 0],
-    [18, "ハレ晴レユカイ", "Maiko", 0],
+    [18, "ハレ晴レユカイ", "Maiko", 1],
     [19, "ハッピー☆マテリアル", "DJ Astro", 0],
     [20, "カラフルDays", "榑林ひろこ", 0],
     [21, "Joint", "Hyper-Hyper", 0],
-    [22, "奈落の花", "Yoko Kobayashi", 0],
+    [22, "奈落の花", "Yoko Kobayashi", 1],
     [23, "創聖のアクエリオン", "Kayoco", 0],
     [24, "First Kiss", "日向野あこ", 0],
     [25, "ハヤテのごとく!", "Mastergo", 0],
@@ -2816,7 +2816,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4b01788-7344-40bf-8463-693cc172ab69", "https://vgmdb.net/album/50061"]
 
-[522993d82db21b1d1070036e6e973a8e]
+[c835cd713b5ebb871f59cd62bea1e120]
 catalognumber = "FCBM-0005EX"
 date = "2008-11-21"
 album = "劇場版 ひぐらしのなく頃に コレクターズエディション 特典CD"
@@ -2828,7 +2828,7 @@ tracks = [
     [5, "祭具殿", "", 0],
     [6, "崇り", "", 0],
     [7, "衝撃", "", 0],
-    [8, "エピローグ", "", 0],
+    [8, "エピローグ", "", 1],
     [9, "劇場版パンフレット限定アニメキャストスペシャルドラマCD", "", 0],
 ]
 links = ["https://vgmdb.net/album/102405"]
@@ -2869,19 +2869,19 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/155115"]
 
-[a7d8c049b3c46d279d5d617d307dadd1]
+[d804dc9342195998415595a218310b08]
 catalognumber = "FVCG-1061"
 date = "2008-12-03"
 album = "ひぐらしのなく頃に絆 第2巻・想 主題歌「プレイス・オブ・ピリオド」"
 tracks = [
-    [1, "プレイス・オブ・ピリオド", "諫山実生", 0],
-    [2, "半分だけの愛", "諫山実生", 0],
-    [3, "プレイス・オブ・ピリオド（off vocal）", "諫山実生", 0],
-    [4, "半分だけの愛（off vocal）", "諫山実生", 0],
+    [1, "プレイス・オブ・ピリオド", "諫山実生", 1],
+    [2, "半分だけの愛", "諫山実生", 1],
+    [3, "プレイス・オブ・ピリオド（off vocal）", "諫山実生", 1],
+    [4, "半分だけの愛（off vocal）", "諫山実生", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/986dbfe8-e2be-40ef-a81e-ff3de5ac5bbc", "https://vgmdb.net/album/11228"]
 
-[400ea69602e7182ea783cda282496857]
+[84ef6241cd19961e1db15b712a006da0]
 catalognumber = "TOCT-26595~6"
 date = "2008-12-03"
 album = "テクノポップ☆アニメ Disc 1 [TOCT-26595]"
@@ -2890,7 +2890,7 @@ tracks = [
     [2, "アンインストール", "MIO", 0],
     [3, "Innocent Starter", "SOLASHITA YU⇒KA", 0],
     [4, "SECRET AMBITION", "MIO", 0],
-    [5, "奈落の花", "Yoko Kobayashi", 0],
+    [5, "奈落の花", "Yoko Kobayashi", 1],
     [6, "残酷な天使のテーゼ", "Coco", 0],
     [7, "Give a Reason", "MIO", 0],
     [8, "サクラサクミライコイユメ", "T-Vox", 0],
@@ -2898,10 +2898,10 @@ tracks = [
     [10, "Agape", "KAYOCO", 0],
     [11, "創聖のアクエリオン", "CORIYO", 0],
     [12, "Shangri-La", "SOLASHITA YU⇒KA", 0],
-    [13, "God Knows", "Mastergo", 0],
+    [13, "God Knows", "Mastergo", 1],
     [14, "JOINT", "KAYOCO", 0],
     [15, "緋色の空", "KAYOCO", 0],
-    [16, "ハレ晴れユカイ", "Coco", 0],
+    [16, "ハレ晴れユカイ", "Coco", 1],
     [17, "カラフルDAYS", "T-Vox", 0],
     [18, "Butter-Fly", "Ryo Utasato", 0],
     [19, "撲殺天使ドクロちゃん", "Kei", 0],
@@ -2909,7 +2909,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/941849a5-ead5-4f00-96a4-747c2cf23c7a", "https://vgmdb.net/album/26877"]
 
-[4f956b38cf55f4e9904efc37d1db7d0b]
+[479d924c256506ef89dd56866e649963]
 catalognumber = "TOCT-26595~6"
 date = "2008-12-03"
 album = "テクノポップ☆アニメ Disc 2 [TOCT-26596]"
@@ -2927,13 +2927,13 @@ tracks = [
     [11, "創聖のアクエリオン (Instrumental)", "", 0],
     [12, "創聖のアクエリオン (A Cappella)", "", 0],
     [13, "Shangri-La (A Cappella)", "", 0],
-    [14, "God Knows... (A Cappella)", "", 0],
+    [14, "God Knows... (A Cappella)", "", 1],
     [15, "緋色の空 (A Cappella)", "", 0],
     [16, "撲殺天使ドクロちゃん (A Cappella)", "", 0],
 ]
 links = ["https://vgmdb.net/album/26877"]
 
-[42db0ff1eefdec6075eebe8966b14536]
+[63defbd92ac36eb1ab18afa1bd26264e]
 catalognumber = "FCCV-0026"
 date = "2008-12-10"
 album = "ANOTHER BEST / いとうかなこ"
@@ -2945,7 +2945,7 @@ tracks = [
     [5, "悲しみの向こうへ", "いとうかなこ", 0],
     [6, "約束 ～girlhood’s end～", "いとうかなこ", 0],
     [7, "ワルツ", "いとうかなこ", 0],
-    [8, "Friend", "いとうかなこ", 0],
+    [8, "Friend", "いとうかなこ", 1],
     [9, "愛は此処に", "いとうかなこ", 0],
     [10, "Heartbreaking Romance", "いとうかなこ", 0],
     [11, "静かなるMoonSign", "いとうかなこ", 0],
@@ -2956,7 +2956,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8ea804dd-118a-4a89-a97f-5f1b89b92468", "https://vgmdb.net/album/99332"]
 
-[8cf13a2b246446d814e7a2a70a6fc29a]
+[e7e17da6e60712325d6aecb178383150]
 catalognumber = "QWCE-00071"
 date = "2008-12-17"
 album = "EXIT TRANCE×痛G痛車グラフィックスPRESENTS 痛車トランス"
@@ -2971,7 +2971,7 @@ tracks = [
     [8, "七転八起☆至上主義！", "YURiE", 0],
     [9, "聖少女領域", "KONEKO PROJECT", 0],
     [10, "緋色の空", "chum", 0],
-    [11, "ひぐらしのなく頃に", "chum", 0],
+    [11, "ひぐらしのなく頃に", "chum", 1],
     [12, "Red Fraction", "Icon feat. FLORENCE", 0],
     [13, "SECRET AMBITION", "KANA", 0],
     [14, "勇侠青春謳", "KONEKO PROJECT", 0],
@@ -2984,7 +2984,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8c3a6eb2-7df0-46c5-addc-04ca5295111d", "https://vgmdb.net/album/119098"]
 
-[e6bdef858c5165d039d1aba9a8b2d871]
+[7c21fca6ad30c1a486b4c84c526f50fe]
 catalognumber = "VAF-003"
 date = "2008-12-17"
 album = "natal / anNina"
@@ -2995,44 +2995,44 @@ tracks = [
     [4, "肥えた太陽", "anNina", 0],
     [5, "目蓋", "anNina", 0],
     [6, "シメオンの海", "anNina", 0],
-    [7, "対象a (adonde vuelvo)", "anNina", 0],
+    [7, "対象a (adonde vuelvo)", "anNina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/448f3fdc-872e-4cb5-a337-3406bfb74283", "https://vgmdb.net/album/64910"]
 
-[aeb8f2ed369ab155925cc47eb318f505]
+[ba98e94f2b4d445b050b0005d60c853f]
 catalognumber = "FVCG-1065"
 date = "2008-12-24"
 album = "「ひぐらしデイブレイク Portable」 その先にある、誰かの笑顔の為に／彩音"
 tracks = [
-    [1, "その先にある、誰かの笑顔の為に", "彩音", 0],
-    [2, "Key of Dream", "彩音", 0],
-    [3, "その先にある、誰かの笑顔の為に (off vocal)", "彩音", 0],
-    [4, "Key of Dream (off vocal)", "彩音", 0],
+    [1, "その先にある、誰かの笑顔の為に", "彩音", 1],
+    [2, "Key of Dream", "彩音", 1],
+    [3, "その先にある、誰かの笑顔の為に (off vocal)", "彩音", 1],
+    [4, "Key of Dream (off vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0b54b4f6-f7f8-3eb1-928a-0c6f858deee5", "https://vgmdb.net/album/11235"]
 
-[90fb3cbb0e792056c8c913f66a536c3d]
+[af6458be2208238504eb363c23f4c8ae]
 catalognumber = "FVCG-1064"
 date = "2008-12-24"
 album = "ひぐらしデイブレイク Portable 主題歌 - その先にある、誰かの笑顔の為に Disc 1 (CD) [FVCG-1064]"
 tracks = [
-    [1, "その先にある、誰かの笑顔の為に", "彩音", 0],
-    [2, "Key of Dream", "彩音", 0],
-    [3, "その先にある、誰かの笑顔の為に (off vocal)", "彩音", 0],
-    [4, "Key of Dream (off vocal)", "彩音", 0],
+    [1, "その先にある、誰かの笑顔の為に", "彩音", 1],
+    [2, "Key of Dream", "彩音", 1],
+    [3, "その先にある、誰かの笑顔の為に (off vocal)", "彩音", 1],
+    [4, "Key of Dream (off vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/469a8410-48f1-480a-ac9f-89acae3a6a29", "https://vgmdb.net/album/11444"]
 
-[41de7486cc8c927455409048a33f1f8a]
+[dcad454d13979c71c0f1e1745751ce4d]
 catalognumber = "FVCG-1064"
 date = "2008-12-24"
 album = "ひぐらしデイブレイク Portable 主題歌 - その先にある、誰かの笑顔の為に Disc 2 (DVD) [FVCG-1064-2]"
 tracks = [
-    [1, "その先にある、誰かの笑顔の為に (Music Clip)", "彩音", 0],
+    [1, "その先にある、誰かの笑顔の為に (Music Clip)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/469a8410-48f1-480a-ac9f-89acae3a6a29", "https://vgmdb.net/album/11444"]
 
-[e21e3fc91d31852ccfa9b65ff5e3e1cd]
+[1a9ec02bafb9b01ec7bef4d0de331120]
 catalognumber = "WAVE-00028~9"
 date = "2008-12-29"
 album = "est Arrangement, Vocal, Original Work"
@@ -3040,7 +3040,7 @@ tracks = [
     [1, "the Call of the Crystals", "WAVE", 0],
     [2, "Du Ney Cie", "WAVE", 0],
     [3, "The Lorelay - Season Of The Trance", "WAVE", 0],
-    [4, "you -mirror sky-", "WAVE", 0],
+    [4, "you -mirror sky-", "WAVE", 1],
     [5, "a summer", "WAVE", 0],
     [6, "La Reina de la arana", "WAVE", 0],
     [7, "Feline, the Another", "WAVE", 0],
@@ -3055,13 +3055,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a213b35f-24e3-4dca-803c-878cf4c2e940", "https://vgmdb.net/album/19416"]
 
-[18dd92a57d392b1ed1db0db1449f8014]
+[e4d7cbe93d131b01040eccb0aab63ab5]
 catalognumber = "WAVE-00028~9"
 date = "2008-12-29"
 album = "est Arrangement, Vocal"
 tracks = [
     [1, "CALDES -inconsapevolezza della gioia-", "WAVE", 0],
-    [2, "もうなかないで Arr.", "WAVE", 0],
+    [2, "もうなかないで Arr.", "WAVE", 1],
     [3, "Lu-PASA (pf steps)", "WAVE", 0],
     [4, "夢のゆりかご", "WAVE", 0],
     [5, "Lo Spirito Del Vento", "WAVE", 0],
@@ -3167,40 +3167,40 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/103211"]
 
-[ecc3e622b1dae74bd6de60efcd63d16d]
+[8bc33eb768923890801d26f9763e4885]
 catalognumber = "PCS-0002"
 date = "2009-02-28"
 album = "ひぐらしのなく頃に Sound Selections Demonstration Disk"
 tracks = [
-    [1, "Cradle song", "", 0],
-    [2, "air pizz", "", 0],
-    [3, "feel", "", 0],
-    [4, "陰 -かげ-", "", 0],
-    [5, "虚", "", 0],
-    [6, "Birth and death", "", 0],
-    [7, "being", "", 0],
-    [8, "confession", "", 0],
-    [9, "conviction", "", 0],
-    [10, "Iru", "", 0],
-    [11, "Gray", "", 0],
-    [12, "空夢", "", 0],
+    [1, "Cradle song", "", 1],
+    [2, "air pizz", "", 1],
+    [3, "feel", "", 1],
+    [4, "陰 -かげ-", "", 1],
+    [5, "虚", "", 1],
+    [6, "Birth and death", "", 1],
+    [7, "being", "", 1],
+    [8, "confession", "", 1],
+    [9, "conviction", "", 1],
+    [10, "Iru", "", 1],
+    [11, "Gray", "", 1],
+    [12, "空夢", "", 1],
     [13, "LIVE", "", 0],
-    [14, "years", "", 0],
-    [15, "Thanks", "", 0],
-    [16, "ふたり。ひとり。", "", 0],
-    [17, "you", "", 0],
-    [18, "そらのむこう -piano-", "", 0],
-    [19, "Frozen memories", "", 0],
-    [20, "Solitude", "", 0],
-    [21, "Rain", "", 0],
-    [22, "鼓動", "", 0],
-    [23, "胎動", "", 0],
-    [24, "what is wished", "", 0],
-    [25, "daily passing by", "", 0],
-    [26, "伝えたいこと", "", 0],
-    [27, "風車小屋の少年", "", 0],
-    [28, "そらのむこう -弾き語り-", "", 0],
-    [29, "you -弾き語り-", "", 0],
+    [14, "years", "", 1],
+    [15, "Thanks", "", 1],
+    [16, "ふたり。ひとり。", "", 1],
+    [17, "you", "", 1],
+    [18, "そらのむこう -piano-", "", 1],
+    [19, "Frozen memories", "", 1],
+    [20, "Solitude", "", 1],
+    [21, "Rain", "", 1],
+    [22, "鼓動", "", 1],
+    [23, "胎動", "", 1],
+    [24, "what is wished", "", 1],
+    [25, "daily passing by", "", 1],
+    [26, "伝えたいこと", "", 1],
+    [27, "風車小屋の少年", "", 1],
+    [28, "そらのむこう -弾き語り-", "", 1],
+    [29, "you -弾き語り-", "", 1],
     [30, "オレンジ色の時", "", 0],
     [31, "スタコラサッサ", "", 0],
     [32, "hello", "", 0],
@@ -3210,17 +3210,17 @@ tracks = [
     [36, "Baby's Walk", "", 0],
     [37, "Tell a thing", "", 0],
     [38, "silence", "", 0],
-    [39, "嘆きの森", "", 0],
+    [39, "嘆きの森", "", 1],
     [40, "古手の巫女", "", 0],
-    [41, "Friend -music box ver.-", "", 0],
-    [42, "ひぐらしのなく頃に", "", 0],
-    [43, "why, or why not", "", 0],
-    [44, "奈落の花", "", 0],
-    [45, "対象a", "", 0],
+    [41, "Friend -music box ver.-", "", 1],
+    [42, "ひぐらしのなく頃に", "", 1],
+    [43, "why, or why not", "", 1],
+    [44, "奈落の花", "", 1],
+    [45, "対象a", "", 1],
 ]
 links = ["https://vgmdb.net/album/123153"]
 
-[b6b25f516c47fdbda5bf9f1fccb9f5ba]
+[57702e486658ab15a385f6eac020e659]
 catalognumber = "nekocapo-01"
 date = "2009-03-15"
 album = "なくなくソロギター"
@@ -3231,19 +3231,19 @@ tracks = [
     [4, "さくたろうの頑張り物語", "", 0],
     [5, "wingless", "", 0],
     [6, "生まれてきてくれてありがとう", "", 0],
-    [7, "you(ひぐらしのなく頃により）", "", 0],
+    [7, "you(ひぐらしのなく頃により）", "", 1],
 ]
 links = ["https://vgmdb.net/album/57500"]
 
-[ced046d1221e5160f40c8ed3b4a0f0a2]
+[fab19b4ab56ffc9654a73787b525eec3]
 catalognumber = "FCCJ-0003"
 date = "2009-04-08"
 album = "誓い / 島みやえい子"
 tracks = [
-    [1, "誓い", "島みやえい子", 0],
-    [2, "OXISOLS", "島みやえい子", 0],
-    [3, "誓い INSTRUMENTAL", "島みやえい子", 0],
-    [4, "OXISOLS INSTRUMENTAL", "島みやえい子", 0],
+    [1, "誓い", "島みやえい子", 1],
+    [2, "OXISOLS", "島みやえい子", 1],
+    [3, "誓い INSTRUMENTAL", "島みやえい子", 1],
+    [4, "OXISOLS INSTRUMENTAL", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/05f42afa-9fbf-447d-b7d8-85f758b1f167", "https://vgmdb.net/album/27219"]
 
@@ -3257,12 +3257,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102518"]
 
-[8857f81c47d56a44ac4aa7bd499e6fa3]
+[a750a8cb6a9bf90ab52da8a0ca1af8da]
 catalognumber = "LSRC-004"
 date = "2009-04-24"
 album = "*miracle of tracks* / 結月そら"
 tracks = [
-    [1, "そらのむこう", "結月そら", 0],
+    [1, "そらのむこう", "結月そら", 1],
     [2, "Horizon", "結月そら", 0],
     [3, "Emerald", "結月そら", 0],
     [4, "エルフ", "結月そら", 0],
@@ -3279,13 +3279,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e5d1c52-b89c-41f6-b03c-8c3bc82e65a1", "https://vgmdb.net/album/138896"]
 
-[31dd1ae018087f9c1ce4c3d9cbaeb70d]
+[114292a0a53d8048ce2dc9c378b1ca6e]
 catalognumber = "ABCD002b"
 date = "2009-05-05"
 album = "frontline edit [ver.2]"
 tracks = [
     [1, "Hi Tech Tomorrow Point", "", 0],
-    [2, "you (abc rmx from higurashi)", "", 0],
+    [2, "you (abc rmx from higurashi)", "", 1],
     [3, "Week End Breaks [edit]", "", 0],
     [4, "ragnarok strings [edit]", "", 0],
     [5, "kimi wo nosete (bals rmx from laputa)", "", 0],
@@ -3294,7 +3294,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/29321"]
 
-[2776b821b55bed4d04e9bea6b18a05f7]
+[5ab5f54f7eff0579c23ee649b2cafb5f]
 catalognumber = "LRCD-008"
 date = "2009-05-05"
 album = "GAME!!"
@@ -3304,7 +3304,7 @@ tracks = [
     [3, "旅ガラスは行く ～ Fusion Feel Mix", "nori", 0],
     [4, "Ground Seek", "Nanasy", 0],
     [5, "Last battle", "takayan", 0],
-    [6, "you ～ N.F.Trance short Mix", "藤谷尚希", 0],
+    [6, "you ～ N.F.Trance short Mix", "藤谷尚希", 1],
     [7, "Cheetahhhhhhh(ry", "Nanasy", 0],
     [8, "The Decisive Battle", "るら", 0],
     [9, "IMMORAL -Nanasy Remix-", "Nanasy", 0],
@@ -3325,7 +3325,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/48691836-24a9-47a6-971e-37335fc31d63", "https://vgmdb.net/album/13470"]
 
-[35f0e1df78c4c4cb873349af53b3d340]
+[c5a84311b900dd642a6d4900aa9d91a8]
 catalognumber = "HLZY-0001"
 date = "2009-05-05"
 album = "H -Heart and Beat Technology-"
@@ -3339,8 +3339,8 @@ tracks = [
     [7, "アンインストール", "Halozy", 0],
     [8, "Little Busters!", "Halozy", 0],
     [9, "寝・逃・げでリセット!", "Halozy", 0],
-    [10, "You (in the House)", "Halozy", 0],
-    [11, "奈落の花", "Halozy", 0],
+    [10, "You (in the House)", "Halozy", 1],
+    [11, "奈落の花", "Halozy", 1],
     [12, "Drop in the Ocean", "Halozy", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/59ddd8e2-aae8-481f-8b3a-03462bc39bd8", "https://vgmdb.net/album/13222"]
@@ -3356,18 +3356,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102433"]
 
-[090374d9bfdf9ae2c7a6b7dbf92f7a4c]
+[0efee10497b9fc1d665969a654de26d6]
 catalognumber = "MUCD-1208"
 date = "2009-05-27"
 album = "スーパー★アニメ☆リミックス 峠TOUGE stage2"
 tracks = [
     [1, "みくみくにしてあげる♪【してやんよ】", "", 0],
-    [2, "冒険でしょでしょ?", "", 0],
+    [2, "冒険でしょでしょ?", "", 1],
     [3, "Shangri-La", "", 0],
     [4, "緋色の空", "", 0],
     [5, "トライアングラー", "", 0],
-    [6, "コンプレックス イマージュ", "", 0],
-    [7, "奈落の花", "", 0],
+    [6, "コンプレックス イマージュ", "", 1],
+    [7, "奈落の花", "", 1],
     [8, "アンインストール", "", 0],
     [9, "United Force", "", 0],
     [10, "恋はスリルショックサスペンス", "", 0],
@@ -3382,15 +3382,15 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/133464"]
 
-[277c2b4f9009f14b3f76ff4175cef458]
+[d6eb92cc7da3bf6252e4bc8a0a438ecf]
 catalognumber = "VGCD-1039"
 date = "2009-06-10"
 album = "ひぐらしのなく頃に 絆 第三巻・螺 主題歌「光の空のクオリア」 cw エンディングテーマ「漆黒の祭壇」"
 tracks = [
-    [1, "光の空のクオリア", "Cyua from BETTA FLASH", 0],
-    [2, "漆黒の祭壇", "Velforest.", 0],
-    [3, "光の空のクオリア (off vocal)", "Cyua from BETTA FLASH", 0],
-    [4, "漆黒の祭壇 (off vocal)", "Velforest.", 0],
+    [1, "光の空のクオリア", "Cyua from BETTA FLASH", 1],
+    [2, "漆黒の祭壇", "Velforest.", 1],
+    [3, "光の空のクオリア (off vocal)", "Cyua from BETTA FLASH", 1],
+    [4, "漆黒の祭壇 (off vocal)", "Velforest.", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/78135e6a-2df9-40a2-9cac-c49fd37053ae", "https://vgmdb.net/album/13821"]
 
@@ -3418,38 +3418,38 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ffeb56ca-5bbe-4eaf-b4ef-c13534929621", "https://vgmdb.net/album/18238"]
 
-[3e7b1499368d270ec33ed4e51862866c]
+[c5cc9a7dc582584d08b424f973f68979]
 catalognumber = "FCCM-0267"
 date = "2009-06-24"
 album = "Super scription of data /　島みやえい子"
 tracks = [
-    [1, "Super scription of data", "島みやえい子", 0],
-    [2, "electric universe", "島みやえい子", 0],
-    [3, "Super scription of data -instrumental-", "島みやえい子", 0],
-    [4, "electric universe -instrumental-", "島みやえい子", 0],
+    [1, "Super scription of data", "島みやえい子", 1],
+    [2, "electric universe", "島みやえい子", 1],
+    [3, "Super scription of data -instrumental-", "島みやえい子", 1],
+    [4, "electric universe -instrumental-", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/806b8c41-6b9a-4724-add4-8bac9c3d6975", "https://vgmdb.net/album/23149"]
 
-[82540602a76f6cc3b00f540b3025bac2]
+[b2222d58f3f13ce1f0de19a245c648af]
 catalognumber = "FCCM-0268"
 date = "2009-06-24"
 album = "まなざし / anNina"
 tracks = [
-    [1, "まなざし", "anNina", 0],
-    [2, "loop garden", "anNina", 0],
-    [3, "まなざし instrumental", "anNina", 0],
-    [4, "loop garden instrumental", "anNina", 0],
+    [1, "まなざし", "anNina", 1],
+    [2, "loop garden", "anNina", 1],
+    [3, "まなざし instrumental", "anNina", 1],
+    [4, "loop garden instrumental", "anNina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0ebd947f-307d-4f59-83a0-500b8531ce07", "https://vgmdb.net/album/36353"]
 
-[472e33f5e0bde5ab434dc15fb59bb6d0]
+[4f126b4cf20d23841abf0c91c5630bde]
 catalognumber = "MUCD-1212~3"
 date = "2009-07-22"
 album = "スーパー★アニメ☆リミックス SUPER BEST Arrangement, Vocal, Remix Disc 1"
 tracks = [
     [1, "Shiny Summer〜友の夏〜", "ギャルちんa.k.a.板野友美(AKB48)", 0],
     [2, "制服恋物語", "B.L.T.アイカレ1期生", 0],
-    [3, "God knows…", "nayuta", 0],
+    [3, "God knows…", "nayuta", 1],
     [4, "OVER THE FUTURE", "ゴム", 0],
     [5, "空色デイズ", "花たん", 0],
     [6, "トライアングラー", "うさ", 0],
@@ -3458,7 +3458,7 @@ tracks = [
     [9, "Candy☆Boy", "MEILIN", 0],
     [10, "星間飛行", "RIN", 0],
     [11, "STAR RISE", "MI→NA", 0],
-    [12, "奈落の花", "Tugumi", 0],
+    [12, "奈落の花", "Tugumi", 1],
     [13, "アンインストール", "RUMINE", 0],
     [14, "ノーザンクロス", "すずみ", 0],
     [15, "SECRET AMBITION", "MI→NA", 0],
@@ -3471,7 +3471,7 @@ tracks = [
     [22, "GONG", "空き箱", 0],
     [23, "SKILL", "空き箱", 0],
     [24, "射手座☆午後九時DON’T BE LATE", "すずみ", 0],
-    [25, "ハレ晴レユカイ", "MI→NA", 0],
+    [25, "ハレ晴レユカイ", "MI→NA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/84c52624-30cc-45df-b866-787783e028df", "https://vgmdb.net/album/88880"]
 
@@ -3508,7 +3508,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84c52624-30cc-45df-b866-787783e028df", "https://vgmdb.net/album/88880"]
 
-[073e06fb576c133e4be912f90e25df27]
+[d26c697925caff927298efeef1fb53ba]
 catalognumber = "MUCD-1212~3"
 date = "2009-07-22"
 album = "スーパー★アニメ☆リミックス SUPER BEST Arrangement, Vocal, Remix, Video"
@@ -3517,17 +3517,17 @@ tracks = [
     [2, "制服恋物語", "B.L.T.アイカレ1期生", 0],
     [3, "創聖のアクエリオン", "HARUKA", 0],
     [4, "残酷な天使のテーゼ", "SHIHORI", 0],
-    [5, "God knows…", "MI→NA", 0],
+    [5, "God knows…", "MI→NA", 1],
     [6, "狩野英孝☆熱血アイドルアカデミーアキパラ嬢番組情報", "[no artist]", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/84c52624-30cc-45df-b866-787783e028df", "https://vgmdb.net/album/88880"]
 
-[21887387507b20e8ad168080af385a7b]
+[2275e50a8398f38b9a5bc3dd1ae32bd3]
 catalognumber = "VGCD-0171"
 date = "2009-07-23"
 album = "HYPER 萌 TRANCE II ～彩音～"
 tracks = [
-    [1, "その先にある、誰かの笑顔の為に", "彩音", 0],
+    [1, "その先にある、誰かの笑顔の為に", "彩音", 1],
     [2, "ARCHIVE LOVERS", "彩音", 0],
     [3, "WiSH ON TRUTH", "彩音", 0],
     [4, "Private place", "彩音", 0],
@@ -3542,34 +3542,34 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84a3a3ff-534a-4253-8f7b-33cc9f506099", "https://vgmdb.net/album/15727"]
 
-[781cda851a77c3d0e3a9c1d37a9ab6ad]
+[98780bba2cb62edb92f6efc9b5450626]
 catalognumber = "STCD-0002"
 date = "2009-08-15"
 album = "CLANNAD LIVE!!"
 tracks = [
     [1, "CLANNAD LIVE!!", "", 0],
     [2, "CLANNAD LIVE!! normal version", "", 0],
-    [3, "YOU session", "", 0],
+    [3, "YOU session", "", 1],
     [4, "CLANNAD LIVE!! (Instrumental)", "", 0],
     [5, "CLANNAD LIVE!! normal version (Instrumental)", "", 0],
-    [6, "YOU session (Instrumental)", "", 0],
+    [6, "YOU session (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/158704"]
 
-[dc371aa884cd81d017e6387616743807]
+[592ba9f647366e3f05e51b1ec4e7f7f1]
 catalognumber = "RW-001"
 date = "2009-08-15"
 album = "dai on classics"
 tracks = [
-    [1, "そらのむこう", "荒井英理也", 0],
+    [1, "そらのむこう", "荒井英理也", 1],
     [2, "へっぽこ３分クッキング", "荒井英理也", 0],
-    [3, "Friend", "荒井英理也, 五十嵐清華", 0],
-    [4, "Feel", "荒井英理也", 0],
-    [5, "Thanks", "荒井英理也", 0],
-    [6, "Confession", "荒井英理也", 0],
+    [3, "Friend", "荒井英理也, 五十嵐清華", 1],
+    [4, "Feel", "荒井英理也", 1],
+    [5, "Thanks", "荒井英理也", 1],
+    [6, "Confession", "荒井英理也", 1],
     [7, "Day", "荒井英理也", 0],
-    [8, "Iru", "荒井英理也", 0],
-    [9, "You", "荒井英理也, 植木稚花, 癒月", 0],
+    [8, "Iru", "荒井英理也", 1],
+    [9, "You", "荒井英理也, 植木稚花, 癒月", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e0c4b963-fdd6-4677-ba81-088a14d07437", "https://vgmdb.net/album/14773"]
 
@@ -3584,7 +3584,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/105226"]
 
-[9030af656eb04e295bbfab1803efb1a1]
+[deb42063ff0a930e074d5c99ee1fb999]
 catalognumber = "N/A"
 date = "2009-10-11"
 album = "Hi-KICK Arranged CD Vol.1 - DISCE GAUDERE"
@@ -3604,7 +3604,7 @@ tracks = [
     [13, "缶オリジナル 時は戻らない", "", 0],
     [14, "ファイナルファンタジー11 Selbina", "", 0],
     [15, "缶オリジナル マターリ3", "", 0],
-    [16, "ひぐらしのなく頃に YOU", "", 0],
+    [16, "ひぐらしのなく頃に YOU", "", 1],
     [17, "缶オリジナル アスリートじゃないよ", "", 0],
     [18, "デュープリズム 街", "", 0],
     [19, "東方見文録 ぐろーりあ", "", 0],
@@ -3613,17 +3613,17 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45050"]
 
-[991b5f6a3795eb67690caf669b188b7a]
+[acef4076e6a54773bf90d8ff752b81b3]
 catalognumber = "VGCD-0176"
 date = "2009-10-21"
 album = "THE WORKS ～志倉千代丸楽曲集～ 5.0"
 tracks = [
-    [1, "追想のディスペア", "いとうかなこ", 0],
+    [1, "追想のディスペア", "いとうかなこ", 1],
     [2, "磔のミサ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [3, "flower of bravery", "fripSide", 0],
-    [4, "その先にある、誰かの笑顔の為に", "彩音", 0],
+    [4, "その先にある、誰かの笑顔の為に", "彩音", 1],
     [5, "宇宙のステンシル", "宮崎羽衣", 0],
-    [6, "漆黒の祭壇", "Velforest.", 0],
+    [6, "漆黒の祭壇", "Velforest.", 1],
     [7, "遙かなる時空の旅人", "日高里菜", 0],
     [8, "情熱のウォブル", "Kicco", 0],
     [9, "花ノ咲ク星", "諫山実生", 0],
@@ -3636,7 +3636,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/57d75d55-e0d8-49c5-86a8-6e0873fa320c", "https://vgmdb.net/album/15820"]
 
-[666d3b96d4095a70657a9bad632c14e8]
+[d08ff52adcf207d691f305570289c2fe]
 catalognumber = "QWCE-00131"
 date = "2009-11-04"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 8"
@@ -3651,7 +3651,7 @@ tracks = [
     [8, "staple stable", "Dizzi Mystica feat.Latte", 0],
     [9, "私の恋はホッチキス", "Starving Trancer feat.Latte+CAMRY", 0],
     [10, "KARMA", "MK feat.R.Cena", 0],
-    [11, "Super scription of data", "Icon feat.YURiE", 0],
+    [11, "Super scription of data", "Icon feat.YURiE", 1],
     [12, "Glossy:MMM", "MK feat.Ma15", 0],
     [13, "本日、満開ワタシ色！", "Hommarju feat.MAKI", 0],
     [14, "明日へのキズナ", "Acid=Stone Valley feat.Latte", 0],
@@ -3664,7 +3664,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/acabdb0d-b377-489e-a98e-314b362f276d", "https://vgmdb.net/album/46162"]
 
-[1e892b41082116fdd19c179f22747296]
+[c46ea642f48e1c1d019c39c3f36388e0]
 catalognumber = "FCBM-0007EX"
 date = "2009-11-06"
 album = "劇場版 ひぐらしのなく頃に 誓 コレクターズ・エディション 特典CD"
@@ -3678,7 +3678,7 @@ tracks = [
     [7, "礼奈 -狂気II-", "", 0],
     [8, "戸惑い", "", 0],
     [9, "仲間 -想い-", "", 0],
-    [10, "予感", "", 0],
+    [10, "予感", "", 1],
     [11, "仲間 -救い-", "", 0],
     [12, "約束", "", 0],
     [13, "礼奈 -発病-", "", 0],
@@ -3694,24 +3694,24 @@ tracks = [
     [23, "戦い", "", 0],
     [24, "決着", "", 0],
     [25, "友情", "", 0],
-    [26, "エピローグ", "", 0],
+    [26, "エピローグ", "", 1],
     [27, "映画版パンフレット附属アニメキャストスペシャルドラマ", "", 0],
 ]
 links = ["https://vgmdb.net/album/112756"]
 
-[a649b84c19a0b496c35eae332cd912c1]
+[bd0f207f0df2cb203bc502e566869999]
 catalognumber = "VICP-64778"
 date = "2009-11-25"
 album = "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ ～アニメ・スタンダード Vol.1～"
 tracks = [
-    [1, "ハレ晴レユカイ", "Rasmus Faber presents Platina Jazz", 0],
+    [1, "ハレ晴レユカイ", "Rasmus Faber presents Platina Jazz", 1],
     [2, "ハッピー☆マテリアル", "Rasmus Faber presents Platina Jazz", 0],
     [3, "Genesis of Aquarion", "Rasmus Faber presents Platina Jazz", 0],
     [4, "星間飛行", "Rasmus Faber presents Platina Jazz", 0],
     [5, "水の証", "Rasmus Faber presents Platina Jazz", 0],
     [6, "コスモスに君と", "Rasmus Faber presents Platina Jazz", 0],
     [7, "君をのせて", "Rasmus Faber presents Platina Jazz", 0],
-    [8, "そらのむこう", "Rasmus Faber presents Platina Jazz", 0],
+    [8, "そらのむこう", "Rasmus Faber presents Platina Jazz", 1],
     [9, "時の記憶", "Rasmus Faber presents Platina Jazz", 0],
     [10, "Thanatos - If I Can't Be Yours -", "Rasmus Faber presents Platina Jazz", 0],
     [11, "オネアミスの翼～メイン・テーマ", "Rasmus Faber presents Platina Jazz", 0],
@@ -3725,14 +3725,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4284abb7-03cf-4977-b01d-bebd7196fc00", "https://vgmdb.net/album/29899"]
 
-[58ba5c183cb83ce8acca34ebb2e2f16a]
+[338376a05b4d412d9de86b58d22a392b]
 catalognumber = "ATCD-21002"
 date = "2009-11-25"
 album = "ANIME HOUSE PROJECT～神曲selection vol.2～"
 tracks = [
     [1, "止マレ！", "A〜YA", 0],
     [2, "Cagayake！GIRLS", "片霧烈火", 0],
-    [3, "you", "茶太", 0],
+    [3, "you", "茶太", 1],
     [4, "だんご大家族", "あさな", 0],
     [5, "愛・おぼえていますか", "anporin", 0],
     [6, "片翼のイカロス", "あさな", 0],
@@ -3745,18 +3745,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ca61565f-b7f6-4517-a94f-cbbeb8e66543", "https://vgmdb.net/album/15914"]
 
-[d8678783338b246e0678ee1b89bb26c5]
+[9a59fa392fea95c0d5804221135c2de2]
 catalognumber = "FVCG-1105"
 date = "2010-01-27"
 album = "ChaosAttractor / Kanako Ito"
 tracks = [
-    [1, "追想のディスペア", "", 0],
+    [1, "追想のディスペア", "", 1],
     [2, "キミと夜空と坂道と", "", 0],
     [3, "fake me", "", 0],
     [4, "Find the blue", "", 0],
-    [5, "escape", "", 0],
+    [5, "escape", "", 1],
     [6, "A WILL", "", 0],
-    [7, "friend", "", 0],
+    [7, "friend", "", 1],
     [8, "ivy", "", 0],
     [9, "F.D.D", "", 0],
     [10, "クライ", "", 0],
@@ -3766,35 +3766,35 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/17131"]
 
-[d100345bf189a5b067933a5c1897a87a]
+[842c19f1ca931f6b897d3a11f89df1eb]
 catalognumber = "FVCG-1104"
 date = "2010-01-27"
 album = "ChaosAttractor / Kanako Ito [Limited Edition] Vocal Disc 1"
 tracks = [
-    [1, "追想のディスペア", "いとうかなこ", 0],
+    [1, "追想のディスペア", "いとうかなこ", 1],
     [2, "キミと夜空と坂道と", "いとうかなこ", 0],
     [3, "fake me", "いとうかなこ", 0],
     [4, "Find the blue", "いとうかなこ", 0],
-    [5, "escape", "いとうかなこ", 0],
+    [5, "escape", "いとうかなこ", 1],
     [6, "A WILL", "いとうかなこ", 0],
-    [7, "friend", "いとうかなこ", 0],
+    [7, "friend", "いとうかなこ", 1],
     [8, "ivy", "いとうかなこ", 0],
     [9, "F.D.D.", "いとうかなこ", 0],
     [10, "クライ", "いとうかなこ", 0],
     [11, "Desire Blue sky", "いとうかなこ", 0],
     [12, "スカイクラッドの観測者", "いとうかなこ", 0],
     [13, "Another Heaven", "いとうかなこ", 0],
-    [14, "突風", "いとうかなこ", 0],
+    [14, "突風", "いとうかなこ", 1],
     [15, "Fly to the sky", "いとうかなこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/fd25bbda-eea6-4b16-bd6c-defb0492eb02", "https://vgmdb.net/album/17132"]
 
-[5e9fa3309f7d474cb1da6806b87754b1]
+[63db62cdcf296b76e98bdf6a5f4e3cba]
 catalognumber = "FVCG-1104"
 date = "2010-01-27"
 album = "ChaosAttractor / Kanako Ito [Limited Edition] Vocal Disc 2"
 tracks = [
-    [1, "追想のディスペア (MusicClip)", "いとうかなこ", 0],
+    [1, "追想のディスペア (MusicClip)", "いとうかなこ", 1],
     [2, "F.D.D. (MusicClip)", "いとうかなこ", 0],
     [3, "Find the blue～PCゲーム 「CHAOS;HEAD」OP Movie", "いとうかなこ", 0],
     [4, "fake me～Xbox360専用ソフト「CHAOS;HEAD NOAH」OP Movie", "いとうかなこ", 0],
@@ -3804,12 +3804,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fd25bbda-eea6-4b16-bd6c-defb0492eb02", "https://vgmdb.net/album/17132"]
 
-[3be0c4323ad460f7a20c3cb70a2b3c63]
+[385bbf9a5f4723b4b070d2fe7920dc56]
 catalognumber = "HIGURASIDS4"
 date = "2010-02-25"
 album = "ひぐらしのなく頃に絆 IV ドラマCD 夢交し編"
 tracks = [
-    [1, "はじめに", "", 0],
+    [1, "はじめに", "", 1],
     [2, "焼きみかんがメジャーな食べ物で無かったことを指摘されてショックです。", "", 0],
     [3, "受験生時代、頭が良くなるからと言われて毎日3食魚料理でした。", "", 0],
     [4, "スキーの後の温泉が趣味でしたが、もう十年以上も行ってません。", "", 0],
@@ -3831,7 +3831,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3cb4f96c-e159-4903-80ea-3776377315a9", "https://vgmdb.net/album/17920"]
 
-[2ffcc48f5299a16b9759f1963341c214]
+[397fabab0f68454f998e7d3d77c5bc46]
 catalognumber = "ATCD-21004"
 date = "2010-04-28"
 album = "ANIME HOUSE PROJECT ～神曲ぶちage↑mix zero～"
@@ -3840,7 +3840,7 @@ tracks = [
     [2, "輪舞-revolution", "IOSYS", 0],
     [3, "ブルーウォーター", "IOSYS", 0],
     [4, "空色デイズ", "IOSYS", 0],
-    [5, "you", "IOSYS", 0],
+    [5, "you", "IOSYS", 1],
     [6, "夢を信じて", "IOSYS", 0],
     [7, "だんご大家族", "IOSYS", 0],
     [8, "ETERNAL BLAZE", "IOSYS", 0],
@@ -3870,7 +3870,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/91646"]
 
-[0d2e52d7b659e9d61cd499749a7b0a99]
+[af02e77a191a825e85e38d1d2e52f86a]
 catalognumber = "DGBA-10001"
 date = "2010-08-04"
 album = "超！アニメビート"
@@ -3880,43 +3880,43 @@ tracks = [
     [3, "only my railgun", "", 0],
     [4, "溝ノ口太陽族", "", 0],
     [5, "十六夜涙", "", 0],
-    [6, "奈落の花", "", 0],
+    [6, "奈落の花", "", 1],
     [7, "アンインストール", "", 0],
     [8, "夢想歌", "", 0],
     [9, "魂のルフラン", "", 0],
     [10, "創聖のアクエリオン", "", 0],
     [11, "ETERNAL BLAZE", "", 0],
-    [12, "God Knows…", "", 0],
+    [12, "God Knows…", "", 1],
     [13, "トライアングラー", "", 0],
     [14, "Perfect-area complete!", "", 0],
     [15, "君の知らない物語", "", 0],
 ]
 links = ["https://vgmdb.net/album/20082"]
 
-[8c7859028110d83e65178071b28a6be7]
+[c97f8ec6f2a94d1c7af9d8fa8b98311d]
 catalognumber = "VGCD-0199"
 date = "2010-08-25"
 album = "ひぐらしのなく頃に ボーカルソング + ゲームオープニングムービー集 Original Soundtrack, Vocal, Video"
 tracks = [
-    [1, "嘆きノ森", "彩音", 0],
-    [2, "追想のディスペア", "いとうかなこ", 0],
-    [3, "そらのむこう", "結月そら", 0],
-    [4, "その先にある、誰かの笑顔の為に", "彩音", 0],
-    [5, "光の空のクオリア", "Cyua from BETTA FLASH", 0],
-    [6, "escape", "いとうかなこ", 0],
+    [1, "嘆きノ森", "彩音", 1],
+    [2, "追想のディスペア", "いとうかなこ", 1],
+    [3, "そらのむこう", "結月そら", 1],
+    [4, "その先にある、誰かの笑顔の為に", "彩音", 1],
+    [5, "光の空のクオリア", "Cyua from BETTA FLASH", 1],
+    [6, "escape", "いとうかなこ", 1],
     [7, "ただ流るるままに", "彩音", 0],
-    [8, "突風", "いとうかなこ", 0],
+    [8, "突風", "いとうかなこ", 1],
     [9, "Angelic bright", "彩音", 0],
-    [10, "プレイス·オブ·ピリオド", "諫山実生", 0],
-    [11, "漆黒の祭壇", "Velforest.", 0],
-    [12, "コンプレックス·イマージュ", "彩音", 0],
-    [13, "Friend", "いとうかなこ", 0],
-    [14, "you (Vocal)", "癒月", 0],
-    [15, "you", "dai", 0],
+    [10, "プレイス·オブ·ピリオド", "諫山実生", 1],
+    [11, "漆黒の祭壇", "Velforest.", 1],
+    [12, "コンプレックス·イマージュ", "彩音", 1],
+    [13, "Friend", "いとうかなこ", 1],
+    [14, "you (Vocal)", "癒月", 1],
+    [15, "you", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/39ff7302-bae6-457d-803a-b3ef3dab0b58", "https://vgmdb.net/album/19738"]
 
-[395a20c87041339221d04a0d76300b6f]
+[6a7340734fe34f49ad99a469e726a967]
 catalognumber = "VGCD-0199"
 date = "2010-08-25"
 album = "ひぐらしのなく頃に ボーカルソング + ゲームオープニングムービー集 Video"
@@ -3929,13 +3929,13 @@ tracks = [
     [6, "ひぐらしのなく頃に絆 第四巻・絆 【ゲームオープニングムービー&PV】", "", 0],
     [7, "ひぐらしデイブレイクPortable 【ゲームオープニングムービー&PV】", "", 0],
     [8, "ひぐらしデイブレイクPortable MEGA EDITION 【ゲームオープニングムービー&PV】", "", 0],
-    [9, "嘆きの森 【ボーナストラック】", "", 0],
-    [10, "追想のディスペア 【ボーナストラック】", "", 0],
-    [11, "その先にある、誰かの笑顔の為に 【ボーナストラック】", "", 0],
+    [9, "嘆きの森 【ボーナストラック】", "", 1],
+    [10, "追想のディスペア 【ボーナストラック】", "", 1],
+    [11, "その先にある、誰かの笑顔の為に 【ボーナストラック】", "", 1],
 ]
 links = ["https://vgmdb.net/album/19738"]
 
-[63c0288d4350f8b67db85c229d58b9fc]
+[51383f943330b73916bd87ad362172c9]
 catalognumber = "ATCD-10026"
 date = "2010-11-24"
 album = "ANIME HOUSE PROJECT ～神曲BEST selection～ Disc 1"
@@ -3948,7 +3948,7 @@ tracks = [
     [6, "鳥の詩", "片霧烈火", 0],
     [7, "止マレ!", "A〜YA", 0],
     [8, "Cagayake!GIRLS", "片霧烈火", 0],
-    [9, "you", "茶太", 0],
+    [9, "you", "茶太", 1],
     [10, "だんご大家族", "あさな", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/434bdd54-4449-41df-bf64-2c6bcd04df3c", "https://vgmdb.net/album/22709"]
@@ -3983,18 +3983,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/22709"]
 
-[458d0db0d30d45bfc1ebdd4c078813ac]
+[2dbad357adc74bb2165c82260b020208]
 catalognumber = "N/A"
 date = "2010-11-28"
 album = "ひなみざわざわソロギター"
 tracks = [
-    [1, "Thanks", "", 0],
-    [2, "Iru", "", 0],
-    [3, "そらのむこう", "", 0],
+    [1, "Thanks", "", 1],
+    [2, "Iru", "", 1],
+    [3, "そらのむこう", "", 1],
 ]
 links = ["https://vgmdb.net/album/104594"]
 
-[d55c4809e70ad298e867ea2ffbdc2d07]
+[de07ad7396f23a62507c0a3516af2437]
 catalognumber = "FVCG-1135"
 date = "2010-12-22"
 album = "Lyricallya Candles / 彩音 Disc 1 (CD)"
@@ -4007,7 +4007,7 @@ tracks = [
     [6, "Arrival of Tears", "彩音", 0],
     [7, "ずっと一緒に もっと遠くまで", "彩音", 0],
     [8, "想い出はゆびきりの記憶へ", "彩音", 0],
-    [9, "その先にある、誰かの笑顔の為に", "彩音", 0],
+    [9, "その先にある、誰かの笑顔の為に", "彩音", 1],
     [10, "Angelic bright", "彩音", 0],
     [11, "永遠の向こう", "彩音", 0],
     [12, "Drive on dragoon", "彩音", 0],
@@ -4017,26 +4017,26 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0b174179-22a6-47b7-942d-56a319fcb879", "https://vgmdb.net/album/25203"]
 
-[f31563cc327b0ed363a082382ce5aa56]
+[0fa8ec9c83d02f44a13e8d5ec9d3aec3]
 catalognumber = "FVCG-1135"
 date = "2010-12-22"
 album = "Lyricallya Candles / 彩音 Disc 2 (DVD)"
 tracks = [
     [1, "Shining gate Music Clip", "", 0],
-    [2, "その先にある、誰かの笑顔の為に Music Clip", "", 0],
+    [2, "その先にある、誰かの笑顔の為に Music Clip", "", 1],
     [3, "DOLPHIN☆JET Music Clip", "", 0],
     [4, "Arrival of Tears Music Clip", "", 0],
     [5, "Shining gate making movies", "", 0],
 ]
 links = ["https://vgmdb.net/album/25203"]
 
-[5d1404675e67117e51d3fc39b0de8a06]
+[6ab5273eb06edf5d10fa9b3ccecc55b5]
 catalognumber = "MTCD-0002"
 date = "2010-12-30"
 album = "Anime Song Orchestra"
 tracks = [
     [1, "MOON SIGNAL（「おとめ妖怪ざくろ」より）", "ネオ", 0],
-    [2, "ハレ晴れユカイ（「涼宮ハルヒの憂鬱」より）", "taste", 0],
+    [2, "ハレ晴れユカイ（「涼宮ハルヒの憂鬱」より）", "taste", 1],
     [3, "LEVEL∞（「アラド戦記 ～スラップアップパーティー～」より）", "taste", 0],
     [4, "LEVEL5-judgelight-（「とある科学の超電磁砲」より）", "ネオ", 0],
     [5, "恋愛サーキュレーション（「化物語」より）", "taste", 0],
@@ -4048,7 +4048,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02235716-3d63-42c4-a69f-0689cc0a89cc", "https://vgmdb.net/album/31029"]
 
-[0b17a9e941f5a9520850b2903f7459b8]
+[347a2b88ba697695adb0ba7e34a49c47]
 catalognumber = "HBDC-088"
 date = "2011-01-28"
 album = "ドラマCD ひぐらしのなく頃に解 ～皆殺し編～ 後編 Disc 1"
@@ -4059,7 +4059,7 @@ tracks = [
     [4, "富竹と鷹野", "", 0],
     [5, "終末作戦", "", 0],
     [6, "事件現場にて", "", 0],
-    [7, "大石の疑問", "", 0],
+    [7, "大石の疑問", "", 1],
     [8, "入江の焦燥", "", 0],
     [9, "憂鬱な梨花", "", 0],
     [10, "終わりゆく世界", "", 0],
@@ -4082,7 +4082,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102464"]
 
-[9db7434dedbc9f57b3bac4b03155a796]
+[3f8f9efaf5ce7026cedc4095ec59fa9d]
 catalognumber = "HBDC-088"
 date = "2011-01-28"
 album = "ドラマCD ひぐらしのなく頃に解 ～皆殺し編～ 後編 Disc 3"
@@ -4091,7 +4091,7 @@ tracks = [
     [2, "消える命", "", 0],
     [3, "月は見ている", "", 0],
     [4, "首相官邸", "", 0],
-    [5, "雛見沢大災害", "", 0],
+    [5, "雛見沢大災害", "", 1],
     [6, "そして全てが終わる", "", 0],
 ]
 links = ["https://vgmdb.net/album/102464"]
@@ -4108,12 +4108,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102463"]
 
-[745d0bddb8ca63e09d6e9cb4e3e0f958]
+[5c0a886ca7573d35c7eae84da7500111]
 catalognumber = "HBDC-087"
 date = "2011-01-28"
 album = "ドラマCD ひぐらしのなく頃に解 ～皆殺し編～ 前編 Disc 1"
 tracks = [
-    [1, "プロローグ", "", 0],
+    [1, "プロローグ", "", 1],
     [2, "入江診療所にて", "", 0],
     [3, "部活メンバー集う", "", 0],
     [4, "ゲームは廻る", "", 0],
@@ -4188,12 +4188,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102463"]
 
-[60e0f0bd3d982ee5075cf88fdfc87082]
+[9f773d9f40253adcdf93bd8fafca8ce4]
 catalognumber = "BVCL-196"
 date = "2011-03-16"
 album = "泣けるアニソン / 米倉千尋"
 tracks = [
-    [1, "you", "米倉千尋", 0],
+    [1, "you", "米倉千尋", 1],
     [2, "君の知らない物語", "米倉千尋", 0],
     [3, "星空のワルツ", "米倉千尋", 0],
     [4, "暁の車", "米倉千尋", 0],
@@ -4206,7 +4206,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/23c8539c-0217-4ed1-aad9-dea636eda535", "https://vgmdb.net/album/72603"]
 
-[8a8551a1e449a7da9e33119ea8e1e5ac]
+[b3fdf83c8514927d604c784afeb6d966]
 catalognumber = "KDSD-20011"
 date = "2011-04-13"
 album = "CLOSED/UNDERGROUND Chronicle vol.7 History of WORXSONGz PremiumBox [Limited Edition] Disc 1"
@@ -4217,7 +4217,7 @@ tracks = [
     [4, "純愛ミサイル", "片霧烈火", 0],
     [5, "ふわり☆フィーリングハート", "片霧烈火", 0],
     [6, "プレリュード", "片霧烈火", 0],
-    [7, "when they cry", "片霧烈火", 0],
+    [7, "when they cry", "片霧烈火", 1],
     [8, "get the regret over", "片霧烈火", 0],
     [9, "最強勝負師 哲也", "片霧烈火", 0],
     [10, "キラン★とねっ", "片霧烈火", 0],
@@ -4230,7 +4230,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b28d257f-19b9-4187-99aa-49e80b51a669", "https://vgmdb.net/album/25543"]
 
-[f3089cd8a47a79d5153fdf0eae1d913b]
+[afba051841684281fe1c5b1f32be428c]
 catalognumber = "KDSD-20011"
 date = "2011-04-13"
 album = "CLOSED/UNDERGROUND Chronicle vol.7 History of WORXSONGz PremiumBox [Limited Edition] Disc 2"
@@ -4247,7 +4247,7 @@ tracks = [
     [10, "紅空恋歌", "片霧烈火", 0],
     [11, "境戒ノ末", "片霧烈火", 0],
     [12, "パラダイムシフト", "片霧烈火", 0],
-    [13, "why, or why not", "大嶋啓之 feat. 片霧烈火", 0],
+    [13, "why, or why not", "大嶋啓之 feat. 片霧烈火", 1],
     [14, "Answer", "片霧烈火", 0],
     [15, "プリンセス・フィナーレ", "片霧烈火", 0],
     [16, "奇蹟の軌跡、いまもぼくらの前に", "片霧烈火", 0],
@@ -4271,7 +4271,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b28d257f-19b9-4187-99aa-49e80b51a669", "https://vgmdb.net/album/25543"]
 
-[176eeec9b0f1bac0c678ffc21bcee6bd]
+[ee837d3bbedd8144e7f50b4d2f21be0c]
 catalognumber = "MHXL-5"
 date = "2011-04-27"
 album = "Live5pb.2010 @JCB Hall"
@@ -4303,7 +4303,7 @@ tracks = [
     [25, "sunrise　(PC 「白銀のカルと蒼空の女王」OPテーマソング)", "", 0],
     [26, "2100年の東京タワー　(FM 西東京ラジオ「teknohauswt」OPテーマソング＆EDテーマソング)", "", 0],
     [27, "I Can Fly　(PSP「クリミナルガールズ」OPテーマソング)", "", 0],
-    [28, "Confutatisの祈り　（PSP「コープスパーティー・ブラッドカバー　リピーティッドフィアー」EDテーマソング）", "", 0],
+    [28, "Confutatisの祈り　（PSP「コープスパーティー・ブラッドカバー　リピーティッドフィアー」EDテーマソング）", "", 1],
     [29, "闇に濡れたCatastrophe　(PSP「コープスパーティー・ブラッドカバー　リピーティッドフィアー」挿入歌）", "", 0],
     [30, "誓響のイグレージャ　（PS3「うみねこのなく頃に」OPテーマソング）", "", 0],
     [31, "十字架に捧ぐ七重奏　（PC「11eyes -Resona Forma- 」OPテーマソング）", "", 0],
@@ -4360,18 +4360,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/39778"]
 
-[46eb6ae96a9bb6302185099398272840]
+[a650546afb0ed291d8cbc6224eb31aba]
 catalognumber = "VICL-63701~2"
 date = "2011-05-04"
 album = "Chords \\ bermei.inazawa collection Disc 2 [VICL-63702]"
 tracks = [
     [1, "僕と世界の境界線", "", 0],
     [2, "たんとんとたん", "", 0],
-    [3, "samsara", "", 0],
+    [3, "samsara", "", 1],
     [4, "Sleeping snow", "", 0],
-    [5, "integral integral", "", 0],
-    [6, "対象a", "", 0],
-    [7, "誰そ彼", "", 0],
+    [5, "integral integral", "", 1],
+    [6, "対象a", "", 1],
+    [7, "誰そ彼", "", 1],
     [8, "differance (difference)", "", 0],
     [9, "deconstruction", "", 0],
     [10, "小さなてのひら -new seasons mix-", "", 0],
@@ -4398,21 +4398,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4195fe01-707f-465d-bad0-8387958f8098", "https://vgmdb.net/album/53316"]
 
-[ff5438cf176fd4aecc062cc9b29805ee]
+[2c16220f952b374d1bf7d2827fcc2649]
 catalognumber = "GNCV-1027"
 date = "2011-06-29"
 album = "E.P.S -Eiko PRIMARY SELECTION- / 島みやえい子"
 tracks = [
-    [1, "ひぐらしのなく頃に", "島みやえい子", 0],
-    [2, "Super scription of data", "島みやえい子", 0],
+    [1, "ひぐらしのなく頃に", "島みやえい子", 1],
+    [2, "Super scription of data", "島みやえい子", 1],
     [3, "VANILLA", "島みやえい子", 0],
     [4, "太陽", "島みやえい子", 0],
-    [5, "誓い", "島みやえい子", 0],
+    [5, "誓い", "島みやえい子", 1],
     [6, "ひかりなでしこ", "島みやえい子", 0],
-    [7, "奈落の花", "島みやえい子", 0],
+    [7, "奈落の花", "島みやえい子", 1],
     [8, "Dreamer -2011 Remix-", "島みやえい子", 0],
     [9, "砂の城 -The Castle of Sand-", "島みやえい子", 0],
-    [10, "WHEEL OF FORTUNE（運命の輪）", "島みやえい子", 0],
+    [10, "WHEEL OF FORTUNE（運命の輪）", "島みやえい子", 1],
     [11, "スカラベの祈り -brown sugar style-", "島みやえい子", 0],
     [12, "River", "島みやえい子", 0],
     [13, "inner child", "島みやえい子", 0],
@@ -4431,21 +4431,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bb1dc844-9d1b-4328-b381-e67d7f639e6a", "https://vgmdb.net/album/102395"]
 
-[f2c9d946fbbd0b53a4c5c59024f5cac6]
+[9c34eb41e59a3a23aebbdf807316352b]
 catalognumber = "CLAR-0004"
 date = "2011-08-13"
 album = "少女さいをなげかれた"
 tracks = [
-    [1, "嘆きノ森", "", 0],
+    [1, "嘆きノ森", "", 1],
     [2, "日の現", "", 0],
     [3, "夕映えの絵", "", 0],
     [4, "Gray, birth and death", "", 0],
-    [5, "you", "", 0],
+    [5, "you", "", 1],
     [6, "朔の夜霞", "", 0],
     [7, "一縷の望み", "", 0],
-    [8, "奈落の花", "", 0],
+    [8, "奈落の花", "", 1],
     [9, "n次元トーラス体", "", 0],
-    [10, "ひぐらしのなく頃に", "", 0],
+    [10, "ひぐらしのなく頃に", "", 1],
 ]
 links = ["https://vgmdb.net/album/71017"]
 
@@ -4692,7 +4692,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102466"]
 
-[4827e25a521b72703979cbdfe839f7bd]
+[c9e3c39b8deca55bb126ad228f64efae]
 catalognumber = "VICP-65036"
 date = "2012-02-08"
 album = "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.3~"
@@ -4710,7 +4710,7 @@ tracks = [
     [11, "輝く空の静寂には", "Rasmus Faber presents Platina Jazz", 0],
     [12, "デリケートに好きして", "Rasmus Faber presents Platina Jazz", 0],
     [13, "天使のゆびきり", "Rasmus Faber presents Platina Jazz", 0],
-    [14, "対象a", "Rasmus Faber presents Platina Jazz", 0],
+    [14, "対象a", "Rasmus Faber presents Platina Jazz", 1],
     [15, "God Only Knows", "Rasmus Faber presents Platina Jazz", 0],
     [16, "旅の途中", "Rasmus Faber presents Platina Jazz", 0],
     [17, "Gravity", "Rasmus Faber presents Platina Jazz", 0],
@@ -4769,7 +4769,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102468"]
 
-[796e98dff61df1c204903a148b62c7b5]
+[9db0e9da085ddd32caf6ad7e8080ffd4]
 catalognumber = "HBDC-112"
 date = "2012-03-09"
 album = "ドラマCD ひぐらしのなく頃に解 ～祭囃し編～ 後編 Disc 4"
@@ -4779,7 +4779,7 @@ tracks = [
     [3, "入江脱出", "", 0],
     [4, "動き出す赤坂", "", 0],
     [5, "詩音と葛西", "", 0],
-    [6, "園崎家の激闘", "", 0],
+    [6, "園崎家の激闘", "", 1],
     [7, "地下祭具殿侵攻", "", 0],
     [8, "梨花の決断", "", 0],
     [9, "君を助けに来た", "", 0],
@@ -4803,27 +4803,27 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/102468"]
 
-[14ad5d91cb4eaa2de69e6bae770a82e0]
+[7e8cbc306d92c9af25d79a235902871c]
 catalognumber = "HBDC-112"
 date = "2012-03-09"
 album = "ドラマCD ひぐらしのなく頃に解 ～祭囃し編～ 後編 Disc 6"
 tracks = [
     [1, "部活の終わり", "", 0],
     [2, "雛の最後", "", 0],
-    [3, "ひぐらしのなく頃に", "", 0],
+    [3, "ひぐらしのなく頃に", "", 1],
     [4, "祭囃子", "", 0],
     [5, "もういちど子供たちに－そらのむこう ２０１２ ＥＤＩＴ－", "", 0],
 ]
 links = ["https://vgmdb.net/album/102468"]
 
-[96c03a3b253d4853c1fabc61d8407f7c]
+[1b478f02e399146348111058c2f95e49]
 catalognumber = "KDSD-00507"
 date = "2012-04-04"
 album = "CLOSED/UNDERGROUND Chronicle vol.09 LTN is beginning"
 tracks = [
     [1, "get the regret over", "", 0],
     [2, "がーるずｖらいふ", "", 0],
-    [3, "when they cry", "", 0],
+    [3, "when they cry", "", 1],
     [4, "心ノ在リ処", "", 0],
     [5, "パラダイムシフト", "", 0],
     [6, "ときめき☆ガーディアン", "", 0],
@@ -4839,7 +4839,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/28471"]
 
-[6bedc329ffaee928e0027eb59933ecb4]
+[d5cf3cc4872da74b318c3c31158c82c2]
 catalognumber = "FYS-CP"
 date = "2012-07-07"
 album = "Claret Pollution Disc 1"
@@ -4856,7 +4856,7 @@ tracks = [
     [10, "Treasure (LU-I Remix)", "LU-I", 0],
     [11, "Hacking to the Gate (LU-I Remix)", "LU-I", 0],
     [12, "oath sign (LU-I Remix)", "LU-I", 0],
-    [13, "奈落の花 (LU-I Remix)", "LU-I", 0],
+    [13, "奈落の花 (LU-I Remix)", "LU-I", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/13fb77c5-6277-480b-be4b-f6cce367b56c", "https://vgmdb.net/album/148864"]
 
@@ -4877,7 +4877,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/13fb77c5-6277-480b-be4b-f6cce367b56c", "https://vgmdb.net/album/148864"]
 
-[921d5019585086e8e6ef3eac8e866c45]
+[bf8faa23f9bc48572bd3f41e0c7a7633]
 catalognumber = "B2-25"
 date = "2012-08-11"
 album = "ひぐらしのなく頃に 10周年記念CD メロンブックス購入特典 you & history -another history disc-"
@@ -4885,7 +4885,7 @@ tracks = [
     [1, "约束 (instrumental ver) [うみねこのなく顷に:未使用曲]", "", 0],
     [2, "残暑 [オリジナル曲]", "", 0],
     [3, "どこにもない明日 [オリジナル曲]", "", 0],
-    [4, "you (Original ver_カラオケ) [ひぐらしのなく顷に:カラオケ]", "", 0],
+    [4, "you (Original ver_カラオケ) [ひぐらしのなく顷に:カラオケ]", "", 1],
     [5, "キョウ [彼岸花のなく顷に:采用曲]", "", 0],
     [6, "dark angel [うみねこのなく顷に:未使用曲]", "", 0],
     [7, "Final Answer (short ver) [うみねこのなく顷に:未使用曲]", "", 0],
@@ -4894,21 +4894,21 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/44042"]
 
-[53713995dafcd165fe1d2e7917b54f49]
+[a9eeaab4f1efc829f737439bc25c273f]
 catalognumber = "MGBT-0001"
 date = "2012-08-11"
 album = "ひぐらしのなく頃に10周年記念CD-you&history- Original Soundtrack, Arrangement, Vocal, Drama, Prototype/Unused"
 tracks = [
-    [1, "being", "dai", 0],
-    [2, "thanks", "dai", 0],
-    [3, "thanks 2012-remix-", "dai", 0],
-    [4, "you -ありがとう-", "dai feat.癒月", 0],
-    [5, "you -cry-", "dai feat.癒月", 0],
-    [6, "you -ドラマCDひぐらしのなく頃に 目明し編EDテーマ-", "dai feat.雪野五月", 0],
-    [7, "そらのむこうへ", "dai", 0],
+    [1, "being", "dai", 1],
+    [2, "thanks", "dai", 1],
+    [3, "thanks 2012-remix-", "dai", 1],
+    [4, "you -ありがとう-", "dai feat.癒月", 1],
+    [5, "you -cry-", "dai feat.癒月", 1],
+    [6, "you -ドラマCDひぐらしのなく頃に 目明し編EDテーマ-", "dai feat.雪野五月", 1],
+    [7, "そらのむこうへ", "dai", 1],
     [8, "鷹野の許された日", "dai", 0],
     [9, "Bouquet of funeral", "dai", 0],
-    [10, "you -2012 Ver.-", "dai feat.癒月", 0],
+    [10, "you -2012 Ver.-", "dai feat.癒月", 1],
     [11, "お疲れ様会", "dai", 0],
     [12, "ひぐらしは生まれ、紡いでいく", "dai", 0],
     [13, "雲ひとつない青空", "dai", 0],
@@ -4916,7 +4916,7 @@ tracks = [
     [15, "月下の丘", "dai", 0],
     [16, "最後の夜", "dai", 0],
     [17, "約束を果たしに", "dai", 0],
-    [18, "泣かないで-Ver.2012- カラオケVer", "dai", 0],
+    [18, "泣かないで-Ver.2012- カラオケVer", "dai", 1],
     [19, "TSUBASA カラオケVer", "dai", 0],
     [20, "愛しを渡るは黄昏ぞ カラオケVer", "dai & ラック眼力", 0],
     [21, "霧のピトス カラオケVer", "dai & ラック眼力", 0],
@@ -4925,14 +4925,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8374da83-4880-4df3-8917-48b095c2223a", "https://vgmdb.net/album/34075"]
 
-[64f61b36f87307751791cd91064f115b]
+[ca316dfd8151ebc2af5e80655335b0a7]
 catalognumber = "MGBT-0001"
 date = "2012-08-11"
 album = "ひぐらしのなく頃に10周年記念CD-you&history- Arrangement, Vocal"
 tracks = [
     [1, "霧のピトス -Game size-", "dai feat.木野寧", 0],
     [2, "TSUBASA -Game size-", "dai feat.片霧烈火", 0],
-    [3, "泣かないで -Ver.2012-", "dai feat.佐倉かなえ", 0],
+    [3, "泣かないで -Ver.2012-", "dai feat.佐倉かなえ", 1],
     [4, "すいすい☆スイーツ! -コピーバンド-", "dai feat.佐倉かなえ", 0],
     [5, "愛しを渡るは黄昏ぞ -Game size-", "dai feat.木野寧", 0],
     [6, "aris", "dai", 0],
@@ -4944,7 +4944,7 @@ tracks = [
     [12, "reanimate", "U2 Akiyama", 0],
     [13, "翼 Re:mix", "dai", 0],
     [14, "Why you are", "dai", 0],
-    [15, "そらのむこう -mbox風-", "dai", 0],
+    [15, "そらのむこう -mbox風-", "dai", 1],
     [16, "命", "dai", 0],
     [17, "hope", "dai feat.葉月なの", 0],
     [18, "幸せの結晶", "dai feat.葉月なの", 0],
@@ -4993,7 +4993,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/279f2d1f-ba33-4899-845b-6fdcd3b81d2e", "https://vgmdb.net/album/69068"]
 
-[f5743ebce89a09a7374881a37ef977b6]
+[a2adce91eec3ae79626b9700828eb88d]
 catalognumber = "UDAR-005"
 date = "2012-10-28"
 album = "GAMES STRINGS EDITION 2"
@@ -5006,8 +5006,8 @@ tracks = [
     [6, "ボスバトル ～GB原人 より", "清水嶺", 0],
     [7, "ねがい ～聖剣伝説2 より", "清水嶺", 0],
     [8, "Innocent Sea ～聖剣伝説3 より", "清水嶺", 0],
-    [9, "being ～ひぐらしのなく頃に より", "清水嶺", 0],
-    [10, "you ～ひぐらしのなく頃に より", "清水嶺", 0],
+    [9, "being ～ひぐらしのなく頃に より", "清水嶺", 1],
+    [10, "you ～ひぐらしのなく頃に より", "清水嶺", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0e953636-9cdc-4882-af50-00d386a0b11c", "https://vgmdb.net/album/37939"]
 
@@ -5070,21 +5070,21 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/38829"]
 
-[5230cd48f6a2a97c69ead15aa6d691aa]
+[606ced7b2c47aa81d078cb17317c697d]
 catalognumber = "MGBT-0003"
 date = "2013-08-10"
 album = "ひぐらしのなく頃に×うみねこのなく頃に Piano Collection Plus Bonus Disc"
 tracks = [
-    [1, "こころむすび_インストリメイク", "", 0],
-    [2, "you -ありがとう-カラオケ", "", 0],
-    [3, "thanks Vocal(高音質)", "", 0],
+    [1, "こころむすび_インストリメイク", "", 1],
+    [2, "you -ありがとう-カラオケ", "", 1],
+    [3, "thanks Vocal(高音質)", "", 1],
     [4, "忘れてきた宝物", "", 0],
     [5, "戦闘準備", "", 0],
     [6, "明星", "", 0],
     [7, "who", "", 0],
     [8, "夢の詩", "", 0],
     [9, "again", "", 0],
-    [10, "突風", "", 0],
+    [10, "突風", "", 1],
     [11, "日常曲", "", 0],
     [12, "明日のために", "", 0],
     [13, "卒業", "", 0],
@@ -5095,14 +5095,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/94086"]
 
-[e329f32c38842c229c0f4279f9f8fba4]
+[1609ed993b1baccaf81abe2d84e81bc5]
 catalognumber = "MGBT-0002"
 date = "2013-08-10"
 album = "ひぐらしのなく頃に×うみねこのなく頃に Piano Collections"
 tracks = [
-    [1, "you", "dai", 0],
-    [2, "Thanks", "dai", 0],
-    [3, "そらのむこう", "dai", 0],
+    [1, "you", "dai", 1],
+    [2, "Thanks", "dai", 1],
+    [3, "そらのむこう", "dai", 1],
     [4, "hope", "dai", 0],
     [5, "生まれてきてくれてありがとう", "dai", 0],
     [6, "ひだまり", "dai", 0],
@@ -5116,18 +5116,18 @@ tracks = [
     [14, "命", "dai", 0],
     [15, "hello", "dai", 0],
     [16, "霧のピトス クインテット", "dai", 0],
-    [17, "you -ありがとう-クインテット", "dai", 0],
+    [17, "you -ありがとう-クインテット", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/56778b01-ab07-447d-932a-ceae3819f7bf", "https://vgmdb.net/album/40304"]
 
-[c67e91b8c9ce277cd117e9e7994961df]
+[aa751659f9ef5fc497cbc35d051f5e01]
 catalognumber = "NZCD-T06"
 date = "2013-08-12"
 album = "幻想のカケラ"
 tracks = [
     [1, "Gray matter", "", 0],
     [2, "Iru式", "", 0],
-    [3, "Thanks-厄神様-", "", 0],
+    [3, "Thanks-厄神様-", "", 1],
     [4, "西行妖の咲く頃に", "", 0],
     [5, "bring", "", 0],
     [6, "Fearlessly Girl", "", 0],
@@ -5136,30 +5136,30 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/157663"]
 
-[e9874e9e0a05c99f084f524e303409d7]
+[97be2b2f06f3abb9824d15abf953f9d3]
 catalognumber = "USSW-0013"
 date = "2013-11-20"
 album = "ひぐらしのなく頃に ボーカルソング + ゲームオープニングムービー集 Disc 1 (CD) [USSW-0013-1]"
 tracks = [
-    [1, "嘆きノ森", "", 0],
-    [2, "追想のディスペア", "", 0],
-    [3, "そらのむこう", "", 0],
-    [4, "その先にある、誰かの笑顔の為に", "", 0],
-    [5, "光の空のクオリア", "", 0],
-    [6, "escape", "", 0],
+    [1, "嘆きノ森", "", 1],
+    [2, "追想のディスペア", "", 1],
+    [3, "そらのむこう", "", 1],
+    [4, "その先にある、誰かの笑顔の為に", "", 1],
+    [5, "光の空のクオリア", "", 1],
+    [6, "escape", "", 1],
     [7, "ただ流るるままに", "", 0],
-    [8, "突風", "", 0],
+    [8, "突風", "", 1],
     [9, "Angelic bright", "", 0],
-    [10, "プレイス・オブ・ピリオド", "", 0],
-    [11, "漆黒の祭壇", "", 0],
-    [12, "コンプレックス・イマージュ", "", 0],
-    [13, "Friend", "", 0],
-    [14, "you(Vocal)", "", 0],
-    [15, "you", "", 0],
+    [10, "プレイス・オブ・ピリオド", "", 1],
+    [11, "漆黒の祭壇", "", 1],
+    [12, "コンプレックス・イマージュ", "", 1],
+    [13, "Friend", "", 1],
+    [14, "you(Vocal)", "", 1],
+    [15, "you", "", 1],
 ]
 links = ["https://vgmdb.net/album/42372"]
 
-[0099aeea1d19ecbbdef41bff6a6d6429]
+[bdae709ccdaf7da57ffd212bd3f28fb4]
 catalognumber = "USSW-0013"
 date = "2013-11-20"
 album = "ひぐらしのなく頃に ボーカルソング + ゲームオープニングムービー集 Disc 2 (DVD) [USSW-0013-2]"
@@ -5172,18 +5172,18 @@ tracks = [
     [6, "ひぐらしのなく頃に絆 第四巻・絆 【ゲームオープニングムービー&PV】", "", 0],
     [7, "ひぐらしデイブレイクPortable 【ゲームオープニングムービー&PV】", "", 0],
     [8, "ひぐらしデイブレイクPortable MEGA EDITION 【ゲームオープニングムービー&PV】", "", 0],
-    [9, "嘆きの森 【ボーナストラック】", "", 0],
-    [10, "追想のディスペア 【ボーナストラック】", "", 0],
-    [11, "その先にある、誰かの笑顔の為に 【ボーナストラック】", "", 0],
+    [9, "嘆きの森 【ボーナストラック】", "", 1],
+    [10, "追想のディスペア 【ボーナストラック】", "", 1],
+    [11, "その先にある、誰かの笑顔の為に 【ボーナストラック】", "", 1],
 ]
 links = ["https://vgmdb.net/album/42372"]
 
-[a8869d5111c9e570eaadb0f0ecaaf804]
+[6cfaf0e2a5587f5e1a07065c78975bf1]
 catalognumber = "TNIV-0005"
 date = "2013-12-31"
 album = "I've sound arranged vol.5 MIXED:05"
 tracks = [
-    [1, "ひぐらしのなく頃に", "", 0],
+    [1, "ひぐらしのなく頃に", "", 1],
     [2, "agony", "", 0],
     [3, "eclipse", "", 0],
     [4, "Suppuration", "", 0],
@@ -5209,13 +5209,13 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/157217"]
 
-[55644da784eebb4e71c9e99993f50d4d]
+[e881f5e2152b2b9170ff6071153d79ff]
 catalognumber = "MGCD-0002"
 date = "2014-08-17"
 album = "ひぐらしのなく頃に奉 Original Sound Version & Arranged Tracks ｢あの日へ/you｣"
 tracks = [
     [1, "あの日へ", "癒月", 0],
-    [2, "夢想 -オルゴール-", "dai", 0],
+    [2, "夢想 -オルゴール-", "dai", 1],
     [3, "胎動～鼓動 -Colors-", "dai", 0],
     [4, "morning bell", "dai", 0],
     [5, "Moon bow (ひぐらし解曲battle ver.)", "dai", 0],
@@ -5226,12 +5226,12 @@ tracks = [
     [10, "瞳", "dai", 0],
     [11, "あの日へ (special ver.)", "dai", 0],
     [12, "Remember", "dai", 0],
-    [13, "ふたり。ひとり。 -戦闘オケVer-", "dai", 0],
+    [13, "ふたり。ひとり。 -戦闘オケVer-", "dai", 1],
     [14, "夏雪", "dai", 0],
     [15, "Story", "dai", 0],
     [16, "光へ (Gray-you-gray arrange Ver.)", "dai", 0],
     [17, "あの日へ -春桜-", "木野寧", 0],
-    [18, "you -2014再ミックス Thanks/you Ver.-", "癒月", 0],
+    [18, "you -2014再ミックス Thanks/you Ver.-", "癒月", 1],
     [19, "None", "dai", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/76a2dd77-f9b4-4152-b3f2-834866211e6e", "https://vgmdb.net/album/47501"]
@@ -5266,7 +5266,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/48455"]
 
-[afc2db87c9de8fd98eb4b12e60b1176c]
+[6f718d93a7ea47f799bfd28a3cb5b7dc]
 catalognumber = "FVCG-1316"
 date = "2014-10-08"
 album = "Base Ten / 彩音"
@@ -5277,31 +5277,31 @@ tracks = [
     [4, "仮面の下のバラッド", "彩音", 0],
     [5, "残酷な天使のテーゼ", "彩音", 0],
     [6, "創聖のアクエリオン", "彩音", 0],
-    [7, "嘆きノ森 〜acoustic ver.〜", "彩音", 0],
+    [7, "嘆きノ森 〜acoustic ver.〜", "彩音", 1],
     [8, "ORANGE 〜acoustic ver.〜", "彩音", 0],
-    [9, "コンプレックス・イマージュ 〜acoustic ver.〜", "彩音", 0],
+    [9, "コンプレックス・イマージュ 〜acoustic ver.〜", "彩音", 1],
     [10, "Next Relation", "彩音", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e1ca59df-687e-467b-a8cf-bf4530ba5da9", "https://vgmdb.net/album/48034"]
 
-[58bf1c446ae354661b32ae108441d1ee]
+[39ed9c31c1ea01f5a81f908b4dc8af96]
 catalognumber = "N/A"
 date = "2014-10-13"
 album = "ひぐらしのなく頃に　アレンジヴォーカル CD"
 tracks = [
-    [1, "空夢 long version", "", 0],
+    [1, "空夢 long version", "", 1],
     [2, "Hello, future", "", 0],
-    [3, "空夢 long version (off vocal)", "", 0],
+    [3, "空夢 long version (off vocal)", "", 1],
     [4, "Hello, future (off vocal)", "", 0],
 ]
 links = ["https://vgmdb.net/album/118970"]
 
-[95e59457af91ea100fd98d3868137766]
+[155113a6efbe4bb5c216bf366ddb93ae]
 catalognumber = "MCSD-1016"
 date = "2014-12-30"
 album = "GAMETAL SLAVES OF METAL"
 tracks = [
-    [1, "追想のディスペア（ひぐらしのなく頃に絆 第一巻・祟）", "快楽音楽堂", 0],
+    [1, "追想のディスペア（ひぐらしのなく頃に絆 第一巻・祟）", "快楽音楽堂", 1],
     [2, "Moving go on ～そこから見える未来～（3days ～満ちてゆく刻の彼方で～）", "快楽音楽堂", 0],
     [3, "CAVE（DEEP2）", "快楽音楽堂", 0],
     [4, "Satirize（螺旋回廊2）", "快楽音楽堂", 0],
@@ -5339,23 +5339,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/361a6a5b-784b-4c3a-b036-7fdcc43e1064", "https://vgmdb.net/album/50022"]
 
-[59e25a7859a44f1d4090038bb5177630]
+[81edcfd4efcf268f7634fb798f4e5b7c]
 catalognumber = "FCCM-0352"
 date = "2015-02-04"
 album = "ひぐらしのなく頃に テーマソングコレクション"
 tracks = [
-    [1, "ひぐらしのなく頃に", "島みやえい子", 0],
-    [2, "why, or why not", "大嶋啓之 feat. 片霧烈火", 0],
-    [3, "奈落の花", "島みやえい子", 0],
-    [4, "対象a", "anNina", 0],
-    [5, "Super scription of data", "島みやえい子", 0],
-    [6, "まなざし", "anNina", 0],
+    [1, "ひぐらしのなく頃に", "島みやえい子", 1],
+    [2, "why, or why not", "大嶋啓之 feat. 片霧烈火", 1],
+    [3, "奈落の花", "島みやえい子", 1],
+    [4, "対象a", "anNina", 1],
+    [5, "Super scription of data", "島みやえい子", 1],
+    [6, "まなざし", "anNina", 1],
     [7, "Happy! Lucky! Dochy!", "古手梨花(CV:田村ゆかり)、北条沙都子(CV:かないみか)、羽入(CV:堀江由衣)", 0],
     [8, "前代未聞☆ミラクルチェンジ", "竜宮レナ(CV:中原麻衣)", 0],
-    [9, "you -Visionen im Spiegel", "癒月", 0],
-    [10, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 0],
-    [11, "ディオラマ", "島みやえい子", 0],
-    [12, "誓い", "島みやえい子", 0],
+    [9, "you -Visionen im Spiegel", "癒月", 1],
+    [10, "WHEEL OF FORTUNE (運命の輪)", "島みやえい子", 1],
+    [11, "ディオラマ", "島みやえい子", 1],
+    [12, "誓い", "島みやえい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/acb48fbe-28fe-4bf1-8fe5-63ff7cffce4e", "https://vgmdb.net/album/48432"]
 
@@ -5373,16 +5373,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a753969c-2367-4be5-8363-5fe0e99217fb", "https://vgmdb.net/album/49733"]
 
-[26726013e3158c86f2f463b919cd4950]
+[d6c45ea2afef4bff3b328493c0cf9be3]
 catalognumber = "VLCJM-35179"
 date = "2015-03-12"
 album = "ひぐらしのなく頃に粋 ソフマップ予約特典 オリジナルミュージックCD"
 tracks = [
-    [1, "コンプレックス・イマージュ インストver", "", 0],
-    [2, "追想のディスペア インストver", "", 0],
-    [3, "プレイス・オブ・ピリオド インストver", "", 0],
-    [4, "光の空のクオリア インストver", "", 0],
-    [5, "漆黒の祭壇 インストver", "", 0],
+    [1, "コンプレックス・イマージュ インストver", "", 1],
+    [2, "追想のディスペア インストver", "", 1],
+    [3, "プレイス・オブ・ピリオド インストver", "", 1],
+    [4, "光の空のクオリア インストver", "", 1],
+    [5, "漆黒の祭壇 インストver", "", 1],
     [6, "Angelic bright インストver", "", 0],
     [7, "ただ流るるままに インストver", "", 0],
     [8, "クイズオヤシロショック", "", 0],
@@ -5472,7 +5472,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d764dea6-6fb1-430d-b8d3-1cd14b8e61b3", "https://vgmdb.net/album/101792"]
 
-[13ecc6c4a46e967667ff064aeb277509]
+[e8c14ed3bab0bb56d935463898b0d09b]
 catalognumber = "MG7U-0001"
 date = "2016-04-24"
 album = "ずっと、ふたり。"
@@ -5487,16 +5487,16 @@ tracks = [
     [8, "幸せの結晶 (new recording)", "dai×nayuta", 0],
     [9, "ずっと、ふたり。", "nayuta", 0],
     [10, "いつかまた - Thanks -", "dai×nayuta", 0],
-    [11, "Iru (instrumental)", "dai", 0],
+    [11, "Iru (instrumental)", "dai", 1],
     [12, "Hello (instrumental)", "dai", 0],
-    [13, "Birth and Death (instrumental)", "dai", 0],
+    [13, "Birth and Death (instrumental)", "dai", 1],
     [14, "hope (instrumental)", "dai", 0],
-    [15, "feel (instrumental)", "dai", 0],
+    [15, "feel (instrumental)", "dai", 1],
     [16, "それを、失くさない為に。(instrumental)", "dai", 0],
     [17, "生まれてきてくれてありがとう (instrumental)", "dai", 0],
     [18, "幸せの結晶 (instrumental)", "dai", 0],
     [19, "ずっと、ふたり。(instrumental)", "dai", 0],
-    [20, "Thanks (instrumental)", "dai", 0],
+    [20, "Thanks (instrumental)", "dai", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7b2bcc20-3988-4f1e-9257-a5885c194ab3", "https://vgmdb.net/album/58191"]
 
@@ -5515,24 +5515,24 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104903"]
 
-[9ba634d1895c10376eeec072835fcfdd]
+[f22c0f953a120f4c19476bec00d8709f]
 catalognumber = "HATS-0001"
 date = "2016-09-23"
 album = "弦楽四重奏とピアノによる「ひぐらしのなく頃に奏」楽曲演奏会"
 tracks = [
-    [1, "ひぐらしのなく頃に", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [2, "why, or why not", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [3, "奈落の花", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [4, "対象a", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [5, "嘆きノ森", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [6, "そらのむこう", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [7, "Thanks", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [8, "こころむすび", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [9, "Birth and Death", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [10, "ふたり。ひとり。", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [11, "You-Destructive", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [12, "You", "弦楽四重奏DEQUAR, 栗原正和", 0],
-    [13, "You (Vocal Version)", "癒月, 弦楽四重奏DEQUAR, 栗原正和", 0],
+    [1, "ひぐらしのなく頃に", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [2, "why, or why not", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [3, "奈落の花", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [4, "対象a", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [5, "嘆きノ森", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [6, "そらのむこう", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [7, "Thanks", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [8, "こころむすび", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [9, "Birth and Death", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [10, "ふたり。ひとり。", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [11, "You-Destructive", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [12, "You", "弦楽四重奏DEQUAR, 栗原正和", 1],
+    [13, "You (Vocal Version)", "癒月, 弦楽四重奏DEQUAR, 栗原正和", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e55a05ba-aab6-426f-a460-65626311fc4c", "https://vgmdb.net/album/60539"]
 
@@ -5573,7 +5573,7 @@ album = "ひぐらしのなく頃に 奉 典圭一＆沙都子の朗読劇ドラ
 tracks = []
 links = ["https://vgmdb.net/album/104602"]
 
-[dd264a8e1cb3b056f80dedc0c6ea94a9]
+[4be1ff343c8a66923da52246c712bff4]
 catalognumber = "BFCD-0024"
 date = "2018-08-10"
 album = "ひぐらしのなく頃に アレンジ作品集 Akoustika(アクスティカ)11"
@@ -5584,7 +5584,7 @@ tracks = [
     [4, "がらくたもの 〜piano inst ver.〜", "", 0],
     [5, "ひぐらしブレイクアウト！ 〜guitar vocal ver.〜 <without vocal>", "", 0],
     [6, "廻る咎人たち 〜piano vocal ver.〜 <without vocal>", "", 0],
-    [7, "You 〜piano & guitar inst ver.〜", "", 0],
+    [7, "You 〜piano & guitar inst ver.〜", "", 1],
 ]
 links = ["https://vgmdb.net/album/89228"]
 
@@ -5681,14 +5681,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/764197c1-70a4-40f4-86de-40640edeaf06", "https://vgmdb.net/album/88688"]
 
-[d2dfb564862d2cc8248dfd5a46e96e34]
+[9a570e8b2ea4b8e7bdb8fc2ccb6810a3]
 catalognumber = "SVWC-70409~10"
 date = "2019-09-25"
 album = "冴えない彼女の育てかた ギャルゲーカバーソングコレクション [期間限定生産盤] Disc 1 [SVWC-70409]"
 tracks = [
     [1, "Leaf ticket", "加藤恵(CV.安野希世乃)", 0],
     [2, "勇気の神様", "澤村・スペンサー・英梨々(CV.大西沙織)", 0],
-    [3, "you(Vocal)", "霞ヶ丘詩羽(CV.茅野愛衣)", 0],
+    [3, "you(Vocal)", "霞ヶ丘詩羽(CV.茅野愛衣)", 1],
     [4, "グリーングリーン", "氷堂美智留 (CV.矢作紗友里)", 0],
     [5, "Heart To Heart", "波島出海 (CV.赤﨑千夏)", 0],
     [6, "季節を抱きしめて", "加藤恵（CV.安野希世乃）", 0],
@@ -5715,7 +5715,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b72081f-3d62-447f-b718-c8af409d198f", "https://vgmdb.net/album/85606"]
 
-[3180d57eab67c7a176ca068a6d3e721b]
+[6c7a7ec997a2e4d11c79b8fdb4d8f6e3]
 catalognumber = "LIAM-1002"
 date = "2019-12-18"
 album = "REVIVES II -Lia Sings beautiful anime songs-"
@@ -5724,7 +5724,7 @@ tracks = [
     [2, "変わらないもの", "Lia", 0],
     [3, "For フルーツバスケット", "Lia", 0],
     [4, "unravel", "Lia", 0],
-    [5, "you", "Lia", 0],
+    [5, "you", "Lia", 1],
     [6, "メグメル", "Lia", 0],
     [7, "コネクト", "Lia", 0],
     [8, "Agape", "Lia", 0],
@@ -5756,14 +5756,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/970a7332-19e5-4546-af09-9ce3a994583c", "https://vgmdb.net/album/85381"]
 
-[7b7247c279ef024fd3c0480ea1607b5f]
+[99291b81fdc15f9f03e7aaef46b95af9]
 catalognumber = "KDSD-01028~30"
 date = "2020-02-26"
 album = "「片霧烈火」20周年ベストアルバム Vocal Disc 2"
 tracks = [
     [1, "METHOD_HYMMELI/.", "片霧烈火", 0],
     [2, "鏡の森", "片霧烈火", 0],
-    [3, "月下の決闘者", "TERRA、片霧烈火", 0],
+    [3, "月下の決闘者", "TERRA、片霧烈火", 1],
     [4, "色に出でにけり わが恋は", "片霧烈火", 0],
     [5, "一生モノ☆", "片霧烈火", 0],
     [6, "そらの隙間", "片霧烈火", 0],
@@ -5800,14 +5800,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/970a7332-19e5-4546-af09-9ce3a994583c", "https://vgmdb.net/album/85381"]
 
-[4ed130c4fcd31440958adfd0bbd0a421]
+[4cf4b83eb36f5847d64b5e77d266db42]
 catalognumber = "KDSD-01032"
 date = "2020-02-26"
 album = "Keep the YOUTH. 2 〜Rekka Katakiri 20th Anniversary BEST〜"
 tracks = [
     [1, "METHOD_HYMMELI/.", "片霧烈火", 0],
     [2, "鏡の森", "片霧烈火", 0],
-    [3, "月下の決闘者", "TERRA、片霧烈火", 0],
+    [3, "月下の決闘者", "TERRA、片霧烈火", 1],
     [4, "色に出でにけり わが恋は", "片霧烈火", 0],
     [5, "一生モノ☆", "片霧烈火", 0],
     [6, "そらの隙間", "片霧烈火", 0],
@@ -5873,15 +5873,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0d996865-43db-46af-9d2f-6b5e81788d14", "https://vgmdb.net/album/104574"]
 
-[5e7ecbbcaf996a75b0a1e766ce29ec28]
+[d41a08a80f0b2004dc34369886ba86db]
 catalognumber = "N/A"
 date = "2020-11-08"
 album = "ひぐらしのなく頃に (composed by zts)"
 tracks = [
-    [1, "what is wished", "zts", 0],
-    [2, "soak", "zts", 0],
-    [3, "daily passing by", "zts", 0],
-    [4, "daily passing by(celesta)", "zts", 0],
+    [1, "what is wished", "zts", 1],
+    [2, "soak", "zts", 1],
+    [3, "daily passing by", "zts", 1],
+    [4, "daily passing by(celesta)", "zts", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/eab8c6e9-b953-4d98-88f0-55faba429b77", "https://vgmdb.net/album/106065"]
 
@@ -5899,12 +5899,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/adf4c18a-578e-460d-8c48-07162aa020e5", "https://vgmdb.net/album/107498"]
 
-[cf2866c76657c110aede0e52b6365a7e]
+[aec99f969d983dea28eeb439caa5c349]
 catalognumber = "KAXA-7981CD"
 date = "2021-02-24"
 album = "ひぐらしのなく頃に業 Original Soundtrack CD"
 tracks = [
-    [1, "メイン・テーマ - 業", "川井憲次", 0],
+    [1, "メイン・テーマ - 業", "川井憲次", 1],
     [2, "優美", "川井憲次", 0],
     [3, "希望", "川井憲次", 0],
     [4, "孤独", "川井憲次", 0],
@@ -5924,17 +5924,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c390a97c-fca4-466b-9c4d-6824f16f23bb", "https://vgmdb.net/album/104000"]
 
-[072b05f130af196e75157c2c21eb5e11]
+[d77632d883bedc538604df862b75655f]
 catalognumber = "N/A"
 date = "2021-04-25"
 album = "ひぐらしをひく頃に"
 tracks = [
-    [1, "ひぐらしのなく頃に", "", 0],
-    [2, "奈落の花", "", 0],
-    [3, "Super scription of data", "", 0],
+    [1, "ひぐらしのなく頃に", "", 1],
+    [2, "奈落の花", "", 1],
+    [3, "Super scription of data", "", 1],
     [4, "Happy! Lucky! Dochy!", "", 0],
     [5, "I belive what you said", "", 0],
-    [6, "You Guitar inst short", "", 0],
+    [6, "You Guitar inst short", "", 1],
 ]
 links = ["https://vgmdb.net/album/154779"]
 
@@ -5960,22 +5960,22 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113590"]
 
-[515827226181f1ed994b3ee90000189d]
+[474ed2193557b4036e27cf8ab776cffe]
 catalognumber = "N/A"
 date = "2021-06-12"
 album = "ひぐらしのなく頃に Original Soundtrack -なく頃にレコードVer.- Vol.1"
 tracks = [
-    [1, "you", "", 0],
-    [2, "ふたり。ひとり。", "", 0],
-    [3, "being", "", 0],
-    [4, "そらのむこう", "", 0],
+    [1, "you", "", 1],
+    [2, "ふたり。ひとり。", "", 1],
+    [3, "being", "", 1],
+    [4, "そらのむこう", "", 1],
     [5, "鼓動～胎動", "", 0],
-    [6, "Over the sky", "", 0],
+    [6, "Over the sky", "", 1],
     [7, "Libareting", "", 0],
-    [8, "にぱ～☆", "", 0],
-    [9, "kneecap", "", 0],
-    [10, "bright sun", "", 0],
-    [11, "spinning seesaw", "", 0],
+    [8, "にぱ～☆", "", 1],
+    [9, "kneecap", "", 1],
+    [10, "bright sun", "", 1],
+    [11, "spinning seesaw", "", 1],
     [12, "手の鳴る方へ", "", 0],
     [13, "ふしぎかたり", "", 0],
     [14, "がらくたもの", "", 0],
@@ -6007,56 +6007,56 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/113591"]
 
-[1a917b116c2061cc20a3d5d2a31158d1]
+[62cd55a3aa419d6ec9b55569a17b06c7]
 catalognumber = "USSW-0305"
 date = "2021-07-28"
 album = "Analogy ～彩音 HIGURASHI Song Collection～ [限定盤] Arrangement, Vocal"
 tracks = [
     [1, "神様のシンドローム", "彩音", 0],
-    [2, "コンプレックス・イマージュ", "彩音", 0],
-    [3, "嘆きノ森", "彩音", 0],
+    [2, "コンプレックス・イマージュ", "彩音", 1],
+    [3, "嘆きノ森", "彩音", 1],
     [4, "Analogy", "彩音", 0],
     [5, "ただ流るるままに", "彩音", 0],
-    [6, "その先にある、誰かの笑顔の為に", "彩音", 0],
+    [6, "その先にある、誰かの笑顔の為に", "彩音", 1],
     [7, "Angelic bright", "彩音", 0],
     [8, "フラストレーション", "彩音", 0],
-    [9, "コンプレックス・イマージュ 〜Acoustic Ver.〜", "彩音", 0],
-    [10, "嘆きノ森 〜Acoustic Ver.〜", "彩音", 0],
+    [9, "コンプレックス・イマージュ 〜Acoustic Ver.〜", "彩音", 1],
+    [10, "嘆きノ森 〜Acoustic Ver.〜", "彩音", 1],
     [11, "Resonant fragments", "彩音", 0],
     [12, "Invisible light", "彩音", 0],
     [13, "不規則性エントロピー", "彩音", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/645508e2-cd84-498e-a870-9eb26d9e233e", "https://vgmdb.net/album/111658"]
 
-[4428179258f01714430a4a0bf5bdac2b]
+[060c0418de0288a7d4caf94e25bea5a4]
 catalognumber = "USSW-0305"
 date = "2021-07-28"
 album = "Analogy ～彩音 HIGURASHI Song Collection～ [限定盤] Vocal, Live Event, Video"
 tracks = [
     [1, "Analogy", "", 0],
     [2, "不規則性エントロピー", "", 0],
-    [3, "嘆きノ森", "", 0],
-    [4, "その先にある、誰かの笑顔の為に", "", 0],
+    [3, "嘆きノ森", "", 1],
+    [4, "その先にある、誰かの笑顔の為に", "", 1],
     [5, "Ayane FAN \"MEAT\"ing Live Movie", "", 0],
     [6, "Analogy (making movie)", "", 0],
 ]
 links = ["https://vgmdb.net/album/111658"]
 
-[0125c2d68756d6e456d325b3719d9b3c]
+[b4dc4eb838cbf596d43ab5e0488f8061]
 catalognumber = "USSW-0306"
 date = "2021-07-28"
 album = "Analogy ～彩音 HIGURASHI Song Collection～"
 tracks = [
     [1, "神様のシンドローム", "彩音", 0],
-    [2, "コンプレックス・イマージュ", "彩音", 0],
-    [3, "嘆きノ森", "彩音", 0],
+    [2, "コンプレックス・イマージュ", "彩音", 1],
+    [3, "嘆きノ森", "彩音", 1],
     [4, "Analogy", "彩音", 0],
     [5, "ただ流るるままに", "彩音", 0],
-    [6, "その先にある、誰かの笑顔の為に", "彩音", 0],
+    [6, "その先にある、誰かの笑顔の為に", "彩音", 1],
     [7, "Angelic bright", "彩音", 0],
     [8, "フラストレーション", "彩音", 0],
-    [9, "コンプレックス・イマージュ 〜Acoustic Ver.〜", "彩音", 0],
-    [10, "嘆きノ森 〜Acoustic Ver.〜", "彩音", 0],
+    [9, "コンプレックス・イマージュ 〜Acoustic Ver.〜", "彩音", 1],
+    [10, "嘆きノ森 〜Acoustic Ver.〜", "彩音", 1],
     [11, "Resonant fragments", "彩音", 0],
     [12, "Invisible light", "彩音", 0],
     [13, "不規則性エントロピー", "彩音", 0],
@@ -6166,13 +6166,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ea9e404f-7d1a-41d9-816d-9fd4bab62e89", "https://vgmdb.net/album/114314"]
 
-[55627df6109c4dd0fb72667de7ecaa5f]
+[4d80c698aca6bd9e81adc6eb5a563018]
 catalognumber = "KAXA-8151CD"
 date = "2021-11-26"
 album = "ひぐらしのなく頃に卒 Original Soundtrack CD"
 tracks = [
     [1, "歪み", "川井憲次", 0],
-    [2, "メイン・テーマ - 卒", "川井憲次", 0],
+    [2, "メイン・テーマ - 卒", "川井憲次", 1],
     [3, "魔女", "川井憲次", 0],
     [4, "異空間", "川井憲次", 0],
     [5, "衝動", "川井憲次", 0],
@@ -6193,7 +6193,7 @@ tracks = [
     [20, "最期の願い", "川井憲次", 0],
     [21, "救い", "川井憲次", 0],
     [22, "奇跡", "川井憲次", 0],
-    [23, "メイン・テーマ - 望", "川井憲次", 0],
+    [23, "メイン・テーマ - 望", "川井憲次", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5f264437-6fc6-49a9-ba21-e1887422ca5c", "https://vgmdb.net/album/112318"]
 
@@ -6320,59 +6320,59 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/57a7c31f-3809-4a0b-bf22-54aeadedb503", "https://vgmdb.net/album/120016"]
 
-[703a2c463023cc787801d3893229a789]
+[3ba92d76d4ca66e55ceb95cdc49d3386]
 catalognumber = "N/A"
 date = "2022-08-22"
 album = "ひぐらしのなく頃に イメージソング ~響き綿流~"
 tracks = [
     [1, "凸凹インコンプリート (RemixVer.)", "ひぐうみSound", 0],
     [2, "Home Sweet Home", "ひぐうみSound", 0],
-    [3, "you (Jazz Arrange)", "ひぐうみSound", 0],
+    [3, "you (Jazz Arrange)", "ひぐうみSound", 1],
     [4, "凸凹インコンプリート (RemixVer.) [Off Vocal]", "ひぐうみSound", 0],
     [5, "Home Sweet Home (Off Vocal)", "ひぐうみSound", 0],
-    [6, "you (Jazz Arrange) [Off Vocal]", "ひぐうみSound", 0],
+    [6, "you (Jazz Arrange) [Off Vocal]", "ひぐうみSound", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a115b8b0-8681-45cb-b0f7-d0333dc3d50e", "https://vgmdb.net/album/122612"]
 
-[dbd80a46713c4965d40d6524b6a35c79]
+[d1ce42be8bee17d0b066b3819e7da96d]
 catalognumber = "FPBD-0732"
 date = "2022-08-31"
 album = "Songs for... MUSiC FROM MAGES. STUDIO / 彩音"
 tracks = [
-    [1, "コンプレックス・イマージュ (Songs for... Ver.)", "", 0],
+    [1, "コンプレックス・イマージュ (Songs for... Ver.)", "", 1],
     [2, "Resonant fragments (Songs for... Ver.)", "", 0],
     [3, "Anagram of Coda (Songs for... Ver.)", "", 0],
 ]
 links = ["https://vgmdb.net/album/122527"]
 
-[a02cd2c1aa5372c8e666ea3a10fe63c5]
+[3abd2c38d5a3327df8dc5684a7406e42]
 catalognumber = "MGPG-0001"
 date = "2022-10-15"
 album = "ひぐらしのなく頃に20周年記念CD Thanks/you-卒業- Arrangement, Vocal"
 tracks = [
-    [1, "you -卒業- feat.島みやえいこ", "", 0],
-    [2, "thanks -卒業- feat.本木咲黒", "", 0],
-    [3, "you -卒業- feat.島みやえいこ off vocal", "", 0],
-    [4, "thanks -卒業- feat.本木咲黒 off vocal", "", 0],
+    [1, "you -卒業- feat.島みやえいこ", "", 1],
+    [2, "thanks -卒業- feat.本木咲黒", "", 1],
+    [3, "you -卒業- feat.島みやえいこ off vocal", "", 1],
+    [4, "thanks -卒業- feat.本木咲黒 off vocal", "", 1],
     [5, "(no title available)", "", 0],
 ]
 links = ["https://vgmdb.net/album/120809"]
 
-[fd96f8eef60b36e710479d9d7dc9f723]
+[ff46bb7ee4c3e7fdd9afa6f277d65083]
 catalognumber = "MGPG-0001"
 date = "2022-10-15"
 album = "ひぐらしのなく頃に20周年記念CD Thanks/you-卒業- Original Soundtrack, Arrangement, Vocal, Live Event, Original Work, Remaster, Prototype/Unused"
 tracks = [
     [1, "ずっと、ふたり。-game size- feat.nayuta", "", 0],
     [2, "あの日へ繋がるラジオ", "", 0],
-    [3, "そらのむこう -2022マスタリングVer.- feat.結月そら", "", 0],
-    [4, "Thanks -from\"CD:yours\"2022マスタリングVer.- feat.癒月", "", 0],
-    [5, "you -卒業- Instrumental", "", 0],
+    [3, "そらのむこう -2022マスタリングVer.- feat.結月そら", "", 1],
+    [4, "Thanks -from\"CD:yours\"2022マスタリングVer.- feat.癒月", "", 1],
+    [5, "you -卒業- Instrumental", "", 1],
     [6, "終わりと始まりの物語", "", 0],
     [7, "OriginalZ -ひぐらしオリジンOP Fullsize- feat.本木咲黒", "", 0],
     [8, "あなたに会えて、ありがとう", "", 0],
     [9, "Answer -mbox- -from うみねこのなく頃に 咲より-", "", 0],
-    [10, "thanks -夏の夕暮れ-", "", 0],
+    [10, "thanks -夏の夕暮れ-", "", 1],
     [11, "Life -another Ver-", "", 0],
     [12, "道 -another ver-", "", 0],
     [13, "little_thing -キコニアのなく頃に 未使用曲-", "", 0],
@@ -6381,17 +6381,17 @@ tracks = [
     [16, "生命 -キコニアのなく頃に 未使用曲-", "", 0],
     [17, "あなたの足跡", "", 0],
     [18, "letter -2022年 ひぐらしオリジン書き下ろし曲-", "", 0],
-    [19, "thanks_-mbox- -ひぐらしのなく頃に奉＋より-", "", 0],
+    [19, "thanks_-mbox- -ひぐらしのなく頃に奉＋より-", "", 1],
     [20, "生まれてきてくれてありがとう -マッキィ's Guitar solo -", "", 0],
 ]
 links = ["https://vgmdb.net/album/120809"]
 
-[1da9357917031ad435cebdd18de64776]
+[5e63661544128c4d4a0d44689374c99a]
 catalognumber = "N/A"
 date = "2022-10-15"
 album = "ひぐらし20.5周年3点セット おまけCD"
 tracks = [
-    [1, "you -piano solo- (birth and death 風)", "", 0],
+    [1, "you -piano solo- (birth and death 風)", "", 1],
     [2, "hope (mbox風)", "", 0],
     [3, "樹 (花音BGMアレンジ前の曲)", "", 0],
 ]
@@ -6411,27 +6411,27 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/95f84dc3-22d7-4903-a6c0-402a67785d5d", "https://vgmdb.net/album/125028"]
 
-[3ca726fd17f8b2d4afb4d71421fa7a28]
+[3fb9bdf199bb5da42453a005f42f2777]
 catalognumber = "MIN-0051"
 date = "2022-12-30"
 album = "WHY, OR WHY NOT - HAPPIEST BRANCH"
 tracks = [
-    [1, "you - if, I want.", "", 0],
-    [2, "when they cry - in the springtime of life.", "", 0],
-    [3, "why, or why not - happiest branch.", "", 0],
+    [1, "you - if, I want.", "", 1],
+    [2, "when they cry - in the springtime of life.", "", 1],
+    [3, "why, or why not - happiest branch.", "", 1],
 ]
 links = ["https://vgmdb.net/album/156952"]
 
-[e6cf62f93bdda0dca536ef3be43a9d77]
+[f5f01ed06478f0a0f61fa075b2431eee]
 catalognumber = "N/A"
 date = "2023-04-03"
 album = "ひぐらしのなく頃に -pre-holder music EP-"
 tracks = [
     [1, "鼓動～胎動", "pre-holder", 0],
-    [2, "door", "pre-holder", 0],
+    [2, "door", "pre-holder", 1],
     [3, "rain~squall", "pre-holder", 0],
-    [4, "Over the sky", "pre-holder", 0],
-    [5, "Liberating", "pre-holder", 0],
+    [4, "Over the sky", "pre-holder", 1],
+    [5, "Liberating", "pre-holder", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9a162023-e2f8-42be-9b95-d2a78d511173", "https://vgmdb.net/album/127892"]
 
@@ -6449,7 +6449,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02904c77-09e2-4eff-aac0-1da615dbb2a4", "https://vgmdb.net/album/131342"]
 
-[21e770d7b1ba484b53e6e1a02cf7912c]
+[fb6bbd5897b3c15bd7cc6df7d34745b1]
 catalognumber = "N/A"
 date = "2023-12-31"
 album = "Dichromatic Retribution"
@@ -6461,14 +6461,14 @@ tracks = [
     [5, "Chara's Valentine I", "", 0],
     [6, "Chara's Valentine II", "", 0],
     [7, "UPRISING AGAINST THE WORLD", "", 0],
-    [8, "少女 -Unavoidable Occurrences-", "", 0],
+    [8, "少女 -Unavoidable Occurrences-", "", 1],
     [9, "月姫 -Dimming Dusk-", "", 0],
     [10, "FINAL BATTLE -2022.12 mix-", "", 0],
     [11, "~BONUS TRACK~ (Ruins & Another Medium)", "", 0],
 ]
 links = ["https://vgmdb.net/album/135582"]
 
-[0353be46311d1f71d2c04050cff4945d]
+[67b3448654170918490c1531eea27ec7]
 catalognumber = "CTCD-0018"
 date = "2024-04-28"
 album = "TOO NEGATIVE"
@@ -6482,7 +6482,7 @@ tracks = [
     [7, "もってけ！ハードコア (MAKINA MIX)", "DJ Technetium", 0],
     [8, "アニソン (MAKINA MIX)", "DJ Technetium", 0],
     [9, "青空 (2007 MAKINA MIX)", "DJ-Technetium", 0],
-    [10, "you (MAKINA MIX)", "DJ Technetium", 0],
+    [10, "you (MAKINA MIX)", "DJ Technetium", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9eb502ad-b902-4342-bbab-514536275ff3", "https://vgmdb.net/album/22796"]
 
@@ -6511,7 +6511,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/73be50bd-829a-4010-a161-881e2175d8d0", "https://vgmdb.net/album/143678"]
 
-[aab289a3cb024acf08b21bd6b01b1dd7]
+[52a46d745d8f54f786cc2f06cf27ff19]
 catalognumber = "AXSD-0008"
 date = "2024-10-27"
 album = "nexuz onoken vocal collection Disc 2 [AXSD-0008-2]"
@@ -6526,7 +6526,7 @@ tracks = [
     [8, "雨に祈りを", "onoken feat. 木下珠子", 0],
     [9, "Regalia", "onoken", 0],
     [10, "ウソ", "onoken", 0],
-    [11, "理由", "onoken", 0],
+    [11, "理由", "onoken", 1],
     [12, "月吼", "onoken", 0],
     [13, "キミ", "onoken", 0],
     [14, "Chronicle", "onoken feat. 茶太", 0],
@@ -6536,7 +6536,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/73be50bd-829a-4010-a161-881e2175d8d0", "https://vgmdb.net/album/143678"]
 
-[e18a7b57acceea08592e595373c69983]
+[178413523629fba00fb2cab09688fd7e]
 catalognumber = "AXSD-0008"
 date = "2024-10-27"
 album = "nexuz onoken vocal collection Disc 3 [AXSD-0008-3]"
@@ -6547,7 +6547,7 @@ tracks = [
     [4, "entreat", "夏川陽子", 0],
     [5, "光り降るなら", "彩羅", 0],
     [6, "Crimson Sign", "みとせのりこ", 0],
-    [7, "hymn", "onoken feat. 片霧烈火", 0],
+    [7, "hymn", "onoken feat. 片霧烈火", 1],
     [8, "monotone", "onoken feat. 三澤秋", 0],
     [9, "LUX", "onoken feat. ＊spiLa＊", 0],
     [10, "夏の残響", "onoken feat. 茶太", 0],
@@ -6576,7 +6576,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145846"]
 
-[3f632a73bb63f107cc53c07b6a8f5a03]
+[4cb2eb582831cddc9ce77078db8e06ba]
 catalognumber = "PVCD-0006~7"
 date = "2025-04-28"
 album = "Afterglow of the Vanity Fair Disc 2 [PVCD-0007]"
@@ -6585,32 +6585,32 @@ tracks = [
     [2, "水の中の永遠", "", 0],
     [3, "メトロニカが聞こえない", "", 0],
     [4, "木の葉の道を二人で", "", 0],
-    [5, "When they cry", "", 0],
-    [6, "why, or why not", "", 0],
+    [5, "When they cry", "", 1],
+    [6, "why, or why not", "", 1],
     [7, "ヤナト田植唄・巫 ―かみなぎ―", "", 0],
 ]
 links = ["https://vgmdb.net/album/145846"]
 
-[41cae64512b62a7ed9ec8ad5ee0853d6]
+[d51a3dade5aef37980f27f01b56d4c0a]
 catalognumber = "N/A"
 date = "2025-06-22"
 album = "you/thanks"
 tracks = [
-    [1, "you -2025 ゆきのさつきVer.-", "", 0],
-    [2, "Thanks -2025 ゆきのさつきVer.-", "", 0],
-    [3, "you -2025 ゆきのさつき LIVE Ver.-", "", 0],
-    [4, "you -カラオケハーフサイズ-", "", 0],
-    [5, "Thanks -カラオケハーフサイズ-", "", 0],
+    [1, "you -2025 ゆきのさつきVer.-", "", 1],
+    [2, "Thanks -2025 ゆきのさつきVer.-", "", 1],
+    [3, "you -2025 ゆきのさつき LIVE Ver.-", "", 1],
+    [4, "you -カラオケハーフサイズ-", "", 1],
+    [5, "Thanks -カラオケハーフサイズ-", "", 1],
 ]
 links = ["https://vgmdb.net/album/150469"]
 
-[1f1b7b1597a273c1243675dfe5113b4c]
+[dbec2507c327b013f5e675fb31db11de]
 catalognumber = "N/A"
 date = "2025-06-22"
 album = "Songs in Hinamizawa"
 tracks = [
-    [1, "you-卒業- acoustic ver.", "", 0],
-    [2, "thanks-卒業- acoustic ver.", "", 0],
+    [1, "you-卒業- acoustic ver.", "", 1],
+    [2, "thanks-卒業- acoustic ver.", "", 1],
     [3, "ひぐらしブレイクアウト! acoustic ver.", "", 0],
     [4, "OriginalZ acoustic ver.", "", 0],
     [5, "そらのむこう零 -誰もが傷つくことのない夏-", "", 0],
