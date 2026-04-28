@@ -46,7 +46,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5843"]
 
-[a9c46c8ea629a3518f45c81795527a01]
+[9fed34b76b9d79885040c51ba34921dd]
 catalognumber = "RRDP-005"
 date = "2016-08-14"
 album = "ゆめみて"
@@ -55,7 +55,7 @@ tracks = [
     [2, "おいでよ獣耳のロリ", "ちょこ", 0],
     [3, "ナイル川人間のテーマ", "秘密結社はみはみ", 0],
     [4, "絵本の君と観覧車の僕が出会って時計の針は逆方向に廻りました", "まいん", 0],
-    [5, "call,in木星彼氏", "桃箱", 0],
+    [5, "call,in木星彼氏", "桃箱", 1],
     [6, "組曲：わたしのゆめにっき", "きゃらめる", 0],
     [7, "ぐるしゃん！", "未々子", 0],
     [8, "ちょっぴり早歩き", "AKICat", 0],
@@ -64,13 +64,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/abf0e31c-b885-48ef-bc29-fd2b47986b6f", "https://www.dojin-music.info/cd/5809"]
 
-[a5d5073af3e3dec0589f709b362a3bc4]
+[919991a4a6f4abeb4c449b5e4992a5ab]
 catalognumber = ""
 date = "2016-10-30"
 album = "Hallo, Win Magic"
 tracks = [
     [1, "Hallo, Win Magic", "野々宮めぷ", 0],
-    [2, "@ra^^el|7 (Calamel banana)", "きゃらめる", 0],
+    [2, "@ra^^el|7 (Calamel banana)", "きゃらめる", 1],
     [3, "ω#！s|X＼:官○冂々 (Whisky:bonbon)", "しなもんしゅがー☆", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/1cf50de0-ac7e-4472-9c3c-7e988ec31f95", "https://www.dojin-music.info/cd/5847"]
@@ -113,7 +113,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/63a3dd3e-b973-44cd-b925-1e7f54d58991", "https://www.dojin-music.info/cd/5842"]
 
-[09b8ee0f232c489cf9a49a34647dc55f]
+[7b0a4101f5784d77d24d7c3c6afcb50b]
 catalognumber = "RRDP-005"
 date = "2017-11-30"
 album = "ゆめみて"
@@ -122,7 +122,7 @@ tracks = [
     [2, "おいでよ獣耳のロリ", "るりる電波部 feat. ちょこ", 0],
     [3, "ナイル川人間のテーマ", "るりる電波部 feat. 秘密結社はみはみ & ジョセフ鶴屋", 0],
     [4, "絵本の君と観覧車の僕が出会って時計の針は逆方向に廻りました", "るりる電波部 feat. まいん", 0],
-    [5, "call, in木星彼氏", "るりる電波部 feat. 桃箱", 0],
+    [5, "call, in木星彼氏", "るりる電波部 feat. 桃箱", 1],
     [6, "組曲:わたしのゆめにっき", "るりる電波部 feat. きゃらめる & 夢の案内ウサギ", 0],
     [7, "ぐるしゃん!", "るりる電波部 feat. 未々子", 0],
     [8, "ちょっぴり早歩き", "るりる電波部 feat. AKICat", 0],
@@ -155,19 +155,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5810"]
 
-[69048b98ff41a5294ef834cbb51ff89a]
+[6be2a89911758d621ee9ec09186a323d]
 catalognumber = ""
 date = "2019-04-28"
 album = "えれめんぽっぷ"
 tracks = [
-    [1, "\"Hello World\"", "かなキ", 0],
+    [1, "\"Hello World\"", "かなキ", 1],
     [2, "Pump up Cinderella Story", "みどり 未々子 しなもんしゅがー☆", 0],
     [3, "Rock☆Your Hert あきばえんじぇる♪", "こはる。", 0],
     [4, "超最先端AIカノジョいつきたん", "棗いつき", 0],
     [5, "超最優先ヤミカワAIカノジョゆのぴたん", "ゆの", 0],
-    [6, "Boundary of ordinary", "溝口ゆうま", 0],
+    [6, "Boundary of ordinary", "溝口ゆうま", 1],
     [7, "Pathos", "Evin a'k", 0],
-    [8, "Action!", "uno", 0],
+    [8, "Action!", "uno", 1],
     [9, "星の中の銀貨", "きゃらめる", 0],
     [10, "独奏のミスティア", "ricono", 0],
     [11, "わたのびんせん", "すずしろ", 0],
@@ -177,7 +177,7 @@ tracks = [
     [15, "今ボクの中の犬派と猫派がバトルの真っ最中 (2019 Re-Battle)", "ねこみりん", 0],
     [16, "Telling Fortune Fllower ｜い占花｜", "れにゃた", 0],
     [17, "MoonLight Stage", "月乃", 0],
-    [18, "ASMR！催眠双子と共に行く天国と地獄の旅 〜忠犬お兄ちゃん編〜", "真宮ゆず 大山チロル", 0],
+    [18, "ASMR！催眠双子と共に行く天国と地獄の旅 〜忠犬お兄ちゃん編〜", "真宮ゆず 大山チロル", 1],
     [19, "合わせ鏡の恋", "閣下", 0],
     [20, "Cold Breath 〜VOCAL REMIX ver.Wishful〜", "ゆずり", 0],
     [21, "das Leben nach dem Tode", "Rabbit House", 0],
@@ -193,13 +193,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5808"]
 
-[2b064273a0fab79f2ea9bd6020aaaa78]
+[31e39fc6efb8236eceb8687798c34352]
 catalognumber = ""
 date = "2019-10-27"
 album = "るりる電波部ベスト"
 tracks = [
     [1, "Hallo,Win Magic", "野々宮めぷ", 0],
-    [2, "call,in木星彼氏", "桃箱", 0],
+    [2, "call,in木星彼氏", "桃箱", 1],
     [3, "キセキノハナ", "きゃらめる", 0],
     [4, "おでんぱおでんはおでんわで", "舞園あき", 0],
     [5, "ようこそ寝落ち幼稚園へ", "大山チロル 未々子 まいん まめ乃", 0],

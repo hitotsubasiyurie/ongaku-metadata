@@ -1,117 +1,117 @@
-[d751498bb20f91b74c1b9cb871c248b9]
+[546c1ff8ea75d289e6d0ffef9a4513f2]
 catalognumber = "LACM-14565"
 date = "2017-01-25"
 album = "青空のラプソディ / fhána [アニメ盤]"
 tracks = [
-    [1, "青空のラプソディ", "fhána", 0],
-    [2, "Forest Map", "fhána", 0],
-    [3, "青空のラプソディ -instrumental-", "fhána", 0],
-    [4, "Forest Map -instrumental-", "fhána", 0],
+    [1, "青空のラプソディ", "fhána", 1],
+    [2, "Forest Map", "fhána", 1],
+    [3, "青空のラプソディ -instrumental-", "fhána", 1],
+    [4, "Forest Map -instrumental-", "fhána", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b508c6d3-5512-4df3-a0e6-2834377464a0", "https://vgmdb.net/album/62516"]
 
-[d59f1d0d20546b442cf205f0d66e1254]
+[91e5980c0a9f7811f7d771796dabdfbc]
 catalognumber = "LACM-14564"
 date = "2017-01-25"
 album = "青空のラプソディ / fhána [アーティスト盤]"
 tracks = [
-    [1, "青空のラプソディ", "fhána", 0],
-    [2, "現在地", "fhána", 0],
-    [3, "青空のラプソディ -instrumental-", "fhána", 0],
-    [4, "現在地 -instrumental-", "fhána", 0],
+    [1, "青空のラプソディ", "fhána", 1],
+    [2, "現在地", "fhána", 1],
+    [3, "青空のラプソディ -instrumental-", "fhána", 1],
+    [4, "現在地 -instrumental-", "fhána", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/03d85586-a036-4ea9-9238-c1563513090c", "https://vgmdb.net/album/62515"]
 
-[4b28b9a283bdd6a44b107c6081d1587d]
+[c78171aff744e05ef9b7c8410b13144a]
 catalognumber = "LACM-14566"
 date = "2017-02-08"
 album = "イシュカン・コミュニケーション / ちょろゴンず"
 tracks = [
-    [1, "イシュカン・コミュニケーション", "ちょろゴンず", 0],
-    [2, "A DAY IN THE DRAGON'S LIFE", "ちょろゴンず", 0],
-    [3, "イシュカン・コミュニケーション (off vocal)", "ちょろゴンず", 0],
-    [4, "A DAY IN THE DRAGON'S LIFE (off vocal)", "ちょろゴンず", 0],
+    [1, "イシュカン・コミュニケーション", "ちょろゴンず", 1],
+    [2, "A DAY IN THE DRAGON'S LIFE", "ちょろゴンず", 2],
+    [3, "イシュカン・コミュニケーション (off vocal)", "ちょろゴンず", 1],
+    [4, "A DAY IN THE DRAGON'S LIFE (off vocal)", "ちょろゴンず", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b1f85b4-9ddf-4fea-bb74-d7e9a794630f", "https://vgmdb.net/album/62514"]
 
-[4b03a69aaa62402ba89fc461a5e43068]
+[0c1e4eab76c90b85977fe4cef1fe79ae]
 catalognumber = "LACA-15636"
 date = "2017-03-15"
 album = "TVアニメ『小林さんちのメイドラゴン』キャラクターソングミニアルバム: 小林さんちのメイ曲集 / ちょろゴンず"
 tracks = [
-    [1, "オムライスとLoveの定義", "トール(CV.桑原由気)", 0],
-    [2, "迷子のかいじゅう", "カンナ(CV.長縄まりあ)", 0],
-    [3, "Believe in Myself", "エルマ(CV.高田憂希)", 0],
-    [4, "リトルライダー", "ルコア(CV.高橋未奈美)", 0],
-    [5, "おうちかえろ", "トール(CV.桑原由気)、カンナ(CV.長縄まりあ)", 0],
-    [6, "○●つけまSHOW?!", "トール(CV.桑原由気)、エルマ(CV.高田憂希)", 0],
+    [1, "オムライスとLoveの定義", "トール(CV.桑原由気)", 2],
+    [2, "迷子のかいじゅう", "カンナ(CV.長縄まりあ)", 1],
+    [3, "Believe in Myself", "エルマ(CV.高田憂希)", 1],
+    [4, "リトルライダー", "ルコア(CV.高橋未奈美)", 1],
+    [5, "おうちかえろ", "トール(CV.桑原由気)、カンナ(CV.長縄まりあ)", 2],
+    [6, "○●つけまSHOW?!", "トール(CV.桑原由気)、エルマ(CV.高田憂希)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bc2a40e1-961b-4e16-8cf1-9512ffc1b7a2", "https://vgmdb.net/album/63615"]
 
-[64241bd6256c718c7dfdabc719dd50cf]
+[70e3689fc60b4c9d8c8bc38086ac2ba7]
 catalognumber = "LACA-9496~7"
 date = "2017-04-12"
 album = "TVアニメ『小林さんちのメイドラゴン』オリジナルサウンドトラック「小林さんちのイシュカン・ミュージック」 Disc 1 [LACA-9496]"
 tracks = [
-    [1, "いってきます", "伊藤真澄", 0],
-    [2, "空飛ぶトール", "伊藤真澄", 0],
-    [3, "青空のラプソディ (TV size)", "fhána", 0],
-    [4, "ドタバタちょろゴンず", "伊藤真澄", 0],
-    [5, "はてな", "伊藤真澄", 0],
-    [6, "ドラゴン探検隊", "伊藤真澄", 0],
-    [7, "うきうき新生活", "伊藤真澄", 0],
-    [8, "かえりみち", "伊藤真澄", 0],
-    [9, "止まった時計", "伊藤真澄", 0],
-    [10, "あらたな朝", "伊藤真澄", 0],
-    [11, "謎のドラゴン、エルマ", "伊藤真澄", 0],
-    [12, "迫る影", "伊藤真澄", 0],
-    [13, "別れのセレナーデ", "伊藤真澄", 0],
-    [14, "マッチの灯火", "伊藤真澄", 0],
-    [15, "妖しい魔法使い", "伊藤真澄", 0],
-    [16, "混乱と企み", "伊藤真澄", 0],
-    [17, "さようなら", "伊藤真澄", 0],
-    [18, "トールの思い出", "伊藤真澄", 0],
-    [19, "真心を胸に", "伊藤真澄", 0],
-    [20, "夢の中へ", "伊藤真澄", 0],
+    [1, "いってきます", "伊藤真澄", 1],
+    [2, "空飛ぶトール", "伊藤真澄", 1],
+    [3, "青空のラプソディ (TV size)", "fhána", 1],
+    [4, "ドタバタちょろゴンず", "伊藤真澄", 1],
+    [5, "はてな", "伊藤真澄", 1],
+    [6, "ドラゴン探検隊", "伊藤真澄", 1],
+    [7, "うきうき新生活", "伊藤真澄", 1],
+    [8, "かえりみち", "伊藤真澄", 1],
+    [9, "止まった時計", "伊藤真澄", 1],
+    [10, "あらたな朝", "伊藤真澄", 1],
+    [11, "謎のドラゴン、エルマ", "伊藤真澄", 1],
+    [12, "迫る影", "伊藤真澄", 1],
+    [13, "別れのセレナーデ", "伊藤真澄", 1],
+    [14, "マッチの灯火", "伊藤真澄", 1],
+    [15, "妖しい魔法使い", "伊藤真澄", 1],
+    [16, "混乱と企み", "伊藤真澄", 1],
+    [17, "さようなら", "伊藤真澄", 1],
+    [18, "トールの思い出", "伊藤真澄", 1],
+    [19, "真心を胸に", "伊藤真澄", 1],
+    [20, "夢の中へ", "伊藤真澄", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dd94f760-ca7c-4baa-9cf3-4da18013752b", "https://vgmdb.net/album/64640"]
 
-[cd7103f264acfb6b2af8672dbbae395c]
+[b9d569087b43e10d20cf1b6afb262e98]
 catalognumber = "LACA-9496~7"
 date = "2017-04-12"
 album = "TVアニメ『小林さんちのメイドラゴン』オリジナルサウンドトラック「小林さんちのイシュカン・ミュージック」 Disc 2 [LACA-9497]"
 tracks = [
-    [1, "小林さんち", "伊藤真澄", 0],
-    [2, "メイドラゴンのテーマ", "伊藤真澄", 0],
-    [3, "非凡な毎日", "伊藤真澄", 0],
-    [4, "ドラゴン行進曲", "伊藤真澄", 0],
-    [5, "勇者と仲間たち", "伊藤真澄", 0],
-    [6, "夢への挑戦", "伊藤真澄", 0],
-    [7, "おひるねカンナ", "伊藤真澄", 0],
-    [8, "ひとやすみ", "伊藤真澄", 0],
-    [9, "ルコアの誘惑", "伊藤真澄", 0],
-    [10, "ミスターマジック", "伊藤真澄", 0],
-    [11, "秘密の洞窟", "伊藤真澄", 0],
-    [12, "心の距離", "伊藤真澄", 0],
-    [13, "立ちはだかる壁", "伊藤真澄", 0],
-    [14, "トールの父", "伊藤真澄", 0],
-    [15, "守るべきもの", "伊藤真澄", 0],
-    [16, "勝利のために", "伊藤真澄", 0],
-    [17, "ひとりぼっち", "伊藤真澄", 0],
-    [18, "黄昏", "伊藤真澄", 0],
-    [19, "はじまり", "伊藤真澄", 0],
-    [20, "イシュカン・コミュニケーション (TV size)", "ちょろゴンず", 0],
-    [21, "おやすみ、また明日", "伊藤真澄", 0],
+    [1, "小林さんち", "伊藤真澄", 1],
+    [2, "メイドラゴンのテーマ", "伊藤真澄", 1],
+    [3, "非凡な毎日", "伊藤真澄", 1],
+    [4, "ドラゴン行進曲", "伊藤真澄", 1],
+    [5, "勇者と仲間たち", "伊藤真澄", 1],
+    [6, "夢への挑戦", "伊藤真澄", 1],
+    [7, "おひるねカンナ", "伊藤真澄", 1],
+    [8, "ひとやすみ", "伊藤真澄", 1],
+    [9, "ルコアの誘惑", "伊藤真澄", 1],
+    [10, "ミスターマジック", "伊藤真澄", 1],
+    [11, "秘密の洞窟", "伊藤真澄", 1],
+    [12, "心の距離", "伊藤真澄", 1],
+    [13, "立ちはだかる壁", "伊藤真澄", 1],
+    [14, "トールの父", "伊藤真澄", 1],
+    [15, "守るべきもの", "伊藤真澄", 1],
+    [16, "勝利のために", "伊藤真澄", 1],
+    [17, "ひとりぼっち", "伊藤真澄", 1],
+    [18, "黄昏", "伊藤真澄", 1],
+    [19, "はじまり", "伊藤真澄", 1],
+    [20, "イシュカン・コミュニケーション (TV size)", "ちょろゴンず", 1],
+    [21, "おやすみ、また明日", "伊藤真澄", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dd94f760-ca7c-4baa-9cf3-4da18013752b", "https://vgmdb.net/album/64640"]
 
-[056fc06846f5305d066a7345263f2aed]
+[a686c58121ee8438d5e5c54b6fa5f59b]
 catalognumber = "N/A"
 date = "2017-04-30"
 album = "CHIPPARK"
 tracks = [
     [1, "ルージュとスカート", "", 0],
-    [2, "青空のラプソディ(Gameboy Arrange)", "", 0],
+    [2, "青空のラプソディ(Gameboy Arrange)", "", 1],
     [3, "park", "", 0],
     [4, "(no title available)", "", 0],
     [5, "(no title available)", "", 0],
@@ -119,13 +119,13 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112845"]
 
-[20ffaa023dcad6cda2e6412d776c2495]
+[c7659b974f1c3e10c5703d7061a29cbf]
 catalognumber = "LACA-15713"
 date = "2018-03-28"
 album = "World Atlas / fhána"
 tracks = [
     [1, "World Atlas", "fhána", 0],
-    [2, "青空のラプソディ", "fhána", 0],
+    [2, "青空のラプソディ", "fhána", 1],
     [3, "君の住む街", "fhána", 0],
     [4, "Do you realize?", "fhána", 0],
     [5, "わたしのための物語 〜My Uncompleted Story〜<ALBUM Ver.>", "fhána", 0],
@@ -141,13 +141,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/28305341-06d9-4fc0-9718-6748dd060119", "https://vgmdb.net/album/74818"]
 
-[d938954438d472f414c78b508ab2a35c]
+[5c6fdafe4390a018e4ec17e4d64e8bea]
 catalognumber = "LACA-35713"
 date = "2018-03-28"
 album = "World Atlas / fhána [Limited Edition] Disc 1 (CD) [LACA-35713]"
 tracks = [
     [1, "World Atlas", "fhána", 0],
-    [2, "青空のラプソディ", "fhána", 0],
+    [2, "青空のラプソディ", "fhána", 1],
     [3, "君の住む街", "fhána", 0],
     [4, "Do you realize?", "fhána", 0],
     [5, "わたしのための物語 〜My Uncompleted Story〜<ALBUM Ver.>", "fhána", 0],
@@ -163,7 +163,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4c31dfb5-5290-432b-a727-9cdcfc3c22e5", "https://vgmdb.net/album/74817"]
 
-[88813b5eae5f64518da93b0d80cc6ff6]
+[a2d1c00b2a0aa82acb7070a7d153645a]
 catalognumber = "LACA-35713"
 date = "2018-03-28"
 album = "World Atlas / fhána [Limited Edition] Disc 2 (Blu-ray) [LAPD-1485]"
@@ -172,25 +172,25 @@ tracks = [
     [2, "わたしのための物語 〜My Uncompleted Story〜 -Music Video-", "fhána", 0],
     [3, "Hello!My World!! -Music Video-", "fhána", 0],
     [4, "ムーンリバー -Music Video-", "fhána", 0],
-    [5, "青空のラプソディ -Music Video-", "fhána", 0],
+    [5, "青空のラプソディ -Music Video-", "fhána", 1],
     [6, "calling -Music Video-", "fhána", 0],
     [7, "Rebuilt world -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
     [8, "little secret magic -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
     [9, "Antivirus -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
     [10, "ムーンリバー -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
-    [11, "青空のラプソディ -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
+    [11, "青空のラプソディ -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 1],
     [12, "君という特異点 [singular you] -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
     [13, "光舞う冬の日に -fhána Looking for the World Atlas Tour 2017 at Zepp DiverCity-", "fhána", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/4c31dfb5-5290-432b-a727-9cdcfc3c22e5", "https://vgmdb.net/album/74817"]
 
-[7fee84aa5731faae7d2073e06032c109]
+[76cc67ba45d0be15ccea283f88980309]
 catalognumber = "LZC-1315"
 date = "2018-03-28"
 album = "World Atlas INSTRUMENTAL / fhána"
 tracks = [
     [1, "World Atlas (Instrumental)", "fhána", 0],
-    [2, "青空のラプソディ(Instrumental)", "fhána", 0],
+    [2, "青空のラプソディ(Instrumental)", "fhána", 1],
     [3, "君の住む街 (Instrumental)", "fhána", 0],
     [4, "Do you realize? (Instrumental)", "fhána", 0],
     [5, "わたしのための物語 ～My Uncompleted Story～<ALBUM Ver.> (Instrumental)", "fhána", 0],
@@ -206,7 +206,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/56a714ad-fd50-4fb8-ba5f-b9c356abd542", "https://vgmdb.net/album/99045"]
 
-[eb4a066d28c52e73ce41660092e59f4a]
+[383835093f08518c602fa809b2365233]
 catalognumber = "LACA-15765"
 date = "2018-12-12"
 album = "STORIES / fhána"
@@ -220,7 +220,7 @@ tracks = [
     [7, "コメットルシファー ～The Seed and the Sower～", "fhána", 0],
     [8, "虹を編めたら", "fhána", 0],
     [9, "calling", "fhána", 0],
-    [10, "青空のラプソディ", "fhána", 0],
+    [10, "青空のラプソディ", "fhána", 1],
     [11, "ムーンリバー", "fhána", 0],
     [12, "Hello!My World!!", "fhána", 0],
     [13, "わたしのための物語 ～My Uncompleted Story～", "fhána", 0],
@@ -228,7 +228,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/66f02c33-fd11-49e9-bf5f-8b2e5bca1ba3", "https://vgmdb.net/album/80084"]
 
-[ed464cbb573ccbab02229f312c874385]
+[b96a71106c9c5b48bd1b686345cdabb8]
 catalognumber = "LACA-35765"
 date = "2018-12-12"
 album = "STORIES / fhána [Limited Edition] Vocal"
@@ -242,7 +242,7 @@ tracks = [
     [7, "コメットルシファー ～The Seed and the Sower～", "fhána", 0],
     [8, "虹を編めたら", "fhána", 0],
     [9, "calling", "fhána", 0],
-    [10, "青空のラプソディ", "fhána", 0],
+    [10, "青空のラプソディ", "fhána", 1],
     [11, "ムーンリバー", "fhána", 0],
     [12, "Hello!My World!!", "fhána", 0],
     [13, "わたしのための物語 ～My Uncompleted Story～", "fhána", 0],
@@ -250,7 +250,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d37885a0-119e-4766-9086-a56e0427ef82", "https://vgmdb.net/album/80083"]
 
-[54ffe566a3ff4d497380cbb346c31473]
+[e8f8be71c1d569aada8bccbef5827d3f]
 catalognumber = "LACA-35765"
 date = "2018-12-12"
 album = "STORIES / fhána [Limited Edition] Vocal, Live Event"
@@ -260,7 +260,7 @@ tracks = [
     [3, "What a Wonderful World Line (fhána What a Wonderful World Line Tour 2016より)", "fhána", 0],
     [4, "lyrical sentence (fhána 1st Live Tour「Outside of Melancholy Show 2015」より)", "fhána", 0],
     [5, "little secret magic (fhána Looking for the World Atlas Tour 2017より)", "fhána", 0],
-    [6, "青空のラプソディ (fhána Looking for the World Atlas Tour 2017より)", "fhána", 0],
+    [6, "青空のラプソディ (fhána Looking for the World Atlas Tour 2017より)", "fhána", 1],
     [7, "街は奏でる (fhána 1st Live Tour 「Outside of Melancholy Show 2015」より)", "fhána", 0],
     [8, "光舞う冬の日に (fhána Looking for the World Atlas Tour 2017より)", "fhána", 0],
     [9, "kotonoha breakdown (深窓音楽演奏会 其ノ壱より)", "fhána", 0],
@@ -271,7 +271,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d37885a0-119e-4766-9086-a56e0427ef82", "https://vgmdb.net/album/80083"]
 
-[0c01ad379cdbfe81226bdb5cf61a5fd3]
+[e02a208a4b234bbd08f0b7ad8fcc0337]
 catalognumber = "LACA-35765"
 date = "2018-12-12"
 album = "STORIES / fhána [Limited Edition] Vocal, Live Event, Video"
@@ -286,11 +286,11 @@ tracks = [
     [8, "ユーレカ", "", 0],
     [9, "reaching for the cities", "", 0],
     [10, "アネモネの花", "", 0],
-    [11, "現在地", "", 0],
+    [11, "現在地", "", 1],
     [12, "Do you realize?", "", 0],
     [13, "光舞う冬の日に", "", 0],
     [14, "World Atlas", "", 0],
-    [15, "青空のラプソディ", "", 0],
+    [15, "青空のラプソディ", "", 1],
     [16, "星屑のインターリュード", "", 0],
     [17, "Relief", "", 0],
     [18, "calling", "", 0],
@@ -302,7 +302,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/80083"]
 
-[f54ef9665b150522f8ab234d4f1901b0]
+[67ad9d5b1bfca5138fcfff5c17de84ec]
 catalognumber = "AICL-3676"
 date = "2019-04-03"
 album = "平成アニソン大賞 mixed by DJ和"
@@ -335,7 +335,7 @@ tracks = [
     [26, "My Heart 言い出せない、Your Heart 確かめたい", "GODDESS FAMILY CLUB", 0],
     [27, "君じゃなきゃダメみたい", "オーイシマサヨシ", 0],
     [28, "カレンダーガール", "わか・ふうり・すなお from STAR☆ANIS", 0],
-    [29, "青空のラプソディ", "fhána", 0],
+    [29, "青空のラプソディ", "fhána", 1],
     [30, "adrenaline!!!", "TrySail", 0],
     [31, "Daydream cafe", "Petit Rabbit’s", 0],
     [32, "もってけ! セーラーふく", "泉こなた(CV:平野綾)、柊かがみ(CV:加藤英美里)、柊つかさ(CV:福原香織)、高良みゆき(CV:遠藤綾)", 0],
@@ -649,188 +649,188 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/105045"]
 
-[14f1e8b4e7ba97d1ee4425a58b805c63]
+[8900d43cb20a5421a7ee5441173bd7ed]
 catalognumber = "LACM-24129"
 date = "2021-07-14"
 album = "めいど・うぃず・どらごんず❤︎ / スーパーちょろゴンず"
 tracks = [
-    [1, "めいど・うぃず・どらごんず♥", "スーパーちょろゴンず", 0],
-    [2, "愛のシュプリーム! (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 0],
-    [3, "めいど・うぃず・どらごんず♥ (off vocal)", "スーパーちょろゴンず", 0],
+    [1, "めいど・うぃず・どらごんず♥", "スーパーちょろゴンず", 1],
+    [2, "愛のシュプリーム! (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 1],
+    [3, "めいど・うぃず・どらごんず♥ (off vocal)", "スーパーちょろゴンず", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/63f3150a-cfc1-498b-85a7-68cc369aa91c", "https://vgmdb.net/album/110220"]
 
-[f76df2e641127aa71f4e00af7d04b386]
+[7bd7da6a844ebb1f34c9013883086484]
 catalognumber = "LACM-24135"
 date = "2021-07-14"
 album = "愛のシュプリーム! / fhána [アニメ盤]"
 tracks = [
-    [1, "愛のシュプリーム!", "fhána", 0],
-    [2, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 0],
-    [3, "愛のシュプリーム! -instrumental-", "fhána", 0],
-    [4, "GIVE ME LOVE (fhána Rainy Flow Ver.) -instrumental-", "fhána", 0],
+    [1, "愛のシュプリーム!", "fhána", 1],
+    [2, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 1],
+    [3, "愛のシュプリーム! -instrumental-", "fhána", 1],
+    [4, "GIVE ME LOVE (fhána Rainy Flow Ver.) -instrumental-", "fhána", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/49dc108d-b0f8-4ad8-9aeb-fc7e3579c7fd", "https://vgmdb.net/album/110219"]
 
-[705aace940bddb02140c0639b08ff742]
+[cab040d13b45aac1f44262ecb672c610]
 catalognumber = "LACM-34129"
 date = "2021-07-14"
 album = "めいど・うぃず・どらごんず❤︎ / スーパーちょろゴンず [初回限定盤] Vocal"
 tracks = [
-    [1, "めいど・うぃず・どらごんず♥", "スーパーちょろゴンず", 0],
-    [2, "愛のシュプリーム! (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 0],
-    [3, "めいど・うぃず・どらごんず♥ (off vocal)", "スーパーちょろゴンず", 0],
+    [1, "めいど・うぃず・どらごんず♥", "スーパーちょろゴンず", 1],
+    [2, "愛のシュプリーム! (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 1],
+    [3, "めいど・うぃず・どらごんず♥ (off vocal)", "スーパーちょろゴンず", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9156cb4f-11a2-4a7f-9567-036f8f75d4e0", "https://vgmdb.net/album/110221"]
 
-[38ef21ba674e8aae774f084e859fb913]
+[8ed8ea26deda92722f44f08057f68fbf]
 catalognumber = "LACM-34129"
 date = "2021-07-14"
 album = "めいど・うぃず・どらごんず❤︎ / スーパーちょろゴンず [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "めいど・うぃず・どらごんず❤ -Music Video-", "スーパーちょろゴンず", 0],
-    [2, "めいど・うぃず・どらごんず❤ -Dance Version-", "スーパーちょろゴンず", 0],
-    [3, "めいど・うぃず・どらごんず❤ -Making of Music Video-", "スーパーちょろゴンず", 0],
+    [1, "めいど・うぃず・どらごんず❤ -Music Video-", "スーパーちょろゴンず", 1],
+    [2, "めいど・うぃず・どらごんず❤ -Dance Version-", "スーパーちょろゴンず", 1],
+    [3, "めいど・うぃず・どらごんず❤ -Making of Music Video-", "スーパーちょろゴンず", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9156cb4f-11a2-4a7f-9567-036f8f75d4e0", "https://vgmdb.net/album/110221"]
 
-[73fd05e489600549951610a1200d593a]
+[303da6fc47062c8ab8bf4e83ba319565]
 catalognumber = "N/A"
 date = "2021-07-14"
 album = "愛のシュプリーム! (Sing along loop Ver.) / fhána"
 tracks = [
-    [1, "愛のシュプリーム! (Sing along loop Ver.)", "", 0],
+    [1, "愛のシュプリーム! (Sing along loop Ver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/113063"]
 
-[b7e57666bbe90b620d102dd3e0185f14]
+[648ba6a99990cac284634f36fc28e651]
 catalognumber = "LACM-24134"
 date = "2021-07-14"
 album = "愛のシュプリーム! / fhána [アーティスト盤]"
 tracks = [
-    [1, "愛のシュプリーム!", "fhána", 0],
-    [2, "閃光のあとに", "fhána", 0],
-    [3, "愛のシュプリーム! (Instrumental)", "fhána", 0],
-    [4, "閃光のあとに (Instrumental)", "fhána", 0],
+    [1, "愛のシュプリーム!", "fhána", 1],
+    [2, "閃光のあとに", "fhána", 1],
+    [3, "愛のシュプリーム! (Instrumental)", "fhána", 1],
+    [4, "閃光のあとに (Instrumental)", "fhána", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7572b11d-db7e-459a-bacb-13a6ae2528cb", "https://vgmdb.net/album/110218"]
 
-[762513da43ac21d8d4b4040965832f35]
+[87df4d173f5ff5c15285b9c424dd5d86]
 catalognumber = "LACA-15892"
 date = "2021-09-22"
 album = "TVアニメ『小林さんちのメイドラゴンS』キャラクターソングミニアルバム L・O・V・E Vocal"
 tracks = [
-    [1, "GIVE ME LOVE", "小林さん(CV.田村睦心)、トール(CV.桑原由気)、イルル(CV.嶺内ともみ)", 0],
-    [2, "Hey, lad !", "ルコア(CV.髙橋ミナミ)、真ヶ土翔太(CV.石原夏織)", 0],
-    [3, "朱色のプロムナード", "イルル(CV.嶺内ともみ)、会田タケト(CV.下野紘)", 0],
-    [4, "うぃすぱー・うぃずゆー", "カンナ(CV.長縄まりあ)、才川リコ(CV.加藤英美里)", 0],
-    [5, "Cursed Treasure", "ファフニール(CV.小野大輔)、滝谷真(CV.中村悠一)", 0],
-    [6, "ピースフルデイズ", "カンナ(CV.長縄まりあ)、エルマ(CV.高田憂希)", 0],
-    [7, "I love your love, my love", "トール(CV.桑原由気)、エルマ(CV.高田憂希)、ルコア(CV.髙橋ミナミ)", 0],
-    [8, "青空のラプソディ (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 0],
-    [9, "めいど・うぃず・どらごんず♥ (トール solo ver.)", "トール(CV.桑原由気)", 0],
-    [10, "めいど・うぃず・どらごんず♥ (カンナ solo ver.)", "カンナ(CV.長縄まりあ)", 0],
-    [11, "めいど・うぃず・どらごんず♥ (エルマ solo ver.)", "エルマ(CV.高田憂希)", 0],
-    [12, "めいど・うぃず・どらごんず♥ (ルコア solo ver.)", "ルコア(CV.髙橋ミナミ)", 0],
-    [13, "めいど・うぃず・どらごんず♥ (イルル solo ver.)", "イルル(CV.嶺内ともみ)", 0],
+    [1, "GIVE ME LOVE", "小林さん(CV.田村睦心)、トール(CV.桑原由気)、イルル(CV.嶺内ともみ)", 1],
+    [2, "Hey, lad !", "ルコア(CV.髙橋ミナミ)、真ヶ土翔太(CV.石原夏織)", 1],
+    [3, "朱色のプロムナード", "イルル(CV.嶺内ともみ)、会田タケト(CV.下野紘)", 1],
+    [4, "うぃすぱー・うぃずゆー", "カンナ(CV.長縄まりあ)、才川リコ(CV.加藤英美里)", 1],
+    [5, "Cursed Treasure", "ファフニール(CV.小野大輔)、滝谷真(CV.中村悠一)", 1],
+    [6, "ピースフルデイズ", "カンナ(CV.長縄まりあ)、エルマ(CV.高田憂希)", 2],
+    [7, "I love your love, my love", "トール(CV.桑原由気)、エルマ(CV.高田憂希)、ルコア(CV.髙橋ミナミ)", 1],
+    [8, "青空のラプソディ (スーパーちょろゴンず ver.)", "スーパーちょろゴンず", 1],
+    [9, "めいど・うぃず・どらごんず♥ (トール solo ver.)", "トール(CV.桑原由気)", 1],
+    [10, "めいど・うぃず・どらごんず♥ (カンナ solo ver.)", "カンナ(CV.長縄まりあ)", 1],
+    [11, "めいど・うぃず・どらごんず♥ (エルマ solo ver.)", "エルマ(CV.高田憂希)", 1],
+    [12, "めいど・うぃず・どらごんず♥ (ルコア solo ver.)", "ルコア(CV.髙橋ミナミ)", 1],
+    [13, "めいど・うぃず・どらごんず♥ (イルル solo ver.)", "イルル(CV.嶺内ともみ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2f93dc6-78f9-4858-afc2-5c78c4962238", "https://vgmdb.net/album/112901"]
 
-[be088a745db3335f55936b2cceacdb0c]
+[09ad2c8eca271a1da16669aa4663c210]
 catalognumber = "LACA-15892"
 date = "2021-09-22"
 album = "TVアニメ『小林さんちのメイドラゴンS』キャラクターソングミニアルバム L・O・V・E Vocal, Video"
 tracks = [
-    [1, "青空のラプソディ (スーパーちょろゴンず ver.) -Music Video-", "スーパーちょろゴンず", 0],
-    [2, "青空のラプソディ (スーパーちょろゴンず ver.) -トールとkevinのダンスレクチャー-", "[no artist]", 0],
-    [3, "青空のラプソディ (スーパーちょろゴンず ver.) -Making of Music Video-", "[no artist]", 0],
+    [1, "青空のラプソディ (スーパーちょろゴンず ver.) -Music Video-", "スーパーちょろゴンず", 1],
+    [2, "青空のラプソディ (スーパーちょろゴンず ver.) -トールとkevinのダンスレクチャー-", "[no artist]", 1],
+    [3, "青空のラプソディ (スーパーちょろゴンず ver.) -Making of Music Video-", "[no artist]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cf1939c7-3324-4f45-99c1-e3ee5d9de92c", "https://vgmdb.net/album/112901"]
 
-[2aa0d5e4a04238fc6584dd158a77d91c]
+[953b6dd83927192cc9b2e15bbf832809]
 catalognumber = "LACA-15893"
 date = "2021-09-22"
 album = "TVアニメ『小林さんちのメイドラゴンS』ドラマCD メイドラゴンたちの日常"
 tracks = [
-    [1, "トールと献立", "[dialogue]", 0],
-    [2, "滝谷とファフニール アキバへ行く", "[dialogue]", 0],
-    [3, "カンナの夏休み絵日記1", "[dialogue]", 0],
-    [4, "エルマと小林さんの犯罪", "[dialogue]", 0],
-    [5, "エルマとトールの犯罪", "[dialogue]", 0],
-    [6, "カンナの夏休み絵日記2", "[dialogue]", 0],
-    [7, "カンナさんの 『好き』 ください!", "[dialogue]", 0],
-    [8, "ルコアと小説投稿サイト", "[dialogue]", 0],
-    [9, "カンナの夏休み絵日記3", "[dialogue]", 0],
-    [10, "トールとエルマのアフレコ", "[dialogue]", 0],
-    [11, "ファフっさんの自作ゲーム体験", "[dialogue]", 0],
-    [12, "THE DRAGON KING", "スーパーちょろゴンず", 0],
+    [1, "トールと献立", "[dialogue]", 1],
+    [2, "滝谷とファフニール アキバへ行く", "[dialogue]", 1],
+    [3, "カンナの夏休み絵日記1", "[dialogue]", 1],
+    [4, "エルマと小林さんの犯罪", "[dialogue]", 1],
+    [5, "エルマとトールの犯罪", "[dialogue]", 1],
+    [6, "カンナの夏休み絵日記2", "[dialogue]", 1],
+    [7, "カンナさんの 『好き』 ください!", "[dialogue]", 1],
+    [8, "ルコアと小説投稿サイト", "[dialogue]", 1],
+    [9, "カンナの夏休み絵日記3", "[dialogue]", 1],
+    [10, "トールとエルマのアフレコ", "[dialogue]", 1],
+    [11, "ファフっさんの自作ゲーム体験", "[dialogue]", 1],
+    [12, "THE DRAGON KING", "スーパーちょろゴンず", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/467d2430-ece3-486d-9bb7-badf22c0b108", "https://vgmdb.net/album/112900"]
 
-[3e316f187101910a6d067afc91d297ec]
+[ff3616e408cdf6060146a250334a5188]
 catalognumber = "LACA-9854~5"
 date = "2021-09-29"
 album = "TVアニメ『小林さんちのメイドラゴンS』オリジナルサウンドトラック イシュカン・ミュージックS Disc 1 [LACA-9854]"
 tracks = [
-    [1, "希望の歩み", "伊藤真澄", 0],
-    [2, "愛のシュプリーム! (TV size)", "fhána", 0],
-    [3, "どたばたイシュカンコメディ", "伊藤真澄", 0],
-    [4, "大冒険", "伊藤真澄", 0],
-    [5, "必死の奮戦", "伊藤真澄", 0],
-    [6, "超絶的鍔迫り合い", "伊藤真澄", 0],
-    [7, "容赦ない攻撃", "伊藤真澄", 0],
-    [8, "長い闘いの歴史", "伊藤真澄", 0],
-    [9, "葛藤", "近藤研二", 0],
-    [10, "包み込む光", "近藤研二", 0],
-    [11, "初めての気持ち", "コトリンゴ", 0],
-    [12, "ドラゴン探偵", "コトリンゴ", 0],
-    [13, "色欲", "近藤研二", 0],
-    [14, "とほほ…", "近藤研二", 0],
-    [15, "おてんば", "近藤研二", 0],
-    [16, "他愛のない日常", "近藤研二", 0],
-    [17, "木漏れ日", "近藤研二", 0],
-    [18, "温かい気持ち", "伊藤真澄", 0],
-    [19, "ミニドラ", "伊藤真澄", 0],
+    [1, "希望の歩み", "伊藤真澄", 1],
+    [2, "愛のシュプリーム! (TV size)", "fhána", 1],
+    [3, "どたばたイシュカンコメディ", "伊藤真澄", 1],
+    [4, "大冒険", "伊藤真澄", 1],
+    [5, "必死の奮戦", "伊藤真澄", 1],
+    [6, "超絶的鍔迫り合い", "伊藤真澄", 1],
+    [7, "容赦ない攻撃", "伊藤真澄", 1],
+    [8, "長い闘いの歴史", "伊藤真澄", 1],
+    [9, "葛藤", "近藤研二", 1],
+    [10, "包み込む光", "近藤研二", 1],
+    [11, "初めての気持ち", "コトリンゴ", 1],
+    [12, "ドラゴン探偵", "コトリンゴ", 1],
+    [13, "色欲", "近藤研二", 1],
+    [14, "とほほ…", "近藤研二", 1],
+    [15, "おてんば", "近藤研二", 1],
+    [16, "他愛のない日常", "近藤研二", 1],
+    [17, "木漏れ日", "近藤研二", 1],
+    [18, "温かい気持ち", "伊藤真澄", 1],
+    [19, "ミニドラ", "伊藤真澄", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/db602308-8416-40fc-87d3-e437c3acde0b", "https://vgmdb.net/album/112899"]
 
-[936389f812dd55715dcf7d2006f4ba8f]
+[03e5f97318ba6575e38ae5a950ab84ff]
 catalognumber = "LACA-9854~5"
 date = "2021-09-29"
 album = "TVアニメ『小林さんちのメイドラゴンS』オリジナルサウンドトラック イシュカン・ミュージックS Disc 2 [LACA-9855]"
 tracks = [
-    [1, "ミニドラ -Ending Ver.-", "XELIK", 0],
-    [2, "好敵手", "近藤研二", 0],
-    [3, "アラビアンドラゴン", "近藤研二", 0],
-    [4, "昔話", "近藤研二", 0],
-    [5, "長い縁", "近藤研二", 0],
-    [6, "破壊欲", "コトリンゴ", 0],
-    [7, "苦悩 -Piano Arrange Ver.-", "伊藤真澄", 0],
-    [8, "苦悩", "伊藤真澄", 0],
-    [9, "不気味な気配", "コトリンゴ", 0],
-    [10, "寂しい心", "コトリンゴ", 0],
-    [11, "昔の記憶", "コトリンゴ", 0],
-    [12, "目新しい世界", "コトリンゴ", 0],
-    [13, "パルクールランド", "伊藤真澄", 0],
-    [14, "パルクールランドのテーマ", "伊藤真澄", 0],
-    [15, "イシュカン♥リレーションシップ", "トール(CV.桑原由気)", 0],
-    [16, "めいど・うぃず・どらごんず♥ (TV size)", "スーパーちょろゴンず", 0],
-    [17, "小さな幸せ", "伊藤真澄", 0],
+    [1, "ミニドラ -Ending Ver.-", "XELIK", 1],
+    [2, "好敵手", "近藤研二", 1],
+    [3, "アラビアンドラゴン", "近藤研二", 1],
+    [4, "昔話", "近藤研二", 1],
+    [5, "長い縁", "近藤研二", 1],
+    [6, "破壊欲", "コトリンゴ", 1],
+    [7, "苦悩 -Piano Arrange Ver.-", "伊藤真澄", 1],
+    [8, "苦悩", "伊藤真澄", 1],
+    [9, "不気味な気配", "コトリンゴ", 1],
+    [10, "寂しい心", "コトリンゴ", 1],
+    [11, "昔の記憶", "コトリンゴ", 1],
+    [12, "目新しい世界", "コトリンゴ", 1],
+    [13, "パルクールランド", "伊藤真澄", 1],
+    [14, "パルクールランドのテーマ", "伊藤真澄", 1],
+    [15, "イシュカン♥リレーションシップ", "トール(CV.桑原由気)", 1],
+    [16, "めいど・うぃず・どらごんず♥ (TV size)", "スーパーちょろゴンず", 1],
+    [17, "小さな幸せ", "伊藤真澄", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/62d0b609-6523-44ef-ad03-8d37adf5abf9", "https://vgmdb.net/album/112899"]
 
-[10bb872555b603475ca3e3b2b8dd55fb]
+[8029ba2d47da6a76c795d7ddf4b3c237]
 catalognumber = "LACA-35946"
 date = "2022-04-27"
 album = "Cipher / fhána [初回限定盤] Vocal"
 tracks = [
     [1, "Cipher.", "fhána", 0],
     [2, "Air", "fhána", 0],
-    [3, "愛のシュプリーム!", "fhána", 0],
+    [3, "愛のシュプリーム!", "fhána", 1],
     [4, "nameless color", "fhána", 0],
     [5, "Unplugged", "fhána", 0],
     [6, "真っ白", "fhána", 0],
-    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 0],
+    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 1],
     [8, "星をあつめて", "fhána", 0],
     [9, "Logos", "fhána", 0],
     [10, "Pathos", "fhána", 0],
@@ -844,7 +844,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02d8bff5-90b0-473f-abd9-f66e65ae8470", "https://vgmdb.net/album/117650"]
 
-[3393e21f817525b08c825439dfe57df3]
+[09d905c738a8ed4501fe55492306324a]
 catalognumber = "LACA-35946"
 date = "2022-04-27"
 album = "Cipher / fhána [初回限定盤] Vocal, Live Event, Talk, Video"
@@ -865,7 +865,7 @@ tracks = [
     [14, "inst(願い事)", "", 0],
     [15, "STORIES", "", 0],
     [16, "Relief", "", 0],
-    [17, "青空のラプソディ", "", 0],
+    [17, "青空のラプソディ", "", 1],
     [18, "Outside of Melancholy", "", 0],
     [19, "僕を見つけて", "", 0],
     [20, "きみは帰る場所", "", 0],
@@ -891,18 +891,18 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117650"]
 
-[59ff341969b5ad5e0b315cbce9aa36f9]
+[72be62a5a2a2bd55695ae9c78e22d21c]
 catalognumber = "LACA-15946"
 date = "2022-04-27"
 album = "Cipher / fhána"
 tracks = [
     [1, "Cipher.", "fhána", 0],
     [2, "Air", "fhána", 0],
-    [3, "愛のシュプリーム!", "fhána", 0],
+    [3, "愛のシュプリーム!", "fhána", 1],
     [4, "nameless color", "fhána", 0],
     [5, "Unplugged", "fhána", 0],
     [6, "真っ白", "fhána", 0],
-    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 0],
+    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.)", "fhána", 1],
     [8, "星をあつめて", "fhána", 0],
     [9, "Logos", "fhána", 0],
     [10, "Pathos", "fhána", 0],
@@ -916,18 +916,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/02d8bff5-90b0-473f-abd9-f66e65ae8470", "https://vgmdb.net/album/117649"]
 
-[7099bd525301fa31d411bce13f9e9201]
+[a9781c45645a317666a481200f641f51]
 catalognumber = "LZC-2166"
 date = "2022-04-27"
 album = "Cipher INSTRUMENTAL / fhána"
 tracks = [
     [1, "Cipher. (Instrumental)", "fhána", 0],
     [2, "Air (Instrumental)", "fhána", 0],
-    [3, "愛のシュプリーム！ (Instrumental)", "fhána", 0],
+    [3, "愛のシュプリーム！ (Instrumental)", "fhána", 1],
     [4, "nameless color (Instrumental)", "fhána", 0],
     [5, "Unplugged (Instrumental)", "fhána", 0],
     [6, "真っ白 (Instrumental)", "fhána", 0],
-    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.) [Instrumental]", "fhána", 0],
+    [7, "GIVE ME LOVE (fhána Rainy Flow Ver.) [Instrumental]", "fhána", 1],
     [8, "星をあつめて (Instrumental)", "fhána", 0],
     [9, "Logos (Instrumental)", "fhána", 0],
     [10, "Pathos (Instrumental)", "fhána", 0],
@@ -996,7 +996,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/121243"]
 
-[59aeb6e8dbd82c4a61317978ea2b44ce]
+[6007a8c6dc355b02c8d79c1784e3b1cc]
 catalognumber = "KYOG-202151"
 date = "2022-11-24"
 album = "第5回京都アニメーションファン感謝イベントKYOANI MUSIC FESTIVAL ―感動を未来へ― Blu-ray Disc 2 (Blu-ray)"
@@ -1010,10 +1010,10 @@ tracks = [
     [7, "境界の彼方", "", 0],
     [8, "会いたかった空", "", 0],
     [9, "約束の絆", "", 0],
-    [10, "めいど・うぃず・どらごんず♥", "", 0],
-    [11, "イシュカン・コミュニケーション", "", 0],
-    [12, "愛のシュプリーム", "", 0],
-    [13, "青空のラプソディ", "", 0],
+    [10, "めいど・うぃず・どらごんず♥", "", 1],
+    [11, "イシュカン・コミュニケーション", "", 1],
+    [12, "愛のシュプリーム", "", 1],
+    [13, "青空のラプソディ", "", 1],
     [14, "優しい忘却", "", 0],
     [15, "ハレ晴レユカイ", "", 0],
     [16, "もってけ！セーラーふく", "", 0],
@@ -1059,7 +1059,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06fecdc4-dbfa-484f-a03b-5da975fadf0e", "https://vgmdb.net/album/133338"]
 
-[f17655810db4e694510b6ad2036a52eb]
+[11fe203b622485052e9dcefc3622bb8c]
 catalognumber = "BRMM-10688"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Disc 2"
@@ -1074,8 +1074,8 @@ tracks = [
     [8, "スカイクラッドの観測者", "Roselia", 0],
     [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", 0],
     [10, "TOMORROW", "ハロー、ハッピーワールド！", 0],
-    [11, "青空のラプソディ", "Morfonica×fhána", 0],
-    [12, "青空のラプソディ", "Morfonica", 0],
+    [11, "青空のラプソディ", "Morfonica×fhána", 1],
+    [12, "青空のラプソディ", "Morfonica", 1],
     [13, "VORACITY", "RAISE A SUILEN×MYTH&ROID", 0],
     [14, "VORACITY", "RAISE A SUILEN", 0],
 ]
@@ -1103,7 +1103,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
-[be98933dd43463d3392540a116dae428]
+[e8ba0927e143419915cdfddad8550321]
 catalognumber = "BRMM-10687"
 date = "2023-09-06"
 album = "バンドリ! ガールズバンドパーティ! カバーコレクションVol.8 Arrangement, Vocal Disc 2"
@@ -1118,19 +1118,19 @@ tracks = [
     [8, "スカイクラッドの観測者", "Roselia", 0],
     [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", 0],
     [10, "TOMORROW", "ハロー、ハッピーワールド！", 0],
-    [11, "青空のラプソディ", "Morfonica×fhána", 0],
-    [12, "青空のラプソディ", "Morfonica", 0],
+    [11, "青空のラプソディ", "Morfonica×fhána", 1],
+    [12, "青空のラプソディ", "Morfonica", 1],
     [13, "VORACITY", "RAISE A SUILEN×MYTH&ROID", 0],
     [14, "VORACITY", "RAISE A SUILEN", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/1ee40371-5662-4f07-a17d-4b44ac4865c1", "https://vgmdb.net/album/133340"]
 
-[01a738eb27ebd21604722d70b093aa7c]
+[b789226080ae0ed510ad38dbc5e112a0]
 catalognumber = "PCSP-06277"
 date = "2024-12-18"
 album = "青空のラプソディ - from CrosSing / 髙橋ミナミ"
 tracks = [
-    [1, "青空のラプソディ - from CrosSing", "髙橋ミナミ", 0],
-    [2, "青空のラプソディ - from CrosSing Instrumental", "髙橋ミナミ", 0],
+    [1, "青空のラプソディ - from CrosSing", "髙橋ミナミ", 1],
+    [2, "青空のラプソディ - from CrosSing Instrumental", "髙橋ミナミ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/553cb7eb-f7c1-4bbe-b758-7984a8a7589f", "https://vgmdb.net/album/147383"]
