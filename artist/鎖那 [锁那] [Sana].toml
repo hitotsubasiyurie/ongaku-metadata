@@ -1,4 +1,4 @@
-[9ca088ea39472db5cf54ead81d524391]
+[20370c38f4dbe5da76d581842b114a45]
 catalognumber = ""
 date = "2010-01-18"
 album = "from Y to Y (cover)"
@@ -7,14 +7,14 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=277163004"]
 
-[210d118249ef0139636cacadd201d4df]
+[5315f13827af6f3af243a79bdac33bd5]
 catalognumber = ""
 date = "2014-08-22"
 album = "好きなひと"
 tracks = [
     [1, "未来図 (feat. 鎖那)", "HoneyWorks/鎖那", 1],
     [2, "告白予行練習 (feat. 鎖那)", "HoneyWorks/鎖那", 0],
-    [3, "テレカクシ思春期 (feat. 鎖那)", "HoneyWorks/鎖那", 0],
+    [3, "テレカクシ思春期 (feat. 鎖那)", "HoneyWorks/鎖那", 2],
     [4, "初恋の絵本 (feat. 鎖那)", "HoneyWorks/鎖那", 0],
     [5, "告白ライバル宣言 (feat. 鎖那)", "HoneyWorks/鎖那", 0],
     [6, "ヤキモチの答え (feat. 鎖那)", "HoneyWorks/鎖那", 0],
@@ -22,11 +22,11 @@ tracks = [
     [8, "ロリババアに恋をした (feat. 鎖那)", "HoneyWorks/鎖那", 0],
     [9, "ラズベリー＊モンスター (feat. 鎖那)", "HoneyWorks/鎖那", 0],
     [10, "病名恋ワズライ", "鎖那", 0],
-    [11, "おまけ音源", "鎖那", 0],
+    [11, "おまけ音源", "鎖那", 1],
 ]
 links = ["https://music.163.com/#/album?id=2979081"]
 
-[a3037196aa687fe32d7dc45554afde34]
+[94459380800e5219938d118503bfc0a6]
 catalognumber = ""
 date = "2014-11-15"
 album = "sigh."
@@ -36,7 +36,7 @@ tracks = [
     [3, "コーヒーカップ", "鎖那", 0],
     [4, "Ryrie", "鎖那", 1],
     [5, "トラベリングムード", "鎖那", 0],
-    [6, "two of us", "鎖那", 0],
+    [6, "two of us", "鎖那", 1],
 ]
 links = ["https://music.163.com/#/album?id=3111375"]
 
@@ -49,7 +49,7 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=3139285"]
 
-[3f3974a66c4d40ca2afbe6551599af8d]
+[6d98075717a80d6e9db6e32960ba8402]
 catalognumber = ""
 date = "2015-05-27"
 album = "言葉のいらない約束 / 暁月夜-アカツキヅクヨ-"
@@ -61,14 +61,14 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=3154377"]
 
-[6e3a3666fb0d53c5b266f17dff8d8edf]
+[b6640772ecb8ce6d30e9310f45a46d90]
 catalognumber = ""
 date = "2015-12-31"
 album = "(un) sentimental spica"
 tracks = [
     [1, "花とクマ", "鎖那", 0],
     [2, "すきなうた", "鎖那", 0],
-    [3, "さようなら、花泥棒さん (cover)", "鎖那", 0],
+    [3, "さようなら、花泥棒さん (cover)", "鎖那", 2],
     [4, "転校前夜 (cover)", "鎖那", 0],
     [5, "言の葉クリニック (cover)", "鎖那", 0],
     [6, "パケットヒーロー (cover)", "鎖那", 0],
@@ -81,32 +81,32 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=3439884"]
 
-[6897248386bc3c8c7fcf813ffa3d48ab]
+[eed1a0f1eac8a928bcbaefe20f2899c1]
 catalognumber = ""
 date = "2016-12-31"
 album = "夏休みの転校生"
 tracks = [
-    [1, "夏休みの転校生", "鎖那", 0],
+    [1, "夏休みの転校生", "鎖那", 2],
     [2, "さよならグッバイ (Voice Memo)", "鎖那", 0],
 ]
 links = ["https://music.163.com/#/album?id=35314462"]
 
-[bafb654451853d44b51edf5c80df079e]
+[46ab326965c9d695ecdb909922615116]
 catalognumber = ""
 date = "2017-09-15"
 album = "花降る日々、"
 tracks = [
-    [1, "ニゲラの花束", "鎖那", 0],
+    [1, "ニゲラの花束", "鎖那", 1],
     [2, "紫陽花、まばたき、梅雨の日。", "000", 0],
-    [3, "マーガレットは眠る", "めありー", 0],
+    [3, "マーガレットは眠る", "めありー", 1],
     [4, "花降るラジオ", "めありー/鎖那/000", 0],
-    [5, "ニゲラの花束 (instrumental)", "鎖那", 0],
+    [5, "ニゲラの花束 (instrumental)", "鎖那", 1],
     [6, "紫陽花、まばたき、梅雨の日。 (instrumental)", "000", 0],
-    [7, "マーガレットは眠る (instrumental)", "めありー", 0],
+    [7, "マーガレットは眠る (instrumental)", "めありー", 1],
 ]
 links = ["https://music.163.com/#/album?id=74268888"]
 
-[37fc07acf4169f374fe846b5988f2eb0]
+[bc0081d4ed05a23b8c25f7122a92628f]
 catalognumber = ""
 date = "2017-09-27"
 album = "Hush a by little girl"
@@ -117,7 +117,7 @@ tracks = [
     [4, "彼女は旅に出る", "鎖那", 2],
     [5, "嘘つきエミリー", "鎖那", 0],
     [6, "ginger snaps", "鎖那", 1],
-    [7, "ニゲラの花束", "鎖那", 0],
+    [7, "ニゲラの花束", "鎖那", 1],
     [8, "オオカミと少女", "鎖那", 0],
     [9, "宝石", "鎖那", 0],
     [10, "シュテルン", "鎖那", 0],
@@ -133,7 +133,7 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=86432816"]
 
-[ece9e862d2b664d82f3ce8a70d41852f]
+[ada19b95864574169a03f4bd0abf8d81]
 catalognumber = ""
 date = "2020-12-12"
 album = "備忘録"
@@ -142,7 +142,7 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=120835351"]
 
-[3d4a39ab08ba7b5297e6a4e3c778be4a]
+[ad1f773ce9f09092432aa961a854056b]
 catalognumber = ""
 date = "2021-02-08"
 album = "LOVE LETTER with 鎖那"
@@ -151,12 +151,12 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=122419490"]
 
-[a2b9de83dcaab6924ff8d2be0714ea73]
+[fe2e1e960ddf0590e2ade20698116b0c]
 catalognumber = ""
 date = "2021-07-10"
 album = "tutu"
 tracks = [
-    [1, "tutu", "鎖那", 0],
+    [1, "tutu", "鎖那", 1],
 ]
 links = ["https://music.163.com/#/album?id=129269500"]
 
@@ -196,12 +196,12 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=265072970"]
 
-[882a19d88726ce145df75aa6741fb7ce]
+[a80934fa0e96bd03e2cd4c1622e18b32]
 catalognumber = ""
 date = "2025-05-28"
 album = "sparkle"
 tracks = [
-    [1, "sparkle", "鎖那", 0],
+    [1, "sparkle", "鎖那", 1],
 ]
 links = ["https://music.163.com/#/album?id=272386837"]
 
@@ -214,20 +214,20 @@ tracks = [
 ]
 links = ["https://music.163.com/#/album?id=275164204"]
 
-[0c1ab367a86e38b1c7b3972e845a83b2]
+[2a1314b2e9477ce9efe4829329fd0745]
 catalognumber = ""
 date = "2025-11-21"
 album = "CLOUD HAIRPIN"
 tracks = [
     [1, "1step 2step", "鎖那", 1],
     [2, "KISSIN' CLAW", "鎖那", 1],
-    [3, "くらくらった", "鎖那", 0],
+    [3, "くらくらった", "鎖那", 1],
     [4, "ベイビーヘイロー", "鎖那", 0],
     [5, "mimicry", "鎖那", 1],
     [6, "カプセル", "鎖那", 0],
-    [7, "sparkle", "鎖那", 0],
+    [7, "sparkle", "鎖那", 1],
     [8, "テルテルユー", "鎖那", 0],
-    [9, "tutu", "鎖那", 0],
+    [9, "tutu", "鎖那", 1],
     [10, "備忘録", "鎖那", 1],
     [11, "oh my girl", "鎖那", 1],
 ]
