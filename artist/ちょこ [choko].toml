@@ -284,19 +284,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/edc602eb-0a1d-4072-b5b7-5cd9b2b5f7e2"]
 
-[ada17f2f89c28366e83239410cbdb048]
+[bfc81dab1abd9fc9abde588ccbf2f1c7]
 catalognumber = ""
 date = "2016-04-24"
 album = "ちょこれーとほりっく！"
 tracks = [
-    [1, "ちょこれーと◎ほりっく！", "ちょこ", 0],
-    [2, "恋わずラズベリィ＊", "ちょこ", 0],
-    [3, "おっちょこ！ちょこちょいっ♪", "ちょこ", 0],
-    [4, "the wave of lovecomedy ～王子様と幼馴染みとラブソング？ あたしの学園生活どーなっちゃうの！？～", "ちょこ", 0],
-    [5, "恋するプティショコラ", "ちょこ", 0],
-    [6, "ふぉーちゅんのしるし", "ちょこ", 0],
-    [7, "気づいてよあいらびゅ", "ちょこ", 0],
-    [8, "告白大作戦", "ちょこ", 0],
+    [1, "ちょこれーと◎ほりっく！", "ちょこ", 1],
+    [2, "恋わずラズベリィ＊", "ちょこ", 1],
+    [3, "おっちょこ！ちょこちょいっ♪", "ちょこ", 1],
+    [4, "the wave of lovecomedy ～王子様と幼馴染みとラブソング？ あたしの学園生活どーなっちゃうの！？～", "ちょこ", 2],
+    [5, "恋するプティショコラ", "ちょこ", 1],
+    [6, "ふぉーちゅんのしるし", "ちょこ", 1],
+    [7, "気づいてよあいらびゅ", "ちょこ", 2],
+    [8, "告白大作戦", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a0432a17-fcb9-4695-b413-627e45cc035a", "https://www.dojin-music.info/cd/5760"]
 
@@ -377,19 +377,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4586"]
 
-[12174588ec06caf75ed6671379b8b535]
+[90cb431969752c2fc1f8c642728a6179]
 catalognumber = ""
 date = "2016-10-30"
 album = "ちょこれーときんぐだむ"
 tracks = [
-    [1, "かりすまてぃっKING☆sens@tion!!", "ちょこ", 0],
-    [2, "にんめー！国王直属恋愛担当大臣！", "ちょこ", 0],
-    [3, "はぐみー！my darling", "ちょこ", 0],
-    [4, "Attracted heart", "ちょこ", 0],
-    [5, "missing", "ちょこ", 0],
-    [6, "Choko☆like☆Party", "ちょこ", 0],
-    [7, "ちょこっと◆きんぐだむ～イントロ～", "立秋", 0],
-    [8, "ちょこっと◆きんぐだむ", "ちょこ", 0],
+    [1, "かりすまてぃっKING☆sens@tion!!", "ちょこ", 1],
+    [2, "にんめー！国王直属恋愛担当大臣！", "ちょこ", 1],
+    [3, "はぐみー！my darling", "ちょこ", 1],
+    [4, "Attracted heart", "ちょこ", 1],
+    [5, "missing", "ちょこ", 1],
+    [6, "Choko☆like☆Party", "ちょこ", 1],
+    [7, "ちょこっと◆きんぐだむ～イントロ～", "立秋", 1],
+    [8, "ちょこっと◆きんぐだむ", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/148581dd-e8ca-4c01-841a-4fa2b5bf2b82", "https://www.dojin-music.info/cd/5759"]
 
@@ -492,18 +492,18 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5804"]
 
-[8ee7e6162cd69300af6f78fd0df591e2]
+[d92d57191835a647ea4aec9bca8bea2e]
 catalognumber = ""
 date = "2017-04-30"
 album = "Sweet♥Heart"
 tracks = [
-    [1, "ふたりのひ・み・つ", "ちょこ", 0],
-    [2, "ずーっときみだけをみてるよ！", "ちょこ", 0],
-    [3, "あそんで、かまって、オンリーミー", "ちょこ", 0],
-    [4, "革命前夜はチョコの味", "ちょこ", 0],
-    [5, "ずっとずっと", "ちょこ", 0],
-    [6, "のーもあ☆おにーちゃん", "ちょこ", 0],
-    [7, "もー！", "ちょこ", 0],
+    [1, "ふたりのひ・み・つ", "ちょこ", 1],
+    [2, "ずーっときみだけをみてるよ！", "ちょこ", 1],
+    [3, "あそんで、かまって、オンリーミー", "ちょこ", 1],
+    [4, "革命前夜はチョコの味", "ちょこ", 1],
+    [5, "ずっとずっと", "ちょこ", 1],
+    [6, "のーもあ☆おにーちゃん", "ちょこ", 1],
+    [7, "もー！", "ちょこ", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5758"]
 
@@ -577,19 +577,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4584"]
 
-[a6ffbfa926f1c7e1833b555475ccadfc]
+[156e0aed4dc0d3cf2dbf7b5ce7f21117]
 catalognumber = ""
 date = "2017-10-29"
 album = "Happy Night Festival"
 tracks = [
-    [1, "ぱりないぱにっく", "ちょこ", 0],
-    [2, "HAPPY!!せいふくパーティ", "ちょこ", 0],
-    [3, "はぴはぴ", "ちょこ", 0],
-    [4, "屋台どりーむす", "ちょこ", 0],
-    [5, "ハロハロハロウィン", "ちょこ", 0],
-    [6, "Sparkle my days", "ちょこ", 0],
-    [7, "笑って！", "ちょこ", 0],
-    [8, "はっぴぃないと☆ふぇすてぃばる", "ちょこ", 0],
+    [1, "ぱりないぱにっく", "ちょこ", 1],
+    [2, "HAPPY!!せいふくパーティ", "ちょこ", 1],
+    [3, "はぴはぴ", "ちょこ", 1],
+    [4, "屋台どりーむす", "ちょこ", 1],
+    [5, "ハロハロハロウィン", "ちょこ", 1],
+    [6, "Sparkle my days", "ちょこ", 1],
+    [7, "笑って！", "ちょこ", 1],
+    [8, "はっぴぃないと☆ふぇすてぃばる", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ee3f7500-c117-4445-9a48-2c056b520404", "https://www.dojin-music.info/cd/5757"]
 
@@ -644,19 +644,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6497"]
 
-[7ff2b446370f1cc7abcdcdca16c494b6]
+[07f87fb3c3cb133125882e8ac22156b6]
 catalognumber = "RISH-0010"
 date = "2018-04-29"
 album = "Candy Pop Party"
 tracks = [
-    [1, "キャンディーロリポップ", "ちょこ", 0],
-    [2, "プナイプナイたいそう ～長プナイプナイver～", "ちょこ", 0],
-    [3, "てるやま", "ちょこ", 0],
-    [4, "朝顔", "ちょこ", 0],
-    [5, "×ロ×ロ×∨∧゜∨", "ちょこ", 0],
-    [6, "星のゆめ", "ちょこ", 0],
-    [7, "あめふりのロンド ～Long Version～", "ちょこ", 0],
-    [8, "ぱあ ～ぱぱぱぱあver～", "ちょこ", 0],
+    [1, "キャンディーロリポップ", "ちょこ", 1],
+    [2, "プナイプナイたいそう ～長プナイプナイver～", "ちょこ", 1],
+    [3, "てるやま", "ちょこ", 1],
+    [4, "朝顔", "ちょこ", 1],
+    [5, "×ロ×ロ×∨∧゜∨", "ちょこ", 1],
+    [6, "星のゆめ", "ちょこ", 1],
+    [7, "あめふりのロンド ～Long Version～", "ちょこ", 1],
+    [8, "ぱあ ～ぱぱぱぱあver～", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ce85cb5a-120d-4f69-95bf-48150a885cba", "https://www.dojin-music.info/cd/5794"]
 
@@ -712,19 +712,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5609"]
 
-[2cc771e2b0d9e3672fd4bd5346ae7348]
+[dc7426b71a6604c0c302238fc972b37a]
 catalognumber = "CTDK-0007"
 date = "2018-04-29"
 album = "ちょこっと配信ちゅう！"
 tracks = [
-    [1, "がうがう☆に気をつけて！", "ちょこ", 0],
-    [2, "CHOKO'S LATE NIGHT SHOW!!", "ちょこ", 0],
-    [3, "おまかせ☆くま伯爵", "ちょこ", 0],
-    [4, "ぶるーらいとに照らされて", "ちょこ", 0],
-    [5, "ちびぷににくきゅうリフレ", "ちょこ", 0],
-    [6, "だーりん", "ちょこ", 0],
-    [7, "ユメミルエレクトロ", "ちょこ", 0],
-    [8, "おしかけ★ぱーちゅーば→ショコラ", "ちょこ", 0],
+    [1, "がうがう☆に気をつけて！", "ちょこ", 1],
+    [2, "CHOKO'S LATE NIGHT SHOW!!", "ちょこ", 1],
+    [3, "おまかせ☆くま伯爵", "ちょこ", 1],
+    [4, "ぶるーらいとに照らされて", "ちょこ", 1],
+    [5, "ちびぷににくきゅうリフレ", "ちょこ", 1],
+    [6, "だーりん", "ちょこ", 1],
+    [7, "ユメミルエレクトロ", "ちょこ", 1],
+    [8, "おしかけ★ぱーちゅーば→ショコラ", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a336019-e181-4c19-a38e-b5c91b94b528", "https://www.dojin-music.info/cd/5756"]
 
@@ -827,43 +827,43 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5766"]
 
-[e5baad59222b075827b4b74b86a5f16a]
+[f5e8c660a0cd5c25247105e163540f46]
 catalognumber = "CTDK-0008"
 date = "2018-10-28"
 album = "DREAM MAGIC"
 tracks = [
-    [1, "コーヒーカップ・ラブ", "ちょこ", 0],
-    [2, "ぐるぐるアミューズメント", "ちょこ", 0],
-    [3, "Chocolate Magic", "ちょこ", 0],
-    [4, "恋色パティシエ", "ちょこ", 0],
-    [5, "Catch In Park", "ちょこ", 0],
-    [6, "Make my special!", "ちょこ", 0],
-    [7, "CANDY NIGHT PARADE!", "ちょこ", 0],
+    [1, "コーヒーカップ・ラブ", "ちょこ", 1],
+    [2, "ぐるぐるアミューズメント", "ちょこ", 1],
+    [3, "Chocolate Magic", "ちょこ", 1],
+    [4, "恋色パティシエ", "ちょこ", 1],
+    [5, "Catch In Park", "ちょこ", 2],
+    [6, "Make my special!", "ちょこ", 1],
+    [7, "CANDY NIGHT PARADE!", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/99aa2b9c-9c93-46d5-a74d-1f8d62eb8a11", "https://www.dojin-music.info/cd/5754"]
 
-[3af022de8116053b2b81356f7f830b8b]
+[ad0f26a811d6feafdf518598acf92533]
 catalognumber = ""
 date = "2018-10-28"
 album = "Champagne Night"
 tracks = [
-    [1, "キミに胸キュン☆シャンパンNight", "ちょこ", 0],
-    [2, "だんだん好きになってゆく♡", "ちょこ", 0],
-    [3, "キミに胸キュン☆シャンパンNight-inst-", "かたほとり", 0],
-    [4, "だんだん好きになってゆく♡-Inst-", "ひろて〜", 0],
+    [1, "キミに胸キュン☆シャンパンNight", "ちょこ", 1],
+    [2, "だんだん好きになってゆく♡", "ちょこ", 1],
+    [3, "キミに胸キュン☆シャンパンNight-inst-", "かたほとり", 1],
+    [4, "だんだん好きになってゆく♡-Inst-", "ひろて〜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dfa04708-e3f6-4a86-bdf7-899ba8340e1c", "https://www.dojin-music.info/cd/5755"]
 
-[e8991867252511c3c3b5613f722e7ddc]
+[048000db6714a75a420090b4bf35d4cb]
 catalognumber = ""
 date = "2018-12-30"
 album = "ちょこちゃんのよく眠れるしーでぃ"
 tracks = [
-    [1, "寝・逃・げでリセット!", "ちょこ", 0],
-    [2, "月灯りふんわり落ちてくる夜", "ちょこ", 0],
-    [3, "ルル", "ちょこ", 0],
-    [4, "エヴリデイドリーム", "ちょこ", 0],
-    [5, "Zzz", "ちょこ", 0],
+    [1, "寝・逃・げでリセット!", "ちょこ", 1],
+    [2, "月灯りふんわり落ちてくる夜", "ちょこ", 1],
+    [3, "ルル", "ちょこ", 1],
+    [4, "エヴリデイドリーム", "ちょこ", 1],
+    [5, "Zzz", "ちょこ", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5753"]
 
@@ -914,7 +914,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4685"]
 
-[32e5cb2c9697ff9c7858a327f50910fd]
+[5c5a68899b4db3d1570d8c37a0eb6b38]
 catalognumber = ""
 date = "2019-04-28"
 album = "ほっと・すぽっと"
@@ -923,7 +923,7 @@ tracks = [
     [2, "はみはみハーベスト☆きのこ狩り", "初乃葉ゆづの ぶただひかり", 0],
     [3, "難所だよ☆miko箱茶屋へおいでませ", "miko（藤咲かりん） 桃箱", 0],
     [4, "マカロン☆ハート", "ななひら", 0],
-    [5, "ちびぷににくきゅうリフレ", "ちょこ", 0],
+    [5, "ちびぷににくきゅうリフレ", "ちょこ", 1],
     [6, "Juicy!とろとろトロピカル", "ほたる", 0],
     [7, "ドキッ!?メイドだらけの大運動会", "桃箱", 0],
     [8, "おねえちゃんといっしょにxxしましょ", "ぶただひかり ちょこ", 0],
@@ -934,17 +934,17 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5612"]
 
-[f37b1ea254d405e449d9cde3043d4ecd]
+[f237121034d8c063132621459a7b6e70]
 catalognumber = "CTDK-0010"
 date = "2019-04-28"
 album = "Special C"
 tracks = [
-    [1, "ドリーミンデイズ", "ちょこ", 0],
-    [2, "「絶対的 U」", "ちょこ", 0],
-    [3, "LUCKY ＆ GO マイウェイ!!", "ちょこ", 0],
-    [4, "Shining High!", "ちょこ", 0],
-    [5, "Homing!", "ちょこ", 0],
-    [6, "スペシャルC", "ちょこ", 0],
+    [1, "ドリーミンデイズ", "ちょこ", 1],
+    [2, "「絶対的 U」", "ちょこ", 1],
+    [3, "LUCKY ＆ GO マイウェイ!!", "ちょこ", 1],
+    [4, "Shining High!", "ちょこ", 1],
+    [5, "Homing!", "ちょこ", 1],
+    [6, "スペシャルC", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f28578c-6bd8-45f0-9ace-bdbb773e4888", "https://www.dojin-music.info/cd/4688"]
 
@@ -957,12 +957,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/df6d4d05-cc64-4c18-a214-51e7b3626b84"]
 
-[eaf3366045186f6e4b6d9de984ef7d6f]
+[349fb13dd14a786d16dec21cf7df4de6]
 catalognumber = ""
 date = "2019-05-21"
 album = "プナイプナイたいそう"
 tracks = [
-    [1, "プナイプナイたいそう", "RISH feat. choko", 0],
+    [1, "プナイプナイたいそう", "RISH feat. choko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b261cfd0-7e5e-4427-9afa-3b45e207d66b"]
 
@@ -1140,56 +1140,56 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10176"]
 
-[1f25339c7af8b737ff2015491d03f6bb]
+[f17578729f89cfb5500777f9f3aa2c1b]
 catalognumber = ""
 date = "2019-10-27"
 album = "キャンディプラネット"
 tracks = [
-    [1, "Chu Chu Berry", "ちょこ", 0],
-    [2, "Kiss Me!", "ちょこ", 0],
-    [3, "MAGICAL CANDY", "ちょこ", 0],
-    [4, "ちょこれーとどりーむ", "ちょこ", 0],
-    [5, "very * berry * planet", "ちょこ", 0],
-    [6, "ヒカリフレーバー", "ちょこ", 0],
+    [1, "Chu Chu Berry", "ちょこ", 1],
+    [2, "Kiss Me!", "ちょこ", 1],
+    [3, "MAGICAL CANDY", "ちょこ", 1],
+    [4, "ちょこれーとどりーむ", "ちょこ", 1],
+    [5, "very * berry * planet", "ちょこ", 1],
+    [6, "ヒカリフレーバー", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ab2e31ca-c645-474a-9bb5-cf3307960702", "https://www.dojin-music.info/cd/9999"]
 
-[810f418b9006894107ad6cdcbcaba0e7]
+[33a30fe906a06d42feee51fcd4a84891]
 catalognumber = ""
 date = "2019-10-27"
 album = "きゃんでぃほりっくないとめあ"
 tracks = [
-    [1, "きゃんでぃほりっくないとめあ", "ちょこ", 0],
-    [2, "ハロハロハロウィン Rish Nightmare ver.", "ちょこ", 0],
+    [1, "きゃんでぃほりっくないとめあ", "ちょこ", 1],
+    [2, "ハロハロハロウィン Rish Nightmare ver.", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2016c54-52c6-40b9-aea1-107590a93d78", "https://www.dojin-music.info/cd/10805"]
 
-[026cb55c7e8c5501e2a1bd79b287d2a2]
+[20c1a2468710c7fe143ae4bd82f87e01]
 catalognumber = ""
 date = "2019-10-27"
 album = "Candy Planet"
 tracks = [
-    [1, "Chu Chu Berry", "ちょこ", 0],
-    [2, "Kiss Me!", "ちょこ", 0],
-    [3, "MAGICAL CANDY", "ちょこ", 0],
+    [1, "Chu Chu Berry", "ちょこ", 1],
+    [2, "Kiss Me!", "ちょこ", 1],
+    [3, "MAGICAL CANDY", "ちょこ", 1],
     [4, "chocolate dream", "ちょこ", 0],
-    [5, "very * berry * planet", "ちょこ", 0],
+    [5, "very * berry * planet", "ちょこ", 1],
     [6, "light flavor", "ちょこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/b6fffdbb-ca62-450a-92f5-6e932badb8c6"]
 
-[a9ba1944702426048d72863d954a3463]
+[2c0a1f6e049e4f0f71f698250d04c0ee]
 catalognumber = ""
 date = "2019-12-31"
 album = "Black Black Candy"
 tracks = [
-    [1, "Black Black Candy", "立秋 feat.ちょこ", 0],
-    [2, "てるやまⅡ", "立秋 feat.ちょこ", 0],
-    [3, "ぴょんぴょんぴょん", "立秋 feat.ちょこ", 0],
-    [4, "いたずらしちゃうぞ!", "立秋 feat.ちょこ", 0],
-    [5, "ハロハロハロウィン [Nightmare ver]", "立秋 feat.ちょこ", 0],
-    [6, "世界が終わればいいのになぁ", "立秋 feat.ちょこ", 0],
-    [7, "i wish", "立秋 feat.ちょこ", 0],
+    [1, "Black Black Candy", "立秋 feat.ちょこ", 1],
+    [2, "てるやまⅡ", "立秋 feat.ちょこ", 1],
+    [3, "ぴょんぴょんぴょん", "立秋 feat.ちょこ", 1],
+    [4, "いたずらしちゃうぞ!", "立秋 feat.ちょこ", 1],
+    [5, "ハロハロハロウィン [Nightmare ver]", "立秋 feat.ちょこ", 1],
+    [6, "世界が終わればいいのになぁ", "立秋 feat.ちょこ", 1],
+    [7, "i wish", "立秋 feat.ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e455281b-846b-4360-a5a7-1a8386915481"]
 
@@ -1205,45 +1205,45 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/14130"]
 
-[ad608ff271a4d5bdab20ec701f825ed4]
+[4c2f18c20ba3a9b9b2ed71db61a077b1]
 catalognumber = ""
 date = "2019-12-31"
 album = "Black Black Candy"
 tracks = [
-    [1, "Black Black Candy", "ちょこ", 0],
-    [2, "てるやまⅡ", "ちょこ", 0],
-    [3, "ぴょんぴょんぴょん", "ちょこ", 0],
-    [4, "いたずらしちゃうぞ！", "ちょこ", 0],
-    [5, "ハロハロハロウィン -Nightmare ver-", "ちょこ", 0],
-    [6, "世界が終わればいいのになぁ", "ちょこ", 0],
-    [7, "i wish", "ちょこ", 0],
-    [8, "おにいちゃんハイテック -True OniiChan ver-", "ちょこ", 0],
+    [1, "Black Black Candy", "ちょこ", 1],
+    [2, "てるやまⅡ", "ちょこ", 1],
+    [3, "ぴょんぴょんぴょん", "ちょこ", 1],
+    [4, "いたずらしちゃうぞ！", "ちょこ", 1],
+    [5, "ハロハロハロウィン -Nightmare ver-", "ちょこ", 1],
+    [6, "世界が終わればいいのになぁ", "ちょこ", 1],
+    [7, "i wish", "ちょこ", 1],
+    [8, "おにいちゃんハイテック -True OniiChan ver-", "ちょこ", 1],
 ]
 links = ["https://www.dojin-music.info/cd/14208"]
 
-[514aec5484457a0271faf8f8cd8eb758]
+[255d341044a2195d69cf956a8aaf19a4]
 catalognumber = "RISH-0014"
 date = "2019-12-31"
 album = "BlackBlackCandy"
 tracks = [
-    [1, "BlackBlackCandy", "立秋 feat.ちょこ", 0],
-    [2, "てるやまII", "立秋 feat.ちょこ", 0],
-    [3, "ぴょんぴょんぴょん", "立秋 feat.ちょこ", 0],
-    [4, "いたずらしちゃうぞ！", "立秋 feat.ちょこ", 0],
-    [5, "ハロハロハロウィン –Nightmare ver–", "立秋 feat.ちょこ", 0],
-    [6, "世界が終わればいいのになぁ", "立秋 feat.ちょこ", 0],
-    [7, "i wish", "立秋 feat.ちょこ", 0],
-    [8, "おにいちゃんハイテック –True OniiChan ver–", "立秋 feat.ちょこ", 0],
-    [9, "(゜ω゜)?", "立秋 feat.ちょこ", 0],
+    [1, "BlackBlackCandy", "立秋 feat.ちょこ", 1],
+    [2, "てるやまII", "立秋 feat.ちょこ", 1],
+    [3, "ぴょんぴょんぴょん", "立秋 feat.ちょこ", 1],
+    [4, "いたずらしちゃうぞ！", "立秋 feat.ちょこ", 1],
+    [5, "ハロハロハロウィン –Nightmare ver–", "立秋 feat.ちょこ", 1],
+    [6, "世界が終わればいいのになぁ", "立秋 feat.ちょこ", 1],
+    [7, "i wish", "立秋 feat.ちょこ", 1],
+    [8, "おにいちゃんハイテック –True OniiChan ver–", "立秋 feat.ちょこ", 1],
+    [9, "(゜ω゜)?", "立秋 feat.ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8e730056-4e31-4fcb-ae19-dd99a0e47286"]
 
-[442208b5d1e038fd61b679e4e9a776ae]
+[2c8fcbcadb27e300b395fb4dfba319ec]
 catalognumber = ""
 date = "2020-02-02"
 album = "プナイプナイせんそう"
 tracks = [
-    [1, "プナイプナイせんそう", "立秋 feat. ちょこ", 0],
+    [1, "プナイプナイせんそう", "立秋 feat. ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/553a0047-fcaf-442d-ad6b-8d8c4c5587c9"]
 
@@ -1263,14 +1263,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/17209"]
 
-[94e6142a385ceba011639c1aa5038b2d]
+[262ce5a5ac57682418e346d6a11c6c31]
 catalognumber = ""
 date = "2020-03-01"
 album = "おもちゃちゃちゃちゃちゃ!!!!!"
 tracks = [
-    [1, "おもちゃちゃちゃちゃちゃ!!!!!", "ちょこ", 0],
+    [1, "おもちゃちゃちゃちゃちゃ!!!!!", "ちょこ", 1],
     [2, "まどろみとスピカ", "ちょこ", 0],
-    [3, "おもちゃちゃちゃちゃちゃ!!!!!（オフボーカル）", "", 0],
+    [3, "おもちゃちゃちゃちゃちゃ!!!!!（オフボーカル）", "", 1],
     [4, "まどろみとスピカ（オフボーカル）", "", 0],
 ]
 links = ["https://www.dojin-music.info/cd/17418"]
@@ -1284,23 +1284,23 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24531"]
 
-[6548127854dc16d0679be057eb70de54]
+[75fddc45be7304dfecd9b4038e90e00b]
 catalognumber = ""
 date = "2020-06-01"
 album = "プナイプナイげんそう ~プナイプナイinワンダーランド~"
 tracks = [
-    [1, "プナイプナイげんそう ~プナイプナイinワンダーランド~", "立秋 feat. ちょこ", 0],
+    [1, "プナイプナイげんそう ~プナイプナイinワンダーランド~", "立秋 feat. ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7af0edf8-d434-4e14-aa77-b9ddee2aee8a"]
 
-[0a088ab423978d079f3b7890952710ee]
+[129efdc4b86211a2bf1a2a7885e9db3f]
 catalognumber = "CTDK-0012"
 date = "2020-10-25"
 album = "ファンシーキョンシー"
 tracks = [
-    [1, "ファンシーキョンシー", "ちょこ", 0],
-    [2, "Again again", "ちょこ", 0],
-    [3, "ほしくずのうた", "ちょこ", 0],
+    [1, "ファンシーキョンシー", "ちょこ", 1],
+    [2, "Again again", "ちょこ", 1],
+    [3, "ほしくずのうた", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bc272df9-9260-4d0a-a573-56a214449f7b", "https://www.dojin-music.info/cd/22539"]
 
@@ -1335,26 +1335,26 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/22541"]
 
-[e7f045767aaa251bf23c8b28173a4069]
+[62ebfa2d9452df5a2947964a2cf36edb]
 catalognumber = "RISH-0016"
 date = "2021-04-25"
 album = "Candy Panic Bomb!"
 tracks = [
-    [1, "キャンディーボムボム", "立秋 feat.ちょこ", 0],
-    [2, "まるくてはやくてすさまじいリズム (from 太鼓の達人)", "立秋 feat.ちょこ", 0],
-    [3, "てるやまさん", "立秋 feat.ちょこ", 0],
-    [4, "にゃーにゃーにゃー (from 太鼓の達人)", "立秋 feat.ちょこ", 0],
-    [5, "わたふわぱっち", "立秋 feat.ちょこ", 0],
-    [6, "おもちゃちゃちゃちゃちゃ！！！！！", "立秋 feat.ちょこ", 0],
-    [7, "竹", "立秋 feat.ちょこ", 0],
-    [8, "まるくてはやくてすさまじいリズム（もっとすさまじいVer）", "立秋 feat.ちょこ", 0],
-    [9, "にゃーにゃーにゃー（にゃーにゃーにゃーにゃーにゃーVer）", "立秋 feat.ちょこ", 0],
-    [10, "竹（真実Ver）", "立秋 feat.ちょこ", 0],
-    [11, "うたかたのロンド", "立秋 feat.ちょこ", 0],
+    [1, "キャンディーボムボム", "立秋 feat.ちょこ", 1],
+    [2, "まるくてはやくてすさまじいリズム (from 太鼓の達人)", "立秋 feat.ちょこ", 1],
+    [3, "てるやまさん", "立秋 feat.ちょこ", 1],
+    [4, "にゃーにゃーにゃー (from 太鼓の達人)", "立秋 feat.ちょこ", 1],
+    [5, "わたふわぱっち", "立秋 feat.ちょこ", 1],
+    [6, "おもちゃちゃちゃちゃちゃ！！！！！", "立秋 feat.ちょこ", 1],
+    [7, "竹", "立秋 feat.ちょこ", 1],
+    [8, "まるくてはやくてすさまじいリズム（もっとすさまじいVer）", "立秋 feat.ちょこ", 1],
+    [9, "にゃーにゃーにゃー（にゃーにゃーにゃーにゃーにゃーVer）", "立秋 feat.ちょこ", 1],
+    [10, "竹（真実Ver）", "立秋 feat.ちょこ", 1],
+    [11, "うたかたのロンド", "立秋 feat.ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bd4d3f14-a75b-4748-be93-80a75b5ce475"]
 
-[66aa717866b257580ee687dfffe90ab4]
+[0e8590ab31b4dc876c2c639feb63fce0]
 catalognumber = "CTDK-0013"
 date = "2021-04-25"
 album = "アイスワール"
@@ -1365,21 +1365,21 @@ tracks = [
     [4, "マーブル・フレグランス", "ちょこ", 0],
     [5, "Colorful Spiral", "ちょこ", 0],
     [6, "Stellar Magic Night", "ちょこ", 0],
-    [7, "very * berry * planet (Capchii Remix)", "ちょこ", 0],
+    [7, "very * berry * planet (Capchii Remix)", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f6a535df-e0c7-40f4-8d8a-88c6e8d235e1", "https://www.dojin-music.info/cd/24105"]
 
-[7dab115d1876151e1485236d856791a1]
+[f572fdfa0a44733287d2897b90a48161]
 catalognumber = ""
 date = "2021-04-25"
 album = "Candy Panic Bomb!"
 tracks = [
-    [1, "キャンディーボムボム", "立秋 feat.ちょこ", 0],
-    [2, "てるやまさん", "立秋 feat.ちょこ", 0],
-    [3, "わたふわぱっち", "立秋 feat.ちょこ", 0],
-    [4, "おもちゃちゃちゃちゃちゃ!!!!!", "立秋 feat.ちょこ", 0],
-    [5, "竹", "立秋 feat.ちょこ", 0],
-    [6, "竹 [真実ver]", "立秋 feat.ちょこ", 0],
+    [1, "キャンディーボムボム", "立秋 feat.ちょこ", 1],
+    [2, "てるやまさん", "立秋 feat.ちょこ", 1],
+    [3, "わたふわぱっち", "立秋 feat.ちょこ", 1],
+    [4, "おもちゃちゃちゃちゃちゃ!!!!!", "立秋 feat.ちょこ", 1],
+    [5, "竹", "立秋 feat.ちょこ", 1],
+    [6, "竹 [真実ver]", "立秋 feat.ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/95374376-b78e-4582-a9b9-a668944d6b1f"]
 
@@ -1578,7 +1578,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed70aee9-11ce-4441-bfa4-f7a0d5c9b87d", "https://www.dojin-music.info/cd/28431"]
 
-[af692c5a6d0bb692aa713b6a7e272aad]
+[4c379e4cbf072ef0ca4eb9b84956bce4]
 catalognumber = "CTDK-0017"
 date = "2022-10-30"
 album = "甘色メルティータイム"
@@ -1586,40 +1586,40 @@ tracks = [
     [1, "Mel-tea Time", "ちょこ", 0],
     [2, "ロリポップ・ランデヴー", "ちょこ", 0],
     [3, "みずたまカスタネット feat.ちょこ", "ちょこ", 0],
-    [4, "恋色パティシエ", "ちょこ", 0],
-    [5, "コーヒーカップ・ラブ", "ちょこ", 0],
+    [4, "恋色パティシエ", "ちょこ", 1],
+    [5, "コーヒーカップ・ラブ", "ちょこ", 1],
     [6, "ヒロインはあたし！", "ちょこ", 0],
-    [7, "恋色パティシエ(picco Remix)", "ちょこ", 0],
-    [8, "コーヒーカップ・ラブ(irucaice Remix)", "ちょこ", 0],
+    [7, "恋色パティシエ(picco Remix)", "ちょこ", 1],
+    [8, "コーヒーカップ・ラブ(irucaice Remix)", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dc7c3113-617a-484b-9e52-8d26342de5ec", "https://www.dojin-music.info/cd/28322"]
 
-[4e4cc9cf743d8c9ba2b110f9edd091c5]
+[b255f7e2d8f13e29a0c20f53ed6aeb2a]
 catalognumber = ""
 date = "2022-12-24"
 album = "Chokolate Best Box"
 tracks = [
-    [1, "かりすまてぃっKING☆sens@tion!!", "ちょこ", 0],
-    [2, "ぱりないぱにっく", "ちょこ", 0],
-    [3, "がうがう☆に気をつけて!", "ちょこ", 0],
-    [4, "CHOKO'S LATE NIGHT SHOW!!", "ちょこ", 0],
-    [5, "ずーっときみだけをみてるよ!", "ちょこ", 0],
+    [1, "かりすまてぃっKING☆sens@tion!!", "ちょこ", 1],
+    [2, "ぱりないぱにっく", "ちょこ", 1],
+    [3, "がうがう☆に気をつけて!", "ちょこ", 1],
+    [4, "CHOKO'S LATE NIGHT SHOW!!", "ちょこ", 1],
+    [5, "ずーっときみだけをみてるよ!", "ちょこ", 1],
     [6, "ガラススコープ", "ちょこ", 0],
-    [7, "革命前夜はチョコの味", "ちょこ", 0],
-    [8, "あそんで、かまって、オンリーミー", "ちょこ", 0],
-    [9, "おしかけ★ぱーちゅーば→ショコラ", "ちょこ", 0],
-    [10, "ちびぷににくきゅうリフレ", "ちょこ", 0],
-    [11, "HAPPY!!せいふくパーティ", "ちょこ", 0],
-    [12, "はぐみー!my darling", "ちょこ", 0],
-    [13, "にんめー!国王直属恋愛担当大臣!", "ちょこ", 0],
-    [14, "だんだん好きになってゆく♡", "ちょこ", 0],
-    [15, "もー!", "ちょこ", 0],
-    [16, "ぐるぐるアミューズメント", "ちょこ", 0],
-    [17, "Make my special!", "ちょこ", 0],
-    [18, "CANDY NIGHT PARADE!", "ちょこ", 0],
-    [19, "Choko☆like☆Party", "ちょこ", 0],
-    [20, "笑って!", "ちょこ", 0],
-    [21, "ちょこっと◆きんぐだむ", "ちょこ", 0],
+    [7, "革命前夜はチョコの味", "ちょこ", 1],
+    [8, "あそんで、かまって、オンリーミー", "ちょこ", 1],
+    [9, "おしかけ★ぱーちゅーば→ショコラ", "ちょこ", 1],
+    [10, "ちびぷににくきゅうリフレ", "ちょこ", 1],
+    [11, "HAPPY!!せいふくパーティ", "ちょこ", 1],
+    [12, "はぐみー!my darling", "ちょこ", 1],
+    [13, "にんめー!国王直属恋愛担当大臣!", "ちょこ", 1],
+    [14, "だんだん好きになってゆく♡", "ちょこ", 1],
+    [15, "もー!", "ちょこ", 1],
+    [16, "ぐるぐるアミューズメント", "ちょこ", 1],
+    [17, "Make my special!", "ちょこ", 1],
+    [18, "CANDY NIGHT PARADE!", "ちょこ", 1],
+    [19, "Choko☆like☆Party", "ちょこ", 1],
+    [20, "笑って!", "ちょこ", 1],
+    [21, "ちょこっと◆きんぐだむ", "ちょこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad3a060f-3342-4700-b97a-2146c88442d6"]
 
@@ -1717,7 +1717,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/29560"]
 
-[d45d3ecea2a652924ca05d709f437480]
+[18fc895c36a72cd0b1deaf7062dcbe72]
 catalognumber = ""
 date = "2023-10-29"
 album = "Angel Gelato"
@@ -1725,7 +1725,7 @@ tracks = [
     [1, "アイスクリーム・エンジェルズ", "ななひら すずしろ ちょこ", 0],
     [2, "Rainbow Rush Story（Full ver.）", "ちょこ", 0],
     [3, "シンデレラ・マジック・ステージ", "irucaice Vocal 茅野ふたば (CV: 堀越せな)", 0],
-    [4, "very * berry * planet", "ちょこ", 0],
+    [4, "very * berry * planet", "ちょこ", 1],
     [5, "金平糖と恋のホロスコープ", "すずしろ", 0],
     [6, "Rainy Step", "まめこ", 0],
     [7, "Melty Cream Soda", "すずしろ", 0],

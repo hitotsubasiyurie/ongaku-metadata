@@ -1,4 +1,4 @@
-[8c539f0c2a29155e6c8f23b55ae79be7]
+[8d77d059a47c47d0d40b9a7130d561c2]
 catalognumber = ""
 date = ""
 album = "Nanairo Ribbon"
@@ -7,12 +7,12 @@ tracks = [
     [2, "rennai parachute", "ななひら×nayuta", 0],
     [3, "Tokimeki smash", "ななひら×nayuta", 0],
     [4, "Raririreru, ririro, riraro", "nayuta", 0],
-    [5, "Azure Reunion", "ななひら", 0],
+    [5, "Azure Reunion", "ななひら", 1],
     [6, "Kirameki rainbow snow", "ななひら×nayuta", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/1dcc0dd0-2206-4aec-88ec-8d3a795a4d3e"]
 
-[7cef71269a6308ba9368fad3141a6624]
+[77b0abdf5b832ac11073eb8117367c21]
 catalognumber = ""
 date = ""
 album = "4orce!"
@@ -20,10 +20,10 @@ tracks = [
     [1, "Origamical Sweet Love", "かめりあ feat. ななひら", 0],
     [2, "Heeartbeeat Oveerheeat!!!!", "かめりあ feat. ななひら", 0],
     [3, "Train Labyrinth -Escape from Super -Shinjuku Sta.-", "かめりあ feat. ななひら", 0],
-    [4, "Ta-Ti-Tu-Teatime!", "かめりあ feat. ななひら", 0],
+    [4, "Ta-Ti-Tu-Teatime!", "かめりあ feat. ななひら", 1],
     [5, "Can I Friend You On Bassbook? Lol", "かめりあ feat. ななひら", 0],
-    [6, "You Make My Life 1UP (x127 Long ver.)", "かめりあ feat. ななひら", 0],
-    [7, "senpai, notice me!", "かめりあ feat. ななひら", 0],
+    [6, "You Make My Life 1UP (x127 Long ver.)", "かめりあ feat. ななひら", 1],
+    [7, "senpai, notice me!", "かめりあ feat. ななひら", 1],
     [8, "Kansoku-Eisei", "かめりあ feat. ななひら", 0],
     [9, "Mononon the IoT (※Internet of Things) Goddess", "かめりあ feat. ななひら", 0],
     [10, "Pshhht♥ The Phoenix rises from the flames!? ~Yakiniku of Rebirth~", "かめりあ feat. ななひら", 0],
@@ -33,11 +33,11 @@ tracks = [
     [14, "Origamical Sweet Love (Long ver.)", "かめりあ feat. ななひら", 0],
     [15, "Pshhht♥ The Phoenix rises from the flames!? ~Yakiniku of Rebirth~ -\"True\" ver.-", "かめりあ feat. ななひら", 0],
     [16, "Tsukidourou (Lite Show Magic Remix)", "かめりあ feat. ななひら", 0],
-    [17, "Looking For A New Adventure (The 4th Remix)", "かめりあ feat. ななひら", 0],
+    [17, "Looking For A New Adventure (The 4th Remix)", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/817a8a39-8f80-4efd-a9a5-6760aa7c09c6"]
 
-[351c62dc835bd410e64792672b3ebde6]
+[8613ab6bcc0c3ec256ee8faec4c9b0dc]
 catalognumber = ""
 date = ""
 album = "Colory Starry"
@@ -46,50 +46,50 @@ tracks = [
     [2, "Migake! Joshiryoku", "ななひら", 0],
     [3, "Onegai! Love Magic☆", "ななひら", 0],
     [4, "Date Plan", "ななひら", 0],
-    [5, "Fly Away!", "ななひら", 0],
+    [5, "Fly Away!", "ななひら", 1],
     [6, "Hirata Nanami no Jitakutaikigata Renaikan", "ななひら", 0],
-    [7, "Ange du Blanc Pur", "ななひら", 0],
+    [7, "Ange du Blanc Pur", "ななひら", 1],
     [8, "Raririreru, Ririro, Riraro", "ななひら", 0],
     [9, "LOVE! 1/8 Scale", "ななひら", 0],
     [10, "Hoshi ni Negai wo", "ななひら", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2cf4fe8a-0f44-4621-ac29-bc9bf603a22a"]
 
-[643a4795e06d914dd7714d19a5829437]
+[5208544750e9b9f9b0380ac7ecb88582]
 catalognumber = ""
 date = ""
 album = "Confetti-Box"
 tracks = [
-    [1, "サクライロ.グッモーニン", "かめりあ", 0],
-    [2, "ロリ神様は突然に。", "七誌", 0],
-    [3, "えくすとりーむ↑↑おんがくスクール", "Roughsketch & Massive New Krew", 0],
-    [4, "Cross The Finish Line", "Kobaryo", 0],
-    [5, "ピョンコラJUMP!", "吉田省吾", 0],
-    [6, "Cutest☆Holiday Date", "99", 0],
-    [7, "ひみつの放課後アイドル", "y0c1e", 0],
-    [8, "清水もつカレーのうた", "きくお", 0],
-    [9, "Ponko2 Girlish", "t+pazolite", 0],
-    [10, "ニーナへ。", "かぼちゃ", 0],
-    [11, "Good Night", "Colate", 0],
-    [12, "月夜とたいやきと池の鯉（Huge Rythm Mix）", "かたほとり", 0],
-    [13, "like a bunny(sky_delta Remix)", "Colate", 0],
-    [14, "NouveauMonde", "塚越雄一朗", 0],
-    [15, "ポケットサプライズ", "はるなば", 0],
-    [16, "必勝！私のお料理レシピ", "ハム", 0],
-    [17, "アニマルらんど", "ハム", 0],
-    [18, "JumpOver!生物種", "かめりあ", 0],
-    [19, "ヒラタナナミの自宅待機型恋愛観", "D.watt", 0],
-    [20, "Honey trap", "かめりあ", 0],
-    [21, "爆売れ！マッチ売りの派遣少女", "Arm", 0],
-    [22, "さいきょう虫歯工事師 掘削Chu☆", "かめりあ", 0],
-    [23, "課金厨のうた -More Charin Ver.-", "Task", 0],
-    [24, "ラリリレル、リリロ、リラロ", "黒魔", 0],
-    [25, "気付いたら春夏秋冬", "かめりあ", 0],
-    [26, "ゆんゆんコズミカ (Ryunosuke Kudo Remix)", "U-ske", 0],
-    [27, "完全に満足したマン (Perfect Satisfied Man)", "SAISEN TURN", 0],
-    [28, "チョコレートグラビティ", "はるなば", 0],
-    [29, "とっておきの魔法", "Task", 0],
-    [30, "爆なな☆てすとロイヤー", "Arm", 0],
+    [1, "サクライロ.グッモーニン", "かめりあ", 1],
+    [2, "ロリ神様は突然に。", "七誌", 1],
+    [3, "えくすとりーむ↑↑おんがくスクール", "Roughsketch & Massive New Krew", 1],
+    [4, "Cross The Finish Line", "Kobaryo", 1],
+    [5, "ピョンコラJUMP!", "吉田省吾", 1],
+    [6, "Cutest☆Holiday Date", "99", 1],
+    [7, "ひみつの放課後アイドル", "y0c1e", 1],
+    [8, "清水もつカレーのうた", "きくお", 1],
+    [9, "Ponko2 Girlish", "t+pazolite", 1],
+    [10, "ニーナへ。", "かぼちゃ", 1],
+    [11, "Good Night", "Colate", 1],
+    [12, "月夜とたいやきと池の鯉（Huge Rythm Mix）", "かたほとり", 1],
+    [13, "like a bunny(sky_delta Remix)", "Colate", 1],
+    [14, "NouveauMonde", "塚越雄一朗", 1],
+    [15, "ポケットサプライズ", "はるなば", 1],
+    [16, "必勝！私のお料理レシピ", "ハム", 1],
+    [17, "アニマルらんど", "ハム", 1],
+    [18, "JumpOver!生物種", "かめりあ", 1],
+    [19, "ヒラタナナミの自宅待機型恋愛観", "D.watt", 1],
+    [20, "Honey trap", "かめりあ", 1],
+    [21, "爆売れ！マッチ売りの派遣少女", "Arm", 1],
+    [22, "さいきょう虫歯工事師 掘削Chu☆", "かめりあ", 1],
+    [23, "課金厨のうた -More Charin Ver.-", "Task", 1],
+    [24, "ラリリレル、リリロ、リラロ", "黒魔", 1],
+    [25, "気付いたら春夏秋冬", "かめりあ", 1],
+    [26, "ゆんゆんコズミカ (Ryunosuke Kudo Remix)", "U-ske", 1],
+    [27, "完全に満足したマン (Perfect Satisfied Man)", "SAISEN TURN", 1],
+    [28, "チョコレートグラビティ", "はるなば", 1],
+    [29, "とっておきの魔法", "Task", 1],
+    [30, "爆なな☆てすとロイヤー", "Arm", 1],
 ]
 links = ["https://www.last.fm/music/%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89/Confetti-Box"]
 
@@ -170,7 +170,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/2366"]
 
-[34e63242348fc405fe4c810a9e4523b0]
+[b5f8c19e64fce7a74e79e417a8229624]
 catalognumber = ""
 date = "2009-12-30"
 album = "プチリズム"
@@ -180,7 +180,7 @@ tracks = [
     [3, "カナザワカレー", "ななひら", 0],
     [4, "かたおもい。（フルver.）", "内緒妹 ななひら", 0],
     [5, "私の想いは君には届かない", "VOCALOID2 鏡音リン", 0],
-    [6, "かるあみるく☆せんせーしょん", "ななひら", 0],
+    [6, "かるあみるく☆せんせーしょん", "ななひら", 1],
     [7, "かたおもい。（フルver.）", "VOICEROID 月読アイ VOCALOID2 鏡音リン", 0],
 ]
 links = ["https://www.dojin-music.info/cd/5637"]
@@ -342,7 +342,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/3171"]
 
-[8d4faaeb08069d66e4329047260a2d6d]
+[3c08de3be8a546d99129aab7fb335393]
 catalognumber = ""
 date = "2010-08-14"
 album = "マジカルリンケージ"
@@ -351,7 +351,7 @@ tracks = [
     [2, "メイドの星からＳ・Ｏ・Ｓ", "", 0],
     [3, "リンケージ", "", 0],
     [4, "隠れオタクでごめんなさい", "", 0],
-    [5, "かるあみるく☆せんせーしょん", "", 0],
+    [5, "かるあみるく☆せんせーしょん", "", 1],
     [6, "少女とオムライス", "", 0],
     [7, "トマトきらい？のうた", "", 0],
     [8, "たちあがれおじいちゃん", "", 0],
@@ -392,21 +392,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/13638"]
 
-[fed5372d1f0dbd0de788ad4e48a8a4f4]
+[0aaade0abd02e1d0b7cdc82f33ce319f]
 catalognumber = "KTHT-0007"
 date = "2010-08-14"
 album = "ゴキゲン77ﾟ↑"
 tracks = [
-    [1, "sweet summer day", "ななひら", 0],
-    [2, "お節介な妹が毎朝起こしにきて生きるのがつらい", "ななひら", 0],
-    [3, "参上、辻斬、私フルバーストガール", "ななひら", 0],
-    [4, "萌えっと♥めいど", "ななひら", 0],
-    [5, "Right Now", "ななひら", 0],
-    [6, "幻想×ブレイクスルー", "ななひら", 0],
-    [7, "Ａ杯", "ななひら", 0],
-    [8, "魔性のおんなのこ", "ななひら", 0],
-    [9, "さいころサイクロン", "ななひら", 0],
-    [10, "Existence", "ななひら", 0],
+    [1, "sweet summer day", "ななひら", 1],
+    [2, "お節介な妹が毎朝起こしにきて生きるのがつらい", "ななひら", 1],
+    [3, "参上、辻斬、私フルバーストガール", "ななひら", 1],
+    [4, "萌えっと♥めいど", "ななひら", 1],
+    [5, "Right Now", "ななひら", 1],
+    [6, "幻想×ブレイクスルー", "ななひら", 1],
+    [7, "Ａ杯", "ななひら", 1],
+    [8, "魔性のおんなのこ", "ななひら", 1],
+    [9, "さいころサイクロン", "ななひら", 1],
+    [10, "Existence", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2081bd4-9506-45d4-a479-05b122393fce", "https://www.dojin-music.info/cd/5665"]
 
@@ -554,7 +554,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5738"]
 
-[4fbe2d476e78b42aaf8e7c6e5b71a9dd]
+[9898d8a504c8a029087fe9579a84de2d]
 catalognumber = ""
 date = "2010-12-31"
 album = "プチリズムCHU"
@@ -563,11 +563,11 @@ tracks = [
     [2, "未知の惑星", "kana", 0],
     [3, "もうおとなだもン！", "内緒妹", 0],
     [4, "勉強したくない", "ひなうさ", 0],
-    [5, "オムライスのうた", "ななひら", 0],
+    [5, "オムライスのうた", "ななひら", 1],
     [6, "嫌い、嫌い。", "ココ", 0],
     [7, "聖ボーダーニーハイ学園へようこそ☆", "桃箱 愛原圭織", 0],
     [8, "秋晴れの朝", "ひなうさ", 0],
-    [9, "ふっくらふわあまけーき", "ななひら", 0],
+    [9, "ふっくらふわあまけーき", "ななひら", 1],
     [10, "オリジナリティ", "kana", 0],
 ]
 links = ["https://www.dojin-music.info/cd/5636"]
@@ -732,12 +732,12 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7909"]
 
-[e57f09eea8d325de6798c5a8d27cba41]
+[25db9381739bbf6c8d23874003b0faad]
 catalognumber = ""
 date = "2011-08-13"
 album = "プチリズムさん！"
 tracks = [
-    [1, "飛び出せ！Sweet Sweet Magic☆", "ななひら", 0],
+    [1, "飛び出せ！Sweet Sweet Magic☆", "ななひら", 1],
     [2, "席替えアマトリチャーナ", "ゆきまめ", 0],
     [3, "マイリトルルームメイト", "転少女", 0],
     [4, "送信中", "内緒妹", 0],
@@ -745,7 +745,7 @@ tracks = [
     [6, "虹の見える情景", "鹿乃", 0],
     [7, "うさぎ座の探し方", "ひなうさ", 0],
     [8, "CHU WA CHU CHU！", "ココ", 0],
-    [9, "月夜とたいやきと池の鯉", "ななひら", 0],
+    [9, "月夜とたいやきと池の鯉", "ななひら", 1],
     [10, "寝ない。", "桃箱", 0],
 ]
 links = ["https://www.dojin-music.info/cd/5635"]
@@ -979,13 +979,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7740"]
 
-[07a18df857a9f4e24acde8f3c718a6b1]
+[f94e4a2fc7cecd05a83a0f20d5cdfce9]
 catalognumber = ""
 date = "2011-12-31"
 album = "プチリズムふぉお///"
 tracks = [
     [1, "異星人と恋愛", "めらみぽっぷ", 0],
-    [2, "ナナプラス＋", "ななひら", 0],
+    [2, "ナナプラス＋", "ななひら", 1],
     [3, "そうだ、ピクニックに行こう。", "愛原圭織", 0],
     [4, "とっとこPARADE", "桃箱", 0],
     [5, "えくすとりーむ・もふもふ", "ココ", 0],
@@ -993,11 +993,11 @@ tracks = [
     [7, "青春ただいま進行中！", "ゆきまめ", 0],
     [8, "くまくんはコットンで出来ている", "kana", 0],
     [9, "メイドの星からランデブー", "Nimo", 0],
-    [10, "Cookin'CookieS", "ななひら", 0],
+    [10, "Cookin'CookieS", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5634"]
 
-[1f20f9f80963882ad609e39be2b9932f]
+[16f3010b19e510a91c9e9a57f7058a93]
 catalognumber = ""
 date = "2011-12-31"
 album = "Zero Shuffle"
@@ -1014,7 +1014,7 @@ tracks = [
     [10, "ポッシブル！", "ひななた", 0],
     [11, "サヨナラ", "まめこ", 0],
     [12, "Guilty", "日向ももこ", 0],
-    [13, "真冬のシンデレラ", "ねぎとろ", 0],
+    [13, "真冬のシンデレラ", "ねぎとろ", 1],
     [14, "ろり☆ぱら", "ななひら りこ。", 0],
 ]
 links = ["https://www.dojin-music.info/cd/4623"]
@@ -1094,21 +1094,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7754"]
 
-[03eccc75794ef35a6dff87098237bc7e]
+[409c29d9f10099fad1737674fc4c864a]
 catalognumber = "KTHT-0015"
 date = "2012-04-30"
 album = "MagiQute!!"
 tracks = [
-    [1, "きょう、あす、あさっぷ", "ななひら", 0],
-    [2, "シキンキョリ♥Lover", "ななひら", 0],
-    [3, "ウタウタウ", "ななひら", 0],
-    [4, "Ready Go!", "ななひら", 0],
-    [5, "☆恋に落ちる魔法☆", "ななひら", 0],
-    [6, "爆発！ラブパニック", "ななひら", 0],
-    [7, "朝型の吸血鬼 9cc", "ななひら", 0],
-    [8, "猫とスイッチ", "ななひら", 0],
-    [9, "ドリヤーおじさん", "ななひら", 0],
-    [10, "ふぁんたすてっく☆どりーむ☆がーでん", "ななひら", 0],
+    [1, "きょう、あす、あさっぷ", "ななひら", 1],
+    [2, "シキンキョリ♥Lover", "ななひら", 1],
+    [3, "ウタウタウ", "ななひら", 1],
+    [4, "Ready Go!", "ななひら", 1],
+    [5, "☆恋に落ちる魔法☆", "ななひら", 1],
+    [6, "爆発！ラブパニック", "ななひら", 1],
+    [7, "朝型の吸血鬼 9cc", "ななひら", 1],
+    [8, "猫とスイッチ", "ななひら", 1],
+    [9, "ドリヤーおじさん", "ななひら", 1],
+    [10, "ふぁんたすてっく☆どりーむ☆がーでん", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0b42b7dd-9f4e-47f4-8c3d-855381606c02", "https://www.dojin-music.info/cd/5664"]
 
@@ -1332,16 +1332,16 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5940"]
 
-[919fa9e9551c37eb088725f23e7efdcf]
+[c71f393a20b827f84dbaf17b3898ebb7]
 catalognumber = "CFCD-0001"
 date = "2012-08-11"
 album = "ななみっくす！-nanamix-"
 tracks = [
-    [1, "あめふり天気をGET AWAY!", "ななひら", 0],
-    [2, "アイをください", "ななひら", 0],
-    [3, "ロリングボール！", "ななひら", 0],
-    [4, "未実装", "ななひら", 0],
-    [5, "ナナイロEvolution", "ななひら", 0],
+    [1, "あめふり天気をGET AWAY!", "ななひら", 1],
+    [2, "アイをください", "ななひら", 1],
+    [3, "ロリングボール！", "ななひら", 1],
+    [4, "未実装", "ななひら", 1],
+    [5, "ナナイロEvolution", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c0361062-bf03-4732-845e-f0c49a9623fc", "https://www.dojin-music.info/cd/5658"]
 
@@ -1479,16 +1479,16 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/9015"]
 
-[dcfc4369adc43d253a6b4980a2047999]
+[cc0b7f5672d15f96ec6477ba685bef55]
 catalognumber = "NNUS-001"
 date = "2012-10-28"
 album = "女の子あ・ら・もーど"
 tracks = [
-    [1, "相思相愛★テレパシー", "ななひら ひなうさ", 0],
-    [2, "LoveLoveLove!!", "ななひら ひなうさ", 0],
-    [3, "二人のアリス", "ななひら ひなうさ", 0],
-    [4, "世界でイチバン！", "ななひら ひなうさ", 0],
-    [5, "仲直りは夢のあとで", "ななひら ひなうさ", 0],
+    [1, "相思相愛★テレパシー", "ななひら ひなうさ", 1],
+    [2, "LoveLoveLove!!", "ななひら ひなうさ", 2],
+    [3, "二人のアリス", "ななひら ひなうさ", 1],
+    [4, "世界でイチバン！", "ななひら ひなうさ", 2],
+    [5, "仲直りは夢のあとで", "ななひら ひなうさ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/84a8b1c3-675f-468b-a07b-ec21766a1df9", "https://www.dojin-music.info/cd/5681"]
 
@@ -1591,7 +1591,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7735"]
 
-[5714a1d3b810c5d739dc859cb30ca2a7]
+[47a676c3b26038950f66a58a67018dfc]
 catalognumber = ""
 date = "2012-12-31"
 album = "しぇいきんぐ！"
@@ -1599,7 +1599,7 @@ tracks = [
     [1, "らららら☆ラブなミステリー", "ココ ななひら 桃箱", 0],
     [2, "なんでやねん！（voice drama)", "", 0],
     [3, "早速ですがSHAKING PINKはインベーダーだったようです", "ココ ななひら 桃箱", 0],
-    [4, "絶対的！夢はSUPERアイドル", "ななひら", 0],
+    [4, "絶対的！夢はSUPERアイドル", "ななひら", 1],
     [5, "恋のレスキュー出動なう！！", "ココ 桃箱", 0],
     [6, "合法ロリ二名から告白されたのでどっちか嫁にする", "ココ ななひら", 0],
     [7, "恋はももいろ", "桃箱", 0],
@@ -1611,25 +1611,25 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5640"]
 
-[f69799589d0e94d1038cd4c905363488]
+[e4d3fe7dabc711c0c240e1861d1d5b9d]
 catalognumber = "CFCD-0002"
 date = "2012-12-31"
 album = "KEMOLOVE"
 tracks = [
-    [1, "Jump Over!生物種", "ななひら", 0],
-    [2, "恋してわんだふる！", "ななひら", 0],
-    [3, "パパパパパンダ", "ななひら", 0],
-    [4, "♀人とウサギのラビリンス♀", "ななひら ココ", 0],
-    [5, "肉食系彼女", "ななひら", 0],
+    [1, "Jump Over!生物種", "ななひら", 1],
+    [2, "恋してわんだふる！", "ななひら", 1],
+    [3, "パパパパパンダ", "ななひら", 1],
+    [4, "♀人とウサギのラビリンス♀", "ななひら ココ", 2],
+    [5, "肉食系彼女", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92d6f372-f9e4-4722-ac90-dde0ba4fa682", "https://www.dojin-music.info/cd/5657"]
 
-[a20690beac8f48b38386a91e66d0f180]
+[2e19c7b1606b579e45645e62c7a9fcd7]
 catalognumber = ""
 date = "2013-04-27"
 album = "ちっちゃいのっ！"
 tracks = [
-    [1, "ちっちゃいのっ！", "桃箱 ななひら", 0],
+    [1, "ちっちゃいのっ！", "桃箱 ななひら", 1],
     [2, "ボイスドラマ１", "", 0],
     [3, "ATTACK!!", "ななひら", 0],
     [4, "ボイスドラマ２", "", 0],
@@ -1638,7 +1638,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/21460b50-badf-49e4-89f3-26345afe8374", "https://www.dojin-music.info/cd/5679"]
 
-[f2f1d3377ba0165c921a174a600e4d10]
+[df281ff0c334609de2d637e275275e46]
 catalognumber = ""
 date = "2013-04-29"
 album = "プチリズム六"
@@ -1649,7 +1649,7 @@ tracks = [
     [4, "ダメ！ダメ！", "ゆきまめ なゆ", 0],
     [5, "我が身思春期なり！", "内緒妹", 0],
     [6, "お気の毒ですがすべて仕様です。", "ひななた 作詞・作曲：オワタP", 0],
-    [7, "清水もつカレーのうた", "ななひら", 0],
+    [7, "清水もつカレーのうた", "ななひら", 1],
     [8, "らぶれでぃ？れでぃ！ ～オトモするですにゃ?(´ω｀*)～", "めらみぽっぷ", 0],
     [9, "Power of Love", "kana", 0],
     [10, "そうだね、うん。", "桃箱", 0],
@@ -1705,14 +1705,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4606"]
 
-[e8541b7e854adcc9b53d71756612aa7d]
+[f570862e2c5403a1a63b424aadfa1768]
 catalognumber = "CFCD-0003"
 date = "2013-04-29"
 album = "ときめき☆アンサンブル"
 tracks = [
-    [1, "ダニエルは女の子です！", "ななひら", 0],
-    [2, "甘えたがりと雨上がり", "ななひら", 0],
-    [3, "とっておきの魔法", "ななひら", 0],
+    [1, "ダニエルは女の子です！", "ななひら", 1],
+    [2, "甘えたがりと雨上がり", "ななひら", 1],
+    [3, "とっておきの魔法", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5df0a6f6-a9c2-4818-9f5f-c2cac4182873", "https://www.dojin-music.info/cd/5656"]
 
@@ -1862,22 +1862,22 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6351"]
 
-[5f8818e8eb8e8fcd523433897340e451]
+[b83ef917434e1698fe23992f5dbb58ba]
 catalognumber = "CFCD-0004"
 date = "2013-08-12"
 album = "Free Pl@ying"
 tracks = [
-    [1, "脇役じゃ終わらない！", "ななひら", 0],
-    [2, "こたえなさいっ☆", "ななひら", 0],
-    [3, "七陸アクロバット！", "ななひら", 0],
-    [4, "あなたのコアにLove Shot！", "ななひら", 0],
-    [5, "cache cache", "ななひら", 0],
-    [6, "マジカルロジック", "ななひら", 0],
-    [7, "課金厨のうた -More Charin Ver.-", "ななひら", 0],
-    [8, "びっくりさせたらおこるよ！", "ななひら", 0],
-    [9, "PUPUPU'S pace", "ななひら", 0],
-    [10, "女流ハンターななひら奮闘記", "ななひら", 0],
-    [11, "Wake Walk Working!", "ななひら", 0],
+    [1, "脇役じゃ終わらない！", "ななひら", 1],
+    [2, "こたえなさいっ☆", "ななひら", 1],
+    [3, "七陸アクロバット！", "ななひら", 1],
+    [4, "あなたのコアにLove Shot！", "ななひら", 1],
+    [5, "cache cache", "ななひら", 1],
+    [6, "マジカルロジック", "ななひら", 1],
+    [7, "課金厨のうた -More Charin Ver.-", "ななひら", 1],
+    [8, "びっくりさせたらおこるよ！", "ななひら", 1],
+    [9, "PUPUPU'S pace", "ななひら", 1],
+    [10, "女流ハンターななひら奮闘記", "ななひら", 1],
+    [11, "Wake Walk Working!", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5684ec71-64f1-401d-96d2-44f16ccc3d01", "https://www.dojin-music.info/cd/5655"]
 
@@ -2002,61 +2002,61 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7908"]
 
-[f2f90cb70e306ec3372dacab17cc5d12]
+[58ed3e98b502b4a9ea5473c6cc1848fc]
 catalognumber = ""
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
 tracks = [
-    [1, "かくれんぼごっこ（/ω＼）", "桃箱 ななひら", 0],
-    [2, "Ping pong Girl's", "桃箱 ななひら", 0],
-    [3, "らびゅ！青春ロケット", "桃箱 ななひら", 0],
-    [4, "えんどれす☆冒険Day!", "桃箱 ななひら", 0],
-    [5, "ラブ♥ふぁくとりー", "桃箱 ななひら", 0],
-    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "桃箱 ななひら", 0],
+    [1, "かくれんぼごっこ（/ω＼）", "桃箱 ななひら", 1],
+    [2, "Ping pong Girl's", "桃箱 ななひら", 1],
+    [3, "らびゅ！青春ロケット", "桃箱 ななひら", 1],
+    [4, "えんどれす☆冒険Day!", "桃箱 ななひら", 1],
+    [5, "ラブ♥ふぁくとりー", "桃箱 ななひら", 1],
+    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "桃箱 ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5680"]
 
-[b61996e5cfb31185564e2a175a0fb170]
+[cbc505b22222d67e5b3d89ef64fe8dad]
 catalognumber = "M&N 002"
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
 tracks = [
-    [1, "かくれんぼごっこ（/ω＼）", "桃箱&ななひら", 0],
-    [2, "Ping pong Girl's", "桃箱&ななひら", 0],
-    [3, "らびゅ！青春ロケット", "桃箱&ななひら", 0],
-    [4, "えんどれす☆冒険Day!", "桃箱&ななひら", 0],
-    [5, "ラブ♥ふぁくとりー", "桃箱&ななひら", 0],
-    [6, "ワンダフル オブ ザ・ワールド - ticktack", "桃箱&ななひら", 0],
-    [7, "ある日のももなな（ボイスドラマ）", "桃箱&ななひら", 0],
-    [8, "ももななラジオ☆（ボイスドラマ）", "桃箱&ななひら", 0],
-    [9, "ごろごろにゃんこ（ボイスドラマ）", "桃箱&ななひら", 0],
-    [10, "３分間数えるだけ☆（ボイスドラマ？）", "桃箱&ななひら", 0],
-    [11, "ちっちゃいのっ！", "桃箱Xななひら", 0],
+    [1, "かくれんぼごっこ（/ω＼）", "桃箱&ななひら", 1],
+    [2, "Ping pong Girl's", "桃箱&ななひら", 1],
+    [3, "らびゅ！青春ロケット", "桃箱&ななひら", 1],
+    [4, "えんどれす☆冒険Day!", "桃箱&ななひら", 2],
+    [5, "ラブ♥ふぁくとりー", "桃箱&ななひら", 1],
+    [6, "ワンダフル オブ ザ・ワールド - ticktack", "桃箱&ななひら", 1],
+    [7, "ある日のももなな（ボイスドラマ）", "桃箱&ななひら", 1],
+    [8, "ももななラジオ☆（ボイスドラマ）", "桃箱&ななひら", 1],
+    [9, "ごろごろにゃんこ（ボイスドラマ）", "桃箱&ななひら", 1],
+    [10, "３分間数えるだけ☆（ボイスドラマ？）", "桃箱&ななひら", 1],
+    [11, "ちっちゃいのっ！", "桃箱Xななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d72e408-03f1-4bb3-9e17-1f15d411094d"]
 
-[13864b55abd9b6395d6a187c9ad10435]
+[95c6e9c181a23775e3bab37db6929579]
 catalognumber = "KTHT-0021"
 date = "2013-10-27"
 album = "プチリズム７♭"
 tracks = [
-    [1, "恋に恋してメリーゴーランド", "ななひら", 0],
-    [2, "sweet summer day", "ななひら", 0],
-    [3, "かるあみるく☆せんせーしょん 7th mix", "ななひら", 0],
-    [4, "絶対的！夢はSUPERアイドル", "ななひら", 0],
-    [5, "Love ＆ KiSS", "ななひら", 0],
-    [6, "Cookin'CookieS", "ななひら", 0],
-    [7, "わがままな子は好きですか", "ななひら", 0],
-    [8, "爆発！ラブパニック", "ななひら", 0],
-    [9, "きょう、あす、あさっぷ！", "ななひら", 0],
-    [10, "Ａ杯", "ななひら", 0],
-    [11, "萌えっと・めいど", "ななひら", 0],
-    [12, "オムライスのうた", "ななひら", 0],
-    [13, "ふっくらふわあまけーき", "ななひら", 0],
-    [14, "飛び出せ！Sweet Sweet Magic☆", "ななひら", 0],
-    [15, "Right Now!", "ななひら", 0],
-    [16, "月夜とたいやきと池の鯉", "ななひら", 0],
-    [17, "ナナプラス＋", "ななひら", 0],
+    [1, "恋に恋してメリーゴーランド", "ななひら", 1],
+    [2, "sweet summer day", "ななひら", 1],
+    [3, "かるあみるく☆せんせーしょん 7th mix", "ななひら", 1],
+    [4, "絶対的！夢はSUPERアイドル", "ななひら", 1],
+    [5, "Love ＆ KiSS", "ななひら", 1],
+    [6, "Cookin'CookieS", "ななひら", 2],
+    [7, "わがままな子は好きですか", "ななひら", 1],
+    [8, "爆発！ラブパニック", "ななひら", 1],
+    [9, "きょう、あす、あさっぷ！", "ななひら", 1],
+    [10, "Ａ杯", "ななひら", 1],
+    [11, "萌えっと・めいど", "ななひら", 1],
+    [12, "オムライスのうた", "ななひら", 1],
+    [13, "ふっくらふわあまけーき", "ななひら", 1],
+    [14, "飛び出せ！Sweet Sweet Magic☆", "ななひら", 1],
+    [15, "Right Now!", "ななひら", 1],
+    [16, "月夜とたいやきと池の鯉", "ななひら", 1],
+    [17, "ナナプラス＋", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ec89cc3a-55ad-4031-aa0f-ce89b2685ac9", "https://www.dojin-music.info/cd/5631"]
 
@@ -2136,15 +2136,15 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5748"]
 
-[281183214e03652d84b506d04c02b26d]
+[d82515612766345ada2428a23e5f3773]
 catalognumber = "CFCD-0005"
 date = "2013-12-31"
 album = "ときめき☆アンサンブル Vol.2"
 tracks = [
-    [1, "絶対不可侵領域 -アンコネクトフィールド-", "ななひら", 0],
-    [2, "来週から本気出しますの！", "ななひら", 0],
-    [3, "ゆんゆんコズミカ", "ななひら", 0],
-    [4, "merry melody", "ななひら", 0],
+    [1, "絶対不可侵領域 -アンコネクトフィールド-", "ななひら", 1],
+    [2, "来週から本気出しますの！", "ななひら", 1],
+    [3, "ゆんゆんコズミカ", "ななひら", 1],
+    [4, "merry melody", "ななひら", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/bc040494-8ecf-4395-83dc-80484a6809d9", "https://www.dojin-music.info/cd/5654"]
 
@@ -2164,13 +2164,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/14346"]
 
-[b01aa90de8ade389eb8c39de6545c1af]
+[5089cb67da84a595f34a75d04da076b7]
 catalognumber = ""
 date = "2013-12-31"
 album = "Voltage Ignition 2"
 tracks = [
     [1, "☆ -star-", "Yu_Asahina", 0],
-    [2, "エナジー*ドリン娘◎ふぇいんちゃん！", "ななひら", 0],
+    [2, "エナジー*ドリン娘◎ふぇいんちゃん！", "ななひら", 1],
     [3, "Euphoric Planet", "源屋", 0],
     [4, "can't stop feeling", "kamome sano", 0],
     [5, "Dazy Cutter (Megacycle Edit)", "MAD CHILD", 0],
@@ -2183,13 +2183,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12120"]
 
-[b044271e5e7f56c418c28da5d7c0371d]
+[697855daf98b4e2a95b863f8ea69fdef]
 catalognumber = ""
 date = "2013-12-31"
 album = "プチリズム∞"
 tracks = [
     [1, "不思議の国の３姉妹", "SHAKING PINK", 0],
-    [2, "ひみつの放課後アイドル", "ななひら", 0],
+    [2, "ひみつの放課後アイドル", "ななひら", 1],
     [3, "ドレミファソLOVEなきもち", "とろ美", 0],
     [4, "素敵なはにぃ・たいむ！", "ココ", 0],
     [5, "私の料理で世界はきっと幸せになる", "桃箱", 0],
@@ -2266,7 +2266,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24793"]
 
-[1065a991bb07c0f0fd0c0f7c4391e5ac]
+[454709c7b04bd13aede1c707d657eb41]
 catalognumber = ""
 date = "2014-04-24"
 album = "REMIXES VOL.4"
@@ -2276,7 +2276,7 @@ tracks = [
     [3, "Hypnotic (KO3 Remix)", "mippai", 0],
     [4, "Midnight Riders (mossari Remix)", "", 0],
     [5, "Dance Music (Srezcat Remix)", "A.Dokuga", 0],
-    [6, "Good Night (kamome sano remix)", "ななひら", 0],
+    [6, "Good Night (kamome sano remix)", "ななひら", 1],
     [7, "We Are The Future (Freezer Remix)", "", 0],
     [8, "Escapers (Nizikawa Remix)", "", 0],
     [9, "Break It Down (Gu-dara Remix)", "", 0],
@@ -2308,12 +2308,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/994ceeed-4c5b-42a6-be77-037a1c171822"]
 
-[d4afb0363be9710bd21f49f168899959]
+[0a893c20a1bad41bf5e0f1250de0feb6]
 catalognumber = ""
 date = "2014-04-26"
 album = "blank"
 tracks = [
-    [1, "ビバハピ", "un:c", 0],
+    [1, "ビバハピ", "un:c", 1],
     [2, "ファジィフューチャー", "ゆいこんぬ 鎖那", 0],
     [3, "吉原ラメント", "うらたぬき あほの坂田", 0],
     [4, "我楽多イノセンス", "りょーくん", 0],
@@ -2394,7 +2394,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4338"]
 
-[062105b6ada77bc7389f1cbcb038b8ab]
+[246c481c47f26a4fe4b7aa8a8b35320e]
 catalognumber = ""
 date = "2014-04-27"
 album = "ちびキュート！"
@@ -2633,26 +2633,26 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/16596"]
 
-[f79bf8a0da250c4ad97aa7573fc9f685]
+[db462c36dc13dce6b29d6ea2491bde48]
 catalognumber = "KCCD-001"
 date = "2014-08-17"
 album = "ばーさす！"
 tracks = [
-    [1, "めいら～だえもん☆だもん", "ななひら", 0],
-    [2, "びっくりさせたらおこるよ！", "ななひら", 0],
-    [3, "雹落", "ななひら", 0],
-    [4, "NEKO*CHEF", "ななひら", 0],
-    [5, "ませまてぃっく♥ま+ま=まじっく！", "ななひら", 0],
-    [6, "Jump Over!生物種 -Hang Over!PHQ remix-", "ななひら", 0],
-    [7, "Rainbow", "ななひら", 0],
-    [8, "ばーさす！", "ななひら", 0],
-    [9, "全日本お風呂化計画", "ななひら", 0],
-    [10, "気づいたら春夏秋冬", "ななひら", 0],
-    [11, "ませまてぃっく♥ま+ま=まじっく！(L×o÷n＝g♥V±e∽r!)", "ななひら", 0],
+    [1, "めいら～だえもん☆だもん", "ななひら", 1],
+    [2, "びっくりさせたらおこるよ！", "ななひら", 1],
+    [3, "雹落", "ななひら", 1],
+    [4, "NEKO*CHEF", "ななひら", 1],
+    [5, "ませまてぃっく♥ま+ま=まじっく！", "ななひら", 1],
+    [6, "Jump Over!生物種 -Hang Over!PHQ remix-", "ななひら", 1],
+    [7, "Rainbow", "ななひら", 1],
+    [8, "ばーさす！", "ななひら", 1],
+    [9, "全日本お風呂化計画", "ななひら", 1],
+    [10, "気づいたら春夏秋冬", "ななひら", 1],
+    [11, "ませまてぃっく♥ま+ま=まじっく！(L×o÷n＝g♥V±e∽r!)", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/70fc51e4-e9cb-45fe-a6ab-a40b5260f170", "https://www.dojin-music.info/cd/5670"]
 
-[3903e3d63accf268181faf805f91063a]
+[1b7d1dcc9a1f414ffe486a150b1ea55a]
 catalognumber = ""
 date = "2014-08-17"
 album = "Versus!"
@@ -2660,9 +2660,9 @@ tracks = [
     [1, "Mailer Daemon☆Damon", "かめりあ feat. ななひら", 0],
     [2, "Stop jumpscare or I'll get mad at you", "かめりあ feat. ななひら", 0],
     [3, "Hail-fall", "かめりあ feat. ななひら", 0],
-    [4, "NEKO*CHEF", "かめりあ feat. ななひら", 0],
+    [4, "NEKO*CHEF", "かめりあ feat. ななひら", 1],
     [5, "Jump Over! Biospecies -Hang Over!PHQ remix-", "かめりあ feat. ななひら", 0],
-    [6, "Rainbow", "かめりあ feat. ななひら", 0],
+    [6, "Rainbow", "かめりあ feat. ななひら", 1],
     [7, "Versus!", "かめりあ feat. ななひら", 0],
     [8, "All-Japan Spa-lization Project", "かめりあ feat. ななひら", 0],
     [9, "Season flies before I knew it", "かめりあ feat. ななひら", 0],
@@ -2701,24 +2701,24 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/11152"]
 
-[6414443df6d9db6d5dee280970850ab4]
+[2f974009bf65aa546621b0c5eb3cc653]
 catalognumber = "MGCD-002"
 date = "2014-09-24"
 album = "はるかぜポシェット"
 tracks = [
-    [1, "Introgical!", "ノワ・トランシュ starring ななひら", 0],
-    [2, "まじかるノワるん☆です×3っ！", "ノワ・トランシュ starring ななひら", 0],
-    [3, "マジカル☆ワナビー", "ノワ・トランシュ starring ななひら", 0],
-    [4, "魔導師労働基準法違反だぞ！ブラック・マジック・カンパニー", "ノワ・トランシュ starring ななひら feat. 小紺ココ", 0],
-    [5, "内気な少女のSecret Dream", "ノワ・トランシュ starring ななひら feat. ゆいこんぬ", 0],
-    [6, "おやすみトリップ！", "ノワ・トランシュ starring ななひら", 0],
-    [7, "不器用なオマジナイ", "ノワ・トランシュ starring ななひら", 0],
-    [8, "“Lie chi te la di hul” ～しあわせの魔法～", "ノワ・トランシュ starring ななひら feat. 鹿乃", 0],
-    [9, "Ha*Ru*No*No Pochette", "ノワ・トランシュ starring ななひら", 0],
+    [1, "Introgical!", "ノワ・トランシュ starring ななひら", 1],
+    [2, "まじかるノワるん☆です×3っ！", "ノワ・トランシュ starring ななひら", 1],
+    [3, "マジカル☆ワナビー", "ノワ・トランシュ starring ななひら", 1],
+    [4, "魔導師労働基準法違反だぞ！ブラック・マジック・カンパニー", "ノワ・トランシュ starring ななひら feat. 小紺ココ", 1],
+    [5, "内気な少女のSecret Dream", "ノワ・トランシュ starring ななひら feat. ゆいこんぬ", 1],
+    [6, "おやすみトリップ！", "ノワ・トランシュ starring ななひら", 1],
+    [7, "不器用なオマジナイ", "ノワ・トランシュ starring ななひら", 1],
+    [8, "“Lie chi te la di hul” ～しあわせの魔法～", "ノワ・トランシュ starring ななひら feat. 鹿乃", 1],
+    [9, "Ha*Ru*No*No Pochette", "ノワ・トランシュ starring ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6d49cdca-0be5-45b3-9e1c-37779ee97c19"]
 
-[6c27ef9efb1ed6a7f1c8172096e7dae1]
+[b2659f2af67abcb9fff08829588edfc7]
 catalognumber = ""
 date = "2014-10-26"
 album = "Lilium X1"
@@ -2735,11 +2735,11 @@ tracks = [
     [10, "Terror Notion", "Serji", 0],
     [11, "Griffin", "Gu-dara", 0],
     [12, "Hypnotic", "mippai", 0],
-    [13, "Good Night", "ななひら", 0],
+    [13, "Good Night", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/7268"]
 
-[89a6e81567ef01d5c02c213f2142fad6]
+[1ab9a1c6b57b03af89aa9fc9bae877b1]
 catalognumber = ""
 date = "2014-10-26"
 album = "BABY ROCK HEART"
@@ -2750,21 +2750,21 @@ tracks = [
     [4, "恋距離デイズ", "日向ももこ", 0],
     [5, "紅く幼い花", "池田奨", 0],
     [6, "あのねっ♥", "浅倉小春", 0],
-    [7, "ピョンコラJUMP!", "ななひら", 0],
+    [7, "ピョンコラJUMP!", "ななひら", 1],
     [8, "星降る夜に", "愛空アキハ", 0],
 ]
 links = ["https://www.dojin-music.info/cd/4607"]
 
-[140512525777f7ed436655c64d85db9d]
+[373b8f6eed1cde7551d8a1b5348663a9]
 catalognumber = "CFCD-0007"
 date = "2014-10-26"
 album = "KiraKira*Fräulein"
 tracks = [
-    [1, "キミ☆ココロジカル", "ななひら", 0],
-    [2, "トキメキ×オンナノコ宣言", "ななひら", 0],
-    [3, "チョコレートグラビティ", "ななひら", 0],
-    [4, "恋してマカロナージュ", "ななひら", 0],
-    [5, "comet-chaser", "ななひら", 0],
+    [1, "キミ☆ココロジカル", "ななひら", 1],
+    [2, "トキメキ×オンナノコ宣言", "ななひら", 1],
+    [3, "チョコレートグラビティ", "ななひら", 1],
+    [4, "恋してマカロナージュ", "ななひら", 1],
+    [5, "comet-chaser", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ee4cb263-8c87-43dc-b600-abac5931516d", "https://www.dojin-music.info/cd/5653"]
 
@@ -2905,14 +2905,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/13421"]
 
-[690d0c876abe76f839f4399b1fafd693]
+[c5256490d5f090dce8a5344a0162d0a2]
 catalognumber = ""
 date = "2014-12-30"
 album = "プチリズム。"
 tracks = [
     [1, "プチリズム デリバリー", "nayuta", 0],
     [2, "園児ぇりっく☆せんせーしょん", "ココ", 0],
-    [3, "Cutest☆Holiday Date", "ななひら", 0],
+    [3, "Cutest☆Holiday Date", "ななひら", 1],
     [4, "すき…ってゆうてや！", "なゆ", 0],
     [5, "Stand Up！ ぎゅっとUp！", "保科めぐみ", 0],
     [6, "グンマー☆ ザ ミラクル", "桃箱", 0],
@@ -2923,29 +2923,29 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5627"]
 
-[fc41983d85e65b792a38734734554013]
+[f8afeaacd3fc1c0f4097ebea65aa09b6]
 catalognumber = "CFCD-0008"
 date = "2014-12-30"
 album = "LOP STEP RABBITS!"
 tracks = [
-    [1, "ウサキック！", "ななひら", 0],
-    [2, "カフェモカしゅがー", "ななひら", 0],
-    [3, "君の声は", "ななひら", 0],
-    [4, "うにゃうにゃ＊ぱっぱ", "ななひら", 0],
-    [5, "そろばん♡De♥ビッグバン", "ココ ななひら", 0],
+    [1, "ウサキック！", "ななひら", 1],
+    [2, "カフェモカしゅがー", "ななひら", 1],
+    [3, "君の声は", "ななひら", 1],
+    [4, "うにゃうにゃ＊ぱっぱ", "ななひら", 1],
+    [5, "そろばん♡De♥ビッグバン", "ココ ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96b6f977-25f7-478b-b85d-604ce19426ba", "https://www.dojin-music.info/cd/5669"]
 
-[43f17a034d0a7deb6abd82aa6f5d147a]
+[5c753a81df353eff6265c9d84f618466]
 catalognumber = ""
 date = "2014-12-30"
 album = "LOP STEP RABBITS!"
 tracks = [
-    [1, "ウサキック!", "かめりあ & ななひら", 0],
-    [2, "カフェモカしゅがー", "かめりあ & ななひら", 0],
-    [3, "君の声は", "かめりあ & ななひら", 0],
-    [4, "うにゃうにゃ*ぱっぱ", "かめりあ & ななひら", 0],
-    [5, "そろばん De ビッグバン", "かめりあ, ななひら & 小紺ココ", 0],
+    [1, "ウサキック!", "かめりあ & ななひら", 1],
+    [2, "カフェモカしゅがー", "かめりあ & ななひら", 1],
+    [3, "君の声は", "かめりあ & ななひら", 1],
+    [4, "うにゃうにゃ*ぱっぱ", "かめりあ & ななひら", 1],
+    [5, "そろばん De ビッグバン", "かめりあ, ななひら & 小紺ココ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6757a142-c582-46ae-b02e-388fb2262f84"]
 
@@ -2988,7 +2988,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5626"]
 
-[b637d8634416e799f9eac171600bafc6]
+[3ec3ff5d4b22a80112e313d922dffc7e]
 catalognumber = ""
 date = "2015-04-26"
 album = "らぶちゅ！２"
@@ -2997,7 +2997,7 @@ tracks = [
     [2, "やっちゃえ！C:ドライブ", "ココ ななひら", 0],
     [3, "ハートエンベロープ", "ココ ななひら", 0],
     [4, "どんどん！！どどーん！！", "yohine", 0],
-    [5, "あめふり天気をGET AWAY!", "ココ ななひら", 0],
+    [5, "あめふり天気をGET AWAY!", "ココ ななひら", 1],
     [6, "ぎゅっとしてシンパシー", "ココ ななひら", 0],
     [7, "戦え我らがふたりはらぶちゅ!", "ココ ななひら", 0],
 ]
@@ -3037,17 +3037,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7828ac6d-73b0-4991-9b5b-71cfb0b57c40"]
 
-[303c752e9fa7bc75ee4b237ec756f19e]
+[dd7780d5cf58677258a72ae3a137fd56]
 catalognumber = ""
 date = "2015-04-26"
 album = "KISS THE COMET EP"
 tracks = [
     [1, "Kiss The Comet feat. なゆ", "なゆ", 0],
-    [2, "Good Night feat. ななひら (Radio Edit)", "ななひら", 0],
+    [2, "Good Night feat. ななひら (Radio Edit)", "ななひら", 1],
     [3, "Starbow", "colate", 0],
     [4, "Melancholy Latte", "colate", 0],
     [5, "EDM Sex Machine", "colate", 0],
-    [6, "Good Night (Kaname Shigeyoshi Remix)", "colate", 0],
+    [6, "Good Night (Kaname Shigeyoshi Remix)", "colate", 1],
     [7, "Kiss The Comet (kamome sano remix)", "colate", 0],
 ]
 links = ["https://www.dojin-music.info/cd/5735"]
@@ -3066,7 +3066,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4618"]
 
-[923f93409731c753ac06f63b01a66e32]
+[15e3079ca31d8a8f6b789992152b6779]
 catalognumber = "KN-02"
 date = "2015-04-26"
 album = "らぶちゅ!2"
@@ -3075,7 +3075,7 @@ tracks = [
     [2, "やっちゃえ!C:ドライブ", "ココ&ななひら", 0],
     [3, "ハートエンベロープ", "ココ&ななひら", 0],
     [4, "どんどん！！どどーん！！", "ココ&ななひら", 0],
-    [5, "あめふり天気をGET AWAY!", "ココ&ななひら", 0],
+    [5, "あめふり天気をGET AWAY!", "ココ&ななひら", 1],
     [6, "ぎゅっとしてシンパシー", "ココ&ななひら", 0],
     [7, "戦え我らがふたりはらぶちゅ!", "ココ&ななひら", 0],
 ]
@@ -3157,34 +3157,34 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/16113"]
 
-[9a87f91cbdffe7e979282959f2f0acc1]
+[a128b4facc279251ba2b5e9c35ca9562]
 catalognumber = "KCCD-003"
 date = "2015-08-14"
 album = "りぷれい！"
 tracks = [
-    [1, "世界征服！ちょうこうしゅつりょくでんぱそうしんきちきょく", "ななひら", 0],
-    [2, "Pink Panik!!", "ななひら", 0],
-    [3, "おさんぽ♥らう゛", "ななひら", 0],
-    [4, "恋感♥キミイロDelight!", "ななひら", 0],
-    [5, "灼熱 キャンドルマスター ともしぃ", "ななひら", 0],
-    [6, "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi ＆ Peace\"", "ななひら", 0],
-    [7, "月燈籠", "ななひら", 0],
-    [8, "シャッタースピード", "ななひら", 0],
-    [9, "さいきょう虫歯工事師 掘削Chu☆", "ななひら", 0],
-    [10, "エナジー*ドリン子◎ふぇいんちゃん！", "ななひら", 0],
-    [11, "りぷれい！", "ななひら", 0],
-    [12, "NEKO*CHEF -NEKO*CHIP PHQ remix-", "ななひら", 0],
-    [13, "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi ＆ Peace\" (Very Very Long Hosomaki Zushi Ver.)", "ななひら", 0],
+    [1, "世界征服！ちょうこうしゅつりょくでんぱそうしんきちきょく", "ななひら", 1],
+    [2, "Pink Panik!!", "ななひら", 1],
+    [3, "おさんぽ♥らう゛", "ななひら", 1],
+    [4, "恋感♥キミイロDelight!", "ななひら", 1],
+    [5, "灼熱 キャンドルマスター ともしぃ", "ななひら", 1],
+    [6, "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi ＆ Peace\"", "ななひら", 1],
+    [7, "月燈籠", "ななひら", 1],
+    [8, "シャッタースピード", "ななひら", 1],
+    [9, "さいきょう虫歯工事師 掘削Chu☆", "ななひら", 1],
+    [10, "エナジー*ドリン子◎ふぇいんちゃん！", "ななひら", 1],
+    [11, "りぷれい！", "ななひら", 1],
+    [12, "NEKO*CHEF -NEKO*CHIP PHQ remix-", "ななひら", 1],
+    [13, "コンベア速度 Max!? しゃいにん☆廻転ズシ\"Sushi ＆ Peace\" (Very Very Long Hosomaki Zushi Ver.)", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ffbe70ad-44c1-4c16-96e7-3a1bb8c17ffc", "https://www.dojin-music.info/cd/5668"]
 
-[46bb69f850eb6ed0736efa6e46e1391b]
+[27881699faac5fdaf3716303c4d36a89]
 catalognumber = ""
 date = "2015-08-16"
 album = "SPLASH!!"
 tracks = [
     [1, "intro", "Massive New Krew", 0],
-    [2, "えくすとりーむ↑↑おんがくスクールft.ななひら", "ななひら", 0],
+    [2, "えくすとりーむ↑↑おんがくスクールft.ななひら", "ななひら", 1],
     [3, ".World of Law ft.JAVELIN", "JAVELIN", 0],
     [4, "Open Sky ft.Yukacco", "yukacco", 0],
     [5, "Raindrops ft.Shully", "shully", 0],
@@ -3213,7 +3213,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5625"]
 
-[0147827ed207a4302da49567f7fb6170]
+[e1f4f6bb66e608891464533f03f0ecc8]
 catalognumber = ""
 date = "2015-08-16"
 album = "Crevasse Lamp on O Strings 2010-2014"
@@ -3228,27 +3228,27 @@ tracks = [
     [8, "birth", "あこ", 0],
     [9, "crescent light", "弟の姉", 0],
     [10, "particle cannon", "みーや", 0],
-    [11, "七陸アクロバット！", "ななひら", 0],
+    [11, "七陸アクロバット！", "ななひら", 1],
     [12, "謳歌者たちの足跡", "中恵光城", 0],
     [13, "Icicle Heart", "あこ", 0],
 ]
 links = ["https://www.dojin-music.info/cd/11147"]
 
-[c240d0d1475b4f2d077fb7f0ef37d30d]
+[3415b7708b5f79312c9625235fb2f8fd]
 catalognumber = "CFCD-0009"
 date = "2015-08-16"
 album = "Colory Starry"
 tracks = [
-    [1, "命懸け！ななひら市長のどきどき☆マニフェスト", "ななひら", 0],
-    [2, "磨け！女子りょく", "ななひら", 0],
-    [3, "おねがい！らぶまじっく☆", "ななひら", 0],
-    [4, "デートプラン", "ななひら", 0],
-    [5, "Fly Away!", "ななひら", 0],
-    [6, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 0],
-    [7, "Ange du Blanc Pur", "ななひら", 0],
-    [8, "ラリリレル、リリロ、リラロ", "ななひら", 0],
-    [9, "LOVE!1/8スケール", "ななひら", 0],
-    [10, "ほしにねがいを", "ななひら", 0],
+    [1, "命懸け！ななひら市長のどきどき☆マニフェスト", "ななひら", 1],
+    [2, "磨け！女子りょく", "ななひら", 1],
+    [3, "おねがい！らぶまじっく☆", "ななひら", 1],
+    [4, "デートプラン", "ななひら", 1],
+    [5, "Fly Away!", "ななひら", 1],
+    [6, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 1],
+    [7, "Ange du Blanc Pur", "ななひら", 1],
+    [8, "ラリリレル、リリロ、リラロ", "ななひら", 1],
+    [9, "LOVE!1/8スケール", "ななひら", 1],
+    [10, "ほしにねがいを", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d235a66d-c0ec-44b2-ac0e-689163e80633", "https://www.dojin-music.info/cd/5652"]
 
@@ -3289,42 +3289,42 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5749"]
 
-[fc1cb8f6a27d535cf25f77ea5e36d354]
+[9a71fad155d6e5a376f29c27e5933f0e]
 catalognumber = "QWCE-00500"
 date = "2015-10-07"
 album = "Meltical sugar wave"
 tracks = [
-    [1, "カタルシス⇒くらいしす 〜大人はこどもの5倍でさけべ〜", "ななひら", 0],
-    [2, "ヤサイマシ☆ニンニクアブラオオメ (大豚Wver.)", "ななひら", 0],
-    [3, "全日本お風呂化計画", "かめりあ feat. ななひら", 0],
-    [4, "上京娘", "ななひら", 0],
-    [5, "雹落", "かめりあ feat. ななひら", 0],
-    [6, "ベィスドロップ・フリークス (Long Ver.)", "ななひら", 0],
-    [7, "ビバハピ", "ななひら × Mitchie M", 0],
-    [8, "うにゃうにゃ*ぱっぱ", "かめりあ feat. ななひら", 0],
-    [9, "しましま☆パンク", "ななひら", 0],
-    [10, "超!!遠距離らぶ♡メ〜ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)", "ななひら", 0],
-    [11, "ポラリス", "ななひら", 0],
-    [12, "チョコレートグラビティ", "ななひら", 0],
-    [13, "W嫁♥はっぴーうぇでぃんぐ", "ななひら×Prim", 0],
+    [1, "カタルシス⇒くらいしす 〜大人はこどもの5倍でさけべ〜", "ななひら", 1],
+    [2, "ヤサイマシ☆ニンニクアブラオオメ (大豚Wver.)", "ななひら", 1],
+    [3, "全日本お風呂化計画", "かめりあ feat. ななひら", 1],
+    [4, "上京娘", "ななひら", 1],
+    [5, "雹落", "かめりあ feat. ななひら", 1],
+    [6, "ベィスドロップ・フリークス (Long Ver.)", "ななひら", 1],
+    [7, "ビバハピ", "ななひら × Mitchie M", 1],
+    [8, "うにゃうにゃ*ぱっぱ", "かめりあ feat. ななひら", 1],
+    [9, "しましま☆パンク", "ななひら", 1],
+    [10, "超!!遠距離らぶ♡メ〜ル (かめりあ's 乙女TECHDANCE×火星TECHSAMBA REMIX)", "ななひら", 1],
+    [11, "ポラリス", "ななひら", 1],
+    [12, "チョコレートグラビティ", "ななひら", 1],
+    [13, "W嫁♥はっぴーうぇでぃんぐ", "ななひら×Prim", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1c9e9512-eb70-4803-8015-7811bd4d4881"]
 
-[96d46fcb5dba497b239f32a053b00e70]
+[b6af918853870cb7a1e098525f99cdcf]
 catalognumber = "QWCE-00500"
 date = "2015-10-14"
 album = "Meltical sugar wave"
 tracks = [
-    [1, "カタルシス⇒くらいしす 〜大人はこどもの5倍でさけべ〜", "ななひら", 0],
-    [2, "全日本お風呂化計画", "かめりあ feat. ななひら", 0],
-    [3, "上京娘", "ななひら", 0],
-    [4, "雹落", "かめりあ feat. ななひら", 0],
-    [5, "ビバハピ", "ななひら × Mitchie M", 0],
-    [6, "うにゃうにゃ*ぱっぱ", "かめりあ feat. ななひら", 0],
-    [7, "しましま☆パンク", "ななひら", 0],
-    [8, "ポラリス", "ななひら", 0],
-    [9, "チョコレートグラビティ", "ななひら", 0],
-    [10, "W嫁♥はっぴーうぇでぃんぐ", "ななひら×Prim", 0],
+    [1, "カタルシス⇒くらいしす 〜大人はこどもの5倍でさけべ〜", "ななひら", 1],
+    [2, "全日本お風呂化計画", "かめりあ feat. ななひら", 1],
+    [3, "上京娘", "ななひら", 1],
+    [4, "雹落", "かめりあ feat. ななひら", 1],
+    [5, "ビバハピ", "ななひら × Mitchie M", 1],
+    [6, "うにゃうにゃ*ぱっぱ", "かめりあ feat. ななひら", 1],
+    [7, "しましま☆パンク", "ななひら", 1],
+    [8, "ポラリス", "ななひら", 1],
+    [9, "チョコレートグラビティ", "ななひら", 1],
+    [10, "W嫁♥はっぴーうぇでぃんぐ", "ななひら×Prim", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/daa893f0-744b-4c90-9927-1ba994e698aa"]
 
@@ -3491,25 +3491,25 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/16110"]
 
-[f3ef674bd1e83f6db2c05d511dc95a6f]
+[0708025e7d8e2c45e9bf3299b6c71472]
 catalognumber = ""
 date = "2015-12-31"
 album = "PRISM"
 tracks = [
-    [1, "とっておきの魔法", "ななひら", 0],
+    [1, "とっておきの魔法", "ななひら", 1],
     [2, "弱虫プリンセス", "miko（藤咲かりん）", 0],
-    [3, "シキンキョリ♥Lover", "ななひら", 0],
+    [3, "シキンキョリ♥Lover", "ななひら", 1],
     [4, "ふぁーすと♥ラブ", "茶太", 0],
     [5, "素敵なはにぃ・たいむ！", "ココ", 0],
     [6, "ねぇ誓って！お姫様だけって♥", "大瀬良あい", 0],
     [7, "フライングキャッチャー", "仲村芽衣子", 0],
-    [8, "世界でイチバン！", "ななひら ひなうさ", 0],
+    [8, "世界でイチバン！", "ななひら ひなうさ", 1],
     [9, "MiRai SKetch", "仲村芽衣子", 0],
     [10, "君への想い", "ひなうさ", 0],
     [11, "1st Kiss", "まめこ", 0],
     [12, "merry-melody", "ななひら りこ。", 0],
     [13, "Cherry Stars", "まめこ", 0],
-    [14, "課金厨のうた -More Charin Ver.-", "ななひら", 0],
+    [14, "課金厨のうた -More Charin Ver.-", "ななひら", 1],
     [15, "ストロベリィ★イグニッション(Special Version)", "SHAKING PINK", 0],
     [16, "どんな逆境でも女の子は決して諦めないことを 今ここに改めて宣言してみた。", "なゆ", 0],
     [17, "冬のキセキ", "miko（藤咲かりん）", 0],
@@ -3517,13 +3517,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5739"]
 
-[9e531c99044991537b21b75bb43ea67c]
+[e296e482649ce2d566c64504b67df458]
 catalognumber = ""
 date = "2015-12-31"
 album = "Ponko2 Girlish"
 tracks = [
     [1, "Intro - Wanna be Girlish", "t+pazolite", 0],
-    [2, "Ponko2 Girlish (feat.ななひら)", "ななひら", 0],
+    [2, "Ponko2 Girlish (feat.ななひら)", "ななひら", 1],
     [3, "Joyful Prize", "t+pazolite", 0],
     [4, "Illuminated Star", "t+pazolite", 0],
     [5, "Oshama Scramble! (uncut edition)", "t+pazolite", 0],
@@ -3546,20 +3546,20 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12122"]
 
-[3d1c0c7df145b19dec0831ec8ebbb3ed]
+[a3472f400c6c2d45040ebcb4c16e38a1]
 catalognumber = "CFCD-0010"
 date = "2015-12-31"
 album = "Candy time"
 tracks = [
-    [1, "恋のサインをタンジェント", "ちな ななひら", 0],
-    [2, "ななななもーもー", "mow*2 ななひら", 0],
-    [3, "ふたりぼっち最強説", "鹿乃 ななひら", 0],
-    [4, "。゜.+きらめき+.゜。 Rainbow Snow", "nayuta ななひら", 0],
-    [5, "小鳥のパルクール", "yukacco ななひら", 0],
-    [6, "最速ダウンヒル：ROUTE=＞77", "高橋菜々 ななひら", 0],
-    [7, "ただいま必死の鬼ごっこなう", "まめこ ななひら", 0],
-    [8, "ハートのチラリズム", "NU-KO ななひら", 0],
-    [9, "キラキラhappy lie", "なゆ ゆきまめ ななひら", 0],
+    [1, "恋のサインをタンジェント", "ちな ななひら", 1],
+    [2, "ななななもーもー", "mow*2 ななひら", 1],
+    [3, "ふたりぼっち最強説", "鹿乃 ななひら", 1],
+    [4, "。゜.+きらめき+.゜。 Rainbow Snow", "nayuta ななひら", 1],
+    [5, "小鳥のパルクール", "yukacco ななひら", 1],
+    [6, "最速ダウンヒル：ROUTE=＞77", "高橋菜々 ななひら", 1],
+    [7, "ただいま必死の鬼ごっこなう", "まめこ ななひら", 1],
+    [8, "ハートのチラリズム", "NU-KO ななひら", 1],
+    [9, "キラキラhappy lie", "なゆ ゆきまめ ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8bed8a49-e8aa-4fd0-a919-b67e5abc582a", "https://www.dojin-music.info/cd/5651"]
 
@@ -3579,12 +3579,12 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5709"]
 
-[3bfdc7aec86077cd2e8ecfdc6a60e2d4]
+[ba69dba448ad57166988c50161682ded]
 catalognumber = ""
 date = "2015-12-31"
 album = "Candy Speed Pops"
 tracks = [
-    [1, "Cross The Finish Line [feat. ななひら]", "ななひら", 0],
+    [1, "Cross The Finish Line [feat. ななひら]", "ななひら", 1],
     [2, "Transceiver FX", "Kobaryo", 0],
     [3, "Cartoon Candy", "Kobaryo", 0],
     [4, "Dotabata Animation [feat. t+pazolite]", "Kobaryo t+pazolite", 0],
@@ -3602,7 +3602,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/14802"]
 
-[90f49b8c319a1037842fba3c26ea21d8]
+[532d31cd1cf35102c6760c5b6b09262b]
 catalognumber = ""
 date = "2015-12-31"
 album = "ピコロニーノーツ２"
@@ -3619,21 +3619,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5624"]
 
-[ac3de4f0e62cf325440f51f41042331a]
+[4dad2a51e747d212a0e963e8dc5d44da]
 catalognumber = ""
 date = "2016"
 album = "Secretale"
 tracks = [
-    [1, "必勝！わたしのお料理レシピ", "ななひら", 0],
-    [2, "海風エキュモーション", "ななひら", 0],
-    [3, "little mice's cafe", "ななひら", 0],
-    [4, "夜空のつむぎ", "ななひら", 0],
-    [5, "喋蝶結び", "ななひら", 0],
-    [6, "Petals", "ななひら", 0],
-    [7, "piece of cake", "ななひら", 0],
-    [8, "よくばりトゥレジュール", "ななひら", 0],
-    [9, "pommesoir", "ななひら", 0],
-    [10, "Hey, my dear!!", "ななひら", 0],
+    [1, "必勝！わたしのお料理レシピ", "ななひら", 1],
+    [2, "海風エキュモーション", "ななひら", 1],
+    [3, "little mice's cafe", "ななひら", 1],
+    [4, "夜空のつむぎ", "ななひら", 1],
+    [5, "喋蝶結び", "ななひら", 1],
+    [6, "Petals", "ななひら", 1],
+    [7, "piece of cake", "ななひら", 1],
+    [8, "よくばりトゥレジュール", "ななひら", 1],
+    [9, "pommesoir", "ななひら", 1],
+    [10, "Hey, my dear!!", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/31343246-3169-42a0-b1c6-a95b37b493c3"]
 
@@ -3651,22 +3651,22 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12194"]
 
-[68de15c0289bbb1e861e1540f57ff684]
+[fdfc3bfbfd11776ca436d47fdbcb2f68]
 catalognumber = ""
 date = "2016-04-17"
 album = "りぷれい!"
 tracks = [
-    [1, "世界征服!ちょうこうしゅつりょくでんぱそうしんきちきょく", "かめりあ feat. ななひら", 0],
-    [2, "Pink Panik!!", "かめりあ feat. ななひら", 0],
-    [3, "おさんぽ♥らう゛", "かめりあ feat. ななひら", 0],
-    [4, "恋感♥キミイロDelight!", "かめりあ&DJ Genki feat. ななひら", 0],
+    [1, "世界征服!ちょうこうしゅつりょくでんぱそうしんきちきょく", "かめりあ feat. ななひら", 1],
+    [2, "Pink Panik!!", "かめりあ feat. ななひら", 1],
+    [3, "おさんぽ♥らう゛", "かめりあ feat. ななひら", 1],
+    [4, "恋感♥キミイロDelight!", "かめりあ&DJ Genki feat. ななひら", 1],
     [5, "灼熱🔥キャンドルマスター🔥ともしぃ", "かめりあ feat. ななひら", 0],
-    [6, "月燈籠", "かめりあ feat. ななひら", 0],
-    [7, "シャッタースピード", "かめりあ feat. ななひら", 0],
-    [8, "さいきょう虫歯工事師 掘削Chu☆", "かめりあ feat. ななひら", 0],
-    [9, "エナジー*ドリン娘◎ふぇいんちゃん!", "かめりあ feat. ななひら", 0],
-    [10, "りぷれい!", "かめりあ feat. ななひら", 0],
-    [11, "NEKO*CHEF -NEKO*CHIP PHQ remix-", "かめりあ&PHQUASE feat. ななひら", 0],
+    [6, "月燈籠", "かめりあ feat. ななひら", 1],
+    [7, "シャッタースピード", "かめりあ feat. ななひら", 1],
+    [8, "さいきょう虫歯工事師 掘削Chu☆", "かめりあ feat. ななひら", 1],
+    [9, "エナジー*ドリン娘◎ふぇいんちゃん!", "かめりあ feat. ななひら", 1],
+    [10, "りぷれい!", "かめりあ feat. ななひら", 1],
+    [11, "NEKO*CHEF -NEKO*CHIP PHQ remix-", "かめりあ&PHQUASE feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/11a2c251-3e36-4afe-85d8-354dfe681c5c"]
 
@@ -3682,30 +3682,30 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7261"]
 
-[906da0c848e016cb66af5701f8dd8e42]
+[d50ac2e51a363e983a63846c7776091d]
 catalognumber = ""
 date = "2016-04-24"
 album = "Colory Starry"
 tracks = [
-    [1, "命懸け!ななひら市長のどきどき☆マニフェスト", "ななひら", 0],
-    [2, "磨け!女子りょく", "ななひら", 0],
-    [3, "おねがい!らぶまじっく☆", "ななひら", 0],
-    [4, "デートプラン", "ななひら", 0],
-    [5, "Fly Away!", "ななひら", 0],
-    [6, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 0],
-    [7, "Ange du Blanc Pur", "ななひら", 0],
-    [8, "ラリリレル、リリロ、リラロ", "ななひら", 0],
-    [9, "LOVE!1/8スケール", "ななひら", 0],
-    [10, "ほしにねがいを", "ななひら", 0],
+    [1, "命懸け!ななひら市長のどきどき☆マニフェスト", "ななひら", 1],
+    [2, "磨け!女子りょく", "ななひら", 1],
+    [3, "おねがい!らぶまじっく☆", "ななひら", 1],
+    [4, "デートプラン", "ななひら", 1],
+    [5, "Fly Away!", "ななひら", 1],
+    [6, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 1],
+    [7, "Ange du Blanc Pur", "ななひら", 1],
+    [8, "ラリリレル、リリロ、リラロ", "ななひら", 1],
+    [9, "LOVE!1/8スケール", "ななひら", 1],
+    [10, "ほしにねがいを", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4704a300-6a0d-4af6-95b8-dff843b6ad42"]
 
-[cde9c2cd49a6416b57533387a6c75140]
+[587f6a78f2db86256231a67653c29ca7]
 catalognumber = ""
 date = "2016-04-24"
 album = "ハレのちマカロン"
 tracks = [
-    [1, "ロリ神様は突然に。", "ななひら", 0],
+    [1, "ロリ神様は突然に。", "ななひら", 1],
     [2, "Hide and Seek (Version Aya Mix)", "彩", 0],
     [3, "ギリギリコミュニケーション", "りこ。 日向ももこ", 0],
     [4, "Sugae×Sugae＝ふわり", "ちな", 0],
@@ -3749,19 +3749,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12949"]
 
-[a7aa62921ac4ec9797fa596fc58194eb]
+[bf3225cdaef4f019b7b30ca7b58f4448]
 catalognumber = "CFCD-0011"
 date = "2016-04-24"
 album = "La La Fav!"
 tracks = [
-    [1, "花ハ踊レヤいろはにほ", "ななひら", 0],
-    [2, "Little Busters!", "ななひら", 0],
-    [3, "空耳ケーキ", "ななひら", 0],
-    [4, "Sparkling Daydream", "ななひら", 0],
-    [5, "プラチナ", "ななひら", 0],
-    [6, "S・O・S", "ななひら", 0],
-    [7, "all the way", "ななひら", 0],
-    [8, "はっぴぃ にゅう にゃあ", "ななひら ココ 桃箱", 0],
+    [1, "花ハ踊レヤいろはにほ", "ななひら", 1],
+    [2, "Little Busters!", "ななひら", 1],
+    [3, "空耳ケーキ", "ななひら", 1],
+    [4, "Sparkling Daydream", "ななひら", 1],
+    [5, "プラチナ", "ななひら", 1],
+    [6, "S・O・S", "ななひら", 1],
+    [7, "all the way", "ななひら", 1],
+    [8, "はっぴぃ にゅう にゃあ", "ななひら ココ 桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/de3bc4a9-2cb5-49a4-a7c4-8637a5d42b16", "https://www.dojin-music.info/cd/5650"]
 
@@ -3776,28 +3776,28 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4445"]
 
-[7a649f631f0f9142b33b567e265d8aeb]
+[a4770fe2d4d765a82426d69fdc5e9e22]
 catalognumber = ""
 date = "2016-04-24"
 album = "Who is the predator?"
 tracks = [
     [1, "Necromancer", "", 0],
     [2, "悠久のフロンティア", "", 0],
-    [3, "ニーナへ。", "ななひら", 0],
+    [3, "ニーナへ。", "ななひら", 1],
     [4, "Guillotine the Pop Star", "", 0],
     [5, "Who is the predator?", "", 0],
-    [6, "ニーナへ。(仮歌Ver)", "", 0],
+    [6, "ニーナへ。(仮歌Ver)", "", 1],
 ]
 links = ["https://www.dojin-music.info/cd/21535"]
 
-[3503fad84a98cfd662612f000e7e3f4f]
+[5f0c2889b335b9b1b2b00bac1cbcfcb8]
 catalognumber = ""
 date = "2016-04-24"
 album = "BEEPいんぱくと！"
 tracks = [
     [1, "ファントムトラベラー", "かたほとり", 0],
     [2, "無限1UPがとまらない", "桃箱", 0],
-    [3, "あなたのコアにLove Shot!", "ななひら", 0],
+    [3, "あなたのコアにLove Shot!", "ななひら", 1],
     [4, "DOOR AND DOOR", "かたほとり", 0],
     [5, "働いて勇者おにいちゃん", "すずしろ がきコ", 0],
     [6, "NEVER END", "かたほとり", 0],
@@ -3924,35 +3924,35 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/21032"]
 
-[3df3bd635dc18372310b06f43c0ef9b9]
+[e9bd0c5f3aebdb1529fff8786077ce1e]
 catalognumber = ""
 date = "2016-06-17"
 album = "KEMOLOVE♥"
 tracks = [
-    [1, "JumpOver!生物種", "かめりあ feat. ななひら", 0],
-    [2, "恋してわんだふる！", "華飯 feat. ななひら", 0],
-    [3, "パパパパパンダ", "雪月ありす feat. ななひら", 0],
-    [4, "♀人とウサギのラビリンス♀", "吉田省吾 feat. ななひら, ココ", 0],
-    [5, "肉食系彼女", "かたほとり feat. ななひら", 0],
+    [1, "JumpOver!生物種", "かめりあ feat. ななひら", 1],
+    [2, "恋してわんだふる！", "華飯 feat. ななひら", 1],
+    [3, "パパパパパンダ", "雪月ありす feat. ななひら", 1],
+    [4, "♀人とウサギのラビリンス♀", "吉田省吾 feat. ななひら, ココ", 1],
+    [5, "肉食系彼女", "かたほとり feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/046cedf9-1648-4d4d-a752-ca581ca90425"]
 
-[d5a65fbfe92b4671b4b4592a352a3010]
+[e81fa1dafe0775160bc2badcf9236ed9]
 catalognumber = ""
 date = "2016-06-17"
 album = "Free Pl@ying"
 tracks = [
-    [1, "脇役じゃ終わらない！", "ななひら", 0],
-    [2, "こたえなさいっ☆", "ななひら", 0],
-    [3, "七陸アクロバット！", "ななひら", 0],
-    [4, "あなたのコアにLove Shot！", "ポヤッチオ feat. ななひら", 0],
-    [5, "cache cache", "ななひら", 0],
-    [6, "マジカルロジック", "ななひら", 0],
-    [7, "課金厨のうた -More Charin Ver.-", "ななひら", 0],
-    [8, "びっくりさせたらおこるよ！", "ななひら", 0],
-    [9, "PUPUPU'S pace", "ななひら", 0],
-    [10, "女流ハンターななひら奮闘記", "ななひら", 0],
-    [11, "Wake Walk Working!", "ななひら", 0],
+    [1, "脇役じゃ終わらない！", "ななひら", 1],
+    [2, "こたえなさいっ☆", "ななひら", 1],
+    [3, "七陸アクロバット！", "ななひら", 1],
+    [4, "あなたのコアにLove Shot！", "ポヤッチオ feat. ななひら", 1],
+    [5, "cache cache", "ななひら", 1],
+    [6, "マジカルロジック", "ななひら", 1],
+    [7, "課金厨のうた -More Charin Ver.-", "ななひら", 1],
+    [8, "びっくりさせたらおこるよ！", "ななひら", 1],
+    [9, "PUPUPU'S pace", "ななひら", 1],
+    [10, "女流ハンターななひら奮闘記", "ななひら", 1],
+    [11, "Wake Walk Working!", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2ed39589-e4ed-410b-adb3-095b008394dd"]
 
@@ -4032,42 +4032,42 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5622"]
 
-[cc90ec618104c0ba884275fd8735e788]
+[9c6775da8c6defad472302278ab52ee1]
 catalognumber = "KCCD-004"
 date = "2016-08-14"
 album = "すりーぷ！"
 tracks = [
-    [1, "人工知能：あるふぁ～★GO！！", "ななひら", 0],
-    [2, "アニマルらんど", "ななひら", 0],
-    [3, "Honey♥Trap", "ななひら", 0],
-    [4, "君の声は", "ななひら", 0],
-    [5, "迯避論", "ななひら", 0],
-    [6, "すりーぷ！", "ななひら", 0],
-    [7, "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)", "ななひら", 0],
-    [8, "文字コードをかけめぐれ！", "ななひら", 0],
-    [9, "Looking For A New Adventure", "ななひら", 0],
-    [10, "FLYING OUT TO THE SKY", "ななひら moimoi Nana Takahashi", 0],
-    [11, "シャッタースピード -Upper Speed PHQ remix-", "ななひら", 0],
-    [12, "Rainbow (P*Light Remix)", "ななひら", 0],
+    [1, "人工知能：あるふぁ～★GO！！", "ななひら", 1],
+    [2, "アニマルらんど", "ななひら", 1],
+    [3, "Honey♥Trap", "ななひら", 1],
+    [4, "君の声は", "ななひら", 1],
+    [5, "迯避論", "ななひら", 1],
+    [6, "すりーぷ！", "ななひら", 1],
+    [7, "ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)", "ななひら", 1],
+    [8, "文字コードをかけめぐれ！", "ななひら", 1],
+    [9, "Looking For A New Adventure", "ななひら", 1],
+    [10, "FLYING OUT TO THE SKY", "ななひら moimoi Nana Takahashi", 1],
+    [11, "シャッタースピード -Upper Speed PHQ remix-", "ななひら", 1],
+    [12, "Rainbow (P*Light Remix)", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ae36727b-cd17-4cdc-8dca-8763be199f8a", "https://www.dojin-music.info/cd/5667"]
 
-[206b2f68f9d20baf5c5f9301f8308e42]
+[6b2ade9192f9a3be1bcf037aa3fc94af]
 catalognumber = ""
 date = "2016-08-14"
 album = "Sleep!"
 tracks = [
     [1, "Artificial Intelligence: Alpha GO!!", "かめりあ feat. ななひら", 0],
     [2, "Animal land", "かめりあ feat. ななひら", 0],
-    [3, "Honey trap", "かめりあ feat. ななひら", 0],
+    [3, "Honey trap", "かめりあ feat. ななひら", 1],
     [4, "Your voices are,", "かめりあ feat. ななひら", 0],
     [5, "Escapism Theory", "かめりあ feat. ななひら", 0],
     [6, "Sleep!", "かめりあ feat. ななひら", 0],
     [7, "You can become a noob whoever, but no easy way to be pro‐otaku never, and the internet lasts forever (Sorry‐for‐long‐txt Long ver.)", "かめりあ feat. ななひら", 0],
     [8, "Right and left in charset", "かめりあ feat. ななひら", 0],
-    [9, "Looking For A New Adventure", "かめりあ feat. ななひら", 0],
+    [9, "Looking For A New Adventure", "かめりあ feat. ななひら", 1],
     [10, "Shutter speed (Upper Speed PHQ remix)", "かめりあ feat. ななひら", 0],
-    [11, "Rainbow (P*Light Remix)", "かめりあ feat. ななひら", 0],
+    [11, "Rainbow (P*Light Remix)", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f78ec5e7-442a-4f0c-b71e-b0b586e3df1d"]
 
@@ -4082,21 +4082,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5675"]
 
-[a88b864552a427493167596cbff4ea88]
+[c88f6c0e37010c70f4c29e5d587a635a]
 catalognumber = "CFCD-0012"
 date = "2016-08-14"
 album = "Wonder trick"
 tracks = [
-    [1, "パセリ食べろ！！", "ななひら", 0],
-    [2, "爆売れ！マッチ売りの派遣少女", "ななひら", 0],
-    [3, "くっちゃね ? HOLIDAY", "ななひら", 0],
-    [4, "時空超越ネットアイドル物語", "ななひら", 0],
-    [5, "デリシャス☆ぱんちゅはデンジャらす！？", "ななひら", 0],
-    [6, "ベースライン少女はハイエンド彼氏の夢を見るか？", "ななひら", 0],
-    [7, "全然満足なんかしてないマン (Never Give Up Woman)", "ななひら", 0],
-    [8, "ラーメン食べたい", "ななひら", 0],
-    [9, "物凄い討論するななひらが物凄いうた", "ななひら", 0],
-    [10, "超高速ヒロイン★すーぱーるみな 第1話(終)「最後の戦い」", "ななひら", 0],
+    [1, "パセリ食べろ！！", "ななひら", 1],
+    [2, "爆売れ！マッチ売りの派遣少女", "ななひら", 1],
+    [3, "くっちゃね ? HOLIDAY", "ななひら", 1],
+    [4, "時空超越ネットアイドル物語", "ななひら", 1],
+    [5, "デリシャス☆ぱんちゅはデンジャらす！？", "ななひら", 2],
+    [6, "ベースライン少女はハイエンド彼氏の夢を見るか？", "ななひら", 1],
+    [7, "全然満足なんかしてないマン (Never Give Up Woman)", "ななひら", 1],
+    [8, "ラーメン食べたい", "ななひら", 1],
+    [9, "物凄い討論するななひらが物凄いうた", "ななひら", 1],
+    [10, "超高速ヒロイン★すーぱーるみな 第1話(終)「最後の戦い」", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1642294d-6381-4fb8-a5cd-f104b83d49c4", "https://www.dojin-music.info/cd/5649"]
 
@@ -4153,14 +4153,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6540"]
 
-[1b0af20eea5db7da6ef286d0891d6304]
+[8b0971f4b22fa4cd8f6a17762b4c3786]
 catalognumber = ""
 date = "2016-10-30"
 album = "Goodbye Friend"
 tracks = [
     [1, "opening", "colate kamome sano", 0],
     [2, "honey kissing feat. なゆ", "なゆ", 0],
-    [3, "like a bunny feat. ななひら", "ななひら", 0],
+    [3, "like a bunny feat. ななひら", "ななひら", 1],
     [4, "fuzzy blue feat. Yukacco", "yukacco", 0],
     [5, "clover feat. 伊ヶ崎綾香", "伊ヶ崎綾香", 0],
     [6, "not found feat. ina (QQIQ)", "ina", 0],
@@ -4218,7 +4218,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5723"]
 
-[d267d6cf6288d637b282be98868d21e1]
+[2a119b8d36fd7ffe2e4a7e09a9cf315d]
 catalognumber = ""
 date = "2016-10-30"
 album = "The Seventh Seal"
@@ -4230,29 +4230,29 @@ tracks = [
     [5, "Reason for existence", "DJ Noriken", 0],
     [6, "Stop & Go", "MK", 0],
     [7, "Xrisella", "Feryquitous", 0],
-    [8, "サクライロ❀グッモーニン", "ななひら", 0],
+    [8, "サクライロ❀グッモーニン", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/13023"]
 
-[1494693f7efbebeff96d63889872767c]
+[4a94e59c7f9dcc98705602fabda3b9ca]
 catalognumber = ""
 date = "2016-10-30"
 album = "candy box"
 tracks = [
     [1, "Twinkling GIRL", "U-ske", 0],
     [2, "強敵！あにまる系ガールズ", "桃箱 miko（藤咲かりん）", 0],
-    [3, "おねがい！らぶまじっく☆", "ななひら", 0],
+    [3, "おねがい！らぶまじっく☆", "ななひら", 1],
     [4, "キミナビゲ→ション", "なゆ ゆきまめ", 0],
-    [5, "ダニエルは女の子です！", "ななひら", 0],
+    [5, "ダニエルは女の子です！", "ななひら", 1],
     [6, "わがままドルミール", "すずしろ", 0],
     [7, "カフェ・アプランティ", "まめこ", 0],
     [8, "スイート＆ストロベリー", "桃箱", 0],
     [9, "わがままドルミール (haru_naba Remix)", "remix：はるなば", 0],
-    [10, "ダニエルは女の子です！ (90's portable pop mix)", "remix：wigen", 0],
+    [10, "ダニエルは女の子です！ (90's portable pop mix)", "remix：wigen", 1],
 ]
 links = ["https://www.dojin-music.info/cd/6542"]
 
-[3a0bbebe5ea9caed772a22de2ad3d345]
+[5e5d92e482e383ced30213ea4a9a77a4]
 catalognumber = ""
 date = "2016-10-30"
 album = "SUGAREDEN"
@@ -4260,7 +4260,7 @@ tracks = [
     [1, "てんしんRun Run!!", "あやぽんず＊", 0],
     [2, "シュガビタ系スパイシーガール", "ななひら", 0],
     [3, "Scarlet", "うきね", 0],
-    [4, "二人のエデン", "咲子", 0],
+    [4, "二人のエデン", "咲子", 1],
     [5, "dream or dream？", "あやぽんず＊", 0],
     [6, "フタツココロ", "めらみぽっぷ", 0],
     [7, "シューティングスター・グライダー", "咲子", 0],
@@ -4359,7 +4359,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/16019"]
 
-[b81e0b203a9905e730d4f1dd11bc3c20]
+[5c3dd29716db1c2d4b84182d20d7ecf9]
 catalognumber = ""
 date = "2016-12-31"
 album = "The Best of tpz 2 the BEST!!!"
@@ -4368,7 +4368,7 @@ tracks = [
     [2, "Because I was So young", "t+pazolite", 0],
     [3, "Lemon Heart", "t+pazolite", 0],
     [4, "Electric Butterfly", "t+pazolite", 0],
-    [5, "Ponko2 Girlish feat. ななひら", "ななひら", 0],
+    [5, "Ponko2 Girlish feat. ななひら", "ななひら", 1],
     [6, "OYOBIDE-9", "t+pazolite", 0],
     [7, "Funny Function", "t+pazolite", 0],
     [8, "Obakesteps", "t+pazolite", 0],
@@ -4418,21 +4418,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12885"]
 
-[523b7c921133a749691daebdd68a103e]
+[49da0f11b69450abb47f3b2cb7ee26b2]
 catalognumber = "CFCD-0013"
 date = "2016-12-31"
 album = "Secretale"
 tracks = [
-    [1, "必勝！わたしのお料理レシピ", "ななひら", 0],
-    [2, "海風エキュモーション", "ななひら", 0],
-    [3, "little mice's cafe", "ななひら", 0],
-    [4, "夜空のつむぎ", "ななひら", 0],
-    [5, "喋蝶結び", "ななひら", 0],
-    [6, "Petals", "ななひら", 0],
-    [7, "piece of cake", "ななひら", 0],
-    [8, "よくばりトゥレジュール", "ななひら", 0],
-    [9, "pommesoir", "ななひら", 0],
-    [10, "Hey, my dear!!", "ななひら", 0],
+    [1, "必勝！わたしのお料理レシピ", "ななひら", 1],
+    [2, "海風エキュモーション", "ななひら", 1],
+    [3, "little mice's cafe", "ななひら", 1],
+    [4, "夜空のつむぎ", "ななひら", 1],
+    [5, "喋蝶結び", "ななひら", 1],
+    [6, "Petals", "ななひら", 1],
+    [7, "piece of cake", "ななひら", 1],
+    [8, "よくばりトゥレジュール", "ななひら", 1],
+    [9, "pommesoir", "ななひら", 1],
+    [10, "Hey, my dear!!", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/38b621b3-c346-4a7c-935e-1ce42b59cedf", "https://www.dojin-music.info/cd/5648"]
 
@@ -4485,40 +4485,40 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd612687-b92d-4d9b-a07d-32af4a61b496"]
 
-[addc6a0d12782baa0a244121dbf8941a]
+[41923212fc25c05788f6fcc2a44746e4]
 catalognumber = ""
 date = "2017-03-03"
 album = "すりーぷ！"
 tracks = [
-    [1, "人工知能：あるふぁ～★GO！！", "かめりあ feat. ななひら", 0],
-    [2, "アニマルらんど", "かめりあ feat. ななひら", 0],
-    [3, "Honey♥Trap", "かめりあ feat. ななひら", 0],
-    [4, "君の声は", "かめりあ feat. ななひら", 0],
-    [5, "迯避論", "かめりあ feat. ななひら", 0],
-    [6, "すりーぷ！", "かめりあ feat. ななひら", 0],
-    [7, "ニワカ三年オタ八年、インターネッツはforever（長文スマソLong ver.）", "かめりあ feat. ななひら", 0],
-    [8, "文字コードをかけめぐれ！", "かめりあ feat. ななひら", 0],
-    [9, "Looking For A New Adventure", "かめりあ feat. ななひら", 0],
-    [10, "シャッタースピード -Upper Speed PHQ remix-", "かめりあ feat. ななひら", 0],
-    [11, "Rainbow (P*Light Remix)", "かめりあ feat. ななひら", 0],
+    [1, "人工知能：あるふぁ～★GO！！", "かめりあ feat. ななひら", 1],
+    [2, "アニマルらんど", "かめりあ feat. ななひら", 1],
+    [3, "Honey♥Trap", "かめりあ feat. ななひら", 1],
+    [4, "君の声は", "かめりあ feat. ななひら", 1],
+    [5, "迯避論", "かめりあ feat. ななひら", 1],
+    [6, "すりーぷ！", "かめりあ feat. ななひら", 1],
+    [7, "ニワカ三年オタ八年、インターネッツはforever（長文スマソLong ver.）", "かめりあ feat. ななひら", 1],
+    [8, "文字コードをかけめぐれ！", "かめりあ feat. ななひら", 1],
+    [9, "Looking For A New Adventure", "かめりあ feat. ななひら", 1],
+    [10, "シャッタースピード -Upper Speed PHQ remix-", "かめりあ feat. ななひら", 1],
+    [11, "Rainbow (P*Light Remix)", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8c7eb8e5-f678-4648-9af1-608c5ae6579b"]
 
-[1379c77a17a497eb5b50c5c41c8cfdf9]
+[bc2c14a3c44cb2d40ca5c262fb9d90d3]
 catalognumber = ""
 date = "2017-03-10"
 album = "Wonder trick"
 tracks = [
-    [1, "パセリ食べろ!!", "ななひら", 0],
-    [2, "爆売れ!マッチ売りの派遣少女", "ななひら", 0],
-    [3, "くっちゃね ▽ HOLIDAY", "ななひら", 0],
-    [4, "時空超越ネットアイドル物語", "ななひら", 0],
-    [5, "デリシャス☆ぱんちゅはデンジャらす!?", "ななひら", 0],
-    [6, "ベースライン少女はハイエンド彼氏の夢を見るか?", "ななひら", 0],
-    [7, "全然満足なんかしてないマン (Never Give Up Woman)", "ななひら", 0],
-    [8, "ラーメン食べたい", "ななひら", 0],
-    [9, "物凄い討論するななひらが物凄いうた", "ななひら", 0],
-    [10, "超高速ヒロイン★すーぱーるみな 第1話(終)「最後の戦い」", "ななひら", 0],
+    [1, "パセリ食べろ!!", "ななひら", 1],
+    [2, "爆売れ!マッチ売りの派遣少女", "ななひら", 1],
+    [3, "くっちゃね ▽ HOLIDAY", "ななひら", 1],
+    [4, "時空超越ネットアイドル物語", "ななひら", 1],
+    [5, "デリシャス☆ぱんちゅはデンジャらす!?", "ななひら", 1],
+    [6, "ベースライン少女はハイエンド彼氏の夢を見るか?", "ななひら", 1],
+    [7, "全然満足なんかしてないマン (Never Give Up Woman)", "ななひら", 1],
+    [8, "ラーメン食べたい", "ななひら", 1],
+    [9, "物凄い討論するななひらが物凄いうた", "ななひら", 1],
+    [10, "超高速ヒロイン★すーぱーるみな 第1話(終)「最後の戦い」", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/12157c2d-9ee0-49e6-a4af-3d78fed0ceff"]
 
@@ -5032,28 +5032,28 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5642"]
 
-[e74315540db2ae07dbea09cf6be4e760]
+[bcb9712c1fdb203e3cedf48897225e5c]
 catalognumber = "KCCD-006"
 date = "2017-12-29"
 album = "ふぉーす！"
 tracks = [
-    [1, "オリガミカル・スウィートラヴ", "ななひら", 0],
-    [2, "は～とび～と♥お～ば～ひ～～～～と！！！！", "ななひら", 0],
-    [3, "鉄道迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～", "ななひら", 0],
-    [4, "Ta-Ti-Tu-Teatime!", "ななひら", 0],
-    [5, "ベースラインやってる？笑", "ななひら", 0],
-    [6, "You Make My Life 1UP (x127 Long ver.)", "ななひら", 0],
-    [7, "senpai, notice me!", "ななひら", 0],
-    [8, "觀測衞", "ななひら", 0],
-    [9, "IoT(※Internet of Things)の女神☆モノノン☆", "ななひら", 0],
-    [10, "じゅーじゅー焼肉の火からフェニックス！？～再誕の†炭火焼き～", "ななひら", 0],
-    [11, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "ななひら", 0],
-    [12, "ふぉーす！", "ななひら", 0],
-    [13, "プレゼント", "ななひら", 0],
-    [14, "オリガミカル・スウィートラヴ (Long ver.)", "ななひら", 0],
-    [15, "じゅーじゅー焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-", "ななひら", 0],
-    [16, "月燈籠(Lite Show Magic Remix)", "ななひら", 0],
-    [17, "Looking For A New Adventure(The 4th Remix)", "ななひら", 0],
+    [1, "オリガミカル・スウィートラヴ", "ななひら", 1],
+    [2, "は～とび～と♥お～ば～ひ～～～～と！！！！", "ななひら", 1],
+    [3, "鉄道迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～", "ななひら", 1],
+    [4, "Ta-Ti-Tu-Teatime!", "ななひら", 1],
+    [5, "ベースラインやってる？笑", "ななひら", 1],
+    [6, "You Make My Life 1UP (x127 Long ver.)", "ななひら", 1],
+    [7, "senpai, notice me!", "ななひら", 1],
+    [8, "觀測衞", "ななひら", 1],
+    [9, "IoT(※Internet of Things)の女神☆モノノン☆", "ななひら", 1],
+    [10, "じゅーじゅー焼肉の火からフェニックス！？～再誕の†炭火焼き～", "ななひら", 1],
+    [11, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "ななひら", 1],
+    [12, "ふぉーす！", "ななひら", 1],
+    [13, "プレゼント", "ななひら", 1],
+    [14, "オリガミカル・スウィートラヴ (Long ver.)", "ななひら", 1],
+    [15, "じゅーじゅー焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-", "ななひら", 1],
+    [16, "月燈籠(Lite Show Magic Remix)", "ななひら", 1],
+    [17, "Looking For A New Adventure(The 4th Remix)", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9b232c55-f7ae-437a-bf5c-f4371efcca7a", "https://www.dojin-music.info/cd/5666"]
 
@@ -5112,7 +5112,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12968"]
 
-[110700ad771b7f70cf9851c5989ab4dd]
+[226b6c9e0865bb17960d190a29c19de8]
 catalognumber = ""
 date = "2017-12-29"
 album = "4orce!"
@@ -5121,62 +5121,62 @@ tracks = [
     [2, "TRAIN LABYRINTH -Escape from Super -Shinjuku sta.-", "かめりあ feat. ななひら", 0],
     [3, "Ta‐Ti‐Tu‐Teatime!", "かめりあ feat. ななひら", 0],
     [4, "Can I friend you on Bassbook? lol", "かめりあ feat. ななひら", 0],
-    [5, "You Make My Life 1UP - x127 Long ver.", "かめりあ feat. ななひら", 0],
-    [6, "senpai, notice me!", "かめりあ feat. ななひら", 0],
+    [5, "You Make My Life 1UP - x127 Long ver.", "かめりあ feat. ななひら", 1],
+    [6, "senpai, notice me!", "かめりあ feat. ななひら", 1],
     [7, "Kansoku‐eisei", "かめりあ feat. ななひら", 0],
     [8, "Mononon the IoT (*Internet of Things) Goddess", "かめりあ feat. ななひら", 0],
     [9, "Catch game battle of Humankind vs. Ball‐throwing Robot Tamachan", "かめりあ feat. ななひら", 0],
     [10, "4orce!", "かめりあ feat. ななひら", 0],
     [11, "Present", "かめりあ feat. ななひら", 0],
     [12, "Tsukidourou - Lite Show Magic Remix", "かめりあ feat. ななひら", 0],
-    [13, "Looking For A New Adventure - The 4th Remix", "かめりあ feat. ななひら", 0],
+    [13, "Looking For A New Adventure - The 4th Remix", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/db968d5d-87ea-453b-86a5-680690f842f0"]
 
-[8ca7f08f66eee072b504151ea5fc71b6]
+[0a7f4f65ab438e5e93e57241e7fb3ef9]
 catalognumber = ""
 date = "2017-12-29"
 album = "ふぉーす!"
 tracks = [
     [1, "は ~とび~ とお ~ば~ ひ~~~~と!!!!", "かめりあ feat. ななひら", 0],
-    [2, "鉄道迷宮 ~抜け出せ、超宿駅~", "かめりあ feat. ななひら", 0],
+    [2, "鉄道迷宮 ~抜け出せ、超宿駅~", "かめりあ feat. ななひら", 1],
     [3, "Ta‐Ti‐Tu‐Teatime!", "かめりあ feat. ななひら", 0],
-    [4, "ベースラインやってる?笑", "かめりあ feat. ななひら", 0],
-    [5, "You Make My Life 1UP - x127 Long ver.", "かめりあ feat. ななひら", 0],
-    [6, "senpai, notice me!", "かめりあ feat. ななひら", 0],
+    [4, "ベースラインやってる?笑", "かめりあ feat. ななひら", 1],
+    [5, "You Make My Life 1UP - x127 Long ver.", "かめりあ feat. ななひら", 1],
+    [6, "senpai, notice me!", "かめりあ feat. ななひら", 1],
     [7, "觀測衞曐", "かめりあ feat. ななひら", 0],
-    [8, "IoT (※Internet of Things) の女神☆モノノン☆", "かめりあ feat. ななひら", 0],
-    [9, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "かめりあ feat. ななひら", 0],
-    [10, "ふぉーす!", "かめりあ feat. ななひら", 0],
-    [11, "プレゼント", "かめりあ feat. ななひら", 0],
-    [12, "月燈籠 - Lite Show Magic Remix", "かめりあ feat. ななひら", 0],
-    [13, "Looking For A New Adventure - The 4th Remix", "かめりあ feat. ななひら", 0],
+    [8, "IoT (※Internet of Things) の女神☆モノノン☆", "かめりあ feat. ななひら", 1],
+    [9, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "かめりあ feat. ななひら", 1],
+    [10, "ふぉーす!", "かめりあ feat. ななひら", 1],
+    [11, "プレゼント", "かめりあ feat. ななひら", 1],
+    [12, "月燈籠 - Lite Show Magic Remix", "かめりあ feat. ななひら", 1],
+    [13, "Looking For A New Adventure - The 4th Remix", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fe8301fa-59ea-4656-b927-1e3c00cefa64"]
 
-[09a3132881f808f0603a8c07ad5f641f]
+[c63e158f35208b7778bccad823d16e58]
 catalognumber = "MOFU-0001"
 date = "2017-12-31"
 album = "いんふぃにてぃ🐰もふりてぃ！ Disc 2"
 tracks = [
-    [1, "いんふぃにてぃ🐰もふりてぃ", "p19 × ななひら × かめりあ", 0],
-    [2, "カラッと☆きつね色ダイヤモンド", "p19 × ななひら × かめりあ", 0],
-    [3, "ハッピー＊テイル", "p19 × ななひら × かめりあ", 0],
+    [1, "いんふぃにてぃ🐰もふりてぃ", "p19 × ななひら × かめりあ", 1],
+    [2, "カラッと☆きつね色ダイヤモンド", "p19 × ななひら × かめりあ", 1],
+    [3, "ハッピー＊テイル", "p19 × ななひら × かめりあ", 1],
     [4, "もふもふな放課後 キャラクター紹介", "p19 × ななひら × かめりあ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/868d6521-b41d-416e-9a84-d8765ecc7c68"]
 
-[8db7d3966cf57005948a538eb6d0ca19]
+[b9b0ae24bf95f9b6ef58a9a0ee54ea48]
 catalognumber = "MOFU-0001"
 date = "2017-12-31"
 album = "いんふぃにてぃ もふりてぃ"
 tracks = [
-    [1, "いんふぃにてぃ もふりてぃ", "ななひら", 0],
-    [2, "カラッと☆きつね色ダイヤモンド", "ななひら", 0],
-    [3, "ハッピー＊テイル", "ななひら", 0],
-    [4, "いんふぃにてぃ もふりてぃ (Instrumental)", "かめりあ", 0],
-    [5, "カラッと☆きつね色ダイヤモンド (Instrumental)", "かめりあ", 0],
-    [6, "ハッピー＊テイル (Instrumental)", "かめりあ", 0],
+    [1, "いんふぃにてぃ もふりてぃ", "ななひら", 1],
+    [2, "カラッと☆きつね色ダイヤモンド", "ななひら", 1],
+    [3, "ハッピー＊テイル", "ななひら", 1],
+    [4, "いんふぃにてぃ もふりてぃ (Instrumental)", "かめりあ", 1],
+    [5, "カラッと☆きつね色ダイヤモンド (Instrumental)", "かめりあ", 1],
+    [6, "ハッピー＊テイル (Instrumental)", "かめりあ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/868d6521-b41d-416e-9a84-d8765ecc7c68", "https://www.dojin-music.info/cd/5726"]
 
@@ -5205,14 +5205,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5729"]
 
-[416adb7d096fd850305870e9fde5a2de]
+[e2a5f623d5a430fd87b83ed707443dba]
 catalognumber = ""
 date = "2018-04-29"
 album = "Pinky blossom"
 tracks = [
-    [1, "サクライロメロディー", "ななひら", 0],
-    [2, "どす恋！春場所☆きらめき大相撲", "ななひら", 0],
-    [3, "ハルハナ", "ななひら", 0],
+    [1, "サクライロメロディー", "ななひら", 1],
+    [2, "どす恋！春場所☆きらめき大相撲", "ななひら", 1],
+    [3, "ハルハナ", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5646"]
 
@@ -5284,24 +5284,24 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/13562"]
 
-[84680c9b7861427684b3b63b86e4b4aa]
+[4e71ad781be913368e1e5565b124b2c6]
 catalognumber = ""
 date = "2018-05-26"
 album = "ふぉーす！"
 tracks = [
-    [1, "は～とび～と♥お～ば～ひ～～～～と！！！！", "かめりあ feat. ななひら", 0],
-    [2, "鉄道迷宮 (TRAIN LABYRINTH) ～抜け出せ、超宿駅～", "かめりあ feat. ななひら", 0],
-    [3, "Ta-Ti-Tu-Teatime!", "かめりあ feat. ななひら", 0],
-    [4, "ベースラインやってる？笑", "かめりあ feat. ななひら", 0],
-    [5, "You Make My Life 1UP (x127 Long ver.)", "かめりあ feat. ななひら", 0],
-    [6, "senpai, notice me!", "かめりあ feat. ななひら", 0],
+    [1, "は～とび～と♥お～ば～ひ～～～～と！！！！", "かめりあ feat. ななひら", 1],
+    [2, "鉄道迷宮 (TRAIN LABYRINTH) ～抜け出せ、超宿駅～", "かめりあ feat. ななひら", 1],
+    [3, "Ta-Ti-Tu-Teatime!", "かめりあ feat. ななひら", 1],
+    [4, "ベースラインやってる？笑", "かめりあ feat. ななひら", 1],
+    [5, "You Make My Life 1UP (x127 Long ver.)", "かめりあ feat. ななひら", 1],
+    [6, "senpai, notice me!", "かめりあ feat. ななひら", 1],
     [7, "觀測衞曐", "かめりあ feat. ななひら", 0],
-    [8, "IoT (※Internet of Things) の女神☆モノノン☆", "かめりあ feat. ななひら", 0],
-    [9, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "かめりあ feat. ななひら", 0],
-    [10, "ふぉーす！", "かめりあ feat. ななひら", 0],
-    [11, "プレゼント", "かめりあ feat. ななひら", 0],
-    [12, "月燈籠 (Lite Show Magic remix)", "かめりあ feat. ななひら", 0],
-    [13, "Looking For A New Adventure (The 4th remix)", "かめりあ feat. ななひら", 0],
+    [8, "IoT (※Internet of Things) の女神☆モノノン☆", "かめりあ feat. ななひら", 1],
+    [9, "人間 vs. 球投げロボットたまちゃんのキャッチボール対決", "かめりあ feat. ななひら", 1],
+    [10, "ふぉーす！", "かめりあ feat. ななひら", 1],
+    [11, "プレゼント", "かめりあ feat. ななひら", 1],
+    [12, "月燈籠 (Lite Show Magic remix)", "かめりあ feat. ななひら", 1],
+    [13, "Looking For A New Adventure (The 4th remix)", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c51fc63d-1d0b-41c2-9b59-812eb2365a16"]
 
@@ -5343,14 +5343,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/9143"]
 
-[b8b7a25a6cbdd2bd25af8a894724ea8d]
+[02e1989bbc2eb320f622716bb6e33809]
 catalognumber = ""
 date = "2018-08-10"
 album = "Covertly shine"
 tracks = [
-    [1, "夏に咲く秘密", "ななひら", 0],
-    [2, "飛んじゃえ！南国エスケピズム", "ななひら", 0],
-    [3, "向日葵と少女", "ななひら", 0],
+    [1, "夏に咲く秘密", "ななひら", 1],
+    [2, "飛んじゃえ！南国エスケピズム", "ななひら", 1],
+    [3, "向日葵と少女", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5645"]
 
@@ -5493,43 +5493,43 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5727"]
 
-[74342536e7ca30fc16c5fceee00f91df]
+[ac5dce3499e4db39939c546764cd69d8]
 catalognumber = "CO7U-0001"
 date = "2018-10-28"
 album = "Nanairo Ribbon"
 tracks = [
-    [1, "「教えてください、ご主人様♡」", "ななひら nayuta", 0],
-    [2, "恋愛パラシュート", "ななひら nayuta", 0],
-    [3, "トキメキスマッシュ", "ななひら nayuta", 0],
-    [4, "ラリリレル、リリロ、リラロ", "nayuta", 0],
-    [5, "Azure Reunion", "ななひら", 0],
-    [6, "Rainbow Snow", "ななひら nayuta", 0],
-    [7, "ポジティブ☆ダンスタイム", "ななひら nayuta", 0],
+    [1, "「教えてください、ご主人様♡」", "ななひら nayuta", 1],
+    [2, "恋愛パラシュート", "ななひら nayuta", 1],
+    [3, "トキメキスマッシュ", "ななひら nayuta", 1],
+    [4, "ラリリレル、リリロ、リラロ", "nayuta", 1],
+    [5, "Azure Reunion", "ななひら", 1],
+    [6, "Rainbow Snow", "ななひら nayuta", 1],
+    [7, "ポジティブ☆ダンスタイム", "ななひら nayuta", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9a50d2db-ed06-47df-9616-9091f07fa328", "https://www.dojin-music.info/cd/4241"]
 
-[f0bf6aa20774fa6802a7828928407967]
+[3b287f67d77f90e01fc231f3384e3093]
 catalognumber = "CFCD-0017"
 date = "2018-10-28"
 album = "Merrily night"
 tracks = [
-    [1, "あしたの風のオレンジマーチ", "ななひら", 0],
-    [2, "ハロウィンのパリピに負けたくないうた", "ななひら", 0],
-    [3, "オオカミ姫は夢を見る", "ななひら", 0],
+    [1, "あしたの風のオレンジマーチ", "ななひら", 1],
+    [2, "ハロウィンのパリピに負けたくないうた", "ななひら", 1],
+    [3, "オオカミ姫は夢を見る", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1744ac54-d6f7-453f-8d4c-033f97eb3b77", "https://www.dojin-music.info/cd/5644"]
 
-[b2044d89f7d075acac5aca32f603e789]
+[579b93c7faa72821fc45782f9574d329]
 catalognumber = ""
 date = "2018-11-05"
 album = "Nanairo Ribbon"
 tracks = [
-    [1, "「教えてください、ご主人様」", "ななひら×nayuta", 0],
-    [2, "恋愛パラシュート", "ななひら×nayuta", 0],
-    [3, "トキメキスマッシュ", "ななひら×nayuta", 0],
-    [4, "ラリリレル、リリロ、リラロ", "nayuta", 0],
-    [5, "Azure Reunion", "ななひら", 0],
-    [6, "。゜.+きらめき+.゜。 Rainbow Snow", "ななひら×nayuta", 0],
+    [1, "「教えてください、ご主人様」", "ななひら×nayuta", 1],
+    [2, "恋愛パラシュート", "ななひら×nayuta", 1],
+    [3, "トキメキスマッシュ", "ななひら×nayuta", 1],
+    [4, "ラリリレル、リリロ、リラロ", "nayuta", 1],
+    [5, "Azure Reunion", "ななひら", 1],
+    [6, "。゜.+きらめき+.゜。 Rainbow Snow", "ななひら×nayuta", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b8fe0c62-28da-4c70-a1fc-4da38a14d51a"]
 
@@ -5555,13 +5555,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/11122"]
 
-[43b2c1454833b413773e79f532eb6507]
+[77004dff62444e6fefe8eaae741f6f7d]
 catalognumber = ""
 date = "2018-12-30"
 album = "How to make Confesta!"
 tracks = [
-    [1, "Cutest☆Holiday Date ～ココ㌧の愛の手入りバージョン～", "ななひら", 0],
-    [2, "ヒラタナナミ vs 未来から来た桃箱", "桃箱 ななひら", 0],
+    [1, "Cutest☆Holiday Date ～ココ㌧の愛の手入りバージョン～", "ななひら", 1],
+    [2, "ヒラタナナミ vs 未来から来た桃箱", "桃箱 ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/4203"]
 
@@ -5598,14 +5598,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5613"]
 
-[8e9d8e833d862db3bf2604c71b67dcee]
+[64fd41d56487dd3ac3d200c0e411554e]
 catalognumber = ""
 date = "2018-12-30"
 album = "Snowy heart"
 tracks = [
-    [1, "プロムナードはひとりで", "ななひら", 0],
-    [2, "うしろがみの魔法", "ななひら", 0],
-    [3, "世界一、私の恋", "ななひら", 0],
+    [1, "プロムナードはひとりで", "ななひら", 1],
+    [2, "うしろがみの魔法", "ななひら", 1],
+    [3, "世界一、私の恋", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5643"]
 
@@ -5664,39 +5664,39 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6623"]
 
-[b6b21abb7e9e4d59da108ba172164f99]
+[52e61504aad9c10ff7e921f506a3bc6f]
 catalognumber = "MOFU-0003"
 date = "2018-12-31"
 album = "ふわもふはぴねす24/7!! Disc 1"
 tracks = [
-    [1, "ふわもふはぴねす24/7!!", "かめりあ feat. ななひら", 0],
-    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "かめりあ feat. ななひら", 0],
-    [3, "おきにいりさがし", "かめりあ feat. ななひら", 0],
-    [4, "ふわもふはぴねす24/7!! (instrumental)", "かめりあ", 0],
-    [5, "もふっちゃって☆さま〜!さま〜!!さま〜!!! (instrumental)", "かめりあ", 0],
-    [6, "おきにいりさがし (instrumental)", "かめりあ", 0],
+    [1, "ふわもふはぴねす24/7!!", "かめりあ feat. ななひら", 1],
+    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "かめりあ feat. ななひら", 1],
+    [3, "おきにいりさがし", "かめりあ feat. ななひら", 1],
+    [4, "ふわもふはぴねす24/7!! (instrumental)", "かめりあ", 1],
+    [5, "もふっちゃって☆さま〜!さま〜!!さま〜!!! (instrumental)", "かめりあ", 1],
+    [6, "おきにいりさがし (instrumental)", "かめりあ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c05af395-3c53-41c4-8e2a-536b661ec3e7"]
 
-[7f8698be461386c0c5d27f44ccc9b507]
+[3bcaa239a80507aac91b51b9a0ed234f]
 catalognumber = ""
 date = "2018-12-31"
 album = "ふわもふはぴねす24/7!!"
 tracks = [
-    [1, "ふわもふはぴねす24/7!!", "ななひら", 0],
-    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "ななひら", 0],
-    [3, "おきにいりさがし", "ななひら", 0],
+    [1, "ふわもふはぴねす24/7!!", "ななひら", 1],
+    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "ななひら", 1],
+    [3, "おきにいりさがし", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3105da45-064a-43c5-a3b3-203576c0a4d6", "https://www.dojin-music.info/cd/5725"]
 
-[cf6c68ce556fd6f2d168c75c49cb9e67]
+[807be75dc2b372ec4e8b087f827fc1e7]
 catalognumber = "MOFU-0003"
 date = "2018-12-31"
 album = "ふわもふはぴねす24/7!! Disc 2"
 tracks = [
-    [1, "ふわもふはぴねす24/7!!", "p19 × ななひら × かめりあ", 0],
-    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "p19 × ななひら × かめりあ", 0],
-    [3, "おきにいりさがし", "p19 × ななひら × かめりあ", 0],
+    [1, "ふわもふはぴねす24/7!!", "p19 × ななひら × かめりあ", 1],
+    [2, "もふっちゃって☆さま〜!さま〜!!さま〜!!!", "p19 × ななひら × かめりあ", 1],
+    [3, "おきにいりさがし", "p19 × ななひら × かめりあ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c05af395-3c53-41c4-8e2a-536b661ec3e7"]
 
@@ -5737,23 +5737,23 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/4037"]
 
-[de2280f796fe07b8fcba38f771b05a0f]
+[2aa97a3831c6ded84ca3600346acceaa]
 catalognumber = ""
 date = "2019-04-28"
 album = "トリップ×フロリック"
 tracks = [
-    [1, "お願い！コンコンお稲荷様", "ななひら", 0],
-    [2, "それって最高♡ハンバーガードリーム", "ななひら", 0],
-    [3, "ひみつのジュテーム♪", "ななひら", 0],
-    [4, "ドキドキスパイ作戦", "ななひら", 0],
-    [5, "レンジで好吃☆電子調理器使用中華料理 四千年歴史瞬間調理完了武闘的料理長☆", "ななひら", 0],
-    [6, "ガンジス川で、恋をした。", "ななひら", 0],
-    [7, "あたしのおへやジャングル", "ななひら", 0],
-    [8, "God morgen vår!", "ななひら", 0],
+    [1, "お願い！コンコンお稲荷様", "ななひら", 1],
+    [2, "それって最高♡ハンバーガードリーム", "ななひら", 1],
+    [3, "ひみつのジュテーム♪", "ななひら", 1],
+    [4, "ドキドキスパイ作戦", "ななひら", 1],
+    [5, "レンジで好吃☆電子調理器使用中華料理 四千年歴史瞬間調理完了武闘的料理長☆", "ななひら", 1],
+    [6, "ガンジス川で、恋をした。", "ななひら", 1],
+    [7, "あたしのおへやジャングル", "ななひら", 1],
+    [8, "God morgen vår!", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/4200"]
 
-[b657d0a7ae7ea964dfac7d0ccdcb9dc3]
+[92bb9ebc7baf8c88ed0698c2ba0e6ea3]
 catalognumber = ""
 date = "2019-04-28"
 album = "Dream Makers"
@@ -5769,7 +5769,7 @@ tracks = [
     [9, "omn!s", "ああああ 梅干茶漬け", 0],
     [10, "Stray Toy's Adventure!! (Long Edit)", "梅干茶漬け", 0],
     [11, "#be_fortunate (Extend ver.)", "翡乃イスカ", 0],
-    [12, "rainbow (smile again)", "seaside-métro", 0],
+    [12, "rainbow (smile again)", "seaside-métro", 1],
 ]
 links = ["https://www.dojin-music.info/cd/6517"]
 
@@ -5785,7 +5785,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/12962"]
 
-[32e5cb2c9697ff9c7858a327f50910fd]
+[9aa74979db56f734969538101d2fb62f]
 catalognumber = ""
 date = "2019-04-28"
 album = "ほっと・すぽっと"
@@ -5801,7 +5801,7 @@ tracks = [
     [9, "Want To Know", "星空るあ まめ乃", 0],
     [10, "かがやけ!ラブアンドピースぷぃきゅあ", "ricono", 0],
     [11, "ミラクル☆エディット", "miko（藤咲かりん） 桃箱", 0],
-    [12, "月夜とたいやきと池の鯉(Huge Rythm Mix)", "ななひら", 0],
+    [12, "月夜とたいやきと池の鯉(Huge Rythm Mix)", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5612"]
 
@@ -5842,27 +5842,27 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/7131"]
 
-[7656ce337d54e273f4525a83a5bed988]
+[e61a9989d4c6e09ee184c8921578e4bd]
 catalognumber = ""
 date = "2019-08-12"
 album = "ごーいん！"
 tracks = [
-    [1, "魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！", "ななひら", 0],
-    [2, "PAPAYAPA BASS", "ななひら", 0],
-    [3, "チ・ー・ズ・バ・ク・ダ・ン", "ななひら", 0],
-    [4, "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──", "ななひら", 0],
-    [5, "インターネットが遅いさん (Super-Slow-Internet-san)", "ななひら", 0],
-    [6, "混乱少女♥そふらんちゃん!!", "ななひら", 0],
-    [7, "「はい」って言ったら常軌を逸して速くなる曲", "ななひら", 0],
-    [8, "NANI THE FUCK!!", "ななひら", 0],
-    [9, "透靈蕐", "ななひら", 0],
-    [10, "PAPAYAPA BASS (\"BASSE DE NANA\" Long ver.)", "ななひら", 0],
-    [11, "Nyan loves you♡", "ななひら", 0],
-    [12, "クリスマスなんて興味ないけど", "ななひら", 0],
-    [13, "ごーいん！", "ななひら", 0],
-    [14, "混乱少女♥そふらんちゃん!! (ノリニクシティ・アンリミテッド☆プログレッシヴ・ポリリズミック・ナイトメア・ロングバージョン)", "ななひら", 0],
-    [15, "senpai, notice me! (YUC'e Remix)", "ななひら", 0],
-    [16, "ベースラインやってる？笑 (Cranky Remix)", "ななひら", 0],
+    [1, "魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！", "ななひら", 1],
+    [2, "PAPAYAPA BASS", "ななひら", 1],
+    [3, "チ・ー・ズ・バ・ク・ダ・ン", "ななひら", 1],
+    [4, "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──", "ななひら", 1],
+    [5, "インターネットが遅いさん (Super-Slow-Internet-san)", "ななひら", 1],
+    [6, "混乱少女♥そふらんちゃん!!", "ななひら", 1],
+    [7, "「はい」って言ったら常軌を逸して速くなる曲", "ななひら", 1],
+    [8, "NANI THE FUCK!!", "ななひら", 1],
+    [9, "透靈蕐", "ななひら", 1],
+    [10, "PAPAYAPA BASS (\"BASSE DE NANA\" Long ver.)", "ななひら", 1],
+    [11, "Nyan loves you♡", "ななひら", 1],
+    [12, "クリスマスなんて興味ないけど", "ななひら", 1],
+    [13, "ごーいん！", "ななひら", 1],
+    [14, "混乱少女♥そふらんちゃん!! (ノリニクシティ・アンリミテッド☆プログレッシヴ・ポリリズミック・ナイトメア・ロングバージョン)", "ななひら", 1],
+    [15, "senpai, notice me! (YUC'e Remix)", "ななひら", 1],
+    [16, "ベースラインやってる？笑 (Cranky Remix)", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/7019"]
 
@@ -5912,7 +5912,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6963"]
 
-[8dfc0661c43ee343d80a0126fe2e6026]
+[d133aff64acbfbcea87c3d64768a1529]
 catalognumber = ""
 date = "2019-08-12"
 album = "REALLY Don’t Waste Me!"
@@ -5924,7 +5924,7 @@ tracks = [
     [5, "Surf Zapping (Uncut Edition)", "t+pazolite", 0],
     [6, "Routine Stroll", "t+pazolite", 0],
     [7, "Afro Universe", "t+pazolite", 0],
-    [8, "ハロウィンのパリピに負けたくないうた(feat.ななひら)", "ななひら", 0],
+    [8, "ハロウィンのパリピに負けたくないうた(feat.ななひら)", "ななひら", 1],
     [9, "HYPER4ID", "t+pazolite", 0],
     [10, "Hallucination XXX (Uncut Edition)", "t+pazolite", 0],
     [11, "Jakeleg", "t+pazolite", 0],
@@ -5952,18 +5952,18 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/9043"]
 
-[e4b7f13975f84bfea020bc31f3b57af3]
+[c69a7d460c6b4e95e64fe80a576ce75f]
 catalognumber = ""
 date = "2019-10-26"
 album = "ふわもふはぴねす24/7!!"
 tracks = [
-    [1, "ふわもふはぴねす24/7!!", "かめりあ feat. ななひら", 0],
-    [2, "もふっちゃって☆さま ～! さま～ !! さま～!!!", "かめりあ feat. ななひら", 0],
-    [3, "おきにいりさがし", "かめりあ feat. ななひら", 0],
+    [1, "ふわもふはぴねす24/7!!", "かめりあ feat. ななひら", 1],
+    [2, "もふっちゃって☆さま ～! さま～ !! さま～!!!", "かめりあ feat. ななひら", 1],
+    [3, "おきにいりさがし", "かめりあ feat. ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/419a0069-8fc5-4ea2-837b-483f95f8013c"]
 
-[be8b2ccfcc6fae15d36abac33f2bde33]
+[d9f64119ff7f2f23dda338764195c62c]
 catalognumber = ""
 date = "2019-10-27"
 album = "Starry Sky"
@@ -5978,7 +5978,7 @@ tracks = [
     [8, "星空キャッチボール", "すずしろ", 0],
     [9, "Starry Sky", "吉田省吾", 0],
     [10, "The stars are blue", "ricono", 0],
-    [11, "Good Night", "月乃", 0],
+    [11, "Good Night", "月乃", 1],
     [12, "Birth of the Earth", "ゆいこんぬ", 0],
 ]
 links = ["https://www.dojin-music.info/cd/9577"]
@@ -6001,23 +6001,23 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10826"]
 
-[ab70cd9d33faa7816b2476069ebfb53e]
+[85164a73743dd2a8efbd484d0af14af3]
 catalognumber = ""
 date = "2019-10-27"
 album = "ななめが王国"
 tracks = [
-    [1, "世界せいふく！ななmega王国", "ななひら mega", 0],
-    [2, "スターリースカイ☆パレード", "ななひら mega", 0],
-    [3, "Doki Doki Virus", "ななひら mega", 0],
-    [4, "真冬のシンデレラ", "ななひら mega", 0],
-    [5, "ハロウィンのパリピにまけたくないうた", "ななひら mega", 0],
-    [6, "一対半の狂爭曲《カプリシオ》 〜絶対に渡さない〜", "ななひら nayuta mega", 0],
-    [7, "ケンカするほど仲がいい！？", "ななひら mega", 0],
-    [8, "I want to meet you?", "ななひら mega", 0],
+    [1, "世界せいふく！ななmega王国", "ななひら mega", 1],
+    [2, "スターリースカイ☆パレード", "ななひら mega", 1],
+    [3, "Doki Doki Virus", "ななひら mega", 1],
+    [4, "真冬のシンデレラ", "ななひら mega", 1],
+    [5, "ハロウィンのパリピにまけたくないうた", "ななひら mega", 1],
+    [6, "一対半の狂爭曲《カプリシオ》 〜絶対に渡さない〜", "ななひら nayuta mega", 1],
+    [7, "ケンカするほど仲がいい！？", "ななひら mega", 1],
+    [8, "I want to meet you?", "ななひら mega", 1],
 ]
 links = ["https://www.dojin-music.info/cd/10426"]
 
-[7c30e486dd846cfb3792da54decb5642]
+[2e9958c78312d887ba83355d8e690065]
 catalognumber = ""
 date = "2019-10-27"
 album = "アニマル・ストライク！"
@@ -6033,7 +6033,7 @@ tracks = [
     [9, "タイガー ～ その孤高なる腕組み", "ricono", 0],
     [10, "DYING LIGHT", "ARM バイオリン : 三輪紫乃 / ビオラ : 松岡あずさ", 0],
     [11, "絶対に負けられない戦い ～ Kill the Nyanko", "ちょこ", 0],
-    [12, "しましま☆パンク", "ななひら", 0],
+    [12, "しましま☆パンク", "ななひら", 1],
     [13, "Cub Cub らいおんはーと", "ARM まろん", 0],
     [14, "けもののおうじゃ★めうめう", "芽兎めう", 0],
     [15, "take me for a walk", "ARM", 0],
@@ -6303,21 +6303,21 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/21593"]
 
-[6889048a684f88f6c402c95bdeca0c42]
+[cfe6ded4017ca5dd8a42bff6ad3d806b]
 catalognumber = "KTHT-0015"
 date = "2020-08-14"
 album = "MagiQute!!"
 tracks = [
-    [1, "きょう、あす、あさっぷ！", "ななひら", 0],
-    [2, "シキンキョリ♥Lover", "ななひら", 0],
-    [3, "ウタウタウ", "ななひら", 0],
-    [4, "Ready Go!", "ななひら", 0],
-    [5, "☆恋に落ちる魔法☆", "ななひら", 0],
-    [6, "爆発！ラブパニック", "ななひら", 0],
-    [7, "朝型の吸血鬼 9cc", "ななひら", 0],
-    [8, "猫とスイッチ", "ななひら", 0],
-    [9, "ドリャーおじさん", "ななひら", 0],
-    [10, "ふぁんたすてぃく☆どりーむ☆がーでん", "ななひら", 0],
+    [1, "きょう、あす、あさっぷ！", "ななひら", 1],
+    [2, "シキンキョリ♥Lover", "ななひら", 1],
+    [3, "ウタウタウ", "ななひら", 1],
+    [4, "Ready Go!", "ななひら", 1],
+    [5, "☆恋に落ちる魔法☆", "ななひら", 1],
+    [6, "爆発！ラブパニック", "ななひら", 1],
+    [7, "朝型の吸血鬼 9cc", "ななひら", 1],
+    [8, "猫とスイッチ", "ななひら", 1],
+    [9, "ドリャーおじさん", "ななひら", 1],
+    [10, "ふぁんたすてぃく☆どりーむ☆がーでん", "ななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/67024870-eb8e-42b7-b61a-63a7875dab71"]
 
@@ -6409,7 +6409,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/22260"]
 
-[89733428fe0c9b24cf6a7dc8b12186b5]
+[189ce0641883fcd5da2c1c6ff6332999]
 catalognumber = ""
 date = "2020-10-25"
 album = "rainbow stage!!"
@@ -6420,7 +6420,7 @@ tracks = [
     [4, "Let's Dance", "小春めう", 0],
     [5, "カナリア", "hana", 0],
     [6, "桜色日曜日", "ななひら", 0],
-    [7, "rainbow", "Rin", 0],
+    [7, "rainbow", "Rin", 1],
 ]
 links = ["https://www.dojin-music.info/cd/22323"]
 
@@ -6478,19 +6478,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/23716"]
 
-[df6098602924a271eb0dbab31623fbc2]
+[150c2607dd6444ddf629cbde689578a0]
 catalognumber = ""
 date = "2021-04-25"
 album = "いろは七不思議探訪記"
 tracks = [
-    [1, "いろは七不思議探訪記", "ななひら", 0],
-    [2, "わらしさんの日常", "ななひら", 0],
-    [3, "乙女前線！いざ変化☆", "ななひら", 0],
-    [4, "これは無慈悲な花の女王", "ななひら", 0],
-    [5, "霊犬信乃伝", "ななひら", 0],
-    [6, "琉金夢遊録", "ななひら", 0],
-    [7, "在らず朱色と迷い路の夢", "ななひら", 0],
-    [8, "詠ミ人知ラズ // 行方ハ知レズ", "ななひら", 0],
+    [1, "いろは七不思議探訪記", "ななひら", 1],
+    [2, "わらしさんの日常", "ななひら", 1],
+    [3, "乙女前線！いざ変化☆", "ななひら", 1],
+    [4, "これは無慈悲な花の女王", "ななひら", 1],
+    [5, "霊犬信乃伝", "ななひら", 1],
+    [6, "琉金夢遊録", "ななひら", 1],
+    [7, "在らず朱色と迷い路の夢", "ななひら", 1],
+    [8, "詠ミ人知ラズ // 行方ハ知レズ", "ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/23998"]
 
@@ -6632,7 +6632,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24814"]
 
-[c5ffc9a6db37fb8715fbfba5f2b97944]
+[cf15836450f86e5f8e29b104900ed58a]
 catalognumber = ""
 date = "2021-10-31"
 album = "Say Cheese!"
@@ -6640,7 +6640,7 @@ tracks = [
     [1, "世界をチーズで食べちゃって！", "ころねぽち ななひら", 0],
     [2, "蘇", "ころねぽち ななひら", 0],
     [3, "びっぐちーず！", "ころねぽち ななひら", 0],
-    [4, "レンジで好吃☆電子調理器使用中華料理 四千年歴史瞬間調理完了武闘的料理長☆", "ころねぽち", 0],
+    [4, "レンジで好吃☆電子調理器使用中華料理 四千年歴史瞬間調理完了武闘的料理長☆", "ころねぽち", 1],
     [5, "ぱぴぷぴぷぴぱ", "ななひら", 0],
     [6, "アリカ", "ころねぽち ななひら", 0],
     [7, "パシャっとCheese!!", "ころねぽち ななひら", 0],
@@ -6819,13 +6819,13 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/29860"]
 
-[7f3bfa3074f7008e346728ae6fe8c971]
+[038be9300505e580e478927349294fd5]
 catalognumber = ""
 date = "2023-10-10"
 album = "IOSYS RHYTHMICAL WORKS PERFECT HITS"
 tracks = [
     [1, "突撃！ガラスのニーソ姫！ - long ver. -", "山本椛", 0],
-    [2, "爆なな☆てすとロイヤー - long ver. -", "ななひら", 0],
+    [2, "爆なな☆てすとロイヤー - long ver. -", "ななひら", 1],
     [3, "スターチューン Long ver.", "まるもこ", 0],
     [4, "センチメント long edit covered by 駄々子", "駄々子", 0],
     [5, "開きたまえ！Next stAge！ (Full Length Version)", "ちよこ 一ノ瀬月琉 浅葱宗介", 0],
@@ -6977,25 +6977,25 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/32504"]
 
-[216a1bc051a42c0c4d60a02c20fc2412]
+[39e24d83e5abbc68b9ea7afbdbff7c41]
 catalognumber = ""
 date = "2024-10-27"
 album = "ICONIC"
 tracks = [
-    [1, "Shuwa*Shuwa Parfait", "ななひら", 0],
-    [2, "アニマルらんど", "ななひら", 0],
-    [3, "お願い！コンコンお稲荷さま", "ななひら", 0],
-    [4, "おさんぽ♥らゔ", "ななひら", 0],
-    [5, "ベースラインやってる？笑", "ななひら", 0],
-    [6, "インターネットが遅いさん (Super-Slow-Internet-san)", "ななひら", 0],
+    [1, "Shuwa*Shuwa Parfait", "ななひら", 1],
+    [2, "アニマルらんど", "ななひら", 1],
+    [3, "お願い！コンコンお稲荷さま", "ななひら", 1],
+    [4, "おさんぽ♥らゔ", "ななひら", 1],
+    [5, "ベースラインやってる？笑", "ななひら", 1],
+    [6, "インターネットが遅いさん (Super-Slow-Internet-san)", "ななひら", 1],
     [7, "ボーカルに無茶させんな", "ななひら", 0],
     [8, "ピポピポ -People People-", "ななひら", 0],
-    [9, "くっちゃね ♡ HOLIDAY", "ななひら", 0],
-    [10, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 0],
-    [11, "クリスマスなんて興味ないけど", "ななひら", 0],
+    [9, "くっちゃね ♡ HOLIDAY", "ななひら", 1],
+    [10, "ヒラタナナミの自宅待機型恋愛観", "ななひら", 1],
+    [11, "クリスマスなんて興味ないけど", "ななひら", 1],
     [12, "Chocolate Adventure", "ななひら", 0],
     [13, "生きんの大変！", "ななひら", 0],
-    [14, "あたしのおへやジャングル", "ななひら", 0],
+    [14, "あたしのおへやジャングル", "ななひら", 1],
     [15, "Home*made Parade", "ななひら", 0],
 ]
 links = ["https://www.dojin-music.info/cd/32323"]
@@ -7045,7 +7045,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/33354"]
 
-[dbc351282ace3fc19f0cdc63049fb16b]
+[33ea809ebb07c5af37bd6bfb4d131163]
 catalognumber = ""
 date = "2025-10-26"
 album = "むーびんぐ！"
@@ -7053,7 +7053,7 @@ tracks = [
     [1, "フォビドゥンピザ！ [From Muse Dash]", "ななひら", 0],
     [2, "萌豚かんふー大乱舞 [From CHUNITHM]", "ななひら", 0],
     [3, "FULLFLAVOR音頭", "ななひら", 0],
-    [4, "comet-chaser (lemmon*remake)", "ななひら", 0],
+    [4, "comet-chaser (lemmon*remake)", "ななひら", 1],
     [5, "わたしトリエチルシトレートレート", "ななひら", 0],
     [6, "MEGA TSKR", "ななひら", 0],
     [7, "えくすとららぶ!! @BPM2,077", "ななひら", 0],

@@ -1,20 +1,20 @@
-[3c8f0feebb4d0ec6622ae8388ca9486b]
+[c33812a8a539bf946663889b1d897236]
 catalognumber = ""
 date = ""
 album = "箱、喋るのっ！"
 tracks = [
-    [1, "バニラアイスに醤油でみたらし団子のお味になるよのうた。", "桃箱", 0],
-    [2, "CM～むていきょうのていきょうでおおくりなの～", "桃箱", 0],
-    [3, "ばこちゃんレイディオ", "桃箱", 0],
-    [4, "ほせいなしのなまうた☆", "桃箱", 0],
-    [5, "SE集～ひゃっこいえるかな～", "桃箱", 0],
-    [6, "ひとりでつくるもん～おいしいカレーのつくりかただよ～", "桃箱", 0],
-    [7, "KARAI☆", "桃箱", 0],
-    [8, "なんにもないうた", "桃箱", 0],
-    [9, "ハロウインのうた。", "桃箱", 0],
-    [10, "にーちゃん、たこ焼きはよ焼いてのうた。", "桃箱", 0],
-    [11, "女子力何それ？おいしくないもんね！", "桃箱", 0],
-    [12, "寝かしつけるのっ！", "桃箱", 0],
+    [1, "バニラアイスに醤油でみたらし団子のお味になるよのうた。", "桃箱", 1],
+    [2, "CM～むていきょうのていきょうでおおくりなの～", "桃箱", 1],
+    [3, "ばこちゃんレイディオ", "桃箱", 1],
+    [4, "ほせいなしのなまうた☆", "桃箱", 1],
+    [5, "SE集～ひゃっこいえるかな～", "桃箱", 1],
+    [6, "ひとりでつくるもん～おいしいカレーのつくりかただよ～", "桃箱", 1],
+    [7, "KARAI☆", "桃箱", 1],
+    [8, "なんにもないうた", "桃箱", 1],
+    [9, "ハロウインのうた。", "桃箱", 1],
+    [10, "にーちゃん、たこ焼きはよ焼いてのうた。", "桃箱", 1],
+    [11, "女子力何それ？おいしくないもんね！", "桃箱", 1],
+    [12, "寝かしつけるのっ！", "桃箱", 1],
 ]
 links = ["https://www.last.fm/music/%E6%A1%83%E7%AE%B1/%E7%AE%B1%E3%80%81%E5%96%8B%E3%82%8B%E3%81%AE%E3%81%A3%EF%BC%81"]
 
@@ -544,7 +544,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6413"]
 
-[d982ae91543d2cd9590fc9048f3e0b3e]
+[3d14bf0ca1be4afbfd09e250d4a7c1ed]
 catalognumber = "DMPCD-004"
 date = "2012-08-11"
 album = "電波娘々～でんぱにゃんにゃん～"
@@ -558,9 +558,9 @@ tracks = [
     [7, "恋のミサイル", "ちぃむdmp☆", 0],
     [8, "恋☆愛☆禁☆止☆条☆例☆", "ちぃむdmp☆", 0],
     [9, "箱庭DAYDREAM", "ちぃむdmp☆", 0],
-    [10, "セクシーキャットレディ", "ちぃむdmp☆", 0],
+    [10, "セクシーキャットレディ", "ちぃむdmp☆", 1],
     [11, "ミントアイス", "ちぃむdmp☆", 0],
-    [12, "千本桜", "ちぃむdmp☆", 0],
+    [12, "千本桜", "ちぃむdmp☆", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2d076708-6bfe-470f-920b-580ea76db9bf", "https://vgmdb.net/album/40993", "https://www.dojin-music.info/cd/5663"]
 
@@ -740,7 +740,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10806"]
 
-[8f704d66f469388889d70a70ef2cab33]
+[435337c9a9d651e53370045d868f9f8f]
 catalognumber = "DWCD-0005"
 date = "2012-12-30"
 album = "Frozen Traveler"
@@ -749,7 +749,7 @@ tracks = [
     [2, "Little Traveler", "花たん", 0],
     [3, "FROZEN WiNG", "3L", 0],
     [4, "Ephemeral", "nachi", 0],
-    [5, "Prominence of GOD", "桃箱", 0],
+    [5, "Prominence of GOD", "桃箱", 1],
     [6, "恋の手本", "emaru", 0],
     [7, "Light a Voyage", "美里", 0],
     [8, "サバト的なグリモアのハート", "peЯoco.", 0],
@@ -810,7 +810,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1483c57e-ddee-48d7-86aa-268369ff88b5", "https://vgmdb.net/album/36945", "https://www.dojin-music.info/cd/17023"]
 
-[a72b90ac5ea6ebf6cbd81cbf1e989b52]
+[0bc99fb69a47dde4b33c71ab1e987733]
 catalognumber = "KTHT-0018"
 date = "2012-12-31"
 album = "しぇいきんぐ! / SHAKING PINK"
@@ -844,21 +844,21 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/157920", "https://www.dojin-music.info/cd/17783"]
 
-[1e230f1bd3f366e4ed52355cbb4e55b8]
+[032c8254fe8dd0b62eb7ce79115f715e]
 catalognumber = "NNMM-001"
 date = "2013-04-27"
 album = "ちっちゃいのっ！ / 桃箱×ななひら"
 tracks = [
-    [1, "ちっちゃいのっ!", "桃箱Xななひら", 0],
-    [2, "ボイスドラマ1", "桃箱Xななひら", 0],
-    [3, "ATTACK!!", "ななひら", 0],
-    [4, "ボイスドラマ2", "桃箱Xななひら", 0],
-    [5, "Prominence of GOD", "桃箱", 0],
-    [6, "ゴー!ホー!ロリ", "桃箱Xななひら", 0],
+    [1, "ちっちゃいのっ!", "桃箱Xななひら", 1],
+    [2, "ボイスドラマ1", "桃箱Xななひら", 1],
+    [3, "ATTACK!!", "ななひら", 2],
+    [4, "ボイスドラマ2", "桃箱Xななひら", 1],
+    [5, "Prominence of GOD", "桃箱", 1],
+    [6, "ゴー!ホー!ロリ", "桃箱Xななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/21460b50-badf-49e4-89f3-26345afe8374", "https://vgmdb.net/album/127719", "https://www.dojin-music.info/cd/5679"]
 
-[ed405b0def478743b24a0af233513a6d]
+[38dd0c2dbc8683f4dd8dc8a2ec2be886]
 catalognumber = "DMPCD-005"
 date = "2013-04-29"
 album = "だめぽじゃないですでんぱですっ！！"
@@ -871,12 +871,12 @@ tracks = [
     [6, "え？あぁ、そう。", "ちぃむdmp☆", 0],
     [7, "ろりこんでよかった〜", "ちぃむdmp☆", 0],
     [8, "秘密警察", "ちぃむdmp☆", 0],
-    [9, "千本桜", "ちぃむdmp☆", 0],
+    [9, "千本桜", "ちぃむdmp☆", 1],
     [10, "ハッピーシンセサイザー", "ちぃむdmp☆", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e912b5df-5277-483d-a9ab-25086226acd8", "https://vgmdb.net/album/40994", "https://www.dojin-music.info/cd/5662"]
 
-[447664090b056c78a0b83ceb3ada022a]
+[75e35cc591461b7367f8e3f8ad3cc41b]
 catalognumber = "DWCD-0007"
 date = "2013-04-29"
 album = "RAVER'S NEST presents DJ katsu CLUB MIX"
@@ -893,7 +893,7 @@ tracks = [
     [10, "ゼンマイ恋時計 (T.E.B Summer Mix)", "あき", 0],
     [11, "Shining／STREAM", "うさ", 0],
     [12, "Ephemeral", "坂上なち", 0],
-    [13, "千本桜 (katsu+sumijun Remix)", "花たん", 0],
+    [13, "千本桜 (katsu+sumijun Remix)", "花たん", 1],
     [14, "Veiling Shooter", "花たん", 0],
     [15, "Our Generation", "NAGISA", 0],
     [16, "Cage to Heart", "越田Rute隆人", 0],
@@ -931,7 +931,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6412"]
 
-[ecd45c01c4bfd2b7a3d5dea6076f8cec]
+[20e456b23a942dedc8a2797babed5ebf]
 catalognumber = "KTHT-0019"
 date = "2013-04-29"
 album = "プチリズム六"
@@ -945,7 +945,7 @@ tracks = [
     [7, "清水もつカレーのうた", "すみじゅん feat. ななひら", 0],
     [8, "らぶれでぃ？れでぃ！", "nana(sevencolors) feat. めらみぽっぷ", 0],
     [9, "Power of Love", "muhmue feat. kana", 0],
-    [10, "そうだね、うん。", "桃箱", 0],
+    [10, "そうだね、うん。", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8056b0f7-dc7a-4add-89d6-b8cf0b15abad", "https://vgmdb.net/album/43997", "https://www.dojin-music.info/cd/5632"]
 
@@ -965,7 +965,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/20ec80f0-93cb-4372-92b9-a1d2ba6fc827", "https://vgmdb.net/album/39443", "https://www.dojin-music.info/cd/13744"]
 
-[7f5498dad482d70bb826adae85870ac5]
+[9219c094a78cd088872937e8cb0eccca]
 catalognumber = ""
 date = "2013-05-26"
 album = "BEST OF WiNG"
@@ -995,7 +995,7 @@ tracks = [
     [23, "rimmed with sugar", "うさ", 0],
     [24, "Come Now The Screame", "謎の人物K", 0],
     [25, "MOONLIGHT？ 超イイネ！", "桃箱", 0],
-    [26, "Prominence of GOD", "桃箱", 0],
+    [26, "Prominence of GOD", "桃箱", 1],
     [27, "FROZEN WiNG", "3L", 0],
     [28, "3×3×3mの女の子", "ななひら", 0],
     [29, "Ephemeral", "坂上なち", 0],
@@ -1029,7 +1029,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a02765a2-b69d-4350-834d-e1be2e4fe8b8", "https://vgmdb.net/album/39419"]
 
-[749f35db142d4bb82f9cf460308c2c3d]
+[5645f6153a8d756ad9eddd5cff0dc894]
 catalognumber = "DWCD-0008"
 date = "2013-05-26"
 album = "BEST OF WiNG Arrangement, Vocal"
@@ -1043,7 +1043,7 @@ tracks = [
     [7, "rimmed with sugar", "うさ", 0],
     [8, "Come Now The Screame", "謎の人物K", 0],
     [9, "MOONLIGHT? 超イイネ!", "桃箱", 0],
-    [10, "Prominence of GOD", "桃箱", 0],
+    [10, "Prominence of GOD", "桃箱", 1],
     [11, "FROZEN WiNG", "3L", 0],
     [12, "3×3×3mの女の子", "ななひら", 0],
     [13, "Ephemeral", "坂上なち", 0],
@@ -1082,7 +1082,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/757cf762-aa36-4df6-a63c-779ce9470957", "https://vgmdb.net/album/40858", "https://www.dojin-music.info/cd/13755"]
 
-[513ae50a6724e2c166243ff2cdb677fc]
+[6db959e1a23e95b98b31fb07cdd8e90b]
 catalognumber = "KTHT-0020"
 date = "2013-08-12"
 album = "ももいろHoliday / SHAKING PINK"
@@ -1090,13 +1090,13 @@ tracks = [
     [1, "とりぷるx3ゴキゲン中飛車⇒OHTE & DASH!!!", "SHAKING PINK", 0],
     [2, "We are SHAKING PINK！", "SHAKING PINK", 0],
     [3, "ふしぎとステキのティーパーティー", "SHAKING PINK", 0],
-    [4, "ゴー！ホー！ロリ しぇいぴMIX", "SHAKING PINK", 0],
+    [4, "ゴー！ホー！ロリ しぇいぴMIX", "SHAKING PINK", 1],
     [5, "休日のひととき（ボイスドラマ）", "SHAKING PINK", 0],
     [6, "ふわり、ピンクの恋", "SHAKING PINK", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2a9aff89-6458-4172-bf43-b7f423f6d404", "https://vgmdb.net/album/40645", "https://www.dojin-music.info/cd/5641"]
 
-[e768c05bf7d6e88f3d9f0066864e0691]
+[beee46387186ccffcfbfa0e7911b4574]
 catalognumber = "DMPCD-006"
 date = "2013-08-12"
 album = "電波CHU×違法"
@@ -1104,12 +1104,12 @@ tracks = [
     [1, "CHU＊LIP", "ちぃむdmp☆", 0],
     [2, "トキメキエンザ流行中♪", "ちぃむdmp☆", 0],
     [3, "クノイチでも恋がしたい", "ちぃむdmp☆", 0],
-    [4, "げつようじょのうた", "ちぃむdmp☆", 0],
+    [4, "げつようじょのうた", "ちぃむdmp☆", 1],
     [5, "Perfect Dreamer", "ちぃむdmp☆", 0],
     [6, "さくらんぼ旅館は移転しました", "ちぃむdmp☆", 0],
     [7, "ハニカミウサギ", "ちぃむdmp☆", 0],
     [8, "幸せになれる隠しコマンドがあるらしい", "ちぃむdmp☆", 0],
-    [9, "ゴー!ホー!ロリ", "ちぃむdmp☆", 0],
+    [9, "ゴー!ホー!ロリ", "ちぃむdmp☆", 1],
     [10, "専属メイド☆宣言", "ちぃむdmp☆", 0],
     [11, "One Summer's Day", "ちぃむdmp☆", 0],
     [12, "ジュウナンザイのうた。～オルゴールVER", "ちぃむdmp☆", 0],
@@ -1184,72 +1184,72 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6411"]
 
-[d5fbf1aad042173c0df8e0c03a9e4407]
+[e8b6089b1f155d00e1ef6186fe11b164]
 catalognumber = "MMBK-001"
 date = "2013-08-12"
 album = "mofumofu"
 tracks = [
-    [1, "ドレミファロンド", "桃箱", 0],
-    [2, "恋するうさぎのひとやすみ", "桃箱", 0],
-    [3, "我☆猛獣ちゃんなり（`・ω・´）＜にゃー", "桃箱", 0],
-    [4, "セクシーキャットレディ", "桃箱", 0],
-    [5, "起きなきゃコケッコー", "桃箱", 0],
-    [6, "ぼくはくま", "桃箱", 0],
-    [7, "ササクレパンダ", "桃箱", 0],
-    [8, "モフモフごっこ (ボイスドラマ)", "桃箱", 0],
-    [9, "もしもしモフモフ (ボイスドラマ)", "桃箱", 0],
-    [10, "まだ寝ないもん！ (ボイスドラマ)", "桃箱", 0],
+    [1, "ドレミファロンド", "桃箱", 2],
+    [2, "恋するうさぎのひとやすみ", "桃箱", 1],
+    [3, "我☆猛獣ちゃんなり（`・ω・´）＜にゃー", "桃箱", 1],
+    [4, "セクシーキャットレディ", "桃箱", 1],
+    [5, "起きなきゃコケッコー", "桃箱", 1],
+    [6, "ぼくはくま", "桃箱", 1],
+    [7, "ササクレパンダ", "桃箱", 1],
+    [8, "モフモフごっこ (ボイスドラマ)", "桃箱", 1],
+    [9, "もしもしモフモフ (ボイスドラマ)", "桃箱", 1],
+    [10, "まだ寝ないもん！ (ボイスドラマ)", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3d810bb0-0065-4f65-8d1e-628afd6d4984", "https://vgmdb.net/album/40808", "https://www.dojin-music.info/cd/7843"]
 
-[f2f90cb70e306ec3372dacab17cc5d12]
+[51877e145d6343245a26bd5edf9f627f]
 catalognumber = ""
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
 tracks = [
-    [1, "かくれんぼごっこ（/ω＼）", "桃箱 ななひら", 0],
-    [2, "Ping pong Girl's", "桃箱 ななひら", 0],
-    [3, "らびゅ！青春ロケット", "桃箱 ななひら", 0],
-    [4, "えんどれす☆冒険Day!", "桃箱 ななひら", 0],
-    [5, "ラブ♥ふぁくとりー", "桃箱 ななひら", 0],
-    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "桃箱 ななひら", 0],
+    [1, "かくれんぼごっこ（/ω＼）", "桃箱 ななひら", 1],
+    [2, "Ping pong Girl's", "桃箱 ななひら", 1],
+    [3, "らびゅ！青春ロケット", "桃箱 ななひら", 1],
+    [4, "えんどれす☆冒険Day!", "桃箱 ななひら", 1],
+    [5, "ラブ♥ふぁくとりー", "桃箱 ななひら", 1],
+    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "桃箱 ななひら", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5680"]
 
-[4cb17d4158470039e6a013e0b86d4517]
+[0d43d0883ab2765c4495382fc5387a1a]
 catalognumber = "NNMM-002"
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！ / 桃箱＆ななひら"
 tracks = [
-    [1, "かくれんぼごっこ（/ω＼）", "", 0],
-    [2, "Ping pong Girl's", "", 0],
-    [3, "らびゅ！青春ロケット", "", 0],
-    [4, "えんどれす☆冒険Day!", "", 0],
-    [5, "ラブ♥ふぁくとりー", "", 0],
-    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "", 0],
-    [7, "ある日のももなな（ボイスドラマ）", "", 0],
-    [8, "ももななラジオ☆（ボイスドラマ）", "", 0],
-    [9, "ごろごろにゃんこ（ボイスドラマ）", "", 0],
-    [10, "３分間数えるだけ☆（ボイスドラマ？）", "", 0],
+    [1, "かくれんぼごっこ（/ω＼）", "", 1],
+    [2, "Ping pong Girl's", "", 1],
+    [3, "らびゅ！青春ロケット", "", 1],
+    [4, "えんどれす☆冒険Day!", "", 1],
+    [5, "ラブ♥ふぁくとりー", "", 1],
+    [6, "ワンダフル オブ ザ・ワールド - ticktack -", "", 1],
+    [7, "ある日のももなな（ボイスドラマ）", "", 1],
+    [8, "ももななラジオ☆（ボイスドラマ）", "", 1],
+    [9, "ごろごろにゃんこ（ボイスドラマ）", "", 1],
+    [10, "３分間数えるだけ☆（ボイスドラマ？）", "", 1],
 ]
 links = ["https://vgmdb.net/album/138269"]
 
-[b61996e5cfb31185564e2a175a0fb170]
+[cbf5725d11475813efcebf6f8b8a3423]
 catalognumber = "M&N 002"
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
 tracks = [
-    [1, "かくれんぼごっこ（/ω＼）", "桃箱&ななひら", 0],
-    [2, "Ping pong Girl's", "桃箱&ななひら", 0],
-    [3, "らびゅ！青春ロケット", "桃箱&ななひら", 0],
-    [4, "えんどれす☆冒険Day!", "桃箱&ななひら", 0],
-    [5, "ラブ♥ふぁくとりー", "桃箱&ななひら", 0],
-    [6, "ワンダフル オブ ザ・ワールド - ticktack", "桃箱&ななひら", 0],
-    [7, "ある日のももなな（ボイスドラマ）", "桃箱&ななひら", 0],
-    [8, "ももななラジオ☆（ボイスドラマ）", "桃箱&ななひら", 0],
-    [9, "ごろごろにゃんこ（ボイスドラマ）", "桃箱&ななひら", 0],
-    [10, "３分間数えるだけ☆（ボイスドラマ？）", "桃箱&ななひら", 0],
-    [11, "ちっちゃいのっ！", "桃箱Xななひら", 0],
+    [1, "かくれんぼごっこ（/ω＼）", "桃箱&ななひら", 1],
+    [2, "Ping pong Girl's", "桃箱&ななひら", 1],
+    [3, "らびゅ！青春ロケット", "桃箱&ななひら", 1],
+    [4, "えんどれす☆冒険Day!", "桃箱&ななひら", 2],
+    [5, "ラブ♥ふぁくとりー", "桃箱&ななひら", 1],
+    [6, "ワンダフル オブ ザ・ワールド - ticktack", "桃箱&ななひら", 1],
+    [7, "ある日のももなな（ボイスドラマ）", "桃箱&ななひら", 1],
+    [8, "ももななラジオ☆（ボイスドラマ）", "桃箱&ななひら", 1],
+    [9, "ごろごろにゃんこ（ボイスドラマ）", "桃箱&ななひら", 1],
+    [10, "３分間数えるだけ☆（ボイスドラマ？）", "桃箱&ななひら", 1],
+    [11, "ちっちゃいのっ！", "桃箱Xななひら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d72e408-03f1-4bb3-9e17-1f15d411094d"]
 
@@ -1292,22 +1292,22 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b053db2e-a6d6-4a77-9bcc-e2d74e9aa2f9", "https://vgmdb.net/album/43210", "https://www.dojin-music.info/cd/5630"]
 
-[9b9a7123abcc4034d31cb809c1e58929]
+[c33b2b6a626638fcf5d46356b33459df]
 catalognumber = "MMBK-002"
 date = "2013-12-31"
 album = "ぴぃちぼっくす"
 tracks = [
-    [1, "激アマ・わんでぃ・でーと！！", "桃箱", 0],
-    [2, "呪いのススメ", "桃箱", 0],
-    [3, "見習いサンタ、苦労す。", "桃箱", 0],
-    [4, "だって僕は男の娘♪", "桃箱", 0],
-    [5, "フル活用っアドバンテージ", "桃箱", 0],
-    [6, "白衣の天使があなたのお悩みにお答えします", "桃箱", 0],
-    [7, "Meganegirl☆☆☆", "桃箱", 0],
-    [8, "memories", "桃箱", 0],
-    [9, "先輩ア･ラ･モード", "桃箱", 0],
-    [10, "Magical Cosmetic", "桃箱", 0],
-    [11, "画面からね出るなんて、無理っ！", "桃箱", 0],
+    [1, "激アマ・わんでぃ・でーと！！", "桃箱", 1],
+    [2, "呪いのススメ", "桃箱", 1],
+    [3, "見習いサンタ、苦労す。", "桃箱", 1],
+    [4, "だって僕は男の娘♪", "桃箱", 1],
+    [5, "フル活用っアドバンテージ", "桃箱", 2],
+    [6, "白衣の天使があなたのお悩みにお答えします", "桃箱", 1],
+    [7, "Meganegirl☆☆☆", "桃箱", 1],
+    [8, "memories", "桃箱", 2],
+    [9, "先輩ア･ラ･モード", "桃箱", 1],
+    [10, "Magical Cosmetic", "桃箱", 1],
+    [11, "画面からね出るなんて、無理っ！", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6180fd22-3f60-4e45-821b-8b0dfd03c062", "https://vgmdb.net/album/43106", "https://www.dojin-music.info/cd/7842"]
 
@@ -1345,19 +1345,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24793"]
 
-[acac291fba92b81a635ac0d0c37a3ffc]
+[8a1b170e02442777b1391c60e0b30563]
 catalognumber = "MMBK-003"
 date = "2014-04-27"
 album = "ふあふあガールフレンド(仮)"
 tracks = [
-    [1, "Let's go to school！", "ちぃむdmp☆", 0],
-    [2, "フレンチ★KiSS desuyo.", "ちぃむdmp☆", 0],
-    [3, "パッカパカーン☆マーチ～頭パッカーンしちゃいます？～", "ちぃむdmp☆", 0],
-    [4, "フルーツパニック", "ちぃむdmp☆", 0],
-    [5, "Honey Time", "ちぃむdmp☆", 0],
-    [6, "きのこFREEDOM！！", "ちぃむdmp☆", 0],
-    [7, "先生はいつも大変", "ちぃむdmp☆", 0],
-    [8, "Let's go to school！（instrumental ending）", "ちぃむdmp☆", 0],
+    [1, "Let's go to school！", "ちぃむdmp☆", 2],
+    [2, "フレンチ★KiSS desuyo.", "ちぃむdmp☆", 1],
+    [3, "パッカパカーン☆マーチ～頭パッカーンしちゃいます？～", "ちぃむdmp☆", 1],
+    [4, "フルーツパニック", "ちぃむdmp☆", 1],
+    [5, "Honey Time", "ちぃむdmp☆", 1],
+    [6, "きのこFREEDOM！！", "ちぃむdmp☆", 1],
+    [7, "先生はいつも大変", "ちぃむdmp☆", 1],
+    [8, "Let's go to school！（instrumental ending）", "ちぃむdmp☆", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/02bb4d69-19eb-4d86-8e04-8e88874ef6e8", "https://vgmdb.net/album/49820", "https://www.dojin-music.info/cd/6861"]
 
@@ -1410,7 +1410,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/15368"]
 
-[854f9f55e5bee3a1a0bce3f64f631ae4]
+[d8cd828f8d9a574fd72e243a289e5808]
 catalognumber = "KTHT-0024"
 date = "2014-08-17"
 album = "プチリズム キュン！"
@@ -1422,7 +1422,7 @@ tracks = [
     [5, "みらいルート", "muhmue feat. ココ", 0],
     [6, "ハートきゅうんっと☆TELEPATHYYYYY!!", "まろん feat. ゆきまめ", 0],
     [7, "テイク・イット・イージー", "Clean Tears feat. まめこ", 0],
-    [8, "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～", "かめりあ feat. miko", 0],
+    [8, "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～", "かめりあ feat. miko", 1],
     [9, "つうほうしちゃうぞ！", "かたほとり feat. なつき/ねこめ/ほたる（おでんぱ☆スタジオ）", 0],
     [10, "ちあぷり！", "柏木るざりん feat. ななひら", 0],
 ]
@@ -1494,26 +1494,26 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/15367"]
 
-[44e7d33c14a53601feff605e2e3df650]
+[f9d1a38fbffd155ef1a838194a517f9c]
 catalognumber = "MMBK-004"
 date = "2014-12-30"
 album = "箱入りむちゅめ"
 tracks = [
-    [1, "俺の嫁〜Mai Waifu is SAIKO!!〜", "桃箱", 0],
-    [2, "オタサーの姫みたいな女の子って大体こんな感じでしょ？", "桃箱", 0],
-    [3, "ファイティングもふもふ", "桃箱", 0],
-    [4, "おまわりさんはやくっ このひとロリコンですっ！", "桃箱", 0],
-    [5, "悪徳カメコさん 死刑☆撲滅☆滅亡", "桃箱", 0],
-    [6, "ベスパに乗って", "桃箱", 0],
-    [7, "たかし", "桃箱", 0],
-    [8, "げつようじょのうた", "桃箱", 0],
-    [9, "紺子ちゃんのSoup Curry’s 神威伝8", "桃箱", 0],
-    [10, "出社して目が覚めて金曜日上司に言われます！", "桃箱", 0],
-    [11, "ふわふわ マシュマロハート (Live ver.)", "桃箱", 0],
+    [1, "俺の嫁〜Mai Waifu is SAIKO!!〜", "桃箱", 1],
+    [2, "オタサーの姫みたいな女の子って大体こんな感じでしょ？", "桃箱", 1],
+    [3, "ファイティングもふもふ", "桃箱", 1],
+    [4, "おまわりさんはやくっ このひとロリコンですっ！", "桃箱", 1],
+    [5, "悪徳カメコさん 死刑☆撲滅☆滅亡", "桃箱", 1],
+    [6, "ベスパに乗って", "桃箱", 1],
+    [7, "たかし", "桃箱", 1],
+    [8, "げつようじょのうた", "桃箱", 1],
+    [9, "紺子ちゃんのSoup Curry’s 神威伝8", "桃箱", 1],
+    [10, "出社して目が覚めて金曜日上司に言われます！", "桃箱", 1],
+    [11, "ふわふわ マシュマロハート (Live ver.)", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a72f629-b009-436a-946b-f98e3da0f169", "https://vgmdb.net/album/49821", "https://www.dojin-music.info/cd/6860"]
 
-[c5f4f976042e027f566247ce117cd02a]
+[e4e9840eae955743a3937514125fe5d9]
 catalognumber = "KTHT-0025"
 date = "2014-12-30"
 album = "プチリズム。-finale-"
@@ -1523,7 +1523,7 @@ tracks = [
     [3, "Cutest☆Holiday Date", "99", 0],
     [4, "すき…ってゆうてや！", "なゆ", 0],
     [5, "Stand Up！ ぎゅっとUp！", "保科めぐみ", 0],
-    [6, "グンマー☆ ザ ミラクル", "溝口ゆうま", 0],
+    [6, "グンマー☆ ザ ミラクル", "溝口ゆうま", 1],
     [7, "ぺこりぺこられマイワールド", "ぺこる", 0],
     [8, "シンチョクダメデス。", "ななひら", 0],
     [9, "インフィニティレース", "愛原圭織", 0],
@@ -1547,17 +1547,17 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5626"]
 
-[b6510fd1dd5d6c92d1ba35564050cda6]
+[28c33b88f9e7d722c311bb6541639cf2]
 catalognumber = "mmmr-001"
 date = "2015-04-26"
 album = "ぷちもも"
 tracks = [
-    [1, "絶対占領♡My幼稚園！", "桃箱", 0],
-    [2, "高等遊民☆お姉ちゃん", "桃箱", 0],
-    [3, "T.K.G. ～丑三つ時バトル1～", "桃箱", 0],
-    [4, "おしえて♥︎箱入り娘♥︎", "桃箱", 0],
-    [5, "SHO☆U☆GA", "桃箱", 0],
-    [6, "たかし -永遠にたかしver.-", "桃箱", 0],
+    [1, "絶対占領♡My幼稚園！", "桃箱", 1],
+    [2, "高等遊民☆お姉ちゃん", "桃箱", 1],
+    [3, "T.K.G. ～丑三つ時バトル1～", "桃箱", 2],
+    [4, "おしえて♥︎箱入り娘♥︎", "桃箱", 1],
+    [5, "SHO☆U☆GA", "桃箱", 1],
+    [6, "たかし -永遠にたかしver.-", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2653966-08a2-4579-8f17-550d7ded1f2e", "https://www.dojin-music.info/cd/6349"]
 
@@ -1577,21 +1577,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84736b85-3aa7-4698-86bb-e2f03729ade4", "https://vgmdb.net/album/68164", "https://www.dojin-music.info/cd/10852"]
 
-[ea3a9563f71e46171575d2a50d2aa84a]
+[4853355c1298358146b2ed964be3f2a9]
 catalognumber = "BKMK-001"
 date = "2015-08-16"
 album = "ろりぽっぷちゅ♥"
 tracks = [
-    [1, "パステルマジックシャワー", "桃箱 & miko", 0],
-    [2, "強敵！あにまる系ガールズ", "桃箱 & miko", 0],
-    [3, "スプラッシュ！！", "桃箱 & miko", 0],
-    [4, "mikoお姉さんがただお料理をしているだけの歌。", "桃箱 & miko", 0],
-    [5, "さにーふぁにー☆SummerDay", "桃箱 & miko", 0],
-    [6, "ようじょ混入、逃走中。", "桃箱 & miko", 0],
-    [7, "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～", "かめりあ feat. miko", 0],
-    [8, "グンマー ☆ ザ ミラクル", "溝口ゆうま", 0],
-    [9, "バブみぃ♥Ｂａｂｙ ～ありのままにロリのママに～", "桃箱 & miko", 0],
-    [10, "私達の目指すアイディアル", "桃箱 & miko", 0],
+    [1, "パステルマジックシャワー", "桃箱 & miko", 1],
+    [2, "強敵！あにまる系ガールズ", "桃箱 & miko", 1],
+    [3, "スプラッシュ！！", "桃箱 & miko", 1],
+    [4, "mikoお姉さんがただお料理をしているだけの歌。", "桃箱 & miko", 1],
+    [5, "さにーふぁにー☆SummerDay", "桃箱 & miko", 1],
+    [6, "ようじょ混入、逃走中。", "桃箱 & miko", 1],
+    [7, "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～", "かめりあ feat. miko", 1],
+    [8, "グンマー ☆ ザ ミラクル", "溝口ゆうま", 1],
+    [9, "バブみぃ♥Ｂａｂｙ ～ありのままにロリのママに～", "桃箱 & miko", 1],
+    [10, "私達の目指すアイディアル", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/37d402c4-1441-478e-89aa-0f1691760b07", "https://www.dojin-music.info/cd/6863"]
 
@@ -1632,21 +1632,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cde51755-70bc-421e-abde-06e2f372c000", "https://vgmdb.net/album/108503", "https://www.dojin-music.info/cd/6553"]
 
-[acb8b496c127cf63529aa3355bc068a3]
+[0d6f3d9d94cde26f33fe70b38d180ac8]
 catalognumber = "BKMK-002"
 date = "2015-10-25"
 album = "ろりぽっぷちゅうぉーぢゅ"
 tracks = [
-    [1, "乙女未満恋愛シンドローム", "桃箱 & miko", 0],
-    [2, "ワレワレハオンナノコ", "桃箱 & miko", 0],
-    [3, "すごいプリティやんちゃスパイ", "桃箱 & miko", 0],
-    [4, "暴れん坊しょうがくせい", "桃箱 & miko", 0],
-    [5, "やきそばパンウォーズ", "桃箱 & miko", 0],
-    [6, "Happy Day", "桃箱 & miko", 0],
-    [7, "ろりぽっぷ☆うぉーず", "桃箱 & miko", 0],
-    [8, "高等遊民☆お姉ちゃん番外編～幼女とはどんなものかしら～", "桃箱 & miko", 0],
-    [9, "おねえちゃん幼女になる", "桃箱 & miko", 0],
-    [10, "高等遊民よ永遠に～そして伝説へ～", "桃箱 & miko", 0],
+    [1, "乙女未満恋愛シンドローム", "桃箱 & miko", 1],
+    [2, "ワレワレハオンナノコ", "桃箱 & miko", 1],
+    [3, "すごいプリティやんちゃスパイ", "桃箱 & miko", 1],
+    [4, "暴れん坊しょうがくせい", "桃箱 & miko", 1],
+    [5, "やきそばパンウォーズ", "桃箱 & miko", 1],
+    [6, "Happy Day", "桃箱 & miko", 1],
+    [7, "ろりぽっぷ☆うぉーず", "桃箱 & miko", 1],
+    [8, "高等遊民☆お姉ちゃん番外編～幼女とはどんなものかしら～", "桃箱 & miko", 1],
+    [9, "おねえちゃん幼女になる", "桃箱 & miko", 1],
+    [10, "高等遊民よ永遠に～そして伝説へ～", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1092fe93-5d69-418d-97df-af55c5fa647e", "https://www.dojin-music.info/cd/6862"]
 
@@ -1727,22 +1727,22 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6348"]
 
-[57d393952df4adef40c8c73e4123c4e3]
+[8082af6c0f884426bef1114188960f98]
 catalognumber = ""
 date = "2015-12-31"
 album = "vanillamiumiu"
 tracks = [
-    [1, "起きない。", "桃箱", 0],
-    [2, "スイート＆ストロベリー", "桃箱", 0],
-    [3, "フルーツパニック～ドリアンver～", "桃箱", 0],
-    [4, "なりきれ！オタサーの姫", "桃箱", 0],
-    [5, "kotatsuでだぁりん", "桃箱", 0],
-    [6, "壁ドン☆パラダイス", "桃箱", 0],
-    [7, "天才博識☆ももちゃん", "桃箱", 0],
-    [8, "ろりあつめ", "桃箱", 0],
-    [9, "MIU☆MIU☆MIU", "桃箱", 0],
-    [10, "そうだね、うん。", "桃箱", 0],
-    [11, "乙女magic☆☆☆", "桃箱", 0],
+    [1, "起きない。", "桃箱", 1],
+    [2, "スイート＆ストロベリー", "桃箱", 1],
+    [3, "フルーツパニック～ドリアンver～", "桃箱", 1],
+    [4, "なりきれ！オタサーの姫", "桃箱", 1],
+    [5, "kotatsuでだぁりん", "桃箱", 1],
+    [6, "壁ドン☆パラダイス", "桃箱", 1],
+    [7, "天才博識☆ももちゃん", "桃箱", 1],
+    [8, "ろりあつめ", "桃箱", 1],
+    [9, "MIU☆MIU☆MIU", "桃箱", 1],
+    [10, "そうだね、うん。", "桃箱", 1],
+    [11, "乙女magic☆☆☆", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2017560e-8bdd-4a9e-a9c4-c8ab099f14bd", "https://www.dojin-music.info/cd/6859"]
 
@@ -1762,19 +1762,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/de3bc4a9-2cb5-49a4-a7c4-8637a5d42b16", "https://vgmdb.net/album/127363", "https://www.dojin-music.info/cd/5650"]
 
-[9adc4acf00ae68944477fb5e9de314d0]
+[5f79980b56a2fa8135da380dfb0a2fc6]
 catalognumber = ""
 date = "2016-04-24"
 album = "meltyholic"
 tracks = [
-    [1, "あにめるもん！", "桃箱 miko（藤咲かりん）", 0],
-    [2, "女の子・ディスコ", "桃箱 miko（藤咲かりん）", 0],
-    [3, "ユメカワ社畜ガール", "桃箱 miko（藤咲かりん）", 0],
-    [4, "完全☆健全☆ろりばBAR", "桃箱 miko（藤咲かりん）", 0],
-    [5, "ちゅ→ちゅ→汽車☆POPPO", "桃箱 miko（藤咲かりん）", 0],
-    [6, "Time machine", "桃箱 miko（藤咲かりん）", 0],
-    [7, "千本桜", "桃箱 miko（藤咲かりん）", 0],
-    [8, "たかし２", "桃箱 miko（藤咲かりん）", 0],
+    [1, "あにめるもん！", "桃箱 miko（藤咲かりん）", 1],
+    [2, "女の子・ディスコ", "桃箱 miko（藤咲かりん）", 1],
+    [3, "ユメカワ社畜ガール", "桃箱 miko（藤咲かりん）", 1],
+    [4, "完全☆健全☆ろりばBAR", "桃箱 miko（藤咲かりん）", 1],
+    [5, "ちゅ→ちゅ→汽車☆POPPO", "桃箱 miko（藤咲かりん）", 1],
+    [6, "Time machine", "桃箱 miko（藤咲かりん）", 1],
+    [7, "千本桜", "桃箱 miko（藤咲かりん）", 1],
+    [8, "たかし２", "桃箱 miko（藤咲かりん）", 1],
 ]
 links = ["https://www.dojin-music.info/cd/6869"]
 
@@ -1821,20 +1821,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33b846ac-e802-4159-b6e3-b248a9830755", "https://vgmdb.net/album/65966", "https://www.dojin-music.info/cd/5675"]
 
-[ce3e5a0b52ce58bb32723c25920026e9]
+[3a72ac9409766ddfe5ea78c5a5b3c273]
 catalognumber = "MKMK-004"
 date = "2016-08-14"
 album = "みるきゅりんく"
 tracks = [
-    [1, "あにめるもん～宇宙Ver～", "桃箱 & miko", 0],
-    [2, "ピュアピュアピュアリー！ラブアンドファイト", "桃箱 & miko", 0],
-    [3, "デコれ！！メルカワガール", "桃箱 & miko", 0],
-    [4, "ゆめかわ☆ナースちゃん", "桃箱 & miko", 0],
-    [5, "プチギレCat☆Fight", "桃箱 & miko", 0],
-    [6, "国民的ろりコンテストのうた", "桃箱 & miko", 0],
-    [7, "サインポスト", "桃箱 & miko", 0],
-    [8, "遥かなるセレナーデ", "桃箱 & miko", 0],
-    [9, "服を買いに行く服が無いからウェディングドレス買っちゃったてへぺろ♡～色めがねでみないでよ", "桃箱 & miko", 0],
+    [1, "あにめるもん～宇宙Ver～", "桃箱 & miko", 1],
+    [2, "ピュアピュアピュアリー！ラブアンドファイト", "桃箱 & miko", 1],
+    [3, "デコれ！！メルカワガール", "桃箱 & miko", 1],
+    [4, "ゆめかわ☆ナースちゃん", "桃箱 & miko", 1],
+    [5, "プチギレCat☆Fight", "桃箱 & miko", 1],
+    [6, "国民的ろりコンテストのうた", "桃箱 & miko", 1],
+    [7, "サインポスト", "桃箱 & miko", 1],
+    [8, "遥かなるセレナーデ", "桃箱 & miko", 1],
+    [9, "服を買いに行く服が無いからウェディングドレス買っちゃったてへぺろ♡～色めがねでみないでよ", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a8f6c65c-9a8e-4696-b3e8-9bf7259b6fce", "https://www.dojin-music.info/cd/6347"]
 
@@ -1855,30 +1855,30 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5622"]
 
-[cf6ed3e73659bad27f3dace5e221fa71]
+[e9c8b19f4408dde331fccb9f1cf6ca46]
 catalognumber = ""
 date = "2016-10-30"
 album = "HONEY♥HONEY"
 tracks = [
-    [1, "HONEY♡HONEY", "桃箱 & miko", 0],
-    [2, "プチっ☆とシソデレラ", "桃箱 & miko", 0],
-    [3, "終末 バージン ロード", "桃箱 & miko", 0],
+    [1, "HONEY♡HONEY", "桃箱 & miko", 1],
+    [2, "プチっ☆とシソデレラ", "桃箱 & miko", 1],
+    [3, "終末 バージン ロード", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0dab78a6-35ec-4ab9-8a8a-433788b42cc5", "https://www.dojin-music.info/cd/6346"]
 
-[1494693f7efbebeff96d63889872767c]
+[6f0050f403265e5d13d24bb4a2f75ce4]
 catalognumber = ""
 date = "2016-10-30"
 album = "candy box"
 tracks = [
     [1, "Twinkling GIRL", "U-ske", 0],
-    [2, "強敵！あにまる系ガールズ", "桃箱 miko（藤咲かりん）", 0],
+    [2, "強敵！あにまる系ガールズ", "桃箱 miko（藤咲かりん）", 1],
     [3, "おねがい！らぶまじっく☆", "ななひら", 0],
     [4, "キミナビゲ→ション", "なゆ ゆきまめ", 0],
     [5, "ダニエルは女の子です！", "ななひら", 0],
     [6, "わがままドルミール", "すずしろ", 0],
     [7, "カフェ・アプランティ", "まめこ", 0],
-    [8, "スイート＆ストロベリー", "桃箱", 0],
+    [8, "スイート＆ストロベリー", "桃箱", 1],
     [9, "わがままドルミール (haru_naba Remix)", "remix：はるなば", 0],
     [10, "ダニエルは女の子です！ (90's portable pop mix)", "remix：wigen", 0],
 ]
@@ -1933,19 +1933,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f17ea629-b592-4db5-a0f2-efe320175801", "https://vgmdb.net/album/71002"]
 
-[59ea6e23897700e931777003570893cf]
+[1eb6fed456bf6b7ded3f851a56a76ed8]
 catalognumber = "mkmk-005"
 date = "2016-12-31"
 album = "はぴねすア・ラ・モード"
 tracks = [
-    [1, "ラビニューラビット", "桃箱 & miko", 0],
-    [2, "ノーチートxイリュージョン", "桃箱 & miko", 0],
-    [3, "カラフル・ポップ・キャンディ", "桃箱 & miko", 0],
-    [4, "お客様は神様です！", "桃箱 & miko", 0],
-    [5, "ミラクル☆エディット", "桃箱 & miko", 0],
-    [6, "miko箱のしあわせロリ婚せーかつ", "桃箱 & miko", 0],
-    [7, "アイアムスーパーダイエッター", "桃箱 & miko", 0],
-    [8, "オタサーの姫って巷じゃ言うけどそれって実質リア充だよね？", "桃箱 & miko", 0],
+    [1, "ラビニューラビット", "桃箱 & miko", 2],
+    [2, "ノーチートxイリュージョン", "桃箱 & miko", 1],
+    [3, "カラフル・ポップ・キャンディ", "桃箱 & miko", 1],
+    [4, "お客様は神様です！", "桃箱 & miko", 1],
+    [5, "ミラクル☆エディット", "桃箱 & miko", 1],
+    [6, "miko箱のしあわせロリ婚せーかつ", "桃箱 & miko", 1],
+    [7, "アイアムスーパーダイエッター", "桃箱 & miko", 1],
+    [8, "オタサーの姫って巷じゃ言うけどそれって実質リア充だよね？", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2de70346-d998-4c36-ab19-fb73bc2a0666", "https://www.dojin-music.info/cd/6345"]
 
@@ -2163,15 +2163,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6e72564-50a9-4f4c-9075-c758639e318c", "https://vgmdb.net/album/139202", "https://www.dojin-music.info/cd/6552"]
 
-[be2ce6089a1dffc034a8ddb1e7b0a2a5]
+[f2382bc721ed56f1c07fc1c94a5dbbf0]
 catalognumber = ""
 date = "2017-04-30"
 album = "走馬灯ラビリンス"
 tracks = [
-    [1, "走馬灯ラビリンス", "Yunomi with 桃箱 & miko", 0],
-    [2, "後遺症ロマンス", "Yunomi with 桃箱 & miko", 0],
-    [3, "走馬灯ラビリンス [Instrumental]", "Yunomi with 桃箱 & miko", 0],
-    [4, "後遺症ロマンス [Instrumental]", "Yunomi with 桃箱 & miko", 0],
+    [1, "走馬灯ラビリンス", "Yunomi with 桃箱 & miko", 1],
+    [2, "後遺症ロマンス", "Yunomi with 桃箱 & miko", 1],
+    [3, "走馬灯ラビリンス [Instrumental]", "Yunomi with 桃箱 & miko", 1],
+    [4, "後遺症ロマンス [Instrumental]", "Yunomi with 桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d6593d27-f06a-4d56-a4d9-f664c4673d39"]
 
@@ -2189,25 +2189,25 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e4e0b05a-01df-4e5d-af4e-d479cfc83780", "https://vgmdb.net/album/91171"]
 
-[5c15d3dceeea4c803cb231cc04d6bfe2]
+[99b257feb723c71f3a994f42b6c650d4]
 catalognumber = ""
 date = "2017-04-30"
 album = "Metal Passion"
 tracks = [
-    [1, "Metal Passion", "桃箱", 0],
-    [2, "100 Eggs", "桃箱", 0],
+    [1, "Metal Passion", "桃箱", 1],
+    [2, "100 Eggs", "桃箱", 1],
 ]
 links = ["https://www.dojin-music.info/cd/10174"]
 
-[e5274a4e543b03328f506f2b2231a5ed]
+[d5afe1f7a9d7622a1882af04550af95b]
 catalognumber = "MMYK-0001"
 date = "2017-04-30"
 album = "走馬灯ラビリンス"
 tracks = [
-    [1, "走馬灯ラビリンス", "Yunomi with 桃箱 & miko", 0],
-    [2, "後遺症ロマンス", "Yunomi with 桃箱 & miko", 0],
-    [3, "走馬灯ラビリンス(inst.)", "Yunomi with 桃箱 & miko", 0],
-    [4, "後遺症ロマンス(inst.)", "Yunomi with 桃箱 & miko", 0],
+    [1, "走馬灯ラビリンス", "Yunomi with 桃箱 & miko", 1],
+    [2, "後遺症ロマンス", "Yunomi with 桃箱 & miko", 1],
+    [3, "走馬灯ラビリンス(inst.)", "Yunomi with 桃箱 & miko", 1],
+    [4, "後遺症ロマンス(inst.)", "Yunomi with 桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f23ef37-be8f-43c3-9c61-8a79edf4d8a6", "https://www.dojin-music.info/cd/5885"]
 
@@ -2243,14 +2243,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ff27c763-9400-4d22-abee-e279952b462d", "https://vgmdb.net/album/72909", "https://www.dojin-music.info/cd/12970"]
 
-[cbd17e0d8bf76171b9437c5a2d800c99]
+[708489d844f2f2de9b526c130fa8e6fa]
 catalognumber = ""
 date = "2017-08-11"
 album = "すとろべりーカルテ"
 tracks = [
-    [1, "すとろべりーカルテ", "Yunomi feat. 桃箱", 0],
-    [2, "すとろべりーカルテ [Instrumental]", "Yunomi feat. 桃箱", 0],
-    [3, "すとろべりーカルテ [初音ミク ver.]", "Yunomi feat. 桃箱", 0],
+    [1, "すとろべりーカルテ", "Yunomi feat. 桃箱", 1],
+    [2, "すとろべりーカルテ [Instrumental]", "Yunomi feat. 桃箱", 1],
+    [3, "すとろべりーカルテ [初音ミク ver.]", "Yunomi feat. 桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/23554841-4ec9-42b6-a329-ed8c94287986"]
 
@@ -2272,19 +2272,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06208234-2b8f-4585-a58b-43323cf22613", "https://vgmdb.net/album/135587", "https://www.dojin-music.info/cd/5676"]
 
-[6c3ae8c3ce946153d4045e0ed9cfcca3]
+[b96fd70ecab615d45712b572d9ff995a]
 catalognumber = "MKMK-006"
 date = "2017-08-11"
 album = "恋唄浪漫"
 tracks = [
-    [1, "難所だよ☆miko箱茶屋へおいでませ", "miko & 桃箱", 0],
-    [2, "ありけり！でぃすわーるど", "桃箱 & miko", 0],
-    [3, "すとろべりーカルテ", "桃箱", 0],
-    [4, "しゅりけんぴっぴ", "桃箱 & miko", 0],
-    [5, "メロメロメロン スススススイカ", "桃箱 & miko", 0],
-    [6, "ヒメコイ", "桃箱 & miko", 0],
-    [7, "幼くノ一にんぽう帖", "桃箱 & miko", 0],
-    [8, "のどぐろ祭り", "桃箱 & miko", 0],
+    [1, "難所だよ☆miko箱茶屋へおいでませ", "miko & 桃箱", 1],
+    [2, "ありけり！でぃすわーるど", "桃箱 & miko", 1],
+    [3, "すとろべりーカルテ", "桃箱", 1],
+    [4, "しゅりけんぴっぴ", "桃箱 & miko", 1],
+    [5, "メロメロメロン スススススイカ", "桃箱 & miko", 1],
+    [6, "ヒメコイ", "桃箱 & miko", 1],
+    [7, "幼くノ一にんぽう帖", "桃箱 & miko", 1],
+    [8, "のどぐろ祭り", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ed4ac148-4724-484e-8bfc-2847567d1ffb", "https://www.dojin-music.info/cd/5884"]
 
@@ -2368,15 +2368,15 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5642"]
 
-[9c0b38d253f3c8d5b5847ab9effe02d2]
+[b31675d336c7d7aa89930d90669b2897]
 catalognumber = ""
 date = "2017-10-29"
 album = "曖昧トリップ"
 tracks = [
     [1, "曖昧トリップ", "Yunomi w/ 桃箱 & miko", 0],
-    [2, "夢色パレード", "Yunomi w/ 桃箱 & miko", 0],
+    [2, "夢色パレード", "Yunomi w/ 桃箱 & miko", 1],
     [3, "曖昧トリップ [Instrumental]", "Yunomi w/ 桃箱 & miko", 0],
-    [4, "夢色パレード [Instrumental]", "Yunomi w/ 桃箱 & miko", 0],
+    [4, "夢色パレード [Instrumental]", "Yunomi w/ 桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0c656068-148e-456b-b187-a5883ce782a5", "https://www.dojin-music.info/cd/5883"]
 
@@ -2513,19 +2513,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d5a9c43-0929-4394-b3b7-c4de2ed79229", "https://vgmdb.net/album/91187"]
 
-[31207d7d860f7d5d4aeebb0481df0517]
+[45143f732fed5d03de8929ea13e4a6ec]
 catalognumber = "MKMK-007"
 date = "2017-12-29"
 album = "メモリアメロディ"
 tracks = [
-    [1, "サクラ咲け！～命短し踊れよ乙女～", "桃箱 & miko", 0],
-    [2, "雨降りレイニー", "桃箱 & miko", 0],
-    [3, "旬感☆サマータイム", "桃箱 & miko", 0],
-    [4, "夢でまたあえたらなあ", "桃箱 & miko", 0],
-    [5, "MIKO-BAKO 8BIT＋", "桃箱 & miko", 0],
-    [6, "渋谷 de HALLOWEEN NIGHT!!", "桃箱 & miko", 0],
-    [7, "六花の杜", "桃箱 & miko", 0],
-    [8, "Can't W8 4 Santa!", "桃箱 & miko", 0],
+    [1, "サクラ咲け！～命短し踊れよ乙女～", "桃箱 & miko", 1],
+    [2, "雨降りレイニー", "桃箱 & miko", 2],
+    [3, "旬感☆サマータイム", "桃箱 & miko", 1],
+    [4, "夢でまたあえたらなあ", "桃箱 & miko", 1],
+    [5, "MIKO-BAKO 8BIT＋", "桃箱 & miko", 1],
+    [6, "渋谷 de HALLOWEEN NIGHT!!", "桃箱 & miko", 1],
+    [7, "六花の杜", "桃箱 & miko", 1],
+    [8, "Can't W8 4 Santa!", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/021efa27-92b5-420b-a37d-37fc39600da7", "https://vgmdb.net/album/74980", "https://www.dojin-music.info/cd/5882"]
 
@@ -2576,16 +2576,16 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5616"]
 
-[b026f3a6b6a1dd5aefc758731125e8f6]
+[50146a8b5a7388da12089ec6dfb4a744]
 catalognumber = ""
 date = "2018-04-29"
 album = "和洋せっchu!SAKURA喫茶"
 tracks = [
-    [1, "和洋せっchu!SAKURA喫茶", "桃箱 & miko", 0],
-    [2, "走馬灯ラビリンス(rockver)", "桃箱 & miko", 0],
-    [3, "バイノーラルで和洋せっchu!SAKURA喫茶その１", "桃箱 & miko", 0],
-    [4, "バイノーラルで和洋せっchu!SAKURA喫茶その２", "桃箱 & miko", 0],
-    [5, "バイノーラルで和洋せっchu!SAKURA喫茶その３", "桃箱 & miko", 0],
+    [1, "和洋せっchu!SAKURA喫茶", "桃箱 & miko", 1],
+    [2, "走馬灯ラビリンス(rockver)", "桃箱 & miko", 1],
+    [3, "バイノーラルで和洋せっchu!SAKURA喫茶その１", "桃箱 & miko", 1],
+    [4, "バイノーラルで和洋せっchu!SAKURA喫茶その２", "桃箱 & miko", 1],
+    [5, "バイノーラルで和洋せっchu!SAKURA喫茶その３", "桃箱 & miko", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/31adefd8-bd00-4207-a7d0-d4d13a9b03f6", "https://www.dojin-music.info/cd/5881"]
 
@@ -2623,20 +2623,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7ccbfca0-3c47-4845-aa16-56dcb3d829fe", "https://vgmdb.net/album/89376", "https://www.dojin-music.info/cd/13009"]
 
-[5f44426a189053bb93a6450af43d7eda]
+[f2a7272bfa7fced52effdfe46414ae66]
 catalognumber = ""
 date = "2018-08-10"
 album = "momochan continue"
 tracks = [
-    [1, "SweetBunny", "桃箱", 0],
-    [2, "momochan continue", "桃箱", 0],
-    [3, "夏のおばけちゃん", "桃箱", 0],
-    [4, "すとろべりーカルテ", "桃箱", 0],
-    [5, "ロリポップアリス", "桃箱", 0],
-    [6, "おやすみpeachbox", "桃箱", 0],
-    [7, "ましゅまろギャラクシー！", "桃箱", 0],
-    [8, "夢でまたあえたらなぁ", "桃箱", 0],
-    [9, "それはももちゃんの", "桃箱", 0],
+    [1, "SweetBunny", "桃箱", 1],
+    [2, "momochan continue", "桃箱", 1],
+    [3, "夏のおばけちゃん", "桃箱", 1],
+    [4, "すとろべりーカルテ", "桃箱", 1],
+    [5, "ロリポップアリス", "桃箱", 1],
+    [6, "おやすみpeachbox", "桃箱", 1],
+    [7, "ましゅまろギャラクシー！", "桃箱", 1],
+    [8, "夢でまたあえたらなぁ", "桃箱", 1],
+    [9, "それはももちゃんの", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a63def5-ce3a-48c5-8d87-e0cd76962ca8", "https://www.dojin-music.info/cd/5880"]
 
@@ -2703,15 +2703,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/530bec8f-51a0-4454-b97d-0217bd83db11", "https://vgmdb.net/album/93233", "https://www.dojin-music.info/cd/20806"]
 
-[0b234c199ef94fc999efa14110bf2764]
+[50f9d4d9ce4f4674eadeb151591cdb60]
 catalognumber = ""
 date = "2018-10-30"
 album = "momochan android"
 tracks = [
-    [1, "reCAPTCHA (Instrumental)", "桃箱", 0],
-    [2, "momochan android", "桃箱", 0],
-    [3, "LOVE MB", "桃箱", 0],
-    [4, "ロボティックガール", "桃箱", 0],
+    [1, "reCAPTCHA (Instrumental)", "桃箱", 1],
+    [2, "momochan android", "桃箱", 1],
+    [3, "LOVE MB", "桃箱", 1],
+    [4, "ロボティックガール", "桃箱", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/feb1cdc5-e0f5-4d52-a10d-ee807734a364", "https://www.dojin-music.info/cd/5879"]
 
@@ -2740,19 +2740,19 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5707"]
 
-[9f3f7411bc39c02f458093e118d609ae]
+[91b8a685899010cffcf3b08efe9e188f]
 catalognumber = ""
 date = "2018-12-30"
 album = "ゆのぼっくす"
 tracks = [
-    [1, "すとろべりーカルテ", "桃箱", 0],
-    [2, "マシュマロ・マキアート", "桃箱", 0],
-    [3, "サ・ク・ラ・サ・ク", "桃箱", 0],
-    [4, "夢でまたあえたらなあ（はるなばRemix）", "桃箱", 0],
-    [5, "ロボティックガール（はるなばRemix）", "桃箱", 0],
-    [6, "走馬灯ラビリンス（ソロver）", "桃箱", 0],
-    [7, "曖昧トリップ（ソロver）", "桃箱", 0],
-    [8, "夢色パレード（ソロver）", "桃箱", 0],
+    [1, "すとろべりーカルテ", "桃箱", 1],
+    [2, "マシュマロ・マキアート", "桃箱", 1],
+    [3, "サ・ク・ラ・サ・ク", "桃箱", 1],
+    [4, "夢でまたあえたらなあ（はるなばRemix）", "桃箱", 1],
+    [5, "ロボティックガール（はるなばRemix）", "桃箱", 1],
+    [6, "走馬灯ラビリンス（ソロver）", "桃箱", 1],
+    [7, "曖昧トリップ（ソロver）", "桃箱", 1],
+    [8, "夢色パレード（ソロver）", "桃箱", 1],
 ]
 links = ["https://www.dojin-music.info/cd/5878"]
 
@@ -2773,14 +2773,14 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5613"]
 
-[32e5cb2c9697ff9c7858a327f50910fd]
+[f5ecf5a6320ca0626bccc8693827fc89]
 catalognumber = ""
 date = "2019-04-28"
 album = "ほっと・すぽっと"
 tracks = [
     [1, "To be continued -私達の物語はこれからだ-", "ricono", 0],
     [2, "はみはみハーベスト☆きのこ狩り", "初乃葉ゆづの ぶただひかり", 0],
-    [3, "難所だよ☆miko箱茶屋へおいでませ", "miko（藤咲かりん） 桃箱", 0],
+    [3, "難所だよ☆miko箱茶屋へおいでませ", "miko（藤咲かりん） 桃箱", 1],
     [4, "マカロン☆ハート", "ななひら", 0],
     [5, "ちびぷににくきゅうリフレ", "ちょこ", 0],
     [6, "Juicy!とろとろトロピカル", "ほたる", 0],
@@ -2788,7 +2788,7 @@ tracks = [
     [8, "おねえちゃんといっしょにxxしましょ", "ぶただひかり ちょこ", 0],
     [9, "Want To Know", "星空るあ まめ乃", 0],
     [10, "かがやけ!ラブアンドピースぷぃきゅあ", "ricono", 0],
-    [11, "ミラクル☆エディット", "miko（藤咲かりん） 桃箱", 0],
+    [11, "ミラクル☆エディット", "miko（藤咲かりん） 桃箱", 1],
     [12, "月夜とたいやきと池の鯉(Huge Rythm Mix)", "ななひら", 0],
 ]
 links = ["https://www.dojin-music.info/cd/5612"]
@@ -2915,7 +2915,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10420"]
 
-[6fba5fd41054bc941d244442accf50ba]
+[0e1496695568e51de68bcc714b724563]
 catalognumber = ""
 date = "2019-12-31"
 album = "MARON2 〜HAPPY MAKE THE TOWN〜"
@@ -2930,7 +2930,7 @@ tracks = [
     [8, "ウンバボー!!", "miko（藤咲かりん） ricono", 0],
     [9, "DA☆Vinci’s Magic Box", "", 0],
     [10, "ハッピー☆マテリアル (夜乃ネオンver.)", "", 0],
-    [11, "たかし (nora2r Remix)", "桃箱", 0],
+    [11, "たかし (nora2r Remix)", "桃箱", 1],
     [12, "PIERROT KNIfE", "", 0],
     [13, "Happy Marriage!! ～Thumbelina～ (RoughSketch Remix)", "あまね haru*nya", 0],
     [14, "最高のナニカ", "", 0],
@@ -3002,7 +3002,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e621bdfb-7bff-41bc-b5ab-6b48354b07ad", "https://vgmdb.net/album/104712", "https://www.dojin-music.info/cd/22094"]
 
-[a45cd5a60f27e86915d6656d54ed64a2]
+[b5d904df9e32ec3e21545c3935b3994d]
 catalognumber = ""
 date = "2021-10-31"
 album = "BOOTY RHYTHM"
@@ -3011,7 +3011,7 @@ tracks = [
     [2, "Donut Tenderness(XHX Rework)", "ちな", 0],
     [3, "さくらひとひら(Mtell Hardcore Remix)", "小紺ココ", 0],
     [4, "はちみつワッフル(DJ Noriken Future Rave Remix)", "ちょこ", 0],
-    [5, "ミラクル☆エディット(LU-I †Insane†HARDCORE Remix)", "miko（藤咲かりん） 桃箱", 0],
+    [5, "ミラクル☆エディット(LU-I †Insane†HARDCORE Remix)", "miko（藤咲かりん） 桃箱", 1],
 ]
 links = ["https://www.dojin-music.info/cd/25929"]
 
