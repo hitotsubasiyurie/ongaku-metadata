@@ -1344,14 +1344,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3a22491e-64dd-494c-bacb-14ef5a958ab0", "https://vgmdb.net/album/82503"]
 
-[7ac86119bfb759e61283f4717361cee0]
+[cdec054c75b6d5eb79b3fe87472ab540]
 catalognumber = "GNCA-0575"
 date = "2019-08-08"
 album = "ご注文はうさぎですか?? バースデイソングシリーズ 05 マヤ (CV: 徳井青空)"
 tracks = [
     [1, "ハピハピ♪バースデイソング 〜マヤVer.〜", "マヤ(CV.徳井青空)", 1],
     [2, "お祭り輪っしょい!!", "マヤ(CV.徳井青空)", 1],
-    [3, "夏休みページ", "マヤ(CV.徳井青空)", 1],
+    [3, "夏休みページ", "マヤ(CV.徳井青空)", 2],
     [4, "お祭り輪っしょい!! (Instrumental)", "マヤ(CV.徳井青空)", 1],
     [5, "夏休みページ (Instrumental)", "マヤ(CV.徳井青空)", 1],
 ]
