@@ -1,0 +1,58 @@
+[d0f4550cc8ca27bbb50790c2679ebb93]
+catalognumber = "POCE-1432"
+date = "2016-05-04"
+album = "青春は食べ物です / petit milady"
+tracks = [
+    [1, "青春は食べ物です", "petit milady", 0],
+    [2, "Unknown Love Bakery", "petit milady", 0],
+    [3, "青春は食べ物です (Instrumental)", "petit milady", 0],
+    [4, "Unknown Love Bakery (Instrumental)", "petit milady", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3c693779-a4a1-4ed1-9aa7-fbb5df459bf0", "https://vgmdb.net/album/57772"]
+
+[3cb92ead44ce8dc8c44d822fdba18cd3]
+catalognumber = "POCE-9416"
+date = "2016-05-04"
+album = "青春は食べ物です / petit milady Disc 1 (CD) [POCX-9417]"
+tracks = [
+    [1, "青春は食べ物です", "petit milady", 0],
+    [2, "Unknown Love Bakery", "petit milady", 0],
+    [3, "青春は食べ物です (Instrumental)", "petit milady", 0],
+    [4, "Unknown Love Bakery (Instrumental)", "petit milady", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e8c7cd8c-ba8b-4a10-a30d-4065c6735829", "https://vgmdb.net/album/57773"]
+
+[d0af1d59f5369baa7ecaabc46eaa2ae4]
+catalognumber = "POCE-9416"
+date = "2016-05-04"
+album = "青春は食べ物です / petit milady Disc 2 (DVD) [POBX-9416]"
+tracks = [
+    [1, "青春は食べ物です [Music Video]", "petit milady", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e8c7cd8c-ba8b-4a10-a30d-4065c6735829", "https://vgmdb.net/album/57773"]
+
+[0acb17873e641adaa61bed0a68fc5655]
+catalognumber = "JDE-003"
+date = "2016-11-03"
+album = "パンでPeace! オリジナルサウンドトラック〜パンでMusic!〜"
+tracks = [
+    [1, "パンでPeace!", "", 0],
+    [2, "お母さんのサンドイッチ", "", 0],
+    [3, "だ、だれ?", "", 0],
+    [4, "フランスパンの兵隊", "", 0],
+    [5, "パン友ができました", "", 0],
+    [6, "これは武器", "", 0],
+    [7, "Milk mustache", "", 0],
+    [8, "淡い塩味", "", 0],
+    [9, "ふわふゆベーカリー", "", 0],
+    [10, "みんなでパン作り", "", 0],
+    [11, "横たわるチョココロネ", "", 0],
+    [12, "恐怖の体重計", "", 0],
+    [13, "廻るバスケット", "", 0],
+    [14, "喫茶猫のしっぽ", "", 0],
+    [15, "魅惑のクロワッサン", "", 0],
+    [16, "Maternal love", "", 0],
+    [17, "思い出のパン", "", 0],
+    [18, "お泊まり会", "", 0],
+]
+links = ["https://vgmdb.net/album/100980"]
