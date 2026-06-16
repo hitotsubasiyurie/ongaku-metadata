@@ -1177,7 +1177,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104448"]
 
-[4a1e07edbf151495752c745f84106702]
+[b23a77f506125025fe42e5e89a1686a4]
 catalognumber = "REZ-LE-CD"
 date = "2021-01-29"
 album = "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne Collector's Edition Soundtrack"
@@ -1194,7 +1194,7 @@ tracks = [
     [10, "Of Plots and Protocol", "Takashi Okamoto", 0],
     [11, "A Quiet Sanctuary", "Takashi Okamoto", 0],
     [12, "Life on the Road", "Takashi Okamoto", 0],
-    [13, "Along the Shore", "Takashi Okamoto", 0],
+    [13, "Along the Shore", "Takashi Okamoto", 1],
     [14, "Purple Will", "Takashi Okamoto", 0],
     [15, "Princess of the Slums", "Takashi Okamoto", 0],
     [16, "Wind-Seeing Eyes", "Takashi Okamoto", 0],
@@ -1588,19 +1588,37 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f468c22a-42f8-4dca-9bd8-a0355064a6fc", "https://vgmdb.net/album/130157"]
 
-[0f2e56094ac6754d157ca868e5900777]
+[8668bf3a0215e53e7016119a2e7a3065]
+catalognumber = "ZMCZ-17651"
+date = "2024-10-03"
+album = "Reweave / 鈴木このみ"
+tracks = [
+    [1, "Reweave", "鈴木このみ", 1],
+]
+links = ["https://beta.musicbrainz.org/release/080b3d2b-0a7c-4110-81f7-7c58139e9a5e", "https://vgmdb.net/album/144437"]
+
+[f401bd91effecac3fda3a5887faa0f6b]
+catalognumber = "ZMCZ-17523"
+date = "2024-10-10"
+album = "NOX LUX / MYTH & ROID"
+tracks = [
+    [1, "NOX LUX", "MYTH & ROID", 1],
+]
+links = ["https://beta.musicbrainz.org/release/2d23e8e7-f4cc-4dc5-97f1-c2bac9b67633", "https://vgmdb.net/album/144438"]
+
+[a1261f2ccbc50066dc87553bc60b29af]
 catalognumber = "ZMCZ-18031"
 date = "2024-11-14"
 album = "TVアニメ「Re:ゼロから始める異世界生活」キャラクターソングアルバム2"
 tracks = [
-    [1, "Two Colors", "ラム(CV:村川梨衣)、レム(CV:水瀬いのり)", 0],
-    [2, "きっとStep by Step", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", 0],
-    [3, "The future with you", "エミリア(CV:高橋李依)", 0],
-    [4, "異世界マーチでエル!ウル!アル!", "エミリア(CV:高橋李依)、ラム(CV:村川梨衣)、ベアトリス(CV:新井里美)", 0],
-    [5, "my proof", "エミリア(CV:高橋李依)", 0],
-    [6, "剣鬼恋歌 第二幕", "リリアナ・マスカレード(CV:山根綺)", 0],
-    [7, "水面に揺れるプリステラ", "リリアナ・マスカレード(CV:山根綺)", 0],
-    [8, "I Trust You", "エミリア(CV:高橋李依)", 0],
+    [1, "Two Colors", "ラム(CV:村川梨衣)、レム(CV:水瀬いのり)", 1],
+    [2, "きっとStep by Step", "エミリア(CV:高橋李依)、レム(CV:水瀬いのり)、ラム(CV:村川梨衣)", 1],
+    [3, "The future with you", "エミリア(CV:高橋李依)", 1],
+    [4, "異世界マーチでエル!ウル!アル!", "エミリア(CV:高橋李依)、ラム(CV:村川梨衣)、ベアトリス(CV:新井里美)", 1],
+    [5, "my proof", "エミリア(CV:高橋李依)", 1],
+    [6, "剣鬼恋歌 第二幕", "リリアナ・マスカレード(CV:山根綺)", 1],
+    [7, "水面に揺れるプリステラ", "リリアナ・マスカレード(CV:山根綺)", 1],
+    [8, "I Trust You", "エミリア(CV:高橋李依)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fd8042d4-8f1d-4936-81a7-0363e3780141", "https://vgmdb.net/album/144435"]
 
@@ -1614,3 +1632,139 @@ tracks = [
     [3, "あなたの知らないこと", "鈴木このみ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/95308b8f-d4e6-4732-8ec6-473cb3190409", "https://vgmdb.net/album/150995"]
+
+[cc78669e31b9cd11b3ed3694c39fd8a1]
+catalognumber = "ZMCZ-17552"
+date = "2025-03-27"
+album = "TVアニメ「Re:ゼロから始める異世界生活」3rd season オリジナルサウンドトラック"
+tracks = [
+    [1, "Howl of Counterattack –Main Theme–", "末廣健一郎", 1],
+    [2, "Priestella", "末廣健一郎", 1],
+    [3, "Anastasia Hoshin", "末廣健一郎", 1],
+    [4, "Priscilla Barielle", "末廣健一郎", 1],
+    [5, "Liliana Masquerade", "末廣健一郎", 1],
+    [6, "Reinhard Van Astrea", "末廣健一郎", 1],
+    [7, "Heinkel Astrea", "末廣健一郎", 1],
+    [8, "Hagoromo", "末廣健一郎", 1],
+    [9, "Mystery of the Sinking", "末廣健一郎", 1],
+    [10, "Confrontation", "末廣健一郎", 1],
+    [11, "Sirius Romaneeconti", "末廣健一郎", 1],
+    [12, "Regulus Corneus", "末廣健一郎", 1],
+    [13, "Rye Batenkaitos", "末廣健一郎", 1],
+    [14, "Capella Emerada Lugunica", "末廣健一郎", 1],
+    [15, "Defeat", "末廣健一郎", 1],
+    [16, "Operation to recapture", "末廣健一郎", 1],
+    [17, "Speech of the Evil", "末廣健一郎", 1],
+    [18, "Stream", "末廣健一郎", 1],
+    [19, "Greedy groom", "末廣健一郎", 1],
+    [20, "Overpower", "末廣健一郎", 1],
+    [21, "Someone I'll love someday", "末廣健一郎", 1],
+    [22, "Knight’s oath", "末廣健一郎", 1],
+    [23, "Unbeatable", "末廣健一郎", 1],
+    [24, "Theatrical Malice", "末廣健一郎", 1],
+    [25, "Rage", "末廣健一郎", 1],
+    [26, "Smoke of counterattack", "末廣健一郎", 1],
+    [27, "Dragon", "末廣健一郎", 1],
+    [28, "Rui Arneb", "末廣健一郎", 1],
+    [29, "Critical situation", "末廣健一郎", 1],
+    [30, "Shadow of Elsa", "末廣健一郎", 1],
+    [31, "For mother", "末廣健一郎", 1],
+    [32, "Distorted family", "末廣健一郎", 1],
+    [33, "War", "末廣健一郎", 1],
+    [34, "Unforgettable melody", "末廣健一郎", 1],
+    [35, "Shining steel", "末廣健一郎", 1],
+    [36, "Suffering", "末廣健一郎", 1],
+    [37, "Decisive battle", "末廣健一郎", 1],
+    [38, "Wilhelm VS Theresia", "末廣健一郎", 1],
+    [39, "Final defense", "末廣健一郎", 1],
+    [40, "Result", "末廣健一郎", 1],
+]
+links = ["https://beta.musicbrainz.org/release/b92ec19a-7489-480a-9117-b74bf81deef8", "https://vgmdb.net/album/148045"]
+
+[1272f3b68fe77b2ca085a5588f14068d]
+catalognumber = "BRMM-10965"
+date = "2025-10-15"
+album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.10 Disc 1"
+tracks = [
+    [1, "心絵", "Poppin'Party", 0],
+    [2, "ちゅ、多様性。", "Poppin'Party", 0],
+    [3, "フィクション", "Poppin'Party", 0],
+    [4, "カゲロウデイズ", "Afterglow", 0],
+    [5, "Bunny Girl", "Afterglow", 0],
+    [6, "オレンジ", "Afterglow", 0],
+    [7, "サインはB", "Pastel＊Palettes", 0],
+    [8, "だから、ひとりじゃない", "Pastel＊Palettes", 0],
+    [9, "最上級にかわいいの！", "Pastel＊Palettes", 0],
+    [10, "ファタール", "Roselia", 0],
+    [11, "ヒバナ -Reloaded-", "Roselia", 0],
+    [12, "Reweave", "Roselia", 1],
+    [13, "幾億光年", "Poppin'Party×燈", 0],
+    [14, "愛包ダンスホール", "Pastel＊Palettes×蘭", 0],
+]
+links = ["https://beta.musicbrainz.org/release/616bc497-04ad-438d-a31d-75771ddf9e20", "https://vgmdb.net/album/154043"]
+
+[5fb5aa26fdb2aa33aa61870fc36d891f]
+catalognumber = "BRMM-10965"
+date = "2025-10-15"
+album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.10 Disc 2"
+tracks = [
+    [1, "最高到達点", "ハロー、ハッピーワールド！", 0],
+    [2, "強風オールバック", "ハロー、ハッピーワールド！", 0],
+    [3, "はいよろこんで", "ハロー、ハッピーワールド！", 0],
+    [4, "輪舞-revolution", "Morfonica", 0],
+    [5, "QUEEN", "Morfonica", 0],
+    [6, "again", "Morfonica", 0],
+    [7, "Bling-Bang-Bang-Born", "RAISE A SUILEN", 0],
+    [8, "SOULSOUP", "RAISE A SUILEN", 0],
+    [9, "第六感", "RAISE A SUILEN", 0],
+    [10, "雑踏、僕らの街", "MyGO!!!!!", 0],
+    [11, "遥か彼方", "MyGO!!!!!", 0],
+    [12, "だれかの心臓になれたなら", "MyGO!!!!!", 0],
+    [13, "悪魔の子", "Roselia×レイヤ", 0],
+    [14, "シカ色デイズ", "ハロー、ハッピーワールド！×ましろ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/616bc497-04ad-438d-a31d-75771ddf9e20", "https://vgmdb.net/album/154043"]
+
+[6da18b9c4c075f8249fa90fc0d847550]
+catalognumber = "BRMM-10966"
+date = "2025-10-15"
+album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.10 Disc 1"
+tracks = [
+    [1, "心絵", "Poppin'Party", 0],
+    [2, "ちゅ、多様性。", "Poppin'Party", 0],
+    [3, "フィクション", "Poppin'Party", 0],
+    [4, "カゲロウデイズ", "Afterglow", 0],
+    [5, "Bunny Girl", "Afterglow", 0],
+    [6, "オレンジ", "Afterglow", 0],
+    [7, "サインはB", "Pastel＊Palettes", 0],
+    [8, "だから、ひとりじゃない", "Pastel＊Palettes", 0],
+    [9, "最上級にかわいいの！", "Pastel＊Palettes", 0],
+    [10, "ファタール", "Roselia", 0],
+    [11, "ヒバナ -Reloaded-", "Roselia", 0],
+    [12, "Reweave", "Roselia", 1],
+    [13, "幾億光年", "Poppin'Party×燈", 0],
+    [14, "愛包ダンスホール", "Pastel＊Palettes×蘭", 0],
+]
+links = ["https://beta.musicbrainz.org/release/616bc497-04ad-438d-a31d-75771ddf9e20", "https://vgmdb.net/album/154042"]
+
+[d64d6bd6998ee3b11ffb320886a8aaae]
+catalognumber = "BRMM-10966"
+date = "2025-10-15"
+album = "BanG Dream!ガールズバンドパーティ!カバーコレクションVol.10 Disc 2"
+tracks = [
+    [1, "最高到達点", "ハロー、ハッピーワールド！", 0],
+    [2, "強風オールバック", "ハロー、ハッピーワールド！", 0],
+    [3, "はいよろこんで", "ハロー、ハッピーワールド！", 0],
+    [4, "輪舞-revolution", "Morfonica", 0],
+    [5, "QUEEN", "Morfonica", 0],
+    [6, "again", "Morfonica", 0],
+    [7, "Bling-Bang-Bang-Born", "RAISE A SUILEN", 0],
+    [8, "SOULSOUP", "RAISE A SUILEN", 0],
+    [9, "第六感", "RAISE A SUILEN", 0],
+    [10, "雑踏、僕らの街", "MyGO!!!!!", 0],
+    [11, "遥か彼方", "MyGO!!!!!", 0],
+    [12, "だれかの心臓になれたなら", "MyGO!!!!!", 0],
+    [13, "悪魔の子", "Roselia×レイヤ", 0],
+    [14, "シカ色デイズ", "ハロー、ハッピーワールド！×ましろ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/616bc497-04ad-438d-a31d-75771ddf9e20", "https://vgmdb.net/album/154042"]

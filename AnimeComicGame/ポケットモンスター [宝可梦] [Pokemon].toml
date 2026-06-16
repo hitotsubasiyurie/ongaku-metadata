@@ -1048,28 +1048,6 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0e045b21-0713-4100-aa87-0efd99225558", "https://vgmdb.net/album/41733"]
 
-[f1b4328bed3a7d3f0b63ef3f2f392aac]
-catalognumber = "333"
-date = "2000-12-04"
-album = "Pokémon 2 – Die Macht des Einzelnen – Original Musik aus dem Kinofilm"
-tracks = [
-    [1, "Gestörte Harmonie (Harmony Disturbed)", "Ralph Schuckett & John Loeffler", 0],
-    [2, "Das Meeresmonster (The Beast of the Sea Stirs)", "Ralph Schuckett & John Loeffler", 0],
-    [3, "Zur Rettung (To the Rescue)", "Ralph Schuckett & John Loeffler", 0],
-    [4, "Der Ausbruch (Breakout Mayhem)", "Ralph Schuckett & John Loeffler", 0],
-    [5, "Wenn sie doch helfen könnten (If Only They Could Help)", "Ralph Schuckett & John Loeffler", 0],
-    [6, "Die Welt wendet sich an Ash (The World Turns to Ash)", "Ralph Schuckett & John Loeffler", 0],
-    [7, "Zur dritten Kristallkugel (To the Third Treasure)", "Ralph Schuckett & John Loeffler", 0],
-    [8, "Rückkehr zum Heiligtum (Return to the Shrine)", "Ralph Schuckett & John Loeffler", 0],
-    [9, "Das Lied des Wächters (The Guardian's Song)", "John Loeffler & Ralph Schuckett", 0],
-    [10, "Auf Wiedersehen Lugia (Goodbye Lugia)", "Ralph Schuckett & John Loeffler", 0],
-    [11, "Das Abenteuer beginnt (The Adventure Begins)", "John Lissauer, Manny Corallo & John Loeffler", 0],
-    [12, "Stürmisch (Windy)", "John Lissauer, Manny Corallo & John Loeffler", 0],
-    [13, "Teamwork (Teamwork)", "John Lissauer, Manny Corallo & John Loeffler", 0],
-    [14, "Pokémon Welt (Pokémon World)", "Noel Pix", 0],
-]
-links = ["https://beta.musicbrainz.org/release/0e045b21-0713-4100-aa87-0efd99225558", "https://vgmdb.net/album/62977"]
-
 [c6927fbdb31ee37795326c027669cb5f]
 catalognumber = "0128982ERE"
 date = "2001"
