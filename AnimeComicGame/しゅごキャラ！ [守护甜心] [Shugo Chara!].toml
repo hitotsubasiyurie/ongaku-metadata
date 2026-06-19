@@ -1,167 +1,209 @@
-[3af7eee745641b03f5c888aa05f29e79]
+[ac10b658c6a97a55baf5d64f06e6fb4d]
 catalognumber = "PCCA-02552"
 date = "2007-10-31"
 album = "ホントのじぶん / Buono! Vocal"
 tracks = [
-    [1, "ホントのじぶん", "Buono!", 0],
-    [2, "こころのたまご", "Buono!", 0],
-    [3, "ホントのじぶん (Instrumental)", "Buono!", 0],
-    [4, "こころのたまご (Instrumental)", "Buono!", 0],
+    [1, "ホントのじぶん", "Buono!", 1],
+    [2, "こころのたまご", "Buono!", 1],
+    [3, "ホントのじぶん (Instrumental)", "Buono!", 1],
+    [4, "こころのたまご (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/90543cb3-9eb4-38d2-bba0-38e7e4f4bcd3", "https://vgmdb.net/album/66665"]
 
-[4815d0a490620079a86b5fefe95319e8]
+[cce4d28d13c1c97b8175d6d254de1265]
 catalognumber = "PCCA-02552"
 date = "2007-10-31"
 album = "ホントのじぶん / Buono! Video"
 tracks = [
-    [1, "ホントのじぶん PV Dance Version", "Buono!", 0],
+    [1, "ホントのじぶん PV Dance Version", "Buono!", 1],
     [2, "Buono! お披露目イベントドキュメント (07.08.22)", "Buono!", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/90543cb3-9eb4-38d2-bba0-38e7e4f4bcd3", "https://vgmdb.net/album/66665"]
 
-[95249a194751b89dbfcfd7865d6417bc]
+[6d5b12c4809a30eaa5602fdb419bbedb]
 catalognumber = "PCCA-70197"
 date = "2007-10-31"
 album = "ホントのじぶん / Buono!"
 tracks = [
-    [1, "ホントのじぶん", "Buono!", 0],
-    [2, "こころのたまご", "Buono!", 0],
-    [3, "ホントのじぶん (Instrumental)", "Buono!", 0],
-    [4, "こころのたまご (Instrumental)", "Buono!", 0],
+    [1, "ホントのじぶん", "Buono!", 2],
+    [2, "こころのたまご", "Buono!", 2],
+    [3, "ホントのじぶん (Instrumental)", "Buono!", 1],
+    [4, "こころのたまご (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/88edec4a-25ea-4b2d-8726-6531114ec1af", "https://vgmdb.net/album/82164"]
 
-[621e535e81c5df101c06a5df1b4927b5]
+[2e8fe4cd1fbc4fe38284fc081ff71cf3]
 catalognumber = "PCCG-70021"
 date = "2007-12-19"
 album = "迷宮バタフライ / ほしな歌唄 (CV:水樹奈々)"
 tracks = [
-    [1, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 0],
-    [2, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 0],
-    [3, "迷宮バタフライ (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 0],
-    [4, "Blue Moon (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 0],
+    [1, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 1],
+    [2, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 1],
+    [3, "迷宮バタフライ (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 1],
+    [4, "Blue Moon (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d7793bd6-df1e-4889-a371-3ca0a06b399c", "https://vgmdb.net/album/31656"]
 
-[9ae56af5af6a93f364fc8c6ffb64a98e]
+[8f396740fd6fc54d625918beeda5f35f]
 catalognumber = "PCCG-70020"
 date = "2007-12-19"
 album = "迷宮バタフライ / ほしな歌唄 (CV:水樹奈々)"
 tracks = [
-    [1, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 0],
-    [2, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 0],
-    [3, "迷宮バタフライ (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 0],
-    [4, "Blue Moon (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 0],
+    [1, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 1],
+    [2, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 1],
+    [3, "迷宮バタフライ (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 1],
+    [4, "Blue Moon (Vocal off)", "ほしな歌唄(CV:水樹奈々)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3da0b675-a7c0-4e44-bab6-44c8f0ed9aff", "https://vgmdb.net/album/31657"]
 
-[5c2d1e024b8c94a425a037a4bc9c4d61]
+[8ab4c30d028ae300be0614e8c996713f]
 catalognumber = "PCCA-02602"
 date = "2008-02-06"
 album = "恋愛♥ライダー / Buono! Disc 1 (CD)"
 tracks = [
-    [1, "恋愛♥ライダー", "Buono!", 0],
-    [2, "じゃなきゃもったいないっ!", "Buono!", 0],
-    [3, "恋愛♥ライダー (Instrumental)", "Buono!", 0],
-    [4, "じゃなきゃもったいないっ! (Instrumental)", "Buono!", 0],
+    [1, "恋愛♥ライダー", "Buono!", 1],
+    [2, "じゃなきゃもったいないっ!", "Buono!", 1],
+    [3, "恋愛♥ライダー (Instrumental)", "Buono!", 1],
+    [4, "じゃなきゃもったいないっ! (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a840917c-1457-3684-bfe1-0bb01f1c740c", "https://vgmdb.net/album/82173"]
 
-[1cfa8bfc4e0bac0ef91b77df37d5a31e]
+[5620a4d2d182fbd76f0230b4a3731162]
 catalognumber = "PCCA-02602"
 date = "2008-02-06"
 album = "恋愛♥ライダー / Buono! Disc 2 (DVD)"
 tracks = [
-    [1, "ホントのじぶん (LIVE / マルチアングル機能付き)", "Buono!", 0],
+    [1, "ホントのじぶん (LIVE / マルチアングル機能付き)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a840917c-1457-3684-bfe1-0bb01f1c740c", "https://vgmdb.net/album/82173"]
 
-[a42e35e15f4ecb5baf428a6897d12e73]
+[b73c503b002f43cf1ccd364b059c2bf0]
 catalognumber = "PCCA-70206"
 date = "2008-02-06"
 album = "恋愛♥ライダー / Buono!"
 tracks = [
-    [1, "恋愛♥ライダー", "Buono!", 0],
-    [2, "じゃなきゃもったいないっ!", "Buono!", 0],
-    [3, "恋愛♥ライダー (Instrumental)", "Buono!", 0],
-    [4, "じゃなきゃもったいないっ! (Instrumental)", "Buono!", 0],
+    [1, "恋愛♥ライダー", "Buono!", 2],
+    [2, "じゃなきゃもったいないっ!", "Buono!", 1],
+    [3, "恋愛♥ライダー (Instrumental)", "Buono!", 1],
+    [4, "じゃなきゃもったいないっ! (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/865423f7-36bd-47b4-8ef4-06f2cfaddb52", "https://vgmdb.net/album/82172"]
 
-[fa6d5c2f19fb4bbd5a1895057e8793aa]
+[35f9697d03ae67348775c1e8ee1d4306]
 catalognumber = "PCCA-02621"
 date = "2008-02-20"
 album = "Café Buono! [Limited Edition] Vocal"
 tracks = [
-    [1, "Café Buono!", "Buono!", 0],
-    [2, "泣き虫少年", "Buono!", 0],
-    [3, "恋愛♥ライダー", "Buono!", 0],
-    [4, "ホントのじぶん", "Buono!", 0],
-    [5, "バケツの水", "Buono!", 0],
-    [6, "ガラクタノユメ", "Buono!", 0],
-    [7, "Internet Cupid", "Buono!", 0],
-    [8, "Last Forever", "Buono!", 0],
-    [9, "こころのたまご", "Buono!", 0],
-    [10, "星の羊たち", "Buono!", 0],
-    [11, "ロックの神様", "Buono!", 0],
-    [12, "君がいれば", "Buono!", 0],
+    [1, "Café Buono!", "Buono!", 1],
+    [2, "泣き虫少年", "Buono!", 1],
+    [3, "恋愛♥ライダー", "Buono!", 1],
+    [4, "ホントのじぶん", "Buono!", 1],
+    [5, "バケツの水", "Buono!", 1],
+    [6, "ガラクタノユメ", "Buono!", 1],
+    [7, "Internet Cupid", "Buono!", 1],
+    [8, "Last Forever", "Buono!", 1],
+    [9, "こころのたまご", "Buono!", 1],
+    [10, "星の羊たち", "Buono!", 1],
+    [11, "ロックの神様", "Buono!", 1],
+    [12, "君がいれば", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0563e71f-933e-3cbd-a72c-fcaee78fe0bf", "https://vgmdb.net/album/73398"]
 
-[85cbe81745652f210db6a465e8905dba]
+[d8b6fdacb8a8e5a6dc07943524d0230c]
 catalognumber = "PCCA-02621"
 date = "2008-02-20"
 album = "Café Buono! [Limited Edition] Video"
 tracks = [
-    [1, "こころのたまご (Dance Shot Version)", "Buono!", 0],
-    [2, "恋愛♥ライダー (Dance Shot Version)", "Buono!", 0],
+    [1, "こころのたまご (Dance Shot Version)", "Buono!", 1],
+    [2, "恋愛♥ライダー (Dance Shot Version)", "Buono!", 1],
     [3, "ジャケット撮影メイキング", "Buono!", 0],
     [4, "しゅごキャラ! プロモーション映像", "Buono!", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0563e71f-933e-3cbd-a72c-fcaee78fe0bf", "https://vgmdb.net/album/73398"]
 
-[1b226b87fcff1cc1ac6b27d1b5992ecb]
+[88db98058bc104ee64aeb4b202b50f28]
 catalognumber = "PCCA-02622"
 date = "2008-02-20"
 album = "Café Buono!"
 tracks = [
-    [1, "Café Buono!", "Buono!", 0],
-    [2, "泣き虫少年", "Buono!", 0],
-    [3, "恋愛♥ライダー", "Buono!", 0],
-    [4, "ホントのじぶん", "Buono!", 0],
-    [5, "バケツの水", "Buono!", 0],
-    [6, "ガラクタノユメ", "Buono!", 0],
-    [7, "Internet Cupid", "Buono!", 0],
-    [8, "Last Forever", "Buono!", 0],
-    [9, "こころのたまご", "Buono!", 0],
-    [10, "星の羊たち", "Buono!", 0],
-    [11, "ロックの神様", "Buono!", 0],
-    [12, "君がいれば", "Buono!", 0],
+    [1, "Café Buono!", "Buono!", 1],
+    [2, "泣き虫少年", "Buono!", 1],
+    [3, "恋愛♥ライダー", "Buono!", 1],
+    [4, "ホントのじぶん", "Buono!", 1],
+    [5, "バケツの水", "Buono!", 1],
+    [6, "ガラクタノユメ", "Buono!", 1],
+    [7, "Internet Cupid", "Buono!", 1],
+    [8, "Last Forever", "Buono!", 1],
+    [9, "こころのたまご", "Buono!", 1],
+    [10, "星の羊たち", "Buono!", 1],
+    [11, "ロックの神様", "Buono!", 1],
+    [12, "君がいれば", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/83a93c47-3305-4910-a9d6-211210923d81", "https://vgmdb.net/album/73400"]
 
-[850722573dea5375c09476595e52c6a1]
+[2241ad911d9c39ae1e3ef329c9e5c757]
+catalognumber = "PCBG-61137"
+date = "2008-03-19"
+album = "「しゅごキャラ!」オリジナル・サウンドトラック Vol.1"
+tracks = [
+    [1, "オープンハート!", "Di'LL", 1],
+    [2, "アバンタイトル", "Di'LL", 1],
+    [3, "聖夜学園の朝", "Di'LL", 1],
+    [4, "サブタイトル", "Di'LL", 1],
+    [5, "Cool&Spicy Girl!!", "Di'LL", 1],
+    [6, "本当の自分", "Di'LL", 1],
+    [7, "今日もイイ天気!", "Di'LL", 1],
+    [8, "ハチャメチャHigh↑テンション!?", "Di'LL", 1],
+    [9, "忍び寄る影", "Di'LL", 1],
+    [10, "×キャラ誕生", "Di'LL", 1],
+    [11, "絶体絶命!", "Di'LL", 1],
+    [12, "キャラなり!アミュレットハート!", "Di'LL", 1],
+    [13, "キャラなり!アミュレットスペード!", "Di'LL", 1],
+    [14, "キャラなり!アミュレットクローバー!", "Di'LL", 1],
+    [15, "バトル!", "Di'LL", 1],
+    [16, "希望のたまごたち", "Di'LL", 1],
+    [17, "Gentle light", "Di'LL", 1],
+    [18, "アイキャッチA", "Di'LL", 1],
+    [19, "アイキャッチB", "Di'LL", 1],
+    [20, "次回予告", "Di'LL", 1],
+    [21, "星を見上げて", "Di'LL", 1],
+    [22, "イッツ・ア・しゅごキャラ・ワールド!", "Di'LL", 1],
+    [23, "私の王子様", "Di'LL", 1],
+    [24, "やまとなでしこ", "Di'LL", 1],
+    [25, "闇を駆ける黒猫", "Di'LL", 1],
+    [26, "月夜のバイオリニスト", "Di'LL", 1],
+    [27, "情熱を秘めて", "Di'LL", 1],
+    [28, "たくらむ者たち", "Di'LL", 1],
+    [29, "EASTER", "Di'LL", 1],
+    [30, "放課後", "Di'LL", 1],
+    [31, "トキメクココロ", "Di'LL", 1],
+    [32, "二人の距離", "Di'LL", 1],
+    [33, "いつでもいっしょ", "Di'LL", 1],
+    [34, "素直な気持ちで", "Di'LL", 1],
+]
+links = ["https://beta.musicbrainz.org/release/69a844b8-ad05-4006-b6fa-1db192292503"]
+
+[2521ee14617cc7edb80582d985e855c6]
 catalognumber = "PCCA-70215"
 date = "2008-05-14"
 album = "Kiss! Kiss! Kiss! / Buono!"
 tracks = [
-    [1, "Kiss! Kiss! Kiss!", "Buono!", 0],
-    [2, "みんなだいすき", "Buono!", 0],
-    [3, "Kiss! Kiss! Kiss! (Instrumental)", "Buono!", 0],
-    [4, "みんなだいすき (Instrumental)", "Buono!", 0],
+    [1, "Kiss! Kiss! Kiss!", "Buono!", 1],
+    [2, "みんなだいすき", "Buono!", 2],
+    [3, "Kiss! Kiss! Kiss! (Instrumental)", "Buono!", 1],
+    [4, "みんなだいすき (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/21180d17-e030-3d85-92f1-c56abc9bc993", "https://vgmdb.net/album/82170"]
 
-[c8e72d9f5fccf136d55ac76d152314ac]
+[f3e00752c70cf8838d2ba460177d4d14]
 catalognumber = "PCCA-02672"
 date = "2008-05-14"
 album = "Kiss! Kiss! Kiss! / Buono! [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "Kiss! Kiss! Kiss!", "Buono!", 0],
-    [2, "みんなだいすき", "Buono!", 0],
-    [3, "Kiss! Kiss! Kiss! (Instrumental)", "Buono!", 0],
-    [4, "みんなだいすき (Instrumental)", "Buono!", 0],
+    [1, "Kiss! Kiss! Kiss!", "Buono!", 1],
+    [2, "みんなだいすき", "Buono!", 1],
+    [3, "Kiss! Kiss! Kiss! (Instrumental)", "Buono!", 1],
+    [4, "みんなだいすき (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6641ccc5-24bb-4474-92a6-1e21a99073cd", "https://vgmdb.net/album/82171"]
 
@@ -174,51 +216,51 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6641ccc5-24bb-4474-92a6-1e21a99073cd", "https://vgmdb.net/album/82171"]
 
-[c842148feba043c5096de147b10f6811]
+[37fc80e8c4d82d0baebd964424294990]
 catalognumber = "PCCG-70029"
 date = "2008-08-06"
 album = "ブラックダイヤモンズ"
 tracks = [
-    [1, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 0],
-    [2, "BLACK DIAMOND (インディーズ・バージョン)", "ブラックダイヤモンズ", 0],
-    [3, "BLACK DIAMOND (メジャー・バージョン) Vocal off", "ブラックダイヤモンズ", 0],
-    [4, "BLACK DIAMOND (インディーズ・バージョン) Vocal off", "ブラックダイヤモンズ", 0],
+    [1, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 1],
+    [2, "BLACK DIAMOND (インディーズ・バージョン)", "ブラックダイヤモンズ", 1],
+    [3, "BLACK DIAMOND (メジャー・バージョン) Vocal off", "ブラックダイヤモンズ", 1],
+    [4, "BLACK DIAMOND (インディーズ・バージョン) Vocal off", "ブラックダイヤモンズ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/83ce0cd6-65ed-45f9-b526-6784c7236a97", "https://vgmdb.net/album/31654"]
 
-[ec9953c23ccb268fe57f05cc120ab567]
+[89e28774d5943307833fc4830d91f9ef]
 catalognumber = "PCCG-70028"
 date = "2008-08-06"
 album = "ブラックダイヤモンズ"
 tracks = [
-    [1, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 0],
-    [2, "BLACK DIAMOND (インディーズ・バージョン)", "ブラックダイヤモンズ", 0],
-    [3, "BLACK DIAMOND (メジャー・バージョン) Vocal off", "ブラックダイヤモンズ", 0],
-    [4, "BLACK DIAMOND (インディーズ・バージョン) Vocal off", "ブラックダイヤモンズ", 0],
+    [1, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 1],
+    [2, "BLACK DIAMOND (インディーズ・バージョン)", "ブラックダイヤモンズ", 1],
+    [3, "BLACK DIAMOND (メジャー・バージョン) Vocal off", "ブラックダイヤモンズ", 1],
+    [4, "BLACK DIAMOND (インディーズ・バージョン) Vocal off", "ブラックダイヤモンズ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/52492a6d-b9de-412e-9624-2d0e7bcffef7", "https://vgmdb.net/album/31655"]
 
-[aef4946af4b9bdb1a9d9281d7387999a]
+[92a05d9cb5dc4f8efba6a1009b541a2c]
 catalognumber = "PCCA-70223"
 date = "2008-08-20"
 album = "ガチンコでいこう! / Buono!"
 tracks = [
-    [1, "ガチンコでいこう!", "Buono!", 0],
-    [2, "れでぃぱんさぁ", "Buono!", 0],
-    [3, "ガチンコでいこう! (Instrumental)", "Buono!", 0],
-    [4, "れでぃぱんさぁ (Instrumental)", "Buono!", 0],
+    [1, "ガチンコでいこう!", "Buono!", 1],
+    [2, "れでぃぱんさぁ", "Buono!", 1],
+    [3, "ガチンコでいこう! (Instrumental)", "Buono!", 1],
+    [4, "れでぃぱんさぁ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b35cb4b5-ac27-304d-97da-1267baf33cac", "https://vgmdb.net/album/82150"]
 
-[8b19b6fa6465ec26df0707c1d8813507]
+[3ed89c846c8f360d7eae441bc034ebee]
 catalognumber = "PCCA-02731"
 date = "2008-08-20"
 album = "ガチンコでいこう! / Buono! Disc 1 (CD)"
 tracks = [
-    [1, "ガチンコでいこう!", "Buono!", 0],
-    [2, "れでぃぱんさぁ", "Buono!", 0],
-    [3, "ガチンコでいこう! (Instrumental)", "Buono!", 0],
-    [4, "れでぃぱんさぁ (Instrumental)", "Buono!", 0],
+    [1, "ガチンコでいこう!", "Buono!", 1],
+    [2, "れでぃぱんさぁ", "Buono!", 1],
+    [3, "ガチンコでいこう! (Instrumental)", "Buono!", 1],
+    [4, "れでぃぱんさぁ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/881185da-472c-45c2-8375-5078d10a00ea", "https://vgmdb.net/album/82151"]
 
@@ -232,43 +274,81 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/881185da-472c-45c2-8375-5078d10a00ea", "https://vgmdb.net/album/82151"]
 
-[c209bfb7342c87cbea213e78fe7b644e]
+[b3685029bf24193598bd96701cd423a0]
+catalognumber = "PCBG-61138"
+date = "2008-08-20"
+album = "「しゅごキャラ!」オリジナル・サウンドトラック Vol.2"
+tracks = [
+    [1, "ロイヤルガーデンにようこそ", "Di'LL", 1],
+    [2, "小さな王様", "Di'LL", 1],
+    [3, "キングスチェア", "Di'LL", 1],
+    [4, "我は王なり!", "Di'LL", 1],
+    [5, "なでしこの舞", "Di'LL", 1],
+    [6, "紺碧の夜", "Di'LL", 1],
+    [7, "Oh デレ マドモアゼル!", "Di'LL", 1],
+    [8, "ビシッと言うわよ!", "Di'LL", 1],
+    [9, "陽射し降る町", "Di'LL", 1],
+    [10, "ハッピー・ファミリー", "Di'LL", 1],
+    [11, "追いつ!追われつ!", "Di'LL", 1],
+    [12, "トホホな結末", "Di'LL", 1],
+    [13, "沙綾様とお呼びあそばせ", "Di'LL", 1],
+    [14, "優しい星空", "Di'LL", 1],
+    [15, "小さな一歩", "Di'LL", 1],
+    [16, "閉じてしまった扉", "Di'LL", 1],
+    [17, "心、奥深く", "Di'LL", 1],
+    [18, "迷い", "Di'LL", 1],
+    [19, "教室", "Di'LL", 1],
+    [20, "予兆", "Di'LL", 1],
+    [21, "見えない恐怖", "Di'LL", 1],
+    [22, "現れた正体", "Di'LL", 1],
+    [23, "キモチ軽やかに!", "Di'LL", 1],
+    [24, "嵐の前", "Di'LL", 1],
+    [25, "High Speed Action", "Di'LL", 1],
+    [26, "ガーディアン参上!", "Di'LL", 1],
+    [27, "クリスマスの街", "Di'LL", 1],
+    [28, "イッツ・パーティータイム!", "Di'LL", 1],
+    [29, "しゅごキャラ Swing", "Di'LL", 1],
+    [30, "日奈森家のお正月", "Di'LL", 1],
+]
+links = ["https://beta.musicbrainz.org/release/cac828ee-40c8-412e-b10f-079a56913194"]
+
+[86d53c080207f21085e244c6e1c3196f]
 catalognumber = "PCCG-70030"
 date = "2008-11-05"
 album = "にじいろキャラチェンジ! / あむあむ with ラン・ミキ・スゥ"
 tracks = [
-    [1, "にじいろキャラチェンジ!", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [2, "最強LOVE POWER", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [3, "にじいろキャラチェンジ! (あむちゃんと歌おうカラオケ)", "日奈森あむ(CV:伊藤かな恵)", 0],
-    [4, "にじいろキャラチェンジ! (ラン・ミキ・スゥと歌おうカラオ)", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [5, "にじいろキャラチェンジ! (カラオケ)", "柿島伸次", 0],
-    [6, "最強LOVE POWER (あむちゃんと歌おうカラオケ)", "日奈森あむ(CV:伊藤かな恵)", 0],
-    [7, "最強LOVE POWER (ラン・ミキ・スゥと歌おうカラオ)", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [8, "最強LOVE POWER (カラオケ)", "市川淳", 0],
+    [1, "にじいろキャラチェンジ!", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [2, "最強LOVE POWER", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [3, "にじいろキャラチェンジ! (あむちゃんと歌おうカラオケ)", "日奈森あむ(CV:伊藤かな恵)", 1],
+    [4, "にじいろキャラチェンジ! (ラン・ミキ・スゥと歌おうカラオ)", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [5, "にじいろキャラチェンジ! (カラオケ)", "柿島伸次", 1],
+    [6, "最強LOVE POWER (あむちゃんと歌おうカラオケ)", "日奈森あむ(CV:伊藤かな恵)", 1],
+    [7, "最強LOVE POWER (ラン・ミキ・スゥと歌おうカラオ)", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [8, "最強LOVE POWER (カラオケ)", "市川淳", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/35a584eb-1063-417e-8bc0-08f18a657f3c", "https://vgmdb.net/album/11296"]
 
-[0b0c6a606e7a06c6b6490334d2d1ea56]
+[cfaeca4ed879a9fc13d9e7870a3d92bb]
 catalognumber = "PCCA-70229"
 date = "2008-11-12"
 album = "ロッタラ ロッタラ / Buono!"
 tracks = [
-    [1, "ロッタラ ロッタラ", "Buono!", 0],
-    [2, "マイラブ", "Buono!", 0],
-    [3, "ロッタラ ロッタラ (Instrumental)", "Buono!", 0],
-    [4, "マイラブ (Instrumental)", "Buono!", 0],
+    [1, "ロッタラ ロッタラ", "Buono!", 1],
+    [2, "マイラブ", "Buono!", 1],
+    [3, "ロッタラ ロッタラ (Instrumental)", "Buono!", 1],
+    [4, "マイラブ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/be827c7c-b6a4-3c55-9ab4-6e9f74be11fb", "https://vgmdb.net/album/73280"]
 
-[da524dbdce74bd1d2787d027e4314696]
+[abd5bc8081aaf2a10351c25d8c13e015]
 catalognumber = "PCCA-02775"
 date = "2008-11-12"
 album = "ロッタラ ロッタラ / Buono! Vocal"
 tracks = [
-    [1, "ロッタラ ロッタラ", "Buono!", 0],
-    [2, "マイラブ", "Buono!", 0],
-    [3, "ロッタラ ロッタラ (Instrumental)", "Buono!", 0],
-    [4, "マイラブ (Instrumental)", "Buono!", 0],
+    [1, "ロッタラ ロッタラ", "Buono!", 1],
+    [2, "マイラブ", "Buono!", 1],
+    [3, "ロッタラ ロッタラ (Instrumental)", "Buono!", 1],
+    [4, "マイラブ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c803c87f-1b32-4ae0-95c1-291fd0d9b066", "https://vgmdb.net/album/73281"]
 
@@ -281,15 +361,41 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c803c87f-1b32-4ae0-95c1-291fd0d9b066", "https://vgmdb.net/album/73281"]
 
-[1392f14e6c5374ab024e3683cfca89e6]
+[28b3d33f0dd19abff2a12a1a02166ba7]
+catalognumber = "PCBG-61139"
+date = "2008-11-19"
+album = "「しゅごキャラ!」オリジナル・サウンドトラック Vol.3"
+tracks = [
+    [1, "エンブリオ", "Di'LL", 1],
+    [2, "笑って、りま", "Di'LL", 1],
+    [3, "黄金の王子", "Di'LL", 1],
+    [4, "降臨!", "Di'LL", 1],
+    [5, "夜の雫", "Di'LL", 1],
+    [6, "海里、揺れる心", "Di'LL", 1],
+    [7, "プラチナロワイヤル", "Di'LL", 1],
+    [8, "物憂げな瞳", "Di'LL", 1],
+    [9, "孤独", "Di'LL", 1],
+    [10, "痛み", "Di'LL", 1],
+    [11, "神秘", "Di'LL", 1],
+    [12, "花の妖精", "Di'LL", 1],
+    [13, "L'apres-midi calme", "Di'LL", 1],
+    [14, "My wonderful town", "Di'LL", 1],
+    [15, "おやすみなさい", "Di'LL", 1],
+    [16, "戦慄", "Di'LL", 1],
+    [17, "思惑", "Di'LL", 1],
+    [18, "夜明け", "Di'LL", 1],
+]
+links = ["https://beta.musicbrainz.org/release/24c603be-98ae-4167-bd32-e9de4ac52a7d"]
+
+[f5d8d748f2b84e5062848a3084665bb8]
 catalognumber = "PCCA-02784"
 date = "2008-12-10"
 album = "みんなのたまご / しゅごキャラエッグ! Vocal"
 tracks = [
-    [1, "みんなのたまご", "しゅごキャラエッグ!", 0],
-    [2, "はじまりのうた", "しゅごキャラエッグ!", 0],
-    [3, "みんなのたまご (instrumental)", "しゅごキャラエッグ!", 0],
-    [4, "はじまりのうた (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "みんなのたまご", "しゅごキャラエッグ!", 1],
+    [2, "はじまりのうた", "しゅごキャラエッグ!", 1],
+    [3, "みんなのたまご (instrumental)", "しゅごキャラエッグ!", 1],
+    [4, "はじまりのうた (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c9b16c28-9a8f-4c23-b7a2-c54faa2b5b95", "https://vgmdb.net/album/82175"]
 
@@ -302,27 +408,27 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82175"]
 
-[782cd041c7f42fe247fb9e1e0b650530]
+[37294ec5f05cedfd54223463582f3ca6]
 catalognumber = "PCCA-70230"
 date = "2008-12-10"
 album = "みんなのたまご / しゅごキャラエッグ!"
 tracks = [
-    [1, "みんなのたまご", "しゅごキャラエッグ!", 0],
-    [2, "はじまりのうた", "しゅごキャラエッグ!", 0],
-    [3, "みんなのたまご (instrumental)", "しゅごキャラエッグ!", 0],
-    [4, "はじまりのうた (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "みんなのたまご", "しゅごキャラエッグ!", 1],
+    [2, "はじまりのうた", "しゅごキャラエッグ!", 1],
+    [3, "みんなのたまご (instrumental)", "しゅごキャラエッグ!", 1],
+    [4, "はじまりのうた (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/93b917a7-897c-3847-ac4d-404b987bf757", "https://vgmdb.net/album/82174"]
 
-[8ff98e4e48495ab4f8e4aaca60a85066]
+[345c3895f00f201886813e3a2bc149ac]
 catalognumber = "PCCA-02818"
 date = "2009-01-21"
 album = "co・no・mi・chi / Buono! [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "co・no・mi・chi", "Buono!", 0],
-    [2, "無敵の∞Power", "Buono!", 0],
-    [3, "co・no・mi・chi (Instrumental)", "Buono!", 0],
-    [4, "無敵の∞Power (Instrumental)", "Buono!", 0],
+    [1, "co・no・mi・chi", "Buono!", 1],
+    [2, "無敵の∞Power", "Buono!", 1],
+    [3, "co・no・mi・chi (Instrumental)", "Buono!", 1],
+    [4, "無敵の∞Power (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/602f3484-85db-4ee6-8b79-46ef2c105c84", "https://vgmdb.net/album/82295"]
 
@@ -335,55 +441,55 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/602f3484-85db-4ee6-8b79-46ef2c105c84", "https://vgmdb.net/album/82295"]
 
-[839c5b49121172278fcdf679f32524a6]
+[a571619be69e326435a4b9f9005202b3]
 catalognumber = "PCCA-70233"
 date = "2009-01-21"
 album = "co・no・mi・chi / Buono!"
 tracks = [
-    [1, "co・no・mi・chi", "Buono!", 0],
-    [2, "無敵の∞Power", "Buono!", 0],
-    [3, "co・no・mi・chi (Instrumental)", "Buono!", 0],
-    [4, "無敵の∞Power (Instrumental)", "Buono!", 0],
+    [1, "co・no・mi・chi", "Buono!", 1],
+    [2, "無敵の∞Power", "Buono!", 1],
+    [3, "co・no・mi・chi (Instrumental)", "Buono!", 1],
+    [4, "無敵の∞Power (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8cf7d892-23a8-37c7-b049-33de2d8f31c6", "https://vgmdb.net/album/82294"]
 
-[c15c21f3be4ff9e0030261de6f32e6df]
+[e5fd6d1064ab32d5c89caf4000a1a980]
 catalognumber = "PCCA-02840"
 date = "2009-02-11"
 album = "Buono! 2 / Buono!"
 tracks = [
-    [1, "Early Bird", "Buono!", 0],
-    [2, "Kiss! Kiss! Kiss!", "Buono!", 0],
-    [3, "キラキラ", "Buono!", 0],
-    [4, "消失点‐Vanishing Point-", "Buono!", 0],
-    [5, "ロッタラ ロッタラ", "Buono!", 0],
-    [6, "co・no・mi・chi", "Buono!", 0],
-    [7, "みんなだいすき", "Buono!", 0],
-    [8, "I NEED YOU", "Buono!", 0],
-    [9, "ガチンコでいこう!", "Buono!", 0],
-    [10, "You’re My Friend", "Buono!", 0],
-    [11, "OVER THE RAINBOW", "Buono!", 0],
-    [12, "ゴール", "Buono!", 0],
+    [1, "Early Bird", "Buono!", 1],
+    [2, "Kiss! Kiss! Kiss!", "Buono!", 1],
+    [3, "キラキラ", "Buono!", 1],
+    [4, "消失点‐Vanishing Point-", "Buono!", 1],
+    [5, "ロッタラ ロッタラ", "Buono!", 1],
+    [6, "co・no・mi・chi", "Buono!", 1],
+    [7, "みんなだいすき", "Buono!", 1],
+    [8, "I NEED YOU", "Buono!", 1],
+    [9, "ガチンコでいこう!", "Buono!", 1],
+    [10, "You’re My Friend", "Buono!", 1],
+    [11, "OVER THE RAINBOW", "Buono!", 1],
+    [12, "ゴール", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/31b2257e-5a49-45df-8a57-e0757252aa96", "https://vgmdb.net/album/73396"]
 
-[0b0a847b7b50d722a4f3f964d9f3ba8b]
+[76335908c73d0047b0daf227331ee8c3]
 catalognumber = "PCCA-02839"
 date = "2009-02-11"
 album = "Buono! 2 / Buono! [初回限定盤] Vocal"
 tracks = [
-    [1, "Early Bird", "Buono!", 0],
-    [2, "Kiss! Kiss! Kiss!", "Buono!", 0],
-    [3, "キラキラ", "Buono!", 0],
-    [4, "消失点‐Vanishing Point-", "Buono!", 0],
-    [5, "ロッタラ ロッタラ", "Buono!", 0],
-    [6, "co・no・mi・chi", "Buono!", 0],
-    [7, "みんなだいすき", "Buono!", 0],
-    [8, "I NEED YOU", "Buono!", 0],
-    [9, "ガチンコでいこう!", "Buono!", 0],
-    [10, "You’re My Friend", "Buono!", 0],
-    [11, "OVER THE RAINBOW", "Buono!", 0],
-    [12, "ゴール", "Buono!", 0],
+    [1, "Early Bird", "Buono!", 1],
+    [2, "Kiss! Kiss! Kiss!", "Buono!", 1],
+    [3, "キラキラ", "Buono!", 1],
+    [4, "消失点‐Vanishing Point-", "Buono!", 1],
+    [5, "ロッタラ ロッタラ", "Buono!", 1],
+    [6, "co・no・mi・chi", "Buono!", 1],
+    [7, "みんなだいすき", "Buono!", 1],
+    [8, "I NEED YOU", "Buono!", 1],
+    [9, "ガチンコでいこう!", "Buono!", 1],
+    [10, "You’re My Friend", "Buono!", 1],
+    [11, "OVER THE RAINBOW", "Buono!", 1],
+    [12, "ゴール", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c598b285-cbb5-35c3-b15a-ebc53f25d6bb", "https://vgmdb.net/album/73393"]
 
@@ -397,27 +503,47 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c598b285-cbb5-35c3-b15a-ebc53f25d6bb", "https://vgmdb.net/album/73393"]
 
-[0a1832aa32761fc2b88d079b803e3dd8]
+[5cca9746a3d58fc6106869c6dc92ffb0]
+catalognumber = "PCBG-61140"
+date = "2009-02-18"
+album = "「しゅごキャラ!」オリジナル・サウンドトラック Vol.4"
+tracks = [
+    [1, "ひとりぼっちのクイーン", "Di'LL", 1],
+    [2, "私の世界", "Di'LL", 1],
+    [3, "輝きを信じて", "Di'LL", 1],
+    [4, "キャラなり!アミュレットダイヤ!", "Di'LL", 1],
+    [5, "Angel Cradle", "Di'LL", 1],
+    [6, "僕達の地球", "日奈森あむと聖夜学園小合唱隊", 1],
+    [7, "僕達の地球 (カラオケ)", "Di'LL", 1],
+    [8, "沙綾様のおピアノ", "Di'LL", 1],
+    [9, "勇気の歌", "日奈森あむ(CV:伊藤かな恵)", 1],
+    [10, "御前", "Di'LL", 1],
+    [11, "黒猫のセレナーデ", "Di'LL", 1],
+    [12, "しゅごキャラ!Suite (パイロットフィルム用音楽)", "Di'LL", 1],
+]
+links = ["https://beta.musicbrainz.org/release/e2979ae6-2da9-4160-a5c7-44c8cd86ffa9"]
+
+[1fca5924b85592b302b9f90e6862c5ab]
 catalognumber = "PCCA-70239"
 date = "2009-02-25"
 album = "しゅごしゅご! / しゅごキャラエッグ!"
 tracks = [
-    [1, "しゅごしゅご!", "しゅごキャラエッグ!", 0],
-    [2, "ワンダーランドにつれてって", "しゅごキャラエッグ!", 0],
-    [3, "しゅごしゅご! (instrumental)", "しゅごキャラエッグ!", 0],
-    [4, "ワンダーランドにつれてって (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "しゅごしゅご!", "しゅごキャラエッグ!", 1],
+    [2, "ワンダーランドにつれてって", "しゅごキャラエッグ!", 1],
+    [3, "しゅごしゅご! (instrumental)", "しゅごキャラエッグ!", 1],
+    [4, "ワンダーランドにつれてって (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c8ce4ef6-15af-3f62-a42e-3ff2430a5eec", "https://vgmdb.net/album/82176"]
 
-[144210ce70c9c6c3b1d93c9a0fce8d2d]
+[b64938e191e106e8b57c714f96d7b131]
 catalognumber = "PCCA-02850"
 date = "2009-02-25"
 album = "しゅごしゅご! / しゅごキャラエッグ! Disc 1 (CD)"
 tracks = [
-    [1, "しゅごしゅご!", "しゅごキャラエッグ!", 0],
-    [2, "ワンダーランドにつれてって", "しゅごキャラエッグ!", 0],
-    [3, "しゅごしゅご! (instrumental)", "しゅごキャラエッグ!", 0],
-    [4, "ワンダーランドにつれてって (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "しゅごしゅご!", "しゅごキャラエッグ!", 1],
+    [2, "ワンダーランドにつれてって", "しゅごキャラエッグ!", 1],
+    [3, "しゅごしゅご! (instrumental)", "しゅごキャラエッグ!", 1],
+    [4, "ワンダーランドにつれてって (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cb866475-d9a7-472c-bc37-2603d677ea71", "https://vgmdb.net/album/82177"]
 
@@ -430,45 +556,45 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82177"]
 
-[80663c9b164f418ac1b194ddf733cd32]
+[0762c5dde05eb0ec6b8e9c9239912d5a]
 catalognumber = "PCCG-00948"
 date = "2009-03-18"
 album = "しゅごキャラ! キャラクターソングコレクション"
 tracks = [
-    [1, "にじいろキャラチェンジ!", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [2, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 0],
-    [3, "Happy Xmas", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [4, "いいことありそう", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [5, "君のBirthday", "日奈森あむ(CV:伊藤かな恵)", 0],
-    [6, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 0],
-    [7, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 0],
-    [8, "最強LOVE POWER", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 0],
-    [9, "Heartful Song", "ほしな歌唄(CV:水樹奈々)", 0],
-    [10, "ゆめのつぼみ", "ほしな歌唄(CV:水樹奈々)", 0],
+    [1, "にじいろキャラチェンジ!", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [2, "迷宮バタフライ", "ほしな歌唄(CV:水樹奈々)", 1],
+    [3, "Happy Xmas", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [4, "いいことありそう", "ラン・ミキ・スゥ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生)", 2],
+    [5, "君のBirthday", "日奈森あむ(CV:伊藤かな恵)", 2],
+    [6, "Blue Moon", "ほしな歌唄(CV:水樹奈々)", 1],
+    [7, "BLACK DIAMOND (メジャー・バージョン)", "ブラックダイヤモンズ", 1],
+    [8, "最強LOVE POWER", "あむ with ラン・ミキ・スゥ(伊藤かな恵、阿澄佳奈、加藤奈々絵、豊崎愛生)", 1],
+    [9, "Heartful Song", "ほしな歌唄(CV:水樹奈々)", 1],
+    [10, "ゆめのつぼみ", "ほしな歌唄(CV:水樹奈々)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4a4bd71f-fa83-4093-a14e-fc52b360c47b", "https://vgmdb.net/album/37683"]
 
-[155103d9b619aafcb271997f53b1dce0]
+[21313e2c864e8fbf9f66be15311ff976]
 catalognumber = "PCCA-70247"
 date = "2009-04-29"
 album = "MY BOY / Buono!"
 tracks = [
-    [1, "MY BOY", "Buono!", 0],
-    [2, "ワープ!", "Buono!", 0],
-    [3, "MY BOY (Instrumental)", "Buono!", 0],
-    [4, "ワープ! (Instrumental)", "Buono!", 0],
+    [1, "MY BOY", "Buono!", 1],
+    [2, "ワープ!", "Buono!", 1],
+    [3, "MY BOY (Instrumental)", "Buono!", 1],
+    [4, "ワープ! (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5d3fdce3-f13b-3645-ad55-47af16c83724", "https://vgmdb.net/album/73390"]
 
-[90e204f8d1e8b76b8d55a22636a72da6]
+[db3b0741cfed56183d7abd9619ea6ff5]
 catalognumber = "PCCA-02923"
 date = "2009-04-29"
 album = "MY BOY / Buono! [Limited Edition] Vocal"
 tracks = [
-    [1, "MY BOY", "Buono!", 0],
-    [2, "ワープ!", "Buono!", 0],
-    [3, "MY BOY (Instrumental)", "Buono!", 0],
-    [4, "ワープ! (Instrumental)", "Buono!", 0],
+    [1, "MY BOY", "Buono!", 1],
+    [2, "ワープ!", "Buono!", 1],
+    [3, "MY BOY (Instrumental)", "Buono!", 1],
+    [4, "ワープ! (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f67567a5-721d-4ed8-9677-0eef8df14b69", "https://vgmdb.net/album/73391"]
 
@@ -481,16 +607,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f67567a5-721d-4ed8-9677-0eef8df14b69", "https://vgmdb.net/album/73391"]
 
-[b39d1e46079902a11140d5d947a0ff04]
+[d2c4d025c1b533a3389fbc59607566ca]
 catalognumber = "PCCA-02911"
 date = "2009-05-25"
 album = "おまかせ♪ガーディアン / ガーディアンズ4 Disc 1 (CD)"
 tracks = [
-    [1, "おまかせ♪ガーディアン", "ガーディアンズ4", 0],
-    [2, "おまかせ♪ガーディアン (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 0],
-    [3, "Summer Has Come!", "ガーディアンズ4", 0],
-    [4, "おまかせ♪ガーディアン (Instrumental)", "ガーディアンズ4", 0],
-    [5, "Summer Has Come! (Instrumental)", "ガーディアンズ4", 0],
+    [1, "おまかせ♪ガーディアン", "ガーディアンズ4", 1],
+    [2, "おまかせ♪ガーディアン (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 1],
+    [3, "Summer Has Come!", "ガーディアンズ4", 1],
+    [4, "おまかせ♪ガーディアン (Instrumental)", "ガーディアンズ4", 1],
+    [5, "Summer Has Come! (Instrumental)", "ガーディアンズ4", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2fbca8bf-f35c-3179-9ff6-74041acc6925", "https://vgmdb.net/album/82180"]
 
@@ -503,45 +629,45 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82180"]
 
-[0b6fab3a18f24d1cc0a1dcbe5b82c3f7]
+[6404612d5ced3f70cf2ad424fdc0f9b1]
 catalognumber = "PCCA-02979"
 date = "2009-05-27"
 album = "おまかせ♪ガーディアン / ガーディアンズ4"
 tracks = [
-    [1, "おまかせ♪ガーディアン", "ガーディアンズ4", 0],
-    [2, "おまかせ♪ガーディアン (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 0],
-    [3, "Summer Has Come!", "ガーディアンズ4", 0],
-    [4, "おまかせ♪ガーディアン (Instrumental)", "ガーディアンズ4", 0],
-    [5, "Summer Has Come! (Instrumental)", "ガーディアンズ4", 0],
+    [1, "おまかせ♪ガーディアン", "ガーディアンズ4", 1],
+    [2, "おまかせ♪ガーディアン (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 1],
+    [3, "Summer Has Come!", "ガーディアンズ4", 1],
+    [4, "おまかせ♪ガーディアン (Instrumental)", "ガーディアンズ4", 1],
+    [5, "Summer Has Come! (Instrumental)", "ガーディアンズ4", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a2cbc531-142e-43ad-aeee-7e2af5563dd5", "https://vgmdb.net/album/82179"]
 
-[9a80b9b42def15b3e779caf99b7a7d78]
+[3becda2e31b660f46eb57c2c22c6edc1]
 catalognumber = "PCCG-00977"
 date = "2009-08-05"
 album = "しゅごキャラ! キャラクターソングコレクション2"
 tracks = [
-    [1, "カラフルハートビート", "あむ with ガーディアン(CV:伊藤かな恵、高木礼子、千葉紗子、中村知子、矢作紗友里)", 0],
-    [2, "シークレットプリンセス", "桜井優亜(CV:釘宮理恵)", 0],
-    [3, "ちいさな星～The Little Prince～", "辺里唯世(CV:高木礼子)", 0],
-    [4, "いつかはロマンス", "真城りま(CV:矢作紗友里)", 0],
-    [5, "大きくなぁれ!", "結木やや(CV:中村知子)", 0],
-    [6, "花手紙", "藤咲なぎひこ・なでしこ(CV:千葉紗子)", 0],
-    [7, "月夜のマリオネット", "月詠イクト(CV:中村悠一)", 0],
-    [8, "太陽が似合うよ", "ほしな歌唄(CV:水樹奈々)", 0],
-    [9, "シークレットプリンセス (あむVer.)", "日奈森あむ(CV:伊藤かな恵)", 0],
+    [1, "カラフルハートビート", "あむ with ガーディアン(CV:伊藤かな恵、高木礼子、千葉紗子、中村知子、矢作紗友里)", 1],
+    [2, "シークレットプリンセス", "桜井優亜(CV:釘宮理恵)", 1],
+    [3, "ちいさな星～The Little Prince～", "辺里唯世(CV:高木礼子)", 1],
+    [4, "いつかはロマンス", "真城りま(CV:矢作紗友里)", 2],
+    [5, "大きくなぁれ!", "結木やや(CV:中村知子)", 2],
+    [6, "花手紙", "藤咲なぎひこ・なでしこ(CV:千葉紗子)", 1],
+    [7, "月夜のマリオネット", "月詠イクト(CV:中村悠一)", 1],
+    [8, "太陽が似合うよ", "ほしな歌唄(CV:水樹奈々)", 2],
+    [9, "シークレットプリンセス (あむVer.)", "日奈森あむ(CV:伊藤かな恵)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/700104fe-2f35-41e7-ab74-377f1d853237", "https://vgmdb.net/album/94322"]
 
-[74a0ea29a6f2bfdf9ddb76ae7b81d1c1]
+[603b09049d43104dbe8ead82841466e7]
 catalognumber = "PCCA-02987"
 date = "2009-08-26"
 album = "TAKE IT EASY! / Buono! [Limited Edition] Vocal"
 tracks = [
-    [1, "Take It Easy!", "Buono!", 0],
-    [2, "キライスキダイキライ", "Buono!", 0],
-    [3, "Take It Easy! (Instrumental)", "Buono!", 0],
-    [4, "キライスキダイキライ (Instrumental)", "Buono!", 0],
+    [1, "Take It Easy!", "Buono!", 1],
+    [2, "キライスキダイキライ", "Buono!", 1],
+    [3, "Take It Easy! (Instrumental)", "Buono!", 1],
+    [4, "キライスキダイキライ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/52734a2c-8c40-4b6a-8a21-679efd21d29c", "https://vgmdb.net/album/66667"]
 
@@ -554,28 +680,28 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/66667"]
 
-[98af3faad174a9d07813a2368a53deeb]
+[2349323ed836b7ce4d1c26cc73319845]
 catalognumber = "PCCA-70252"
 date = "2009-08-26"
 album = "TAKE IT EASY! / Buono!"
 tracks = [
-    [1, "Take It Easy!", "Buono!", 0],
-    [2, "キライスキダイキライ", "Buono!", 0],
-    [3, "Take It Easy! (Instrumental)", "Buono!", 0],
-    [4, "キライスキダイキライ (Instrumental)", "Buono!", 0],
+    [1, "Take It Easy!", "Buono!", 1],
+    [2, "キライスキダイキライ", "Buono!", 1],
+    [3, "Take It Easy! (Instrumental)", "Buono!", 1],
+    [4, "キライスキダイキライ (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8e868a9d-47e2-3487-8629-8a2aa51cbb65", "https://vgmdb.net/album/82163"]
 
-[c1595d17d4c88e0274a1ca5aaa9e2db0]
+[fb4c3e234b6758021ba833c461655d76]
 catalognumber = "PCCA-03000"
 date = "2009-09-02"
 album = "School Days / ガーディアンズ4 Disc 1 (CD)"
 tracks = [
-    [1, "School Days", "ガーディアンズ4", 0],
-    [2, "School Days (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 0],
-    [3, "いつかどこかで。", "ガーディアンズ4", 0],
-    [4, "School Days (Instrumental)", "ガーディアンズ4", 0],
-    [5, "いつかどこかで。 (Instrumental)", "ガーディアンズ4", 0],
+    [1, "School Days", "ガーディアンズ4", 1],
+    [2, "School Days (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 1],
+    [3, "いつかどこかで。", "ガーディアンズ4", 1],
+    [4, "School Days (Instrumental)", "ガーディアンズ4", 1],
+    [5, "いつかどこかで。 (Instrumental)", "ガーディアンズ4", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/002e8d37-4408-4e3e-9a37-efd60d5b87b9", "https://vgmdb.net/album/82293"]
 
@@ -588,28 +714,28 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82293"]
 
-[daaa09b54cca05db70f13615e812e589]
+[9b84e52138255f02470d0ac59f423122]
 catalognumber = "PCCA-03001"
 date = "2009-09-02"
 album = "School Days / ガーディアンズ4"
 tracks = [
-    [1, "School Days", "ガーディアンズ4", 0],
-    [2, "School Days (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 0],
-    [3, "いつかどこかで。", "ガーディアンズ4", 0],
-    [4, "School Days (Instrumental)", "ガーディアンズ4", 0],
-    [5, "いつかどこかで。 (Instrumental)", "ガーディアンズ4", 0],
+    [1, "School Days", "ガーディアンズ4", 1],
+    [2, "School Days (しゅごキャラエッグ! Version)", "しゅごキャラエッグ!", 1],
+    [3, "いつかどこかで。", "ガーディアンズ4", 1],
+    [4, "School Days (Instrumental)", "ガーディアンズ4", 1],
+    [5, "いつかどこかで。 (Instrumental)", "ガーディアンズ4", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f25dc58-a769-3891-935e-6a3bd510b125", "https://vgmdb.net/album/82292"]
 
-[31ebf04f52b5bf5fd815f47b2545a82c]
+[4c243153f9799dfc1ca50b9dd9bbf59f]
 catalognumber = "PCCA-70261"
 date = "2009-11-18"
 album = "PARTY TIME / ガーディアンズ4"
 tracks = [
-    [1, "PARTY TIME", "ガーディアンズ4", 0],
-    [2, "わたしのたまご", "しゅごキャラエッグ!", 0],
-    [3, "PARTY TIME (instrumental)", "ガーディアンズ4", 0],
-    [4, "わたしのたまご (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "PARTY TIME", "ガーディアンズ4", 1],
+    [2, "わたしのたまご", "しゅごキャラエッグ!", 1],
+    [3, "PARTY TIME (instrumental)", "ガーディアンズ4", 1],
+    [4, "わたしのたまご (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3dcf3fd4-4c9f-3e92-a1e0-7165ab8496c8", "https://vgmdb.net/album/82325"]
 
@@ -623,26 +749,26 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82326"]
 
-[ba1d161cd180a81a8d090263248da929]
+[0d7fa629e739f1158a879cd7ae7330b4]
 catalognumber = "PCCA-03046"
 date = "2009-11-18"
 album = "PARTY TIME / ガーディアンズ4 [初回限定盤] Disc 1 (CD)"
 tracks = [
-    [1, "PARTY TIME", "ガーディアンズ4", 0],
-    [2, "わたしのたまご", "しゅごキャラエッグ!", 0],
-    [3, "PARTY TIME (instrumental)", "ガーディアンズ4", 0],
-    [4, "わたしのたまご (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "PARTY TIME", "ガーディアンズ4", 1],
+    [2, "わたしのたまご", "しゅごキャラエッグ!", 1],
+    [3, "PARTY TIME (instrumental)", "ガーディアンズ4", 1],
+    [4, "わたしのたまご (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2437f7ef-4008-4681-b5e9-9eb9f3c1c87d", "https://vgmdb.net/album/82326"]
 
-[868c424c0859ddd0c4a81028432dc3e0]
+[9154cb31a5dbd1aa3f8bcec0867450de]
 catalognumber = "PCBG-61141-10"
 date = "2009-12-16"
 album = "しゅごキャラ!! どきっ オリジナルサウンドトラック Vol.1"
 tracks = [
     [1, "どきっとスタート!", "Di'LL", 0],
     [2, "Daily life of amu", "Di'LL", 0],
-    [3, "サブタイトル", "Di'LL", 0],
+    [3, "サブタイトル", "Di'LL", 1],
     [4, "メリーゴーランド", "Di'LL", 0],
     [5, "ガーディアンのティータイム", "Di'LL", 0],
     [6, "色彩の無い世界", "Di'LL", 0],
@@ -657,14 +783,14 @@ tracks = [
     [15, "Waltz for freedom", "Di'LL", 0],
     [16, "お宅訪問ズバババーん!", "Di'LL", 0],
     [17, "ナゾキャラチェンジ", "Di'LL", 0],
-    [18, "アイキャッチA", "Di'LL", 0],
-    [19, "アイキャッチB", "Di'LL", 0],
+    [18, "アイキャッチA", "Di'LL", 1],
+    [19, "アイキャッチB", "Di'LL", 1],
     [20, "十字架を背負って", "Di'LL", 0],
     [21, "包囲網", "Di'LL", 0],
     [22, "キャラなり!ガーディアンズ!", "Di'LL", 0],
     [23, "囚われてしまった心", "Di'LL", 0],
     [24, "Heavy fight", "Di'LL", 0],
-    [25, "オープンハート! (Ver.2)", "Di'LL", 0],
+    [25, "オープンハート! (Ver.2)", "Di'LL", 1],
     [26, "不思議な光", "Di'LL", 0],
     [27, "そこにある、あたたかさ。", "Di'LL", 0],
     [28, "楽しい予感", "Di'LL", 0],
@@ -673,27 +799,27 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9f2408ca-4b8d-4f89-9c6f-a20643841a42", "https://vgmdb.net/album/74934"]
 
-[5bd477e7a6fa63f98438915e96d252b4]
+[f2bf29ec464b0d76e1eec330812a707b]
 catalognumber = "PCCA-70260"
 date = "2009-12-16"
 album = "Bravo☆Bravo / Buono!"
 tracks = [
-    [1, "Bravo☆Bravo", "Buono!", 0],
-    [2, "-Winter Story-", "Buono!", 0],
-    [3, "Bravo☆Bravo (Instrumental)", "Buono!", 0],
-    [4, "-Winter Story- (Instrumental)", "Buono!", 0],
+    [1, "Bravo☆Bravo", "Buono!", 1],
+    [2, "-Winter Story-", "Buono!", 1],
+    [3, "Bravo☆Bravo (Instrumental)", "Buono!", 1],
+    [4, "-Winter Story- (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7a740d33-4cec-3860-9692-fe7ee9e00451", "https://vgmdb.net/album/133314"]
 
-[dba4b7eb84297e4ed5bfbefd13edc53e]
+[2fa9bef4da141295e7a4daa5c0e2f9c4]
 catalognumber = "PCCA-03045"
 date = "2009-12-16"
 album = "Bravo☆Bravo / Buono! [初回限定盤] Vocal"
 tracks = [
-    [1, "Bravo☆Bravo", "Buono!", 0],
-    [2, "-Winter Story-", "Buono!", 0],
-    [3, "Bravo☆Bravo (Instrumental)", "Buono!", 0],
-    [4, "-Winter Story- (Instrumental)", "Buono!", 0],
+    [1, "Bravo☆Bravo", "Buono!", 1],
+    [2, "-Winter Story-", "Buono!", 1],
+    [3, "Bravo☆Bravo (Instrumental)", "Buono!", 1],
+    [4, "-Winter Story- (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fc9c08b3-b817-4cdc-a513-060225029d0e", "https://vgmdb.net/album/133313"]
 
@@ -706,15 +832,15 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/133313"]
 
-[716b319578302875c0db6002464a8554]
+[fb9a663aa5d1968e9a7167a343c84ef9]
 catalognumber = "PCCA-03081"
 date = "2010-01-20"
 album = "Going On! / ガーディアンズ4 [初回限定盤] Disc 1 (CD)"
 tracks = [
-    [1, "Going On!", "ガーディアンズ4", 0],
-    [2, "ありがとう〜大きくカンシャ!〜", "しゅごキャラエッグ!", 0],
-    [3, "Going On! (instrumental)", "ガーディアンズ4", 0],
-    [4, "ありがとう〜大きくカンシャ!〜 (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "Going On!", "ガーディアンズ4", 1],
+    [2, "ありがとう〜大きくカンシャ!〜", "しゅごキャラエッグ!", 1],
+    [3, "Going On! (instrumental)", "ガーディアンズ4", 1],
+    [4, "ありがとう〜大きくカンシャ!〜 (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f22dc5a5-214a-461e-98a0-c7c6eee3d632", "https://vgmdb.net/album/82328"]
 
@@ -728,19 +854,19 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82328"]
 
-[ea8960cef434677b584eba9363897489]
+[81d37fb96411f1b44df260c2725985bf]
 catalognumber = "PCCA-70270"
 date = "2010-01-20"
 album = "Going On! / ガーディアンズ4"
 tracks = [
-    [1, "Going On!", "ガーディアンズ4", 0],
-    [2, "ありがとう〜大きくカンシャ!〜", "しゅごキャラエッグ!", 0],
-    [3, "Going On! (instrumental)", "ガーディアンズ4", 0],
-    [4, "ありがとう〜大きくカンシャ!〜 (instrumental)", "しゅごキャラエッグ!", 0],
+    [1, "Going On!", "ガーディアンズ4", 1],
+    [2, "ありがとう〜大きくカンシャ!〜", "しゅごキャラエッグ!", 1],
+    [3, "Going On! (instrumental)", "ガーディアンズ4", 1],
+    [4, "ありがとう〜大きくカンシャ!〜 (instrumental)", "しゅごキャラエッグ!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e2cb786e-7bd4-3960-b784-4c694477b4ed", "https://vgmdb.net/album/82327"]
 
-[1719f05a4a5ee9d8abe060a39112e40a]
+[de4449fdc67d6b166c4e0d3437789835]
 catalognumber = "ATCD-23001"
 date = "2010-01-27"
 album = "ANIME HOUSE PROJECT -萌え selection vol.1-"
@@ -754,58 +880,58 @@ tracks = [
     [7, "巫女みこナース・愛のテーマ", "Groovetune", 0],
     [8, "エージェント夜を往く", "Groovetune", 0],
     [9, "Do-Dai", "Satoshi Imano", 0],
-    [10, "School Days", "Aether_Eru", 0],
+    [10, "School Days", "Aether_Eru", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad5afd3b-c5aa-409b-bd66-a940277a9bd9", "https://vgmdb.net/album/15910"]
 
-[6ab22417ee51577bc8306b8bbad12ea2]
+[e32eea93a904b40fcdedfe6af185de79]
 catalognumber = "PCCA-03076"
 date = "2010-02-03"
 album = "Our Songs / Buono! [初回限定盤] Vocal"
 tracks = [
-    [1, "Our Songs", "Buono!", 0],
-    [2, "MIRACLE HAPPY LOVE SONG", "Buono!", 0],
-    [3, "Our Songs (Instrumental)", "Buono!", 0],
-    [4, "MIRACLE HAPPY LOVE SONG (Instrumental)", "Buono!", 0],
+    [1, "Our Songs", "Buono!", 1],
+    [2, "MIRACLE HAPPY LOVE SONG", "Buono!", 1],
+    [3, "Our Songs (Instrumental)", "Buono!", 1],
+    [4, "MIRACLE HAPPY LOVE SONG (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f9be3d14-d8c1-4ea3-b580-b99e5a36af21", "https://vgmdb.net/album/133316"]
 
-[99011faee8b8846e0fc1b8c0427f81a7]
+[c7a47bb2f42c6fd1a6cef48f8f4530a5]
 catalognumber = "PCCA-03076"
 date = "2010-02-03"
 album = "Our Songs / Buono! [初回限定盤] Video"
 tracks = [
-    [1, "Our Songs (10th Single) (ジャケット撮影メイキング)", "Buono!", 0],
+    [1, "Our Songs (10th Single) (ジャケット撮影メイキング)", "Buono!", 1],
     [2, "We are Buono! (3rd Album) (ジャケット撮影メイキング)", "Buono!", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f9be3d14-d8c1-4ea3-b580-b99e5a36af21", "https://vgmdb.net/album/133316"]
 
-[15bfd0de56ee19c44570e93de7a8c56c]
+[a6edb9778a5e60ef1c954b0f0e92f690]
 catalognumber = "PCCA-70268"
 date = "2010-02-03"
 album = "Our Songs / Buono!"
 tracks = [
-    [1, "Our Songs", "Buono!", 0],
-    [2, "MIRACLE HAPPY LOVE SONG", "Buono!", 0],
-    [3, "Our Songs (Instrumental)", "Buono!", 0],
-    [4, "MIRACLE HAPPY LOVE SONG (Instrumental)", "Buono!", 0],
+    [1, "Our Songs", "Buono!", 1],
+    [2, "MIRACLE HAPPY LOVE SONG", "Buono!", 1],
+    [3, "Our Songs (Instrumental)", "Buono!", 1],
+    [4, "MIRACLE HAPPY LOVE SONG (Instrumental)", "Buono!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9e2c8837-e818-336a-8b5d-219721be8d0b", "https://vgmdb.net/album/133291"]
 
-[5fd3ca79b123480c9fb6b8b63a5ba76f]
+[d25acabdb9b17325bb95bc794f77945b]
 catalognumber = "PCCG-01029"
 date = "2010-02-17"
 album = "しゅごキャラ! キャラクターソングコレクション3"
 tracks = [
-    [1, "合い言葉はオープンハート", "日奈森あむ(CV:伊藤かな恵)", 0],
-    [2, "はんぶんこのハート", "日奈森あむ(CV:伊藤かな恵)", 0],
-    [3, "たまご戦士しゅごボンバー", "ラン・ミキ・スゥ・ダイヤ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生、伊藤かな恵)", 0],
-    [4, "茜色の空", "ほしな歌唄(CV:水樹奈々)", 0],
-    [5, "夢追いRACER", "日奈森あむ(CV:伊藤かな恵)", 0],
+    [1, "合い言葉はオープンハート", "日奈森あむ(CV:伊藤かな恵)", 1],
+    [2, "はんぶんこのハート", "日奈森あむ(CV:伊藤かな恵)", 1],
+    [3, "たまご戦士しゅごボンバー", "ラン・ミキ・スゥ・ダイヤ(CV:阿澄佳奈、加藤奈々絵、豊崎愛生、伊藤かな恵)", 1],
+    [4, "茜色の空", "ほしな歌唄(CV:水樹奈々)", 1],
+    [5, "夢追いRACER", "日奈森あむ(CV:伊藤かな恵)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5e296124-146d-455a-9651-0c3ed4c4f520", "https://vgmdb.net/album/67030"]
 
-[2c8e5fc92534c83f58f2fe0f66c8b1bd]
+[8522cf09ee01e4bc38221e08f6c19494]
 catalognumber = "PCBG-61142-10"
 date = "2010-08-18"
 album = "しゅごキャラ!! どきっ オリジナルサウンドトラック Vol.2"
@@ -836,12 +962,12 @@ tracks = [
     [24, "クイーンズワルツ", "Di'LL", 0],
     [25, "アミュレットフォーチュン", "Di'LL", 0],
     [26, "不思議な二人のおかしな旅", "Di'LL", 0],
-    [27, "オープンハート・フルボリューム", "Di'LL", 0],
+    [27, "オープンハート・フルボリューム", "Di'LL", 1],
     [28, "君に、ありがとう。", "Di'LL", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/77e29010-fc07-41d7-bedb-b932f7ba2fdb", "https://vgmdb.net/album/74935"]
 
-[263b230a4ae15df135540d61922d1e08]
+[6ba595643010a2292bfe5c8b7cb1577e]
 catalognumber = "EPCE-5742"
 date = "2010-12-22"
 album = "みんなのアイドル☆コレクション ~テレビアニメ・ヒット・ソング集~"
@@ -850,7 +976,7 @@ tracks = [
     [2, "リトル♥ぷりんせす☆ぷりっ!", "リルぷりっ", 0],
     [3, "夢にエール! パティシエール♪", "五條真由美", 0],
     [4, "Alright! ハートキャッチプリキュア!", "池田彩", 0],
-    [5, "ホントのじぶん", "Buono!", 0],
+    [5, "ホントのじぶん", "Buono!", 1],
     [6, "GO-GO たまごっち!", "ならゆりあ", 0],
     [7, "おしゃれ マイドリーム", "北神未海(CV小川真奈) with MM学園 合唱部", 0],
     [8, "マジ?マジ!マジカル☆ジュエル", "浅香唯", 0],
@@ -862,7 +988,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fae31389-cc31-459a-9d00-f969696d16f8", "https://vgmdb.net/album/75409"]
 
-[28bfc5b05e32ad8f4de051498ef9583d]
+[9501dc7c7e7059d25e07426c1f149111]
 catalognumber = "KIZC-141~2"
 date = "2011-11-23"
 album = "THE MUSEUM II / 水樹奈々 Disc 1 (CD) [KIZC-141]"
@@ -881,7 +1007,7 @@ tracks = [
     [12, "Pray", "水樹奈々", 0],
     [13, "COSMIC LOVE", "水樹奈々", 0],
     [14, "DISCOTHEQUE", "水樹奈々", 0],
-    [15, "迷宮バタフライ ―diverse―", "水樹奈々", 0],
+    [15, "迷宮バタフライ ―diverse―", "水樹奈々", 1],
     [16, "ROMANCERS’ NEO", "水樹奈々", 0],
     [17, "SUPER GENERATION ―MUSEUM STYLE―", "水樹奈々", 0],
 ]
@@ -897,7 +1023,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a9a5156c-bafa-4ed0-9131-f9bafff5b4bc", "https://vgmdb.net/album/82165"]
 
-[0a8ef96f3e6d761ee89aed2f259a39a5]
+[1796ceb513df1625abc928dd3bcc6fa8]
 catalognumber = "KIZC-139~40"
 date = "2011-11-23"
 album = "THE MUSEUM II / 水樹奈々 Disc 1 (CD) [KIZC-139]"
@@ -916,7 +1042,7 @@ tracks = [
     [12, "Pray", "水樹奈々", 0],
     [13, "COSMIC LOVE", "水樹奈々", 0],
     [14, "DISCOTHEQUE", "水樹奈々", 0],
-    [15, "迷宮バタフライ ―diverse―", "水樹奈々", 0],
+    [15, "迷宮バタフライ ―diverse―", "水樹奈々", 1],
     [16, "ROMANCERS’ NEO", "水樹奈々", 0],
     [17, "SUPER GENERATION ―MUSEUM STYLE―", "水樹奈々", 0],
 ]
@@ -932,51 +1058,51 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d2a924f6-579c-4f18-ad1d-9ad480a1a757", "https://vgmdb.net/album/36622"]
 
-[0453823edc9c0219506a0282fb9e41ce]
+[a82b01bd93a83d2787b7e98c205ab88b]
 catalognumber = "LACA-9688~9"
 date = "2019-08-28"
 album = "カナエルケシキ / 伊藤かな恵 Vocal"
 tracks = [
-    [1, "あと3センチ", "伊藤かな恵", 0],
-    [2, "ユメ・ミル・ココロ", "伊藤かな恵", 0],
-    [3, "セツナラブレター", "伊藤かな恵", 0],
-    [4, "サボテン", "伊藤かな恵", 0],
-    [5, "星の缶バッチ", "伊藤かな恵", 0],
-    [6, "いじわるな恋", "伊藤かな恵", 0],
-    [7, "メタメリズム", "伊藤かな恵", 0],
-    [8, "君がいれば", "伊藤かな恵", 0],
-    [9, "つまさきだち", "伊藤かな恵", 0],
-    [10, "ビギナードライバー", "伊藤かな恵", 0],
-    [11, "COLORS!", "伊藤かな恵", 0],
-    [12, "オーロラ", "伊藤かな恵", 0],
+    [1, "あと3センチ", "伊藤かな恵", 1],
+    [2, "ユメ・ミル・ココロ", "伊藤かな恵", 1],
+    [3, "セツナラブレター", "伊藤かな恵", 1],
+    [4, "サボテン", "伊藤かな恵", 1],
+    [5, "星の缶バッチ", "伊藤かな恵", 1],
+    [6, "いじわるな恋", "伊藤かな恵", 1],
+    [7, "メタメリズム", "伊藤かな恵", 1],
+    [8, "君がいれば", "伊藤かな恵", 1],
+    [9, "つまさきだち", "伊藤かな恵", 2],
+    [10, "ビギナードライバー", "伊藤かな恵", 1],
+    [11, "COLORS!", "伊藤かな恵", 1],
+    [12, "オーロラ", "伊藤かな恵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4e688d3d-107d-4a4b-a99e-81091d8b7bf9", "https://vgmdb.net/album/87711"]
 
-[10ac8404b21c0c42f7696edea98acba7]
+[852f8c5c9128a7d68c614c9263e2e7c6]
 catalognumber = "LACA-9688~9"
 date = "2019-08-28"
 album = "カナエルケシキ / 伊藤かな恵 Arrangement, Vocal"
 tracks = [
-    [1, "Happy Garland", "伊藤かな恵", 0],
-    [2, "ドレミファソラシドのうた", "伊藤かな恵", 0],
-    [3, "きみからはじまる", "伊藤かな恵", 0],
-    [4, "うまれたしるし", "伊藤かな恵", 0],
-    [5, "EMOTION", "伊藤かな恵", 0],
-    [6, "ココロモヤルリズム", "伊藤かな恵", 0],
-    [7, "わたしの一部、きみも一部", "伊藤かな恵", 0],
-    [8, "トキメキ座流星群☆ (Rearrange Ver.)", "伊藤かな恵", 0],
-    [9, "君のBirthday (Rearrange Ver.)", "伊藤かな恵", 0],
-    [10, "空に近い場所 (Rearrange Ver.)", "伊藤かな恵", 0],
-    [11, "パイノパイノパイ (東京節)", "鈴川小梅(CV.伊藤かな恵)", 0],
+    [1, "Happy Garland", "伊藤かな恵", 1],
+    [2, "ドレミファソラシドのうた", "伊藤かな恵", 1],
+    [3, "きみからはじまる", "伊藤かな恵", 1],
+    [4, "うまれたしるし", "伊藤かな恵", 1],
+    [5, "EMOTION", "伊藤かな恵", 1],
+    [6, "ココロモヤルリズム", "伊藤かな恵", 1],
+    [7, "わたしの一部、きみも一部", "伊藤かな恵", 1],
+    [8, "トキメキ座流星群☆ (Rearrange Ver.)", "伊藤かな恵", 1],
+    [9, "君のBirthday (Rearrange Ver.)", "伊藤かな恵", 1],
+    [10, "空に近い場所 (Rearrange Ver.)", "伊藤かな恵", 1],
+    [11, "パイノパイノパイ (東京節)", "鈴川小梅(CV.伊藤かな恵)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4e688d3d-107d-4a4b-a99e-81091d8b7bf9", "https://vgmdb.net/album/87711"]
 
-[2600984bf317254277b394fe1ad1a6e5]
+[12930888b5ffb41c24b35bb90020a0b6]
 catalognumber = "PCSP-05075"
 date = "2023-06-28"
 album = "ホントのじぶん - from CrosSing / 石原夏織"
 tracks = [
-    [1, "ホントのじぶん - from CrosSing", "石原夏織", 0],
-    [2, "ホントのじぶん - from CrosSing (Instrumental)", "石原夏織", 0],
+    [1, "ホントのじぶん - from CrosSing", "石原夏織", 1],
+    [2, "ホントのじぶん - from CrosSing (Instrumental)", "石原夏織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3782b2e2-7d3f-4105-a51c-2f231fd576eb", "https://vgmdb.net/album/133284"]
