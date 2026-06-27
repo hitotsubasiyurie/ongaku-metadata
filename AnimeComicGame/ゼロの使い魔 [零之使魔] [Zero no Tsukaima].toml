@@ -945,6 +945,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6ac55c11-de06-47ca-a236-adbd6d8b0404", "https://vgmdb.net/album/30667"]
 
+[ef09e2912ef2ee975aa0dfd6743d246d]
+catalognumber = ""
+date = "2012-02-22"
+album = "ゼロの使い魔F Vol. 1: スペシャルCD ～ルイズver.～"
+tracks = [
+    [1, "ホント? ウソ!? ホント!!! ～恋の絶対命令～", "ルイズ (釘宮理恵)", 0],
+    [2, "ルイズの「おはよう」", "ルイズ (釘宮理恵)", 0],
+    [3, "ルイズの「お叱り」", "ルイズ (釘宮理恵)", 0],
+    [4, "ルイズの「励まし」", "ルイズ (釘宮理恵)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f3a97117-eeab-4be9-ae92-d25e47bb3699"]
+
 [a62f72813fa8912b45cc4b83070183bd]
 catalognumber = "COCX-37267"
 date = "2012-03-21"
@@ -1005,12 +1017,60 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8d6e0bc2-3f9a-494c-bea5-c6350d7ecc08", "https://vgmdb.net/album/119943"]
 
+[c113056f0b272724d407e9e4c53ce508]
+catalognumber = ""
+date = "2012-03-21"
+album = "ゼロの使い魔F Vol. 2: スペシャルCD ～アンリエッタver.～"
+tracks = [
+    [1, "秘めましょう ～トキメキ姫魔性～", "アンリエッタ (川澄綾子)", 0],
+    [2, "アンリエッタの「おはよう」", "アンリエッタ (川澄綾子)", 0],
+    [3, "アンリエッタの「お怒り」", "アンリエッタ (川澄綾子)", 0],
+    [4, "アンリエッタの「励まし」", "アンリエッタ (川澄綾子)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3469bb79-6e08-40d3-b39c-ff14f625ca0a"]
+
 [29b2fb74478137531e858555f061a932]
 catalognumber = "COCX-37288"
 date = "2012-04-25"
 album = "ゼロの使い魔 主題歌集"
 tracks = []
 links = ["https://vgmdb.net/album/32074"]
+
+[5ee068aaa52aa3ba8cd10902990dc861]
+catalognumber = "ZMXZ-7693"
+date = "2012-04-25"
+album = "ゼロの使い魔F Vol. 3: スペシャルCD ～ティファニアver.～"
+tracks = [
+    [1, "魔法果実 ～森の奥の小さなメルヘン～", "ティファニア (能登麻美子)", 0],
+    [2, "ティファニアの「おはよう」", "ティファニア (能登麻美子)", 0],
+    [3, "ティファニアの「お怒り」", "ティファニア (能登麻美子)", 0],
+    [4, "ティファニアの「励まし」", "ティファニア (能登麻美子)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/22cfb35e-d0c0-4e4a-a411-56894463df31"]
+
+[a7113c6f941147c1630d02fa08d96387]
+catalognumber = ""
+date = "2012-05-23"
+album = "ゼロの使い魔F Vol. 4: スペシャルCD ～タバサver.～"
+tracks = [
+    [1, "妄想キッス ～Silent love～", "いのくちゆか with 井口裕香", 0],
+    [2, "タバサの「おはよう」", "タバサ (猪口有佳)", 0],
+    [3, "タバサの「お怒り」", "タバサ (猪口有佳)", 0],
+    [4, "タバサの「励まし」", "タバサ (猪口有佳)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e9857bde-02a3-47bf-8034-acd3ad5370ae"]
+
+[09a8c31cfbf69fd676b99fdb64711a0b]
+catalognumber = "ZMXZ-7695"
+date = "2012-06-27"
+album = "ゼロの使い魔F Vol. 5: スペシャルCD ～シエスタver.～"
+tracks = [
+    [1, "ユー♡パラ ～ユーワク♡パラダイス～", "堀江由衣 with 釘宮理恵", 0],
+    [2, "シエスタの「おはよう」", "シエスタ (堀江由衣)", 0],
+    [3, "シエスタの「お怒り」", "シエスタ (堀江由衣)", 0],
+    [4, "シエスタの「励まし」", "シエスタ (堀江由衣)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b34e1c27-f4b0-4769-8de5-147438a3f815"]
 
 [2150c82f578891a8f7b38cca9b34f244]
 catalognumber = "ARN0004"
@@ -1077,6 +1137,18 @@ tracks = [
     [17, "キスシテ↑アゲナイ↓", "", 0],
 ]
 links = ["https://vgmdb.net/album/32991"]
+
+[36d934c9ed5ba9259fb988354e9ce4f2]
+catalognumber = ""
+date = "2012-07-25"
+album = "ゼロの使い魔F Vol. 6: スペシャルCD ～イルククゥver.～"
+tracks = [
+    [1, "ガンバレ×2 ～片想いを終わらせて～", "いのくちゆか & 井口裕香", 0],
+    [2, "イルククゥの「おはよう」", "イルククゥ (井口裕香)", 0],
+    [3, "イルククゥの「お怒り」", "イルククゥ (井口裕香)", 0],
+    [4, "イルククゥの「励まし」", "イルククゥ (井口裕香)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8eced8bd-0bcc-4dfd-ac1a-fd31791cddba"]
 
 [b782a0026876cb67e0f1a92b5dd58850]
 catalognumber = "FYS-0005"

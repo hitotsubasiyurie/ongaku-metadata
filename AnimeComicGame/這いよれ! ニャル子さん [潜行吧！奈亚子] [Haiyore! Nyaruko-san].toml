@@ -77,6 +77,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c79ec784-31c7-4159-aa8f-8d8135507d4f", "https://vgmdb.net/album/59687"]
 
+[1336d03c1706469a801dea4abd15f81c]
+catalognumber = ""
+date = "2011-03-15"
+album = "好き、好き、大好き."
+tracks = [
+    [1, "好き、好き、大好き.", "阿澄佳奈", 0],
+]
+links = ["https://music.163.com/#/album?id=52373"]
+
 [1c23977828f3f02012ea6b2f459be554]
 catalognumber = "AVCA-29922"
 date = "2011-04-27"

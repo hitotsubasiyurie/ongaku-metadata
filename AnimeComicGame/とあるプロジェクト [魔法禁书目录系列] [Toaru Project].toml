@@ -810,11 +810,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9d4274e-8bcb-495e-a482-43fa4a492ef4", "https://vgmdb.net/album/21749"]
 
-[e90ecb9d2ca6355bbb255e96ec56fb1e]
+[1829d9e436f73596f1dc609b07b35c1b]
 catalognumber = "GNBA-158102"
 date = "2010-01-29"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.1"
-tracks = []
+tracks = [
+    [1, "インデックス#1", "", 0],
+    [2, "インデックス#2", "", 0],
+    [3, "インデックス#3", "", 0],
+    [4, "インデックス#4", "", 0],
+]
 links = ["https://vgmdb.net/album/81867"]
 
 [731e4c6823c348e2f758c86d745d1b8c]
@@ -865,11 +870,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08d2d80e-3dd7-4d1d-8a3a-1eaf62287620", "https://vgmdb.net/album/23187"]
 
-[d25e90bacd9a0c12c4ed98feb8c8312d]
+[bf49fae713d973b897efc974627b7257]
 catalognumber = "GNBA-158202"
 date = "2010-02-26"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.2"
-tracks = []
+tracks = [
+    [1, "インデックス#5", "", 0],
+    [2, "インデックス#6", "", 0],
+    [3, "インデックス#7", "", 0],
+    [4, "インデックス#8", "", 0],
+]
 links = ["https://vgmdb.net/album/81868"]
 
 [8f3d46736d615ed99e47b3d17097fa96]
@@ -914,11 +924,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d0560173-1659-4e59-b734-6b1c9a9a1dfb", "https://vgmdb.net/album/36489"]
 
-[8af60171359a5ab0de7a47c3c3415984]
+[c5ccc55578f3d140b42269c32bea5b2a]
 catalognumber = "GNBA-158302"
 date = "2010-03-26"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.3"
-tracks = []
+tracks = [
+    [1, "インデックス#9", "", 0],
+    [2, "インデックス#10", "", 0],
+    [3, "インデックス#11", "", 0],
+    [4, "インデックス#12", "", 0],
+]
 links = ["https://vgmdb.net/album/81869"]
 
 [f61e01600a2187fecdefc22a9fcd8532]
@@ -973,11 +988,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7a1df899-fe4c-4e5c-86c2-130580671797", "https://vgmdb.net/album/27033"]
 
-[4de7141da531249abdb11bdbbc01f517]
+[6a052601b009e1ab3f14d613f7f5e568]
 catalognumber = "GNBA-158402"
 date = "2010-04-28"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.4"
-tracks = []
+tracks = [
+    [1, "インデックス#13", "", 0],
+    [2, "インデックス#14", "", 0],
+    [3, "インデックス#15", "", 0],
+    [4, "インデックス#16", "", 0],
+]
 links = ["https://vgmdb.net/album/81870"]
 
 [5de4378b44e5a86ead9e212de676fff9]
@@ -1000,11 +1020,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e253d69b-345a-4277-a754-31c97cc6417f", "https://vgmdb.net/album/20143"]
 
-[1a90d8b7b4bb7f45f520ef2a5c3a852b]
+[f8e96de51f6e039b62a0d2f2adab9be5]
 catalognumber = "GNBA-158502"
 date = "2010-05-28"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.5"
-tracks = []
+tracks = [
+    [1, "インデックス#17", "", 0],
+    [2, "インデックス#18", "", 0],
+    [3, "インデックス#19", "", 0],
+    [4, "インデックス#20", "", 0],
+    [5, "インデックス2008年末公録", "", 0],
+]
 links = ["https://vgmdb.net/album/81948"]
 
 [e2c3d846bc7ffa6602f0dac0e30d9c9e]
@@ -1038,11 +1064,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ce418488-5ac3-4050-8044-60df41a440a5", "https://vgmdb.net/album/21750"]
 
-[cc1b88ab0245fec1746ee2e6974f5a5a]
+[fcb7570b239ece89f13494a6c0970718]
 catalognumber = "GNBA-158602"
 date = "2010-06-25"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.6"
-tracks = []
+tracks = [
+    [1, "インデックス#21", "", 0],
+    [2, "インデックス#22", "", 0],
+    [3, "インデックス#23", "", 0],
+    [4, "インデックス#24", "", 0],
+]
 links = ["https://vgmdb.net/album/81949"]
 
 [22e69d6487699a21148d4fbca1bcd8a9]
@@ -1147,11 +1178,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d4858583-0abf-4693-822b-531c87cc76c4", "https://vgmdb.net/album/27034"]
 
-[fd26ab450334b29f20117ade9805dddc]
+[62cc117ec83c1427b0f80e0505692095]
 catalognumber = "GNBA-158702"
 date = "2010-07-30"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.7"
-tracks = []
+tracks = [
+    [1, "インデックス#25", "", 0],
+    [2, "インデックス#26", "", 0],
+    [3, "インデックス#27", "", 0],
+    [4, "インデックス#28", "", 0],
+]
 links = ["https://vgmdb.net/album/81950"]
 
 [0d2e52d7b659e9d61cd499749a7b0a99]
@@ -1177,11 +1213,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/20082"]
 
-[8e1e95f9ad91ec6809a593266bbc8df6]
+[7a8f67261624b955c53f467801be4029]
 catalognumber = "GNBA-158802"
 date = "2010-08-27"
 album = "WEBラジオ とある\"ラジオ\"の超電磁砲 Selection Vol.8"
-tracks = []
+tracks = [
+    [1, "インデックス#29", "", 0],
+    [2, "インデックス#30", "", 0],
+    [3, "インデックス#31", "", 0],
+    [4, "インデックス#32", "", 0],
+]
 links = ["https://vgmdb.net/album/81951"]
 
 [9a9a8e69cda464a0021fc0075ab3367f]

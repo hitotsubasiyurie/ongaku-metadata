@@ -5,324 +5,332 @@ album = "DVD「WORKING!!」全巻購入者特典ドラマCD [アニメイトver.
 tracks = []
 links = ["https://vgmdb.net/album/103697"]
 
-[fa2b596892ba4c51c91637dd6d221809]
+[195fca2caa4cc871a7d9e98cac76f31f]
 catalognumber = "ANZB-9652"
 date = "2010-04-21"
 album = "WORKING!! 第1巻 特典DISC"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "SOMEONE ELSE (Off Vocal Version)", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [4, "ハートのエッジに挑もう Go to Heart Edge (Off Vocal Version)", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
+    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 1],
+    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 1],
+    [3, "SOMEONE ELSE (Off Vocal Version)", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 1],
+    [4, "ハートのエッジに挑もう Go to Heart Edge (Off Vocal Version)", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/425b3a8f-e53e-4241-8532-55bfa5bf29c3", "https://vgmdb.net/album/23004"]
 
-[e62ffc44db2865a129dfd6c3c60b451f]
+[d38c86a94bfd19bb59daff6340c92908]
 catalognumber = "ANZB-9654"
 date = "2010-06-02"
 album = "WORKING!! オリジナルサウンドトラックVOL.1"
 tracks = [
-    [1, "ワグナリアへようこそ！", "MONACA", 0],
-    [2, "アワアワファミレスバイト", "MONACA", 0],
-    [3, "個性的すぎる店員たち", "MONACA", 0],
-    [4, "お仕事中です。", "MONACA", 0],
-    [5, "退屈な午後", "MONACA", 0],
-    [6, "報われない想い", "MONACA", 0],
-    [7, "病", "MONACA", 0],
-    [8, "幸福な閉店", "MONACA", 0],
-    [9, "今月のシフト", "MONACA", 0],
-    [10, "北海道某所", "MONACA", 0],
-    [11, "小鳥遊家の事情", "MONACA", 0],
-    [12, "VS", "MONACA", 0],
-    [13, "大切な一日", "MONACA", 0],
-    [14, "ズレっぱなし", "MONACA", 0],
-    [15, "男性恐怖症", "MONACA", 0],
+    [1, "ワグナリアへようこそ！", "MONACA", 1],
+    [2, "アワアワファミレスバイト", "MONACA", 1],
+    [3, "個性的すぎる店員たち", "MONACA", 1],
+    [4, "お仕事中です。", "MONACA", 1],
+    [5, "退屈な午後", "MONACA", 1],
+    [6, "報われない想い", "MONACA", 1],
+    [7, "病", "MONACA", 1],
+    [8, "幸福な閉店", "MONACA", 1],
+    [9, "今月のシフト", "MONACA", 1],
+    [10, "北海道某所", "MONACA", 1],
+    [11, "小鳥遊家の事情", "MONACA", 1],
+    [12, "VS", "MONACA", 1],
+    [13, "大切な一日", "MONACA", 1],
+    [14, "ズレっぱなし", "MONACA", 1],
+    [15, "男性恐怖症", "MONACA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e6e08521-cb52-4850-9bc0-ea977a5d89be", "https://vgmdb.net/album/21648"]
 
-[3e1b8b1f62a62f0fb22f6bdc8c5fcf66]
+[b1df00841dfe5c4ac8fcd0ba10b2758b]
 catalognumber = "ANZB-9656"
 date = "2010-06-23"
 album = "WORKING!! ドラマCD「ダイエット大作戦」"
 tracks = [
-    [1, "ダイエット大作戦", "", 0],
+    [1, "ダイエット大作戦", "", 1],
 ]
 links = ["https://vgmdb.net/album/119885"]
 
-[85529e06274cf8be821130a78b42106a]
+[aeafb23f3a37a68f5f0e82feac9d9ffe]
 catalognumber = "ANZB-9658"
 date = "2010-07-21"
 album = "WORKING!! ドラマCD「恐怖のワグナリア、呪われたファミレス」"
 tracks = [
-    [1, "恐怖のワグナリア、呪われたファミレス", "", 0],
+    [1, "恐怖のワグナリア、呪われたファミレス", "", 1],
 ]
 links = ["https://vgmdb.net/album/119886"]
 
-[b638540dcbeb5c383c5196d559c32912]
+[1cdfef24fdd76973e11dbbb8ccb48207]
 catalognumber = "ANZB-9660"
 date = "2010-08-25"
 album = "WORKING!! オリジナルサウンドトラックVOL.2"
 tracks = [
-    [1, "困りっぱなし", "MONACA", 0],
-    [2, "小鳥遊の言い分", "MONACA", 0],
-    [3, "大人の事情", "MONACA", 0],
-    [4, "観察眼", "MONACA", 0],
-    [5, "スキンシップ", "MONACA", 0],
-    [6, "ちっちゃくないよ！", "MONACA", 0],
-    [7, "説得", "MONACA", 0],
-    [8, "最高の“女の子”", "MONACA", 0],
-    [9, "山田出現！", "MONACA", 0],
-    [10, "幸せな空気", "MONACA", 0],
-    [11, "本日快晴", "MONACA", 0],
-    [12, "昨日のこと", "MONACA", 0],
-    [13, "トラブルメーカー", "MONACA", 0],
-    [14, "次回予告", "MONACA", 0],
-    [15, "ゴールデン・デイ", "伊波まひる(CV:藤田咲)", 0],
+    [1, "困りっぱなし", "MONACA", 1],
+    [2, "小鳥遊の言い分", "MONACA", 1],
+    [3, "大人の事情", "MONACA", 1],
+    [4, "観察眼", "MONACA", 1],
+    [5, "スキンシップ", "MONACA", 1],
+    [6, "ちっちゃくないよ！", "MONACA", 1],
+    [7, "説得", "MONACA", 1],
+    [8, "最高の“女の子”", "MONACA", 1],
+    [9, "山田出現！", "MONACA", 1],
+    [10, "幸せな空気", "MONACA", 1],
+    [11, "本日快晴", "MONACA", 1],
+    [12, "昨日のこと", "MONACA", 1],
+    [13, "トラブルメーカー", "MONACA", 1],
+    [14, "次回予告", "MONACA", 1],
+    [15, "ゴールデン・デイ", "伊波まひる(CV:藤田咲)", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/74f86901-00a5-47bb-bf1e-1202ecd92887", "https://vgmdb.net/album/21649"]
 
-[46e85118418106494c6c592b7c690fc5]
+[f719eb5bc0160107e27e0080652aab95]
 catalognumber = "ANZB-9662"
 date = "2010-09-22"
 album = "WORKING!! ドラマCD「漂流ファミリーレストラン」"
 tracks = [
-    [1, "漂流ファミリーレストラン", "", 0],
+    [1, "漂流ファミリーレストラン", "", 1],
 ]
 links = ["https://vgmdb.net/album/119887"]
 
-[3cec3e030c02787e6c17182e1c5a6cb0]
+[4c36c842d2fdb52db79cc9b5fb0aa914]
 catalognumber = "SVWC-7737~8"
 date = "2011-01-26"
 album = "TVアニメーション「WORKING!!」オリジナルサウンドトラック Disc 1 [SVWC-7737]"
 tracks = [
-    [1, "ワグナリアへようこそ!", "MONACA", 0],
-    [2, "アワアワファミレスバイト", "MONACA", 0],
-    [3, "困りっぱなし", "MONACA", 0],
-    [4, "個性的すぎる店員たち", "MONACA", 0],
-    [5, "お仕事中です。", "MONACA", 0],
-    [6, "退屈な午後", "MONACA", 0],
-    [7, "報われない想い", "MONACA", 0],
-    [8, "病", "MONACA", 0],
-    [9, "幸福な閉店", "MONACA", 0],
-    [10, "今月のシフト", "MONACA", 0],
-    [11, "北海道某所", "MONACA", 0],
-    [12, "小鳥遊家の事情", "MONACA", 0],
-    [13, "小鳥遊の言い分", "MONACA", 0],
-    [14, "VS", "MONACA", 0],
-    [15, "大人の事情", "MONACA", 0],
-    [16, "観察眼", "MONACA", 0],
-    [17, "自問自答", "MONACA", 0],
-    [18, "スキンシップ", "MONACA", 0],
-    [19, "ちっちゃくないよ!", "MONACA", 0],
-    [20, "へこみ", "MONACA", 0],
-    [21, "大切な一日", "MONACA", 0],
-    [22, "武士", "MONACA", 0],
-    [23, "ノロケ", "MONACA", 0],
-    [24, "説得", "MONACA", 0],
+    [1, "ワグナリアへようこそ!", "MONACA", 1],
+    [2, "アワアワファミレスバイト", "MONACA", 1],
+    [3, "困りっぱなし", "MONACA", 1],
+    [4, "個性的すぎる店員たち", "MONACA", 1],
+    [5, "お仕事中です。", "MONACA", 1],
+    [6, "退屈な午後", "MONACA", 1],
+    [7, "報われない想い", "MONACA", 1],
+    [8, "病", "MONACA", 1],
+    [9, "幸福な閉店", "MONACA", 1],
+    [10, "今月のシフト", "MONACA", 1],
+    [11, "北海道某所", "MONACA", 1],
+    [12, "小鳥遊家の事情", "MONACA", 1],
+    [13, "小鳥遊の言い分", "MONACA", 1],
+    [14, "VS", "MONACA", 1],
+    [15, "大人の事情", "MONACA", 1],
+    [16, "観察眼", "MONACA", 1],
+    [17, "自問自答", "MONACA", 1],
+    [18, "スキンシップ", "MONACA", 1],
+    [19, "ちっちゃくないよ!", "MONACA", 1],
+    [20, "へこみ", "MONACA", 1],
+    [21, "大切な一日", "MONACA", 1],
+    [22, "武士", "MONACA", 1],
+    [23, "ノロケ", "MONACA", 1],
+    [24, "説得", "MONACA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/038703f5-74da-4925-8c4f-51a1642b1a38", "https://vgmdb.net/album/21647"]
 
-[64d8340b15a012981006754a3b6cfcf8]
+[1c81230e6f958a93f4abcc87492319d0]
 catalognumber = "SVWC-7737~8"
 date = "2011-01-26"
 album = "TVアニメーション「WORKING!!」オリジナルサウンドトラック Disc 2 [SVWC-7738]"
 tracks = [
-    [1, "最高の“女の子”", "MONACA", 0],
-    [2, "山田出現!", "MONACA", 0],
-    [3, "ズレッぱなし", "MONACA", 0],
-    [4, "うららかな公園", "MONACA", 0],
-    [5, "これ以上は…", "MONACA", 0],
-    [6, "ワグナリア休憩室", "MONACA", 0],
-    [7, "幸せな空気", "MONACA", 0],
-    [8, "本日快晴", "MONACA", 0],
-    [9, "トラブルの予感", "MONACA", 0],
-    [10, "昨日のこと", "MONACA", 0],
-    [11, "男性恐怖症", "MONACA", 0],
-    [12, "暴走", "MONACA", 0],
-    [13, "忘れられない日", "MONACA", 0],
-    [14, "陰", "MONACA", 0],
-    [15, "静かな怒り", "MONACA", 0],
-    [16, "トラブルメーカー", "MONACA", 0],
-    [17, "ワグナリアのマスコット", "MONACA", 0],
-    [18, "ミニコン", "MONACA", 0],
-    [19, "店内BGM 1", "MONACA", 0],
-    [20, "店内BGM 2", "MONACA", 0],
-    [21, "店内BGM 3", "MONACA", 0],
-    [22, "店内BGM 4", "MONACA", 0],
-    [23, "店内BGM 5", "MONACA", 0],
-    [24, "次回予告", "MONACA", 0],
-    [25, "ジングル1", "MONACA", 0],
-    [26, "ジングル2", "MONACA", 0],
-    [27, "ジングル3", "MONACA", 0],
-    [28, "ジングル4", "MONACA", 0],
-    [29, "ジングル5", "MONACA", 0],
-    [30, "ジングル6", "MONACA", 0],
-    [31, "ジングル7", "MONACA", 0],
-    [32, "ジングル8", "MONACA", 0],
-    [33, "ジングル9", "MONACA", 0],
-    [34, "ジングル10", "MONACA", 0],
-    [35, "ジングル11", "MONACA", 0],
-    [36, "ジングル12", "MONACA", 0],
-    [37, "ジングル13", "MONACA", 0],
-    [38, "SOMEONE ELSE (TV Size)", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 0],
-    [39, "ハートのエッジに挑もう Go to Heart Edge (TV Size)", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 0],
-    [40, "ゴールデン・デイ (TV Size)", "伊波まひる(CV:藤田咲)", 0],
+    [1, "最高の“女の子”", "MONACA", 1],
+    [2, "山田出現!", "MONACA", 1],
+    [3, "ズレッぱなし", "MONACA", 1],
+    [4, "うららかな公園", "MONACA", 1],
+    [5, "これ以上は…", "MONACA", 1],
+    [6, "ワグナリア休憩室", "MONACA", 1],
+    [7, "幸せな空気", "MONACA", 1],
+    [8, "本日快晴", "MONACA", 1],
+    [9, "トラブルの予感", "MONACA", 1],
+    [10, "昨日のこと", "MONACA", 1],
+    [11, "男性恐怖症", "MONACA", 1],
+    [12, "暴走", "MONACA", 1],
+    [13, "忘れられない日", "MONACA", 1],
+    [14, "陰", "MONACA", 1],
+    [15, "静かな怒り", "MONACA", 1],
+    [16, "トラブルメーカー", "MONACA", 1],
+    [17, "ワグナリアのマスコット", "MONACA", 1],
+    [18, "ミニコン", "MONACA", 1],
+    [19, "店内BGM 1", "MONACA", 1],
+    [20, "店内BGM 2", "MONACA", 1],
+    [21, "店内BGM 3", "MONACA", 1],
+    [22, "店内BGM 4", "MONACA", 1],
+    [23, "店内BGM 5", "MONACA", 1],
+    [24, "次回予告", "MONACA", 1],
+    [25, "ジングル1", "MONACA", 1],
+    [26, "ジングル2", "MONACA", 1],
+    [27, "ジングル3", "MONACA", 1],
+    [28, "ジングル4", "MONACA", 1],
+    [29, "ジングル5", "MONACA", 1],
+    [30, "ジングル6", "MONACA", 1],
+    [31, "ジングル7", "MONACA", 1],
+    [32, "ジングル8", "MONACA", 1],
+    [33, "ジングル9", "MONACA", 1],
+    [34, "ジングル10", "MONACA", 1],
+    [35, "ジングル11", "MONACA", 1],
+    [36, "ジングル12", "MONACA", 1],
+    [37, "ジングル13", "MONACA", 1],
+    [38, "SOMEONE ELSE (TV Size)", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 1],
+    [39, "ハートのエッジに挑もう Go to Heart Edge (TV Size)", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 1],
+    [40, "ゴールデン・デイ (TV Size)", "伊波まひる(CV:藤田咲)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/038703f5-74da-4925-8c4f-51a1642b1a38", "https://vgmdb.net/album/21647"]
 
-[6965ca57a113e23062685041c84a7de4]
+[29a4183d0336570bc6531beb7d86b0d5]
 catalognumber = "SVWC-7772"
 date = "2011-06-22"
 album = "「WORKING!!」きゃらそん☆MENU② 種島ぽぷら starring 阿澄佳奈"
 tracks = [
-    [1, "SMILE＋SMILES", "種島ぽぷら starring 阿澄佳奈", 0],
-    [2, "ワグナリア賛歌～a day of 種島ぽぷら", "種島ぽぷら(CV.阿澄佳奈)", 0],
-    [3, "SMILE＋SMILES (Off Vocal Version)", "種島ぽぷら starring 阿澄佳奈", 0],
-    [4, "ワグナリア賛歌～a day of 種島ぽぷら (Off Vocal Version)", "種島ぽぷら starring 阿澄佳奈", 0],
+    [1, "SMILE＋SMILES", "種島ぽぷら starring 阿澄佳奈", 1],
+    [2, "ワグナリア賛歌～a day of 種島ぽぷら", "種島ぽぷら(CV.阿澄佳奈)", 1],
+    [3, "SMILE＋SMILES (Off Vocal Version)", "種島ぽぷら starring 阿澄佳奈", 1],
+    [4, "ワグナリア賛歌～a day of 種島ぽぷら (Off Vocal Version)", "種島ぽぷら starring 阿澄佳奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ce716e3c-977b-420d-932b-ba7b530e7cf9", "https://vgmdb.net/album/26658"]
 
-[96c6afb5c17e183bf24d8bc8459b75e9]
+[d5698703660aed1a806ccf36aad307fd]
 catalognumber = "SVWC-7771"
 date = "2011-06-22"
 album = "「WORKING!!」きゃらそん☆MENU① 小鳥遊宗太 starring 福山潤"
 tracks = [
-    [1, "Sweet Little Things", "小鳥遊宗太 starring 福山潤", 0],
-    [2, "ワグナリア賛歌～a day of 小鳥遊宗太", "小鳥遊宗太 starring 福山潤", 0],
-    [3, "Sweet Little Things (Off Vocal Version)", "小鳥遊宗太 starring 福山潤", 0],
-    [4, "ワグナリア賛歌～a day of 小鳥遊宗太 (Off Vocal Version)", "小鳥遊宗太 starring 福山潤", 0],
+    [1, "Sweet Little Things", "小鳥遊宗太 starring 福山潤", 1],
+    [2, "ワグナリア賛歌～a day of 小鳥遊宗太", "小鳥遊宗太 starring 福山潤", 1],
+    [3, "Sweet Little Things (Off Vocal Version)", "小鳥遊宗太 starring 福山潤", 1],
+    [4, "ワグナリア賛歌～a day of 小鳥遊宗太 (Off Vocal Version)", "小鳥遊宗太 starring 福山潤", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e886a19-cd5e-4a88-894f-06f7e58e0a3d", "https://vgmdb.net/album/26657"]
 
-[473d85c614e4d6f87db29c5aa38201a5]
+[d7fba588f2dae19cb53ac139c8c4d799]
 catalognumber = "SVWC-7774"
 date = "2011-07-27"
 album = "「WORKING!!」きゃらそん☆MENU4 轟八千代 starring 喜多村英梨"
 tracks = [
-    [1, "Colorful Days", "轟八千代 starring 喜多村英梨", 0],
-    [2, "ワグナリア賛歌～a day of 轟八千代", "轟八千代 starring 喜多村英梨", 0],
-    [3, "Colorful Days (Off Vocal Version)", "轟八千代 starring 喜多村英梨", 0],
-    [4, "ワグナリア賛歌～a day of 轟八千代 (Off Vocal Version)", "轟八千代 starring 喜多村英梨", 0],
+    [1, "Colorful Days", "轟八千代 starring 喜多村英梨", 1],
+    [2, "ワグナリア賛歌～a day of 轟八千代", "轟八千代 starring 喜多村英梨", 1],
+    [3, "Colorful Days (Off Vocal Version)", "轟八千代 starring 喜多村英梨", 1],
+    [4, "ワグナリア賛歌～a day of 轟八千代 (Off Vocal Version)", "轟八千代 starring 喜多村英梨", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e82a22a7-3792-430b-9a55-9f35a7f6ebd2", "https://vgmdb.net/album/26951"]
 
-[8aabcb768fd602ea80c6bccca9cccb66]
+[a2c413891dd5201bdd583a4272d0588a]
 catalognumber = "SVWC-7773"
 date = "2011-07-27"
 album = "「WORKING!!」きゃらそん☆MENU3 伊波まひる starring 藤田咲"
 tracks = [
-    [1, "純情PUNCH", "伊波まひる starring 藤田 咲", 0],
-    [2, "ワグナリア賛歌～a day of 伊波まひる", "伊波まひる starring 藤田 咲", 0],
-    [3, "純情PUNCH (Off Vocal Version)", "伊波まひる starring 藤田 咲", 0],
-    [4, "ワグナリア賛歌～a day of 伊波まひる (Off Vocal Version)", "伊波まひる starring 藤田 咲", 0],
+    [1, "純情PUNCH", "伊波まひる starring 藤田 咲", 1],
+    [2, "ワグナリア賛歌～a day of 伊波まひる", "伊波まひる starring 藤田 咲", 1],
+    [3, "純情PUNCH (Off Vocal Version)", "伊波まひる starring 藤田 咲", 1],
+    [4, "ワグナリア賛歌～a day of 伊波まひる (Off Vocal Version)", "伊波まひる starring 藤田 咲", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b835bfae-c04b-4cf2-8d88-79f1ccf0a83d", "https://vgmdb.net/album/26950"]
 
-[97c2697b2bb04a1eebf000e974d6def0]
+[26cd0ecbf89e9ee9173091658a40cf17]
 catalognumber = "SVWC-7776"
 date = "2011-08-24"
 album = "「WORKING!!」きゃらそん☆MENU6 佐藤潤 starring 小野大輔"
 tracks = [
-    [1, "SUGAR & SPICE", "佐藤潤 starring 小野大輔", 0],
-    [2, "ワグナリア賛歌～a day of 佐藤 潤", "佐藤潤 starring 小野大輔", 0],
-    [3, "SUGAR & SPICE (Off Vocal Version)", "佐藤潤 starring 小野大輔", 0],
-    [4, "ワグナリア賛歌～a day of 佐藤 潤 (Off Vocal Version)", "佐藤潤 starring 小野大輔", 0],
+    [1, "SUGAR & SPICE", "佐藤潤 starring 小野大輔", 1],
+    [2, "ワグナリア賛歌～a day of 佐藤 潤", "佐藤潤 starring 小野大輔", 1],
+    [3, "SUGAR & SPICE (Off Vocal Version)", "佐藤潤 starring 小野大輔", 1],
+    [4, "ワグナリア賛歌～a day of 佐藤 潤 (Off Vocal Version)", "佐藤潤 starring 小野大輔", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/30931b18-4932-404c-9b19-2c21124f0ee9", "https://vgmdb.net/album/26944"]
 
-[9de7ffd31ddf123528f544879a52db03]
+[98543b00ab0f1929af1d8fd34a265eb6]
 catalognumber = "SVWC-7775"
 date = "2011-08-24"
 album = "「WORKING!!」きゃらそん☆MENU5 相馬博臣 starring 神谷浩史"
 tracks = [
-    [1, "not so bad", "相馬博臣 starring 神谷浩史", 0],
-    [2, "ワグナリア賛歌～a day of 相馬博臣", "相馬博臣 starring 神谷浩史", 0],
-    [3, "not so bad (Off Vocal Version)", "相馬博臣 starring 神谷浩史", 0],
-    [4, "ワグナリア賛歌～a day of 相馬博臣 (Off Vocal Version)", "相馬博臣 starring 神谷浩史", 0],
+    [1, "not so bad", "相馬博臣 starring 神谷浩史", 1],
+    [2, "ワグナリア賛歌～a day of 相馬博臣", "相馬博臣 starring 神谷浩史", 1],
+    [3, "not so bad (Off Vocal Version)", "相馬博臣 starring 神谷浩史", 1],
+    [4, "ワグナリア賛歌～a day of 相馬博臣 (Off Vocal Version)", "相馬博臣 starring 神谷浩史", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cadb0a68-12d3-4d4b-8068-d12b1675ea92", "https://vgmdb.net/album/26943"]
 
-[2f7aeffe7a15eec633830bd43298299d]
+[0f9839bdd68254f002796bd4245adbc2]
 catalognumber = "SVWC-7777"
 date = "2011-09-21"
 album = "「WORKING!!」きゃらそん☆MENU7 山田葵 starring 広橋涼"
 tracks = [
-    [1, "MOTTO!", "山田葵 starring 広橋涼", 0],
-    [2, "ワグナリア賛歌〜a day of 山田葵", "山田葵 starring 広橋涼", 0],
-    [3, "MOTTO! (Off Vocal Version)", "山田葵 starring 広橋涼", 0],
-    [4, "ワグナリア賛歌〜a day of 山田葵 (Off Vocal Version)", "山田葵 starring 広橋涼", 0],
+    [1, "MOTTO!", "山田葵 starring 広橋涼", 1],
+    [2, "ワグナリア賛歌〜a day of 山田葵", "山田葵 starring 広橋涼", 1],
+    [3, "MOTTO! (Off Vocal Version)", "山田葵 starring 広橋涼", 1],
+    [4, "ワグナリア賛歌〜a day of 山田葵 (Off Vocal Version)", "山田葵 starring 広橋涼", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b25e38f0-1bf3-4157-aca2-ca04980171de", "https://vgmdb.net/album/49940"]
 
-[4367473c30f514a0f13bb14603e3a7e2]
+[5d1497c3f40a17498117ec6f8c637274]
 catalognumber = "ANZX-9962"
 date = "2011-11-02"
 album = "WORKING'!! SPECIAL CD VOL.1"
 tracks = [
-    [1, "COOLISH WALK", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 0],
-    [2, "いつものようにLOVE&PEACE!!", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 0],
-    [3, "COOLISH WALK (off Vocal)", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 0],
-    [4, "いつものようにLOVE&PEACE!! (off vocal)", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 0],
+    [1, "COOLISH WALK", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 1],
+    [2, "いつものようにLOVE&PEACE!!", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 1],
+    [3, "COOLISH WALK (off Vocal)", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 1],
+    [4, "いつものようにLOVE&PEACE!! (off vocal)", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c73425ed-e858-4267-b775-68c54bac5a83", "https://vgmdb.net/album/29827"]
 
-[559ce10cd7df3d79e0d9d7d4809223a8]
+[619e1bd74eebb9b36078773e7499501e]
 catalognumber = "ANZX-9664"
 date = "2011-11-23"
 album = "WORKING'!! SPECIAL CD VOL.2"
 tracks = [
-    [1, "ワグナリア再び", "石濱翔", 0],
-    [2, "いたずら", "帆足圭吾", 0],
-    [3, "ほのぼのレシピ", "帆足圭吾", 0],
-    [4, "ランチタイム", "帆足圭吾", 0],
-    [5, "トラブルオーダー", "田中秀和", 0],
-    [6, "恋の1メートル", "石濱翔", 0],
-    [7, "山田", "田中秀和", 0],
-    [8, "陽", "石濱翔", 0],
-    [9, "お世話好き", "石濱翔", 0],
-    [10, "げんこつグリグリ", "石濱翔", 0],
-    [11, "ピンチのパンチ", "石濱翔", 0],
-    [12, "ワグナリアの賛歌", "岡部啓一", 0],
-    [13, "いつものようにLOVE&PEACE!! (inst)", "岡部啓一", 0],
+    [1, "ワグナリア再び", "石濱翔", 1],
+    [2, "いたずら", "帆足圭吾", 1],
+    [3, "ほのぼのレシピ", "帆足圭吾", 1],
+    [4, "ランチタイム", "帆足圭吾", 1],
+    [5, "トラブルオーダー", "田中秀和", 1],
+    [6, "恋の1メートル", "石濱翔", 1],
+    [7, "山田", "田中秀和", 1],
+    [8, "陽", "石濱翔", 1],
+    [9, "お世話好き", "石濱翔", 1],
+    [10, "げんこつグリグリ", "石濱翔", 1],
+    [11, "ピンチのパンチ", "石濱翔", 1],
+    [12, "ワグナリアの賛歌", "岡部啓一", 1],
+    [13, "いつものようにLOVE&PEACE!! (inst)", "岡部啓一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/45e39357-0945-4b36-985f-e13c477c676c", "https://vgmdb.net/album/30298"]
 
-[3ae6d13cb3665d4c9e99a3c08a8af8bd]
+[7cc0a80079b23ac64e42bc8e925ed950]
 catalognumber = "ANZX-9666"
 date = "2011-12-21"
 album = "WORKING'!! SPECIAL CD VOL.3"
-tracks = []
+tracks = [
+    [1, "Track01", "", 0],
+    [2, "Track02", "", 0],
+    [3, "Track03", "", 0],
+]
 links = ["https://vgmdb.net/album/119889"]
 
-[40fa0f321148ab2f963acf1552a75165]
+[75c5ef7324adedb69daddb155460be27]
 catalognumber = "ANZX-9968"
 date = "2012-01-25"
 album = "WORKING'!! SPECIAL CD VOL.4"
 tracks = [
-    [1, "食器洗浄機", "石濱翔", 0],
-    [2, "デザートハウス", "帆足圭吾", 0],
-    [3, "酔っ払いクライ", "石濱翔", 0],
-    [4, "洋服選び", "石濱翔", 0],
-    [5, "らしくない", "帆足圭吾", 0],
-    [6, "天性のケーワイ", "石濱翔", 0],
-    [7, "やわらかディナー", "帆足圭吾", 0],
-    [8, "雨上がり素敵", "帆足圭吾", 0],
-    [9, "不思議の国のぽぷら", "石濱翔", 0],
-    [10, "白ラン", "岡部啓一", 0],
-    [11, "一日の終わりに", "帆足圭吾", 0],
-    [12, "いらっしゃいませから", "石濱翔", 0],
-    [13, "ちょっとだけ聞いてて", "田中秀和", 0],
+    [1, "食器洗浄機", "石濱翔", 1],
+    [2, "デザートハウス", "帆足圭吾", 1],
+    [3, "酔っ払いクライ", "石濱翔", 1],
+    [4, "洋服選び", "石濱翔", 1],
+    [5, "らしくない", "帆足圭吾", 1],
+    [6, "天性のケーワイ", "石濱翔", 1],
+    [7, "やわらかディナー", "帆足圭吾", 1],
+    [8, "雨上がり素敵", "帆足圭吾", 1],
+    [9, "不思議の国のぽぷら", "石濱翔", 1],
+    [10, "白ラン", "岡部啓一", 1],
+    [11, "一日の終わりに", "帆足圭吾", 1],
+    [12, "いらっしゃいませから", "石濱翔", 1],
+    [13, "ちょっとだけ聞いてて", "田中秀和", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e7309630-b3f0-46ed-9103-456e06ff2232", "https://vgmdb.net/album/50049"]
 
-[a601c7815f9cbba42aa4d051dc883f6e]
+[78457e0aa0e0beee3362dd8727415ef8]
 catalognumber = "ANZX-9670"
 date = "2012-02-22"
 album = "WORKING'!! SPECIAL CD VOL.5"
-tracks = []
+tracks = [
+    [1, "Track01", "", 0],
+    [2, "Track02", "", 0],
+    [3, "Track03", "", 0],
+]
 links = ["https://vgmdb.net/album/119890"]
 
-[764ff816458d1da415c0109ff1f875ba]
+[1601304b860e6a44b29ebc5630552866]
 catalognumber = "QWCE-00226"
 date = "2012-04-04"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 15"
@@ -340,7 +348,7 @@ tracks = [
     [11, "YOUTHFUL", "Icon feat.TAKANORI", 0],
     [12, "I'LL BELIEVE", "Dizzi Mystica feat.KANA+TAKANORI", 0],
     [13, "SKY'S THE LIMIT", "Dizzi Mystica feat.YURiE+MFMW", 0],
-    [14, "COOLISH WALK", "Dizzi Mystica feat.mi-mi+R.Cena", 0],
+    [14, "COOLISH WALK", "Dizzi Mystica feat.mi-mi+R.Cena", 1],
     [15, "U-N-D-E-R--STANDING!", "Icon feat.puchi+TAKANORI", 0],
     [16, "紋", "Booing Day feat.yumemi", 0],
     [17, "君の中の英雄", "MK feat.KANA", 0],
@@ -350,23 +358,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2b80d131-81ee-4e02-b169-87d60b75f2ab", "https://vgmdb.net/album/32343"]
 
-[298ddb1bf582cde862dacc57a70d2d20]
+[6b49eb7a4ea46ec39eddead34ac6b958]
 catalognumber = "ANZX-9674"
 date = "2012-04-25"
 album = "WORKING'!! SPECIAL CD VOL.7"
-tracks = []
+tracks = [
+    [1, "Track01", "", 0],
+    [2, "Track02", "", 0],
+    [3, "Track03", "", 0],
+    [4, "Track04", "", 0],
+]
 links = ["https://vgmdb.net/album/119892"]
 
-[d91f8ef5a86edd8cee2fe6ba5db3dabf]
+[4e00c2394fb898ce77a238754fdf673e]
 catalognumber = "ANXX-00539"
 date = "2014-08-06"
 album = "WORKING!!&サーバント×サービス 主題歌集「夏祭りだよ!全曲集合」"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "ゴールデン・デイ", "伊波まひる(CV:藤田咲)", 0],
-    [4, "COOLISH WALK", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 0],
-    [5, "いつものようにLOVE & PEACE!!", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 0],
+    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 1],
+    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 1],
+    [3, "ゴールデン・デイ", "伊波まひる(CV:藤田咲)", 1],
+    [4, "COOLISH WALK", "種島ぽぷら(CV:阿澄佳奈)／伊波まひる(CV:藤田咲)／轟八千代(CV:喜多村英梨)", 1],
+    [5, "いつものようにLOVE & PEACE!!", "小鳥遊宗太(CV:福山潤)／佐藤潤(CV:小野大輔)／相馬博臣(CV:神谷浩史)", 1],
     [6, "めいあいへるぷゆー？", "山神ルーシー(略)／三好紗耶／千早恵(CV：茅野愛衣／中原麻衣／豊崎愛生)", 0],
     [7, "ハチミツ時間 (山神ルーシーver.)", "山神ルーシー(略)(CV:茅野愛衣)", 0],
     [8, "ハチミツ時間 (三好紗耶ver.)", "三好紗耶(CV:中原麻衣)", 0],
@@ -374,37 +387,37 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2167928e-0181-4e0e-8e2d-dc8c668694e3", "https://vgmdb.net/album/91499"]
 
-[89781bd70a1c83e8a3f844c349cbe792]
+[f958d0f81081259fbf408f6a1ad06c42]
 catalognumber = "SVWC-70052"
 date = "2015-06-24"
 album = "WORKING!! きゃらそん☆フルコース"
 tracks = [
-    [1, "Sweet Little Things", "小鳥遊宗太 starring 福山潤", 0],
-    [2, "ワグナリア賛歌〜a day of 小鳥遊宗太", "小鳥遊宗太 starring 福山潤", 0],
-    [3, "SMILE + SMILES", "種島ぽぷら starring 阿澄佳奈", 0],
-    [4, "ワグナリア賛歌〜a day of 種島ぽぷら", "種島ぽぷら(CV.阿澄佳奈)", 0],
-    [5, "純情PUNCH", "伊波まひる starring 藤田 咲", 0],
-    [6, "ワグナリア賛歌〜a day of 伊波まひる", "伊波まひる starring 藤田 咲", 0],
-    [7, "Colorful Days", "轟八千代 starring 喜多村英梨", 0],
-    [8, "ワグナリア賛歌〜a day of 轟八千代", "轟八千代 starring 喜多村英梨", 0],
-    [9, "not so bad", "相馬博臣 starring 神谷浩史", 0],
-    [10, "ワグナリア賛歌〜a day of 相馬博臣", "相馬博臣 starring 神谷浩史", 0],
-    [11, "SUGAR & SPICE", "佐藤潤 starring 小野大輔", 0],
-    [12, "ワグナリア賛歌〜a day of 佐藤潤", "佐藤潤 starring 小野大輔", 0],
-    [13, "MOTTO!", "山田葵 starring 広橋涼", 0],
-    [14, "ワグナリア賛歌〜a day of 山田葵", "山田葵 starring 広橋涼", 0],
+    [1, "Sweet Little Things", "小鳥遊宗太 starring 福山潤", 1],
+    [2, "ワグナリア賛歌〜a day of 小鳥遊宗太", "小鳥遊宗太 starring 福山潤", 1],
+    [3, "SMILE + SMILES", "種島ぽぷら starring 阿澄佳奈", 1],
+    [4, "ワグナリア賛歌〜a day of 種島ぽぷら", "種島ぽぷら(CV.阿澄佳奈)", 1],
+    [5, "純情PUNCH", "伊波まひる starring 藤田 咲", 1],
+    [6, "ワグナリア賛歌〜a day of 伊波まひる", "伊波まひる starring 藤田 咲", 1],
+    [7, "Colorful Days", "轟八千代 starring 喜多村英梨", 1],
+    [8, "ワグナリア賛歌〜a day of 轟八千代", "轟八千代 starring 喜多村英梨", 1],
+    [9, "not so bad", "相馬博臣 starring 神谷浩史", 1],
+    [10, "ワグナリア賛歌〜a day of 相馬博臣", "相馬博臣 starring 神谷浩史", 1],
+    [11, "SUGAR & SPICE", "佐藤潤 starring 小野大輔", 1],
+    [12, "ワグナリア賛歌〜a day of 佐藤潤", "佐藤潤 starring 小野大輔", 1],
+    [13, "MOTTO!", "山田葵 starring 広橋涼", 1],
+    [14, "ワグナリア賛歌〜a day of 山田葵", "山田葵 starring 広橋涼", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/65dede66-e811-4ffe-b06d-6a3910e82246", "https://vgmdb.net/album/49939"]
 
-[688d19a053cb8621f37f54034c054391]
+[57042481f7ba9bfbd48d70101c068e03]
 catalognumber = "ANZX-11422"
 date = "2015-08-12"
 album = "WORKING!!! SPECIAL CD VOL.1"
 tracks = [
-    [1, "NOW!!!GAMBLE", "種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)", 0],
-    [2, "まつ毛にLOCK", "小鳥遊宗太(福山潤)・佐藤潤(小野大輔)・相馬博臣(神谷浩史)", 0],
-    [3, "NOW!!!GAMBLE -off vocal version-", "種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)", 0],
-    [4, "まつ毛にLOCK -off vocal version-", "小鳥遊宗太(福山潤)・佐藤潤(小野大輔)・相馬博臣(神谷浩史)", 0],
+    [1, "NOW!!!GAMBLE", "種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)", 1],
+    [2, "まつ毛にLOCK", "小鳥遊宗太(福山潤)・佐藤潤(小野大輔)・相馬博臣(神谷浩史)", 1],
+    [3, "NOW!!!GAMBLE -off vocal version-", "種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)", 1],
+    [4, "まつ毛にLOCK -off vocal version-", "小鳥遊宗太(福山潤)・佐藤潤(小野大輔)・相馬博臣(神谷浩史)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/582ed7cd-07c3-40c9-a01e-564fd5a70911", "https://vgmdb.net/album/53210"]
 
@@ -415,108 +428,108 @@ album = "WEB版 WORKING!! 3 ドラマCD"
 tracks = []
 links = ["https://vgmdb.net/album/61194"]
 
-[c15882a9955d5d3692d895f996537384]
+[16d2bc3530f4a1316e5e894d06718a8b]
 catalognumber = "ANZX-11426"
 date = "2015-10-14"
 album = "WORKING!!! SPECIAL CD VOL.2"
 tracks = [
-    [1, "山田おひめさまCD #01", "", 0],
-    [2, "山田おひめさまCD #02", "", 0],
-    [3, "山田おひめさまCD #03", "", 0],
-    [4, "山田おひめさまCD #04", "", 0],
-    [5, "山田おひめさまCD #05", "", 0],
-    [6, "山田おひめさまCD #06", "", 0],
-    [7, "山田おひめさまCD #07", "", 0],
+    [1, "山田おひめさまCD #01", "", 1],
+    [2, "山田おひめさまCD #02", "", 1],
+    [3, "山田おひめさまCD #03", "", 1],
+    [4, "山田おひめさまCD #04", "", 1],
+    [5, "山田おひめさまCD #05", "", 1],
+    [6, "山田おひめさまCD #06", "", 1],
+    [7, "山田おひめさまCD #07", "", 1],
 ]
 links = ["https://vgmdb.net/album/53732"]
 
-[36cf048b8e5c502495b66f02dc04946d]
+[9953e08702848b484712997656e97bdb]
 catalognumber = "ANZX-11428"
 date = "2015-11-11"
 album = "WORKING!!! SPECIAL CD VOL.3"
 tracks = [
-    [1, "NOW!!!GAMBLE (ぽぷら solo ver.)", "", 0],
-    [2, "まつ毛にLOCK (相馬 solo ver.)", "", 0],
-    [3, "またまたワグナリア再び", "", 0],
-    [4, "ちっちゃな悩み", "", 0],
-    [5, "おだやかな気持ち", "", 0],
-    [6, "正直者", "", 0],
-    [7, "天使のためいき", "", 0],
-    [8, "月夜に夜更かし", "", 0],
-    [9, "ウズウズ", "", 0],
-    [10, "魔法少女ぽぷら参上!", "", 0],
-    [11, "エプロンつけて", "", 0],
-    [12, "ごきげんピクニック", "", 0],
+    [1, "NOW!!!GAMBLE (ぽぷら solo ver.)", "", 1],
+    [2, "まつ毛にLOCK (相馬 solo ver.)", "", 1],
+    [3, "またまたワグナリア再び", "", 1],
+    [4, "ちっちゃな悩み", "", 1],
+    [5, "おだやかな気持ち", "", 1],
+    [6, "正直者", "", 1],
+    [7, "天使のためいき", "", 1],
+    [8, "月夜に夜更かし", "", 1],
+    [9, "ウズウズ", "", 1],
+    [10, "魔法少女ぽぷら参上!", "", 1],
+    [11, "エプロンつけて", "", 1],
+    [12, "ごきげんピクニック", "", 1],
 ]
 links = ["https://vgmdb.net/album/53733"]
 
-[bf19dc943c8b68251e5763be87f793a7]
+[a4565c8436451d6706fb042181178552]
 catalognumber = "ANZX-11430"
 date = "2015-12-09"
 album = "WORKING!!! SPECIAL CD VOL.4"
 tracks = [
-    [1, "NOW!!!GAMBLE (まひる solo ver.)", "伊波まひる (CV. 藤田咲)", 0],
-    [2, "まつ毛にLOCK (小鳥遊 solo ver.)", "小鳥遊宗太 (CV. 福山潤)", 0],
-    [3, "開店準備", "MONACA", 0],
-    [4, "ちょっと一服", "MONACA", 0],
-    [5, "あたまグルグル", "MONACA", 0],
-    [6, "おとぼけガール", "MONACA", 0],
-    [7, "隠し味", "MONACA", 0],
-    [8, "涙の事情", "MONACA", 0],
-    [9, "スパイスはいかが", "MONACA", 0],
-    [10, "あっけらかん", "MONACA", 0],
-    [11, "思い出いっぱい", "MONACA", 0],
-    [12, "いつものドタバタ", "MONACA", 0],
+    [1, "NOW!!!GAMBLE (まひる solo ver.)", "伊波まひる (CV. 藤田咲)", 1],
+    [2, "まつ毛にLOCK (小鳥遊 solo ver.)", "小鳥遊宗太 (CV. 福山潤)", 1],
+    [3, "開店準備", "MONACA", 1],
+    [4, "ちょっと一服", "MONACA", 1],
+    [5, "あたまグルグル", "MONACA", 1],
+    [6, "おとぼけガール", "MONACA", 1],
+    [7, "隠し味", "MONACA", 1],
+    [8, "涙の事情", "MONACA", 1],
+    [9, "スパイスはいかが", "MONACA", 1],
+    [10, "あっけらかん", "MONACA", 1],
+    [11, "思い出いっぱい", "MONACA", 1],
+    [12, "いつものドタバタ", "MONACA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f7ca4690-df0a-4432-99f8-74bdb8b1bce1", "https://vgmdb.net/album/53734"]
 
-[f85fa4a7fe7f8b844e62483a80162f09]
+[08b55d8c701d48433d509406252dd6af]
 catalognumber = "ANZX-11432"
 date = "2016-01-13"
 album = "WORKING!!! SPECIAL CD VOL.5"
 tracks = [
-    [1, "NOW!!!GAMBLE (八千代 solo ver.)", "", 0],
-    [2, "まつ毛にLOCK (佐藤 solo ver.)", "", 0],
-    [3, "おしゃれパフェ", "", 0],
-    [4, "日常の一コマ", "", 0],
-    [5, "ふんわりスカート", "", 0],
-    [6, "誘い文句", "", 0],
-    [7, "せめぎあい", "", 0],
-    [8, "季節を巡って", "", 0],
-    [9, "夢の時間", "", 0],
-    [10, "オーダー待ち", "", 0],
-    [11, "平和なオチ", "", 0],
-    [12, "またのご来店をお待ちしております", "", 0],
+    [1, "NOW!!!GAMBLE (八千代 solo ver.)", "", 1],
+    [2, "まつ毛にLOCK (佐藤 solo ver.)", "", 1],
+    [3, "おしゃれパフェ", "", 1],
+    [4, "日常の一コマ", "", 1],
+    [5, "ふんわりスカート", "", 1],
+    [6, "誘い文句", "", 1],
+    [7, "せめぎあい", "", 1],
+    [8, "季節を巡って", "", 1],
+    [9, "夢の時間", "", 1],
+    [10, "オーダー待ち", "", 1],
+    [11, "平和なオチ", "", 1],
+    [12, "またのご来店をお待ちしております", "", 1],
 ]
 links = ["https://vgmdb.net/album/53735"]
 
-[bc62952233d249b722d9ffbc570b515a]
+[6fef35a4c10605974693d92d18523ecd]
 catalognumber = "ANZX-11434"
 date = "2016-02-10"
 album = "WORKING!!! SPECIAL CD VOL.6"
 tracks = [
-    [1, "ある風邪の日に #01", "", 0],
-    [2, "ある風邪の日に #02", "", 0],
-    [3, "ある風邪の日に #03", "", 0],
-    [4, "ある風邪の日に #04", "", 0],
-    [5, "ある風邪の日に #05", "", 0],
-    [6, "ある風邪の日に #06", "", 0],
-    [7, "ある風邪の日に #07", "", 0],
-    [8, "ある風邪の日に #08", "", 0],
+    [1, "ある風邪の日に #01", "", 1],
+    [2, "ある風邪の日に #02", "", 1],
+    [3, "ある風邪の日に #03", "", 1],
+    [4, "ある風邪の日に #04", "", 1],
+    [5, "ある風邪の日に #05", "", 1],
+    [6, "ある風邪の日に #06", "", 1],
+    [7, "ある風邪の日に #07", "", 1],
+    [8, "ある風邪の日に #08", "", 1],
 ]
 links = ["https://vgmdb.net/album/53736"]
 
-[57b84419ce7d0f9a80df41a3dcc8fd55]
+[60d37bf8b5cf43ddf6949e236ed8621d]
 catalognumber = "ANZX-11436"
 date = "2016-03-30"
 album = "WORKING!!! SPECIAL CD VOL.7"
 tracks = [
-    [1, "宗太とまひるのワグナリア休憩室 #01", "", 0],
-    [2, "宗太とまひるのワグナリア休憩室 #02", "", 0],
-    [3, "宗太とまひるのワグナリア休憩室 #03", "", 0],
-    [4, "宗太とまひるのワグナリア休憩室 #04", "", 0],
-    [5, "宗太とまひるのワグナリア休憩室 #05", "", 0],
-    [6, "宗太とまひるのワグナリア休憩室 #06", "", 0],
+    [1, "宗太とまひるのワグナリア休憩室 #01", "", 1],
+    [2, "宗太とまひるのワグナリア休憩室 #02", "", 1],
+    [3, "宗太とまひるのワグナリア休憩室 #03", "", 1],
+    [4, "宗太とまひるのワグナリア休憩室 #04", "", 1],
+    [5, "宗太とまひるのワグナリア休憩室 #05", "", 1],
+    [6, "宗太とまひるのワグナリア休憩室 #06", "", 1],
 ]
 links = ["https://vgmdb.net/album/57933"]
 
@@ -531,15 +544,15 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/61195"]
 
-[bf223ded9ded2b3d8f94b7bc1b1b654f]
+[4af80924c9b1fba8c34def28d982f0f4]
 catalognumber = "ANZX-11975"
 date = "2016-11-23"
 album = "WWW.WORKING!! 第1巻 特典DISC"
 tracks = [
-    [1, "Eyecatch! Too much!", "宮越華(戸松遥)・村主さゆり(日笠陽子)・鎌倉志保(雨宮天)", 0],
-    [2, "無重力フィーバー", "東田大輔(中村悠一)・足立正広(内山昂輝)・進藤ユータ(小野賢章)", 0],
-    [3, "Eyecatch! Too much! (Off Vocal Version)", "宮越華(戸松遥)・村主さゆり(日笠陽子)・鎌倉志保(雨宮天)", 0],
-    [4, "無重力フィーバー (Off Vocal Version)", "東田大輔(中村悠一)・足立正広(内山昂輝)・進藤ユータ(小野賢章)", 0],
+    [1, "Eyecatch! Too much!", "宮越華(戸松遥)・村主さゆり(日笠陽子)・鎌倉志保(雨宮天)", 1],
+    [2, "無重力フィーバー", "東田大輔(中村悠一)・足立正広(内山昂輝)・進藤ユータ(小野賢章)", 1],
+    [3, "Eyecatch! Too much! (Off Vocal Version)", "宮越華(戸松遥)・村主さゆり(日笠陽子)・鎌倉志保(雨宮天)", 1],
+    [4, "無重力フィーバー (Off Vocal Version)", "東田大輔(中村悠一)・足立正広(内山昂輝)・進藤ユータ(小野賢章)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5212b496-a3c1-491a-94d0-d620b7641105", "https://vgmdb.net/album/61219"]
 
@@ -550,28 +563,28 @@ album = "WEB版 WORKING!! 5 ドラマCD"
 tracks = []
 links = ["https://vgmdb.net/album/61196"]
 
-[7edae5d9c4670914a2556126c629ac8d]
+[ef0512653c40483d0e5d9682a5bd1b04]
 catalognumber = "ANZX-11979"
 date = "2017-01-25"
 album = "WWW.WORKING!! 第3巻 特典DISC"
 tracks = [
-    [1, "河野、ワグナリア辞めるってよ #01", "", 0],
-    [2, "河野、ワグナリア辞めるってよ #02", "", 0],
-    [3, "河野、ワグナリア辞めるってよ #03", "", 0],
-    [4, "河野、ワグナリア辞めるってよ #04", "", 0],
+    [1, "河野、ワグナリア辞めるってよ #01", "", 1],
+    [2, "河野、ワグナリア辞めるってよ #02", "", 1],
+    [3, "河野、ワグナリア辞めるってよ #03", "", 1],
+    [4, "河野、ワグナリア辞めるってよ #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/61782"]
 
-[ac4271d8df3b0c04b2c51215488d866e]
+[3b8fb3c036c44c8a58734b63f3418caa]
 catalognumber = "ANZX-11981"
 date = "2017-02-22"
 album = "WWW.WORKING!! 第4巻 特典DISC"
 tracks = [
-    [1, "NAKAKING!! #01", "", 0],
-    [2, "NAKAKING!! #02", "", 0],
-    [3, "NAKAKING!! #03", "", 0],
-    [4, "NAKAKING!! #04", "", 0],
-    [5, "NAKAKING!! #05", "", 0],
+    [1, "NAKAKING!! #01", "", 1],
+    [2, "NAKAKING!! #02", "", 1],
+    [3, "NAKAKING!! #03", "", 1],
+    [4, "NAKAKING!! #04", "", 1],
+    [5, "NAKAKING!! #05", "", 1],
 ]
 links = ["https://vgmdb.net/album/61783"]
 
@@ -618,29 +631,29 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/61784"]
 
-[bc01e642b119b721aed4a25f73f19ced]
+[0a924797615c9a4be5405a83ec0303be]
 catalognumber = "ANZX-11985"
 date = "2017-04-26"
 album = "WWW.WORKING!! 第6巻 特典DISC"
 tracks = [
-    [1, "ラジオCD「HIKAKING!!」#01", "", 0],
-    [2, "ラジオCD「HIKAKING!!」#02", "", 0],
-    [3, "ラジオCD「HIKAKING!!」#03", "", 0],
-    [4, "ラジオCD「HIKAKING!!」#04", "", 0],
-    [5, "ラジオCD「HIKAKING!!」#05", "", 0],
+    [1, "ラジオCD「HIKAKING!!」#01", "", 1],
+    [2, "ラジオCD「HIKAKING!!」#02", "", 1],
+    [3, "ラジオCD「HIKAKING!!」#03", "", 1],
+    [4, "ラジオCD「HIKAKING!!」#04", "", 1],
+    [5, "ラジオCD「HIKAKING!!」#05", "", 1],
 ]
 links = ["https://vgmdb.net/album/61785"]
 
-[027e40b749209ea6073d4f0518f0ef1a]
+[3521d1b201eb6ee6f31d6b636e494a8a]
 catalognumber = "ANZX-11987"
 date = "2017-05-24"
 album = "WWW.WORKING!! 第7巻 特典DISC"
 tracks = [
-    [1, "無重力フィーバー (special ver.)", "", 0],
-    [2, "恋人なら手を繋ごう #01", "", 0],
-    [3, "恋人なら手を繋ごう #02", "", 0],
-    [4, "恋人なら手を繋ごう #03", "", 0],
-    [5, "恋人なら手を繋ごう #04", "", 0],
+    [1, "無重力フィーバー (special ver.)", "", 1],
+    [2, "恋人なら手を繋ごう #01", "", 1],
+    [3, "恋人なら手を繋ごう #02", "", 1],
+    [4, "恋人なら手を繋ごう #03", "", 1],
+    [5, "恋人なら手を繋ごう #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/61786"]
 
@@ -668,13 +681,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
 
-[eddd134787e27de56270831eec2a68e0]
+[6fefbc0e27e54a907daeefbc89284176]
 catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 2"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
+    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 1],
+    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 1],
     [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
     [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
     [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],
@@ -717,7 +730,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93335"]
 
-[c228b4aaec2f3565cb32b4deeca5bb4b]
+[e86a85577144cbd866ebbb0fa5ecc2b8]
 catalognumber = "SVWC-70501~6"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 4"
@@ -745,7 +758,7 @@ tracks = [
     [21, "白線マーチ", "神前暁", 0],
     [22, "活動開始", "神前暁", 0],
     [23, "着ぐるみカエル隊", "神前暁", 0],
-    [24, "おふざけマーチ", "神前暁", 0],
+    [24, "おふざけマーチ", "神前暁", 1],
     [25, "いつもの風景から始まる物語", "神前暁、高田龍一", 0],
     [26, "SOS団再び", "多田彰文", 0],
     [27, "あの日の記憶を追いかけて", "松尾早人", 0],
@@ -815,13 +828,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
 
-[3176ca465834d545b7d471217234a7f2]
+[8a885cd6fa0d99c9e60d2ffe632f7529]
 catalognumber = "SVWC-70507~9"
 date = "2020-03-18"
 album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 2 [SVWC-70508]"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
+    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 1],
+    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 1],
     [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
     [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
     [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],

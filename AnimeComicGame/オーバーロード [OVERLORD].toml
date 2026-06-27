@@ -1063,11 +1063,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/433f63ee-79cd-47ca-8d44-980a9afcf200", "https://vgmdb.net/album/121590"]
 
-[7339959cecbfc38a0c566926fabb9c99]
+[0943364c7c57c761123f5d2da74ae27b]
 catalognumber = "ZMXZ-15722-CD"
 date = "2022-11-25"
 album = "オーバーロード IV スペシャルボイスドラマCD"
-tracks = []
+tracks = [
+    [1, "OVERLORD IV Special Voice Drama", "", 0],
+]
 links = ["https://vgmdb.net/album/121591"]
 
 [d0153a247e62f688de1fae9d175037e1]
@@ -1230,6 +1232,83 @@ tracks = [
     [19, "Ending", "", 0],
 ]
 links = ["https://vgmdb.net/album/136651"]
+
+[25e79445639bf176ada5ca84f97e8555]
+catalognumber = "ZMCZ-17661"
+date = "2024-09-20"
+album = "WHEELER‐DEALER"
+tracks = [
+    [1, "WHEELER‐DEALER", "OxT", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8ccc8211-5cd1-4222-b6f0-b55a55cfde0b"]
+
+[2be11695a87b20aad58d26a80c86deb3]
+catalognumber = "ZMXZ-18041-CD"
+date = "2025-03-26"
+album = "劇場版「オーバーロード」聖王国編 スペシャルサウンドトラックCD Disc 1"
+tracks = [
+    [1, "Prologue – The Roble Sacred Kingdom", "片山修志", 0],
+    [2, "The Threat of the Subhuma Amy", "片山修志", 0],
+    [3, "The Sacred Kingdom in Crisis", "片山修志", 0],
+    [4, "Battle of Karinsha", "片山修志", 0],
+    [5, "Fight With Evil Emperor Jaldabaoth", "片山修志", 0],
+    [6, "Evil Lord Wrath Appears", "片山修志", 0],
+    [7, "Emerges From the Mist", "片山修志", 0],
+    [8, "Go Into the Sorcerer Kingdom", "片山修志", 0],
+    [9, "Audience With Ainz Oual Gown", "片山修志", 0],
+    [10, "Abominable Memories", "片山修志", 0],
+    [11, "Ainz Visits the Paladins", "片山修志", 0],
+    [12, "Ainz’s Suggestion", "片山修志", 0],
+    [13, "Departure With the Sorcerer Kingdom", "片山修志", 0],
+    [14, "Tough Situation", "片山修志", 0],
+    [15, "Neia’s Loyalty", "片山修志", 0],
+    [16, "Battle to Retake Roytz City", "片山修志", 0],
+    [17, "Break the Deadlock", "片山修志", 0],
+    [18, "Ainz’s Justice", "片山修志", 0],
+    [19, "Encounter the King of Subhuman", "片山修志", 0],
+    [20, "The Holy Lady’s Brother Caspond", "片山修志", 0],
+    [21, "Caspond’s Plan", "片山修志", 0],
+    [22, "The Great Invaison of the Subhuman Army", "片山修志", 0],
+    [23, "Subhuman’s War Council", "片山修志", 0],
+    [24, "Neia’s Farewell", "片山修志", 0],
+    [25, "We Must Save Our Own Counrty", "片山修志", 0],
+    [26, "The Defensive Battle of Roytz City", "片山修志", 0],
+    [27, "Clash With the Subhuman Army", "片山修志", 0],
+    [28, "Fierce Fight! Vijar vs Remedios", "片山修志", 0],
+    [29, "The Sorcerer King Descends", "片山修志", 0],
+    [30, "Neia in a Predicament", "片山修志", 0],
+    [31, "I Understanad What Justice Is", "片山修志", 0],
+    [32, "Cause of Victory", "片山修志", 0],
+    [33, "Return of Evil Lord Wrath", "片山修志", 0],
+    [34, "Ainz’s Plot and the Battle", "片山修志", 0],
+    [35, "The Sorcerer King Is Dead", "片山修志", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7bbad352-be96-4a01-905d-e6cd51395744"]
+
+[df6ee8612a208807c2ff9d9e12cace42]
+catalognumber = "ZMXZ-18041-CD"
+date = "2025-03-26"
+album = "劇場版「オーバーロード」聖王国編 スペシャルサウンドトラックCD Disc 2"
+tracks = [
+    [1, "Absent Sky", "片山修志", 0],
+    [2, "Team Meeting of Neia and Shizu", "片山修志", 0],
+    [3, "Ainz Is Alive", "片山修志", 0],
+    [4, "Infiltrating Karinsha", "片山修志", 0],
+    [5, "Deep Into the Fortress", "片山修志", 0],
+    [6, "Fight With Va‐Um", "片山修志", 0],
+    [7, "The Prince of the Zern", "片山修志", 0],
+    [8, "We’ll Defeat the Circlet Demon", "片山修志", 0],
+    [9, "Showdown With the Circlet Demon", "片山修志", 0],
+    [10, "Shizu Surprise Attack", "片山修志", 0],
+    [11, "Neia and the Rune Bow", "片山修志", 0],
+    [12, "The Paladins March to Karinsha Again", "片山修志", 0],
+    [13, "Flames of Wrath", "片山修志", 0],
+    [14, "The Sorcerer King Is Back", "片山修志", 0],
+    [15, "The Final Battle With Evil Lord Wrath", "片山修志", 0],
+    [16, "Let’s Meet Again Someday", "片山修志", 0],
+    [17, "Demiurge’s Shadow", "片山修志", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7bbad352-be96-4a01-905d-e6cd51395744"]
 
 [922860749e22e4376708b5255c3f4080]
 catalognumber = "ZMCZ-18471"
