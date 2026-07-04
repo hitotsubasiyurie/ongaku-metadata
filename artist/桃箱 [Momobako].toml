@@ -1,4 +1,4 @@
-[c33812a8a539bf946663889b1d897236]
+[cdf4a67d63ae7852a0f9ef0cb7915ffe]
 catalognumber = ""
 date = ""
 album = "箱、喋るのっ！"
@@ -79,19 +79,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dbe8681d-e984-4118-8dca-a62f8be8203e", "https://vgmdb.net/album/40990", "https://www.dojin-music.info/cd/3585"]
 
-[89e81d4adbdf8a76ceb481193f71754e]
+[499fbc1b7cc7f57e0e99d3b92648b992]
 catalognumber = "TOS008"
 date = "2011-03-13"
 album = "桃色ディスタンス"
 tracks = [
     [1, "桃色ディスタンス", "魂音泉", 0],
     [2, "触れられない物語", "魂音泉", 0],
-    [3, "ことばのあや", "魂音泉 feat. 桃箱", 0],
-    [4, "Witches' Night", "魂音泉 feat. RainyBlue", 0],
+    [3, "ことばのあや", "魂音泉 feat. 桃箱", 1],
+    [4, "Witches' Night", "魂音泉 feat. RainyBlue", 1],
     [5, "流星ドライヴ (Loves \"BT\" Remix)", "魂音泉", 0],
     [6, "とある瀟洒な従者の物語", "魂音泉 feat. ｙｔｒ", 0],
-    [7, "Bad Apple？ を【たま が歌ってみた】", "魂音泉 feat. Romonosov?:p", 0],
-    [8, "End Roll -心音", "魂音泉", 0],
+    [7, "Bad Apple？ を【たま が歌ってみた】", "魂音泉 feat. Romonosov?:p", 1],
+    [8, "End Roll -心音", "魂音泉", 1],
     [9, "坂好きの神様 (off vocal)", "魂音泉 feat. 雨天決行", 0],
     [10, "フラワリングナイト (haKuchu-mu Remix) (off vocal)", "魂音泉 feat. らっぷびと", 0],
 ]
@@ -544,7 +544,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6413"]
 
-[3d14bf0ca1be4afbfd09e250d4a7c1ed]
+[feddf01dc70f08bac3915a4e48bc8048]
 catalognumber = "DMPCD-004"
 date = "2012-08-11"
 album = "電波娘々～でんぱにゃんにゃん～"
@@ -810,7 +810,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1483c57e-ddee-48d7-86aa-268369ff88b5", "https://vgmdb.net/album/36945", "https://www.dojin-music.info/cd/17023"]
 
-[0bc99fb69a47dde4b33c71ab1e987733]
+[a72b90ac5ea6ebf6cbd81cbf1e989b52]
 catalognumber = "KTHT-0018"
 date = "2012-12-31"
 album = "しぇいきんぐ! / SHAKING PINK"
@@ -858,7 +858,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/21460b50-badf-49e4-89f3-26345afe8374", "https://vgmdb.net/album/127719", "https://www.dojin-music.info/cd/5679"]
 
-[38dd0c2dbc8683f4dd8dc8a2ec2be886]
+[557d573d3f40885199249a5b1035d2a9]
 catalognumber = "DMPCD-005"
 date = "2013-04-29"
 album = "だめぽじゃないですでんぱですっ！！"
@@ -876,7 +876,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e912b5df-5277-483d-a9ab-25086226acd8", "https://vgmdb.net/album/40994", "https://www.dojin-music.info/cd/5662"]
 
-[75e35cc591461b7367f8e3f8ad3cc41b]
+[60db09d0023e66c78de4fba7eadf0948]
 catalognumber = "DWCD-0007"
 date = "2013-04-29"
 album = "RAVER'S NEST presents DJ katsu CLUB MIX"
@@ -1184,7 +1184,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6411"]
 
-[e8b6089b1f155d00e1ef6186fe11b164]
+[fb93de7f206fe0ef7499dd1052514819]
 catalognumber = "MMBK-001"
 date = "2013-08-12"
 album = "mofumofu"
@@ -1202,7 +1202,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3d810bb0-0065-4f65-8d1e-628afd6d4984", "https://vgmdb.net/album/40808", "https://www.dojin-music.info/cd/7843"]
 
-[51877e145d6343245a26bd5edf9f627f]
+[481b8c851c8cf911d025f3c29644ccad]
 catalognumber = ""
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
@@ -1216,7 +1216,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5680"]
 
-[0d43d0883ab2765c4495382fc5387a1a]
+[a766f86c44a894f1608445963161d06e]
 catalognumber = "NNMM-002"
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！ / 桃箱＆ななひら"
@@ -1234,7 +1234,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/138269"]
 
-[cbf5725d11475813efcebf6f8b8a3423]
+[c542c66da7324c92744897e6249f9696]
 catalognumber = "M&N 002"
 date = "2013-10-27"
 album = "もーっと☆ちっちゃいのっ！"
@@ -1292,7 +1292,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b053db2e-a6d6-4a77-9bcc-e2d74e9aa2f9", "https://vgmdb.net/album/43210", "https://www.dojin-music.info/cd/5630"]
 
-[c33b2b6a626638fcf5d46356b33459df]
+[03b31c5fe4db97f11054287110659162]
 catalognumber = "MMBK-002"
 date = "2013-12-31"
 album = "ぴぃちぼっくす"
@@ -1345,7 +1345,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/24793"]
 
-[8a1b170e02442777b1391c60e0b30563]
+[c2b43a9389ebbcee20fad3f61a356877]
 catalognumber = "MMBK-003"
 date = "2014-04-27"
 album = "ふあふあガールフレンド(仮)"
@@ -1494,7 +1494,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/15367"]
 
-[f9d1a38fbffd155ef1a838194a517f9c]
+[b3d47d1ae6580d30fdc0a57b756cd6be]
 catalognumber = "MMBK-004"
 date = "2014-12-30"
 album = "箱入りむちゅめ"
@@ -1547,7 +1547,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5626"]
 
-[28c33b88f9e7d722c311bb6541639cf2]
+[818179d095406379d3d97d09f4d8b461]
 catalognumber = "mmmr-001"
 date = "2015-04-26"
 album = "ぷちもも"
@@ -1577,7 +1577,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84736b85-3aa7-4698-86bb-e2f03729ade4", "https://vgmdb.net/album/68164", "https://www.dojin-music.info/cd/10852"]
 
-[4853355c1298358146b2ed964be3f2a9]
+[13489addb0ea234cdf2c53806ce3b26e]
 catalognumber = "BKMK-001"
 date = "2015-08-16"
 album = "ろりぽっぷちゅ♥"
@@ -1632,7 +1632,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cde51755-70bc-421e-abde-06e2f372c000", "https://vgmdb.net/album/108503", "https://www.dojin-music.info/cd/6553"]
 
-[0d6f3d9d94cde26f33fe70b38d180ac8]
+[23339ad8747c051ba0f4c0a431bdef7d]
 catalognumber = "BKMK-002"
 date = "2015-10-25"
 album = "ろりぽっぷちゅうぉーぢゅ"
@@ -1727,7 +1727,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/6348"]
 
-[8082af6c0f884426bef1114188960f98]
+[0ecbb2afcb310f09541d9d0df3bffd26]
 catalognumber = ""
 date = "2015-12-31"
 album = "vanillamiumiu"
@@ -1762,7 +1762,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/de3bc4a9-2cb5-49a4-a7c4-8637a5d42b16", "https://vgmdb.net/album/127363", "https://www.dojin-music.info/cd/5650"]
 
-[5f79980b56a2fa8135da380dfb0a2fc6]
+[b615fb489f82cda3c6f959f377082ab3]
 catalognumber = ""
 date = "2016-04-24"
 album = "meltyholic"
@@ -1821,7 +1821,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33b846ac-e802-4159-b6e3-b248a9830755", "https://vgmdb.net/album/65966", "https://www.dojin-music.info/cd/5675"]
 
-[3a72ac9409766ddfe5ea78c5a5b3c273]
+[763522c36b42365252a54a0983f484ba]
 catalognumber = "MKMK-004"
 date = "2016-08-14"
 album = "みるきゅりんく"
@@ -1855,7 +1855,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5622"]
 
-[e9c8b19f4408dde331fccb9f1cf6ca46]
+[282b401fa0ebd70a3bbe5e40ab06950c]
 catalognumber = ""
 date = "2016-10-30"
 album = "HONEY♥HONEY"
@@ -1866,7 +1866,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0dab78a6-35ec-4ab9-8a8a-433788b42cc5", "https://www.dojin-music.info/cd/6346"]
 
-[6f0050f403265e5d13d24bb4a2f75ce4]
+[7197908839c0542a14bcd8b0a8979b30]
 catalognumber = ""
 date = "2016-10-30"
 album = "candy box"
@@ -2163,7 +2163,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f6e72564-50a9-4f4c-9075-c758639e318c", "https://vgmdb.net/album/139202", "https://www.dojin-music.info/cd/6552"]
 
-[f2382bc721ed56f1c07fc1c94a5dbbf0]
+[3d784da1db9df15858386f11895dbaed]
 catalognumber = ""
 date = "2017-04-30"
 album = "走馬灯ラビリンス"
@@ -2199,7 +2199,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/10174"]
 
-[d5afe1f7a9d7622a1882af04550af95b]
+[4d1eb80f5acaba46b4e22900ba132720]
 catalognumber = "MMYK-0001"
 date = "2017-04-30"
 album = "走馬灯ラビリンス"
@@ -2272,7 +2272,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06208234-2b8f-4585-a58b-43323cf22613", "https://vgmdb.net/album/135587", "https://www.dojin-music.info/cd/5676"]
 
-[b96fd70ecab615d45712b572d9ff995a]
+[6c8a3a79804d591bdaac8e358e7e3b57]
 catalognumber = "MKMK-006"
 date = "2017-08-11"
 album = "恋唄浪漫"
@@ -2368,7 +2368,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5642"]
 
-[b31675d336c7d7aa89930d90669b2897]
+[c226a1b2299ee831739225308360901f]
 catalognumber = ""
 date = "2017-10-29"
 album = "曖昧トリップ"
@@ -2513,7 +2513,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d5a9c43-0929-4394-b3b7-c4de2ed79229", "https://vgmdb.net/album/91187"]
 
-[45143f732fed5d03de8929ea13e4a6ec]
+[f1560d687c9914c37ea0feeea984a945]
 catalognumber = "MKMK-007"
 date = "2017-12-29"
 album = "メモリアメロディ"
@@ -2576,7 +2576,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5616"]
 
-[50146a8b5a7388da12089ec6dfb4a744]
+[1854d38e9c820205f2572f750e7ff0ca]
 catalognumber = ""
 date = "2018-04-29"
 album = "和洋せっchu!SAKURA喫茶"
@@ -2623,7 +2623,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7ccbfca0-3c47-4845-aa16-56dcb3d829fe", "https://vgmdb.net/album/89376", "https://www.dojin-music.info/cd/13009"]
 
-[f2a7272bfa7fced52effdfe46414ae66]
+[794ff9f4e6add80a46851a4ab243441f]
 catalognumber = ""
 date = "2018-08-10"
 album = "momochan continue"
@@ -2703,7 +2703,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/530bec8f-51a0-4454-b97d-0217bd83db11", "https://vgmdb.net/album/93233", "https://www.dojin-music.info/cd/20806"]
 
-[50f9d4d9ce4f4674eadeb151591cdb60]
+[7dfbb3e33ecfcebb96fd0a0469d5c52d]
 catalognumber = ""
 date = "2018-10-30"
 album = "momochan android"
@@ -2740,7 +2740,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5707"]
 
-[91b8a685899010cffcf3b08efe9e188f]
+[3e3a597f1ca618d7b581913b0ee79ec6]
 catalognumber = ""
 date = "2018-12-30"
 album = "ゆのぼっくす"
@@ -2773,7 +2773,7 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/5613"]
 
-[f5ecf5a6320ca0626bccc8693827fc89]
+[c2a6b0bd85cf8122cab8dcc96b4c9e50]
 catalognumber = ""
 date = "2019-04-28"
 album = "ほっと・すぽっと"
