@@ -9,257 +9,257 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/86227"]
 
-[ea3de1914f3bbb06ea80ccf74723efe0]
+[40bf5a6d158357f5694b235339608da1]
 catalognumber = "COKM-42231"
 date = "2018-12-31"
 album = "きみの名前 / 藤川千愛"
 tracks = [
-    [1, "きみの名前", "藤川千愛", 0],
+    [1, "きみの名前", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a5c237af-c537-4d5b-af6a-4e0776bf095d", "https://vgmdb.net/album/82379"]
 
-[c2ce33dc1e48ce6b564c2ac3aff53138]
+[033c688d89853b09d0588cf1baf88d48]
 catalognumber = "COCA-17558"
 date = "2019-02-06"
 album = "RISE / MADKID [Type-B]"
 tracks = [
-    [1, "RISE", "MADKID", 0],
-    [2, "Puzzle", "MADKID", 0],
-    [3, "出ていってよ", "MADKID", 0],
-    [4, "RISE (Instrumental)", "MADKID", 0],
-    [5, "Puzzle (Instrumental)", "MADKID", 0],
-    [6, "出ていってよ (Instrumental)", "MADKID", 0],
+    [1, "RISE", "MADKID", 1],
+    [2, "Puzzle", "MADKID", 1],
+    [3, "出ていってよ", "MADKID", 1],
+    [4, "RISE (Instrumental)", "MADKID", 1],
+    [5, "Puzzle (Instrumental)", "MADKID", 1],
+    [6, "出ていってよ (Instrumental)", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/398d77cd-ead1-454c-86b6-ae4f3c44b869", "https://vgmdb.net/album/82377"]
 
-[dc66b8fe1aae550c2ed6d1c48b1489ab]
+[77c811e1da7020e975144c7f51e6978e]
 catalognumber = "COZA-1508~9"
 date = "2019-02-06"
 album = "RISE / MADKID [Type-A] Vocal"
 tracks = [
-    [1, "RISE", "MADKID", 0],
-    [2, "Puzzle", "MADKID", 0],
-    [3, "出ていってよ", "MADKID", 0],
-    [4, "RISE (Instrumental)", "MADKID", 0],
-    [5, "Puzzle (Instrumental)", "MADKID", 0],
-    [6, "出ていってよ (Instrumental)", "MADKID", 0],
+    [1, "RISE", "MADKID", 1],
+    [2, "Puzzle", "MADKID", 1],
+    [3, "出ていってよ", "MADKID", 1],
+    [4, "RISE (Instrumental)", "MADKID", 1],
+    [5, "Puzzle (Instrumental)", "MADKID", 1],
+    [6, "出ていってよ (Instrumental)", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/efd8b866-8076-486a-9cba-cfc9a79b4e29", "https://vgmdb.net/album/82378"]
 
-[c7e79cacd7789462472746efe4b591b9]
+[8e9ab3ad4aa7bd53550634f6ebb3b0ff]
 catalognumber = "COZA-1508~9"
 date = "2019-02-06"
 album = "RISE / MADKID [Type-A] Video"
 tracks = [
     [1, "MADKID LIVE2018 'Never going back' LIVE MOVIE(2018.4.30@SHINJUKU ReNY)", "", 0],
-    [2, "RISE (Music Video)", "", 0],
+    [2, "RISE (Music Video)", "", 1],
     [3, "BEHIND THE SCREEN", "", 0],
 ]
 links = ["https://vgmdb.net/album/82378"]
 
-[1126f88110d3059010e8f00193a86fe8]
+[1f36096de22024da57603fb10245b7b7]
 catalognumber = "COCX-40782"
 date = "2019-03-27"
 album = "盾の勇者の成り上がり オリジナル・サウンドトラック \"Dusk\""
 tracks = [
-    [1, "The Rising of the Shield Hero", "Kevin Penkin", 0],
-    [2, "Sunshine with Shields", "Kevin Penkin", 0],
-    [3, "Resonance of Churchs", "Kevin Penkin", 0],
-    [4, "H.U.D.", "Kevin Penkin", 0],
-    [5, "Moonlight", "Kevin Penkin", 0],
-    [6, "Campbell 1-1", "Kevin Penkin", 0],
-    [7, "Parliament", "Kevin Penkin", 0],
-    [8, "Fermentation", "Kevin Penkin", 0],
-    [9, "Core-collapse", "Kevin Penkin", 0],
-    [10, "Apocalypse", "Kevin Penkin", 0],
-    [11, "Kansas", "Kevin Penkin", 0],
-    [12, "Beloukas", "Kevin Penkin", 0],
-    [13, "Catch Me", "Kevin Penkin", 0],
-    [14, "Cartwheel", "Kevin Penkin", 0],
-    [15, "Contrabass", "Kevin Penkin", 0],
-    [16, "Mirrors", "Kevin Penkin", 0],
-    [17, "Crystalline", "Kevin Penkin", 0],
-    [18, "Raphtalia", "Kevin Penkin", 0],
-    [19, "WAVES", "Kevin Penkin", 0],
-    [20, "Autoroll", "Kevin Penkin", 0],
-    [21, "GAMESTART", "Kevin Penkin", 0],
-    [22, "Falling Through Starlight", "Kevin Penkin ft. Amelia Jones", 0],
-    [23, "Lifeblood", "Kevin Penkin", 0],
-    [24, "Three Heros Church", "Kevin Penkin", 0],
-    [25, "Falling Through Starlight", "Kevin Penkin ft. Asami Seto", 0],
+    [1, "The Rising of the Shield Hero", "Kevin Penkin", 1],
+    [2, "Sunshine with Shields", "Kevin Penkin", 1],
+    [3, "Resonance of Churchs", "Kevin Penkin", 1],
+    [4, "H.U.D.", "Kevin Penkin", 1],
+    [5, "Moonlight", "Kevin Penkin", 1],
+    [6, "Campbell 1-1", "Kevin Penkin", 1],
+    [7, "Parliament", "Kevin Penkin", 1],
+    [8, "Fermentation", "Kevin Penkin", 1],
+    [9, "Core-collapse", "Kevin Penkin", 1],
+    [10, "Apocalypse", "Kevin Penkin", 1],
+    [11, "Kansas", "Kevin Penkin", 1],
+    [12, "Beloukas", "Kevin Penkin", 1],
+    [13, "Catch Me", "Kevin Penkin", 1],
+    [14, "Cartwheel", "Kevin Penkin", 1],
+    [15, "Contrabass", "Kevin Penkin", 1],
+    [16, "Mirrors", "Kevin Penkin", 1],
+    [17, "Crystalline", "Kevin Penkin", 1],
+    [18, "Raphtalia", "Kevin Penkin", 1],
+    [19, "WAVES", "Kevin Penkin", 1],
+    [20, "Autoroll", "Kevin Penkin", 1],
+    [21, "GAMESTART", "Kevin Penkin", 1],
+    [22, "Falling Through Starlight", "Kevin Penkin ft. Amelia Jones", 1],
+    [23, "Lifeblood", "Kevin Penkin", 1],
+    [24, "Three Heros Church", "Kevin Penkin", 1],
+    [25, "Falling Through Starlight", "Kevin Penkin ft. Asami Seto", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fcb1a75e-42f5-407e-b7a4-6649648a0da3", "https://vgmdb.net/album/84770"]
 
-[7f67e3193512d1aad869442d65223a6e]
+[4e891ca01aca011faeb258a2d4909fe8]
 catalognumber = "COKM-42363"
 date = "2019-04-11"
 album = "FAITH / MADKID"
 tracks = [
-    [1, "FAITH", "MADKID", 0],
+    [1, "FAITH", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9a24c845-af7c-47cb-ab6e-b494d3dd70da", "https://vgmdb.net/album/135783"]
 
-[0b4b691c6ab124b4e0a783b508f74473]
+[879e450cfc6c6c3e9d2d1a6691663900]
 catalognumber = "COZP-1539~40"
 date = "2019-04-24"
 album = "CIRCUS / MADKID [Type-A] Vocal"
 tracks = [
-    [1, "CIRCUS", "MADKID", 0],
-    [2, "Never going back", "MADKID", 0],
-    [3, "GIANT KILLING", "MADKID", 0],
-    [4, "COME", "MADKID", 0],
-    [5, "FAITH", "MADKID", 0],
-    [6, "OVERAGAIN", "MADKID", 0],
-    [7, "Summer Time", "MADKID", 0],
-    [8, "Stuck on U", "MADKID", 0],
-    [9, "さよなら…", "MADKID", 0],
-    [10, "出ていってよ", "MADKID", 0],
-    [11, "RISE", "MADKID", 0],
-    [12, "RISE (English version)", "MADKID", 0],
-    [13, "FAITH (English version)", "MADKID", 0],
-    [14, "Sing for you", "MADKID", 0],
-    [15, "STAY GOLD", "MADKID", 0],
+    [1, "CIRCUS", "MADKID", 1],
+    [2, "Never going back", "MADKID", 1],
+    [3, "GIANT KILLING", "MADKID", 1],
+    [4, "COME", "MADKID", 1],
+    [5, "FAITH", "MADKID", 1],
+    [6, "OVERAGAIN", "MADKID", 1],
+    [7, "Summer Time", "MADKID", 1],
+    [8, "Stuck on U", "MADKID", 1],
+    [9, "さよなら…", "MADKID", 1],
+    [10, "出ていってよ", "MADKID", 1],
+    [11, "RISE", "MADKID", 1],
+    [12, "RISE (English version)", "MADKID", 1],
+    [13, "FAITH (English version)", "MADKID", 1],
+    [14, "Sing for you", "MADKID", 1],
+    [15, "STAY GOLD", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2a176e74-d4af-4911-ac79-e91f2e2a9566", "https://vgmdb.net/album/84966"]
 
-[755ba3c8076107d232eba36569ebbb36]
+[057782888a0775920afc8cf7c2625346]
 catalognumber = "COZP-1539~40"
 date = "2019-04-24"
 album = "CIRCUS / MADKID [Type-A] Video"
 tracks = [
     [1, "MADKID LIVETOUR 2018 'GIANT KILLING' (2018.12.26 SHIBUYA WWW) LIVE 映像", "", 0],
-    [2, "FAITH (Music Video)", "", 0],
+    [2, "FAITH (Music Video)", "", 1],
     [3, "BEHIND THE SCREEN", "", 0],
 ]
 links = ["https://vgmdb.net/album/84966"]
 
-[f7f53db01d09ffb4c50c42c402ac1c10]
+[ec3d7f67bc36c2e21bc6a194c416b38a]
 catalognumber = "COCP-40797"
 date = "2019-04-24"
 album = "CIRCUS / MADKID [Type-B]"
 tracks = [
-    [1, "CIRCUS", "MADKID", 0],
-    [2, "Never going back", "MADKID", 0],
-    [3, "GIANT KILLING", "MADKID", 0],
-    [4, "COME", "MADKID", 0],
-    [5, "FAITH", "MADKID", 0],
-    [6, "OVERAGAIN", "MADKID", 0],
-    [7, "Summer Time", "MADKID", 0],
-    [8, "Stuck on U", "MADKID", 0],
-    [9, "さよなら…", "MADKID", 0],
-    [10, "出ていってよ", "MADKID", 0],
-    [11, "RISE", "MADKID", 0],
-    [12, "RISE (English version)", "MADKID", 0],
-    [13, "FAITH (English version)", "MADKID", 0],
-    [14, "Sing for you", "MADKID", 0],
-    [15, "STAY GOLD", "MADKID", 0],
+    [1, "CIRCUS", "MADKID", 1],
+    [2, "Never going back", "MADKID", 1],
+    [3, "GIANT KILLING", "MADKID", 1],
+    [4, "COME", "MADKID", 1],
+    [5, "FAITH", "MADKID", 1],
+    [6, "OVERAGAIN", "MADKID", 1],
+    [7, "Summer Time", "MADKID", 1],
+    [8, "Stuck on U", "MADKID", 1],
+    [9, "さよなら…", "MADKID", 1],
+    [10, "出ていってよ", "MADKID", 1],
+    [11, "RISE", "MADKID", 1],
+    [12, "RISE (English version)", "MADKID", 1],
+    [13, "FAITH (English version)", "MADKID", 1],
+    [14, "Sing for you", "MADKID", 1],
+    [15, "STAY GOLD", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f6f5949-4f23-4758-a5c8-5747bf68abcb", "https://vgmdb.net/album/84967"]
 
-[c33f150bc1945315bb7f79930d71b56d]
+[3c5eb7ccc2667bab102af6a973a608a6]
 catalognumber = "COKM-42411"
 date = "2019-05-05"
 album = "ライカ / 藤川千愛 [Special Edition]"
 tracks = [
-    [1, "ライカ", "藤川千愛", 0],
-    [2, "夜もすがら君を想う", "藤川千愛", 0],
-    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [4, "ゴミの日", "藤川千愛", 0],
-    [5, "葛藤", "藤川千愛", 0],
-    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [7, "hane", "藤川千愛", 0],
-    [8, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [9, "きみの名前", "藤川千愛", 0],
-    [10, "あの日あの時", "藤川千愛", 0],
-    [11, "昨日のあたしに負けたくないの", "藤川千愛", 0],
-    [12, "オレンジ", "藤川千愛", 0],
+    [1, "ライカ", "藤川千愛", 1],
+    [2, "夜もすがら君を想う", "藤川千愛", 1],
+    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [4, "ゴミの日", "藤川千愛", 1],
+    [5, "葛藤", "藤川千愛", 1],
+    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [7, "hane", "藤川千愛", 1],
+    [8, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [9, "きみの名前", "藤川千愛", 1],
+    [10, "あの日あの時", "藤川千愛", 1],
+    [11, "昨日のあたしに負けたくないの", "藤川千愛", 1],
+    [12, "オレンジ", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/07869680-53b8-476b-b326-0093774efd5e", "https://vgmdb.net/album/86486"]
 
-[5cf11485987fa595213d0dcc81b06cf3]
+[d8bcf3020b18fbdbe3987e3599c5cf50]
 catalognumber = "COCP-40800"
 date = "2019-05-07"
 album = "ライカ / 藤川千愛"
 tracks = [
-    [1, "ライカ", "藤川千愛", 0],
-    [2, "夜もすがら君を想う", "藤川千愛", 0],
-    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [4, "ゴミの日", "藤川千愛", 0],
-    [5, "葛藤", "藤川千愛", 0],
-    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [7, "hane", "藤川千愛", 0],
-    [8, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [9, "きみの名前", "藤川千愛", 0],
-    [10, "あの日あの時", "藤川千愛", 0],
-    [11, "オレンジ", "藤川千愛", 0],
+    [1, "ライカ", "藤川千愛", 1],
+    [2, "夜もすがら君を想う", "藤川千愛", 1],
+    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [4, "ゴミの日", "藤川千愛", 1],
+    [5, "葛藤", "藤川千愛", 1],
+    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [7, "hane", "藤川千愛", 1],
+    [8, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [9, "きみの名前", "藤川千愛", 1],
+    [10, "あの日あの時", "藤川千愛", 1],
+    [11, "オレンジ", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c732c920-c7fa-4ce7-b6d6-91f9f15cb4f4", "https://vgmdb.net/album/84426"]
 
-[b6c7c389c1001ac50bfa158697cdbeff]
+[a49267b0d4d612abe689ed9d2d012a0f]
 catalognumber = "COCP-40798"
 date = "2019-05-07"
 album = "ライカ / 藤川千愛 [初回限定盤B]"
 tracks = [
-    [1, "ライカ", "藤川千愛", 0],
-    [2, "夜もすがら君を想う", "藤川千愛", 0],
-    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [4, "ゴミの日", "藤川千愛", 0],
-    [5, "葛藤", "藤川千愛", 0],
-    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [7, "hane", "藤川千愛", 0],
-    [8, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [9, "きみの名前", "藤川千愛", 0],
-    [10, "あの日あの時", "藤川千愛", 0],
+    [1, "ライカ", "藤川千愛", 1],
+    [2, "夜もすがら君を想う", "藤川千愛", 1],
+    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [4, "ゴミの日", "藤川千愛", 1],
+    [5, "葛藤", "藤川千愛", 1],
+    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [7, "hane", "藤川千愛", 1],
+    [8, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [9, "きみの名前", "藤川千愛", 1],
+    [10, "あの日あの時", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/98ac4027-68ed-437d-a96f-6848d7044cf4", "https://vgmdb.net/album/84429"]
 
-[b558c794756b7c24e8fa00acde1a4988]
+[485e42878d4ca935dba99386c1450ade]
 catalognumber = "COCP-40799"
 date = "2019-05-07"
 album = "ライカ / 藤川千愛"
 tracks = [
-    [1, "ライカ", "藤川千愛", 0],
-    [2, "夜もすがら君を想う", "藤川千愛", 0],
-    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [4, "ゴミの日", "藤川千愛", 0],
-    [5, "葛藤", "藤川千愛", 0],
-    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [7, "hane", "藤川千愛", 0],
-    [8, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [9, "きみの名前", "藤川千愛", 0],
-    [10, "あの日あの時", "藤川千愛", 0],
-    [11, "昨日のあたしに負けたくないの", "藤川千愛", 0],
+    [1, "ライカ", "藤川千愛", 1],
+    [2, "夜もすがら君を想う", "藤川千愛", 1],
+    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [4, "ゴミの日", "藤川千愛", 1],
+    [5, "葛藤", "藤川千愛", 1],
+    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [7, "hane", "藤川千愛", 1],
+    [8, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [9, "きみの名前", "藤川千愛", 1],
+    [10, "あの日あの時", "藤川千愛", 1],
+    [11, "昨日のあたしに負けたくないの", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d555fa5-4652-437f-8f83-f98e82d5bc40", "https://vgmdb.net/album/84427"]
 
-[ddb1d4a071b6f1a5a499844569d51172]
+[272b381506f63b75c42aa361ae91ea4c]
 catalognumber = "COZP-1541~2"
 date = "2019-05-07"
 album = "ライカ / 藤川千愛 [初回限定盤A] Disc 1 (CD) [COZP-1541]"
 tracks = [
-    [1, "ライカ", "藤川千愛", 0],
-    [2, "夜もすがら君を想う", "藤川千愛", 0],
-    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [4, "ゴミの日", "藤川千愛", 0],
-    [5, "葛藤", "藤川千愛", 0],
-    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [7, "hane", "藤川千愛", 0],
-    [8, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [9, "きみの名前", "藤川千愛", 0],
-    [10, "あの日あの時", "藤川千愛", 0],
+    [1, "ライカ", "藤川千愛", 1],
+    [2, "夜もすがら君を想う", "藤川千愛", 1],
+    [3, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [4, "ゴミの日", "藤川千愛", 1],
+    [5, "葛藤", "藤川千愛", 1],
+    [6, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [7, "hane", "藤川千愛", 1],
+    [8, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [9, "きみの名前", "藤川千愛", 1],
+    [10, "あの日あの時", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92c38fe3-5bf8-49fc-845c-e24abdfd5d5f", "https://vgmdb.net/album/84428"]
 
-[341f3bf008faaf4cf7ec1f5596034758]
+[2f9e888895f476a8907d1f84ca60cf2d]
 catalognumber = "COZP-1541~2"
 date = "2019-05-07"
 album = "ライカ / 藤川千愛 [初回限定盤A] Disc 2 (DVD) [COZP-1542]"
 tracks = [
-    [1, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
-    [2, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
-    [3, "きみの名前", "藤川千愛", 0],
-    [4, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [5, "ライカ (Encore)", "藤川千愛", 0],
+    [1, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
+    [2, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
+    [3, "きみの名前", "藤川千愛", 1],
+    [4, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [5, "ライカ (Encore)", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92c38fe3-5bf8-49fc-845c-e24abdfd5d5f", "https://vgmdb.net/album/84428"]
 
@@ -277,56 +277,56 @@ album = "TVアニメ「盾の勇者の成り上がり」WebラジオCD「普通�
 tracks = []
 links = ["https://vgmdb.net/album/85685"]
 
-[189420c904769126dacc13bd418a5fa5]
+[cbc2268a04899bcdd77e1989e91efe18]
 catalognumber = "COCX-40888~9"
 date = "2019-06-19"
 album = "盾の勇者の成り上がり オリジナル・サウンドトラック \"Dawn\" Disc 1 [COCX-40888]"
 tracks = [
-    [1, "Melty", "Kevin Penkin", 0],
-    [2, "Preparations", "Kevin Penkin", 0],
-    [3, "Filo", "Kevin Penkin", 0],
-    [4, "Quartet", "Kevin Penkin", 0],
-    [5, "Imprint", "Kevin Penkin", 0],
-    [6, "Boom, boom, boom", "Kevin Penkin", 0],
-    [7, "Overdrive", "Kevin Penkin", 0],
-    [8, "Symbiosis", "Kevin Penkin", 0],
-    [9, "Mattyboi", "Kevin Penkin", 0],
-    [10, "Slapstick", "Kevin Penkin", 0],
-    [11, "Glass", "Kevin Penkin", 0],
-    [12, "Smackdown", "Kevin Penkin", 0],
-    [13, "O.H.T.", "Kevin Penkin", 0],
-    [14, "Gaelion", "Kevin Penkin", 0],
-    [15, "Let's Bounce", "Kevin Penkin", 0],
-    [16, "Conchoidal Fractures", "Kevin Penkin", 0],
-    [17, "En Annan Tid, Ett Annat Liv", "Maria Andersson", 0],
-    [18, "The Singularity", "Kevin Penkin", 0],
+    [1, "Melty", "Kevin Penkin", 1],
+    [2, "Preparations", "Kevin Penkin", 1],
+    [3, "Filo", "Kevin Penkin", 1],
+    [4, "Quartet", "Kevin Penkin", 1],
+    [5, "Imprint", "Kevin Penkin", 1],
+    [6, "Boom, boom, boom", "Kevin Penkin", 1],
+    [7, "Overdrive", "Kevin Penkin", 1],
+    [8, "Symbiosis", "Kevin Penkin", 1],
+    [9, "Mattyboi", "Kevin Penkin", 1],
+    [10, "Slapstick", "Kevin Penkin", 1],
+    [11, "Glass", "Kevin Penkin", 1],
+    [12, "Smackdown", "Kevin Penkin", 1],
+    [13, "O.H.T.", "Kevin Penkin", 1],
+    [14, "Gaelion", "Kevin Penkin", 1],
+    [15, "Let's Bounce", "Kevin Penkin", 1],
+    [16, "Conchoidal Fractures", "Kevin Penkin", 1],
+    [17, "En Annan Tid, Ett Annat Liv", "Maria Andersson", 1],
+    [18, "The Singularity", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/14910abd-ea9e-49b1-b661-6428dbf8ac37", "https://vgmdb.net/album/86576"]
 
-[7113a5b6cd9d6373e0f1f8d86280a690]
+[b1023d8963322a6d6ccbed2dc5f186e4]
 catalognumber = "COCX-40888~9"
 date = "2019-06-19"
 album = "盾の勇者の成り上がり オリジナル・サウンドトラック \"Dawn\" Disc 2 [COCX-40889]"
 tracks = [
-    [1, "Inharmonicity", "Kevin Penkin", 0],
-    [2, "Sentiment", "Kevin Penkin", 0],
-    [3, "Luminosa", "Kevin Penkin", 0],
-    [4, "Combo", "Kevin Penkin", 0],
-    [5, "OhKami", "Kevin Penkin", 0],
-    [6, "A Touch of Light", "Kevin Penkin", 0],
-    [7, "Oneshot", "Kevin Penkin", 0],
-    [8, "Trials", "Kevin Penkin", 0],
-    [9, "Brawl", "Kevin Penkin", 0],
-    [10, "Noms", "Kevin Penkin", 0],
-    [11, "The Duet", "Kevin Penkin", 0],
-    [12, "Line", "Kevin Penkin", 0],
-    [13, "Calamity of Saints", "Kevin Penkin", 0],
-    [14, "Spirit Bomb", "Kevin Penkin", 0],
-    [15, "Thunderstone", "Kevin Penkin", 0],
-    [16, "Rising", "Kevin Penkin", 0],
-    [17, "Maths", "Kevin Penkin", 0],
-    [18, "It's In Your Eyes", "Kevin Penkin", 0],
-    [19, "Cold Illusions", "Ryan Greaves", 0],
+    [1, "Inharmonicity", "Kevin Penkin", 1],
+    [2, "Sentiment", "Kevin Penkin", 1],
+    [3, "Luminosa", "Kevin Penkin", 1],
+    [4, "Combo", "Kevin Penkin", 1],
+    [5, "OhKami", "Kevin Penkin", 1],
+    [6, "A Touch of Light", "Kevin Penkin", 1],
+    [7, "Oneshot", "Kevin Penkin", 1],
+    [8, "Trials", "Kevin Penkin", 1],
+    [9, "Brawl", "Kevin Penkin", 1],
+    [10, "Noms", "Kevin Penkin", 1],
+    [11, "The Duet", "Kevin Penkin", 1],
+    [12, "Line", "Kevin Penkin", 1],
+    [13, "Calamity of Saints", "Kevin Penkin", 1],
+    [14, "Spirit Bomb", "Kevin Penkin", 1],
+    [15, "Thunderstone", "Kevin Penkin", 1],
+    [16, "Rising", "Kevin Penkin", 1],
+    [17, "Maths", "Kevin Penkin", 1],
+    [18, "It's In Your Eyes", "Kevin Penkin", 1],
+    [19, "Cold Illusions", "Ryan Greaves", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/14910abd-ea9e-49b1-b661-6428dbf8ac37", "https://vgmdb.net/album/86576"]
 
@@ -409,104 +409,104 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/94603"]
 
-[328316920feaca1de1c2b5d9ef95087f]
+[28726a3bcaa1c34311aac30152f077ba]
 catalognumber = "COKM-43764"
 date = "2022-04-06"
 album = "ゆずれない / 藤川千愛"
 tracks = [
-    [1, "ゆずれない", "藤川千愛", 0],
+    [1, "ゆずれない", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6dbbfd1a-718f-4dc0-ae89-7f9777e39abb", "https://vgmdb.net/album/119294"]
 
-[9cf37bca492fa85800073b4b7df15117]
+[25d436ee2f0439f572259784da2bf11d]
 catalognumber = "COCP-41759"
 date = "2022-04-27"
 album = "ちょっとそこまで昨日を迎えに / 藤川千愛"
 tracks = [
-    [1, "たしかなことって", "藤川千愛", 0],
-    [2, "ゆずれない", "藤川千愛", 0],
-    [3, "手のひらの中で", "藤川千愛", 0],
-    [4, "ゆびさきから", "藤川千愛", 0],
-    [5, "片っぽのピアス", "藤川千愛", 0],
-    [6, "そんなんばかりループ", "藤川千愛", 0],
-    [7, "覚醒前夜", "藤川千愛", 0],
+    [1, "たしかなことって", "藤川千愛", 1],
+    [2, "ゆずれない", "藤川千愛", 1],
+    [3, "手のひらの中で", "藤川千愛", 1],
+    [4, "ゆびさきから", "藤川千愛", 1],
+    [5, "片っぽのピアス", "藤川千愛", 1],
+    [6, "そんなんばかりループ", "藤川千愛", 1],
+    [7, "覚醒前夜", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/417daaff-352a-49b4-b84a-e237179a4777", "https://vgmdb.net/album/118173"]
 
-[124b7f8c3fddb7db7039fd90a5e411cc]
+[481d7938f4a7a44448392468eecda6f9]
 catalognumber = "COZP-1904~5"
 date = "2022-04-27"
 album = "ちょっとそこまで昨日を迎えに / 藤川千愛 [初回限定盤] Vocal"
 tracks = [
-    [1, "たしかなことって", "藤川千愛", 0],
-    [2, "ゆずれない", "藤川千愛", 0],
-    [3, "手のひらの中で", "藤川千愛", 0],
-    [4, "ゆびさきから", "藤川千愛", 0],
-    [5, "片っぽのピアス", "藤川千愛", 0],
-    [6, "そんなんばかりループ", "藤川千愛", 0],
-    [7, "覚醒前夜", "藤川千愛", 0],
+    [1, "たしかなことって", "藤川千愛", 1],
+    [2, "ゆずれない", "藤川千愛", 1],
+    [3, "手のひらの中で", "藤川千愛", 1],
+    [4, "ゆびさきから", "藤川千愛", 1],
+    [5, "片っぽのピアス", "藤川千愛", 1],
+    [6, "そんなんばかりループ", "藤川千愛", 1],
+    [7, "覚醒前夜", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8c49756f-c248-4baf-9c78-014f38a0d210", "https://vgmdb.net/album/118174"]
 
-[b46c7c4bf3096810ea8f2e27307185f8]
+[02cdc12bb743d0fa9e327fe108d5830e]
 catalognumber = "COZP-1904~5"
 date = "2022-04-27"
 album = "ちょっとそこまで昨日を迎えに / 藤川千愛 [初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 0],
+    [1, "夢なんかじゃ飯は喰えないと誰かのせいにして", "藤川千愛", 1],
     [2, "四畳半戦争", "藤川千愛", 0],
-    [3, "ゴミの日", "藤川千愛", 0],
+    [3, "ゴミの日", "藤川千愛", 1],
     [4, "バケモノと呼ばれて", "藤川千愛", 0],
     [5, "悔しさは種", "藤川千愛", 0],
-    [6, "片っぽのピアス", "藤川千愛", 0],
-    [7, "ライカ", "藤川千愛", 0],
-    [8, "きみの名前", "藤川千愛", 0],
-    [9, "あたしが隣にいるうちに", "藤川千愛", 0],
-    [10, "ゆずれない", "藤川千愛", 0],
-    [11, "そんなんばかりループ", "藤川千愛", 0],
-    [12, "手のひらの中で", "藤川千愛", 0],
+    [6, "片っぽのピアス", "藤川千愛", 1],
+    [7, "ライカ", "藤川千愛", 1],
+    [8, "きみの名前", "藤川千愛", 1],
+    [9, "あたしが隣にいるうちに", "藤川千愛", 1],
+    [10, "ゆずれない", "藤川千愛", 1],
+    [11, "そんなんばかりループ", "藤川千愛", 1],
+    [12, "手のひらの中で", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/20fc85f8-4350-4c39-aa88-c96680b63928", "https://vgmdb.net/album/118174"]
 
-[2d6615bd20a85f5165399e07920eca8b]
+[3ea4e827325fc0ed3f9dbace7f1179a9]
 catalognumber = "COZA-1906~7"
 date = "2022-05-18"
 album = "Bring Back / MADKID [Type-A] Vocal"
 tracks = [
-    [1, "Bring Back", "MADKID", 0],
-    [2, "Critical Point", "MADKID", 0],
-    [3, "RISE", "MADKID", 0],
-    [4, "FAITH", "MADKID", 0],
-    [5, "Bring Back (English ver.)", "MADKID", 0],
-    [6, "Bring Back (Instrumental)", "MADKID", 0],
-    [7, "Critical Point (Instrumental)", "MADKID", 0],
+    [1, "Bring Back", "MADKID", 1],
+    [2, "Critical Point", "MADKID", 1],
+    [3, "RISE", "MADKID", 1],
+    [4, "FAITH", "MADKID", 1],
+    [5, "Bring Back (English ver.)", "MADKID", 1],
+    [6, "Bring Back (Instrumental)", "MADKID", 1],
+    [7, "Critical Point (Instrumental)", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/79405bb1-a9b1-48f9-a3e8-0bb70bb8fdb3", "https://vgmdb.net/album/118171"]
 
-[812b817d9a1deead43ab9dce9692b87c]
+[83c04a958be6dc387e15db5bc63b5407]
 catalognumber = "COZA-1906~7"
 date = "2022-05-18"
 album = "Bring Back / MADKID [Type-A] Vocal, Live Event, Video"
 tracks = [
-    [1, "Bring Back Music Video", "MADKID", 0],
-    [2, "Bring Back Music Video Behind The Scenes", "MADKID", 0],
-    [3, "RISE (Live Video)", "MADKID", 0],
-    [4, "FAITH (Live Video)", "MADKID", 0],
+    [1, "Bring Back Music Video", "MADKID", 1],
+    [2, "Bring Back Music Video Behind The Scenes", "MADKID", 1],
+    [3, "RISE (Live Video)", "MADKID", 1],
+    [4, "FAITH (Live Video)", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/79405bb1-a9b1-48f9-a3e8-0bb70bb8fdb3", "https://vgmdb.net/album/118171"]
 
-[c09b4b62bb451d7949c83f44afe00174]
+[cb2b0a2e4a015d4bd8daa54fc3b5d23c]
 catalognumber = "COCA-18007"
 date = "2022-05-18"
 album = "Bring Back / MADKID [Type-B]"
 tracks = [
-    [1, "Bring Back", "MADKID", 0],
-    [2, "Critical Point", "MADKID", 0],
-    [3, "RISE", "MADKID", 0],
-    [4, "FAITH", "MADKID", 0],
-    [5, "Bring Back (English ver.)", "MADKID", 0],
-    [6, "Bring Back (Instrumental)", "MADKID", 0],
-    [7, "Critical Point (Instrumental)", "MADKID", 0],
+    [1, "Bring Back", "MADKID", 1],
+    [2, "Critical Point", "MADKID", 1],
+    [3, "RISE", "MADKID", 1],
+    [4, "FAITH", "MADKID", 1],
+    [5, "Bring Back (English ver.)", "MADKID", 1],
+    [6, "Bring Back (Instrumental)", "MADKID", 1],
+    [7, "Critical Point (Instrumental)", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/79405bb1-a9b1-48f9-a3e8-0bb70bb8fdb3", "https://vgmdb.net/album/118172"]
 
@@ -562,70 +562,70 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0b7a5ddd-4f44-46dc-9059-9c1afabf64ed", "https://vgmdb.net/album/118882"]
 
-[eac36ec9718d58403b71a92569ea5b84]
+[745b3db683457155885ee377a7c0e188]
 catalognumber = "COCX-41792~3"
 date = "2022-06-29"
 album = "盾の勇者の成り上がり Season 2 オリジナル・サウンドトラック \"Twilight\" Original Soundtrack"
 tracks = [
-    [1, "Return of the Shield Hero", "Kevin Penkin", 0],
-    [2, "The Ultimate Familiar", "Kevin Penkin", 0],
-    [3, "Drop of Hero's Awesome", "Kevin Penkin", 0],
-    [4, "A New Hope", "Kevin Penkin", 0],
-    [5, "Rishia Theme I", "Kevin Penkin", 0],
-    [6, "DropBeat", "Kevin Penkin", 0],
-    [7, "QUEEN vs REIKI", "Kevin Penkin", 0],
-    [8, "Ost Horai", "Kevin Penkin", 0],
-    [9, "Kyo Awakens", "Kevin Penkin", 0],
-    [10, "REIKI", "Kevin Penkin", 0],
-    [11, "A Night with Filorial", "Kevin Penkin", 0],
-    [12, "Rishia Theme II", "Kevin Penkin", 0],
-    [13, "Naofumi Returns", "Kevin Penkin", 0],
+    [1, "Return of the Shield Hero", "Kevin Penkin", 1],
+    [2, "The Ultimate Familiar", "Kevin Penkin", 1],
+    [3, "Drop of Hero's Awesome", "Kevin Penkin", 1],
+    [4, "A New Hope", "Kevin Penkin", 1],
+    [5, "Rishia Theme I", "Kevin Penkin", 1],
+    [6, "DropBeat", "Kevin Penkin", 1],
+    [7, "QUEEN vs REIKI", "Kevin Penkin", 1],
+    [8, "Ost Horai", "Kevin Penkin", 1],
+    [9, "Kyo Awakens", "Kevin Penkin", 1],
+    [10, "REIKI", "Kevin Penkin", 1],
+    [11, "A Night with Filorial", "Kevin Penkin", 1],
+    [12, "Rishia Theme II", "Kevin Penkin", 1],
+    [13, "Naofumi Returns", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/00879ed6-c5d7-4918-86f8-78fb4a1b5ae1", "https://vgmdb.net/album/119735"]
 
-[9f0da4ccb441195c3367b0b255d879b8]
+[7aae8acc7bba019766d19728d4eff8c2]
 catalognumber = "COCX-41792~3"
 date = "2022-06-29"
 album = "盾の勇者の成り上がり Season 2 オリジナル・サウンドトラック \"Twilight\" Original Soundtrack, Vocal"
 tracks = [
-    [1, "RAGE SHIELD RETURN", "Kevin Penkin", 0],
-    [2, "Glass Isekai", "Kevin Penkin", 0],
-    [3, "Town of Another World", "Kevin Penkin", 0],
-    [4, "BEAST of ONE", "Kevin Penkin", 0],
-    [5, "Chant of Hate", "Kevin Penkin", 0],
-    [6, "Missing. Best. Girl", "Kevin Penkin", 0],
-    [7, "Turtle Town", "Kevin Penkin", 0],
-    [8, "Battle of the Book Hero", "Kevin Penkin", 0],
-    [9, "Rishia Theme (III)", "Kevin Penkin", 0],
-    [10, "Power of Naofumi & Team", "Kevin Penkin", 0],
-    [11, "Gemini", "Kevin Penkin ft. Elspeth Bawden", 0],
+    [1, "RAGE SHIELD RETURN", "Kevin Penkin", 1],
+    [2, "Glass Isekai", "Kevin Penkin", 1],
+    [3, "Town of Another World", "Kevin Penkin", 1],
+    [4, "BEAST of ONE", "Kevin Penkin", 1],
+    [5, "Chant of Hate", "Kevin Penkin", 1],
+    [6, "Missing. Best. Girl", "Kevin Penkin", 1],
+    [7, "Turtle Town", "Kevin Penkin", 1],
+    [8, "Battle of the Book Hero", "Kevin Penkin", 1],
+    [9, "Rishia Theme (III)", "Kevin Penkin", 1],
+    [10, "Power of Naofumi & Team", "Kevin Penkin", 1],
+    [11, "Gemini", "Kevin Penkin ft. Elspeth Bawden", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/de4e7166-788f-44eb-8cd7-31ffb9c28a4a", "https://vgmdb.net/album/119735"]
 
-[1795464cbbf5526c8c3a340f709e9ff8]
+[a4f1f4a1d39fcdf2e1e70dada31790bc]
 catalognumber = "COJX-9454~5"
 date = "2022-08-03"
 album = "盾の勇者の成り上がり オリジナル・サウンドトラック Disc 1 [COJX-9454]"
 tracks = [
     [1, "The Rising of the Shield Hero", "", 0],
     [2, "Resonance of Church", "", 0],
-    [3, "Campbell 1-1", "", 0],
+    [3, "Campbell 1-1", "", 1],
     [4, "Moonlight", "", 0],
     [5, "Kansas", "", 0],
     [6, "Fermentation", "", 0],
-    [7, "Filo", "", 0],
+    [7, "Filo", "", 1],
     [8, "Raphtalia", "", 0],
     [9, "Sunshine with Shields", "", 0],
-    [10, "Catch Me", "", 0],
-    [11, "Apocalypse", "", 0],
+    [10, "Catch Me", "", 1],
+    [11, "Apocalypse", "", 1],
     [12, "Mirrors", "", 0],
     [13, "Autoroll", "", 0],
-    [14, "GAMESTART", "", 0],
+    [14, "GAMESTART", "", 1],
     [15, "Falling Through Starlight (ft.Amelia Jones)", "", 0],
 ]
 links = ["https://vgmdb.net/album/120439"]
 
-[f78ea87a65d923c298d85c101c2c2090]
+[6438583caad253917cdf40370694de71]
 catalognumber = "COJX-9454~5"
 date = "2022-08-03"
 album = "盾の勇者の成り上がり オリジナル・サウンドトラック Disc 2 [COJX-9455]"
@@ -633,26 +633,26 @@ tracks = [
     [1, "Imprint", "", 0],
     [2, "Preparations", "", 0],
     [3, "Glass", "", 0],
-    [4, "Combo", "", 0],
+    [4, "Combo", "", 1],
     [5, "Sentiment", "", 0],
     [6, "Symbiosis", "", 0],
-    [7, "En Annan Tid, Ett Annat Liv (ft.Maria Andersson)", "", 0],
+    [7, "En Annan Tid, Ett Annat Liv (ft.Maria Andersson)", "", 1],
     [8, "OhKami", "", 0],
     [9, "Three Heros Church", "", 0],
-    [10, "Gaelion", "", 0],
+    [10, "Gaelion", "", 1],
     [11, "Spirit Bomb", "", 0],
     [12, "Maths", "", 0],
     [13, "The Singularity", "", 0],
 ]
 links = ["https://vgmdb.net/album/120439"]
 
-[7902ac9ea9ec564b7bfdd35a7b65ce8b]
+[2c3849f035da7cf5c8a41d24ad7650fd]
 catalognumber = "COZP-1936~7"
 date = "2022-08-24"
 album = "BOUNDARY / MADKID [Type-A] Arrangement, Vocal"
 tracks = [
     [1, "Fight It Out", "MADKID", 0],
-    [2, "Critical Point", "MADKID", 0],
+    [2, "Critical Point", "MADKID", 1],
     [3, "グッバイ・ティーンエイジャー", "MADKID", 0],
     [4, "Gold Medal", "MADKID", 0],
     [5, "Interstella Luv", "MADKID", 0],
@@ -662,30 +662,30 @@ tracks = [
     [9, "Sign", "MADKID", 0],
     [10, "Play", "MADKID feat.Hylen", 0],
     [11, "REBOOT", "MADKID", 0],
-    [12, "Bring Back", "MADKID", 0],
+    [12, "Bring Back", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/37270771-2a6f-44f6-abc4-c8898507cc10", "https://vgmdb.net/album/120934"]
 
-[08f9c0d2f47052db6e5bb796f31f6d35]
+[004bec49671c8fd07075625cf397d324]
 catalognumber = "COZP-1936~7"
 date = "2022-08-24"
 album = "BOUNDARY / MADKID [Type-A] Vocal, Live Event, Video"
 tracks = [
     [1, "Fight It Out (Music Video)", "", 0],
     [2, "Music Video Behind The Scenes", "", 0],
-    [3, "RISE (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 0],
-    [4, "FAITH (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 0],
-    [5, "Bring Back (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 0],
+    [3, "RISE (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 1],
+    [4, "FAITH (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 1],
+    [5, "Bring Back (Live Video) (MADKID ONE MAN LIVE -Bring Back- SPECIAL SHORT LIVE-(2022.6.4開催))", "", 1],
 ]
 links = ["https://vgmdb.net/album/120934"]
 
-[36be6380ea4914f1790f9692ec3bc129]
+[0940faa34a949377cdae7e5e669e5e4c]
 catalognumber = "COCP-41819"
 date = "2022-08-24"
 album = "BOUNDARY / MADKID [Type-B]"
 tracks = [
     [1, "Fight It Out", "MADKID", 0],
-    [2, "Critical Point", "MADKID", 0],
+    [2, "Critical Point", "MADKID", 1],
     [3, "グッバイ・ティーンエイジャー", "MADKID", 0],
     [4, "Gold Medal", "MADKID", 0],
     [5, "Interstella Luv", "MADKID", 0],
@@ -695,7 +695,7 @@ tracks = [
     [9, "Sign", "MADKID", 0],
     [10, "Play", "MADKID feat.Hylen", 0],
     [11, "REBOOT", "MADKID", 0],
-    [12, "Bring Back", "MADKID", 0],
+    [12, "Bring Back", "MADKID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/37270771-2a6f-44f6-abc4-c8898507cc10", "https://vgmdb.net/album/120935"]
 
@@ -714,23 +714,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/117fc885-0a7a-4f2a-be1e-f04afa3a12f7", "https://vgmdb.net/album/128101"]
 
-[4649d9c27da66248bc22c8b2aed3c148]
+[417219613c2dd4ca288079939523fc62]
 catalognumber = "COZP-1982~3"
 date = "2023-04-12"
 album = "嬉しい声をほんのちょっと / 藤川千愛 [初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "夜もすがら君を想う", "藤川千愛", 0],
-    [2, "オレンジ", "藤川千愛", 0],
+    [1, "夜もすがら君を想う", "藤川千愛", 1],
+    [2, "オレンジ", "藤川千愛", 1],
     [3, "嗚呼嗚呼嗚呼", "藤川千愛", 0],
-    [4, "葛藤", "藤川千愛", 0],
+    [4, "葛藤", "藤川千愛", 1],
     [5, "ちゃんとした人不適合者", "藤川千愛", 0],
     [6, "引き寄せられて夢を見る", "藤川千愛", 0],
     [7, "Nightmare", "藤川千愛", 0],
     [8, "なにも忘れるわけじゃない", "藤川千愛", 0],
-    [9, "あたしが隣にいるうちに", "藤川千愛", 0],
+    [9, "あたしが隣にいるうちに", "藤川千愛", 1],
     [10, "君の匂いは鎮静剤", "藤川千愛", 0],
-    [11, "ゆびさきから", "藤川千愛", 0],
-    [12, "hane", "藤川千愛", 0],
+    [11, "ゆびさきから", "藤川千愛", 1],
+    [12, "hane", "藤川千愛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/117fc885-0a7a-4f2a-be1e-f04afa3a12f7", "https://vgmdb.net/album/128101"]
 
@@ -743,7 +743,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4fc07dd1-18a2-4618-8a78-a4f291864738", "https://vgmdb.net/album/132958"]
 
-[552ec28ad512bb89ef814c61c5aad555]
+[14c3aba8c9831d6617dd417a28afd9d1]
 catalognumber = "COZA-2036~7"
 date = "2023-10-11"
 album = "SIN / MADKID [Type-A] Vocal, Live Event"
@@ -751,7 +751,7 @@ tracks = [
     [1, "SIN", "", 0],
     [2, "SIN (English ver.)", "", 0],
     [3, "SIN (Instrumental)", "", 0],
-    [4, "Bring Back (5.20 LIVE ver.)", "", 0],
+    [4, "Bring Back (5.20 LIVE ver.)", "", 1],
     [5, "Last Climber (5.20 LIVE ver.)", "", 0],
     [6, "Fight It Out (5.20 LIVE ver.)", "", 0],
 ]
@@ -769,7 +769,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132436"]
 
-[a10c05e1f1c9284f94991f3adfbe508b]
+[0cb87e673cac15d3741b61fc9cfc163a]
 catalognumber = "COCA-18149"
 date = "2023-10-11"
 album = "SIN / MADKID [Type-B]"
@@ -777,7 +777,7 @@ tracks = [
     [1, "SIN", "MADKID", 0],
     [2, "SIN - English ver.", "MADKID", 0],
     [3, "SIN - Instrumental", "MADKID", 0],
-    [4, "Bring Back - 5.20 Live ver.", "MADKID", 0],
+    [4, "Bring Back - 5.20 Live ver.", "MADKID", 1],
     [5, "Last Climber - 5.20 Live ver.", "MADKID", 0],
     [6, "Fight It Out - 5.20 Live ver.", "MADKID", 0],
 ]
@@ -819,48 +819,48 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/774f7de4-b559-40bc-b57a-176eb8ff9c8f", "https://vgmdb.net/album/132962"]
 
-[d8665f6a2f4ef04fc865993b0cd5f2aa]
+[017030ea33b73ad97619418a84182114]
 catalognumber = "CEG-64~6"
 date = "2023-11-08"
 album = "内の臓が愚痴をこぼすもので / 藤川千愛 [初回限定CMS限定盤] Vocal, Live Event, Video"
 tracks = [
     [1, "愛の歌", "藤川千愛", 0],
-    [2, "覚醒前夜", "藤川千愛", 0],
-    [3, "ゴミの日", "藤川千愛", 0],
+    [2, "覚醒前夜", "藤川千愛", 1],
+    [3, "ゴミの日", "藤川千愛", 1],
     [4, "誰も知らない", "藤川千愛", 0],
     [5, "ブラックコーヒー", "藤川千愛", 0],
     [6, "リゲル", "藤川千愛", 0],
-    [7, "きみの名前", "藤川千愛", 0],
+    [7, "きみの名前", "藤川千愛", 1],
     [8, "バケモノと呼ばれて", "藤川千愛", 0],
     [9, "スローモーション", "藤川千愛", 0],
     [10, "普通じゃない世界を知らなかった僕ら", "藤川千愛", 0],
-    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
+    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
     [12, "四畳半戦争", "藤川千愛", 0],
     [13, "遥か彼方", "藤川千愛", 0],
-    [14, "オレンジ", "藤川千愛", 0],
+    [14, "オレンジ", "藤川千愛", 1],
     [15, "嗚呼嗚呼嗚呼", "藤川千愛", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/774f7de4-b559-40bc-b57a-176eb8ff9c8f", "https://vgmdb.net/album/132962"]
 
-[acbcae67264782d46721d1f1e5550737]
+[efdb732bf02a0cb84cab62bb871c16fa]
 catalognumber = "CEG-64~6"
 date = "2023-11-08"
 album = "内の臓が愚痴をこぼすもので / 藤川千愛 [初回限定CMS限定盤] Vocal, Live Event"
 tracks = [
     [1, "愛の歌", "藤川千愛", 0],
-    [2, "覚醒前夜", "藤川千愛", 0],
-    [3, "ゴミの日", "藤川千愛", 0],
+    [2, "覚醒前夜", "藤川千愛", 1],
+    [3, "ゴミの日", "藤川千愛", 1],
     [4, "誰も知らない", "藤川千愛", 0],
     [5, "ブラックコーヒー", "藤川千愛", 0],
     [6, "リゲル", "藤川千愛", 0],
-    [7, "きみの名前", "藤川千愛", 0],
+    [7, "きみの名前", "藤川千愛", 1],
     [8, "バケモノと呼ばれて", "藤川千愛", 0],
     [9, "スローモーション", "藤川千愛", 0],
     [10, "普通じゃない世界を知らなかった僕ら", "藤川千愛", 0],
-    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
+    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
     [12, "四畳半戦争", "藤川千愛", 0],
     [13, "遥か彼方", "藤川千愛", 0],
-    [14, "オレンジ", "藤川千愛", 0],
+    [14, "オレンジ", "藤川千愛", 1],
     [15, "嗚呼嗚呼嗚呼", "藤川千愛", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/774f7de4-b559-40bc-b57a-176eb8ff9c8f", "https://vgmdb.net/album/132962"]
@@ -883,25 +883,25 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5ca074cb-4a7b-4fe5-8016-0c3d45006f32", "https://vgmdb.net/album/132961"]
 
-[3830d3ea02bbded9be3502fc547ebd7f]
+[d55538dd450ef6e78a94fb8a73debfdc]
 catalognumber = "COZP-2046~7"
 date = "2023-11-08"
 album = "内の臓が愚痴をこぼすもので / 藤川千愛 [初回限定盤] Disc 2 (Blu-ray) [COZP-2047]"
 tracks = [
     [1, "愛の歌", "藤川千愛", 0],
-    [2, "覚醒前夜", "藤川千愛", 0],
-    [3, "ゴミの日", "藤川千愛", 0],
+    [2, "覚醒前夜", "藤川千愛", 1],
+    [3, "ゴミの日", "藤川千愛", 1],
     [4, "誰も知らない", "藤川千愛", 0],
     [5, "ブラックコーヒー", "藤川千愛", 0],
     [6, "リゲル", "藤川千愛", 0],
-    [7, "きみの名前", "藤川千愛", 0],
+    [7, "きみの名前", "藤川千愛", 1],
     [8, "バケモノと呼ばれて", "藤川千愛", 0],
     [9, "スローモーション", "藤川千愛", 0],
     [10, "普通じゃない世界を知らなかった僕ら", "藤川千愛", 0],
-    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 0],
+    [11, "勝手にひとりでドキドキすんなよ", "藤川千愛", 1],
     [12, "四畳半戦争", "藤川千愛", 0],
     [13, "遥か彼方", "藤川千愛", 0],
-    [14, "オレンジ", "藤川千愛", 0],
+    [14, "オレンジ", "藤川千愛", 1],
     [15, "嗚呼嗚呼嗚呼", "藤川千愛", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5ca074cb-4a7b-4fe5-8016-0c3d45006f32", "https://vgmdb.net/album/132961"]

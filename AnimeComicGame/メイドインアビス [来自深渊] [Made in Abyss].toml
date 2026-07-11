@@ -1,96 +1,96 @@
-[9d2fc9bbb28d17ddf13b02f34eb777f3]
+[60e9af154f32ed6caa23d10a46981117]
 catalognumber = "ZMCZ-11305"
 date = "2017-08-23"
 album = "Deep in Abyss / リコ (CV.富田美憂)、レグ (CV.伊瀬茉莉也)"
 tracks = [
-    [1, "Deep in Abyss", "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）", 0],
-    [2, "白笛の呼び声", "リコ（CV：富田美憂）", 0],
-    [3, "Deep in Abyss (instrumental)", "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）", 0],
-    [4, "白笛の呼び声 (instrumental)", "リコ（CV：富田美憂）", 0],
+    [1, "Deep in Abyss", "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）", 1],
+    [2, "白笛の呼び声", "リコ（CV：富田美憂）", 1],
+    [3, "Deep in Abyss (instrumental)", "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）", 1],
+    [4, "白笛の呼び声 (instrumental)", "リコ（CV：富田美憂）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2b21619-982c-48de-b1bc-5b17b3686ddd", "https://vgmdb.net/album/68822"]
 
-[a082ec22b5e7411026b0d9eabde54b16]
+[da7664e40839e01e0939dad7d70c0913]
 catalognumber = "ZMCZ-11306"
 date = "2017-08-23"
 album = "旅の左手、最果ての右手 / リコ (CV.富田美憂)、レグ (CV.伊瀬茉莉也)、ナナチ (CV.井澤詩織)"
 tracks = [
-    [1, "旅の左手、最果ての右手", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)", 0],
-    [2, "旅の左手、最果ての右手 (リコ＆レグ＆ナナチver.)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 0],
-    [3, "Secret in my heart", "レグ(CV:伊瀬茉莉也)", 0],
-    [4, "旅の左手、最果ての右手 (リコver.)", "リコ(CV:富田美憂)", 0],
-    [5, "旅の左手、最果ての右手 (レグver.)", "レグ(CV:伊瀬茉莉也)", 0],
-    [6, "旅の左手、最果ての右手 (ナナチver.)", "ナナチ(CV:井澤詩織)", 0],
-    [7, "旅の左手、最果ての右手 (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)", 0],
-    [8, "Secret in my heart (instrumental)", "レグ(CV:伊瀬茉莉也)", 0],
+    [1, "旅の左手、最果ての右手", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)", 1],
+    [2, "旅の左手、最果ての右手 (リコ＆レグ＆ナナチver.)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 1],
+    [3, "Secret in my heart", "レグ(CV:伊瀬茉莉也)", 1],
+    [4, "旅の左手、最果ての右手 (リコver.)", "リコ(CV:富田美憂)", 1],
+    [5, "旅の左手、最果ての右手 (レグver.)", "レグ(CV:伊瀬茉莉也)", 1],
+    [6, "旅の左手、最果ての右手 (ナナチver.)", "ナナチ(CV:井澤詩織)", 1],
+    [7, "旅の左手、最果ての右手 (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)", 1],
+    [8, "Secret in my heart (instrumental)", "レグ(CV:伊瀬茉莉也)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dbb80dcd-635d-4eee-bea2-7e6a53128b59", "https://vgmdb.net/album/68823"]
 
-[72257a0c18ab07aef175c0ef22036f0e]
+[1540ddb9abafff93d28d2c407513216f]
 catalognumber = "ZMCZ-11622"
 date = "2017-09-27"
 album = "TVアニメ「メイドインアビス」オリジナルサウンドトラック Disc 1 [ZMCZ-11622 (TGCS-10268)]"
 tracks = [
-    [1, "Made in Abyss", "Kevin Penkin", 0],
-    [2, "Roar of the Abyss", "Kevin Penkin", 0],
-    [3, "Beni-Kuchi-Nawa", "Kevin Penkin", 0],
-    [4, "Days in the Sun", "Kevin Penkin", 0],
-    [5, "Rafters", "Kevin Penkin", 0],
-    [6, "Treehouse", "Kevin Penkin", 0],
-    [7, "New World", "Kevin Penkin", 0],
-    [8, "To the Abyss!", "Kevin Penkin", 0],
-    [9, "Underground River (opening version)", "Kevin Penkin ft. Raj Ramayya", 0],
-    [10, "Maul", "Kevin Penkin", 0],
-    [11, "Walking the Streets", "Kevin Penkin", 0],
-    [12, "Remembering Home", "Kevin Penkin", 0],
-    [13, "Those Everyday Feels", "Kevin Penkin", 0],
-    [14, "2 Months", "Kevin Penkin", 0],
-    [15, "Reg Wakes", "Kevin Penkin", 0],
-    [16, "Theme of Reg", "Kevin Penkin", 0],
-    [17, "Gallantry and Recapitulation", "Kevin Penkin", 0],
-    [18, "Riko's Theme", "Kevin Penkin", 0],
-    [19, "Swings and Roundabouts", "Kevin Penkin", 0],
-    [20, "Tasukete", "Kevin Penkin", 0],
-    [21, "Air", "Kevin Penkin", 0],
-    [22, "Welcome to my World", "Kevin Penkin", 0],
-    [23, "Hanezeve Caradhina", "Kevin Penkin ft. Takeshi Saito", 0],
-    [24, "Depths of the Abyss", "Kevin Penkin", 0],
-    [25, "Forest of the Abyss", "Kevin Penkin", 0],
+    [1, "Made in Abyss", "Kevin Penkin", 1],
+    [2, "Roar of the Abyss", "Kevin Penkin", 1],
+    [3, "Beni-Kuchi-Nawa", "Kevin Penkin", 1],
+    [4, "Days in the Sun", "Kevin Penkin", 1],
+    [5, "Rafters", "Kevin Penkin", 1],
+    [6, "Treehouse", "Kevin Penkin", 1],
+    [7, "New World", "Kevin Penkin", 1],
+    [8, "To the Abyss!", "Kevin Penkin", 1],
+    [9, "Underground River (opening version)", "Kevin Penkin ft. Raj Ramayya", 1],
+    [10, "Maul", "Kevin Penkin", 1],
+    [11, "Walking the Streets", "Kevin Penkin", 1],
+    [12, "Remembering Home", "Kevin Penkin", 1],
+    [13, "Those Everyday Feels", "Kevin Penkin", 1],
+    [14, "2 Months", "Kevin Penkin", 1],
+    [15, "Reg Wakes", "Kevin Penkin", 1],
+    [16, "Theme of Reg", "Kevin Penkin", 1],
+    [17, "Gallantry and Recapitulation", "Kevin Penkin", 1],
+    [18, "Riko's Theme", "Kevin Penkin", 1],
+    [19, "Swings and Roundabouts", "Kevin Penkin", 1],
+    [20, "Tasukete", "Kevin Penkin", 1],
+    [21, "Air", "Kevin Penkin", 1],
+    [22, "Welcome to my World", "Kevin Penkin", 1],
+    [23, "Hanezeve Caradhina", "Kevin Penkin ft. Takeshi Saito", 1],
+    [24, "Depths of the Abyss", "Kevin Penkin", 1],
+    [25, "Forest of the Abyss", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3865e5c8-cf08-4b17-8568-c74221851d90", "https://vgmdb.net/album/69504"]
 
-[e31ecd76c0e9d32856715deedfd69d02]
+[82795b5c304deb9906a338f337ca62d1]
 catalognumber = "ZMCZ-11622"
 date = "2017-09-27"
 album = "TVアニメ「メイドインアビス」オリジナルサウンドトラック Disc 2 [ZMCZ-11622 (TGCS-10269)]"
 tracks = [
-    [1, "Butterfly Atmospheres", "Kevin Penkin", 0],
-    [2, "The First Layer", "Kevin Penkin", 0],
-    [3, "Abyss of the Sea", "Kevin Penkin", 0],
-    [4, "Orth Waltz", "Kevin Penkin", 0],
-    [5, "Jungle Run", "Kevin Penkin", 0],
-    [6, "Crucifixion", "Kevin Penkin", 0],
-    [7, "Serphent Call", "Kevin Penkin", 0],
-    [8, "Outside", "Kevin Penkin", 0],
-    [9, "Forces Beyond Control", "Kevin Penkin", 0],
-    [10, "Nanachi in the Dark", "Kevin Penkin", 0],
-    [11, "Underground River", "Kevin Penkin ft. Raj Ramayya", 0],
-    [12, "Walking the Tightrope", "Kevin Penkin", 0],
-    [13, "Relinquish", "Kevin Penkin", 0],
-    [14, "Tour the Abyss", "Kevin Penkin", 0],
-    [15, "Adventure Through the Light", "Kevin Penkin", 0],
-    [16, "Classroom", "Kevin Penkin", 0],
-    [17, "Reg's Power", "Kevin Penkin", 0],
-    [18, "In the Blind", "Kevin Penkin", 0],
-    [19, "The Pit", "Kevin Penkin", 0],
-    [20, "Discover the Abyss", "Kevin Penkin", 0],
-    [21, "Vista", "Kevin Penkin", 0],
-    [22, "Mirage", "Kevin Penkin", 0],
-    [23, "Indoor Voices", "Kevin Penkin", 0],
-    [24, "Nanachi in the Light", "Kevin Penkin", 0],
-    [25, "Saber-tooth", "Kevin Penkin", 0],
-    [26, "Pathway", "Kevin Penkin", 0],
-    [27, "Tomorrow", "Kevin Penkin", 0],
+    [1, "Butterfly Atmospheres", "Kevin Penkin", 1],
+    [2, "The First Layer", "Kevin Penkin", 1],
+    [3, "Abyss of the Sea", "Kevin Penkin", 1],
+    [4, "Orth Waltz", "Kevin Penkin", 1],
+    [5, "Jungle Run", "Kevin Penkin", 1],
+    [6, "Crucifixion", "Kevin Penkin", 1],
+    [7, "Serphent Call", "Kevin Penkin", 1],
+    [8, "Outside", "Kevin Penkin", 1],
+    [9, "Forces Beyond Control", "Kevin Penkin", 1],
+    [10, "Nanachi in the Dark", "Kevin Penkin", 1],
+    [11, "Underground River", "Kevin Penkin ft. Raj Ramayya", 1],
+    [12, "Walking the Tightrope", "Kevin Penkin", 1],
+    [13, "Relinquish", "Kevin Penkin", 1],
+    [14, "Tour the Abyss", "Kevin Penkin", 1],
+    [15, "Adventure Through the Light", "Kevin Penkin", 1],
+    [16, "Classroom", "Kevin Penkin", 1],
+    [17, "Reg's Power", "Kevin Penkin", 1],
+    [18, "In the Blind", "Kevin Penkin", 1],
+    [19, "The Pit", "Kevin Penkin", 1],
+    [20, "Discover the Abyss", "Kevin Penkin", 1],
+    [21, "Vista", "Kevin Penkin", 1],
+    [22, "Mirage", "Kevin Penkin", 1],
+    [23, "Indoor Voices", "Kevin Penkin", 1],
+    [24, "Nanachi in the Light", "Kevin Penkin", 1],
+    [25, "Saber-tooth", "Kevin Penkin", 1],
+    [26, "Pathway", "Kevin Penkin", 1],
+    [27, "Tomorrow", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3865e5c8-cf08-4b17-8568-c74221851d90", "https://vgmdb.net/album/69504"]
 
@@ -189,138 +189,138 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78e387cb-dcd2-4212-8bb3-dbd0066e0a29", "https://vgmdb.net/album/113557"]
 
-[ca0473e29b3dca24edced28e9a40a8d9]
+[0ab8151e71566a4f721ede87cae2210f]
 catalognumber = "ZMCZ-13753"
 date = "2020-01-17"
 album = "劇場版「メイドインアビス 深き魂の黎明」オリジナルサウンドトラック Disc 1 [ZMCZ-13753 (TGCS-11470)]"
 tracks = [
-    [1, "Echos", "Kevin Penkin", 0],
-    [2, "Faith", "Kevin Penkin", 0],
-    [3, "reBirth", "Kevin Penkin ft. Takeshi Saito", 0],
-    [4, "Field of Eternal Fortunes", "Kevin Penkin", 0],
-    [5, "Encounter the Umbra Hands", "Kevin Penkin", 0],
-    [6, "Prayer and Immolation", "Kevin Penkin", 0],
-    [7, "The Return of Made in Abyss", "Kevin Penkin", 0],
-    [8, "Riko's Cooking", "Kevin Penkin", 0],
-    [9, "The Fourth Layer", "Kevin Penkin", 0],
-    [10, "The Girl with Curly Green Hair", "Kevin Penkin", 0],
-    [11, "Papa's Lullaby", "Kevin Penkin", 0],
-    [12, "The Former Child of Ido Front", "Kevin Penkin", 0],
-    [13, "Stairway to the Fifth", "Kevin Penkin", 0],
-    [14, "Narehate and the Machine", "Kevin Penkin", 0],
-    [15, "The Intimate Chair", "Kevin Penkin", 0],
-    [16, "Quartet for Broken Arms", "Kevin Penkin", 0],
-    [17, "reBirth; Arranged", "Kevin Penkin", 0],
-    [18, "Stingerhead Nest", "Kevin Penkin", 0],
-    [19, "Ambience from a Sea of Corpses", "Kevin Penkin", 0],
-    [20, "Water Sanctum", "Kevin Penkin", 0],
-    [21, "Transcendance and Hanezeve", "Kevin Penkin", 0],
+    [1, "Echos", "Kevin Penkin", 1],
+    [2, "Faith", "Kevin Penkin", 1],
+    [3, "reBirth", "Kevin Penkin ft. Takeshi Saito", 1],
+    [4, "Field of Eternal Fortunes", "Kevin Penkin", 1],
+    [5, "Encounter the Umbra Hands", "Kevin Penkin", 1],
+    [6, "Prayer and Immolation", "Kevin Penkin", 1],
+    [7, "The Return of Made in Abyss", "Kevin Penkin", 1],
+    [8, "Riko's Cooking", "Kevin Penkin", 1],
+    [9, "The Fourth Layer", "Kevin Penkin", 1],
+    [10, "The Girl with Curly Green Hair", "Kevin Penkin", 1],
+    [11, "Papa's Lullaby", "Kevin Penkin", 1],
+    [12, "The Former Child of Ido Front", "Kevin Penkin", 1],
+    [13, "Stairway to the Fifth", "Kevin Penkin", 1],
+    [14, "Narehate and the Machine", "Kevin Penkin", 1],
+    [15, "The Intimate Chair", "Kevin Penkin", 1],
+    [16, "Quartet for Broken Arms", "Kevin Penkin", 1],
+    [17, "reBirth; Arranged", "Kevin Penkin", 1],
+    [18, "Stingerhead Nest", "Kevin Penkin", 1],
+    [19, "Ambience from a Sea of Corpses", "Kevin Penkin", 1],
+    [20, "Water Sanctum", "Kevin Penkin", 1],
+    [21, "Transcendance and Hanezeve", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4881518d-ee1f-4bf3-be05-46ec20d8630a", "https://vgmdb.net/album/92488"]
 
-[9f8425b86de5efe955059d23833bba88]
+[445e63d4a7e7079f3eb97339102e860b]
 catalognumber = "ZMCZ-13753"
 date = "2020-01-17"
 album = "劇場版「メイドインアビス 深き魂の黎明」オリジナルサウンドトラック Disc 2 [ZMCZ-13753 (TGCS-11471)]"
 tracks = [
-    [1, "Stonefish", "Kevin Penkin", 0],
-    [2, "Post-op Meinya", "Kevin Penkin", 0],
-    [3, "Dark Reg, Nightmare Fuel", "Kevin Penkin", 0],
-    [4, "The Rumble of Scientific Triumph", "Kevin Penkin", 0],
-    [5, "Prushka Sequence", "Kevin Penkin", 0],
-    [6, "Tozo Hanoline", "Kevin Penkin ft. Úyanga Bold", 0],
-    [7, "You talk too much", "Kevin Penkin", 0],
-    [8, "Cartridge Tears, become the White Whistle.", "Kevin Penkin", 0],
-    [9, "Finale", "Kevin Penkin", 0],
+    [1, "Stonefish", "Kevin Penkin", 1],
+    [2, "Post-op Meinya", "Kevin Penkin", 1],
+    [3, "Dark Reg, Nightmare Fuel", "Kevin Penkin", 1],
+    [4, "The Rumble of Scientific Triumph", "Kevin Penkin", 1],
+    [5, "Prushka Sequence", "Kevin Penkin", 1],
+    [6, "Tozo Hanoline", "Kevin Penkin ft. Úyanga Bold", 1],
+    [7, "You talk too much", "Kevin Penkin", 1],
+    [8, "Cartridge Tears, become the White Whistle.", "Kevin Penkin", 1],
+    [9, "Finale", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4881518d-ee1f-4bf3-be05-46ec20d8630a", "https://vgmdb.net/album/92488"]
 
-[ccca6cc82283bdcc650ef8922c72d64d]
+[20b1241dc73345b1a418be3703aa0123]
 catalognumber = "ZMCZ-13781"
 date = "2020-01-17"
 album = "ミニアニメ「マルルクちゃんの日常」オリジナルサウンドトラック"
 tracks = [
-    [1, "Maruruk's Everyday", "ニウナオミ", 0],
-    [2, "起きてください お師さま...", "ニウナオミ", 0],
-    [3, "そうだ!", "ニウナオミ", 0],
-    [4, "お師さま、失礼します!", "ニウナオミ", 0],
-    [5, "動いて!", "ニウナオミ", 0],
-    [6, "ふああぁぁ...", "ニウナオミ", 0],
-    [7, "トコシエコウ～不安", "ニウナオミ", 0],
-    [8, "心配するな", "ニウナオミ", 0],
-    [9, "あぶねぇっ", "ニウナオミ", 0],
-    [10, "いい匂い...", "ニウナオミ", 0],
-    [11, "またなっ!!", "ニウナオミ", 0],
-    [12, "わかりました!お師さま!", "ニウナオミ", 0],
-    [13, "お掃除その1", "ニウナオミ", 0],
-    [14, "お掃除その1つづき", "ニウナオミ", 0],
-    [15, "お掃除その2", "ニウナオミ", 0],
-    [16, "お掃除その3", "ニウナオミ", 0],
-    [17, "想い出", "ニウナオミ", 0],
-    [18, "絶望～希望", "ニウナオミ", 0],
-    [19, "怖くて...暖かい夢", "ニウナオミ", 0],
-    [20, "アイキャッチ", "ニウナオミ", 0],
+    [1, "Maruruk's Everyday", "ニウナオミ", 1],
+    [2, "起きてください お師さま...", "ニウナオミ", 1],
+    [3, "そうだ!", "ニウナオミ", 1],
+    [4, "お師さま、失礼します!", "ニウナオミ", 1],
+    [5, "動いて!", "ニウナオミ", 1],
+    [6, "ふああぁぁ...", "ニウナオミ", 1],
+    [7, "トコシエコウ～不安", "ニウナオミ", 1],
+    [8, "心配するな", "ニウナオミ", 1],
+    [9, "あぶねぇっ", "ニウナオミ", 1],
+    [10, "いい匂い...", "ニウナオミ", 1],
+    [11, "またなっ!!", "ニウナオミ", 1],
+    [12, "わかりました!お師さま!", "ニウナオミ", 1],
+    [13, "お掃除その1", "ニウナオミ", 1],
+    [14, "お掃除その1つづき", "ニウナオミ", 1],
+    [15, "お掃除その2", "ニウナオミ", 1],
+    [16, "お掃除その3", "ニウナオミ", 1],
+    [17, "想い出", "ニウナオミ", 1],
+    [18, "絶望～希望", "ニウナオミ", 1],
+    [19, "怖くて...暖かい夢", "ニウナオミ", 1],
+    [20, "アイキャッチ", "ニウナオミ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cf5fd42c-df31-488d-a4c1-ce0e37e2726b"]
 
-[ebe11c1cafef938cc4228c44350c5022]
+[1acd67c256f1dff4dbf939a4545189f8]
 catalognumber = "ZMCZ-13932"
 date = "2020-03-04"
 album = "MUSEUM / MYTH & ROID"
 tracks = [
-    [1, "L.L.L.", "MYTH & ROID", 0],
-    [2, "ANGER/ANGER", "MYTH & ROID", 0],
-    [3, "STYX HELIX", "MYTH & ROID", 0],
-    [4, "STRAIGHT BET", "MYTH & ROID", 0],
-    [5, "Paradisus-Paradoxum", "MYTH & ROID", 0],
-    [6, "theater D", "MYTH & ROID", 0],
-    [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", 0],
-    [8, "JINGO JUNGLE", "MYTH & ROID", 0],
-    [9, "Remembrance", "MYTH & ROID", 0],
-    [10, "HYDRA", "MYTH & ROID", 0],
-    [11, "VORACITY", "MYTH & ROID", 0],
-    [12, "shadowgraph", "MYTH & ROID", 0],
-    [13, "PANTA RHEI", "MYTH & ROID", 0],
-    [14, "TIT FOR TAT", "MYTH & ROID", 0],
-    [15, "Forever Lost", "MYTH & ROID", 0],
-    [16, "Cracked Black", "MYTH & ROID", 0],
+    [1, "L.L.L.", "MYTH & ROID", 1],
+    [2, "ANGER/ANGER", "MYTH & ROID", 1],
+    [3, "STYX HELIX", "MYTH & ROID", 1],
+    [4, "STRAIGHT BET", "MYTH & ROID", 1],
+    [5, "Paradisus-Paradoxum", "MYTH & ROID", 1],
+    [6, "theater D", "MYTH & ROID", 1],
+    [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", 1],
+    [8, "JINGO JUNGLE", "MYTH & ROID", 1],
+    [9, "Remembrance", "MYTH & ROID", 1],
+    [10, "HYDRA", "MYTH & ROID", 1],
+    [11, "VORACITY", "MYTH & ROID", 1],
+    [12, "shadowgraph", "MYTH & ROID", 1],
+    [13, "PANTA RHEI", "MYTH & ROID", 1],
+    [14, "TIT FOR TAT", "MYTH & ROID", 1],
+    [15, "Forever Lost", "MYTH & ROID", 1],
+    [16, "Cracked Black", "MYTH & ROID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7a00c352-0f8c-4f49-9262-97e4daed7649", "https://vgmdb.net/album/93527"]
 
-[07ecf4e65745cdaed4b8d90f916b4dd8]
+[4e6c6b2f6ba7767298bc74b0e4717408]
 catalognumber = "ZMCZ-13931"
 date = "2020-03-04"
 album = "MUSEUM / MYTH & ROID [Limited Edition] Disc 1 (CD)"
 tracks = [
-    [1, "L.L.L.", "MYTH & ROID", 0],
-    [2, "ANGER/ANGER", "MYTH & ROID", 0],
-    [3, "STYX HELIX", "MYTH & ROID", 0],
-    [4, "STRAIGHT BET", "MYTH & ROID", 0],
-    [5, "Paradisus-Paradoxum", "MYTH & ROID", 0],
-    [6, "theater D", "MYTH & ROID", 0],
-    [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", 0],
-    [8, "JINGO JUNGLE", "MYTH & ROID", 0],
-    [9, "Remembrance", "MYTH & ROID", 0],
-    [10, "HYDRA", "MYTH & ROID", 0],
-    [11, "VORACITY", "MYTH & ROID", 0],
-    [12, "shadowgraph", "MYTH & ROID", 0],
-    [13, "PANTA RHEI", "MYTH & ROID", 0],
-    [14, "TIT FOR TAT", "MYTH & ROID", 0],
-    [15, "Forever Lost", "MYTH & ROID", 0],
-    [16, "Cracked Black", "MYTH & ROID", 0],
+    [1, "L.L.L.", "MYTH & ROID", 1],
+    [2, "ANGER/ANGER", "MYTH & ROID", 1],
+    [3, "STYX HELIX", "MYTH & ROID", 1],
+    [4, "STRAIGHT BET", "MYTH & ROID", 1],
+    [5, "Paradisus-Paradoxum", "MYTH & ROID", 1],
+    [6, "theater D", "MYTH & ROID", 1],
+    [7, "Crazy Scary Holy Fantasy", "MYTH & ROID", 1],
+    [8, "JINGO JUNGLE", "MYTH & ROID", 1],
+    [9, "Remembrance", "MYTH & ROID", 1],
+    [10, "HYDRA", "MYTH & ROID", 1],
+    [11, "VORACITY", "MYTH & ROID", 1],
+    [12, "shadowgraph", "MYTH & ROID", 1],
+    [13, "PANTA RHEI", "MYTH & ROID", 1],
+    [14, "TIT FOR TAT", "MYTH & ROID", 1],
+    [15, "Forever Lost", "MYTH & ROID", 1],
+    [16, "Cracked Black", "MYTH & ROID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/733c415e-4ed7-459a-998a-d3c8fb5d3ace", "https://vgmdb.net/album/93526"]
 
-[bcf365b05786436131812b58f35fd781]
+[3eaf3f6a9aa6f697521a974a5cc043ae]
 catalognumber = "ZMCZ-13931"
 date = "2020-03-04"
 album = "MUSEUM / MYTH & ROID [Limited Edition] Disc 2 (Blu-ray)"
 tracks = [
-    [1, "HYDRA (Music Video)", "MYTH & ROID", 0],
-    [2, "VORACITY (Music Video)", "MYTH & ROID", 0],
-    [3, "shadowgraph (Music Video)", "MYTH & ROID", 0],
-    [4, "PANTA RHEI (Music Video)", "MYTH & ROID", 0],
-    [5, "TIT FOR TAT (Music Video)", "MYTH & ROID", 0],
+    [1, "HYDRA (Music Video)", "MYTH & ROID", 1],
+    [2, "VORACITY (Music Video)", "MYTH & ROID", 1],
+    [3, "shadowgraph (Music Video)", "MYTH & ROID", 1],
+    [4, "PANTA RHEI (Music Video)", "MYTH & ROID", 1],
+    [5, "TIT FOR TAT (Music Video)", "MYTH & ROID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/733c415e-4ed7-459a-998a-d3c8fb5d3ace", "https://vgmdb.net/album/93526"]
 
@@ -371,27 +371,27 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100545"]
 
-[5381a8cacd1c3a75a146e602211ba079]
+[a185a7f5a801e931767ee927ffbff50c]
 catalognumber = "ZMCZ-15771"
 date = "2022-08-24"
 album = "かたち / 安月名莉子"
 tracks = [
-    [1, "かたち", "安月名莉子", 0],
-    [2, "灯火", "安月名莉子", 0],
-    [3, "かたち (instrumental)", "安月名莉子", 0],
-    [4, "灯火 (instrumental)", "安月名莉子", 0],
+    [1, "かたち", "安月名莉子", 1],
+    [2, "灯火", "安月名莉子", 1],
+    [3, "かたち (instrumental)", "安月名莉子", 1],
+    [4, "灯火 (instrumental)", "安月名莉子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad8a658b-b6aa-4488-9383-1aee29bc6a74", "https://vgmdb.net/album/120103"]
 
-[7226a7456b2839c5b84b4458280570f5]
+[f18eb1c171ab8cef786045f0c70ffc33]
 catalognumber = "ZMCZ-15772"
 date = "2022-08-24"
 album = "Endless Embrace / MYTH & ROID"
 tracks = [
-    [1, "Endless Embrace", "MYTH & ROID", 0],
-    [2, "Clattanoia(penumbral)", "MYTH & ROID", 0],
-    [3, "Endless Embrace (instrumental)", "MYTH & ROID", 0],
-    [4, "Clattanoia(penumbral) (instrumental)", "MYTH & ROID", 0],
+    [1, "Endless Embrace", "MYTH & ROID", 1],
+    [2, "Clattanoia(penumbral)", "MYTH & ROID", 1],
+    [3, "Endless Embrace (instrumental)", "MYTH & ROID", 1],
+    [4, "Clattanoia(penumbral) (instrumental)", "MYTH & ROID", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1ec3ad7b-5cfb-4b82-9fe5-5e456fd27691", "https://vgmdb.net/album/120104"]
 
@@ -435,70 +435,70 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117874"]
 
-[dc3b52b82683d27840bf773f26eca0e3]
+[130842a8b18b067de5b87610b5ca8e41]
 catalognumber = "ZMCZ-16051"
 date = "2022-10-26"
 album = "TVアニメ「メイドインアビス 烈日の黄金郷」オリジナルサウンドトラック Disc 1"
 tracks = [
-    [1, "Tomorrowland", "Kevin Penkin", 0],
-    [2, "Old Stories", "Kevin Penkin", 0],
-    [3, "Mallets of Abyss", "Kevin Penkin", 0],
-    [4, "Sëgûr", "Kevin Penkin", 0],
-    [5, "DANCE : nArEhAtE", "Kevin Penkin", 0],
-    [6, "Ryūsazai", "Kevin Penkin", 0],
-    [7, "Eyes of Irumyuui", "Kevin Penkin", 0],
-    [8, "The Golden City", "Kevin Penkin", 0],
-    [9, "Mori", "Kevin Penkin", 0],
-    [10, "Princess & the Village", "Kevin Penkin", 0],
-    [11, "Ouni", "Kevin Penkin", 0],
-    [12, "I. AM. BURNING. MAN", "Kevin Penkin", 0],
-    [13, "Tori x Onkyō", "Kevin Penkin", 0],
-    [14, "Vueko", "Kevin Penkin", 0],
-    [15, "Gravity", "Kevin Penkin ft. Arnór Dan", 0],
+    [1, "Tomorrowland", "Kevin Penkin", 1],
+    [2, "Old Stories", "Kevin Penkin", 1],
+    [3, "Mallets of Abyss", "Kevin Penkin", 1],
+    [4, "Sëgûr", "Kevin Penkin", 1],
+    [5, "DANCE : nArEhAtE", "Kevin Penkin", 1],
+    [6, "Ryūsazai", "Kevin Penkin", 1],
+    [7, "Eyes of Irumyuui", "Kevin Penkin", 1],
+    [8, "The Golden City", "Kevin Penkin", 1],
+    [9, "Mori", "Kevin Penkin", 1],
+    [10, "Princess & the Village", "Kevin Penkin", 1],
+    [11, "Ouni", "Kevin Penkin", 1],
+    [12, "I. AM. BURNING. MAN", "Kevin Penkin", 1],
+    [13, "Tori x Onkyō", "Kevin Penkin", 1],
+    [14, "Vueko", "Kevin Penkin", 1],
+    [15, "Gravity", "Kevin Penkin ft. Arnór Dan", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/22ee7586-9c18-482c-9889-dd8f65903c8d", "https://vgmdb.net/album/122103"]
 
-[66b85a53cd2ce7a173d0017f8535eb36]
+[6481e575a80f210c55f1008a8e2fa77e]
 catalognumber = "ZMCZ-16051"
 date = "2022-10-26"
 album = "TVアニメ「メイドインアビス 烈日の黄金郷」オリジナルサウンドトラック Disc 2"
 tracks = [
-    [1, "Reg & his Interference Unit", "Kevin Penkin", 0],
-    [2, "Carnival! Praise to Princess", "Kevin Penkin", 0],
-    [3, "Juroimoh Mutation", "Kevin Penkin", 0],
-    [4, "BIRD_(n); CAGE. for Strings, Organs & Winds", "Kevin Penkin", 0],
-    [5, "Radio Requiem", "Kevin Penkin", 0],
-    [6, "Faputa", "Kevin Penkin", 0],
-    [7, "The Village", "Kevin Penkin", 0],
-    [8, "Drums of Ganja-Tai", "Kevin Penkin", 0],
-    [9, "Market of IRUburu", "Kevin Penkin", 0],
-    [10, "SAN-KEN「The Three SAGES」", "Kevin Penkin", 0],
-    [11, "Nature Sequence. 6th Layer.", "Kevin Penkin", 0],
-    [12, "vs. Organic Machine", "Kevin Penkin", 0],
-    [13, "Capital of the Unreturned", "Kevin Penkin", 0],
-    [14, "ベラフの子守歌", "Kevin Penkin", 0],
-    [15, "Ningyō x 龍", "Kevin Penkin", 0],
-    [16, "Counterpoint of Abyss", "Kevin Penkin", 0],
-    [17, "VOH", "Kevin Penkin ft. Takeshi Saito", 0],
+    [1, "Reg & his Interference Unit", "Kevin Penkin", 1],
+    [2, "Carnival! Praise to Princess", "Kevin Penkin", 1],
+    [3, "Juroimoh Mutation", "Kevin Penkin", 1],
+    [4, "BIRD_(n); CAGE. for Strings, Organs & Winds", "Kevin Penkin", 1],
+    [5, "Radio Requiem", "Kevin Penkin", 1],
+    [6, "Faputa", "Kevin Penkin", 1],
+    [7, "The Village", "Kevin Penkin", 1],
+    [8, "Drums of Ganja-Tai", "Kevin Penkin", 1],
+    [9, "Market of IRUburu", "Kevin Penkin", 1],
+    [10, "SAN-KEN「The Three SAGES」", "Kevin Penkin", 1],
+    [11, "Nature Sequence. 6th Layer.", "Kevin Penkin", 1],
+    [12, "vs. Organic Machine", "Kevin Penkin", 1],
+    [13, "Capital of the Unreturned", "Kevin Penkin", 1],
+    [14, "ベラフの子守歌", "Kevin Penkin", 1],
+    [15, "Ningyō x 龍", "Kevin Penkin", 1],
+    [16, "Counterpoint of Abyss", "Kevin Penkin", 1],
+    [17, "VOH", "Kevin Penkin ft. Takeshi Saito", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/22ee7586-9c18-482c-9889-dd8f65903c8d", "https://vgmdb.net/album/122103"]
 
-[80df72a0881436c21222fac69ccf09ef]
+[f6e687e31ba0a290a6249639e89dcf6a]
 catalognumber = "ZMCZ-16321"
 date = "2022-12-21"
 album = "TVアニメ「メイドインアビス」キャラクターソング&「パパといっしょ」オリジナルサウンドトラックCD"
 tracks = [
-    [1, "憧れに捧ぐ花", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 0],
-    [2, "極上! 最高! レッツクッキング!", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 0],
-    [3, "プルシュカしーくえんす", "犬養奏", 0],
-    [4, "おやすみパパ", "プルシュカ(CV:水瀬いのり)", 0],
-    [5, "憧れに捧ぐ花 (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 0],
-    [6, "極上! 最高! レッツクッキング! (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 0],
-    [7, "おやすみパパ (instrumental)", "プルシュカ(CV:水瀬いのり)", 0],
+    [1, "憧れに捧ぐ花", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 1],
+    [2, "極上! 最高! レッツクッキング!", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 1],
+    [3, "プルシュカしーくえんす", "犬養奏", 1],
+    [4, "おやすみパパ", "プルシュカ(CV:水瀬いのり)", 1],
+    [5, "憧れに捧ぐ花 (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 1],
+    [6, "極上! 最高! レッツクッキング! (instrumental)", "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)、ナナチ(CV:井澤詩織)", 1],
+    [7, "おやすみパパ (instrumental)", "プルシュカ(CV:水瀬いのり)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0ab8e0e0-5e2f-4001-8998-da0c7af94df0", "https://vgmdb.net/album/122761"]
 
-[a0a3bba4e2c667b77741d2d97253c065]
+[5301c3f6fa9c1960a73df692bedcab57]
 catalognumber = "ZMCZ-16541"
 date = "2023-03-29"
 album = "BLUE MOON / 安月名莉子"
@@ -513,7 +513,7 @@ tracks = [
     [8, "Chance! & Revenge!", "安月名莉子", 0],
     [9, "知らなきゃ", "安月名莉子", 0],
     [10, "selfish", "安月名莉子", 0],
-    [11, "かたち", "安月名莉子", 0],
+    [11, "かたち", "安月名莉子", 1],
     [12, "BLUE CYALUME", "安月名莉子", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f648f806-44b1-426c-83f5-039895f2d950", "https://vgmdb.net/album/126385"]
@@ -545,7 +545,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/158854"]
 
-[ac1596db51afc185fb01b0a3d76f620d]
+[e6a0cf9361240aeace7e4f39185c68b3]
 catalognumber = "N/A"
 date = "2026-08"
 album = "「メイドインアビス フィルムコンサート 深奏の響命」LIVE RECORDING CD Disc 2"
@@ -558,7 +558,7 @@ tracks = [
     [6, "Counterpoint of Abyss", "", 0],
     [7, "Gravity ft.J’Nique Nicole", "", 0],
     [8, "FOREVER LOST ft.KIHOW(MYTH & ROID)", "", 0],
-    [9, "Endless Embrace ft.KIHOW(MYTH & ROID)", "", 0],
+    [9, "Endless Embrace ft.KIHOW(MYTH & ROID)", "", 1],
     [10, "Tomorrow ft.Takeshi Saito", "", 0],
 ]
 links = ["https://vgmdb.net/album/158854"]

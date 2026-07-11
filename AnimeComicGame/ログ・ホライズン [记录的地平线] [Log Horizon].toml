@@ -1,12 +1,12 @@
-[c8729dd62b05273df83d1d7dc0633855]
+[0b9f233a468caa7ead5a79d4fbe1bdf2]
 catalognumber = "SRCL-8400~1"
 date = "2013-10-09"
 album = "database feat.TAKUMA(10-FEET) / MAN WITH A MISSION [初回生産限定盤] Vocal, Remix"
 tracks = [
-    [1, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
-    [2, "your way", "MAN WITH A MISSION", 0],
-    [3, "Green-Tinted Sixties Mind", "MAN WITH A MISSION", 0],
-    [4, "distance (remix)", "MAN WITH A MISSION", 0],
+    [1, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
+    [2, "your way", "MAN WITH A MISSION", 1],
+    [3, "Green-Tinted Sixties Mind", "MAN WITH A MISSION", 1],
+    [4, "distance (remix)", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b8214a12-de8f-46b3-b77d-1699776ea46c", "https://vgmdb.net/album/41303"]
 
@@ -19,33 +19,33 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b8214a12-de8f-46b3-b77d-1699776ea46c", "https://vgmdb.net/album/41303"]
 
-[234a043e797783f8a13b665c30ee31f7]
+[d1600e66f221dcbe1754f9bc8818bc39]
 catalognumber = "SRCL-8402"
 date = "2013-10-09"
 album = "database feat.TAKUMA(10-FEET) / MAN WITH A MISSION"
 tracks = [
-    [1, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
-    [2, "your way", "MAN WITH A MISSION", 0],
-    [3, "Green-Tinted Sixties Mind", "MAN WITH A MISSION", 0],
-    [4, "distance (remix)", "MAN WITH A MISSION", 0],
+    [1, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
+    [2, "your way", "MAN WITH A MISSION", 1],
+    [3, "Green-Tinted Sixties Mind", "MAN WITH A MISSION", 1],
+    [4, "distance (remix)", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ca1c657f-c712-4d08-9d72-0958477a4fc4", "https://vgmdb.net/album/41302"]
 
-[5879ebc585ebf7574253e2a4bddcb252]
+[e4b27ce7b05dca1efdfd50e48bbae6cf]
 catalognumber = "CRCP-10300"
 date = "2013-11-13"
 album = "Your song* / Yun*chi"
 tracks = [
-    [1, "Your song*", "Yun*chi", 0],
-    [2, "Waon*", "Yun*chi with IroKokoro Project", 0],
-    [3, "Fuzzy*", "Yun*chi", 0],
-    [4, "Your song* (instrumental)", "Yun*chi", 0],
-    [5, "Waon* (instrumental)", "Yun*chi with IroKokoro Project", 0],
-    [6, "Fuzzy* (instrumental)", "Yun*chi", 0],
+    [1, "Your song*", "Yun*chi", 1],
+    [2, "Waon*", "Yun*chi with IroKokoro Project", 1],
+    [3, "Fuzzy*", "Yun*chi", 1],
+    [4, "Your song* (instrumental)", "Yun*chi", 1],
+    [5, "Waon* (instrumental)", "Yun*chi with IroKokoro Project", 1],
+    [6, "Fuzzy* (instrumental)", "Yun*chi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/81cddd57-0f14-48de-bb1f-b19fc6e6b531", "https://vgmdb.net/album/41170"]
 
-[2b553a92a35a371eb5f845a858465297]
+[c9a8eccd4f9dc7084838412a41c25b3f]
 catalognumber = "SRCL-8486"
 date = "2014-03-12"
 album = "Tales of Purefly / MAN WITH A MISSION"
@@ -53,20 +53,20 @@ tracks = [
     [1, "tales of purefly", "MAN WITH A MISSION", 0],
     [2, "evils fall", "MAN WITH A MISSION", 0],
     [3, "Wake Myself Again", "MAN WITH A MISSION", 0],
-    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [5, "vitamin 64", "MAN WITH A MISSION", 0],
     [6, "higher", "MAN WITH A MISSION", 0],
     [7, "Emotions", "MAN WITH A MISSION", 0],
     [8, "whatever you had said was everything", "MAN WITH A MISSION", 0],
     [9, "When My Devil Rises", "MAN WITH A MISSION", 0],
     [10, "Searching life", "MAN WITH A MISSION", 0],
-    [11, "your way", "MAN WITH A MISSION", 0],
+    [11, "your way", "MAN WITH A MISSION", 1],
     [12, "babylon", "MAN WITH A MISSION", 0],
     [13, "Dancing On The Moon", "MAN WITH A MISSION", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7f38a7df-4a5d-4d3e-bbb6-19ce6813c224", "https://vgmdb.net/album/64634"]
 
-[28a2fc0379339274619b34bcf1fffa0c]
+[1f04a7d7d6134ed8b6dae0c41dbb9e02]
 catalognumber = "SRCL-8484"
 date = "2014-03-12"
 album = "Tales of Purefly / MAN WITH A MISSION [Limited Edition]"
@@ -74,77 +74,77 @@ tracks = [
     [1, "tales of purefly", "MAN WITH A MISSION", 0],
     [2, "evils fall", "MAN WITH A MISSION", 0],
     [3, "Wake Myself Again", "MAN WITH A MISSION", 0],
-    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [5, "vitamin 64", "MAN WITH A MISSION", 0],
     [6, "higher", "MAN WITH A MISSION", 0],
     [7, "Emotions", "MAN WITH A MISSION", 0],
     [8, "whatever you had said was everything", "MAN WITH A MISSION", 0],
     [9, "When My Devil Rises", "MAN WITH A MISSION", 0],
     [10, "Searching life", "MAN WITH A MISSION", 0],
-    [11, "your way", "MAN WITH A MISSION", 0],
+    [11, "your way", "MAN WITH A MISSION", 1],
     [12, "babylon", "MAN WITH A MISSION", 0],
     [13, "Dancing On The Moon", "MAN WITH A MISSION", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/dbe1c44f-c105-483a-96cd-9c9c0cadd282", "https://vgmdb.net/album/64633"]
 
-[ef13921a99753f1e6bdd994cfae62941]
+[437050a4a2575efccd724453ea09e5f5]
 catalognumber = "NSCA-15211"
 date = "2014-08-22"
 album = "ログ・ホライズン オリジナル・サウンドトラック 1"
 tracks = [
-    [1, "「ログ・ホライズン」メインテーマ", "高梨康治", 0],
-    [2, "大災害", "高梨康治", 0],
-    [3, "戦う覚悟", "高梨康治", 0],
-    [4, "遭遇戦", "高梨康治", 0],
-    [5, "腕におぼえあり", "高梨康治", 0],
-    [6, "森と水と大地", "高梨康治", 0],
-    [7, "三日月同盟", "高梨康治", 0],
-    [8, "不穏な影", "高梨康治", 0],
-    [9, "探究", "高梨康治", 0],
-    [10, "ミノリとトウヤ", "高梨康治", 0],
-    [11, "悪人まかり通る", "高梨康治", 0],
-    [12, "シロエの計略", "高梨康治", 0],
-    [13, "その手につかみとれ", "高梨康治", 0],
-    [14, "美しきアサシン", "高梨康治", 0],
-    [15, "アキバの街", "高梨康治", 0],
-    [16, "ひざ蹴り", "高梨康治", 0],
-    [17, "ルンデルハウス", "高梨康治", 0],
-    [18, "新世界", "高梨康治", 0],
-    [19, "イースタルからの招待状", "高梨康治", 0],
-    [20, "エルダー・テイルのワルツ", "高梨康治", 0],
-    [21, "ゴブリン王の帰還", "高梨康治", 0],
-    [22, "深く静かに", "高梨康治", 0],
-    [23, "策謀", "高梨康治", 0],
-    [24, "立ち上がる勇気", "高梨康治", 0],
-    [25, "作戦開始", "高梨康治", 0],
-    [26, "モンスター襲来", "高梨康治", 0],
-    [27, "敵陣突破", "高梨康治", 0],
-    [28, "冒険者の条件", "高梨康治", 0],
-    [29, "新しき目覚め", "高梨康治", 0],
-    [30, "天秤祭", "高梨康治", 0],
-    [31, "乙女ゴコロ", "高梨康治", 0],
-    [32, "進行する計画", "高梨康治", 0],
-    [33, "胸に秘めた想い", "高梨康治", 0],
-    [34, "記録の地平線", "高梨康治", 0],
-    [35, "新たなる冒険へ", "高梨康治", 0],
+    [1, "「ログ・ホライズン」メインテーマ", "高梨康治", 1],
+    [2, "大災害", "高梨康治", 1],
+    [3, "戦う覚悟", "高梨康治", 1],
+    [4, "遭遇戦", "高梨康治", 1],
+    [5, "腕におぼえあり", "高梨康治", 1],
+    [6, "森と水と大地", "高梨康治", 1],
+    [7, "三日月同盟", "高梨康治", 1],
+    [8, "不穏な影", "高梨康治", 1],
+    [9, "探究", "高梨康治", 1],
+    [10, "ミノリとトウヤ", "高梨康治", 1],
+    [11, "悪人まかり通る", "高梨康治", 1],
+    [12, "シロエの計略", "高梨康治", 1],
+    [13, "その手につかみとれ", "高梨康治", 1],
+    [14, "美しきアサシン", "高梨康治", 1],
+    [15, "アキバの街", "高梨康治", 1],
+    [16, "ひざ蹴り", "高梨康治", 1],
+    [17, "ルンデルハウス", "高梨康治", 1],
+    [18, "新世界", "高梨康治", 1],
+    [19, "イースタルからの招待状", "高梨康治", 1],
+    [20, "エルダー・テイルのワルツ", "高梨康治", 1],
+    [21, "ゴブリン王の帰還", "高梨康治", 1],
+    [22, "深く静かに", "高梨康治", 1],
+    [23, "策謀", "高梨康治", 1],
+    [24, "立ち上がる勇気", "高梨康治", 1],
+    [25, "作戦開始", "高梨康治", 1],
+    [26, "モンスター襲来", "高梨康治", 1],
+    [27, "敵陣突破", "高梨康治", 1],
+    [28, "冒険者の条件", "高梨康治", 1],
+    [29, "新しき目覚め", "高梨康治", 1],
+    [30, "天秤祭", "高梨康治", 1],
+    [31, "乙女ゴコロ", "高梨康治", 1],
+    [32, "進行する計画", "高梨康治", 1],
+    [33, "胸に秘めた想い", "高梨康治", 1],
+    [34, "記録の地平線", "高梨康治", 1],
+    [35, "新たなる冒険へ", "高梨康治", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9d35f78a-fb0c-4a2c-a71a-233270924726", "https://vgmdb.net/album/46112"]
 
-[9654a4d766a5113761879068fb252c01]
+[69c9c38aab3b76fa66d798b187fcb11b]
 catalognumber = "CRCP-10328"
 date = "2014-10-22"
 album = "Wonderful Wonder World* / Yun*chi"
 tracks = [
-    [1, "Wonderful Wonder World*", "Yun*chi", 0],
-    [2, "Fairy*", "Yun*chi", 0],
-    [3, "Dancing*", "Yun*chi", 0],
-    [4, "Wonderful Wonder World* (instrumental)", "Yun*chi", 0],
-    [5, "Fairy* (instrumental)", "Yun*chi", 0],
-    [6, "Dancing* (instrumental)", "Yun*chi", 0],
+    [1, "Wonderful Wonder World*", "Yun*chi", 1],
+    [2, "Fairy*", "Yun*chi", 1],
+    [3, "Dancing*", "Yun*chi", 1],
+    [4, "Wonderful Wonder World* (instrumental)", "Yun*chi", 1],
+    [5, "Fairy* (instrumental)", "Yun*chi", 1],
+    [6, "Dancing* (instrumental)", "Yun*chi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3810d465-e515-4ac6-9e10-b10a34bf94fd", "https://vgmdb.net/album/47600"]
 
-[3177440c643f1df9fc5bc103b5d27ffb]
+[a91e882020856d18bbf86a0262e98abb]
 catalognumber = "CRCP-40389"
 date = "2015-01-01"
 album = "5 YEARS・5 WOLVES・5 SOULS / MAN WITH A MISSION"
@@ -152,11 +152,11 @@ tracks = [
     [1, "Emotions", "MAN WITH A MISSION", 0],
     [2, "FROM YOUTH TO DEATH", "MAN WITH A MISSION", 0],
     [3, "DANCE EVERYBODY", "MAN WITH A MISSION", 0],
-    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [5, "フォーカスライト", "MAN WITH A MISSION", 0],
     [6, "FLY AGAIN", "MAN WITH A MISSION", 0],
     [7, "Feel and Think", "MAN WITH A MISSION", 0],
-    [8, "distance", "MAN WITH A MISSION", 0],
+    [8, "distance", "MAN WITH A MISSION", 1],
     [9, "PANORAMA RADIO", "MAN WITH A MISSION", 0],
     [10, "Get Off of My Way", "MAN WITH A MISSION", 0],
     [11, "Wake Myself Again", "MAN WITH A MISSION", 0],
@@ -165,7 +165,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94f586be-50a2-4cae-a45a-bf59d8710db2", "https://vgmdb.net/album/65360"]
 
-[2e5f8f9eca6c7221bef0fb4d2ef5667f]
+[a2605e1832f349143c4848c435ec269e]
 catalognumber = "CRCP-40388"
 date = "2015-01-01"
 album = "5 YEARS・5 WOLVES・5 SOULS / MAN WITH A MISSION [Limited Edition]"
@@ -173,11 +173,11 @@ tracks = [
     [1, "Emotions", "MAN WITH A MISSION", 0],
     [2, "FROM YOUTH TO DEATH", "MAN WITH A MISSION", 0],
     [3, "DANCE EVERYBODY", "MAN WITH A MISSION", 0],
-    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [4, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [5, "フォーカスライト", "MAN WITH A MISSION", 0],
     [6, "FLY AGAIN", "MAN WITH A MISSION", 0],
     [7, "Feel and Think", "MAN WITH A MISSION", 0],
-    [8, "distance", "MAN WITH A MISSION", 0],
+    [8, "distance", "MAN WITH A MISSION", 1],
     [9, "PANORAMA RADIO", "MAN WITH A MISSION", 0],
     [10, "Get Off of My Way", "MAN WITH A MISSION", 0],
     [11, "Wake Myself Again", "MAN WITH A MISSION", 0],
@@ -186,76 +186,76 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/94f586be-50a2-4cae-a45a-bf59d8710db2", "https://vgmdb.net/album/65359"]
 
-[37d03b2e777c9f7b8fac196988b61ce8]
+[a57bc44ead665075a587bb1d0e1ae09e]
 catalognumber = "NSCA-15234"
 date = "2015-03-04"
 album = "ログ・ホライズン オリジナル・サウンドトラック 2"
 tracks = [
-    [1, "「ログ・ホライズン」メインテーマ 2014 ver.", "高梨康治", 0],
-    [2, "挑戦者たち", "高梨康治", 0],
-    [3, "サブタイトルⅠ", "高梨康治", 0],
-    [4, "レイドゾーン", "高梨康治", 0],
-    [5, "シロエの思惑", "高梨康治", 0],
-    [6, "アキバの女子会Ⅰ", "高梨康治", 0],
-    [7, "三日月同盟の休日", "高梨康治", 0],
-    [8, "闇を駆ける戦慄", "高梨康治", 0],
-    [9, "アキバの殺人鬼", "高梨康治", 0],
-    [10, "空虚なる狂気", "高梨康治", 0],
-    [11, "アカツキの想い", "高梨康治", 0],
-    [12, "動き始める影", "高梨康治", 0],
-    [13, "アキバレイド", "高梨康治", 0],
-    [14, "月の浜辺", "高梨康治", 0],
-    [15, "もう一度立ち上がるために", "高梨康治", 0],
-    [16, "前進する決意", "高梨康治", 0],
-    [17, "不屈の冒険者", "高梨康治", 0],
-    [18, "平和なひととき", "高梨康治", 0],
-    [19, "サブタイトルⅡ", "高梨康治", 0],
-    [20, "気分は最高", "高梨康治", 0],
-    [21, "パンチラインⅠ", "高梨康治", 0],
-    [22, "パンチラインⅡ", "高梨康治", 0],
-    [23, "せいては事を仕損じる", "高梨康治", 0],
-    [24, "心にともる灯り", "高梨康治", 0],
-    [25, "年少組の絆", "高梨康治", 0],
-    [26, "踏み出す一歩", "高梨康治", 0],
-    [27, "大地人", "高梨康治", 0],
-    [28, "アキバの女子会Ⅱ", "高梨康治", 0],
-    [29, "危険な香り", "高梨康治", 0],
-    [30, "追撃戦", "高梨康治", 0],
-    [31, "モンスターとの死闘", "高梨康治", 0],
-    [32, "悲痛な現実", "高梨康治", 0],
-    [33, "猫人の剣士", "高梨康治", 0],
-    [34, "傷だらけの攻防", "高梨康治", 0],
-    [35, "若き冒険者たち", "高梨康治", 0],
-    [36, "迷い道の先に", "高梨康治", 0],
-    [37, "この世界と音楽と", "高梨康治", 0],
-    [38, "バースデイ・ソング—劇中 version—", "五十鈴(CV.松井恵理子)", 0],
-    [39, "希望の旅立ち", "高梨康治", 0],
-    [40, "ゴー! イースト!", "高梨康治", 0],
-    [41, "バースデイ・ソング", "五十鈴(CV.松井恵理子)", 0],
+    [1, "「ログ・ホライズン」メインテーマ 2014 ver.", "高梨康治", 1],
+    [2, "挑戦者たち", "高梨康治", 1],
+    [3, "サブタイトルⅠ", "高梨康治", 1],
+    [4, "レイドゾーン", "高梨康治", 1],
+    [5, "シロエの思惑", "高梨康治", 1],
+    [6, "アキバの女子会Ⅰ", "高梨康治", 1],
+    [7, "三日月同盟の休日", "高梨康治", 1],
+    [8, "闇を駆ける戦慄", "高梨康治", 1],
+    [9, "アキバの殺人鬼", "高梨康治", 1],
+    [10, "空虚なる狂気", "高梨康治", 1],
+    [11, "アカツキの想い", "高梨康治", 1],
+    [12, "動き始める影", "高梨康治", 1],
+    [13, "アキバレイド", "高梨康治", 1],
+    [14, "月の浜辺", "高梨康治", 1],
+    [15, "もう一度立ち上がるために", "高梨康治", 1],
+    [16, "前進する決意", "高梨康治", 1],
+    [17, "不屈の冒険者", "高梨康治", 1],
+    [18, "平和なひととき", "高梨康治", 1],
+    [19, "サブタイトルⅡ", "高梨康治", 1],
+    [20, "気分は最高", "高梨康治", 1],
+    [21, "パンチラインⅠ", "高梨康治", 1],
+    [22, "パンチラインⅡ", "高梨康治", 1],
+    [23, "せいては事を仕損じる", "高梨康治", 1],
+    [24, "心にともる灯り", "高梨康治", 1],
+    [25, "年少組の絆", "高梨康治", 1],
+    [26, "踏み出す一歩", "高梨康治", 1],
+    [27, "大地人", "高梨康治", 1],
+    [28, "アキバの女子会Ⅱ", "高梨康治", 1],
+    [29, "危険な香り", "高梨康治", 1],
+    [30, "追撃戦", "高梨康治", 1],
+    [31, "モンスターとの死闘", "高梨康治", 1],
+    [32, "悲痛な現実", "高梨康治", 1],
+    [33, "猫人の剣士", "高梨康治", 1],
+    [34, "傷だらけの攻防", "高梨康治", 1],
+    [35, "若き冒険者たち", "高梨康治", 1],
+    [36, "迷い道の先に", "高梨康治", 1],
+    [37, "この世界と音楽と", "高梨康治", 1],
+    [38, "バースデイ・ソング—劇中 version—", "五十鈴(CV.松井恵理子)", 1],
+    [39, "希望の旅立ち", "高梨康治", 1],
+    [40, "ゴー! イースト!", "高梨康治", 1],
+    [41, "バースデイ・ソング", "五十鈴(CV.松井恵理子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d1e49f1f-b3f9-4c5c-87e2-81d20bb9f3c3", "https://vgmdb.net/album/49498"]
 
-[8f6206630698845a52cc8b2ea60f4e3f]
+[aeee7a2cd8868c7b8622e843bb8ff3d3]
 catalognumber = "SRCL-8809"
 date = "2015-05-20"
 album = "OUT OF CONTROL / MAN WITH A MISSION x Zebrahead"
 tracks = [
     [1, "Out of Control", "MAN WITH A MISSION×Zebrahead", 0],
     [2, "The Cure", "MAN WITH A MISSION", 0],
-    [3, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 0],
+    [3, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 1],
     [4, "Lockjaw", "Zebrahead", 0],
     [5, "Blue Light Special", "Zebrahead", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/40eb2c34-623c-4a00-a50a-4dc38e5e62ea", "https://vgmdb.net/album/65324"]
 
-[722e5137f7dc133a545280659f7edf1a]
+[7bfad68cb415961cc8144073757589e2]
 catalognumber = "SRCL-8807~8"
 date = "2015-05-20"
 album = "OUT OF CONTROL / MAN WITH A MISSION x Zebrahead [Limited Edition] Disc 1 (CD) [SRCL-8807]"
 tracks = [
     [1, "Out of Control", "MAN WITH A MISSION×Zebrahead", 0],
     [2, "The Cure", "MAN WITH A MISSION", 0],
-    [3, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 0],
+    [3, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 1],
     [4, "Lockjaw", "Zebrahead", 0],
     [5, "Blue Light Special", "Zebrahead", 0],
 ]
@@ -271,20 +271,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/04840253-b78f-4ce1-9421-2507ed82a2e2", "https://vgmdb.net/album/65323"]
 
-[23b8cd7e9722801206501442f512f18a]
+[34fb2cdb078c28c2cc49949354016cf3]
 catalognumber = "CRCP-10343"
 date = "2015-07-15"
 album = "Lucky Girl* / Yun*chi"
 tracks = [
     [1, "Lucky Girl*", "Yun*chi", 0],
     [2, "QLL*", "Yun*chi", 0],
-    [3, "Wonderful Wonder World* (Carpainter Remix)", "Yun*chi", 0],
+    [3, "Wonderful Wonder World* (Carpainter Remix)", "Yun*chi", 1],
     [4, "Lucky Girl* (instrumental)", "Yun*chi", 0],
     [5, "QLL* (instrumental)", "Yun*chi", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/84dd9e2e-0adf-4cc5-8f7d-ea38aa104bf8", "https://vgmdb.net/album/52537"]
 
-[3e309a1a735adeef23246b34b28119bc]
+[a1732587912e1c71778752ba935ff5dd]
 catalognumber = "N/A"
 date = "2015-08-21"
 album = "OUT OF CONTROL / Zebrahead x MAN WITH A MISSION"
@@ -293,17 +293,17 @@ tracks = [
     [2, "Lockjaw", "Zebrahead", 0],
     [3, "Consider This My Resignation", "Zebrahead", 0],
     [4, "Higher", "MAN WITH A MISSION", 0],
-    [5, "Database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 0],
+    [5, "Database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a876554c-9733-4a20-9fe5-101d503bfe24", "https://vgmdb.net/album/65325"]
 
-[59dd746c740fd9354fbf6cbaf426b0b5]
+[3861e84c86553757a3849932623fe4d5]
 catalognumber = "CRCP-40427"
 date = "2015-09-09"
 album = "Pixie Dust* / Yun*chi"
 tracks = [
     [1, "Lucky Girl*", "Yun*chi", 0],
-    [2, "Fairy*", "Yun*chi", 0],
+    [2, "Fairy*", "Yun*chi", 1],
     [3, "Doki Doki*", "Yun*chi", 0],
     [4, "FUTURE FUTURE*", "Yun*chi", 0],
     [5, "MIRAI*", "Yun*chi", 0],
@@ -313,11 +313,11 @@ tracks = [
     [9, "Starlight*", "Yun*chi", 0],
     [10, "nan-nano*", "Yun*chi", 0],
     [11, "gomenne*", "Yun*chi", 0],
-    [12, "Wonderful Wonder World*", "Yun*chi", 0],
+    [12, "Wonderful Wonder World*", "Yun*chi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b51c7fdf-160d-4ffc-a9ea-aeef7de81a7d", "https://vgmdb.net/album/53971"]
 
-[9c09d7f3d2a7f768b4113400eada8269]
+[13ed041b1f21c1a97a2aa8732c9ea620]
 catalognumber = "SRXL-98"
 date = "2016-06-29"
 album = "MAN WITH A MISSION 狼大全集 IV"
@@ -327,7 +327,7 @@ tracks = [
     [3, "Get Off of My Way", "MAN WITH A MISSION", 0],
     [4, "Dive", "MAN WITH A MISSION", 0],
     [5, "The Cure", "MAN WITH A MISSION", 0],
-    [6, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 0],
+    [6, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 1],
     [7, "higher", "MAN WITH A MISSION", 0],
     [8, "Raise your flag", "MAN WITH A MISSION", 0],
     [9, "Medley (DON'T LOSE YOURSELF～distance～DANCE EVERYBODY)", "MAN WITH A MISSION", 0],
@@ -344,7 +344,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/380f0940-3e14-4b5f-a199-66c6f754b728", "https://vgmdb.net/album/152493"]
 
-[c8a8d574584a1df50d7982fb20caae3a]
+[6f47617c67d23614c9a0299589772da7]
 catalognumber = "SRCL-11525~6"
 date = "2020-07-15"
 album = "MAN WITH A \"BEST\" MISSION [Limited Edition] Vocal"
@@ -361,7 +361,7 @@ tracks = [
     [10, "Dive", "MAN WITH A MISSION", 0],
     [11, "Emotions", "MAN WITH A MISSION", 0],
     [12, "Hey Now", "MAN WITH A MISSION", 0],
-    [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [14, "Dead End in Tokyo", "MAN WITH A MISSION", 0],
     [15, "Take What U Want", "MAN WITH A MISSION", 0],
     [16, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
@@ -369,13 +369,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a6ce67e-aba2-4787-8cb8-5896d57a0691", "https://vgmdb.net/album/100868"]
 
-[1cce4f857ac57bf925204b36a15e9277]
+[573edaaa367e820efa8401a8adf735a4]
 catalognumber = "SRCL-11525~6"
 date = "2020-07-15"
 album = "MAN WITH A \"BEST\" MISSION [Limited Edition] Vocal, Live Event, Video"
 tracks = [
     [1, "Take Me Under", "", 0],
-    [2, "database", "", 0],
+    [2, "database", "", 1],
     [3, "Dog Days", "", 0],
     [4, "DON'T LOSE YOURSELF", "", 0],
     [5, "Left Alive", "", 0],
@@ -384,7 +384,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/100868"]
 
-[a6457d81e1ebe3afbf57da223e3c4670]
+[8b0b082542b4285b7b1df125cda53913]
 catalognumber = "SRCL-11527"
 date = "2020-07-15"
 album = "MAN WITH A \"BEST\" MISSION"
@@ -401,7 +401,7 @@ tracks = [
     [10, "Dive", "MAN WITH A MISSION", 0],
     [11, "Emotions", "MAN WITH A MISSION", 0],
     [12, "Hey Now", "MAN WITH A MISSION", 0],
-    [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
+    [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 1],
     [14, "Dead End in Tokyo", "MAN WITH A MISSION", 0],
     [15, "Take What U Want", "MAN WITH A MISSION", 0],
     [16, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
@@ -420,7 +420,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7c21e6f1-9dd8-4bb7-bb38-b31140f387d0", "https://vgmdb.net/album/107060"]
 
-[f8ed9ca3bd2f45cba3146587abd961df]
+[e86d84423de668edcce24380f0ff1988]
 catalognumber = "SRCL-11662~3"
 date = "2021-02-10"
 album = "ONE WISH e.p. / MAN WITH A MISSION [初回生産限定盤] Vocal, Live Event"
@@ -429,7 +429,7 @@ tracks = [
     [2, "All You Need", "", 0],
     [3, "ONE WISH", "", 0],
     [4, "evergreen", "", 0],
-    [5, "database (\"MAN WITH A \"BEST\" MISSION\" -Album Release Special Showcase-)", "", 0],
+    [5, "database (\"MAN WITH A \"BEST\" MISSION\" -Album Release Special Showcase-)", "", 1],
     [6, "Dive (\"MAN WITH A \"BEST\" MISSION\" -Album Release Special Showcase-)", "", 0],
     [7, "Change the World (\"MAN WITH A \"BEST\" MISSION\" -Album Release Special Showcase-)", "", 0],
     [8, "FLY AGAIN -Hero's Anthem- (\"MAN WITH A \"BEST\" MISSION\" -Album Release Special Showcase-)", "", 0],
@@ -454,7 +454,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/107806"]
 
-[fc7715d2e9066e465d4542a5f9c2191f]
+[1aff4e4e3642eadb0ad3b9471abe3a18]
 catalognumber = "SRCL-11664"
 date = "2021-02-10"
 album = "ONE WISH e.p. / MAN WITH A MISSION"
@@ -463,7 +463,7 @@ tracks = [
     [2, "All You Need", "MAN WITH A MISSION", 0],
     [3, "ONE WISH", "MAN WITH A MISSION", 0],
     [4, "evergreen", "MAN WITH A MISSION", 0],
-    [5, "database (「MAN WITH A “BEST” MISSION」-Album Release Special Showcase-) [Live ver.]", "MAN WITH A MISSION", 0],
+    [5, "database (「MAN WITH A “BEST” MISSION」-Album Release Special Showcase-) [Live ver.]", "MAN WITH A MISSION", 1],
     [6, "Dive (「MAN WITH A “BEST” MISSION」-Album Release Special Showcase-) [Live ver.]", "MAN WITH A MISSION", 0],
     [7, "Change the World (「MAN WITH A “BEST” MISSION」-Album Release Special Showcase-) [Live ver.]", "MAN WITH A MISSION", 0],
     [8, "FLY AGAIN -Hero’s Anthem- (「MAN WITH A “BEST” MISSION」-Album Release Special Showcase-) [Live ver.]", "MAN WITH A MISSION", 0],
@@ -488,7 +488,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/635400e6-4bcc-4c62-824b-b4354a39cdff", "https://vgmdb.net/album/108215"]
 
-[76964519e3352225dff92b3be4bbc205]
+[ff96e5205731e1f71b3521e7bb000eb3]
 catalognumber = "SRXL-354"
 date = "2022-03-23"
 album = "WOLF COMPLETE WORKS VII Merry-Go-Round Tour 2021 / MAN WITH A MISSION"
@@ -514,7 +514,7 @@ tracks = [
     [19, "evils fall", "", 0],
     [20, "evergreen", "", 0],
     [21, "Raise your flag", "", 0],
-    [22, "database", "", 0],
+    [22, "database", "", 1],
     [23, "Merry-Go-Round", "", 0],
     [24, "Memories", "", 0],
     [25, "higher", "", 0],
@@ -554,7 +554,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117790"]
 
-[d6aed35a65b8cbc9c55299d997eef667]
+[875f7c4462742b2f97170afb033d0c6c]
 catalognumber = "SRBL-2051~2"
 date = "2022-03-23"
 album = "WOLF COMPLETE WORKS VII Merry-Go-Round Tour 2021 / MAN WITH A MISSION Disc 2 [SRBL-2052]"
@@ -563,7 +563,7 @@ tracks = [
     [2, "evils fall", "", 0],
     [3, "evergreen", "", 0],
     [4, "Raise your flag", "", 0],
-    [5, "database", "", 0],
+    [5, "database", "", 1],
     [6, "Merry-Go-Round", "", 0],
     [7, "Memories", "", 0],
     [8, "higher", "", 0],
