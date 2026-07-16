@@ -1,97 +1,97 @@
-[c7559c6fcaab560bfa9ed5073e8fb77f]
+[6c9aaca6ac1ba865e43156adf250af38]
 catalognumber = "SECL-949"
 date = "2011-02-02"
 album = "コネクト/ ClariS"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "Dreamin’", "ClariS", 0],
-    [3, "キミとふたり", "ClariS", 0],
-    [4, "コネクト -TV MIX-", "ClariS", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "Dreamin’", "ClariS", 1],
+    [3, "キミとふたり", "ClariS", 1],
+    [4, "コネクト -TV MIX-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b5137f10-7933-4ff2-9524-b1373e4511c0", "https://vgmdb.net/album/23392"]
 
-[165373e90af53bc7aefc92ab383ee218]
+[b20e921c8e9332a3c34329a3f84210be]
 catalognumber = "SECL-948"
 date = "2011-02-02"
 album = "コネクト / ClariS"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "Dreamin’", "ClariS", 0],
-    [3, "キミとふたり", "ClariS", 0],
-    [4, "コネクト -Instrumental-", "ClariS", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "Dreamin’", "ClariS", 1],
+    [3, "キミとふたり", "ClariS", 1],
+    [4, "コネクト -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/77b26836-1623-4ec8-a1c6-2280645abf16", "https://vgmdb.net/album/23391"]
 
-[d7de6c4f4b0c79f7d785e639b1047fa1]
+[64a68981a39fd2b010c172f0a1451f1b]
 catalognumber = "SECL-946~7"
 date = "2011-02-02"
 album = "コネクト / ClariS Vocal"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "Dreamin’", "ClariS", 0],
-    [3, "キミとふたり", "ClariS", 0],
-    [4, "コネクト -Instrumental-", "ClariS", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "Dreamin’", "ClariS", 1],
+    [3, "キミとふたり", "ClariS", 1],
+    [4, "コネクト -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/798762f0-a292-395d-a535-47b1c08f6171", "https://vgmdb.net/album/23390"]
 
-[154767ba60bd47d81cef91d5f76e2904]
+[57affd82f9e35ebbd912a4fa239d1df9]
 catalognumber = "SECL-946~7"
 date = "2011-02-02"
 album = "コネクト / ClariS Video"
 tracks = [
-    [1, "コネクト Music Video", "ClariS", 0],
+    [1, "コネクト Music Video", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/798762f0-a292-395d-a535-47b1c08f6171", "https://vgmdb.net/album/23390"]
 
-[6e07ca4e75907a37231843ecf840e481]
+[eae79b07116c5e8aef64ecf0c01df26e]
 catalognumber = "SECL-939~40"
 date = "2011-02-16"
 album = "Magia / Kalafina [初回生産限定盤] Vocal"
 tracks = [
-    [1, "Magia", "Kalafina", 0],
+    [1, "Magia", "Kalafina", 1],
     [2, "snow falling", "Kalafina", 0],
-    [3, "Magia 〜instrumental〜", "Kalafina", 0],
+    [3, "Magia 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4222bb23-4883-4621-9fd8-4deacbbfaf1f", "https://vgmdb.net/album/23388"]
 
-[551f370c6695ee274c5d3e5d605c5ac8]
+[d05b1611f2b1d077539c84d85e81694c]
 catalognumber = "SECL-939~40"
 date = "2011-02-16"
 album = "Magia / Kalafina [初回生産限定盤] Video"
 tracks = [
-    [1, "Magia Video Clip", "Kalafina", 0],
+    [1, "Magia Video Clip", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4222bb23-4883-4621-9fd8-4deacbbfaf1f", "https://vgmdb.net/album/23388"]
 
-[d91999af7a8508dade1e89b257cbf9ba]
+[33988826590d8108945fdcaa0fccd2cd]
 catalognumber = "SECL-942"
 date = "2011-02-16"
 album = "Magia / Kalafina [期間生産限定盤]"
 tracks = [
-    [1, "Magia", "Kalafina", 0],
-    [2, "Magia 〜magic mix〜", "Kalafina", 0],
-    [3, "Magia 〜TV version〜", "Kalafina", 0],
-    [4, "Magia 〜instrumental〜", "Kalafina", 0],
+    [1, "Magia", "Kalafina", 1],
+    [2, "Magia 〜magic mix〜", "Kalafina", 1],
+    [3, "Magia 〜TV version〜", "Kalafina", 1],
+    [4, "Magia 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aaab9cfd-2a3a-4fc8-9c99-52351c4c9280", "https://vgmdb.net/album/23389"]
 
-[f73ee0ae5ba12b601fc98a09153b6eb0]
+[d4d5298f1903775141bcad52adfb04e8]
 catalognumber = "SECL-941"
 date = "2011-02-16"
 album = "Magia / Kalafina"
 tracks = [
-    [1, "Magia", "Kalafina", 0],
+    [1, "Magia", "Kalafina", 1],
     [2, "snow falling", "Kalafina", 0],
-    [3, "Magia 〜instrumental〜", "Kalafina", 0],
+    [3, "Magia 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f67fd1b0-11e2-4232-a297-1c9e476290dc", "https://vgmdb.net/album/23387"]
 
-[1a0d06497e9880098d5bd46b69f2c085]
+[1fefe0610cbe0ac8a41f8fdb3d553a4a]
 catalognumber = "PLR-002"
 date = "2011-04-17"
 album = "Madoka E.P."
 tracks = [
-    [1, "Magia (Bootleg Edit)", "", 0],
+    [1, "Magia (Bootleg Edit)", "", 1],
     [2, "Tiro Finale (Makina)", "", 0],
 ]
 links = ["https://vgmdb.net/album/25666"]
@@ -115,14 +115,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f3e908cd-3c6e-45be-9deb-b3990c01d341", "https://vgmdb.net/album/134041"]
 
-[6337603ce82ea0d5f79bc1ecf47f050b]
+[9578fdc178a8a61b732bb10c52dda8ce]
 catalognumber = "ANZX-9122"
 date = "2011-04-27"
 album = "魔法少女まどか☆マギカ ドラマ CD メモリーズオブユー"
 tracks = [
-    [1, "メモリーズオブユー", "[dialogue]", 0],
-    [2, "また あした", "鹿目まどか (悠木碧)", 0],
-    [3, "また あした Instrumental ver.", "鹿目まどか (悠木碧)", 0],
+    [1, "メモリーズオブユー", "[dialogue]", 1],
+    [2, "また あした", "鹿目まどか (悠木碧)", 2],
+    [3, "また あした Instrumental ver.", "鹿目まどか (悠木碧)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6bcb46cf-6bc6-4391-879f-e1b301bf2883", "https://vgmdb.net/album/30302"]
 
@@ -145,42 +145,42 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cb250640-c684-4468-8aa8-864b50ba3cf1", "https://vgmdb.net/album/26646"]
 
-[cce0111ef6b56a03a4c96b4492e939e2]
+[1a45e19cf0ce4558a5441fdeda258e38]
 catalognumber = "ANZX-9124"
 date = "2011-05-25"
 album = "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.1"
 tracks = [
-    [1, "Sis puella magica!", "梶浦由記", 0],
-    [2, "Salve, terrae magicae", "梶浦由記", 0],
-    [3, "Gradus prohibitus", "梶浦由記", 0],
-    [4, "Credens justitiam", "梶浦由記", 0],
-    [5, "Clementia", "梶浦由記", 0],
-    [6, "Desiderium", "梶浦由記", 0],
-    [7, "Conturbatio", "梶浦由記", 0],
-    [8, "Postmeridie", "梶浦由記", 0],
-    [9, "Puella in somnio", "梶浦由記", 0],
-    [10, "Umbra nigra", "梶浦由記", 0],
-    [11, "Terror adhaerens", "梶浦由記", 0],
-    [12, "Scaena felix", "梶浦由記", 0],
-    [13, "Pugna cum maga", "梶浦由記", 0],
+    [1, "Sis puella magica!", "梶浦由記", 1],
+    [2, "Salve, terrae magicae", "梶浦由記", 1],
+    [3, "Gradus prohibitus", "梶浦由記", 1],
+    [4, "Credens justitiam", "梶浦由記", 1],
+    [5, "Clementia", "梶浦由記", 1],
+    [6, "Desiderium", "梶浦由記", 1],
+    [7, "Conturbatio", "梶浦由記", 1],
+    [8, "Postmeridie", "梶浦由記", 1],
+    [9, "Puella in somnio", "梶浦由記", 1],
+    [10, "Umbra nigra", "梶浦由記", 1],
+    [11, "Terror adhaerens", "梶浦由記", 1],
+    [12, "Scaena felix", "梶浦由記", 1],
+    [13, "Pugna cum maga", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bc214c47-ab40-4ac9-8e46-f3344ad3200c", "https://vgmdb.net/album/24725"]
 
-[629d49b046d7a9f158947adf85946d45]
+[d3e1d071a16f1dbbca8443a172f41bfa]
 catalognumber = "SBCV-80091"
 date = "2011-06-22"
 album = "魔法少女まどか☆マギカ『魔法少女たちのお茶会』"
 tracks = [
-    [1, "魔法少女たちのお茶会", "悠木碧, 斎藤千和, 水橋かおり, 喜多村英梨, 加藤英美里, 野中藍", 0],
+    [1, "魔法少女たちのお茶会", "悠木碧, 斎藤千和, 水橋かおり, 喜多村英梨, 加藤英美里, 野中藍", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c83b2ae0-502c-421e-bada-0593c8c12dd9", "https://vgmdb.net/album/51689"]
 
-[493ae5be7c9ab4c2848f52e25ba988e8]
+[6b24ca70b89a54e650f82111392a2a3a]
 catalognumber = "ANZX-9126"
 date = "2011-06-22"
 album = "魔法少女まどか☆マギカ ドラマ CD サニーデイライフ"
 tracks = [
-    [1, "サニーデイライフ", "[dialogue]", 0],
+    [1, "サニーデイライフ", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/59f3162d-3971-478f-b482-bf41f31e9af9", "https://vgmdb.net/album/39132"]
 
@@ -231,32 +231,32 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/27483"]
 
-[67da10bc927db08543b3c58751e40b17]
+[1c7635027224f8de429b741068cda864]
 catalognumber = "ANZX-9128"
 date = "2011-07-27"
 album = "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.2"
 tracks = [
-    [1, "Decretum", "梶浦由記", 0],
-    [2, "Agmen clientum", "梶浦由記", 0],
-    [3, "Venari strigas", "梶浦由記", 0],
-    [4, "Signum malum", "梶浦由記", 0],
-    [5, "Amicae carae meae", "梶浦由記", 0],
-    [6, "Incertus", "梶浦由記", 0],
-    [7, "Inevitabilis", "梶浦由記", 0],
-    [8, "Serena ira", "梶浦由記", 0],
-    [9, "Anima mala", "梶浦由記", 0],
-    [10, "Pugna infinita", "梶浦由記", 0],
-    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 0],
-    [12, "Ave Maria", "城戸喜代, 美野春樹", 0],
+    [1, "Decretum", "梶浦由記", 1],
+    [2, "Agmen clientum", "梶浦由記", 1],
+    [3, "Venari strigas", "梶浦由記", 1],
+    [4, "Signum malum", "梶浦由記", 1],
+    [5, "Amicae carae meae", "梶浦由記", 1],
+    [6, "Incertus", "梶浦由記", 1],
+    [7, "Inevitabilis", "梶浦由記", 1],
+    [8, "Serena ira", "梶浦由記", 1],
+    [9, "Anima mala", "梶浦由記", 1],
+    [10, "Pugna infinita", "梶浦由記", 1],
+    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 1],
+    [12, "Ave Maria", "城戸喜代, 美野春樹", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/81a8203c-eb6e-435f-bb97-ddad79e608d3", "https://vgmdb.net/album/26837"]
 
-[54a2c02401c4cc5d36ce70f8e0381c9f]
+[e29d2772c273e7885d0fabb7d06bbd68]
 catalognumber = "QWCE-00194"
 date = "2011-08-03"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 13"
 tracks = [
-    [1, "コネクト", "plazma feat.Nahoko", 0],
+    [1, "コネクト", "plazma feat.Nahoko", 1],
     [2, "CORE PRIDE", "Hommarju feat.TAKANORI", 0],
     [3, "魔・カ・セ・テ Tonight", "Booing Day feat.MAKI", 0],
     [4, "ぱんでみっく!", "Hommarju feat.mi-mi", 0],
@@ -274,7 +274,7 @@ tracks = [
     [16, "SHINY SHINY", "MK feat.405", 0],
     [17, "SCARLET KNIGHT", "Dizzi Mystica feat.Latte", 0],
     [18, "青い栞", "Icon feat.Yusuke+yuno", 0],
-    [19, "Magia", "Dizzi Mystica feat.Natsuhi+R.Cena", 0],
+    [19, "Magia", "Dizzi Mystica feat.Natsuhi+R.Cena", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/212e98cc-5094-428f-8042-5fade11a7075", "https://vgmdb.net/album/29349"]
 
@@ -285,12 +285,12 @@ album = "魔法少女まどか☆カルタ かるた読み上げCD"
 tracks = []
 links = ["https://vgmdb.net/album/110948"]
 
-[f37bb19c38a7c7d40bf5b3258e0a1778]
+[3c5591d32fcf5871335e7d6f7fcfbc12]
 catalognumber = "MSTBL037"
 date = "2011-08-13"
 album = "arma magica"
 tracks = [
-    [1, "Magia (ozigiri remix)", "OZIGIRI", 0],
+    [1, "Magia (ozigiri remix)", "OZIGIRI", 1],
     [2, "Heart On Madoka Universe", "OZIGIRI", 0],
     [3, "Gun=Kata Puella Magi", "OZIGIRI", 0],
     [4, "wanna eat?", "OZIGIRI", 0],
@@ -366,62 +366,62 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/30327"]
 
-[51519ecf29b07958206bc160d1712d2c]
+[0533f6dc5bc2b6c1947de6fb40f8bc54]
 catalognumber = "ANZX-9130"
 date = "2011-08-24"
 album = "魔法少女まどか☆マギカ ドラマ CD フェアウェル・ストーリー"
 tracks = [
-    [1, "フェアウェル・ストーリー", "[dialogue]", 0],
-    [2, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
-    [3, "and I’m home (Instrumental ver.)", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
+    [1, "フェアウェル・ストーリー", "[dialogue]", 1],
+    [2, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
+    [3, "and I’m home (Instrumental ver.)", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/72bcdf06-f4a4-4d5b-946a-378248fb5886", "https://vgmdb.net/album/39170"]
 
-[ca51b2b234b9f496ddb6a454289f9640]
+[a0c20575895ae6fc039717e45284dac5]
 catalognumber = "KNDY-0005"
 date = "2011-09-18"
 album = "Law of cycles"
 tracks = [
     [1, "Credens justiriam", "", 0],
-    [2, "Venari strigas", "", 0],
+    [2, "Venari strigas", "", 1],
     [3, "Decretum", "", 0],
     [4, "Agmen clientum", "", 0],
     [5, "Puella in somnio", "", 0],
-    [6, "Pugna com maga", "", 0],
+    [6, "Pugna com maga", "", 1],
     [7, "Salve, terrae magicae", "", 0],
     [8, "Sis puella magica", "", 0],
 ]
 links = ["https://vgmdb.net/album/32875"]
 
-[ffe285b01e7fd212603d199c2945812f]
+[45c93a2edb55caf8828eefdce5abba6a]
 catalognumber = "ANZX-9132"
 date = "2011-09-21"
 album = "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.3"
 tracks = [
-    [1, "Numquam vincar", "梶浦由記", 0],
-    [2, "Quamobrem?", "梶浦由記", 0],
-    [3, "Cor destructum", "梶浦由記", 0],
-    [4, "Surgam identidem", "梶浦由記", 0],
-    [5, "Confessio", "梶浦由記", 0],
-    [6, "Sagitta luminis", "梶浦由記", 0],
-    [7, "Nux Walpurgis", "梶浦由記", 0],
-    [8, "Cubilulum album", "梶浦由記", 0],
-    [9, "Taenia memoriae", "梶浦由記", 0],
-    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 0],
-    [11, "Symposium magarum", "梶浦由記", 0],
-    [12, "Pergo pugnare", "梶浦由記", 0],
-    [13, "コネクト -ゲームインスト-", "梶浦由記", 0],
+    [1, "Numquam vincar", "梶浦由記", 1],
+    [2, "Quamobrem?", "梶浦由記", 1],
+    [3, "Cor destructum", "梶浦由記", 1],
+    [4, "Surgam identidem", "梶浦由記", 1],
+    [5, "Confessio", "梶浦由記", 1],
+    [6, "Sagitta luminis", "梶浦由記", 1],
+    [7, "Nux Walpurgis", "梶浦由記", 1],
+    [8, "Cubilulum album", "梶浦由記", 1],
+    [9, "Taenia memoriae", "梶浦由記", 1],
+    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 1],
+    [11, "Symposium magarum", "梶浦由記", 1],
+    [12, "Pergo pugnare", "梶浦由記", 1],
+    [13, "コネクト -ゲームインスト-", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fc208036-a5c0-46bf-9872-3191d41d7d8b", "https://vgmdb.net/album/28200"]
 
-[c2f9d9cb6af3886c63e35c3717132e59]
+[ae1f484a6cb0ed2d1010af99ebbaee5f]
 catalognumber = "SECL-1014"
 date = "2011-09-21"
 album = "After Eden / Kalafina"
 tracks = [
     [1, "Eden", "Kalafina", 0],
     [2, "sandpiper", "Kalafina", 0],
-    [3, "Magia", "Kalafina", 0],
+    [3, "Magia", "Kalafina", 1],
     [4, "九月", "Kalafina", 0],
     [5, "in your eyes", "Kalafina", 0],
     [6, "destination unknown", "Kalafina", 0],
@@ -435,14 +435,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9cbe4504-2a71-4735-a552-b67f77dd66ec", "https://vgmdb.net/album/27519"]
 
-[0e7f8e82b66bc666ba6fc3b18107f26b]
+[695836ef262bf21a72ef22ce6aaa2532]
 catalognumber = "SECL-1012~3"
 date = "2011-09-21"
 album = "After Eden / Kalafina [Limited Edition] Vocal"
 tracks = [
     [1, "Eden", "Kalafina", 0],
     [2, "sandpiper", "Kalafina", 0],
-    [3, "Magia", "Kalafina", 0],
+    [3, "Magia", "Kalafina", 1],
     [4, "九月", "Kalafina", 0],
     [5, "in your eyes", "Kalafina", 0],
     [6, "destination unknown", "Kalafina", 0],
@@ -485,14 +485,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bb2981c1-ce66-4df2-bea5-5706d4678e84", "https://vgmdb.net/album/27495"]
 
-[62df5fc40d179491dd04099057d61bb6]
+[b0ef3b5f4f6a50c70c6123d8d3e01a20]
 catalognumber = "N/A"
 date = "2011-10-30"
 album = "平成バトルアニメソングアレンジ 1"
 tracks = [
     [1, "STORM", "", 0],
     [2, "only my railgun", "", 0],
-    [3, "コネクト", "", 0],
+    [3, "コネクト", "", 1],
     [4, "空色デイズ", "", 0],
     [5, "ガツガツ！", "", 0],
     [6, "Go Tight!", "", 0],
@@ -525,13 +525,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/719f6ddb-4a68-47b4-9562-59388a4f0264", "https://vgmdb.net/album/29641"]
 
-[99d32ab686d3881fa610d9c8a5d70e62]
+[e43d06108303d35e7e497ce57bed0528]
 catalognumber = "N/A"
 date = "2011-10-30"
 album = "Milagro & Magia"
 tracks = [
     [1, "Historia puellarum", "", 0],
-    [2, "Magia - relaxed mix -", "", 0],
+    [2, "Magia - relaxed mix -", "", 1],
     [3, "Madoka pianoforteⅠ-Puella Magi Madoka Magica-", "", 0],
     [4, "Angeli ridet", "", 0],
     [5, "Madoka pianoforteⅡ-Puella Magi Sayaka Magica-", "", 0],
@@ -550,17 +550,17 @@ album = "魔法少女まどか☆マギカ Special Talk CD 2011 Winter"
 tracks = []
 links = ["https://vgmdb.net/album/110939"]
 
-[03e5d0362499969ea6fde1ccece0b0fb]
+[089f6b45f59abc0945449ae3d3cd8e09]
 catalognumber = "MTCD-0005"
 date = "2011-12-30"
 album = "Anime Song Orchestra II Arrangement, Vocal"
 tracks = [
-    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste / 雪村しずか", 0],
+    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste / 雪村しずか", 1],
     [2, "READY!!（「アイドルマスター」より）", "ネオ / 関屋ひかり & 雪村しずか", 0],
     [3, "ブルーウォーター（「ふしぎの海のナディア」より）", "ARA / 葉月ゆら", 0],
     [4, "正解はひとつ!じゃない!!（「探偵オペラ ミルキィホームズ」より）", "ネオ / 関屋ひかり & 雪村しずか", 0],
     [5, "ETERNAL BLAZE（「魔法少女リリカルなのはA's」より）", "taste / 雪村しずか", 0],
-    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ / 関屋ひかり", 0],
+    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ / 関屋ひかり", 1],
     [7, "花のささやき（「小公女セーラ」より）", "ARA / 葉月ゆら", 0],
     [8, "Zzz（「日常」より）", "taste / 雪村しずか", 0],
     [9, "STEP（「魔神英雄伝ワタル」より）", "ARA / 雪村しずか & 中嶋菜月", 0],
@@ -569,17 +569,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b2703d6e-de59-452f-8dd5-a222885f8e4b", "https://vgmdb.net/album/31030"]
 
-[32ef042cacc61db58f8cccaecc41d994]
+[2ba06f8aca64cd7042172927f6feccdb]
 catalognumber = "MTCD-0005"
 date = "2011-12-30"
 album = "Anime Song Orchestra II Arrangement"
 tracks = [
-    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste", 0],
+    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste", 1],
     [2, "READY!!（「アイドルマスター」より）", "ネオ", 0],
     [3, "ブルーウォーター（「ふしぎの海のナディア」より）", "ARA", 0],
     [4, "正解はひとつ!じゃない!!（「探偵オペラ ミルキィホームズ」より）", "ネオ", 0],
     [5, "ETERNAL BLAZE（「魔法少女リリカルなのはA's」より）", "taste", 0],
-    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ", 0],
+    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ", 1],
     [7, "花のささやき（「小公女セーラ」より）", "ARA", 0],
     [8, "Zzz（「日常」より）", "taste", 0],
     [9, "STEP（「魔神英雄伝ワタル」より）", "ARA", 0],
@@ -588,7 +588,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b2703d6e-de59-452f-8dd5-a222885f8e4b", "https://vgmdb.net/album/31030"]
 
-[60aebd0fd05252ab15f03516e8cbf165]
+[d6a85b72414bf7a80a9702e731bb2788]
 catalognumber = "SDCD-012"
 date = "2011-12-30"
 album = "My Favorite Symphonies vol.1"
@@ -597,37 +597,37 @@ tracks = [
     [2, "一番の宝物", "", 0],
     [3, "聖徳伝説", "", 0],
     [4, "oath sign", "", 0],
-    [5, "コネクト", "", 0],
+    [5, "コネクト", "", 1],
 ]
 links = ["https://vgmdb.net/album/32289"]
 
-[d2ca9ff7f9be347fcc0c4e2f1f2684d1]
+[59672cc142c0f7e04857e0c2bfa5b245]
 catalognumber = "TAM3-0086"
 date = "2011-12-30"
 album = "まど☆マギ フィナーレ"
 tracks = [
-    [1, "Magia フィナーレ", "TAM×けいえむ×℃iel", 0],
+    [1, "Magia フィナーレ", "TAM×けいえむ×℃iel", 1],
     [2, "きゅうベエのテーマ フィナーレ", "TAM×ice×irony", 0],
     [3, "マミさんの戦闘テーマ フィナーレ", "TAM×ice×小松菜", 0],
     [4, "さやかのテーマ", "TAM×ice", 0],
     [5, "魔女登場のテーマ", "TAM×梗", 0],
-    [6, "Magia 弦楽四重奏", "TAM", 0],
+    [6, "Magia 弦楽四重奏", "TAM", 1],
     [7, "魔女さやかのテーマ", "TAM×ice", 0],
     [8, "キュウべえの営業テーマの主題による弦楽四重即興曲", "TAM", 0],
-    [9, "コネクト ヴァイオリントランス", "TAM×cittan*", 0],
+    [9, "コネクト ヴァイオリントランス", "TAM×cittan*", 1],
     [10, "マミさんの戦闘テーマ　ピアノ弦楽八重奏", "TAM×弦奏楽団", 0],
-    [11, "Magia classic short ver.", "TAM×Paperblossom", 0],
-    [12, "コネクト フィナーレ", "TAM×けいえむ×irony", 0],
+    [11, "Magia classic short ver.", "TAM×Paperblossom", 1],
+    [12, "コネクト フィナーレ", "TAM×けいえむ×irony", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2955f50d-5092-4225-9b04-592c0634db94", "https://vgmdb.net/album/30614"]
 
-[00f8f3cdcb8ab8714083d821cd7f0663]
+[22234f59292e8d2a6fe55801ed77a753]
 catalognumber = "HZMD-0030"
 date = "2011-12-31"
 album = "『魔法少女まどか☆マギカ』 コンピレーションアルバム 「Lux Aeterna～魔法少女たちに捧ぐ」"
 tracks = [
     [1, "Lux Aeterna - Introitus", "", 0],
-    [2, "Magia", "", 0],
+    [2, "Magia", "", 1],
     [3, "Mahou Shoujo no Shukumei", "", 0],
     [4, "Unmei no Kodou", "", 0],
     [5, "Fuga \"Credens Justitiam\"", "", 0],
@@ -636,7 +636,7 @@ tracks = [
     [8, "Recordare", "", 0],
     [9, "Stelle*Cadenti", "", 0],
     [10, "Symposium magarum", "", 0],
-    [11, "Ave Maria (BWV846 Preludium)", "", 0],
+    [11, "Ave Maria (BWV846 Preludium)", "", 1],
     [12, "Laudamus te (BWV846 Fuga)", "", 0],
     [13, "Inevitabilis -Bells Mix-", "", 0],
     [14, "Surgam identidem (Symphonic Metal Ver.)", "", 0],
@@ -646,45 +646,45 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/32281"]
 
-[2aebf4e5d2bb1c9546acd11d392b0043]
+[51dc49b962544010c10d26a730cfcf3e]
 catalognumber = "AOA-1201L"
 date = "2012-02-14"
 album = "Puella Magi Madoka Magica Original Soundtrack I"
 tracks = [
-    [1, "Sis puella magica!", "梶浦由記", 0],
-    [2, "Salve, terrae magicae", "梶浦由記", 0],
-    [3, "Gradus prohibitus", "梶浦由記", 0],
-    [4, "Credens justitiam", "梶浦由記", 0],
-    [5, "Clementia", "梶浦由記", 0],
-    [6, "Desiderium", "梶浦由記", 0],
-    [7, "Conturbatio", "梶浦由記", 0],
-    [8, "Postmeridie", "梶浦由記", 0],
-    [9, "Puella in somnio", "梶浦由記", 0],
-    [10, "Umbra nigra", "梶浦由記", 0],
-    [11, "Terror adhaerens", "梶浦由記", 0],
-    [12, "Scaena felix", "梶浦由記", 0],
-    [13, "Pugna cum maga", "梶浦由記", 0],
+    [1, "Sis puella magica!", "梶浦由記", 1],
+    [2, "Salve, terrae magicae", "梶浦由記", 1],
+    [3, "Gradus prohibitus", "梶浦由記", 1],
+    [4, "Credens justitiam", "梶浦由記", 1],
+    [5, "Clementia", "梶浦由記", 1],
+    [6, "Desiderium", "梶浦由記", 1],
+    [7, "Conturbatio", "梶浦由記", 1],
+    [8, "Postmeridie", "梶浦由記", 1],
+    [9, "Puella in somnio", "梶浦由記", 1],
+    [10, "Umbra nigra", "梶浦由記", 1],
+    [11, "Terror adhaerens", "梶浦由記", 1],
+    [12, "Scaena felix", "梶浦由記", 1],
+    [13, "Pugna cum maga", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b2caf4a3-e544-4cc7-9036-b848c6f8d81e", "https://vgmdb.net/album/39129"]
 
-[62ea2e9fbf28363c0c677cbd1012014c]
+[419430ad9deda2ac8c9513f5ea223954]
 catalognumber = "ANZX-9124"
 date = "2012-03-14"
 album = "Puella Magi Madoka Magica Special CD 1 Original Soundtrack I"
 tracks = [
-    [1, "Sis puella magica!", "梶浦由記", 0],
-    [2, "Salve, terrae magicae", "梶浦由記", 0],
-    [3, "Gradus prohibitus", "梶浦由記", 0],
-    [4, "Credens justitiam", "梶浦由記", 0],
-    [5, "Clementia", "梶浦由記", 0],
-    [6, "Desiderium", "梶浦由記", 0],
-    [7, "Conturbatio", "梶浦由記", 0],
-    [8, "Postmeridie", "梶浦由記", 0],
-    [9, "Puella in somnio", "梶浦由記", 0],
-    [10, "Umbra nigra", "梶浦由記", 0],
-    [11, "Terror adhaerens", "梶浦由記", 0],
-    [12, "Scaena felix", "梶浦由記", 0],
-    [13, "Pugna cum maga", "梶浦由記", 0],
+    [1, "Sis puella magica!", "梶浦由記", 1],
+    [2, "Salve, terrae magicae", "梶浦由記", 1],
+    [3, "Gradus prohibitus", "梶浦由記", 1],
+    [4, "Credens justitiam", "梶浦由記", 1],
+    [5, "Clementia", "梶浦由記", 1],
+    [6, "Desiderium", "梶浦由記", 1],
+    [7, "Conturbatio", "梶浦由記", 1],
+    [8, "Postmeridie", "梶浦由記", 1],
+    [9, "Puella in somnio", "梶浦由記", 1],
+    [10, "Umbra nigra", "梶浦由記", 1],
+    [11, "Terror adhaerens", "梶浦由記", 1],
+    [12, "Scaena felix", "梶浦由記", 1],
+    [13, "Pugna cum maga", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bc214c47-ab40-4ac9-8e46-f3344ad3200c", "https://vgmdb.net/album/56387"]
 
@@ -738,7 +738,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b46d9171-7bdc-49ef-b82c-8b3b435bd717", "https://vgmdb.net/album/45379"]
 
-[1e3a2d2bee6d9f9108fa36ab4be914d7]
+[372e478a129d4f482b125dc7055c526d]
 catalognumber = "SEXL-13"
 date = "2012-03-21"
 album = "\"After Eden\" Special LIVE 2011 at TOKYO DOME CITY HALL"
@@ -756,7 +756,7 @@ tracks = [
     [11, "～MC-2～", "", 0],
     [12, "九月", "", 0],
     [13, "sandpiper", "", 0],
-    [14, "Magia", "", 0],
+    [14, "Magia", "", 1],
     [15, "Magnolia", "", 0],
     [16, "destination unknown", "", 0],
     [17, "love come down", "", 0],
@@ -773,7 +773,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/31073"]
 
-[367912c2754a3b2fc7ef2c0745f7be14]
+[89eebf825df3cc911a39669278b99969]
 catalognumber = "SEBL-138"
 date = "2012-03-21"
 album = "\"After Eden\" Special LIVE 2011 at TOKYO DOME CITY HALL"
@@ -791,7 +791,7 @@ tracks = [
     [11, "～MC-2～", "", 0],
     [12, "九月", "", 0],
     [13, "sandpiper", "", 0],
-    [14, "Magia", "", 0],
+    [14, "Magia", "", 1],
     [15, "Magnolia", "", 0],
     [16, "destination unknown", "", 0],
     [17, "love come down", "", 0],
@@ -808,27 +808,27 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/31074"]
 
-[177d829b20576bef8edeb5cc504b1f1f]
+[b9441d1fbae8282859fc65ead83fcb01]
 catalognumber = "AOA-1202L"
 date = "2012-04-10"
 album = "Puella Magi Madoka Magica Original Soundtrack II"
 tracks = [
-    [1, "Decretum", "梶浦由記", 0],
-    [2, "Agmen clientum", "梶浦由記", 0],
-    [3, "Venari strigas", "梶浦由記", 0],
-    [4, "Signum malum", "梶浦由記", 0],
-    [5, "Amicae carae meae", "梶浦由記", 0],
-    [6, "Incertus", "梶浦由記", 0],
-    [7, "Inevitabilis", "梶浦由記", 0],
-    [8, "Serena ira", "梶浦由記", 0],
-    [9, "Anima mala", "梶浦由記", 0],
-    [10, "Pugna infinita", "梶浦由記", 0],
-    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 0],
-    [12, "Ave Maria", "城戸喜代, 美野春樹", 0],
+    [1, "Decretum", "梶浦由記", 1],
+    [2, "Agmen clientum", "梶浦由記", 1],
+    [3, "Venari strigas", "梶浦由記", 1],
+    [4, "Signum malum", "梶浦由記", 1],
+    [5, "Amicae carae meae", "梶浦由記", 1],
+    [6, "Incertus", "梶浦由記", 1],
+    [7, "Inevitabilis", "梶浦由記", 1],
+    [8, "Serena ira", "梶浦由記", 1],
+    [9, "Anima mala", "梶浦由記", 1],
+    [10, "Pugna infinita", "梶浦由記", 1],
+    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 1],
+    [12, "Ave Maria", "城戸喜代, 美野春樹", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f6d7a543-e6ad-4962-85f2-9549490b1a30", "https://vgmdb.net/album/39145"]
 
-[6a272e39f89d4a253bb61325de06f7b7]
+[1504c67e84c5fce2ca27518f0c23253d]
 catalognumber = "SECL-1111~3"
 date = "2012-04-11"
 album = "BIRTHDAY / ClariS Disc 1 (CD) [SECL-1111]"
@@ -839,7 +839,7 @@ tracks = [
     [4, "メモリー", "ClariS", 0],
     [5, "nexus", "ClariS", 0],
     [6, "flowery", "ClariS", 0],
-    [7, "コネクト", "ClariS", 0],
+    [7, "コネクト", "ClariS", 1],
     [8, "プロミス", "ClariS", 0],
     [9, "graduation", "ClariS", 0],
     [10, "treasure", "ClariS", 0],
@@ -858,7 +858,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/990a8d07-9fa1-4b3e-885b-d192e766a544", "https://vgmdb.net/album/31771"]
 
-[d298ba7865c88c6119f0954178bd9219]
+[f0b4e31dc9c3af90d217c9e415d70199]
 catalognumber = "SECL-1115~6"
 date = "2012-04-11"
 album = "BIRTHDAY / ClariS [Limited Edition] Vocal"
@@ -869,7 +869,7 @@ tracks = [
     [4, "メモリー", "ClariS", 0],
     [5, "nexus", "ClariS", 0],
     [6, "flowery", "ClariS", 0],
-    [7, "コネクト", "ClariS", 0],
+    [7, "コネクト", "ClariS", 1],
     [8, "プロミス", "ClariS", 0],
     [9, "graduation", "ClariS", 0],
     [10, "treasure", "ClariS", 0],
@@ -878,7 +878,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf", "https://vgmdb.net/album/31772"]
 
-[10696e7ea2fbdabd0c7c9df3539a00cd]
+[aa6ad5ba0f8e5ac247828ccd519fc53d]
 catalognumber = "SECL-1115~6"
 date = "2012-04-11"
 album = "BIRTHDAY / ClariS [Limited Edition] Disc 2 (DVD) [SECL-1116]"
@@ -887,12 +887,12 @@ tracks = [
     [2, "TVアニメ「魔法少女まどか☆マギカ」ノンクレジットOP映像", "ClariS", 0],
     [3, "TVアニメ「偽物語」ノンクレジットED映像", "ClariS", 0],
     [4, "irony TV CM集", "ClariS", 0],
-    [5, "コネクト TV CM集", "ClariS", 0],
+    [5, "コネクト TV CM集", "ClariS", 1],
     [6, "ナイショの話 TV CM集", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf", "https://vgmdb.net/album/31772"]
 
-[5cf98a19faf90d1578aa98f51ecc9a23]
+[e7af1f3c2d998ae6a3fd6f216183f3df]
 catalognumber = "SECL-1114"
 date = "2012-04-11"
 album = "BIRTHDAY / ClariS"
@@ -903,7 +903,7 @@ tracks = [
     [4, "メモリー", "ClariS", 0],
     [5, "nexus", "ClariS", 0],
     [6, "flowery", "ClariS", 0],
-    [7, "コネクト", "ClariS", 0],
+    [7, "コネクト", "ClariS", 1],
     [8, "プロミス", "ClariS", 0],
     [9, "graduation", "ClariS", 0],
     [10, "treasure", "ClariS", 0],
@@ -912,23 +912,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1e699948-c7c8-4bb2-9f8b-62e14b882a5d", "https://vgmdb.net/album/31770"]
 
-[3caa5f0790ef61c8adf336a462dab854]
+[fdd395b9960ff77228ce74d817bef80f]
 catalognumber = "ANZX-9128"
 date = "2012-04-18"
 album = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack II"
 tracks = [
-    [1, "Decretum", "梶浦由記", 0],
-    [2, "Agmen clientum", "梶浦由記", 0],
-    [3, "Venari strigas", "梶浦由記", 0],
-    [4, "Signum malum", "梶浦由記", 0],
-    [5, "Amicae carae meae", "梶浦由記", 0],
-    [6, "Incertus", "梶浦由記", 0],
-    [7, "Inevitabilis", "梶浦由記", 0],
-    [8, "Serena ira", "梶浦由記", 0],
-    [9, "Anima mala", "梶浦由記", 0],
-    [10, "Pugna infinita", "梶浦由記", 0],
-    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 0],
-    [12, "Ave Maria", "城戸喜代, 美野春樹", 0],
+    [1, "Decretum", "梶浦由記", 1],
+    [2, "Agmen clientum", "梶浦由記", 1],
+    [3, "Venari strigas", "梶浦由記", 1],
+    [4, "Signum malum", "梶浦由記", 1],
+    [5, "Amicae carae meae", "梶浦由記", 1],
+    [6, "Incertus", "梶浦由記", 1],
+    [7, "Inevitabilis", "梶浦由記", 1],
+    [8, "Serena ira", "梶浦由記", 1],
+    [9, "Anima mala", "梶浦由記", 1],
+    [10, "Pugna infinita", "梶浦由記", 1],
+    [11, "Vocalise Op.34 no.14", "梶浦由記, 城戸喜代, 美野春樹", 1],
+    [12, "Ave Maria", "城戸喜代, 美野春樹", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/81a8203c-eb6e-435f-bb97-ddad79e608d3", "https://vgmdb.net/album/56388"]
 
@@ -974,24 +974,24 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0f8e3ee4-6e0e-4cfc-961b-6e259cadfbd1", "https://vgmdb.net/album/32724"]
 
-[4b4591515ffee89e1f965ddf53e9cd14]
+[43984acaf4c1a6fd9da727a44500a25f]
 catalognumber = "ANZX-9132"
 date = "2012-05-16"
 album = "Puella Magi Madoka Magica Special CD 3 Original Soundtrack III"
 tracks = [
-    [1, "Numquam vincar", "梶浦由記", 0],
-    [2, "Quamobrem?", "梶浦由記", 0],
-    [3, "Cor destructum", "梶浦由記", 0],
-    [4, "Surgam identidem", "梶浦由記", 0],
-    [5, "Confessio", "梶浦由記", 0],
-    [6, "Sagitta luminis", "梶浦由記", 0],
-    [7, "Nux Walpurgis", "梶浦由記", 0],
-    [8, "Cubilulum album", "梶浦由記", 0],
-    [9, "Taenia memoriae", "梶浦由記", 0],
-    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 0],
-    [11, "Symposium magarum", "梶浦由記", 0],
-    [12, "Pergo pugnare", "梶浦由記", 0],
-    [13, "コネクト -ゲームインスト-", "梶浦由記", 0],
+    [1, "Numquam vincar", "梶浦由記", 1],
+    [2, "Quamobrem?", "梶浦由記", 1],
+    [3, "Cor destructum", "梶浦由記", 1],
+    [4, "Surgam identidem", "梶浦由記", 1],
+    [5, "Confessio", "梶浦由記", 1],
+    [6, "Sagitta luminis", "梶浦由記", 1],
+    [7, "Nux Walpurgis", "梶浦由記", 1],
+    [8, "Cubilulum album", "梶浦由記", 1],
+    [9, "Taenia memoriae", "梶浦由記", 1],
+    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 1],
+    [11, "Symposium magarum", "梶浦由記", 1],
+    [12, "Pergo pugnare", "梶浦由記", 1],
+    [13, "コネクト -ゲームインスト-", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fc208036-a5c0-46bf-9872-3191d41d7d8b", "https://vgmdb.net/album/56389"]
 
@@ -1014,28 +1014,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cdd7a819-053c-48cb-8a92-8b5aaa90397c", "https://vgmdb.net/album/33323"]
 
-[b582163edd8eb16edb2b29a7aefdabfc]
+[f15c2e6d3d3d5ac6c2da514315cc059e]
 catalognumber = "AOA-1203L"
 date = "2012-06-12"
 album = "Puella Magi Madoka Magica Original Soundtrack III"
 tracks = [
-    [1, "Numquam vincar", "梶浦由記", 0],
-    [2, "Quamobrem?", "梶浦由記", 0],
-    [3, "Cor destructum", "梶浦由記", 0],
-    [4, "Surgam identidem", "梶浦由記", 0],
-    [5, "Confessio", "梶浦由記", 0],
-    [6, "Sagitta luminis", "梶浦由記", 0],
-    [7, "Nux Walpurgis", "梶浦由記", 0],
-    [8, "Cubilulum album", "梶浦由記", 0],
-    [9, "Taenia memoriae", "梶浦由記", 0],
-    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 0],
-    [11, "Symposium magarum", "梶浦由記", 0],
-    [12, "Pergo pugnare", "梶浦由記", 0],
-    [13, "Connect -Game Instrumental-", "梶浦由記", 0],
+    [1, "Numquam vincar", "梶浦由記", 1],
+    [2, "Quamobrem?", "梶浦由記", 1],
+    [3, "Cor destructum", "梶浦由記", 1],
+    [4, "Surgam identidem", "梶浦由記", 1],
+    [5, "Confessio", "梶浦由記", 1],
+    [6, "Sagitta luminis", "梶浦由記", 1],
+    [7, "Nux Walpurgis", "梶浦由記", 1],
+    [8, "Cubilulum album", "梶浦由記", 1],
+    [9, "Taenia memoriae", "梶浦由記", 1],
+    [10, "La Fille aux Cheveux de Lin", "梶浦由記", 1],
+    [11, "Symposium magarum", "梶浦由記", 1],
+    [12, "Pergo pugnare", "梶浦由記", 1],
+    [13, "Connect -Game Instrumental-", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/53501956-1612-4090-b4ec-b81a61327a1d", "https://vgmdb.net/album/39146"]
 
-[2150c82f578891a8f7b38cca9b34f244]
+[a0fc12317d4fbe5f6ca5c7a746c85be4]
 catalognumber = "ARN0004"
 date = "2012-07-07"
 album = "A-Remix Nation 4 Disc 1"
@@ -1043,7 +1043,7 @@ tracks = [
     [1, "The Moon is Not Alone (LU-I Remix)", "LU-I", 0],
     [2, "太陽曰く燃えよカオス (pocotan Remix)", "pocotan", 0],
     [3, "→unfinished→ (More Acceleration MIX)", "SW a.k.a Shingo Oka", 0],
-    [4, "コネクト（Ucore Remix)", "you", 0],
+    [4, "コネクト（Ucore Remix)", "you", 1],
     [5, "Futuristic Player (Chu-chu's JUMPSTYLE Remix)", "Chu-chu", 0],
     [6, "coloring(pollinosis Remix)", "pollinosis", 0],
     [7, "マイペースで行きましょう(津田美波さんと大久保瑠美さんが好きなHiRoSYO's remix)", "HiRoSYO", 0],
@@ -1055,7 +1055,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01b701b7-9b8b-489d-a60b-4b6ac66b738d", "https://vgmdb.net/album/148867"]
 
-[c33b56f00f44885bec53d43d720101e2]
+[ec6942b1233f9f5878b9037ebc48ce0a]
 catalognumber = "ARN0004"
 date = "2012-07-07"
 album = "A-Remix Nation 4 Disc 2"
@@ -1065,7 +1065,7 @@ tracks = [
     [3, "緋色の空 (Ebon Remix)", "Ebon", 0],
     [4, "マブラヴ(モンスター視聴者REMIX)", "モンスター視聴者", 0],
     [5, "優しさの理由 (saqwz J-Core Remix)", "saqwz", 0],
-    [6, "また あした(AkamatzStep Remix)", "so-fram*c", 0],
+    [6, "また あした(AkamatzStep Remix)", "so-fram*c", 1],
     [7, "ゆりゆららららゆるゆり大事件 (Helianthuz! Bootleg Mix)", "Helianthuz!", 0],
     [8, "secret base ～君がくれたもの～ (DJ.ManabirdsTranceRemix)", "DJ.Manabirds", 0],
     [9, "Aura ～ 白の少女 ～(Helblinde Remix)", "Helblinde", 0],
@@ -1076,7 +1076,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/01b701b7-9b8b-489d-a60b-4b6ac66b738d", "https://vgmdb.net/album/148867"]
 
-[19326c3a331b500a66835c6cbde92a57]
+[8f9772157fc378ea5d7eede03e5787e1]
 catalognumber = "DPCA-1006"
 date = "2012-07-25"
 album = "3D-PIANO ANIME Theater!"
@@ -1084,7 +1084,7 @@ tracks = [
     [1, "ヒャダインのじょーじょーゆーじょー", "紅い流星(L)×まらしぃ(C)×H ZETT M(R)", 0],
     [2, "ムーンライト伝説", "H ZETT M(L)×紅い流星(C)×まらしぃ(R)", 0],
     [3, "ワイワイワールド", "H ZETT M(L)×まらしぃ(C)×紅い流星(R)", 0],
-    [4, "コネクト", "まらしぃ", 0],
+    [4, "コネクト", "まらしぃ", 1],
     [5, "マジLOVE1000%", "H ZETT M(L)×紅い流星(C)×まらしぃ(R)", 0],
     [6, "君の知らない物語", "紅い流星(L)×まらしぃ(C)×H ZETT M(R)", 0],
     [7, "ゲゲゲの鬼太郎", "まらしぃ(L)×H ZETT M(C)×紅い流星(R)", 0],
@@ -1103,7 +1103,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cd78565a-96dd-414d-a9c2-f220f04e8478", "https://vgmdb.net/album/34426"]
 
-[97959c5e1fa9e512f8b5e328ba3097a1]
+[d36cd1a1c556024a2e8207e11ec87fad]
 catalognumber = "PLR-004"
 date = "2012-09-06"
 album = "TSF Project Our Booty Vol.1"
@@ -1111,131 +1111,131 @@ tracks = [
     [1, "Summer Jam (TSF Project Bootleg Mix)", "", 0],
     [2, "Deofairy (2k12 Club Mix)", "", 0],
     [3, "手をギュしてね (TSF Project Bootleg Mix)", "", 0],
-    [4, "また あした (TSF Project Bootleg Mix)", "", 0],
+    [4, "また あした (TSF Project Bootleg Mix)", "", 1],
     [5, "Pederastia (LOLIPO Remix)", "", 0],
 ]
 links = ["https://vgmdb.net/album/35291"]
 
-[d6de8f0f0abccbe83432ab75801816ab]
+[ad702913196432fb0813ffbc4d77684e]
 catalognumber = "SECL-1195"
 date = "2012-10-10"
 album = "ルミナス / ClariS"
 tracks = [
-    [1, "ルミナス", "ClariS", 0],
-    [2, "Friends", "ClariS", 0],
-    [3, "blossom", "ClariS", 0],
-    [4, "ルミナス -instrumental-", "ClariS", 0],
+    [1, "ルミナス", "ClariS", 1],
+    [2, "Friends", "ClariS", 1],
+    [3, "blossom", "ClariS", 1],
+    [4, "ルミナス -instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a6ccec1f-35f9-45c0-851d-d157c00e9890", "https://vgmdb.net/album/34460"]
 
-[a104a0fd33120622b32b3716d8bab459]
+[f8323c0e7dd70d17f439e114cab09767]
 catalognumber = "SECL-1196"
 date = "2012-10-10"
 album = "ルミナス / ClariS"
 tracks = [
-    [1, "ルミナス", "ClariS", 0],
-    [2, "Friends", "ClariS", 0],
-    [3, "blossom", "ClariS", 0],
-    [4, "ルミナス -movie MIX-", "ClariS", 0],
-    [5, "コネクト -Orchestra ver.- (short EDIT)", "ClariS", 0],
+    [1, "ルミナス", "ClariS", 1],
+    [2, "Friends", "ClariS", 1],
+    [3, "blossom", "ClariS", 1],
+    [4, "ルミナス -movie MIX-", "ClariS", 1],
+    [5, "コネクト -Orchestra ver.- (short EDIT)", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/398c02bd-5042-40e7-bbd5-abac7258deb7", "https://vgmdb.net/album/34461"]
 
-[3ac6b68c5dcbf73c941ed53b051a50fe]
+[6426306707f45010222f5ee7ad46bd35]
 catalognumber = "SECL-1193~4"
 date = "2012-10-10"
 album = "ルミナス / ClariS Vocal"
 tracks = [
-    [1, "ルミナス", "ClariS", 0],
-    [2, "Friends", "ClariS", 0],
-    [3, "blossom", "ClariS", 0],
-    [4, "ルミナス -instrumental-", "ClariS", 0],
+    [1, "ルミナス", "ClariS", 1],
+    [2, "Friends", "ClariS", 1],
+    [3, "blossom", "ClariS", 1],
+    [4, "ルミナス -instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b917299f-b5e5-4a4a-b63e-b97bfe5bb231", "https://vgmdb.net/album/34459"]
 
-[fda82ba8bdd9ec020f2aba55e5322668]
+[b0897d83c5fb37c30fba87a7cca85d48]
 catalognumber = "SECL-1193~4"
 date = "2012-10-10"
 album = "ルミナス / ClariS Video"
 tracks = [
-    [1, "ルミナス Music Video", "ClariS", 0],
+    [1, "ルミナス Music Video", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b917299f-b5e5-4a4a-b63e-b97bfe5bb231", "https://vgmdb.net/album/34459"]
 
-[e8cea65dbfb7dc49f071394607c68201]
+[1b1c3a370ae9751d0bed408ca6e91a04]
 catalognumber = "SECL-1205~6"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Arrangement, Vocal"
 tracks = [
-    [1, "ひかりふる", "Kalafina", 0],
-    [2, "未来", "Kalafina", 0],
-    [3, "Magia [quattro]", "Kalafina", 0],
-    [4, "ひかりふる 〜instrumental〜", "Kalafina", 0],
-    [5, "未来 〜instrumental〜", "Kalafina", 0],
-    [6, "Magia [quattro] 〜instrumental〜", "Kalafina", 0],
+    [1, "ひかりふる", "Kalafina", 1],
+    [2, "未来", "Kalafina", 1],
+    [3, "Magia [quattro]", "Kalafina", 1],
+    [4, "ひかりふる 〜instrumental〜", "Kalafina", 1],
+    [5, "未来 〜instrumental〜", "Kalafina", 1],
+    [6, "Magia [quattro] 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/591eef65-7602-4af5-8708-0b258289fa1e", "https://vgmdb.net/album/34954"]
 
-[b9e8e403bf01eae64d0ee460ee4919c0]
+[a6def1c598e4624be565e208072a9e55]
 catalognumber = "SECL-1205~6"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Video"
 tracks = [
-    [1, "ひかりふる Music Video", "Kalafina", 0],
+    [1, "ひかりふる Music Video", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3d1c7e73-1e43-4ede-a7f8-ddaefe4c57a7", "https://vgmdb.net/album/34954"]
 
-[2d3f1d243f4fc5e8c4772db365b73d2a]
+[3c09a6701ff7ed2120d8853e13088677]
 catalognumber = "SECL-1200~1"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Arrangement, Vocal"
 tracks = [
-    [1, "ひかりふる", "Kalafina", 0],
-    [2, "未来", "Kalafina", 0],
-    [3, "Magia [quattro]", "Kalafina", 0],
-    [4, "ひかりふる 〜instrumental〜", "Kalafina", 0],
+    [1, "ひかりふる", "Kalafina", 1],
+    [2, "未来", "Kalafina", 1],
+    [3, "Magia [quattro]", "Kalafina", 1],
+    [4, "ひかりふる 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/195fb617-1204-4293-956e-4aa2cbe08382", "https://vgmdb.net/album/34951"]
 
-[85ce40a95be551a1e3667c43fb9c6687]
+[fb129b6daf1d211d02dd687f9771758e]
 catalognumber = "SECL-1200~1"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Video"
 tracks = [
-    [1, "ひかりふる Music Video", "Kalafina", 0],
+    [1, "ひかりふる Music Video", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/195fb617-1204-4293-956e-4aa2cbe08382", "https://vgmdb.net/album/34951"]
 
-[037c2fe12736bdbb10a8061fa0c12dfc]
+[a31da360812999ef2d4d2c351d323e06]
 catalognumber = "SECL-1204"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina"
 tracks = [
-    [1, "ひかりふる", "Kalafina", 0],
-    [2, "未来", "Kalafina", 0],
-    [3, "Magia [quattro]", "Kalafina", 0],
-    [4, "ひかりふる 〜instrumental〜", "Kalafina", 0],
+    [1, "ひかりふる", "Kalafina", 1],
+    [2, "未来", "Kalafina", 1],
+    [3, "Magia [quattro]", "Kalafina", 1],
+    [4, "ひかりふる 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7729c062-2f0b-497d-88f2-49723b85fab0", "https://vgmdb.net/album/34953"]
 
-[24bce258c7d76b375435f2c162ea80f7]
+[6d595745eb7554b1f90fb22fe107f7f9]
 catalognumber = "SECL-1202~3"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Arrangement, Vocal"
 tracks = [
-    [1, "ひかりふる", "Kalafina", 0],
-    [2, "未来", "Kalafina", 0],
-    [3, "Magia [quattro]", "Kalafina", 0],
-    [4, "ひかりふる 〜instrumental〜", "Kalafina", 0],
+    [1, "ひかりふる", "Kalafina", 1],
+    [2, "未来", "Kalafina", 1],
+    [3, "Magia [quattro]", "Kalafina", 1],
+    [4, "ひかりふる 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3d1c7e73-1e43-4ede-a7f8-ddaefe4c57a7", "https://vgmdb.net/album/34952"]
 
-[6a16473270d26a28137cc5b5121cbfd3]
+[6110d57dd61f0c8b02dae4e6fbe8401a]
 catalognumber = "SECL-1202~3"
 date = "2012-10-24"
 album = "ひかりふる / Kalafina Video"
 tracks = [
-    [1, "ひかりふる Music Video", "Kalafina", 0],
+    [1, "ひかりふる Music Video", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3d1c7e73-1e43-4ede-a7f8-ddaefe4c57a7", "https://vgmdb.net/album/34952"]
 
@@ -1314,7 +1314,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c6d948f3-9a56-418b-ada6-4c4ec264226a", "https://vgmdb.net/album/36319"]
 
-[4f2fe2e8ad1b3636509ba6b185cd33f6]
+[d23d9cc4371390fce46144f763ea8244]
 catalognumber = "SECL-1229~30"
 date = "2013-01-23"
 album = "Kalafina 5th Anniversary LIVE SELECTION 2009-2012 Disc 2 [SECL-1230]"
@@ -1329,7 +1329,7 @@ tracks = [
     [8, "overture〜Eden", "Kalafina", 0],
     [9, "光の旋律", "Kalafina", 0],
     [10, "overture〜満天", "Kalafina", 0],
-    [11, "Magia", "Kalafina", 0],
+    [11, "Magia", "Kalafina", 1],
     [12, "to the beginning", "Kalafina", 0],
     [13, "symphonia", "Kalafina", 0],
 ]
@@ -1359,7 +1359,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b27a4f7b-954d-4c5e-8514-effb0549525a", "https://vgmdb.net/album/36318"]
 
-[ab354fb67cd06aedee7c21f0c907e557]
+[c76a370205eb4241228c92d3ad127d0d]
 catalognumber = "SECL-1225~8"
 date = "2013-01-23"
 album = "Kalafina 5th Anniversary LIVE SELECTION 2009-2012 [Limited Edition] Vocal, Live Event Disc 2"
@@ -1374,7 +1374,7 @@ tracks = [
     [8, "overture〜Eden", "Kalafina", 0],
     [9, "光の旋律", "Kalafina", 0],
     [10, "overture〜満天", "Kalafina", 0],
-    [11, "Magia", "Kalafina", 0],
+    [11, "Magia", "Kalafina", 1],
     [12, "to the beginning", "Kalafina", 0],
     [13, "symphonia", "Kalafina", 0],
 ]
@@ -1396,21 +1396,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b27a4f7b-954d-4c5e-8514-effb0549525a", "https://vgmdb.net/album/36318"]
 
-[b7aef2730b5303222a580f2e833a7946]
+[537ec7b13a4115d6f6efc8db1562e855]
 catalognumber = "SECL-1225~8"
 date = "2013-01-23"
 album = "Kalafina 5th Anniversary LIVE SELECTION 2009-2012 [Limited Edition] Vocal, Video Disc 4"
 tracks = [
     [1, "輝く空の静寂には", "Kalafina", 0],
-    [2, "Magia", "Kalafina", 0],
+    [2, "Magia", "Kalafina", 1],
     [3, "symphonia", "Kalafina", 0],
     [4, "to the beginning", "Kalafina", 0],
     [5, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
-    [6, "ひかりふる", "Kalafina", 0],
+    [6, "ひかりふる", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b27a4f7b-954d-4c5e-8514-effb0549525a", "https://vgmdb.net/album/36318"]
 
-[39464535646c9337d60e3973dfcaa998]
+[125bf3989f1f66588f6ccad8df19db5d]
 catalognumber = "SECL-1280~1"
 date = "2013-03-20"
 album = "Consolation / Kalafina [Limited Edition] Disc 1 (CD) [SECL-1280]"
@@ -1419,14 +1419,14 @@ tracks = [
     [2, "consolation", "Kalafina", 0],
     [3, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
     [4, "Door", "Kalafina", 0],
-    [5, "未来", "Kalafina", 0],
+    [5, "未来", "Kalafina", 1],
     [6, "花束", "Kalafina", 0],
     [7, "signal", "Kalafina", 0],
     [8, "obbligato", "Kalafina", 0],
     [9, "木苺の茂みに", "Kalafina", 0],
     [10, "満天", "Kalafina", 0],
     [11, "to the beginning", "Kalafina", 0],
-    [12, "ひかりふる", "Kalafina", 0],
+    [12, "ひかりふる", "Kalafina", 1],
     [13, "夢の大地", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f371942d-ff1a-4ef6-8faa-4684fa18cb85", "https://vgmdb.net/album/37491"]
@@ -1441,7 +1441,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f371942d-ff1a-4ef6-8faa-4684fa18cb85", "https://vgmdb.net/album/37491"]
 
-[b121997764d229274c1b55c84eaef574]
+[d142376b99d54bcdcafbc83ea1a4d4e6]
 catalognumber = "SECL-1284"
 date = "2013-03-20"
 album = "Consolation / Kalafina"
@@ -1450,19 +1450,19 @@ tracks = [
     [2, "consolation", "Kalafina", 0],
     [3, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
     [4, "Door", "Kalafina", 0],
-    [5, "未来", "Kalafina", 0],
+    [5, "未来", "Kalafina", 1],
     [6, "花束", "Kalafina", 0],
     [7, "signal", "Kalafina", 0],
     [8, "obbligato", "Kalafina", 0],
     [9, "木苺の茂みに", "Kalafina", 0],
     [10, "満天", "Kalafina", 0],
     [11, "to the beginning", "Kalafina", 0],
-    [12, "ひかりふる", "Kalafina", 0],
+    [12, "ひかりふる", "Kalafina", 1],
     [13, "夢の大地", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/bf76ce5c-4f27-4324-bc46-698ff0db6328", "https://vgmdb.net/album/37493"]
 
-[fb5eee50c1d928e219a48cbffd78ae88]
+[6cf585026eed53ba6ea463ce40eeb583]
 catalognumber = "SECL-1282~3"
 date = "2013-03-20"
 album = "Consolation / Kalafina [Limited Edition] Disc 1 (CD) [SECL-1282]"
@@ -1471,14 +1471,14 @@ tracks = [
     [2, "consolation", "Kalafina", 0],
     [3, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
     [4, "Door", "Kalafina", 0],
-    [5, "未来", "Kalafina", 0],
+    [5, "未来", "Kalafina", 1],
     [6, "花束", "Kalafina", 0],
     [7, "signal", "Kalafina", 0],
     [8, "obbligato", "Kalafina", 0],
     [9, "木苺の茂みに", "Kalafina", 0],
     [10, "満天", "Kalafina", 0],
     [11, "to the beginning", "Kalafina", 0],
-    [12, "ひかりふる", "Kalafina", 0],
+    [12, "ひかりふる", "Kalafina", 1],
     [13, "夢の大地", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2aeed900-d904-4c69-94e8-735dd23651e2", "https://vgmdb.net/album/37492"]
@@ -1493,14 +1493,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2aeed900-d904-4c69-94e8-735dd23651e2", "https://vgmdb.net/album/37492"]
 
-[0dfcb1adb76956addce0d92ee1baf54d]
+[a87cb686901ddc791115b5b4cc9e5783]
 catalognumber = "FLLM-020"
 date = "2013-06-05"
 album = "天真爛漫!アニソンカバーMIX!!"
 tracks = [
     [1, "Light My Fire", "", 0],
     [2, "オルフェ", "", 0],
-    [3, "コネクト", "", 0],
+    [3, "コネクト", "", 1],
     [4, "オリオンをなぞる", "", 0],
     [5, "Chase the world", "", 0],
     [6, "Super Driver", "", 0],
@@ -1526,7 +1526,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118868"]
 
-[85000b5671e2c8cce5beb379143ff7a7]
+[56cf6574014dac024d966af7a83c5381]
 catalognumber = "SECL-1331~3"
 date = "2013-06-26"
 album = "SECOND STORY / ClariS [完全生産限定盤] Vocal"
@@ -1537,7 +1537,7 @@ tracks = [
     [4, "rainy day", "ClariS", 0],
     [5, "HANABI", "ClariS", 0],
     [6, "with you", "ClariS", 0],
-    [7, "ルミナス", "ClariS", 0],
+    [7, "ルミナス", "ClariS", 1],
     [8, "ダイアリー", "ClariS", 0],
     [9, "eternally", "ClariS", 0],
     [10, "ひとつだけ", "ClariS", 0],
@@ -1546,23 +1546,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/787b7fdf-9928-457a-9dfd-3a5c4838f206", "https://vgmdb.net/album/39090"]
 
-[6e2e08287a75399e7bb904342f4d26f4]
+[7e43839089bf5415b74e0a9b2dbbf2cf]
 catalognumber = "SECL-1331~3"
 date = "2013-06-26"
 album = "SECOND STORY / ClariS [完全生産限定盤] Video"
 tracks = [
     [1, "Wake Up Music Video", "ClariS", 0],
-    [2, "ルミナス Music Video", "ClariS", 0],
+    [2, "ルミナス Music Video", "ClariS", 1],
     [3, "reunion Music Video", "ClariS", 0],
     [4, "with you Music Video", "ClariS", 0],
     [5, "Wake Up TV CM", "ClariS", 0],
-    [6, "ルミナス TV CM", "ClariS", 0],
+    [6, "ルミナス TV CM", "ClariS", 1],
     [7, "reunion TV CM集", "ClariS", 0],
     [8, "SECOND STORY TV CM集", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/787b7fdf-9928-457a-9dfd-3a5c4838f206", "https://vgmdb.net/album/39090"]
 
-[e6da06cfe9f57928a729d02b00ddf265]
+[001bc734f63aa6581a0184cc091c6ebb]
 catalognumber = "SECL-1334~5"
 date = "2013-06-26"
 album = "SECOND STORY / ClariS [期間生産限定盤] Vocal"
@@ -1573,7 +1573,7 @@ tracks = [
     [4, "rainy day", "ClariS", 0],
     [5, "HANABI", "ClariS", 0],
     [6, "with you", "ClariS", 0],
-    [7, "ルミナス", "ClariS", 0],
+    [7, "ルミナス", "ClariS", 1],
     [8, "ダイアリー", "ClariS", 0],
     [9, "eternally", "ClariS", 0],
     [10, "ひとつだけ", "ClariS", 0],
@@ -1582,23 +1582,23 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a373f0da-6d50-473a-999a-d73e9a31b754", "https://vgmdb.net/album/39091"]
 
-[5ca36af41ef228418bf5119cee6f0709]
+[5c7f86be6d0c686ef7fc2b9376864d50]
 catalognumber = "SECL-1334~5"
 date = "2013-06-26"
 album = "SECOND STORY / ClariS [期間生産限定盤] Video"
 tracks = [
     [1, "Wake Up Music Video", "ClariS", 0],
-    [2, "ルミナス Music Video", "ClariS", 0],
+    [2, "ルミナス Music Video", "ClariS", 1],
     [3, "reunion Music Video", "ClariS", 0],
     [4, "with you Music Video", "ClariS", 0],
     [5, "Wake Up TV CM", "ClariS", 0],
-    [6, "ルミナス TV CM", "ClariS", 0],
+    [6, "ルミナス TV CM", "ClariS", 1],
     [7, "reunion TV CM集", "ClariS", 0],
     [8, "SECOND STORY TV CM集", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/a373f0da-6d50-473a-999a-d73e9a31b754", "https://vgmdb.net/album/39091"]
 
-[3fbbe3abeeca58517b49ee0a821911f6]
+[174a40fcfa19b2d0f03e96fc5ef77da1]
 catalognumber = "SECL-1336"
 date = "2013-06-26"
 album = "SECOND STORY / ClariS"
@@ -1609,7 +1609,7 @@ tracks = [
     [4, "rainy day", "ClariS", 0],
     [5, "HANABI", "ClariS", 0],
     [6, "with you", "ClariS", 0],
-    [7, "ルミナス", "ClariS", 0],
+    [7, "ルミナス", "ClariS", 1],
     [8, "ダイアリー", "ClariS", 0],
     [9, "eternally", "ClariS", 0],
     [10, "ひとつだけ", "ClariS", 0],
@@ -1618,69 +1618,69 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6cf0b468-5028-43d3-ad1b-cbcaf8e22426", "https://vgmdb.net/album/39092"]
 
-[7baac50feecf01c6255629ab6c8dc7c4]
+[469cc6faad616f6489c9c8339e9bc813]
 catalognumber = "ANZX-3133"
 date = "2013-07-24"
 album = "劇場版 魔法少女まどか☆マギカ ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "encounter", "梶浦由記", 0],
-    [2, "warning #1", "梶浦由記", 0],
-    [3, "warning #2", "梶浦由記", 0],
-    [4, "odd world #1", "梶浦由記", 0],
-    [5, "odd world #2", "梶浦由記", 0],
-    [6, "no more fear", "梶浦由記", 0],
-    [7, "wo ist die Käse?", "梶浦由記", 0],
-    [8, "short action", "梶浦由記", 0],
-    [9, "fateful #1", "梶浦由記", 0],
-    [10, "something unusual", "梶浦由記", 0],
-    [11, "crises happening", "梶浦由記", 0],
-    [12, "witch world #1", "梶浦由記", 0],
-    [13, "odd world #3", "梶浦由記", 0],
-    [14, "wicked", "梶浦由記", 0],
-    [15, "a human bullet", "梶浦由記", 0],
-    [16, "mother and daughter", "梶浦由記", 0],
-    [17, "touch-and-go", "梶浦由記", 0],
-    [18, "fateful #2", "梶浦由記", 0],
-    [19, "she has a past", "梶浦由記", 0],
-    [20, "she has a heart", "梶浦由記", 0],
-    [21, "complicated mind", "梶浦由記", 0],
-    [22, "wounded feeling", "梶浦由記", 0],
-    [23, "witch world #2", "梶浦由記", 0],
-    [24, "collapse", "梶浦由記", 0],
-    [25, "fateful #3", "梶浦由記", 0],
-    [26, "deep in grief", "梶浦由記", 0],
-    [27, "threatening", "梶浦由記", 0],
-    [28, "she is a witch", "梶浦由記", 0],
-    [29, "fateful #4", "梶浦由記", 0],
-    [30, "facing the truth #1", "梶浦由記", 0],
-    [31, "I’ll be with you", "梶浦由記", 0],
-    [32, "I miss you", "梶浦由記", 0],
-    [33, "time-manipulation", "梶浦由記", 0],
-    [34, "facing the truth #2", "梶浦由記", 0],
-    [35, "her wings", "梶浦由記", 0],
-    [36, "rebirth", "梶浦由記", 0],
-    [37, "for the next episode", "梶浦由記", 0],
+    [1, "encounter", "梶浦由記", 1],
+    [2, "warning #1", "梶浦由記", 1],
+    [3, "warning #2", "梶浦由記", 1],
+    [4, "odd world #1", "梶浦由記", 1],
+    [5, "odd world #2", "梶浦由記", 1],
+    [6, "no more fear", "梶浦由記", 1],
+    [7, "wo ist die Käse?", "梶浦由記", 1],
+    [8, "short action", "梶浦由記", 1],
+    [9, "fateful #1", "梶浦由記", 1],
+    [10, "something unusual", "梶浦由記", 1],
+    [11, "crises happening", "梶浦由記", 1],
+    [12, "witch world #1", "梶浦由記", 1],
+    [13, "odd world #3", "梶浦由記", 1],
+    [14, "wicked", "梶浦由記", 1],
+    [15, "a human bullet", "梶浦由記", 1],
+    [16, "mother and daughter", "梶浦由記", 1],
+    [17, "touch-and-go", "梶浦由記", 1],
+    [18, "fateful #2", "梶浦由記", 1],
+    [19, "she has a past", "梶浦由記", 1],
+    [20, "she has a heart", "梶浦由記", 1],
+    [21, "complicated mind", "梶浦由記", 1],
+    [22, "wounded feeling", "梶浦由記", 1],
+    [23, "witch world #2", "梶浦由記", 1],
+    [24, "collapse", "梶浦由記", 1],
+    [25, "fateful #3", "梶浦由記", 1],
+    [26, "deep in grief", "梶浦由記", 1],
+    [27, "threatening", "梶浦由記", 1],
+    [28, "she is a witch", "梶浦由記", 1],
+    [29, "fateful #4", "梶浦由記", 1],
+    [30, "facing the truth #1", "梶浦由記", 1],
+    [31, "I’ll be with you", "梶浦由記", 1],
+    [32, "I miss you", "梶浦由記", 1],
+    [33, "time-manipulation", "梶浦由記", 1],
+    [34, "facing the truth #2", "梶浦由記", 1],
+    [35, "her wings", "梶浦由記", 1],
+    [36, "rebirth", "梶浦由記", 1],
+    [37, "for the next episode", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5e537876-1cbf-4a5e-86bb-5ff41c50bb43", "https://vgmdb.net/album/38449"]
 
-[0f73d958fea21caed47be6aa19463ce0]
+[b26245e2f0b36cf3af3ff91c528bc8a2]
 catalognumber = "TGCD-0008"
 date = "2013-08-12"
 album = "Jazz Magica"
 tracks = [
-    [1, "コネクト", "TOMATO GUMMY", 0],
+    [1, "コネクト", "TOMATO GUMMY", 1],
     [2, "Credens justitiam", "TOMATO GUMMY", 0],
     [3, "Sis puella magica!", "TOMATO GUMMY", 0],
     [4, "Decretum", "TOMATO GUMMY", 0],
     [5, "Symposium magarum", "TOMATO GUMMY", 0],
     [6, "Salve, terrae magicae", "TOMATO GUMMY", 0],
-    [7, "Magia", "TOMATO GUMMY", 0],
-    [8, "コネクト(Sax ver.)", "TOMATO GUMMY", 0],
-    [9, "Magia(Sax ver.)", "TOMATO GUMMY", 0],
+    [7, "Magia", "TOMATO GUMMY", 1],
+    [8, "コネクト(Sax ver.)", "TOMATO GUMMY", 1],
+    [9, "Magia(Sax ver.)", "TOMATO GUMMY", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/99ad3c87-d391-4eba-8217-8496c8886103", "https://vgmdb.net/album/40916"]
 
-[5bb64f17857f592eb49062e3b4884049]
+[bfd8b1cbfb0469e13a999271b935ab3a]
 catalognumber = "FPCR-020"
 date = "2013-10-27"
 album = "FMPSG020 -DECADE-"
@@ -1698,7 +1698,7 @@ tracks = [
     [11, "ランキング～ランキング・ディスプレイ", "ズオウ・リアキ", 0],
     [12, "酩酊乱舞 1H1D! Vol.30 Remix", "ROPHON", 0],
     [13, "COLONY", "gyabuneko", 0],
-    [14, "コネクト -Hatsune Miku Ver.-", "wani☆右上P", 0],
+    [14, "コネクト -Hatsune Miku Ver.-", "wani☆右上P", 1],
     [15, "メグメル", "ファミコン兄さん", 0],
     [16, "ロボット・マーチ", "BEEPBOY", 0],
     [17, "ペアーズ メインテーマ 完全記憶アレンジ", "Bun", 0],
@@ -1711,118 +1711,118 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/409e1e10-ed45-4176-b83f-ecd1a47e60e5", "https://vgmdb.net/album/42449"]
 
-[4187121d00829a807638dda8ae3a5aaf]
+[1ad0bc3267e345123e2a1fe38d57e67c]
 catalognumber = "SECL-1415"
 date = "2013-10-30"
 album = "カラフル / ClariS"
 tracks = [
-    [1, "カラフル", "ClariS", 0],
-    [2, "Surely", "ClariS", 0],
-    [3, "Pieces", "ClariS", 0],
-    [4, "カラフル -Instrumental-", "ClariS", 0],
+    [1, "カラフル", "ClariS", 1],
+    [2, "Surely", "ClariS", 1],
+    [3, "Pieces", "ClariS", 1],
+    [4, "カラフル -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b2211847-d95e-4ac3-8c7f-e5fa3540d244", "https://vgmdb.net/album/41292"]
 
-[29a58eaced81ce86cce9cd804535b461]
+[37cd94e5eb1212b5d37c23a05b6b4694]
 catalognumber = "SECL-1416"
 date = "2013-10-30"
 album = "カラフル / ClariS"
 tracks = [
-    [1, "カラフル", "ClariS", 0],
-    [2, "Surely", "ClariS", 0],
-    [3, "Pieces", "ClariS", 0],
-    [4, "カラフル -movie MIX-", "ClariS", 0],
+    [1, "カラフル", "ClariS", 1],
+    [2, "Surely", "ClariS", 1],
+    [3, "Pieces", "ClariS", 1],
+    [4, "カラフル -movie MIX-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7eae0c8b-1dc9-478a-b8b5-ea4834a3e374", "https://vgmdb.net/album/41293"]
 
-[24e0fdf224f60428169819cccee7cc8b]
+[34aee998ab993b3ba03f848976df3c1a]
 catalognumber = "SECL-1413~4"
 date = "2013-10-30"
 album = "カラフル / ClariS Disc 1 (CD) [SECL-1413]"
 tracks = [
-    [1, "カラフル", "ClariS", 0],
-    [2, "Surely", "ClariS", 0],
-    [3, "Pieces", "ClariS", 0],
-    [4, "カラフル -Instrumental-", "ClariS", 0],
+    [1, "カラフル", "ClariS", 1],
+    [2, "Surely", "ClariS", 1],
+    [3, "Pieces", "ClariS", 1],
+    [4, "カラフル -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a32f9b35-4da6-4f1a-a09c-3d4be57a6c05", "https://vgmdb.net/album/41291"]
 
-[473091e2e4d964e1a4436921ed326b23]
+[3dc4afaf253056fd888d80aad87df68d]
 catalognumber = "SECL-1413~4"
 date = "2013-10-30"
 album = "カラフル / ClariS Disc 2 (DVD) [SECL-1414]"
 tracks = [
-    [1, "カラフル (Music Video)", "ClariS", 0],
+    [1, "カラフル (Music Video)", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a32f9b35-4da6-4f1a-a09c-3d4be57a6c05", "https://vgmdb.net/album/41291"]
 
-[c436ce18033d799691726b3748b02f1b]
+[a7004b67574d1273fe64d1f5f97c9e5b]
 catalognumber = "SECL-1419~20"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina Disc 1 (CD) [SECL-1419]"
 tracks = [
-    [1, "君の銀の庭", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
-    [3, "追憶", "Kalafina", 0],
-    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 0],
+    [1, "君の銀の庭", "Kalafina", 1],
+    [2, "misterioso", "Kalafina", 1],
+    [3, "追憶", "Kalafina", 1],
+    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b57ddb32-f176-4b11-a67f-320201df0d4b", "https://vgmdb.net/album/41288"]
 
-[f623c90868559263e44f193c65eec759]
+[385e30e3a06e1b2d6979dc894cd2a10f]
 catalognumber = "SECL-1419~20"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina Disc 2 (Blu-ray) [SECL-1420]"
 tracks = [
-    [1, "君の銀の庭 (Music Video)", "Kalafina", 0],
+    [1, "君の銀の庭 (Music Video)", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b57ddb32-f176-4b11-a67f-320201df0d4b", "https://vgmdb.net/album/41288"]
 
-[f9c855c435655c36667f51bfd52da6af]
+[1384a2ef8c7e7313aa46fcd0d8afa556]
 catalognumber = "SECL-1421"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina"
 tracks = [
-    [1, "君の銀の庭", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
-    [3, "追憶", "Kalafina", 0],
-    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 0],
+    [1, "君の銀の庭", "Kalafina", 1],
+    [2, "misterioso", "Kalafina", 1],
+    [3, "追憶", "Kalafina", 1],
+    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fac4f0ba-9494-4a0e-8f87-c363f6dd584a", "https://vgmdb.net/album/41289"]
 
-[9674bba8fc868b747841dfdd7ca27cf4]
+[54bf04faaa260c57f32742fb82b773e4]
 catalognumber = "SECL-1422"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina"
 tracks = [
-    [1, "君の銀の庭", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
-    [3, "追憶", "Kalafina", 0],
-    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 0],
+    [1, "君の銀の庭", "Kalafina", 1],
+    [2, "misterioso", "Kalafina", 1],
+    [3, "追憶", "Kalafina", 1],
+    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0fa4d4f2-5f76-46af-b4f9-abaf6c7116ab", "https://vgmdb.net/album/41290"]
 
-[01c33673a1642afe90e599c68ea63fdf]
+[eec00022be4e20472ff9f4f7fed9c40a]
 catalognumber = "SECL-1417~8"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina Disc 1 (CD) [SECL-1417]"
 tracks = [
-    [1, "君の銀の庭", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
-    [3, "追憶", "Kalafina", 0],
-    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 0],
+    [1, "君の銀の庭", "Kalafina", 1],
+    [2, "misterioso", "Kalafina", 1],
+    [3, "追憶", "Kalafina", 1],
+    [4, "君の銀の庭 〜instrumental〜", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6db35693-564c-432e-b1d9-8afc1b7b5636", "https://vgmdb.net/album/41287"]
 
-[2f430eff91ded2d20c1d02a5d2328dcd]
+[d44ecdb5958e8b4a26391b19fcdb94af]
 catalognumber = "SECL-1417~8"
 date = "2013-11-06"
 album = "君の銀の庭 / Kalafina Disc 2 (DVD) [SECL-1418]"
 tracks = [
-    [1, "君の銀の庭 (Music Video)", "Kalafina", 0],
+    [1, "君の銀の庭 (Music Video)", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6db35693-564c-432e-b1d9-8afc1b7b5636", "https://vgmdb.net/album/41287"]
 
-[1f1b88940a3b1e3e7f12fdca19de6359]
+[57c95c7b02e703d92fb02daf7c2943a4]
 catalognumber = "SEXL-35"
 date = "2013-12-11"
 album = "LIVE TOUR 2013 \"Consolation\" Special Final at TOKYO INTERNATIONAL FORUM HALL A / Kalafina"
@@ -1835,7 +1835,7 @@ tracks = [
     [6, "moonfesta〜ムーンフェスタ〜", "", 0],
     [7, "花束", "", 0],
     [8, "red moon", "", 0],
-    [9, "Magia[quattro]", "", 0],
+    [9, "Magia[quattro]", "", 1],
     [10, "木苺の茂みに", "", 0],
     [11, "満天", "", 0],
     [12, "to the beginning", "", 0],
@@ -1847,7 +1847,7 @@ tracks = [
     [18, "obbligato", "", 0],
     [19, "音楽", "", 0],
     [20, "〜 MC-2 〜", "", 0],
-    [21, "未来", "", 0],
+    [21, "未来", "", 1],
     [22, "al fine 〜 ひかりふる 〜Encore〜", "", 0],
     [23, "〜 MC-3 〜 〜Encore〜", "", 0],
     [24, "光の旋律 〜Encore〜", "", 0],
@@ -1858,7 +1858,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/158806"]
 
-[26960a4dd0594f5ad5fbbeab27371a0a]
+[98f49febe968f1dbc33fad7b9c339983]
 catalognumber = "SEBL-163"
 date = "2013-12-11"
 album = "LIVE TOUR 2013 \"Consolation\" Special Final at TOKYO INTERNATIONAL FORUM HALL A / Kalafina"
@@ -1871,7 +1871,7 @@ tracks = [
     [6, "moonfesta〜ムーンフェスタ〜", "", 0],
     [7, "花束", "", 0],
     [8, "red moon", "", 0],
-    [9, "Magia[quattro]", "", 0],
+    [9, "Magia[quattro]", "", 1],
     [10, "木苺の茂みに", "", 0],
     [11, "満天", "", 0],
     [12, "to the beginning", "", 0],
@@ -1883,7 +1883,7 @@ tracks = [
     [18, "obbligato", "", 0],
     [19, "音楽", "", 0],
     [20, "〜 MC-2 〜", "", 0],
-    [21, "未来", "", 0],
+    [21, "未来", "", 1],
     [22, "al fine 〜 ひかりふる 〜Encore〜", "", 0],
     [23, "〜 MC-3 〜 〜Encore〜", "", 0],
     [24, "光の旋律 〜Encore〜", "", 0],
@@ -1945,162 +1945,162 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4c613631-7e96-4498-8bc5-b28cb86f974f", "https://vgmdb.net/album/41682"]
 
-[e3a04878b1d87b6f84d6c80db68e83dc]
+[5ba6209415068eca07475000f563475b]
 catalognumber = "ANZX-3133"
 date = "2013-12-23"
 album = "PUELLA MAGI MADOKA☆MAGICA THE MOVIE ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "encounter", "梶浦由記", 0],
-    [2, "warning #1", "梶浦由記", 0],
-    [3, "warning #2", "梶浦由記", 0],
-    [4, "odd world #1", "梶浦由記", 0],
-    [5, "odd world #2", "梶浦由記", 0],
-    [6, "no more fear", "梶浦由記", 0],
-    [7, "wo ist die Käse?", "梶浦由記", 0],
-    [8, "short action", "梶浦由記", 0],
-    [9, "fateful #1", "梶浦由記", 0],
-    [10, "something unusual", "梶浦由記", 0],
-    [11, "crises happening", "梶浦由記", 0],
-    [12, "witch world #1", "梶浦由記", 0],
-    [13, "odd world #3", "梶浦由記", 0],
-    [14, "wicked", "梶浦由記", 0],
-    [15, "a human bullet", "梶浦由記", 0],
-    [16, "mother and daughter", "梶浦由記", 0],
-    [17, "touch-and-go", "梶浦由記", 0],
-    [18, "fateful #2", "梶浦由記", 0],
-    [19, "she has a past", "梶浦由記", 0],
-    [20, "she has a heart", "梶浦由記", 0],
-    [21, "complicated mind", "梶浦由記", 0],
-    [22, "wounded feeling", "梶浦由記", 0],
-    [23, "witch world #2", "梶浦由記", 0],
-    [24, "collapse", "梶浦由記", 0],
-    [25, "fateful #3", "梶浦由記", 0],
-    [26, "deep in grief", "梶浦由記", 0],
-    [27, "threatening", "梶浦由記", 0],
-    [28, "she is a witch", "梶浦由記", 0],
-    [29, "fateful #4", "梶浦由記", 0],
-    [30, "facing the truth #1", "梶浦由記", 0],
-    [31, "I’ll be with you", "梶浦由記", 0],
-    [32, "I miss you", "梶浦由記", 0],
-    [33, "time-manipulation", "梶浦由記", 0],
-    [34, "facing the truth #2", "梶浦由記", 0],
-    [35, "her wings", "梶浦由記", 0],
-    [36, "rebirth", "梶浦由記", 0],
-    [37, "for the next episode", "梶浦由記", 0],
+    [1, "encounter", "梶浦由記", 1],
+    [2, "warning #1", "梶浦由記", 1],
+    [3, "warning #2", "梶浦由記", 1],
+    [4, "odd world #1", "梶浦由記", 1],
+    [5, "odd world #2", "梶浦由記", 1],
+    [6, "no more fear", "梶浦由記", 1],
+    [7, "wo ist die Käse?", "梶浦由記", 1],
+    [8, "short action", "梶浦由記", 1],
+    [9, "fateful #1", "梶浦由記", 1],
+    [10, "something unusual", "梶浦由記", 1],
+    [11, "crises happening", "梶浦由記", 1],
+    [12, "witch world #1", "梶浦由記", 1],
+    [13, "odd world #3", "梶浦由記", 1],
+    [14, "wicked", "梶浦由記", 1],
+    [15, "a human bullet", "梶浦由記", 1],
+    [16, "mother and daughter", "梶浦由記", 1],
+    [17, "touch-and-go", "梶浦由記", 1],
+    [18, "fateful #2", "梶浦由記", 1],
+    [19, "she has a past", "梶浦由記", 1],
+    [20, "she has a heart", "梶浦由記", 1],
+    [21, "complicated mind", "梶浦由記", 1],
+    [22, "wounded feeling", "梶浦由記", 1],
+    [23, "witch world #2", "梶浦由記", 1],
+    [24, "collapse", "梶浦由記", 1],
+    [25, "fateful #3", "梶浦由記", 1],
+    [26, "deep in grief", "梶浦由記", 1],
+    [27, "threatening", "梶浦由記", 1],
+    [28, "she is a witch", "梶浦由記", 1],
+    [29, "fateful #4", "梶浦由記", 1],
+    [30, "facing the truth #1", "梶浦由記", 1],
+    [31, "I’ll be with you", "梶浦由記", 1],
+    [32, "I miss you", "梶浦由記", 1],
+    [33, "time-manipulation", "梶浦由記", 1],
+    [34, "facing the truth #2", "梶浦由記", 1],
+    [35, "her wings", "梶浦由記", 1],
+    [36, "rebirth", "梶浦由記", 1],
+    [37, "for the next episode", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5e537876-1cbf-4a5e-86bb-5ff41c50bb43", "https://vgmdb.net/album/56385"]
 
-[256ef71703094b9b7fd6109e8d6e2a6e]
+[76655be37c53ce6cc723ad6d3e030181]
 catalognumber = "SVWC-7980~1"
 date = "2013-12-25"
 album = "魔法少女まどか☆マギカ Music Collection Original Soundtrack, Vocal, Live Event"
 tracks = [
-    [1, "prelude to Act 1", "梶浦由記", 0],
-    [2, "Scaena felix", "梶浦由記", 0],
-    [3, "Postmeridie", "梶浦由記", 0],
-    [4, "Conturbatio", "梶浦由記", 0],
-    [5, "Puella in somnio", "梶浦由記", 0],
-    [6, "Salve, terrae magicae", "梶浦由記", 0],
-    [7, "Desiderium", "梶浦由記", 0],
-    [8, "Gradus prohibitus", "梶浦由記", 0],
-    [9, "Credens justitiam", "梶浦由記", 0],
-    [10, "Sis puella magica!", "梶浦由記", 0],
-    [11, "Inevitabilis", "梶浦由記", 0],
-    [12, "Pugna cum maga", "梶浦由記", 0],
-    [13, "Vocalise Op. 34 no. 14", "梶浦由記, 城戸喜代, 美野春樹", 0],
-    [14, "Umbra nigra", "梶浦由記", 0],
-    [15, "Venari strigas", "梶浦由記", 0],
-    [16, "Agmen clientum", "梶浦由記", 0],
-    [17, "Signum malum", "梶浦由記", 0],
-    [18, "Serena ira", "梶浦由記", 0],
-    [19, "Incertus", "梶浦由記", 0],
-    [20, "Ave Maria", "城戸喜代, 美野春樹", 0],
-    [21, "Decretum", "梶浦由記", 0],
-    [22, "Anima mala", "梶浦由記", 0],
-    [23, "また あした", "鹿目まどか (悠木碧)", 0],
-    [24, "and I’m home -Original Master Version.-", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
-    [25, "コネクト -ゲームインスト-", "梶浦由記", 0],
+    [1, "prelude to Act 1", "梶浦由記", 1],
+    [2, "Scaena felix", "梶浦由記", 1],
+    [3, "Postmeridie", "梶浦由記", 1],
+    [4, "Conturbatio", "梶浦由記", 1],
+    [5, "Puella in somnio", "梶浦由記", 1],
+    [6, "Salve, terrae magicae", "梶浦由記", 1],
+    [7, "Desiderium", "梶浦由記", 1],
+    [8, "Gradus prohibitus", "梶浦由記", 1],
+    [9, "Credens justitiam", "梶浦由記", 1],
+    [10, "Sis puella magica!", "梶浦由記", 1],
+    [11, "Inevitabilis", "梶浦由記", 1],
+    [12, "Pugna cum maga", "梶浦由記", 1],
+    [13, "Vocalise Op. 34 no. 14", "梶浦由記, 城戸喜代, 美野春樹", 1],
+    [14, "Umbra nigra", "梶浦由記", 1],
+    [15, "Venari strigas", "梶浦由記", 1],
+    [16, "Agmen clientum", "梶浦由記", 1],
+    [17, "Signum malum", "梶浦由記", 1],
+    [18, "Serena ira", "梶浦由記", 1],
+    [19, "Incertus", "梶浦由記", 1],
+    [20, "Ave Maria", "城戸喜代, 美野春樹", 1],
+    [21, "Decretum", "梶浦由記", 1],
+    [22, "Anima mala", "梶浦由記", 1],
+    [23, "また あした", "鹿目まどか (悠木碧)", 1],
+    [24, "and I’m home -Original Master Version.-", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
+    [25, "コネクト -ゲームインスト-", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b42016c3-4f2c-4480-87fe-b4f9683b4de7", "https://vgmdb.net/album/42430"]
 
-[dc6a5e5cb4faa8e0b91767ca8ae3a3ff]
+[45d1011d9465670fff64f0b6ace96c0d]
 catalognumber = "SVWC-7980~1"
 date = "2013-12-25"
 album = "魔法少女まどか☆マギカ Music Collection Original Soundtrack, Vocal"
 tracks = [
-    [1, "prelude to Act 2", "梶浦由記", 0],
-    [2, "Amicae carae meae", "梶浦由記", 0],
-    [3, "Clementia", "梶浦由記", 0],
-    [4, "La Fille aux Cheveux de Lin", "梶浦由記", 0],
-    [5, "Pugna infinita", "梶浦由記", 0],
-    [6, "Confessio", "梶浦由記", 0],
-    [7, "Cor destructum", "梶浦由記", 0],
-    [8, "Terror adhaerens", "梶浦由記", 0],
-    [9, "Symposium magarum", "梶浦由記", 0],
-    [10, "Numquam vincar", "梶浦由記", 0],
-    [11, "Quamobrem?", "梶浦由記", 0],
-    [12, "Surgam identidem", "梶浦由記", 0],
-    [13, "Nux Walpurgis", "梶浦由記", 0],
-    [14, "Sagitta luminis", "梶浦由記", 0],
-    [15, "Cubilulum album", "梶浦由記", 0],
-    [16, "Taenia memoriae", "梶浦由記", 0],
-    [17, "Pergo pugnare", "梶浦由記", 0],
-    [18, "コネクト", "ClariS", 0],
-    [19, "Magia", "Kalafina", 0],
-    [20, "Numquam vincar (Live ver.)", "梶浦由記", 0],
+    [1, "prelude to Act 2", "梶浦由記", 1],
+    [2, "Amicae carae meae", "梶浦由記", 1],
+    [3, "Clementia", "梶浦由記", 1],
+    [4, "La Fille aux Cheveux de Lin", "梶浦由記", 1],
+    [5, "Pugna infinita", "梶浦由記", 1],
+    [6, "Confessio", "梶浦由記", 1],
+    [7, "Cor destructum", "梶浦由記", 1],
+    [8, "Terror adhaerens", "梶浦由記", 1],
+    [9, "Symposium magarum", "梶浦由記", 1],
+    [10, "Numquam vincar", "梶浦由記", 1],
+    [11, "Quamobrem?", "梶浦由記", 1],
+    [12, "Surgam identidem", "梶浦由記", 1],
+    [13, "Nux Walpurgis", "梶浦由記", 1],
+    [14, "Sagitta luminis", "梶浦由記", 1],
+    [15, "Cubilulum album", "梶浦由記", 1],
+    [16, "Taenia memoriae", "梶浦由記", 1],
+    [17, "Pergo pugnare", "梶浦由記", 1],
+    [18, "コネクト", "ClariS", 1],
+    [19, "Magia", "Kalafina", 1],
+    [20, "Numquam vincar (Live ver.)", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b42016c3-4f2c-4480-87fe-b4f9683b4de7", "https://vgmdb.net/album/42430"]
 
-[63f849166bee1c29c1762cf524ca9f2b]
+[c219658268d0d299d72fa9eb02874c5c]
 catalognumber = "ANZX-3533"
 date = "2014-04-02"
 album = "劇場版 魔法少女まどか☆マギカ ［新編］叛逆の物語 オリジナルサウンドトラック"
 tracks = [
-    [1, "once we were", "梶浦由記", 0],
-    [2, "nightmare ballet", "梶浦由記", 0],
-    [3, "まだダメよ", "梶浦由記", 0],
-    [4, "nice to meet you", "梶浦由記", 0],
-    [5, "nothing special, but so special", "梶浦由記", 0],
-    [6, "nightmare!!", "梶浦由記", 0],
-    [7, "Holy Quintet", "梶浦由記", 0],
-    [8, "one for all", "梶浦由記", 0],
-    [9, "he is…", "梶浦由記", 0],
-    [10, "the battle is over", "梶浦由記", 0],
-    [11, "doubt", "梶浦由記", 0],
-    [12, "something, everything is wrong", "梶浦由記", 0],
-    [13, "raise the curtain", "梶浦由記", 0],
-    [14, "never get there", "梶浦由記", 0],
-    [15, "I remember", "梶浦由記", 0],
-    [16, "face the truth", "梶浦由記", 0],
-    [17, "doubt #2", "梶浦由記", 0],
-    [18, "gonna fight with me", "梶浦由記", 0],
-    [19, "absolute configuration", "梶浦由記", 0],
-    [20, "her decision", "梶浦由記", 0],
-    [21, "where is the truth", "梶浦由記", 0],
-    [22, "pulling my own weight", "梶浦由記", 0],
-    [23, "another episode", "梶浦由記", 0],
-    [24, "wanna destroy?", "梶浦由記", 0],
-    [25, "dream world", "梶浦由記", 0],
-    [26, "never leave you alone", "梶浦由記", 0],
-    [27, "this is the truth", "梶浦由記", 0],
-    [28, "flame of despair", "梶浦由記", 0],
-    [29, "now he is", "梶浦由記", 0],
-    [30, "you are here", "梶浦由記", 0],
-    [31, "experimentation", "梶浦由記", 0],
-    [32, "Noi!", "梶浦由記", 0],
-    [33, "the worst ending", "梶浦由記", 0],
-    [34, "I cursed myself", "梶浦由記", 0],
-    [35, "this is my despair", "梶浦由記", 0],
-    [36, "theater of a witch", "梶浦由記", 0],
-    [37, "we’re here for you", "梶浦由記", 0],
-    [38, "take your hands", "梶浦由記", 0],
-    [39, "wings of relief", "梶浦由記", 0],
-    [40, "I was waiting for this moment", "梶浦由記", 0],
-    [41, "her new wings", "梶浦由記", 0],
-    [42, "solve the riddle", "梶浦由記", 0],
-    [43, "I think this world is precious", "梶浦由記", 0],
-    [44, "happy ending", "梶浦由記", 0],
-    [45, "not yet", "梶浦由記", 0],
+    [1, "once we were", "梶浦由記", 1],
+    [2, "nightmare ballet", "梶浦由記", 1],
+    [3, "まだダメよ", "梶浦由記", 1],
+    [4, "nice to meet you", "梶浦由記", 1],
+    [5, "nothing special, but so special", "梶浦由記", 1],
+    [6, "nightmare!!", "梶浦由記", 1],
+    [7, "Holy Quintet", "梶浦由記", 1],
+    [8, "one for all", "梶浦由記", 1],
+    [9, "he is…", "梶浦由記", 1],
+    [10, "the battle is over", "梶浦由記", 1],
+    [11, "doubt", "梶浦由記", 1],
+    [12, "something, everything is wrong", "梶浦由記", 1],
+    [13, "raise the curtain", "梶浦由記", 1],
+    [14, "never get there", "梶浦由記", 1],
+    [15, "I remember", "梶浦由記", 1],
+    [16, "face the truth", "梶浦由記", 1],
+    [17, "doubt #2", "梶浦由記", 1],
+    [18, "gonna fight with me", "梶浦由記", 1],
+    [19, "absolute configuration", "梶浦由記", 1],
+    [20, "her decision", "梶浦由記", 1],
+    [21, "where is the truth", "梶浦由記", 1],
+    [22, "pulling my own weight", "梶浦由記", 1],
+    [23, "another episode", "梶浦由記", 1],
+    [24, "wanna destroy?", "梶浦由記", 1],
+    [25, "dream world", "梶浦由記", 1],
+    [26, "never leave you alone", "梶浦由記", 1],
+    [27, "this is the truth", "梶浦由記", 1],
+    [28, "flame of despair", "梶浦由記", 1],
+    [29, "now he is", "梶浦由記", 1],
+    [30, "you are here", "梶浦由記", 1],
+    [31, "experimentation", "梶浦由記", 1],
+    [32, "Noi!", "梶浦由記", 1],
+    [33, "the worst ending", "梶浦由記", 1],
+    [34, "I cursed myself", "梶浦由記", 1],
+    [35, "this is my despair", "梶浦由記", 1],
+    [36, "theater of a witch", "梶浦由記", 1],
+    [37, "we’re here for you", "梶浦由記", 1],
+    [38, "take your hands", "梶浦由記", 1],
+    [39, "wings of relief", "梶浦由記", 1],
+    [40, "I was waiting for this moment", "梶浦由記", 1],
+    [41, "her new wings", "梶浦由記", 1],
+    [42, "solve the riddle", "梶浦由記", 1],
+    [43, "I think this world is precious", "梶浦由記", 1],
+    [44, "happy ending", "梶浦由記", 1],
+    [45, "not yet", "梶浦由記", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f66ad67-0dd8-48ca-910a-a6263f634edd", "https://vgmdb.net/album/43724"]
 
@@ -2128,7 +2128,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45393"]
 
-[5d93dfa70fa6cf9f78bbdb45d2f9136e]
+[aba8f8642781742005dbe8df0e316733]
 catalognumber = "MIA-036"
 date = "2014-04-27"
 album = "アルテミス"
@@ -2141,11 +2141,11 @@ tracks = [
     [6, "BRIGHT STREAM", "IRON ATTACK! feat.ABSOLUTE AREA", 0],
     [7, "AURORA", "IRON ATTACK! feat.ABSOLUTE AREA", 0],
     [8, "星のデジャ・ブー", "IRON ATTACK! feat.ABSOLUTE AREA", 0],
-    [9, "カラフル", "IRON ATTACK! feat.ABSOLUTE AREA", 0],
+    [9, "カラフル", "IRON ATTACK! feat.ABSOLUTE AREA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/816d5dfd-65a9-49aa-a906-e404f40b8c34", "https://vgmdb.net/album/56526"]
 
-[58f9b6274b90493e77969711f4f98456]
+[9d467b69006a9f3ddd799d6a0e9a893c]
 catalognumber = "SECL-1509~10"
 date = "2014-06-04"
 album = "PARTY TIME / ClariS [Limited Edition] Disc 1 (CD) [SECL-1509]"
@@ -2160,17 +2160,17 @@ tracks = [
     [8, "ドライフラワー", "ClariS", 0],
     [9, "トパーズ", "ClariS", 0],
     [10, "かくれんぼ", "ClariS", 0],
-    [11, "カラフル", "ClariS", 0],
+    [11, "カラフル", "ClariS", 1],
     [12, "Orange", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6633b1da-cdc8-4ba5-b96d-76e0bc21940d", "https://vgmdb.net/album/45749"]
 
-[1799a8654e34ec0801e3e06be290c93e]
+[b5709a4ab56c741f33b96cc01b62d450]
 catalognumber = "SECL-1509~10"
 date = "2014-06-04"
 album = "PARTY TIME / ClariS [Limited Edition] Disc 2 (DVD) [SECL-1510]"
 tracks = [
-    [1, "カラフル (Music Video)", "", 0],
+    [1, "カラフル (Music Video)", "", 1],
     [2, "CLICK (Music Video)", "", 0],
     [3, "STEP (Music Video)", "", 0],
     [4, "TVアニメ「俺の妹がこんなに可愛いわけがない」ノンクレジットオープニング映像", "", 0],
@@ -2180,7 +2180,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45749"]
 
-[95058a8728569283d36406d1fd8636f6]
+[3d18e9721ecabd1d943c6cabb9933f89]
 catalognumber = "SECL-1507~8"
 date = "2014-06-04"
 album = "PARTY TIME / ClariS [Limited Edition]"
@@ -2195,12 +2195,12 @@ tracks = [
     [8, "ドライフラワー", "ClariS", 0],
     [9, "トパーズ", "ClariS", 0],
     [10, "かくれんぼ", "ClariS", 0],
-    [11, "カラフル", "ClariS", 0],
+    [11, "カラフル", "ClariS", 1],
     [12, "Orange", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/3c39ca7c-9d6a-4240-a470-097cfc541ce4", "https://vgmdb.net/album/45750"]
 
-[3a128a8f4865762665b8a3ffbc43176a]
+[6d9389708098bef771735f3155a81c3f]
 catalognumber = "SECL-1511"
 date = "2014-06-04"
 album = "PARTY TIME / ClariS"
@@ -2215,24 +2215,24 @@ tracks = [
     [8, "ドライフラワー", "ClariS", 0],
     [9, "トパーズ", "ClariS", 0],
     [10, "かくれんぼ", "ClariS", 0],
-    [11, "カラフル", "ClariS", 0],
+    [11, "カラフル", "ClariS", 1],
     [12, "Orange", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/a5bc01fa-50fe-4aeb-8186-5256ed7997b1", "https://vgmdb.net/album/45748"]
 
-[4cd5ac30072c586e29111ef1ea7191d8]
+[16ee76b9070559a77fc1c628e0cfd616]
 catalognumber = "SECL-1534"
 date = "2014-07-16"
 album = "THE BEST \"Red\" / Kalafina"
 tracks = [
     [1, "prelude", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
+    [2, "misterioso", "Kalafina", 1],
     [3, "光の旋律", "Kalafina", 0],
     [4, "Lacrimosa", "Kalafina", 0],
     [5, "ARIA", "Kalafina", 0],
     [6, "輝く空の静寂には", "Kalafina", 0],
     [7, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
-    [8, "ひかりふる", "Kalafina", 0],
+    [8, "ひかりふる", "Kalafina", 1],
     [9, "oblivious", "Kalafina", 0],
     [10, "音楽", "Kalafina", 0],
     [11, "consolation", "Kalafina", 0],
@@ -2243,21 +2243,21 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/beebf6bb-6424-4e9a-9a7a-775ac2b43482", "https://vgmdb.net/album/45755"]
 
-[87b9d04f190ff8b460257958d965150e]
+[faec564bb79e1ef74fc7ab7bd7357094]
 catalognumber = "SECL-1532~3"
 date = "2014-07-16"
 album = "THE BEST \"Blue\" / Kalafina [Limited Edition] Disc 1 (CD) [SECL-1532]"
 tracks = [
     [1, "storia", "Kalafina", 0],
-    [2, "君の銀の庭", "Kalafina", 0],
+    [2, "君の銀の庭", "Kalafina", 1],
     [3, "red moon", "Kalafina", 0],
-    [4, "Magia", "Kalafina", 0],
+    [4, "Magia", "Kalafina", 1],
     [5, "seventh heaven", "Kalafina", 0],
     [6, "signal", "Kalafina", 0],
     [7, "夏の林檎", "Kalafina", 0],
     [8, "sprinter", "Kalafina", 0],
     [9, "I have a dream", "Kalafina", 0],
-    [10, "未来", "Kalafina", 0],
+    [10, "未来", "Kalafina", 1],
     [11, "満天", "Kalafina", 0],
     [12, "snow falling", "Kalafina", 0],
     [13, "to the beginning", "Kalafina", 0],
@@ -2266,13 +2266,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a2153904-8ebd-44f5-8291-c922d8e2abd8", "https://vgmdb.net/album/45754"]
 
-[4d8963befbcd9e118b19d087eafe0e0a]
+[c57dcd18942d1463f8e7396325596d5f]
 catalognumber = "SECL-1532~3"
 date = "2014-07-16"
 album = "THE BEST \"Blue\" / Kalafina [Limited Edition] Disc 2 (Blu-ray) [SECL-1533]"
 tracks = [
     [1, "overture～misterioso", "", 0],
-    [2, "君の銀の庭", "", 0],
+    [2, "君の銀の庭", "", 1],
     [3, "seventh heaven", "", 0],
     [4, "sprinter", "", 0],
     [5, "音楽", "", 0],
@@ -2280,19 +2280,19 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/45754"]
 
-[facf0a7bd8e60eb9bc095eec0d0e5ce8]
+[7381f542750d0d624f0882459c64d3e4]
 catalognumber = "SECL-1530~1"
 date = "2014-07-16"
 album = "THE BEST \"Red\" / Kalafina [Limited Edition] Disc 1 (CD) [SECL-1530]"
 tracks = [
     [1, "prelude", "Kalafina", 0],
-    [2, "misterioso", "Kalafina", 0],
+    [2, "misterioso", "Kalafina", 1],
     [3, "光の旋律", "Kalafina", 0],
     [4, "Lacrimosa", "Kalafina", 0],
     [5, "ARIA", "Kalafina", 0],
     [6, "輝く空の静寂には", "Kalafina", 0],
     [7, "moonfesta～ムーンフェスタ～", "Kalafina", 0],
-    [8, "ひかりふる", "Kalafina", 0],
+    [8, "ひかりふる", "Kalafina", 1],
     [9, "oblivious", "Kalafina", 0],
     [10, "音楽", "Kalafina", 0],
     [11, "consolation", "Kalafina", 0],
@@ -2303,7 +2303,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/555a1ad4-1ea2-49cb-b740-f57a64cf1941", "https://vgmdb.net/album/45753"]
 
-[7a7597415f1bc9aef26dcfcd38f66537]
+[fa045ce04d027b1dd472d9ee1ddad48c]
 catalognumber = "SECL-1530~1"
 date = "2014-07-16"
 album = "THE BEST \"Red\" / Kalafina [Limited Edition] Disc 2 (Blu-ray) [SECL-1531]"
@@ -2312,26 +2312,26 @@ tracks = [
     [2, "ARIA", "", 0],
     [3, "満天", "", 0],
     [4, "to the beginning", "", 0],
-    [5, "ひかりふる", "", 0],
-    [6, "未来", "", 0],
+    [5, "ひかりふる", "", 1],
+    [6, "未来", "", 1],
 ]
 links = ["https://vgmdb.net/album/45753"]
 
-[25d6453b3a6896269593f63ee1f818a7]
+[9d8da7b904b215c0aa9dfda15db46318]
 catalognumber = "SECL-1535"
 date = "2014-07-16"
 album = "THE BEST \"Blue\" / Kalafina"
 tracks = [
     [1, "storia", "Kalafina", 0],
-    [2, "君の銀の庭", "Kalafina", 0],
+    [2, "君の銀の庭", "Kalafina", 1],
     [3, "red moon", "Kalafina", 0],
-    [4, "Magia", "Kalafina", 0],
+    [4, "Magia", "Kalafina", 1],
     [5, "seventh heaven", "Kalafina", 0],
     [6, "signal", "Kalafina", 0],
     [7, "夏の林檎", "Kalafina", 0],
     [8, "sprinter", "Kalafina", 0],
     [9, "I have a dream", "Kalafina", 0],
-    [10, "未来", "Kalafina", 0],
+    [10, "未来", "Kalafina", 1],
     [11, "満天", "Kalafina", 0],
     [12, "snow falling", "Kalafina", 0],
     [13, "to the beginning", "Kalafina", 0],
@@ -2362,7 +2362,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/8fdef224-d77a-4533-9c26-843292e548e5", "https://vgmdb.net/album/70506"]
 
-[3ac00974881333ec13624f3778dd6ae1]
+[35cbbb0df1d7fbba19d7a0195aa6e898]
 catalognumber = "SCGA-00015"
 date = "2014-11-26"
 album = "魔法少女28 / YURiCa/花たん"
@@ -2378,12 +2378,12 @@ tracks = [
     [9, "永遠という場所", "YURiCa/花たん", 0],
     [10, "プラチナ", "YURiCa/花たん", 0],
     [11, "ラ・ソウルジャー", "YURiCa/花たん", 0],
-    [12, "Magia", "YURiCa/花たん", 0],
-    [13, "カラフル", "YURiCa/花たん", 0],
+    [12, "Magia", "YURiCa/花たん", 1],
+    [13, "カラフル", "YURiCa/花たん", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/074a4b13-80c7-4188-b8f0-79de02869665", "https://vgmdb.net/album/79821"]
 
-[b8bc068e2726ce8e259fc8b5a36a94ef]
+[b3ad9853aab5acdd83bbbe88d701105e]
 catalognumber = "SCGA-00014"
 date = "2014-11-26"
 album = "marasy piano world"
@@ -2391,7 +2391,7 @@ tracks = [
     [1, "プレリュード (FINAL FANTASY シリーズ より) (2014 トヨタ AQUA CMバージョン)", "まらしぃ", 0],
     [2, "チョコレイト・ディスコ (2013 トヨタ AQUA CMバージョン)", "まらしぃ", 0],
     [3, "千本桜 (2013/2014 トヨタ AQUA CMバージョン)", "まらしぃ", 0],
-    [4, "コネクト (魔法少女まどか☆マギカ)", "まらしぃ", 0],
+    [4, "コネクト (魔法少女まどか☆マギカ)", "まらしぃ", 1],
     [5, "裏表ラバーズ", "まらしぃ", 0],
     [6, "粉雪", "まらしぃ", 0],
     [7, "人形の夢と目覚め (お風呂が沸いたときの曲)", "まらしぃ", 0],
@@ -2406,60 +2406,60 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b602cf31-86ca-46c7-bb66-dd7b271b77a4", "https://vgmdb.net/album/49200"]
 
-[4e5053f6bd301ee8f2116bffac617b1b]
+[725999ba1dc5159dec0c3b649361c7bd]
 catalognumber = "ANI-9040"
 date = "2014-12-18"
 album = "PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "once we were", "", 0],
-    [2, "nightmare ballet", "", 0],
-    [3, "まだダメよ", "", 0],
-    [4, "nice to meet you", "", 0],
-    [5, "nothing special, but so special", "", 0],
-    [6, "nightmare!!", "", 0],
-    [7, "Holly Quintet", "", 0],
-    [8, "one for all", "", 0],
-    [9, "he is...", "", 0],
-    [10, "the battle is over", "", 0],
-    [11, "doubt", "", 0],
-    [12, "something, everything is wrong", "", 0],
-    [13, "raise the curtain", "", 0],
-    [14, "never get there", "", 0],
-    [15, "I remember", "", 0],
-    [16, "face the truth", "", 0],
-    [17, "doubt #2", "", 0],
-    [18, "gonna fight with me", "", 0],
-    [19, "absolute configuration", "", 0],
-    [20, "her decision", "", 0],
-    [21, "where is the truth", "", 0],
-    [22, "pulling my own weight", "", 0],
-    [23, "another episode", "", 0],
-    [24, "wanna destroy?", "", 0],
-    [25, "dream world", "", 0],
-    [26, "never leave you alone", "", 0],
-    [27, "this is the truth", "", 0],
-    [28, "flame of despair", "", 0],
-    [29, "now he is", "", 0],
-    [30, "you are here", "", 0],
-    [31, "experimentation", "", 0],
-    [32, "Noi!", "", 0],
-    [33, "the worst ending", "", 0],
-    [34, "I cursed myself", "", 0],
-    [35, "this is my despair", "", 0],
-    [36, "theater of a witch", "", 0],
-    [37, "we're here for you", "", 0],
-    [38, "take your hands", "", 0],
-    [39, "wings of relief", "", 0],
-    [40, "I was waiting for this moment", "", 0],
-    [41, "her new wings", "", 0],
-    [42, "solve the riddle", "", 0],
-    [43, "I think this world is precious", "", 0],
-    [44, "happy ending", "", 0],
-    [45, "not yet", "", 0],
+    [1, "once we were", "", 1],
+    [2, "nightmare ballet", "", 1],
+    [3, "まだダメよ", "", 1],
+    [4, "nice to meet you", "", 1],
+    [5, "nothing special, but so special", "", 1],
+    [6, "nightmare!!", "", 1],
+    [7, "Holly Quintet", "", 1],
+    [8, "one for all", "", 1],
+    [9, "he is...", "", 1],
+    [10, "the battle is over", "", 1],
+    [11, "doubt", "", 1],
+    [12, "something, everything is wrong", "", 1],
+    [13, "raise the curtain", "", 1],
+    [14, "never get there", "", 1],
+    [15, "I remember", "", 1],
+    [16, "face the truth", "", 1],
+    [17, "doubt #2", "", 1],
+    [18, "gonna fight with me", "", 1],
+    [19, "absolute configuration", "", 1],
+    [20, "her decision", "", 1],
+    [21, "where is the truth", "", 1],
+    [22, "pulling my own weight", "", 1],
+    [23, "another episode", "", 1],
+    [24, "wanna destroy?", "", 1],
+    [25, "dream world", "", 1],
+    [26, "never leave you alone", "", 1],
+    [27, "this is the truth", "", 1],
+    [28, "flame of despair", "", 1],
+    [29, "now he is", "", 1],
+    [30, "you are here", "", 1],
+    [31, "experimentation", "", 1],
+    [32, "Noi!", "", 1],
+    [33, "the worst ending", "", 1],
+    [34, "I cursed myself", "", 1],
+    [35, "this is my despair", "", 1],
+    [36, "theater of a witch", "", 1],
+    [37, "we're here for you", "", 1],
+    [38, "take your hands", "", 1],
+    [39, "wings of relief", "", 1],
+    [40, "I was waiting for this moment", "", 1],
+    [41, "her new wings", "", 1],
+    [42, "solve the riddle", "", 1],
+    [43, "I think this world is precious", "", 1],
+    [44, "happy ending", "", 1],
+    [45, "not yet", "", 1],
 ]
 links = ["https://vgmdb.net/album/56386"]
 
-[5e41d6880aef9db0a1152f7e3bc9d53c]
+[2e5791ac9abd2ae3042c8563a2e14b38]
 catalognumber = "AKCD-0008"
 date = "2014-12-22"
 album = "超絶神曲アニメON! VOL.2"
@@ -2471,27 +2471,27 @@ tracks = [
     [5, "とらぶるめーかー", "", 0],
     [6, "オリオンをなぞる", "", 0],
     [7, "Winter Blossom", "", 0],
-    [8, "コネクト", "", 0],
+    [8, "コネクト", "", 1],
     [9, "ノッペルディア・クリノッペ", "", 0],
     [10, "Cha-la Head-cha-la (2005 Ver.)", "", 0],
     [11, "チャイムっ!", "", 0],
 ]
 links = ["https://vgmdb.net/album/100435"]
 
-[402627424db90755ef36c8484e431d2e]
+[44604c4e1582540cd46aeda17c0d7d4b]
 catalognumber = "AQCD-0001"
 date = "2014-12-30"
 album = "madokawaii ユーフォニアム生演奏曲集"
 tracks = [
-    [1, "nightmare ballet", "", 0],
-    [2, "まだダメよ", "", 0],
-    [3, "カラフル", "", 0],
-    [4, "Holly Quintet", "", 0],
+    [1, "nightmare ballet", "", 1],
+    [2, "まだダメよ", "", 1],
+    [3, "カラフル", "", 1],
+    [4, "Holly Quintet", "", 1],
     [5, "another episode", "", 0],
 ]
 links = ["https://vgmdb.net/album/65484"]
 
-[8c435582633d86bacdbbc21fb07b10d5]
+[d9e4fbf6971c4d9057a66edba305ff65]
 catalognumber = "QWCE-00412"
 date = "2015-01-07"
 album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST THE FINAL"
@@ -2512,19 +2512,19 @@ tracks = [
     [14, "ハレ晴レユカイ", "Ryu☆ feat. Ma15", 0],
     [15, "ぴてぃぱてぃサバイバード", "Motion Combat feat. maburu-choko + SAYURI", 0],
     [16, "LΦVEST", "Tsukemen Prince feat. LTT + 桜井三郎", 0],
-    [17, "コネクト", "plazma feat. Nahoko", 0],
+    [17, "コネクト", "plazma feat. Nahoko", 1],
     [18, "それは僕たちの奇跡", "Ryu☆ feat. PRIM", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/3cc29c75-1187-4880-a7e2-a8d491e1d5f5", "https://vgmdb.net/album/48601"]
 
-[babbda36e5a5bf21afb6712325657665]
+[239781103c32f8cc35210a80583c69f9]
 catalognumber = "LACA-15484"
 date = "2015-03-25"
 album = "SAYAKAVER. / 佐咲紗花"
 tracks = [
     [1, "The Biggest Dreamer", "佐咲紗花", 0],
     [2, "IN MY DREAM", "佐咲紗花", 0],
-    [3, "コネクト", "佐咲紗花", 0],
+    [3, "コネクト", "佐咲紗花", 1],
     [4, "sakura", "佐咲紗花", 0],
     [5, "DISCOTHEQUE", "佐咲紗花", 0],
     [6, "プラチナ", "佐咲紗花", 0],
@@ -2538,72 +2538,72 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ef116241-fbcd-45cf-b291-7c50189b5c94", "https://vgmdb.net/album/66086"]
 
-[2c041c07878632d694d91f597d12d027]
+[e7a9eba4981de83e88ab311da1e0f5cf]
 catalognumber = "AOA-4904L-WR2"
 date = "2015-04-07"
 album = "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion- ORIGINAL SOUNDTRACK CD"
 tracks = [
-    [1, "once we were", "", 0],
-    [2, "nightmare ballet", "", 0],
-    [3, "まだダメよ", "", 0],
-    [4, "nice to meet you", "", 0],
-    [5, "nothing special, but so special", "", 0],
-    [6, "nightmare!!", "", 0],
-    [7, "Holly Quintet", "", 0],
-    [8, "one for all", "", 0],
-    [9, "he is...", "", 0],
-    [10, "the battle is over", "", 0],
-    [11, "doubt", "", 0],
-    [12, "something, everything is wrong", "", 0],
-    [13, "raise the curtain", "", 0],
-    [14, "never get there", "", 0],
-    [15, "I remember", "", 0],
-    [16, "face the truth", "", 0],
-    [17, "doubt #2", "", 0],
-    [18, "gonna fight with me", "", 0],
-    [19, "absolute configuration", "", 0],
-    [20, "her decision", "", 0],
-    [21, "where is the truth", "", 0],
-    [22, "pulling my own weight", "", 0],
-    [23, "another episode", "", 0],
-    [24, "wanna destroy?", "", 0],
-    [25, "dream world", "", 0],
-    [26, "never leave you alone", "", 0],
-    [27, "this is the truth", "", 0],
-    [28, "flame of despair", "", 0],
-    [29, "now he is", "", 0],
-    [30, "you are here", "", 0],
-    [31, "experimentation", "", 0],
-    [32, "Noi!", "", 0],
-    [33, "the worst ending", "", 0],
-    [34, "I cursed myself", "", 0],
-    [35, "this is my despair", "", 0],
-    [36, "theater of a witch", "", 0],
-    [37, "we're here for you", "", 0],
-    [38, "take your hands", "", 0],
-    [39, "wings of relief", "", 0],
-    [40, "I was waiting for this moment", "", 0],
-    [41, "her new wings", "", 0],
-    [42, "solve the riddle", "", 0],
-    [43, "I think this world is precious", "", 0],
-    [44, "happy ending", "", 0],
-    [45, "not yet", "", 0],
+    [1, "once we were", "", 1],
+    [2, "nightmare ballet", "", 1],
+    [3, "まだダメよ", "", 1],
+    [4, "nice to meet you", "", 1],
+    [5, "nothing special, but so special", "", 1],
+    [6, "nightmare!!", "", 1],
+    [7, "Holly Quintet", "", 1],
+    [8, "one for all", "", 1],
+    [9, "he is...", "", 1],
+    [10, "the battle is over", "", 1],
+    [11, "doubt", "", 1],
+    [12, "something, everything is wrong", "", 1],
+    [13, "raise the curtain", "", 1],
+    [14, "never get there", "", 1],
+    [15, "I remember", "", 1],
+    [16, "face the truth", "", 1],
+    [17, "doubt #2", "", 1],
+    [18, "gonna fight with me", "", 1],
+    [19, "absolute configuration", "", 1],
+    [20, "her decision", "", 1],
+    [21, "where is the truth", "", 1],
+    [22, "pulling my own weight", "", 1],
+    [23, "another episode", "", 1],
+    [24, "wanna destroy?", "", 1],
+    [25, "dream world", "", 1],
+    [26, "never leave you alone", "", 1],
+    [27, "this is the truth", "", 1],
+    [28, "flame of despair", "", 1],
+    [29, "now he is", "", 1],
+    [30, "you are here", "", 1],
+    [31, "experimentation", "", 1],
+    [32, "Noi!", "", 1],
+    [33, "the worst ending", "", 1],
+    [34, "I cursed myself", "", 1],
+    [35, "this is my despair", "", 1],
+    [36, "theater of a witch", "", 1],
+    [37, "we're here for you", "", 1],
+    [38, "take your hands", "", 1],
+    [39, "wings of relief", "", 1],
+    [40, "I was waiting for this moment", "", 1],
+    [41, "her new wings", "", 1],
+    [42, "solve the riddle", "", 1],
+    [43, "I think this world is precious", "", 1],
+    [44, "happy ending", "", 1],
+    [45, "not yet", "", 1],
 ]
 links = ["https://vgmdb.net/album/50448"]
 
-[f52769e390ac7f944c2dd160546d54c2]
+[a187c5ea27f3fb8015e3475769f5c8fa]
 catalognumber = "SECL-1657~8"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~ [完全生産限定盤]"
 tracks = [
     [1, "irony", "ClariS", 0],
-    [2, "コネクト", "ClariS", 0],
+    [2, "コネクト", "ClariS", 1],
     [3, "nexus", "ClariS", 0],
     [4, "ナイショの話", "ClariS", 0],
     [5, "Wake Up", "ClariS", 0],
-    [6, "ルミナス", "ClariS", 0],
+    [6, "ルミナス", "ClariS", 1],
     [7, "reunion", "ClariS", 0],
-    [8, "カラフル", "ClariS", 0],
+    [8, "カラフル", "ClariS", 1],
     [9, "CLICK", "ClariS", 0],
     [10, "STEP", "ClariS", 0],
     [11, "border", "ClariS", 0],
@@ -2613,19 +2613,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/75057d6a-8e7a-43a2-9b1a-736c4603f67c", "https://vgmdb.net/album/50240"]
 
-[8cd9e70367cb4f55632baa3b52f6f930]
+[5463a212ea908270c7cec2b416efde6a]
 catalognumber = "SECL-1661~2"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~ [初回生産限定盤] Vocal"
 tracks = [
     [1, "irony", "ClariS", 0],
-    [2, "コネクト", "ClariS", 0],
+    [2, "コネクト", "ClariS", 1],
     [3, "nexus", "ClariS", 0],
     [4, "ナイショの話", "ClariS", 0],
     [5, "Wake Up", "ClariS", 0],
-    [6, "ルミナス", "ClariS", 0],
+    [6, "ルミナス", "ClariS", 1],
     [7, "reunion", "ClariS", 0],
-    [8, "カラフル", "ClariS", 0],
+    [8, "カラフル", "ClariS", 1],
     [9, "CLICK", "ClariS", 0],
     [10, "STEP", "ClariS", 0],
     [11, "border", "ClariS", 0],
@@ -2635,38 +2635,38 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/11515389-ed09-4078-ba25-378b260fe7a5", "https://vgmdb.net/album/50241"]
 
-[202c50be1e70faebfcaf088f09ff2e69]
+[0111c6357fe6b7e459d93242822d9e7a]
 catalognumber = "SECL-1661~2"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~ [初回生産限定盤] Video"
 tracks = [
     [1, "irony -Music Video-", "ClariS", 0],
-    [2, "コネクト -Music Video-", "ClariS", 0],
+    [2, "コネクト -Music Video-", "ClariS", 1],
     [3, "nexus -Music Video-", "ClariS", 0],
     [4, "ナイショの話 -Music Video-", "ClariS", 0],
     [5, "Wake Up -Music Video-", "ClariS", 0],
-    [6, "ルミナス -Music Video-", "ClariS", 0],
+    [6, "ルミナス -Music Video-", "ClariS", 1],
     [7, "reunion -Music Video-", "ClariS", 0],
-    [8, "カラフル -Music Video-", "ClariS", 0],
+    [8, "カラフル -Music Video-", "ClariS", 1],
     [9, "CLICK -Music Video-", "ClariS", 0],
     [10, "STEP -Music Video-", "ClariS", 0],
     [11, "border -Music Video-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/11515389-ed09-4078-ba25-378b260fe7a5", "https://vgmdb.net/album/50241"]
 
-[4d33aa17daa039e6553a0507b66b5b71]
+[acbb7c6bbc132971ceb5c30b554dfa7f]
 catalognumber = "SECL-1663"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~"
 tracks = [
     [1, "irony", "ClariS", 0],
-    [2, "コネクト", "ClariS", 0],
+    [2, "コネクト", "ClariS", 1],
     [3, "nexus", "ClariS", 0],
     [4, "ナイショの話", "ClariS", 0],
     [5, "Wake Up", "ClariS", 0],
-    [6, "ルミナス", "ClariS", 0],
+    [6, "ルミナス", "ClariS", 1],
     [7, "reunion", "ClariS", 0],
-    [8, "カラフル", "ClariS", 0],
+    [8, "カラフル", "ClariS", 1],
     [9, "CLICK", "ClariS", 0],
     [10, "STEP", "ClariS", 0],
     [11, "border", "ClariS", 0],
@@ -2676,19 +2676,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/08a61b5c-35e1-4c9b-92e0-5a6e4d8a23ec", "https://vgmdb.net/album/50238"]
 
-[a21fd754c4a2441d36cc92cb40e576a9]
+[8167afb7c2828828f5f1d0d06ffde5b7]
 catalognumber = "SECL-1659~60"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~ [初回生産限定盤] Vocal"
 tracks = [
     [1, "irony", "ClariS", 0],
-    [2, "コネクト", "ClariS", 0],
+    [2, "コネクト", "ClariS", 1],
     [3, "nexus", "ClariS", 0],
     [4, "ナイショの話", "ClariS", 0],
     [5, "Wake Up", "ClariS", 0],
-    [6, "ルミナス", "ClariS", 0],
+    [6, "ルミナス", "ClariS", 1],
     [7, "reunion", "ClariS", 0],
-    [8, "カラフル", "ClariS", 0],
+    [8, "カラフル", "ClariS", 1],
     [9, "CLICK", "ClariS", 0],
     [10, "STEP", "ClariS", 0],
     [11, "border", "ClariS", 0],
@@ -2698,38 +2698,38 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af34bd02-5c2a-4053-b7f1-dc7ad5617596", "https://vgmdb.net/album/50242"]
 
-[11811b4f2e3c872ae34a088ef5542987]
+[8b4521d565e79d95997acda5cbad4223]
 catalognumber = "SECL-1659~60"
 date = "2015-04-15"
 album = "ClariS ~SINGLE BEST 1st~ [初回生産限定盤] Video"
 tracks = [
     [1, "irony -Music Video-", "ClariS", 0],
-    [2, "コネクト -Music Video-", "ClariS", 0],
+    [2, "コネクト -Music Video-", "ClariS", 1],
     [3, "nexus -Music Video-", "ClariS", 0],
     [4, "ナイショの話 -Music Video-", "ClariS", 0],
     [5, "Wake Up -Music Video-", "ClariS", 0],
-    [6, "ルミナス -Music Video-", "ClariS", 0],
+    [6, "ルミナス -Music Video-", "ClariS", 1],
     [7, "reunion -Music Video-", "ClariS", 0],
-    [8, "カラフル -Music Video-", "ClariS", 0],
+    [8, "カラフル -Music Video-", "ClariS", 1],
     [9, "CLICK -Music Video-", "ClariS", 0],
     [10, "STEP -Music Video-", "ClariS", 0],
     [11, "border -Music Video-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/af34bd02-5c2a-4053-b7f1-dc7ad5617596", "https://vgmdb.net/album/50242"]
 
-[967ade53dfdd9b732d0a7d95514dcf9f]
+[be0dcec831f8a6bfb3bf5d55ee8bc528]
 catalognumber = "DTRB-0001"
 date = "2015-04-26"
 album = "dRoiD vol.1"
 tracks = [
     [1, "紅蓮の弓矢", "", 0],
     [2, "Snow halation", "", 0],
-    [3, "ひかりふる", "", 0],
+    [3, "ひかりふる", "", 1],
     [4, "旅立ちの風", "", 0],
 ]
 links = ["https://vgmdb.net/album/61331"]
 
-[91e6fd82252c17c01db8b95e81478725]
+[eafebbfbc2f7ff170100bd2d53b8216f]
 catalognumber = "ABIT-33"
 date = "2015-04-29"
 album = "THE アニソン BEST～普遍の8bitカヴァーズ～"
@@ -2751,7 +2751,7 @@ tracks = [
     [15, "God knows...", "", 0],
     [16, "STRIKE WITCHES ~わたしにできること~", "", 0],
     [17, "ウィーアー!", "", 0],
-    [18, "コネクト", "", 0],
+    [18, "コネクト", "", 1],
     [19, "Chase the world", "", 0],
     [20, "Sign", "", 0],
     [21, "crossing field", "", 0],
@@ -2839,7 +2839,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aaee7dd2-f7a5-4012-b280-2e5ebaa3710e", "https://vgmdb.net/album/51364"]
 
-[f88f94b30b0a642accb105aaebe2db16]
+[a7549a6a2c6b3cb0c6177f3f022c9083]
 catalognumber = "SEBL-195"
 date = "2015-07-15"
 album = "Kalafina LIVE THE BEST 2015 \"Blue Day\" at 日本武道館"
@@ -2850,13 +2850,13 @@ tracks = [
     [4, "夏の林檎", "", 0],
     [5, "I have a dream", "", 0],
     [6, "seventh heaven", "", 0],
-    [7, "未来", "", 0],
+    [7, "未来", "", 1],
     [8, "花束", "", 0],
-    [9, "君の銀の庭", "", 0],
+    [9, "君の銀の庭", "", 1],
     [10, "満天", "", 0],
     [11, "to the beginning", "", 0],
     [12, "~Numquam vincar~", "", 0],
-    [13, "Magia[quattro]", "", 0],
+    [13, "Magia[quattro]", "", 1],
     [14, "destination unknown", "", 0],
     [15, "signal", "", 0],
     [16, "音楽", "", 0],
@@ -2873,7 +2873,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/52667"]
 
-[bc1ed11f56fb0041cd0ba7ae8b1e43fc]
+[243b7362412fbdf1fa764585504973a8]
 catalognumber = "SEXL-63"
 date = "2015-07-15"
 album = "Kalafina LIVE THE BEST 2015 \"Blue Day\" at 日本武道館"
@@ -2884,13 +2884,13 @@ tracks = [
     [4, "夏の林檎", "", 0],
     [5, "I have a dream", "", 0],
     [6, "seventh heaven", "", 0],
-    [7, "未来", "", 0],
+    [7, "未来", "", 1],
     [8, "花束", "", 0],
-    [9, "君の銀の庭", "", 0],
+    [9, "君の銀の庭", "", 1],
     [10, "満天", "", 0],
     [11, "to the beginning", "", 0],
     [12, "~Numquam vincar~", "", 0],
-    [13, "Magia[quattro]", "", 0],
+    [13, "Magia[quattro]", "", 1],
     [14, "destination unknown", "", 0],
     [15, "signal", "", 0],
     [16, "音楽", "", 0],
@@ -2907,13 +2907,13 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/52666"]
 
-[d3fbe740b3ea6d3309bebf3549fb076e]
+[d4134e5306c454536d06f92edcbf8040]
 catalognumber = "TAM3-0132"
 date = "2015-08-14"
 album = "AnimeViolin EDM"
 tracks = [
     [1, "海色（艦隊これくしょん -艦これ- OP主題歌）", "TAMUSIC", 0],
-    [2, "コネクト（魔法少女まどか☆マギカ OP主題歌）", "TAMUSIC", 0],
+    [2, "コネクト（魔法少女まどか☆マギカ OP主題歌）", "TAMUSIC", 1],
     [3, "星間飛行（マクロスFRONTIER 劇中歌）", "TAMUSIC", 0],
     [4, "ムーンライト伝説（美少女戦士セーラームーン(R,S,SuperS) OP主題歌）", "TAMUSIC", 0],
     [5, "ETERNAL BLAZE（魔法少女リリカルなのはA’s OP主題歌）", "TAMUSIC", 0],
@@ -2925,12 +2925,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dcc6bc7a-ee33-4749-bfa7-7ad3ab6bac94", "https://vgmdb.net/album/54095"]
 
-[2f4c09e9ca5eaf55c02092e9ad2c151f]
+[68d232f1bfe3f02942840c7acf3b3808]
 catalognumber = "AVCD-93303"
 date = "2015-12-09"
 album = "ANIME CLASSIC / 石川綾子"
 tracks = [
-    [1, "コネクト", "石川綾子", 0],
+    [1, "コネクト", "石川綾子", 1],
     [2, "シリウス", "石川綾子", 0],
     [3, "君の知らない物語", "石川綾子", 0],
     [4, "only my railgun", "石川綾子", 0],
@@ -2945,12 +2945,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/16c0cc54-0a8c-4cdf-ab3c-4b8b072d75ff", "https://vgmdb.net/album/55673"]
 
-[3993b8e06b3ad18db8cdc24dcee0f04b]
+[25763c112f058f8dfcbc482d79ac8451]
 catalognumber = "AVCD-93302/B"
 date = "2015-12-09"
 album = "ANIME CLASSIC / 石川綾子 [DVD付] Arrangement"
 tracks = [
-    [1, "コネクト", "石川綾子", 0],
+    [1, "コネクト", "石川綾子", 1],
     [2, "シリウス", "石川綾子", 0],
     [3, "君の知らない物語", "石川綾子", 0],
     [4, "only my railgun", "石川綾子", 0],
@@ -2975,12 +2975,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84900906-cadf-45f8-ac05-7f658742a74a", "https://vgmdb.net/album/55672"]
 
-[4e66f2fdc859cd2273574552d7296a6b]
+[3ff20372a2108571fdcf1d3de24e4935]
 catalognumber = "SECL-1833~4"
 date = "2016-01-20"
 album = "Kalafina 8th Anniversary Special products The Live Album「Kalafina LIVE TOUR 2014」at 東京国際フォーラムホールA Disc 1 [SECL-1833]"
 tracks = [
-    [1, "misterioso prelude 〜dolce", "Kalafina", 0],
+    [1, "misterioso prelude 〜dolce", "Kalafina", 1],
     [2, "adore", "Kalafina", 0],
     [3, "MC1", "Kalafina", 0],
     [4, "屋根の向こうに", "Kalafina", 0],
@@ -2988,24 +2988,24 @@ tracks = [
     [6, "storia", "Kalafina", 0],
     [7, "うつくしさ", "Kalafina", 0],
     [8, "red moon", "Kalafina", 0],
-    [9, "Magia[quattro]", "Kalafina", 0],
+    [9, "Magia[quattro]", "Kalafina", 1],
     [10, "to the beginning", "Kalafina", 0],
     [11, "seventh heaven 〜acoustic ver.〜", "Kalafina", 0],
     [12, "snow falling 〜acoustic ver.〜", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5d2545ae-9cbd-44cf-b781-bc92b316ccc8", "https://vgmdb.net/album/55715"]
 
-[8cae3cd6bb2c6148d5af3818d46675a9]
+[1f8c76e24747310d9891c92c23b038f3]
 catalognumber = "SECL-1833~4"
 date = "2016-01-20"
 album = "Kalafina 8th Anniversary Special products The Live Album「Kalafina LIVE TOUR 2014」at 東京国際フォーラムホールA Disc 2 [SECL-1834]"
 tracks = [
-    [1, "追憶", "Kalafina", 0],
+    [1, "追憶", "Kalafina", 1],
     [2, "obbligato", "Kalafina", 0],
     [3, "consolation", "Kalafina", 0],
-    [4, "ひかりふる", "Kalafina", 0],
-    [5, "君の銀の庭", "Kalafina", 0],
-    [6, "misterioso", "Kalafina", 0],
+    [4, "ひかりふる", "Kalafina", 1],
+    [5, "君の銀の庭", "Kalafina", 1],
+    [6, "misterioso", "Kalafina", 1],
     [7, "believe", "Kalafina", 0],
     [8, "overture〜音楽", "Kalafina", 0],
     [9, "heavenly blue", "Kalafina", 0],
@@ -3015,7 +3015,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d2545ae-9cbd-44cf-b781-bc92b316ccc8", "https://vgmdb.net/album/55715"]
 
-[f18f3912445d27461a2e4adf7180d29a]
+[9840dcde59a423999d7319e5b153b2f9]
 catalognumber = "LZM-2129"
 date = "2016-02-13"
 album = "SAYAKAVER.LIVE 01 / 佐咲紗花"
@@ -3025,7 +3025,7 @@ tracks = [
     [3, "DISCOTHEQUE", "", 0],
     [4, "sakura", "", 0],
     [5, "炎のたからもの", "", 0],
-    [6, "コネクト", "", 0],
+    [6, "コネクト", "", 1],
     [7, "Snow halation", "", 0],
     [8, "Anything Goes!", "", 0],
     [9, "Can Do", "", 0],
@@ -3036,7 +3036,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/74663"]
 
-[f1edb75bb127bc969ed096e3607ef814]
+[d4219e3284ea6c4d649a49a0321cc05a]
 catalognumber = "SEBL-210"
 date = "2016-06-22"
 album = "Kalafina LIVE TOUR 2015~2016 \"far on the water\" Special FINAL at 東京国際フォーラムホールA"
@@ -3046,14 +3046,14 @@ tracks = [
     [3, "五月の魔法", "", 0],
     [4, "～MC01～", "", 0],
     [5, "空色の椅子", "", 0],
-    [6, "lapis", "", 0],
+    [6, "lapis", "", 1],
     [7, "輝く空の静寂には", "", 0],
     [8, "～MC02～", "", 0],
     [9, "むすんでひらく", "", 0],
     [10, "storia", "", 0],
-    [11, "misterioso", "", 0],
+    [11, "misterioso", "", 1],
     [12, "One Light", "", 0],
-    [13, "nightmare ballet", "", 0],
+    [13, "nightmare ballet", "", 1],
     [14, "into the water", "", 0],
     [15, "in every nothing", "", 0],
     [16, "闇の唄", "", 0],
@@ -3075,7 +3075,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/160707"]
 
-[89e1890d625a2437f918b41fbeeaf522]
+[592812943d95b8d6fb59fc888e878ec7]
 catalognumber = "SEXL-77"
 date = "2016-06-22"
 album = "Kalafina LIVE TOUR 2015~2016 \"far on the water\" Special FINAL at 東京国際フォーラムホールA"
@@ -3085,14 +3085,14 @@ tracks = [
     [3, "五月の魔法", "", 0],
     [4, "～MC01～", "", 0],
     [5, "空色の椅子", "", 0],
-    [6, "lapis", "", 0],
+    [6, "lapis", "", 1],
     [7, "輝く空の静寂には", "", 0],
     [8, "～MC02～", "", 0],
     [9, "むすんでひらく", "", 0],
     [10, "storia", "", 0],
-    [11, "misterioso", "", 0],
+    [11, "misterioso", "", 1],
     [12, "One Light", "", 0],
-    [13, "nightmare ballet", "", 0],
+    [13, "nightmare ballet", "", 1],
     [14, "into the water", "", 0],
     [15, "in every nothing", "", 0],
     [16, "闇の唄", "", 0],
@@ -3114,7 +3114,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/160706"]
 
-[9738985bdc49836e56f9d693538a9a82]
+[b9a7aefd070bcc3bb4e1f3f6a0c04999]
 catalognumber = "PJO-0001"
 date = "2016-08-14"
 album = "Precious Jazz Orchestra Plays Anime Standards vol.1"
@@ -3123,20 +3123,20 @@ tracks = [
     [2, "Butter-Fly", "Precious Jazz Orchestra", 0],
     [3, "？でわっしょい", "Precious Jazz Orchestra", 0],
     [4, "Sis puella magica!", "Precious Jazz Orchestra", 0],
-    [5, "ルミナス", "Precious Jazz Orchestra", 0],
+    [5, "ルミナス", "Precious Jazz Orchestra", 1],
     [6, "ドラマチックマーケットライド", "Precious Jazz Orchestra", 0],
     [7, "夏色えがおで1,2,Jump!", "Precious Jazz Orchestra", 0],
     [8, "風といっしょに", "Precious Jazz Orchestra", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5f47c96c-9fcd-45ea-8ba6-0a92522b3fce", "https://vgmdb.net/album/60516"]
 
-[342b2ddcc40354abee4590f6639ae5e1]
+[f4af0f82a8184b588426b6216d3b3868]
 catalognumber = "AQCD-0006"
 date = "2016-08-14"
 album = "あ! やせいの キュゥべえが とびだしてきた!"
 tracks = [
-    [1, "Magia[quattro]", "", 0],
-    [2, "he is...", "", 0],
+    [1, "Magia[quattro]", "", 1],
+    [2, "he is...", "", 1],
     [3, "～オープニング～", "", 0],
     [4, "マサキのもとへ-ハナダより", "", 0],
     [5, "マサラタウンのテーマ", "", 0],
@@ -3157,7 +3157,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/82299"]
 
-[0010ad92a26bfc6731e104a9fae71db7]
+[4599d3d6db74a59752723213174188a9]
 catalognumber = "SECL-2000"
 date = "2016-11-16"
 album = "Winter Acoustic \"Kalafina with Strings\""
@@ -3168,7 +3168,7 @@ tracks = [
     [4, "sprinter 〜with strings ver.〜", "Kalafina", 0],
     [5, "Jingle Bells", "Kalafina", 0],
     [6, "we wish you a merry Christmas", "Kalafina", 0],
-    [7, "君の銀の庭 〜with strings ver.〜", "Kalafina", 0],
+    [7, "君の銀の庭 〜with strings ver.〜", "Kalafina", 1],
     [8, "ring your bell 〜with strings ver.〜", "Kalafina", 0],
     [9, "もろびとこぞりて", "Kalafina", 0],
     [10, "have yourself a merry little Christmas", "Kalafina", 0],
@@ -3178,14 +3178,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/dd73bc1d-610b-4125-be89-04ab0002ba25", "https://vgmdb.net/album/61461"]
 
-[936ac7efe78d8a170b0e22457e0a6e5e]
+[3b4263d0f763aa36249aa731d83d5b4f]
 catalognumber = "SECL-2061~2"
 date = "2016-11-30"
 album = "again / ClariS [Limited Edition] Disc 1 (CD) [SECL-2061]"
 tracks = [
     [1, "again", "ClariS", 0],
     [2, "Collage", "ClariS", 0],
-    [3, "コネクト -2017-", "ClariS", 0],
+    [3, "コネクト -2017-", "ClariS", 1],
     [4, "again -Instrumental-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2f12ec6d-465d-4b26-92b2-1189be2e5231", "https://vgmdb.net/album/61633"]
@@ -3199,19 +3199,19 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2f12ec6d-465d-4b26-92b2-1189be2e5231", "https://vgmdb.net/album/61633"]
 
-[9d02abfa06f312869995d4b3ba629513]
+[ac717ecc4d00e28d115dc698b36c978d]
 catalognumber = "SECL-2063"
 date = "2016-11-30"
 album = "again / ClariS"
 tracks = [
     [1, "again", "ClariS", 0],
     [2, "Collage", "ClariS", 0],
-    [3, "コネクト -2017-", "ClariS", 0],
+    [3, "コネクト -2017-", "ClariS", 1],
     [4, "again -Instrumental-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c307a136-6590-4e08-8418-d7cbc86da7cb", "https://vgmdb.net/album/61632"]
 
-[2f86c67d742e0ef796b7129ac4db680e]
+[132acdfcabff1a6938eb5bd6a097c33b]
 catalognumber = "SEXL-86"
 date = "2017-01-18"
 album = "Kalafina Arena LIVE 2016 at 日本武道館"
@@ -3226,9 +3226,9 @@ tracks = [
     [8, "ring your bell", "", 0],
     [9, "〜MC02〜", "", 0],
     [10, "夏の朝", "", 0],
-    [11, "追憶", "", 0],
+    [11, "追憶", "", 1],
     [12, "red moon", "", 0],
-    [13, "Magia[quattro]", "", 0],
+    [13, "Magia[quattro]", "", 1],
     [14, "to the beginning", "", 0],
     [15, "〜MC03〜", "", 0],
     [16, "blaze", "", 0],
@@ -3244,15 +3244,15 @@ tracks = [
     [26, "symphonia", "", 0],
     [27, "ring your bell", "", 0],
     [28, "花束", "", 0],
-    [29, "君の銀の庭", "", 0],
-    [30, "ひかりふる", "", 0],
-    [31, "未来", "", 0],
+    [29, "君の銀の庭", "", 1],
+    [30, "ひかりふる", "", 1],
+    [31, "未来", "", 1],
     [32, "sprinter", "", 0],
     [33, "The Document of Kalafina Arena LIVE 2016 at 日本武道館 and Kalafina LIVE 2016 \"far on the water\" in Mexico", "", 0],
 ]
 links = ["https://vgmdb.net/album/63127"]
 
-[125df37886dbe18e8b3d66d68f94859c]
+[46f1cfa1974f50f614d671fb1bc6898e]
 catalognumber = "SEBL-216~7"
 date = "2017-01-18"
 album = "Kalafina Arena LIVE 2016 at 日本武道館"
@@ -3267,9 +3267,9 @@ tracks = [
     [8, "ring your bell", "", 0],
     [9, "〜MC02〜", "", 0],
     [10, "夏の朝", "", 0],
-    [11, "追憶", "", 0],
+    [11, "追憶", "", 1],
     [12, "red moon", "", 0],
-    [13, "Magia[quattro]", "", 0],
+    [13, "Magia[quattro]", "", 1],
     [14, "to the beginning", "", 0],
     [15, "〜MC03〜", "", 0],
     [16, "blaze", "", 0],
@@ -3285,15 +3285,15 @@ tracks = [
     [26, "symphonia", "", 0],
     [27, "ring your bell", "", 0],
     [28, "花束", "", 0],
-    [29, "君の銀の庭", "", 0],
-    [30, "ひかりふる", "", 0],
-    [31, "未来", "", 0],
+    [29, "君の銀の庭", "", 1],
+    [30, "ひかりふる", "", 1],
+    [31, "未来", "", 1],
     [32, "sprinter", "", 0],
     [33, "The Document of Kalafina Arena LIVE 2016 at 日本武道館 and Kalafina LIVE 2016 \"far on the water\" in Mexico", "", 0],
 ]
 links = ["https://vgmdb.net/album/63128"]
 
-[ab9bec0a107c93e8e9a777bc68a39d9d]
+[a879cce803f34e668e373739cceeae82]
 catalognumber = "SECL-2108~9"
 date = "2017-01-25"
 album = "Fairy Castle / ClariS [Limited Edition] Disc 1 (CD) [SECL-2108]"
@@ -3310,9 +3310,9 @@ tracks = [
     [10, "Gravity", "ClariS", 0],
     [11, "recall", "ClariS", 0],
     [12, "ひらひら ひらら", "ClariS", 0],
-    [13, "コネクト -2017-", "ClariS", 0],
-    [14, "ルミナス -2017-", "ClariS", 0],
-    [15, "カラフル -2017-", "ClariS", 0],
+    [13, "コネクト -2017-", "ClariS", 1],
+    [14, "ルミナス -2017-", "ClariS", 1],
+    [15, "カラフル -2017-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7471304d-b56d-441b-b055-6f8e36e591c4", "https://vgmdb.net/album/63646"]
 
@@ -3330,7 +3330,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/7471304d-b56d-441b-b055-6f8e36e591c4", "https://vgmdb.net/album/63646"]
 
-[aa56585b03048b7d5edead6bb36de06f]
+[dfc8f0731dac097ddc4d96935f27a544]
 catalognumber = "SECL-2106~7"
 date = "2017-01-25"
 album = "Fairy Castle / ClariS [Limited Edition]"
@@ -3347,13 +3347,13 @@ tracks = [
     [10, "Gravity", "ClariS", 0],
     [11, "recall", "ClariS", 0],
     [12, "ひらひら ひらら", "ClariS", 0],
-    [13, "コネクト -2017-", "ClariS", 0],
-    [14, "ルミナス -2017-", "ClariS", 0],
-    [15, "カラフル -2017-", "ClariS", 0],
+    [13, "コネクト -2017-", "ClariS", 1],
+    [14, "ルミナス -2017-", "ClariS", 1],
+    [15, "カラフル -2017-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ca6fdbae-dbe9-46f3-a684-6db6b1bfb287", "https://vgmdb.net/album/63647"]
 
-[381b7f7ea9c726f43eca46a850225e0b]
+[676f59952883f719b505b0055086bcbf]
 catalognumber = "FPCR-023"
 date = "2017-04-30"
 album = "FMPSG023 -marble-"
@@ -3367,7 +3367,7 @@ tracks = [
     [7, "2004", "萌尽狼", 0],
     [8, "Beyond The Frame Over", "Ｗｉｚ．", 0],
     [9, "Der Blaue Marmor", "ズオウ・リアキ", 0],
-    [10, "カラフル", "wani", 0],
+    [10, "カラフル", "wani", 1],
     [11, "Stylish Princess", "gp-ln", 0],
     [12, "桜の頃", "BEEPBOY", 0],
     [13, "Overnight Journey", "sdhizumi", 0],
@@ -3396,12 +3396,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/335d2c72-187d-4558-98e1-e83b8b27caa6", "https://vgmdb.net/album/157736"]
 
-[be85850b246e4cba08b330adc31cc67c]
+[4e90d1ad42b462cb5d2e1bfef8c8cad8]
 catalognumber = "TKAN-0003"
 date = "2017-04-30"
 album = "宅庵～春～"
 tracks = [
-    [1, "コネクト", "", 0],
+    [1, "コネクト", "", 1],
     [2, "CHECKER KNIGHTS", "", 0],
     [3, "Sakura iro no Yume", "", 0],
     [4, "メルト", "", 0],
@@ -3464,7 +3464,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/78d123d5-77f3-4dca-b711-f3417c9febe0", "https://vgmdb.net/album/66901"]
 
-[4d498bd1ed6f938c7c463a16931d9e42]
+[5eea572d0a3128256cdd3127c8bf6107]
 catalognumber = "VVXL-12"
 date = "2017-07-12"
 album = "ClariS 1st 武道館コンサート 〜2つの仮面と失われた太陽〜"
@@ -3478,13 +3478,13 @@ tracks = [
     [7, "ホログラム", "ClariS", 0],
     [8, "〜第二章〜", "ClariS", 0],
     [9, "pastel", "ClariS", 0],
-    [10, "blossom", "ClariS", 0],
+    [10, "blossom", "ClariS", 1],
     [11, "眠り姫", "ClariS", 0],
     [12, "〜第三章〜", "ClariS", 0],
     [13, "CLICK", "ClariS", 0],
-    [14, "コネクト", "ClariS", 0],
-    [15, "ルミナス", "ClariS", 0],
-    [16, "カラフル", "ClariS", 0],
+    [14, "コネクト", "ClariS", 1],
+    [15, "ルミナス", "ClariS", 1],
+    [16, "カラフル", "ClariS", 1],
     [17, "〜第四章〜", "ClariS", 0],
     [18, "水色クラゲ", "ClariS", 0],
     [19, "このiは虚数", "ClariS", 0],
@@ -3504,7 +3504,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c3024f1c-5b94-41d9-bf4a-4eae35e93af4", "https://vgmdb.net/album/67693"]
 
-[5af9c5ba3f7d3aad5aaaf3fb44fe51ac]
+[888bf0ab874f5b6c2a9410aad7a76e30]
 catalognumber = "VVXL-9~11"
 date = "2017-07-12"
 album = "ClariS 1st 武道館コンサート 〜2つの仮面と失われた太陽〜 Vocal, Live Event, Remix"
@@ -3518,13 +3518,13 @@ tracks = [
     [7, "ホログラム", "ClariS", 0],
     [8, "〜第二章〜", "ClariS", 0],
     [9, "pastel", "ClariS", 0],
-    [10, "blossom", "ClariS", 0],
+    [10, "blossom", "ClariS", 1],
     [11, "眠り姫", "ClariS", 0],
     [12, "〜第三章〜", "ClariS", 0],
     [13, "CLICK", "ClariS", 0],
-    [14, "コネクト", "ClariS", 0],
-    [15, "ルミナス", "ClariS", 0],
-    [16, "カラフル", "ClariS", 0],
+    [14, "コネクト", "ClariS", 1],
+    [15, "ルミナス", "ClariS", 1],
+    [16, "カラフル", "ClariS", 1],
     [17, "〜第四章〜", "ClariS", 0],
     [18, "水色クラゲ", "ClariS", 0],
     [19, "このiは虚数", "ClariS", 0],
@@ -3544,7 +3544,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c3024f1c-5b94-41d9-bf4a-4eae35e93af4", "https://vgmdb.net/album/67694"]
 
-[b0561ebe34bad908dd653a2256a2feae]
+[1dd0d479f936452e2106f82359868d19]
 catalognumber = "VVXL-9~11"
 date = "2017-07-12"
 album = "ClariS 1st 武道館コンサート 〜2つの仮面と失われた太陽〜 Vocal, Live Event Disc 2"
@@ -3555,12 +3555,12 @@ tracks = [
     [4, "border", "ClariS", 0],
     [5, "ホログラム", "ClariS", 0],
     [6, "pastel", "ClariS", 0],
-    [7, "blossom", "ClariS", 0],
+    [7, "blossom", "ClariS", 1],
     [8, "眠り姫", "ClariS", 0],
     [9, "CLICK", "ClariS", 0],
-    [10, "コネクト", "ClariS", 0],
-    [11, "ルミナス", "ClariS", 0],
-    [12, "カラフル", "ClariS", 0],
+    [10, "コネクト", "ClariS", 1],
+    [11, "ルミナス", "ClariS", 1],
+    [12, "カラフル", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c3024f1c-5b94-41d9-bf4a-4eae35e93af4", "https://vgmdb.net/album/67694"]
 
@@ -3591,29 +3591,29 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/68793"]
 
-[d9737273484933433147596158448e2c]
+[0fe0b92a66cbc022b3f47b9bf0c49f11]
 catalognumber = "SVWC-70281~2"
 date = "2017-08-09"
 album = "魔法少女まどか☆マギカ Ultimate Best Disc 1 (CD) [SVWC-70281]"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "また あした", "鹿目まどか (悠木碧)", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "また あした", "鹿目まどか (悠木碧)", 1],
     [3, "Credens justitiam", "梶浦由記", 0],
     [4, "Sis puella magica!", "梶浦由記", 0],
-    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
-    [6, "Magia", "Kalafina", 0],
-    [7, "ルミナス", "ClariS", 0],
+    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
+    [6, "Magia", "Kalafina", 1],
+    [7, "ルミナス", "ClariS", 1],
     [8, "she is a witch", "梶浦由記", 0],
-    [9, "ひかりふる", "Kalafina", 0],
-    [10, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 0],
-    [11, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 0],
-    [12, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 0],
-    [13, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 0],
-    [14, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 0],
-    [15, "まだダメよ", "梶浦由記", 0],
-    [16, "Noi!", "梶浦由記", 0],
-    [17, "カラフル", "ClariS", 0],
-    [18, "君の銀の庭", "Kalafina", 0],
+    [9, "ひかりふる", "Kalafina", 1],
+    [10, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 1],
+    [11, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 1],
+    [12, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 1],
+    [13, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 1],
+    [14, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 1],
+    [15, "まだダメよ", "梶浦由記", 1],
+    [16, "Noi!", "梶浦由記", 1],
+    [17, "カラフル", "ClariS", 1],
+    [18, "君の銀の庭", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/14e452d1-c071-41df-8cd0-77aa68b3c555", "https://vgmdb.net/album/68793"]
 
@@ -3697,37 +3697,37 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b4e373db-39cd-4b25-ae25-4fc9921017ed", "https://vgmdb.net/album/69148"]
 
-[1900732277e7789e898e28a9248d4c7d]
+[64ebca107a610530eea738105b6900cd]
 catalognumber = "SVWJ-70281~2"
 date = "2017-11-03"
 album = "魔法少女まどか☆マギカ Ultimate Best [アナログ盤] Disc 1 [SVWJ-70281]"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "また あした", "鹿目まどか (悠木碧)", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "また あした", "鹿目まどか (悠木碧)", 1],
     [3, "Credens justitiam", "梶浦由記", 0],
     [4, "Sis puella magica!", "梶浦由記", 0],
-    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
-    [6, "Magia", "Kalafina", 0],
-    [7, "ルミナス", "ClariS", 0],
+    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
+    [6, "Magia", "Kalafina", 1],
+    [7, "ルミナス", "ClariS", 1],
     [8, "she is a witch", "梶浦由記", 0],
-    [9, "ひかりふる", "Kalafina", 0],
+    [9, "ひかりふる", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b34346f-9af1-498e-8a7e-135bacd6ae7a", "https://vgmdb.net/album/71158"]
 
-[141d24d982e7ca367e003cd0e3249da9]
+[e5b65ffad4177cd7a761362158a0fe9e]
 catalognumber = "SVWJ-70281~2"
 date = "2017-11-03"
 album = "魔法少女まどか☆マギカ Ultimate Best [アナログ盤] Disc 2 [SVWJ-70282]"
 tracks = [
-    [1, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 0],
-    [2, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 0],
-    [3, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 0],
-    [4, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 0],
-    [5, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 0],
-    [6, "まだダメよ", "梶浦由記", 0],
-    [7, "Noi!", "梶浦由記", 0],
-    [8, "カラフル", "ClariS", 0],
-    [9, "君の銀の庭", "Kalafina", 0],
+    [1, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 1],
+    [2, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 1],
+    [3, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 1],
+    [4, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 1],
+    [5, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 1],
+    [6, "まだダメよ", "梶浦由記", 1],
+    [7, "Noi!", "梶浦由記", 1],
+    [8, "カラフル", "ClariS", 1],
+    [9, "君の銀の庭", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b34346f-9af1-498e-8a7e-135bacd6ae7a", "https://vgmdb.net/album/71158"]
 
@@ -3820,7 +3820,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/81b8318a-797e-425b-ad3a-f2681f610959", "https://vgmdb.net/album/80472"]
 
-[bf4a323d8f6b10ae6aa26b0a07423cfb]
+[5d5717d908be9c4d5293c650247162db]
 catalognumber = "VVCL-1338~40"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 Disc 2 [VVCL-1339]"
@@ -3832,22 +3832,22 @@ tracks = [
     [5, "to the beginning", "Kalafina", 0],
     [6, "満天", "Kalafina", 0],
     [7, "moonfesta〜ムーンフェスタ〜", "Kalafina", 0],
-    [8, "ひかりふる", "Kalafina", 0],
-    [9, "未来", "Kalafina", 0],
-    [10, "Magia[quattro]", "Kalafina", 0],
+    [8, "ひかりふる", "Kalafina", 1],
+    [9, "未来", "Kalafina", 1],
+    [10, "Magia[quattro]", "Kalafina", 1],
     [11, "夢の大地", "Kalafina", 0],
     [12, "アレルヤ", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/81b8318a-797e-425b-ad3a-f2681f610959", "https://vgmdb.net/album/80472"]
 
-[2820dd655b9f0de8b85525e6f041a1ee]
+[bf6f2ece4a537583947921e2a3e12b77]
 catalognumber = "VVCL-1338~40"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 Disc 3 [VVCL-1340]"
 tracks = [
     [1, "dolce", "Kalafina", 0],
-    [2, "君の銀の庭", "Kalafina", 0],
-    [3, "misterioso", "Kalafina", 0],
+    [2, "君の銀の庭", "Kalafina", 1],
+    [3, "misterioso", "Kalafina", 1],
     [4, "heavenly blue", "Kalafina", 0],
     [5, "believe", "Kalafina", 0],
     [6, "ring your bell", "Kalafina", 0],
@@ -3880,7 +3880,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61112dc5-275f-4f2a-9eab-0aab50497614", "https://vgmdb.net/album/80471"]
 
-[40b94132547c34fd7936b2975f2d7647]
+[8105ab514ec52349da50f66d1d38c0c1]
 catalognumber = "VVCL-1332~7"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 [Limited Edition] Vocal Disc 2"
@@ -3892,22 +3892,22 @@ tracks = [
     [5, "to the beginning", "Kalafina", 0],
     [6, "満天", "Kalafina", 0],
     [7, "moonfesta〜ムーンフェスタ〜", "Kalafina", 0],
-    [8, "ひかりふる", "Kalafina", 0],
-    [9, "未来", "Kalafina", 0],
-    [10, "Magia[quattro]", "Kalafina", 0],
+    [8, "ひかりふる", "Kalafina", 1],
+    [9, "未来", "Kalafina", 1],
+    [10, "Magia[quattro]", "Kalafina", 1],
     [11, "夢の大地", "Kalafina", 0],
     [12, "アレルヤ", "Kalafina", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/81b8318a-797e-425b-ad3a-f2681f610959", "https://vgmdb.net/album/80471"]
 
-[b38750e2e150651c96705e02c8ddf647]
+[ef37883c1d93e11ca88baed490411eb7]
 catalognumber = "VVCL-1332~7"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 [Limited Edition] Vocal Disc 3"
 tracks = [
     [1, "dolce", "Kalafina", 0],
-    [2, "君の銀の庭", "Kalafina", 0],
-    [3, "misterioso", "Kalafina", 0],
+    [2, "君の銀の庭", "Kalafina", 1],
+    [3, "misterioso", "Kalafina", 1],
     [4, "heavenly blue", "Kalafina", 0],
     [5, "believe", "Kalafina", 0],
     [6, "ring your bell", "Kalafina", 0],
@@ -3920,14 +3920,14 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61112dc5-275f-4f2a-9eab-0aab50497614", "https://vgmdb.net/album/80471"]
 
-[e9de3e08b48675d1529efefdb152a499]
+[291f4e1e77ca1acf14070b786bbabfc0]
 catalognumber = "VVCL-1332~7"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 [Limited Edition] Vocal, Live Event Disc 4"
 tracks = [
     [1, "ring your bell （in the silence）", "Kalafina", 0],
     [2, "ring your bell", "Kalafina", 0],
-    [3, "未来", "Kalafina", 0],
+    [3, "未来", "Kalafina", 1],
     [4, "〜MC01〜", "Kalafina", 0],
     [5, "lirica", "Kalafina", 0],
     [6, "満天", "Kalafina", 0],
@@ -3964,13 +3964,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/61112dc5-275f-4f2a-9eab-0aab50497614", "https://vgmdb.net/album/80471"]
 
-[0bafbc22b7444a251e4763d479bb06e3]
+[dbb91804b607689f345f329c1c9d1365]
 catalognumber = "VVCL-1332~7"
 date = "2018-10-24"
 album = "Kalafina All Time Best 2008-2018 [Limited Edition] Vocal, Live Event Disc 6"
 tracks = [
-    [1, "君の銀の庭 Accordion Solo 〜 nightmare ballet", "Kalafina", 0],
-    [2, "ひかりふる", "Kalafina", 0],
+    [1, "君の銀の庭 Accordion Solo 〜 nightmare ballet", "Kalafina", 1],
+    [2, "ひかりふる", "Kalafina", 1],
     [3, "百火撩乱", "Kalafina", 0],
     [4, "〜MC05〜", "Kalafina", 0],
     [5, "アレルヤ", "Kalafina", 0],
@@ -4009,7 +4009,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84788"]
 
-[f54ef9665b150522f8ab234d4f1901b0]
+[f2020926c995cab784fd7f91d72eb4aa]
 catalognumber = "AICL-3676"
 date = "2019-04-03"
 album = "平成アニソン大賞 mixed by DJ和"
@@ -4017,7 +4017,7 @@ tracks = [
     [1, "ようこそジャパリパークへ", "どうぶつビスケッツ×PPP", 0],
     [2, "ゆりゆららららゆるゆり大事件", "七森中☆ごらく部", 0],
     [3, "READY!! (M@STER VERSION)", "765PRO ALLSTARS", 0],
-    [4, "コネクト", "ClariS", 0],
+    [4, "コネクト", "ClariS", 1],
     [5, "Snow halation", "μ's", 0],
     [6, "Crow Song", "Girls Dead Monster", 0],
     [7, "空色デイズ", "中川翔子", 0],
@@ -4069,12 +4069,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/82d43d3f-8ef7-47cc-a2b8-4abfe55445e0", "https://vgmdb.net/album/86222"]
 
-[b7a5192ed9760510b8a161acf1e2b5ce]
+[f28903ae2beccbf2c91a9c81f4176eb6]
 catalognumber = "VVXX-00460"
 date = "2019-08-14"
 album = "シグナル / ClariS"
 tracks = [
-    [1, "シグナル", "ClariS", 0],
+    [1, "シグナル", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bf856cd9-951d-49e0-bca6-6759f869e23e", "https://vgmdb.net/album/89431"]
 
@@ -4100,7 +4100,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/48e367d4-eb73-4f5f-9f49-053b6fd05d88", "https://vgmdb.net/album/89117"]
 
-[210b17e3bc519eaefe306dc86750b363]
+[2645cc3911d4f90b38d760bf1c7b24f2]
 catalognumber = "VICP-65552"
 date = "2019-10-23"
 album = "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.6~"
@@ -4115,7 +4115,7 @@ tracks = [
     [8, "四季ノ唄", "Rasmus Faber presents Platina Jazz", 0],
     [9, "ウンディーネ", "Rasmus Faber presents Platina Jazz", 0],
     [10, "銀河鉄道999", "Rasmus Faber presents Platina Jazz", 0],
-    [11, "コネクト", "Rasmus Faber presents Platina Jazz", 0],
+    [11, "コネクト", "Rasmus Faber presents Platina Jazz", 1],
     [12, "One more time, One more chance", "Rasmus Faber presents Platina Jazz", 0],
     [13, "The Real Folk Blues", "Rasmus Faber presents Platina Jazz", 0],
     [14, "もってけ! セーラーふく", "Rasmus Faber presents Platina Jazz", 0],
@@ -4123,16 +4123,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3f3b58cc-c8ac-44ce-b303-da1d460b4c73", "https://vgmdb.net/album/90432"]
 
-[94734b0f4607e1b8b60b9f9368bafcd1]
+[da36fe96e774f99d3595aae9100b2a17]
 catalognumber = "VVXX-00488"
 date = "2019-10-28"
 album = "うつろい / TrySail"
 tracks = [
-    [1, "うつろい", "TrySail", 0],
+    [1, "うつろい", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/44b0993d-6ea1-47a5-a74b-7a657a0a9241", "https://vgmdb.net/album/91985"]
 
-[390d04cc2444d484731d32a6934a7f33]
+[3cccdf55edf7f6b8d49a82fa0bd23524]
 catalognumber = "VVXL-43~4"
 date = "2019-10-30"
 album = "SACRA MUSIC FES.2019 -NEW GENERATION- Disc 1 [VVXL-43]"
@@ -4142,10 +4142,10 @@ tracks = [
     [3, "決闘", "", 0],
     [4, "近日公開第二章", "", 0],
     [5, "敗者復活戦自由形", "", 0],
-    [6, "コネクト", "", 0],
+    [6, "コネクト", "", 1],
     [7, "かかわり", "", 0],
     [8, "NEWLOOK", "", 0],
-    [9, "starry", "", 0],
+    [9, "starry", "", 1],
     [10, "衝動", "", 0],
     [11, "ideal white", "", 0],
     [12, "スタートダッシュ", "", 0],
@@ -4166,7 +4166,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99100"]
 
-[bacc9da0adbb02725007b9f6edcc9d3c]
+[17752264d899409e2ecf7e92bc0aad46]
 catalognumber = "VVXL-43~4"
 date = "2019-10-30"
 album = "SACRA MUSIC FES.2019 -NEW GENERATION- Disc 2 [VVXL-44]"
@@ -4187,7 +4187,7 @@ tracks = [
     [14, "irony", "", 0],
     [15, "CheerS", "", 0],
     [16, "ヒトリゴト", "", 0],
-    [17, "カラフル", "", 0],
+    [17, "カラフル", "", 1],
     [18, "WANTED GIRL", "", 0],
     [19, "センパイ。", "", 0],
     [20, "azure", "", 0],
@@ -4203,12 +4203,12 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99100"]
 
-[b15ceebcb75ff0cf08c6e5318bdc7ecd]
+[a3cb95ed5bfd2d51024a62a9f444bcce]
 catalognumber = "VVXL-40~2"
 date = "2019-10-30"
 album = "SACRA MUSIC FES.2019 -NEW GENERATION- [初回生産限定盤] Disc 3 (CD) [VVXL-42]"
 tracks = [
-    [1, "コネクト", "", 0],
+    [1, "コネクト", "", 1],
     [2, "かかわり", "", 0],
     [3, "君色シグナル", "", 0],
     [4, "アイヲウタエ", "", 0],
@@ -4222,7 +4222,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99099"]
 
-[83c0b1564d88e3ee03ba998745989908]
+[94c4662b2d5926cff7368af4408cec64]
 catalognumber = "VVXL-40~2"
 date = "2019-10-30"
 album = "SACRA MUSIC FES.2019 -NEW GENERATION- [初回生産限定盤] Disc 1 (Blu-ray) [VVXL-40]"
@@ -4232,10 +4232,10 @@ tracks = [
     [3, "決闘", "", 0],
     [4, "近日公開第二章", "", 0],
     [5, "敗者復活戦自由形", "", 0],
-    [6, "コネクト", "", 0],
+    [6, "コネクト", "", 1],
     [7, "かかわり", "", 0],
     [8, "NEWLOOK", "", 0],
-    [9, "starry", "", 0],
+    [9, "starry", "", 1],
     [10, "衝動", "", 0],
     [11, "ideal white", "", 0],
     [12, "スタートダッシュ", "", 0],
@@ -4256,7 +4256,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99099"]
 
-[1ff35caaa157bba052371776fd6c1df3]
+[4458deba7b595d98e597a28a0075a5dc]
 catalognumber = "VVXL-40~2"
 date = "2019-10-30"
 album = "SACRA MUSIC FES.2019 -NEW GENERATION- [初回生産限定盤] Disc 2 (Blu-ray) [VVXL-41]"
@@ -4277,7 +4277,7 @@ tracks = [
     [14, "irony", "", 0],
     [15, "CheerS", "", 0],
     [16, "ヒトリゴト", "", 0],
-    [17, "カラフル", "", 0],
+    [17, "カラフル", "", 1],
     [18, "WANTED GIRL", "", 0],
     [19, "センパイ。", "", 0],
     [20, "azure", "", 0],
@@ -4293,7 +4293,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/99099"]
 
-[3180d57eab67c7a176ca068a6d3e721b]
+[22f475685482b2dbbc8b999053dfc424]
 catalognumber = "LIAM-1002"
 date = "2019-12-18"
 album = "REVIVES II -Lia Sings beautiful anime songs-"
@@ -4304,23 +4304,23 @@ tracks = [
     [4, "unravel", "Lia", 0],
     [5, "you", "Lia", 0],
     [6, "メグメル", "Lia", 0],
-    [7, "コネクト", "Lia", 0],
+    [7, "コネクト", "Lia", 1],
     [8, "Agape", "Lia", 0],
     [9, "ひまわりの約束", "Lia", 0],
     [10, "小さなてのひら", "Lia", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7d2864e9-6c84-4950-b442-882f7ddf87af", "https://vgmdb.net/album/91481"]
 
-[e7ec2eef3dc8123ebdd59892594f7548]
+[47b6bd34382a260c92c8bb4032acbbb4]
 catalognumber = "VVXX-00518"
 date = "2020-01-05"
 album = "ごまかし / TrySail"
 tracks = [
-    [1, "ごまかし", "TrySail", 0],
+    [1, "ごまかし", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ed7f65f2-46ae-4e6a-b52a-1b25d121a25d", "https://vgmdb.net/album/95029"]
 
-[62c2f93dc42379616b3c2dc2efc08c1f]
+[3ae2f3e91ca60100789d6e567e3151b0]
 catalognumber = "N/A"
 date = "2020-03-02"
 album = "ファミドカマギカ"
@@ -4330,60 +4330,60 @@ tracks = [
     [3, "Credens justitiam (N163)", "nocturnalplant", 0],
     [4, "Venari strigas (VRC6)", "nocturnalplant", 0],
     [5, "Decretum (N163)", "nocturnalplant", 0],
-    [6, "Numquam vincar (VRC6)", "nocturnalplant", 0],
+    [6, "Numquam vincar (VRC6)", "nocturnalplant", 1],
     [7, "Salve, terrae magicae (NES)", "nocturnalplant", 0],
     [8, "Absolute configuration (VRC6)", "nocturnalplant", 0],
     [9, "We're here for you (N163)", "nocturnalplant", 0],
     [10, "I was waiting for this moment (MMC5)", "nocturnalplant", 0],
-    [11, "Magia (VRC7)", "nocturnalplant", 0],
+    [11, "Magia (VRC7)", "nocturnalplant", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5b580bc8-035c-4683-a9ef-fc9bfb4cd98b", "https://vgmdb.net/album/121588"]
 
-[4b733483255aac39c1b7bbd87be4f7a1]
+[a9290045bac4441263adeebfe2aaaef9]
 catalognumber = "VVCL-1612"
 date = "2020-03-04"
 album = "アリシア/シグナル / ClariS"
 tracks = [
-    [1, "アリシア", "ClariS", 0],
-    [2, "シグナル", "ClariS", 0],
-    [3, "ユニゾン", "ClariS", 0],
-    [4, "アリシア -Instrumental-", "ClariS", 0],
-    [5, "シグナル -Instrumental-", "ClariS", 0],
+    [1, "アリシア", "ClariS", 1],
+    [2, "シグナル", "ClariS", 1],
+    [3, "ユニゾン", "ClariS", 1],
+    [4, "アリシア -Instrumental-", "ClariS", 1],
+    [5, "シグナル -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c5163646-3190-4d5f-89d9-2a2100dc50e9", "https://vgmdb.net/album/95269"]
 
-[0c68b6f0fd7d0931542995527f1a903f]
+[42e7383fc1fb6ebb38df22597bd4ba39]
 catalognumber = "ANZX-15552"
 date = "2020-03-04"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 1"
 tracks = [
-    [1, "Void", "尾澤拓実", 0],
-    [2, "Creeping Darkness", "尾澤拓実", 0],
-    [3, "La chica dijo", "尾澤拓実", 0],
-    [4, "ORO", "尾澤拓実", 0],
-    [5, "La gis sulva za Celow", "尾澤拓実", 0],
-    [6, "She Insisted", "尾澤拓実", 0],
-    [7, "カミハマポリフォニック", "尾澤拓実", 0],
-    [8, "Rumored JINTA", "尾澤拓実", 0],
-    [9, "Magia Curativa", "尾澤拓実", 0],
-    [10, "Fata Magică", "尾澤拓実", 0],
-    [11, "Keraguan", "尾澤拓実", 0],
-    [12, "Philosopher's Play", "尾澤拓実", 0],
-    [13, "Mentiroso", "尾澤拓実", 0],
-    [14, "Paradero de Memoria", "尾澤拓実", 0],
+    [1, "Void", "尾澤拓実", 1],
+    [2, "Creeping Darkness", "尾澤拓実", 1],
+    [3, "La chica dijo", "尾澤拓実", 1],
+    [4, "ORO", "尾澤拓実", 1],
+    [5, "La gis sulva za Celow", "尾澤拓実", 1],
+    [6, "She Insisted", "尾澤拓実", 1],
+    [7, "カミハマポリフォニック", "尾澤拓実", 1],
+    [8, "Rumored JINTA", "尾澤拓実", 1],
+    [9, "Magia Curativa", "尾澤拓実", 1],
+    [10, "Fata Magică", "尾澤拓実", 1],
+    [11, "Keraguan", "尾澤拓実", 1],
+    [12, "Philosopher's Play", "尾澤拓実", 1],
+    [13, "Mentiroso", "尾澤拓実", 1],
+    [14, "Paradero de Memoria", "尾澤拓実", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/17b8911b-6b18-4412-937f-558acd07e194", "https://vgmdb.net/album/94982"]
 
-[976495b93a4bdc7532a4148443c36730]
+[5acc4afdc9b8a9b081ac5681e42fe16e]
 catalognumber = "VVCL-1613~4"
 date = "2020-03-04"
 album = "アリシア/シグナル / ClariS Disc 1 (CD) [VVCL-1613]"
 tracks = [
-    [1, "アリシア", "ClariS", 0],
-    [2, "シグナル", "ClariS", 0],
-    [3, "ユニゾン", "ClariS", 0],
-    [4, "アリシア -TV MIX-", "ClariS", 0],
-    [5, "シグナル -GAME MIX-", "ClariS", 0],
+    [1, "アリシア", "ClariS", 1],
+    [2, "シグナル", "ClariS", 1],
+    [3, "ユニゾン", "ClariS", 1],
+    [4, "アリシア -TV MIX-", "ClariS", 1],
+    [5, "シグナル -GAME MIX-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f93cf3ec-2aa7-4655-a341-1c4e748f4711", "https://vgmdb.net/album/95270"]
 
@@ -4396,16 +4396,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/95270"]
 
-[0b381bc3ce3f3b323a61959540cc463d]
+[b8009206ac413a10031e5ba1757513f2]
 catalognumber = "VVCL-1610~1"
 date = "2020-03-04"
 album = "アリシア/シグナル / ClariS Vocal"
 tracks = [
-    [1, "アリシア", "ClariS", 0],
-    [2, "シグナル", "ClariS", 0],
-    [3, "ユニゾン", "ClariS", 0],
-    [4, "アリシア -Instrumental-", "ClariS", 0],
-    [5, "シグナル -Instrumental-", "ClariS", 0],
+    [1, "アリシア", "ClariS", 1],
+    [2, "シグナル", "ClariS", 1],
+    [3, "ユニゾン", "ClariS", 1],
+    [4, "アリシア -Instrumental-", "ClariS", 1],
+    [5, "シグナル -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1162cec5-4e5b-4f69-8fc5-37b31047e988", "https://vgmdb.net/album/95268"]
 
@@ -4418,17 +4418,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/1162cec5-4e5b-4f69-8fc5-37b31047e988", "https://vgmdb.net/album/95268"]
 
-[1bf3b22db12980d8afcfd2717eda276d]
+[cc3e8fcbcedbc59aa7c4443e1222a363]
 catalognumber = "VVCL-1633~4"
 date = "2020-03-11"
 album = "ごまかし/うつろい / TrySail Disc 1 (CD) [VVCL-1633]"
 tracks = [
-    [1, "ごまかし", "TrySail", 0],
-    [2, "うつろい", "TrySail", 0],
-    [3, "ごまかし -TV ver.-", "TrySail", 0],
-    [4, "うつろい -GAME ver.-", "TrySail", 0],
-    [5, "ごまかし -Instrumental-", "TrySail", 0],
-    [6, "うつろい -Instrumental-", "TrySail", 0],
+    [1, "ごまかし", "TrySail", 1],
+    [2, "うつろい", "TrySail", 1],
+    [3, "ごまかし -TV ver.-", "TrySail", 1],
+    [4, "うつろい -GAME ver.-", "TrySail", 1],
+    [5, "ごまかし -Instrumental-", "TrySail", 1],
+    [6, "うつろい -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ace127f1-2398-4eb7-83f9-cdb31fafe5de", "https://vgmdb.net/album/96096"]
 
@@ -4441,45 +4441,45 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ace127f1-2398-4eb7-83f9-cdb31fafe5de", "https://vgmdb.net/album/96096"]
 
-[3a1f42d69782dda27d26def69c20a99e]
+[9471bbe663d952f70f230908ff336626]
 catalognumber = "VVCL-1632"
 date = "2020-03-11"
 album = "ごまかし/うつろい / TrySail"
 tracks = [
-    [1, "ごまかし", "TrySail", 0],
-    [2, "うつろい", "TrySail", 0],
-    [3, "ごまかし -Instrumental-", "TrySail", 0],
-    [4, "うつろい -Instrumental-", "TrySail", 0],
+    [1, "ごまかし", "TrySail", 1],
+    [2, "うつろい", "TrySail", 1],
+    [3, "ごまかし -Instrumental-", "TrySail", 1],
+    [4, "うつろい -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c1f4f994-6d18-4de1-8951-754618480fd3", "https://vgmdb.net/album/96095"]
 
-[fe8ba358355c69d85865a9c426df8b45]
+[3f82f378c2b7be047d27d2d6aca24e7f]
 catalognumber = "VVCL-1630~1"
 date = "2020-03-11"
 album = "ごまかし/うつろい / TrySail Disc 1 (CD) [VVCL-1630]"
 tracks = [
-    [1, "ごまかし", "TrySail", 0],
-    [2, "うつろい", "TrySail", 0],
-    [3, "ごまかし -Instrumental-", "TrySail", 0],
-    [4, "うつろい -Instrumental-", "TrySail", 0],
+    [1, "ごまかし", "TrySail", 1],
+    [2, "うつろい", "TrySail", 1],
+    [3, "ごまかし -Instrumental-", "TrySail", 1],
+    [4, "うつろい -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2a309cf7-ced2-4b32-ba79-6f9b16a93736", "https://vgmdb.net/album/96094"]
 
-[46dd03e33a8e5d233e55d56e750d7c90]
+[5c84a075b2b9478a7bfbc88d84059630]
 catalognumber = "VVCL-1630~1"
 date = "2020-03-11"
 album = "ごまかし/うつろい / TrySail Disc 2 (DVD) [VVCL-1631]"
 tracks = [
-    [1, "ごまかし -Music Video-", "TrySail", 0],
+    [1, "ごまかし -Music Video-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2a309cf7-ced2-4b32-ba79-6f9b16a93736", "https://vgmdb.net/album/96094"]
 
-[b65667f6c423359568870359a13ea3ce]
+[764cc6c5858112ae85ddf23ba7b7d99f]
 catalognumber = "VVXX-00553"
 date = "2020-03-18"
 album = "コネクト feat. AWAKEN"
 tracks = [
-    [1, "コネクト feat. AWAKEN", "", 0],
+    [1, "コネクト feat. AWAKEN", "", 1],
 ]
 links = ["https://vgmdb.net/album/99031"]
 
@@ -4492,18 +4492,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/0cbe7d53-0ed9-473b-849a-eb5de762c4d2", "https://vgmdb.net/album/97609"]
 
-[4bb81db7b8b7f53901f7f6edcb631cd2]
+[ff2268c8ce9c672f24145e8b288e27a4]
 catalognumber = "ANZX-15554"
 date = "2020-04-08"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 スペシャルCD 2 ボーカルソングミニコレクション"
 tracks = [
-    [1, "ウワサ数え唄", "加藤英美里", 0],
-    [2, "国宝ハイエンド", "史乃沙優希(CV:Machico)", 0],
-    [3, "ポイント10倍", "10 Point Girls", 0],
+    [1, "ウワサ数え唄", "加藤英美里", 1],
+    [2, "国宝ハイエンド", "史乃沙優希(CV:Machico)", 1],
+    [3, "ポイント10倍", "10 Point Girls", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a6ead63f-d9fa-4a07-8024-abc26f01c00d", "https://vgmdb.net/album/94983"]
 
-[a61d566189039fad7db8cccd29d9b26c]
+[d75840c72194527bfcb48d277e477977]
 catalognumber = "USSW-0246"
 date = "2020-05-27"
 album = "Yumi Matsuzawa AnimeSong Cover Album"
@@ -4515,14 +4515,14 @@ tracks = [
     [5, "愛してるばんざーい!", "松澤由美", 0],
     [6, "メリッサ", "松澤由美", 0],
     [7, "STYX HELIX", "松澤由美", 0],
-    [8, "Magia", "松澤由美", 0],
+    [8, "Magia", "松澤由美", 1],
     [9, "プラチナ", "松澤由美", 0],
     [10, "キョウメイ〜Résonance〜", "松澤由美", 0],
     [11, "迷宮", "松澤由美", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/97e56fa1-698f-4831-8c35-81ce4cbb4bc0", "https://vgmdb.net/album/97011"]
 
-[d0ac048c9a51a04250f19b6a68f21f49]
+[77da4fb2ec0b7302fc0f7716edd0bf41]
 catalognumber = "VTCL-60527~8"
 date = "2020-06-10"
 album = "Yuki Kajiura LIVE vol.#15 ~Soundtrack Special at the Amphitheater~ Disc 1 [VTCL-60527]"
@@ -4530,7 +4530,7 @@ tracks = [
     [1, "street corner〜そこに生きる人たち (MADLAX-花子とアンより)", "梶浦由記", 0],
     [2, "希望の光 (花子とアンより)", "梶浦由記", 0],
     [3, "prelude to Act1 (魔法少女まどか☆マギカより)", "梶浦由記", 0],
-    [4, "Numquam vincar (魔法少女まどか☆マギカより)", "梶浦由記", 0],
+    [4, "Numquam vincar (魔法少女まどか☆マギカより)", "梶浦由記", 1],
     [5, "first love (東京兄妹より)", "梶浦由記", 0],
     [6, "sweet memories (.hack//Liminalityより)", "梶浦由記", 0],
     [7, "blue clouds (ツバサ・クロニクルより)", "梶浦由記", 0],
@@ -4574,62 +4574,62 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e3a40def-55af-4fbc-b5aa-503af172dd04", "https://vgmdb.net/album/97377"]
 
-[abe0e8fc3dc60f069dd51759d758829f]
+[d1322afe16c9a7363dd7e77e5d66ff23]
 catalognumber = "ANZX-15556"
 date = "2020-06-10"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 2"
 tracks = [
-    [1, "Wings of MAGIUS", "尾澤拓実", 0],
-    [2, "ウワサ数え唄 (ver.Music Box)", "尾澤拓実", 0],
-    [3, "Memórias com você", "尾澤拓実", 0],
-    [4, "Mengambang", "尾澤拓実", 0],
-    [5, "水名悲恋伝説", "尾澤拓実", 0],
-    [6, "Altar malam", "尾澤拓実", 0],
-    [7, "feel close", "尾澤拓実", 0],
-    [8, "WITCHES DANCE", "尾澤拓実", 0],
-    [9, "Andiamo!", "尾澤拓実", 0],
-    [10, "50点!?", "尾澤拓実", 0],
-    [11, "Lucky Lucky lovely Lives→But??", "尾澤拓実", 0],
-    [12, "No es sola", "尾澤拓実", 0],
-    [13, "Excited Beat", "尾澤拓実", 0],
-    [14, "Find you", "尾澤拓実", 0],
-    [15, "月華咲夜 [battle against MAGIUS]", "尾澤拓実", 0],
-    [16, "Dang Gong", "尾澤拓実", 0],
-    [17, "DOPPEL", "尾澤拓実", 0],
-    [18, "邂逅ノイズ", "尾澤拓実", 0],
-    [19, "Rumor THEATER", "尾澤拓実", 0],
-    [20, "BAN BAN BANZAI!万☆々☆歳!!", "尾澤拓実", 0],
+    [1, "Wings of MAGIUS", "尾澤拓実", 1],
+    [2, "ウワサ数え唄 (ver.Music Box)", "尾澤拓実", 1],
+    [3, "Memórias com você", "尾澤拓実", 1],
+    [4, "Mengambang", "尾澤拓実", 1],
+    [5, "水名悲恋伝説", "尾澤拓実", 1],
+    [6, "Altar malam", "尾澤拓実", 1],
+    [7, "feel close", "尾澤拓実", 1],
+    [8, "WITCHES DANCE", "尾澤拓実", 1],
+    [9, "Andiamo!", "尾澤拓実", 1],
+    [10, "50点!?", "尾澤拓実", 1],
+    [11, "Lucky Lucky lovely Lives→But??", "尾澤拓実", 1],
+    [12, "No es sola", "尾澤拓実", 1],
+    [13, "Excited Beat", "尾澤拓実", 1],
+    [14, "Find you", "尾澤拓実", 1],
+    [15, "月華咲夜 [battle against MAGIUS]", "尾澤拓実", 1],
+    [16, "Dang Gong", "尾澤拓実", 1],
+    [17, "DOPPEL", "尾澤拓実", 1],
+    [18, "邂逅ノイズ", "尾澤拓実", 1],
+    [19, "Rumor THEATER", "尾澤拓実", 1],
+    [20, "BAN BAN BANZAI!万☆々☆歳!!", "尾澤拓実", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b7183217-dd92-4f5c-b657-92caa9b13c11", "https://vgmdb.net/album/94984"]
 
-[a6a6e0362b34332cc53defd7aae1375b]
+[7ee7a8fd417c16d487768042c7ee7550]
 catalognumber = "ANZX-15558"
 date = "2020-08-05"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 3"
 tracks = [
-    [1, "Amazing Artist!!", "尾澤拓実", 0],
-    [2, "Chica se lamenta", "尾澤拓実", 0],
-    [3, "Invisible Girl", "尾澤拓実", 0],
-    [4, "Radio Kula", "尾澤拓実", 0],
-    [5, "AI=0", "尾澤拓実", 0],
-    [6, "Rumeurs de Solitude", "尾澤拓実", 0],
-    [7, "Flaunt", "尾澤拓実", 0],
-    [8, "craves trust", "尾澤拓実", 0],
-    [9, "Colapso da arte", "尾澤拓実", 0],
-    [10, "one's place", "尾澤拓実", 0],
-    [11, "SanAId", "尾澤拓実", 0],
-    [12, "bygone days", "尾澤拓実", 0],
+    [1, "Amazing Artist!!", "尾澤拓実", 1],
+    [2, "Chica se lamenta", "尾澤拓実", 1],
+    [3, "Invisible Girl", "尾澤拓実", 1],
+    [4, "Radio Kula", "尾澤拓実", 1],
+    [5, "AI=0", "尾澤拓実", 1],
+    [6, "Rumeurs de Solitude", "尾澤拓実", 1],
+    [7, "Flaunt", "尾澤拓実", 1],
+    [8, "craves trust", "尾澤拓実", 1],
+    [9, "Colapso da arte", "尾澤拓実", 1],
+    [10, "one's place", "尾澤拓実", 1],
+    [11, "SanAId", "尾澤拓実", 1],
+    [12, "bygone days", "尾澤拓実", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/314cc787-1b79-4819-98a5-452ab8c82bdb", "https://vgmdb.net/album/94985"]
 
-[ad81d0a08bbd6cc815b1f23e750ee4a9]
+[f1687727e5bc8de7bb29f452a0543120]
 catalognumber = "TKCA-74895"
 date = "2020-08-26"
 album = "Re>Animator / Mary's Blood"
 tracks = [
     [1, "ペガサス幻想", "Mary's Blood", 0],
     [2, "甲賀忍法帖", "Mary's Blood", 0],
-    [3, "Magia", "Mary's Blood", 0],
+    [3, "Magia", "Mary's Blood", 1],
     [4, "終曲：BATTLER（「悪魔組曲作品666番二短調」より）〜荒涼たる新世界", "Mary's Blood", 0],
     [5, "unravel", "Mary's Blood", 0],
     [6, "Forever Love", "Mary's Blood", 0],
@@ -4641,36 +4641,36 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/b3410894-61e9-4584-9381-20f9692b65f7", "https://vgmdb.net/album/115223"]
 
-[4133fc73c02443442b7217ccb3d62bbd]
+[4260de06d97dcc8d6a80b51e5fbda295]
 catalognumber = "ANZX-15560"
 date = "2020-09-02"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 4"
 tracks = [
-    [1, "origin waltz", "尾澤拓実", 0],
-    [2, "Museo della memoria", "尾澤拓実", 0],
-    [3, "spinnen", "尾澤拓実", 0],
-    [4, "LOCURA", "尾澤拓実", 0],
-    [5, "Santa Salvación", "尾澤拓実", 0],
-    [6, "Discurso Grande", "尾澤拓実", 0],
-    [7, "ニグレド", "ReReGRAPHICS", 0],
-    [8, "ニグレド (off Vocal)", "ReReGRAPHICS", 0],
+    [1, "origin waltz", "尾澤拓実", 1],
+    [2, "Museo della memoria", "尾澤拓実", 1],
+    [3, "spinnen", "尾澤拓実", 1],
+    [4, "LOCURA", "尾澤拓実", 1],
+    [5, "Santa Salvación", "尾澤拓実", 1],
+    [6, "Discurso Grande", "尾澤拓実", 1],
+    [7, "ニグレド", "ReReGRAPHICS", 1],
+    [8, "ニグレド (off Vocal)", "ReReGRAPHICS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0f6e58df-d5fe-4c10-8cd5-cffbbe7ef9f6", "https://vgmdb.net/album/94986"]
 
-[53a7bdba8b7fb436c52882cf42b58e69]
+[503a2013174902815c44aef7b494c159]
 catalognumber = "VVCL-1733~4"
 date = "2020-10-21"
 album = "ClariS 10th Anniversary BEST - Green Star - [Limited Edition] Vocal"
 tracks = [
     [1, "Prism", "ClariS", 0],
-    [2, "コネクト -2017-", "ClariS", 0],
-    [3, "ルミナス -2017-", "ClariS", 0],
-    [4, "カラフル -2017-", "ClariS", 0],
+    [2, "コネクト -2017-", "ClariS", 1],
+    [3, "ルミナス -2017-", "ClariS", 1],
+    [4, "カラフル -2017-", "ClariS", 1],
     [5, "CheerS", "ClariS", 0],
     [6, "PRIMALove", "ClariS", 0],
     [7, "again", "ClariS", 0],
-    [8, "シグナル", "ClariS", 0],
-    [9, "アリシア", "ClariS", 0],
+    [8, "シグナル", "ClariS", 1],
+    [9, "アリシア", "ClariS", 1],
     [10, "Clear Sky", "ClariS", 0],
     [11, "ヒトリゴト", "ClariS", 0],
     [12, "Dreamin' -Karen solo ver.-", "ClariS", 0],
@@ -4679,7 +4679,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/abec06c1-94e6-4f89-a592-ec660ab30682", "https://vgmdb.net/album/101344"]
 
-[25c5a03c1d115f451a89a9bb26aba9b8]
+[871c138d76eb28baabc76d4365f3ff71]
 catalognumber = "VVCL-1733~4"
 date = "2020-10-21"
 album = "ClariS 10th Anniversary BEST - Green Star - [Limited Edition] Vocal, Video"
@@ -4689,26 +4689,26 @@ tracks = [
     [3, "ヒトリゴト", "ClariS", 0],
     [4, "PRIMALove", "ClariS", 0],
     [5, "CheerS", "ClariS", 0],
-    [6, "アリシア", "ClariS", 0],
+    [6, "アリシア", "ClariS", 1],
     [7, "Clear Sky", "ClariS", 0],
-    [8, "シグナル", "ClariS", 0],
+    [8, "シグナル", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/abec06c1-94e6-4f89-a592-ec660ab30682", "https://vgmdb.net/album/101344"]
 
-[7ed2db1727b532f041499416eedaf949]
+[b33cf372e56c83ccdfecdcd58b0934a2]
 catalognumber = "VVCL-1735"
 date = "2020-10-21"
 album = "ClariS 10th Anniversary BEST - Green Star -"
 tracks = [
     [1, "Prism", "ClariS", 0],
-    [2, "コネクト -2017-", "ClariS", 0],
-    [3, "ルミナス -2017-", "ClariS", 0],
-    [4, "カラフル -2017-", "ClariS", 0],
+    [2, "コネクト -2017-", "ClariS", 1],
+    [3, "ルミナス -2017-", "ClariS", 1],
+    [4, "カラフル -2017-", "ClariS", 1],
     [5, "CheerS", "ClariS", 0],
     [6, "PRIMALove", "ClariS", 0],
     [7, "again", "ClariS", 0],
-    [8, "シグナル", "ClariS", 0],
-    [9, "アリシア", "ClariS", 0],
+    [8, "シグナル", "ClariS", 1],
+    [9, "アリシア", "ClariS", 1],
     [10, "Clear Sky", "ClariS", 0],
     [11, "ヒトリゴト", "ClariS", 0],
     [12, "Dreamin' (Karen solo ver.)", "ClariS", 0],
@@ -4739,20 +4739,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cb3affe2-66be-47ca-af97-e62399e333ea", "https://vgmdb.net/album/101345"]
 
-[65d8aa64128c27cb998e487f330cd177]
+[26b3a38f1d704976a403a680ff2e08c8]
 catalognumber = "VVCL-1736~8"
 date = "2020-10-21"
 album = "ClariS 10th Anniversary BEST - Pink Moon & Green Star - [Limited Edition] Disc 2 [VVCL-1737]"
 tracks = [
     [1, "Prism", "ClariS", 0],
-    [2, "コネクト -2017-", "ClariS", 0],
-    [3, "ルミナス -2017-", "ClariS", 0],
-    [4, "カラフル -2017-", "ClariS", 0],
+    [2, "コネクト -2017-", "ClariS", 1],
+    [3, "ルミナス -2017-", "ClariS", 1],
+    [4, "カラフル -2017-", "ClariS", 1],
     [5, "CheerS", "ClariS", 0],
     [6, "PRIMALove", "ClariS", 0],
     [7, "again", "ClariS", 0],
-    [8, "シグナル", "ClariS", 0],
-    [9, "アリシア", "ClariS", 0],
+    [8, "シグナル", "ClariS", 1],
+    [9, "アリシア", "ClariS", 1],
     [10, "Clear Sky", "ClariS", 0],
     [11, "ヒトリゴト", "ClariS", 0],
     [12, "Dreamin' (Karen solo ver.)", "ClariS", 0],
@@ -4768,49 +4768,49 @@ album = "Magia Record Puella Magi Madoka Magica Side Story Original Soundtrack C
 tracks = []
 links = ["https://vgmdb.net/album/106496"]
 
-[71362cb4541682a3c535d1c0b325aa0d]
+[f35a32ec2cea9523f8f6250eb5b2fd98]
 catalognumber = "SVWC-70543"
 date = "2021-07-28"
 album = "魔法少女まどか☆マギカ Ultimate Best"
 tracks = [
-    [1, "コネクト", "ClariS", 0],
-    [2, "また あした", "鹿目まどか (悠木碧)", 0],
-    [3, "Credens justitiam", "梶浦由記", 0],
-    [4, "Sis puella magica!", "梶浦由記", 0],
-    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 0],
-    [6, "Magia", "Kalafina", 0],
-    [7, "ルミナス", "ClariS", 0],
-    [8, "she is a witch", "梶浦由記", 0],
-    [9, "ひかりふる", "Kalafina", 0],
-    [10, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 0],
-    [11, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 0],
-    [12, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 0],
-    [13, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 0],
-    [14, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 0],
-    [15, "まだダメよ", "梶浦由記", 0],
-    [16, "Noi!", "梶浦由記", 0],
-    [17, "カラフル", "ClariS", 0],
-    [18, "君の銀の庭", "Kalafina", 0],
+    [1, "コネクト", "ClariS", 1],
+    [2, "また あした", "鹿目まどか (悠木碧)", 1],
+    [3, "Credens justitiam", "梶浦由記", 1],
+    [4, "Sis puella magica!", "梶浦由記", 1],
+    [5, "and I’m home", "美樹さやか (喜多村英梨) & 佐倉杏子 (野中藍)", 1],
+    [6, "Magia", "Kalafina", 1],
+    [7, "ルミナス", "ClariS", 1],
+    [8, "she is a witch", "梶浦由記", 1],
+    [9, "ひかりふる", "Kalafina", 1],
+    [10, "naturally", "鹿目まどか (CV:悠木碧)、美樹さやか (CV:喜多村英梨)", 1],
+    [11, "あこがれ咲いた", "鹿目まどか (CV:悠木碧)", 1],
+    [12, "Mebius Ash", "暁美ほむら (CV:斎藤千和)", 1],
+    [13, "ユメおと", "鹿目まどか (CV:悠木碧)、暁美ほむら (CV:斎藤千和)", 1],
+    [14, "Stairs", "巴マミ (CV:水橋かおり)、佐倉杏子 (CV:野中藍)", 1],
+    [15, "まだダメよ", "梶浦由記", 1],
+    [16, "Noi!", "梶浦由記", 1],
+    [17, "カラフル", "ClariS", 1],
+    [18, "君の銀の庭", "Kalafina", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0c7f01a8-db8c-47e7-b333-a4cbd1f9f53b", "https://vgmdb.net/album/111823"]
 
-[d2d5e4ae092fac86aea1b3aa1029395c]
+[71fe2f4dd7d0808ef1a42ca3caf10b40]
 catalognumber = "VVXX-01055"
 date = "2021-08-08"
 album = "TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-」Theme Song Collection"
 tracks = [
-    [1, "ケアレス", "ClariS", 0],
-    [2, "Lapis", "TrySail", 0],
+    [1, "ケアレス", "ClariS", 1],
+    [2, "Lapis", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/67240cda-996d-40ad-ac65-12e5c4a56a5a", "https://vgmdb.net/album/113295"]
 
-[72d1979a90dd4f4d57f27a061044be4b]
+[b4896c895a5023cdde59a149bda5e8d2]
 catalognumber = "SVWC-70545~6"
 date = "2021-08-25"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 Music Collection 2 Original Soundtrack, Vocal"
 tracks = [
-    [1, "シグナル", "ClariS", 0],
-    [2, "うつろい", "TrySail", 0],
+    [1, "シグナル", "ClariS", 1],
+    [2, "うつろい", "TrySail", 1],
     [3, "叶えちゃお", "カミハ☆マギカ", 0],
     [4, "山茶花の跡", "時女一族", 0],
     [5, "Bulimia", "Promised Blood", 0],
@@ -4882,42 +4882,42 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/970660e6-05ba-46ad-8a33-e1aaf57cd32a", "https://vgmdb.net/album/112481"]
 
-[112bf0bd26eb7c597f56756f5be5ef11]
+[717682f58f425217dfb46e1318f6b155]
 catalognumber = "VVCL-1920"
 date = "2021-09-15"
 album = "ケアレス / ClariS"
 tracks = [
-    [1, "ケアレス", "ClariS", 0],
-    [2, "Bye-Bye Butterfly", "ClariS", 0],
-    [3, "Starry", "ClariS", 0],
-    [4, "ケアレス -Instrumental-", "ClariS", 0],
+    [1, "ケアレス", "ClariS", 1],
+    [2, "Bye-Bye Butterfly", "ClariS", 1],
+    [3, "Starry", "ClariS", 1],
+    [4, "ケアレス -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e560a3d3-10ca-470f-b599-04db1057426b", "https://vgmdb.net/album/112496"]
 
-[24fc6d3d7184f719b4ca3b0eeea02188]
+[3dbeea5f584b1c00a858511f7a55dd01]
 catalognumber = "VVCL-1918~9"
 date = "2021-09-15"
 album = "ケアレス / ClariS [初回生産限定盤] Vocal"
 tracks = [
-    [1, "ケアレス", "ClariS", 0],
-    [2, "Bye-Bye Butterfly", "ClariS", 0],
-    [3, "Starry", "ClariS", 0],
-    [4, "ケアレス -Instrumental-", "ClariS", 0],
+    [1, "ケアレス", "ClariS", 1],
+    [2, "Bye-Bye Butterfly", "ClariS", 1],
+    [3, "Starry", "ClariS", 1],
+    [4, "ケアレス -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6c4f766f-3351-4c10-a53d-b119452c27b2", "https://vgmdb.net/album/112497"]
 
-[7126c9748a6519130ec5ca18617f7789]
+[bf35de955d237c0111f761568e9b73c4]
 catalognumber = "VVCL-1918~9"
 date = "2021-09-15"
 album = "ケアレス / ClariS [初回生産限定盤] Vocal, Video"
 tracks = [
-    [1, "ケアレス (Music Video)", "ClariS", 0],
-    [2, "ケアレス (15秒CM)", "ClariS", 0],
-    [3, "ケアレス (30秒メッセージコメント入りCM)", "ClariS", 0],
+    [1, "ケアレス (Music Video)", "ClariS", 1],
+    [2, "ケアレス (15秒CM)", "ClariS", 1],
+    [3, "ケアレス (30秒メッセージコメント入りCM)", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6c4f766f-3351-4c10-a53d-b119452c27b2", "https://vgmdb.net/album/112497"]
 
-[1c6a8356b739e7bc9ec34f04ec903283]
+[b38150b9f597297e00200530a8213aa0]
 catalognumber = "VVCL-1888~9"
 date = "2021-09-15"
 album = "Re Bon Voyage / TrySail [初回生産限定盤] Vocal"
@@ -4925,10 +4925,10 @@ tracks = [
     [1, "Re Bon Voyage", "TrySail", 0],
     [2, "Favorite Days", "TrySail", 0],
     [3, "この幸せが夢じゃないなら", "TrySail", 0],
-    [4, "ごまかし", "TrySail", 0],
+    [4, "ごまかし", "TrySail", 1],
     [5, "モノラル", "TrySail", 0],
     [6, "誰が為に愛は鳴る", "TrySail", 0],
-    [7, "うつろい", "TrySail", 0],
+    [7, "うつろい", "TrySail", 1],
     [8, "マイハートリバイバル", "TrySail", 0],
     [9, "Good Luck Darling", "TrySail", 0],
     [10, "Free Turn", "TrySail", 0],
@@ -4947,15 +4947,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6a66c2f5-3f5f-4263-b56a-d1108bcbd0f5", "https://vgmdb.net/album/112484"]
 
-[6cee554ede088619cce5ab278f878bbd]
+[83433ba973083ad808ecbe9c7a052995]
 catalognumber = "VVCL-1921~2"
 date = "2021-09-15"
 album = "ケアレス / ClariS [期間生産限定盤] Vocal"
 tracks = [
-    [1, "ケアレス", "ClariS", 0],
-    [2, "Bye-Bye Butterfly", "ClariS", 0],
-    [3, "Starry", "ClariS", 0],
-    [4, "ケアレス -TV MIX-", "ClariS", 0],
+    [1, "ケアレス", "ClariS", 1],
+    [2, "Bye-Bye Butterfly", "ClariS", 1],
+    [3, "Starry", "ClariS", 1],
+    [4, "ケアレス -TV MIX-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/84edf780-cf6c-45ab-a59e-cda284ca408e", "https://vgmdb.net/album/112498"]
 
@@ -4968,7 +4968,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/84edf780-cf6c-45ab-a59e-cda284ca408e", "https://vgmdb.net/album/112498"]
 
-[8e81461b53dec9fd419234531d1d027e]
+[04f04fd8ac53afb9b41f1d21a3dff227]
 catalognumber = "VVCL-1890"
 date = "2021-09-15"
 album = "Re Bon Voyage / TrySail"
@@ -4976,10 +4976,10 @@ tracks = [
     [1, "Re Bon Voyage", "TrySail", 0],
     [2, "Favorite Days", "TrySail", 0],
     [3, "この幸せが夢じゃないなら", "TrySail", 0],
-    [4, "ごまかし", "TrySail", 0],
+    [4, "ごまかし", "TrySail", 1],
     [5, "モノラル", "TrySail", 0],
     [6, "誰が為に愛は鳴る", "TrySail", 0],
-    [7, "うつろい", "TrySail", 0],
+    [7, "うつろい", "TrySail", 1],
     [8, "マイハートリバイバル", "TrySail", 0],
     [9, "Good Luck Darling", "TrySail", 0],
     [10, "Free Turn", "TrySail", 0],
@@ -4988,7 +4988,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/52b2d508-ec7b-4a7e-93e2-a3ed0bc6e82f", "https://vgmdb.net/album/112483"]
 
-[6f1de0d6e178b63c12484c21f23e46ad]
+[63d4aad5516249fc4507c303d4db071c]
 catalognumber = "VVCL-1885~7"
 date = "2021-09-15"
 album = "Re Bon Voyage / TrySail [完全生産限定盤] Vocal"
@@ -4996,10 +4996,10 @@ tracks = [
     [1, "Re Bon Voyage", "TrySail", 0],
     [2, "Favorite Days", "TrySail", 0],
     [3, "この幸せが夢じゃないなら", "TrySail", 0],
-    [4, "ごまかし", "TrySail", 0],
+    [4, "ごまかし", "TrySail", 1],
     [5, "モノラル", "TrySail", 0],
     [6, "誰が為に愛は鳴る", "TrySail", 0],
-    [7, "うつろい", "TrySail", 0],
+    [7, "うつろい", "TrySail", 1],
     [8, "マイハートリバイバル", "TrySail", 0],
     [9, "Good Luck Darling", "TrySail", 0],
     [10, "Free Turn", "TrySail", 0],
@@ -5019,81 +5019,81 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/858212bd-31b7-4bec-baf2-81c557746052", "https://vgmdb.net/album/112485"]
 
-[867c5420f58b1b77503cd2c774c597c8]
+[69014f6603a692785c560d40c02d8a87]
 catalognumber = "ANZX-15562"
 date = "2021-11-24"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 1"
 tracks = [
-    [1, "Vague Memory", "尾澤拓実", 0],
-    [2, "Conflictus Animi", "尾澤拓実", 0],
-    [3, "Perpetual Blossom", "尾澤拓実", 0],
-    [4, "to the FENTHOPE", "尾澤拓実", 0],
-    [5, "Fallen Memory", "尾澤拓実", 0],
-    [6, "Kebenaran dan Keberadaan", "尾澤拓実", 0],
-    [7, "Phantom Doll", "尾澤拓実", 0],
-    [8, "Battle of Obsession", "尾澤拓実", 0],
+    [1, "Vague Memory", "尾澤拓実", 1],
+    [2, "Conflictus Animi", "尾澤拓実", 1],
+    [3, "Perpetual Blossom", "尾澤拓実", 1],
+    [4, "to the FENTHOPE", "尾澤拓実", 1],
+    [5, "Fallen Memory", "尾澤拓実", 1],
+    [6, "Kebenaran dan Keberadaan", "尾澤拓実", 1],
+    [7, "Phantom Doll", "尾澤拓実", 1],
+    [8, "Battle of Obsession", "尾澤拓実", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d8e42b79-dd9d-4d5c-8638-8527ba02d409", "https://vgmdb.net/album/113468"]
 
-[59d7642a5a83d126813121160dfcb8ef]
+[8a00880a7f6aafffafafa326a19f6bfa]
 catalognumber = "ANZX-15564"
 date = "2021-12-22"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 2"
 tracks = [
-    [1, "Witch Plant", "尾澤拓実", 0],
-    [2, "Doppel Threat", "尾澤拓実", 0],
-    [3, "Prendimi", "尾澤拓実", 0],
-    [4, "Facciamolo!", "尾澤拓実", 0],
-    [5, "Distance of Feelings", "尾澤拓実", 0],
-    [6, "Isolamento", "尾澤拓実", 0],
-    [7, "Clown and Strategist", "尾澤拓実", 0],
-    [8, "Arousal Strategy", "尾澤拓実", 0],
+    [1, "Witch Plant", "尾澤拓実", 1],
+    [2, "Doppel Threat", "尾澤拓実", 1],
+    [3, "Prendimi", "尾澤拓実", 1],
+    [4, "Facciamolo!", "尾澤拓実", 1],
+    [5, "Distance of Feelings", "尾澤拓実", 1],
+    [6, "Isolamento", "尾澤拓実", 1],
+    [7, "Clown and Strategist", "尾澤拓実", 1],
+    [8, "Arousal Strategy", "尾澤拓実", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a08ea513-e47d-4780-b05d-8152aabefae2", "https://vgmdb.net/album/113469"]
 
-[6a1e5d027d6616c85dd141f305ed942a]
+[4fe173e757ca0ea13b616ebc5fe347cc]
 catalognumber = "ANZX-15566"
 date = "2022-01-26"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 3"
 tracks = [
-    [1, "False me", "尾澤拓実", 0],
-    [2, "Share Dolor", "尾澤拓実", 0],
-    [3, "Distance of Feelings ～Oboe Ver～", "尾澤拓実", 0],
-    [4, "Quiero Salvarte!", "尾澤拓実", 0],
-    [5, "ENTITY of Embryo Eve", "尾澤拓実", 0],
-    [6, "閃光", "ReReGRAPHICS", 0],
+    [1, "False me", "尾澤拓実", 1],
+    [2, "Share Dolor", "尾澤拓実", 1],
+    [3, "Distance of Feelings ～Oboe Ver～", "尾澤拓実", 1],
+    [4, "Quiero Salvarte!", "尾澤拓実", 1],
+    [5, "ENTITY of Embryo Eve", "尾澤拓実", 1],
+    [6, "閃光", "ReReGRAPHICS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/61b47161-f98a-4c70-a842-07d6400e4a97", "https://vgmdb.net/album/113470"]
 
-[f8c98099e8b04ae3b5f88c996cb89a19]
+[342a74277b7478bf72cf839bff675050]
 catalognumber = "ANXX-01079"
 date = "2022-01-27"
 album = "ニグレド / ReReGRAPHICS"
 tracks = [
-    [1, "ニグレド", "ReReGRAPHICS", 0],
-    [2, "ニグレド (off Vocal)", "ReReGRAPHICS", 0],
+    [1, "ニグレド", "ReReGRAPHICS", 1],
+    [2, "ニグレド (off Vocal)", "ReReGRAPHICS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/00d3dc51-0bd8-4b85-96ed-a77382a4c23a", "https://vgmdb.net/album/117673"]
 
-[b62a5e0b0b0c5c948815ac1717fdea72]
+[99e9e1eb5bb79df78d10653b9ca34d4f]
 catalognumber = "VVXX-01177"
 date = "2022-04-04"
 album = "オルゴール / ClariS & TrySail"
 tracks = [
-    [1, "オルゴール", "ClariS×TrySail", 0],
+    [1, "オルゴール", "ClariS×TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2eaef072-57bc-47f2-96e6-3e63c371f30b", "https://vgmdb.net/album/119148"]
 
-[e0500b3432fae4de7dc4c9b8c5312ba6]
+[e68f6bf255b5f79b50b28d075a04f539]
 catalognumber = "VVCL-2024"
 date = "2022-04-06"
 album = "Parfaitone / ClariS"
 tracks = [
     [1, "Introduction de Parfaitone", "ClariS", 0],
     [2, "Twinkle Twinkle", "ClariS", 0],
-    [3, "ケアレス", "ClariS", 0],
-    [4, "アリシア", "ClariS", 0],
-    [5, "シグナル", "ClariS", 0],
+    [3, "ケアレス", "ClariS", 1],
+    [4, "アリシア", "ClariS", 1],
+    [5, "シグナル", "ClariS", 1],
     [6, "missing you", "ClariS", 0],
     [7, "Fight!!", "ClariS", 0],
     [8, "新世界ビーナス", "ClariS", 0],
@@ -5104,57 +5104,57 @@ tracks = [
     [13, "Entr'acte Ⅲ", "ClariS", 0],
     [14, "Summer Delay", "ClariS", 0],
     [15, "Entr'acte Ⅳ", "ClariS", 0],
-    [16, "オルゴール (ClariS ver.)", "ClariS", 0],
+    [16, "オルゴール (ClariS ver.)", "ClariS", 1],
     [17, "アイデンティティ", "ClariS", 0],
     [18, "もういちど ルミナス", "ClariS feat. 丸山彩 from Pastel*Palettes", 0],
-    [19, "オルゴール", "ClariS×TrySail", 0],
+    [19, "オルゴール", "ClariS×TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9e7ba162-e60b-4cde-8d3e-c19cfca55653", "https://vgmdb.net/album/117791"]
 
-[d8fee6eaf565b36c02d83b7cfd310571]
+[07ca5877a72d743f86a8e8ca016c8153]
 catalognumber = "VVCL-1992~3"
 date = "2022-04-06"
 album = "Lapis / TrySail [初回生産限定盤] Vocal"
 tracks = [
-    [1, "Lapis", "TrySail", 0],
-    [2, "オルゴール", "ClariS×TrySail", 0],
-    [3, "Lapis -Instrumental-", "TrySail", 0],
-    [4, "オルゴール -Instrumental-", "ClariS×TrySail", 0],
+    [1, "Lapis", "TrySail", 1],
+    [2, "オルゴール", "ClariS×TrySail", 1],
+    [3, "Lapis -Instrumental-", "TrySail", 1],
+    [4, "オルゴール -Instrumental-", "ClariS×TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/78e165bc-6a48-4079-b1ca-4a21de72fdc0", "https://vgmdb.net/album/115711"]
 
-[7a7da8c54e8a9bd650cae93f302c8d3c]
+[eb4567601e3c091e0ac4fffba8f29e9a]
 catalognumber = "VVCL-1992~3"
 date = "2022-04-06"
 album = "Lapis / TrySail [初回生産限定盤] Vocal, Video"
 tracks = [
-    [1, "Lapis -Music Video-", "TrySail", 0],
+    [1, "Lapis -Music Video-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/78e165bc-6a48-4079-b1ca-4a21de72fdc0", "https://vgmdb.net/album/115711"]
 
-[244469b8d77230b49b43cb10c62e73ac]
+[0379bf43ae2f78ac3b39c727edd193db]
 catalognumber = "VVCL-1994"
 date = "2022-04-06"
 album = "Lapis / TrySail"
 tracks = [
-    [1, "Lapis", "TrySail", 0],
-    [2, "オルゴール", "ClariS×TrySail", 0],
-    [3, "オルゴール -TrySail ver.-", "TrySail", 0],
-    [4, "Lapis -Instrumental-", "TrySail", 0],
-    [5, "オルゴール -Instrumental-", "ClariS×TrySail", 0],
+    [1, "Lapis", "TrySail", 1],
+    [2, "オルゴール", "ClariS×TrySail", 1],
+    [3, "オルゴール -TrySail ver.-", "TrySail", 1],
+    [4, "Lapis -Instrumental-", "TrySail", 1],
+    [5, "オルゴール -Instrumental-", "ClariS×TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4fa390f3-b587-4493-8a5a-9769f28ae474", "https://vgmdb.net/album/115710"]
 
-[a3a824043229cf02835b38d42a0cd88e]
+[8df2ac6eac2f920aa7319129b39cf7f9]
 catalognumber = "VVCL-1995~6"
 date = "2022-04-06"
 album = "Lapis / TrySail [期間生産限定盤] Vocal"
 tracks = [
-    [1, "Lapis", "TrySail", 0],
-    [2, "オルゴール", "ClariS×TrySail", 0],
-    [3, "Lapis -TV ver.-", "TrySail", 0],
-    [4, "Lapis -Instrumental-", "TrySail", 0],
-    [5, "オルゴール -Instrumental-", "ClariS×TrySail", 0],
+    [1, "Lapis", "TrySail", 1],
+    [2, "オルゴール", "ClariS×TrySail", 1],
+    [3, "Lapis -TV ver.-", "TrySail", 1],
+    [4, "Lapis -Instrumental-", "TrySail", 1],
+    [5, "オルゴール -Instrumental-", "ClariS×TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d3c698ea-6e0c-4de7-bcaf-75fdec7ff027", "https://vgmdb.net/album/115712"]
 
@@ -5167,16 +5167,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d3c698ea-6e0c-4de7-bcaf-75fdec7ff027", "https://vgmdb.net/album/115712"]
 
-[068cff00ec211d0cbbe6e97644d5cbb4]
+[25e3856d54e43059d6bce98484b0271e]
 catalognumber = "VVCL-2022~3"
 date = "2022-04-06"
 album = "Parfaitone / ClariS [初回生産限定盤] Disc 1 [VVCL-2022]"
 tracks = [
     [1, "Introduction de Parfaitone", "ClariS", 0],
     [2, "Twinkle Twinkle", "ClariS", 0],
-    [3, "ケアレス", "ClariS", 0],
-    [4, "アリシア", "ClariS", 0],
-    [5, "シグナル", "ClariS", 0],
+    [3, "ケアレス", "ClariS", 1],
+    [4, "アリシア", "ClariS", 1],
+    [5, "シグナル", "ClariS", 1],
     [6, "missing you", "ClariS", 0],
     [7, "Fight!!", "ClariS", 0],
     [8, "新世界ビーナス", "ClariS", 0],
@@ -5187,12 +5187,12 @@ tracks = [
     [13, "Entr'acte Ⅲ", "ClariS", 0],
     [14, "Summer Delay", "ClariS", 0],
     [15, "Entr'acte Ⅳ", "ClariS", 0],
-    [16, "オルゴール (ClariS ver.)", "ClariS", 0],
+    [16, "オルゴール (ClariS ver.)", "ClariS", 1],
     [17, "アイデンティティ", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/3571d7bf-c07f-4fb8-b916-123f0e158e31", "https://vgmdb.net/album/117792"]
 
-[3038b3ed493f8715c376f4e9a4012191]
+[e3b361f963c1dcb9f960bd3fa23fd7bf]
 catalognumber = "VVCL-2022~3"
 date = "2022-04-06"
 album = "Parfaitone / ClariS [初回生産限定盤] Disc 2 [VVCL-2023]"
@@ -5204,7 +5204,7 @@ tracks = [
     [5, "アネモネ", "ClariS", 0],
     [6, "Wake Up -season 02-", "ClariS", 0],
     [7, "アワイ オモイ", "ClariS", 0],
-    [8, "Bye-Bye Butterfly", "ClariS", 0],
+    [8, "Bye-Bye Butterfly", "ClariS", 1],
     [9, "recall", "ClariS", 0],
     [10, "Fight!!", "ClariS", 0],
     [11, "CheerS", "ClariS", 0],
@@ -5212,9 +5212,9 @@ tracks = [
     [13, "恋待かぐや", "ClariS", 0],
     [14, "ホログラム", "ClariS", 0],
     [15, "シニカルサスペンス", "ClariS", 0],
-    [16, "シグナル", "ClariS", 0],
-    [17, "アリシア", "ClariS", 0],
-    [18, "ケアレス", "ClariS", 0],
+    [16, "シグナル", "ClariS", 1],
+    [17, "アリシア", "ClariS", 1],
+    [18, "ケアレス", "ClariS", 1],
     [19, "ナイショの話 -2017-", "ClariS", 0],
     [20, "Fairy Party", "ClariS", 0],
     [21, "仮面ジュブナイル", "ClariS", 0],
@@ -5222,9 +5222,9 @@ tracks = [
     [23, "Gravity", "ClariS", 0],
     [24, "border", "ClariS", 0],
     [25, "SHIORI", "ClariS", 0],
-    [26, "コネクト -2017-", "ClariS", 0],
-    [27, "ルミナス -2017-", "ClariS", 0],
-    [28, "カラフル -2017-", "ClariS", 0],
+    [26, "コネクト -2017-", "ClariS", 1],
+    [27, "ルミナス -2017-", "ClariS", 1],
+    [28, "カラフル -2017-", "ClariS", 1],
     [29, "again", "ClariS", 0],
     [30, "ひらひら ひらら", "ClariS", 0],
     [31, "このiは虚数", "ClariS", 0],
@@ -5240,16 +5240,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/3571d7bf-c07f-4fb8-b916-123f0e158e31", "https://vgmdb.net/album/117792"]
 
-[844bd70a17ca7c088c36473808fa4065]
+[f4b38e024675a02e25f3ef0ef673b902]
 catalognumber = "VVCL-2020~1"
 date = "2022-04-06"
 album = "Parfaitone / ClariS [完全生産限定盤] Vocal"
 tracks = [
     [1, "Introduction de Parfaitone", "ClariS", 0],
     [2, "Twinkle Twinkle", "ClariS", 0],
-    [3, "ケアレス", "ClariS", 0],
-    [4, "アリシア", "ClariS", 0],
-    [5, "シグナル", "ClariS", 0],
+    [3, "ケアレス", "ClariS", 1],
+    [4, "アリシア", "ClariS", 1],
+    [5, "シグナル", "ClariS", 1],
     [6, "missing you", "ClariS", 0],
     [7, "Fight!!", "ClariS", 0],
     [8, "新世界ビーナス", "ClariS", 0],
@@ -5260,28 +5260,28 @@ tracks = [
     [13, "Entr'acte Ⅲ", "ClariS", 0],
     [14, "Summer Delay", "ClariS", 0],
     [15, "Entr'acte Ⅳ", "ClariS", 0],
-    [16, "オルゴール (ClariS ver.)", "ClariS", 0],
+    [16, "オルゴール (ClariS ver.)", "ClariS", 1],
     [17, "アイデンティティ", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/83c9112e-3311-4c73-8490-86a9df9cf0e2", "https://vgmdb.net/album/117793"]
 
-[f772ce98fbc1a2816b797a2964cd5013]
+[c643fb644f8187144ff30c69f7cd3e78]
 catalognumber = "VVCL-2020~1"
 date = "2022-04-06"
 album = "Parfaitone / ClariS [完全生産限定盤] Vocal, Video"
 tracks = [
-    [1, "コネクト -reformare- Music Video", "ClariS", 0],
-    [2, "ルミナス -reformare- Music Video", "ClariS", 0],
-    [3, "カラフル -reformare- Music Video", "ClariS", 0],
+    [1, "コネクト -reformare- Music Video", "ClariS", 1],
+    [2, "ルミナス -reformare- Music Video", "ClariS", 1],
+    [3, "カラフル -reformare- Music Video", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/83c9112e-3311-4c73-8490-86a9df9cf0e2", "https://vgmdb.net/album/117793"]
 
-[d88b5d3573768410a58457203d638f0a]
+[1d6407201d62752da45cf012ef44dc45]
 catalognumber = "VVXX-01190"
 date = "2022-04-08"
 album = "ごまかし Aiobahn Remix / TrySail & Aiobahn"
 tracks = [
-    [1, "ごまかし (Aiobahn Remix)", "", 0],
+    [1, "ごまかし (Aiobahn Remix)", "", 1],
 ]
 links = ["https://vgmdb.net/album/119289"]
 
@@ -5294,31 +5294,31 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/49cd56ac-b39a-4ee8-a56d-65c8266973d0", "https://vgmdb.net/album/119676"]
 
-[1b15ff775f4f50ca944c02ff62ca1c06]
+[1fffae0d022c261b60b6562f9956f4fc]
 catalognumber = "VVXX-01200"
 date = "2022-05-06"
 album = "ケアレス (Slushii Remix) / ClariS & Slushii"
 tracks = [
-    [1, "ケアレス (Slushii Remix) - SACRA BEATS Singles", "ClariS & Slushii", 0],
+    [1, "ケアレス (Slushii Remix) - SACRA BEATS Singles", "ClariS & Slushii", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f8a06ff9-e035-4c20-b5ca-a6fe5af3ee49", "https://vgmdb.net/album/119760"]
 
-[b4c11cd15289f76494e947cb8c20cc62]
+[8ca7e967fdbc6b0fef565b622459bfe8]
 catalognumber = "ANZX-15568"
 date = "2022-05-25"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁- ORIGINAL SOUND TRACK 1"
 tracks = [
-    [1, "Plushie Melody", "尾澤拓実", 0],
-    [2, "kaTsumus", "尾澤拓実", 0],
-    [3, "Sie", "尾澤拓実", 0],
-    [4, "The Birth of Embryo Eve", "尾澤拓実", 0],
-    [5, "Wishes of Magius", "尾澤拓実", 0],
-    [6, "TRIGGER 〜Embryo Eve〜", "尾澤拓実", 0],
-    [7, "Q", "ReReGRAPHICS", 0],
+    [1, "Plushie Melody", "尾澤拓実", 1],
+    [2, "kaTsumus", "尾澤拓実", 1],
+    [3, "Sie", "尾澤拓実", 1],
+    [4, "The Birth of Embryo Eve", "尾澤拓実", 1],
+    [5, "Wishes of Magius", "尾澤拓実", 1],
+    [6, "TRIGGER 〜Embryo Eve〜", "尾澤拓実", 1],
+    [7, "Q", "ReReGRAPHICS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/22604c32-4bdb-425b-bcc9-583e22409516", "https://vgmdb.net/album/119239"]
 
-[57e674cd56fc32dbac39ce1dc300c0df]
+[111bf340db52ce968a70064ddd7f942d]
 catalognumber = "VVXL-103"
 date = "2022-05-25"
 album = "TrySail Live Tour 2021 \"Re Bon Voyage\""
@@ -5331,8 +5331,8 @@ tracks = [
     [6, "whiz", "", 0],
     [7, "オリジナル。", "", 0],
     [8, "モノラル", "", 0],
-    [9, "うつろい", "", 0],
-    [10, "Lapis", "", 0],
+    [9, "うつろい", "", 1],
+    [10, "Lapis", "", 1],
     [11, "誰が為に愛は鳴る", "", 0],
     [12, "Free Turn", "", 0],
     [13, "この幸せが夢じゃないなら", "", 0],
@@ -5346,7 +5346,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/119247"]
 
-[10cd419e2203a2add84ca23599be5ee2]
+[fab03a060cdd9757571158c4534fb31d]
 catalognumber = "VVXL-100~2"
 date = "2022-05-25"
 album = "TrySail Live Tour 2021 \"Re Bon Voyage\" [完全生産限定盤] Vocal, Live Event, Video"
@@ -5359,8 +5359,8 @@ tracks = [
     [6, "whiz", "", 0],
     [7, "オリジナル。", "", 0],
     [8, "モノラル", "", 0],
-    [9, "うつろい", "", 0],
-    [10, "Lapis", "", 0],
+    [9, "うつろい", "", 1],
+    [10, "Lapis", "", 1],
     [11, "誰が為に愛は鳴る", "", 0],
     [12, "Free Turn", "", 0],
     [13, "この幸せが夢じゃないなら", "", 0],
@@ -5388,7 +5388,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/119249"]
 
-[f5046027f4218e315ca98e520846b7e8]
+[771db89355f517f7cb2e587b62371c1f]
 catalognumber = "VVBL-164"
 date = "2022-05-25"
 album = "TrySail Live Tour 2021 \"Re Bon Voyage\""
@@ -5401,8 +5401,8 @@ tracks = [
     [6, "whiz", "", 0],
     [7, "オリジナル。", "", 0],
     [8, "モノラル", "", 0],
-    [9, "うつろい", "", 0],
-    [10, "Lapis", "", 0],
+    [9, "うつろい", "", 1],
+    [10, "Lapis", "", 1],
     [11, "誰が為に愛は鳴る", "", 0],
     [12, "Free Turn", "", 0],
     [13, "この幸せが夢じゃないなら", "", 0],
@@ -5416,28 +5416,28 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/119248"]
 
-[c4280daaa9d0229a4d77752171a115f9]
+[15939197539a8d46fa781b763356f6fd]
 catalognumber = "ANZX-15570"
 date = "2022-06-29"
 album = "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁- ORIGINAL SOUND TRACK 2"
 tracks = [
-    [1, "Wings Cried", "尾澤拓実", 0],
-    [2, "EINDE", "尾澤拓実", 0],
-    [3, "La Confrontación Final", "尾澤拓実", 0],
-    [4, "Beyond that…", "尾澤拓実", 0],
-    [5, "Madness Plan", "尾澤拓実", 0],
-    [6, "Ring", "尾澤拓実", 0],
-    [7, "Misericordia", "尾澤拓実", 0],
-    [8, "ablaze", "ReReGRAPHICS", 0],
+    [1, "Wings Cried", "尾澤拓実", 1],
+    [2, "EINDE", "尾澤拓実", 1],
+    [3, "La Confrontación Final", "尾澤拓実", 1],
+    [4, "Beyond that…", "尾澤拓実", 1],
+    [5, "Madness Plan", "尾澤拓実", 1],
+    [6, "Ring", "尾澤拓実", 1],
+    [7, "Misericordia", "尾澤拓実", 1],
+    [8, "ablaze", "ReReGRAPHICS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ab27de36-8a2e-4f23-a350-12c335e75c2b", "https://vgmdb.net/album/119335"]
 
-[f93a48213e394ab90461513710343aea]
+[685f37e9ceae98aefb8e41c88b60072c]
 catalognumber = "VVXX-01243"
 date = "2022-07-27"
 album = "コネクト -SACRA BLUE BEATS Mix-"
 tracks = [
-    [1, "コネクト -SACRA BLUE BEATS Mix-", "", 0],
+    [1, "コネクト -SACRA BLUE BEATS Mix-", "", 1],
 ]
 links = ["https://vgmdb.net/album/120808"]
 
@@ -5459,7 +5459,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/fbc3d426-477d-43fd-8427-fb7f7f5080cd", "https://vgmdb.net/album/124770"]
 
-[80cde03a4f3c3cf307080848c25fd4b4]
+[77c9c605a9206ef47dff220368d470bb]
 catalognumber = "VVCL-2288~9"
 date = "2023-07-19"
 album = "SuperBloom / TrySail [初回生産限定盤]"
@@ -5471,14 +5471,14 @@ tracks = [
     [5, "華麗ワンターン", "TrySail", 0],
     [6, "Ah! La Vie En Rose!!! -ア！ラ・ビ・アン・ローズ-", "TrySail", 0],
     [7, "Mermaid", "TrySail", 0],
-    [8, "Lapis", "TrySail", 0],
+    [8, "Lapis", "TrySail", 1],
     [9, "遥かな航海", "TrySail", 0],
     [10, "Etoile", "TrySail", 0],
     [11, "flower", "TrySail", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7ede5e18-1af7-4779-9193-c899b3ee5223", "https://vgmdb.net/album/132418"]
 
-[b292ffd718ff7fb4db737d6d5b68d66c]
+[9f26a0e66b185bd77df87d7ed93f60e3]
 catalognumber = "VVCL-2290"
 date = "2023-07-19"
 album = "SuperBloom / TrySail"
@@ -5490,14 +5490,14 @@ tracks = [
     [5, "華麗ワンターン", "TrySail", 0],
     [6, "Ah! La Vie En Rose!!! -ア！ラ・ビ・アン・ローズ-", "TrySail", 0],
     [7, "Mermaid", "TrySail", 0],
-    [8, "Lapis", "TrySail", 0],
+    [8, "Lapis", "TrySail", 1],
     [9, "遥かな航海", "TrySail", 0],
     [10, "Etoile", "TrySail", 0],
     [11, "flower", "TrySail", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9ffbcd93-3488-4753-9a8f-673060279bba", "https://vgmdb.net/album/130530"]
 
-[5ab2c8b8b6ef54f7dc5cd0af9ef57eda]
+[0199dede3c4a35430ee06171395b992d]
 catalognumber = "VVCL-2285~7"
 date = "2023-07-19"
 album = "SuperBloom / TrySail [完全生産限定盤] Disc 1 (CD) [VVCL-2285]"
@@ -5509,7 +5509,7 @@ tracks = [
     [5, "華麗ワンターン", "TrySail", 0],
     [6, "Ah! La Vie En Rose!!! -ア！ラ・ビ・アン・ローズ-", "TrySail", 0],
     [7, "Mermaid", "TrySail", 0],
-    [8, "Lapis", "TrySail", 0],
+    [8, "Lapis", "TrySail", 1],
     [9, "遥かな航海", "TrySail", 0],
     [10, "Etoile", "TrySail", 0],
     [11, "flower", "TrySail", 0],
@@ -5526,7 +5526,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2483d15c-59bc-4199-b10f-ffbffbbabfd1", "https://vgmdb.net/album/132419"]
 
-[273e268ba3f83c2e2f2cc0257464644e]
+[626477a3126d001a3d2510706a627c41]
 catalognumber = "VVCL-2320~1"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [初回生産限定盤] Disc 1 (CD) [VVCL-2320]"
@@ -5534,12 +5534,12 @@ tracks = [
     [1, "コイセカイ", "ClariS", 0],
     [2, "Blue Canvas", "ClariS", 0],
     [3, "君がいると", "ClariS", 0],
-    [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
+    [4, "コネクト - From THE FIRST TAKE", "ClariS", 1],
     [5, "コイセカイ -Instrumental-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38", "https://vgmdb.net/album/131899"]
 
-[6a095e415fc43adcab75960f33d4f479]
+[79abb2a0ec69f211389548140753473f]
 catalognumber = "VVCL-2320~1"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [初回生産限定盤] Disc 2 (Blu-ray) [VVCL-2321]"
@@ -5547,16 +5547,16 @@ tracks = [
     [1, "コイセカイ (Music Video)", "ClariS", 0],
     [2, "コイセカイ (Dance Video)", "ClariS", 0],
     [3, "Twinkle Twinkle (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
-    [4, "アリシア (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
+    [4, "アリシア (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 1],
     [5, "Masquerade (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
     [6, "シニカルサスペンス (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
     [7, "ALIVE (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
-    [8, "コネクト (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
+    [8, "コネクト (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 1],
     [9, "PRECIOUS (ClariS HALL CONCERT 2022 ～Twinkle Summer Dreams～ at LINE CUBE SHIBUYA Selection)", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/84bf9acb-cd3a-4b22-9474-0aa957b07a38", "https://vgmdb.net/album/131899"]
 
-[8ad8a664fdae935860e2aacc13bda590]
+[01a3a12f5cf0cf39ce381cac281f469f]
 catalognumber = "VVCL-2323~4"
 date = "2023-08-23"
 album = "コイセカイ / ClariS [期間生産限定盤] Disc 1 (CD) [VVCL-2323]"
@@ -5564,7 +5564,7 @@ tracks = [
     [1, "コイセカイ", "ClariS", 0],
     [2, "Blue Canvas", "ClariS", 0],
     [3, "君がいると", "ClariS", 0],
-    [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
+    [4, "コネクト - From THE FIRST TAKE", "ClariS", 1],
     [5, "コイセカイ -TV MIX-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f", "https://vgmdb.net/album/131900"]
@@ -5578,7 +5578,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/5d020d52-49f8-4da1-b86b-ceba297d109f", "https://vgmdb.net/album/131900"]
 
-[139c80db616f2c35b873b9eb5f18bd7b]
+[969b353860b640d129e01bb3ed27ac62]
 catalognumber = "VVCL-2322"
 date = "2023-08-23"
 album = "コイセカイ / ClariS"
@@ -5586,7 +5586,7 @@ tracks = [
     [1, "コイセカイ", "ClariS", 0],
     [2, "Blue Canvas", "ClariS", 0],
     [3, "君がいると", "ClariS", 0],
-    [4, "コネクト - From THE FIRST TAKE", "ClariS", 0],
+    [4, "コネクト - From THE FIRST TAKE", "ClariS", 1],
     [5, "コイセカイ -Instrumental-", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/284b5556-6560-401a-92b7-ca6aded1ba38", "https://vgmdb.net/album/131573"]
@@ -5750,14 +5750,14 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/153642"]
 
-[6372a50b7bfcf604c6abc6e914d46307]
+[3db551e05b0f69bfa0a27c5d71a51459]
 catalognumber = "VVCL-2832~3"
 date = "2025-12-10"
 album = "リンクス / ClariS Disc 1 (CD) [VVCL-2832]"
 tracks = [
-    [1, "コネクト -season 03-", "ClariS", 0],
-    [2, "ルミナス -season 03-", "ClariS", 0],
-    [3, "カラフル -season 03-", "ClariS", 0],
-    [4, "リンクス", "ClariS", 0],
+    [1, "コネクト -season 03-", "ClariS", 1],
+    [2, "ルミナス -season 03-", "ClariS", 1],
+    [3, "カラフル -season 03-", "ClariS", 1],
+    [4, "リンクス", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/628ed959-e0d8-4456-bdcb-ad9d68c55504", "https://vgmdb.net/album/153642"]
