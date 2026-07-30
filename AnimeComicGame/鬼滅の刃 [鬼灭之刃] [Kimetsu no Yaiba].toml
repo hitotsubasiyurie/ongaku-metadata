@@ -1202,7 +1202,7 @@ album = "ラジオCD「鬼滅ラヂヲ」第四巻"
 tracks = []
 links = ["https://vgmdb.net/album/110506"]
 
-[0c0a807e90144abc3fd1f37c9de7e73e]
+[35a71762d8f93df5f6caa33fd13c7439]
 catalognumber = "ANZX-16003"
 date = "2021-06-16"
 album = "劇場版「鬼滅の刃」無限列車編 劇伴音楽集 -フィルムスコアリング版 STEREO MIX-"
@@ -1560,7 +1560,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/afce38d3-1dd3-4cf2-b4fe-9f78a32bad2a", "https://vgmdb.net/album/115016"]
 
-[5b047221423927027f3d809e0e8e53b5]
+[b95e0eb0ee4e949046f6b242dff318d7]
 catalognumber = "ANZX-16012"
 date = "2022-01-26"
 album = "鬼滅の刃 無限列車編 第一巻 特典ディスク"
@@ -1607,7 +1607,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/115713"]
 
-[354cea027c53999aaab4557b68909c81]
+[f9d179b222ddb511d40cf38184fc0b8a]
 catalognumber = "ANZX-16022"
 date = "2022-02-23"
 album = "鬼滅の刃 遊郭編 第一巻 特典ディスク"
@@ -1642,7 +1642,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/150674"]
 
-[214e6c19fa37e2b0e43a8354cc25ba6c]
+[bb75193e61691e4cbb1a6ce4f1b44576]
 catalognumber = "ANZX-16024"
 date = "2022-03-30"
 album = "鬼滅の刃 遊郭編 第二巻 特典ディスク"
@@ -1779,7 +1779,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/118308"]
 
-[038229a3ba873ff7a95f37836000b9a1]
+[171355d5bd9b0ff0a742b59f5797c4bd]
 catalognumber = "ANZX-16026"
 date = "2022-04-27"
 album = "鬼滅の刃 遊郭編 第三巻 特典ディスク"
@@ -1815,7 +1815,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117187"]
 
-[b68f5b3c250570071532fcc7111e81a8]
+[f3d2e190243ba5c2a4f83beded7a21eb]
 catalognumber = "ANZX-16028"
 date = "2022-05-25"
 album = "鬼滅の刃 遊郭編 第四巻 特典ディスク"
@@ -1851,7 +1851,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/117581"]
 
-[5d0a5fc0d77702dabfc16333b2eab4f9]
+[2c3e9459829b5deab04cfa291dcbc78f]
 catalognumber = "ANZX-16030"
 date = "2022-06-29"
 album = "鬼滅の刃 遊郭編 第五巻 特典ディスク"
@@ -1882,7 +1882,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/aa42f56f-2ff7-4af0-a0d2-e000cec94e2c", "https://vgmdb.net/album/117783"]
 
-[bf1759ed2da16760b95f46a9a7aa57e1]
+[83428825315a816036671d745b1dac14]
 catalognumber = "ANZX-16032"
 date = "2022-07-27"
 album = "鬼滅の刃 遊郭編 第六巻 特典ディスク"
@@ -2691,55 +2691,55 @@ album = "PARADE / FictionJunction [初回生産限定盤] Disc 2"
 tracks = []
 links = ["https://vgmdb.net/album/122482"]
 
-[33dde377ab280a82e653dfa6562091e4]
+[20948cbb9a648782c47472ada5a00264]
 catalognumber = "SRCL-12512"
 date = "2023-05-31"
 album = "絆ノ奇跡/コイコガレ / MAN WITH A MISSION×milet"
 tracks = [
-    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
-    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 0],
-    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 0],
-    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 0],
-    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 0],
+    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 1],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
+    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 1],
+    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 1],
+    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 1],
+    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/60b2da48-4e9e-4be4-871d-4738bff34cca", "https://vgmdb.net/album/128154"]
 
-[e085e67c6c63bc6b8bab42c2cd1f1d2a]
+[453f01948724e21a801a78782a1e6b8b]
 catalognumber = "SRCL-12510"
 date = "2023-05-31"
 album = "絆ノ奇跡/コイコガレ / MAN WITH A MISSION×milet [初回生産限定盤] Vocal"
 tracks = [
-    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
-    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 0],
-    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 0],
-    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 0],
-    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 0],
+    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 1],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
+    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 1],
+    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 1],
+    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 1],
+    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10e46257-6ded-4632-9d7b-374af416ecc4", "https://vgmdb.net/album/128647"]
 
-[1dde8aeb8808957a81be6437e28665ea]
+[8bddefbf6707bc227d150f68d0d3a2e9]
 catalognumber = "SRCL-12511"
 date = "2023-05-31"
 album = "絆ノ奇跡/コイコガレ / MAN WITH A MISSION×milet [初回生産限定盤] Video"
 tracks = [
-    [1, "絆ノ奇跡 Music Video", "MAN WITH A MISSION×milet", 0],
-    [2, "コイコガレ Music Video", "milet×MAN WITH A MISSION", 0],
+    [1, "絆ノ奇跡 Music Video", "MAN WITH A MISSION×milet", 1],
+    [2, "コイコガレ Music Video", "milet×MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10e46257-6ded-4632-9d7b-374af416ecc4", "https://vgmdb.net/album/128647"]
 
-[f31dfd05ba9114f554f942060993bf84]
+[16f9786419790ac52f2498e88af3ed69]
 catalognumber = "SRCL-12513"
 date = "2023-05-31"
 album = "絆ノ奇跡/コイコガレ / MAN WITH A MISSION×milet [期間生産限定盤] Vocal"
 tracks = [
-    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
-    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 0],
-    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 0],
-    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 0],
-    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 0],
+    [1, "絆ノ奇跡", "MAN WITH A MISSION×milet", 1],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
+    [3, "絆ノ奇跡 -Instrumental-", "MAN WITH A MISSION×milet", 1],
+    [4, "コイコガレ -Instrumental-", "milet×MAN WITH A MISSION", 1],
+    [5, "絆ノ奇跡 -TV ver.-", "MAN WITH A MISSION×milet", 1],
+    [6, "コイコガレ -TV ver.-", "milet×MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c00710e8-e2cd-4c0c-b32a-32f367f0368d", "https://vgmdb.net/album/128651"]
 
@@ -2753,16 +2753,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/c00710e8-e2cd-4c0c-b32a-32f367f0368d", "https://vgmdb.net/album/128651"]
 
-[7b36a2e518f5850b6041d881bdee104c]
+[a00828916efc2e63d567a74b18d4ed04]
 catalognumber = "ANXX-01184"
 date = "2023-06-20"
 album = "竈門禰豆子のうた / 椎名豪 featuring 中川奈美"
 tracks = [
-    [1, "竈門禰豆子のうた", "椎名豪 featuring 中川奈美", 0],
+    [1, "竈門禰豆子のうた", "椎名豪 featuring 中川奈美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2c1b5f69-199f-4a2c-87cd-7cbd1d59b760", "https://vgmdb.net/album/130300"]
 
-[45e9e8b56f64fb3da6ef2734828dad38]
+[416ea751e274a65a94deccb587b4562d]
 catalognumber = "ANZX-16603"
 date = "2023-06-21"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里編 第一巻"
@@ -2886,7 +2886,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e58cbc8e-a045-4540-83f5-71657f2d16dd", "https://vgmdb.net/album/130406"]
 
-[e6b49ef409d5423a4e9757a7865c7833]
+[0fd31aee2bd583c9549849c9477c07a8]
 catalognumber = "ANZX-16605"
 date = "2023-07-26"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里編 第二巻"
@@ -2922,13 +2922,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a4204961-b596-4081-8ebe-9a811c0923bc", "https://vgmdb.net/album/130153"]
 
-[8cce4cb7a4672db7b1f646e268db5173]
+[0f8553358e1c764c01256c685cc5540b]
 catalognumber = "SECL-2910"
 date = "2023-08-30"
 album = "5am / milet"
 tracks = [
     [1, "Clan (5am mix)", "milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
     [3, "Living My Life", "milet", 0],
     [4, "Noël In July", "milet", 0],
     [5, "b r o k e n", "milet", 0],
@@ -2945,7 +2945,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ed3982e6-a832-4fce-90a4-5c9aff588555", "https://vgmdb.net/album/132336"]
 
-[9dd57ff9faee7f0a0a18b328ebdfc691]
+[7fd3e0638d2d0498235d211e06c279c1]
 catalognumber = "ANZX-16607"
 date = "2023-08-30"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里編 第三巻"
@@ -2974,13 +2974,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/26e3889a-5643-4503-b8d0-4093cf23dd9f", "https://vgmdb.net/album/130191"]
 
-[0afe71e2272196fa067691b99be41886]
+[92567c68de00005e9340d30c41451fe8]
 catalognumber = "SECL-2908"
 date = "2023-08-30"
 album = "5am / milet [初回生産限定盤B] Disc 1 (CD) [SECL-2908]"
 tracks = [
     [1, "Clan (5am mix)", "milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
     [3, "Living My Life", "milet", 0],
     [4, "Noël In July", "milet", 0],
     [5, "b r o k e n", "milet", 0],
@@ -2997,7 +2997,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/6347abb6-93e1-4f56-803b-5c6b27900557", "https://vgmdb.net/album/132335"]
 
-[d2c3fff04d8215f2ede223900dffe2bb]
+[059c6bb6be12a9d83f07e46e28fc857c]
 catalognumber = "SECL-2909"
 date = "2023-08-30"
 album = "5am / milet [初回生産限定盤B] Disc 2 (DVD) [SECL-2909]"
@@ -3024,18 +3024,18 @@ tracks = [
     [20, "Walkin’ In My Lane", "milet", 0],
     [21, "Always You", "milet", 0],
     [22, "Final Call", "milet", 0],
-    [23, "コイコガレ", "milet×MAN WITH A MISSION", 0],
+    [23, "コイコガレ", "milet×MAN WITH A MISSION", 1],
     [24, "Living My Life", "milet", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6347abb6-93e1-4f56-803b-5c6b27900557", "https://vgmdb.net/album/132335"]
 
-[160e834c41f4356da4dab73df91ff44f]
+[688e0c65f9d0ecb22efaa6f1d176c10f]
 catalognumber = "SECL-2905"
 date = "2023-08-30"
 album = "5am / milet [初回生産限定盤A] Disc 1 (CD) [SECL-2905]"
 tracks = [
     [1, "Clan (5am mix)", "milet", 0],
-    [2, "コイコガレ", "milet×MAN WITH A MISSION", 0],
+    [2, "コイコガレ", "milet×MAN WITH A MISSION", 1],
     [3, "Living My Life", "milet", 0],
     [4, "Noël In July", "milet", 0],
     [5, "b r o k e n", "milet", 0],
@@ -3052,7 +3052,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33f80cc3-e001-44c7-b658-0031637e6537", "https://vgmdb.net/album/132334"]
 
-[6665beaac378de336d6b92c17b50d2df]
+[534fd5ef67398a0153b4f13eda97bd51]
 catalognumber = "SECL-2906"
 date = "2023-08-30"
 album = "5am / milet [初回生産限定盤A] Disc 2 (Blu-ray) [SECL-2906]"
@@ -3079,7 +3079,7 @@ tracks = [
     [20, "Walkin’ In My Lane", "milet", 0],
     [21, "Always You", "milet", 0],
     [22, "Final Call", "milet", 0],
-    [23, "コイコガレ", "milet×MAN WITH A MISSION", 0],
+    [23, "コイコガレ", "milet×MAN WITH A MISSION", 1],
     [24, "Living My Life", "milet", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/33f80cc3-e001-44c7-b658-0031637e6537", "https://vgmdb.net/album/132334"]
@@ -3110,36 +3110,36 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/33f80cc3-e001-44c7-b658-0031637e6537", "https://vgmdb.net/album/132334"]
 
-[4dd9351b06694eda22d7699f3a4014ce]
+[3322f6033f16392bc8cb0b288c53635f]
 catalognumber = "ANZX-16609"
 date = "2023-09-27"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里編 第四巻"
 tracks = [
-    [1, "M01", "椎名豪", 0],
-    [2, "M02", "椎名豪", 0],
-    [3, "M03", "椎名豪", 0],
-    [4, "M04", "椎名豪", 0],
-    [5, "M05", "椎名豪", 0],
-    [6, "M06", "椎名豪", 0],
-    [7, "M07", "椎名豪", 0],
-    [8, "M08", "椎名豪", 0],
-    [9, "M09", "椎名豪", 0],
-    [10, "M10", "椎名豪", 0],
-    [11, "M11", "椎名豪", 0],
-    [12, "M12", "椎名豪", 0],
-    [13, "M13", "椎名豪", 0],
-    [14, "M14", "椎名豪", 0],
-    [15, "M15", "椎名豪", 0],
-    [16, "M16", "椎名豪", 0],
-    [17, "M17", "椎名豪", 0],
-    [18, "M18", "椎名豪", 0],
-    [19, "M19", "椎名豪", 0],
-    [20, "M20", "椎名豪", 0],
-    [21, "M21", "椎名豪", 0],
+    [1, "M01", "椎名豪", 1],
+    [2, "M02", "椎名豪", 1],
+    [3, "M03", "椎名豪", 1],
+    [4, "M04", "椎名豪", 1],
+    [5, "M05", "椎名豪", 1],
+    [6, "M06", "椎名豪", 1],
+    [7, "M07", "椎名豪", 1],
+    [8, "M08", "椎名豪", 1],
+    [9, "M09", "椎名豪", 1],
+    [10, "M10", "椎名豪", 1],
+    [11, "M11", "椎名豪", 1],
+    [12, "M12", "椎名豪", 1],
+    [13, "M13", "椎名豪", 1],
+    [14, "M14", "椎名豪", 1],
+    [15, "M15", "椎名豪", 1],
+    [16, "M16", "椎名豪", 1],
+    [17, "M17", "椎名豪", 1],
+    [18, "M18", "椎名豪", 1],
+    [19, "M19", "椎名豪", 1],
+    [20, "M20", "椎名豪", 1],
+    [21, "M21", "椎名豪", 1],
 ]
 links = ["https://vgmdb.net/album/130192"]
 
-[0009bf0fac53f4220636814064424bb4]
+[eb8a6e3d7e45000ed585521130ec8b88]
 catalognumber = "ANZX-16611"
 date = "2023-10-25"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里編 第五巻"
@@ -3171,43 +3171,43 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/130193"]
 
-[a7eaed283dcfb46261d40abc3058ed93]
+[cb09b10e62caecb6b2acf9229f7dea08]
 catalognumber = "ANZX-16613"
 date = "2023-11-22"
 album = "テレビアニメ「鬼滅の刃」刀鍛冶の里 第六巻"
 tracks = [
-    [1, "M01", "椎名豪", 0],
-    [2, "M02", "椎名豪", 0],
-    [3, "M03", "椎名豪", 0],
-    [4, "M04", "椎名豪", 0],
-    [5, "M05", "椎名豪", 0],
-    [6, "M06", "椎名豪", 0],
-    [7, "M07", "椎名豪", 0],
-    [8, "M08", "椎名豪", 0],
-    [9, "M09", "椎名豪", 0],
-    [10, "M10", "椎名豪", 0],
-    [11, "M11", "椎名豪", 0],
-    [12, "M12", "椎名豪", 0],
-    [13, "M13", "椎名豪", 0],
-    [14, "M14", "椎名豪", 0],
-    [15, "M15", "椎名豪", 0],
-    [16, "M16", "椎名豪", 0],
-    [17, "M17", "椎名豪", 0],
-    [18, "M18", "椎名豪", 0],
-    [19, "M19", "椎名豪", 0],
-    [20, "M20", "椎名豪", 0],
-    [21, "M21", "椎名豪", 0],
-    [22, "M22", "椎名豪", 0],
-    [23, "M23", "椎名豪", 0],
-    [24, "M24", "椎名豪", 0],
-    [25, "M25", "椎名豪", 0],
-    [26, "M26", "椎名豪", 0],
-    [27, "M27", "椎名豪", 0],
-    [28, "M28", "椎名豪", 0],
-    [29, "M29", "椎名豪", 0],
-    [30, "M30", "椎名豪", 0],
-    [31, "M31", "椎名豪", 0],
-    [32, "M32", "椎名豪", 0],
+    [1, "M01", "椎名豪", 1],
+    [2, "M02", "椎名豪", 1],
+    [3, "M03", "椎名豪", 1],
+    [4, "M04", "椎名豪", 1],
+    [5, "M05", "椎名豪", 1],
+    [6, "M06", "椎名豪", 1],
+    [7, "M07", "椎名豪", 1],
+    [8, "M08", "椎名豪", 1],
+    [9, "M09", "椎名豪", 1],
+    [10, "M10", "椎名豪", 1],
+    [11, "M11", "椎名豪", 1],
+    [12, "M12", "椎名豪", 1],
+    [13, "M13", "椎名豪", 1],
+    [14, "M14", "椎名豪", 1],
+    [15, "M15", "椎名豪", 1],
+    [16, "M16", "椎名豪", 1],
+    [17, "M17", "椎名豪", 1],
+    [18, "M18", "椎名豪", 1],
+    [19, "M19", "椎名豪", 1],
+    [20, "M20", "椎名豪", 1],
+    [21, "M21", "椎名豪", 1],
+    [22, "M22", "椎名豪", 1],
+    [23, "M23", "椎名豪", 1],
+    [24, "M24", "椎名豪", 1],
+    [25, "M25", "椎名豪", 1],
+    [26, "M26", "椎名豪", 1],
+    [27, "M27", "椎名豪", 1],
+    [28, "M28", "椎名豪", 1],
+    [29, "M29", "椎名豪", 1],
+    [30, "M30", "椎名豪", 1],
+    [31, "M31", "椎名豪", 1],
+    [32, "M32", "椎名豪", 1],
 ]
 links = ["https://vgmdb.net/album/130366"]
 
@@ -3496,7 +3496,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/eebdcc34-34e4-4e26-b6cc-f14090f31ede", "https://vgmdb.net/album/149364"]
 
-[58f6ec75ceab55a7a8291871fb04d153]
+[a28e844065111c35c812f00464a99fa4]
 catalognumber = "SECL-2976"
 date = "2024-06-05"
 album = "hanataba / milet [初回生產限定盤A] Live Event, Video"
@@ -3512,8 +3512,8 @@ tracks = [
     [9, "December", "milet", 0],
     [10, "Clan", "milet", 0],
     [11, "b r o k e n", "milet", 0],
-    [12, "絆ノ奇跡", "milet", 0],
-    [13, "コイコガレ", "milet", 0],
+    [12, "絆ノ奇跡", "milet", 1],
+    [13, "コイコガレ", "milet", 1],
     [14, "Anytime Anywhere", "milet", 0],
     [15, "Flare", "milet", 0],
     [16, "Hey Song", "milet", 0],
@@ -3578,12 +3578,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f2298ef4-7b89-4c0b-a748-1646195020c6", "https://vgmdb.net/album/146396"]
 
-[a0cc3926b9e2d73a97ef53df6ba0383d]
+[d5a3b5f3835093910b69316cd5c8adfa]
 catalognumber = "SVWC-70704"
 date = "2025-02-26"
 album = "「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック Disc 1 [SVWC-70704]"
 tracks = [
-    [1, "絆ノ奇跡-TV ver.-", "梶浦由記 & 椎名豪", 0],
+    [1, "絆ノ奇跡-TV ver.-", "梶浦由記 & 椎名豪", 1],
     [2, "猗窩座、無限城回遊", "梶浦由記 & 椎名豪", 1],
     [3, "上弦集結", "梶浦由記 & 椎名豪", 0],
     [4, "天井に張りつく伊之助", "梶浦由記 & 椎名豪", 0],
@@ -3604,11 +3604,11 @@ tracks = [
     [19, "五体目の追跡～斬れない頸", "梶浦由記 & 椎名豪", 0],
     [20, "玄弥の後悔", "梶浦由記 & 椎名豪", 0],
     [21, "諦めの玄弥、炭治郎の鼓舞", "梶浦由記 & 椎名豪", 0],
-    [22, "コイコガレ-TV ver.-", "梶浦由記 & 椎名豪", 0],
+    [22, "コイコガレ-TV ver.-", "梶浦由記 & 椎名豪", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5519ee98-f1c7-4a22-9e76-bdfbe7d6aa6d", "https://vgmdb.net/album/145614"]
 
-[78f2838499651176ac155d1045f1e042]
+[add3a4fb83925801a1421d2cb0988cbf]
 catalognumber = "SVWC-70705"
 date = "2025-02-26"
 album = "「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック Disc 2 [SVWC-70705]"
@@ -3628,7 +3628,7 @@ tracks = [
     [13, "みんな私が守るからね", "梶浦由記 & 椎名豪", 0],
     [14, "円舞一閃", "梶浦由記 & 椎名豪", 0],
     [15, "彼は誰時・朝ぼらけ", "梶浦由記 & 椎名豪", 0],
-    [16, "竈門禰豆子のうた-full ver.-", "梶浦由記 & 椎名豪", 0],
+    [16, "竈門禰豆子のうた-full ver.-", "梶浦由記 & 椎名豪", 1],
     [17, "歓喜の鬼舞辻", "梶浦由記 & 椎名豪", 0],
     [18, "よかったぁぁぁ～珠世の手紙", "梶浦由記 & 椎名豪", 0],
     [19, "感謝の見送り", "梶浦由記 & 椎名豪", 0],
@@ -3672,7 +3672,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145752"]
 
-[1eba7ed42938caecdf3f811a8cb6a651]
+[6979727662f38be24cd95048c54f51e5]
 catalognumber = "SVWC-70707"
 date = "2025-03-26"
 album = "TVアニメ「鬼滅の刃」オーケストラコンサート～鬼滅の奏～ 刀鍛冶の里編 [初回生産限定盤] Arrangement, Live Event Disc 2"
@@ -3690,11 +3690,11 @@ tracks = [
     [11, "半天狗との攻防～炭治郎たちの総力戦", "", 0],
     [12, "メドレー 人間の補給 / 届けられた刀 / 円舞一閃", "", 0],
     [13, "彼は誰時・朝ぼらけ", "", 0],
-    [14, "竈門禰豆子のうた -full ver.-", "", 0],
+    [14, "竈門禰豆子のうた -full ver.-", "", 1],
     [15, "メドレー 歓喜の鬼舞辻 / 鬼舞辻、体の異変", "", 0],
     [16, "メドレー よかったぁぁぁ～珠世の手紙 / 感謝の見送り", "", 0],
-    [17, "コイコガレ", "", 0],
-    [18, "絆ノ奇跡", "", 0],
+    [17, "コイコガレ", "", 1],
+    [18, "絆ノ奇跡", "", 1],
     [19, "残響散歌", "", 1],
 ]
 links = ["https://vgmdb.net/album/145752"]
@@ -3735,7 +3735,7 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/145751"]
 
-[f3ea00f715135a80a8393a603a3a7b3c]
+[9224a638961866df36397c42de3523e0]
 catalognumber = "SVWC-70710"
 date = "2025-03-26"
 album = "TVアニメ「鬼滅の刃」オーケストラコンサート～鬼滅の奏～ 刀鍛冶の里編 Disc 2 [SVWC-70710]"
@@ -3753,11 +3753,11 @@ tracks = [
     [11, "半天狗との攻防～炭治郎たちの総力戦", "", 0],
     [12, "メドレー 人間の補給 / 届けられた刀 / 円舞一閃", "", 0],
     [13, "彼は誰時・朝ぼらけ", "", 0],
-    [14, "竈門禰豆子のうた -full ver.-", "", 0],
+    [14, "竈門禰豆子のうた -full ver.-", "", 1],
     [15, "メドレー 歓喜の鬼舞辻 / 鬼舞辻、体の異変", "", 0],
     [16, "メドレー よかったぁぁぁ～珠世の手紙 / 感謝の見送り", "", 0],
-    [17, "コイコガレ", "", 0],
-    [18, "絆ノ奇跡", "", 0],
+    [17, "コイコガレ", "", 1],
+    [18, "絆ノ奇跡", "", 1],
     [19, "残響散歌", "", 1],
 ]
 links = ["https://vgmdb.net/album/145751"]
