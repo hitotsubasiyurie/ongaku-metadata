@@ -1,0 +1,54 @@
+[7c389375001eb99cc9e639f851501720]
+catalognumber = "UP1AS-01645"
+date = "2022-07-09"
+album = "暁光 / Half time Old"
+tracks = [
+    [1, "暁光", "Half time Old", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b12deff5-f003-4473-ab23-454c6f8e4447", "https://vgmdb.net/album/121578"]
+
+[48ebb1ba0d85816170edd8d5e16551d8]
+catalognumber = "N/A"
+date = "2022-07-29"
+album = "Reflexion / SpendyMily"
+tracks = [
+    [1, "Reflexion", "", 0],
+]
+links = ["https://vgmdb.net/album/121579"]
+
+[a0c15200c598b215de1c7835ed96cfa0]
+catalognumber = "N/A"
+date = "2022-10-08"
+album = "BE the HERO / Raon"
+tracks = [
+    [1, "BE the HERO", "Raon", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f016e8f0-0158-490b-a54e-56aa0a909c58", "https://vgmdb.net/album/123674"]
+
+[c265939a7cdc857569c1fea17cfc4949]
+catalognumber = "DSKU-11984"
+date = "2022-11-23"
+album = "ZERO / Sano ibuki [UNIVERSAL MUSIC STORE限定商品]"
+tracks = [
+    [1, "twilight", "", 0],
+    [2, "プラチナ", "", 0],
+    [3, "夢日記", "", 0],
+    [4, "終夜", "", 0],
+    [5, "アビス", "", 0],
+    [6, "ZERO", "", 0],
+]
+links = ["https://vgmdb.net/album/123676"]
+
+[972848cc312d366d79499e6d0cbcbcb6]
+catalognumber = "UPCH-20638"
+date = "2022-11-23"
+album = "ZERO / Sano ibuki"
+tracks = [
+    [1, "twilight", "", 0],
+    [2, "プラチナ", "", 0],
+    [3, "夢日記", "", 0],
+    [4, "終夜", "", 0],
+    [5, "アビス", "", 0],
+    [6, "ZERO", "", 0],
+]
+links = ["https://vgmdb.net/album/123675"]

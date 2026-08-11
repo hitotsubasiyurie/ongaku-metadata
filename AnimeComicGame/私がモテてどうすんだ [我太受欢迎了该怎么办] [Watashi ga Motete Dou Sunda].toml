@@ -1,0 +1,150 @@
+[c0c41e853e7a997bf7555c0d628275d9]
+catalognumber = "KDS-0231"
+date = "2015-01-13"
+album = "私がモテてどうすんだ5 ドラマCD付き 特装版"
+tracks = []
+links = ["https://vgmdb.net/album/78449"]
+
+[02599c87040459b9ee9774aae1eae9cd]
+catalognumber = "KDS-0267"
+date = "2015-10-13"
+album = "私がモテてどうすんだ7 ドラマCD付き 特装版"
+tracks = []
+links = ["https://vgmdb.net/album/78428"]
+
+[fe54e666cf7ae0eebc59037b25127c00]
+catalognumber = "COCC-17137"
+date = "2016-11-02"
+album = "ドキドキの風 / 村川梨衣"
+tracks = [
+    [1, "ドキドキの風", "村川梨衣", 0],
+    [2, "RiEtion please♥", "村川梨衣", 0],
+    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 0],
+    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4d1c1b78-f3f7-4bac-8260-576b5d7c5ac4", "https://vgmdb.net/album/60796"]
+
+[cfe8239670bc2bbcff67a0ba94a15a27]
+catalognumber = "COZC-1250~1"
+date = "2016-11-02"
+album = "ドキドキの風 / 村川梨衣 Disc 1 (CD) [COZC-1250]"
+tracks = [
+    [1, "ドキドキの風", "村川梨衣", 0],
+    [2, "RiEtion please♥", "村川梨衣", 0],
+    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 0],
+    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4d1c1b78-f3f7-4bac-8260-576b5d7c5ac4", "https://vgmdb.net/album/60797"]
+
+[4e79c95f3aa55bc6c4881d7872f0aa47]
+catalognumber = "COZC-1250~1"
+date = "2016-11-02"
+album = "ドキドキの風 / 村川梨衣 Disc 2 (DVD) [COZC-1251]"
+tracks = [
+    [1, "ドキドキの風 (ミュージックビデオ)", "", 0],
+    [2, "ドキドキの風 (メイキング映像)", "", 0],
+]
+links = ["https://vgmdb.net/album/60797"]
+
+[7dcfc77e8db87e1daf78bada30191ff0]
+catalognumber = "COCC-17233"
+date = "2016-11-23"
+album = "Prince×Prince / From4to7"
+tracks = [
+    [1, "Prince×Prince", "From4to7", 0],
+    [2, "ノンストップ☆らぶモーション", "From4to7", 0],
+    [3, "未来へのエール", "From4to7", 0],
+    [4, "Prince×Prince (off vocal)", "From4to7", 0],
+    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 0],
+    [6, "未来へのエール (off vocal)", "From4to7", 0],
+]
+links = ["https://beta.musicbrainz.org/release/155f6ae4-d3bf-4f50-b0a6-67b51d66c2bd", "https://vgmdb.net/album/60794"]
+
+[9b2cd84e88c3d97cf68979d3f5d28f66]
+catalognumber = "COZC-1260~1"
+date = "2016-11-23"
+album = "Prince×Prince / From4to7 [Limited Edition] Disc 1 (CD) [COZC-1260]"
+tracks = [
+    [1, "Prince×Prince", "From4to7", 0],
+    [2, "ノンストップ☆らぶモーション", "From4to7", 0],
+    [3, "未来へのエール", "From4to7", 0],
+    [4, "Prince×Prince (off vocal)", "From4to7", 0],
+    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 0],
+    [6, "未来へのエール (off vocal)", "From4to7", 0],
+]
+links = ["https://beta.musicbrainz.org/release/155f6ae4-d3bf-4f50-b0a6-67b51d66c2bd", "https://vgmdb.net/album/60795"]
+
+[130deb72212d63191805742646391fad]
+catalognumber = "COZC-1260~1"
+date = "2016-11-23"
+album = "Prince×Prince / From4to7 [Limited Edition] Disc 2 (DVD) [COZC-1261]"
+tracks = [
+    [1, "撮影スタート!", "", 0],
+    [2, "俺たちが撮るとどうなるんだ? ～頭サビ", "", 0],
+    [3, "俺たちが撮るとどうなるんだ? ～Aメロ", "", 0],
+    [4, "俺たちが撮るとどうなるんだ? ～A'メロ", "", 0],
+    [5, "俺たちが撮るとどうなるんだ? ～Bメロ", "", 0],
+    [6, "俺たちが撮るとどうなるんだ? ～サビ", "", 0],
+    [7, "俺たちが撮るとどうなるんだ? ～ラストサビ", "", 0],
+    [8, "撮影終了!", "", 0],
+    [9, "「Prince×Prince」PV", "", 0],
+]
+links = ["https://vgmdb.net/album/60795"]
+
+[f085b7ee90cc47f9765092c604c5d4b7]
+catalognumber = "COZX-1270~1"
+date = "2017-01-11"
+album = "RiEMUSiC / 村川梨衣 Disc 1 (CD) [COZX-1270]"
+tracks = [
+    [1, "Anytime, Anywhere", "村川梨衣", 0],
+    [2, "Dreamy Lights", "村川梨衣", 0],
+    [3, "ドキドキの風", "村川梨衣", 0],
+    [4, "Breath", "村川梨衣", 0],
+    [5, "MaGiK", "村川梨衣", 0],
+    [6, "恋するパレード", "村川梨衣", 0],
+    [7, "クリームソーダとエンドロール", "村川梨衣", 0],
+    [8, "Baby, My First Kiss", "村川梨衣", 0],
+    [9, "Eternal", "村川梨衣", 0],
+    [10, "戻れない旅", "村川梨衣", 0],
+    [11, "Sweet Sensation", "村川梨衣", 0],
+    [12, "夜明けの恋", "村川梨衣", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5e1cde9d-cae1-4288-b1c0-33300ecd3438", "https://vgmdb.net/album/78427"]
+
+[2986ecfd8d581a39ecd33ac2071eb011]
+catalognumber = "COZX-1270~1"
+date = "2017-01-11"
+album = "RiEMUSiC / 村川梨衣 Disc 2 (Blu-ray) [COZX-1271]"
+tracks = [
+    [1, "「Dreamy Lights」 ミュージックビデオ", "村川梨衣", 0],
+    [2, "撮り下ろしインタビュー番組 <SECRET of RiEMUSiC>", "村川梨衣", 0],
+    [3, "<RiEtion Session LIVE PARTY!!> (2016/7/2 科学技術館サイエンスホール) ダイジェスト映像", "村川梨衣", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5e1cde9d-cae1-4288-b1c0-33300ecd3438", "https://vgmdb.net/album/78427"]
+
+[20c5ae699cdea58b3d0bb3bd5acfde47]
+catalognumber = "COCX-39786"
+date = "2017-01-11"
+album = "RiEMUSiC / 村川梨衣"
+tracks = [
+    [1, "Anytime, Anywhere", "村川梨衣", 0],
+    [2, "Dreamy Lights", "村川梨衣", 0],
+    [3, "ドキドキの風", "村川梨衣", 0],
+    [4, "Breath", "村川梨衣", 0],
+    [5, "MaGiK", "村川梨衣", 0],
+    [6, "恋するパレード", "村川梨衣", 0],
+    [7, "クリームソーダとエンドロール", "村川梨衣", 0],
+    [8, "Baby, My First Kiss", "村川梨衣", 0],
+    [9, "Eternal", "村川梨衣", 0],
+    [10, "戻れない旅", "村川梨衣", 0],
+    [11, "Sweet Sensation", "村川梨衣", 0],
+    [12, "夜明けの恋", "村川梨衣", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e7c3dcaf-d346-45fd-b966-13e20d44bd0a", "https://vgmdb.net/album/78425"]
+
+[ddd1c0eda5e7a4e477bb11874256bd03]
+catalognumber = "KDS-0376"
+date = "2017-11-13"
+album = "私がモテてどうすんだ13 ドラマCD付き 特装版"
+tracks = []
+links = ["https://vgmdb.net/album/78451"]

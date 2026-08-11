@@ -1,0 +1,38 @@
+[8c821d7724f5d634050ed09c017fe584]
+catalognumber = "SRCL-13148"
+date = "2025-02-19"
+album = "リアル / miwa Disc 1 (CD)"
+tracks = [
+    [1, "リアル", "", 0],
+    [2, "リアル -Instrumental-", "", 0],
+    [3, "リアル -TV size-", "", 0],
+]
+links = ["https://vgmdb.net/album/154767"]
+
+[104ed2cb12984814b36df7b24e799029]
+catalognumber = "SRCL-13148"
+date = "2025-02-19"
+album = "リアル / miwa Disc 2 (DVD)"
+tracks = [
+    [1, "TVアニメ『もめんたりー・リリィ』特別ノンクレジットエンディング映像", "", 0],
+]
+links = ["https://vgmdb.net/album/154767"]
+
+[d6f581d28b76cc4ffb8e000f9dbb675b]
+catalognumber = "ESCL-6071~2"
+date = "2025-03-12"
+album = "おいしいサバイバー / 花冷え。 [期間生産限定盤] Vocal"
+tracks = [
+    [1, "おいしいサバイバー", "花冷え。", 0],
+    [2, "O・TA・KUラブリー伝説 (Wazgogg Remix)", "花冷え。", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a819f726-aa53-489b-9cb1-cb3422c1ec20", "https://vgmdb.net/album/148070"]
+
+[21f966285dddf90b8209dd1aed6e3278]
+catalognumber = "ESCL-6071~2"
+date = "2025-03-12"
+album = "おいしいサバイバー / 花冷え。 [期間生産限定盤] Vocal, Video"
+tracks = [
+    [1, "TVアニメ『もめんたりー・リリィ』ノンクレジットオープニングビデオ", "花冷え。", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a819f726-aa53-489b-9cb1-cb3422c1ec20", "https://vgmdb.net/album/148070"]

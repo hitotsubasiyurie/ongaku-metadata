@@ -1,0 +1,124 @@
+[2e4606476e486f12c5d222ed1f22041a]
+catalognumber = "NOPA-3090"
+date = "2023-10-01"
+album = "ROAR / ulma sound junction"
+tracks = [
+    [1, "ROAR", "ulma sound junction", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5d819de5-7d61-4b7a-acb4-0ca7f6acda7a", "https://vgmdb.net/album/132917"]
+
+[6c3ddf0c0c2bf370ee77f135d2dd2903]
+catalognumber = "NOPA-5265"
+date = "2023-10-15"
+album = "鱗角 / 小林私"
+tracks = [
+    [1, "鱗角", "", 0],
+]
+links = ["https://vgmdb.net/album/132920"]
+
+[13975cb5a0db7e83f97d2a14cdfb9fbf]
+catalognumber = "KICS-4129"
+date = "2023-11-29"
+album = "INVISIBRUISE / ulma sound junction"
+tracks = [
+    [1, "Appetite", "ulma sound junction", 0],
+    [2, "ROAR", "ulma sound junction", 0],
+    [3, "Seizure", "ulma sound junction", 0],
+    [4, "Patient of Echo", "ulma sound junction", 0],
+    [5, "Welcome Back", "ulma sound junction", 0],
+    [6, "Lequeios", "ulma sound junction", 0],
+    [7, "Irreal", "ulma sound junction", 0],
+    [8, "Obsidian Sugar", "ulma sound junction", 0],
+    [9, "Kameroceras", "ulma sound junction", 0],
+    [10, "Protopterus", "ulma sound junction", 0],
+]
+links = ["https://beta.musicbrainz.org/release/53c920fa-9717-481b-8be2-69fe3a74e629", "https://vgmdb.net/album/132918"]
+
+[67ad77008a9464d134676bbd3a0f2cc1]
+catalognumber = "NOPA-5266"
+date = "2024-01-14"
+album = "空に標結う / 小林私"
+tracks = [
+    [1, "空に標結う", "", 0],
+]
+links = ["https://vgmdb.net/album/136367"]
+
+[69099a14dd65a0e158143da93fa70f28]
+catalognumber = "KIZX-90636"
+date = "2024-02-21"
+album = "ラグナクリムゾン オリジナルサウンドトラック Vol.1"
+tracks = [
+    [1, "THE THEME of RAGNA CRIMSON ~引き継がれる魂~", "", 0],
+    [2, "Face to Face", "", 0],
+    [3, "Time Limit", "", 0],
+    [4, "竜王", "", 0],
+    [5, "Crimson of The Dragon", "", 0],
+    [6, "急げ", "", 0],
+    [7, "World in Trouble", "", 0],
+    [8, "Heavy Atmosphere", "", 0],
+    [9, "THE THEME of RAGNA CRIMSON ~希望~", "", 0],
+    [10, "腐食", "", 0],
+    [11, "洗脳", "", 0],
+    [12, "躍動", "", 0],
+    [13, "翼の血族", "", 0],
+    [14, "オルト・ゾラ B", "", 0],
+    [15, "情報整理 B", "", 0],
+    [16, "THE THEME of RAGNA CRIMSON ~悲愴~", "", 0],
+    [17, "銀器姫 ~高貴なる凍力~", "", 0],
+    [18, "憤怒", "", 0],
+    [19, "Ultimate Fear", "", 0],
+    [20, "歪な喜び", "", 0],
+    [21, "繰り返される殺略", "", 0],
+    [22, "Death Threat", "", 0],
+    [23, "Nothing I Can do", "", 0],
+    [24, "THE THEME of RAGNA CRIMSON ~哀傷~", "", 0],
+    [25, "情報整理 A", "", 0],
+    [26, "Sketchy Mood", "", 0],
+    [27, "とある日常の風景", "", 0],
+    [28, "Skip in The Sky", "", 0],
+    [29, "Airhead", "", 0],
+    [30, "Ultimatia", "", 0],
+    [31, "Listen to Your Heart", "", 0],
+]
+links = ["https://vgmdb.net/album/132921"]
+
+[c0fc92537695ce82d9b833b977aa9176]
+catalognumber = "KIZX-90639"
+date = "2024-06-05"
+album = "ラグナクリムゾン オリジナルサウンドトラック Vol.2"
+tracks = [
+    [1, "Things Look Black", "", 0],
+    [2, "THE THEME of RAGNA CRIMSON ~感動~", "", 0],
+    [3, "Good Fight in Struggle", "", 0],
+    [4, "THE THEME of RAGNA CRIMSON ~覚醒~", "", 0],
+    [5, "銀装兵団", "", 0],
+    [6, "Struggle to Survive", "", 0],
+    [7, "Not at All", "", 0],
+    [8, "オルト・ゾラ A", "", 0],
+    [9, "Last Operation", "", 0],
+    [10, "Deep Hatred", "", 0],
+    [11, "瘴気", "", 0],
+    [12, "Silverware Princess", "", 0],
+    [13, "Rising and Falling", "", 0],
+    [14, "Anxiety", "", 0],
+    [15, "Nervous Breakdown", "", 0],
+    [16, "Fight The Power", "", 0],
+    [17, "頼もしい強者たち", "", 0],
+    [18, "思念合一", "", 0],
+    [19, "太陽神教", "", 0],
+    [20, "Death Alert", "", 0],
+    [21, "Conflict", "", 0],
+    [22, "臥薪嘗胆", "", 0],
+    [23, "雷神カムイ", "", 0],
+    [24, "理想への道", "", 0],
+    [25, "Distorted Impulse", "", 0],
+    [26, "踊るように", "", 0],
+    [27, "Requiem for Ultimatia", "", 0],
+    [28, "Recollection", "", 0],
+    [29, "Suspicion", "", 0],
+    [30, "Nothing Can Stop", "", 0],
+    [31, "Sombre", "", 0],
+    [32, "Prelude ~KIBO~", "", 0],
+    [33, "A Little Prayer", "", 0],
+]
+links = ["https://vgmdb.net/album/132922"]
