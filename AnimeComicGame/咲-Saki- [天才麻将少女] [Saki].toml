@@ -1037,6 +1037,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/af9b0033-666b-42e6-be05-cb4280729814", "https://vgmdb.net/album/65499"]
 
+[07ca9a3fc2c163974e2cf1e0d3dbcbb6]
+catalognumber = "AZCS-2058"
+date = "2017-02-01"
+album = "きみにワルツ"
+tracks = [
+    [1, "きみにワルツ", "清澄高校麻雀部", 0],
+    [2, "NO MORE CRY", "清澄高校麻雀部", 0],
+    [3, "きみにワルツ (instrumental)", "清澄高校麻雀部", 0],
+    [4, "NO MORE CRY (instrumental)", "清澄高校麻雀部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/76647b87-19c9-48bb-afc6-e024b388339a"]
+
 [86323d443777e464151a03094cb6c494]
 catalognumber = "LACA-9686~7"
 date = "2019-07-31"

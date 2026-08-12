@@ -257,6 +257,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bf9f7868-f0ae-4d41-a75a-f8d3dd4fe393", "https://vgmdb.net/album/17669"]
 
+[9bc2dbf889862888fa3b8b02fbe1a598]
+catalognumber = "FVCG-1115"
+date = "2010-04-28"
+album = "ワタシ☆LOVEな☆オトメ! FVCG-1115-1"
+tracks = [
+    [1, "ワタシ☆LOVEな☆オトメ!", "アフィリア・サーガ・イースト", 0],
+    [2, "聖ナル wktk ノ星", "アフィリア・サーガ・イースト", 0],
+    [3, "ワタシ☆LOVEな☆オトメ! (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [4, "聖ナル wktk ノ星 (off Vocal)", "アフィリア・サーガ・イースト", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7597bd36-deac-46cd-a987-c6762908ba8b"]
+
+[96d59df8edd99f64bf077a6661c58dee]
+catalognumber = "FVCG-1115"
+date = "2010-04-28"
+album = "ワタシ☆LOVEな☆オトメ! FVCG-1115-2"
+tracks = [
+    [1, "ワタシ☆LOVEな☆オトメ！（MusicClip）", "アフィリア・サーガ・イースト", 0],
+    [2, "Xbox360用ゲームソフト『W.L.O.世界恋愛機構』オープニングムービー", "アフィリア・サーガ・イースト", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7597bd36-deac-46cd-a987-c6762908ba8b"]
+
 [9d223de04a3ffcb86bfa54279a68e5c4]
 catalognumber = "FVCG-1113"
 date = "2010-06-02"
@@ -966,6 +988,75 @@ tracks = [
     [18, "Gate of steiner 2nd Edition ver1.02 (Sharbo Z1版)", "阿保剛", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/cf73467d-5372-4a73-a015-134517d43e9f", "https://vgmdb.net/album/29935"]
+
+[eeeb06b52b95ce964e1bd876a6b1f984]
+catalognumber = ""
+date = "2011-11-02"
+album = "STEINS;GATE 8bit Disc 1"
+tracks = [
+    [1, "スカイクラッドの観測者(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [2, "Gate of steiner(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [3, "Laboratory(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [4, "Noisy times(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [5, "Explanation(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [6, "Solitude(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [7, "Beginning of fight(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [8, "The Limit(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [9, "Crossroads(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [10, "Walking on sleeping(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [11, "Village(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [12, "Precaution(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [13, "Over the sky(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [14, "Reunion(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [15, "Easygoingness(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [16, "OPERATION SKULD(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [17, "Gate of steiner Ringing(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [18, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2SR版)", "阿保剛", 0],
+    [19, "スカイクラッドの観測者(MEC PC-6010mk2版)", "阿保剛", 0],
+    [20, "Gate of steiner(MEC PC-6010mk2版)", "阿保剛", 0],
+    [21, "Laboratory(MEC PC-6010mk2版)", "阿保剛", 0],
+    [22, "Noisy times(MEC PC-6010mk2版)", "阿保剛", 0],
+    [23, "Explanation(MEC PC-6010mk2版)", "阿保剛", 0],
+    [24, "Solitude(MEC PC-6010mk2版)", "阿保剛", 0],
+    [25, "Beginning of fight(MEC PC-6010mk2版)", "阿保剛", 0],
+    [26, "The Limit(MEC PC-6010mk2版)", "阿保剛", 0],
+    [27, "Crossroads(MEC PC-6010mk2版)", "阿保剛", 0],
+    [28, "Walking on sleeping(MEC PC-6010mk2版)", "阿保剛", 0],
+    [29, "Village(MEC PC-6010mk2版)", "阿保剛", 0],
+    [30, "Precaution(MEC PC-6010mk2版)", "阿保剛", 0],
+    [31, "Over the sky(MEC PC-6010mk2版)", "阿保剛", 0],
+    [32, "Reunion(MEC PC-6010mk2版)", "阿保剛", 0],
+    [33, "Easygoingness(MEC PC-6010mk2版)", "阿保剛", 0],
+]
+links = ["https://beta.musicbrainz.org/release/21ed944c-e330-4c72-b5d6-bccf7557a022"]
+
+[7ecbe517d5e93bb8a4e54ff0c1a7ea21]
+catalognumber = ""
+date = "2011-11-02"
+album = "STEINS;GATE 8bit Disc 2"
+tracks = [
+    [1, "OPERATION SKULD(MEC PC-6010mk2版)", "阿保剛", 0],
+    [2, "Gate of steiner Ringing(MEC PC-6010mk2版)", "阿保剛", 0],
+    [3, "スカイクラッドの観測者(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [4, "Gate of steiner(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [5, "Laboratory(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [6, "Noisy times(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [7, "Explanation(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [8, "Solitude(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [9, "Beginning of fight(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [10, "The Limit(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [11, "Crossroads(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [12, "Walking on sleeping(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [13, "Village(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [14, "Precaution(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [15, "Over the sky(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [16, "Reunion(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [17, "Easygoingness(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [18, "OPERATION SKULD(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [19, "Gate of steiner Ringing(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [20, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2MH版)", "阿保剛", 0],
+]
+links = ["https://beta.musicbrainz.org/release/21ed944c-e330-4c72-b5d6-bccf7557a022"]
 
 [22403464f2e2f5903d0a6044592c58ce]
 catalognumber = "MFXT-0006EX"
