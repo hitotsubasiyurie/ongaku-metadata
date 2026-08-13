@@ -19,6 +19,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/86230be3-1730-4a4c-93aa-af71ace53a35", "https://vgmdb.net/album/143023"]
 
+[85daed2839a83674a0d10a5697fbdd4f]
+catalognumber = "PCSP-06030"
+date = "2024-09-27"
+album = "ツギハギの翼"
+tracks = [
+    [1, "ツギハギの翼", "そらる", 0],
+]
+links = ["https://beta.musicbrainz.org/release/bd1a6ecd-b585-4efe-ad81-2730f691a657"]
+
 [9c3bb0aede88201f2a80f120925eedec]
 catalognumber = "PCCG-02421"
 date = "2024-12-18"

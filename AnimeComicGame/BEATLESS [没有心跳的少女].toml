@@ -292,6 +292,20 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/bee3a11b-6b8b-4907-ad79-1889a305d58b", "https://vgmdb.net/album/75117"]
 
+[603fe774e6b2ee8be5509ec19a05d741]
+catalognumber = ""
+date = "2018-05-23"
+album = "Shapeless"
+tracks = [
+    [1, "Shapeless", "東京パフォーマンスドール", 0],
+    [2, "SHINY LADY", "東京パフォーマンスドール", 0],
+    [3, "Kiss x Bang Bang!", "東京パフォーマンスドール", 0],
+    [4, "One Day One Life", "東京パフォーマンスドール", 0],
+    [5, "BURN ME OUT", "東京パフォーマンスドール", 0],
+    [6, "あなたに逢いましょう", "赤の流星", 0],
+]
+links = ["https://beta.musicbrainz.org/release/2d4afeeb-c7fe-4ca3-b115-14c5d4bd1611"]
+
 [4dedbcd470ab51d4192c7e0b5f300eb1]
 catalognumber = "ZMCZ-12168"
 date = "2018-05-25"

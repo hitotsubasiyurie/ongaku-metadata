@@ -101,11 +101,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/f55ae2e6-a3de-40a0-9753-069557726479", "https://vgmdb.net/album/112425"]
 
-[452865eae4fb73ebea2bf0051cb5b97a]
+[2bd5fe812b74cb25bf27c69d698cf63a]
 catalognumber = "GNXA-232202"
 date = "2021-10-13"
 album = "死神坊ちゃんと黒メイド VOLUME TWO 特典ディスク"
-tracks = []
+tracks = [
+    [1, "屋敷に迷い込んだ猫", "真野あゆみ (アリス)", 0],
+    [2, "雨の降る庭で雨宿りをする猫", "真野あゆみ (アリス)", 0],
+    [3, "野良犬に追いかけられている猫", "真野あゆみ (アリス)", 0],
+]
 links = ["https://vgmdb.net/album/112422"]
 
 [c98301c080c0135ca92e30bde43ba897]
@@ -118,11 +122,15 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112733"]
 
-[27cf9e3129edf4c23f874ebaca1d155c]
+[7ac9161140bb40f856bb4aa2dc359e0b]
 catalognumber = "GNXA-232402"
 date = "2021-11-12"
 album = "死神坊ちゃんと黒メイド VOLUME FOUR 特典ディスク"
-tracks = []
+tracks = [
+    [1, "もしも二人でバカンスに行ったら", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+    [2, "もしもアリスが小さくなったら", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+    [3, "もしも坊ちゃんが女の子だったら", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+]
 links = ["https://vgmdb.net/album/112423"]
 
 [f712abf138b6b940f630c863916e0b7d]
@@ -135,11 +143,15 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/112734"]
 
-[4e7a61732203fed1c53fa9859891d04e]
+[3097e7c30d6c068467d3c417be281fe8]
 catalognumber = "GNXA-232602"
 date = "2021-12-10"
 album = "死神坊ちゃんと黒メイド VOLUME SIX 特典ディスク"
-tracks = []
+tracks = [
+    [1, "坊ちゃんとアリスと編み物教室", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+    [2, "坊ちゃんとアリスと雪遊び", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+    [3, "坊ちゃんとアリスと 水面の月", "坊ちゃん(CV.花江夏樹)／アリス(CV.真野あゆみ)", 0],
+]
 links = ["https://vgmdb.net/album/112424"]
 
 [cadf51c9454ea4c86ea4f6cc26ab815e]

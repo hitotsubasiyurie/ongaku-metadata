@@ -132,11 +132,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/692e4843-673f-4fab-b0b4-6aa04ce7370d", "https://vgmdb.net/album/126184"]
 
-[64f3429094eaa50f70edefbb8e27d0bc]
+[b1e459c2e3dda9725cbe349da7ea56d8]
 catalognumber = "KAXA-8521CD"
 date = "2023-04-26"
 album = "シュガーアップル・フェアリーテイル 録りおろしドラマCD「天国の銀砂糖師」"
-tracks = []
+tracks = [
+    [1, "天国の銀砂糖師 Part 1", "冨田頼子", 0],
+    [2, "天国の銀砂糖師 Part 2", "冨田頼子", 0],
+    [3, "天国の銀砂糖師 Part 3", "冨田頼子", 0],
+]
 links = ["https://vgmdb.net/album/125736"]
 
 [95ad476abc5dbf78154b5f2f832a1e5a]

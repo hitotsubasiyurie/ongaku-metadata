@@ -228,11 +228,40 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/69365"]
 
-[367504cf65bde58555ce737a40dd29d4]
+[f724dc563dbd32778b21613a3e0a52ee]
 catalognumber = "TBR27233D-2~3"
 date = "2017-09-13"
-album = "チュパカブRADIO 5 & 6"
-tracks = []
+album = "チュパカブRADIO 5 & 6 Disc 1"
+tracks = [
+    [1, "チュパカブRADIO CD⑤ 01", "", 0],
+    [2, "チュパカブRADIO CD⑤ 02", "", 0],
+    [3, "チュパカブRADIO CD⑤ 03", "", 0],
+    [4, "チュパカブRADIO CD⑤ 04", "", 0],
+    [5, "チュパカブRADIO CD⑤ 05", "", 0],
+    [6, "チュパカブRADIO CD⑤ 06", "", 0],
+    [7, "チュパカブRADIO CD⑤ 07", "", 0],
+    [8, "チュパカブRADIO CD⑤ 08", "", 0],
+    [9, "チュパカブRADIO CD⑤ 09", "", 0],
+    [10, "チュパカブRADIO CD⑤ 10", "", 0],
+]
+links = ["https://vgmdb.net/album/68653"]
+
+[33024bd397e8cd389a92fa0d21fedf64]
+catalognumber = "TBR27233D-2~3"
+date = "2017-09-13"
+album = "チュパカブRADIO 5 & 6 Disc 2"
+tracks = [
+    [1, "チュパカブRADIO CD⑥ 01", "", 0],
+    [2, "チュパカブRADIO CD⑥ 02", "", 0],
+    [3, "チュパカブRADIO CD⑥ 03", "", 0],
+    [4, "チュパカブRADIO CD⑥ 04", "", 0],
+    [5, "チュパカブRADIO CD⑥ 05", "", 0],
+    [6, "チュパカブRADIO CD⑥ 06", "", 0],
+    [7, "チュパカブRADIO CD⑥ 07", "", 0],
+    [8, "チュパカブRADIO CD⑥ 08", "", 0],
+    [9, "チュパカブRADIO CD⑥ 09", "", 0],
+    [10, "チュパカブRADIO CD⑥ 10", "", 0],
+]
 links = ["https://vgmdb.net/album/68653"]
 
 [613de474dfb23bf10d41fbf10081c32e]
@@ -346,32 +375,138 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/9b5c6b4c-bd7f-4b36-96d8-faaf581c5f32", "https://vgmdb.net/album/70191"]
 
-[16bb811b2ed4b3a369ab0965a4dde562]
+[c4b1215ba026767f7ba02fe8cb8aff9a]
 catalognumber = "TBR27234D-2~3"
 date = "2017-10-18"
-album = "チュパカブRADIO 7 & 8"
-tracks = []
+album = "チュパカブRADIO 7 & 8 Disc 1"
+tracks = [
+    [1, "チュパカブRADIO CD ⑦ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑦ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑦ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑦ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑦ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑦ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑦ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑦ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑦ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑦ 10", "", 0],
+]
 links = ["https://vgmdb.net/album/70961"]
 
-[1836cc9e9b9189fbc65e037a368ea446]
+[647f8057302b89e4b7fc36d9674a224f]
+catalognumber = "TBR27234D-2~3"
+date = "2017-10-18"
+album = "チュパカブRADIO 7 & 8 Disc 2"
+tracks = [
+    [1, "チュパカブRADIO CD ⑧ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑧ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑧ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑧ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑧ 05", "", 0],
+]
+links = ["https://vgmdb.net/album/70961"]
+
+[ec2ecc237b9a772485323778879c7586]
 catalognumber = "TBR27235D-2~3"
 date = "2017-11-15"
-album = "チュパカブRADIO 9 & 10"
-tracks = []
+album = "チュパカブRADIO 9 & 10 Disc 1"
+tracks = [
+    [1, "チュパカブRADIO CD ⑨ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑨ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑨ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑨ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑨ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑨ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑨ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑨ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑨ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑨ 10", "", 0],
+]
 links = ["https://vgmdb.net/album/72271"]
 
-[cd627830693b5023dbe4e0f7b915e934]
+[e07b124c0de6e24974a4363721be2f39]
+catalognumber = "TBR27235D-2~3"
+date = "2017-11-15"
+album = "チュパカブRADIO 9 & 10 Disc 2"
+tracks = [
+    [1, "チュパカブRADIO CD ⑩ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑩ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑩ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑩ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑩ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑩ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑩ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑩ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑩ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑩ 10", "", 0],
+]
+links = ["https://vgmdb.net/album/72271"]
+
+[97be963ebe6a0d803947306fa0299356]
 catalognumber = "TBR27236D-2~3"
 date = "2017-12-13"
-album = "チュパカブRADIO 11 & 12"
-tracks = []
+album = "チュパカブRADIO 11 & 12 Disc 1"
+tracks = [
+    [1, "チュパカブRADIO CD ⑪ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑪ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑪ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑪ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑪ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑪ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑪ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑪ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑪ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑪ 10", "", 0],
+]
 links = ["https://vgmdb.net/album/72836"]
 
-[03f089ba0e985adf19469206de9c3d16]
+[78d3a71e448513784cb14e828adfc315]
+catalognumber = "TBR27236D-2~3"
+date = "2017-12-13"
+album = "チュパカブRADIO 11 & 12 Disc 2"
+tracks = [
+    [1, "チュパカブRADIO CD ⑫ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑫ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑫ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑫ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑫ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑫ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑫ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑫ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑫ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑫ 10", "", 0],
+]
+links = ["https://vgmdb.net/album/72836"]
+
+[f47013c02342aa223f9aef0a446f9acc]
 catalognumber = "TBR27237D-2~3"
 date = "2018-01-17"
-album = "チュパカブRADIO 13 & 14"
-tracks = []
+album = "チュパカブRADIO 13 & 14 Disc 1"
+tracks = [
+    [1, "チュパカブRADIO CD ⑬ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑬ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑬ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑬ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑬ 05", "", 0],
+    [6, "チュパカブRADIO CD ⑬ 06", "", 0],
+    [7, "チュパカブRADIO CD ⑬ 07", "", 0],
+    [8, "チュパカブRADIO CD ⑬ 08", "", 0],
+    [9, "チュパカブRADIO CD ⑬ 09", "", 0],
+    [10, "チュパカブRADIO CD ⑬ 10", "", 0],
+]
+links = ["https://vgmdb.net/album/73726"]
+
+[cedd544d92f1aaae792fb0f60767975f]
+catalognumber = "TBR27237D-2~3"
+date = "2018-01-17"
+album = "チュパカブRADIO 13 & 14 Disc 2"
+tracks = [
+    [1, "チュパカブRADIO CD ⑭ 01", "", 0],
+    [2, "チュパカブRADIO CD ⑭ 02", "", 0],
+    [3, "チュパカブRADIO CD ⑭ 03", "", 0],
+    [4, "チュパカブRADIO CD ⑭ 04", "", 0],
+    [5, "チュパカブRADIO CD ⑭ 05", "", 0],
+]
 links = ["https://vgmdb.net/album/73726"]
 
 [402cd57ccc27ab635443b765ca62ef5e]

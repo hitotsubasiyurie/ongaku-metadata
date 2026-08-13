@@ -311,6 +311,47 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/e8d38535-2d0a-4b57-b854-4a6deb04994d", "https://vgmdb.net/album/55658"]
 
+[3389b2d8b7f729c87dbd035d72908c8a]
+catalognumber = "TKCA-74353"
+date = "2016-04-20"
+album = "週替わりの奇跡の神話"
+tracks = [
+    [1, "週替わりの奇跡の神話", "筋肉少女帯", 0],
+    [2, "混ぜるな危険 ('15 Live Version)", "筋肉少女帯", 0],
+    [3, "日本印度化計画 ('15 Live Version)", "筋肉少女帯", 0],
+    [4, "週替わりの奇跡の神話 ～TV Mix Version～", "筋肉少女帯", 0],
+    [5, "週替わりの奇跡の神話 ～TV Mix Version～ (Original Karaoke)", "筋肉少女帯", 0],
+    [6, "週替わりの奇跡の神話 (Instrumental)", "筋肉少女帯", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e1fa9900-73c9-4b01-a9a6-a6bf50c1b169"]
+
+[657daee45e825255854088169c0515e8]
+catalognumber = "TKCA-74356"
+date = "2016-05-11"
+album = "決戦前夜"
+tracks = [
+    [1, "決戦前夜", "LUNKHEAD", 0],
+    [2, "ユキシズク", "LUNKHEAD", 0],
+    [3, "決戦前夜 [TV OA ver.]", "LUNKHEAD", 0],
+    [4, "決戦前夜 [Instrumental]", "LUNKHEAD", 0],
+    [5, "ユキシズク [Instrumental]", "LUNKHEAD", 0],
+]
+links = ["https://beta.musicbrainz.org/release/08ff71e6-9a35-49c3-8bec-d0d0b766184f"]
+
+[b4e22911cda76e07794e6fe8b63582d3]
+catalognumber = ""
+date = "2016-05-18"
+album = "うしおととらうしおととらキャラクターソングス"
+tracks = [
+    [1, "いつの日か旅の終わりに", "畠中祐", 0],
+    [2, "渇いた魂", "浪川大輔/細谷佳正", 0],
+    [3, "おかえり", "小松未可子", 0],
+    [4, "私のナイト", "安野希世乃/小山力也", 0],
+    [5, "終わりない道", "清水理沙", 0],
+    [6, "生きる証", "潘めぐみ", 0],
+]
+links = ["https://music.163.com/#/album?id=34700515"]
+
 [245f360ee09f3a75a7b6e5a0576717fc]
 catalognumber = "TKXA-1070"
 date = "2017-12-20"
