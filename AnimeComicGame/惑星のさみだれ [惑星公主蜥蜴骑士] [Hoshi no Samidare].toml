@@ -1,3 +1,41 @@
+[988e2f22e5e1593b8fe5f5f98b7d559e]
+catalognumber = "KICS 976"
+date = "2002-10-23"
+album = "Thank you, my twilight"
+tracks = [
+    [1, "RAIN BRAIN", "the pillows", 0],
+    [2, "Biscuit Hammer", "the pillows", 0],
+    [3, "BABYLON VERSES OF ANGEL", "the pillows", 0],
+    [4, "My Beautiful Sun (Irene)", "the pillows", 0],
+    [5, "Come on, ghost", "the pillows", 0],
+    [6, "ROBOTMAN", "the pillows", 0],
+    [7, "Ritalin 202", "the pillows", 0],
+    [8, "white summer and green bicycle, red hair with black guitar. (original egoistic version)", "the pillows", 0],
+    [9, "Winona", "the pillows", 0],
+    [10, "Thank you, my twilight", "the pillows", 0],
+    [11, "Rookie Jet", "the pillows", 0],
+]
+links = ["https://beta.musicbrainz.org/release/54e96748-4e08-40d4-b873-16beed277003"]
+
+[80f0da6c29a52eb1112a14843835a21f]
+catalognumber = "53202"
+date = "2005-05-03"
+album = "PENALTY LIFE"
+tracks = [
+    [1, "Dead Stock Paradise", "the pillows", 0],
+    [2, "Lonesome Diamond", "the pillows", 0],
+    [3, "Freebee Honey", "the pillows", 0],
+    [4, "TERMINAL HEAVEN'S ROCK", "the pillows", 0],
+    [5, "The sun that will not rise", "the pillows", 0],
+    [6, "PHANTOM PAIN", "the pillows", 0],
+    [7, "I know you", "the pillows", 0],
+    [8, "Moon Marguerite", "the pillows", 0],
+    [9, "Super Trampoline School Kid", "the pillows", 0],
+    [10, "Mole Town Prisoner", "the pillows", 0],
+    [11, "The scar whispers, nobody is in paradise / I'm a Broken Piece", "the pillows", 0],
+]
+links = ["https://beta.musicbrainz.org/release/82772623-2561-4153-b34c-e93869b1560c"]
+
 [7c389375001eb99cc9e639f851501720]
 catalognumber = "UP1AS-01645"
 date = "2022-07-09"
@@ -24,6 +62,26 @@ tracks = [
     [1, "BE the HERO", "Raon", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f016e8f0-0158-490b-a54e-56aa0a909c58", "https://vgmdb.net/album/123674"]
+
+[5b0b42d7ae02458130d92be55ee4b44d]
+catalognumber = ""
+date = "2022-10-12"
+album = "身体と心と音楽について"
+tracks = [
+    [1, "暁光", "Half time Old", 0],
+    [2, "STORY TELLER", "Half time Old", 0],
+    [3, "Night Walker", "Half time Old", 0],
+    [4, "ムダトハ", "Half time Old", 0],
+    [5, "もらいもの", "Half time Old", 0],
+    [6, "dB", "Half time Old", 0],
+    [7, "Come Morning", "Half time Old", 0],
+    [8, "知りたい", "Half time Old", 0],
+    [9, "さすらいラプソディ", "Half time Old", 0],
+    [10, "浮世のハートビート", "Half time Old", 0],
+    [11, "必要なのはなんだっけ", "Half time Old", 0],
+    [12, "雫 - Band Arrange Ver.", "Half time Old", 0],
+]
+links = ["https://beta.musicbrainz.org/release/509f791a-da68-4e47-a79c-00ce6f0dd405"]
 
 [c265939a7cdc857569c1fea17cfc4949]
 catalognumber = "DSKU-11984"

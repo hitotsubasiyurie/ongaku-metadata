@@ -32,6 +32,28 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a4bd8a26-1493-4569-a5d5-7ddbe1ed3206", "https://vgmdb.net/album/35195"]
 
+[24ef05ca374f8ab8d556cb4524af2cfd]
+catalognumber = ""
+date = "2013-02-20"
+album = "神様はじめました 第三巻 特典 スペシャルCD"
+tracks = [
+    [1, "レッツバリバリ神使の慈爱", "巴卫(立花慎之介)", 0],
+    [2, "谨制语りドラマ“巴卫、看病する”", "巴卫(立花慎之介)", 0],
+    [3, "立花慎之介キャストトーク", "巴卫(立花慎之介)", 0],
+    [4, "孤高の野狐・巴卫(Rubato Ver.)", "増田俊郎", 0],
+    [5, "鬼火の童(お囃子バージョン)", "増田俊郎", 0],
+    [6, "鬼火の童・鬼切、虎彻にございます!", "増田俊郎", 0],
+    [7, "桃园奈々生・花も耻じらう高校生", "増田俊郎", 0],
+    [8, "神事と勉学…二足のワラジ", "増田俊郎", 0],
+    [9, "最后の一花…ヨノモリ社", "増田俊郎", 0],
+    [10, "解き放たれし想い", "増田俊郎", 0],
+    [11, "天狗 vs 野狐", "増田俊郎", 0],
+    [12, "雷神・成神姫登场!", "増田俊郎", 0],
+    [13, "秘策!打ち出の小槌", "増田俊郎", 0],
+    [14, "多々良沼の主・沼皇女…ガチッ!", "増田俊郎", 0],
+]
+links = ["https://music.163.com/#/album?id=2422482"]
+
 [7135baba1df568d507c356773e9f7661]
 catalognumber = "TMS-312"
 date = "2013-03-25"
@@ -75,6 +97,30 @@ tracks = [
     [36, "『神様おねがい』堕天使☆Mix (Extended Edition - カラオケ)", "ハナエ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/83f7b789-a050-40c3-97ec-dc0a36960f26", "https://vgmdb.net/album/37385"]
+
+[38cbc096f6f75ad1942e9f3f6eb4384d]
+catalognumber = ""
+date = "2013-06-18"
+album = "神様はじめました Blu-ray Vol.7 特典CD"
+tracks = [
+    [1, "DA☆TENSHI", "岸尾だいすけ", 0],
+    [2, "「鞍馬、デートをする」", "岸尾だいすけ", 0],
+    [3, "岸尾だいすけキャストトーク", "岸尾だいすけ", 0],
+    [4, "BGM異世界編:異世界・闇_Part1", "岸尾だいすけ", 0],
+    [5, "BGM異世界編:異世界・闇_Part.2", "岸尾だいすけ", 0],
+    [6, "BGM異世界編:鬼婆", "岸尾だいすけ", 0],
+    [7, "BGM異世界編:物の怪衆の住処", "岸尾だいすけ", 0],
+    [8, "BGM異世界編:異世界・光_Part.1", "岸尾だいすけ", 0],
+    [9, "BGM異世界編:神使の契約", "岸尾だいすけ", 0],
+    [10, "BGM異世界編:異世界・光_Part.2", "岸尾だいすけ", 0],
+    [11, "BGM異世界編:宴", "岸尾だいすけ", 0],
+    [12, "BGM異世界編:眩光(Alternate Ver.)", "岸尾だいすけ", 0],
+    [13, "BGM異世界編:神楽_Part.1", "岸尾だいすけ", 0],
+    [14, "BGM異世界編:神楽_Part.2", "岸尾だいすけ", 0],
+    [15, "BGM異世界編:堕天使DA☆TEN☆DIE", "岸尾だいすけ", 0],
+    [16, "BGM異世界編:天使LA☆TEN☆SEE", "岸尾だいすけ", 0],
+]
+links = ["https://music.163.com/#/album?id=2786694"]
 
 [93c6a295a93bfd05d6ecee8961467fd0]
 catalognumber = "UICV-5037"
@@ -142,6 +188,17 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/49435"]
 
+[71128ccd71707ae62f46980bf6f9b393]
+catalognumber = ""
+date = "2015-01-21"
+album = "堕天使DA☆TEN☆DIE/レッツバリバリ神使の慈愛-発茶怪remix-"
+tracks = [
+    [1, "堕天使DA☆TEN☆DIE", "岸尾だいすけ", 0],
+    [2, "レッツバリバリ神使の慈愛-発茶怪remix-", "立花慎之介", 0],
+    [3, "堕天使DA☆TEN☆DIE-instrumental-", "岸尾だいすけ", 0],
+]
+links = ["https://music.163.com/#/album?id=3106285"]
+
 [4a65c3af9dd8aad17e0cb0f7664649a4]
 catalognumber = "PCCG-01460"
 date = "2015-02-18"
@@ -184,6 +241,17 @@ tracks = [
     [3, "キャストトーク", "", 0],
 ]
 links = ["https://vgmdb.net/album/53249"]
+
+[0107e43d3194095656c3319bed71fbb0]
+catalognumber = ""
+date = "2015-03-04"
+album = "TVアニメ「神様はじめました◎」上巻 スペシャルCD Vol.1"
+tracks = [
+    [1, "Happiness", "三森すずこ", 0],
+    [2, "巴衛とお花見", "立花慎之介", 0],
+    [3, "キャストトーク", "三森すずこ", 0],
+]
+links = ["https://music.163.com/#/album?id=3109135"]
 
 [89931fc26cb35ad184d4cc7d25037a1d]
 catalognumber = "PCCG-01463"
@@ -279,6 +347,24 @@ tracks = [
     [3, "キャストトーク", "", 0],
 ]
 links = ["https://vgmdb.net/album/53251"]
+
+[806f0a62e6fe8e707453550fbc94410f]
+catalognumber = "UICV-1065"
+date = "2016-03-23"
+album = "SHOW GIRL"
+tracks = [
+    [1, "パーティへようこそ", "ハナエ", 0],
+    [2, "シュガリルラ", "ハナエ feat. 相沢梨紗", 0],
+    [3, "CANDY", "ハナエ", 0],
+    [4, "xxx", "ハナエ", 0],
+    [5, "小さな恋のものがたり", "ハナエ", 0],
+    [6, "あおいそら", "ハナエ", 0],
+    [7, "LovE MoTion", "ハナエ", 0],
+    [8, "ラストティーン", "ハナエ", 0],
+    [9, "桜ミコトバ", "ハナエ", 0],
+    [10, "SHOW GIRL", "ハナエ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9c6fe99e-0378-4056-8b67-f96323e005ed"]
 
 [ff536b15ad539fe51642e1ce6b36468e]
 catalognumber = "NJSJ-032"

@@ -250,12 +250,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d81442b3-81b8-4277-bf7e-7404c8774def", "https://vgmdb.net/album/44628"]
 
-[b9ad0fe6c2c437d2e6cac13437217038]
+[f97dcd164f887853d00e556dbc806be7]
 catalognumber = "1000450672-CD"
 date = "2014-04-23"
 album = "ストライク・ザ・ブラッド オーディオドラマ Vol.1"
 tracks = [
-    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.1", "", 0],
+    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 1", "", 0],
+    [2, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 2", "", 0],
 ]
 links = ["https://vgmdb.net/album/44959"]
 

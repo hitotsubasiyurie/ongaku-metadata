@@ -156,6 +156,26 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/68dcec91-6bc3-40f2-a2b2-1cab07b408ed", "https://vgmdb.net/album/50984"]
 
+[b7a17960cc0f8d403617090cb270faae]
+catalognumber = "EYXA-10358B"
+date = "2015-03-27"
+album = "暗殺教室 SPECIAL CD vol.1"
+tracks = [
+    [1, "ヒーロー HOLDING OUT FOR A HERO", "3年E組カバ担(岡野&メグ&矢田)", 0],
+    [2, "青春サツバツ論 –渚&茅野ver.-", "渚&茅野", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6eb9935b-cee8-499a-9888-13004535a224"]
+
+[a0a48a07aad46bfdfdafc0d42937187a]
+catalognumber = "EYXA-10359B"
+date = "2015-04-24"
+album = "暗殺教室 SPECIAL CD vol.2"
+tracks = [
+    [1, "POISON 〜言いたい事も言えないそんな世の中は〜", "3年E組カバ担(寺坂&村松&吉田)", 0],
+    [2, "青春サツバツ論 -渚&業 ver.-", "渚&業", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b51fe040-8c02-475e-92c6-338f6f818710"]
+
 [ec07eac5ef389e1cfcd2eb1575068641]
 catalognumber = "EYCA-10456"
 date = "2015-05-27"
@@ -190,6 +210,16 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/51498"]
 
+[9b03457c47b35c437fc1eedc40535fc0]
+catalognumber = "EYXA-10360B"
+date = "2015-05-29"
+album = "暗殺教室 SPECIAL CD vol.3"
+tracks = [
+    [1, "僕の先生はフィーバー", "3年E組カバ担(茅野&岡野&倉橋)", 0],
+    [2, "青春サツバツ論 -3年E組修学旅行4班(渚&茅野&業&杉野&神崎&奥田)ver.-", "3年E組修学旅行4班(渚&茅野&業&杉野&神崎&奥田)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/33866382-ede4-4565-8357-673391cc021d"]
+
 [1048596a661677babebf0f75319a7c3c]
 catalognumber = "EYCS-00022"
 date = "2015-06-26"
@@ -203,6 +233,56 @@ date = "2015-06-26"
 album = "暗殺教室1-4巻連動購入特典:キャスト座談会CD アニミュゥモ"
 tracks = []
 links = ["https://vgmdb.net/album/90963"]
+
+[28620b8a5771a7b41a7bc988f81e23e9]
+catalognumber = "EYXA-10361B"
+date = "2015-06-26"
+album = "暗殺教室 SPECIAL CD vol.4"
+tracks = [
+    [1, "学園天国", "3年E組カバ担(渚&業&寺坂&中村)", 0],
+    [2, "青春サツバツ論 -磯貝&前原ver.-", "磯貝&前原", 0],
+]
+links = ["https://beta.musicbrainz.org/release/dbdc46a1-6c69-4519-a517-708103b1f7cb"]
+
+[043c26273ba3857956b45a2812eb0fb0]
+catalognumber = "EYXA-10362B"
+date = "2015-07-31"
+album = "暗殺教室 SPECIAL CD vol.5"
+tracks = [
+    [1, "千本桜", "3年E組カバ担(律)", 0],
+    [2, "自力本願レボリューション -渚&業ver.-", "渚&業", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a11dd838-146b-4854-b45e-fdd3365c7008"]
+
+[f607c7e2a037bac2177b068bbf417b93]
+catalognumber = "EYXA-10363B"
+date = "2015-08-28"
+album = "暗殺教室 SPECIAL CD vol.6"
+tracks = [
+    [1, "狙いうち", "3年E組カバ担(イリーナ)", 0],
+    [2, "自力本願レボリューション -磯貝&前原ver.-", "磯貝&前原", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b583540b-7a77-4197-911b-1a3920b1196f"]
+
+[e58438e7cdcbc3eddbb3393398553370]
+catalognumber = "EYXA-10364B"
+date = "2015-09-25"
+album = "暗殺教室 SPECIAL CD vol.7"
+tracks = [
+    [1, "BOY MEETS GIRL", "3年E組カバ担(岡野&矢田)", 0],
+    [2, "自力本願レボリューション -渚&茅野ver.-", "渚&茅野", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fac927ba-8ae2-486f-a9a9-07d761033fe0"]
+
+[f0f68e526219c4ff54f9e532a29c89f7]
+catalognumber = "EYXA-10365B"
+date = "2015-10-30"
+album = "暗殺教室 SPECIAL CD vol.8"
+tracks = [
+    [1, "Hello,shooting-star", "3年E組カバ担(潮田渚)", 0],
+    [2, "自力本願レボリューション -渚ver.-", "渚", 0],
+]
+links = ["https://beta.musicbrainz.org/release/edada7b3-8e1c-4382-aa65-db159069c6dc"]
 
 [20d34b9f166b9d4841a3b63cc92036fd]
 catalognumber = "EYCA-10810/B"

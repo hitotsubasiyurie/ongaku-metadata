@@ -333,13 +333,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/2437636d-158a-44db-88ad-1a881b3cb7e9", "https://vgmdb.net/album/32670"]
 
-[4a289e0e2db98c4c0757746cd7306377]
+[9f74f41fc24897dabb315b3b955ac599]
 catalognumber = "BCXA-0408"
 date = "2012-04-20"
 album = "Horizon on the Middle of Nowhere SPECIAL CD V"
 tracks = [
-    [1, "01 Musashi Uta", "矢鴇つかさ", 0],
-    [2, "02 Musashi Uta (Off Vocal)", "矢鴇つかさ", 0],
+    [1, "武蔵歌", "矢鴇つかさ", 0],
+    [2, "武蔵歌 (Off Vocal)", "矢鴇つかさ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/22aaddb7-cf6d-4037-9151-b4cd80329449", "https://vgmdb.net/album/35732"]
 

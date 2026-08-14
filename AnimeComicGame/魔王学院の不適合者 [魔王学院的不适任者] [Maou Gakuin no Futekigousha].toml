@@ -530,6 +530,18 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/a2799cd5-a695-44d8-aff4-8a682f6098f4", "https://vgmdb.net/album/134563"]
 
+[ebadb6f926c5e1419bfb55affb400bc8]
+catalognumber = "VVCL02469B00Z"
+date = "2024-05-08"
+album = "シンゲツ"
+tracks = [
+    [1, "シンゲツ", "楠木ともり", 0],
+    [2, "MAYBLUES", "楠木ともり", 0],
+    [3, "シンゲツ (Instrumental)", "楠木ともり", 0],
+    [4, "MAYBLUES (Instrumental)", "楠木ともり", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5c24231f-00cc-4b78-a069-87302d71a334"]
+
 [9ace1dfe43cddbec4386582f64d06994]
 catalognumber = "ESCL-5958~9"
 date = "2024-05-22"

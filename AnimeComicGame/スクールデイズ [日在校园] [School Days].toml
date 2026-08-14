@@ -625,6 +625,39 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/104940"]
 
+[84ada8d2e435bf08659d4af5382a1ba3]
+catalognumber = ""
+date = "2010-04-21"
+album = "Cross Days Original Sound Track"
+tracks = [
+    [1, "First Note", "KIRIKO", 0],
+    [2, "One Star", "yozuca*", 0],
+    [3, "be there", "Rita", 0],
+    [4, "timeless melody", "茶太", 0],
+    [5, "Eternal Flow", "Ceui", 0],
+    [6, "Hourglass", "Riryka", 0],
+    [7, "First Note ~Wake Up Ver.~", "HIKO", 0],
+    [8, "An Incident One Day", "HIKO", 0],
+    [9, "My Favorite Place", "HIKO", 0],
+    [10, "Distant Light", "HIKO", 0],
+    [11, "Blue Irritation", "HIKO", 0],
+    [12, "Beyond the Veil", "HIKO", 0],
+    [13, "The Lesson is Finished", "HIKO", 0],
+    [14, "Torn Heart", "HIKO", 0],
+    [15, "Long Shadows, Reaching Towards You", "HIKO", 0],
+    [16, "The Previous Page", "HIKO", 0],
+    [17, "Awkward Touch", "HIKO", 0],
+    [18, "Lying to Myself", "HIKO", 0],
+    [19, "Your Warmth Will Stop Time", "HIKO", 0],
+    [20, "Those Who Want to Change the Future", "HIKO", 0],
+    [21, "Indeed I Sense Anger", "HIKO", 0],
+    [22, "The Claw is Sweet", "HIKO", 0],
+    [23, "The Fact That I Want to Meet You", "HIKO", 0],
+    [24, "Let's Summon the Courage to Step Forward", "HIKO", 0],
+    [25, "First Note ~Mellow Reprise Ver.~", "HIKO", 0],
+]
+links = ["https://beta.musicbrainz.org/release/22b4c125-fae6-4568-9800-d2f4ae96331a"]
+
 [04a61dca8a79624ae3ae1fce0f9acec0]
 catalognumber = "KHS-0002"
 date = "2010-04-25"
@@ -645,6 +678,45 @@ tracks = [
     [13, "なくしたつばさ～旅立ち～", "", 0],
 ]
 links = ["https://vgmdb.net/album/104942"]
+
+[7a97b1106aae823798a9f8b419cbff1c]
+catalognumber = ""
+date = "2010-06-23"
+album = "Summer Days ORIGINAL SOUNDTRACK"
+tracks = [
+    [1, "SummerDays", "YURIA", 0],
+    [2, "Dandelion Cotton Hat", "yozuca*", 0],
+    [3, "A Story That Begins at the Sea", "栗林みな実", 0],
+    [4, "It Clears Up After Cloudy Weather", "HIKO", 0],
+    [5, "One summer day", "HIKO", 0],
+    [6, "One summer day～waiting for your call～", "HIKO", 0],
+    [7, "Sands of Twilight", "HIKO", 0],
+    [8, "Good Night", "HIKO", 0],
+    [9, "The accent on life", "HIKO", 0],
+    [10, "It's show time!", "HIKO", 0],
+    [11, "Festival Music", "HIKO", 0],
+    [12, "Grove of the Village Shrine", "KIRIKO", 0],
+    [13, "OBK Coming to Town", "HIKO", 0],
+    [14, "Until the Day We Meet", "HIKO", 0],
+    [15, "IAI Spirit", "HIKO", 0],
+    [16, "Road to Hope", "KIRIKO", 0],
+    [17, "Saboritai!", "HIKO", 0],
+    [18, "Self-Righteousness", "HIKO", 0],
+    [19, "Refuse", "KIRIKO", 0],
+    [20, "As close as possible", "HIKO", 0],
+    [21, "While Drifting...", "KIRIKO", 0],
+    [22, "In the Midst of Fumbling", "HIKO", 0],
+    [23, "Sweet Kiss", "KIRIKO", 0],
+    [24, "Surely Someday...", "HIKO", 0],
+    [25, "Time of Trial", "KIRIKO", 0],
+    [26, "And Before", "HIKO", 0],
+    [27, "SummerDays～piano arrange～", "HIKO", 0],
+    [28, "SummerDays～music box arrange～", "HIKO", 0],
+    [29, "Knife or saw? part Ⅱ", "HIKO", 0],
+    [30, "Knife or saw? part Ⅱ～Introduce～", "HIKO", 0],
+    [31, "Promise ~girlhood's end~", "いとうかなこ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8cce99e9-3e51-4e24-86d0-271e01fe9a86"]
 
 [0409d78790bed0cbc12d93cc6b89b1ea]
 catalognumber = "LACA-9188~9"

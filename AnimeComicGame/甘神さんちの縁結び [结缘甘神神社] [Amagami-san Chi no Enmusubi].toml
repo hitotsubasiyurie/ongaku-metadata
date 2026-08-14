@@ -1,3 +1,12 @@
+[a1abbb9bb1e6f4a0f583e2572ab100c5]
+catalognumber = "NOPA-6727"
+date = "2024-10-04"
+album = "やわく恋して 〜ずっと僕らでいられますように〜"
+tracks = [
+    [1, "やわく恋して 〜ずっと僕らでいられますように〜", "ももいろクローバーZ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/dff245f4-93f8-4a6d-aa8c-39474efd1e2d"]
+
 [40cce81d1c765ed88a8f5efec00c2522]
 catalognumber = "KICA-2628"
 date = "2024-11-20"
@@ -16,6 +25,15 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/06f758b0-c28a-44f0-a003-f2bd2f155558", "https://vgmdb.net/album/144580"]
 
+[6f7a1ab7b9afcd5b3fbfad9cdd94aab0]
+catalognumber = "NOPA-7321"
+date = "2025-01-22"
+album = "神様の言うとーり！ (TVサイズ)"
+tracks = [
+    [1, "神様の言うとーり！ (TVサイズ)", "≠ME", 0],
+]
+links = ["https://beta.musicbrainz.org/release/143b7331-5713-42bd-b854-79f9fb570aa2"]
+
 [151c3ab3d304fe0306809efa2d8d1c57]
 catalognumber = "KICA-2629"
 date = "2025-03-19"
@@ -33,6 +51,20 @@ tracks = [
     [10, "7月のまぼろし (off vocal version)", "甘神朝姫(CV.若山詩音)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8e98a3fc-9820-49d9-8c0b-52fd0bd18da0", "https://vgmdb.net/album/150513"]
+
+[c6be01fc124f4e2c30772b2ab6d4182d]
+catalognumber = "NMAX-1441"
+date = "2025-04-30"
+album = "モブノデレラ / 神様の言うとーり！"
+tracks = [
+    [1, "モブノデレラ", "≠ME", 0],
+    [2, "神様の言うとーり！", "≠ME", 0],
+    [3, "カフェ樂園", "≠ME", 0],
+    [4, "モブノデレラ (off vocal ver.)", "≠ME", 0],
+    [5, "神様の言うとーり！ (off vocal ver.)", "≠ME", 0],
+    [6, "カフェ樂園 (off vocal ver.)", "≠ME", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4904a085-927f-4767-8cde-71a09a3560b2"]
 
 [93eb04cdae0687637d34435c100b2c6d]
 catalognumber = "NOPA-7793"

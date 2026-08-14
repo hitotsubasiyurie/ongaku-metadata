@@ -300,7 +300,7 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/ee363079-ac6f-4706-898f-5bbb1dc24471", "https://vgmdb.net/album/123618"]
 
-[99c94bbfc609dccaf674984f550bd761]
+[be98f489e175a9639481f77b32127191]
 catalognumber = "TFCC-89751~2"
 date = "2023-04-05"
 album = "SOUVENIR / BUMP OF CHICKEN Vocal"
@@ -308,6 +308,7 @@ tracks = [
     [1, "SOUVENIR", "BUMP OF CHICKEN", 0],
     [2, "クロノスタシス", "BUMP OF CHICKEN", 0],
     [3, "窓の中から", "BUMP OF CHICKEN", 0],
+    [4, "大地", "BUMP OF CHICKEN", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2388f57f-f5a9-4ede-8891-08f38ff6e566", "https://vgmdb.net/album/124113"]
 
@@ -342,6 +343,33 @@ tracks = [
     [1, "トドメの一撃", "Vaundy feat. Cory Wong", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c0e4a7ab-ef85-4f8f-9ac7-979c68c8e8ab", "https://vgmdb.net/album/133127"]
+
+[c633acf88556ddb121bb8ab435c1fc6c]
+catalognumber = ""
+date = "2023-10-15"
+album = "Little steps"
+tracks = [
+    [1, "Little steps", "(K)NoW_NAME", 0],
+]
+links = ["https://beta.musicbrainz.org/release/342f18fe-03a7-41ce-9985-6ce518fb8209"]
+
+[5c3fd95f71b12c4d6c2e3de1ab61bb6a]
+catalognumber = ""
+date = "2023-11-26"
+album = "Garden"
+tracks = [
+    [1, "Garden", "(K)NoW_NAME & (K)NoW_NAME:NIKIIE", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9566f5ed-b438-476f-818c-bac70d0a80e4"]
+
+[771a6e1dfd6e5cef7f914ac54dbbde87]
+catalognumber = ""
+date = "2023-12-03"
+album = "Until the End"
+tracks = [
+    [1, "Until the End", "(K)NoW_NAME", 0],
+]
+links = ["https://beta.musicbrainz.org/release/baf611a7-3b93-48ed-a922-6b80eae4c429"]
 
 [3010e5ad72673a63c7595e550a35c153]
 catalognumber = "PCSP-05470"

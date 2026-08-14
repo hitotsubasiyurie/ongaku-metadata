@@ -67,6 +67,27 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4358f03f-160d-41f6-905c-2b5794f113fb", "https://vgmdb.net/album/80477"]
 
+[1fcf43faad6417cefe5c84b033aefec3]
+catalognumber = "TFCC-86648"
+date = "2018-11-28"
+album = "PURE"
+tracks = [
+    [1, "Secret", "向井太一", 0],
+    [2, "Crazy", "向井太一", 0],
+    [3, "Break up", "向井太一", 0],
+    [4, "Haters", "向井太一", 0],
+    [5, "Agony", "向井太一", 0],
+    [6, "Answer", "向井太一 feat. KREVA", 0],
+    [7, "リセット", "向井太一", 0],
+    [8, "午後8時", "向井太一", 0],
+    [9, "ポートマン", "向井太一", 0],
+    [10, "Pure", "向井太一", 0],
+    [11, "Ego", "向井太一", 0],
+    [12, "Gimme", "向井太一", 0],
+    [13, "Siren", "向井太一", 0],
+]
+links = ["https://beta.musicbrainz.org/release/ed4c28b9-6166-4a63-96a8-082825ae3f24"]
+
 [551be6e9669cedf0181679ee6acc800f]
 catalognumber = "THCA-60236"
 date = "2018-12-19"
@@ -134,11 +155,13 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/4b96c9f2-7afc-42b6-a14b-8bc24a77fd8a", "https://vgmdb.net/album/81491"]
 
-[fb4be73a62461f98456b76b7149a0cdf]
+[0b81c7834c9b37f35569da3f2a8e4d85]
 catalognumber = "TBR28401D-2"
 date = "2019-01-16"
 album = "風が強く吹いている スペシャルドラマCD「Spring has come. 」"
-tracks = []
+tracks = [
+    [1, "Spring has come.", "大塚剛央 / 豊永利行 / 内山昂輝 / 入野自由 / 榎木淳弥 / 上村祐翔 / 興津和幸 / 株元英彰 / 北沢 力 / 星野貴紀", 0],
+]
 links = ["https://vgmdb.net/album/81049"]
 
 [92c420685a9d6953ac3483170d54b366]

@@ -208,6 +208,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d663f96a-3a48-403f-a8ed-dd3daf42201e", "https://vgmdb.net/album/59795"]
 
+[3e3ba886f77b0a4571d4249cdc702cb2]
+catalognumber = "TGCS-7157"
+date = "2012-09-26"
+album = "君は友達"
+tracks = [
+    [1, "君は友達", "隣人部一同", 0],
+    [2, "君は友達 (インストゥルメンタル)", "隣人部一同", 0],
+    [3, "君は友達 (ショートサイズ)", "隣人部一同", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f3b20365-721a-45c3-80b9-15d959e6e900"]
+
 [683511cf1b6bf29f4bb4750a3a881147]
 catalognumber = "ZMCZ-8372"
 date = "2013-02-06"
@@ -281,6 +292,17 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/56dbed7a-2dac-4049-811a-5c29d54a1f0c", "https://vgmdb.net/album/150750"]
 
+[2c59698be840c74ee92f1ccb7ed0c41b]
+catalognumber = "ZMXZ-8392"
+date = "2013-04-24"
+album = "僕は友達が少ないNEXT ねくすとCD 2"
+tracks = [
+    [1, "送信履歴", "三日月夜空(CV:井上麻里奈)", 0],
+    [2, "Be My Friend -夜空Featuring隣人部 VER-", "三日月夜空(CV:井上麻里奈) Featuring 隣人部", 0],
+    [3, "僕らの翼 -夜空Featuring隣人部 VER-", "三日月夜空(CV:井上麻里奈) Featuring 隣人部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4cc417e9-08c6-4d0c-9ae3-3b0afbf01e99"]
+
 [65d5c32162838e0b759c724002e02ebd]
 catalognumber = "QWCE-00277"
 date = "2013-05-01"
@@ -334,6 +356,50 @@ tracks = [
     [19, "君は友達", "羽瀬川小鷹(CV:木村良平、三日月夜空(CV:井上麻里奈)、柏崎星奈(CV:伊藤かな恵)、楠幸村(CV:山本希望)、志熊理科(CV:福圓美里)、羽瀬川小鳩(CV:花澤香菜)、高山マリア(CV:井口裕香)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/78b85185-e488-4c36-984e-5cecb95d88d7", "https://vgmdb.net/album/39427"]
+
+[74768f00ddb8a3d0cffae49a8f099ae3]
+catalognumber = "ZMXZ-8393"
+date = "2013-09-25"
+album = "僕は友達が少ないNEXT ねくすとCD 3"
+tracks = [
+    [1, "FANTASISTA", "楠幸村(CV:山本希望)", 0],
+    [2, "Be My Friend -幸村Featuring隣人部 VER-", "楠幸村(CV:山本希望) Featuring 隣人部", 0],
+    [3, "僕らの翼 -幸村Featuring隣人部 VER-", "楠幸村(CV:山本希望) Featuring 隣人部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d6a20385-c88f-485a-b9f1-4a7c8189162f"]
+
+[f2051d57d79d5b7682ee012df3c156b4]
+catalognumber = "ZMXZ-8394"
+date = "2013-10-30"
+album = "僕は友達が少ないNEXT ねくすとCD 4"
+tracks = [
+    [1, "PASTEL B☆X", "羽瀬川小鳩(CV:花澤香菜)", 0],
+    [2, "Be My Friend -小鳩Featuring隣人部 VER-", "羽瀬川小鳩(CV:花澤香菜)", 0],
+    [3, "僕らの翼 -小鳩Featuring隣人部 VER-", "羽瀬川小鳩(CV:花澤香菜)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/037c33d6-1d45-4e2f-b0a4-21d6aab46a90"]
+
+[47e0ad7e26034af72269ee9e1d5e103c]
+catalognumber = "ZMXZ-8395"
+date = "2013-11-27"
+album = "僕は友達が少ないNEXT ねくすとCD 5"
+tracks = [
+    [1, "ブレス", "高山マリア(CV:井口裕香)", 0],
+    [2, "Be My Friend -マリアFeaturing隣人部 VER-", "高山マリア(CV:井口裕香) Featuring 隣人部", 0],
+    [3, "僕らの翼 -マリアFeaturing隣人部 VER-", "高山マリア(CV:井口裕香) Featuring 隣人部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/db8fda2b-a679-4c72-a629-4a14c5837a5a"]
+
+[7c73b0a68108c6bdc96870ba705aa1e7]
+catalognumber = "ZMXZ-8396"
+date = "2013-12-25"
+album = "僕は友達が少ないNEXT ねくすとCD 6"
+tracks = [
+    [1, "君と僕", "志熊理科(CV:福圓美里)", 0],
+    [2, "Be My Friend -理科Featuring隣人部 VER-", "志熊理科(CV:福圓美里) Featuring 隣人部", 0],
+    [3, "僕らの翼 -理科Featuring隣人部 VER-", "志熊理科(CV:福圓美里) Featuring 隣人部", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f730c457-ec6d-4be6-a9d9-f8eeaf0081d6"]
 
 [d5bc4ecd3c21ec3c48d81350a28c4614]
 catalognumber = "SVWC-70189~90"

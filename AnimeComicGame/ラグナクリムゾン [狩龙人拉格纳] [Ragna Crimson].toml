@@ -82,6 +82,24 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/132921"]
 
+[e76e528ccb1df3fa230266b54581ce9e]
+catalognumber = "NOPA-4751"
+date = "2024-02-28"
+album = "カルト"
+tracks = [
+    [1, "感脳性リベレーション", "saji", 0],
+    [2, "並いる敵蹴散らし侍", "saji", 0],
+    [3, "Magic Writer", "saji", 0],
+    [4, "エチカ", "saji", 0],
+    [5, "月とワルツ", "saji", 0],
+    [6, "スターチス", "saji", 0],
+    [7, "フラッシュバック", "saji", 0],
+    [8, "EVERY DANCE SING", "saji", 0],
+    [9, "Live in Peace", "saji", 0],
+    [10, "Circle", "saji", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9d6ea4fb-886f-44a2-9274-107d40cab0f8"]
+
 [c0fc92537695ce82d9b833b977aa9176]
 catalognumber = "KIZX-90639"
 date = "2024-06-05"

@@ -234,6 +234,16 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/d0308271-1266-43e3-902e-ae14fcffa58e", "https://vgmdb.net/album/38643"]
 
+[5585004c7aed5baa870aa2f16f392115]
+catalognumber = "ANZX-6966"
+date = "2013-08-21"
+album = "絶園のテンペスト CHARACTER SONG VOL.3"
+tracks = [
+    [1, "ポジティカ", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [2, "ポジティカ (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3f41db52-f6d9-4bfd-b3b6-6b2a6bf2d2d8"]
+
 [0463789867dbd0a78881b610bdf88c3c]
 catalognumber = "ANZX-6968"
 date = "2013-09-25"
@@ -252,6 +262,16 @@ tracks = [
     [11, "愛花", "大島ミチル", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ec327ad1-7eff-437a-9c0d-216b73e4ac84", "https://vgmdb.net/album/41246"]
+
+[cdcfb3088f1df42e01a1fcb3202714bd]
+catalognumber = "ANZX-6974"
+date = "2013-12-25"
+album = "絶園のテンペスト CHARACTER SONG VOL.4"
+tracks = [
+    [1, "未来の蕾", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [2, "未来の蕾 (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/1ff00728-791b-45ba-826c-d2fe4a397273"]
 
 [fbf32443a909bc56f68c18fd39a1d261]
 catalognumber = "VVCL-1450~1"
