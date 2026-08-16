@@ -3,12 +3,12 @@ catalognumber = "VTZL-51"
 date = "2013-05-08"
 album = "SAVE THE WORLD / 野水いおり Disc 1 (CD) [VTCL-35151]"
 tracks = [
-    [1, "SAVE THE WORLD", "野水いおり", 0],
-    [2, "SAVE MY HEART", "野水いおり", 0],
-    [3, "ストロベリーレイン", "野水いおり", 0],
-    [4, "SAVE THE WORLD (without Iori)", "野水いおり", 0],
-    [5, "SAVE MY HEART (without Iori)", "野水いおり", 0],
-    [6, "ストロベリーレイン (without Iori)", "野水いおり", 0],
+    [1, "SAVE THE WORLD", "野水いおり", 1],
+    [2, "SAVE MY HEART", "野水いおり", 1],
+    [3, "ストロベリーレイン", "野水いおり", 1],
+    [4, "SAVE THE WORLD (without Iori)", "野水いおり", 1],
+    [5, "SAVE MY HEART (without Iori)", "野水いおり", 1],
+    [6, "ストロベリーレイン (without Iori)", "野水いおり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4ddd4b46-bac5-4561-aa92-8a42ac29c3af", "https://vgmdb.net/album/37607"]
 
@@ -17,7 +17,7 @@ catalognumber = "VTZL-51"
 date = "2013-05-08"
 album = "SAVE THE WORLD / 野水いおり Disc 2 (DVD) [VTBY-71]"
 tracks = [
-    [1, "SAVE THE WORLD", "野水いおり", 0],
+    [1, "SAVE THE WORLD", "野水いおり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4ddd4b46-bac5-4561-aa92-8a42ac29c3af", "https://vgmdb.net/album/37607"]
 
@@ -26,12 +26,12 @@ catalognumber = "VTCL-35151"
 date = "2013-05-08"
 album = "SAVE THE WORLD / 野水いおり"
 tracks = [
-    [1, "SAVE THE WORLD", "野水いおり", 0],
-    [2, "SAVE MY HEART", "野水いおり", 0],
-    [3, "ストロベリーレイン", "野水いおり", 0],
-    [4, "SAVE THE WORLD (without Iori)", "野水いおり", 0],
-    [5, "SAVE MY HEART (without Iori)", "野水いおり", 0],
-    [6, "ストロベリーレイン (without Iori)", "野水いおり", 0],
+    [1, "SAVE THE WORLD", "野水いおり", 1],
+    [2, "SAVE MY HEART", "野水いおり", 1],
+    [3, "ストロベリーレイン", "野水いおり", 1],
+    [4, "SAVE THE WORLD (without Iori)", "野水いおり", 1],
+    [5, "SAVE MY HEART (without Iori)", "野水いおり", 1],
+    [6, "ストロベリーレイン (without Iori)", "野水いおり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/00a9d688-337f-4807-83cd-596540f1683b", "https://vgmdb.net/album/37606"]
 
@@ -40,12 +40,12 @@ catalognumber = "COCC-16712"
 date = "2013-05-08"
 album = "デート・ア・ライブ / sweet ARMS"
 tracks = [
-    [1, "デート・ア・ライブ", "sweet ARMS", 0],
-    [2, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [3, "デート・ア・ライブ (Bossa Nova Arrange)", "sweet ARMS", 0],
-    [4, "デート・ア・ライブ (オリジナル・カラオケ)", "sweet ARMS", 0],
-    [5, "デート・イン・ユートピア (オリジナル・カラオケ)", "sweet ARMS", 0],
-    [6, "デート・ア・ライブ (Bossa Nova Arrange) (オリジナル・カラオケ)", "sweet ARMS", 0],
+    [1, "デート・ア・ライブ", "sweet ARMS", 1],
+    [2, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [3, "デート・ア・ライブ (Bossa Nova Arrange)", "sweet ARMS", 1],
+    [4, "デート・ア・ライブ (オリジナル・カラオケ)", "sweet ARMS", 1],
+    [5, "デート・イン・ユートピア (オリジナル・カラオケ)", "sweet ARMS", 1],
+    [6, "デート・ア・ライブ (Bossa Nova Arrange) (オリジナル・カラオケ)", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a999db9f-ccba-4cc8-82b2-a9a009b213c8", "https://vgmdb.net/album/37974"]
 
@@ -54,12 +54,12 @@ catalognumber = "COZC-770~1"
 date = "2013-05-08"
 album = "デート・ア・ライブ / sweet ARMS Disc 1 (CD) [COZC-770]"
 tracks = [
-    [1, "デート・ア・ライブ", "sweet ARMS", 0],
-    [2, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [3, "デート・ア・ライブ (Bossa Nova Arrange)", "sweet ARMS", 0],
-    [4, "デート・ア・ライブ (オリジナル・カラオケ)", "sweet ARMS", 0],
-    [5, "デート・イン・ユートピア (オリジナル・カラオケ)", "sweet ARMS", 0],
-    [6, "デート・ア・ライブ (Bossa Nova Arrange) (オリジナル・カラオケ)", "sweet ARMS", 0],
+    [1, "デート・ア・ライブ", "sweet ARMS", 1],
+    [2, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [3, "デート・ア・ライブ (Bossa Nova Arrange)", "sweet ARMS", 1],
+    [4, "デート・ア・ライブ (オリジナル・カラオケ)", "sweet ARMS", 1],
+    [5, "デート・イン・ユートピア (オリジナル・カラオケ)", "sweet ARMS", 1],
+    [6, "デート・ア・ライブ (Bossa Nova Arrange) (オリジナル・カラオケ)", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/30db1912-c2d3-4d3e-807f-8e008fc39ba9", "https://vgmdb.net/album/37975"]
 
@@ -77,34 +77,34 @@ catalognumber = "COCX-37970"
 date = "2013-06-05"
 album = "デート・ア・ライブ ミュージック・セレクションDATE A MUSIC FIRST HALF"
 tracks = [
-    [1, "デート・ア・ライブ (TVサイズ)", "sweet ARMS", 0],
-    [2, "Lux Perpetua", "坂部剛", 0],
-    [3, "Kukanshin", "坂部剛", 0],
-    [4, "D.A.L.Pancake", "坂部剛", 0],
-    [5, "Seirei", "坂部剛", 0],
-    [6, "Hazardous", "坂部剛", 0],
-    [7, "D.A.L.Main Theme", "坂部剛", 0],
-    [8, "Hatsukoi Winding Road (TVサイズ)", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 0],
-    [9, "My Little Shido", "坂部剛", 0],
-    [10, "Ha-pi-pi!", "坂部剛", 0],
-    [11, "Silly Game", "坂部剛", 0],
-    [12, "T in Sunset", "坂部剛", 0],
-    [13, "Duel", "坂部剛", 0],
-    [14, "Date! Date! Date!", "坂部剛", 0],
-    [15, "蕾がひらくとき (TVサイズ)", "夜刀神十香(CV:井上麻里奈)", 0],
-    [16, "Cycling", "坂部剛", 0],
-    [17, "Ristorante YAMAZAKI", "坂部剛", 0],
-    [18, "D.A.L.Nap", "坂部剛", 0],
-    [19, "Furious Anger", "坂部剛", 0],
-    [20, "Rain in the Park", "坂部剛", 0],
-    [21, "Mission of AST", "坂部剛", 0],
-    [22, "Thunder", "坂部剛", 0],
-    [23, "Silly Game2", "坂部剛", 0],
-    [24, "Zadkiel", "坂部剛", 0],
-    [25, "Milk", "坂部剛", 0],
-    [26, "SAVE THE WORLD (TVサイズ)", "野水いおり", 0],
-    [27, "Hatsukoi Winding Road (フルサイズ)", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 0],
-    [28, "蕾がひらくとき (フルサイズ)", "夜刀神十香(CV:井上麻里奈)", 0],
+    [1, "デート・ア・ライブ (TVサイズ)", "sweet ARMS", 1],
+    [2, "Lux Perpetua", "坂部剛", 1],
+    [3, "Kukanshin", "坂部剛", 1],
+    [4, "D.A.L.Pancake", "坂部剛", 1],
+    [5, "Seirei", "坂部剛", 1],
+    [6, "Hazardous", "坂部剛", 1],
+    [7, "D.A.L.Main Theme", "坂部剛", 1],
+    [8, "Hatsukoi Winding Road (TVサイズ)", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 1],
+    [9, "My Little Shido", "坂部剛", 1],
+    [10, "Ha-pi-pi!", "坂部剛", 1],
+    [11, "Silly Game", "坂部剛", 1],
+    [12, "T in Sunset", "坂部剛", 1],
+    [13, "Duel", "坂部剛", 1],
+    [14, "Date! Date! Date!", "坂部剛", 1],
+    [15, "蕾がひらくとき (TVサイズ)", "夜刀神十香(CV:井上麻里奈)", 1],
+    [16, "Cycling", "坂部剛", 1],
+    [17, "Ristorante YAMAZAKI", "坂部剛", 1],
+    [18, "D.A.L.Nap", "坂部剛", 1],
+    [19, "Furious Anger", "坂部剛", 1],
+    [20, "Rain in the Park", "坂部剛", 1],
+    [21, "Mission of AST", "坂部剛", 1],
+    [22, "Thunder", "坂部剛", 1],
+    [23, "Silly Game2", "坂部剛", 1],
+    [24, "Zadkiel", "坂部剛", 1],
+    [25, "Milk", "坂部剛", 1],
+    [26, "SAVE THE WORLD (TVサイズ)", "野水いおり", 1],
+    [27, "Hatsukoi Winding Road (フルサイズ)", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 1],
+    [28, "蕾がひらくとき (フルサイズ)", "夜刀神十香(CV:井上麻里奈)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b97c6240-b11f-4ac5-9f67-cbd989ff53df", "https://vgmdb.net/album/38497"]
 
@@ -113,32 +113,32 @@ catalognumber = "COCX-38065"
 date = "2013-06-26"
 album = "デート・ア・ライブ ミュージック・セレクション DATE A MUSIC SECOND HALF"
 tracks = [
-    [1, "デート・ア・ライブ (TVサイズ)", "sweet ARMS", 0],
-    [2, "Portrait", "坂部剛", 0],
-    [3, "Secret", "坂部剛", 0],
-    [4, "Mana", "坂部剛", 0],
-    [5, "Busted", "坂部剛", 0],
-    [6, "Felling", "坂部剛", 0],
-    [7, "Rhapsody-Flame", "坂部剛", 0],
-    [8, "Weird Waltz", "坂部剛", 0],
-    [9, "D.A.L. Seasons", "坂部剛", 0],
-    [10, "16bitガール (TVサイズ)", "時崎狂三(CV:真田アサミ)", 0],
-    [11, "Date a Live Piano Version", "坂部剛", 0],
-    [12, "Rhapsody-Rage", "坂部剛", 0],
-    [13, "Pride", "坂部剛", 0],
-    [14, "Empty Nest", "坂部剛", 0],
-    [15, "Kotori Commander", "坂部剛", 0],
-    [16, "Rain in the Garden", "坂部剛", 0],
-    [17, "HQ in the Sky", "坂部剛", 0],
-    [18, "Kotori Samba", "坂部剛", 0],
-    [19, "恋のEveryDay☆HappyDay (TVサイズ)", "五河琴里(CV:竹達彩奈)", 0],
-    [20, "Mizuiro", "坂部剛", 0],
-    [21, "Alert", "坂部剛", 0],
-    [22, "Compass", "坂部剛", 0],
-    [23, "Date a Live Orchestra Version", "坂部剛", 0],
-    [24, "16bitガール (フルサイズ)", "時崎狂三(CV:真田アサミ)", 0],
-    [25, "恋のEveryDay☆HappyDay (フルサイズ)", "五河琴里(CV:竹達彩奈)", 0],
-    [26, "きっと ずっと (フルサイズ)", "sweet ARMS", 0],
+    [1, "デート・ア・ライブ (TVサイズ)", "sweet ARMS", 1],
+    [2, "Portrait", "坂部剛", 1],
+    [3, "Secret", "坂部剛", 1],
+    [4, "Mana", "坂部剛", 1],
+    [5, "Busted", "坂部剛", 1],
+    [6, "Felling", "坂部剛", 1],
+    [7, "Rhapsody-Flame", "坂部剛", 1],
+    [8, "Weird Waltz", "坂部剛", 1],
+    [9, "D.A.L. Seasons", "坂部剛", 1],
+    [10, "16bitガール (TVサイズ)", "時崎狂三(CV:真田アサミ)", 1],
+    [11, "Date a Live Piano Version", "坂部剛", 1],
+    [12, "Rhapsody-Rage", "坂部剛", 1],
+    [13, "Pride", "坂部剛", 1],
+    [14, "Empty Nest", "坂部剛", 1],
+    [15, "Kotori Commander", "坂部剛", 1],
+    [16, "Rain in the Garden", "坂部剛", 1],
+    [17, "HQ in the Sky", "坂部剛", 1],
+    [18, "Kotori Samba", "坂部剛", 1],
+    [19, "恋のEveryDay☆HappyDay (TVサイズ)", "五河琴里(CV:竹達彩奈)", 1],
+    [20, "Mizuiro", "坂部剛", 1],
+    [21, "Alert", "坂部剛", 1],
+    [22, "Compass", "坂部剛", 1],
+    [23, "Date a Live Orchestra Version", "坂部剛", 1],
+    [24, "16bitガール (フルサイズ)", "時崎狂三(CV:真田アサミ)", 1],
+    [25, "恋のEveryDay☆HappyDay (フルサイズ)", "五河琴里(CV:竹達彩奈)", 1],
+    [26, "きっと ずっと (フルサイズ)", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d191f7b7-7139-47f9-85ad-d632e933c2f7", "https://vgmdb.net/album/39127"]
 
@@ -147,26 +147,26 @@ catalognumber = "COCX-38133"
 date = "2013-08-07"
 album = "デート・ア・ライブ ミュージック・セレクション DATE A MUSIC EXTENSION"
 tracks = [
-    [1, "Dead or Alive", "坂部剛", 0],
-    [2, "恋色折紙", "鳶一折紙(CV:富樫美鈴)", 0],
-    [3, "Whistle of Dragonfly", "坂部剛", 0],
-    [4, "Catastrophe", "坂部剛", 0],
-    [5, "リトル妹ドロップス", "崇宮真那(CV:味里)", 0],
-    [6, "Country Road", "坂部剛", 0],
-    [7, "Table Mountain", "坂部剛", 0],
-    [8, "ひつじの樹海", "村雨令音(CV:遠藤綾)", 0],
-    [9, "Ground Zero", "坂部剛", 0],
-    [10, "デート・ア・ライブ 幻のジングル・メドレー", "坂部剛", 0],
-    [11, "デート・イン・ユートピア (Game Size)", "sweet ARMS", 0],
-    [12, "Main Theme 〜 Supernomal Existence 〜 A Looming Crisis", "林茂樹", 0],
-    [13, "Dream 〜 Quiet Day 〜 Morning", "林茂樹", 0],
-    [14, "Comical 〜 Friends 〜 Trio", "林茂樹", 0],
-    [15, "Festival 〜 Let's Date! 〜 Delightful Time", "林茂樹", 0],
-    [16, "Amusement 〜 Occult 〜 Doubt", "林茂樹", 0],
-    [17, "Theme Of Fraxinus 〜 Evening 〜 Pessimism 〜 Small Happiness", "林茂樹", 0],
-    [18, "Report 〜 Nostalgia 〜 Threat", "林茂樹", 0],
-    [19, "The Perverted World 〜 Decisive Battle 〜 Utopia 〜 Left Behind", "林茂樹", 0],
-    [20, "きっと ずっと (Game Size)", "sweet ARMS", 0],
+    [1, "Dead or Alive", "坂部剛", 1],
+    [2, "恋色折紙", "鳶一折紙(CV:富樫美鈴)", 1],
+    [3, "Whistle of Dragonfly", "坂部剛", 1],
+    [4, "Catastrophe", "坂部剛", 1],
+    [5, "リトル妹ドロップス", "崇宮真那(CV:味里)", 1],
+    [6, "Country Road", "坂部剛", 1],
+    [7, "Table Mountain", "坂部剛", 1],
+    [8, "ひつじの樹海", "村雨令音(CV:遠藤綾)", 1],
+    [9, "Ground Zero", "坂部剛", 1],
+    [10, "デート・ア・ライブ 幻のジングル・メドレー", "坂部剛", 1],
+    [11, "デート・イン・ユートピア (Game Size)", "sweet ARMS", 1],
+    [12, "Main Theme 〜 Supernomal Existence 〜 A Looming Crisis", "林茂樹", 1],
+    [13, "Dream 〜 Quiet Day 〜 Morning", "林茂樹", 1],
+    [14, "Comical 〜 Friends 〜 Trio", "林茂樹", 1],
+    [15, "Festival 〜 Let's Date! 〜 Delightful Time", "林茂樹", 1],
+    [16, "Amusement 〜 Occult 〜 Doubt", "林茂樹", 1],
+    [17, "Theme Of Fraxinus 〜 Evening 〜 Pessimism 〜 Small Happiness", "林茂樹", 1],
+    [18, "Report 〜 Nostalgia 〜 Threat", "林茂樹", 1],
+    [19, "The Perverted World 〜 Decisive Battle 〜 Utopia 〜 Left Behind", "林茂樹", 1],
+    [20, "きっと ずっと (Game Size)", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d0bc5be9-c269-4205-8851-35c5f0842aee", "https://vgmdb.net/album/39502"]
 
@@ -179,14 +179,14 @@ tracks = [
     [2, "小さな恋のメロディ", "野水いおり", 0],
     [3, "*** パショナート", "野水いおり", 0],
     [4, "WISH", "野水いおり", 0],
-    [5, "SAVE MY HEART", "野水いおり", 0],
+    [5, "SAVE MY HEART", "野水いおり", 1],
     [6, "MICRO DISTANCE", "野水いおり", 0],
     [7, "君と永遠に同じ夢を見る", "野水いおり", 0],
     [8, "サイレン", "野水いおり", 0],
     [9, "BREATHLESS", "野水いおり", 0],
-    [10, "ストロベリーレイン", "野水いおり", 0],
+    [10, "ストロベリーレイン", "野水いおり", 1],
     [11, "Signalize", "野水いおり", 0],
-    [12, "SAVE THE WORLD", "野水いおり", 0],
+    [12, "SAVE THE WORLD", "野水いおり", 1],
     [13, "Black † White", "野水いおり", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/799fff02-dfa6-4363-9b50-473076f36768", "https://vgmdb.net/album/41252"]
@@ -200,14 +200,14 @@ tracks = [
     [2, "小さな恋のメロディ", "野水いおり", 0],
     [3, "*** パショナート", "野水いおり", 0],
     [4, "WISH", "野水いおり", 0],
-    [5, "SAVE MY HEART", "野水いおり", 0],
+    [5, "SAVE MY HEART", "野水いおり", 1],
     [6, "MICRO DISTANCE", "野水いおり", 0],
     [7, "君と永遠に同じ夢を見る", "野水いおり", 0],
     [8, "サイレン", "野水いおり", 0],
     [9, "BREATHLESS", "野水いおり", 0],
-    [10, "ストロベリーレイン", "野水いおり", 0],
+    [10, "ストロベリーレイン", "野水いおり", 1],
     [11, "Signalize", "野水いおり", 0],
-    [12, "SAVE THE WORLD", "野水いおり", 0],
+    [12, "SAVE THE WORLD", "野水いおり", 1],
     [13, "Black † White", "野水いおり", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/799fff02-dfa6-4363-9b50-473076f36768", "https://vgmdb.net/album/41253"]
@@ -245,9 +245,9 @@ tracks = [
     [13, "宇宙戦艦ヤマト", "MK feat.YOZU+KANA", 0],
     [14, "スモルワールドロップ", "Dizzi Mystica feat.YURiE", 0],
     [15, "REASON", "MK feat.Ryo+徹", 0],
-    [16, "SAVE THE WORLD", "MK feat.Latte", 0],
+    [16, "SAVE THE WORLD", "MK feat.Latte", 1],
     [17, "七つの海よりキミの海", "Hommarju feat.YURiE", 0],
-    [18, "デート・ア・ライブ", "Acid=Stone Valley feat.Natsuhi+maburu-choko", 0],
+    [18, "デート・ア・ライブ", "Acid=Stone Valley feat.Natsuhi+maburu-choko", 1],
     [19, "THE MISFIT GO", "MK feat.徹", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/acd06273-129d-4378-9c8a-1dc7afb5c19b", "https://vgmdb.net/album/46011"]
@@ -257,12 +257,12 @@ catalognumber = "COCC-16857"
 date = "2014-05-06"
 album = "Day to Story / 佐土原かおり"
 tracks = [
-    [1, "Day to Story", "佐土原かおり", 0],
-    [2, "エターナルワールド", "佐土原かおり", 0],
-    [3, "Day to Story(Another Version)", "佐土原かおり", 0],
-    [4, "Day to Story -Instrumental-", "佐土原かおり", 0],
-    [5, "エターナルワールド -Instrumental-", "佐土原かおり", 0],
-    [6, "Day to Story(Another Version) -Instrumental-", "佐土原かおり", 0],
+    [1, "Day to Story", "佐土原かおり", 1],
+    [2, "エターナルワールド", "佐土原かおり", 1],
+    [3, "Day to Story(Another Version)", "佐土原かおり", 1],
+    [4, "Day to Story -Instrumental-", "佐土原かおり", 1],
+    [5, "エターナルワールド -Instrumental-", "佐土原かおり", 1],
+    [6, "Day to Story(Another Version) -Instrumental-", "佐土原かおり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2edb8778-6f3a-4371-9407-848749d2c4b2", "https://vgmdb.net/album/44427"]
 
@@ -271,12 +271,12 @@ catalognumber = "COCC-16856"
 date = "2014-05-06"
 album = "Trust in you / sweet ARMS"
 tracks = [
-    [1, "Trust in you", "sweet ARMS", 0],
-    [2, "インストレーション", "sweet ARMS", 0],
-    [3, "Trust in you (Another Version)", "sweet ARMS", 0],
-    [4, "Trust in you -Instrumental-", "sweet ARMS", 0],
-    [5, "インストレーション -Instrumental-", "sweet ARMS", 0],
-    [6, "Trust in you (Another Version) -Instrumental-", "sweet ARMS", 0],
+    [1, "Trust in you", "sweet ARMS", 1],
+    [2, "インストレーション", "sweet ARMS", 1],
+    [3, "Trust in you (Another Version)", "sweet ARMS", 1],
+    [4, "Trust in you -Instrumental-", "sweet ARMS", 1],
+    [5, "インストレーション -Instrumental-", "sweet ARMS", 1],
+    [6, "Trust in you (Another Version) -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c7fe1582-7e1c-465b-bdc3-9f5ba1014024", "https://vgmdb.net/album/44424"]
 
@@ -285,12 +285,12 @@ catalognumber = "COZC-913~4"
 date = "2014-05-06"
 album = "Day to Story / 佐土原かおり Disc 1 (CD) [COZC-913]"
 tracks = [
-    [1, "Day to Story", "佐土原かおり", 0],
-    [2, "エターナルワールド", "佐土原かおり", 0],
-    [3, "Day to Story(Another Version)", "佐土原かおり", 0],
-    [4, "Day to Story -Instrumental-", "佐土原かおり", 0],
-    [5, "エターナルワールド -Instrumental-", "佐土原かおり", 0],
-    [6, "Day to Story(Another Version) -Instrumental-", "佐土原かおり", 0],
+    [1, "Day to Story", "佐土原かおり", 1],
+    [2, "エターナルワールド", "佐土原かおり", 1],
+    [3, "Day to Story(Another Version)", "佐土原かおり", 1],
+    [4, "Day to Story -Instrumental-", "佐土原かおり", 1],
+    [5, "エターナルワールド -Instrumental-", "佐土原かおり", 1],
+    [6, "Day to Story(Another Version) -Instrumental-", "佐土原かおり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/feb4deff-661e-48a4-a761-a7cc491bba19", "https://vgmdb.net/album/44426"]
 
@@ -310,12 +310,12 @@ catalognumber = "COZC-911~2"
 date = "2014-05-06"
 album = "Trust in you / sweet ARMS [Limited Edition] Disc 1 (CD) [COZC-911]"
 tracks = [
-    [1, "Trust in you", "sweet ARMS", 0],
-    [2, "インストレーション", "sweet ARMS", 0],
-    [3, "Trust in you (Another Version)", "sweet ARMS", 0],
-    [4, "Trust in you -Instrumental-", "sweet ARMS", 0],
-    [5, "インストレーション -Instrumental-", "sweet ARMS", 0],
-    [6, "Trust in you (Another Version) -Instrumental-", "sweet ARMS", 0],
+    [1, "Trust in you", "sweet ARMS", 1],
+    [2, "インストレーション", "sweet ARMS", 1],
+    [3, "Trust in you (Another Version)", "sweet ARMS", 1],
+    [4, "Trust in you -Instrumental-", "sweet ARMS", 1],
+    [5, "インストレーション -Instrumental-", "sweet ARMS", 1],
+    [6, "Trust in you (Another Version) -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/344f6de6-caa2-4a37-84b9-b70ab4bfad57", "https://vgmdb.net/album/44425"]
 
@@ -335,7 +335,7 @@ catalognumber = "N/A"
 date = "2014-06-26"
 album = "デート・ア・ライブ 或守インストール 予約特典ドラマCD"
 tracks = [
-    [1, "ちょいデレシチュエーションアゲイン 十香編", "", 0],
+    [1, "ちょいデレシチュエーションアゲイン 十香編", "", 1],
 ]
 links = ["https://vgmdb.net/album/47085"]
 
@@ -354,26 +354,26 @@ catalognumber = "COCX-38576"
 date = "2014-07-23"
 album = "デート・ア・ライブII DATE A \"EXTREME\" MUSIC"
 tracks = [
-    [1, "Trust in you (TVSize)", "sweet ARMS", 0],
-    [2, "Isaac", "坂部剛", 0],
-    [3, "Hurricane", "坂部剛", 0],
-    [4, "Identical Winds", "坂部剛", 0],
-    [5, "DOUBLE PUNCH LOVE", "八舞耶倶矢(CV:内田真礼)、八舞夕弦(CV:ブリドカットセーラ恵美)", 0],
-    [6, "Arbatel", "坂部剛", 0],
-    [7, "Goofy Dance", "坂部剛", 0],
-    [8, "Fleet Warfare", "坂部剛", 0],
-    [9, "Stormy Date", "坂部剛", 0],
-    [10, "monochrome (TVSize)", "誘宵美九", 0],
-    [11, "Hater", "坂部剛", 0],
-    [12, "Gabriel‐March Ⅰ", "坂部剛", 0],
-    [13, "Lonely, Morning, Dreaming", "四糸乃(CV:野水伊織)", 0],
-    [14, "Melodrama Ⅰ", "坂部剛", 0],
-    [15, "Reminiscence", "坂部剛", 0],
-    [16, "Day to Story (TVSize)", "佐土原かおり", 0],
-    [17, "monochrome (Full Size)", "誘宵美九(CV:茅原実里)", 0],
-    [18, "DOUBLE PUNCH LOVE (Instrumental)", "八舞耶倶矢(CV:内田真礼) &八舞夕弦(CV:ブリドカットセーラ恵美)", 0],
-    [19, "Lonely, Morning, Dreaming (Instrumental)", "四糸乃(CV:野水伊織)", 0],
-    [20, "monochrome (Instrumental)", "誘宵美九(CV:茅原実里)", 0],
+    [1, "Trust in you (TVSize)", "sweet ARMS", 1],
+    [2, "Isaac", "坂部剛", 1],
+    [3, "Hurricane", "坂部剛", 1],
+    [4, "Identical Winds", "坂部剛", 1],
+    [5, "DOUBLE PUNCH LOVE", "八舞耶倶矢(CV:内田真礼)、八舞夕弦(CV:ブリドカットセーラ恵美)", 1],
+    [6, "Arbatel", "坂部剛", 1],
+    [7, "Goofy Dance", "坂部剛", 1],
+    [8, "Fleet Warfare", "坂部剛", 1],
+    [9, "Stormy Date", "坂部剛", 1],
+    [10, "monochrome (TVSize)", "誘宵美九", 1],
+    [11, "Hater", "坂部剛", 1],
+    [12, "Gabriel‐March Ⅰ", "坂部剛", 1],
+    [13, "Lonely, Morning, Dreaming", "四糸乃(CV:野水伊織)", 1],
+    [14, "Melodrama Ⅰ", "坂部剛", 1],
+    [15, "Reminiscence", "坂部剛", 1],
+    [16, "Day to Story (TVSize)", "佐土原かおり", 1],
+    [17, "monochrome (Full Size)", "誘宵美九(CV:茅原実里)", 1],
+    [18, "DOUBLE PUNCH LOVE (Instrumental)", "八舞耶倶矢(CV:内田真礼) &八舞夕弦(CV:ブリドカットセーラ恵美)", 1],
+    [19, "Lonely, Morning, Dreaming (Instrumental)", "四糸乃(CV:野水伊織)", 1],
+    [20, "monochrome (Instrumental)", "誘宵美九(CV:茅原実里)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e888787a-9a3d-442f-a20f-0f9d6b851f90", "https://vgmdb.net/album/45233"]
 
@@ -382,26 +382,26 @@ catalognumber = "COCX-38577"
 date = "2014-07-23"
 album = "デート・ア・ライブII DATE A \"IMPRESSIVE\" MUSIC"
 tracks = [
-    [1, "Hymn for Diva", "坂部剛", 0],
-    [2, "マーメイド ラブストーリー(TV Size)", "誘宵美九(CV:茅原実里)", 0],
-    [3, "Marionettica", "坂部剛", 0],
-    [4, "Gabriel-March II", "坂部剛", 0],
-    [5, "Gabriel-Rondo", "坂部剛", 0],
-    [6, "赤い糸", "時崎狂三(CV:真田アサミ)", 0],
-    [7, "Melodrama II", "坂部剛", 0],
-    [8, "HANTEN Tohka", "坂部剛", 0],
-    [9, "Trust in you(Orchestra Version)", "坂部剛", 0],
-    [10, "Q&A(TV Size)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 0],
-    [11, "New Mana", "坂部剛", 0],
-    [12, "Bandersnatch", "坂部剛", 0],
-    [13, "Melodrama I (Cheap Version)", "坂部剛", 0],
-    [14, "My Treasure", "誘宵美九(CV:茅原実里)", 0],
-    [15, "マーメイド ラブストーリー(Full Size)", "誘宵美九(CV:茅原実里)", 0],
-    [16, "Q&A(Full Size)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 0],
-    [17, "赤い糸(Instrumental)", "時崎狂三(CV:真田アサミ)", 0],
-    [18, "マーメイド ラブストーリー(Instrumental)", "誘宵美九(CV:茅原実里)", 0],
-    [19, "Q&A(Instrumental)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 0],
-    [20, "My Treasure(Instrumental)", "誘宵美九(CV:茅原実里)", 0],
+    [1, "Hymn for Diva", "坂部剛", 1],
+    [2, "マーメイド ラブストーリー(TV Size)", "誘宵美九(CV:茅原実里)", 1],
+    [3, "Marionettica", "坂部剛", 1],
+    [4, "Gabriel-March II", "坂部剛", 1],
+    [5, "Gabriel-Rondo", "坂部剛", 1],
+    [6, "赤い糸", "時崎狂三(CV:真田アサミ)", 1],
+    [7, "Melodrama II", "坂部剛", 1],
+    [8, "HANTEN Tohka", "坂部剛", 1],
+    [9, "Trust in you(Orchestra Version)", "坂部剛", 1],
+    [10, "Q&A(TV Size)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 1],
+    [11, "New Mana", "坂部剛", 1],
+    [12, "Bandersnatch", "坂部剛", 1],
+    [13, "Melodrama I (Cheap Version)", "坂部剛", 1],
+    [14, "My Treasure", "誘宵美九(CV:茅原実里)", 1],
+    [15, "マーメイド ラブストーリー(Full Size)", "誘宵美九(CV:茅原実里)", 1],
+    [16, "Q&A(Full Size)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 1],
+    [17, "赤い糸(Instrumental)", "時崎狂三(CV:真田アサミ)", 1],
+    [18, "マーメイド ラブストーリー(Instrumental)", "誘宵美九(CV:茅原実里)", 1],
+    [19, "Q&A(Instrumental)", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 1],
+    [20, "My Treasure(Instrumental)", "誘宵美九(CV:茅原実里)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/da7dc7f7-60bd-437b-a2d3-deee40001b3d", "https://vgmdb.net/album/45232"]
 
@@ -411,21 +411,21 @@ date = "2014-07-30"
 album = "TRIGGER / sweet ARMS"
 tracks = [
     [1, "MY TRIGGER", "sweet ARMS", 0],
-    [2, "Trust in you", "sweet ARMS", 0],
+    [2, "Trust in you", "sweet ARMS", 1],
     [3, "I.N.G.", "sweet ARMS", 0],
     [4, "Blazing Heart", "sweet ARMS", 0],
     [5, "LINK", "sweet ARMS", 0],
     [6, "からっぽな朝", "sweet ARMS", 0],
     [7, "Reboot Tactics", "sweet ARMS", 0],
     [8, "恋愛バトルライン", "sweet ARMS", 0],
-    [9, "インストレーション(Long Vergion)", "sweet ARMS", 0],
+    [9, "インストレーション(Long Vergion)", "sweet ARMS", 1],
     [10, "Alone Babylon", "sweet ARMS", 0],
     [11, "いっぽずつ", "sweet ARMS", 0],
     [12, "Cherish", "sweet ARMS", 0],
     [13, "uni∞birth〜ユニバース〜", "sweet ARMS", 0],
-    [14, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [15, "きっと ずっと", "sweet ARMS", 0],
-    [16, "デート・ア・ライブ", "sweet ARMS", 0],
+    [14, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [15, "きっと ずっと", "sweet ARMS", 1],
+    [16, "デート・ア・ライブ", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c1b6cb70-80fe-4d9d-8aa7-5904d755879f", "https://vgmdb.net/album/46753"]
 
@@ -435,21 +435,21 @@ date = "2014-07-30"
 album = "TRIGGER / sweet ARMS [完全初回限定生産盤] Vocal"
 tracks = [
     [1, "MY TRIGGER", "sweet ARMS", 0],
-    [2, "Trust in you", "sweet ARMS", 0],
+    [2, "Trust in you", "sweet ARMS", 1],
     [3, "I.N.G.", "sweet ARMS", 0],
     [4, "Blazing Heart", "sweet ARMS", 0],
     [5, "LINK", "sweet ARMS", 0],
     [6, "からっぽな朝", "sweet ARMS", 0],
     [7, "Reboot Tactics", "sweet ARMS", 0],
     [8, "恋愛バトルライン", "sweet ARMS", 0],
-    [9, "インストレーション(Long Vergion)", "sweet ARMS", 0],
+    [9, "インストレーション(Long Vergion)", "sweet ARMS", 1],
     [10, "Alone Babylon", "sweet ARMS", 0],
     [11, "いっぽずつ", "sweet ARMS", 0],
     [12, "Cherish", "sweet ARMS", 0],
     [13, "uni∞birth〜ユニバース〜", "sweet ARMS", 0],
-    [14, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [15, "きっと ずっと", "sweet ARMS", 0],
-    [16, "デート・ア・ライブ", "sweet ARMS", 0],
+    [14, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [15, "きっと ずっと", "sweet ARMS", 1],
+    [16, "デート・ア・ライブ", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c3ae5d89-be8e-4ccc-a92e-94c87b9faacf", "https://vgmdb.net/album/46754"]
 
@@ -467,40 +467,40 @@ catalognumber = "COCX-38647"
 date = "2014-08-20"
 album = "デート・ア・ライブII DATE A \"HAPPY\" MUSIC"
 tracks = [
-    [1, "インストレーション(Game Size)", "sweet ARMS", 0],
-    [2, "Lighthearted", "林茂樹", 0],
-    [3, "Enjoy", "林茂樹", 0],
-    [4, "Panic!?", "林茂樹", 0],
-    [5, "Quiet", "林茂樹", 0],
-    [6, "Temptation", "林茂樹", 0],
-    [7, "Interesting", "林茂樹", 0],
-    [8, "melt(on the border)", "五河琴里(CV:竹達彩奈)", 0],
-    [9, "Worry", "林茂樹", 0],
-    [10, "Lovers", "林茂樹", 0],
-    [11, "Everyday", "林茂樹", 0],
-    [12, "Samba!", "林茂樹", 0],
-    [13, "Choice", "林茂樹", 0],
-    [14, "The end of the day", "林茂樹", 0],
-    [15, "Braver", "林茂樹", 0],
-    [16, "G.P.S.(Golden Powder Snow)", "夜刀神十香(CV:井上麻里奈)", 0],
-    [17, "Digital world", "林茂樹", 0],
-    [18, "Nadeshiko", "林茂樹", 0],
-    [19, "Install ARS", "林茂樹", 0],
-    [20, "Moonlit night", "林茂樹", 0],
-    [21, "A little happiness", "林茂樹", 0],
-    [22, "Severe battle", "林茂樹", 0],
-    [23, "calling", "五河士道(CV:島﨑信長)", 0],
-    [24, "Continue", "林茂樹", 0],
-    [25, "Cool guy", "林茂樹", 0],
-    [26, "Maria", "林茂樹", 0],
-    [27, "Crisis", "林茂樹", 0],
-    [28, "For someone", "林茂樹", 0],
-    [29, "Delete", "林茂樹", 0],
-    [30, "Letter", "林茂樹", 0],
-    [31, "エターナルワールド(Game Size)", "佐土原かおり", 0],
-    [32, "melt(Instrumental)", "林茂樹", 0],
-    [33, "G.P.S.(Golden Powder Snow)(Instrumental)", "林茂樹", 0],
-    [34, "calling(Instrumental)", "林茂樹", 0],
+    [1, "インストレーション(Game Size)", "sweet ARMS", 1],
+    [2, "Lighthearted", "林茂樹", 1],
+    [3, "Enjoy", "林茂樹", 1],
+    [4, "Panic!?", "林茂樹", 1],
+    [5, "Quiet", "林茂樹", 1],
+    [6, "Temptation", "林茂樹", 1],
+    [7, "Interesting", "林茂樹", 1],
+    [8, "melt(on the border)", "五河琴里(CV:竹達彩奈)", 1],
+    [9, "Worry", "林茂樹", 1],
+    [10, "Lovers", "林茂樹", 1],
+    [11, "Everyday", "林茂樹", 1],
+    [12, "Samba!", "林茂樹", 1],
+    [13, "Choice", "林茂樹", 1],
+    [14, "The end of the day", "林茂樹", 1],
+    [15, "Braver", "林茂樹", 1],
+    [16, "G.P.S.(Golden Powder Snow)", "夜刀神十香(CV:井上麻里奈)", 1],
+    [17, "Digital world", "林茂樹", 1],
+    [18, "Nadeshiko", "林茂樹", 1],
+    [19, "Install ARS", "林茂樹", 1],
+    [20, "Moonlit night", "林茂樹", 1],
+    [21, "A little happiness", "林茂樹", 1],
+    [22, "Severe battle", "林茂樹", 1],
+    [23, "calling", "五河士道(CV:島﨑信長)", 1],
+    [24, "Continue", "林茂樹", 1],
+    [25, "Cool guy", "林茂樹", 1],
+    [26, "Maria", "林茂樹", 1],
+    [27, "Crisis", "林茂樹", 1],
+    [28, "For someone", "林茂樹", 1],
+    [29, "Delete", "林茂樹", 1],
+    [30, "Letter", "林茂樹", 1],
+    [31, "エターナルワールド(Game Size)", "佐土原かおり", 1],
+    [32, "melt(Instrumental)", "林茂樹", 1],
+    [33, "G.P.S.(Golden Powder Snow)(Instrumental)", "林茂樹", 1],
+    [34, "calling(Instrumental)", "林茂樹", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6f7d384c-5772-45f6-a8ca-57d638564cb0", "https://vgmdb.net/album/45835"]
 
@@ -509,9 +509,9 @@ catalognumber = "KAXA-7073_CDMK"
 date = "2014-08-29"
 album = "渚のパフューム / 宵待月乃"
 tracks = [
-    [1, "渚のパフューム", "宵待月乃 (CV. 茅原実里)", 0],
-    [2, "My Treasure (TVサイズ)", "宵待月乃 (CV. 茅原実里)", 0],
-    [3, "渚のパフューム (カラオケ)", "宵待月乃 (CV. 茅原実里)", 0],
+    [1, "渚のパフューム", "宵待月乃 (CV. 茅原実里)", 1],
+    [2, "My Treasure (TVサイズ)", "宵待月乃 (CV. 茅原実里)", 1],
+    [3, "渚のパフューム (カラオケ)", "宵待月乃 (CV. 茅原実里)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fa5b4a44-e824-4c39-b942-2393061a1de9", "https://vgmdb.net/album/46924"]
 
@@ -536,7 +536,7 @@ tracks = [
     [14, "BE AS ONE", "plazma feat. 桜井三郎 + Bavil", 0],
     [15, "掌ーSHOW-", "Hommarju feat. KANA", 0],
     [16, "イマジネーション", "Dizzi Mystica feat. Bavil", 0],
-    [17, "TRUST IN YOU", "Flash back Dominant feat. Latte + Puchi", 0],
+    [17, "TRUST IN YOU", "Flash back Dominant feat. Latte + Puchi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/27ff9430-5739-4ccd-ae1a-e6ce7688ebf0", "https://vgmdb.net/album/46821"]
 
@@ -591,10 +591,10 @@ catalognumber = "COCC-17048"
 date = "2015-08-19"
 album = "Invisible Date / sweet ARMS"
 tracks = [
-    [1, "Invisible Date", "sweet ARMS", 0],
-    [2, "Key of Truth", "sweet ARMS", 0],
-    [3, "Invisible Date -Instrumental-", "sweet ARMS", 0],
-    [4, "Key of Truth -Instrumental-", "sweet ARMS", 0],
+    [1, "Invisible Date", "sweet ARMS", 1],
+    [2, "Key of Truth", "sweet ARMS", 1],
+    [3, "Invisible Date -Instrumental-", "sweet ARMS", 1],
+    [4, "Key of Truth -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a0e1f5fa-81dd-4172-9cc6-2a98f8eb9b33", "https://vgmdb.net/album/53447"]
 
@@ -603,10 +603,10 @@ catalognumber = "COZC-1075~6"
 date = "2015-08-19"
 album = "Invisible Date / sweet ARMS [Limited Edition] Disc 1 (CD) [COZC-1075]"
 tracks = [
-    [1, "Invisible Date", "sweet ARMS", 0],
-    [2, "Key of Truth", "sweet ARMS", 0],
-    [3, "Invisible Date -Instrumental-", "sweet ARMS", 0],
-    [4, "Key of Truth -Instrumental-", "sweet ARMS", 0],
+    [1, "Invisible Date", "sweet ARMS", 1],
+    [2, "Key of Truth", "sweet ARMS", 1],
+    [3, "Invisible Date -Instrumental-", "sweet ARMS", 1],
+    [4, "Key of Truth -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d5860453-3316-4f35-bfe4-383dafe51c13", "https://vgmdb.net/album/53448"]
 
@@ -632,33 +632,33 @@ catalognumber = "COCX-39358"
 date = "2015-10-14"
 album = "劇場版デート・ア・ライブ 万由里ジャッジメント ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "GO☆サマーガール", "誘宵美九(CV茅原実里)", 0],
-    [2, "Voyager of Date", "坂部剛", 0],
-    [3, "Invisible", "坂部剛", 0],
-    [4, "Goofy Dance", "坂部剛", 0],
-    [5, "Easy Going Girl", "坂部剛", 0],
-    [6, "Milk", "坂部剛", 0],
-    [7, "Ristorante YAMAZAKI", "坂部剛", 0],
-    [8, "Go Summer Boy", "坂部剛", 0],
-    [9, "Rain in the Garden", "坂部剛", 0],
-    [10, "Rain in the Shrine", "坂部剛", 0],
-    [11, "On My Own", "坂部剛", 0],
-    [12, "D.A.L.Nap", "坂部剛", 0],
-    [13, "Happiness in a Day", "坂部剛", 0],
-    [14, "Portrait", "坂部剛", 0],
-    [15, "All You Can Date", "坂部剛", 0],
-    [16, "Cycling", "坂部剛", 0],
-    [17, "Mayuri", "坂部剛", 0],
-    [18, "Cherubim", "坂部剛", 0],
-    [19, "Stormy Date", "坂部剛", 0],
-    [20, "Zadkiel Intro", "坂部剛", 0],
-    [21, "Zadkiel", "坂部剛", 0],
-    [22, "デート・ア・ライブ", "sweet ARMS", 0],
-    [23, "Undefeatable", "坂部剛", 0],
-    [24, "Hurricane", "坂部剛", 0],
-    [25, "If We Meet Again", "坂部剛", 0],
-    [26, "Invisible Date", "sweet ARMS", 0],
-    [27, "Not Forget", "味里", 0],
+    [1, "GO☆サマーガール", "誘宵美九(CV茅原実里)", 2],
+    [2, "Voyager of Date", "坂部剛", 1],
+    [3, "Invisible", "坂部剛", 1],
+    [4, "Goofy Dance", "坂部剛", 1],
+    [5, "Easy Going Girl", "坂部剛", 1],
+    [6, "Milk", "坂部剛", 1],
+    [7, "Ristorante YAMAZAKI", "坂部剛", 1],
+    [8, "Go Summer Boy", "坂部剛", 1],
+    [9, "Rain in the Garden", "坂部剛", 1],
+    [10, "Rain in the Shrine", "坂部剛", 1],
+    [11, "On My Own", "坂部剛", 1],
+    [12, "D.A.L.Nap", "坂部剛", 1],
+    [13, "Happiness in a Day", "坂部剛", 1],
+    [14, "Portrait", "坂部剛", 1],
+    [15, "All You Can Date", "坂部剛", 1],
+    [16, "Cycling", "坂部剛", 1],
+    [17, "Mayuri", "坂部剛", 1],
+    [18, "Cherubim", "坂部剛", 1],
+    [19, "Stormy Date", "坂部剛", 1],
+    [20, "Zadkiel Intro", "坂部剛", 1],
+    [21, "Zadkiel", "坂部剛", 1],
+    [22, "デート・ア・ライブ", "sweet ARMS", 1],
+    [23, "Undefeatable", "坂部剛", 1],
+    [24, "Hurricane", "坂部剛", 1],
+    [25, "If We Meet Again", "坂部剛", 1],
+    [26, "Invisible Date", "sweet ARMS", 1],
+    [27, "Not Forget", "味里", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6b119358-6639-4268-9a89-6924a389b276", "https://vgmdb.net/album/54804"]
 
@@ -667,24 +667,24 @@ catalognumber = "COCX-39376"
 date = "2016-02-24"
 album = "劇場版デート・ア・ライブ 万由里ジャッジメント キャラクターソングアルバム \"Music Judgement\""
 tracks = [
-    [1, "Go☆サマーガール -劇場版Live Version-", "誘宵美九(CV茅原実里)", 0],
-    [2, "Follow me!", "八舞耶倶矢(CV内田真礼)", 0],
-    [3, "Once Upon a Rainy Day", "四糸乃(CV野水いおり)", 0],
-    [4, "with you", "八舞夕弦(CVブリドカットセーラ恵美)", 0],
-    [5, "Lollipop Baby", "五河琴里(CV竹達彩奈)", 0],
-    [6, "美味しいデェト", "夜刀神十香(CV井上麻里奈)", 0],
-    [7, "愛慕", "鳶一折紙(CV富樫美鈴)", 0],
-    [8, "Resolution", "万由里(CV雨宮天)", 0],
-    [9, "Not Forget", "園神凜緒(CV佐倉綾音)", 0],
-    [10, "Go☆サマーガール -Instrumental-", "誘宵美九(CV茅原実里)", 0],
-    [11, "Follow me! -Instrumental-", "八舞耶倶矢(CV内田真礼)", 0],
-    [12, "Once Upon a Rainy Day -Instrumental-", "四糸乃(CV野水いおり)", 0],
-    [13, "with you -Instrumental-", "八舞夕弦(CVブリドカットセーラ恵美)", 0],
-    [14, "Lollipop Baby -Instrumental-", "五河琴里(CV竹達彩奈)", 0],
-    [15, "美味しいデェト -Instrumental-", "夜刀神十香(CV井上麻里奈)", 0],
-    [16, "愛慕 -Instrumental-", "鳶一折紙(CV富樫美鈴)", 0],
-    [17, "Resolution -Instrumental-", "万由里(CV雨宮天)", 0],
-    [18, "Not Forget -Instrumental-", "園神凜緒(CV佐倉綾音)", 0],
+    [1, "Go☆サマーガール -劇場版Live Version-", "誘宵美九(CV茅原実里)", 1],
+    [2, "Follow me!", "八舞耶倶矢(CV内田真礼)", 1],
+    [3, "Once Upon a Rainy Day", "四糸乃(CV野水いおり)", 1],
+    [4, "with you", "八舞夕弦(CVブリドカットセーラ恵美)", 1],
+    [5, "Lollipop Baby", "五河琴里(CV竹達彩奈)", 1],
+    [6, "美味しいデェト", "夜刀神十香(CV井上麻里奈)", 1],
+    [7, "愛慕", "鳶一折紙(CV富樫美鈴)", 1],
+    [8, "Resolution", "万由里(CV雨宮天)", 1],
+    [9, "Not Forget", "園神凜緒(CV佐倉綾音)", 1],
+    [10, "Go☆サマーガール -Instrumental-", "誘宵美九(CV茅原実里)", 1],
+    [11, "Follow me! -Instrumental-", "八舞耶倶矢(CV内田真礼)", 1],
+    [12, "Once Upon a Rainy Day -Instrumental-", "四糸乃(CV野水いおり)", 1],
+    [13, "with you -Instrumental-", "八舞夕弦(CVブリドカットセーラ恵美)", 1],
+    [14, "Lollipop Baby -Instrumental-", "五河琴里(CV竹達彩奈)", 1],
+    [15, "美味しいデェト -Instrumental-", "夜刀神十香(CV井上麻里奈)", 1],
+    [16, "愛慕 -Instrumental-", "鳶一折紙(CV富樫美鈴)", 1],
+    [17, "Resolution -Instrumental-", "万由里(CV雨宮天)", 1],
+    [18, "Not Forget -Instrumental-", "園神凜緒(CV佐倉綾音)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/48a9fa63-b56f-4509-8cd9-aff034bda5b1", "https://vgmdb.net/album/56928"]
 
@@ -693,21 +693,21 @@ catalognumber = "COCX-40603"
 date = "2019-01-09"
 album = "選んでデート・ア・ライブ～DATE A LIVE BEST SELECTION～"
 tracks = [
-    [1, "デート・ア・ライブ", "sweet ARMS", 0],
-    [2, "SAVE THE WORLD", "野水いおり", 0],
-    [3, "SAVE MY HEART", "野水いおり", 0],
-    [4, "蕾がひらくとき", "夜刀神十香(CV:井上麻里奈)", 0],
-    [5, "16bitガール", "時崎狂三(CV:真田アサミ)", 0],
-    [6, "恋のEveryDay☆HappyDay", "五河琴里(CV:竹達彩奈)", 0],
-    [7, "Trust in you", "sweet ARMS", 0],
-    [8, "Day to Story", "佐土原かおり", 0],
-    [9, "マーメイド ラブストーリー", "誘宵美九(CV:茅原実里)", 0],
-    [10, "Q&A", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 0],
-    [11, "Invisible Date", "sweet ARMS", 0],
-    [12, "Go☆サマーガール", "誘宵美九(CV茅原実里)", 0],
-    [13, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [14, "インストレーション", "sweet ARMS", 0],
-    [15, "Key of Truth", "sweet ARMS", 0],
+    [1, "デート・ア・ライブ", "sweet ARMS", 1],
+    [2, "SAVE THE WORLD", "野水いおり", 1],
+    [3, "SAVE MY HEART", "野水いおり", 1],
+    [4, "蕾がひらくとき", "夜刀神十香(CV:井上麻里奈)", 1],
+    [5, "16bitガール", "時崎狂三(CV:真田アサミ)", 1],
+    [6, "恋のEveryDay☆HappyDay", "五河琴里(CV:竹達彩奈)", 2],
+    [7, "Trust in you", "sweet ARMS", 1],
+    [8, "Day to Story", "佐土原かおり", 1],
+    [9, "マーメイド ラブストーリー", "誘宵美九(CV:茅原実里)", 1],
+    [10, "Q&A", "夜刀神十香(CV:井上麻里奈)＆五河士道(CV:藏合紗恵子)", 1],
+    [11, "Invisible Date", "sweet ARMS", 1],
+    [12, "Go☆サマーガール", "誘宵美九(CV茅原実里)", 1],
+    [13, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [14, "インストレーション", "sweet ARMS", 1],
+    [15, "Key of Truth", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/faf5de06-2cdf-4c44-848c-089d157c52fa", "https://vgmdb.net/album/82058"]
 
@@ -716,10 +716,10 @@ catalognumber = "COZC-1506~7"
 date = "2019-01-30"
 album = "I swear / sweet ARMS [Limited Edition] Disc 1 (CD) [COZC-1506]"
 tracks = [
-    [1, "I swear", "sweet ARMS", 0],
-    [2, "甘言誘惑 Receptor", "sweet ARMS", 0],
-    [3, "I swear -Instrumental-", "sweet ARMS", 0],
-    [4, "甘言誘惑 Receptor -Instrumental-", "sweet ARMS", 0],
+    [1, "I swear", "sweet ARMS", 1],
+    [2, "甘言誘惑 Receptor", "sweet ARMS", 1],
+    [3, "I swear -Instrumental-", "sweet ARMS", 1],
+    [4, "甘言誘惑 Receptor -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/da845f9a-30c5-4b3c-a16b-30e323fd3d7e", "https://vgmdb.net/album/82057"]
 
@@ -728,7 +728,7 @@ catalognumber = "COZC-1506~7"
 date = "2019-01-30"
 album = "I swear / sweet ARMS [Limited Edition] Disc 2 (DVD) [COZC-1507]"
 tracks = [
-    [1, "I swear Music Video", "sweet ARMS", 0],
+    [1, "I swear Music Video", "sweet ARMS", 1],
     [2, "島﨑信長 (五河士道役)", "島﨑信長", 0],
     [3, "井上麻里奈 (夜刀神十香役)", "井上麻里奈", 0],
     [4, "富樫美鈴 (鳶一折紙役)", "富樫美鈴", 0],
@@ -742,10 +742,10 @@ catalognumber = "COCC-17556"
 date = "2019-01-30"
 album = "I swear / sweet ARMS"
 tracks = [
-    [1, "I swear", "sweet ARMS", 0],
-    [2, "甘言誘惑 Receptor", "sweet ARMS", 0],
-    [3, "I swear -Instrumental-", "sweet ARMS", 0],
-    [4, "甘言誘惑 Receptor -Instrumental-", "sweet ARMS", 0],
+    [1, "I swear", "sweet ARMS", 1],
+    [2, "甘言誘惑 Receptor", "sweet ARMS", 1],
+    [3, "I swear -Instrumental-", "sweet ARMS", 1],
+    [4, "甘言誘惑 Receptor -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cf9f81a4-8fbb-4a00-bd7c-5fa8cee25baf", "https://vgmdb.net/album/82056"]
 
@@ -754,10 +754,10 @@ catalognumber = "COZC-1512~3"
 date = "2019-02-27"
 album = "Last Promise / 山崎エリイ Disc 1 (CD) [COZC-1512]"
 tracks = [
-    [1, "Last Promise", "山崎エリイ", 0],
-    [2, "Shiny Sunny Sunday", "山崎エリイ", 0],
-    [3, "Last Promise (Instrumental)", "山崎エリイ", 0],
-    [4, "Shiny Sunny Sunday (Instrumental)", "山崎エリイ", 0],
+    [1, "Last Promise", "山崎エリイ", 1],
+    [2, "Shiny Sunny Sunday", "山崎エリイ", 1],
+    [3, "Last Promise (Instrumental)", "山崎エリイ", 1],
+    [4, "Shiny Sunny Sunday (Instrumental)", "山崎エリイ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8c53cf01-1e03-4b8d-bee3-3994265a24a2", "https://vgmdb.net/album/82868"]
 
@@ -766,7 +766,7 @@ catalognumber = "COZC-1512~3"
 date = "2019-02-27"
 album = "Last Promise / 山崎エリイ Disc 2 (DVD) [COZC-1513]"
 tracks = [
-    [1, "Last Promise (Music Video)", "", 0],
+    [1, "Last Promise (Music Video)", "", 1],
     [2, "メイキング映像", "", 0],
 ]
 links = ["https://vgmdb.net/album/82868"]
@@ -776,10 +776,10 @@ catalognumber = "COCC-17565"
 date = "2019-02-27"
 album = "Last Promise / 山崎エリイ"
 tracks = [
-    [1, "Last Promise", "山崎エリイ", 0],
-    [2, "Shiny Sunny Sunday", "山崎エリイ", 0],
-    [3, "Last Promise (Instrumental)", "山崎エリイ", 0],
-    [4, "Shiny Sunny Sunday (Instrumental)", "山崎エリイ", 0],
+    [1, "Last Promise", "山崎エリイ", 1],
+    [2, "Shiny Sunny Sunday", "山崎エリイ", 1],
+    [3, "Last Promise (Instrumental)", "山崎エリイ", 1],
+    [4, "Shiny Sunny Sunday (Instrumental)", "山崎エリイ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8c53cf01-1e03-4b8d-bee3-3994265a24a2", "https://vgmdb.net/album/82867"]
 
@@ -788,25 +788,25 @@ catalognumber = "COCX-40779"
 date = "2019-05-22"
 album = "TVアニメ「デート・ア・ライブIII」ミュージック・セレクション DATE A \"World\" MUSIC"
 tracks = [
-    [1, "Looming Fear", "坂部剛", 0],
-    [2, "Enemy Battleship", "坂部剛", 0],
-    [3, "Rain in the Room", "坂部剛", 0],
-    [4, "AIMING!!!", "五河琴里（CV:竹達彩奈）", 0],
-    [5, "Diva’s March", "坂部剛", 0],
-    [6, "Diva’s Rondo", "坂部剛", 0],
-    [7, "Diva’s Voice", "坂部剛", 0],
-    [8, "Nightmare Session", "坂部剛", 0],
-    [9, "闇ノ向コウへ", "時崎狂三（CV:真田アサミ）", 0],
-    [10, "Conference", "坂部剛", 0],
-    [11, "Despotism", "坂部剛", 0],
-    [12, "I swear(Orchestra Version)", "坂部剛", 0],
-    [13, "傑姫来たりて華恋に躍れ", "夜刀神十香（CV:井上麻里奈）", 0],
-    [14, "Sunny Day Musical", "坂部剛", 0],
-    [15, "Singing For You", "坂部剛", 0],
-    [16, "Last Promise(TV Size Version)", "山崎エリイ", 0],
-    [17, "AIMING!!! -Instrumental-", "五河琴里（CV:竹達彩奈）", 0],
-    [18, "闇ノ向コウへ -Instrumental-", "時崎狂三（CV:真田アサミ）", 0],
-    [19, "傑姫来たりて華恋に躍れ -Instrumental-", "夜刀神十香（CV:井上麻里奈）", 0],
+    [1, "Looming Fear", "坂部剛", 1],
+    [2, "Enemy Battleship", "坂部剛", 1],
+    [3, "Rain in the Room", "坂部剛", 1],
+    [4, "AIMING!!!", "五河琴里（CV:竹達彩奈）", 1],
+    [5, "Diva’s March", "坂部剛", 1],
+    [6, "Diva’s Rondo", "坂部剛", 1],
+    [7, "Diva’s Voice", "坂部剛", 1],
+    [8, "Nightmare Session", "坂部剛", 1],
+    [9, "闇ノ向コウへ", "時崎狂三（CV:真田アサミ）", 1],
+    [10, "Conference", "坂部剛", 1],
+    [11, "Despotism", "坂部剛", 1],
+    [12, "I swear(Orchestra Version)", "坂部剛", 1],
+    [13, "傑姫来たりて華恋に躍れ", "夜刀神十香（CV:井上麻里奈）", 1],
+    [14, "Sunny Day Musical", "坂部剛", 1],
+    [15, "Singing For You", "坂部剛", 1],
+    [16, "Last Promise(TV Size Version)", "山崎エリイ", 1],
+    [17, "AIMING!!! -Instrumental-", "五河琴里（CV:竹達彩奈）", 1],
+    [18, "闇ノ向コウへ -Instrumental-", "時崎狂三（CV:真田アサミ）", 1],
+    [19, "傑姫来たりて華恋に躍れ -Instrumental-", "夜刀神十香（CV:井上麻里奈）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b17d7dac-a417-4814-8896-ac740b4962b6", "https://vgmdb.net/album/85518"]
 
@@ -815,25 +815,25 @@ catalognumber = "COCX-40747"
 date = "2019-05-22"
 album = "TVアニメ「デート・ア・ライブIII」ミュージック・セレクション DATE A \"Unforgettable\" MUSIC"
 tracks = [
-    [1, "I swear(TV Size Version)", "sweet ARMS", 0],
-    [2, "Hidden Trick", "坂部剛", 0],
-    [3, "Natsumi1", "坂部剛", 0],
-    [4, "Natsumi2", "坂部剛", 0],
-    [5, "Bipolar emotion", "七罪（CV:真野あゆみ）", 0],
-    [6, "AHIH", "坂部剛", 0],
-    [7, "Tobiichi Devil", "坂部剛", 0],
-    [8, "Origami", "坂部剛", 0],
-    [9, "渚のパフューム", "誘宵美九（CV:茅原実里）", 0],
-    [10, "Uncertain Zone", "坂部剛", 0],
-    [11, "Lament", "坂部剛", 0],
-    [12, "Wedding March", "坂部剛", 0],
-    [13, "Or again…", "鳶一折紙（CV:富樫美鈴）", 0],
-    [14, "Shido Funk", "坂部剛", 0],
-    [15, "Revue of Shido", "坂部剛", 0],
-    [16, "A.D.V / 僕の日常", "五河士道（CV:島﨑信長）", 0],
-    [17, "Bipolar emotion -Instrumental-", "坂部剛", 0],
-    [18, "Or again… -Instrumental-", "坂部剛", 0],
-    [19, "A.D.V / 僕の日常 -Instrumental-", "坂部剛", 0],
+    [1, "I swear(TV Size Version)", "sweet ARMS", 1],
+    [2, "Hidden Trick", "坂部剛", 1],
+    [3, "Natsumi1", "坂部剛", 1],
+    [4, "Natsumi2", "坂部剛", 1],
+    [5, "Bipolar emotion", "七罪（CV:真野あゆみ）", 1],
+    [6, "AHIH", "坂部剛", 1],
+    [7, "Tobiichi Devil", "坂部剛", 1],
+    [8, "Origami", "坂部剛", 1],
+    [9, "渚のパフューム", "誘宵美九（CV:茅原実里）", 2],
+    [10, "Uncertain Zone", "坂部剛", 1],
+    [11, "Lament", "坂部剛", 1],
+    [12, "Wedding March", "坂部剛", 1],
+    [13, "Or again…", "鳶一折紙（CV:富樫美鈴）", 1],
+    [14, "Shido Funk", "坂部剛", 1],
+    [15, "Revue of Shido", "坂部剛", 1],
+    [16, "A.D.V / 僕の日常", "五河士道（CV:島﨑信長）", 1],
+    [17, "Bipolar emotion -Instrumental-", "坂部剛", 1],
+    [18, "Or again… -Instrumental-", "坂部剛", 1],
+    [19, "A.D.V / 僕の日常 -Instrumental-", "坂部剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92f33a6d-716f-4942-bfd0-d9b7bf1f6d51", "https://vgmdb.net/album/85517"]
 
@@ -846,27 +846,27 @@ tracks = [
     [2, "Quiet Day", "林茂樹", 0],
     [3, "A Looming Crisis", "林茂樹", 0],
     [4, "Dream", "林茂樹", 0],
-    [5, "Comical", "林茂樹", 0],
+    [5, "Comical", "林茂樹", 1],
     [6, "Let's Date!", "林茂樹", 0],
     [7, "Morning", "林茂樹", 0],
     [8, "Nostalgia", "林茂樹", 0],
     [9, "Evening", "林茂樹", 0],
-    [10, "Festival", "林茂樹", 0],
+    [10, "Festival", "林茂樹", 1],
     [11, "Friends", "林茂樹", 0],
-    [12, "Report", "林茂樹", 0],
+    [12, "Report", "林茂樹", 1],
     [13, "Delightful Time", "林茂樹", 0],
     [14, "Threat", "林茂樹", 0],
     [15, "Doubt", "林茂樹", 0],
     [16, "Pessimism", "林茂樹", 0],
     [17, "Trio", "林茂樹", 0],
-    [18, "The Perverted World", "林茂樹", 0],
-    [19, "Main Theme", "林茂樹", 0],
+    [18, "The Perverted World", "林茂樹", 1],
+    [19, "Main Theme", "林茂樹", 1],
     [20, "Utopia", "林茂樹", 0],
     [21, "Fraxinus Theme", "林茂樹", 0],
     [22, "Decisive Battle", "林茂樹", 0],
     [23, "Occult", "林茂樹", 0],
     [24, "Supernormal Existence", "林茂樹", 0],
-    [25, "Amusement", "林茂樹", 0],
+    [25, "Amusement", "林茂樹", 1],
     [26, "Left Behind", "林茂樹", 0],
     [27, "Rio Reincarnation", "林茂樹", 0],
 ]
@@ -913,7 +913,7 @@ tracks = [
     [11, "通し道歌", "ホライゾン・アリアダスト (CV:茅原実里)", 0],
     [12, "Because of “S”adness", "名瀬美月(CV.茅原実里)", 0],
     [13, "NAME OF FLOWER", "茅原実里", 0],
-    [14, "My Treasure", "誘宵美九(CV:茅原実里)", 0],
+    [14, "My Treasure", "誘宵美九(CV:茅原実里)", 1],
     [15, "Borderless journey", "鹿島乃亜 (CV: 茅原実里)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e76e16f4-98ed-4245-af53-f250690b5dda", "https://vgmdb.net/album/93011"]
@@ -923,9 +923,9 @@ catalognumber = "COKM-42948"
 date = "2020-08-21"
 album = "「デート・ア・バレット デッド・オア・バレット」主題歌"
 tracks = [
-    [1, "Infermata", "Spotlight Kids", 0],
-    [2, "Only wish", "Luiza", 0],
-    [3, "Only wish (Instrumental)", "Luiza", 0],
+    [1, "Infermata", "Spotlight Kids", 1],
+    [2, "Only wish", "Luiza", 1],
+    [3, "Only wish (Instrumental)", "Luiza", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d388217-ac10-438a-a654-44eac0c0211d", "https://vgmdb.net/album/102609"]
 
@@ -948,22 +948,22 @@ catalognumber = "COCX-41246"
 date = "2020-10-21"
 album = "デート・ア・ライブ キャラクターソングコレクション"
 tracks = [
-    [1, "Hatsukoi Winding Road", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 0],
-    [2, "恋色折紙", "鳶一折紙(CV:富樫美鈴)", 0],
-    [3, "ひつじの樹海", "村雨令音(CV:遠藤綾)", 0],
-    [4, "リトル妹ドロップス", "崇宮真那(CV:味里)", 0],
-    [5, "monochrome", "誘宵美九(CV:茅原実里)", 0],
-    [6, "DOUBLE PUNCH LOVE", "八舞耶倶矢(CV:内田真礼)、八舞夕弦(CV:ブリドカットセーラ恵美)", 0],
-    [7, "Lonely, Morning, Dreaming", "四糸乃(CV:野水伊織)", 0],
-    [8, "melt (on the border)", "五河琴里(CV:竹達彩奈)", 0],
-    [9, "美味しいデェト", "夜刀神十香(CV井上麻里奈)", 0],
-    [10, "Resolution", "万由里(CV雨宮天)", 0],
-    [11, "Not Forget", "園神凜緒(CV:佐倉綾音)", 0],
-    [12, "Bipolar emotion", "七罪（CV:真野あゆみ）", 0],
-    [13, "闇ノ向コウへ", "時崎狂三（CV:真田アサミ）", 0],
-    [14, "A.D.V / 僕の日常", "五河士道（CV:島﨑信長）", 0],
-    [15, "甘言誘惑 Receptor", "sweet ARMS", 0],
-    [16, "Never Ending Love Story", "野水伊織", 0],
+    [1, "Hatsukoi Winding Road", "リリコ(CV:積田かよ子)、幼馴染(CV:村井理沙子)、先輩(CV:月宮みどり)", 1],
+    [2, "恋色折紙", "鳶一折紙(CV:富樫美鈴)", 1],
+    [3, "ひつじの樹海", "村雨令音(CV:遠藤綾)", 1],
+    [4, "リトル妹ドロップス", "崇宮真那(CV:味里)", 1],
+    [5, "monochrome", "誘宵美九(CV:茅原実里)", 1],
+    [6, "DOUBLE PUNCH LOVE", "八舞耶倶矢(CV:内田真礼)、八舞夕弦(CV:ブリドカットセーラ恵美)", 1],
+    [7, "Lonely, Morning, Dreaming", "四糸乃(CV:野水伊織)", 1],
+    [8, "melt (on the border)", "五河琴里(CV:竹達彩奈)", 1],
+    [9, "美味しいデェト", "夜刀神十香(CV井上麻里奈)", 1],
+    [10, "Resolution", "万由里(CV雨宮天)", 1],
+    [11, "Not Forget", "園神凜緒(CV:佐倉綾音)", 1],
+    [12, "Bipolar emotion", "七罪（CV:真野あゆみ）", 1],
+    [13, "闇ノ向コウへ", "時崎狂三（CV:真田アサミ）", 1],
+    [14, "A.D.V / 僕の日常", "五河士道（CV:島﨑信長）", 1],
+    [15, "甘言誘惑 Receptor", "sweet ARMS", 1],
+    [16, "Never Ending Love Story", "野水伊織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b5cb7d08-bfdd-45fa-9dc5-bc2492595d0e", "https://vgmdb.net/album/101941"]
 
@@ -972,7 +972,7 @@ catalognumber = "COKM-42949"
 date = "2020-10-21"
 album = "Only wish (Chinese Version) / Mes"
 tracks = [
-    [1, "Only wish (Chinese Version)", "Mes", 0],
+    [1, "Only wish (Chinese Version)", "Mes", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e286951b-650c-44d6-8391-1fc04a11d97c", "https://vgmdb.net/album/105364"]
 
@@ -981,17 +981,17 @@ catalognumber = "COKM-43063"
 date = "2020-11-20"
 album = "「デート・ア・バレット」後編「ナイトメア・オア・クイーン」エンディング・テーマ&BGM"
 tracks = [
-    [1, "Precious", "RinamooN", 0],
-    [2, "Precious (Instrumental)", "RinamooN", 0],
-    [3, "The Piece of White", "坂部剛", 0],
-    [4, "Zero Time Left", "坂部剛", 0],
-    [5, "Dream or Real", "坂部剛", 0],
-    [6, "Floating in the Sky", "坂部剛", 0],
-    [7, "Melee", "坂部剛", 0],
-    [8, "Rhapsody‐Sorrow", "坂部剛", 0],
-    [9, "The Queen of White", "坂部剛", 0],
-    [10, "Hidden Tale", "坂部剛", 0],
-    [11, "Dance with Bullets", "坂部剛", 0],
+    [1, "Precious", "RinamooN", 1],
+    [2, "Precious (Instrumental)", "RinamooN", 1],
+    [3, "The Piece of White", "坂部剛", 1],
+    [4, "Zero Time Left", "坂部剛", 1],
+    [5, "Dream or Real", "坂部剛", 1],
+    [6, "Floating in the Sky", "坂部剛", 1],
+    [7, "Melee", "坂部剛", 1],
+    [8, "Rhapsody‐Sorrow", "坂部剛", 1],
+    [9, "The Queen of White", "坂部剛", 1],
+    [10, "Hidden Tale", "坂部剛", 1],
+    [11, "Dance with Bullets", "坂部剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8e715601-0816-435e-8c26-a6d9c62d1608", "https://vgmdb.net/album/106222"]
 
@@ -1000,23 +1000,23 @@ catalognumber = "COCX-41408"
 date = "2021-03-24"
 album = "デート・ア・バレット \"DATE A BULLET MUSIC\""
 tracks = [
-    [1, "Infermata (Opening Theme)", "Spotlight Kids", 0],
-    [2, "The Piece of White", "坂部剛", 0],
-    [3, "Dream or Real", "坂部剛", 0],
-    [4, "Floating in the Sky", "坂部剛", 0],
-    [5, "Melee", "坂部剛", 0],
-    [6, "The Queen of White", "坂部剛", 0],
-    [7, "Hidden Tale", "坂部剛", 0],
-    [8, "Zero Time Left", "坂部剛", 0],
-    [9, "Dance with Bullets", "坂部剛", 0],
-    [10, "Rhapsody‐Sorrow", "坂部剛", 0],
-    [11, "Only wish -Short Size- (Ending Theme 1)", "Luiza", 0],
-    [12, "Precious -Short Size- (Ending Theme 2)", "RinamooN", 0],
-    [13, "Only Wish", "Luiza", 0],
-    [14, "Precious", "RinamooN", 0],
-    [15, "Only Wish -Instrumental-", "Luiza", 0],
-    [16, "Precious -Instrumental-", "RinamooN", 0],
-    [17, "Only Wish -Chinese Version-", "Mes", 0],
+    [1, "Infermata (Opening Theme)", "Spotlight Kids", 1],
+    [2, "The Piece of White", "坂部剛", 1],
+    [3, "Dream or Real", "坂部剛", 1],
+    [4, "Floating in the Sky", "坂部剛", 1],
+    [5, "Melee", "坂部剛", 1],
+    [6, "The Queen of White", "坂部剛", 1],
+    [7, "Hidden Tale", "坂部剛", 1],
+    [8, "Zero Time Left", "坂部剛", 1],
+    [9, "Dance with Bullets", "坂部剛", 1],
+    [10, "Rhapsody‐Sorrow", "坂部剛", 1],
+    [11, "Only wish -Short Size- (Ending Theme 1)", "Luiza", 1],
+    [12, "Precious -Short Size- (Ending Theme 2)", "RinamooN", 1],
+    [13, "Only Wish", "Luiza", 1],
+    [14, "Precious", "RinamooN", 1],
+    [15, "Only Wish -Instrumental-", "Luiza", 1],
+    [16, "Precious -Instrumental-", "RinamooN", 1],
+    [17, "Only Wish -Chinese Version-", "Mes", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fca7c809-fd6c-4f64-8f1b-55186add952f", "https://vgmdb.net/album/108311"]
 
@@ -1025,23 +1025,23 @@ catalognumber = "COCX-41664"
 date = "2022-04-13"
 album = "「デート・ア・ライブ」主題歌大全集"
 tracks = [
-    [1, "デート・ア・ライブ", "sweet ARMS", 0],
-    [2, "Trust in you", "sweet ARMS", 0],
-    [3, "Day to Story", "佐土原かおり", 0],
-    [4, "Invisible Date", "sweet ARMS", 0],
-    [5, "I swear", "sweet ARMS", 0],
-    [6, "Last Promise", "山崎エリイ", 0],
-    [7, "Infermata", "Spotlight Kids", 0],
-    [8, "Only Wish", "Luiza", 0],
-    [9, "Precious", "RinamooN", 0],
-    [10, "デート・イン・ユートピア", "sweet ARMS", 0],
-    [11, "きっと ずっと", "sweet ARMS", 0],
-    [12, "インストレーション", "sweet ARMS", 0],
-    [13, "エターナルワールド", "佐土原かおり", 0],
-    [14, "Key of Truth", "sweet ARMS", 0],
-    [15, "Not Forget", "味里", 0],
-    [16, "甘言誘惑 Receptor", "sweet ARMS", 0],
-    [17, "Never Ending Love story", "野水伊織", 0],
+    [1, "デート・ア・ライブ", "sweet ARMS", 1],
+    [2, "Trust in you", "sweet ARMS", 1],
+    [3, "Day to Story", "佐土原かおり", 1],
+    [4, "Invisible Date", "sweet ARMS", 1],
+    [5, "I swear", "sweet ARMS", 1],
+    [6, "Last Promise", "山崎エリイ", 1],
+    [7, "Infermata", "Spotlight Kids", 1],
+    [8, "Only Wish", "Luiza", 1],
+    [9, "Precious", "RinamooN", 1],
+    [10, "デート・イン・ユートピア", "sweet ARMS", 1],
+    [11, "きっと ずっと", "sweet ARMS", 1],
+    [12, "インストレーション", "sweet ARMS", 1],
+    [13, "エターナルワールド", "佐土原かおり", 1],
+    [14, "Key of Truth", "sweet ARMS", 1],
+    [15, "Not Forget", "味里", 1],
+    [16, "甘言誘惑 Receptor", "sweet ARMS", 1],
+    [17, "Never Ending Love story", "野水伊織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96457cd4-38cf-48c2-bb6c-b39b9ccce8b0", "https://vgmdb.net/album/115568"]
 
@@ -1050,10 +1050,10 @@ catalognumber = "COCC-17956"
 date = "2022-04-20"
 album = "OveR / 富田美憂"
 tracks = [
-    [1, "OveR", "富田美憂", 0],
-    [2, "ねえ、君に", "富田美憂", 0],
-    [3, "OveR (Instrumental)", "富田美憂", 0],
-    [4, "ねえ、君に (Instrumental)", "富田美憂", 0],
+    [1, "OveR", "富田美憂", 1],
+    [2, "ねえ、君に", "富田美憂", 1],
+    [3, "OveR (Instrumental)", "富田美憂", 1],
+    [4, "ねえ、君に (Instrumental)", "富田美憂", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/68bb0362-1846-4500-929e-7948564ad9e2", "https://vgmdb.net/album/117730"]
 
@@ -1062,10 +1062,10 @@ catalognumber = "COZC-1862~3"
 date = "2022-04-20"
 album = "OveR / 富田美憂 [初回限定盤] Vocal"
 tracks = [
-    [1, "OveR", "富田美憂", 0],
-    [2, "ねえ、君に", "富田美憂", 0],
-    [3, "OveR (Instrumental)", "富田美憂", 0],
-    [4, "ねえ、君に (Instrumental)", "富田美憂", 0],
+    [1, "OveR", "富田美憂", 1],
+    [2, "ねえ、君に", "富田美憂", 1],
+    [3, "OveR (Instrumental)", "富田美憂", 1],
+    [4, "ねえ、君に (Instrumental)", "富田美憂", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e36a347-52e1-470c-b3e5-36a89000ae92", "https://vgmdb.net/album/117731"]
 
@@ -1074,8 +1074,8 @@ catalognumber = "COZC-1862~3"
 date = "2022-04-20"
 album = "OveR / 富田美憂 [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "OveR (ミュージックビデオ)", "富田美憂", 0],
-    [2, "OveR (メイキング)", "富田美憂", 0],
+    [1, "OveR (ミュージックビデオ)", "富田美憂", 1],
+    [2, "OveR (メイキング)", "富田美憂", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e36a347-52e1-470c-b3e5-36a89000ae92", "https://vgmdb.net/album/117731"]
 
@@ -1084,12 +1084,12 @@ catalognumber = "COCC-17954"
 date = "2022-04-27"
 album = "S.O.S / sweet ARMS"
 tracks = [
-    [1, "S.O.S", "sweet ARMS", 0],
-    [2, "S.O.S -Iori Nomizu Version-", "野水伊織", 0],
-    [3, "S.O.S -Misuzu Togashi Version-", "富樫美鈴", 0],
-    [4, "S.O.S -Kaori Sadohara Version-", "佐土原かおり", 0],
-    [5, "S.O.S -Misato Version-", "味里", 0],
-    [6, "S.O.S -Instrumental-", "sweet ARMS", 0],
+    [1, "S.O.S", "sweet ARMS", 1],
+    [2, "S.O.S -Iori Nomizu Version-", "野水伊織", 1],
+    [3, "S.O.S -Misuzu Togashi Version-", "富樫美鈴", 1],
+    [4, "S.O.S -Kaori Sadohara Version-", "佐土原かおり", 1],
+    [5, "S.O.S -Misato Version-", "味里", 1],
+    [6, "S.O.S -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7416d502-0e18-4244-b0d5-d0b5fa654485", "https://vgmdb.net/album/118322"]
 
@@ -1098,12 +1098,12 @@ catalognumber = "COZC-1860~1"
 date = "2022-04-27"
 album = "S.O.S / sweet ARMS [初回生産限定盤] Vocal"
 tracks = [
-    [1, "S.O.S", "sweet ARMS", 0],
-    [2, "S.O.S -Iori Nomizu Version-", "野水伊織", 0],
-    [3, "S.O.S -Misuzu Togashi Version-", "富樫美鈴", 0],
-    [4, "S.O.S -Kaori Sadohara Version-", "佐土原かおり", 0],
-    [5, "S.O.S -Misato Version-", "味里", 0],
-    [6, "S.O.S -Instrumental-", "sweet ARMS", 0],
+    [1, "S.O.S", "sweet ARMS", 1],
+    [2, "S.O.S -Iori Nomizu Version-", "野水伊織", 1],
+    [3, "S.O.S -Misuzu Togashi Version-", "富樫美鈴", 1],
+    [4, "S.O.S -Kaori Sadohara Version-", "佐土原かおり", 1],
+    [5, "S.O.S -Misato Version-", "味里", 1],
+    [6, "S.O.S -Instrumental-", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9ca2a0e5-dae4-4cf9-9300-678592431d44", "https://vgmdb.net/album/118323"]
 
@@ -1121,30 +1121,30 @@ catalognumber = "COCX-41762"
 date = "2022-06-29"
 album = "デート・ア・ライブIV オリジナル・サウンドトラック"
 tracks = [
-    [1, "OveR (TV Size Version)", "富田美憂", 0],
-    [2, "The Daring Girl", "坂部剛", 0],
-    [3, "Otome Road", "坂部剛", 0],
-    [4, "Tokiya", "坂部剛", 0],
-    [5, "My little shido GAME1", "坂部剛", 0],
-    [6, "My little shido GAME2", "坂部剛", 0],
-    [7, "Nia", "坂部剛", 0],
-    [8, "In The Dark", "坂部剛", 0],
-    [9, "Greatest Duel", "坂部剛", 0],
-    [10, "Evil Spirit", "坂部剛", 0],
-    [11, "Maria", "坂部剛", 0],
-    [12, "Woodman", "坂部剛", 0],
-    [13, "In The Space", "坂部剛", 0],
-    [14, "Mukuro 1", "坂部剛", 0],
-    [15, "Mukuro's Nostalgia", "坂部剛", 0],
-    [16, "Jealous", "坂部剛", 0],
-    [17, "Self-Destruction", "坂部剛", 0],
-    [18, "Sincere Trust", "坂部剛", 0],
-    [19, "Mukuro 2", "坂部剛", 0],
-    [20, "Initiating", "坂部剛", 0],
-    [21, "Clockwork", "坂部剛", 0],
-    [22, "The Dreamed Days", "坂部剛", 0],
-    [23, "Rhapsody - Time", "坂部剛", 0],
-    [24, "S.O.S (TV Size Version)", "sweet ARMS", 0],
+    [1, "OveR (TV Size Version)", "富田美憂", 1],
+    [2, "The Daring Girl", "坂部剛", 1],
+    [3, "Otome Road", "坂部剛", 1],
+    [4, "Tokiya", "坂部剛", 1],
+    [5, "My little shido GAME1", "坂部剛", 1],
+    [6, "My little shido GAME2", "坂部剛", 1],
+    [7, "Nia", "坂部剛", 1],
+    [8, "In The Dark", "坂部剛", 1],
+    [9, "Greatest Duel", "坂部剛", 1],
+    [10, "Evil Spirit", "坂部剛", 1],
+    [11, "Maria", "坂部剛", 1],
+    [12, "Woodman", "坂部剛", 1],
+    [13, "In The Space", "坂部剛", 1],
+    [14, "Mukuro 1", "坂部剛", 1],
+    [15, "Mukuro's Nostalgia", "坂部剛", 1],
+    [16, "Jealous", "坂部剛", 1],
+    [17, "Self-Destruction", "坂部剛", 1],
+    [18, "Sincere Trust", "坂部剛", 1],
+    [19, "Mukuro 2", "坂部剛", 1],
+    [20, "Initiating", "坂部剛", 1],
+    [21, "Clockwork", "坂部剛", 1],
+    [22, "The Dreamed Days", "坂部剛", 1],
+    [23, "Rhapsody - Time", "坂部剛", 1],
+    [24, "S.O.S (TV Size Version)", "sweet ARMS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f41f8757-457c-4388-a5f4-6d9ee022f1e5", "https://vgmdb.net/album/119732"]
 
@@ -1202,7 +1202,7 @@ date = "2024-08-28"
 album = "Violet Bullet / 富田美憂 Vocal"
 tracks = [
     [1, "Ever Changing Violet", "富田美憂", 0],
-    [2, "OveR", "富田美憂", 0],
+    [2, "OveR", "富田美憂", 1],
     [3, "Silent Beat", "富田美憂", 0],
     [4, "Make a New Day", "富田美憂", 0],
     [5, "Dear Teddy", "富田美憂", 0],
@@ -1221,7 +1221,7 @@ album = "Violet Bullet / 富田美憂 Vocal, Video"
 tracks = [
     [1, "Ever Changing Violet (MV)", "富田美憂", 0],
     [2, "Ever Changing Violet (メイキング映像)", "富田美憂", 0],
-    [3, "OveR (MV)", "富田美憂", 0],
+    [3, "OveR (MV)", "富田美憂", 1],
     [4, "Paradoxes (MV)", "富田美憂", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6bb901b9-9364-4a88-8fc1-496af21495ea", "https://vgmdb.net/album/142288"]
@@ -1232,7 +1232,7 @@ date = "2024-08-28"
 album = "Violet Bullet / 富田美憂"
 tracks = [
     [1, "Ever Changing Violet", "富田美憂", 0],
-    [2, "OveR", "富田美憂", 0],
+    [2, "OveR", "富田美憂", 1],
     [3, "Silent Beat", "富田美憂", 0],
     [4, "Make a New Day", "富田美憂", 0],
     [5, "Dear Teddy", "富田美憂", 0],
