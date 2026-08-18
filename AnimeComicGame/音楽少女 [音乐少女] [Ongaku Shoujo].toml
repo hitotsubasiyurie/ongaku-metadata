@@ -3,10 +3,10 @@ catalognumber = "CORE-00008"
 date = "2012-12-29"
 album = "音楽少女"
 tracks = [
-    [1, "Rock Me!", "千歳ハル (CV 沼倉愛美)", 0],
-    [2, "Moonlight Forest", "熊谷絵里 (CV 瀬戸麻沙美)", 0],
-    [3, "Rock Me! (inst)", "AKIRASTAR", 0],
-    [4, "Moonlight Forest (inst)", "Taishi (Electro muster)", 0],
+    [1, "Rock Me!", "千歳ハル (CV 沼倉愛美)", 1],
+    [2, "Moonlight Forest", "熊谷絵里 (CV 瀬戸麻沙美)", 1],
+    [3, "Rock Me! (inst)", "AKIRASTAR", 1],
+    [4, "Moonlight Forest (inst)", "Taishi (Electro muster)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e156caad-e4cb-4f43-a183-16805ddb9513", "https://vgmdb.net/album/79095"]
 
@@ -31,11 +31,11 @@ catalognumber = "CORE-00013"
 date = "2013-03-29"
 album = "Electronic Resonance / 熊谷絵里"
 tracks = [
-    [1, "Moonlight Forest", "熊谷絵里 (CV 瀬戸麻沙美)", 0],
-    [2, "Back to Marie", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [3, "Crystal Sound", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [4, "Sword of the Light", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [5, "Dear My Friend", "熊谷絵里（cv,瀬戸麻沙美）", 0],
+    [1, "Moonlight Forest", "熊谷絵里 (CV 瀬戸麻沙美)", 1],
+    [2, "Back to Marie", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [3, "Crystal Sound", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [4, "Sword of the Light", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [5, "Dear My Friend", "熊谷絵里（cv,瀬戸麻沙美）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/25eba500-7008-4abd-89e4-df1a90843fee", "https://vgmdb.net/album/45156"]
 
@@ -44,11 +44,11 @@ catalognumber = "CORE-00012"
 date = "2013-03-29"
 album = "Rock the Hero / 千歳ハル"
 tracks = [
-    [1, "EVERYDAY HERO", "千歳ハル（cv,沼倉愛美）", 0],
-    [2, "Rock Me!", "千歳ハル (CV 沼倉愛美)", 0],
-    [3, "サンシャイン・ベイブ", "千歳ハル（cv,沼倉愛美）", 0],
-    [4, "天空戦隊ゼロウィンガー", "千歳ハル（cv,沼倉愛美）", 0],
-    [5, "Re：フレンド", "千歳ハル（cv,沼倉愛美）", 0],
+    [1, "EVERYDAY HERO", "千歳ハル（cv,沼倉愛美）", 1],
+    [2, "Rock Me!", "千歳ハル (CV 沼倉愛美)", 1],
+    [3, "サンシャイン・ベイブ", "千歳ハル（cv,沼倉愛美）", 1],
+    [4, "天空戦隊ゼロウィンガー", "千歳ハル（cv,沼倉愛美）", 1],
+    [5, "Re：フレンド", "千歳ハル（cv,沼倉愛美）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ea76d4f3-923c-4ed6-8a92-464824e4e481", "https://vgmdb.net/album/79096"]
 
@@ -57,10 +57,10 @@ catalognumber = "CORE-00018"
 date = "2013-08-10"
 album = "World Heroes/回る日輪"
 tracks = [
-    [1, "World Heroes", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [2, "廻る日輪", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [3, "World Heroes(inst)", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [4, "廻る日輪(inst)", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 0],
+    [1, "World Heroes", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [2, "廻る日輪", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [3, "World Heroes(inst)", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [4, "廻る日輪(inst)", "千歳ハル（cv,沼倉愛美）&熊谷絵里（cv,瀬戸麻沙美）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d9dd372e-fa07-4c69-83ae-97b03bd6ea27", "https://vgmdb.net/album/79098"]
 
@@ -69,10 +69,10 @@ catalognumber = "CORE-00020"
 date = "2013-12-29"
 album = "Lucy & Starlit Walk"
 tracks = [
-    [1, "Lucy", "千歳ハル（cv,沼倉愛美）", 0],
-    [2, "Starlit Walk", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [3, "Lucy(inst)", "千歳ハル（cv,沼倉愛美）", 0],
-    [4, "Starlit Walk(inst)", "熊谷絵里（cv,瀬戸麻沙美）", 0],
+    [1, "Lucy", "千歳ハル（cv,沼倉愛美）", 1],
+    [2, "Starlit Walk", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [3, "Lucy(inst)", "千歳ハル（cv,沼倉愛美）", 1],
+    [4, "Starlit Walk(inst)", "熊谷絵里（cv,瀬戸麻沙美）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5de880e4-a083-45cf-8203-eec50acfabf3", "https://vgmdb.net/album/70510"]
 
@@ -81,10 +81,10 @@ catalognumber = "CORE-00022"
 date = "2014-04-26"
 album = "月面飛行のリリファ & ロックンロールキャット"
 tracks = [
-    [1, "月面飛行のリリファ", "熊谷絵里(cv,瀬戸麻沙美)", 0],
-    [2, "ロックンロールキャット", "千歳ハル(cv,沼倉愛美)", 0],
-    [3, "月面飛行のリリファ (Inst)", "熊谷絵里(cv,瀬戸麻沙美)", 0],
-    [4, "ロックンロールキャット (Inst)", "千歳ハル(cv,沼倉愛美)", 0],
+    [1, "月面飛行のリリファ", "熊谷絵里(cv,瀬戸麻沙美)", 1],
+    [2, "ロックンロールキャット", "千歳ハル(cv,沼倉愛美)", 1],
+    [3, "月面飛行のリリファ (Inst)", "熊谷絵里(cv,瀬戸麻沙美)", 1],
+    [4, "ロックンロールキャット (Inst)", "千歳ハル(cv,沼倉愛美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5cf194b8-bb49-4d31-be26-3e94ec3bb1aa", "https://vgmdb.net/album/79099"]
 
@@ -93,17 +93,17 @@ catalognumber = "CORE-00023"
 date = "2014-11-27"
 album = "Perfect Free"
 tracks = [
-    [1, "Perfect Free", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [2, "Lucy", "千歳ハル（cv,沼倉愛美）", 0],
-    [3, "月面飛行のリリファ", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [4, "Angelfire", "千歳ハル（cv,沼倉愛美）", 0],
-    [5, "メサイア・コンプレックス", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [6, "ロックンロールキャット", "千歳ハル（cv,沼倉愛美）", 0],
-    [7, "Good Answer", "千歳ハル（cv,沼倉愛美）", 0],
-    [8, "Starlit Walk", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [9, "廻る日輪", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [10, "Purely all stay there", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [11, "World Heroes", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 0],
+    [1, "Perfect Free", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [2, "Lucy", "千歳ハル（cv,沼倉愛美）", 1],
+    [3, "月面飛行のリリファ", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [4, "Angelfire", "千歳ハル（cv,沼倉愛美）", 1],
+    [5, "メサイア・コンプレックス", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [6, "ロックンロールキャット", "千歳ハル（cv,沼倉愛美）", 1],
+    [7, "Good Answer", "千歳ハル（cv,沼倉愛美）", 1],
+    [8, "Starlit Walk", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [9, "廻る日輪", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [10, "Purely all stay there", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [11, "World Heroes", "千歳ハル（cv,沼倉愛美）＆熊谷絵里（cv,瀬戸麻沙美）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/091173a8-425d-4c25-93bc-c504533172c1", "https://vgmdb.net/album/59166"]
 
@@ -112,10 +112,10 @@ catalognumber = "CORE-00024"
 date = "2014-12-28"
 album = "ネコガミ様に聞いてみて! & ドララドラ"
 tracks = [
-    [1, "ネコガミ様に聞いてみて!", "vo.竜王更紗/cv.渕上舞", 0],
-    [2, "ドララドラ ～畑の唄～", "vo.竜王更紗/cv.渕上舞", 0],
-    [3, "ネコガミ様に聞いてみて! Instrumental", "竜王更紗", 0],
-    [4, "ドララドラ ～畑の唄～ Instrumental", "竜王更紗", 0],
+    [1, "ネコガミ様に聞いてみて!", "vo.竜王更紗/cv.渕上舞", 1],
+    [2, "ドララドラ ～畑の唄～", "vo.竜王更紗/cv.渕上舞", 1],
+    [3, "ネコガミ様に聞いてみて! Instrumental", "竜王更紗", 1],
+    [4, "ドララドラ ～畑の唄～ Instrumental", "竜王更紗", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/74aa60b9-e166-4a81-b5b6-0ac83d99fd36", "https://vgmdb.net/album/70509"]
 
@@ -124,12 +124,12 @@ catalognumber = "CORE-00026"
 date = "2015-06-26"
 album = "3STARS"
 tracks = [
-    [1, "Visionary", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [2, "ギブミーエブリシングO.K.", "千歳ハル（cv,沼倉愛美）", 0],
-    [3, "サクラ・グッドバイ", "竜王更紗（cv,渕上舞）", 0],
-    [4, "Visionary (instrumental)", "熊谷絵里（cv,瀬戸麻沙美）", 0],
-    [5, "ギブミーエブリシングO.K. (instrumental)", "千歳ハル（cv,沼倉愛美）", 0],
-    [6, "サクラ・グッドバイ (instrumental)", "竜王更紗（cv,渕上舞）", 0],
+    [1, "Visionary", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [2, "ギブミーエブリシングO.K.", "千歳ハル（cv,沼倉愛美）", 1],
+    [3, "サクラ・グッドバイ", "竜王更紗（cv,渕上舞）", 1],
+    [4, "Visionary (instrumental)", "熊谷絵里（cv,瀬戸麻沙美）", 1],
+    [5, "ギブミーエブリシングO.K. (instrumental)", "千歳ハル（cv,沼倉愛美）", 1],
+    [6, "サクラ・グッドバイ (instrumental)", "竜王更紗（cv,渕上舞）", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/949e70a9-d013-46a7-b73b-960be1709423", "https://vgmdb.net/album/79100"]
 
@@ -138,10 +138,10 @@ catalognumber = "CORE-00028"
 date = "2015-08-14"
 album = "Summer Little Rainbow & フライング・ソーサー"
 tracks = [
-    [1, "Summer Little Rainbow", "竜王更紗", 0],
-    [2, "フライング・ソーサー", "竜王更紗", 0],
-    [3, "Summer Little Rainbow(instrumental)", "竜王更紗", 0],
-    [4, "フライング・ソーサー(instrumental)", "竜王更紗", 0],
+    [1, "Summer Little Rainbow", "竜王更紗", 1],
+    [2, "フライング・ソーサー", "竜王更紗", 1],
+    [3, "Summer Little Rainbow(instrumental)", "竜王更紗", 1],
+    [4, "フライング・ソーサー(instrumental)", "竜王更紗", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9817990d-f465-42de-aa9a-9183cf23b48b", "https://vgmdb.net/album/79103"]
 
@@ -150,14 +150,14 @@ catalognumber = "NKCD-6730"
 date = "2015-12-29"
 album = "Justability"
 tracks = [
-    [1, "Justability", "千歳ハル（cv 沼倉愛美） 熊谷絵里（cv 瀬戸麻沙美） 竜王更紗（cv 渕上舞）", 0],
-    [2, "The Sixteen", "千歳ハル（cv 沼倉愛美）", 0],
-    [3, "Winteright", "熊谷絵里（cv 瀬戸麻沙美）", 0],
-    [4, "コアクマ・スマイリー", "竜王更紗（cv 渕上舞）", 0],
-    [5, "Justability (instrumental)", "音楽少女", 0],
-    [6, "The Sixteen (instrumental)", "音楽少女", 0],
-    [7, "Winteright (instrumental)", "音楽少女", 0],
-    [8, "コアクマ・スマイリー (instrumental)", "音楽少女", 0],
+    [1, "Justability", "千歳ハル（cv 沼倉愛美） 熊谷絵里（cv 瀬戸麻沙美） 竜王更紗（cv 渕上舞）", 1],
+    [2, "The Sixteen", "千歳ハル（cv 沼倉愛美）", 1],
+    [3, "Winteright", "熊谷絵里（cv 瀬戸麻沙美）", 1],
+    [4, "コアクマ・スマイリー", "竜王更紗（cv 渕上舞）", 1],
+    [5, "Justability (instrumental)", "音楽少女", 1],
+    [6, "The Sixteen (instrumental)", "音楽少女", 1],
+    [7, "Winteright (instrumental)", "音楽少女", 1],
+    [8, "コアクマ・スマイリー (instrumental)", "音楽少女", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad3c1c2a-4032-4034-bf02-37358cd7e5f4", "https://vgmdb.net/album/66956"]
 
@@ -166,10 +166,10 @@ catalognumber = "KICM-3342"
 date = "2018-06-06"
 album = "ON STAGE LIFE / 音楽少女"
 tracks = [
-    [1, "ON STAGE LIFE", "音楽少女", 0],
-    [2, "ON STAGE LIFE (Taishi ReMix)", "音楽少女", 0],
-    [3, "ON STAGE LIFE -off vocal ver.-", "かみじょう ゆうや", 0],
-    [4, "ON STAGE LIFE (Taishi ReMix)-off vocal ver.-", "かみじょう ゆうや", 0],
+    [1, "ON STAGE LIFE", "音楽少女", 2],
+    [2, "ON STAGE LIFE (Taishi ReMix)", "音楽少女", 1],
+    [3, "ON STAGE LIFE -off vocal ver.-", "かみじょう ゆうや", 1],
+    [4, "ON STAGE LIFE (Taishi ReMix)-off vocal ver.-", "かみじょう ゆうや", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0382843d-fcf9-4229-9680-f25d2dc66e9e", "https://vgmdb.net/album/76161"]
 
@@ -178,10 +178,10 @@ catalognumber = "KICM-3344"
 date = "2018-07-18"
 album = "terzetto rhapsody / H☆E☆S"
 tracks = [
-    [1, "terzetto rhapsody", "Ｈ☆Ｅ☆Ｓ", 0],
-    [2, "terzetto rhapsody（Taishi ReMix）", "Ｈ☆Ｅ☆Ｓ", 0],
-    [3, "terzetto rhapsody -off vocal ver.-", "吉田詩織", 0],
-    [4, "terzetto rhapsody（Taishi ReMix）-off vocal ver.-", "吉田詩織／Taishi", 0],
+    [1, "terzetto rhapsody", "Ｈ☆Ｅ☆Ｓ", 1],
+    [2, "terzetto rhapsody（Taishi ReMix）", "Ｈ☆Ｅ☆Ｓ", 1],
+    [3, "terzetto rhapsody -off vocal ver.-", "吉田詩織", 1],
+    [4, "terzetto rhapsody（Taishi ReMix）-off vocal ver.-", "吉田詩織／Taishi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/198a7cf5-7d7a-401e-ac0d-cab936f69b3b", "https://vgmdb.net/album/77325"]
 
@@ -190,11 +190,11 @@ catalognumber = "KICM-1857"
 date = "2018-07-25"
 album = "永遠少年 / 小倉唯"
 tracks = [
-    [1, "永遠少年", "小倉唯", 0],
-    [2, "Love Me × Love Me", "小倉唯", 0],
-    [3, "永遠少年 (TV size)", "小倉唯", 0],
-    [4, "永遠少年 (off vocal ver.)", "小倉唯", 0],
-    [5, "Love Me × Love Me (off vocal ver.)", "小倉唯", 0],
+    [1, "永遠少年", "小倉唯", 2],
+    [2, "Love Me × Love Me", "小倉唯", 1],
+    [3, "永遠少年 (TV size)", "小倉唯", 1],
+    [4, "永遠少年 (off vocal ver.)", "小倉唯", 1],
+    [5, "Love Me × Love Me (off vocal ver.)", "小倉唯", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/659ddfa4-f8fd-4431-8775-3c7e2f37d2d9", "https://vgmdb.net/album/77784"]
 
@@ -203,10 +203,10 @@ catalognumber = "KICM-91856"
 date = "2018-07-25"
 album = "永遠少年 / 小倉唯 Disc 1 (CD) [KICM-91856]"
 tracks = [
-    [1, "永遠少年", "小倉唯", 0],
-    [2, "Love Me × Love Me", "小倉唯", 0],
-    [3, "永遠少年 (off vocal ver.)", "小倉唯", 0],
-    [4, "Love Me × Love Me (off vocal ver.)", "小倉唯", 0],
+    [1, "永遠少年", "小倉唯", 1],
+    [2, "Love Me × Love Me", "小倉唯", 1],
+    [3, "永遠少年 (off vocal ver.)", "小倉唯", 1],
+    [4, "Love Me × Love Me (off vocal ver.)", "小倉唯", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/378d3097-2064-4f01-ba9d-827e7afbb18b", "https://vgmdb.net/album/77785"]
 
@@ -215,9 +215,9 @@ catalognumber = "KICM-91856"
 date = "2018-07-25"
 album = "永遠少年 / 小倉唯 Disc 2 (DVD) [SDG-10621]"
 tracks = [
-    [1, "永遠少年 (MUSIC VIDEO)", "小倉唯", 0],
-    [2, "Love Me × Love Me (MUSIC VIDEO)", "小倉唯", 0],
-    [3, "永遠少年 (MAKING)", "小倉唯", 0],
+    [1, "永遠少年 (MUSIC VIDEO)", "小倉唯", 1],
+    [2, "Love Me × Love Me (MUSIC VIDEO)", "小倉唯", 1],
+    [3, "永遠少年 (MAKING)", "小倉唯", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/378d3097-2064-4f01-ba9d-827e7afbb18b", "https://vgmdb.net/album/77785"]
 
@@ -226,12 +226,12 @@ catalognumber = "KICM-3345"
 date = "2018-07-25"
 album = "お願いマーガレット / 音楽少女"
 tracks = [
-    [1, "お願いマーガレット", "音楽少女", 0],
-    [2, "お願いマーガレット(雪野日陽ver.)", "雪野日陽(CV.大野柚布子)", 0],
-    [3, "universe melody", "雪野日陽(CV.大野柚布子)", 0],
-    [4, "お願いマーガレット -off vocal ver.-", "YUXSE", 0],
-    [5, "お願いマーガレット(雪野日陽ver.) -off vocal ver.-", "YUXSE", 0],
-    [6, "universe melody -off vocal ver.-", "吉田詩織", 0],
+    [1, "お願いマーガレット", "音楽少女", 1],
+    [2, "お願いマーガレット(雪野日陽ver.)", "雪野日陽(CV.大野柚布子)", 2],
+    [3, "universe melody", "雪野日陽(CV.大野柚布子)", 1],
+    [4, "お願いマーガレット -off vocal ver.-", "YUXSE", 1],
+    [5, "お願いマーガレット(雪野日陽ver.) -off vocal ver.-", "YUXSE", 1],
+    [6, "universe melody -off vocal ver.-", "吉田詩織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/077996ac-1dad-4023-8f33-7bc3d2a75abb", "https://vgmdb.net/album/77326"]
 
@@ -240,10 +240,10 @@ catalognumber = "KICM-3346"
 date = "2018-08-01"
 album = "輝け Make up! Shine☆ / 具志堅シュープ(CV:島袋美由利)"
 tracks = [
-    [1, "輝け Make up! Shine☆", "具志堅シュープ(CV.島袋美由利)", 0],
-    [2, "太陽（てぃーだ）の花", "具志堅シュープ(CV.島袋美由利)", 0],
-    [3, "輝け Make up! Shine☆ -off vocal ver.-", "塚田耕平", 0],
-    [4, "太陽（てぃーだ）の花 -off vocal ver.-", "小野貴光", 0],
+    [1, "輝け Make up! Shine☆", "具志堅シュープ(CV.島袋美由利)", 1],
+    [2, "太陽（てぃーだ）の花", "具志堅シュープ(CV.島袋美由利)", 2],
+    [3, "輝け Make up! Shine☆ -off vocal ver.-", "塚田耕平", 1],
+    [4, "太陽（てぃーだ）の花 -off vocal ver.-", "小野貴光", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f97f9f6e-9c72-4d08-806f-27504934c006", "https://vgmdb.net/album/77327"]
 
@@ -252,10 +252,10 @@ catalognumber = "KICM-3343"
 date = "2018-08-08"
 album = "シャイニング・ピース / 音楽少女"
 tracks = [
-    [1, "シャイニング・ピース", "音楽少女", 0],
-    [2, "シャイニング・ピース (Taishi ReMix)", "音楽少女", 0],
-    [3, "シャイニング・ピース -off vocal ver.-", "小野貴光", 0],
-    [4, "シャイニング・ピース (Taishi ReMix) -off vocal ver.-", "小野貴光", 0],
+    [1, "シャイニング・ピース", "音楽少女", 2],
+    [2, "シャイニング・ピース (Taishi ReMix)", "音楽少女", 1],
+    [3, "シャイニング・ピース -off vocal ver.-", "小野貴光", 1],
+    [4, "シャイニング・ピース (Taishi ReMix) -off vocal ver.-", "小野貴光", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/656fdfe7-78f7-410d-a01a-ef1476fe18df", "https://vgmdb.net/album/78127"]
 
@@ -264,10 +264,10 @@ catalognumber = "KICM-3347"
 date = "2018-08-08"
 album = "poppin'rain / 迎羽織(CV:小倉唯)"
 tracks = [
-    [1, "poppin’ rain", "迎羽織(CV.小倉唯)", 0],
-    [2, "be with you", "迎羽織(CV.小倉唯)", 0],
-    [3, "poppin’ rain -off vocal ver.-", "迎羽織(CV.小倉唯)", 0],
-    [4, "be with you -off vocal ver.-", "迎羽織(CV.小倉唯)", 0],
+    [1, "poppin’ rain", "迎羽織(CV.小倉唯)", 1],
+    [2, "be with you", "迎羽織(CV.小倉唯)", 1],
+    [3, "poppin’ rain -off vocal ver.-", "迎羽織(CV.小倉唯)", 1],
+    [4, "be with you -off vocal ver.-", "迎羽織(CV.小倉唯)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5b4207ca-f822-456c-a404-6e4a71c23aa0", "https://vgmdb.net/album/77328"]
 
@@ -276,10 +276,10 @@ catalognumber = "KICM-3348"
 date = "2018-08-15"
 album = "フライガール / 西尾未来(CV:岡咲美保)"
 tracks = [
-    [1, "フライガール", "西尾未来(CV.岡咲美保)", 0],
-    [2, "スタートライン", "西尾未来(CV.岡咲美保)", 0],
-    [3, "フライガール -off vocal ver.-", "武田マルキ", 0],
-    [4, "スタートライン -off vocal ver.-", "三井真一", 0],
+    [1, "フライガール", "西尾未来(CV.岡咲美保)", 2],
+    [2, "スタートライン", "西尾未来(CV.岡咲美保)", 2],
+    [3, "フライガール -off vocal ver.-", "武田マルキ", 1],
+    [4, "スタートライン -off vocal ver.-", "三井真一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b449c787-adc3-4a43-86a6-f50f2d30e670", "https://vgmdb.net/album/77329"]
 
@@ -288,10 +288,10 @@ catalognumber = "KICM-3349"
 date = "2018-08-22"
 album = "You are my only one / 金時琴子(CV:Lynn)"
 tracks = [
-    [1, "You are my only one", "金時琴子(CV.Lynn)", 0],
-    [2, "風になる", "金時琴子(CV.Lynn)", 0],
-    [3, "You are my only one -off vocal ver.-", "石井健太郎", 0],
-    [4, "風になる -off vocal ver.-", "藤田卓也", 0],
+    [1, "You are my only one", "金時琴子(CV.Lynn)", 2],
+    [2, "風になる", "金時琴子(CV.Lynn)", 1],
+    [3, "You are my only one -off vocal ver.-", "石井健太郎", 1],
+    [4, "風になる -off vocal ver.-", "藤田卓也", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3840c67a-9d79-43b4-8ea7-75a0f9d52f4b", "https://vgmdb.net/album/77330"]
 
@@ -300,14 +300,14 @@ catalognumber = "KICM-3350"
 date = "2018-08-29"
 album = "Let's sing!! / H☆E☆S"
 tracks = [
-    [1, "Let's sing!!", "Ｈ☆Ｅ☆Ｓ(千歳ハル<CV.沼倉愛美>、熊谷絵里<CV.瀬戸麻沙美>、竜王更紗<CV.渕上舞>)", 0],
-    [2, "Hope in the Song", "千歳ハル(CV.沼倉愛美)", 0],
-    [3, "Falling Down", "熊谷絵里(CV.瀬戸麻沙美)", 0],
-    [4, "コイキュウ", "竜王更紗(CV.渕上舞)", 0],
-    [5, "Let's sing!! -off vocal ver.-", "吉田詩織", 0],
-    [6, "Hope in the Song -off vocal ver.-", "Taishi", 0],
-    [7, "Falling Down -off vocal ver.-", "Taishi", 0],
-    [8, "コイキュウ -off vocal ver.-", "Taishi", 0],
+    [1, "Let's sing!!", "Ｈ☆Ｅ☆Ｓ(千歳ハル<CV.沼倉愛美>、熊谷絵里<CV.瀬戸麻沙美>、竜王更紗<CV.渕上舞>)", 1],
+    [2, "Hope in the Song", "千歳ハル(CV.沼倉愛美)", 1],
+    [3, "Falling Down", "熊谷絵里(CV.瀬戸麻沙美)", 1],
+    [4, "コイキュウ", "竜王更紗(CV.渕上舞)", 1],
+    [5, "Let's sing!! -off vocal ver.-", "吉田詩織", 1],
+    [6, "Hope in the Song -off vocal ver.-", "Taishi", 1],
+    [7, "Falling Down -off vocal ver.-", "Taishi", 1],
+    [8, "コイキュウ -off vocal ver.-", "Taishi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c95563c4-48bc-43cf-976a-be96dbfa6e2d", "https://vgmdb.net/album/77331"]
 
@@ -316,10 +316,10 @@ catalognumber = "KICM-3351"
 date = "2018-09-05"
 album = "オアシス / 諸岡ろろ(CV:江口菜子)"
 tracks = [
-    [1, "オアシス", "諸岡ろろ(CV.江口菜子)", 0],
-    [2, "そよ風に誘われて", "諸岡ろろ(CV.江口菜子)", 0],
-    [3, "オアシス-off vocal ver.-", "諸岡ろろ(CV.江口菜子)", 0],
-    [4, "そよ風に誘われて-off vocal ver.-", "諸岡ろろ(CV.江口菜子)", 0],
+    [1, "オアシス", "諸岡ろろ(CV.江口菜子)", 2],
+    [2, "そよ風に誘われて", "諸岡ろろ(CV.江口菜子)", 2],
+    [3, "オアシス-off vocal ver.-", "諸岡ろろ(CV.江口菜子)", 1],
+    [4, "そよ風に誘われて-off vocal ver.-", "諸岡ろろ(CV.江口菜子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b4a204a-2dcf-44b7-a82e-c8fba736574b", "https://vgmdb.net/album/77332"]
 
@@ -328,10 +328,10 @@ catalognumber = "KICM-3352"
 date = "2018-09-12"
 album = "Lovely trouble / 箕作沙々芽(CV:高橋花林)"
 tracks = [
-    [1, "Lovely trouble", "箕作沙々芽(CV.高橋花林)", 0],
-    [2, "ネオセンセーション！", "箕作沙々芽(CV.高橋花林)", 0],
-    [3, "Lovely trouble-off vocal ver.-", "箕作沙々芽(CV.高橋花林)", 0],
-    [4, "ネオセンセーション！off vocal ver.-", "箕作沙々芽(CV.高橋花林)", 0],
+    [1, "Lovely trouble", "箕作沙々芽(CV.高橋花林)", 2],
+    [2, "ネオセンセーション！", "箕作沙々芽(CV.高橋花林)", 1],
+    [3, "Lovely trouble-off vocal ver.-", "箕作沙々芽(CV.高橋花林)", 1],
+    [4, "ネオセンセーション！off vocal ver.-", "箕作沙々芽(CV.高橋花林)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/86515b64-c682-457a-aeab-18a0698603a1", "https://vgmdb.net/album/77333"]
 
@@ -340,10 +340,10 @@ catalognumber = "KICM-3353"
 date = "2018-09-19"
 album = "自由の空へ / 迎桐(CV:上坂すみれ)"
 tracks = [
-    [1, "自由の空へ", "迎桐(CV.上坂すみれ)", 0],
-    [2, "Dreaming Edelweiss", "迎桐(CV.上坂すみれ)", 0],
-    [3, "自由の空へ -off vocal ver.-", "迎桐(CV.上坂すみれ)", 0],
-    [4, "Dreaming Edelweiss -off vocal ver.-", "迎桐(CV.上坂すみれ)", 0],
+    [1, "自由の空へ", "迎桐(CV.上坂すみれ)", 1],
+    [2, "Dreaming Edelweiss", "迎桐(CV.上坂すみれ)", 1],
+    [3, "自由の空へ -off vocal ver.-", "迎桐(CV.上坂すみれ)", 1],
+    [4, "Dreaming Edelweiss -off vocal ver.-", "迎桐(CV.上坂すみれ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/858335f9-6eb7-4ea4-9887-d1e492cfb033", "https://vgmdb.net/album/77334"]
 
@@ -352,32 +352,32 @@ catalognumber = "SSX-10461"
 date = "2018-09-26"
 album = "音楽少女 オリジナル・サウンドトラック vol.1"
 tracks = [
-    [1, "はなこのテーマ", "", 0],
-    [2, "はなこの動き", "", 0],
-    [3, "はなこの仕事", "", 0],
-    [4, "慣れない仕事", "", 0],
-    [5, "はなこの思い", "", 0],
-    [6, "バトル", "", 0],
-    [7, "絶望", "", 0],
-    [8, "ノイズ", "", 0],
-    [9, "ドルドル", "", 0],
-    [10, "トラブル", "", 0],
-    [11, "はなれていく", "", 0],
-    [12, "脱走", "", 0],
-    [13, "てごたえなし", "", 0],
-    [14, "らぞく", "", 0],
-    [15, "大ダコ襲来", "", 0],
-    [16, "チェイス", "", 0],
-    [17, "羽織と桐", "", 0],
-    [18, "モーニング", "", 0],
-    [19, "どるちぇのテーマ", "", 0],
-    [20, "あやしい夜の海", "", 0],
-    [21, "そろりそろり", "", 0],
-    [22, "マイペース", "", 0],
-    [23, "ダッシュ", "", 0],
-    [24, "ポジティブ!", "", 0],
-    [25, "からまわり", "", 0],
-    [26, "音楽と", "", 0],
+    [1, "はなこのテーマ", "", 1],
+    [2, "はなこの動き", "", 1],
+    [3, "はなこの仕事", "", 1],
+    [4, "慣れない仕事", "", 1],
+    [5, "はなこの思い", "", 1],
+    [6, "バトル", "", 1],
+    [7, "絶望", "", 1],
+    [8, "ノイズ", "", 1],
+    [9, "ドルドル", "", 1],
+    [10, "トラブル", "", 1],
+    [11, "はなれていく", "", 1],
+    [12, "脱走", "", 1],
+    [13, "てごたえなし", "", 1],
+    [14, "らぞく", "", 1],
+    [15, "大ダコ襲来", "", 1],
+    [16, "チェイス", "", 1],
+    [17, "羽織と桐", "", 1],
+    [18, "モーニング", "", 1],
+    [19, "どるちぇのテーマ", "", 1],
+    [20, "あやしい夜の海", "", 1],
+    [21, "そろりそろり", "", 1],
+    [22, "マイペース", "", 1],
+    [23, "ダッシュ", "", 1],
+    [24, "ポジティブ!", "", 1],
+    [25, "からまわり", "", 1],
+    [26, "音楽と", "", 1],
 ]
 links = ["https://vgmdb.net/album/79044"]
 
@@ -386,21 +386,21 @@ catalognumber = "KICA-2534"
 date = "2018-09-26"
 album = "シャイニング・ピーシーズ / 音楽少女"
 tracks = [
-    [1, "シャイニング・ピース (12人 ver.)", "音楽少女", 0],
-    [2, "シャイニング・ピース (金時琴子ソロ ver.)", "金時琴子 (CV. Lynn)", 0],
-    [3, "シャイニング・ピース (迎羽織ソロ ver.)", "迎羽織 (CV. 小倉結衣)", 0],
-    [4, "シャイニング・ピース (迎桐ソロ ver.)", "迎桐 (CV. 上坂すみれ)", 0],
-    [5, "シャイニング・ピース (千歳ハルソロ ver.)", "千歳ハル (CV. 沼倉愛美)", 0],
-    [6, "シャイニング・ピース (熊谷絵里ソロ ver.)", "熊谷絵里 (CV. 瀬戸麻沙美)", 0],
-    [7, "シャイニング・ピース (竜王更紗ソロ ver.)", "竜王更紗 (CV. 渕上舞)", 0],
-    [8, "シャイニング・ピース (箕作沙々芽ソロ ver.)", "箕作沙々芽 (CV. 高橋花林)", 0],
-    [9, "シャイニング・ピース (西尾未来ソロ ver.)", "西尾未来 (CV. 岡咲美保)", 0],
-    [10, "シャイニング・ピース (雪野日陽ソロ ver.)", "雪野日陽 (CV. 大野柚布子)", 0],
-    [11, "シャイニング・ピース (具志堅シュープソロ ver.)", "音楽少女 (CV. 島袋美由利)", 0],
-    [12, "シャイニング・ピース (諸岡ろろソロ ver.)", "諸岡ろろ (CV. 江口菜子)", 0],
-    [13, "シャイニング・ピース (山田木はなこ Directed ver.)", "山田木はなこ (CV. 深川芹亜)", 0],
-    [14, "シャイニング・ピース (11人 ver.)", "音楽少女", 0],
-    [15, "シャイニング・ピース (山田木はなこ No Direction ver.)", "山田木はなこ (CV. 深川芹亜)", 0],
+    [1, "シャイニング・ピース (12人 ver.)", "音楽少女", 1],
+    [2, "シャイニング・ピース (金時琴子ソロ ver.)", "金時琴子 (CV. Lynn)", 1],
+    [3, "シャイニング・ピース (迎羽織ソロ ver.)", "迎羽織 (CV. 小倉結衣)", 1],
+    [4, "シャイニング・ピース (迎桐ソロ ver.)", "迎桐 (CV. 上坂すみれ)", 1],
+    [5, "シャイニング・ピース (千歳ハルソロ ver.)", "千歳ハル (CV. 沼倉愛美)", 1],
+    [6, "シャイニング・ピース (熊谷絵里ソロ ver.)", "熊谷絵里 (CV. 瀬戸麻沙美)", 1],
+    [7, "シャイニング・ピース (竜王更紗ソロ ver.)", "竜王更紗 (CV. 渕上舞)", 1],
+    [8, "シャイニング・ピース (箕作沙々芽ソロ ver.)", "箕作沙々芽 (CV. 高橋花林)", 1],
+    [9, "シャイニング・ピース (西尾未来ソロ ver.)", "西尾未来 (CV. 岡咲美保)", 1],
+    [10, "シャイニング・ピース (雪野日陽ソロ ver.)", "雪野日陽 (CV. 大野柚布子)", 1],
+    [11, "シャイニング・ピース (具志堅シュープソロ ver.)", "音楽少女 (CV. 島袋美由利)", 1],
+    [12, "シャイニング・ピース (諸岡ろろソロ ver.)", "諸岡ろろ (CV. 江口菜子)", 1],
+    [13, "シャイニング・ピース (山田木はなこ Directed ver.)", "山田木はなこ (CV. 深川芹亜)", 1],
+    [14, "シャイニング・ピース (11人 ver.)", "音楽少女", 1],
+    [15, "シャイニング・ピース (山田木はなこ No Direction ver.)", "山田木はなこ (CV. 深川芹亜)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9865ae3f-68bf-447e-8861-2086fa25a3c0", "https://vgmdb.net/album/79688"]
 
@@ -409,10 +409,10 @@ catalognumber = "SSX-10462"
 date = "2018-10-31"
 album = "音楽少女 Special Song CD"
 tracks = [
-    [1, "happy ice cream", "西尾未来(CV.岡咲美保), 雪野日陽(CV.大野柚布子) & 具志堅シュープ(CV.島袋美由利)", 0],
-    [2, "さよならセブンティーン", "三重野瞳", 0],
-    [3, "happy ice cream (Off Vocal)", "西尾未来(CV.岡咲美保), 雪野日陽(CV.大野柚布子) & 具志堅シュープ(CV.島袋美由利)", 0],
-    [4, "さよならセブンティーン (Off Vocal)", "三重野瞳", 0],
+    [1, "happy ice cream", "西尾未来(CV.岡咲美保), 雪野日陽(CV.大野柚布子) & 具志堅シュープ(CV.島袋美由利)", 1],
+    [2, "さよならセブンティーン", "三重野瞳", 1],
+    [3, "happy ice cream (Off Vocal)", "西尾未来(CV.岡咲美保), 雪野日陽(CV.大野柚布子) & 具志堅シュープ(CV.島袋美由利)", 1],
+    [4, "さよならセブンティーン (Off Vocal)", "三重野瞳", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebe5a469-5e1b-467e-9244-54e1304d52f7", "https://vgmdb.net/album/79046"]
 
@@ -441,8 +441,8 @@ tracks = [
     [18, "しのびあし", "", 0],
     [19, "おいかけっこ", "", 0],
     [20, "からあげ駆け込み", "", 0],
-    [21, "シャイニング・ピース (オルゴールver.1)", "", 0],
-    [22, "シャイニング・ピース (オルゴールver.2)", "", 0],
+    [21, "シャイニング・ピース (オルゴールver.1)", "", 1],
+    [22, "シャイニング・ピース (オルゴールver.2)", "", 1],
     [23, "これがアイドル", "", 0],
     [24, "アドバンス", "", 0],
     [25, "アイキャッチ1 (eye-catch)", "", 0],
@@ -458,12 +458,12 @@ catalognumber = "SSX-10464"
 date = "2018-12-26"
 album = "音楽少女 Special Song CD vol.2"
 tracks = [
-    [1, "IT'S UP TO US", "箕作沙々芽(CV.高橋花林), 諸岡ろろ(CV.江口菜子) & 金時琴子(CV.Lynn)", 0],
-    [2, "以心伝心のユーフォリア", "迎羽織(CV.小倉唯) & 迎桐(CV.上坂すみれ)", 0],
-    [3, "アイドル☆一直線", "山田木はなこ(CV.深川芹亜)", 0],
-    [4, "IT'S UP TO US (Off Vocal)", "箕作沙々芽(CV.高橋花林), 諸岡ろろ(CV.江口菜子) & 金時琴子(CV.Lynn)", 0],
-    [5, "以心伝心のユーフォリア (Off Vocal)", "迎羽織(CV.小倉唯) & 迎桐(CV.上坂すみれ)", 0],
-    [6, "アイドル☆一直線 (Off Vocal)", "山田木はなこ(CV.深川芹亜)", 0],
+    [1, "IT'S UP TO US", "箕作沙々芽(CV.高橋花林), 諸岡ろろ(CV.江口菜子) & 金時琴子(CV.Lynn)", 1],
+    [2, "以心伝心のユーフォリア", "迎羽織(CV.小倉唯) & 迎桐(CV.上坂すみれ)", 1],
+    [3, "アイドル☆一直線", "山田木はなこ(CV.深川芹亜)", 1],
+    [4, "IT'S UP TO US (Off Vocal)", "箕作沙々芽(CV.高橋花林), 諸岡ろろ(CV.江口菜子) & 金時琴子(CV.Lynn)", 1],
+    [5, "以心伝心のユーフォリア (Off Vocal)", "迎羽織(CV.小倉唯) & 迎桐(CV.上坂すみれ)", 1],
+    [6, "アイドル☆一直線 (Off Vocal)", "山田木はなこ(CV.深川芹亜)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/640456e7-5722-45e8-ad02-7c85ef13a426", "https://vgmdb.net/album/79047"]
 
@@ -474,12 +474,12 @@ album = "ホップ・ステップ・アップル / 小倉唯"
 tracks = [
     [1, "アップル・ガール", "小倉唯", 0],
     [2, "Hop Step Jump!", "小倉唯", 0],
-    [3, "永遠少年", "小倉唯", 0],
+    [3, "永遠少年", "小倉唯", 1],
     [4, "君が好きです", "小倉唯", 0],
     [5, "白く咲く花", "小倉唯", 0],
     [6, "雨の森はウソつき", "小倉唯", 0],
     [7, "Hopeful Days", "小倉唯", 0],
-    [8, "Love Me × Love Me", "小倉唯", 0],
+    [8, "Love Me × Love Me", "小倉唯", 1],
     [9, "Brand-New-Road", "小倉唯", 0],
     [10, "FARAWAY", "小倉唯", 0],
     [11, "ショコラ", "小倉唯", 0],
@@ -495,12 +495,12 @@ album = "ホップ・ステップ・アップル / 小倉唯 Vocal"
 tracks = [
     [1, "アップル・ガール", "小倉唯", 0],
     [2, "Hop Step Jump!", "小倉唯", 0],
-    [3, "永遠少年", "小倉唯", 0],
+    [3, "永遠少年", "小倉唯", 1],
     [4, "君が好きです", "小倉唯", 0],
     [5, "白く咲く花", "小倉唯", 0],
     [6, "雨の森はウソつき", "小倉唯", 0],
     [7, "Hopeful Days", "小倉唯", 0],
-    [8, "Love Me × Love Me", "小倉唯", 0],
+    [8, "Love Me × Love Me", "小倉唯", 1],
     [9, "Brand-New-Road", "小倉唯", 0],
     [10, "FARAWAY", "小倉唯", 0],
     [11, "ショコラ", "小倉唯", 0],
@@ -515,13 +515,13 @@ date = "2019-02-20"
 album = "ホップ・ステップ・アップル / 小倉唯 Video"
 tracks = [
     [1, "アップル・ガール (MUSIC VIDEO)", "", 0],
-    [2, "永遠少年 (MUSIC VIDEO)", "", 0],
-    [3, "Love Me × Love Me (MUSIC VIDEO)", "", 0],
+    [2, "永遠少年 (MUSIC VIDEO)", "", 1],
+    [3, "Love Me × Love Me (MUSIC VIDEO)", "", 1],
     [4, "白く咲く花 (MUSIC VIDEO)", "", 0],
     [5, "アップル・ガール (Lip ver.)", "", 0],
     [6, "アップル・ガール (Dance ver.)", "", 0],
-    [7, "永遠少年 (Dance ver.)", "", 0],
-    [8, "Love Me × Love Me (Dance ver.)", "", 0],
+    [7, "永遠少年 (Dance ver.)", "", 1],
+    [8, "Love Me × Love Me (Dance ver.)", "", 1],
     [9, "白く咲く花 (Dance ver.)", "", 0],
     [10, "小倉唯のアップルーム", "", 0],
     [11, "Making of ホップ・ステップ・アップル", "", 0],
@@ -535,12 +535,12 @@ album = "ホップ・ステップ・アップル / 小倉唯 Vocal"
 tracks = [
     [1, "アップル・ガール", "小倉唯", 0],
     [2, "Hop Step Jump!", "小倉唯", 0],
-    [3, "永遠少年", "小倉唯", 0],
+    [3, "永遠少年", "小倉唯", 1],
     [4, "君が好きです", "小倉唯", 0],
     [5, "白く咲く花", "小倉唯", 0],
     [6, "雨の森はウソつき", "小倉唯", 0],
     [7, "Hopeful Days", "小倉唯", 0],
-    [8, "Love Me × Love Me", "小倉唯", 0],
+    [8, "Love Me × Love Me", "小倉唯", 1],
     [9, "Brand-New-Road", "小倉唯", 0],
     [10, "FARAWAY", "小倉唯", 0],
     [11, "ショコラ", "小倉唯", 0],
@@ -555,13 +555,13 @@ date = "2019-02-20"
 album = "ホップ・ステップ・アップル / 小倉唯 Video"
 tracks = [
     [1, "アップル・ガール (MUSIC VIDEO)", "", 0],
-    [2, "永遠少年 (MUSIC VIDEO)", "", 0],
-    [3, "Love Me × Love Me (MUSIC VIDEO)", "", 0],
+    [2, "永遠少年 (MUSIC VIDEO)", "", 1],
+    [3, "Love Me × Love Me (MUSIC VIDEO)", "", 1],
     [4, "白く咲く花 (MUSIC VIDEO)", "", 0],
     [5, "アップル・ガール (Lip ver.)", "", 0],
     [6, "アップル・ガール (Dance ver.)", "", 0],
-    [7, "永遠少年 (Dance ver.)", "", 0],
-    [8, "Love Me × Love Me (Dance ver.)", "", 0],
+    [7, "永遠少年 (Dance ver.)", "", 1],
+    [8, "Love Me × Love Me (Dance ver.)", "", 1],
     [9, "白く咲く花 (Dance ver.)", "", 0],
     [10, "小倉唯のアップルーム", "", 0],
     [11, "Making of ホップ・ステップ・アップル", "", 0],
