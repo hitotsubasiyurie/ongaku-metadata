@@ -3,7 +3,7 @@ catalognumber = "N/A"
 date = "2021-07-07"
 album = "ギャンブル / syudou"
 tracks = [
-    [1, "ギャンブル", "syudou", 0],
+    [1, "ギャンブル", "syudou", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2f73b28c-94c3-4aca-a177-81cc406f7382", "https://vgmdb.net/album/113065"]
 
@@ -12,8 +12,8 @@ catalognumber = "MC-0013"
 date = "2021-07-08"
 album = "ああ人生に涙あり / 深澄真(CV.花江夏樹)"
 tracks = [
-    [1, "ああ人生に涙あり", "深澄真(CV.花江夏樹)", 0],
-    [2, "ああ人生に涙あり(オリジナルカラオケ)", "深澄真(CV.花江夏樹)", 0],
+    [1, "ああ人生に涙あり", "深澄真(CV.花江夏樹)", 1],
+    [2, "ああ人生に涙あり(オリジナルカラオケ)", "深澄真(CV.花江夏樹)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0f436196-dcc7-4bfc-882b-40544b0fb8a9", "https://vgmdb.net/album/112576"]
 
@@ -22,7 +22,7 @@ catalognumber = "bigup13223962"
 date = "2021-07-14"
 album = "ビューティフル・ドリーマー / Ezoshika Gourmet Club"
 tracks = [
-    [1, "ビューティフル・ドリーマー", "Ezoshika Gourmet Club", 0],
+    [1, "ビューティフル・ドリーマー", "Ezoshika Gourmet Club", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5c782b74-033e-4422-b5d8-eae937874286", "https://vgmdb.net/album/113064"]
 
@@ -31,8 +31,8 @@ catalognumber = "MC-0014"
 date = "2021-07-29"
 album = "ああ人生に涙あり / 巴(CV.佐倉綾音)、澪(CV.鬼頭明里)"
 tracks = [
-    [1, "ああ人生に涙あり", "巴 (CV:佐倉綾音) & 澪 (CV:鬼頭明里)", 0],
-    [2, "ああ人生に涙あり (オリジナルカラオケ)", "巴 (CV:佐倉綾音) & 澪 (CV:鬼頭明里)", 0],
+    [1, "ああ人生に涙あり", "巴 (CV:佐倉綾音) & 澪 (CV:鬼頭明里)", 1],
+    [2, "ああ人生に涙あり (オリジナルカラオケ)", "巴 (CV:佐倉綾音) & 澪 (CV:鬼頭明里)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fcb94446-a696-48c5-bd9b-2bfba3810327", "https://vgmdb.net/album/112605"]
 
@@ -41,27 +41,27 @@ catalognumber = "UZCL-2220"
 date = "2021-09-22"
 album = "TVアニメ 月が導く異世界道中 オリジナル・サウンドトラック"
 tracks = [
-    [1, "The Land of Adventure", "高梨康治", 0],
-    [2, "Terrible Attack", "高梨康治", 0],
-    [3, "The Great Dragon", "高梨康治", 0],
-    [4, "The Horrible Monster", "高梨康治", 0],
-    [5, "Desperate Battle", "高梨康治", 0],
-    [6, "With Brave Soul", "高梨康治", 0],
-    [7, "Sweet Temptation", "高梨康治", 0],
-    [8, "Chit Chat", "高梨康治", 0],
-    [9, "Girls’ Talk", "高梨康治", 0],
-    [10, "A Girl of Good Family", "高梨康治", 0],
-    [11, "Samurai Fighter", "高梨康治", 0],
-    [12, "Clash of Magics", "高梨康治", 0],
-    [13, "The Invincible", "高梨康治", 0],
-    [14, "Departure", "高梨康治", 0],
-    [15, "Easy Going", "高梨康治", 0],
-    [16, "Troublemaker", "高梨康治", 0],
-    [17, "Heart of Hatred", "高梨康治", 0],
-    [18, "Something Wicked Coming", "高梨康治", 0],
-    [19, "Fierce Fight", "高梨康治", 0],
-    [20, "Amazing Power", "高梨康治", 0],
-    [21, "Hopeful Dawn", "高梨康治", 0],
+    [1, "The Land of Adventure", "高梨康治", 1],
+    [2, "Terrible Attack", "高梨康治", 1],
+    [3, "The Great Dragon", "高梨康治", 1],
+    [4, "The Horrible Monster", "高梨康治", 1],
+    [5, "Desperate Battle", "高梨康治", 1],
+    [6, "With Brave Soul", "高梨康治", 1],
+    [7, "Sweet Temptation", "高梨康治", 1],
+    [8, "Chit Chat", "高梨康治", 1],
+    [9, "Girls’ Talk", "高梨康治", 1],
+    [10, "A Girl of Good Family", "高梨康治", 1],
+    [11, "Samurai Fighter", "高梨康治", 1],
+    [12, "Clash of Magics", "高梨康治", 1],
+    [13, "The Invincible", "高梨康治", 1],
+    [14, "Departure", "高梨康治", 1],
+    [15, "Easy Going", "高梨康治", 1],
+    [16, "Troublemaker", "高梨康治", 1],
+    [17, "Heart of Hatred", "高梨康治", 1],
+    [18, "Something Wicked Coming", "高梨康治", 1],
+    [19, "Fierce Fight", "高梨康治", 1],
+    [20, "Amazing Power", "高梨康治", 1],
+    [21, "Hopeful Dawn", "高梨康治", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a111c600-45bc-478d-b122-d919cc48b770", "https://vgmdb.net/album/113268"]
 
@@ -70,7 +70,7 @@ catalognumber = "ANTCD-A0000012222"
 date = "2024-01-08"
 album = "ユートピア / 須田景凪"
 tracks = [
-    [1, "ユートピア", "須田景凪", 0],
+    [1, "ユートピア", "須田景凪", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4deb7454-5795-4ed4-9ca7-db8e66b61dbe", "https://vgmdb.net/album/135987"]
 
@@ -79,7 +79,7 @@ catalognumber = "N/A"
 date = "2024-01-15"
 album = "My Factor / 伊東健人"
 tracks = [
-    [1, "My Factor", "伊東健人", 0],
+    [1, "My Factor", "伊東健人", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10be6fcd-6329-4311-852a-3b847a811d9c", "https://vgmdb.net/album/135986"]
 
@@ -88,7 +88,7 @@ catalognumber = "N/A"
 date = "2024-04-15"
 album = "リヴァーサル / syudou"
 tracks = [
-    [1, "リヴァーサル", "syudou", 0],
+    [1, "リヴァーサル", "syudou", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ed508013-4dfb-4ed1-9f91-862b4cfba16f", "https://vgmdb.net/album/138035"]
 
@@ -97,10 +97,10 @@ catalognumber = "AZZS-151"
 date = "2024-06-05"
 album = "Grab the World / 前田佳織里 [初回限定盤] Disc 1 (CD) [AZZS-151]"
 tracks = [
-    [1, "常識外れヒューマン", "前田佳織里", 0],
-    [2, "Dream’s Top Star!!", "前田佳織里", 0],
-    [3, "最後の花火が上がる頃に", "前田佳織里", 0],
-    [4, "Stranger", "前田佳織里", 0],
+    [1, "常識外れヒューマン", "前田佳織里", 1],
+    [2, "Dream’s Top Star!!", "前田佳織里", 1],
+    [3, "最後の花火が上がる頃に", "前田佳織里", 1],
+    [4, "Stranger", "前田佳織里", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d8f04a5e-ef1f-4da7-98b9-c9654d08ca83", "https://vgmdb.net/album/139069"]
 
@@ -109,7 +109,7 @@ catalognumber = "AZZS-151"
 date = "2024-06-05"
 album = "Grab the World / 前田佳織里 [初回限定盤] Disc 2 (Blu-ray) [AZDS-0155]"
 tracks = [
-    [1, "常識外れヒューマン", "前田佳織里", 0],
+    [1, "常識外れヒューマン", "前田佳織里", 1],
     [2, "\"Grab the World\" Behind The Scenes", "前田佳織里", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d8f04a5e-ef1f-4da7-98b9-c9654d08ca83", "https://vgmdb.net/album/139069"]
@@ -119,9 +119,9 @@ catalognumber = "AZCS-1126"
 date = "2024-06-05"
 album = "Grab the World / 前田佳織里"
 tracks = [
-    [1, "常識外れヒューマン", "前田佳織里", 0],
-    [2, "Dream’s Top Star!!", "前田佳織里", 0],
-    [3, "最後の花火が上がる頃に", "前田佳織里", 0],
-    [4, "Stranger", "前田佳織里", 0],
+    [1, "常識外れヒューマン", "前田佳織里", 1],
+    [2, "Dream’s Top Star!!", "前田佳織里", 1],
+    [3, "最後の花火が上がる頃に", "前田佳織里", 1],
+    [4, "Stranger", "前田佳織里", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a17a3654-7b6f-426b-ae9d-88d5455ee895", "https://vgmdb.net/album/138038"]

@@ -3,7 +3,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "君はレモネード / 8/pLanet!!"
 tracks = [
-    [1, "君はレモネード", "8/pLanet!!", 0],
+    [1, "君はレモネード", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f2b2d492-c08b-4219-adab-2ad6b9e03277", "https://vgmdb.net/album/99391"]
 
@@ -12,7 +12,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "Distance / 8/pLanet!!"
 tracks = [
-    [1, "Distance", "8/pLanet!!", 0],
+    [1, "Distance", "8/pLanet!!", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/1f19e7d7-b993-418f-ad65-57cee904fb40", "https://vgmdb.net/album/99396"]
 
@@ -21,7 +21,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "BoyFriend / 8/pLanet!!"
 tracks = [
-    [1, "BoyFriend", "8/pLanet!!", 0],
+    [1, "BoyFriend", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e52314c1-8bd5-42a6-9094-69e243ea3060", "https://vgmdb.net/album/99390"]
 
@@ -30,7 +30,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "スクールディスコ / 8/pLanet!!"
 tracks = [
-    [1, "スクールディスコ", "8/pLanet!!", 0],
+    [1, "スクールディスコ", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2b09d802-5f30-4dc0-bae7-c6031b8f0ba4", "https://vgmdb.net/album/99394"]
 
@@ -39,7 +39,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "先手必勝スマイル / 8/pLanet!!"
 tracks = [
-    [1, "先手必勝スマイル", "8/pLanet!!", 0],
+    [1, "先手必勝スマイル", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/85df36a9-334d-4851-9049-f86dfc96f32b", "https://vgmdb.net/album/99397"]
 
@@ -48,7 +48,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "カナエルミライ / 8/pLanet!!"
 tracks = [
-    [1, "カナエルミライ", "8/pLanet!!", 0],
+    [1, "カナエルミライ", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/24968514-60ab-4644-bdd6-5848e5d7b17b", "https://vgmdb.net/album/99389"]
 
@@ -57,7 +57,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "初恋チェリーブロッサム / 8/pLanet!!"
 tracks = [
-    [1, "初恋チェリーブロッサム", "8/pLanet!!", 0],
+    [1, "初恋チェリーブロッサム", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0a523df6-c398-40c5-b232-48b14c603365", "https://vgmdb.net/album/99393"]
 
@@ -66,7 +66,7 @@ catalognumber = "N/A"
 date = "2016-05-30"
 album = "絆のポラリス / 8/pLanet!!"
 tracks = [
-    [1, "絆のポラリス", "8/pLanet!!", 0],
+    [1, "絆のポラリス", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94f4e780-03a5-4516-be07-7c25310c52bc", "https://vgmdb.net/album/99392"]
 
@@ -75,9 +75,9 @@ catalognumber = "PLAN-001"
 date = "2016-06-08"
 album = "ファンタジア / 8/pLanet!!"
 tracks = [
-    [1, "ファンタジア", "8/pLanet!!", 0],
-    [2, "BoyFriend", "8/pLanet!!", 0],
-    [3, "君はレモネード", "8/pLanet!!", 0],
+    [1, "ファンタジア", "8/pLanet!!", 1],
+    [2, "BoyFriend", "8/pLanet!!", 1],
+    [3, "君はレモネード", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/09049221-955f-4040-b43e-f515fc9c5226", "https://vgmdb.net/album/99371"]
 
@@ -86,7 +86,7 @@ catalognumber = "N/A"
 date = "2016-06-22"
 album = "あの日の約束 / 8/pLanet!!"
 tracks = [
-    [1, "あの日の約束", "8/pLanet!!", 0],
+    [1, "あの日の約束", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1c7b9eaf-7f9d-4cef-a35f-35e4fac321b0", "https://vgmdb.net/album/99398"]
 
@@ -122,7 +122,7 @@ catalognumber = "N/A"
 date = "2016-08-31"
 album = "Tiny little letter / 8/pLanet!!"
 tracks = [
-    [1, "Tiny Little Letter", "8/pLanet!!", 0],
+    [1, "Tiny Little Letter", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/566b3a7e-5098-437a-af3d-7c3dbb3c3a93", "https://vgmdb.net/album/99402"]
 
@@ -131,7 +131,7 @@ catalognumber = "N/A"
 date = "2016-09-07"
 album = "トキメキの15センチ / 8/pLanet!!"
 tracks = [
-    [1, "トキメキの15センチ", "8/pLanet!!", 0],
+    [1, "トキメキの15センチ", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a8d91f07-970c-4cd0-ad21-d095e1d41013", "https://vgmdb.net/album/99403"]
 
@@ -140,7 +140,7 @@ catalognumber = "N/A"
 date = "2016-10-05"
 album = "Count It Down / 8/pLanet!!"
 tracks = [
-    [1, "Count It Down", "8/pLanet!!", 0],
+    [1, "Count It Down", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b7b3f449-7c1a-4f23-88b1-22ef58882d63", "https://vgmdb.net/album/99404"]
 
@@ -159,8 +159,8 @@ date = "2016-10-19"
 album = "Halloween☆Night / 8/pLanet!!"
 tracks = [
     [1, "Halloween☆Night", "8/pLanet!!", 0],
-    [2, "初恋チェリーブロッサム", "8/pLanet!!", 0],
-    [3, "スクールディスコ", "8/pLanet!!", 0],
+    [2, "初恋チェリーブロッサム", "8/pLanet!!", 1],
+    [3, "スクールディスコ", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/13e9f6e4-7bbc-46f5-869b-a95a5240a3c3", "https://vgmdb.net/album/99373"]
 
@@ -178,9 +178,9 @@ catalognumber = "PLAN-003"
 date = "2016-11-23"
 album = "BLUE MOON / 8/pLanet!!"
 tracks = [
-    [1, "BLUE MOON", "8/pLanet!!", 0],
-    [2, "カナエルミライ", "8/pLanet!!", 0],
-    [3, "先手必勝スマイル", "8/pLanet!!", 0],
+    [1, "BLUE MOON", "8/pLanet!!", 1],
+    [2, "カナエルミライ", "8/pLanet!!", 1],
+    [3, "先手必勝スマイル", "8/pLanet!!", 2],
 ]
 links = ["https://beta.musicbrainz.org/release/f9fb58d7-d519-4cdc-a5ba-e6463aa314c9", "https://vgmdb.net/album/99374"]
 
@@ -207,9 +207,9 @@ catalognumber = "PLAN-004"
 date = "2016-12-14"
 album = "ハピ♡メリ / 8/pLanet!!"
 tracks = [
-    [1, "ハピ♡メリ", "8/pLanet!!", 0],
-    [2, "Distance", "8/pLanet!!", 0],
-    [3, "絆のポラリス", "8/pLanet!!", 0],
+    [1, "ハピ♡メリ", "8/pLanet!!", 2],
+    [2, "Distance", "8/pLanet!!", 1],
+    [3, "絆のポラリス", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/afe12b72-15a1-4851-95cc-61ecf29ab345", "https://vgmdb.net/album/99375"]
 
@@ -218,7 +218,7 @@ catalognumber = "N/A"
 date = "2017-01-18"
 album = "Go Live!! / 8/pLanet!!"
 tracks = [
-    [1, "Go Live!!", "8/pLanet!!", 0],
+    [1, "Go Live!!", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/63a26513-22c4-46d7-aae0-99a73d627339", "https://vgmdb.net/album/99411"]
 
@@ -227,7 +227,7 @@ catalognumber = "N/A"
 date = "2017-02-08"
 album = "Still... / 8/pLanet!!"
 tracks = [
-    [1, "Still...", "", 0],
+    [1, "Still...", "", 1],
 ]
 links = ["https://vgmdb.net/album/99412"]
 
@@ -245,7 +245,7 @@ catalognumber = "N/A"
 date = "2017-02-15"
 album = "Error / 8/pLanet!!"
 tracks = [
-    [1, "Error", "", 0],
+    [1, "Error", "", 1],
 ]
 links = ["https://vgmdb.net/album/99413"]
 
@@ -254,7 +254,7 @@ catalognumber = "N/A"
 date = "2017-03-08"
 album = "Toi et Moi / 8/pLanet!!"
 tracks = [
-    [1, "Toi et Moi", "8/pLanet!!", 0],
+    [1, "Toi et Moi", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4df93975-87ab-4a1d-a7bb-fdb4ac323b08", "https://vgmdb.net/album/99415"]
 
@@ -263,7 +263,7 @@ catalognumber = "N/A"
 date = "2017-03-15"
 album = "秘密の部屋の女の子 / 8/pLanet!!"
 tracks = [
-    [1, "秘密の部屋の女の子", "8/pLanet!!", 0],
+    [1, "秘密の部屋の女の子", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c965327e-3563-4f91-9c71-93d1ec1e27c3", "https://vgmdb.net/album/99416"]
 
@@ -283,7 +283,7 @@ catalognumber = "N/A"
 date = "2017-05-03"
 album = "Minus / 8/pLanet!!"
 tracks = [
-    [1, "Minus", "8/pLanet!!", 0],
+    [1, "Minus", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9daf9065-4277-4d50-8056-f7c6d9834f3c", "https://vgmdb.net/album/99418"]
 
@@ -356,7 +356,7 @@ date = "2017-08-30"
 album = "Rooting For You / 8/pLanet!!"
 tracks = [
     [1, "Rooting for You", "8/pLanet!!", 0],
-    [2, "Tiny little letter", "8/pLanet!!", 0],
+    [2, "Tiny little letter", "8/pLanet!!", 1],
     [3, "Lovely Summer", "8/pLanet!!", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/543d4cc6-dbda-4f89-ab2c-dd809e33fa9b", "https://vgmdb.net/album/99378"]
@@ -391,21 +391,21 @@ catalognumber = "PLAN-007"
 date = "2017-11-15"
 album = "8 / 8/pLanet!!"
 tracks = [
-    [1, "BoyFriend", "8/pLanet!!", 0],
-    [2, "君はレモネード", "8/pLanet!!", 0],
-    [3, "ファンタジア", "8/pLanet!!", 0],
-    [4, "スクールディスコ", "8/pLanet!!", 0],
-    [5, "Go Live!!", "8/pLanet!!", 0],
-    [6, "Shiny", "8/pLanet!!", 0],
-    [7, "Tiny little letter", "8/pLanet!!", 0],
-    [8, "あの日の約束", "8/pLanet!!", 0],
-    [9, "Error", "8/pLanet!!", 0],
-    [10, "Count It Down", "8/pLanet!!", 0],
-    [11, "Toi et Moi", "8/pLanet!!", 0],
-    [12, "Still...", "8/pLanet!!", 0],
-    [13, "BLUE MOON", "8/pLanet!!", 0],
-    [14, "トキメキの15センチ", "8/pLanet!!", 0],
-    [15, "Days", "8/pLanet!!", 0],
+    [1, "BoyFriend", "8/pLanet!!", 1],
+    [2, "君はレモネード", "8/pLanet!!", 1],
+    [3, "ファンタジア", "8/pLanet!!", 1],
+    [4, "スクールディスコ", "8/pLanet!!", 1],
+    [5, "Go Live!!", "8/pLanet!!", 2],
+    [6, "Shiny", "8/pLanet!!", 1],
+    [7, "Tiny little letter", "8/pLanet!!", 1],
+    [8, "あの日の約束", "8/pLanet!!", 1],
+    [9, "Error", "8/pLanet!!", 1],
+    [10, "Count It Down", "8/pLanet!!", 1],
+    [11, "Toi et Moi", "8/pLanet!!", 1],
+    [12, "Still...", "8/pLanet!!", 1],
+    [13, "BLUE MOON", "8/pLanet!!", 1],
+    [14, "トキメキの15センチ", "8/pLanet!!", 1],
+    [15, "Days", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ee91ac2f-2df3-44ef-80c6-cff494265729", "https://vgmdb.net/album/99386"]
 
@@ -414,7 +414,7 @@ catalognumber = "N/A"
 date = "2017-12-06"
 album = "Remember / 8/pLanet!!"
 tracks = [
-    [1, "Remember", "8/pLanet!!", 0],
+    [1, "Remember", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/73e37fae-d122-4858-bc60-34bf34711f06", "https://vgmdb.net/album/99426"]
 
@@ -423,7 +423,7 @@ catalognumber = "N/A"
 date = "2017-12-27"
 album = "Fuzzy N' Wonky / 8/pLanet!!"
 tracks = [
-    [1, "Fuzzy N' Wonky", "8/pLanet!!", 0],
+    [1, "Fuzzy N' Wonky", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4ae34e19-319c-4867-a628-044ff77a8f03", "https://vgmdb.net/album/99428"]
 
@@ -468,7 +468,7 @@ catalognumber = "N/A"
 date = "2018-03-31"
 album = "サクラ涙 / 8/pLanet!!"
 tracks = [
-    [1, "サクラ涙", "8/pLanet!!", 0],
+    [1, "サクラ涙", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/631dd2c0-69e0-4e99-8ffc-076530dded04", "https://vgmdb.net/album/99433"]
 
@@ -477,7 +477,7 @@ catalognumber = "N/A"
 date = "2018-04-18"
 album = "Despair / 2_wEi"
 tracks = [
-    [1, "Despair", "2_wEi", 0],
+    [1, "Despair", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9ead6117-9d74-4ef5-b1dd-f8a93b5ecb20", "https://vgmdb.net/album/99434"]
 
@@ -486,7 +486,7 @@ catalognumber = "N/A"
 date = "2018-04-25"
 album = "Ecstasy / 8/pLanet!!"
 tracks = [
-    [1, "Ecstasy", "8/pLanet!!", 0],
+    [1, "Ecstasy", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5299e30e-cf8a-4e42-ab2d-bab852bdd9a1", "https://vgmdb.net/album/99435"]
 
@@ -495,7 +495,7 @@ catalognumber = "N/A"
 date = "2018-05-02"
 album = "UNPLUG / 2_wEi"
 tracks = [
-    [1, "UNPLUG", "2_wEi", 0],
+    [1, "UNPLUG", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a509600d-75bf-436f-9b7b-2c7696e72660", "https://vgmdb.net/album/99436"]
 
@@ -504,7 +504,7 @@ catalognumber = "N/A"
 date = "2018-06-20"
 album = "Lost in data / 2_wEi"
 tracks = [
-    [1, "Lost in data", "2_wEi", 0],
+    [1, "Lost in data", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f644e8d-7c72-47b6-afad-6de2041b5fec", "https://vgmdb.net/album/99437"]
 
@@ -522,7 +522,7 @@ catalognumber = "N/A"
 date = "2018-08-01"
 album = "おそろいさんぽ道 / 8/pLanet!!"
 tracks = [
-    [1, "おそろいさんぽ道", "8/pLanet!!", 0],
+    [1, "おそろいさんぽ道", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3386f52d-80fb-40a8-af8c-8262837882a9", "https://vgmdb.net/album/99439"]
 
@@ -541,7 +541,7 @@ date = "2018-08-08"
 album = "Toybox ~Smile~ / 8/pLanet!!"
 tracks = [
     [1, "SUMMER BEAT", "", 0],
-    [2, "Go Live!!", "", 0],
+    [2, "Go Live!!", "", 1],
     [3, "それゆけ!!乙女のミッション!", "", 0],
     [4, "Dive to the Future", "", 0],
     [5, "おとめ☆de☆Night", "", 0],
@@ -554,7 +554,7 @@ catalognumber = "N/A"
 date = "2018-08-29"
 album = "LOVE HATE / 2_wEi"
 tracks = [
-    [1, "LOVE HATE", "2_wEi", 0],
+    [1, "LOVE HATE", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/baae366e-8ae1-4bf1-ba5d-7489876a1405", "https://vgmdb.net/album/99441"]
 
@@ -563,7 +563,7 @@ catalognumber = "N/A"
 date = "2018-09-12"
 album = "darlin' / 8/pLanet!!"
 tracks = [
-    [1, "darlin'", "8/pLanet!!", 0],
+    [1, "darlin'", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f2c816af-d196-46de-90e6-f83847f3b5b3", "https://vgmdb.net/album/99442"]
 
@@ -572,12 +572,12 @@ catalognumber = "PLAN-009"
 date = "2018-09-12"
 album = "Toybox ~Lovely~ / 8/pLanet!!"
 tracks = [
-    [1, "darlin'", "", 0],
-    [2, "Shiny", "", 0],
-    [3, "SugarSugarBee", "", 0],
-    [4, "おそろいさんぽ道", "", 0],
-    [5, "秘密の部屋の女の子", "", 0],
-    [6, "Remember", "", 0],
+    [1, "darlin'", "8/pLanet!!", 1],
+    [2, "Shiny", "8/pLanet!!", 1],
+    [3, "SugarSugarBee", "8/pLanet!!", 1],
+    [4, "おそろいさんぽ道", "8/pLanet!!", 1],
+    [5, "秘密の部屋の女の子", "8/pLanet!!", 2],
+    [6, "Remember", "8/pLanet!!", 2],
 ]
 links = ["https://vgmdb.net/album/99384"]
 
@@ -586,7 +586,7 @@ catalognumber = "N/A"
 date = "2018-09-19"
 album = "basement / 2_wEi"
 tracks = [
-    [1, "basement", "2_wEi", 0],
+    [1, "basement", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebccd113-6d06-4501-9bb3-2af6f9743967", "https://vgmdb.net/album/99443"]
 
@@ -595,7 +595,7 @@ catalognumber = "N/A"
 date = "2018-10-10"
 album = "TRICK or BLOOD / 8/pLanet!!"
 tracks = [
-    [1, "TRICK or BLOOD", "8/pLanet!!", 0],
+    [1, "TRICK or BLOOD", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e1592f0c-5f94-4b88-980b-3e619fa94968", "https://vgmdb.net/album/99444"]
 
@@ -604,12 +604,12 @@ catalognumber = "PLAN-010"
 date = "2018-10-10"
 album = "Toybox ~Spicy~ / 8/pLanet!!"
 tracks = [
-    [1, "TRICK or BLOOD", "", 0],
-    [2, "Fuzzy N' Wonky", "", 0],
-    [3, "count it down", "", 0],
-    [4, "Minus", "", 0],
-    [5, "Outer Existence", "", 0],
-    [6, "Ecstasy", "", 0],
+    [1, "TRICK or BLOOD", "8/pLanet!!", 1],
+    [2, "Fuzzy N' Wonky", "8/pLanet!!", 1],
+    [3, "count it down", "8/pLanet!!", 1],
+    [4, "Minus", "8/pLanet!!", 1],
+    [5, "Outer Existence", "8/pLanet!!", 1],
+    [6, "Ecstasy", "8/pLanet!!", 1],
 ]
 links = ["https://vgmdb.net/album/99385"]
 
@@ -618,17 +618,17 @@ catalognumber = "PLAN-011"
 date = "2018-11-07"
 album = "Throne of Despair / 2_wEi"
 tracks = [
-    [1, "Prologue -F**K YOU ALL-", "2_wEi", 0],
-    [2, "Despair", "2_wEi", 0],
-    [3, "Lost in data", "2_wEi", 0],
-    [4, "LOVE HATE", "2_wEi", 0],
-    [5, "Green Cat.", "2_wEi", 0],
-    [6, "basement", "2_wEi", 0],
-    [7, "MMIX", "2_wEi", 0],
-    [8, "Homeache", "2_wEi", 0],
-    [9, "Numb", "2_wEi", 0],
-    [10, "UNPLUG", "2_wEi", 0],
-    [11, "Pain - pain", "2_wEi", 0],
+    [1, "Prologue -F**K YOU ALL-", "2_wEi", 1],
+    [2, "Despair", "2_wEi", 1],
+    [3, "Lost in data", "2_wEi", 1],
+    [4, "LOVE HATE", "2_wEi", 1],
+    [5, "Green Cat.", "2_wEi", 1],
+    [6, "basement", "2_wEi", 1],
+    [7, "MMIX", "2_wEi", 1],
+    [8, "Homeache", "2_wEi", 1],
+    [9, "Numb", "2_wEi", 1],
+    [10, "UNPLUG", "2_wEi", 1],
+    [11, "Pain - pain", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e423da96-06aa-4ab5-9f3b-95db59b16b94", "https://vgmdb.net/album/99387"]
 
@@ -702,7 +702,7 @@ catalognumber = "N/A"
 date = "2019-09-04"
 album = "Teardrop / 8/pLanet!!"
 tracks = [
-    [1, "Teardrop", "8/pLanet!!", 0],
+    [1, "Teardrop", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7909a12d-f2ea-47f0-b16d-7f6605dd6b67", "https://vgmdb.net/album/99451"]
 
@@ -868,7 +868,7 @@ catalognumber = "N/A"
 date = "2022-02-02"
 album = "2 Laugh like a FOOL / 2_wEi"
 tracks = [
-    [1, "2 Laugh like a FOOL", "2_wEi", 0],
+    [1, "2 Laugh like a FOOL", "2_wEi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f46b7382-ac0b-4f8f-aea2-21c46e015edb", "https://vgmdb.net/album/117852"]
 
@@ -878,14 +878,14 @@ date = "2022-03-09"
 album = "Terms / Years / 8/pLanet!!"
 tracks = [
     [1, "スーパースター", "8/pLanet!!", 0],
-    [2, "キミが好き。", "8/pLanet!!", 0],
-    [3, "Loudness", "8/pLanet!!", 0],
-    [4, "じゃじゃ馬 Typhoon", "8/pLanet!!", 0],
-    [5, "cresc. style", "8/pLanet!!", 0],
-    [6, "Good day, Mr. Liar", "8/pLanet!!", 0],
-    [7, "Empty trip", "8/pLanet!!", 0],
-    [8, "あの夏の僕らへ", "8/pLanet!!", 0],
+    [2, "キミが好き。", "8/pLanet!!", 1],
+    [3, "Loudness", "8/pLanet!!", 1],
+    [4, "じゃじゃ馬 Typhoon", "8/pLanet!!", 1],
+    [5, "cresc. style", "8/pLanet!!", 1],
+    [6, "Good day, Mr. Liar", "8/pLanet!!", 1],
+    [7, "Empty trip", "8/pLanet!!", 1],
+    [8, "あの夏の僕らへ", "8/pLanet!!", 1],
     [9, "Fork in the road", "8/pLanet!!", 0],
-    [10, "Time Progress", "8/pLanet!!", 0],
+    [10, "Time Progress", "8/pLanet!!", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e805adbe-bdd5-47ac-b460-3c4508b34e37", "https://vgmdb.net/album/118844"]

@@ -1279,7 +1279,9 @@ links = ["https://beta.musicbrainz.org/release/478a083d-6514-4983-afa0-3bf37cee9
 catalognumber = "ANZX-15280"
 date = "2022-10-26"
 album = "かぐや様は告らせたい -ウルトラロマンティック- DJCD ロマンティック告RADIO"
-tracks = []
+tracks = [
+    [1, "ロマンティック告RADIO", "", 0],
+]
 links = ["https://vgmdb.net/album/119537"]
 
 [5c1d0957fba8d7d39533b275aa357043]
