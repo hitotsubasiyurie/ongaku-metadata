@@ -84,16 +84,16 @@ catalognumber = "TOS008"
 date = "2011-03-13"
 album = "桃色ディスタンス"
 tracks = [
-    [1, "桃色ディスタンス", "魂音泉", 0],
-    [2, "触れられない物語", "魂音泉", 0],
+    [1, "桃色ディスタンス", "魂音泉", 1],
+    [2, "触れられない物語", "魂音泉", 1],
     [3, "ことばのあや", "魂音泉 feat. 桃箱", 1],
     [4, "Witches' Night", "魂音泉 feat. RainyBlue", 1],
-    [5, "流星ドライヴ (Loves \"BT\" Remix)", "魂音泉", 0],
-    [6, "とある瀟洒な従者の物語", "魂音泉 feat. ｙｔｒ", 0],
+    [5, "流星ドライヴ (Loves \"BT\" Remix)", "魂音泉", 1],
+    [6, "とある瀟洒な従者の物語", "魂音泉 feat. ｙｔｒ", 1],
     [7, "Bad Apple？ を【たま が歌ってみた】", "魂音泉 feat. Romonosov?:p", 1],
     [8, "End Roll -心音", "魂音泉", 1],
-    [9, "坂好きの神様 (off vocal)", "魂音泉 feat. 雨天決行", 0],
-    [10, "フラワリングナイト (haKuchu-mu Remix) (off vocal)", "魂音泉 feat. らっぷびと", 0],
+    [9, "坂好きの神様 (off vocal)", "魂音泉 feat. 雨天決行", 1],
+    [10, "フラワリングナイト (haKuchu-mu Remix) (off vocal)", "魂音泉 feat. らっぷびと", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f43c61b4-7563-4dd0-b982-5f2c7570e818", "https://vgmdb.net/album/24381", "https://www.dojin-music.info/cd/21196"]
 

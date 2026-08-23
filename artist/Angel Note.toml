@@ -479,7 +479,7 @@ tracks = [
     [1, "Chime to you", "yozuca*", 0],
     [2, "雨のち晴れ", "rino", 0],
     [3, "木漏れ日のウィンク", "rino", 0],
-    [4, "宝物", "yozuca*", 0],
+    [4, "宝物", "yozuca*", 1],
     [5, "特別な予感", "rino", 0],
     [6, "夢色のため息", "rino", 0],
     [7, "ほんとのきもち", "yozuca*", 0],
@@ -2373,7 +2373,7 @@ tracks = [
     [5, "ハイヴの威容", "七瀬光", 0],
     [6, "咆吼する魂", "川谷吉和, Peak A Soul+ & 上田益", 0],
     [7, "惜別", "七瀬光", 0],
-    [8, "絆", "影山ヒロノブ", 0],
+    [8, "絆", "影山ヒロノブ", 1],
     [9, "OOユニット", "南良樹", 0],
     [10, "虚ろな光", "南良樹", 0],
     [11, "雨音", "Angel Note", 0],
@@ -2635,11 +2635,11 @@ tracks = [
     [1, "桃源郷", "Riryka", 0],
     [2, "chu-chu-chu", "中山♡マミ", 0],
     [3, "Utopia", "kala", 0],
-    [4, "I'll try my best", "中山♡マミ", 0],
+    [4, "I'll try my best", "中山♡マミ", 1],
     [5, "紺色と黒のファンタジー", "中山♡マミ", 0],
-    [6, "絆は銀の糸", "榊原ゆい", 0],
+    [6, "絆は銀の糸", "榊原ゆい", 1],
     [7, "REAL", "Riryka", 0],
-    [8, "トビラ ～明日への地図～", "Shizuku", 0],
+    [8, "トビラ ～明日への地図～", "Shizuku", 1],
     [9, "空にキス", "Riryka", 0],
     [10, "迷宮 ～Endress Labyrinth～", "kala", 0],
     [11, "ハートのベルはring ring ring", "ましろゆき", 0],
@@ -2844,7 +2844,7 @@ catalognumber = "RSNREC-001"
 date = "2006-10-27"
 album = "ANGEL SOUND COMPLETE: Mahou Tenshi Series Complete Soundtrack"
 tracks = [
-    [1, "傷跡 full ver.", "", 0],
+    [1, "傷跡 full ver.", "", 1],
     [2, "エンジェルライズ !! full ver.", "", 0],
     [3, "エンジェルライズダーク full ver.", "", 0],
     [4, "真・エンジェルライズ !!", "", 0],
@@ -3024,21 +3024,21 @@ date = "2007-03-07"
 album = "BellesDivas -Angel Note BEST COLLECTION III-"
 tracks = [
     [1, "Beautiful Harmony", "榊原ゆい", 1],
-    [2, "Up to you", "中山♡マミ", 0],
-    [3, "Miss You", "Riryka", 0],
-    [4, "小夜鳴鳥に背を向けて", "kala", 0],
-    [5, "Keep back my tears", "中山♡マミ", 0],
+    [2, "Up to you", "中山♡マミ", 1],
+    [3, "Miss You", "Riryka", 1],
+    [4, "小夜鳴鳥に背を向けて", "kala", 1],
+    [5, "Keep back my tears", "中山♡マミ", 1],
     [6, "Favorite Love", "榊原ゆい", 1],
-    [7, "カッコよくなくちゃ！", "中山♡マミ", 0],
-    [8, "壊れた月", "kala", 0],
-    [9, "Strong Will", "中山♡マミ", 0],
-    [10, "傷跡", "Riryka", 0],
-    [11, "Wake me up！", "榊原ゆい", 0],
-    [12, "今日も笑顔で", "中山♡マミ", 0],
-    [13, "Moving Love", "kala", 0],
-    [14, "咲く未来", "中山♡マミ", 0],
-    [15, "In Your Sky", "榊原ゆい", 0],
-    [16, "My Dear", "中山♡マミ", 0],
+    [7, "カッコよくなくちゃ！", "中山♡マミ", 1],
+    [8, "壊れた月", "kala", 1],
+    [9, "Strong Will", "中山♡マミ", 1],
+    [10, "傷跡", "Riryka", 1],
+    [11, "Wake me up！", "榊原ゆい", 1],
+    [12, "今日も笑顔で", "中山♡マミ", 1],
+    [13, "Moving Love", "kala", 1],
+    [14, "咲く未来", "中山♡マミ", 1],
+    [15, "In Your Sky", "榊原ゆい", 1],
+    [16, "My Dear", "中山♡マミ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b84060b7-5718-45ef-aa1e-f9006d01542f", "https://vgmdb.net/album/8967"]
 
@@ -3214,7 +3214,7 @@ tracks = [
     [10, "たとえ朽ち果てても", "", 0],
     [11, "迫りくる危機", "", 0],
     [12, "バトル", "", 0],
-    [13, "星屑の天使(ケンイチver.)", "", 0],
+    [13, "星屑の天使(ケンイチver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/69056"]
 
@@ -3387,7 +3387,7 @@ tracks = [
     [18, "機械帝国の脅威", "", 0],
     [19, "Standing Against The Darkness", "", 0],
     [20, "突き進め！勝利のバージンロード", "", 0],
-    [21, "NAMIDA(Full Version)", "", 0],
+    [21, "NAMIDA(Full Version)", "", 1],
     [22, "未来への旅立ち", "", 0],
     [23, "Happy Start Wedding(Full Version)", "", 0],
     [24, "遠い日の約束", "", 0],
@@ -3399,22 +3399,22 @@ catalognumber = "SRL-1001"
 date = "2008-06-27"
 album = "Be nuts about Angels -Angel Note Best Collection 4-"
 tracks = [
-    [1, "トキメキDay by day", "神代あみ", 0],
-    [2, "Trust in me", "榊原ゆい", 0],
-    [3, "みだれ髪", "Riryka", 0],
-    [4, "Let’s Do It！", "中山♡マミ", 0],
-    [5, "星屑の天使", "真里歌", 0],
+    [1, "トキメキDay by day", "神代あみ", 1],
+    [2, "Trust in me", "榊原ゆい", 1],
+    [3, "みだれ髪", "Riryka", 1],
+    [4, "Let’s Do It！", "中山♡マミ", 1],
+    [5, "星屑の天使", "真里歌", 1],
     [6, "Clover", "中山♡マミ", 1],
-    [7, "Happy xx time", "神代あみ", 0],
+    [7, "Happy xx time", "神代あみ", 1],
     [8, "Eternity Star’s", "中瀬ひな", 1],
     [9, "Festivity", "中山♡マミ", 1],
-    [10, "月光～君恋し夜～", "Riryka", 0],
-    [11, "パーソナルスペース", "榊原ゆい", 0],
-    [12, "true drop", "霜月はるか", 0],
-    [13, "碧い約束", "真里歌", 0],
+    [10, "月光～君恋し夜～", "Riryka", 1],
+    [11, "パーソナルスペース", "榊原ゆい", 1],
+    [12, "true drop", "霜月はるか", 1],
+    [13, "碧い約束", "真里歌", 1],
     [14, "endlessly", "中山♡マミ", 1],
-    [15, "Green Road", "kala", 0],
-    [16, "晴れのち曇り時々雨", "榊原ゆい", 0],
+    [15, "Green Road", "kala", 1],
+    [16, "晴れのち曇り時々雨", "榊原ゆい", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a4c815b1-d6f2-462e-834a-e1220a27b400", "https://vgmdb.net/album/8475"]
 
@@ -3470,22 +3470,22 @@ catalognumber = "SRL-1002"
 date = "2008-08-29"
 album = "Sing Song Swing -Angel Note Best Collection 5-"
 tracks = [
-    [1, "Little wing", "榊原ゆい", 0],
-    [2, "色褪せた旋律", "Riryka", 0],
-    [3, "彼女×彼女×彼女～今夜はぎゅっと抱きしめてね～", "中山♡マミ", 0],
-    [4, "絆", "真里歌", 0],
+    [1, "Little wing", "榊原ゆい", 1],
+    [2, "色褪せた旋律", "Riryka", 1],
+    [3, "彼女×彼女×彼女～今夜はぎゅっと抱きしめてね～", "中山♡マミ", 1],
+    [4, "絆", "真里歌", 1],
     [5, "Fairy tale of fantasy", "中瀬ひな", 1],
-    [6, "ふたりのり", "神代あみ", 0],
-    [7, "NAMIDA", "Riryka", 0],
+    [6, "ふたりのり", "神代あみ", 1],
+    [7, "NAMIDA", "Riryka", 1],
     [8, "Eternal Ring", "榊原ゆい", 1],
-    [9, "涙の破片", "中山♡マミ", 0],
+    [9, "涙の破片", "中山♡マミ", 1],
     [10, "Castle of Heaven", "神代あみ", 1],
-    [11, "誇り高き勇者", "Riryka", 0],
-    [12, "Purest Days", "真理絵", 0],
-    [13, "薔薇に抱かれて", "Riryka", 0],
+    [11, "誇り高き勇者", "Riryka", 1],
+    [12, "Purest Days", "真理絵", 1],
+    [13, "薔薇に抱かれて", "Riryka", 1],
     [14, "CROSS WORLD", "神代あみ", 1],
-    [15, "最初の一歩", "中山♡マミ", 0],
-    [16, "宝物", "Riryka", 0],
+    [15, "最初の一歩", "中山♡マミ", 1],
+    [16, "宝物", "Riryka", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cb2c6331-c041-4a52-bdc5-4de55ce4bdf7", "https://vgmdb.net/album/9155"]
 
@@ -3610,7 +3610,7 @@ catalognumber = "AM-0003"
 date = "2009-05-01"
 album = "Rui wa Tomo wo Yobu Original Sound Track [Limited Edition]"
 tracks = [
-    [1, "絆", "真里歌", 0],
+    [1, "絆", "真里歌", 1],
     [2, "開幕", "佐々倉マコト", 0],
     [3, "ピンク・ポッチーズ？", "佐々倉マコト", 0],
     [4, "街は今日も平和です", "佐々倉マコト", 0],
@@ -3646,7 +3646,7 @@ tracks = [
     [34, "僕達の同盟", "佐々倉マコト", 0],
     [35, "僕達の絆", "佐々倉マコト", 0],
     [36, "るいは智を呼ぶ", "佐々倉マコト", 0],
-    [37, "宝物", "Riryka", 0],
+    [37, "宝物", "Riryka", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/98cde9e1-73e8-4cf8-9477-18593411f69e", "https://vgmdb.net/album/12942"]
 
@@ -3686,7 +3686,7 @@ tracks = [
     [29, "ガールズ’S・トーク", "伊福部武史, Angel Note & Barbarian On The Groove", 0],
     [30, "ゲッ・・！？", "伊福部武史, Angel Note & Barbarian On The Groove", 0],
     [31, "今日の終わりは明日の始まり", "伊福部武史, Angel Note & Barbarian On The Groove", 0],
-    [32, "パーソナルスペース", "榊原ゆい", 0],
+    [32, "パーソナルスペース", "榊原ゆい", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d69824c-f992-499b-991a-c20a87b8910b"]
 
@@ -3801,22 +3801,22 @@ catalognumber = "SRL-1004"
 date = "2009-08-28"
 album = "Heartful Moment -Angel Note Best Collection VI-"
 tracks = [
-    [1, "秋陽", "真里歌", 0],
-    [2, "keep on going", "榊原ゆい", 0],
-    [3, "戦士たちのLullaby", "瀬名", 0],
-    [4, "Moon Story", "UR@N", 0],
-    [5, "魂の炎", "UMA", 0],
-    [6, "希望の歌", "青葉りんご", 0],
+    [1, "秋陽", "真里歌", 1],
+    [2, "keep on going", "榊原ゆい", 1],
+    [3, "戦士たちのLullaby", "瀬名", 1],
+    [4, "Moon Story", "UR@N", 1],
+    [5, "魂の炎", "UMA", 1],
+    [6, "希望の歌", "青葉りんご", 1],
     [7, "Crusader Dream", "Riryka & 中瀬ひな", 2],
-    [8, "火華乱舞！", "神代あみ", 0],
-    [9, "Moon Garden", "Riryka", 0],
-    [10, "クレナイノツキ", "中瀬ひな", 0],
-    [11, "はっぴぃ", "yuiko", 0],
-    [12, "ナ・イ・ショの恋", "榊原ゆい", 0],
-    [13, "鏡の森", "片霧烈火", 0],
+    [8, "火華乱舞！", "神代あみ", 1],
+    [9, "Moon Garden", "Riryka", 1],
+    [10, "クレナイノツキ", "中瀬ひな", 1],
+    [11, "はっぴぃ", "yuiko", 1],
+    [12, "ナ・イ・ショの恋", "榊原ゆい", 1],
+    [13, "鏡の森", "片霧烈火", 1],
     [14, "Everlasting", "神代あみ", 1],
-    [15, "笑顔に会いたくて", "Riryka", 0],
-    [16, "輝いたまま", "中山♡マミ", 0],
+    [15, "笑顔に会いたくて", "Riryka", 1],
+    [16, "輝いたまま", "中山♡マミ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/844a6c83-f905-4959-8819-621df245effd", "https://vgmdb.net/album/14995"]
 
@@ -4408,7 +4408,7 @@ tracks = [
     [6, "Chime to you", "yozuca*", 0],
     [7, "雨のち晴れ", "rino", 0],
     [8, "木漏れ日のウィンク", "rino", 0],
-    [9, "宝物", "yozuca*", 0],
+    [9, "宝物", "yozuca*", 1],
     [10, "特別な予感", "rino", 0],
     [11, "夢色のため息", "rino", 0],
     [12, "ほんとのきもち", "yozuca*", 0],
@@ -4789,19 +4789,19 @@ album = "ORANGE CANDY BOX -Angel Note Best Collection 8-"
 tracks = [
     [1, "our precious bond", "中山♡マミ＆神代あみ", 2],
     [2, "Change&Chance!", "榊原ゆい", 1],
-    [3, "わたしの大事なもの", "橋本みゆき", 0],
-    [4, "夏のファンタジア", "佐藤ひろ美", 0],
-    [5, "I believe in you", "tohko", 0],
-    [6, "アイという名の地図", "真里歌", 0],
-    [7, "shining brightly", "Riryka＆なかせひな", 0],
-    [8, "刃に残るは君の面影", "Rita", 0],
-    [9, "Friends", "tohko", 0],
+    [3, "わたしの大事なもの", "橋本みゆき", 1],
+    [4, "夏のファンタジア", "佐藤ひろ美", 1],
+    [5, "I believe in you", "tohko", 1],
+    [6, "アイという名の地図", "真里歌", 1],
+    [7, "shining brightly", "Riryka＆なかせひな", 1],
+    [8, "刃に残るは君の面影", "Rita", 1],
+    [9, "Friends", "tohko", 1],
     [10, "everlasting", "Riryka", 1],
     [11, "dear", "なかせひな", 2],
-    [12, "水色ステージ", "真里歌", 0],
-    [13, "望郷歌～まほろば～", "佐藤ひろ美", 0],
+    [12, "水色ステージ", "真里歌", 1],
+    [13, "望郷歌～まほろば～", "佐藤ひろ美", 1],
     [14, "Cherry Day", "神代あみ", 1],
-    [15, "想ひ出小往", "瀬名", 0],
+    [15, "想ひ出小往", "瀬名", 1],
     [16, "Dear My Precious", "片霧烈火", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/50623f20-2a7b-4415-8ac0-f754c3eab753", "https://vgmdb.net/album/26383"]
@@ -5539,10 +5539,10 @@ catalognumber = "SRL-1007"
 date = "2013-03-29"
 album = "Angel Note -Venus Voice- Angel Note Best Collection Volume 9"
 tracks = [
-    [1, "Knowing", "真里歌", 0],
+    [1, "Knowing", "真里歌", 1],
     [2, "未来への一歩 (AngelNote featuring 民安★ROCK)", "民安★ROCK", 0],
     [3, "光臨！大天使ラビエル☆", "ラビエル (CV:中瀬ひな)", 0],
-    [4, "はっぴぃなんだからいいじゃん", "西野みく", 0],
+    [4, "はっぴぃなんだからいいじゃん", "西野みく", 1],
     [5, "Sweet Love", "tohko", 0],
     [6, "紅舞", "佐藤ひろ美", 0],
     [7, "故郷", "Kicco", 0],
@@ -5834,7 +5834,7 @@ album = "Koishiki Manual Original Soundtrack"
 tracks = [
     [1, "恋の補習を始めま♥Show", "", 1],
     [2, "いつもの日々", "", 0],
-    [3, "デート", "", 0],
+    [3, "デート", "", 1],
     [4, "これからどうするか", "", 0],
     [5, "助け合い", "", 0],
     [6, "いったい何が？", "", 0],
@@ -6471,7 +6471,7 @@ tracks = [
     [2, "キミだけを映してる", "", 0],
     [3, "もっともっと貴方を知りたい", "", 0],
     [4, "夢はきっと叶うから", "", 0],
-    [5, "絆", "", 0],
+    [5, "絆", "", 1],
     [6, "Take mirage #1", "", 0],
     [7, "夢の先へ", "", 0],
     [8, "夏影 suite1", "", 0],
@@ -6696,7 +6696,7 @@ tracks = [
     [15, "ZWEI WORTER ～僕らの世界～", "佐藤ひろ美", 0],
     [16, "Insanity", "青葉りんご", 0],
     [17, "eternity Star’s", "中瀬ひな", 1],
-    [18, "涙の破片", "中山♡マミ", 0],
+    [18, "涙の破片", "中山♡マミ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b696fe21-26ce-43a3-ba38-d640bbc48596", "https://vgmdb.net/album/61895"]
 
@@ -7286,8 +7286,8 @@ album = "YUZUSOFT VOCAL COLLECTION 2006-2016 Disc 1 [YSCD-0055]"
 tracks = [
     [1, "Beautiful Harmony", "榊原ゆい", 1],
     [2, "My Dear", "中山♡マミ", 1],
-    [3, "Trust in me", "榊原ゆい", 0],
-    [4, "true drop", "霜月はるか", 0],
+    [3, "Trust in me", "榊原ゆい", 1],
+    [4, "true drop", "霜月はるか", 1],
     [5, "想いのカナタ", "霜月はるか", 0],
     [6, "リフレイン", "榊原ゆい", 0],
     [7, "メチャ恋らんまん☆", "榊原ゆい", 0],
