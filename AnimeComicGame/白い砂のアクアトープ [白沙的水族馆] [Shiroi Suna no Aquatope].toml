@@ -3,8 +3,8 @@ catalognumber = "LACM-34136"
 date = "2021-07-14"
 album = "たゆたえ、七色 / ARCANA PROJECT [正位置ver.] Disc 1 (CD)"
 tracks = [
-    [1, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [2, "星影のファンタジア", "ARCANA PROJECT", 0],
+    [1, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [2, "星影のファンタジア", "ARCANA PROJECT", 1],
     [3, "きっと、その未来にたどり着くから。", "ARCANA PROJECT", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/46c3ed57-ea60-42a2-93dc-b813353086ab", "https://vgmdb.net/album/110576"]
@@ -24,8 +24,8 @@ catalognumber = "LACM-24137"
 date = "2021-07-14"
 album = "たゆたえ、七色 / ARCANA PROJECT [アニメ盤]"
 tracks = [
-    [1, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [2, "星影のファンタジア", "ARCANA PROJECT", 0],
+    [1, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [2, "星影のファンタジア", "ARCANA PROJECT", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/efb99003-228c-4d99-bde7-85a6616e344e", "https://vgmdb.net/album/110575"]
 
@@ -44,8 +44,8 @@ catalognumber = "LACM-34137"
 date = "2021-07-14"
 album = "たゆたえ、七色 / ARCANA PROJECT [逆位置ver.] Disc 1 (CD)"
 tracks = [
-    [1, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [2, "星影のファンタジア", "ARCANA PROJECT", 0],
+    [1, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [2, "星影のファンタジア", "ARCANA PROJECT", 1],
     [3, "Ophelia", "ARCANA PROJECT", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/ed3fb6a4-c29b-43d0-9dfd-92069034aee9", "https://vgmdb.net/album/110577"]
@@ -55,9 +55,9 @@ catalognumber = "LACM-24136"
 date = "2021-07-14"
 album = "たゆたえ、七色 / ARCANA PROJECT"
 tracks = [
-    [1, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [2, "星影のファンタジア", "ARCANA PROJECT", 0],
-    [3, "ドンケア", "ARCANA PROJECT", 0],
+    [1, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [2, "星影のファンタジア", "ARCANA PROJECT", 1],
+    [3, "ドンケア", "ARCANA PROJECT", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ff7c2aa4-5335-4e0c-b851-f66b31ed7b55", "https://vgmdb.net/album/110574"]
 
@@ -66,7 +66,7 @@ catalognumber = "LACM-24155"
 date = "2021-07-28"
 album = "月海の揺り籠 / Mia REGINA [アーティスト盤] Vocal, Video"
 tracks = [
-    [1, "月海の揺り籠 (MUSIC VIDEO)", "Mia REGINA", 0],
+    [1, "月海の揺り籠 (MUSIC VIDEO)", "Mia REGINA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/639e6f31-e9d4-4e59-ae65-07ebe1c0ae7c", "https://vgmdb.net/album/111468"]
 
@@ -75,10 +75,10 @@ catalognumber = "LACM-24155"
 date = "2021-07-28"
 album = "月海の揺り籠 / Mia REGINA [アーティスト盤] Vocal"
 tracks = [
-    [1, "月海の揺り籠", "Mia REGINA", 0],
-    [2, "Dear!!!", "Mia REGINA", 0],
-    [3, "月海の揺り籠 (Instrumental)", "Mia REGINA", 0],
-    [4, "Dear!!! (Instrumental)", "Mia REGINA", 0],
+    [1, "月海の揺り籠", "Mia REGINA", 1],
+    [2, "Dear!!!", "Mia REGINA", 1],
+    [3, "月海の揺り籠 (Instrumental)", "Mia REGINA", 1],
+    [4, "Dear!!! (Instrumental)", "Mia REGINA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/639e6f31-e9d4-4e59-ae65-07ebe1c0ae7c", "https://vgmdb.net/album/111468"]
 
@@ -87,10 +87,10 @@ catalognumber = "LACM-24156"
 date = "2021-07-28"
 album = "月海の揺り籠 / Mia REGINA [アニメ盤]"
 tracks = [
-    [1, "月海の揺り籠", "Mia REGINA", 0],
-    [2, "Dear!!!", "Mia REGINA", 0],
-    [3, "月海の揺り籠 (Instrumental)", "Mia REGINA", 0],
-    [4, "Dear!!! (Instrumental)", "Mia REGINA", 0],
+    [1, "月海の揺り籠", "Mia REGINA", 1],
+    [2, "Dear!!!", "Mia REGINA", 1],
+    [3, "月海の揺り籠 (Instrumental)", "Mia REGINA", 1],
+    [4, "Dear!!! (Instrumental)", "Mia REGINA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3df30796-b425-42d0-b1c3-7031d1908cac", "https://vgmdb.net/album/111469"]
 
@@ -99,8 +99,8 @@ catalognumber = "LACM-24204"
 date = "2021-10-27"
 album = "とめどない潮騒に僕たちは何を歌うだろうか / ARCANA PROJECT [アニメ盤]"
 tracks = [
-    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [2, "迷わないConquest", "ARCANA PROJECT", 0],
+    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [2, "迷わないConquest", "ARCANA PROJECT", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ac731660-90aa-4a81-af3a-1eb538a693a8", "https://vgmdb.net/album/113670"]
 
@@ -109,8 +109,8 @@ catalognumber = "LACM-34204"
 date = "2021-10-27"
 album = "とめどない潮騒に僕たちは何を歌うだろうか / ARCANA PROJECT [逆位置ver.] Vocal"
 tracks = [
-    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [2, "迷わないConquest", "ARCANA PROJECT", 0],
+    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [2, "迷わないConquest", "ARCANA PROJECT", 1],
     [3, "Ace Of Pentacles", "ARCANA PROJECT", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/15e711e2-3b08-400e-b829-c48afc3b4e72", "https://vgmdb.net/album/113672"]
@@ -130,8 +130,8 @@ catalognumber = "LACM-34203"
 date = "2021-10-27"
 album = "とめどない潮騒に僕たちは何を歌うだろうか / ARCANA PROJECT [正位置ver.] Vocal"
 tracks = [
-    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [2, "迷わないConquest", "ARCANA PROJECT", 0],
+    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [2, "迷わないConquest", "ARCANA PROJECT", 1],
     [3, "Ace Of Pentacles", "ARCANA PROJECT", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/03d95858-a6cf-4f81-9665-3daad8ee42d6", "https://vgmdb.net/album/113673"]
@@ -151,8 +151,8 @@ catalognumber = "LACM-24203"
 date = "2021-10-27"
 album = "とめどない潮騒に僕たちは何を歌うだろうか / ARCANA PROJECT"
 tracks = [
-    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [2, "迷わないConquest", "ARCANA PROJECT", 0],
+    [1, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [2, "迷わないConquest", "ARCANA PROJECT", 1],
     [3, "Ace Of Pentacles", "ARCANA PROJECT", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9d11d6dc-834c-4241-a076-20ba0817002c", "https://vgmdb.net/album/113671"]
@@ -162,10 +162,10 @@ catalognumber = "LACM-24178"
 date = "2021-11-10"
 album = "新月のダ・カーポ / 相沢梨紗(でんぱ組.inc) [アーティスト盤] Vocal"
 tracks = [
-    [1, "新月のダ・カーポ", "相沢梨紗 (でんぱ組.inc)", 0],
-    [2, "運命論アイドリング", "相沢梨紗 (でんぱ組.inc)", 0],
-    [3, "新月のダ・カーポ (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 0],
-    [4, "運命論アイドリング (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 0],
+    [1, "新月のダ・カーポ", "相沢梨紗 (でんぱ組.inc)", 1],
+    [2, "運命論アイドリング", "相沢梨紗 (でんぱ組.inc)", 1],
+    [3, "新月のダ・カーポ (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 1],
+    [4, "運命論アイドリング (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/756d6fd5-5a15-42d8-b04d-9a42c2c1ba5e", "https://vgmdb.net/album/113668"]
 
@@ -174,8 +174,8 @@ catalognumber = "LACM-24178"
 date = "2021-11-10"
 album = "新月のダ・カーポ / 相沢梨紗(でんぱ組.inc) [アーティスト盤] Vocal, Video"
 tracks = [
-    [1, "新月のダ・カーポ (Music Video)", "相沢梨紗", 0],
-    [2, "新月のダ・カーポ (Music Video Making)", "相沢梨紗", 0],
+    [1, "新月のダ・カーポ (Music Video)", "相沢梨紗", 1],
+    [2, "新月のダ・カーポ (Music Video Making)", "相沢梨紗", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/756d6fd5-5a15-42d8-b04d-9a42c2c1ba5e", "https://vgmdb.net/album/113668"]
 
@@ -184,10 +184,10 @@ catalognumber = "LACM-24179"
 date = "2021-11-10"
 album = "新月のダ・カーポ / 相沢梨紗(でんぱ組.inc) [アニメ盤]"
 tracks = [
-    [1, "新月のダ・カーポ", "相沢梨紗 (でんぱ組.inc)", 0],
-    [2, "運命論アイドリング", "相沢梨紗 (でんぱ組.inc)", 0],
-    [3, "新月のダ・カーポ (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 0],
-    [4, "運命論アイドリング (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 0],
+    [1, "新月のダ・カーポ", "相沢梨紗 (でんぱ組.inc)", 1],
+    [2, "運命論アイドリング", "相沢梨紗 (でんぱ組.inc)", 1],
+    [3, "新月のダ・カーポ (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 1],
+    [4, "運命論アイドリング (Instrumental)", "相沢梨紗 (でんぱ組.inc)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/85ecb852-6923-465e-a0d3-3fdf67455a4e", "https://vgmdb.net/album/113667"]
 
@@ -196,10 +196,10 @@ catalognumber = "LACM-24209"
 date = "2021-11-24"
 album = "High tide girl / 海咲野くくる (CV:伊藤美来)"
 tracks = [
-    [1, "High tide girl", "海咲野くくる(CV.伊藤美来)", 0],
-    [2, "君といたアクアトープ", "海咲野くくる(CV.伊藤美来)、宮沢風花(CV.逢田梨香子)", 0],
-    [3, "High tide girl (Instrumental)", "海咲野くくる(CV.伊藤美来)", 0],
-    [4, "君といたアクアトープ (Instrumental)", "海咲野くくる(CV.伊藤美来)、宮沢風花(CV.逢田梨香子)", 0],
+    [1, "High tide girl", "海咲野くくる(CV.伊藤美来)", 1],
+    [2, "君といたアクアトープ", "海咲野くくる(CV.伊藤美来)、宮沢風花(CV.逢田梨香子)", 1],
+    [3, "High tide girl (Instrumental)", "海咲野くくる(CV.伊藤美来)", 1],
+    [4, "君といたアクアトープ (Instrumental)", "海咲野くくる(CV.伊藤美来)、宮沢風花(CV.逢田梨香子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fe060c05-8e32-4193-9a67-887e0c447a7f", "https://vgmdb.net/album/114656"]
 
@@ -208,42 +208,42 @@ catalognumber = "LACA-9875~6"
 date = "2022-01-26"
 album = "TVアニメ『白い砂のアクアトープ』オリジナルサウンドトラック Original Soundtrack"
 tracks = [
-    [1, "まくとぅそーけ、なんくるないさ", "出羽良彰", 0],
-    [2, "新しいスタート", "出羽良彰", 0],
-    [3, "アクリルガラス", "出羽良彰", 0],
-    [4, "くくる", "出羽良彰", 0],
-    [5, "導かれるままに", "出羽良彰", 0],
-    [6, "風花", "出羽良彰", 0],
-    [7, "あきらめきれない夢", "出羽良彰", 0],
-    [8, "アクアトープ", "出羽良彰", 0],
-    [9, "がまがま水族館", "出羽良彰", 0],
-    [10, "夏休み館長", "出羽良彰", 0],
-    [11, "ひるまさん、、", "出羽良彰", 0],
-    [12, "うどんちゃん", "出羽良彰", 0],
-    [13, "くちばしの傷", "出羽良彰", 0],
-    [14, "なくしかけてるくくるの夢", "出羽良彰", 0],
-    [15, "夢を守るため", "出羽良彰", 0],
-    [16, "ふたりの再出発", "出羽良彰", 0],
-    [17, "ブルー", "出羽良彰", 0],
-    [18, "フラッシュバック", "出羽良彰", 0],
-    [19, "母と子", "出羽良彰", 0],
-    [20, "バックヤード", "出羽良彰", 0],
-    [21, "不審者", "出羽良彰", 0],
-    [22, "隠せない動揺", "出羽良彰", 0],
-    [23, "重なる心", "出羽良彰", 0],
-    [24, "予感", "出羽良彰", 0],
-    [25, "不穏な空気", "出羽良彰", 0],
-    [26, "よんな〜 よんな〜", "出羽良彰", 0],
-    [27, "まだ、大事な仕事が", "出羽良彰", 0],
-    [28, "悲しみを堪えて", "出羽良彰", 0],
-    [29, "ファーストペンギン", "出羽良彰", 0],
-    [30, "久しぶりの休日", "出羽良彰", 0],
-    [31, "真帆とくくる", "出羽良彰", 0],
-    [32, "チョコ", "出羽良彰", 0],
-    [33, "揺らぐ心", "出羽良彰", 0],
-    [34, "漂流", "出羽良彰", 0],
-    [35, "くくるの絶望", "出羽良彰", 0],
-    [36, "夢の終わりと始まり", "出羽良彰", 0],
+    [1, "まくとぅそーけ、なんくるないさ", "出羽良彰", 1],
+    [2, "新しいスタート", "出羽良彰", 1],
+    [3, "アクリルガラス", "出羽良彰", 1],
+    [4, "くくる", "出羽良彰", 1],
+    [5, "導かれるままに", "出羽良彰", 1],
+    [6, "風花", "出羽良彰", 1],
+    [7, "あきらめきれない夢", "出羽良彰", 1],
+    [8, "アクアトープ", "出羽良彰", 1],
+    [9, "がまがま水族館", "出羽良彰", 1],
+    [10, "夏休み館長", "出羽良彰", 1],
+    [11, "ひるまさん、、", "出羽良彰", 1],
+    [12, "うどんちゃん", "出羽良彰", 1],
+    [13, "くちばしの傷", "出羽良彰", 1],
+    [14, "なくしかけてるくくるの夢", "出羽良彰", 1],
+    [15, "夢を守るため", "出羽良彰", 1],
+    [16, "ふたりの再出発", "出羽良彰", 1],
+    [17, "ブルー", "出羽良彰", 1],
+    [18, "フラッシュバック", "出羽良彰", 1],
+    [19, "母と子", "出羽良彰", 1],
+    [20, "バックヤード", "出羽良彰", 1],
+    [21, "不審者", "出羽良彰", 1],
+    [22, "隠せない動揺", "出羽良彰", 1],
+    [23, "重なる心", "出羽良彰", 1],
+    [24, "予感", "出羽良彰", 1],
+    [25, "不穏な空気", "出羽良彰", 1],
+    [26, "よんな〜 よんな〜", "出羽良彰", 1],
+    [27, "まだ、大事な仕事が", "出羽良彰", 1],
+    [28, "悲しみを堪えて", "出羽良彰", 1],
+    [29, "ファーストペンギン", "出羽良彰", 1],
+    [30, "久しぶりの休日", "出羽良彰", 1],
+    [31, "真帆とくくる", "出羽良彰", 1],
+    [32, "チョコ", "出羽良彰", 1],
+    [33, "揺らぐ心", "出羽良彰", 1],
+    [34, "漂流", "出羽良彰", 1],
+    [35, "くくるの絶望", "出羽良彰", 1],
+    [36, "夢の終わりと始まり", "出羽良彰", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7293683c-0b37-46b5-8290-ef6e8dbdb9f7", "https://vgmdb.net/album/116125"]
 
@@ -252,39 +252,39 @@ catalognumber = "LACA-9875~6"
 date = "2022-01-26"
 album = "TVアニメ『白い砂のアクアトープ』オリジナルサウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "Re Start!!", "出羽良彰", 0],
-    [2, "おそろいのキーホルダー", "出羽良彰", 0],
-    [3, "アクアスフィア", "出羽良彰", 0],
-    [4, "プランクトン", "出羽良彰", 0],
-    [5, "タッチプール", "出羽良彰", 0],
-    [6, "アクアリウム・ティンガーラ", "出羽良彰", 0],
-    [7, "失敗の予感", "出羽良彰", 0],
-    [8, "泣いてないよ、", "出羽良彰", 0],
-    [9, "あなたがいるから", "出羽良彰", 0],
-    [10, "レクリエーション", "出羽良彰", 0],
-    [11, "ペンギンストライク", "出羽良彰", 0],
-    [12, "OHANA", "出羽良彰", 0],
-    [13, "ウミウシ採取", "出羽良彰", 0],
-    [14, "カイシャ", "出羽良彰", 0],
-    [15, "しらたま", "出羽良彰", 0],
-    [16, "ここにいる理由", "出羽良彰", 0],
-    [17, "限界かも、、", "出羽良彰", 0],
-    [18, "知夢の憂鬱", "出羽良彰", 0],
-    [19, "育児体験", "出羽良彰", 0],
-    [20, "大事な一人息子", "出羽良彰", 0],
-    [21, "知夢の告白", "出羽良彰", 0],
-    [22, "海月風", "出羽良彰", 0],
-    [23, "離島", "出羽良彰", 0],
-    [24, "ルカの悩み", "出羽良彰", 0],
-    [25, "積み重なるダメージ", "出羽良彰", 0],
-    [26, "迷子のイルカ", "出羽良彰", 0],
-    [27, "ウミガメの孵化", "出羽良彰", 0],
-    [28, "イルカとの別れ", "出羽良彰", 0],
-    [29, "未来へ", "出羽良彰", 0],
-    [30, "たゆたえ、七色 (TV Size)", "ARCANA PROJECT", 0],
-    [31, "月海の揺り籠 (TV Size)", "Mia REGINA", 0],
-    [32, "とめどない潮騒に僕たちは何を歌うだろうか (TV Size)", "ARCANA PROJECT", 0],
-    [33, "新月のダ・カーポ (TV Size)", "相沢梨紗", 0],
+    [1, "Re Start!!", "出羽良彰", 1],
+    [2, "おそろいのキーホルダー", "出羽良彰", 1],
+    [3, "アクアスフィア", "出羽良彰", 1],
+    [4, "プランクトン", "出羽良彰", 1],
+    [5, "タッチプール", "出羽良彰", 1],
+    [6, "アクアリウム・ティンガーラ", "出羽良彰", 1],
+    [7, "失敗の予感", "出羽良彰", 1],
+    [8, "泣いてないよ、", "出羽良彰", 1],
+    [9, "あなたがいるから", "出羽良彰", 1],
+    [10, "レクリエーション", "出羽良彰", 1],
+    [11, "ペンギンストライク", "出羽良彰", 1],
+    [12, "OHANA", "出羽良彰", 1],
+    [13, "ウミウシ採取", "出羽良彰", 1],
+    [14, "カイシャ", "出羽良彰", 1],
+    [15, "しらたま", "出羽良彰", 1],
+    [16, "ここにいる理由", "出羽良彰", 1],
+    [17, "限界かも、、", "出羽良彰", 1],
+    [18, "知夢の憂鬱", "出羽良彰", 1],
+    [19, "育児体験", "出羽良彰", 1],
+    [20, "大事な一人息子", "出羽良彰", 1],
+    [21, "知夢の告白", "出羽良彰", 1],
+    [22, "海月風", "出羽良彰", 1],
+    [23, "離島", "出羽良彰", 1],
+    [24, "ルカの悩み", "出羽良彰", 1],
+    [25, "積み重なるダメージ", "出羽良彰", 1],
+    [26, "迷子のイルカ", "出羽良彰", 1],
+    [27, "ウミガメの孵化", "出羽良彰", 1],
+    [28, "イルカとの別れ", "出羽良彰", 1],
+    [29, "未来へ", "出羽良彰", 1],
+    [30, "たゆたえ、七色 (TV Size)", "ARCANA PROJECT", 1],
+    [31, "月海の揺り籠 (TV Size)", "Mia REGINA", 1],
+    [32, "とめどない潮騒に僕たちは何を歌うだろうか (TV Size)", "ARCANA PROJECT", 1],
+    [33, "新月のダ・カーポ (TV Size)", "相沢梨紗", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7293683c-0b37-46b5-8290-ef6e8dbdb9f7", "https://vgmdb.net/album/116125"]
 
@@ -295,9 +295,9 @@ album = "創世記 / ARCANA PROJECT Disc 1 [LACA-9911]"
 tracks = [
     [1, "快晴のエスタリスタ", "ARCANA PROJECT", 0],
     [2, "カンパネラ響く空で", "ARCANA PROJECT", 0],
-    [3, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [4, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [5, "星影のファンタジア", "ARCANA PROJECT", 0],
+    [3, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [4, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [5, "星影のファンタジア", "ARCANA PROJECT", 1],
     [6, "夢で世界を変えるなら", "ARCANA PROJECT", 0],
     [7, "the Sunlight", "ARCANA PROJECT", 0],
 ]
@@ -325,9 +325,9 @@ album = "創世記 / ARCANA PROJECT [初回限定盤] Vocal Disc 1"
 tracks = [
     [1, "快晴のエスタリスタ", "ARCANA PROJECT", 0],
     [2, "カンパネラ響く空で", "ARCANA PROJECT", 0],
-    [3, "たゆたえ、七色", "ARCANA PROJECT", 0],
-    [4, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 0],
-    [5, "星影のファンタジア", "ARCANA PROJECT", 0],
+    [3, "たゆたえ、七色", "ARCANA PROJECT", 1],
+    [4, "とめどない潮騒に僕たちは何を歌うだろうか", "ARCANA PROJECT", 1],
+    [5, "星影のファンタジア", "ARCANA PROJECT", 1],
     [6, "夢で世界を変えるなら", "ARCANA PROJECT", 0],
     [7, "the Sunlight", "ARCANA PROJECT", 0],
 ]

@@ -25,7 +25,7 @@ catalognumber = "N/A"
 date = "2023-10-23"
 album = "想風 / 大原ゆい子"
 tracks = [
-    [1, "想風", "大原ゆい子、桶狭間ありさ", 0],
+    [1, "想風", "大原ゆい子、桶狭間ありさ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9b10bf66-5860-4e5a-8c28-97e50223ad95", "https://vgmdb.net/album/133718"]
 
@@ -34,7 +34,7 @@ catalognumber = "ANTCD-A0000011832"
 date = "2023-10-27"
 album = "アイコトバ / アイナ・ジ・エンド"
 tracks = [
-    [1, "アイコトバ", "アイナ・ジ・エンド", 0],
+    [1, "アイコトバ", "アイナ・ジ・エンド", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/002f54b1-31d1-4450-8d74-2e07dbc3a4cf", "https://vgmdb.net/album/133687"]
 
@@ -52,10 +52,10 @@ catalognumber = "ESCL-5893~4"
 date = "2023-12-06"
 album = "花になって / 緑黄色社会 [期間生産限定盤] Disc 1 (CD) [ESCL-5893]"
 tracks = [
-    [1, "花になって", "緑黄色社会", 0],
-    [2, "夢と悪魔とファンタジー", "緑黄色社会", 0],
-    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 0],
-    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 0],
+    [1, "花になって", "緑黄色社会", 1],
+    [2, "夢と悪魔とファンタジー", "緑黄色社会", 1],
+    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 1],
+    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/36077808-ada9-4f59-9125-1db3feaf41ba", "https://vgmdb.net/album/133686"]
 
@@ -73,10 +73,10 @@ catalognumber = "ESCL-5890~1"
 date = "2023-12-06"
 album = "花になって / 緑黄色社会 [初回生産限定盤] Disc 1 (CD) [ESCL-5890]"
 tracks = [
-    [1, "花になって", "緑黄色社会", 0],
-    [2, "夢と悪魔とファンタジー", "緑黄色社会", 0],
-    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 0],
-    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 0],
+    [1, "花になって", "緑黄色社会", 1],
+    [2, "夢と悪魔とファンタジー", "緑黄色社会", 1],
+    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 1],
+    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/de9f4b2d-3321-40bc-902f-e1ff10d45526", "https://vgmdb.net/album/133684"]
 
@@ -94,10 +94,10 @@ catalognumber = "ESCL-5892"
 date = "2023-12-06"
 album = "花になって / 緑黄色社会"
 tracks = [
-    [1, "花になって", "緑黄色社会", 0],
-    [2, "夢と悪魔とファンタジー", "緑黄色社会", 0],
-    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 0],
-    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 0],
+    [1, "花になって", "緑黄色社会", 1],
+    [2, "夢と悪魔とファンタジー", "緑黄色社会", 1],
+    [3, "花になって (INSTRUMENTAL)", "緑黄色社会", 1],
+    [4, "夢と悪魔とファンタジー (INSTRUMENTAL)", "緑黄色社会", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/191834e4-382b-4ac2-a44b-fedafc07145a", "https://vgmdb.net/album/133685"]
 
@@ -106,7 +106,7 @@ catalognumber = "N/A"
 date = "2023-12-24"
 album = "雪中花 / きしかな子"
 tracks = [
-    [1, "雪中花", "きしかな子、内田ましろ、神前暁", 0],
+    [1, "雪中花", "きしかな子、内田ましろ、神前暁", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4e4158ee-e81b-4360-a137-e12aeb18349a", "https://vgmdb.net/album/135267"]
 
@@ -115,10 +115,10 @@ catalognumber = "AICL-4509~10"
 date = "2024-02-14"
 album = "アンビバレント / Uru [期間生産限定盤] Vocal"
 tracks = [
-    [1, "アンビバレント", "Uru", 0],
-    [2, "「君の幸せを」", "Uru", 0],
-    [3, "紙一重 Self-cover ver.", "Uru", 0],
-    [4, "アンビバレント [TV size]", "Uru", 0],
+    [1, "アンビバレント", "Uru", 1],
+    [2, "「君の幸せを」", "Uru", 1],
+    [3, "紙一重 Self-cover ver.", "Uru", 1],
+    [4, "アンビバレント [TV size]", "Uru", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bf870a2e-f492-46b6-afff-40f665c59418", "https://vgmdb.net/album/147309"]
 
@@ -136,12 +136,12 @@ catalognumber = "AICL-4506~7"
 date = "2024-02-14"
 album = "アンビバレント / Uru [初回生産限定盤] Vocal"
 tracks = [
-    [1, "アンビバレント", "Uru", 0],
-    [2, "「君の幸せを」", "Uru", 0],
-    [3, "ランデヴー", "Uru", 0],
-    [4, "紙一重 Self-cover ver.", "Uru", 0],
-    [5, "アンビバレント -instrumental-", "Uru", 0],
-    [6, "「君の幸せを」 -instrumental-", "Uru", 0],
+    [1, "アンビバレント", "Uru", 1],
+    [2, "「君の幸せを」", "Uru", 1],
+    [3, "ランデヴー", "Uru", 1],
+    [4, "紙一重 Self-cover ver.", "Uru", 1],
+    [5, "アンビバレント -instrumental-", "Uru", 1],
+    [6, "「君の幸せを」 -instrumental-", "Uru", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3229e009-0d70-48d4-ab42-a28a51335db3", "https://vgmdb.net/album/147310"]
 
@@ -154,7 +154,7 @@ tracks = [
     [2, "心得", "Uru", 0],
     [3, "たとえば", "Uru", 0],
     [4, "心得", "Uru", 0],
-    [5, "紙一重", "Uru", 0],
+    [5, "紙一重", "Uru", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3229e009-0d70-48d4-ab42-a28a51335db3", "https://vgmdb.net/album/147310"]
 
@@ -163,12 +163,12 @@ catalognumber = "AICL-4508"
 date = "2024-02-14"
 album = "アンビバレント / Uru"
 tracks = [
-    [1, "アンビバレント", "Uru", 0],
-    [2, "「君の幸せを」", "Uru", 0],
-    [3, "ランデヴー", "Uru", 0],
-    [4, "紙一重 Self-cover ver.", "Uru", 0],
-    [5, "アンビバレント -instrumental-", "Uru", 0],
-    [6, "「君の幸せを」 -instrumental-", "Uru", 0],
+    [1, "アンビバレント", "Uru", 1],
+    [2, "「君の幸せを」", "Uru", 1],
+    [3, "ランデヴー", "Uru", 1],
+    [4, "紙一重 Self-cover ver.", "Uru", 1],
+    [5, "アンビバレント -instrumental-", "Uru", 1],
+    [6, "「君の幸せを」 -instrumental-", "Uru", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94094ac7-4c10-461a-9987-4aaaeb155ebf", "https://vgmdb.net/album/147308"]
 
@@ -177,7 +177,7 @@ catalognumber = "N/A"
 date = "2024-02-19"
 album = "蒼空の炎 / 竹中だいち"
 tracks = [
-    [1, "蒼空の炎", "竹中だいち、内田ましろ、神前暁", 0],
+    [1, "蒼空の炎", "竹中だいち、内田ましろ、神前暁", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3102349f-d70c-450a-9aef-76b61c80c4b0", "https://vgmdb.net/album/136819"]
 
@@ -186,9 +186,9 @@ catalognumber = "ESCL-5923~4"
 date = "2024-02-21"
 album = "愛は薬 / wacci [期間生産限定盤] Disc 1 (CD) [ESCL-5923]"
 tracks = [
-    [1, "愛は薬", "wacci", 0],
-    [2, "リバイバル", "wacci feat. asmi", 0],
-    [3, "君だ", "wacci", 0],
+    [1, "愛は薬", "wacci", 1],
+    [2, "リバイバル", "wacci feat. asmi", 1],
+    [3, "君だ", "wacci", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8fcaf551-52c5-4577-8d44-e5478ab91dc1", "https://vgmdb.net/album/137985"]
 
@@ -207,7 +207,7 @@ catalognumber = "N/A"
 date = "2024-03-25"
 album = "想い咲く時 / アオイエマ。"
 tracks = [
-    [1, "想い咲く時", "アオイエマ。、内田ましろ、神前暁", 0],
+    [1, "想い咲く時", "アオイエマ。、内田ましろ、神前暁", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ead1fff3-17da-4313-9b4d-180c0c3b2b13", "https://vgmdb.net/album/137795"]
 
@@ -216,39 +216,39 @@ catalognumber = "THCA-60289"
 date = "2024-04-17"
 album = "TVアニメ 薬屋のひとりごと オリジナル・サウンドトラック Original Soundtrack, Vocal Disc 1"
 tracks = [
-    [1, "薬屋", "神前暁", 0],
-    [2, "輝く心", "神前暁", 0],
-    [3, "やり手婆", "神前暁", 0],
-    [4, "侍女", "神前暁", 0],
-    [5, "後宮", "神前暁", 0],
-    [6, "毒見役", "神前暁", 0],
-    [7, "知的欲求", "神前暁", 0],
-    [8, "かみ合わない", "神前暁", 0],
-    [9, "同情", "神前暁", 0],
-    [10, "猫猫の日常", "神前暁", 0],
-    [11, "状況把握", "神前暁", 0],
-    [12, "妃教育", "神前暁", 0],
-    [13, "恫喝", "神前暁", 0],
-    [14, "いつでも帰っておいで", "神前暁", 0],
-    [15, "お茶会", "神前暁", 0],
-    [16, "園遊会", "神前暁", 0],
-    [17, "蜂蜜", "神前暁", 0],
-    [18, "検証", "神前暁", 0],
-    [19, "ハマギク", "神前暁", 0],
-    [20, "分析", "神前暁", 0],
-    [21, "ホトトギス", "神前暁", 0],
-    [22, "秘めた意思", "神前暁", 0],
-    [23, "観察", "神前暁", 0],
-    [24, "明日を訪ねて", "XAI、神前暁", 0],
-    [25, "私はただの女官", "神前暁", 0],
-    [26, "雪中花", "きしかな子、内田ましろ、神前暁", 0],
-    [27, "片喰", "神前暁", 0],
-    [28, "ハナズオウ", "神前暁", 0],
-    [29, "枯れた薔薇", "神前暁", 0],
-    [30, "鳳仙花", "神前暁", 0],
-    [31, "身請け", "神前暁", 0],
-    [32, "蒼空の炎", "竹中だいち、内田ましろ、神前暁", 0],
-    [33, "想い咲く時", "アオイエマ。、内田ましろ、神前暁", 0],
+    [1, "薬屋", "神前暁", 1],
+    [2, "輝く心", "神前暁", 1],
+    [3, "やり手婆", "神前暁", 1],
+    [4, "侍女", "神前暁", 1],
+    [5, "後宮", "神前暁", 1],
+    [6, "毒見役", "神前暁", 1],
+    [7, "知的欲求", "神前暁", 1],
+    [8, "かみ合わない", "神前暁", 1],
+    [9, "同情", "神前暁", 1],
+    [10, "猫猫の日常", "神前暁", 1],
+    [11, "状況把握", "神前暁", 1],
+    [12, "妃教育", "神前暁", 1],
+    [13, "恫喝", "神前暁", 1],
+    [14, "いつでも帰っておいで", "神前暁", 1],
+    [15, "お茶会", "神前暁", 1],
+    [16, "園遊会", "神前暁", 1],
+    [17, "蜂蜜", "神前暁", 1],
+    [18, "検証", "神前暁", 1],
+    [19, "ハマギク", "神前暁", 1],
+    [20, "分析", "神前暁", 1],
+    [21, "ホトトギス", "神前暁", 1],
+    [22, "秘めた意思", "神前暁", 1],
+    [23, "観察", "神前暁", 1],
+    [24, "明日を訪ねて", "XAI、神前暁", 1],
+    [25, "私はただの女官", "神前暁", 1],
+    [26, "雪中花", "きしかな子、内田ましろ、神前暁", 1],
+    [27, "片喰", "神前暁", 1],
+    [28, "ハナズオウ", "神前暁", 1],
+    [29, "枯れた薔薇", "神前暁", 1],
+    [30, "鳳仙花", "神前暁", 1],
+    [31, "身請け", "神前暁", 1],
+    [32, "蒼空の炎", "竹中だいち、内田ましろ、神前暁", 1],
+    [33, "想い咲く時", "アオイエマ。、内田ましろ、神前暁", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d264e53-c0c8-4b21-8b23-4dec999aa58e", "https://vgmdb.net/album/135381"]
 
@@ -257,24 +257,24 @@ catalognumber = "THCA-60289"
 date = "2024-04-17"
 album = "TVアニメ 薬屋のひとりごと オリジナル・サウンドトラック Original Soundtrack"
 tracks = [
-    [1, "Echo", "Kevin Penkin", 0],
-    [2, "The Crystal Pavilion", "Kevin Penkin", 0],
-    [3, "Pizz Comedy", "Kevin Penkin", 0],
-    [4, "The March Of Events", "Kevin Penkin", 0],
-    [5, "Sadness", "Kevin Penkin", 0],
-    [6, "Horror Gong", "Kevin Penkin", 0],
-    [7, "Cold", "Kevin Penkin", 0],
-    [8, "Cold Marble", "Kevin Penkin", 0],
-    [9, "Violet", "Kevin Penkin", 0],
-    [10, "Winter Fruit", "Kevin Penkin", 0],
-    [11, "Colore", "Kevin Penkin", 0],
-    [12, "Renge Azalea - Hulusi -", "Kevin Penkin", 0],
-    [13, "Echo II", "Kevin Penkin", 0],
-    [14, "j’accuse!", "Kevin Penkin", 0],
-    [15, "My Hometown", "Kevin Penkin", 0],
-    [16, "Blue Rose", "Kevin Penkin", 0],
-    [17, "Let Me Die", "Kevin Penkin", 0],
-    [18, "Thousands", "Kevin Penkin", 0],
+    [1, "Echo", "Kevin Penkin", 1],
+    [2, "The Crystal Pavilion", "Kevin Penkin", 1],
+    [3, "Pizz Comedy", "Kevin Penkin", 1],
+    [4, "The March Of Events", "Kevin Penkin", 1],
+    [5, "Sadness", "Kevin Penkin", 1],
+    [6, "Horror Gong", "Kevin Penkin", 1],
+    [7, "Cold", "Kevin Penkin", 1],
+    [8, "Cold Marble", "Kevin Penkin", 1],
+    [9, "Violet", "Kevin Penkin", 1],
+    [10, "Winter Fruit", "Kevin Penkin", 1],
+    [11, "Colore", "Kevin Penkin", 1],
+    [12, "Renge Azalea - Hulusi -", "Kevin Penkin", 1],
+    [13, "Echo II", "Kevin Penkin", 1],
+    [14, "j’accuse!", "Kevin Penkin", 1],
+    [15, "My Hometown", "Kevin Penkin", 1],
+    [16, "Blue Rose", "Kevin Penkin", 1],
+    [17, "Let Me Die", "Kevin Penkin", 1],
+    [18, "Thousands", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d264e53-c0c8-4b21-8b23-4dec999aa58e", "https://vgmdb.net/album/135381"]
 
@@ -283,32 +283,32 @@ catalognumber = "THCA-60289"
 date = "2024-04-17"
 album = "TVアニメ 薬屋のひとりごと オリジナル・サウンドトラック Original Soundtrack, Vocal Disc 3"
 tracks = [
-    [1, "緑青館", "桶狭間ありさ", 0],
-    [2, "毒", "桶狭間ありさ", 0],
-    [3, "噂話", "桶狭間ありさ", 0],
-    [4, "事件", "桶狭間ありさ", 0],
-    [5, "女子会", "桶狭間ありさ", 0],
-    [6, "芙蓉", "桶狭間ありさ", 0],
-    [7, "調査", "桶狭間ありさ", 0],
-    [8, "想風", "大原ゆい子、桶狭間ありさ", 0],
-    [9, "困りごと", "桶狭間ありさ", 0],
-    [10, "剣舞", "桶狭間ありさ", 0],
-    [11, "晴れない心", "桶狭間ありさ", 0],
-    [12, "人影", "桶狭間ありさ", 0],
-    [13, "南天", "桶狭間ありさ", 0],
-    [14, "蓮華躑躅", "桶狭間ありさ", 0],
-    [15, "妓女のお仕事", "桶狭間ありさ", 0],
-    [16, "花街", "桶狭間ありさ", 0],
-    [17, "進展", "桶狭間ありさ", 0],
-    [18, "白いサザンカ", "桶狭間ありさ", 0],
-    [19, "栗の木", "桶狭間ありさ", 0],
-    [20, "シャコバサボテン", "桶狭間ありさ", 0],
-    [21, "曼荼羅華", "桶狭間ありさ", 0],
-    [22, "梅", "桶狭間ありさ", 0],
-    [23, "李白の想い", "桶狭間ありさ", 0],
-    [24, "春牡丹", "桶狭間ありさ", 0],
-    [25, "夢のよう", "Chika、桶狭間ありさ", 0],
-    [26, "毒見役の少女", "桶狭間ありさ", 0],
+    [1, "緑青館", "桶狭間ありさ", 1],
+    [2, "毒", "桶狭間ありさ", 1],
+    [3, "噂話", "桶狭間ありさ", 1],
+    [4, "事件", "桶狭間ありさ", 1],
+    [5, "女子会", "桶狭間ありさ", 1],
+    [6, "芙蓉", "桶狭間ありさ", 1],
+    [7, "調査", "桶狭間ありさ", 1],
+    [8, "想風", "大原ゆい子、桶狭間ありさ", 1],
+    [9, "困りごと", "桶狭間ありさ", 1],
+    [10, "剣舞", "桶狭間ありさ", 1],
+    [11, "晴れない心", "桶狭間ありさ", 1],
+    [12, "人影", "桶狭間ありさ", 1],
+    [13, "南天", "桶狭間ありさ", 1],
+    [14, "蓮華躑躅", "桶狭間ありさ", 1],
+    [15, "妓女のお仕事", "桶狭間ありさ", 1],
+    [16, "花街", "桶狭間ありさ", 1],
+    [17, "進展", "桶狭間ありさ", 1],
+    [18, "白いサザンカ", "桶狭間ありさ", 1],
+    [19, "栗の木", "桶狭間ありさ", 1],
+    [20, "シャコバサボテン", "桶狭間ありさ", 1],
+    [21, "曼荼羅華", "桶狭間ありさ", 1],
+    [22, "梅", "桶狭間ありさ", 1],
+    [23, "李白の想い", "桶狭間ありさ", 1],
+    [24, "春牡丹", "桶狭間ありさ", 1],
+    [25, "夢のよう", "Chika、桶狭間ありさ", 1],
+    [26, "毒見役の少女", "桶狭間ありさ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d264e53-c0c8-4b21-8b23-4dec999aa58e", "https://vgmdb.net/album/135381"]
 
@@ -317,7 +317,7 @@ catalognumber = "Lilas-020"
 date = "2025-01-10"
 album = "百花繚乱 / 幾田りら"
 tracks = [
-    [1, "百花繚乱", "幾田りら", 0],
+    [1, "百花繚乱", "幾田りら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a5ce1d11-2e32-45a4-b37f-c1589d46b103", "https://vgmdb.net/album/145936"]
 
@@ -326,7 +326,7 @@ catalognumber = "ANTCD-A0000015635"
 date = "2025-01-10"
 album = "幸せのレシピ / 平井大"
 tracks = [
-    [1, "幸せのレシピ", "平井大", 0],
+    [1, "幸せのレシピ", "平井大", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/338d6952-df4c-4d4b-8232-3a1134868c5d", "https://vgmdb.net/album/145937"]
 
@@ -335,11 +335,11 @@ catalognumber = "XSCL-105"
 date = "2025-03-19"
 album = "百花繚乱 / 幾田りら"
 tracks = [
-    [1, "百花繚乱", "幾田りら", 0],
-    [2, "DREAMER", "幾田りら", 0],
-    [3, "百花繚乱 -Anime Edit-", "幾田りら", 0],
-    [4, "百花繚乱 -Instrumental-", "幾田りら", 0],
-    [5, "DREAMER -Instrumental-", "幾田りら", 0],
+    [1, "百花繚乱", "幾田りら", 1],
+    [2, "DREAMER", "幾田りら", 1],
+    [3, "百花繚乱 -Anime Edit-", "幾田りら", 1],
+    [4, "百花繚乱 -Instrumental-", "幾田りら", 1],
+    [5, "DREAMER -Instrumental-", "幾田りら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a317493f-181b-4523-bc07-ef7e337be3b6", "https://vgmdb.net/album/147062"]
 
@@ -348,11 +348,11 @@ catalognumber = "XSCL-103~4"
 date = "2025-03-19"
 album = "百花繚乱 / 幾田りら [初回生産限定盤] Vocal"
 tracks = [
-    [1, "百花繚乱", "幾田りら", 0],
-    [2, "DREAMER", "幾田りら", 0],
-    [3, "百花繚乱 -Anime Edit-", "幾田りら", 0],
-    [4, "百花繚乱 -Instrumental-", "幾田りら", 0],
-    [5, "DREAMER -Instrumental-", "幾田りら", 0],
+    [1, "百花繚乱", "幾田りら", 1],
+    [2, "DREAMER", "幾田りら", 1],
+    [3, "百花繚乱 -Anime Edit-", "幾田りら", 1],
+    [4, "百花繚乱 -Instrumental-", "幾田りら", 1],
+    [5, "DREAMER -Instrumental-", "幾田りら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ce164929-0950-439b-8f6c-b8ca62698492", "https://vgmdb.net/album/147061"]
 
@@ -384,11 +384,11 @@ catalognumber = "XSCL-106~7"
 date = "2025-03-19"
 album = "百花繚乱 / 幾田りら [完全生産限定盤] Vocal"
 tracks = [
-    [1, "百花繚乱", "幾田りら", 0],
-    [2, "DREAMER", "幾田りら", 0],
-    [3, "百花繚乱 -Anime Edit-", "幾田りら", 0],
-    [4, "百花繚乱 -Instrumental-", "幾田りら", 0],
-    [5, "DREAMER -Instrumental-", "幾田りら", 0],
+    [1, "百花繚乱", "幾田りら", 1],
+    [2, "DREAMER", "幾田りら", 1],
+    [3, "百花繚乱 -Anime Edit-", "幾田りら", 1],
+    [4, "百花繚乱 -Instrumental-", "幾田りら", 1],
+    [5, "DREAMER -Instrumental-", "幾田りら", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a678bc7-4223-45d3-b40d-8f8823820781", "https://vgmdb.net/album/147063"]
 
@@ -406,7 +406,7 @@ catalognumber = "N/A"
 date = "2025-04-05"
 album = "クスシキ / Mrs. GREEN APPLE"
 tracks = [
-    [1, "クスシキ", "Mrs. GREEN APPLE", 0],
+    [1, "クスシキ", "Mrs. GREEN APPLE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1e2a79a8-e186-4b7f-b553-87f5c18406d7", "https://vgmdb.net/album/154433"]
 
@@ -415,40 +415,40 @@ catalognumber = "N/A"
 date = "2025-04-22"
 album = "TVアニメ『薬屋のひとりごと』第2期 オリジナル・サウンドトラックVol.1"
 tracks = [
-    [1, "薬屋の娘", "神前暁", 0],
-    [2, "ごきげんよう", "Kevin Penkin", 0],
-    [3, "鳳仙花 -承継-", "神前暁", 0],
-    [4, "お喋り", "桶狭間ありさ", 0],
-    [5, "嬢ちゃんの友達", "桶狭間ありさ", 0],
-    [6, "手習所", "桶狭間ありさ", 0],
-    [7, "虫好きな下女", "桶狭間ありさ", 0],
-    [8, "盗賊改", "神前暁", 0],
-    [9, "面白そうだ", "神前暁", 0],
-    [10, "金髪の美女", "Kevin Penkin", 0],
-    [11, "複雑な事情", "Kevin Penkin", 0],
-    [12, "隊商", "桶狭間ありさ", 0],
-    [13, "勝手な憶測", "神前暁", 0],
-    [14, "繋がる情報", "神前暁", 0],
-    [15, "月精の舞", "Kevin Penkin", 0],
-    [16, "オオミズアオ", "Kevin Penkin", 0],
-    [17, "頭を抱える", "Kevin Penkin", 0],
-    [18, "核心", "桶狭間ありさ", 0],
-    [19, "水晶宮の侍女頭", "Kevin Penkin", 0],
-    [20, "おしろい花", "Kevin Penkin", 0],
-    [21, "古い信仰", "桶狭間ありさ", 0],
-    [22, "選択の廟", "桶狭間ありさ", 0],
-    [23, "王母の血族", "神前暁", 0],
-    [24, "執務", "Kevin Penkin", 0],
-    [25, "主上の母親", "Kevin Penkin", 0],
-    [26, "雄黄の衣", "Kevin Penkin", 0],
-    [27, "新しい侍女", "桶狭間ありさ", 0],
-    [28, "怪談", "Kevin Penkin", 0],
-    [29, "十三の話", "Kevin Penkin", 0],
-    [30, "北の診療所", "桶狭間ありさ", 0],
-    [31, "華瑞月", "神前暁", 0],
-    [32, "飛発", "神前暁", 0],
-    [33, "これ、なんだ?", "桶狭間ありさ", 0],
-    [34, "伝えたいことがある", "Kevin Penkin", 0],
+    [1, "薬屋の娘", "神前暁", 1],
+    [2, "ごきげんよう", "Kevin Penkin", 1],
+    [3, "鳳仙花 -承継-", "神前暁", 1],
+    [4, "お喋り", "桶狭間ありさ", 1],
+    [5, "嬢ちゃんの友達", "桶狭間ありさ", 1],
+    [6, "手習所", "桶狭間ありさ", 1],
+    [7, "虫好きな下女", "桶狭間ありさ", 1],
+    [8, "盗賊改", "神前暁", 1],
+    [9, "面白そうだ", "神前暁", 1],
+    [10, "金髪の美女", "Kevin Penkin", 1],
+    [11, "複雑な事情", "Kevin Penkin", 1],
+    [12, "隊商", "桶狭間ありさ", 1],
+    [13, "勝手な憶測", "神前暁", 1],
+    [14, "繋がる情報", "神前暁", 1],
+    [15, "月精の舞", "Kevin Penkin", 1],
+    [16, "オオミズアオ", "Kevin Penkin", 1],
+    [17, "頭を抱える", "Kevin Penkin", 1],
+    [18, "核心", "桶狭間ありさ", 1],
+    [19, "水晶宮の侍女頭", "Kevin Penkin", 1],
+    [20, "おしろい花", "Kevin Penkin", 1],
+    [21, "古い信仰", "桶狭間ありさ", 1],
+    [22, "選択の廟", "桶狭間ありさ", 1],
+    [23, "王母の血族", "神前暁", 1],
+    [24, "執務", "Kevin Penkin", 1],
+    [25, "主上の母親", "Kevin Penkin", 1],
+    [26, "雄黄の衣", "Kevin Penkin", 1],
+    [27, "新しい侍女", "桶狭間ありさ", 1],
+    [28, "怪談", "Kevin Penkin", 1],
+    [29, "十三の話", "Kevin Penkin", 1],
+    [30, "北の診療所", "桶狭間ありさ", 1],
+    [31, "華瑞月", "神前暁", 1],
+    [32, "飛発", "神前暁", 1],
+    [33, "これ、なんだ?", "桶狭間ありさ", 1],
+    [34, "伝えたいことがある", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8fffc99f-46e5-43ec-a12c-c1584d6a726d", "https://vgmdb.net/album/148924"]
 
@@ -457,10 +457,10 @@ catalognumber = "AICL-4758~9"
 date = "2025-05-21"
 album = "ひとりごと / Omoinotake [期間生産限定盤] Vocal"
 tracks = [
-    [1, "ひとりごと", "Omoinotake", 0],
-    [2, "在りか", "Omoinotake", 0],
-    [3, "ひとりごと (instrumental)", "Omoinotake", 0],
-    [4, "在りか (instrumental)", "Omoinotake", 0],
+    [1, "ひとりごと", "Omoinotake", 1],
+    [2, "在りか", "Omoinotake", 1],
+    [3, "ひとりごと (instrumental)", "Omoinotake", 1],
+    [4, "在りか (instrumental)", "Omoinotake", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/60f334cb-82ac-436d-b484-df53442af3b3", "https://vgmdb.net/album/150351"]
 
@@ -478,10 +478,10 @@ catalognumber = "AICL-4757"
 date = "2025-05-21"
 album = "ひとりごと / Omoinotake"
 tracks = [
-    [1, "ひとりごと", "Omoinotake", 0],
-    [2, "在りか", "Omoinotake", 0],
-    [3, "ひとりごと (instrumental)", "Omoinotake", 0],
-    [4, "在りか (instrumental)", "Omoinotake", 0],
+    [1, "ひとりごと", "Omoinotake", 1],
+    [2, "在りか", "Omoinotake", 1],
+    [3, "ひとりごと (instrumental)", "Omoinotake", 1],
+    [4, "在りか (instrumental)", "Omoinotake", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ca10da2d-392b-4bc2-b16d-dd36c8e97d8a", "https://vgmdb.net/album/150354"]
 
@@ -490,10 +490,10 @@ catalognumber = "AICL-4755~6"
 date = "2025-05-21"
 album = "ひとりごと / Omoinotake [初回生産限定盤] Vocal"
 tracks = [
-    [1, "ひとりごと", "Omoinotake", 0],
-    [2, "在りか", "Omoinotake", 0],
-    [3, "ひとりごと (instrumental)", "Omoinotake", 0],
-    [4, "在りか (instrumental)", "Omoinotake", 0],
+    [1, "ひとりごと", "Omoinotake", 1],
+    [2, "在りか", "Omoinotake", 1],
+    [3, "ひとりごと (instrumental)", "Omoinotake", 1],
+    [4, "在りか (instrumental)", "Omoinotake", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/60f334cb-82ac-436d-b484-df53442af3b3", "https://vgmdb.net/album/150352"]
 
@@ -529,34 +529,34 @@ catalognumber = "N/A"
 date = "2025-07-05"
 album = "TVアニメ『薬屋のひとりごと』第2期 オリジナル・サウンドトラックVol.2"
 tracks = [
-    [1, "そばかすの少女", "神前暁", 0],
-    [2, "逆子", "神前暁", 0],
-    [3, "Evening Concert", "Kevin Penkin", 0],
-    [4, "湯殿", "桶狭間ありさ", 0],
-    [5, "湯殿の幽霊", "桶狭間ありさ", 0],
-    [6, "簪", "神前暁", 0],
-    [7, "氷菓", "神前暁", 0],
-    [8, "おやじ", "神前暁", 0],
-    [9, "出られない後宮", "桶狭間ありさ", 0],
-    [10, "暗躍", "桶狭間ありさ", 0],
-    [11, "東の狐", "神前暁", 0],
-    [12, "里の子供たち", "神前暁", 0],
-    [13, "子供たちの未来", "神前暁", 0],
-    [14, "A Group of Foxes", "Kevin Penkin", 0],
-    [15, "Harvest Festival", "Kevin Penkin", 0],
-    [16, "Wish", "Kevin Penkin", 0],
-    [17, "異母姉妹", "桶狭間ありさ", 0],
-    [18, "血族の宿命", "桶狭間ありさ", 0],
-    [19, "ろくでもないガキ", "神前暁", 0],
-    [20, "Madam", "Kevin Penkin", 0],
-    [21, "鬼灯", "桶狭間ありさ", 0],
-    [22, "覚悟を決める時", "神前暁", 0],
-    [23, "やらねば", "神前暁", 0],
-    [24, "ユーモア", "神前暁", 0],
-    [25, "Powder Magazine(火薬庫)", "Kevin Penkin", 0],
-    [26, "Secret Feelings", "Kevin Penkin", 0],
-    [27, "雪崩", "桶狭間ありさ", 0],
-    [28, "いのちの灯火", "三宅りむ", 0],
+    [1, "そばかすの少女", "神前暁", 1],
+    [2, "逆子", "神前暁", 1],
+    [3, "Evening Concert", "Kevin Penkin", 1],
+    [4, "湯殿", "桶狭間ありさ", 1],
+    [5, "湯殿の幽霊", "桶狭間ありさ", 1],
+    [6, "簪", "神前暁", 1],
+    [7, "氷菓", "神前暁", 1],
+    [8, "おやじ", "神前暁", 1],
+    [9, "出られない後宮", "桶狭間ありさ", 1],
+    [10, "暗躍", "桶狭間ありさ", 1],
+    [11, "東の狐", "神前暁", 1],
+    [12, "里の子供たち", "神前暁", 1],
+    [13, "子供たちの未来", "神前暁", 1],
+    [14, "A Group of Foxes", "Kevin Penkin", 1],
+    [15, "Harvest Festival", "Kevin Penkin", 1],
+    [16, "Wish", "Kevin Penkin", 1],
+    [17, "異母姉妹", "桶狭間ありさ", 1],
+    [18, "血族の宿命", "桶狭間ありさ", 1],
+    [19, "ろくでもないガキ", "神前暁", 1],
+    [20, "Madam", "Kevin Penkin", 1],
+    [21, "鬼灯", "桶狭間ありさ", 1],
+    [22, "覚悟を決める時", "神前暁", 1],
+    [23, "やらねば", "神前暁", 1],
+    [24, "ユーモア", "神前暁", 1],
+    [25, "Powder Magazine(火薬庫)", "Kevin Penkin", 1],
+    [26, "Secret Feelings", "Kevin Penkin", 1],
+    [27, "雪崩", "桶狭間ありさ", 1],
+    [28, "いのちの灯火", "三宅りむ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/95cda897-b935-4634-81fc-d7e43fa94a99", "https://vgmdb.net/album/150926"]
 
@@ -585,7 +585,7 @@ tracks = [
     [7, "Red:birthmark (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
     [8, "オーケストラ (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
     [9, "風とくちづけと (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
-    [10, "アイコトバ (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
+    [10, "アイコトバ (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 1],
     [11, "煽り癖と泣き虫 (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
     [12, "静的情夜 (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
     [13, "Mogwrians 5 (2025.02.11 \"ハリネズミスマイル\" @Zepp Haneda)", "", 0],
@@ -610,40 +610,40 @@ catalognumber = "THCA-60298"
 date = "2025-09-17"
 album = "TVアニメ 薬屋のひとりごと 第2期 オリジナル・サウンドトラック Original Soundtrack"
 tracks = [
-    [1, "薬屋の娘", "神前暁", 0],
-    [2, "Hi (ごきげんよう)", "Kevin Penkin", 0],
-    [3, "鳳仙花 -承継-", "神前暁", 0],
-    [4, "お喋り", "桶狭間ありさ", 0],
-    [5, "嬢ちゃんの友達", "桶狭間ありさ", 0],
-    [6, "手習所", "桶狭間ありさ", 0],
-    [7, "虫好きな下女", "桶狭間ありさ", 0],
-    [8, "盗賊改", "神前暁", 0],
-    [9, "面白そうだ", "神前暁", 0],
-    [10, "Blonde Beauty (金髪の美女)", "Kevin Penkin", 0],
-    [11, "Complex Situation (複雑な事情)", "Kevin Penkin", 0],
-    [12, "隊商", "桶狭間ありさ", 0],
-    [13, "勝手な憶測", "神前暁", 0],
-    [14, "繋がる情報", "神前暁", 0],
-    [15, "Dancing Spirit of the Moon (月精の舞)", "Kevin Penkin", 0],
-    [16, "Luna Moth (オオミズアオ)", "Kevin Penkin", 0],
-    [17, "Be Troubled (頭を抱える)", "Kevin Penkin", 0],
-    [18, "核心", "桶狭間ありさ", 0],
-    [19, "Head Lady-in-Waiting of the Crystal Pavilion (水晶宮の侍女頭)", "Kevin Penkin", 0],
-    [20, "Whiteblossom (おしろい花)", "Kevin Penkin", 0],
-    [21, "古い信仰", "桶狭間ありさ", 0],
-    [22, "選択の廟", "桶狭間ありさ", 0],
-    [23, "王母の血族", "神前暁", 0],
-    [24, "Office Work (執務)", "Kevin Penkin", 0],
-    [25, "The Emperor's Mother (主上の母親)", "Kevin Penkin", 0],
-    [26, "Orpiment Clothing (雄黄の衣)", "Kevin Penkin", 0],
-    [27, "新しい侍女", "桶狭間ありさ", 0],
-    [28, "Ghost Story (怪談)", "Kevin Penkin", 0],
-    [29, "Thirteen Tales (十三の話)", "Kevin Penkin", 0],
-    [30, "北の診療所", "桶狭間ありさ", 0],
-    [31, "華瑞月", "神前暁", 0],
-    [32, "飛発", "神前暁", 0],
-    [33, "これ、なんだ?", "桶狭間ありさ", 0],
-    [34, "I Have Something to Tell You (伝えたいことがある)", "Kevin Penkin", 0],
+    [1, "薬屋の娘", "神前暁", 1],
+    [2, "Hi (ごきげんよう)", "Kevin Penkin", 1],
+    [3, "鳳仙花 -承継-", "神前暁", 1],
+    [4, "お喋り", "桶狭間ありさ", 1],
+    [5, "嬢ちゃんの友達", "桶狭間ありさ", 1],
+    [6, "手習所", "桶狭間ありさ", 1],
+    [7, "虫好きな下女", "桶狭間ありさ", 1],
+    [8, "盗賊改", "神前暁", 1],
+    [9, "面白そうだ", "神前暁", 1],
+    [10, "Blonde Beauty (金髪の美女)", "Kevin Penkin", 1],
+    [11, "Complex Situation (複雑な事情)", "Kevin Penkin", 1],
+    [12, "隊商", "桶狭間ありさ", 1],
+    [13, "勝手な憶測", "神前暁", 1],
+    [14, "繋がる情報", "神前暁", 1],
+    [15, "Dancing Spirit of the Moon (月精の舞)", "Kevin Penkin", 1],
+    [16, "Luna Moth (オオミズアオ)", "Kevin Penkin", 1],
+    [17, "Be Troubled (頭を抱える)", "Kevin Penkin", 1],
+    [18, "核心", "桶狭間ありさ", 1],
+    [19, "Head Lady-in-Waiting of the Crystal Pavilion (水晶宮の侍女頭)", "Kevin Penkin", 1],
+    [20, "Whiteblossom (おしろい花)", "Kevin Penkin", 1],
+    [21, "古い信仰", "桶狭間ありさ", 1],
+    [22, "選択の廟", "桶狭間ありさ", 1],
+    [23, "王母の血族", "神前暁", 1],
+    [24, "Office Work (執務)", "Kevin Penkin", 1],
+    [25, "The Emperor's Mother (主上の母親)", "Kevin Penkin", 1],
+    [26, "Orpiment Clothing (雄黄の衣)", "Kevin Penkin", 1],
+    [27, "新しい侍女", "桶狭間ありさ", 1],
+    [28, "Ghost Story (怪談)", "Kevin Penkin", 1],
+    [29, "Thirteen Tales (十三の話)", "Kevin Penkin", 1],
+    [30, "北の診療所", "桶狭間ありさ", 1],
+    [31, "華瑞月", "神前暁", 1],
+    [32, "飛発", "神前暁", 1],
+    [33, "これ、なんだ?", "桶狭間ありさ", 1],
+    [34, "I Have Something to Tell You (伝えたいことがある)", "Kevin Penkin", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5a28b006-4975-4fa4-ad10-d4b725d2bb72", "https://vgmdb.net/album/151014"]
 
@@ -652,34 +652,34 @@ catalognumber = "THCA-60298"
 date = "2025-09-17"
 album = "TVアニメ 薬屋のひとりごと 第2期 オリジナル・サウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "そばかすの少女", "神前暁", 0],
-    [2, "逆子", "神前暁", 0],
-    [3, "Evening Concert (夜の演奏会)", "Kevin Penkin", 0],
-    [4, "湯殿", "桶狭間ありさ", 0],
-    [5, "湯殿の幽霊", "桶狭間ありさ", 0],
-    [6, "簪", "神前暁", 0],
-    [7, "氷菓", "神前暁", 0],
-    [8, "おやじ", "神前暁", 0],
-    [9, "出られない後宮", "桶狭間ありさ", 0],
-    [10, "暗躍", "桶狭間ありさ", 0],
-    [11, "東の狐", "神前暁", 0],
-    [12, "里の子供たち", "神前暁", 0],
-    [13, "子供たちの未来", "神前暁", 0],
-    [14, "A Group of Foxes (狐の群れ)", "Kevin Penkin", 0],
-    [15, "Harvest Festival (豊穣祭)", "Kevin Penkin", 0],
-    [16, "Wish (願い事)", "Kevin Penkin", 0],
-    [17, "異母姉妹", "桶狭間ありさ", 0],
-    [18, "血族の宿命", "桶狭間ありさ", 0],
-    [19, "ろくでもないガキ", "神前暁", 0],
-    [20, "Madam (お母様)", "Kevin Penkin", 0],
-    [21, "鬼灯", "桶狭間ありさ", 0],
-    [22, "覚悟を決める時", "神前暁", 0],
-    [23, "やらねば", "神前暁", 0],
-    [24, "ユーモア", "神前暁", 0],
-    [25, "Powder Magazine (火薬庫)", "Kevin Penkin", 0],
-    [26, "Secret Feelings (秘めた思い)", "Kevin Penkin", 0],
-    [27, "雪崩", "桶狭間ありさ", 0],
-    [28, "いのちの灯火", "三宅りむ", 0],
+    [1, "そばかすの少女", "神前暁", 1],
+    [2, "逆子", "神前暁", 1],
+    [3, "Evening Concert (夜の演奏会)", "Kevin Penkin", 1],
+    [4, "湯殿", "桶狭間ありさ", 1],
+    [5, "湯殿の幽霊", "桶狭間ありさ", 1],
+    [6, "簪", "神前暁", 1],
+    [7, "氷菓", "神前暁", 1],
+    [8, "おやじ", "神前暁", 1],
+    [9, "出られない後宮", "桶狭間ありさ", 1],
+    [10, "暗躍", "桶狭間ありさ", 1],
+    [11, "東の狐", "神前暁", 1],
+    [12, "里の子供たち", "神前暁", 1],
+    [13, "子供たちの未来", "神前暁", 1],
+    [14, "A Group of Foxes (狐の群れ)", "Kevin Penkin", 1],
+    [15, "Harvest Festival (豊穣祭)", "Kevin Penkin", 1],
+    [16, "Wish (願い事)", "Kevin Penkin", 1],
+    [17, "異母姉妹", "桶狭間ありさ", 1],
+    [18, "血族の宿命", "桶狭間ありさ", 1],
+    [19, "ろくでもないガキ", "神前暁", 1],
+    [20, "Madam (お母様)", "Kevin Penkin", 1],
+    [21, "鬼灯", "桶狭間ありさ", 1],
+    [22, "覚悟を決める時", "神前暁", 1],
+    [23, "やらねば", "神前暁", 1],
+    [24, "ユーモア", "神前暁", 1],
+    [25, "Powder Magazine (火薬庫)", "Kevin Penkin", 1],
+    [26, "Secret Feelings (秘めた思い)", "Kevin Penkin", 1],
+    [27, "雪崩", "桶狭間ありさ", 1],
+    [28, "いのちの灯火", "三宅りむ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5a28b006-4975-4fa4-ad10-d4b725d2bb72", "https://vgmdb.net/album/151014"]
 
@@ -691,7 +691,7 @@ tracks = [
     [1, "Actor", "幾田りら", 0],
     [2, "恋風", "幾田りら", 0],
     [3, "Latata", "幾田りら", 0],
-    [4, "百花繚乱", "幾田りら", 0],
+    [4, "百花繚乱", "幾田りら", 1],
     [5, "Voyage", "幾田りら", 0],
     [6, "With", "幾田りら", 0],
     [7, "Sign", "幾田りら", 0],
@@ -699,7 +699,7 @@ tracks = [
     [9, "青春謳歌", "幾田りら feat. ano", 0],
     [10, "ハミング", "幾田りら", 0],
     [11, "P.S.", "幾田りら", 0],
-    [12, "DREAMER", "幾田りら", 0],
+    [12, "DREAMER", "幾田りら", 1],
     [13, "タイムマシン", "幾田りら", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/cafabbad-ff21-4eee-b06d-3d8bdef7b15f", "https://vgmdb.net/album/156625"]
@@ -712,7 +712,7 @@ tracks = [
     [1, "Actor", "幾田りら", 0],
     [2, "恋風", "幾田りら", 0],
     [3, "Latata", "幾田りら", 0],
-    [4, "百花繚乱", "幾田りら", 0],
+    [4, "百花繚乱", "幾田りら", 1],
     [5, "Voyage", "幾田りら", 0],
     [6, "With", "幾田りら", 0],
     [7, "Sign", "幾田りら", 0],
@@ -720,7 +720,7 @@ tracks = [
     [9, "青春謳歌", "幾田りら feat. ano", 0],
     [10, "ハミング", "幾田りら", 0],
     [11, "P.S.", "幾田りら", 0],
-    [12, "DREAMER", "幾田りら", 0],
+    [12, "DREAMER", "幾田りら", 1],
     [13, "タイムマシン", "幾田りら", 0],
     [14, "[unknown]", "幾田りら", 0],
 ]

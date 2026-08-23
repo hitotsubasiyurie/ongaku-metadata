@@ -3,11 +3,11 @@ catalognumber = "PCCG-02005"
 date = "2021-10-20"
 album = "DIES IN NO TIME / 福山潤 [アニメ盤]"
 tracks = [
-    [1, "DIES IN NO TIME", "福山潤", 0],
-    [2, "HEALTH‐iNG", "福山潤", 0],
-    [3, "DIES IN NO TIME (TVedit)", "福山潤", 0],
-    [4, "DIES IN NO TIME(Instrumental)", "福山潤", 0],
-    [5, "HEALTH‐iNG (Instrumental)", "福山潤", 0],
+    [1, "DIES IN NO TIME", "福山潤", 1],
+    [2, "HEALTH‐iNG", "福山潤", 1],
+    [3, "DIES IN NO TIME (TVedit)", "福山潤", 1],
+    [4, "DIES IN NO TIME(Instrumental)", "福山潤", 1],
+    [5, "HEALTH‐iNG (Instrumental)", "福山潤", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/231cf959-1d4f-4ffa-a523-fb530c8ee5ef", "https://vgmdb.net/album/112649"]
 
@@ -16,10 +16,10 @@ catalognumber = "PCCG-02004"
 date = "2021-10-20"
 album = "DIES IN NO TIME / 福山潤 [初回限定盤] Vocal"
 tracks = [
-    [1, "DIES IN NO TIME", "", 0],
-    [2, "HEALTH-iNG", "", 0],
-    [3, "DIES IN NO TIME (Instrumental)", "", 0],
-    [4, "HEALTH-iNG (Instrumental)", "", 0],
+    [1, "DIES IN NO TIME", "", 1],
+    [2, "HEALTH-iNG", "", 1],
+    [3, "DIES IN NO TIME (Instrumental)", "", 1],
+    [4, "HEALTH-iNG (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/112648"]
 
@@ -28,7 +28,7 @@ catalognumber = "PCCG-02004"
 date = "2021-10-20"
 album = "DIES IN NO TIME / 福山潤 [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "DIES IN NO TIME (Music Video)", "", 0],
+    [1, "DIES IN NO TIME (Music Video)", "", 1],
     [2, "Jacket Making Movie", "", 0],
 ]
 links = ["https://vgmdb.net/album/112648"]
@@ -38,10 +38,10 @@ catalognumber = "SCCG-00074"
 date = "2021-10-20"
 album = "DIES IN NO TIME / 福山潤 [きゃにめ限定盤] Vocal"
 tracks = [
-    [1, "DIES IN NO TIME", "", 0],
-    [2, "HEALTH-iNG", "", 0],
-    [3, "DIES IN NO TIME (Instrumental)", "", 0],
-    [4, "HEALTH-iNG (Instrumental)", "", 0],
+    [1, "DIES IN NO TIME", "", 1],
+    [2, "HEALTH-iNG", "", 1],
+    [3, "DIES IN NO TIME (Instrumental)", "", 1],
+    [4, "HEALTH-iNG (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/112991"]
 
@@ -61,10 +61,10 @@ catalognumber = "PCCG-70477"
 date = "2021-10-20"
 album = "DIES IN NO TIME / 福山潤"
 tracks = [
-    [1, "DIES IN NO TIME", "", 0],
-    [2, "HEALTH-iNG", "", 0],
-    [3, "DIES IN NO TIME (Instrumental)", "", 0],
-    [4, "HEALTH-iNG (Instrumental)", "", 0],
+    [1, "DIES IN NO TIME", "", 1],
+    [2, "HEALTH-iNG", "", 1],
+    [3, "DIES IN NO TIME (Instrumental)", "", 1],
+    [4, "HEALTH-iNG (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/112647"]
 
@@ -73,10 +73,10 @@ catalognumber = "SCCG-00075"
 date = "2021-11-04"
 album = "Strangers / TRD [きゃにめ限定盤] Disc 1 (CD) [SCCG-00075-1]"
 tracks = [
-    [1, "Strangers", "", 0],
-    [2, "Clock Hands", "", 0],
-    [3, "Strangers -Instrumental-", "", 0],
-    [4, "Clock Hands -Instrumental-", "", 0],
+    [1, "Strangers", "", 1],
+    [2, "Clock Hands", "", 1],
+    [3, "Strangers -Instrumental-", "", 1],
+    [4, "Clock Hands -Instrumental-", "", 1],
 ]
 links = ["https://vgmdb.net/album/112990"]
 
@@ -85,9 +85,9 @@ catalognumber = "SCCG-00075"
 date = "2021-11-04"
 album = "Strangers / TRD [きゃにめ限定盤] Disc 2 (Blu-ray) [SCCG-00075-2]"
 tracks = [
-    [1, "Strangers (Music Video)", "", 0],
+    [1, "Strangers (Music Video)", "", 1],
     [2, "Jacket Making Movie", "", 0],
-    [3, "Strangers (MV Making Movie)", "", 0],
+    [3, "Strangers (MV Making Movie)", "", 1],
 ]
 links = ["https://vgmdb.net/album/112990"]
 
@@ -96,10 +96,10 @@ catalognumber = "PCCG-70478"
 date = "2021-11-04"
 album = "Strangers / TRD"
 tracks = [
-    [1, "Strangers", "", 0],
-    [2, "Clock Hands", "", 0],
-    [3, "Strangers -Instrumental-", "", 0],
-    [4, "Clock Hands -Instrumental-", "", 0],
+    [1, "Strangers", "", 1],
+    [2, "Clock Hands", "", 1],
+    [3, "Strangers -Instrumental-", "", 1],
+    [4, "Clock Hands -Instrumental-", "", 1],
 ]
 links = ["https://vgmdb.net/album/112953"]
 
@@ -108,10 +108,10 @@ catalognumber = "PCCG-02006"
 date = "2021-11-04"
 album = "Strangers / TRD [初回限定盤] Vocal"
 tracks = [
-    [1, "Strangers", "", 0],
-    [2, "Clock Hands", "", 0],
-    [3, "Strangers -Instrumental-", "", 0],
-    [4, "Clock Hands -Instrumental-", "", 0],
+    [1, "Strangers", "", 1],
+    [2, "Clock Hands", "", 1],
+    [3, "Strangers -Instrumental-", "", 1],
+    [4, "Clock Hands -Instrumental-", "", 1],
 ]
 links = ["https://vgmdb.net/album/112955"]
 
@@ -120,7 +120,7 @@ catalognumber = "PCCG-02006"
 date = "2021-11-04"
 album = "Strangers / TRD [初回限定盤] Vocal, Video"
 tracks = [
-    [1, "Strangers (Music Video)", "", 0],
+    [1, "Strangers (Music Video)", "", 1],
     [2, "Jacket Making Movie", "", 0],
 ]
 links = ["https://vgmdb.net/album/112955"]
@@ -130,11 +130,11 @@ catalognumber = "PCCG-02007"
 date = "2021-11-04"
 album = "Strangers / TRD [アニメ盤]"
 tracks = [
-    [1, "Strangers", "TRD", 0],
-    [2, "Clock Hands", "TRD", 0],
-    [3, "Strangers -TV edit-", "TRD", 0],
-    [4, "Strangers -Instrumental-", "TRD", 0],
-    [5, "Clock Hands -Instrumental-", "TRD", 0],
+    [1, "Strangers", "TRD", 1],
+    [2, "Clock Hands", "TRD", 1],
+    [3, "Strangers -TV edit-", "TRD", 1],
+    [4, "Strangers -Instrumental-", "TRD", 1],
+    [5, "Clock Hands -Instrumental-", "TRD", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8db797b7-15e3-448e-8938-9841308f2146", "https://vgmdb.net/album/112954"]
 
@@ -143,10 +143,10 @@ catalognumber = "MJHX-02021-2"
 date = "2022-01-26"
 album = "吸血鬼すぐ死ぬ VOL.1 EXTRA CD 吸血鬼すぐトークする"
 tracks = [
-    [1, "オープニング", "", 0],
-    [2, "すぐ死ぬのはどっちだチャレンジ", "", 0],
-    [3, "すぐ死ぬ-1グランプリ", "", 0],
-    [4, "エンディング", "", 0],
+    [1, "オープニング", "", 1],
+    [2, "すぐ死ぬのはどっちだチャレンジ", "", 1],
+    [3, "すぐ死ぬ-1グランプリ", "", 1],
+    [4, "エンディング", "", 1],
 ]
 links = ["https://vgmdb.net/album/115280"]
 
@@ -155,10 +155,10 @@ catalognumber = "MJHX-02022-2"
 date = "2022-02-23"
 album = "吸血鬼すぐ死ぬ VOL.2 EXTRA CD 吸血鬼すぐトークする"
 tracks = [
-    [1, "オープニング", "", 0],
-    [2, "すぐ死ぬのはどっちだ!? チャレンジ バージョン2", "", 0],
-    [3, "私のすぐ死ぬ-1グランプリ", "", 0],
-    [4, "エンディング", "", 0],
+    [1, "オープニング", "", 1],
+    [2, "すぐ死ぬのはどっちだ!? チャレンジ バージョン2", "", 1],
+    [3, "私のすぐ死ぬ-1グランプリ", "", 1],
+    [4, "エンディング", "", 1],
 ]
 links = ["https://vgmdb.net/album/117944"]
 
@@ -167,10 +167,10 @@ catalognumber = "MJHX-02023-2"
 date = "2022-03-23"
 album = "吸血鬼すぐ死ぬ VOL.3 EXTRA CD 吸血鬼すぐトークする"
 tracks = [
-    [1, "オープニング", "", 0],
-    [2, "すぐ死ぬのはどっちだ!? チャレンジ ファイナル", "", 0],
-    [3, "私のすぐ死ぬ-1グランプリ", "", 0],
-    [4, "エンディング", "", 0],
+    [1, "オープニング", "", 1],
+    [2, "すぐ死ぬのはどっちだ!? チャレンジ ファイナル", "", 1],
+    [3, "私のすぐ死ぬ-1グランプリ", "", 1],
+    [4, "エンディング", "", 1],
 ]
 links = ["https://vgmdb.net/album/117945"]
 
@@ -179,49 +179,49 @@ catalognumber = "PCCG-02200"
 date = "2022-12-21"
 album = "TVアニメ「吸血鬼すぐ死ぬ」キャラクターソング入りサウンドトラック1"
 tracks = [
-    [1, "真祖にして無敵のドラルク様", "ドラルク(CV:福山潤)", 0],
-    [2, "Make me the Hunter", "ロナルド(CV:古川慎)", 0],
-    [3, "ジョン・〇・グッド・デイ!", "ジョン(CV:田村睦心)", 0],
-    [4, "真祖にして無敵のドラルク様 (Instrumental)", "ドラルク(CV:福山潤)", 0],
-    [5, "Make me the Hunter (Instrumental)", "ロナルド(CV:古川慎)", 0],
-    [6, "ジョン・〇・グッド・デイ! (Instrumental)", "ジョン(CV:田村睦心)", 0],
-    [7, "The Vampire Dies In no Time", "高橋諒", 0],
-    [8, "緊迫", "高橋諒", 0],
-    [9, "おかしなことはじめました", "高橋諒", 0],
-    [10, "コミカルバトル", "高橋諒", 0],
-    [11, "イイ話", "高橋諒", 0],
-    [12, "得意げ", "高橋諒", 0],
-    [13, "ドラルクのテーマ1", "高橋諒", 0],
-    [14, "ドタバタ", "高橋諒", 0],
-    [15, "悪巧み", "高橋諒", 0],
-    [16, "ドラルクのテーマ2", "高橋諒", 0],
-    [17, "迫る危険", "高橋諒", 0],
-    [18, "不気味な者たち", "高橋諒", 0],
-    [19, "事件発生!", "高橋諒", 0],
-    [20, "一触即発", "高橋諒", 0],
-    [21, "強敵登場", "高橋諒", 0],
-    [22, "シリアスバトル", "高橋諒", 0],
-    [23, "絶体絶命", "高橋諒", 0],
-    [24, "エピローグ", "高橋諒", 0],
-    [25, "ヒナイチのテーマ", "高橋諒", 0],
-    [26, "恋に落ちて", "高橋諒", 0],
-    [27, "尾行作戦", "高橋諒", 0],
-    [28, "日常1", "高橋諒", 0],
-    [29, "日常2", "高橋諒", 0],
-    [30, "退治人ギルド", "高橋諒", 0],
-    [31, "退治人たち", "高橋諒", 0],
-    [32, "熱烈キッス", "高橋諒", 0],
-    [33, "半田のテーマ", "高橋諒", 0],
-    [34, "過去バナシ", "高橋諒", 0],
-    [35, "楽しい日常", "高橋諒", 0],
-    [36, "ジョンの日常", "高橋諒", 0],
-    [37, "心配", "高橋諒", 0],
-    [38, "パーティー", "高橋諒", 0],
-    [39, "ジングル1", "高橋諒", 0],
-    [40, "ジングル2", "高橋諒", 0],
-    [41, "ジングル3", "高橋諒", 0],
-    [42, "ジョンの旅", "高橋諒", 0],
-    [43, "ヴァモネさんのテーマ", "ういにゃす", 0],
+    [1, "真祖にして無敵のドラルク様", "ドラルク(CV:福山潤)", 1],
+    [2, "Make me the Hunter", "ロナルド(CV:古川慎)", 1],
+    [3, "ジョン・〇・グッド・デイ!", "ジョン(CV:田村睦心)", 1],
+    [4, "真祖にして無敵のドラルク様 (Instrumental)", "ドラルク(CV:福山潤)", 1],
+    [5, "Make me the Hunter (Instrumental)", "ロナルド(CV:古川慎)", 1],
+    [6, "ジョン・〇・グッド・デイ! (Instrumental)", "ジョン(CV:田村睦心)", 1],
+    [7, "The Vampire Dies In no Time", "高橋諒", 1],
+    [8, "緊迫", "高橋諒", 1],
+    [9, "おかしなことはじめました", "高橋諒", 1],
+    [10, "コミカルバトル", "高橋諒", 1],
+    [11, "イイ話", "高橋諒", 1],
+    [12, "得意げ", "高橋諒", 1],
+    [13, "ドラルクのテーマ1", "高橋諒", 1],
+    [14, "ドタバタ", "高橋諒", 1],
+    [15, "悪巧み", "高橋諒", 1],
+    [16, "ドラルクのテーマ2", "高橋諒", 1],
+    [17, "迫る危険", "高橋諒", 1],
+    [18, "不気味な者たち", "高橋諒", 1],
+    [19, "事件発生!", "高橋諒", 1],
+    [20, "一触即発", "高橋諒", 1],
+    [21, "強敵登場", "高橋諒", 1],
+    [22, "シリアスバトル", "高橋諒", 1],
+    [23, "絶体絶命", "高橋諒", 1],
+    [24, "エピローグ", "高橋諒", 1],
+    [25, "ヒナイチのテーマ", "高橋諒", 1],
+    [26, "恋に落ちて", "高橋諒", 1],
+    [27, "尾行作戦", "高橋諒", 1],
+    [28, "日常1", "高橋諒", 1],
+    [29, "日常2", "高橋諒", 1],
+    [30, "退治人ギルド", "高橋諒", 1],
+    [31, "退治人たち", "高橋諒", 1],
+    [32, "熱烈キッス", "高橋諒", 1],
+    [33, "半田のテーマ", "高橋諒", 1],
+    [34, "過去バナシ", "高橋諒", 1],
+    [35, "楽しい日常", "高橋諒", 1],
+    [36, "ジョンの日常", "高橋諒", 1],
+    [37, "心配", "高橋諒", 1],
+    [38, "パーティー", "高橋諒", 1],
+    [39, "ジングル1", "高橋諒", 1],
+    [40, "ジングル2", "高橋諒", 1],
+    [41, "ジングル3", "高橋諒", 1],
+    [42, "ジョンの旅", "高橋諒", 1],
+    [43, "ヴァモネさんのテーマ", "ういにゃす", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ea48cc73-5a77-476b-862a-418eb2fe3bd3", "https://vgmdb.net/album/123811"]
 
@@ -230,10 +230,10 @@ catalognumber = "PCCG-02170"
 date = "2023-01-18"
 album = "NEW DRAMA PARADISE / 福山潤"
 tracks = [
-    [1, "NEW DRAMA PARADISE", "", 0],
-    [2, "路地裏からの空", "", 0],
-    [3, "NEW DRAMA PARADISE (Instrumental)", "", 0],
-    [4, "路地裏からの空 (Instrumental)", "", 0],
+    [1, "NEW DRAMA PARADISE", "", 1],
+    [2, "路地裏からの空", "", 1],
+    [3, "NEW DRAMA PARADISE (Instrumental)", "", 1],
+    [4, "路地裏からの空 (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/123807"]
 
@@ -252,10 +252,10 @@ catalognumber = "PCCG-02169"
 date = "2023-01-18"
 album = "NEW DRAMA PARADISE / 福山潤 [初回限定盤] Vocal"
 tracks = [
-    [1, "NEW DRAMA PARADISE", "", 0],
-    [2, "路地裏からの空", "", 0],
-    [3, "NEW DRAMA PARADISE (Instrumental)", "", 0],
-    [4, "路地裏からの空 (Instrumental)", "", 0],
+    [1, "NEW DRAMA PARADISE", "", 1],
+    [2, "路地裏からの空", "", 1],
+    [3, "NEW DRAMA PARADISE (Instrumental)", "", 1],
+    [4, "路地裏からの空 (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/123809"]
 
@@ -264,11 +264,11 @@ catalognumber = "PCCG-02171"
 date = "2023-01-18"
 album = "NEW DRAMA PARADISE / 福山潤 [アニメ盤]"
 tracks = [
-    [1, "NEW DRAMA PARADISE", "福山潤", 0],
-    [2, "路地裏からの空", "福山潤", 0],
-    [3, "NEW DRAMA PARADISE (TV edit)", "福山潤", 0],
-    [4, "NEW DRAMA PARADISE (Instrumental)", "福山潤", 0],
-    [5, "路地裏からの空 (Instrumental)", "福山潤", 0],
+    [1, "NEW DRAMA PARADISE", "福山潤", 1],
+    [2, "路地裏からの空", "福山潤", 1],
+    [3, "NEW DRAMA PARADISE (TV edit)", "福山潤", 1],
+    [4, "NEW DRAMA PARADISE (Instrumental)", "福山潤", 1],
+    [5, "路地裏からの空 (Instrumental)", "福山潤", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0237c609-98f5-4a3a-a272-e6b150e58fb0", "https://vgmdb.net/album/123808"]
 
@@ -277,10 +277,10 @@ catalognumber = "SCCG-00104"
 date = "2023-01-18"
 album = "NEW DRAMA PARADISE / 福山潤 [きゃにめ限定盤] Vocal"
 tracks = [
-    [1, "NEW DRAMA PARADISE", "", 0],
-    [2, "路地裏からの空", "", 0],
-    [3, "NEW DRAMA PARADISE (Instrumental)", "", 0],
-    [4, "路地裏からの空 (Instrumental)", "", 0],
+    [1, "NEW DRAMA PARADISE", "", 1],
+    [2, "路地裏からの空", "", 1],
+    [3, "NEW DRAMA PARADISE (Instrumental)", "", 1],
+    [4, "路地裏からの空 (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/123810"]
 
@@ -300,10 +300,10 @@ catalognumber = "PCCG-02156"
 date = "2023-02-15"
 album = "Cozy Crazy PARTY! / TRD [アニメ盤]"
 tracks = [
-    [1, "Cozy Crazy PARTY!", "TRD", 0],
-    [2, "Hope Step", "TRD", 0],
-    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 0],
-    [4, "Hope Step (Instrumental)", "TRD", 0],
+    [1, "Cozy Crazy PARTY!", "TRD", 1],
+    [2, "Hope Step", "TRD", 1],
+    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 1],
+    [4, "Hope Step (Instrumental)", "TRD", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d97abeee-a77f-4aa6-a053-9bb77f2f6601", "https://vgmdb.net/album/123804"]
 
@@ -312,10 +312,10 @@ catalognumber = "PCCG-02154"
 date = "2023-02-15"
 album = "Cozy Crazy PARTY! / TRD [初回限定盤] Vocal"
 tracks = [
-    [1, "Cozy Crazy PARTY!", "TRD", 0],
-    [2, "Hope Step", "TRD", 0],
-    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 0],
-    [4, "Hope Step (Instrumental)", "TRD", 0],
+    [1, "Cozy Crazy PARTY!", "TRD", 1],
+    [2, "Hope Step", "TRD", 1],
+    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 1],
+    [4, "Hope Step (Instrumental)", "TRD", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/44bbb806-4f86-445f-843a-3e4f8cc73587", "https://vgmdb.net/album/123805"]
 
@@ -333,10 +333,10 @@ catalognumber = "PCCG-02155"
 date = "2023-02-15"
 album = "Cozy Crazy PARTY! / TRD"
 tracks = [
-    [1, "Cozy Crazy PARTY!", "TRD", 0],
-    [2, "Hope Step", "TRD", 0],
-    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 0],
-    [4, "Hope Step (Instrumental)", "TRD", 0],
+    [1, "Cozy Crazy PARTY!", "TRD", 1],
+    [2, "Hope Step", "TRD", 1],
+    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 1],
+    [4, "Hope Step (Instrumental)", "TRD", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/44bbb806-4f86-445f-843a-3e4f8cc73587", "https://vgmdb.net/album/123803"]
 
@@ -345,10 +345,10 @@ catalognumber = "SCCG-00103"
 date = "2023-02-15"
 album = "Cozy Crazy PARTY! / TRD [きゃにめ限定盤] Vocal"
 tracks = [
-    [1, "Cozy Crazy PARTY!", "TRD", 0],
-    [2, "Hope Step", "TRD", 0],
-    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 0],
-    [4, "Hope Step (Instrumental)", "TRD", 0],
+    [1, "Cozy Crazy PARTY!", "TRD", 1],
+    [2, "Hope Step", "TRD", 1],
+    [3, "Cozy Crazy PARTY! (Instrumental)", "TRD", 1],
+    [4, "Hope Step (Instrumental)", "TRD", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d97abeee-a77f-4aa6-a053-9bb77f2f6601", "https://vgmdb.net/album/123806"]
 
@@ -366,9 +366,9 @@ catalognumber = "MJHX-02035-2"
 date = "2023-03-08"
 album = "吸血鬼すぐ死ぬ 2 VOL.1 EXTRA CD 吸血鬼すぐトークする・2"
 tracks = [
-    [1, "吸血鬼すぐトークする・2 #01", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 0],
-    [2, "吸血鬼すぐトークする・2 #02", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 0],
-    [3, "吸血鬼すぐトークする・2 #03", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 0],
+    [1, "吸血鬼すぐトークする・2 #01", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 1],
+    [2, "吸血鬼すぐトークする・2 #02", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 1],
+    [3, "吸血鬼すぐトークする・2 #03", "ドラルク (CV: 福山潤)//ドラウス (CV: 速水奨)", 1],
 ]
 links = ["https://vgmdb.net/album/124996"]
 
@@ -377,9 +377,9 @@ catalognumber = "MJHX-02036-2"
 date = "2023-03-22"
 album = "吸血鬼すぐ死ぬ 2 VOL.2 EXTRA CD 吸血鬼すぐトークする・2"
 tracks = [
-    [1, "吸血鬼すぐトークする・2 #01", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 0],
-    [2, "吸血鬼すぐトークする・2 #02", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 0],
-    [3, "吸血鬼すぐトークする・2 #03", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 0],
+    [1, "吸血鬼すぐトークする・2 #01", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 1],
+    [2, "吸血鬼すぐトークする・2 #02", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 1],
+    [3, "吸血鬼すぐトークする・2 #03", "ジョン (CV: 田村睦心)//ヒナイチ (CV: 日岡なつみ)", 1],
 ]
 links = ["https://vgmdb.net/album/124997"]
 
@@ -388,9 +388,9 @@ catalognumber = "MJHX-02037-2"
 date = "2023-04-05"
 album = "吸血鬼すぐ死ぬ 2 VOL.3 EXTRA CD 吸血鬼すぐトークする・2"
 tracks = [
-    [1, "吸血鬼すぐトークする・2 #01", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 0],
-    [2, "吸血鬼すぐトークする・2 #02", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 0],
-    [3, "吸血鬼すぐトークする・2 #03", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 0],
+    [1, "吸血鬼すぐトークする・2 #01", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 1],
+    [2, "吸血鬼すぐトークする・2 #02", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 1],
+    [3, "吸血鬼すぐトークする・2 #03", "ロナルド (CV: 古川慎)//ショット (CV: 田丸篤志)", 1],
 ]
 links = ["https://vgmdb.net/album/124998"]
 
@@ -399,35 +399,35 @@ catalognumber = "PCCG-02242"
 date = "2023-06-07"
 album = "TVアニメ「吸血鬼すぐ死ぬ」キャラクターソング入りサウンドトラック②"
 tracks = [
-    [1, "床の下から夜明けの町へ", "ヒナイチ(CV:日岡なつみ)", 0],
-    [2, "ライムライト・ワイナリー", "Y談おじさん(CV:井上和彦)", 0],
-    [3, "名状しがたい可愛いもの", "フクマ(CV:土岐隼一)", 0],
-    [4, "わかってたよ (フルバージョン)", "ロナルド(CV:古川慎)", 0],
-    [5, "床の下から夜明けの町へ (Instrumental)", "ヒナイチ(CV:日岡なつみ)", 0],
-    [6, "ライムライト・ワイナリー (Instrumental)", "Y談おじさん(CV:井上和彦)", 0],
-    [7, "名状しがたい可愛いもの (Instrumental)", "フクマ(CV:土岐隼一)", 0],
-    [8, "わかってたよ (フルバージョン / Instrumental)", "ロナルド(CV:古川慎)", 0],
-    [9, "困惑1", "高橋諒", 0],
-    [10, "困惑2", "高橋諒", 0],
-    [11, "おかしなことはじめました2", "高橋諒", 0],
-    [12, "コミカルバトル2", "高橋諒", 0],
-    [13, "焦り1", "高橋諒", 0],
-    [14, "焦り2", "高橋諒", 0],
-    [15, "事件現場", "高橋諒", 0],
-    [16, "ツッコミ1", "高橋諒", 0],
-    [17, "ツッコミ2", "高橋諒", 0],
-    [18, "パニック1", "高橋諒", 0],
-    [19, "パニック2", "高橋諒", 0],
-    [20, "やる気!", "高橋諒", 0],
-    [21, "ショック1", "高橋諒", 0],
-    [22, "ショック2", "高橋諒", 0],
-    [23, "ショック3", "高橋諒", 0],
-    [24, "ショック4", "高橋諒", 0],
-    [25, "恐怖1", "高橋諒", 0],
-    [26, "恐怖2", "高橋諒", 0],
-    [27, "秘めた想い", "高橋諒", 0],
-    [28, "別れ", "高橋諒", 0],
-    [29, "再会", "高橋諒", 0],
-    [30, "わかってたよ (TV Edit)", "ロナルド(CV:古川慎)", 0],
+    [1, "床の下から夜明けの町へ", "ヒナイチ(CV:日岡なつみ)", 1],
+    [2, "ライムライト・ワイナリー", "Y談おじさん(CV:井上和彦)", 1],
+    [3, "名状しがたい可愛いもの", "フクマ(CV:土岐隼一)", 1],
+    [4, "わかってたよ (フルバージョン)", "ロナルド(CV:古川慎)", 1],
+    [5, "床の下から夜明けの町へ (Instrumental)", "ヒナイチ(CV:日岡なつみ)", 1],
+    [6, "ライムライト・ワイナリー (Instrumental)", "Y談おじさん(CV:井上和彦)", 1],
+    [7, "名状しがたい可愛いもの (Instrumental)", "フクマ(CV:土岐隼一)", 1],
+    [8, "わかってたよ (フルバージョン / Instrumental)", "ロナルド(CV:古川慎)", 1],
+    [9, "困惑1", "高橋諒", 1],
+    [10, "困惑2", "高橋諒", 1],
+    [11, "おかしなことはじめました2", "高橋諒", 1],
+    [12, "コミカルバトル2", "高橋諒", 1],
+    [13, "焦り1", "高橋諒", 1],
+    [14, "焦り2", "高橋諒", 1],
+    [15, "事件現場", "高橋諒", 1],
+    [16, "ツッコミ1", "高橋諒", 1],
+    [17, "ツッコミ2", "高橋諒", 1],
+    [18, "パニック1", "高橋諒", 1],
+    [19, "パニック2", "高橋諒", 1],
+    [20, "やる気!", "高橋諒", 1],
+    [21, "ショック1", "高橋諒", 1],
+    [22, "ショック2", "高橋諒", 1],
+    [23, "ショック3", "高橋諒", 1],
+    [24, "ショック4", "高橋諒", 1],
+    [25, "恐怖1", "高橋諒", 1],
+    [26, "恐怖2", "高橋諒", 1],
+    [27, "秘めた想い", "高橋諒", 1],
+    [28, "別れ", "高橋諒", 1],
+    [29, "再会", "高橋諒", 1],
+    [30, "わかってたよ (TV Edit)", "ロナルド(CV:古川慎)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/590443eb-9f6d-454d-a2f0-22d1c095977f", "https://vgmdb.net/album/130176"]

@@ -3,7 +3,7 @@ catalognumber = "NOPA-3090"
 date = "2023-10-01"
 album = "ROAR / ulma sound junction"
 tracks = [
-    [1, "ROAR", "ulma sound junction", 0],
+    [1, "ROAR", "ulma sound junction", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5d819de5-7d61-4b7a-acb4-0ca7f6acda7a", "https://vgmdb.net/album/132917"]
 
@@ -12,7 +12,7 @@ catalognumber = "NOPA-5265"
 date = "2023-10-15"
 album = "鱗角 / 小林私"
 tracks = [
-    [1, "鱗角", "", 0],
+    [1, "鱗角", "小林私", 1],
 ]
 links = ["https://vgmdb.net/album/132920"]
 
@@ -39,7 +39,7 @@ catalognumber = "NOPA-5266"
 date = "2024-01-14"
 album = "空に標結う / 小林私"
 tracks = [
-    [1, "空に標結う", "", 0],
+    [1, "空に標結う", "小林私", 1],
 ]
 links = ["https://vgmdb.net/album/136367"]
 
@@ -48,37 +48,37 @@ catalognumber = "KIZX-90636"
 date = "2024-02-21"
 album = "ラグナクリムゾン オリジナルサウンドトラック Vol.1"
 tracks = [
-    [1, "THE THEME of RAGNA CRIMSON ~引き継がれる魂~", "", 0],
-    [2, "Face to Face", "", 0],
-    [3, "Time Limit", "", 0],
-    [4, "竜王", "", 0],
-    [5, "Crimson of The Dragon", "", 0],
-    [6, "急げ", "", 0],
-    [7, "World in Trouble", "", 0],
-    [8, "Heavy Atmosphere", "", 0],
-    [9, "THE THEME of RAGNA CRIMSON ~希望~", "", 0],
-    [10, "腐食", "", 0],
-    [11, "洗脳", "", 0],
-    [12, "躍動", "", 0],
-    [13, "翼の血族", "", 0],
-    [14, "オルト・ゾラ B", "", 0],
-    [15, "情報整理 B", "", 0],
-    [16, "THE THEME of RAGNA CRIMSON ~悲愴~", "", 0],
-    [17, "銀器姫 ~高貴なる凍力~", "", 0],
-    [18, "憤怒", "", 0],
-    [19, "Ultimate Fear", "", 0],
-    [20, "歪な喜び", "", 0],
-    [21, "繰り返される殺略", "", 0],
-    [22, "Death Threat", "", 0],
-    [23, "Nothing I Can do", "", 0],
-    [24, "THE THEME of RAGNA CRIMSON ~哀傷~", "", 0],
-    [25, "情報整理 A", "", 0],
-    [26, "Sketchy Mood", "", 0],
-    [27, "とある日常の風景", "", 0],
-    [28, "Skip in The Sky", "", 0],
-    [29, "Airhead", "", 0],
-    [30, "Ultimatia", "", 0],
-    [31, "Listen to Your Heart", "", 0],
+    [1, "THE THEME of RAGNA CRIMSON ~引き継がれる魂~", "", 1],
+    [2, "Face to Face", "", 1],
+    [3, "Time Limit", "", 1],
+    [4, "竜王", "", 1],
+    [5, "Crimson of The Dragon", "", 1],
+    [6, "急げ", "", 1],
+    [7, "World in Trouble", "", 1],
+    [8, "Heavy Atmosphere", "", 1],
+    [9, "THE THEME of RAGNA CRIMSON ~希望~", "", 1],
+    [10, "腐食", "", 1],
+    [11, "洗脳", "", 1],
+    [12, "躍動", "", 1],
+    [13, "翼の血族", "", 1],
+    [14, "オルト・ゾラ B", "", 1],
+    [15, "情報整理 B", "", 1],
+    [16, "THE THEME of RAGNA CRIMSON ~悲愴~", "", 1],
+    [17, "銀器姫 ~高貴なる凍力~", "", 1],
+    [18, "憤怒", "", 1],
+    [19, "Ultimate Fear", "", 1],
+    [20, "歪な喜び", "", 1],
+    [21, "繰り返される殺略", "", 1],
+    [22, "Death Threat", "", 1],
+    [23, "Nothing I Can do", "", 1],
+    [24, "THE THEME of RAGNA CRIMSON ~哀傷~", "", 1],
+    [25, "情報整理 A", "", 1],
+    [26, "Sketchy Mood", "", 1],
+    [27, "とある日常の風景", "", 1],
+    [28, "Skip in The Sky", "", 1],
+    [29, "Airhead", "", 1],
+    [30, "Ultimatia", "", 1],
+    [31, "Listen to Your Heart", "", 1],
 ]
 links = ["https://vgmdb.net/album/132921"]
 
@@ -87,16 +87,16 @@ catalognumber = "NOPA-4751"
 date = "2024-02-28"
 album = "カルト"
 tracks = [
-    [1, "感脳性リベレーション", "saji", 0],
-    [2, "並いる敵蹴散らし侍", "saji", 0],
-    [3, "Magic Writer", "saji", 0],
-    [4, "エチカ", "saji", 0],
-    [5, "月とワルツ", "saji", 0],
-    [6, "スターチス", "saji", 0],
-    [7, "フラッシュバック", "saji", 0],
-    [8, "EVERY DANCE SING", "saji", 0],
-    [9, "Live in Peace", "saji", 0],
-    [10, "Circle", "saji", 0],
+    [1, "感脳性リベレーション", "saji", 1],
+    [2, "並いる敵蹴散らし侍", "saji", 1],
+    [3, "Magic Writer", "saji", 1],
+    [4, "エチカ", "saji", 1],
+    [5, "月とワルツ", "saji", 1],
+    [6, "スターチス", "saji", 1],
+    [7, "フラッシュバック", "saji", 1],
+    [8, "EVERY DANCE SING", "saji", 1],
+    [9, "Live in Peace", "saji", 1],
+    [10, "Circle", "saji", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9d6ea4fb-886f-44a2-9274-107d40cab0f8"]
 
@@ -105,38 +105,38 @@ catalognumber = "KIZX-90639"
 date = "2024-06-05"
 album = "ラグナクリムゾン オリジナルサウンドトラック Vol.2"
 tracks = [
-    [1, "Things Look Black", "", 0],
-    [2, "THE THEME of RAGNA CRIMSON ~感動~", "", 0],
-    [3, "Good Fight in Struggle", "", 0],
-    [4, "THE THEME of RAGNA CRIMSON ~覚醒~", "", 0],
-    [5, "銀装兵団", "", 0],
-    [6, "Struggle to Survive", "", 0],
-    [7, "Not at All", "", 0],
-    [8, "オルト・ゾラ A", "", 0],
-    [9, "Last Operation", "", 0],
-    [10, "Deep Hatred", "", 0],
-    [11, "瘴気", "", 0],
-    [12, "Silverware Princess", "", 0],
-    [13, "Rising and Falling", "", 0],
-    [14, "Anxiety", "", 0],
-    [15, "Nervous Breakdown", "", 0],
-    [16, "Fight The Power", "", 0],
-    [17, "頼もしい強者たち", "", 0],
-    [18, "思念合一", "", 0],
-    [19, "太陽神教", "", 0],
-    [20, "Death Alert", "", 0],
-    [21, "Conflict", "", 0],
-    [22, "臥薪嘗胆", "", 0],
-    [23, "雷神カムイ", "", 0],
-    [24, "理想への道", "", 0],
-    [25, "Distorted Impulse", "", 0],
-    [26, "踊るように", "", 0],
-    [27, "Requiem for Ultimatia", "", 0],
-    [28, "Recollection", "", 0],
-    [29, "Suspicion", "", 0],
-    [30, "Nothing Can Stop", "", 0],
-    [31, "Sombre", "", 0],
-    [32, "Prelude ~KIBO~", "", 0],
-    [33, "A Little Prayer", "", 0],
+    [1, "Things Look Black", "", 1],
+    [2, "THE THEME of RAGNA CRIMSON ~感動~", "", 1],
+    [3, "Good Fight in Struggle", "", 1],
+    [4, "THE THEME of RAGNA CRIMSON ~覚醒~", "", 1],
+    [5, "銀装兵団", "", 1],
+    [6, "Struggle to Survive", "", 1],
+    [7, "Not at All", "", 1],
+    [8, "オルト・ゾラ A", "", 1],
+    [9, "Last Operation", "", 1],
+    [10, "Deep Hatred", "", 1],
+    [11, "瘴気", "", 1],
+    [12, "Silverware Princess", "", 1],
+    [13, "Rising and Falling", "", 1],
+    [14, "Anxiety", "", 1],
+    [15, "Nervous Breakdown", "", 1],
+    [16, "Fight The Power", "", 1],
+    [17, "頼もしい強者たち", "", 1],
+    [18, "思念合一", "", 1],
+    [19, "太陽神教", "", 1],
+    [20, "Death Alert", "", 1],
+    [21, "Conflict", "", 1],
+    [22, "臥薪嘗胆", "", 1],
+    [23, "雷神カムイ", "", 1],
+    [24, "理想への道", "", 1],
+    [25, "Distorted Impulse", "", 1],
+    [26, "踊るように", "", 1],
+    [27, "Requiem for Ultimatia", "", 1],
+    [28, "Recollection", "", 1],
+    [29, "Suspicion", "", 1],
+    [30, "Nothing Can Stop", "", 1],
+    [31, "Sombre", "", 1],
+    [32, "Prelude ~KIBO~", "", 1],
+    [33, "A Little Prayer", "", 1],
 ]
 links = ["https://vgmdb.net/album/132922"]
