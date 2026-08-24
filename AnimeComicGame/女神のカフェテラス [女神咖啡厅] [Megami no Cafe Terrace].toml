@@ -3,9 +3,9 @@ catalognumber = "AICL-4377"
 date = "2023-05-24"
 album = "運命共同体 / 音莉飴"
 tracks = [
-    [1, "運命共同体！", "音莉飴", 0],
-    [2, "恋元素爆発", "音莉飴", 0],
-    [3, "陽キャJKに憧れる陰キャJKの歌 (Single Version)", "音莉飴", 0],
+    [1, "運命共同体！", "音莉飴", 1],
+    [2, "恋元素爆発", "音莉飴", 1],
+    [3, "陽キャJKに憧れる陰キャJKの歌 (Single Version)", "音莉飴", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8282100f-cda4-41df-88cb-145f69292878", "https://vgmdb.net/album/128340"]
 
@@ -14,9 +14,9 @@ catalognumber = "AICL-4378~9"
 date = "2023-05-24"
 album = "運命共同体 / 音莉飴 [期間生産限定盤] Disc 1 (CD) [AICL-4378]"
 tracks = [
-    [1, "運命共同体！", "音莉飴", 0],
-    [2, "恋元素爆発", "音莉飴", 0],
-    [3, "陽キャJKに憧れる陰キャJKの歌 (Single Version)", "音莉飴", 0],
+    [1, "運命共同体！", "音莉飴", 1],
+    [2, "恋元素爆発", "音莉飴", 1],
+    [3, "陽キャJKに憧れる陰キャJKの歌 (Single Version)", "音莉飴", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/847a08fc-3c9d-4c5f-ba67-69f27fa2d7cb", "https://vgmdb.net/album/128341"]
 
@@ -34,10 +34,10 @@ catalognumber = "VVCL-2267"
 date = "2023-05-31"
 album = "ドラマチック / 佐藤ミキ"
 tracks = [
-    [1, "ドラマチック", "佐藤ミキ", 0],
-    [2, "Strategy", "佐藤ミキ", 0],
-    [3, "ドラマチック -Instrumental-", "佐藤ミキ", 0],
-    [4, "Strategy -Instrumental-", "佐藤ミキ", 0],
+    [1, "ドラマチック", "佐藤ミキ", 1],
+    [2, "Strategy", "佐藤ミキ", 1],
+    [3, "ドラマチック -Instrumental-", "佐藤ミキ", 1],
+    [4, "Strategy -Instrumental-", "佐藤ミキ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/575a855e-51af-40c0-87c7-ba0830d6e819", "https://vgmdb.net/album/128347"]
 
@@ -46,11 +46,11 @@ catalognumber = "VVCL-2268~9"
 date = "2023-05-31"
 album = "ドラマチック / 佐藤ミキ [期間生産限定盤] Disc 1 (CD) [VVCL-2268]"
 tracks = [
-    [1, "ドラマチック", "佐藤ミキ", 0],
-    [2, "Strategy", "佐藤ミキ", 0],
-    [3, "ドラマチック -TV edit-", "佐藤ミキ", 0],
-    [4, "ドラマチック -Instrumental-", "佐藤ミキ", 0],
-    [5, "Strategy -Instrumental-", "佐藤ミキ", 0],
+    [1, "ドラマチック", "佐藤ミキ", 1],
+    [2, "Strategy", "佐藤ミキ", 1],
+    [3, "ドラマチック -TV edit-", "佐藤ミキ", 1],
+    [4, "ドラマチック -Instrumental-", "佐藤ミキ", 1],
+    [5, "Strategy -Instrumental-", "佐藤ミキ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9db679f8-f1f9-4d04-a522-7c216ab61ea6", "https://vgmdb.net/album/128349"]
 
@@ -59,7 +59,7 @@ catalognumber = "VVCL-2268~9"
 date = "2023-05-31"
 album = "ドラマチック / 佐藤ミキ [期間生産限定盤] Disc 2 (Blu-ray) [VVCL-2269]"
 tracks = [
-    [1, "ドラマチック (MUSIC VIDEO)", "佐藤ミキ", 0],
+    [1, "ドラマチック (MUSIC VIDEO)", "佐藤ミキ", 1],
     [2, "TVアニメ「女神のカフェテラス」ノンクレジットエンディングムービー", "佐藤ミキ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9db679f8-f1f9-4d04-a522-7c216ab61ea6", "https://vgmdb.net/album/128349"]
@@ -69,10 +69,10 @@ catalognumber = "MJSS-09331"
 date = "2023-08-02"
 album = "『女神のカフェテラス』Inserted Song By Akane Hououji"
 tracks = [
-    [1, "My Standard", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 0],
-    [2, "雨のHide‐and‐Seek", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 0],
-    [3, "Midnight Doubt", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 0],
-    [4, "My Standard (劇中サイズ)", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 0],
+    [1, "My Standard", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 1],
+    [2, "雨のHide‐and‐Seek", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 1],
+    [3, "Midnight Doubt", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 1],
+    [4, "My Standard (劇中サイズ)", "鳳凰寺紅葉(CV: 瀬戸麻沙美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/649c0f36-d6c6-462e-bb87-4c3938fce4ea", "https://vgmdb.net/album/129439"]
 
@@ -81,10 +81,10 @@ catalognumber = "SMCL-918~9"
 date = "2024-08-28"
 album = "チャージ! / 小玉ひかり [期間生産限定盤] Disc 1 (CD) [SMCL-918]"
 tracks = [
-    [1, "チャージ！", "小玉ひかり", 0],
-    [2, "ソーダ", "小玉ひかり", 0],
-    [3, "チャージ！ (Instrumental)", "小玉ひかり", 0],
-    [4, "ソーダ (Instrumental)", "小玉ひかり", 0],
+    [1, "チャージ！", "小玉ひかり", 1],
+    [2, "ソーダ", "小玉ひかり", 1],
+    [3, "チャージ！ (Instrumental)", "小玉ひかり", 1],
+    [4, "ソーダ (Instrumental)", "小玉ひかり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d1d2b298-ab8a-4225-b0c1-4279472ce3bb", "https://vgmdb.net/album/152616"]
 
@@ -93,8 +93,8 @@ catalognumber = "SMCL-918~9"
 date = "2024-08-28"
 album = "チャージ! / 小玉ひかり [期間生産限定盤] Disc 2 (Blu-ray) [SMCL-919]"
 tracks = [
-    [1, "チャージ！ (Music Video)", "小玉ひかり", 0],
-    [2, "チャージ！ (MV Making Movie)", "小玉ひかり", 0],
+    [1, "チャージ！ (Music Video)", "小玉ひかり", 1],
+    [2, "チャージ！ (MV Making Movie)", "小玉ひかり", 1],
     [3, "TVアニメ『女神のカフェテラス』第2期 ノンクレジットオープニングムービー", "小玉ひかり", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d1d2b298-ab8a-4225-b0c1-4279472ce3bb", "https://vgmdb.net/album/152616"]
@@ -104,13 +104,13 @@ catalognumber = "SRXX05074B00Z"
 date = "2024-09-18"
 album = "なっちゃった！"
 tracks = [
-    [1, "なっちゃった！", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [2, "パスタの歌 ～ペペロンチーノ～", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [3, "ペペロン・ファンファーレ！", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [4, "炎上撲滅！魔法少女アイ子", "アーリオ・オーリオ・エ・ペペロンチーノ & そりっどびーつ", 0],
-    [5, "UNION", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [6, "まほろば", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [7, "PPEDM", "アーリオ・オーリオ・エ・ペペロンチーノ", 0],
-    [8, "渋谷の街の桜の丘で", "アーリオ・オーリオ・エ・ペペロンチーノ & 天籠りのん & 安心院みさ & 音門るき & トゥルシー・ナイトメア・マッドネス・4世", 0],
+    [1, "なっちゃった！", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [2, "パスタの歌 ～ペペロンチーノ～", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [3, "ペペロン・ファンファーレ！", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [4, "炎上撲滅！魔法少女アイ子", "アーリオ・オーリオ・エ・ペペロンチーノ & そりっどびーつ", 1],
+    [5, "UNION", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [6, "まほろば", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [7, "PPEDM", "アーリオ・オーリオ・エ・ペペロンチーノ", 1],
+    [8, "渋谷の街の桜の丘で", "アーリオ・オーリオ・エ・ペペロンチーノ & 天籠りのん & 安心院みさ & 音門るき & トゥルシー・ナイトメア・マッドネス・4世", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b9d986ca-060f-46a1-b6d3-badaf65ca068"]
