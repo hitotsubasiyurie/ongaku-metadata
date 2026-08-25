@@ -3,7 +3,7 @@ catalognumber = "VE3WA-19681"
 date = "2022-04-08"
 album = "喜劇 / 星野源"
 tracks = [
-    [1, "喜劇", "星野源", 0],
+    [1, "喜劇", "星野源", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2c9c7185-aab8-40fe-bf05-00e6877a5739", "https://vgmdb.net/album/119540"]
 
@@ -12,7 +12,7 @@ catalognumber = "N/A"
 date = "2022-05-08"
 album = "TBD / (K)NoW_NAME"
 tracks = [
-    [1, "TBD", "(K)NoW_NAME:立花綾香", 0],
+    [1, "TBD", "(K)NoW_NAME:立花綾香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/91b0ef8d-2713-4634-a0e3-38254d84bb9c", "https://vgmdb.net/album/119769"]
 
@@ -22,7 +22,7 @@ date = "2022-06-22"
 album = "ミックスナッツ EP / Official髭男dism Vocal"
 tracks = [
     [1, "ミックスナッツ", "Official髭男dism", 0],
-    [2, "Anarchy", "Official髭男dism", 0],
+    [2, "Anarchy", "Official髭男dism", 1],
     [3, "Choral A", "Official髭男dism", 0],
     [4, "破顔", "Official髭男dism", 0],
 ]
@@ -52,7 +52,7 @@ date = "2022-06-22"
 album = "ミックスナッツ EP / Official髭男dism Vocal Disc 1"
 tracks = [
     [1, "ミックスナッツ", "Official髭男dism", 0],
-    [2, "Anarchy", "Official髭男dism", 0],
+    [2, "Anarchy", "Official髭男dism", 1],
     [3, "Choral A", "Official髭男dism", 0],
     [4, "破顔", "Official髭男dism", 0],
 ]
@@ -81,10 +81,10 @@ catalognumber = "PCCA-06138"
 date = "2022-06-22"
 album = "ミックスナッツ EP / Official髭男dism"
 tracks = [
-    [1, "ミックスナッツ", "Official髭男dism", 0],
-    [2, "Anarchy", "Official髭男dism", 0],
-    [3, "Choral A", "Official髭男dism", 0],
-    [4, "破顔", "Official髭男dism", 0],
+    [1, "ミックスナッツ", "Official髭男dism", 1],
+    [2, "Anarchy", "Official髭男dism", 1],
+    [3, "Choral A", "Official髭男dism", 1],
+    [4, "破顔", "Official髭男dism", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7e6a0cf0-8099-4f1d-8e9f-60b95a56f051", "https://vgmdb.net/album/119707"]
 
@@ -93,51 +93,51 @@ catalognumber = "N/A"
 date = "2022-06-26"
 album = "TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック Vol.1"
 tracks = [
-    [1, "STRIX", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "WISE", "(K)NoW_NAME:宮崎誠", 0],
-    [3, "transient calm", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "Liar", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "Disguise", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "Plan B", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "Crisis of my home", "(K)NoW_NAME:宮崎誠", 0],
-    [8, "Girl's pastime", "(K)NoW_NAME:宮崎誠", 0],
-    [9, "SUBJECT 007", "(K)NoW_NAME:宮崎誠", 0],
-    [10, "Front Line", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "Elusive man", "(K)NoW_NAME:宮崎誠", 0],
-    [12, "without tears", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Ponder", "(K)NoW_NAME:宮崎誠", 0],
-    [14, "Thorn Princess", "(K)NoW_NAME:宮崎誠", 0],
-    [15, "Delusion", "(K)NoW_NAME:宮崎誠", 0],
-    [16, "verge of a setback", "(K)NoW_NAME:宮崎誠", 0],
-    [17, "Strange Marriage", "(K)NoW_NAME:宮崎誠", 0],
-    [18, "housework", "(K)NoW_NAME:宮崎誠", 0],
-    [19, "Berlint", "(K)NoW_NAME:睦月周平", 0],
-    [20, "Gorgeous step", "(K)NoW_NAME:睦月周平", 0],
-    [21, "try again", "(K)NoW_NAME:宮崎誠", 0],
-    [22, "Looks like a nice family", "(K)NoW_NAME:宮崎誠", 0],
-    [23, "teacups", "(K)NoW_NAME:宮崎誠", 0],
-    [24, "little by little", "(K)NoW_NAME:宮崎誠", 0],
-    [25, "sunset", "(K)NoW_NAME:宮崎誠", 0],
-    [26, "Very Elegant", "(K)NoW_NAME:睦月周平", 0],
-    [27, "Eden College", "(K)NoW_NAME:宮崎誠", 0],
-    [28, "Cecile Hall", "(K)NoW_NAME:睦月周平", 0],
-    [29, "Housemaster", "(K)NoW_NAME:睦月周平", 0],
-    [30, "Precocious", "(K)NoW_NAME:睦月周平", 0],
-    [31, "Second Son", "(K)NoW_NAME:睦月周平", 0],
-    [32, "Twilight", "(K)NoW_NAME:宮崎誠", 0],
-    [33, "State Security Service", "(K)NoW_NAME:宮崎誠", 0],
-    [34, "Questioning", "(K)NoW_NAME:宮崎誠", 0],
-    [35, "Crack Down", "(K)NoW_NAME:宮崎誠", 0],
-    [36, "Commence", "(K)NoW_NAME:宮崎誠", 0],
-    [37, "NEXT MISSION", "(K)NoW_NAME:宮崎誠", 0],
-    [38, "No one knows", "(K)NoW_NAME:宮崎誠", 0],
-    [39, "forever and ever", "(K)NoW_NAME:宮崎誠", 0],
-    [40, "As a mother. As a wife.", "(K)NoW_NAME:宮崎誠", 0],
-    [41, "Small Daily Life", "(K)NoW_NAME:宮崎誠", 0],
-    [42, "snake in the grass", "(K)NoW_NAME:宮崎誠", 0],
-    [43, "The Forgers", "(K)NoW_NAME:宮崎誠", 0],
-    [44, "Bondman", "(K)NoW_NAME:宮崎誠", 0],
-    [45, "TBD", "(K)NoW_NAME:立花綾香", 0],
+    [1, "STRIX", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "WISE", "(K)NoW_NAME:宮崎誠", 1],
+    [3, "transient calm", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "Liar", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "Disguise", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "Plan B", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "Crisis of my home", "(K)NoW_NAME:宮崎誠", 1],
+    [8, "Girl's pastime", "(K)NoW_NAME:宮崎誠", 1],
+    [9, "SUBJECT 007", "(K)NoW_NAME:宮崎誠", 1],
+    [10, "Front Line", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "Elusive man", "(K)NoW_NAME:宮崎誠", 1],
+    [12, "without tears", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Ponder", "(K)NoW_NAME:宮崎誠", 1],
+    [14, "Thorn Princess", "(K)NoW_NAME:宮崎誠", 1],
+    [15, "Delusion", "(K)NoW_NAME:宮崎誠", 1],
+    [16, "verge of a setback", "(K)NoW_NAME:宮崎誠", 1],
+    [17, "Strange Marriage", "(K)NoW_NAME:宮崎誠", 1],
+    [18, "housework", "(K)NoW_NAME:宮崎誠", 1],
+    [19, "Berlint", "(K)NoW_NAME:睦月周平", 1],
+    [20, "Gorgeous step", "(K)NoW_NAME:睦月周平", 1],
+    [21, "try again", "(K)NoW_NAME:宮崎誠", 1],
+    [22, "Looks like a nice family", "(K)NoW_NAME:宮崎誠", 1],
+    [23, "teacups", "(K)NoW_NAME:宮崎誠", 1],
+    [24, "little by little", "(K)NoW_NAME:宮崎誠", 1],
+    [25, "sunset", "(K)NoW_NAME:宮崎誠", 1],
+    [26, "Very Elegant", "(K)NoW_NAME:睦月周平", 1],
+    [27, "Eden College", "(K)NoW_NAME:宮崎誠", 1],
+    [28, "Cecile Hall", "(K)NoW_NAME:睦月周平", 1],
+    [29, "Housemaster", "(K)NoW_NAME:睦月周平", 1],
+    [30, "Precocious", "(K)NoW_NAME:睦月周平", 1],
+    [31, "Second Son", "(K)NoW_NAME:睦月周平", 1],
+    [32, "Twilight", "(K)NoW_NAME:宮崎誠", 1],
+    [33, "State Security Service", "(K)NoW_NAME:宮崎誠", 1],
+    [34, "Questioning", "(K)NoW_NAME:宮崎誠", 1],
+    [35, "Crack Down", "(K)NoW_NAME:宮崎誠", 1],
+    [36, "Commence", "(K)NoW_NAME:宮崎誠", 1],
+    [37, "NEXT MISSION", "(K)NoW_NAME:宮崎誠", 1],
+    [38, "No one knows", "(K)NoW_NAME:宮崎誠", 1],
+    [39, "forever and ever", "(K)NoW_NAME:宮崎誠", 1],
+    [40, "As a mother. As a wife.", "(K)NoW_NAME:宮崎誠", 1],
+    [41, "Small Daily Life", "(K)NoW_NAME:宮崎誠", 1],
+    [42, "snake in the grass", "(K)NoW_NAME:宮崎誠", 1],
+    [43, "The Forgers", "(K)NoW_NAME:宮崎誠", 1],
+    [44, "Bondman", "(K)NoW_NAME:宮崎誠", 1],
+    [45, "TBD", "(K)NoW_NAME:立花綾香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d030120-6899-4b44-99a5-8ff59be5cf2c", "https://vgmdb.net/album/121357"]
 
@@ -146,7 +146,7 @@ catalognumber = "N/A"
 date = "2022-10-08"
 album = "GOOD DAY / (K)NoW_NAME"
 tracks = [
-    [1, "GOOD DAY", "(K)NoW_NAME:NIKIIE", 0],
+    [1, "GOOD DAY", "(K)NoW_NAME:NIKIIE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d3f4e905-c5a7-42ec-bbd5-5ad7bc2bbdc2", "https://vgmdb.net/album/123652"]
 
@@ -155,9 +155,9 @@ catalognumber = "SRCL-12266~7"
 date = "2022-11-09"
 album = "色彩 / yama [初回生産限定盤] Vocal"
 tracks = [
-    [1, "色彩", "yama", 0],
-    [2, "愛を解く", "yama", 0],
-    [3, "新星", "yama", 0],
+    [1, "色彩", "yama", 1],
+    [2, "愛を解く", "yama", 1],
+    [3, "新星", "yama", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/573182d9-f7d6-4feb-ba5c-3ce7fa98e956", "https://vgmdb.net/album/123496"]
 
@@ -182,10 +182,10 @@ catalognumber = "SRCL-12269"
 date = "2022-11-09"
 album = "色彩 / yama [期間生産限定盤]"
 tracks = [
-    [1, "色彩", "yama", 0],
-    [2, "愛を解く", "yama", 0],
-    [3, "新星", "yama", 0],
-    [4, "色彩 (Anime Ver.)", "yama", 0],
+    [1, "色彩", "yama", 1],
+    [2, "愛を解く", "yama", 1],
+    [3, "新星", "yama", 1],
+    [4, "色彩 (Anime Ver.)", "yama", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a361f62-b735-41d9-90a5-9c30bd5b2af1", "https://vgmdb.net/album/123497"]
 
@@ -194,9 +194,9 @@ catalognumber = "SRCL-12268"
 date = "2022-11-09"
 album = "色彩 / yama"
 tracks = [
-    [1, "色彩", "yama", 0],
-    [2, "愛を解く", "yama", 0],
-    [3, "新星", "yama", 0],
+    [1, "色彩", "yama", 1],
+    [2, "愛を解く", "yama", 1],
+    [3, "新星", "yama", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2261303e-8f03-419d-a1b0-839b44773575", "https://vgmdb.net/album/123495"]
 
@@ -205,7 +205,7 @@ catalognumber = "N/A"
 date = "2022-11-13"
 album = "Breeze / (K)NoW_NAME"
 tracks = [
-    [1, "Breeze", "(K)NoW_NAME:NIKIIE", 0],
+    [1, "Breeze", "(K)NoW_NAME:NIKIIE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0b31bfbe-dbb5-4df5-92ef-7f01eebfcce1", "https://vgmdb.net/album/124515"]
 
@@ -214,7 +214,7 @@ catalognumber = "SRXX-04530"
 date = "2022-12-18"
 album = "色彩 - From THE FIRST TAKE / yama"
 tracks = [
-    [1, "色彩 - From THE FIRST TAKE", "yama", 0],
+    [1, "色彩 - From THE FIRST TAKE", "yama", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6cd44e56-9bee-4d3c-8025-bdc15e956cfd", "https://vgmdb.net/album/125265"]
 
@@ -223,42 +223,42 @@ catalognumber = "THCA-60280"
 date = "2022-12-21"
 album = "TVアニメ SPY×FAMILY オリジナル・サウンドトラック Disc 1 [THCA-60280-1]"
 tracks = [
-    [1, "STRIX", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "WISE", "(K)NoW_NAME:宮崎誠", 0],
-    [3, "transient calm", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "Liar", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "Disguise", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "Plan B", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "Crisis of my home", "(K)NoW_NAME:宮崎誠", 0],
-    [8, "Girl’s pastime", "(K)NoW_NAME:宮崎誠", 0],
-    [9, "SUBJECT 007", "(K)NoW_NAME:宮崎誠", 0],
-    [10, "Front Line", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "Elusive man", "(K)NoW_NAME:宮崎誠", 0],
-    [12, "without tears", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Ponder", "(K)NoW_NAME:宮崎誠", 0],
-    [14, "Thorn Princess", "(K)NoW_NAME:宮崎誠", 0],
-    [15, "Delusion", "(K)NoW_NAME:宮崎誠", 0],
-    [16, "verge of a setback", "(K)NoW_NAME:宮崎誠", 0],
-    [17, "Strange Marriage", "(K)NoW_NAME:宮崎誠", 0],
-    [18, "housework", "(K)NoW_NAME:宮崎誠", 0],
-    [19, "Berlint", "(K)NoW_NAME:睦月周平", 0],
-    [20, "Gorgeous step", "(K)NoW_NAME:睦月周平", 0],
-    [21, "try again", "(K)NoW_NAME:宮崎誠", 0],
-    [22, "Looks like a nice family", "(K)NoW_NAME:宮崎誠", 0],
-    [23, "teacups", "(K)NoW_NAME:宮崎誠", 0],
-    [24, "little by little", "(K)NoW_NAME:宮崎誠", 0],
-    [25, "sunset", "(K)NoW_NAME:宮崎誠", 0],
-    [26, "Very Elegant", "(K)NoW_NAME:睦月周平", 0],
-    [27, "Eden College", "(K)NoW_NAME:宮崎誠", 0],
-    [28, "Cecile Hall", "(K)NoW_NAME:睦月周平", 0],
-    [29, "Housemaster", "(K)NoW_NAME:睦月周平", 0],
-    [30, "Precocious", "(K)NoW_NAME:睦月周平", 0],
-    [31, "Second Son", "(K)NoW_NAME:睦月周平", 0],
-    [32, "Twilight", "(K)NoW_NAME:宮崎誠", 0],
-    [33, "State Security Service", "(K)NoW_NAME:宮崎誠", 0],
-    [34, "Questioning", "(K)NoW_NAME:宮崎誠", 0],
-    [35, "Crack Down", "(K)NoW_NAME:宮崎誠", 0],
-    [36, "TBD", "(K)NoW_NAME:立花綾香", 0],
+    [1, "STRIX", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "WISE", "(K)NoW_NAME:宮崎誠", 1],
+    [3, "transient calm", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "Liar", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "Disguise", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "Plan B", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "Crisis of my home", "(K)NoW_NAME:宮崎誠", 1],
+    [8, "Girl’s pastime", "(K)NoW_NAME:宮崎誠", 1],
+    [9, "SUBJECT 007", "(K)NoW_NAME:宮崎誠", 1],
+    [10, "Front Line", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "Elusive man", "(K)NoW_NAME:宮崎誠", 1],
+    [12, "without tears", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Ponder", "(K)NoW_NAME:宮崎誠", 1],
+    [14, "Thorn Princess", "(K)NoW_NAME:宮崎誠", 1],
+    [15, "Delusion", "(K)NoW_NAME:宮崎誠", 1],
+    [16, "verge of a setback", "(K)NoW_NAME:宮崎誠", 1],
+    [17, "Strange Marriage", "(K)NoW_NAME:宮崎誠", 1],
+    [18, "housework", "(K)NoW_NAME:宮崎誠", 1],
+    [19, "Berlint", "(K)NoW_NAME:睦月周平", 1],
+    [20, "Gorgeous step", "(K)NoW_NAME:睦月周平", 1],
+    [21, "try again", "(K)NoW_NAME:宮崎誠", 1],
+    [22, "Looks like a nice family", "(K)NoW_NAME:宮崎誠", 1],
+    [23, "teacups", "(K)NoW_NAME:宮崎誠", 1],
+    [24, "little by little", "(K)NoW_NAME:宮崎誠", 1],
+    [25, "sunset", "(K)NoW_NAME:宮崎誠", 1],
+    [26, "Very Elegant", "(K)NoW_NAME:睦月周平", 1],
+    [27, "Eden College", "(K)NoW_NAME:宮崎誠", 1],
+    [28, "Cecile Hall", "(K)NoW_NAME:睦月周平", 1],
+    [29, "Housemaster", "(K)NoW_NAME:睦月周平", 1],
+    [30, "Precocious", "(K)NoW_NAME:睦月周平", 1],
+    [31, "Second Son", "(K)NoW_NAME:睦月周平", 1],
+    [32, "Twilight", "(K)NoW_NAME:宮崎誠", 1],
+    [33, "State Security Service", "(K)NoW_NAME:宮崎誠", 1],
+    [34, "Questioning", "(K)NoW_NAME:宮崎誠", 1],
+    [35, "Crack Down", "(K)NoW_NAME:宮崎誠", 1],
+    [36, "TBD", "(K)NoW_NAME:立花綾香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ee363079-ac6f-4706-898f-5bbb1dc24471", "https://vgmdb.net/album/123618"]
 
@@ -267,36 +267,36 @@ catalognumber = "THCA-60280"
 date = "2022-12-21"
 album = "TVアニメ SPY×FAMILY オリジナル・サウンドトラック Disc 2 [THCA-60280-2]"
 tracks = [
-    [1, "Bondman", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "Commence", "(K)NoW_NAME:宮崎誠", 0],
-    [3, "NEXT MISSION", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "See you next week", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "No one knows", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "forever and ever", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "As a mother. As a wife.", "(K)NoW_NAME:宮崎誠", 0],
-    [8, "Small Daily Life", "(K)NoW_NAME:宮崎誠", 0],
-    [9, "snake in the grass", "(K)NoW_NAME:宮崎誠", 0],
-    [10, "The Forgers", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "Mother’s Cooking", "(K)NoW_NAME:宮崎誠", 0],
-    [12, "Shoot‐out", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Final points", "(K)NoW_NAME:宮崎誠", 0],
-    [14, "Calling on", "(K)NoW_NAME:宮崎誠", 0],
-    [15, "Handler", "(K)NoW_NAME:宮崎誠", 0],
-    [16, "Guard dog", "(K)NoW_NAME:宮崎誠", 0],
-    [17, "Gain wider knowledge", "(K)NoW_NAME:睦月周平", 0],
-    [18, "BAR", "(K)NoW_NAME:睦月周平", 0],
-    [19, "子守唄", "(K)NoW_NAME、ヨル・フォージャー(CV:早見沙織)", 0],
-    [20, "sheep", "(K)NoW_NAME:睦月周平", 0],
-    [21, "Stella Stars", "(K)NoW_NAME:宮崎誠", 0],
-    [22, "stroll", "(K)NoW_NAME:宮崎誠", 0],
-    [23, "GOOD DAY (instrumental)", "(K)NoW_NAME:睦月周平", 0],
-    [24, "woolly", "(K)NoW_NAME:宮崎誠", 0],
-    [25, "Pitapat", "(K)NoW_NAME:宮崎誠", 0],
-    [26, "Breeze", "(K)NoW_NAME:NIKIIE", 0],
-    [27, "Competitor", "(K)NoW_NAME:睦月周平", 0],
-    [28, "jealousy", "(K)NoW_NAME:睦月周平", 0],
-    [29, "Nightfall", "(K)NoW_NAME:宮崎誠", 0],
-    [30, "GOOD DAY", "(K)NoW_NAME:NIKIIE", 0],
+    [1, "Bondman", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "Commence", "(K)NoW_NAME:宮崎誠", 1],
+    [3, "NEXT MISSION", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "See you next week", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "No one knows", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "forever and ever", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "As a mother. As a wife.", "(K)NoW_NAME:宮崎誠", 1],
+    [8, "Small Daily Life", "(K)NoW_NAME:宮崎誠", 1],
+    [9, "snake in the grass", "(K)NoW_NAME:宮崎誠", 1],
+    [10, "The Forgers", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "Mother’s Cooking", "(K)NoW_NAME:宮崎誠", 1],
+    [12, "Shoot‐out", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Final points", "(K)NoW_NAME:宮崎誠", 1],
+    [14, "Calling on", "(K)NoW_NAME:宮崎誠", 1],
+    [15, "Handler", "(K)NoW_NAME:宮崎誠", 1],
+    [16, "Guard dog", "(K)NoW_NAME:宮崎誠", 1],
+    [17, "Gain wider knowledge", "(K)NoW_NAME:睦月周平", 1],
+    [18, "BAR", "(K)NoW_NAME:睦月周平", 1],
+    [19, "子守唄", "(K)NoW_NAME、ヨル・フォージャー(CV:早見沙織)", 1],
+    [20, "sheep", "(K)NoW_NAME:睦月周平", 1],
+    [21, "Stella Stars", "(K)NoW_NAME:宮崎誠", 1],
+    [22, "stroll", "(K)NoW_NAME:宮崎誠", 1],
+    [23, "GOOD DAY (instrumental)", "(K)NoW_NAME:睦月周平", 1],
+    [24, "woolly", "(K)NoW_NAME:宮崎誠", 1],
+    [25, "Pitapat", "(K)NoW_NAME:宮崎誠", 1],
+    [26, "Breeze", "(K)NoW_NAME:NIKIIE", 1],
+    [27, "Competitor", "(K)NoW_NAME:睦月周平", 1],
+    [28, "jealousy", "(K)NoW_NAME:睦月周平", 1],
+    [29, "Nightfall", "(K)NoW_NAME:宮崎誠", 1],
+    [30, "GOOD DAY", "(K)NoW_NAME:NIKIIE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ee363079-ac6f-4706-898f-5bbb1dc24471", "https://vgmdb.net/album/123618"]
 
@@ -305,10 +305,10 @@ catalognumber = "TFCC-89751~2"
 date = "2023-04-05"
 album = "SOUVENIR / BUMP OF CHICKEN Vocal"
 tracks = [
-    [1, "SOUVENIR", "BUMP OF CHICKEN", 0],
-    [2, "クロノスタシス", "BUMP OF CHICKEN", 0],
-    [3, "窓の中から", "BUMP OF CHICKEN", 0],
-    [4, "大地", "BUMP OF CHICKEN", 0],
+    [1, "SOUVENIR", "BUMP OF CHICKEN", 1],
+    [2, "クロノスタシス", "BUMP OF CHICKEN", 1],
+    [3, "窓の中から", "BUMP OF CHICKEN", 1],
+    [4, "大地", "BUMP OF CHICKEN", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2388f57f-f5a9-4ede-8891-08f38ff6e566", "https://vgmdb.net/album/124113"]
 
@@ -331,7 +331,7 @@ catalognumber = "UV1AS-01286"
 date = "2023-10-05"
 album = "クラクラ / Ado"
 tracks = [
-    [1, "クラクラ", "", 0],
+    [1, "クラクラ", "", 1],
 ]
 links = ["https://vgmdb.net/album/132790"]
 
@@ -340,7 +340,7 @@ catalognumber = "N/A"
 date = "2023-10-08"
 album = "トドメの一撃 (feat. Cory Wong) / Vaundy"
 tracks = [
-    [1, "トドメの一撃", "Vaundy feat. Cory Wong", 0],
+    [1, "トドメの一撃", "Vaundy feat. Cory Wong", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c0e4a7ab-ef85-4f8f-9ac7-979c68c8e8ab", "https://vgmdb.net/album/133127"]
 
@@ -349,7 +349,7 @@ catalognumber = ""
 date = "2023-10-15"
 album = "Little steps"
 tracks = [
-    [1, "Little steps", "(K)NoW_NAME", 0],
+    [1, "Little steps", "(K)NoW_NAME", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/342f18fe-03a7-41ce-9985-6ce518fb8209"]
 
@@ -358,7 +358,7 @@ catalognumber = ""
 date = "2023-11-26"
 album = "Garden"
 tracks = [
-    [1, "Garden", "(K)NoW_NAME & (K)NoW_NAME:NIKIIE", 0],
+    [1, "Garden", "(K)NoW_NAME & (K)NoW_NAME:NIKIIE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9566f5ed-b438-476f-818c-bac70d0a80e4"]
 
@@ -367,7 +367,7 @@ catalognumber = ""
 date = "2023-12-03"
 album = "Until the End"
 tracks = [
-    [1, "Until the End", "(K)NoW_NAME", 0],
+    [1, "Until the End", "(K)NoW_NAME", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/baf611a7-3b93-48ed-a922-6b80eae4c429"]
 
@@ -376,7 +376,7 @@ catalognumber = "PCSP-05470"
 date = "2023-12-13"
 album = "SOULSOUP / Official髭男dism"
 tracks = [
-    [1, "SOULSOUP", "Official髭男dism", 0],
+    [1, "SOULSOUP", "Official髭男dism", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6642cd70-6657-43e5-a20f-f81c538907b5", "https://vgmdb.net/album/134947"]
 
@@ -385,26 +385,26 @@ catalognumber = "THCA-60287"
 date = "2023-12-20"
 album = "TVアニメ『SPY×FAMILY』Season 2 オリジナル・サウンドトラック Disc 1 [THCA-60287-1]"
 tracks = [
-    [1, "STRIX(Season 2)", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "Glum Face", "(K)NoW_NAME:宮崎誠", 0],
-    [3, "No smoke without fire", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "I don't get it.", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "Fun Tailing", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "Dependable Girl", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "It's all over", "(K)NoW_NAME:睦月周平", 0],
-    [8, "Little steps", "(K)NoW_NAME:NIKIIE", 0],
-    [9, "Stella Lake", "(K)NoW_NAME:睦月周平", 0],
-    [10, "Creeping shadow", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "Thoughtfully", "(K)NoW_NAME:宮崎誠", 0],
-    [12, "Monitored target", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Make all ladies happy", "(K)NoW_NAME:宮崎誠", 0],
-    [14, "The Pastry of Knowledge", "(K)NoW_NAME:宮崎誠", 0],
-    [15, "Let's play cards!", "(K)NoW_NAME:睦月周平", 0],
-    [16, "Angels and Demons", "(K)NoW_NAME:宮崎誠", 0],
-    [17, "Informant's determination", "(K)NoW_NAME:睦月周平", 0],
-    [18, "Wiretap", "(K)NoW_NAME:宮崎誠", 0],
-    [19, "Shopkeeper", "(K)NoW_NAME:宮崎誠", 0],
-    [20, "Big Hit", "(K)NoW_NAME:宮崎誠", 0],
+    [1, "STRIX(Season 2)", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "Glum Face", "(K)NoW_NAME:宮崎誠", 1],
+    [3, "No smoke without fire", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "I don't get it.", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "Fun Tailing", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "Dependable Girl", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "It's all over", "(K)NoW_NAME:睦月周平", 1],
+    [8, "Little steps", "(K)NoW_NAME:NIKIIE", 1],
+    [9, "Stella Lake", "(K)NoW_NAME:睦月周平", 1],
+    [10, "Creeping shadow", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "Thoughtfully", "(K)NoW_NAME:宮崎誠", 1],
+    [12, "Monitored target", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Make all ladies happy", "(K)NoW_NAME:宮崎誠", 1],
+    [14, "The Pastry of Knowledge", "(K)NoW_NAME:宮崎誠", 1],
+    [15, "Let's play cards!", "(K)NoW_NAME:睦月周平", 1],
+    [16, "Angels and Demons", "(K)NoW_NAME:宮崎誠", 1],
+    [17, "Informant's determination", "(K)NoW_NAME:睦月周平", 1],
+    [18, "Wiretap", "(K)NoW_NAME:宮崎誠", 1],
+    [19, "Shopkeeper", "(K)NoW_NAME:宮崎誠", 1],
+    [20, "Big Hit", "(K)NoW_NAME:宮崎誠", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/595f80d3-3f47-4e21-9f86-8183965b8f19", "https://vgmdb.net/album/133502"]
 
@@ -413,24 +413,24 @@ catalognumber = "THCA-60287"
 date = "2023-12-20"
 album = "TVアニメ『SPY×FAMILY』Season 2 オリジナル・サウンドトラック Disc 2 [THCA-60287-2]"
 tracks = [
-    [1, "Princess Lorelei", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "Safe travels!", "(K)NoW_NAME:睦月周平", 0],
-    [3, "City hall director", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "warm hug", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "Crowd of Crows", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "Barnaby", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "Clean the Deck", "(K)NoW_NAME:宮崎誠", 0],
-    [8, "Garden", "(K)NoW_NAME:NIKIIE", 0],
-    [9, "Herb tea", "(K)NoW_NAME:宮崎誠", 0],
-    [10, "live quietly", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "Until the End", "(K)NoW_NAME:立花綾香", 0],
-    [12, "for whom...", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Faithful Dog", "(K)NoW_NAME:睦月周平", 0],
-    [14, "Graceful", "(K)NoW_NAME:睦月周平", 0],
-    [15, "waves are calm", "(K)NoW_NAME:宮崎誠", 0],
-    [16, "Love is blind", "(K)NoW_NAME:睦月周平", 0],
-    [17, "Unfriendly and Rebellious", "(K)NoW_NAME:宮崎誠", 0],
-    [18, "uneven fruit", "(K)NoW_NAME:NIKIIE", 0],
+    [1, "Princess Lorelei", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "Safe travels!", "(K)NoW_NAME:睦月周平", 1],
+    [3, "City hall director", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "warm hug", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "Crowd of Crows", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "Barnaby", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "Clean the Deck", "(K)NoW_NAME:宮崎誠", 1],
+    [8, "Garden", "(K)NoW_NAME:NIKIIE", 1],
+    [9, "Herb tea", "(K)NoW_NAME:宮崎誠", 1],
+    [10, "live quietly", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "Until the End", "(K)NoW_NAME:立花綾香", 1],
+    [12, "for whom...", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Faithful Dog", "(K)NoW_NAME:睦月周平", 1],
+    [14, "Graceful", "(K)NoW_NAME:睦月周平", 1],
+    [15, "waves are calm", "(K)NoW_NAME:宮崎誠", 1],
+    [16, "Love is blind", "(K)NoW_NAME:睦月周平", 1],
+    [17, "Unfriendly and Rebellious", "(K)NoW_NAME:宮崎誠", 1],
+    [18, "uneven fruit", "(K)NoW_NAME:NIKIIE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/595f80d3-3f47-4e21-9f86-8183965b8f19", "https://vgmdb.net/album/133502"]
 
@@ -439,48 +439,48 @@ catalognumber = "THCA-60288"
 date = "2023-12-20"
 album = "『劇場版 SPY×FAMILY CODE: White』オリジナル・サウンドトラック"
 tracks = [
-    [1, "Masquerade", "(K)NoW_NAME:宮崎誠", 0],
-    [2, "pseudo family", "(K)NoW_NAME:宮崎誠", 0],
-    [3, "Surveillant on the roof", "(K)NoW_NAME:宮崎誠", 0],
-    [4, "three signs", "(K)NoW_NAME:宮崎誠", 0],
-    [5, "The beginning of the journey", "(K)NoW_NAME:宮崎誠", 0],
-    [6, "treasure key", "(K)NoW_NAME:宮崎誠", 0],
-    [7, "chocolate thieves", "(K)NoW_NAME:宮崎誠", 0],
-    [8, "crisis in the train", "(K)NoW_NAME:宮崎誠", 0],
-    [9, "Instant kill", "(K)NoW_NAME:宮崎誠", 0],
-    [10, "Frigis", "(K)NoW_NAME:宮崎誠", 0],
-    [11, "rubble and bonds", "(K)NoW_NAME:宮崎誠", 0],
-    [12, "leave request", "(K)NoW_NAME:宮崎誠", 0],
-    [13, "Hound's nose", "(K)NoW_NAME:宮崎誠", 0],
-    [14, "Battle of accuracy", "(K)NoW_NAME:宮崎誠", 0],
-    [15, "Quick shopping", "(K)NoW_NAME:宮崎誠", 0],
-    [16, "city market", "(K)NoW_NAME:宮崎誠", 0],
-    [17, "SHOOTING GALLERY", "(K)NoW_NAME:宮崎誠", 0],
-    [18, "Wine doping", "(K)NoW_NAME:宮崎誠", 0],
-    [19, "The promise of that day", "(K)NoW_NAME:宮崎誠", 0],
-    [20, "Colonel Snidel", "(K)NoW_NAME:宮崎誠", 0],
-    [21, "Find the ingredients!", "(K)NoW_NAME:宮崎誠", 0],
-    [22, "Shall we all go?", "(K)NoW_NAME:宮崎誠", 0],
-    [23, "Microfilm", "(K)NoW_NAME:宮崎誠", 0],
-    [24, "Domitri and Luca", "(K)NoW_NAME:宮崎誠", 0],
-    [25, "flying battleship", "(K)NoW_NAME:宮崎誠", 0],
-    [26, "Blizzard", "(K)NoW_NAME:宮崎誠", 0],
-    [27, "toilet paradise", "(K)NoW_NAME:宮崎誠", 0],
-    [28, "hold and rip", "(K)NoW_NAME:宮崎誠", 0],
-    [29, "Dog fight", "(K)NoW_NAME:宮崎誠", 0],
-    [30, "Snow Smoke", "(K)NoW_NAME:宮崎誠", 0],
-    [31, "Her long-awaited...", "(K)NoW_NAME:宮崎誠", 0],
-    [32, "Type F", "(K)NoW_NAME:宮崎誠", 0],
-    [33, "Enormity", "(K)NoW_NAME:宮崎誠", 0],
-    [34, "disguise doesn't lose", "(K)NoW_NAME:宮崎誠", 0],
-    [35, "The Last Warning", "(K)NoW_NAME:宮崎誠", 0],
-    [36, "Ditching", "(K)NoW_NAME:宮崎誠", 0],
-    [37, "Diamond dust", "(K)NoW_NAME:宮崎誠", 0],
-    [38, "end up", "(K)NoW_NAME:宮崎誠", 0],
-    [39, "the family's way home", "(K)NoW_NAME:宮崎誠", 0],
-    [40, "Cooking Class", "(K)NoW_NAME:宮崎誠", 0],
-    [41, "Where should we go next", "(K)NoW_NAME:宮崎誠", 0],
-    [42, "CODE: White", "(K)NoW_NAME:宮崎誠", 0],
+    [1, "Masquerade", "(K)NoW_NAME:宮崎誠", 1],
+    [2, "pseudo family", "(K)NoW_NAME:宮崎誠", 1],
+    [3, "Surveillant on the roof", "(K)NoW_NAME:宮崎誠", 1],
+    [4, "three signs", "(K)NoW_NAME:宮崎誠", 1],
+    [5, "The beginning of the journey", "(K)NoW_NAME:宮崎誠", 1],
+    [6, "treasure key", "(K)NoW_NAME:宮崎誠", 1],
+    [7, "chocolate thieves", "(K)NoW_NAME:宮崎誠", 1],
+    [8, "crisis in the train", "(K)NoW_NAME:宮崎誠", 1],
+    [9, "Instant kill", "(K)NoW_NAME:宮崎誠", 1],
+    [10, "Frigis", "(K)NoW_NAME:宮崎誠", 1],
+    [11, "rubble and bonds", "(K)NoW_NAME:宮崎誠", 1],
+    [12, "leave request", "(K)NoW_NAME:宮崎誠", 1],
+    [13, "Hound's nose", "(K)NoW_NAME:宮崎誠", 1],
+    [14, "Battle of accuracy", "(K)NoW_NAME:宮崎誠", 1],
+    [15, "Quick shopping", "(K)NoW_NAME:宮崎誠", 1],
+    [16, "city market", "(K)NoW_NAME:宮崎誠", 1],
+    [17, "SHOOTING GALLERY", "(K)NoW_NAME:宮崎誠", 1],
+    [18, "Wine doping", "(K)NoW_NAME:宮崎誠", 1],
+    [19, "The promise of that day", "(K)NoW_NAME:宮崎誠", 1],
+    [20, "Colonel Snidel", "(K)NoW_NAME:宮崎誠", 1],
+    [21, "Find the ingredients!", "(K)NoW_NAME:宮崎誠", 1],
+    [22, "Shall we all go?", "(K)NoW_NAME:宮崎誠", 1],
+    [23, "Microfilm", "(K)NoW_NAME:宮崎誠", 1],
+    [24, "Domitri and Luca", "(K)NoW_NAME:宮崎誠", 1],
+    [25, "flying battleship", "(K)NoW_NAME:宮崎誠", 1],
+    [26, "Blizzard", "(K)NoW_NAME:宮崎誠", 1],
+    [27, "toilet paradise", "(K)NoW_NAME:宮崎誠", 1],
+    [28, "hold and rip", "(K)NoW_NAME:宮崎誠", 1],
+    [29, "Dog fight", "(K)NoW_NAME:宮崎誠", 1],
+    [30, "Snow Smoke", "(K)NoW_NAME:宮崎誠", 1],
+    [31, "Her long-awaited...", "(K)NoW_NAME:宮崎誠", 1],
+    [32, "Type F", "(K)NoW_NAME:宮崎誠", 1],
+    [33, "Enormity", "(K)NoW_NAME:宮崎誠", 1],
+    [34, "disguise doesn't lose", "(K)NoW_NAME:宮崎誠", 1],
+    [35, "The Last Warning", "(K)NoW_NAME:宮崎誠", 1],
+    [36, "Ditching", "(K)NoW_NAME:宮崎誠", 1],
+    [37, "Diamond dust", "(K)NoW_NAME:宮崎誠", 1],
+    [38, "end up", "(K)NoW_NAME:宮崎誠", 1],
+    [39, "the family's way home", "(K)NoW_NAME:宮崎誠", 1],
+    [40, "Cooking Class", "(K)NoW_NAME:宮崎誠", 1],
+    [41, "Where should we go next", "(K)NoW_NAME:宮崎誠", 1],
+    [42, "CODE: White", "(K)NoW_NAME:宮崎誠", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9648a693-cfb5-41ee-83dc-308988ed4512", "https://vgmdb.net/album/133503"]
 
@@ -489,10 +489,10 @@ catalognumber = "VICL-37718"
 date = "2023-12-27"
 album = "光の跡/生命体 / 星野源"
 tracks = [
-    [1, "光の跡", "星野源", 0],
-    [2, "生命体", "星野源", 0],
-    [3, "おともだち", "星野源", 0],
-    [4, "Beyond the Sequence", "星野源", 0],
+    [1, "光の跡", "星野源", 1],
+    [2, "生命体", "星野源", 1],
+    [3, "おともだち", "星野源", 1],
+    [4, "Beyond the Sequence", "星野源", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/507dabae-295a-41cc-a475-e7eff1e0210b", "https://vgmdb.net/album/142853"]
 
@@ -524,7 +524,7 @@ tracks = [
     [2, "行方知れず", "Ado", 0],
     [3, "DIGNITY", "Ado", 0],
     [4, "ショコラカタブラ", "Ado", 0],
-    [5, "クラクラ", "Ado", 0],
+    [5, "クラクラ", "Ado", 1],
     [6, "アタシは問題作", "Ado", 0],
     [7, "リベリオン", "Ado", 0],
     [8, "オールナイトレディオ", "Ado", 0],
@@ -546,7 +546,7 @@ album = "残夢 / Ado Vocal, Live Event, Video"
 tracks = [
     [1, "SE", "Ado", 0],
     [2, "新時代", "Ado", 0],
-    [3, "うっせぇわ", "Ado", 0],
+    [3, "うっせぇわ", "Ado", 1],
     [4, "ラッキー・ブルート", "Ado", 0],
     [5, "レディメイド", "Ado", 0],
     [6, "リベリオン", "Ado", 0],
@@ -557,7 +557,7 @@ tracks = [
     [11, "愛して愛して愛して", "Ado", 0],
     [12, "私は最強", "Ado", 0],
     [13, "阿修羅ちゃん", "Ado", 0],
-    [14, "クラクラ", "Ado", 0],
+    [14, "クラクラ", "Ado", 1],
     [15, "夜のピエロ (TeddyLoid Remix)", "Ado", 0],
     [16, "心という名の不可解", "Ado", 0],
     [17, "真夜中のドア/Stay With Me", "Ado", 0],
@@ -581,7 +581,7 @@ tracks = [
     [2, "行方知れず", "Ado", 0],
     [3, "DIGNITY", "Ado", 0],
     [4, "ショコラカタブラ", "Ado", 0],
-    [5, "クラクラ", "Ado", 0],
+    [5, "クラクラ", "Ado", 1],
     [6, "アタシは問題作", "Ado", 0],
     [7, "リベリオン", "Ado", 0],
     [8, "オールナイトレディオ", "Ado", 0],
@@ -602,7 +602,7 @@ date = "2024-07-10"
 album = "残夢 / Ado Vocal, Live Event, Video"
 tracks = [
     [1, "新時代", "", 0],
-    [2, "うっせぇわ", "", 0],
+    [2, "うっせぇわ", "", 1],
     [3, "ラッキー・ブルート", "", 0],
     [4, "レディメイド", "", 0],
     [5, "リベリオン", "", 0],
@@ -613,7 +613,7 @@ tracks = [
     [10, "愛して愛して愛して", "", 0],
     [11, "私は最強", "", 0],
     [12, "阿修羅ちゃん", "", 0],
-    [13, "クラクラ", "", 0],
+    [13, "クラクラ", "", 1],
     [14, "夜のピエロ (TeddyLoid Remix)", "", 0],
     [15, "心という名の不可解", "", 0],
     [16, "真夜中のドア/Stay With Me", "", 0],
@@ -634,7 +634,7 @@ tracks = [
     [2, "行方知れず", "Ado", 0],
     [3, "DIGNITY", "Ado", 0],
     [4, "ショコラカタブラ", "Ado", 0],
-    [5, "クラクラ", "Ado", 0],
+    [5, "クラクラ", "Ado", 1],
     [6, "アタシは問題作", "Ado", 0],
     [7, "リベリオン", "Ado", 0],
     [8, "オールナイトレディオ", "Ado", 0],
@@ -734,7 +734,7 @@ tracks = [
     [2, "行方知れず", "Ado", 0],
     [3, "DIGNITY", "Ado", 0],
     [4, "ショコラカタブラ", "Ado", 0],
-    [5, "クラクラ", "Ado", 0],
+    [5, "クラクラ", "Ado", 1],
     [6, "アタシは問題作", "Ado", 0],
     [7, "リベリオン", "Ado", 0],
     [8, "オールナイトレディオ", "Ado", 0],
@@ -762,10 +762,10 @@ catalognumber = "TYCT-60245~6"
 date = "2025-04-09"
 album = "Adoのベストアドバム / Ado Disc 1 [TYCT-60245]"
 tracks = [
-    [1, "うっせぇわ", "Ado", 0],
+    [1, "うっせぇわ", "Ado", 1],
     [2, "阿修羅ちゃん", "Ado", 0],
     [3, "夜のピエロ", "Ado", 0],
-    [4, "クラクラ", "Ado", 0],
+    [4, "クラクラ", "Ado", 1],
     [5, "ショコラカタブラ", "Ado", 0],
     [6, "unravel", "Ado", 0],
     [7, "私は最強", "Ado", 0],
@@ -818,10 +818,10 @@ catalognumber = "TYCT-69345~6"
 date = "2025-04-09"
 album = "Adoのベストアドバム / Ado Disc 1 [TYCT-69345]"
 tracks = [
-    [1, "うっせぇわ", "Ado", 0],
+    [1, "うっせぇわ", "Ado", 1],
     [2, "阿修羅ちゃん", "Ado", 0],
     [3, "夜のピエロ", "Ado", 0],
-    [4, "クラクラ", "Ado", 0],
+    [4, "クラクラ", "Ado", 1],
     [5, "ショコラカタブラ", "Ado", 0],
     [6, "unravel", "Ado", 0],
     [7, "私は最強", "Ado", 0],
@@ -878,14 +878,14 @@ tracks = [
     [2, "Mad Hope", "星野源 feat. Louis Cole, Sam Gendel & Sam Wilkes", 0],
     [3, "Star", "星野源", 0],
     [4, "Glitch", "星野源", 0],
-    [5, "喜劇", "星野源", 0],
+    [5, "喜劇", "星野源", 1],
     [6, "2", "星野源 feat. Lee Youngji", 0],
     [7, "Melody", "星野源", 0],
     [8, "不思議", "星野源", 0],
     [9, "Memories", "星野源 feat. UMI & Camilo", 0],
     [10, "暗闇", "星野源", 0],
     [11, "Why", "星野源", 0],
-    [12, "生命体", "星野源", 0],
+    [12, "生命体", "星野源", 1],
     [13, "Eden", "星野源 feat. Cordae & DJ Jazzy Jeff", 0],
     [14, "Sayonara", "星野源", 0],
     [15, "異世界混合大舞踏会", "星野源", 0],
@@ -902,14 +902,14 @@ tracks = [
     [2, "Mad Hope", "星野源 feat. Louis Cole, Sam Gendel & Sam Wilkes", 0],
     [3, "Star", "星野源", 0],
     [4, "Glitch", "星野源", 0],
-    [5, "喜劇", "星野源", 0],
+    [5, "喜劇", "星野源", 1],
     [6, "2", "星野源 feat. Lee Youngji", 0],
     [7, "Melody", "星野源", 0],
     [8, "不思議", "星野源", 0],
     [9, "Memories", "星野源 feat. UMI & Camilo", 0],
     [10, "暗闇", "星野源", 0],
     [11, "Why", "星野源", 0],
-    [12, "生命体", "星野源", 0],
+    [12, "生命体", "星野源", 1],
     [13, "Eden", "星野源 feat. Cordae & DJ Jazzy Jeff", 0],
     [14, "Sayonara", "星野源", 0],
     [15, "異世界混合大舞踏会", "星野源", 0],

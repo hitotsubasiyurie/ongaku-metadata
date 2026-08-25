@@ -3,10 +3,10 @@ catalognumber = "SVWC-7901"
 date = "2012-10-24"
 album = "happy endings / 花澤香菜"
 tracks = [
-    [1, "happy endings", "花澤香菜", 0],
-    [2, "too late for chocolate?", "花澤香菜", 0],
-    [3, "trick or treat!", "花澤香菜", 0],
-    [4, "happy endings (Instrumental)", "花澤香菜", 0],
+    [1, "happy endings", "花澤香菜", 1],
+    [2, "too late for chocolate?", "花澤香菜", 1],
+    [3, "trick or treat!", "花澤香菜", 1],
+    [4, "happy endings (Instrumental)", "花澤香菜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/09d60d3e-a37f-4b87-bb2e-610a81c4657f", "https://vgmdb.net/album/34881"]
 
@@ -15,10 +15,10 @@ catalognumber = "SVWC-7899~900"
 date = "2012-10-24"
 album = "happy endings / 花澤香菜 Vocal"
 tracks = [
-    [1, "happy endings", "花澤香菜", 0],
-    [2, "too late for chocolate?", "花澤香菜", 0],
-    [3, "trick or treat!", "花澤香菜", 0],
-    [4, "happy endings (Instrumental)", "花澤香菜", 0],
+    [1, "happy endings", "花澤香菜", 1],
+    [2, "too late for chocolate?", "花澤香菜", 1],
+    [3, "trick or treat!", "花澤香菜", 1],
+    [4, "happy endings (Instrumental)", "花澤香菜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/03d57274-9e7d-4e3b-9530-8e6fa784b269", "https://vgmdb.net/album/34880"]
 
@@ -27,7 +27,7 @@ catalognumber = "SVWC-7899~900"
 date = "2012-10-24"
 album = "happy endings / 花澤香菜 Video"
 tracks = [
-    [1, "happy endings (Movie clip)", "花澤香菜", 0],
+    [1, "happy endings (Movie clip)", "花澤香菜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a0bb7d4-daa2-403b-a37a-acb486512b40", "https://vgmdb.net/album/34880"]
 
@@ -36,8 +36,8 @@ catalognumber = "ESCL-3986"
 date = "2012-11-28"
 album = "Spirit Inspiration / Nothing's Carved In Stone [期間生産限定盤]"
 tracks = [
-    [1, "Spirit Inspiration", "Nothing’s Carved In Stone", 0],
-    [2, "Spirit Inspiration -アニメバージョン-", "Nothing’s Carved In Stone", 0],
+    [1, "Spirit Inspiration", "Nothing’s Carved In Stone", 1],
+    [2, "Spirit Inspiration -アニメバージョン-", "Nothing’s Carved In Stone", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1b604d86-bbd7-4022-aafe-e9c7835df426", "https://vgmdb.net/album/36286"]
 
@@ -46,7 +46,7 @@ catalognumber = "ESCL-3985"
 date = "2012-11-28"
 album = "Spirit Inspiration / Nothing's Carved In Stone"
 tracks = [
-    [1, "Spirit Inspiration", "Nothing’s Carved In Stone", 0],
+    [1, "Spirit Inspiration", "Nothing’s Carved In Stone", 1],
     [2, "Lighthouse", "Nothing’s Carved In Stone", 0],
     [3, "BLUE SHADOW", "Nothing’s Carved In Stone", 0],
 ]
@@ -57,8 +57,8 @@ catalognumber = "ANZX-6952"
 date = "2012-12-26"
 album = "絶園のテンペスト キャラクターソングCD 吉野＆真広"
 tracks = [
-    [1, "嵐のラプソディ", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
-    [2, "嵐のラプソディ (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [1, "嵐のラプソディ", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
+    [2, "嵐のラプソディ (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f4ec07ca-8fba-4a4e-bf01-ef07b45179ee", "https://vgmdb.net/album/35726"]
 
@@ -67,9 +67,9 @@ catalognumber = "SECL-1271"
 date = "2013-01-30"
 album = "僕たちの歌 / 佐香智久"
 tracks = [
-    [1, "僕たちの歌", "佐香智久", 0],
-    [2, "僕たちの歌 ～アニメサイズver.～", "佐香智久", 0],
-    [3, "僕たちの歌 ～Off Vocal～", "佐香智久", 0],
+    [1, "僕たちの歌", "佐香智久", 1],
+    [2, "僕たちの歌 ～アニメサイズver.～", "佐香智久", 1],
+    [3, "僕たちの歌 ～Off Vocal～", "佐香智久", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6d0259cc-2b10-4e06-9f29-ac2e0c6168a3", "https://vgmdb.net/album/36688"]
 
@@ -78,9 +78,9 @@ catalognumber = "SECL-1272"
 date = "2013-01-30"
 album = "僕たちの歌 / 佐香智久"
 tracks = [
-    [1, "僕たちの歌", "佐香智久", 0],
-    [2, "僕たちの歌 ～アニメサイズver.～", "佐香智久", 0],
-    [3, "僕たちの歌 ～Off Vocal～", "佐香智久", 0],
+    [1, "僕たちの歌", "佐香智久", 1],
+    [2, "僕たちの歌 ～アニメサイズver.～", "佐香智久", 1],
+    [3, "僕たちの歌 ～Off Vocal～", "佐香智久", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b07732a5-f7e6-4041-b493-076b014a33ff", "https://vgmdb.net/album/36689"]
 
@@ -89,10 +89,10 @@ catalognumber = "SECL-1268~9"
 date = "2013-01-30"
 album = "僕たちの歌 / 佐香智久 Disc 1 (CD) [SECL-1268]"
 tracks = [
-    [1, "僕たちの歌", "佐香智久", 0],
+    [1, "僕たちの歌", "佐香智久", 1],
     [2, "月の裏側", "佐香智久", 0],
     [3, "初恋", "佐香智久", 0],
-    [4, "僕たちの歌 ～Off Vocal～", "佐香智久", 0],
+    [4, "僕たちの歌 ～Off Vocal～", "佐香智久", 1],
     [5, "月の裏側 ～Off Vocal～", "佐香智久", 0],
     [6, "初恋 ～Off Vocal～", "佐香智久", 0],
 ]
@@ -103,7 +103,7 @@ catalognumber = "SECL-1268~9"
 date = "2013-01-30"
 album = "僕たちの歌 / 佐香智久 Disc 2 (DVD) [SECL-1269]"
 tracks = [
-    [1, "僕たちの歌 (Video Clip 智久 Only Ver.)", "", 0],
+    [1, "僕たちの歌 (Video Clip 智久 Only Ver.)", "", 1],
 ]
 links = ["https://vgmdb.net/album/36686"]
 
@@ -112,10 +112,10 @@ catalognumber = "SECL-1270"
 date = "2013-01-30"
 album = "僕たちの歌 / 佐香智久"
 tracks = [
-    [1, "僕たちの歌", "佐香智久", 0],
+    [1, "僕たちの歌", "佐香智久", 1],
     [2, "月の裏側", "佐香智久", 0],
     [3, "初恋", "佐香智久", 0],
-    [4, "僕たちの歌 ～Off Vocal～", "佐香智久", 0],
+    [4, "僕たちの歌 ～Off Vocal～", "佐香智久", 1],
     [5, "月の裏側 ～Off Vocal～", "佐香智久", 0],
     [6, "初恋 ～Off Vocal～", "佐香智久", 0],
 ]
@@ -126,9 +126,9 @@ catalognumber = "DFCL-1979"
 date = "2013-02-13"
 album = "大好きなのに / Kylee"
 tracks = [
-    [1, "大好きなのに", "Kylee", 0],
-    [2, "Anywhere", "Kylee", 0],
-    [3, "大好きなのに [Less Vocal]", "Kylee", 0],
+    [1, "大好きなのに", "Kylee", 1],
+    [2, "Anywhere", "Kylee", 1],
+    [3, "大好きなのに [Less Vocal]", "Kylee", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/21f3c9de-bebc-412a-81f4-441f201e9610", "https://vgmdb.net/album/36778"]
 
@@ -137,10 +137,10 @@ catalognumber = "DFCL-1980"
 date = "2013-02-13"
 album = "大好きなのに / Kylee"
 tracks = [
-    [1, "大好きなのに", "Kylee", 0],
-    [2, "Anywhere", "Kylee", 0],
-    [3, "大好きなのに [TV Size]", "Kylee", 0],
-    [4, "大好きなのに [Less Vocal]", "Kylee", 0],
+    [1, "大好きなのに", "Kylee", 1],
+    [2, "Anywhere", "Kylee", 1],
+    [3, "大好きなのに [TV Size]", "Kylee", 1],
+    [4, "大好きなのに [Less Vocal]", "Kylee", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d1e1976a-0984-4da8-af61-a9fa2e851c97", "https://vgmdb.net/album/36779"]
 
@@ -162,7 +162,7 @@ tracks = [
     [11, "新しい世界の歌", "花澤香菜", 0],
     [12, "眠るサカナ", "花澤香菜", 0],
     [13, "おやすみ、また明日", "花澤香菜", 0],
-    [14, "happy endings", "花澤香菜", 0],
+    [14, "happy endings", "花澤香菜", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a1eaac7d-76d0-4016-a402-d47361391ba8", "https://vgmdb.net/album/55285"]
 
@@ -171,21 +171,21 @@ catalognumber = "ANZX-6954"
 date = "2013-02-27"
 album = "絶園のテンペスト Original Soundtrack vol.1"
 tracks = [
-    [1, "絶園", "大島ミチル", 0],
-    [2, "追憶", "大島ミチル", 0],
-    [3, "焦燥", "大島ミチル", 0],
-    [4, "邂逅", "大島ミチル", 0],
-    [5, "悪寒", "大島ミチル", 0],
-    [6, "出現", "大島ミチル", 0],
-    [7, "崩壊", "大島ミチル", 0],
-    [8, "取引", "大島ミチル", 0],
-    [9, "忽然", "大島ミチル", 0],
-    [10, "懐旧", "大島ミチル", 0],
-    [11, "左門", "大島ミチル", 0],
-    [12, "夏村", "大島ミチル", 0],
-    [13, "衝突", "大島ミチル", 0],
-    [14, "急変", "大島ミチル", 0],
-    [15, "疑念", "大島ミチル", 0],
+    [1, "絶園", "大島ミチル", 1],
+    [2, "追憶", "大島ミチル", 1],
+    [3, "焦燥", "大島ミチル", 1],
+    [4, "邂逅", "大島ミチル", 1],
+    [5, "悪寒", "大島ミチル", 1],
+    [6, "出現", "大島ミチル", 1],
+    [7, "崩壊", "大島ミチル", 1],
+    [8, "取引", "大島ミチル", 1],
+    [9, "忽然", "大島ミチル", 1],
+    [10, "懐旧", "大島ミチル", 1],
+    [11, "左門", "大島ミチル", 1],
+    [12, "夏村", "大島ミチル", 1],
+    [13, "衝突", "大島ミチル", 1],
+    [14, "急変", "大島ミチル", 1],
+    [15, "疑念", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fbd47e26-872c-4354-9d1b-ad8f730e6e86", "https://vgmdb.net/album/36936"]
 
@@ -194,15 +194,15 @@ catalognumber = "ANZX-6956"
 date = "2013-03-27"
 album = "絶園のテンペスト 朗読CD「ハムレット」"
 tracks = [
-    [1, "冒頭", "", 0],
-    [2, "再会", "", 0],
-    [3, "恋人", "", 0],
-    [4, "苦悩", "", 0],
-    [5, "確証", "", 0],
-    [6, "王妃", "", 0],
-    [7, "追放", "", 0],
-    [8, "葬儀", "", 0],
-    [9, "決闘", "", 0],
+    [1, "冒頭", "", 1],
+    [2, "再会", "", 1],
+    [3, "恋人", "", 1],
+    [4, "苦悩", "", 1],
+    [5, "確証", "", 1],
+    [6, "王妃", "", 1],
+    [7, "追放", "", 1],
+    [8, "葬儀", "", 1],
+    [9, "決闘", "", 1],
 ]
 links = ["https://vgmdb.net/album/38055"]
 
@@ -211,8 +211,8 @@ catalognumber = "ANZX-6958"
 date = "2013-04-24"
 album = "絶園のテンペスト キャラクターソングCD 吉野＆真広"
 tracks = [
-    [1, "星の船", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
-    [2, "星の船 (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [1, "星の船", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
+    [2, "星の船 (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/58c59ac9-43ae-4e43-be31-81009fddf42d", "https://vgmdb.net/album/38642"]
 
@@ -221,16 +221,16 @@ catalognumber = "ANZX-6960"
 date = "2013-05-22"
 album = "絶園のテンペスト Original Soundtrack vol.2"
 tracks = [
-    [1, "敗北", "大島ミチル", 0],
-    [2, "奇異", "大島ミチル", 0],
-    [3, "安堵", "大島ミチル", 0],
-    [4, "心覚", "大島ミチル", 0],
-    [5, "希望", "大島ミチル", 0],
-    [6, "過去", "大島ミチル", 0],
-    [7, "復活", "大島ミチル", 0],
-    [8, "終末", "大島ミチル", 0],
-    [9, "鎖部", "大島ミチル", 0],
-    [10, "TEMPEST", "大島ミチル", 0],
+    [1, "敗北", "大島ミチル", 1],
+    [2, "奇異", "大島ミチル", 1],
+    [3, "安堵", "大島ミチル", 1],
+    [4, "心覚", "大島ミチル", 1],
+    [5, "希望", "大島ミチル", 1],
+    [6, "過去", "大島ミチル", 1],
+    [7, "復活", "大島ミチル", 1],
+    [8, "終末", "大島ミチル", 1],
+    [9, "鎖部", "大島ミチル", 1],
+    [10, "TEMPEST", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d0308271-1266-43e3-902e-ae14fcffa58e", "https://vgmdb.net/album/38643"]
 
@@ -239,8 +239,8 @@ catalognumber = "ANZX-6966"
 date = "2013-08-21"
 album = "絶園のテンペスト CHARACTER SONG VOL.3"
 tracks = [
-    [1, "ポジティカ", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
-    [2, "ポジティカ (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [1, "ポジティカ", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
+    [2, "ポジティカ (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f41db52-f6d9-4bfd-b3b6-6b2a6bf2d2d8"]
 
@@ -249,17 +249,17 @@ catalognumber = "ANZX-6968"
 date = "2013-09-25"
 album = "絶園のテンペスト Original Soundtrack vol.3"
 tracks = [
-    [1, "変化", "大島ミチル", 0],
-    [2, "羽村", "大島ミチル", 0],
-    [3, "悪戯", "大島ミチル", 0],
-    [4, "奇妙", "大島ミチル", 0],
-    [5, "空転", "大島ミチル", 0],
-    [6, "喜楽", "大島ミチル", 0],
-    [7, "錯綜", "大島ミチル", 0],
-    [8, "葉風", "大島ミチル", 0],
-    [9, "推理", "大島ミチル", 0],
-    [10, "邂逅変奏曲 (舞姫ver)", "大島ミチル", 0],
-    [11, "愛花", "大島ミチル", 0],
+    [1, "変化", "大島ミチル", 1],
+    [2, "羽村", "大島ミチル", 1],
+    [3, "悪戯", "大島ミチル", 1],
+    [4, "奇妙", "大島ミチル", 1],
+    [5, "空転", "大島ミチル", 1],
+    [6, "喜楽", "大島ミチル", 1],
+    [7, "錯綜", "大島ミチル", 1],
+    [8, "葉風", "大島ミチル", 1],
+    [9, "推理", "大島ミチル", 1],
+    [10, "邂逅変奏曲 (舞姫ver)", "大島ミチル", 1],
+    [11, "愛花", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ec327ad1-7eff-437a-9c0d-216b73e4ac84", "https://vgmdb.net/album/41246"]
 
@@ -268,8 +268,8 @@ catalognumber = "ANZX-6974"
 date = "2013-12-25"
 album = "絶園のテンペスト CHARACTER SONG VOL.4"
 tracks = [
-    [1, "未来の蕾", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
-    [2, "未来の蕾 (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 0],
+    [1, "未来の蕾", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
+    [2, "未来の蕾 (Off Vocal Version)", "滝川吉野(内山昂輝)・不破真広(豊永利行)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1ff00728-791b-45ba-826c-d2fe4a397273"]
 
@@ -282,7 +282,7 @@ tracks = [
     [2, "ずっと", "", 0],
     [3, "はんぶんこ", "", 0],
     [4, "君恋カレンダー", "", 0],
-    [5, "僕たちの歌", "", 0],
+    [5, "僕たちの歌", "", 1],
     [6, "バイバイ", "", 0],
     [7, "カラフルワールド", "", 0],
     [8, "魔法の夜と不思議なワルツ", "", 0],
@@ -303,7 +303,7 @@ tracks = [
     [2, "ずっと", "", 0],
     [3, "はんぶんこ", "", 0],
     [4, "君恋カレンダー", "", 0],
-    [5, "僕たちの歌", "", 0],
+    [5, "僕たちの歌", "", 1],
     [6, "バイバイ", "", 0],
     [7, "カラフルワールド", "", 0],
     [8, "魔法の夜と不思議なワルツ", "", 0],
@@ -324,7 +324,7 @@ tracks = [
     [2, "ずっと", "", 0],
     [3, "はんぶんこ", "", 0],
     [4, "君恋カレンダー", "", 0],
-    [5, "僕たちの歌", "", 0],
+    [5, "僕たちの歌", "", 1],
     [6, "バイバイ", "", 0],
     [7, "カラフルワールド", "", 0],
     [8, "魔法の夜と不思議なワルツ", "", 0],
@@ -335,223 +335,3 @@ tracks = [
     [13, "不完全モノクローグ", "", 0],
 ]
 links = ["https://vgmdb.net/album/85917"]
-
-[b4473d6bd77f36fe24099d23abc28bb5]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 1"
-tracks = [
-    [1, "ふたりのもじぴったん(fine c'est la mix)", "神前暁", 0],
-    [2, "God knows...", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [3, "Lost my music", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [4, "GO MY WAY!!(M@STER VERSION)", "天海春香(CV:中村繪里子), 高槻やよい(CV:仁後真耶子), 水瀬伊織(CV:釘宮理恵)", 0],
-    [5, "もってけ！セーラーふく", "泉こなた（平野 綾）、柊かがみ（加藤英美里）、柊つかさ（福原香織）、高良みゆき（遠藤 綾）", 0],
-    [6, "幸せ願う彼方から", "泉かなた（島本須美）", 0],
-    [7, "セキレイ", "結(早見沙織)×月海(井上麻里奈)×草野(花澤香菜)×松(遠藤綾)", 0],
-    [8, "motto☆派手にね!", "戸松遥", 0],
-    [9, "Super Driver", "平野綾", 0],
-    [10, "staple stable", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [11, "帰り道", "八九寺真宵(加藤英美里)", 0],
-    [12, "ambivalent world", "神原駿河(沢城みゆき)", 0],
-    [13, "恋愛サーキュレーション", "千石撫子(花澤香菜)", 0],
-    [14, "sugar sweet nightmare", "羽川翼(堀江由衣)", 0],
-    [15, "りある＿りあるが＿あんりある", "蝶伝寺さすけ(CV:小野大輔), 蝶伝寺ねね(CV:後藤沙緒里)", 0],
-    [16, "雨上がりのミライ", "ミルキィホームズ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
-
-[5ca399acb6582806f1459c2db3a1b6c8]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 2"
-tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
-    [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
-    [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],
-    [6, "Morning Arch", "河野マリナ", 0],
-    [7, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [8, "READY!!（M@STER VERSION）", "765PRO ALLSTARS", 0],
-    [9, "二言目", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [10, "marshmallow justice", "阿良々木火憐(喜多村英梨)", 0],
-    [11, "白金ディスコ", "阿良々木月火(井口裕香)", 0],
-    [12, "たからもの", "河野マリナ", 0],
-    [13, "お後がよろしくって…よ!", "極♨落女会", 0],
-    [14, "アラタなるセカイ", "河野マリナ", 0],
-    [15, "happy endings", "花澤香菜", 0],
-    [16, "perfect slumbers", "羽川翼(堀江由衣)", 0],
-    [17, "chocolate insomnia", "羽川翼(堀江由衣)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93335"]
-
-[2d4d1d04a45ecffc81c6231c67c4db25]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 3"
-tracks = [
-    [1, "happy bite", "八九寺真宵(加藤英美里)", 0],
-    [2, "光のオクターブ", "アゲマキ・ワコ (早見沙織)", 0],
-    [3, "七つの海よりキミの海", "上坂すみれ", 0],
-    [4, "もうそう♡えくすぷれす", "千石撫子(花澤香菜)", 0],
-    [5, "木枯らしセンティメント", "戦場ヶ原ひたぎ(斎藤千和) & 貝木泥舟(三木眞一郎)", 0],
-    [6, "タチアガレ!", "Wake Up, Girls!", 0],
-    [7, "M@STERPIECE", "765PRO ALLSTARS", 0],
-    [8, "夢幻の華", "夢塔ハナ（CV:茅野愛衣）", 0],
-    [9, "最後のラブレター", "ナギ（CV:戸松遥）", 0],
-    [10, "étoile et toi [édition le blanc]", "Clémentine & Ainhoa", 0],
-    [11, "terminal terminal", "八九寺真宵(加藤英美里)", 0],
-    [12, "dreamy date drive", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [13, "Stand by...MUSIC!!!", "仲村宗悟, 山谷祥生, 狩野翔, 山崎はるか, 田所あずさ, Machico, 亜咲花, 伊藤美来, 内田彩, 内田真礼, オーイシマサヨシ, GRANRODEO（KISHOW）, 鈴木このみ, 鈴木みのり, 竹達彩奈, TRUE, fhána & 悠木碧", 0],
-    [14, "Bright Burning Shout", "西川貴教", 0],
-    [15, "awakening", "西川貴教", 0],
-    [16, "さようならのパレード", "Wake Up, Girls!", 0],
-]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93335"]
-
-[d0e76be2925ba43bfb3703ded6df4628]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 4"
-tracks = [
-    [1, "いつもの風景", "神前暁", 0],
-    [2, "好調好調", "神前暁", 0],
-    [3, "おいおい", "神前暁", 0],
-    [4, "悲劇のヒロイン", "神前暁", 0],
-    [5, "ある雨の日", "神前暁", 0],
-    [6, "フンフンフン♪だよ、らき☆すた", "神前暁", 0],
-    [7, "ランランラン♪だよ、らき☆すた", "神前暁", 0],
-    [8, "らっきー☆ちゃんねるのテーマ", "神前暁", 0],
-    [9, "次回予告だよ、らき☆すた", "神前暁", 0],
-    [10, "かなたのテーマ", "神前暁", 0],
-    [11, "かみのき", "神前暁", 0],
-    [12, "はじまり", "神前暁", 0],
-    [13, "こもれび", "神前暁", 0],
-    [14, "おほほほ", "神前暁", 0],
-    [15, "こうりん", "神前暁", 0],
-    [16, "序章", "神前暁 & MONACA", 0],
-    [17, "街談巷説", "神前暁", 0],
-    [18, "神域", "神前暁", 0],
-    [19, "以下、回想", "神前暁", 0],
-    [20, "戯言", "神前暁", 0],
-    [21, "白線マーチ", "神前暁", 0],
-    [22, "活動開始", "神前暁", 0],
-    [23, "着ぐるみカエル隊", "神前暁", 0],
-    [24, "おふざけマーチ", "神前暁", 0],
-    [25, "いつもの風景から始まる物語", "神前暁、高田龍一", 0],
-    [26, "SOS団再び", "多田彰文", 0],
-    [27, "あの日の記憶を追いかけて", "松尾早人", 0],
-    [28, "はじまり", "神前暁", 0],
-    [29, "俺の妹が(ry", "神前暁", 0],
-    [30, "兄貴の日常", "神前暁", 0],
-    [31, "＼(^o^)／", "神前暁", 0],
-    [32, "アキハバラマーチ", "神前暁", 0],
-    [33, "くぁwせdrftgyふじこlp", "神前暁", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
-
-[7cb170d9b13bab88ef6032ee3a2951ea]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 5"
-tracks = [
-    [1, "絢爛", "神前暁", 0],
-    [2, "楽園", "神前暁 & MONACA", 0],
-    [3, "運命", "神前暁", 0],
-    [4, "銀河美少年", "神前暁", 0],
-    [5, "偽物", "神前暁", 0],
-    [6, "怪異の王", "神前暁", 0],
-    [7, "絆", "神前暁", 0],
-    [8, "恋", "神前暁", 0],
-    [9, "私の物語", "神前暁", 0],
-    [10, "真実からは程遠い存在", "神前暁", 0],
-    [11, "まがいものそのものの女", "神前暁", 0],
-    [12, "気まぐれ", "神前暁", 0],
-    [13, "昔語り", "神前暁", 0],
-    [14, "クチナワ", "神前暁", 0],
-    [15, "竜頭蛇尾", "神前暁", 0],
-    [16, "地獄の沙汰も金次第", "神前暁", 0],
-    [17, "血", "神前暁・高田龍一・帆足圭吾・難波研", 0],
-    [18, "鉄血篇 エンドロール", "神前暁・高田龍一・帆足圭吾・難波研", 0],
-    [19, "おっぱい", "神前暁", 0],
-    [20, "もしも", "神前暁", 0],
-    [21, "中学生の通学路", "神前暁", 0],
-    [22, "逃げ出せない", "神前暁", 0],
-    [23, "背伸び", "神前暁", 0],
-    [24, "天輪聖王", "神前暁 (MONACA)", 0],
-    [25, "おわらない僕らのMusic", "戸松遥 / 花澤香菜", 0],
-]
-links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
-
-[13ea151f6c4764e65e583f6a4152e92c]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 1 [SVWC-70507]"
-tracks = [
-    [1, "ふたりのもじぴったん(fine c'est la mix)", "神前暁", 0],
-    [2, "God knows...", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [3, "Lost my music", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [4, "GO MY WAY!!(M@STER VERSION)", "天海春香(CV:中村繪里子), 高槻やよい(CV:仁後真耶子), 水瀬伊織(CV:釘宮理恵)", 0],
-    [5, "もってけ！セーラーふく", "泉こなた（平野 綾）、柊かがみ（加藤英美里）、柊つかさ（福原香織）、高良みゆき（遠藤 綾）", 0],
-    [6, "幸せ願う彼方から", "泉かなた（島本須美）", 0],
-    [7, "セキレイ", "結(早見沙織)×月海(井上麻里奈)×草野(花澤香菜)×松(遠藤綾)", 0],
-    [8, "motto☆派手にね!", "戸松遥", 0],
-    [9, "Super Driver", "平野綾", 0],
-    [10, "staple stable", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [11, "帰り道", "八九寺真宵(加藤英美里)", 0],
-    [12, "ambivalent world", "神原駿河(沢城みゆき)", 0],
-    [13, "恋愛サーキュレーション", "千石撫子(花澤香菜)", 0],
-    [14, "sugar sweet nightmare", "羽川翼(堀江由衣)", 0],
-    [15, "りある＿りあるが＿あんりある", "蝶伝寺さすけ(CV:小野大輔), 蝶伝寺ねね(CV:後藤沙緒里)", 0],
-    [16, "雨上がりのミライ", "ミルキィホームズ", 0],
-]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
-
-[4083d1d504272a0c392816886cc966a4]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 2 [SVWC-70508]"
-tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
-    [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
-    [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],
-    [6, "Morning Arch", "河野マリナ", 0],
-    [7, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [8, "READY!!（M@STER VERSION）", "765PRO ALLSTARS", 0],
-    [9, "二言目", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [10, "marshmallow justice", "阿良々木火憐(喜多村英梨)", 0],
-    [11, "白金ディスコ", "阿良々木月火(井口裕香)", 0],
-    [12, "たからもの", "河野マリナ", 0],
-    [13, "お後がよろしくって…よ!", "極♨落女会", 0],
-    [14, "アラタなるセカイ", "河野マリナ", 0],
-    [15, "happy endings", "花澤香菜", 0],
-    [16, "perfect slumbers", "羽川翼(堀江由衣)", 0],
-    [17, "chocolate insomnia", "羽川翼(堀江由衣)", 0],
-]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
-
-[08b6a901250b0780dd48dc102070f531]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 3 [SVWC-70509]"
-tracks = [
-    [1, "happy bite", "八九寺真宵(加藤英美里)", 0],
-    [2, "光のオクターブ", "アゲマキ・ワコ (早見沙織)", 0],
-    [3, "七つの海よりキミの海", "上坂すみれ", 0],
-    [4, "もうそう♡えくすぷれす", "千石撫子(花澤香菜)", 0],
-    [5, "木枯らしセンティメント", "戦場ヶ原ひたぎ(斎藤千和) & 貝木泥舟(三木眞一郎)", 0],
-    [6, "タチアガレ!", "Wake Up, Girls!", 0],
-    [7, "M@STERPIECE", "765PRO ALLSTARS", 0],
-    [8, "夢幻の華", "夢塔ハナ（CV:茅野愛衣）", 0],
-    [9, "最後のラブレター", "ナギ（CV:戸松遥）", 0],
-    [10, "étoile et toi [édition le blanc]", "Clémentine & Ainhoa", 0],
-    [11, "terminal terminal", "八九寺真宵(加藤英美里)", 0],
-    [12, "dreamy date drive", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [13, "Stand by...MUSIC!!!", "仲村宗悟, 山谷祥生, 狩野翔, 山崎はるか, 田所あずさ, Machico, 亜咲花, 伊藤美来, 内田彩, 内田真礼, オーイシマサヨシ, GRANRODEO（KISHOW）, 鈴木このみ, 鈴木みのり, 竹達彩奈, TRUE, fhána & 悠木碧", 0],
-    [14, "Bright Burning Shout", "西川貴教", 0],
-    [15, "awakening", "西川貴教", 0],
-    [16, "さようならのパレード", "Wake Up, Girls!", 0],
-]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]

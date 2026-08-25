@@ -3,10 +3,10 @@ catalognumber = "AICL-4066~7"
 date = "2021-06-02"
 album = "3分29秒 / ヒトリエ [期間生産限定盤] Vocal"
 tracks = [
-    [1, "3分29秒", "ヒトリエ", 0],
-    [2, "Milk Tablet", "ヒトリエ", 0],
-    [3, "3分29秒 -instrumental-", "ヒトリエ", 0],
-    [4, "Milk Tablet -instrumental-", "ヒトリエ", 0],
+    [1, "3分29秒", "ヒトリエ", 1],
+    [2, "Milk Tablet", "ヒトリエ", 1],
+    [3, "3分29秒 -instrumental-", "ヒトリエ", 1],
+    [4, "Milk Tablet -instrumental-", "ヒトリエ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e9a8f988-f27b-4ff7-9f01-f0b6c1bcd239", "https://vgmdb.net/album/110155"]
 
@@ -24,10 +24,10 @@ catalognumber = "AICL-4064~5"
 date = "2021-06-02"
 album = "3分29秒 / ヒトリエ [完全生産限定盤] Vocal"
 tracks = [
-    [1, "3分29秒", "ヒトリエ", 0],
-    [2, "Milk Tablet", "ヒトリエ", 0],
-    [3, "3分29秒 -instrumental-", "ヒトリエ", 0],
-    [4, "Milk Tablet -instrumental-", "ヒトリエ", 0],
+    [1, "3分29秒", "ヒトリエ", 1],
+    [2, "Milk Tablet", "ヒトリエ", 1],
+    [3, "3分29秒 -instrumental-", "ヒトリエ", 1],
+    [4, "Milk Tablet -instrumental-", "ヒトリエ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/abd9c612-60c5-41bd-8021-e5200b9a1e53", "https://vgmdb.net/album/110154"]
 
@@ -62,13 +62,13 @@ catalognumber = "VVCL-1867~8"
 date = "2021-06-09"
 album = "Avid/Hands Up to the Sky / SawanoHiroyuki[nZk] [初回生産限定盤] Arrangement, Vocal"
 tracks = [
-    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
-    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 0],
-    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 0],
-    [6, "Avid (instrumental)", "SawanoHiroyuki[nZk]", 0],
-    [7, "Hands Up to the Sky (instrumental)", "SawanoHiroyuki[nZk]", 0],
+    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 1],
+    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 1],
+    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 1],
+    [6, "Avid (instrumental)", "SawanoHiroyuki[nZk]", 1],
+    [7, "Hands Up to the Sky (instrumental)", "SawanoHiroyuki[nZk]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4bc13b9f-7234-4ce8-8097-edb60b090660", "https://vgmdb.net/album/110141"]
 
@@ -103,11 +103,11 @@ catalognumber = "VVCL-1869"
 date = "2021-06-09"
 album = "Avid/Hands Up to the Sky / SawanoHiroyuki[nZk]"
 tracks = [
-    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
-    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 0],
-    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 0],
+    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 1],
+    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 1],
+    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2ad9a2db-bb82-44ce-9af5-85e4d700371e", "https://vgmdb.net/album/110140"]
 
@@ -116,13 +116,13 @@ catalognumber = "VVCL-1870~1"
 date = "2021-06-09"
 album = "Avid/Hands Up to the Sky / SawanoHiroyuki[nZk] [期間生産限定盤] Vocal"
 tracks = [
-    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
-    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 0],
-    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 0],
-    [6, "Avid (TV size)", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [7, "Hands Up to the Sky (TV size)", "SawanoHiroyuki[nZk]:Laco", 0],
+    [1, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [2, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 1],
+    [3, "A/Z <MODv>", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [4, "Tranquility <MODv>", "SawanoHiroyuki[nZk]:Anly", 1],
+    [5, "Into the Sky <MODv>", "SawanoHiroyuki[nZk]:Tielle", 1],
+    [6, "Avid (TV size)", "SawanoHiroyuki[nZk]:mizuki", 1],
+    [7, "Hands Up to the Sky (TV size)", "SawanoHiroyuki[nZk]:Laco", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/67713729-d47c-4efb-9f6a-cfc43860aa34", "https://vgmdb.net/album/110142"]
 
@@ -131,7 +131,7 @@ catalognumber = "VVCL-1870~1"
 date = "2021-06-09"
 album = "Avid/Hands Up to the Sky / SawanoHiroyuki[nZk] [期間生産限定盤] Vocal, Video"
 tracks = [
-    [1, "Hands Up to the Sky (Music Video 86-エイティシックス-ver.)", "SawanoHiroyuki[nZk]:Laco", 0],
+    [1, "Hands Up to the Sky (Music Video 86-エイティシックス-ver.)", "SawanoHiroyuki[nZk]:Laco", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/67713729-d47c-4efb-9f6a-cfc43860aa34", "https://vgmdb.net/album/110142"]
 
@@ -140,23 +140,23 @@ catalognumber = "SVWC-70532~3"
 date = "2021-07-07"
 album = "86-エイティシックス- ORIGINAL SOUNDTRACK Disc 1 [SVWC-70532]"
 tracks = [
-    [1, "THE ANSWER", "澤野弘之", 0],
-    [2, "8SIX", "澤野弘之", 0],
-    [3, "RE:g1-ON", "澤野弘之", 0],
-    [4, "JaguarN0-10", "澤野弘之", 0],
-    [5, "Voices of the Chord", "澤野弘之", 0],
-    [6, "sp∃ar", "澤野弘之", 0],
-    [7, "4N", "澤野弘之", 0],
-    [8, "6eighty", "澤野弘之", 0],
-    [9, "2side", "澤野弘之", 0],
-    [10, "9re7", "澤野弘之", 0],
-    [11, "ZERO×5", "澤野弘之", 0],
-    [12, "!\"#$%&'()0", "澤野弘之", 0],
-    [13, "pianoVIIIVI-i", "澤野弘之", 0],
-    [14, "pianoVIIIVI-ii", "澤野弘之", 0],
-    [15, "pianoVIIIVI-iii", "澤野弘之", 0],
-    [16, "pianoVIIIVI-iv", "澤野弘之", 0],
-    [17, "CELLOpianoVIIIVI", "澤野弘之", 0],
+    [1, "THE ANSWER", "澤野弘之", 1],
+    [2, "8SIX", "澤野弘之", 1],
+    [3, "RE:g1-ON", "澤野弘之", 1],
+    [4, "JaguarN0-10", "澤野弘之", 1],
+    [5, "Voices of the Chord", "澤野弘之", 1],
+    [6, "sp∃ar", "澤野弘之", 1],
+    [7, "4N", "澤野弘之", 1],
+    [8, "6eighty", "澤野弘之", 1],
+    [9, "2side", "澤野弘之", 1],
+    [10, "9re7", "澤野弘之", 1],
+    [11, "ZERO×5", "澤野弘之", 1],
+    [12, "!\"#$%&'()0", "澤野弘之", 1],
+    [13, "pianoVIIIVI-i", "澤野弘之", 1],
+    [14, "pianoVIIIVI-ii", "澤野弘之", 1],
+    [15, "pianoVIIIVI-iii", "澤野弘之", 1],
+    [16, "pianoVIIIVI-iv", "澤野弘之", 1],
+    [17, "CELLOpianoVIIIVI", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c4c05d4f-dabb-40b4-84ee-30fc088f2582", "https://vgmdb.net/album/110712"]
 
@@ -165,31 +165,31 @@ catalognumber = "SVWC-70532~3"
 date = "2021-07-07"
 album = "86-エイティシックス- ORIGINAL SOUNDTRACK Disc 2 [SVWC-70533]"
 tracks = [
-    [1, "Two Worlds Apart", "KOHTA YAMAMOTO", 0],
-    [2, "TararaTaTa", "KOHTA YAMAMOTO", 0],
-    [3, "うんざり蹴ったり", "KOHTA YAMAMOTO", 0],
-    [4, "St. Magnolia", "KOHTA YAMAMOTO", 0],
-    [5, "レーナとアネット", "KOHTA YAMAMOTO", 0],
-    [6, "BuraraBaBa", "KOHTA YAMAMOTO", 0],
-    [7, "Talk to you", "KOHTA YAMAMOTO", 0],
-    [8, "Underneath the Sky", "KOHTA YAMAMOTO", 0],
-    [9, "死者の声", "KOHTA YAMAMOTO", 0],
-    [10, "LEGION", "KOHTA YAMAMOTO", 0],
-    [11, "名もなき悲劇", "KOHTA YAMAMOTO", 0],
-    [12, "No Reality", "KOHTA YAMAMOTO", 0],
-    [13, "同じ空の黄昏", "KOHTA YAMAMOTO", 0],
-    [14, "no distance", "KOHTA YAMAMOTO", 0],
-    [15, "Trigger or Die", "KOHTA YAMAMOTO", 0],
-    [16, "SPEARHEAD", "KOHTA YAMAMOTO", 0],
-    [17, "REGINLEIF", "KOHTA YAMAMOTO", 0],
-    [18, "Alive Today", "KOHTA YAMAMOTO", 0],
-    [19, "SLUMDOG PARADISE", "KOHTA YAMAMOTO", 0],
-    [20, "President me", "KOHTA YAMAMOTO", 0],
-    [21, "The Last Empress", "KOHTA YAMAMOTO", 0],
-    [22, "Reality", "KOHTA YAMAMOTO", 0],
-    [23, "So Tired", "KOHTA YAMAMOTO", 0],
-    [24, "Hear my voice", "KOHTA YAMAMOTO", 0],
-    [25, "MORPHO", "KOHTA YAMAMOTO", 0],
+    [1, "Two Worlds Apart", "KOHTA YAMAMOTO", 1],
+    [2, "TararaTaTa", "KOHTA YAMAMOTO", 1],
+    [3, "うんざり蹴ったり", "KOHTA YAMAMOTO", 1],
+    [4, "St. Magnolia", "KOHTA YAMAMOTO", 1],
+    [5, "レーナとアネット", "KOHTA YAMAMOTO", 1],
+    [6, "BuraraBaBa", "KOHTA YAMAMOTO", 1],
+    [7, "Talk to you", "KOHTA YAMAMOTO", 1],
+    [8, "Underneath the Sky", "KOHTA YAMAMOTO", 1],
+    [9, "死者の声", "KOHTA YAMAMOTO", 1],
+    [10, "LEGION", "KOHTA YAMAMOTO", 1],
+    [11, "名もなき悲劇", "KOHTA YAMAMOTO", 1],
+    [12, "No Reality", "KOHTA YAMAMOTO", 1],
+    [13, "同じ空の黄昏", "KOHTA YAMAMOTO", 1],
+    [14, "no distance", "KOHTA YAMAMOTO", 1],
+    [15, "Trigger or Die", "KOHTA YAMAMOTO", 1],
+    [16, "SPEARHEAD", "KOHTA YAMAMOTO", 1],
+    [17, "REGINLEIF", "KOHTA YAMAMOTO", 1],
+    [18, "Alive Today", "KOHTA YAMAMOTO", 1],
+    [19, "SLUMDOG PARADISE", "KOHTA YAMAMOTO", 1],
+    [20, "President me", "KOHTA YAMAMOTO", 1],
+    [21, "The Last Empress", "KOHTA YAMAMOTO", 1],
+    [22, "Reality", "KOHTA YAMAMOTO", 1],
+    [23, "So Tired", "KOHTA YAMAMOTO", 1],
+    [24, "Hear my voice", "KOHTA YAMAMOTO", 1],
+    [25, "MORPHO", "KOHTA YAMAMOTO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c4c05d4f-dabb-40b4-84ee-30fc088f2582", "https://vgmdb.net/album/110712"]
 
@@ -198,9 +198,9 @@ catalognumber = "ANZX-15864"
 date = "2021-08-25"
 album = "86 -エイティシックス- ORIGINAL DRAMA CD 名目のないパーティー"
 tracks = [
-    [1, "名目のないパーティー #01", "", 0],
-    [2, "名目のないパーティー #02", "", 0],
-    [3, "名目のないパーティー #03", "", 0],
+    [1, "名目のないパーティー #01", "", 1],
+    [2, "名目のないパーティー #02", "", 1],
+    [3, "名目のないパーティー #03", "", 1],
 ]
 links = ["https://vgmdb.net/album/110822"]
 
@@ -209,7 +209,7 @@ catalognumber = "AIXX-02053"
 date = "2021-10-08"
 album = "3分29秒 (N3WPORT Remix) / ヒトリエ & N3WPORT"
 tracks = [
-    [1, "3分29秒 (N3WPORT Remix)", "", 0],
+    [1, "3分29秒 (N3WPORT Remix)", "", 1],
 ]
 links = ["https://vgmdb.net/album/115022"]
 
@@ -218,7 +218,7 @@ catalognumber = "VVXX-01084"
 date = "2021-10-15"
 album = "Avid (Haywyre Remix) / SawanoHiroyuki[nZk]:mizuki & Haywyre"
 tracks = [
-    [1, "Avid (Haywyre remix)", "SawanoHiroyuki[nZk]:mizuki", 0],
+    [1, "Avid (Haywyre remix)", "SawanoHiroyuki[nZk]:mizuki", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d6c603d0-0b5c-4d8c-81bf-709ea02ab80f", "https://vgmdb.net/album/115199"]
 
@@ -227,27 +227,27 @@ catalognumber = "ANZX-15868"
 date = "2021-10-27"
 album = "86 -エイティシックス- REARRANGE & OUTTRACKS CD"
 tracks = [
-    [1, "THE ANSWER <MODv>", "澤野弘之", 0],
-    [2, "8SIX <vcpf-ver.>", "澤野弘之", 0],
-    [3, "SLUMDOG PARADISE -RA-", "KOHTA YAMAMOTO", 0],
-    [4, "Two Worlds Apart -RA-", "KOHTA YAMAMOTO", 0],
-    [5, "8SIX <gt-ver.>", "澤野弘之", 0],
-    [6, "THE ANSWER (instrumental)", "澤野弘之", 0],
-    [7, "Voices of the Chord (instrumental)", "澤野弘之", 0],
-    [8, "THE ANSWER <MODv> (instrumental)", "澤野弘之", 0],
-    [9, "諸行日常", "KOHTA YAMAMOTO", 0],
-    [10, "ギアーデ連邦", "KOHTA YAMAMOTO", 0],
-    [11, "サンマグノリア共和国国軍本部", "KOHTA YAMAMOTO", 0],
-    [12, "幼き日の記憶", "KOHTA YAMAMOTO", 0],
-    [13, "完全自律無人戦闘機械", "KOHTA YAMAMOTO", 0],
-    [14, "シン象世界", "KOHTA YAMAMOTO", 0],
-    [15, "old shell", "KOHTA YAMAMOTO", 0],
-    [16, "作戦懐疑", "KOHTA YAMAMOTO", 0],
-    [17, "素行無情", "KOHTA YAMAMOTO", 0],
-    [18, "Eighty-Fred", "KOHTA YAMAMOTO", 0],
-    [19, "Erica-Six", "KOHTA YAMAMOTO", 0],
-    [20, "SLUMDOG PARADISE -RA- (instrumental)", "KOHTA YAMAMOTO", 0],
-    [21, "Two Worlds Apart -RA- (instrumental)", "KOHTA YAMAMOTO", 0],
+    [1, "THE ANSWER <MODv>", "澤野弘之", 1],
+    [2, "8SIX <vcpf-ver.>", "澤野弘之", 1],
+    [3, "SLUMDOG PARADISE -RA-", "KOHTA YAMAMOTO", 1],
+    [4, "Two Worlds Apart -RA-", "KOHTA YAMAMOTO", 1],
+    [5, "8SIX <gt-ver.>", "澤野弘之", 1],
+    [6, "THE ANSWER (instrumental)", "澤野弘之", 1],
+    [7, "Voices of the Chord (instrumental)", "澤野弘之", 1],
+    [8, "THE ANSWER <MODv> (instrumental)", "澤野弘之", 1],
+    [9, "諸行日常", "KOHTA YAMAMOTO", 1],
+    [10, "ギアーデ連邦", "KOHTA YAMAMOTO", 1],
+    [11, "サンマグノリア共和国国軍本部", "KOHTA YAMAMOTO", 1],
+    [12, "幼き日の記憶", "KOHTA YAMAMOTO", 1],
+    [13, "完全自律無人戦闘機械", "KOHTA YAMAMOTO", 1],
+    [14, "シン象世界", "KOHTA YAMAMOTO", 1],
+    [15, "old shell", "KOHTA YAMAMOTO", 1],
+    [16, "作戦懐疑", "KOHTA YAMAMOTO", 1],
+    [17, "素行無情", "KOHTA YAMAMOTO", 1],
+    [18, "Eighty-Fred", "KOHTA YAMAMOTO", 1],
+    [19, "Erica-Six", "KOHTA YAMAMOTO", 1],
+    [20, "SLUMDOG PARADISE -RA- (instrumental)", "KOHTA YAMAMOTO", 1],
+    [21, "Two Worlds Apart -RA- (instrumental)", "KOHTA YAMAMOTO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2f203b07-a45f-4204-be82-74060352de52", "https://vgmdb.net/album/110823"]
 
@@ -256,9 +256,9 @@ catalognumber = "AICL-4136~7"
 date = "2021-11-17"
 album = "境界線 / amazarashi [完全生産限定盤] Vocal"
 tracks = [
-    [1, "境界線", "amazarashi", 0],
-    [2, "鴉と白鳥", "amazarashi", 0],
-    [3, "少年少女", "amazarashi", 0],
+    [1, "境界線", "amazarashi", 1],
+    [2, "鴉と白鳥", "amazarashi", 1],
+    [3, "少年少女", "amazarashi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0876c33b-8801-4858-8234-41749b602ea5", "https://vgmdb.net/album/114122"]
 
@@ -288,9 +288,9 @@ catalognumber = "AICL-4138~9"
 date = "2021-11-17"
 album = "境界線 / amazarashi [期間生産限定盤] Vocal"
 tracks = [
-    [1, "境界線", "amazarashi", 0],
-    [2, "鴉と白鳥", "amazarashi", 0],
-    [3, "少年少女", "amazarashi", 0],
+    [1, "境界線", "amazarashi", 1],
+    [2, "鴉と白鳥", "amazarashi", 1],
+    [3, "少年少女", "amazarashi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0876c33b-8801-4858-8234-41749b602ea5", "https://vgmdb.net/album/114123"]
 
@@ -299,7 +299,7 @@ catalognumber = "AICL-4138~9"
 date = "2021-11-17"
 album = "境界線 / amazarashi [期間生産限定盤] Vocal, Video"
 tracks = [
-    [1, "境界線 (MUSIC VIDEO)", "amazarashi", 0],
+    [1, "境界線 (MUSIC VIDEO)", "amazarashi", 1],
     [2, "「86-エイティシックス-」第2クールOPノンクレジットMOVIE", "amazarashi", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0876c33b-8801-4858-8234-41749b602ea5", "https://vgmdb.net/album/114123"]
@@ -309,10 +309,10 @@ catalognumber = "KSCL-3337~8"
 date = "2021-11-24"
 album = "アルケミラ / リーガルリリー [期間生産限定盤] Vocal"
 tracks = [
-    [1, "アルケミラ", "リーガルリリー", 0],
-    [2, "チェインスモーク", "リーガルリリー", 0],
-    [3, "アルケミラ (TV size)", "リーガルリリー", 0],
-    [4, "アルケミラ (TV size Instrumental)", "リーガルリリー", 0],
+    [1, "アルケミラ", "リーガルリリー", 1],
+    [2, "チェインスモーク", "リーガルリリー", 1],
+    [3, "アルケミラ (TV size)", "リーガルリリー", 1],
+    [4, "アルケミラ (TV size Instrumental)", "リーガルリリー", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/173ebf81-6d76-48ff-ad83-b1810c113b3e", "https://vgmdb.net/album/114934"]
 
@@ -321,7 +321,7 @@ catalognumber = "KSCL-3337~8"
 date = "2021-11-24"
 album = "アルケミラ / リーガルリリー [期間生産限定盤] Vocal, Video"
 tracks = [
-    [1, "アルケミラ (TVアニメ 『86-エイティシックス-』 Collaboration Movie)", "リーガルリリー", 0],
+    [1, "アルケミラ (TVアニメ 『86-エイティシックス-』 Collaboration Movie)", "リーガルリリー", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/173ebf81-6d76-48ff-ad83-b1810c113b3e", "https://vgmdb.net/album/114934"]
 
@@ -330,9 +330,9 @@ catalognumber = "KSCL-3335~6"
 date = "2021-11-24"
 album = "アルケミラ / リーガルリリー [初回生産限定盤] Arrangement, Vocal"
 tracks = [
-    [1, "アルケミラ", "リーガルリリー", 0],
-    [2, "チェインスモーク", "リーガルリリー", 0],
-    [3, "ばらの花", "リーガルリリー", 0],
+    [1, "アルケミラ", "リーガルリリー", 1],
+    [2, "チェインスモーク", "リーガルリリー", 1],
+    [3, "ばらの花", "リーガルリリー", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/14e84965-471d-4477-aefa-60cf20c83513", "https://vgmdb.net/album/114933"]
 
@@ -357,7 +357,7 @@ catalognumber = "AIXX-02103"
 date = "2022-01-14"
 album = "境界線 (Naeleck Remix) / amazarashi & Naeleck"
 tracks = [
-    [1, "境界線 (Naeleck Remix)", "", 0],
+    [1, "境界線 (Naeleck Remix)", "", 1],
 ]
 links = ["https://vgmdb.net/album/117024"]
 
@@ -376,7 +376,7 @@ tracks = [
     [8, "風にとどけ", "リーガルリリー", 0],
     [9, "ほしのなみだ", "リーガルリリー", 0],
     [10, "9mmの花", "リーガルリリー", 0],
-    [11, "アルケミラ", "リーガルリリー", 0],
+    [11, "アルケミラ", "リーガルリリー", 1],
     [12, "Candy", "リーガルリリー", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2ef5dd33-6605-4e63-94a9-d024cc4ab2b7", "https://vgmdb.net/album/115708"]
@@ -396,7 +396,7 @@ tracks = [
     [8, "風にとどけ", "リーガルリリー", 0],
     [9, "ほしのなみだ", "リーガルリリー", 0],
     [10, "9mmの花", "リーガルリリー", 0],
-    [11, "アルケミラ", "リーガルリリー", 0],
+    [11, "アルケミラ", "リーガルリリー", 1],
     [12, "Candy", "リーガルリリー", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/2ef5dd33-6605-4e63-94a9-d024cc4ab2b7", "https://vgmdb.net/album/115709"]
@@ -429,7 +429,7 @@ catalognumber = "KSXX-02309"
 date = "2022-01-21"
 album = "アルケミラ (RudeLies Remix) / リーガルリリー & RudeLies"
 tracks = [
-    [1, "アルケミラ (RudeLies Remix)", "", 0],
+    [1, "アルケミラ (RudeLies Remix)", "", 1],
 ]
 links = ["https://vgmdb.net/album/117392"]
 
@@ -438,11 +438,11 @@ catalognumber = "ANZX-15872"
 date = "2022-02-23"
 album = "86 -エイティシックス- ORIGINAL DRAMA CD チーム・フレデリカの奇跡"
 tracks = [
-    [1, "チーム・フレデリカの奇跡 #01", "", 0],
-    [2, "チーム・フレデリカの奇跡 #02", "", 0],
-    [3, "チーム・フレデリカの奇跡 #03", "", 0],
-    [4, "チーム・フレデリカの奇跡 #04", "", 0],
-    [5, "チーム・フレデリカの奇跡 #05", "", 0],
+    [1, "チーム・フレデリカの奇跡 #01", "", 1],
+    [2, "チーム・フレデリカの奇跡 #02", "", 1],
+    [3, "チーム・フレデリカの奇跡 #03", "", 1],
+    [4, "チーム・フレデリカの奇跡 #04", "", 1],
+    [5, "チーム・フレデリカの奇跡 #05", "", 1],
 ]
 links = ["https://vgmdb.net/album/115194"]
 
@@ -451,7 +451,7 @@ catalognumber = "VVXX-01169"
 date = "2022-03-20"
 album = "LilaS / SawanoHiroyuki[nZk]:Honoka Takahashi"
 tracks = [
-    [1, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
+    [1, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/047dfae9-d6be-45a6-bb0c-131cbccc0302", "https://vgmdb.net/album/118663"]
 
@@ -462,7 +462,7 @@ album = "七号線ロストボーイズ / amazarashi [初回生産限定盤] Voc
 tracks = [
     [1, "感情道路七号線", "amazarashi", 0],
     [2, "火種", "amazarashi", 0],
-    [3, "境界線", "amazarashi", 0],
+    [3, "境界線", "amazarashi", 1],
     [4, "ロストボーイズ", "amazarashi", 0],
     [5, "間抜けなニムロド", "amazarashi", 0],
     [6, "かつて焼け落ちた町", "amazarashi", 0],
@@ -481,7 +481,7 @@ album = "七号線ロストボーイズ / amazarashi [初回生産限定盤] Voc
 tracks = [
     [1, "拒否オロジー", "amazarashi", 0],
     [2, "とどめを刺して", "amazarashi", 0],
-    [3, "境界線", "amazarashi", 0],
+    [3, "境界線", "amazarashi", 1],
     [4, "帰ってこいよ", "amazarashi", 0],
     [5, "初雪", "amazarashi", 0],
     [6, "アルカホール", "amazarashi", 0],
@@ -505,7 +505,7 @@ album = "七号線ロストボーイズ / amazarashi"
 tracks = [
     [1, "感情道路七号線", "amazarashi", 0],
     [2, "火種", "amazarashi", 0],
-    [3, "境界線", "amazarashi", 0],
+    [3, "境界線", "amazarashi", 1],
     [4, "ロストボーイズ", "amazarashi", 0],
     [5, "間抜けなニムロド", "amazarashi", 0],
     [6, "かつて焼け落ちた町", "amazarashi", 0],
@@ -524,7 +524,7 @@ album = "七号線ロストボーイズ / amazarashi [完全生産限定盤] Voc
 tracks = [
     [1, "感情道路七号線", "amazarashi", 0],
     [2, "火種", "amazarashi", 0],
-    [3, "境界線", "amazarashi", 0],
+    [3, "境界線", "amazarashi", 1],
     [4, "ロストボーイズ", "amazarashi", 0],
     [5, "間抜けなニムロド", "amazarashi", 0],
     [6, "かつて焼け落ちた町", "amazarashi", 0],
@@ -543,7 +543,7 @@ album = "七号線ロストボーイズ / amazarashi [完全生産限定盤] Voc
 tracks = [
     [1, "拒否オロジー", "amazarashi", 0],
     [2, "とどめを刺して", "amazarashi", 0],
-    [3, "境界線", "amazarashi", 0],
+    [3, "境界線", "amazarashi", 1],
     [4, "帰ってこいよ", "amazarashi", 0],
     [5, "初雪", "amazarashi", 0],
     [6, "アルカホール", "amazarashi", 0],
@@ -565,10 +565,10 @@ catalognumber = "ANZX-15876"
 date = "2022-04-27"
 album = "86 -エイティシックス- SPECIAL DRAMA CD スピアヘッド戦隊にクソ栄光あれ"
 tracks = [
-    [1, "スピアヘッド戦隊にクソ栄光あれ #01", "", 0],
-    [2, "スピアヘッド戦隊にクソ栄光あれ #02", "", 0],
-    [3, "スピアヘッド戦隊にクソ栄光あれ #03", "", 0],
-    [4, "スピアヘッド戦隊にクソ栄光あれ #04", "", 0],
+    [1, "スピアヘッド戦隊にクソ栄光あれ #01", "", 1],
+    [2, "スピアヘッド戦隊にクソ栄光あれ #02", "", 1],
+    [3, "スピアヘッド戦隊にクソ栄光あれ #03", "", 1],
+    [4, "スピアヘッド戦隊にクソ栄光あれ #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/115195"]
 
@@ -583,7 +583,7 @@ tracks = [
     [4, "Neon Beauty", "ヒトリエ", 0],
     [5, "電影回帰", "ヒトリエ", 0],
     [6, "Flight Simulator", "ヒトリエ", 0],
-    [7, "3分29秒", "ヒトリエ", 0],
+    [7, "3分29秒", "ヒトリエ", 1],
     [8, "ステレオジュブナイル", "ヒトリエ", 0],
     [9, "strawberry", "ヒトリエ", 0],
     [10, "Quit.", "ヒトリエ", 0],
@@ -595,7 +595,7 @@ catalognumber = "AICL-4253~4"
 date = "2022-06-22"
 album = "PHARMACY / ヒトリエ [初回生産限定盤] Vocal, Video"
 tracks = [
-    [1, "3分29秒 -Music Video-", "", 0],
+    [1, "3分29秒 -Music Video-", "", 1],
     [2, "ステレオジュブナイル -Music Video-", "", 0],
     [3, "風、花 -Music Video-", "", 0],
 ]
@@ -612,7 +612,7 @@ tracks = [
     [4, "Neon Beauty", "ヒトリエ", 0],
     [5, "電影回帰", "ヒトリエ", 0],
     [6, "Flight Simulator", "ヒトリエ", 0],
-    [7, "3分29秒", "ヒトリエ", 0],
+    [7, "3分29秒", "ヒトリエ", 1],
     [8, "ステレオジュブナイル", "ヒトリエ", 0],
     [9, "strawberry", "ヒトリエ", 0],
     [10, "Quit.", "ヒトリエ", 0],
@@ -630,9 +630,9 @@ tracks = [
     [4, "B∀LK", "SawanoHiroyuki[nZk]:suis from ヨルシカ", 0],
     [5, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
     [6, "OUTSIDERS", "SawanoHiroyuki[nZk]:河野純喜&與那城奨(JO1)", 0],
-    [7, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
-    [8, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
-    [9, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
+    [7, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 1],
+    [8, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 1],
+    [9, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
     [10, "COLORs", "SawanoHiroyuki[nZk]:Hata Motohiro", 0],
     [11, "地球という名の都", "SawanoHiroyuki[nZk]:ASKA", 0],
     [12, "V", "SawanoHiroyuki[nZk]", 0],
@@ -650,9 +650,9 @@ tracks = [
     [4, "B∀LK", "SawanoHiroyuki[nZk]:suis from ヨルシカ", 0],
     [5, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
     [6, "OUTSIDERS", "SawanoHiroyuki[nZk]:河野純喜&與那城奨(JO1)", 0],
-    [7, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
-    [8, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
-    [9, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
+    [7, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 1],
+    [8, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 1],
+    [9, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
     [10, "COLORs", "SawanoHiroyuki[nZk]:Hata Motohiro", 0],
     [11, "地球という名の都", "SawanoHiroyuki[nZk]:ASKA", 0],
     [12, "V", "SawanoHiroyuki[nZk]", 0],
@@ -666,18 +666,18 @@ album = "V / SawanoHiroyuki[nZk] [初回生産限定盤] Vocal, Live Event, Vide
 tracks = [
     [1, "NEXUS", "SawanoHiroyuki[nZk]", 0],
     [2, "THE ANSWER", "SawanoHiroyuki[nZk]", 0],
-    [3, "Hands Up to the Sky", "SawanoHiroyuki[nZk]", 0],
+    [3, "Hands Up to the Sky", "SawanoHiroyuki[nZk]", 1],
     [4, "Möbius", "SawanoHiroyuki[nZk]", 0],
     [5, "Gallant Ones", "SawanoHiroyuki[nZk]", 0],
     [6, "TRACER", "SawanoHiroyuki[nZk]", 0],
     [7, "Next of Kin", "SawanoHiroyuki[nZk]", 0],
     [8, "God of ink", "SawanoHiroyuki[nZk]", 0],
     [9, "Call your name", "SawanoHiroyuki[nZk]", 0],
-    [10, "Avid", "SawanoHiroyuki[nZk]", 0],
+    [10, "Avid", "SawanoHiroyuki[nZk]", 1],
     [11, "火の鳥", "SawanoHiroyuki[nZk]", 0],
     [12, "&Z", "SawanoHiroyuki[nZk]", 0],
     [13, "time", "SawanoHiroyuki[nZk]", 0],
-    [14, "Into the Sky", "SawanoHiroyuki[nZk]", 0],
+    [14, "Into the Sky", "SawanoHiroyuki[nZk]", 1],
     [15, "BEEP", "SawanoHiroyuki[nZk]", 0],
     [16, "証 〜 dust", "SawanoHiroyuki[nZk]", 0],
     [17, "melt", "SawanoHiroyuki[nZk]", 0],
@@ -696,9 +696,9 @@ tracks = [
     [4, "B∀LK (instrumental)", "SawanoHiroyuki[nZk]", 0],
     [5, "7th String (instrumental)", "SawanoHiroyuki[nZk]", 0],
     [6, "OUTSIDERS (instrumental)", "SawanoHiroyuki[nZk]", 0],
-    [7, "Hands Up to the Sky (instrumental)", "SawanoHiroyuki[nZk]", 0],
-    [8, "LilaS (instrumental)", "SawanoHiroyuki[nZk]", 0],
-    [9, "Avid (instrumental)", "SawanoHiroyuki[nZk]", 0],
+    [7, "Hands Up to the Sky (instrumental)", "SawanoHiroyuki[nZk]", 1],
+    [8, "LilaS (instrumental)", "SawanoHiroyuki[nZk]", 1],
+    [9, "Avid (instrumental)", "SawanoHiroyuki[nZk]", 1],
     [10, "COLORs (instrumental)", "SawanoHiroyuki[nZk]", 0],
     [11, "地球という名の都 (instrumental)", "SawanoHiroyuki[nZk]", 0],
     [12, "V", "SawanoHiroyuki[nZk]", 0],
@@ -722,11 +722,11 @@ tracks = [
     [10, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
     [11, "Till I", "SawanoHiroyuki[nZk]:優里", 0],
     [12, "never gonna change", "SawanoHiroyuki[nZk]:スキマスイッチ", 0],
-    [13, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
+    [13, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 1],
     [14, "time", "SawanoHiroyuki[nZk]:ReoNa", 0],
     [15, "OUTSIDERS", "SawanoHiroyuki[nZk]:河野純喜&與那城奨(JO1)", 0],
     [16, "Trollz", "SawanoHiroyuki[nZk]:Laco", 0],
-    [17, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
+    [17, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
     [18, "LEveL", "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER", 0],
     [19, "Twin Fates", "SawanoHiroyuki[nZk]:Awich", 0],
 ]
@@ -738,7 +738,7 @@ date = "2024-10-02"
 album = "bLACKbLUE / SawanoHiroyuki[nZk] [Limited Edition] Vocal Disc 2"
 tracks = [
     [1, "aLIEz", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [2, "Into the Sky", "SawanoHiroyuki[nZk]:Tielle", 0],
+    [2, "Into the Sky", "SawanoHiroyuki[nZk]:Tielle", 1],
     [3, "DARK ARIA <LV2>", "SawanoHiroyuki[nZk]:XAI", 0],
     [4, "Pretenders -eO1-", "SawanoHiroyuki[nZk]:mica", 0],
     [5, "Club Ki3ε", "SawanoHiroyuki[nZk]:Gemie", 0],
@@ -777,7 +777,7 @@ tracks = [
     [11, "DARK ARIA ＜LV2＞ (Vo. XAI)", "", 0],
     [12, "LEMONADE (Vo. XAI)", "", 0],
     [13, "Cage (Vo. XAI)", "", 0],
-    [14, "Avid (Vo. mizuki)", "", 0],
+    [14, "Avid (Vo. mizuki)", "", 1],
     [15, "EGO＜SODv＞ (Vo. mizuki)", "", 0],
     [16, "Keep on keeping on (Vo. mizuki)", "", 0],
     [17, "IVORY TOWER ～ NOD (Vo. SennaRin)", "", 0],
@@ -806,11 +806,11 @@ tracks = [
     [10, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
     [11, "Till I", "SawanoHiroyuki[nZk]:優里", 0],
     [12, "never gonna change", "SawanoHiroyuki[nZk]:スキマスイッチ", 0],
-    [13, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
+    [13, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 1],
     [14, "time", "SawanoHiroyuki[nZk]:ReoNa", 0],
     [15, "OUTSIDERS", "SawanoHiroyuki[nZk]:河野純喜&與那城奨(JO1)", 0],
     [16, "Trollz", "SawanoHiroyuki[nZk]:Laco", 0],
-    [17, "Avid", "SawanoHiroyuki[nZk]:mizuki", 0],
+    [17, "Avid", "SawanoHiroyuki[nZk]:mizuki", 1],
     [18, "LEveL", "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER", 0],
     [19, "Twin Fates", "SawanoHiroyuki[nZk]:Awich", 0],
 ]
@@ -822,7 +822,7 @@ date = "2024-10-02"
 album = "bLACKbLUE / SawanoHiroyuki[nZk] Disc 2 [VVCL-2585]"
 tracks = [
     [1, "aLIEz", "SawanoHiroyuki[nZk]:mizuki", 0],
-    [2, "Into the Sky", "SawanoHiroyuki[nZk]:Tielle", 0],
+    [2, "Into the Sky", "SawanoHiroyuki[nZk]:Tielle", 1],
     [3, "DARK ARIA <LV2>", "SawanoHiroyuki[nZk]:XAI", 0],
     [4, "Pretenders -eO1-", "SawanoHiroyuki[nZk]:mica", 0],
     [5, "Club Ki3ε", "SawanoHiroyuki[nZk]:Gemie", 0],
@@ -848,7 +848,7 @@ catalognumber = "VVCL-2795~7"
 date = "2025-10-01"
 album = "PIANOUTA / Project【emU】  [初回生産限定盤] Vocal"
 tracks = [
-    [1, "Avid", "澤野弘之×SennaRin", 0],
+    [1, "Avid", "澤野弘之×SennaRin", 1],
     [2, "SHADOWBORN", "澤野弘之×SennaRin", 0],
     [3, "DARK ARIA", "澤野弘之×SennaRin", 0],
     [4, "REVIVƎЯ", "澤野弘之×SennaRin", 0],
@@ -858,7 +858,7 @@ tracks = [
     [8, "Apple Seed", "澤野弘之×SennaRin", 0],
     [9, "T:T", "澤野弘之×SennaRin", 0],
     [10, "ThanksAT -PIANOUTA-", "澤野弘之×SennaRin", 0],
-    [11, "LilaS", "澤野弘之×SennaRin", 0],
+    [11, "LilaS", "澤野弘之×SennaRin", 1],
     [12, "Iris -BUBBLE-", "澤野弘之×SennaRin", 0],
     [13, "Call of Silence", "澤野弘之×SennaRin", 0],
 ]
@@ -888,7 +888,7 @@ tracks = [
     [4, "最果て", "澤野弘之", 0],
     [5, "aLIEz", "澤野弘之", 0],
     [6, "Keep on keeping on", "澤野弘之", 0],
-    [7, "Avid", "澤野弘之", 0],
+    [7, "Avid", "澤野弘之", 1],
     [8, "CRY", "澤野弘之", 0],
     [9, "TRACER", "澤野弘之", 0],
     [10, "Inferno", "澤野弘之", 0],
@@ -905,7 +905,7 @@ tracks = [
     [21, "Zero Eclipse", "澤野弘之", 0],
     [22, "Barricades", "澤野弘之", 0],
     [23, "Call of Silence", "澤野弘之", 0],
-    [24, "A/Z", "澤野弘之", 0],
+    [24, "A/Z", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f8a8e680-abab-4f28-9de2-99bf48f33c98", "https://vgmdb.net/album/156912"]
 
@@ -914,7 +914,7 @@ catalognumber = "VVCL-2798～9"
 date = "2025-10-01"
 album = "PIANOUTA / Project【emU】 Disc 1 [VVCL-2798]"
 tracks = [
-    [1, "Avid", "澤野弘之×SennaRin", 0],
+    [1, "Avid", "澤野弘之×SennaRin", 1],
     [2, "SHADOWBORN", "澤野弘之×SennaRin", 0],
     [3, "DARK ARIA", "澤野弘之×SennaRin", 0],
     [4, "REVIVƎЯ", "澤野弘之×SennaRin", 0],
@@ -924,7 +924,7 @@ tracks = [
     [8, "Apple Seed", "澤野弘之×SennaRin", 0],
     [9, "T:T", "澤野弘之×SennaRin", 0],
     [10, "ThanksAT -PIANOUTA-", "澤野弘之×SennaRin", 0],
-    [11, "LilaS", "澤野弘之×SennaRin", 0],
+    [11, "LilaS", "澤野弘之×SennaRin", 1],
     [12, "Iris -BUBBLE-", "澤野弘之×SennaRin", 0],
     [13, "Call of Silence", "澤野弘之×SennaRin", 0],
 ]

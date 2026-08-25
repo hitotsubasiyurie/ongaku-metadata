@@ -3,10 +3,10 @@ catalognumber = "TECI-556"
 date = "2017-06-07"
 album = "Reset / 牧野由依"
 tracks = [
-    [1, "Reset", "牧野由依", 0],
-    [2, "Colors of Happiness", "牧野由依", 0],
-    [3, "Reset (Instrumental)", "牧野由依", 0],
-    [4, "Colors of Happiness (Instrumental)", "牧野由依", 0],
+    [1, "Reset", "牧野由依", 1],
+    [2, "Colors of Happiness", "牧野由依", 1],
+    [3, "Reset (Instrumental)", "牧野由依", 1],
+    [4, "Colors of Happiness (Instrumental)", "牧野由依", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9c9aa991-e68d-497f-b8df-92ee11bb932c", "https://vgmdb.net/album/67146"]
 
@@ -15,10 +15,10 @@ catalognumber = "TECI-555"
 date = "2017-06-07"
 album = "Reset / 牧野由依 [初回限定盤B] Disc 1 (CD)"
 tracks = [
-    [1, "Reset", "牧野由依", 0],
-    [2, "Colors of Happiness", "牧野由依", 0],
-    [3, "Reset 〜Acoustic Version〜", "牧野由依", 0],
-    [4, "Reset 〜Acoustic Version〜 (TV-Size)", "牧野由依", 0],
+    [1, "Reset", "牧野由依", 1],
+    [2, "Colors of Happiness", "牧野由依", 1],
+    [3, "Reset 〜Acoustic Version〜", "牧野由依", 1],
+    [4, "Reset 〜Acoustic Version〜 (TV-Size)", "牧野由依", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/40565f96-d00a-4f1b-ac84-0870843761e2", "https://vgmdb.net/album/67147"]
 
@@ -36,10 +36,10 @@ catalognumber = "TECI-554"
 date = "2017-06-07"
 album = "Reset / 牧野由依 [初回限定盤A] Vocal"
 tracks = [
-    [1, "Reset", "牧野由依", 0],
-    [2, "Colors of Happiness", "牧野由依", 0],
-    [3, "Reset (TV-Size)", "牧野由依", 0],
-    [4, "Colors of Happiness (TV-Size)", "牧野由依", 0],
+    [1, "Reset", "牧野由依", 1],
+    [2, "Colors of Happiness", "牧野由依", 1],
+    [3, "Reset (TV-Size)", "牧野由依", 1],
+    [4, "Colors of Happiness (TV-Size)", "牧野由依", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c1c7ab44-b4d7-444a-9e82-36308cb524f4", "https://vgmdb.net/album/67148"]
 
@@ -48,7 +48,7 @@ catalognumber = "TECI-554"
 date = "2017-06-07"
 album = "Reset / 牧野由依 [初回限定盤A] Disc 2 (DVD)"
 tracks = [
-    [1, "Reset (Music Video)", "牧野由依", 0],
+    [1, "Reset (Music Video)", "牧野由依", 1],
     [2, "Making of 「Reset」 Music Video", "牧野由依", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c1c7ab44-b4d7-444a-9e82-36308cb524f4", "https://vgmdb.net/album/67148"]
@@ -58,9 +58,9 @@ catalognumber = "AZZS-64"
 date = "2017-06-14"
 album = "トナリアウ/ONE'S AGAIN / THE ORAL CIGARETTES Disc 1 (CD)"
 tracks = [
-    [1, "トナリアウ", "THE ORAL CIGARETTES", 0],
-    [2, "ONE’S AGAIN", "THE ORAL CIGARETTES", 0],
-    [3, "Uh…Man", "THE ORAL CIGARETTES", 0],
+    [1, "トナリアウ", "THE ORAL CIGARETTES", 1],
+    [2, "ONE’S AGAIN", "THE ORAL CIGARETTES", 1],
+    [3, "Uh…Man", "THE ORAL CIGARETTES", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bdb04253-4f14-43c3-b573-9e068dcc5261", "https://vgmdb.net/album/67241"]
 
@@ -78,9 +78,9 @@ catalognumber = "AZCS-2064"
 date = "2017-06-14"
 album = "トナリアウ/ONE'S AGAIN / THE ORAL CIGARETTES"
 tracks = [
-    [1, "トナリアウ", "THE ORAL CIGARETTES", 0],
-    [2, "ONE’S AGAIN", "THE ORAL CIGARETTES", 0],
-    [3, "Uh…Man", "THE ORAL CIGARETTES", 0],
+    [1, "トナリアウ", "THE ORAL CIGARETTES", 1],
+    [2, "ONE’S AGAIN", "THE ORAL CIGARETTES", 1],
+    [3, "Uh…Man", "THE ORAL CIGARETTES", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5e9bf2b6-2159-45d7-99f3-01b0e41b6a95", "https://vgmdb.net/album/67240"]
 
@@ -89,7 +89,7 @@ catalognumber = "KAXA-7521CD"
 date = "2017-07-26"
 album = "サクラダリセット ドラマCD①『INDIRECT and CLEAR MESSAGE 1/1』"
 tracks = [
-    [1, "INDIRECT and CLEAR MESSAGE 1/1", "", 0],
+    [1, "INDIRECT and CLEAR MESSAGE 1/1", "", 1],
 ]
 links = ["https://vgmdb.net/album/67171"]
 
@@ -98,11 +98,11 @@ catalognumber = "AZCS-2067"
 date = "2017-09-13"
 album = "A/W / WEAVER"
 tracks = [
-    [1, "Another World", "WEAVER", 0],
-    [2, "だから僕は僕を手放す", "WEAVER", 0],
-    [3, "Photographs", "WEAVER", 0],
-    [4, "Hello, Again 〜昔からある場所〜", "WEAVER", 0],
-    [5, "心の中まで (Jazztronik Remix)", "WEAVER", 0],
+    [1, "Another World", "WEAVER", 1],
+    [2, "だから僕は僕を手放す", "WEAVER", 1],
+    [3, "Photographs", "WEAVER", 1],
+    [4, "Hello, Again 〜昔からある場所〜", "WEAVER", 1],
+    [5, "心の中まで (Jazztronik Remix)", "WEAVER", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7991efc9-1302-4660-a493-74097baef487", "https://vgmdb.net/album/69863"]
 
@@ -111,7 +111,7 @@ catalognumber = "KAXA-7522CD"
 date = "2017-09-27"
 album = "サクラダリセット ドラマCD②『ある日の春埼さんのその後』"
 tracks = [
-    [1, "ある日の春埼さんのその後", "", 0],
+    [1, "ある日の春埼さんのその後", "", 1],
 ]
 links = ["https://vgmdb.net/album/68959"]
 
@@ -120,7 +120,7 @@ catalognumber = "KAXA-7523CD"
 date = "2017-11-29"
 album = "サクラダリセット ドラマCD③『月の砂を採りに行った少年の話』"
 tracks = [
-    [1, "月の砂を採りに行った少年の話", "", 0],
+    [1, "月の砂を採りに行った少年の話", "", 1],
 ]
 links = ["https://vgmdb.net/album/71600"]
 
@@ -129,7 +129,7 @@ catalognumber = "KAXA-7524CD"
 date = "2018-01-24"
 album = "サクラダリセット ドラマCD④『ある幸福な誕生日のプロローグ』"
 tracks = [
-    [1, "ある幸福な誕生日のプロローグ", "", 0],
+    [1, "ある幸福な誕生日のプロローグ", "", 1],
 ]
 links = ["https://vgmdb.net/album/73051"]
 
@@ -138,11 +138,11 @@ catalognumber = "TECI-1583"
 date = "2018-03-21"
 album = "WILL / 牧野由依"
 tracks = [
-    [1, "Reset -A Cappella Version-", "牧野由依", 0],
+    [1, "Reset -A Cappella Version-", "牧野由依", 1],
     [2, "song for you", "牧野由依", 0],
     [3, "ウイークエンド・ランデヴー", "牧野由依", 0],
     [4, "What A Beautiful World -Studio Live Version-", "牧野由依", 0],
-    [5, "Colors of Happiness -Rainbow Mix-", "牧野由依", 0],
+    [5, "Colors of Happiness -Rainbow Mix-", "牧野由依", 1],
     [6, "それはきっとボクらしく生きる勇気", "牧野由依", 0],
     [7, "ハウリング", "牧野由依", 0],
 ]
@@ -153,11 +153,11 @@ catalognumber = "TECI-1582"
 date = "2018-03-21"
 album = "WILL / 牧野由依 Disc 1 (CD)"
 tracks = [
-    [1, "Reset -A Cappella Version-", "牧野由依", 0],
+    [1, "Reset -A Cappella Version-", "牧野由依", 1],
     [2, "song for you", "牧野由依", 0],
     [3, "ウイークエンド・ランデヴー", "牧野由依", 0],
     [4, "What A Beautiful World -Studio Live Version-", "牧野由依", 0],
-    [5, "Colors of Happiness -Rainbow Mix-", "牧野由依", 0],
+    [5, "Colors of Happiness -Rainbow Mix-", "牧野由依", 1],
     [6, "それはきっとボクらしく生きる勇気", "牧野由依", 0],
     [7, "ハウリング", "牧野由依", 0],
 ]
@@ -169,7 +169,7 @@ date = "2018-03-21"
 album = "WILL / 牧野由依 Disc 2 (DVD)"
 tracks = [
     [1, "Making of 「What A Beautiful World -Studio Live Version-」", "牧野由依", 0],
-    [2, "Reset -A Cappella Version- (Special Movie)", "牧野由依", 0],
+    [2, "Reset -A Cappella Version- (Special Movie)", "牧野由依", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8e8841bc-4c6e-410c-acf4-4d6f3335aad5", "https://vgmdb.net/album/85859"]
 
@@ -183,10 +183,10 @@ tracks = [
     [3, "PSYCHOPATH", "THE ORAL CIGARETTES", 0],
     [4, "Ladies and Gentlemen", "THE ORAL CIGARETTES", 0],
     [5, "What you want", "THE ORAL CIGARETTES", 0],
-    [6, "トナリアウ", "THE ORAL CIGARETTES", 0],
+    [6, "トナリアウ", "THE ORAL CIGARETTES", 1],
     [7, "リブロックアート", "THE ORAL CIGARETTES", 0],
     [8, "容姿端麗な嘘", "THE ORAL CIGARETTES", 0],
-    [9, "ONE’S AGAIN", "THE ORAL CIGARETTES", 0],
+    [9, "ONE’S AGAIN", "THE ORAL CIGARETTES", 1],
     [10, "ReI", "THE ORAL CIGARETTES", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/8cbbcc6b-f3ac-41fc-8cd5-d522aee87423", "https://vgmdb.net/album/79188"]
@@ -219,10 +219,10 @@ tracks = [
     [3, "PSYCHOPATH", "THE ORAL CIGARETTES", 0],
     [4, "Ladies and Gentlemen", "THE ORAL CIGARETTES", 0],
     [5, "What you want", "THE ORAL CIGARETTES", 0],
-    [6, "トナリアウ", "THE ORAL CIGARETTES", 0],
+    [6, "トナリアウ", "THE ORAL CIGARETTES", 1],
     [7, "リブロックアート", "THE ORAL CIGARETTES", 0],
     [8, "容姿端麗な嘘", "THE ORAL CIGARETTES", 0],
-    [9, "ONE’S AGAIN", "THE ORAL CIGARETTES", 0],
+    [9, "ONE’S AGAIN", "THE ORAL CIGARETTES", 1],
     [10, "ReI", "THE ORAL CIGARETTES", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/21d09de2-d823-4fb2-96bb-5f83fd424712", "https://vgmdb.net/album/79187"]
@@ -239,9 +239,9 @@ tracks = [
     [5, "S.O.S.", "WEAVER", 0],
     [6, "Shake! Shake!", "WEAVER", 0],
     [7, "海のある街", "WEAVER", 0],
-    [8, "Another World", "WEAVER", 0],
-    [9, "だから僕は僕を手放す", "WEAVER", 0],
-    [10, "Photographs", "WEAVER", 0],
+    [8, "Another World", "WEAVER", 1],
+    [9, "だから僕は僕を手放す", "WEAVER", 1],
+    [10, "Photographs", "WEAVER", 1],
     [11, "僕のすべて", "WEAVER", 0],
     [12, "Hello Future", "WEAVER", 0],
     [13, "Tonight", "WEAVER", 0],
@@ -261,9 +261,9 @@ tracks = [
     [5, "S.O.S.", "WEAVER", 0],
     [6, "Shake! Shake!", "WEAVER", 0],
     [7, "海のある街", "WEAVER", 0],
-    [8, "Another World", "WEAVER", 0],
-    [9, "だから僕は僕を手放す", "WEAVER", 0],
-    [10, "Photographs", "WEAVER", 0],
+    [8, "Another World", "WEAVER", 1],
+    [9, "だから僕は僕を手放す", "WEAVER", 1],
+    [10, "Photographs", "WEAVER", 1],
     [11, "僕のすべて", "WEAVER", 0],
     [12, "Hello Future", "WEAVER", 0],
     [13, "Tonight", "WEAVER", 0],
@@ -282,7 +282,7 @@ tracks = [
     [4, "Boys & Girls", "", 0],
     [5, "S.O.S.", "", 0],
     [6, "Shake! Shake!", "", 0],
-    [7, "Another World", "", 0],
+    [7, "Another World", "", 1],
     [8, "カーテンコール", "", 0],
 ]
 links = ["https://vgmdb.net/album/83310"]
@@ -299,7 +299,7 @@ tracks = [
     [5, "Zipper", "pal@pop feat. 牧野由依", 0],
     [6, "ふわふわ♪", "牧野由依", 0],
     [7, "secret melody [UPDATE]", "牧野由依", 0],
-    [8, "Reset", "牧野由依", 0],
+    [8, "Reset", "牧野由依", 1],
     [9, "夏休みの宿題 [UPDATE]", "牧野由依", 0],
     [10, "ハウリング", "牧野由依", 0],
     [11, "Cluster [UPDATE]", "牧野由依", 0],
@@ -330,32 +330,32 @@ catalognumber = "FLAU-76"
 date = "2019-04-10"
 album = "Sagrada Reset / Rayons"
 tracks = [
-    [1, "テトラポットにて", "Rayons", 0],
-    [2, "もうすでに失ったもの", "Rayons", 0],
-    [3, "ケイについてゆく", "Rayons", 0],
-    [4, "ねたみ・執着・執念", "Rayons", 0],
-    [5, "ケイの決心", "Rayons", 0],
-    [6, "使命と宿命", "Rayons", 0],
-    [7, "対峙・対決", "Rayons", 0],
-    [8, "灰色の記憶", "Rayons", 0],
-    [9, "悲痛なサスペンス", "Rayons", 0],
-    [10, "ミチル、ごめんね", "Rayons", 0],
-    [11, "私たちの未来", "Rayons", 0],
-    [12, "サクラダリセット(day time)", "Rayons", 0],
-    [13, "こいごころ", "Rayons", 0],
-    [14, "野ノ尾さんのところ", "Rayons", 0],
-    [15, "あなたの力になれていますか?", "Rayons", 0],
-    [16, "後悔・慚愧", "Rayons", 0],
-    [17, "バトル ～勇壮～", "Rayons", 0],
-    [18, "不思議な既視感", "Rayons", 0],
-    [19, "暗闇をかきわけて", "Rayons", 0],
-    [20, "桜が満開の庭", "Rayons", 0],
-    [21, "ミチルの世界", "Rayons", 0],
-    [22, "咲良田の街", "Rayons", 0],
-    [23, "サクラダリセット", "Rayons", 0],
-    [24, "最終作戦", "Rayons", 0],
-    [25, "叶えられる願い", "Rayons", 0],
-    [26, "流れゆく日々", "Rayons", 0],
+    [1, "テトラポットにて", "Rayons", 1],
+    [2, "もうすでに失ったもの", "Rayons", 1],
+    [3, "ケイについてゆく", "Rayons", 1],
+    [4, "ねたみ・執着・執念", "Rayons", 1],
+    [5, "ケイの決心", "Rayons", 1],
+    [6, "使命と宿命", "Rayons", 1],
+    [7, "対峙・対決", "Rayons", 1],
+    [8, "灰色の記憶", "Rayons", 1],
+    [9, "悲痛なサスペンス", "Rayons", 1],
+    [10, "ミチル、ごめんね", "Rayons", 1],
+    [11, "私たちの未来", "Rayons", 1],
+    [12, "サクラダリセット(day time)", "Rayons", 1],
+    [13, "こいごころ", "Rayons", 1],
+    [14, "野ノ尾さんのところ", "Rayons", 1],
+    [15, "あなたの力になれていますか?", "Rayons", 1],
+    [16, "後悔・慚愧", "Rayons", 1],
+    [17, "バトル ～勇壮～", "Rayons", 1],
+    [18, "不思議な既視感", "Rayons", 1],
+    [19, "暗闇をかきわけて", "Rayons", 1],
+    [20, "桜が満開の庭", "Rayons", 1],
+    [21, "ミチルの世界", "Rayons", 1],
+    [22, "咲良田の街", "Rayons", 1],
+    [23, "サクラダリセット", "Rayons", 1],
+    [24, "最終作戦", "Rayons", 1],
+    [25, "叶えられる願い", "Rayons", 1],
+    [26, "流れゆく日々", "Rayons", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/532db772-9d9d-463e-bdc7-6aa26f29c90b", "https://vgmdb.net/album/84830"]
 
@@ -379,8 +379,8 @@ tracks = [
     [13, "5150", "THE ORAL CIGARETTES", 0],
     [14, "リコリス", "THE ORAL CIGARETTES", 0],
     [15, "Shala La", "THE ORAL CIGARETTES", 0],
-    [16, "トナリアウ", "THE ORAL CIGARETTES", 0],
-    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 0],
+    [16, "トナリアウ", "THE ORAL CIGARETTES", 1],
+    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 1],
     [18, "BLACK MEMORY", "THE ORAL CIGARETTES", 0],
     [19, "ReI", "THE ORAL CIGARETTES", 0],
     [20, "容姿端麗な嘘", "THE ORAL CIGARETTES", 0],
@@ -396,7 +396,7 @@ tracks = [
     [2, "GET BACK", "THE ORAL CIGARETTES", 0],
     [3, "モンスターエフェクト", "THE ORAL CIGARETTES", 0],
     [4, "See the lights", "THE ORAL CIGARETTES", 0],
-    [5, "Uh...Man", "THE ORAL CIGARETTES", 0],
+    [5, "Uh...Man", "THE ORAL CIGARETTES", 1],
     [6, "出会い街", "THE ORAL CIGARETTES", 0],
     [7, "ミステイル", "THE ORAL CIGARETTES", 0],
     [8, "N.I.R.A", "THE ORAL CIGARETTES", 0],
@@ -443,8 +443,8 @@ tracks = [
     [13, "5150", "THE ORAL CIGARETTES", 0],
     [14, "リコリス", "THE ORAL CIGARETTES", 0],
     [15, "Shala La", "THE ORAL CIGARETTES", 0],
-    [16, "トナリアウ", "THE ORAL CIGARETTES", 0],
-    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 0],
+    [16, "トナリアウ", "THE ORAL CIGARETTES", 1],
+    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 1],
     [18, "BLACK MEMORY", "THE ORAL CIGARETTES", 0],
     [19, "ReI", "THE ORAL CIGARETTES", 0],
     [20, "容姿端麗な嘘", "THE ORAL CIGARETTES", 0],
@@ -460,7 +460,7 @@ tracks = [
     [2, "GET BACK", "THE ORAL CIGARETTES", 0],
     [3, "モンスターエフェクト", "THE ORAL CIGARETTES", 0],
     [4, "See the lights", "THE ORAL CIGARETTES", 0],
-    [5, "Uh...Man", "THE ORAL CIGARETTES", 0],
+    [5, "Uh...Man", "THE ORAL CIGARETTES", 1],
     [6, "出会い街", "THE ORAL CIGARETTES", 0],
     [7, "ミステイル", "THE ORAL CIGARETTES", 0],
     [8, "N.I.R.A", "THE ORAL CIGARETTES", 0],
@@ -507,8 +507,8 @@ tracks = [
     [13, "5150", "THE ORAL CIGARETTES", 0],
     [14, "リコリス", "THE ORAL CIGARETTES", 0],
     [15, "Shala La", "THE ORAL CIGARETTES", 0],
-    [16, "トナリアウ", "THE ORAL CIGARETTES", 0],
-    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 0],
+    [16, "トナリアウ", "THE ORAL CIGARETTES", 1],
+    [17, "ONE'S AGAIN", "THE ORAL CIGARETTES", 1],
     [18, "BLACK MEMORY", "THE ORAL CIGARETTES", 0],
     [19, "ReI", "THE ORAL CIGARETTES", 0],
     [20, "容姿端麗な嘘", "THE ORAL CIGARETTES", 0],
@@ -524,7 +524,7 @@ tracks = [
     [2, "GET BACK", "THE ORAL CIGARETTES", 0],
     [3, "モンスターエフェクト", "THE ORAL CIGARETTES", 0],
     [4, "See the lights", "THE ORAL CIGARETTES", 0],
-    [5, "Uh…Man", "THE ORAL CIGARETTES", 0],
+    [5, "Uh…Man", "THE ORAL CIGARETTES", 1],
     [6, "出会い街", "THE ORAL CIGARETTES", 0],
     [7, "ミステイル", "THE ORAL CIGARETTES", 0],
     [8, "N.I.R.A", "THE ORAL CIGARETTES", 0],
