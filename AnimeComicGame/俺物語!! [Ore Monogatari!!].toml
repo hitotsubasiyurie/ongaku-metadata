@@ -3,12 +3,12 @@ catalognumber = "COZP-1049~50"
 date = "2015-05-05"
 album = "未来系Answer / TRUSTRICK [Type A] Vocal, Live Event"
 tracks = [
-    [1, "未来形Answer", "TRUSTRICK", 0],
-    [2, "highness", "TRUSTRICK", 0],
-    [3, "as one (TRUST TOUR Version)", "TRUSTRICK", 0],
-    [4, "FLYING FAFNIR (TRUST TOUR Version)", "TRUSTRICK", 0],
-    [5, "未来形Answer (Instrumental)", "TRUSTRICK", 0],
-    [6, "未来形Answer (Anime OP Version)", "TRUSTRICK", 0],
+    [1, "未来形Answer", "TRUSTRICK", 1],
+    [2, "highness", "TRUSTRICK", 1],
+    [3, "as one (TRUST TOUR Version)", "TRUSTRICK", 1],
+    [4, "FLYING FAFNIR (TRUST TOUR Version)", "TRUSTRICK", 1],
+    [5, "未来形Answer (Instrumental)", "TRUSTRICK", 1],
+    [6, "未来形Answer (Anime OP Version)", "TRUSTRICK", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d61abe78-46b7-47d2-8de7-aea1457e86df", "https://vgmdb.net/album/51898"]
 
@@ -17,8 +17,8 @@ catalognumber = "COZP-1049~50"
 date = "2015-05-05"
 album = "未来系Answer / TRUSTRICK [Type A] Video"
 tracks = [
-    [1, "未来形Answer (Music Video)", "TRUSTRICK", 0],
-    [2, "未来形Answer (Making Clip)", "TRUSTRICK", 0],
+    [1, "未来形Answer (Music Video)", "TRUSTRICK", 1],
+    [2, "未来形Answer (Making Clip)", "TRUSTRICK", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d61abe78-46b7-47d2-8de7-aea1457e86df", "https://vgmdb.net/album/51898"]
 
@@ -27,12 +27,12 @@ catalognumber = "COCP-39111"
 date = "2015-05-05"
 album = "未来系Answer / TRUSTRICK [Type B]"
 tracks = [
-    [1, "未来形Answer", "TRUSTRICK", 0],
-    [2, "highness", "TRUSTRICK", 0],
-    [3, "as one (TRUST TOUR Version)", "TRUSTRICK", 0],
-    [4, "FLYING FAFNIR (TRUST TOUR Version)", "TRUSTRICK", 0],
-    [5, "未来形Answer (Instrumental)", "TRUSTRICK", 0],
-    [6, "未来形Answer (Anime OP Version)", "TRUSTRICK", 0],
+    [1, "未来形Answer", "TRUSTRICK", 1],
+    [2, "highness", "TRUSTRICK", 1],
+    [3, "as one (TRUST TOUR Version)", "TRUSTRICK", 1],
+    [4, "FLYING FAFNIR (TRUST TOUR Version)", "TRUSTRICK", 1],
+    [5, "未来形Answer (Instrumental)", "TRUSTRICK", 1],
+    [6, "未来形Answer (Anime OP Version)", "TRUSTRICK", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f9f85d9d-b3c7-49dd-bf25-cddeb8d07ed0", "https://vgmdb.net/album/51897"]
 
@@ -56,36 +56,36 @@ catalognumber = "VPCG-83501"
 date = "2015-07-22"
 album = "アニメ「俺物語!!」オリジナル・サウンドトラック"
 tracks = [
-    [1, "未来形Answer (Anime OP Version)", "TRUSTRICK", 0],
-    [2, "Fond Memories", "S.E.N.S. Project", 0],
-    [3, "Dull", "S.E.N.S. Project", 0],
-    [4, "散歩道", "S.E.N.S. Project", 0],
-    [5, "男祭り", "S.E.N.S. Project", 0],
-    [6, "俺の戦い", "S.E.N.S. Project", 0],
-    [7, "Story of Mind 〜 Little Love", "S.E.N.S. Project", 0],
-    [8, "長い影", "S.E.N.S. Project", 0],
-    [9, "てんやわんや", "S.E.N.S. Project", 0],
-    [10, "馬耳東風", "S.E.N.S. Project", 0],
-    [11, "You made my day", "S.E.N.S. Project", 0],
-    [12, "春の風", "S.E.N.S. Project", 0],
-    [13, "わた雲", "S.E.N.S. Project", 0],
-    [14, "Ramble", "S.E.N.S. Project", 0],
-    [15, "猪突猛進", "S.E.N.S. Project", 0],
-    [16, "Health First", "S.E.N.S. Project", 0],
-    [17, "Sunlight", "S.E.N.S. Project", 0],
-    [18, "気になるアイツ", "S.E.N.S. Project", 0],
-    [19, "Clumsy", "S.E.N.S. Project", 0],
-    [20, "ほっとひと息", "S.E.N.S. Project", 0],
-    [21, "Chum", "S.E.N.S. Project", 0],
-    [22, "Eye of the TAKEO", "S.E.N.S. Project", 0],
-    [23, "Hurry up", "S.E.N.S. Project", 0],
-    [24, "Scenery", "S.E.N.S. Project", 0],
-    [25, "Star in the sky", "S.E.N.S. Project", 0],
-    [26, "いつも隣で", "S.E.N.S. Project", 0],
-    [27, "俺の頂上決戦", "S.E.N.S. Project", 0],
-    [28, "小さな夢", "S.E.N.S. Project", 0],
-    [29, "Story of Mind", "S.E.N.S. Project", 0],
-    [30, "幸せのありか (Anime ED Version)", "LOCAL CONNECT", 0],
+    [1, "未来形Answer (Anime OP Version)", "TRUSTRICK", 1],
+    [2, "Fond Memories", "S.E.N.S. Project", 1],
+    [3, "Dull", "S.E.N.S. Project", 1],
+    [4, "散歩道", "S.E.N.S. Project", 1],
+    [5, "男祭り", "S.E.N.S. Project", 1],
+    [6, "俺の戦い", "S.E.N.S. Project", 1],
+    [7, "Story of Mind 〜 Little Love", "S.E.N.S. Project", 1],
+    [8, "長い影", "S.E.N.S. Project", 1],
+    [9, "てんやわんや", "S.E.N.S. Project", 1],
+    [10, "馬耳東風", "S.E.N.S. Project", 1],
+    [11, "You made my day", "S.E.N.S. Project", 1],
+    [12, "春の風", "S.E.N.S. Project", 1],
+    [13, "わた雲", "S.E.N.S. Project", 1],
+    [14, "Ramble", "S.E.N.S. Project", 1],
+    [15, "猪突猛進", "S.E.N.S. Project", 1],
+    [16, "Health First", "S.E.N.S. Project", 1],
+    [17, "Sunlight", "S.E.N.S. Project", 1],
+    [18, "気になるアイツ", "S.E.N.S. Project", 1],
+    [19, "Clumsy", "S.E.N.S. Project", 1],
+    [20, "ほっとひと息", "S.E.N.S. Project", 1],
+    [21, "Chum", "S.E.N.S. Project", 1],
+    [22, "Eye of the TAKEO", "S.E.N.S. Project", 1],
+    [23, "Hurry up", "S.E.N.S. Project", 1],
+    [24, "Scenery", "S.E.N.S. Project", 1],
+    [25, "Star in the sky", "S.E.N.S. Project", 1],
+    [26, "いつも隣で", "S.E.N.S. Project", 1],
+    [27, "俺の頂上決戦", "S.E.N.S. Project", 1],
+    [28, "小さな夢", "S.E.N.S. Project", 1],
+    [29, "Story of Mind", "S.E.N.S. Project", 1],
+    [30, "幸せのありか (Anime ED Version)", "LOCAL CONNECT", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/126d62b3-7ec0-4058-b3e3-6cc57d950724", "https://vgmdb.net/album/52906"]
 
@@ -106,7 +106,7 @@ tracks = [
     [10, "寂しさの宙から", "TRUSTRICK", 0],
     [11, "innocent promise", "TRUSTRICK", 0],
     [12, "Honey Complex", "TRUSTRICK", 0],
-    [13, "未来形Answer", "TRUSTRICK", 0],
+    [13, "未来形Answer", "TRUSTRICK", 1],
     [14, "So long", "TRUSTRICK", 0],
     [15, "Proud", "TRUSTRICK", 0],
 ]
@@ -129,7 +129,7 @@ tracks = [
     [10, "寂しさの宙から", "TRUSTRICK", 0],
     [11, "innocent promise", "TRUSTRICK", 0],
     [12, "Honey Complex", "TRUSTRICK", 0],
-    [13, "未来形Answer", "TRUSTRICK", 0],
+    [13, "未来形Answer", "TRUSTRICK", 1],
     [14, "So long", "TRUSTRICK", 0],
     [15, "Proud", "TRUSTRICK", 0],
 ]

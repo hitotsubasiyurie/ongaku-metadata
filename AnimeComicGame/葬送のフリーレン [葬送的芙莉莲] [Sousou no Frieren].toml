@@ -3,7 +3,7 @@ catalognumber = "SEXX-02556"
 date = "2023-09-29"
 album = "Anytime Anywhere / milet"
 tracks = [
-    [1, "Anytime Anywhere", "milet", 0],
+    [1, "Anytime Anywhere", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/76d44bb1-f4dc-4668-a401-5daf04f6d5ae", "https://vgmdb.net/album/132908"]
 
@@ -12,7 +12,7 @@ catalognumber = "XSCL-75~6"
 date = "2023-10-04"
 album = "THE BOOK 3 / YOASOBI"
 tracks = [
-    [1, "勇者", "YOASOBI", 0],
+    [1, "勇者", "YOASOBI", 1],
     [2, "Interlude \"Awakening\"", "YOASOBI", 0],
     [3, "祝福", "YOASOBI", 0],
     [4, "海のまにまに", "YOASOBI", 0],
@@ -30,7 +30,7 @@ catalognumber = "XSC7-6"
 date = "2023-10-21"
 album = "THE BOOK 3 / YOASOBI"
 tracks = [
-    [1, "勇者", "YOASOBI", 0],
+    [1, "勇者", "YOASOBI", 1],
     [2, "Interlude \"Awakening\"", "YOASOBI", 0],
     [3, "祝福", "YOASOBI", 0],
     [4, "海のまにまに", "YOASOBI", 0],
@@ -48,10 +48,10 @@ catalognumber = "XSCL-77~8"
 date = "2023-12-13"
 album = "勇者 / YOASOBI"
 tracks = [
-    [1, "勇者", "YOASOBI", 0],
-    [2, "The Brave", "YOASOBI", 0],
-    [3, "勇者 -Anime Edit-", "YOASOBI", 0],
-    [4, "勇者 -Instrumental-", "YOASOBI", 0],
+    [1, "勇者", "YOASOBI", 1],
+    [2, "The Brave", "YOASOBI", 1],
+    [3, "勇者 -Anime Edit-", "YOASOBI", 1],
+    [4, "勇者 -Instrumental-", "YOASOBI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/26bdd8e3-f308-461c-ae11-660876e485a5", "https://vgmdb.net/album/134518"]
 
@@ -60,10 +60,10 @@ catalognumber = "XSC7-7"
 date = "2023-12-16"
 album = "勇者 / YOASOBI"
 tracks = [
-    [1, "勇者", "", 0],
-    [2, "The Brave (「勇者」英語版)", "", 0],
-    [3, "勇者 - Anime Edit -", "", 0],
-    [4, "勇者 - Instrumental -", "", 0],
+    [1, "勇者", "", 1],
+    [2, "The Brave (「勇者」英語版)", "", 1],
+    [3, "勇者 - Anime Edit -", "", 1],
+    [4, "勇者 - Instrumental -", "", 1],
 ]
 links = ["https://vgmdb.net/album/138809"]
 
@@ -72,18 +72,18 @@ catalognumber = "N/A"
 date = "2023-12-22"
 album = "TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre-release〜"
 tracks = [
-    [1, "Journey of a Lifetime 〜 Frieren Main Theme", "Evan Call", 0],
-    [2, "The End of One Journey", "Evan Call", 0],
-    [3, "A Well-Earned Celebration", "Evan Call", 0],
-    [4, "For 1000 Years", "Evan Call", 0],
-    [5, "One Last Adventure", "Evan Call", 0],
-    [6, "Farewell, My Friend", "Evan Call", 0],
-    [7, "Departures", "Evan Call", 0],
-    [8, "Time Flows Ever Onward", "Evan Call", 0],
-    [9, "Grassy Turtles and Seed Rats", "Evan Call", 0],
-    [10, "Where the Blue-Moon Weed Grows", "Evan Call", 0],
-    [11, "Fear Brought Me This Far", "Evan Call", 0],
-    [12, "Zoltraak", "Evan Call feat. Alina Lesnik", 0],
+    [1, "Journey of a Lifetime 〜 Frieren Main Theme", "Evan Call", 1],
+    [2, "The End of One Journey", "Evan Call", 1],
+    [3, "A Well-Earned Celebration", "Evan Call", 1],
+    [4, "For 1000 Years", "Evan Call", 1],
+    [5, "One Last Adventure", "Evan Call", 1],
+    [6, "Farewell, My Friend", "Evan Call", 1],
+    [7, "Departures", "Evan Call", 1],
+    [8, "Time Flows Ever Onward", "Evan Call", 1],
+    [9, "Grassy Turtles and Seed Rats", "Evan Call", 1],
+    [10, "Where the Blue-Moon Weed Grows", "Evan Call", 1],
+    [11, "Fear Brought Me This Far", "Evan Call", 1],
+    [12, "Zoltraak", "Evan Call feat. Alina Lesnik", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a9d0628-2b0b-43c4-8142-e0085591e108", "https://vgmdb.net/album/135192"]
 
@@ -92,7 +92,7 @@ catalognumber = "UP1AS-02090"
 date = "2024-01-05"
 album = "晴る / ヨルシカ"
 tracks = [
-    [1, "晴る", "ヨルシカ", 0],
+    [1, "晴る", "ヨルシカ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e2a1bea0-fb36-4df3-83fc-5d13153dde0a", "https://vgmdb.net/album/135678"]
 
@@ -101,10 +101,10 @@ catalognumber = "SECL-2939"
 date = "2024-01-31"
 album = "Anytime Anywhere / milet"
 tracks = [
-    [1, "Anytime Anywhere", "milet", 0],
-    [2, "bliss", "milet", 0],
-    [3, "Higher", "milet", 0],
-    [4, "Wings", "milet", 0],
+    [1, "Anytime Anywhere", "milet", 1],
+    [2, "bliss", "milet", 1],
+    [3, "Higher", "milet", 1],
+    [4, "Wings", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c9e6002e-7377-4fa9-87ea-78ddae65f111", "https://vgmdb.net/album/135940"]
 
@@ -113,10 +113,10 @@ catalognumber = "SECL-2937~8"
 date = "2024-01-31"
 album = "Anytime Anywhere / milet [初回生産限定盤] Vocal"
 tracks = [
-    [1, "Anytime Anywhere", "milet", 0],
-    [2, "bliss", "milet", 0],
-    [3, "Higher", "milet", 0],
-    [4, "Wings", "milet", 0],
+    [1, "Anytime Anywhere", "milet", 1],
+    [2, "bliss", "milet", 1],
+    [3, "Higher", "milet", 1],
+    [4, "Wings", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/65a7d1fc-158d-4135-a94e-1a45a61afd1d", "https://vgmdb.net/album/134892"]
 
@@ -127,8 +127,8 @@ album = "Anytime Anywhere / milet [初回生産限定盤] Disc 2 (Blu-ray) [SECL
 tracks = [
     [1, "Hey Song", "milet", 0],
     [2, "December", "milet", 0],
-    [3, "Anytime Anywhere", "milet", 0],
-    [4, "Anytime Anywhere", "milet", 0],
+    [3, "Anytime Anywhere", "milet", 1],
+    [4, "Anytime Anywhere", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/65a7d1fc-158d-4135-a94e-1a45a61afd1d", "https://vgmdb.net/album/134892"]
 
@@ -137,11 +137,11 @@ catalognumber = "SECL-2940~1"
 date = "2024-01-31"
 album = "Anytime Anywhere / milet [アニメ絵柄期間生産限定盤] Vocal"
 tracks = [
-    [1, "Anytime Anywhere", "milet", 0],
-    [2, "bliss", "milet", 0],
-    [3, "Anytime Anywhere -TVサイズ 1stクール-", "milet", 0],
-    [4, "Anytime Anywhere -TVサイズ 2ndクール-", "milet", 0],
-    [5, "bliss -TVサイズ-", "milet", 0],
+    [1, "Anytime Anywhere", "milet", 1],
+    [2, "bliss", "milet", 1],
+    [3, "Anytime Anywhere -TVサイズ 1stクール-", "milet", 1],
+    [4, "Anytime Anywhere -TVサイズ 2ndクール-", "milet", 1],
+    [5, "bliss -TVサイズ-", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/edfb5e4e-47b3-4b08-a83d-80c816eacf24", "https://vgmdb.net/album/135190"]
 
@@ -162,40 +162,40 @@ catalognumber = "THCA-60290"
 date = "2024-04-17"
 album = "葬送のフリーレン ORIGINAL SOUNDTRACK Disc 1 [THCA-60290-1]"
 tracks = [
-    [1, "Journey of a Lifetime 〜 Frieren Main Theme", "Evan Call", 0],
-    [2, "The End of One Journey", "Evan Call", 0],
-    [3, "The Party of Heroes Returns", "Evan Call", 0],
-    [4, "A Well-Earned Celebration", "Evan Call", 0],
-    [5, "For 1000 Years", "Evan Call", 0],
-    [6, "One Last Adventure", "Evan Call", 0],
-    [7, "Farewell, My Friend", "Evan Call", 0],
-    [8, "Departures", "Evan Call", 0],
-    [9, "Time Flows Ever Onward", "Evan Call", 0],
-    [10, "Heiter's Request", "Evan Call", 0],
-    [11, "The Precious Moments We Share", "Evan Call", 0],
-    [12, "Life Is Worth Living", "Evan Call", 0],
-    [13, "Before the Light Fades", "Evan Call", 0],
-    [14, "Grassy Turtles and Seed Rats", "Evan Call", 0],
-    [15, "Where the Blue-Moon Weed Grows", "Evan Call", 0],
-    [16, "Growing Up", "Evan Call", 0],
-    [17, "Phantoms of the Dead", "Evan Call", 0],
-    [18, "Magical Defense Training", "Evan Call", 0],
-    [19, "Qual", "Evan Call", 0],
-    [20, "Evolution of Magic", "Evan Call", 0],
-    [21, "In Times of Peace", "Evan Call", 0],
-    [22, "The Land Where Souls Rest", "Evan Call", 0],
-    [23, "Where Hidden Magic Sleeps", "Evan Call", 0],
-    [24, "Great Mage Flamme", "Evan Call", 0],
-    [25, "Goodbye for Now, Eisen", "Evan Call", 0],
-    [26, "More Than Mere Tales", "Evan Call", 0],
-    [27, "The Warrior's Path", "Evan Call", 0],
-    [28, "Fear Brought Me This Far", "Evan Call", 0],
-    [29, "Dragon Smasher", "Evan Call", 0],
-    [30, "Lift My Head From Shadow", "Evan Call", 0],
-    [31, "Life and Legacy", "Evan Call", 0],
-    [32, "Memories for My Master", "Evan Call", 0],
-    [33, "To Travel for Aureole", "Evan Call", 0],
-    [34, "Beyond the Journey's End", "Evan Call", 0],
+    [1, "Journey of a Lifetime 〜 Frieren Main Theme", "Evan Call", 1],
+    [2, "The End of One Journey", "Evan Call", 1],
+    [3, "The Party of Heroes Returns", "Evan Call", 1],
+    [4, "A Well-Earned Celebration", "Evan Call", 1],
+    [5, "For 1000 Years", "Evan Call", 1],
+    [6, "One Last Adventure", "Evan Call", 1],
+    [7, "Farewell, My Friend", "Evan Call", 1],
+    [8, "Departures", "Evan Call", 1],
+    [9, "Time Flows Ever Onward", "Evan Call", 1],
+    [10, "Heiter's Request", "Evan Call", 1],
+    [11, "The Precious Moments We Share", "Evan Call", 1],
+    [12, "Life Is Worth Living", "Evan Call", 1],
+    [13, "Before the Light Fades", "Evan Call", 1],
+    [14, "Grassy Turtles and Seed Rats", "Evan Call", 1],
+    [15, "Where the Blue-Moon Weed Grows", "Evan Call", 1],
+    [16, "Growing Up", "Evan Call", 1],
+    [17, "Phantoms of the Dead", "Evan Call", 1],
+    [18, "Magical Defense Training", "Evan Call", 1],
+    [19, "Qual", "Evan Call", 1],
+    [20, "Evolution of Magic", "Evan Call", 1],
+    [21, "In Times of Peace", "Evan Call", 1],
+    [22, "The Land Where Souls Rest", "Evan Call", 1],
+    [23, "Where Hidden Magic Sleeps", "Evan Call", 1],
+    [24, "Great Mage Flamme", "Evan Call", 1],
+    [25, "Goodbye for Now, Eisen", "Evan Call", 1],
+    [26, "More Than Mere Tales", "Evan Call", 1],
+    [27, "The Warrior's Path", "Evan Call", 1],
+    [28, "Fear Brought Me This Far", "Evan Call", 1],
+    [29, "Dragon Smasher", "Evan Call", 1],
+    [30, "Lift My Head From Shadow", "Evan Call", 1],
+    [31, "Life and Legacy", "Evan Call", 1],
+    [32, "Memories for My Master", "Evan Call", 1],
+    [33, "To Travel for Aureole", "Evan Call", 1],
+    [34, "Beyond the Journey's End", "Evan Call", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6c130c2a-a401-4fc5-b836-c1003b3c1b3b", "https://vgmdb.net/album/135382"]
 
@@ -204,42 +204,42 @@ catalognumber = "THCA-60290"
 date = "2024-04-17"
 album = "葬送のフリーレン ORIGINAL SOUNDTRACK Disc 2 [THCA-60290-2]"
 tracks = [
-    [1, "Zoltraak", "Evan Call feat. Alina Lesnik", 0],
-    [2, "Frieren the Slayer", "Evan Call", 0],
-    [3, "Across the Northern Lands", "Evan Call", 0],
-    [4, "Gone, but Not Forgotten", "Evan Call", 0],
-    [5, "Things That Scheme in the Dark", "Evan Call", 0],
-    [6, "Deep in the Dungeon", "Evan Call", 0],
-    [7, "Time Flows Ever Onward (Short Ver.)", "Evan Call", 0],
-    [8, "Sleepy Frieren", "Evan Call", 0],
-    [9, "Shipwrecks and Treasure", "Evan Call", 0],
-    [10, "A Sunrise Worth Seeing", "Evan Call", 0],
-    [11, "New Friends and Old Faces", "Evan Call", 0],
-    [12, "Sneaking and Shopping", "Evan Call", 0],
-    [13, "Drunkards and Mimics", "Evan Call", 0],
-    [14, "Stark the Pure", "Evan Call", 0],
-    [15, "Odd Clouds", "Evan Call", 0],
-    [16, "To Catch a Stille", "Evan Call", 0],
-    [17, "A Beautiful Word", "Evan Call", 0],
-    [18, "Ancient Magic", "Evan Call", 0],
-    [19, "Knife to the Throat", "Evan Call", 0],
-    [20, "Demon's Bane", "Evan Call", 0],
-    [21, "Seeds of the Past Bear Today's Fruit", "Evan Call", 0],
-    [22, "Headpats and Praise", "Evan Call", 0],
-    [23, "From the Heart", "Evan Call", 0],
-    [24, "Pudding With Friends", "Evan Call", 0],
-    [25, "Fern's Birthday", "Evan Call", 0],
-    [26, "Privilege of the Young", "Evan Call", 0],
-    [27, "Super Secret Magic Potions", "Evan Call", 0],
-    [28, "Handsome Pose Collection", "Evan Call", 0],
-    [29, "Too Many Grimoires", "Evan Call", 0],
-    [30, "Stories Yet Untold", "Evan Call", 0],
-    [31, "Old Man Voll", "Evan Call", 0],
-    [32, "The Magic Within", "Evan Call", 0],
-    [33, "New and Dangerous Magic", "Evan Call feat. Alina Lesnik", 0],
-    [34, "Waltz for Stark and Fern", "Evan Call", 0],
-    [35, "Mirrored Lotus", "Evan Call", 0],
-    [36, "Song for the Beyond", "Evan Call", 0],
+    [1, "Zoltraak", "Evan Call feat. Alina Lesnik", 1],
+    [2, "Frieren the Slayer", "Evan Call", 1],
+    [3, "Across the Northern Lands", "Evan Call", 1],
+    [4, "Gone, but Not Forgotten", "Evan Call", 1],
+    [5, "Things That Scheme in the Dark", "Evan Call", 1],
+    [6, "Deep in the Dungeon", "Evan Call", 1],
+    [7, "Time Flows Ever Onward (Short Ver.)", "Evan Call", 1],
+    [8, "Sleepy Frieren", "Evan Call", 1],
+    [9, "Shipwrecks and Treasure", "Evan Call", 1],
+    [10, "A Sunrise Worth Seeing", "Evan Call", 1],
+    [11, "New Friends and Old Faces", "Evan Call", 1],
+    [12, "Sneaking and Shopping", "Evan Call", 1],
+    [13, "Drunkards and Mimics", "Evan Call", 1],
+    [14, "Stark the Pure", "Evan Call", 1],
+    [15, "Odd Clouds", "Evan Call", 1],
+    [16, "To Catch a Stille", "Evan Call", 1],
+    [17, "A Beautiful Word", "Evan Call", 1],
+    [18, "Ancient Magic", "Evan Call", 1],
+    [19, "Knife to the Throat", "Evan Call", 1],
+    [20, "Demon's Bane", "Evan Call", 1],
+    [21, "Seeds of the Past Bear Today's Fruit", "Evan Call", 1],
+    [22, "Headpats and Praise", "Evan Call", 1],
+    [23, "From the Heart", "Evan Call", 1],
+    [24, "Pudding With Friends", "Evan Call", 1],
+    [25, "Fern's Birthday", "Evan Call", 1],
+    [26, "Privilege of the Young", "Evan Call", 1],
+    [27, "Super Secret Magic Potions", "Evan Call", 1],
+    [28, "Handsome Pose Collection", "Evan Call", 1],
+    [29, "Too Many Grimoires", "Evan Call", 1],
+    [30, "Stories Yet Untold", "Evan Call", 1],
+    [31, "Old Man Voll", "Evan Call", 1],
+    [32, "The Magic Within", "Evan Call", 1],
+    [33, "New and Dangerous Magic", "Evan Call feat. Alina Lesnik", 1],
+    [34, "Waltz for Stark and Fern", "Evan Call", 1],
+    [35, "Mirrored Lotus", "Evan Call", 1],
+    [36, "Song for the Beyond", "Evan Call", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6c130c2a-a401-4fc5-b836-c1003b3c1b3b", "https://vgmdb.net/album/135382"]
 
@@ -272,7 +272,7 @@ tracks = [
     [11, "b r o k e n", "milet", 0],
     [12, "絆ノ奇跡", "milet", 0],
     [13, "コイコガレ", "milet", 0],
-    [14, "Anytime Anywhere", "milet", 0],
+    [14, "Anytime Anywhere", "milet", 1],
     [15, "Flare", "milet", 0],
     [16, "Hey Song", "milet", 0],
     [17, "Time Is On Our Side", "milet", 0],
@@ -289,7 +289,7 @@ catalognumber = "XSJL-5"
 date = "2024-10-23"
 album = "THE BOOK 3 / YOASOBI"
 tracks = [
-    [1, "勇者", "YOASOBI", 0],
+    [1, "勇者", "YOASOBI", 1],
     [2, "Interlude \"Awakening\"", "YOASOBI", 0],
     [3, "祝福", "YOASOBI", 0],
     [4, "海のまにまに", "YOASOBI", 0],
@@ -308,9 +308,9 @@ date = "2024-11-20"
 album = "BRAIN HACK / Parabola"
 tracks = [
     [1, "BRAIN HACK", "Parabola", 0],
-    [2, "勇者 –アカペラアレンジver.–", "Parabola", 0],
+    [2, "勇者 –アカペラアレンジver.–", "Parabola", 1],
     [3, "BRAIN HACK(No Lead Vocal)", "Parabola", 0],
-    [4, "勇者 –アカペラアレンジver.–(No Lead Vocal)", "Parabola", 0],
+    [4, "勇者 –アカペラアレンジver.–(No Lead Vocal)", "Parabola", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f1973842-de9c-4f8d-a245-e34ec196f396", "https://vgmdb.net/album/144669"]
 
@@ -339,11 +339,11 @@ tracks = [
     [18, "Kiyoka and Miyo (2025 live version)", "Evan Call", 0],
     [19, "Tiny Little Life (2025 live version)", "Evan Call", 0],
     [20, "Journey of a Lifetime ~ Frieren Main Theme (2025 live version)", "Evan Call", 0],
-    [21, "Fear Brought Me This Far (2025 live version)", "Evan Call", 0],
-    [22, "Dragon Smasher (2025 live version)", "Evan Call", 0],
+    [21, "Fear Brought Me This Far (2025 live version)", "Evan Call", 1],
+    [22, "Dragon Smasher (2025 live version)", "Evan Call", 1],
     [23, "Time Flows Ever Onward (2025 live version)", "Evan Call", 0],
-    [24, "Frieren the Slayer (2025 live version)", "Evan Call", 0],
-    [25, "Zoltraak (2025 live version)", "Evan Call feat. Alina Lesnik", 0],
+    [24, "Frieren the Slayer (2025 live version)", "Evan Call", 1],
+    [25, "Zoltraak (2025 live version)", "Evan Call feat. Alina Lesnik", 1],
     [26, "Welcome to Paldea Post Office / Paper Airplane (instrumental version) [2025 live version]", "Evan Call", 0],
     [27, "The Power of Gundam (2025 live version)", "Evan Call", 0],
     [28, "Dream Beyond Forever [2025 live version]", "Evan Call feat.Úyanga Bold", 0],
@@ -374,10 +374,10 @@ tracks = [
     [15, "Kiyoka and Miyo", "", 0],
     [16, "Tiny Little Life", "", 0],
     [17, "Journey of a Lifetime ~ Frieren Main Theme", "", 0],
-    [18, "Dragon Smasher", "", 0],
+    [18, "Dragon Smasher", "", 1],
     [19, "Time Flows Ever Onward", "", 0],
-    [20, "Frieren the Slayer", "", 0],
-    [21, "Zoltraak", "", 0],
+    [20, "Frieren the Slayer", "", 1],
+    [21, "Zoltraak", "", 1],
     [22, "Welcome to Paldea Post Office ~ Paper Airplane (Instrumental ver.)", "", 0],
     [23, "The Power of Gundam GUNDAM: Next Universal Century", "", 0],
     [24, "Dream Beyond Forever feat. Yui Mugino", "", 0],
@@ -417,7 +417,7 @@ tracks = [
     [2, "Trace", "milet", 0],
     [3, "The Story of Us - Anime size", "milet", 0],
     [4, "Trace - Short size", "milet", 0],
-    [5, "Anytime Anywhere - A.Gt Session", "milet", 0],
+    [5, "Anytime Anywhere - A.Gt Session", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7dda93c5-2f9c-4ce1-a9d4-c36376971632", "https://vgmdb.net/album/156276"]
 
@@ -438,7 +438,7 @@ album = "The Story of Us / milet [初回生産限定盤] Arrangement, Vocal"
 tracks = [
     [1, "The Story of Us", "milet", 0],
     [2, "Trace", "milet", 0],
-    [3, "Anytime Anywhere - Piano Session", "milet", 0],
+    [3, "Anytime Anywhere - Piano Session", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cace6d93-d248-4a52-b10a-494656f2e939", "https://vgmdb.net/album/156277"]
 
@@ -463,7 +463,7 @@ album = "The Story of Us / milet"
 tracks = [
     [1, "The Story of Us", "milet", 0],
     [2, "Trace", "milet", 0],
-    [3, "Anytime Anywhere - Piano Session", "milet", 0],
+    [3, "Anytime Anywhere - Piano Session", "milet", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1a3741ea-9e0f-4403-a344-3809e0549478", "https://vgmdb.net/album/156278"]
 

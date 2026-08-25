@@ -17,10 +17,10 @@ catalognumber = "COCC-17137"
 date = "2016-11-02"
 album = "ドキドキの風 / 村川梨衣"
 tracks = [
-    [1, "ドキドキの風", "村川梨衣", 0],
-    [2, "RiEtion please♥", "村川梨衣", 0],
-    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 0],
-    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 0],
+    [1, "ドキドキの風", "村川梨衣", 1],
+    [2, "RiEtion please♥", "村川梨衣", 1],
+    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 1],
+    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d1c1b78-f3f7-4bac-8260-576b5d7c5ac4", "https://vgmdb.net/album/60796"]
 
@@ -29,10 +29,10 @@ catalognumber = "COZC-1250~1"
 date = "2016-11-02"
 album = "ドキドキの風 / 村川梨衣 Disc 1 (CD) [COZC-1250]"
 tracks = [
-    [1, "ドキドキの風", "村川梨衣", 0],
-    [2, "RiEtion please♥", "村川梨衣", 0],
-    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 0],
-    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 0],
+    [1, "ドキドキの風", "村川梨衣", 1],
+    [2, "RiEtion please♥", "村川梨衣", 1],
+    [3, "ドキドキの風 (Instrumental)", "村川梨衣", 1],
+    [4, "RiEtion please♥ (Instrumental)", "村川梨衣", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d1c1b78-f3f7-4bac-8260-576b5d7c5ac4", "https://vgmdb.net/album/60797"]
 
@@ -41,8 +41,8 @@ catalognumber = "COZC-1250~1"
 date = "2016-11-02"
 album = "ドキドキの風 / 村川梨衣 Disc 2 (DVD) [COZC-1251]"
 tracks = [
-    [1, "ドキドキの風 (ミュージックビデオ)", "", 0],
-    [2, "ドキドキの風 (メイキング映像)", "", 0],
+    [1, "ドキドキの風 (ミュージックビデオ)", "", 1],
+    [2, "ドキドキの風 (メイキング映像)", "", 1],
 ]
 links = ["https://vgmdb.net/album/60797"]
 
@@ -51,12 +51,12 @@ catalognumber = "COCC-17233"
 date = "2016-11-23"
 album = "Prince×Prince / From4to7"
 tracks = [
-    [1, "Prince×Prince", "From4to7", 0],
-    [2, "ノンストップ☆らぶモーション", "From4to7", 0],
-    [3, "未来へのエール", "From4to7", 0],
-    [4, "Prince×Prince (off vocal)", "From4to7", 0],
-    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 0],
-    [6, "未来へのエール (off vocal)", "From4to7", 0],
+    [1, "Prince×Prince", "From4to7", 1],
+    [2, "ノンストップ☆らぶモーション", "From4to7", 1],
+    [3, "未来へのエール", "From4to7", 1],
+    [4, "Prince×Prince (off vocal)", "From4to7", 1],
+    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 1],
+    [6, "未来へのエール (off vocal)", "From4to7", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/155f6ae4-d3bf-4f50-b0a6-67b51d66c2bd", "https://vgmdb.net/album/60794"]
 
@@ -65,12 +65,12 @@ catalognumber = "COZC-1260~1"
 date = "2016-11-23"
 album = "Prince×Prince / From4to7 [Limited Edition] Disc 1 (CD) [COZC-1260]"
 tracks = [
-    [1, "Prince×Prince", "From4to7", 0],
-    [2, "ノンストップ☆らぶモーション", "From4to7", 0],
-    [3, "未来へのエール", "From4to7", 0],
-    [4, "Prince×Prince (off vocal)", "From4to7", 0],
-    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 0],
-    [6, "未来へのエール (off vocal)", "From4to7", 0],
+    [1, "Prince×Prince", "From4to7", 1],
+    [2, "ノンストップ☆らぶモーション", "From4to7", 1],
+    [3, "未来へのエール", "From4to7", 1],
+    [4, "Prince×Prince (off vocal)", "From4to7", 1],
+    [5, "ノンストップ☆らぶモーション (off vocal)", "From4to7", 1],
+    [6, "未来へのエール (off vocal)", "From4to7", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/155f6ae4-d3bf-4f50-b0a6-67b51d66c2bd", "https://vgmdb.net/album/60795"]
 
@@ -98,7 +98,7 @@ album = "RiEMUSiC / 村川梨衣 Disc 1 (CD) [COZX-1270]"
 tracks = [
     [1, "Anytime, Anywhere", "村川梨衣", 0],
     [2, "Dreamy Lights", "村川梨衣", 0],
-    [3, "ドキドキの風", "村川梨衣", 0],
+    [3, "ドキドキの風", "村川梨衣", 1],
     [4, "Breath", "村川梨衣", 0],
     [5, "MaGiK", "村川梨衣", 0],
     [6, "恋するパレード", "村川梨衣", 0],
@@ -129,7 +129,7 @@ album = "RiEMUSiC / 村川梨衣"
 tracks = [
     [1, "Anytime, Anywhere", "村川梨衣", 0],
     [2, "Dreamy Lights", "村川梨衣", 0],
-    [3, "ドキドキの風", "村川梨衣", 0],
+    [3, "ドキドキの風", "村川梨衣", 1],
     [4, "Breath", "村川梨衣", 0],
     [5, "MaGiK", "村川梨衣", 0],
     [6, "恋するパレード", "村川梨衣", 0],
