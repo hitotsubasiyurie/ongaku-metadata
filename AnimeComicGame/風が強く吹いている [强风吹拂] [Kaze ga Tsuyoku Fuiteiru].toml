@@ -12,9 +12,9 @@ catalognumber = "TFCC-89664"
 date = "2018-11-07"
 album = "Catch up, latency / UNISON SQUARE GARDEN"
 tracks = [
-    [1, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
-    [2, "たらればわたがし", "UNISON SQUARE GARDEN", 0],
-    [3, "ここで会ったがけもの道", "UNISON SQUARE GARDEN", 0],
+    [1, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
+    [2, "たらればわたがし", "UNISON SQUARE GARDEN", 1],
+    [3, "ここで会ったがけもの道", "UNISON SQUARE GARDEN", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/79be7b7a-4ad4-4a85-be0f-5bbe4854a7a2", "https://vgmdb.net/album/80478"]
 
@@ -23,9 +23,9 @@ catalognumber = "TFCC-89663"
 date = "2018-11-07"
 album = "Catch up, latency / UNISON SQUARE GARDEN [Limited Edition] Vocal"
 tracks = [
-    [1, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
-    [2, "たらればわたがし", "UNISON SQUARE GARDEN", 0],
-    [3, "ここで会ったがけもの道", "UNISON SQUARE GARDEN", 0],
+    [1, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
+    [2, "たらればわたがし", "UNISON SQUARE GARDEN", 1],
+    [3, "ここで会ったがけもの道", "UNISON SQUARE GARDEN", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4358f03f-160d-41f6-905c-2b5794f113fb", "https://vgmdb.net/album/80477"]
 
@@ -72,19 +72,19 @@ catalognumber = "TFCC-86648"
 date = "2018-11-28"
 album = "PURE"
 tracks = [
-    [1, "Secret", "向井太一", 0],
-    [2, "Crazy", "向井太一", 0],
-    [3, "Break up", "向井太一", 0],
-    [4, "Haters", "向井太一", 0],
-    [5, "Agony", "向井太一", 0],
-    [6, "Answer", "向井太一 feat. KREVA", 0],
-    [7, "リセット", "向井太一", 0],
-    [8, "午後8時", "向井太一", 0],
-    [9, "ポートマン", "向井太一", 0],
-    [10, "Pure", "向井太一", 0],
-    [11, "Ego", "向井太一", 0],
-    [12, "Gimme", "向井太一", 0],
-    [13, "Siren", "向井太一", 0],
+    [1, "Secret", "向井太一", 1],
+    [2, "Crazy", "向井太一", 1],
+    [3, "Break up", "向井太一", 1],
+    [4, "Haters", "向井太一", 1],
+    [5, "Agony", "向井太一", 1],
+    [6, "Answer", "向井太一 feat. KREVA", 1],
+    [7, "リセット", "向井太一", 1],
+    [8, "午後8時", "向井太一", 1],
+    [9, "ポートマン", "向井太一", 1],
+    [10, "Pure", "向井太一", 1],
+    [11, "Ego", "向井太一", 1],
+    [12, "Gimme", "向井太一", 1],
+    [13, "Siren", "向井太一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ed4c28b9-6166-4a63-96a8-082825ae3f24"]
 
@@ -93,31 +93,31 @@ catalognumber = "THCA-60236"
 date = "2018-12-19"
 album = "TVアニメ「風が強く吹いている」オリジナルサウンドトラック Disc 1 [THCA-60236-1]"
 tracks = [
-    [1, "We Must Go", "林ゆうき", 0],
-    [2, "キャンパスライフ", "林ゆうき", 0],
-    [3, "竹青荘", "林ゆうき", 0],
-    [4, "流星", "林ゆうき", 0],
-    [5, "走るということ", "林ゆうき", 0],
-    [6, "住人たち", "林ゆうき", 0],
-    [7, "本音", "林ゆうき", 0],
-    [8, "紅一点", "林ゆうき", 0],
-    [9, "Still Wear The Jersey", "林ゆうき", 0],
-    [10, "過去", "林ゆうき", 0],
-    [11, "お互い", "林ゆうき", 0],
-    [12, "叫び", "林ゆうき", 0],
-    [13, "一人", "林ゆうき", 0],
-    [14, "アイキャッチ", "林ゆうき", 0],
-    [15, "策略家・ハイジ", "林ゆうき", 0],
-    [16, "鬼軍曹", "林ゆうき", 0],
-    [17, "チーム", "林ゆうき", 0],
-    [18, "In a Sweat !", "林ゆうき", 0],
-    [19, "いざ箱根へ", "林ゆうき", 0],
-    [20, "踏み出す一歩", "林ゆうき", 0],
-    [21, "現実", "林ゆうき", 0],
-    [22, "夜空", "林ゆうき", 0],
-    [23, "記録会", "林ゆうき", 0],
-    [24, "距離", "林ゆうき", 0],
-    [25, "信頼", "林ゆうき", 0],
+    [1, "We Must Go", "林ゆうき", 1],
+    [2, "キャンパスライフ", "林ゆうき", 1],
+    [3, "竹青荘", "林ゆうき", 1],
+    [4, "流星", "林ゆうき", 1],
+    [5, "走るということ", "林ゆうき", 1],
+    [6, "住人たち", "林ゆうき", 1],
+    [7, "本音", "林ゆうき", 1],
+    [8, "紅一点", "林ゆうき", 1],
+    [9, "Still Wear The Jersey", "林ゆうき", 1],
+    [10, "過去", "林ゆうき", 1],
+    [11, "お互い", "林ゆうき", 1],
+    [12, "叫び", "林ゆうき", 1],
+    [13, "一人", "林ゆうき", 1],
+    [14, "アイキャッチ", "林ゆうき", 1],
+    [15, "策略家・ハイジ", "林ゆうき", 1],
+    [16, "鬼軍曹", "林ゆうき", 1],
+    [17, "チーム", "林ゆうき", 1],
+    [18, "In a Sweat !", "林ゆうき", 1],
+    [19, "いざ箱根へ", "林ゆうき", 1],
+    [20, "踏み出す一歩", "林ゆうき", 1],
+    [21, "現実", "林ゆうき", 1],
+    [22, "夜空", "林ゆうき", 1],
+    [23, "記録会", "林ゆうき", 1],
+    [24, "距離", "林ゆうき", 1],
+    [25, "信頼", "林ゆうき", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b96c9f2-7afc-42b6-a14b-8bc24a77fd8a", "https://vgmdb.net/album/81491"]
 
@@ -126,32 +126,32 @@ catalognumber = "THCA-60236"
 date = "2018-12-19"
 album = "TVアニメ「風が強く吹いている」オリジナルサウンドトラック Disc 2 [THCA-60236-2]"
 tracks = [
-    [1, "箱根の山は天下の険", "林ゆうき", 0],
-    [2, "Slice of Life", "林ゆうき", 0],
-    [3, "立場", "林ゆうき", 0],
-    [4, "逃避", "林ゆうき", 0],
-    [5, "Explanation", "林ゆうき", 0],
-    [6, "季節", "林ゆうき", 0],
-    [7, "予選会", "林ゆうき", 0],
-    [8, "変化", "林ゆうき", 0],
-    [9, "ハイジと藤岡", "林ゆうき", 0],
-    [10, "作戦", "林ゆうき", 0],
-    [11, "トラブル", "林ゆうき", 0],
-    [12, "後悔", "林ゆうき", 0],
-    [13, "強さ", "林ゆうき", 0],
-    [14, "賭け", "林ゆうき", 0],
-    [15, "孤独", "林ゆうき", 0],
-    [16, "速度とリズム", "林ゆうき", 0],
-    [17, "自由で平等な場所", "林ゆうき", 0],
-    [18, "夢", "林ゆうき", 0],
-    [19, "黒い弾丸", "林ゆうき", 0],
-    [20, "混迷", "林ゆうき", 0],
-    [21, "覚悟", "林ゆうき", 0],
-    [22, "風が強く吹いている", "林ゆうき", 0],
-    [23, "頂点", "林ゆうき", 0],
-    [24, "彼方へ", "林ゆうき", 0],
-    [25, "Catch up, latency (TV Size)", "UNISON SQUARE GARDEN", 0],
-    [26, "リセット (TV Size)", "向井太一", 0],
+    [1, "箱根の山は天下の険", "林ゆうき", 1],
+    [2, "Slice of Life", "林ゆうき", 1],
+    [3, "立場", "林ゆうき", 1],
+    [4, "逃避", "林ゆうき", 1],
+    [5, "Explanation", "林ゆうき", 1],
+    [6, "季節", "林ゆうき", 1],
+    [7, "予選会", "林ゆうき", 1],
+    [8, "変化", "林ゆうき", 1],
+    [9, "ハイジと藤岡", "林ゆうき", 1],
+    [10, "作戦", "林ゆうき", 1],
+    [11, "トラブル", "林ゆうき", 1],
+    [12, "後悔", "林ゆうき", 1],
+    [13, "強さ", "林ゆうき", 1],
+    [14, "賭け", "林ゆうき", 1],
+    [15, "孤独", "林ゆうき", 1],
+    [16, "速度とリズム", "林ゆうき", 1],
+    [17, "自由で平等な場所", "林ゆうき", 1],
+    [18, "夢", "林ゆうき", 1],
+    [19, "黒い弾丸", "林ゆうき", 1],
+    [20, "混迷", "林ゆうき", 1],
+    [21, "覚悟", "林ゆうき", 1],
+    [22, "風が強く吹いている", "林ゆうき", 1],
+    [23, "頂点", "林ゆうき", 1],
+    [24, "彼方へ", "林ゆうき", 1],
+    [25, "Catch up, latency (TV Size)", "UNISON SQUARE GARDEN", 1],
+    [26, "リセット (TV Size)", "向井太一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b96c9f2-7afc-42b6-a14b-8bc24a77fd8a", "https://vgmdb.net/album/81491"]
 
@@ -160,7 +160,7 @@ catalognumber = "TBR28401D-2"
 date = "2019-01-16"
 album = "風が強く吹いている スペシャルドラマCD「Spring has come. 」"
 tracks = [
-    [1, "Spring has come.", "大塚剛央 / 豊永利行 / 内山昂輝 / 入野自由 / 榎木淳弥 / 上村祐翔 / 興津和幸 / 株元英彰 / 北沢 力 / 星野貴紀", 0],
+    [1, "Spring has come.", "大塚剛央 / 豊永利行 / 内山昂輝 / 入野自由 / 榎木淳弥 / 上村祐翔 / 興津和幸 / 株元英彰 / 北沢 力 / 星野貴紀", 1],
 ]
 links = ["https://vgmdb.net/album/81049"]
 
@@ -169,7 +169,7 @@ catalognumber = "TFDS-00518"
 date = "2019-01-23"
 album = "風強く、君熱く。 / Q-MHz feat. 日高光啓 a.k.a. SKY-HI"
 tracks = [
-    [1, "風強く、君熱く。", "Q-MHz feat. 日高光啓 a.k.a. SKY-HI", 0],
+    [1, "風強く、君熱く。", "Q-MHz feat. 日高光啓 a.k.a. SKY-HI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0da6215e-a7b8-4164-b89a-2e354d62768e", "https://vgmdb.net/album/84095"]
 
@@ -178,8 +178,8 @@ catalognumber = "TFDS-00520"
 date = "2019-02-01"
 album = "道 / 向井太一"
 tracks = [
-    [1, "道", "向井太一", 0],
-    [2, "Break up ( Part2 )", "向井太一 feat. ☆Taku Takahashi", 0],
+    [1, "道", "向井太一", 1],
+    [2, "Break up ( Part2 )", "向井太一 feat. ☆Taku Takahashi", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fc6749d2-e43a-471e-9438-9566dd41366d", "https://vgmdb.net/album/90533"]
 
@@ -221,7 +221,7 @@ date = "2019-10-11"
 album = "Phantom Joke / UNISON SQUARE GARDEN [初回限定盤] Video Disc 3"
 tracks = [
     [1, "fake town baby", "UNISON SQUARE GARDEN", 0],
-    [2, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [2, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [3, "ドラムソロ", "UNISON SQUARE GARDEN", 0],
     [4, "MIDNIGHT JUNGLE", "UNISON SQUARE GARDEN", 0],
     [5, "君の瞳に恋してない", "UNISON SQUARE GARDEN", 0],
@@ -258,7 +258,7 @@ tracks = [
     [1, "Hatch I need", "UNISON SQUARE GARDEN", 0],
     [2, "マーメイドスキャンダラス", "UNISON SQUARE GARDEN", 0],
     [3, "スロウカーヴは打てない (that made me crazy)", "UNISON SQUARE GARDEN", 0],
-    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [5, "摂食ビジランテ", "UNISON SQUARE GARDEN", 0],
     [6, "夏影テールライト", "UNISON SQUARE GARDEN", 0],
     [7, "Phantom Joke", "UNISON SQUARE GARDEN", 0],
@@ -278,7 +278,7 @@ tracks = [
     [1, "Hatch I need", "UNISON SQUARE GARDEN", 0],
     [2, "マーメイドスキャンダラス", "UNISON SQUARE GARDEN", 0],
     [3, "スロウカーヴは打てない (that made me crazy)", "UNISON SQUARE GARDEN", 0],
-    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [5, "摂食ビジランテ", "UNISON SQUARE GARDEN", 0],
     [6, "夏影テールライト", "UNISON SQUARE GARDEN", 0],
     [7, "Phantom Joke", "UNISON SQUARE GARDEN", 0],
@@ -329,7 +329,7 @@ tracks = [
     [1, "Hatch I need", "UNISON SQUARE GARDEN", 0],
     [2, "マーメイドスキャンダラス", "UNISON SQUARE GARDEN", 0],
     [3, "スロウカーヴは打てない (that made me crazy)", "UNISON SQUARE GARDEN", 0],
-    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [5, "摂食ビジランテ", "UNISON SQUARE GARDEN", 0],
     [6, "夏影テールライト", "UNISON SQUARE GARDEN", 0],
     [7, "Phantom Joke", "UNISON SQUARE GARDEN", 0],
@@ -381,7 +381,7 @@ tracks = [
     [1, "Hatch I need", "UNISON SQUARE GARDEN", 0],
     [2, "マーメイドスキャンダラス", "UNISON SQUARE GARDEN", 0],
     [3, "スロウカーヴは打てない (that made me crazy)", "UNISON SQUARE GARDEN", 0],
-    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [4, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [5, "摂食ビジランテ", "UNISON SQUARE GARDEN", 0],
     [6, "夏影テールライト", "UNISON SQUARE GARDEN", 0],
     [7, "Phantom Joke", "UNISON SQUARE GARDEN", 0],
@@ -462,7 +462,7 @@ tracks = [
     [3, "何かが変わりそう", "UNISON SQUARE GARDEN", 0],
     [4, "アトラクションがはじまる(they call it “NO.6”)", "UNISON SQUARE GARDEN", 0],
     [5, "メカトル時空探検隊", "UNISON SQUARE GARDEN", 0],
-    [6, "Catch up, latency", "UNISON SQUARE GARDEN", 0],
+    [6, "Catch up, latency", "UNISON SQUARE GARDEN", 1],
     [7, "MR.アンディ", "UNISON SQUARE GARDEN", 0],
     [8, "夢が覚めたら(at that river)", "UNISON SQUARE GARDEN", 0],
     [9, "Nihil Pip Viper", "UNISON SQUARE GARDEN", 0],

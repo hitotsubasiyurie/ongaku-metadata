@@ -3,7 +3,7 @@ catalognumber = "AIXX-01176"
 date = "2018-01-20"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 0],
+    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dae8fbb8-e10c-447b-932f-62978a0bbbb0", "https://vgmdb.net/album/74389"]
 
@@ -12,10 +12,10 @@ catalognumber = "AICL-3494~5"
 date = "2018-03-07"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉 [初回盤] Disc 1 (CD) [AICL-3494]"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 0],
-    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 0],
-    [3, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 0],
-    [4, "GLAMOROUS SKY (Re:Present 2018) -instrumental-", "中島美嘉", 0],
+    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 1],
+    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 1],
+    [3, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 1],
+    [4, "GLAMOROUS SKY (Re:Present 2018) -instrumental-", "中島美嘉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d70d9d59-2a75-435a-8c8e-dcb019f0a8b8", "https://vgmdb.net/album/74502"]
 
@@ -24,8 +24,8 @@ catalognumber = "AICL-3494~5"
 date = "2018-03-07"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉 [初回盤] Disc 2 (DVD) [AICL-3495]"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE) (Music Video)", "", 0],
-    [2, "KISS OF DEATH (Produced by HYDE) (Making of Music Video)", "", 0],
+    [1, "KISS OF DEATH (Produced by HYDE) (Music Video)", "", 1],
+    [2, "KISS OF DEATH (Produced by HYDE) (Making of Music Video)", "", 1],
 ]
 links = ["https://vgmdb.net/album/74502"]
 
@@ -34,10 +34,10 @@ catalognumber = "AICL-3496"
 date = "2018-03-07"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 0],
-    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 0],
-    [3, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 0],
-    [4, "GLAMOROUS SKY (Re:Present 2018) -instrumental-", "中島美嘉", 0],
+    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 1],
+    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 1],
+    [3, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 1],
+    [4, "GLAMOROUS SKY (Re:Present 2018) -instrumental-", "中島美嘉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d70d9d59-2a75-435a-8c8e-dcb019f0a8b8", "https://vgmdb.net/album/74503"]
 
@@ -55,10 +55,10 @@ catalognumber = "AICL-3492~3"
 date = "2018-03-07"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉 [アニメ盤] Disc 1 (CD) [AICL-3492]"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 0],
-    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 0],
-    [3, "KISS OF DEATH (Produced by HYDE) -TV size-", "中島美嘉", 0],
-    [4, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 0],
+    [1, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 1],
+    [2, "GLAMOROUS SKY (Re:Present 2018)", "中島美嘉", 1],
+    [3, "KISS OF DEATH (Produced by HYDE) -TV size-", "中島美嘉", 1],
+    [4, "KISS OF DEATH (Produced by HYDE) -instrumental-", "中島美嘉", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2280b1e-a4cc-4a64-9a1f-b7222e806382", "https://vgmdb.net/album/74501"]
 
@@ -67,12 +67,12 @@ catalognumber = "SVWC-70341~2"
 date = "2018-03-28"
 album = "ダーリン・イン・ザ・フランキス エンディング集 vol.1 Disc 1 (CD) [SVWC-70341]"
 tracks = [
-    [1, "トリカゴ", "XX:me", 0],
-    [2, "真夏のセツナ", "XX:me", 0],
-    [3, "Beautiful World", "XX:me", 0],
-    [4, "トリカゴ (TV Size ver.)", "XX:me", 0],
-    [5, "真夏のセツナ (TV Size ver.)", "XX:me", 0],
-    [6, "Beautiful World (TV Size ver.)", "XX:me", 0],
+    [1, "トリカゴ", "XX:me", 1],
+    [2, "真夏のセツナ", "XX:me", 1],
+    [3, "Beautiful World", "XX:me", 1],
+    [4, "トリカゴ (TV Size ver.)", "XX:me", 1],
+    [5, "真夏のセツナ (TV Size ver.)", "XX:me", 1],
+    [6, "Beautiful World (TV Size ver.)", "XX:me", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b6a8dc04-023e-4530-a9e0-b7b1b85e3431", "https://vgmdb.net/album/74094"]
 
@@ -81,9 +81,9 @@ catalognumber = "SVWC-70341~2"
 date = "2018-03-28"
 album = "ダーリン・イン・ザ・フランキス エンディング集 vol.1 Disc 2 (DVD) [SVWC-70342]"
 tracks = [
-    [1, "トリカゴ", "XX:me", 0],
-    [2, "真夏のセツナ", "XX:me", 0],
-    [3, "Beautiful World", "XX:me", 0],
+    [1, "トリカゴ", "XX:me", 1],
+    [2, "真夏のセツナ", "XX:me", 1],
+    [3, "Beautiful World", "XX:me", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b6a8dc04-023e-4530-a9e0-b7b1b85e3431", "https://vgmdb.net/album/74094"]
 
@@ -92,27 +92,27 @@ catalognumber = "ANZX-14442"
 date = "2018-04-25"
 album = "ダーリン・イン・ザ・フランキス オリジナルサウンドトラック vol.1"
 tracks = [
-    [1, "cÅGE", "橘麻美", 0],
-    [2, "Vanquish", "橘麻美", 0],
-    [3, "Odds and ends", "橘麻美", 0],
-    [4, "o‐DOR", "橘麻美", 0],
-    [5, "Dino‐S", "橘麻美", 0],
-    [6, "BEAST", "橘麻美", 0],
-    [7, "Counterattack", "橘麻美", 0],
-    [8, "Operation", "橘麻美", 0],
-    [9, "Reversal", "橘麻美", 0],
-    [10, "In the FRANXX", "橘麻美", 0],
-    [11, "Trente", "橘麻美", 0],
-    [12, "Distopia", "橘麻美", 0],
-    [13, "Godliness", "橘麻美", 0],
-    [14, "Aile", "橘麻美", 0],
-    [15, "Clarity", "橘麻美", 0],
-    [16, "Nuance", "橘麻美", 0],
-    [17, "Miel", "橘麻美", 0],
-    [18, "Dropping", "橘麻美", 0],
-    [19, "CODE:002", "橘麻美", 0],
-    [20, "VICTORIA", "橘麻美", 0],
-    [21, "Torikago ~BGM‐Rearrange~", "橘麻美", 0],
+    [1, "cÅGE", "橘麻美", 1],
+    [2, "Vanquish", "橘麻美", 1],
+    [3, "Odds and ends", "橘麻美", 1],
+    [4, "o‐DOR", "橘麻美", 1],
+    [5, "Dino‐S", "橘麻美", 1],
+    [6, "BEAST", "橘麻美", 1],
+    [7, "Counterattack", "橘麻美", 1],
+    [8, "Operation", "橘麻美", 1],
+    [9, "Reversal", "橘麻美", 1],
+    [10, "In the FRANXX", "橘麻美", 1],
+    [11, "Trente", "橘麻美", 1],
+    [12, "Distopia", "橘麻美", 1],
+    [13, "Godliness", "橘麻美", 1],
+    [14, "Aile", "橘麻美", 1],
+    [15, "Clarity", "橘麻美", 1],
+    [16, "Nuance", "橘麻美", 1],
+    [17, "Miel", "橘麻美", 1],
+    [18, "Dropping", "橘麻美", 1],
+    [19, "CODE:002", "橘麻美", 1],
+    [20, "VICTORIA", "橘麻美", 1],
+    [21, "Torikago ~BGM‐Rearrange~", "橘麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7dc50ec4-9bff-4b24-afa8-679b63720ffb", "https://vgmdb.net/album/74611"]
 
@@ -121,14 +121,14 @@ catalognumber = "ANZX-14444"
 date = "2018-05-30"
 album = "ダーリン・イン・ザ・フランキス Drama CD vol.1「危険な誘惑」"
 tracks = [
-    [1, "危険な誘惑 #01", "橘麻美", 0],
-    [2, "危険な誘惑 #02", "橘麻美", 0],
-    [3, "危険な誘惑 #03", "橘麻美", 0],
-    [4, "危険な誘惑 #04", "橘麻美", 0],
-    [5, "危険な誘惑 #05", "橘麻美", 0],
-    [6, "危険な誘惑 #06", "橘麻美", 0],
-    [7, "危険な誘惑 #07", "橘麻美", 0],
-    [8, "危険な誘惑 #08", "橘麻美", 0],
+    [1, "危険な誘惑 #01", "橘麻美", 1],
+    [2, "危険な誘惑 #02", "橘麻美", 1],
+    [3, "危険な誘惑 #03", "橘麻美", 1],
+    [4, "危険な誘惑 #04", "橘麻美", 1],
+    [5, "危険な誘惑 #05", "橘麻美", 1],
+    [6, "危険な誘惑 #06", "橘麻美", 1],
+    [7, "危険な誘惑 #07", "橘麻美", 1],
+    [8, "危険な誘惑 #08", "橘麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d38d9877-2d90-49ae-bc4e-6918f9d63d7c", "https://vgmdb.net/album/74615"]
 
@@ -148,11 +148,11 @@ catalognumber = "AICL-3537~9"
 date = "2018-06-27"
 album = "KISS OF DEATH (Produced by HYDE) / 中島美嘉 [ダーリン・イン・ザ・フランキス Deluxe Edition] Vocal Disc 1"
 tracks = [
-    [1, "KISS OF DEATH (Produced by HYDE) (Main MIX)", "中島美嘉", 0],
-    [2, "KISS OF DEATH (Produced by HYDE) -TV Size- / Phase1", "中島美嘉", 0],
-    [3, "KISS OF DEATH (Produced by HYDE) -TV Size- / Phase2", "中島美嘉", 0],
-    [4, "KISS OF DEATH (Produced by HYDE) (Remix ver.)", "中島美嘉", 0],
-    [5, "KISS OF DEATH (Produced by HYDE) (Piano Inst ver.)", "Asami Tachibana", 0],
+    [1, "KISS OF DEATH (Produced by HYDE) (Main MIX)", "中島美嘉", 1],
+    [2, "KISS OF DEATH (Produced by HYDE) -TV Size- / Phase1", "中島美嘉", 1],
+    [3, "KISS OF DEATH (Produced by HYDE) -TV Size- / Phase2", "中島美嘉", 1],
+    [4, "KISS OF DEATH (Produced by HYDE) (Remix ver.)", "中島美嘉", 1],
+    [5, "KISS OF DEATH (Produced by HYDE) (Piano Inst ver.)", "Asami Tachibana", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2c4fdf63-4acd-4c6c-b07f-96cf31aa45a5", "https://vgmdb.net/album/77479"]
 
@@ -161,12 +161,12 @@ catalognumber = "SVWC-70343~4"
 date = "2018-06-27"
 album = "ダーリン・イン・ザ・フランキス エンディング集 vol.2 Disc 1 (CD) [SVWC-70343]"
 tracks = [
-    [1, "ひとり", "XX:me", 0],
-    [2, "escape", "XX:me", 0],
-    [3, "ダーリン", "XX:me", 0],
-    [4, "ひとり (TV Size ver.)", "XX:me", 0],
-    [5, "escape (TV Size ver.)", "XX:me", 0],
-    [6, "ダーリン (TV Size ver.)", "XX:me", 0],
+    [1, "ひとり", "XX:me", 1],
+    [2, "escape", "XX:me", 1],
+    [3, "ダーリン", "XX:me", 1],
+    [4, "ひとり (TV Size ver.)", "XX:me", 1],
+    [5, "escape (TV Size ver.)", "XX:me", 1],
+    [6, "ダーリン (TV Size ver.)", "XX:me", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/593451ba-6125-4a81-b267-e230a7357d5a", "https://vgmdb.net/album/74095"]
 
@@ -175,8 +175,8 @@ catalognumber = "SVWC-70343~4"
 date = "2018-06-27"
 album = "ダーリン・イン・ザ・フランキス エンディング集 vol.2 Disc 2 (DVD) [SVWC-70344]"
 tracks = [
-    [1, "ひとり", "XX:me", 0],
-    [2, "Escape", "XX:me", 0],
+    [1, "ひとり", "XX:me", 1],
+    [2, "Escape", "XX:me", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/593451ba-6125-4a81-b267-e230a7357d5a", "https://vgmdb.net/album/74095"]
 
@@ -185,27 +185,27 @@ catalognumber = "ANZX-14448"
 date = "2018-07-25"
 album = "ダーリン・イン・ザ・フランキス オリジナルサウンドトラック vol.2"
 tracks = [
-    [1, "FUSE", "橘麻美", 0],
-    [2, "Battle Cry", "橘麻美", 0],
-    [3, "Your smile", "橘麻美", 0],
-    [4, "Abandoned Places", "橘麻美", 0],
-    [5, "The Seven Sages", "橘麻美", 0],
-    [6, "Klaxosaur", "橘麻美", 0],
-    [7, "Gutenberg", "橘麻美", 0],
-    [8, "Shady History", "橘麻美", 0],
-    [9, "ADuLt", "橘麻美", 0],
-    [10, "One’s Word", "橘麻美", 0],
-    [11, "Vita", "橘麻美", 0],
-    [12, "CHiLDRen", "橘麻美", 0],
-    [13, "CODE:015", "橘麻美", 0],
-    [14, "Lilac", "橘麻美", 0],
-    [15, "Red Hibiscus", "橘麻美", 0],
-    [16, "The Sands", "橘麻美", 0],
-    [17, "Boys×Girls", "橘麻美", 0],
-    [18, "VICTORIA –piano ver.–", "橘麻美", 0],
-    [19, "Lilac –guitar ver.–", "橘麻美", 0],
-    [20, "Mistilteinn", "橘麻美", 0],
-    [21, "D♯regards", "橘麻美", 0],
+    [1, "FUSE", "橘麻美", 1],
+    [2, "Battle Cry", "橘麻美", 1],
+    [3, "Your smile", "橘麻美", 1],
+    [4, "Abandoned Places", "橘麻美", 1],
+    [5, "The Seven Sages", "橘麻美", 1],
+    [6, "Klaxosaur", "橘麻美", 1],
+    [7, "Gutenberg", "橘麻美", 1],
+    [8, "Shady History", "橘麻美", 1],
+    [9, "ADuLt", "橘麻美", 1],
+    [10, "One’s Word", "橘麻美", 1],
+    [11, "Vita", "橘麻美", 1],
+    [12, "CHiLDRen", "橘麻美", 1],
+    [13, "CODE:015", "橘麻美", 1],
+    [14, "Lilac", "橘麻美", 1],
+    [15, "Red Hibiscus", "橘麻美", 1],
+    [16, "The Sands", "橘麻美", 1],
+    [17, "Boys×Girls", "橘麻美", 1],
+    [18, "VICTORIA –piano ver.–", "橘麻美", 1],
+    [19, "Lilac –guitar ver.–", "橘麻美", 1],
+    [20, "Mistilteinn", "橘麻美", 1],
+    [21, "D♯regards", "橘麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7832f8e3-5ba1-42ab-bdde-7c59fef5df5b", "https://vgmdb.net/album/74731"]
 
@@ -215,7 +215,7 @@ date = "2018-08-01"
 album = "AFTER LIGHT / HYDE [Limited Edition]"
 tracks = [
     [1, "AFTER LIGHT", "HYDE", 0],
-    [2, "KISS OF DEATH", "HYDE", 0],
+    [2, "KISS OF DEATH", "HYDE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1ed68f44-914b-407e-851d-1ae8b895cb4f", "https://vgmdb.net/album/78581"]
 
@@ -225,7 +225,7 @@ date = "2018-08-01"
 album = "AFTER LIGHT / HYDE"
 tracks = [
     [1, "AFTER LIGHT", "HYDE", 0],
-    [2, "KISS OF DEATH", "HYDE", 0],
+    [2, "KISS OF DEATH", "HYDE", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1ed68f44-914b-407e-851d-1ae8b895cb4f", "https://vgmdb.net/album/78580"]
 
@@ -237,7 +237,7 @@ tracks = [
     [1, "Make debut!", "Precious Jazz Orchestra", 0],
     [2, "ふゆびより", "Precious Jazz Orchestra", 0],
     [3, "Chant", "Precious Jazz Orchestra", 0],
-    [4, "KISS OF DEATH", "Precious Jazz Orchestra", 0],
+    [4, "KISS OF DEATH", "Precious Jazz Orchestra", 1],
     [5, "CLEAR", "Precious Jazz Orchestra", 0],
     [6, "ここから、ここから", "Precious Jazz Orchestra", 0],
 ]
@@ -248,28 +248,28 @@ catalognumber = "ANZX-14450"
 date = "2018-08-29"
 album = "ダーリン・イン・ザ・フランキス オリジナルサウンドトラック vol.3"
 tracks = [
-    [1, "CODE:016", "橘麻美", 0],
-    [2, "RoCco", "橘麻美", 0],
-    [3, "Lotus", "橘麻美", 0],
-    [4, "CODE:001", "橘麻美", 0],
-    [5, "CoiL", "橘麻美", 0],
-    [6, "DESPAIR", "橘麻美", 0],
-    [7, "InVaDeR", "橘麻美", 0],
-    [8, "GLADIOLUS", "橘麻美", 0],
-    [9, "JUSTICE", "橘麻美", 0],
-    [10, "Requiem", "橘麻美", 0],
-    [11, "Cherry blossoms", "橘麻美", 0],
-    [12, "HIRO and ZERO TWO", "橘麻美", 0],
-    [13, "cÅGE –piano ver.–", "橘麻美", 0],
-    [14, "JUSTICE –Epiano ver.–", "橘麻美", 0],
-    [15, "Pray for..", "橘麻美", 0],
-    [16, "cÅGE –SPS ver.–", "橘麻美", 0],
-    [17, "FUSE –instrumental–", "橘麻美", 0],
-    [18, "Battle Cry –instrumental–", "橘麻美", 0],
-    [19, "Vanquish –instrumental–", "橘麻美", 0],
-    [20, "D♯regards –instrumental–", "橘麻美", 0],
-    [21, "cAGE –instrumental–", "橘麻美", 0],
-    [22, "Torikago ~BGM‐Rearrange‐guitar ver.~", "橘麻美", 0],
+    [1, "CODE:016", "橘麻美", 1],
+    [2, "RoCco", "橘麻美", 1],
+    [3, "Lotus", "橘麻美", 1],
+    [4, "CODE:001", "橘麻美", 1],
+    [5, "CoiL", "橘麻美", 1],
+    [6, "DESPAIR", "橘麻美", 1],
+    [7, "InVaDeR", "橘麻美", 1],
+    [8, "GLADIOLUS", "橘麻美", 1],
+    [9, "JUSTICE", "橘麻美", 1],
+    [10, "Requiem", "橘麻美", 1],
+    [11, "Cherry blossoms", "橘麻美", 1],
+    [12, "HIRO and ZERO TWO", "橘麻美", 1],
+    [13, "cÅGE –piano ver.–", "橘麻美", 1],
+    [14, "JUSTICE –Epiano ver.–", "橘麻美", 1],
+    [15, "Pray for..", "橘麻美", 1],
+    [16, "cÅGE –SPS ver.–", "橘麻美", 1],
+    [17, "FUSE –instrumental–", "橘麻美", 1],
+    [18, "Battle Cry –instrumental–", "橘麻美", 1],
+    [19, "Vanquish –instrumental–", "橘麻美", 1],
+    [20, "D♯regards –instrumental–", "橘麻美", 1],
+    [21, "cAGE –instrumental–", "橘麻美", 1],
+    [22, "Torikago ~BGM‐Rearrange‐guitar ver.~", "橘麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7e8b1e2a-dcc1-42b9-b961-59e1c357ed48", "https://vgmdb.net/album/74732"]
 
@@ -278,9 +278,9 @@ catalognumber = "ANZX-14452"
 date = "2018-09-26"
 album = "ダーリン・イン・ザ・フランキス Drama CD vol.2"
 tracks = [
-    [1, "第1話 「13部隊の一番長い夜」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 0],
-    [2, "第2話 「ダイエット大作戦」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 0],
-    [3, "第3話 「第13都市ミストルティンにおける環境対応テスト、28次定例報告」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 0],
+    [1, "第1話 「13部隊の一番長い夜」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 1],
+    [2, "第2話 「ダイエット大作戦」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 1],
+    [3, "第3話 「第13都市ミストルティンにおける環境対応テスト、28次定例報告」", "上村祐翔, 戸松遥, 市ノ瀬加那, 市川蒼, 梅原裕一郎, 田村睦心, 山下七海 & 早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/08b4801e-e854-4ca4-812b-5fa697d3222c", "https://vgmdb.net/album/74733"]
 
@@ -289,9 +289,9 @@ catalognumber = "ANZX-14454"
 date = "2018-10-24"
 album = "ダーリン・イン・ザ・フランキス Drama CD vol.3"
 tracks = [
-    [1, "第1話 「ナインズ」", "", 0],
-    [2, "第2話 「NINE CHILDREN & a BABY(?)」", "", 0],
-    [3, "第3話 「あの時の君は」", "", 0],
+    [1, "第1話 「ナインズ」", "", 1],
+    [2, "第2話 「NINE CHILDREN & a BABY(?)」", "", 1],
+    [3, "第3話 「あの時の君は」", "", 1],
 ]
 links = ["https://vgmdb.net/album/74734"]
 
@@ -302,7 +302,7 @@ album = "JOKER / 中島美嘉"
 tracks = [
     [1, "ノクターン", "中島美嘉", 0],
     [2, "A or B", "中島美嘉", 0],
-    [3, "Kiss of Death", "中島美嘉", 0],
+    [3, "Kiss of Death", "中島美嘉", 1],
     [4, "Good Bye", "中島美嘉", 0],
     [5, "Desire", "中島美嘉", 0],
     [6, "So What", "中島美嘉", 0],
@@ -324,7 +324,7 @@ album = "JOKER / 中島美嘉 [初回盤] Vocal"
 tracks = [
     [1, "ノクターン", "中島美嘉", 0],
     [2, "A or B", "中島美嘉", 0],
-    [3, "KISS OF DEATH", "中島美嘉", 0],
+    [3, "KISS OF DEATH", "中島美嘉", 1],
     [4, "Good Bye", "中島美嘉", 0],
     [5, "DESIRE", "中島美嘉", 0],
     [6, "So What", "中島美嘉", 0],
@@ -345,12 +345,12 @@ date = "2020-10-07"
 album = "JOKER / 中島美嘉 [初回盤] Arrangement, Vocal, Live Event, Video"
 tracks = [
     [1, "A or B [Music Video]", "中島美嘉", 0],
-    [2, "KISS OF DEATH [Music Video]", "中島美嘉", 0],
+    [2, "KISS OF DEATH [Music Video]", "中島美嘉", 1],
     [3, "イノサンRouge [Music Video]", "Marie starring MIKA NAKASHIMA", 0],
     [4, "ノクターン [Music Video]", "中島美嘉", 0],
     [5, "Justice [Music Video]", "中島美嘉", 0],
     [6, "innocent [MIKA NAKASHIMA Special Studio Live]", "中島美嘉", 0],
-    [7, "KISS OF DEATH [MIKA NAKASHIMA Special Studio Live]", "中島美嘉", 0],
+    [7, "KISS OF DEATH [MIKA NAKASHIMA Special Studio Live]", "中島美嘉", 1],
     [8, "ノクターン [MIKA NAKASHIMA Special Studio Live]", "中島美嘉", 0],
     [9, "A or B [MIKA NAKASHIMA Special Studio Live]", "中島美嘉", 0],
 ]
@@ -363,7 +363,7 @@ album = "WITH / 中島美嘉"
 tracks = [
     [1, "真冬のハーモニー", "中島美嘉 with 藤巻亮太", 0],
     [2, "イノサンRouge", "Marie starring MIKA NAKASHIMA", 0],
-    [3, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 0],
+    [3, "KISS OF DEATH (Produced by HYDE)", "中島美嘉", 1],
     [4, "Happy Life", "中島美嘉×Salyu", 0],
     [5, "花束", "中島美嘉", 0],
     [6, "愛の歌", "中島美嘉", 0],
@@ -374,7 +374,7 @@ tracks = [
     [11, "I DON'T KNOW", "MICA 3 CHU", 0],
     [12, "素直なまま", "中島美嘉", 0],
     [13, "一色", "NANA starring MIKA NAKASHIMA", 0],
-    [14, "GLAMOROUS SKY", "NANA starring MIKA NAKASHIMA", 0],
+    [14, "GLAMOROUS SKY", "NANA starring MIKA NAKASHIMA", 1],
     [15, "Love Addict", "中島美嘉", 0],
     [16, "DESTINY’S LOTUS", "中島美嘉", 0],
 ]
@@ -390,7 +390,7 @@ tracks = [
     [3, "Kaibutsu / 怪物 (VRC6)", "nocturnalplant", 0],
     [4, "It's Like a Small Light / それは小さな光のような (N163)", "nocturnalplant", 0],
     [5, "My Dream Within a Dream / ユメのなかノわたしのユメ(NES)", "nocturnalplant", 0],
-    [6, "Escape (MMC5)", "nocturnalplant", 0],
+    [6, "Escape (MMC5)", "nocturnalplant", 1],
     [7, "Ugoku, Ugoku / 動く、動く (VRC6)", "nocturnalplant", 0],
     [8, "Seasons Die One After Another / 季節は次々死んでいく (VRC6)", "nocturnalplant", 0],
     [9, "Wild Side (VRC6)", "nocturnalplant", 0],

@@ -3,9 +3,9 @@ catalognumber = "KICM-1648"
 date = "2016-01-27"
 album = "HOW CLOSE YOU ARE / 宮野真守"
 tracks = [
-    [1, "HOW CLOSE YOU ARE", "宮野真守", 0],
-    [2, "BLACK OR WHITE", "宮野真守", 0],
-    [3, "Crazy Wonder Night", "宮野真守", 0],
+    [1, "HOW CLOSE YOU ARE", "宮野真守", 1],
+    [2, "BLACK OR WHITE", "宮野真守", 1],
+    [3, "Crazy Wonder Night", "宮野真守", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e87e622-2bf2-4e24-976f-589c0b928699", "https://vgmdb.net/album/55826"]
 
@@ -14,11 +14,11 @@ catalognumber = "AZCS-2060"
 date = "2016-02-03"
 album = "夜は眠れるかい? / flumpool"
 tracks = [
-    [1, "夜は眠れるかい?", "flumpool", 0],
-    [2, "君が笑えば 〜Just like happiness〜", "flumpool", 0],
-    [3, "MOMENT", "flumpool", 0],
-    [4, "夜は眠れるかい? (Instrumental)", "flumpool", 0],
-    [5, "君が笑えば 〜Just like happiness〜 (Instrumental)", "flumpool", 0],
+    [1, "夜は眠れるかい?", "flumpool", 1],
+    [2, "君が笑えば 〜Just like happiness〜", "flumpool", 1],
+    [3, "MOMENT", "flumpool", 1],
+    [4, "夜は眠れるかい? (Instrumental)", "flumpool", 1],
+    [5, "君が笑えば 〜Just like happiness〜 (Instrumental)", "flumpool", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2d879711-b2be-4dac-be25-566205aebb52", "https://vgmdb.net/album/56362"]
 
@@ -27,9 +27,9 @@ catalognumber = "AZZS-41"
 date = "2016-02-03"
 album = "夜は眠れるかい? / flumpool [初回限定盤] Disc 1 (CD)"
 tracks = [
-    [1, "夜は眠れるかい?", "flumpool", 0],
-    [2, "君が笑えば 〜Just like happiness〜", "flumpool", 0],
-    [3, "MOMENT", "flumpool", 0],
+    [1, "夜は眠れるかい?", "flumpool", 1],
+    [2, "君が笑えば 〜Just like happiness〜", "flumpool", 1],
+    [3, "MOMENT", "flumpool", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aab0a1ed-8f00-486c-83f1-3abe9e4395ca", "https://vgmdb.net/album/56363"]
 
@@ -47,33 +47,33 @@ catalognumber = "KICA-3260~1"
 date = "2016-02-24"
 album = "TVシリーズ「亜人」オリジナルサウンドトラック Disc 1 [KICA-3260]"
 tracks = [
-    [1, "AJIN MAIN THEME", "菅野祐悟", 0],
-    [2, "Trigger", "菅野祐悟", 0],
-    [3, "Sign", "菅野祐悟", 0],
-    [4, "Similarity", "菅野祐悟", 0],
-    [5, "Beginning", "菅野祐悟", 0],
-    [6, "Crisis", "菅野祐悟", 0],
-    [7, "Recollection (part.2)", "菅野祐悟", 0],
-    [8, "Invisible Black Matter", "菅野祐悟", 0],
-    [9, "Theme of Sato", "菅野祐悟", 0],
-    [10, "Ability", "菅野祐悟", 0],
-    [11, "Secret maneuvering", "菅野祐悟", 0],
-    [12, "Out of control", "菅野祐悟", 0],
-    [13, "Killing", "菅野祐悟", 0],
-    [14, "Past", "菅野祐悟", 0],
-    [15, "Agitation", "菅野祐悟", 0],
-    [16, "Phalanx", "菅野祐悟", 0],
-    [17, "Execute", "菅野祐悟", 0],
-    [18, "Anxiety", "菅野祐悟", 0],
-    [19, "Scaring", "菅野祐悟", 0],
-    [20, "Build up", "菅野祐悟", 0],
-    [21, "Hunted down", "菅野祐悟", 0],
-    [22, "Escape", "菅野祐悟", 0],
-    [23, "Torment", "菅野祐悟", 0],
-    [24, "Fear", "菅野祐悟", 0],
-    [25, "Cliff hanger", "菅野祐悟", 0],
-    [26, "Chase", "菅野祐悟", 0],
-    [27, "The world", "菅野祐悟", 0],
+    [1, "AJIN MAIN THEME", "菅野祐悟", 1],
+    [2, "Trigger", "菅野祐悟", 1],
+    [3, "Sign", "菅野祐悟", 1],
+    [4, "Similarity", "菅野祐悟", 1],
+    [5, "Beginning", "菅野祐悟", 1],
+    [6, "Crisis", "菅野祐悟", 1],
+    [7, "Recollection (part.2)", "菅野祐悟", 1],
+    [8, "Invisible Black Matter", "菅野祐悟", 1],
+    [9, "Theme of Sato", "菅野祐悟", 1],
+    [10, "Ability", "菅野祐悟", 1],
+    [11, "Secret maneuvering", "菅野祐悟", 1],
+    [12, "Out of control", "菅野祐悟", 1],
+    [13, "Killing", "菅野祐悟", 1],
+    [14, "Past", "菅野祐悟", 1],
+    [15, "Agitation", "菅野祐悟", 1],
+    [16, "Phalanx", "菅野祐悟", 1],
+    [17, "Execute", "菅野祐悟", 1],
+    [18, "Anxiety", "菅野祐悟", 1],
+    [19, "Scaring", "菅野祐悟", 1],
+    [20, "Build up", "菅野祐悟", 1],
+    [21, "Hunted down", "菅野祐悟", 1],
+    [22, "Escape", "菅野祐悟", 1],
+    [23, "Torment", "菅野祐悟", 1],
+    [24, "Fear", "菅野祐悟", 1],
+    [25, "Cliff hanger", "菅野祐悟", 1],
+    [26, "Chase", "菅野祐悟", 1],
+    [27, "The world", "菅野祐悟", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c3a48735-3d25-4a9b-9638-6e4861610cbd", "https://vgmdb.net/album/56379"]
 
@@ -82,34 +82,34 @@ catalognumber = "KICA-3260~1"
 date = "2016-02-24"
 album = "TVシリーズ「亜人」オリジナルサウンドトラック Disc 2 [KICA-3261]"
 tracks = [
-    [1, "Encounter", "菅野祐悟", 0],
-    [2, "Concealment", "菅野祐悟", 0],
-    [3, "Hunting", "菅野祐悟", 0],
-    [4, "Last resort", "菅野祐悟", 0],
-    [5, "Particle", "菅野祐悟", 0],
-    [6, "Theme of Tosaki", "菅野祐悟", 0],
-    [7, "Dedication", "菅野祐悟", 0],
-    [8, "Theme of Ogura Ikuya", "菅野祐悟", 0],
-    [9, "Inner urge", "菅野祐悟", 0],
-    [10, "On the alert", "菅野祐悟", 0],
-    [11, "Preparation", "菅野祐悟", 0],
-    [12, "Discipline", "菅野祐悟", 0],
-    [13, "Tactics", "菅野祐悟", 0],
-    [14, "Wall", "菅野祐悟", 0],
-    [15, "Assassin", "菅野祐悟", 0],
-    [16, "Atrocity", "菅野祐悟", 0],
-    [17, "Strain", "菅野祐悟", 0],
-    [18, "Recovery", "菅野祐悟", 0],
-    [19, "-V.S-", "菅野祐悟", 0],
-    [20, "Special weapon", "菅野祐悟", 0],
-    [21, "Loneliness", "菅野祐悟", 0],
-    [22, "Advance", "菅野祐悟", 0],
-    [23, "Sinister", "菅野祐悟", 0],
-    [24, "Suppression", "菅野祐悟", 0],
-    [25, "Game", "菅野祐悟", 0],
-    [26, "Inferno", "菅野祐悟", 0],
-    [27, "Justice", "菅野祐悟", 0],
-    [28, "Battle royal", "菅野祐悟", 0],
+    [1, "Encounter", "菅野祐悟", 1],
+    [2, "Concealment", "菅野祐悟", 1],
+    [3, "Hunting", "菅野祐悟", 1],
+    [4, "Last resort", "菅野祐悟", 1],
+    [5, "Particle", "菅野祐悟", 1],
+    [6, "Theme of Tosaki", "菅野祐悟", 1],
+    [7, "Dedication", "菅野祐悟", 1],
+    [8, "Theme of Ogura Ikuya", "菅野祐悟", 1],
+    [9, "Inner urge", "菅野祐悟", 1],
+    [10, "On the alert", "菅野祐悟", 1],
+    [11, "Preparation", "菅野祐悟", 1],
+    [12, "Discipline", "菅野祐悟", 1],
+    [13, "Tactics", "菅野祐悟", 1],
+    [14, "Wall", "菅野祐悟", 1],
+    [15, "Assassin", "菅野祐悟", 1],
+    [16, "Atrocity", "菅野祐悟", 1],
+    [17, "Strain", "菅野祐悟", 1],
+    [18, "Recovery", "菅野祐悟", 1],
+    [19, "-V.S-", "菅野祐悟", 1],
+    [20, "Special weapon", "菅野祐悟", 1],
+    [21, "Loneliness", "菅野祐悟", 1],
+    [22, "Advance", "菅野祐悟", 1],
+    [23, "Sinister", "菅野祐悟", 1],
+    [24, "Suppression", "菅野祐悟", 1],
+    [25, "Game", "菅野祐悟", 1],
+    [26, "Inferno", "菅野祐悟", 1],
+    [27, "Justice", "菅野祐悟", 1],
+    [28, "Battle royal", "菅野祐悟", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c3a48735-3d25-4a9b-9638-6e4861610cbd", "https://vgmdb.net/album/56379"]
 
@@ -118,9 +118,9 @@ catalognumber = "AZZS-45"
 date = "2016-05-03"
 album = "innnocence/キャラバン / LAMP IN TERREN [初回限定盤] Disc 1 (CD)"
 tracks = [
-    [1, "innocence", "", 0],
-    [2, "キャラバン", "", 0],
-    [3, "とある木洩れ陽より", "", 0],
+    [1, "innocence", "", 1],
+    [2, "キャラバン", "", 1],
+    [3, "とある木洩れ陽より", "", 1],
 ]
 links = ["https://vgmdb.net/album/65084"]
 
@@ -138,9 +138,9 @@ catalognumber = "AZCS-2051"
 date = "2016-05-03"
 album = "innnocence/キャラバン / LAMP IN TERREN"
 tracks = [
-    [1, "innocence", "LAMP IN TERREN", 0],
-    [2, "キャラバン", "LAMP IN TERREN", 0],
-    [3, "とある木洩れ陽より", "LAMP IN TERREN", 0],
+    [1, "innocence", "LAMP IN TERREN", 1],
+    [2, "キャラバン", "LAMP IN TERREN", 1],
+    [3, "とある木洩れ陽より", "LAMP IN TERREN", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f39ae86-9ec8-4eea-a80e-b7448b2a2222", "https://vgmdb.net/album/65083"]
 
@@ -149,8 +149,8 @@ catalognumber = "KICM-1719"
 date = "2016-10-12"
 album = "The Birth / 宮野真守"
 tracks = [
-    [1, "The Birth", "宮野真守", 0],
-    [2, "Gravity", "宮野真守", 0],
+    [1, "The Birth", "宮野真守", 1],
+    [2, "Gravity", "宮野真守", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/119c1f4c-cd40-4ca7-b4db-eadfd2ef1119", "https://vgmdb.net/album/60287"]
 
@@ -159,10 +159,10 @@ catalognumber = "KICM-1711"
 date = "2016-10-19"
 album = "僕は僕であって / angela×fripSide"
 tracks = [
-    [1, "僕は僕であって", "angela×fripSide", 0],
-    [2, "僕は僕であって (part of atsuko)", "angela×fripSide", 0],
-    [3, "僕は僕であって (part of yoshino nanjo)", "angela×fripSide", 0],
-    [4, "僕は僕であって (off vocal version)", "angela×fripSide", 0],
+    [1, "僕は僕であって", "angela×fripSide", 1],
+    [2, "僕は僕であって (part of atsuko)", "angela×fripSide", 1],
+    [3, "僕は僕であって (part of yoshino nanjo)", "angela×fripSide", 1],
+    [4, "僕は僕であって (off vocal version)", "angela×fripSide", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bf83fcdd-7918-496b-9be0-7101b7698827", "https://vgmdb.net/album/60495"]
 
@@ -171,9 +171,9 @@ catalognumber = "KICM-91710"
 date = "2016-10-19"
 album = "僕は僕であって / angela×fripSide [期間限定盤] Disc 1 (CD) [KICM-91710]"
 tracks = [
-    [1, "僕は僕であって", "angela×fripSide", 0],
-    [2, "僕は僕であって (TV size)", "angela×fripSide", 0],
-    [3, "僕は僕であって (off vocal version)", "angela×fripSide", 0],
+    [1, "僕は僕であって", "angela×fripSide", 1],
+    [2, "僕は僕であって (TV size)", "angela×fripSide", 1],
+    [3, "僕は僕であって (off vocal version)", "angela×fripSide", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b43ece67-880a-4379-9ddf-a23512472ebf", "https://vgmdb.net/album/60496"]
 
@@ -182,7 +182,7 @@ catalognumber = "KICM-91710"
 date = "2016-10-19"
 album = "僕は僕であって / angela×fripSide [期間限定盤] Disc 2 (Blu-ray) [SXG-10031]"
 tracks = [
-    [1, "僕は僕であって (PV)", "angela×fripSide", 0],
+    [1, "僕は僕であって (PV)", "angela×fripSide", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b43ece67-880a-4379-9ddf-a23512472ebf", "https://vgmdb.net/album/60496"]
 
@@ -191,10 +191,10 @@ catalognumber = "GNCA-0462"
 date = "2016-12-07"
 album = "The end of escape / fripSide×angela"
 tracks = [
-    [1, "The end of escape", "fripSide×angela", 0],
-    [2, "The end of escape (part of yoshino nanjo)", "fripSide×angela", 0],
-    [3, "The end of escape (part of atsuko)", "fripSide×angela", 0],
-    [4, "The end of escape <instrumental>", "fripSide×angela", 0],
+    [1, "The end of escape", "fripSide×angela", 1],
+    [2, "The end of escape (part of yoshino nanjo)", "fripSide×angela", 1],
+    [3, "The end of escape (part of atsuko)", "fripSide×angela", 1],
+    [4, "The end of escape <instrumental>", "fripSide×angela", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fb65b279-a69b-4f99-b87c-9b7972dfc94e", "https://vgmdb.net/album/61353"]
 
@@ -203,9 +203,9 @@ catalognumber = "GNCA-0461"
 date = "2016-12-07"
 album = "The end of escape / fripSide×angela [初回限定盤] Disc 1 (CD) [GNCA-046101]"
 tracks = [
-    [1, "The end of escape", "fripSide×angela", 0],
-    [2, "The end of escape (TV size)", "fripSide×angela", 0],
-    [3, "The end of escape <instrumental>", "fripSide×angela", 0],
+    [1, "The end of escape", "fripSide×angela", 1],
+    [2, "The end of escape (TV size)", "fripSide×angela", 1],
+    [3, "The end of escape <instrumental>", "fripSide×angela", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/392bf085-5ee0-40ca-86be-8cbce772d76b", "https://vgmdb.net/album/61352"]
 
@@ -214,9 +214,9 @@ catalognumber = "GNCA-0461"
 date = "2016-12-07"
 album = "The end of escape / fripSide×angela [初回限定盤] Disc 2 (DVD) [GNCA-046102]"
 tracks = [
-    [1, "The end of escape (PV)", "fripSide×angela", 0],
-    [2, "僕は僕であって (PV Making)", "fripSide×angela", 0],
-    [3, "The end of escape (PV Making)", "fripSide×angela", 0],
+    [1, "The end of escape (PV)", "fripSide×angela", 1],
+    [2, "僕は僕であって (PV Making)", "fripSide×angela", 1],
+    [3, "The end of escape (PV Making)", "fripSide×angela", 1],
     [4, "SPOT", "fripSide×angela", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/392bf085-5ee0-40ca-86be-8cbce772d76b", "https://vgmdb.net/album/61352"]
@@ -251,11 +251,11 @@ catalognumber = "UMCK-9895"
 date = "2017-02-22"
 album = "もうすぐ着くから待っててね / クリープハイプ [初回限定盤] Vocal"
 tracks = [
-    [1, "ただ", "", 0],
-    [2, "陽", "", 0],
-    [3, "は?", "", 0],
-    [4, "校庭の隅に二人、風が吹いて今なら言えるかな", "", 0],
-    [5, "陽", "", 0],
+    [1, "ただ", "", 1],
+    [2, "陽", "", 1],
+    [3, "は?", "", 1],
+    [4, "校庭の隅に二人、風が吹いて今なら言えるかな", "", 1],
+    [5, "陽", "", 1],
 ]
 links = ["https://vgmdb.net/album/79847"]
 
@@ -283,11 +283,11 @@ catalognumber = "UMCK-5619"
 date = "2017-02-22"
 album = "もうすぐ着くから待っててね / クリープハイプ"
 tracks = [
-    [1, "ただ", "", 0],
-    [2, "陽", "", 0],
-    [3, "は?", "", 0],
-    [4, "校庭の隅に二人、風が吹いて今なら言えるかな", "", 0],
-    [5, "陽", "", 0],
+    [1, "ただ", "", 1],
+    [2, "陽", "", 1],
+    [3, "は?", "", 1],
+    [4, "校庭の隅に二人、風が吹いて今なら言えるかな", "", 1],
+    [5, "陽", "", 1],
 ]
 links = ["https://vgmdb.net/album/74127"]
 
@@ -301,7 +301,7 @@ tracks = [
     [3, "恋されガール", "", 0],
     [4, "Now and Forever", "", 0],
     [5, "Uhh", "", 0],
-    [6, "HOW CLOSE YOU ARE", "", 0],
+    [6, "HOW CLOSE YOU ARE", "", 1],
     [7, "Space Travellers", "", 0],
     [8, "テンペスト", "", 0],
     [9, "僕のマニュアル", "", 0],
@@ -400,7 +400,7 @@ date = "2017-10-04"
 album = "crossroads / fripSide [Limited Edition] Disc 2 (CD) [GNCA-151202]"
 tracks = [
     [1, "clockwork planet", "fripSide", 0],
-    [2, "The end of escape –fripSide edition–", "fripSide", 0],
+    [2, "The end of escape –fripSide edition–", "fripSide", 1],
     [3, "crossroads", "fripSide", 0],
     [4, "a gleam of prologue", "fripSide", 0],
     [5, "pico scope –SACLA–", "fripSide", 0],
@@ -446,7 +446,7 @@ date = "2017-10-04"
 album = "crossroads / fripSide Vocal"
 tracks = [
     [1, "clockwork planet", "fripSide", 0],
-    [2, "The end of escape -fripSide edition-", "fripSide", 0],
+    [2, "The end of escape -fripSide edition-", "fripSide", 1],
     [3, "crossroads", "fripSide", 0],
     [4, "a gleam of prologue", "fripSide", 0],
     [5, "pico scope -SACLA-", "fripSide", 0],
@@ -480,7 +480,7 @@ date = "2017-10-04"
 album = "crossroads / fripSide [Limited Edition] Vocal"
 tracks = [
     [1, "clockwork planet", "fripSide", 0],
-    [2, "The end of escape –fripSide edition–", "fripSide", 0],
+    [2, "The end of escape –fripSide edition–", "fripSide", 1],
     [3, "crossroads", "fripSide", 0],
     [4, "a gleam of prologue", "fripSide", 0],
     [5, "pico scope –SACLA–", "fripSide", 0],
@@ -505,7 +505,7 @@ catalognumber = "KICS-3658"
 date = "2017-12-20"
 album = "Beyond / angela"
 tracks = [
-    [1, "僕は僕であって", "angela×fripSide", 0],
+    [1, "僕は僕であって", "angela×fripSide", 1],
     [2, "全力☆Summer!", "angela", 0],
     [3, "Dream on", "angela", 0],
     [4, "Prologue -君の向こう側-", "angela", 0],
@@ -525,7 +525,7 @@ catalognumber = "KICS-93658"
 date = "2017-12-20"
 album = "Beyond / angela [Limited Edition] Vocal"
 tracks = [
-    [1, "僕は僕であって", "angela×fripSide", 0],
+    [1, "僕は僕であって", "angela×fripSide", 1],
     [2, "全力☆Summer!", "angela", 0],
     [3, "Dream on", "angela", 0],
     [4, "Prologue -君の向こう側-", "angela", 0],
@@ -567,7 +567,7 @@ tracks = [
     [10, "NEW ORDER", "宮野真守", 0],
     [11, "BREAK IT!", "宮野真守", 0],
     [12, "シャイン", "宮野真守", 0],
-    [13, "HOW CLOSE YOU ARE", "宮野真守", 0],
+    [13, "HOW CLOSE YOU ARE", "宮野真守", 1],
     [14, "SHOUT!", "宮野真守", 0],
     [15, "テンペスト", "宮野真守", 0],
     [16, "The Birth", "宮野真守", 0],
@@ -590,7 +590,7 @@ tracks = [
     [9, "FOREVER LULLABY", "宮野真守", 0],
     [10, "Identity", "宮野真守", 0],
     [11, "passage,", "宮野真守", 0],
-    [12, "Gravity", "宮野真守", 0],
+    [12, "Gravity", "宮野真守", 1],
     [13, "EVER LOVE", "宮野真守", 0],
     [14, "POWER OF LOVE", "宮野真守", 0],
     [15, "そっと溶けてゆくように", "宮野真守", 0],
@@ -615,7 +615,7 @@ tracks = [
     [10, "NEW ORDER", "宮野真守", 0],
     [11, "BREAK IT!", "宮野真守", 0],
     [12, "シャイン", "宮野真守", 0],
-    [13, "HOW CLOSE YOU ARE", "宮野真守", 0],
+    [13, "HOW CLOSE YOU ARE", "宮野真守", 1],
     [14, "SHOUT!", "宮野真守", 0],
     [15, "テンペスト", "宮野真守", 0],
     [16, "The Birth", "宮野真守", 0],
@@ -638,7 +638,7 @@ tracks = [
     [9, "FOREVER LULLABY", "宮野真守", 0],
     [10, "Identity", "宮野真守", 0],
     [11, "passage,", "宮野真守", 0],
-    [12, "Gravity", "宮野真守", 0],
+    [12, "Gravity", "宮野真守", 1],
     [13, "EVER LOVE", "宮野真守", 0],
     [14, "POWER OF LOVE", "宮野真守", 0],
     [15, "そっと溶けてゆくように", "宮野真守", 0],
@@ -689,7 +689,7 @@ tracks = [
     [10, "NEW ORDER", "宮野真守", 0],
     [11, "BREAK IT!", "宮野真守", 0],
     [12, "シャイン", "宮野真守", 0],
-    [13, "HOW CLOSE YOU ARE", "宮野真守", 0],
+    [13, "HOW CLOSE YOU ARE", "宮野真守", 1],
     [14, "SHOUT!", "宮野真守", 0],
     [15, "テンペスト", "宮野真守", 0],
     [16, "The Birth", "宮野真守", 0],
@@ -712,7 +712,7 @@ tracks = [
     [9, "FOREVER LULLABY", "宮野真守", 0],
     [10, "Identity", "宮野真守", 0],
     [11, "passage,", "宮野真守", 0],
-    [12, "Gravity", "宮野真守", 0],
+    [12, "Gravity", "宮野真守", 1],
     [13, "EVER LOVE", "宮野真守", 0],
     [14, "POWER OF LOVE", "宮野真守", 0],
     [15, "そっと溶けてゆくように", "宮野真守", 0],
@@ -785,7 +785,7 @@ tracks = [
     [9, "ホライズン", "angela", 0],
     [10, "愛すること", "angela", 0],
     [11, "KIZUNA", "angela", 0],
-    [12, "僕は僕であって", "angela×fripSide", 0],
+    [12, "僕は僕であって", "angela×fripSide", 1],
     [13, "全力☆Summer!", "angela", 0],
     [14, "Calling you", "angela", 0],
     [15, "笑顔をみせて", "angela", 0],
@@ -1053,7 +1053,7 @@ tracks = [
     [13, "Two souls -toward the truth-", "", 0],
     [14, "white forces", "", 0],
     [15, "1983 -schwarzesmarken- (IS3 version)", "", 0],
-    [16, "The end of escape [fripSide x angela]", "", 0],
+    [16, "The end of escape [fripSide x angela]", "", 1],
     [17, "clockwork planet", "", 0],
     [18, "Red \"reduction division\" -crossroads version-", "", 0],
     [19, "killing bites", "", 0],
@@ -1085,7 +1085,7 @@ tracks = [
     [11, "crossroads", "fripSide", 0],
     [12, "sky -crossroads version-", "fripSide", 0],
     [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
+    [14, "The end of escape -fripSide edition-", "fripSide", 1],
     [15, "white forces -IS3 edition-", "fripSide", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101812"]
@@ -1131,7 +1131,7 @@ tracks = [
     [11, "crossroads", "fripSide", 0],
     [12, "sky -crossroads version-", "fripSide", 0],
     [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
+    [14, "The end of escape -fripSide edition-", "fripSide", 1],
     [15, "white forces -IS3 edition-", "fripSide", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/595479f7-fb22-48fa-8e4b-06ec076f12d2", "https://vgmdb.net/album/101813"]
@@ -1187,7 +1187,7 @@ tracks = [
     [11, "crossroads", "fripSide", 0],
     [12, "sky -crossroads version-", "fripSide", 0],
     [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
+    [14, "The end of escape -fripSide edition-", "fripSide", 1],
     [15, "white forces -IS3 edition-", "fripSide", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101814"]
