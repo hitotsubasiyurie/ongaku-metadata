@@ -4,7 +4,7 @@ date = "2018"
 album = "ノーフューチャーバカンス / 上坂すみれ"
 tracks = [
     [1, "予感03", "上坂すみれ", 0],
-    [2, "POP TEAM EPIC", "上坂すみれ", 0],
+    [2, "POP TEAM EPIC", "上坂すみれ", 1],
     [3, "恋する図形(cubic futurismo)", "上坂すみれ", 0],
     [4, "よっぱらっぴ☆", "上坂すみれ", 0],
     [5, "地獄でホットケーキ", "上坂すみれ", 0],
@@ -27,12 +27,12 @@ catalognumber = "KICM-1824"
 date = "2018-01-31"
 album = "POP TEAM EPIC / 上坂すみれ"
 tracks = [
-    [1, "POP TEAM EPIC", "上坂すみれ", 0],
-    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 0],
-    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 0],
-    [4, "POP TEAM EPIC (off vocal ver.)", "上坂すみれ", 0],
-    [5, "増殖罵倒少女の愚恋 (off vocal ver.)", "上坂すみれ", 0],
-    [6, "ミッドナイト♡お嬢様 (off vocal ver.)", "上坂すみれ", 0],
+    [1, "POP TEAM EPIC", "上坂すみれ", 1],
+    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 1],
+    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 1],
+    [4, "POP TEAM EPIC (off vocal ver.)", "上坂すみれ", 1],
+    [5, "増殖罵倒少女の愚恋 (off vocal ver.)", "上坂すみれ", 1],
+    [6, "ミッドナイト♡お嬢様 (off vocal ver.)", "上坂すみれ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/75323c8f-8604-4874-b030-b4a87e1955fc", "https://vgmdb.net/album/72953"]
 
@@ -41,12 +41,12 @@ catalognumber = "KICM-91824"
 date = "2018-01-31"
 album = "POP TEAM EPIC / 上坂すみれ Disc 1 (CD) [KICM-91824]"
 tracks = [
-    [1, "POP TEAM EPIC", "上坂すみれ", 0],
-    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 0],
-    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 0],
-    [4, "POP TEAM EPIC(off vocal ver.)", "上坂すみれ", 0],
-    [5, "増殖罵倒少女の愚恋(off vocal ver.)", "上坂すみれ", 0],
-    [6, "ミッドナイト♡お嬢様(off vocal ver.)", "上坂すみれ", 0],
+    [1, "POP TEAM EPIC", "上坂すみれ", 1],
+    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 1],
+    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 1],
+    [4, "POP TEAM EPIC(off vocal ver.)", "上坂すみれ", 1],
+    [5, "増殖罵倒少女の愚恋(off vocal ver.)", "上坂すみれ", 1],
+    [6, "ミッドナイト♡お嬢様(off vocal ver.)", "上坂すみれ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/27843a9f-44f2-4069-90b0-18a1c316a68a", "https://vgmdb.net/album/72955"]
 
@@ -55,8 +55,8 @@ catalognumber = "KICM-91824"
 date = "2018-01-31"
 album = "POP TEAM EPIC / 上坂すみれ Disc 2 (DVD) [SDG-10600]"
 tracks = [
-    [1, "POP TEAM EPIC (MUSIC VIDEO)", "", 0],
-    [2, "POP TEAM EPIC (MAKING)", "", 0],
+    [1, "POP TEAM EPIC (MUSIC VIDEO)", "", 1],
+    [2, "POP TEAM EPIC (MAKING)", "", 1],
 ]
 links = ["https://vgmdb.net/album/72955"]
 
@@ -65,12 +65,12 @@ catalognumber = "KICM-91825"
 date = "2018-01-31"
 album = "POP TEAM EPIC / 上坂すみれ"
 tracks = [
-    [1, "POP TEAM EPIC", "上坂すみれ", 0],
-    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 0],
-    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 0],
-    [4, "POP TEAM EPIC (off vocal ver.)", "上坂すみれ", 0],
-    [5, "増殖罵倒少女の愚恋 (off vocal ver.)", "上坂すみれ", 0],
-    [6, "ミッドナイト♡お嬢様 (off vocal ver.)", "上坂すみれ", 0],
+    [1, "POP TEAM EPIC", "上坂すみれ", 1],
+    [2, "増殖罵倒少女の愚恋", "上坂すみれ", 1],
+    [3, "ミッドナイト♡お嬢様", "上坂すみれ", 1],
+    [4, "POP TEAM EPIC (off vocal ver.)", "上坂すみれ", 1],
+    [5, "増殖罵倒少女の愚恋 (off vocal ver.)", "上坂すみれ", 1],
+    [6, "ミッドナイト♡お嬢様 (off vocal ver.)", "上坂すみれ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ddf111fc-d320-4732-b281-d6ab985da4d5", "https://vgmdb.net/album/72954"]
 
@@ -79,84 +79,84 @@ catalognumber = "KICA-2526~8"
 date = "2018-03-28"
 album = "ポプテピピック ALL TIME BEST Original Soundtrack"
 tracks = [
-    [1, "キングレコードの勘違い", "ポプテピピック", 0],
-    [2, "出会い", "吟 (BUSTED ROSE)", 0],
-    [3, "あんた、名は。", "吟 (BUSTED ROSE)", 0],
-    [4, "広場", "吟 (BUSTED ROSE)", 0],
-    [5, "サバンナ", "吟 (BUSTED ROSE)", 0],
-    [6, "炸裂弾", "吟 (BUSTED ROSE)", 0],
-    [7, "好いとーよ", "吟 (BUSTED ROSE)", 0],
-    [8, "冒険の幕開け (Part.1)", "吟 (BUSTED ROSE)", 0],
-    [9, "冒険の幕開け (Part.2)", "吟 (BUSTED ROSE)", 0],
-    [10, "委員会", "吟 (BUSTED ROSE)", 0],
-    [11, "ザ・エンド", "吟 (BUSTED ROSE)", 0],
-    [12, "Made In Paris (Part.1)", "吟 (BUSTED ROSE)", 0],
-    [13, "Made In Paris (Part.2)", "吟 (BUSTED ROSE)", 0],
-    [14, "異次元遊戯ヴァンヴー", "吟 (BUSTED ROSE)", 0],
-    [15, "江戸川ブリッジの死闘", "吟 (BUSTED ROSE)", 0],
-    [16, "批判は何も生まれない", "吟 (BUSTED ROSE)", 0],
-    [17, "クソみくじ", "吟 (BUSTED ROSE)", 0],
-    [18, "ご飯の時間", "吟 (BUSTED ROSE)", 0],
-    [19, "朝 (夜)", "吟 (BUSTED ROSE)", 0],
-    [20, "ピピPのテーマ", "吟 (BUSTED ROSE)", 0],
-    [21, "クローンポプちん量産計画", "吟 (BUSTED ROSE)", 0],
-    [22, "レゲエファン", "吟 (BUSTED ROSE)", 0],
-    [23, "初見殺し", "吟 (BUSTED ROSE)", 0],
-    [24, "お便り", "吟 (BUSTED ROSE)", 0],
-    [25, "SWGP2018", "吟 (BUSTED ROSE)", 0],
-    [26, "Anything Goes", "吟 (BUSTED ROSE)", 0],
-    [27, "不敗神話", "吟 (BUSTED ROSE)", 0],
-    [28, "サーキットの狂犬", "吟 (BUSTED ROSE)", 0],
-    [29, "魔王", "吟 (BUSTED ROSE)", 0],
-    [30, "壁ドン", "吟 (BUSTED ROSE)", 0],
-    [31, "緊迫", "吟 (BUSTED ROSE)", 0],
-    [32, "歓喜", "吟 (BUSTED ROSE)", 0],
-    [33, "Adventure (Part.1)", "吟 (BUSTED ROSE)", 0],
-    [34, "Adventure (Part.2)", "吟 (BUSTED ROSE)", 0],
-    [35, "Enemy Is Dead", "吟 (BUSTED ROSE)", 0],
-    [36, "メリーさん", "吟 (BUSTED ROSE)", 0],
-    [37, "無題", "吟 (BUSTED ROSE)", 0],
-    [38, "イモ☆ヨバ", "吟 (BUSTED ROSE)", 0],
-    [39, "Children Of Destiny", "吟 (BUSTED ROSE)", 0],
-    [40, "ポプテピクッキング", "吟 (BUSTED ROSE)", 0],
-    [41, "ステージセレクト", "吟 (BUSTED ROSE)", 0],
-    [42, "激闘", "吟 (BUSTED ROSE)", 0],
-    [43, "一手損", "吟 (BUSTED ROSE)", 0],
-    [44, "億千万京兆のテーマ", "吟 (BUSTED ROSE)", 0],
-    [45, "PP1000", "吟 (BUSTED ROSE)", 0],
-    [46, "ココニイルヨ", "吟 (BUSTED ROSE)", 0],
-    [47, "Baby", "吟 (BUSTED ROSE)", 0],
-    [48, "激突", "吟 (BUSTED ROSE)", 0],
-    [49, "サクリファイス (Part.1)", "吟 (BUSTED ROSE)", 0],
-    [50, "サクリファイス (Part.2)", "吟 (BUSTED ROSE)", 0],
-    [51, "サクリファイス (Part.3)", "吟 (BUSTED ROSE)", 0],
-    [52, "綱走刑務所", "吟 (BUSTED ROSE)", 0],
-    [53, "最強の二人", "吟 (BUSTED ROSE)", 0],
-    [54, "ポプ死す", "吟 (BUSTED ROSE)", 0],
-    [55, "Heaven Or Hell", "吟 (BUSTED ROSE)", 0],
-    [56, "奇跡とダンスを", "吟 (BUSTED ROSE)", 0],
-    [57, "Breakin’ Out", "吟 (BUSTED ROSE)", 0],
-    [58, "Central Park", "吟 (BUSTED ROSE)", 0],
-    [59, "彼女達が教えてくれたこと", "吟 (BUSTED ROSE)", 0],
-    [60, "銀座ホステス探偵", "吟 (BUSTED ROSE)", 0],
-    [61, "真実はたぶん一つ", "吟 (BUSTED ROSE)", 0],
-    [62, "鈍器一発", "吟 (BUSTED ROSE)", 0],
-    [63, "1964", "吟 (BUSTED ROSE)", 0],
-    [64, "ポプテ〜ん", "吟 (BUSTED ROSE)", 0],
-    [65, "Fever Time", "吟 (BUSTED ROSE)", 0],
-    [66, "次回予告 (オルゴールMIX)", "吟 (BUSTED ROSE)", 0],
-    [67, "エイサイハラマスコイ踊り", "吟 (BUSTED ROSE)", 0],
-    [68, "呪館", "吟 (BUSTED ROSE)", 0],
-    [69, "エスニング", "吟 (BUSTED ROSE)", 0],
-    [70, "全て良し", "吟 (BUSTED ROSE)", 0],
-    [71, "Pop Team Epicrimson", "吟 (BUSTED ROSE)", 0],
-    [72, "TOMOGASHIMA", "吟 (BUSTED ROSE)", 0],
-    [73, "赤い扉", "吟 (BUSTED ROSE)", 0],
-    [74, "Pop Team Epicrimsonを手に入れた", "吟 (BUSTED ROSE)", 0],
-    [75, "竹書房爆破のテーマ", "吟 (BUSTED ROSE)", 0],
-    [76, "KING OF KINGRECORDS", "吟 (BUSTED ROSE)", 0],
-    [77, "合身", "吟 (BUSTED ROSE)", 0],
-    [78, "次回予告", "吟 (BUSTED ROSE)", 0],
+    [1, "キングレコードの勘違い", "ポプテピピック", 1],
+    [2, "出会い", "吟 (BUSTED ROSE)", 1],
+    [3, "あんた、名は。", "吟 (BUSTED ROSE)", 1],
+    [4, "広場", "吟 (BUSTED ROSE)", 1],
+    [5, "サバンナ", "吟 (BUSTED ROSE)", 1],
+    [6, "炸裂弾", "吟 (BUSTED ROSE)", 1],
+    [7, "好いとーよ", "吟 (BUSTED ROSE)", 1],
+    [8, "冒険の幕開け (Part.1)", "吟 (BUSTED ROSE)", 1],
+    [9, "冒険の幕開け (Part.2)", "吟 (BUSTED ROSE)", 1],
+    [10, "委員会", "吟 (BUSTED ROSE)", 1],
+    [11, "ザ・エンド", "吟 (BUSTED ROSE)", 1],
+    [12, "Made In Paris (Part.1)", "吟 (BUSTED ROSE)", 1],
+    [13, "Made In Paris (Part.2)", "吟 (BUSTED ROSE)", 1],
+    [14, "異次元遊戯ヴァンヴー", "吟 (BUSTED ROSE)", 1],
+    [15, "江戸川ブリッジの死闘", "吟 (BUSTED ROSE)", 1],
+    [16, "批判は何も生まれない", "吟 (BUSTED ROSE)", 1],
+    [17, "クソみくじ", "吟 (BUSTED ROSE)", 1],
+    [18, "ご飯の時間", "吟 (BUSTED ROSE)", 1],
+    [19, "朝 (夜)", "吟 (BUSTED ROSE)", 1],
+    [20, "ピピPのテーマ", "吟 (BUSTED ROSE)", 1],
+    [21, "クローンポプちん量産計画", "吟 (BUSTED ROSE)", 1],
+    [22, "レゲエファン", "吟 (BUSTED ROSE)", 1],
+    [23, "初見殺し", "吟 (BUSTED ROSE)", 1],
+    [24, "お便り", "吟 (BUSTED ROSE)", 1],
+    [25, "SWGP2018", "吟 (BUSTED ROSE)", 1],
+    [26, "Anything Goes", "吟 (BUSTED ROSE)", 1],
+    [27, "不敗神話", "吟 (BUSTED ROSE)", 1],
+    [28, "サーキットの狂犬", "吟 (BUSTED ROSE)", 1],
+    [29, "魔王", "吟 (BUSTED ROSE)", 1],
+    [30, "壁ドン", "吟 (BUSTED ROSE)", 1],
+    [31, "緊迫", "吟 (BUSTED ROSE)", 1],
+    [32, "歓喜", "吟 (BUSTED ROSE)", 1],
+    [33, "Adventure (Part.1)", "吟 (BUSTED ROSE)", 1],
+    [34, "Adventure (Part.2)", "吟 (BUSTED ROSE)", 1],
+    [35, "Enemy Is Dead", "吟 (BUSTED ROSE)", 1],
+    [36, "メリーさん", "吟 (BUSTED ROSE)", 1],
+    [37, "無題", "吟 (BUSTED ROSE)", 1],
+    [38, "イモ☆ヨバ", "吟 (BUSTED ROSE)", 1],
+    [39, "Children Of Destiny", "吟 (BUSTED ROSE)", 1],
+    [40, "ポプテピクッキング", "吟 (BUSTED ROSE)", 1],
+    [41, "ステージセレクト", "吟 (BUSTED ROSE)", 1],
+    [42, "激闘", "吟 (BUSTED ROSE)", 1],
+    [43, "一手損", "吟 (BUSTED ROSE)", 1],
+    [44, "億千万京兆のテーマ", "吟 (BUSTED ROSE)", 1],
+    [45, "PP1000", "吟 (BUSTED ROSE)", 1],
+    [46, "ココニイルヨ", "吟 (BUSTED ROSE)", 1],
+    [47, "Baby", "吟 (BUSTED ROSE)", 1],
+    [48, "激突", "吟 (BUSTED ROSE)", 1],
+    [49, "サクリファイス (Part.1)", "吟 (BUSTED ROSE)", 1],
+    [50, "サクリファイス (Part.2)", "吟 (BUSTED ROSE)", 1],
+    [51, "サクリファイス (Part.3)", "吟 (BUSTED ROSE)", 1],
+    [52, "綱走刑務所", "吟 (BUSTED ROSE)", 1],
+    [53, "最強の二人", "吟 (BUSTED ROSE)", 1],
+    [54, "ポプ死す", "吟 (BUSTED ROSE)", 1],
+    [55, "Heaven Or Hell", "吟 (BUSTED ROSE)", 1],
+    [56, "奇跡とダンスを", "吟 (BUSTED ROSE)", 1],
+    [57, "Breakin’ Out", "吟 (BUSTED ROSE)", 1],
+    [58, "Central Park", "吟 (BUSTED ROSE)", 1],
+    [59, "彼女達が教えてくれたこと", "吟 (BUSTED ROSE)", 1],
+    [60, "銀座ホステス探偵", "吟 (BUSTED ROSE)", 1],
+    [61, "真実はたぶん一つ", "吟 (BUSTED ROSE)", 1],
+    [62, "鈍器一発", "吟 (BUSTED ROSE)", 1],
+    [63, "1964", "吟 (BUSTED ROSE)", 1],
+    [64, "ポプテ〜ん", "吟 (BUSTED ROSE)", 1],
+    [65, "Fever Time", "吟 (BUSTED ROSE)", 1],
+    [66, "次回予告 (オルゴールMIX)", "吟 (BUSTED ROSE)", 1],
+    [67, "エイサイハラマスコイ踊り", "吟 (BUSTED ROSE)", 1],
+    [68, "呪館", "吟 (BUSTED ROSE)", 1],
+    [69, "エスニング", "吟 (BUSTED ROSE)", 1],
+    [70, "全て良し", "吟 (BUSTED ROSE)", 1],
+    [71, "Pop Team Epicrimson", "吟 (BUSTED ROSE)", 1],
+    [72, "TOMOGASHIMA", "吟 (BUSTED ROSE)", 1],
+    [73, "赤い扉", "吟 (BUSTED ROSE)", 1],
+    [74, "Pop Team Epicrimsonを手に入れた", "吟 (BUSTED ROSE)", 1],
+    [75, "竹書房爆破のテーマ", "吟 (BUSTED ROSE)", 1],
+    [76, "KING OF KINGRECORDS", "吟 (BUSTED ROSE)", 1],
+    [77, "合身", "吟 (BUSTED ROSE)", 1],
+    [78, "次回予告", "吟 (BUSTED ROSE)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c047e8f0-fe53-4fda-87c7-b2823810ed0f", "https://vgmdb.net/album/74624"]
 
@@ -165,30 +165,30 @@ catalognumber = "KICA-2526~8"
 date = "2018-03-28"
 album = "ポプテピピック ALL TIME BEST Original Soundtrack, Vocal Disc 2"
 tracks = [
-    [1, "Twinkling star", "ドロップスターズ", 0],
-    [2, "POPPY PAPPY DAY (女性ver.1)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 0],
-    [3, "POPPY PAPPY DAY (男性ver.1)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 0],
-    [4, "恋して♡ポプテピピック (女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 0],
-    [5, "恋して♡ポプテピピック (男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 0],
-    [6, "オリコうんナンバーワン (女性ver.)", "おりこうモンキーズ (CV:牧野由依、渡部優衣)", 0],
-    [7, "オリコうんナンバーワン (男性ver.)", "おりこうモンキーズ (CV:赤羽根健治、武内駿輔)", 0],
-    [8, "売れたいモンキーズ (女性ver.)", "おりこうモンキーズ (CV:牧野由依、渡部優衣)", 0],
-    [9, "売れたいモンキーズ (男性ver.)", "おりこうモンキーズ (CV:赤羽根健治、武内駿輔)", 0],
-    [10, "LET’S POP TOGETHER (女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 0],
-    [11, "LET’S POP TOGETHER (男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 0],
-    [12, "POPPY PAPPY DAY (Route66 Mix 女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 0],
-    [13, "POPPY PAPPY DAY (Route66 Mix 男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 0],
-    [14, "POPPY PAPPY DAY (8Bit Mix)", "吟 (BUSTED ROSE)", 0],
-    [15, "POPPY PAPPY DAY (女性ver.2)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [16, "POPPY PAPPY DAY (男性ver.2)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 0],
-    [17, "人生 (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [18, "人生 (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 0],
-    [19, "貴方に伝えたいコト", "星降そそぐ (CV:小倉唯)", 0],
-    [20, "心の大樹 (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [21, "心の大樹 (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 0],
-    [22, "おねんねコンちゃん (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [23, "おねんねコンちゃん (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 0],
-    [24, "POPPY PAPPY DAY (蒼井翔太ver.)", "蒼井翔太 (CV:蒼井翔太)", 0],
+    [1, "Twinkling star", "ドロップスターズ", 1],
+    [2, "POPPY PAPPY DAY (女性ver.1)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 1],
+    [3, "POPPY PAPPY DAY (男性ver.1)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 1],
+    [4, "恋して♡ポプテピピック (女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 2],
+    [5, "恋して♡ポプテピピック (男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 1],
+    [6, "オリコうんナンバーワン (女性ver.)", "おりこうモンキーズ (CV:牧野由依、渡部優衣)", 1],
+    [7, "オリコうんナンバーワン (男性ver.)", "おりこうモンキーズ (CV:赤羽根健治、武内駿輔)", 1],
+    [8, "売れたいモンキーズ (女性ver.)", "おりこうモンキーズ (CV:牧野由依、渡部優衣)", 1],
+    [9, "売れたいモンキーズ (男性ver.)", "おりこうモンキーズ (CV:赤羽根健治、武内駿輔)", 1],
+    [10, "LET’S POP TOGETHER (女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 1],
+    [11, "LET’S POP TOGETHER (男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 1],
+    [12, "POPPY PAPPY DAY (Route66 Mix 女性ver.)", "ポプ子 (CV:牧野由依)、ピピ美 (CV:渡部優衣)", 1],
+    [13, "POPPY PAPPY DAY (Route66 Mix 男性ver.)", "ポプ子 (CV:赤羽根健治)、ピピ美 (CV:武内駿輔)", 1],
+    [14, "POPPY PAPPY DAY (8Bit Mix)", "吟 (BUSTED ROSE)", 1],
+    [15, "POPPY PAPPY DAY (女性ver.2)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [16, "POPPY PAPPY DAY (男性ver.2)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 1],
+    [17, "人生 (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [18, "人生 (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 1],
+    [19, "貴方に伝えたいコト", "星降そそぐ (CV:小倉唯)", 1],
+    [20, "心の大樹 (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [21, "心の大樹 (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 1],
+    [22, "おねんねコンちゃん (女性ver.)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [23, "おねんねコンちゃん (男性ver.)", "ポプ子 (CV:増田俊樹)、ピピ美 (CV:羽多野渉)", 1],
+    [24, "POPPY PAPPY DAY (蒼井翔太ver.)", "蒼井翔太 (CV:蒼井翔太)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c047e8f0-fe53-4fda-87c7-b2823810ed0f", "https://vgmdb.net/album/74624"]
 
@@ -197,27 +197,27 @@ catalognumber = "KICA-2526~8"
 date = "2018-03-28"
 album = "ポプテピピック ALL TIME BEST Original Soundtrack, Vocal Disc 3"
 tracks = [
-    [1, "Twinkling star (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [2, "POPPY PAPPY DAY (instrumental 女性ver.)", "吟 (BUSTED ROSE)", 0],
-    [3, "POPPY PAPPY DAY (instrumental 男性ver.)", "吟 (BUSTED ROSE)", 0],
-    [4, "恋して♡ポプテピピック (instrumental 女性ver.)", "吟 (BUSTED ROSE)", 0],
-    [5, "恋して♡ポプテピピック (instrumental 男性ver.)", "吟 (BUSTED ROSE)", 0],
-    [6, "オリコうんナンバーワン (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [7, "売れたいモンキーズ (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [8, "LET’S POP TOGETHER (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [9, "POPPY PAPPY DAY (Route66 Mix instrumental 女性ver.)", "吟 (BUSTED ROSE)", 0],
-    [10, "POPPY PAPPY DAY (Route66 Mix instrumental 男性ver.)", "吟 (BUSTED ROSE)", 0],
-    [11, "人生 (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [12, "貴方に伝えたいコト (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [13, "心の大樹 (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [14, "おねんねコンちゃん (instrumental)", "吟 (BUSTED ROSE)", 0],
-    [15, "POPPY PAPPY DAY (instrumental 蒼井翔太ver.)", "吟 (BUSTED ROSE)", 0],
-    [16, "POPPY PAPPY DAY (TV SIZE 女性ver.2-1)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [17, "POPPY PAPPY DAY (TV SIZE 女性ver.2-2)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [18, "POPPY PAPPY DAY (TV SIZE 女性ver.2-3)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [19, "POPPY PAPPY DAY (TV SIZE 女性ver.2-4)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [20, "POPPY PAPPY DAY (TV SIZE 女性ver.2-5)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
-    [21, "POPPY PAPPY DAY (TV SIZE 女性ver.2-6)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 0],
+    [1, "Twinkling star (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [2, "POPPY PAPPY DAY (instrumental 女性ver.)", "吟 (BUSTED ROSE)", 1],
+    [3, "POPPY PAPPY DAY (instrumental 男性ver.)", "吟 (BUSTED ROSE)", 1],
+    [4, "恋して♡ポプテピピック (instrumental 女性ver.)", "吟 (BUSTED ROSE)", 1],
+    [5, "恋して♡ポプテピピック (instrumental 男性ver.)", "吟 (BUSTED ROSE)", 1],
+    [6, "オリコうんナンバーワン (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [7, "売れたいモンキーズ (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [8, "LET’S POP TOGETHER (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [9, "POPPY PAPPY DAY (Route66 Mix instrumental 女性ver.)", "吟 (BUSTED ROSE)", 1],
+    [10, "POPPY PAPPY DAY (Route66 Mix instrumental 男性ver.)", "吟 (BUSTED ROSE)", 1],
+    [11, "人生 (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [12, "貴方に伝えたいコト (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [13, "心の大樹 (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [14, "おねんねコンちゃん (instrumental)", "吟 (BUSTED ROSE)", 1],
+    [15, "POPPY PAPPY DAY (instrumental 蒼井翔太ver.)", "吟 (BUSTED ROSE)", 1],
+    [16, "POPPY PAPPY DAY (TV SIZE 女性ver.2-1)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [17, "POPPY PAPPY DAY (TV SIZE 女性ver.2-2)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [18, "POPPY PAPPY DAY (TV SIZE 女性ver.2-3)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [19, "POPPY PAPPY DAY (TV SIZE 女性ver.2-4)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [20, "POPPY PAPPY DAY (TV SIZE 女性ver.2-5)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
+    [21, "POPPY PAPPY DAY (TV SIZE 女性ver.2-6)", "ポプ子 (CV:五十嵐裕美)、ピピ美 (CV:松嵜麗)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c047e8f0-fe53-4fda-87c7-b2823810ed0f", "https://vgmdb.net/album/74624"]
 
@@ -227,7 +227,7 @@ date = "2018-08-01"
 album = "ノーフューチャーバカンス / 上坂すみれ [初回限定盤A] Disc 1 (CD) [KICS-93726]"
 tracks = [
     [1, "予感03 •Instrumental", "上坂すみれ", 0],
-    [2, "POP TEAM EPIC", "上坂すみれ", 0],
+    [2, "POP TEAM EPIC", "上坂すみれ", 1],
     [3, "恋する図形(cubic futurismo)", "上坂すみれ", 0],
     [4, "よっぱらっぴ☆", "上坂すみれ", 0],
     [5, "地獄でホットケーキ", "上坂すみれ", 0],
@@ -253,7 +253,7 @@ tracks = [
     [1, "恋する図形(cubic futurismo) (Music Video)", "", 0],
     [2, "踊れ!きゅーきょく哲学 (Music Video)", "", 0],
     [3, "リバーサイド・ラヴァーズ(奈落の恋) (Music Video)", "", 0],
-    [4, "POP TEAM EPIC (Music Video)", "", 0],
+    [4, "POP TEAM EPIC (Music Video)", "", 1],
     [5, "ノーフューチャーバカンス (Music Video)", "", 0],
     [6, "ノーフューチャーバカンス (MAKING)", "", 0],
 ]
@@ -265,7 +265,7 @@ date = "2018-08-01"
 album = "ノーフューチャーバカンス / 上坂すみれ [初回限定盤B]"
 tracks = [
     [1, "予感03", "上坂すみれ", 0],
-    [2, "POP TEAM EPIC", "上坂すみれ", 0],
+    [2, "POP TEAM EPIC", "上坂すみれ", 1],
     [3, "恋する図形(cubic futurismo)", "上坂すみれ", 0],
     [4, "よっぱらっぴ☆", "上坂すみれ", 0],
     [5, "地獄でホットケーキ", "上坂すみれ", 0],
@@ -289,7 +289,7 @@ date = "2018-08-01"
 album = "ノーフューチャーバカンス / 上坂すみれ"
 tracks = [
     [1, "予感03 •Instrumental", "上坂すみれ", 0],
-    [2, "POP TEAM EPIC", "上坂すみれ", 0],
+    [2, "POP TEAM EPIC", "上坂すみれ", 1],
     [3, "恋する図形(cubic futurismo)", "上坂すみれ", 0],
     [4, "よっぱらっぴ☆", "上坂すみれ", 0],
     [5, "地獄でホットケーキ", "上坂すみれ", 0],
@@ -312,8 +312,8 @@ catalognumber = "FJEP-10"
 date = "2018-11-03"
 album = "POP TEAM EPIC/増殖罵倒少女の愚恋 / 上坂すみれ"
 tracks = [
-    [1, "POP TEAM EPIC", "", 0],
-    [2, "増殖罵倒少女の愚恋", "", 0],
+    [1, "POP TEAM EPIC", "", 1],
+    [2, "増殖罵倒少女の愚恋", "", 1],
 ]
 links = ["https://vgmdb.net/album/80481"]
 
@@ -367,7 +367,7 @@ tracks = [
     [43, "THE UNIVERSE END M-14 - 8bit arrange ver.", "mochi_season", 0],
     [44, "おとなの掟 - 8bit arrange ver.", "mochi_season", 0],
     [45, "Lily - 8bit arrange ver.", "mochi_season", 0],
-    [46, "POPPY PAPPY DAY TV Size - 8bit arrange ver.", "mochi_season", 0],
+    [46, "POPPY PAPPY DAY TV Size - 8bit arrange ver.", "mochi_season", 1],
     [47, "THE WORLD REVOLVING - 8bit arrange ver.", "mochi_season", 0],
     [48, "Spilit of Motherwill - 8bit arrange ver.", "mochi_season", 0],
     [49, "The Mother Will Comes Again - 8bit arrange ver.", "mochi_season", 0],
@@ -558,7 +558,7 @@ catalognumber = "NOPA-2969"
 date = "2021-11-01"
 album = "POP TEAM EPIC (REBROADCASTING MIX) / 上坂すみれ"
 tracks = [
-    [1, "POP TEAM EPIC (REBROADCASTING MIX)", "上坂すみれ", 0],
+    [1, "POP TEAM EPIC (REBROADCASTING MIX)", "上坂すみれ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6ab48914-0a0d-4612-a9b1-d4a44eb9d148", "https://vgmdb.net/album/115952"]
 
@@ -568,7 +568,7 @@ date = "2022-01-05"
 album = "D4DJ D4 FES. -Be Happy- REMIX ライブ映像 -海原ミチル&Happy Around!・ALL CAST-"
 tracks = [
     [1, "ぐるぐるDJ TURN!!", "", 0],
-    [2, "POP TEAM EPIC", "", 0],
+    [2, "POP TEAM EPIC", "", 1],
     [3, "H-A-J-I-M-A-R-I-U-T-A-!!", "", 0],
     [4, "DIVE TO WORLD", "", 0],
     [5, "WOW WAR TONIGHT～時には起こせよムーヴメント～", "", 0],
@@ -590,7 +590,7 @@ tracks = [
     [8, "ヒミツのトモダチ♡", "", 0],
     [9, "-週末劇場「ドラゴン菫」前編-", "", 0],
     [10, "パララックス・ビュー", "", 0],
-    [11, "POP TEAM EPIC", "", 0],
+    [11, "POP TEAM EPIC", "", 1],
     [12, "MESSAGE", "", 0],
     [13, "-MC2-", "", 0],
     [14, "SPY", "", 0],
@@ -635,7 +635,7 @@ tracks = [
     [10, "Journey through the Decade", "燐舞曲", 0],
     [11, "太陽のflare sherbet", "Lyrical Lily", 0],
     [12, "サクラサク", "Lyrical Lily", 0],
-    [13, "POP TEAM EPIC", "海原ミチル", 0],
+    [13, "POP TEAM EPIC", "海原ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/66b2edad-9a51-45e1-9b05-7fcd4e1037dd", "https://vgmdb.net/album/117931"]
 
@@ -779,7 +779,7 @@ date = "2023-08-02"
 album = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER 05 ハートボイルドウォーズ"
 tracks = [
     [1, "ハートボイルドウォーズ (M@STER VERSION)", "大和亜季(CV:村中知)、村上巴(CV:花井美春)、片桐早苗(CV:和氣あず未)", 0],
-    [2, "POPPY PAPPY DAY", "諸星きらり(CV:松嵜麗)、双葉杏(CV:五十嵐裕美)", 0],
+    [2, "POPPY PAPPY DAY", "諸星きらり(CV:松嵜麗)、双葉杏(CV:五十嵐裕美)", 1],
     [3, "ハッピー・ジャムジャム", "市原仁奈(CV:久野美咲)、赤城みりあ(CV:黒沢ともよ)", 0],
     [4, "ハートボイルドウォーズ (M@STER VERSION) (オリジナル・カラオケ)", "大和亜季(CV:村中知)、村上巴(CV:花井美春)、片桐早苗(CV:和氣あず未)", 0],
     [5, "ハートボイルドウォーズ (M@STER VERSION) (大和亜季ソロ・リミックス)", "大和亜季(CV:村中知)", 0],
@@ -857,7 +857,7 @@ tracks = [
     [6, "Inner Urge", "上坂すみれ", 0],
     [7, "恋する図形(cubic futurismo)", "上坂すみれ", 0],
     [8, "踊れ!きゅーきょく哲学", "上坂すみれ", 0],
-    [9, "POP TEAM EPIC", "上坂すみれ", 0],
+    [9, "POP TEAM EPIC", "上坂すみれ", 1],
     [10, "ボン♡キュッ♡ボンは彼のモノ♡", "上坂すみれ", 0],
     [11, "EASY LOVE", "上坂すみれ", 0],
     [12, "生活こんきゅーダメディネロ", "上坂すみれ", 0],

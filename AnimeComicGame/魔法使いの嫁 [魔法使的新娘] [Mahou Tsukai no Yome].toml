@@ -3,10 +3,10 @@ catalognumber = "VTCL-35264"
 date = "2017-11-01"
 album = "環-cycle- / 糸奇はな"
 tracks = [
-    [1, "環-cycle-", "糸奇はな", 0],
-    [2, "EYE", "糸奇はな", 0],
-    [3, "環-cycle- (instrumental)", "小峰公子, 吉良知彦 & 上野洋子", 0],
-    [4, "EYE (instrumental)", "糸奇はな", 0],
+    [1, "環-cycle-", "糸奇はな", 1],
+    [2, "EYE", "糸奇はな", 1],
+    [3, "環-cycle- (instrumental)", "小峰公子, 吉良知彦 & 上野洋子", 1],
+    [4, "EYE (instrumental)", "糸奇はな", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c488c24c-dcac-4cda-bf4d-9b24b4902f70", "https://vgmdb.net/album/70948"]
 
@@ -15,12 +15,12 @@ catalognumber = "VTCL-35263"
 date = "2017-11-01"
 album = "Here / JUNNA"
 tracks = [
-    [1, "Here", "JUNNA", 0],
-    [2, "Steppin' Out", "JUNNA", 0],
-    [3, "ソラノスミカ", "JUNNA", 0],
-    [4, "Here -Instrumental-", "JUNNA", 0],
-    [5, "Steppin' Out -Instrumental-", "JUNNA", 0],
-    [6, "ソラノスミカ -Instrumental-", "JUNNA", 0],
+    [1, "Here", "JUNNA", 1],
+    [2, "Steppin' Out", "JUNNA", 1],
+    [3, "ソラノスミカ", "JUNNA", 1],
+    [4, "Here -Instrumental-", "JUNNA", 1],
+    [5, "Steppin' Out -Instrumental-", "JUNNA", 1],
+    [6, "ソラノスミカ -Instrumental-", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e78f092e-61ec-41ae-8db4-6ff966566e58", "https://vgmdb.net/album/70924"]
 
@@ -29,36 +29,36 @@ catalognumber = "VTCL-60463"
 date = "2017-12-20"
 album = "TVアニメ「魔法使いの嫁」オリジナルサウンドトラック"
 tracks = [
-    [1, "Lines for the Sadness", "松本淳一", 0],
-    [2, "The Ancient Magus Bride’s Main Theme", "松本淳一", 0],
-    [3, "Here [TV‐EDIT]", "JUNNA", 0],
-    [4, "Magus Bride’s Lacework is Dripping Her Memories…", "松本淳一", 0],
-    [5, "魔雫のカケラ", "松本淳一", 0],
-    [6, "Wing’s Light Works", "松本淳一", 0],
-    [7, "Les Fees du Bois", "松本淳一", 0],
-    [8, "陽だまり猫に窓", "松本淳一", 0],
-    [9, "魔法のシルエット", "松本淳一", 0],
-    [10, "穏やかなジーグ", "松本淳一", 0],
-    [11, "隣人たち…", "松本淳一", 0],
-    [12, "巨大な幻惑紙の上で", "松本淳一", 0],
-    [13, "Chise’s Pastoral", "松本淳一", 0],
-    [14, "Taboo Gimmick", "松本淳一", 0],
-    [15, "ファミリア Vol.1", "松本淳一", 0],
-    [16, "リベロアーラ", "坂本美雨", 0],
-    [17, "ネヴィンの肖像", "松本淳一", 0],
-    [18, "In the Ancient Forest", "松本淳一", 0],
-    [19, "重量級ダブルフラット", "松本淳一", 0],
-    [20, "いにしえの魔法伝説", "松本淳一", 0],
-    [21, "君の行方", "KOCHO", 0],
-    [22, "理のはじまり", "松本淳一", 0],
-    [23, "精霊の舞〜Dance of the Spirit", "KOKIA", 0],
-    [24, "時の横顔", "松本淳一", 0],
-    [25, "鉄弦アンソロジー", "松本淳一", 0],
-    [26, "Black Windy Days", "松本淳一", 0],
-    [27, "アンノドミニ", "北條響", 0],
-    [28, "環‐cycle‐ [TV‐EDIT]", "糸奇はな", 0],
-    [29, "Symphonic Poem “The Ancient Magus’s Bride”", "松本淳一", 0],
-    [30, "弓のアンソロジー", "松本淳一", 0],
+    [1, "Lines for the Sadness", "松本淳一", 1],
+    [2, "The Ancient Magus Bride’s Main Theme", "松本淳一", 1],
+    [3, "Here [TV‐EDIT]", "JUNNA", 1],
+    [4, "Magus Bride’s Lacework is Dripping Her Memories…", "松本淳一", 1],
+    [5, "魔雫のカケラ", "松本淳一", 1],
+    [6, "Wing’s Light Works", "松本淳一", 1],
+    [7, "Les Fees du Bois", "松本淳一", 1],
+    [8, "陽だまり猫に窓", "松本淳一", 1],
+    [9, "魔法のシルエット", "松本淳一", 1],
+    [10, "穏やかなジーグ", "松本淳一", 1],
+    [11, "隣人たち…", "松本淳一", 1],
+    [12, "巨大な幻惑紙の上で", "松本淳一", 1],
+    [13, "Chise’s Pastoral", "松本淳一", 1],
+    [14, "Taboo Gimmick", "松本淳一", 1],
+    [15, "ファミリア Vol.1", "松本淳一", 1],
+    [16, "リベロアーラ", "坂本美雨", 1],
+    [17, "ネヴィンの肖像", "松本淳一", 1],
+    [18, "In the Ancient Forest", "松本淳一", 1],
+    [19, "重量級ダブルフラット", "松本淳一", 1],
+    [20, "いにしえの魔法伝説", "松本淳一", 1],
+    [21, "君の行方", "KOCHO", 1],
+    [22, "理のはじまり", "松本淳一", 1],
+    [23, "精霊の舞〜Dance of the Spirit", "KOKIA", 1],
+    [24, "時の横顔", "松本淳一", 1],
+    [25, "鉄弦アンソロジー", "松本淳一", 1],
+    [26, "Black Windy Days", "松本淳一", 1],
+    [27, "アンノドミニ", "北條響", 1],
+    [28, "環‐cycle‐ [TV‐EDIT]", "糸奇はな", 1],
+    [29, "Symphonic Poem “The Ancient Magus’s Bride”", "松本淳一", 1],
+    [30, "弓のアンソロジー", "松本淳一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/584feb81-945c-4566-a1b0-3539e8203492", "https://vgmdb.net/album/72461"]
 
@@ -67,12 +67,12 @@ catalognumber = "VTZL-141"
 date = "2018-02-07"
 album = "You / May'n [初回限定盤] Disc 1 (CD) [VTCL-35265]"
 tracks = [
-    [1, "You", "May’n", 0],
-    [2, "Another", "May’n", 0],
-    [3, "モンスター", "May’n", 0],
-    [4, "You(without May’n)", "May’n", 0],
-    [5, "Another(without May’n)", "May’n", 0],
-    [6, "モンスター(without May’n)", "May’n", 0],
+    [1, "You", "May’n", 1],
+    [2, "Another", "May’n", 1],
+    [3, "モンスター", "May’n", 1],
+    [4, "You(without May’n)", "May’n", 1],
+    [5, "Another(without May’n)", "May’n", 1],
+    [6, "モンスター(without May’n)", "May’n", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6b6cdfff-8892-4e9e-be29-70acd1eaa7d0", "https://vgmdb.net/album/73085"]
 
@@ -81,7 +81,7 @@ catalognumber = "VTZL-141"
 date = "2018-02-07"
 album = "You / May'n [初回限定盤] Disc 2 (Blu-ray) [VTXY-66]"
 tracks = [
-    [1, "You(Music Video)", "May’n", 0],
+    [1, "You(Music Video)", "May’n", 1],
     [2, "Shine A Light(Music Video)", "May’n", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6b6cdfff-8892-4e9e-be29-70acd1eaa7d0", "https://vgmdb.net/album/73085"]
@@ -91,12 +91,12 @@ catalognumber = "VTCL-35265"
 date = "2018-02-07"
 album = "You / May'n"
 tracks = [
-    [1, "You", "May’n", 0],
-    [2, "Another", "May’n", 0],
-    [3, "モンスター", "May’n", 0],
-    [4, "You(without May'n)", "May’n", 0],
-    [5, "Another(without May'n)", "May’n", 0],
-    [6, "モンスター(without May'n)", "May’n", 0],
+    [1, "You", "May’n", 1],
+    [2, "Another", "May’n", 1],
+    [3, "モンスター", "May’n", 1],
+    [4, "You(without May'n)", "May’n", 1],
+    [5, "Another(without May'n)", "May’n", 1],
+    [6, "モンスター(without May'n)", "May’n", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f8cbd051-0c21-4799-9b5d-efafdb6b9941", "https://vgmdb.net/album/73086"]
 
@@ -105,10 +105,10 @@ catalognumber = "VTCL-35266"
 date = "2018-02-07"
 album = "月のもう半分 / AIKI & AKINO from bless4"
 tracks = [
-    [1, "月のもう半分", "AIKI & AKINO from bless4", 0],
-    [2, "Fragile", "AIKI from bless4", 0],
-    [3, "月のもう半分 (instrumental)", "AIKI & AKINO from bless4", 0],
-    [4, "Fragile (instrumental)", "AIKI from bless4", 0],
+    [1, "月のもう半分", "AIKI & AKINO from bless4", 1],
+    [2, "Fragile", "AIKI from bless4", 1],
+    [3, "月のもう半分 (instrumental)", "AIKI & AKINO from bless4", 1],
+    [4, "Fragile (instrumental)", "AIKI from bless4", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/41ac0060-3b5e-4110-b082-1079be68309c", "https://vgmdb.net/album/73087"]
 
@@ -117,34 +117,34 @@ catalognumber = "VTCL-60469"
 date = "2018-03-28"
 album = "TVアニメ「魔法使いの嫁」オリジナルサウンドトラック2"
 tracks = [
-    [1, "異峡の湖面にて", "松本淳一", 0],
-    [2, "イルナ エテルロ", "竹中大地", 0],
-    [3, "水鏡の人", "松本淳一", 0],
-    [4, "ファミリア vol.2", "松本淳一", 0],
-    [5, "Welcome Back to Your Home‼︎", "松本淳一", 0],
-    [6, "Chise's Smile", "松本淳一", 0],
-    [7, "Mr.Monster in the Smell of Sand", "松本淳一", 0],
-    [8, "Passion", "松本淳一", 0],
-    [9, "You【TV-EDIT】", "May’n", 0],
-    [10, "At the Deserted Countryside in England", "松本淳一", 0],
-    [11, "ココロウツロ", "松本淳一", 0],
-    [12, "クレッシェンディス", "松本淳一", 0],
-    [13, "Time to Return Your Memory", "松本淳一", 0],
-    [14, "Fairy's Factory", "松本淳一", 0],
-    [15, "Rose", "Kaco", 0],
-    [16, "アウスト", "松本淳一", 0],
-    [17, "Flap Clap Trap", "松本淳一", 0],
-    [18, "Cave", "松本淳一", 0],
-    [19, "バンシーの小さな詩篇", "松本淳一", 0],
-    [20, "花数え", "新居昭乃", 0],
-    [21, "寄り添う花のように", "松本淳一", 0],
-    [22, "Chise's Love", "松本淳一", 0],
-    [23, "Story", "コトリンゴ", 0],
-    [24, "Milli Veraldar", "松本淳一", 0],
-    [25, "月のもう半分【TV-EDIT】", "AIKI & AKINO from bless4", 0],
-    [26, "Symphonic Chimera No.1", "松本淳一", 0],
-    [27, "Celebrate Your Happiness…‼︎", "松本淳一", 0],
-    [28, "The Legend of \"The Ancient Magus Bride\"", "Jessica", 0],
+    [1, "異峡の湖面にて", "松本淳一", 1],
+    [2, "イルナ エテルロ", "竹中大地", 1],
+    [3, "水鏡の人", "松本淳一", 1],
+    [4, "ファミリア vol.2", "松本淳一", 1],
+    [5, "Welcome Back to Your Home‼︎", "松本淳一", 1],
+    [6, "Chise's Smile", "松本淳一", 1],
+    [7, "Mr.Monster in the Smell of Sand", "松本淳一", 1],
+    [8, "Passion", "松本淳一", 1],
+    [9, "You【TV-EDIT】", "May’n", 1],
+    [10, "At the Deserted Countryside in England", "松本淳一", 1],
+    [11, "ココロウツロ", "松本淳一", 1],
+    [12, "クレッシェンディス", "松本淳一", 1],
+    [13, "Time to Return Your Memory", "松本淳一", 1],
+    [14, "Fairy's Factory", "松本淳一", 1],
+    [15, "Rose", "Kaco", 1],
+    [16, "アウスト", "松本淳一", 1],
+    [17, "Flap Clap Trap", "松本淳一", 1],
+    [18, "Cave", "松本淳一", 1],
+    [19, "バンシーの小さな詩篇", "松本淳一", 1],
+    [20, "花数え", "新居昭乃", 1],
+    [21, "寄り添う花のように", "松本淳一", 1],
+    [22, "Chise's Love", "松本淳一", 1],
+    [23, "Story", "コトリンゴ", 1],
+    [24, "Milli Veraldar", "松本淳一", 1],
+    [25, "月のもう半分【TV-EDIT】", "AIKI & AKINO from bless4", 1],
+    [26, "Symphonic Chimera No.1", "松本淳一", 1],
+    [27, "Celebrate Your Happiness…‼︎", "松本淳一", 1],
+    [28, "The Legend of \"The Ancient Magus Bride\"", "Jessica", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2d559c46-0990-474e-9ecb-7b168489aae7", "https://vgmdb.net/album/73648"]
 
@@ -161,7 +161,7 @@ tracks = [
     [6, "笑えない話", "KOKIA", 0],
     [7, "ピエロの夢", "KOKIA", 0],
     [8, "私の中の獣", "KOKIA", 0],
-    [9, "精霊の舞 ～Dance of the Spirit", "KOKIA", 0],
+    [9, "精霊の舞 ～Dance of the Spirit", "KOKIA", 1],
     [10, "tori", "KOKIA", 0],
     [11, "FURUSATO ～故郷～", "KOKIA", 0],
     [12, "言葉の向こう側", "KOKIA", 0],
@@ -175,34 +175,34 @@ catalognumber = "VTCL-60472~3"
 date = "2018-05-30"
 album = "魔法使いの嫁-星待つ人- オリジナルサウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "魔法使いの嫁 “星待つひと”", "松本淳一", 0],
-    [2, "朝のエリアス邸", "松本淳一", 0],
-    [3, "隣人たちが庭", "松本淳一", 0],
-    [4, "助け合い?", "松本淳一", 0],
-    [5, "ひとりぼっちのほしのこは", "松本淳一", 0],
-    [6, "入口…", "松本淳一", 0],
-    [7, "交響的断片 ー人ならざるものー", "松本淳一", 0],
-    [8, "森の図書館", "松本淳一", 0],
-    [9, "懐かしい気持ち", "松本淳一", 0],
-    [10, "サイドストーリーは君と踊る", "松本淳一", 0],
-    [11, "みえてしまう", "松本淳一", 0],
-    [12, "とある恋愛奇譚", "松本淳一", 0],
-    [13, "チセのテーマ", "松本淳一", 0],
-    [14, "魔法発動", "松本淳一", 0],
-    [15, "無垢な人", "松本淳一", 0],
-    [16, "朝食と湯気", "松本淳一", 0],
-    [17, "揺らめく図書館", "松本淳一", 0],
-    [18, "小さな手に大きな仕事", "松本淳一", 0],
-    [19, "真弓のテーマ", "松本淳一", 0],
-    [20, "予感…", "松本淳一", 0],
-    [21, "チセの悲しみ", "松本淳一", 0],
-    [22, "風", "松本淳一", 0],
-    [23, "交響的断片 ーうずまきー", "松本淳一", 0],
-    [24, "三浦の想い", "松本淳一", 0],
-    [25, "決意", "松本淳一", 0],
-    [26, "あなたの光によせて", "松本淳一", 0],
-    [27, "星降る夜に…", "松本淳一", 0],
-    [28, "CLOCKWORK QUICK AND LIGHTNING SLOW [A Spell to make all things well]", "Julia Shortreed", 0],
+    [1, "魔法使いの嫁 “星待つひと”", "松本淳一", 1],
+    [2, "朝のエリアス邸", "松本淳一", 1],
+    [3, "隣人たちが庭", "松本淳一", 1],
+    [4, "助け合い?", "松本淳一", 1],
+    [5, "ひとりぼっちのほしのこは", "松本淳一", 1],
+    [6, "入口…", "松本淳一", 1],
+    [7, "交響的断片 ー人ならざるものー", "松本淳一", 1],
+    [8, "森の図書館", "松本淳一", 1],
+    [9, "懐かしい気持ち", "松本淳一", 1],
+    [10, "サイドストーリーは君と踊る", "松本淳一", 1],
+    [11, "みえてしまう", "松本淳一", 1],
+    [12, "とある恋愛奇譚", "松本淳一", 1],
+    [13, "チセのテーマ", "松本淳一", 1],
+    [14, "魔法発動", "松本淳一", 1],
+    [15, "無垢な人", "松本淳一", 1],
+    [16, "朝食と湯気", "松本淳一", 1],
+    [17, "揺らめく図書館", "松本淳一", 1],
+    [18, "小さな手に大きな仕事", "松本淳一", 1],
+    [19, "真弓のテーマ", "松本淳一", 1],
+    [20, "予感…", "松本淳一", 1],
+    [21, "チセの悲しみ", "松本淳一", 1],
+    [22, "風", "松本淳一", 1],
+    [23, "交響的断片 ーうずまきー", "松本淳一", 1],
+    [24, "三浦の想い", "松本淳一", 1],
+    [25, "決意", "松本淳一", 1],
+    [26, "あなたの光によせて", "松本淳一", 1],
+    [27, "星降る夜に…", "松本淳一", 1],
+    [28, "CLOCKWORK QUICK AND LIGHTNING SLOW [A Spell to make all things well]", "Julia Shortreed", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a365d154-64c7-4c1d-a6ea-e2637068e0c7", "https://vgmdb.net/album/76418"]
 
@@ -211,37 +211,37 @@ catalognumber = "VTCL-60472~3"
 date = "2018-05-30"
 album = "魔法使いの嫁-星待つ人- オリジナルサウンドトラック Original Soundtrack"
 tracks = [
-    [1, "Snow", "松本淳一", 0],
-    [2, "To the Magical Point on the Earth!!", "松本淳一", 0],
-    [3, "シルキー", "松本淳一", 0],
-    [4, "ファミリア vol.3 - Pandemic Clock -", "松本淳一", 0],
-    [5, "Les Fees du Bois 2", "松本淳一", 0],
-    [6, "デフォルメな方々", "松本淳一", 0],
-    [7, "チセの森で vol.1", "松本淳一", 0],
-    [8, "The One by You", "松本淳一", 0],
-    [9, "綿虫の園", "松本淳一", 0],
-    [10, "Mr. Monster, What would you like next?", "松本淳一", 0],
-    [11, "チセの森で vol.2", "松本淳一", 0],
-    [12, "羽に乗って闇の谷間へ", "松本淳一", 0],
-    [13, "愛の苦しさと切なさと違和と差異と", "松本淳一", 0],
-    [14, "指先に灯火とストーリーを", "松本淳一", 0],
-    [15, "Decadence Woods", "松本淳一", 0],
-    [16, "ジト目な方々", "松本淳一", 0],
-    [17, "And Unconditional", "松本淳一", 0],
-    [18, "チセの音粒", "松本淳一", 0],
-    [19, "ダブルフラットスポット", "松本淳一", 0],
-    [20, "Shadow", "松本淳一", 0],
-    [21, "Retrograde Prediction Scales", "松本淳一", 0],
-    [22, "Air Flower Chant", "松本淳一", 0],
-    [23, "Cave’s Sadness", "松本淳一", 0],
-    [24, "Affirmation Your Whole Story", "松本淳一", 0],
-    [25, "Scissors’s Pulse", "松本淳一", 0],
-    [26, "Black Windy Horror", "松本淳一", 0],
-    [27, "Your Story’s Weight", "松本淳一", 0],
-    [28, "Symphonic Chimera vol.2 - Dragon -", "松本淳一", 0],
-    [29, "Back Legends of “The Ancient Magus Bride”", "松本淳一", 0],
-    [30, "Ending Story", "松本淳一", 0],
-    [31, "Premonition", "松本淳一", 0],
+    [1, "Snow", "松本淳一", 1],
+    [2, "To the Magical Point on the Earth!!", "松本淳一", 1],
+    [3, "シルキー", "松本淳一", 1],
+    [4, "ファミリア vol.3 - Pandemic Clock -", "松本淳一", 1],
+    [5, "Les Fees du Bois 2", "松本淳一", 1],
+    [6, "デフォルメな方々", "松本淳一", 1],
+    [7, "チセの森で vol.1", "松本淳一", 1],
+    [8, "The One by You", "松本淳一", 1],
+    [9, "綿虫の園", "松本淳一", 1],
+    [10, "Mr. Monster, What would you like next?", "松本淳一", 1],
+    [11, "チセの森で vol.2", "松本淳一", 1],
+    [12, "羽に乗って闇の谷間へ", "松本淳一", 1],
+    [13, "愛の苦しさと切なさと違和と差異と", "松本淳一", 1],
+    [14, "指先に灯火とストーリーを", "松本淳一", 1],
+    [15, "Decadence Woods", "松本淳一", 1],
+    [16, "ジト目な方々", "松本淳一", 1],
+    [17, "And Unconditional", "松本淳一", 1],
+    [18, "チセの音粒", "松本淳一", 1],
+    [19, "ダブルフラットスポット", "松本淳一", 1],
+    [20, "Shadow", "松本淳一", 1],
+    [21, "Retrograde Prediction Scales", "松本淳一", 1],
+    [22, "Air Flower Chant", "松本淳一", 1],
+    [23, "Cave’s Sadness", "松本淳一", 1],
+    [24, "Affirmation Your Whole Story", "松本淳一", 1],
+    [25, "Scissors’s Pulse", "松本淳一", 1],
+    [26, "Black Windy Horror", "松本淳一", 1],
+    [27, "Your Story’s Weight", "松本淳一", 1],
+    [28, "Symphonic Chimera vol.2 - Dragon -", "松本淳一", 1],
+    [29, "Back Legends of “The Ancient Magus Bride”", "松本淳一", 1],
+    [30, "Ending Story", "松本淳一", 1],
+    [31, "Premonition", "松本淳一", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a365d154-64c7-4c1d-a6ea-e2637068e0c7", "https://vgmdb.net/album/76418"]
 
@@ -255,7 +255,7 @@ tracks = [
     [3, "74", "糸奇はな", 0],
     [4, "Pillowman", "糸奇はな", 0],
     [5, "A love suicide", "糸奇はな", 0],
-    [6, "環 –cycle–", "糸奇はな", 0],
+    [6, "環 –cycle–", "糸奇はな", 1],
     [7, "不眠症ロンリーガール", "糸奇はな", 0],
     [8, "忘却舞踏", "糸奇はな", 0],
     [9, "四角い世界", "糸奇はな", 0],
@@ -275,7 +275,7 @@ tracks = [
     [3, "74", "糸奇はな", 0],
     [4, "Pillowman", "糸奇はな", 0],
     [5, "A love suicide", "糸奇はな", 0],
-    [6, "環 –cycle–", "糸奇はな", 0],
+    [6, "環 –cycle–", "糸奇はな", 1],
     [7, "不眠症ロンリーガール", "糸奇はな", 0],
     [8, "忘却舞踏", "糸奇はな", 0],
     [9, "四角い世界", "糸奇はな", 0],
@@ -305,8 +305,8 @@ tracks = [
     [13, "Fairies and Dragons (A Fairy Tail Orchestration)", "Rush Garcia", 0],
     [14, "Fly Away (A FatRat Orchestration)", "Rush Garcia", 0],
     [15, "Hanezeve Caradhina (A Made in Abyss Orchestration) [feat. Un3h]", "Rush Garcia", 0],
-    [16, "Here (An Ancient Magus Bride Orchestration) [feat. Seycara]", "Rush Garcia", 0],
-    [17, "Here Comes a Thought (A Steven Universe Orchestration)", "Rush Garcia", 0],
+    [16, "Here (An Ancient Magus Bride Orchestration) [feat. Seycara]", "Rush Garcia", 1],
+    [17, "Here Comes a Thought (A Steven Universe Orchestration)", "Rush Garcia", 1],
     [18, "Hero of the Wild (A Legend of Zelda Orchestration)", "Rush Garcia", 0],
     [19, "Jrny (A Rwby Orchestration)", "Rush Garcia", 0],
     [20, "Monody (A FatRat Orchestration)", "Rush Garcia", 0],
@@ -331,7 +331,7 @@ catalognumber = "VTCL-60475"
 date = "2018-10-31"
 album = "17才が美しいなんて、誰が言った。 / JUNNA"
 tracks = [
-    [1, "Steppin’ Out 〜extended version〜", "JUNNA", 0],
+    [1, "Steppin’ Out 〜extended version〜", "JUNNA", 1],
     [2, "狂ったカンヴァス", "JUNNA", 0],
     [3, "紅く、絶望の花。", "JUNNA", 0],
     [4, "本当のことは言わない", "JUNNA", 0],
@@ -341,8 +341,8 @@ tracks = [
     [8, "情熱モラトリアム", "JUNNA", 0],
     [9, "もうヤダ！", "JUNNA", 0],
     [10, "赤い果実", "JUNNA", 0],
-    [11, "Here 〜album version〜", "JUNNA", 0],
-    [12, "CONTRAST", "JUNNA", 0],
+    [11, "Here 〜album version〜", "JUNNA", 1],
+    [12, "CONTRAST", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ecd85d5e-84ef-477f-9b20-81a3898556f9", "https://vgmdb.net/album/80375"]
 
@@ -351,7 +351,7 @@ catalognumber = "VTZL-147"
 date = "2018-10-31"
 album = "17才が美しいなんて、誰が言った。 / JUNNA Disc 1 (CD) [VTCL-60475]"
 tracks = [
-    [1, "Steppin’ Out 〜extended version〜", "JUNNA", 0],
+    [1, "Steppin’ Out 〜extended version〜", "JUNNA", 1],
     [2, "狂ったカンヴァス", "JUNNA", 0],
     [3, "紅く、絶望の花。", "JUNNA", 0],
     [4, "本当のことは言わない", "JUNNA", 0],
@@ -361,8 +361,8 @@ tracks = [
     [8, "情熱モラトリアム", "JUNNA", 0],
     [9, "もうヤダ！", "JUNNA", 0],
     [10, "赤い果実", "JUNNA", 0],
-    [11, "Here 〜album version〜", "JUNNA", 0],
-    [12, "CONTRAST", "JUNNA", 0],
+    [11, "Here 〜album version〜", "JUNNA", 1],
+    [12, "CONTRAST", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ecd85d5e-84ef-477f-9b20-81a3898556f9", "https://vgmdb.net/album/80374"]
 
@@ -397,7 +397,7 @@ tracks = [
     [12, "城", "新居昭乃", 0],
     [13, "少年の羽", "新居昭乃", 0],
     [14, "pieta", "新居昭乃", 0],
-    [15, "花数え", "新居昭乃", 0],
+    [15, "花数え", "新居昭乃", 1],
     [16, "Water On", "Curly Giraffe feat. Akino Arai", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/f090fefd-1bd6-445a-8bdb-2b08dfee19ad", "https://vgmdb.net/album/92891"]
@@ -440,7 +440,7 @@ tracks = [
     [10, "cross the line", "AKINO with bless4", 0],
     [11, "I Got This", "AKINO with bless4", 0],
     [12, "OVERNIGHT REVOLUTION", "AKINO with bless4", 0],
-    [13, "月のもう半分", "AIKI & AKINO from bless4", 0],
+    [13, "月のもう半分", "AIKI & AKINO from bless4", 1],
     [14, "月明かりのMonologue", "AKINO arai × AKINO from bless4", 0],
     [15, "Étoile de prière", "AKINO arai × AKINO from bless4", 0],
 ]
@@ -502,7 +502,7 @@ tracks = [
     [10, "cross the line", "AKINO with bless4", 0],
     [11, "I Got This", "AKINO with bless4", 0],
     [12, "OVERNIGHT REVOLUTION", "AKINO with bless4", 0],
-    [13, "月のもう半分", "AIKI & AKINO from bless4", 0],
+    [13, "月のもう半分", "AIKI & AKINO from bless4", 1],
     [14, "月明かりのMonologue", "AKINO arai × AKINO from bless4", 0],
     [15, "Étoile de prière", "AKINO arai × AKINO from bless4", 0],
 ]
@@ -550,7 +550,7 @@ tracks = [
     [7, "graphite/diamond", "May’n", 0],
     [8, "天使よ故郷を聞け", "May’n", 0],
     [9, "涙の海を東へ", "May’n", 0],
-    [10, "You", "May’n", 0],
+    [10, "You", "May’n", 1],
     [11, "未来ノート", "May’n", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c09502fe-cbf9-4cc4-8a55-ac0f34a740ef", "https://vgmdb.net/album/110653"]
@@ -579,7 +579,7 @@ tracks = [
     [7, "graphite/diamond", "May’n", 0],
     [8, "天使よ故郷を聞け", "May’n", 0],
     [9, "涙の海を東へ", "May’n", 0],
-    [10, "You", "May’n", 0],
+    [10, "You", "May’n", 1],
     [11, "未来ノート", "May’n", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c09502fe-cbf9-4cc4-8a55-ac0f34a740ef", "https://vgmdb.net/album/110652"]
@@ -589,7 +589,7 @@ catalognumber = "VE3WA-19306"
 date = "2021-09-10"
 album = "auro nowe / inocencia"
 tracks = [
-    [1, "Auro Nowe", "Inocencia", 0],
+    [1, "Auro Nowe", "Inocencia", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f1401b99-ce0c-4af8-8f00-bb9495223a58", "https://vgmdb.net/album/114206"]
 
@@ -598,11 +598,11 @@ catalognumber = "VTZL-190"
 date = "2021-10-06"
 album = "海と真珠 / JUNNA [初回限定盤] Vocal"
 tracks = [
-    [1, "海と真珠", "JUNNA", 0],
+    [1, "海と真珠", "JUNNA", 1],
     [2, "ROCK YOU, ROCK ME", "JUNNA", 0],
     [3, "はじまりの唄", "JUNNA", 0],
     [4, "the sea and a pearl", "JUNNA", 0],
-    [5, "海と真珠 (without JUNNA)", "JUNNA", 0],
+    [5, "海と真珠 (without JUNNA)", "JUNNA", 1],
     [6, "ROCK YOU, ROCK ME (without JUNNA)", "JUNNA", 0],
     [7, "はじまりの唄 (without JUNNA)", "JUNNA", 0],
 ]
@@ -613,14 +613,14 @@ catalognumber = "VTZL-190"
 date = "2021-10-06"
 album = "海と真珠 / JUNNA [初回限定盤] Vocal, Live Event, Video"
 tracks = [
-    [1, "海と真珠 (Music Video)", "JUNNA", 0],
+    [1, "海と真珠 (Music Video)", "JUNNA", 1],
     [2, "Believe In Myself (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [3, "Sky (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [4, "FREEDOM〜Never End〜 (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [5, "La Vie en rose (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [6, "あばよイエスタデイ (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
-    [7, "Here (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
-    [8, "ソラノスミカ (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
+    [7, "Here (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 1],
+    [8, "ソラノスミカ (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 1],
     [9, "波打ち際 (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [10, "Sleepless (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
     [11, "コノユビトマレ -20×20 ver.- (JUNNA ROCK YOU STREAMING LIVE 2021「20×20」Selection)", "JUNNA", 0],
@@ -635,7 +635,7 @@ date = "2021-12-25"
 album = "「アンデミックプラス」"
 tracks = [
     [1, "Ready To (VRC6)", "nocturnalplant", 0],
-    [2, "Here (N163)", "nocturnalplant", 0],
+    [2, "Here (N163)", "nocturnalplant", 1],
     [3, "Kaibutsu / 怪物 (VRC6)", "nocturnalplant", 0],
     [4, "It's Like a Small Light / それは小さな光のような (N163)", "nocturnalplant", 0],
     [5, "My Dream Within a Dream / ユメのなかノわたしのユメ(NES)", "nocturnalplant", 0],
@@ -662,18 +662,18 @@ catalognumber = "VTCL-60570"
 date = "2023-04-12"
 album = "Dear / JUNNA"
 tracks = [
-    [1, "Dear", "JUNNA", 0],
-    [2, "海と真珠", "JUNNA", 0],
-    [3, "振レバ、雨傘。", "JUNNA", 0],
-    [4, "曖昧な2人", "JUNNA", 0],
-    [5, "あやまち", "JUNNA", 0],
-    [6, "春の夢", "JUNNA", 0],
-    [7, "太陽の航路", "JUNNA", 0],
-    [8, "THE END", "JUNNA", 0],
-    [9, "風の音さえ聞こえない", "JUNNA", 0],
-    [10, "REVOLUTION", "JUNNA", 0],
-    [11, "You ＋ Me = ?", "JUNNA", 0],
-    [12, "星座", "JUNNA", 0],
+    [1, "Dear", "JUNNA", 1],
+    [2, "海と真珠", "JUNNA", 1],
+    [3, "振レバ、雨傘。", "JUNNA", 1],
+    [4, "曖昧な2人", "JUNNA", 1],
+    [5, "あやまち", "JUNNA", 1],
+    [6, "春の夢", "JUNNA", 1],
+    [7, "太陽の航路", "JUNNA", 1],
+    [8, "THE END", "JUNNA", 1],
+    [9, "風の音さえ聞こえない", "JUNNA", 1],
+    [10, "REVOLUTION", "JUNNA", 1],
+    [11, "You ＋ Me = ?", "JUNNA", 1],
+    [12, "星座", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/55182f07-834b-49b5-bdd6-52cd7528aa32", "https://vgmdb.net/album/126183"]
 
@@ -682,20 +682,20 @@ catalognumber = "VTZL-224"
 date = "2023-04-12"
 album = "Dear / JUNNA [初回限定盤] Vocal"
 tracks = [
-    [1, "Dear", "JUNNA", 0],
-    [2, "海と真珠", "JUNNA", 0],
-    [3, "振レバ、雨傘。", "JUNNA", 0],
-    [4, "曖昧な2人", "JUNNA", 0],
-    [5, "あやまち", "JUNNA", 0],
-    [6, "春の夢", "JUNNA", 0],
-    [7, "太陽の航路", "JUNNA", 0],
-    [8, "THE END", "JUNNA", 0],
-    [9, "風の音さえ聞こえない", "JUNNA", 0],
-    [10, "REVOLUTION", "JUNNA", 0],
-    [11, "You + Me = ?", "JUNNA", 0],
-    [12, "星座", "JUNNA", 0],
-    [13, "革命のメロディ", "JUNNA", 0],
-    [14, "the route of the sun", "JUNNA", 0],
+    [1, "Dear", "JUNNA", 1],
+    [2, "海と真珠", "JUNNA", 1],
+    [3, "振レバ、雨傘。", "JUNNA", 1],
+    [4, "曖昧な2人", "JUNNA", 1],
+    [5, "あやまち", "JUNNA", 1],
+    [6, "春の夢", "JUNNA", 1],
+    [7, "太陽の航路", "JUNNA", 1],
+    [8, "THE END", "JUNNA", 1],
+    [9, "風の音さえ聞こえない", "JUNNA", 1],
+    [10, "REVOLUTION", "JUNNA", 1],
+    [11, "You + Me = ?", "JUNNA", 1],
+    [12, "星座", "JUNNA", 1],
+    [13, "革命のメロディ", "JUNNA", 1],
+    [14, "the route of the sun", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c4c0c852-116e-4ffe-bd6a-856997b58224", "https://vgmdb.net/album/126182"]
 
@@ -709,7 +709,7 @@ tracks = [
     [3, "Music Video「風の音さえ聞こえない」", "JUNNA", 0],
     [4, "Opening", "JUNNA", 0],
     [5, "FREEDOM～Never End～", "JUNNA", 0],
-    [6, "Steppin' Out～extended version～", "JUNNA", 0],
+    [6, "Steppin' Out～extended version～", "JUNNA", 1],
     [7, "La Vie en rose", "JUNNA", 0],
     [8, "MC1", "JUNNA", 0],
     [9, "あばよイエスタデイ", "JUNNA", 0],
@@ -717,7 +717,7 @@ tracks = [
     [11, "コノユビトマレ-20×20 ver.-", "JUNNA", 0],
     [12, "MC2", "JUNNA", 0],
     [13, "波打ち際", "JUNNA", 0],
-    [14, "Here", "JUNNA", 0],
+    [14, "Here", "JUNNA", 1],
     [15, "MC3", "JUNNA", 0],
     [16, "いま", "JUNNA", 0],
     [17, "Sky", "JUNNA", 0],
@@ -731,7 +731,7 @@ tracks = [
     [25, "我は小説よりも奇なり", "JUNNA", 0],
     [26, "イルイミ", "JUNNA", 0],
     [27, "MC5", "JUNNA", 0],
-    [28, "海と真珠", "JUNNA", 0],
+    [28, "海と真珠", "JUNNA", 1],
     [29, "MC6", "JUNNA", 0],
     [30, "はじまりの唄", "JUNNA", 0],
     [31, "Ending", "JUNNA", 0],
@@ -743,12 +743,12 @@ catalognumber = "VTCL-35358"
 date = "2023-05-24"
 album = "無伴奏 / edda"
 tracks = [
-    [1, "無伴奏", "edda", 0],
-    [2, "存在の証明", "edda", 0],
-    [3, "シェイプシフター", "edda", 0],
-    [4, "無伴奏 (without edda)", "edda", 0],
-    [5, "存在の証明 (without edda)", "edda", 0],
-    [6, "シェイプシフター (without edda)", "edda", 0],
+    [1, "無伴奏", "edda", 1],
+    [2, "存在の証明", "edda", 1],
+    [3, "シェイプシフター", "edda", 1],
+    [4, "無伴奏 (without edda)", "edda", 1],
+    [5, "存在の証明 (without edda)", "edda", 1],
+    [6, "シェイプシフター (without edda)", "edda", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6b7d8ad7-1028-41fc-aab2-efca8e503ef6", "https://vgmdb.net/album/128166"]
 
@@ -757,37 +757,37 @@ catalognumber = "VTCL-60577"
 date = "2023-06-21"
 album = "TVアニメ「魔法使いの嫁 SEASON2」オリジナルサウンドトラック"
 tracks = [
-    [1, "INVITATION to New Season of the Ancient Magus' Bride", "松本淳一", 0],
-    [2, "Dear【TV-EDIT】", "JUNNA & 白戸佑輔", 0],
-    [3, "スレイベガ - 夜の愛し仔 -", "松本淳一", 0],
-    [4, "Smiles in the College", "松本淳一", 0],
-    [5, "New Season's Theme - 心の空を飛ぶ - INST Ver.", "松本淳一", 0],
-    [6, "点と点の間", "松本淳一", 0],
-    [7, "ETUDE - Le Mouvement Perpetuel du Professeur -", "松本淳一", 0],
-    [8, "Boys and Girls", "松本淳一", 0],
-    [9, "Winds in the Bone", "松本淳一", 0],
-    [10, "フィロメラ", "松本淳一", 0],
-    [11, "魔術と世界について、知る", "松本淳一", 0],
-    [12, "魔法の風圧・空気圧", "松本淳一", 0],
-    [13, "エリアスの発見", "松本淳一", 0],
-    [14, "カルナマゴスの遺言", "松本淳一", 0],
-    [15, "遠い空の音", "松本淳一", 0],
-    [16, "ダミー・テンション", "松本淳一", 0],
-    [17, "イミフ....", "松本淳一", 0],
-    [18, "Serene Long-Distances", "松本淳一", 0],
-    [19, "Missing", "松本淳一", 0],
-    [20, "チセの考え", "松本淳一", 0],
-    [21, "道端にトビラを開く", "松本淳一", 0],
-    [22, "私達は無数の階層で影を刻む", "松本淳一", 0],
-    [23, "ウェブスター家の悲劇", "松本淳一", 0],
-    [24, "Exotic Station", "松本淳一", 0],
-    [25, "Alice", "松本淳一", 0],
-    [26, "Wizardry Monsters", "松本淳一", 0],
-    [27, "ゆけ、わたしの心よ", "松本淳一", 0],
-    [28, "胸の鼓動と千里を走る", "松本淳一", 0],
-    [29, "無伴奏【TV-EDIT】", "edda & 白戸佑輔", 0],
-    [30, "New Season's Theme - 心の空を飛ぶ -", "松本淳一", 0],
-    [31, "aura nowa", "Inocencia & 白戸佑輔", 0],
+    [1, "INVITATION to New Season of the Ancient Magus' Bride", "松本淳一", 1],
+    [2, "Dear【TV-EDIT】", "JUNNA & 白戸佑輔", 1],
+    [3, "スレイベガ - 夜の愛し仔 -", "松本淳一", 1],
+    [4, "Smiles in the College", "松本淳一", 1],
+    [5, "New Season's Theme - 心の空を飛ぶ - INST Ver.", "松本淳一", 1],
+    [6, "点と点の間", "松本淳一", 1],
+    [7, "ETUDE - Le Mouvement Perpetuel du Professeur -", "松本淳一", 1],
+    [8, "Boys and Girls", "松本淳一", 1],
+    [9, "Winds in the Bone", "松本淳一", 1],
+    [10, "フィロメラ", "松本淳一", 1],
+    [11, "魔術と世界について、知る", "松本淳一", 1],
+    [12, "魔法の風圧・空気圧", "松本淳一", 1],
+    [13, "エリアスの発見", "松本淳一", 1],
+    [14, "カルナマゴスの遺言", "松本淳一", 1],
+    [15, "遠い空の音", "松本淳一", 1],
+    [16, "ダミー・テンション", "松本淳一", 1],
+    [17, "イミフ....", "松本淳一", 1],
+    [18, "Serene Long-Distances", "松本淳一", 1],
+    [19, "Missing", "松本淳一", 1],
+    [20, "チセの考え", "松本淳一", 1],
+    [21, "道端にトビラを開く", "松本淳一", 1],
+    [22, "私達は無数の階層で影を刻む", "松本淳一", 1],
+    [23, "ウェブスター家の悲劇", "松本淳一", 1],
+    [24, "Exotic Station", "松本淳一", 1],
+    [25, "Alice", "松本淳一", 1],
+    [26, "Wizardry Monsters", "松本淳一", 1],
+    [27, "ゆけ、わたしの心よ", "松本淳一", 1],
+    [28, "胸の鼓動と千里を走る", "松本淳一", 1],
+    [29, "無伴奏【TV-EDIT】", "edda & 白戸佑輔", 1],
+    [30, "New Season's Theme - 心の空を飛ぶ -", "松本淳一", 1],
+    [31, "aura nowa", "Inocencia & 白戸佑輔", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a179151-2ec9-4d31-917b-e87bf2d52d81", "https://vgmdb.net/album/128167"]
 
@@ -796,13 +796,13 @@ catalognumber = "VTZL-233"
 date = "2023-10-25"
 album = "眠らされたリネージュ / JUNNA [初回限定盤] Disc 1 (CD)"
 tracks = [
-    [1, "眠らされたリネージュ", "JUNNA", 0],
-    [2, "Unite", "JUNNA", 0],
-    [3, "On My Side", "JUNNA", 0],
-    [4, "CONTRAST –LIVE 2023 Ver.–", "JUNNA", 0],
-    [5, "眠らされたリネージュ (Instrumental)", "JUNNA", 0],
-    [6, "Unite (Instrumental)", "JUNNA", 0],
-    [7, "On My Side (Instrumental)", "JUNNA", 0],
+    [1, "眠らされたリネージュ", "JUNNA", 1],
+    [2, "Unite", "JUNNA", 1],
+    [3, "On My Side", "JUNNA", 1],
+    [4, "CONTRAST –LIVE 2023 Ver.–", "JUNNA", 1],
+    [5, "眠らされたリネージュ (Instrumental)", "JUNNA", 1],
+    [6, "Unite (Instrumental)", "JUNNA", 1],
+    [7, "On My Side (Instrumental)", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cb72a94c-86c2-47f3-9d7b-4376722b2ee0", "https://vgmdb.net/album/132403"]
 
@@ -811,20 +811,20 @@ catalognumber = "VTZL-233"
 date = "2023-10-25"
 album = "眠らされたリネージュ / JUNNA [初回限定盤] Disc 2 (Blu-ray)"
 tracks = [
-    [1, "THE END", "", 0],
-    [2, "Dear", "", 0],
+    [1, "THE END", "", 1],
+    [2, "Dear", "", 1],
     [3, "Sky", "", 0],
-    [4, "Here", "", 0],
+    [4, "Here", "", 1],
     [5, "MC1", "", 0],
     [6, "Vai! Ya! Vai!", "", 0],
     [7, "紅く、絶望の花。", "", 0],
     [8, "我は小説よりも奇なり", "", 0],
     [9, "いけないボーダーライン", "", 0],
     [10, "コノユビトマレ", "", 0],
-    [11, "海と真珠", "", 0],
-    [12, "You + Me = ?", "", 0],
+    [11, "海と真珠", "", 1],
+    [12, "You + Me = ?", "", 1],
     [13, "MC2", "", 0],
-    [14, "星座", "", 0],
+    [14, "星座", "", 1],
 ]
 links = ["https://vgmdb.net/album/132403"]
 
@@ -833,13 +833,13 @@ catalognumber = "VTCL-35363"
 date = "2023-10-25"
 album = "眠らされたリネージュ / JUNNA"
 tracks = [
-    [1, "眠らされたリネージュ", "JUNNA", 0],
-    [2, "Unite", "JUNNA", 0],
-    [3, "On My Side", "JUNNA", 0],
-    [4, "Dear –LIVE 2023 Ver.–", "JUNNA", 0],
-    [5, "眠らされたリネージュ (Instrumental)", "JUNNA", 0],
-    [6, "Unite (Instrumental)", "JUNNA", 0],
-    [7, "On My Side (Instrumental)", "JUNNA", 0],
+    [1, "眠らされたリネージュ", "JUNNA", 1],
+    [2, "Unite", "JUNNA", 1],
+    [3, "On My Side", "JUNNA", 1],
+    [4, "Dear –LIVE 2023 Ver.–", "JUNNA", 1],
+    [5, "眠らされたリネージュ (Instrumental)", "JUNNA", 1],
+    [6, "Unite (Instrumental)", "JUNNA", 1],
+    [7, "On My Side (Instrumental)", "JUNNA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/920a66f6-e6e9-4345-928e-6e2e5bc92bbb", "https://vgmdb.net/album/132402"]
 
@@ -848,9 +848,9 @@ catalognumber = "VTCL-35366"
 date = "2023-11-22"
 album = "fam/Lullaby / 遊遊 [アニメ盤]"
 tracks = [
-    [1, "fam", "遊遊", 0],
-    [2, "Lullaby", "遊遊", 0],
-    [3, "He", "遊遊", 0],
+    [1, "fam", "遊遊", 1],
+    [2, "Lullaby", "遊遊", 1],
+    [3, "He", "遊遊", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/289f4b62-b528-4567-814e-52c27befb87b", "https://vgmdb.net/album/132832"]
 
@@ -859,8 +859,8 @@ catalognumber = "VTCL-35365"
 date = "2023-11-22"
 album = "fam/Lullaby / 遊遊"
 tracks = [
-    [1, "Lullaby", "", 0],
-    [2, "fam", "", 0],
+    [1, "Lullaby", "", 1],
+    [2, "fam", "", 1],
     [3, "Puppy", "", 0],
 ]
 links = ["https://vgmdb.net/album/132833"]
@@ -870,27 +870,27 @@ catalognumber = "VEAWA-42238"
 date = "2023-12-22"
 album = "TVアニメ「魔法使いの嫁 SEASON2」オリジナルサウンドトラック2"
 tracks = [
-    [1, "地底迷宮の薔薇", "松本淳一", 0],
-    [2, "眠らされたリネージュ(TV Size ver.)", "JUNNA", 0],
-    [3, "畸形の芯", "松本淳一", 0],
-    [4, "空なるもの、雫宿す", "松本淳一", 0],
-    [5, "Catty Watch Tower", "松本淳一", 0],
-    [6, "Magical Footprints", "松本淳一", 0],
-    [7, "課外授業", "松本淳一", 0],
-    [8, "ダイアリー", "松本淳一", 0],
-    [9, "点と点の伝心", "松本淳一", 0],
-    [10, "Suspect’s Words", "松本淳一", 0],
-    [11, "The House of the SARGENTs", "松本淳一", 0],
-    [12, "In the Memories", "松本淳一", 0],
-    [13, "森の形骸・戦の化身", "松本淳一", 0],
-    [14, "No.9 Guardians", "松本淳一", 0],
-    [15, "変な味するお菓子食べたときみたいな", "松本淳一", 0],
-    [16, "Blood Invitation", "松本淳一", 0],
-    [17, "マニュフェステーション", "松本淳一", 0],
-    [18, "– 巨大魔法陣 – 魔力吸収と時の開錠", "松本淳一", 0],
-    [19, "ファイティン・アウラ", "松本淳一", 0],
-    [20, "クワイエットクワイア", "Akira Yamamoto", 0],
-    [21, "holiday", "井上苑子", 0],
-    [22, "fam(TV Size ver.)", "ゆーゆ", 0],
+    [1, "地底迷宮の薔薇", "松本淳一", 1],
+    [2, "眠らされたリネージュ(TV Size ver.)", "JUNNA", 1],
+    [3, "畸形の芯", "松本淳一", 1],
+    [4, "空なるもの、雫宿す", "松本淳一", 1],
+    [5, "Catty Watch Tower", "松本淳一", 1],
+    [6, "Magical Footprints", "松本淳一", 1],
+    [7, "課外授業", "松本淳一", 1],
+    [8, "ダイアリー", "松本淳一", 1],
+    [9, "点と点の伝心", "松本淳一", 1],
+    [10, "Suspect’s Words", "松本淳一", 1],
+    [11, "The House of the SARGENTs", "松本淳一", 1],
+    [12, "In the Memories", "松本淳一", 1],
+    [13, "森の形骸・戦の化身", "松本淳一", 1],
+    [14, "No.9 Guardians", "松本淳一", 1],
+    [15, "変な味するお菓子食べたときみたいな", "松本淳一", 1],
+    [16, "Blood Invitation", "松本淳一", 1],
+    [17, "マニュフェステーション", "松本淳一", 1],
+    [18, "– 巨大魔法陣 – 魔力吸収と時の開錠", "松本淳一", 1],
+    [19, "ファイティン・アウラ", "松本淳一", 1],
+    [20, "クワイエットクワイア", "Akira Yamamoto", 1],
+    [21, "holiday", "井上苑子", 1],
+    [22, "fam(TV Size ver.)", "ゆーゆ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7cf70537-038c-433d-bb20-8350bd793b08", "https://vgmdb.net/album/139919"]
