@@ -3,12 +3,12 @@ catalognumber = "KSLA-0067"
 date = "2011-01-28"
 album = "Rewrite Opening Theme song \"Philosophyz\""
 tracks = [
-    [1, "Philosophyz", "水谷瑠奈", 0],
-    [2, "闇の彼方へ", "水谷瑠奈", 0],
-    [3, "Philosophyz Game size Ver.", "水谷瑠奈", 0],
-    [4, "闇の彼方へ Game size Ver.", "水谷瑠奈", 0],
-    [5, "Philosophyz off vocal Ver.", "水谷瑠奈", 0],
-    [6, "闇の彼方へ off vocal Ver.", "水谷瑠奈", 0],
+    [1, "Philosophyz", "水谷瑠奈", 1],
+    [2, "闇の彼方へ", "水谷瑠奈", 1],
+    [3, "Philosophyz Game size Ver.", "水谷瑠奈", 1],
+    [4, "闇の彼方へ Game size Ver.", "水谷瑠奈", 1],
+    [5, "Philosophyz off vocal Ver.", "水谷瑠奈", 1],
+    [6, "闇の彼方へ off vocal Ver.", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4a150d50-5dd6-4cdd-bd54-990d76a75f58", "https://vgmdb.net/album/23763"]
 
@@ -38,16 +38,16 @@ catalognumber = "KSLA-0070"
 date = "2011-06-24"
 album = "Soil"
 tracks = [
-    [1, "ヒナギク", "井内啓二", 0],
-    [2, "散花", "なかやまらいでん", 0],
-    [3, "綿帽子", "土屋昇平", 0],
-    [4, "Phobia", "坂本昌一郎", 0],
-    [5, "アサガオ", "MANYO", 0],
-    [6, "Exploration", "桐岡麻季", 0],
+    [1, "ヒナギク", "井内啓二", 1],
+    [2, "散花", "なかやまらいでん", 1],
+    [3, "綿帽子", "土屋昇平", 1],
+    [4, "Phobia", "坂本昌一郎", 1],
+    [5, "アサガオ", "MANYO", 1],
+    [6, "Exploration", "桐岡麻季", 1],
     [7, "幻境 ～ ニリンソウ", "TECHNOuchi", 0],
     [8, "Retribution", "岡素世", 0],
     [9, "Reply", "myu", 0],
-    [10, "アンスリウム", "坂本英城", 0],
+    [10, "アンスリウム", "坂本英城", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/807a00ff-ff5d-4b83-9d57-2365c101b977", "https://vgmdb.net/album/25230"]
 
@@ -56,28 +56,28 @@ catalognumber = "KSLA-0073~5"
 date = "2011-08-12"
 album = "Rewrite ORIGINAL SOUNDTRACK Disc 1 [KSLA-0073]"
 tracks = [
-    [1, "Philosophyz", "", 0],
-    [2, "旅", "", 0],
-    [3, "芽吹き", "", 0],
-    [4, "Fertilizer", "", 0],
-    [5, "花蕾", "", 0],
-    [6, "果実", "", 0],
-    [7, "Raised bed", "", 0],
-    [8, "ニリンソウ", "", 0],
-    [9, "アサガオ", "", 0],
-    [10, "アンスリウム", "", 0],
-    [11, "カーネーション", "", 0],
-    [12, "サンブライト", "", 0],
-    [13, "ヒナギク", "", 0],
-    [14, "Honesty", "", 0],
-    [15, "深層森林", "", 0],
-    [16, "Exploration", "", 0],
-    [17, "凍土", "", 0],
-    [18, "褐斑病", "", 0],
-    [19, "綿帽子", "", 0],
-    [20, "DIS is a pain", "", 0],
-    [21, "Eruptible", "", 0],
-    [22, "闇の彼方へ", "", 0],
+    [1, "Philosophyz", "", 1],
+    [2, "旅", "", 1],
+    [3, "芽吹き", "", 1],
+    [4, "Fertilizer", "", 1],
+    [5, "花蕾", "", 1],
+    [6, "果実", "", 1],
+    [7, "Raised bed", "", 1],
+    [8, "ニリンソウ", "", 1],
+    [9, "アサガオ", "", 1],
+    [10, "アンスリウム", "", 1],
+    [11, "カーネーション", "", 1],
+    [12, "サンブライト", "", 1],
+    [13, "ヒナギク", "", 1],
+    [14, "Honesty", "", 1],
+    [15, "深層森林", "", 1],
+    [16, "Exploration", "", 1],
+    [17, "凍土", "", 1],
+    [18, "褐斑病", "", 1],
+    [19, "綿帽子", "", 1],
+    [20, "DIS is a pain", "", 1],
+    [21, "Eruptible", "", 1],
+    [22, "闇の彼方へ", "", 1],
 ]
 links = ["https://vgmdb.net/album/27623"]
 
@@ -86,29 +86,29 @@ catalognumber = "KSLA-0073~5"
 date = "2011-08-12"
 album = "Rewrite ORIGINAL SOUNDTRACK Disc 2 [KSLA-0074]"
 tracks = [
-    [1, "Rewrite", "", 0],
-    [2, "Retribution", "", 0],
-    [3, "Potted one", "", 0],
-    [4, "YO-SHI-NO", "", 0],
-    [5, "Sorrowless", "", 0],
-    [6, "揺葉", "", 0],
-    [7, "散花", "", 0],
-    [8, "幻境", "", 0],
-    [9, "刈り", "", 0],
-    [10, "Scene of carnage", "", 0],
-    [11, "Scene of carnage aggressiveness", "", 0],
-    [12, "Phobic", "", 0],
-    [13, "Phobia", "", 0],
-    [14, "Scene shifts there", "", 0],
-    [15, "黒星病", "", 0],
-    [16, "枯死", "", 0],
-    [17, "Finale", "", 0],
-    [18, "Reply", "", 0],
-    [19, "Toxoplasma", "", 0],
-    [20, "実り", "", 0],
-    [21, "Philosophy of ours", "", 0],
-    [22, "Philosophy of yours", "", 0],
-    [23, "Exploration2 symphonic", "", 0],
+    [1, "Rewrite", "", 1],
+    [2, "Retribution", "", 1],
+    [3, "Potted one", "", 1],
+    [4, "YO-SHI-NO", "", 1],
+    [5, "Sorrowless", "", 1],
+    [6, "揺葉", "", 1],
+    [7, "散花", "", 1],
+    [8, "幻境", "", 1],
+    [9, "刈り", "", 1],
+    [10, "Scene of carnage", "", 1],
+    [11, "Scene of carnage aggressiveness", "", 1],
+    [12, "Phobic", "", 1],
+    [13, "Phobia", "", 1],
+    [14, "Scene shifts there", "", 1],
+    [15, "黒星病", "", 1],
+    [16, "枯死", "", 1],
+    [17, "Finale", "", 1],
+    [18, "Reply", "", 1],
+    [19, "Toxoplasma", "", 1],
+    [20, "実り", "", 1],
+    [21, "Philosophy of ours", "", 1],
+    [22, "Philosophy of yours", "", 1],
+    [23, "Exploration2 symphonic", "", 1],
 ]
 links = ["https://vgmdb.net/album/27623"]
 
@@ -117,24 +117,24 @@ catalognumber = "KSLA-0073~5"
 date = "2011-08-12"
 album = "Rewrite ORIGINAL SOUNDTRACK Disc 3 [KSLA-0075]"
 tracks = [
-    [1, "Philosophyz GT Ver.", "", 0],
-    [2, "Rewrite instrumental", "", 0],
-    [3, "Remembrance", "", 0],
-    [4, "大地", "", 0],
-    [5, "Radiance", "", 0],
-    [6, "恋歌", "", 0],
-    [7, "恋文", "", 0],
-    [8, "偽らない君へ", "", 0],
-    [9, "渡りの詩", "", 0],
-    [10, "CANOE", "", 0],
-    [11, "ヒナギク orgel Ver.", "", 0],
-    [12, "Philosophyz Game size Ver", "", 0],
-    [13, "Rewrite Game size Ver", "", 0],
-    [14, "闇の彼方へ Game size Ver", "", 0],
-    [15, "恋文 Game size Ver", "", 0],
-    [16, "偽らない君へ Game size Ver", "", 0],
-    [17, "Bonus Track ～滅びの歌～", "", 0],
-    [18, "Bonus Track ～ルチア着信音～", "", 0],
+    [1, "Philosophyz GT Ver.", "", 1],
+    [2, "Rewrite instrumental", "", 1],
+    [3, "Remembrance", "", 1],
+    [4, "大地", "", 1],
+    [5, "Radiance", "", 1],
+    [6, "恋歌", "", 1],
+    [7, "恋文", "", 1],
+    [8, "偽らない君へ", "", 1],
+    [9, "渡りの詩", "", 1],
+    [10, "CANOE", "", 1],
+    [11, "ヒナギク orgel Ver.", "", 1],
+    [12, "Philosophyz Game size Ver", "", 1],
+    [13, "Rewrite Game size Ver", "", 1],
+    [14, "闇の彼方へ Game size Ver", "", 1],
+    [15, "恋文 Game size Ver", "", 1],
+    [16, "偽らない君へ Game size Ver", "", 1],
+    [17, "Bonus Track ～滅びの歌～", "", 1],
+    [18, "Bonus Track ～ルチア着信音～", "", 1],
 ]
 links = ["https://vgmdb.net/album/27623"]
 
@@ -175,7 +175,7 @@ tracks = [
     [1, "SSS", "Irus", 0],
     [2, "MY SOUL,YOUR BEATS(Heavenly Trance Mix)", "秋赤音", 0],
     [3, "Little Braver(Shiny Electro Mix)", "えみぃ", 0],
-    [4, "Philosophyz(Heavenly Trance Mix)", "non", 0],
+    [4, "Philosophyz(Heavenly Trance Mix)", "non", 1],
     [5, "メグメル(Euphoric Fantasia Mix)", "ほたる", 0],
     [6, "鳥の詩(Heavenly Trance Mix)", "KEI", 0],
     [7, "Alchemy(Heavenly Core Mix)", "lily-an", 0],
@@ -205,7 +205,7 @@ catalognumber = "BBR-01"
 date = "2011-08-13"
 album = "AMARETTO Disc 2"
 tracks = [
-    [1, "揺葉 (Junk_channel remix)", "Junk", 0],
+    [1, "揺葉 (Junk_channel remix)", "Junk", 1],
     [2, "Crystal-Clear (Void remix)", "void", 0],
     [3, "Fumiluill", "Odikonic", 0],
     [4, "KIZUNA", "MAYA AKAI & Odikonic", 0],
@@ -220,11 +220,11 @@ date = "2011-08-14"
 album = "輪廻"
 tracks = [
     [1, "小さな旅時計 / 旅", "", 0],
-    [2, "旅", "", 0],
-    [3, "深層森林", "", 0],
+    [2, "旅", "", 1],
+    [3, "深層森林", "", 1],
     [4, "深海　/ Remembrance", "", 0],
-    [5, "Exploration", "", 0],
-    [6, "ヒナギク -voice of Nature's Concerto- / ヒナギク", "", 0],
+    [5, "Exploration", "", 1],
+    [6, "ヒナギク -voice of Nature's Concerto- / ヒナギク", "", 1],
 ]
 links = ["https://vgmdb.net/album/35612"]
 
@@ -234,7 +234,7 @@ date = "2011-09-11"
 album = "Expression! -Key Arrange Single-"
 tracks = [
     [1, "縁 ～Oriental Orchestra Version～", "", 0],
-    [2, "Philosophyz", "", 0],
+    [2, "Philosophyz", "", 1],
 ]
 links = ["https://vgmdb.net/album/101250"]
 
@@ -250,9 +250,9 @@ catalognumber = "KSLA-0076"
 date = "2011-12-29"
 album = "Rewrite Arrangement Album: Branch"
 tracks = [
-    [1, "旅", "井内啓二", 0],
+    [1, "旅", "井内啓二", 1],
     [2, "Fertilizer", "mao", 0],
-    [3, "ニリンソウ", "桐岡麻季", 0],
+    [3, "ニリンソウ", "桐岡麻季", 1],
     [4, "Little Forest", "やなぎなぎ", 0],
     [5, "Orbita", "Annabel", 0],
     [6, "過日憐歌", "mao", 0],
@@ -294,7 +294,7 @@ catalognumber = "SHOT-007"
 date = "2012-01-27"
 album = "SUPER SHOT4 -美少女ゲームリミックスコレクション-"
 tracks = [
-    [1, "Philosophyz (DJ Shimamura's Hardcore Remix)", "水谷瑠奈", 0],
+    [1, "Philosophyz (DJ Shimamura's Hardcore Remix)", "水谷瑠奈", 1],
     [2, "マル秘☆恋愛法則 (REDALiCE & DJ Genki Remix)", "NANA", 0],
     [3, "恋の試練 (dupli-mix)", "津田朱里", 0],
     [4, "Artemis Blue (ALR Remix)", "Barbarian On The Groove feat. 真理絵", 0],
@@ -323,10 +323,10 @@ catalognumber = "VMCD-0001"
 date = "2012-02-24"
 album = "Philosophyz/闇の彼方へ | MintJam version"
 tracks = [
-    [1, "Philosophyz", "MintJam", 0],
-    [2, "闇の彼方へ", "MintJam", 0],
-    [3, "Philosophyz (Backing Track)", "MintJam", 0],
-    [4, "闇の彼方へ (Backing Track)", "MintJam", 0],
+    [1, "Philosophyz", "MintJam", 1],
+    [2, "闇の彼方へ", "MintJam", 1],
+    [3, "Philosophyz (Backing Track)", "MintJam", 1],
+    [4, "闇の彼方へ (Backing Track)", "MintJam", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b959c477-97d8-4648-8629-3add57f5975c", "https://vgmdb.net/album/30262"]
 
@@ -335,14 +335,14 @@ catalognumber = "KSLA-0079"
 date = "2012-05-25"
 album = "Key + VOCALOID Best selection vol.1"
 tracks = [
-    [1, "恋文", "竹下智博", 0],
+    [1, "恋文", "竹下智博", 1],
     [2, "鶏肉の唄", "横野康平", 0],
     [3, "オーバー", "emon", 0],
     [4, "鈴の密かな恋の唄", "光収容", 0],
     [5, "雨のち晴れ", "emon", 0],
     [6, "Farewell Song", "横野康平", 0],
     [7, "raison", "横野康平", 0],
-    [8, "CANOE", "TAM", 0],
+    [8, "CANOE", "TAM", 1],
     [9, "灰色の羽根", "光収容", 0],
     [10, "Brave Song", "横野康平", 0],
     [11, "一番の宝物", "TAM", 0],
@@ -361,20 +361,20 @@ catalognumber = "KSLA-0081"
 date = "2012-07-27"
 album = "Rewrite Harvest festa! 追加サウンドトラック"
 tracks = [
-    [1, "Harvest", "多田葵", 0],
-    [2, "irrigated land", "塚越雄一朗", 0],
-    [3, "萌芽", "折戸伸治", 0],
-    [4, "ムーンブライト", "折戸伸治", 0],
+    [1, "Harvest", "多田葵", 1],
+    [2, "irrigated land", "塚越雄一朗", 1],
+    [3, "萌芽", "折戸伸治", 1],
+    [4, "ムーンブライト", "折戸伸治", 1],
     [5, "Quaesitor", "細井聡司", 0],
-    [6, "Fight for nowhere", "折戸伸治", 0],
-    [7, "winners!", "折戸伸治", 0],
+    [6, "Fight for nowhere", "折戸伸治", 1],
+    [7, "winners!", "折戸伸治", 1],
     [8, "Redemptor", "細井聡司", 0],
-    [9, "愛を灌ぐ", "井内舞子", 0],
+    [9, "愛を灌ぐ", "井内舞子", 1],
     [10, "夜露", "折戸伸治", 0],
-    [11, "ささやかなはじまり", "水谷瑠奈", 0],
-    [12, "irrigated land ~echo~", "塚越雄一朗", 0],
-    [13, "Harvest Game size Ver", "多田葵", 0],
-    [14, "ささやかなはじまり Game size Ver", "水谷瑠奈", 0],
+    [11, "ささやかなはじまり", "水谷瑠奈", 1],
+    [12, "irrigated land ~echo~", "塚越雄一朗", 1],
+    [13, "Harvest Game size Ver", "多田葵", 1],
+    [14, "ささやかなはじまり Game size Ver", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b01d0d68-e215-404a-92f5-2b055138de38", "https://vgmdb.net/album/32384"]
 
@@ -408,7 +408,7 @@ tracks = [
     [7, "星屑 (Kouki Izumi Remix)", "霜月はるか", 0],
     [8, "Little Busters! (Nhato Remix)", "Rita", 0],
     [9, "Alicemagic (Tsukasa Remix)", "Rita", 0],
-    [10, "Philosophyz (MUZIK SERVANT Remix)", "水谷瑠奈", 0],
+    [10, "Philosophyz (MUZIK SERVANT Remix)", "水谷瑠奈", 1],
     [11, "Rewrite (DJ Shimamura's Drumscape Remix)", "サイキックラバー", 0],
     [12, "鳥の詩 （PandaBoY Remix）", "Lia", 0],
 ]
@@ -447,8 +447,8 @@ tracks = [
     [6, "BGM Remixies", "Key Sound Team", 0],
     [7, "雨のち晴れ -remix- (リトルバスターズ!)", "Rita", 0],
     [8, "One's future -remix- (クドわふたー)", "鈴田美夜子", 0],
-    [9, "Philosophyz -remix- (Rewrite)", "水谷瑠奈(NanosizeMir)", 0],
-    [10, "恋文 -remix- (Rewrite)", "やなぎなぎ", 0],
+    [9, "Philosophyz -remix- (Rewrite)", "水谷瑠奈(NanosizeMir)", 1],
+    [10, "恋文 -remix- (Rewrite)", "やなぎなぎ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/498deb3b-0d4f-498f-a0b1-7a16313b961b", "https://vgmdb.net/album/34241"]
 
@@ -458,7 +458,7 @@ date = "2012-07-29"
 album = "幸せになる番"
 tracks = [
     [1, "幸せになる番", "Lia / 多田葵 / Rita / 茶太", 0],
-    [2, "CANOE ～Nocturnal Waltz Remix Version～", "多田葵", 0],
+    [2, "CANOE ～Nocturnal Waltz Remix Version～", "多田葵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/56da1547-e97a-40d5-aa7f-fbc74422370c", "https://vgmdb.net/album/34363"]
 
@@ -471,7 +471,7 @@ tracks = [
     [2, "乙女髪Try-Angle", "茶太", 0],
     [3, "Stars Biscuit", "KOTOKO", 0],
     [4, "あしあと 〜a happiness Marker〜", "川田まみ", 0],
-    [5, "Philosophyz", "水谷瑠奈", 0],
+    [5, "Philosophyz", "水谷瑠奈", 1],
     [6, "bumpy-Jumpy!", "KOTOKO", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6c416048-f197-4e20-a777-6c5d82acddd7", "https://vgmdb.net/album/74982"]
@@ -518,10 +518,10 @@ tracks = [
     [5, "TORCH", "Lia", 0],
     [6, "Starting Over 〜Reproduction STAYCOOL 2007 Edition〜", "Lia", 0],
     [7, "鳥の詩", "Lia", 0],
-    [8, "偽らない君へ", "やなぎなぎ", 0],
+    [8, "偽らない君へ", "やなぎなぎ", 1],
     [9, "Alicemagic", "Rita", 0],
-    [10, "恋文", "やなぎなぎ", 0],
-    [11, "Philosophyz", "水谷瑠奈", 0],
+    [10, "恋文", "やなぎなぎ", 1],
+    [11, "Philosophyz", "水谷瑠奈", 1],
     [12, "風の辿り着く場所", "彩菜", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c0a45326-f3af-4928-9ce5-1e96c1d99113", "https://vgmdb.net/album/34809"]
@@ -536,7 +536,7 @@ tracks = [
     [3, "World Link", "KOTOKO", 0],
     [4, "Teller of World", "KOTOKO", 0],
     [5, "ラストワード", "北沢綾香", 0],
-    [6, "サンブライト", "北沢綾香", 0],
+    [6, "サンブライト", "北沢綾香", 1],
     [7, "Orpheus 〜君と奏でる明日への詩〜 Ayaka Ver.", "北沢綾香", 0],
     [8, "fortune card", "北沢綾香", 0],
     [9, "Perseids", "北沢綾香", 0],
@@ -560,7 +560,7 @@ tracks = [
     [9, "薔薇", "風蘭", 0],
     [10, "おやつのじかん", "安倍ようこ", 0],
     [11, "リノリウム、駆ける音色", "霜月はるか", 0],
-    [12, "Philosophyz zts Remix", "水谷瑠奈(NanosizeMir)", 0],
+    [12, "Philosophyz zts Remix", "水谷瑠奈(NanosizeMir)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fb02da0a-2ce2-4d50-b674-80b0f01b95b1", "https://vgmdb.net/album/38087"]
 
@@ -569,16 +569,16 @@ catalognumber = "KSLA-0091"
 date = "2012-12-29"
 album = "Rewrite & Rewrite Harvest festa! Arrange Album: dye mixture"
 tracks = [
-    [1, "Harvest", "多田葵", 0],
-    [2, "Potted one", "TERRA", 0],
+    [1, "Harvest", "多田葵", 1],
+    [2, "Potted one", "TERRA", 1],
     [3, "刈り", "TERRA, a2c", 0],
-    [4, "Fight for nowhere", "a2c", 0],
+    [4, "Fight for nowhere", "a2c", 1],
     [5, "Sorrowless", "TERRA, a2c", 0],
     [6, "Remembrance", "TERRA, a2c", 0],
-    [7, "恋文", "やなぎなぎ", 0],
+    [7, "恋文", "やなぎなぎ", 1],
     [8, "Radiance", "a2c", 0],
     [9, "Reply", "a2c", 0],
-    [10, "ささやかなはじまり", "水谷瑠奈", 0],
+    [10, "ささやかなはじまり", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5212a107-3d13-4db3-a8dd-c80a69410983", "https://vgmdb.net/album/36703"]
 
@@ -596,8 +596,8 @@ tracks = [
     [7, "Little Busters!〜Classic〜", "TAMUSIC", 0],
     [8, "My Soul,Your Beats!〜Classic〜 Instrumental", "TAMUSIC", 0],
     [9, "一番の宝物〜yui.ver Classic〜", "TAMUSIC", 0],
-    [10, "Philosophyz〜Classic〜", "TAMUSIC", 0],
-    [11, "Harvest〜Classic〜", "TAMUSIC", 0],
+    [10, "Philosophyz〜Classic〜", "TAMUSIC", 1],
+    [11, "Harvest〜Classic〜", "TAMUSIC", 1],
     [12, "リトルバスターズ！メドレー Classic Instrumental", "TAMUSIC", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0e720b2f-1f83-41cb-8af5-12e6a5629700", "https://vgmdb.net/album/36702"]
@@ -608,7 +608,7 @@ date = "2012-12-31"
 album = "Snowdrop"
 tracks = [
     [1, "Last Regrets", "maozon", 0],
-    [2, "散花 ( Mikoto* Rewrite Remix )", "2koto3koto pres. Mikoto*", 0],
+    [2, "散花 ( Mikoto* Rewrite Remix )", "2koto3koto pres. Mikoto*", 1],
     [3, "Summer Season Has Come", "Tomohiko Togashi", 0],
     [4, "Thames Troll ( isle Remix )", "isle", 0],
     [5, "潮鳴り", "in", 0],
@@ -674,7 +674,7 @@ date = "2013-01-30"
 album = "ビジュアルアーツ大感謝祭LIVE 2012 in YOKOHAMA ARENA~きみとかなでるあしたへのうた~ Vocal, Live Event Disc 2"
 tracks = [
     [1, "Opening", "", 0],
-    [2, "Harvest", "", 0],
+    [2, "Harvest", "", 1],
     [3, "Crow Song", "", 0],
     [4, "MC1", "", 0],
     [5, "Alchemy", "", 0],
@@ -683,14 +683,14 @@ tracks = [
     [8, "一番の宝物", "", 0],
     [9, "MC2", "", 0],
     [10, "Brave Song", "", 0],
-    [11, "CANOE", "", 0],
-    [12, "闇の彼方へ", "", 0],
+    [11, "CANOE", "", 1],
+    [12, "闇の彼方へ", "", 1],
     [13, "MC3", "", 0],
-    [14, "ささやかなはじまり", "", 0],
+    [14, "ささやかなはじまり", "", 1],
     [15, "MC4", "", 0],
-    [16, "Philosophyz", "", 0],
+    [16, "Philosophyz", "", 1],
     [17, "MC5", "", 0],
-    [18, "サンブライト", "", 0],
+    [18, "サンブライト", "", 1],
     [19, "MOVIE:クドわふたー", "", 0],
     [20, "one's future", "", 0],
     [21, "MOVIE:リトルバスターズ!アニメ化", "", 0],
@@ -738,18 +738,18 @@ tracks = [
     [19, "Leave me hell alone", "", 0],
     [20, "Princess Brave!", "", 0],
     [21, "Fair Heaven", "", 0],
-    [22, "Harvest", "", 0],
+    [22, "Harvest", "", 1],
     [23, "Crow Song", "", 0],
     [24, "Alchemy", "", 0],
     [25, "Thousand Enemies", "", 0],
     [26, "Day Game", "", 0],
     [27, "一番の宝物", "", 0],
     [28, "Brave Song", "", 0],
-    [29, "CANOE", "", 0],
-    [30, "闇の彼方へ", "", 0],
-    [31, "ささやかなはじまり", "", 0],
-    [32, "Philosophyz", "", 0],
-    [33, "サンブライト", "", 0],
+    [29, "CANOE", "", 1],
+    [30, "闇の彼方へ", "", 1],
+    [31, "ささやかなはじまり", "", 1],
+    [32, "Philosophyz", "", 1],
+    [33, "サンブライト", "", 1],
     [34, "one's future", "", 0],
     [35, "Alicemagic", "", 0],
     [36, "Little Busters! -Little Jumper Ver.-", "", 0],
@@ -775,16 +775,16 @@ catalognumber = "KSLA-0091"
 date = "2014-03-28"
 album = "Rewrite & Rewrite Harvest festa! Arrange Album: dye mixture"
 tracks = [
-    [1, "Harvest", "多田葵", 0],
-    [2, "Potted one", "TERRA", 0],
+    [1, "Harvest", "多田葵", 1],
+    [2, "Potted one", "TERRA", 1],
     [3, "刈り", "TERRA, a2c", 0],
-    [4, "Fight for nowhere", "a2c", 0],
+    [4, "Fight for nowhere", "a2c", 1],
     [5, "Sorrowless", "TERRA, a2c", 0],
     [6, "Remembrance", "TERRA, a2c", 0],
-    [7, "恋文", "やなぎなぎ", 0],
+    [7, "恋文", "やなぎなぎ", 1],
     [8, "Radiance", "a2c", 0],
     [9, "Reply", "a2c", 0],
-    [10, "ささやかなはじまり", "水谷瑠奈", 0],
+    [10, "ささやかなはじまり", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5212a107-3d13-4db3-a8dd-c80a69410983", "https://vgmdb.net/album/56525"]
 
@@ -802,8 +802,8 @@ tracks = [
     [7, "Little Busters!〜Classic〜", "TAMUSIC", 0],
     [8, "My Soul,Your Beats!〜Classic〜 Instrumental", "TAMUSIC", 0],
     [9, "一番の宝物〜yui.ver Classic〜", "TAMUSIC", 0],
-    [10, "Philosophyz〜Classic〜", "TAMUSIC", 0],
-    [11, "Harvest〜Classic〜", "TAMUSIC", 0],
+    [10, "Philosophyz〜Classic〜", "TAMUSIC", 1],
+    [11, "Harvest〜Classic〜", "TAMUSIC", 1],
     [12, "リトルバスターズ！メドレー Classic Instrumental", "TAMUSIC", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0e720b2f-1f83-41cb-8af5-12e6a5629700", "https://vgmdb.net/album/56524"]
@@ -908,7 +908,7 @@ tracks = [
     [1, "FLOWiNG AROUND", "Rita", 0],
     [2, "夢幻恋歌", "KIYO", 0],
     [3, "乙女髪Try-Angle", "茶太", 0],
-    [4, "散花 -Anniversary arrange version-", "水月陵", 0],
+    [4, "散花 -Anniversary arrange version-", "水月陵", 1],
     [5, "ALiVE", "KIYO", 0],
     [6, "空恋人魚 -self cover version-", "KIYO", 0],
     [7, "そこに、きみがいるだけで。", "北沢綾香", 0],
@@ -930,9 +930,9 @@ tracks = [
     [5, "翼を持つということ", "Eternal Lives", 0],
     [6, "Moment To Arise", "Eternal Lives", 0],
     [7, "光に寄せて", "Eternal Lives", 0],
-    [8, "散花", "Eternal Lives", 0],
+    [8, "散花", "Eternal Lives", 1],
     [9, "奇跡を待った日", "Eternal Lives", 0],
-    [10, "恋文", "Eternal Lives", 0],
+    [10, "恋文", "Eternal Lives", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ffb36c42-ddd9-4aee-8a1f-8088f833b6c4", "https://vgmdb.net/album/70729"]
 
@@ -975,17 +975,17 @@ catalognumber = "KSLA-0112"
 date = "2015-12-29"
 album = "Rewrite arrange album crann mór"
 tracks = [
-    [1, "旅", "樋口秀樹", 0],
-    [2, "芽吹き", "樋口秀樹", 0],
-    [3, "花蕾", "樋口秀樹", 0],
-    [4, "アサガオ", "樋口秀樹", 0],
-    [5, "ニリンソウ", "樋口秀樹", 0],
+    [1, "旅", "樋口秀樹", 1],
+    [2, "芽吹き", "樋口秀樹", 1],
+    [3, "花蕾", "樋口秀樹", 1],
+    [4, "アサガオ", "樋口秀樹", 1],
+    [5, "ニリンソウ", "樋口秀樹", 1],
     [6, "この木の下で", "多田葵", 0],
     [7, "Raised Bed", "樋口秀樹", 0],
     [8, "Remembrance", "樋口秀樹", 0],
     [9, "Sorrowless", "樋口秀樹", 0],
-    [10, "揺葉", "樋口秀樹", 0],
-    [11, "ヒナギク", "樋口秀樹", 0],
+    [10, "揺葉", "樋口秀樹", 1],
+    [11, "ヒナギク", "樋口秀樹", 1],
     [12, "Sleeping Forest", "多田葵", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/087a6cda-cb94-43d0-baaa-da3454d32fb1", "https://vgmdb.net/album/55965"]
@@ -998,13 +998,13 @@ tracks = [
     [1, "Trigger -Pull The Trigger Remix-", "marina", 0],
     [2, "発熱デイズ -EDMRock style-", "How-Low-Hello", 0],
     [3, "Hervest -Strings-Rock Mix-", "多田葵", 0],
-    [4, "CANOE -Cello Chamber Version-", "多田葵", 0],
+    [4, "CANOE -Cello Chamber Version-", "多田葵", 1],
     [5, "楽園まで -Eros Trance Remix-", "How-Low-Hello", 0],
     [6, "Rewrite -Eros Latin Remix-", "サイキックラバー", 0],
     [7, "Bravely You -ELECTROCK! Mix-", "Lia", 0],
     [8, "灼け落ちない翼 -Happy Rock Ver.-", "多田葵", 0],
     [9, "Sleeping Forest -SLV Ver.-", "多田葵", 0],
-    [10, "ささやかなはじまり -Orchestra Ver.-", "水谷瑠奈", 0],
+    [10, "ささやかなはじまり -Orchestra Ver.-", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/575930dc-af1f-451a-a6a3-1c34aa78be2d", "https://vgmdb.net/album/58084"]
 
@@ -1022,12 +1022,12 @@ catalognumber = "KSLA-0118"
 date = "2016-07-27"
 album = "Philosophyz/ささやかなはじまり / 水谷瑠奈 (NanosizeMir)"
 tracks = [
-    [1, "Philosophyz 〜TV animation ver.〜", "水谷瑠奈(NanosizeMir)", 0],
-    [2, "ささやかなはじまり 〜TV animation ver.〜", "水谷瑠奈(NanosizeMir)", 0],
-    [3, "Philosophyz 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 0],
-    [4, "ささやかなはじまり 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 0],
-    [5, "Philosophyz 〜TV animation ver.〜 (Instrumental)", "水谷瑠奈(NanosizeMir)", 0],
-    [6, "ささやかなはじまり 〜TV animation ver.〜 (Instrumental)", "水谷瑠奈(NanosizeMir)", 0],
+    [1, "Philosophyz 〜TV animation ver.〜", "水谷瑠奈(NanosizeMir)", 1],
+    [2, "ささやかなはじまり 〜TV animation ver.〜", "水谷瑠奈(NanosizeMir)", 1],
+    [3, "Philosophyz 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 1],
+    [4, "ささやかなはじまり 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 1],
+    [5, "Philosophyz 〜TV animation ver.〜 (Instrumental)", "水谷瑠奈(NanosizeMir)", 1],
+    [6, "ささやかなはじまり 〜TV animation ver.〜 (Instrumental)", "水谷瑠奈(NanosizeMir)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c2b939c3-b494-4951-9eae-4e5a3312d171", "https://vgmdb.net/album/59054"]
 
@@ -1045,16 +1045,16 @@ catalognumber = "KSLA-0116"
 date = "2016-07-29"
 album = "Rewrite Arrange Album 'Selene'"
 tracks = [
-    [1, "Philosophyz (溝口ゆうま remix)", "水谷瑠奈 (NanosizeMir)", 0],
-    [2, "DIS is a pain (morbid Rock mix)", "Irus (LiLA'c Records)", 0],
+    [1, "Philosophyz (溝口ゆうま remix)", "水谷瑠奈 (NanosizeMir)", 1],
+    [2, "DIS is a pain (morbid Rock mix)", "Irus (LiLA'c Records)", 1],
     [3, "Eruptible (Freezer Remix)", "Freezer (Lilium Records)", 0],
     [4, "Quaesitor (Shouya Namai Remix)", "Shouya Namai", 0],
-    [5, "サンブライト (ALR REMIX)", "北沢綾香", 0],
+    [5, "サンブライト (ALR REMIX)", "北沢綾香", 1],
     [6, "Redemptor (Digital Universum ver)", "しょうゆ", 0],
-    [7, "Phobia (LU-I Remix)", "LU-I (SERVANT KLANGZ)", 0],
+    [7, "Phobia (LU-I Remix)", "LU-I (SERVANT KLANGZ)", 1],
     [8, "Finale (Kissing the Mirror Mix)", "Wooming、ケンカワ、奈槻晃", 0],
     [9, "Retribution (MUZIK SERVANT & Freezer Remix)", "MUZIK SERVANT (SERVANT KLANGZ) & Freezer (Lilium Records)", 0],
-    [10, "Fight for nowhere (Kissing the Mirror Mix)", "Wooming", 0],
+    [10, "Fight for nowhere (Kissing the Mirror Mix)", "Wooming", 1],
     [11, "刈り (溝口ゆうま remix)", "溝口ゆうま (M.H.S)", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e57730ed-c646-4676-a195-1eab8f746fe7", "https://vgmdb.net/album/58086"]
@@ -1071,11 +1071,11 @@ catalognumber = "KSLA-0121"
 date = "2016-09-21"
 album = "Word of Dawn / 多田葵"
 tracks = [
-    [1, "Word of Dawn", "多田葵", 0],
-    [2, "おきらく☆きゅうさい", "多田葵", 0],
-    [3, "Word of Dawn (TVsize)", "多田葵", 0],
-    [4, "Word of Dawn (Instrumental)", "多田葵", 0],
-    [5, "おきらく☆きゅうさい (Instrumental)", "多田葵", 0],
+    [1, "Word of Dawn", "多田葵", 1],
+    [2, "おきらく☆きゅうさい", "多田葵", 1],
+    [3, "Word of Dawn (TVsize)", "多田葵", 1],
+    [4, "Word of Dawn (Instrumental)", "多田葵", 1],
+    [5, "おきらく☆きゅうさい (Instrumental)", "多田葵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d17aa061-bb76-45ad-a708-d517584a8a11", "https://vgmdb.net/album/59698"]
 
@@ -1084,11 +1084,11 @@ catalognumber = "KSLA-0120"
 date = "2016-09-21"
 album = "End of the World / 熊木杏里"
 tracks = [
-    [1, "End of the World", "熊木杏里", 0],
-    [2, "へたくそな唄", "熊木杏里", 0],
-    [3, "End of the World (TVsize)", "熊木杏里", 0],
-    [4, "End of the World (Instrumental)", "熊木杏里", 0],
-    [5, "へたくそな唄 (Instrumental)", "熊木杏里", 0],
+    [1, "End of the World", "熊木杏里", 1],
+    [2, "へたくそな唄", "熊木杏里", 1],
+    [3, "End of the World (TVsize)", "熊木杏里", 1],
+    [4, "End of the World (Instrumental)", "熊木杏里", 1],
+    [5, "へたくそな唄 (Instrumental)", "熊木杏里", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a37b499-e736-4d7a-96b9-35ef97890071", "https://vgmdb.net/album/59697"]
 
@@ -1097,11 +1097,11 @@ catalognumber = "ANZX-13502"
 date = "2016-09-28"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 #01", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 #02", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 #03", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 #04", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 #05", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 #01", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 #02", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 #03", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 #04", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 #05", "", 1],
 ]
 links = ["https://vgmdb.net/album/59895"]
 
@@ -1110,11 +1110,11 @@ catalognumber = "ANZX-13504"
 date = "2016-10-26"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編 vol.2"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 vol.2 #01", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 vol.2 #02", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 vol.2 #03", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 vol.2 #04", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 vol.2 #05", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 vol.2 #01", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 vol.2 #02", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 vol.2 #03", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 vol.2 #04", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 vol.2 #05", "", 1],
 ]
 links = ["https://vgmdb.net/album/59896"]
 
@@ -1144,11 +1144,11 @@ tracks = [
     [1, "新世界のα", "", 0],
     [2, "夢、駆ける翼", "", 0],
     [3, "銀色、遥か (Album ver.)", "", 0],
-    [4, "Word of Dawn (Album ver.)", "", 0],
+    [4, "Word of Dawn (Album ver.)", "", 1],
     [5, "ベラドンナ", "", 0],
     [6, "Worlds Pain (Album ver.)", "", 0],
     [7, "Tears (Album ver.)", "", 0],
-    [8, "おきらく☆きゅうさい", "", 0],
+    [8, "おきらく☆きゅうさい", "", 1],
     [9, "夕暮れ小径", "", 0],
     [10, "Dreamy Dreamy", "", 0],
     [11, "ヒマワリ", "", 0],
@@ -1181,14 +1181,14 @@ date = "2016-12-29"
 album = "Modification of Key Sounds Label Disc 2 [KSLA-0125]"
 tracks = [
     [1, "灼け落ちない翼(Polyphonix Remix)", "多田葵", 0],
-    [2, "Word of Dawn(Freezer Remix)", "多田葵", 0],
+    [2, "Word of Dawn(Freezer Remix)", "多田葵", 1],
     [3, "君とのなくしもの(LU-I Remix)", "北沢綾香", 0],
     [4, "風の辿り着く場所(Hedonist Remix)", "彩菜", 0],
     [5, "TORCH(ALR Remix)", "Lia", 0],
     [6, "Farewell Song(溝口ゆうま Remix)", "Lia", 0],
     [7, "Star Rain(Tracy Remix)", "北沢綾香", 0],
     [8, "Gentle Jenna(Nizikawa Remix)", "北沢綾香", 0],
-    [9, "ささやかなはじまり(ITM Remix)", "水谷瑠奈(NanosizeMir)", 0],
+    [9, "ささやかなはじまり(ITM Remix)", "水谷瑠奈(NanosizeMir)", 1],
     [10, "すべての終わりの始まり(Halozy SMJ Remix)", "鈴湯", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e7dccf69-5b4b-4e90-9254-8b3c316d7e04", "https://vgmdb.net/album/63474"]
@@ -1216,20 +1216,20 @@ catalognumber = "KSLA-0128"
 date = "2016-12-29"
 album = "ルチはやアイドルソングCD「ピュアネスラプソディー」"
 tracks = [
-    [1, "Princess is The Princess", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 0],
-    [2, "Fledglings girls!!", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 0],
-    [3, "Philosophyz", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 0],
-    [4, "サンブライト", "此花ルチア (cv. 朝樹りさ)", 0],
-    [5, "恋桜開花前線", "鳯ちはや (cv. 篠宮沙耶)", 0],
-    [6, "恋のルチはや♡ローリング", "此花ルチア (cv. 朝樹りさ & 篠宮沙耶)", 0],
-    [7, "Princess is The Princess ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 0],
-    [8, "Princess is The Princess ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 0],
-    [9, "Fledglings girls!! ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 0],
-    [10, "Fledglings girls!! ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 0],
-    [11, "Philosophyz ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 0],
-    [12, "Philosophyz ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 0],
-    [13, "恋のルチはや♡ローリング ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 0],
-    [14, "恋のルチはや♡ローリング ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 0],
+    [1, "Princess is The Princess", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 1],
+    [2, "Fledglings girls!!", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 1],
+    [3, "Philosophyz", "此花ルチア (cv. 朝樹りさ / 篠宮沙耶)", 1],
+    [4, "サンブライト", "此花ルチア (cv. 朝樹りさ)", 1],
+    [5, "恋桜開花前線", "鳯ちはや (cv. 篠宮沙耶)", 1],
+    [6, "恋のルチはや♡ローリング", "此花ルチア (cv. 朝樹りさ & 篠宮沙耶)", 1],
+    [7, "Princess is The Princess ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 1],
+    [8, "Princess is The Princess ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 1],
+    [9, "Fledglings girls!! ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 1],
+    [10, "Fledglings girls!! ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 1],
+    [11, "Philosophyz ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 1],
+    [12, "Philosophyz ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 1],
+    [13, "恋のルチはや♡ローリング ルチアソロ ver.", "此花ルチア (cv. 朝樹りさ)", 1],
+    [14, "恋のルチはや♡ローリング ちはやソロ ver.", "鳯ちはや (cv. 篠宮沙耶)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/810ddc8d-f30d-400f-bf6e-44fa64fe151c", "https://vgmdb.net/album/63470"]
 
@@ -1264,9 +1264,9 @@ tracks = [
     [5, "Super Sonic Girl", "", 0],
     [6, "ビットワールドのおひめさま", "", 0],
     [7, "フリッパー -Refined Ver.-", "", 0],
-    [8, "Philosophyz -NanosizeMir Ver.-", "", 0],
-    [9, "闇の彼方へ -NanosizeMir Ver.-", "", 0],
-    [10, "ささやかなはじまり -NanosizeMir Ver.-", "", 0],
+    [8, "Philosophyz -NanosizeMir Ver.-", "", 1],
+    [9, "闇の彼方へ -NanosizeMir Ver.-", "", 1],
+    [10, "ささやかなはじまり -NanosizeMir Ver.-", "", 1],
 ]
 links = ["https://vgmdb.net/album/63471"]
 
@@ -1282,11 +1282,11 @@ catalognumber = "ANZX-13510"
 date = "2017-01-25"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編 vol.3"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 vol.3", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 vol.3", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 vol.3", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 vol.3", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 vol.3", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 vol.3", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 vol.3", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 vol.3", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 vol.3", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 vol.3", "", 1],
 ]
 links = ["https://vgmdb.net/album/59904"]
 
@@ -1295,12 +1295,12 @@ catalognumber = "ANZX-13512"
 date = "2017-02-22"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編 vol.4"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 vol.4 #01", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 vol.4 #02", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 vol.4 #03", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 vol.4 #04", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 vol.4 #05", "", 0],
-    [6, "月刊テラ・風祭学院支局 特別編 vol.4 #06", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 vol.4 #01", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 vol.4 #02", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 vol.4 #03", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 vol.4 #04", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 vol.4 #05", "", 1],
+    [6, "月刊テラ・風祭学院支局 特別編 vol.4 #06", "", 1],
 ]
 links = ["https://vgmdb.net/album/59905"]
 
@@ -1344,9 +1344,9 @@ tracks = [
     [5, "Super Sonic Girl", "ピコミール", 0],
     [6, "ビットワールドのおひめさま", "NanosizeMir", 0],
     [7, "フリッパー -Refined Ver.-", "NanosizeMir", 0],
-    [8, "Philosophyz -NanosizeMir Ver.-", "NanosizeMir", 0],
-    [9, "闇の彼方へ -NanosizeMir Ver.-", "NanosizeMir", 0],
-    [10, "ささやかなはじまり -NanosizeMir Ver.-", "NanosizeMir", 0],
+    [8, "Philosophyz -NanosizeMir Ver.-", "NanosizeMir", 1],
+    [9, "闇の彼方へ -NanosizeMir Ver.-", "NanosizeMir", 1],
+    [10, "ささやかなはじまり -NanosizeMir Ver.-", "NanosizeMir", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/eb9226d4-cd3a-4f6f-a0f3-db939c567b8a", "https://vgmdb.net/album/65252"]
 
@@ -1355,11 +1355,11 @@ catalognumber = "KSLA-0129"
 date = "2017-03-22"
 album = "Last Desire / 黒崎真音"
 tracks = [
-    [1, "Last Desire", "黒崎真音", 0],
-    [2, "Ignis Memory", "黒崎真音", 0],
-    [3, "Last Desire (TVsize)", "黒崎真音", 0],
-    [4, "Last Desire (Instrumental)", "黒崎真音", 0],
-    [5, "Ignis Memory (Instrumental)", "黒崎真音", 0],
+    [1, "Last Desire", "黒崎真音", 1],
+    [2, "Ignis Memory", "黒崎真音", 1],
+    [3, "Last Desire (TVsize)", "黒崎真音", 1],
+    [4, "Last Desire (Instrumental)", "黒崎真音", 1],
+    [5, "Ignis Memory (Instrumental)", "黒崎真音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3752a5bf-8ed9-459d-8e93-d34ae4f826df", "https://vgmdb.net/album/65336"]
 
@@ -1368,11 +1368,11 @@ catalognumber = "KSLA-0130"
 date = "2017-03-22"
 album = "Instincts / 水谷瑠奈 (NanosizeMir)"
 tracks = [
-    [1, "Instincts", "水谷瑠奈", 0],
-    [2, "Cradles Tale", "水谷瑠奈", 0],
-    [3, "Instincts (TVsize)", "水谷瑠奈", 0],
-    [4, "Instincts (Instrumental)", "水谷瑠奈", 0],
-    [5, "Cradles Tale (Instrumental)", "水谷瑠奈", 0],
+    [1, "Instincts", "水谷瑠奈", 1],
+    [2, "Cradles Tale", "水谷瑠奈", 1],
+    [3, "Instincts (TVsize)", "水谷瑠奈", 1],
+    [4, "Instincts (Instrumental)", "水谷瑠奈", 1],
+    [5, "Cradles Tale (Instrumental)", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4e01f01d-85f1-48ec-ad47-cc3ed18c798a", "https://vgmdb.net/album/65337"]
 
@@ -1381,12 +1381,12 @@ catalognumber = "KSLM-0008"
 date = "2017-03-29"
 album = "KSL Live World 2016 ~the Animation Charlotte & Rewrite~"
 tracks = [
-    [1, "Philosophyz", "", 0],
-    [2, "ささやかなはじまり", "", 0],
-    [3, "Harvest", "", 0],
+    [1, "Philosophyz", "", 1],
+    [2, "ささやかなはじまり", "", 1],
+    [3, "Harvest", "", 1],
     [4, "この木の下で", "", 0],
-    [5, "恋文", "", 0],
-    [6, "サンブライト", "", 0],
+    [5, "恋文", "", 1],
+    [6, "サンブライト", "", 1],
     [7, "発熱デイズ", "", 0],
     [8, "楽園まで", "", 0],
     [9, "Trigger", "", 0],
@@ -1400,10 +1400,10 @@ tracks = [
     [17, "永遠の星へ", "", 0],
     [18, "Rewrite", "", 0],
     [19, "君の文字", "", 0],
-    [20, "End of the World", "", 0],
-    [21, "CANOE", "", 0],
+    [20, "End of the World", "", 1],
+    [21, "CANOE", "", 1],
     [22, "Crow Song", "", 0],
-    [23, "闇の彼方へ", "", 0],
+    [23, "闇の彼方へ", "", 1],
     [24, "灼け落ちない翼", "", 0],
     [25, "Bravely You", "", 0],
     [26, "旅人", "", 0],
@@ -1417,17 +1417,17 @@ album = "ビジュアルアーツ・春を口ずさむ曲選2017"
 tracks = [
     [1, "fortune card", "北沢綾香", 0],
     [2, "Run", "WORK-S", 0],
-    [3, "散花", "なかやまらいでん", 0],
+    [3, "散花", "なかやまらいでん", 1],
     [4, "World Link", "KOTOKO", 0],
     [5, "馬鹿ふたり", "戸越まごめ", 0],
     [6, "えきぞちっく・といぼっくす", "坂東美佳", 0],
     [7, "星なる石", "riya", 0],
-    [8, "恋文 (Remix)", "やなぎなぎ", 0],
+    [8, "恋文 (Remix)", "やなぎなぎ", 1],
     [9, "渚", "京田誠一", 0],
     [10, "アルビナ", "Duca", 0],
-    [11, "Fight for nowhere", "a2c", 0],
+    [11, "Fight for nowhere", "a2c", 1],
     [12, "同じ高みへ", "水月陵", 0],
-    [13, "ささやかなはじまり", "水谷瑠奈", 0],
+    [13, "ささやかなはじまり", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f23aef1-0b4f-44bd-bf9f-89828c8c5f5a", "https://vgmdb.net/album/67250"]
 
@@ -1436,12 +1436,12 @@ catalognumber = "ANZX-13518"
 date = "2017-05-24"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編 vol.5"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 vol.5 #01", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 vol.5 #02", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 vol.5 #03", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 vol.5 #04", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 vol.5 #05", "", 0],
-    [6, "月刊テラ・風祭学院支局 特別編 vol.5 #06", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 vol.5 #01", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 vol.5 #02", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 vol.5 #03", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 vol.5 #04", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 vol.5 #05", "", 1],
+    [6, "月刊テラ・風祭学院支局 特別編 vol.5 #06", "", 1],
 ]
 links = ["https://vgmdb.net/album/61809"]
 
@@ -1450,31 +1450,31 @@ catalognumber = "KSLA-0136~9"
 date = "2017-06-28"
 album = "アニメ「Rewrite」Original SoundTrack Disc 1 [KSLA-0136]"
 tracks = [
-    [1, "Philosophyz 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 0],
-    [2, "ヒナギク", "井内舞子", 0],
-    [3, "深層森林", "井内舞子", 0],
-    [4, "ニリンソウ", "細井聡司", 0],
-    [5, "Raised bed", "水月陵", 0],
-    [6, "花蕾", "井内舞子", 0],
-    [7, "サンブライト", "折戸伸治", 0],
-    [8, "DIS is a pain", "折戸伸治", 0],
-    [9, "irrigated land", "塚越雄一朗", 0],
-    [10, "アサガオ", "井内舞子", 0],
-    [11, "カーネーション", "折戸伸治", 0],
-    [12, "果実", "水月陵", 0],
-    [13, "Fertilizer", "折戸伸治", 0],
-    [14, "幻境", "水月陵", 0],
-    [15, "Exploration", "折戸伸治", 0],
-    [16, "凍土", "細井聡司", 0],
-    [17, "黒星病", "細井聡司", 0],
-    [18, "Scene of carnage", "井内舞子", 0],
-    [19, "Radiance", "細井聡司", 0],
-    [20, "綿帽子", "細井聡司", 0],
-    [21, "アンスリウム", "水月陵", 0],
-    [22, "ルチア着信音", "折戸伸治", 0],
-    [23, "Eurptible", "折戸伸治", 0],
-    [24, "褐斑病", "井内舞子", 0],
-    [25, "ささやかなはじまり ～TV animation ver.～ (TVsize)", "水谷瑠奈(NanosizeMir)", 0],
+    [1, "Philosophyz 〜TV animation ver.〜 (TVsize)", "水谷瑠奈(NanosizeMir)", 1],
+    [2, "ヒナギク", "井内舞子", 1],
+    [3, "深層森林", "井内舞子", 1],
+    [4, "ニリンソウ", "細井聡司", 1],
+    [5, "Raised bed", "水月陵", 1],
+    [6, "花蕾", "井内舞子", 1],
+    [7, "サンブライト", "折戸伸治", 1],
+    [8, "DIS is a pain", "折戸伸治", 1],
+    [9, "irrigated land", "塚越雄一朗", 1],
+    [10, "アサガオ", "井内舞子", 1],
+    [11, "カーネーション", "折戸伸治", 1],
+    [12, "果実", "水月陵", 1],
+    [13, "Fertilizer", "折戸伸治", 1],
+    [14, "幻境", "水月陵", 1],
+    [15, "Exploration", "折戸伸治", 1],
+    [16, "凍土", "細井聡司", 1],
+    [17, "黒星病", "細井聡司", 1],
+    [18, "Scene of carnage", "井内舞子", 1],
+    [19, "Radiance", "細井聡司", 1],
+    [20, "綿帽子", "細井聡司", 1],
+    [21, "アンスリウム", "水月陵", 1],
+    [22, "ルチア着信音", "折戸伸治", 1],
+    [23, "Eurptible", "折戸伸治", 1],
+    [24, "褐斑病", "井内舞子", 1],
+    [25, "ささやかなはじまり ～TV animation ver.～ (TVsize)", "水谷瑠奈(NanosizeMir)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cd12e0a-d2ae-44a5-bf9c-f80d446b1d4c", "https://vgmdb.net/album/67576"]
 
@@ -1483,30 +1483,30 @@ catalognumber = "KSLA-0136~9"
 date = "2017-06-28"
 album = "アニメ「Rewrite」Original SoundTrack Disc 2 [KSLA-0137]"
 tracks = [
-    [1, "Honesty", "折戸伸治", 0],
-    [2, "Reply", "折戸伸治", 0],
-    [3, "散花", "水月陵", 0],
-    [4, "Scene shifts there", "水月陵", 0],
-    [5, "恋文 (TVsize)", "やなぎなぎ", 0],
-    [6, "Fight for nowhere", "折戸伸治", 0],
-    [7, "winners!", "折戸伸治", 0],
-    [8, "枯死", "細井聡司", 0],
-    [9, "Potted one", "井内舞子", 0],
-    [10, "サンブライト (TVsize)", "北沢綾香", 0],
-    [11, "Sorrowless", "井内舞子", 0],
-    [12, "Toxoplasma", "細井聡司", 0],
-    [13, "End of the world (TVsize)", "熊木杏里", 0],
-    [14, "Bloom", "井内舞子", 0],
-    [15, "実り", "水月陵", 0],
-    [16, "ムーンブライト", "折戸伸治", 0],
-    [17, "Scene of carnage aggressiveness", "井内舞子", 0],
-    [18, "刈り", "井内舞子", 0],
-    [19, "Exploration2 symphonic", "折戸伸治", 0],
-    [20, "Sorrowless(Rewrite & Rewrite Hf! Arrange Album『dye mixture』より)", "折戸伸治", 0],
-    [21, "DIS is a pain(Rewrite Arrange Album『Selene』より)", "折戸伸治", 0],
-    [22, "刈り(Rewrite & Rewrite Hf! Arrange Album『dye mixture』より)", "井内舞子", 0],
-    [23, "Phobic", "細井聡司", 0],
-    [24, "Word of Dawn (TVsize)", "多田葵", 0],
+    [1, "Honesty", "折戸伸治", 1],
+    [2, "Reply", "折戸伸治", 1],
+    [3, "散花", "水月陵", 1],
+    [4, "Scene shifts there", "水月陵", 1],
+    [5, "恋文 (TVsize)", "やなぎなぎ", 1],
+    [6, "Fight for nowhere", "折戸伸治", 1],
+    [7, "winners!", "折戸伸治", 1],
+    [8, "枯死", "細井聡司", 1],
+    [9, "Potted one", "井内舞子", 1],
+    [10, "サンブライト (TVsize)", "北沢綾香", 1],
+    [11, "Sorrowless", "井内舞子", 1],
+    [12, "Toxoplasma", "細井聡司", 1],
+    [13, "End of the world (TVsize)", "熊木杏里", 1],
+    [14, "Bloom", "井内舞子", 1],
+    [15, "実り", "水月陵", 1],
+    [16, "ムーンブライト", "折戸伸治", 1],
+    [17, "Scene of carnage aggressiveness", "井内舞子", 1],
+    [18, "刈り", "井内舞子", 1],
+    [19, "Exploration2 symphonic", "折戸伸治", 1],
+    [20, "Sorrowless(Rewrite & Rewrite Hf! Arrange Album『dye mixture』より)", "折戸伸治", 1],
+    [21, "DIS is a pain(Rewrite Arrange Album『Selene』より)", "折戸伸治", 1],
+    [22, "刈り(Rewrite & Rewrite Hf! Arrange Album『dye mixture』より)", "井内舞子", 1],
+    [23, "Phobic", "細井聡司", 1],
+    [24, "Word of Dawn (TVsize)", "多田葵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cd12e0a-d2ae-44a5-bf9c-f80d446b1d4c", "https://vgmdb.net/album/67576"]
 
@@ -1515,27 +1515,27 @@ catalognumber = "KSLA-0136~9"
 date = "2017-06-28"
 album = "アニメ「Rewrite」Original SoundTrack Disc 3 [KSLA-0138]"
 tracks = [
-    [1, "旅", "麻枝准", 0],
-    [2, "大地", "細井聡司", 0],
-    [3, "ニリンソウ(『crann mor』Rewrite Arrange Albumより)", "細井聡司", 0],
-    [4, "揺葉", "折戸伸治", 0],
-    [5, "萌芽", "折戸伸治", 0],
-    [6, "Rewrite instrumental", "YOFFY", 0],
-    [7, "偽らない君へ (TVsize)", "やなぎなぎ", 0],
-    [8, "Repress", "YOFFY", 0],
-    [9, "滅びの歌", "麻枝准", 0],
-    [10, "Finale", "井内舞子", 0],
-    [11, "刈り(Rewrite Arrange Album『Selene』より)", "井内舞子", 0],
-    [12, "愛を灌ぐ", "井内舞子", 0],
-    [13, "夢", "麻枝准", 0],
-    [14, "Philosophy of yours", "折戸伸治", 0],
-    [15, "恋歌 (TVsize)", "やなぎなぎ", 0],
-    [16, "青枯病", "水月陵", 0],
-    [17, "ヒナギク orgelVer", "井内舞子", 0],
-    [18, "ヒナギク(『crann mor』Rewrite Arrange Albumより)", "井内舞子", 0],
-    [19, "星墜", "竹下智博", 0],
-    [20, "大地-Radiance(Rewrite Arrangement Album『Branch』より)", "細井聡司", 0],
-    [21, "闇の彼方へ (TVsize)", "水谷瑠奈", 0],
+    [1, "旅", "麻枝准", 1],
+    [2, "大地", "細井聡司", 1],
+    [3, "ニリンソウ(『crann mor』Rewrite Arrange Albumより)", "細井聡司", 1],
+    [4, "揺葉", "折戸伸治", 1],
+    [5, "萌芽", "折戸伸治", 1],
+    [6, "Rewrite instrumental", "YOFFY", 1],
+    [7, "偽らない君へ (TVsize)", "やなぎなぎ", 1],
+    [8, "Repress", "YOFFY", 1],
+    [9, "滅びの歌", "麻枝准", 1],
+    [10, "Finale", "井内舞子", 1],
+    [11, "刈り(Rewrite Arrange Album『Selene』より)", "井内舞子", 1],
+    [12, "愛を灌ぐ", "井内舞子", 1],
+    [13, "夢", "麻枝准", 1],
+    [14, "Philosophy of yours", "折戸伸治", 1],
+    [15, "恋歌 (TVsize)", "やなぎなぎ", 1],
+    [16, "青枯病", "水月陵", 1],
+    [17, "ヒナギク orgelVer", "井内舞子", 1],
+    [18, "ヒナギク(『crann mor』Rewrite Arrange Albumより)", "井内舞子", 1],
+    [19, "星墜", "竹下智博", 1],
+    [20, "大地-Radiance(Rewrite Arrangement Album『Branch』より)", "細井聡司", 1],
+    [21, "闇の彼方へ (TVsize)", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cd12e0a-d2ae-44a5-bf9c-f80d446b1d4c", "https://vgmdb.net/album/67576"]
 
@@ -1544,25 +1544,25 @@ catalognumber = "KSLA-0136~9"
 date = "2017-06-28"
 album = "アニメ「Rewrite」Original SoundTrack Disc 4 [KSLA-0139]"
 tracks = [
-    [1, "Innocence Eye", "水谷瑠奈", 0],
-    [2, "Philosophy of ours", "折戸伸治", 0],
-    [3, "Species", "井内舞子", 0],
-    [4, "Phobia", "細井聡司", 0],
-    [5, "Rewrite (TVsize)", "サイキックラバー", 0],
-    [6, "Record", "YOFFY", 0],
-    [7, "渡りの詩 (TVsize)", "多田葵", 0],
-    [8, "Last Desire (TVsize)", "黒崎真音", 0],
-    [9, "Instincts (TVsize)", "水谷瑠奈", 0],
-    [10, "Retribution", "折戸伸治", 0],
-    [11, "Remembrance", "折戸伸治", 0],
-    [12, "Scar", "折戸伸治", 0],
-    [13, "アネモネ", "折戸伸治", 0],
-    [14, "Liberation", "YOFFY", 0],
-    [15, "Sinner", "折戸伸治", 0],
-    [16, "Sorrowless(『crann mor』Rewrite Arrange Albumより)", "折戸伸治", 0],
-    [17, "in the pocket", "折戸伸治", 0],
-    [18, "Wedge", "どんまる", 0],
-    [19, "CANOE (TVsize)", "多田葵", 0],
+    [1, "Innocence Eye", "水谷瑠奈", 1],
+    [2, "Philosophy of ours", "折戸伸治", 1],
+    [3, "Species", "井内舞子", 1],
+    [4, "Phobia", "細井聡司", 1],
+    [5, "Rewrite (TVsize)", "サイキックラバー", 1],
+    [6, "Record", "YOFFY", 1],
+    [7, "渡りの詩 (TVsize)", "多田葵", 1],
+    [8, "Last Desire (TVsize)", "黒崎真音", 1],
+    [9, "Instincts (TVsize)", "水谷瑠奈", 1],
+    [10, "Retribution", "折戸伸治", 1],
+    [11, "Remembrance", "折戸伸治", 1],
+    [12, "Scar", "折戸伸治", 1],
+    [13, "アネモネ", "折戸伸治", 1],
+    [14, "Liberation", "YOFFY", 1],
+    [15, "Sinner", "折戸伸治", 1],
+    [16, "Sorrowless(『crann mor』Rewrite Arrange Albumより)", "折戸伸治", 1],
+    [17, "in the pocket", "折戸伸治", 1],
+    [18, "Wedge", "どんまる", 1],
+    [19, "CANOE (TVsize)", "多田葵", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9cd12e0a-d2ae-44a5-bf9c-f80d446b1d4c", "https://vgmdb.net/album/67576"]
 
@@ -1571,12 +1571,12 @@ catalognumber = "ANZX-13520"
 date = "2017-06-28"
 album = "Rewriteラジオ 月刊テラ・風祭学院支局 特別編 vol.6"
 tracks = [
-    [1, "月刊テラ・風祭学院支局 特別編 vol.6 #01", "", 0],
-    [2, "月刊テラ・風祭学院支局 特別編 vol.6 #02", "", 0],
-    [3, "月刊テラ・風祭学院支局 特別編 vol.6 #03", "", 0],
-    [4, "月刊テラ・風祭学院支局 特別編 vol.6 #04", "", 0],
-    [5, "月刊テラ・風祭学院支局 特別編 vol.6 #05", "", 0],
-    [6, "月刊テラ・風祭学院支局 特別編 vol.6 #06", "", 0],
+    [1, "月刊テラ・風祭学院支局 特別編 vol.6 #01", "", 1],
+    [2, "月刊テラ・風祭学院支局 特別編 vol.6 #02", "", 1],
+    [3, "月刊テラ・風祭学院支局 特別編 vol.6 #03", "", 1],
+    [4, "月刊テラ・風祭学院支局 特別編 vol.6 #04", "", 1],
+    [5, "月刊テラ・風祭学院支局 特別編 vol.6 #05", "", 1],
+    [6, "月刊テラ・風祭学院支局 特別編 vol.6 #06", "", 1],
 ]
 links = ["https://vgmdb.net/album/61810"]
 
@@ -1594,7 +1594,7 @@ tracks = [
     [7, "tale of the tree", "熊木杏里", 0],
     [8, "光の行方", "熊木杏里", 0],
     [9, "銀色世界", "熊木杏里", 0],
-    [10, "End of the World", "熊木杏里", 0],
+    [10, "End of the World", "熊木杏里", 1],
     [11, "汐のための子守歌", "熊木杏里", 0],
     [12, "Supernova", "熊木杏里", 0],
     [13, "Love Songの作り方", "熊木杏里", 0],
@@ -1626,7 +1626,7 @@ tracks = [
     [7, "tale of the tree", "熊木杏里", 0],
     [8, "光の行方", "熊木杏里", 0],
     [9, "銀色世界", "熊木杏里", 0],
-    [10, "End of the World", "熊木杏里", 0],
+    [10, "End of the World", "熊木杏里", 1],
     [11, "汐のための子守歌", "熊木杏里", 0],
     [12, "Supernova", "熊木杏里", 0],
     [13, "Love Songの作り方", "熊木杏里", 0],
@@ -1665,7 +1665,7 @@ tracks = [
     [11, "happiness.", "川田まみ", 0],
     [12, "Sign of Suspicion", "KOTOKO", 0],
     [13, "ALIVE", "IKU", 0],
-    [14, "IgnisMemory –I’ve Remix–", "黒崎真音", 0],
+    [14, "IgnisMemory –I’ve Remix–", "黒崎真音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d8ddab00-cf54-4920-8120-e2852c142cb1", "https://vgmdb.net/album/115650"]
 
@@ -1687,7 +1687,7 @@ tracks = [
     [11, "happiness.", "川田まみ", 0],
     [12, "Sign of Suspicion", "KOTOKO", 0],
     [13, "ALIVE", "IKU", 0],
-    [14, "IgnisMemory –I’ve Remix–", "黒崎真音", 0],
+    [14, "IgnisMemory –I’ve Remix–", "黒崎真音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2f834b97-a30a-47bc-902c-f70554e7abe6", "https://vgmdb.net/album/115649"]
 
@@ -1696,16 +1696,16 @@ catalognumber = "KSLA-0140"
 date = "2017-08-11"
 album = "Re:Change ~Rewrite EDM Arrange Album~"
 tracks = [
-    [1, "Philosophyz (Nizikawa Remix)", "水谷瑠奈(NanosizeMir)", 0],
-    [2, "闇の彼方へ (Shadowy DNB Remix)", "水谷瑠奈(NanosizeMir)", 0],
+    [1, "Philosophyz (Nizikawa Remix)", "水谷瑠奈(NanosizeMir)", 1],
+    [2, "闇の彼方へ (Shadowy DNB Remix)", "水谷瑠奈(NanosizeMir)", 1],
     [3, "Rewrite (The LASTTRAK Remix)", "サイキックラバー", 0],
-    [4, "Harvest (taqumi Remix)", "多田葵", 0],
-    [5, "End of the World (LU-I Remix)", "熊木杏里", 0],
-    [6, "Word of Dawn (Halozy SMJ Remix)", "多田葵", 0],
-    [7, "おきらく☆きゅうさい (you Remix)", "多田葵", 0],
+    [4, "Harvest (taqumi Remix)", "多田葵", 1],
+    [5, "End of the World (LU-I Remix)", "熊木杏里", 1],
+    [6, "Word of Dawn (Halozy SMJ Remix)", "多田葵", 1],
+    [7, "おきらく☆きゅうさい (you Remix)", "多田葵", 1],
     [8, "Instincts (Yuma vs. Tracy Remix)", "水谷瑠奈(NanosizeMir)", 0],
-    [9, "IgnisMemory (MUZIK SERVANT vs Freezer Remix)", "黒崎真音", 0],
-    [10, "Last Desire (DJ Shimamura Remix)", "黒崎真音", 0],
+    [9, "IgnisMemory (MUZIK SERVANT vs Freezer Remix)", "黒崎真音", 1],
+    [10, "Last Desire (DJ Shimamura Remix)", "黒崎真音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/20fb2195-8969-4c58-b09f-184791ca3c0e", "https://vgmdb.net/album/70528"]
 
@@ -1731,7 +1731,7 @@ tracks = [
     [1, "Little Busters!", "Rita", 0],
     [2, "えきぞちっく・といぼっくす", "塚越雄一朗(NanosizeMir)", 0],
     [3, "届けたいメロディ", "北沢綾香", 0],
-    [4, "サンブライト", "はちょ", 0],
+    [4, "サンブライト", "はちょ", 1],
     [5, "それは風のように", "森藤晶司", 0],
     [6, "星の舟", "Lia", 0],
     [7, "theme of SSS", "森藤晶司", 0],
@@ -1752,8 +1752,8 @@ tracks = [
     [4, "Twinkle Starlight (溝口ゆうまRemix)", "佐咲紗花", 0],
     [5, "鳥の詩 (Tori No Uta 2018 db)", "Lia", 0],
     [6, "僕らの旅 (Freezer Remix)", "北沢綾香", 0],
-    [7, "サンブライト (Brightest Sunflowers Remix)", "北沢綾香", 0],
-    [8, "闇の彼方へ (Night Funk Remix)", "水谷瑠奈(NanosizeMir)", 0],
+    [7, "サンブライト (Brightest Sunflowers Remix)", "北沢綾香", 1],
+    [8, "闇の彼方へ (Night Funk Remix)", "水谷瑠奈(NanosizeMir)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6a4b043e-cb76-4010-a592-242b320c968d", "https://vgmdb.net/album/77271"]
 
@@ -1772,7 +1772,7 @@ date = "2018-09-07"
 album = "Aventure d'été"
 tracks = [
     [1, "夜想 -Noctune- ProgressiveHouseMix", "", 0],
-    [2, "旅", "", 0],
+    [2, "旅", "", 1],
     [3, "海鳴り", "", 0],
     [4, "輝く季節へ the 2000s decade arr.", "", 0],
     [5, "Jerusalm", "", 0],
@@ -1811,9 +1811,9 @@ catalognumber = "AVRS-0002"
 date = "2018-09-24"
 album = "Keyオーケストラ・コンサート2018 Disc 2"
 tracks = [
-    [1, "ヒナギク", "東京室内管弦楽団", 0],
-    [2, "Philosophy of ours", "東京室内管弦楽団", 0],
-    [3, "旅", "東京室内管弦楽団", 0],
+    [1, "ヒナギク", "東京室内管弦楽団", 1],
+    [2, "Philosophy of ours", "東京室内管弦楽団", 1],
+    [3, "旅", "東京室内管弦楽団", 1],
     [4, "theme of SSS", "東京室内管弦楽団", 0],
     [5, "ガルデモメドレー『Alchemy』『Crow Song』『Little Braver』", "東京室内管弦楽団", 0],
     [6, "一番の宝物", "東京室内管弦楽団", 0],
@@ -1885,7 +1885,7 @@ tracks = [
     [7, "君とのなくしもの (LU-I Remix)", "", 0],
     [8, "Perseids (Freezer Remix)", "", 0],
     [9, "Greeting Smile －ようこそでんでんタウン－", "", 0],
-    [10, "サンブライト (Brightest Sunflowers Remix)", "", 0],
+    [10, "サンブライト (Brightest Sunflowers Remix)", "", 1],
     [11, "Emotional Blue (Ts Remix)", "", 0],
     [12, "sign (Nasuno Remix)", "", 0],
 ]
@@ -1902,7 +1902,7 @@ tracks = [
     [4, "one's future [takashima remix]", "", 0],
     [5, "Last regrets [Batsu remix]", "", 0],
     [6, "Little Busters! [tilt-six remix]", "", 0],
-    [7, "Philosophyz [yuzen remix]", "", 0],
+    [7, "Philosophyz [yuzen remix]", "", 1],
     [8, "メグメル [chefoba remix]", "", 0],
     [9, "星めぐりの歌 [キノシタ remix]", "", 0],
     [10, "届けたいメロディ [Jun Kuroda remix]", "", 0],
@@ -1910,967 +1910,25 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/84959"]
 
-[4bc54d75b917e24050009b24dfaf06f8]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 1"
-tracks = [
-    [1, "Last regrets", "", 0],
-    [2, "風の辿り着く場所", "", 0],
-    [3, "鳥の詩", "", 0],
-    [4, "青空", "", 0],
-    [5, "Farewell song", "", 0],
-    [6, "メグメル", "", 0],
-    [7, "－影二つ－", "", 0],
-    [8, "Ana", "", 0],
-    [9, "小さなてのひら", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[4cfc472e67a5c38c24b7a554d8727fa6]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 2"
-tracks = [
-    [1, "Little Busters!", "", 0],
-    [2, "遙か彼方", "", 0],
-    [3, "Alicemagic", "", 0],
-    [4, "Song for friends", "", 0],
-    [5, "雨のち晴れ", "", 0],
-    [6, "Little Busters! ‐Little Jumper Ver.-", "", 0],
-    [7, "Little Busters! -Ecstacy Ver.-", "", 0],
-    [8, "Alicemagic (RockStar ver.)", "", 0],
-    [9, "Saya's Song", "", 0],
-    [10, "Song for friends -No Intro Ver.-", "", 0],
-    [11, "未使用曲1 (Little Busters! ‐Little Jumper Ver.-)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[4a4a8d234ccdf24d0728f964d0684c24]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 3"
-tracks = [
-    [1, "Philosophyz", "", 0],
-    [2, "闇の彼方へ", "", 0],
-    [3, "Rewrite", "", 0],
-    [4, "恋文", "", 0],
-    [5, "恋歌", "", 0],
-    [6, "偽らない君へ", "", 0],
-    [7, "渡りの詩", "", 0],
-    [8, "CANOE", "", 0],
-    [9, "Harvest", "", 0],
-    [10, "ささやかなはじまり", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[85ed659022b14862078d05671baee721]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 4"
-tracks = [
-    [1, "アルカテイル", "", 0],
-    [2, "紬の夏休み", "", 0],
-    [3, "夜奏花", "", 0],
-    [4, "羽のゆりかご", "", 0],
-    [5, "ポケットをふくらませて", "", 0],
-    [6, "Lasting Moment", "", 0],
-    [7, "紬の夏休み - Sunset Lighthouse Version -", "", 0],
-    [8, "アルカテイル - Acid Blue Remix -", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[f1b879b4fd1c5c82ea8036aeb23d1b4b]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 5"
-tracks = [
-    [1, "星めぐりの歌", "", 0],
-    [2, "Light colors", "", 0],
-    [3, "Life is like a Melody", "", 0],
-    [4, "One's future", "", 0],
-    [5, "星屑", "", 0],
-    [6, "星守歌 [アカペラ版]", "", 0],
-    [7, "星守歌", "", 0],
-    [8, "届けたいメロディ", "", 0],
-    [9, "永遠の星へ", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[155869a1758345e79230cf86ddc73d95]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 6"
-tracks = [
-    [1, "Natukage", "", 0],
-    [2, "nostalgia", "", 0],
-    [3, "Birthday Song,Requiem", "", 0],
-    [4, "恋心", "", 0],
-    [5, "Spica", "", 0],
-    [6, "Hanabi (new recording)", "", 0],
-    [7, "Moon", "", 0],
-    [8, "Spica (new arrange)", "", 0],
-    [9, "Karma", "", 0],
-    [10, "Soldiers", "", 0],
-    [11, "pierrot", "", 0],
-    [12, "hope -look up when i walk-", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[381e8c837436975bb6ca898f36735d4f]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 7"
-tracks = [
-    [1, "少女の幻想", "", 0],
-    [2, "オーバー", "", 0],
-    [3, "海鳴り", "", 0],
-    [4, "遠い旅の記憶", "", 0],
-    [5, "一万の軌跡", "", 0],
-    [6, "空に光る", "", 0],
-    [7, "同じ高み", "", 0],
-    [8, "風の少女", "", 0],
-    [9, "ひとひらの桜", "", 0],
-    [10, "木漏れ日", "", 0],
-    [11, "桜抒曲", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[10c9d78bbac5cc61af522c6ad29dfa4d]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 8"
-tracks = [
-    [1, "鈴の密かな恋の唄", "", 0],
-    [2, "Mission:Love sniper", "", 0],
-    [3, "じゅぴにゃー", "", 0],
-    [4, "沙耶の眠れるレクイエム", "", 0],
-    [5, "raison", "", 0],
-    [6, "ピクルスをおいしくするつくりかた", "", 0],
-    [7, "猫と硝子と円い月", "", 0],
-    [8, "one's word", "", 0],
-    [9, "アルビナ", "", 0],
-    [10, "鶏肉の唄", "", 0],
-    [11, "Fragment", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[66cba895fae4f192adf1bac6d732b8cf]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 9"
-tracks = [
-    [1, "Fertilizer", "", 0],
-    [2, "Little Forest", "", 0],
-    [3, "Orbita", "", 0],
-    [4, "過日憐歌", "", 0],
-    [5, "Reply", "", 0],
-    [6, "この木の下で", "", 0],
-    [7, "SleepingForest", "", 0],
-    [8, "Harvest", "", 0],
-    [9, "恋文", "", 0],
-    [10, "ささやかなはじまり", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[feda0dc18d11133fb3f665cd47e0a05c]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 10"
-tracks = [
-    [1, "メグメル ~cuckool mix 2007~", "", 0],
-    [2, "だんご大家族", "", 0],
-    [3, "時を刻む唄", "", 0],
-    [4, "TORCH", "", 0],
-    [5, "Little Busters! ~TV animation ver~", "", 0],
-    [6, "Alicemagic ~TV animation ver~", "", 0],
-    [7, "Boys be Smile", "", 0],
-    [8, "目覚めた朝にはきみが隣に", "", 0],
-    [9, "君とのなくしもの", "", 0],
-    [10, "涙色の翼", "", 0],
-    [11, "Twinkle Starlight", "", 0],
-    [12, "Worlds pain", "", 0],
-    [13, "星の舟", "", 0],
-    [14, "Gentle Jena", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[4a8347c99e19891cdeb368354134cb57]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 11"
-tracks = [
-    [1, "Crow Song", "", 0],
-    [2, "Alchemy", "", 0],
-    [3, "My Song", "", 0],
-    [4, "Last Song", "", 0],
-    [5, "Hot Meal (Another \"Thousand Enemies\")", "", 0],
-    [6, "Million Star", "", 0],
-    [7, "Hungry Song", "", 0],
-    [8, "God Bless You", "", 0],
-    [9, "Crow Song (Acoustic)", "", 0],
-    [10, "Alchemy (Acoustic)", "", 0],
-    [11, "Hot Meal", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[97c97671302b719cc48760a2fa4a16a3]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 12"
-tracks = [
-    [1, "Crow Song (Yui ver.)", "", 0],
-    [2, "Thousand Enemies", "", 0],
-    [3, "Shine Days", "", 0],
-    [4, "23:50", "", 0],
-    [5, "Run with Wolves", "", 0],
-    [6, "Morning Dreamer", "", 0],
-    [7, "Rain Song", "", 0],
-    [8, "Alchemy (Yui ver.)", "", 0],
-    [9, "一番の宝物 (Yui ver.)", "", 0],
-    [10, "Little Braver (Album ver.)", "", 0],
-    [11, "My Song (Yui ver.)", "", 0],
-    [12, "Answer Song", "", 0],
-    [13, "Day Game", "", 0],
-    [14, "Storm Song", "", 0],
-    [15, "Highest Life", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[b35aaeedde1a1be472751458b9969747]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 13"
-tracks = [
-    [1, "My Soul,Your Beats!", "", 0],
-    [2, "Brave Song", "", 0],
-    [3, "一番の宝物 (Original Version)", "", 0],
-    [4, "Heartily Song", "", 0],
-    [5, "すべての終わりの始まり", "", 0],
-    [6, "一番の宝物 ~Yui final ver.~", "", 0],
-    [7, "My Soul,Your Beats! (Gldemo ver.)", "", 0],
-    [8, "Brave Song (Gldemo ver.)", "", 0],
-    [9, "Little Braver", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[0a5929ea62afdf87ce2c201233664ca4]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 14"
-tracks = [
-    [1, "発熱デイズ", "", 0],
-    [2, "Real", "", 0],
-    [3, "シンガーデイズ", "", 0],
-    [4, "Keep on Burnin'", "", 0],
-    [5, "走れ", "", 0],
-    [6, "Dancin' on the Border", "", 0],
-    [7, "魅惑のビーム", "", 0],
-    [8, "Hand with Blood", "", 0],
-    [9, "楽園まで", "", 0],
-    [10, "旅人", "", 0],
-    [11, "Bravely You (How-Low-Hello Ver.)", "", 0],
-    [12, "灼け落ちない翼 (How-Low-Hello Ver.)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[0a975dcb66a4a187dfa70a4f2b127765]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 15"
-tracks = [
-    [1, "Blood Colour", "", 0],
-    [2, "Scar on Face", "", 0],
-    [3, "Fallin'", "", 0],
-    [4, "Sinking Ships", "", 0],
-    [5, "Ray of Light", "", 0],
-    [6, "Heavy Rain", "", 0],
-    [7, "Vanishing Day", "", 0],
-    [8, "Trigger", "", 0],
-    [9, "Adore", "", 0],
-    [10, "Clouded Sky", "", 0],
-    [11, "Live for You", "", 0],
-    [12, "Feedback", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[6e05ec9e3df9e7c976133098614581c7]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 16"
-tracks = [
-    [1, "Blood Colour [Japanese Ver.]", "", 0],
-    [2, "Scar on Face [Japanese Ver.]", "", 0],
-    [3, "Fallin' [Japanese Ver.]", "", 0],
-    [4, "Sinking Ships [Japanese Ver.]", "", 0],
-    [5, "Ray of Light [Japanese Ver.]", "", 0],
-    [6, "Heavy Rain [Japanese Ver.]", "", 0],
-    [7, "Vanishing Day [Japanese Ver.]", "", 0],
-    [8, "Trigger [Japanese Ver.]", "", 0],
-    [9, "Adore [Japanese Ver.]", "", 0],
-    [10, "Clouded Sky [Japanese Ver.]", "", 0],
-    [11, "Live for You [Japanese Ver.]", "", 0],
-    [12, "Feedback", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[36395279ce8b4dfcc3a5318706f07d7f]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 17"
-tracks = [
-    [1, "Bravely You", "", 0],
-    [2, "灼け落ちない翼", "", 0],
-    [3, "Not be found", "", 0],
-    [4, "Let's feel Good", "", 0],
-    [5, "Let's feel Good [Japanese Ver.]", "", 0],
-    [6, "君の文字", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[e69ae2fcea09622d12726b44c7e3385f]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 18"
-tracks = [
-    [1, "Philosophyz ~TV animation ver~", "", 0],
-    [2, "ささやかなはじまり ~TV animation ver~", "", 0],
-    [3, "End of the World", "", 0],
-    [4, "へたくそな唄", "", 0],
-    [5, "Word Of Dawn", "", 0],
-    [6, "おきらく☆きゅうさい", "", 0],
-    [7, "Last Desire", "", 0],
-    [8, "Ignis Memory", "", 0],
-    [9, "Instincts", "", 0],
-    [10, "Cradles Tale", "", 0],
-    [11, "Innocence Eye", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[286d3c6b96e8b56a36f6183c1676a11d]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 19"
-tracks = [
-    [1, "Last regrets -acoustic version-", "", 0],
-    [2, "Birthday Song,Requiem -fishtone remix-", "", 0],
-    [3, "Spica -SORMA remix-", "", 0],
-    [4, "メグメル -cockool mix-", "", 0],
-    [5, "メグメル", "", 0],
-    [6, "－影二つ－ -MintJam Mix-", "", 0],
-    [7, "Ana", "", 0],
-    [8, "小さなてのひら -new seasons mix-", "", 0],
-    [9, "少女の幻想 ZTS Remix", "", 0],
-    [10, "Last regrets -2006 memorial mix-", "", 0],
-    [11, "風の辿り着く場所 -2006 memorial mix-", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[ff30f8199e6ed9d9f62c70b05b3c33ff]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 20"
-tracks = [
-    [1, "鳥の詩 - Cosmic Seekers Remix", "", 0],
-    [2, "青空 anthelion2006 - ZTS Remix", "", 0],
-    [3, "Farewell song - Tsukasa Remix", "", 0],
-    [4, "Light colors - DINING-KITCHEN Remix", "", 0],
-    [5, "Little Busters! Remixed ZTS", "", 0],
-    [6, "遥か彼方 Remixed Svenson", "", 0],
-    [7, "Alicemagic Remixed Blasterhead", "", 0],
-    [8, "Song for friends Remixed Tsukasa", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[1373eefd95f210eaf6848376ff379582]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 21"
-tracks = [
-    [1, "Little Busters! [semicrystalline remix]", "", 0],
-    [2, "遥か彼方 [semicrystalline remix]", "", 0],
-    [3, "Little Busters!", "", 0],
-    [4, "遥か彼方", "", 0],
-    [5, "Little Busters! (Little Jumper mj cover)", "", 0],
-    [6, "鈴の密やかな恋の唄 ~my style mix~", "", 0],
-    [7, "Saya's Song-Saya's Ver-", "", 0],
-    [8, "沙耶の眠れるレクイエム ~Elektro Sphere Mix~", "", 0],
-    [9, "沙耶の眠れるレクイエム ~MUZIKSERVANT ReMix~", "", 0],
-    [10, "沙耶の眠れるレクイエム ~Groovetune Remix~", "", 0],
-    [11, "Alicemagic - Aroma Tablet mix -", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[07f29a1bb4f57476993df5f8700eca96]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal, Talk Disc 22"
-tracks = [
-    [1, "Little Busters!", "", 0],
-    [2, "MC Rita･民安ともえ･折戸伸治", "", 0],
-    [3, "Song for friends", "", 0],
-    [4, "遥か彼方", "", 0],
-    [5, "MC Rita", "", 0],
-    [6, "Alicemagic", "", 0],
-    [7, "Instrument - 幻想 -", "", 0],
-    [8, "メグメル", "", 0],
-    [9, "MC 茶太･民安ともえ･折戸伸治", "", 0],
-    [10, "オーバー", "", 0],
-    [11, "一万の軌跡", "", 0],
-    [12, "MC 茶太", "", 0],
-    [13, "小さなてのひら", "", 0],
-    [14, "Instrument - hope -", "", 0],
-    [15, "Light colors", "", 0],
-    [16, "MC Lia", "", 0],
-    [17, "Life is Like a Melody", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[f563a49624ba5db5cc89333fde9b5b02]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal, Talk Disc 23"
-tracks = [
-    [1, "MC 民安ともえ･折戸伸治", "", 0],
-    [2, "鈴の密かな恋の歌", "", 0],
-    [3, "Spica", "", 0],
-    [4, "MC Lia", "", 0],
-    [5, "Birthday Song,Requiem", "", 0],
-    [6, "MC Lia･民安ともえ･折戸伸治", "", 0],
-    [7, "鳥の詩", "", 0],
-    [8, "MC Rita･茶太･Lia･民安ともえ･折戸伸治", "", 0],
-    [9, "風の辿り着く場所", "", 0],
-    [10, "アンコールMC Lia", "", 0],
-    [11, "Natukage", "", 0],
-    [12, "だんご大家族", "", 0],
-    [13, "MC Rita", "", 0],
-    [14, "Little Busters! - Little Jumper ver. -", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[51f8d1eff58ff88556d60e217cfdba2a]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Arrangement, Vocal Disc 24"
-tracks = [
-    [1, "Last regrets Acid house mix", "", 0],
-    [2, "Light colors Remix", "", 0],
-    [3, "鳥の詩 Remix", "", 0],
-    [4, "風の辿り着く場所 Remix", "", 0],
-    [5, "Little Busters! (DJ Shimamuras Remix)", "", 0],
-    [6, "one's future (Dee!'s SPEEDKING Remix)", "", 0],
-    [7, "星屑 (すみじゅん Remix)", "", 0],
-    [8, "Saya's Song (NTMGmix)", "", 0],
-    [9, "Alicemagic (MUZIK SERVANT Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[553640d760a79d1548ab1e45da9d08b6]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 25"
-tracks = [
-    [1, "one's future", "", 0],
-    [2, "オープニングMC", "", 0],
-    [3, "鈴の密かな恋の歌 ~my style remix~", "", 0],
-    [4, "raison", "", 0],
-    [5, "MC すずきけいこ＆Rita&折戸伸治", "", 0],
-    [6, "Alicemagic RockStar.ver", "", 0],
-    [7, "Little Busters!- Little Jumper ver.-", "", 0],
-    [8, "MC Rita&折戸", "", 0],
-    [9, "メグメル", "", 0],
-    [10, "MC eufonius", "", 0],
-    [11, "オーバー", "", 0],
-    [12, "影二つ MintJam Ver.", "", 0],
-    [13, "MC 茶太&Rita&折戸伸治", "", 0],
-    [14, "Light colors", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[8dfc5d9ec54dae20b527bc63b79b4f17]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 26"
-tracks = [
-    [1, "Farewell Song", "", 0],
-    [2, "MC Lia", "", 0],
-    [3, "Karma", "", 0],
-    [4, "MC Lia&多田 葵", "", 0],
-    [5, "Brave Song", "", 0],
-    [6, "Thousand Enemies", "", 0],
-    [7, "MC LiSA1", "", 0],
-    [8, "Alchemy", "", 0],
-    [9, "MC LiSA2", "", 0],
-    [10, "Crow Song", "", 0],
-    [11, "MC marina", "", 0],
-    [12, "My Song", "", 0],
-    [13, "MC Lia&Rita&折戸伸治", "", 0],
-    [14, "時を刻む唄", "", 0],
-    [15, "エンディングMC", "", 0],
-    [16, "My Soul,Your Beats!", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[a6b0825bd3821807f8b0d8860fa77894]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 27"
-tracks = [
-    [1, "アンコールMC1", "", 0],
-    [2, "鳥の詩", "", 0],
-    [3, "だんご大家族", "", 0],
-    [4, "アンコールMC2", "", 0],
-    [5, "one's future", "", 0],
-    [6, "猫と硝子と円い月", "", 0],
-    [7, "Mission: Love sniper", "", 0],
-    [8, "メグメル", "", 0],
-    [9, "オーバー", "", 0],
-    [10, "Birthday song requiem", "", 0],
-    [11, "Hanabi", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[ed8d729141565bc098d8d115a45e668e]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 28"
-tracks = [
-    [1, "One's future -Let's Go Kud! ver-", "", 0],
-    [2, "One's future (RockBand Mix)", "", 0],
-    [3, "Fragment Kud.ver", "", 0],
-    [4, "Orpheus ~君と奏でる明日へのうた~", "", 0],
-    [5, "Orpheus ~君と奏でる明日へのうた~ Ayaka Ver.", "", 0],
-    [6, "Little Busters!", "", 0],
-    [7, "Philosophyz", "", 0],
-    [8, "きみのairplane", "", 0],
-    [9, "幸せになる番", "", 0],
-    [10, "CANOE - Nocturnal Waltz Remix Version -", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[333627447c127c17db398d7f6e6498c4]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 29"
-tracks = [
-    [1, "Last regrets (EastNewSound Remix)", "", 0],
-    [2, "青空 (katsu+すみじゅん Remix)", "", 0],
-    [3, "メグメル (Tracy Remix)", "", 0],
-    [4, "だんご大家族 (Blue Twinkle Energetic Remix)", "", 0],
-    [5, "Light colors (M-K-S mix)", "", 0],
-    [6, "時を刻む唄 (100-200+tanigon remix)", "", 0],
-    [7, "星屑 (Kouki Izumi Remix)", "", 0],
-    [8, "Little Busters! (Nhato Remix)", "", 0],
-    [9, "Alicemagic (Tsukasa Remix)", "", 0],
-    [10, "Philosophyz (MUZIK SERVANT Remix)", "", 0],
-    [11, "Rewrite (DJ Shimamura's Drumscape Remix)", "", 0],
-    [12, "鳥の詩 (PandaBoY Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[54dd054c4b5cd00f3b75e7cc8b8588af]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 30"
-tracks = [
-    [1, "恋文", "", 0],
-    [2, "鶏肉の唄", "", 0],
-    [3, "オーバー", "", 0],
-    [4, "鈴の密かな恋の唄", "", 0],
-    [5, "雨のち晴れ", "", 0],
-    [6, "Farewell song", "", 0],
-    [7, "raison", "", 0],
-    [8, "CANOE", "", 0],
-    [9, "灰色の羽根", "", 0],
-    [10, "Brave Song", "", 0],
-    [11, "一番の宝物", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[2c01292f25da7f962f8054bffa873b21]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 31"
-tracks = [
-    [1, "Last regrets ~Classic~", "", 0],
-    [2, "青空 ~Classic~", "", 0],
-    [3, "メグメル ~Classic~", "", 0],
-    [4, "時を刻む唄 ~Classic~", "", 0],
-    [5, "Little Busters! ~Classic~", "", 0],
-    [6, "一番の宝物 ~yui.ver Classic~", "", 0],
-    [7, "Philosophyz ~Classic~", "", 0],
-    [8, "Harvest ~Classic~", "", 0],
-    [9, "Little Busters!", "", 0],
-    [10, "届けたいメロディ", "", 0],
-    [11, "星の舟", "", 0],
-    [12, "Farewell Song", "", 0],
-    [13, "涙色の翼", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[261ff69d13286406703191c4785e70f0]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 32"
-tracks = [
-    [1, "Boys be Smile ~Remix~", "", 0],
-    [2, "Farewell song", "", 0],
-    [3, "Last regrets", "", 0],
-    [4, "Saya's song", "", 0],
-    [5, "Little Busters!", "", 0],
-    [6, "青空", "", 0],
-    [7, "隠しトラック (Last regrets 仮歌ver)", "", 0],
-    [8, "録りの詩", "", 0],
-    [9, "風邪の辿り着く場所", "", 0],
-    [10, "Philosophyz (溝口ゆうま remix)", "", 0],
-    [11, "サンブライト (ALR REMIX)", "", 0],
-    [12, "Twinkle starlight HardCore Remix", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[b567860f11b6d1d3ca55df80876c38f8]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 33"
-tracks = [
-    [1, "My Soul,Your Beats! (DJ SHARPNEL Remix)", "", 0],
-    [2, "Crow Song (DJ Shimamura Remix)", "", 0],
-    [3, "Alchemy (MUZIK SERVANT vs you Remix)", "", 0],
-    [4, "My Song (ITM Remix)", "", 0],
-    [5, "Answer Song (Tracy Remix)", "", 0],
-    [6, "23:50 (MK Remix)", "", 0],
-    [7, "Thousand Enemies (Heavenly Guitar Remix)", "", 0],
-    [8, "Shine Days (KAN TAKAHIKO Remix)", "", 0],
-    [9, "一番の宝物 (D.watt Remix)", "", 0],
-    [10, "Brave Song (colate Remix)", "", 0],
-    [11, "Little Braver (Freezer Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[46aed582403bbeb76368bf5e20c196db]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 34"
-tracks = [
-    [1, "灼け落ちない翼 (Polyphonix Remix)", "", 0],
-    [2, "Word of Dawn (Freezer Remix)", "", 0],
-    [3, "君とのなくしもの (LU-I Remix)", "", 0],
-    [4, "風の辿り着く場所 (Hedonist Remix)", "", 0],
-    [5, "TORCH (ALR Remix)", "", 0],
-    [6, "Farewell song (溝口ゆうま Remix)", "", 0],
-    [7, "Star rain (Tracy Remix)", "", 0],
-    [8, "Gentle Jena (Nizikawa Remix)", "", 0],
-    [9, "ささやかなはじまり (ITM Remix)", "", 0],
-    [10, "すべての終わりの始まり (Halozy SMJ Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[2fe51430af6902e65adcd59da66c10fe]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 41"
-tracks = [
-    [1, "ラズライト・ドリーマー", "", 0],
-    [2, "Last regrets -Remix-", "", 0],
-    [3, "鳥の詩 -Remix-", "", 0],
-    [4, "時を刻む唄 -Remix-", "", 0],
-    [5, "Light colors -Remix-", "", 0],
-    [6, "BGM Remixies", "", 0],
-    [7, "雨のち晴れ -Remix-", "", 0],
-    [8, "One's future -Remix-", "", 0],
-    [9, "Philosophyz -Remix-", "", 0],
-    [10, "恋文 -Remix-", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[2fc06994b1506a4627328ef2721f7ac5]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 35"
-tracks = [
-    [1, "Trigger (MUZIK SERVANT vs Freezer Remix)", "", 0],
-    [2, "発熱デイズ (Freezer Remix)", "", 0],
-    [3, "Boys be Smile (nora2r Remix)", "", 0],
-    [4, "届けたいメロディ (Getty Remix)", "", 0],
-    [5, "One's future (you Remix)", "", 0],
-    [6, "Worlds Pain (bassmicrobe Remix)", "", 0],
-    [7, "Heartily Song (LU-I Remix)", "", 0],
-    [8, "時を刻む唄 (Shouya Namai vs LU-I Remix)", "", 0],
-    [9, "Bravely You (BlackY Remix)", "", 0],
-    [10, "Light colors (DJ Shimamura Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[72e80ce9c854efc1fc5e9de10d150a88]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 36"
-tracks = [
-    [1, "Philosophyz (Nizikawa Remix)", "", 0],
-    [2, "闇の彼方へ (Shadowy DNB Remix)", "", 0],
-    [3, "Rewrite (The LASTTRAK Remix)", "", 0],
-    [4, "Harvest (taqumi Remix)", "", 0],
-    [5, "End of the World (LU-I Remix)", "", 0],
-    [6, "Word of Dawn (Halozy SMJ Remix)", "", 0],
-    [7, "おきらく☆きゅうさい (you Remix)", "", 0],
-    [8, "Instincts (Yuma vs. Tracy Remix)", "", 0],
-    [9, "IgnisMemory (MUZIK SERVNT vs Freezer Remix)", "", 0],
-    [10, "Last Desire (DJ Shimamura Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[d99986ce7e93015424dd6346709baa96]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 37"
-tracks = [
-    [1, "AGAIN", "", 0],
-    [2, "Summer Wind", "", 0],
-    [3, "夏へ続く小径", "", 0],
-    [4, "春の午後、僕は長い旅をした", "", 0],
-    [5, "Shadow of Silence", "", 0],
-    [6, "Wrist", "", 0],
-    [7, "Run", "", 0],
-    [8, "HIGHWAY PASSING", "", 0],
-    [9, "LOVE IS ETERNAL", "", 0],
-    [10, "鳥の詩 ~Bossanova Version~", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[2d8f8e1f564e82da117e393a3c1c3004]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 38"
-tracks = [
-    [1, "始まりの坂", "", 0],
-    [2, "蒼の夢", "", 0],
-    [3, "星なる石", "", 0],
-    [4, "走る", "", 0],
-    [5, "百年の夏", "", 0],
-    [6, "僕らの恋", "", 0],
-    [7, "灰色の羽根", "", 0],
-    [8, "グラモフォン", "", 0],
-    [9, "神話", "", 0],
-    [10, "氷時計", "", 0],
-    [11, "折れない翼", "", 0],
-    [12, "そして物語が終わる", "", 0],
-    [13, "Love Song", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[7f18548c2ec312f89d22e546b2afc222]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 39"
-tracks = [
-    [1, "終わりの世界から", "", 0],
-    [2, "ふたりだけのArk", "", 0],
-    [3, "Killer Song", "", 0],
-    [4, "Flower Garden", "", 0],
-    [5, "無敵のSoldier", "", 0],
-    [6, "凍る夢", "", 0],
-    [7, "Executionerの恋", "", 0],
-    [8, "とある海賊王の気まぐれ", "", 0],
-    [9, "雪の降らない星", "", 0],
-    [10, "火吹き山の魔法使い", "", 0],
-    [11, "Last Smile", "", 0],
-    [12, "Heroの条件", "", 0],
-    [13, "この惑星のBirthday Song", "", 0],
-    [14, "(no title available)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[c9f9aac7fdd65b3b2aa7a2ce9bedfd08]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 40"
-tracks = [
-    [1, "Starting Over ~Reproduction STAYCOOL 2007 Edition~", "", 0],
-    [2, "風の辿り着く場所", "", 0],
-    [3, "World Link", "", 0],
-    [4, "Teller of World", "", 0],
-    [5, "ラストワード", "", 0],
-    [6, "サンブライト", "", 0],
-    [7, "fortune card", "", 0],
-    [8, "Perseids", "", 0],
-    [9, "僕らの旅", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[8600fdefbc99747def876a816fd071cf]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 42"
-tracks = [
-    [1, "水の旅人", "", 0],
-    [2, "風ひととせ", "", 0],
-    [3, "星屑Evolution!", "", 0],
-    [4, "夕暮れ小径", "", 0],
-    [5, "search for the future", "", 0],
-    [6, "空恋人魚", "", 0],
-    [7, "明日への黙示録", "", 0],
-    [8, "デュアル・ムーン", "", 0],
-    [9, "Connected Relation", "", 0],
-    [10, "君への勇気", "", 0],
-    [11, "Star rain", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
 [6c5517d2558faa7aec68d23f9cafaf89]
 catalognumber = "KSLA-1001~50"
 date = "2019-09-18"
 album = "Key BOX -for two decades- Vocal Disc 43"
 tracks = [
-    [1, "Princess is the Princess", "", 0],
-    [2, "Fledglings girls!!", "", 0],
-    [3, "Philosophyz", "", 0],
-    [4, "サンブライト", "", 0],
-    [5, "恋桜開花前線", "", 0],
-    [6, "恋のルチハヤ☆ローリング", "", 0],
-    [7, "Princess is the Princess ルチアソロ ver.", "", 0],
-    [8, "Princess is the Princess ちはやソロ ver.", "", 0],
-    [9, "Fledglings girls!! ルチアソロ ver.", "", 0],
-    [10, "Fledglings girls!! ちはやソロ ver.", "", 0],
-    [11, "Philosophyz ルチアソロ ver.", "", 0],
-    [12, "Philosophyz ちはやソロ ver.", "", 0],
-    [13, "恋のルチハヤ☆ローリング ルチアソロ ver.", "", 0],
-    [14, "恋のルチハヤ☆ローリング ちはやソロ ver.", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[d05795cf22794b81da982f02747e02ed]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 44"
-tracks = [
-    [1, "僕らだけの星", "", 0],
-    [2, "Bus Stop", "", 0],
-    [3, "小説家とパイロットの物語", "", 0],
-    [4, "Rain Dance", "", 0],
-    [5, "約束の唄", "", 0],
-    [6, "きみだけがいてくれた街", "", 0],
-    [7, "tale of the tree", "", 0],
-    [8, "光の行方", "", 0],
-    [9, "銀色世界", "", 0],
-    [10, "End of the World", "", 0],
-    [11, "汐のための子守歌", "", 0],
-    [12, "Supernova", "", 0],
-    [13, "Love Songの作り方", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[5a4123864da23cc0cdb58cb82e06f941]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 45"
-tracks = [
-    [1, "Birthday Song=Requiem", "", 0],
-    [2, "Honey Syrup", "", 0],
-    [3, "Code Blue", "", 0],
-    [4, "神殺しの唄", "", 0],
-    [5, "goodbye", "", 0],
-    [6, "終わったContents", "", 0],
-    [7, "Real", "", 0],
-    [8, "灰色の羽根", "", 0],
-    [9, "Question Time", "", 0],
-    [10, "Hanabi", "", 0],
-    [11, "ひきこもりの唄", "", 0],
-    [12, "きみの記憶", "", 0],
-    [13, "Autumn Song", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[17c9019ec75d8a44c113e82b6a4fefa0]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 46"
-tracks = [
-    [1, "FirstTwinkle", "", 0],
-    [2, "Emotional Blue", "", 0],
-    [3, "そこに、きみがいるだけで。", "", 0],
-    [4, "Greeting Smile －すとりーと☆ふぇすた－", "", 0],
-    [5, "雪に足跡", "", 0],
-    [6, "ハッピーエンドをさがしてる", "", 0],
-    [7, "Alicemagic ~TV animation ver~ covered by 北沢綾香", "", 0],
-    [8, "Gargantua", "", 0],
-    [9, "Song for friends Rock Ver", "", 0],
-    [10, "Brave", "", 0],
-    [11, "Vertige", "", 0],
-    [12, "バッテリー", "", 0],
-    [13, "Search for the future covered by Rita", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[b7a457c64f3ed2aec1f2085cfa572fe6]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 47"
-tracks = [
-    [1, "Last regrets -Girls in Tears mix-", "", 0],
-    [2, "Last regrets -X'mas floor style-", "", 0],
-    [3, "Last regrets -fiberjelly mix-", "", 0],
-    [4, "Last regrets -orbit-", "", 0],
-    [5, "One's Future -SQUARE Remix-", "", 0],
-    [6, "raison -Crystal Cube Mix-", "", 0],
-    [7, "オーバー -Keep Paddling mix-", "", 0],
-    [8, "時を刻む唄 -KSL Live World Mix-", "", 0],
-    [9, "Alicemagic -hemuri mix-", "", 0],
-    [10, "だんご大家族 -ARCANA structure-", "", 0],
-    [11, "鈴の密かな恋の歌 KSL Live World 2013 ver", "", 0],
-    [12, "沙耶の眠れるレクイエム KSL Live World 2013 ver", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[cc7ae187d368739fe2d72981fa0a43a0]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 48"
-tracks = [
-    [1, "猫と硝子と円い月 KSL Live World 2013 ver", "", 0],
-    [2, "ピクルスをおいしくするつくりかた KSL Live World 2013 ver", "", 0],
-    [3, "Mission:Love sniper KSL Live World 2013 ver", "", 0],
-    [4, "Trigger -Pull The Trigger Remix-", "", 0],
-    [5, "発熱デイズ -EDMRock style-", "", 0],
-    [6, "Harvest -Strings-Rock Remix-", "", 0],
-    [7, "CANOE -Cello Chamber Version-", "", 0],
-    [8, "楽園まで -Eros Trance Remix-", "", 0],
-    [9, "Rewrite -Eros Latin Remix-", "", 0],
-    [10, "Bravely You -ELECTROCK! Mix-", "", 0],
-    [11, "灼け落ちない翼 -Happy Rock Ver.-", "", 0],
-    [12, "Sleeping Forest -SI.V Ver.-", "", 0],
-    [13, "ささやかなはじまり -Orchestra Ver.-", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[ad97ae7037595f90c54bb14bf45da1b0]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 49"
-tracks = [
-    [1, "Ray of Light (Heavy Metal Remix)", "", 0],
-    [2, "メグメル (LU-I Remix)", "", 0],
-    [3, "Light colors (Tsukasa feat. DiGiTAL WiNG Remix)", "", 0],
-    [4, "Twinkle Starlight (溝口ゆうま Remix)", "", 0],
-    [5, "鳥の詩 (Tori No Uta 2018 db)", "", 0],
-    [6, "僕らの旅 (Freezer Remix)", "", 0],
-    [7, "サンブライト (Brightest Sunflowers Remix)", "", 0],
-    [8, "闇の彼方へ (Night Funk Remix)", "", 0],
-]
-links = ["https://vgmdb.net/album/87406"]
-
-[d9f420ff51a7e4708e03e9aba9401ef1]
-catalognumber = "KSLA-1001~50"
-date = "2019-09-18"
-album = "Key BOX -for two decades- Vocal Disc 50"
-tracks = [
-    [1, "Saya's Song Remix", "", 0],
-    [2, "星屑 Cover", "", 0],
-    [3, "brave new world", "", 0],
-    [4, "My Soul, Your Beats! (YSD69 Remix)", "", 0],
-    [5, "TORCH Rock Arrange", "", 0],
-    [6, "春の午後,僕は長い旅をした 2011", "", 0],
-    [7, "Philosophyz zts Remix", "", 0],
-    [8, "発熱デイズ", "", 0],
+    [1, "Princess is the Princess", "", 1],
+    [2, "Fledglings girls!!", "", 1],
+    [3, "Philosophyz", "", 1],
+    [4, "サンブライト", "", 1],
+    [5, "恋桜開花前線", "", 1],
+    [6, "恋のルチハヤ☆ローリング", "", 1],
+    [7, "Princess is the Princess ルチアソロ ver.", "", 1],
+    [8, "Princess is the Princess ちはやソロ ver.", "", 1],
+    [9, "Fledglings girls!! ルチアソロ ver.", "", 1],
+    [10, "Fledglings girls!! ちはやソロ ver.", "", 1],
+    [11, "Philosophyz ルチアソロ ver.", "", 1],
+    [12, "Philosophyz ちはやソロ ver.", "", 1],
+    [13, "恋のルチハヤ☆ローリング ルチアソロ ver.", "", 1],
+    [14, "恋のルチハヤ☆ローリング ちはやソロ ver.", "", 1],
 ]
 links = ["https://vgmdb.net/album/87406"]
 
@@ -2885,7 +1943,7 @@ tracks = [
     [4, "残光 (Nori Uplifting Trance Remix)", "", 0],
     [5, "たったひとつの魔法の言葉 (Nori Uplifting Trance 2019 Remix)", "", 0],
     [6, "朝影 (Nori Uplifting Trance 2019 Remix)", "", 0],
-    [7, "愛を灌ぐ (Nori 2019 Remix)", "", 0],
+    [7, "愛を灌ぐ (Nori 2019 Remix)", "", 1],
     [8, "夜露 (Nori 2019 Remix)", "", 0],
 ]
 links = ["https://vgmdb.net/album/150897"]
@@ -2917,10 +1975,10 @@ tracks = [
     [2, "小さなてのひら (しょうゆ 20th Anniversary Remix)", "riya", 0],
     [3, "Life is like a Melody (Nasuno 20th Anniversary Remix)", "Lia", 0],
     [4, "夜奏花 (Polyphonix Remix)", "YURiKA", 0],
-    [5, "恋文 (LU-I Remix)", "やなぎなぎ", 0],
+    [5, "恋文 (LU-I Remix)", "やなぎなぎ", 1],
     [6, "Light colors (Richiter FUNKOT Remix)", "Lia", 0],
     [7, "アルカテイル (Hamu 20th Anniversary Remix)", "鈴木このみ", 0],
-    [8, "Philosophyz (Metalcore Remix)", "水谷瑠奈 (NanosizeMir)", 0],
+    [8, "Philosophyz (Metalcore Remix)", "水谷瑠奈 (NanosizeMir)", 1],
     [9, "Alicemagic (Junichi Takizawa 20th Anniversary Metal Remix)", "Rita", 0],
     [10, "一番の宝物 (20th Anniversary Arrange)", "karuta", 0],
 ]
@@ -2937,8 +1995,8 @@ tracks = [
     [4, "Twinkle Starlight (溝口ゆうま Remix)", "佐咲紗花", 0],
     [5, "鳥の詩 (Tori No Uta 2018 db)", "Lia", 0],
     [6, "僕らの旅 (Freezer Remix)", "北沢綾香", 0],
-    [7, "サンブライト (Brightest Sunflowers Remix)", "北沢綾香", 0],
-    [8, "闇の彼方へ (Night Funk Remix)", "水谷瑠奈(NanosizeMir)", 0],
+    [7, "サンブライト (Brightest Sunflowers Remix)", "北沢綾香", 1],
+    [8, "闇の彼方へ (Night Funk Remix)", "水谷瑠奈(NanosizeMir)", 1],
     [9, "目覚めた朝にはきみが隣に (Nasuno Remix)", "鈴湯", 0],
     [10, "楽園まで (Nasuno & Hamu Remix)", "How-Low-Hello", 0],
 ]
@@ -2969,7 +2027,7 @@ album = "Modification of Key Sounds Label VOL.2 Disc 3 [KSLA-0167]"
 tracks = [
     [1, "Little Busters! (MUZIK SERVANT & LU-I remix)", "Rita", 0],
     [2, "サマーテイル (KO3 Remix)", "YURiKA", 0],
-    [3, "Philosophyz (M-Project HDM Remix)", "水谷瑠奈(NanosizeMir)", 0],
+    [3, "Philosophyz (M-Project HDM Remix)", "水谷瑠奈(NanosizeMir)", 1],
     [4, "Rewrite (Nizikawa Remix)", "サイキックラバー", 0],
     [5, "星の舟 (you Remix)", "Lia", 0],
     [6, "search for the future (Freezer Remix)", "北沢綾香", 0],
@@ -2985,7 +2043,7 @@ catalognumber = "KSLA-0171"
 date = "2020-08-01"
 album = "Pop Sensation"
 tracks = [
-    [1, "Last Desire (溝口ゆうま Remix)", "", 0],
+    [1, "Last Desire (溝口ゆうま Remix)", "", 1],
     [2, "バッテリー (Harada Remix)", "", 0],
     [3, "風の辿り着く場所 (you ＆ Freezer Remix)", "", 0],
     [4, "届けたいメロディ (HOUSE Remix)", "", 0],
@@ -3001,15 +2059,15 @@ catalognumber = "KSLA-0188"
 date = "2021-12-18"
 album = "Rewrite 10th memorial Arrange Album: Forestia"
 tracks = [
-    [1, "Philosophyz -■(memorial)-", "水谷瑠奈", 0],
-    [2, "Word of Dawn", "多田葵", 0],
-    [3, "深層森林", "井内舞子", 0],
-    [4, "ささやかなはじまり", "水谷瑠奈", 0],
-    [5, "ヒナギク", "井内舞子", 0],
-    [6, "旅", "麻枝准", 0],
-    [7, "Harvest", "多田葵", 0],
-    [8, "散花", "水月陵", 0],
-    [9, "White stars", "水谷瑠奈", 0],
+    [1, "Philosophyz -■(memorial)-", "水谷瑠奈", 1],
+    [2, "Word of Dawn", "多田葵", 1],
+    [3, "深層森林", "井内舞子", 1],
+    [4, "ささやかなはじまり", "水谷瑠奈", 1],
+    [5, "ヒナギク", "井内舞子", 1],
+    [6, "旅", "麻枝准", 1],
+    [7, "Harvest", "多田葵", 1],
+    [8, "散花", "水月陵", 1],
+    [9, "White stars", "水谷瑠奈", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/eeb7e0bc-d263-4c72-b297-7ff69ff51b80", "https://vgmdb.net/album/116981"]
 
@@ -3018,7 +2076,7 @@ catalognumber = ""
 date = "2022-06-22"
 album = "Rewrite Original Soundtrack Disc 1"
 tracks = [
-    [1, "Philosophyz", "水谷瑠奈", 0],
+    [1, "Philosophyz", "水谷瑠奈", 1],
     [2, "Journey (旅)", "麻枝准", 0],
     [3, "Sprout (芽吹き)", "水月陵", 0],
     [4, "Fertilizer", "折戸伸治", 0],
@@ -3033,12 +2091,12 @@ tracks = [
     [13, "Daisy (ヒナギク)", "井内舞子", 0],
     [14, "Honesty", "折戸伸治", 0],
     [15, "Deep Forest (深層森林)", "井内舞子", 0],
-    [16, "Exploration", "折戸伸治", 0],
+    [16, "Exploration", "折戸伸治", 1],
     [17, "Frozen Soil (凍土)", "細井聡司", 0],
     [18, "Cercospora (褐斑病)", "井内舞子", 0],
     [19, "Bridal Headdress (綿帽子)", "細井聡司", 0],
     [20, "DIS is a pain", "折戸伸治", 0],
-    [21, "Eruptible", "折戸伸治", 0],
+    [21, "Eruptible", "折戸伸治", 1],
     [22, "Beyond the Darkness (闇の彼方へ)", "水谷瑠奈", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/3b3806e5-d92e-4d83-af8f-2cf92b8e5f0e"]
@@ -3050,8 +2108,8 @@ album = "Rewrite Original Soundtrack Disc 2"
 tracks = [
     [1, "Rewrite", "サイキックラバー", 0],
     [2, "Retribution", "折戸伸治", 0],
-    [3, "Potted one", "井内舞子", 0],
-    [4, "YO-SHI-NO", "[unknown]", 0],
+    [3, "Potted one", "井内舞子", 1],
+    [4, "YO-SHI-NO", "[unknown]", 1],
     [5, "Sorrowless", "折戸伸治", 0],
     [6, "Swinging Leaves (揺葉)", "折戸伸治", 0],
     [7, "Scattered Flowers (散花)", "水月陵", 0],
@@ -3059,8 +2117,8 @@ tracks = [
     [9, "Shear (刈り)", "井内舞子", 0],
     [10, "Scene of carnage", "井内舞子", 0],
     [11, "Scene of carnage aggressiveness", "井内舞子", 0],
-    [12, "Phobic", "細井聡司", 0],
-    [13, "Phobia", "細井聡司", 0],
+    [12, "Phobic", "細井聡司", 1],
+    [13, "Phobia", "細井聡司", 1],
     [14, "Scene shifts there", "水月陵", 0],
     [15, "Scab Disease (黒星病)", "細井聡司", 0],
     [16, "Wither (枯死)", "細井聡司", 0],
@@ -3068,9 +2126,9 @@ tracks = [
     [18, "Reply", "折戸伸治", 0],
     [19, "Toxoplasma", "細井聡司", 0],
     [20, "Ripen (実り)", "水月陵", 0],
-    [21, "Philosophy of ours", "折戸伸治", 0],
-    [22, "Philosophy of yours", "折戸伸治", 0],
-    [23, "Exploration2 symphonic", "折戸伸治", 0],
+    [21, "Philosophy of ours", "折戸伸治", 1],
+    [22, "Philosophy of yours", "折戸伸治", 1],
+    [23, "Exploration2 symphonic", "折戸伸治", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b3806e5-d92e-4d83-af8f-2cf92b8e5f0e"]
 
@@ -3079,7 +2137,7 @@ catalognumber = ""
 date = "2022-06-22"
 album = "Rewrite Original Soundtrack Disc 3"
 tracks = [
-    [1, "Philosophyz GT Ver.", "折戸伸治", 0],
+    [1, "Philosophyz GT Ver.", "折戸伸治", 1],
     [2, "Rewrite instrumental", "YOFFY", 0],
     [3, "Remembrance", "折戸伸治", 0],
     [4, "Earth (大地)", "細井聡司", 0],
@@ -3088,78 +2146,17 @@ tracks = [
     [7, "Love Letter (恋文)", "やなぎなぎ", 0],
     [8, "To You Who Never Lies (偽らない君へ)", "やなぎなぎ", 0],
     [9, "Song of Passage (渡りの詩)", "多田葵", 0],
-    [10, "CANOE", "多田葵", 0],
+    [10, "CANOE", "多田葵", 1],
     [11, "Daisy orgel Ver. (ヒナギク orgel Ver.)", "井内舞子", 0],
-    [12, "Philosophyz Game size Ver.", "水谷瑠奈", 0],
+    [12, "Philosophyz Game size Ver.", "水谷瑠奈", 1],
     [13, "Rewrite Game size Ver.", "サイキックラバー", 0],
     [14, "Beyond the Darkness Game size Ver. (闇の彼方へ Game size Ver.)", "水谷瑠奈", 0],
     [15, "Love Letter Game size Ver. (恋文 Game size Ver.)", "やなぎなぎ", 0],
     [16, "To You Who Never Lies Game size Ver. (偽らない君へ Game size Ver.)", "やなぎなぎ", 0],
-    [17, "Bonus Track ~Song of Destruction~ (Bonus Track ～滅びの歌～)", "折戸伸治", 0],
-    [18, "Bonus Track ~Lucia's Ringtone~ (Bonus Track ～ルチア着信音～)", "折戸伸治", 0],
+    [17, "Bonus Track ~Song of Destruction~ (Bonus Track ～滅びの歌～)", "折戸伸治", 1],
+    [18, "Bonus Track ~Lucia's Ringtone~ (Bonus Track ～ルチア着信音～)", "折戸伸治", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b3806e5-d92e-4d83-af8f-2cf92b8e5f0e"]
-
-[7d5580262483b2c01a7ce1c292b9f901]
-catalognumber = "KSLC-0040~3"
-date = "2022-09-30"
-album = "Key Memorial Arrange Collection Vol.2 & ラジオRewrite 月刊テラ・風祭学院支局 Arrangement Disc 1"
-tracks = [
-    [1, "tonica", "", 0],
-    [2, "Little Busters! [semicrystalline.remix]", "", 0],
-    [3, "bugs(so tiny)", "", 0],
-    [4, "tomorrow(so artificial)", "", 0],
-    [5, "brother(so quiet)", "", 0],
-    [6, "umbrella(so old)", "", 0],
-    [7, "dive(so fast)", "", 0],
-    [8, "sister(so lonely)", "", 0],
-    [9, "遥か彼方 [semicrystalline.remix]", "", 0],
-    [10, "replicato", "", 0],
-]
-links = ["https://vgmdb.net/album/121639"]
-
-[eebdce6e5192ff6bf7c915c57b84dfa2]
-catalognumber = "KSLC-0040~3"
-date = "2022-09-30"
-album = "Key Memorial Arrange Collection Vol.2 & ラジオRewrite 月刊テラ・風祭学院支局 Arrangement Disc 2"
-tracks = [
-    [1, "ヒナギク", "", 0],
-    [2, "散花", "", 0],
-    [3, "綿帽子", "", 0],
-    [4, "Phobia", "", 0],
-    [5, "アサガオ", "", 0],
-    [6, "Exploration", "", 0],
-    [7, "幻境 ～ ニリンソウ", "", 0],
-    [8, "Retribution", "", 0],
-    [9, "Reply", "", 0],
-    [10, "アンスリウム", "", 0],
-]
-links = ["https://vgmdb.net/album/121639"]
-
-[a5f38c969a61c16f2af445e235049743]
-catalognumber = "KSLC-0040~3"
-date = "2022-09-30"
-album = "Key Memorial Arrange Collection Vol.2 & ラジオRewrite 月刊テラ・風祭学院支局 Arrangement Disc 3"
-tracks = [
-    [1, "My Soul, Your Beats! -Piano Arrange Ver.-", "", 0],
-    [2, "girl's hop -Piano Arrange Ver.-", "", 0],
-    [3, "evening breeze -Piano Arrange Ver.-", "", 0],
-    [4, "theme of SSS -Piano Arrange Ver.-", "", 0],
-    [5, "memory -Piano Arrange Ver.-", "", 0],
-    [6, "\"burial\" as Barcarolle (burialより)", "", 0],
-    [7, "いちばんのたからもの (一番の宝物より)", "", 0],
-    [8, "Brave Song -Piano Arrange Ver.-", "", 0],
-]
-links = ["https://vgmdb.net/album/121639"]
-
-[b82c7d7ee3242fb19e8874f6b4f2521f]
-catalognumber = "KSLC-0040~3"
-date = "2022-09-30"
-album = "Key Memorial Arrange Collection Vol.2 & ラジオRewrite 月刊テラ・風祭学院支局 Talk"
-tracks = [
-    [1, "ラジオRewrite 月刊テラ・かぎなど出張版", "", 0],
-]
-links = ["https://vgmdb.net/album/121639"]
 
 [335e9331261fb1ff6699874b8f7fda39]
 catalognumber = "N/A"
@@ -3180,10 +2177,10 @@ catalognumber = "KSLA-0224"
 date = "2025-03-01"
 album = "鍵音祭 Analog Collector’s Edition Digital Version"
 tracks = [
-    [1, "サンブライト 鍵音祭ver.", "森藤晶司", 0],
+    [1, "サンブライト 鍵音祭ver.", "森藤晶司", 1],
     [2, "AIR BGM Medley 鍵音祭ver.", "しょうゆ", 0],
     [3, "朝影(コンピレーションミニアルバム『Ma-Na』より) 鍵音祭ver.", "井内舞子 / 森藤晶司", 0],
-    [4, "サンブライト", "折戸伸治", 0],
+    [4, "サンブライト", "折戸伸治", 1],
     [5, "野道", "折戸伸治", 0],
     [6, "虹", "戸越まごめ", 0],
     [7, "てんとう虫", "戸越まごめ", 0],
@@ -3196,10 +2193,10 @@ catalognumber = "KSLA-0223"
 date = "2025-03-01"
 album = "『鍵音祭』 Analog Collector’s Edition"
 tracks = [
-    [1, "サンブライト 鍵音祭ver.", "森藤晶司", 0],
+    [1, "サンブライト 鍵音祭ver.", "森藤晶司", 1],
     [2, "AIR BGM Medley 鍵音祭ver.", "しょうゆ", 0],
     [3, "朝影(コンピレーションミニアルバム『Ma-Na』より) 鍵音祭ver.", "井内舞子 / 森藤晶司", 0],
-    [4, "サンブライト", "折戸伸治", 0],
+    [4, "サンブライト", "折戸伸治", 1],
     [5, "野道", "折戸伸治", 0],
     [6, "虹", "戸越まごめ", 0],
     [7, "てんとう虫", "戸越まごめ", 0],
@@ -3217,7 +2214,7 @@ tracks = [
     [3, "雨のち晴れ (Amayadori Noon)", "Rita", 0],
     [4, "夜想 (Night Thunder)", "大橋柊平", 0],
     [5, "風の辿り着く場所 (Tropical Blue)", "彩菜", 0],
-    [6, "恋文 (End of Fireworks)", "やなぎなぎ", 0],
+    [6, "恋文 (End of Fireworks)", "やなぎなぎ", 1],
     [7, "Twinkle Starlight (Fallen Leaves)", "佐咲紗花", 0],
     [8, "眩しさの中 (Autumn Concert)", "髙梨泰輔・北田奈津子", 0],
     [9, "TORCH (Christmas Party)", "Lia", 0],
@@ -3230,27 +2227,27 @@ catalognumber = "N/A"
 date = "2026-07-10"
 album = "Rewrite 16bit Arrangements"
 tracks = [
-    [1, "Philosophyz", "", 0],
+    [1, "Philosophyz", "", 1],
     [2, "Fertilizer", "", 0],
-    [3, "ニリンソウ", "", 0],
+    [3, "ニリンソウ", "", 1],
     [4, "カーネーション", "", 0],
-    [5, "サンブライト", "", 0],
-    [6, "ヒナギク", "", 0],
+    [5, "サンブライト", "", 1],
+    [6, "ヒナギク", "", 1],
     [7, "Honesty", "", 0],
-    [8, "深層森林", "", 0],
-    [9, "闇の彼方へ", "", 0],
+    [8, "深層森林", "", 1],
+    [9, "闇の彼方へ", "", 1],
     [10, "Rewrite", "", 0],
-    [11, "Potted one", "", 0],
-    [12, "YO-SHI-NO", "", 0],
+    [11, "Potted one", "", 1],
+    [12, "YO-SHI-NO", "", 1],
     [13, "Sorrowless", "", 0],
-    [14, "散花", "", 0],
+    [14, "散花", "", 1],
     [15, "刈り", "", 0],
     [16, "Scene of carnage aggressiveness", "", 0],
-    [17, "Phobia", "", 0],
+    [17, "Phobia", "", 1],
     [18, "Scene shifts there", "", 0],
     [19, "Reply", "", 0],
     [20, "Remembrance", "", 0],
     [21, "Radiance", "", 0],
-    [22, "CANOE", "", 0],
+    [22, "CANOE", "", 1],
 ]
 links = ["https://vgmdb.net/album/161670"]
