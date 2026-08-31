@@ -146,12 +146,12 @@ catalognumber = "N/A"
 date = "2018-09-15"
 album = "アズールレーン キャラクターソング#01"
 tracks = [
-    [1, "わ・た・し・は☆No.1!", "サンディエゴ（伊藤あすか）", 0],
-    [2, "クラダリングの誓い", "ベルファスト（堀江由衣）", 0],
-    [3, "My Night", "ユニコーン（加隈亜衣）", 0],
-    [4, "わ・た・し・は☆No.1!", "かみじょう ゆうや", 0],
-    [5, "クラダリングの誓い", "虫帽子エマ", 0],
-    [6, "My Night", "桜村岬", 0],
+    [1, "わ・た・し・は☆No.1!", "サンディエゴ（伊藤あすか）", 1],
+    [2, "クラダリングの誓い", "ベルファスト（堀江由衣）", 1],
+    [3, "My Night", "ユニコーン（加隈亜衣）", 1],
+    [4, "わ・た・し・は☆No.1!", "かみじょう ゆうや", 1],
+    [5, "クラダリングの誓い", "虫帽子エマ", 1],
+    [6, "My Night", "桜村岬", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c565d759-6cd7-4c08-b1f1-c4622ea62cbe", "https://vgmdb.net/album/80528"]
 
@@ -202,9 +202,9 @@ catalognumber = "N/A"
 date = "2019-08-09"
 album = "「アズールレーン」スペシャルサウンドトラック 特典CD"
 tracks = [
-    [1, "青き自由のために \"arrange ver\"", "Shade", 0],
-    [2, "華麗なるロイヤルメイド隊 \"arrange ver\"", "Shade", 0],
-    [3, "古の戦争 \"arrange ver\"", "Shade", 0],
+    [1, "青き自由のために \"arrange ver\"", "Shade", 1],
+    [2, "華麗なるロイヤルメイド隊 \"arrange ver\"", "Shade", 1],
+    [3, "古の戦争 \"arrange ver\"", "Shade", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/08dbaafa-15a6-46ac-8770-3d1ae784270e", "https://vgmdb.net/album/89127"]
 
@@ -213,25 +213,25 @@ catalognumber = "N/A"
 date = "2019-08-09"
 album = "「アズールレーン」スペシャルサウンドトラック"
 tracks = [
-    [1, "切り払う重桜の刃", "Shade", 0],
-    [2, "進め!海上騎士団", "Shade", 0],
-    [3, "青き自由のために", "Shade", 0],
-    [4, "忘却の英雄", "Shade", 0],
-    [5, "華麗なるロイヤルメイド隊", "Shade", 0],
-    [6, "神聖なる", "Shade", 0],
-    [7, "アイアンブラッド・リリィ", "Shade", 0],
-    [8, "鏡映されし心(エゴ)", "Shade", 0],
-    [9, "大型兵器撃破作戦", "Shade", 0],
-    [10, "始まりの災厄", "Shade", 0],
-    [11, "聖女の夢", "Shade", 0],
-    [12, "大海原を征く", "Shade", 0],
-    [13, "過去の観測者", "Shade", 0],
-    [14, "古の戦争", "Shade", 0],
-    [15, "この星のために", "Shade", 0],
-    [16, "紅葉は潮風に染めて", "Shade", 0],
-    [17, "不屈なる白き英雄", "Shade", 0],
-    [18, "御狐の神威", "Shade", 0],
-    [19, "浄化処置コマンドrm -rf", "Shade", 0],
+    [1, "切り払う重桜の刃", "Shade", 1],
+    [2, "進め!海上騎士団", "Shade", 1],
+    [3, "青き自由のために", "Shade", 1],
+    [4, "忘却の英雄", "Shade", 1],
+    [5, "華麗なるロイヤルメイド隊", "Shade", 1],
+    [6, "神聖なる", "Shade", 1],
+    [7, "アイアンブラッド・リリィ", "Shade", 1],
+    [8, "鏡映されし心(エゴ)", "Shade", 1],
+    [9, "大型兵器撃破作戦", "Shade", 1],
+    [10, "始まりの災厄", "Shade", 1],
+    [11, "聖女の夢", "Shade", 1],
+    [12, "大海原を征く", "Shade", 1],
+    [13, "過去の観測者", "Shade", 1],
+    [14, "古の戦争", "Shade", 1],
+    [15, "この星のために", "Shade", 1],
+    [16, "紅葉は潮風に染めて", "Shade", 1],
+    [17, "不屈なる白き英雄", "Shade", 1],
+    [18, "御狐の神威", "Shade", 1],
+    [19, "浄化処置コマンドrm -rf", "Shade", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/08dbaafa-15a6-46ac-8770-3d1ae784270e", "https://vgmdb.net/album/89126"]
 
@@ -308,10 +308,10 @@ catalognumber = "XNST-10003"
 date = "2019-09-25"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.01 エンタープライズ(CV.石川由依)"
 tracks = [
-    [1, "Pledge of liberation", "エンタープライズ(CV.石川由依)", 0],
-    [2, "悠久のカタルシス 〜エンタープライズ ver.〜", "エンタープライズ(CV.石川由依)", 0],
-    [3, "Pledge of liberation(Off Vocal)", "エンタープライズ(CV.石川由依)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "エンタープライズ(CV.石川由依)", 0],
+    [1, "Pledge of liberation", "エンタープライズ(CV.石川由依)", 1],
+    [2, "悠久のカタルシス 〜エンタープライズ ver.〜", "エンタープライズ(CV.石川由依)", 1],
+    [3, "Pledge of liberation(Off Vocal)", "エンタープライズ(CV.石川由依)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "エンタープライズ(CV.石川由依)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d504f41f-2ff4-444d-b88a-99457c1a16dc", "https://vgmdb.net/album/88746"]
 
@@ -320,10 +320,10 @@ catalognumber = "XNST-10004"
 date = "2019-10-09"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.02 ラフィー(CV.長縄まりあ)"
 tracks = [
-    [1, "スリーピング・ワンダーランド", "ラフィー(CV.長縄まりあ)", 0],
-    [2, "悠久のカタルシス ～ラフィー ver.～", "ラフィー(CV.長縄まりあ)", 0],
-    [3, "スリーピング・ワンダーランド(Off Vocal)", "ラフィー(CV.長縄まりあ)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "ラフィー(CV.長縄まりあ)", 0],
+    [1, "スリーピング・ワンダーランド", "ラフィー(CV.長縄まりあ)", 2],
+    [2, "悠久のカタルシス ～ラフィー ver.～", "ラフィー(CV.長縄まりあ)", 1],
+    [3, "スリーピング・ワンダーランド(Off Vocal)", "ラフィー(CV.長縄まりあ)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "ラフィー(CV.長縄まりあ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7eb98111-7c12-40ba-bd83-bc5a97c096f8", "https://vgmdb.net/album/88747"]
 
@@ -344,10 +344,10 @@ catalognumber = "XNST-10005"
 date = "2019-10-23"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.03 ジャベリン(CV.山根希美)"
 tracks = [
-    [1, "じゃすと・べりー・くいっくりー！", "ジャベリン(CV.山根希美)", 0],
-    [2, "悠久のカタルシス 〜ジャベリン ver.〜", "ジャベリン(CV.山根希美)", 0],
-    [3, "じゃすと・べりー・くいっくりー！(Off Vocal)", "ジャベリン(CV.山根希美)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "ジャベリン(CV.山根希美)", 0],
+    [1, "じゃすと・べりー・くいっくりー！", "ジャベリン(CV.山根希美)", 1],
+    [2, "悠久のカタルシス 〜ジャベリン ver.〜", "ジャベリン(CV.山根希美)", 1],
+    [3, "じゃすと・べりー・くいっくりー！(Off Vocal)", "ジャベリン(CV.山根希美)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "ジャベリン(CV.山根希美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0aa3db09-8650-4d9e-a873-5321dbbc8c2f", "https://vgmdb.net/album/88748"]
 
@@ -367,10 +367,10 @@ catalognumber = "XNST-10006"
 date = "2019-11-06"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.04 綾波(CV.大地葉)"
 tracks = [
-    [1, "ニアー・ユアー・サイド", "綾波(CV.大地葉)", 0],
-    [2, "悠久のカタルシス 〜綾波 ver.〜", "綾波(CV.大地葉)", 0],
-    [3, "ニアー・ユアー・サイド(Off Vocal)", "綾波(CV.大地葉)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "綾波(CV.大地葉)", 0],
+    [1, "ニアー・ユアー・サイド", "綾波(CV.大地葉)", 1],
+    [2, "悠久のカタルシス 〜綾波 ver.〜", "綾波(CV.大地葉)", 1],
+    [3, "ニアー・ユアー・サイド(Off Vocal)", "綾波(CV.大地葉)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "綾波(CV.大地葉)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e28f1cb7-4334-4220-b39a-17dec5d3dd6e", "https://vgmdb.net/album/88749"]
 
@@ -379,10 +379,10 @@ catalognumber = "XNST-10013/B"
 date = "2019-11-20"
 album = "graphite/diamond / May'n [アーティスト盤] Disc 1 (CD) [XNST-10013]"
 tracks = [
-    [1, "graphite/diamond", "May’n", 0],
-    [2, "涙の海を東へ", "May’n", 0],
-    [3, "graphite/diamond (Off Vocal)", "May’n", 0],
-    [4, "涙の海を東へ (Off Vocal)", "May’n", 0],
+    [1, "graphite/diamond", "May’n", 1],
+    [2, "涙の海を東へ", "May’n", 1],
+    [3, "graphite/diamond (Off Vocal)", "May’n", 1],
+    [4, "涙の海を東へ (Off Vocal)", "May’n", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e5dd611-b202-4168-a5bd-bd7c10742564", "https://vgmdb.net/album/90400"]
 
@@ -391,7 +391,7 @@ catalognumber = "XNST-10013/B"
 date = "2019-11-20"
 album = "graphite/diamond / May'n [アーティスト盤] Disc 2 (DVD) [XNST-10013B]"
 tracks = [
-    [1, "graphite/diamond (Music Video)", "May’n", 0],
+    [1, "graphite/diamond (Music Video)", "May’n", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e5dd611-b202-4168-a5bd-bd7c10742564", "https://vgmdb.net/album/90400"]
 
@@ -400,10 +400,10 @@ catalognumber = "XNST-10014"
 date = "2019-11-20"
 album = "graphite/diamond / May'n [アニメ盤]"
 tracks = [
-    [1, "graphite/diamond", "May’n", 0],
-    [2, "涙の海を東へ", "May’n", 0],
-    [3, "graphite/diamond (Off Vocal)", "May’n", 0],
-    [4, "涙の海を東へ (Off Vocal)", "May’n", 0],
+    [1, "graphite/diamond", "May’n", 1],
+    [2, "涙の海を東へ", "May’n", 1],
+    [3, "graphite/diamond (Off Vocal)", "May’n", 1],
+    [4, "涙の海を東へ (Off Vocal)", "May’n", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5513a846-dc82-4069-b500-e921cff9608e", "https://vgmdb.net/album/90399"]
 
@@ -412,10 +412,10 @@ catalognumber = "XNST-10007"
 date = "2019-11-20"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.05 Z23(CV.阿部里果)"
 tracks = [
-    [1, "Wissen ist Macht!!", "Z23(CV.阿部里果)", 0],
-    [2, "悠久のカタルシス 〜Z23 ver.〜", "Z23(CV.阿部里果)", 0],
-    [3, "Wissen ist Macht!!(Off Vocal)", "Z23(CV.阿部里果)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "Z23(CV.阿部里果)", 0],
+    [1, "Wissen ist Macht!!", "Z23(CV.阿部里果)", 1],
+    [2, "悠久のカタルシス 〜Z23 ver.〜", "Z23(CV.阿部里果)", 1],
+    [3, "Wissen ist Macht!!(Off Vocal)", "Z23(CV.阿部里果)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "Z23(CV.阿部里果)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/69fc266b-ae8b-4d39-8c74-4d60a7dd2ac7", "https://vgmdb.net/album/88750"]
 
@@ -424,10 +424,10 @@ catalognumber = "XNST-10015"
 date = "2019-11-27"
 album = "光の道標 / 鹿乃"
 tracks = [
-    [1, "光の道標", "鹿乃", 0],
-    [2, "CAFUNÉ", "鹿乃", 0],
-    [3, "光の道標 (Off Vocal)", "鹿乃", 0],
-    [4, "CAFUNÉ (Off Vocal)", "鹿乃", 0],
+    [1, "光の道標", "鹿乃", 2],
+    [2, "CAFUNÉ", "鹿乃", 1],
+    [3, "光の道標 (Off Vocal)", "鹿乃", 1],
+    [4, "CAFUNÉ (Off Vocal)", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/769dfb4b-14a0-49b9-a7d3-364fd0f772e6", "https://vgmdb.net/album/90401"]
 
@@ -436,27 +436,27 @@ catalognumber = "TBR29291D-2"
 date = "2019-12-04"
 album = "アズールレーン THE ANIMATION サウンドトラック1"
 tracks = [
-    [1, "大航海時代", "西木康智", 0],
-    [2, "嵐の前兆", "西木康智", 0],
-    [3, "冒険心", "西木康智", 0],
-    [4, "安息A", "西木康智", 0],
-    [5, "安息B", "西木康智", 0],
-    [6, "日常1", "西木康智", 0],
-    [7, "日常2", "西木康智", 0],
-    [8, "日常3", "西木康智", 0],
-    [9, "悪だくみ", "西木康智", 0],
-    [10, "戦いのテーマ1", "西木康智", 0],
-    [11, "重桜進軍", "西木康智", 0],
-    [12, "緊迫", "西木康智", 0],
-    [13, "灰色の亡霊、大いなるE", "西木康智", 0],
-    [14, "エンタープライズ", "西木康智", 0],
-    [15, "戦いの後", "西木康智", 0],
-    [16, "戦史", "西木康智", 0],
-    [17, "悲劇", "西木康智", 0],
-    [18, "日常4", "西木康智", 0],
-    [19, "重桜の日常1", "西木康智", 0],
-    [20, "鉄血の日常", "西木康智", 0],
-    [21, "アズールレーンの進軍", "西木康智", 0],
+    [1, "大航海時代", "西木康智", 1],
+    [2, "嵐の前兆", "西木康智", 1],
+    [3, "冒険心", "西木康智", 1],
+    [4, "安息A", "西木康智", 1],
+    [5, "安息B", "西木康智", 1],
+    [6, "日常1", "西木康智", 1],
+    [7, "日常2", "西木康智", 1],
+    [8, "日常3", "西木康智", 1],
+    [9, "悪だくみ", "西木康智", 1],
+    [10, "戦いのテーマ1", "西木康智", 1],
+    [11, "重桜進軍", "西木康智", 1],
+    [12, "緊迫", "西木康智", 1],
+    [13, "灰色の亡霊、大いなるE", "西木康智", 1],
+    [14, "エンタープライズ", "西木康智", 1],
+    [15, "戦いの後", "西木康智", 1],
+    [16, "戦史", "西木康智", 1],
+    [17, "悲劇", "西木康智", 1],
+    [18, "日常4", "西木康智", 1],
+    [19, "重桜の日常1", "西木康智", 1],
+    [20, "鉄血の日常", "西木康智", 1],
+    [21, "アズールレーンの進軍", "西木康智", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9aad6fd2-9840-4eeb-b255-774c1b97a3b6", "https://vgmdb.net/album/91115"]
 
@@ -465,10 +465,10 @@ catalognumber = "XNST-10008"
 date = "2019-12-04"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.06 ユニコーン(CV.加隈亜衣)"
 tracks = [
-    [1, "エール・フォー・オール", "ユニコーン(CV.加隈亜衣)", 0],
-    [2, "悠久のカタルシス 〜ユニコーン ver.〜", "ユニコーン(CV.加隈亜衣)", 0],
-    [3, "エール・フォー・オール(Off Vocal)", "ユニコーン(CV.加隈亜衣)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "ユニコーン(CV.加隈亜衣)", 0],
+    [1, "エール・フォー・オール", "ユニコーン(CV.加隈亜衣)", 1],
+    [2, "悠久のカタルシス 〜ユニコーン ver.〜", "ユニコーン(CV.加隈亜衣)", 1],
+    [3, "エール・フォー・オール(Off Vocal)", "ユニコーン(CV.加隈亜衣)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "ユニコーン(CV.加隈亜衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9c50eb6c-162a-4357-bdc7-81f687bec667", "https://vgmdb.net/album/89232"]
 
@@ -477,10 +477,10 @@ catalognumber = "XNST-10009"
 date = "2019-12-11"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.07 クリーブランド (CV.堀籠沙耶)"
 tracks = [
-    [1, "コンプレックス・シューティング", "クリーブランド(CV.堀籠沙耶)", 0],
-    [2, "悠久のカタルシス 〜クリーブランド ver.〜", "クリーブランド(CV.堀籠沙耶)", 0],
-    [3, "コンプレックス・シューティング(Off Vocal)", "クリーブランド(CV.堀籠沙耶)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "クリーブランド(CV.堀籠沙耶)", 0],
+    [1, "コンプレックス・シューティング", "クリーブランド(CV.堀籠沙耶)", 1],
+    [2, "悠久のカタルシス 〜クリーブランド ver.〜", "クリーブランド(CV.堀籠沙耶)", 1],
+    [3, "コンプレックス・シューティング(Off Vocal)", "クリーブランド(CV.堀籠沙耶)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "クリーブランド(CV.堀籠沙耶)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d6d907a8-2e9f-4687-9df8-89b6a086ea97", "https://vgmdb.net/album/89233"]
 
@@ -489,10 +489,10 @@ catalognumber = "XNST-10010"
 date = "2019-12-25"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.08 加賀(CV.茅野愛衣)"
 tracks = [
-    [1, "愛し桜花よ散るなかれ", "加賀(CV.茅野愛衣)", 0],
-    [2, "悠久のカタルシス ～加賀 ver.～", "加賀(CV.茅野愛衣)", 0],
-    [3, "愛し桜花よ散るなかれ(Off Vocal)", "加賀(CV.茅野愛衣)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "加賀(CV.茅野愛衣)", 0],
+    [1, "愛し桜花よ散るなかれ", "加賀(CV.茅野愛衣)", 1],
+    [2, "悠久のカタルシス ～加賀 ver.～", "加賀(CV.茅野愛衣)", 1],
+    [3, "愛し桜花よ散るなかれ(Off Vocal)", "加賀(CV.茅野愛衣)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "加賀(CV.茅野愛衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8b324f66-93c8-447f-83c3-bdc483fe73e6", "https://vgmdb.net/album/89234"]
 
@@ -501,9 +501,9 @@ catalognumber = "N/A"
 date = "2019-12-28"
 album = "アズールレーン キャラクターソング#02 Disc 1"
 tracks = [
-    [1, "WISHNESS", "", 0],
-    [2, "Phantom 9", "", 0],
-    [3, "13 BRIGHT BATTLE STARS", "", 0],
+    [1, "WISHNESS", "", 1],
+    [2, "Phantom 9", "", 1],
+    [3, "13 BRIGHT BATTLE STARS", "", 1],
 ]
 links = ["https://vgmdb.net/album/94821"]
 
@@ -512,12 +512,12 @@ catalognumber = "N/A"
 date = "2019-12-28"
 album = "アズールレーン キャラクターソング#02 Disc 2"
 tracks = [
-    [1, "WISHNESS(Short.ver)", "", 0],
-    [2, "WISHNESS(Instrumental)", "", 0],
-    [3, "Phantom 9(Short.ver)", "", 0],
-    [4, "Phantom 9(Instrumental)", "", 0],
-    [5, "13 BRIGHT BATTLE STARS(Short.ver)", "", 0],
-    [6, "13 BRIGHT BATTLE STARS(Instrumental)", "", 0],
+    [1, "WISHNESS(Short.ver)", "", 1],
+    [2, "WISHNESS(Instrumental)", "", 1],
+    [3, "Phantom 9(Short.ver)", "", 1],
+    [4, "Phantom 9(Instrumental)", "", 1],
+    [5, "13 BRIGHT BATTLE STARS(Short.ver)", "", 1],
+    [6, "13 BRIGHT BATTLE STARS(Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/94821"]
 
@@ -526,10 +526,10 @@ catalognumber = "XNST-10011"
 date = "2020-01-15"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.09 赤城(CV.中原麻衣)"
 tracks = [
-    [1, "クリムゾン・ブルーミング", "赤城(CV.中原麻衣)", 0],
-    [2, "悠久のカタルシス ～赤城 ver.～", "赤城(CV.中原麻衣)", 0],
-    [3, "クリムゾン・ブルーミング(Off Vocal)", "赤城(CV.中原麻衣)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "赤城(CV.中原麻衣)", 0],
+    [1, "クリムゾン・ブルーミング", "赤城(CV.中原麻衣)", 1],
+    [2, "悠久のカタルシス ～赤城 ver.～", "赤城(CV.中原麻衣)", 1],
+    [3, "クリムゾン・ブルーミング(Off Vocal)", "赤城(CV.中原麻衣)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "赤城(CV.中原麻衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7dc65c9b-fd5b-469f-bfcb-97e92e5cecc1", "https://vgmdb.net/album/89235"]
 
@@ -538,31 +538,31 @@ catalognumber = "TBR29292D-2"
 date = "2020-01-22"
 album = "アズールレーン THE ANIMATION サウンドトラック2"
 tracks = [
-    [1, "儚い思い出", "西木康智", 0],
-    [2, "援軍", "西木康智", 0],
-    [3, "さわやかな朝", "西木康智", 0],
-    [4, "ロイヤルのお茶会", "西木康智", 0],
-    [5, "日常4", "西木康智", 0],
-    [6, "日常5", "西木康智", 0],
-    [7, "夕暮れ", "西木康智", 0],
-    [8, "郷愁", "西木康智", 0],
-    [9, "脅威", "西木康智", 0],
-    [10, "夜明け", "西木康智", 0],
-    [11, "重桜の夜明け", "西木康智", 0],
-    [12, "重桜の日常2", "西木康智", 0],
-    [13, "神木", "西木康智", 0],
-    [14, "重桜の日常3", "西木康智", 0],
-    [15, "邪悪", "西木康智", 0],
-    [16, "戦いのテーマ2", "西木康智", 0],
-    [17, "平海・寧海", "西木康智", 0],
-    [18, "精神世界", "西木康智", 0],
-    [19, "闇の存在", "西木康智", 0],
-    [20, "戦いのテーマ3", "西木康智", 0],
-    [21, "郷愁2", "西木康智", 0],
-    [22, "作戦会議", "西木康智", 0],
-    [23, "オロチ", "西木康智", 0],
-    [24, "最終決戦", "西木康智", 0],
-    [25, "覚醒", "西木康智", 0],
+    [1, "儚い思い出", "西木康智", 1],
+    [2, "援軍", "西木康智", 1],
+    [3, "さわやかな朝", "西木康智", 1],
+    [4, "ロイヤルのお茶会", "西木康智", 1],
+    [5, "日常4", "西木康智", 1],
+    [6, "日常5", "西木康智", 1],
+    [7, "夕暮れ", "西木康智", 1],
+    [8, "郷愁", "西木康智", 1],
+    [9, "脅威", "西木康智", 1],
+    [10, "夜明け", "西木康智", 1],
+    [11, "重桜の夜明け", "西木康智", 1],
+    [12, "重桜の日常2", "西木康智", 1],
+    [13, "神木", "西木康智", 1],
+    [14, "重桜の日常3", "西木康智", 1],
+    [15, "邪悪", "西木康智", 1],
+    [16, "戦いのテーマ2", "西木康智", 1],
+    [17, "平海・寧海", "西木康智", 1],
+    [18, "精神世界", "西木康智", 1],
+    [19, "闇の存在", "西木康智", 1],
+    [20, "戦いのテーマ3", "西木康智", 1],
+    [21, "郷愁2", "西木康智", 1],
+    [22, "作戦会議", "西木康智", 1],
+    [23, "オロチ", "西木康智", 1],
+    [24, "最終決戦", "西木康智", 1],
+    [25, "覚醒", "西木康智", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94a26c42-7b95-44fb-a99c-8d867eb1a4f8", "https://vgmdb.net/album/91116"]
 
@@ -571,10 +571,10 @@ catalognumber = "XNST-10012"
 date = "2020-01-29"
 album = "TVアニメーション『アズールレーン』キャラクターソングシングル Vol.10 ベルファスト(CV.堀江由衣)"
 tracks = [
-    [1, "Pro Tanto Quid Retribuamus", "ベルファスト(CV.堀江由衣)", 0],
-    [2, "悠久のカタルシス 〜ベルファスト ver.〜", "ベルファスト(CV.堀江由衣)", 0],
-    [3, "Pro Tanto Quid Retribuamus (Off Vocal)", "ベルファスト(CV.堀江由衣)", 0],
-    [4, "悠久のカタルシス (Off Vocal)", "ベルファスト(CV.堀江由衣)", 0],
+    [1, "Pro Tanto Quid Retribuamus", "ベルファスト(CV.堀江由衣)", 1],
+    [2, "悠久のカタルシス 〜ベルファスト ver.〜", "ベルファスト(CV.堀江由衣)", 1],
+    [3, "Pro Tanto Quid Retribuamus (Off Vocal)", "ベルファスト(CV.堀江由衣)", 1],
+    [4, "悠久のカタルシス (Off Vocal)", "ベルファスト(CV.堀江由衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a9ac5741-f18b-45ce-8df9-a987342ee956", "https://vgmdb.net/album/89236"]
 
@@ -633,11 +633,11 @@ catalognumber = "XNST-10016"
 date = "2020-02-12"
 album = "TVアニメーション『アズールレーン』バディキャラクターソングシングル Vol.1 プリンツ・オイゲン & プリンス・オブ・ウェールズ"
 tracks = [
-    [1, "Dance In The Naval Engagement ～運命の舞踏海～", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 0],
-    [2, "悠久のカタルシス ～プリンツ・オイゲン & プリンス・オブ・ウェールズ ver.～", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 0],
-    [3, "Dance In The Naval Engagement ～運命の舞踏海～(Off Vocal)", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 0],
-    [5, "ミニドラマ「喫茶店にて───。」", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 0],
+    [1, "Dance In The Naval Engagement ～運命の舞踏海～", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 1],
+    [2, "悠久のカタルシス ～プリンツ・オイゲン & プリンス・オブ・ウェールズ ver.～", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 1],
+    [3, "Dance In The Naval Engagement ～運命の舞踏海～(Off Vocal)", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 1],
+    [5, "ミニドラマ「喫茶店にて───。」", "プリンツ・オイゲン(CV.佐倉綾音)、プリンス・オブ・ウェールズ(CV.橋本ちなみ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3569b486-d5f7-4e12-89c2-632fee921cca", "https://vgmdb.net/album/90402"]
 
@@ -646,22 +646,22 @@ catalognumber = "AZUL1-BNS-OST"
 date = "2020-02-13"
 album = "Azur Lane: Crosswave OFFICIAL SOUNDTRACK"
 tracks = [
-    [1, "New Beginning ~ CROSSWAVE", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [2, "A Beloved Smile", "金子憲次 (Compile Heart)", 0],
-    [3, "Pleasant Bustle", "金子憲次 (Compile Heart)", 0],
-    [4, "Brilliant Deception", "金子憲次 (Compile Heart)", 0],
-    [5, "Wild Feelings", "金子憲次 (Compile Heart)", 0],
-    [6, "Blooming Eminescence", "金子憲次 (Compile Heart)", 0],
-    [7, "Carry Out the Order", "金子憲次 (Compile Heart)", 0],
-    [8, "Run with Courage", "金子憲次 (Compile Heart)", 0],
-    [9, "Dance of the Blossom ~ NEWBIE", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [10, "Dreadnaught ~ HEROINES", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [11, "The Roar of Thunder ~ SAKURA EMPIRE", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [12, "Gather in the Glory ~ ROYAL NAVY", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [13, "Wings Above the Shining Sea ~ EAGLE UNION", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [14, "Iron Judgement ~ IRON BLOOD", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [15, "The Blood-Stained Cycle ~ SIREN", "杉浦勇紀 (STUDIO EDEN INC.)", 0],
-    [16, "Reminiscence Dedicated to the Sea", "金子憲次 (Compile Heart)", 0],
+    [1, "New Beginning ~ CROSSWAVE", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [2, "A Beloved Smile", "金子憲次 (Compile Heart)", 1],
+    [3, "Pleasant Bustle", "金子憲次 (Compile Heart)", 1],
+    [4, "Brilliant Deception", "金子憲次 (Compile Heart)", 1],
+    [5, "Wild Feelings", "金子憲次 (Compile Heart)", 1],
+    [6, "Blooming Eminescence", "金子憲次 (Compile Heart)", 1],
+    [7, "Carry Out the Order", "金子憲次 (Compile Heart)", 1],
+    [8, "Run with Courage", "金子憲次 (Compile Heart)", 1],
+    [9, "Dance of the Blossom ~ NEWBIE", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [10, "Dreadnaught ~ HEROINES", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [11, "The Roar of Thunder ~ SAKURA EMPIRE", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [12, "Gather in the Glory ~ ROYAL NAVY", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [13, "Wings Above the Shining Sea ~ EAGLE UNION", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [14, "Iron Judgement ~ IRON BLOOD", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [15, "The Blood-Stained Cycle ~ SIREN", "杉浦勇紀 (STUDIO EDEN INC.)", 1],
+    [16, "Reminiscence Dedicated to the Sea", "金子憲次 (Compile Heart)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8dea9ae6-6f57-4eaa-bf03-85fd09d69877", "https://vgmdb.net/album/92239"]
 
@@ -670,11 +670,11 @@ catalognumber = "XNST-10017"
 date = "2020-02-26"
 album = "TVアニメーション『アズールレーン』バディキャラクターソングシングル Vol.2 クイーン・エリザベス & ウォースパイト"
 tracks = [
-    [1, "ウェルカム トゥ ブリリアントパーティ☆", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 0],
-    [2, "悠久のカタルシス 〜クイーン・エリザベス & ウォースパイト ver.〜", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 0],
-    [3, "ウェルカム トゥ ブリリアントパーティ☆ (Off Vocal)", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 0],
-    [4, "悠久のカタルシス (Off Vocal)", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 0],
-    [5, "ミニドラマ「私室にて───。」", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 0],
+    [1, "ウェルカム トゥ ブリリアントパーティ☆", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 1],
+    [2, "悠久のカタルシス 〜クイーン・エリザベス & ウォースパイト ver.〜", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 1],
+    [3, "ウェルカム トゥ ブリリアントパーティ☆ (Off Vocal)", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 1],
+    [4, "悠久のカタルシス (Off Vocal)", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 1],
+    [5, "ミニドラマ「私室にて───。」", "クイーン・エリザベス(CV.上坂すみれ)、ウォースパイト(CV.上坂すみれ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e39345de-109e-480a-ae40-912de52e5584", "https://vgmdb.net/album/90403"]
 
@@ -692,7 +692,7 @@ tracks = [
     [7, "おかえり", "鹿乃", 0],
     [8, "罰と罰", "鹿乃", 0],
     [9, "エンディングノート", "鹿乃", 0],
-    [10, "光の道標", "鹿乃", 0],
+    [10, "光の道標", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/303e07b4-1370-4f62-9512-4ac42bfbad98", "https://vgmdb.net/album/95967"]
 
@@ -710,7 +710,7 @@ tracks = [
     [7, "おかえり", "鹿乃", 0],
     [8, "罰と罰", "鹿乃", 0],
     [9, "エンディングノート", "鹿乃", 0],
-    [10, "光の道標", "鹿乃", 0],
+    [10, "光の道標", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/494012de-5c5a-4d8c-bd5a-2c5db10da85d", "https://vgmdb.net/album/95309"]
 
@@ -728,7 +728,7 @@ tracks = [
     [7, "おかえり", "鹿乃", 0],
     [8, "罰と罰", "鹿乃", 0],
     [9, "エンディングノート", "鹿乃", 0],
-    [10, "光の道標", "鹿乃", 0],
+    [10, "光の道標", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9e3b55c4-7acf-439c-9ea9-afb84c0eb530", "https://vgmdb.net/album/95308"]
 
@@ -755,7 +755,7 @@ tracks = [
     [7, "おかえり", "鹿乃", 0],
     [8, "罰と罰", "鹿乃", 0],
     [9, "エンディングノート", "鹿乃", 0],
-    [10, "光の道標", "鹿乃", 0],
+    [10, "光の道標", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/303e07b4-1370-4f62-9512-4ac42bfbad98", "https://vgmdb.net/album/95389"]
 
@@ -808,7 +808,7 @@ tracks = [
     [7, "おかえり", "鹿乃", 0],
     [8, "罰と罰", "鹿乃", 0],
     [9, "エンディングノート", "鹿乃", 0],
-    [10, "光の道標", "鹿乃", 0],
+    [10, "光の道標", "鹿乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/303e07b4-1370-4f62-9512-4ac42bfbad98", "https://vgmdb.net/album/95390"]
 
@@ -826,11 +826,11 @@ catalognumber = "XNST-10018"
 date = "2020-03-11"
 album = "TVアニメーション『アズールレーン』バディキャラクターソングシングル Vol.3 クリーブランド四姉妹"
 tracks = [
-    [1, "ALL 4 SISTER!!!!", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 0],
-    [2, "悠久のカタルシス 〜クリーブランド四姉妹 ver.〜", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 0],
-    [3, "ALL 4 SISTER!!!!(Off Vocal)", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 0],
-    [5, "ミニドラマ「キャンプにて───。」", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 0],
+    [1, "ALL 4 SISTER!!!!", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 1],
+    [2, "悠久のカタルシス 〜クリーブランド四姉妹 ver.〜", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 1],
+    [3, "ALL 4 SISTER!!!!(Off Vocal)", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 1],
+    [5, "ミニドラマ「キャンプにて───。」", "クリーブランド(CV.堀籠沙耶)、コロンビア(CV.堀籠沙耶)、モントピリア(CV.高橋李依)、デンバー(CV.小澤亜李)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/267f92cc-12c4-4279-a3c9-4563b349a501", "https://vgmdb.net/album/90404"]
 
@@ -839,11 +839,11 @@ catalognumber = "XNST-10019"
 date = "2020-03-25"
 album = "TVアニメーション『アズールレーン』バディキャラクターソングシングル Vol.4 愛宕 & 高雄"
 tracks = [
-    [1, "逆鱗乱舞!!", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 0],
-    [2, "悠久のカタルシス ~愛宕 & 高雄 ver.~", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 0],
-    [3, "逆鱗乱舞!!(Off Vocal)", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 0],
-    [5, "ミニドラマ「商店街にて───。」", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 0],
+    [1, "逆鱗乱舞!!", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 1],
+    [2, "悠久のカタルシス ~愛宕 & 高雄 ver.~", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 1],
+    [3, "逆鱗乱舞!!(Off Vocal)", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 1],
+    [5, "ミニドラマ「商店街にて───。」", "愛宕(CV.茅野愛衣)、高雄(CV.加隈亜衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ef6601a0-ef91-4080-9006-0844d04c0bf3", "https://vgmdb.net/album/90405"]
 
@@ -852,11 +852,11 @@ catalognumber = "XNST-10020"
 date = "2020-04-08"
 album = "TVアニメーション『アズールレーン』バディキャラクターソングシングル Vol.5 エンタープライズ & 赤城"
 tracks = [
-    [1, "Re:frain", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 0],
-    [2, "悠久のカタルシス ～エンタープライズ & 赤城 ver.～", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 0],
-    [3, "Re:frain(Off Vocal)", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 0],
-    [4, "悠久のカタルシス(Off Vocal)", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 0],
-    [5, "ミニドラマ「食堂にて───。」", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 0],
+    [1, "Re:frain", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 1],
+    [2, "悠久のカタルシス ～エンタープライズ & 赤城 ver.～", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 1],
+    [3, "Re:frain(Off Vocal)", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 1],
+    [4, "悠久のカタルシス(Off Vocal)", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 1],
+    [5, "ミニドラマ「食堂にて───。」", "エンタープライズ(CV.石川由依)、赤城(CV.中原麻衣)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/70185507-fc83-4c38-bf63-c8ac011672ab", "https://vgmdb.net/album/90407"]
 
@@ -895,7 +895,7 @@ tracks = [
     [1, "LISTEN!!", "小松未可子", 0],
     [2, "best day, best way", "LiSA", 0],
     [3, "GATE 〜それは暁のように〜", "岸田教団&THE明星ロケッツ", 0],
-    [4, "graphite/diamond", "May’n", 0],
+    [4, "graphite/diamond", "May’n", 1],
     [5, "名前のない怪物", "EGOIST", 0],
     [6, "No buts!", "川田まみ", 0],
     [7, "RESISTER", "ASCA", 0],
@@ -974,164 +974,6 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/101806"]
 
-[d16e3a35851a9add5c59ff3150bebd9e]
-catalognumber = "GNCA-1580"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal Disc 1"
-tracks = [
-    [1, "dual existence", "fripSide", 0],
-    [2, "We Rise", "fripSide", 0],
-    [3, "final phase", "fripSide", 0],
-    [4, "BLACKFOX", "fripSide", 0],
-    [5, "when chance strikes", "fripSide", 0],
-    [6, "Love with You", "fripSide", 0],
-    [7, "Edge of the Universe", "fripSide", 0],
-    [8, "under a starlit sky", "fripSide", 0],
-    [9, "divine criminal", "fripSide", 0],
-    [10, "killing bites", "fripSide", 0],
-    [11, "crossroads", "fripSide", 0],
-    [12, "sky -crossroads version-", "fripSide", 0],
-    [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
-    [15, "white forces -IS3 edition-", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/595479f7-fb22-48fa-8e4b-06ec076f12d2", "https://vgmdb.net/album/101813"]
-
-[096e7a0607527f8818ead21158cd5323]
-catalognumber = "GNCA-1580"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal Disc 2"
-tracks = [
-    [1, "1983 -schwarzesmarken- (IS3 version)", "fripSide", 0],
-    [2, "Two souls -toward the truth-", "fripSide", 0],
-    [3, "magicaride -version2016-", "fripSide", 0],
-    [4, "Luminize", "fripSide", 0],
-    [5, "infinite synthesis", "fripSide", 0],
-    [6, "black bullet", "fripSide", 0],
-    [7, "eternal reality", "fripSide", 0],
-    [8, "sister's noise", "fripSide", 0],
-    [9, "Decade", "fripSide", 0],
-    [10, "Hesitation Snow", "fripSide", 0],
-    [11, "way to answer", "fripSide", 0],
-    [12, "Heaven is a Place on Earth", "fripSide", 0],
-    [13, "future gazer", "fripSide", 0],
-    [14, "LEVEL5 -judgelight-", "fripSide", 0],
-    [15, "only my railgun", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/595479f7-fb22-48fa-8e4b-06ec076f12d2", "https://vgmdb.net/album/101813"]
-
-[b50b46e34a6a149be666fda75c370553]
-catalognumber = "GNCA-1580"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal, Live Event, Video"
-tracks = [
-    [1, "「fripSide Phase2：10th Anniversary Tour 2019-2020 -infinite synthesis 5-」", "", 0],
-    [2, "「ANIMAX MUSIX 2019 YOKOHAMA」2019.11.23 横浜アリーナ", "", 0],
-]
-links = ["https://vgmdb.net/album/101813"]
-
-[26afbea3d32dc616d3704e7a13151fcc]
-catalognumber = "GNCA-1582"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 Disc 1 [GNCA-158201]"
-tracks = [
-    [1, "dual existence", "fripSide", 0],
-    [2, "We Rise", "fripSide", 0],
-    [3, "final phase", "fripSide", 0],
-    [4, "BLACKFOX", "fripSide", 0],
-    [5, "when chance strikes", "fripSide", 0],
-    [6, "Love with You", "fripSide", 0],
-    [7, "Edge of the Universe", "fripSide", 0],
-    [8, "under a starlit sky", "fripSide", 0],
-    [9, "divine criminal", "fripSide", 0],
-    [10, "killing bites", "fripSide", 0],
-    [11, "crossroads", "fripSide", 0],
-    [12, "sky -crossroads version-", "fripSide", 0],
-    [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
-    [15, "white forces -IS3 edition-", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101812"]
-
-[0b09c3910cccd6973ccbe2aab5d935b8]
-catalognumber = "GNCA-1582"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 Disc 2 [GNCA-158202]"
-tracks = [
-    [1, "1983 -schwarzesmarken- (IS3 version)", "fripSide", 0],
-    [2, "Two souls -toward the truth-", "fripSide", 0],
-    [3, "magicaride -version2016-", "fripSide", 0],
-    [4, "Luminize", "fripSide", 0],
-    [5, "infinite synthesis", "fripSide", 0],
-    [6, "black bullet", "fripSide", 0],
-    [7, "eternal reality", "fripSide", 0],
-    [8, "sister's noise", "fripSide", 0],
-    [9, "Decade", "fripSide", 0],
-    [10, "Hesitation Snow", "fripSide", 0],
-    [11, "way to answer", "fripSide", 0],
-    [12, "Heaven is a Place on Earth", "fripSide", 0],
-    [13, "future gazer", "fripSide", 0],
-    [14, "LEVEL5 -judgelight-", "fripSide", 0],
-    [15, "only my railgun", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101812"]
-
-[a8e8c31aafee3b116e6cd79b2e5448da]
-catalognumber = "GNCA-1581"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal Disc 1"
-tracks = [
-    [1, "dual existence", "fripSide", 0],
-    [2, "We Rise", "fripSide", 0],
-    [3, "final phase", "fripSide", 0],
-    [4, "BLACKFOX", "fripSide", 0],
-    [5, "when chance strikes", "fripSide", 0],
-    [6, "Love with You", "fripSide", 0],
-    [7, "Edge of the Universe", "fripSide", 0],
-    [8, "under a starlit sky", "fripSide", 0],
-    [9, "divine criminal", "fripSide", 0],
-    [10, "killing bites", "fripSide", 0],
-    [11, "crossroads", "fripSide", 0],
-    [12, "sky -crossroads version-", "fripSide", 0],
-    [13, "clockwork planet", "fripSide", 0],
-    [14, "The end of escape -fripSide edition-", "fripSide", 0],
-    [15, "white forces -IS3 edition-", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101814"]
-
-[484c5e5ddb830ad56b41ba6b4ce6146e]
-catalognumber = "GNCA-1581"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal Disc 2"
-tracks = [
-    [1, "1983 -schwarzesmarken- (IS3 version)", "fripSide", 0],
-    [2, "Two souls -toward the truth-", "fripSide", 0],
-    [3, "magicaride -version2016-", "fripSide", 0],
-    [4, "Luminize", "fripSide", 0],
-    [5, "infinite synthesis", "fripSide", 0],
-    [6, "black bullet", "fripSide", 0],
-    [7, "eternal reality", "fripSide", 0],
-    [8, "sister's noise", "fripSide", 0],
-    [9, "Decade", "fripSide", 0],
-    [10, "Hesitation Snow", "fripSide", 0],
-    [11, "way to answer", "fripSide", 0],
-    [12, "Heaven is a Place on Earth", "fripSide", 0],
-    [13, "future gazer", "fripSide", 0],
-    [14, "LEVEL5 -judgelight-", "fripSide", 0],
-    [15, "only my railgun", "fripSide", 0],
-]
-links = ["https://beta.musicbrainz.org/release/23284918-c2e4-4581-8b8a-5cb36337fc28", "https://vgmdb.net/album/101814"]
-
-[99ec9f26528215ebaa3a7569b1451346]
-catalognumber = "GNCA-1581"
-date = "2020-11-04"
-album = "the very best of fripSide 2009-2020 [Limited Edition] Vocal, Live Event, Video"
-tracks = [
-    [1, "「fripSide Phase2：10th Anniversary Tour 2019-2020 -infinite synthesis 5-」", "", 0],
-    [2, "「ANIMAX MUSIX 2019 YOKOHAMA」2019.11.23 横浜アリーナ", "", 0],
-]
-links = ["https://vgmdb.net/album/101814"]
-
 [0725e9e5c87a8371cb4db851b424dab5]
 catalognumber = "ANTCD-A0000003233"
 date = "2020-12-30"
@@ -1147,10 +989,10 @@ catalognumber = "XNST-10025"
 date = "2021-02-03"
 album = "Longing for!/まひるいろシエスタ"
 tracks = [
-    [1, "Longing for!", "新田恵海", 0],
-    [2, "まひるいろシエスタ", "榊原ゆい", 0],
-    [3, "Longing for!(Off Vocal)", "新田恵海", 0],
-    [4, "まひるいろシエスタ(Off Vocal)", "榊原ゆい", 0],
+    [1, "Longing for!", "新田恵海", 1],
+    [2, "まひるいろシエスタ", "榊原ゆい", 1],
+    [3, "Longing for!(Off Vocal)", "新田恵海", 1],
+    [4, "まひるいろシエスタ(Off Vocal)", "榊原ゆい", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0d6cb778-4eba-467a-95ba-d2261ae51402", "https://vgmdb.net/album/103868"]
 
@@ -1159,21 +1001,21 @@ catalognumber = "SHBR-0632-2"
 date = "2021-05-12"
 album = "アズールレーン びそくぜんしんっ! オリジナルサウンドトラックCD Vol.1"
 tracks = [
-    [1, "微速ぜんしーん!", "", 0],
-    [2, "L.I.チャンネル?", "", 0],
-    [3, "教科書とカレーと招待状と", "", 0],
-    [4, "面倒いことになったかも", "", 0],
-    [5, "貴方様がくださった平穏", "", 0],
-    [6, "ブッキー登校のテーマ", "", 0],
-    [7, "幼馴染みとの思い出", "", 0],
-    [8, "フィッシュアンドチップス♪", "", 0],
-    [9, "ソルダティ今日の見回り", "", 0],
-    [10, "ニンジャが迷子になっているでござる", "", 0],
-    [11, "作り方を勉強しなさいっての!", "", 0],
-    [12, "ぜーんぶ、分かっています...♡", "", 0],
-    [13, "あて家今日の晩ごはん", "", 0],
-    [14, "サフランを求める冒険譚", "", 0],
-    [15, "唯一無二のホビー", "", 0],
+    [1, "微速ぜんしーん!", "", 1],
+    [2, "L.I.チャンネル?", "", 1],
+    [3, "教科書とカレーと招待状と", "", 1],
+    [4, "面倒いことになったかも", "", 1],
+    [5, "貴方様がくださった平穏", "", 1],
+    [6, "ブッキー登校のテーマ", "", 1],
+    [7, "幼馴染みとの思い出", "", 1],
+    [8, "フィッシュアンドチップス♪", "", 1],
+    [9, "ソルダティ今日の見回り", "", 1],
+    [10, "ニンジャが迷子になっているでござる", "", 1],
+    [11, "作り方を勉強しなさいっての!", "", 1],
+    [12, "ぜーんぶ、分かっています...♡", "", 1],
+    [13, "あて家今日の晩ごはん", "", 1],
+    [14, "サフランを求める冒険譚", "", 1],
+    [15, "唯一無二のホビー", "", 1],
 ]
 links = ["https://vgmdb.net/album/108115"]
 
@@ -1197,9 +1039,9 @@ tracks = [
     [4, "牙と翼", "May’n", 0],
     [5, "Real Lies", "May’n", 0],
     [6, "イリタブル", "May’n", 0],
-    [7, "graphite/diamond", "May’n", 0],
+    [7, "graphite/diamond", "May’n", 1],
     [8, "天使よ故郷を聞け", "May’n", 0],
-    [9, "涙の海を東へ", "May’n", 0],
+    [9, "涙の海を東へ", "May’n", 1],
     [10, "You", "May’n", 0],
     [11, "未来ノート", "May’n", 0],
 ]
@@ -1216,9 +1058,9 @@ tracks = [
     [4, "牙と翼", "May’n", 0],
     [5, "Real Lies", "May’n", 0],
     [6, "イリタブル", "May’n", 0],
-    [7, "graphite/diamond", "May’n", 0],
+    [7, "graphite/diamond", "May’n", 1],
     [8, "天使よ故郷を聞け", "May’n", 0],
-    [9, "涙の海を東へ", "May’n", 0],
+    [9, "涙の海を東へ", "May’n", 1],
     [10, "You", "May’n", 0],
     [11, "未来ノート", "May’n", 0],
 ]
@@ -1239,21 +1081,21 @@ catalognumber = "SHBR-0633-2"
 date = "2021-07-07"
 album = "アズールレーン びそくぜんしんっ! オリジナルサウンドトラックCD Vol.2"
 tracks = [
-    [1, "サプラ～イズ!", "", 0],
-    [2, "そんなことより盆栽", "", 0],
-    [3, "ヘルキャットちゃんと見るいい夢", "", 0],
-    [4, "ひらめき失敗!", "", 0],
-    [5, "それゆけ四天王ロケット", "", 0],
-    [6, "56の秘密な日記帳", "", 0],
-    [7, "さかなきゅんも見ている", "", 0],
-    [8, "キズナログイン", "", 0],
-    [9, "ウサギがかぶっちゃった...", "", 0],
-    [10, "汝がいる幸せの未来", "", 0],
-    [11, "か弱いわたしを大目に見てね", "", 0],
-    [12, "聖女の旗、炎に吠えろ", "", 0],
-    [13, "ノーブルクッキー", "", 0],
-    [14, "優雅卿の手招き", "", 0],
-    [15, "ドレッシーコンサート", "", 0],
+    [1, "サプラ～イズ!", "", 1],
+    [2, "そんなことより盆栽", "", 1],
+    [3, "ヘルキャットちゃんと見るいい夢", "", 1],
+    [4, "ひらめき失敗!", "", 1],
+    [5, "それゆけ四天王ロケット", "", 1],
+    [6, "56の秘密な日記帳", "", 1],
+    [7, "さかなきゅんも見ている", "", 1],
+    [8, "キズナログイン", "", 1],
+    [9, "ウサギがかぶっちゃった...", "", 1],
+    [10, "汝がいる幸せの未来", "", 1],
+    [11, "か弱いわたしを大目に見てね", "", 1],
+    [12, "聖女の旗、炎に吠えろ", "", 1],
+    [13, "ノーブルクッキー", "", 1],
+    [14, "優雅卿の手招き", "", 1],
+    [15, "ドレッシーコンサート", "", 1],
 ]
 links = ["https://vgmdb.net/album/108116"]
 
@@ -1374,7 +1216,7 @@ tracks = [
     [5, "day by day", "鹿乃", 0],
     [6, "29-Q", "鹿乃", 0],
     [7, "春に落ちて", "鹿乃", 0],
-    [8, "光の道標", "鹿乃", 0],
+    [8, "光の道標", "鹿乃", 1],
     [9, "午前0時の無力な神様", "鹿乃", 0],
     [10, "罰と罰", "鹿乃", 0],
     [11, "なだめスかし Negotiation", "鹿乃", 0],
@@ -1692,15 +1534,15 @@ catalognumber = "N/A"
 date = "2023-07-27"
 album = "OVA アズールレーン Queen's Orders 特典CD Vocal"
 tracks = [
-    [1, "Bloomin'", "", 0],
-    [2, "Bloomin' (ショート)", "", 0],
-    [3, "Bloomin' (カラオケ)", "", 0],
-    [4, "いつでもティーパーティ！", "", 0],
-    [5, "いつでもティーパーティ！ (ショート)", "", 0],
-    [6, "いつでもティーパーティ！ (カラオケ)", "", 0],
-    [7, "るっくあっとみー！", "", 0],
-    [8, "るっくあっとみー！ (ショート)", "", 0],
-    [9, "るっくあっとみー！ (カラオケ)", "", 0],
+    [1, "Bloomin'", "", 1],
+    [2, "Bloomin' (ショート)", "", 1],
+    [3, "Bloomin' (カラオケ)", "", 1],
+    [4, "いつでもティーパーティ！", "", 1],
+    [5, "いつでもティーパーティ！ (ショート)", "", 1],
+    [6, "いつでもティーパーティ！ (カラオケ)", "", 1],
+    [7, "るっくあっとみー！", "", 1],
+    [8, "るっくあっとみー！ (ショート)", "", 1],
+    [9, "るっくあっとみー！ (カラオケ)", "", 1],
 ]
 links = ["https://vgmdb.net/album/126864"]
 
@@ -1709,21 +1551,21 @@ catalognumber = "N/A"
 date = "2023-07-27"
 album = "OVA アズールレーン Queen's Orders 特典CD Original Soundtrack"
 tracks = [
-    [1, "ディベルティメント", "", 0],
-    [2, "水紋のワルツ", "", 0],
-    [3, "メヌエット", "", 0],
-    [4, "マーチ・スケルツァンド", "", 0],
-    [5, "小さなガヴォット", "", 0],
-    [6, "シーガルの踊り", "", 0],
-    [7, "肉球のブルース", "", 0],
-    [8, "カンティレーナ", "", 0],
-    [9, "アレグロ アッラ マルチア", "", 0],
-    [10, "喜びの舟歌", "", 0],
-    [11, "ピーナッツ ウィズ ドラーグ ブルース", "", 0],
-    [12, "メルスィー ミル フォア", "", 0],
-    [13, "トレッフラ カトゥル フイュ", "", 0],
-    [14, "祝祭のリール", "", 0],
-    [15, "水紋のワルツ（エリザベス・サイズ）", "", 0],
+    [1, "ディベルティメント", "", 1],
+    [2, "水紋のワルツ", "", 1],
+    [3, "メヌエット", "", 1],
+    [4, "マーチ・スケルツァンド", "", 1],
+    [5, "小さなガヴォット", "", 1],
+    [6, "シーガルの踊り", "", 1],
+    [7, "肉球のブルース", "", 1],
+    [8, "カンティレーナ", "", 1],
+    [9, "アレグロ アッラ マルチア", "", 1],
+    [10, "喜びの舟歌", "", 1],
+    [11, "ピーナッツ ウィズ ドラーグ ブルース", "", 1],
+    [12, "メルスィー ミル フォア", "", 1],
+    [13, "トレッフラ カトゥル フイュ", "", 1],
+    [14, "祝祭のリール", "", 1],
+    [15, "水紋のワルツ（エリザベス・サイズ）", "", 1],
 ]
 links = ["https://vgmdb.net/album/126864"]
 
@@ -1794,20 +1636,20 @@ catalognumber = "SKKR-001"
 date = "2024-09-25"
 album = "アズールレーン ボーカルコレクション Vol.1"
 tracks = [
-    [1, "Defiant Dolls", "鈴木このみ", 0],
-    [2, "盲目ラビリンス", "Alizarin :フォーミダブル(CV:釘宮理恵)/プリンツ・オイゲン(CV:佐倉綾音)/能代(CV:伊波杏樹)", 0],
-    [3, "艦上LOYALTY", "Verheerender:大鳳(CV:悠木碧)/ローン(CV:佐藤聡美)", 0],
-    [4, "cœur", "Polaris:ガスコーニュ(CV:小松未可子)/シェフィールド(CV:小原好美)/クリーブランド(CV:堀籠沙耶)/アドミラル・ヒッパー(CV:山岡ゆり)/赤城(CV:中原麻衣)", 0],
-    [5, "Phantom 9", "エンタープライズ(CV:石川由依)", 0],
-    [6, "クラダリングの誓い", "ベルファスト（堀江由衣）", 0],
-    [7, "13 BRIGHT BATTLE STARS", "クリーブランド(CV:堀籠沙耶)", 0],
-    [8, "私はNo.1!", "サンディエゴ(CV:伊藤あすか)", 0],
-    [9, "無限大HearT", "cyanidin:金剛(CV:斎藤千和)/ル・テメレール(CV:後藤麻衣)/ボイシ(CV:篠原侑)", 0],
-    [10, "cœur ~remix~", "Polaris:ガスコーニュ(CV:小松未可子)/シェフィールド(CV:小原好美)/クリーブランド(CV:堀籠沙耶)/アドミラル・ヒッパー(CV:山岡ゆり)/赤城(CV:中原麻衣)", 0],
-    [11, "My night", "ユニコーン（加隈亜衣）", 0],
-    [12, "祈りノウタ", "lumière:ル・マラン(CV:白石晴香)", 0],
-    [13, "Blue Sprit", "Astrum:イラストリアス(CV:雨宮天)/ボルチモア(CV:高橋未奈美)/ダイドー(CV:青木瑠璃子)/タシュケント(CV:井澤詩織)/アルバコア(CV:種﨑敦美)", 0],
-    [14, "WISHNESS", "綾波(CV:大地葉)/ジャベリン(CV:山根希美)/ラフィー(CV:長縄まりあ)/Z23(CV:阿部里果)", 0],
+    [1, "Defiant Dolls", "鈴木このみ", 1],
+    [2, "盲目ラビリンス", "Alizarin :フォーミダブル(CV:釘宮理恵)/プリンツ・オイゲン(CV:佐倉綾音)/能代(CV:伊波杏樹)", 1],
+    [3, "艦上LOYALTY", "Verheerender:大鳳(CV:悠木碧)/ローン(CV:佐藤聡美)", 1],
+    [4, "cœur", "Polaris:ガスコーニュ(CV:小松未可子)/シェフィールド(CV:小原好美)/クリーブランド(CV:堀籠沙耶)/アドミラル・ヒッパー(CV:山岡ゆり)/赤城(CV:中原麻衣)", 1],
+    [5, "Phantom 9", "エンタープライズ(CV:石川由依)", 1],
+    [6, "クラダリングの誓い", "ベルファスト（堀江由衣）", 1],
+    [7, "13 BRIGHT BATTLE STARS", "クリーブランド(CV:堀籠沙耶)", 1],
+    [8, "私はNo.1!", "サンディエゴ(CV:伊藤あすか)", 1],
+    [9, "無限大HearT", "cyanidin:金剛(CV:斎藤千和)/ル・テメレール(CV:後藤麻衣)/ボイシ(CV:篠原侑)", 1],
+    [10, "cœur ~remix~", "Polaris:ガスコーニュ(CV:小松未可子)/シェフィールド(CV:小原好美)/クリーブランド(CV:堀籠沙耶)/アドミラル・ヒッパー(CV:山岡ゆり)/赤城(CV:中原麻衣)", 1],
+    [11, "My night", "ユニコーン（加隈亜衣）", 1],
+    [12, "祈りノウタ", "lumière:ル・マラン(CV:白石晴香)", 1],
+    [13, "Blue Sprit", "Astrum:イラストリアス(CV:雨宮天)/ボルチモア(CV:高橋未奈美)/ダイドー(CV:青木瑠璃子)/タシュケント(CV:井澤詩織)/アルバコア(CV:種﨑敦美)", 2],
+    [14, "WISHNESS", "綾波(CV:大地葉)/ジャベリン(CV:山根希美)/ラフィー(CV:長縄まりあ)/Z23(CV:阿部里果)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3b1fb670-f24d-4670-b8e7-fb1f86a65609", "https://vgmdb.net/album/142556"]
 

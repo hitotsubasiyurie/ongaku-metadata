@@ -15,12 +15,12 @@ catalognumber = "LACM-4905"
 date = "2012-02-08"
 album = "STUDY×STUDY / StylipS"
 tracks = [
-    [1, "STUDY×STUDY", "StylipS", 0],
-    [2, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 0],
-    [3, "セーシュンプラン!", "StylipS", 0],
-    [4, "STUDY×STUDY (inst)", "StylipS", 0],
-    [5, "Brand-new Style!! ～魔法みたいなShow time～ (inst)", "StylipS", 0],
-    [6, "セーシュンプラン! (inst)", "StylipS", 0],
+    [1, "STUDY×STUDY", "StylipS", 1],
+    [2, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 2],
+    [3, "セーシュンプラン!", "StylipS", 1],
+    [4, "STUDY×STUDY (inst)", "StylipS", 1],
+    [5, "Brand-new Style!! ～魔法みたいなShow time～ (inst)", "StylipS", 1],
+    [6, "セーシュンプラン! (inst)", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a031e11c-3676-43ef-9376-8753981bba89", "https://vgmdb.net/album/93047"]
 
@@ -29,12 +29,12 @@ catalognumber = "LACM-34905"
 date = "2012-02-08"
 album = "STUDY×STUDY / StylipS [初回限定盤] Vocal"
 tracks = [
-    [1, "STUDY×STUDY", "StylipS", 0],
-    [2, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 0],
-    [3, "セーシュンプラン!", "StylipS", 0],
-    [4, "STUDY×STUDY (inst)", "StylipS", 0],
-    [5, "Brand-new Style!! ～魔法みたいなShow time～ (inst)", "StylipS", 0],
-    [6, "セーシュンプラン! (inst)", "StylipS", 0],
+    [1, "STUDY×STUDY", "StylipS", 1],
+    [2, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 1],
+    [3, "セーシュンプラン!", "StylipS", 1],
+    [4, "STUDY×STUDY (inst)", "StylipS", 1],
+    [5, "Brand-new Style!! ～魔法みたいなShow time～ (inst)", "StylipS", 1],
+    [6, "セーシュンプラン! (inst)", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a38f3fb3-23d0-4fe2-af5a-9e0b4b4333a9", "https://vgmdb.net/album/31598"]
 
@@ -43,8 +43,8 @@ catalognumber = "LACM-34905"
 date = "2012-02-08"
 album = "STUDY×STUDY / StylipS [初回限定盤] Video"
 tracks = [
-    [1, "STUDY×STUDY", "StylipS", 0],
-    [2, "STUDY×STUDY (DANCE STYLE)", "StylipS", 0],
+    [1, "STUDY×STUDY", "StylipS", 1],
+    [2, "STUDY×STUDY (DANCE STYLE)", "StylipS", 1],
     [3, "Making Study ミュージッククリップ編", "StylipS", 0],
     [4, "Making Study フォトセッション編", "StylipS", 0],
 ]
@@ -118,7 +118,7 @@ tracks = [
     [24, "意思", "中西亮輔", 0],
     [25, "決戦", "中西亮輔", 0],
     [26, "Trip -innocent of D- (TVサイズ)", "Larval Stage Planning", 0],
-    [27, "STUDY×STUDY (TVサイズ)", "StylipS", 0],
+    [27, "STUDY×STUDY (TVサイズ)", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cc2c8e11-74d0-4561-8577-78c283c7d100", "https://vgmdb.net/album/31222"]
 
@@ -127,11 +127,11 @@ catalognumber = "LACA-15206"
 date = "2012-06-27"
 album = "TVアニメ「ハイスクールD×D」キャラソンミニアルバム G×S!"
 tracks = [
-    [1, "クリムゾンの微熱", "リアス・グレモリー (cv. 日笠陽子)", 0],
-    [2, "黒髪BEGIN-TALE", "姫島朱乃 (cv. 伊藤静)", 0],
-    [3, "限りなく純粋に近い堕天～Fall Down～", "アーシア・アルジェント (cv. 浅倉杏美)", 0],
-    [4, "情熱☆アンバランス", "塔城小猫 (cv. 竹達彩奈)", 0],
-    [5, "STUDY×STUDY （G×Sバージョン）", "オカルト研究部ガールズ (cv. 日笠陽子, 伊藤静, 浅倉杏美 & 竹達彩奈)", 0],
+    [1, "クリムゾンの微熱", "リアス・グレモリー (cv. 日笠陽子)", 1],
+    [2, "黒髪BEGIN-TALE", "姫島朱乃 (cv. 伊藤静)", 1],
+    [3, "限りなく純粋に近い堕天～Fall Down～", "アーシア・アルジェント (cv. 浅倉杏美)", 1],
+    [4, "情熱☆アンバランス", "塔城小猫 (cv. 竹達彩奈)", 1],
+    [5, "STUDY×STUDY （G×Sバージョン）", "オカルト研究部ガールズ (cv. 日笠陽子, 伊藤静, 浅倉杏美 & 竹達彩奈)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/25c10532-bbac-4c32-9662-0e9b5aa0829f", "https://vgmdb.net/album/113338"]
 
@@ -140,16 +140,16 @@ catalognumber = "LACA-35267"
 date = "2013-01-09"
 album = "StylipS Anniversary Disc Step One!! [初回限定盤] Disc 1 (CD) [LACA-35267]"
 tracks = [
-    [1, "STUDY×STUDY (Lesson 3 in wonderland)", "StylipS", 0],
+    [1, "STUDY×STUDY (Lesson 3 in wonderland)", "StylipS", 1],
     [2, "Honey Groove (Shy & Chic Rock)", "StylipS", 0],
     [3, "ベイビィKISS☆", "StylipS feat. 石原夏織", 0],
     [4, "初恋EVOLUTION", "StylipS feat. 能登有沙", 0],
     [5, "Can you choose me? (instrumental)", "StylipS", 0],
     [6, "Choose me♡ダーリン (Under the mirrorball)", "StylipS", 0],
     [7, "MIRACLE RUSH", "StylipS feat. 小倉唯", 0],
-    [8, "セーシュンプラン! (Party Style)", "StylipS", 0],
+    [8, "セーシュンプラン! (Party Style)", "StylipS", 1],
     [9, "Fragile Crazy", "StylipS feat. 松永真穂", 0],
-    [10, "Brand-new Style!! ～魔法みたいなShow time～ (Happy diver)", "StylipS", 0],
+    [10, "Brand-new Style!! ～魔法みたいなShow time～ (Happy diver)", "StylipS", 1],
     [11, "TSU・BA・SA", "StylipS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/aa40c803-bd90-45c5-b99e-728c3f999353", "https://vgmdb.net/album/36678"]
@@ -167,11 +167,11 @@ tracks = [
     [6, "Honey Groove", "StylipS", 0],
     [7, "MC 〜例のアレを持って来てくれたまえ", "StylipS", 0],
     [8, "初恋EVOLUTION", "StylipS", 0],
-    [9, "Brand-new Style!! 〜魔法みたいなShow time", "StylipS", 0],
+    [9, "Brand-new Style!! 〜魔法みたいなShow time", "StylipS", 1],
     [10, "MC 〜まだまだいけますか?", "StylipS", 0],
-    [11, "STUDY×STUDY", "StylipS", 0],
+    [11, "STUDY×STUDY", "StylipS", 1],
     [12, "MC 〜想いのたけを言っちゃおうかな", "StylipS", 0],
-    [13, "セーシュンプラン!", "StylipS", 0],
+    [13, "セーシュンプラン!", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/aa40c803-bd90-45c5-b99e-728c3f999353", "https://vgmdb.net/album/36678"]
 
@@ -180,16 +180,16 @@ catalognumber = "LACA-15267"
 date = "2013-01-09"
 album = "StylipS Anniversary Disc Step One!! Disc 1 (CD) [LACA-15267]"
 tracks = [
-    [1, "STUDY×STUDY (Lesson 3 in wonderland)", "StylipS", 0],
+    [1, "STUDY×STUDY (Lesson 3 in wonderland)", "StylipS", 1],
     [2, "Honey Groove (Shy & Chic Rock)", "StylipS", 0],
     [3, "ベイビィKISS☆", "StylipS feat. 石原夏織", 0],
     [4, "初恋EVOLUTION", "StylipS feat. 能登有沙", 0],
     [5, "Can you choose me? (instrumental)", "StylipS", 0],
     [6, "Choose me♡ダーリン (Under the mirrorball)", "StylipS", 0],
     [7, "MIRACLE RUSH", "StylipS feat. 小倉唯", 0],
-    [8, "セーシュンプラン! (Party Style)", "StylipS", 0],
+    [8, "セーシュンプラン! (Party Style)", "StylipS", 1],
     [9, "Fragile Crazy", "StylipS feat. 松永真穂", 0],
-    [10, "Brand-new Style!! ～魔法みたいなShow time～ (Happy diver)", "StylipS", 0],
+    [10, "Brand-new Style!! ～魔法みたいなShow time～ (Happy diver)", "StylipS", 1],
     [11, "TSU・BA・SA", "StylipS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/577bc2e7-1592-4446-9d72-f62aecba3a45", "https://vgmdb.net/album/37283"]
@@ -207,11 +207,11 @@ tracks = [
     [6, "Honey Groove", "StylipS", 0],
     [7, "MC 〜例のアレを持って来てくれたまえ", "StylipS", 0],
     [8, "初恋EVOLUTION", "StylipS", 0],
-    [9, "Brand-new Style!! 〜魔法みたいなShow time", "StylipS", 0],
+    [9, "Brand-new Style!! 〜魔法みたいなShow time", "StylipS", 1],
     [10, "MC 〜まだまだいけますか?", "StylipS", 0],
-    [11, "STUDY×STUDY", "StylipS", 0],
+    [11, "STUDY×STUDY", "StylipS", 1],
     [12, "MC 〜想いのたけを言っちゃおうかな", "StylipS", 0],
-    [13, "セーシュンプラン!", "StylipS", 0],
+    [13, "セーシュンプラン!", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/577bc2e7-1592-4446-9d72-f62aecba3a45", "https://vgmdb.net/album/37283"]
 
@@ -221,9 +221,9 @@ date = "2013-04-24"
 album = "THE LIGHTNING CELEBRATION / StylipS [初回限定盤A] Vocal Disc 1"
 tracks = [
     [1, "THE LIGHTNING CELEBRATION (inst.)", "StylipS", 0],
-    [2, "STUDY×STUDY", "StylipS", 0],
+    [2, "STUDY×STUDY", "StylipS", 1],
     [3, "ベイビィKISS☆", "StylipS", 0],
-    [4, "セーシュンプラン！", "StylipS", 0],
+    [4, "セーシュンプラン！", "StylipS", 1],
     [5, "Blue Moon Dream", "能登有沙", 0],
     [6, "Fragile Crazy (Romance edit.)", "StylipS", 0],
     [7, "Honey Groove", "StylipS", 0],
@@ -232,7 +232,7 @@ tracks = [
     [10, "初恋EVOLUTION", "StylipS", 0],
     [11, "Choose me♡ダーリン", "StylipS", 0],
     [12, "わがままバディー", "能登有沙", 0],
-    [13, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 0],
+    [13, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3cde3971-72ff-4314-a3c8-fcb405483b5c", "https://vgmdb.net/album/88338"]
 
@@ -241,17 +241,17 @@ catalognumber = "LACA-35294"
 date = "2013-04-24"
 album = "THE LIGHTNING CELEBRATION / StylipS [初回限定盤A] Vocal Disc 2"
 tracks = [
-    [1, "STUDY×STUDY (Lesson3 in Wonderland)", "小倉唯", 0],
+    [1, "STUDY×STUDY (Lesson3 in Wonderland)", "小倉唯", 1],
     [2, "初恋EVOLUTION", "松永真穂", 0],
     [3, "TSU・BA・SA", "石原夏織", 0],
     [4, "MIRACLE RUSH", "能登有沙", 0],
     [5, "Honey Groove (Shy & Chic Rock)", "松永真穂", 0],
     [6, "Choose me♡ダーリン", "小倉唯 & 石原夏織", 0],
     [7, "ベイビィKISS☆", "能登有沙", 0],
-    [8, "Brand-new Style!! ～魔法みたいなShow time～", "石原夏織", 0],
+    [8, "Brand-new Style!! ～魔法みたいなShow time～", "石原夏織", 1],
     [9, "MIRACLE RUSH", "石原夏織", 0],
     [10, "Fragile Crazy", "小倉唯", 0],
-    [11, "Brand-new Style!! ～魔法みたいなShow time～ (HAPPY DIVER)", "松永真穂", 0],
+    [11, "Brand-new Style!! ～魔法みたいなShow time～ (HAPPY DIVER)", "松永真穂", 1],
     [12, "Choose me♡ダーリン (Under the mirrorball)", "能登有沙 & 松永真穂", 0],
     [13, "ベイビィKISS☆", "小倉唯", 0],
     [14, "TSU・BA・SA", "能登有沙", 0],
@@ -263,17 +263,17 @@ catalognumber = "LACA-35294"
 date = "2013-04-24"
 album = "THE LIGHTNING CELEBRATION / StylipS [初回限定盤A] Video"
 tracks = [
-    [1, "STUDY×STUDY", "StylipS", 0],
+    [1, "STUDY×STUDY", "StylipS", 1],
     [2, "MIRACLE RUSH", "StylipS", 0],
     [3, "Choose me♡ダーリン", "StylipS", 0],
-    [4, "STUDY×STUDY (DANCE STYLE)", "StylipS", 0],
+    [4, "STUDY×STUDY (DANCE STYLE)", "StylipS", 1],
     [5, "MIRACLE RUSH (DANCE STYLE)", "StylipS", 0],
     [6, "Choose me♡ダーリン (DANCE STYLE)", "StylipS", 0],
     [7, "LESSON STYLE: STUDY×STUDY篇", "StylipS", 0],
     [8, "LESSON STYLE: MIRACLE RUSH篇", "StylipS", 0],
     [9, "LESSON STYLE: Choose me♡ダーリン篇", "StylipS", 0],
     [10, "LESSON STYLE: Break time", "StylipS", 0],
-    [11, "STUDY×STUDY メイキング映像", "StylipS", 0],
+    [11, "STUDY×STUDY メイキング映像", "StylipS", 1],
     [12, "MIRACLE RUSH メイキング映像", "StylipS", 0],
     [13, "Choose me♡ダーリン メイキング映像", "StylipS", 0],
     [14, "CM STYLE: STUDY×STUDY", "StylipS", 0],
@@ -293,9 +293,9 @@ date = "2013-04-24"
 album = "THE LIGHTNING CELEBRATION / StylipS"
 tracks = [
     [1, "THE LIGHTNING CELEBRATION (inst.)", "StylipS", 0],
-    [2, "STUDY×STUDY", "StylipS", 0],
+    [2, "STUDY×STUDY", "StylipS", 1],
     [3, "ベイビィKISS☆", "StylipS", 0],
-    [4, "セーシュンプラン！", "StylipS", 0],
+    [4, "セーシュンプラン！", "StylipS", 1],
     [5, "Blue Moon Dream", "能登有沙", 0],
     [6, "Fragile Crazy (Romance edit.)", "StylipS", 0],
     [7, "Honey Groove", "StylipS", 0],
@@ -304,7 +304,7 @@ tracks = [
     [10, "初恋EVOLUTION", "StylipS", 0],
     [11, "Choose me♡ダーリン", "StylipS", 0],
     [12, "わがままバディー", "能登有沙", 0],
-    [13, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 0],
+    [13, "Brand-new Style!! ～魔法みたいなShow time～", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3228296c-28b6-4a37-8dbe-2ae062154dd3", "https://vgmdb.net/album/67858"]
 
@@ -325,10 +325,10 @@ catalognumber = "LACM-34131"
 date = "2013-08-21"
 album = "激情論 / ZAQ Disc 1 (CD)"
 tracks = [
-    [1, "激情論", "ZAQ", 0],
-    [2, "独夜論 -hitoyagoto-", "ZAQ", 0],
-    [3, "Shout to the top", "ZAQ", 0],
-    [4, "激情論 (Off Vocal)", "ZAQ", 0],
+    [1, "激情論", "ZAQ", 1],
+    [2, "独夜論 -hitoyagoto-", "ZAQ", 1],
+    [3, "Shout to the top", "ZAQ", 1],
+    [4, "激情論 (Off Vocal)", "ZAQ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/51ef8a6a-6f6b-4ae5-aa5f-0d6143f957e9", "https://vgmdb.net/album/40072"]
 
@@ -337,7 +337,7 @@ catalognumber = "LACM-34131"
 date = "2013-08-21"
 album = "激情論 / ZAQ Disc 2 (DVD)"
 tracks = [
-    [1, "激情論 Music Video", "ZAQ", 0],
+    [1, "激情論 Music Video", "ZAQ", 1],
     [2, "Making of 激情論 Music Video -BLACK SIDE-", "ZAQ", 0],
     [3, "Making of 激情論 Music Video -WHITE SIDE-", "ZAQ", 0],
 ]
@@ -348,10 +348,10 @@ catalognumber = "LACM-14131"
 date = "2013-08-21"
 album = "激情論 / ZAQ"
 tracks = [
-    [1, "激情論", "ZAQ", 0],
-    [2, "独夜論 -hitoyagoto-", "ZAQ", 0],
-    [3, "Shout to the top", "ZAQ", 0],
-    [4, "激情論 (Off Vocal)", "ZAQ", 0],
+    [1, "激情論", "ZAQ", 1],
+    [2, "独夜論 -hitoyagoto-", "ZAQ", 1],
+    [3, "Shout to the top", "ZAQ", 1],
+    [4, "激情論 (Off Vocal)", "ZAQ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c4bcf99c-6f87-412d-bb91-1c2e832bcae5", "https://vgmdb.net/album/40042"]
 
@@ -360,12 +360,12 @@ catalognumber = "LACA-15335"
 date = "2013-08-28"
 album = "TVアニメ『ハイスクールD×D　NEW』エンディングキャラソンアルバム！ / オカルト研究部ガールズ"
 tracks = [
-    [1, "方程式は答えない", "オカルト研究部ガールズ", 0],
-    [2, "らぶりぃ♡でびる", "オカルト研究部ガールズ", 0],
-    [3, "((W))hole NEW ((W))orld!!", "リアス・グレモリー(日笠陽子)＆姫島朱乃(伊藤 静)", 0],
-    [4, "デイズ・キュート ハート・フリップ", "アーシア・アルジェント(浅倉杏美)＆塔城小猫(竹達彩奈)", 0],
-    [5, "祈りは剣、変わらぬは誓い", "ゼノヴィア(種田梨沙)", 0],
-    [6, "動き出した時間の中で", "ギャスパー・ヴラディ(佐倉綾音)", 0],
+    [1, "方程式は答えない", "オカルト研究部ガールズ", 1],
+    [2, "らぶりぃ♡でびる", "オカルト研究部ガールズ", 1],
+    [3, "((W))hole NEW ((W))orld!!", "リアス・グレモリー(日笠陽子)＆姫島朱乃(伊藤 静)", 1],
+    [4, "デイズ・キュート ハート・フリップ", "アーシア・アルジェント(浅倉杏美)＆塔城小猫(竹達彩奈)", 1],
+    [5, "祈りは剣、変わらぬは誓い", "ゼノヴィア(種田梨沙)", 1],
+    [6, "動き出した時間の中で", "ギャスパー・ヴラディ(佐倉綾音)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/23991518-f642-41c3-9949-41c976215f5f", "https://vgmdb.net/album/40043"]
 
@@ -397,9 +397,9 @@ tracks = [
     [21, "Dの意志", "中西亮輔", 0],
     [22, "贖罪の聖歌", "中西亮輔", 0],
     [23, "Sympathy (TV Size)", "Larval Stage Planning", 0],
-    [24, "激情論 (TV Size)", "ZAQ", 0],
-    [25, "方程式は答えない (TV Size)", "オカルト研究部ガールズ", 0],
-    [26, "らぶりぃ♡でびる (TV Size)", "オカルト研究部ガールズ", 0],
+    [24, "激情論 (TV Size)", "ZAQ", 1],
+    [25, "方程式は答えない (TV Size)", "オカルト研究部ガールズ", 1],
+    [26, "らぶりぃ♡でびる (TV Size)", "オカルト研究部ガールズ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/06134d90-a561-4591-8fbb-f8b9be785641", "https://vgmdb.net/album/40418"]
 
@@ -464,7 +464,7 @@ tracks = [
     [3, "Sparkling Daydream", "ZAQ", 0],
     [4, "VOICE", "ZAQ", 0],
     [5, "hypnotize", "ZAQ", 0],
-    [6, "激情論", "ZAQ", 0],
+    [6, "激情論", "ZAQ", 1],
     [7, "ない", "ZAQ", 0],
     [8, "自由という理由", "ZAQ", 0],
     [9, "Play the ray", "ZAQ", 0],
@@ -485,7 +485,7 @@ tracks = [
     [3, "Sparkling Daydream", "ZAQ", 0],
     [4, "VOICE", "ZAQ", 0],
     [5, "hypnotize", "ZAQ", 0],
-    [6, "激情論", "ZAQ", 0],
+    [6, "激情論", "ZAQ", 1],
     [7, "ない", "ZAQ", 0],
     [8, "自由という理由", "ZAQ", 0],
     [9, "Play the ray", "ZAQ", 0],
@@ -511,10 +511,10 @@ catalognumber = "LACM-14333"
 date = "2015-04-15"
 album = "BLESS YoUr NAME / ChouCho"
 tracks = [
-    [1, "BLESS YoUr NAME", "ChouCho", 0],
-    [2, "Hello,Hello,Hello", "ChouCho", 0],
-    [3, "BLESS YoUr NAME (off vocal)", "ChouCho", 0],
-    [4, "Hello,Hello,Hello (off vocal)", "ChouCho", 0],
+    [1, "BLESS YoUr NAME", "ChouCho", 1],
+    [2, "Hello,Hello,Hello", "ChouCho", 1],
+    [3, "BLESS YoUr NAME (off vocal)", "ChouCho", 1],
+    [4, "Hello,Hello,Hello (off vocal)", "ChouCho", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fa71848d-1d28-4446-bba4-6943406732c7", "https://vgmdb.net/album/50436"]
 
@@ -523,10 +523,10 @@ catalognumber = "LACM-14349"
 date = "2015-05-27"
 album = "ギブミー・シークレット / StylipS"
 tracks = [
-    [1, "ギブミー・シークレット", "StylipS", 0],
-    [2, "destiny", "TEAM B・A・K・A", 0],
-    [3, "ギブミー・シークレット (inst.)", "StylipS", 0],
-    [4, "destiny (inst.)", "TEAM B・A・K・A", 0],
+    [1, "ギブミー・シークレット", "StylipS", 1],
+    [2, "destiny", "TEAM B・A・K・A", 1],
+    [3, "ギブミー・シークレット (inst.)", "StylipS", 1],
+    [4, "destiny (inst.)", "TEAM B・A・K・A", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0697f56d-bd92-416e-9df3-02da1fb2fb17", "https://vgmdb.net/album/51584"]
 
@@ -535,10 +535,10 @@ catalognumber = "LACM-34349"
 date = "2015-05-27"
 album = "ギブミー・シークレット / StylipS [初回限定盤] Vocal"
 tracks = [
-    [1, "ギブミー・シークレット", "StylipS", 0],
-    [2, "destiny", "TEAM B・A・K・A", 0],
-    [3, "ギブミー・シークレット (inst.)", "StylipS", 0],
-    [4, "destiny (inst.)", "TEAM B・A・K・A", 0],
+    [1, "ギブミー・シークレット", "StylipS", 1],
+    [2, "destiny", "TEAM B・A・K・A", 1],
+    [3, "ギブミー・シークレット (inst.)", "StylipS", 1],
+    [4, "destiny (inst.)", "TEAM B・A・K・A", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9b74655c-870a-42a9-9c79-c03331655506", "https://vgmdb.net/album/51585"]
 
@@ -547,8 +547,8 @@ catalognumber = "LACM-34349"
 date = "2015-05-27"
 album = "ギブミー・シークレット / StylipS [初回限定盤] Video"
 tracks = [
-    [1, "ギブミー・シークレット (MUSIC VIDEO)", "StylipS", 0],
-    [2, "ギブミー・シークレット (メイキング映像) (MAKING STYLE)", "StylipS", 0],
+    [1, "ギブミー・シークレット (MUSIC VIDEO)", "StylipS", 1],
+    [2, "ギブミー・シークレット (メイキング映像) (MAKING STYLE)", "StylipS", 1],
     [3, "ARISA STYLE (CM STYLE)", "StylipS", 0],
     [4, "MAHO STYLE (CM STYLE)", "StylipS", 0],
     [5, "MIKU STYLE (CM STYLE)", "StylipS", 0],
@@ -562,44 +562,44 @@ catalognumber = "LACA-15494"
 date = "2015-07-01"
 album = "TVアニメ『ハイスクールD×D BorN』オリジナルサウンドトラック"
 tracks = [
-    [1, "おっぱいドラゴンの歌", "兵藤一誠(CV.梶裕貴)", 0],
-    [2, "いつもの日常", "中西亮輔", 0],
-    [3, "宴と色気", "中西亮輔", 0],
-    [4, "愉悦", "中西亮輔", 0],
-    [5, "新たな世界", "中西亮輔", 0],
-    [6, "至高の誘惑", "中西亮輔", 0],
-    [7, "玄関のブザー", "中西亮輔", 0],
-    [8, "深淵の思考", "中西亮輔", 0],
-    [9, "不穏な囁き", "中西亮輔", 0],
-    [10, "進む者達", "中西亮輔", 0],
-    [11, "想い、それぞれ", "中西亮輔", 0],
-    [12, "あの日の想い", "中西亮輔", 0],
-    [13, "それでも前へ", "中西亮輔", 0],
-    [14, "高みへ", "中西亮輔", 0],
-    [15, "漆黒の鼓動", "中西亮輔", 0],
-    [16, "負けられない戦い", "中西亮輔", 0],
-    [17, "混沌の戦場", "中西亮輔", 0],
-    [18, "ここからが本番", "中西亮輔", 0],
-    [19, "神々", "中西亮輔", 0],
-    [20, "進撃", "中西亮輔", 0],
-    [21, "暗雲", "中西亮輔", 0],
-    [22, "決断", "中西亮輔", 0],
-    [23, "画策", "中西亮輔", 0],
-    [24, "再び", "中西亮輔", 0],
-    [25, "運命", "中西亮輔", 0],
-    [26, "一手", "中西亮輔", 0],
-    [27, "熾烈", "中西亮輔", 0],
-    [28, "先制", "中西亮輔", 0],
-    [29, "絶望", "中西亮輔", 0],
-    [30, "仲間", "中西亮輔", 0],
-    [31, "そして…", "中西亮輔", 0],
-    [32, "勝利", "中西亮輔", 0],
-    [33, "BLESS YoUr NAME(ピアノアレンジver)", "倉内達矢", 0],
-    [34, "ギブミー・シークレット(ピアノアレンジver)", "宮崎まゆ", 0],
-    [35, "アイキャッチA", "中西亮輔", 0],
-    [36, "アイキャッチB", "中西亮輔", 0],
-    [37, "BLESS YoUr NAME(TVsize)", "ChouCho", 0],
-    [38, "ギブミー・シークレット(TVsize)", "StylipS", 0],
+    [1, "おっぱいドラゴンの歌", "兵藤一誠(CV.梶裕貴)", 1],
+    [2, "いつもの日常", "中西亮輔", 1],
+    [3, "宴と色気", "中西亮輔", 1],
+    [4, "愉悦", "中西亮輔", 1],
+    [5, "新たな世界", "中西亮輔", 1],
+    [6, "至高の誘惑", "中西亮輔", 1],
+    [7, "玄関のブザー", "中西亮輔", 1],
+    [8, "深淵の思考", "中西亮輔", 1],
+    [9, "不穏な囁き", "中西亮輔", 1],
+    [10, "進む者達", "中西亮輔", 1],
+    [11, "想い、それぞれ", "中西亮輔", 1],
+    [12, "あの日の想い", "中西亮輔", 1],
+    [13, "それでも前へ", "中西亮輔", 1],
+    [14, "高みへ", "中西亮輔", 1],
+    [15, "漆黒の鼓動", "中西亮輔", 1],
+    [16, "負けられない戦い", "中西亮輔", 1],
+    [17, "混沌の戦場", "中西亮輔", 1],
+    [18, "ここからが本番", "中西亮輔", 1],
+    [19, "神々", "中西亮輔", 1],
+    [20, "進撃", "中西亮輔", 1],
+    [21, "暗雲", "中西亮輔", 1],
+    [22, "決断", "中西亮輔", 1],
+    [23, "画策", "中西亮輔", 1],
+    [24, "再び", "中西亮輔", 1],
+    [25, "運命", "中西亮輔", 1],
+    [26, "一手", "中西亮輔", 1],
+    [27, "熾烈", "中西亮輔", 1],
+    [28, "先制", "中西亮輔", 1],
+    [29, "絶望", "中西亮輔", 1],
+    [30, "仲間", "中西亮輔", 1],
+    [31, "そして…", "中西亮輔", 1],
+    [32, "勝利", "中西亮輔", 1],
+    [33, "BLESS YoUr NAME(ピアノアレンジver)", "倉内達矢", 1],
+    [34, "ギブミー・シークレット(ピアノアレンジver)", "宮崎まゆ", 1],
+    [35, "アイキャッチA", "中西亮輔", 1],
+    [36, "アイキャッチB", "中西亮輔", 1],
+    [37, "BLESS YoUr NAME(TVsize)", "ChouCho", 1],
+    [38, "ギブミー・シークレット(TVsize)", "StylipS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ec65facf-6644-4bbe-a298-c2c40f741279", "https://vgmdb.net/album/52162"]
 
@@ -608,7 +608,7 @@ catalognumber = "ZMXZ-10071-CD"
 date = "2015-07-24"
 album = "ハイスクールD×D BorN 第1巻 スペシャルドラマCD"
 tracks = [
-    [1, "聖☆おじょうさん聖地へ 前篇", "", 0],
+    [1, "聖☆おじょうさん聖地へ 前篇", "", 1],
 ]
 links = ["https://vgmdb.net/album/54859"]
 
@@ -617,111 +617,9 @@ catalognumber = "ZMXZ-10072-CD"
 date = "2015-08-26"
 album = "ハイスクールD×D BorN 第2巻 スペシャルドラマCD"
 tracks = [
-    [1, "聖☆おじょうさん聖地へ 後篇", "", 0],
+    [1, "聖☆おじょうさん聖地へ 後篇", "", 1],
 ]
 links = ["https://vgmdb.net/album/54860"]
-
-[3683f0c5b0cdc8acf375a64787d0a083]
-catalognumber = "LACA-15565~6"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" Disc 1 [LACA-15565]"
-tracks = [
-    [1, "bouquet", "ChouCho", 0],
-    [2, "カワルミライ", "ちょうちょ", 0],
-    [3, "Authentic symphony", "ちょうちょ", 0],
-    [4, "ハルモニア", "ChouCho", 0],
-    [5, "Million of Bravery", "ChouCho", 0],
-    [6, "優しさの理由", "ChouCho", 0],
-    [7, "DreamRiser", "ChouCho", 0],
-    [8, "空とキミのメッセージ", "ChouCho", 0],
-    [9, "starlog", "ChouCho", 0],
-    [10, "光", "ChouCho", 0],
-    [11, "kagami", "ChouCho", 0],
-    [12, "あの空に還る未来で", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58136"]
-
-[eed9eb71fd2ae5fe730b092a00bce02c]
-catalognumber = "LACA-15565~6"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" Disc 2 [LACA-15566]"
-tracks = [
-    [1, "夏の日と君の声", "ChouCho", 0],
-    [2, "ルーセントアイズ", "ChouCho", 0],
-    [3, "君へ贈る魔法", "ChouCho", 0],
-    [4, "Starting up", "ChouCho", 0],
-    [5, "大切な宝物", "ChouCho", 0],
-    [6, "BLESS YoUr NAME", "ChouCho", 0],
-    [7, "Hello, Hello, Hello", "ChouCho", 0],
-    [8, "piece of youth", "ChouCho", 0],
-    [9, "GloryStory", "ChouCho", 0],
-    [10, "空想トライアングル", "ChouCho", 0],
-    [11, "眠れる本能", "ChouCho", 0],
-    [12, "希望の絆 ~ChouCho solo ver.~", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58136"]
-
-[ba0ea592335354cf1d15786717659878]
-catalognumber = "LACA-35565~6"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 1 (CD) [LACA-35565]"
-tracks = [
-    [1, "bouquet", "ChouCho", 0],
-    [2, "カワルミライ", "ちょうちょ", 0],
-    [3, "Authentic symphony", "ちょうちょ", 0],
-    [4, "ハルモニア", "ChouCho", 0],
-    [5, "Million of Bravery", "ChouCho", 0],
-    [6, "優しさの理由", "ChouCho", 0],
-    [7, "DreamRiser", "ChouCho", 0],
-    [8, "空とキミのメッセージ", "ChouCho", 0],
-    [9, "starlog", "ChouCho", 0],
-    [10, "光", "ChouCho", 0],
-    [11, "kagami", "ChouCho", 0],
-    [12, "あの空に還る未来で", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
-
-[66671b9aa1858e00d1d2c62d46276066]
-catalognumber = "LACA-35565~6"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 2 (CD) [LACA-35566]"
-tracks = [
-    [1, "夏の日と君の声", "ChouCho", 0],
-    [2, "ルーセントアイズ", "ChouCho", 0],
-    [3, "君へ贈る魔法", "ChouCho", 0],
-    [4, "Starting up", "ChouCho", 0],
-    [5, "大切な宝物", "ChouCho", 0],
-    [6, "BLESS YoUr NAME", "ChouCho", 0],
-    [7, "Hello, Hello, Hello", "ChouCho", 0],
-    [8, "piece of youth", "ChouCho", 0],
-    [9, "GloryStory", "ChouCho", 0],
-    [10, "空想トライアングル", "ChouCho", 0],
-    [11, "眠れる本能", "ChouCho", 0],
-    [12, "希望の絆 ~ChouCho solo ver.~", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/9cf40808-77ec-483a-a654-4b6e8c09f091", "https://vgmdb.net/album/58137"]
-
-[809af6d961ad8ba63fcafe839ebcea48]
-catalognumber = "LACA-35565~6"
-date = "2016-05-25"
-album = "ChouCho ColleCtion \"bouquet\" [Limited Edition] Disc 3 (Blu-ray) [LAPD-1398]"
-tracks = [
-    [1, "bouquet", "", 0],
-    [2, "カワルミライ", "", 0],
-    [3, "Authentic symphony", "", 0],
-    [4, "優しさの理由", "", 0],
-    [5, "flyleaf", "", 0],
-    [6, "DreamRiser", "", 0],
-    [7, "空とキミのメッセージ", "", 0],
-    [8, "starlog", "", 0],
-    [9, "secretgarden", "", 0],
-    [10, "あの空に還る未来で", "", 0],
-    [11, "夏の日と君の声", "", 0],
-    [12, "BLESS YoUr NAME", "", 0],
-    [13, "piece of youth", "", 0],
-    [14, "空想トライアングル", "", 0],
-]
-links = ["https://vgmdb.net/album/58137"]
 
 [64b9eae1aed19c9aaadb0047a3cefc3e]
 catalognumber = "LACM-14745"
@@ -761,12 +659,12 @@ catalognumber = "LACM-14749"
 date = "2018-05-09"
 album = "モテないくせに(｀；ω；´) / たぴみる"
 tracks = [
-    [1, "モテないくせに(｀；ω；´)", "たぴみる", 0],
-    [2, "好きなもの、好きなこと", "たぴみる", 0],
-    [3, "ロンリーコール", "たぴみる", 0],
-    [4, "モテないくせに(｀；ω；´) (Instrumental)", "たぴみる", 0],
-    [5, "好きなもの、好きなこと (Instrumental)", "たぴみる", 0],
-    [6, "ロンリーコール (Instrumental)", "たぴみる", 0],
+    [1, "モテないくせに(｀；ω；´)", "たぴみる", 1],
+    [2, "好きなもの、好きなこと", "たぴみる", 1],
+    [3, "ロンリーコール", "たぴみる", 1],
+    [4, "モテないくせに(｀；ω；´) (Instrumental)", "たぴみる", 1],
+    [5, "好きなもの、好きなこと (Instrumental)", "たぴみる", 1],
+    [6, "ロンリーコール (Instrumental)", "たぴみる", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8580edbb-01fe-4d53-947f-28be8d856c20", "https://vgmdb.net/album/75122"]
 
@@ -808,9 +706,9 @@ tracks = [
     [31, "アイキャッチA", "中西亮輔", 0],
     [32, "アイキャッチB", "中西亮輔", 0],
     [33, "SWITCH (ピアノアレンジ ver.)", "中西亮輔", 0],
-    [34, "モテないくせに(`;ω;´) (ピアノアレンジ ver.)", "中西亮輔", 0],
+    [34, "モテないくせに(`;ω;´) (ピアノアレンジ ver.)", "中西亮輔", 1],
     [35, "SWITCH (TV Size)", "Minami", 0],
-    [36, "モテないくせに(`;ω;´) (TV Size)", "たぴみる", 0],
+    [36, "モテないくせに(`;ω;´) (TV Size)", "たぴみる", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2ee18b67-046a-41ec-907b-948a45e36f60", "https://vgmdb.net/album/78888"]
 
@@ -858,107 +756,13 @@ tracks = [
     [3, "発見者はワタシ", "たぴみる", 0],
     [4, "不自然なハミング", "たぴみる", 0],
     [5, "アニメヲタクで何が悪い", "たぴみる", 0],
-    [6, "ロンリーコール", "たぴみる", 0],
+    [6, "ロンリーコール", "たぴみる", 1],
     [7, "心情コンプレックス", "たぴみる", 0],
     [8, "タイムマシン", "たぴみる", 0],
-    [9, "モテないくせに(｀；ω；´)", "たぴみる", 0],
+    [9, "モテないくせに(｀；ω；´)", "たぴみる", 1],
     [10, "ランナーズクライ", "たぴみる", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/87406083-d81d-498d-8b8a-af04686c6836", "https://vgmdb.net/album/81415"]
-
-[222d18db3e809cedd0b2466fac21cb46]
-catalognumber = "LACA-39862~3"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal Disc 1"
-tracks = [
-    [1, "Aurorise", "ChouCho", 0],
-    [2, "優しさの理由", "ChouCho", 0],
-    [3, "Here comes The SUN", "ChouCho", 0],
-    [4, "Elemental World", "ChouCho", 0],
-    [5, "Authentic symphony", "ちょうちょ", 0],
-    [6, "風のソルフェ", "ChouCho", 0],
-    [7, "明日の君さえいればいい。", "ChouCho", 0],
-    [8, "夏の日と君の声", "ChouCho", 0],
-    [9, "ハルモニア", "ChouCho", 0],
-    [10, "フロンティア", "ChouCho", 0],
-    [11, "DreamRiser", "ChouCho", 0],
-    [12, "なないろのたね", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/6cb03127-d258-4361-b56f-c9741eb8dee2", "https://vgmdb.net/album/113410"]
-
-[1be5429c8cbdf5ab3c76114cee2d9186]
-catalognumber = "LACA-39862~3"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal Disc 2"
-tracks = [
-    [1, "kaleidoscope", "ChouCho", 0],
-    [2, "BLESS YoUr NAME", "ChouCho", 0],
-    [3, "灰色のサーガ", "ChouCho", 0],
-    [4, "オレンジ色", "ChouCho", 0],
-    [5, "空想トライアングル", "ChouCho", 0],
-    [6, "Asterism", "ChouCho", 0],
-    [7, "空とキミのメッセージ", "ChouCho", 0],
-    [8, "あの空に還る未来で", "ChouCho", 0],
-    [9, "薄紅の月", "ChouCho", 0],
-    [10, "starlog", "ChouCho", 0],
-    [11, "カワルミライ", "ちょうちょ", 0],
-    [12, "piece of youth", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113410"]
-
-[9d91ecf229f6b90ae3eed71ed2ea6588]
-catalognumber = "LACA-39862~3"
-date = "2021-12-08"
-album = "ChouCho the BEST [初回限定盤] Vocal, Video"
-tracks = [
-    [1, "DreamRiser", "", 0],
-    [2, "kaleidoscope", "", 0],
-    [3, "灰色のサーガ", "", 0],
-    [4, "なないろのたね", "", 0],
-    [5, "優しさの理由", "", 0],
-    [6, "カワルミライ", "", 0],
-]
-links = ["https://vgmdb.net/album/113410"]
-
-[8188be75f23ae7b8fda1db726f25ca9e]
-catalognumber = "LACA-9862~3"
-date = "2021-12-08"
-album = "ChouCho the BEST Vocal Disc 1"
-tracks = [
-    [1, "Aurorise", "ChouCho", 0],
-    [2, "優しさの理由", "ChouCho", 0],
-    [3, "Here comes The SUN", "ChouCho", 0],
-    [4, "Elemental World", "ChouCho", 0],
-    [5, "Authentic symphony", "ちょうちょ", 0],
-    [6, "風のソルフェ", "ChouCho", 0],
-    [7, "明日の君さえいればいい。", "ChouCho", 0],
-    [8, "夏の日と君の声", "ChouCho", 0],
-    [9, "ハルモニア", "ChouCho", 0],
-    [10, "フロンティア", "ChouCho", 0],
-    [11, "DreamRiser", "ChouCho", 0],
-    [12, "なないろのたね", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113409"]
-
-[a06e45659cbb5339a1afe9332e826d5d]
-catalognumber = "LACA-9862~3"
-date = "2021-12-08"
-album = "ChouCho the BEST Vocal Disc 2"
-tracks = [
-    [1, "kaleidoscope", "ChouCho", 0],
-    [2, "BLESS YoUr NAME", "ChouCho", 0],
-    [3, "灰色のサーガ", "ChouCho", 0],
-    [4, "オレンジ色", "ChouCho", 0],
-    [5, "空想トライアングル", "ChouCho", 0],
-    [6, "Asterism", "ChouCho", 0],
-    [7, "空とキミのメッセージ", "ChouCho", 0],
-    [8, "あの空に還る未来で", "ChouCho", 0],
-    [9, "薄紅の月", "ChouCho", 0],
-    [10, "starlog", "ChouCho", 0],
-    [11, "カワルミライ", "ちょうちょ", 0],
-    [12, "piece of youth", "ChouCho", 0],
-]
-links = ["https://beta.musicbrainz.org/release/5f1cc853-402e-4926-be54-5ef8740d5b87", "https://vgmdb.net/album/113409"]
 
 [58ac107629b9d770b80b7bd9a6041a09]
 catalognumber = "LACA-39894~6"
@@ -967,7 +771,7 @@ album = "ZAQPOT / ZAQ [初回限定盤] Disc 1 [LACA-39894]"
 tracks = [
     [1, "Sparkling Daydream", "ZAQ", 0],
     [2, "Alteration", "ZAQ", 0],
-    [3, "激情論", "ZAQ", 0],
+    [3, "激情論", "ZAQ", 1],
     [4, "エキストラレボリューション", "ZAQ", 0],
     [5, "VOICE", "ZAQ", 0],
     [6, "OVERDRIVER", "ZAQ", 0],
@@ -1050,7 +854,7 @@ album = "ZAQPOT / ZAQ Disc 1 [LACA-9894]"
 tracks = [
     [1, "Sparkling Daydream", "ZAQ", 0],
     [2, "Alteration", "ZAQ", 0],
-    [3, "激情論", "ZAQ", 0],
+    [3, "激情論", "ZAQ", 1],
     [4, "エキストラレボリューション", "ZAQ", 0],
     [5, "VOICE", "ZAQ", 0],
     [6, "OVERDRIVER", "ZAQ", 0],

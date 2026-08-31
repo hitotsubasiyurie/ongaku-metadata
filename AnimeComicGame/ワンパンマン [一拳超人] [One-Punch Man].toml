@@ -10,10 +10,10 @@ catalognumber = "LACM-14406"
 date = "2015-10-21"
 album = "THE HERO !! ～怒れる拳に火をつけろ～ / JAM Project [アニメ盤]"
 tracks = [
-    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 0],
-    [2, "Shoot the Monster!", "JAM Project", 0],
-    [3, "THE HERO !! 〜怒れる拳に火をつけろ〜 (off vocal)", "JAM Project", 0],
-    [4, "Shoot the Monster! (off vocal)", "JAM Project", 0],
+    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 1],
+    [2, "Shoot the Monster!", "JAM Project", 1],
+    [3, "THE HERO !! 〜怒れる拳に火をつけろ〜 (off vocal)", "JAM Project", 1],
+    [4, "Shoot the Monster! (off vocal)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a1613867-540f-4d36-ba1d-de1eb46d7976", "https://vgmdb.net/album/54211"]
 
@@ -22,10 +22,10 @@ catalognumber = "LACM-14405"
 date = "2015-10-21"
 album = "THE HERO !! ～怒れる拳に火をつけろ～ / JAM Project [アーティスト盤] Disc 1 (CD)"
 tracks = [
-    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 0],
-    [2, "Shoot the Monster!", "JAM Project", 0],
-    [3, "THE HERO !! 〜怒れる拳に火をつけろ〜 (off vocal)", "JAM Project", 0],
-    [4, "Shoot the Monster! (off vocal)", "JAM Project", 0],
+    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 1],
+    [2, "Shoot the Monster!", "JAM Project", 1],
+    [3, "THE HERO !! 〜怒れる拳に火をつけろ〜 (off vocal)", "JAM Project", 1],
+    [4, "Shoot the Monster! (off vocal)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b1616c6-72bd-4801-ac51-3241a10d6eae", "https://vgmdb.net/album/54212"]
 
@@ -34,8 +34,8 @@ catalognumber = "LACM-14405"
 date = "2015-10-21"
 album = "THE HERO !! ～怒れる拳に火をつけろ～ / JAM Project [アーティスト盤] Disc 2 (DVD)"
 tracks = [
-    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜 (Music Video)", "JAM Project", 0],
-    [2, "THE HERO !! 〜怒れる拳に火をつけろ〜 (Making)", "JAM Project", 0],
+    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜 (Music Video)", "JAM Project", 1],
+    [2, "THE HERO !! 〜怒れる拳に火をつけろ〜 (Making)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b1616c6-72bd-4801-ac51-3241a10d6eae", "https://vgmdb.net/album/54212"]
 
@@ -44,10 +44,10 @@ catalognumber = "LACM-14407"
 date = "2015-11-18"
 album = "星より先に見つけてあげる / 森口博子"
 tracks = [
-    [1, "星より先に見つけてあげる", "森口博子", 0],
-    [2, "悲しみたちを抱きしめて", "森口博子", 0],
-    [3, "星より先に見つけてあげる <off vocal>", "森口博子", 0],
-    [4, "悲しみたちを抱きしめて <off vocal>", "森口博子", 0],
+    [1, "星より先に見つけてあげる", "森口博子", 1],
+    [2, "悲しみたちを抱きしめて", "森口博子", 1],
+    [3, "星より先に見つけてあげる <off vocal>", "森口博子", 1],
+    [4, "悲しみたちを抱きしめて <off vocal>", "森口博子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f823a9f-77e2-4e9f-9ae8-e0a61b413cb3", "https://vgmdb.net/album/54210"]
 
@@ -56,9 +56,9 @@ catalognumber = "BCXA-1038"
 date = "2015-12-24"
 album = "ワンパンマン 01 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「サイタマとお祭り」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "サイタマのワンパン音頭", "サイタマ(CV:古川慎)", 0],
+    [1, "ミニドラマ「サイタマとお祭り」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "サイタマのワンパン音頭", "サイタマ(CV:古川慎)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2e27df1c-7dcd-40fd-949a-a530bbdd6706", "https://vgmdb.net/album/55190"]
 
@@ -67,52 +67,52 @@ catalognumber = "LACA-15536"
 date = "2016-01-13"
 album = "TVアニメ『ワンパンマン』オリジナルサウンドトラック ONE TAKE MAN"
 tracks = [
-    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜 (TV Size)", "JAM Project", 0],
-    [2, "Theme of ONE PUNCH MAN〜正義執行〜", "宮崎誠", 0],
-    [3, "Strongest Man", "宮崎誠", 0],
-    [4, "Guitar Bridge No.1", "宮崎誠", 0],
-    [5, "The cyborg fights", "宮崎誠", 0],
-    [6, "怪", "宮崎誠", 0],
-    [7, "Monster", "宮崎誠", 0],
-    [8, "BATTLE!!", "宮崎誠", 0],
-    [9, "Guitar Bridge No.2", "宮崎誠", 0],
-    [10, "Theme of ONE PUNCH MAN〜one day〜", "宮崎誠", 0],
-    [11, "Sonic", "宮崎誠", 0],
-    [12, "恐", "宮崎誠", 0],
-    [13, "Crisis", "宮崎誠", 0],
-    [14, "smash an enemy", "宮崎誠", 0],
-    [15, "Guitar Bridge No.3", "宮崎誠", 0],
-    [16, "Hero Society", "宮崎誠", 0],
-    [17, "Raise a fist", "宮崎誠", 0],
-    [18, "sorrow", "宮崎誠", 0],
-    [19, "inferiority", "宮崎誠", 0],
-    [20, "Guitar Bridge No.4", "宮崎誠", 0],
-    [21, "Peaceful days", "宮崎誠", 0],
-    [22, "Theme of ONE PUNCH MAN〜sadness〜", "宮崎誠", 0],
-    [23, "Guitar Bridge No.5", "宮崎誠", 0],
-    [24, "violent acts", "宮崎誠", 0],
-    [25, "Mysterious", "宮崎誠", 0],
-    [26, "Guitar Bridge No.6", "宮崎誠", 0],
-    [27, "Tense", "宮崎誠", 0],
-    [28, "The cyborg walks", "宮崎誠", 0],
-    [29, "Guitar Bridge No.7", "宮崎誠", 0],
-    [30, "JUSTICE RIDER", "宮崎誠", 0],
-    [31, "CGHG", "宮崎誠", 0],
-    [32, "Guitar Bridge No.8", "宮崎誠", 0],
-    [33, "wet my scales", "宮崎誠", 0],
-    [34, "Spaceship", "宮崎誠", 0],
-    [35, "Dark Energy", "宮崎誠", 0],
-    [36, "The ruler", "宮崎誠", 0],
-    [37, "Guitar Bridge No.9", "宮崎誠", 0],
-    [38, "Hurry call", "宮崎誠", 0],
-    [39, "「S」", "宮崎誠", 0],
-    [40, "Theme of ONE PUNCH MAN〜Ballad Ver.〜", "宮崎誠", 0],
-    [41, "Guitar Bridge No.10", "宮崎誠", 0],
-    [42, "夕日に向かって", "宮崎誠", 0],
-    [43, "Comical Dance", "宮崎誠", 0],
-    [44, "Saitama’s BLUES", "宮崎誠", 0],
-    [45, "星より先に見つけてあげる (TV Size)", "森口博子", 0],
-    [46, "悲しみたちを抱きしめて (TV Size)", "森口博子", 0],
+    [1, "THE HERO !! 〜怒れる拳に火をつけろ〜 (TV Size)", "JAM Project", 1],
+    [2, "Theme of ONE PUNCH MAN〜正義執行〜", "宮崎誠", 1],
+    [3, "Strongest Man", "宮崎誠", 1],
+    [4, "Guitar Bridge No.1", "宮崎誠", 1],
+    [5, "The cyborg fights", "宮崎誠", 1],
+    [6, "怪", "宮崎誠", 1],
+    [7, "Monster", "宮崎誠", 1],
+    [8, "BATTLE!!", "宮崎誠", 1],
+    [9, "Guitar Bridge No.2", "宮崎誠", 1],
+    [10, "Theme of ONE PUNCH MAN〜one day〜", "宮崎誠", 1],
+    [11, "Sonic", "宮崎誠", 1],
+    [12, "恐", "宮崎誠", 1],
+    [13, "Crisis", "宮崎誠", 1],
+    [14, "smash an enemy", "宮崎誠", 1],
+    [15, "Guitar Bridge No.3", "宮崎誠", 1],
+    [16, "Hero Society", "宮崎誠", 1],
+    [17, "Raise a fist", "宮崎誠", 1],
+    [18, "sorrow", "宮崎誠", 1],
+    [19, "inferiority", "宮崎誠", 1],
+    [20, "Guitar Bridge No.4", "宮崎誠", 1],
+    [21, "Peaceful days", "宮崎誠", 1],
+    [22, "Theme of ONE PUNCH MAN〜sadness〜", "宮崎誠", 1],
+    [23, "Guitar Bridge No.5", "宮崎誠", 1],
+    [24, "violent acts", "宮崎誠", 1],
+    [25, "Mysterious", "宮崎誠", 1],
+    [26, "Guitar Bridge No.6", "宮崎誠", 1],
+    [27, "Tense", "宮崎誠", 1],
+    [28, "The cyborg walks", "宮崎誠", 1],
+    [29, "Guitar Bridge No.7", "宮崎誠", 1],
+    [30, "JUSTICE RIDER", "宮崎誠", 1],
+    [31, "CGHG", "宮崎誠", 1],
+    [32, "Guitar Bridge No.8", "宮崎誠", 1],
+    [33, "wet my scales", "宮崎誠", 1],
+    [34, "Spaceship", "宮崎誠", 1],
+    [35, "Dark Energy", "宮崎誠", 1],
+    [36, "The ruler", "宮崎誠", 1],
+    [37, "Guitar Bridge No.9", "宮崎誠", 1],
+    [38, "Hurry call", "宮崎誠", 1],
+    [39, "「S」", "宮崎誠", 1],
+    [40, "Theme of ONE PUNCH MAN〜Ballad Ver.〜", "宮崎誠", 1],
+    [41, "Guitar Bridge No.10", "宮崎誠", 1],
+    [42, "夕日に向かって", "宮崎誠", 1],
+    [43, "Comical Dance", "宮崎誠", 1],
+    [44, "Saitama’s BLUES", "宮崎誠", 1],
+    [45, "星より先に見つけてあげる (TV Size)", "森口博子", 1],
+    [46, "悲しみたちを抱きしめて (TV Size)", "森口博子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bbe639e4-c5af-418a-8080-7e9c04f5506d", "https://vgmdb.net/album/55383"]
 
@@ -121,9 +121,9 @@ catalognumber = "BCXA-1039"
 date = "2016-01-29"
 album = "ワンパンマン 02 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「ジェノスの打ち上げ花火」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "キャラクターソング「ジェノスのワンパン音頭」", "石川界人", 0],
+    [1, "ミニドラマ「ジェノスの打ち上げ花火」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "キャラクターソング「ジェノスのワンパン音頭」", "石川界人", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b4996627-c19e-49f4-977a-15706df67054", "https://vgmdb.net/album/55507"]
 
@@ -132,9 +132,9 @@ catalognumber = "BCXA-1040"
 date = "2016-02-24"
 album = "ワンパンマン 03 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「最速最強忍者外伝絵巻『音速のソニック』──阿修羅の章」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "ソニックのワンパン音頭", "梶裕貴", 0],
+    [1, "ミニドラマ「最速最強忍者外伝絵巻『音速のソニック』──阿修羅の章」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "ソニックのワンパン音頭", "梶裕貴", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/28925980-f3dc-4177-b16b-258092fad1ce", "https://vgmdb.net/album/55763"]
 
@@ -143,9 +143,9 @@ catalognumber = "BCXA-1041"
 date = "2016-03-25"
 album = "ワンパンマン 04 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「アマイマスクの甘すぎる苦悩」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "キャラクターソング「BEAUTIFUL HERO」", "宮野真守", 0],
+    [1, "ミニドラマ「アマイマスクの甘すぎる苦悩」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "キャラクターソング「BEAUTIFUL HERO」", "宮野真守", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5fd52653-89fc-484b-b6dd-4b454dd6d78d", "https://vgmdb.net/album/56360"]
 
@@ -165,7 +165,7 @@ tracks = [
     [9, "Cha-la Head-Cha-la (DBZ) 2015", "", 0],
     [10, "Green Greens (Kirby) 2015", "", 0],
     [11, "Final Fantasy Medley 2014", "", 0],
-    [12, "BATTLE!! (One Punch Man) 2016", "", 0],
+    [12, "BATTLE!! (One Punch Man) 2016", "", 1],
     [13, "Jotaro (Star Platinum) Theme - JoJo's Bizarre Adventure (feat. Seversi) 2016", "", 0],
     [14, "Magical Dreamers - The Wind, Stars and Waves (Chrono Cross) ft. Szymon 2017", "", 0],
     [15, "BIG BAD BOSS (Pekka Kana 2) 2017", "", 0],
@@ -184,9 +184,9 @@ catalognumber = "BCXA-1042"
 date = "2016-04-22"
 album = "ワンパンマン 05 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「タツマキと夏のお祭り」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "キャラクターソング「タツマキとフブキのワンパン音頭」", "悠木碧、早見沙織", 0],
+    [1, "ミニドラマ「タツマキと夏のお祭り」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "キャラクターソング「タツマキとフブキのワンパン音頭」", "悠木碧、早見沙織", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/964891e9-be11-4052-a689-017333f2432e", "https://vgmdb.net/album/56962"]
 
@@ -195,9 +195,9 @@ catalognumber = "BCXA-1043"
 date = "2016-05-27"
 album = "ワンパンマン 06 スペシャルCD"
 tracks = [
-    [1, "ミニドラマ「キングの一日署長」", "[dialogue]", 0],
-    [2, "キャストトーク", "[dialogue]", 0],
-    [3, "キャラクターソング「ミンナのワンパン音頭」", "古川慎、石川界人、梶裕貴", 0],
+    [1, "ミニドラマ「キングの一日署長」", "[dialogue]", 1],
+    [2, "キャストトーク", "[dialogue]", 1],
+    [3, "キャラクターソング「ミンナのワンパン音頭」", "古川慎、石川界人、梶裕貴", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d77b7299-29f1-47ca-831e-4259b40c6d8b", "https://vgmdb.net/album/57225"]
 
@@ -216,7 +216,7 @@ tracks = [
     [1, "THUNDERBIRD", "JAM Project", 0],
     [2, "Shining Storm ～烈火の如く～", "JAM Project", 0],
     [3, "EMERGE～漆黒の翼～", "JAM Project", 0],
-    [4, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 0],
+    [4, "THE HERO !! 〜怒れる拳に火をつけろ〜", "JAM Project", 1],
     [5, "サイボーグ009～Nine Cyborg Soldiers～", "JAM Project", 0],
     [6, "END OF HEAVEN", "JAM Project", 0],
     [7, "Name is GARO～光明の使者～", "JAM Project", 0],
@@ -228,7 +228,7 @@ tracks = [
     [13, "GARO is HERE!!", "JAM Project", 0],
     [14, "紅蓮ノ月～隠されし闇物語～", "JAM Project", 0],
     [15, "決戦 the Final Round", "JAM Project", 0],
-    [16, "THE HERO !! 〜怒れる拳に火をつけろ〜＜RMX edition＞", "JAM Project", 0],
+    [16, "THE HERO !! 〜怒れる拳に火をつけろ〜＜RMX edition＞", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f294c63c-9e21-49d5-a0f3-4cb7562e5505", "https://vgmdb.net/album/156231"]
 
@@ -353,10 +353,10 @@ catalognumber = "LACM-14854"
 date = "2019-04-24"
 album = "静寂のアポストル / JAM Project [アーティスト盤] Disc 1 (CD) [LACM-14854]"
 tracks = [
-    [1, "静寂のアポストル", "JAM Project", 0],
-    [2, "ピアノ狂奏曲第4番〜怪人賛歌", "JAM Project", 0],
-    [3, "静寂のアポストル (Instrumental)", "JAM Project", 0],
-    [4, "ピアノ狂奏曲第4番〜怪人賛歌 (Instrumental)", "JAM Project", 0],
+    [1, "静寂のアポストル", "JAM Project", 1],
+    [2, "ピアノ狂奏曲第4番〜怪人賛歌", "JAM Project", 1],
+    [3, "静寂のアポストル (Instrumental)", "JAM Project", 1],
+    [4, "ピアノ狂奏曲第4番〜怪人賛歌 (Instrumental)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0e5ed7da-1681-4bfc-836b-588fe3b4c7d0", "https://vgmdb.net/album/83769"]
 
@@ -365,8 +365,8 @@ catalognumber = "LACM-14854"
 date = "2019-04-24"
 album = "静寂のアポストル / JAM Project [アーティスト盤] Disc 2 (DVD) [LAPD-1530]"
 tracks = [
-    [1, "静寂のアポストル (Music Video)", "JAM Project", 0],
-    [2, "静寂のアポストル (making)", "JAM Project", 0],
+    [1, "静寂のアポストル (Music Video)", "JAM Project", 1],
+    [2, "静寂のアポストル (making)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0e5ed7da-1681-4bfc-836b-588fe3b4c7d0", "https://vgmdb.net/album/83769"]
 
@@ -375,10 +375,10 @@ catalognumber = "LACM-14855"
 date = "2019-04-24"
 album = "静寂のアポストル / JAM Project [アニメ盤]"
 tracks = [
-    [1, "静寂のアポストル", "JAM Project", 0],
-    [2, "ピアノ狂奏曲第4番〜怪人賛歌", "JAM Project", 0],
-    [3, "静寂のアポストル (Instrumental)", "JAM Project", 0],
-    [4, "ピアノ狂奏曲第4番〜怪人賛歌 (Instrumental)", "JAM Project", 0],
+    [1, "静寂のアポストル", "JAM Project", 1],
+    [2, "ピアノ狂奏曲第4番〜怪人賛歌", "JAM Project", 1],
+    [3, "静寂のアポストル (Instrumental)", "JAM Project", 1],
+    [4, "ピアノ狂奏曲第4番〜怪人賛歌 (Instrumental)", "JAM Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/913624b2-48d0-431a-aa7d-a4ed8ce4e769", "https://vgmdb.net/album/83770"]
 
@@ -387,10 +387,10 @@ catalognumber = "LACM-34875"
 date = "2019-05-22"
 album = "地図が無くても戻るから / 古川慎 Disc 1 (CD) [LACM-34875]"
 tracks = [
-    [1, "地図が無くても戻るから", "古川慎", 0],
-    [2, "道化師と♠︎ (sadness)", "古川慎", 0],
-    [3, "地図が無くても戻るから -Instrumental-", "古川慎", 0],
-    [4, "道化師と♠︎ (sadness) -Instrumental-", "古川慎", 0],
+    [1, "地図が無くても戻るから", "古川慎", 1],
+    [2, "道化師と♠︎ (sadness)", "古川慎", 1],
+    [3, "地図が無くても戻るから -Instrumental-", "古川慎", 1],
+    [4, "道化師と♠︎ (sadness) -Instrumental-", "古川慎", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/14f25dcd-47b0-4727-9866-54c8f4943c55", "https://vgmdb.net/album/84891"]
 
@@ -399,7 +399,7 @@ catalognumber = "LACM-34875"
 date = "2019-05-22"
 album = "地図が無くても戻るから / 古川慎 Disc 2 (DVD) [LAPD-1537]"
 tracks = [
-    [1, "地図が無くても戻るから -MUSIC VIDEO-", "古川慎", 0],
+    [1, "地図が無くても戻るから -MUSIC VIDEO-", "古川慎", 1],
     [2, "Making of 地図が無くても戻るから", "古川慎", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/14f25dcd-47b0-4727-9866-54c8f4943c55", "https://vgmdb.net/album/84891"]
@@ -409,10 +409,10 @@ catalognumber = "LACM-14875"
 date = "2019-05-22"
 album = "地図が無くても戻るから / 古川慎"
 tracks = [
-    [1, "地図が無くても戻るから", "古川慎", 0],
-    [2, "道化師と♠︎ (sadness)", "古川慎", 0],
-    [3, "地図が無くても戻るから –Instrumental–", "古川慎", 0],
-    [4, "道化師と♠︎ (sadness) –Instrumental–", "古川慎", 0],
+    [1, "地図が無くても戻るから", "古川慎", 1],
+    [2, "道化師と♠︎ (sadness)", "古川慎", 1],
+    [3, "地図が無くても戻るから –Instrumental–", "古川慎", 1],
+    [4, "道化師と♠︎ (sadness) –Instrumental–", "古川慎", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3028fcae-7f9e-48b0-a847-bf9cd5ea4ceb", "https://vgmdb.net/album/84890"]
 
@@ -421,46 +421,46 @@ catalognumber = "LACA-15782"
 date = "2019-07-24"
 album = "TVアニメ『ワンパンマン』第2期 オリジナルサウンドトラック ONE TAKE MAN 2"
 tracks = [
-    [1, "静寂のアポストル (TV Size)", "JAM Project", 0],
-    [2, "Beginning", "宮崎誠", 0],
-    [3, "I'm a monster", "宮崎誠", 0],
-    [4, "最強の一撃", "宮崎誠", 0],
-    [5, "disquieting", "宮崎誠", 0],
-    [6, "appear", "宮崎誠", 0],
-    [7, "Accept Battles", "宮崎誠", 0],
-    [8, "Rapid speed", "宮崎誠", 0],
-    [9, "正義執行〜Strings quartet〜", "宮崎誠", 0],
-    [10, "imminent", "宮崎誠", 0],
-    [11, "Genos fights", "宮崎誠", 0],
-    [12, "I wanna be stronger", "宮崎誠", 0],
-    [13, "Usual life", "宮崎誠", 0],
-    [14, "Metal Bat", "宮崎誠", 0],
-    [15, "The wall", "宮崎誠", 0],
-    [16, "I'm a hero", "宮崎誠", 0],
-    [17, "Fun Fun Fun", "宮崎誠", 0],
-    [18, "Fun Fun Fun〜slow〜", "宮崎誠", 0],
-    [19, "Slide E", "宮崎誠", 0],
-    [20, "Longing", "宮崎誠", 0],
-    [21, "no escape", "宮崎誠", 0],
-    [22, "Fake star", "宮崎誠", 0],
-    [23, "strong enemy", "宮崎誠", 0],
-    [24, "Fubuki", "宮崎誠", 0],
-    [25, "ヒーロー協会", "宮崎誠", 0],
-    [26, "Fear", "宮崎誠", 0],
-    [27, "impending disaster", "宮崎誠", 0],
-    [28, "storm", "宮崎誠", 0],
-    [29, "正義執行〜pf ver.〜", "宮崎誠", 0],
-    [30, "Tank top", "宮崎誠", 0],
-    [31, "martial arts", "宮崎誠", 0],
-    [32, "despair", "宮崎誠", 0],
-    [33, "Never end", "宮崎誠", 0],
-    [34, "face to face", "宮崎誠", 0],
-    [35, "Crash", "宮崎誠", 0],
-    [36, "a silent protest", "宮崎誠", 0],
-    [37, "Emotion", "宮崎誠", 0],
-    [38, "gone", "宮崎誠", 0],
-    [39, "正義執行 第二撃", "宮崎誠", 0],
-    [40, "地図が無くても戻るから (TV Size)", "古川慎", 0],
+    [1, "静寂のアポストル (TV Size)", "JAM Project", 1],
+    [2, "Beginning", "宮崎誠", 1],
+    [3, "I'm a monster", "宮崎誠", 1],
+    [4, "最強の一撃", "宮崎誠", 1],
+    [5, "disquieting", "宮崎誠", 1],
+    [6, "appear", "宮崎誠", 1],
+    [7, "Accept Battles", "宮崎誠", 1],
+    [8, "Rapid speed", "宮崎誠", 1],
+    [9, "正義執行〜Strings quartet〜", "宮崎誠", 1],
+    [10, "imminent", "宮崎誠", 1],
+    [11, "Genos fights", "宮崎誠", 1],
+    [12, "I wanna be stronger", "宮崎誠", 1],
+    [13, "Usual life", "宮崎誠", 1],
+    [14, "Metal Bat", "宮崎誠", 1],
+    [15, "The wall", "宮崎誠", 1],
+    [16, "I'm a hero", "宮崎誠", 1],
+    [17, "Fun Fun Fun", "宮崎誠", 1],
+    [18, "Fun Fun Fun〜slow〜", "宮崎誠", 1],
+    [19, "Slide E", "宮崎誠", 1],
+    [20, "Longing", "宮崎誠", 1],
+    [21, "no escape", "宮崎誠", 1],
+    [22, "Fake star", "宮崎誠", 1],
+    [23, "strong enemy", "宮崎誠", 1],
+    [24, "Fubuki", "宮崎誠", 1],
+    [25, "ヒーロー協会", "宮崎誠", 1],
+    [26, "Fear", "宮崎誠", 1],
+    [27, "impending disaster", "宮崎誠", 1],
+    [28, "storm", "宮崎誠", 1],
+    [29, "正義執行〜pf ver.〜", "宮崎誠", 1],
+    [30, "Tank top", "宮崎誠", 1],
+    [31, "martial arts", "宮崎誠", 1],
+    [32, "despair", "宮崎誠", 1],
+    [33, "Never end", "宮崎誠", 1],
+    [34, "face to face", "宮崎誠", 1],
+    [35, "Crash", "宮崎誠", 1],
+    [36, "a silent protest", "宮崎誠", 1],
+    [37, "Emotion", "宮崎誠", 1],
+    [38, "gone", "宮崎誠", 1],
+    [39, "正義執行 第二撃", "宮崎誠", 1],
+    [40, "地図が無くても戻るから (TV Size)", "古川慎", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d073d10-d291-4db9-acf4-4f9f00fbcedc", "https://vgmdb.net/album/86573"]
 
@@ -929,7 +929,7 @@ tracks = [
     [9, "Tread on the Tiger's Tail (Korean Version)", "JAM Project", 0],
     [10, "Strike ahead", "JAM Project", 0],
     [11, "Apostolo do Silencio (「静寂のアポストル」 Portuguese Version)", "Danger 3", 0],
-    [12, "静寂のアポストル (French Version)", "[no artist]", 0],
+    [12, "静寂のアポストル (French Version)", "[no artist]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/11c909de-f385-43d3-8e80-bcdc16bcc0dd", "https://vgmdb.net/album/88758"]
 
@@ -966,7 +966,7 @@ tracks = [
     [17, "The Brave [Music clip]", "JAM Project", 0],
     [18, "THE EXCEEDER [Music clip]", "JAM Project", 0],
     [19, "TOKYO DIVE [Music clip]", "JAM Project", 0],
-    [20, "静寂のアポストル [Music clip]", "JAM Project", 0],
+    [20, "静寂のアポストル [Music clip]", "JAM Project", 1],
     [21, "The Age of Dragon Knights [Music clip]", "JAM Project", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/11c909de-f385-43d3-8e80-bcdc16bcc0dd", "https://vgmdb.net/album/88758"]
@@ -1038,7 +1038,7 @@ tracks = [
     [6, "空へ...", "佐咲紗花", 0],
     [7, "こころはタマゴ", "佐咲紗花", 0],
     [8, "シュガーソングとビターステップ", "佐咲紗花", 0],
-    [9, "THE HERO !! ～怒れる拳に火をつけろ～", "佐咲紗花", 0],
+    [9, "THE HERO !! ～怒れる拳に火をつけろ～", "佐咲紗花", 1],
     [10, "Super Driver", "佐咲紗花", 0],
     [11, "Hands", "佐咲紗花", 0],
     [12, "Over The Future", "佐咲紗花", 0],
@@ -1052,10 +1052,10 @@ album = "from fairytale / 古川慎"
 tracks = [
     [1, "Overture -Act 1-", "古川慎", 0],
     [2, "切嵌とfairytale", "古川慎", 0],
-    [3, "道化師と♠", "古川慎", 0],
+    [3, "道化師と♠", "古川慎", 1],
     [4, "miserable masquerade -Re:andante-", "古川慎", 0],
     [5, "スピカ", "古川慎", 0],
-    [6, "地図が無くても戻るから", "古川慎", 0],
+    [6, "地図が無くても戻るから", "古川慎", 1],
     [7, "Interlude -Act 2-", "古川慎", 0],
     [8, "気ままに見えるかい？", "古川慎", 0],
     [9, "パトスのカタチ", "古川慎", 0],
@@ -1073,10 +1073,10 @@ album = "from fairytale / 古川慎 [初回限定盤] Vocal"
 tracks = [
     [1, "Overture -Act 1-", "古川慎", 0],
     [2, "切嵌とfairytale", "古川慎", 0],
-    [3, "道化師と♠", "古川慎", 0],
+    [3, "道化師と♠", "古川慎", 1],
     [4, "miserable masquerade -Re:andante-", "古川慎", 0],
     [5, "スピカ", "古川慎", 0],
-    [6, "地図が無くても戻るから", "古川慎", 0],
+    [6, "地図が無くても戻るから", "古川慎", 1],
     [7, "Interlude -Act 2-", "古川慎", 0],
     [8, "気ままに見えるかい？", "古川慎", 0],
     [9, "パトスのカタチ", "古川慎", 0],
@@ -1107,7 +1107,7 @@ tracks = [
     [3, "I wish 〜君がいるこの街で〜", "森口博子", 0],
     [4, "陽だまりのある場所", "森口博子", 0],
     [5, "ポジション", "森口博子", 0],
-    [6, "星より先に見つけてあげる", "森口博子", 0],
+    [6, "星より先に見つけてあげる", "森口博子", 1],
     [7, "生命の声", "森口博子", 0],
     [8, "水の星へ愛をこめて 〜35人の森口博子によるアカペラヴァージョン〜", "森口博子", 0],
 ]
@@ -1123,7 +1123,7 @@ tracks = [
     [3, "I wish 〜君がいるこの街で〜", "森口博子", 0],
     [4, "陽だまりのある場所", "森口博子", 0],
     [5, "ポジション", "森口博子", 0],
-    [6, "星より先に見つけてあげる", "森口博子", 0],
+    [6, "星より先に見つけてあげる", "森口博子", 1],
     [7, "生命の声", "森口博子", 0],
     [8, "水の星へ愛をこめて 〜35人の森口博子によるアカペラヴァージョン〜", "森口博子", 0],
 ]
@@ -1136,7 +1136,7 @@ album = "蒼い生命 / 森口博子 [初回限定盤] Vocal, Video"
 tracks = [
     [1, "蒼い生命 [Music Video]", "", 0],
     [2, "鳥籠の少年 [Music Video]", "", 0],
-    [3, "星より先に見つけてあげる [Music Video]", "", 0],
+    [3, "星より先に見つけてあげる [Music Video]", "", 1],
     [4, "I wish ～君がいるこの街で～ [Music Video]", "", 0],
 ]
 links = ["https://vgmdb.net/album/112021"]
@@ -1162,11 +1162,11 @@ tracks = [
     [1, "Overture -Act 1-", "古川慎", 0],
     [2, "切嵌とfairytale", "古川慎", 0],
     [3, "miserable masquerade -Re:andante-", "古川慎", 0],
-    [4, "道化師と♠ (sadness)", "古川慎", 0],
+    [4, "道化師と♠ (sadness)", "古川慎", 1],
     [5, "MC", "古川慎", 0],
     [6, "スピカ", "古川慎", 0],
     [7, "Interlude -Act 2-", "古川慎", 0],
-    [8, "地図が無くても戻るから", "古川慎", 0],
+    [8, "地図が無くても戻るから", "古川慎", 1],
     [9, "MC", "古川慎", 0],
     [10, "本日モ誠ニ晴天也", "古川慎", 0],
     [11, "勝鬨", "古川慎", 0],
@@ -1183,7 +1183,7 @@ tracks = [
     [1, "THE INTRO", "JAM Project", 0],
     [2, "Bloodlines～運命の血統～", "JAM Project", 0],
     [3, "Drei Kreuz～鋼のサバイバー～", "JAM Project", 0],
-    [4, "静寂のアポストル", "JAM Project", 0],
+    [4, "静寂のアポストル", "JAM Project", 1],
     [5, "Max the Max", "JAM Project", 0],
     [6, "Tread on the Tiger's Tail", "JAM Project", 0],
     [7, "戦友よ", "JAM Project", 0],
@@ -1191,7 +1191,7 @@ tracks = [
     [9, "NEVER END-G-", "JAM Project", 0],
     [10, "RESET", "JAM Project", 0],
     [11, "STORM 2021", "JAM Project", 0],
-    [12, "ピアノ狂奏曲第4番～怪人賛歌", "JAM Project", 0],
+    [12, "ピアノ狂奏曲第4番～怪人賛歌", "JAM Project", 1],
     [13, "DRAGON 2021", "JAM Project", 0],
     [14, "Concerto of SRW", "JAM Project", 0],
     [15, "with love", "JAM Project", 0],
