@@ -3,10 +3,10 @@ catalognumber = "ESCL-4283"
 date = "2014-10-15"
 album = "熱情のスペクトラム/涙がきえるなら / いきものがかり"
 tracks = [
-    [1, "熱情のスペクトラム", "いきものがかり", 0],
-    [2, "涙がきえるなら", "いきものがかり", 0],
-    [3, "熱情のスペクトラム -instrumental-", "いきものがかり", 0],
-    [4, "涙がきえるなら -instrumental-", "いきものがかり", 0],
+    [1, "熱情のスペクトラム", "いきものがかり", 1],
+    [2, "涙がきえるなら", "いきものがかり", 1],
+    [3, "熱情のスペクトラム -instrumental-", "いきものがかり", 1],
+    [4, "涙がきえるなら -instrumental-", "いきものがかり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e435a2a4-801f-4a88-a7b5-e9c52b0b0be3", "https://vgmdb.net/album/47572"]
 
@@ -15,11 +15,11 @@ catalognumber = "KSCL-2516"
 date = "2014-11-26"
 album = "7 -seven- / FLOW×GRANRODEO [期間生産限定盤]"
 tracks = [
-    [1, "7 -seven-", "FLOW×GRANRODEO", 0],
-    [2, "New World", "FLOW×GRANRODEO", 0],
-    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 0],
-    [4, "7 -seven- -TV SIZE-", "FLOW×GRANRODEO", 0],
-    [5, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 0],
+    [1, "7 -seven-", "FLOW×GRANRODEO", 1],
+    [2, "New World", "FLOW×GRANRODEO", 1],
+    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 1],
+    [4, "7 -seven- -TV SIZE-", "FLOW×GRANRODEO", 1],
+    [5, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c18e0758-ee15-4942-893f-77edbc3b54cb", "https://vgmdb.net/album/48217"]
 
@@ -28,10 +28,10 @@ catalognumber = "KSCL-2515"
 date = "2014-11-26"
 album = "7 -seven- / FLOW×GRANRODEO"
 tracks = [
-    [1, "7 -seven-", "FLOW×GRANRODEO", 0],
-    [2, "New World", "FLOW×GRANRODEO", 0],
-    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 0],
-    [4, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 0],
+    [1, "7 -seven-", "FLOW×GRANRODEO", 1],
+    [2, "New World", "FLOW×GRANRODEO", 1],
+    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 1],
+    [4, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/47816db2-41b8-49f9-9f81-d7e346806ce1", "https://vgmdb.net/album/48216"]
 
@@ -40,10 +40,10 @@ catalognumber = "KSCL-2513~4"
 date = "2014-11-26"
 album = "7 -seven- / FLOW×GRANRODEO [初回生産限定盤] Disc 1 (CD) [KSCL-2513]"
 tracks = [
-    [1, "7 -seven-", "FLOW×GRANRODEO", 0],
-    [2, "New World", "FLOW×GRANRODEO", 0],
-    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 0],
-    [4, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 0],
+    [1, "7 -seven-", "FLOW×GRANRODEO", 1],
+    [2, "New World", "FLOW×GRANRODEO", 1],
+    [3, "GO!!! (Animelo Summer Live 2014 -ONENESS- (2014/8/30) より)", "FLOW×GRANRODEO", 1],
+    [4, "7 -seven- -Instrumental-", "FLOW×GRANRODEO", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4f867221-1ce8-486a-ae6a-ba6f61341e85", "https://vgmdb.net/album/48215"]
 
@@ -53,7 +53,7 @@ date = "2014-11-26"
 album = "7 -seven- / FLOW×GRANRODEO [初回生産限定盤] Disc 2 (DVD) [KSCL-2514]"
 tracks = [
     [1, "レコーディングドキュメンタリー映像", "", 0],
-    [2, "7 -seven- (MV)", "", 0],
+    [2, "7 -seven- (MV)", "", 1],
 ]
 links = ["https://vgmdb.net/album/48215"]
 
@@ -62,23 +62,23 @@ catalognumber = "SVWC-70040"
 date = "2014-12-24"
 album = "TVアニメーション「七つの大罪」オリジナル・サウンドトラック"
 tracks = [
-    [1, "Perfect Time", "澤野弘之", 0],
-    [2, "7角:the1", "澤野弘之", 0],
-    [3, "銅鑼Gong4N", "澤野弘之", 0],
-    [4, "dEvilGODfamily復活動", "澤野弘之", 0],
-    [5, "世紀4", "澤野弘之", 0],
-    [6, "YoSay&B→A", "澤野弘之", 0],
-    [7, "广2tree02 ネ日|-血", "澤野弘之", 0],
-    [8, "KAN594", "澤野弘之", 0],
-    [9, "Eri0ne$", "澤野弘之", 0],
-    [10, "駄メ男rIs", "澤野弘之", 0],
-    [11, "EP←K", "澤野弘之", 0],
-    [12, "Deerン怒&過多6-$", "澤野弘之", 0],
-    [13, "mouth×宣華○2LI", "澤野弘之", 0],
-    [14, "OH92&HrBrM", "澤野弘之", 0],
-    [15, "GR雷", "澤野弘之", 0],
-    [16, "らゲ-sin", "澤野弘之", 0],
-    [17, "Big罪罪罪罪罪罪罪", "澤野弘之", 0],
+    [1, "Perfect Time", "澤野弘之", 1],
+    [2, "7角:the1", "澤野弘之", 1],
+    [3, "銅鑼Gong4N", "澤野弘之", 1],
+    [4, "dEvilGODfamily復活動", "澤野弘之", 1],
+    [5, "世紀4", "澤野弘之", 1],
+    [6, "YoSay&B→A", "澤野弘之", 1],
+    [7, "广2tree02 ネ日|-血", "澤野弘之", 1],
+    [8, "KAN594", "澤野弘之", 1],
+    [9, "Eri0ne$", "澤野弘之", 1],
+    [10, "駄メ男rIs", "澤野弘之", 1],
+    [11, "EP←K", "澤野弘之", 1],
+    [12, "Deerン怒&過多6-$", "澤野弘之", 1],
+    [13, "mouth×宣華○2LI", "澤野弘之", 1],
+    [14, "OH92&HrBrM", "澤野弘之", 1],
+    [15, "GR雷", "澤野弘之", 1],
+    [16, "らゲ-sin", "澤野弘之", 1],
+    [17, "Big罪罪罪罪罪罪罪", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/90253564-cbb3-49fa-b636-472a6fdae24d", "https://vgmdb.net/album/48448"]
 
@@ -87,10 +87,10 @@ catalognumber = "ANZX-11672"
 date = "2015-01-28"
 album = "七つの大罪 第1巻 特典CD"
 tracks = [
-    [1, "迷え!七つの大罪学園! SP #01", "", 0],
-    [2, "迷え!七つの大罪学園! SP #02", "", 0],
-    [3, "迷え!七つの大罪学園! SP #03", "", 0],
-    [4, "迷え!七つの大罪学園! SP #04", "", 0],
+    [1, "迷え!七つの大罪学園! SP #01", "", 1],
+    [2, "迷え!七つの大罪学園! SP #02", "", 1],
+    [3, "迷え!七つの大罪学園! SP #03", "", 1],
+    [4, "迷え!七つの大罪学園! SP #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/48925"]
 
@@ -99,10 +99,10 @@ catalognumber = "SRCL-8684"
 date = "2015-02-11"
 album = "Seven Deadly Sins / MAN WITH A MISSION"
 tracks = [
-    [1, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
-    [2, "Dive", "MAN WITH A MISSION", 0],
-    [3, "Falling", "MAN WITH A MISSION", 0],
-    [4, "evils fall [remix]", "MAN WITH A MISSION", 0],
+    [1, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
+    [2, "Dive", "MAN WITH A MISSION", 1],
+    [3, "Falling", "MAN WITH A MISSION", 1],
+    [4, "evils fall [remix]", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d14da01a-8189-49cc-875a-9ad7d8eb332a", "https://vgmdb.net/album/49897"]
 
@@ -111,10 +111,10 @@ catalognumber = "SRCL-8682~3"
 date = "2015-02-11"
 album = "Seven Deadly Sins / MAN WITH A MISSION [初回生産限定盤] Disc 1 (CD) [SRCL-8682]"
 tracks = [
-    [1, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
-    [2, "Dive", "MAN WITH A MISSION", 0],
-    [3, "Falling", "MAN WITH A MISSION", 0],
-    [4, "evils fall [remix]", "MAN WITH A MISSION", 0],
+    [1, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
+    [2, "Dive", "MAN WITH A MISSION", 1],
+    [3, "Falling", "MAN WITH A MISSION", 1],
+    [4, "evils fall [remix]", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/120d4e42-9705-447e-a060-cb30abe0269b", "https://vgmdb.net/album/49898"]
 
@@ -151,9 +151,9 @@ catalognumber = "KSCL-2559"
 date = "2015-02-25"
 album = "FLOW ANIME BEST 極"
 tracks = [
-    [1, "7 -seven-", "FLOW×GRANRODEO", 0],
+    [1, "7 -seven-", "FLOW×GRANRODEO", 1],
     [2, "AWAKE", "FLOW", 0],
-    [3, "GO!!!", "FLOW", 0],
+    [3, "GO!!!", "FLOW", 1],
     [4, "Re:member", "FLOW", 0],
     [5, "Sign", "FLOW", 0],
     [6, "DAYS", "FLOW", 0],
@@ -177,9 +177,9 @@ catalognumber = "KSCL-2557~8"
 date = "2015-02-25"
 album = "FLOW ANIME BEST 極 [初回生産限定盤] Vocal"
 tracks = [
-    [1, "7 -seven-", "FLOW×GRANRODEO", 0],
+    [1, "7 -seven-", "FLOW×GRANRODEO", 1],
     [2, "AWAKE", "FLOW", 0],
-    [3, "GO!!!", "FLOW", 0],
+    [3, "GO!!!", "FLOW", 1],
     [4, "Re:member", "FLOW", 0],
     [5, "Sign", "FLOW", 0],
     [6, "DAYS", "FLOW", 0],
@@ -225,11 +225,11 @@ catalognumber = "SECL-1647~8"
 date = "2015-03-04"
 album = "Season / 瀧川ありさ [期間生産限定盤] Disc 1 (CD) [SECL-1647]"
 tracks = [
-    [1, "Season", "瀧川ありさ", 0],
-    [2, "ロストラブレター", "瀧川ありさ", 0],
-    [3, "ふたりよがり", "瀧川ありさ", 0],
-    [4, "Season ～TV size ver.～", "瀧川ありさ", 0],
-    [5, "Season ～TV size ver.Instrumental～", "瀧川ありさ", 0],
+    [1, "Season", "瀧川ありさ", 1],
+    [2, "ロストラブレター", "瀧川ありさ", 1],
+    [3, "ふたりよがり", "瀧川ありさ", 1],
+    [4, "Season ～TV size ver.～", "瀧川ありさ", 1],
+    [5, "Season ～TV size ver.Instrumental～", "瀧川ありさ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/025ecfcd-0401-4092-864b-3169cc363008", "https://vgmdb.net/album/49661"]
 
@@ -247,10 +247,10 @@ catalognumber = "SECL-1646"
 date = "2015-03-04"
 album = "Season / 瀧川ありさ"
 tracks = [
-    [1, "Season", "瀧川ありさ", 0],
-    [2, "ロストラブレター", "瀧川ありさ", 0],
-    [3, "ふたりよがり", "瀧川ありさ", 0],
-    [4, "Season ～Instrumental～", "瀧川ありさ", 0],
+    [1, "Season", "瀧川ありさ", 1],
+    [2, "ロストラブレター", "瀧川ありさ", 1],
+    [3, "ふたりよがり", "瀧川ありさ", 1],
+    [4, "Season ～Instrumental～", "瀧川ありさ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/742c77cf-a078-4f45-a0e7-cf0f25266777", "https://vgmdb.net/album/49660"]
 
@@ -283,10 +283,10 @@ catalognumber = "ANZX-11676"
 date = "2015-03-25"
 album = "七つの大罪 第3巻 特典CD"
 tracks = [
-    [1, "迷え!七つの大罪学園! SP #01", "", 0],
-    [2, "迷え!七つの大罪学園! SP #02", "", 0],
-    [3, "迷え!七つの大罪学園! SP #03", "", 0],
-    [4, "迷え!七つの大罪学園! SP #04", "", 0],
+    [1, "迷え!七つの大罪学園! SP #01", "", 1],
+    [2, "迷え!七つの大罪学園! SP #02", "", 1],
+    [3, "迷え!七つの大罪学園! SP #03", "", 1],
+    [4, "迷え!七つの大罪学園! SP #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/51345"]
 
@@ -295,31 +295,31 @@ catalognumber = "SVWC-70063"
 date = "2015-04-08"
 album = "TVアニメーション「七つの大罪」オリジナル・サウンドトラック2"
 tracks = [
-    [1, "Harlequin", "和田貴史", 0],
-    [2, "Arthur", "澤野弘之・和田貴史", 0],
-    [3, "Nightmare Teller", "和田貴史", 0],
-    [4, "Pure Love", "和田貴史", 0],
-    [5, "Boar's sin of gluttony", "和田貴史", 0],
-    [6, "Hendrickson", "和田貴史", 0],
-    [7, "A Peaceful Day", "澤野弘之", 0],
-    [8, "DG4-1:罪", "澤野弘之", 0],
-    [9, "PT-2:罪", "澤野弘之", 0],
-    [10, "E0$-3:罪", "澤野弘之", 0],
-    [11, "9雷&セ2内-4:罪", "澤野弘之", 0],
-    [12, "DAN-5:罪", "澤野弘之", 0],
-    [13, "pfAD-6:罪", "澤野弘之", 0],
-    [14, "RGS-7:罪", "澤野弘之", 0],
-    [15, "K&B-8:罪", "澤野弘之", 0],
-    [16, "PT-9:罪", "澤野弘之", 0],
-    [17, "pfAD-10:罪", "澤野弘之", 0],
-    [18, "pfpercAD11:罪", "澤野弘之", 0],
-    [19, "PT&E0$-12:罪", "澤野弘之", 0],
-    [20, "pfAD-13:罪", "澤野弘之", 0],
-    [21, "DAN-14:罪", "澤野弘之", 0],
-    [22, "pfAD-15:罪", "澤野弘之", 0],
-    [23, "PT-16:罪", "澤野弘之", 0],
-    [24, "E0$-17:罪", "澤野弘之", 0],
-    [25, "Perfect Time <再arr>", "澤野弘之", 0],
+    [1, "Harlequin", "和田貴史", 1],
+    [2, "Arthur", "澤野弘之・和田貴史", 1],
+    [3, "Nightmare Teller", "和田貴史", 1],
+    [4, "Pure Love", "和田貴史", 1],
+    [5, "Boar's sin of gluttony", "和田貴史", 1],
+    [6, "Hendrickson", "和田貴史", 1],
+    [7, "A Peaceful Day", "澤野弘之", 1],
+    [8, "DG4-1:罪", "澤野弘之", 1],
+    [9, "PT-2:罪", "澤野弘之", 1],
+    [10, "E0$-3:罪", "澤野弘之", 1],
+    [11, "9雷&セ2内-4:罪", "澤野弘之", 1],
+    [12, "DAN-5:罪", "澤野弘之", 1],
+    [13, "pfAD-6:罪", "澤野弘之", 1],
+    [14, "RGS-7:罪", "澤野弘之", 1],
+    [15, "K&B-8:罪", "澤野弘之", 1],
+    [16, "PT-9:罪", "澤野弘之", 1],
+    [17, "pfAD-10:罪", "澤野弘之", 1],
+    [18, "pfpercAD11:罪", "澤野弘之", 1],
+    [19, "PT&E0$-12:罪", "澤野弘之", 1],
+    [20, "pfAD-13:罪", "澤野弘之", 1],
+    [21, "DAN-14:罪", "澤野弘之", 1],
+    [22, "pfAD-15:罪", "澤野弘之", 1],
+    [23, "PT-16:罪", "澤野弘之", 1],
+    [24, "E0$-17:罪", "澤野弘之", 1],
+    [25, "Perfect Time <再arr>", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3879fea7-2b02-459e-93d8-0f262e3526f1", "https://vgmdb.net/album/50415"]
 
@@ -347,11 +347,11 @@ catalognumber = "ANZX-11680"
 date = "2015-05-27"
 album = "七つの大罪 第5巻 特典CD"
 tracks = [
-    [1, "迷え!七つの大罪学園! SP #01", "", 0],
-    [2, "迷え!七つの大罪学園! SP #02", "", 0],
-    [3, "迷え!七つの大罪学園! SP #03", "", 0],
-    [4, "迷え!七つの大罪学園! SP #04", "", 0],
-    [5, "迷え!七つの大罪学園! SP #05", "", 0],
+    [1, "迷え!七つの大罪学園! SP #01", "", 1],
+    [2, "迷え!七つの大罪学園! SP #02", "", 1],
+    [3, "迷え!七つの大罪学園! SP #03", "", 1],
+    [4, "迷え!七つの大罪学園! SP #04", "", 1],
+    [5, "迷え!七つの大罪学園! SP #05", "", 1],
 ]
 links = ["https://vgmdb.net/album/53177"]
 
@@ -372,10 +372,10 @@ catalognumber = "ANZX-11684"
 date = "2015-07-22"
 album = "七つの大罪 第7巻 特典CD"
 tracks = [
-    [1, "迷え!七つの大罪学園! SP #01", "", 0],
-    [2, "迷え!七つの大罪学園! SP #02", "", 0],
-    [3, "迷え!七つの大罪学園! SP #03", "", 0],
-    [4, "迷え!七つの大罪学園! SP #04", "", 0],
+    [1, "迷え!七つの大罪学園! SP #01", "", 1],
+    [2, "迷え!七つの大罪学園! SP #02", "", 1],
+    [3, "迷え!七つの大罪学園! SP #03", "", 1],
+    [4, "迷え!七つの大罪学園! SP #04", "", 1],
 ]
 links = ["https://vgmdb.net/album/53226"]
 
@@ -398,136 +398,17 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/53227"]
 
-[91aebb0319ec0ea205d7250f8a566a08]
-catalognumber = "SECL-1755~7"
-date = "2015-09-09"
-album = "澤野弘之 BEST OF SOUNDTRACK [emU] Original Soundtrack, Vocal Disc 1"
-tracks = [
-    [1, "BLUE DRAGON", "澤野弘之", 0],
-    [2, "81DIVER", "澤野弘之", 0],
-    [3, "LiVE/EViL", "澤野弘之", 0],
-    [4, "from sunset to sunrise", "澤野弘之", 0],
-    [5, "MARKS", "澤野弘之", 0],
-    [6, "80$$", "澤野弘之", 0],
-    [7, "PRISONER", "澤野弘之", 0],
-    [8, "Climb to the Top", "澤野弘之", 0],
-    [9, "Tang", "澤野弘之", 0],
-    [10, "α≠a", "澤野弘之", 0],
-    [11, "Back to the Starting Point", "澤野弘之", 0],
-    [12, "BLOOD oF thE DRAGON", "澤野弘之", 0],
-    [13, "musica", "澤野弘之", 0],
-    [14, "motherhood ～me & my mom～ ＜Vocal ver.＞", "澤野弘之", 0],
-    [15, "tragedy", "澤野弘之", 0],
-    [16, "Grey to Blue", "澤野弘之", 0],
-    [17, "FUNK PUNKY MONKEY", "澤野弘之", 0],
-    [18, "HONEST", "澤野弘之", 0],
-    [19, "DRAGON RISES", "澤野弘之", 0],
-]
-links = ["https://beta.musicbrainz.org/release/bffd85ee-2ec9-4838-90b0-8a4097800f88", "https://vgmdb.net/album/53440"]
-
-[cd1bd652e38651f1d56101aa85d1b095]
-catalognumber = "SECL-1755~7"
-date = "2015-09-09"
-album = "澤野弘之 BEST OF SOUNDTRACK [emU] Original Soundtrack, Vocal Disc 2"
-tracks = [
-    [1, "MAIN THEME", "澤野弘之", 0],
-    [2, "BLAZE [ZERO-TWO Ver.]", "澤野弘之", 0],
-    [3, "at'aek ON taitn", "澤野弘之 <Vocal: MIKA KOBAYASHI>", 0],
-    [4, "fiore", "澤野弘之 feat. Cyua", 0],
-    [5, "U & Cloud", "澤野弘之", 0],
-    [6, "Ω", "澤野弘之", 0],
-    [7, "ON YOUR MARK", "澤野弘之", 0],
-    [8, "Perfect Time", "澤野弘之", 0],
-    [9, "i-AM", "澤野弘之", 0],
-    [10, "鬼龍G@キLL", "澤野弘之", 0],
-    [11, "Big Break", "澤野弘之", 0],
-    [12, "zai", "澤野弘之", 0],
-    [13, "This is a Fight to Change the World", "澤野弘之", 0],
-    [14, "1st-Mov.:S", "澤野弘之", 0],
-    [15, "BLUE", "澤野弘之", 0],
-    [16, "BRE@TH//LESS", "澤野弘之", 0],
-    [17, "UNICORN", "澤野弘之", 0],
-    [18, "Missing Piece", "澤野弘之", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8e4451dd-7144-4a0c-969a-7bd32f9df82c", "https://vgmdb.net/album/53440"]
-
-[63a83a6cb917d71dfddc2656d9aaa726]
-catalognumber = "SECL-1755~7"
-date = "2015-09-09"
-album = "澤野弘之 BEST OF SOUNDTRACK [emU] Original Soundtrack, Arrangement, Vocal"
-tracks = [
-    [1, "Aesthetic ＜【emU】ver.＞", "澤野弘之", 0],
-    [2, "PF-【emU】1", "澤野弘之", 0],
-    [3, "PF-【emU】2", "澤野弘之", 0],
-    [4, "3594εMT", "澤野弘之", 0],
-    [5, "ThreeFiveNineFourε", "澤野弘之", 0],
-]
-links = ["https://beta.musicbrainz.org/release/bffd85ee-2ec9-4838-90b0-8a4097800f88", "https://vgmdb.net/album/53440"]
-
-[5c5a09e486aa92e1cb4258cb46c5043e]
-catalognumber = "SECL-1758~9"
-date = "2015-09-09"
-album = "澤野弘之 BEST OF SOUNDTRACK [emU] Disc 1 [SECL-1758]"
-tracks = [
-    [1, "BLUE DRAGON", "澤野弘之", 0],
-    [2, "81DIVER", "澤野弘之", 0],
-    [3, "LiVE/EViL", "澤野弘之", 0],
-    [4, "from sunset to sunrise", "澤野弘之", 0],
-    [5, "MARKS", "澤野弘之", 0],
-    [6, "80$$", "澤野弘之", 0],
-    [7, "PRISONER", "澤野弘之", 0],
-    [8, "Climb to the Top", "澤野弘之", 0],
-    [9, "Tang", "澤野弘之", 0],
-    [10, "α≠a", "澤野弘之", 0],
-    [11, "Back to the Starting Point", "澤野弘之", 0],
-    [12, "BLOOD oF thE DRAGON", "澤野弘之", 0],
-    [13, "musica", "澤野弘之", 0],
-    [14, "motherhood ～me & my mom～ ＜Vocal ver.＞", "澤野弘之", 0],
-    [15, "tragedy", "澤野弘之", 0],
-    [16, "Grey to Blue", "澤野弘之", 0],
-    [17, "FUNK PUNKY MONKEY", "澤野弘之", 0],
-    [18, "HONEST", "澤野弘之", 0],
-    [19, "DRAGON RISES", "澤野弘之", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8e4451dd-7144-4a0c-969a-7bd32f9df82c", "https://vgmdb.net/album/53439"]
-
-[4001c7e900f340d1066a3fa0c0b1e0c6]
-catalognumber = "SECL-1758~9"
-date = "2015-09-09"
-album = "澤野弘之 BEST OF SOUNDTRACK [emU] Disc 2 [SECL-1759]"
-tracks = [
-    [1, "MAIN THEME", "澤野弘之", 0],
-    [2, "BLAZE [ZERO-TWO Ver.]", "澤野弘之", 0],
-    [3, "at'aek ON taitn", "澤野弘之 <Vocal: MIKA KOBAYASHI>", 0],
-    [4, "fiore", "澤野弘之 feat. Cyua", 0],
-    [5, "U & Cloud", "澤野弘之", 0],
-    [6, "Ω", "澤野弘之", 0],
-    [7, "ON YOUR MARK", "澤野弘之", 0],
-    [8, "Perfect Time", "澤野弘之", 0],
-    [9, "i-AM", "澤野弘之", 0],
-    [10, "鬼龍G@キLL", "澤野弘之", 0],
-    [11, "Big Break", "澤野弘之", 0],
-    [12, "zai", "澤野弘之", 0],
-    [13, "This is a Fight to Change the World", "澤野弘之", 0],
-    [14, "1st-Mov.:S", "澤野弘之", 0],
-    [15, "BLUE", "澤野弘之", 0],
-    [16, "BRE@TH//LESS", "澤野弘之", 0],
-    [17, "UNICORN", "澤野弘之", 0],
-    [18, "Missing Piece", "澤野弘之", 0],
-]
-links = ["https://beta.musicbrainz.org/release/8e4451dd-7144-4a0c-969a-7bd32f9df82c", "https://vgmdb.net/album/53439"]
-
 [d8e99bf0777a86dc11e319c222bc0c06]
 catalognumber = "ANZX-11688"
 date = "2015-09-29"
 album = "七つの大罪 第9巻 特典CD"
 tracks = [
-    [1, "迷え!七つの大罪学園!SP #01", "", 0],
-    [2, "迷え!七つの大罪学園!SP #02", "", 0],
-    [3, "迷え!七つの大罪学園!SP #03", "", 0],
-    [4, "迷え!七つの大罪学園!SP #04", "", 0],
-    [5, "迷え!七つの大罪学園!SP #05", "", 0],
-    [6, "迷え!七つの大罪学園!SP #06", "", 0],
+    [1, "迷え!七つの大罪学園!SP #01", "", 1],
+    [2, "迷え!七つの大罪学園!SP #02", "", 1],
+    [3, "迷え!七つの大罪学園!SP #03", "", 1],
+    [4, "迷え!七つの大罪学園!SP #04", "", 1],
+    [5, "迷え!七つの大罪学園!SP #05", "", 1],
+    [6, "迷え!七つの大罪学園!SP #06", "", 1],
 ]
 links = ["https://vgmdb.net/album/53228"]
 
@@ -539,7 +420,7 @@ tracks = [
     [1, "Raise your flag", "MAN WITH A MISSION", 0],
     [2, "STELLA", "MAN WITH A MISSION", 0],
     [3, "Far", "MAN WITH A MISSION", 0],
-    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 0],
+    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a022164-e775-4e57-acf8-15433020cd61", "https://vgmdb.net/album/54558"]
 
@@ -551,7 +432,7 @@ tracks = [
     [1, "Raise your flag", "MAN WITH A MISSION", 0],
     [2, "STELLA", "MAN WITH A MISSION", 0],
     [3, "Far", "MAN WITH A MISSION", 0],
-    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 0],
+    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/72b3b1d0-cdd0-4369-bb64-7614168e2ced", "https://vgmdb.net/album/54559"]
 
@@ -577,7 +458,7 @@ tracks = [
     [1, "Raise your flag", "MAN WITH A MISSION", 0],
     [2, "STELLA", "MAN WITH A MISSION", 0],
     [3, "Far", "MAN WITH A MISSION", 0],
-    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 0],
+    [4, "Seven Deadly Sins [remix]", "MAN WITH A MISSION", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7b0ec043-f299-418e-ad6f-01f32dd1121a", "https://vgmdb.net/album/54557"]
 
@@ -588,12 +469,12 @@ album = "The World's On Fire / MAN WITH A MISSION"
 tracks = [
     [1, "Survivor", "MAN WITH A MISSION", 0],
     [2, "Waiting for the Moment", "MAN WITH A MISSION", 0],
-    [3, "Dive", "MAN WITH A MISSION", 0],
+    [3, "Dive", "MAN WITH A MISSION", 1],
     [4, "Raise your flag", "MAN WITH A MISSION", 0],
     [5, "followers", "MAN WITH A MISSION", 0],
     [6, "The World's On Fire", "MAN WITH A MISSION", 0],
     [7, "Give it Away", "MAN WITH A MISSION", 0],
-    [8, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
+    [8, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
     [9, "Mirror Mirror", "MAN WITH A MISSION", 0],
     [10, "Memories", "MAN WITH A MISSION", 0],
     [11, "Far", "MAN WITH A MISSION", 0],
@@ -609,12 +490,12 @@ album = "The World's On Fire / MAN WITH A MISSION [Limited Edition]"
 tracks = [
     [1, "Survivor", "MAN WITH A MISSION", 0],
     [2, "Waiting for the Moment", "MAN WITH A MISSION", 0],
-    [3, "Dive", "MAN WITH A MISSION", 0],
+    [3, "Dive", "MAN WITH A MISSION", 1],
     [4, "Raise your flag", "MAN WITH A MISSION", 0],
     [5, "followers", "MAN WITH A MISSION", 0],
     [6, "The World's On Fire", "MAN WITH A MISSION", 0],
     [7, "Give it Away", "MAN WITH A MISSION", 0],
-    [8, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
+    [8, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
     [9, "Mirror Mirror", "MAN WITH A MISSION", 0],
     [10, "Memories", "MAN WITH A MISSION", 0],
     [11, "Far", "MAN WITH A MISSION", 0],
@@ -631,13 +512,13 @@ tracks = [
     [1, "Emotions", "MAN WITH A MISSION", 0],
     [2, "Take What U Want", "MAN WITH A MISSION", 0],
     [3, "Get Off of My Way", "MAN WITH A MISSION", 0],
-    [4, "Dive", "MAN WITH A MISSION", 0],
+    [4, "Dive", "MAN WITH A MISSION", 1],
     [5, "The Cure", "MAN WITH A MISSION", 0],
     [6, "database", "MAN WITH A MISSION feat. Ali (Zebrahead)", 0],
     [7, "higher", "MAN WITH A MISSION", 0],
     [8, "Raise your flag", "MAN WITH A MISSION", 0],
     [9, "Medley (DON'T LOSE YOURSELF～distance～DANCE EVERYBODY)", "MAN WITH A MISSION", 0],
-    [10, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
+    [10, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
     [11, "STELLA", "MAN WITH A MISSION", 0],
     [12, "FLY AGAIN", "MAN WITH A MISSION", 0],
     [13, "Out of Control", "MAN WITH A MISSION × Zebrahead", 0],
@@ -744,7 +625,7 @@ catalognumber = "SECL-2064~5"
 date = "2016-11-02"
 album = "at film. / 瀧川ありさ Disc 1 (CD) [SECL-2064]"
 tracks = [
-    [1, "Season", "瀧川ありさ", 0],
+    [1, "Season", "瀧川ありさ", 1],
     [2, "BOY'S CHRONICLE", "瀧川ありさ", 0],
     [3, "さよならのゆくえ", "瀧川ありさ", 0],
     [4, "色褪せない瞳", "瀧川ありさ", 0],
@@ -766,7 +647,7 @@ catalognumber = "SECL-2064~5"
 date = "2016-11-02"
 album = "at film. / 瀧川ありさ Disc 2 (DVD) [SECL-2065]"
 tracks = [
-    [1, "Season (Music Video)", "瀧川ありさ", 0],
+    [1, "Season (Music Video)", "瀧川ありさ", 1],
     [2, "夏の花 (Music Video)", "瀧川ありさ", 0],
     [3, "さよならのゆくえ (Music Video)", "瀧川ありさ", 0],
     [4, "Again (Music Video)", "瀧川ありさ", 0],
@@ -781,7 +662,7 @@ catalognumber = "SECL-2066"
 date = "2016-11-02"
 album = "at film. / 瀧川ありさ"
 tracks = [
-    [1, "Season", "瀧川ありさ", 0],
+    [1, "Season", "瀧川ありさ", 1],
     [2, "BOY'S CHRONICLE", "瀧川ありさ", 0],
     [3, "さよならのゆくえ", "瀧川ありさ", 0],
     [4, "色褪せない瞳", "瀧川ありさ", 0],
@@ -804,7 +685,7 @@ album = "Howling / FLOW×GRANRODEO [初回生産限定盤] Vocal, Live Event"
 tracks = [
     [1, "Howling", "FLOW×GRANRODEO", 0],
     [2, "GLOW", "FLOW×GRANRODEO", 0],
-    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 0],
+    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 1],
     [4, "Howling -Instrumental-", "FLOW×GRANRODEO", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/cb26b6b3-4f31-4b3b-9fab-eea68478470d", "https://vgmdb.net/album/73414"]
@@ -826,7 +707,7 @@ album = "Howling / FLOW×GRANRODEO [期間生産限定盤] Vocal, Live Event"
 tracks = [
     [1, "Howling", "FLOW×GRANRODEO", 0],
     [2, "GLOW", "FLOW×GRANRODEO", 0],
-    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 0],
+    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 1],
     [4, "Howling -Instrumental-", "FLOW×GRANRODEO", 0],
     [5, "Howling -TV Size-", "FLOW×GRANRODEO", 0],
 ]
@@ -849,7 +730,7 @@ album = "Howling / FLOW×GRANRODEO"
 tracks = [
     [1, "Howling", "FLOW×GRANRODEO", 0],
     [2, "GLOW", "FLOW×GRANRODEO", 0],
-    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 0],
+    [3, "7-seven- (Animelo Summer Live 2017 -THE CARD-)", "FLOW×GRANRODEO", 1],
     [4, "Howling -Instrumental-", "FLOW×GRANRODEO", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/cb26b6b3-4f31-4b3b-9fab-eea68478470d", "https://vgmdb.net/album/73415"]
@@ -1255,17 +1136,17 @@ catalognumber = "SVWC-70354~5"
 date = "2018-08-15"
 album = "劇場版 七つの大罪 天空の囚われ人 オリジナルサウンドトラック Disc 1 [SVWC-70354]"
 tracks = [
-    [1, "72-:31 X9", "澤野弘之", 0],
-    [2, "銅鑼Gong4N ＜X9＞", "澤野弘之", 0],
-    [3, "96-6ki4", "澤野弘之", 0],
+    [1, "72-:31 X9", "澤野弘之", 1],
+    [2, "銅鑼Gong4N ＜X9＞", "澤野弘之", 1],
+    [3, "96-6ki4", "澤野弘之", 1],
     [4, "L-Latte", "澤野弘之", 0],
-    [5, "dEvilGODfamily復活動 ＜X9＞", "澤野弘之", 0],
+    [5, "dEvilGODfamily復活動 ＜X9＞", "澤野弘之", 1],
     [6, "BellRingOn", "澤野弘之", 0],
-    [7, "7角: the1 ＜X9＞", "澤野弘之", 0],
+    [7, "7角: the1 ＜X9＞", "澤野弘之", 1],
     [8, "ELIEtheBEST", "澤野弘之", 0],
     [9, "過多6-$ ＜X9＞", "澤野弘之", 0],
     [10, "2血上-BiGsIn", "澤野弘之", 0],
-    [11, "銅鑼Gong4N ＜X9-Orch＞", "澤野弘之", 0],
+    [11, "銅鑼Gong4N ＜X9-Orch＞", "澤野弘之", 1],
     [12, "10A0D-Beet", "澤野弘之", 0],
     [13, "天と地との扉", "和田貴史", 0],
     [14, "大罪な人たちは怖い人?", "和田貴史", 0],
@@ -1288,7 +1169,7 @@ catalognumber = "SVWC-70354~5"
 date = "2018-08-15"
 album = "劇場版 七つの大罪 天空の囚われ人 オリジナルサウンドトラック Disc 2 [SVWC-70355]"
 tracks = [
-    [1, "96-6ki4-◯4n", "澤野弘之", 0],
+    [1, "96-6ki4-◯4n", "澤野弘之", 1],
     [2, "魔神 ダハーカ", "和田貴史", 0],
     [3, "オシロ様!", "和田貴史", 0],
     [4, "古の儀式", "和田貴史", 0],
@@ -1301,9 +1182,9 @@ tracks = [
     [11, "[104EYES-29CA2]suite-4楽章", "澤野弘之", 0],
     [12, "104EYES-inter", "澤野弘之", 0],
     [13, "104EYES-piano2", "澤野弘之", 0],
-    [14, "Perfect Time", "澤野弘之", 0],
-    [15, "Eri0ne$", "澤野弘之", 0],
-    [16, "GR雷", "澤野弘之", 0],
+    [14, "Perfect Time", "澤野弘之", 1],
+    [15, "Eri0ne$", "澤野弘之", 1],
+    [16, "GR雷", "澤野弘之", 1],
     [17, "Prologue", "KOHTA YAMAMOTO", 0],
     [18, "Here comes the Jikkai", "KOHTA YAMAMOTO", 0],
     [19, "One Love", "KOHTA YAMAMOTO", 0],
@@ -1751,8 +1632,8 @@ catalognumber = "VPCY-75159C"
 date = "2020-02-12"
 album = "七つの大罪 神々の逆鱗 Original Soundtrack"
 tracks = [
-    [1, "72-:THE1/KG-GR-1", "澤野弘之", 0],
-    [2, "72-:THE1/KG-GR-2", "澤野弘之", 0],
+    [1, "72-:THE1/KG-GR-1", "澤野弘之", 1],
+    [2, "72-:THE1/KG-GR-2", "澤野弘之", 1],
     [3, "種越祭", "KOHTA YAMAMOTO", 0],
     [4, "機械じかけの心", "KOHTA YAMAMOTO", 0],
     [5, "Thousand Love", "KOHTA YAMAMOTO", 0],
@@ -1762,8 +1643,8 @@ tracks = [
     [9, "聖戦の現実", "KOHTA YAMAMOTO", 0],
     [10, "魔神族進軍", "KOHTA YAMAMOTO", 0],
     [11, "Thousand Love -PF-", "KOHTA YAMAMOTO", 0],
-    [12, "72-:THE1/KG-GR-3", "澤野弘之", 0],
-    [13, "72-:THE1/KG-GR-4", "澤野弘之", 0],
+    [12, "72-:THE1/KG-GR-3", "澤野弘之", 1],
+    [13, "72-:THE1/KG-GR-4", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/daddf001-1b6d-4063-ab5b-2aee6708d2ed", "https://vgmdb.net/album/91316"]
 
@@ -1867,10 +1748,10 @@ album = "MAN WITH A \"REMIX\" MISSION"
 tracks = [
     [1, "Take Me Under [TAKESHI UEDA (AA=) Remix]", "MAN WITH A MISSION", 0],
     [2, "FLY AGAIN -Hero's Anthem-", "MAN WITH A MISSION", 0],
-    [3, "Seven Deadly Sins[remix]", "MAN WITH A MISSION", 0],
+    [3, "Seven Deadly Sins[remix]", "MAN WITH A MISSION", 1],
     [4, "Bubble of Life [remix]", "MAN WITH A MISSION", 0],
     [5, "Memories [Ken Ishii Remix]", "MAN WITH A MISSION", 0],
-    [6, "evils fall [remix]", "MAN WITH A MISSION", 0],
+    [6, "evils fall [remix]", "MAN WITH A MISSION", 1],
     [7, "Dead End in Tokyo [Jagz Kooner Remix]", "MAN WITH A MISSION", 0],
     [8, "My Hero [Slushii Remix]", "MAN WITH A MISSION", 0],
     [9, "DON'T LOSE YOURSELF～FXXKIN' Mix～", "MAN WITH A MISSION", 0],
@@ -1894,13 +1775,13 @@ tracks = [
     [7, "Get Off of My Way", "MAN WITH A MISSION", 0],
     [8, "higher", "MAN WITH A MISSION", 0],
     [9, "FLY AGAIN 2019", "MAN WITH A MISSION", 0],
-    [10, "Dive", "MAN WITH A MISSION", 0],
+    [10, "Dive", "MAN WITH A MISSION", 1],
     [11, "Emotions", "MAN WITH A MISSION", 0],
     [12, "Hey Now", "MAN WITH A MISSION", 0],
     [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
     [14, "Dead End in Tokyo", "MAN WITH A MISSION", 0],
     [15, "Take What U Want", "MAN WITH A MISSION", 0],
-    [16, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
+    [16, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
     [17, "My Hero", "MAN WITH A MISSION", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6a6ce67e-aba2-4787-8cb8-5896d57a0691", "https://vgmdb.net/album/100866"]
@@ -1919,13 +1800,13 @@ tracks = [
     [7, "Get Off of My Way", "MAN WITH A MISSION", 0],
     [8, "higher", "MAN WITH A MISSION", 0],
     [9, "FLY AGAIN 2019", "MAN WITH A MISSION", 0],
-    [10, "Dive", "MAN WITH A MISSION", 0],
+    [10, "Dive", "MAN WITH A MISSION", 1],
     [11, "Emotions", "MAN WITH A MISSION", 0],
     [12, "Hey Now", "MAN WITH A MISSION", 0],
     [13, "database", "MAN WITH A MISSION feat. TAKUMA (10‐FEET)", 0],
     [14, "Dead End in Tokyo", "MAN WITH A MISSION", 0],
     [15, "Take What U Want", "MAN WITH A MISSION", 0],
-    [16, "Seven Deadly Sins", "MAN WITH A MISSION", 0],
+    [16, "Seven Deadly Sins", "MAN WITH A MISSION", 1],
     [17, "My Hero", "MAN WITH A MISSION", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/6a6ce67e-aba2-4787-8cb8-5896d57a0691", "https://vgmdb.net/album/100868"]
@@ -2225,14 +2106,14 @@ date = "2021-07-02"
 album = "劇場版 七つの大罪 光に呪われし者たち オリジナル・サウンドトラック"
 tracks = [
     [1, "呪われた争い <序章>", "KOHTA YAMAMOTO", 0],
-    [2, "7TZ-HNMT1", "澤野弘之", 0],
+    [2, "7TZ-HNMT1", "澤野弘之", 1],
     [3, "なんだかんだ兄弟", "KOHTA YAMAMOTO", 0],
     [4, "Message from...", "KOHTA YAMAMOTO", 0],
-    [5, "銅鑼Gong4N <HNMT>", "澤野弘之", 0],
+    [5, "銅鑼Gong4N <HNMT>", "澤野弘之", 1],
     [6, "Happy Busy Day", "KOHTA YAMAMOTO", 0],
     [7, "ジャンケンかよ!", "KOHTA YAMAMOTO", 0],
     [8, "婚姻の儀", "KOHTA YAMAMOTO", 0],
-    [9, "7TZ-HNMT2", "澤野弘之", 0],
+    [9, "7TZ-HNMT2", "澤野弘之", 1],
     [10, "降りかかる争い", "KOHTA YAMAMOTO", 0],
     [11, "See Eye 2 Eye", "KOHTA YAMAMOTO", 0],
     [12, "Unknown Destroyers", "KOHTA YAMAMOTO", 0],
@@ -2250,7 +2131,7 @@ tracks = [
     [24, "最高神", "KOHTA YAMAMOTO", 0],
     [25, "神罰", "KOHTA YAMAMOTO", 0],
     [26, "光に抗う者たち", "KOHTA YAMAMOTO", 0],
-    [27, "Perfect Time <HNMT>", "澤野弘之", 0],
+    [27, "Perfect Time <HNMT>", "澤野弘之", 1],
     [28, "~All's Well That Ends Well~", "KOHTA YAMAMOTO", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/e98a0b34-999a-4ad2-b96e-ca8c68f7a024", "https://vgmdb.net/album/112530"]
@@ -2321,7 +2202,7 @@ album = "Break and Cross the Walls I / MAN WITH A MISSION [初回生産限定盤
 tracks = [
     [1, "INTO THE DEEP", "", 0],
     [2, "2045", "", 0],
-    [3, "Seven Deadly Sins", "", 0],
+    [3, "Seven Deadly Sins", "", 1],
     [4, "Perfect Clarity", "", 0],
     [5, "フォーカスライト", "", 0],
     [6, "Take Me Under", "", 0],
@@ -2384,7 +2265,7 @@ tracks = [
     [12, "WATER LIGHT", "澤野弘之", 0],
     [13, "Ξ", "澤野弘之", 0],
     [14, "Into the Sky", "澤野弘之", 0],
-    [15, "Eri0ne$", "澤野弘之", 0],
+    [15, "Eri0ne$", "澤野弘之", 1],
     [16, "PIANO[-30k]-001", "澤野弘之", 0],
     [17, "Call your name", "澤野弘之", 0],
     [18, "pianoBLUE", "澤野弘之", 0],
@@ -2558,7 +2439,7 @@ tracks = [
     [12, "WATER LIGHT", "澤野弘之", 0],
     [13, "Ξ", "澤野弘之", 0],
     [14, "Into the Sky", "澤野弘之", 0],
-    [15, "Eri0ne$", "澤野弘之", 0],
+    [15, "Eri0ne$", "澤野弘之", 1],
     [16, "PIANO[-30k]-001", "澤野弘之", 0],
     [17, "Call your name", "澤野弘之", 0],
     [18, "pianoBLUE", "澤野弘之", 0],
@@ -2574,8 +2455,8 @@ tracks = [
     [1, "introduction", "澤野弘之", 0],
     [2, "MOBILE SUIT～GUNDAM", "澤野弘之", 0],
     [3, "KINGDOM‐DUE", "澤野弘之", 0],
-    [4, "Perfect Time", "澤野弘之", 0],
-    [5, "銅鑼Gong4N", "澤野弘之", 0],
+    [4, "Perfect Time", "澤野弘之", 1],
+    [5, "銅鑼Gong4N", "澤野弘之", 1],
     [6, "斬LLLア生LL～鬼龍G@キLL", "澤野弘之", 0],
     [7, "PRO//MARE", "澤野弘之", 0],
     [8, "ΛSHES<MODv>", "澤野弘之", 0],
@@ -2595,228 +2476,12 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/790bca04-7c11-4640-bbda-88ace2035d58", "https://vgmdb.net/album/115314"]
 
-[11884648efc65692332cb0511ce9fbb7]
-catalognumber = "SMCL-746"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - RED -"
-tracks = [
-    [1, "irodori", "雨宮天", 0],
-    [2, "Shu!Bi!Du!Ba!", "雨宮天", 0],
-    [3, "Fluegel", "雨宮天", 0],
-    [4, "エデンの旅人", "雨宮天", 0],
-    [5, "Emerald", "雨宮天", 0],
-    [6, "月灯り", "雨宮天", 0],
-    [7, "火花", "雨宮天", 0],
-    [8, "ロンリーナイト・ディスコティック", "雨宮天", 0],
-    [9, "Queen no' cry", "雨宮天", 0],
-    [10, "羽根輪舞", "雨宮天", 0],
-    [11, "メリーゴーランド", "雨宮天", 0],
-    [12, "VIPER", "雨宮天", 0],
-    [13, "フリイジア", "雨宮天", 0],
-    [14, "誓い", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/1fb5543e-0a26-4821-8adf-9b6c56077021", "https://vgmdb.net/album/115696"]
-
-[5ac9b8e23d5abe5de7aa9a655931fc4f]
-catalognumber = "SMCL-741~2"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - BLUE - [初回生産限定盤] Vocal"
-tracks = [
-    [1, "This HOPE", "雨宮天", 0],
-    [2, "Skyreach", "雨宮天", 0],
-    [3, "Marvelous scene", "雨宮天", 0],
-    [4, "Defiance", "雨宮天", 0],
-    [5, "Silent Sword", "雨宮天", 0],
-    [6, "Trust Your Mind", "雨宮天", 0],
-    [7, "永遠のAria", "雨宮天", 0],
-    [8, "Regeneration", "雨宮天", 0],
-    [9, "Absolute Blue", "雨宮天", 0],
-    [10, "Eternal", "雨宮天", 0],
-    [11, "Velvet Rays", "雨宮天", 0],
-    [12, "蒼天のシンフォニア", "雨宮天", 0],
-    [13, "PARADOX", "雨宮天", 0],
-    [14, "Song for", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/4687f730-dbaf-4050-908d-06ead9f3f8bf", "https://vgmdb.net/album/115695"]
-
-[ce3837b61fa70193e4648cd238119cdd]
-catalognumber = "SMCL-741~2"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - BLUE - [初回生産限定盤] Vocal, Live Event, Video"
-tracks = [
-    [1, "Paint it, BLUE –overtune–", "雨宮天", 0],
-    [2, "Fluegel", "雨宮天", 0],
-    [3, "Defiance", "雨宮天", 0],
-    [4, "PARADOX", "雨宮天", 0],
-    [5, "Next Dimension", "雨宮天", 0],
-    [6, "蒼天のシンフォニア", "雨宮天", 0],
-    [7, "火花", "雨宮天", 0],
-    [8, "奏（かなで）", "雨宮天", 0],
-    [9, "Song for", "雨宮天", 0],
-    [10, "Queen no’ cry", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/4687f730-dbaf-4050-908d-06ead9f3f8bf", "https://vgmdb.net/album/115695"]
-
-[ec1fdc111f966c149df30680724dd880]
-catalognumber = "SMCL-743"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - BLUE -"
-tracks = [
-    [1, "This HOPE", "雨宮天", 0],
-    [2, "Skyreach", "雨宮天", 0],
-    [3, "Marvelous scene", "雨宮天", 0],
-    [4, "Defiance", "雨宮天", 0],
-    [5, "Silent Sword", "雨宮天", 0],
-    [6, "Trust Your Mind", "雨宮天", 0],
-    [7, "永遠のAria", "雨宮天", 0],
-    [8, "Regeneration", "雨宮天", 0],
-    [9, "Absolute Blue", "雨宮天", 0],
-    [10, "Eternal", "雨宮天", 0],
-    [11, "Velvet Rays", "雨宮天", 0],
-    [12, "蒼天のシンフォニア", "雨宮天", 0],
-    [13, "PARADOX", "雨宮天", 0],
-    [14, "Song for", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/49362341-8f61-44b1-919e-bba9dee80456", "https://vgmdb.net/album/115694"]
-
-[45499982c231db9bc3d7ebdf3312631b]
-catalognumber = "SMCL-744~5"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - RED - [初回生産限定盤] Vocal"
-tracks = [
-    [1, "irodori", "雨宮天", 0],
-    [2, "Shu!Bi!Du!Ba!", "雨宮天", 0],
-    [3, "Fluegel", "雨宮天", 0],
-    [4, "エデンの旅人", "雨宮天", 0],
-    [5, "Emerald", "雨宮天", 0],
-    [6, "月灯り", "雨宮天", 0],
-    [7, "火花", "雨宮天", 0],
-    [8, "ロンリーナイト・ディスコティック", "雨宮天", 0],
-    [9, "Queen no' cry", "雨宮天", 0],
-    [10, "羽根輪舞", "雨宮天", 0],
-    [11, "メリーゴーランド", "雨宮天", 0],
-    [12, "VIPER", "雨宮天", 0],
-    [13, "フリイジア", "雨宮天", 0],
-    [14, "誓い", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/fc4f84f3-39e9-4b03-b423-b8f07dfcca97", "https://vgmdb.net/album/115697"]
-
-[96cf70c910aef0ac1699b98bd338172c]
-catalognumber = "SMCL-744~5"
-date = "2022-01-05"
-album = "雨宮天 BEST ALBUM - RED - [初回生産限定盤] Vocal, Video"
-tracks = [
-    [1, "ロンリーナイト・ディスコティック Music Video", "雨宮天", 0],
-    [2, "Jacket & Music Video Making", "雨宮天", 0],
-]
-links = ["https://beta.musicbrainz.org/release/fc4f84f3-39e9-4b03-b423-b8f07dfcca97", "https://vgmdb.net/album/115697"]
-
 [3d6364fa917cb54a79abda64d8887650]
 catalognumber = "VPCT-71869"
 date = "2022-05-25"
 album = "『劇場版 七つの大罪 光に呪われし者たち』オリジナル・サウンドトラック"
 tracks = []
 links = ["https://vgmdb.net/album/118472"]
-
-[52ced5135907146bc757a1668928afd7]
-catalognumber = "SMXL-23~5"
-date = "2022-09-28"
-album = "雨宮天 ライブツアー2022 \"BEST LIVE TOUR -SKY-\" [初回生産限定盤] Vocal, Live Event Disc 2"
-tracks = [
-    [1, "Fluegel", "", 0],
-    [2, "永遠のAria", "", 0],
-    [3, "蒼天のシンフォニア", "", 0],
-    [4, "PARADOX", "", 0],
-    [5, "夢空", "", 0],
-    [6, "Shu!Bi!Du!Ba!", "", 0],
-    [7, "Emerald", "", 0],
-    [8, "Catharsis", "", 0],
-    [9, "フリイジア", "", 0],
-]
-links = ["https://vgmdb.net/album/121315"]
-
-[8bd8ee78f0873a5e470a3ac5ec8ab993]
-catalognumber = "SMXL-23~5"
-date = "2022-09-28"
-album = "雨宮天 ライブツアー2022 \"BEST LIVE TOUR -SKY-\" [初回生産限定盤] Vocal, Live Event, Video"
-tracks = [
-    [1, "Fluegel", "", 0],
-    [2, "永遠のAria", "", 0],
-    [3, "蒼天のシンフォニア", "", 0],
-    [4, "PARADOX", "", 0],
-    [5, "夢空", "", 0],
-    [6, "Shu!Bi!Du!Ba!", "", 0],
-    [7, "Emerald", "", 0],
-    [8, "Catharsis", "", 0],
-    [9, "フリイジア", "", 0],
-    [10, "Queen no' cry", "", 0],
-    [11, "BLUE BLUES", "", 0],
-    [12, "irodori", "", 0],
-    [13, "ロンリーナイト・ディスコティック", "", 0],
-    [14, "Song for", "", 0],
-    [15, "Absolute Blue", "", 0],
-    [16, "Eternal", "", 0],
-    [17, "Silent Sword", "", 0],
-    [18, "Skyreach", "", 0],
-    [19, "Next Dimension", "", 0],
-    [20, "君を通して", "", 0],
-    [21, "誓い", "", 0],
-    [22, "This Hope", "", 0],
-    [23, "Backstage at PACIFICO Yokohama 22.03.27", "", 0],
-]
-links = ["https://vgmdb.net/album/121315"]
-
-[6ba7f8e66c597e606be98fea940faf82]
-catalognumber = "SMXL-23~5"
-date = "2022-09-28"
-album = "雨宮天 ライブツアー2022 \"BEST LIVE TOUR -SKY-\" [初回生産限定盤] Vocal, Live Event Disc 3"
-tracks = [
-    [1, "Queen no' cry", "", 0],
-    [2, "BLUE BLUES", "", 0],
-    [3, "irodori", "", 0],
-    [4, "ロンリーナイト・ディスコティック", "", 0],
-    [5, "Song for", "", 0],
-    [6, "Absolute Blue", "", 0],
-    [7, "Eternal", "", 0],
-    [8, "Silent Sword", "", 0],
-    [9, "Skyreach", "", 0],
-    [10, "Next Dimension", "", 0],
-    [11, "君を通して", "", 0],
-    [12, "誓い", "", 0],
-    [13, "This Hope", "", 0],
-]
-links = ["https://vgmdb.net/album/121315"]
-
-[2e142380503789f2cf005b6bfc7b6737]
-catalognumber = "SMXL-26"
-date = "2022-09-28"
-album = "雨宮天 ライブツアー2022 \"BEST LIVE TOUR -SKY-\""
-tracks = [
-    [1, "Fluegel", "", 0],
-    [2, "永遠のAria", "", 0],
-    [3, "蒼天のシンフォニア", "", 0],
-    [4, "PARADOX", "", 0],
-    [5, "夢空", "", 0],
-    [6, "Shu!Bi!Du!Ba!", "", 0],
-    [7, "Emerald", "", 0],
-    [8, "Catharsis", "", 0],
-    [9, "フリイジア", "", 0],
-    [10, "Queen no' cry", "", 0],
-    [11, "BLUE BLUES", "", 0],
-    [12, "irodori", "", 0],
-    [13, "ロンリーナイト・ディスコティック", "", 0],
-    [14, "Song for", "", 0],
-    [15, "Absolute Blue", "", 0],
-    [16, "Eternal", "", 0],
-    [17, "Silent Sword", "", 0],
-    [18, "Skyreach", "", 0],
-    [19, "Next Dimension", "", 0],
-    [20, "君を通して", "", 0],
-    [21, "誓い", "", 0],
-    [22, "This Hope", "", 0],
-    [23, "Backstage at PACIFICO Yokohama 22.03.27", "", 0],
-]
-links = ["https://vgmdb.net/album/121314"]
 
 [37379d6bbb30e88825a7ab2f51db609f]
 catalognumber = "VVCL-2166~7"
@@ -2827,7 +2492,7 @@ tracks = [
     [2, "FAKEit", "SawanoHiroyuki[nZk]:Laco", 0],
     [3, "LEMONADE", "SawanoHiroyuki[nZk]:XAI", 0],
     [4, "B∀LK", "SawanoHiroyuki[nZk]:suis from ヨルシカ", 0],
-    [5, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
+    [5, "7th String", "SawanoHiroyuki[nZk]:ReN", 1],
     [6, "OUTSIDERS", "SawanoHiroyuki[nZk]:河野純喜&與那城奨(JO1)", 0],
     [7, "Hands Up to the Sky", "SawanoHiroyuki[nZk]:Laco", 0],
     [8, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
@@ -2988,7 +2653,7 @@ tracks = [
     [7, "NOISEofRAIN", "SawanoHiroyuki[nZk]:Takanori Nishikawa", 0],
     [8, "COLORs", "SawanoHiroyuki[nZk]:Hata Motohiro", 0],
     [9, "膏", "SawanoHiroyuki[nZk]:okazakitaiiku", 0],
-    [10, "7th String", "SawanoHiroyuki[nZk]:ReN", 0],
+    [10, "7th String", "SawanoHiroyuki[nZk]:ReN", 1],
     [11, "Till I", "SawanoHiroyuki[nZk]:優里", 0],
     [12, "never gonna change", "SawanoHiroyuki[nZk]:スキマスイッチ", 0],
     [13, "LilaS", "SawanoHiroyuki[nZk]:Honoka Takahashi", 0],
@@ -3150,7 +2815,7 @@ tracks = [
     [8, "CRY", "澤野弘之", 0],
     [9, "TRACER", "澤野弘之", 0],
     [10, "Inferno", "澤野弘之", 0],
-    [11, "Perfect Time", "澤野弘之", 0],
+    [11, "Perfect Time", "澤野弘之", 1],
     [12, "THE ANSWER", "澤野弘之", 0],
     [13, "FAKEit", "澤野弘之", 0],
     [14, "Cage", "澤野弘之", 0],
