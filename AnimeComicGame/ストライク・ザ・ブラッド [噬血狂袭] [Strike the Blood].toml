@@ -3,10 +3,10 @@ catalognumber = "1000427829"
 date = "2013-10-30"
 album = "ストライク・ザ・ブラッド / 岸田教団&THE明星ロケッツ"
 tracks = [
-    [1, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
-    [2, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
-    [3, "ストライク・ザ・ブラッド (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
-    [4, "ハンゲツトウゲ (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
+    [2, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
+    [3, "ストライク・ザ・ブラッド (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
+    [4, "ハンゲツトウゲ (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7b9f7f5b-e308-4925-b161-5f6ee27efeef", "https://vgmdb.net/album/41914"]
 
@@ -15,10 +15,10 @@ catalognumber = "1000427828"
 date = "2013-10-30"
 album = "ストライク・ザ・ブラッド / 岸田教団&THE明星ロケッツ Disc 1 (CD) [1000427828-CD]"
 tracks = [
-    [1, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
-    [2, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
-    [3, "ストライク・ザ・ブラッド (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
-    [4, "ハンゲツトウゲ (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
+    [2, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
+    [3, "ストライク・ザ・ブラッド (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
+    [4, "ハンゲツトウゲ (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a1aa0059-7ebf-450a-b47d-5c4a87a99592", "https://vgmdb.net/album/41926"]
 
@@ -27,8 +27,8 @@ catalognumber = "1000427828"
 date = "2013-10-30"
 album = "ストライク・ザ・ブラッド / 岸田教団&THE明星ロケッツ Disc 2 (DVD) [1000427828-SD]"
 tracks = [
-    [1, "ストライク・ザ・ブラッド MUSIC Video", "岸田教団&THE明星ロケッツ", 0],
-    [2, "ストライク・ザ・ブラッド TV-SPOT", "岸田教団&THE明星ロケッツ", 0],
+    [1, "ストライク・ザ・ブラッド MUSIC Video", "岸田教団&THE明星ロケッツ", 1],
+    [2, "ストライク・ザ・ブラッド TV-SPOT", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a1aa0059-7ebf-450a-b47d-5c4a87a99592", "https://vgmdb.net/album/41926"]
 
@@ -37,10 +37,10 @@ catalognumber = "1000427831"
 date = "2013-11-27"
 album = "rainbow heart ♡ rainbow dream ☆/Strike my soul / 井口裕香"
 tracks = [
-    [1, "Strike my soul", "井口裕香", 0],
-    [2, "rainbow heart ♡ rainbow dream ☆", "井口裕香", 0],
-    [3, "Strike my soul (Instrumental)", "井口裕香", 0],
-    [4, "rainbow heart ♡ rainbow dream ☆ (Instrumental)", "井口裕香", 0],
+    [1, "Strike my soul", "井口裕香", 1],
+    [2, "rainbow heart ♡ rainbow dream ☆", "井口裕香", 1],
+    [3, "Strike my soul (Instrumental)", "井口裕香", 1],
+    [4, "rainbow heart ♡ rainbow dream ☆ (Instrumental)", "井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/30d9aa49-e760-4de5-8cd7-7831434c3b0c", "https://vgmdb.net/album/41915"]
 
@@ -49,10 +49,10 @@ catalognumber = "1000427830"
 date = "2013-11-27"
 album = "rainbow heart ♡ rainbow dream ☆/Strike my soul / 井口裕香 Disc 1 (CD) [1000427830-CD]"
 tracks = [
-    [1, "rainbow heart ♡ rainbow dream ☆", "井口裕香", 0],
-    [2, "Strike my soul", "井口裕香", 0],
-    [3, "rainbow heart ♡ rainbow dream ☆ (Instrumental)", "井口裕香", 0],
-    [4, "Strike my soul (Instrumental)", "井口裕香", 0],
+    [1, "rainbow heart ♡ rainbow dream ☆", "井口裕香", 1],
+    [2, "Strike my soul", "井口裕香", 1],
+    [3, "rainbow heart ♡ rainbow dream ☆ (Instrumental)", "井口裕香", 1],
+    [4, "Strike my soul (Instrumental)", "井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d9b684e4-9934-4ecb-af99-0fc36c4898b5", "https://vgmdb.net/album/41917"]
 
@@ -61,8 +61,8 @@ catalognumber = "1000427830"
 date = "2013-11-27"
 album = "rainbow heart ♡ rainbow dream ☆/Strike my soul / 井口裕香 Disc 2 (DVD) [1000427830-SD]"
 tracks = [
-    [1, "rainbow heart ♡ rainbow dream ☆ Music Video", "", 0],
-    [2, "rainbow heart ♡ rainbow dream ☆ MV Making film", "", 0],
+    [1, "rainbow heart ♡ rainbow dream ☆ Music Video", "", 1],
+    [2, "rainbow heart ♡ rainbow dream ☆ MV Making film", "", 1],
     [3, "TV-SPOT", "", 0],
 ]
 links = ["https://vgmdb.net/album/41917"]
@@ -72,10 +72,10 @@ catalognumber = "1000451807"
 date = "2014-01-29"
 album = "Fight 4 Real / ALTIMA [Limited Edition] Disc 1 (CD) [1000451807-CD]"
 tracks = [
-    [1, "Fight 4 Real", "ALTIMA", 0],
-    [2, "NORADRENALINE", "ALTIMA", 0],
-    [3, "Fight 4 Real -Instrumental-", "ALTIMA", 0],
-    [4, "NORADRENALINE -Instrumental-", "ALTIMA", 0],
+    [1, "Fight 4 Real", "ALTIMA", 1],
+    [2, "NORADRENALINE", "ALTIMA", 1],
+    [3, "Fight 4 Real -Instrumental-", "ALTIMA", 1],
+    [4, "NORADRENALINE -Instrumental-", "ALTIMA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b5caff76-8bf1-4f37-bf7b-44b085d5fb56", "https://vgmdb.net/album/42824"]
 
@@ -84,9 +84,9 @@ catalognumber = "1000451807"
 date = "2014-01-29"
 album = "Fight 4 Real / ALTIMA [Limited Edition] Disc 2 (DVD) [1000451807-SD]"
 tracks = [
-    [1, "Fight 4 Real MUSIC Video", "", 0],
-    [2, "Fight 4 Real TV-SPOT", "", 0],
-    [3, "Fight 4 Real MV Making Film", "", 0],
+    [1, "Fight 4 Real MUSIC Video", "", 1],
+    [2, "Fight 4 Real TV-SPOT", "", 1],
+    [3, "Fight 4 Real MV Making Film", "", 1],
 ]
 links = ["https://vgmdb.net/album/42824"]
 
@@ -95,36 +95,36 @@ catalognumber = "1000451395-CD"
 date = "2014-01-29"
 album = "ストライク・ザ・ブラッド オリジナルサウンドトラック Vol.1"
 tracks = [
-    [1, "ストライク・ザ・ブラッド (TV-size)", "岸田教団&THE明星ロケッツ", 0],
-    [2, "STRIKE THE BLOOD", "ASSUMED SOUNDS", 0],
-    [3, "動き出す真意", "ASSUMED SOUNDS", 0],
-    [4, "獅子王機関", "ASSUMED SOUNDS", 0],
-    [5, "パーティー会場にて", "ASSUMED SOUNDS", 0],
-    [6, "第四真祖の悩み", "ASSUMED SOUNDS", 0],
-    [7, "剣巫", "ASSUMED SOUNDS", 0],
-    [8, "登校風景", "ASSUMED SOUNDS", 0],
-    [9, "ふたりで買い物に", "ASSUMED SOUNDS", 0],
-    [10, "そして日常に", "ASSUMED SOUNDS", 0],
-    [11, "那月のお小言", "ASSUMED SOUNDS", 0],
-    [12, "ふたりの関係は？", "ASSUMED SOUNDS", 0],
-    [13, "日常の、ちょっとしたこと", "ASSUMED SOUNDS", 0],
-    [14, "日差しの中で", "ASSUMED SOUNDS", 0],
-    [15, "何を隠してるの？", "ASSUMED SOUNDS", 0],
-    [16, "忘れていた過去", "ASSUMED SOUNDS", 0],
-    [17, "あなただから。", "ASSUMED SOUNDS", 0],
-    [18, "本当の気持ちを", "ASSUMED SOUNDS", 0],
-    [19, "いつか思い出す彼女", "ASSUMED SOUNDS", 0],
-    [20, "彼女のやさしさ", "ASSUMED SOUNDS", 0],
-    [21, "一途な想い", "ASSUMED SOUNDS", 0],
-    [22, "その決意の先に", "ASSUMED SOUNDS", 0],
-    [23, "暗雲が空を覆い", "ASSUMED SOUNDS", 0],
-    [24, "神々の兵器", "ASSUMED SOUNDS", 0],
-    [25, "ホムンクルス", "ASSUMED SOUNDS", 0],
-    [26, "魔族特区", "ASSUMED SOUNDS", 0],
-    [27, "強大なチカラ", "ASSUMED SOUNDS", 0],
-    [28, "疾風怒濤", "ASSUMED SOUNDS", 0],
-    [29, "チェイス", "ASSUMED SOUNDS", 0],
-    [30, "Strike my soul (TV-size)", "井口裕香", 0],
+    [1, "ストライク・ザ・ブラッド (TV-size)", "岸田教団&THE明星ロケッツ", 1],
+    [2, "STRIKE THE BLOOD", "ASSUMED SOUNDS", 1],
+    [3, "動き出す真意", "ASSUMED SOUNDS", 1],
+    [4, "獅子王機関", "ASSUMED SOUNDS", 1],
+    [5, "パーティー会場にて", "ASSUMED SOUNDS", 1],
+    [6, "第四真祖の悩み", "ASSUMED SOUNDS", 1],
+    [7, "剣巫", "ASSUMED SOUNDS", 1],
+    [8, "登校風景", "ASSUMED SOUNDS", 1],
+    [9, "ふたりで買い物に", "ASSUMED SOUNDS", 1],
+    [10, "そして日常に", "ASSUMED SOUNDS", 1],
+    [11, "那月のお小言", "ASSUMED SOUNDS", 1],
+    [12, "ふたりの関係は？", "ASSUMED SOUNDS", 1],
+    [13, "日常の、ちょっとしたこと", "ASSUMED SOUNDS", 1],
+    [14, "日差しの中で", "ASSUMED SOUNDS", 1],
+    [15, "何を隠してるの？", "ASSUMED SOUNDS", 1],
+    [16, "忘れていた過去", "ASSUMED SOUNDS", 1],
+    [17, "あなただから。", "ASSUMED SOUNDS", 1],
+    [18, "本当の気持ちを", "ASSUMED SOUNDS", 1],
+    [19, "いつか思い出す彼女", "ASSUMED SOUNDS", 1],
+    [20, "彼女のやさしさ", "ASSUMED SOUNDS", 1],
+    [21, "一途な想い", "ASSUMED SOUNDS", 1],
+    [22, "その決意の先に", "ASSUMED SOUNDS", 1],
+    [23, "暗雲が空を覆い", "ASSUMED SOUNDS", 1],
+    [24, "神々の兵器", "ASSUMED SOUNDS", 1],
+    [25, "ホムンクルス", "ASSUMED SOUNDS", 1],
+    [26, "魔族特区", "ASSUMED SOUNDS", 1],
+    [27, "強大なチカラ", "ASSUMED SOUNDS", 1],
+    [28, "疾風怒濤", "ASSUMED SOUNDS", 1],
+    [29, "チェイス", "ASSUMED SOUNDS", 1],
+    [30, "Strike my soul (TV-size)", "井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6fadd29d-24a9-400c-92f6-a44a9f68ecda", "https://vgmdb.net/album/42720"]
 
@@ -133,10 +133,10 @@ catalognumber = "1000451808"
 date = "2014-01-29"
 album = "Fight 4 Real / ALTIMA"
 tracks = [
-    [1, "Fight 4 Real", "ALTIMA", 0],
-    [2, "NORADRENALINE", "ALTIMA", 0],
-    [3, "Fight 4 Real -Instrumental-", "ALTIMA", 0],
-    [4, "NORADRENALINE -Instrumental-", "ALTIMA", 0],
+    [1, "Fight 4 Real", "ALTIMA", 1],
+    [2, "NORADRENALINE", "ALTIMA", 1],
+    [3, "Fight 4 Real -Instrumental-", "ALTIMA", 1],
+    [4, "NORADRENALINE -Instrumental-", "ALTIMA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b5b82025-8a68-4a8d-96db-8efda1c50ae5", "https://vgmdb.net/album/42825"]
 
@@ -145,10 +145,10 @@ catalognumber = "1000464911"
 date = "2014-02-19"
 album = "signal / 分島花音 Disc 1 (CD) [1000464911-CD]"
 tracks = [
-    [1, "signal", "分島花音", 0],
-    [2, "無重力", "分島花音", 0],
-    [3, "signal (instrumental)", "分島花音", 0],
-    [4, "無重力 (instrumental)", "分島花音", 0],
+    [1, "signal", "分島花音", 1],
+    [2, "無重力", "分島花音", 1],
+    [3, "signal (instrumental)", "分島花音", 1],
+    [4, "無重力 (instrumental)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94b08a64-066e-4c1b-851c-17804d2e2752", "https://vgmdb.net/album/43053"]
 
@@ -157,9 +157,9 @@ catalognumber = "1000464911"
 date = "2014-02-19"
 album = "signal / 分島花音 Disc 2 (DVD) [1000464911-SD]"
 tracks = [
-    [1, "signal -Music Video", "", 0],
-    [2, "signal -MV Making", "", 0],
-    [3, "signal -TV-SPOT", "", 0],
+    [1, "signal -Music Video", "", 1],
+    [2, "signal -MV Making", "", 1],
+    [3, "signal -TV-SPOT", "", 1],
 ]
 links = ["https://vgmdb.net/album/43053"]
 
@@ -168,10 +168,10 @@ catalognumber = "1000464912"
 date = "2014-02-19"
 album = "signal / 分島花音"
 tracks = [
-    [1, "signal", "分島花音", 0],
-    [2, "無重力", "分島花音", 0],
-    [3, "signal (instrumental)", "分島花音", 0],
-    [4, "無重力 (instrumental)", "分島花音", 0],
+    [1, "signal", "分島花音", 1],
+    [2, "無重力", "分島花音", 1],
+    [3, "signal (instrumental)", "分島花音", 1],
+    [4, "無重力 (instrumental)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/539554d9-1f5a-4981-920b-c613a9cf3b68", "https://vgmdb.net/album/43054"]
 
@@ -180,8 +180,8 @@ catalognumber = "1000450789-CD"
 date = "2014-02-26"
 album = "「ストライク・ザ・ブラッド」キャラクターソング 雪菜⁄ 浅葱"
 tracks = [
-    [1, "Scarlet Flower", "姫柊雪菜(CV: 種田梨沙)", 0],
-    [2, "片恋Parameter", "藍羽浅葱(CV: 瀬戸麻沙美)", 0],
+    [1, "Scarlet Flower", "姫柊雪菜(CV: 種田梨沙)", 1],
+    [2, "片恋Parameter", "藍羽浅葱(CV: 瀬戸麻沙美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/93aff248-909c-42be-9d9d-960ff9d29158", "https://vgmdb.net/album/44014"]
 
@@ -191,7 +191,7 @@ date = "2014-03-26"
 album = "TRYANGLE / ALTIMA [完全初回生産限定盤] Vocal"
 tracks = [
     [1, "Walk This Way", "ALTIMA", 0],
-    [2, "Fight 4 Real", "ALTIMA", 0],
+    [2, "Fight 4 Real", "ALTIMA", 1],
     [3, "Burst The Gravity", "ALTIMA", 0],
     [4, "CYBER CYBER (Album ver.)", "ALTIMA", 0],
     [5, "Backfire", "ALTIMA", 0],
@@ -226,7 +226,7 @@ date = "2014-03-26"
 album = "TRYANGLE / ALTIMA"
 tracks = [
     [1, "Walk This Way", "ALTIMA", 0],
-    [2, "Fight 4 Real", "ALTIMA", 0],
+    [2, "Fight 4 Real", "ALTIMA", 1],
     [3, "Burst The Gravity", "ALTIMA", 0],
     [4, "CYBER CYBER (Album ver.)", "ALTIMA", 0],
     [5, "Backfire", "ALTIMA", 0],
@@ -245,8 +245,8 @@ catalognumber = "1000450786-CD"
 date = "2014-03-26"
 album = "「ストライク・ザ・ブラッド」キャラクターソング 凪沙/紗矢華"
 tracks = [
-    [1, "デイリー・ヒロイン", "暁凪沙(CV: 日高里菜)", 0],
-    [2, "テレプシコーラ", "煌坂紗矢華(CV: 葉山いくみ)", 0],
+    [1, "デイリー・ヒロイン", "暁凪沙(CV: 日高里菜)", 1],
+    [2, "テレプシコーラ", "煌坂紗矢華(CV: 葉山いくみ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d81442b3-81b8-4277-bf7e-7404c8774def", "https://vgmdb.net/album/44628"]
 
@@ -255,8 +255,8 @@ catalognumber = "1000450672-CD"
 date = "2014-04-23"
 album = "ストライク・ザ・ブラッド オーディオドラマ Vol.1"
 tracks = [
-    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 1", "", 0],
-    [2, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 2", "", 0],
+    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 1", "", 1],
+    [2, "ストライク・ザ・ブラッド オーディオドラマ Vol.1 Track 2", "", 1],
 ]
 links = ["https://vgmdb.net/album/44959"]
 
@@ -265,36 +265,36 @@ catalognumber = "1000450659-CD"
 date = "2014-05-28"
 album = "ストライク・ザ・ブラッド オリジナルサウンドトラック Vol.2"
 tracks = [
-    [1, "Fight 4 Real (TV-size)", "ALTIMA", 0],
-    [2, "一進一退", "堀江晶太", 0],
-    [3, "強襲", "堀江晶太", 0],
-    [4, "ワイズマンズ・ブラッド", "堀江晶太", 0],
-    [5, "魔女の願い", "斎藤優輝", 0],
-    [6, "思惑", "斎藤優輝", 0],
-    [7, "舞いそして踊れ", "堀江晶太", 0],
-    [8, "風が髪をなびかす", "斎藤優輝", 0],
-    [9, "絃神島ストリート", "千葉“naotyu‐”直樹", 0],
-    [10, "ティータイム", "堀江晶太", 0],
-    [11, "波朧院フェスタ", "堀江晶太", 0],
-    [12, "木漏れ日の下で", "堀江晶太", 0],
-    [13, "頼りになる妹", "斎藤優輝", 0],
-    [14, "監視者の日常", "斎藤優輝", 0],
-    [15, "もしかして…", "斎藤優輝", 0],
-    [16, "思い出は変わらない", "堀江晶太", 0],
-    [17, "Fight 4 Real (piano ver.)", "堀江晶太", 0],
-    [18, "面影", "菊池亮太", 0],
-    [19, "signal (piano ver.)", "堀江晶太", 0],
-    [20, "やさしさのかたち", "菊池亮太", 0],
-    [21, "手を伸ばしてくれたから", "堀江晶太", 0],
-    [22, "涙の理由", "菊池亮太", 0],
-    [23, "ガールズトーク", "斎藤優輝", 0],
-    [24, "監獄結界", "堀江晶太", 0],
-    [25, "血脈を継ぎし者", "秋月須清", 0],
-    [26, "魔のチカラ", "堀江晶太", 0],
-    [27, "空隙の魔女", "堀江晶太", 0],
-    [28, "ハードアタック", "堀江晶太", 0],
-    [29, "舞威媛", "堀江晶太", 0],
-    [30, "signal (TV-size)", "分島花音", 0],
+    [1, "Fight 4 Real (TV-size)", "ALTIMA", 1],
+    [2, "一進一退", "堀江晶太", 1],
+    [3, "強襲", "堀江晶太", 1],
+    [4, "ワイズマンズ・ブラッド", "堀江晶太", 1],
+    [5, "魔女の願い", "斎藤優輝", 1],
+    [6, "思惑", "斎藤優輝", 1],
+    [7, "舞いそして踊れ", "堀江晶太", 1],
+    [8, "風が髪をなびかす", "斎藤優輝", 1],
+    [9, "絃神島ストリート", "千葉“naotyu‐”直樹", 1],
+    [10, "ティータイム", "堀江晶太", 1],
+    [11, "波朧院フェスタ", "堀江晶太", 1],
+    [12, "木漏れ日の下で", "堀江晶太", 1],
+    [13, "頼りになる妹", "斎藤優輝", 1],
+    [14, "監視者の日常", "斎藤優輝", 1],
+    [15, "もしかして…", "斎藤優輝", 1],
+    [16, "思い出は変わらない", "堀江晶太", 1],
+    [17, "Fight 4 Real (piano ver.)", "堀江晶太", 1],
+    [18, "面影", "菊池亮太", 1],
+    [19, "signal (piano ver.)", "堀江晶太", 1],
+    [20, "やさしさのかたち", "菊池亮太", 1],
+    [21, "手を伸ばしてくれたから", "堀江晶太", 1],
+    [22, "涙の理由", "菊池亮太", 1],
+    [23, "ガールズトーク", "斎藤優輝", 1],
+    [24, "監獄結界", "堀江晶太", 1],
+    [25, "血脈を継ぎし者", "秋月須清", 1],
+    [26, "魔のチカラ", "堀江晶太", 1],
+    [27, "空隙の魔女", "堀江晶太", 1],
+    [28, "ハードアタック", "堀江晶太", 1],
+    [29, "舞威媛", "堀江晶太", 1],
+    [30, "signal (TV-size)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/09f46d05-f1da-4079-9712-2ca286daab76", "https://vgmdb.net/album/45403"]
 
@@ -303,8 +303,8 @@ catalognumber = "1000450656-CD"
 date = "2014-06-25"
 album = "「ストライク・ザ・ブラッド」キャラクターソング 夏音/ラ・フォリア"
 tracks = [
-    [1, "アマガミライ", "叶瀬 夏音(CV: 伊藤かな恵),ラ・フォリア(CV: 大西沙織)", 0],
-    [2, "神話迷宮", "叶瀬 夏音(CV: 伊藤かな恵),ラ・フォリア(CV: 大西沙織)", 0],
+    [1, "アマガミライ", "叶瀬 夏音(CV: 伊藤かな恵),ラ・フォリア(CV: 大西沙織)", 2],
+    [2, "神話迷宮", "叶瀬 夏音(CV: 伊藤かな恵),ラ・フォリア(CV: 大西沙織)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/85250d0e-0f51-4600-86e0-cf9333996c7a", "https://vgmdb.net/album/63428"]
 
@@ -313,8 +313,8 @@ catalognumber = "1000450653-CD"
 date = "2014-07-30"
 album = "「ストライク・ザ・ブラッド」キャラクターソング 優麻/那月"
 tracks = [
-    [1, "LE CIEL BLEU", "仙都木優麻(CV: 内山夕実)", 0],
-    [2, "覚醒インソムニア", "南宮那月(CV: 金元寿子)", 0],
+    [1, "LE CIEL BLEU", "仙都木優麻(CV: 内山夕実)", 1],
+    [2, "覚醒インソムニア", "南宮那月(CV: 金元寿子)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5a52d509-b8bf-4b08-8519-a43583945df1", "https://vgmdb.net/album/63429"]
 
@@ -323,8 +323,8 @@ catalognumber = "1000450650-CD"
 date = "2014-08-27"
 album = "ストライク・ザ・ブラッド オーディオドラマ Vol.2"
 tracks = [
-    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.2 #01", "", 0],
-    [2, "ストライク・ザ・ブラッド オーディオドラマ Vol.2 #02", "", 0],
+    [1, "ストライク・ザ・ブラッド オーディオドラマ Vol.2 #01", "", 1],
+    [2, "ストライク・ザ・ブラッド オーディオドラマ Vol.2 #02", "", 1],
 ]
 links = ["https://vgmdb.net/album/83655"]
 
@@ -340,7 +340,7 @@ tracks = [
     [5, "another", "岸田教団&THE明星ロケッツ", 0],
     [6, "夜空に沈む", "岸田教団&THE明星ロケッツ", 0],
     [7, "structure", "岸田教団&THE明星ロケッツ", 0],
-    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
     [9, "FF", "岸田教団&THE明星ロケッツ", 0],
     [10, "インディゴ", "岸田教団&THE明星ロケッツ", 0],
     [11, "Hack&Slash", "岸田教団&THE明星ロケッツ", 0],
@@ -356,7 +356,7 @@ tracks = [
     [2, "ツキナミ", "分島花音", 0],
     [3, "さんすくみ", "分島花音", 0],
     [4, "チョコレート", "分島花音", 0],
-    [5, "signal", "分島花音", 0],
+    [5, "signal", "分島花音", 1],
     [6, "ファールプレーにくらり", "分島花音", 0],
     [7, "サクラメイキュウ", "分島花音", 0],
     [8, "芸術家のかわいい想像たち", "分島花音", 0],
@@ -371,7 +371,7 @@ catalognumber = "1000547191"
 date = "2015-02-25"
 album = "ツキナミ / 分島花音 Disc 2 (Blu-ray) [1000547191-BD]"
 tracks = [
-    [1, "signal Music Video", "", 0],
+    [1, "signal Music Video", "", 1],
     [2, "killy killy JOKER Music Video", "", 0],
     [3, "world's end,girl's rondo Music Video", "", 0],
     [4, "ツキナミ Music Video", "", 0],
@@ -387,7 +387,7 @@ tracks = [
     [2, "ツキナミ", "分島花音", 0],
     [3, "さんすくみ", "分島花音", 0],
     [4, "チョコレート", "分島花音", 0],
-    [5, "signal", "分島花音", 0],
+    [5, "signal", "分島花音", 1],
     [6, "ファールプレーにくらり", "分島花音", 0],
     [7, "サクラメイキュウ", "分島花音", 0],
     [8, "芸術家のかわいい想像たち", "分島花音", 0],
@@ -406,7 +406,7 @@ tracks = [
     [2, "ツキナミ", "分島花音", 0],
     [3, "さんすくみ", "分島花音", 0],
     [4, "チョコレート", "分島花音", 0],
-    [5, "signal", "分島花音", 0],
+    [5, "signal", "分島花音", 1],
     [6, "ファールプレーにくらり", "分島花音", 0],
     [7, "サクラメイキュウ", "分島花音", 0],
     [8, "芸術家のかわいい想像たち", "分島花音", 0],
@@ -421,7 +421,7 @@ catalognumber = "1000547190"
 date = "2015-02-25"
 album = "ツキナミ / 分島花音 Disc 2 (Blu-ray) [1000547190-BD]"
 tracks = [
-    [1, "signal Music Video", "", 0],
+    [1, "signal Music Video", "", 1],
     [2, "killy killy JOKER Music Video", "", 0],
     [3, "world's end,girl's rondo Music Video", "", 0],
     [4, "ツキナミ Music Video", "", 0],
@@ -433,10 +433,10 @@ catalognumber = "1000584284"
 date = "2015-11-25"
 album = "リトルチャームファング / 井口裕香 Disc 1 (CD) [1000584284-CD]"
 tracks = [
-    [1, "リトルチャームファング", "井口裕香", 0],
-    [2, "Never Knew Till Now", "井口裕香", 0],
-    [3, "リトルチャームファング (instrumental)", "井口裕香", 0],
-    [4, "Never Knew Till Now (instrumental)", "井口裕香", 0],
+    [1, "リトルチャームファング", "井口裕香", 1],
+    [2, "Never Knew Till Now", "井口裕香", 1],
+    [3, "リトルチャームファング (instrumental)", "井口裕香", 1],
+    [4, "Never Knew Till Now (instrumental)", "井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a08b7f11-0643-485b-a9b5-66d46b885816", "https://vgmdb.net/album/54396"]
 
@@ -445,7 +445,7 @@ catalognumber = "1000584284"
 date = "2015-11-25"
 album = "リトルチャームファング / 井口裕香 Disc 2 (DVD) [1000584284-SD]"
 tracks = [
-    [1, "リトルチャームファング (Music Video)", "井口裕香", 0],
+    [1, "リトルチャームファング (Music Video)", "井口裕香", 1],
     [2, "MVメイキング映像", "井口裕香", 0],
     [3, "TV-SPOT", "井口裕香", 0],
 ]
@@ -456,10 +456,10 @@ catalognumber = "1000584282"
 date = "2015-11-25"
 album = "君はソレイユ / 分島花音"
 tracks = [
-    [1, "君はソレイユ", "分島花音", 0],
-    [2, "プリンセスチャールストン", "分島花音", 0],
-    [3, "君はソレイユ (instrumental)", "分島花音", 0],
-    [4, "プリンセスチャールストン (instrumental)", "分島花音", 0],
+    [1, "君はソレイユ", "分島花音", 1],
+    [2, "プリンセスチャールストン", "分島花音", 1],
+    [3, "君はソレイユ (instrumental)", "分島花音", 1],
+    [4, "プリンセスチャールストン (instrumental)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d03c758e-afb1-4f00-8bef-81acb25939a3", "https://vgmdb.net/album/54393"]
 
@@ -468,10 +468,10 @@ catalognumber = "1000584285"
 date = "2015-11-25"
 album = "リトルチャームファング / 井口裕香"
 tracks = [
-    [1, "リトルチャームファング", "井口裕香", 0],
-    [2, "Never Knew Till Now", "井口裕香", 0],
-    [3, "リトルチャームファング (Instrumental)", "井口裕香", 0],
-    [4, "Never Knew Till Now (Instrumental)", "井口裕香", 0],
+    [1, "リトルチャームファング", "井口裕香", 1],
+    [2, "Never Knew Till Now", "井口裕香", 1],
+    [3, "リトルチャームファング (Instrumental)", "井口裕香", 1],
+    [4, "Never Knew Till Now (Instrumental)", "井口裕香", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f8366aa1-d9b6-4497-a998-ab5a74e01ae4", "https://vgmdb.net/album/54394"]
 
@@ -480,10 +480,10 @@ catalognumber = "1000584281"
 date = "2015-11-25"
 album = "君はソレイユ / 分島花音 Disc 1 (CD) [1000584281-CD]"
 tracks = [
-    [1, "君はソレイユ", "分島花音", 0],
-    [2, "プリンセスチャールストン", "分島花音", 0],
-    [3, "君はソレイユ (instrumental)", "分島花音", 0],
-    [4, "プリンセスチャールストン (instrumental)", "分島花音", 0],
+    [1, "君はソレイユ", "分島花音", 1],
+    [2, "プリンセスチャールストン", "分島花音", 1],
+    [3, "君はソレイユ (instrumental)", "分島花音", 1],
+    [4, "プリンセスチャールストン (instrumental)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6ec3ebe7-d0c6-46f3-830a-c57eeda0dbe9", "https://vgmdb.net/album/54395"]
 
@@ -492,7 +492,7 @@ catalognumber = "1000584281"
 date = "2015-11-25"
 album = "君はソレイユ / 分島花音 Disc 2 (DVD) [1000584281-SD]"
 tracks = [
-    [1, "君はソレイユ (Music Video)", "分島花音", 0],
+    [1, "君はソレイユ (Music Video)", "分島花音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6ec3ebe7-d0c6-46f3-830a-c57eeda0dbe9", "https://vgmdb.net/album/54395"]
 
@@ -507,7 +507,7 @@ tracks = [
     [4, "JOY", "井口裕香", 0],
     [5, "SUGAR LEISURE", "井口裕香", 0],
     [6, "三日月", "井口裕香", 0],
-    [7, "リトルチャームファング", "井口裕香", 0],
+    [7, "リトルチャームファング", "井口裕香", 1],
     [8, "ピリオドのない雨", "井口裕香", 0],
     [9, "変わらない強さ", "井口裕香", 0],
     [10, "Alf Laylah Party", "井口裕香", 0],
@@ -527,7 +527,7 @@ tracks = [
     [4, "JOY", "井口裕香", 0],
     [5, "SUGAR LEISURE", "井口裕香", 0],
     [6, "三日月", "井口裕香", 0],
-    [7, "リトルチャームファング", "井口裕香", 0],
+    [7, "リトルチャームファング", "井口裕香", 1],
     [8, "ピリオドのない雨", "井口裕香", 0],
     [9, "変わらない強さ", "井口裕香", 0],
     [10, "Alf Laylah Party", "井口裕香", 0],
@@ -557,7 +557,7 @@ tracks = [
     [4, "JOY", "井口裕香", 0],
     [5, "SUGAR LEISURE", "井口裕香", 0],
     [6, "三日月", "井口裕香", 0],
-    [7, "リトルチャームファング", "井口裕香", 0],
+    [7, "リトルチャームファング", "井口裕香", 1],
     [8, "ピリオドのない雨", "井口裕香", 0],
     [9, "変わらない強さ", "井口裕香", 0],
     [10, "Alf Laylah Party", "井口裕香", 0],
@@ -581,36 +581,36 @@ catalognumber = "1000622292-E~G"
 date = "2016-09-28"
 album = "ストライク・ザ・ブラッド Special CD Disc 1 [1000622292-E]"
 tracks = [
-    [1, "ストライク・ザ・ブラッド (TV-size)", "", 0],
-    [2, "STRIKE THE BLOOD", "", 0],
-    [3, "動き出す真意", "", 0],
-    [4, "獅子王機関", "", 0],
-    [5, "パーティー会場にて", "", 0],
-    [6, "第四真祖の悩み", "", 0],
+    [1, "ストライク・ザ・ブラッド (TV-size)", "", 1],
+    [2, "STRIKE THE BLOOD", "", 1],
+    [3, "動き出す真意", "", 1],
+    [4, "獅子王機関", "", 1],
+    [5, "パーティー会場にて", "", 1],
+    [6, "第四真祖の悩み", "", 1],
     [7, "剣巫", "", 0],
-    [8, "登校風景", "", 0],
+    [8, "登校風景", "", 1],
     [9, "ふたりで買い物に", "", 0],
     [10, "そして日常に", "", 0],
-    [11, "那月のお小言", "", 0],
+    [11, "那月のお小言", "", 1],
     [12, "ふたりの関係は?", "", 0],
-    [13, "日常の、ちょっとしたこと", "", 0],
-    [14, "日差しの中で", "", 0],
+    [13, "日常の、ちょっとしたこと", "", 1],
+    [14, "日差しの中で", "", 1],
     [15, "何を隠してるの?", "", 0],
-    [16, "忘れていた過去", "", 0],
+    [16, "忘れていた過去", "", 1],
     [17, "あなただから。", "", 0],
-    [18, "本当の気持ちを", "", 0],
+    [18, "本当の気持ちを", "", 1],
     [19, "いつか思い出す彼女", "", 0],
-    [20, "彼女のやさしさ", "", 0],
-    [21, "一途な想い", "", 0],
+    [20, "彼女のやさしさ", "", 1],
+    [21, "一途な想い", "", 1],
     [22, "その決意の先に", "", 0],
     [23, "暗雲が空を覆い", "", 0],
-    [24, "神々の兵器", "", 0],
+    [24, "神々の兵器", "", 1],
     [25, "ホムンクルス", "", 0],
-    [26, "魔族特区", "", 0],
-    [27, "強大なチカラ", "", 0],
-    [28, "疾風怒濤", "", 0],
+    [26, "魔族特区", "", 1],
+    [27, "強大なチカラ", "", 1],
+    [28, "疾風怒濤", "", 1],
     [29, "チェイス", "", 0],
-    [30, "Strike my soul (TV-size)", "", 0],
+    [30, "Strike my soul (TV-size)", "", 1],
 ]
 links = ["https://vgmdb.net/album/60154"]
 
@@ -619,36 +619,36 @@ catalognumber = "1000622292-E~G"
 date = "2016-09-28"
 album = "ストライク・ザ・ブラッド Special CD Disc 2 [1000622292-F]"
 tracks = [
-    [1, "Fight 4 Real (TV-size)", "", 0],
-    [2, "一進一退", "", 0],
-    [3, "強襲", "", 0],
+    [1, "Fight 4 Real (TV-size)", "", 1],
+    [2, "一進一退", "", 1],
+    [3, "強襲", "", 1],
     [4, "ワイズマンズ・ブラッド", "", 0],
-    [5, "魔女の願い", "", 0],
-    [6, "思惑", "", 0],
-    [7, "舞いそして踊れ", "", 0],
-    [8, "風が髪をなびかす", "", 0],
-    [9, "絃神島ストリート", "", 0],
+    [5, "魔女の願い", "", 1],
+    [6, "思惑", "", 1],
+    [7, "舞いそして踊れ", "", 1],
+    [8, "風が髪をなびかす", "", 1],
+    [9, "絃神島ストリート", "", 1],
     [10, "ティータイム", "", 0],
-    [11, "波朧院フェスタ", "", 0],
-    [12, "木漏れ日の下で", "", 0],
-    [13, "頼りになる妹", "", 0],
-    [14, "監視者の日常", "", 0],
+    [11, "波朧院フェスタ", "", 1],
+    [12, "木漏れ日の下で", "", 1],
+    [13, "頼りになる妹", "", 1],
+    [14, "監視者の日常", "", 1],
     [15, "もしかして…", "", 0],
-    [16, "思い出は変わらない", "", 0],
-    [17, "Fight 4 Real (piano ver.)", "", 0],
-    [18, "面影", "", 0],
-    [19, "signal (piano ver.)", "", 0],
+    [16, "思い出は変わらない", "", 1],
+    [17, "Fight 4 Real (piano ver.)", "", 1],
+    [18, "面影", "", 1],
+    [19, "signal (piano ver.)", "", 1],
     [20, "やさしさのかたち", "", 0],
-    [21, "手を伸ばしてくれたから", "", 0],
-    [22, "涙の理由", "", 0],
+    [21, "手を伸ばしてくれたから", "", 1],
+    [22, "涙の理由", "", 1],
     [23, "ガールズトーク", "", 0],
-    [24, "監獄結界", "", 0],
-    [25, "血脈を継ぎし者", "", 0],
-    [26, "魔のチカラ", "", 0],
-    [27, "空隙の魔女", "", 0],
-    [28, "ハードアタック", "", 0],
-    [29, "舞威媛", "", 0],
-    [30, "signal (TV-size)", "", 0],
+    [24, "監獄結界", "", 1],
+    [25, "血脈を継ぎし者", "", 1],
+    [26, "魔のチカラ", "", 1],
+    [27, "空隙の魔女", "", 1],
+    [28, "ハードアタック", "", 1],
+    [29, "舞威媛", "", 1],
+    [30, "signal (TV-size)", "", 1],
 ]
 links = ["https://vgmdb.net/album/60154"]
 
@@ -657,14 +657,14 @@ catalognumber = "1000622292-E~G"
 date = "2016-09-28"
 album = "ストライク・ザ・ブラッド Special CD Disc 3 [1000622292-G]"
 tracks = [
-    [1, "Scarlet Flower", "", 0],
-    [2, "片恋Parameter", "", 0],
-    [3, "デイリー・ヒロイン", "", 0],
-    [4, "テレシプコーラ", "", 0],
-    [5, "アマガミライ", "", 0],
-    [6, "神話迷宫", "", 0],
-    [7, "LE CIEL BLEU", "", 0],
-    [8, "覚醒イムソニア", "", 0],
+    [1, "Scarlet Flower", "", 1],
+    [2, "片恋Parameter", "", 1],
+    [3, "デイリー・ヒロイン", "", 1],
+    [4, "テレシプコーラ", "", 1],
+    [5, "アマガミライ", "", 1],
+    [6, "神話迷宫", "", 1],
+    [7, "LE CIEL BLEU", "", 1],
+    [8, "覚醒イムソニア", "", 1],
 ]
 links = ["https://vgmdb.net/album/60154"]
 
@@ -673,14 +673,14 @@ catalognumber = "1000629349"
 date = "2016-11-23"
 album = "ストライク・ザ・ブラッド / 姫柊雪菜 (CV:種田梨沙)"
 tracks = [
-    [1, "Stay with Moon", "姫柊雪菜(CV:種田梨沙)", 0],
-    [2, "Your First Star", "姫柊雪菜(CV:種田梨沙)", 0],
-    [3, "神格無音", "姫柊雪菜(CV:種田梨沙)", 0],
-    [4, "フランボワーズ ラヴァーズ", "姫柊雪菜(CV:種田梨沙)", 0],
-    [5, "レーゾンデートル", "姫柊雪菜(CV:種田梨沙)", 0],
-    [6, "I'm in Red", "姫柊雪菜(CV:種田梨沙)", 0],
-    [7, "フォーチュンナンバー0405", "姫柊雪菜(CV:種田梨沙)", 0],
-    [8, "Scarlet Flower", "姫柊雪菜(CV: 種田梨沙)", 0],
+    [1, "Stay with Moon", "姫柊雪菜(CV:種田梨沙)", 1],
+    [2, "Your First Star", "姫柊雪菜(CV:種田梨沙)", 1],
+    [3, "神格無音", "姫柊雪菜(CV:種田梨沙)", 1],
+    [4, "フランボワーズ ラヴァーズ", "姫柊雪菜(CV:種田梨沙)", 1],
+    [5, "レーゾンデートル", "姫柊雪菜(CV:種田梨沙)", 1],
+    [6, "I'm in Red", "姫柊雪菜(CV:種田梨沙)", 1],
+    [7, "フォーチュンナンバー0405", "姫柊雪菜(CV:種田梨沙)", 1],
+    [8, "Scarlet Flower", "姫柊雪菜(CV: 種田梨沙)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/08c6792e-a7a0-4947-975e-6c403ff5ce70", "https://vgmdb.net/album/60759"]
 
@@ -695,7 +695,7 @@ tracks = [
     [4, "odette", "分島花音", 0],
     [5, "平凡な僕", "分島花音", 0],
     [6, "ノットフォーセール・フォッシル", "分島花音", 0],
-    [7, "君はソレイユ", "分島花音", 0],
+    [7, "君はソレイユ", "分島花音", 1],
     [8, "Drink Drunk Music", "分島花音", 0],
     [9, "Love your enemies", "分島花音", 0],
     [10, "luminescence Q.E.D.", "分島花音", 0],
@@ -722,7 +722,7 @@ tracks = [
     [4, "odette", "分島花音", 0],
     [5, "平凡な僕", "分島花音", 0],
     [6, "ノットフォーセール・フォッシル", "分島花音", 0],
-    [7, "君はソレイユ", "分島花音", 0],
+    [7, "君はソレイユ", "分島花音", 1],
     [8, "Drink Drunk Music", "分島花音", 0],
     [9, "Love your enemies", "分島花音", 0],
     [10, "luminescence Q.E.D.", "分島花音", 0],
@@ -749,7 +749,7 @@ tracks = [
     [4, "odette", "分島花音", 0],
     [5, "平凡な僕", "分島花音", 0],
     [6, "ノットフォーセール・フォッシル", "分島花音", 0],
-    [7, "君はソレイユ", "分島花音", 0],
+    [7, "君はソレイユ", "分島花音", 1],
     [8, "Drink Drunk Music", "分島花音", 0],
     [9, "Love your enemies", "分島花音", 0],
     [10, "luminescence Q.E.D.", "分島花音", 0],
@@ -770,10 +770,10 @@ catalognumber = "1000629350"
 date = "2016-12-21"
 album = "Blood on the EDGE / 岸田教団&THE明星ロケッツ [アーティスト盤] Disc 1 (CD)"
 tracks = [
-    [1, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
-    [2, "insomnia", "岸田教団&THE明星ロケッツ", 0],
-    [3, "Blood on the EDGE (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
-    [4, "insomnia (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
+    [2, "insomnia", "岸田教団&THE明星ロケッツ", 1],
+    [3, "Blood on the EDGE (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
+    [4, "insomnia (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d984cf65-a429-4c5e-81b3-1ff642ff78fd", "https://vgmdb.net/album/60758"]
 
@@ -782,8 +782,8 @@ catalognumber = "1000629350"
 date = "2016-12-21"
 album = "Blood on the EDGE / 岸田教団&THE明星ロケッツ [アーティスト盤] Disc 2 (DVD)"
 tracks = [
-    [1, "Blood on the EDGE - Music Video", "岸田教団&THE明星ロケッツ", 0],
-    [2, "Blood on the EDGE - TV-SPOT", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Blood on the EDGE - Music Video", "岸田教団&THE明星ロケッツ", 1],
+    [2, "Blood on the EDGE - TV-SPOT", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d984cf65-a429-4c5e-81b3-1ff642ff78fd", "https://vgmdb.net/album/60758"]
 
@@ -792,10 +792,10 @@ catalognumber = "1000629351"
 date = "2016-12-21"
 album = "Blood on the EDGE / 岸田教団&THE明星ロケッツ"
 tracks = [
-    [1, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
-    [2, "insomnia", "岸田教団&THE明星ロケッツ", 0],
-    [3, "Blood on the EDGE (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
-    [4, "insomnia (Instrumental)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
+    [2, "insomnia", "岸田教団&THE明星ロケッツ", 1],
+    [3, "Blood on the EDGE (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
+    [4, "insomnia (Instrumental)", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/faad1da6-8942-4ae8-9c63-0b42bf4a87ea", "https://vgmdb.net/album/60757"]
 
@@ -813,7 +813,7 @@ tracks = [
     [7, "life logistics", "岸田教団&THE明星ロケッツ", 0],
     [8, "EGOISTIC HERO", "岸田教団&THE明星ロケッツ", 0],
     [9, "Ruler", "岸田教団&THE明星ロケッツ", 0],
-    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
+    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
     [11, "vivid snow", "岸田教団&THE明星ロケッツ", 0],
     [12, "LIVE MY LIFE", "岸田教団&THE明星ロケッツ", 0],
 ]
@@ -825,7 +825,7 @@ date = "2017-03-22"
 album = "LIVE YOUR LIFE / 岸田教団&THE明星ロケッツ [アーティスト盤] Disc 2 (DVD) [1000640261-SD]"
 tracks = [
     [1, "LIVE MY LIFE (Music Video)", "岸田教団&THE明星ロケッツ", 0],
-    [2, "Blood on the EDGE (Music Video)", "岸田教団&THE明星ロケッツ", 0],
+    [2, "Blood on the EDGE (Music Video)", "岸田教団&THE明星ロケッツ", 1],
     [3, "天鏡のアルデラミン (Music Video)", "岸田教団&THE明星ロケッツ", 0],
     [4, "GATE II 〜世界を超えて〜 (Music Video)", "岸田教団&THE明星ロケッツ", 0],
     [5, "GATE 〜それは暁のように〜 (Music Video)", "岸田教団&THE明星ロケッツ", 0],
@@ -847,7 +847,7 @@ tracks = [
     [7, "life logistics", "岸田教団&THE明星ロケッツ", 0],
     [8, "EGOISTIC HERO", "岸田教団&THE明星ロケッツ", 0],
     [9, "Ruler", "岸田教団&THE明星ロケッツ", 0],
-    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
+    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
     [11, "vivid snow", "岸田教団&THE明星ロケッツ", 0],
     [12, "LIVE MY LIFE", "岸田教団&THE明星ロケッツ", 0],
 ]
@@ -867,7 +867,7 @@ tracks = [
     [7, "life logistics", "岸田教団&THE明星ロケッツ", 0],
     [8, "EGOISTIC HERO", "岸田教団&THE明星ロケッツ", 0],
     [9, "Ruler", "岸田教団&THE明星ロケッツ", 0],
-    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
+    [10, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
     [11, "vivid snow", "岸田教団&THE明星ロケッツ", 0],
     [12, "LIVE MY LIFE", "岸田教団&THE明星ロケッツ", 0],
 ]
@@ -882,7 +882,7 @@ tracks = [
     [2, "天鏡のアルデラミン", "岸田教団&THE明星ロケッツ", 0],
     [3, "ネコモノガタリ", "岸田教団&THE明星ロケッツ", 0],
     [4, "Ancient flower", "岸田教団&THE明星ロケッツ", 0],
-    [5, "ストライクザブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [5, "ストライクザブラッド", "岸田教団&THE明星ロケッツ", 1],
     [6, "ケモノノダンス", "岸田教団&THE明星ロケッツ", 0],
     [7, "life logistics", "岸田教団&THE明星ロケッツ", 0],
     [8, "nameless survivor", "岸田教団&THE明星ロケッツ", 0],
@@ -901,18 +901,18 @@ catalognumber = "1000735130"
 date = "2018-12-05"
 album = "REBOOT / 岸田教団&THE明星ロケッツ [アーティスト盤] Disc 1 (CD) [1000735130-CD]"
 tracks = [
-    [1, "Decide the essence", "岸田教団&THE明星ロケッツ", 0],
-    [2, "our stream", "岸田教団&THE明星ロケッツ", 0],
-    [3, "Never say Never", "岸田教団&THE明星ロケッツ", 0],
-    [4, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 0],
-    [5, "ストレイ", "岸田教団&THE明星ロケッツ", 0],
-    [6, "3 seconds rule", "岸田教団&THE明星ロケッツ", 0],
-    [7, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
-    [8, "Love prescribe", "岸田教団&THE明星ロケッツ", 0],
-    [9, "シリウス", "岸田教団&THE明星ロケッツ", 0],
-    [10, "キミノミカタ", "岸田教団&THE明星ロケッツ", 0],
-    [11, "stratus rain", "岸田教団&THE明星ロケッツ", 0],
-    [12, "Code:Thinker", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Decide the essence", "岸田教団&THE明星ロケッツ", 1],
+    [2, "our stream", "岸田教団&THE明星ロケッツ", 1],
+    [3, "Never say Never", "岸田教団&THE明星ロケッツ", 1],
+    [4, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 1],
+    [5, "ストレイ", "岸田教団&THE明星ロケッツ", 1],
+    [6, "3 seconds rule", "岸田教団&THE明星ロケッツ", 1],
+    [7, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
+    [8, "Love prescribe", "岸田教団&THE明星ロケッツ", 1],
+    [9, "シリウス", "岸田教団&THE明星ロケッツ", 1],
+    [10, "キミノミカタ", "岸田教団&THE明星ロケッツ", 1],
+    [11, "stratus rain", "岸田教団&THE明星ロケッツ", 1],
+    [12, "Code:Thinker", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0e3ecdf4-be9e-4047-8d94-58652f106309", "https://vgmdb.net/album/81189"]
 
@@ -921,9 +921,9 @@ catalognumber = "1000735130"
 date = "2018-12-05"
 album = "REBOOT / 岸田教団&THE明星ロケッツ [アーティスト盤] Disc 2 (Blu-ray) [1000735130-BD]"
 tracks = [
-    [1, "Blood and Emotions (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 0],
-    [2, "シリウス (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 0],
-    [3, "ストレイ (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Blood and Emotions (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 1],
+    [2, "シリウス (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 1],
+    [3, "ストレイ (Music Video) (特典)", "岸田教団&THE明星ロケッツ", 1],
     [4, "「REBOOT」 Recording Making Movie \"document\" (特典)", "岸田教団&THE明星ロケッツ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0e3ecdf4-be9e-4047-8d94-58652f106309", "https://vgmdb.net/album/81189"]
@@ -933,18 +933,18 @@ catalognumber = "1000735131"
 date = "2018-12-05"
 album = "REBOOT / 岸田教団&THE明星ロケッツ"
 tracks = [
-    [1, "Decide the essence", "岸田教団&THE明星ロケッツ", 0],
-    [2, "our stream", "岸田教団&THE明星ロケッツ", 0],
-    [3, "Never say Never", "岸田教団&THE明星ロケッツ", 0],
-    [4, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 0],
-    [5, "ストレイ", "岸田教団&THE明星ロケッツ", 0],
-    [6, "3 seconds rule", "岸田教団&THE明星ロケッツ", 0],
-    [7, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
-    [8, "Love prescribe", "岸田教団&THE明星ロケッツ", 0],
-    [9, "シリウス", "岸田教団&THE明星ロケッツ", 0],
-    [10, "キミノミカタ", "岸田教団&THE明星ロケッツ", 0],
-    [11, "stratus rain", "岸田教団&THE明星ロケッツ", 0],
-    [12, "Code:Thinker", "岸田教団&THE明星ロケッツ", 0],
+    [1, "Decide the essence", "岸田教団&THE明星ロケッツ", 1],
+    [2, "our stream", "岸田教団&THE明星ロケッツ", 1],
+    [3, "Never say Never", "岸田教団&THE明星ロケッツ", 1],
+    [4, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 1],
+    [5, "ストレイ", "岸田教団&THE明星ロケッツ", 1],
+    [6, "3 seconds rule", "岸田教団&THE明星ロケッツ", 1],
+    [7, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
+    [8, "Love prescribe", "岸田教団&THE明星ロケッツ", 1],
+    [9, "シリウス", "岸田教団&THE明星ロケッツ", 1],
+    [10, "キミノミカタ", "岸田教団&THE明星ロケッツ", 1],
+    [11, "stratus rain", "岸田教団&THE明星ロケッツ", 1],
+    [12, "Code:Thinker", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/127f8394-aa6b-4807-92a7-a783ea839ce7", "https://vgmdb.net/album/81190"]
 
@@ -953,10 +953,10 @@ catalognumber = "1000737679"
 date = "2018-12-19"
 album = "LOVE STOIC / 姫柊雪菜(CV:種田梨沙)"
 tracks = [
-    [1, "LOVE STOIC", "姫柊雪菜(CV:種田梨沙)", 0],
-    [2, "Save Our Sanctuary", "藍羽浅葱(CV:瀬戸麻沙美)", 0],
-    [3, "LOVE STOIC (instrumental)", "姫柊雪菜(CV:種田梨沙)", 0],
-    [4, "Save Our Sanctuary (instrumental)", "藍羽浅葱(CV:瀬戸麻沙美)", 0],
+    [1, "LOVE STOIC", "姫柊雪菜(CV:種田梨沙)", 1],
+    [2, "Save Our Sanctuary", "藍羽浅葱(CV:瀬戸麻沙美)", 1],
+    [3, "LOVE STOIC (instrumental)", "姫柊雪菜(CV:種田梨沙)", 1],
+    [4, "Save Our Sanctuary (instrumental)", "藍羽浅葱(CV:瀬戸麻沙美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b21ea73c-8009-46b3-b680-4cc88b030871", "https://vgmdb.net/album/81188"]
 
@@ -968,12 +968,12 @@ tracks = [
     [1, "still doll", "分島花音", 0],
     [2, "砂のお城", "分島花音", 0],
     [3, "サクラメイキュウ", "分島花音", 0],
-    [4, "signal", "分島花音", 0],
+    [4, "signal", "分島花音", 1],
     [5, "killy killy JOKER", "分島花音", 0],
     [6, "world's end, girl's rondo", "分島花音", 0],
     [7, "ツキナミ", "分島花音", 0],
     [8, "RIGHT LIGHT RISE", "分島花音", 0],
-    [9, "君はソレイユ", "分島花音", 0],
+    [9, "君はソレイユ", "分島花音", 1],
     [10, "Love your enemies", "分島花音", 0],
     [11, "REUNION", "分島花音", 0],
     [12, "fragment ornament", "分島花音", 0],
@@ -987,12 +987,12 @@ album = "DECADE / 分島花音 [初回生産限定盤] Disc 1 [MHCL-30567]"
 tracks = [
     [1, "still doll", "分島花音", 0],
     [2, "砂のお城", "分島花音", 0],
-    [3, "プリンセスチャールストン", "分島花音", 0],
+    [3, "プリンセスチャールストン", "分島花音", 1],
     [4, "celmisia", "分島花音", 0],
     [5, "ファールプレーにくらり", "分島花音", 0],
     [6, "サクラメイキュウ", "分島花音", 0],
-    [7, "signal", "分島花音", 0],
-    [8, "無重力", "分島花音", 0],
+    [7, "signal", "分島花音", 1],
+    [8, "無重力", "分島花音", 1],
     [9, "killy killy JOKER", "分島花音", 0],
     [10, "world's end, girl's rondo", "分島花音", 0],
 ]
@@ -1006,7 +1006,7 @@ tracks = [
     [1, "ツキナミ", "分島花音", 0],
     [2, "さんすくみ", "分島花音", 0],
     [3, "RIGHT LIGHT RISE", "分島花音", 0],
-    [4, "君はソレイユ", "分島花音", 0],
+    [4, "君はソレイユ", "分島花音", 1],
     [5, "Love your enemies", "分島花音", 0],
     [6, "Unbalance by Me", "分島花音", 0],
     [7, "自由落下とピノキオ", "分島花音", 0],
@@ -1021,37 +1021,37 @@ catalognumber = "1000753353-CD"
 date = "2020-01-29"
 album = "ストライク・ザ・ブラッド OVA THEME SONG & ORIGINAL SOUNDTRACK"
 tracks = [
-    [1, "ストライク・ザ・ブラッドII〜メインテーマ", "ASSUMED SOUNDS", 0],
-    [2, "巨大な力", "ASSUMED SOUNDS", 0],
-    [3, "タイムリミット", "ASSUMED SOUNDS", 0],
-    [4, "二重人格", "ASSUMED SOUNDS", 0],
-    [5, "嬉しい悩み", "ASSUMED SOUNDS", 0],
-    [6, "夢魔", "ASSUMED SOUNDS", 0],
-    [7, "秘められた恐怖", "ASSUMED SOUNDS", 0],
-    [8, "本土へ", "ASSUMED SOUNDS", 0],
-    [9, "霧葉のたくらみ", "ASSUMED SOUNDS", 0],
-    [10, "乙型呪装双叉槍", "ASSUMED SOUNDS", 0],
-    [11, "巨大兵器", "ASSUMED SOUNDS", 0],
-    [12, "最強の夢魔", "ASSUMED SOUNDS", 0],
-    [13, "黒の剣巫", "ASSUMED SOUNDS", 0],
-    [14, "無数の壁", "ASSUMED SOUNDS", 0],
-    [15, "絶対先制攻撃", "ASSUMED SOUNDS", 0],
-    [16, "相棒", "ASSUMED SOUNDS", 0],
-    [17, "焔光の夜伯", "ASSUMED SOUNDS", 0],
-    [18, "少女の目覚め", "ASSUMED SOUNDS", 0],
-    [19, "軽い感触", "ASSUMED SOUNDS", 0],
-    [20, "騎士の目覚め", "ASSUMED SOUNDS", 0],
-    [21, "古の戦い", "ASSUMED SOUNDS", 0],
-    [22, "ディセンバーとの出会い", "ASSUMED SOUNDS", 0],
-    [23, "タルタロスの薔薇", "ASSUMED SOUNDS", 0],
-    [24, "カインの巫女", "ASSUMED SOUNDS", 0],
-    [25, "六番目", "ASSUMED SOUNDS", 0],
-    [26, "咎神の方舟", "ASSUMED SOUNDS", 0],
-    [27, "ヴェレシュ・アラダールとの決闘", "ASSUMED SOUNDS", 0],
-    [28, "ラストバトル", "ASSUMED SOUNDS", 0],
-    [29, "ストライク・ザ・ブラッドIII〜メインテーマ", "ASSUMED SOUNDS", 0],
-    [30, "暁のカレイドブラッド (TV size)", "岸田教団&THE明星ロケッツ", 0],
-    [31, "Dear My Hero", "姫柊雪菜(CV:種田梨沙)", 0],
+    [1, "ストライク・ザ・ブラッドII〜メインテーマ", "ASSUMED SOUNDS", 1],
+    [2, "巨大な力", "ASSUMED SOUNDS", 1],
+    [3, "タイムリミット", "ASSUMED SOUNDS", 1],
+    [4, "二重人格", "ASSUMED SOUNDS", 1],
+    [5, "嬉しい悩み", "ASSUMED SOUNDS", 1],
+    [6, "夢魔", "ASSUMED SOUNDS", 1],
+    [7, "秘められた恐怖", "ASSUMED SOUNDS", 1],
+    [8, "本土へ", "ASSUMED SOUNDS", 1],
+    [9, "霧葉のたくらみ", "ASSUMED SOUNDS", 1],
+    [10, "乙型呪装双叉槍", "ASSUMED SOUNDS", 1],
+    [11, "巨大兵器", "ASSUMED SOUNDS", 1],
+    [12, "最強の夢魔", "ASSUMED SOUNDS", 1],
+    [13, "黒の剣巫", "ASSUMED SOUNDS", 1],
+    [14, "無数の壁", "ASSUMED SOUNDS", 1],
+    [15, "絶対先制攻撃", "ASSUMED SOUNDS", 1],
+    [16, "相棒", "ASSUMED SOUNDS", 1],
+    [17, "焔光の夜伯", "ASSUMED SOUNDS", 1],
+    [18, "少女の目覚め", "ASSUMED SOUNDS", 1],
+    [19, "軽い感触", "ASSUMED SOUNDS", 1],
+    [20, "騎士の目覚め", "ASSUMED SOUNDS", 1],
+    [21, "古の戦い", "ASSUMED SOUNDS", 1],
+    [22, "ディセンバーとの出会い", "ASSUMED SOUNDS", 1],
+    [23, "タルタロスの薔薇", "ASSUMED SOUNDS", 1],
+    [24, "カインの巫女", "ASSUMED SOUNDS", 1],
+    [25, "六番目", "ASSUMED SOUNDS", 1],
+    [26, "咎神の方舟", "ASSUMED SOUNDS", 1],
+    [27, "ヴェレシュ・アラダールとの決闘", "ASSUMED SOUNDS", 1],
+    [28, "ラストバトル", "ASSUMED SOUNDS", 1],
+    [29, "ストライク・ザ・ブラッドIII〜メインテーマ", "ASSUMED SOUNDS", 1],
+    [30, "暁のカレイドブラッド (TV size)", "岸田教団&THE明星ロケッツ", 1],
+    [31, "Dear My Hero", "姫柊雪菜(CV:種田梨沙)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9bd3adfb-f369-4dac-9381-5bc2950a8910", "https://vgmdb.net/album/91198"]
 
@@ -1060,12 +1060,12 @@ catalognumber = "1000757475"
 date = "2020-01-29"
 album = "nameless story / 岸田教団&THE明星ロケッツ [アーティスト盤] Vocal"
 tracks = [
-    [1, "nameless story", "岸田教団&THE明星ロケッツ", 0],
-    [2, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 0],
-    [3, "anesthesia", "岸田教団&THE明星ロケッツ", 0],
-    [4, "nameless story - instrumental", "岸田教団&THE明星ロケッツ", 0],
-    [5, "暁のカレイドブラッド - instrumental", "岸田教団&THE明星ロケッツ", 0],
-    [6, "anesthesia - instrumental", "岸田教団&THE明星ロケッツ", 0],
+    [1, "nameless story", "岸田教団&THE明星ロケッツ", 1],
+    [2, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 1],
+    [3, "anesthesia", "岸田教団&THE明星ロケッツ", 1],
+    [4, "nameless story - instrumental", "岸田教団&THE明星ロケッツ", 1],
+    [5, "暁のカレイドブラッド - instrumental", "岸田教団&THE明星ロケッツ", 1],
+    [6, "anesthesia - instrumental", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f04c6bd-56bc-435b-aa7a-7879117cbec9", "https://vgmdb.net/album/92355"]
 
@@ -1074,8 +1074,8 @@ catalognumber = "1000757475"
 date = "2020-01-29"
 album = "nameless story / 岸田教団&THE明星ロケッツ [アーティスト盤] Vocal, Video"
 tracks = [
-    [1, "nameless story ～ Music Video (特典)", "岸田教団&THE明星ロケッツ", 0],
-    [2, "nameless story ～ TV-SPOT (特典)", "岸田教団&THE明星ロケッツ", 0],
+    [1, "nameless story ～ Music Video (特典)", "岸田教団&THE明星ロケッツ", 1],
+    [2, "nameless story ～ TV-SPOT (特典)", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f04c6bd-56bc-435b-aa7a-7879117cbec9", "https://vgmdb.net/album/92355"]
 
@@ -1084,12 +1084,12 @@ catalognumber = "1000757476"
 date = "2020-01-29"
 album = "nameless story / 岸田教団&THE明星ロケッツ"
 tracks = [
-    [1, "nameless story", "岸田教団&THE明星ロケッツ", 0],
-    [2, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 0],
-    [3, "anesthesia", "岸田教団&THE明星ロケッツ", 0],
-    [4, "nameless story - instrumental", "岸田教団&THE明星ロケッツ", 0],
-    [5, "暁のカレイドブラッド - instrumental", "岸田教団&THE明星ロケッツ", 0],
-    [6, "anesthesia - instrumental", "岸田教団&THE明星ロケッツ", 0],
+    [1, "nameless story", "岸田教団&THE明星ロケッツ", 1],
+    [2, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 1],
+    [3, "anesthesia", "岸田教団&THE明星ロケッツ", 1],
+    [4, "nameless story - instrumental", "岸田教団&THE明星ロケッツ", 1],
+    [5, "暁のカレイドブラッド - instrumental", "岸田教団&THE明星ロケッツ", 1],
+    [6, "anesthesia - instrumental", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/37d1b93d-76ce-465c-8d2b-db5f726575c4", "https://vgmdb.net/album/92356"]
 
@@ -1099,16 +1099,16 @@ date = "2021-10-20"
 album = "異世界転生したらベストアルバムでした。 / 岸田教団&THE明星ロケッツ Arrangement, Vocal"
 tracks = [
     [1, "HIGHSCHOOL OF THE DEAD", "岸田教団&THE明星ロケッツ", 0],
-    [2, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [2, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
     [3, "GATE〜それは暁のように〜", "岸田教団&THE明星ロケッツ", 0],
     [4, "GATEII〜世界を超えて〜", "岸田教団&THE明星ロケッツ", 0],
     [5, "天鏡のアルデラミン", "岸田教団&THE明星ロケッツ", 0],
-    [6, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 0],
-    [7, "ストレイ", "岸田教団&THE明星ロケッツ", 0],
-    [8, "シリウス", "岸田教団&THE明星ロケッツ", 0],
-    [9, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 0],
-    [10, "nameless story", "岸田教団&THE明星ロケッツ", 0],
-    [11, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [6, "Blood on the EDGE", "岸田教団&THE明星ロケッツ", 1],
+    [7, "ストレイ", "岸田教団&THE明星ロケッツ", 1],
+    [8, "シリウス", "岸田教団&THE明星ロケッツ", 1],
+    [9, "Blood and Emotions", "岸田教団&THE明星ロケッツ", 1],
+    [10, "nameless story", "岸田教団&THE明星ロケッツ", 1],
+    [11, "暁のカレイドブラッド", "岸田教団&THE明星ロケッツ", 1],
     [12, "HIGHSCHOOL OF THE DEAD [2021]", "岸田教団&THE明星ロケッツ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/d2c2495e-1944-4fcd-abe6-0358fd3ba1c3", "https://vgmdb.net/album/113070"]
@@ -1122,11 +1122,11 @@ tracks = [
     [2, "POPSENSE", "岸田教団&THE明星ロケッツ", 0],
     [3, "ワールド・エンド・エコノミカ", "岸田教団&THE明星ロケッツ", 0],
     [4, "over planet", "岸田教団&THE明星ロケッツ", 0],
-    [5, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
+    [5, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
     [6, "another", "岸田教団&THE明星ロケッツ", 0],
     [7, "Hack&Slash", "岸田教団&THE明星ロケッツ", 0],
     [8, "希望の歌", "岸田教団&THE明星ロケッツ", 0],
-    [9, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
+    [9, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d2c2495e-1944-4fcd-abe6-0358fd3ba1c3", "https://vgmdb.net/album/113070"]
 
@@ -1136,16 +1136,16 @@ date = "2021-10-20"
 album = "異世界転生したらベストアルバムでした。 / 岸田教団&THE明星ロケッツ [初回限定盤] Arrangement, Vocal"
 tracks = [
     [1, "HIGHSCHOOL OF THE DEAD", "", 0],
-    [2, "ストライク・ザ・ブラッド", "", 0],
+    [2, "ストライク・ザ・ブラッド", "", 1],
     [3, "GATE～それは暁のように～", "", 0],
     [4, "GATEII～世界を超えて～", "", 0],
     [5, "天鏡のアルデラミン", "", 0],
-    [6, "Blood on the EDGE", "", 0],
-    [7, "ストレイ", "", 0],
-    [8, "シリウス", "", 0],
-    [9, "Blood and Emotions", "", 0],
-    [10, "nameless story", "", 0],
-    [11, "暁のカレイドブラッド", "", 0],
+    [6, "Blood on the EDGE", "", 1],
+    [7, "ストレイ", "", 1],
+    [8, "シリウス", "", 1],
+    [9, "Blood and Emotions", "", 1],
+    [10, "nameless story", "", 1],
+    [11, "暁のカレイドブラッド", "", 1],
     [12, "HIGHSCHOOL OF THE DEAD [2021]", "", 0],
 ]
 links = ["https://vgmdb.net/album/113071"]
@@ -1159,11 +1159,11 @@ tracks = [
     [2, "POPSENSE", "岸田教団&THE明星ロケッツ", 0],
     [3, "ワールド・エンド・エコノミカ", "岸田教団&THE明星ロケッツ", 0],
     [4, "over planet", "岸田教団&THE明星ロケッツ", 0],
-    [5, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
+    [5, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
     [6, "another", "岸田教団&THE明星ロケッツ", 0],
     [7, "Hack&Slash", "岸田教団&THE明星ロケッツ", 0],
     [8, "希望の歌", "岸田教団&THE明星ロケッツ", 0],
-    [9, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
+    [9, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/88936b3c-d011-4b00-b7ed-0745355a6bb1", "https://vgmdb.net/album/113071"]
 
@@ -1187,7 +1187,7 @@ tracks = [
     [13, "ラストリモート", "", 0],
     [14, "DesireDrive", "", 0],
     [15, "明星ロケット", "", 0],
-    [16, "nameless story", "", 0],
+    [16, "nameless story", "", 1],
     [17, "星空ロジック", "", 0],
 ]
 links = ["https://vgmdb.net/album/113071"]
@@ -1200,14 +1200,14 @@ tracks = [
     [1, "TRIGGER", "岸田教団&THE明星ロケッツ", 0],
     [2, "ナイトウォッチ", "岸田教団&THE明星ロケッツ", 0],
     [3, "感情 in the black", "岸田教団&THE明星ロケッツ", 0],
-    [4, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
+    [4, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
     [5, "ワールド・エンド・エコノミカ", "岸田教団&THE明星ロケッツ", 0],
     [6, "夏色ストレート!", "岸田教団&THE明星ロケッツ", 0],
-    [7, "nameless story", "岸田教団&THE明星ロケッツ", 0],
-    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [7, "nameless story", "岸田教団&THE明星ロケッツ", 1],
+    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
     [9, "GATE 〜それは暁のように〜", "岸田教団&THE明星ロケッツ", 0],
     [10, "HIGHSCHOOL OF THE DEAD", "岸田教団&THE明星ロケッツ", 0],
-    [11, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
+    [11, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
     [12, "LIVE MY LIFE", "岸田教団&THE明星ロケッツ", 0],
     [13, "Hack&Slash", "岸田教団&THE明星ロケッツ", 0],
     [14, "EGOISTIC HERO", "岸田教団&THE明星ロケッツ", 0],
@@ -1223,14 +1223,14 @@ tracks = [
     [1, "TRIGGER", "岸田教団&THE明星ロケッツ", 0],
     [2, "ナイトウォッチ", "岸田教団&THE明星ロケッツ", 0],
     [3, "感情 in the black", "岸田教団&THE明星ロケッツ", 0],
-    [4, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 0],
+    [4, "ハンゲツトウゲ", "岸田教団&THE明星ロケッツ", 1],
     [5, "ワールド・エンド・エコノミカ", "岸田教団&THE明星ロケッツ", 0],
     [6, "夏色ストレート!", "岸田教団&THE明星ロケッツ", 0],
-    [7, "nameless story", "岸田教団&THE明星ロケッツ", 0],
-    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 0],
+    [7, "nameless story", "岸田教団&THE明星ロケッツ", 1],
+    [8, "ストライク・ザ・ブラッド", "岸田教団&THE明星ロケッツ", 1],
     [9, "GATE 〜それは暁のように〜", "岸田教団&THE明星ロケッツ", 0],
     [10, "HIGHSCHOOL OF THE DEAD", "岸田教団&THE明星ロケッツ", 0],
-    [11, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 0],
+    [11, "Reboot:RAVEN", "岸田教団&THE明星ロケッツ", 1],
     [12, "LIVE MY LIFE", "岸田教団&THE明星ロケッツ", 0],
     [13, "Hack&Slash", "岸田教団&THE明星ロケッツ", 0],
     [14, "EGOISTIC HERO", "岸田教団&THE明星ロケッツ", 0],

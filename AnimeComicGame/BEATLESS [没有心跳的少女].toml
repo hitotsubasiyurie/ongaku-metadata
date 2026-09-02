@@ -7,7 +7,7 @@ tracks = [
     [2, "Monolith", "banvox", 0],
     [3, "Soulless", "Sakiko Osawa", 0],
     [4, "life", "y0c1e", 0],
-    [5, "Trust", "Pa’s Lam System", 0],
+    [5, "Trust", "Pa’s Lam System", 1],
     [6, "DOOR", "Seiho", 0],
     [7, "Dreaming Shout", "livetune adding NIRGILIS", 0],
 ]
@@ -75,16 +75,16 @@ catalognumber = "UNCRON-0002"
 date = "2018-01-17"
 album = "BEATLESS Special Soundtrack"
 tracks = [
-    [1, "hIE B", "", 0],
-    [2, "Racia B", "", 0],
-    [3, "snowdrop", "", 0],
-    [4, "Loading", "", 0],
-    [5, "Vorkommen", "", 0],
-    [6, "Startup", "", 0],
-    [7, "Rivalry", "", 0],
-    [8, "Methode", "", 0],
-    [9, "Resonator", "", 0],
-    [10, "main theme", "", 0],
+    [1, "hIE B", "", 1],
+    [2, "Racia B", "", 1],
+    [3, "snowdrop", "", 1],
+    [4, "Loading", "", 1],
+    [5, "Vorkommen", "", 1],
+    [6, "Startup", "", 1],
+    [7, "Rivalry", "", 1],
+    [8, "Methode", "", 1],
+    [9, "Resonator", "", 1],
+    [10, "main theme", "", 1],
 ]
 links = ["https://vgmdb.net/album/73421"]
 
@@ -93,7 +93,7 @@ catalognumber = "VVCL-1156~7"
 date = "2018-01-31"
 album = "Error / GARNiDELiA [Limited Edition] Disc 2 (DVD) [VVCL-1157]"
 tracks = [
-    [1, "Error Music Video", "", 0],
+    [1, "Error Music Video", "", 1],
     [2, "ORiGiNAL (stellacage TOUR 2017 ～Cry Out～@DIFFER ARIAKE)", "", 0],
     [3, "BLAZING (stellacage TOUR 2017 ～Cry Out～@DIFFER ARIAKE)", "", 0],
     [4, "変わらないモノ (stellacage TOUR 2017 ～Cry Out～@DIFFER ARIAKE)", "", 0],
@@ -105,10 +105,10 @@ catalognumber = "VVCL-1156~7"
 date = "2018-01-31"
 album = "Error / GARNiDELiA [Limited Edition] Disc 1 (CD) [VVCL-1156]"
 tracks = [
-    [1, "Error", "GARNiDELiA", 0],
-    [2, "anymore", "GARNiDELiA", 0],
-    [3, "君が生まれた日", "GARNiDELiA", 0],
-    [4, "Error -instrumental-", "GARNiDELiA", 0],
+    [1, "Error", "GARNiDELiA", 1],
+    [2, "anymore", "GARNiDELiA", 1],
+    [3, "君が生まれた日", "GARNiDELiA", 1],
+    [4, "Error -instrumental-", "GARNiDELiA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7515d8be-c56d-4101-b444-eef4958265ff", "https://vgmdb.net/album/72786"]
 
@@ -117,11 +117,11 @@ catalognumber = "VVCL-1159~60"
 date = "2018-01-31"
 album = "Error / GARNiDELiA [Limited Edition] Disc 1 (CD) [VVCL-1159]"
 tracks = [
-    [1, "Error", "GARNiDELiA", 0],
-    [2, "anymore", "GARNiDELiA", 0],
-    [3, "君が生まれた日", "GARNiDELiA", 0],
-    [4, "Error -instrumental-", "GARNiDELiA", 0],
-    [5, "Error -TV Size ver.-", "GARNiDELiA", 0],
+    [1, "Error", "GARNiDELiA", 1],
+    [2, "anymore", "GARNiDELiA", 1],
+    [3, "君が生まれた日", "GARNiDELiA", 1],
+    [4, "Error -instrumental-", "GARNiDELiA", 1],
+    [5, "Error -TV Size ver.-", "GARNiDELiA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/918caed6-d28a-4ce2-812f-6d47e7b80c60", "https://vgmdb.net/album/72788"]
 
@@ -130,7 +130,7 @@ catalognumber = "VVCL-1159~60"
 date = "2018-01-31"
 album = "Error / GARNiDELiA [Limited Edition] Disc 2 (DVD) [VVCL-1160]"
 tracks = [
-    [1, "Error Music Video", "", 0],
+    [1, "Error Music Video", "", 1],
 ]
 links = ["https://vgmdb.net/album/72788"]
 
@@ -139,10 +139,10 @@ catalognumber = "VVCL-1158"
 date = "2018-01-31"
 album = "Error / GARNiDELiA"
 tracks = [
-    [1, "Error", "GARNiDELiA", 0],
-    [2, "anymore", "GARNiDELiA", 0],
-    [3, "君が生まれた日", "GARNiDELiA", 0],
-    [4, "Error instrumental", "GARNiDELiA", 0],
+    [1, "Error", "GARNiDELiA", 1],
+    [2, "anymore", "GARNiDELiA", 1],
+    [3, "君が生まれた日", "GARNiDELiA", 1],
+    [4, "Error instrumental", "GARNiDELiA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/309d498a-a13a-4653-851f-47b1dcb4e452", "https://vgmdb.net/album/72787"]
 
@@ -151,10 +151,10 @@ catalognumber = "VVCL-1176"
 date = "2018-02-28"
 album = "PRIMALove / ClariS"
 tracks = [
-    [1, "PRIMALove", "ClariS", 0],
-    [2, "冬空花火", "ClariS", 0],
-    [3, "irony -season 02-", "ClariS", 0],
-    [4, "PRIMALove -Instrumental-", "ClariS", 0],
+    [1, "PRIMALove", "ClariS", 1],
+    [2, "冬空花火", "ClariS", 1],
+    [3, "irony -season 02-", "ClariS", 1],
+    [4, "PRIMALove -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/64e3b986-d8c9-459f-9493-089d2e370b34", "https://vgmdb.net/album/73033"]
 
@@ -163,10 +163,10 @@ catalognumber = "VVCL-1174~5"
 date = "2018-02-28"
 album = "PRIMALove / ClariS [Limited Edition] Arrangement, Vocal"
 tracks = [
-    [1, "PRIMALove", "ClariS", 0],
-    [2, "冬空花火", "ClariS", 0],
-    [3, "irony -season 02-", "ClariS", 0],
-    [4, "PRIMALove -Instrumental-", "ClariS", 0],
+    [1, "PRIMALove", "ClariS", 1],
+    [2, "冬空花火", "ClariS", 1],
+    [3, "irony -season 02-", "ClariS", 1],
+    [4, "PRIMALove -Instrumental-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/af1845ec-02a3-4954-9afb-0f5698382c1b", "https://vgmdb.net/album/73032"]
 
@@ -185,10 +185,10 @@ catalognumber = "VVCL-1177~8"
 date = "2018-02-28"
 album = "PRIMALove / ClariS [Limited Edition] Arrangement, Vocal"
 tracks = [
-    [1, "PRIMALove", "ClariS", 0],
-    [2, "冬空花火", "ClariS", 0],
-    [3, "irony -season 02-", "ClariS", 0],
-    [4, "PRIMALove -TV MIX-", "ClariS", 0],
+    [1, "PRIMALove", "ClariS", 1],
+    [2, "冬空花火", "ClariS", 1],
+    [3, "irony -season 02-", "ClariS", 1],
+    [4, "PRIMALove -TV MIX-", "ClariS", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6fbbcdee-b89b-4f8e-be16-b0515bf7e68f", "https://vgmdb.net/album/73034"]
 
@@ -209,7 +209,7 @@ tracks = [
     [1, "SPEED STAR", "GARNiDELiA", 0],
     [2, "Desir", "GARNiDELiA", 0],
     [3, "アイコトバ", "GARNiDELiA", 0],
-    [4, "Error", "GARNiDELiA", 0],
+    [4, "Error", "GARNiDELiA", 1],
     [5, "G.R.N.D.", "GARNiDELiA", 0],
     [6, "「G.R.N.D.」bonus footage", "[no artist]", 0],
 ]
@@ -230,7 +230,7 @@ tracks = [
     [8, "紅葉愛唄", "GARNiDELiA", 0],
     [9, "Love Swing", "GARNiDELiA", 0],
     [10, "After glow", "GARNiDELiA", 0],
-    [11, "Error", "GARNiDELiA", 0],
+    [11, "Error", "GARNiDELiA", 1],
     [12, "Désir", "GARNiDELiA", 0],
     [13, "最後の恋", "GARNiDELiA", 0],
 ]
@@ -251,7 +251,7 @@ tracks = [
     [8, "紅葉愛唄", "GARNiDELiA", 0],
     [9, "Love Swing", "GARNiDELiA", 0],
     [10, "After glow", "GARNiDELiA", 0],
-    [11, "Error", "GARNiDELiA", 0],
+    [11, "Error", "GARNiDELiA", 1],
     [12, "Désir", "GARNiDELiA", 0],
     [13, "最後の恋", "GARNiDELiA", 0],
 ]
@@ -286,7 +286,7 @@ tracks = [
     [8, "紅葉愛唄", "GARNiDELiA", 0],
     [9, "Love Swing", "GARNiDELiA", 0],
     [10, "After glow", "GARNiDELiA", 0],
-    [11, "Error", "GARNiDELiA", 0],
+    [11, "Error", "GARNiDELiA", 1],
     [12, "Désir", "GARNiDELiA", 0],
     [13, "最後の恋", "GARNiDELiA", 0],
 ]
@@ -297,12 +297,12 @@ catalognumber = ""
 date = "2018-05-23"
 album = "Shapeless"
 tracks = [
-    [1, "Shapeless", "東京パフォーマンスドール", 0],
-    [2, "SHINY LADY", "東京パフォーマンスドール", 0],
-    [3, "Kiss x Bang Bang!", "東京パフォーマンスドール", 0],
-    [4, "One Day One Life", "東京パフォーマンスドール", 0],
-    [5, "BURN ME OUT", "東京パフォーマンスドール", 0],
-    [6, "あなたに逢いましょう", "赤の流星", 0],
+    [1, "Shapeless", "東京パフォーマンスドール", 1],
+    [2, "SHINY LADY", "東京パフォーマンスドール", 1],
+    [3, "Kiss x Bang Bang!", "東京パフォーマンスドール", 1],
+    [4, "One Day One Life", "東京パフォーマンスドール", 1],
+    [5, "BURN ME OUT", "東京パフォーマンスドール", 1],
+    [6, "あなたに逢いましょう", "赤の流星", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2d4afeeb-c7fe-4ca3-b115-14c5d4bd1611"]
 
@@ -311,38 +311,38 @@ catalognumber = "ZMCZ-12168"
 date = "2018-05-25"
 album = "TVアニメ「BEATLESS」オリジナルサウンドトラック Disc 1 [TGCS-10679]"
 tracks = [
-    [1, "main theme", "NARASAKI & WATCHMAN", 0],
-    [2, "Heavenly voices", "WATCHMAN", 0],
-    [3, "Lacia B", "NARASAKI", 0],
-    [4, "In the noon", "WATCHMAN", 0],
-    [5, "hIE B", "NARASAKI", 0],
-    [6, "Yuka", "WATCHMAN", 0],
-    [7, "戦闘", "WATCHMAN", 0],
-    [8, "Loading", "kz", 0],
-    [9, "Eine Stadt A", "NARASAKI", 0],
-    [10, "不穏", "NARASAKI", 0],
-    [11, "Startup", "kz", 0],
-    [12, "Innocent smile", "WATCHMAN", 0],
-    [13, "Resonator", "kz", 0],
-    [14, "Ansiedad", "NARASAKI", 0],
-    [15, "Freundlichkeit", "NARASAKI", 0],
-    [16, "Angst", "NARASAKI", 0],
-    [17, "紅霞 A", "NARASAKI", 0],
-    [18, "Breakthrough", "kz", 0],
-    [19, "Tension", "kz", 0],
-    [20, "snowdrop deep", "コジマミノリ", 0],
-    [21, "Rivalry", "kz", 0],
-    [22, "Rush", "kz", 0],
-    [23, "Geheimnis", "NARASAKI", 0],
-    [24, "Schwarzer Wind", "コジマミノリ", 0],
-    [25, "Frozen eyes", "WATCHMAN", 0],
-    [26, "Face to face", "NARASAKI & WATCHMAN", 0],
-    [27, "Emergency", "kz", 0],
-    [28, "hIE A", "NARASAKI", 0],
-    [29, "Arato", "コジマミノリ", 0],
-    [30, "Lacia A", "NARASAKI", 0],
-    [31, "紅霞 B", "NARASAKI", 0],
-    [32, "紅霞", "NARASAKI", 0],
+    [1, "main theme", "NARASAKI & WATCHMAN", 1],
+    [2, "Heavenly voices", "WATCHMAN", 1],
+    [3, "Lacia B", "NARASAKI", 1],
+    [4, "In the noon", "WATCHMAN", 1],
+    [5, "hIE B", "NARASAKI", 1],
+    [6, "Yuka", "WATCHMAN", 1],
+    [7, "戦闘", "WATCHMAN", 1],
+    [8, "Loading", "kz", 1],
+    [9, "Eine Stadt A", "NARASAKI", 1],
+    [10, "不穏", "NARASAKI", 1],
+    [11, "Startup", "kz", 1],
+    [12, "Innocent smile", "WATCHMAN", 1],
+    [13, "Resonator", "kz", 1],
+    [14, "Ansiedad", "NARASAKI", 1],
+    [15, "Freundlichkeit", "NARASAKI", 1],
+    [16, "Angst", "NARASAKI", 1],
+    [17, "紅霞 A", "NARASAKI", 1],
+    [18, "Breakthrough", "kz", 1],
+    [19, "Tension", "kz", 1],
+    [20, "snowdrop deep", "コジマミノリ", 1],
+    [21, "Rivalry", "kz", 1],
+    [22, "Rush", "kz", 1],
+    [23, "Geheimnis", "NARASAKI", 1],
+    [24, "Schwarzer Wind", "コジマミノリ", 1],
+    [25, "Frozen eyes", "WATCHMAN", 1],
+    [26, "Face to face", "NARASAKI & WATCHMAN", 1],
+    [27, "Emergency", "kz", 1],
+    [28, "hIE A", "NARASAKI", 1],
+    [29, "Arato", "コジマミノリ", 1],
+    [30, "Lacia A", "NARASAKI", 1],
+    [31, "紅霞 B", "NARASAKI", 1],
+    [32, "紅霞", "NARASAKI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0749ec0d-33c5-4380-90f2-f2f483dd3a25", "https://vgmdb.net/album/76184"]
 
@@ -351,35 +351,35 @@ catalognumber = "ZMCZ-12168"
 date = "2018-05-25"
 album = "TVアニメ「BEATLESS」オリジナルサウンドトラック Disc 2 [TGCS-10680]"
 tracks = [
-    [1, "Weiβ Kindlich", "コジマミノリ", 0],
-    [2, "Methode", "kz", 0],
-    [3, "Brutal", "kz", 0],
-    [4, "Erika&Mariage", "コジマミノリ", 0],
-    [5, "Klassik", "コジマミノリ", 0],
-    [6, "Shiori", "コジマミノリ", 0],
-    [7, "Night breath", "WATCHMAN", 0],
-    [8, "Stadt", "NARASAKI", 0],
-    [9, "Automatic living", "WATCHMAN", 0],
-    [10, "Eine Stadt B", "NARASAKI", 0],
-    [11, "Calm vision", "WATCHMAN", 0],
-    [12, "導いてShooting Star", "コジマミノリ", 0],
-    [13, "Crowd", "kz", 0],
-    [14, "Daily maze", "WATCHMAN", 0],
-    [15, "Melancholy", "WATCHMAN", 0],
-    [16, "Mystery", "NARASAKI", 0],
-    [17, "Storung", "NARASAKI", 0],
-    [18, "Miedo", "NARASAKI", 0],
-    [19, "Allein fühlen", "NARASAKI", 0],
-    [20, "危機", "WATCHMAN", 0],
-    [21, "HOO", "WATCHMAN", 0],
-    [22, "攻撃開始", "WATCHMAN", 0],
-    [23, "Vorkommen", "NARASAKI", 0],
-    [24, "悲壮", "NARASAKI", 0],
-    [25, "Method to the unknown", "WATCHMAN", 0],
-    [26, "Fight for what", "NARASAKI", 0],
-    [27, "Gwaglewch", "NARASAKI", 0],
-    [28, "serenata", "NARASAKI", 0],
-    [29, "Irgendwo", "NARASAKI", 0],
+    [1, "Weiβ Kindlich", "コジマミノリ", 1],
+    [2, "Methode", "kz", 1],
+    [3, "Brutal", "kz", 1],
+    [4, "Erika&Mariage", "コジマミノリ", 1],
+    [5, "Klassik", "コジマミノリ", 1],
+    [6, "Shiori", "コジマミノリ", 1],
+    [7, "Night breath", "WATCHMAN", 1],
+    [8, "Stadt", "NARASAKI", 1],
+    [9, "Automatic living", "WATCHMAN", 1],
+    [10, "Eine Stadt B", "NARASAKI", 1],
+    [11, "Calm vision", "WATCHMAN", 1],
+    [12, "導いてShooting Star", "コジマミノリ", 1],
+    [13, "Crowd", "kz", 1],
+    [14, "Daily maze", "WATCHMAN", 1],
+    [15, "Melancholy", "WATCHMAN", 1],
+    [16, "Mystery", "NARASAKI", 1],
+    [17, "Storung", "NARASAKI", 1],
+    [18, "Miedo", "NARASAKI", 1],
+    [19, "Allein fühlen", "NARASAKI", 1],
+    [20, "危機", "WATCHMAN", 1],
+    [21, "HOO", "WATCHMAN", 1],
+    [22, "攻撃開始", "WATCHMAN", 1],
+    [23, "Vorkommen", "NARASAKI", 1],
+    [24, "悲壮", "NARASAKI", 1],
+    [25, "Method to the unknown", "WATCHMAN", 1],
+    [26, "Fight for what", "NARASAKI", 1],
+    [27, "Gwaglewch", "NARASAKI", 1],
+    [28, "serenata", "NARASAKI", 1],
+    [29, "Irgendwo", "NARASAKI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0749ec0d-33c5-4380-90f2-f2f483dd3a25", "https://vgmdb.net/album/76184"]
 
@@ -388,11 +388,11 @@ catalognumber = "ESCL-5068~9"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [アニメ盤] Disc 1 (CD) [ESCL-5068]"
 tracks = [
-    [1, "Shapeless", "", 0],
-    [2, "SHINY LADY", "", 0],
-    [3, "Kiss x Bang Bang!", "", 0],
-    [4, "Shapeless (KARAOKE)", "", 0],
-    [5, "Shapeless -Anime Edit-", "", 0],
+    [1, "Shapeless", "", 1],
+    [2, "SHINY LADY", "", 1],
+    [3, "Kiss x Bang Bang!", "", 1],
+    [4, "Shapeless (KARAOKE)", "", 1],
+    [5, "Shapeless -Anime Edit-", "", 1],
 ]
 links = ["https://vgmdb.net/album/77344"]
 
@@ -401,7 +401,7 @@ catalognumber = "ESCL-5068~9"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [アニメ盤] Disc 2 (DVD) [ESCL-5069]"
 tracks = [
-    [1, "Shapeless -Collaboration Music Video- (BEATLESS×TPD)", "", 0],
+    [1, "Shapeless -Collaboration Music Video- (BEATLESS×TPD)", "", 1],
 ]
 links = ["https://vgmdb.net/album/77344"]
 
@@ -410,7 +410,7 @@ catalognumber = "ESCL-5077"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [期間生産限定盤]"
 tracks = [
-    [1, "Shapeless", "", 0],
+    [1, "Shapeless", "", 1],
 ]
 links = ["https://vgmdb.net/album/77345"]
 
@@ -419,10 +419,10 @@ catalognumber = "VVCL-1247~8"
 date = "2018-06-06"
 album = "Truth. / TrySail [Limited Edition] Disc 1 (CD) [VVCL-1247]"
 tracks = [
-    [1, "Truth.", "TrySail", 0],
-    [2, "CODING", "TrySail", 0],
-    [3, "Truth. -Instrumental-", "TrySail", 0],
-    [4, "CODING -Instrumental-", "TrySail", 0],
+    [1, "Truth.", "TrySail", 1],
+    [2, "CODING", "TrySail", 1],
+    [3, "Truth. -Instrumental-", "TrySail", 1],
+    [4, "CODING -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f4306433-ccc7-4fb5-9858-4c22342d2795", "https://vgmdb.net/album/76379"]
 
@@ -431,7 +431,7 @@ catalognumber = "VVCL-1247~8"
 date = "2018-06-06"
 album = "Truth. / TrySail [Limited Edition] Disc 2 (DVD) [VVCL-1248]"
 tracks = [
-    [1, "Truth. -Music Video-", "", 0],
+    [1, "Truth. -Music Video-", "", 1],
 ]
 links = ["https://vgmdb.net/album/76379"]
 
@@ -440,11 +440,11 @@ catalognumber = "VVCL-1250"
 date = "2018-06-06"
 album = "Truth. / TrySail [Limited Edition]"
 tracks = [
-    [1, "Truth.", "TrySail", 0],
-    [2, "CODING", "TrySail", 0],
-    [3, "Truth. -TV Ver.-", "TrySail", 0],
-    [4, "Truth. -Instrumental-", "TrySail", 0],
-    [5, "CODING -Instrumental-", "TrySail", 0],
+    [1, "Truth.", "TrySail", 1],
+    [2, "CODING", "TrySail", 1],
+    [3, "Truth. -TV Ver.-", "TrySail", 1],
+    [4, "Truth. -Instrumental-", "TrySail", 1],
+    [5, "CODING -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6e056306-0f32-414b-9969-10ce6c8558ea", "https://vgmdb.net/album/76381"]
 
@@ -453,12 +453,12 @@ catalognumber = "ESCL-5065"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [初回生産限定盤B]"
 tracks = [
-    [1, "Shapeless", "", 0],
-    [2, "SHINY LADY", "", 0],
-    [3, "BURN ME OUT", "", 0],
-    [4, "Shapeless (KARAOKE)", "", 0],
-    [5, "SHINY LADY (KARAOKE)", "", 0],
-    [6, "BURN ME OUT (KARAOKE)", "", 0],
+    [1, "Shapeless", "", 1],
+    [2, "SHINY LADY", "", 1],
+    [3, "BURN ME OUT", "", 1],
+    [4, "Shapeless (KARAOKE)", "", 1],
+    [5, "SHINY LADY (KARAOKE)", "", 1],
+    [6, "BURN ME OUT (KARAOKE)", "", 1],
 ]
 links = ["https://vgmdb.net/album/77341"]
 
@@ -467,12 +467,12 @@ catalognumber = "ESCL-5066"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [初回生産限定盤C]"
 tracks = [
-    [1, "Shapeless", "", 0],
-    [2, "SHINY LADY", "", 0],
-    [3, "あなたに逢いましょう", "", 0],
-    [4, "Shapeless (KARAOKE)", "", 0],
-    [5, "SHINY LADY (KARAOKE)", "", 0],
-    [6, "あなたに逢いましょう (KARAOKE)", "", 0],
+    [1, "Shapeless", "", 1],
+    [2, "SHINY LADY", "", 1],
+    [3, "あなたに逢いましょう", "", 1],
+    [4, "Shapeless (KARAOKE)", "", 1],
+    [5, "SHINY LADY (KARAOKE)", "", 1],
+    [6, "あなたに逢いましょう (KARAOKE)", "", 1],
 ]
 links = ["https://vgmdb.net/album/77342"]
 
@@ -481,10 +481,10 @@ catalognumber = "VVCL-1249"
 date = "2018-06-06"
 album = "Truth. / TrySail"
 tracks = [
-    [1, "Truth.", "TrySail", 0],
-    [2, "CODING", "TrySail", 0],
-    [3, "Truth. -Instrumental-", "TrySail", 0],
-    [4, "CODING -Instrumental-", "TrySail", 0],
+    [1, "Truth.", "TrySail", 1],
+    [2, "CODING", "TrySail", 1],
+    [3, "Truth. -Instrumental-", "TrySail", 1],
+    [4, "CODING -Instrumental-", "TrySail", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f4306433-ccc7-4fb5-9858-4c22342d2795", "https://vgmdb.net/album/76380"]
 
@@ -493,12 +493,12 @@ catalognumber = "ESCL-5063~4"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [初回生産限定盤A] Disc 1 (CD) [ESCL-5063]"
 tracks = [
-    [1, "Shapeless", "", 0],
-    [2, "SHINY LADY", "", 0],
-    [3, "One Day One Life", "", 0],
-    [4, "Shapeless (KARAOKE)", "", 0],
-    [5, "SHINY LADY (KARAOKE)", "", 0],
-    [6, "One Day One Life (KARAOKE)", "", 0],
+    [1, "Shapeless", "", 1],
+    [2, "SHINY LADY", "", 1],
+    [3, "One Day One Life", "", 1],
+    [4, "Shapeless (KARAOKE)", "", 1],
+    [5, "SHINY LADY (KARAOKE)", "", 1],
+    [6, "One Day One Life (KARAOKE)", "", 1],
 ]
 links = ["https://vgmdb.net/album/77340"]
 
@@ -507,8 +507,8 @@ catalognumber = "ESCL-5063~4"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール [初回生産限定盤A] Disc 2 (DVD) [ESCL-5064]"
 tracks = [
-    [1, "Shapeless -Music Video-", "", 0],
-    [2, "Shapeless -Music Video- (MAKING)", "", 0],
+    [1, "Shapeless -Music Video-", "", 1],
+    [2, "Shapeless -Music Video- (MAKING)", "", 1],
     [3, "逆光×礼賛 (ダンスサミット2018 ～Wanna be SHINY LADY～ at 渋谷WWW X 2018.4.19)", "", 0],
     [4, "純愛カオス (ダンスサミット2018 ～Wanna be SHINY LADY～ at 渋谷WWW X 2018.4.19)", "", 0],
     [5, "TRICK U (ダンスサミット2018 ～Wanna be SHINY LADY～ at 渋谷WWW X 2018.4.19)", "", 0],
@@ -523,12 +523,12 @@ catalognumber = "ESCL-5067"
 date = "2018-06-06"
 album = "Shapeless / 東京パフォーマンスドール"
 tracks = [
-    [1, "Shapeless", "東京パフォーマンスドール", 0],
-    [2, "SHINY LADY", "東京パフォーマンスドール", 0],
-    [3, "Kiss x Bang Bang!", "東京パフォーマンスドール", 0],
-    [4, "Shapeless (KARAOKE)", "東京パフォーマンスドール", 0],
-    [5, "SHINY LADY (KARAOKE)", "東京パフォーマンスドール", 0],
-    [6, "Kiss x Bang Bang! (KARAOKE)", "東京パフォーマンスドール", 0],
+    [1, "Shapeless", "東京パフォーマンスドール", 1],
+    [2, "SHINY LADY", "東京パフォーマンスドール", 1],
+    [3, "Kiss x Bang Bang!", "東京パフォーマンスドール", 1],
+    [4, "Shapeless (KARAOKE)", "東京パフォーマンスドール", 1],
+    [5, "SHINY LADY (KARAOKE)", "東京パフォーマンスドール", 1],
+    [6, "Kiss x Bang Bang! (KARAOKE)", "東京パフォーマンスドール", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d9cec636-c4ca-4966-bbf5-0be32da23857", "https://vgmdb.net/album/77343"]
 
@@ -547,7 +547,7 @@ tracks = [
     [8, "パラレルワープ", "ClariS", 0],
     [9, "Last Squall", "ClariS", 0],
     [10, "TRAVEL", "ClariS", 0],
-    [11, "PRIMALove", "ClariS", 0],
+    [11, "PRIMALove", "ClariS", 1],
     [12, "Time Tunnel", "ClariS", 0],
     [13, "シニカルサスペンス", "ClariS", 0],
     [14, "Fairy Party", "ClariS", 0],
@@ -562,7 +562,7 @@ tracks = [
     [1, "Fairy Party Music Video", "ClariS", 0],
     [2, "ヒトリゴト Music Video", "ClariS", 0],
     [3, "SHIORI Music Video", "ClariS", 0],
-    [4, "PRIMALove Music Video", "ClariS", 0],
+    [4, "PRIMALove Music Video", "ClariS", 1],
     [5, "CheerS Music Video", "ClariS", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/88eee984-68af-42d1-89ce-d9a39bd204c7", "https://vgmdb.net/album/80737"]
@@ -582,7 +582,7 @@ tracks = [
     [8, "パラレルワープ", "ClariS", 0],
     [9, "Last Squall", "ClariS", 0],
     [10, "TRAVEL", "ClariS", 0],
-    [11, "PRIMALove", "ClariS", 0],
+    [11, "PRIMALove", "ClariS", 1],
     [12, "Time Tunnel", "ClariS", 0],
     [13, "シニカルサスペンス", "ClariS", 0],
     [14, "Fairy Party", "ClariS", 0],
@@ -604,7 +604,7 @@ tracks = [
     [8, "パラレルワープ", "ClariS", 0],
     [9, "Last Squall", "ClariS", 0],
     [10, "TRAVEL", "ClariS", 0],
-    [11, "PRIMALove", "ClariS", 0],
+    [11, "PRIMALove", "ClariS", 1],
     [12, "Time Tunnel", "ClariS", 0],
     [13, "シニカルサスペンス", "ClariS", 0],
     [14, "Fairy Party", "ClariS", 0],
@@ -618,11 +618,11 @@ album = "TryAgain / TrySail [Limited Edition] Disc 1 (CD) [VVCL-1417]"
 tracks = [
     [1, "TryAgain", "TrySail", 0],
     [2, "WANTED GIRL", "TrySail", 0],
-    [3, "Truth.", "TrySail", 0],
+    [3, "Truth.", "TrySail", 1],
     [4, "Believe", "TrySail", 0],
     [5, "Take a step forward", "TrySail", 0],
     [6, "未来キュレーション", "TrySail", 0],
-    [7, "CODING", "TrySail", 0],
+    [7, "CODING", "TrySail", 1],
     [8, "Sunset カンフー", "TrySail", 0],
     [9, "散歩道", "TrySail", 0],
     [10, "Make Me Happy?", "TrySail", 0],
@@ -648,11 +648,11 @@ album = "TryAgain / TrySail [Limited Edition] Disc 1 (CD) [VVCL-1420]"
 tracks = [
     [1, "TryAgain", "TrySail", 0],
     [2, "WANTED GIRL", "TrySail", 0],
-    [3, "Truth.", "TrySail", 0],
+    [3, "Truth.", "TrySail", 1],
     [4, "Believe", "TrySail", 0],
     [5, "Take a step forward", "TrySail", 0],
     [6, "未来キュレーション", "TrySail", 0],
-    [7, "CODING", "TrySail", 0],
+    [7, "CODING", "TrySail", 1],
     [8, "Sunset カンフー", "TrySail", 0],
     [9, "散歩道", "TrySail", 0],
     [10, "Make Me Happy?", "TrySail", 0],
@@ -678,11 +678,11 @@ album = "TryAgain / TrySail"
 tracks = [
     [1, "TryAgain", "TrySail", 0],
     [2, "WANTED GIRL", "TrySail", 0],
-    [3, "Truth.", "TrySail", 0],
+    [3, "Truth.", "TrySail", 1],
     [4, "Believe", "TrySail", 0],
     [5, "Take a step forward", "TrySail", 0],
     [6, "未来キュレーション", "TrySail", 0],
-    [7, "CODING", "TrySail", 0],
+    [7, "CODING", "TrySail", 1],
     [8, "Sunset カンフー", "TrySail", 0],
     [9, "散歩道", "TrySail", 0],
     [10, "Make Me Happy?", "TrySail", 0],
@@ -697,7 +697,7 @@ date = "2019-03-13"
 album = "REBEL FLAG / GARNiDELiA [初回生産限定盤] Live Event, Video"
 tracks = [
     [1, "REBEL FLAG Music Video", "", 0],
-    [2, "Error", "", 0],
+    [2, "Error", "", 1],
     [3, "Love Swing", "", 0],
     [4, "SPiCa", "", 0],
     [5, "G.R.N.D.", "", 0],
@@ -730,7 +730,7 @@ tracks = [
     [6, "SPEED STAR", "GARNiDELiA", 0],
     [7, "Désir", "GARNiDELiA", 0],
     [8, "アイコトバ", "GARNiDELiA", 0],
-    [9, "Error", "GARNiDELiA", 0],
+    [9, "Error", "GARNiDELiA", 1],
     [10, "REBEL FLAG", "GARNiDELiA", 0],
     [11, "極楽浄土", "GARNiDELiA", 0],
     [12, "Moon Landing", "GARNiDELiA", 0],
@@ -751,7 +751,7 @@ tracks = [
     [6, "SPEED STAR", "", 0],
     [7, "Désir", "", 0],
     [8, "アイコトバ", "", 0],
-    [9, "Error", "", 0],
+    [9, "Error", "", 1],
     [10, "REBEL FLAG", "", 0],
 ]
 links = ["https://vgmdb.net/album/89805"]
@@ -766,7 +766,7 @@ tracks = [
     [3, "ルミナス -2017-", "ClariS", 0],
     [4, "カラフル -2017-", "ClariS", 0],
     [5, "CheerS", "ClariS", 0],
-    [6, "PRIMALove", "ClariS", 0],
+    [6, "PRIMALove", "ClariS", 1],
     [7, "again", "ClariS", 0],
     [8, "シグナル", "ClariS", 0],
     [9, "アリシア", "ClariS", 0],
@@ -788,7 +788,7 @@ tracks = [
     [3, "ルミナス -2017-", "ClariS", 0],
     [4, "カラフル -2017-", "ClariS", 0],
     [5, "CheerS", "ClariS", 0],
-    [6, "PRIMALove", "ClariS", 0],
+    [6, "PRIMALove", "ClariS", 1],
     [7, "again", "ClariS", 0],
     [8, "シグナル", "ClariS", 0],
     [9, "アリシア", "ClariS", 0],
@@ -808,7 +808,7 @@ tracks = [
     [1, "Prism", "ClariS", 0],
     [2, "again", "ClariS", 0],
     [3, "ヒトリゴト", "ClariS", 0],
-    [4, "PRIMALove", "ClariS", 0],
+    [4, "PRIMALove", "ClariS", 1],
     [5, "CheerS", "ClariS", 0],
     [6, "アリシア", "ClariS", 0],
     [7, "Clear Sky", "ClariS", 0],
@@ -821,7 +821,7 @@ catalognumber = "VVCL-1736~8"
 date = "2020-10-21"
 album = "ClariS 10th Anniversary BEST - Pink Moon & Green Star - [Limited Edition] Disc 1 [VVCL-1736]"
 tracks = [
-    [1, "irony -season 02-", "ClariS", 0],
+    [1, "irony -season 02-", "ClariS", 1],
     [2, "STEP -season 02-", "ClariS", 0],
     [3, "Gravity", "ClariS", 0],
     [4, "アネモネ", "ClariS", 0],
@@ -848,7 +848,7 @@ tracks = [
     [3, "ルミナス -2017-", "ClariS", 0],
     [4, "カラフル -2017-", "ClariS", 0],
     [5, "CheerS", "ClariS", 0],
-    [6, "PRIMALove", "ClariS", 0],
+    [6, "PRIMALove", "ClariS", 1],
     [7, "again", "ClariS", 0],
     [8, "シグナル", "ClariS", 0],
     [9, "アリシア", "ClariS", 0],
@@ -892,7 +892,7 @@ album = "Parfaitone / ClariS [初回生産限定盤] Disc 2 [VVCL-2023]"
 tracks = [
     [1, "Clear Sky", "ClariS", 0],
     [2, "nexus -season 02-", "ClariS", 0],
-    [3, "irony -season 02-", "ClariS", 0],
+    [3, "irony -season 02-", "ClariS", 1],
     [4, "YUMENOKI", "ClariS", 0],
     [5, "アネモネ", "ClariS", 0],
     [6, "Wake Up -season 02-", "ClariS", 0],
@@ -921,11 +921,11 @@ tracks = [
     [29, "again", "ClariS", 0],
     [30, "ひらひら ひらら", "ClariS", 0],
     [31, "このiは虚数", "ClariS", 0],
-    [32, "冬空花火", "ClariS", 0],
+    [32, "冬空花火", "ClariS", 1],
     [33, "イロドリ", "ClariS", 0],
     [34, "Prism", "ClariS", 0],
     [35, "STEP -season 02-", "ClariS", 0],
-    [36, "PRIMALove", "ClariS", 0],
+    [36, "PRIMALove", "ClariS", 1],
     [37, "Summer Delay", "ClariS", 0],
     [38, "CLICK -season 02-", "ClariS", 0],
     [39, "reunion -season 02-", "ClariS", 0],
