@@ -3,14 +3,14 @@ catalognumber = "SRCL-7795"
 date = "2011-11-23"
 album = "My Dearest / supercell"
 tracks = [
-    [1, "My Dearest", "supercell", 0],
-    [2, "罪人", "supercell", 0],
-    [3, "大貧民", "supercell", 0],
-    [4, "My Dearest (TV Edit)", "supercell", 0],
-    [5, "My Dearest -Instrumental-", "supercell", 0],
-    [6, "罪人 -Instrumental-", "supercell", 0],
-    [7, "大貧民 -Instrumental-", "supercell", 0],
-    [8, "My Dearest (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "My Dearest", "supercell", 1],
+    [2, "罪人", "supercell", 1],
+    [3, "大貧民", "supercell", 1],
+    [4, "My Dearest (TV Edit)", "supercell", 1],
+    [5, "My Dearest -Instrumental-", "supercell", 1],
+    [6, "罪人 -Instrumental-", "supercell", 1],
+    [7, "大貧民 -Instrumental-", "supercell", 1],
+    [8, "My Dearest (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5f31de44-1d71-4452-a3c2-f1ebbc286c59", "https://vgmdb.net/album/29310"]
 
@@ -19,14 +19,14 @@ catalognumber = "SRCL-7793~4"
 date = "2011-11-23"
 album = "My Dearest / supercell [Limited Edition] Disc 1 (CD) [SRCL-7793]"
 tracks = [
-    [1, "My Dearest", "supercell", 0],
-    [2, "罪人", "supercell", 0],
-    [3, "大貧民", "supercell", 0],
-    [4, "My Dearest (TV Edit)", "supercell", 0],
-    [5, "My Dearest -Instrumental-", "supercell", 0],
-    [6, "罪人 -Instrumental-", "supercell", 0],
-    [7, "大貧民 -Instrumental-", "supercell", 0],
-    [8, "My Dearest (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "My Dearest", "supercell", 1],
+    [2, "罪人", "supercell", 1],
+    [3, "大貧民", "supercell", 1],
+    [4, "My Dearest (TV Edit)", "supercell", 1],
+    [5, "My Dearest -Instrumental-", "supercell", 1],
+    [6, "罪人 -Instrumental-", "supercell", 1],
+    [7, "大貧民 -Instrumental-", "supercell", 1],
+    [8, "My Dearest (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/142e0cb6-9063-48e8-84bd-9c8aeada5f45", "https://vgmdb.net/album/29309"]
 
@@ -46,13 +46,13 @@ catalognumber = "SVWC-7798"
 date = "2011-11-30"
 album = "Departures ～あなたにおくるアイの歌～ / EGOIST"
 tracks = [
-    [1, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [2, "エウテルペ", "EGOIST", 0],
-    [3, "Departures 〜あなたにおくるアイの歌〜 (TV Edit)", "EGOIST", 0],
-    [4, "Departures 〜あなたにおくるアイの歌〜 BOOM BOOM SATELLITES Remix -meteoric rain-", "EGOIST", 0],
-    [5, "Departures 〜あなたにおくるアイの歌〜 -Instrumental-", "EGOIST", 0],
-    [6, "エウテルペ -Instrumental-", "EGOIST", 0],
-    [7, "Departures 〜あなたにおくるアイの歌〜 (TV Edit) -Instrumental-", "EGOIST", 0],
+    [1, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [2, "エウテルペ", "EGOIST", 1],
+    [3, "Departures 〜あなたにおくるアイの歌〜 (TV Edit)", "EGOIST", 1],
+    [4, "Departures 〜あなたにおくるアイの歌〜 BOOM BOOM SATELLITES Remix -meteoric rain-", "EGOIST", 1],
+    [5, "Departures 〜あなたにおくるアイの歌〜 -Instrumental-", "EGOIST", 1],
+    [6, "エウテルペ -Instrumental-", "EGOIST", 1],
+    [7, "Departures 〜あなたにおくるアイの歌〜 (TV Edit) -Instrumental-", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1176ac75-16a1-4c13-8e8b-fb41faedfd0f", "https://vgmdb.net/album/29312"]
 
@@ -61,13 +61,13 @@ catalognumber = "SVWC-7796~7"
 date = "2011-11-30"
 album = "Departures ～あなたにおくるアイの歌～ / EGOIST Disc 1 (CD) [SVWC-7796]"
 tracks = [
-    [1, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [2, "エウテルペ", "EGOIST", 0],
-    [3, "Departures 〜あなたにおくるアイの歌〜 (TV Edit)", "EGOIST", 0],
-    [4, "Departures 〜あなたにおくるアイの歌〜 BOOM BOOM SATELLITES Remix -meteoric rain-", "EGOIST", 0],
-    [5, "Departures 〜あなたにおくるアイの歌〜 -Instrumental-", "EGOIST", 0],
-    [6, "エウテルペ -Instrumental-", "EGOIST", 0],
-    [7, "Departures 〜あなたにおくるアイの歌〜 (TV Edit) -Instrumental-", "EGOIST", 0],
+    [1, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [2, "エウテルペ", "EGOIST", 1],
+    [3, "Departures 〜あなたにおくるアイの歌〜 (TV Edit)", "EGOIST", 1],
+    [4, "Departures 〜あなたにおくるアイの歌〜 BOOM BOOM SATELLITES Remix -meteoric rain-", "EGOIST", 1],
+    [5, "Departures 〜あなたにおくるアイの歌〜 -Instrumental-", "EGOIST", 1],
+    [6, "エウテルペ -Instrumental-", "EGOIST", 1],
+    [7, "Departures 〜あなたにおくるアイの歌〜 (TV Edit) -Instrumental-", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8d36dc31-e0e0-4f9b-b1b4-9bbd1637e8f9", "https://vgmdb.net/album/29311"]
 
@@ -76,7 +76,7 @@ catalognumber = "SVWC-7796~7"
 date = "2011-11-30"
 album = "Departures ～あなたにおくるアイの歌～ / EGOIST Disc 2 (DVD) [SVWC-7796]"
 tracks = [
-    [1, "Departures ～あなたにおくるアイの歌～ Ending ノンクレジットムービー", "", 0],
+    [1, "Departures ～あなたにおくるアイの歌～ Ending ノンクレジットムービー", "", 1],
 ]
 links = ["https://vgmdb.net/album/29311"]
 
@@ -85,25 +85,25 @@ catalognumber = "SVWC-7817"
 date = "2012-01-25"
 album = "ギルティクラウン オリジナルサウンドトラック"
 tracks = [
-    [1, "βίος", "澤野弘之 feat. 小林未郁", 0],
-    [2, "α", "澤野弘之", 0],
-    [3, "Ω", "澤野弘之", 0],
-    [4, "Ready to Go", "澤野弘之 feat. David Whitaker", 0],
-    [5, "friends", "澤野弘之 feat. mpi", 0],
-    [6, "VOiD", "澤野弘之", 0],
-    [7, "gエ19", "澤野弘之", 0],
-    [8, "θεοί", "澤野弘之", 0],
-    [9, "close your eyes", "澤野弘之 feat. 本田みちよ", 0],
-    [10, "Βασιλεύς", "澤野弘之", 0],
-    [11, "π", "澤野弘之", 0],
-    [12, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 0],
-    [13, "κr0nё", "澤野弘之", 0],
-    [14, "Hill Of Sorrow", "澤野弘之 feat. mpi", 0],
-    [15, "Απōκάλυψις", "澤野弘之", 0],
-    [16, "Home ~in this corner~", "澤野弘之 feat. Leina", 0],
-    [17, "Genesi§", "澤野弘之", 0],
-    [18, "βίος-δ", "澤野弘之 feat. 小林未郁", 0],
-    [19, "Rё∀˥", "澤野弘之 feat. Cyua", 0],
+    [1, "βίος", "澤野弘之 feat. 小林未郁", 1],
+    [2, "α", "澤野弘之", 1],
+    [3, "Ω", "澤野弘之", 1],
+    [4, "Ready to Go", "澤野弘之 feat. David Whitaker", 1],
+    [5, "friends", "澤野弘之 feat. mpi", 1],
+    [6, "VOiD", "澤野弘之", 1],
+    [7, "gエ19", "澤野弘之", 1],
+    [8, "θεοί", "澤野弘之", 1],
+    [9, "close your eyes", "澤野弘之 feat. 本田みちよ", 1],
+    [10, "Βασιλεύς", "澤野弘之", 1],
+    [11, "π", "澤野弘之", 1],
+    [12, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 1],
+    [13, "κr0nё", "澤野弘之", 1],
+    [14, "Hill Of Sorrow", "澤野弘之 feat. mpi", 1],
+    [15, "Απōκάλυψις", "澤野弘之", 1],
+    [16, "Home ~in this corner~", "澤野弘之 feat. Leina", 1],
+    [17, "Genesi§", "澤野弘之", 1],
+    [18, "βίος-δ", "澤野弘之 feat. 小林未郁", 1],
+    [19, "Rё∀˥", "澤野弘之 feat. Cyua", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7b6444df-d9e7-4c2f-a9be-1fcee3c521da", "https://vgmdb.net/album/29651"]
 
@@ -112,10 +112,10 @@ catalognumber = "ANZX-3802"
 date = "2012-01-25"
 album = "GUILTY CROWN THEME SONGS COLLECTION"
 tracks = [
-    [1, "エウテルペ 〜Silence〜", "ryo (supercell)", 0],
-    [2, "Departures 〜Blessing〜", "ryo (supercell)", 0],
-    [3, "βioς <MK+nZk Version>", "澤野弘之", 0],
-    [4, "Rё∀˥ <C+nZk Version>", "澤野弘之", 0],
+    [1, "エウテルペ 〜Silence〜", "ryo (supercell)", 1],
+    [2, "Departures 〜Blessing〜", "ryo (supercell)", 1],
+    [3, "βioς <MK+nZk Version>", "澤野弘之", 1],
+    [4, "Rё∀˥ <C+nZk Version>", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/35254717-0bbf-4679-9f9c-385ac70fba9b", "https://vgmdb.net/album/29652"]
 
@@ -124,15 +124,15 @@ catalognumber = "ANZX-3804"
 date = "2012-02-22"
 album = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 01"
 tracks = [
-    [1, "kEっ1000", "澤野弘之", 0],
-    [2, "Miss手リAs", "澤野弘之", 0],
-    [3, "刺U", "澤野弘之", 0],
-    [4, "血Con-儀", "澤野弘之", 0],
-    [5, "鎖スPen$", "澤野弘之", 0],
-    [6, "Oノ存ξ", "澤野弘之", 0],
-    [7, "Gエ19 <FullSize>", "澤野弘之", 0],
-    [8, "Vぉ1℃→Ki母∪", "澤野弘之", 0],
-    [9, "美♂-K+$タすpAd", "澤野弘之", 0],
+    [1, "kEっ1000", "澤野弘之", 1],
+    [2, "Miss手リAs", "澤野弘之", 1],
+    [3, "刺U", "澤野弘之", 1],
+    [4, "血Con-儀", "澤野弘之", 1],
+    [5, "鎖スPen$", "澤野弘之", 1],
+    [6, "Oノ存ξ", "澤野弘之", 1],
+    [7, "Gエ19 <FullSize>", "澤野弘之", 1],
+    [8, "Vぉ1℃→Ki母∪", "澤野弘之", 1],
+    [9, "美♂-K+$タすpAd", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1c3c52f9-f5d9-4d51-aa46-c061f68e5074", "https://vgmdb.net/album/31152"]
 
@@ -141,13 +141,13 @@ catalognumber = "SRCL-7885"
 date = "2012-03-07"
 album = "告白×僕らのあしあと / supercell"
 tracks = [
-    [1, "告白", "supercell", 0],
-    [2, "僕らのあしあと", "supercell", 0],
-    [3, "カレ", "supercell", 0],
-    [4, "告白 (TV Edit)", "supercell", 0],
-    [5, "告白 -Instrumental-", "supercell", 0],
-    [6, "カレ -Instrumental-", "supercell", 0],
-    [7, "告白 (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "告白", "supercell", 1],
+    [2, "僕らのあしあと", "supercell", 2],
+    [3, "カレ", "supercell", 1],
+    [4, "告白 (TV Edit)", "supercell", 1],
+    [5, "告白 -Instrumental-", "supercell", 1],
+    [6, "カレ -Instrumental-", "supercell", 1],
+    [7, "告白 (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/93b7fa64-4e60-4bb7-80bc-9509094a98e7", "https://vgmdb.net/album/30775"]
 
@@ -156,13 +156,13 @@ catalognumber = "SRCL-7881~2"
 date = "2012-03-07"
 album = "告白×僕らのあしあと / supercell Vocal"
 tracks = [
-    [1, "告白", "supercell", 0],
-    [2, "僕らのあしあと", "supercell", 0],
-    [3, "カレ", "supercell", 0],
-    [4, "告白 (TV Edit)", "supercell", 0],
-    [5, "告白 -Instrumental-", "supercell", 0],
-    [6, "カレ -Instrumental-", "supercell", 0],
-    [7, "告白 (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "告白", "supercell", 1],
+    [2, "僕らのあしあと", "supercell", 1],
+    [3, "カレ", "supercell", 1],
+    [4, "告白 (TV Edit)", "supercell", 1],
+    [5, "告白 -Instrumental-", "supercell", 1],
+    [6, "カレ -Instrumental-", "supercell", 1],
+    [7, "告白 (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/34ac62cd-c104-4158-90b2-80cc38f11c76", "https://vgmdb.net/album/30890"]
 
@@ -181,13 +181,13 @@ catalognumber = "SRCL-7886"
 date = "2012-03-07"
 album = "僕らのあしあと×告白 / supercell"
 tracks = [
-    [1, "僕らのあしあと", "supercell", 0],
-    [2, "告白", "supercell", 0],
-    [3, "カレ", "supercell", 0],
-    [4, "僕らのあしあと (TV Edit)", "supercell", 0],
-    [5, "僕らのあしあと -Instrumental-", "supercell", 0],
-    [6, "カレ -Instrumental-", "supercell", 0],
-    [7, "僕らのあしあと (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "僕らのあしあと", "supercell", 1],
+    [2, "告白", "supercell", 1],
+    [3, "カレ", "supercell", 1],
+    [4, "僕らのあしあと (TV Edit)", "supercell", 1],
+    [5, "僕らのあしあと -Instrumental-", "supercell", 1],
+    [6, "カレ -Instrumental-", "supercell", 1],
+    [7, "僕らのあしあと (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a1b42f85-9628-43d5-90f5-f32524d63513", "https://vgmdb.net/album/30777"]
 
@@ -196,13 +196,13 @@ catalognumber = "SVWC-7834"
 date = "2012-03-07"
 album = "The Everlasting Guilty Crown / EGOIST"
 tracks = [
-    [1, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [2, "キミソラキセキ", "EGOIST", 0],
-    [3, "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)", "EGOIST", 0],
-    [4, "The Everlasting Guilty Crown (TV Edit)", "EGOIST", 0],
-    [5, "The Everlasting Guilty Crown -Instrumental-", "EGOIST", 0],
-    [6, "キミソラキセキ -Instrumental-", "EGOIST", 0],
-    [7, "The Everlasting Guilty Crown (TV Edit) -Instrumental-", "EGOIST", 0],
+    [1, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [2, "キミソラキセキ", "EGOIST", 1],
+    [3, "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)", "EGOIST", 1],
+    [4, "The Everlasting Guilty Crown (TV Edit)", "EGOIST", 1],
+    [5, "The Everlasting Guilty Crown -Instrumental-", "EGOIST", 1],
+    [6, "キミソラキセキ -Instrumental-", "EGOIST", 1],
+    [7, "The Everlasting Guilty Crown (TV Edit) -Instrumental-", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0dfb33a3-94e8-4797-9b4f-1919c45164e7", "https://vgmdb.net/album/30774"]
 
@@ -211,13 +211,13 @@ catalognumber = "SVWC-7832~3"
 date = "2012-03-07"
 album = "The Everlasting Guilty Crown / EGOIST [Limited Edition] Vocal"
 tracks = [
-    [1, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [2, "キミソラキセキ", "EGOIST", 0],
-    [3, "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)", "EGOIST", 0],
-    [4, "The Everlasting Guilty Crown (TV Edit)", "EGOIST", 0],
-    [5, "The Everlasting Guilty Crown -Instrumental-", "EGOIST", 0],
-    [6, "キミソラキセキ -Instrumental-", "EGOIST", 0],
-    [7, "The Everlasting Guilty Crown (TV Edit) -Instrumental-", "EGOIST", 0],
+    [1, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [2, "キミソラキセキ", "EGOIST", 1],
+    [3, "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)", "EGOIST", 1],
+    [4, "The Everlasting Guilty Crown (TV Edit)", "EGOIST", 1],
+    [5, "The Everlasting Guilty Crown -Instrumental-", "EGOIST", 1],
+    [6, "キミソラキセキ -Instrumental-", "EGOIST", 1],
+    [7, "The Everlasting Guilty Crown (TV Edit) -Instrumental-", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6396ad4e-1862-487b-bec0-6e955d30b8da", "https://vgmdb.net/album/31174"]
 
@@ -226,10 +226,10 @@ catalognumber = "SVWC-7832~3"
 date = "2012-03-07"
 album = "The Everlasting Guilty Crown / EGOIST [Limited Edition] Video"
 tracks = [
-    [1, "The Everlasting Guilty Crown (ミュージックビデオ) (TV Edit ver.)", "EGOIST", 0],
-    [2, "The Everlasting Guilty Crown (オープニングノンクレジットムービー)", "EGOIST", 0],
+    [1, "The Everlasting Guilty Crown (ミュージックビデオ) (TV Edit ver.)", "EGOIST", 1],
+    [2, "The Everlasting Guilty Crown (オープニングノンクレジットムービー)", "EGOIST", 1],
     [3, "TVスポット15sec.", "EGOIST", 0],
-    [4, "Departures ~あなたにおくるアイの歌~ (ミュージックビデオ)", "EGOIST", 0],
+    [4, "Departures ~あなたにおくるアイの歌~ (ミュージックビデオ)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6396ad4e-1862-487b-bec0-6e955d30b8da", "https://vgmdb.net/album/31174"]
 
@@ -238,13 +238,13 @@ catalognumber = "SRCL-7883~4"
 date = "2012-03-07"
 album = "僕らのあしあと×告白 / supercell Vocal"
 tracks = [
-    [1, "僕らのあしあと", "supercell", 0],
-    [2, "告白", "supercell", 0],
-    [3, "カレ", "supercell", 0],
-    [4, "僕らのあしあと (TV Edit)", "supercell", 0],
-    [5, "僕らのあしあと -Instrumental-", "supercell", 0],
-    [6, "カレ -Instrumental-", "supercell", 0],
-    [7, "僕らのあしあと (TV Edit) -Instrumental-", "supercell", 0],
+    [1, "僕らのあしあと", "supercell", 1],
+    [2, "告白", "supercell", 1],
+    [3, "カレ", "supercell", 1],
+    [4, "僕らのあしあと (TV Edit)", "supercell", 1],
+    [5, "僕らのあしあと -Instrumental-", "supercell", 1],
+    [6, "カレ -Instrumental-", "supercell", 1],
+    [7, "僕らのあしあと (TV Edit) -Instrumental-", "supercell", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/806e88d2-da51-4cc4-8d3b-3643ecb22734", "https://vgmdb.net/album/30891"]
 
@@ -253,7 +253,7 @@ catalognumber = "SRCL-7883~4"
 date = "2012-03-07"
 album = "僕らのあしあと×告白 / supercell Disc 2 (DVD) [SRCL-7883]"
 tracks = [
-    [1, "僕らのあしあと Music Video", "supercell", 0],
+    [1, "僕らのあしあと Music Video", "supercell", 1],
     [2, "ブラック★ロックシューター スポット Type A", "supercell", 0],
     [3, "ブラック★ロックシューター スポット Type B", "supercell", 0],
     [4, "ブラック★ロックシューター スポット Type C", "supercell", 0],
@@ -266,10 +266,10 @@ catalognumber = "ANZX-3806"
 date = "2012-03-21"
 album = "GUILTY CROWN RADIO COUNCIL Undisclosed Version 01"
 tracks = [
-    [1, "ゲストを武器にして仲良しに! (梶裕貴&中村悠一)", "[dialogue]", 0],
-    [2, "ゲストを武器にして仲良しに! (茅野愛衣&嶋村侑)", "[dialogue]", 0],
-    [3, "ゲストを武器にして仲良しに! (梶裕貴&勝杏里)", "[dialogue]", 0],
-    [4, "ゲストを武器にして仲良しに! (茅野愛衣&竹達彩奈)", "[dialogue]", 0],
+    [1, "ゲストを武器にして仲良しに! (梶裕貴&中村悠一)", "[dialogue]", 1],
+    [2, "ゲストを武器にして仲良しに! (茅野愛衣&嶋村侑)", "[dialogue]", 1],
+    [3, "ゲストを武器にして仲良しに! (梶裕貴&勝杏里)", "[dialogue]", 1],
+    [4, "ゲストを武器にして仲良しに! (茅野愛衣&竹達彩奈)", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b9f1e8f7-b1a7-4e03-9435-af9e0a5ca121", "https://vgmdb.net/album/32226"]
 
@@ -285,11 +285,11 @@ tracks = [
     [5, "DON'T STARE ME (premiere edition)", "VERTUEUX", 0],
     [6, "Kiss of the Sky", "VERTUEUX", 0],
     [7, "second comming", "VERTUEUX", 0],
-    [8, "Where am I? (premiere edition)", "VERTUEUX", 0],
+    [8, "Where am I? (premiere edition)", "VERTUEUX", 1],
     [9, "Trips", "VERTUEUX", 0],
     [10, "Sandy Weeds (premiere edition)", "VERTUEUX", 0],
     [11, "タイム・アウト", "VERTUEUX", 0],
-    [12, "full of regret", "VERTUEUX", 0],
+    [12, "full of regret", "VERTUEUX", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/78c53370-0a25-4f76-85dc-d39204f73215", "https://vgmdb.net/album/120399"]
 
@@ -298,15 +298,15 @@ catalognumber = "ANZX-3808"
 date = "2012-04-25"
 album = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 02"
 tracks = [
-    [1, "pF-AdLibⅠ", "澤野弘之", 0],
-    [2, "gT→pF", "澤野弘之", 0],
-    [3, "pF-AdLibⅡ", "澤野弘之", 0],
-    [4, "fUE+p@D+hArP→pF", "澤野弘之", 0],
-    [5, "sT+hRN+tRB+tUba", "澤野弘之", 0],
-    [6, "pF-AdLibⅢ", "澤野弘之", 0],
-    [7, "1616", "澤野弘之", 0],
-    [8, "gT→sYnTH", "澤野弘之", 0],
-    [9, "pF-AdLibⅣ", "澤野弘之", 0],
+    [1, "pF-AdLibⅠ", "澤野弘之", 1],
+    [2, "gT→pF", "澤野弘之", 1],
+    [3, "pF-AdLibⅡ", "澤野弘之", 1],
+    [4, "fUE+p@D+hArP→pF", "澤野弘之", 1],
+    [5, "sT+hRN+tRB+tUba", "澤野弘之", 1],
+    [6, "pF-AdLibⅢ", "澤野弘之", 1],
+    [7, "1616", "澤野弘之", 1],
+    [8, "gT→sYnTH", "澤野弘之", 1],
+    [9, "pF-AdLibⅣ", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/93ea66e2-3cab-4bd3-84b1-a93886745263", "https://vgmdb.net/album/32069"]
 
@@ -315,12 +315,12 @@ catalognumber = "GRN-031"
 date = "2012-04-25"
 album = "Lost Eve -GUILTY CROWN LOST XMAS Maxi Single- / Kanako Ito & VERTUEUX"
 tracks = [
-    [1, "Lost Control", "いとうかなこ", 0],
-    [2, "ISOLATION", "いとうかなこ", 0],
-    [3, "Where am I?", "VERTUEUX", 0],
-    [4, "Lost Control inst ver.", "佐久間正英", 0],
-    [5, "ISOLATION inst ver.", "佐久間正英", 0],
-    [6, "Where am I? inst ver.", "HIDEKI", 0],
+    [1, "Lost Control", "いとうかなこ", 1],
+    [2, "ISOLATION", "いとうかなこ", 1],
+    [3, "Where am I?", "VERTUEUX", 1],
+    [4, "Lost Control inst ver.", "佐久間正英", 1],
+    [5, "ISOLATION inst ver.", "佐久間正英", 1],
+    [6, "Where am I? inst ver.", "HIDEKI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/13258f0e-014e-4709-b081-6cd0c831400a", "https://vgmdb.net/album/31913"]
 
@@ -329,7 +329,7 @@ catalognumber = "ANZX-3810"
 date = "2012-05-23"
 album = "GUILTY CROWN SPECIAL DRAMA CD"
 tracks = [
-    [1, "GUILTY CROWN SECRET MISSION", "", 0],
+    [1, "GUILTY CROWN SECRET MISSION", "", 1],
 ]
 links = ["https://vgmdb.net/album/32216"]
 
@@ -338,10 +338,10 @@ catalognumber = "ANZX-3814"
 date = "2012-07-25"
 album = "GUILTY CROWN RADIO COUNCIL Undisclosed Version 02"
 tracks = [
-    [1, "ゲストを武器にして仲良しに! (梶 裕貴&水島大宙)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 0],
-    [2, "ゲストを武器にして仲良しに! (茅野愛衣&遠藤 綾)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 0],
-    [3, "ゲストを武器にして仲良しに! (梶 裕貴&内山昂輝)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 0],
-    [4, "ゲストを武器にして仲良しに! (茅野愛衣&寿 美菜子)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 0],
+    [1, "ゲストを武器にして仲良しに! (梶 裕貴&水島大宙)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 1],
+    [2, "ゲストを武器にして仲良しに! (茅野愛衣&遠藤 綾)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 1],
+    [3, "ゲストを武器にして仲良しに! (梶 裕貴&内山昂輝)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 1],
+    [4, "ゲストを武器にして仲良しに! (茅野愛衣&寿 美菜子)", "梶裕貴, 水島大宙, 茅野愛衣, 遠藤綾, 内山昂輝 & 寿美菜子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5450c746-0ad7-4389-bf4d-2bc555937942", "https://vgmdb.net/album/33723"]
 
@@ -350,10 +350,10 @@ catalognumber = "ANZX-3816"
 date = "2012-08-22"
 album = "GUILTY CROWN RADIO COUNCIL Undisclosed Version 03"
 tracks = [
-    [1, "ゲストを武器にして仲良しに! (梶 裕貴 & 阪口大助)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 0],
-    [2, "ゲストを武器にして仲良しに! (茅野 愛 & 岡本信彦)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 0],
-    [3, "ゲストを武器にして仲良しに! (梶 裕貴 & 遠藤 綾)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 0],
-    [4, "ゲストを武器にして仲良しに! (茅野 愛 & 梶 裕貴)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 0],
+    [1, "ゲストを武器にして仲良しに! (梶 裕貴 & 阪口大助)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 1],
+    [2, "ゲストを武器にして仲良しに! (茅野 愛 & 岡本信彦)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 1],
+    [3, "ゲストを武器にして仲良しに! (梶 裕貴 & 遠藤 綾)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 1],
+    [4, "ゲストを武器にして仲良しに! (茅野 愛 & 梶 裕貴)", "梶裕貴, 阪口大助, 茅野愛衣, 岡本信彦 & 遠藤綾", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4a5c5ed5-ab34-4ea5-9958-ed951f58434b", "https://vgmdb.net/album/34161"]
 
@@ -362,18 +362,18 @@ catalognumber = "SRCL-8093"
 date = "2012-09-19"
 album = "Extra terrestrial Biological Entities / EGOIST"
 tracks = [
-    [1, "原罪の灯", "EGOIST", 0],
-    [2, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [3, "Extra terrestrial Biological Entities", "EGOIST", 0],
-    [4, "雨、キミを連れて", "EGOIST", 0],
-    [5, "Lovely Icecream Princess Sweetie", "EGOIST", 0],
-    [6, "手遅れ", "EGOIST", 0],
-    [7, "LoveStruck", "EGOIST", 0],
-    [8, "Ce que j'aime ～inori no kyuuzitu～", "EGOIST", 0],
-    [9, "想いを巡らす100の事象", "EGOIST", 0],
-    [10, "この世界で見つけたもの", "EGOIST", 0],
-    [11, "Planetes", "EGOIST", 0],
-    [12, "Departures ～あなたにおくるアイの歌～", "EGOIST", 0],
+    [1, "原罪の灯", "EGOIST", 1],
+    [2, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [3, "Extra terrestrial Biological Entities", "EGOIST", 1],
+    [4, "雨、キミを連れて", "EGOIST", 1],
+    [5, "Lovely Icecream Princess Sweetie", "EGOIST", 1],
+    [6, "手遅れ", "EGOIST", 1],
+    [7, "LoveStruck", "EGOIST", 1],
+    [8, "Ce que j'aime ～inori no kyuuzitu～", "EGOIST", 1],
+    [9, "想いを巡らす100の事象", "EGOIST", 1],
+    [10, "この世界で見つけたもの", "EGOIST", 1],
+    [11, "Planetes", "EGOIST", 1],
+    [12, "Departures ～あなたにおくるアイの歌～", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1c06155d-4251-4453-9903-b607be4afa61", "https://vgmdb.net/album/33681"]
 
@@ -382,18 +382,18 @@ catalognumber = "SRCL-8091~2"
 date = "2012-09-19"
 album = "Extra terrestrial Biological Entities / EGOIST [Limited Edition] Vocal"
 tracks = [
-    [1, "原罪の灯", "EGOIST", 0],
-    [2, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [3, "Extra terrestrial Biological Entities", "EGOIST", 0],
-    [4, "雨、キミを連れて", "EGOIST", 0],
-    [5, "Lovely Icecream Princess Sweetie", "EGOIST", 0],
-    [6, "手遅れ", "EGOIST", 0],
-    [7, "LoveStruck", "EGOIST", 0],
-    [8, "Ce que j’aime 〜inori no kyuuzitu〜", "EGOIST", 0],
-    [9, "想いを巡らす100の事象", "EGOIST", 0],
-    [10, "この世界で見つけたもの", "EGOIST", 0],
-    [11, "Planetes", "EGOIST", 0],
-    [12, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
+    [1, "原罪の灯", "EGOIST", 1],
+    [2, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [3, "Extra terrestrial Biological Entities", "EGOIST", 1],
+    [4, "雨、キミを連れて", "EGOIST", 1],
+    [5, "Lovely Icecream Princess Sweetie", "EGOIST", 1],
+    [6, "手遅れ", "EGOIST", 1],
+    [7, "LoveStruck", "EGOIST", 1],
+    [8, "Ce que j’aime 〜inori no kyuuzitu〜", "EGOIST", 1],
+    [9, "想いを巡らす100の事象", "EGOIST", 1],
+    [10, "この世界で見つけたもの", "EGOIST", 1],
+    [11, "Planetes", "EGOIST", 1],
+    [12, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fe4cd680-7d2c-4091-83c2-64d3dcd0c070", "https://vgmdb.net/album/33680"]
 
@@ -402,9 +402,9 @@ catalognumber = "SRCL-8091~2"
 date = "2012-09-19"
 album = "Extra terrestrial Biological Entities / EGOIST [Limited Edition] Video"
 tracks = [
-    [1, "Departures ～あなたにおくるアイの歌～ Music Video", "EGOIST", 0],
-    [2, "The Everlasting Guilty Crown Music Video (TV Edit Ver.)", "EGOIST", 0],
-    [3, "Planetes Music Video", "EGOIST", 0],
+    [1, "Departures ～あなたにおくるアイの歌～ Music Video", "EGOIST", 1],
+    [2, "The Everlasting Guilty Crown Music Video (TV Edit Ver.)", "EGOIST", 1],
+    [3, "Planetes Music Video", "EGOIST", 1],
     [4, "ギルティクラウン ロストクリスマス Movie (Planetes Ver.)", "EGOIST", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/fe4cd680-7d2c-4091-83c2-64d3dcd0c070", "https://vgmdb.net/album/33680"]
@@ -414,12 +414,12 @@ catalognumber = "ANZX-3818"
 date = "2012-09-26"
 album = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 03"
 tracks = [
-    [1, "Egg", "澤野弘之", 0],
-    [2, "Garlic", "澤野弘之", 0],
-    [3, "Olibe Oil", "澤野弘之", 0],
-    [4, "Idaho Potato", "澤野弘之", 0],
-    [5, "Salt", "澤野弘之", 0],
-    [6, "Tamanegi", "澤野弘之", 0],
+    [1, "Egg", "澤野弘之", 1],
+    [2, "Garlic", "澤野弘之", 1],
+    [3, "Olibe Oil", "澤野弘之", 1],
+    [4, "Idaho Potato", "澤野弘之", 1],
+    [5, "Salt", "澤野弘之", 1],
+    [6, "Tamanegi", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/23a9d83b-8cdd-4713-900c-b22d21862c8e", "https://vgmdb.net/album/34699"]
 
@@ -454,7 +454,7 @@ tracks = [
     [6, "kiss my lips(so-fram*c J-Core remix)", "so-fram*c", 0],
     [7, "Crossing Fields (Shingo DJ Hardcore Beater remix)", "Shingo DJ", 0],
     [8, "ない・ない・ナイアガラ! (LU-I remix)", "LU-I", 0],
-    [9, "The Everlasting Guilty Crown(2M UK Hardcore remix)", "2M", 0],
+    [9, "The Everlasting Guilty Crown(2M UK Hardcore remix)", "2M", 1],
     [10, "SECRET AMBITION(DJ Shiroken remix)", "DJ Shiroken", 0],
     [11, "Magenta Another Sky(Catungla remix)Catungla", "Catunagla", 0],
     [12, "euphoric field(Ucore remix)", "you", 0],
@@ -466,9 +466,9 @@ catalognumber = "ANZX-3820"
 date = "2012-10-24"
 album = "ギルティクラウンアラカルト"
 tracks = [
-    [1, "パラレルサイド「ぎる☆くら学園 危機一髪!」", "吉野裕行", 0],
-    [2, "パラレルサイド「コンビニ店員 嘘界」", "吉野裕行", 0],
-    [3, "アントラクトサイド「I want to feel you」", "吉野裕行", 0],
+    [1, "パラレルサイド「ぎる☆くら学園 危機一髪!」", "吉野裕行", 1],
+    [2, "パラレルサイド「コンビニ店員 嘘界」", "吉野裕行", 1],
+    [3, "アントラクトサイド「I want to feel you」", "吉野裕行", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/40b442e9-594d-4b6b-a941-c3b5c04b1e91", "https://vgmdb.net/album/36040"]
 
@@ -484,7 +484,7 @@ tracks = [
     [5, "Endless Field", "nao", 0],
     [6, "キボウのソラ", "霜月はるか", 0],
     [7, "黄昏時のレイライン", "JOH + KIYO", 0],
-    [8, "Lost Control", "いとうかなこ", 0],
+    [8, "Lost Control", "いとうかなこ", 1],
     [9, "Witch's Garden", "佐藤ひろ美 & 飛蘭", 0],
     [10, "my sweet heart", "solfa feat.霜月はるか", 0],
     [11, "Blooming", "miru", 0],
@@ -504,7 +504,7 @@ tracks = [
     [1, "Journey's End", "supercell", 0],
     [2, "No.525300887039", "supercell", 0],
     [3, "Mr.Downer", "supercell", 0],
-    [4, "My Dearest (Album Mix)", "supercell", 0],
+    [4, "My Dearest (Album Mix)", "supercell", 1],
     [5, "従属人間", "supercell", 0],
     [6, "ホワイト製薬", "supercell", 0],
     [7, "拍手喝采歌合", "supercell", 0],
@@ -512,8 +512,8 @@ tracks = [
     [9, "百回目のキス", "supercell", 0],
     [10, "銀色飛行船", "supercell", 0],
     [11, "The Bravery (Album Mix)", "supercell", 0],
-    [12, "僕らのあしあと (Album Mix)", "supercell", 0],
-    [13, "告白 (Album Mix)", "supercell", 0],
+    [12, "僕らのあしあと (Album Mix)", "supercell", 1],
+    [13, "告白 (Album Mix)", "supercell", 1],
     [14, "時間列車", "supercell", 0],
     [15, "We're Still Here", "supercell", 0],
 ]
@@ -524,9 +524,9 @@ catalognumber = "SRCL-8410~1"
 date = "2013-11-27"
 album = "ZIGAEXPERIENTIA / supercell [初回生産限定盤A] Disc 2 (Blu-ray) [SRCL-8411]"
 tracks = [
-    [1, "My Dearest", "supercell", 0],
-    [2, "告白", "supercell", 0],
-    [3, "僕らのあしあと", "supercell", 0],
+    [1, "My Dearest", "supercell", 1],
+    [2, "告白", "supercell", 1],
+    [3, "僕らのあしあと", "supercell", 1],
     [4, "銀色飛行船", "supercell", 0],
     [5, "The Bravery", "supercell", 0],
     [6, "拍手喝采歌合", "supercell", 0],
@@ -542,7 +542,7 @@ tracks = [
     [1, "Journey's End", "supercell", 0],
     [2, "No.525300887039", "supercell", 0],
     [3, "Mr.Downer", "supercell", 0],
-    [4, "My Dearest (Album Mix)", "supercell", 0],
+    [4, "My Dearest (Album Mix)", "supercell", 1],
     [5, "従属人間", "supercell", 0],
     [6, "ホワイト製薬", "supercell", 0],
     [7, "拍手喝采歌合", "supercell", 0],
@@ -550,8 +550,8 @@ tracks = [
     [9, "百回目のキス", "supercell", 0],
     [10, "銀色飛行船", "supercell", 0],
     [11, "The Bravery (Album Mix)", "supercell", 0],
-    [12, "僕らのあしあと (Album Mix)", "supercell", 0],
-    [13, "告白 (Album Mix)", "supercell", 0],
+    [12, "僕らのあしあと (Album Mix)", "supercell", 1],
+    [13, "告白 (Album Mix)", "supercell", 1],
     [14, "時間列車", "supercell", 0],
     [15, "We're Still Here", "supercell", 0],
 ]
@@ -580,7 +580,7 @@ tracks = [
     [1, "Journey’s End", "supercell", 0],
     [2, "No.525300887039", "supercell", 0],
     [3, "Mr.Downer", "supercell", 0],
-    [4, "My Dearest (Album Mix)", "supercell", 0],
+    [4, "My Dearest (Album Mix)", "supercell", 1],
     [5, "従属人間", "supercell", 0],
     [6, "ホワイト製薬", "supercell", 0],
     [7, "拍手喝采歌合", "supercell", 0],
@@ -588,8 +588,8 @@ tracks = [
     [9, "百回目のキス", "supercell", 0],
     [10, "銀色飛行船", "supercell", 0],
     [11, "The Bravery (Album Mix)", "supercell", 0],
-    [12, "僕らのあしあと (Album Mix)", "supercell", 0],
-    [13, "告白 (Album Mix)", "supercell", 0],
+    [12, "僕らのあしあと (Album Mix)", "supercell", 1],
+    [13, "告白 (Album Mix)", "supercell", 1],
     [14, "時間列車", "supercell", 0],
     [15, "We’re Still Here", "supercell", 0],
 ]
@@ -606,7 +606,7 @@ tracks = [
     [4, "ふたりのきもちのほんとのひみつ", "", 0],
     [5, "Hacking To The Gate", "", 0],
     [6, "Fallen Angel Feat. Aimee B", "", 0],
-    [7, "My Dearest", "", 0],
+    [7, "My Dearest", "", 1],
     [8, "ミリオンリーヴス", "", 0],
     [9, "玉響", "", 0],
 ]
@@ -623,13 +623,13 @@ tracks = [
     [4, "Wild War Dance", "澤野弘之", 0],
     [5, "Blumenkranz", "澤野弘之", 0],
     [6, "EGO", "澤野弘之", 0],
-    [7, "Hill Of Sorrow", "澤野弘之 feat. mpi", 0],
+    [7, "Hill Of Sorrow", "澤野弘之 feat. mpi", 1],
     [8, "Me & Creed", "澤野弘之", 0],
     [9, "Till I Die", "澤野弘之", 0],
-    [10, "Ready to Go", "澤野弘之 feat. David Whitaker", 0],
+    [10, "Ready to Go", "澤野弘之 feat. David Whitaker", 1],
     [11, "Light your heart up", "澤野弘之", 0],
-    [12, "friends", "澤野弘之 feat. mpi", 0],
-    [13, "Rё∀L", "澤野弘之 feat. Cyua", 0],
+    [12, "friends", "澤野弘之 feat. mpi", 1],
+    [13, "Rё∀L", "澤野弘之 feat. Cyua", 1],
     [14, "Call me later <nZk Plugless>", "澤野弘之", 0],
     [15, "Suck your blood", "澤野弘之", 0],
     [16, "DOA", "澤野弘之 <Vocal: AIMEE BLACKSCHLEGER>", 0],
@@ -802,12 +802,12 @@ catalognumber = "ANZX-12095"
 date = "2016-04-27"
 album = "GUILTY CROWN HIROYUKI SAWANO REARRANGE CD"
 tracks = [
-    [1, "friends <MOD>", "澤野弘之", 0],
-    [2, "Release My Soul <MOD>", "澤野弘之", 0],
-    [3, "Hill Of Sorrow <MOD>", "澤野弘之", 0],
-    [4, "friends <MOD> -Instrumental-", "澤野弘之", 0],
-    [5, "Release My Soul <MOD> -Instrumental-", "澤野弘之", 0],
-    [6, "Hill Of Sorrow <MOD> -Instrumental-", "澤野弘之", 0],
+    [1, "friends <MOD>", "澤野弘之", 1],
+    [2, "Release My Soul <MOD>", "澤野弘之", 1],
+    [3, "Hill Of Sorrow <MOD>", "澤野弘之", 1],
+    [4, "friends <MOD> -Instrumental-", "澤野弘之", 1],
+    [5, "Release My Soul <MOD> -Instrumental-", "澤野弘之", 1],
+    [6, "Hill Of Sorrow <MOD> -Instrumental-", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10bfb76c-01e5-47bb-a4aa-1b3d2ab92e09", "https://vgmdb.net/album/57131"]
 
@@ -827,13 +827,13 @@ date = "2016-04-27"
 album = "GUILTY CROWN COMPLETE SOUNDTRACK Original Soundtrack, Vocal Disc 1"
 tracks = [
     [1, "βίος", "澤野弘之 feat. 小林未郁", 0],
-    [2, "Ready to Go", "澤野弘之 feat. David Whitaker", 0],
-    [3, "friends", "澤野弘之 feat. mpi", 0],
-    [4, "Home ~in this corner~", "澤野弘之 feat. Leina", 0],
-    [5, "Rё∀⅂", "澤野弘之 feat. Cyua", 0],
-    [6, "close your eyes", "澤野弘之 feat. 本田みちよ", 0],
-    [7, "Hill Of Sorrow", "澤野弘之 feat. mpi", 0],
-    [8, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 0],
+    [2, "Ready to Go", "澤野弘之 feat. David Whitaker", 1],
+    [3, "friends", "澤野弘之 feat. mpi", 1],
+    [4, "Home ~in this corner~", "澤野弘之 feat. Leina", 1],
+    [5, "Rё∀⅂", "澤野弘之 feat. Cyua", 1],
+    [6, "close your eyes", "澤野弘之 feat. 本田みちよ", 1],
+    [7, "Hill Of Sorrow", "澤野弘之 feat. mpi", 1],
+    [8, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 1],
     [9, "血Con-儀", "澤野弘之", 0],
     [10, "美♂-K+$タすpAd", "澤野弘之", 0],
     [11, "α", "澤野弘之", 0],
@@ -841,7 +841,7 @@ tracks = [
     [13, "pF-AdLib II", "澤野弘之", 0],
     [14, "pF-AdLib IV", "澤野弘之", 0],
     [15, "βίος 〈MK+nZk Version〉", "澤野弘之", 0],
-    [16, "Rё∀⅂ 〈C+nZk Version〉", "澤野弘之", 0],
+    [16, "Rё∀⅂ 〈C+nZk Version〉", "澤野弘之", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/811778fe-8ffa-40b7-8aff-e42b36714e47", "https://vgmdb.net/album/57130"]
 
@@ -864,7 +864,7 @@ tracks = [
     [12, "Pi", "", 0],
     [13, "Strings+Horns+Trombone+Tuba", "", 0],
     [14, "Suspense", "", 0],
-    [15, "Genesis", "", 0],
+    [15, "Genesis", "", 1],
     [16, "krone", "", 0],
 ]
 links = ["https://vgmdb.net/album/57130"]
@@ -874,14 +874,14 @@ catalognumber = "SVWC-70156~8"
 date = "2016-04-27"
 album = "GUILTY CROWN COMPLETE SOUNDTRACK Original Soundtrack, Vocal Disc 3"
 tracks = [
-    [1, "Egg", "澤野弘之", 0],
-    [2, "Garlic", "澤野弘之", 0],
+    [1, "Egg", "澤野弘之", 1],
+    [2, "Garlic", "澤野弘之", 1],
     [3, "Olive Oil", "澤野弘之", 0],
-    [4, "Idaho Potato", "澤野弘之", 0],
-    [5, "Salt", "澤野弘之", 0],
+    [4, "Idaho Potato", "澤野弘之", 1],
+    [5, "Salt", "澤野弘之", 1],
     [6, "Tamanegi", "澤野弘之", 0],
     [7, "pF-AdLib I", "澤野弘之", 0],
-    [8, "gT→sYnTH", "澤野弘之", 0],
+    [8, "gT→sYnTH", "澤野弘之", 1],
     [9, "pF-AdLib III", "澤野弘之", 0],
     [10, "gT→pF", "澤野弘之", 0],
     [11, "βίος-δ", "澤野弘之 feat. 小林未郁", 0],
@@ -894,13 +894,13 @@ date = "2016-05-30"
 album = "GUILTY CROWN COMPLETE SOUNDTRACK Disc 1"
 tracks = [
     [1, "Bios", "", 0],
-    [2, "Ready to Go", "", 0],
-    [3, "friends", "", 0],
-    [4, "Home ~in this corner~", "", 0],
+    [2, "Ready to Go", "", 1],
+    [3, "friends", "", 1],
+    [4, "Home ~in this corner~", "", 1],
     [5, "Real", "", 0],
-    [6, "close your eyes", "", 0],
-    [7, "Hill Of Sorrow", "", 0],
-    [8, "Release My Soul", "", 0],
+    [6, "close your eyes", "", 1],
+    [7, "Hill Of Sorrow", "", 1],
+    [8, "Release My Soul", "", 1],
     [9, "Kekkon Ichigi", "", 0],
     [10, "Bios-K+S+Pad", "", 0],
     [11, "Alpha", "", 0],
@@ -931,7 +931,7 @@ tracks = [
     [12, "Pi", "", 0],
     [13, "Strings+Horns+Trombone+Tuba", "", 0],
     [14, "Suspense", "", 0],
-    [15, "Genesis", "", 0],
+    [15, "Genesis", "", 1],
     [16, "krone", "", 0],
 ]
 links = ["https://vgmdb.net/album/61846"]
@@ -941,11 +941,11 @@ catalognumber = "S50467C"
 date = "2016-05-30"
 album = "GUILTY CROWN COMPLETE SOUNDTRACK Disc 3"
 tracks = [
-    [1, "Egg", "", 0],
-    [2, "Garlic", "", 0],
+    [1, "Egg", "", 1],
+    [2, "Garlic", "", 1],
     [3, "Olive Oil", "", 0],
-    [4, "Idaho Potato", "", 0],
-    [5, "Salt", "", 0],
+    [4, "Idaho Potato", "", 1],
+    [5, "Salt", "", 1],
     [6, "Tamanegi", "", 0],
     [7, "Pianoforte-AdLib I", "", 0],
     [8, "Guitar→Synth", "", 0],
@@ -1012,11 +1012,11 @@ tracks = [
     [9, "All Alone With You", "EGOIST", 0],
     [10, "カナデナル", "EGOIST", 0],
     [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", 0],
-    [13, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [14, "エウテルペ", "EGOIST", 0],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", 1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [14, "エウテルペ", "EGOIST", 1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4b852733-a35f-4ec4-be30-2a46c1184268", "https://vgmdb.net/album/72550"]
 
@@ -1056,11 +1056,11 @@ tracks = [
     [9, "All Alone With You", "EGOIST", 0],
     [10, "カナデナル", "EGOIST", 0],
     [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", 0],
-    [13, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [14, "エウテルペ", "EGOIST", 0],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", 1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [14, "エウテルペ", "EGOIST", 1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9c518c51-5e88-4e24-a1cf-bb074513d370", "https://vgmdb.net/album/72549"]
 
@@ -1100,11 +1100,11 @@ tracks = [
     [9, "All Alone With You", "EGOIST", 0],
     [10, "カナデナル", "EGOIST", 0],
     [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", 0],
-    [13, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [14, "エウテルペ", "EGOIST", 0],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", 1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [14, "エウテルペ", "EGOIST", 1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/97ff9864-2b70-407f-b7dc-5fab065923f8", "https://vgmdb.net/album/72547"]
 
@@ -1124,11 +1124,11 @@ tracks = [
     [9, "All Alone With You", "EGOIST", 0],
     [10, "カナデナル", "EGOIST", 0],
     [11, "名前のない怪物", "EGOIST", 0],
-    [12, "Planetes", "EGOIST", 0],
-    [13, "The Everlasting Guilty Crown", "EGOIST", 0],
-    [14, "エウテルペ", "EGOIST", 0],
-    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 0],
-    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 0],
+    [12, "Planetes", "EGOIST", 1],
+    [13, "The Everlasting Guilty Crown", "EGOIST", 1],
+    [14, "エウテルペ", "EGOIST", 1],
+    [15, "Departures 〜あなたにおくるアイの歌〜", "EGOIST", 1],
+    [16, "Departures 〜あなたにおくるアイの歌〜 (Acoustic Ver.)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/980b7a4a-a174-4681-83c6-52e846345b1a", "https://vgmdb.net/album/72548"]
 
@@ -1200,7 +1200,7 @@ album = "MiX ～面白いほどよくわかるノンストップSACRA MUSIC～"
 tracks = [
     [1, "Rising Hope", "LiSA", 0],
     [2, "IGNITE", "藍井エイル", 0],
-    [3, "The Everlasting Guilty Crown", "EGOIST", 0],
+    [3, "The Everlasting Guilty Crown", "EGOIST", 1],
     [4, "sh0ut", "SawanoHiroyuki[nZk]:Tielle&Gemie", 0],
     [5, "ジョーカーに宜しく", "PENGUIN RESEARCH", 0],
     [6, "デート", "斉藤壮馬", 0],
@@ -1263,7 +1263,7 @@ tracks = [
     [1, "D + T / BLOOD oF thE DRAGON", "SawanoHiroyuki[nZk]", 0],
     [2, "The Brave", "SawanoHiroyuki[nZk]", 0],
     [3, "The Reluctant Heroes", "SawanoHiroyuki[nZk]", 0],
-    [4, "friends", "SawanoHiroyuki[nZk]", 0],
+    [4, "friends", "SawanoHiroyuki[nZk]", 1],
     [5, "BRAVE THE OCEAN", "SawanoHiroyuki[nZk]", 0],
     [6, "Before my body is dry", "SawanoHiroyuki[nZk]", 0],
     [7, "Battle Scars", "SawanoHiroyuki[nZk]", 0],
@@ -1294,10 +1294,10 @@ album = "咲かせや咲かせ / EGOIST"
 tracks = [
     [1, "咲かせや咲かせ", "EGOIST", 0],
     [2, "London Bridge is falling down", "EGOIST", 0],
-    [3, "The Everlasting Guilty Crown Nightcore mix", "EGOIST", 0],
+    [3, "The Everlasting Guilty Crown Nightcore mix", "EGOIST", 1],
     [4, "咲かせや咲かせ -Instrumental-", "EGOIST", 0],
     [5, "London Bridge is falling down -Instrumental-", "EGOIST", 0],
-    [6, "The Everlasting Guilty Crown Nightcore mix -Instrumental-", "EGOIST", 0],
+    [6, "The Everlasting Guilty Crown Nightcore mix -Instrumental-", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3e59ba70-633e-4285-94a8-702bd6f8d921", "https://vgmdb.net/album/85431"]
 
@@ -1308,10 +1308,10 @@ album = "咲かせや咲かせ / EGOIST Vocal, Remix"
 tracks = [
     [1, "咲かせや咲かせ", "EGOIST", 0],
     [2, "London Bridge is falling down", "EGOIST", 0],
-    [3, "The Everlasting Guilty Crown (Nightcore mix)", "EGOIST", 0],
+    [3, "The Everlasting Guilty Crown (Nightcore mix)", "EGOIST", 1],
     [4, "咲かせや咲かせ (instrumental)", "EGOIST", 0],
     [5, "London Bridge is falling down (instrumental)", "EGOIST", 0],
-    [6, "The Everlasting Guilty Crown (Nightcore mix) (instrumental)", "EGOIST", 0],
+    [6, "The Everlasting Guilty Crown (Nightcore mix) (instrumental)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10537512-88d1-4c3e-a65c-b4952773e655", "https://vgmdb.net/album/85432"]
 
@@ -1331,10 +1331,10 @@ album = "咲かせや咲かせ / EGOIST Vocal Disc 1"
 tracks = [
     [1, "咲かせや咲かせ", "EGOIST", 0],
     [2, "London Bridge is falling down", "EGOIST", 0],
-    [3, "The Everlasting Guilty Crown (Nightcore mix)", "EGOIST", 0],
+    [3, "The Everlasting Guilty Crown (Nightcore mix)", "EGOIST", 1],
     [4, "咲かせや咲かせ (instrumental)", "EGOIST", 0],
     [5, "London Bridge is falling down (instrumental)", "EGOIST", 0],
-    [6, "The Everlasting Guilty Crown (Nightcore mix) (instrumental)", "EGOIST", 0],
+    [6, "The Everlasting Guilty Crown (Nightcore mix) (instrumental)", "EGOIST", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/10537512-88d1-4c3e-a65c-b4952773e655", "https://vgmdb.net/album/85433"]
 
@@ -1356,8 +1356,8 @@ tracks = [
     [2, "Ghost of a Smile -2020ver.-", "タカオカミズキ", 0],
     [3, "名前のない怪物 -2020ver.-", "タカオカミズキ", 0],
     [4, "Fallen -2020ver.-", "タカオカミズキ", 0],
-    [5, "Planetes", "タカオカミズキ", 0],
-    [6, "Departures～あなたにおくるアイの歌～ -2020ver.-", "タカオカミズキ", 0],
+    [5, "Planetes", "タカオカミズキ", 1],
+    [6, "Departures～あなたにおくるアイの歌～ -2020ver.-", "タカオカミズキ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b1d6d278-a216-4e8e-a11d-69c65d831047", "https://vgmdb.net/album/109193"]
 
@@ -1367,7 +1367,7 @@ date = "2020-04-08"
 album = "澤野弘之 BEST OF VOCAL WORKS [nZk] 2 Disc 1 (CD) [VVCL-1640]"
 tracks = [
     [1, "Inferno", "澤野弘之", 0],
-    [2, "StarRingChild", "Aimer", 0],
+    [2, "StarRingChild", "Aimer", 1],
     [3, "Warcry", "澤野弘之", 0],
     [4, "Alive", "Do As Infinity", 0],
     [5, "Zero Eclipse", "澤野弘之", 0],
@@ -1381,7 +1381,7 @@ tracks = [
     [13, "NEXUS", "澤野弘之", 0],
     [14, "God of ink", "澤野弘之", 0],
     [15, "Roll The Dice", "西川貴教", 0],
-    [16, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 0],
+    [16, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 1],
     [17, "S_TEAM", "澤野弘之", 0],
     [18, "theDOGS", "澤野弘之", 0],
 ]
@@ -1454,7 +1454,7 @@ date = "2020-04-08"
 album = "澤野弘之 BEST OF VOCAL WORKS [nZk] 2 Disc 1 [VVCL-1644]"
 tracks = [
     [1, "Inferno", "澤野弘之", 0],
-    [2, "StarRingChild", "Aimer", 0],
+    [2, "StarRingChild", "Aimer", 1],
     [3, "Warcry", "澤野弘之", 0],
     [4, "Alive", "Do As Infinity", 0],
     [5, "Zero Eclipse", "澤野弘之", 0],
@@ -1468,7 +1468,7 @@ tracks = [
     [13, "NEXUS", "澤野弘之", 0],
     [14, "God of ink", "澤野弘之", 0],
     [15, "Roll The Dice", "西川貴教", 0],
-    [16, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 0],
+    [16, "Release My Soul", "澤野弘之 feat. Aimee Blackschleger", 1],
     [17, "S_TEAM", "澤野弘之", 0],
     [18, "theDOGS", "澤野弘之", 0],
 ]
@@ -1541,7 +1541,7 @@ catalognumber = "VVXX-00752"
 date = "2020-08-26"
 album = "Departures ～あなたにおくるアイの歌～ feat. Mes"
 tracks = [
-    [1, "Departures ～あなたにおくるアイの歌～", "", 0],
+    [1, "Departures ～あなたにおくるアイの歌～", "", 1],
 ]
 links = ["https://vgmdb.net/album/103187"]
 
@@ -1562,7 +1562,7 @@ tracks = [
     [10, "太陽系デスコ", "アンジュ・カトリーナ", 0],
     [11, "Hand in Hand", "リゼ・ヘルエスタ", 0],
     [12, "名前のない怪物", "戌亥とこ", 0],
-    [13, "My Dearest", "町田ちま", 0],
+    [13, "My Dearest", "町田ちま", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0cd97c3b-37ed-4cc3-9702-0fe78c12f34a", "https://vgmdb.net/album/105590"]
 
@@ -1604,7 +1604,7 @@ tracks = [
     [7, "gravityWall", "SawanoHiroyuki[nZk]", 0],
     [8, "Felidae", "SawanoHiroyuki[nZk]", 0],
     [9, "Into the Sky", "SawanoHiroyuki[nZk]", 0],
-    [10, "Home ～in this corner～", "SawanoHiroyuki[nZk]", 0],
+    [10, "Home ～in this corner～", "SawanoHiroyuki[nZk]", 1],
     [11, "Next 2 U -eUC-", "SawanoHiroyuki[nZk]", 0],
     [12, "A LETTER", "SawanoHiroyuki[nZk]", 0],
     [13, "Trollz", "SawanoHiroyuki[nZk]", 0],
@@ -1624,7 +1624,7 @@ catalognumber = "N/A"
 date = "2021-03-19"
 album = "The Everlasting Guilty Crown (feat. 小春六花) [cover ver.] / タカオカミズキ"
 tracks = [
-    [1, "The Everlasting Guilty Crown", "タカオカミズキ feat. 小春六花", 0],
+    [1, "The Everlasting Guilty Crown", "タカオカミズキ feat. 小春六花", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/85f119ca-6915-43eb-b43b-f24d4a41f672", "https://vgmdb.net/album/110102"]
 
@@ -1654,7 +1654,7 @@ tracks = [
     [4, "Next of Kin", "SawanoHiroyuki[nZk]", 0],
     [5, "No differences", "SawanoHiroyuki[nZk]", 0],
     [6, "DOA", "SawanoHiroyuki[nZk]", 0],
-    [7, "Release My Soul", "SawanoHiroyuki[nZk]", 0],
+    [7, "Release My Soul", "SawanoHiroyuki[nZk]", 1],
     [8, "S_TEAM", "SawanoHiroyuki[nZk]", 0],
     [9, "BRAVE THE OCEAN", "SawanoHiroyuki[nZk]", 0],
     [10, "em0t1on", "SawanoHiroyuki[nZk]", 0],
@@ -1717,7 +1717,7 @@ tracks = [
     [3, "ベノム", "Afterglow", 0],
     [4, "KING", "Roselia", 0],
     [5, "Shangri-La", "Roselia", 0],
-    [6, "My Dearest", "Roselia", 0],
+    [6, "My Dearest", "Roselia", 1],
     [7, "CORE PRIDE", "RAISE A SUILEN", 0],
     [8, "DEPARTURES", "RAISE A SUILEN", 0],
     [9, "DAYBREAK FRONTLINE", "RAISE A SUILEN", 0],
@@ -1793,7 +1793,7 @@ tracks = [
     [8, "ΛSHES<MODv>", "澤野弘之", 0],
     [9, "BangBangBUR!…n?", "澤野弘之", 0],
     [10, "PROMARETHEME", "澤野弘之", 0],
-    [11, "Hill Of Sorrow", "澤野弘之", 0],
+    [11, "Hill Of Sorrow", "澤野弘之", 1],
     [12, "κr0nё", "澤野弘之", 0],
     [13, "Βασιλευς", "澤野弘之", 0],
     [14, "KABANERIOFTHEIRONFORTRESS", "澤野弘之", 0],
@@ -1884,7 +1884,7 @@ tracks = [
     [7, "Inferno (Vo. Benjamin&mpi)", "", 0],
     [8, "DOA (Vo. Aimee Blackschleger)", "", 0],
     [9, "Light your heart up (Vo. Aimee Blackschleger)", "", 0],
-    [10, "Release My Soul (Vo. Aimee Blackschleger)", "", 0],
+    [10, "Release My Soul (Vo. Aimee Blackschleger)", "", 1],
     [11, "DARK ARIA ＜LV2＞ (Vo. XAI)", "", 0],
     [12, "LEMONADE (Vo. XAI)", "", 0],
     [13, "Cage (Vo. XAI)", "", 0],
