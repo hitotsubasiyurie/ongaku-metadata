@@ -3,19 +3,19 @@ catalognumber = "N/A"
 date = "2013-08-10"
 album = "リトルウィッチアカデミア オリジナルサウンドトラック"
 tracks = [
-    [1, "マジックショー", "大島ミチル", 0],
-    [2, "カフェテリア", "大島ミチル", 0],
-    [3, "飛行訓練", "大島ミチル", 0],
-    [4, "寄宿舎にて", "大島ミチル", 0],
-    [5, "ミノタウロス", "大島ミチル", 0],
-    [6, "アイアンメイデン", "大島ミチル", 0],
-    [7, "ドラゴンの出現", "大島ミチル", 0],
-    [8, "いざ、出発!", "大島ミチル", 0],
-    [9, "戦闘", "大島ミチル", 0],
-    [10, "シャリオのテーマ", "大島ミチル", 0],
-    [11, "メインテーマ", "大島ミチル", 0],
-    [12, "タイトルロール", "大島ミチル", 0],
-    [13, "タイトルロール <Short ver.>", "大島ミチル", 0],
+    [1, "マジックショー", "大島ミチル", 1],
+    [2, "カフェテリア", "大島ミチル", 1],
+    [3, "飛行訓練", "大島ミチル", 1],
+    [4, "寄宿舎にて", "大島ミチル", 1],
+    [5, "ミノタウロス", "大島ミチル", 1],
+    [6, "アイアンメイデン", "大島ミチル", 1],
+    [7, "ドラゴンの出現", "大島ミチル", 1],
+    [8, "いざ、出発!", "大島ミチル", 1],
+    [9, "戦闘", "大島ミチル", 1],
+    [10, "シャリオのテーマ", "大島ミチル", 1],
+    [11, "メインテーマ", "大島ミチル", 1],
+    [12, "タイトルロール", "大島ミチル", 1],
+    [13, "タイトルロール <Short ver.>", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92fca508-8136-4a22-8e05-1277d9048944", "https://vgmdb.net/album/40434"]
 
@@ -24,19 +24,19 @@ catalognumber = "N/A"
 date = "2013-10-24"
 album = "Little Witch Academia Original Sound Track"
 tracks = [
-    [1, "マジックショー (M1)", "", 0],
-    [2, "カフェテリア (M2)", "", 0],
-    [3, "飛行訓練 (M3)", "", 0],
-    [4, "寄宿舎にて (M4A)", "", 0],
-    [5, "ミノタウロス (M4B)", "", 0],
-    [6, "アイアンメイデン (M5)", "", 0],
-    [7, "ドラゴンの出現 (M6)", "", 0],
-    [8, "いざ、出発! (M7A)", "", 0],
-    [9, "戦闘 (M7B)", "", 0],
-    [10, "シャリオのテーマ (M7C)", "", 0],
-    [11, "メインテーマ (M7D)", "", 0],
-    [12, "タイトルロール (M8)", "", 0],
-    [13, "タイトルロール<Short ver.> (M8B)", "", 0],
+    [1, "マジックショー (M1)", "", 1],
+    [2, "カフェテリア (M2)", "", 1],
+    [3, "飛行訓練 (M3)", "", 1],
+    [4, "寄宿舎にて (M4A)", "", 1],
+    [5, "ミノタウロス (M4B)", "", 1],
+    [6, "アイアンメイデン (M5)", "", 1],
+    [7, "ドラゴンの出現 (M6)", "", 1],
+    [8, "いざ、出発! (M7A)", "", 1],
+    [9, "戦闘 (M7B)", "", 1],
+    [10, "シャリオのテーマ (M7C)", "", 1],
+    [11, "メインテーマ (M7D)", "", 1],
+    [12, "タイトルロール (M8)", "", 1],
+    [13, "タイトルロール<Short ver.> (M8B)", "", 1],
 ]
 links = ["https://vgmdb.net/album/40032"]
 
@@ -45,28 +45,28 @@ catalognumber = "LWA2-BD-02"
 date = "2015-10"
 album = "リトルウィッチアカデミア 魔法仕掛けのパレード オリジナルサウンドトラック"
 tracks = [
-    [1, "Mushroom Menace In The Lab", "大島ミチル", 0],
-    [2, "Title Intro", "大島ミチル", 0],
-    [3, "Parade Of The Witch Hunt", "大島ミチル", 0],
-    [4, "The Three Mischiefs", "大島ミチル", 0],
-    [5, "Akko's Idea: The Happy Time Project", "大島ミチル", 0],
-    [6, "Dance Of The Brooms", "大島ミチル", 0],
-    [7, "The White Mage Appears…", "大島ミチル", 0],
-    [8, "Confrontation With Diana", "大島ミチル", 0],
-    [9, "A Trip To Town", "大島ミチル", 0],
-    [10, "Tomato Fight", "大島ミチル", 0],
-    [11, "The Evil Stirs…", "大島ミチル", 0],
-    [12, "The Magic Of Chariot", "大島ミチル", 0],
-    [13, "Akko's Parade Preparation", "大島ミチル", 0],
-    [14, "Shiny Rod's Revival", "大島ミチル", 0],
-    [15, "Luna Nova's Witch Parade Happy Time", "大島ミチル", 0],
-    [16, "The Giant Awakes", "大島ミチル", 0],
-    [17, "The Show Must Go On…", "大島ミチル", 0],
-    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 0],
-    [19, "Lotte's Song Of The Spirits", "大島ミチル", 0],
-    [20, "The Witches Versus The Giant", "大島ミチル", 0],
-    [21, "Happy Time Ending", "大島ミチル", 0],
-    [22, "End Credits", "大島ミチル", 0],
+    [1, "Mushroom Menace In The Lab", "大島ミチル", 1],
+    [2, "Title Intro", "大島ミチル", 1],
+    [3, "Parade Of The Witch Hunt", "大島ミチル", 1],
+    [4, "The Three Mischiefs", "大島ミチル", 1],
+    [5, "Akko's Idea: The Happy Time Project", "大島ミチル", 1],
+    [6, "Dance Of The Brooms", "大島ミチル", 1],
+    [7, "The White Mage Appears…", "大島ミチル", 1],
+    [8, "Confrontation With Diana", "大島ミチル", 1],
+    [9, "A Trip To Town", "大島ミチル", 1],
+    [10, "Tomato Fight", "大島ミチル", 1],
+    [11, "The Evil Stirs…", "大島ミチル", 1],
+    [12, "The Magic Of Chariot", "大島ミチル", 1],
+    [13, "Akko's Parade Preparation", "大島ミチル", 1],
+    [14, "Shiny Rod's Revival", "大島ミチル", 1],
+    [15, "Luna Nova's Witch Parade Happy Time", "大島ミチル", 1],
+    [16, "The Giant Awakes", "大島ミチル", 1],
+    [17, "The Show Must Go On…", "大島ミチル", 1],
+    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 1],
+    [19, "Lotte's Song Of The Spirits", "大島ミチル", 1],
+    [20, "The Witches Versus The Giant", "大島ミチル", 1],
+    [21, "Happy Time Ending", "大島ミチル", 1],
+    [22, "End Credits", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d55c3ac9-4e35-4a42-badc-0061de763fc5", "https://vgmdb.net/album/54267"]
 
@@ -75,12 +75,12 @@ catalognumber = "THCS-60079"
 date = "2015-10-07"
 album = "Magic Parade / 大原ゆい子"
 tracks = [
-    [1, "Magic Parade", "大原ゆい子", 0],
-    [2, "世界のどこかで", "大原ゆい子", 0],
-    [3, "星に雲に揺れる木々に", "大原ゆい子", 0],
-    [4, "Magic Parade (Instrumental)", "大原ゆい子", 0],
-    [5, "世界のどこかで (Instrumental)", "大原ゆい子", 0],
-    [6, "星に雲に揺れる木々に (Instrumental)", "大原ゆい子", 0],
+    [1, "Magic Parade", "大原ゆい子", 1],
+    [2, "世界のどこかで", "大原ゆい子", 1],
+    [3, "星に雲に揺れる木々に", "大原ゆい子", 1],
+    [4, "Magic Parade (Instrumental)", "大原ゆい子", 1],
+    [5, "世界のどこかで (Instrumental)", "大原ゆい子", 1],
+    [6, "星に雲に揺れる木々に (Instrumental)", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/595bc0ae-bbf7-4394-b7c4-22af766e3bac", "https://vgmdb.net/album/54266"]
 
@@ -89,28 +89,28 @@ catalognumber = "TBR25441D-2"
 date = "2016-01-20"
 album = "リトルウィッチアカデミア 魔法仕掛けのパレード オリジナルサウンドトラック"
 tracks = [
-    [1, "Mushroom Menace In The Lab", "大島ミチル", 0],
-    [2, "Title Intro", "大島ミチル", 0],
-    [3, "Parade Of The Witch Hunt", "大島ミチル", 0],
-    [4, "The Three Mischiefs", "大島ミチル", 0],
-    [5, "Akko's Idea: The Happy Time Project", "大島ミチル", 0],
-    [6, "Dance Of The Brooms", "大島ミチル", 0],
-    [7, "The White Mage Appears…", "大島ミチル", 0],
-    [8, "Confrontation With Diana", "大島ミチル", 0],
-    [9, "A Trip To Town", "大島ミチル", 0],
-    [10, "Tomato Fight", "大島ミチル", 0],
-    [11, "The Evil Stirs…", "大島ミチル", 0],
-    [12, "The Magic Of Chariot", "大島ミチル", 0],
-    [13, "Akko's Parade Preparation", "大島ミチル", 0],
-    [14, "Shiny Rod's Revival", "大島ミチル", 0],
-    [15, "Luna Nova's Witch Parade Happy Time", "大島ミチル", 0],
-    [16, "The Giant Awakes", "大島ミチル", 0],
-    [17, "The Show Must Go On…", "大島ミチル", 0],
-    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 0],
-    [19, "Lotte's Song Of The Spirits", "大島ミチル", 0],
-    [20, "The Witches Versus The Giant", "大島ミチル", 0],
-    [21, "Happy Time Ending", "大島ミチル", 0],
-    [22, "End Credits", "大島ミチル", 0],
+    [1, "Mushroom Menace In The Lab", "大島ミチル", 1],
+    [2, "Title Intro", "大島ミチル", 1],
+    [3, "Parade Of The Witch Hunt", "大島ミチル", 1],
+    [4, "The Three Mischiefs", "大島ミチル", 1],
+    [5, "Akko's Idea: The Happy Time Project", "大島ミチル", 1],
+    [6, "Dance Of The Brooms", "大島ミチル", 1],
+    [7, "The White Mage Appears…", "大島ミチル", 1],
+    [8, "Confrontation With Diana", "大島ミチル", 1],
+    [9, "A Trip To Town", "大島ミチル", 1],
+    [10, "Tomato Fight", "大島ミチル", 1],
+    [11, "The Evil Stirs…", "大島ミチル", 1],
+    [12, "The Magic Of Chariot", "大島ミチル", 1],
+    [13, "Akko's Parade Preparation", "大島ミチル", 1],
+    [14, "Shiny Rod's Revival", "大島ミチル", 1],
+    [15, "Luna Nova's Witch Parade Happy Time", "大島ミチル", 1],
+    [16, "The Giant Awakes", "大島ミチル", 1],
+    [17, "The Show Must Go On…", "大島ミチル", 1],
+    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 1],
+    [19, "Lotte's Song Of The Spirits", "大島ミチル", 1],
+    [20, "The Witches Versus The Giant", "大島ミチル", 1],
+    [21, "Happy Time Ending", "大島ミチル", 1],
+    [22, "End Credits", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9988663d-8e95-4df2-a901-ff7a5740e6e6", "https://vgmdb.net/album/55247"]
 
@@ -119,12 +119,12 @@ catalognumber = "THCS-60135"
 date = "2017-02-22"
 album = "星を辿れば / 大原ゆい子 [アーティスト盤] Disc 1 (CD) [THCS-60135-1]"
 tracks = [
-    [1, "星を辿れば", "大原ゆい子", 0],
-    [2, "莟", "大原ゆい子", 0],
-    [3, "ユビオリ", "大原ゆい子", 0],
-    [4, "星を辿れば -instrumental-", "大原ゆい子", 0],
-    [5, "莟 -instrumental-", "大原ゆい子", 0],
-    [6, "ユビオリ -instrumental-", "大原ゆい子", 0],
+    [1, "星を辿れば", "大原ゆい子", 1],
+    [2, "莟", "大原ゆい子", 1],
+    [3, "ユビオリ", "大原ゆい子", 1],
+    [4, "星を辿れば -instrumental-", "大原ゆい子", 1],
+    [5, "莟 -instrumental-", "大原ゆい子", 1],
+    [6, "ユビオリ -instrumental-", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/137f26d2-6e01-4cfd-be92-472479206128", "https://vgmdb.net/album/63422"]
 
@@ -133,7 +133,7 @@ catalognumber = "THCS-60135"
 date = "2017-02-22"
 album = "星を辿れば / 大原ゆい子 [アーティスト盤] Disc 2 (DVD) [THCS-60135-2]"
 tracks = [
-    [1, "星を辿れば -music video-", "大原ゆい子", 0],
+    [1, "星を辿れば -music video-", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/137f26d2-6e01-4cfd-be92-472479206128", "https://vgmdb.net/album/63422"]
 
@@ -142,12 +142,12 @@ catalognumber = "THCS-60136"
 date = "2017-02-22"
 album = "星を辿れば / 大原ゆい子"
 tracks = [
-    [1, "星を辿れば", "大原ゆい子", 0],
-    [2, "莟", "大原ゆい子", 0],
-    [3, "ユビオリ", "大原ゆい子", 0],
-    [4, "星を辿れば -instrumental-", "大原ゆい子", 0],
-    [5, "莟 -instrumental-", "大原ゆい子", 0],
-    [6, "ユビオリ -instrumental-", "大原ゆい子", 0],
+    [1, "星を辿れば", "大原ゆい子", 1],
+    [2, "莟", "大原ゆい子", 1],
+    [3, "ユビオリ", "大原ゆい子", 1],
+    [4, "星を辿れば -instrumental-", "大原ゆい子", 1],
+    [5, "莟 -instrumental-", "大原ゆい子", 1],
+    [6, "ユビオリ -instrumental-", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/145f005b-f536-49db-882c-373233ba74aa", "https://vgmdb.net/album/63423"]
 
@@ -156,12 +156,12 @@ catalognumber = "THCS-60133"
 date = "2017-02-22"
 album = "Shiny Ray / YURiKA"
 tracks = [
-    [1, "Shiny Ray", "YURiKA", 0],
-    [2, "AKATSUKI DEPARTURE", "YURiKA", 0],
-    [3, "My Destination", "YURiKA", 0],
-    [4, "Shiny Ray (instrumental)", "YURiKA", 0],
-    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 0],
-    [6, "My Destination (instrumental)", "YURiKA", 0],
+    [1, "Shiny Ray", "YURiKA", 1],
+    [2, "AKATSUKI DEPARTURE", "YURiKA", 1],
+    [3, "My Destination", "YURiKA", 1],
+    [4, "Shiny Ray (instrumental)", "YURiKA", 1],
+    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 1],
+    [6, "My Destination (instrumental)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/42a6bcf8-5323-456f-8f57-2ec984868d74", "https://vgmdb.net/album/63420"]
 
@@ -170,12 +170,12 @@ catalognumber = "THCS-60132"
 date = "2017-02-22"
 album = "Shiny Ray / YURiKA [アーティスト盤] Disc 1 (CD) [THCS-60132-1]"
 tracks = [
-    [1, "Shiny Ray", "YURiKA", 0],
-    [2, "AKATSUKI DEPARTURE", "YURiKA", 0],
-    [3, "My Destination", "YURiKA", 0],
-    [4, "Shiny Ray (instrumental)", "YURiKA", 0],
-    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 0],
-    [6, "My Destination (instrumental)", "YURiKA", 0],
+    [1, "Shiny Ray", "YURiKA", 1],
+    [2, "AKATSUKI DEPARTURE", "YURiKA", 1],
+    [3, "My Destination", "YURiKA", 1],
+    [4, "Shiny Ray (instrumental)", "YURiKA", 1],
+    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 1],
+    [6, "My Destination (instrumental)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5ca7d19f-48b1-4713-8c8d-7809e566751a", "https://vgmdb.net/album/63419"]
 
@@ -184,7 +184,7 @@ catalognumber = "THCS-60132"
 date = "2017-02-22"
 album = "Shiny Ray / YURiKA [アーティスト盤] Disc 2 (DVD) [THCS-60132-2]"
 tracks = [
-    [1, "Shiny Ray (music video)", "YURiKA", 0],
+    [1, "Shiny Ray (music video)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5ca7d19f-48b1-4713-8c8d-7809e566751a", "https://vgmdb.net/album/63419"]
 
@@ -202,12 +202,12 @@ catalognumber = "THCS-60131"
 date = "2017-02-22"
 album = "Shiny Ray / YURiKA [アニメ盤] Disc 1 (CD) [THCS-60131-1]"
 tracks = [
-    [1, "Shiny Ray", "YURiKA", 0],
-    [2, "AKATSUKI DEPARTURE", "YURiKA", 0],
-    [3, "My Destination", "YURiKA", 0],
-    [4, "Shiny Ray (instrumental)", "YURiKA", 0],
-    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 0],
-    [6, "My Destination (instrumental)", "YURiKA", 0],
+    [1, "Shiny Ray", "YURiKA", 1],
+    [2, "AKATSUKI DEPARTURE", "YURiKA", 1],
+    [3, "My Destination", "YURiKA", 1],
+    [4, "Shiny Ray (instrumental)", "YURiKA", 1],
+    [5, "AKATSUKI DEPARTURE (instrumental)", "YURiKA", 1],
+    [6, "My Destination (instrumental)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dc0d2048-8828-4c3e-ba00-99ea59069d1d", "https://vgmdb.net/album/63418"]
 
@@ -216,12 +216,12 @@ catalognumber = "THCS-60134"
 date = "2017-02-22"
 album = "星を辿れば / 大原ゆい子 [アニメ盤] Disc 1 (CD) [THCS-60134-1]"
 tracks = [
-    [1, "星を辿れば", "大原ゆい子", 0],
-    [2, "莟", "大原ゆい子", 0],
-    [3, "ユビオリ", "大原ゆい子", 0],
-    [4, "星を辿れば -instrumental-", "大原ゆい子", 0],
-    [5, "莟 -instrumental-", "大原ゆい子", 0],
-    [6, "ユビオリ -instrumental-", "大原ゆい子", 0],
+    [1, "星を辿れば", "大原ゆい子", 1],
+    [2, "莟", "大原ゆい子", 1],
+    [3, "ユビオリ", "大原ゆい子", 1],
+    [4, "星を辿れば -instrumental-", "大原ゆい子", 1],
+    [5, "莟 -instrumental-", "大原ゆい子", 1],
+    [6, "ユビオリ -instrumental-", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ead742b5-c8ba-4796-bde5-2eeef0f3a5c6", "https://vgmdb.net/album/63421"]
 
@@ -239,12 +239,12 @@ catalognumber = "THCS-60153"
 date = "2017-05-24"
 album = "透明な翼 / 大原ゆい子 [アニメ盤]"
 tracks = [
-    [1, "透明な翼", "大原ゆい子", 0],
-    [2, "ねあと", "大原ゆい子", 0],
-    [3, "ノスタルジア", "大原ゆい子", 0],
-    [4, "透明な翼 (Instrumental)", "大原ゆい子", 0],
-    [5, "ねあと (Instrumental)", "大原ゆい子", 0],
-    [6, "ノスタルジア (Instrumental)", "大原ゆい子", 0],
+    [1, "透明な翼", "大原ゆい子", 1],
+    [2, "ねあと", "大原ゆい子", 1],
+    [3, "ノスタルジア", "大原ゆい子", 1],
+    [4, "透明な翼 (Instrumental)", "大原ゆい子", 1],
+    [5, "ねあと (Instrumental)", "大原ゆい子", 1],
+    [6, "ノスタルジア (Instrumental)", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4806797a-ec18-4dd3-9ff4-26845064795a", "https://vgmdb.net/album/66077"]
 
@@ -253,12 +253,12 @@ catalognumber = "THCS-60154"
 date = "2017-05-24"
 album = "透明な翼 / 大原ゆい子 [アーティスト盤] Disc 1 (CD) [THCS-60154-1]"
 tracks = [
-    [1, "透明な翼", "大原ゆい子", 0],
-    [2, "ねあと", "大原ゆい子", 0],
-    [3, "ノスタルジア", "大原ゆい子", 0],
-    [4, "透明な翼 (Instrumental)", "大原ゆい子", 0],
-    [5, "ねあと (Instrumental)", "大原ゆい子", 0],
-    [6, "ノスタルジア (Instrumental)", "大原ゆい子", 0],
+    [1, "透明な翼", "大原ゆい子", 1],
+    [2, "ねあと", "大原ゆい子", 1],
+    [3, "ノスタルジア", "大原ゆい子", 1],
+    [4, "透明な翼 (Instrumental)", "大原ゆい子", 1],
+    [5, "ねあと (Instrumental)", "大原ゆい子", 1],
+    [6, "ノスタルジア (Instrumental)", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/074d5d96-f810-45c4-8250-a66c0fd3fa2a", "https://vgmdb.net/album/66078"]
 
@@ -267,8 +267,8 @@ catalognumber = "THCS-60154"
 date = "2017-05-24"
 album = "透明な翼 / 大原ゆい子 [アーティスト盤] Disc 2 (DVD) [THCS-60154-2]"
 tracks = [
-    [1, "透明な翼 (MUSIC VIDEO)", "大原ゆい子", 0],
-    [2, "透明な翼 (TVアニメ「リトルウィッチアカデミア」第2クールED ノンクレジットムービー)", "大原ゆい子", 0],
+    [1, "透明な翼 (MUSIC VIDEO)", "大原ゆい子", 1],
+    [2, "透明な翼 (TVアニメ「リトルウィッチアカデミア」第2クールED ノンクレジットムービー)", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/074d5d96-f810-45c4-8250-a66c0fd3fa2a", "https://vgmdb.net/album/66078"]
 
@@ -277,12 +277,12 @@ catalognumber = "THCS-60152"
 date = "2017-05-24"
 album = "MIND CONDUCTOR / YURiKA [アーティスト盤] Disc 1 (CD) [THCS-60152-1]"
 tracks = [
-    [1, "MIND CONDUCTOR", "YURiKA", 0],
-    [2, "Fairy Way", "YURiKA", 0],
-    [3, "Beautiful Future", "YURiKA", 0],
-    [4, "MIND CONDUCTOR (Instrumental)", "YURiKA", 0],
-    [5, "Fairy Way (Instrumental)", "YURiKA", 0],
-    [6, "Beautiful Future (Instrumental)", "YURiKA", 0],
+    [1, "MIND CONDUCTOR", "YURiKA", 1],
+    [2, "Fairy Way", "YURiKA", 1],
+    [3, "Beautiful Future", "YURiKA", 1],
+    [4, "MIND CONDUCTOR (Instrumental)", "YURiKA", 1],
+    [5, "Fairy Way (Instrumental)", "YURiKA", 1],
+    [6, "Beautiful Future (Instrumental)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/80189b21-4696-4308-96b5-dd8129b2fa6e", "https://vgmdb.net/album/66076"]
 
@@ -291,8 +291,8 @@ catalognumber = "THCS-60152"
 date = "2017-05-24"
 album = "MIND CONDUCTOR / YURiKA [アーティスト盤] Disc 2 (DVD) [THCS-60152-2]"
 tracks = [
-    [1, "MIND CONDUCTOR (MUSIC VIDEO)", "YURiKA", 0],
-    [2, "MIND CONDUCTOR (TVアニメ「リトルウィッチアカデミア」 第2クールOP ノンクレジットムービー)", "YURiKA", 0],
+    [1, "MIND CONDUCTOR (MUSIC VIDEO)", "YURiKA", 1],
+    [2, "MIND CONDUCTOR (TVアニメ「リトルウィッチアカデミア」 第2クールOP ノンクレジットムービー)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/80189b21-4696-4308-96b5-dd8129b2fa6e", "https://vgmdb.net/album/66076"]
 
@@ -301,12 +301,12 @@ catalognumber = "THCS-60151"
 date = "2017-05-24"
 album = "MIND CONDUCTOR / YURiKA [アニメ盤]"
 tracks = [
-    [1, "MIND CONDUCTOR", "YURiKA", 0],
-    [2, "Fairy Way", "YURiKA", 0],
-    [3, "Beautiful Future", "YURiKA", 0],
-    [4, "MIND CONDUCTOR (Instrumental)", "YURiKA", 0],
-    [5, "Fairy Way (Instrumental)", "YURiKA", 0],
-    [6, "Beautiful Future (Instrumental)", "YURiKA", 0],
+    [1, "MIND CONDUCTOR", "YURiKA", 1],
+    [2, "Fairy Way", "YURiKA", 1],
+    [3, "Beautiful Future", "YURiKA", 1],
+    [4, "MIND CONDUCTOR (Instrumental)", "YURiKA", 1],
+    [5, "Fairy Way (Instrumental)", "YURiKA", 1],
+    [6, "Beautiful Future (Instrumental)", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/131bc30c-6659-42a5-9d5c-dc33a90cbec3", "https://vgmdb.net/album/66075"]
 
@@ -315,45 +315,45 @@ catalognumber = "THCA-60156"
 date = "2017-07-19"
 album = "『リトルウィッチアカデミア』サウンドトラック集 Original Soundtrack, Vocal Disc 1"
 tracks = [
-    [1, "シャリオのテーマ", "大島ミチル", 0],
-    [2, "ルーナノヴァの風景", "大島ミチル", 0],
-    [3, "スーシィ", "大島ミチル", 0],
-    [4, "魔法(ドキドキ)", "大島ミチル", 0],
-    [5, "ルーナノヴァの日常", "大島ミチル", 0],
-    [6, "アーシュラ", "大島ミチル", 0],
-    [7, "ナインオールドウィッチ", "大島ミチル", 0],
-    [8, "アルクトゥルスの森", "大島ミチル", 0],
-    [9, "ピンチ!", "大島ミチル", 0],
-    [10, "わたしの物語", "大島ミチル", 0],
-    [11, "ルーナノヴァの毎日", "大島ミチル", 0],
-    [12, "呪文", "大島ミチル", 0],
-    [13, "思い出", "大島ミチル", 0],
-    [14, "孵化", "大島ミチル", 0],
-    [15, "幻惑", "大島ミチル", 0],
-    [16, "魔法(わくわく)", "大島ミチル", 0],
-    [17, "魔道具カフェ(Last Wednesday Society)", "大島ミチル", 0],
-    [18, "開会宣言", "大島ミチル", 0],
-    [19, "デッドヒート", "大島ミチル", 0],
-    [20, "未来", "大島ミチル", 0],
-    [21, "おやすみ", "大島ミチル", 0],
-    [22, "ロッテ", "大島ミチル", 0],
-    [23, "対話", "大島ミチル", 0],
-    [24, "希望", "大島ミチル", 0],
-    [25, "不穏", "大島ミチル", 0],
-    [26, "ブライトンベリー", "大島ミチル", 0],
-    [27, "緊張", "大島ミチル", 0],
-    [28, "ダイアナ", "大島ミチル", 0],
-    [29, "不安と決意", "大島ミチル", 0],
-    [30, "メランコリック", "大島ミチル", 0],
-    [31, "ブルー", "大島ミチル", 0],
-    [32, "マイペース", "大島ミチル", 0],
-    [33, "眠れる夢の…", "大島ミチル", 0],
-    [34, "裁判", "大島ミチル", 0],
-    [35, "ロードトリップ", "大島ミチル", 0],
-    [36, "逃げろ!", "大島ミチル", 0],
-    [37, "スーシィ TAKE2", "大島ミチル", 0],
-    [38, "Shiny Ray ‐TV size‐", "YURiKA", 0],
-    [39, "星を辿れば ‐TV size‐", "大原ゆい子", 0],
+    [1, "シャリオのテーマ", "大島ミチル", 1],
+    [2, "ルーナノヴァの風景", "大島ミチル", 1],
+    [3, "スーシィ", "大島ミチル", 1],
+    [4, "魔法(ドキドキ)", "大島ミチル", 1],
+    [5, "ルーナノヴァの日常", "大島ミチル", 1],
+    [6, "アーシュラ", "大島ミチル", 1],
+    [7, "ナインオールドウィッチ", "大島ミチル", 1],
+    [8, "アルクトゥルスの森", "大島ミチル", 1],
+    [9, "ピンチ!", "大島ミチル", 1],
+    [10, "わたしの物語", "大島ミチル", 1],
+    [11, "ルーナノヴァの毎日", "大島ミチル", 1],
+    [12, "呪文", "大島ミチル", 1],
+    [13, "思い出", "大島ミチル", 1],
+    [14, "孵化", "大島ミチル", 1],
+    [15, "幻惑", "大島ミチル", 1],
+    [16, "魔法(わくわく)", "大島ミチル", 1],
+    [17, "魔道具カフェ(Last Wednesday Society)", "大島ミチル", 1],
+    [18, "開会宣言", "大島ミチル", 1],
+    [19, "デッドヒート", "大島ミチル", 1],
+    [20, "未来", "大島ミチル", 1],
+    [21, "おやすみ", "大島ミチル", 1],
+    [22, "ロッテ", "大島ミチル", 1],
+    [23, "対話", "大島ミチル", 1],
+    [24, "希望", "大島ミチル", 1],
+    [25, "不穏", "大島ミチル", 1],
+    [26, "ブライトンベリー", "大島ミチル", 1],
+    [27, "緊張", "大島ミチル", 1],
+    [28, "ダイアナ", "大島ミチル", 1],
+    [29, "不安と決意", "大島ミチル", 1],
+    [30, "メランコリック", "大島ミチル", 1],
+    [31, "ブルー", "大島ミチル", 1],
+    [32, "マイペース", "大島ミチル", 1],
+    [33, "眠れる夢の…", "大島ミチル", 1],
+    [34, "裁判", "大島ミチル", 1],
+    [35, "ロードトリップ", "大島ミチル", 1],
+    [36, "逃げろ!", "大島ミチル", 1],
+    [37, "スーシィ TAKE2", "大島ミチル", 1],
+    [38, "Shiny Ray ‐TV size‐", "YURiKA", 1],
+    [39, "星を辿れば ‐TV size‐", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebc8eaf3-02d2-4d44-91cd-ba02ffc3565a", "https://vgmdb.net/album/68484"]
 
@@ -362,44 +362,44 @@ catalognumber = "THCA-60156"
 date = "2017-07-19"
 album = "『リトルウィッチアカデミア』サウンドトラック集 Original Soundtrack, Vocal Disc 2"
 tracks = [
-    [1, "ルーナノヴァの授業", "大島ミチル", 0],
-    [2, "親愛", "大島ミチル", 0],
-    [3, "ウッドワード", "大島ミチル", 0],
-    [4, "魔法のレッスン", "大島ミチル", 0],
-    [5, "魔法祭", "大島ミチル", 0],
-    [6, "明るい魔法", "大島ミチル", 0],
-    [7, "言の葉", "大島ミチル", 0],
-    [8, "召喚", "大島ミチル", 0],
-    [9, "笑おう! 一緒に!", "大島ミチル", 0],
-    [10, "ダイアローグ", "大島ミチル", 0],
-    [11, "現代魔法", "大島ミチル", 0],
-    [12, "S.S.S", "大島ミチル", 0],
-    [13, "緊迫", "大島ミチル", 0],
-    [14, "クロワ", "大島ミチル", 0],
-    [15, "影", "大島ミチル", 0],
-    [16, "追憶", "大島ミチル", 0],
-    [17, "ピクセル魔獣", "大島ミチル", 0],
-    [18, "グラントリスケル", "大島ミチル", 0],
-    [19, "サミー族", "大島ミチル", 0],
-    [20, "夢(Harp)", "大島ミチル", 0],
-    [21, "疑惑", "大島ミチル", 0],
-    [22, "決闘", "大島ミチル", 0],
-    [23, "グランシャリオン", "大島ミチル", 0],
-    [24, "激走", "大島ミチル", 0],
-    [25, "キャベンディッシュ", "大島ミチル", 0],
-    [26, "誓い", "大島ミチル", 0],
-    [27, "夢(Piano)", "大島ミチル", 0],
-    [28, "タイムリミット", "大島ミチル", 0],
-    [29, "ノワールロッド", "大島ミチル", 0],
-    [30, "後悔", "大島ミチル", 0],
-    [31, "過去", "大島ミチル", 0],
-    [32, "集結", "大島ミチル", 0],
-    [33, "前進", "大島ミチル", 0],
-    [34, "目指せ、理想の場所へ", "大島ミチル", 0],
-    [35, "フィナーレ", "大島ミチル", 0],
-    [36, "MIND CONDUCTOR ‐TV size‐", "YURiKA", 0],
-    [37, "透明な翼 ‐TV size‐", "大原ゆい子", 0],
-    [38, "Shiny Ray ‐#25ver‐", "YURiKA", 0],
+    [1, "ルーナノヴァの授業", "大島ミチル", 1],
+    [2, "親愛", "大島ミチル", 1],
+    [3, "ウッドワード", "大島ミチル", 1],
+    [4, "魔法のレッスン", "大島ミチル", 1],
+    [5, "魔法祭", "大島ミチル", 1],
+    [6, "明るい魔法", "大島ミチル", 1],
+    [7, "言の葉", "大島ミチル", 1],
+    [8, "召喚", "大島ミチル", 1],
+    [9, "笑おう! 一緒に!", "大島ミチル", 1],
+    [10, "ダイアローグ", "大島ミチル", 1],
+    [11, "現代魔法", "大島ミチル", 1],
+    [12, "S.S.S", "大島ミチル", 1],
+    [13, "緊迫", "大島ミチル", 1],
+    [14, "クロワ", "大島ミチル", 1],
+    [15, "影", "大島ミチル", 1],
+    [16, "追憶", "大島ミチル", 1],
+    [17, "ピクセル魔獣", "大島ミチル", 1],
+    [18, "グラントリスケル", "大島ミチル", 1],
+    [19, "サミー族", "大島ミチル", 1],
+    [20, "夢(Harp)", "大島ミチル", 1],
+    [21, "疑惑", "大島ミチル", 1],
+    [22, "決闘", "大島ミチル", 1],
+    [23, "グランシャリオン", "大島ミチル", 1],
+    [24, "激走", "大島ミチル", 1],
+    [25, "キャベンディッシュ", "大島ミチル", 1],
+    [26, "誓い", "大島ミチル", 1],
+    [27, "夢(Piano)", "大島ミチル", 1],
+    [28, "タイムリミット", "大島ミチル", 1],
+    [29, "ノワールロッド", "大島ミチル", 1],
+    [30, "後悔", "大島ミチル", 1],
+    [31, "過去", "大島ミチル", 1],
+    [32, "集結", "大島ミチル", 1],
+    [33, "前進", "大島ミチル", 1],
+    [34, "目指せ、理想の場所へ", "大島ミチル", 1],
+    [35, "フィナーレ", "大島ミチル", 1],
+    [36, "MIND CONDUCTOR ‐TV size‐", "YURiKA", 1],
+    [37, "透明な翼 ‐TV size‐", "大原ゆい子", 1],
+    [38, "Shiny Ray ‐#25ver‐", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebc8eaf3-02d2-4d44-91cd-ba02ffc3565a", "https://vgmdb.net/album/68484"]
 
@@ -408,19 +408,19 @@ catalognumber = "THCA-60156"
 date = "2017-07-19"
 album = "『リトルウィッチアカデミア』サウンドトラック集 Original Soundtrack"
 tracks = [
-    [1, "マジックショー", "大島ミチル", 0],
-    [2, "カフェテリア", "大島ミチル", 0],
-    [3, "飛行訓練", "大島ミチル", 0],
-    [4, "寄宿舎にて", "大島ミチル", 0],
-    [5, "ミノタウロス", "大島ミチル", 0],
-    [6, "アイアンメイデン", "大島ミチル", 0],
-    [7, "ドラゴンの出現", "大島ミチル", 0],
-    [8, "いざ、出発!", "大島ミチル", 0],
-    [9, "戦闘", "大島ミチル", 0],
-    [10, "シャリオのテーマ", "大島ミチル", 0],
-    [11, "メインテーマ", "大島ミチル", 0],
-    [12, "タイトルロール", "大島ミチル", 0],
-    [13, "タイトルロール〈Short ver.〉", "大島ミチル", 0],
+    [1, "マジックショー", "大島ミチル", 1],
+    [2, "カフェテリア", "大島ミチル", 1],
+    [3, "飛行訓練", "大島ミチル", 1],
+    [4, "寄宿舎にて", "大島ミチル", 1],
+    [5, "ミノタウロス", "大島ミチル", 1],
+    [6, "アイアンメイデン", "大島ミチル", 1],
+    [7, "ドラゴンの出現", "大島ミチル", 1],
+    [8, "いざ、出発!", "大島ミチル", 1],
+    [9, "戦闘", "大島ミチル", 1],
+    [10, "シャリオのテーマ", "大島ミチル", 1],
+    [11, "メインテーマ", "大島ミチル", 1],
+    [12, "タイトルロール", "大島ミチル", 1],
+    [13, "タイトルロール〈Short ver.〉", "大島ミチル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebc8eaf3-02d2-4d44-91cd-ba02ffc3565a", "https://vgmdb.net/album/68484"]
 
@@ -429,29 +429,29 @@ catalognumber = "THCA-60156"
 date = "2017-07-19"
 album = "『リトルウィッチアカデミア』サウンドトラック集 Original Soundtrack, Vocal Disc 4"
 tracks = [
-    [1, "Mushroom Menace In The Lab", "大島ミチル", 0],
-    [2, "Title Intro", "大島ミチル", 0],
-    [3, "Parade Of The Witch Hunt", "大島ミチル", 0],
-    [4, "The Three Mischiefs", "大島ミチル", 0],
-    [5, "Akko’s Idea: The Happy Time Project", "大島ミチル", 0],
-    [6, "Dance Of The Brooms", "大島ミチル", 0],
-    [7, "The White Mage Appears…", "大島ミチル", 0],
-    [8, "Confrontation With Diana", "大島ミチル", 0],
-    [9, "A Trip To Town", "大島ミチル", 0],
-    [10, "Tomato Fight", "大島ミチル", 0],
-    [11, "The Evil Stirs…", "大島ミチル", 0],
-    [12, "The Magic Of Chariot", "大島ミチル", 0],
-    [13, "Akko’s Parade Preparation", "大島ミチル", 0],
-    [14, "Shiny Rod’s Revival", "大島ミチル", 0],
-    [15, "Luna Nova’s Witch Parade Happy Time", "大島ミチル", 0],
-    [16, "The Giant Awakes", "大島ミチル", 0],
-    [17, "The Show Must Go On…", "大島ミチル", 0],
-    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 0],
-    [19, "Lotte’s Song Of The Spirits", "大島ミチル", 0],
-    [20, "The Witches Versus The Giant", "大島ミチル", 0],
-    [21, "Happy Time Ending", "大島ミチル", 0],
-    [22, "End Credits", "大島ミチル", 0],
-    [23, "Magic Parade", "大原ゆい子", 0],
+    [1, "Mushroom Menace In The Lab", "大島ミチル", 1],
+    [2, "Title Intro", "大島ミチル", 1],
+    [3, "Parade Of The Witch Hunt", "大島ミチル", 1],
+    [4, "The Three Mischiefs", "大島ミチル", 1],
+    [5, "Akko’s Idea: The Happy Time Project", "大島ミチル", 1],
+    [6, "Dance Of The Brooms", "大島ミチル", 1],
+    [7, "The White Mage Appears…", "大島ミチル", 1],
+    [8, "Confrontation With Diana", "大島ミチル", 1],
+    [9, "A Trip To Town", "大島ミチル", 1],
+    [10, "Tomato Fight", "大島ミチル", 1],
+    [11, "The Evil Stirs…", "大島ミチル", 1],
+    [12, "The Magic Of Chariot", "大島ミチル", 1],
+    [13, "Akko’s Parade Preparation", "大島ミチル", 1],
+    [14, "Shiny Rod’s Revival", "大島ミチル", 1],
+    [15, "Luna Nova’s Witch Parade Happy Time", "大島ミチル", 1],
+    [16, "The Giant Awakes", "大島ミチル", 1],
+    [17, "The Show Must Go On…", "大島ミチル", 1],
+    [18, "Sucy To The Rescue / The Chase", "大島ミチル", 1],
+    [19, "Lotte’s Song Of The Spirits", "大島ミチル", 1],
+    [20, "The Witches Versus The Giant", "大島ミチル", 1],
+    [21, "Happy Time Ending", "大島ミチル", 1],
+    [22, "End Credits", "大島ミチル", 1],
+    [23, "Magic Parade", "大原ゆい子", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ebc8eaf3-02d2-4d44-91cd-ba02ffc3565a", "https://vgmdb.net/album/68484"]
 
@@ -494,10 +494,10 @@ catalognumber = "THCA-60249"
 date = "2019-09-25"
 album = "星に名前をつけるとき / 大原ゆい子"
 tracks = [
-    [1, "Magic Parade", "大原ゆい子", 0],
+    [1, "Magic Parade", "大原ゆい子", 1],
     [2, "ゼロセンチメートル", "大原ゆい子", 0],
     [3, "夢の途中で", "大原ゆい子", 0],
-    [4, "透明な翼", "大原ゆい子", 0],
+    [4, "透明な翼", "大原ゆい子", 1],
     [5, "星が眠るまで踊ろうよ", "大原ゆい子", 0],
     [6, "えがおのまほう", "大原ゆい子", 0],
     [7, "からっぽになりたい", "大原ゆい子", 0],
@@ -508,7 +508,7 @@ tracks = [
     [12, "言わないけどね。", "大原ゆい子", 0],
     [13, "変わらない宝物", "大原ゆい子", 0],
     [14, "月より綺麗だった", "大原ゆい子", 0],
-    [15, "星を辿れば", "大原ゆい子", 0],
+    [15, "星を辿れば", "大原ゆい子", 1],
     [16, "夜になれば", "大原ゆい子", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5a1f8b50-c297-4906-900d-1e77498a0810", "https://vgmdb.net/album/88287"]
@@ -529,12 +529,12 @@ tracks = [
     [2, "baby baby flow", "", 0],
     [3, "マーブル", "", 0],
     [4, "メイキット!", "", 0],
-    [5, "MIND CONDUCTOR", "", 0],
+    [5, "MIND CONDUCTOR", "", 1],
     [6, "Le zoo (Instrumental)", "", 0],
     [7, "baby baby flow (Instrumental)", "", 0],
     [8, "マーブル (Instrumental)", "", 0],
     [9, "メイキット! (Instrumental)", "", 0],
-    [10, "MIND CONDUCTOR (Instrumental)", "", 0],
+    [10, "MIND CONDUCTOR (Instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/106536"]
 
@@ -553,16 +553,16 @@ catalognumber = "LLNE-0005"
 date = "2020-11-20"
 album = "『MIND CONDUCTOR』ステムデータ from 「REUNION」 / YURiKA"
 tracks = [
-    [1, "MIND CONDUCTOR_RU_Stem_AGuitar", "", 0],
-    [2, "MIND CONDUCTOR_RU_Stem_Chorus1", "", 0],
-    [3, "MIND CONDUCTOR_RU_Stem_Chorus2", "", 0],
-    [4, "MIND CONDUCTOR_RU_Stem_Click_CB_BPM177", "", 0],
-    [5, "MIND CONDUCTOR_RU_Stem_Click_HH_BPM177", "", 0],
-    [6, "MIND CONDUCTOR_RU_Stem_Piano", "", 0],
-    [7, "MIND CONDUCTOR_RU_Stem_Violin", "", 0],
-    [8, "MIND CONDUCTOR_RU_Stem_Vocal", "", 0],
-    [9, "MIND CONDUCTOR_RU_Stem_Vocal_Cross", "", 0],
-    [10, "MIND CONDUCTOR_RU_Stem_Vocal_Dry", "", 0],
+    [1, "MIND CONDUCTOR_RU_Stem_AGuitar", "", 1],
+    [2, "MIND CONDUCTOR_RU_Stem_Chorus1", "", 1],
+    [3, "MIND CONDUCTOR_RU_Stem_Chorus2", "", 1],
+    [4, "MIND CONDUCTOR_RU_Stem_Click_CB_BPM177", "", 1],
+    [5, "MIND CONDUCTOR_RU_Stem_Click_HH_BPM177", "", 1],
+    [6, "MIND CONDUCTOR_RU_Stem_Piano", "", 1],
+    [7, "MIND CONDUCTOR_RU_Stem_Violin", "", 1],
+    [8, "MIND CONDUCTOR_RU_Stem_Vocal", "", 1],
+    [9, "MIND CONDUCTOR_RU_Stem_Vocal_Cross", "", 1],
+    [10, "MIND CONDUCTOR_RU_Stem_Vocal_Dry", "", 1],
 ]
 links = ["https://vgmdb.net/album/106542"]
 
@@ -572,7 +572,7 @@ date = "2021-04"
 album = "ふたりの羽根/Shiny Ray / YURiKA"
 tracks = [
     [1, "ふたりの羽根", "", 0],
-    [2, "Shiny Ray", "", 0],
+    [2, "Shiny Ray", "", 1],
     [3, "おまけ", "", 0],
 ]
 links = ["https://vgmdb.net/album/112076"]
@@ -584,7 +584,7 @@ album = "KiRA☆KiRA / YURiKA [初回生産限定盤] Vocal"
 tracks = [
     [1, "MAGICAL FESTA", "YURiKA", 0],
     [2, "ROMA☆KiRA", "YURiKA", 0],
-    [3, "Shiny Ray", "YURiKA", 0],
+    [3, "Shiny Ray", "YURiKA", 1],
     [4, "ふたりの羽根", "YURiKA", 0],
     [5, "Key to my next gate", "YURiKA", 0],
     [6, "鏡面の波", "YURiKA", 0],
@@ -597,7 +597,7 @@ tracks = [
     [13, "月に浮かぶ物語", "YURiKA", 0],
     [14, "Le zoo", "YURiKA", 0],
     [15, "パーソナリティ", "YURiKA", 0],
-    [16, "MIND CONDUCTOR", "YURiKA", 0],
+    [16, "MIND CONDUCTOR", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/69dba24e-6705-45b2-a80b-623e63cf6623", "https://vgmdb.net/album/122895"]
 
@@ -635,7 +635,7 @@ album = "KiRA☆KiRA / YURiKA"
 tracks = [
     [1, "MAGICAL FESTA", "YURiKA", 0],
     [2, "ROMA☆KiRA", "YURiKA", 0],
-    [3, "Shiny Ray", "YURiKA", 0],
+    [3, "Shiny Ray", "YURiKA", 1],
     [4, "ふたりの羽根", "YURiKA", 0],
     [5, "Key to my next gate", "YURiKA", 0],
     [6, "鏡面の波", "YURiKA", 0],
@@ -648,7 +648,7 @@ tracks = [
     [13, "月に浮かぶ物語", "YURiKA", 0],
     [14, "Le zoo", "YURiKA", 0],
     [15, "パーソナリティ", "YURiKA", 0],
-    [16, "MIND CONDUCTOR", "YURiKA", 0],
+    [16, "MIND CONDUCTOR", "YURiKA", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/69dba24e-6705-45b2-a80b-623e63cf6623", "https://vgmdb.net/album/122894"]
 
@@ -702,7 +702,7 @@ tracks = [
     [15, "Road Trip", "", 0],
     [16, "Run Away!", "", 0],
     [17, "Sucy (TAKE2)", "", 0],
-    [18, "Shiny Ray -TV size-", "", 0],
+    [18, "Shiny Ray -TV size-", "", 1],
     [19, "If You Follow the Stars -TV size-", "", 0],
 ]
 links = ["https://vgmdb.net/album/127949"]
@@ -755,9 +755,9 @@ tracks = [
     [12, "Advancing", "", 0],
     [13, "Noctu Orfei Aude Fraetor", "", 0],
     [14, "Finale", "", 0],
-    [15, "MIND CONDUCTOR -TV size-", "", 0],
+    [15, "MIND CONDUCTOR -TV size-", "", 1],
     [16, "Toumei na Tsubasa -TV size-", "", 0],
-    [17, "Shiny Ray -#25ver-", "", 0],
+    [17, "Shiny Ray -#25ver-", "", 1],
 ]
 links = ["https://vgmdb.net/album/127949"]
 
@@ -787,28 +787,28 @@ catalognumber = "ANIM0043"
 date = "2023-07-31"
 album = "LWA Original Sound Track Archive [Limited Edition] Original Soundtrack Disc 6"
 tracks = [
-    [1, "Mushroom Menace in the Lab", "", 0],
+    [1, "Mushroom Menace in the Lab", "", 1],
     [2, "Title Intro", "", 0],
-    [3, "Parade of the Witch Hunt", "", 0],
+    [3, "Parade of the Witch Hunt", "", 1],
     [4, "The Three Mischiefs", "", 0],
-    [5, "Akko's Idea: The Happy Time Project", "", 0],
+    [5, "Akko's Idea: The Happy Time Project", "", 1],
     [6, "Dance of the Brooms", "", 0],
     [7, "The White Mage Appears...", "", 0],
     [8, "Confrontation with Diana", "", 0],
-    [9, "A Trip to Town", "", 0],
+    [9, "A Trip to Town", "", 1],
     [10, "Tomato Fight", "", 0],
     [11, "The Evil Stirs...", "", 0],
     [12, "The Magic of Chariot", "", 0],
-    [13, "Akko's Parade Preparation", "", 0],
-    [14, "Shiny Rod's Revival", "", 0],
-    [15, "Luna Nova's Witch Parade Happy Time", "", 0],
+    [13, "Akko's Parade Preparation", "", 1],
+    [14, "Shiny Rod's Revival", "", 1],
+    [15, "Luna Nova's Witch Parade Happy Time", "", 1],
     [16, "The Giant Awakes", "", 0],
     [17, "The Show Must Go On...", "", 0],
     [18, "Sucy to the Rescue / The Chase", "", 0],
-    [19, "Lotte's Song of the Spirits", "", 0],
+    [19, "Lotte's Song of the Spirits", "", 1],
     [20, "The Witches Versus the Giant", "", 0],
-    [21, "Happy Time Ending", "", 0],
+    [21, "Happy Time Ending", "", 1],
     [22, "End Credits", "", 0],
-    [23, "Magic Parade", "", 0],
+    [23, "Magic Parade", "", 1],
 ]
 links = ["https://vgmdb.net/album/127949"]
