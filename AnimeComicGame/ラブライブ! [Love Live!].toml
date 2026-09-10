@@ -11333,7 +11333,7 @@ album = "Holiday∞Holiday / Tragic Drops【スリーズブーケ盤】"
 tracks = [
     [1, "謳歌爛漫", "スリーズブーケ", 0],
     [2, "スケイプゴート", "DOLLCHESTRA", 0],
-    [3, "Holiday∞Holiday", "スリーズブーケ", 0],
+    [3, "Holiday∞Holiday", "スリーズブーケ", 1],
     [4, "Tragic Drops", "DOLLCHESTRA", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/0fd934db-527c-451d-acfd-a2a214c23bd3", "https://vgmdb.net/album/130132"]
@@ -11345,7 +11345,7 @@ album = "Holiday∞Holiday / Tragic Drops【DOLLCHESTRA盤】"
 tracks = [
     [1, "謳歌爛漫", "スリーズブーケ", 0],
     [2, "スケイプゴート", "DOLLCHESTRA", 0],
-    [3, "Holiday∞Holiday", "スリーズブーケ", 0],
+    [3, "Holiday∞Holiday", "スリーズブーケ", 1],
     [4, "Tragic Drops", "DOLLCHESTRA", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c22e88ad-5333-4d87-b525-83dd27b0dfe4", "https://vgmdb.net/album/130133"]
@@ -12427,7 +12427,7 @@ tracks = [
     [20, "fruity love", "", 0],
     [21, "不可視なブルー", "", 0],
     [22, "アルストロメリア", "", 0],
-    [23, "Holiday∞Holiday", "", 0],
+    [23, "Holiday∞Holiday", "", 1],
     [24, "ラブレター", "", 0],
     [25, "Dream with You", "", 0],
     [26, "Butterfly", "", 0],
@@ -12570,7 +12570,7 @@ tracks = [
     [20, "fruity love", "", 0],
     [21, "不可視なブルー", "", 0],
     [22, "アルストロメリア", "", 0],
-    [23, "Holiday∞Holiday", "", 0],
+    [23, "Holiday∞Holiday", "", 1],
     [24, "ラブレター", "", 0],
     [25, "Dream with You", "", 0],
     [26, "Butterfly", "", 0],
@@ -12940,7 +12940,7 @@ tracks = [
     [5, "Sparkly Spot", "", 0],
     [6, "青春の輪郭", "", 0],
     [7, "謳歌爛漫", "", 0],
-    [8, "Holiday∞Holiday", "", 0],
+    [8, "Holiday∞Holiday", "", 1],
     [9, "スケイプゴート", "", 0],
     [10, "Tragic Drops", "", 0],
     [11, "DEEPNESS", "", 0],
@@ -12978,7 +12978,7 @@ tracks = [
     [5, "AWOKE", "", 0],
     [6, "青春の輪郭", "", 0],
     [7, "謳歌爛漫", "", 0],
-    [8, "Holiday∞Holiday", "", 0],
+    [8, "Holiday∞Holiday", "", 1],
     [9, "スケイプゴート", "", 0],
     [10, "Tragic Drops", "", 0],
     [11, "DEEPNESS", "", 0],
@@ -13595,7 +13595,7 @@ album = "蓮ノ空女学院スクールアイドルクラブ 104th Collection Di
 tracks = [
     [1, "水彩世界 (104期Ver.)", "スリーズブーケ", 0],
     [2, "Mix shake!! (104期Ver.)", "スリーズブーケ", 0],
-    [3, "Holiday∞Holiday (104期Ver.)", "スリーズブーケ", 0],
+    [3, "Holiday∞Holiday (104期Ver.)", "スリーズブーケ", 2],
     [4, "眩耀夜行 (104期Ver.)", "スリーズブーケ", 0],
     [5, "素顔のピクセル (104期Ver.)", "スリーズブーケ", 0],
     [6, "千変万華 (104期Ver.)", "スリーズブーケ", 0],
@@ -13750,7 +13750,7 @@ tracks = [
     [1, "水彩世界", "乙宗梢(CV.花宮初奈)", 0],
     [2, "謳歌爛漫", "乙宗梢(CV.花宮初奈)", 0],
     [3, "Reflection in the mirror", "乙宗梢(CV.花宮初奈)", 0],
-    [4, "Holiday∞Holiday", "乙宗梢(CV.花宮初奈)", 0],
+    [4, "Holiday∞Holiday", "乙宗梢(CV.花宮初奈)", 1],
     [5, "眩耀夜行", "乙宗梢(CV.花宮初奈)", 0],
     [6, "素顔のピクセル", "乙宗梢(CV.花宮初奈)", 0],
     [7, "千変万華", "乙宗梢(CV.花宮初奈)", 0],
@@ -13855,7 +13855,7 @@ tracks = [
     [1, "水彩世界", "乙宗梢(CV.花宮初奈)", 0],
     [2, "謳歌爛漫", "乙宗梢(CV.花宮初奈)", 0],
     [3, "Reflection in the mirror", "乙宗梢(CV.花宮初奈)", 0],
-    [4, "Holiday∞Holiday", "乙宗梢(CV.花宮初奈)", 0],
+    [4, "Holiday∞Holiday", "乙宗梢(CV.花宮初奈)", 1],
     [5, "眩耀夜行", "乙宗梢(CV.花宮初奈)", 0],
     [6, "素顔のピクセル", "乙宗梢(CV.花宮初奈)", 0],
     [7, "千変万華", "乙宗梢(CV.花宮初奈)", 0],
