@@ -3,10 +3,10 @@ catalognumber = "FPBD-0085"
 date = "2009-03-31"
 album = "ルミナスの泉 / アフィリア・サーガ・イースト Vocal"
 tracks = [
-    [1, "ルミナスの泉", "アフィリア・サーガ・イースト", 0],
-    [2, "My White Ribbon", "アフィリア・サーガ・イースト", 0],
-    [3, "ルミナスの泉 (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "My White Ribbon (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "ルミナスの泉", "アフィリア・サーガ・イースト", 1],
+    [2, "My White Ribbon", "アフィリア・サーガ・イースト", 1],
+    [3, "ルミナスの泉 (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "My White Ribbon (off Vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6af0babd-54f5-42a1-9b09-74419a1ead2c", "https://vgmdb.net/album/116853"]
 
@@ -15,7 +15,7 @@ catalognumber = "FPBD-0085"
 date = "2009-03-31"
 album = "ルミナスの泉 / アフィリア・サーガ・イースト Video"
 tracks = [
-    [1, "My White Ribbon (Music Clip)", "アフィリア・サーガ・イースト", 0],
+    [1, "My White Ribbon (Music Clip)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6af0babd-54f5-42a1-9b09-74419a1ead2c", "https://vgmdb.net/album/116853"]
 
@@ -24,17 +24,17 @@ catalognumber = "GRE-009"
 date = "2009-08-26"
 album = "スターゲイト / いとうかなこ"
 tracks = [
-    [1, "Open The <<<STARGATE>>>", "いとうかなこ", 0],
-    [2, "Liberty", "いとうかなこ", 0],
-    [3, "Sunday Sunshine", "いとうかなこ", 0],
-    [4, "Dear my stars", "いとうかなこ", 0],
-    [5, "εüρηκα", "いとうかなこ", 0],
-    [6, "technovision", "いとうかなこ", 0],
-    [7, "ルイラン", "いとうかなこ", 0],
-    [8, "雨の日のサヨナラ", "いとうかなこ", 0],
-    [9, "幻", "いとうかなこ", 0],
-    [10, "星屑", "いとうかなこ", 0],
-    [11, "déjà vu", "いとうかなこ", 0],
+    [1, "Open The <<<STARGATE>>>", "いとうかなこ", 1],
+    [2, "Liberty", "いとうかなこ", 1],
+    [3, "Sunday Sunshine", "いとうかなこ", 1],
+    [4, "Dear my stars", "いとうかなこ", 1],
+    [5, "εüρηκα", "いとうかなこ", 1],
+    [6, "technovision", "いとうかなこ", 1],
+    [7, "ルイラン", "いとうかなこ", 1],
+    [8, "雨の日のサヨナラ", "いとうかなこ", 1],
+    [9, "幻", "いとうかなこ", 1],
+    [10, "星屑", "いとうかなこ", 1],
+    [11, "déjà vu", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/822f63d6-36a5-4bec-ba49-eb5bd7e5bc7f", "https://vgmdb.net/album/34159"]
 
@@ -43,10 +43,10 @@ catalognumber = "FVCG-1100"
 date = "2009-10-28"
 album = "スカイクラッドの観測者 / いとうかなこ"
 tracks = [
-    [1, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [2, "Another Heaven", "いとうかなこ", 0],
-    [3, "スカイクラッドの観測者 (off Vocal)", "いとうかなこ", 0],
-    [4, "Another Heaven (off Vocal)", "いとうかなこ", 0],
+    [1, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [2, "Another Heaven", "いとうかなこ", 2],
+    [3, "スカイクラッドの観測者 (off Vocal)", "いとうかなこ", 1],
+    [4, "Another Heaven (off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d1695adf-be6b-4431-8a5b-f432662fd8a7", "https://vgmdb.net/album/15567"]
 
@@ -55,11 +55,11 @@ catalognumber = "FVCG-1101"
 date = "2009-11-25"
 album = "運命のファルファッラ / ファンタズム (FES cv. 榊原ゆい)"
 tracks = [
-    [1, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [2, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "嘆きのアラベスク 〜シングルLimitedバージョン〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "運命のファルファッラ (off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "マスカレード 〜ノア第三章列王新世紀編より〜 (off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [2, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "嘆きのアラベスク 〜シングルLimitedバージョン〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "運命のファルファッラ (off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "マスカレード 〜ノア第三章列王新世紀編より〜 (off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/c9bd6e19-4cb9-4399-83c6-57b91859a74b", "https://vgmdb.net/album/15518"]
 
@@ -107,8 +107,8 @@ tracks = [
     [9, "F.D.D", "", 0],
     [10, "クライ", "", 0],
     [11, "Desire Blue sky", "", 0],
-    [12, "スカイクラッドの観測者", "", 0],
-    [13, "Another Heaven", "", 0],
+    [12, "スカイクラッドの観測者", "", 1],
+    [13, "Another Heaven", "", 1],
 ]
 links = ["https://vgmdb.net/album/17131"]
 
@@ -128,8 +128,8 @@ tracks = [
     [9, "F.D.D.", "いとうかなこ", 0],
     [10, "クライ", "いとうかなこ", 0],
     [11, "Desire Blue sky", "いとうかなこ", 0],
-    [12, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [13, "Another Heaven", "いとうかなこ", 0],
+    [12, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [13, "Another Heaven", "いとうかなこ", 1],
     [14, "突風", "いとうかなこ", 0],
     [15, "Fly to the sky", "いとうかなこ", 0],
 ]
@@ -145,7 +145,7 @@ tracks = [
     [3, "Find the blue～PCゲーム 「CHAOS;HEAD」OP Movie", "いとうかなこ", 0],
     [4, "fake me～Xbox360専用ソフト「CHAOS;HEAD NOAH」OP Movie", "いとうかなこ", 0],
     [5, "ivy～PS2ソフト『Myself；Yourself』Second OP Movie", "いとうかなこ", 0],
-    [6, "スカイクラッドの観測者～Xbox360専用ソフト「STEINS;GATE」OP Movie", "いとうかなこ", 0],
+    [6, "スカイクラッドの観測者～Xbox360専用ソフト「STEINS;GATE」OP Movie", "いとうかなこ", 1],
     [7, "F.D.D.～TVアニメ「カオス・ヘッド」OP Movie", "いとうかなこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/fd25bbda-eea6-4b16-bd6c-defb0492eb02", "https://vgmdb.net/album/17132"]
@@ -155,27 +155,27 @@ catalognumber = "FVCG-1106"
 date = "2010-02-03"
 album = "Steins;Gate Original Soundtrack+ラジオCD (仮) Original Soundtrack, Vocal, Talk"
 tracks = [
-    [1, "スカイクラッドの観測者 Short Ver.", "いとうかなこ", 0],
-    [2, "technovision Short Ver.", "いとうかなこ", 0],
-    [3, "GATE OF STEINER -Main theme-", "阿保剛", 0],
-    [4, "The universe", "阿保剛", 0],
-    [5, "Laboratory", "阿保剛", 0],
-    [6, "Suspicious eyes", "阿保剛", 0],
-    [7, "Noisy times", "阿保剛", 0],
-    [8, "Explanation", "阿保剛", 0],
-    [9, "Quiet air", "阿保剛", 0],
-    [10, "Yanagibayashi", "阿保剛", 0],
-    [11, "Walking on sleeping", "阿保剛", 0],
-    [12, "Cycle", "阿保剛", 0],
-    [13, "Hack -beta vision-", "阿保剛", 0],
-    [14, "SERN", "阿保剛", 0],
-    [15, "Assailant", "阿保剛", 0],
-    [16, "The Limit", "阿保剛", 0],
-    [17, "Select of sorrow", "阿保剛", 0],
-    [18, "Chaos mind", "阿保剛", 0],
-    [19, "Crossroads", "阿保剛", 0],
-    [20, "Self affirmation", "阿保剛", 0],
-    [21, "Believe me", "阿保剛", 0],
+    [1, "スカイクラッドの観測者 Short Ver.", "いとうかなこ", 1],
+    [2, "technovision Short Ver.", "いとうかなこ", 1],
+    [3, "GATE OF STEINER -Main theme-", "阿保剛", 1],
+    [4, "The universe", "阿保剛", 1],
+    [5, "Laboratory", "阿保剛", 1],
+    [6, "Suspicious eyes", "阿保剛", 1],
+    [7, "Noisy times", "阿保剛", 1],
+    [8, "Explanation", "阿保剛", 1],
+    [9, "Quiet air", "阿保剛", 1],
+    [10, "Yanagibayashi", "阿保剛", 1],
+    [11, "Walking on sleeping", "阿保剛", 1],
+    [12, "Cycle", "阿保剛", 1],
+    [13, "Hack -beta vision-", "阿保剛", 1],
+    [14, "SERN", "阿保剛", 1],
+    [15, "Assailant", "阿保剛", 1],
+    [16, "The Limit", "阿保剛", 1],
+    [17, "Select of sorrow", "阿保剛", 1],
+    [18, "Chaos mind", "阿保剛", 1],
+    [19, "Crossroads", "阿保剛", 1],
+    [20, "Self affirmation", "阿保剛", 1],
+    [21, "Believe me", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/404cf7ad-06a2-41dc-ac7a-e00ad1024d3f", "https://vgmdb.net/album/16311"]
 
@@ -184,26 +184,26 @@ catalognumber = "FVCG-1106"
 date = "2010-02-03"
 album = "Steins;Gate Original Soundtrack+ラジオCD (仮) Original Soundtrack, Talk Disc 2"
 tracks = [
-    [1, "GATE OF STEINER -Piano-", "阿保剛", 0],
-    [2, "Hack -alpha vision-", "阿保剛", 0],
-    [3, "Human community", "阿保剛", 0],
-    [4, "Network battle", "阿保剛", 0],
-    [5, "hesitative consideration", "阿保剛", 0],
-    [6, "Urd", "阿保剛", 0],
-    [7, "Fake Verthandi", "阿保剛", 0],
-    [8, "OPERATION SKULD", "阿保剛", 0],
-    [9, "Solitude", "阿保剛", 0],
-    [10, "Ringing -Beginning of fight-", "阿保剛", 0],
-    [11, "Ringing -Village-", "阿保剛", 0],
-    [12, "Ringing -Easygoingness-", "阿保剛", 0],
-    [13, "Ringing -Precaution-", "阿保剛", 0],
-    [14, "Ringing -Over the sky-", "阿保剛", 0],
-    [15, "Ringing -Reunion-", "阿保剛", 0],
-    [16, "Ringing -GATE OF STEINER-", "阿保剛", 0],
-    [17, "Hack -short vision-", "阿保剛", 0],
-    [18, "マスカレード ～ノア第三章列王新世紀編より～ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [19, "運命のファルファッラ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [20, "Another Heaven Short Ver.", "いとうかなこ", 0],
+    [1, "GATE OF STEINER -Piano-", "阿保剛", 1],
+    [2, "Hack -alpha vision-", "阿保剛", 1],
+    [3, "Human community", "阿保剛", 1],
+    [4, "Network battle", "阿保剛", 1],
+    [5, "hesitative consideration", "阿保剛", 1],
+    [6, "Urd", "阿保剛", 1],
+    [7, "Fake Verthandi", "阿保剛", 1],
+    [8, "OPERATION SKULD", "阿保剛", 1],
+    [9, "Solitude", "阿保剛", 1],
+    [10, "Ringing -Beginning of fight-", "阿保剛", 1],
+    [11, "Ringing -Village-", "阿保剛", 1],
+    [12, "Ringing -Easygoingness-", "阿保剛", 1],
+    [13, "Ringing -Precaution-", "阿保剛", 1],
+    [14, "Ringing -Over the sky-", "阿保剛", 1],
+    [15, "Ringing -Reunion-", "阿保剛", 1],
+    [16, "Ringing -GATE OF STEINER-", "阿保剛", 1],
+    [17, "Hack -short vision-", "阿保剛", 1],
+    [18, "マスカレード ～ノア第三章列王新世紀編より～ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [19, "運命のファルファッラ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [20, "Another Heaven Short Ver.", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/404cf7ad-06a2-41dc-ac7a-e00ad1024d3f", "https://vgmdb.net/album/16311"]
 
@@ -230,13 +230,13 @@ catalognumber = "FVCG-1108"
 date = "2010-03-31"
 album = "Steins；Gate Drama CD αダイバージェンス0.571046％ 哀心迷図のバベル"
 tracks = [
-    [1, "Aug 15,2010 14:07", "林直孝", 0],
-    [2, "Aug 15,2010 15:04", "林直孝", 0],
-    [3, "Aug 15,2010 16:43", "林直孝", 0],
-    [4, "0ct 3,1994 19:21", "林直孝", 0],
-    [5, "Aug 15,2010 17:50", "林直孝", 0],
-    [6, "Aug 17,2010 7:02", "林直孝", 0],
-    [7, "Aug 17,2010 12:18", "林直孝", 0],
+    [1, "Aug 15,2010 14:07", "林直孝", 1],
+    [2, "Aug 15,2010 15:04", "林直孝", 1],
+    [3, "Aug 15,2010 16:43", "林直孝", 1],
+    [4, "0ct 3,1994 19:21", "林直孝", 1],
+    [5, "Aug 15,2010 17:50", "林直孝", 1],
+    [6, "Aug 17,2010 7:02", "林直孝", 1],
+    [7, "Aug 17,2010 12:18", "林直孝", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3fe39ab8-5451-4acf-84f8-f8aef19f2cd9", "https://vgmdb.net/album/17670"]
 
@@ -245,15 +245,15 @@ catalognumber = "FVCG-1112"
 date = "2010-04-28"
 album = "Steins；Gate Drama CD β ダイバージェンス1.130205％ 無限遠点のアークライト"
 tracks = [
-    [1, "1.130205%", "林直孝", 0],
-    [2, "1.129848%", "林直孝", 0],
-    [3, "1.129848%", "林直孝", 0],
-    [4, "1.129848%", "林直孝", 0],
-    [5, "1.129848%", "林直孝", 0],
-    [6, "1.129848%", "林直孝", 0],
-    [7, "1.130205%", "林直孝", 0],
-    [8, "1.130212%", "林直孝", 0],
-    [9, "1.130205%", "林直孝", 0],
+    [1, "1.130205%", "林直孝", 1],
+    [2, "1.129848%", "林直孝", 1],
+    [3, "1.129848%", "林直孝", 1],
+    [4, "1.129848%", "林直孝", 1],
+    [5, "1.129848%", "林直孝", 1],
+    [6, "1.129848%", "林直孝", 1],
+    [7, "1.130205%", "林直孝", 1],
+    [8, "1.130212%", "林直孝", 1],
+    [9, "1.130205%", "林直孝", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bf9f7868-f0ae-4d41-a75a-f8d3dd4fe393", "https://vgmdb.net/album/17669"]
 
@@ -262,10 +262,10 @@ catalognumber = "FVCG-1115"
 date = "2010-04-28"
 album = "ワタシ☆LOVEな☆オトメ! FVCG-1115-1"
 tracks = [
-    [1, "ワタシ☆LOVEな☆オトメ!", "アフィリア・サーガ・イースト", 0],
-    [2, "聖ナル wktk ノ星", "アフィリア・サーガ・イースト", 0],
-    [3, "ワタシ☆LOVEな☆オトメ! (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "聖ナル wktk ノ星 (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "ワタシ☆LOVEな☆オトメ!", "アフィリア・サーガ・イースト", 1],
+    [2, "聖ナル wktk ノ星", "アフィリア・サーガ・イースト", 1],
+    [3, "ワタシ☆LOVEな☆オトメ! (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "聖ナル wktk ノ星 (off Vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7597bd36-deac-46cd-a987-c6762908ba8b"]
 
@@ -274,7 +274,7 @@ catalognumber = "FVCG-1115"
 date = "2010-04-28"
 album = "ワタシ☆LOVEな☆オトメ! FVCG-1115-2"
 tracks = [
-    [1, "ワタシ☆LOVEな☆オトメ！（MusicClip）", "アフィリア・サーガ・イースト", 0],
+    [1, "ワタシ☆LOVEな☆オトメ！（MusicClip）", "アフィリア・サーガ・イースト", 1],
     [2, "Xbox360用ゲームソフト『W.L.O.世界恋愛機構』オープニングムービー", "アフィリア・サーガ・イースト", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7597bd36-deac-46cd-a987-c6762908ba8b"]
@@ -284,14 +284,14 @@ catalognumber = "FVCG-1113"
 date = "2010-06-02"
 album = "Steins；Gate ドラマCD γ ダイバージェンス2.615074％ 暗黒次元のハイド"
 tracks = [
-    [1, "Day01 17:04", "林直孝", 0],
-    [2, "Day01 17:26", "林直孝", 0],
-    [3, "Day01 18:13", "林直孝", 0],
-    [4, "Day01 18:48", "林直孝", 0],
-    [5, "Day02 12:02", "林直孝", 0],
-    [6, "Day02 13:51", "林直孝", 0],
-    [7, "Day02 16:32", "林直孝", 0],
-    [8, "Day02 17:05", "林直孝", 0],
+    [1, "Day01 17:04", "林直孝", 1],
+    [2, "Day01 17:26", "林直孝", 1],
+    [3, "Day01 18:13", "林直孝", 1],
+    [4, "Day01 18:48", "林直孝", 1],
+    [5, "Day02 12:02", "林直孝", 1],
+    [6, "Day02 13:51", "林直孝", 1],
+    [7, "Day02 16:32", "林直孝", 1],
+    [8, "Day02 17:05", "林直孝", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e8e7849d-1183-4dcb-9f90-09a59d668f9a", "https://vgmdb.net/album/17668"]
 
@@ -300,10 +300,10 @@ catalognumber = "FPBD-0155"
 date = "2010-06-23"
 album = "『シュタインズ・ゲート』第1巻 限定版特別付録 録り下ろしドラマCD 「ラボメン円卓会議」"
 tracks = [
-    [1, "円卓のプロンプト", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
-    [2, "奸計必至のロストチャイルド", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
-    [3, "脳内規制のプレッシャー", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
-    [4, "萌芽覚醒のインビテーション", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
+    [1, "円卓のプロンプト", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 1],
+    [2, "奸計必至のロストチャイルド", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 1],
+    [3, "脳内規制のプレッシャー", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 1],
+    [4, "萌芽覚醒のインビテーション", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/65e45208-32f7-45f0-9244-d30e0ad231ce", "https://vgmdb.net/album/30447"]
 
@@ -312,10 +312,10 @@ catalognumber = "FVCG-1119"
 date = "2010-07-28"
 album = "A.R. / いとうかなこ"
 tracks = [
-    [1, "A.R.", "いとうかなこ", 0],
-    [2, "Star-Crossed", "いとうかなこ", 0],
-    [3, "A.R. (off Vocal)", "いとうかなこ", 0],
-    [4, "Star-Crossed (off Vocal)", "いとうかなこ", 0],
+    [1, "A.R.", "いとうかなこ", 1],
+    [2, "Star-Crossed", "いとうかなこ", 2],
+    [3, "A.R. (off Vocal)", "いとうかなこ", 1],
+    [4, "Star-Crossed (off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/337c3ee3-91af-4af2-911e-9c4190ed6ba5", "https://vgmdb.net/album/20532"]
 
@@ -335,10 +335,10 @@ catalognumber = "FVCG-1122"
 date = "2010-08-25"
 album = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー002☆椎名まゆり(cv.花澤香菜)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時33分] 椎名まゆり編", "椎名まゆり", 0],
-    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 0],
-    [3, "優しい夕暮れ (off Vocal)", "椎名まゆり (cv.花澤香菜)", 0],
-    [4, "キャストコメント (花澤香菜)", "椎名まゆり", 0],
+    [1, "ミニドラマ [7月28日11時33分] 椎名まゆり編", "椎名まゆり", 1],
+    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 2],
+    [3, "優しい夕暮れ (off Vocal)", "椎名まゆり (cv.花澤香菜)", 1],
+    [4, "キャストコメント (花澤香菜)", "椎名まゆり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/abc0af16-b55e-4696-b58e-7ba496d55be0", "https://vgmdb.net/album/21321"]
 
@@ -347,10 +347,10 @@ catalognumber = "FVCG-1130"
 date = "2010-08-25"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー002☆椎名まゆり(cv.花澤香菜)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時33分] 椎名まゆり編", "椎名まゆり", 0],
-    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 0],
-    [3, "優しい夕暮れ (off Vocal)", "椎名まゆり (cv.花澤香菜)", 0],
-    [4, "キャストコメント (花澤香菜)", "椎名まゆり", 0],
+    [1, "ミニドラマ [7月28日11時33分] 椎名まゆり編", "椎名まゆり", 1],
+    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 1],
+    [3, "優しい夕暮れ (off Vocal)", "椎名まゆり (cv.花澤香菜)", 1],
+    [4, "キャストコメント (花澤香菜)", "椎名まゆり", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/abc0af16-b55e-4696-b58e-7ba496d55be0", "https://vgmdb.net/album/25545"]
 
@@ -359,10 +359,10 @@ catalognumber = "FVCG-1124"
 date = "2010-09-22"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー004☆牧瀬紅莉栖(cv.今井麻美)"
 tracks = [
-    [1, "ミニドラマ [7月28日12時10分] 牧瀬紅莉栖編", "牧瀬紅莉栖", 0],
-    [2, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 0],
-    [3, "約束のパラダイム (off Vocal)", "牧瀬紅莉栖 (cv.今井麻美)", 0],
-    [4, "キャストコメント (今井麻美)", "牧瀬紅莉栖", 0],
+    [1, "ミニドラマ [7月28日12時10分] 牧瀬紅莉栖編", "牧瀬紅莉栖", 1],
+    [2, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 1],
+    [3, "約束のパラダイム (off Vocal)", "牧瀬紅莉栖 (cv.今井麻美)", 1],
+    [4, "キャストコメント (今井麻美)", "牧瀬紅莉栖", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/55fa3195-7e6a-4374-a062-7cd7edbef156", "https://vgmdb.net/album/25569"]
 
@@ -371,10 +371,10 @@ catalognumber = "FVCG-1123"
 date = "2010-09-22"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー003☆橋田至(cv.関智一)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時55分] 橋田至編", "橋田至", 0],
-    [2, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 0],
-    [3, "萌える世界の幻想譚 (off Vocal)", "橋田至 (cv.関智一)", 0],
-    [4, "キャストコメント (関智一)", "橋田至", 0],
+    [1, "ミニドラマ [7月28日11時55分] 橋田至編", "橋田至", 1],
+    [2, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 1],
+    [3, "萌える世界の幻想譚 (off Vocal)", "橋田至 (cv.関智一)", 1],
+    [4, "キャストコメント (関智一)", "橋田至", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fca2618f-ab78-4bd3-84c0-f3e89469df00", "https://vgmdb.net/album/25568"]
 
@@ -383,10 +383,10 @@ catalognumber = "FVCG-1126"
 date = "2010-10-20"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー006☆漆原るか(cv.小林ゆう)"
 tracks = [
-    [1, "ミニドラマ[7月28日12時48分]漆原るか編", "漆原るか", 0],
-    [2, "漆原るかキャラクターソング「儚い記憶のかけら」", "漆原るか (cv.小林ゆう)", 0],
-    [3, "漆原るかキャラクターソング「儚い記憶のかけら」(off Vocal）", "漆原るか (cv.小林ゆう)", 0],
-    [4, "キャストコメント（小林ゆう）", "漆原るか", 0],
+    [1, "ミニドラマ[7月28日12時48分]漆原るか編", "漆原るか", 1],
+    [2, "漆原るかキャラクターソング「儚い記憶のかけら」", "漆原るか (cv.小林ゆう)", 1],
+    [3, "漆原るかキャラクターソング「儚い記憶のかけら」(off Vocal）", "漆原るか (cv.小林ゆう)", 1],
+    [4, "キャストコメント（小林ゆう）", "漆原るか", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a9362d3e-8d80-4033-b50a-d476dcfe874f", "https://vgmdb.net/album/25571"]
 
@@ -395,10 +395,10 @@ catalognumber = "FVCG-1125"
 date = "2010-10-20"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー005☆桐生萌郁(cv.後藤沙緒里)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時55分] 桐生萌郁編", "桐生萌郁", 0],
-    [2, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 0],
-    [3, "To Be Loved (off Vocal)", "桐生萌郁 (cv.後藤沙緒里)", 0],
-    [4, "キャストコメント (後藤沙緒里)", "桐生萌郁", 0],
+    [1, "ミニドラマ [7月28日11時55分] 桐生萌郁編", "桐生萌郁", 1],
+    [2, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 1],
+    [3, "To Be Loved (off Vocal)", "桐生萌郁 (cv.後藤沙緒里)", 1],
+    [4, "キャストコメント (後藤沙緒里)", "桐生萌郁", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/59319d2b-a81d-4cef-b620-d9a86f8fa8c9", "https://vgmdb.net/album/25570"]
 
@@ -407,10 +407,10 @@ catalognumber = "FVCG-1121"
 date = "2010-11-24"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー001☆岡部倫太郎(cv.宮野真守)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時21分] 岡部倫太郎編", "岡部倫太郎", 0],
-    [2, "難攻不落の new gate", "岡部倫太郎 (cv.宮野真守)", 0],
-    [3, "難攻不落の new gate (off Vocal)", "岡部倫太郎 (cv.宮野真守)", 0],
-    [4, "キャストコメント (宮野真守)", "岡部倫太郎", 0],
+    [1, "ミニドラマ [7月28日11時21分] 岡部倫太郎編", "岡部倫太郎", 1],
+    [2, "難攻不落の new gate", "岡部倫太郎 (cv.宮野真守)", 1],
+    [3, "難攻不落の new gate (off Vocal)", "岡部倫太郎 (cv.宮野真守)", 1],
+    [4, "キャストコメント (宮野真守)", "岡部倫太郎", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad222504-b21f-44ce-a03c-ed253506d4d0", "https://vgmdb.net/album/25567"]
 
@@ -419,10 +419,10 @@ catalognumber = "FVCG-1128"
 date = "2010-11-24"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー008☆阿万音鈴羽(cv.田村ゆかり)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時21分] 阿万音鈴羽編", "阿万音鈴羽", 0],
-    [2, "虹色の光りの中で", "阿万音鈴羽 (cv.田村ゆかり)", 0],
-    [3, "虹色の光りの中で (off Vocal)", "阿万音鈴羽 (cv.田村ゆかり)", 0],
-    [4, "キャストコメント (田村ゆかり)", "阿万音鈴羽", 0],
+    [1, "ミニドラマ [7月28日11時21分] 阿万音鈴羽編", "阿万音鈴羽", 1],
+    [2, "虹色の光りの中で", "阿万音鈴羽 (cv.田村ゆかり)", 1],
+    [3, "虹色の光りの中で (off Vocal)", "阿万音鈴羽 (cv.田村ゆかり)", 1],
+    [4, "キャストコメント (田村ゆかり)", "阿万音鈴羽", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/64c0d58a-ef53-43f7-b21b-d53d9bf9d02a", "https://vgmdb.net/album/25573"]
 
@@ -431,10 +431,10 @@ catalognumber = "FVCG-1127"
 date = "2010-11-24"
 album = "「STEINS;GATE」オーディオシリーズ ☆ラボメンナンバー007☆フェイリス・ニャンニャン(cv.桃井はるこ)"
 tracks = [
-    [1, "ミニドラマ [7月28日11時26分] フェイリス・ニャンニャン編", "フェイリス・ニャンニャン(cv.桃井はるこ)、橋田至(cv.関智一)、ネコミミメイドA(cv.四戸あゆみ)、ネコミミメイドB(cv.吉田めぐみ)", 0],
-    [2, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 0],
-    [3, "Nyan☆Nyan☆Galaxy! (off Vocal)", "フェイリス・ニャンニャン (cv.桃井はるこ)", 0],
-    [4, "キャストコメント (桃井はるこ)", "桃井はるこ", 0],
+    [1, "ミニドラマ [7月28日11時26分] フェイリス・ニャンニャン編", "フェイリス・ニャンニャン(cv.桃井はるこ)、橋田至(cv.関智一)、ネコミミメイドA(cv.四戸あゆみ)、ネコミミメイドB(cv.吉田めぐみ)", 1],
+    [2, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 1],
+    [3, "Nyan☆Nyan☆Galaxy! (off Vocal)", "フェイリス・ニャンニャン (cv.桃井はるこ)", 1],
+    [4, "キャストコメント (桃井はるこ)", "桃井はるこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/63abee37-9630-4bcf-a841-7ad584709fa1", "https://vgmdb.net/album/25572"]
 
@@ -470,14 +470,14 @@ tracks = [
     [3, "落葉", "いとうかなこ", 0],
     [4, "くるり 桜 ひらり", "いとうかなこ", 0],
     [5, "キンカクジ", "いとうかなこ", 0],
-    [6, "A.R.", "いとうかなこ", 0],
+    [6, "A.R.", "いとうかなこ", 1],
     [7, "追憶の風", "いとうかなこ", 0],
     [8, "STILL", "いとうかなこ", 0],
     [9, "Miracles may", "いとうかなこ", 0],
     [10, "BLAZE UP", "いとうかなこ", 0],
     [11, "サイン", "いとうかなこ", 0],
     [12, "パズル", "いとうかなこ", 0],
-    [13, "Sunday Sunshine", "いとうかなこ", 0],
+    [13, "Sunday Sunshine", "いとうかなこ", 1],
     [14, "Heaven", "いとうかなこ", 0],
     [15, "卒業証書", "いとうかなこ", 0],
 ]
@@ -497,10 +497,10 @@ catalognumber = "MFCZ-1006"
 date = "2011-04-27"
 album = "Hacking to the Gate / いとうかなこ"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
-    [2, "リライアンス", "いとうかなこ", 0],
-    [3, "Hacking to the Gate (Off Vocal)", "いとうかなこ", 0],
-    [4, "リライアンス (Off Vocal)", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
+    [2, "リライアンス", "いとうかなこ", 1],
+    [3, "Hacking to the Gate (Off Vocal)", "いとうかなこ", 1],
+    [4, "リライアンス (Off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5d050188-fb85-3369-8ab7-31e4d1eee15a", "https://vgmdb.net/album/23847"]
 
@@ -509,7 +509,7 @@ catalognumber = "MHXL-5"
 date = "2011-04-27"
 album = "Live5pb.2010 @JCB Hall"
 tracks = [
-    [1, "スカイクラッドの観測者（Xbox360「STEINS;GATE」OPテーマソング）", "", 0],
+    [1, "スカイクラッドの観測者（Xbox360「STEINS;GATE」OPテーマソング）", "", 1],
     [2, "にゃんだふる（TVアニメ「にゃんこい！」OPテーマソング）", "", 0],
     [3, "LOOP", "", 0],
     [4, "COLOR SANCTUARY（アルバム楽曲）", "", 0],
@@ -518,19 +518,19 @@ tracks = [
     [7, "夏のキセキ （PC「恋と水着と太陽と」OPテーマソング）", "", 0],
     [8, "冬花火 （PC「真剣で私に恋しなさい」EDテーマソング）", "", 0],
     [9, "ニーハイ・エゴイスト", "", 0],
-    [10, "ワタシ☆LOVEな☆オトメ！ （Xbox360「W.L.O.世界恋愛機構」OPテーマソング）", "", 0],
+    [10, "ワタシ☆LOVEな☆オトメ！ （Xbox360「W.L.O.世界恋愛機構」OPテーマソング）", "", 1],
     [11, "放課後_ロマンス", "", 0],
     [12, "ぱすてるチャイム（PSP「ぱすてるチャイム」新OPテーマソング）", "", 0],
     [13, "シンクロしようよ（Xbox360「CHAOS;HEAD らぶChu☆Chu！」OPテーマソング）", "", 0],
     [14, "流星のビヴロスト（PS3「超次元ゲイム ネプテューヌ」OPテーマソング）", "", 0],
     [15, "INNOCENT（PC「11eyes -Resona Forma-」EDテーマソング）", "", 0],
     [16, "ALTAIR（Xbox360「バレットソウル-弾魂-」EDテーマソング）", "", 0],
-    [17, "小指のパラドックス （Xbox360「メモリーズオフ　ゆびきりの記憶」OPテーマソング）", "", 0],
-    [18, "Forever More （PSP「メモリーズオフ 6 Next Relation」新OPテーマソング）", "", 0],
-    [19, "運命のファルファッラ（Xbox360「STEINS;GATE」EDテーマソング）", "", 0],
+    [17, "小指のパラドックス （Xbox360「メモリーズオフ　ゆびきりの記憶」OPテーマソング）", "", 1],
+    [18, "Forever More （PSP「メモリーズオフ 6 Next Relation」新OPテーマソング）", "", 1],
+    [19, "運命のファルファッラ（Xbox360「STEINS;GATE」EDテーマソング）", "", 1],
     [20, "磔のミサ（TVアニメ「カオスヘッド」挿入歌）", "", 0],
-    [21, "A.R　（PC 「STEINS;GATE」 イメージソング）", "", 0],
-    [22, "Another Heaven　（Xbox360「STEINS;GATE」EDテーマソング）", "", 0],
+    [21, "A.R　（PC 「STEINS;GATE」 イメージソング）", "", 1],
+    [22, "Another Heaven　（Xbox360「STEINS;GATE」EDテーマソング）", "", 1],
     [23, "euphoric firld　（TVアニメ「ef -a tale of memories.」 OPテーマソング）", "", 0],
     [24, "鵬翼のプロフェシア～聖櫃のプロフェシアメドレー", "", 0],
     [25, "sunrise　(PC 「白銀のカルと蒼空の女王」OPテーマソング)", "", 0],
@@ -553,10 +553,10 @@ catalognumber = "MFCZ-1005"
 date = "2011-04-27"
 album = "Hacking to the Gate / いとうかなこ [初回限定盤] Vocal"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
-    [2, "リライアンス", "いとうかなこ", 0],
-    [3, "Hacking to the Gate (Off Vocal)", "いとうかなこ", 0],
-    [4, "リライアンス (Off Vocal)", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
+    [2, "リライアンス", "いとうかなこ", 1],
+    [3, "Hacking to the Gate (Off Vocal)", "いとうかなこ", 1],
+    [4, "リライアンス (Off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6ed52313-3231-402a-af3d-e4f8aefba970", "https://vgmdb.net/album/23848"]
 
@@ -565,7 +565,7 @@ catalognumber = "MFCZ-1005"
 date = "2011-04-27"
 album = "Hacking to the Gate / いとうかなこ [初回限定盤] Video"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6ed52313-3231-402a-af3d-e4f8aefba970", "https://vgmdb.net/album/23848"]
 
@@ -574,10 +574,10 @@ catalognumber = "MFCZ-1007"
 date = "2011-05-25"
 album = "刻司ル十二ノ盟約 / ファンタズム (FES cv.榊原ゆい) Vocal"
 tracks = [
-    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [2, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "刻司ル十二ノ盟約 (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "麗しきセデュース (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [2, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "刻司ル十二ノ盟約 (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "麗しきセデュース (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e69f4675-30b6-41c0-ae90-5fef3069a56f", "https://vgmdb.net/album/23850"]
 
@@ -595,10 +595,10 @@ catalognumber = "MFCZ-1008"
 date = "2011-05-25"
 album = "刻司ル十二ノ盟約 / ファンタズム (FES cv.榊原ゆい)"
 tracks = [
-    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [2, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "刻司ル十二ノ盟約 (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "麗しきセデュース (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [2, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "刻司ル十二ノ盟約 (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "麗しきセデュース (Off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/202e9815-19fa-4513-906d-d22f58369ada", "https://vgmdb.net/album/23849"]
 
@@ -607,7 +607,7 @@ catalognumber = "FPBD-0180"
 date = "2011-06-16"
 album = "STEINS;GATE Micro Wave Master Mix"
 tracks = [
-    [1, "STEINS;GATE Micro Wave Master Mix", "DJ SADOI", 0],
+    [1, "STEINS;GATE Micro Wave Master Mix", "DJ SADOI", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7cfe7190-f258-4ed9-8ff5-88e11cee2264", "https://vgmdb.net/album/26872"]
 
@@ -616,11 +616,11 @@ catalognumber = "FVCG-1158"
 date = "2011-06-22"
 album = "宇宙エンジニア／いとうかなこ"
 tracks = [
-    [1, "宇宙エンジニア", "いとうかなこ", 0],
-    [2, "永遠のベクトル", "いとうかなこ", 0],
-    [3, "スカイクラッドの観測者-Remix-", "いとうかなこ", 0],
-    [4, "宇宙エンジニア(off Vocal)", "いとうかなこ", 0],
-    [5, "永遠のベクトル(off Vocal)", "いとうかなこ", 0],
+    [1, "宇宙エンジニア", "いとうかなこ", 1],
+    [2, "永遠のベクトル", "いとうかなこ", 1],
+    [3, "スカイクラッドの観測者-Remix-", "いとうかなこ", 1],
+    [4, "宇宙エンジニア(off Vocal)", "いとうかなこ", 1],
+    [5, "永遠のベクトル(off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/29e7d2db-a139-470d-94b9-733f674eec78", "https://vgmdb.net/album/25592"]
 
@@ -629,10 +629,10 @@ catalognumber = "FVCG-1159"
 date = "2011-06-22"
 album = "プレギエーラの月夜に / ファンタズム (FES cv. 榊原ゆい)"
 tracks = [
-    [1, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [2, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "プレギエーラの月夜に(off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "EUPHORIA ～償いのレクイエム～(off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [2, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "プレギエーラの月夜に(off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "EUPHORIA ～償いのレクイエム～(off Vocal)", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/686f318e-d10f-485a-a02c-5e1a38406d87", "https://vgmdb.net/album/26426"]
 
@@ -655,7 +655,7 @@ catalognumber = "N/A"
 date = "2011-07-10"
 album = "コンプティーク2011年7月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD"
 tracks = [
-    [1, "コンプティーク2011年7月号付録", "", 0],
+    [1, "コンプティーク2011年7月号付録", "", 1],
 ]
 links = ["https://vgmdb.net/album/30452"]
 
@@ -664,30 +664,30 @@ catalognumber = "MFXT-0002EX"
 date = "2011-07-27"
 album = "STEINS;GATE 未来ガジェットコンパクトディスク2号 サウンドトラック「バタフライ・エフェクト」"
 tracks = [
-    [1, "Promise -piano-", "阿保剛", 0],
-    [2, "Confrontation with fear", "阿保剛", 0],
-    [3, "秋葉原", "村上純", 0],
-    [4, "Experiment", "阿保剛", 0],
-    [5, "Tajitaji", "阿保剛", 0],
-    [6, "Adrenaline", "阿保剛", 0],
-    [7, "Science Of The Strings", "村上純", 0],
-    [8, "未来ガジェット研究所", "村上純", 0],
-    [9, "かえり道", "村上純", 0],
-    [10, "Gate of steiner -piano-", "阿保剛", 0],
-    [11, "鈴羽", "村上純", 0],
-    [12, "Dメール", "村上純", 0],
-    [13, "Disquiet", "阿保剛", 0],
-    [14, "厨二病のタンゴ", "村上純", 0],
-    [15, "Tender affection", "阿保剛", 0],
-    [16, "冷めた視線", "村上純", 0],
-    [17, "ジョン・タイター", "村上純", 0],
-    [18, "Silence eyes", "阿保剛", 0],
-    [19, "No joke!", "阿保剛", 0],
-    [20, "@Channel", "阿保剛", 0],
-    [21, "オカリンのサスペンス", "村上純", 0],
-    [22, "事件", "村上純", 0],
-    [23, "Operation G-BACK", "阿保剛", 0],
-    [24, "Lab-members", "阿保剛", 0],
+    [1, "Promise -piano-", "阿保剛", 1],
+    [2, "Confrontation with fear", "阿保剛", 1],
+    [3, "秋葉原", "村上純", 1],
+    [4, "Experiment", "阿保剛", 1],
+    [5, "Tajitaji", "阿保剛", 1],
+    [6, "Adrenaline", "阿保剛", 1],
+    [7, "Science Of The Strings", "村上純", 1],
+    [8, "未来ガジェット研究所", "村上純", 1],
+    [9, "かえり道", "村上純", 1],
+    [10, "Gate of steiner -piano-", "阿保剛", 1],
+    [11, "鈴羽", "村上純", 1],
+    [12, "Dメール", "村上純", 1],
+    [13, "Disquiet", "阿保剛", 1],
+    [14, "厨二病のタンゴ", "村上純", 1],
+    [15, "Tender affection", "阿保剛", 1],
+    [16, "冷めた視線", "村上純", 1],
+    [17, "ジョン・タイター", "村上純", 1],
+    [18, "Silence eyes", "阿保剛", 1],
+    [19, "No joke!", "阿保剛", 1],
+    [20, "@Channel", "阿保剛", 1],
+    [21, "オカリンのサスペンス", "村上純", 1],
+    [22, "事件", "村上純", 1],
+    [23, "Operation G-BACK", "阿保剛", 1],
+    [24, "Lab-members", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/92351f0c-74c3-456d-94ed-78956b47c61c", "https://vgmdb.net/album/26167"]
 
@@ -696,10 +696,10 @@ catalognumber = "FVCG-1163"
 date = "2011-07-27"
 album = "La*La*La ラボリューション / アフィリア・サーガ・イースト [STEINS;GATEコラボ盤] Vocal"
 tracks = [
-    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
+    [3, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7dc88e27-3c81-4be2-844b-da862ae092be", "https://vgmdb.net/album/27002"]
 
@@ -708,7 +708,7 @@ catalognumber = "FVCG-1163"
 date = "2011-07-27"
 album = "La*La*La ラボリューション / アフィリア・サーガ・イースト [STEINS;GATEコラボ盤] Video"
 tracks = [
-    [1, "La*La*Laラボリューション （MUSIC VIDEO）", "アフィリア・サーガ・イースト", 0],
+    [1, "La*La*Laラボリューション （MUSIC VIDEO）", "アフィリア・サーガ・イースト", 1],
     [2, "STEINS;GATE 比翼恋理のだーりん OP Movie", "アフィリア・サーガ・イースト", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7dc88e27-3c81-4be2-844b-da862ae092be", "https://vgmdb.net/album/27002"]
@@ -718,12 +718,12 @@ catalognumber = "FVCG-1162"
 date = "2011-07-27"
 album = "La*La*La ラボリューション / アフィリア・サーガ・イースト [豪華盤] Disc 1 (CD)"
 tracks = [
-    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション (feat.カレン、マホ、ミィナ、アリア)", "アフィリア・サーガ・イースト", 0],
-    [4, "Dearセンパイ♡ 〜メンバー自己紹介ソング〜", "アフィリア・サーガ・イースト", 0],
-    [5, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [6, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
+    [3, "La*La*Laラボリューション (feat.カレン、マホ、ミィナ、アリア)", "アフィリア・サーガ・イースト", 1],
+    [4, "Dearセンパイ♡ 〜メンバー自己紹介ソング〜", "アフィリア・サーガ・イースト", 1],
+    [5, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [6, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96f3e32d-d0c1-4647-a287-ca66f473e067", "https://vgmdb.net/album/27003"]
 
@@ -732,8 +732,8 @@ catalognumber = "FVCG-1162"
 date = "2011-07-27"
 album = "La*La*La ラボリューション / アフィリア・サーガ・イースト [豪華盤] Disc 2 (DVD)"
 tracks = [
-    [1, "La*La*Laラボリューション （MUSIC VIDEO）", "アフィリア・サーガ・イースト", 0],
-    [2, "La*La*Laラボリューション （MUSIC VIDEO）（Another Ver）", "アフィリア・サーガ・イースト", 0],
+    [1, "La*La*Laラボリューション （MUSIC VIDEO）", "アフィリア・サーガ・イースト", 1],
+    [2, "La*La*Laラボリューション （MUSIC VIDEO）（Another Ver）", "アフィリア・サーガ・イースト", 1],
     [3, "特典映像", "アフィリア・サーガ・イースト", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/96f3e32d-d0c1-4647-a287-ca66f473e067", "https://vgmdb.net/album/27003"]
@@ -743,10 +743,10 @@ catalognumber = "FVCG-1164"
 date = "2011-07-27"
 album = "La*La*La ラボリューション / アフィリア・サーガ・イースト"
 tracks = [
-    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [2, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
+    [3, "La*La*Laラボリューション (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "TANTEI☆ラプソディ (off vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4c03ede0-9d60-498e-a420-d73329594d02", "https://vgmdb.net/album/27001"]
 
@@ -755,8 +755,8 @@ catalognumber = "MFXT-0003EX"
 date = "2011-08-24"
 album = "STEINS;GATE 未来ガジェットコンパクトディスク3号 キャラソン「メイクイーンの午後3時」"
 tracks = [
-    [1, "メイクイーンの午後3時", "椎名まゆり(cv.花澤香菜)、フェイリス・ニャンニャン(cv.桃井はるこ)", 0],
-    [2, "メイクイーンの午後3時 (Off Vocal)", "椎名まゆり(花澤香菜) & フェイリス・ニャンニャン(桃井はるこ)", 0],
+    [1, "メイクイーンの午後3時", "椎名まゆり(cv.花澤香菜)、フェイリス・ニャンニャン(cv.桃井はるこ)", 1],
+    [2, "メイクイーンの午後3時 (Off Vocal)", "椎名まゆり(花澤香菜) & フェイリス・ニャンニャン(桃井はるこ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a91971b4-f418-4209-be11-6335b37b58b6", "https://vgmdb.net/album/28809"]
 
@@ -765,7 +765,7 @@ catalognumber = "N/A"
 date = "2011-09-10"
 album = "コンプティーク2011年10月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD"
 tracks = [
-    [1, "コンプティーク2011年10月号付録", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃), 音更千世(CV:味里)", 0],
+    [1, "コンプティーク2011年10月号付録", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃), 音更千世(CV:味里)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b7aeb39f-bba5-4623-a66f-cff2dd759566", "https://vgmdb.net/album/30450"]
 
@@ -774,21 +774,21 @@ catalognumber = "FVCG-1173"
 date = "2011-09-21"
 album = "Science Adventure Dance Remix"
 tracks = [
-    [1, "スカイクラッドの観測者", "いとうかなこ", 0],
+    [1, "スカイクラッドの観測者", "いとうかなこ", 1],
     [2, "Find the blue", "いとうかなこ", 0],
     [3, "Desire Blue sky", "いとうかなこ", 0],
     [4, "fake me", "いとうかなこ", 0],
     [5, "Fetishism Ark", "いとうかなこ", 0],
     [6, "F.D.D.", "いとうかなこ", 0],
-    [7, "A.R.", "いとうかなこ", 0],
+    [7, "A.R.", "いとうかなこ", 1],
     [8, "密教の首飾り", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [9, "磔のミサ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [10, "シンクロしようよ", "nao", 0],
     [11, "フラグ立てようよ", "nao", 0],
-    [12, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [13, "Gate of Steiner", "阿保剛", 0],
-    [14, "宇宙エンジニア", "いとうかなこ", 0],
-    [15, "Hacking to the Gate", "いとうかなこ", 0],
+    [12, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [13, "Gate of Steiner", "阿保剛", 1],
+    [14, "宇宙エンジニア", "いとうかなこ", 1],
+    [15, "Hacking to the Gate", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fdf79224-5b05-45cf-8db7-f88ebb138c46", "https://vgmdb.net/album/27427"]
 
@@ -797,7 +797,7 @@ catalognumber = "N/A"
 date = "2011-09-26"
 album = "シュタインズ・ゲート コンプエース オリジナルドラマCD"
 tracks = [
-    [1, "Unknown Title", "", 0],
+    [1, "Unknown Title", "", 1],
 ]
 links = ["https://vgmdb.net/album/30451"]
 
@@ -822,18 +822,18 @@ catalognumber = "FVCG-1179"
 date = "2011-10-26"
 album = "VECTOR / いとうかなこ Vocal"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
     [2, "Fetishism Ark", "いとうかなこ", 0],
     [3, "この空の彼方に", "いとうかなこ", 0],
-    [4, "A.R.", "いとうかなこ", 0],
-    [5, "Star-Crossed", "いとうかなこ", 0],
+    [4, "A.R.", "いとうかなこ", 1],
+    [5, "Star-Crossed", "いとうかなこ", 1],
     [6, "キズナノミライ", "いとうかなこ", 0],
     [7, "果てしない蒼空へ", "いとうかなこ", 0],
-    [8, "永遠のベクトル", "いとうかなこ", 0],
-    [9, "宇宙エンジニア", "いとうかなこ", 0],
-    [10, "リライアンス", "いとうかなこ", 0],
+    [8, "永遠のベクトル", "いとうかなこ", 1],
+    [9, "宇宙エンジニア", "いとうかなこ", 1],
+    [10, "リライアンス", "いとうかなこ", 1],
     [11, "Fly to the sky", "いとうかなこ", 0],
-    [12, "スカイクラッドの観測者-Remix-", "いとうかなこ", 0],
+    [12, "スカイクラッドの観測者-Remix-", "いとうかなこ", 1],
     [13, "Amaranthine", "いとうかなこ", 0],
     [14, "素顔のままで", "いとうかなこ", 0],
 ]
@@ -859,18 +859,18 @@ catalognumber = "FVCG-1180"
 date = "2011-10-26"
 album = "VECTOR / いとうかなこ"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
     [2, "Fetishism Ark", "いとうかなこ", 0],
     [3, "この空の彼方に", "いとうかなこ", 0],
-    [4, "A.R.", "いとうかなこ", 0],
-    [5, "Star-Crossed", "いとうかなこ", 0],
+    [4, "A.R.", "いとうかなこ", 1],
+    [5, "Star-Crossed", "いとうかなこ", 1],
     [6, "キズナノミライ", "いとうかなこ", 0],
     [7, "果てしない蒼空へ", "いとうかなこ", 0],
-    [8, "永遠のベクトル", "いとうかなこ", 0],
-    [9, "宇宙エンジニア", "いとうかなこ", 0],
-    [10, "リライアンス", "いとうかなこ", 0],
+    [8, "永遠のベクトル", "いとうかなこ", 1],
+    [9, "宇宙エンジニア", "いとうかなこ", 1],
+    [10, "リライアンス", "いとうかなこ", 1],
     [11, "Fly to the sky", "いとうかなこ", 0],
-    [12, "スカイクラッドの観測者-Remix-", "いとうかなこ", 0],
+    [12, "スカイクラッドの観測者-Remix-", "いとうかなこ", 1],
     [13, "Amaranthine", "いとうかなこ", 0],
     [14, "素顔のままで", "いとうかなこ", 0],
 ]
@@ -881,24 +881,24 @@ catalognumber = "FPBD-0205"
 date = "2011-10-28"
 album = "Steins;Gate 8bit Sharbo Z1版 オリジナル サウンドトラック"
 tracks = [
-    [1, "スカイクラッドの観測者 (Sharbo Z1版)", "阿保剛", 0],
-    [2, "Gate of steiner (Sharbo Z1版)", "阿保剛", 0],
-    [3, "Laboratory (Sharbo Z1版)", "阿保剛", 0],
-    [4, "Noisy times (Sharbo Z1版)", "阿保剛", 0],
-    [5, "Explanation (Sharbo Z1版)", "阿保剛", 0],
-    [6, "Solitude (Sharbo Z1版)", "阿保剛", 0],
+    [1, "スカイクラッドの観測者 (Sharbo Z1版)", "阿保剛", 1],
+    [2, "Gate of steiner (Sharbo Z1版)", "阿保剛", 1],
+    [3, "Laboratory (Sharbo Z1版)", "阿保剛", 1],
+    [4, "Noisy times (Sharbo Z1版)", "阿保剛", 1],
+    [5, "Explanation (Sharbo Z1版)", "阿保剛", 1],
+    [6, "Solitude (Sharbo Z1版)", "阿保剛", 1],
     [7, "Beginning of fight (Sharbo Z1版)", "阿保剛", 0],
-    [8, "The Limit (Sharbo Z1版)", "阿保剛", 0],
-    [9, "Crossroads (Sharbo Z1版)", "阿保剛", 0],
-    [10, "Walking on sleeping (Sharbo Z1版)", "阿保剛", 0],
-    [11, "Village (Sharbo Z1版)", "阿保剛", 0],
-    [12, "Precaution (Sharbo Z1版)", "阿保剛", 0],
-    [13, "Over the sky (Sharbo Z1版)", "阿保剛", 0],
-    [14, "Reunion (Sharbo Z1版)", "阿保剛", 0],
-    [15, "Easygoingness (Sharbo Z1版)", "阿保剛", 0],
-    [16, "OPERATION SKULD (Sharbo Z1版)", "阿保剛", 0],
-    [17, "Gate of steiner Ringing (Sharbo Z1版)", "阿保剛", 0],
-    [18, "Gate of steiner 2nd Edition ver1.02 (Sharbo Z1版)", "阿保剛", 0],
+    [8, "The Limit (Sharbo Z1版)", "阿保剛", 1],
+    [9, "Crossroads (Sharbo Z1版)", "阿保剛", 1],
+    [10, "Walking on sleeping (Sharbo Z1版)", "阿保剛", 1],
+    [11, "Village (Sharbo Z1版)", "阿保剛", 1],
+    [12, "Precaution (Sharbo Z1版)", "阿保剛", 1],
+    [13, "Over the sky (Sharbo Z1版)", "阿保剛", 1],
+    [14, "Reunion (Sharbo Z1版)", "阿保剛", 1],
+    [15, "Easygoingness (Sharbo Z1版)", "阿保剛", 1],
+    [16, "OPERATION SKULD (Sharbo Z1版)", "阿保剛", 1],
+    [17, "Gate of steiner Ringing (Sharbo Z1版)", "阿保剛", 1],
+    [18, "Gate of steiner 2nd Edition ver1.02 (Sharbo Z1版)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7b9e714e-a395-4450-9227-9a363aedeef9", "https://vgmdb.net/album/29390"]
 
@@ -907,59 +907,59 @@ catalognumber = "FPBD-0203"
 date = "2011-10-28"
 album = "シュタインズ・ゲート 変移空間のオクテット ミュージックCD"
 tracks = [
-    [1, "スカイクラッドの観測者 [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [2, "Gate of steiner [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [3, "Laboratory [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [4, "Noisy times [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [5, "Explanation [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [6, "Solitude [MEC PC-8081mk2SR版]", "阿保剛", 0],
+    [1, "スカイクラッドの観測者 [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [2, "Gate of steiner [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [3, "Laboratory [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [4, "Noisy times [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [5, "Explanation [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [6, "Solitude [MEC PC-8081mk2SR版]", "阿保剛", 1],
     [7, "Beginning of fight [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [8, "The Limit [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [9, "Crossroads [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [10, "Walking on sleeping [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [11, "Village [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [12, "Precaution [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [13, "Over the sky [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [14, "Reunion [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [15, "Easygoingness [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [16, "OPERATION SKULD [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [17, "Gate of steiner Ringing [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [18, "Gate of steiner 2nd Edition ver1.02 [MEC PC-8081mk2SR版]", "阿保剛", 0],
-    [19, "スカイクラッドの観測者 [MEC PC-6010mk2版]", "阿保剛", 0],
-    [20, "Gate of steiner [MEC PC-6010mk2版]", "阿保剛", 0],
-    [21, "Laboratory [MEC PC-6010mk2版]", "阿保剛", 0],
-    [22, "Noisy times [MEC PC-6010mk2版]", "阿保剛", 0],
-    [23, "Explanation [MEC PC-6010mk2版]", "阿保剛", 0],
-    [24, "Solitude [MEC PC-6010mk2版]", "阿保剛", 0],
+    [8, "The Limit [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [9, "Crossroads [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [10, "Walking on sleeping [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [11, "Village [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [12, "Precaution [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [13, "Over the sky [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [14, "Reunion [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [15, "Easygoingness [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [16, "OPERATION SKULD [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [17, "Gate of steiner Ringing [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [18, "Gate of steiner 2nd Edition ver1.02 [MEC PC-8081mk2SR版]", "阿保剛", 1],
+    [19, "スカイクラッドの観測者 [MEC PC-6010mk2版]", "阿保剛", 1],
+    [20, "Gate of steiner [MEC PC-6010mk2版]", "阿保剛", 1],
+    [21, "Laboratory [MEC PC-6010mk2版]", "阿保剛", 1],
+    [22, "Noisy times [MEC PC-6010mk2版]", "阿保剛", 1],
+    [23, "Explanation [MEC PC-6010mk2版]", "阿保剛", 1],
+    [24, "Solitude [MEC PC-6010mk2版]", "阿保剛", 1],
     [25, "Beginning of fight [MEC PC-6010mk2版]", "阿保剛", 0],
-    [26, "The Limit [MEC PC-6010mk2版]", "阿保剛", 0],
-    [27, "Crossroads [MEC PC-6010mk2版]", "阿保剛", 0],
-    [28, "Walking on sleeping [MEC PC-6010mk2版]", "阿保剛", 0],
-    [29, "Village [MEC PC-6010mk2版]", "阿保剛", 0],
-    [30, "Precaution [MEC PC-6010mk2版]", "阿保剛", 0],
-    [31, "Over the sky [MEC PC-6010mk2版]", "阿保剛", 0],
-    [32, "Reunion [MEC PC-6010mk2版]", "阿保剛", 0],
-    [33, "Easygoingness [MEC PC-6010mk2版]", "阿保剛", 0],
-    [34, "OPERATION SKULD [MEC PC-6010mk2版]", "阿保剛", 0],
-    [35, "Gate of steiner Ringing [MEC PC-6010mk2版]", "阿保剛", 0],
-    [36, "スカイクラッドの観測者 [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [37, "Gate of steiner [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [38, "Laboratory [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [39, "Noisy times [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [40, "Explanation [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [41, "Solitude [MEC PC-8081mk2MH版]", "阿保剛", 0],
+    [26, "The Limit [MEC PC-6010mk2版]", "阿保剛", 1],
+    [27, "Crossroads [MEC PC-6010mk2版]", "阿保剛", 1],
+    [28, "Walking on sleeping [MEC PC-6010mk2版]", "阿保剛", 1],
+    [29, "Village [MEC PC-6010mk2版]", "阿保剛", 1],
+    [30, "Precaution [MEC PC-6010mk2版]", "阿保剛", 1],
+    [31, "Over the sky [MEC PC-6010mk2版]", "阿保剛", 1],
+    [32, "Reunion [MEC PC-6010mk2版]", "阿保剛", 1],
+    [33, "Easygoingness [MEC PC-6010mk2版]", "阿保剛", 1],
+    [34, "OPERATION SKULD [MEC PC-6010mk2版]", "阿保剛", 1],
+    [35, "Gate of steiner Ringing [MEC PC-6010mk2版]", "阿保剛", 1],
+    [36, "スカイクラッドの観測者 [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [37, "Gate of steiner [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [38, "Laboratory [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [39, "Noisy times [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [40, "Explanation [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [41, "Solitude [MEC PC-8081mk2MH版]", "阿保剛", 1],
     [42, "Beginning of fight [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [43, "The Limit [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [44, "Crossroads [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [45, "Walking on sleeping [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [46, "Village [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [47, "Precaution [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [48, "Over the sky [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [49, "Reunion [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [50, "Easygoingness [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [51, "OPERATION SKULD [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [52, "Gate of steiner Ringing [MEC PC-8081mk2MH版]", "阿保剛", 0],
-    [53, "Gate of steiner 2nd Edition ver1.02 [MEC PC-8081mk2MH版]", "阿保剛", 0],
+    [43, "The Limit [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [44, "Crossroads [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [45, "Walking on sleeping [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [46, "Village [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [47, "Precaution [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [48, "Over the sky [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [49, "Reunion [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [50, "Easygoingness [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [51, "OPERATION SKULD [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [52, "Gate of steiner Ringing [MEC PC-8081mk2MH版]", "阿保剛", 1],
+    [53, "Gate of steiner 2nd Edition ver1.02 [MEC PC-8081mk2MH版]", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/f38fe319-fb5f-475e-b155-99ce5db99e55", "https://vgmdb.net/album/29833"]
 
@@ -968,24 +968,24 @@ catalognumber = "FPBD-0204"
 date = "2011-10-28"
 album = "STEINS;GATE 8bit Soundtrack Sharbo Z1 turbo版"
 tracks = [
-    [1, "スカイクラッドの観測者 (Sharbo Z1版)", "阿保剛", 0],
-    [2, "Gate of steiner (Sharbo Z1版)", "阿保剛", 0],
-    [3, "Laboratory (Sharbo Z1版)", "阿保剛", 0],
-    [4, "Noisy times (Sharbo Z1版)", "阿保剛", 0],
-    [5, "Explanation (Sharbo Z1版)", "阿保剛", 0],
-    [6, "Solitude (Sharbo Z1版)", "阿保剛", 0],
+    [1, "スカイクラッドの観測者 (Sharbo Z1版)", "阿保剛", 1],
+    [2, "Gate of steiner (Sharbo Z1版)", "阿保剛", 1],
+    [3, "Laboratory (Sharbo Z1版)", "阿保剛", 1],
+    [4, "Noisy times (Sharbo Z1版)", "阿保剛", 1],
+    [5, "Explanation (Sharbo Z1版)", "阿保剛", 1],
+    [6, "Solitude (Sharbo Z1版)", "阿保剛", 1],
     [7, "Beginning of fight (Sharbo Z1版)", "阿保剛", 0],
-    [8, "The Limit (Sharbo Z1版)", "阿保剛", 0],
-    [9, "Crossroads (Sharbo Z1版)", "阿保剛", 0],
-    [10, "Walking on sleeping (Sharbo Z1版)", "阿保剛", 0],
-    [11, "Village (Sharbo Z1版)", "阿保剛", 0],
-    [12, "Precaution (Sharbo Z1版)", "阿保剛", 0],
-    [13, "Over the sky (Sharbo Z1版)", "阿保剛", 0],
-    [14, "Reunion (Sharbo Z1版)", "阿保剛", 0],
-    [15, "Easygoingness (Sharbo Z1版)", "阿保剛", 0],
-    [16, "OPERATION SKULD (Sharbo Z1版)", "阿保剛", 0],
-    [17, "Gate of steiner Ringing (Sharbo Z1版)", "阿保剛", 0],
-    [18, "Gate of steiner 2nd Edition ver1.02 (Sharbo Z1版)", "阿保剛", 0],
+    [8, "The Limit (Sharbo Z1版)", "阿保剛", 1],
+    [9, "Crossroads (Sharbo Z1版)", "阿保剛", 1],
+    [10, "Walking on sleeping (Sharbo Z1版)", "阿保剛", 1],
+    [11, "Village (Sharbo Z1版)", "阿保剛", 1],
+    [12, "Precaution (Sharbo Z1版)", "阿保剛", 1],
+    [13, "Over the sky (Sharbo Z1版)", "阿保剛", 1],
+    [14, "Reunion (Sharbo Z1版)", "阿保剛", 1],
+    [15, "Easygoingness (Sharbo Z1版)", "阿保剛", 1],
+    [16, "OPERATION SKULD (Sharbo Z1版)", "阿保剛", 1],
+    [17, "Gate of steiner Ringing (Sharbo Z1版)", "阿保剛", 1],
+    [18, "Gate of steiner 2nd Edition ver1.02 (Sharbo Z1版)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cf73467d-5372-4a73-a015-134517d43e9f", "https://vgmdb.net/album/29935"]
 
@@ -994,39 +994,39 @@ catalognumber = ""
 date = "2011-11-02"
 album = "STEINS;GATE 8bit Disc 1"
 tracks = [
-    [1, "スカイクラッドの観測者(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [2, "Gate of steiner(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [3, "Laboratory(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [4, "Noisy times(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [5, "Explanation(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [6, "Solitude(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [7, "Beginning of fight(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [8, "The Limit(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [9, "Crossroads(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [10, "Walking on sleeping(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [11, "Village(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [12, "Precaution(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [13, "Over the sky(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [14, "Reunion(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [15, "Easygoingness(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [16, "OPERATION SKULD(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [17, "Gate of steiner Ringing(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [18, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2SR版)", "阿保剛", 0],
-    [19, "スカイクラッドの観測者(MEC PC-6010mk2版)", "阿保剛", 0],
-    [20, "Gate of steiner(MEC PC-6010mk2版)", "阿保剛", 0],
-    [21, "Laboratory(MEC PC-6010mk2版)", "阿保剛", 0],
-    [22, "Noisy times(MEC PC-6010mk2版)", "阿保剛", 0],
-    [23, "Explanation(MEC PC-6010mk2版)", "阿保剛", 0],
-    [24, "Solitude(MEC PC-6010mk2版)", "阿保剛", 0],
-    [25, "Beginning of fight(MEC PC-6010mk2版)", "阿保剛", 0],
-    [26, "The Limit(MEC PC-6010mk2版)", "阿保剛", 0],
-    [27, "Crossroads(MEC PC-6010mk2版)", "阿保剛", 0],
-    [28, "Walking on sleeping(MEC PC-6010mk2版)", "阿保剛", 0],
-    [29, "Village(MEC PC-6010mk2版)", "阿保剛", 0],
-    [30, "Precaution(MEC PC-6010mk2版)", "阿保剛", 0],
-    [31, "Over the sky(MEC PC-6010mk2版)", "阿保剛", 0],
-    [32, "Reunion(MEC PC-6010mk2版)", "阿保剛", 0],
-    [33, "Easygoingness(MEC PC-6010mk2版)", "阿保剛", 0],
+    [1, "スカイクラッドの観測者(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [2, "Gate of steiner(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [3, "Laboratory(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [4, "Noisy times(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [5, "Explanation(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [6, "Solitude(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [7, "Beginning of fight(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [8, "The Limit(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [9, "Crossroads(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [10, "Walking on sleeping(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [11, "Village(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [12, "Precaution(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [13, "Over the sky(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [14, "Reunion(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [15, "Easygoingness(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [16, "OPERATION SKULD(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [17, "Gate of steiner Ringing(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [18, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2SR版)", "阿保剛", 1],
+    [19, "スカイクラッドの観測者(MEC PC-6010mk2版)", "阿保剛", 1],
+    [20, "Gate of steiner(MEC PC-6010mk2版)", "阿保剛", 1],
+    [21, "Laboratory(MEC PC-6010mk2版)", "阿保剛", 1],
+    [22, "Noisy times(MEC PC-6010mk2版)", "阿保剛", 1],
+    [23, "Explanation(MEC PC-6010mk2版)", "阿保剛", 1],
+    [24, "Solitude(MEC PC-6010mk2版)", "阿保剛", 1],
+    [25, "Beginning of fight(MEC PC-6010mk2版)", "阿保剛", 1],
+    [26, "The Limit(MEC PC-6010mk2版)", "阿保剛", 1],
+    [27, "Crossroads(MEC PC-6010mk2版)", "阿保剛", 1],
+    [28, "Walking on sleeping(MEC PC-6010mk2版)", "阿保剛", 1],
+    [29, "Village(MEC PC-6010mk2版)", "阿保剛", 1],
+    [30, "Precaution(MEC PC-6010mk2版)", "阿保剛", 1],
+    [31, "Over the sky(MEC PC-6010mk2版)", "阿保剛", 1],
+    [32, "Reunion(MEC PC-6010mk2版)", "阿保剛", 1],
+    [33, "Easygoingness(MEC PC-6010mk2版)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/21ed944c-e330-4c72-b5d6-bccf7557a022"]
 
@@ -1035,26 +1035,26 @@ catalognumber = ""
 date = "2011-11-02"
 album = "STEINS;GATE 8bit Disc 2"
 tracks = [
-    [1, "OPERATION SKULD(MEC PC-6010mk2版)", "阿保剛", 0],
-    [2, "Gate of steiner Ringing(MEC PC-6010mk2版)", "阿保剛", 0],
-    [3, "スカイクラッドの観測者(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [4, "Gate of steiner(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [5, "Laboratory(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [6, "Noisy times(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [7, "Explanation(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [8, "Solitude(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [9, "Beginning of fight(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [10, "The Limit(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [11, "Crossroads(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [12, "Walking on sleeping(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [13, "Village(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [14, "Precaution(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [15, "Over the sky(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [16, "Reunion(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [17, "Easygoingness(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [18, "OPERATION SKULD(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [19, "Gate of steiner Ringing(MEC PC-8081mk2MH版)", "阿保剛", 0],
-    [20, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2MH版)", "阿保剛", 0],
+    [1, "OPERATION SKULD(MEC PC-6010mk2版)", "阿保剛", 1],
+    [2, "Gate of steiner Ringing(MEC PC-6010mk2版)", "阿保剛", 1],
+    [3, "スカイクラッドの観測者(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [4, "Gate of steiner(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [5, "Laboratory(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [6, "Noisy times(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [7, "Explanation(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [8, "Solitude(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [9, "Beginning of fight(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [10, "The Limit(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [11, "Crossroads(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [12, "Walking on sleeping(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [13, "Village(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [14, "Precaution(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [15, "Over the sky(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [16, "Reunion(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [17, "Easygoingness(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [18, "OPERATION SKULD(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [19, "Gate of steiner Ringing(MEC PC-8081mk2MH版)", "阿保剛", 1],
+    [20, "Gate of steiner 2nd Edition ver1.02(MEC PC-8081mk2MH版)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/21ed944c-e330-4c72-b5d6-bccf7557a022"]
 
@@ -1063,8 +1063,8 @@ catalognumber = "MFXT-0006EX"
 date = "2011-11-25"
 album = "STEINS;GATE 未来ガジェットコンパクトディスク6号 キャラソン「迷宮のイデア」"
 tracks = [
-    [1, "迷宮のイデア", "牧瀬紅莉栖(cv.今井麻美)", 0],
-    [2, "迷宮のイデア (Off Vocal)", "牧瀬紅莉栖 (cv.今井麻美)", 0],
+    [1, "迷宮のイデア", "牧瀬紅莉栖(cv.今井麻美)", 1],
+    [2, "迷宮のイデア (Off Vocal)", "牧瀬紅莉栖 (cv.今井麻美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/7dce5dee-7e29-477c-94f9-7bb94becdf32", "https://vgmdb.net/album/30418"]
 
@@ -1073,19 +1073,19 @@ catalognumber = "FVCG-1184"
 date = "2011-12-21"
 album = "Revival Prophecy / ファンタズム(FES cv.榊原ゆい） Arrangement, Vocal"
 tracks = [
-    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [2, "空と地上のクレアシオン", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [5, "イノセンス ～殺戮の創世記詩編 最終章より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [6, "祈りのヴィオレット", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [7, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [8, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [7, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [8, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [9, "深淵のルミエラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [10, "翡翠のカヴィリエーレ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [11, "罪過に契約の血を ～アルバムLimitedバージョン～", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [12, "Prophecy ～Gate of Steiner～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [13, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [13, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/245be523-df35-4207-9ddc-3b798620870e", "https://vgmdb.net/album/30453"]
 
@@ -1105,19 +1105,19 @@ catalognumber = "FVCG-1185"
 date = "2011-12-21"
 album = "Revival Prophecy / ファンタズム(FES cv.榊原ゆい）"
 tracks = [
-    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [2, "空と地上のクレアシオン", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [5, "イノセンス ～殺戮の創世記詩編 最終章より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [6, "祈りのヴィオレット", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [7, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [8, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [7, "EUPHORIA ～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [8, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [9, "深淵のルミエラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [10, "翡翠のカヴィリエーレ", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [11, "罪過に契約の血を ～アルバムLimitedバージョン～", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [12, "Prophecy ～Gate of Steiner～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [13, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [13, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9108abb3-2cfb-4117-a050-37cf10550ec7", "https://vgmdb.net/album/30454"]
 
@@ -1126,11 +1126,11 @@ catalognumber = "N/A"
 date = "2011-12-31"
 album = "STEINS;PROGRESSION 16bit VOLUME 0.111231"
 tracks = [
-    [1, "Gate of steiner (SFC版)", "", 0],
-    [2, "Laboratory (SFC版)", "", 0],
-    [3, "Noisy times (SFC版)", "", 0],
-    [4, "Suspicious eyes (SFC版)", "", 0],
-    [5, "Village (SFC版)", "", 0],
+    [1, "Gate of steiner (SFC版)", "", 1],
+    [2, "Laboratory (SFC版)", "", 1],
+    [3, "Noisy times (SFC版)", "", 1],
+    [4, "Suspicious eyes (SFC版)", "", 1],
+    [5, "Village (SFC版)", "", 1],
 ]
 links = ["https://vgmdb.net/album/49059"]
 
@@ -1139,28 +1139,28 @@ catalognumber = "MFXT-0008EX"
 date = "2012-01-25"
 album = "STEINS;GATE 未来ガジェットコンパクトディスク8号 サウンドトラックⅡ「イベント・ホライゾン」"
 tracks = [
-    [1, "Promise", "阿保剛", 0],
-    [2, "August 13 -Explanation-", "阿保剛", 0],
-    [3, "ラボの日常", "村上純", 0],
-    [4, "Warmth of days -Promise-", "阿保剛", 0],
-    [5, "Butterfly effect", "阿保剛", 0],
-    [6, "Timeleap", "阿保剛", 0],
-    [7, "脅威", "村上純", 0],
-    [8, "対峙", "村上純", 0],
-    [9, "One of selection -Gate of steiner-", "阿保剛", 0],
-    [10, "Gate of steiner", "阿保剛", 0],
-    [11, "Believe Me", "阿保剛", 0],
-    [12, "Christina I", "阿保剛", 0],
-    [13, "Christina II", "阿保剛", 0],
-    [14, "別れ", "村上純", 0],
-    [15, "Tubes", "村上純", 0],
-    [16, "依存", "村上純", 0],
-    [17, "観測者", "村上純", 0],
-    [18, "My alley", "阿保剛", 0],
-    [19, "Run away!", "阿保剛", 0],
-    [20, "男の娘", "村上純", 0],
-    [21, "最終ミッション", "村上純", 0],
-    [22, "AnotherHeaven ～orchestra～", "須田悦弘", 0],
+    [1, "Promise", "阿保剛", 1],
+    [2, "August 13 -Explanation-", "阿保剛", 1],
+    [3, "ラボの日常", "村上純", 1],
+    [4, "Warmth of days -Promise-", "阿保剛", 1],
+    [5, "Butterfly effect", "阿保剛", 1],
+    [6, "Timeleap", "阿保剛", 1],
+    [7, "脅威", "村上純", 1],
+    [8, "対峙", "村上純", 1],
+    [9, "One of selection -Gate of steiner-", "阿保剛", 1],
+    [10, "Gate of steiner", "阿保剛", 1],
+    [11, "Believe Me", "阿保剛", 1],
+    [12, "Christina I", "阿保剛", 1],
+    [13, "Christina II", "阿保剛", 1],
+    [14, "別れ", "村上純", 1],
+    [15, "Tubes", "村上純", 1],
+    [16, "依存", "村上純", 1],
+    [17, "観測者", "村上純", 1],
+    [18, "My alley", "阿保剛", 1],
+    [19, "Run away!", "阿保剛", 1],
+    [20, "男の娘", "村上純", 1],
+    [21, "最終ミッション", "村上純", 1],
+    [22, "AnotherHeaven ～orchestra～", "須田悦弘", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4749e26f-43e4-4e4c-8e3d-1f5119dfadfe", "https://vgmdb.net/album/30139"]
 
@@ -1171,7 +1171,7 @@ album = "アンソロジードラマCD「シュタインズ・ゲート」幻視
 tracks = [
     [1, "紅莉栖、コスプレに挑戦？", "宮野真守, 今井麻美, 花澤香菜, 関智一, 田村ゆかり, 桃井はるこ, 小林ゆう, 後藤沙緒里, てらそままさき & 山本彩乃", 0],
     [2, "ラボの休日", "宮野真守, 今井麻美, 花澤香菜, 関智一, 田村ゆかり, 桃井はるこ, 小林ゆう, 後藤沙緒里, てらそままさき & 山本彩乃", 0],
-    [3, "キャストコメント", "宮野真守, 今井麻美, 花澤香菜, 関智一, 田村ゆかり, 桃井はるこ, 小林ゆう, 後藤沙緒里, てらそままさき & 山本彩乃", 0],
+    [3, "キャストコメント", "宮野真守, 今井麻美, 花澤香菜, 関智一, 田村ゆかり, 桃井はるこ, 小林ゆう, 後藤沙緒里, てらそままさき & 山本彩乃", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/99b850bc-e9c1-453b-9113-b0021d818720", "https://vgmdb.net/album/30448"]
 
@@ -1180,7 +1180,7 @@ catalognumber = "AVCA-49346"
 date = "2012-01-25"
 album = "THE WORKS~志倉千代丸楽曲集~ 7.0"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
     [2, "ニーハイ・エゴイスト", "アフィリア・サーガ・イースト", 0],
     [3, "ラスト・ジャッジメント", "ARTERY VEIN", 0],
     [4, "シンクロしようよ", "nao", 0],
@@ -1188,14 +1188,14 @@ tracks = [
     [6, "群青のティファレス", "nao", 0],
     [7, "ただ流るるままに", "彩音", 0],
     [8, "レムリアに捧ぐ", "KOKOMI", 0],
-    [9, "聖ナルwktkノ星", "アフィリア・サーガ・イースト", 0],
+    [9, "聖ナルwktkノ星", "アフィリア・サーガ・イースト", 1],
     [10, "瓦礫の中、沈黙ありて", "DystopiaGround", 0],
     [11, "深淵のプロフェシア", "ELISA", 0],
     [12, "遥かなるイディヨナ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [13, "ルミナスの泉 (Ver.2011)", "アフィリア・サーガ・イースト", 0],
-    [14, "A.R.", "いとうかなこ", 0],
+    [13, "ルミナスの泉 (Ver.2011)", "アフィリア・サーガ・イースト", 1],
+    [14, "A.R.", "いとうかなこ", 1],
     [15, "Crest of Knights", "彩音", 0],
-    [16, "スカイクラッドの観測者 \"セルフカヴァー&流田Projectバージョン\"", "志倉千代丸 feat. 流田Project", 0],
+    [16, "スカイクラッドの観測者 \"セルフカヴァー&流田Projectバージョン\"", "志倉千代丸 feat. 流田Project", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0a1b3dfb-34b0-45a3-867f-8a7075221c94", "https://vgmdb.net/album/31002"]
 
@@ -1211,12 +1211,12 @@ tracks = [
     [5, "イノセンス～殺戮の創世記詩編 最終章より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [6, "闇に光を灯す者", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [7, "Prophecy ～Gate of Steiner～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [8, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [8, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [9, "-MC2-", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [10, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [11, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [12, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [13, "EUPHORIA～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [10, "マスカレード ～ノア第三章列王新世紀編より～", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [11, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [12, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [13, "EUPHORIA～償いのレクイエム～", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3a6314f8-7738-41f6-96d0-f7f6648a26b3", "https://vgmdb.net/album/31769"]
 
@@ -1231,8 +1231,8 @@ tracks = [
     [4, "祈りのヴィオレット", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [5, "-MC4-", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [6, "翡翠のカヴィリエーレ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [7, "嘆きのアラベスク", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [8, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [7, "嘆きのアラベスク", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [8, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [9, "-EC-", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [10, "アレルイヤの福音", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [11, "グラジオール", "ファンタズム (FES cv. 榊原ゆい)", 0],
@@ -1245,8 +1245,8 @@ catalognumber = "MFXT-0009EX"
 date = "2012-02-22"
 album = "STEINS;GATE 未来ガジェットコンパクトディスク9号 キャラクターソング「ラボメン☆スピリッツ」"
 tracks = [
-    [1, "ラボメン☆スピリッツ", "岡部倫太郎(cv.宮野真守)、橋田至(cv.関智一)", 0],
-    [2, "ラボメン☆スピリッツ (Off Vocal)", "岡部倫太郎 (cv.宮野真守) & 橋田至 (cv.関智一)", 0],
+    [1, "ラボメン☆スピリッツ", "岡部倫太郎(cv.宮野真守)、橋田至(cv.関智一)", 1],
+    [2, "ラボメン☆スピリッツ (Off Vocal)", "岡部倫太郎 (cv.宮野真守) & 橋田至 (cv.関智一)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/eec2503a-9085-4227-a263-bbe2d08decb4", "https://vgmdb.net/album/31258"]
 
@@ -1255,11 +1255,11 @@ catalognumber = "FVCG-1197"
 date = "2012-05-23"
 album = "非線形ジェニアック / いとうかなこ"
 tracks = [
-    [1, "非線形ジェニアック", "いとうかなこ", 0],
-    [2, "Geometric space", "いとうかなこ", 0],
-    [3, "Another Heaven 2012 Remix Ver.", "いとうかなこ", 0],
-    [4, "非線形ジェニアック (Off Vocal)", "いとうかなこ", 0],
-    [5, "Geometric space (Off Vocal)", "いとうかなこ", 0],
+    [1, "非線形ジェニアック", "いとうかなこ", 1],
+    [2, "Geometric space", "いとうかなこ", 1],
+    [3, "Another Heaven 2012 Remix Ver.", "いとうかなこ", 1],
+    [4, "非線形ジェニアック (Off Vocal)", "いとうかなこ", 1],
+    [5, "Geometric space (Off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/d6b70d0e-e2de-48b5-946d-5e68148fd296", "https://vgmdb.net/album/32169"]
 
@@ -1268,16 +1268,16 @@ catalognumber = "FPBD-0222"
 date = "2012-05-24"
 album = "STEINS;GATE SYMPHONIC MATERIAL"
 tracks = [
-    [1, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [2, "Explanation", "阿保剛", 0],
-    [3, "Laboratory", "阿保剛", 0],
-    [4, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "hesitative consideration", "阿保剛", 0],
-    [6, "宇宙エンジニア", "いとうかなこ", 0],
-    [7, "Assailant", "阿保剛", 0],
-    [8, "OPERATION SKULD", "阿保剛", 0],
-    [9, "非線形ジェニアック", "いとうかなこ", 0],
-    [10, "GATE OF STEINER", "阿保剛", 0],
+    [1, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [2, "Explanation", "阿保剛", 1],
+    [3, "Laboratory", "阿保剛", 1],
+    [4, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "hesitative consideration", "阿保剛", 1],
+    [6, "宇宙エンジニア", "いとうかなこ", 1],
+    [7, "Assailant", "阿保剛", 1],
+    [8, "OPERATION SKULD", "阿保剛", 1],
+    [9, "非線形ジェニアック", "いとうかなこ", 1],
+    [10, "GATE OF STEINER", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e812c10f-6d95-4d26-acb2-6c1889af22ef", "https://vgmdb.net/album/31944"]
 
@@ -1286,10 +1286,10 @@ catalognumber = "YZPB-5007"
 date = "2012-06-13"
 album = "禁断無敵のだーりん / アフィリア・サーガ・イースト"
 tracks = [
-    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
-    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
-    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
+    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
+    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/5013e8c2-2f00-47cb-9e7a-7da666580766", "https://vgmdb.net/album/32378"]
 
@@ -1298,10 +1298,10 @@ catalognumber = "YZPB-5006"
 date = "2012-06-13"
 album = "禁断無敵のだーりん / アフィリア・サーガ・イースト Vocal"
 tracks = [
-    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
-    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
-    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
+    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
+    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9fe6d333-dfbb-4ff9-8a9a-0b37ae8ae0fd", "https://vgmdb.net/album/32379"]
 
@@ -1310,8 +1310,8 @@ catalognumber = "YZPB-5006"
 date = "2012-06-13"
 album = "禁断無敵のだーりん / アフィリア・サーガ・イースト Video"
 tracks = [
-    [1, "禁断無敵のだーりん MusicClip", "アフィリア・サーガ・イースト", 0],
-    [2, "禁断無敵のだーりん MusicClip（Dance Ver.）", "アフィリア・サーガ・イースト", 0],
+    [1, "禁断無敵のだーりん MusicClip", "アフィリア・サーガ・イースト", 1],
+    [2, "禁断無敵のだーりん MusicClip（Dance Ver.）", "アフィリア・サーガ・イースト", 1],
     [3, "PSP & PS3版「STEINS;GATE比翼恋理のだーりん」OP MOVIE", "アフィリア・サーガ・イースト", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/9fe6d333-dfbb-4ff9-8a9a-0b37ae8ae0fd", "https://vgmdb.net/album/32379"]
@@ -1321,10 +1321,10 @@ catalognumber = "YZPB-5005"
 date = "2012-06-13"
 album = "禁断無敵のだーりん / アフィリア・サーガ・イースト Vocal"
 tracks = [
-    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
-    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
-    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 0],
-    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 0],
+    [1, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
+    [2, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
+    [3, "禁断無敵のだーりん (off Vocal)", "アフィリア・サーガ・イースト", 1],
+    [4, "エシカル〜ありがとうを伝えたい〜 (off Vocal)", "アフィリア・サーガ・イースト", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a3a46cd7-a700-4f21-8a09-49210bfe63a5", "https://vgmdb.net/album/32380"]
 
@@ -1333,8 +1333,8 @@ catalognumber = "YZPB-5005"
 date = "2012-06-13"
 album = "禁断無敵のだーりん / アフィリア・サーガ・イースト Video"
 tracks = [
-    [1, "禁断無敵のだーりん MusicClip", "アフィリア・サーガ・イースト", 0],
-    [2, "禁断無敵のだーりん MusicClip（私服 Ver.）", "アフィリア・サーガ・イースト", 0],
+    [1, "禁断無敵のだーりん MusicClip", "アフィリア・サーガ・イースト", 1],
+    [2, "禁断無敵のだーりん MusicClip（私服 Ver.）", "アフィリア・サーガ・イースト", 1],
     [3, "特典映像", "アフィリア・サーガ・イースト", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/a3a46cd7-a700-4f21-8a09-49210bfe63a5", "https://vgmdb.net/album/32380"]
@@ -1354,7 +1354,7 @@ tracks = [
     [8, "風の辿り着く場所 (LU-I Remix)", "LU-I", 0],
     [9, "カワルミライ (LU-I Remix)", "LU-I", 0],
     [10, "Treasure (LU-I Remix)", "LU-I", 0],
-    [11, "Hacking to the Gate (LU-I Remix)", "LU-I", 0],
+    [11, "Hacking to the Gate (LU-I Remix)", "LU-I", 1],
     [12, "oath sign (LU-I Remix)", "LU-I", 0],
     [13, "奈落の花 (LU-I Remix)", "LU-I", 0],
 ]
@@ -1398,7 +1398,7 @@ tracks = [
     [2, "めちゃモテ I LOVE YOU (crabMixx)", "", 0],
     [3, "ジャージ部魂！(DJ Furby Remix)", "", 0],
     [4, "ビードロ模様 (KIRAKIRA Electro Remix)", "", 0],
-    [5, "Hacking to the gate Funkot", "", 0],
+    [5, "Hacking to the gate Funkot", "", 1],
     [6, "太陽 (eastroro", "", 0],
     [7, "カワルミライ(HiRoSYO Remix)", "", 0],
 ]
@@ -1411,14 +1411,14 @@ album = "Archism / アフィリア・サーガ【DVD付盤】 Disc 1 (CD)"
 tracks = [
     [1, "恋のWizard百年戦争", "アフィリア・サーガ", 0],
     [2, "倍速恋愛時計", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
+    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
     [4, "ヴィーナス☆女神っくす!", "アフィリア・サーガ・イースト", 0],
     [5, "未来が私を待っている", "アフィリア・サーガ・イースト", 0],
-    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
+    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
     [7, "Everlasting Friends", "アフィリア・サーガ", 0],
-    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
+    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
     [9, "SURVIVE!!", "アフィリア・サーガ・イースト", 0],
-    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
+    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
     [11, "Happy! Puppy!", "アフィリア・サーガ", 0],
     [12, "遥かなる時空の旅人", "アフィリア・サーガ", 0],
     [13, "Nighty night ～オヤスミセカイ～", "アフィリア・サーガ", 0],
@@ -1446,14 +1446,14 @@ album = "Archism / アフィリア・サーガ"
 tracks = [
     [1, "恋のWizard百年戦争", "アフィリア・サーガ", 0],
     [2, "倍速恋愛時計", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
+    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
     [4, "ヴィーナス☆女神っくす!", "アフィリア・サーガ・イースト", 0],
     [5, "未来が私を待っている", "アフィリア・サーガ・イースト", 0],
-    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
+    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
     [7, "Everlasting Friends", "アフィリア・サーガ", 0],
-    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
+    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
     [9, "SURVIVE!!", "アフィリア・サーガ・イースト", 0],
-    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
+    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
     [11, "Happy! Puppy!", "アフィリア・サーガ", 0],
     [12, "遥かなる時空の旅人", "アフィリア・サーガ", 0],
     [13, "Nighty night ～オヤスミセカイ～", "アフィリア・サーガ", 0],
@@ -1467,18 +1467,18 @@ album = "Archism / アフィリア・サーガ【豪華盤】 Vocal"
 tracks = [
     [1, "恋のWizard百年戦争", "アフィリア・サーガ", 0],
     [2, "倍速恋愛時計", "アフィリア・サーガ・イースト", 0],
-    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
+    [3, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
     [4, "ヴィーナス☆女神っくす!", "アフィリア・サーガ・イースト", 0],
     [5, "未来が私を待っている", "アフィリア・サーガ・イースト", 0],
-    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 0],
+    [6, "エシカル〜ありがとうを伝えたい〜", "アフィリア・サーガ・イースト", 1],
     [7, "Everlasting Friends", "アフィリア・サーガ", 0],
-    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 0],
+    [8, "TANTEI☆ラプソディ", "アフィリア・サーガ・イースト", 1],
     [9, "SURVIVE!!", "アフィリア・サーガ・イースト", 0],
-    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
+    [10, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
     [11, "Happy! Puppy!", "アフィリア・サーガ", 0],
     [12, "遥かなる時空の旅人", "アフィリア・サーガ", 0],
     [13, "Nighty night ～オヤスミセカイ～", "アフィリア・サーガ", 0],
-    [14, "プラチナ (ANIMEny DJs remix)", "アフィリア・サーガ・イースト", 0],
+    [14, "プラチナ (ANIMEny DJs remix)", "アフィリア・サーガ・イースト", 1],
     [15, "空色デイズ (PandaBoY remix)", "アフィリア・サーガ・イースト", 0],
     [16, "恋をゲームにしないで! (ヒゲドライバー remix)", "アフィリア・サーガ", 0],
 ]
@@ -1507,24 +1507,24 @@ date = "2013-04-14"
 album = "Archism / アフィリア・サーガ【豪華盤】 Video Disc 3"
 tracks = [
     [1, "イントロダクション", "アフィリア・サーガ", 0],
-    [2, "Dearセンパイ♡～メンバー自己紹介ソング", "アフィリア・サーガ", 0],
+    [2, "Dearセンパイ♡～メンバー自己紹介ソング", "アフィリア・サーガ", 1],
     [3, "～MC～", "アフィリア・サーガ", 0],
     [4, "恋をゲームにしないで！", "アフィリア・サーガ", 0],
-    [5, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
+    [5, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
     [6, "ニーハイ・エゴイスト", "アフィリア・サーガ", 0],
-    [7, "聖ナルwktkノ星", "アフィリア・サーガ", 0],
-    [8, "My White Ribbon", "アフィリア・サーガ", 0],
+    [7, "聖ナルwktkノ星", "アフィリア・サーガ", 1],
+    [8, "My White Ribbon", "アフィリア・サーガ", 1],
     [9, "「ありがとう」のメッセージ", "アフィリア・サーガ", 0],
-    [10, "エシカル～ありがとうを伝えたい～", "アフィリア・サーガ", 0],
-    [11, "禁断無敵のだーりん", "アフィリア・サーガ", 0],
+    [10, "エシカル～ありがとうを伝えたい～", "アフィリア・サーガ", 1],
+    [11, "禁断無敵のだーりん", "アフィリア・サーガ", 1],
     [12, "メリディンの祈り", "アフィリア・サーガ", 0],
     [13, "教育的指導！", "アフィリア・サーガ", 0],
-    [14, "ワタシ☆LOVEな☆オトメ", "アフィリア・サーガ", 0],
+    [14, "ワタシ☆LOVEな☆オトメ", "アフィリア・サーガ", 1],
     [15, "倍速恋愛時計", "アフィリア・サーガ", 0],
     [16, "放課後_ロマンス", "アフィリア・サーガ", 0],
     [17, "～アンコールMC～", "アフィリア・サーガ", 0],
     [18, "未来が私を待っている", "アフィリア・サーガ", 0],
-    [19, "ルミナスの泉", "アフィリア・サーガ", 0],
+    [19, "ルミナスの泉", "アフィリア・サーガ", 1],
     [20, "飛行実習～Learn To Fly～", "アフィリア・サーガ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/14c31d18-97f6-4631-b6b7-44a9fe9d2e18", "https://vgmdb.net/album/37761"]
@@ -1534,20 +1534,20 @@ catalognumber = "FVCG-1231"
 date = "2013-04-24"
 album = "Re:Set / Zwei Vocal"
 tracks = [
-    [1, "Re:Set", "Zwei", 0],
-    [2, "純情スペクトラ", "Zwei", 0],
-    [3, "MONSTER", "Zwei", 0],
-    [4, "幻影のメビウス", "Zwei", 0],
-    [5, "GATEWAY LOVE", "Zwei", 0],
-    [6, "オカルティクスの魔女 (Zwei Ver.)", "Zwei", 0],
-    [7, "メフィストフェレスの黙示", "Zwei", 0],
-    [8, "風の旋律", "Zwei", 0],
-    [9, "あの夏の日の想い出", "Zwei", 0],
-    [10, "ソラノシズク", "Zwei", 0],
-    [11, "イナンナの見た夢", "Zwei", 0],
-    [12, "拡張プレイス", "Zwei", 0],
-    [13, "小指のパラドックス", "Zwei", 0],
-    [14, "Forever More", "Zwei", 0],
+    [1, "Re:Set", "Zwei", 1],
+    [2, "純情スペクトラ", "Zwei", 1],
+    [3, "MONSTER", "Zwei", 1],
+    [4, "幻影のメビウス", "Zwei", 1],
+    [5, "GATEWAY LOVE", "Zwei", 1],
+    [6, "オカルティクスの魔女 (Zwei Ver.)", "Zwei", 1],
+    [7, "メフィストフェレスの黙示", "Zwei", 1],
+    [8, "風の旋律", "Zwei", 1],
+    [9, "あの夏の日の想い出", "Zwei", 1],
+    [10, "ソラノシズク", "Zwei", 1],
+    [11, "イナンナの見た夢", "Zwei", 1],
+    [12, "拡張プレイス", "Zwei", 1],
+    [13, "小指のパラドックス", "Zwei", 1],
+    [14, "Forever More", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/15e2c901-56d2-4178-83b3-3974b1ac86c0", "https://vgmdb.net/album/37828"]
 
@@ -1556,9 +1556,9 @@ catalognumber = "FVCG-1231"
 date = "2013-04-24"
 album = "Re:Set / Zwei Video"
 tracks = [
-    [1, "Re:Set MusicClip", "Zwei", 0],
-    [2, "純情スペクトラ MusicClip", "Zwei", 0],
-    [3, "拡張プレイス ROBOTICS;NOTES OP映像", "Zwei", 0],
+    [1, "Re:Set MusicClip", "Zwei", 1],
+    [2, "純情スペクトラ MusicClip", "Zwei", 1],
+    [3, "拡張プレイス ROBOTICS;NOTES OP映像", "Zwei", 1],
     [4, "特典映像 (Re:Set MusicClip撮影風景)", "Zwei", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/15e2c901-56d2-4178-83b3-3974b1ac86c0", "https://vgmdb.net/album/37828"]
@@ -1568,20 +1568,20 @@ catalognumber = "FVCG-1232"
 date = "2013-04-24"
 album = "Re:Set / Zwei"
 tracks = [
-    [1, "Re:Set", "Zwei", 0],
-    [2, "純情スペクトラ", "Zwei", 0],
-    [3, "MONSTER", "Zwei", 0],
-    [4, "幻影のメビウス", "Zwei", 0],
-    [5, "GATEWAY LOVE", "Zwei", 0],
-    [6, "オカルティクスの魔女 (Zwei Ver.)", "Zwei", 0],
-    [7, "メフィストフェレスの黙示", "Zwei", 0],
-    [8, "風の旋律", "Zwei", 0],
-    [9, "あの夏の日の想い出", "Zwei", 0],
-    [10, "ソラノシズク", "Zwei", 0],
-    [11, "イナンナの見た夢", "Zwei", 0],
-    [12, "拡張プレイス", "Zwei", 0],
-    [13, "小指のパラドックス", "Zwei", 0],
-    [14, "Forever More", "Zwei", 0],
+    [1, "Re:Set", "Zwei", 1],
+    [2, "純情スペクトラ", "Zwei", 1],
+    [3, "MONSTER", "Zwei", 1],
+    [4, "幻影のメビウス", "Zwei", 1],
+    [5, "GATEWAY LOVE", "Zwei", 1],
+    [6, "オカルティクスの魔女 (Zwei Ver.)", "Zwei", 1],
+    [7, "メフィストフェレスの黙示", "Zwei", 1],
+    [8, "風の旋律", "Zwei", 1],
+    [9, "あの夏の日の想い出", "Zwei", 1],
+    [10, "ソラノシズク", "Zwei", 1],
+    [11, "イナンナの見た夢", "Zwei", 1],
+    [12, "拡張プレイス", "Zwei", 1],
+    [13, "小指のパラドックス", "Zwei", 1],
+    [14, "Forever More", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a6e3afa2-a89a-427a-b4b9-14935c59141e", "https://vgmdb.net/album/37827"]
 
@@ -1590,10 +1590,10 @@ catalognumber = "FVCG-1237"
 date = "2013-04-24"
 album = "いつもこの場所で / 彩音"
 tracks = [
-    [1, "いつもこの場所で", "彩音", 0],
-    [2, "Foresight Oscillator", "彩音", 0],
-    [3, "いつもこの場所で (off Vocal)", "彩音", 0],
-    [4, "Foresight Oscillator (off Vocal)", "彩音", 0],
+    [1, "いつもこの場所で", "彩音", 2],
+    [2, "Foresight Oscillator", "彩音", 1],
+    [3, "いつもこの場所で (off Vocal)", "彩音", 1],
+    [4, "Foresight Oscillator (off Vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/faf30589-01bc-4f24-97df-786a66aff479", "https://vgmdb.net/album/37881"]
 
@@ -1602,10 +1602,10 @@ catalognumber = "FVCG-1236"
 date = "2013-04-24"
 album = "あなたの選んだこの時を / いとうかなこ"
 tracks = [
-    [1, "あなたの選んだこの時を", "いとうかなこ", 0],
-    [2, "resolution", "いとうかなこ", 0],
-    [3, "あなたの選んだこの時を (off vocal)", "いとうかなこ", 0],
-    [4, "resolution (off vocal)", "いとうかなこ", 0],
+    [1, "あなたの選んだこの時を", "いとうかなこ", 1],
+    [2, "resolution", "いとうかなこ", 2],
+    [3, "あなたの選んだこの時を (off vocal)", "いとうかなこ", 1],
+    [4, "resolution (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4c1d78e4-043d-4ceb-9c80-0bd142d0d1f3", "https://vgmdb.net/album/37880"]
 
@@ -1616,7 +1616,7 @@ album = "Unlimited Alternatives"
 tracks = [
     [1, "The successor who disappeared", "へるしー素浪人", 0],
     [2, "Chace the Target", "A-dash", 0],
-    [3, "Sensational Time", "A-dash", 0],
+    [3, "Sensational Time", "A-dash", 1],
     [4, "Princess HOEHOE", "椎名治美", 0],
     [5, "Die Insel eines neuen Teufels", "椎名治美", 0],
     [6, "Lullaby in the Mirror", "A-dash", 0],
@@ -1635,10 +1635,10 @@ catalognumber = "FVCG-1241"
 date = "2013-05-29"
 album = "楽園のホログラム / いとうかなこ"
 tracks = [
-    [1, "楽園のホログラム", "いとうかなこ", 0],
-    [2, "掟つしらつゆ", "いとうかなこ", 0],
-    [3, "楽園のホログラム (off vocal)", "いとうかなこ", 0],
-    [4, "掟つしらつゆ (off vocal)", "いとうかなこ", 0],
+    [1, "楽園のホログラム", "いとうかなこ", 1],
+    [2, "掟つしらつゆ", "いとうかなこ", 1],
+    [3, "楽園のホログラム (off vocal)", "いとうかなこ", 1],
+    [4, "掟つしらつゆ (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2a8e52ed-992b-4abc-978f-1d22cfa68814", "https://vgmdb.net/album/37887"]
 
@@ -1647,10 +1647,10 @@ catalognumber = "FVCG-1239"
 date = "2013-05-29"
 album = "フェノグラム / 彩音"
 tracks = [
-    [1, "フェノグラム", "彩音", 0],
-    [2, "かけがえのない想い ずっと一緒に", "彩音", 0],
-    [3, "フェノグラム (off Vocal)", "彩音", 0],
-    [4, "かけがえのない想い ずっと一緒に (off Vocal)", "彩音", 0],
+    [1, "フェノグラム", "彩音", 1],
+    [2, "かけがえのない想い ずっと一緒に", "彩音", 1],
+    [3, "フェノグラム (off Vocal)", "彩音", 1],
+    [4, "かけがえのない想い ずっと一緒に (off Vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2d7b18a4-d549-468b-a841-88099003929e", "https://vgmdb.net/album/37885"]
 
@@ -1659,10 +1659,10 @@ catalognumber = "FVCG-1240"
 date = "2013-05-29"
 album = "楽園のホログラム / いとうかなこ Disc 1 (CD) [FVCG-1240-1]"
 tracks = [
-    [1, "楽園のホログラム", "いとうかなこ", 0],
-    [2, "掟つしらつゆ", "いとうかなこ", 0],
-    [3, "楽園のホログラム (off vocal)", "いとうかなこ", 0],
-    [4, "掟つしらつゆ (off vocal)", "いとうかなこ", 0],
+    [1, "楽園のホログラム", "いとうかなこ", 1],
+    [2, "掟つしらつゆ", "いとうかなこ", 1],
+    [3, "楽園のホログラム (off vocal)", "いとうかなこ", 1],
+    [4, "掟つしらつゆ (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/94ae231d-e4a8-4cd9-8ae3-7df44daf3e54", "https://vgmdb.net/album/37886"]
 
@@ -1671,7 +1671,7 @@ catalognumber = "FVCG-1240"
 date = "2013-05-29"
 album = "楽園のホログラム / いとうかなこ Disc 2 (DVD) [FVCG-1240-2]"
 tracks = [
-    [1, "楽園のホログラム Music Video", "いとうかなこ", 0],
+    [1, "楽園のホログラム Music Video", "いとうかなこ", 1],
     [2, "特典映像", "いとうかなこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/94ae231d-e4a8-4cd9-8ae3-7df44daf3e54", "https://vgmdb.net/album/37886"]
@@ -1681,10 +1681,10 @@ catalognumber = "FVCG-1238"
 date = "2013-05-29"
 album = "フェノグラム / 彩音 Disc 1 (CD) [FVCG-1238-1]"
 tracks = [
-    [1, "フェノグラム", "彩音", 0],
-    [2, "かけがえのない想い ずっと一緒に", "彩音", 0],
-    [3, "フェノグラム (off vocal)", "彩音", 0],
-    [4, "かけがえのない想い ずっと一緒に (off vocal)", "彩音", 0],
+    [1, "フェノグラム", "彩音", 1],
+    [2, "かけがえのない想い ずっと一緒に", "彩音", 1],
+    [3, "フェノグラム (off vocal)", "彩音", 1],
+    [4, "かけがえのない想い ずっと一緒に (off vocal)", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/96e6871e-f4a2-41c6-bc04-54430108bff7", "https://vgmdb.net/album/37884"]
 
@@ -1693,7 +1693,7 @@ catalognumber = "FVCG-1238"
 date = "2013-05-29"
 album = "フェノグラム / 彩音 Disc 2 (DVD) [FVCG-1238-2]"
 tracks = [
-    [1, "フェノグラム (music clip)", "彩音", 0],
+    [1, "フェノグラム (music clip)", "彩音", 1],
     [2, "コメント映像", "彩音", 0],
     [3, "「STEINS;GATE 線形拘束のフェノグラム」 game opening movie", "彩音", 0],
     [4, "「メモリーズオフ6 Complete」 game opening movie", "彩音", 0],
@@ -1705,17 +1705,17 @@ catalognumber = "FVCG-1246"
 date = "2013-06-26"
 album = "STEINS;GATE VOCAL BEST Original Soundtrack, Vocal"
 tracks = [
-    [1, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [2, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "technovision", "いとうかなこ", 0],
-    [5, "A.R.", "いとうかなこ", 0],
-    [6, "Another Heaven", "いとうかなこ", 0],
-    [7, "Hacking to the Gate", "いとうかなこ", 0],
-    [8, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [9, "宇宙エンジニア", "いとうかなこ", 0],
-    [10, "非線形ジェニアック", "いとうかなこ", 0],
-    [11, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [2, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "technovision", "いとうかなこ", 1],
+    [5, "A.R.", "いとうかなこ", 1],
+    [6, "Another Heaven", "いとうかなこ", 1],
+    [7, "Hacking to the Gate", "いとうかなこ", 1],
+    [8, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [9, "宇宙エンジニア", "いとうかなこ", 1],
+    [10, "非線形ジェニアック", "いとうかなこ", 1],
+    [11, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0926d485-3cb7-46ca-846d-11f03165e18d", "https://vgmdb.net/album/38531"]
 
@@ -1724,18 +1724,18 @@ catalognumber = "FVCG-1246"
 date = "2013-06-26"
 album = "STEINS;GATE VOCAL BEST Original Soundtrack, Vocal, Prototype/Unused"
 tracks = [
-    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [2, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
-    [3, "永遠のベクトル", "いとうかなこ", 0],
-    [4, "EUPHORIA 〜償いのレクイエム〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "難攻不落のnew gate", "岡部倫太郎 (cv.宮野真守)", 0],
-    [6, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 0],
-    [7, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 0],
-    [8, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 0],
-    [9, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 0],
-    [10, "儚い記憶のかけら", "漆原るか (cv.小林ゆう)", 0],
-    [11, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 0],
-    [12, "虹色の光の中で", "阿万音鈴羽 (cv.田村ゆかり)", 0],
+    [1, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [2, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
+    [3, "永遠のベクトル", "いとうかなこ", 1],
+    [4, "EUPHORIA 〜償いのレクイエム〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "難攻不落のnew gate", "岡部倫太郎 (cv.宮野真守)", 1],
+    [6, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 1],
+    [7, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 1],
+    [8, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 1],
+    [9, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 1],
+    [10, "儚い記憶のかけら", "漆原るか (cv.小林ゆう)", 1],
+    [11, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 1],
+    [12, "虹色の光の中で", "阿万音鈴羽 (cv.田村ゆかり)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/0926d485-3cb7-46ca-846d-11f03165e18d", "https://vgmdb.net/album/38531"]
 
@@ -1744,30 +1744,30 @@ catalognumber = "FVCG-1247-2"
 date = "2013-07-03"
 album = "STEINS;GATE 線形拘束のフェノグラム サウンドトラック"
 tracks = [
-    [1, "フェノグラム (short ver.)", "彩音", 0],
-    [2, "GATE OF PHENOGRAM", "阿保剛", 0],
-    [3, "Whisper of gaia", "阿保剛", 0],
-    [4, "ALPACAMAN", "阿保剛", 0],
-    [5, "Nervous", "阿保剛", 0],
-    [6, "Distress for you", "阿保剛", 0],
-    [7, "Distress for you -piano-", "阿保剛", 0],
-    [8, "Hack -Gamma vision-", "阿保剛", 0],
-    [9, "GATE OF PHENOGRAM -piano-", "阿保剛", 0],
-    [10, "Twinkles of star", "阿保剛", 0],
-    [11, "Jumping conversation", "阿保剛", 0],
-    [12, "I'M MAD SCIENTIST", "阿保剛", 0],
-    [13, "Ringing -Over the field-", "阿保剛", 0],
-    [14, "Ringing -Logic-", "阿保剛", 0],
-    [15, "Ringing -Take a walk-", "阿保剛", 0],
-    [16, "Ringing -Cat’s eye-", "阿保剛", 0],
-    [17, "Ringing -Radio wave-", "阿保剛", 0],
-    [18, "Ringing -Sweet candy-", "阿保剛", 0],
-    [19, "Ringing -1st stage-", "阿保剛", 0],
-    [20, "Ringing -Pleasure-", "阿保剛", 0],
-    [21, "Ringing -恋はKIRAKIRA☆-", "阿保剛", 0],
-    [22, "Ringing -Dystopia-", "阿保剛", 0],
-    [23, "楽園のホログラム (short ver.)", "いとうかなこ", 0],
-    [24, "あの夏の日の想い出 (short ver.)", "Zwei", 0],
+    [1, "フェノグラム (short ver.)", "彩音", 1],
+    [2, "GATE OF PHENOGRAM", "阿保剛", 1],
+    [3, "Whisper of gaia", "阿保剛", 1],
+    [4, "ALPACAMAN", "阿保剛", 1],
+    [5, "Nervous", "阿保剛", 1],
+    [6, "Distress for you", "阿保剛", 1],
+    [7, "Distress for you -piano-", "阿保剛", 1],
+    [8, "Hack -Gamma vision-", "阿保剛", 1],
+    [9, "GATE OF PHENOGRAM -piano-", "阿保剛", 1],
+    [10, "Twinkles of star", "阿保剛", 1],
+    [11, "Jumping conversation", "阿保剛", 1],
+    [12, "I'M MAD SCIENTIST", "阿保剛", 1],
+    [13, "Ringing -Over the field-", "阿保剛", 1],
+    [14, "Ringing -Logic-", "阿保剛", 1],
+    [15, "Ringing -Take a walk-", "阿保剛", 1],
+    [16, "Ringing -Cat’s eye-", "阿保剛", 1],
+    [17, "Ringing -Radio wave-", "阿保剛", 1],
+    [18, "Ringing -Sweet candy-", "阿保剛", 1],
+    [19, "Ringing -1st stage-", "阿保剛", 1],
+    [20, "Ringing -Pleasure-", "阿保剛", 1],
+    [21, "Ringing -恋はKIRAKIRA☆-", "阿保剛", 1],
+    [22, "Ringing -Dystopia-", "阿保剛", 1],
+    [23, "楽園のホログラム (short ver.)", "いとうかなこ", 1],
+    [24, "あの夏の日の想い出 (short ver.)", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/adb438a0-9c43-4338-bc47-7c45582bdc10", "https://vgmdb.net/album/38591"]
 
@@ -1776,20 +1776,20 @@ catalognumber = "FVCG-1265"
 date = "2013-09-25"
 album = "STEINS;GATE SYMPHONIC REUNION Vocal Disc 1"
 tracks = [
-    [1, "GATE OF STEINER", "阿保剛", 0],
-    [2, "Cycle", "阿保剛", 0],
-    [3, "Explanation", "阿保剛", 0],
-    [4, "Noisy times", "阿保剛", 0],
-    [5, "Assailant", "阿保剛", 0],
-    [6, "Laboratory", "阿保剛", 0],
-    [7, "Ringing Medley", "阿保剛", 0],
-    [8, "Human community", "阿保剛", 0],
-    [9, "Crossroads", "阿保剛", 0],
-    [10, "hesitative consideration", "阿保剛", 0],
-    [11, "Chaos mind", "阿保剛", 0],
-    [12, "Quiet air", "阿保剛", 0],
-    [13, "OPERATION SKULD", "阿保剛", 0],
-    [14, "GATE OF PHENOGRAM", "阿保剛", 0],
+    [1, "GATE OF STEINER", "阿保剛", 1],
+    [2, "Cycle", "阿保剛", 1],
+    [3, "Explanation", "阿保剛", 1],
+    [4, "Noisy times", "阿保剛", 1],
+    [5, "Assailant", "阿保剛", 1],
+    [6, "Laboratory", "阿保剛", 1],
+    [7, "Ringing Medley", "阿保剛", 1],
+    [8, "Human community", "阿保剛", 1],
+    [9, "Crossroads", "阿保剛", 1],
+    [10, "hesitative consideration", "阿保剛", 1],
+    [11, "Chaos mind", "阿保剛", 1],
+    [12, "Quiet air", "阿保剛", 1],
+    [13, "OPERATION SKULD", "阿保剛", 1],
+    [14, "GATE OF PHENOGRAM", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/588782de-27f4-47b5-bea9-3948203f115d", "https://vgmdb.net/album/40395"]
 
@@ -1798,18 +1798,18 @@ catalognumber = "FVCG-1265"
 date = "2013-09-25"
 album = "STEINS;GATE SYMPHONIC REUNION Vocal Disc 2"
 tracks = [
-    [1, "Hacking to the Gate", "いとうかなこ", 0],
-    [2, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "宇宙エンジニア", "いとうかなこ", 0],
-    [4, "いつもこの場所で", "彩音", 0],
-    [5, "非線形ジェニアック", "いとうかなこ", 0],
-    [6, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [7, "Hacking to the Gate -Instrumental-", "いとうかなこ", 0],
-    [8, "プレギエーラの月夜に -Instrumental-", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [9, "宇宙エンジニア -Instrumental-", "いとうかなこ", 0],
-    [10, "いつもこの場所で -Instrumental-", "彩音", 0],
-    [11, "非線形ジェニアック -Instrumental-", "いとうかなこ", 0],
-    [12, "スカイクラッドの観測者 -Instrumental-", "いとうかなこ", 0],
+    [1, "Hacking to the Gate", "いとうかなこ", 1],
+    [2, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "宇宙エンジニア", "いとうかなこ", 1],
+    [4, "いつもこの場所で", "彩音", 1],
+    [5, "非線形ジェニアック", "いとうかなこ", 1],
+    [6, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [7, "Hacking to the Gate -Instrumental-", "いとうかなこ", 1],
+    [8, "プレギエーラの月夜に -Instrumental-", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [9, "宇宙エンジニア -Instrumental-", "いとうかなこ", 1],
+    [10, "いつもこの場所で -Instrumental-", "彩音", 1],
+    [11, "非線形ジェニアック -Instrumental-", "いとうかなこ", 1],
+    [12, "スカイクラッドの観測者 -Instrumental-", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/588782de-27f4-47b5-bea9-3948203f115d", "https://vgmdb.net/album/40395"]
 
@@ -1865,33 +1865,33 @@ catalognumber = "KAXA-6801CD-1~4"
 date = "2013-12-13"
 album = "劇場版 STEINS;GATE 負荷領域のデジャヴ オリジナル・サウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "あなたの選んだこの時を [Movie Size]", "いとうかなこ", 0],
-    [2, "約束された平和", "阿保剛", 0],
-    [3, "おかえり", "村上純", 0],
-    [4, "拡散する視線", "村上純", 0],
-    [5, "デジャヴ", "阿保剛", 0],
-    [6, "かつての記憶", "阿保剛", 0],
-    [7, "気配", "阿保剛", 0],
-    [8, "ソーイングセット", "阿保剛", 0],
-    [9, "消失する観測者", "村上純", 0],
-    [10, "混乱する記憶 -GATE OF STEINER-", "阿保剛", 0],
-    [11, "過ぎ行く時の中で", "阿保剛", 0],
-    [12, "転機", "阿保剛", 0],
-    [13, "タイムリープマシン", "阿保剛", 0],
-    [14, "再生 -Explanation-", "阿保剛", 0],
-    [15, "R 世界線", "村上純", 0],
-    [16, "葛藤", "阿保剛", 0],
-    [17, "不撓不屈の岡部", "阿保剛", 0],
-    [18, "別れの予感", "村上純", 0],
-    [19, "溢れる想い -GATE OF STEINER-", "阿保剛", 0],
-    [20, "ずっとあなたを知っている", "村上純", 0],
-    [21, "紅莉栖の涙", "阿保剛", 0],
-    [22, "過去への決意", "村上純", 0],
-    [23, "追想", "阿保剛", 0],
-    [24, "彼の名は", "村上純", 0],
-    [25, "紅莉栖の最終ミッション [未使用曲]", "村上純", 0],
-    [26, "大切な人の為に", "阿保剛", 0],
-    [27, "いつもこの場所で [Movie Size]", "彩音", 0],
+    [1, "あなたの選んだこの時を [Movie Size]", "いとうかなこ", 1],
+    [2, "約束された平和", "阿保剛", 1],
+    [3, "おかえり", "村上純", 1],
+    [4, "拡散する視線", "村上純", 1],
+    [5, "デジャヴ", "阿保剛", 1],
+    [6, "かつての記憶", "阿保剛", 1],
+    [7, "気配", "阿保剛", 1],
+    [8, "ソーイングセット", "阿保剛", 1],
+    [9, "消失する観測者", "村上純", 1],
+    [10, "混乱する記憶 -GATE OF STEINER-", "阿保剛", 1],
+    [11, "過ぎ行く時の中で", "阿保剛", 1],
+    [12, "転機", "阿保剛", 1],
+    [13, "タイムリープマシン", "阿保剛", 1],
+    [14, "再生 -Explanation-", "阿保剛", 1],
+    [15, "R 世界線", "村上純", 1],
+    [16, "葛藤", "阿保剛", 1],
+    [17, "不撓不屈の岡部", "阿保剛", 1],
+    [18, "別れの予感", "村上純", 1],
+    [19, "溢れる想い -GATE OF STEINER-", "阿保剛", 1],
+    [20, "ずっとあなたを知っている", "村上純", 1],
+    [21, "紅莉栖の涙", "阿保剛", 1],
+    [22, "過去への決意", "村上純", 1],
+    [23, "追想", "阿保剛", 1],
+    [24, "彼の名は", "村上純", 1],
+    [25, "紅莉栖の最終ミッション [未使用曲]", "村上純", 1],
+    [26, "大切な人の為に", "阿保剛", 1],
+    [27, "いつもこの場所で [Movie Size]", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/cd5c44ce-a559-46db-b759-b8cbe05941ff", "https://vgmdb.net/album/40396"]
 
@@ -1900,8 +1900,8 @@ catalognumber = "KAXA-6801CD-1~4"
 date = "2013-12-13"
 album = "劇場版 STEINS;GATE 負荷領域のデジャヴ オリジナル・サウンドトラック Drama Disc 3"
 tracks = [
-    [1, "コンプティーク2011年7月号付録", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり)", 0],
-    [2, "コンプティーク2011年10月号付録", "岡部倫太郎 (CV: 宮野真守), 牧瀬紅莉栖 (CV: 今井麻美), 椎名まゆり (CV: 花澤香菜), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), 漆原るか (CV: 小林ゆう), フェイリス・ニャンニャン (CV: 桃井はるこ), 阿万音鈴羽 (CV: 田村ゆかり), 天王寺裕吾 (CV: てらそままさき), 天王寺綯 (CV: 山本彩乃)", 0],
+    [1, "コンプティーク2011年7月号付録", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり)", 1],
+    [2, "コンプティーク2011年10月号付録", "岡部倫太郎 (CV: 宮野真守), 牧瀬紅莉栖 (CV: 今井麻美), 椎名まゆり (CV: 花澤香菜), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), 漆原るか (CV: 小林ゆう), フェイリス・ニャンニャン (CV: 桃井はるこ), 阿万音鈴羽 (CV: 田村ゆかり), 天王寺裕吾 (CV: てらそままさき), 天王寺綯 (CV: 山本彩乃)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ef276869-382d-40c2-9788-d6037fb23442", "https://vgmdb.net/album/40396"]
 
@@ -1910,8 +1910,8 @@ catalognumber = "KAXA-6801CD-1~4"
 date = "2013-12-13"
 album = "劇場版 STEINS;GATE 負荷領域のデジャヴ オリジナル・サウンドトラック Drama Disc 4"
 tracks = [
-    [1, "コンプエース2011年11月号付録", "岡部倫太郎 (CV: 宮野真守), 牧瀬紅莉栖 (CV: 今井麻美), 椎名まゆり (CV: 花澤香菜), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), 漆原るか (CV: 小林ゆう), フェイリス・ニャンニャン (CV: 桃井はるこ), 阿万音鈴羽 (CV: 田村ゆかり), 天王寺裕吾 (CV: てらそままさき), 天王寺綯 (CV: 山本彩乃)", 0],
-    [2, "コンプティーク2013年5月号付録", "牧瀬紅莉栖 (CV: 今井麻美), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), フェイリス・ニャンニャン (CV: 桃井はるこ)", 0],
+    [1, "コンプエース2011年11月号付録", "岡部倫太郎 (CV: 宮野真守), 牧瀬紅莉栖 (CV: 今井麻美), 椎名まゆり (CV: 花澤香菜), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), 漆原るか (CV: 小林ゆう), フェイリス・ニャンニャン (CV: 桃井はるこ), 阿万音鈴羽 (CV: 田村ゆかり), 天王寺裕吾 (CV: てらそままさき), 天王寺綯 (CV: 山本彩乃)", 1],
+    [2, "コンプティーク2013年5月号付録", "牧瀬紅莉栖 (CV: 今井麻美), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), フェイリス・ニャンニャン (CV: 桃井はるこ)", 1],
     [3, "カウントダウンボイス #01", "フェイリス・ニャンニャン (CV:桃井はるこ), 桐生萌郁 (CV:後藤沙緒里)", 0],
     [4, "カウントダウンボイス #02", "阿万音鈴羽 (CV:田村ゆかり)", 0],
     [5, "カウントダウンボイス #03", "漆原るか (CV:小林ゆう)", 0],
@@ -1930,9 +1930,9 @@ catalognumber = "FVCG-1288"
 date = "2014-01-29"
 album = "Luminous Flux / 彩音"
 tracks = [
-    [1, "フェノグラム", "彩音", 0],
+    [1, "フェノグラム", "彩音", 1],
     [2, "Fullmoon Rhapsody", "彩音", 0],
-    [3, "覚醒 -Fractional Vision-", "彩音", 0],
+    [3, "覚醒 -Fractional Vision-", "彩音", 1],
     [4, "幻術のクロスロード", "彩音", 0],
     [5, "Divine Beast", "彩音", 0],
     [6, "Crest of Knights", "彩音", 0],
@@ -1941,10 +1941,10 @@ tracks = [
     [9, "ultimate arrow", "彩音", 0],
     [10, "punitive justice ～千年の錯綜～", "彩音", 0],
     [11, "GO→Love & Peace", "彩音", 0],
-    [12, "かけがえのない思い ずっと一緒に", "彩音", 0],
+    [12, "かけがえのない思い ずっと一緒に", "彩音", 1],
     [13, "パーフェクト☆クエスト", "彩音", 0],
     [14, "The place in your dream", "彩音", 0],
-    [15, "いつもこの場所で", "彩音", 0],
+    [15, "いつもこの場所で", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6fbb549d-7ee9-4e86-a063-bc951dbd412a", "https://vgmdb.net/album/42986"]
 
@@ -1953,21 +1953,21 @@ catalognumber = "FVCG-1266"
 date = "2014-01-29"
 album = "THE WORKS ～志倉千代丸楽曲集～ 8.0"
 tracks = [
-    [1, "拡張プレイス", "Zwei", 0],
-    [2, "フェノグラム", "彩音", 0],
+    [1, "拡張プレイス", "Zwei", 1],
+    [2, "フェノグラム", "彩音", 1],
     [3, "海風のブレイブ", "fumika", 0],
-    [4, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "La*La*La ラボリューション", "アフィリア・サーガ", 0],
+    [4, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "La*La*La ラボリューション", "アフィリア・サーガ", 1],
     [6, "咆筺のメシア", "HARUKI", 0],
-    [7, "いつもこの場所で", "彩音", 0],
-    [8, "非線形ジェニアック", "いとうかなこ", 0],
-    [9, "純情スペクトラ", "Zwei", 0],
+    [7, "いつもこの場所で", "彩音", 1],
+    [8, "非線形ジェニアック", "いとうかなこ", 1],
+    [9, "純情スペクトラ", "Zwei", 1],
     [10, "極上HEAVEN", "nao", 0],
     [11, "鋼の鎧纏う、三百の大司祭 ~グラジオール列王記邪心第二編より~", "ファンタズム (FES cv. 榊原ゆい)", 0],
     [12, "The Moon is Not Alone", "いとうかなこ", 0],
-    [13, "イナンナの見た夢", "Zwei", 0],
-    [14, "あなたの選んだこの時を", "いとうかなこ", 0],
-    [15, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
+    [13, "イナンナの見た夢", "Zwei", 1],
+    [14, "あなたの選んだこの時を", "いとうかなこ", 1],
+    [15, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
     [16, "Find the blue “セルフカバーバージョン”", "志倉千代丸", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/7d57cdd5-36e8-4b0a-9871-098ec927deb1", "https://vgmdb.net/album/40980"]
@@ -1977,9 +1977,9 @@ catalognumber = "FVCG-1287"
 date = "2014-01-29"
 album = "Luminous Flux / 彩音 Disc 1 (CD)"
 tracks = [
-    [1, "フェノグラム", "彩音", 0],
+    [1, "フェノグラム", "彩音", 1],
     [2, "Fullmoon Rhapsody", "彩音", 0],
-    [3, "覚醒 -Fractional Vision-", "彩音", 0],
+    [3, "覚醒 -Fractional Vision-", "彩音", 1],
     [4, "幻術のクロスロード", "彩音", 0],
     [5, "Divine Beast", "彩音", 0],
     [6, "Crest of Knights", "彩音", 0],
@@ -1988,10 +1988,10 @@ tracks = [
     [9, "ultimate arrow", "彩音", 0],
     [10, "punitive justice ～千年の錯綜～", "彩音", 0],
     [11, "GO→Love & Peace", "彩音", 0],
-    [12, "かけがえのない思い ずっと一緒に", "彩音", 0],
+    [12, "かけがえのない思い ずっと一緒に", "彩音", 1],
     [13, "パーフェクト☆クエスト", "彩音", 0],
     [14, "The place in your dream", "彩音", 0],
-    [15, "いつもこの場所で", "彩音", 0],
+    [15, "いつもこの場所で", "彩音", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6fbb549d-7ee9-4e86-a063-bc951dbd412a", "https://vgmdb.net/album/42985"]
 
@@ -2011,17 +2011,17 @@ catalognumber = "FVCG-1289"
 date = "2014-02-26"
 album = "RASTER / いとうかなこ Disc 1 (CD)"
 tracks = [
-    [1, "あなたの選んだこの時を", "いとうかなこ", 0],
+    [1, "あなたの選んだこの時を", "いとうかなこ", 1],
     [2, "カオスロジック", "いとうかなこ", 0],
-    [3, "resolution", "いとうかなこ", 0],
-    [4, "掟つしらつゆ", "いとうかなこ", 0],
+    [3, "resolution", "いとうかなこ", 1],
+    [4, "掟つしらつゆ", "いとうかなこ", 1],
     [5, "トポロジー", "いとうかなこ", 0],
     [6, "zero hour", "いとうかなこ", 0],
     [7, "キズナの結晶", "いとうかなこ", 0],
-    [8, "非線形ジェニアック", "いとうかなこ", 0],
+    [8, "非線形ジェニアック", "いとうかなこ", 1],
     [9, "D.P.", "いとうかなこ", 0],
-    [10, "楽園のホログラム", "いとうかなこ", 0],
-    [11, "Geometric space", "いとうかなこ", 0],
+    [10, "楽園のホログラム", "いとうかなこ", 1],
+    [11, "Geometric space", "いとうかなこ", 1],
     [12, "空の下の相関図", "いとうかなこ", 0],
     [13, "The Moon is Not Alone", "いとうかなこ", 0],
     [14, "RASTER", "いとうかなこ", 0],
@@ -2033,8 +2033,8 @@ catalognumber = "FVCG-1289"
 date = "2014-02-26"
 album = "RASTER / いとうかなこ Disc 2 (DVD)"
 tracks = [
-    [1, "あなたの選んだこの時を", "いとうかなこ", 0],
-    [2, "非線形ジェニアック", "いとうかなこ", 0],
+    [1, "あなたの選んだこの時を", "いとうかなこ", 1],
+    [2, "非線形ジェニアック", "いとうかなこ", 1],
     [3, "カオスロジック", "いとうかなこ", 0],
     [4, "The Moon is Not Alone", "いとうかなこ", 0],
     [5, "RASTER", "いとうかなこ", 0],
@@ -2047,17 +2047,17 @@ catalognumber = "FVCG-1290"
 date = "2014-02-26"
 album = "RASTER / いとうかなこ"
 tracks = [
-    [1, "あなたの選んだこの時を", "いとうかなこ", 0],
+    [1, "あなたの選んだこの時を", "いとうかなこ", 1],
     [2, "カオスロジック", "いとうかなこ", 0],
-    [3, "resolution", "いとうかなこ", 0],
-    [4, "掟つしらつゆ", "いとうかなこ", 0],
+    [3, "resolution", "いとうかなこ", 1],
+    [4, "掟つしらつゆ", "いとうかなこ", 1],
     [5, "トポロジー", "いとうかなこ", 0],
     [6, "zero hour", "いとうかなこ", 0],
     [7, "キズナの結晶", "いとうかなこ", 0],
-    [8, "非線形ジェニアック", "いとうかなこ", 0],
+    [8, "非線形ジェニアック", "いとうかなこ", 1],
     [9, "D.P.", "いとうかなこ", 0],
-    [10, "楽園のホログラム", "いとうかなこ", 0],
-    [11, "Geometric space", "いとうかなこ", 0],
+    [10, "楽園のホログラム", "いとうかなこ", 1],
+    [11, "Geometric space", "いとうかなこ", 1],
     [12, "空の下の相関図", "いとうかなこ", 0],
     [13, "The Moon is Not Alone", "いとうかなこ", 0],
     [14, "RASTER", "いとうかなこ", 0],
@@ -2080,7 +2080,7 @@ tracks = [
     [9, "ビッグバンド de ヨッシー (メドレー)", "Riz", 0],
     [10, "SOLDIER BLUE (テムジン)", "Riz", 0],
     [11, "議論 -HEAT UP-", "Riz", 0],
-    [12, "GATE OF STEINER", "グラサンねこ", 0],
+    [12, "GATE OF STEINER", "グラサンねこ", 1],
     [13, "両島原", "Riz", 0],
     [14, "終点 (ラストバトル)", "Riz vs えくす", 0],
     [15, "来たるべきセカイ (エンディング) -歴代ゲーム音源風アレンジ-", "えくす & グラサンねこ", 0],
@@ -2096,7 +2096,7 @@ tracks = [
     [2, "ラブレター・フロム・何か?", "", 0],
     [3, "美しき残酷な世界", "", 0],
     [4, "ふたりのきもちのほんとのひみつ", "", 0],
-    [5, "Hacking To The Gate", "", 0],
+    [5, "Hacking To The Gate", "", 1],
     [6, "Fallen Angel Feat. Aimee B", "", 0],
     [7, "My Dearest", "", 0],
     [8, "ミリオンリーヴス", "", 0],
@@ -2118,7 +2118,7 @@ tracks = [
     [7, "忍者じゃじゃ丸くん～the memories～ 8BIT Studio Session", "", 0],
     [8, "新たなる旅立ち～オホーツクに消ゆ エンディングテーマ～ 8BIT Studio Session", "", 0],
     [9, "LOVE TOGETHER 8BIT Studio Session", "", 0],
-    [10, "スカイクラッドの観測者 8BIT Mix", "", 0],
+    [10, "スカイクラッドの観測者 8BIT Mix", "", 1],
     [11, "Bugってハニー 8BIT Mix(instrumental)", "", 0],
     [12, "愛はメリーゴーランド 8BIT Mix(instrumental)", "", 0],
     [13, "卒業攻略法 WAVE Engine Mix(instrumental)", "", 0],
@@ -2128,7 +2128,7 @@ tracks = [
     [17, "忍者じゃじゃ丸くん～the memories～ 8BIT Studio Session(instrumental)", "", 0],
     [18, "新たなる旅立ち～オホーツクに消ゆ エンディングテーマ～ 8BIT Studio Session(instrumental)", "", 0],
     [19, "LOVE TOGETHER (instrumental)", "", 0],
-    [20, "スカイクラッドの観測者 8BIT Mix(instrumental)", "", 0],
+    [20, "スカイクラッドの観測者 8BIT Mix(instrumental)", "", 1],
 ]
 links = ["https://vgmdb.net/album/152527"]
 
@@ -2141,12 +2141,12 @@ tracks = [
     [2, "磔のミサ ～グラジオール記黙示録詩編より～", "ファンタズム", 0],
     [3, "アレルイヤの福音 ～使徒からの手紙第二編より～", "ファンタズム", 0],
     [4, "密教の首飾り ～グラジオール列王記邪心編より～", "ファンタズム", 0],
-    [5, "運命のファルファッラ", "ファンタズム", 0],
+    [5, "運命のファルファッラ", "ファンタズム", 1],
     [6, "祈りのヴィオレット", "ファンタズム", 0],
     [7, "翡翠のカヴィリエーレ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [8, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [8, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [9, "鋼の鎧纏う、三百の大司祭 ～グラジオール列王記邪心第二編より～", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [10, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [10, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
     [11, "月蝕のヴァニタス", "ファンタズム", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/a6ccf2d5-2fa7-466d-8e8f-2ffb799726d5", "https://vgmdb.net/album/47904"]
@@ -2177,7 +2177,7 @@ tracks = [
     [10, "裏切りの夕焼け", "", 0],
     [11, "oath sign", "", 0],
     [12, "inner universe", "", 0],
-    [13, "Hacking to the Gate", "", 0],
+    [13, "Hacking to the Gate", "", 1],
     [14, "Paradise Lost", "", 0],
     [15, "God knows...", "", 0],
     [16, "STRIKE WITCHES ~わたしにできること~", "", 0],
@@ -2198,46 +2198,46 @@ catalognumber = "N/A"
 date = "2015-08-26"
 album = "STEINS;GATE Original Soundtrack"
 tracks = [
-    [1, "スカイクラッドの観測者 Short Ver.", "いとうかなこ", 0],
-    [2, "GATE OF STEINER -Main theme-", "阿保剛", 0],
-    [3, "The universe", "阿保剛", 0],
-    [4, "Laboratory", "阿保剛", 0],
-    [5, "Suspicious eyes", "阿保剛", 0],
-    [6, "Noisy times", "阿保剛", 0],
-    [7, "Explanation", "阿保剛", 0],
-    [8, "Quiet air", "阿保剛", 0],
-    [9, "Yanagibayashi", "阿保剛", 0],
-    [10, "Walking on sleeping", "阿保剛", 0],
-    [11, "Cycle", "阿保剛", 0],
-    [12, "Hack -beta vision-", "阿保剛", 0],
-    [13, "SERN", "阿保剛", 0],
-    [14, "Assailant", "阿保剛", 0],
-    [15, "The Limit", "阿保剛", 0],
-    [16, "Select of sorrow", "阿保剛", 0],
-    [17, "Chaos mind", "阿保剛", 0],
-    [18, "Crossroads", "阿保剛", 0],
-    [19, "Self affirmation", "阿保剛", 0],
-    [20, "Believe me", "阿保剛", 0],
-    [21, "GATE OF STEINER -Piano-", "阿保剛", 0],
-    [22, "Hack -alpha vision-", "阿保剛", 0],
-    [23, "Human community", "阿保剛", 0],
-    [24, "Network battle", "阿保剛", 0],
-    [25, "hesitative consideration", "阿保剛", 0],
-    [26, "Urd", "阿保剛", 0],
-    [27, "Fake Verthandi", "阿保剛", 0],
-    [28, "OPERATION SKULD", "阿保剛", 0],
-    [29, "Solitude", "阿保剛", 0],
-    [30, "Ringing -Beginning of fight-", "阿保剛", 0],
-    [31, "Ringing -Village-", "阿保剛", 0],
-    [32, "Ringing -Easygoingness-", "阿保剛", 0],
-    [33, "Ringing -Precaution-", "阿保剛", 0],
-    [34, "Ringing -Over the sky-", "阿保剛", 0],
-    [35, "Ringing -Reunion-", "阿保剛", 0],
-    [36, "Ringing -GATE OF STEINER-", "阿保剛", 0],
-    [37, "Hack -short vision-", "阿保剛", 0],
-    [38, "マスカレード ~ノア第三章列王新世紀編より~ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [39, "運命のファルファッラ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [40, "Another Heaven Short Ver.", "いとうかなこ", 0],
+    [1, "スカイクラッドの観測者 Short Ver.", "いとうかなこ", 1],
+    [2, "GATE OF STEINER -Main theme-", "阿保剛", 1],
+    [3, "The universe", "阿保剛", 1],
+    [4, "Laboratory", "阿保剛", 1],
+    [5, "Suspicious eyes", "阿保剛", 1],
+    [6, "Noisy times", "阿保剛", 1],
+    [7, "Explanation", "阿保剛", 1],
+    [8, "Quiet air", "阿保剛", 1],
+    [9, "Yanagibayashi", "阿保剛", 1],
+    [10, "Walking on sleeping", "阿保剛", 1],
+    [11, "Cycle", "阿保剛", 1],
+    [12, "Hack -beta vision-", "阿保剛", 1],
+    [13, "SERN", "阿保剛", 1],
+    [14, "Assailant", "阿保剛", 1],
+    [15, "The Limit", "阿保剛", 1],
+    [16, "Select of sorrow", "阿保剛", 1],
+    [17, "Chaos mind", "阿保剛", 1],
+    [18, "Crossroads", "阿保剛", 1],
+    [19, "Self affirmation", "阿保剛", 1],
+    [20, "Believe me", "阿保剛", 1],
+    [21, "GATE OF STEINER -Piano-", "阿保剛", 1],
+    [22, "Hack -alpha vision-", "阿保剛", 1],
+    [23, "Human community", "阿保剛", 1],
+    [24, "Network battle", "阿保剛", 1],
+    [25, "hesitative consideration", "阿保剛", 1],
+    [26, "Urd", "阿保剛", 1],
+    [27, "Fake Verthandi", "阿保剛", 1],
+    [28, "OPERATION SKULD", "阿保剛", 1],
+    [29, "Solitude", "阿保剛", 1],
+    [30, "Ringing -Beginning of fight-", "阿保剛", 1],
+    [31, "Ringing -Village-", "阿保剛", 1],
+    [32, "Ringing -Easygoingness-", "阿保剛", 1],
+    [33, "Ringing -Precaution-", "阿保剛", 1],
+    [34, "Ringing -Over the sky-", "阿保剛", 1],
+    [35, "Ringing -Reunion-", "阿保剛", 1],
+    [36, "Ringing -GATE OF STEINER-", "阿保剛", 1],
+    [37, "Hack -short vision-", "阿保剛", 1],
+    [38, "マスカレード ~ノア第三章列王新世紀編より~ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [39, "運命のファルファッラ Short Ver.", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [40, "Another Heaven Short Ver.", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8d939248-319a-47c1-8238-6966a687ecc7", "https://vgmdb.net/album/61183"]
 
@@ -2246,36 +2246,36 @@ catalognumber = "FPBD-0340"
 date = "2015-09-30"
 album = "線形拘束のフェノグラム サウンドトラック +6"
 tracks = [
-    [1, "フェノグラム (short ver)", "彩音", 0],
-    [2, "GATE OF PHENOGRAM", "阿保剛", 0],
-    [3, "Whisper of gaia", "阿保剛", 0],
-    [4, "ALPACAMAN", "阿保剛", 0],
-    [5, "Nervous", "阿保剛", 0],
-    [6, "Distress for you", "阿保剛", 0],
-    [7, "Distress for you -piano-", "阿保剛", 0],
-    [8, "Hack -Gamma vision-", "阿保剛", 0],
-    [9, "GATE OF PHENOGRAM -piano-", "阿保剛", 0],
-    [10, "Twinkles of star", "阿保剛", 0],
-    [11, "Jumping conversation", "阿保剛", 0],
-    [12, "I'M MAD SCIENTIST", "阿保剛", 0],
-    [13, "Ringing -Over the field-", "阿保剛", 0],
-    [14, "Ringing -Logic-", "阿保剛", 0],
-    [15, "Ringing -Take a walk-", "阿保剛", 0],
-    [16, "Ringing -Cat's eye-", "阿保剛", 0],
-    [17, "Ringing -Radio wave-", "阿保剛", 0],
-    [18, "Ringing -Sweet candy-", "阿保剛", 0],
-    [19, "Ringing -1st stage-", "阿保剛", 0],
-    [20, "Ringing -Pleasure-", "阿保剛", 0],
-    [21, "Ringing -恋はKIRAKIRA☆-", "阿保剛", 0],
-    [22, "Ringing -Dystopia-", "阿保剛", 0],
-    [23, "楽園のホログラム (short ver)", "いとうかなこ", 0],
-    [24, "あの夏の日の想い出 (short ver)", "Zwei", 0],
-    [25, "Darling BGM 001", "阿保 剛", 0],
-    [26, "Darling BGM 002", "阿保 剛", 0],
-    [27, "Darling BGM 003", "阿保 剛", 0],
-    [28, "Darling BGM 004", "阿保 剛", 0],
-    [29, "Darling BGM 005", "阿保 剛", 0],
-    [30, "Darling BGM 006", "阿保 剛", 0],
+    [1, "フェノグラム (short ver)", "彩音", 1],
+    [2, "GATE OF PHENOGRAM", "阿保剛", 1],
+    [3, "Whisper of gaia", "阿保剛", 1],
+    [4, "ALPACAMAN", "阿保剛", 1],
+    [5, "Nervous", "阿保剛", 1],
+    [6, "Distress for you", "阿保剛", 1],
+    [7, "Distress for you -piano-", "阿保剛", 1],
+    [8, "Hack -Gamma vision-", "阿保剛", 1],
+    [9, "GATE OF PHENOGRAM -piano-", "阿保剛", 1],
+    [10, "Twinkles of star", "阿保剛", 1],
+    [11, "Jumping conversation", "阿保剛", 1],
+    [12, "I'M MAD SCIENTIST", "阿保剛", 1],
+    [13, "Ringing -Over the field-", "阿保剛", 1],
+    [14, "Ringing -Logic-", "阿保剛", 1],
+    [15, "Ringing -Take a walk-", "阿保剛", 1],
+    [16, "Ringing -Cat's eye-", "阿保剛", 1],
+    [17, "Ringing -Radio wave-", "阿保剛", 1],
+    [18, "Ringing -Sweet candy-", "阿保剛", 1],
+    [19, "Ringing -1st stage-", "阿保剛", 1],
+    [20, "Ringing -Pleasure-", "阿保剛", 1],
+    [21, "Ringing -恋はKIRAKIRA☆-", "阿保剛", 1],
+    [22, "Ringing -Dystopia-", "阿保剛", 1],
+    [23, "楽園のホログラム (short ver)", "いとうかなこ", 1],
+    [24, "あの夏の日の想い出 (short ver)", "Zwei", 1],
+    [25, "Darling BGM 001", "阿保 剛", 1],
+    [26, "Darling BGM 002", "阿保 剛", 1],
+    [27, "Darling BGM 003", "阿保 剛", 1],
+    [28, "Darling BGM 004", "阿保 剛", 1],
+    [29, "Darling BGM 005", "阿保 剛", 1],
+    [30, "Darling BGM 006", "阿保 剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/79b7968d-e649-48c1-8da3-3cc27debb5d9", "https://vgmdb.net/album/60223"]
 
@@ -2284,11 +2284,11 @@ catalognumber = "FVCG-1354"
 date = "2015-11-25"
 album = "アマデウス / いとうかなこ"
 tracks = [
-    [1, "哀音悲調のアマデウス～牧瀬紅莉栖", "[dialogue]", 0],
-    [2, "アマデウス", "いとうかなこ", 0],
-    [3, "Ignis", "いとうかなこ", 0],
-    [4, "アマデウス (off Vocal)", "いとうかなこ", 0],
-    [5, "Ignis (off Vocal)", "いとうかなこ", 0],
+    [1, "哀音悲調のアマデウス～牧瀬紅莉栖", "[dialogue]", 1],
+    [2, "アマデウス", "いとうかなこ", 1],
+    [3, "Ignis", "いとうかなこ", 1],
+    [4, "アマデウス (off Vocal)", "いとうかなこ", 1],
+    [5, "Ignis (off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fb07feca-be88-4609-b1d3-564b3071e739", "https://vgmdb.net/album/54230"]
 
@@ -2297,11 +2297,11 @@ catalognumber = "FVCG-1355"
 date = "2015-11-25"
 album = "ライア / Zwei"
 tracks = [
-    [1, "黎明のライア～岡部倫太郎", "[dialogue]", 0],
-    [2, "ライア", "Zwei", 0],
-    [3, "真っ向", "Zwei", 0],
-    [4, "ライア (off Vocal)", "Zwei", 0],
-    [5, "真っ向 (off Vocal)", "Zwei", 0],
+    [1, "黎明のライア～岡部倫太郎", "[dialogue]", 1],
+    [2, "ライア", "Zwei", 1],
+    [3, "真っ向", "Zwei", 1],
+    [4, "ライア (off Vocal)", "Zwei", 1],
+    [5, "真っ向 (off Vocal)", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3d2d60d3-febf-41fc-8c29-c612563bf005", "https://vgmdb.net/album/54231"]
 
@@ -2322,31 +2322,31 @@ catalognumber = "FPBD-0346"
 date = "2015-12-29"
 album = "STEINS;GATE 0 O.S.T「GATE OF STEINER」"
 tracks = [
-    [1, "GATE OF STEINER (game size)", "佐々木恵梨", 0],
-    [2, "Messenger -main theme-", "阿保剛", 0],
-    [3, "Aug.13,2036", "阿保剛", 0],
-    [4, "First leap", "阿保剛", 0],
-    [5, "Amadeus", "阿保剛", 0],
-    [6, "Newcomer", "阿保剛", 0],
-    [7, "Logical theme", "阿保剛", 0],
-    [8, "Easygoing members", "阿保剛", 0],
-    [9, "Her community", "阿保剛", 0],
-    [10, "Isolation", "阿保剛", 0],
-    [11, "Okey-dokey", "阿保剛", 0],
-    [12, "Future of spirit", "阿保剛", 0],
-    [13, "Riskful dialogue", "阿保剛", 0],
-    [14, "Fellowship", "阿保剛", 0],
-    [15, "In a relief time", "阿保剛", 0],
-    [16, "Reading steiner", "阿保剛", 0],
-    [17, "Shuddery view", "阿保剛", 0],
-    [18, "Tactics in confusion", "阿保剛", 0],
-    [19, "Messenger -piano-", "阿保剛", 0],
-    [20, "Chasers 2nd", "阿保剛", 0],
-    [21, "Berserk", "阿保剛", 0],
-    [22, "Believe me -zero-", "阿保剛", 0],
-    [23, "Fellowship -piano-", "阿保剛", 0],
-    [24, "Messenger from zero", "阿保剛", 0],
-    [25, "Preview zero", "阿保剛", 0],
+    [1, "GATE OF STEINER (game size)", "佐々木恵梨", 1],
+    [2, "Messenger -main theme-", "阿保剛", 1],
+    [3, "Aug.13,2036", "阿保剛", 1],
+    [4, "First leap", "阿保剛", 1],
+    [5, "Amadeus", "阿保剛", 1],
+    [6, "Newcomer", "阿保剛", 1],
+    [7, "Logical theme", "阿保剛", 1],
+    [8, "Easygoing members", "阿保剛", 1],
+    [9, "Her community", "阿保剛", 1],
+    [10, "Isolation", "阿保剛", 1],
+    [11, "Okey-dokey", "阿保剛", 1],
+    [12, "Future of spirit", "阿保剛", 1],
+    [13, "Riskful dialogue", "阿保剛", 1],
+    [14, "Fellowship", "阿保剛", 1],
+    [15, "In a relief time", "阿保剛", 1],
+    [16, "Reading steiner", "阿保剛", 1],
+    [17, "Shuddery view", "阿保剛", 1],
+    [18, "Tactics in confusion", "阿保剛", 1],
+    [19, "Messenger -piano-", "阿保剛", 1],
+    [20, "Chasers 2nd", "阿保剛", 1],
+    [21, "Berserk", "阿保剛", 1],
+    [22, "Believe me -zero-", "阿保剛", 1],
+    [23, "Fellowship -piano-", "阿保剛", 1],
+    [24, "Messenger from zero", "阿保剛", 1],
+    [25, "Preview zero", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/2936a79f-a50b-47ff-a667-3dabb1f4c417", "https://vgmdb.net/album/56438"]
 
@@ -2355,20 +2355,20 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Vocal Disc 1"
 tracks = [
-    [1, "スカイクラッドの観測者", "いとうかなこ", 0],
-    [2, "A.R.", "いとうかなこ", 0],
-    [3, "宇宙エンジニア", "いとうかなこ", 0],
-    [4, "非線形ジェニアック", "いとうかなこ", 0],
-    [5, "La*La*Laラボリューション", "アフィリア・サーガ", 0],
-    [6, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 0],
+    [1, "スカイクラッドの観測者", "いとうかなこ", 1],
+    [2, "A.R.", "いとうかなこ", 1],
+    [3, "宇宙エンジニア", "いとうかなこ", 1],
+    [4, "非線形ジェニアック", "いとうかなこ", 1],
+    [5, "La*La*Laラボリューション", "アフィリア・サーガ", 1],
+    [6, "禁断無敵のだーりん", "アフィリア・サーガ・イースト", 1],
     [7, "IF", "彩音", 0],
-    [8, "フェノグラム", "彩音", 0],
+    [8, "フェノグラム", "彩音", 1],
     [9, "邂逅のフェタリテート", "彩音", 0],
-    [10, "Hacking to the Gate", "いとうかなこ", 0],
-    [11, "あなたの選んだこの時を", "いとうかなこ", 0],
-    [12, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [13, "GATE OF STEINER", "佐々木恵梨", 0],
-    [14, "アマデウス", "いとうかなこ", 0],
+    [10, "Hacking to the Gate", "いとうかなこ", 1],
+    [11, "あなたの選んだこの時を", "いとうかなこ", 1],
+    [12, "マスカレード 〜ノア第三章列王新世紀編より〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [13, "GATE OF STEINER", "佐々木恵梨", 1],
+    [14, "アマデウス", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2377,19 +2377,19 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Vocal Disc 2"
 tracks = [
-    [1, "Another Heaven", "いとうかなこ", 0],
-    [2, "technovision", "いとうかなこ", 0],
-    [3, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "EUPHORIA 〜償いのレクイエム〜", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [6, "永遠のベクトル", "いとうかなこ", 0],
-    [7, "楽園のホログラム", "いとうかなこ", 0],
-    [8, "あの夏の日の想い出", "Zwei", 0],
-    [9, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [10, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [11, "いつもこの場所で", "彩音", 0],
-    [12, "星の奏でる歌", "椎名かがり(cv.潘めぐみ)", 0],
-    [13, "ライア", "Zwei", 0],
+    [1, "Another Heaven", "いとうかなこ", 1],
+    [2, "technovision", "いとうかなこ", 1],
+    [3, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "EUPHORIA 〜償いのレクイエム〜", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [6, "永遠のベクトル", "いとうかなこ", 1],
+    [7, "楽園のホログラム", "いとうかなこ", 1],
+    [8, "あの夏の日の想い出", "Zwei", 1],
+    [9, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [10, "麗しきセデュース", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [11, "いつもこの場所で", "彩音", 1],
+    [12, "星の奏でる歌", "椎名かがり(cv.潘めぐみ)", 1],
+    [13, "ライア", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2398,22 +2398,22 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Vocal, Remix"
 tracks = [
-    [1, "難攻不落の new gate", "岡部倫太郎 (cv.宮野真守)", 0],
-    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 0],
-    [3, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 0],
-    [4, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 0],
-    [5, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 0],
-    [6, "儚い記憶のかけら", "漆原るか (cv.小林ゆう)", 0],
-    [7, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 0],
-    [8, "虹色の光りの中で", "阿万音鈴羽 (cv.田村ゆかり)", 0],
-    [9, "メイクイーンの午後3時", "椎名まゆり(cv.花澤香菜)、フェイリス・ニャンニャン(cv.桃井はるこ)", 0],
-    [10, "迷宮のイデア", "牧瀬紅莉栖(cv.今井麻美)", 0],
-    [11, "ラボメン☆スピリッツ", "岡部倫太郎(cv.宮野真守)、橋田至(cv.関智一)", 0],
-    [12, "スカイクラッドの観測者 (ScienceAdventureDanceRemix)", "いとうかなこ", 0],
-    [13, "A.R. (ScienceAdventureDanceRemix)", "いとうかなこ", 0],
-    [14, "宇宙エンジニア (ScienceAdventureDanceRemix)", "いとうかなこ", 0],
-    [15, "Hacking to the Gate (ScienceAdventureDanceRemix)", "いとうかなこ", 0],
-    [16, "La*La*Laラボリューション (ScienceAdventureDanceRemix)", "アフィリア・サーガ", 0],
+    [1, "難攻不落の new gate", "岡部倫太郎 (cv.宮野真守)", 1],
+    [2, "優しい夕暮れ", "椎名まゆり (cv.花澤香菜)", 1],
+    [3, "萌える世界の幻想譚", "橋田至 (cv.関智一)", 1],
+    [4, "約束のパラダイム", "牧瀬紅莉栖 (cv.今井麻美)", 1],
+    [5, "To Be Loved", "桐生萌郁 (cv.後藤沙緒里)", 1],
+    [6, "儚い記憶のかけら", "漆原るか (cv.小林ゆう)", 1],
+    [7, "Nyan☆Nyan☆Galaxy!", "フェイリス・ニャンニャン (cv.桃井はるこ)", 1],
+    [8, "虹色の光りの中で", "阿万音鈴羽 (cv.田村ゆかり)", 1],
+    [9, "メイクイーンの午後3時", "椎名まゆり(cv.花澤香菜)、フェイリス・ニャンニャン(cv.桃井はるこ)", 1],
+    [10, "迷宮のイデア", "牧瀬紅莉栖(cv.今井麻美)", 1],
+    [11, "ラボメン☆スピリッツ", "岡部倫太郎(cv.宮野真守)、橋田至(cv.関智一)", 1],
+    [12, "スカイクラッドの観測者 (ScienceAdventureDanceRemix)", "いとうかなこ", 1],
+    [13, "A.R. (ScienceAdventureDanceRemix)", "いとうかなこ", 1],
+    [14, "宇宙エンジニア (ScienceAdventureDanceRemix)", "いとうかなこ", 1],
+    [15, "Hacking to the Gate (ScienceAdventureDanceRemix)", "いとうかなこ", 1],
+    [16, "La*La*Laラボリューション (ScienceAdventureDanceRemix)", "アフィリア・サーガ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2422,35 +2422,35 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Original Soundtrack"
 tracks = [
-    [1, "GATE OF STEINER -Main theme-", "阿保剛", 0],
-    [2, "The universe", "阿保剛", 0],
-    [3, "Laboratory", "阿保剛", 0],
-    [4, "Suspicious eyes", "阿保剛", 0],
-    [5, "Noisy times", "阿保剛", 0],
-    [6, "Explanation", "阿保剛", 0],
-    [7, "Quiet air", "阿保剛", 0],
-    [8, "Yanagibayashi", "阿保剛", 0],
-    [9, "Walking on sleeping", "阿保剛", 0],
-    [10, "Cycle", "阿保剛", 0],
-    [11, "Hack -beta ver.-", "阿保剛", 0],
-    [12, "SERN", "阿保剛", 0],
-    [13, "Assailant", "阿保剛", 0],
-    [14, "The Limit", "阿保剛", 0],
-    [15, "Select of sorrow", "阿保剛", 0],
-    [16, "Chaos mind", "阿保剛", 0],
-    [17, "Crossroads", "阿保剛", 0],
-    [18, "Self affirmation", "阿保剛", 0],
-    [19, "Believe me", "阿保剛", 0],
-    [20, "GATE OF STEINER -Piano-", "阿保剛", 0],
-    [21, "Hack -alpha ver.-", "阿保剛", 0],
-    [22, "Human community", "阿保剛", 0],
-    [23, "Network battle", "阿保剛", 0],
-    [24, "hesitative consideration", "阿保剛", 0],
-    [25, "Urd", "阿保剛", 0],
-    [26, "Fake Verthandi", "阿保剛", 0],
-    [27, "OPERATION SKULD", "阿保剛", 0],
-    [28, "Solitude", "阿保剛", 0],
-    [29, "Hack -short ver.-", "阿保剛", 0],
+    [1, "GATE OF STEINER -Main theme-", "阿保剛", 1],
+    [2, "The universe", "阿保剛", 1],
+    [3, "Laboratory", "阿保剛", 1],
+    [4, "Suspicious eyes", "阿保剛", 1],
+    [5, "Noisy times", "阿保剛", 1],
+    [6, "Explanation", "阿保剛", 1],
+    [7, "Quiet air", "阿保剛", 1],
+    [8, "Yanagibayashi", "阿保剛", 1],
+    [9, "Walking on sleeping", "阿保剛", 1],
+    [10, "Cycle", "阿保剛", 1],
+    [11, "Hack -beta ver.-", "阿保剛", 1],
+    [12, "SERN", "阿保剛", 1],
+    [13, "Assailant", "阿保剛", 1],
+    [14, "The Limit", "阿保剛", 1],
+    [15, "Select of sorrow", "阿保剛", 1],
+    [16, "Chaos mind", "阿保剛", 1],
+    [17, "Crossroads", "阿保剛", 1],
+    [18, "Self affirmation", "阿保剛", 1],
+    [19, "Believe me", "阿保剛", 1],
+    [20, "GATE OF STEINER -Piano-", "阿保剛", 1],
+    [21, "Hack -alpha ver.-", "阿保剛", 1],
+    [22, "Human community", "阿保剛", 1],
+    [23, "Network battle", "阿保剛", 1],
+    [24, "hesitative consideration", "阿保剛", 1],
+    [25, "Urd", "阿保剛", 1],
+    [26, "Fake Verthandi", "阿保剛", 1],
+    [27, "OPERATION SKULD", "阿保剛", 1],
+    [28, "Solitude", "阿保剛", 1],
+    [29, "Hack -short ver.-", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2459,27 +2459,27 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Arrangement Disc 5"
 tracks = [
-    [1, "GATE OF STEINER -symphonic ver.-", "阿保剛", 0],
-    [2, "Cycle -symphonic ver.-", "阿保剛", 0],
-    [3, "Explanation -symphonic ver.-", "阿保剛", 0],
-    [4, "Noisy times -symphonic ver.-", "阿保剛", 0],
-    [5, "Assailant -symphonic ver.-", "阿保剛", 0],
-    [6, "Laboratory -symphonic ver.-", "阿保剛", 0],
-    [7, "Ringing Medley -symphonic ver.-", "阿保剛", 0],
-    [8, "Human community -symphonic ver.-", "阿保剛", 0],
-    [9, "Crossroads -symphonic ver.-", "阿保剛", 0],
-    [10, "hesitative consideration -symphonic ver.-", "阿保剛", 0],
-    [11, "Chaos mind -symphonic ver.-", "阿保剛", 0],
-    [12, "Quiet air -symphonic ver.-", "阿保剛", 0],
-    [13, "OPERATION SKULD -symphonic ver.-", "阿保剛", 0],
-    [14, "GATE OF PHENOGRAM -symphonic ver.-", "阿保剛", 0],
-    [15, "Ringing -Beginning of fight-", "阿保剛", 0],
-    [16, "Ringing -Village-", "阿保剛", 0],
-    [17, "Ringing -Easygoingness-", "阿保剛", 0],
-    [18, "Ringing -Precaution-", "阿保剛", 0],
-    [19, "Ringing -Over the sky-", "阿保剛", 0],
-    [20, "Ringing -Reunion-", "阿保剛", 0],
-    [21, "Ringing -GATE OF STEINER-", "阿保剛", 0],
+    [1, "GATE OF STEINER -symphonic ver.-", "阿保剛", 1],
+    [2, "Cycle -symphonic ver.-", "阿保剛", 1],
+    [3, "Explanation -symphonic ver.-", "阿保剛", 1],
+    [4, "Noisy times -symphonic ver.-", "阿保剛", 1],
+    [5, "Assailant -symphonic ver.-", "阿保剛", 1],
+    [6, "Laboratory -symphonic ver.-", "阿保剛", 1],
+    [7, "Ringing Medley -symphonic ver.-", "阿保剛", 1],
+    [8, "Human community -symphonic ver.-", "阿保剛", 1],
+    [9, "Crossroads -symphonic ver.-", "阿保剛", 1],
+    [10, "hesitative consideration -symphonic ver.-", "阿保剛", 1],
+    [11, "Chaos mind -symphonic ver.-", "阿保剛", 1],
+    [12, "Quiet air -symphonic ver.-", "阿保剛", 1],
+    [13, "OPERATION SKULD -symphonic ver.-", "阿保剛", 1],
+    [14, "GATE OF PHENOGRAM -symphonic ver.-", "阿保剛", 1],
+    [15, "Ringing -Beginning of fight-", "阿保剛", 1],
+    [16, "Ringing -Village-", "阿保剛", 1],
+    [17, "Ringing -Easygoingness-", "阿保剛", 1],
+    [18, "Ringing -Precaution-", "阿保剛", 1],
+    [19, "Ringing -Over the sky-", "阿保剛", 1],
+    [20, "Ringing -Reunion-", "阿保剛", 1],
+    [21, "Ringing -GATE OF STEINER-", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2488,18 +2488,18 @@ catalognumber = "FVCG-1364"
 date = "2016-03-02"
 album = "The Sound of STEINS;GATE 魂(ザ・サウンド・オブ・シュタインズゲート・コンプリート) Arrangement Disc 6"
 tracks = [
-    [1, "Hacking to the Gate -symphonic ver.-", "いとうかなこ", 0],
-    [2, "プレギエーラの月夜に -symphonic ver.-", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "宇宙エンジニア -symphonic ver.-", "いとうかなこ", 0],
-    [4, "いつもこの場所で -symphonic ver.-", "彩音", 0],
-    [5, "非線形ジェニアック -symphonic ver.-", "いとうかなこ", 0],
-    [6, "スカイクラッドの観測者 -symphonic ver.-", "いとうかなこ", 0],
-    [7, "Hacking to the Gate -Instrumental- -symphonic ver.-", "いとうかなこ", 0],
-    [8, "プレギエーラの月夜に -Instrumental- -symphonic ver.-", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [9, "宇宙エンジニア -Instrumental- -symphonic ver.-", "いとうかなこ", 0],
-    [10, "いつもこの場所で -Instrumental- -symphonic ver.-", "彩音", 0],
-    [11, "非線形ジェニアック -Instrumental- -symphonic ver.-", "いとうかなこ", 0],
-    [12, "スカイクラッドの観測者 -Instrumental- -symphonic ver.-", "いとうかなこ", 0],
+    [1, "Hacking to the Gate -symphonic ver.-", "いとうかなこ", 1],
+    [2, "プレギエーラの月夜に -symphonic ver.-", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "宇宙エンジニア -symphonic ver.-", "いとうかなこ", 1],
+    [4, "いつもこの場所で -symphonic ver.-", "彩音", 1],
+    [5, "非線形ジェニアック -symphonic ver.-", "いとうかなこ", 1],
+    [6, "スカイクラッドの観測者 -symphonic ver.-", "いとうかなこ", 1],
+    [7, "Hacking to the Gate -Instrumental- -symphonic ver.-", "いとうかなこ", 1],
+    [8, "プレギエーラの月夜に -Instrumental- -symphonic ver.-", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [9, "宇宙エンジニア -Instrumental- -symphonic ver.-", "いとうかなこ", 1],
+    [10, "いつもこの場所で -Instrumental- -symphonic ver.-", "彩音", 1],
+    [11, "非線形ジェニアック -Instrumental- -symphonic ver.-", "いとうかなこ", 1],
+    [12, "スカイクラッドの観測者 -Instrumental- -symphonic ver.-", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/e398bbcd-ccb3-4a5a-bc2a-4c633f1c81d2", "https://vgmdb.net/album/55803"]
 
@@ -2583,10 +2583,10 @@ tracks = [
     [64, "コミック「シュタインズ・ゲート」第1巻限定特別付録 ラボメン円卓会議 #02 - 好計必至のロストチャイルド", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
     [65, "コミック「シュタインズ・ゲート」第1巻限定特別付録 ラボメン円卓会議 #03 - 脳内規制のプレッシャー", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
     [66, "コミック「シュタインズ・ゲート」第1巻限定特別付録 ラボメン円卓会議 #04 - 萌芽覚醒のインビテーション", "宮野真守, 今井麻美, 花澤香菜, 関智一, 後藤沙緒里, 田村ゆかり, 小林ゆう, 桃井はるこ, てらそままさき & 山本彩乃", 0],
-    [67, "コンプエース2011年11月号付録 シュタインズ・ゲート コンプエース オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃", 0],
-    [68, "コンプティーク2011年7月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり)", 0],
-    [69, "コンプティーク2011年10月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃), 音更千世(CV:味里)", 0],
-    [70, "コンプティーク2013年5月号付録 赤面必至のゴシップ", "牧瀬紅莉栖 (CV: 今井麻美), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), フェイリス・ニャンニャン (CV: 桃井はるこ)", 0],
+    [67, "コンプエース2011年11月号付録 シュタインズ・ゲート コンプエース オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃", 1],
+    [68, "コンプティーク2011年7月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり)", 1],
+    [69, "コンプティーク2011年10月号付録 シュタインズ・ゲート コンプティーク オリジナルドラマCD", "岡部倫太郎(CV:宮野真守), 牧瀬紅莉栖(CV:今井麻美), 椎名まゆり(CV:花澤香菜), 橋田至(CV:関智一), 桐生萌郁(CV:後藤沙緒里), 漆原るか(CV:小林ゆう), フェイリス・ニャンニャン(CV:桃井はるこ), 阿万音鈴羽(CV:田村ゆかり), 天王寺裕吾(CV:てらそままさき), 天王寺綯(CV:山本彩乃), 音更千世(CV:味里)", 1],
+    [70, "コンプティーク2013年5月号付録 赤面必至のゴシップ", "牧瀬紅莉栖 (CV: 今井麻美), 橋田至 (CV: 関智一), 桐生萌郁 (CV: 後藤沙緒里), フェイリス・ニャンニャン (CV: 桃井はるこ)", 1],
     [71, "STEINS;GATE Original Soundtrack+Radio CDより STEINS;GATEラジオ 未来ガジェット電波局 #01 - コミケ特別編", "今井麻美, 花澤香菜 & 桃井はるこ", 0],
     [72, "STEINS;GATE Original Soundtrack+Radio CDより STEINS;GATEラジオ 未来ガジェット電波局 #02 - サントラ特別編", "今井麻美 & 花澤香菜", 0],
     [73, "STEINS;GATE Original Soundtrack+Radio CDより STEINS;GATEラジオ 未来ガジェット電波局 #03 - 第1回", "今井麻美 & 花澤香菜", 0],
@@ -2696,14 +2696,14 @@ album = "GAMEのアニソン!!The BEST TUNES-1"
 tracks = [
     [1, "サクラサクミライコイユメ", "", 0],
     [2, "海色", "", 0],
-    [3, "純情スペクトラ", "", 0],
+    [3, "純情スペクトラ", "", 1],
     [4, "Breakin’through", "", 0],
     [5, "SWORD SUMMIT", "", 0],
     [6, "EXiSTENCE", "", 0],
     [7, "絶望性:ヒーロー治療薬", "", 0],
     [8, "Dimension tripper!!!!", "", 0],
     [9, "ideal white", "", 0],
-    [10, "Hacking to the Gate", "", 0],
+    [10, "Hacking to the Gate", "", 1],
     [11, "虹色センチメンタル", "", 0],
     [12, "プラスチックスマイル", "", 0],
     [13, "恋するレンズ", "", 0],
@@ -2725,7 +2725,7 @@ album = "THE IDOLM@STER CINDERELLA MASTER Cool jewelries! 003"
 tracks = [
     [1, "咲いてJewel", "鷺沢文香(CV:M・A・O)、速水奏(CV:飯田友子)、橘ありす(CV:佐藤亜美菜)、塩見周子(CV:ルゥ ティン)、二宮飛鳥(CV:青木志貴)", 0],
     [2, "きみにとどけ", "橘ありす", 0],
-    [3, "スカイクラッドの観測者", "二宮飛鳥(CV:青木志貴)", 0],
+    [3, "スカイクラッドの観測者", "二宮飛鳥(CV:青木志貴)", 1],
     [4, "奏(かなで)", "速水奏", 0],
     [5, "Reset", "塩見周子", 0],
     [6, "大きな古時計", "鷺沢文香(CV:M・A・O)", 0],
@@ -2741,24 +2741,24 @@ catalognumber = "FVCG-1382"
 date = "2016-08-24"
 album = "「STEINS;GATE 0 SOUND TRACKS」-完全版- Disc 1"
 tracks = [
-    [1, "アマデウス", "いとうかなこ", 0],
-    [2, "Messenger -main theme-", "阿保剛", 0],
-    [3, "Aug.13,2036", "阿保剛", 0],
-    [4, "First leap", "阿保剛", 0],
-    [5, "Amadeus", "阿保剛", 0],
-    [6, "Newcomer", "阿保剛", 0],
-    [7, "Logical theme", "阿保剛", 0],
-    [8, "Easygoing members", "阿保剛", 0],
-    [9, "Her community", "阿保剛", 0],
-    [10, "Isolation", "阿保剛", 0],
-    [11, "Okey-dokey", "阿保剛", 0],
-    [12, "Future of spirit", "阿保剛", 0],
-    [13, "Riskful dialogue", "阿保剛", 0],
-    [14, "Fellowship", "阿保剛", 0],
-    [15, "Chasers", "阿保剛", 0],
-    [16, "In a relief time", "阿保剛", 0],
-    [17, "Reading steiner", "阿保剛", 0],
-    [18, "星の奏でる歌", "椎名かがり(cv.潘めぐみ)", 0],
+    [1, "アマデウス", "いとうかなこ", 1],
+    [2, "Messenger -main theme-", "阿保剛", 1],
+    [3, "Aug.13,2036", "阿保剛", 1],
+    [4, "First leap", "阿保剛", 1],
+    [5, "Amadeus", "阿保剛", 1],
+    [6, "Newcomer", "阿保剛", 1],
+    [7, "Logical theme", "阿保剛", 1],
+    [8, "Easygoing members", "阿保剛", 1],
+    [9, "Her community", "阿保剛", 1],
+    [10, "Isolation", "阿保剛", 1],
+    [11, "Okey-dokey", "阿保剛", 1],
+    [12, "Future of spirit", "阿保剛", 1],
+    [13, "Riskful dialogue", "阿保剛", 1],
+    [14, "Fellowship", "阿保剛", 1],
+    [15, "Chasers", "阿保剛", 1],
+    [16, "In a relief time", "阿保剛", 1],
+    [17, "Reading steiner", "阿保剛", 1],
+    [18, "星の奏でる歌", "椎名かがり(cv.潘めぐみ)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/367f6192-c622-42df-ac86-efefa8916f4f", "https://vgmdb.net/album/59577"]
 
@@ -2767,27 +2767,27 @@ catalognumber = "FVCG-1382"
 date = "2016-08-24"
 album = "「STEINS;GATE 0 SOUND TRACKS」-完全版- Disc 2"
 tracks = [
-    [1, "Messenger -piano-", "阿保剛", 0],
-    [2, "ピアノソナタ11番第1楽章", "[unknown]", 0],
-    [3, "ピアノソナタ11番第3楽章", "[unknown]", 0],
-    [4, "Shuddery view", "阿保剛", 0],
-    [5, "Tactics in confusion", "阿保剛", 0],
-    [6, "Fellowship -piano-", "阿保剛", 0],
-    [7, "Okey-dokey -short-", "阿保剛", 0],
-    [8, "GIRLISH -amusements ver.-", "阿保剛", 0],
-    [9, "星の奏でる歌 -music box-", "MANYO", 0],
-    [10, "Chasers 2nd", "阿保剛", 0],
-    [11, "Berserk", "阿保剛", 0],
-    [12, "Re-awake", "阿保剛", 0],
-    [13, "The end of messenger", "阿保剛", 0],
-    [14, "Messenger from zero", "阿保剛", 0],
-    [15, "Believe me -zero-", "阿保剛", 0],
-    [16, "SG 0 preview", "阿保剛", 0],
-    [17, "アマデウス -instrumental-", "いとうかなこ", 0],
-    [18, "ライア -instrumental-", "Zwei", 0],
-    [19, "ライア", "Zwei", 0],
-    [20, "GATE OF STEINER", "佐々木恵梨", 0],
-    [21, "Messenger -main theme- (OPM arrange)", "阿保剛", 0],
+    [1, "Messenger -piano-", "阿保剛", 1],
+    [2, "ピアノソナタ11番第1楽章", "[unknown]", 1],
+    [3, "ピアノソナタ11番第3楽章", "[unknown]", 1],
+    [4, "Shuddery view", "阿保剛", 1],
+    [5, "Tactics in confusion", "阿保剛", 1],
+    [6, "Fellowship -piano-", "阿保剛", 1],
+    [7, "Okey-dokey -short-", "阿保剛", 1],
+    [8, "GIRLISH -amusements ver.-", "阿保剛", 1],
+    [9, "星の奏でる歌 -music box-", "MANYO", 1],
+    [10, "Chasers 2nd", "阿保剛", 1],
+    [11, "Berserk", "阿保剛", 1],
+    [12, "Re-awake", "阿保剛", 1],
+    [13, "The end of messenger", "阿保剛", 1],
+    [14, "Messenger from zero", "阿保剛", 1],
+    [15, "Believe me -zero-", "阿保剛", 1],
+    [16, "SG 0 preview", "阿保剛", 1],
+    [17, "アマデウス -instrumental-", "いとうかなこ", 1],
+    [18, "ライア -instrumental-", "Zwei", 1],
+    [19, "ライア", "Zwei", 1],
+    [20, "GATE OF STEINER", "佐々木恵梨", 1],
+    [21, "Messenger -main theme- (OPM arrange)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/367f6192-c622-42df-ac86-efefa8916f4f", "https://vgmdb.net/album/59577"]
 
@@ -2796,14 +2796,14 @@ catalognumber = "HBDC-910"
 date = "2016-08-26"
 album = "STEINS;GATE 0×SHOT MUSIC Remix Medley"
 tracks = [
-    [1, "Her community -remix-", "阿保剛", 0],
+    [1, "Her community -remix-", "阿保剛", 1],
     [2, "Logical theme -remix-", "阿保剛", 0],
-    [3, "Isolation -remix-", "阿保剛", 0],
+    [3, "Isolation -remix-", "阿保剛", 1],
     [4, "Re-awake -remix-", "阿保剛", 0],
     [5, "Amadeus -remix-", "阿保剛", 0],
-    [6, "星の奏でる歌 -remix-", "阿保剛", 0],
-    [7, "Messenger -remix-", "阿保剛", 0],
-    [8, "Newcomer -remix-", "阿保剛", 0],
+    [6, "星の奏でる歌 -remix-", "阿保剛", 1],
+    [7, "Messenger -remix-", "阿保剛", 1],
+    [8, "Newcomer -remix-", "阿保剛", 1],
     [9, "Berserk -remix-", "阿保剛", 0],
     [10, "Fellowship -remix-", "阿保剛", 0],
 ]
@@ -2814,16 +2814,16 @@ catalognumber = "N/A"
 date = "2016-11-29"
 album = "STEINS;GATE 0 - SELECTED SOUND WORKS"
 tracks = [
-    [1, "Messenger - Main Theme", "阿保剛", 0],
-    [2, "Believe Me", "阿保剛", 0],
-    [3, "Isolation", "阿保剛", 0],
-    [4, "Newcomer", "阿保剛", 0],
-    [5, "Future of Spirit", "阿保剛", 0],
-    [6, "Her Community", "阿保剛", 0],
-    [7, "Messenger - From Zero", "阿保剛", 0],
-    [8, "Messenger - Piano", "阿保剛", 0],
+    [1, "Messenger - Main Theme", "阿保剛", 1],
+    [2, "Believe Me", "阿保剛", 1],
+    [3, "Isolation", "阿保剛", 1],
+    [4, "Newcomer", "阿保剛", 1],
+    [5, "Future of Spirit", "阿保剛", 1],
+    [6, "Her Community", "阿保剛", 1],
+    [7, "Messenger - From Zero", "阿保剛", 1],
+    [8, "Messenger - Piano", "阿保剛", 1],
     [9, "A Song for the Stars - Music Box", "MANYO", 0],
-    [10, "Tactics in Confusion", "阿保剛", 0],
+    [10, "Tactics in Confusion", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/072d5233-175f-480c-b70f-2acbc39f8693", "https://vgmdb.net/album/60925"]
 
@@ -2835,9 +2835,9 @@ tracks = [
     [1, "Find The Love", "", 0],
     [2, "Red Zone", "", 0],
     [3, "AKASI", "", 0],
-    [4, "真っ向", "", 0],
+    [4, "真っ向", "", 1],
     [5, "MY OWN LIFE", "", 0],
-    [6, "ライア", "", 0],
+    [6, "ライア", "", 1],
     [7, "Fallen Angels Night", "", 0],
     [8, "CRYSTAL CLASH", "", 0],
     [9, "Eternity", "", 0],
@@ -2853,7 +2853,7 @@ tracks = [
     [1, "Ring of Fortune", "佐々木恵梨", 0],
     [2, "Be clear", "佐々木恵梨", 0],
     [3, "Recalling", "佐々木恵梨", 0],
-    [4, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 0],
+    [4, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 1],
     [5, "シャンプー", "佐々木恵梨", 0],
     [6, "Pausing", "佐々木恵梨", 0],
     [7, "オトニナル", "佐々木恵梨", 0],
@@ -2872,7 +2872,7 @@ album = "Period / 佐々木恵梨 Disc 2 (DVD) [USSW-0047-2]"
 tracks = [
     [1, "Be clear", "佐々木恵梨", 0],
     [2, "Last Diary", "佐々木恵梨", 0],
-    [3, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 0],
+    [3, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 1],
     [4, "Star seed", "佐々木恵梨", 0],
     [5, "Pausing", "佐々木恵梨", 0],
     [6, "オトニナル", "佐々木恵梨", 0],
@@ -2888,7 +2888,7 @@ tracks = [
     [1, "Ring of Fortune", "佐々木恵梨", 0],
     [2, "Be clear", "佐々木恵梨", 0],
     [3, "Recalling", "佐々木恵梨", 0],
-    [4, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 0],
+    [4, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 1],
     [5, "シャンプー", "佐々木恵梨", 0],
     [6, "Pausing", "佐々木恵梨", 0],
     [7, "オトニナル", "佐々木恵梨", 0],
@@ -2911,14 +2911,14 @@ tracks = [
     [4, "シンギュラリティ", "いとうかなこ", 0],
     [5, "Calling my Twilight", "いとうかなこ", 0],
     [6, "cherish", "いとうかなこ", 0],
-    [7, "Ignis", "いとうかなこ", 0],
+    [7, "Ignis", "いとうかなこ", 1],
     [8, "G.O.S", "いとうかなこ", 0],
     [9, "宿命の楔", "いとうかなこ", 0],
     [10, "Uncontrollable", "いとうかなこ", 0],
     [11, "TRUE QUALIA", "いとうかなこ", 0],
     [12, "聖数3の二乗", "いとうかなこ", 0],
-    [13, "アマデウス", "いとうかなこ", 0],
-    [14, "chaos symphony", "いとうかなこ", 0],
+    [13, "アマデウス", "いとうかなこ", 1],
+    [14, "chaos symphony", "いとうかなこ", 1],
     [15, "FM-KCZ", "いとうかなこ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/5b2acbd7-9862-47ef-b0d5-e2cb3ce29f97", "https://vgmdb.net/album/70886"]
@@ -2942,7 +2942,7 @@ tracks = [
     [1, "Last memories -main theme-", "", 0],
     [2, "Yesterdays", "", 0],
     [3, "THE OCCULTISM -MAIN THEME-", "", 0],
-    [4, "Messenger -main theme-", "", 0],
+    [4, "Messenger -main theme-", "", 1],
     [5, "Karma", "", 0],
 ]
 links = ["https://vgmdb.net/album/75508"]
@@ -2952,11 +2952,11 @@ catalognumber = "ZSCM-18149"
 date = "2018-02-24"
 album = "ITO KANAKO LIVE vol.1 ～科学ADV SONGS～"
 tracks = [
-    [1, "はじまりの歌", "いとうかなこ", 0],
-    [2, "スカイクラッドの観測者", "いとうかなこ", 0],
+    [1, "はじまりの歌", "いとうかなこ", 1],
+    [2, "スカイクラッドの観測者", "いとうかなこ", 1],
     [3, "fake me", "いとうかなこ", 0],
     [4, "クライ", "いとうかなこ", 0],
-    [5, "アマデウス", "いとうかなこ", 0],
+    [5, "アマデウス", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9599b536-fde5-434a-9fb0-dbe90ebd6545", "https://vgmdb.net/album/92633"]
 
@@ -2965,10 +2965,10 @@ catalognumber = "USSW-0093"
 date = "2018-04-25"
 album = "LAST GAME / Zwei"
 tracks = [
-    [1, "LAST GAME", "Zwei", 0],
-    [2, "Don't cry!", "Zwei", 0],
-    [3, "LAST GAME (off Vocal)", "Zwei", 0],
-    [4, "Don't cry! (off Vocal)", "Zwei", 0],
+    [1, "LAST GAME", "Zwei", 1],
+    [2, "Don't cry!", "Zwei", 1],
+    [3, "LAST GAME (off Vocal)", "Zwei", 1],
+    [4, "Don't cry! (off Vocal)", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/03ec2694-1566-4f32-ace5-d517e683d5ff", "https://vgmdb.net/album/75242"]
 
@@ -2977,12 +2977,12 @@ catalognumber = "USSW-0096"
 date = "2018-04-25"
 album = "ファティマ / いとうかなこ"
 tracks = [
-    [1, "ファティマ", "いとうかなこ", 0],
-    [2, "はじまりの歌", "いとうかなこ", 0],
-    [3, "宿業ノ剣", "いとうかなこ", 0],
-    [4, "ファティマ (off vocal)", "いとうかなこ", 0],
-    [5, "はじまりの歌 (off vocal)", "いとうかなこ", 0],
-    [6, "宿業ノ剣 (off vocal)", "いとうかなこ", 0],
+    [1, "ファティマ", "いとうかなこ", 1],
+    [2, "はじまりの歌", "いとうかなこ", 1],
+    [3, "宿業ノ剣", "いとうかなこ", 1],
+    [4, "ファティマ (off vocal)", "いとうかなこ", 1],
+    [5, "はじまりの歌 (off vocal)", "いとうかなこ", 1],
+    [6, "宿業ノ剣 (off vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/eeee4679-6b6f-4f9f-9e1c-a0698a13613a", "https://vgmdb.net/album/75243"]
 
@@ -3001,14 +3001,14 @@ catalognumber = "SG0SP-0001"
 date = "2018-06-27"
 album = "STEINS;GATE 0 DRAMA CD 混合焙煎のエンカウンター"
 tracks = [
-    [1, "Akihabara 25.DEC.2010", "[dialogue]", 0],
-    [2, "Ikebukuro 25.DEC.2010", "[dialogue]", 0],
-    [3, "Viktor Chondria Unv. 5.SEP.2009", "[dialogue]", 0],
-    [4, "Ikebukuro 25.DEC.2010", "[dialogue]", 0],
-    [5, "Akihabara 25.DEC.2010", "[dialogue]", 0],
-    [6, "Viktor Chondria Unv. 7.OCT.2009", "[dialogue]", 0],
-    [7, "Ikebukuro 25.DEC.2010", "[dialogue]", 0],
-    [8, "Viktor Chondria Unv. 15.OCT.2009", "[dialogue]", 0],
+    [1, "Akihabara 25.DEC.2010", "[dialogue]", 1],
+    [2, "Ikebukuro 25.DEC.2010", "[dialogue]", 1],
+    [3, "Viktor Chondria Unv. 5.SEP.2009", "[dialogue]", 1],
+    [4, "Ikebukuro 25.DEC.2010", "[dialogue]", 1],
+    [5, "Akihabara 25.DEC.2010", "[dialogue]", 1],
+    [6, "Viktor Chondria Unv. 7.OCT.2009", "[dialogue]", 1],
+    [7, "Ikebukuro 25.DEC.2010", "[dialogue]", 1],
+    [8, "Viktor Chondria Unv. 15.OCT.2009", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/fcd85151-2abb-45c3-a0d5-8cd0e1f862df", "https://vgmdb.net/album/76188"]
 
@@ -3017,11 +3017,11 @@ catalognumber = "SG0SP-0002"
 date = "2018-07-25"
 album = "STEINS;GATE 0 DJCD 真帆とかがりのコドモの科学ラジオ"
 tracks = [
-    [1, "オープニング", "[dialogue]", 0],
-    [2, "ゲストトーク", "[dialogue]", 0],
-    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 0],
-    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 0],
-    [5, "エンディング", "[dialogue]", 0],
+    [1, "オープニング", "[dialogue]", 1],
+    [2, "ゲストトーク", "[dialogue]", 1],
+    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 1],
+    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 1],
+    [5, "エンディング", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/8d8d43d4-7915-4999-8c87-4959fb6a67cf", "https://vgmdb.net/album/76189"]
 
@@ -3041,10 +3041,10 @@ catalognumber = "SG0SP-0003"
 date = "2018-08-24"
 album = "STEINS;GATE 0 DRAMA CD 自由粒子のランナウェイ"
 tracks = [
-    [1, "The Conference", "[dialogue]", 0],
-    [2, "The girl", "[dialogue]", 0],
-    [3, "The problem", "[dialogue]", 0],
-    [4, "The future", "[dialogue]", 0],
+    [1, "The Conference", "[dialogue]", 1],
+    [2, "The girl", "[dialogue]", 1],
+    [3, "The problem", "[dialogue]", 1],
+    [4, "The future", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/9f73e0ef-b714-4620-be23-21a671141f5e", "https://vgmdb.net/album/76190"]
 
@@ -3053,12 +3053,12 @@ catalognumber = "USSW-0110"
 date = "2018-08-29"
 album = "World-Line / 今井麻美"
 tracks = [
-    [1, "World-Line", "今井麻美", 0],
-    [2, "アメノアトニ~Brighter Days Ahead~", "今井麻美", 0],
-    [3, "Blue Feather", "今井麻美", 0],
-    [4, "World-Line (off vocal)", "今井麻美", 0],
-    [5, "アメノアトニ~Brighter Days Ahead~ (off vocal)", "今井麻美", 0],
-    [6, "Blue Feather (off vocal)", "今井麻美", 0],
+    [1, "World-Line", "今井麻美", 1],
+    [2, "アメノアトニ~Brighter Days Ahead~", "今井麻美", 1],
+    [3, "Blue Feather", "今井麻美", 1],
+    [4, "World-Line (off vocal)", "今井麻美", 1],
+    [5, "アメノアトニ~Brighter Days Ahead~ (off vocal)", "今井麻美", 1],
+    [6, "Blue Feather (off vocal)", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/758cae69-7f6c-4880-a6e7-e52d7e9f2d91", "https://vgmdb.net/album/78043"]
 
@@ -3067,13 +3067,13 @@ catalognumber = "USSW-0109"
 date = "2018-08-29"
 album = "World-Line / 今井麻美 Vocal, Drama"
 tracks = [
-    [1, "World-Line", "今井麻美", 0],
-    [2, "アメノアトニ~Brighter Days Ahead~", "今井麻美", 0],
-    [3, "Blue Feather", "今井麻美", 0],
-    [4, "World-Line (off vocal)", "今井麻美", 0],
-    [5, "アメノアトニ~Brighter Days Ahead~ (off vocal)", "今井麻美", 0],
-    [6, "Blue Feather (off vocal)", "今井麻美", 0],
-    [7, "牧瀬紅莉栖モノローグ『星芒のアリア』", "牧瀬紅莉栖(CV.今井麻美)", 0],
+    [1, "World-Line", "今井麻美", 1],
+    [2, "アメノアトニ~Brighter Days Ahead~", "今井麻美", 1],
+    [3, "Blue Feather", "今井麻美", 1],
+    [4, "World-Line (off vocal)", "今井麻美", 1],
+    [5, "アメノアトニ~Brighter Days Ahead~ (off vocal)", "今井麻美", 1],
+    [6, "Blue Feather (off vocal)", "今井麻美", 1],
+    [7, "牧瀬紅莉栖モノローグ『星芒のアリア』", "牧瀬紅莉栖(CV.今井麻美)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6d2a011f-7306-45c7-98e7-328f608515ab", "https://vgmdb.net/album/78044"]
 
@@ -3082,8 +3082,8 @@ catalognumber = "USSW-0109"
 date = "2018-08-29"
 album = "World-Line / 今井麻美 Vocal"
 tracks = [
-    [1, "World-Line (Music Video)", "今井麻美", 0],
-    [2, "World-Line (Music Video メイキング映像)", "今井麻美", 0],
+    [1, "World-Line (Music Video)", "今井麻美", 1],
+    [2, "World-Line (Music Video メイキング映像)", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/6d2a011f-7306-45c7-98e7-328f608515ab", "https://vgmdb.net/album/78044"]
 
@@ -3092,11 +3092,11 @@ catalognumber = "USSW-0083"
 date = "2018-09-19"
 album = "アニーの指輪 / ファンタズム(FES cv.榊原ゆい)"
 tracks = [
-    [1, "アニーの指輪", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [2, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [4, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 0],
-    [5, "アニーの指輪 (Instrumental Ver.)", "ファンタズム (FES cv. 榊原ゆい)", 0],
+    [1, "アニーの指輪", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [2, "運命のファルファッラ", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [3, "プレギエーラの月夜に", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [4, "刻司ル十二ノ盟約", "ファンタズム (FES cv. 榊原ゆい)", 1],
+    [5, "アニーの指輪 (Instrumental Ver.)", "ファンタズム (FES cv. 榊原ゆい)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/1efd892e-9bc6-4a7a-9660-a64a9c91ae0e", "https://vgmdb.net/album/78964"]
 
@@ -3105,10 +3105,10 @@ catalognumber = "USSW-0122"
 date = "2018-09-19"
 album = "COSMIC LOOPER / いとうかなこ"
 tracks = [
-    [1, "COSMIC LOOPER", "いとうかなこ", 0],
-    [2, "スターダスト", "いとうかなこ", 0],
-    [3, "COSMIC LOOPER (Off Vocal)", "いとうかなこ", 0],
-    [4, "スターダスト (Off Vocal)", "いとうかなこ", 0],
+    [1, "COSMIC LOOPER", "いとうかなこ", 1],
+    [2, "スターダスト", "いとうかなこ", 1],
+    [3, "COSMIC LOOPER (Off Vocal)", "いとうかなこ", 1],
+    [4, "スターダスト (Off Vocal)", "いとうかなこ", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ce028d7c-2dcf-4f0a-9108-85e68e6d2133", "https://vgmdb.net/album/78963"]
 
@@ -3117,30 +3117,30 @@ catalognumber = "USSW-0118"
 date = "2018-09-19"
 album = "TVアニメ『シュタインズ・ゲート ゼロ』オリジナルサウンドトラック Original Soundtrack, Vocal"
 tracks = [
-    [1, "ファティマ (TVサイズ Ver.)", "いとうかなこ", 0],
-    [2, "アマデウス (TVサイズ Ver.)", "いとうかなこ", 0],
-    [3, "B-Messenger", "阿保剛", 0],
-    [4, "いつの日か -Believe me-", "阿保剛", 0],
-    [5, "比屋定真帆", "阿保剛", 0],
-    [6, "アマデウスシステム", "阿保剛", 0],
-    [7, "ロジック", "阿保剛", 0],
-    [8, "記憶", "阿保剛", 0],
-    [9, "跳躍", "阿保剛", 0],
-    [10, "孤独", "阿保剛", 0],
-    [11, "ラボメン", "阿保剛", 0],
-    [12, "コミマ", "阿保剛", 0],
-    [13, "お掃除軍曹", "日向萌", 0],
-    [14, "コミカル", "阿保剛", 0],
-    [15, "特訓", "阿保剛", 0],
-    [16, "デキる男・ダル", "阿保剛", 0],
-    [17, "施設", "阿保剛", 0],
-    [18, "リーディングシュタイナー発動", "阿保剛", 0],
-    [19, "作戦", "阿保剛", 0],
-    [20, "収束", "阿保剛", 0],
-    [21, "ラボメン -piano-", "阿保剛", 0],
-    [22, "星の奏でる歌 (Duet Ver.)", "椎名まゆり(cv.花澤香菜), 椎名かがり(cv.潘めぐみ)", 0],
-    [23, "ライア (TVサイズ Ver.)", "Zwei", 0],
-    [24, "LAST GAME (TVサイズ Ver.)", "Zwei", 0],
+    [1, "ファティマ (TVサイズ Ver.)", "いとうかなこ", 1],
+    [2, "アマデウス (TVサイズ Ver.)", "いとうかなこ", 1],
+    [3, "B-Messenger", "阿保剛", 1],
+    [4, "いつの日か -Believe me-", "阿保剛", 1],
+    [5, "比屋定真帆", "阿保剛", 1],
+    [6, "アマデウスシステム", "阿保剛", 1],
+    [7, "ロジック", "阿保剛", 1],
+    [8, "記憶", "阿保剛", 1],
+    [9, "跳躍", "阿保剛", 1],
+    [10, "孤独", "阿保剛", 1],
+    [11, "ラボメン", "阿保剛", 1],
+    [12, "コミマ", "阿保剛", 1],
+    [13, "お掃除軍曹", "日向萌", 1],
+    [14, "コミカル", "阿保剛", 1],
+    [15, "特訓", "阿保剛", 1],
+    [16, "デキる男・ダル", "阿保剛", 1],
+    [17, "施設", "阿保剛", 1],
+    [18, "リーディングシュタイナー発動", "阿保剛", 1],
+    [19, "作戦", "阿保剛", 1],
+    [20, "収束", "阿保剛", 1],
+    [21, "ラボメン -piano-", "阿保剛", 1],
+    [22, "星の奏でる歌 (Duet Ver.)", "椎名まゆり(cv.花澤香菜), 椎名かがり(cv.潘めぐみ)", 1],
+    [23, "ライア (TVサイズ Ver.)", "Zwei", 1],
+    [24, "LAST GAME (TVサイズ Ver.)", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad06986e-96d6-4f46-96da-424b6d150276", "https://vgmdb.net/album/78941"]
 
@@ -3149,39 +3149,39 @@ catalognumber = "USSW-0118"
 date = "2018-09-19"
 album = "TVアニメ『シュタインズ・ゲート ゼロ』オリジナルサウンドトラック Original Soundtrack, Vocal, Drama"
 tracks = [
-    [1, "B-Messenger -piano-", "阿保剛", 0],
-    [2, "自問自答", "阿保剛", 0],
-    [3, "モノローグ", "日向萌", 0],
-    [4, "鈴羽", "信澤宣明", 0],
-    [5, "考察", "日向萌", 0],
-    [6, "鈴羽の焦り", "信澤宣明", 0],
-    [7, "父と娘", "日向萌", 0],
-    [8, "比屋定とサリエリ", "信澤宣明", 0],
-    [9, "星の奏でる歌 -piano-", "信澤宣明", 0],
-    [10, "星の奏でる歌 -strings quartet-", "信澤宣明", 0],
-    [11, "ダルと由季", "日向萌", 0],
-    [12, "岡部を知らない紅莉栖", "信澤宣明", 0],
-    [13, "厨二を捨てた岡部", "阿保剛", 0],
-    [14, "洗脳", "日向萌", 0],
-    [15, "比屋定の決意", "信澤宣明", 0],
-    [16, "鈴羽の願い", "阿保剛", 0],
-    [17, "まゆりの悲しみ", "阿保剛", 0],
-    [18, "B-Messenger -strings quartet-", "信澤宣明", 0],
-    [19, "まゆりの決意", "日向萌", 0],
-    [20, "争奪戦", "阿保剛", 0],
-    [21, "再生される魔笛", "日向萌", 0],
-    [22, "修羅", "阿保剛", 0],
-    [23, "怒り", "日向萌", 0],
-    [24, "岡部の挑戦", "阿保剛", 0],
-    [25, "オペレーションアークライト", "信澤宣明", 0],
-    [26, "ワルキューレ", "信澤宣明", 0],
-    [27, "るかの死", "信澤宣明", 0],
-    [28, "0からの使者", "阿保剛", 0],
-    [29, "覚醒 're-awake'", "阿保剛", 0],
-    [30, "ラストミッション", "日向萌", 0],
-    [31, "World-Line (TVサイズ Ver.)", "今井麻美", 0],
-    [32, "GATE OF STEINER", "佐々木恵梨", 0],
-    [33, "モノローグドラマ「催涙雨のパドル」", "椎名まゆり (cv.花澤香菜)", 0],
+    [1, "B-Messenger -piano-", "阿保剛", 1],
+    [2, "自問自答", "阿保剛", 1],
+    [3, "モノローグ", "日向萌", 1],
+    [4, "鈴羽", "信澤宣明", 1],
+    [5, "考察", "日向萌", 1],
+    [6, "鈴羽の焦り", "信澤宣明", 1],
+    [7, "父と娘", "日向萌", 1],
+    [8, "比屋定とサリエリ", "信澤宣明", 1],
+    [9, "星の奏でる歌 -piano-", "信澤宣明", 1],
+    [10, "星の奏でる歌 -strings quartet-", "信澤宣明", 1],
+    [11, "ダルと由季", "日向萌", 1],
+    [12, "岡部を知らない紅莉栖", "信澤宣明", 1],
+    [13, "厨二を捨てた岡部", "阿保剛", 1],
+    [14, "洗脳", "日向萌", 1],
+    [15, "比屋定の決意", "信澤宣明", 1],
+    [16, "鈴羽の願い", "阿保剛", 1],
+    [17, "まゆりの悲しみ", "阿保剛", 1],
+    [18, "B-Messenger -strings quartet-", "信澤宣明", 1],
+    [19, "まゆりの決意", "日向萌", 1],
+    [20, "争奪戦", "阿保剛", 1],
+    [21, "再生される魔笛", "日向萌", 1],
+    [22, "修羅", "阿保剛", 1],
+    [23, "怒り", "日向萌", 1],
+    [24, "岡部の挑戦", "阿保剛", 1],
+    [25, "オペレーションアークライト", "信澤宣明", 1],
+    [26, "ワルキューレ", "信澤宣明", 1],
+    [27, "るかの死", "信澤宣明", 1],
+    [28, "0からの使者", "阿保剛", 1],
+    [29, "覚醒 're-awake'", "阿保剛", 1],
+    [30, "ラストミッション", "日向萌", 1],
+    [31, "World-Line (TVサイズ Ver.)", "今井麻美", 1],
+    [32, "GATE OF STEINER", "佐々木恵梨", 1],
+    [33, "モノローグドラマ「催涙雨のパドル」", "椎名まゆり (cv.花澤香菜)", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/ad06986e-96d6-4f46-96da-424b6d150276", "https://vgmdb.net/album/78941"]
 
@@ -3190,11 +3190,11 @@ catalognumber = "SG0SP-0004"
 date = "2018-09-26"
 album = "STEINS;GATE 0 DJCD 真帆とかがりのコドモの科学ラジオ"
 tracks = [
-    [1, "オープニング", "[dialogue]", 0],
-    [2, "ゲストトーク", "[dialogue]", 0],
-    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 0],
-    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 0],
-    [5, "エンディング", "[dialogue]", 0],
+    [1, "オープニング", "[dialogue]", 1],
+    [2, "ゲストトーク", "[dialogue]", 1],
+    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 1],
+    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 1],
+    [5, "エンディング", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/afdbff03-78dd-4d70-87b4-91cdcf2d5d2a", "https://vgmdb.net/album/76191"]
 
@@ -3205,7 +3205,7 @@ album = "Steins;Gate: Piano Selections"
 tracks = [
     [1, "Suzuha's Farewell", "", 0],
     [2, "Christina", "", 0],
-    [3, "Believe Me", "", 0],
+    [3, "Believe Me", "", 1],
 ]
 links = ["https://vgmdb.net/album/82207"]
 
@@ -3214,11 +3214,11 @@ catalognumber = "SG0SP-0005"
 date = "2018-11-28"
 album = "STEINS;GATE 0 DRAMA CD 饗宴のワルキューレ"
 tracks = [
-    [1, "「饗宴のワルキューレ」Aパート", "[dialogue]", 0],
-    [2, "「饗宴のワルキューレ」Bパート", "[dialogue]", 0],
-    [3, "「饗宴のワルキューレ」Cパート", "[dialogue]", 0],
-    [4, "「饗宴のワルキューレ」Dパート", "[dialogue]", 0],
-    [5, "「饗宴のワルキューレ」Eパート", "[dialogue]", 0],
+    [1, "「饗宴のワルキューレ」Aパート", "[dialogue]", 1],
+    [2, "「饗宴のワルキューレ」Bパート", "[dialogue]", 1],
+    [3, "「饗宴のワルキューレ」Cパート", "[dialogue]", 1],
+    [4, "「饗宴のワルキューレ」Dパート", "[dialogue]", 1],
+    [5, "「饗宴のワルキューレ」Eパート", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/b6abd3f0-cf85-47d8-88bc-398606188d58", "https://vgmdb.net/album/76192"]
 
@@ -3227,11 +3227,11 @@ catalognumber = "SG0SP-0006"
 date = "2018-12-21"
 album = "STEINS;GATE 0 DJCD 真帆とかがりのコドモの科学ラジオ"
 tracks = [
-    [1, "オープニング", "[dialogue]", 0],
-    [2, "ゲストトーク", "[dialogue]", 0],
-    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 0],
-    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 0],
-    [5, "エンディング", "[dialogue]", 0],
+    [1, "オープニング", "[dialogue]", 1],
+    [2, "ゲストトーク", "[dialogue]", 1],
+    [3, "シュタゲゼロ個人的ハイライト", "[dialogue]", 1],
+    [4, "選抜遊戯のシュタゲゼロ!", "[dialogue]", 1],
+    [5, "エンディング", "[dialogue]", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/3f83cf20-772f-4ef5-8918-03cb0ae73cc2", "https://vgmdb.net/album/76193"]
 
@@ -3247,7 +3247,7 @@ tracks = [
     [5, "デート2(「 君の名は。 」より)", "", 0],
     [6, "DAYS of DASH(「 さくら荘のペットな彼女 」より)", "", 0],
     [7, "A Tender Feeling(「 ソードアート・オンライン 」より)", "", 0],
-    [8, "Believe Me(「 シュタインズ・ゲート 」より)", "", 0],
+    [8, "Believe Me(「 シュタインズ・ゲート 」より)", "", 1],
     [9, "Pf-Medley(「 進撃の巨人 」より)", "", 0],
     [10, "Lit(「 聲の形 」より)", "", 0],
 ]
@@ -3258,16 +3258,16 @@ catalognumber = "FPBD-0498"
 date = "2018-12-29"
 album = "ファミコレ アドベンチャー STEINS;GATE オリジナルサウンドトラック"
 tracks = [
-    [1, "GATE OF STEINER", "chibi‐tech", 0],
-    [2, "Laboratory", "chibi‐tech", 0],
-    [3, "Noisy times", "chibi‐tech", 0],
-    [4, "Explanation", "chibi‐tech", 0],
-    [5, "Believe me", "chibi‐tech", 0],
-    [6, "Walking on sleeping", "chibi‐tech", 0],
-    [7, "Urd", "chibi‐tech", 0],
-    [8, "Crossroads", "chibi‐tech", 0],
-    [9, "Ringing -Beginning of fight-", "chibi‐tech", 0],
-    [10, "スカイクラッドの観測者 8BIT Mix(instrumental)", "chibi‐tech", 0],
+    [1, "GATE OF STEINER", "chibi‐tech", 1],
+    [2, "Laboratory", "chibi‐tech", 1],
+    [3, "Noisy times", "chibi‐tech", 1],
+    [4, "Explanation", "chibi‐tech", 1],
+    [5, "Believe me", "chibi‐tech", 1],
+    [6, "Walking on sleeping", "chibi‐tech", 1],
+    [7, "Urd", "chibi‐tech", 1],
+    [8, "Crossroads", "chibi‐tech", 1],
+    [9, "Ringing -Beginning of fight-", "chibi‐tech", 1],
+    [10, "スカイクラッドの観測者 8BIT Mix(instrumental)", "chibi‐tech", 1],
     [11, "S.E.COLLECTION", "[unknown]", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/45ae5e9e-aada-4d3b-bb2a-c88553137818", "https://vgmdb.net/album/82752"]
@@ -3277,7 +3277,7 @@ catalognumber = "FPBD-0522"
 date = "2019-02-23"
 album = "LIBRARIES II TAKESHI ABO WORKS"
 tracks = [
-    [1, "Messenger -main theme- 68k II", "", 0],
+    [1, "Messenger -main theme- 68k II", "", 1],
     [2, "BGM12(仮)68k", "", 0],
     [3, "BGM08(仮)68k", "", 0],
     [4, "Robotics Notes -起動！- 68k", "", 0],
@@ -3285,7 +3285,7 @@ tracks = [
     [6, "GIRLS OF THE DEAD 68k", "", 0],
     [7, "Overdrive 68k", "", 0],
     [8, "Makukukan Stage Harry Up 68k", "", 0],
-    [9, "GATE OF STEINER PRO-68k II", "", 0],
+    [9, "GATE OF STEINER PRO-68k II", "", 1],
     [10, "GATE OF KARMA", "", 0],
     [11, "MEGA-FB", "", 0],
     [12, "Ruka I 68k", "", 0],
@@ -3307,8 +3307,8 @@ tracks = [
     [1, "Shall we?", "Zwei", 0],
     [2, "Avant Story", "Zwei", 0],
     [3, "ツバサナキモノ", "Zwei", 0],
-    [4, "LAST GAME", "Zwei", 0],
-    [5, "Don't cry!", "Zwei", 0],
+    [4, "LAST GAME", "Zwei", 1],
+    [5, "Don't cry!", "Zwei", 1],
     [6, "春告げ", "Zwei", 0],
     [7, "Sword of Swear", "Zwei", 0],
     [8, "Lovesique", "Zwei", 0],
@@ -3316,8 +3316,8 @@ tracks = [
     [10, "数奇なるファクタ", "Zwei", 0],
     [11, "from Now", "Zwei", 0],
     [12, "逆転FEVER (日本語 ver.)", "Zwei", 0],
-    [13, "拡張プレイス (LIVE ver.)", "Zwei", 0],
-    [14, "LAST GAME (LIVE ver.)", "Zwei", 0],
+    [13, "拡張プレイス (LIVE ver.)", "Zwei", 1],
+    [14, "LAST GAME (LIVE ver.)", "Zwei", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/05b2c64a-9469-42cf-979e-ac9bb3027928", "https://vgmdb.net/album/88633"]
 
@@ -3329,7 +3329,7 @@ tracks = [
     [1, "幻想マネージュ～メインテーマ～", "", 0],
     [2, "ブランブールの街", "", 0],
     [3, "WORLD -C;C MAIN THEME- / CHAOS;CHILD 5th anniversary", "", 0],
-    [4, "Explanation 2019 - 10th anniversary", "", 0],
+    [4, "Explanation 2019 - 10th anniversary", "", 1],
     [5, "Swallow2019 / Memories Off 2nd,18th anniversary", "", 0],
 ]
 links = ["https://vgmdb.net/album/96147"]
@@ -3339,33 +3339,33 @@ catalognumber = "USSW-0240"
 date = "2020-03-18"
 album = "GATE OF STEINER 10th Anniversary Disc 1 [USSW-0240-1]"
 tracks = [
-    [1, "GATE OF STEINER", "阿保剛", 0],
-    [2, "GATE OF STEINER -piano-", "阿保剛", 0],
-    [3, "Suspicious eyes", "阿保剛", 0],
-    [4, "Assailant", "阿保剛", 0],
-    [5, "Believe me", "阿保剛", 0],
-    [6, "Cycle", "阿保剛", 0],
-    [7, "Select of sorrow", "阿保剛", 0],
-    [8, "hesitative consideration", "阿保剛", 0],
-    [9, "Solitude", "阿保剛", 0],
-    [10, "Fake Verthandi", "阿保剛", 0],
-    [11, "Ringing -GATE OF STEINER-", "阿保剛", 0],
-    [12, "Popping steiner", "阿保剛", 0],
-    [13, "GATE OF PHENOGRAM", "阿保剛", 0],
-    [14, "GATE OF PHENOGRAM -piano-", "阿保剛", 0],
-    [15, "Messenger -main theme-", "阿保剛", 0],
-    [16, "Messenger -piano-", "阿保剛", 0],
-    [17, "Re-awake", "阿保剛", 0],
-    [18, "Believe me -zero-", "阿保剛", 0],
-    [19, "The end of messenger", "阿保剛", 0],
-    [20, "世界線を越えて -GATE OF STEINER-", "阿保剛", 0],
-    [21, "せかいせんをこえて (PSG)", "阿保剛", 0],
-    [22, "せかいせんをこえて (FM)", "阿保剛", 0],
-    [23, "運命石", "阿保剛", 0],
-    [24, "GATE OF STEINER -piano- (ELITE)", "阿保剛", 0],
-    [25, "hesitative consideration (ELITE)", "阿保剛", 0],
-    [26, "Solitude (ELITE)", "阿保剛", 0],
-    [27, "Fake Verthandi (ELITE)", "阿保剛", 0],
+    [1, "GATE OF STEINER", "阿保剛", 1],
+    [2, "GATE OF STEINER -piano-", "阿保剛", 1],
+    [3, "Suspicious eyes", "阿保剛", 1],
+    [4, "Assailant", "阿保剛", 1],
+    [5, "Believe me", "阿保剛", 1],
+    [6, "Cycle", "阿保剛", 1],
+    [7, "Select of sorrow", "阿保剛", 1],
+    [8, "hesitative consideration", "阿保剛", 1],
+    [9, "Solitude", "阿保剛", 1],
+    [10, "Fake Verthandi", "阿保剛", 1],
+    [11, "Ringing -GATE OF STEINER-", "阿保剛", 1],
+    [12, "Popping steiner", "阿保剛", 1],
+    [13, "GATE OF PHENOGRAM", "阿保剛", 1],
+    [14, "GATE OF PHENOGRAM -piano-", "阿保剛", 1],
+    [15, "Messenger -main theme-", "阿保剛", 1],
+    [16, "Messenger -piano-", "阿保剛", 1],
+    [17, "Re-awake", "阿保剛", 1],
+    [18, "Believe me -zero-", "阿保剛", 1],
+    [19, "The end of messenger", "阿保剛", 1],
+    [20, "世界線を越えて -GATE OF STEINER-", "阿保剛", 1],
+    [21, "せかいせんをこえて (PSG)", "阿保剛", 1],
+    [22, "せかいせんをこえて (FM)", "阿保剛", 1],
+    [23, "運命石", "阿保剛", 1],
+    [24, "GATE OF STEINER -piano- (ELITE)", "阿保剛", 1],
+    [25, "hesitative consideration (ELITE)", "阿保剛", 1],
+    [26, "Solitude (ELITE)", "阿保剛", 1],
+    [27, "Fake Verthandi (ELITE)", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bcfd3d72-185d-46f7-9c9b-1370750cff4a", "https://vgmdb.net/album/95073"]
 
@@ -3374,32 +3374,32 @@ catalognumber = "USSW-0240"
 date = "2020-03-18"
 album = "GATE OF STEINER 10th Anniversary Disc 2 [USSW-0240-2]"
 tracks = [
-    [1, "GATE OF STEINER (Anime)", "阿保剛", 0],
-    [2, "GATE OF STEINER -piano- (Anime)", "阿保剛", 0],
-    [3, "Believe me (Anime)", "阿保剛", 0],
-    [4, "One of selection -Gate of steiner- (Anime)", "阿保剛", 0],
-    [5, "溢れる想い -GATE OF STEINER- (Movie)", "阿保剛", 0],
-    [6, "B-Messenger (Anime)", "阿保剛", 0],
-    [7, "B-Messenger -piano- (Anime)", "阿保剛", 0],
-    [8, "いつの日か -Believe me- (Anime)", "阿保剛", 0],
-    [9, "0からの使者 (Anime)", "阿保剛", 0],
-    [10, "収束 (Anime)", "阿保剛", 0],
-    [11, "B-Messenger -strings quartet- (Anime)", "信澤宣明", 0],
-    [12, "覚醒 're-awake' (Anime)", "阿保剛", 0],
-    [13, "GATE OF STEINER symphonic ver.", "阿保剛", 0],
-    [14, "Cycle symphonic ver.", "阿保剛", 0],
-    [15, "hesitative consideration symphonic ver.", "阿保剛", 0],
-    [16, "GATE OF PHENOGRAM symphonic ver.", "阿保剛", 0],
-    [17, "GATE OF STEINER", "佐々木恵梨", 0],
-    [18, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 0],
-    [19, "GATE OF STEINER (OPN)", "阿保剛", 0],
-    [20, "Solitude (OPN)", "阿保剛", 0],
-    [21, "GATE OF STEINER -Ringing- (OPN)", "阿保剛", 0],
-    [22, "Gate of steiner 2nd Edition ver1.02 (OPN)", "阿保剛", 0],
-    [23, "GATE OF STEINER ファミコレADV ver.", "阿保剛", 0],
-    [24, "GATE OF STEINER 2A03", "阿保剛", 0],
-    [25, "GATE OF STEINER PRO-68k", "阿保剛", 0],
-    [26, "GATE OF STEINER 10th anniversary", "阿保剛", 0],
+    [1, "GATE OF STEINER (Anime)", "阿保剛", 1],
+    [2, "GATE OF STEINER -piano- (Anime)", "阿保剛", 1],
+    [3, "Believe me (Anime)", "阿保剛", 1],
+    [4, "One of selection -Gate of steiner- (Anime)", "阿保剛", 1],
+    [5, "溢れる想い -GATE OF STEINER- (Movie)", "阿保剛", 1],
+    [6, "B-Messenger (Anime)", "阿保剛", 1],
+    [7, "B-Messenger -piano- (Anime)", "阿保剛", 1],
+    [8, "いつの日か -Believe me- (Anime)", "阿保剛", 1],
+    [9, "0からの使者 (Anime)", "阿保剛", 1],
+    [10, "収束 (Anime)", "阿保剛", 1],
+    [11, "B-Messenger -strings quartet- (Anime)", "信澤宣明", 1],
+    [12, "覚醒 're-awake' (Anime)", "阿保剛", 1],
+    [13, "GATE OF STEINER symphonic ver.", "阿保剛", 1],
+    [14, "Cycle symphonic ver.", "阿保剛", 1],
+    [15, "hesitative consideration symphonic ver.", "阿保剛", 1],
+    [16, "GATE OF PHENOGRAM symphonic ver.", "阿保剛", 1],
+    [17, "GATE OF STEINER", "佐々木恵梨", 1],
+    [18, "GATE OF STEINER (acoustic ver.)", "佐々木恵梨", 1],
+    [19, "GATE OF STEINER (OPN)", "阿保剛", 1],
+    [20, "Solitude (OPN)", "阿保剛", 1],
+    [21, "GATE OF STEINER -Ringing- (OPN)", "阿保剛", 1],
+    [22, "Gate of steiner 2nd Edition ver1.02 (OPN)", "阿保剛", 1],
+    [23, "GATE OF STEINER ファミコレADV ver.", "阿保剛", 1],
+    [24, "GATE OF STEINER 2A03", "阿保剛", 1],
+    [25, "GATE OF STEINER PRO-68k", "阿保剛", 1],
+    [26, "GATE OF STEINER 10th anniversary", "阿保剛", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/bcfd3d72-185d-46f7-9c9b-1370750cff4a", "https://vgmdb.net/album/95073"]
 
@@ -3408,34 +3408,34 @@ catalognumber = "USSW-0243"
 date = "2020-03-18"
 album = "STEINS;GATE ELITE オリジナルサウンドトラック"
 tracks = [
-    [1, "GATE OF STEINER -Main theme- (ELITE)", "Takeshi Abo", 0],
-    [2, "Laboratory (ELITE)", "Takeshi Abo", 0],
-    [3, "Suspicious eyes (ELITE)", "Takeshi Abo", 0],
-    [4, "Noisy times (ELITE)", "Takeshi Abo", 0],
-    [5, "Explanation (ELITE)", "Takeshi Abo", 0],
-    [6, "Quiet air (ELITE)", "Takeshi Abo", 0],
-    [7, "Yanagibayashi (ELITE)", "Takeshi Abo", 0],
-    [8, "Walking on sleeping (ELITE)", "Takeshi Abo", 0],
-    [9, "Cycle (ELITE)", "Takeshi Abo", 0],
-    [10, "Hack -beta vision- (ELITE)", "Takeshi Abo", 0],
-    [11, "SERN (ELITE)", "Takeshi Abo", 0],
-    [12, "Assailant (ELITE)", "Takeshi Abo", 0],
-    [13, "The Limit (ELITE)", "Takeshi Abo", 0],
-    [14, "Select of sorrow (ELITE)", "Takeshi Abo", 0],
-    [15, "Chaos mind (ELITE)", "Takeshi Abo", 0],
-    [16, "Crossroads (ELITE)", "Takeshi Abo", 0],
-    [17, "Self affirmation (ELITE)", "Takeshi Abo", 0],
-    [18, "Believe me (ELITE)", "阿保剛", 0],
-    [19, "Hack -alpha vision- (ELITE)", "Takeshi Abo", 0],
-    [20, "Human community (ELITE)", "阿保剛", 0],
-    [21, "Network battle (ELITE)", "阿保剛", 0],
-    [22, "hesitative consideration (ELITE)", "阿保剛", 0],
-    [23, "Urd (ELITE)", "Takeshi Abo", 0],
-    [24, "Fake Verthandi (ELITE)", "阿保剛", 0],
-    [25, "OPERATION SKULD (ELITE)", "Takeshi Abo", 0],
-    [26, "Solitude (ELITE)", "阿保剛", 0],
-    [27, "GATE OF STEINER -Piano- (ELITE)", "Takeshi Abo", 0],
-    [28, "Explanation 2019 - 10th anniversary", "Takeshi Abo", 0],
+    [1, "GATE OF STEINER -Main theme- (ELITE)", "Takeshi Abo", 1],
+    [2, "Laboratory (ELITE)", "Takeshi Abo", 1],
+    [3, "Suspicious eyes (ELITE)", "Takeshi Abo", 1],
+    [4, "Noisy times (ELITE)", "Takeshi Abo", 1],
+    [5, "Explanation (ELITE)", "Takeshi Abo", 1],
+    [6, "Quiet air (ELITE)", "Takeshi Abo", 1],
+    [7, "Yanagibayashi (ELITE)", "Takeshi Abo", 1],
+    [8, "Walking on sleeping (ELITE)", "Takeshi Abo", 1],
+    [9, "Cycle (ELITE)", "Takeshi Abo", 1],
+    [10, "Hack -beta vision- (ELITE)", "Takeshi Abo", 1],
+    [11, "SERN (ELITE)", "Takeshi Abo", 1],
+    [12, "Assailant (ELITE)", "Takeshi Abo", 1],
+    [13, "The Limit (ELITE)", "Takeshi Abo", 1],
+    [14, "Select of sorrow (ELITE)", "Takeshi Abo", 1],
+    [15, "Chaos mind (ELITE)", "Takeshi Abo", 1],
+    [16, "Crossroads (ELITE)", "Takeshi Abo", 1],
+    [17, "Self affirmation (ELITE)", "Takeshi Abo", 1],
+    [18, "Believe me (ELITE)", "阿保剛", 1],
+    [19, "Hack -alpha vision- (ELITE)", "Takeshi Abo", 1],
+    [20, "Human community (ELITE)", "阿保剛", 1],
+    [21, "Network battle (ELITE)", "阿保剛", 1],
+    [22, "hesitative consideration (ELITE)", "阿保剛", 1],
+    [23, "Urd (ELITE)", "Takeshi Abo", 1],
+    [24, "Fake Verthandi (ELITE)", "阿保剛", 1],
+    [25, "OPERATION SKULD (ELITE)", "Takeshi Abo", 1],
+    [26, "Solitude (ELITE)", "阿保剛", 1],
+    [27, "GATE OF STEINER -Piano- (ELITE)", "Takeshi Abo", 1],
+    [28, "Explanation 2019 - 10th anniversary", "Takeshi Abo", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/4d6fa03c-ba71-410e-9a28-ebaccff0b6b5", "https://vgmdb.net/album/95634"]
 
@@ -3446,12 +3446,12 @@ album = "Gene of the earth / 今井麻美"
 tracks = [
     [1, "Gene of the earth", "今井麻美", 0],
     [2, "レプリカの森", "今井麻美", 0],
-    [3, "World‐Line", "今井麻美", 0],
+    [3, "World‐Line", "今井麻美", 1],
     [4, "Believe in Sky", "今井麻美", 0],
-    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 0],
+    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 1],
     [6, "懐かしい街", "今井麻美", 0],
     [7, "Astral World", "今井麻美", 0],
-    [8, "Blue Feather", "今井麻美", 0],
+    [8, "Blue Feather", "今井麻美", 1],
     [9, "宇宙の申し子", "今井麻美", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/efe1d147-21ec-4910-9c48-44244d17fcfb", "https://vgmdb.net/album/103052"]
@@ -3463,15 +3463,15 @@ album = "Gene of the earth / 今井麻美 Arrangement, Vocal"
 tracks = [
     [1, "Gene of the earth", "今井麻美", 0],
     [2, "レプリカの森", "今井麻美", 0],
-    [3, "World‐Line", "今井麻美", 0],
+    [3, "World‐Line", "今井麻美", 1],
     [4, "Believe in Sky", "今井麻美", 0],
-    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 0],
+    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 1],
     [6, "懐かしい街", "今井麻美", 0],
     [7, "Astral World", "今井麻美", 0],
-    [8, "Blue Feather", "今井麻美", 0],
+    [8, "Blue Feather", "今井麻美", 1],
     [9, "宇宙の申し子", "今井麻美", 0],
     [10, "朝焼けのスターマイン - As‐Dur -", "今井麻美", 0],
-    [11, "Reunion 〜Once Again〜 Remix by Route318", "今井麻美", 0],
+    [11, "Reunion 〜Once Again〜 Remix by Route318", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/acb0daeb-f50c-4e75-a7df-5ccccc85890d", "https://vgmdb.net/album/103053"]
 
@@ -3483,7 +3483,7 @@ tracks = [
     [1, "Gene of the earth (Music Video)", "今井麻美", 0],
     [2, "Gene of the earth (Music Video Making)", "今井麻美", 0],
     [3, "Believe in Sky (Music Video)", "今井麻美", 0],
-    [4, "World‐Line (Music Video)", "今井麻美", 0],
+    [4, "World‐Line (Music Video)", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/acb0daeb-f50c-4e75-a7df-5ccccc85890d", "https://vgmdb.net/album/103053"]
 
@@ -3494,15 +3494,15 @@ album = "Gene of the earth / 今井麻美 Vocal"
 tracks = [
     [1, "Gene of the earth", "今井麻美", 0],
     [2, "レプリカの森", "今井麻美", 0],
-    [3, "World‐Line", "今井麻美", 0],
+    [3, "World‐Line", "今井麻美", 1],
     [4, "Believe in Sky", "今井麻美", 0],
-    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 0],
+    [5, "アメノアトニ〜Brighter Days Ahead〜", "今井麻美", 1],
     [6, "懐かしい街", "今井麻美", 0],
     [7, "Astral World", "今井麻美", 0],
-    [8, "Blue Feather", "今井麻美", 0],
+    [8, "Blue Feather", "今井麻美", 1],
     [9, "宇宙の申し子", "今井麻美", 0],
     [10, "朝焼けのスターマイン - As‐Dur -", "今井麻美", 0],
-    [11, "Reunion 〜Once Again〜 Remix by Route318", "今井麻美", 0],
+    [11, "Reunion 〜Once Again〜 Remix by Route318", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a996f385-1d9a-4363-8c40-9f7d98fdea58", "https://vgmdb.net/album/103054"]
 
@@ -3514,7 +3514,7 @@ tracks = [
     [1, "Gene of the earth (Music Video)", "今井麻美", 0],
     [2, "Gene of the earth (Music Video Making)", "今井麻美", 0],
     [3, "Believe in Sky (Music Video)", "今井麻美", 0],
-    [4, "World‐Line (Music Video)", "今井麻美", 0],
+    [4, "World‐Line (Music Video)", "今井麻美", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/a996f385-1d9a-4363-8c40-9f7d98fdea58", "https://vgmdb.net/album/103054"]
 
@@ -3524,7 +3524,7 @@ date = "2020-12-16"
 album = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 05 オレンジタイム"
 tracks = [
     [1, "オレンジタイム (M@STER VERSION)", "輿水幸子(CV:竹達彩奈)、白坂小梅(CV:桜咲千依)、星輝子(CV:松田颯水)", 0],
-    [2, "Hacking to the Gate", "神崎蘭子(CV:内田真礼)", 0],
+    [2, "Hacking to the Gate", "神崎蘭子(CV:内田真礼)", 1],
     [3, "いつかの、いくつかのきみとのせかい", "白菊ほたる(CV:天野聡美)、鷹富士茄子(CV:森下来奈)", 0],
     [4, "オレンジタイム (M@STER VERSION) オリジナル・カラオケ", "輿水幸子(CV:竹達彩奈)、白坂小梅(CV:桜咲千依)、星輝子(CV:松田颯水)", 0],
     [5, "オレンジタイム (M@STER VERSION) 輿水幸子ソロ・リミックス", "輿水幸子(CV:竹達彩奈)", 0],
@@ -3554,7 +3554,7 @@ tracks = [
     [13, "星屑のリング -Midnight glitter ver.-", "", 0],
     [14, "MC", "", 0],
     [15, "Tender Is The Night", "", 0],
-    [16, "Reunion ～Once Again～", "", 0],
+    [16, "Reunion ～Once Again～", "", 1],
     [17, "MC", "", 0],
     [18, "カーベラ～今年の花", "", 0],
     [19, "MC", "", 0],
@@ -3613,12 +3613,12 @@ tracks = [
     [3, "Believe in Sky", "", 0],
     [4, "MC", "", 0],
     [5, "路地裏のプラネタリウム", "", 0],
-    [6, "Blue Feather", "", 0],
+    [6, "Blue Feather", "", 1],
     [7, "MC", "", 0],
     [8, "パノラマ", "", 0],
     [9, "レプリカの森", "", 0],
     [10, "instrumental (夢のMAHOROBA ～Original Inst.)", "", 0],
-    [11, "アメノアトニ～Brighter Days Ahead～", "", 0],
+    [11, "アメノアトニ～Brighter Days Ahead～", "", 1],
     [12, "星屑のリング", "", 0],
     [13, "MC", "", 0],
     [14, "Hasta La Vista", "", 0],
@@ -3629,7 +3629,7 @@ tracks = [
     [19, "MC", "", 0],
     [20, "rinascita", "", 0],
     [21, "MC", "", 0],
-    [22, "World-Line (Guest Guitar:濱田智之)", "", 0],
+    [22, "World-Line (Guest Guitar:濱田智之)", "", 1],
     [23, "MC", "", 0],
     [24, "アドレッセンスの丘", "", 0],
     [25, "MC", "", 0],
@@ -3658,7 +3658,7 @@ tracks = [
     [13, "星屑のリング -Midnight glitter ver.-", "", 0],
     [14, "MC", "", 0],
     [15, "Tender Is The Night", "", 0],
-    [16, "Reunion ～Once Again～", "", 0],
+    [16, "Reunion ～Once Again～", "", 1],
     [17, "MC", "", 0],
     [18, "カーベラ～今年の花", "", 0],
     [19, "MC", "", 0],
@@ -3717,12 +3717,12 @@ tracks = [
     [3, "Believe in Sky", "", 0],
     [4, "MC", "", 0],
     [5, "路地裏のプラネタリウム", "", 0],
-    [6, "Blue Feather", "", 0],
+    [6, "Blue Feather", "", 1],
     [7, "MC", "", 0],
     [8, "パノラマ", "", 0],
     [9, "レプリカの森", "", 0],
     [10, "instrumental (夢のMAHOROBA ～Original Inst.)", "", 0],
-    [11, "アメノアトニ～Brighter Days Ahead～", "", 0],
+    [11, "アメノアトニ～Brighter Days Ahead～", "", 1],
     [12, "星屑のリング", "", 0],
     [13, "MC", "", 0],
     [14, "Hasta La Vista", "", 0],
@@ -3733,7 +3733,7 @@ tracks = [
     [19, "MC", "", 0],
     [20, "rinascita", "", 0],
     [21, "MC", "", 0],
-    [22, "World-Line (Guest Guitar:濱田智之)", "", 0],
+    [22, "World-Line (Guest Guitar:濱田智之)", "", 1],
     [23, "MC", "", 0],
     [24, "アドレッセンスの丘", "", 0],
     [25, "MC", "", 0],
@@ -3747,8 +3747,8 @@ catalognumber = "PCSP-04076"
 date = "2022-04-06"
 album = "スカイクラッドの観測者 - from CrosSing / 渋谷ハル"
 tracks = [
-    [1, "スカイクラッドの観測者 - from CrosSing", "渋谷ハル", 0],
-    [2, "スカイクラッドの観測者 - from CrosSing Instrumental", "渋谷ハル", 0],
+    [1, "スカイクラッドの観測者 - from CrosSing", "渋谷ハル", 1],
+    [2, "スカイクラッドの観測者 - from CrosSing Instrumental", "渋谷ハル", 1],
 ]
 links = ["https://beta.musicbrainz.org/release/dfd4decc-3083-4236-84e9-4827f1cdf607", "https://vgmdb.net/album/119292"]
 
@@ -3759,7 +3759,7 @@ album = "CrosSing Collection vol.1"
 tracks = [
     [1, "ブルーバード", "内田真礼", 0],
     [2, "そばかす", "towana (fhána)", 0],
-    [3, "スカイクラッドの観測者", "渋谷ハル", 0],
+    [3, "スカイクラッドの観測者", "渋谷ハル", 1],
     [4, "怪物", "鬼頭明里", 0],
     [5, "いのちの名前", "石川由依", 0],
     [6, "また逢う日まで", "立石俊樹", 0],
@@ -3782,7 +3782,7 @@ tracks = [
     [2, "LIFE GAME -OPNA ver.-", "", 0],
     [3, "NAKANO-SYMPHONYS -OPNA ver.-", "", 0],
     [4, "ZERO POINT -OPNA ver.-", "", 0],
-    [5, "OPERATIONS -OPNA ver.-", "", 0],
+    [5, "OPERATIONS -OPNA ver.-", "", 1],
     [6, "CYBER FORCE DOLL -OPNA ver.-", "", 0],
     [7, "NUMERICAL EXPRESSION -OPNA ver.-", "", 0],
     [8, "NEW MATTER -OPNA ver.-", "", 0],
@@ -3796,7 +3796,7 @@ tracks = [
     [16, "Ambience VIII", "", 0],
     [17, "Ambience IX", "", 0],
     [18, "Ambience X", "", 0],
-    [19, "Ringing -Beginning of Fight 2021-", "", 0],
+    [19, "Ringing -Beginning of Fight 2021-", "", 1],
     [20, "SINce Memories 1st anniversary -Coffee break 2022-", "", 0],
     [21, "Ever17 20th anniversary -Karma 2022-", "", 0],
     [22, "ROBOTICS;NOTES KIDOU! -10th anniversary arrange-", "", 0],
@@ -3839,8 +3839,8 @@ tracks = [
     [4, "COLORS", "Afterglow", 0],
     [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", 0],
     [6, "ヒトリゴト", "Pastel＊Palettes", 0],
-    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", 0],
-    [8, "スカイクラッドの観測者", "Roselia", 0],
+    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", 1],
+    [8, "スカイクラッドの観測者", "Roselia", 1],
     [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", 0],
     [10, "TOMORROW", "ハロー、ハッピーワールド！", 0],
     [11, "青空のラプソディ", "Morfonica×fhána", 0],
@@ -3883,8 +3883,8 @@ tracks = [
     [4, "COLORS", "Afterglow", 0],
     [5, "ヒトリゴト", "Pastel＊Palettes×ClariS", 0],
     [6, "ヒトリゴト", "Pastel＊Palettes", 0],
-    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", 0],
-    [8, "スカイクラッドの観測者", "Roselia", 0],
+    [7, "スカイクラッドの観測者", "Roselia×いとうかなこ", 1],
+    [8, "スカイクラッドの観測者", "Roselia", 1],
     [9, "TOMORROW", "ハロー、ハッピーワールド！×Machico", 0],
     [10, "TOMORROW", "ハロー、ハッピーワールド！", 0],
     [11, "青空のラプソディ", "Morfonica×fhána", 0],
@@ -3899,25 +3899,25 @@ catalognumber = "VoV-015"
 date = "2024-03"
 album = "Steins;Gate Disc 1"
 tracks = [
-    [1, "GATE OF STEINER -Main theme-", "", 0],
-    [2, "スカイクラッドの観測者 Short Ver.", "", 0],
-    [3, "The universe", "", 0],
-    [4, "Laboratory", "", 0],
-    [5, "Suspicious eyes", "", 0],
-    [6, "Noisy times", "", 0],
-    [7, "Explanation", "", 0],
-    [8, "Quiet air", "", 0],
-    [9, "Select of sorrow", "", 0],
-    [10, "Ringing -GATE OF STEINER-", "", 0],
-    [11, "Walking on sleeping", "", 0],
-    [12, "Cycle", "", 0],
-    [13, "Network battle", "", 0],
-    [14, "SERN", "", 0],
-    [15, "Assailant", "", 0],
-    [16, "Yanagibayashi", "", 0],
-    [17, "The Limit", "", 0],
-    [18, "Crossroads", "", 0],
-    [19, "Ringing -Reunion-", "", 0],
+    [1, "GATE OF STEINER -Main theme-", "", 1],
+    [2, "スカイクラッドの観測者 Short Ver.", "", 1],
+    [3, "The universe", "", 1],
+    [4, "Laboratory", "", 1],
+    [5, "Suspicious eyes", "", 1],
+    [6, "Noisy times", "", 1],
+    [7, "Explanation", "", 1],
+    [8, "Quiet air", "", 1],
+    [9, "Select of sorrow", "", 1],
+    [10, "Ringing -GATE OF STEINER-", "", 1],
+    [11, "Walking on sleeping", "", 1],
+    [12, "Cycle", "", 1],
+    [13, "Network battle", "", 1],
+    [14, "SERN", "", 1],
+    [15, "Assailant", "", 1],
+    [16, "Yanagibayashi", "", 1],
+    [17, "The Limit", "", 1],
+    [18, "Crossroads", "", 1],
+    [19, "Ringing -Reunion-", "", 1],
 ]
 links = ["https://vgmdb.net/album/132740"]
 
@@ -3926,23 +3926,23 @@ catalognumber = "VoV-015"
 date = "2024-03"
 album = "Steins;Gate Disc 2"
 tracks = [
-    [1, "GATE OF STEINER -Piano-", "", 0],
-    [2, "Chaos mind", "", 0],
-    [3, "Self affirmation", "", 0],
-    [4, "Human community", "", 0],
-    [5, "Urd", "", 0],
-    [6, "Believe me", "", 0],
-    [7, "Solitude", "", 0],
-    [8, "Hack -short vision-", "", 0],
-    [9, "Ringing -Beginning of fight-", "", 0],
-    [10, "OPERATION SKULD", "", 0],
-    [11, "hesitative consideration", "", 0],
-    [12, "Fake Verthandi", "", 0],
-    [13, "マスカレード ～ノア第三章列王新世紀編より～ Short Ver.", "", 0],
-    [14, "運命のファルファッラ Short Ver.", "", 0],
-    [15, "Another Heaven Short Ver.", "", 0],
-    [16, "Technovision Short Ver.", "", 0],
-    [17, "Ringing -Easygoingness-", "", 0],
+    [1, "GATE OF STEINER -Piano-", "", 1],
+    [2, "Chaos mind", "", 1],
+    [3, "Self affirmation", "", 1],
+    [4, "Human community", "", 1],
+    [5, "Urd", "", 1],
+    [6, "Believe me", "", 1],
+    [7, "Solitude", "", 1],
+    [8, "Hack -short vision-", "", 1],
+    [9, "Ringing -Beginning of fight-", "", 1],
+    [10, "OPERATION SKULD", "", 1],
+    [11, "hesitative consideration", "", 1],
+    [12, "Fake Verthandi", "", 1],
+    [13, "マスカレード ～ノア第三章列王新世紀編より～ Short Ver.", "", 1],
+    [14, "運命のファルファッラ Short Ver.", "", 1],
+    [15, "Another Heaven Short Ver.", "", 1],
+    [16, "Technovision Short Ver.", "", 1],
+    [17, "Ringing -Easygoingness-", "", 1],
 ]
 links = ["https://vgmdb.net/album/132740"]
 
@@ -3951,7 +3951,7 @@ catalognumber = "HUJN-0004"
 date = "2024-12-12"
 album = "GATE OF STEINER -Aesthetics on ice- / 阿保剛"
 tracks = [
-    [1, "GATE OF STEINER -Aesthetics on ice-", "", 0],
+    [1, "GATE OF STEINER -Aesthetics on ice-", "", 1],
 ]
 links = ["https://vgmdb.net/album/145934"]
 
@@ -3981,9 +3981,9 @@ catalognumber = "N/A"
 date = "2026-10"
 album = "Steins;Gate 因果旋律のシンフォニー メモリアルレコード"
 tracks = [
-    [1, "GATE OF STEINER -Main theme-", "", 0],
-    [2, "Explanation", "", 0],
-    [3, "OPERATION SKULD", "", 0],
-    [4, "Believe me", "", 0],
+    [1, "GATE OF STEINER -Main theme-", "", 1],
+    [2, "Explanation", "", 1],
+    [3, "OPERATION SKULD", "", 1],
+    [4, "Believe me", "", 1],
 ]
 links = ["https://vgmdb.net/album/160746"]
