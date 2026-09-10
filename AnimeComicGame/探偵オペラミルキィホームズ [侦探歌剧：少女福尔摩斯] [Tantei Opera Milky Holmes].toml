@@ -10,6 +10,30 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/cbe237b4-bc81-4d10-b068-b2f03bdeeacb", "https://vgmdb.net/album/19217"]
 
+[5fe9d662da3c65872b0c6a0806bd26b8]
+catalognumber = "LACM-4754"
+date = "2010-10-27"
+album = "正解はひとつ！じゃない!! / ミルキィホームズ"
+tracks = [
+    [1, "正解はひとつ!じゃない!!", "ミルキィホームズ", 0],
+    [2, "フレフレmy勇気!", "ミルキィホームズ", 0],
+    [3, "正解はひとつ!じゃない!!（off vocal）", "ミルキィホームズ", 0],
+    [4, "フレフレmy勇気!（off vocal）", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/711e54c2-ca1f-40ef-ac85-cfff57767bb7", "https://vgmdb.net/album/22707"]
+
+[82ea90cbfa09dc3a3f0426db67e67ecb]
+catalognumber = "LACM-4760"
+date = "2010-11-24"
+album = "本能のDOUBT / 飛蘭"
+tracks = [
+    [1, "本能のDOUBT", "飛蘭", 0],
+    [2, "本当の愛を求めて", "飛蘭", 0],
+    [3, "本能のDOUBT (off vocal)", "飛蘭", 0],
+    [4, "本当の愛を求めて (off vocal)", "飛蘭", 0],
+]
+links = ["https://beta.musicbrainz.org/release/5e992a0a-ff7b-4125-a6aa-2506254aaa25", "https://vgmdb.net/album/22721"]
+
 [5518c1fcfbda4308811f6cf6cda7545b]
 catalognumber = "ULJS-00342S"
 date = "2010-12-16"
@@ -61,6 +85,156 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/22705"]
 
+[d6e920aca3c6564823df24c0d3c792d4]
+catalognumber = "LACA-15083"
+date = "2010-12-22"
+album = "探偵オペラ ミルキィホームズ ボーカルアルバム~ミルキィ show time♪"
+tracks = [
+    [1, "こちらミルキィホームズ!", "ミルキィホームズ", 0],
+    [2, "ミルキィ tea time", "ミルキィホームズ", 0],
+    [3, "ライバル捜査線☆", "シャーロック・シェリンフォード(CV:三森すずこ)、明智小衣(CV:南條愛乃)", 0],
+    [4, "美的・エゴイズム", "アルセーヌ(CV:明坂聡美)", 0],
+    [5, "いつだってサポーター!", "ミルキィホームズ", 0],
+    [6, "INFINITE CRISIS", "飛蘭", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4dc6aa42-758c-475f-af49-d5dc62dd6546", "https://vgmdb.net/album/42747"]
+
+[e56462b506dcc9e4cc7e4292087a125c]
+catalognumber = "LACA-15110"
+date = "2011-04-06"
+album = "Colourful Garden / ミルキィホームズ Disc 1 (CD) [LACA-15110]"
+tracks = [
+    [1, "恋の調査報告書", "ミルキィホームズ", 0],
+    [2, "ドリーム脳内T.K.O!!!!", "ミルキィホームズ", 0],
+    [3, "それはTOYS☆", "シャーロック・シェリンフォード (三森すずこ) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [4, "ぎみぃみるきぃ", "譲崎ネロ (徳井青空) & エルキュール・バートン (佐々木未来)", 0],
+    [5, "熱風海陸ブシロード〜熱き咆哮〜 (Euro version)", "ミルキィホームズ", 0],
+    [6, "手のひらのキセキ", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d02910c0-833d-41a8-bcc3-d64f4d1b7659", "https://vgmdb.net/album/45304"]
+
+[7340d5f6604e282332a6fdea890b238f]
+catalognumber = "LACA-15110"
+date = "2011-04-06"
+album = "Colourful Garden / ミルキィホームズ Disc 2 (DVD) [LAPD-1103]"
+tracks = [
+    [1, "恋の調査報告書 [プロモーションビデオ]", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d02910c0-833d-41a8-bcc3-d64f4d1b7659", "https://vgmdb.net/album/45304"]
+
+[42941b9ce2ebfd73332d586bc589238c]
+catalognumber = "QWCE-00187"
+date = "2011-04-06"
+album = "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 12"
+tracks = [
+    [1, "THEME FOR PANTY & STOCKING", "Hommarju feat. Yusuke", 0],
+    [2, "侵略ノススメ☆", "Booing Day feat. mi-mi", 0],
+    [3, "正解はひとつ!じゃない!!", "Hommarju feat. Latte + R.Cena + 405", 0],
+    [4, "ピンキージョーンズ", "Dizzi Mystica feat. R.Cena + 405 + mi-mi", 0],
+    [5, "OVER SKY", "Booing Day feat. Latte", 0],
+    [6, "MORE-MORE LOVERS!!", "Booing Day feat. mi-mi", 0],
+    [7, "MOON SIGNAL", "Icon feat. yumemi + 405", 0],
+    [8, "本能のDOUBT", "Booing Day feat. mamiko", 0],
+    [9, "HELP!!", "Dizzi Mystica feat. yumemi + si-na", 0],
+    [10, "LAST VISION FOR LAST", "Dizzi Mystica feat. yumemi", 0],
+    [11, "FLY AWAY", "Hommarju feat. MFMW", 0],
+    [12, "COSMOS VS ALIEN", "plasma feat. 405", 0],
+    [13, "DOWN TOWN", "MK feat. YURiE", 0],
+    [14, "絆-KIZUNAIRO-色", "Dizzi Mystica feat. Nahoko", 0],
+    [15, "カレンデュラレクイエム", "MK feat. R.Cena", 0],
+    [16, "比翼の羽根", "Dizzi Mystica feat. R.Cena", 0],
+    [17, "GOD ONLY KNOWS第三幕", "Icon feat. YURiE", 0],
+    [18, "ハートの確率", "Hommarju feat. si-na + Latte", 0],
+    [19, "メタメリズム", "Icon feat. R.Cena", 0],
+]
+links = ["https://beta.musicbrainz.org/release/924b924e-edbf-462b-be29-12cca2f40551", "https://vgmdb.net/album/29351"]
+
+[0347d98d40acfaf31aa03147a0ad9abf]
+catalognumber = "PCBG-51806-3"
+date = "2011-06-24"
+album = "探偵オペラ ミルキィホームズ TVアニメ オリジナルサウンドトラックCD"
+tracks = [
+    [1, "アバンタイトル", "原田勝通", 0],
+    [2, "おはよう", "原田勝通", 0],
+    [3, "探偵学院の日常1", "原田勝通", 0],
+    [4, "おでかけ", "原田勝通", 0],
+    [5, "がんばるぞー!", "原田勝通", 0],
+    [6, "探偵学院の日常2", "原田勝通", 0],
+    [7, "サブタイトル", "原田勝通", 0],
+    [8, "上品1", "原田勝通", 0],
+    [9, "ほっと一息", "原田勝通", 0],
+    [10, "たくらみ", "原田勝通", 0],
+    [11, "計画", "原田勝通", 0],
+    [12, "ドタバタ", "原田勝通", 0],
+    [13, "ダメダメ1", "原田勝通", 0],
+    [14, "しょんぼり1", "原田勝通", 0],
+    [15, "颯爽と登場!", "原田勝通", 0],
+    [16, "ダメダメ2", "原田勝通", 0],
+    [17, "高貴", "原田勝通", 0],
+    [18, "上品2", "原田勝通", 0],
+    [19, "アイキャッチA", "原田勝通", 0],
+    [20, "アイキャッチB", "原田勝通", 0],
+    [21, "悲しみ", "原田勝通", 0],
+    [22, "緊張感2", "原田勝通", 0],
+    [23, "ミルキィホームズ捜査開始", "原田勝通", 0],
+    [24, "威厳", "原田勝通", 0],
+    [25, "しょんぼり2", "原田勝通", 0],
+    [26, "しんみり1", "原田勝通", 0],
+    [27, "しんみり2", "原田勝通", 0],
+    [28, "解決", "原田勝通", 0],
+    [29, "暗躍", "原田勝通", 0],
+    [30, "迫りくる不安", "原田勝通", 0],
+    [31, "バトル1", "原田勝通", 0],
+    [32, "バトル2", "原田勝通", 0],
+    [33, "ピンチ", "原田勝通", 0],
+    [34, "ミルキィホームズのテーマ", "原田勝通", 0],
+    [35, "怪盗帝国のテーマ", "原田勝通", 0],
+    [36, "ハートウォーミング", "原田勝通", 0],
+    [37, "大団円", "原田勝通", 0],
+    [38, "ラストバトル", "原田勝通", 0],
+    [39, "森・アーティのテーマ", "原田勝通", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0b127ccc-ba63-4c40-98c9-9d836cda56ed", "https://vgmdb.net/album/27312"]
+
+[bbd32b722f4f967c0c4890a1f1759fe5]
+catalognumber = "EC-025"
+date = "2011-07-28"
+album = "探偵オペラ ミルキィホームズ オフィシャルファンブック ドラマCD"
+tracks = [
+    [1, "第1話 ひもじい探偵", "", 0],
+    [2, "第2話 ヒーローの研究", "", 0],
+    [3, "第3話 二十里先生の呪い", "", 0],
+    [4, "第4話 みじかいんだね八つ", "", 0],
+    [5, "第5話 ふしぎな時間旅行者", "", 0],
+]
+links = ["https://vgmdb.net/album/163257"]
+
+[68b092aa8ec77ccfdbd1dbfcb745ebd5]
+catalognumber = "LACA-15139"
+date = "2011-08-24"
+album = "To-gather!!!!"
+tracks = [
+    [1, "グッデイ・エブリデイ", "シャーロック・シェリンフォード (三森すずこ)", 0],
+    [2, "DADADA☆はっく", "譲崎ネロ (徳井青空)", 0],
+    [3, "ヒロイン探偵物語", "エルキュール・バートン (佐々木未来)", 0],
+    [4, "ヒミツの花園", "コーデリア・グラウカ (橘田いずみ)", 0],
+    [5, "ココロノエデン", "明智小衣(CV:南條愛乃)", 0],
+    [6, "パーティーパーティー!", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/86475e63-4b26-4b88-bd69-662cd45d0c2c", "https://vgmdb.net/album/32308"]
+
+[90e233453419166e7b6865d0fd4764d9]
+catalognumber = "LZM-2047"
+date = "2011-09-10"
+album = "ふたりはトモダチ / ミルキィウェイであいましょう"
+tracks = [
+    [1, "ふたりはトモダチ", "シャーロック・シェリンフォード (三森すずこ) & 譲崎ネロ (徳井青空)", 0],
+    [2, "ミルキィウェイであいましょう", "エルキュール・バートン (佐々木未来) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [3, "ふたりはトモダチ (Off Vocal)", "シャーロック・シェリンフォード (三森すずこ) & 譲崎ネロ (徳井青空)", 0],
+    [4, "ミルキィウェイであいましょう (Off Vocal)", "エルキュール・バートン (佐々木未来) & コーデリア・グラウカ (橘田いずみ)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a6977e0e-8bef-4e53-8dc1-09514fbf2fcf"]
+
 [f3509dd771eafea9f9dccafc3ee496ef]
 catalognumber = "LACA-15149"
 date = "2011-09-21"
@@ -83,6 +257,170 @@ tracks = [
     [15, "素晴らしい世界へ", "飛蘭", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/c9ed3246-00ac-48ff-8beb-e14e65ff2580", "https://vgmdb.net/album/58928"]
+
+[71229c29374fea5be128e0f2e1d33923]
+catalognumber = "MTCD-0005"
+date = "2011-12-30"
+album = "Anime Song Orchestra II Arrangement, Vocal"
+tracks = [
+    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste / 雪村しずか", 0],
+    [2, "READY!!（「アイドルマスター」より）", "ネオ / 関屋ひかり & 雪村しずか", 0],
+    [3, "ブルーウォーター（「ふしぎの海のナディア」より）", "ARA / 葉月ゆら", 0],
+    [4, "正解はひとつ!じゃない!!（「探偵オペラ ミルキィホームズ」より）", "ネオ / 関屋ひかり & 雪村しずか", 0],
+    [5, "ETERNAL BLAZE（「魔法少女リリカルなのはA's」より）", "taste / 雪村しずか", 0],
+    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ / 関屋ひかり", 0],
+    [7, "花のささやき（「小公女セーラ」より）", "ARA / 葉月ゆら", 0],
+    [8, "Zzz（「日常」より）", "taste / 雪村しずか", 0],
+    [9, "STEP（「魔神英雄伝ワタル」より）", "ARA / 雪村しずか & 中嶋菜月", 0],
+    [10, "ウィーアー！（「ONE PIECE」より）", "taste / 雪村しずか", 0],
+    [11, "secret base ～君がくれたもの～（「あの日見た花の名前を僕達はまだ知らない。」より）", "ネオ / 関屋ひかり & 雪村しずか", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b2703d6e-de59-452f-8dd5-a222885f8e4b", "https://vgmdb.net/album/31030"]
+
+[4b84b6f56cdb8397809a2f6b80b60888]
+catalognumber = "MTCD-0005"
+date = "2011-12-30"
+album = "Anime Song Orchestra II Arrangement"
+tracks = [
+    [1, "コネクト（「魔法少女まどか☆マギカ」より）", "taste", 0],
+    [2, "READY!!（「アイドルマスター」より）", "ネオ", 0],
+    [3, "ブルーウォーター（「ふしぎの海のナディア」より）", "ARA", 0],
+    [4, "正解はひとつ!じゃない!!（「探偵オペラ ミルキィホームズ」より）", "ネオ", 0],
+    [5, "ETERNAL BLAZE（「魔法少女リリカルなのはA's」より）", "taste", 0],
+    [6, "Magia（「魔法少女まどか☆マギカ」より）", "ネオ", 0],
+    [7, "花のささやき（「小公女セーラ」より）", "ARA", 0],
+    [8, "Zzz（「日常」より）", "taste", 0],
+    [9, "STEP（「魔神英雄伝ワタル」より）", "ARA", 0],
+    [10, "ウィーアー！（「ONE PIECE」より）", "taste", 0],
+    [11, "secret base ～君がくれたもの～（「あの日見た花の名前を僕達はまだ知らない。」より）", "ネオ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/b2703d6e-de59-452f-8dd5-a222885f8e4b", "https://vgmdb.net/album/31030"]
+
+[e3ddbd88b94cbc14cdbf5d634b59689d]
+catalognumber = "LACM-4895"
+date = "2012-01-25"
+album = "ナゾ！ナゾ？Happiness!! / ミルキィホームズ"
+tracks = [
+    [1, "ナゾ! ナゾ? Happiness!!", "ミルキィホームズ", 0],
+    [2, "はいぱーみるきぃあわー", "ミルキィホームズ", 0],
+    [3, "ナゾ! ナゾ? Happiness!! (Off Vocal)", "ミルキィホームズ", 0],
+    [4, "はいぱーみるきぃあわー (Off Vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/3e44e835-f51f-4ed9-8adc-e8bc67f4e3a4", "https://vgmdb.net/album/31069"]
+
+[77cb026aac27176f6514a25602b71cdc]
+catalognumber = "LACM-4903"
+date = "2012-02-08"
+album = "Lovely Girls Anthem / 麻生夏子 Vocal"
+tracks = [
+    [1, "Lovely Girls Anthem", "麻生夏子", 0],
+    [2, "Merry‐go‐round", "麻生夏子", 0],
+    [3, "Lovely Girls Anthem (Instrumental)", "麻生夏子", 0],
+    [4, "Merry‐go‐round (Instrumental)", "麻生夏子", 0],
+]
+links = ["https://beta.musicbrainz.org/release/140224d6-4bc6-4cf9-b19b-5310acc31a7f", "https://vgmdb.net/album/31479"]
+
+[0f0df8d95a33cf0decc9f94f98c07a83]
+catalognumber = "LACM-4903"
+date = "2012-02-08"
+album = "Lovely Girls Anthem / 麻生夏子 Video"
+tracks = [
+    [1, "Lovely Girls Anthem (Music Video)", "麻生夏子", 0],
+]
+links = ["https://beta.musicbrainz.org/release/140224d6-4bc6-4cf9-b19b-5310acc31a7f", "https://vgmdb.net/album/31479"]
+
+[1b9d097e30f16d1e08dfd80a769b957e]
+catalognumber = "LACM-4909"
+date = "2012-02-22"
+album = "泣き虫TREASURES"
+tracks = [
+    [1, "泣き虫TREASURES", "ミルキィホームズ", 0],
+    [2, "勝利ノキズナ", "ミルキィホームズ", 0],
+    [3, "泣き虫TREASURES (Off Vocal)", "ミルキィホームズ", 0],
+    [4, "勝利ノキズナ (Off Vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/91758dd5-5dc4-4e41-bc63-bdd7cc4fb8c8"]
+
+[b7500b0888a03218d28469aba294c5a7]
+catalognumber = "PCXG-50131-2"
+date = "2012-03-21"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 1"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ「エリー&ネロ」編", "", 0],
+    [2, "オープニングテーマ「ナゾ！ナゾ？Happiness」(シャロMix)", "", 0],
+    [3, "ミルキィホームズ デュオトーク「徳井青空&橘田いずみ」編", "", 0],
+]
+links = ["https://vgmdb.net/album/32224"]
+
+[e5068d7f2fb36c2d72593893838009a0]
+catalognumber = "PCXG-50132-2"
+date = "2012-04-27"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 2"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ「ネロ&コーデリア」編", "", 0],
+    [2, "オープニングテーマ「ナゾ！ナゾ？Happiness!!」(エリーMix)", "", 0],
+    [3, "ミルキィホームズ デュオトーク「橘田いずみ&三森すずこ」編", "", 0],
+]
+links = ["https://vgmdb.net/album/32225"]
+
+[ad02c185d510f681dd8628d321870768]
+catalognumber = "LACA-15197"
+date = "2012-05-09"
+album = "BLOOOOM!!!!"
+tracks = [
+    [1, "Day by Day〜キミと一緒に", "ミルキィホームズ", 0],
+    [2, "ムーンライト探偵S&N", "シャーロック・シェリンフォード (三森すずこ) & 譲崎ネロ (徳井青空)", 0],
+    [3, "ヴィーナス戦線異状なし", "エルキュール・バートン (佐々木未来) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [4, "ヨコハマを歩こう", "米倉千尋", 0],
+    [5, "私があなたを導いてゆく", "NICO", 0],
+    [6, "ナマコソング", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/40d8f752-2e43-4056-be63-8a6f1ec0df03", "https://vgmdb.net/album/32309"]
+
+[c32bbb4f35ae1169c019bf35c85c11e0]
+catalognumber = "PCXG-50133-2"
+date = "2012-05-25"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 3"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ「コーデリア&シャロ」編", "", 0],
+    [2, "オープニングテーマ「ナゾ！ナゾ？Happiness!!」(ネロMix)", "", 0],
+    [3, "ミルキィホームズ デュオトーク「三森すずこ&佐々木未来」編", "", 0],
+]
+links = ["https://vgmdb.net/album/32708"]
+
+[3c3be24b96f790e135c6142d605540ec]
+catalognumber = "PCXG-50134-2"
+date = "2012-06-29"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 4"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ「シャロ&エリー」編", "", 0],
+    [2, "オープニングテーマ「ナゾ！ナゾ？Happiness!!」(コーデリアMix)", "", 0],
+    [3, "ミルキィホームズ デュオトーク「佐々木未来&徳井青空」編", "", 0],
+]
+links = ["https://vgmdb.net/album/33507"]
+
+[e3a7962241eb3e2d2bd8e6ccd82993ee]
+catalognumber = "PCXG-50135-2"
+date = "2012-07-27"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 5"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ「エリー&コーデリア」編", "", 0],
+    [2, "ミルキィホームズ デュオトーク「三森すずこ&徳井青空」編", "", 0],
+    [3, "M-11", "", 0],
+    [4, "M-17", "", 0],
+    [5, "M-20", "", 0],
+    [6, "M-24", "", 0],
+    [7, "M-28", "", 0],
+    [8, "M-37", "", 0],
+    [9, "M-43", "", 0],
+    [10, "EX-4", "", 0],
+    [11, "M-47", "", 0],
+    [12, "M-51", "", 0],
+    [13, "M-52", "", 0],
+    [14, "M-58", "", 0],
+    [15, "M-53", "", 0],
+]
+links = ["https://vgmdb.net/album/33896"]
 
 [43898d0d89580d3b34392094eeb2ebdc]
 catalognumber = "BSLD-0200"
@@ -129,6 +467,29 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/33691"]
 
+[4ecc3e6b5b0b5b68fba389e99d1b35d2]
+catalognumber = "PCXG-50136-2"
+date = "2012-08-24"
+album = "探偵オペラ ミルキィホームズ 第2幕 特典CD 6"
+tracks = [
+    [1, "ミルキィホームズ デュオドラマ 「シャロ&ネロ」編", "", 0],
+    [2, "ミルキィホームズ デュオトーク 「佐々木未来&橘田いずみ」編", "", 0],
+    [3, "M-45", "", 0],
+    [4, "M-48", "", 0],
+    [5, "M-49", "", 0],
+    [6, "M-50", "", 0],
+    [7, "M-55", "", 0],
+    [8, "EX-8", "", 0],
+    [9, "M-56", "", 0],
+    [10, "M-57", "", 0],
+    [11, "M-59", "", 0],
+    [12, "M-60", "", 0],
+    [13, "M-61", "", 0],
+    [14, "M-62", "", 0],
+    [15, "M-63", "", 0],
+]
+links = ["https://vgmdb.net/album/34315"]
+
 [9a0bd625dfce942762675f40dd151955]
 catalognumber = "LACM-4985"
 date = "2012-08-29"
@@ -154,6 +515,121 @@ tracks = [
     [6, "Whodunit night? (Off vocal)", "SV TRIBE", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/be6dd0b3-3e62-42cf-a913-d1357fc467ed", "https://vgmdb.net/album/34753"]
+
+[dacd2378c1cd5e51bd9805039d759916]
+catalognumber = "GNCA-1337"
+date = "2012-12-19"
+album = "萌JAZZ vol.1"
+tracks = [
+    [1, "太陽曰く燃えよカオス", "STUDIO TRAM", 0],
+    [2, "ハヤテのごとく!", "STUDIO TRAM", 0],
+    [3, "ヒャダインのカカカタ☆カタオモイ-C", "STUDIO TRAM", 0],
+    [4, "いぇす!ゆゆゆ☆ゆるゆり♪♪", "STUDIO TRAM", 0],
+    [5, "経験値上昇中☆", "STUDIO TRAM", 0],
+    [6, "Love Destiny", "STUDIO TRAM", 0],
+    [7, "正解はひとつ!じゃない!!", "STUDIO TRAM", 0],
+    [8, "いちごコンプリート", "STUDIO TRAM", 0],
+    [9, "ヒャダインのカカカタ☆カタオモイ-C [Instrumental]", "STUDIO TRAM", 0],
+    [10, "正解はひとつ!じゃない!! [Instrumental]", "STUDIO TRAM", 0],
+]
+links = ["https://beta.musicbrainz.org/release/9821c08e-123f-4f6e-b9ca-fa36166a35c0", "https://vgmdb.net/album/41820"]
+
+[4e26de7f0ddfebeb0e10d11c93d5dcfa]
+catalognumber = "LACA-9268~9"
+date = "2013-03-13"
+album = "『探偵オペラ ミルキィホームズ』ベストアルバム ミルキィパーティー!!!! Disc 1 [LACA-9268]"
+tracks = [
+    [1, "ミラクル×パニック♡エンドレス", "ミルキィホームズ", 0],
+    [2, "雨上がりのミライ", "ミルキィホームズ", 0],
+    [3, "正解はひとつ! じゃない!!", "ミルキィホームズ", 0],
+    [4, "フレフレmy勇気!", "ミルキィホームズ", 0],
+    [5, "こちらミルキィホームズ!", "ミルキィホームズ", 0],
+    [6, "ミルキィtea Time", "ミルキィホームズ", 0],
+    [7, "いつだってサポーター!", "ミルキィホームズ", 0],
+    [8, "恋の調査報告書", "ミルキィホームズ", 0],
+    [9, "ドリーム脳内T.K.O!!!!", "ミルキィホームズ", 0],
+    [10, "ナゾ! ナゾ? Happiness!!", "ミルキィホームズ", 0],
+    [11, "泣き虫TREASURES", "ミルキィホームズ", 0],
+    [12, "勝利ノキズナ", "ミルキィホームズ", 0],
+    [13, "Day by Day〜キミと一緒に", "ミルキィホームズ", 0],
+    [14, "手のひらのキセキ", "ミルキィホームズ", 0],
+    [15, "聞こえなくてもありがとう", "ミルキィホームズ", 0],
+    [16, "パーティーパーティー!", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a3b3a9fe-8887-4da8-a238-7a68d341646c", "https://vgmdb.net/album/37006"]
+
+[b120ff7c490dd79744deee6cab50972c]
+catalognumber = "LACA-9268~9"
+date = "2013-03-13"
+album = "『探偵オペラ ミルキィホームズ』ベストアルバム ミルキィパーティー!!!! Disc 2 [LACA-9269]"
+tracks = [
+    [1, "雨上がりのミライ (Alternative Mix)", "ミルキィホームズ", 0],
+    [2, "プロローグは明日色", "ミルキィホームズ", 0],
+    [3, "バイバイエール!", "ミルキィホームズ", 0],
+    [4, "それはTOYS☆", "シャーロック・シェリンフォード (三森すずこ) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [5, "グッデイ・エブリデイ", "シャーロック・シェリンフォード (三森すずこ)", 0],
+    [6, "ヒミツの花園", "コーデリア・グラウカ (橘田いずみ)", 0],
+    [7, "ぎみぃみるきぃ", "譲崎ネロ (徳井青空) & エルキュール・バートン (佐々木未来)", 0],
+    [8, "DADADA☆はっく", "譲崎ネロ (徳井青空)", 0],
+    [9, "ヒロイン探偵物語", "エルキュール・バートン (佐々木未来)", 0],
+    [10, "ふたりはトモダチ", "シャーロック・シェリンフォード (三森すずこ) & 譲崎ネロ (徳井青空)", 0],
+    [11, "ムーンライト探偵S&N", "シャーロック・シェリンフォード (三森すずこ) & 譲崎ネロ (徳井青空)", 0],
+    [12, "ミルキィウェイであいましょう", "エルキュール・バートン (佐々木未来) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [13, "ヴィーナス戦線異状なし", "エルキュール・バートン (佐々木未来) & コーデリア・グラウカ (橘田いずみ)", 0],
+    [14, "はいぱーみるきぃあわー", "ミルキィホームズ", 0],
+    [15, "キミのなかのワタシ", "ミルキィホームズ & SV TRIBE", 0],
+    [16, "ナマコソング", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a3b3a9fe-8887-4da8-a238-7a68d341646c", "https://vgmdb.net/album/37006"]
+
+[79a31c0f8f65c4afc62d4a1d0592005d]
+catalognumber = "PCCG-90101"
+date = "2013-05-24"
+album = "ユメユメエキスプレス"
+tracks = [
+    [1, "ユメユメエキスプレス", "ミルキィホームズ", 0],
+    [2, "おいでスペクタクル!", "ミルキィホームズ", 0],
+    [3, "ユメユメエキスプレス -カラオケ-", "ミルキィホームズ", 0],
+    [4, "おいでスペクタクル! -カラオケ-", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d560c977-a4ce-43d5-86a7-7cd14ce5a9d0"]
+
+[a0ca946a8f27dc89cce0bdf4f70184cb]
+catalognumber = "PCCG-90104"
+date = "2013-08-21"
+album = "ぐろーりーぐろーいん☆DAYS / ミルキィホームズ Disc 1 (CD)"
+tracks = [
+    [1, "ぐろーりーぐろーいん☆DAYS", "ミルキィホームズ", 0],
+    [2, "セイシュンビギナー!", "ミルキィホームズ フェザーズ", 0],
+    [3, "ピンチにパンチ", "ミルキィホームズ シスターズ", 0],
+    [4, "ぐろーりーぐろーいん☆DAYS -カラオケ-", "ミルキィホームズ", 0],
+    [5, "セイシュンビギナー! -カラオケ-", "ミルキィホームズ フェザーズ", 0],
+    [6, "ピンチにパンチ -カラオケ-", "ミルキィホームズ シスターズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7c21b886-8f8d-4129-9bc1-5c90d6cdb650", "https://vgmdb.net/album/39576"]
+
+[1331bc3248c6fe07eee1267ad2a9d960]
+catalognumber = "PCCG-90104"
+date = "2013-08-21"
+album = "ぐろーりーぐろーいん☆DAYS / ミルキィホームズ Disc 2 (DVD)"
+tracks = [
+    [1, "「ピンチにパンチ」ミュージックビデオ", "", 0],
+]
+links = ["https://vgmdb.net/album/39576"]
+
+[ead05eb91f793628b55666172a86f5a3]
+catalognumber = "PCCG-90105"
+date = "2013-08-21"
+album = "ぐろーりーぐろーいん☆DAYS / ミルキィホームズ"
+tracks = [
+    [1, "ぐろーりーぐろーいん☆DAYS", "ミルキィホームズ", 0],
+    [2, "セイシュンビギナー!", "ミルキィホームズ フェザーズ", 0],
+    [3, "ピンチにパンチ", "ミルキィホームズ シスターズ", 0],
+    [4, "ぐろーりーぐろーいん☆DAYS -カラオケ-", "ミルキィホームズ", 0],
+    [5, "セイシュンビギナー! -カラオケ-", "ミルキィホームズ フェザーズ", 0],
+    [6, "ピンチにパンチ -カラオケ-", "ミルキィホームズ シスターズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f26dfcf7-a004-4a49-91bd-be724fcfc7c5", "https://vgmdb.net/album/39577"]
 
 [0d9e2ba9db5a3a88d974674fd9f406e6]
 catalognumber = "PCXG-50138-2"
@@ -203,6 +679,101 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/40431"]
 
+[d03d12cc5d263e6259643074ca698ba6]
+catalognumber = "PCCG-90109"
+date = "2013-12-18"
+album = "Dreamin' / ミルキィホームズ Disc 1 (CD) [PCCG-90109]"
+tracks = [
+    [1, "ぐろーりーぐろーいん☆DAYS", "ミルキィホームズ", 0],
+    [2, "いっしょ懸命", "シャーロック・シェリンフォード(三森すずこ)&エルキュール・バートン(佐々木未来)", 0],
+    [3, "アコガレmake your dream", "シャーロック・シェリンフォード(三森すずこ)", 0],
+    [4, "I DO MY BEST!!", "エルキュール・バートン(佐々木未来)", 0],
+    [5, "わんだふるコンビネーション", "譲崎ネロ(徳井青空)&コーデリア・グラウカ(橘田いずみ)", 0],
+    [6, "SU☆PA☆PA☆スター", "譲崎ネロ(徳井青空)", 0],
+    [7, "乙女♡危機一髪", "コーデリア・グラウカ(橘田いずみ)", 0],
+    [8, "ユメユメエキスプレス", "ミルキィホームズ", 0],
+    [9, "羽ばたいてDreamin’", "ミルキィホームズ", 0],
+    [10, "We are the Miracle Holmes♪", "ミルキィホームズ シスターズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d7fa24b1-8e4b-4608-a681-09a032de5a26", "https://vgmdb.net/album/44965"]
+
+[5540890b9646d4b910b850ebab699c59]
+catalognumber = "PCCG-90109"
+date = "2013-12-18"
+album = "Dreamin' / ミルキィホームズ Disc 2 (Blu-ray)"
+tracks = [
+    [1, "羽ばたいてDreamin’ (Party Version)", "ミルキィホームズ", 0],
+    [2, "羽ばたいてDreamin’ (Dance Version)", "ミルキィホームズ", 0],
+    [3, "羽ばたいてDreamin’ (ドキュメンタリー)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/d7fa24b1-8e4b-4608-a681-09a032de5a26", "https://vgmdb.net/album/44965"]
+
+[c07b446a20c5a7bdecb808d00c4f873b]
+catalognumber = "PCCG-90110"
+date = "2013-12-18"
+album = "Dreamin' / ミルキィホームズ"
+tracks = [
+    [1, "ぐろーりーぐろーいん☆DAYS", "ミルキィホームズ", 0],
+    [2, "いっしょ懸命", "シャーロック・シェリンフォード(三森すずこ)&エルキュール・バートン(佐々木未来)", 0],
+    [3, "アコガレmake your dream", "シャーロック・シェリンフォード(三森すずこ)", 0],
+    [4, "I DO MY BEST!!", "エルキュール・バートン(佐々木未来)", 0],
+    [5, "わんだふるコンビネーション", "譲崎ネロ(徳井青空)&コーデリア・グラウカ(橘田いずみ)", 0],
+    [6, "SU☆PA☆PA☆スター", "譲崎ネロ(徳井青空)", 0],
+    [7, "乙女♡危機一髪", "コーデリア・グラウカ(橘田いずみ)", 0],
+    [8, "ユメユメエキスプレス", "ミルキィホームズ", 0],
+    [9, "羽ばたいてDreamin’", "ミルキィホームズ", 0],
+    [10, "We are the Miracle Holmes♪", "ミルキィホームズ シスターズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/64e587ef-dc59-4122-9c66-6aececc90eea", "https://vgmdb.net/album/87864"]
+
+[1522533bc9aa6f6227afd2f7e9d636f7]
+catalognumber = "LACA-15374"
+date = "2014-03-05"
+album = "My Starlit Point / 麻生夏子"
+tracks = [
+    [1, "My Starlit Point", "麻生夏子", 0],
+    [2, "Merry‐go‐round", "麻生夏子", 0],
+    [3, "Parade!", "麻生夏子", 0],
+    [4, "Fighting Growing Diary", "麻生夏子", 0],
+    [5, "CROSS × OVER SENSATION", "麻生夏子", 0],
+    [6, "私色クローズ", "麻生夏子", 0],
+    [7, "Lovely Girls Anthem", "麻生夏子", 0],
+    [8, "MoonRise Romance", "麻生夏子", 0],
+    [9, "不安定な惑星", "麻生夏子", 0],
+    [10, "ICE NINE", "麻生夏子", 0],
+    [11, "You’re my brightness", "麻生夏子", 0],
+    [12, "Never Ending Voyage", "麻生夏子", 0],
+]
+links = ["https://beta.musicbrainz.org/release/70abe76d-d7d8-42de-a305-9a877ecd7724", "https://vgmdb.net/album/65563"]
+
+[0d7d2215733f51ff884c457817a05a0c]
+catalognumber = "PCCG-90124"
+date = "2014-04-30"
+album = "冒険☆ミルキィロード!!"
+tracks = [
+    [1, "冒険☆ミルキィロード!!", "ミルキィホームズ", 0],
+    [2, "スイートスイートホームタウン", "ミルキィホームズ シスターズ", 0],
+    [3, "熱風海陸ブシロード 〜熱き咆哮〜 (Hyper Euro Version)", "ミルキィホームズ", 0],
+    [4, "冒険☆ミルキィロード!! (off vocal)", "ミルキィホームズ", 0],
+    [5, "スイートスイートホームタウン (off vocal)", "ミルキィホームズ シスターズ", 0],
+    [6, "熱風海陸ブシロード 〜熱き咆哮〜 (Hyper Euro Version) (off vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/84628d5e-d919-4989-ba31-a0f665818b1a"]
+
+[4f3a0939856078be960379bc032a6474]
+catalognumber = "PCCG-90135"
+date = "2014-12-03"
+album = "オーバードライブ!"
+tracks = [
+    [1, "オーバードライブ!", "ミルキィホームズ", 0],
+    [2, "ミルミルUP↑", "ミルキィホームズ", 0],
+    [3, "HAPPY! 絶好調", "フェザーズ", 0],
+    [4, "オーバードライブ! off vocal", "ミルキィホームズ", 0],
+    [5, "ミルミルUP↑ off vocal", "ミルキィホームズ", 0],
+    [6, "HAPPY! 絶好調 off vocal", "フェザーズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/8bc147f6-af62-4b30-9dc0-e6cc699808fe"]
+
 [2fd576445f4a752ac15ecd0349066ede]
 catalognumber = "PCCG-90137"
 date = "2015-02-18"
@@ -215,6 +786,269 @@ tracks = [
 ]
 links = ["https://beta.musicbrainz.org/release/59eee523-a92a-45cc-bb96-4e5195296aff"]
 
+[cc60978bee4d71ec31c916d56591fda7]
+catalognumber = "EMTN-10003"
+date = "2015-02-18"
+album = "探求Dreaming / 新田恵海"
+tracks = [
+    [1, "探求Dreaming", "新田恵海", 0],
+    [2, "想いよ届け", "新田恵海", 0],
+    [3, "探求Dreaming -Instrumental-", "新田恵海", 0],
+    [4, "想いよ届け -Instrumental-", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/47bc9544-0477-4077-9717-75a490285002", "https://vgmdb.net/album/49601"]
+
+[463db00aa63014bdeb94c477818e5daa]
+catalognumber = "PCCG-90136"
+date = "2015-02-18"
+album = "ミルキィ A GO GO / ミルキィホームズ [A GO GO盤] Disc 1 (CD) [PCCG-90136-1]"
+tracks = [
+    [1, "ミルキィ A GO GO", "ミルキィホームズ", 0],
+    [2, "PIECE & PEACE", "ミルキィホームズ", 0],
+    [3, "ミルキィ A GO GO (off vocal)", "ミルキィホームズ", 0],
+    [4, "PIECE & PEACE (off vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7a554a31-bd0b-490b-9d44-2a38f3d6ca0c", "https://vgmdb.net/album/49627"]
+
+[0bcb2f573978246e59fc8a8bb4c8af0c]
+catalognumber = "PCCG-90136"
+date = "2015-02-18"
+album = "ミルキィ A GO GO / ミルキィホームズ [A GO GO盤] Disc 2 (Blu-ray) [PCCG-90136-2]"
+tracks = [
+    [1, "ミルキィ A GO GO (Music Clip)", "ミルキィホームズ", 0],
+    [2, "ミルキィ A GO GO (Music Clip メイキング)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7a554a31-bd0b-490b-9d44-2a38f3d6ca0c", "https://vgmdb.net/album/49627"]
+
+[b1da9287e6f26831973c725c88327519]
+catalognumber = "PCCG-90137"
+date = "2015-02-18"
+album = "ミルキィ A GO GO / ミルキィホームズ [ミルキィ盤]"
+tracks = [
+    [1, "ミルキィ A GO GO", "ミルキィホームズ", 0],
+    [2, "PIECE & PEACE", "ミルキィホームズ", 0],
+    [3, "ミルキィ A GO GO (off vocal)", "ミルキィホームズ", 0],
+    [4, "PIECE & PEACE (off vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/59eee523-a92a-45cc-bb96-4e5195296aff", "https://vgmdb.net/album/49626"]
+
+[0d7cbb939a8601ca1ad77ac9a6583efd]
+catalognumber = "EMTN-10004"
+date = "2015-02-18"
+album = "探求Dreaming / 新田恵海 Disc 2 (DVD)"
+tracks = [
+    [1, "探求Dreaming Music Clip", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ba5caab-b33e-48a5-ae1a-5d1f16810e1e", "https://vgmdb.net/album/49600"]
+
+[1d76f9811b484c9ba154bbaf42a1b934]
+catalognumber = "EMTN-10004"
+date = "2015-02-18"
+album = "探求Dreaming / 新田恵海 Disc 1 (CD)"
+tracks = [
+    [1, "探求Dreaming", "新田恵海", 0],
+    [2, "想いよ届け", "新田恵海", 0],
+    [3, "探求Dreaming -Instrumental-", "新田恵海", 0],
+    [4, "想いよ届け -Instrumental-", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ba5caab-b33e-48a5-ae1a-5d1f16810e1e", "https://vgmdb.net/album/49600"]
+
+[acdeb6b6916762131222893cc38ec854]
+catalognumber = "PCXX-50089-2"
+date = "2015-03-18"
+album = "ミルキィ A GO GO (シャロ盤)"
+tracks = [
+    [1, "ミルキィ A GO GO (シャロver)", "", 0],
+    [2, "サンキューメッセージ", "", 0],
+]
+links = ["https://vgmdb.net/album/50166"]
+
+[ba26675aa6bf8cf0d981f4be985cb359]
+catalognumber = "PCCG-90140"
+date = "2015-04-15"
+album = "TVアニメ「探偵歌劇 ミルキィホームズ TD」挿入歌アルバム「Treasure Disc」"
+tracks = [
+    [1, "PIECE&PEACE", "ミルキィホームズ", 0],
+    [2, "パーフェクトラブ!", "明智小衣(南條愛乃)", 0],
+    [3, "エッセンシャル!", "ミルキィホームズ", 0],
+    [4, "ミルキィろけんろー", "ミルキィホームズ", 0],
+    [5, "未体験ワールド!", "ミルキィホームズ", 0],
+    [6, "ト・リ・コ", "エルキュール・バートン(佐々木未来)", 0],
+    [7, "NERORO☆おんど", "譲崎ネロ(徳井青空)", 0],
+    [8, "禁断サンクチュアリ", "コーデリア・グラウカ(橘田いずみ)", 0],
+    [9, "ラッキー*フルスロットル", "シャーロック・シェリンフォード(三森すずこ)", 0],
+    [10, "ハートGoes on!", "ミルキィホームズ", 0],
+    [11, "奇跡の歌", "天城茉莉音(新田恵海)&法条美樹(中津真莉)", 0],
+    [12, "いい日TD", "ミルキィホームズ&フェザーズ&明智小衣(南條愛乃)&天城茉莉音(新田恵海)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/e4b87ff8-bbe1-49a6-8d51-147c8a6a3729", "https://vgmdb.net/album/50457"]
+
+[474198f4152c20f39f2ed8bd22a14a06]
+catalognumber = "PCCG-90141"
+date = "2015-04-15"
+album = "TVアニメ「探偵歌劇 ミルキィホームズ TD」OST『サウンドトラック!』"
+tracks = [
+    [1, "メインテーマ", "", 0],
+    [2, "レッツ!アドベンチャー", "", 0],
+    [3, "プリティー&ファニー", "", 0],
+    [4, "エレメント", "", 0],
+    [5, "おもちゃ箱", "", 0],
+    [6, "プレッシャー/不安", "", 0],
+    [7, "疑惑", "", 0],
+    [8, "感傷", "", 0],
+    [9, "絶望", "", 0],
+    [10, "ロマンス", "", 0],
+    [11, "静かな夜", "", 0],
+    [12, "期待感", "", 0],
+    [13, "再開", "", 0],
+    [14, "アンニュイ", "", 0],
+    [15, "探偵と怪盗", "", 0],
+    [16, "トイズの力", "", 0],
+    [17, "ミステリー", "", 0],
+    [18, "ミッション開始", "", 0],
+    [19, "遺跡", "", 0],
+    [20, "華やかな場所", "", 0],
+    [21, "盛り上がるステージ", "", 0],
+    [22, "通学路", "", 0],
+    [23, "探偵学校", "", 0],
+    [24, "ほんわかムード", "", 0],
+    [25, "圧倒的な力", "", 0],
+    [26, "魔女のいる場所", "", 0],
+    [27, "空虚な世界", "", 0],
+    [28, "幻想", "", 0],
+    [29, "狂気", "", 0],
+    [30, "違和感", "", 0],
+    [31, "ピンチ", "", 0],
+    [32, "登場", "", 0],
+    [33, "チェイス", "", 0],
+    [34, "圧倒", "", 0],
+    [35, "ライバル", "", 0],
+    [36, "ハチャメチャ", "", 0],
+    [37, "ダメダメ", "", 0],
+    [38, "ダッシュ", "", 0],
+    [39, "大成功", "", 0],
+    [40, "ナマステソング", "", 0],
+    [41, "三点倒立の一族", "", 0],
+    [42, "超電脳世界", "", 0],
+    [43, "お猿の手品", "", 0],
+    [44, "カジノ", "", 0],
+    [45, "広大な大地", "", 0],
+    [46, "バブル崩壊", "", 0],
+    [47, "虎の目", "", 0],
+    [48, "ザ・アイドル", "", 0],
+    [49, "アモーレ", "", 0],
+]
+links = ["https://vgmdb.net/album/50456"]
+
+[330e4f4c931c333d22fb758212ff6a7b]
+catalognumber = "PCXX-50090-2"
+date = "2015-04-24"
+album = "ミルキィ A GO GO (エリー盤)"
+tracks = [
+    [1, "ミルキィ A GO GO (シャロver)", "", 0],
+    [2, "サンキューメッセージ", "", 0],
+]
+links = ["https://vgmdb.net/album/50428"]
+
+[b9948ae3b3b9b6f34fe3a106e8ab21e5]
+catalognumber = "PCXX-50091-2"
+date = "2015-05-20"
+album = "ミルキィ A GO GO (ネロ盤)"
+tracks = [
+    [1, "ミルキィ A GO GO (ネロver)", "", 0],
+    [2, "サンキューメッセージ", "", 0],
+]
+links = ["https://vgmdb.net/album/50429"]
+
+[c5a5912e16e6e8cece79e6b414cee659]
+catalognumber = "PCXX-50092-2"
+date = "2015-06-17"
+album = "ミルキィ A GO GO (コーデリア盤)"
+tracks = [
+    [1, "ミルキィ A GO GO (コーデリアver)", "", 0],
+    [2, "サンキューメッセージ", "", 0],
+]
+links = ["https://vgmdb.net/album/50430"]
+
+[0f33438366e257f1435124ece5cc4596]
+catalognumber = ""
+date = "2015-09-09"
+album = "ミルキィ100ワールド"
+tracks = [
+    [1, "ミルキィ100ワールド", "ミルキィホームズ", 0],
+    [2, "みるふれ", "ミルキィホームズ", 0],
+    [3, "ミルキィ100ワールド (off vocal)", "ミルキィホームズ", 0],
+    [4, "みるふれ (off vocal)", "ミルキィホームズ", 0],
+]
+links = ["https://music.163.com/#/album?id=3292321"]
+
+[be40883bf79ed504a76ff83a2ba12e50]
+catalognumber = "EMTN-10007"
+date = "2015-10-21"
+album = "EMUSIC / 新田恵海"
+tracks = [
+    [1, "EMUSIC", "新田恵海", 0],
+    [2, "笑顔と笑顔で始まるよ!", "新田恵海", 0],
+    [3, "言葉より強く", "新田恵海", 0],
+    [4, "Rainy*flower", "新田恵海", 0],
+    [5, "Dear everyday", "新田恵海", 0],
+    [6, "探求Dreaming", "新田恵海", 0],
+    [7, "WONDER! SHUTTER LOVE", "新田恵海", 0],
+    [8, "スピカ", "新田恵海", 0],
+    [9, "OURS POWERS", "新田恵海", 0],
+    [10, "NEXT PHASE", "新田恵海", 0],
+    [11, "きらめきを夢見て", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4f2a1f23-4d4a-4ddb-825b-c8503b31a65c", "https://vgmdb.net/album/68312"]
+
+[1337ce71afa9128fc314d17d222eb8be]
+catalognumber = "EMTN-10009"
+date = "2015-10-21"
+album = "EMUSIC / 新田恵海 [フォトブックレット付き限定盤]"
+tracks = [
+    [1, "EMUSIC", "新田恵海", 0],
+    [2, "笑顔と笑顔で始まるよ!", "新田恵海", 0],
+    [3, "言葉より強く", "新田恵海", 0],
+    [4, "Rainy*flower", "新田恵海", 0],
+    [5, "Dear everyday", "新田恵海", 0],
+    [6, "探求Dreaming", "新田恵海", 0],
+    [7, "WONDER! SHUTTER LOVE", "新田恵海", 0],
+    [8, "スピカ", "新田恵海", 0],
+    [9, "OURS POWERS", "新田恵海", 0],
+    [10, "NEXT PHASE", "新田恵海", 0],
+    [11, "きらめきを夢見て", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/f53d6372-cc4c-4b12-b366-6b276722cd3e", "https://vgmdb.net/album/68313"]
+
+[54cb8c8972fb13821949faedef922ba3]
+catalognumber = "EMTN-10008"
+date = "2015-10-21"
+album = "EMUSIC / 新田恵海 [DVD付き限定盤] Vocal"
+tracks = [
+    [1, "EMUSIC", "新田恵海", 0],
+    [2, "笑顔と笑顔で始まるよ!", "新田恵海", 0],
+    [3, "言葉より強く", "新田恵海", 0],
+    [4, "Rainy*flower", "新田恵海", 0],
+    [5, "Dear everyday", "新田恵海", 0],
+    [6, "探求Dreaming", "新田恵海", 0],
+    [7, "WONDER! SHUTTER LOVE", "新田恵海", 0],
+    [8, "スピカ", "新田恵海", 0],
+    [9, "OURS POWERS", "新田恵海", 0],
+    [10, "NEXT PHASE", "新田恵海", 0],
+    [11, "きらめきを夢見て", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fc146f9f-cd5d-4eb0-b868-7bbf297eeefa", "https://vgmdb.net/album/68314"]
+
+[6d6aa1cae7b07eac0dfed970d11a35cf]
+catalognumber = "EMTN-10008"
+date = "2015-10-21"
+album = "EMUSIC / 新田恵海 [DVD付き限定盤] Video"
+tracks = [
+    [1, "EMUSIC (Music Clip)", "新田恵海", 0],
+    [2, "EMUSIC (Music Clip Making)", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/fc146f9f-cd5d-4eb0-b868-7bbf297eeefa", "https://vgmdb.net/album/68314"]
+
 [b5f6abb21d1530f0a43322eba8044e85]
 catalognumber = "PCCG-90147"
 date = "2016-02-17"
@@ -226,6 +1060,53 @@ tracks = [
     [4, "鼓動の彼方 (off vocal)", "ミルキィホームズ", 0],
 ]
 links = ["https://beta.musicbrainz.org/release/90a28cee-1200-44ff-b3a6-bdc00057e081", "https://vgmdb.net/album/56172"]
+
+[d4b0b04964c08010a7857d44df9a7629]
+catalognumber = "PCCG-90150"
+date = "2016-04-20"
+album = "総天然色 (フルカラー) / ミルキィホームズ 【Blu-ray付き限定盤】 Disc 1 (CD)"
+tracks = [
+    [1, "総天然色フルパワー", "ミルキィホームズ", 0],
+    [2, "ミルキィ A GO GO", "ミルキィホームズ", 0],
+    [3, "ミルキィアタック", "ミルキィホームズ", 0],
+    [4, "冒険☆ミルキィロード!!", "ミルキィホームズ", 0],
+    [5, "激情!ミルキィ大作戦", "ミルキィホームズ", 0],
+    [6, "みるみるUPっぷ↑↑", "ミルキィホームズ", 0],
+    [7, "ミルキィ100ワールド", "ミルキィホームズ", 0],
+    [8, "オーバードライブ!", "ミルキィホームズ", 0],
+    [9, "鼓動の彼方 〜劇場ver〜", "ミルキィホームズ", 0],
+    [10, "カラフル with you", "ミルキィホームズ", 0],
+    [11, "ANSWER", "小林オペラ(森嶋秀太)", 0],
+]
+links = ["https://beta.musicbrainz.org/release/64fe16fa-f108-431f-bb97-4ded54b06b41", "https://vgmdb.net/album/161819"]
+
+[2c0101381ae4ac71e7e122296032254e]
+catalognumber = "PCCG-90150"
+date = "2016-04-20"
+album = "総天然色 (フルカラー) / ミルキィホームズ 【Blu-ray付き限定盤】 Disc 2 (Blu-ray)"
+tracks = [
+    [1, "総天然色フルパワー (Music Clip)", "ミルキィホームズ", 0],
+    [2, "メイキング映像", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/64fe16fa-f108-431f-bb97-4ded54b06b41", "https://vgmdb.net/album/161819"]
+
+[2a5dbadfada92c91dd0121e1b9138fd5]
+catalognumber = "PCCG-90151"
+date = "2016-04-20"
+album = "総天然色 (フルカラー) / ミルキィホームズ"
+tracks = [
+    [1, "総天然色フルパワー", "ミルキィホームズ", 0],
+    [2, "ミルキィ A GO GO", "ミルキィホームズ", 0],
+    [3, "ミルキィアタック", "ミルキィホームズ", 0],
+    [4, "冒険☆ミルキィロード!!", "ミルキィホームズ", 0],
+    [5, "激情!ミルキィ大作戦", "ミルキィホームズ", 0],
+    [6, "みるみるUPっぷ↑↑", "ミルキィホームズ", 0],
+    [7, "ミルキィ100ワールド", "ミルキィホームズ", 0],
+    [8, "オーバードライブ!", "ミルキィホームズ", 0],
+    [9, "鼓動の彼方 〜劇場ver〜", "ミルキィホームズ", 0],
+    [10, "カラフル with you", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/0ff9c563-5baa-4f3a-8ec5-0afc9ba58c30", "https://vgmdb.net/album/161818"]
 
 [13204c5a7b35df51a7714187084470b8]
 catalognumber = "N/A"
@@ -271,6 +1152,141 @@ tracks = [
     [37, "最後の最後", "", 0],
 ]
 links = ["https://vgmdb.net/album/63662"]
+
+[0d126039e5733dcac9deb7ded95eb3da]
+catalognumber = "N/A"
+date = "2016-12-24"
+album = "ファンファンパーリーナイト♪ / ミルキィホームズ"
+tracks = [
+    [1, "ファンファンパーリーナイト♪", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/6f67a7ad-4822-418d-9b99-3d56a2a6ce0f", "https://vgmdb.net/album/62869"]
+
+[aaf56ad8678e648d40c5a2fc5f472483]
+catalognumber = "PCCG-90153"
+date = "2017-04-19"
+album = "横濱行進曲 / ミルキィホームズ"
+tracks = [
+    [1, "横濱行進曲", "ミルキィホームズ", 0],
+    [2, "ファンファンパーリーナイト♪", "ミルキィホームズ", 0],
+    [3, "偉人先人 Oh, Hero!!", "シャーロック・シェリンフォード(三森すずこ)", 0],
+    [4, "ハートフル探偵☆ネロ", "譲崎ネロ(徳井青空)", 0],
+    [5, "Heart Mystery", "エルキュール・バートン(佐々木未来)", 0],
+    [6, "Gorgeous Sensitive", "コーデリア・グラウカ(橘田いずみ)", 0],
+    [7, "Two of Us 無敵♪", "フェザーズ", 0],
+    [8, "The Operative", "小林オペラ(森嶋秀太)", 0],
+    [9, "Brilliant Wish 〜華麗なる欲望〜", "アルセーヌ/アンリエット・ミステール(明坂聡美)", 0],
+    [10, "Blue Light", "ミルキィホームズ", 0],
+]
+links = ["https://beta.musicbrainz.org/release/4b8e74f3-46df-4546-9eef-2b3346653a1b", "https://vgmdb.net/album/133603"]
+
+[7106cf619dda9a391c8d75ec00f03a33]
+catalognumber = ""
+date = "2017-06-07"
+album = "Pleasure Stride"
+tracks = [
+    [1, "Pleasure Stride", "ミルキィホームズ", 0],
+    [2, "Fighting☆Dramatic", "ミルキィホームズ", 0],
+    [3, "Pleasure Stride (instrumental)", "ミルキィホームズ", 0],
+    [4, "Fighting☆Dramatic (instrumental)", "ミルキィホームズ", 0],
+]
+links = ["https://music.163.com/#/album?id=35630720"]
+
+[71017723fa8c150a0638779b073149e9]
+catalognumber = "EMTN-10016"
+date = "2017-07-19"
+album = "Trace of EMUSIC / 新田恵海 Disc 1 (CD)"
+tracks = [
+    [1, "Smile again with you", "新田恵海", 0],
+    [2, "EMUSIC", "新田恵海", 0],
+    [3, "笑顔と笑顔で始まるよ！", "新田恵海", 0],
+    [4, "探求Dreaming", "新田恵海", 0],
+    [5, "NEXT PHASE", "新田恵海", 0],
+    [6, "盟約の彼方", "新田恵海", 0],
+    [7, "言葉より強く", "新田恵海", 0],
+    [8, "OURS POWERS", "新田恵海", 0],
+    [9, "ROCKET HEART", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/984fff0d-e52f-4bf6-92d4-aae8bf067d06", "https://vgmdb.net/album/88881"]
+
+[5ec58d18686af20e70fbd052f5b288b2]
+catalognumber = "EMTN-10016"
+date = "2017-07-19"
+album = "Trace of EMUSIC / 新田恵海 Disc 2 (CD)"
+tracks = [
+    [1, "想像を超えた世界", "新田恵海", 0],
+    [2, "想いよ届け", "新田恵海", 0],
+    [3, "優しい世界そして未来へ", "新田恵海", 0],
+    [4, "Dear everyday", "新田恵海", 0],
+    [5, "Rainy*flower", "新田恵海", 0],
+    [6, "WONDER! SHUTTER LOVE", "新田恵海", 0],
+    [7, "スピカ", "新田恵海", 0],
+    [8, "つなぐメロディー", "新田恵海", 0],
+    [9, "きらめきを夢みて", "新田恵海", 0],
+    [10, "Believe in (E)MUSIC", "新田恵海", 0],
+]
+links = ["https://beta.musicbrainz.org/release/984fff0d-e52f-4bf6-92d4-aae8bf067d06", "https://vgmdb.net/album/88881"]
+
+[3c61bad5a29de6ffc58389d706fd4e30]
+catalognumber = "EMTN-10016"
+date = "2017-07-19"
+album = "Trace of EMUSIC / 新田恵海 Disc 3 (Blu-ray)"
+tracks = [
+    [1, "笑顔と笑顔で始まるよ! (Music Clip)", "", 0],
+    [2, "探求Dreaming (Music Clip)", "", 0],
+    [3, "NEXT PHASE (Music Clip)", "", 0],
+    [4, "EMUSIC (Music Clip)", "", 0],
+    [5, "盟約の彼方 (Music Clip)", "", 0],
+    [6, "ROCKET HEART (Music Clip)", "", 0],
+    [7, "Smile again with you (Music Clip)", "", 0],
+]
+links = ["https://vgmdb.net/album/88881"]
+
+[06cc5972f0f0e6a74a092729d1eebd54]
+catalognumber = "PCCG-90166"
+date = "2018-01-17"
+album = "Reflection / ミルキィホームズ Disc 1 (CD)"
+tracks = [
+    [1, "Reflection", "", 0],
+    [2, "TiCK TaCK", "", 0],
+    [3, "Reflection -Instrumental-", "", 0],
+    [4, "TiCK TaCK -Instrumental-", "", 0],
+]
+links = ["https://vgmdb.net/album/73336"]
+
+[e9e31b8483df35465082a3998b6e5fec]
+catalognumber = "PCCG-90166"
+date = "2018-01-17"
+album = "Reflection / ミルキィホームズ Disc 2 (Blu-ray)"
+tracks = [
+    [1, "Reflection -Music Video-", "", 0],
+    [2, "Making the \"Reflection\"", "", 0],
+]
+links = ["https://vgmdb.net/album/73336"]
+
+[d351d4612c3f2abe44c75a9c6b10cf7c]
+catalognumber = "PCCG-90167"
+date = "2018-01-17"
+album = "Reflection / ミルキィホームズ"
+tracks = [
+    [1, "Reflection", "", 0],
+    [2, "TiCK TaCK", "", 0],
+    [3, "Reflection -Instrumental-", "", 0],
+    [4, "TiCK TaCK -Instrumental-", "", 0],
+]
+links = ["https://vgmdb.net/album/73335"]
+
+[dd1cbce3ed6e142c918d21124796216a]
+catalognumber = ""
+date = "2018-10-17"
+album = "毎日くらいまっくす☆/そして、群青にとけていく"
+tracks = [
+    [1, "毎日くらいまっくす☆", "ミルキィホームズ", 0],
+    [2, "そして、群青にとけていく", "ミルキィホームズ", 0],
+    [3, "毎日くらいまっくす☆ (instrumental)", "ミルキィホームズ", 0],
+    [4, "そして、群青にとけていく (instrumental)", "ミルキィホームズ", 0],
+]
+links = ["https://music.163.com/#/album?id=73471608"]
 
 [a2902652b9f96b9a2cad71319cd9b1fc]
 catalognumber = "PCCG-90175"
@@ -395,222 +1411,180 @@ tracks = [
 ]
 links = ["https://vgmdb.net/album/83840"]
 
-[b4473d6bd77f36fe24099d23abc28bb5]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 1"
+[2bcd5c42a3d3793b58ba23c86cb6ae8d]
+catalognumber = "LACA-9683~5"
+date = "2019-07-24"
+album = "mind as ROCK! / Faylan Disc 1 (CD) [LACA-9683]"
 tracks = [
-    [1, "ふたりのもじぴったん(fine c'est la mix)", "神前暁", 0],
-    [2, "God knows...", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [3, "Lost my music", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [4, "GO MY WAY!!(M@STER VERSION)", "天海春香(CV:中村繪里子), 高槻やよい(CV:仁後真耶子), 水瀬伊織(CV:釘宮理恵)", 0],
-    [5, "もってけ！セーラーふく", "泉こなた（平野 綾）、柊かがみ（加藤英美里）、柊つかさ（福原香織）、高良みゆき（遠藤 綾）", 0],
-    [6, "幸せ願う彼方から", "泉かなた（島本須美）", 0],
-    [7, "セキレイ", "結(早見沙織)×月海(井上麻里奈)×草野(花澤香菜)×松(遠藤綾)", 0],
-    [8, "motto☆派手にね!", "戸松遥", 0],
-    [9, "Super Driver", "平野綾", 0],
-    [10, "staple stable", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [11, "帰り道", "八九寺真宵(加藤英美里)", 0],
-    [12, "ambivalent world", "神原駿河(沢城みゆき)", 0],
-    [13, "恋愛サーキュレーション", "千石撫子(花澤香菜)", 0],
-    [14, "sugar sweet nightmare", "羽川翼(堀江由衣)", 0],
-    [15, "りある＿りあるが＿あんりある", "蝶伝寺さすけ(CV:小野大輔), 蝶伝寺ねね(CV:後藤沙緒里)", 0],
-    [16, "雨上がりのミライ", "ミルキィホームズ", 0],
+    [1, "mind as Judgment", "飛蘭", 0],
+    [2, "AROUSING SOUL", "飛蘭", 0],
+    [3, "本能のDOUBT", "飛蘭", 0],
+    [4, "Realization", "飛蘭", 0],
+    [5, "終末のフラクタル", "Faylan", 0],
+    [6, "BELIEVE", "飛蘭", 0],
+    [7, "優しさの蕾", "飛蘭", 0],
+    [8, "生まれ変わる未来で", "Faylan", 0],
+    [9, "prism flower", "飛蘭", 0],
+    [10, "wonder fang", "飛蘭", 0],
+    [11, "Ancient Guardian", "Faylan", 0],
+    [12, "灯-TOMOSHIBI-", "飛蘭", 0],
+    [13, "Last vision for last", "飛蘭", 0],
+    [14, "!!SCREAM&SHOUT!!", "Faylan", 0],
+    [15, "時空のパルス", "飛蘭", 0],
+    [16, "Errand", "飛蘭", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
+links = ["https://beta.musicbrainz.org/release/d8b92eb6-8e69-4dc2-aedd-2cf970c155fd", "https://vgmdb.net/album/86549"]
 
-[5ca399acb6582806f1459c2db3a1b6c8]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 2"
+[86e234c07421575de0b344f73c2f6b26]
+catalognumber = "LACA-9683~5"
+date = "2019-07-24"
+album = "mind as ROCK! / Faylan Disc 2 (CD) [LACA-9684]"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
-    [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
-    [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],
-    [6, "Morning Arch", "河野マリナ", 0],
-    [7, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [8, "READY!!（M@STER VERSION）", "765PRO ALLSTARS", 0],
-    [9, "二言目", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [10, "marshmallow justice", "阿良々木火憐(喜多村英梨)", 0],
-    [11, "白金ディスコ", "阿良々木月火(井口裕香)", 0],
-    [12, "たからもの", "河野マリナ", 0],
-    [13, "お後がよろしくって…よ!", "極♨落女会", 0],
-    [14, "アラタなるセカイ", "河野マリナ", 0],
-    [15, "happy endings", "花澤香菜", 0],
-    [16, "perfect slumbers", "羽川翼(堀江由衣)", 0],
-    [17, "chocolate insomnia", "羽川翼(堀江由衣)", 0],
+    [1, "Dark Side of the Light", "飛蘭", 0],
+    [2, "BLUE BLAZE", "飛蘭", 0],
+    [3, "Blood teller", "飛蘭", 0],
+    [4, "I don’t know", "飛蘭", 0],
+    [5, "蒼穹の光", "飛蘭", 0],
+    [6, "keep the faith", "飛蘭", 0],
+    [7, "艶麗ブラックアウト", "Faylan", 0],
+    [8, "INFINITE CRISIS", "飛蘭", 0],
+    [9, "SERIOUS-AGE", "飛蘭", 0],
+    [10, "戦場に咲いた一輪の花", "Faylan", 0],
+    [11, "君といた日々", "飛蘭", 0],
+    [12, "Saviour Storia", "Faylan", 0],
+    [13, "Blue sanction", "飛蘭", 0],
+    [14, "ALIVE", "飛蘭", 0],
+    [15, "I sing by my soul", "飛蘭", 0],
+    [16, "RED decision", "飛蘭", 0],
+    [17, "WHITE justice", "飛蘭", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93335"]
+links = ["https://beta.musicbrainz.org/release/d8b92eb6-8e69-4dc2-aedd-2cf970c155fd", "https://vgmdb.net/album/86549"]
 
-[2d4d1d04a45ecffc81c6231c67c4db25]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Vocal Disc 3"
+[4d6feed52a44f681b3c0d8f59c031340]
+catalognumber = "LACA-9683~5"
+date = "2019-07-24"
+album = "mind as ROCK! / Faylan Disc 3 (CD) [LACA-9685]"
 tracks = [
-    [1, "happy bite", "八九寺真宵(加藤英美里)", 0],
-    [2, "光のオクターブ", "アゲマキ・ワコ (早見沙織)", 0],
-    [3, "七つの海よりキミの海", "上坂すみれ", 0],
-    [4, "もうそう♡えくすぷれす", "千石撫子(花澤香菜)", 0],
-    [5, "木枯らしセンティメント", "戦場ヶ原ひたぎ(斎藤千和) & 貝木泥舟(三木眞一郎)", 0],
-    [6, "タチアガレ!", "Wake Up, Girls!", 0],
-    [7, "M@STERPIECE", "765PRO ALLSTARS", 0],
-    [8, "夢幻の華", "夢塔ハナ（CV:茅野愛衣）", 0],
-    [9, "最後のラブレター", "ナギ（CV:戸松遥）", 0],
-    [10, "étoile et toi [édition le blanc]", "Clémentine & Ainhoa", 0],
-    [11, "terminal terminal", "八九寺真宵(加藤英美里)", 0],
-    [12, "dreamy date drive", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [13, "Stand by...MUSIC!!!", "仲村宗悟, 山谷祥生, 狩野翔, 山崎はるか, 田所あずさ, Machico, 亜咲花, 伊藤美来, 内田彩, 内田真礼, オーイシマサヨシ, GRANRODEO（KISHOW）, 鈴木このみ, 鈴木みのり, 竹達彩奈, TRUE, fhána & 悠木碧", 0],
-    [14, "Bright Burning Shout", "西川貴教", 0],
-    [15, "awakening", "西川貴教", 0],
-    [16, "さようならのパレード", "Wake Up, Girls!", 0],
+    [1, "Polaris", "飛蘭", 0],
+    [2, "CHOOSE THE WORLD", "飛蘭", 0],
+    [3, "東京ゼロハーツ", "飛蘭", 0],
+    [4, "百華繚乱～乱レ華～", "Faylan", 0],
+    [5, "God FATE", "Faylan", 0],
+    [6, "螺旋、或いは聖なる欲望。", "飛蘭", 0],
+    [7, "素晴らしい世界へ", "飛蘭", 0],
+    [8, "BLAZBLUE ～蒼光-ヒカリ-の向こうへ～", "Faylan", 0],
+    [9, "グリム", "Faylan", 0],
+    [10, "創世のタナトス", "飛蘭", 0],
+    [11, "BLUE desire", "Faylan", 0],
+    [12, "CHANGE THE DESTiNY", "Faylan", 0],
+    [13, "MOTHER!", "飛蘭", 0],
+    [14, "HAPPY SOUL DANCE", "Faylan", 0],
+    [15, "Dead END", "飛蘭", 0],
+    [16, "Never Slash!!", "飛蘭", 0],
+    [17, "mind as ROCK!", "Faylan", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93335"]
+links = ["https://beta.musicbrainz.org/release/d8b92eb6-8e69-4dc2-aedd-2cf970c155fd", "https://vgmdb.net/album/86549"]
 
-[da94df6550c191c8b6ea3f8e86147224]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 4"
+[0ab478c2ecbc179416b74900497f9627]
+catalognumber = "LACA-9683~5"
+date = "2019-07-24"
+album = "mind as ROCK! / Faylan Disc 4 (Blu-ray) [LAPD-1545]"
 tracks = [
-    [1, "ある雨の日", "", 0],
-    [2, "いつもの風景", "", 0],
-    [3, "おいおい", "", 0],
-    [4, "好調好調", "", 0],
-    [5, "悲劇のヒロイン", "", 0],
-    [6, "フンフンフン♪だよ、らき☆すた", "", 0],
-    [7, "らっきー☆ちゃんねるのテーマ", "", 0],
-    [8, "ランランラン♪だよ、らき☆すた", "", 0],
-    [9, "次回予告だよ、らき☆すた", "", 0],
-    [10, "かなたのテーマ", "", 0],
-    [11, "はじまり", "", 0],
-    [12, "おほほほ", "", 0],
-    [13, "こうりん", "", 0],
-    [14, "かみのき", "", 0],
-    [15, "こもれび", "", 0],
-    [16, "序章", "", 0],
-    [17, "街談巷説", "", 0],
-    [18, "神域", "", 0],
-    [19, "以下、回想", "", 0],
-    [20, "戯言", "", 0],
-    [21, "白線マーチ", "", 0],
-    [22, "活動開始", "", 0],
-    [23, "おふざけマーチ", "", 0],
-    [24, "着ぐるみカエル隊", "", 0],
-    [25, "いつもの風景から始まる物語", "", 0],
-    [26, "SOS団再び", "", 0],
-    [27, "あの日の記憶を追いかけて", "", 0],
-    [28, "はじまり", "", 0],
-    [29, "俺の妹が(ry", "", 0],
-    [30, "兄貴の日常", "", 0],
-    [31, "＼(^o^)／", "", 0],
-    [32, "アキハバラマーチ", "", 0],
-    [33, "くぁwせdrftgyふじこlp", "", 0],
+    [1, "mind as ROCK! (MV)", "Faylan", 0],
 ]
-links = ["https://vgmdb.net/album/93335"]
+links = ["https://beta.musicbrainz.org/release/d8b92eb6-8e69-4dc2-aedd-2cf970c155fd", "https://vgmdb.net/album/86549"]
 
-[7cb170d9b13bab88ef6032ee3a2951ea]
-catalognumber = "SVWC-70501~6"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" [完全生産限定盤] Original Soundtrack Disc 5"
+[7dcab118c93392a5a441324769e3d196]
+catalognumber = "LZC-1903"
+date = "2021-06-30"
+album = "正解はひとつ！じゃない!! SAYAKAVER. ～triangle～ ver. / 佐咲紗花"
 tracks = [
-    [1, "絢爛", "神前暁", 0],
-    [2, "楽園", "神前暁 & MONACA", 0],
-    [3, "運命", "神前暁", 0],
-    [4, "銀河美少年", "神前暁", 0],
-    [5, "偽物", "神前暁", 0],
-    [6, "怪異の王", "神前暁", 0],
-    [7, "絆", "神前暁", 0],
-    [8, "恋", "神前暁", 0],
-    [9, "私の物語", "神前暁", 0],
-    [10, "真実からは程遠い存在", "神前暁", 0],
-    [11, "まがいものそのものの女", "神前暁", 0],
-    [12, "気まぐれ", "神前暁", 0],
-    [13, "昔語り", "神前暁", 0],
-    [14, "クチナワ", "神前暁", 0],
-    [15, "竜頭蛇尾", "神前暁", 0],
-    [16, "地獄の沙汰も金次第", "神前暁", 0],
-    [17, "血", "神前暁・高田龍一・帆足圭吾・難波研", 0],
-    [18, "鉄血篇 エンドロール", "神前暁・高田龍一・帆足圭吾・難波研", 0],
-    [19, "おっぱい", "神前暁", 0],
-    [20, "もしも", "神前暁", 0],
-    [21, "中学生の通学路", "神前暁", 0],
-    [22, "逃げ出せない", "神前暁", 0],
-    [23, "背伸び", "神前暁", 0],
-    [24, "天輪聖王", "神前暁 (MONACA)", 0],
-    [25, "おわらない僕らのMusic", "戸松遥 / 花澤香菜", 0],
+    [1, "正解はひとつ!じゃない!! SAYAKAVER. 〜triangle〜 ver.", "佐咲紗花", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/f678a48e-aaee-43a6-9fa4-d1ba37257411", "https://vgmdb.net/album/93335"]
+links = ["https://beta.musicbrainz.org/release/13b75eee-fa91-4984-9cef-e8deba5ea74e", "https://vgmdb.net/album/112650"]
 
-[13ea151f6c4764e65e583f6a4152e92c]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 1 [SVWC-70507]"
+[da8bb112f058b5c7a793a615ef277f62]
+catalognumber = "LACA-15939"
+date = "2022-03-16"
+album = "CLUB Lantis presents Remix the Future"
 tracks = [
-    [1, "ふたりのもじぴったん(fine c'est la mix)", "神前暁", 0],
-    [2, "God knows...", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [3, "Lost my music", "涼宮ハルヒ (C.V.平野綾)", 0],
-    [4, "GO MY WAY!!(M@STER VERSION)", "天海春香(CV:中村繪里子), 高槻やよい(CV:仁後真耶子), 水瀬伊織(CV:釘宮理恵)", 0],
-    [5, "もってけ！セーラーふく", "泉こなた（平野 綾）、柊かがみ（加藤英美里）、柊つかさ（福原香織）、高良みゆき（遠藤 綾）", 0],
-    [6, "幸せ願う彼方から", "泉かなた（島本須美）", 0],
-    [7, "セキレイ", "結(早見沙織)×月海(井上麻里奈)×草野(花澤香菜)×松(遠藤綾)", 0],
-    [8, "motto☆派手にね!", "戸松遥", 0],
-    [9, "Super Driver", "平野綾", 0],
-    [10, "staple stable", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [11, "帰り道", "八九寺真宵(加藤英美里)", 0],
-    [12, "ambivalent world", "神原駿河(沢城みゆき)", 0],
-    [13, "恋愛サーキュレーション", "千石撫子(花澤香菜)", 0],
-    [14, "sugar sweet nightmare", "羽川翼(堀江由衣)", 0],
-    [15, "りある＿りあるが＿あんりある", "蝶伝寺さすけ(CV:小野大輔), 蝶伝寺ねね(CV:後藤沙緒里)", 0],
-    [16, "雨上がりのミライ", "ミルキィホームズ", 0],
+    [1, "聖少女領域 (FAIZ Remix)", "ALI PROJECT", 0],
+    [2, "ワガママMIRROR HEART (yuzen Remix)", "大橋彩香", 0],
+    [3, "快眠！安眠！スヤリスト生活 (DC Mizey Remix)", "スヤリス姫 (CV.水瀬いのり)", 0],
+    [4, "流星ダンスフロア (Musicarus Remix)", "ORESAMA", 0],
+    [5, "Sparkling Daydream (the dig account Remix)", "ZAQ", 0],
+    [6, "Lovely Girls Anthem (Soulecta Remix)", "麻生夏子", 0],
+    [7, "Zzz (Kijibato Remix)", "佐咲紗花", 0],
+    [8, "ハレ晴レユカイ (ALRT Remix)", "平野 綾、茅原実里、後藤邑子", 0],
+    [9, "The Other Side of the Wall [kleemLO Remix]", "Void Chords feat. MARU", 0],
+    [10, "Sincerely (osirasekita Remix)", "TRUE", 0],
+    [11, "おかえり (cute girls doing cute things Remix)", "宮内れんげ (CV.小岩井ことり)、一条 蛍 (CV.村川梨衣)、越谷夏海 (CV.佐倉綾音)、越谷小鞠 (CV.阿澄佳奈)", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
+links = ["https://beta.musicbrainz.org/release/31ab01c3-41db-46e1-9d49-1dca0c8b44b3", "https://vgmdb.net/album/116799"]
 
-[4083d1d504272a0c392816886cc966a4]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 2 [SVWC-70508]"
+[ddcb0e1fb972a4ec1a58d902115ab96c]
+catalognumber = "LACA-15920"
+date = "2022-03-23"
+album = "SAYAKAVER. 〜triangle〜 / 佐咲紗花"
 tracks = [
-    [1, "SOMEONE ELSE", "種島ぽぷら(CV:阿澄佳奈)・伊波まひる(CV:藤田咲)・轟八千代(CV:喜多村英梨)", 0],
-    [2, "ハートのエッジに挑もう Go to Heart Edge", "小鳥遊宗太(CV:福山潤)・佐藤潤(CV:小野大輔)・相馬博臣(CV:神谷浩史)", 0],
-    [3, "モノクローム ～ version de l'apprivoiser", "気多の巫女 (戸松遥)", 0],
-    [4, "ただいま。", "高坂桐乃(竹達彩奈)", 0],
-    [5, "めてお☆いんぱくと", "メルル(田村ゆかり)", 0],
-    [6, "Morning Arch", "河野マリナ", 0],
-    [7, "ハミングガール", "るん(福原香織)、トオル(悠木碧)、ナギ(内山夕実)、ユー子(寿美菜子)", 0],
-    [8, "READY!!（M@STER VERSION）", "765PRO ALLSTARS", 0],
-    [9, "二言目", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [10, "marshmallow justice", "阿良々木火憐(喜多村英梨)", 0],
-    [11, "白金ディスコ", "阿良々木月火(井口裕香)", 0],
-    [12, "たからもの", "河野マリナ", 0],
-    [13, "お後がよろしくって…よ!", "極♨落女会", 0],
-    [14, "アラタなるセカイ", "河野マリナ", 0],
-    [15, "happy endings", "花澤香菜", 0],
-    [16, "perfect slumbers", "羽川翼(堀江由衣)", 0],
-    [17, "chocolate insomnia", "羽川翼(堀江由衣)", 0],
+    [1, "正解はひとつ!じゃない!!", "佐咲紗花", 0],
+    [2, "花ハ踊レヤいろはにほ", "佐咲紗花", 0],
+    [3, "カレンダーガール", "佐咲紗花", 0],
+    [4, "徒花ネクロマンシー", "佐咲紗花", 0],
+    [5, "廻廻奇譚", "佐咲紗花", 0],
+    [6, "怪物", "佐咲紗花", 0],
+    [7, "Stay Alive", "佐咲紗花", 0],
+    [8, "回レ!雪月花", "佐咲紗花 × atsuko (angela)", 0],
+    [9, "ポラリス", "佐咲紗花", 0],
+    [10, "牙狼〜SAVIOR IN THE DARK〜", "佐咲紗花", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
+links = ["https://beta.musicbrainz.org/release/1447a1ea-6a0e-4258-aeb9-823c1a281483", "https://vgmdb.net/album/117644"]
 
-[08b6a901250b0780dd48dc102070f531]
-catalognumber = "SVWC-70507~9"
-date = "2020-03-18"
-album = "神前暁 20th Anniversary Selected Works \"DAWN\" Disc 3 [SVWC-70509]"
+[78bdf539e46ff1039ae22eb2289417a9]
+catalognumber = "GNCA-1629"
+date = "2022-12-21"
+album = "ジャーニーズ・トランク / 南條愛乃 Vocal"
 tracks = [
-    [1, "happy bite", "八九寺真宵(加藤英美里)", 0],
-    [2, "光のオクターブ", "アゲマキ・ワコ (早見沙織)", 0],
-    [3, "七つの海よりキミの海", "上坂すみれ", 0],
-    [4, "もうそう♡えくすぷれす", "千石撫子(花澤香菜)", 0],
-    [5, "木枯らしセンティメント", "戦場ヶ原ひたぎ(斎藤千和) & 貝木泥舟(三木眞一郎)", 0],
-    [6, "タチアガレ!", "Wake Up, Girls!", 0],
-    [7, "M@STERPIECE", "765PRO ALLSTARS", 0],
-    [8, "夢幻の華", "夢塔ハナ（CV:茅野愛衣）", 0],
-    [9, "最後のラブレター", "ナギ（CV:戸松遥）", 0],
-    [10, "étoile et toi [édition le blanc]", "Clémentine & Ainhoa", 0],
-    [11, "terminal terminal", "八九寺真宵(加藤英美里)", 0],
-    [12, "dreamy date drive", "戦場ヶ原ひたぎ(斎藤千和)", 0],
-    [13, "Stand by...MUSIC!!!", "仲村宗悟, 山谷祥生, 狩野翔, 山崎はるか, 田所あずさ, Machico, 亜咲花, 伊藤美来, 内田彩, 内田真礼, オーイシマサヨシ, GRANRODEO（KISHOW）, 鈴木このみ, 鈴木みのり, 竹達彩奈, TRUE, fhána & 悠木碧", 0],
-    [14, "Bright Burning Shout", "西川貴教", 0],
-    [15, "awakening", "西川貴教", 0],
-    [16, "さようならのパレード", "Wake Up, Girls!", 0],
+    [1, "blue -青の記憶-", "南條愛乃", 0],
+    [2, "最初の10歩", "南條愛乃", 0],
+    [3, "雨音と潮騒", "南條愛乃", 0],
+    [4, "シンプル", "南條愛乃", 0],
+    [5, "EVOLUTiON:", "南條愛乃", 0],
+    [6, "この胸に名もなき星", "南條愛乃", 0],
+    [7, "静夜行", "南條愛乃", 0],
+    [8, "IRO", "南條愛乃", 0],
+    [9, "ヒトリとキミと", "南條愛乃", 0],
+    [10, "ヨルゴト", "南條愛乃", 0],
+    [11, "Lonely voyage", "南條愛乃", 0],
+    [12, "ハートリップ", "南條愛乃", 0],
+    [13, "ジャーニーズ・トランク", "南條愛乃", 0],
 ]
-links = ["https://beta.musicbrainz.org/release/293d4f84-74c4-480b-84da-a32cc7502e8c", "https://vgmdb.net/album/93336"]
+links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
+
+[8fd5175271ed429106a9f5c3a04af0b2]
+catalognumber = "GNCA-1629"
+date = "2022-12-21"
+album = "ジャーニーズ・トランク / 南條愛乃 Arrangement, Vocal"
+tracks = [
+    [1, "鏖鋸・シュルシャガナ", "南條愛乃", 0],
+    [2, "SENSE OF DISTANCE", "南條愛乃", 0],
+    [3, "冬がくれた予感", "南條愛乃", 0],
+    [4, "Lost Heaven", "南條愛乃", 0],
+    [5, "ココロノエデン", "南條愛乃", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
+
+[86342213583baeaad66e54d5fa335a94]
+catalognumber = "GNCA-1629"
+date = "2022-12-21"
+album = "ジャーニーズ・トランク / 南條愛乃 Vocal, Video"
+tracks = [
+    [1, "ジャーニーズ・トランク (MV) <short ver.>", "南條愛乃", 0],
+    [2, "南條一間 〜シーズン6〜 #01 じじいとわたしと10周年", "南條愛乃", 0],
+    [3, "南條一間 〜シーズン6〜 #02 じじいとわたしとパーティー", "南條愛乃", 0],
+    [4, "南條一間 〜シーズン6〜 #03 じじいとわたしと旅", "南條愛乃", 0],
+    [5, "南條一間 〜シーズン6〜 #04 じじいとわたしとシーリングスタンプ", "南條愛乃", 0],
+    [6, "南條一間 〜シーズン6〜 #05 じじいとわたしと梅干し", "南條愛乃", 0],
+    [7, "南條一間 〜シーズン6〜 #06 じじいとわたしとロビンとマッシュ", "南條愛乃", 0],
+]
+links = ["https://beta.musicbrainz.org/release/7b5d513f-c8c5-4f2d-8b61-911b024b81fd", "https://vgmdb.net/album/123907"]
