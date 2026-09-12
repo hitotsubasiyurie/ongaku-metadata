@@ -1014,6 +1014,18 @@ tracks = [
 ]
 links = ["https://www.dojin-music.info/cd/291"]
 
+[2498768839278a5687311959e13c6496]
+catalognumber = ""
+date = "2006-08-13"
+album = "Clover Songs"
+tracks = [
+    [1, "Sings Clover", "CLOCK MUSIC", 0],
+    [2, "片想い", "CLOCK MUSIC", 0],
+    [3, "大切なもの", "CLOCK MUSIC", 0],
+    [4, "今日はあしたへ", "CLOCK MUSIC", 0],
+]
+links = ["https://beta.musicbrainz.org/release/415976cc-1229-4304-bc6e-90cfd7aa395b"]
+
 [f4c9fdf0901fed2c7fe7728022bc3470]
 catalognumber = ""
 date = "2006-08-20"
@@ -3325,7 +3337,7 @@ tracks = [
     [2, "れみんぐ", "茶太", 0],
     [3, "イイコ", "茶太", 0],
     [4, "滑稽というなかれ", "茶太", 0],
-    [5, "(笑)", "茶太", 0],
+    [5, "(笑)", "茶太", 1],
     [6, "落日", "茶太", 0],
     [7, "macrophage", "茶太", 0],
 ]
@@ -4479,6 +4491,28 @@ tracks = [
     [12, "Red Deception", "びびあん", 0],
 ]
 links = ["https://www.dojin-music.info/cd/7666"]
+
+[14218fb8a1e0315cad775d86772df55c]
+catalognumber = ""
+date = "2012-08-11"
+album = "Private Films"
+tracks = [
+    [1, "SKYLINE", "HUMMING LIFE", 0],
+    [2, "神様のいたずら", "HUMMING LIFE", 0],
+    [3, "虹", "HUMMING LIFE", 0],
+    [4, "風待ちノート", "HUMMING LIFE", 0],
+    [5, "Songliar", "HUMMING LIFE", 0],
+    [6, "ひなた", "HUMMING LIFE", 0],
+    [7, "東京", "HUMMING LIFE", 0],
+    [8, "beta", "HUMMING LIFE", 0],
+    [9, "月と空のワルツ", "HUMMING LIFE", 0],
+    [10, "大好き！", "HUMMING LIFE", 0],
+    [11, "トビラ", "HUMMING LIFE", 0],
+    [12, "風に吹かれて", "HUMMING LIFE", 0],
+    [13, "Peaceful Days", "HUMMING LIFE", 0],
+    [14, "Happy Webbing (Bonus Track)", "HUMMING LIFE", 0],
+]
+links = ["https://beta.musicbrainz.org/release/a8548a80-ade9-4545-8577-64895354ec96"]
 
 [19de1bf1dc8dcfb445292618e93a9fc0]
 catalognumber = ""
